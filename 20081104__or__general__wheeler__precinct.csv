@@ -137,15 +137,15 @@ Wheeler,Spray,State House,59,Over Votes,0
 Wheeler,Fossil,State House,59,Under Votes,31
 Wheeler,Mitchell,State House,59,Under Votes,12
 Wheeler,Spray,State House,59,Under Votes,19
-Wheeler,Fossil,State Senate,,Ted Ferrioli,250
-Wheeler,Mitchell,State Senate,,Ted Ferrioli,183
-Wheeler,Spray,State Senate,,Ted Ferrioli,166
-Wheeler,Fossil,State Senate,,Write-ins,12
-Wheeler,Mitchell,State Senate,,Write-ins,3
-Wheeler,Spray,State Senate,,Write-ins,4
-Wheeler,Fossil,State Senate,,Over Votes,0
-Wheeler,Mitchell,State Senate,,Over Votes,0
-Wheeler,Spray,State Senate,,Over Votes,0
-Wheeler,Fossil,State Senate,,Under Votes,100
-Wheeler,Mitchell,State Senate,,Under Votes,49
-Wheeler,Spray,State Senate,,Under Votes,63
+Wheeler,Fossil,State Senate,30,Ted Ferrioli,250
+Wheeler,Mitchell,State Senate,30,Ted Ferrioli,183
+Wheeler,Spray,State Senate,30,Ted Ferrioli,166
+Wheeler,Fossil,State Senate,30,Write-ins,12
+Wheeler,Mitchell,State Senate,30,Write-ins,3
+Wheeler,Spray,State Senate,30,Write-ins,4
+Wheeler,Fossil,State Senate,30,Over Votes,0
+Wheeler,Mitchell,State Senate,30,Over Votes,0
+Wheeler,Spray,State Senate,30,Over Votes,0
+Wheeler,Fossil,State Senate,30,Under Votes,100
+Wheeler,Mitchell,State Senate,30,Under Votes,49
+Wheeler,Spray,State Senate,30,Under Votes,63
