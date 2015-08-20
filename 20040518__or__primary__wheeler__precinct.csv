@@ -1,0 +1,220 @@
+county,precinct,office,party,district,candidate,votes
+Wheeler,Fossil #1,President,D,,"Lyndon h. Larouche, Jr.",5
+Wheeler,Mitchell #3,President,D,,"Lyndon h. Larouche, Jr.",1
+Wheeler,Spray #4,President,D,,"Lyndon h. Larouche, Jr.",3
+Wheeler,Fossil #1,President,D,,John F. Kerry,57
+Wheeler,Mitchell #3,President,D,,John F. Kerry,37
+Wheeler,Spray #4,President,D,,John F. Kerry,24
+Wheeler,Fossil #1,President,D,,Dennis J. Kucinich,13
+Wheeler,Mitchell #3,President,D,,Dennis J. Kucinich,4
+Wheeler,Spray #4,President,D,,Dennis J. Kucinich,9
+Wheeler,Fossil #1,President,D,,Over Votes,0
+Wheeler,Mitchell #3,President,D,,Over Votes,0
+Wheeler,Spray #4,President,D,,Over Votes,0
+Wheeler,Fossil #1,President,D,,Under Votes,13
+Wheeler,Mitchell #3,President,D,,Under Votes,5
+Wheeler,Spray #4,President,D,,Under Votes,7
+Wheeler,Fossil #1,President,D,,Write-ins,8
+Wheeler,Mitchell #3,President,D,,Write-ins,5
+Wheeler,Spray #4,President,D,,Write-ins,10
+Wheeler,Fossil #1,U.S. Senate,D,,Ron Wyden,90
+Wheeler,Mitchell #3,U.S. Senate,D,,Ron Wyden,47
+Wheeler,Spray #4,U.S. Senate,D,,Ron Wyden,41
+Wheeler,Fossil #1,U.S. Senate,D,,Over Votes,0
+Wheeler,Mitchell #3,U.S. Senate,D,,Over Votes,0
+Wheeler,Spray #4,U.S. Senate,D,,Over Votes,0
+Wheeler,Fossil #1,U.S. Senate,D,,Under Votes,6
+Wheeler,Mitchell #3,U.S. Senate,D,,Under Votes,4
+Wheeler,Spray #4,U.S. Senate,D,,Under Votes,12
+Wheeler,Fossil #1,U.S. Senate,D,,Write-ins,0
+Wheeler,Mitchell #3,U.S. Senate,D,,Write-ins,1
+Wheeler,Spray #4,U.S. Senate,D,,Write-ins,0
+Wheeler,Fossil #1,U.S. House,D,2,John C. McColgan,66
+Wheeler,Mitchell #3,U.S. House,D,2,John C. McColgan,41
+Wheeler,Spray #4,U.S. House,D,2,John C. McColgan,32
+Wheeler,Fossil #1,U.S. House,D,2,Over Votes,0
+Wheeler,Mitchell #3,U.S. House,D,2,Over Votes,0
+Wheeler,Spray #4,U.S. House,D,2,Over Votes,0
+Wheeler,Fossil #1,U.S. House,D,2,Under Votes,29
+Wheeler,Mitchell #3,U.S. House,D,2,Under Votes,8
+Wheeler,Spray #4,U.S. House,D,2,Under Votes,21
+Wheeler,Fossil #1,U.S. House,D,2,Write-ins,1
+Wheeler,Mitchell #3,U.S. House,D,2,Write-ins,3
+Wheeler,Spray #4,U.S. House,D,2,Write-ins,0
+Wheeler,Fossil #1,Secretary of State,D,,Bill Bradbury,72
+Wheeler,Mitchell #3,Secretary of State,D,,Bill Bradbury,42
+Wheeler,Spray #4,Secretary of State,D,,Bill Bradbury,34
+Wheeler,Fossil #1,Secretary of State,D,,Paul Damian Wells,13
+Wheeler,Mitchell #3,Secretary of State,D,,Paul Damian Wells,8
+Wheeler,Spray #4,Secretary of State,D,,Paul Damian Wells,8
+Wheeler,Fossil #1,Secretary of State,D,,Over Votes,0
+Wheeler,Mitchell #3,Secretary of State,D,,Over Votes,0
+Wheeler,Spray #4,Secretary of State,D,,Over Votes,0
+Wheeler,Fossil #1,Secretary of State,D,,Under Votes,11
+Wheeler,Mitchell #3,Secretary of State,D,,Under Votes,2
+Wheeler,Spray #4,Secretary of State,D,,Under Votes,11
+Wheeler,Fossil #1,Secretary of State,D,,Write-ins,0
+Wheeler,Mitchell #3,Secretary of State,D,,Write-ins,0
+Wheeler,Spray #4,Secretary of State,D,,Write-ins,0
+Wheeler,Fossil #1,State Treasurer,D,,Randall Edwards,75
+Wheeler,Mitchell #3,State Treasurer,D,,Randall Edwards,44
+Wheeler,Spray #4,State Treasurer,D,,Randall Edwards,35
+Wheeler,Fossil #1,State Treasurer,D,,Over Votes,0
+Wheeler,Mitchell #3,State Treasurer,D,,Over Votes,0
+Wheeler,Spray #4,State Treasurer,D,,Over Votes,0
+Wheeler,Fossil #1,State Treasurer,D,,Under Votes,21
+Wheeler,Mitchell #3,State Treasurer,D,,Under Votes,7
+Wheeler,Spray #4,State Treasurer,D,,Under Votes,18
+Wheeler,Fossil #1,State Treasurer,D,,Write-ins,0
+Wheeler,Mitchell #3,State Treasurer,D,,Write-ins,1
+Wheeler,Spray #4,State Treasurer,D,,Write-ins,0
+Wheeler,Fossil #1,Attorney General,D,,Hardy Myers,77
+Wheeler,Mitchell #3,Attorney General,D,,Hardy Myers,43
+Wheeler,Spray #4,Attorney General,D,,Hardy Myers,37
+Wheeler,Fossil #1,Attorney General,D,,Over Votes,0
+Wheeler,Mitchell #3,Attorney General,D,,Over Votes,0
+Wheeler,Spray #4,Attorney General,D,,Over Votes,0
+Wheeler,Fossil #1,Attorney General,D,,Under Votes,18
+Wheeler,Mitchell #3,Attorney General,D,,Under Votes,8
+Wheeler,Spray #4,Attorney General,D,,Under Votes,16
+Wheeler,Fossil #1,Attorney General,D,,Write-ins,1
+Wheeler,Mitchell #3,Attorney General,D,,Write-ins,1
+Wheeler,Spray #4,Attorney General,D,,Write-ins,0
+Wheeler,Fossil #1,State Senate,D,30,Over Votes,0
+Wheeler,Mitchell #3,State Senate,D,30,Over Votes,0
+Wheeler,Spray #4,State Senate,D,30,Over Votes,0
+Wheeler,Fossil #1,State Senate,D,30,Under Votes,90
+Wheeler,Mitchell #3,State Senate,D,30,Under Votes,50
+Wheeler,Spray #4,State Senate,D,30,Under Votes,52
+Wheeler,Fossil #1,State Senate,D,30,Write-ins,6
+Wheeler,Mitchell #3,State Senate,D,30,Write-ins,2
+Wheeler,Spray #4,State Senate,D,30,Write-ins,1
+Wheeler,Fossil #1,State House,D,59,Jack E. Lorts,74
+Wheeler,Mitchell #3,State House,D,59,Jack E. Lorts,43
+Wheeler,Spray #4,State House,D,59,Jack E. Lorts,31
+Wheeler,Fossil #1,State House,D,59,Over Votes,0
+Wheeler,Mitchell #3,State House,D,59,Over Votes,0
+Wheeler,Spray #4,State House,D,59,Over Votes,0
+Wheeler,Fossil #1,State House,D,59,Under Votes,20
+Wheeler,Mitchell #3,State House,D,59,Under Votes,9
+Wheeler,Spray #4,State House,D,59,Under Votes,21
+Wheeler,Fossil #1,State House,D,59,Write-ins,2
+Wheeler,Mitchell #3,State House,D,59,Write-ins,0
+Wheeler,Spray #4,State House,D,59,Write-ins,1
+Wheeler,Fossil #1,President,R,,George W. Bush,73
+Wheeler,Mitchell #3,President,R,,George W. Bush,64
+Wheeler,Spray #4,President,R,,George W. Bush,80
+Wheeler,Fossil #1,President,R,,Over Votes,0
+Wheeler,Mitchell #3,President,R,,Over Votes,0
+Wheeler,Spray #4,President,R,,Over Votes,0
+Wheeler,Fossil #1,President,R,,Under Votes,10
+Wheeler,Mitchell #3,President,R,,Under Votes,2
+Wheeler,Spray #4,President,R,,Under Votes,3
+Wheeler,Fossil #1,President,R,,Write-ins,2
+Wheeler,Mitchell #3,President,R,,Write-ins,0
+Wheeler,Spray #4,President,R,,Write-ins,7
+Wheeler,Fossil #1,U.S. Senate,R,,Pavel Goberman,6
+Wheeler,Mitchell #3,U.S. Senate,R,,Pavel Goberman,2
+Wheeler,Spray #4,U.S. Senate,R,,Pavel Goberman,3
+Wheeler,Fossil #1,U.S. Senate,R,,Al King,10
+Wheeler,Mitchell #3,U.S. Senate,R,,Al King,19
+Wheeler,Spray #4,U.S. Senate,R,,Al King,14
+Wheeler,Fossil #1,U.S. Senate,R,,Bruce Broussard,14
+Wheeler,Mitchell #3,U.S. Senate,R,,Bruce Broussard,6
+Wheeler,Spray #4,U.S. Senate,R,,Bruce Broussard,8
+Wheeler,Fossil #1,U.S. Senate,R,,E. Bowerman,14
+Wheeler,Mitchell #3,U.S. Senate,R,,E. Bowerman,13
+Wheeler,Spray #4,U.S. Senate,R,,E. Bowerman,17
+Wheeler,Fossil #1,U.S. Senate,R,,Philip Petrie,2
+Wheeler,Mitchell #3,U.S. Senate,R,,Philip Petrie,0
+Wheeler,Spray #4,U.S. Senate,R,,Philip Petrie,2
+Wheeler,Fossil #1,U.S. Senate,R,,Thomas Lee Abshier,7
+Wheeler,Mitchell #3,U.S. Senate,R,,Thomas Lee Abshier,5
+Wheeler,Spray #4,U.S. Senate,R,,Thomas Lee Abshier,10
+Wheeler,Fossil #1,U.S. Senate,R,,Over Votes,0
+Wheeler,Mitchell #3,U.S. Senate,R,,Over Votes,1
+Wheeler,Spray #4,U.S. Senate,R,,Over Votes,0
+Wheeler,Fossil #1,U.S. Senate,R,,Under Votes,31
+Wheeler,Mitchell #3,U.S. Senate,R,,Under Votes,16
+Wheeler,Spray #4,U.S. Senate,R,,Under Votes,32
+Wheeler,Fossil #1,U.S. Senate,R,,Write-ins,1
+Wheeler,Mitchell #3,U.S. Senate,R,,Write-ins,4
+Wheeler,Spray #4,U.S. Senate,R,,Write-ins,4
+Wheeler,Fossil #1,U.S. House,R,2,Greg Walden,80
+Wheeler,Mitchell #3,U.S. House,R,2,Greg Walden,59
+Wheeler,Spray #4,U.S. House,R,2,Greg Walden,71
+Wheeler,Fossil #1,U.S. House,R,2,Over Votes,0
+Wheeler,Mitchell #3,U.S. House,R,2,Over Votes,0
+Wheeler,Spray #4,U.S. House,R,2,Over Votes,0
+Wheeler,Fossil #1,U.S. House,R,2,Under Votes,5
+Wheeler,Mitchell #3,U.S. House,R,2,Under Votes,5
+Wheeler,Spray #4,U.S. House,R,2,Under Votes,17
+Wheeler,Fossil #1,U.S. House,R,2,Write-ins,0
+Wheeler,Mitchell #3,U.S. House,R,2,Write-ins,2
+Wheeler,Spray #4,U.S. House,R,2,Write-ins,2
+Wheeler,Fossil #1,Secretary of State,R,,Fred Granum,36
+Wheeler,Mitchell #3,Secretary of State,R,,Fred Granum,33
+Wheeler,Spray #4,Secretary of State,R,,Fred Granum,31
+Wheeler,Fossil #1,Secretary of State,R,,Betsy L. Close,22
+Wheeler,Mitchell #3,Secretary of State,R,,Betsy L. Close,23
+Wheeler,Spray #4,Secretary of State,R,,Betsy L. Close,39
+Wheeler,Fossil #1,Secretary of State,R,,Over Votes,0
+Wheeler,Mitchell #3,Secretary of State,R,,Over Votes,0
+Wheeler,Spray #4,Secretary of State,R,,Over Votes,0
+Wheeler,Fossil #1,Secretary of State,R,,Under Votes,27
+Wheeler,Mitchell #3,Secretary of State,R,,Under Votes,10
+Wheeler,Spray #4,Secretary of State,R,,Under Votes,18
+Wheeler,Fossil #1,Secretary of State,R,,Write-ins,0
+Wheeler,Mitchell #3,Secretary of State,R,,Write-ins,0
+Wheeler,Spray #4,Secretary of State,R,,Write-ins,2
+Wheeler,Fossil #1,State Treasurer,R,,Jeff Caton,54
+Wheeler,Mitchell #3,State Treasurer,R,,Jeff Caton,48
+Wheeler,Spray #4,State Treasurer,R,,Jeff Caton,53
+Wheeler,Fossil #1,State Treasurer,R,,Over Votes,0
+Wheeler,Mitchell #3,State Treasurer,R,,Over Votes,0
+Wheeler,Spray #4,State Treasurer,R,,Over Votes,0
+Wheeler,Fossil #1,State Treasurer,R,,Under Votes,31
+Wheeler,Mitchell #3,State Treasurer,R,,Under Votes,18
+Wheeler,Spray #4,State Treasurer,R,,Under Votes,34
+Wheeler,Fossil #1,State Treasurer,R,,Write-ins,0
+Wheeler,Mitchell #3,State Treasurer,R,,Write-ins,0
+Wheeler,Spray #4,State Treasurer,R,,Write-ins,3
+Wheeler,Fossil #1,Attorney General,R,,Paul Connolly,54
+Wheeler,Mitchell #3,Attorney General,R,,Paul Connolly,48
+Wheeler,Spray #4,Attorney General,R,,Paul Connolly,54
+Wheeler,Fossil #1,Attorney General,R,,Over Votes,0
+Wheeler,Mitchell #3,Attorney General,R,,Over Votes,0
+Wheeler,Spray #4,Attorney General,R,,Over Votes,0
+Wheeler,Fossil #1,Attorney General,R,,Under Votes,30
+Wheeler,Mitchell #3,Attorney General,R,,Under Votes,17
+Wheeler,Spray #4,Attorney General,R,,Under Votes,35
+Wheeler,Fossil #1,Attorney General,R,,Write-ins,1
+Wheeler,Mitchell #3,Attorney General,R,,Write-ins,1
+Wheeler,Spray #4,Attorney General,R,,Write-ins,1
+Wheeler,Fossil #1,State Senate,R,30,Ted Ferrioli,70
+Wheeler,Mitchell #3,State Senate,R,30,Ted Ferrioli,53
+Wheeler,Spray #4,State Senate,R,30,Ted Ferrioli,65
+Wheeler,Fossil #1,State Senate,R,30,Over Votes,0
+Wheeler,Mitchell #3,State Senate,R,30,Over Votes,0
+Wheeler,Spray #4,State Senate,R,30,Over Votes,0
+Wheeler,Fossil #1,State Senate,R,30,Under Votes,15
+Wheeler,Mitchell #3,State Senate,R,30,Under Votes,13
+Wheeler,Spray #4,State Senate,R,30,Under Votes,23
+Wheeler,Fossil #1,State Senate,R,30,Write-ins,0
+Wheeler,Mitchell #3,State Senate,R,30,Write-ins,0
+Wheeler,Spray #4,State Senate,R,30,Write-ins,2
+Wheeler,Fossil #1,State House,R,59,John H. Dallum,30
+Wheeler,Mitchell #3,State House,R,59,John H. Dallum,29
+Wheeler,Spray #4,State House,R,59,John H. Dallum,43
+Wheeler,Fossil #1,State House,R,59,M.D. Van Valkenburgh,24
+Wheeler,Mitchell #3,State House,R,59,M.D. Van Valkenburgh,16
+Wheeler,Spray #4,State House,R,59,M.D. Van Valkenburgh,13
+Wheeler,Fossil #1,State House,R,59,Over Votes,0
+Wheeler,Mitchell #3,State House,R,59,Over Votes,0
+Wheeler,Spray #4,State House,R,59,Over Votes,0
+Wheeler,Fossil #1,State House,R,59,Under Votes,29
+Wheeler,Mitchell #3,State House,R,59,Under Votes,21
+Wheeler,Spray #4,State House,R,59,Under Votes,31
+Wheeler,Fossil #1,State House,R,59,Write-ins,2
+Wheeler,Mitchell #3,State House,R,59,Write-ins,0
+Wheeler,Spray #4,State House,R,59,Write-ins,3
