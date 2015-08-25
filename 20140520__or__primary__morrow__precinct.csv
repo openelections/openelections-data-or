@@ -1,0 +1,231 @@
+county,precinct,office,party,district,candidate,votes
+Morrow,Boardman #1,U.S. Senate,D,,Pavel Goberman,6
+Morrow,Irrigon #2,U.S. Senate,D,,Pavel Goberman,9
+Morrow,Lexington #3,U.S. Senate,D,,Pavel Goberman,0
+Morrow,Ione #4,U.S. Senate,D,,Pavel Goberman,3
+Morrow,Heppner #5,U.S. Senate,D,,Pavel Goberman,11
+Morrow,Boardman #1,U.S. Senate,D,,Jeff Merkley,71
+Morrow,Irrigon #2,U.S. Senate,D,,Jeff Merkley,106
+Morrow,Lexington #3,U.S. Senate,D,,Jeff Merkley,19
+Morrow,Ione #4,U.S. Senate,D,,Jeff Merkley,36
+Morrow,Heppner #5,U.S. Senate,D,,Jeff Merkley,119
+Morrow,Boardman #1,U.S. Senate,D,,William Bryk,10
+Morrow,Irrigon #2,U.S. Senate,D,,William Bryk,10
+Morrow,Lexington #3,U.S. Senate,D,,William Bryk,6
+Morrow,Ione #4,U.S. Senate,D,,William Bryk,5
+Morrow,Heppner #5,U.S. Senate,D,,William Bryk,12
+Morrow,Boardman #1,U.S. Senate,D,,Write-ins,1
+Morrow,Irrigon #2,U.S. Senate,D,,Write-ins,4
+Morrow,Lexington #3,U.S. Senate,D,,Write-ins,2
+Morrow,Ione #4,U.S. Senate,D,,Write-ins,0
+Morrow,Heppner #5,U.S. Senate,D,,Write-ins,1
+Morrow,Boardman #1,U.S. Senate,D,,Over Votes,0
+Morrow,Irrigon #2,U.S. Senate,D,,Over Votes,0
+Morrow,Lexington #3,U.S. Senate,D,,Over Votes,0
+Morrow,Ione #4,U.S. Senate,D,,Over Votes,0
+Morrow,Heppner #5,U.S. Senate,D,,Over Votes,0
+Morrow,Boardman #1,U.S. Senate,D,,Under Votes,16
+Morrow,Irrigon #2,U.S. Senate,D,,Under Votes,13
+Morrow,Lexington #3,U.S. Senate,D,,Under Votes,7
+Morrow,Ione #4,U.S. Senate,D,,Under Votes,14
+Morrow,Heppner #5,U.S. Senate,D,,Under Votes,40
+Morrow,Boardman #1,U.S. House,D,2,C.F. (Frank) Vulliet,12
+Morrow,Irrigon #2,U.S. House,D,2,C.F. (Frank) Vulliet,20
+Morrow,Lexington #3,U.S. House,D,2,C.F. (Frank) Vulliet,5
+Morrow,Ione #4,U.S. House,D,2,C.F. (Frank) Vulliet,4
+Morrow,Heppner #5,U.S. House,D,2,C.F. (Frank) Vulliet,14
+Morrow,Boardman #1,U.S. House,D,2,Aelea Christofferson,39
+Morrow,Irrigon #2,U.S. House,D,2,Aelea Christofferson,53
+Morrow,Lexington #3,U.S. House,D,2,Aelea Christofferson,9
+Morrow,Ione #4,U.S. House,D,2,Aelea Christofferson,18
+Morrow,Heppner #5,U.S. House,D,2,Aelea Christofferson,66
+Morrow,Boardman #1,U.S. House,D,2,Barney Spera,17
+Morrow,Irrigon #2,U.S. House,D,2,Barney Spera,28
+Morrow,Lexington #3,U.S. House,D,2,Barney Spera,5
+Morrow,Ione #4,U.S. House,D,2,Barney Spera,7
+Morrow,Heppner #5,U.S. House,D,2,Barney Spera,17
+Morrow,Boardman #1,U.S. House,D,2,Write-ins,0
+Morrow,Irrigon #2,U.S. House,D,2,Write-ins,4
+Morrow,Lexington #3,U.S. House,D,2,Write-ins,1
+Morrow,Ione #4,U.S. House,D,2,Write-ins,2
+Morrow,Heppner #5,U.S. House,D,2,Write-ins,4
+Morrow,Boardman #1,U.S. House,D,2,Over Votes,0
+Morrow,Irrigon #2,U.S. House,D,2,Over Votes,0
+Morrow,Lexington #3,U.S. House,D,2,Over Votes,0
+Morrow,Ione #4,U.S. House,D,2,Over Votes,0
+Morrow,Heppner #5,U.S. House,D,2,Over Votes,0
+Morrow,Boardman #1,U.S. House,D,2,Under Votes,36
+Morrow,Irrigon #2,U.S. House,D,2,Under Votes,37
+Morrow,Lexington #3,U.S. House,D,2,Under Votes,14
+Morrow,Ione #4,U.S. House,D,2,Under Votes,27
+Morrow,Heppner #5,U.S. House,D,2,Under Votes,82
+Morrow,Boardman #1,Governor,D,,Ifeanyichukwu C. Diru,16
+Morrow,Irrigon #2,Governor,D,,Ifeanyichukwu C. Diru,31
+Morrow,Lexington #3,Governor,D,,Ifeanyichukwu C. Diru,11
+Morrow,Ione #4,Governor,D,,Ifeanyichukwu C. Diru,15
+Morrow,Heppner #5,Governor,D,,Ifeanyichukwu C. Diru,47
+Morrow,Boardman #1,Governor,D,,John Kitzhaber,72
+Morrow,Irrigon #2,Governor,D,,John Kitzhaber,97
+Morrow,Lexington #3,Governor,D,,John Kitzhaber,16
+Morrow,Ione #4,Governor,D,,John Kitzhaber,29
+Morrow,Heppner #5,Governor,D,,John Kitzhaber,105
+Morrow,Boardman #1,Governor,D,,Write-ins,0
+Morrow,Irrigon #2,Governor,D,,Write-ins,4
+Morrow,Lexington #3,Governor,D,,Write-ins,1
+Morrow,Ione #4,Governor,D,,Write-ins,0
+Morrow,Heppner #5,Governor,D,,Write-ins,1
+Morrow,Boardman #1,Governor,D,,Over Votes,0
+Morrow,Irrigon #2,Governor,D,,Over Votes,0
+Morrow,Lexington #3,Governor,D,,Over Votes,0
+Morrow,Ione #4,Governor,D,,Over Votes,0
+Morrow,Heppner #5,Governor,D,,Over Votes,0
+Morrow,Boardman #1,Governor,D,,Under Votes,16
+Morrow,Irrigon #2,Governor,D,,Under Votes,10
+Morrow,Lexington #3,Governor,D,,Under Votes,6
+Morrow,Ione #4,Governor,D,,Under Votes,14
+Morrow,Heppner #5,Governor,D,,Under Votes,30
+Morrow,Boardman #1,State House,D,57,Write-ins,3
+Morrow,Irrigon #2,State House,D,57,Write-ins,7
+Morrow,Lexington #3,State House,D,57,Write-ins,4
+Morrow,Ione #4,State House,D,57,Write-ins,2
+Morrow,Heppner #5,State House,D,57,Write-ins,10
+Morrow,Boardman #1,State House,D,57,Over Votes,0
+Morrow,Irrigon #2,State House,D,57,Over Votes,0
+Morrow,Lexington #3,State House,D,57,Over Votes,0
+Morrow,Ione #4,State House,D,57,Over Votes,0
+Morrow,Heppner #5,State House,D,57,Over Votes,0
+Morrow,Boardman #1,State House,D,57,Under Votes,101
+Morrow,Irrigon #2,State House,D,57,Under Votes,135
+Morrow,Lexington #3,State House,D,57,Under Votes,30
+Morrow,Ione #4,State House,D,57,Under Votes,56
+Morrow,Heppner #5,State House,D,57,Under Votes,173
+Morrow,Boardman #1,U.S. Senate,R,,Monica Wehby,85
+Morrow,Irrigon #2,U.S. Senate,R,,Monica Wehby,100
+Morrow,Lexington #3,U.S. Senate,R,,Monica Wehby,49
+Morrow,Ione #4,U.S. Senate,R,,Monica Wehby,69
+Morrow,Heppner #5,U.S. Senate,R,,Monica Wehby,127
+Morrow,Boardman #1,U.S. Senate,R,,Jo Rae Perkins,8
+Morrow,Irrigon #2,U.S. Senate,R,,Jo Rae Perkins,10
+Morrow,Lexington #3,U.S. Senate,R,,Jo Rae Perkins,2
+Morrow,Ione #4,U.S. Senate,R,,Jo Rae Perkins,5
+Morrow,Heppner #5,U.S. Senate,R,,Jo Rae Perkins,11
+Morrow,Boardman #1,U.S. Senate,R,,Mark Callahan,18
+Morrow,Irrigon #2,U.S. Senate,R,,Mark Callahan,25
+Morrow,Lexington #3,U.S. Senate,R,,Mark Callahan,8
+Morrow,Ione #4,U.S. Senate,R,,Mark Callahan,18
+Morrow,Heppner #5,U.S. Senate,R,,Mark Callahan,32
+Morrow,Boardman #1,U.S. Senate,R,,Timothy I. Crawley,5
+Morrow,Irrigon #2,U.S. Senate,R,,Timothy I. Crawley,7
+Morrow,Lexington #3,U.S. Senate,R,,Timothy I. Crawley,1
+Morrow,Ione #4,U.S. Senate,R,,Timothy I. Crawley,3
+Morrow,Heppner #5,U.S. Senate,R,,Timothy I. Crawley,14
+Morrow,Boardman #1,U.S. Senate,R,,Jason Conger,76
+Morrow,Irrigon #2,U.S. Senate,R,,Jason Conger,71
+Morrow,Lexington #3,U.S. Senate,R,,Jason Conger,39
+Morrow,Ione #4,U.S. Senate,R,,Jason Conger,25
+Morrow,Heppner #5,U.S. Senate,R,,Jason Conger,107
+Morrow,Boardman #1,U.S. Senate,R,,Write-ins,0
+Morrow,Irrigon #2,U.S. Senate,R,,Write-ins,0
+Morrow,Lexington #3,U.S. Senate,R,,Write-ins,0
+Morrow,Ione #4,U.S. Senate,R,,Write-ins,1
+Morrow,Heppner #5,U.S. Senate,R,,Write-ins,1
+Morrow,Boardman #1,U.S. Senate,R,,Over Votes,0
+Morrow,Irrigon #2,U.S. Senate,R,,Over Votes,0
+Morrow,Lexington #3,U.S. Senate,R,,Over Votes,0
+Morrow,Ione #4,U.S. Senate,R,,Over Votes,0
+Morrow,Heppner #5,U.S. Senate,R,,Over Votes,0
+Morrow,Boardman #1,U.S. Senate,R,,Under Votes,24
+Morrow,Irrigon #2,U.S. Senate,R,,Under Votes,25
+Morrow,Lexington #3,U.S. Senate,R,,Under Votes,9
+Morrow,Ione #4,U.S. Senate,R,,Under Votes,18
+Morrow,Heppner #5,U.S. Senate,R,,Under Votes,46
+Morrow,Boardman #1,U.S. House,R,2,Greg Walden,155
+Morrow,Irrigon #2,U.S. House,R,2,Greg Walden,168
+Morrow,Lexington #3,U.S. House,R,2,Greg Walden,71
+Morrow,Ione #4,U.S. House,R,2,Greg Walden,109
+Morrow,Heppner #5,U.S. House,R,2,Greg Walden,242
+Morrow,Boardman #1,U.S. House,R,2,Dennis B. Linthicum,52
+Morrow,Irrigon #2,U.S. House,R,2,Dennis B. Linthicum,61
+Morrow,Lexington #3,U.S. House,R,2,Dennis B. Linthicum,33
+Morrow,Ione #4,U.S. House,R,2,Dennis B. Linthicum,21
+Morrow,Heppner #5,U.S. House,R,2,Dennis B. Linthicum,75
+Morrow,Boardman #1,U.S. House,R,2,Write-ins,0
+Morrow,Irrigon #2,U.S. House,R,2,Write-ins,1
+Morrow,Lexington #3,U.S. House,R,2,Write-ins,0
+Morrow,Ione #4,U.S. House,R,2,Write-ins,0
+Morrow,Heppner #5,U.S. House,R,2,Write-ins,1
+Morrow,Boardman #1,U.S. House,R,2,Over Votes,0
+Morrow,Irrigon #2,U.S. House,R,2,Over Votes,0
+Morrow,Lexington #3,U.S. House,R,2,Over Votes,0
+Morrow,Ione #4,U.S. House,R,2,Over Votes,0
+Morrow,Heppner #5,U.S. House,R,2,Over Votes,0
+Morrow,Boardman #1,U.S. House,R,2,Under Votes,9
+Morrow,Irrigon #2,U.S. House,R,2,Under Votes,8
+Morrow,Lexington #3,U.S. House,R,2,Under Votes,4
+Morrow,Ione #4,U.S. House,R,2,Under Votes,9
+Morrow,Heppner #5,U.S. House,R,2,Under Votes,20
+Morrow,Boardman #1,Governor,R,,Bruce A. Cuff,33
+Morrow,Irrigon #2,Governor,R,,Bruce A. Cuff,28
+Morrow,Lexington #3,Governor,R,,Bruce A. Cuff,15
+Morrow,Ione #4,Governor,R,,Bruce A. Cuff,14
+Morrow,Heppner #5,Governor,R,,Bruce A. Cuff,30
+Morrow,Boardman #1,Governor,R,,Gordon Challstrom,22
+Morrow,Irrigon #2,Governor,R,,Gordon Challstrom,15
+Morrow,Lexington #3,Governor,R,,Gordon Challstrom,11
+Morrow,Ione #4,Governor,R,,Gordon Challstrom,22
+Morrow,Heppner #5,Governor,R,,Gordon Challstrom,44
+Morrow,Boardman #1,Governor,R,,Tim Carr,12
+Morrow,Irrigon #2,Governor,R,,Tim Carr,10
+Morrow,Lexington #3,Governor,R,,Tim Carr,3
+Morrow,Ione #4,Governor,R,,Tim Carr,9
+Morrow,Heppner #5,Governor,R,,Tim Carr,12
+Morrow,Boardman #1,Governor,R,,Dennis Richardson,94
+Morrow,Irrigon #2,Governor,R,,Dennis Richardson,136
+Morrow,Lexington #3,Governor,R,,Dennis Richardson,51
+Morrow,Ione #4,Governor,R,,Dennis Richardson,54
+Morrow,Heppner #5,Governor,R,,Dennis Richardson,141
+Morrow,Boardman #1,Governor,R,,Mae Rafferty,20
+Morrow,Irrigon #2,Governor,R,,Mae Rafferty,25
+Morrow,Lexington #3,Governor,R,,Mae Rafferty,8
+Morrow,Ione #4,Governor,R,,Mae Rafferty,7
+Morrow,Heppner #5,Governor,R,,Mae Rafferty,27
+Morrow,Boardman #1,Governor,R,,Darren Karr,2
+Morrow,Irrigon #2,Governor,R,,Darren Karr,2
+Morrow,Lexington #3,Governor,R,,Darren Karr,0
+Morrow,Ione #4,Governor,R,,Darren Karr,0
+Morrow,Heppner #5,Governor,R,,Darren Karr,4
+Morrow,Boardman #1,Governor,R,,Write-ins,0
+Morrow,Irrigon #2,Governor,R,,Write-ins,4
+Morrow,Lexington #3,Governor,R,,Write-ins,0
+Morrow,Ione #4,Governor,R,,Write-ins,1
+Morrow,Heppner #5,Governor,R,,Write-ins,4
+Morrow,Boardman #1,Governor,R,,Over Votes,0
+Morrow,Irrigon #2,Governor,R,,Over Votes,0
+Morrow,Lexington #3,Governor,R,,Over Votes,0
+Morrow,Ione #4,Governor,R,,Over Votes,0
+Morrow,Heppner #5,Governor,R,,Over Votes,0
+Morrow,Boardman #1,Governor,R,,Under Votes,33
+Morrow,Irrigon #2,Governor,R,,Under Votes,18
+Morrow,Lexington #3,Governor,R,,Under Votes,20
+Morrow,Ione #4,Governor,R,,Under Votes,32
+Morrow,Heppner #5,Governor,R,,Under Votes,76
+Morrow,Boardman #1,State House,R,57,Greg Smith,174
+Morrow,Irrigon #2,State House,R,57,Greg Smith,214
+Morrow,Lexington #3,State House,R,57,Greg Smith,88
+Morrow,Ione #4,State House,R,57,Greg Smith,97
+Morrow,Heppner #5,State House,R,57,Greg Smith,294
+Morrow,Boardman #1,State House,R,57,Write-ins,4
+Morrow,Irrigon #2,State House,R,57,Write-ins,2
+Morrow,Lexington #3,State House,R,57,Write-ins,0
+Morrow,Ione #4,State House,R,57,Write-ins,5
+Morrow,Heppner #5,State House,R,57,Write-ins,0
+Morrow,Boardman #1,State House,R,57,Over Votes,0
+Morrow,Irrigon #2,State House,R,57,Over Votes,0
+Morrow,Lexington #3,State House,R,57,Over Votes,0
+Morrow,Ione #4,State House,R,57,Over Votes,0
+Morrow,Heppner #5,State House,R,57,Over Votes,0
+Morrow,Boardman #1,State House,R,57,Under Votes,38
+Morrow,Irrigon #2,State House,R,57,Under Votes,22
+Morrow,Lexington #3,State House,R,57,Under Votes,20
+Morrow,Ione #4,State House,R,57,Under Votes,37
+Morrow,Heppner #5,State House,R,57,Under Votes,44
