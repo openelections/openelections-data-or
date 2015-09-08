@@ -1,514 +1,554 @@
-"county","precinct","office","district","party","candidate","votes"
-"Benton","Precinct 01","U.S. House",4,"Republican ","Jim Feldkamp",36
-"Benton","Precinct 01","U.S. House",4,"Democrat ","Peter A. DeFazio",45
-"Benton","Precinct 01","U.S. House",4,,"Write-Ins ",0
-"Benton","Precinct 01","U.S. House",4,,"Under Votes ",5
-"Benton","Precinct 01","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 02","U.S. House",4,"Republican ","Jim Feldkamp",10
-"Benton","Precinct 02","U.S. House",4,"Democrat ","Peter A. DeFazio",84
-"Benton","Precinct 02","U.S. House",4,,"Write-Ins ",0
-"Benton","Precinct 02","U.S. House",4,,"Under Votes ",2
-"Benton","Precinct 02","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 03","U.S. House",4,"Republican ","Jim Feldkamp",502
-"Benton","Precinct 03","U.S. House",4,"Democrat ","Peter A. DeFazio",1377
-"Benton","Precinct 03","U.S. House",4,,"Write-Ins ",3
-"Benton","Precinct 03","U.S. House",4,,"Under Votes ",47
-"Benton","Precinct 03","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 04","U.S. House",4,"Republican ","Jim Feldkamp",10
-"Benton","Precinct 04","U.S. House",4,"Democrat ","Peter A. DeFazio",38
-"Benton","Precinct 04","U.S. House",4,,"Write-Ins ",0
-"Benton","Precinct 04","U.S. House",4,,"Under Votes ",0
-"Benton","Precinct 04","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 05","U.S. House",4,"Republican ","Jim Feldkamp",225
-"Benton","Precinct 05","U.S. House",4,"Democrat ","Peter A. DeFazio",1590
-"Benton","Precinct 05","U.S. House",4,,"Write-Ins ",3
-"Benton","Precinct 05","U.S. House",4,,"Under Votes ",39
-"Benton","Precinct 05","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 06","U.S. House",4,"Republican ","Jim Feldkamp",480
-"Benton","Precinct 06","U.S. House",4,"Democrat ","Peter A. DeFazio",1602
-"Benton","Precinct 06","U.S. House",4,,"Write-Ins ",5
-"Benton","Precinct 06","U.S. House",4,,"Under Votes ",42
-"Benton","Precinct 06","U.S. House",4,,"Over Votes ",1
-"Benton","Precinct 07","U.S. House",4,"Republican ","Jim Feldkamp",684
-"Benton","Precinct 07","U.S. House",4,"Democrat ","Peter A. DeFazio",2113
-"Benton","Precinct 07","U.S. House",4,,"Write-Ins ",2
-"Benton","Precinct 07","U.S. House",4,,"Under Votes ",50
-"Benton","Precinct 07","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 08","U.S. House",4,"Republican ","Jim Feldkamp",832
-"Benton","Precinct 08","U.S. House",4,"Democrat ","Peter A. DeFazio",2325
-"Benton","Precinct 08","U.S. House",4,,"Write-Ins ",2
-"Benton","Precinct 08","U.S. House",4,,"Under Votes ",52
-"Benton","Precinct 08","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 09","U.S. House",4,"Republican ","Jim Feldkamp",599
-"Benton","Precinct 09","U.S. House",4,"Democrat ","Peter A. DeFazio",1450
-"Benton","Precinct 09","U.S. House",4,,"Write-Ins ",4
-"Benton","Precinct 09","U.S. House",4,,"Under Votes ",40
-"Benton","Precinct 09","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 10","U.S. House",4,"Republican ","Jim Feldkamp",642
-"Benton","Precinct 10","U.S. House",4,"Democrat ","Peter A. DeFazio",985
-"Benton","Precinct 10","U.S. House",4,,"Write-Ins ",2
-"Benton","Precinct 10","U.S. House",4,,"Under Votes ",29
-"Benton","Precinct 10","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 11","U.S. House",4,"Republican ","Jim Feldkamp",314
-"Benton","Precinct 11","U.S. House",4,"Democrat ","Peter A. DeFazio",351
-"Benton","Precinct 11","U.S. House",4,,"Write-Ins ",0
-"Benton","Precinct 11","U.S. House",4,,"Under Votes ",11
-"Benton","Precinct 11","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 13","U.S. House",4,"Republican ","Jim Feldkamp",82
-"Benton","Precinct 13","U.S. House",4,"Democrat ","Peter A. DeFazio",143
-"Benton","Precinct 13","U.S. House",4,,"Write-Ins ",0
-"Benton","Precinct 13","U.S. House",4,,"Under Votes ",4
-"Benton","Precinct 13","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 14","U.S. House",4,"Republican ","Jim Feldkamp",213
-"Benton","Precinct 14","U.S. House",4,"Democrat ","Peter A. DeFazio",243
-"Benton","Precinct 14","U.S. House",4,,"Write-Ins ",1
-"Benton","Precinct 14","U.S. House",4,,"Under Votes ",14
-"Benton","Precinct 14","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 15","U.S. House",4,"Republican ","Jim Feldkamp",814
-"Benton","Precinct 15","U.S. House",4,"Democrat ","Peter A. DeFazio",1290
-"Benton","Precinct 15","U.S. House",4,,"Write-Ins ",3
-"Benton","Precinct 15","U.S. House",4,,"Under Votes ",42
-"Benton","Precinct 15","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 16","U.S. House",4,"Republican ","Jim Feldkamp",170
-"Benton","Precinct 16","U.S. House",4,"Democrat ","Peter A. DeFazio",350
-"Benton","Precinct 16","U.S. House",4,,"Write-Ins ",1
-"Benton","Precinct 16","U.S. House",4,,"Under Votes ",13
-"Benton","Precinct 16","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 17","U.S. House",4,"Republican ","Jim Feldkamp",209
-"Benton","Precinct 17","U.S. House",4,"Democrat ","Peter A. DeFazio",397
-"Benton","Precinct 17","U.S. House",4,,"Write-Ins ",0
-"Benton","Precinct 17","U.S. House",4,,"Under Votes ",5
-"Benton","Precinct 17","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 18","U.S. House",4,"Republican ","Jim Feldkamp",1
-"Benton","Precinct 18","U.S. House",4,"Democrat ","Peter A. DeFazio",13
-"Benton","Precinct 18","U.S. House",4,,"Write-Ins ",0
-"Benton","Precinct 18","U.S. House",4,,"Under Votes ",0
-"Benton","Precinct 18","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 19","U.S. House",4,"Republican ","Jim Feldkamp",452
-"Benton","Precinct 19","U.S. House",4,"Democrat ","Peter A. DeFazio",813
-"Benton","Precinct 19","U.S. House",4,,"Write-Ins ",2
-"Benton","Precinct 19","U.S. House",4,,"Under Votes ",29
-"Benton","Precinct 19","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 20","U.S. House",4,"Republican ","Jim Feldkamp",451
-"Benton","Precinct 20","U.S. House",4,"Democrat ","Peter A. DeFazio",560
-"Benton","Precinct 20","U.S. House",4,,"Write-Ins ",2
-"Benton","Precinct 20","U.S. House",4,,"Under Votes ",15
-"Benton","Precinct 20","U.S. House",4,,"Over Votes ",0
-"Benton","Precinct 01","U.S. House",5,"Republican ","Mike Erickson",968
-"Benton","Precinct 01","U.S. House",5,"Constitutn ","Douglas Patterson",20
-"Benton","Precinct 01","U.S. House",5,"Pacific Green ","Paul Aranas",66
-"Benton","Precinct 01","U.S. House",5,"Democrat ","Darlene Hooley",1767
-"Benton","Precinct 01","U.S. House",5,,"Write-Ins ",2
-"Benton","Precinct 01","U.S. House",5,,"Under Votes ",83
-"Benton","Precinct 01","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 02","U.S. House",5,"Republican ","Mike Erickson",175
-"Benton","Precinct 02","U.S. House",5,"Constitutn ","Douglas Patterson",10
-"Benton","Precinct 02","U.S. House",5,"Pacific Green ","Paul Aranas",77
-"Benton","Precinct 02","U.S. House",5,"Democrat ","Darlene Hooley",730
-"Benton","Precinct 02","U.S. House",5,,"Write-Ins ",2
-"Benton","Precinct 02","U.S. House",5,,"Under Votes ",35
-"Benton","Precinct 02","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 03","U.S. House",5,"Republican ","Mike Erickson",95
-"Benton","Precinct 03","U.S. House",5,"Constitutn ","Douglas Patterson",3
-"Benton","Precinct 03","U.S. House",5,"Pacific Green ","Paul Aranas",24
-"Benton","Precinct 03","U.S. House",5,"Democrat ","Darlene Hooley",231
-"Benton","Precinct 03","U.S. House",5,,"Write-Ins ",2
-"Benton","Precinct 03","U.S. House",5,,"Under Votes ",7
-"Benton","Precinct 03","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 04","U.S. House",5,"Republican ","Mike Erickson",213
-"Benton","Precinct 04","U.S. House",5,"Constitutn ","Douglas Patterson",5
-"Benton","Precinct 04","U.S. House",5,"Pacific Green ","Paul Aranas",47
-"Benton","Precinct 04","U.S. House",5,"Democrat ","Darlene Hooley",656
-"Benton","Precinct 04","U.S. House",5,,"Write-Ins ",1
-"Benton","Precinct 04","U.S. House",5,,"Under Votes ",47
-"Benton","Precinct 04","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 05","U.S. House",5,"Republican ","Mike Erickson",12
-"Benton","Precinct 05","U.S. House",5,"Constitutn ","Douglas Patterson",0
-"Benton","Precinct 05","U.S. House",5,"Pacific Green ","Paul Aranas",3
-"Benton","Precinct 05","U.S. House",5,"Democrat ","Darlene Hooley",25
-"Benton","Precinct 05","U.S. House",5,,"Write-Ins ",0
-"Benton","Precinct 05","U.S. House",5,,"Under Votes ",3
-"Benton","Precinct 05","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 07","U.S. House",5,"Republican ","Mike Erickson",22
-"Benton","Precinct 07","U.S. House",5,"Constitutn ","Douglas Patterson",2
-"Benton","Precinct 07","U.S. House",5,"Pacific Green ","Paul Aranas",3
-"Benton","Precinct 07","U.S. House",5,"Democrat ","Darlene Hooley",71
-"Benton","Precinct 07","U.S. House",5,,"Write-Ins ",0
-"Benton","Precinct 07","U.S. House",5,,"Under Votes ",2
-"Benton","Precinct 07","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 10","U.S. House",5,"Republican ","Mike Erickson",27
-"Benton","Precinct 10","U.S. House",5,"Constitutn ","Douglas Patterson",1
-"Benton","Precinct 10","U.S. House",5,"Pacific Green ","Paul Aranas",0
-"Benton","Precinct 10","U.S. House",5,"Democrat ","Darlene Hooley",38
-"Benton","Precinct 10","U.S. House",5,,"Write-Ins ",0
-"Benton","Precinct 10","U.S. House",5,,"Under Votes ",3
-"Benton","Precinct 10","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 11","U.S. House",5,"Republican ","Mike Erickson",1324
-"Benton","Precinct 11","U.S. House",5,"Constitutn ","Douglas Patterson",26
-"Benton","Precinct 11","U.S. House",5,"Pacific Green ","Paul Aranas",37
-"Benton","Precinct 11","U.S. House",5,"Democrat ","Darlene Hooley",1172
-"Benton","Precinct 11","U.S. House",5,,"Write-Ins ",3
-"Benton","Precinct 11","U.S. House",5,,"Under Votes ",86
-"Benton","Precinct 11","U.S. House",5,,"Over Votes ",1
-"Benton","Precinct 12","U.S. House",5,"Republican ","Mike Erickson",177
-"Benton","Precinct 12","U.S. House",5,"Constitutn ","Douglas Patterson",4
-"Benton","Precinct 12","U.S. House",5,"Pacific Green ","Paul Aranas",3
-"Benton","Precinct 12","U.S. House",5,"Democrat ","Darlene Hooley",118
-"Benton","Precinct 12","U.S. House",5,,"Write-Ins ",0
-"Benton","Precinct 12","U.S. House",5,,"Under Votes ",15
-"Benton","Precinct 12","U.S. House",5,,"Over Votes ",1
-"Benton","Precinct 15","U.S. House",5,"Republican ","Mike Erickson",11
-"Benton","Precinct 15","U.S. House",5,"Constitutn ","Douglas Patterson",1
-"Benton","Precinct 15","U.S. House",5,"Pacific Green ","Paul Aranas",2
-"Benton","Precinct 15","U.S. House",5,"Democrat ","Darlene Hooley",19
-"Benton","Precinct 15","U.S. House",5,,"Write-Ins ",0
-"Benton","Precinct 15","U.S. House",5,,"Under Votes ",0
-"Benton","Precinct 15","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 16","U.S. House",5,"Republican ","Mike Erickson",237
-"Benton","Precinct 16","U.S. House",5,"Constitutn ","Douglas Patterson",9
-"Benton","Precinct 16","U.S. House",5,"Pacific Green ","Paul Aranas",11
-"Benton","Precinct 16","U.S. House",5,"Democrat ","Darlene Hooley",395
-"Benton","Precinct 16","U.S. House",5,,"Write-Ins ",0
-"Benton","Precinct 16","U.S. House",5,,"Under Votes ",20
-"Benton","Precinct 16","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 17","U.S. House",5,"Republican ","Mike Erickson",770
-"Benton","Precinct 17","U.S. House",5,"Constitutn ","Douglas Patterson",24
-"Benton","Precinct 17","U.S. House",5,"Pacific Green ","Paul Aranas",53
-"Benton","Precinct 17","U.S. House",5,"Democrat ","Darlene Hooley",1282
-"Benton","Precinct 17","U.S. House",5,,"Write-Ins ",2
-"Benton","Precinct 17","U.S. House",5,,"Under Votes ",57
-"Benton","Precinct 17","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 18","U.S. House",5,"Republican ","Mike Erickson",639
-"Benton","Precinct 18","U.S. House",5,"Constitutn ","Douglas Patterson",10
-"Benton","Precinct 18","U.S. House",5,"Pacific Green ","Paul Aranas",14
-"Benton","Precinct 18","U.S. House",5,"Democrat ","Darlene Hooley",435
-"Benton","Precinct 18","U.S. House",5,,"Write-Ins ",1
-"Benton","Precinct 18","U.S. House",5,,"Under Votes ",36
-"Benton","Precinct 18","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 19","U.S. House",5,"Republican ","Mike Erickson",71
-"Benton","Precinct 19","U.S. House",5,"Constitutn ","Douglas Patterson",0
-"Benton","Precinct 19","U.S. House",5,"Pacific Green ","Paul Aranas",3
-"Benton","Precinct 19","U.S. House",5,"Democrat ","Darlene Hooley",137
-"Benton","Precinct 19","U.S. House",5,,"Write-Ins ",0
-"Benton","Precinct 19","U.S. House",5,,"Under Votes ",4
-"Benton","Precinct 19","U.S. House",5,,"Over Votes ",0
-"Benton","Precinct 06","Governor",,"Pacific Green ","Joe Keating",56
-"Benton","Precinct 06","Governor",,"Democrat ","Ted Kulongoski",1433
-"Benton","Precinct 06","Governor",,"Libertarian ","Richard Morley",32
-"Benton","Precinct 06","Governor",,"Constitution ","Mary Starrett",30
-"Benton","Precinct 06","Governor",,"Republican ","Ron Saxton",549
-"Benton","Precinct 06","Governor",,,"Write-Ins ",5
-"Benton","Precinct 06","Governor",,,"Under Votes ",23
-"Benton","Precinct 06","Governor",,,"Over Votes ",2
-"Benton","Precinct 07","Governor",,"Pacific Green ","Joe Keating",55
-"Benton","Precinct 07","Governor",,"Democrat ","Ted Kulongoski",1994
-"Benton","Precinct 07","Governor",,"Libertarian ","Richard Morley",24
-"Benton","Precinct 07","Governor",,"Constitution ","Mary Starrett",28
-"Benton","Precinct 07","Governor",,"Republican ","Ron Saxton",808
-"Benton","Precinct 07","Governor",,,"Write-Ins ",7
-"Benton","Precinct 07","Governor",,,"Under Votes ",33
-"Benton","Precinct 07","Governor",,,"Over Votes ",0
-"Benton","Precinct 08","Governor",,"Pacific Green ","Joe Keating",62
-"Benton","Precinct 08","Governor",,"Democrat ","Ted Kulongoski",2089
-"Benton","Precinct 08","Governor",,"Libertarian ","Richard Morley",37
-"Benton","Precinct 08","Governor",,"Constitution ","Mary Starrett",17
-"Benton","Precinct 08","Governor",,"Republican ","Ron Saxton",960
-"Benton","Precinct 08","Governor",,,"Write-Ins ",5
-"Benton","Precinct 08","Governor",,,"Under Votes ",41
-"Benton","Precinct 08","Governor",,,"Over Votes ",0
-"Benton","Precinct 09","Governor",,"Pacific Green ","Joe Keating",52
-"Benton","Precinct 09","Governor",,"Democrat ","Ted Kulongoski",1233
-"Benton","Precinct 09","Governor",,"Libertarian ","Richard Morley",27
-"Benton","Precinct 09","Governor",,"Constitution ","Mary Starrett",40
-"Benton","Precinct 09","Governor",,"Republican ","Ron Saxton",712
-"Benton","Precinct 09","Governor",,,"Write-Ins ",3
-"Benton","Precinct 09","Governor",,,"Under Votes ",26
-"Benton","Precinct 09","Governor",,,"Over Votes ",0
-"Benton","Precinct 10","Governor",,"Pacific Green ","Joe Keating",22
-"Benton","Precinct 10","Governor",,"Democrat ","Ted Kulongoski",853
-"Benton","Precinct 10","Governor",,"Libertarian ","Richard Morley",19
-"Benton","Precinct 10","Governor",,"Constitution ","Mary Starrett",41
-"Benton","Precinct 10","Governor",,"Republican ","Ron Saxton",770
-"Benton","Precinct 10","Governor",,,"Write-Ins ",2
-"Benton","Precinct 10","Governor",,,"Under Votes ",18
-"Benton","Precinct 10","Governor",,,"Over Votes ",2
-"Benton","Precinct 11","Governor",,"Pacific Green ","Joe Keating",38
-"Benton","Precinct 11","Governor",,"Democrat ","Ted Kulongoski",1384
-"Benton","Precinct 11","Governor",,"Libertarian ","Richard Morley",27
-"Benton","Precinct 11","Governor",,"Constitution ","Mary Starrett",62
-"Benton","Precinct 11","Governor",,"Republican ","Ron Saxton",1771
-"Benton","Precinct 11","Governor",,,"Write-Ins ",3
-"Benton","Precinct 11","Governor",,,"Under Votes ",39
-"Benton","Precinct 11","Governor",,,"Over Votes ",1
-"Benton","Precinct 12","Governor",,"Pacific Green ","Joe Keating",4
-"Benton","Precinct 12","Governor",,"Democrat ","Ted Kulongoski",119
-"Benton","Precinct 12","Governor",,"Libertarian ","Richard Morley",5
-"Benton","Precinct 12","Governor",,"Constitution ","Mary Starrett",6
-"Benton","Precinct 12","Governor",,"Republican ","Ron Saxton",174
-"Benton","Precinct 12","Governor",,,"Write-Ins ",0
-"Benton","Precinct 12","Governor",,,"Under Votes ",10
-"Benton","Precinct 12","Governor",,,"Over Votes ",0
-"Benton","Precinct 13","Governor",,"Pacific Green ","Joe Keating",2
-"Benton","Precinct 13","Governor",,"Democrat ","Ted Kulongoski",115
-"Benton","Precinct 13","Governor",,"Libertarian ","Richard Morley",1
-"Benton","Precinct 13","Governor",,"Constitution ","Mary Starrett",7
-"Benton","Precinct 13","Governor",,"Republican ","Ron Saxton",95
-"Benton","Precinct 13","Governor",,,"Write-Ins ",0
-"Benton","Precinct 13","Governor",,,"Under Votes ",9
-"Benton","Precinct 13","Governor",,,"Over Votes ",0
-"Benton","Precinct 14","Governor",,"Pacific Green ","Joe Keating",9
-"Benton","Precinct 14","Governor",,"Democrat ","Ted Kulongoski",181
-"Benton","Precinct 14","Governor",,"Libertarian ","Richard Morley",5
-"Benton","Precinct 14","Governor",,"Constitution ","Mary Starrett",13
-"Benton","Precinct 14","Governor",,"Republican ","Ron Saxton",255
-"Benton","Precinct 14","Governor",,,"Write-Ins ",0
-"Benton","Precinct 14","Governor",,,"Under Votes ",8
-"Benton","Precinct 14","Governor",,,"Over Votes ",0
-"Benton","Precinct 15","Governor",,"Pacific Green ","Joe Keating",39
-"Benton","Precinct 15","Governor",,"Democrat ","Ted Kulongoski",1081
-"Benton","Precinct 15","Governor",,"Libertarian ","Richard Morley",32
-"Benton","Precinct 15","Governor",,"Constitution ","Mary Starrett",47
-"Benton","Precinct 15","Governor",,"Republican ","Ron Saxton",944
-"Benton","Precinct 15","Governor",,,"Write-Ins ",4
-"Benton","Precinct 15","Governor",,,"Under Votes ",34
-"Benton","Precinct 15","Governor",,,"Over Votes ",1
-"Benton","Precinct 16","Governor",,"Pacific Green ","Joe Keating",19
-"Benton","Precinct 16","Governor",,"Democrat ","Ted Kulongoski",687
-"Benton","Precinct 16","Governor",,"Libertarian ","Richard Morley",20
-"Benton","Precinct 16","Governor",,"Constitution ","Mary Starrett",19
-"Benton","Precinct 16","Governor",,"Republican ","Ron Saxton",448
-"Benton","Precinct 16","Governor",,,"Write-Ins ",2
-"Benton","Precinct 16","Governor",,,"Under Votes ",10
-"Benton","Precinct 16","Governor",,,"Over Votes ",1
-"Benton","Precinct 17","Governor",,"Pacific Green ","Joe Keating",47
-"Benton","Precinct 17","Governor",,"Democrat ","Ted Kulongoski",1576
-"Benton","Precinct 17","Governor",,"Libertarian ","Richard Morley",39
-"Benton","Precinct 17","Governor",,"Constitution ","Mary Starrett",42
-"Benton","Precinct 17","Governor",,"Republican ","Ron Saxton",1071
-"Benton","Precinct 17","Governor",,,"Write-Ins ",2
-"Benton","Precinct 17","Governor",,,"Under Votes ",22
-"Benton","Precinct 17","Governor",,,"Over Votes ",0
-"Benton","Precinct 18","Governor",,"Pacific Green ","Joe Keating",9
-"Benton","Precinct 18","Governor",,"Democrat ","Ted Kulongoski",423
-"Benton","Precinct 18","Governor",,"Libertarian ","Richard Morley",13
-"Benton","Precinct 18","Governor",,"Constitution ","Mary Starrett",38
-"Benton","Precinct 18","Governor",,"Republican ","Ron Saxton",652
-"Benton","Precinct 18","Governor",,,"Write-Ins ",1
-"Benton","Precinct 18","Governor",,,"Under Votes ",13
-"Benton","Precinct 18","Governor",,,"Over Votes ",0
-"Benton","Precinct 19","Governor",,"Pacific Green ","Joe Keating",42
-"Benton","Precinct 19","Governor",,"Democrat ","Ted Kulongoski",822
-"Benton","Precinct 19","Governor",,"Libertarian ","Richard Morley",19
-"Benton","Precinct 19","Governor",,"Constitution ","Mary Starrett",18
-"Benton","Precinct 19","Governor",,"Republican ","Ron Saxton",588
-"Benton","Precinct 19","Governor",,,"Write-Ins ",3
-"Benton","Precinct 19","Governor",,,"Under Votes ",19
-"Benton","Precinct 19","Governor",,,"Over Votes ",0
-"Benton","Precinct 20","Governor",,"Pacific Green ","Joe Keating",23
-"Benton","Precinct 20","Governor",,"Democrat ","Ted Kulongoski",421
-"Benton","Precinct 20","Governor",,"Libertarian ","Richard Morley",15
-"Benton","Precinct 20","Governor",,"Constitution ","Mary Starrett",23
-"Benton","Precinct 20","Governor",,"Republican ","Ron Saxton",529
-"Benton","Precinct 20","Governor",,,"Write-Ins ",1
-"Benton","Precinct 20","Governor",,,"Under Votes ",16
-"Benton","Precinct 20","Governor",,,"Over Votes ",0
-"Benton","Precinct 01","State Senate",8,"Democrat ","Mario E. Magana",1278
-"Benton","Precinct 01","State Senate",8,"Republican ","Frank Morse",1582
-"Benton","Precinct 01","State Senate",8,,"Write-Ins ",5
-"Benton","Precinct 01","State Senate",8,,"Under Votes ",126
-"Benton","Precinct 01","State Senate",8,,"Over Votes ",1
-"Benton","Precinct 02","State Senate",8,"Democrat ","Mario E. Magana",785
-"Benton","Precinct 02","State Senate",8,"Republican ","Frank Morse",265
-"Benton","Precinct 02","State Senate",8,,"Write-Ins ",5
-"Benton","Precinct 02","State Senate",8,,"Under Votes ",70
-"Benton","Precinct 02","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 03","State Senate",8,"Democrat ","Mario E. Magana",1270
-"Benton","Precinct 03","State Senate",8,"Republican ","Frank Morse",884
-"Benton","Precinct 03","State Senate",8,,"Write-Ins ",7
-"Benton","Precinct 03","State Senate",8,,"Under Votes ",129
-"Benton","Precinct 03","State Senate",8,,"Over Votes ",1
-"Benton","Precinct 04","State Senate",8,"Democrat ","Mario E. Magana",546
-"Benton","Precinct 04","State Senate",8,"Republican ","Frank Morse",398
-"Benton","Precinct 04","State Senate",8,,"Write-Ins ",1
-"Benton","Precinct 04","State Senate",8,,"Under Votes ",72
-"Benton","Precinct 04","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 05","State Senate",8,"Democrat ","Mario E. Magana",1243
-"Benton","Precinct 05","State Senate",8,"Republican ","Frank Morse",552
-"Benton","Precinct 05","State Senate",8,,"Write-Ins ",4
-"Benton","Precinct 05","State Senate",8,,"Under Votes ",100
-"Benton","Precinct 05","State Senate",8,,"Over Votes ",1
-"Benton","Precinct 06","State Senate",8,"Democrat ","Mario E. Magana",1074
-"Benton","Precinct 06","State Senate",8,"Republican ","Frank Morse",938
-"Benton","Precinct 06","State Senate",8,,"Write-Ins ",4
-"Benton","Precinct 06","State Senate",8,,"Under Votes ",113
-"Benton","Precinct 06","State Senate",8,,"Over Votes ",1
-"Benton","Precinct 07","State Senate",8,"Democrat ","Mario E. Magana",1410
-"Benton","Precinct 07","State Senate",8,"Republican ","Frank Morse",1421
-"Benton","Precinct 07","State Senate",8,,"Write-Ins ",5
-"Benton","Precinct 07","State Senate",8,,"Under Votes ",113
-"Benton","Precinct 07","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 08","State Senate",8,"Democrat ","Mario E. Magana",1368
-"Benton","Precinct 08","State Senate",8,"Republican ","Frank Morse",1707
-"Benton","Precinct 08","State Senate",8,,"Write-Ins ",4
-"Benton","Precinct 08","State Senate",8,,"Under Votes ",132
-"Benton","Precinct 08","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 09","State Senate",8,"Democrat ","Mario E. Magana",934
-"Benton","Precinct 09","State Senate",8,"Republican ","Frank Morse",1048
-"Benton","Precinct 09","State Senate",8,,"Write-Ins ",2
-"Benton","Precinct 09","State Senate",8,,"Under Votes ",109
-"Benton","Precinct 09","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 10","State Senate",8,"Democrat ","Mario E. Magana",627
-"Benton","Precinct 10","State Senate",8,"Republican ","Frank Morse",1013
-"Benton","Precinct 10","State Senate",8,,"Write-Ins ",3
-"Benton","Precinct 10","State Senate",8,,"Under Votes ",82
-"Benton","Precinct 10","State Senate",8,,"Over Votes ",2
-"Benton","Precinct 11","State Senate",8,"Democrat ","Mario E. Magana",844
-"Benton","Precinct 11","State Senate",8,"Republican ","Frank Morse",2285
-"Benton","Precinct 11","State Senate",8,,"Write-Ins ",8
-"Benton","Precinct 11","State Senate",8,,"Under Votes ",187
-"Benton","Precinct 11","State Senate",8,,"Over Votes ",1
-"Benton","Precinct 12","State Senate",8,"Democrat ","Mario E. Magana",95
-"Benton","Precinct 12","State Senate",8,"Republican ","Frank Morse",206
-"Benton","Precinct 12","State Senate",8,,"Write-Ins ",1
-"Benton","Precinct 12","State Senate",8,,"Under Votes ",16
-"Benton","Precinct 12","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 15","State Senate",8,"Democrat ","Mario E. Magana",48
-"Benton","Precinct 15","State Senate",8,"Republican ","Frank Morse",97
-"Benton","Precinct 15","State Senate",8,,"Write-Ins ",0
-"Benton","Precinct 15","State Senate",8,,"Under Votes ",7
-"Benton","Precinct 15","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 16","State Senate",8,"Democrat ","Mario E. Magana",500
-"Benton","Precinct 16","State Senate",8,"Republican ","Frank Morse",634
-"Benton","Precinct 16","State Senate",8,,"Write-Ins ",1
-"Benton","Precinct 16","State Senate",8,,"Under Votes ",71
-"Benton","Precinct 16","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 17","State Senate",8,"Democrat ","Mario E. Magana",1145
-"Benton","Precinct 17","State Senate",8,"Republican ","Frank Morse",1512
-"Benton","Precinct 17","State Senate",8,,"Write-Ins ",12
-"Benton","Precinct 17","State Senate",8,,"Under Votes ",130
-"Benton","Precinct 17","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 18","State Senate",8,"Democrat ","Mario E. Magana",249
-"Benton","Precinct 18","State Senate",8,"Republican ","Frank Morse",837
-"Benton","Precinct 18","State Senate",8,,"Write-Ins ",6
-"Benton","Precinct 18","State Senate",8,,"Under Votes ",57
-"Benton","Precinct 18","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 19","State Senate",8,"Democrat ","Mario E. Magana",254
-"Benton","Precinct 19","State Senate",8,"Republican ","Frank Morse",280
-"Benton","Precinct 19","State Senate",8,,"Write-Ins ",2
-"Benton","Precinct 19","State Senate",8,,"Under Votes ",32
-"Benton","Precinct 19","State Senate",8,,"Over Votes ",0
-"Benton","Precinct 11","State House",15,"Republican ","Andy Olson",2279
-"Benton","Precinct 11","State House",15,"Democrat ","Sam H.W. Sappington",894
-"Benton","Precinct 11","State House",15,,"Write-Ins ",6
-"Benton","Precinct 11","State House",15,,"Under Votes ",145
-"Benton","Precinct 11","State House",15,,"Over Votes ",1
-"Benton","Precinct 12","State House",15,"Republican ","Andy Olson",205
-"Benton","Precinct 12","State House",15,"Democrat ","Sam H.W. Sappington",91
-"Benton","Precinct 12","State House",15,,"Write-Ins ",1
-"Benton","Precinct 12","State House",15,,"Under Votes ",21
-"Benton","Precinct 12","State House",15,,"Over Votes ",0
-"Benton","Precinct 17","State House",15,"Republican ","Andy Olson",1325
-"Benton","Precinct 17","State House",15,"Democrat ","Sam H.W. Sappington",1296
-"Benton","Precinct 17","State House",15,,"Write-Ins ",5
-"Benton","Precinct 17","State House",15,,"Under Votes ",173
-"Benton","Precinct 17","State House",15,,"Over Votes ",0
-"Benton","Precinct 18","State House",15,"Republican ","Andy Olson",844
-"Benton","Precinct 18","State House",15,"Democrat ","Sam H.W. Sappington",261
-"Benton","Precinct 18","State House",15,,"Write-Ins ",1
-"Benton","Precinct 18","State House",15,,"Under Votes ",43
-"Benton","Precinct 18","State House",15,,"Over Votes ",0
-"Benton","Precinct 01","State House",16,"Republican ","Robin M. Brown",1107
-"Benton","Precinct 01","State House",16,"Democrat ","Sara A. Gelser",1774
-"Benton","Precinct 01","State House",16,,"Write-Ins ",2
-"Benton","Precinct 01","State House",16,,"Under Votes ",109
-"Benton","Precinct 01","State House",16,,"Over Votes ",0
-"Benton","Precinct 02","State House",16,"Republican ","Robin M. Brown",204
-"Benton","Precinct 02","State House",16,"Democrat ","Sara A. Gelser",857
-"Benton","Precinct 02","State House",16,,"Write-Ins ",2
-"Benton","Precinct 02","State House",16,,"Under Votes ",61
-"Benton","Precinct 02","State House",16,,"Over Votes ",1
-"Benton","Precinct 03","State House",16,"Republican ","Robin M. Brown",699
-"Benton","Precinct 03","State House",16,"Democrat ","Sara A. Gelser",1477
-"Benton","Precinct 03","State House",16,,"Write-Ins ",7
-"Benton","Precinct 03","State House",16,,"Under Votes ",107
-"Benton","Precinct 03","State House",16,,"Over Votes ",1
-"Benton","Precinct 04","State House",16,"Republican ","Robin M. Brown",243
-"Benton","Precinct 04","State House",16,"Democrat ","Sara A. Gelser",703
-"Benton","Precinct 04","State House",16,,"Write-Ins ",1
-"Benton","Precinct 04","State House",16,,"Under Votes ",70
-"Benton","Precinct 04","State House",16,,"Over Votes ",0
-"Benton","Precinct 05","State House",16,"Republican ","Robin M. Brown",317
-"Benton","Precinct 05","State House",16,"Democrat ","Sara A. Gelser",1490
-"Benton","Precinct 05","State House",16,,"Write-Ins ",3
-"Benton","Precinct 05","State House",16,,"Under Votes ",90
-"Benton","Precinct 05","State House",16,,"Over Votes ",0
-"Benton","Precinct 06","State House",16,"Republican ","Robin M. Brown",586
-"Benton","Precinct 06","State House",16,"Democrat ","Sara A. Gelser",1438
-"Benton","Precinct 06","State House",16,,"Write-Ins ",6
-"Benton","Precinct 06","State House",16,,"Under Votes ",99
-"Benton","Precinct 06","State House",16,,"Over Votes ",1
-"Benton","Precinct 07","State House",16,"Republican ","Robin M. Brown",841
-"Benton","Precinct 07","State House",16,"Democrat ","Sara A. Gelser",2021
-"Benton","Precinct 07","State House",16,,"Write-Ins ",6
-"Benton","Precinct 07","State House",16,,"Under Votes ",81
-"Benton","Precinct 07","State House",16,,"Over Votes ",0
-"Benton","Precinct 08","State House",16,"Republican ","Robin M. Brown",1008
-"Benton","Precinct 08","State House",16,"Democrat ","Sara A. Gelser",2078
-"Benton","Precinct 08","State House",16,,"Write-Ins ",4
-"Benton","Precinct 08","State House",16,,"Under Votes ",121
-"Benton","Precinct 08","State House",16,,"Over Votes ",0
-"Benton","Precinct 09","State House",16,"Republican ","Robin M. Brown",763
-"Benton","Precinct 09","State House",16,"Democrat ","Sara A. Gelser",1225
-"Benton","Precinct 09","State House",16,,"Write-Ins ",2
-"Benton","Precinct 09","State House",16,,"Under Votes ",103
-"Benton","Precinct 09","State House",16,,"Over Votes ",0
-"Benton","Precinct 10","State House",16,"Republican ","Robin M. Brown",788
-"Benton","Precinct 10","State House",16,"Democrat ","Sara A. Gelser",856
-"Benton","Precinct 10","State House",16,,"Write-Ins ",3
-"Benton","Precinct 10","State House",16,,"Under Votes ",78
-"Benton","Precinct 10","State House",16,,"Over Votes ",2
-"Benton","Precinct 15","State House",16,"Republican ","Robin M. Brown",68
-"Benton","Precinct 15","State House",16,"Democrat ","Sara A. Gelser",78
-"Benton","Precinct 15","State House",16,,"Write-Ins ",0
-"Benton","Precinct 15","State House",16,,"Under Votes ",6
-"Benton","Precinct 15","State House",16,,"Over Votes ",0
-"Benton","Precinct 16","State House",16,"Republican ","Robin M. Brown",450
-"Benton","Precinct 16","State House",16,"Democrat ","Sara A. Gelser",701
-"Benton","Precinct 16","State House",16,,"Write-Ins ",2
-"Benton","Precinct 16","State House",16,,"Under Votes ",53
-"Benton","Precinct 16","State House",16,,"Over Votes ",
-"Benton","Precinct 19","State House",16,"Republican ","Robin M. Brown",176
-"Benton","Precinct 19","State House",16,"Democrat","Sara A. Gelser",360
-"Benton","Precinct 19","State House",16,,"Write-Ins ",2
-"Benton","Precinct 19","State House",16,,"Under Votes ",30
-"Benton","Precinct 19","State House",16,,"Over Votes ",0
-"Benton","Precinct 13","State House",23,"Republican ","Brian Boquist",92
-"Benton","Precinct 13","State House",23,"Democrat ","Jason Brown",102
-"Benton","Precinct 13","State House",23,"Libertarian ","Paul Delaney",11
-"Benton","Precinct 13","State House",23,,"Write-Ins ",0
-"Benton","Precinct 13","State House",23,,"Under Votes ",24
-"Benton","Precinct 13","State House",23,,"Over Votes ",0
-"Benton","Precinct 14","State House",23,"Republican ","Brian Boquist",249
-"Benton","Precinct 14","State House",23,"Democrat ","Jason Brown",160
-"Benton","Precinct 14","State House",23,"Libertarian ","Paul Delaney",21
-"Benton","Precinct 14","State House",23,,"Write-Ins ",2
-"Benton","Precinct 14","State House",23,,"Under Votes ",39
-"Benton","Precinct 14","State House",23,,"Over Votes ",0
-"Benton","Precinct 15","State House",23,"Republican ","Brian Boquist",871
-"Benton","Precinct 15","State House",23,"Democrat ","Jason Brown",940
-"Benton","Precinct 15","State House",23,"Libertarian ","Paul Delaney",65
-"Benton","Precinct 15","State House",23,,"Write-Ins ",3
-"Benton","Precinct 15","State House",23,,"Under Votes ",151
-"Benton","Precinct 15","State House",23,,"Over Votes ",0
-"Benton","Precinct 19","State House",23,"Republican ","Brian Boquist",421
-"Benton","Precinct 19","State House",23,"Democrat ","Jason Brown",427
-"Benton","Precinct 19","State House",23,"Libertarian ","Paul Delaney",23
-"Benton","Precinct 19","State House",23,,"Write-Ins ",1
-"Benton","Precinct 19","State House",23,,"Under Votes ",71
-"Benton","Precinct 19","State House",23,,"Over Votes ",0
-"Benton","Precinct 20","State House",23,"Republican ","Brian Boquist",502
-"Benton","Precinct 20","State House",23,"Democrat ","Jason Brown",420
-"Benton","Precinct 20","State House",23,"Libertarian ","Paul Delaney",30
-"Benton","Precinct 20","State House",23,,"Write-Ins ",0
-"Benton","Precinct 20","State House",23,,"Under Votes ",75
-"Benton","Precinct 20","State House",23,,"Over Votes ",1
+county,precinct,office,district,party,candidate,votes
+Benton,Precinct 01,U.S. House,4,Republican ,Jim Feldkamp,36
+Benton,Precinct 01,U.S. House,4,Democrat ,Peter A. DeFazio,45
+Benton,Precinct 01,U.S. House,4,,Write-Ins ,0
+Benton,Precinct 01,U.S. House,4,,Under Votes ,5
+Benton,Precinct 01,U.S. House,4,,Over Votes ,0
+Benton,Precinct 02,U.S. House,4,Republican ,Jim Feldkamp,10
+Benton,Precinct 02,U.S. House,4,Democrat ,Peter A. DeFazio,84
+Benton,Precinct 02,U.S. House,4,,Write-Ins ,0
+Benton,Precinct 02,U.S. House,4,,Under Votes ,2
+Benton,Precinct 02,U.S. House,4,,Over Votes ,0
+Benton,Precinct 03,U.S. House,4,Republican ,Jim Feldkamp,502
+Benton,Precinct 03,U.S. House,4,Democrat ,Peter A. DeFazio,1377
+Benton,Precinct 03,U.S. House,4,,Write-Ins ,3
+Benton,Precinct 03,U.S. House,4,,Under Votes ,47
+Benton,Precinct 03,U.S. House,4,,Over Votes ,0
+Benton,Precinct 04,U.S. House,4,Republican ,Jim Feldkamp,10
+Benton,Precinct 04,U.S. House,4,Democrat ,Peter A. DeFazio,38
+Benton,Precinct 04,U.S. House,4,,Write-Ins ,0
+Benton,Precinct 04,U.S. House,4,,Under Votes ,0
+Benton,Precinct 04,U.S. House,4,,Over Votes ,0
+Benton,Precinct 05,U.S. House,4,Republican ,Jim Feldkamp,225
+Benton,Precinct 05,U.S. House,4,Democrat ,Peter A. DeFazio,1590
+Benton,Precinct 05,U.S. House,4,,Write-Ins ,3
+Benton,Precinct 05,U.S. House,4,,Under Votes ,39
+Benton,Precinct 05,U.S. House,4,,Over Votes ,0
+Benton,Precinct 06,U.S. House,4,Republican ,Jim Feldkamp,480
+Benton,Precinct 06,U.S. House,4,Democrat ,Peter A. DeFazio,1602
+Benton,Precinct 06,U.S. House,4,,Write-Ins ,5
+Benton,Precinct 06,U.S. House,4,,Under Votes ,42
+Benton,Precinct 06,U.S. House,4,,Over Votes ,1
+Benton,Precinct 07,U.S. House,4,Republican ,Jim Feldkamp,684
+Benton,Precinct 07,U.S. House,4,Democrat ,Peter A. DeFazio,2113
+Benton,Precinct 07,U.S. House,4,,Write-Ins ,2
+Benton,Precinct 07,U.S. House,4,,Under Votes ,50
+Benton,Precinct 07,U.S. House,4,,Over Votes ,0
+Benton,Precinct 08,U.S. House,4,Republican ,Jim Feldkamp,832
+Benton,Precinct 08,U.S. House,4,Democrat ,Peter A. DeFazio,2325
+Benton,Precinct 08,U.S. House,4,,Write-Ins ,2
+Benton,Precinct 08,U.S. House,4,,Under Votes ,52
+Benton,Precinct 08,U.S. House,4,,Over Votes ,0
+Benton,Precinct 09,U.S. House,4,Republican ,Jim Feldkamp,599
+Benton,Precinct 09,U.S. House,4,Democrat ,Peter A. DeFazio,1450
+Benton,Precinct 09,U.S. House,4,,Write-Ins ,4
+Benton,Precinct 09,U.S. House,4,,Under Votes ,40
+Benton,Precinct 09,U.S. House,4,,Over Votes ,0
+Benton,Precinct 10,U.S. House,4,Republican ,Jim Feldkamp,642
+Benton,Precinct 10,U.S. House,4,Democrat ,Peter A. DeFazio,985
+Benton,Precinct 10,U.S. House,4,,Write-Ins ,2
+Benton,Precinct 10,U.S. House,4,,Under Votes ,29
+Benton,Precinct 10,U.S. House,4,,Over Votes ,0
+Benton,Precinct 11,U.S. House,4,Republican ,Jim Feldkamp,314
+Benton,Precinct 11,U.S. House,4,Democrat ,Peter A. DeFazio,351
+Benton,Precinct 11,U.S. House,4,,Write-Ins ,0
+Benton,Precinct 11,U.S. House,4,,Under Votes ,11
+Benton,Precinct 11,U.S. House,4,,Over Votes ,0
+Benton,Precinct 13,U.S. House,4,Republican ,Jim Feldkamp,82
+Benton,Precinct 13,U.S. House,4,Democrat ,Peter A. DeFazio,143
+Benton,Precinct 13,U.S. House,4,,Write-Ins ,0
+Benton,Precinct 13,U.S. House,4,,Under Votes ,4
+Benton,Precinct 13,U.S. House,4,,Over Votes ,0
+Benton,Precinct 14,U.S. House,4,Republican ,Jim Feldkamp,213
+Benton,Precinct 14,U.S. House,4,Democrat ,Peter A. DeFazio,243
+Benton,Precinct 14,U.S. House,4,,Write-Ins ,1
+Benton,Precinct 14,U.S. House,4,,Under Votes ,14
+Benton,Precinct 14,U.S. House,4,,Over Votes ,0
+Benton,Precinct 15,U.S. House,4,Republican ,Jim Feldkamp,814
+Benton,Precinct 15,U.S. House,4,Democrat ,Peter A. DeFazio,1290
+Benton,Precinct 15,U.S. House,4,,Write-Ins ,3
+Benton,Precinct 15,U.S. House,4,,Under Votes ,42
+Benton,Precinct 15,U.S. House,4,,Over Votes ,0
+Benton,Precinct 16,U.S. House,4,Republican ,Jim Feldkamp,170
+Benton,Precinct 16,U.S. House,4,Democrat ,Peter A. DeFazio,350
+Benton,Precinct 16,U.S. House,4,,Write-Ins ,1
+Benton,Precinct 16,U.S. House,4,,Under Votes ,13
+Benton,Precinct 16,U.S. House,4,,Over Votes ,0
+Benton,Precinct 17,U.S. House,4,Republican ,Jim Feldkamp,209
+Benton,Precinct 17,U.S. House,4,Democrat ,Peter A. DeFazio,397
+Benton,Precinct 17,U.S. House,4,,Write-Ins ,0
+Benton,Precinct 17,U.S. House,4,,Under Votes ,5
+Benton,Precinct 17,U.S. House,4,,Over Votes ,0
+Benton,Precinct 18,U.S. House,4,Republican ,Jim Feldkamp,1
+Benton,Precinct 18,U.S. House,4,Democrat ,Peter A. DeFazio,13
+Benton,Precinct 18,U.S. House,4,,Write-Ins ,0
+Benton,Precinct 18,U.S. House,4,,Under Votes ,0
+Benton,Precinct 18,U.S. House,4,,Over Votes ,0
+Benton,Precinct 19,U.S. House,4,Republican ,Jim Feldkamp,452
+Benton,Precinct 19,U.S. House,4,Democrat ,Peter A. DeFazio,813
+Benton,Precinct 19,U.S. House,4,,Write-Ins ,2
+Benton,Precinct 19,U.S. House,4,,Under Votes ,29
+Benton,Precinct 19,U.S. House,4,,Over Votes ,0
+Benton,Precinct 20,U.S. House,4,Republican ,Jim Feldkamp,451
+Benton,Precinct 20,U.S. House,4,Democrat ,Peter A. DeFazio,560
+Benton,Precinct 20,U.S. House,4,,Write-Ins ,2
+Benton,Precinct 20,U.S. House,4,,Under Votes ,15
+Benton,Precinct 20,U.S. House,4,,Over Votes ,0
+Benton,Precinct 01,U.S. House,5,Republican ,Mike Erickson,968
+Benton,Precinct 01,U.S. House,5,Constitutn ,Douglas Patterson,20
+Benton,Precinct 01,U.S. House,5,Pacific Green ,Paul Aranas,66
+Benton,Precinct 01,U.S. House,5,Democrat ,Darlene Hooley,1767
+Benton,Precinct 01,U.S. House,5,,Write-Ins ,2
+Benton,Precinct 01,U.S. House,5,,Under Votes ,83
+Benton,Precinct 01,U.S. House,5,,Over Votes ,0
+Benton,Precinct 02,U.S. House,5,Republican ,Mike Erickson,175
+Benton,Precinct 02,U.S. House,5,Constitutn ,Douglas Patterson,10
+Benton,Precinct 02,U.S. House,5,Pacific Green ,Paul Aranas,77
+Benton,Precinct 02,U.S. House,5,Democrat ,Darlene Hooley,730
+Benton,Precinct 02,U.S. House,5,,Write-Ins ,2
+Benton,Precinct 02,U.S. House,5,,Under Votes ,35
+Benton,Precinct 02,U.S. House,5,,Over Votes ,0
+Benton,Precinct 03,U.S. House,5,Republican ,Mike Erickson,95
+Benton,Precinct 03,U.S. House,5,Constitutn ,Douglas Patterson,3
+Benton,Precinct 03,U.S. House,5,Pacific Green ,Paul Aranas,24
+Benton,Precinct 03,U.S. House,5,Democrat ,Darlene Hooley,231
+Benton,Precinct 03,U.S. House,5,,Write-Ins ,2
+Benton,Precinct 03,U.S. House,5,,Under Votes ,7
+Benton,Precinct 03,U.S. House,5,,Over Votes ,0
+Benton,Precinct 04,U.S. House,5,Republican ,Mike Erickson,213
+Benton,Precinct 04,U.S. House,5,Constitutn ,Douglas Patterson,5
+Benton,Precinct 04,U.S. House,5,Pacific Green ,Paul Aranas,47
+Benton,Precinct 04,U.S. House,5,Democrat ,Darlene Hooley,656
+Benton,Precinct 04,U.S. House,5,,Write-Ins ,1
+Benton,Precinct 04,U.S. House,5,,Under Votes ,47
+Benton,Precinct 04,U.S. House,5,,Over Votes ,0
+Benton,Precinct 05,U.S. House,5,Republican ,Mike Erickson,12
+Benton,Precinct 05,U.S. House,5,Constitutn ,Douglas Patterson,0
+Benton,Precinct 05,U.S. House,5,Pacific Green ,Paul Aranas,3
+Benton,Precinct 05,U.S. House,5,Democrat ,Darlene Hooley,25
+Benton,Precinct 05,U.S. House,5,,Write-Ins ,0
+Benton,Precinct 05,U.S. House,5,,Under Votes ,3
+Benton,Precinct 05,U.S. House,5,,Over Votes ,0
+Benton,Precinct 07,U.S. House,5,Republican ,Mike Erickson,22
+Benton,Precinct 07,U.S. House,5,Constitutn ,Douglas Patterson,2
+Benton,Precinct 07,U.S. House,5,Pacific Green ,Paul Aranas,3
+Benton,Precinct 07,U.S. House,5,Democrat ,Darlene Hooley,71
+Benton,Precinct 07,U.S. House,5,,Write-Ins ,0
+Benton,Precinct 07,U.S. House,5,,Under Votes ,2
+Benton,Precinct 07,U.S. House,5,,Over Votes ,0
+Benton,Precinct 10,U.S. House,5,Republican ,Mike Erickson,27
+Benton,Precinct 10,U.S. House,5,Constitutn ,Douglas Patterson,1
+Benton,Precinct 10,U.S. House,5,Pacific Green ,Paul Aranas,0
+Benton,Precinct 10,U.S. House,5,Democrat ,Darlene Hooley,38
+Benton,Precinct 10,U.S. House,5,,Write-Ins ,0
+Benton,Precinct 10,U.S. House,5,,Under Votes ,3
+Benton,Precinct 10,U.S. House,5,,Over Votes ,0
+Benton,Precinct 11,U.S. House,5,Republican ,Mike Erickson,1324
+Benton,Precinct 11,U.S. House,5,Constitutn ,Douglas Patterson,26
+Benton,Precinct 11,U.S. House,5,Pacific Green ,Paul Aranas,37
+Benton,Precinct 11,U.S. House,5,Democrat ,Darlene Hooley,1172
+Benton,Precinct 11,U.S. House,5,,Write-Ins ,3
+Benton,Precinct 11,U.S. House,5,,Under Votes ,86
+Benton,Precinct 11,U.S. House,5,,Over Votes ,1
+Benton,Precinct 12,U.S. House,5,Republican ,Mike Erickson,177
+Benton,Precinct 12,U.S. House,5,Constitutn ,Douglas Patterson,4
+Benton,Precinct 12,U.S. House,5,Pacific Green ,Paul Aranas,3
+Benton,Precinct 12,U.S. House,5,Democrat ,Darlene Hooley,118
+Benton,Precinct 12,U.S. House,5,,Write-Ins ,0
+Benton,Precinct 12,U.S. House,5,,Under Votes ,15
+Benton,Precinct 12,U.S. House,5,,Over Votes ,1
+Benton,Precinct 15,U.S. House,5,Republican ,Mike Erickson,11
+Benton,Precinct 15,U.S. House,5,Constitutn ,Douglas Patterson,1
+Benton,Precinct 15,U.S. House,5,Pacific Green ,Paul Aranas,2
+Benton,Precinct 15,U.S. House,5,Democrat ,Darlene Hooley,19
+Benton,Precinct 15,U.S. House,5,,Write-Ins ,0
+Benton,Precinct 15,U.S. House,5,,Under Votes ,0
+Benton,Precinct 15,U.S. House,5,,Over Votes ,0
+Benton,Precinct 16,U.S. House,5,Republican ,Mike Erickson,237
+Benton,Precinct 16,U.S. House,5,Constitutn ,Douglas Patterson,9
+Benton,Precinct 16,U.S. House,5,Pacific Green ,Paul Aranas,11
+Benton,Precinct 16,U.S. House,5,Democrat ,Darlene Hooley,395
+Benton,Precinct 16,U.S. House,5,,Write-Ins ,0
+Benton,Precinct 16,U.S. House,5,,Under Votes ,20
+Benton,Precinct 16,U.S. House,5,,Over Votes ,0
+Benton,Precinct 17,U.S. House,5,Republican ,Mike Erickson,770
+Benton,Precinct 17,U.S. House,5,Constitutn ,Douglas Patterson,24
+Benton,Precinct 17,U.S. House,5,Pacific Green ,Paul Aranas,53
+Benton,Precinct 17,U.S. House,5,Democrat ,Darlene Hooley,1282
+Benton,Precinct 17,U.S. House,5,,Write-Ins ,2
+Benton,Precinct 17,U.S. House,5,,Under Votes ,57
+Benton,Precinct 17,U.S. House,5,,Over Votes ,0
+Benton,Precinct 18,U.S. House,5,Republican ,Mike Erickson,639
+Benton,Precinct 18,U.S. House,5,Constitutn ,Douglas Patterson,10
+Benton,Precinct 18,U.S. House,5,Pacific Green ,Paul Aranas,14
+Benton,Precinct 18,U.S. House,5,Democrat ,Darlene Hooley,435
+Benton,Precinct 18,U.S. House,5,,Write-Ins ,1
+Benton,Precinct 18,U.S. House,5,,Under Votes ,36
+Benton,Precinct 18,U.S. House,5,,Over Votes ,0
+Benton,Precinct 19,U.S. House,5,Republican ,Mike Erickson,71
+Benton,Precinct 19,U.S. House,5,Constitutn ,Douglas Patterson,0
+Benton,Precinct 19,U.S. House,5,Pacific Green ,Paul Aranas,3
+Benton,Precinct 19,U.S. House,5,Democrat ,Darlene Hooley,137
+Benton,Precinct 19,U.S. House,5,,Write-Ins ,0
+Benton,Precinct 19,U.S. House,5,,Under Votes ,4
+Benton,Precinct 19,U.S. House,5,,Over Votes ,0
+Benton,Precinct 01,Governor,,Pacific Green ,Joe Keating,42
+Benton,Precinct 01,Governor,,Democrat ,Ted Kulongoski,1802
+Benton,Precinct 01,Governor,,Libertarian ,Richard Morley,34
+Benton,Precinct 01,Governor,,Constitution ,Mary Starrett,38
+Benton,Precinct 01,Governor,,Republican ,Ron Saxton,1040
+Benton,Precinct 01,Governor,,,Write-Ins ,5
+Benton,Precinct 01,Governor,,,Under Votes ,31
+Benton,Precinct 01,Governor,,,Over Votes ,0
+Benton,Precinct 02,Governor,,Pacific Green ,Joe Keating,56
+Benton,Precinct 02,Governor,,Democrat ,Ted Kulongoski,832
+Benton,Precinct 02,Governor,,Libertarian ,Richard Morley,18
+Benton,Precinct 02,Governor,,Constitution ,Mary Starrett,14
+Benton,Precinct 02,Governor,,Republican ,Ron Saxton,191
+Benton,Precinct 02,Governor,,,Write-Ins ,2
+Benton,Precinct 02,Governor,,,Under Votes ,12
+Benton,Precinct 02,Governor,,,Over Votes ,0
+Benton,Precinct 03,Governor,,Pacific Green ,Joe Keating,52
+Benton,Precinct 03,Governor,,Democrat ,Ted Kulongoski,1437
+Benton,Precinct 03,Governor,,Libertarian ,Richard Morley,46
+Benton,Precinct 03,Governor,,Constitution ,Mary Starrett,48
+Benton,Precinct 03,Governor,,Republican ,Ron Saxton,670
+Benton,Precinct 03,Governor,,,Write-Ins ,7
+Benton,Precinct 03,Governor,,,Under Votes ,30
+Benton,Precinct 03,Governor,,,Over Votes ,1
+Benton,Precinct 04,Governor,,Pacific Green ,Joe Keating,39
+Benton,Precinct 04,Governor,,Democrat ,Ted Kulongoski,709
+Benton,Precinct 04,Governor,,Libertarian ,Richard Morley,15
+Benton,Precinct 04,Governor,,Constitution ,Mary Starrett,8
+Benton,Precinct 04,Governor,,Republican ,Ron Saxton,230
+Benton,Precinct 04,Governor,,,Write-Ins ,0
+Benton,Precinct 04,Governor,,,Under Votes ,16
+Benton,Precinct 04,Governor,,,Over Votes ,0
+Benton,Precinct 05,Governor,,Pacific Green ,Joe Keating,67
+Benton,Precinct 05,Governor,,Democrat ,Ted Kulongoski,1470
+Benton,Precinct 05,Governor,,Libertarian ,Richard Morley,28
+Benton,Precinct 05,Governor,,Constitution ,Mary Starrett,20
+Benton,Precinct 05,Governor,,Republican ,Ron Saxton,279
+Benton,Precinct 05,Governor,,,Write-Ins ,6
+Benton,Precinct 05,Governor,,,Under Votes ,30
+Benton,Precinct 05,Governor,,,Over Votes ,0
+Benton,Precinct 06,Governor,,Pacific Green ,Joe Keating,56
+Benton,Precinct 06,Governor,,Democrat ,Ted Kulongoski,1433
+Benton,Precinct 06,Governor,,Libertarian ,Richard Morley,32
+Benton,Precinct 06,Governor,,Constitution ,Mary Starrett,30
+Benton,Precinct 06,Governor,,Republican ,Ron Saxton,549
+Benton,Precinct 06,Governor,,,Write-Ins ,5
+Benton,Precinct 06,Governor,,,Under Votes ,23
+Benton,Precinct 06,Governor,,,Over Votes ,2
+Benton,Precinct 07,Governor,,Pacific Green ,Joe Keating,55
+Benton,Precinct 07,Governor,,Democrat ,Ted Kulongoski,1994
+Benton,Precinct 07,Governor,,Libertarian ,Richard Morley,24
+Benton,Precinct 07,Governor,,Constitution ,Mary Starrett,28
+Benton,Precinct 07,Governor,,Republican ,Ron Saxton,808
+Benton,Precinct 07,Governor,,,Write-Ins ,7
+Benton,Precinct 07,Governor,,,Under Votes ,33
+Benton,Precinct 07,Governor,,,Over Votes ,0
+Benton,Precinct 08,Governor,,Pacific Green ,Joe Keating,62
+Benton,Precinct 08,Governor,,Democrat ,Ted Kulongoski,2089
+Benton,Precinct 08,Governor,,Libertarian ,Richard Morley,37
+Benton,Precinct 08,Governor,,Constitution ,Mary Starrett,17
+Benton,Precinct 08,Governor,,Republican ,Ron Saxton,960
+Benton,Precinct 08,Governor,,,Write-Ins ,5
+Benton,Precinct 08,Governor,,,Under Votes ,41
+Benton,Precinct 08,Governor,,,Over Votes ,0
+Benton,Precinct 09,Governor,,Pacific Green ,Joe Keating,52
+Benton,Precinct 09,Governor,,Democrat ,Ted Kulongoski,1233
+Benton,Precinct 09,Governor,,Libertarian ,Richard Morley,27
+Benton,Precinct 09,Governor,,Constitution ,Mary Starrett,40
+Benton,Precinct 09,Governor,,Republican ,Ron Saxton,712
+Benton,Precinct 09,Governor,,,Write-Ins ,3
+Benton,Precinct 09,Governor,,,Under Votes ,26
+Benton,Precinct 09,Governor,,,Over Votes ,0
+Benton,Precinct 10,Governor,,Pacific Green ,Joe Keating,22
+Benton,Precinct 10,Governor,,Democrat ,Ted Kulongoski,853
+Benton,Precinct 10,Governor,,Libertarian ,Richard Morley,19
+Benton,Precinct 10,Governor,,Constitution ,Mary Starrett,41
+Benton,Precinct 10,Governor,,Republican ,Ron Saxton,770
+Benton,Precinct 10,Governor,,,Write-Ins ,2
+Benton,Precinct 10,Governor,,,Under Votes ,18
+Benton,Precinct 10,Governor,,,Over Votes ,2
+Benton,Precinct 11,Governor,,Pacific Green ,Joe Keating,38
+Benton,Precinct 11,Governor,,Democrat ,Ted Kulongoski,1384
+Benton,Precinct 11,Governor,,Libertarian ,Richard Morley,27
+Benton,Precinct 11,Governor,,Constitution ,Mary Starrett,62
+Benton,Precinct 11,Governor,,Republican ,Ron Saxton,1771
+Benton,Precinct 11,Governor,,,Write-Ins ,3
+Benton,Precinct 11,Governor,,,Under Votes ,39
+Benton,Precinct 11,Governor,,,Over Votes ,1
+Benton,Precinct 12,Governor,,Pacific Green ,Joe Keating,4
+Benton,Precinct 12,Governor,,Democrat ,Ted Kulongoski,119
+Benton,Precinct 12,Governor,,Libertarian ,Richard Morley,5
+Benton,Precinct 12,Governor,,Constitution ,Mary Starrett,6
+Benton,Precinct 12,Governor,,Republican ,Ron Saxton,174
+Benton,Precinct 12,Governor,,,Write-Ins ,0
+Benton,Precinct 12,Governor,,,Under Votes ,10
+Benton,Precinct 12,Governor,,,Over Votes ,0
+Benton,Precinct 13,Governor,,Pacific Green ,Joe Keating,2
+Benton,Precinct 13,Governor,,Democrat ,Ted Kulongoski,115
+Benton,Precinct 13,Governor,,Libertarian ,Richard Morley,1
+Benton,Precinct 13,Governor,,Constitution ,Mary Starrett,7
+Benton,Precinct 13,Governor,,Republican ,Ron Saxton,95
+Benton,Precinct 13,Governor,,,Write-Ins ,0
+Benton,Precinct 13,Governor,,,Under Votes ,9
+Benton,Precinct 13,Governor,,,Over Votes ,0
+Benton,Precinct 14,Governor,,Pacific Green ,Joe Keating,9
+Benton,Precinct 14,Governor,,Democrat ,Ted Kulongoski,181
+Benton,Precinct 14,Governor,,Libertarian ,Richard Morley,5
+Benton,Precinct 14,Governor,,Constitution ,Mary Starrett,13
+Benton,Precinct 14,Governor,,Republican ,Ron Saxton,255
+Benton,Precinct 14,Governor,,,Write-Ins ,0
+Benton,Precinct 14,Governor,,,Under Votes ,8
+Benton,Precinct 14,Governor,,,Over Votes ,0
+Benton,Precinct 15,Governor,,Pacific Green ,Joe Keating,39
+Benton,Precinct 15,Governor,,Democrat ,Ted Kulongoski,1081
+Benton,Precinct 15,Governor,,Libertarian ,Richard Morley,32
+Benton,Precinct 15,Governor,,Constitution ,Mary Starrett,47
+Benton,Precinct 15,Governor,,Republican ,Ron Saxton,944
+Benton,Precinct 15,Governor,,,Write-Ins ,4
+Benton,Precinct 15,Governor,,,Under Votes ,34
+Benton,Precinct 15,Governor,,,Over Votes ,1
+Benton,Precinct 16,Governor,,Pacific Green ,Joe Keating,19
+Benton,Precinct 16,Governor,,Democrat ,Ted Kulongoski,687
+Benton,Precinct 16,Governor,,Libertarian ,Richard Morley,20
+Benton,Precinct 16,Governor,,Constitution ,Mary Starrett,19
+Benton,Precinct 16,Governor,,Republican ,Ron Saxton,448
+Benton,Precinct 16,Governor,,,Write-Ins ,2
+Benton,Precinct 16,Governor,,,Under Votes ,10
+Benton,Precinct 16,Governor,,,Over Votes ,1
+Benton,Precinct 17,Governor,,Pacific Green ,Joe Keating,47
+Benton,Precinct 17,Governor,,Democrat ,Ted Kulongoski,1576
+Benton,Precinct 17,Governor,,Libertarian ,Richard Morley,39
+Benton,Precinct 17,Governor,,Constitution ,Mary Starrett,42
+Benton,Precinct 17,Governor,,Republican ,Ron Saxton,1071
+Benton,Precinct 17,Governor,,,Write-Ins ,2
+Benton,Precinct 17,Governor,,,Under Votes ,22
+Benton,Precinct 17,Governor,,,Over Votes ,0
+Benton,Precinct 18,Governor,,Pacific Green ,Joe Keating,9
+Benton,Precinct 18,Governor,,Democrat ,Ted Kulongoski,423
+Benton,Precinct 18,Governor,,Libertarian ,Richard Morley,13
+Benton,Precinct 18,Governor,,Constitution ,Mary Starrett,38
+Benton,Precinct 18,Governor,,Republican ,Ron Saxton,652
+Benton,Precinct 18,Governor,,,Write-Ins ,1
+Benton,Precinct 18,Governor,,,Under Votes ,13
+Benton,Precinct 18,Governor,,,Over Votes ,0
+Benton,Precinct 19,Governor,,Pacific Green ,Joe Keating,42
+Benton,Precinct 19,Governor,,Democrat ,Ted Kulongoski,822
+Benton,Precinct 19,Governor,,Libertarian ,Richard Morley,19
+Benton,Precinct 19,Governor,,Constitution ,Mary Starrett,18
+Benton,Precinct 19,Governor,,Republican ,Ron Saxton,588
+Benton,Precinct 19,Governor,,,Write-Ins ,3
+Benton,Precinct 19,Governor,,,Under Votes ,19
+Benton,Precinct 19,Governor,,,Over Votes ,0
+Benton,Precinct 20,Governor,,Pacific Green ,Joe Keating,23
+Benton,Precinct 20,Governor,,Democrat ,Ted Kulongoski,421
+Benton,Precinct 20,Governor,,Libertarian ,Richard Morley,15
+Benton,Precinct 20,Governor,,Constitution ,Mary Starrett,23
+Benton,Precinct 20,Governor,,Republican ,Ron Saxton,529
+Benton,Precinct 20,Governor,,,Write-Ins ,1
+Benton,Precinct 20,Governor,,,Under Votes ,16
+Benton,Precinct 20,Governor,,,Over Votes ,0
+Benton,Precinct 01,State Senate,8,Democrat ,Mario E. Magana,1278
+Benton,Precinct 01,State Senate,8,Republican ,Frank Morse,1582
+Benton,Precinct 01,State Senate,8,,Write-Ins ,5
+Benton,Precinct 01,State Senate,8,,Under Votes ,126
+Benton,Precinct 01,State Senate,8,,Over Votes ,1
+Benton,Precinct 02,State Senate,8,Democrat ,Mario E. Magana,785
+Benton,Precinct 02,State Senate,8,Republican ,Frank Morse,265
+Benton,Precinct 02,State Senate,8,,Write-Ins ,5
+Benton,Precinct 02,State Senate,8,,Under Votes ,70
+Benton,Precinct 02,State Senate,8,,Over Votes ,0
+Benton,Precinct 03,State Senate,8,Democrat ,Mario E. Magana,1270
+Benton,Precinct 03,State Senate,8,Republican ,Frank Morse,884
+Benton,Precinct 03,State Senate,8,,Write-Ins ,7
+Benton,Precinct 03,State Senate,8,,Under Votes ,129
+Benton,Precinct 03,State Senate,8,,Over Votes ,1
+Benton,Precinct 04,State Senate,8,Democrat ,Mario E. Magana,546
+Benton,Precinct 04,State Senate,8,Republican ,Frank Morse,398
+Benton,Precinct 04,State Senate,8,,Write-Ins ,1
+Benton,Precinct 04,State Senate,8,,Under Votes ,72
+Benton,Precinct 04,State Senate,8,,Over Votes ,0
+Benton,Precinct 05,State Senate,8,Democrat ,Mario E. Magana,1243
+Benton,Precinct 05,State Senate,8,Republican ,Frank Morse,552
+Benton,Precinct 05,State Senate,8,,Write-Ins ,4
+Benton,Precinct 05,State Senate,8,,Under Votes ,100
+Benton,Precinct 05,State Senate,8,,Over Votes ,1
+Benton,Precinct 06,State Senate,8,Democrat ,Mario E. Magana,1074
+Benton,Precinct 06,State Senate,8,Republican ,Frank Morse,938
+Benton,Precinct 06,State Senate,8,,Write-Ins ,4
+Benton,Precinct 06,State Senate,8,,Under Votes ,113
+Benton,Precinct 06,State Senate,8,,Over Votes ,1
+Benton,Precinct 07,State Senate,8,Democrat ,Mario E. Magana,1410
+Benton,Precinct 07,State Senate,8,Republican ,Frank Morse,1421
+Benton,Precinct 07,State Senate,8,,Write-Ins ,5
+Benton,Precinct 07,State Senate,8,,Under Votes ,113
+Benton,Precinct 07,State Senate,8,,Over Votes ,0
+Benton,Precinct 08,State Senate,8,Democrat ,Mario E. Magana,1368
+Benton,Precinct 08,State Senate,8,Republican ,Frank Morse,1707
+Benton,Precinct 08,State Senate,8,,Write-Ins ,4
+Benton,Precinct 08,State Senate,8,,Under Votes ,132
+Benton,Precinct 08,State Senate,8,,Over Votes ,0
+Benton,Precinct 09,State Senate,8,Democrat ,Mario E. Magana,934
+Benton,Precinct 09,State Senate,8,Republican ,Frank Morse,1048
+Benton,Precinct 09,State Senate,8,,Write-Ins ,2
+Benton,Precinct 09,State Senate,8,,Under Votes ,109
+Benton,Precinct 09,State Senate,8,,Over Votes ,0
+Benton,Precinct 10,State Senate,8,Democrat ,Mario E. Magana,627
+Benton,Precinct 10,State Senate,8,Republican ,Frank Morse,1013
+Benton,Precinct 10,State Senate,8,,Write-Ins ,3
+Benton,Precinct 10,State Senate,8,,Under Votes ,82
+Benton,Precinct 10,State Senate,8,,Over Votes ,2
+Benton,Precinct 11,State Senate,8,Democrat ,Mario E. Magana,844
+Benton,Precinct 11,State Senate,8,Republican ,Frank Morse,2285
+Benton,Precinct 11,State Senate,8,,Write-Ins ,8
+Benton,Precinct 11,State Senate,8,,Under Votes ,187
+Benton,Precinct 11,State Senate,8,,Over Votes ,1
+Benton,Precinct 12,State Senate,8,Democrat ,Mario E. Magana,95
+Benton,Precinct 12,State Senate,8,Republican ,Frank Morse,206
+Benton,Precinct 12,State Senate,8,,Write-Ins ,1
+Benton,Precinct 12,State Senate,8,,Under Votes ,16
+Benton,Precinct 12,State Senate,8,,Over Votes ,0
+Benton,Precinct 15,State Senate,8,Democrat ,Mario E. Magana,48
+Benton,Precinct 15,State Senate,8,Republican ,Frank Morse,97
+Benton,Precinct 15,State Senate,8,,Write-Ins ,0
+Benton,Precinct 15,State Senate,8,,Under Votes ,7
+Benton,Precinct 15,State Senate,8,,Over Votes ,0
+Benton,Precinct 16,State Senate,8,Democrat ,Mario E. Magana,500
+Benton,Precinct 16,State Senate,8,Republican ,Frank Morse,634
+Benton,Precinct 16,State Senate,8,,Write-Ins ,1
+Benton,Precinct 16,State Senate,8,,Under Votes ,71
+Benton,Precinct 16,State Senate,8,,Over Votes ,0
+Benton,Precinct 17,State Senate,8,Democrat ,Mario E. Magana,1145
+Benton,Precinct 17,State Senate,8,Republican ,Frank Morse,1512
+Benton,Precinct 17,State Senate,8,,Write-Ins ,12
+Benton,Precinct 17,State Senate,8,,Under Votes ,130
+Benton,Precinct 17,State Senate,8,,Over Votes ,0
+Benton,Precinct 18,State Senate,8,Democrat ,Mario E. Magana,249
+Benton,Precinct 18,State Senate,8,Republican ,Frank Morse,837
+Benton,Precinct 18,State Senate,8,,Write-Ins ,6
+Benton,Precinct 18,State Senate,8,,Under Votes ,57
+Benton,Precinct 18,State Senate,8,,Over Votes ,0
+Benton,Precinct 19,State Senate,8,Democrat ,Mario E. Magana,254
+Benton,Precinct 19,State Senate,8,Republican ,Frank Morse,280
+Benton,Precinct 19,State Senate,8,,Write-Ins ,2
+Benton,Precinct 19,State Senate,8,,Under Votes ,32
+Benton,Precinct 19,State Senate,8,,Over Votes ,0
+Benton,Precinct 11,State House,15,Republican ,Andy Olson,2279
+Benton,Precinct 11,State House,15,Democrat ,Sam H.W. Sappington,894
+Benton,Precinct 11,State House,15,,Write-Ins ,6
+Benton,Precinct 11,State House,15,,Under Votes ,145
+Benton,Precinct 11,State House,15,,Over Votes ,1
+Benton,Precinct 12,State House,15,Republican ,Andy Olson,205
+Benton,Precinct 12,State House,15,Democrat ,Sam H.W. Sappington,91
+Benton,Precinct 12,State House,15,,Write-Ins ,1
+Benton,Precinct 12,State House,15,,Under Votes ,21
+Benton,Precinct 12,State House,15,,Over Votes ,0
+Benton,Precinct 17,State House,15,Republican ,Andy Olson,1325
+Benton,Precinct 17,State House,15,Democrat ,Sam H.W. Sappington,1296
+Benton,Precinct 17,State House,15,,Write-Ins ,5
+Benton,Precinct 17,State House,15,,Under Votes ,173
+Benton,Precinct 17,State House,15,,Over Votes ,0
+Benton,Precinct 18,State House,15,Republican ,Andy Olson,844
+Benton,Precinct 18,State House,15,Democrat ,Sam H.W. Sappington,261
+Benton,Precinct 18,State House,15,,Write-Ins ,1
+Benton,Precinct 18,State House,15,,Under Votes ,43
+Benton,Precinct 18,State House,15,,Over Votes ,0
+Benton,Precinct 01,State House,16,Republican ,Robin M. Brown,1107
+Benton,Precinct 01,State House,16,Democrat ,Sara A. Gelser,1774
+Benton,Precinct 01,State House,16,,Write-Ins ,2
+Benton,Precinct 01,State House,16,,Under Votes ,109
+Benton,Precinct 01,State House,16,,Over Votes ,0
+Benton,Precinct 02,State House,16,Republican ,Robin M. Brown,204
+Benton,Precinct 02,State House,16,Democrat ,Sara A. Gelser,857
+Benton,Precinct 02,State House,16,,Write-Ins ,2
+Benton,Precinct 02,State House,16,,Under Votes ,61
+Benton,Precinct 02,State House,16,,Over Votes ,1
+Benton,Precinct 03,State House,16,Republican ,Robin M. Brown,699
+Benton,Precinct 03,State House,16,Democrat ,Sara A. Gelser,1477
+Benton,Precinct 03,State House,16,,Write-Ins ,7
+Benton,Precinct 03,State House,16,,Under Votes ,107
+Benton,Precinct 03,State House,16,,Over Votes ,1
+Benton,Precinct 04,State House,16,Republican ,Robin M. Brown,243
+Benton,Precinct 04,State House,16,Democrat ,Sara A. Gelser,703
+Benton,Precinct 04,State House,16,,Write-Ins ,1
+Benton,Precinct 04,State House,16,,Under Votes ,70
+Benton,Precinct 04,State House,16,,Over Votes ,0
+Benton,Precinct 05,State House,16,Republican ,Robin M. Brown,317
+Benton,Precinct 05,State House,16,Democrat ,Sara A. Gelser,1490
+Benton,Precinct 05,State House,16,,Write-Ins ,3
+Benton,Precinct 05,State House,16,,Under Votes ,90
+Benton,Precinct 05,State House,16,,Over Votes ,0
+Benton,Precinct 06,State House,16,Republican ,Robin M. Brown,586
+Benton,Precinct 06,State House,16,Democrat ,Sara A. Gelser,1438
+Benton,Precinct 06,State House,16,,Write-Ins ,6
+Benton,Precinct 06,State House,16,,Under Votes ,99
+Benton,Precinct 06,State House,16,,Over Votes ,1
+Benton,Precinct 07,State House,16,Republican ,Robin M. Brown,841
+Benton,Precinct 07,State House,16,Democrat ,Sara A. Gelser,2021
+Benton,Precinct 07,State House,16,,Write-Ins ,6
+Benton,Precinct 07,State House,16,,Under Votes ,81
+Benton,Precinct 07,State House,16,,Over Votes ,0
+Benton,Precinct 08,State House,16,Republican ,Robin M. Brown,1008
+Benton,Precinct 08,State House,16,Democrat ,Sara A. Gelser,2078
+Benton,Precinct 08,State House,16,,Write-Ins ,4
+Benton,Precinct 08,State House,16,,Under Votes ,121
+Benton,Precinct 08,State House,16,,Over Votes ,0
+Benton,Precinct 09,State House,16,Republican ,Robin M. Brown,763
+Benton,Precinct 09,State House,16,Democrat ,Sara A. Gelser,1225
+Benton,Precinct 09,State House,16,,Write-Ins ,2
+Benton,Precinct 09,State House,16,,Under Votes ,103
+Benton,Precinct 09,State House,16,,Over Votes ,0
+Benton,Precinct 10,State House,16,Republican ,Robin M. Brown,788
+Benton,Precinct 10,State House,16,Democrat ,Sara A. Gelser,856
+Benton,Precinct 10,State House,16,,Write-Ins ,3
+Benton,Precinct 10,State House,16,,Under Votes ,78
+Benton,Precinct 10,State House,16,,Over Votes ,2
+Benton,Precinct 15,State House,16,Republican ,Robin M. Brown,68
+Benton,Precinct 15,State House,16,Democrat ,Sara A. Gelser,78
+Benton,Precinct 15,State House,16,,Write-Ins ,0
+Benton,Precinct 15,State House,16,,Under Votes ,6
+Benton,Precinct 15,State House,16,,Over Votes ,0
+Benton,Precinct 16,State House,16,Republican ,Robin M. Brown,450
+Benton,Precinct 16,State House,16,Democrat ,Sara A. Gelser,701
+Benton,Precinct 16,State House,16,,Write-Ins ,2
+Benton,Precinct 16,State House,16,,Under Votes ,53
+Benton,Precinct 16,State House,16,,Over Votes ,0
+Benton,Precinct 19,State House,16,Republican ,Robin M. Brown,176
+Benton,Precinct 19,State House,16,Democrat,Sara A. Gelser,360
+Benton,Precinct 19,State House,16,,Write-Ins ,2
+Benton,Precinct 19,State House,16,,Under Votes ,30
+Benton,Precinct 19,State House,16,,Over Votes ,0
+Benton,Precinct 13,State House,23,Republican ,Brian Boquist,92
+Benton,Precinct 13,State House,23,Democrat ,Jason Brown,102
+Benton,Precinct 13,State House,23,Libertarian ,Paul Delaney,11
+Benton,Precinct 13,State House,23,,Write-Ins ,0
+Benton,Precinct 13,State House,23,,Under Votes ,24
+Benton,Precinct 13,State House,23,,Over Votes ,0
+Benton,Precinct 14,State House,23,Republican ,Brian Boquist,249
+Benton,Precinct 14,State House,23,Democrat ,Jason Brown,160
+Benton,Precinct 14,State House,23,Libertarian ,Paul Delaney,21
+Benton,Precinct 14,State House,23,,Write-Ins ,2
+Benton,Precinct 14,State House,23,,Under Votes ,39
+Benton,Precinct 14,State House,23,,Over Votes ,0
+Benton,Precinct 15,State House,23,Republican ,Brian Boquist,871
+Benton,Precinct 15,State House,23,Democrat ,Jason Brown,940
+Benton,Precinct 15,State House,23,Libertarian ,Paul Delaney,65
+Benton,Precinct 15,State House,23,,Write-Ins ,3
+Benton,Precinct 15,State House,23,,Under Votes ,151
+Benton,Precinct 15,State House,23,,Over Votes ,0
+Benton,Precinct 19,State House,23,Republican ,Brian Boquist,421
+Benton,Precinct 19,State House,23,Democrat ,Jason Brown,427
+Benton,Precinct 19,State House,23,Libertarian ,Paul Delaney,23
+Benton,Precinct 19,State House,23,,Write-Ins ,1
+Benton,Precinct 19,State House,23,,Under Votes ,71
+Benton,Precinct 19,State House,23,,Over Votes ,0
+Benton,Precinct 20,State House,23,Republican ,Brian Boquist,502
+Benton,Precinct 20,State House,23,Democrat ,Jason Brown,420
+Benton,Precinct 20,State House,23,Libertarian ,Paul Delaney,30
+Benton,Precinct 20,State House,23,,Write-Ins ,0
+Benton,Precinct 20,State House,23,,Under Votes ,75
+Benton,Precinct 20,State House,23,,Over Votes ,1
