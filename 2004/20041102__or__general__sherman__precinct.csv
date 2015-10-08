@@ -1,0 +1,261 @@
+county,precinct,office,district,candidate,party,votes
+Sherman,Rufus #1,President,,John Kerry,DEM,89
+Sherman,Wasco #2,President,,John Kerry,DEM,141
+Sherman,Moro #3,President,,John Kerry,DEM,98
+Sherman,Grass Valley #4,President,,John Kerry,DEM,51
+Sherman,Kent #5,President,,John Kerry,DEM,11
+Sherman,Rufus #1,President,,David Cobb,GRN,2
+Sherman,Wasco #2,President,,David Cobb,GRN,1
+Sherman,Moro #3,President,,David Cobb,GRN,1
+Sherman,Grass Valley #4,President,,David Cobb,GRN,1
+Sherman,Kent #5,President,,David Cobb,GRN,0
+Sherman,Rufus #1,President,,Michael Peroutka,CON,0
+Sherman,Wasco #2,President,,Michael Peroutka,CON,1
+Sherman,Moro #3,President,,Michael Peroutka,CON,0
+Sherman,Grass Valley #4,President,,Michael Peroutka,CON,0
+Sherman,Kent #5,President,,Michael Peroutka,CON,2
+Sherman,Rufus #1,President,,Michael Badnarik,LIB,2
+Sherman,Wasco #2,President,,Michael Badnarik,LIB,2
+Sherman,Moro #3,President,,Michael Badnarik,LIB,3
+Sherman,Grass Valley #4,President,,Michael Badnarik,LIB,0
+Sherman,Kent #5,President,,Michael Badnarik,LIB,0
+Sherman,Rufus #1,President,,George W Bush,REP,82
+Sherman,Wasco #2,President,,George W Bush,REP,245
+Sherman,Moro #3,President,,George W Bush,REP,203
+Sherman,Grass Valley #4,President,,George W Bush,REP,116
+Sherman,Kent #5,President,,George W Bush,REP,48
+Sherman,Rufus #1,President,,Write-ins,,1
+Sherman,Wasco #2,President,,Write-ins,,2
+Sherman,Moro #3,President,,Write-ins,,2
+Sherman,Grass Valley #4,President,,Write-ins,,0
+Sherman,Kent #5,President,,Write-ins,,0
+Sherman,Rufus #1,President,,Over Votes,,1
+Sherman,Wasco #2,President,,Over Votes,,4
+Sherman,Moro #3,President,,Over Votes,,6
+Sherman,Grass Valley #4,President,,Over Votes,,2
+Sherman,Kent #5,President,,Over Votes,,2
+Sherman,Rufus #1,President,,Under Votes,,0
+Sherman,Wasco #2,President,,Under Votes,,1
+Sherman,Moro #3,President,,Under Votes,,6
+Sherman,Grass Valley #4,President,,Under Votes,,1
+Sherman,Kent #5,President,,Under Votes,,0
+Sherman,Rufus #1,U.S. Senate,,Teresa Keane,PGP,2
+Sherman,Wasco #2,U.S. Senate,,Teresa Keane,PGP,4
+Sherman,Moro #3,U.S. Senate,,Teresa Keane,PGP,4
+Sherman,Grass Valley #4,U.S. Senate,,Teresa Keane,PGP,0
+Sherman,Kent #5,U.S. Senate,,Teresa Keane,PGP,1
+Sherman,Rufus #1,U.S. Senate,,Al King,REP,43
+Sherman,Wasco #2,U.S. Senate,,Al King,REP,137
+Sherman,Moro #3,U.S. Senate,,Al King,REP,94
+Sherman,Grass Valley #4,U.S. Senate,,Al King,REP,63
+Sherman,Kent #5,U.S. Senate,,Al King,REP,29
+Sherman,Rufus #1,U.S. Senate,,Dan Fitzgerald,LIB,0
+Sherman,Wasco #2,U.S. Senate,,Dan Fitzgerald,LIB,7
+Sherman,Moro #3,U.S. Senate,,Dan Fitzgerald,LIB,2
+Sherman,Grass Valley #4,U.S. Senate,,Dan Fitzgerald,LIB,2
+Sherman,Kent #5,U.S. Senate,,Dan Fitzgerald,LIB,0
+Sherman,Rufus #1,U.S. Senate,,Ron Wyden,DEM,126
+Sherman,Wasco #2,U.S. Senate,,Ron Wyden,DEM,235
+Sherman,Moro #3,U.S. Senate,,Ron Wyden,DEM,203
+Sherman,Grass Valley #4,U.S. Senate,,Ron Wyden,DEM,95
+Sherman,Kent #5,U.S. Senate,,Ron Wyden,DEM,26
+Sherman,Rufus #1,U.S. Senate,,David Brownlow,CON,0
+Sherman,Wasco #2,U.S. Senate,,David Brownlow,CON,3
+Sherman,Moro #3,U.S. Senate,,David Brownlow,CON,0
+Sherman,Grass Valley #4,U.S. Senate,,David Brownlow,CON,1
+Sherman,Kent #5,U.S. Senate,,David Brownlow,CON,2
+Sherman,Rufus #1,U.S. Senate,,Write-ins,,0
+Sherman,Wasco #2,U.S. Senate,,Write-ins,,0
+Sherman,Moro #3,U.S. Senate,,Write-ins,,0
+Sherman,Grass Valley #4,U.S. Senate,,Write-ins,,0
+Sherman,Kent #5,U.S. Senate,,Write-ins,,0
+Sherman,Rufus #1,U.S. Senate,,Over Votes,,1
+Sherman,Wasco #2,U.S. Senate,,Over Votes,,3
+Sherman,Moro #3,U.S. Senate,,Over Votes,,1
+Sherman,Grass Valley #4,U.S. Senate,,Over Votes,,2
+Sherman,Kent #5,U.S. Senate,,Over Votes,,3
+Sherman,Rufus #1,U.S. Senate,,Under Votes,,5
+Sherman,Wasco #2,U.S. Senate,,Under Votes,,8
+Sherman,Moro #3,U.S. Senate,,Under Votes,,15
+Sherman,Grass Valley #4,U.S. Senate,,Under Votes,,8
+Sherman,Kent #5,U.S. Senate,,Under Votes,,2
+Sherman,Rufus #1,U.S. House,2,Jim Lindsay,LIB,1
+Sherman,Wasco #2,U.S. House,2,Jim Lindsay,LIB,3
+Sherman,Moro #3,U.S. House,2,Jim Lindsay,LIB,3
+Sherman,Grass Valley #4,U.S. House,2,Jim Lindsay,LIB,0
+Sherman,Kent #5,U.S. House,2,Jim Lindsay,LIB,0
+Sherman,Rufus #1,U.S. House,2,John C. McColgan,DEM,53
+Sherman,Wasco #2,U.S. House,2,John C. McColgan,DEM,72
+Sherman,Moro #3,U.S. House,2,John C. McColgan,DEM,50
+Sherman,Grass Valley #4,U.S. House,2,John C. McColgan,DEM,28
+Sherman,Kent #5,U.S. House,2,John C. McColgan,DEM,6
+Sherman,Rufus #1,U.S. House,2,Greg Walden,REP,111
+Sherman,Wasco #2,U.S. House,2,Greg Walden,REP,299
+Sherman,Moro #3,U.S. House,2,Greg Walden,REP,259
+Sherman,Grass Valley #4,U.S. House,2,Greg Walden,REP,139
+Sherman,Kent #5,U.S. House,2,Greg Walden,REP,55
+Sherman,Rufus #1,U.S. House,2,"Jack Alan Brown, Jr.",CON,2
+Sherman,Wasco #2,U.S. House,2,"Jack Alan Brown, Jr.",CON,9
+Sherman,Moro #3,U.S. House,2,"Jack Alan Brown, Jr.",CON,1
+Sherman,Grass Valley #4,U.S. House,2,"Jack Alan Brown, Jr.",CON,1
+Sherman,Kent #5,U.S. House,2,"Jack Alan Brown, Jr.",CON,1
+Sherman,Rufus #1,U.S. House,2,Write-ins,,0
+Sherman,Wasco #2,U.S. House,2,Write-ins,,0
+Sherman,Moro #3,U.S. House,2,Write-ins,,0
+Sherman,Grass Valley #4,U.S. House,2,Write-ins,,0
+Sherman,Kent #5,U.S. House,2,Write-ins,,0
+Sherman,Rufus #1,U.S. House,2,Over Votes,,0
+Sherman,Wasco #2,U.S. House,2,Over Votes,,0
+Sherman,Moro #3,U.S. House,2,Over Votes,,0
+Sherman,Grass Valley #4,U.S. House,2,Over Votes,,0
+Sherman,Kent #5,U.S. House,2,Over Votes,,1
+Sherman,Rufus #1,U.S. House,2,Under Votes,,10
+Sherman,Wasco #2,U.S. House,2,Under Votes,,14
+Sherman,Moro #3,U.S. House,2,Under Votes,,6
+Sherman,Grass Valley #4,U.S. House,2,Under Votes,,3
+Sherman,Kent #5,U.S. House,2,Under Votes,,0
+Sherman,Rufus #1,Secretary of State,,Betsy L. Close,REP,51
+Sherman,Wasco #2,Secretary of State,,Betsy L. Close,REP,190
+Sherman,Moro #3,Secretary of State,,Betsy L. Close,REP,142
+Sherman,Grass Valley #4,Secretary of State,,Betsy L. Close,REP,87
+Sherman,Kent #5,Secretary of State,,Betsy L. Close,REP,40
+Sherman,Rufus #1,Secretary of State,,Richard Morley,LIB,3
+Sherman,Wasco #2,Secretary of State,,Richard Morley,LIB,14
+Sherman,Moro #3,Secretary of State,,Richard Morley,LIB,6
+Sherman,Grass Valley #4,Secretary of State,,Richard Morley,LIB,4
+Sherman,Kent #5,Secretary of State,,Richard Morley,LIB,2
+Sherman,Rufus #1,Secretary of State,,Bill Bradbury,DEM,107
+Sherman,Wasco #2,Secretary of State,,Bill Bradbury,DEM,176
+Sherman,Moro #3,Secretary of State,,Bill Bradbury,DEM,151
+Sherman,Grass Valley #4,Secretary of State,,Bill Bradbury,DEM,71
+Sherman,Kent #5,Secretary of State,,Bill Bradbury,DEM,17
+Sherman,Rufus #1,Secretary of State,,Write-ins,,0
+Sherman,Wasco #2,Secretary of State,,Write-ins,,0
+Sherman,Moro #3,Secretary of State,,Write-ins,,3
+Sherman,Grass Valley #4,Secretary of State,,Write-ins,,0
+Sherman,Kent #5,Secretary of State,,Write-ins,,0
+Sherman,Rufus #1,Secretary of State,,Over Votes,,1
+Sherman,Wasco #2,Secretary of State,,Over Votes,,1
+Sherman,Moro #3,Secretary of State,,Over Votes,,2
+Sherman,Grass Valley #4,Secretary of State,,Over Votes,,1
+Sherman,Kent #5,Secretary of State,,Over Votes,,0
+Sherman,Rufus #1,Secretary of State,,Under Votes,,15
+Sherman,Wasco #2,Secretary of State,,Under Votes,,16
+Sherman,Moro #3,Secretary of State,,Under Votes,,15
+Sherman,Grass Valley #4,Secretary of State,,Under Votes,,8
+Sherman,Kent #5,Secretary of State,,Under Votes,,4
+Sherman,Rufus #1,State Treasurer,,Randall Edwards,DEM,82
+Sherman,Wasco #2,State Treasurer,,Randall Edwards,DEM,148
+Sherman,Moro #3,State Treasurer,,Randall Edwards,DEM,116
+Sherman,Grass Valley #4,State Treasurer,,Randall Edwards,DEM,61
+Sherman,Kent #5,State Treasurer,,Randall Edwards,DEM,14
+Sherman,Rufus #1,State Treasurer,,Jeff Caton,REP,54
+Sherman,Wasco #2,State Treasurer,,Jeff Caton,REP,181
+Sherman,Moro #3,State Treasurer,,Jeff Caton,REP,149
+Sherman,Grass Valley #4,State Treasurer,,Jeff Caton,REP,85
+Sherman,Kent #5,State Treasurer,,Jeff Caton,REP,44
+Sherman,Rufus #1,State Treasurer,,Carole D. Winegarden,CON,8
+Sherman,Wasco #2,State Treasurer,,Carole D. Winegarden,CON,21
+Sherman,Moro #3,State Treasurer,,Carole D. Winegarden,CON,7
+Sherman,Grass Valley #4,State Treasurer,,Carole D. Winegarden,CON,6
+Sherman,Kent #5,State Treasurer,,Carole D. Winegarden,CON,2
+Sherman,Rufus #1,State Treasurer,,Mitch Shults,LIB,8
+Sherman,Wasco #2,State Treasurer,,Mitch Shults,LIB,13
+Sherman,Moro #3,State Treasurer,,Mitch Shults,LIB,8
+Sherman,Grass Valley #4,State Treasurer,,Mitch Shults,LIB,1
+Sherman,Kent #5,State Treasurer,,Mitch Shults,LIB,0
+Sherman,Rufus #1,State Treasurer,,Write-ins,,0
+Sherman,Wasco #2,State Treasurer,,Write-ins,,0
+Sherman,Moro #3,State Treasurer,,Write-ins,,0
+Sherman,Grass Valley #4,State Treasurer,,Write-ins,,0
+Sherman,Kent #5,State Treasurer,,Write-ins,,0
+Sherman,Rufus #1,State Treasurer,,Over Votes,,0
+Sherman,Wasco #2,State Treasurer,,Over Votes,,0
+Sherman,Moro #3,State Treasurer,,Over Votes,,0
+Sherman,Grass Valley #4,State Treasurer,,Over Votes,,0
+Sherman,Kent #5,State Treasurer,,Over Votes,,0
+Sherman,Rufus #1,State Treasurer,,Under Votes,,25
+Sherman,Wasco #2,State Treasurer,,Under Votes,,34
+Sherman,Moro #3,State Treasurer,,Under Votes,,39
+Sherman,Grass Valley #4,State Treasurer,,Under Votes,,18
+Sherman,Kent #5,State Treasurer,,Under Votes,,3
+Sherman,Rufus #1,Attorney General,,Richard D. Hake,CON,4
+Sherman,Wasco #2,Attorney General,,Richard D. Hake,CON,1
+Sherman,Moro #3,Attorney General,,Richard D. Hake,CON,3
+Sherman,Grass Valley #4,Attorney General,,Richard D. Hake,CON,1
+Sherman,Kent #5,Attorney General,,Richard D. Hake,CON,2
+Sherman,Rufus #1,Attorney General,,Paul Connolly,REP,56
+Sherman,Wasco #2,Attorney General,,Paul Connolly,REP,194
+Sherman,Moro #3,Attorney General,,Paul Connolly,REP,140
+Sherman,Grass Valley #4,Attorney General,,Paul Connolly,REP,93
+Sherman,Kent #5,Attorney General,,Paul Connolly,REP,42
+Sherman,Rufus #1,Attorney General,,Hardy Myers,DEM,95
+Sherman,Wasco #2,Attorney General,,Hardy Myers,DEM,155
+Sherman,Moro #3,Attorney General,,Hardy Myers,DEM,137
+Sherman,Grass Valley #4,Attorney General,,Hardy Myers,DEM,58
+Sherman,Kent #5,Attorney General,,Hardy Myers,DEM,16
+Sherman,Rufus #1,Attorney General,,"Donald G. Smith, Jr.",LIB,4
+Sherman,Wasco #2,Attorney General,,"Donald G. Smith, Jr.",LIB,17
+Sherman,Moro #3,Attorney General,,"Donald G. Smith, Jr.",LIB,7
+Sherman,Grass Valley #4,Attorney General,,"Donald G. Smith, Jr.",LIB,3
+Sherman,Kent #5,Attorney General,,"Donald G. Smith, Jr.",LIB,1
+Sherman,Rufus #1,Attorney General,,Write-ins,,0
+Sherman,Wasco #2,Attorney General,,Write-ins,,0
+Sherman,Moro #3,Attorney General,,Write-ins,,0
+Sherman,Grass Valley #4,Attorney General,,Write-ins,,0
+Sherman,Kent #5,Attorney General,,Write-ins,,0
+Sherman,Rufus #1,Attorney General,,Over Votes,,0
+Sherman,Wasco #2,Attorney General,,Over Votes,,2
+Sherman,Moro #3,Attorney General,,Over Votes,,1
+Sherman,Grass Valley #4,Attorney General,,Over Votes,,0
+Sherman,Kent #5,Attorney General,,Over Votes,,0
+Sherman,Rufus #1,Attorney General,,Under Votes,,18
+Sherman,Wasco #2,Attorney General,,Under Votes,,28
+Sherman,Moro #3,Attorney General,,Under Votes,,31
+Sherman,Grass Valley #4,Attorney General,,Under Votes,,16
+Sherman,Kent #5,Attorney General,,Under Votes,,2
+Sherman,Rufus #1,State Senate,30,Ted Ferrioli,REP,104
+Sherman,Wasco #2,State Senate,30,Ted Ferrioli,REP,296
+Sherman,Moro #3,State Senate,30,Ted Ferrioli,REP,241
+Sherman,Grass Valley #4,State Senate,30,Ted Ferrioli,REP,131
+Sherman,Kent #5,State Senate,30,Ted Ferrioli,REP,53
+Sherman,Rufus #1,State Senate,30,Write-ins,,0
+Sherman,Wasco #2,State Senate,30,Write-ins,,2
+Sherman,Moro #3,State Senate,30,Write-ins,,5
+Sherman,Grass Valley #4,State Senate,30,Write-ins,,3
+Sherman,Kent #5,State Senate,30,Write-ins,,1
+Sherman,Rufus #1,State Senate,30,Over Votes,,0
+Sherman,Wasco #2,State Senate,30,Over Votes,,0
+Sherman,Moro #3,State Senate,30,Over Votes,,0
+Sherman,Grass Valley #4,State Senate,30,Over Votes,,0
+Sherman,Kent #5,State Senate,30,Over Votes,,0
+Sherman,Rufus #1,State Senate,30,Under Votes,,73
+Sherman,Wasco #2,State Senate,30,Under Votes,,99
+Sherman,Moro #3,State Senate,30,Under Votes,,73
+Sherman,Grass Valley #4,State Senate,30,Under Votes,,37
+Sherman,Kent #5,State Senate,30,Under Votes,,9
+Sherman,Rufus #1,State House,59,John H. Dallum,REP,80
+Sherman,Wasco #2,State House,59,John H. Dallum,REP,235
+Sherman,Moro #3,State House,59,John H. Dallum,REP,195
+Sherman,Grass Valley #4,State House,59,John H. Dallum,REP,107
+Sherman,Kent #5,State House,59,John H. Dallum,REP,47
+Sherman,Rufus #1,State House,59,Jack E. Lorts,DEM,74
+Sherman,Wasco #2,State House,59,Jack E. Lorts,DEM,135
+Sherman,Moro #3,State House,59,Jack E. Lorts,DEM,93
+Sherman,Grass Valley #4,State House,59,Jack E. Lorts,DEM,53
+Sherman,Kent #5,State House,59,Jack E. Lorts,DEM,13
+Sherman,Rufus #1,State House,59,Write-ins,,0
+Sherman,Wasco #2,State House,59,Write-ins,,0
+Sherman,Moro #3,State House,59,Write-ins,,1
+Sherman,Grass Valley #4,State House,59,Write-ins,,0
+Sherman,Kent #5,State House,59,Write-ins,,0
+Sherman,Rufus #1,State House,59,Over Votes,,0
+Sherman,Wasco #2,State House,59,Over Votes,,0
+Sherman,Moro #3,State House,59,Over Votes,,0
+Sherman,Grass Valley #4,State House,59,Over Votes,,1
+Sherman,Kent #5,State House,59,Over Votes,,1
+Sherman,Rufus #1,State House,59,Under Votes,,23
+Sherman,Wasco #2,State House,59,Under Votes,,27
+Sherman,Moro #3,State House,59,Under Votes,,30
+Sherman,Grass Valley #4,State House,59,Under Votes,,10
+Sherman,Kent #5,State House,59,Under Votes,,2
