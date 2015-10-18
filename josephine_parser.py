@@ -1,19 +1,19 @@
 import unicodecsv
 from BeautifulSoup import BeautifulSoup
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
-parties = ['(DEMOCRAT)', '(REPUBLICAN)', '(NONPARTISAN)']
-offices = ['United States Senator', 'Representative in Congress, 2nd District', 'Representative in Congress, 4th District', 'State Representative, 1st District', 'State Representative, 2nd District', 'State Representative, 3rd District', 'State Representative, 4th District', 'Governor']
+parties = ['DEMOCRAT', 'REPUBLICAN']
+offices = ['United States President', 'United States Senator', 'Representative in Congress, 2nd District', 'Representative in Congress, 4th District', 'State Representative, 1st District', 'State Representative, 2nd District', 'State Representative, 3rd District', 'State Representative, 4th District', 'Governor', 'Representative, 2nd Dist. 2ND DISTRICT', 'Representative, 4th Dist. 4TH DISTRICT', 'State Treasurer', 'Attorney General', 'Secretary of State', 'State Senator, 1st District', 'State Senator, 2nd District']
 office_lookup = {
     'United States Senator' : 'U.S. Senate', 'Representative in Congress' : 'U.S. House', 'Governor' : 'Governor', 'State Senator' : 'State Senate',
     'State Representative' : 'State House', 'Secretary of State' : 'Secretary of State', 'Attorney General' : 'Attorney General',
-    'State Treasurer' : 'State Treasurer'
+    'State Treasurer' : 'State Treasurer', 'Representative' : 'U.S. House', 'United States President' : 'President'
 }
 
-with open('20140520__or__primary__josephine__precinct.csv', 'wb') as csvfile:
+with open('20080512__or__primary__josephine__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    file = open("/Users/derekwillis/code/openelections-sources-or/Josephine/May14.htm").read()
+    file = open("/Users/derekwillis/code/openelections-sources-or/Josephine/May08.htm").read()
     soup = BeautifulSoup(file)
     lines = soup.find('pre').text.split('\r\n')
     keys = []
@@ -52,13 +52,13 @@ with open('20140520__or__primary__josephine__precinct.csv', 'wb') as csvfile:
             continue
         if line.strip().split("    ")[0:3] == [u'01', u'02', u'03']:
             continue
-
         if any(party in line for party in parties):
             party = line.replace("(",'').replace(")",'').strip()
             continue
         # parse offices, reset keys
         if any(office in line for office in offices):
-            if "District" in line.strip():
+            print line.strip()
+            if "DISTRICT" in line.strip().upper():
                 o, d = line.strip().split(', ')
                 office = office_lookup[o.strip()]
                 district = d[0]
