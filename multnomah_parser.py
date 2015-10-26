@@ -15,14 +15,15 @@ offices = ['United States President and Vice President', 'United States Presiden
 'State Senator, 21st District', 'State Senator, 22nd District', 'State Senator, 23rd District', 'State Senator, 25th District', 'Representative in Congress, 5th District',
 'State Representative, 36th District', 'State Representative, 38th District', 'State Representative, 41st District', 'State Representative, 42nd District', 'State Representative, 43rd District',
 'State Representative, 44th District', 'State Representative, 45th District', 'State Representative, 46th District', 'State Representative, 47th District', 'State Representative, 48th District',
-'State Representative, 49th District', 'State Representative, 50th District', 'State Representative, 51st District', 'State Representative, 52nd District']
+'State Representative, 49th District', 'State Representative, 50th District', 'State Representative, 51st District', 'State Representative, 52nd District', 'United States Representative, 3rd Dist.',
+'United States Representative, 1st Dist.', 'United States Representative, 5th Dist.']
 
 office_lookup = {
-    'United States Senator' : 'U.S. Senate', 'Representative in Congress' : 'U.S. House', 'Governor' : 'Governor', 'State Senator' : 'State Senate',
+    'United States Senator' : 'U.S. Senate', 'United States Representative' : 'U.S. House', 'Governor' : 'Governor', 'State Senator' : 'State Senate',
     'State Representative' : 'State House', 'Secretary of State' : 'Secretary of State', 'Attorney General' : 'Attorney General',
-    'State Treasurer' : 'State Treasurer', 'Representative' : 'U.S. House', 'United States President' : 'President', 'Representative, Congress' : 'U.S. House',
-    'United States President' : 'President', 'Representative in Congress, 3rd District': 'U.S. House', 'Representative, Congress 2nd Dist': 'U.S. House',
-    'United States President and Vice President': 'President', 'Representative in Congress, 5th District' : 'U.S. House'
+    'State Treasurer' : 'State Treasurer', 'Representative' : 'U.S. House', 'United States President' : 'President', 'United States Representative, 5th Dist.' : 'U.S. House',
+    'United States President' : 'President', 'Representative in Congress, 3rd District': 'U.S. House', 'United States Representative, 1st Dist.': 'U.S. House',
+    'United States President and Vice President': 'President', 'Representative in Congress, 5th District' : 'U.S. House', 'United States Representative, 3rd Dist.': 'U.S. House'
 }
 
 def skip_check(line):
@@ -30,6 +31,8 @@ def skip_check(line):
     if line.strip() == 'General Election':
         p = True
     elif line.strip() == '\n':
+        p = True
+    elif "US REPRESENTATIVE" in line:
         p = True
     elif "NUMBERED KEY CANVASS" in line:
         p = True
@@ -58,8 +61,8 @@ def skip_check(line):
     return p
 
 def office_check(line):
-    if "District" in line.strip():
-        if 'District' in line.strip():
+    if "Dist" in line.strip():
+        if 'Dist' in line.strip():
             o, d = line.strip().split(', ')
         else:
             o1, o2, d = line.strip().split(', ')
@@ -115,11 +118,11 @@ def process_line(line, keys, w):
     #    except:
     #        pass
 
-with open('20081104__or__general__multnomah__precinct.csv', 'wb') as csvfile:
+with open('20061107__or__general__multnomah__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    r = requests.get('https://multco.us/elections/november-4-2008-abstracts')
+    r = requests.get('https://multco.us/elections/november-7-2006-abstracts')
     soup = BeautifulSoup(r.text)
     lines = soup.find('pre').text.split('\n')
     keys = []
