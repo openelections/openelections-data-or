@@ -151,5 +151,6 @@ with open('20040518__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
             party = line.replace("(",'').replace(")",'').strip()
         if any(office in line for office in offices):
             office, district = office_check(line)
+            print office
             keys = []
         process_line(line, keys, w, party)
