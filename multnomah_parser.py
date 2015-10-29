@@ -5,7 +5,7 @@ from BeautifulSoup import BeautifulSoup
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
-parties = ['DEMOCRAT', 'REPUBLICAN', 'Democratic', 'Republican']
+parties = ['DEMOCRAT', 'REPUBLICAN', 'Democrat', 'Republican']
 
 party_abbrevs = ['(REP)', '(DEM)', '(GRN)', '(PRO)', '(LIB)', '(CON)', '(PAC)', '(LBT)', '(WFP)', '(PGP)', '(PCE)', '(IND)']
 
@@ -148,18 +148,18 @@ def process_line(line, keys, w, party):
 #        else:
 #            pass
 
-with open('20060516__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
+with open('20080520__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    r = requests.get('https://multco.us/elections/may-16-2006-abstracts')
+    r = requests.get('https://multco.us/elections/may-20-2008-primary-election-abstracts-results-precinct')
     soup = BeautifulSoup(r.text)
     lines = soup.find('pre').text.split('\n')
     keys = []
     for line in lines:
-        if 'COMMISSIONER' in line:
+        if 'Commissioner' in line:
             break
-        if 'JUDGE' in line:
+        if 'Judge' in line:
             break
         if skip_check(line):
             continue
