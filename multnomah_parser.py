@@ -148,16 +148,18 @@ def process_line(line, keys, w, party):
 #        else:
 #            pass
 
-with open('20080520__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
+with open('20100518__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    r = requests.get('https://multco.us/elections/may-20-2008-primary-election-abstracts-results-precinct')
+    r = requests.get('https://multco.us/elections/may-18-2010-abstracts')
     soup = BeautifulSoup(r.text)
     lines = soup.find('pre').text.split('\n')
     keys = []
     for line in lines:
         if 'Commissioner' in line:
+            break
+        if 'Superintendent' in line:
             break
         if 'Judge' in line:
             break
