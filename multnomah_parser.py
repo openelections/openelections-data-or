@@ -5,7 +5,7 @@ from BeautifulSoup import BeautifulSoup
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
-parties = ['DEMOCRAT', 'REPUBLICAN']
+parties = ['DEMOCRAT', 'REPUBLICAN', 'Democratic', 'Republican']
 
 party_abbrevs = ['(REP)', '(DEM)', '(GRN)', '(PRO)', '(LIB)', '(CON)', '(PAC)', '(LBT)', '(WFP)', '(PGP)', '(PCE)', '(IND)']
 
@@ -21,7 +21,12 @@ offices = ['United States President and Vice President', 'United States Presiden
 'STATE SENATOR DIST 21', 'STATE SENATOR DIST 22', 'STATE SENATOR DIST 23', 'STATE REPRESENTATIVE DIST 27', 'STATE REPRESENTATIVE DIST 31', 'STATE REPRESENTATIVE DIST 33', 'STATE REPRESENTATIVE DIST 35',
 'STATE REPRESENTATIVE DIST 36', 'STATE REPRESENTATIVE DIST 38', 'STATE REPRESENTATIVE DIST 41', 'STATE REPRESENTATIVE DIST 42', 'STATE REPRESENTATIVE DIST 43', 'STATE REPRESENTATIVE DIST 44',
 'STATE REPRESENTATIVE DIST 45', 'STATE REPRESENTATIVE DIST 46', 'STATE REPRESENTATIVE DIST 47', 'STATE REPRESENTATIVE DIST 48', 'STATE REPRESENTATIVE DIST 49', 'STATE REPRESENTATIVE DIST 50',
-'STATE REPRESENTATIVE DIST 51', 'STATE REPRESENTATIVE DIST 52', 'SECRETARY OF STATE', 'UNITED STATES PRESIDENT']
+'STATE REPRESENTATIVE DIST 51', 'STATE REPRESENTATIVE DIST 52', 'SECRETARY OF STATE', 'UNITED STATES PRESIDENT', '1ST CONGRESSIONAL DISTRICT', '3RD CONGRESSIONAL DISTRICT', '5TH CONGRESSIONAL DISTRICT',
+'STATE SENATOR, 14TH DISTRICT', 'STATE SENATOR, 18TH DISTRICT', 'STATE SENATOR, 21ST DISTRICT', 'STATE SENATOR, 22ND DISTRICT', 'STATE SENATOR, 23RD DISTRICT', 'STATE SENATOR, 25TH DISTRICT',
+'STATE REPRESENTATIVE, 27TH DISTRICT', 'STATE REPRESENTATIVE, 31ST DISTRICT', 'STATE REPRESENTATIVE, 33RD DISTRICT', 'STATE REPRESENTATIVE, 35TH DISTRICT', 'STATE REPRESENTATIVE, 36TH DISTRICT',
+'STATE REPRESENTATIVE, 38TH DISTRICT', 'STATE REPRESENTATIVE, 41ST DISTRICT', 'STATE REPRESENTATIVE, 42ND DISTRICT', 'STATE REPRESENTATIVE, 43RD DISTRICT', 'STATE REPRESENTATIVE, 44TH DISTRICT',
+'STATE REPRESENTATIVE, 45TH DISTRICT', 'STATE REPRESENTATIVE, 46TH DISTRICT', 'STATE REPRESENTATIVE, 47TH DISTRICT', 'STATE REPRESENTATIVE, 48TH DISTRICT', 'STATE REPRESENTATIVE, 49TH DISTRICT',
+'STATE REPRESENTATIVE, 50TH DISTRICT', 'STATE REPRESENTATIVE, 51ST DISTRICT', 'STATE REPRESENTATIVE, 52ND DISTRICT']
 
 office_lookup = {
     'United States Senator' : 'U.S. Senate', 'United States Representative' : 'U.S. House', 'Governor' : 'Governor', 'State Senator' : 'State Senate',
@@ -30,12 +35,15 @@ office_lookup = {
     'United States President' : 'President', 'Representative in Congress, 3rd District': 'U.S. House', 'United States Representative, 1st Dist.': 'U.S. House',
     'United States President and Vice President': 'President', 'Representative in Congress, 5th District' : 'U.S. House', 'United States Representative, 3rd Dist.': 'U.S. House',
     'UNITED STATES SENATOR': 'U.S. Senate', 'UNITED STATES REPRESENTATIVE': 'U.S. House', 'SECRETARY OF STATE' : 'Secretary of State', 'UNITED STATES PRESIDENT': 'President',
-    'STATE TREASURER' : 'State Treasurer', 'ATTORNEY GENERAL': 'Attorney General', 'STATE SENATOR': 'State Senate', 'STATE REPRESENTATIVE': 'State House'
+    'STATE TREASURER' : 'State Treasurer', 'ATTORNEY GENERAL': 'Attorney General', 'STATE SENATOR': 'State Senate', 'STATE REPRESENTATIVE': 'State House', '1ST CONGRESSIONAL DISTRICT' : 'U.S. House',
+    '3RD CONGRESSIONAL DISTRICT': 'U.S. House', '5TH CONGRESSIONAL DISTRICT' : 'U.S. House', 'State Senator, 17th District': 'State Senate'
 }
 
 def skip_check(line):
     p = False
     if line.strip() == 'General Election':
+        p = True
+    elif line.strip() == 'May 16, 2006':
         p = True
     elif line.strip() == '\n':
         p = True
@@ -61,24 +69,32 @@ def skip_check(line):
         p = True
     elif 'ELECTION' in line:
         p = True
+    elif 'REGISTERED VOTERS' in line:
+        p = True
+    elif 'BALLOTS CAST' in line:
+        p = True
     elif 'of the' in line:
         p = True
-    elif 'VOTE FOR' in line.strip():
+    elif 'Vote For' in line.strip():
         p = True
     elif line.strip().split("    ")[0:3] == [u'01', u'02', u'03']:
         p = True
     return p
 
 def office_check(line):
-    if "DIST" in line.strip():
-        o, d = line.strip().split(' DIST ')
+    if "Dist" in line.strip():
+        if ',' in line.strip():
+            o, d = line.strip().split(', ')
+            district = "".join([s for s in d if s.isdigit()])
+        else:
+            o = line.strip()
+            district = "".join([s for s in o if s.isdigit()])
 #        if 'dist' in line.strip():
 #            o, d = line.strip().split(', ')
 #        else:
 #            o1, o2, d = line.strip().split(', ')
 #            o = o1.strip() + ', ' + o2.strip()
         office = office_lookup[o]
-        district = d#"".join([s for s in d if s.isdigit()])
     else:
         office = office_lookup[line.strip()]
         district = None
@@ -129,14 +145,14 @@ def process_line(line, keys, w, party):
                     except:
                         continue
                         #w.writerow(['Multnomah', precinct, 'Total', None, cand['party'], cand['name'], result_bits[cand['code']]])
-    #    except:
-    #        pass
+#        else:
+#            pass
 
-with open('20040518__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
+with open('20060516__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    r = requests.get('https://multco.us/elections/may-18-2004-abstracts')
+    r = requests.get('https://multco.us/elections/may-16-2006-abstracts')
     soup = BeautifulSoup(r.text)
     lines = soup.find('pre').text.split('\n')
     keys = []
@@ -153,4 +169,7 @@ with open('20040518__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
             office, district = office_check(line)
             print office
             keys = []
-        process_line(line, keys, w, party)
+        try:
+            process_line(line, keys, w, party)
+        except:
+            continue
