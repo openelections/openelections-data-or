@@ -1,0 +1,361 @@
+county,precinct,office,district,party,candidate,votes
+Wasco,PREC 1,President,,PCE,RALPH NADER,22.0
+Wasco,PREC 2,President,,PCE,RALPH NADER,19.0
+Wasco,PREC 3,President,,PCE,RALPH NADER,11.0
+Wasco,PREC 4,President,,PCE,RALPH NADER,12.0
+Wasco,PREC 5,President,,PCE,RALPH NADER,26.0
+Wasco,PREC 6,President,,PCE,RALPH NADER,5.0
+Wasco,PREC 7,President,,PCE,RALPH NADER,14.0
+Wasco,PREC 8,President,,PCE,RALPH NADER,6.0
+Wasco,PREC 9,President,,PCE,RALPH NADER,16.0
+Wasco,PREC 10,President,,PCE,RALPH NADER,9.0
+Wasco,PREC 1,President,,PAC,CYNTHIA MCKINNEY,3.0
+Wasco,PREC 2,President,,PAC,CYNTHIA MCKINNEY,5.0
+Wasco,PREC 3,President,,PAC,CYNTHIA MCKINNEY,1.0
+Wasco,PREC 4,President,,PAC,CYNTHIA MCKINNEY,6.0
+Wasco,PREC 5,President,,PAC,CYNTHIA MCKINNEY,5.0
+Wasco,PREC 6,President,,PAC,CYNTHIA MCKINNEY,4.0
+Wasco,PREC 7,President,,PAC,CYNTHIA MCKINNEY,1.0
+Wasco,PREC 8,President,,PAC,CYNTHIA MCKINNEY,1.0
+Wasco,PREC 9,President,,PAC,CYNTHIA MCKINNEY,2.0
+Wasco,PREC 10,President,,PAC,CYNTHIA MCKINNEY,3.0
+Wasco,PREC 1,President,,REP,JOHN MCCAIN,432.0
+Wasco,PREC 2,President,,REP,JOHN MCCAIN,782.0
+Wasco,PREC 3,President,,REP,JOHN MCCAIN,623.0
+Wasco,PREC 4,President,,REP,JOHN MCCAIN,635.0
+Wasco,PREC 5,President,,REP,JOHN MCCAIN,507.0
+Wasco,PREC 6,President,,REP,JOHN MCCAIN,374.0
+Wasco,PREC 7,President,,REP,JOHN MCCAIN,571.0
+Wasco,PREC 8,President,,REP,JOHN MCCAIN,494.0
+Wasco,PREC 9,President,,REP,JOHN MCCAIN,329.0
+Wasco,PREC 10,President,,REP,JOHN MCCAIN,356.0
+Wasco,PREC 1,President,,LIB,BOB BARR,5.0
+Wasco,PREC 2,President,,LIB,BOB BARR,4.0
+Wasco,PREC 3,President,,LIB,BOB BARR,9.0
+Wasco,PREC 4,President,,LIB,BOB BARR,4.0
+Wasco,PREC 5,President,,LIB,BOB BARR,7.0
+Wasco,PREC 6,President,,LIB,BOB BARR,3.0
+Wasco,PREC 7,President,,LIB,BOB BARR,3.0
+Wasco,PREC 8,President,,LIB,BOB BARR,0.0
+Wasco,PREC 9,President,,LIB,BOB BARR,2.0
+Wasco,PREC 10,President,,LIB,BOB BARR,9.0
+Wasco,PREC 1,President,,CON,CHUCK BALDWIN,7.0
+Wasco,PREC 2,President,,CON,CHUCK BALDWIN,10.0
+Wasco,PREC 3,President,,CON,CHUCK BALDWIN,10.0
+Wasco,PREC 4,President,,CON,CHUCK BALDWIN,4.0
+Wasco,PREC 5,President,,CON,CHUCK BALDWIN,4.0
+Wasco,PREC 6,President,,CON,CHUCK BALDWIN,4.0
+Wasco,PREC 7,President,,CON,CHUCK BALDWIN,6.0
+Wasco,PREC 8,President,,CON,CHUCK BALDWIN,8.0
+Wasco,PREC 9,President,,CON,CHUCK BALDWIN,4.0
+Wasco,PREC 10,President,,CON,CHUCK BALDWIN,4.0
+Wasco,PREC 1,President,,DEM,BARACK OBAMA,565.0
+Wasco,PREC 2,President,,DEM,BARACK OBAMA,1061.0
+Wasco,PREC 3,President,,DEM,BARACK OBAMA,832.0
+Wasco,PREC 4,President,,DEM,BARACK OBAMA,671.0
+Wasco,PREC 5,President,,DEM,BARACK OBAMA,795.0
+Wasco,PREC 6,President,,DEM,BARACK OBAMA,438.0
+Wasco,PREC 7,President,,DEM,BARACK OBAMA,494.0
+Wasco,PREC 8,President,,DEM,BARACK OBAMA,320.0
+Wasco,PREC 9,President,,DEM,BARACK OBAMA,346.0
+Wasco,PREC 10,President,,DEM,BARACK OBAMA,384.0
+Wasco,PREC 1,President,,,UNDERVOTES,12.0
+Wasco,PREC 2,President,,,UNDERVOTES,21.0
+Wasco,PREC 3,President,,,UNDERVOTES,10.0
+Wasco,PREC 4,President,,,UNDERVOTES,16.0
+Wasco,PREC 5,President,,,UNDERVOTES,14.0
+Wasco,PREC 6,President,,,UNDERVOTES,1.0
+Wasco,PREC 7,President,,,UNDERVOTES,12.0
+Wasco,PREC 8,President,,,UNDERVOTES,10.0
+Wasco,PREC 9,President,,,UNDERVOTES,14.0
+Wasco,PREC 10,President,,,UNDERVOTES,15.0
+Wasco,PREC 1,President,,,OVERVOTES,6.0
+Wasco,PREC 2,President,,,OVERVOTES,2.0
+Wasco,PREC 3,President,,,OVERVOTES,2.0
+Wasco,PREC 4,President,,,OVERVOTES,2.0
+Wasco,PREC 5,President,,,OVERVOTES,1.0
+Wasco,PREC 6,President,,,OVERVOTES,2.0
+Wasco,PREC 7,President,,,OVERVOTES,1.0
+Wasco,PREC 8,President,,,OVERVOTES,1.0
+Wasco,PREC 9,President,,,OVERVOTES,0.0
+Wasco,PREC 10,President,,,OVERVOTES,3.0
+Wasco,PREC 1,President,,,,
+Wasco,PREC 2,President,,,,
+Wasco,PREC 3,President,,,,
+Wasco,PREC 4,President,,,,
+Wasco,PREC 5,President,,,,
+Wasco,PREC 6,President,,,,
+Wasco,PREC 7,President,,,,
+Wasco,PREC 8,President,,,,
+Wasco,PREC 9,President,,,,
+Wasco,PREC 10,President,,,,
+Wasco,PREC 1,President,,REP,GORDON H SMITH,499.0
+Wasco,PREC 2,President,,REP,GORDON H SMITH,908.0
+Wasco,PREC 3,President,,REP,GORDON H SMITH,732.0
+Wasco,PREC 4,President,,REP,GORDON H SMITH,716.0
+Wasco,PREC 5,President,,REP,GORDON H SMITH,571.0
+Wasco,PREC 6,President,,REP,GORDON H SMITH,405.0
+Wasco,PREC 7,President,,REP,GORDON H SMITH,628.0
+Wasco,PREC 8,President,,REP,GORDON H SMITH,534.0
+Wasco,PREC 9,President,,REP,GORDON H SMITH,334.0
+Wasco,PREC 10,President,,REP,GORDON H SMITH,435.0
+Wasco,PREC 1,President,,DEM,JEFF MERKLEY,437.0
+Wasco,PREC 2,President,,DEM,JEFF MERKLEY,836.0
+Wasco,PREC 3,President,,DEM,JEFF MERKLEY,640.0
+Wasco,PREC 4,President,,DEM,JEFF MERKLEY,523.0
+Wasco,PREC 5,President,,DEM,JEFF MERKLEY,655.0
+Wasco,PREC 6,President,,DEM,JEFF MERKLEY,333.0
+Wasco,PREC 7,President,,DEM,JEFF MERKLEY,373.0
+Wasco,PREC 8,President,,DEM,JEFF MERKLEY,237.0
+Wasco,PREC 9,President,,DEM,JEFF MERKLEY,296.0
+Wasco,PREC 10,President,,DEM,JEFF MERKLEY,256.0
+Wasco,PREC 1,President,,CON,DAVE BROWNLOW,85.0
+Wasco,PREC 2,President,,CON,DAVE BROWNLOW,95.0
+Wasco,PREC 3,President,,CON,DAVE BROWNLOW,96.0
+Wasco,PREC 4,President,,CON,DAVE BROWNLOW,62.0
+Wasco,PREC 5,President,,CON,DAVE BROWNLOW,101.0
+Wasco,PREC 6,President,,CON,DAVE BROWNLOW,68.0
+Wasco,PREC 7,President,,CON,DAVE BROWNLOW,59.0
+Wasco,PREC 8,President,,CON,DAVE BROWNLOW,41.0
+Wasco,PREC 9,President,,CON,DAVE BROWNLOW,61.0
+Wasco,PREC 10,President,,CON,DAVE BROWNLOW,50.0
+Wasco,PREC 1,President,,,UNDERVOTES,39.0
+Wasco,PREC 2,President,,,UNDERVOTES,73.0
+Wasco,PREC 3,President,,,UNDERVOTES,38.0
+Wasco,PREC 4,President,,,UNDERVOTES,59.0
+Wasco,PREC 5,President,,,UNDERVOTES,43.0
+Wasco,PREC 6,President,,,UNDERVOTES,27.0
+Wasco,PREC 7,President,,,UNDERVOTES,48.0
+Wasco,PREC 8,President,,,UNDERVOTES,34.0
+Wasco,PREC 9,President,,,UNDERVOTES,27.0
+Wasco,PREC 10,President,,,UNDERVOTES,42.0
+Wasco,PREC 1,President,,,OVERVOTES,0.0
+Wasco,PREC 2,President,,,OVERVOTES,0.0
+Wasco,PREC 3,President,,,OVERVOTES,0.0
+Wasco,PREC 4,President,,,OVERVOTES,0.0
+Wasco,PREC 5,President,,,OVERVOTES,1.0
+Wasco,PREC 6,President,,,OVERVOTES,0.0
+Wasco,PREC 7,President,,,OVERVOTES,0.0
+Wasco,PREC 8,President,,,OVERVOTES,2.0
+Wasco,PREC 9,President,,,OVERVOTES,0.0
+Wasco,PREC 10,President,,,OVERVOTES,0.0
+Wasco,PREC 1,U.S. House,2,CON,RICHARD D HAKE,15.0
+Wasco,PREC 2,U.S. House,2,CON,RICHARD D HAKE,25.0
+Wasco,PREC 3,U.S. House,2,CON,RICHARD D HAKE,25.0
+Wasco,PREC 4,U.S. House,2,CON,RICHARD D HAKE,11.0
+Wasco,PREC 5,U.S. House,2,CON,RICHARD D HAKE,22.0
+Wasco,PREC 6,U.S. House,2,CON,RICHARD D HAKE,9.0
+Wasco,PREC 7,U.S. House,2,CON,RICHARD D HAKE,18.0
+Wasco,PREC 8,U.S. House,2,CON,RICHARD D HAKE,11.0
+Wasco,PREC 9,U.S. House,2,CON,RICHARD D HAKE,9.0
+Wasco,PREC 10,U.S. House,2,CON,RICHARD D HAKE,15.0
+Wasco,PREC 1,U.S. House,2,PAC,TRISTIN MOCK,24.0
+Wasco,PREC 2,U.S. House,2,PAC,TRISTIN MOCK,69.0
+Wasco,PREC 3,U.S. House,2,PAC,TRISTIN MOCK,45.0
+Wasco,PREC 4,U.S. House,2,PAC,TRISTIN MOCK,27.0
+Wasco,PREC 5,U.S. House,2,PAC,TRISTIN MOCK,59.0
+Wasco,PREC 6,U.S. House,2,PAC,TRISTIN MOCK,21.0
+Wasco,PREC 7,U.S. House,2,PAC,TRISTIN MOCK,17.0
+Wasco,PREC 8,U.S. House,2,PAC,TRISTIN MOCK,15.0
+Wasco,PREC 9,U.S. House,2,PAC,TRISTIN MOCK,13.0
+Wasco,PREC 10,U.S. House,2,PAC,TRISTIN MOCK,23.0
+Wasco,PREC 1,U.S. House,2,REP,GREG WALDEN,680.0
+Wasco,PREC 2,U.S. House,2,REP,GREG WALDEN,1157.0
+Wasco,PREC 3,U.S. House,2,REP,GREG WALDEN,945.0
+Wasco,PREC 4,U.S. House,2,REP,GREG WALDEN,921.0
+Wasco,PREC 5,U.S. House,2,REP,GREG WALDEN,760.0
+Wasco,PREC 6,U.S. House,2,REP,GREG WALDEN,564.0
+Wasco,PREC 7,U.S. House,2,REP,GREG WALDEN,781.0
+Wasco,PREC 8,U.S. House,2,REP,GREG WALDEN,637.0
+Wasco,PREC 9,U.S. House,2,REP,GREG WALDEN,456.0
+Wasco,PREC 10,U.S. House,2,REP,GREG WALDEN,500.0
+Wasco,PREC 1,U.S. House,2,DEM,NOAH LEMUS,289.0
+Wasco,PREC 2,U.S. House,2,DEM,NOAH LEMUS,564.0
+Wasco,PREC 3,U.S. House,2,DEM,NOAH LEMUS,424.0
+Wasco,PREC 4,U.S. House,2,DEM,NOAH LEMUS,341.0
+Wasco,PREC 5,U.S. House,2,DEM,NOAH LEMUS,442.0
+Wasco,PREC 6,U.S. House,2,DEM,NOAH LEMUS,205.0
+Wasco,PREC 7,U.S. House,2,DEM,NOAH LEMUS,247.0
+Wasco,PREC 8,U.S. House,2,DEM,NOAH LEMUS,140.0
+Wasco,PREC 9,U.S. House,2,DEM,NOAH LEMUS,212.0
+Wasco,PREC 10,U.S. House,2,DEM,NOAH LEMUS,186.0
+Wasco,PREC 1,U.S. House,2,,UNDERVOTES,53.0
+Wasco,PREC 2,U.S. House,2,,UNDERVOTES,98.0
+Wasco,PREC 3,U.S. House,2,,UNDERVOTES,69.0
+Wasco,PREC 4,U.S. House,2,,UNDERVOTES,59.0
+Wasco,PREC 5,U.S. House,2,,UNDERVOTES,87.0
+Wasco,PREC 6,U.S. House,2,,UNDERVOTES,32.0
+Wasco,PREC 7,U.S. House,2,,UNDERVOTES,46.0
+Wasco,PREC 8,U.S. House,2,,UNDERVOTES,47.0
+Wasco,PREC 9,U.S. House,2,,UNDERVOTES,29.0
+Wasco,PREC 10,U.S. House,2,,UNDERVOTES,58.0
+Wasco,PREC 1,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 2,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 3,U.S. House,2,,OVERVOTES,1.0
+Wasco,PREC 4,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 5,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 6,U.S. House,2,,OVERVOTES,1.0
+Wasco,PREC 7,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 8,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 9,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 10,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 1,Secretary of State,,DEM,KATE BROWN,509.0
+Wasco,PREC 2,Secretary of State,,DEM,KATE BROWN,927.0
+Wasco,PREC 3,Secretary of State,,DEM,KATE BROWN,697.0
+Wasco,PREC 4,Secretary of State,,DEM,KATE BROWN,607.0
+Wasco,PREC 5,Secretary of State,,DEM,KATE BROWN,690.0
+Wasco,PREC 6,Secretary of State,,DEM,KATE BROWN,389.0
+Wasco,PREC 7,Secretary of State,,DEM,KATE BROWN,436.0
+Wasco,PREC 8,Secretary of State,,DEM,KATE BROWN,278.0
+Wasco,PREC 9,Secretary of State,,DEM,KATE BROWN,350.0
+Wasco,PREC 10,Secretary of State,,DEM,KATE BROWN,312.0
+Wasco,PREC 1,Secretary of State,,PAC,SETH ALAN WOOLLEY,28.0
+Wasco,PREC 2,Secretary of State,,PAC,SETH ALAN WOOLLEY,55.0
+Wasco,PREC 3,Secretary of State,,PAC,SETH ALAN WOOLLEY,49.0
+Wasco,PREC 4,Secretary of State,,PAC,SETH ALAN WOOLLEY,26.0
+Wasco,PREC 5,Secretary of State,,PAC,SETH ALAN WOOLLEY,55.0
+Wasco,PREC 6,Secretary of State,,PAC,SETH ALAN WOOLLEY,17.0
+Wasco,PREC 7,Secretary of State,,PAC,SETH ALAN WOOLLEY,24.0
+Wasco,PREC 8,Secretary of State,,PAC,SETH ALAN WOOLLEY,18.0
+Wasco,PREC 9,Secretary of State,,PAC,SETH ALAN WOOLLEY,8.0
+Wasco,PREC 10,Secretary of State,,PAC,SETH ALAN WOOLLEY,23.0
+Wasco,PREC 1,Secretary of State,,REP,RICK DANCER,445.0
+Wasco,PREC 2,Secretary of State,,REP,RICK DANCER,766.0
+Wasco,PREC 3,Secretary of State,,REP,RICK DANCER,663.0
+Wasco,PREC 4,Secretary of State,,REP,RICK DANCER,625.0
+Wasco,PREC 5,Secretary of State,,REP,RICK DANCER,511.0
+Wasco,PREC 6,Secretary of State,,REP,RICK DANCER,370.0
+Wasco,PREC 7,Secretary of State,,REP,RICK DANCER,580.0
+Wasco,PREC 8,Secretary of State,,REP,RICK DANCER,487.0
+Wasco,PREC 9,Secretary of State,,REP,RICK DANCER,308.0
+Wasco,PREC 10,Secretary of State,,REP,RICK DANCER,318.0
+Wasco,PREC 1,Secretary of State,,,UNDERVOTES,69.0
+Wasco,PREC 2,Secretary of State,,,UNDERVOTES,144.0
+Wasco,PREC 3,Secretary of State,,,UNDERVOTES,89.0
+Wasco,PREC 4,Secretary of State,,,UNDERVOTES,91.0
+Wasco,PREC 5,Secretary of State,,,UNDERVOTES,92.0
+Wasco,PREC 6,Secretary of State,,,UNDERVOTES,50.0
+Wasco,PREC 7,Secretary of State,,,UNDERVOTES,64.0
+Wasco,PREC 8,Secretary of State,,,UNDERVOTES,59.0
+Wasco,PREC 9,Secretary of State,,,UNDERVOTES,47.0
+Wasco,PREC 10,Secretary of State,,,UNDERVOTES,57.0
+Wasco,PREC 1,Secretary of State,,,OVERVOTES,1.0
+Wasco,PREC 2,Secretary of State,,,OVERVOTES,0.0
+Wasco,PREC 3,Secretary of State,,,OVERVOTES,0.0
+Wasco,PREC 4,Secretary of State,,,OVERVOTES,0.0
+Wasco,PREC 5,Secretary of State,,,OVERVOTES,0.0
+Wasco,PREC 6,Secretary of State,,,OVERVOTES,1.0
+Wasco,PREC 7,Secretary of State,,,OVERVOTES,0.0
+Wasco,PREC 8,Secretary of State,,,OVERVOTES,0.0
+Wasco,PREC 9,Secretary of State,,,OVERVOTES,0.0
+Wasco,PREC 10,Secretary of State,,,OVERVOTES,1.0
+Wasco,PREC 1,State Treasurer,,REP,ALLEN ALLEY,405.0
+Wasco,PREC 2,State Treasurer,,REP,ALLEN ALLEY,726.0
+Wasco,PREC 3,State Treasurer,,REP,ALLEN ALLEY,600.0
+Wasco,PREC 4,State Treasurer,,REP,ALLEN ALLEY,586.0
+Wasco,PREC 5,State Treasurer,,REP,ALLEN ALLEY,488.0
+Wasco,PREC 6,State Treasurer,,REP,ALLEN ALLEY,331.0
+Wasco,PREC 7,State Treasurer,,REP,ALLEN ALLEY,567.0
+Wasco,PREC 8,State Treasurer,,REP,ALLEN ALLEY,450.0
+Wasco,PREC 9,State Treasurer,,REP,ALLEN ALLEY,269.0
+Wasco,PREC 10,State Treasurer,,REP,ALLEN ALLEY,305.0
+Wasco,PREC 1,State Treasurer,,CON,MICHAEL MARSH,33.0
+Wasco,PREC 2,State Treasurer,,CON,MICHAEL MARSH,50.0
+Wasco,PREC 3,State Treasurer,,CON,MICHAEL MARSH,58.0
+Wasco,PREC 4,State Treasurer,,CON,MICHAEL MARSH,31.0
+Wasco,PREC 5,State Treasurer,,CON,MICHAEL MARSH,46.0
+Wasco,PREC 6,State Treasurer,,CON,MICHAEL MARSH,31.0
+Wasco,PREC 7,State Treasurer,,CON,MICHAEL MARSH,26.0
+Wasco,PREC 8,State Treasurer,,CON,MICHAEL MARSH,28.0
+Wasco,PREC 9,State Treasurer,,CON,MICHAEL MARSH,27.0
+Wasco,PREC 10,State Treasurer,,CON,MICHAEL MARSH,25.0
+Wasco,PREC 1,State Treasurer,,DEM,BEN WESTLUND,518.0
+Wasco,PREC 2,State Treasurer,,DEM,BEN WESTLUND,906.0
+Wasco,PREC 3,State Treasurer,,DEM,BEN WESTLUND,722.0
+Wasco,PREC 4,State Treasurer,,DEM,BEN WESTLUND,611.0
+Wasco,PREC 5,State Treasurer,,DEM,BEN WESTLUND,688.0
+Wasco,PREC 6,State Treasurer,,DEM,BEN WESTLUND,403.0
+Wasco,PREC 7,State Treasurer,,DEM,BEN WESTLUND,426.0
+Wasco,PREC 8,State Treasurer,,DEM,BEN WESTLUND,279.0
+Wasco,PREC 9,State Treasurer,,DEM,BEN WESTLUND,358.0
+Wasco,PREC 10,State Treasurer,,DEM,BEN WESTLUND,307.0
+Wasco,PREC 1,State Treasurer,,,UNDERVOTES,96.0
+Wasco,PREC 2,State Treasurer,,,UNDERVOTES,210.0
+Wasco,PREC 3,State Treasurer,,,UNDERVOTES,117.0
+Wasco,PREC 4,State Treasurer,,,UNDERVOTES,118.0
+Wasco,PREC 5,State Treasurer,,,UNDERVOTES,126.0
+Wasco,PREC 6,State Treasurer,,,UNDERVOTES,63.0
+Wasco,PREC 7,State Treasurer,,,UNDERVOTES,85.0
+Wasco,PREC 8,State Treasurer,,,UNDERVOTES,84.0
+Wasco,PREC 9,State Treasurer,,,UNDERVOTES,59.0
+Wasco,PREC 10,State Treasurer,,,UNDERVOTES,73.0
+Wasco,PREC 1,State Treasurer,,,OVERVOTES,1.0
+Wasco,PREC 2,State Treasurer,,,OVERVOTES,0.0
+Wasco,PREC 3,State Treasurer,,,OVERVOTES,0.0
+Wasco,PREC 4,State Treasurer,,,OVERVOTES,1.0
+Wasco,PREC 5,State Treasurer,,,OVERVOTES,0.0
+Wasco,PREC 6,State Treasurer,,,OVERVOTES,0.0
+Wasco,PREC 7,State Treasurer,,,OVERVOTES,0.0
+Wasco,PREC 8,State Treasurer,,,OVERVOTES,0.0
+Wasco,PREC 9,State Treasurer,,,OVERVOTES,0.0
+Wasco,PREC 10,State Treasurer,,,OVERVOTES,1.0
+Wasco,PREC 1,Attorney General,,DEM,JOHN R KROGER,636.0
+Wasco,PREC 2,Attorney General,,DEM,JOHN R KROGER,1184.0
+Wasco,PREC 3,Attorney General,,DEM,JOHN R KROGER,924.0
+Wasco,PREC 4,Attorney General,,DEM,JOHN R KROGER,826.0
+Wasco,PREC 5,Attorney General,,DEM,JOHN R KROGER,802.0
+Wasco,PREC 6,Attorney General,,DEM,JOHN R KROGER,470.0
+Wasco,PREC 7,Attorney General,,DEM,JOHN R KROGER,615.0
+Wasco,PREC 8,Attorney General,,DEM,JOHN R KROGER,438.0
+Wasco,PREC 9,Attorney General,,DEM,JOHN R KROGER,411.0
+Wasco,PREC 10,Attorney General,,DEM,JOHN R KROGER,387.0
+Wasco,PREC 1,Attorney General,,WRK,J ASHLEE ALBIES,123.0
+Wasco,PREC 2,Attorney General,,WRK,J ASHLEE ALBIES,148.0
+Wasco,PREC 3,Attorney General,,WRK,J ASHLEE ALBIES,160.0
+Wasco,PREC 4,Attorney General,,WRK,J ASHLEE ALBIES,115.0
+Wasco,PREC 5,Attorney General,,WRK,J ASHLEE ALBIES,134.0
+Wasco,PREC 6,Attorney General,,WRK,J ASHLEE ALBIES,110.0
+Wasco,PREC 7,Attorney General,,WRK,J ASHLEE ALBIES,102.0
+Wasco,PREC 8,Attorney General,,WRK,J ASHLEE ALBIES,100.0
+Wasco,PREC 9,Attorney General,,WRK,J ASHLEE ALBIES,85.0
+Wasco,PREC 10,Attorney General,,WRK,J ASHLEE ALBIES,80.0
+Wasco,PREC 1,Attorney General,,PAC,WALTER F (WALT) BROWN,36.0
+Wasco,PREC 2,Attorney General,,PAC,WALTER F (WALT) BROWN,60.0
+Wasco,PREC 3,Attorney General,,PAC,WALTER F (WALT) BROWN,45.0
+Wasco,PREC 4,Attorney General,,PAC,WALTER F (WALT) BROWN,37.0
+Wasco,PREC 5,Attorney General,,PAC,WALTER F (WALT) BROWN,60.0
+Wasco,PREC 6,Attorney General,,PAC,WALTER F (WALT) BROWN,29.0
+Wasco,PREC 7,Attorney General,,PAC,WALTER F (WALT) BROWN,23.0
+Wasco,PREC 8,Attorney General,,PAC,WALTER F (WALT) BROWN,20.0
+Wasco,PREC 9,Attorney General,,PAC,WALTER F (WALT) BROWN,20.0
+Wasco,PREC 10,Attorney General,,PAC,WALTER F (WALT) BROWN,28.0
+Wasco,PREC 1,Attorney General,,CON,JAMES E LEUENBERGER,79.0
+Wasco,PREC 2,Attorney General,,CON,JAMES E LEUENBERGER,145.0
+Wasco,PREC 3,Attorney General,,CON,JAMES E LEUENBERGER,123.0
+Wasco,PREC 4,Attorney General,,CON,JAMES E LEUENBERGER,104.0
+Wasco,PREC 5,Attorney General,,CON,JAMES E LEUENBERGER,133.0
+Wasco,PREC 6,Attorney General,,CON,JAMES E LEUENBERGER,74.0
+Wasco,PREC 7,Attorney General,,CON,JAMES E LEUENBERGER,130.0
+Wasco,PREC 8,Attorney General,,CON,JAMES E LEUENBERGER,84.0
+Wasco,PREC 9,Attorney General,,CON,JAMES E LEUENBERGER,66.0
+Wasco,PREC 10,Attorney General,,CON,JAMES E LEUENBERGER,62.0
+Wasco,PREC 1,Attorney General,,,UNDERVOTES,174.0
+Wasco,PREC 2,Attorney General,,,UNDERVOTES,352.0
+Wasco,PREC 3,Attorney General,,,UNDERVOTES,239.0
+Wasco,PREC 4,Attorney General,,,UNDERVOTES,265.0
+Wasco,PREC 5,Attorney General,,,UNDERVOTES,215.0
+Wasco,PREC 6,Attorney General,,,UNDERVOTES,144.0
+Wasco,PREC 7,Attorney General,,,UNDERVOTES,229.0
+Wasco,PREC 8,Attorney General,,,UNDERVOTES,198.0
+Wasco,PREC 9,Attorney General,,,UNDERVOTES,126.0
+Wasco,PREC 10,Attorney General,,,UNDERVOTES,152.0
+Wasco,PREC 1,Attorney General,,,OVERVOTES,1.0
+Wasco,PREC 2,Attorney General,,,OVERVOTES,0.0
+Wasco,PREC 3,Attorney General,,,OVERVOTES,1.0
+Wasco,PREC 4,Attorney General,,,OVERVOTES,1.0
+Wasco,PREC 5,Attorney General,,,OVERVOTES,0.0
+Wasco,PREC 6,Attorney General,,,OVERVOTES,0.0
+Wasco,PREC 7,Attorney General,,,OVERVOTES,0.0
+Wasco,PREC 8,Attorney General,,,OVERVOTES,0.0
+Wasco,PREC 9,Attorney General,,,OVERVOTES,0.0
+Wasco,PREC 10,Attorney General,,,OVERVOTES,1.0

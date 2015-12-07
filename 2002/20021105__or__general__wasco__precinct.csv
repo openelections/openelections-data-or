@@ -1,0 +1,161 @@
+county,precinct,office,district,party,candidate,votes
+Wasco,PREC 1,U.S. Senate,,CON,"MABON, LON",13.0
+Wasco,PREC 2,U.S. Senate,,CON,"MABON, LON",16.0
+Wasco,PREC 3,U.S. Senate,,CON,"MABON, LON",32.0
+Wasco,PREC 4,U.S. Senate,,CON,"MABON, LON",11.0
+Wasco,PREC 5,U.S. Senate,,CON,"MABON, LON",17.0
+Wasco,PREC 6,U.S. Senate,,CON,"MABON, LON",18.0
+Wasco,PREC 7,U.S. Senate,,CON,"MABON, LON",15.0
+Wasco,PREC 8,U.S. Senate,,CON,"MABON, LON",12.0
+Wasco,PREC 9,U.S. Senate,,CON,"MABON, LON",5.0
+Wasco,PREC 10,U.S. Senate,,CON,"MABON, LON",12.0
+Wasco,PREC 1,U.S. Senate,,DEM,"BRADBURY, BILL",313.0
+Wasco,PREC 2,U.S. Senate,,DEM,"BRADBURY, BILL",503.0
+Wasco,PREC 3,U.S. Senate,,DEM,"BRADBURY, BILL",471.0
+Wasco,PREC 4,U.S. Senate,,DEM,"BRADBURY, BILL",291.0
+Wasco,PREC 5,U.S. Senate,,DEM,"BRADBURY, BILL",421.0
+Wasco,PREC 6,U.S. Senate,,DEM,"BRADBURY, BILL",300.0
+Wasco,PREC 7,U.S. Senate,,DEM,"BRADBURY, BILL",285.0
+Wasco,PREC 8,U.S. Senate,,DEM,"BRADBURY, BILL",126.0
+Wasco,PREC 9,U.S. Senate,,DEM,"BRADBURY, BILL",181.0
+Wasco,PREC 10,U.S. Senate,,DEM,"BRADBURY, BILL",151.0
+Wasco,PREC 1,U.S. Senate,,REP,"SMITH, GORDON",510.0
+Wasco,PREC 2,U.S. Senate,,REP,"SMITH, GORDON",812.0
+Wasco,PREC 3,U.S. Senate,,REP,"SMITH, GORDON",818.0
+Wasco,PREC 4,U.S. Senate,,REP,"SMITH, GORDON",602.0
+Wasco,PREC 5,U.S. Senate,,REP,"SMITH, GORDON",500.0
+Wasco,PREC 6,U.S. Senate,,REP,"SMITH, GORDON",515.0
+Wasco,PREC 7,U.S. Senate,,REP,"SMITH, GORDON",681.0
+Wasco,PREC 8,U.S. Senate,,REP,"SMITH, GORDON",549.0
+Wasco,PREC 9,U.S. Senate,,REP,"SMITH, GORDON",360.0
+Wasco,PREC 10,U.S. Senate,,REP,"SMITH, GORDON",368.0
+Wasco,PREC 1,U.S. Senate,,LIB,"FITZGERALD, DAN",26.0
+Wasco,PREC 2,U.S. Senate,,LIB,"FITZGERALD, DAN",22.0
+Wasco,PREC 3,U.S. Senate,,LIB,"FITZGERALD, DAN",28.0
+Wasco,PREC 4,U.S. Senate,,LIB,"FITZGERALD, DAN",12.0
+Wasco,PREC 5,U.S. Senate,,LIB,"FITZGERALD, DAN",32.0
+Wasco,PREC 6,U.S. Senate,,LIB,"FITZGERALD, DAN",24.0
+Wasco,PREC 7,U.S. Senate,,LIB,"FITZGERALD, DAN",18.0
+Wasco,PREC 8,U.S. Senate,,LIB,"FITZGERALD, DAN",17.0
+Wasco,PREC 9,U.S. Senate,,LIB,"FITZGERALD, DAN",15.0
+Wasco,PREC 10,U.S. Senate,,LIB,"FITZGERALD, DAN",12.0
+Wasco,PREC 1,U.S. Senate,,,UNDERVOTES,19.0
+Wasco,PREC 2,U.S. Senate,,,UNDERVOTES,26.0
+Wasco,PREC 3,U.S. Senate,,,UNDERVOTES,17.0
+Wasco,PREC 4,U.S. Senate,,,UNDERVOTES,14.0
+Wasco,PREC 5,U.S. Senate,,,UNDERVOTES,15.0
+Wasco,PREC 6,U.S. Senate,,,UNDERVOTES,18.0
+Wasco,PREC 7,U.S. Senate,,,UNDERVOTES,12.0
+Wasco,PREC 8,U.S. Senate,,,UNDERVOTES,13.0
+Wasco,PREC 9,U.S. Senate,,,UNDERVOTES,9.0
+Wasco,PREC 10,U.S. Senate,,,UNDERVOTES,14.0
+Wasco,PREC 1,U.S. Senate,,,OVERVOTES,2.0
+Wasco,PREC 2,U.S. Senate,,,OVERVOTES,3.0
+Wasco,PREC 3,U.S. Senate,,,OVERVOTES,3.0
+Wasco,PREC 4,U.S. Senate,,,OVERVOTES,1.0
+Wasco,PREC 5,U.S. Senate,,,OVERVOTES,2.0
+Wasco,PREC 6,U.S. Senate,,,OVERVOTES,0.0
+Wasco,PREC 7,U.S. Senate,,,OVERVOTES,4.0
+Wasco,PREC 8,U.S. Senate,,,OVERVOTES,0.0
+Wasco,PREC 9,U.S. Senate,,,OVERVOTES,0.0
+Wasco,PREC 10,U.S. Senate,,,OVERVOTES,1.0
+Wasco,PREC 1,U.S. House,2,LIB,"WOOD, MIKE",24.0
+Wasco,PREC 2,U.S. House,2,LIB,"WOOD, MIKE",26.0
+Wasco,PREC 3,U.S. House,2,LIB,"WOOD, MIKE",32.0
+Wasco,PREC 4,U.S. House,2,LIB,"WOOD, MIKE",11.0
+Wasco,PREC 5,U.S. House,2,LIB,"WOOD, MIKE",27.0
+Wasco,PREC 6,U.S. House,2,LIB,"WOOD, MIKE",17.0
+Wasco,PREC 7,U.S. House,2,LIB,"WOOD, MIKE",15.0
+Wasco,PREC 8,U.S. House,2,LIB,"WOOD, MIKE",17.0
+Wasco,PREC 9,U.S. House,2,LIB,"WOOD, MIKE",12.0
+Wasco,PREC 10,U.S. House,2,LIB,"WOOD, MIKE",22.0
+Wasco,PREC 1,U.S. House,2,REP,"WALDEN, GREG",616.0
+Wasco,PREC 2,U.S. House,2,REP,"WALDEN, GREG",986.0
+Wasco,PREC 3,U.S. House,2,REP,"WALDEN, GREG",1056.0
+Wasco,PREC 4,U.S. House,2,REP,"WALDEN, GREG",711.0
+Wasco,PREC 5,U.S. House,2,REP,"WALDEN, GREG",608.0
+Wasco,PREC 6,U.S. House,2,REP,"WALDEN, GREG",624.0
+Wasco,PREC 7,U.S. House,2,REP,"WALDEN, GREG",789.0
+Wasco,PREC 8,U.S. House,2,REP,"WALDEN, GREG",609.0
+Wasco,PREC 9,U.S. House,2,REP,"WALDEN, GREG",377.0
+Wasco,PREC 10,U.S. House,2,REP,"WALDEN, GREG",398.0
+Wasco,PREC 1,U.S. House,2,DEM,"BUCKLEY, PETER",220.0
+Wasco,PREC 2,U.S. House,2,DEM,"BUCKLEY, PETER",339.0
+Wasco,PREC 3,U.S. House,2,DEM,"BUCKLEY, PETER",263.0
+Wasco,PREC 4,U.S. House,2,DEM,"BUCKLEY, PETER",190.0
+Wasco,PREC 5,U.S. House,2,DEM,"BUCKLEY, PETER",320.0
+Wasco,PREC 6,U.S. House,2,DEM,"BUCKLEY, PETER",211.0
+Wasco,PREC 7,U.S. House,2,DEM,"BUCKLEY, PETER",194.0
+Wasco,PREC 8,U.S. House,2,DEM,"BUCKLEY, PETER",77.0
+Wasco,PREC 9,U.S. House,2,DEM,"BUCKLEY, PETER",162.0
+Wasco,PREC 10,U.S. House,2,DEM,"BUCKLEY, PETER",122.0
+Wasco,PREC 1,U.S. House,2,,UNDERVOTES,22.0
+Wasco,PREC 2,U.S. House,2,,UNDERVOTES,28.0
+Wasco,PREC 3,U.S. House,2,,UNDERVOTES,18.0
+Wasco,PREC 4,U.S. House,2,,UNDERVOTES,19.0
+Wasco,PREC 5,U.S. House,2,,UNDERVOTES,29.0
+Wasco,PREC 6,U.S. House,2,,UNDERVOTES,22.0
+Wasco,PREC 7,U.S. House,2,,UNDERVOTES,16.0
+Wasco,PREC 8,U.S. House,2,,UNDERVOTES,14.0
+Wasco,PREC 9,U.S. House,2,,UNDERVOTES,20.0
+Wasco,PREC 10,U.S. House,2,,UNDERVOTES,15.0
+Wasco,PREC 1,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 2,U.S. House,2,,OVERVOTES,4.0
+Wasco,PREC 3,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 4,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 5,U.S. House,2,,OVERVOTES,3.0
+Wasco,PREC 6,U.S. House,2,,OVERVOTES,1.0
+Wasco,PREC 7,U.S. House,2,,OVERVOTES,1.0
+Wasco,PREC 8,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 9,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 10,U.S. House,2,,OVERVOTES,1.0
+Wasco,PREC 1,Governor,,REP,"MANNIX, KEVIN",379.0
+Wasco,PREC 2,Governor,,REP,"MANNIX, KEVIN",583.0
+Wasco,PREC 3,Governor,,REP,"MANNIX, KEVIN",622.0
+Wasco,PREC 4,Governor,,REP,"MANNIX, KEVIN",439.0
+Wasco,PREC 5,Governor,,REP,"MANNIX, KEVIN",372.0
+Wasco,PREC 6,Governor,,REP,"MANNIX, KEVIN",416.0
+Wasco,PREC 7,Governor,,REP,"MANNIX, KEVIN",531.0
+Wasco,PREC 8,Governor,,REP,"MANNIX, KEVIN",474.0
+Wasco,PREC 9,Governor,,REP,"MANNIX, KEVIN",294.0
+Wasco,PREC 10,Governor,,REP,"MANNIX, KEVIN",264.0
+Wasco,PREC 1,Governor,,LIB,"COX, TOM",55.0
+Wasco,PREC 2,Governor,,LIB,"COX, TOM",53.0
+Wasco,PREC 3,Governor,,LIB,"COX, TOM",81.0
+Wasco,PREC 4,Governor,,LIB,"COX, TOM",35.0
+Wasco,PREC 5,Governor,,LIB,"COX, TOM",62.0
+Wasco,PREC 6,Governor,,LIB,"COX, TOM",56.0
+Wasco,PREC 7,Governor,,LIB,"COX, TOM",48.0
+Wasco,PREC 8,Governor,,LIB,"COX, TOM",34.0
+Wasco,PREC 9,Governor,,LIB,"COX, TOM",38.0
+Wasco,PREC 10,Governor,,LIB,"COX, TOM",36.0
+Wasco,PREC 1,Governor,,DEM,"KULONGOWSKI, TED",428.0
+Wasco,PREC 2,Governor,,DEM,"KULONGOWSKI, TED",699.0
+Wasco,PREC 3,Governor,,DEM,"KULONGOWSKI, TED",638.0
+Wasco,PREC 4,Governor,,DEM,"KULONGOWSKI, TED",422.0
+Wasco,PREC 5,Governor,,DEM,"KULONGOWSKI, TED",526.0
+Wasco,PREC 6,Governor,,DEM,"KULONGOWSKI, TED",375.0
+Wasco,PREC 7,Governor,,DEM,"KULONGOWSKI, TED",407.0
+Wasco,PREC 8,Governor,,DEM,"KULONGOWSKI, TED",190.0
+Wasco,PREC 9,Governor,,DEM,"KULONGOWSKI, TED",227.0
+Wasco,PREC 10,Governor,,DEM,"KULONGOWSKI, TED",244.0
+Wasco,PREC 1,Governor,,,UNDERVOTES,20.0
+Wasco,PREC 2,Governor,,,UNDERVOTES,41.0
+Wasco,PREC 3,Governor,,,UNDERVOTES,27.0
+Wasco,PREC 4,Governor,,,UNDERVOTES,27.0
+Wasco,PREC 5,Governor,,,UNDERVOTES,22.0
+Wasco,PREC 6,Governor,,,UNDERVOTES,26.0
+Wasco,PREC 7,Governor,,,UNDERVOTES,23.0
+Wasco,PREC 8,Governor,,,UNDERVOTES,17.0
+Wasco,PREC 9,Governor,,,UNDERVOTES,13.0
+Wasco,PREC 10,Governor,,,UNDERVOTES,14.0
+Wasco,PREC 1,Governor,,,OVERVOTES,0.0
+Wasco,PREC 2,Governor,,,OVERVOTES,2.0
+Wasco,PREC 3,Governor,,,OVERVOTES,2.0
+Wasco,PREC 4,Governor,,,OVERVOTES,4.0
+Wasco,PREC 5,Governor,,,OVERVOTES,2.0
+Wasco,PREC 6,Governor,,,OVERVOTES,1.0
+Wasco,PREC 7,Governor,,,OVERVOTES,1.0
+Wasco,PREC 8,Governor,,,OVERVOTES,0.0
+Wasco,PREC 9,Governor,,,OVERVOTES,0.0
+Wasco,PREC 10,Governor,,,OVERVOTES,1.0
