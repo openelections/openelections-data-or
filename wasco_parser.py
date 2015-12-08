@@ -15,7 +15,7 @@ OFFICES = ['U.S. SENATOR', 'REP IN CONGRESS 2ND DIST', 'GOVERNOR - DEM', 'STATE 
 'U S PRESIDENT- REPUBLICAN', 'U S SENATOR-REPUBLICAN', 'REP IN CONGRESS 2ND DIST - REP', 'SECRETARY OF STATE - REP',
 'ATTORNEY GENERAL - REP', 'STATE SEN 30TH DIST - REP', 'STATE REP 59TH DIST - REP', 'REP IN CONG 2ND DIST-DEM', 'GOVERNOR-DEM',
 'STATE REP 59TH DIST- DEM', 'REP IN CONG 2ND DIST-REP', 'GOVERNOR-REP', 'STATE REP 59TH DIST- REP', 'STATE REP 59TH DIST-DEMOCRAT',
-'U S PRESIDENT-REPUBLICAN', 'STATE REP 59TH DIST-REP', 'STATE SENATE 30TH DIST-REP']
+'U S PRESIDENT-REPUBLICAN', 'STATE REP 59TH DIST-REP', 'STATE SENATE 30TH DIST-REP', 'U S SENATOR-DEM', 'U S SENATOR-REP']
 
 OFFICE_LOOKUP = {
     'U.S. SENATOR' : 'U.S. Senate', 'REP IN CONGRESS 2ND DIST' : 'U.S. House', 'GOVERNOR - DEM' : 'Governor', 'STATE REPRESENTATIVE DIST 59 - DEM' : 'State House',
@@ -31,7 +31,7 @@ OFFICE_LOOKUP = {
     'U S SENATOR-REPUBLICAN': 'U.S. Senate', 'REP IN CONGRESS 2ND DIST - REP': 'U.S. House', 'SECRETARY OF STATE - REP': 'Secretary of State', 'ATTORNEY GENERAL - REP': 'Attorney General',
     'STATE SEN 30TH DIST - REP': 'State Senate', 'STATE REP 59TH DIST - REP': 'State House', 'REP IN CONG 2ND DIST-DEM': 'U.S. House', 'GOVERNOR-DEM': 'Governor', 'STATE REP 59TH DIST- DEM': 'State House',
     'REP IN CONG 2ND DIST-REP': 'U.S. House', 'GOVERNOR-REP': 'Governor', 'STATE REP 59TH DIST- REP': 'State House', 'STATE REP 59TH DIST-DEMOCRAT': 'State House', 'U S PRESIDENT-REPUBLICAN': 'President',
-    'STATE REP 59TH DIST-REP': 'State House', 'STATE SENATE 30TH DIST-REP': 'State House'
+    'STATE REP 59TH DIST-REP': 'State House', 'STATE SENATE 30TH DIST-REP': 'State House', 'U S SENATOR-DEM': 'U.S. Senate', 'U S SENATOR-REP': 'U.S. Senate'
 }
 
 def process_file(path):
@@ -68,6 +68,8 @@ def process_primary(sheet):
             if office:
                 votes = []
                 candidate = sheet.row_values(i)[cand_col].strip()
+                if year == '2000':
+                    party = sheet.row_values(i)[1]
                 for p in range(precinct_cols[0], precinct_cols[1]):
                     votes.append(sheet.row_values(i)[p])
                 with_precincts = zip(precincts, votes)
@@ -129,7 +131,7 @@ def get_primary_cols(sheet):
         cand_col = 0
         precinct_cols = (1, 11)
         precincts = ['PREC '+str(x) for x in xrange(1,11)]
-    elif '06' in sheet.name:
+    elif '06' in sheet.name or '02' in sheet.name:
         cand_col = 0
         precinct_cols = (2, 12)
         precincts = ['PREC '+str(x) for x in xrange(1,11)]
