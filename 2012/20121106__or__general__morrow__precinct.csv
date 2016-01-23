@@ -1,236 +1,1 @@
-county,precinct,office,district,candidate,votes
-Morrow,Boardman #1,President,,Barack Obama,341
-Morrow,Irrigon #2,President,,Barack Obama,424
-Morrow,Lexington #3,President,,Barack Obama,59
-Morrow,Ione #4,President,,Barack Obama,79
-Morrow,Heppner #5,President,,Barack Obama,299
-Morrow,Boardman #1,President,,Jill Stein,12
-Morrow,Irrigon #2,President,,Jill Stein,19
-Morrow,Lexington #3,President,,Jill Stein,2
-Morrow,Ione #4,President,,Jill Stein,0
-Morrow,Heppner #5,President,,Jill Stein,9
-Morrow,Boardman #1,President,,Ross C. (Rocky) Anderson,2
-Morrow,Irrigon #2,President,,Ross C. (Rocky) Anderson,3
-Morrow,Lexington #3,President,,Ross C. (Rocky) Anderson,2
-Morrow,Ione #4,President,,Ross C. (Rocky) Anderson,0
-Morrow,Heppner #5,President,,Ross C. (Rocky) Anderson,2
-Morrow,Boardman #1,President,,Gary Johnson,15
-Morrow,Irrigon #2,President,,Gary Johnson,16
-Morrow,Lexington #3,President,,Gary Johnson,3
-Morrow,Ione #4,President,,Gary Johnson,2
-Morrow,Heppner #5,President,,Gary Johnson,21
-Morrow,Boardman #1,President,,Mitt Romney,508
-Morrow,Irrigon #2,President,,Mitt Romney,788
-Morrow,Lexington #3,President,,Mitt Romney,240
-Morrow,Ione #4,President,,Mitt Romney,283
-Morrow,Heppner #5,President,,Mitt Romney,713
-Morrow,Boardman #1,President,,Will Christensen,3
-Morrow,Irrigon #2,President,,Will Christensen,7
-Morrow,Lexington #3,President,,Will Christensen,0
-Morrow,Ione #4,President,,Will Christensen,0
-Morrow,Heppner #5,President,,Will Christensen,7
-Morrow,Boardman #1,President,,Write-ins,7
-Morrow,Irrigon #2,President,,Write-ins,6
-Morrow,Lexington #3,President,,Write-ins,0
-Morrow,Ione #4,President,,Write-ins,1
-Morrow,Heppner #5,President,,Write-ins,9
-Morrow,Boardman #1,President,,Over Votes,1
-Morrow,Irrigon #2,President,,Over Votes,1
-Morrow,Lexington #3,President,,Over Votes,0
-Morrow,Ione #4,President,,Over Votes,0
-Morrow,Heppner #5,President,,Over Votes,1
-Morrow,Boardman #1,President,,Under Votes,13
-Morrow,Irrigon #2,President,,Under Votes,11
-Morrow,Lexington #3,President,,Under Votes,7
-Morrow,Ione #4,President,,Under Votes,9
-Morrow,Heppner #5,President,,Under Votes,18
-Morrow,Boardman #1,U.S. House,2,Joyce B. Segers,238
-Morrow,Irrigon #2,U.S. House,2,Joyce B. Segers,335
-Morrow,Lexington #3,U.S. House,2,Joyce B. Segers,28
-Morrow,Ione #4,U.S. House,2,Joyce B. Segers,47
-Morrow,Heppner #5,U.S. House,2,Joyce B. Segers,174
-Morrow,Boardman #1,U.S. House,2,Greg Walden,610
-Morrow,Irrigon #2,U.S. House,2,Greg Walden,846
-Morrow,Lexington #3,U.S. House,2,Greg Walden,263
-Morrow,Ione #4,U.S. House,2,Greg Walden,302
-Morrow,Heppner #5,U.S. House,2,Greg Walden,832
-Morrow,Boardman #1,U.S. House,2,Joe Tabor,14
-Morrow,Irrigon #2,U.S. House,2,Joe Tabor,35
-Morrow,Lexington #3,U.S. House,2,Joe Tabor,1
-Morrow,Ione #4,U.S. House,2,Joe Tabor,7
-Morrow,Heppner #5,U.S. House,2,Joe Tabor,23
-Morrow,Boardman #1,U.S. House,2,Write-ins,1
-Morrow,Irrigon #2,U.S. House,2,Write-ins,3
-Morrow,Lexington #3,U.S. House,2,Write-ins,2
-Morrow,Ione #4,U.S. House,2,Write-ins,0
-Morrow,Heppner #5,U.S. House,2,Write-ins,0
-Morrow,Boardman #1,U.S. House,2,Over Votes,0
-Morrow,Irrigon #2,U.S. House,2,Over Votes,0
-Morrow,Lexington #3,U.S. House,2,Over Votes,0
-Morrow,Ione #4,U.S. House,2,Over Votes,0
-Morrow,Heppner #5,U.S. House,2,Over Votes,1
-Morrow,Boardman #1,U.S. House,2,Under Votes,39
-Morrow,Irrigon #2,U.S. House,2,Under Votes,56
-Morrow,Lexington #3,U.S. House,2,Under Votes,19
-Morrow,Ione #4,U.S. House,2,Under Votes,18
-Morrow,Heppner #5,U.S. House,2,Under Votes,49
-Morrow,Boardman #1,Secretary of State,,Seth Woolley,16
-Morrow,Irrigon #2,Secretary of State,,Seth Woolley,13
-Morrow,Lexington #3,Secretary of State,,Seth Woolley,0
-Morrow,Ione #4,Secretary of State,,Seth Woolley,2
-Morrow,Heppner #5,Secretary of State,,Seth Woolley,9
-Morrow,Boardman #1,Secretary of State,,Robert Wolfe,11
-Morrow,Irrigon #2,Secretary of State,,Robert Wolfe,18
-Morrow,Lexington #3,Secretary of State,,Robert Wolfe,2
-Morrow,Ione #4,Secretary of State,,Robert Wolfe,1
-Morrow,Heppner #5,Secretary of State,,Robert Wolfe,5
-Morrow,Boardman #1,Secretary of State,,Bruce Alexander Knight,16
-Morrow,Irrigon #2,Secretary of State,,Bruce Alexander Knight,31
-Morrow,Lexington #3,Secretary of State,,Bruce Alexander Knight,6
-Morrow,Ione #4,Secretary of State,,Bruce Alexander Knight,5
-Morrow,Heppner #5,Secretary of State,,Bruce Alexander Knight,20
-Morrow,Boardman #1,Secretary of State,,Kate Brown,374
-Morrow,Irrigon #2,Secretary of State,,Kate Brown,490
-Morrow,Lexington #3,Secretary of State,,Kate Brown,73
-Morrow,Ione #4,Secretary of State,,Kate Brown,105
-Morrow,Heppner #5,Secretary of State,,Kate Brown,346
-Morrow,Boardman #1,Secretary of State,,Knute Buehler,428
-Morrow,Irrigon #2,Secretary of State,,Knute Buehler,643
-Morrow,Lexington #3,Secretary of State,,Knute Buehler,202
-Morrow,Ione #4,Secretary of State,,Knute Buehler,231
-Morrow,Heppner #5,Secretary of State,,Knute Buehler,619
-Morrow,Boardman #1,Secretary of State,,Write-ins,1
-Morrow,Irrigon #2,Secretary of State,,Write-ins,2
-Morrow,Lexington #3,Secretary of State,,Write-ins,0
-Morrow,Ione #4,Secretary of State,,Write-ins,0
-Morrow,Heppner #5,Secretary of State,,Write-ins,0
-Morrow,Boardman #1,Secretary of State,,Over Votes,0
-Morrow,Irrigon #2,Secretary of State,,Over Votes,0
-Morrow,Lexington #3,Secretary of State,,Over Votes,0
-Morrow,Ione #4,Secretary of State,,Over Votes,0
-Morrow,Heppner #5,Secretary of State,,Over Votes,0
-Morrow,Boardman #1,Secretary of State,,Under Votes,56
-Morrow,Irrigon #2,Secretary of State,,Under Votes,78
-Morrow,Lexington #3,Secretary of State,,Under Votes,30
-Morrow,Ione #4,Secretary of State,,Under Votes,30
-Morrow,Heppner #5,Secretary of State,,Under Votes,80
-Morrow,Boardman #1,State Treasurer,,Ted Wheeler,347
-Morrow,Irrigon #2,State Treasurer,,Ted Wheeler,480
-Morrow,Lexington #3,State Treasurer,,Ted Wheeler,73
-Morrow,Ione #4,State Treasurer,,Ted Wheeler,107
-Morrow,Heppner #5,State Treasurer,,Ted Wheeler,377
-Morrow,Boardman #1,State Treasurer,,Cameron Whitten,22
-Morrow,Irrigon #2,State Treasurer,,Cameron Whitten,32
-Morrow,Lexington #3,State Treasurer,,Cameron Whitten,1
-Morrow,Ione #4,State Treasurer,,Cameron Whitten,4
-Morrow,Heppner #5,State Treasurer,,Cameron Whitten,16
-Morrow,Boardman #1,State Treasurer,,John F. Mahler,16
-Morrow,Irrigon #2,State Treasurer,,John F. Mahler,22
-Morrow,Lexington #3,State Treasurer,,John F. Mahler,3
-Morrow,Ione #4,State Treasurer,,John F. Mahler,6
-Morrow,Heppner #5,State Treasurer,,John F. Mahler,26
-Morrow,Boardman #1,State Treasurer,,Michael Paul Marsh,17
-Morrow,Irrigon #2,State Treasurer,,Michael Paul Marsh,29
-Morrow,Lexington #3,State Treasurer,,Michael Paul Marsh,9
-Morrow,Ione #4,State Treasurer,,Michael Paul Marsh,4
-Morrow,Heppner #5,State Treasurer,,Michael Paul Marsh,18
-Morrow,Boardman #1,State Treasurer,,Tom Cox,417
-Morrow,Irrigon #2,State Treasurer,,Tom Cox,612
-Morrow,Lexington #3,State Treasurer,,Tom Cox,190
-Morrow,Ione #4,State Treasurer,,Tom Cox,209
-Morrow,Heppner #5,State Treasurer,,Tom Cox,522
-Morrow,Boardman #1,State Treasurer,,Write-ins,0
-Morrow,Irrigon #2,State Treasurer,,Write-ins,0
-Morrow,Lexington #3,State Treasurer,,Write-ins,0
-Morrow,Ione #4,State Treasurer,,Write-ins,0
-Morrow,Heppner #5,State Treasurer,,Write-ins,0
-Morrow,Boardman #1,State Treasurer,,Over Votes,0
-Morrow,Irrigon #2,State Treasurer,,Over Votes,0
-Morrow,Lexington #3,State Treasurer,,Over Votes,0
-Morrow,Ione #4,State Treasurer,,Over Votes,0
-Morrow,Heppner #5,State Treasurer,,Over Votes,0
-Morrow,Boardman #1,State Treasurer,,Under Votes,83
-Morrow,Irrigon #2,State Treasurer,,Under Votes,100
-Morrow,Lexington #3,State Treasurer,,Under Votes,37
-Morrow,Ione #4,State Treasurer,,Under Votes,44
-Morrow,Heppner #5,State Treasurer,,Under Votes,120
-Morrow,Boardman #1,Attorney General,,Chris Henry,21
-Morrow,Irrigon #2,Attorney General,,Chris Henry,19
-Morrow,Lexington #3,Attorney General,,Chris Henry,4
-Morrow,Ione #4,Attorney General,,Chris Henry,1
-Morrow,Heppner #5,Attorney General,,Chris Henry,15
-Morrow,Boardman #1,Attorney General,,James L. Buchal,406
-Morrow,Irrigon #2,Attorney General,,James L. Buchal,611
-Morrow,Lexington #3,Attorney General,,James L. Buchal,182
-Morrow,Ione #4,Attorney General,,James L. Buchal,208
-Morrow,Heppner #5,Attorney General,,James L. Buchal,525
-Morrow,Boardman #1,Attorney General,,James E. Leuenberger,42
-Morrow,Irrigon #2,Attorney General,,James E. Leuenberger,64
-Morrow,Lexington #3,Attorney General,,James E. Leuenberger,6
-Morrow,Ione #4,Attorney General,,James E. Leuenberger,16
-Morrow,Heppner #5,Attorney General,,James E. Leuenberger,42
-Morrow,Boardman #1,Attorney General,,Ellen Rosenblum,341
-Morrow,Irrigon #2,Attorney General,,Ellen Rosenblum,471
-Morrow,Lexington #3,Attorney General,,Ellen Rosenblum,81
-Morrow,Ione #4,Attorney General,,Ellen Rosenblum,103
-Morrow,Heppner #5,Attorney General,,Ellen Rosenblum,370
-Morrow,Boardman #1,Attorney General,,Write-ins,0
-Morrow,Irrigon #2,Attorney General,,Write-ins,0
-Morrow,Lexington #3,Attorney General,,Write-ins,0
-Morrow,Ione #4,Attorney General,,Write-ins,0
-Morrow,Heppner #5,Attorney General,,Write-ins,0
-Morrow,Boardman #1,Attorney General,,Over Votes,0
-Morrow,Irrigon #2,Attorney General,,Over Votes,0
-Morrow,Lexington #3,Attorney General,,Over Votes,0
-Morrow,Ione #4,Attorney General,,Over Votes,0
-Morrow,Heppner #5,Attorney General,,Over Votes,0
-Morrow,Boardman #1,Attorney General,,Under Votes,92
-Morrow,Irrigon #2,Attorney General,,Under Votes,110
-Morrow,Lexington #3,Attorney General,,Under Votes,40
-Morrow,Ione #4,Attorney General,,Under Votes,46
-Morrow,Heppner #5,Attorney General,,Under Votes,127
-Morrow,Boardman #1,State Senate,29,Bill Hansell,563
-Morrow,Irrigon #2,State Senate,29,Bill Hansell,790
-Morrow,Lexington #3,State Senate,29,Bill Hansell,237
-Morrow,Ione #4,State Senate,29,Bill Hansell,270
-Morrow,Heppner #5,State Senate,29,Bill Hansell,709
-Morrow,Boardman #1,State Senate,29,Antone Minthorn,260
-Morrow,Irrigon #2,State Senate,29,Antone Minthorn,390
-Morrow,Lexington #3,State Senate,29,Antone Minthorn,50
-Morrow,Ione #4,State Senate,29,Antone Minthorn,72
-Morrow,Heppner #5,State Senate,29,Antone Minthorn,249
-Morrow,Boardman #1,State Senate,29,Write-ins,1
-Morrow,Irrigon #2,State Senate,29,Write-ins,0
-Morrow,Lexington #3,State Senate,29,Write-ins,0
-Morrow,Ione #4,State Senate,29,Write-ins,0
-Morrow,Heppner #5,State Senate,29,Write-ins,3
-Morrow,Boardman #1,State Senate,29,Over Votes,0
-Morrow,Irrigon #2,State Senate,29,Over Votes,0
-Morrow,Lexington #3,State Senate,29,Over Votes,0
-Morrow,Ione #4,State Senate,29,Over Votes,0
-Morrow,Heppner #5,State Senate,29,Over Votes,0
-Morrow,Boardman #1,State Senate,29,Under Votes,78
-Morrow,Irrigon #2,State Senate,29,Under Votes,95
-Morrow,Lexington #3,State Senate,29,Under Votes,26
-Morrow,Ione #4,State Senate,29,Under Votes,32
-Morrow,Heppner #5,State Senate,29,Under Votes,118
-Morrow,Boardman #1,State House,57,Greg Smith,680
-Morrow,Irrigon #2,State House,57,Greg Smith,970
-Morrow,Lexington #3,State House,57,Greg Smith,257
-Morrow,Ione #4,State House,57,Greg Smith,269
-Morrow,Heppner #5,State House,57,Greg Smith,880
-Morrow,Boardman #1,State House,57,Write-ins,11
-Morrow,Irrigon #2,State House,57,Write-ins,14
-Morrow,Lexington #3,State House,57,Write-ins,0
-Morrow,Ione #4,State House,57,Write-ins,9
-Morrow,Heppner #5,State House,57,Write-ins,17
-Morrow,Boardman #1,State House,57,Over Votes,0
-Morrow,Irrigon #2,State House,57,Over Votes,0
-Morrow,Lexington #3,State House,57,Over Votes,0
-Morrow,Ione #4,State House,57,Over Votes,0
-Morrow,Heppner #5,State House,57,Over Votes,0
-Morrow,Boardman #1,State House,57,Under Votes,211
-Morrow,Irrigon #2,State House,57,Under Votes,279
-Morrow,Lexington #3,State House,57,Under Votes,56
-Morrow,Ione #4,State House,57,Under Votes,96
-Morrow,Heppner #5,State House,57,Under Votes,182
+county,precinct,office,district,party,candidate,votesMorrow,Boardman #1,President,,DEM,Barack Obama,341Morrow,Irrigon #2,President,,DEM,Barack Obama,424Morrow,Lexington #3,President,,DEM,Barack Obama,59Morrow,Ione #4,President,,DEM,Barack Obama,79Morrow,Heppner #5,President,,DEM,Barack Obama,299Morrow,Boardman #1,President,,PGP,Jill Stein,12Morrow,Irrigon #2,President,,PGP,Jill Stein,19Morrow,Lexington #3,President,,PGP,Jill Stein,2Morrow,Ione #4,President,,PGP,Jill Stein,0Morrow,Heppner #5,President,,PGP,Jill Stein,9Morrow,Boardman #1,President,,PRO,Ross C. (Rocky) Anderson,2Morrow,Irrigon #2,President,,PRO,Ross C. (Rocky) Anderson,3Morrow,Lexington #3,President,,PRO,Ross C. (Rocky) Anderson,2Morrow,Ione #4,President,,PRO,Ross C. (Rocky) Anderson,0Morrow,Heppner #5,President,,PRO,Ross C. (Rocky) Anderson,2Morrow,Boardman #1,President,,LBT,Gary Johnson,15Morrow,Irrigon #2,President,,LBT,Gary Johnson,16Morrow,Lexington #3,President,,LBT,Gary Johnson,3Morrow,Ione #4,President,,LBT,Gary Johnson,2Morrow,Heppner #5,President,,LBT,Gary Johnson,21Morrow,Boardman #1,President,,REP,Mitt Romney,508Morrow,Irrigon #2,President,,REP,Mitt Romney,788Morrow,Lexington #3,President,,REP,Mitt Romney,240Morrow,Ione #4,President,,REP,Mitt Romney,283Morrow,Heppner #5,President,,REP,Mitt Romney,713Morrow,Boardman #1,President,,CON,Will Christensen,3Morrow,Irrigon #2,President,,CON,Will Christensen,7Morrow,Lexington #3,President,,CON,Will Christensen,0Morrow,Ione #4,President,,CON,Will Christensen,0Morrow,Heppner #5,President,,CON,Will Christensen,7Morrow,Boardman #1,President,,,Write-ins,7Morrow,Irrigon #2,President,,,Write-ins,6Morrow,Lexington #3,President,,,Write-ins,0Morrow,Ione #4,President,,,Write-ins,1Morrow,Heppner #5,President,,,Write-ins,9Morrow,Boardman #1,President,,,Over Votes,1Morrow,Irrigon #2,President,,,Over Votes,1Morrow,Lexington #3,President,,,Over Votes,0Morrow,Ione #4,President,,,Over Votes,0Morrow,Heppner #5,President,,,Over Votes,1Morrow,Boardman #1,President,,,Under Votes,13Morrow,Irrigon #2,President,,,Under Votes,11Morrow,Lexington #3,President,,,Under Votes,7Morrow,Ione #4,President,,,Under Votes,9Morrow,Heppner #5,President,,,Under Votes,18Morrow,Boardman #1,U.S. House,2,DEM,Joyce B. Segers,238Morrow,Irrigon #2,U.S. House,2,DEM,Joyce B. Segers,335Morrow,Lexington #3,U.S. House,2,DEM,Joyce B. Segers,28Morrow,Ione #4,U.S. House,2,DEM,Joyce B. Segers,47Morrow,Heppner #5,U.S. House,2,DEM,Joyce B. Segers,174Morrow,Boardman #1,U.S. House,2,REP,Greg Walden,610Morrow,Irrigon #2,U.S. House,2,REP,Greg Walden,846Morrow,Lexington #3,U.S. House,2,REP,Greg Walden,263Morrow,Ione #4,U.S. House,2,REP,Greg Walden,302Morrow,Heppner #5,U.S. House,2,REP,Greg Walden,832Morrow,Boardman #1,U.S. House,2,LBT,Joe Tabor,14Morrow,Irrigon #2,U.S. House,2,LBT,Joe Tabor,35Morrow,Lexington #3,U.S. House,2,LBT,Joe Tabor,1Morrow,Ione #4,U.S. House,2,LBT,Joe Tabor,7Morrow,Heppner #5,U.S. House,2,LBT,Joe Tabor,23Morrow,Boardman #1,U.S. House,2,,Write-ins,1Morrow,Irrigon #2,U.S. House,2,,Write-ins,3Morrow,Lexington #3,U.S. House,2,,Write-ins,2Morrow,Ione #4,U.S. House,2,,Write-ins,0Morrow,Heppner #5,U.S. House,2,,Write-ins,0Morrow,Boardman #1,U.S. House,2,,Over Votes,0Morrow,Irrigon #2,U.S. House,2,,Over Votes,0Morrow,Lexington #3,U.S. House,2,,Over Votes,0Morrow,Ione #4,U.S. House,2,,Over Votes,0Morrow,Heppner #5,U.S. House,2,,Over Votes,1Morrow,Boardman #1,U.S. House,2,,Under Votes,39Morrow,Irrigon #2,U.S. House,2,,Under Votes,56Morrow,Lexington #3,U.S. House,2,,Under Votes,19Morrow,Ione #4,U.S. House,2,,Under Votes,18Morrow,Heppner #5,U.S. House,2,,Under Votes,49Morrow,Boardman #1,Secretary of State,,PGP,Seth Woolley,16Morrow,Irrigon #2,Secretary of State,,PGP,Seth Woolley,13Morrow,Lexington #3,Secretary of State,,PGP,Seth Woolley,0Morrow,Ione #4,Secretary of State,,PGP,Seth Woolley,2Morrow,Heppner #5,Secretary of State,,PGP,Seth Woolley,9Morrow,Boardman #1,Secretary of State,,PRO,Robert Wolfe,11Morrow,Irrigon #2,Secretary of State,,PRO,Robert Wolfe,18Morrow,Lexington #3,Secretary of State,,PRO,Robert Wolfe,2Morrow,Ione #4,Secretary of State,,PRO,Robert Wolfe,1Morrow,Heppner #5,Secretary of State,,PRO,Robert Wolfe,5Morrow,Boardman #1,Secretary of State,,LBT,Bruce Alexander Knight,16Morrow,Irrigon #2,Secretary of State,,LBT,Bruce Alexander Knight,31Morrow,Lexington #3,Secretary of State,,LBT,Bruce Alexander Knight,6Morrow,Ione #4,Secretary of State,,LBT,Bruce Alexander Knight,5Morrow,Heppner #5,Secretary of State,,LBT,Bruce Alexander Knight,20Morrow,Boardman #1,Secretary of State,,DEM,Kate Brown,374Morrow,Irrigon #2,Secretary of State,,DEM,Kate Brown,490Morrow,Lexington #3,Secretary of State,,DEM,Kate Brown,73Morrow,Ione #4,Secretary of State,,DEM,Kate Brown,105Morrow,Heppner #5,Secretary of State,,DEM,Kate Brown,346Morrow,Boardman #1,Secretary of State,,REP,Knute Buehler,428Morrow,Irrigon #2,Secretary of State,,REP,Knute Buehler,643Morrow,Lexington #3,Secretary of State,,REP,Knute Buehler,202Morrow,Ione #4,Secretary of State,,REP,Knute Buehler,231Morrow,Heppner #5,Secretary of State,,REP,Knute Buehler,619Morrow,Boardman #1,Secretary of State,,,Write-ins,1Morrow,Irrigon #2,Secretary of State,,,Write-ins,2Morrow,Lexington #3,Secretary of State,,,Write-ins,0Morrow,Ione #4,Secretary of State,,,Write-ins,0Morrow,Heppner #5,Secretary of State,,,Write-ins,0Morrow,Boardman #1,Secretary of State,,,Over Votes,0Morrow,Irrigon #2,Secretary of State,,,Over Votes,0Morrow,Lexington #3,Secretary of State,,,Over Votes,0Morrow,Ione #4,Secretary of State,,,Over Votes,0Morrow,Heppner #5,Secretary of State,,,Over Votes,0Morrow,Boardman #1,Secretary of State,,,Under Votes,56Morrow,Irrigon #2,Secretary of State,,,Under Votes,78Morrow,Lexington #3,Secretary of State,,,Under Votes,30Morrow,Ione #4,Secretary of State,,,Under Votes,30Morrow,Heppner #5,Secretary of State,,,Under Votes,80Morrow,Boardman #1,State Treasurer,,DEM,Ted Wheeler,347Morrow,Irrigon #2,State Treasurer,,DEM,Ted Wheeler,480Morrow,Lexington #3,State Treasurer,,DEM,Ted Wheeler,73Morrow,Ione #4,State Treasurer,,DEM,Ted Wheeler,107Morrow,Heppner #5,State Treasurer,,DEM,Ted Wheeler,377Morrow,Boardman #1,State Treasurer,,PRO,Cameron Whitten,22Morrow,Irrigon #2,State Treasurer,,PRO,Cameron Whitten,32Morrow,Lexington #3,State Treasurer,,PRO,Cameron Whitten,1Morrow,Ione #4,State Treasurer,,PRO,Cameron Whitten,4Morrow,Heppner #5,State Treasurer,,PRO,Cameron Whitten,16Morrow,Boardman #1,State Treasurer,,LBT,John F. Mahler,16Morrow,Irrigon #2,State Treasurer,,LBT,John F. Mahler,22Morrow,Lexington #3,State Treasurer,,LBT,John F. Mahler,3Morrow,Ione #4,State Treasurer,,LBT,John F. Mahler,6Morrow,Heppner #5,State Treasurer,,LBT,John F. Mahler,26Morrow,Boardman #1,State Treasurer,,CON,Michael Paul Marsh,17Morrow,Irrigon #2,State Treasurer,,CON,Michael Paul Marsh,29Morrow,Lexington #3,State Treasurer,,CON,Michael Paul Marsh,9Morrow,Ione #4,State Treasurer,,CON,Michael Paul Marsh,4Morrow,Heppner #5,State Treasurer,,CON,Michael Paul Marsh,18Morrow,Boardman #1,State Treasurer,,REP,Tom Cox,417Morrow,Irrigon #2,State Treasurer,,REP,Tom Cox,612Morrow,Lexington #3,State Treasurer,,REP,Tom Cox,190Morrow,Ione #4,State Treasurer,,REP,Tom Cox,209Morrow,Heppner #5,State Treasurer,,REP,Tom Cox,522Morrow,Boardman #1,State Treasurer,,,Write-ins,0Morrow,Irrigon #2,State Treasurer,,,Write-ins,0Morrow,Lexington #3,State Treasurer,,,Write-ins,0Morrow,Ione #4,State Treasurer,,,Write-ins,0Morrow,Heppner #5,State Treasurer,,,Write-ins,0Morrow,Boardman #1,State Treasurer,,,Over Votes,0Morrow,Irrigon #2,State Treasurer,,,Over Votes,0Morrow,Lexington #3,State Treasurer,,,Over Votes,0Morrow,Ione #4,State Treasurer,,,Over Votes,0Morrow,Heppner #5,State Treasurer,,,Over Votes,0Morrow,Boardman #1,State Treasurer,,,Under Votes,83Morrow,Irrigon #2,State Treasurer,,,Under Votes,100Morrow,Lexington #3,State Treasurer,,,Under Votes,37Morrow,Ione #4,State Treasurer,,,Under Votes,44Morrow,Heppner #5,State Treasurer,,PRO,Under Votes,120Morrow,Boardman #1,Attorney General,,PRO,Chris Henry,21Morrow,Irrigon #2,Attorney General,,PRO,Chris Henry,19Morrow,Lexington #3,Attorney General,,PRO,Chris Henry,4Morrow,Ione #4,Attorney General,,PRO,Chris Henry,1Morrow,Heppner #5,Attorney General,,PRO,Chris Henry,15Morrow,Boardman #1,Attorney General,,REP,James L. Buchal,406Morrow,Irrigon #2,Attorney General,,REP,James L. Buchal,611Morrow,Lexington #3,Attorney General,,REP,James L. Buchal,182Morrow,Ione #4,Attorney General,,REP,James L. Buchal,208Morrow,Heppner #5,Attorney General,,REP,James L. Buchal,525Morrow,Boardman #1,Attorney General,,CON,James E. Leuenberger,42Morrow,Irrigon #2,Attorney General,,CON,James E. Leuenberger,64Morrow,Lexington #3,Attorney General,,CON,James E. Leuenberger,6Morrow,Ione #4,Attorney General,,CON,James E. Leuenberger,16Morrow,Heppner #5,Attorney General,,CON,James E. Leuenberger,42Morrow,Boardman #1,Attorney General,,DEM,Ellen Rosenblum,341Morrow,Irrigon #2,Attorney General,,DEM,Ellen Rosenblum,471Morrow,Lexington #3,Attorney General,,DEM,Ellen Rosenblum,81Morrow,Ione #4,Attorney General,,DEM,Ellen Rosenblum,103Morrow,Heppner #5,Attorney General,,DEM,Ellen Rosenblum,370Morrow,Boardman #1,Attorney General,,,Write-ins,0Morrow,Irrigon #2,Attorney General,,,Write-ins,0Morrow,Lexington #3,Attorney General,,,Write-ins,0Morrow,Ione #4,Attorney General,,,Write-ins,0Morrow,Heppner #5,Attorney General,,,Write-ins,0Morrow,Boardman #1,Attorney General,,,Over Votes,0Morrow,Irrigon #2,Attorney General,,,Over Votes,0Morrow,Lexington #3,Attorney General,,,Over Votes,0Morrow,Ione #4,Attorney General,,,Over Votes,0Morrow,Heppner #5,Attorney General,,,Over Votes,0Morrow,Boardman #1,Attorney General,,,Under Votes,92Morrow,Irrigon #2,Attorney General,,,Under Votes,110Morrow,Lexington #3,Attorney General,,,Under Votes,40Morrow,Ione #4,Attorney General,,,Under Votes,46Morrow,Heppner #5,Attorney General,,,Under Votes,127Morrow,Boardman #1,State Senate,29,REP,Bill Hansell,563Morrow,Irrigon #2,State Senate,29,REP,Bill Hansell,790Morrow,Lexington #3,State Senate,29,REP,Bill Hansell,237Morrow,Ione #4,State Senate,29,REP,Bill Hansell,270Morrow,Heppner #5,State Senate,29,REP,Bill Hansell,709Morrow,Boardman #1,State Senate,29,DEM,Antone Minthorn,260Morrow,Irrigon #2,State Senate,29,DEM,Antone Minthorn,390Morrow,Lexington #3,State Senate,29,DEM,Antone Minthorn,50Morrow,Ione #4,State Senate,29,DEM,Antone Minthorn,72Morrow,Heppner #5,State Senate,29,DEM,Antone Minthorn,249Morrow,Boardman #1,State Senate,29,,Write-ins,1Morrow,Irrigon #2,State Senate,29,,Write-ins,0Morrow,Lexington #3,State Senate,29,,Write-ins,0Morrow,Ione #4,State Senate,29,,Write-ins,0Morrow,Heppner #5,State Senate,29,,Write-ins,3Morrow,Boardman #1,State Senate,29,,Over Votes,0Morrow,Irrigon #2,State Senate,29,,Over Votes,0Morrow,Lexington #3,State Senate,29,,Over Votes,0Morrow,Ione #4,State Senate,29,,Over Votes,0Morrow,Heppner #5,State Senate,29,,Over Votes,0Morrow,Boardman #1,State Senate,29,,Under Votes,78Morrow,Irrigon #2,State Senate,29,,Under Votes,95Morrow,Lexington #3,State Senate,29,,Under Votes,26Morrow,Ione #4,State Senate,29,,Under Votes,32Morrow,Heppner #5,State Senate,29,,Under Votes,118Morrow,Boardman #1,State House,57,REP,Greg Smith,680Morrow,Irrigon #2,State House,57,REP,Greg Smith,970Morrow,Lexington #3,State House,57,REP,Greg Smith,257Morrow,Ione #4,State House,57,REP,Greg Smith,269Morrow,Heppner #5,State House,57,REP,Greg Smith,880Morrow,Boardman #1,State House,57,,Write-ins,11Morrow,Irrigon #2,State House,57,,Write-ins,14Morrow,Lexington #3,State House,57,,Write-ins,0Morrow,Ione #4,State House,57,,Write-ins,9Morrow,Heppner #5,State House,57,,Write-ins,17Morrow,Boardman #1,State House,57,,Over Votes,0Morrow,Irrigon #2,State House,57,,Over Votes,0Morrow,Lexington #3,State House,57,,Over Votes,0Morrow,Ione #4,State House,57,,Over Votes,0Morrow,Heppner #5,State House,57,,Over Votes,0Morrow,Boardman #1,State House,57,,Under Votes,211Morrow,Irrigon #2,State House,57,,Under Votes,279Morrow,Lexington #3,State House,57,,Under Votes,56Morrow,Ione #4,State House,57,,Under Votes,96Morrow,Heppner #5,State House,57,,Under Votes,182
