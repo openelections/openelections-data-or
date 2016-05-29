@@ -1,10 +1,10 @@
 import unicodecsv
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 parties = ['DEMOCRAT', 'REPUBLICAN', 'Democrat', 'Republican']
-party_abbrevs = ['(REP)', '(DEM)', '(GRN)', '(PRO)', '(LIB)', '(CON)', '(PAC)', '(LBT)', '(WFP)', '(PGP)', '(PCE)', '(IND)', '(REP,IND)', '(DEM,WFP)','(PGP,PRO)', '(DEM,IND)', '(PEP)', '(WFM)']
-offices = ['UNITED STATES PRESIDENT', 'UNITED STATES SENATOR', 'REPRESENTATIVE IN CONGRESS, 5TH DISTRICT', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER']
+party_abbrevs = ['(REF)','(LIB)','(IND)','(PGN)','(REP)', '(DEM)', '(GRN)', '(PRO)', '(CON)', '(PAC)', '(LBT)', '(WFP)', '(PGP)', '(PCE)', '(IND)', '(REP,IND)', '(DEM,WFP)','(PGP,PRO)', '(DEM,IND)', '(PEP)', '(WFM)', '(PGN)']
+offices = ['UNITED STATES PRESIDENT', 'UNITED STATES SENATOR', 'U.S. REPRESENTATIVE IN CONGRESS, 5TH DISTRICT', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER']
 office_lookup = {
-    'UNITED STATES SENATOR' : 'U.S. Senate', 'REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
+    'UNITED STATES SENATOR' : 'U.S. Senate', 'U.S. REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
     'STATE REPRESENTATIVE' : 'State House', 'SECRETARY OF STATE' : 'Secretary of State', 'ATTORNEY GENERAL' : 'Attorney General', 'UNITED STATES PRESIDENT': 'President',
     'STATE TREASURER' : 'State Treasurer'
 }
@@ -23,7 +23,7 @@ def skip_check(line):
 #        p = True
 #    elif "UNITED STATES REPRESENTATIVE IN CONGRESS" in line:
 #        p = True
-    elif "FINAL OFFICIAL" in line:
+    elif "OFFICIAL CANVASS" in line:
         p = True
     elif "NUMBERED KEY CANVASS" in line:
         p = True
@@ -133,7 +133,7 @@ def process_line(line, keys, w, party):
 #        else:
 #            pass
 
-with open('20061107__or__general__marion__precinct.csv', 'wb') as csvfile:
+with open('20001107__or__general__marion__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
