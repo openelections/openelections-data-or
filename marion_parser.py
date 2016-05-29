@@ -1,12 +1,12 @@
 import unicodecsv
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 parties = ['DEMOCRAT', 'REPUBLICAN', 'Democrat', 'Republican']
-party_abbrevs = ['(REP)', '(DEM)', '(GRN)', '(PRO)', '(LIB)', '(CON)', '(PAC)', '(LBT)', '(WFP)', '(PGP)', '(PCE)', '(IND)', '(REP,IND)', '(DEM,WFP)','(PGP,PRO)', '(DEM,IND)']
-offices = ['PRESIDENT OF THE UNITED STATES', 'UNITED STATES SENATOR', 'UNITED STATES REPRESENTATIVE IN CONGRESS, 5TH DISTRICT', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'Secretary of State', 'Attorney General', 'STATE TREASURER, 2 YR TERM']
+party_abbrevs = ['(REP)', '(DEM)', '(GRN)', '(PRO)', '(LIB)', '(CON)', '(PAC)', '(LBT)', '(WFP)', '(PGP)', '(PCE)', '(IND)', '(REP,IND)', '(DEM,WFP)','(PGP,PRO)', '(DEM,IND)', '(PEP)', '(WFM)']
+offices = ['UNITED STATES PRESIDENT', 'UNITED STATES SENATOR', 'REPRESENTATIVE IN CONGRESS, 5TH DISTRICT', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER']
 office_lookup = {
-    'UNITED STATES SENATOR' : 'U.S. Senate', 'UNITED STATES REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
-    'STATE REPRESENTATIVE' : 'State House', 'Secretary of State' : 'Secretary of State', 'Attorney General' : 'Attorney General',
-    'STATE TREASURER, 2 YR TERM' : 'State Treasurer'
+    'UNITED STATES SENATOR' : 'U.S. Senate', 'REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
+    'STATE REPRESENTATIVE' : 'State House', 'SECRETARY OF STATE' : 'Secretary of State', 'ATTORNEY GENERAL' : 'Attorney General', 'UNITED STATES PRESIDENT': 'President',
+    'STATE TREASURER' : 'State Treasurer'
 }
 
 def skip_check(line):
@@ -23,6 +23,8 @@ def skip_check(line):
 #        p = True
 #    elif "UNITED STATES REPRESENTATIVE IN CONGRESS" in line:
 #        p = True
+    elif "FINAL OFFICIAL" in line:
+        p = True
     elif "NUMBERED KEY CANVASS" in line:
         p = True
     elif line.strip() == '':
@@ -57,6 +59,9 @@ def office_check(line):
     if "DIST" in line.strip():
         if ',' in line.strip():
             o, d = line.strip().split(', ')
+            district = "".join([s for s in d if s.isdigit()])
+        elif '-' in line.strip():
+            o, d = line.strip().split(' - ')
             district = "".join([s for s in d if s.isdigit()])
         else:
             o = line.strip()
@@ -128,7 +133,7 @@ def process_line(line, keys, w, party):
 #        else:
 #            pass
 
-with open('20101102__or__general__marion__precinct.csv', 'wb') as csvfile:
+with open('20061107__or__general__marion__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
