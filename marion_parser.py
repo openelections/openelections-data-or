@@ -2,16 +2,16 @@ import unicodecsv
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 parties = ['DEMOCRAT', 'REPUBLICAN', 'Democrat', 'Republican']
 party_abbrevs = ['(REF)','(LIB)','(IND)','(PGN)','(REP)', '(DEM)', '(GRN)', '(PRO)', '(CON)', '(PAC)', '(LBT)', '(WFP)', '(PGP)', '(PCE)', '(IND)', '(REP,IND)', '(DEM,WFP)','(PGP,PRO)', '(DEM,IND)', '(PEP)', '(WFM)', '(PGN)']
-offices = ['UNITED STATES PRESIDENT', 'UNITED STATES SENATOR', 'U.S. REPRESENTATIVE IN CONGRESS, 5TH DISTRICT', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER']
+offices = ['US PRESIDENT', 'US SENATOR', 'U S REPRESENTATIVE IN CONGRESS - 5TH DISTRICT', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER']
 office_lookup = {
-    'UNITED STATES SENATOR' : 'U.S. Senate', 'U.S. REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
-    'STATE REPRESENTATIVE' : 'State House', 'SECRETARY OF STATE' : 'Secretary of State', 'ATTORNEY GENERAL' : 'Attorney General', 'UNITED STATES PRESIDENT': 'President',
+    'US SENATOR' : 'U.S. Senate', 'U S REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
+    'STATE REPRESENTATIVE' : 'State House', 'SECRETARY OF STATE' : 'Secretary of State', 'ATTORNEY GENERAL' : 'Attorney General', 'US PRESIDENT': 'President',
     'STATE TREASURER' : 'State Treasurer'
 }
 
 def skip_check(line):
     p = False
-    if line.strip() == 'General Election':
+    if 'PRIMARY ELECTION' in line:
         p = True
     elif line.strip() == 'NOVEMBER':
         p = True
@@ -23,7 +23,7 @@ def skip_check(line):
 #        p = True
 #    elif "UNITED STATES REPRESENTATIVE IN CONGRESS" in line:
 #        p = True
-    elif "OFFICIAL CANVASS" in line:
+    elif "FINAL OFFICIAL" in line:
         p = True
     elif "NUMBERED KEY CANVASS" in line:
         p = True
@@ -61,11 +61,11 @@ def office_check(line):
             o, d = line.strip().split(', ')
             district = "".join([s for s in d if s.isdigit()])
         elif '-' in line.strip():
-            o, d = line.strip().split(' - ')
+            p, o, d = line.strip().split(' - ')
             district = "".join([s for s in d if s.isdigit()])
         else:
-            o = line.strip()
-            district = "".join([s for s in o if s.isdigit()])
+            o, d = line.strip().split(' DISTRICT')
+            district = "".join([s for s in d if s.isdigit()])
 #        if 'dist' in line.strip():
 #            o, d = line.strip().split(', ')
 #        else:
@@ -73,8 +73,12 @@ def office_check(line):
 #            o = o1.strip() + ', ' + o2.strip()
         office = office_lookup[o]
     else:
-        office = office_lookup[line.strip()]
-        district = None
+        if '-' in line.strip():
+            office = office_lookup[line.strip().split(' - ')[1]]
+            district = None
+        else:
+            office = office_lookup[line.strip()]
+            district = None
     return [office, district]
 
 def cand_check(line):
@@ -82,36 +86,33 @@ def cand_check(line):
     candidate_bits = [x.strip() for x in line.split('   ') if '=' in x]
     candidates = [x.split(' = ') for x in candidate_bits]
     for code, name in candidates:
-        if any(party in line for party in party_abbrevs):
-            party = next(party for party in party_abbrevs if party in line)
-            if not party in name:
-                if '(PAC)' in name:
-                    party = 'PAC'
-                    name = name.replace('(PAC)', '').strip()
-                elif '(WFP)' in name:
-                    party = 'WFP'
-                    name = name.replace('(WFP)', '').strip()
-                elif '(DEM)' in name:
-                    party = 'DEM'
-                    name = name.replace('(DEM)', '').strip()
-            else:
-                name = name.replace(party, '').strip()
-                party = party.replace('(','').replace(')','')
-        else:
-            party = None
-        if name in ['WRITE-IN', 'OVER VOTES', 'UNDER VOTES', 'REGISTERED VOTERS - TOTAL', 'BALLOTS CAST - TOTAL ', 'VOTER TURNOUT - TOTAL']:
-            party = None
-        temp_keys.append({'code': int(code), 'name': name, 'party': party})
+#        if any(party in line for party in party_abbrevs):
+#            party = next(party for party in party_abbrevs if party in line)
+#            if not party in name:
+#                if '(PAC)' in name:
+#                    party = 'PAC'
+#                    name = name.replace('(PAC)', '').strip()
+#                elif '(WFP)' in name:
+#                    party = 'WFP'
+#                    name = name.replace('(WFP)', '').strip()
+#                elif '(DEM)' in name:
+#                    party = 'DEM'
+#                    name = name.replace('(DEM)', '').strip()
+#            else:
+#                name = name.replace(party, '').strip()
+#                party = party.replace('(','').replace(')','')
+#        else:
+#            party = None
+#        if name in ['WRITE-IN', 'OVER VOTES', 'UNDER VOTES', 'REGISTERED VOTERS - TOTAL', 'BALLOTS CAST - TOTAL ', 'VOTER TURNOUT - TOTAL']:
+#            party = None
+        temp_keys.append({'code': int(code), 'name': name, 'party': 'DEM'})
     return temp_keys
 
 def process_line(line, keys, w, party):
-    print keys
     if '=' in line:
         temp_keys = cand_check(line)
         for key in temp_keys:
             keys.append(key)
-
-        print keys
 
     else:
         if len(keys) > 0:
@@ -127,13 +128,13 @@ def process_line(line, keys, w, party):
                     try:
                         w.writerow(['Marion', precinct, office, district, cand['party'], cand['name'], result_bits[cand['code']]])
                     except:
-                        print candidate_keys
+                        print result_bits
                         raise
                         #w.writerow(['Multnomah', precinct, 'Total', None, cand['party'], cand['name'], result_bits[cand['code']]])
 #        else:
 #            pass
 
-with open('20001107__or__general__marion__precinct.csv', 'wb') as csvfile:
+with open('20000516__or__primary__marion__precinct2.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
@@ -148,8 +149,9 @@ with open('20001107__or__general__marion__precinct.csv', 'wb') as csvfile:
             break
         if skip_check(line):
             continue
-#        if any(party in line for party in party_abbrevs):
-#            party = line.replace("(",'').replace(")",'').strip()
+        if any(party in line for party in parties):
+            party = line.strip()[0:3]
+            continue
         if any(office in line for office in offices):
             office, district = office_check(line)
             keys = []
