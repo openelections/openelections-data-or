@@ -5,19 +5,20 @@ from BeautifulSoup import BeautifulSoup
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
-offices = ['United States President', 'US Senator', 'US Representative', 'State Representative',
+offices = ['President', 'US Senator', 'US Representative', 'State Representative',
 'Governor', 'State Treasurer', 'Attorney General', 'Secretary of State', 'United States President and VP']
 
 office_lookup = {
     'US Senator' : 'U.S. Senate', 'US Representative' : 'U.S. House', 'Governor' : 'Governor', 'State Senator' : 'State Senate',
-    'State Representative' : 'State House', 'State Representative, 58th District': 'State House'
+    'State Representative' : 'State House', 'State Representative, 58th District': 'State House', 'President': 'President',
+    'Secretary of State': 'Secretary of State', 'State Treasurer': 'State Treasurer', 'Attorney General': 'Attorney General'
 }
 
-with open('20141104__or__general__union__precinct.csv', 'wb') as csvfile:
+with open('20160517__or__primary__union__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    r = requests.get('http://union-county.org/wp-content/uploads/2013/08/EL301.htm')
+    r = requests.get('http://union-county.org/elections/2016/EL30.HTM')
     soup = BeautifulSoup(r.text)
     lines = soup.find('pre').text.split('\r\n')
     keys = []
@@ -64,8 +65,13 @@ with open('20141104__or__general__union__precinct.csv', 'wb') as csvfile:
             cand_bits = [x.strip() for x in cand_bits if x != '']
             if cand_bits[1] == '0':
                 cand_and_party, votes = cand_bits
+            elif len(cand_bits) == 2:
+                cand_and_party, votes = cand_bits
             else:
-                cand_and_party, votes, pct = cand_bits
+                try:
+                    cand_and_party, votes, pct = cand_bits
+                except:
+                    continue
             if "(" in cand_and_party:
                 candidate, party = [x.strip() for x in cand_and_party.split('(')]
                 party = party.replace(')','').replace('.','').strip()
@@ -73,5 +79,5 @@ with open('20141104__or__general__union__precinct.csv', 'wb') as csvfile:
                 candidate = cand_and_party.strip().replace('.','')
                 party = None
             w.writerow(['Union', precinct, office, district, party, candidate, votes])
-            if candidate == 'WRITE-IN':
-                office = None
+#            if candidate == 'WRITE-IN':
+#                office = None
