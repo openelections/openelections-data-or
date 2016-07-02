@@ -5,22 +5,22 @@ from BeautifulSoup import BeautifulSoup
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 parties = ['(Democratic)', '(Republican)']
 party_abbrevs = ['(REP)', '(DEM)', '(GRN)', '(PRO)', '(LIB)', '(CON)', '(PAC)', '(LBT)', '(WFP)', '(PGP)', '(PCE)', '(IND)']
-offices = ['United States President', 'United States Senator', 'US Representative, 4th District', 'Representative in Congress, 4th District', 'State Representative 7th District', 'State Representative 8th District',
-'State Representative 9th District', 'State Representative 11th District', 'Governor', 'State Representative 12th District', 'State Representative 13th District', 'State Representative 14th District',
+offices = ['President', 'US Senator', 'US Representative, 4th District', 'Representative in Congress, 4th District', 'State Representative, 7th District', 'State Representative, 8th District',
+'State Representative, 9th District', 'State Representative, 11th District', 'Governor', 'State Representative, 12th District', 'State Representative, 13th District', 'State Representative, 14th District',
 'State Treasurer', 'Attorney General', 'Secretary of State', 'State Senator, 1st District', 'State Senator, 2nd District', 'Representative, Congress, 4th District', 'United States President and Vice President',
 'Representative in Congress 4th District', 'State Senator, 5th District', 'State Senator 4th District', 'State Senator 6th District', 'State Senator 7th District', ]
 office_lookup = {
-    'United States Senator' : 'U.S. Senate', 'Representative in Congress' : 'U.S. House', 'Governor' : 'Governor', 'State Senator' : 'State Senate',
+    'US Senator' : 'U.S. Senate', 'US Representative' : 'U.S. House', 'Governor' : 'Governor', 'State Senator' : 'State Senate',
     'State Representative' : 'State House', 'Secretary of State' : 'Secretary of State', 'Attorney General' : 'Attorney General',
     'State Treasurer' : 'State Treasurer', 'Representative' : 'U.S. House', 'United States President' : 'President', 'Representative, Congress' : 'U.S. House',
-    'United States President and Vice President' : 'President', 'Representative in Congress 4th District': 'U.S. House', 'Representative, Congress 2nd Dist': 'U.S. House'
+    'President' : 'President', 'Representative in Congress 4th District': 'U.S. House', 'Representative, Congress 2nd Dist': 'U.S. House'
 }
 
-with open('20140520__or__primary__lane__precinct.csv', 'wb') as csvfile:
+with open('20160517__or__primary__lane__precinct.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    r = requests.get("http://www.lanecounty.org/Departments/CAO/Operations/CountyClerk/elections/ElectionDocuments/20140520_FinalCanvas.HTM")
+    r = requests.get("http://www.lanecounty.org/Departments/CAO/Operations/CountyClerk/elections/ElectionDocuments/20160517_Precinct.HTM")
 #    lines = r.text.split('\r\n')
     soup = BeautifulSoup(r.text)
     lines = soup.find('pre').text.split('\r\n')
@@ -72,12 +72,12 @@ with open('20140520__or__primary__lane__precinct.csv', 'wb') as csvfile:
             if "DISTRICT" in line.strip().upper():
                 if 'State Senator' in line.strip():
                     o = 'State Senator'
-                    d = line.strip().split('State Senator ')[1]
+                    d = line.strip().split('State Senator')[1]
                 elif 'State Representative' in line.strip():
                     o = 'State Representative'
-                    d = line.strip().split('State Representative ')[1]
-                elif line.strip() == 'Representative in Congress 4th District':
-                    o = 'Representative in Congress'
+                    d = line.strip().split('State Representative')[1]
+                elif line.strip() == 'US Representative, 4th District':
+                    o = 'US Representative'
                     d = '4th District'
                 else:
                     o, d = line.strip().split(', ')
