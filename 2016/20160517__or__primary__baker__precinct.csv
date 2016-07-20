@@ -1,0 +1,1429 @@
+county,precinct,office,district,party,candidate,votes
+Baker,Baker 1,Governor,,REP,Ted Cruz,73
+Baker,Baker 2,Governor,,REP,Ted Cruz,70
+Baker,Baker 3,Governor,,REP,Ted Cruz,56
+Baker,Baker 4,Governor,,REP,Ted Cruz,88
+Baker,Baker 5,Governor,,REP,Ted Cruz,94
+Baker,Baker County 13,Governor,,REP,Ted Cruz,74
+Baker,Durkee 14,Governor,,REP,Ted Cruz,10
+Baker,Eagle Valley 15,Governor,,REP,Ted Cruz,29
+Baker,Haines 17,Governor,,REP,Ted Cruz,52
+Baker,Hereford 18,Governor,,REP,Ted Cruz,7
+Baker,Huntington 19,Governor,,REP,Ted Cruz,3
+Baker,Irondyke 20,Governor,,REP,Ted Cruz,1
+Baker,Keating 21,Governor,,REP,Ted Cruz,18
+Baker,Pine Valley 22,Governor,,REP,Ted Cruz,27
+Baker,Poca-Wing 24,Governor,,REP,Ted Cruz,68
+Baker,Sumpter 25,Governor,,REP,Ted Cruz,14
+Baker,Unity 26,Governor,,REP,Ted Cruz,2
+Baker,Baker 1,Governor,,REP,John R Kasich,44
+Baker,Baker 2,Governor,,REP,John R Kasich,45
+Baker,Baker 3,Governor,,REP,John R Kasich,30
+Baker,Baker 4,Governor,,REP,John R Kasich,36
+Baker,Baker 5,Governor,,REP,John R Kasich,54
+Baker,Baker County 13,Governor,,REP,John R Kasich,44
+Baker,Durkee 14,Governor,,REP,John R Kasich,0
+Baker,Eagle Valley 15,Governor,,REP,John R Kasich,26
+Baker,Haines 17,Governor,,REP,John R Kasich,59
+Baker,Hereford 18,Governor,,REP,John R Kasich,2
+Baker,Huntington 19,Governor,,REP,John R Kasich,2
+Baker,Irondyke 20,Governor,,REP,John R Kasich,4
+Baker,Keating 21,Governor,,REP,John R Kasich,6
+Baker,Pine Valley 22,Governor,,REP,John R Kasich,41
+Baker,Poca-Wing 24,Governor,,REP,John R Kasich,62
+Baker,Sumpter 25,Governor,,REP,John R Kasich,14
+Baker,Unity 26,Governor,,REP,John R Kasich,2
+Baker,Baker 1,Governor,,REP,Donald J Trump,216
+Baker,Baker 2,Governor,,REP,Donald J Trump,156
+Baker,Baker 3,Governor,,REP,Donald J Trump,220
+Baker,Baker 4,Governor,,REP,Donald J Trump,284
+Baker,Baker 5,Governor,,REP,Donald J Trump,297
+Baker,Baker County 13,Governor,,REP,Donald J Trump,242
+Baker,Durkee 14,Governor,,REP,Donald J Trump,37
+Baker,Eagle Valley 15,Governor,,REP,Donald J Trump,118
+Baker,Haines 17,Governor,,REP,Donald J Trump,153
+Baker,Hereford 18,Governor,,REP,Donald J Trump,36
+Baker,Huntington 19,Governor,,REP,Donald J Trump,48
+Baker,Irondyke 20,Governor,,REP,Donald J Trump,12
+Baker,Keating 21,Governor,,REP,Donald J Trump,58
+Baker,Pine Valley 22,Governor,,REP,Donald J Trump,114
+Baker,Poca-Wing 24,Governor,,REP,Donald J Trump,218
+Baker,Sumpter 25,Governor,,REP,Donald J Trump,85
+Baker,Unity 26,Governor,,REP,Donald J Trump,52
+Baker,Baker 1,Governor,,REP,Write-in,10
+Baker,Baker 2,Governor,,REP,Write-in,7
+Baker,Baker 3,Governor,,REP,Write-in,10
+Baker,Baker 4,Governor,,REP,Write-in,12
+Baker,Baker 5,Governor,,REP,Write-in,11
+Baker,Baker County 13,Governor,,REP,Write-in,5
+Baker,Durkee 14,Governor,,REP,Write-in,0
+Baker,Eagle Valley 15,Governor,,REP,Write-in,2
+Baker,Haines 17,Governor,,REP,Write-in,9
+Baker,Hereford 18,Governor,,REP,Write-in,0
+Baker,Huntington 19,Governor,,REP,Write-in,1
+Baker,Irondyke 20,Governor,,REP,Write-in,0
+Baker,Keating 21,Governor,,REP,Write-in,0
+Baker,Pine Valley 22,Governor,,REP,Write-in,7
+Baker,Poca-Wing 24,Governor,,REP,Write-in,3
+Baker,Sumpter 25,Governor,,REP,Write-in,0
+Baker,Unity 26,Governor,,REP,Write-in,0
+Baker,Baker 1,Governor,,REP,Over Votes,0
+Baker,Baker 2,Governor,,REP,Over Votes,0
+Baker,Baker 3,Governor,,REP,Over Votes,1
+Baker,Baker 4,Governor,,REP,Over Votes,0
+Baker,Baker 5,Governor,,REP,Over Votes,0
+Baker,Baker County 13,Governor,,REP,Over Votes,0
+Baker,Durkee 14,Governor,,REP,Over Votes,0
+Baker,Eagle Valley 15,Governor,,REP,Over Votes,0
+Baker,Haines 17,Governor,,REP,Over Votes,0
+Baker,Hereford 18,Governor,,REP,Over Votes,0
+Baker,Huntington 19,Governor,,REP,Over Votes,0
+Baker,Irondyke 20,Governor,,REP,Over Votes,0
+Baker,Keating 21,Governor,,REP,Over Votes,0
+Baker,Pine Valley 22,Governor,,REP,Over Votes,0
+Baker,Poca-Wing 24,Governor,,REP,Over Votes,0
+Baker,Sumpter 25,Governor,,REP,Over Votes,0
+Baker,Unity 26,Governor,,REP,Over Votes,0
+Baker,Baker 1,Governor,,REP,Under Votes,14
+Baker,Baker 2,Governor,,REP,Under Votes,7
+Baker,Baker 3,Governor,,REP,Under Votes,12
+Baker,Baker 4,Governor,,REP,Under Votes,12
+Baker,Baker 5,Governor,,REP,Under Votes,21
+Baker,Baker County 13,Governor,,REP,Under Votes,17
+Baker,Durkee 14,Governor,,REP,Under Votes,2
+Baker,Eagle Valley 15,Governor,,REP,Under Votes,12
+Baker,Haines 17,Governor,,REP,Under Votes,14
+Baker,Hereford 18,Governor,,REP,Under Votes,2
+Baker,Huntington 19,Governor,,REP,Under Votes,1
+Baker,Irondyke 20,Governor,,REP,Under Votes,0
+Baker,Keating 21,Governor,,REP,Under Votes,1
+Baker,Pine Valley 22,Governor,,REP,Under Votes,15
+Baker,Poca-Wing 24,Governor,,REP,Under Votes,23
+Baker,Sumpter 25,Governor,,REP,Under Votes,3
+Baker,Unity 26,Governor,,REP,Under Votes,2
+Baker,Baker 1,U.S. Senate,,REP,Sam Carpenter,109
+Baker,Baker 2,U.S. Senate,,REP,Sam Carpenter,65
+Baker,Baker 3,U.S. Senate,,REP,Sam Carpenter,108
+Baker,Baker 4,U.S. Senate,,REP,Sam Carpenter,129
+Baker,Baker 5,U.S. Senate,,REP,Sam Carpenter,144
+Baker,Baker County 13,U.S. Senate,,REP,Sam Carpenter,99
+Baker,Durkee 14,U.S. Senate,,REP,Sam Carpenter,7
+Baker,Eagle Valley 15,U.S. Senate,,REP,Sam Carpenter,63
+Baker,Haines 17,U.S. Senate,,REP,Sam Carpenter,88
+Baker,Hereford 18,U.S. Senate,,REP,Sam Carpenter,17
+Baker,Huntington 19,U.S. Senate,,REP,Sam Carpenter,13
+Baker,Irondyke 20,U.S. Senate,,REP,Sam Carpenter,3
+Baker,Keating 21,U.S. Senate,,REP,Sam Carpenter,30
+Baker,Pine Valley 22,U.S. Senate,,REP,Sam Carpenter,62
+Baker,Poca-Wing 24,U.S. Senate,,REP,Sam Carpenter,110
+Baker,Sumpter 25,U.S. Senate,,REP,Sam Carpenter,40
+Baker,Unity 26,U.S. Senate,,REP,Sam Carpenter,25
+Baker,Baker 1,U.S. Senate,,REP,Mark Callahan,79
+Baker,Baker 2,U.S. Senate,,REP,Mark Callahan,91
+Baker,Baker 3,U.S. Senate,,REP,Mark Callahan,84
+Baker,Baker 4,U.S. Senate,,REP,Mark Callahan,124
+Baker,Baker 5,U.S. Senate,,REP,Mark Callahan,146
+Baker,Baker County 13,U.S. Senate,,REP,Mark Callahan,97
+Baker,Durkee 14,U.S. Senate,,REP,Mark Callahan,17
+Baker,Eagle Valley 15,U.S. Senate,,REP,Mark Callahan,59
+Baker,Haines 17,U.S. Senate,,REP,Mark Callahan,68
+Baker,Hereford 18,U.S. Senate,,REP,Mark Callahan,14
+Baker,Huntington 19,U.S. Senate,,REP,Mark Callahan,16
+Baker,Irondyke 20,U.S. Senate,,REP,Mark Callahan,6
+Baker,Keating 21,U.S. Senate,,REP,Mark Callahan,26
+Baker,Pine Valley 22,U.S. Senate,,REP,Mark Callahan,48
+Baker,Poca-Wing 24,U.S. Senate,,REP,Mark Callahan,110
+Baker,Sumpter 25,U.S. Senate,,REP,Mark Callahan,25
+Baker,Unity 26,U.S. Senate,,REP,Mark Callahan,17
+Baker,Baker 1,U.S. Senate,,REP,Faye Stewart,37
+Baker,Baker 2,U.S. Senate,,REP,Faye Stewart,45
+Baker,Baker 3,U.S. Senate,,REP,Faye Stewart,20
+Baker,Baker 4,U.S. Senate,,REP,Faye Stewart,45
+Baker,Baker 5,U.S. Senate,,REP,Faye Stewart,50
+Baker,Baker County 13,U.S. Senate,,REP,Faye Stewart,33
+Baker,Durkee 14,U.S. Senate,,REP,Faye Stewart,3
+Baker,Eagle Valley 15,U.S. Senate,,REP,Faye Stewart,11
+Baker,Haines 17,U.S. Senate,,REP,Faye Stewart,24
+Baker,Hereford 18,U.S. Senate,,REP,Faye Stewart,3
+Baker,Huntington 19,U.S. Senate,,REP,Faye Stewart,9
+Baker,Irondyke 20,U.S. Senate,,REP,Faye Stewart,5
+Baker,Keating 21,U.S. Senate,,REP,Faye Stewart,6
+Baker,Pine Valley 22,U.S. Senate,,REP,Faye Stewart,29
+Baker,Poca-Wing 24,U.S. Senate,,REP,Faye Stewart,28
+Baker,Sumpter 25,U.S. Senate,,REP,Faye Stewart,5
+Baker,Unity 26,U.S. Senate,,REP,Faye Stewart,2
+Baker,Baker 1,U.S. Senate,,REP,Dan Laschober,28
+Baker,Baker 2,U.S. Senate,,REP,Dan Laschober,16
+Baker,Baker 3,U.S. Senate,,REP,Dan Laschober,31
+Baker,Baker 4,U.S. Senate,,REP,Dan Laschober,18
+Baker,Baker 5,U.S. Senate,,REP,Dan Laschober,24
+Baker,Baker County 13,U.S. Senate,,REP,Dan Laschober,38
+Baker,Durkee 14,U.S. Senate,,REP,Dan Laschober,6
+Baker,Eagle Valley 15,U.S. Senate,,REP,Dan Laschober,20
+Baker,Haines 17,U.S. Senate,,REP,Dan Laschober,26
+Baker,Hereford 18,U.S. Senate,,REP,Dan Laschober,0
+Baker,Huntington 19,U.S. Senate,,REP,Dan Laschober,6
+Baker,Irondyke 20,U.S. Senate,,REP,Dan Laschober,0
+Baker,Keating 21,U.S. Senate,,REP,Dan Laschober,2
+Baker,Pine Valley 22,U.S. Senate,,REP,Dan Laschober,16
+Baker,Poca-Wing 24,U.S. Senate,,REP,Dan Laschober,18
+Baker,Sumpter 25,U.S. Senate,,REP,Dan Laschober,16
+Baker,Unity 26,U.S. Senate,,REP,Dan Laschober,3
+Baker,Baker 1,U.S. Senate,,REP,Write-in,5
+Baker,Baker 2,U.S. Senate,,REP,Write-in,4
+Baker,Baker 3,U.S. Senate,,REP,Write-in,5
+Baker,Baker 4,U.S. Senate,,REP,Write-in,3
+Baker,Baker 5,U.S. Senate,,REP,Write-in,1
+Baker,Baker County 13,U.S. Senate,,REP,Write-in,0
+Baker,Durkee 14,U.S. Senate,,REP,Write-in,0
+Baker,Eagle Valley 15,U.S. Senate,,REP,Write-in,1
+Baker,Haines 17,U.S. Senate,,REP,Write-in,3
+Baker,Hereford 18,U.S. Senate,,REP,Write-in,0
+Baker,Huntington 19,U.S. Senate,,REP,Write-in,0
+Baker,Irondyke 20,U.S. Senate,,REP,Write-in,0
+Baker,Keating 21,U.S. Senate,,REP,Write-in,0
+Baker,Pine Valley 22,U.S. Senate,,REP,Write-in,8
+Baker,Poca-Wing 24,U.S. Senate,,REP,Write-in,1
+Baker,Sumpter 25,U.S. Senate,,REP,Write-in,2
+Baker,Unity 26,U.S. Senate,,REP,Write-in,0
+Baker,Baker 1,U.S. Senate,,REP,Over Votes,0
+Baker,Baker 2,U.S. Senate,,REP,Over Votes,1
+Baker,Baker 3,U.S. Senate,,REP,Over Votes,0
+Baker,Baker 4,U.S. Senate,,REP,Over Votes,1
+Baker,Baker 5,U.S. Senate,,REP,Over Votes,0
+Baker,Baker County 13,U.S. Senate,,REP,Over Votes,0
+Baker,Durkee 14,U.S. Senate,,REP,Over Votes,0
+Baker,Eagle Valley 15,U.S. Senate,,REP,Over Votes,0
+Baker,Haines 17,U.S. Senate,,REP,Over Votes,0
+Baker,Hereford 18,U.S. Senate,,REP,Over Votes,0
+Baker,Huntington 19,U.S. Senate,,REP,Over Votes,0
+Baker,Irondyke 20,U.S. Senate,,REP,Over Votes,0
+Baker,Keating 21,U.S. Senate,,REP,Over Votes,0
+Baker,Pine Valley 22,U.S. Senate,,REP,Over Votes,0
+Baker,Poca-Wing 24,U.S. Senate,,REP,Over Votes,0
+Baker,Sumpter 25,U.S. Senate,,REP,Over Votes,0
+Baker,Unity 26,U.S. Senate,,REP,Over Votes,0
+Baker,Baker 1,U.S. Senate,,REP,Under Votes,99
+Baker,Baker 2,U.S. Senate,,REP,Under Votes,63
+Baker,Baker 3,U.S. Senate,,REP,Under Votes,81
+Baker,Baker 4,U.S. Senate,,REP,Under Votes,112
+Baker,Baker 5,U.S. Senate,,REP,Under Votes,112
+Baker,Baker County 13,U.S. Senate,,REP,Under Votes,115
+Baker,Durkee 14,U.S. Senate,,REP,Under Votes,16
+Baker,Eagle Valley 15,U.S. Senate,,REP,Under Votes,33
+Baker,Haines 17,U.S. Senate,,REP,Under Votes,78
+Baker,Hereford 18,U.S. Senate,,REP,Under Votes,13
+Baker,Huntington 19,U.S. Senate,,REP,Under Votes,11
+Baker,Irondyke 20,U.S. Senate,,REP,Under Votes,3
+Baker,Keating 21,U.S. Senate,,REP,Under Votes,19
+Baker,Pine Valley 22,U.S. Senate,,REP,Under Votes,41
+Baker,Poca-Wing 24,U.S. Senate,,REP,Under Votes,107
+Baker,Sumpter 25,U.S. Senate,,REP,Under Votes,28
+Baker,Unity 26,U.S. Senate,,REP,Under Votes,11
+Baker,Baker 1,U.S. House,2,REP,Paul J Romero Jr,59
+Baker,Baker 2,U.S. House,2,REP,Paul J Romero Jr,39
+Baker,Baker 3,U.S. House,2,REP,Paul J Romero Jr,71
+Baker,Baker 4,U.S. House,2,REP,Paul J Romero Jr,70
+Baker,Baker 5,U.S. House,2,REP,Paul J Romero Jr,97
+Baker,Baker County 13,U.S. House,2,REP,Paul J Romero Jr,64
+Baker,Durkee 14,U.S. House,2,REP,Paul J Romero Jr,5
+Baker,Eagle Valley 15,U.S. House,2,REP,Paul J Romero Jr,53
+Baker,Haines 17,U.S. House,2,REP,Paul J Romero Jr,39
+Baker,Hereford 18,U.S. House,2,REP,Paul J Romero Jr,4
+Baker,Huntington 19,U.S. House,2,REP,Paul J Romero Jr,18
+Baker,Irondyke 20,U.S. House,2,REP,Paul J Romero Jr,4
+Baker,Keating 21,U.S. House,2,REP,Paul J Romero Jr,18
+Baker,Pine Valley 22,U.S. House,2,REP,Paul J Romero Jr,33
+Baker,Poca-Wing 24,U.S. House,2,REP,Paul J Romero Jr,56
+Baker,Sumpter 25,U.S. House,2,REP,Paul J Romero Jr,32
+Baker,Unity 26,U.S. House,2,REP,Paul J Romero Jr,11
+Baker,Baker 1,U.S. House,2,REP,Greg Walden,279
+Baker,Baker 2,U.S. House,2,REP,Greg Walden,228
+Baker,Baker 3,U.S. House,2,REP,Greg Walden,239
+Baker,Baker 4,U.S. House,2,REP,Greg Walden,328
+Baker,Baker 5,U.S. House,2,REP,Greg Walden,350
+Baker,Baker County 13,U.S. House,2,REP,Greg Walden,296
+Baker,Durkee 14,U.S. House,2,REP,Greg Walden,41
+Baker,Eagle Valley 15,U.S. House,2,REP,Greg Walden,121
+Baker,Haines 17,U.S. House,2,REP,Greg Walden,228
+Baker,Hereford 18,U.S. House,2,REP,Greg Walden,41
+Baker,Huntington 19,U.S. House,2,REP,Greg Walden,30
+Baker,Irondyke 20,U.S. House,2,REP,Greg Walden,10
+Baker,Keating 21,U.S. House,2,REP,Greg Walden,60
+Baker,Pine Valley 22,U.S. House,2,REP,Greg Walden,134
+Baker,Poca-Wing 24,U.S. House,2,REP,Greg Walden,283
+Baker,Sumpter 25,U.S. House,2,REP,Greg Walden,74
+Baker,Unity 26,U.S. House,2,REP,Greg Walden,43
+Baker,Baker 1,U.S. House,2,REP,Write-in,0
+Baker,Baker 2,U.S. House,2,REP,Write-in,1
+Baker,Baker 3,U.S. House,2,REP,Write-in,1
+Baker,Baker 4,U.S. House,2,REP,Write-in,2
+Baker,Baker 5,U.S. House,2,REP,Write-in,1
+Baker,Baker County 13,U.S. House,2,REP,Write-in,0
+Baker,Durkee 14,U.S. House,2,REP,Write-in,0
+Baker,Eagle Valley 15,U.S. House,2,REP,Write-in,0
+Baker,Haines 17,U.S. House,2,REP,Write-in,1
+Baker,Hereford 18,U.S. House,2,REP,Write-in,0
+Baker,Huntington 19,U.S. House,2,REP,Write-in,0
+Baker,Irondyke 20,U.S. House,2,REP,Write-in,0
+Baker,Keating 21,U.S. House,2,REP,Write-in,0
+Baker,Pine Valley 22,U.S. House,2,REP,Write-in,2
+Baker,Poca-Wing 24,U.S. House,2,REP,Write-in,0
+Baker,Sumpter 25,U.S. House,2,REP,Write-in,1
+Baker,Unity 26,U.S. House,2,REP,Write-in,0
+Baker,Baker 1,U.S. House,2,REP,Over Votes,0
+Baker,Baker 2,U.S. House,2,REP,Over Votes,0
+Baker,Baker 3,U.S. House,2,REP,Over Votes,0
+Baker,Baker 4,U.S. House,2,REP,Over Votes,0
+Baker,Baker 5,U.S. House,2,REP,Over Votes,0
+Baker,Baker County 13,U.S. House,2,REP,Over Votes,0
+Baker,Durkee 14,U.S. House,2,REP,Over Votes,0
+Baker,Eagle Valley 15,U.S. House,2,REP,Over Votes,0
+Baker,Haines 17,U.S. House,2,REP,Over Votes,0
+Baker,Hereford 18,U.S. House,2,REP,Over Votes,0
+Baker,Huntington 19,U.S. House,2,REP,Over Votes,0
+Baker,Irondyke 20,U.S. House,2,REP,Over Votes,0
+Baker,Keating 21,U.S. House,2,REP,Over Votes,0
+Baker,Pine Valley 22,U.S. House,2,REP,Over Votes,0
+Baker,Poca-Wing 24,U.S. House,2,REP,Over Votes,0
+Baker,Sumpter 25,U.S. House,2,REP,Over Votes,0
+Baker,Unity 26,U.S. House,2,REP,Over Votes,0
+Baker,Baker 1,U.S. House,2,REP,Under Votes,19
+Baker,Baker 2,U.S. House,2,REP,Under Votes,17
+Baker,Baker 3,U.S. House,2,REP,Under Votes,18
+Baker,Baker 4,U.S. House,2,REP,Under Votes,32
+Baker,Baker 5,U.S. House,2,REP,Under Votes,29
+Baker,Baker County 13,U.S. House,2,REP,Under Votes,22
+Baker,Durkee 14,U.S. House,2,REP,Under Votes,3
+Baker,Eagle Valley 15,U.S. House,2,REP,Under Votes,13
+Baker,Haines 17,U.S. House,2,REP,Under Votes,19
+Baker,Hereford 18,U.S. House,2,REP,Under Votes,2
+Baker,Huntington 19,U.S. House,2,REP,Under Votes,7
+Baker,Irondyke 20,U.S. House,2,REP,Under Votes,3
+Baker,Keating 21,U.S. House,2,REP,Under Votes,5
+Baker,Pine Valley 22,U.S. House,2,REP,Under Votes,35
+Baker,Poca-Wing 24,U.S. House,2,REP,Under Votes,35
+Baker,Sumpter 25,U.S. House,2,REP,Under Votes,9
+Baker,Unity 26,U.S. House,2,REP,Under Votes,4
+Baker,Baker 1,Governor,,REP,Bruce Cuff,41
+Baker,Baker 2,Governor,,REP,Bruce Cuff,35
+Baker,Baker 3,Governor,,REP,Bruce Cuff,49
+Baker,Baker 4,Governor,,REP,Bruce Cuff,75
+Baker,Baker 5,Governor,,REP,Bruce Cuff,76
+Baker,Baker County 13,Governor,,REP,Bruce Cuff,57
+Baker,Durkee 14,Governor,,REP,Bruce Cuff,12
+Baker,Eagle Valley 15,Governor,,REP,Bruce Cuff,55
+Baker,Haines 17,Governor,,REP,Bruce Cuff,36
+Baker,Hereford 18,Governor,,REP,Bruce Cuff,10
+Baker,Huntington 19,Governor,,REP,Bruce Cuff,14
+Baker,Irondyke 20,Governor,,REP,Bruce Cuff,3
+Baker,Keating 21,Governor,,REP,Bruce Cuff,17
+Baker,Pine Valley 22,Governor,,REP,Bruce Cuff,44
+Baker,Poca-Wing 24,Governor,,REP,Bruce Cuff,65
+Baker,Sumpter 25,Governor,,REP,Bruce Cuff,15
+Baker,Unity 26,Governor,,REP,Bruce Cuff,22
+Baker,Baker 1,Governor,,REP,Bob Niemeyer,35
+Baker,Baker 2,Governor,,REP,Bob Niemeyer,24
+Baker,Baker 3,Governor,,REP,Bob Niemeyer,27
+Baker,Baker 4,Governor,,REP,Bob Niemeyer,45
+Baker,Baker 5,Governor,,REP,Bob Niemeyer,40
+Baker,Baker County 13,Governor,,REP,Bob Niemeyer,42
+Baker,Durkee 14,Governor,,REP,Bob Niemeyer,4
+Baker,Eagle Valley 15,Governor,,REP,Bob Niemeyer,10
+Baker,Haines 17,Governor,,REP,Bob Niemeyer,36
+Baker,Hereford 18,Governor,,REP,Bob Niemeyer,1
+Baker,Huntington 19,Governor,,REP,Bob Niemeyer,10
+Baker,Irondyke 20,Governor,,REP,Bob Niemeyer,2
+Baker,Keating 21,Governor,,REP,Bob Niemeyer,8
+Baker,Pine Valley 22,Governor,,REP,Bob Niemeyer,11
+Baker,Poca-Wing 24,Governor,,REP,Bob Niemeyer,18
+Baker,Sumpter 25,Governor,,REP,Bob Niemeyer,16
+Baker,Unity 26,Governor,,REP,Bob Niemeyer,6
+Baker,Baker 1,Governor,,REP,Bob Forthan,3
+Baker,Baker 2,Governor,,REP,Bob Forthan,1
+Baker,Baker 3,Governor,,REP,Bob Forthan,8
+Baker,Baker 4,Governor,,REP,Bob Forthan,8
+Baker,Baker 5,Governor,,REP,Bob Forthan,7
+Baker,Baker County 13,Governor,,REP,Bob Forthan,5
+Baker,Durkee 14,Governor,,REP,Bob Forthan,0
+Baker,Eagle Valley 15,Governor,,REP,Bob Forthan,2
+Baker,Haines 17,Governor,,REP,Bob Forthan,3
+Baker,Hereford 18,Governor,,REP,Bob Forthan,0
+Baker,Huntington 19,Governor,,REP,Bob Forthan,1
+Baker,Irondyke 20,Governor,,REP,Bob Forthan,0
+Baker,Keating 21,Governor,,REP,Bob Forthan,1
+Baker,Pine Valley 22,Governor,,REP,Bob Forthan,1
+Baker,Poca-Wing 24,Governor,,REP,Bob Forthan,1
+Baker,Sumpter 25,Governor,,REP,Bob Forthan,1
+Baker,Unity 26,Governor,,REP,Bob Forthan,1
+Baker,Baker 1,Governor,,REP,Bud Pierce,140
+Baker,Baker 2,Governor,,REP,Bud Pierce,103
+Baker,Baker 3,Governor,,REP,Bud Pierce,119
+Baker,Baker 4,Governor,,REP,Bud Pierce,152
+Baker,Baker 5,Governor,,REP,Bud Pierce,153
+Baker,Baker County 13,Governor,,REP,Bud Pierce,122
+Baker,Durkee 14,Governor,,REP,Bud Pierce,15
+Baker,Eagle Valley 15,Governor,,REP,Bud Pierce,43
+Baker,Haines 17,Governor,,REP,Bud Pierce,94
+Baker,Hereford 18,Governor,,REP,Bud Pierce,16
+Baker,Huntington 19,Governor,,REP,Bud Pierce,13
+Baker,Irondyke 20,Governor,,REP,Bud Pierce,4
+Baker,Keating 21,Governor,,REP,Bud Pierce,33
+Baker,Pine Valley 22,Governor,,REP,Bud Pierce,58
+Baker,Poca-Wing 24,Governor,,REP,Bud Pierce,127
+Baker,Sumpter 25,Governor,,REP,Bud Pierce,34
+Baker,Unity 26,Governor,,REP,Bud Pierce,14
+Baker,Baker 1,Governor,,REP,Allen Alley,84
+Baker,Baker 2,Governor,,REP,Allen Alley,87
+Baker,Baker 3,Governor,,REP,Allen Alley,77
+Baker,Baker 4,Governor,,REP,Allen Alley,100
+Baker,Baker 5,Governor,,REP,Allen Alley,134
+Baker,Baker County 13,Governor,,REP,Allen Alley,102
+Baker,Durkee 14,Governor,,REP,Allen Alley,8
+Baker,Eagle Valley 15,Governor,,REP,Allen Alley,55
+Baker,Haines 17,Governor,,REP,Allen Alley,85
+Baker,Hereford 18,Governor,,REP,Allen Alley,14
+Baker,Huntington 19,Governor,,REP,Allen Alley,9
+Baker,Irondyke 20,Governor,,REP,Allen Alley,6
+Baker,Keating 21,Governor,,REP,Allen Alley,11
+Baker,Pine Valley 22,Governor,,REP,Allen Alley,62
+Baker,Poca-Wing 24,Governor,,REP,Allen Alley,91
+Baker,Sumpter 25,Governor,,REP,Allen Alley,37
+Baker,Unity 26,Governor,,REP,Allen Alley,10
+Baker,Baker 1,Governor,,REP,Write-in,3
+Baker,Baker 2,Governor,,REP,Write-in,2
+Baker,Baker 3,Governor,,REP,Write-in,4
+Baker,Baker 4,Governor,,REP,Write-in,2
+Baker,Baker 5,Governor,,REP,Write-in,3
+Baker,Baker County 13,Governor,,REP,Write-in,2
+Baker,Durkee 14,Governor,,REP,Write-in,1
+Baker,Eagle Valley 15,Governor,,REP,Write-in,1
+Baker,Haines 17,Governor,,REP,Write-in,2
+Baker,Hereford 18,Governor,,REP,Write-in,0
+Baker,Huntington 19,Governor,,REP,Write-in,0
+Baker,Irondyke 20,Governor,,REP,Write-in,0
+Baker,Keating 21,Governor,,REP,Write-in,0
+Baker,Pine Valley 22,Governor,,REP,Write-in,6
+Baker,Poca-Wing 24,Governor,,REP,Write-in,1
+Baker,Sumpter 25,Governor,,REP,Write-in,1
+Baker,Unity 26,Governor,,REP,Write-in,0
+Baker,Baker 1,Governor,,REP,Over Votes,1
+Baker,Baker 2,Governor,,REP,Over Votes,0
+Baker,Baker 3,Governor,,REP,Over Votes,0
+Baker,Baker 4,Governor,,REP,Over Votes,0
+Baker,Baker 5,Governor,,REP,Over Votes,0
+Baker,Baker County 13,Governor,,REP,Over Votes,0
+Baker,Durkee 14,Governor,,REP,Over Votes,0
+Baker,Eagle Valley 15,Governor,,REP,Over Votes,0
+Baker,Haines 17,Governor,,REP,Over Votes,0
+Baker,Hereford 18,Governor,,REP,Over Votes,0
+Baker,Huntington 19,Governor,,REP,Over Votes,0
+Baker,Irondyke 20,Governor,,REP,Over Votes,0
+Baker,Keating 21,Governor,,REP,Over Votes,0
+Baker,Pine Valley 22,Governor,,REP,Over Votes,0
+Baker,Poca-Wing 24,Governor,,REP,Over Votes,0
+Baker,Sumpter 25,Governor,,REP,Over Votes,0
+Baker,Unity 26,Governor,,REP,Over Votes,0
+Baker,Baker 1,Governor,,REP,Under Votes,50
+Baker,Baker 2,Governor,,REP,Under Votes,33
+Baker,Baker 3,Governor,,REP,Under Votes,45
+Baker,Baker 4,Governor,,REP,Under Votes,50
+Baker,Baker 5,Governor,,REP,Under Votes,64
+Baker,Baker County 13,Governor,,REP,Under Votes,52
+Baker,Durkee 14,Governor,,REP,Under Votes,9
+Baker,Eagle Valley 15,Governor,,REP,Under Votes,21
+Baker,Haines 17,Governor,,REP,Under Votes,31
+Baker,Hereford 18,Governor,,REP,Under Votes,6
+Baker,Huntington 19,Governor,,REP,Under Votes,8
+Baker,Irondyke 20,Governor,,REP,Under Votes,2
+Baker,Keating 21,Governor,,REP,Under Votes,13
+Baker,Pine Valley 22,Governor,,REP,Under Votes,22
+Baker,Poca-Wing 24,Governor,,REP,Under Votes,71
+Baker,Sumpter 25,Governor,,REP,Under Votes,12
+Baker,Unity 26,Governor,,REP,Under Votes,5
+Baker,Baker 1,Secretary of State,,REP,Dennis Richardson,229
+Baker,Baker 2,Secretary of State,,REP,Dennis Richardson,197
+Baker,Baker 3,Secretary of State,,REP,Dennis Richardson,222
+Baker,Baker 4,Secretary of State,,REP,Dennis Richardson,302
+Baker,Baker 5,Secretary of State,,REP,Dennis Richardson,327
+Baker,Baker County 13,Secretary of State,,REP,Dennis Richardson,251
+Baker,Durkee 14,Secretary of State,,REP,Dennis Richardson,35
+Baker,Eagle Valley 15,Secretary of State,,REP,Dennis Richardson,118
+Baker,Haines 17,Secretary of State,,REP,Dennis Richardson,200
+Baker,Hereford 18,Secretary of State,,REP,Dennis Richardson,30
+Baker,Huntington 19,Secretary of State,,REP,Dennis Richardson,34
+Baker,Irondyke 20,Secretary of State,,REP,Dennis Richardson,10
+Baker,Keating 21,Secretary of State,,REP,Dennis Richardson,66
+Baker,Pine Valley 22,Secretary of State,,REP,Dennis Richardson,126
+Baker,Poca-Wing 24,Secretary of State,,REP,Dennis Richardson,242
+Baker,Sumpter 25,Secretary of State,,REP,Dennis Richardson,79
+Baker,Unity 26,Secretary of State,,REP,Dennis Richardson,49
+Baker,Baker 1,Secretary of State,,REP,Sid Leiken,61
+Baker,Baker 2,Secretary of State,,REP,Sid Leiken,37
+Baker,Baker 3,Secretary of State,,REP,Sid Leiken,50
+Baker,Baker 4,Secretary of State,,REP,Sid Leiken,56
+Baker,Baker 5,Secretary of State,,REP,Sid Leiken,61
+Baker,Baker County 13,Secretary of State,,REP,Sid Leiken,47
+Baker,Durkee 14,Secretary of State,,REP,Sid Leiken,4
+Baker,Eagle Valley 15,Secretary of State,,REP,Sid Leiken,32
+Baker,Haines 17,Secretary of State,,REP,Sid Leiken,32
+Baker,Hereford 18,Secretary of State,,REP,Sid Leiken,6
+Baker,Huntington 19,Secretary of State,,REP,Sid Leiken,10
+Baker,Irondyke 20,Secretary of State,,REP,Sid Leiken,4
+Baker,Keating 21,Secretary of State,,REP,Sid Leiken,4
+Baker,Pine Valley 22,Secretary of State,,REP,Sid Leiken,41
+Baker,Poca-Wing 24,Secretary of State,,REP,Sid Leiken,42
+Baker,Sumpter 25,Secretary of State,,REP,Sid Leiken,16
+Baker,Unity 26,Secretary of State,,REP,Sid Leiken,2
+Baker,Baker 1,Secretary of State,,REP,Write-in,1
+Baker,Baker 2,Secretary of State,,REP,Write-in,2
+Baker,Baker 3,Secretary of State,,REP,Write-in,4
+Baker,Baker 4,Secretary of State,,REP,Write-in,1
+Baker,Baker 5,Secretary of State,,REP,Write-in,3
+Baker,Baker County 13,Secretary of State,,REP,Write-in,1
+Baker,Durkee 14,Secretary of State,,REP,Write-in,0
+Baker,Eagle Valley 15,Secretary of State,,REP,Write-in,2
+Baker,Haines 17,Secretary of State,,REP,Write-in,1
+Baker,Hereford 18,Secretary of State,,REP,Write-in,0
+Baker,Huntington 19,Secretary of State,,REP,Write-in,1
+Baker,Irondyke 20,Secretary of State,,REP,Write-in,0
+Baker,Keating 21,Secretary of State,,REP,Write-in,0
+Baker,Pine Valley 22,Secretary of State,,REP,Write-in,5
+Baker,Poca-Wing 24,Secretary of State,,REP,Write-in,0
+Baker,Sumpter 25,Secretary of State,,REP,Write-in,0
+Baker,Unity 26,Secretary of State,,REP,Write-in,0
+Baker,Baker 1,Secretary of State,,REP,Over Votes,0
+Baker,Baker 2,Secretary of State,,REP,Over Votes,0
+Baker,Baker 3,Secretary of State,,REP,Over Votes,0
+Baker,Baker 4,Secretary of State,,REP,Over Votes,0
+Baker,Baker 5,Secretary of State,,REP,Over Votes,0
+Baker,Baker County 13,Secretary of State,,REP,Over Votes,0
+Baker,Durkee 14,Secretary of State,,REP,Over Votes,0
+Baker,Eagle Valley 15,Secretary of State,,REP,Over Votes,0
+Baker,Haines 17,Secretary of State,,REP,Over Votes,0
+Baker,Hereford 18,Secretary of State,,REP,Over Votes,0
+Baker,Huntington 19,Secretary of State,,REP,Over Votes,0
+Baker,Irondyke 20,Secretary of State,,REP,Over Votes,0
+Baker,Keating 21,Secretary of State,,REP,Over Votes,0
+Baker,Pine Valley 22,Secretary of State,,REP,Over Votes,0
+Baker,Poca-Wing 24,Secretary of State,,REP,Over Votes,0
+Baker,Sumpter 25,Secretary of State,,REP,Over Votes,0
+Baker,Unity 26,Secretary of State,,REP,Over Votes,0
+Baker,Baker 1,Secretary of State,,REP,Under Votes,66
+Baker,Baker 2,Secretary of State,,REP,Under Votes,49
+Baker,Baker 3,Secretary of State,,REP,Under Votes,53
+Baker,Baker 4,Secretary of State,,REP,Under Votes,73
+Baker,Baker 5,Secretary of State,,REP,Under Votes,86
+Baker,Baker County 13,Secretary of State,,REP,Under Votes,83
+Baker,Durkee 14,Secretary of State,,REP,Under Votes,10
+Baker,Eagle Valley 15,Secretary of State,,REP,Under Votes,35
+Baker,Haines 17,Secretary of State,,REP,Under Votes,54
+Baker,Hereford 18,Secretary of State,,REP,Under Votes,11
+Baker,Huntington 19,Secretary of State,,REP,Under Votes,10
+Baker,Irondyke 20,Secretary of State,,REP,Under Votes,3
+Baker,Keating 21,Secretary of State,,REP,Under Votes,13
+Baker,Pine Valley 22,Secretary of State,,REP,Under Votes,32
+Baker,Poca-Wing 24,Secretary of State,,REP,Under Votes,90
+Baker,Sumpter 25,Secretary of State,,REP,Under Votes,21
+Baker,Unity 26,Secretary of State,,REP,Under Votes,7
+Baker,Baker 1,State Treasurer,,REP,Jeff Gudman,238
+Baker,Baker 2,State Treasurer,,REP,Jeff Gudman,179
+Baker,Baker 3,State Treasurer,,REP,Jeff Gudman,226
+Baker,Baker 4,State Treasurer,,REP,Jeff Gudman,285
+Baker,Baker 5,State Treasurer,,REP,Jeff Gudman,316
+Baker,Baker County 13,State Treasurer,,REP,Jeff Gudman,233
+Baker,Durkee 14,State Treasurer,,REP,Jeff Gudman,28
+Baker,Eagle Valley 15,State Treasurer,,REP,Jeff Gudman,123
+Baker,Haines 17,State Treasurer,,REP,Jeff Gudman,182
+Baker,Hereford 18,State Treasurer,,REP,Jeff Gudman,25
+Baker,Huntington 19,State Treasurer,,REP,Jeff Gudman,39
+Baker,Irondyke 20,State Treasurer,,REP,Jeff Gudman,11
+Baker,Keating 21,State Treasurer,,REP,Jeff Gudman,61
+Baker,Pine Valley 22,State Treasurer,,REP,Jeff Gudman,106
+Baker,Poca-Wing 24,State Treasurer,,REP,Jeff Gudman,235
+Baker,Sumpter 25,State Treasurer,,REP,Jeff Gudman,76
+Baker,Unity 26,State Treasurer,,REP,Jeff Gudman,40
+Baker,Baker 1,State Treasurer,,REP,Write-in,0
+Baker,Baker 2,State Treasurer,,REP,Write-in,6
+Baker,Baker 3,State Treasurer,,REP,Write-in,2
+Baker,Baker 4,State Treasurer,,REP,Write-in,4
+Baker,Baker 5,State Treasurer,,REP,Write-in,4
+Baker,Baker County 13,State Treasurer,,REP,Write-in,1
+Baker,Durkee 14,State Treasurer,,REP,Write-in,2
+Baker,Eagle Valley 15,State Treasurer,,REP,Write-in,1
+Baker,Haines 17,State Treasurer,,REP,Write-in,1
+Baker,Hereford 18,State Treasurer,,REP,Write-in,0
+Baker,Huntington 19,State Treasurer,,REP,Write-in,1
+Baker,Irondyke 20,State Treasurer,,REP,Write-in,0
+Baker,Keating 21,State Treasurer,,REP,Write-in,0
+Baker,Pine Valley 22,State Treasurer,,REP,Write-in,7
+Baker,Poca-Wing 24,State Treasurer,,REP,Write-in,1
+Baker,Sumpter 25,State Treasurer,,REP,Write-in,1
+Baker,Unity 26,State Treasurer,,REP,Write-in,0
+Baker,Baker 1,State Treasurer,,REP,Over Votes,0
+Baker,Baker 2,State Treasurer,,REP,Over Votes,0
+Baker,Baker 3,State Treasurer,,REP,Over Votes,0
+Baker,Baker 4,State Treasurer,,REP,Over Votes,0
+Baker,Baker 5,State Treasurer,,REP,Over Votes,0
+Baker,Baker County 13,State Treasurer,,REP,Over Votes,0
+Baker,Durkee 14,State Treasurer,,REP,Over Votes,0
+Baker,Eagle Valley 15,State Treasurer,,REP,Over Votes,0
+Baker,Haines 17,State Treasurer,,REP,Over Votes,0
+Baker,Hereford 18,State Treasurer,,REP,Over Votes,0
+Baker,Huntington 19,State Treasurer,,REP,Over Votes,0
+Baker,Irondyke 20,State Treasurer,,REP,Over Votes,0
+Baker,Keating 21,State Treasurer,,REP,Over Votes,0
+Baker,Pine Valley 22,State Treasurer,,REP,Over Votes,0
+Baker,Poca-Wing 24,State Treasurer,,REP,Over Votes,0
+Baker,Sumpter 25,State Treasurer,,REP,Over Votes,0
+Baker,Unity 26,State Treasurer,,REP,Over Votes,0
+Baker,Baker 1,State Treasurer,,REP,Under Votes,119
+Baker,Baker 2,State Treasurer,,REP,Under Votes,100
+Baker,Baker 3,State Treasurer,,REP,Under Votes,101
+Baker,Baker 4,State Treasurer,,REP,Under Votes,143
+Baker,Baker 5,State Treasurer,,REP,Under Votes,157
+Baker,Baker County 13,State Treasurer,,REP,Under Votes,148
+Baker,Durkee 14,State Treasurer,,REP,Under Votes,19
+Baker,Eagle Valley 15,State Treasurer,,REP,Under Votes,63
+Baker,Haines 17,State Treasurer,,REP,Under Votes,104
+Baker,Hereford 18,State Treasurer,,REP,Under Votes,22
+Baker,Huntington 19,State Treasurer,,REP,Under Votes,15
+Baker,Irondyke 20,State Treasurer,,REP,Under Votes,6
+Baker,Keating 21,State Treasurer,,REP,Under Votes,22
+Baker,Pine Valley 22,State Treasurer,,REP,Under Votes,91
+Baker,Poca-Wing 24,State Treasurer,,REP,Under Votes,138
+Baker,Sumpter 25,State Treasurer,,REP,Under Votes,39
+Baker,Unity 26,State Treasurer,,REP,Under Votes,18
+Baker,Baker 1,Attorney General,,REP,Daniel Zene Crowe,220
+Baker,Baker 2,Attorney General,,REP,Daniel Zene Crowe,168
+Baker,Baker 3,Attorney General,,REP,Daniel Zene Crowe,210
+Baker,Baker 4,Attorney General,,REP,Daniel Zene Crowe,267
+Baker,Baker 5,Attorney General,,REP,Daniel Zene Crowe,289
+Baker,Baker County 13,Attorney General,,REP,Daniel Zene Crowe,210
+Baker,Durkee 14,Attorney General,,REP,Daniel Zene Crowe,28
+Baker,Eagle Valley 15,Attorney General,,REP,Daniel Zene Crowe,114
+Baker,Haines 17,Attorney General,,REP,Daniel Zene Crowe,171
+Baker,Hereford 18,Attorney General,,REP,Daniel Zene Crowe,20
+Baker,Huntington 19,Attorney General,,REP,Daniel Zene Crowe,38
+Baker,Irondyke 20,Attorney General,,REP,Daniel Zene Crowe,11
+Baker,Keating 21,Attorney General,,REP,Daniel Zene Crowe,49
+Baker,Pine Valley 22,Attorney General,,REP,Daniel Zene Crowe,87
+Baker,Poca-Wing 24,Attorney General,,REP,Daniel Zene Crowe,205
+Baker,Sumpter 25,Attorney General,,REP,Daniel Zene Crowe,74
+Baker,Unity 26,Attorney General,,REP,Daniel Zene Crowe,38
+Baker,Baker 1,Attorney General,,REP,Write-in,2
+Baker,Baker 2,Attorney General,,REP,Write-in,3
+Baker,Baker 3,Attorney General,,REP,Write-in,3
+Baker,Baker 4,Attorney General,,REP,Write-in,2
+Baker,Baker 5,Attorney General,,REP,Write-in,2
+Baker,Baker County 13,Attorney General,,REP,Write-in,0
+Baker,Durkee 14,Attorney General,,REP,Write-in,0
+Baker,Eagle Valley 15,Attorney General,,REP,Write-in,3
+Baker,Haines 17,Attorney General,,REP,Write-in,0
+Baker,Hereford 18,Attorney General,,REP,Write-in,0
+Baker,Huntington 19,Attorney General,,REP,Write-in,1
+Baker,Irondyke 20,Attorney General,,REP,Write-in,0
+Baker,Keating 21,Attorney General,,REP,Write-in,0
+Baker,Pine Valley 22,Attorney General,,REP,Write-in,7
+Baker,Poca-Wing 24,Attorney General,,REP,Write-in,0
+Baker,Sumpter 25,Attorney General,,REP,Write-in,0
+Baker,Unity 26,Attorney General,,REP,Write-in,0
+Baker,Baker 1,Attorney General,,REP,Over Votes,0
+Baker,Baker 2,Attorney General,,REP,Over Votes,0
+Baker,Baker 3,Attorney General,,REP,Over Votes,0
+Baker,Baker 4,Attorney General,,REP,Over Votes,0
+Baker,Baker 5,Attorney General,,REP,Over Votes,0
+Baker,Baker County 13,Attorney General,,REP,Over Votes,0
+Baker,Durkee 14,Attorney General,,REP,Over Votes,0
+Baker,Eagle Valley 15,Attorney General,,REP,Over Votes,0
+Baker,Haines 17,Attorney General,,REP,Over Votes,0
+Baker,Hereford 18,Attorney General,,REP,Over Votes,0
+Baker,Huntington 19,Attorney General,,REP,Over Votes,0
+Baker,Irondyke 20,Attorney General,,REP,Over Votes,0
+Baker,Keating 21,Attorney General,,REP,Over Votes,0
+Baker,Pine Valley 22,Attorney General,,REP,Over Votes,0
+Baker,Poca-Wing 24,Attorney General,,REP,Over Votes,0
+Baker,Sumpter 25,Attorney General,,REP,Over Votes,0
+Baker,Unity 26,Attorney General,,REP,Over Votes,0
+Baker,Baker 1,Attorney General,,REP,Under Votes,135
+Baker,Baker 2,Attorney General,,REP,Under Votes,114
+Baker,Baker 3,Attorney General,,REP,Under Votes,116
+Baker,Baker 4,Attorney General,,REP,Under Votes,163
+Baker,Baker 5,Attorney General,,REP,Under Votes,186
+Baker,Baker County 13,Attorney General,,REP,Under Votes,172
+Baker,Durkee 14,Attorney General,,REP,Under Votes,21
+Baker,Eagle Valley 15,Attorney General,,REP,Under Votes,70
+Baker,Haines 17,Attorney General,,REP,Under Votes,116
+Baker,Hereford 18,Attorney General,,REP,Under Votes,27
+Baker,Huntington 19,Attorney General,,REP,Under Votes,16
+Baker,Irondyke 20,Attorney General,,REP,Under Votes,6
+Baker,Keating 21,Attorney General,,REP,Under Votes,34
+Baker,Pine Valley 22,Attorney General,,REP,Under Votes,110
+Baker,Poca-Wing 24,Attorney General,,REP,Under Votes,169
+Baker,Sumpter 25,Attorney General,,REP,Under Votes,42
+Baker,Unity 26,Attorney General,,REP,Under Votes,20
+Baker,Baker 1,State Senate,30,REP,Ted Ferrioli,280
+Baker,Baker 2,State Senate,30,REP,Ted Ferrioli,215
+Baker,Baker 3,State Senate,30,REP,Ted Ferrioli,248
+Baker,Baker 4,State Senate,30,REP,Ted Ferrioli,327
+Baker,Baker 5,State Senate,30,REP,Ted Ferrioli,356
+Baker,Baker County 13,State Senate,30,REP,Ted Ferrioli,292
+Baker,Durkee 14,State Senate,30,REP,Ted Ferrioli,41
+Baker,Eagle Valley 15,State Senate,30,REP,Ted Ferrioli,145
+Baker,Haines 17,State Senate,30,REP,Ted Ferrioli,219
+Baker,Hereford 18,State Senate,30,REP,Ted Ferrioli,36
+Baker,Huntington 19,State Senate,30,REP,Ted Ferrioli,39
+Baker,Irondyke 20,State Senate,30,REP,Ted Ferrioli,12
+Baker,Keating 21,State Senate,30,REP,Ted Ferrioli,68
+Baker,Pine Valley 22,State Senate,30,REP,Ted Ferrioli,118
+Baker,Poca-Wing 24,State Senate,30,REP,Ted Ferrioli,284
+Baker,Sumpter 25,State Senate,30,REP,Ted Ferrioli,83
+Baker,Unity 26,State Senate,30,REP,Ted Ferrioli,51
+Baker,Baker 1,State Senate,30,REP,Write-in,3
+Baker,Baker 2,State Senate,30,REP,Write-in,4
+Baker,Baker 3,State Senate,30,REP,Write-in,5
+Baker,Baker 4,State Senate,30,REP,Write-in,2
+Baker,Baker 5,State Senate,30,REP,Write-in,0
+Baker,Baker County 13,State Senate,30,REP,Write-in,3
+Baker,Durkee 14,State Senate,30,REP,Write-in,0
+Baker,Eagle Valley 15,State Senate,30,REP,Write-in,3
+Baker,Haines 17,State Senate,30,REP,Write-in,3
+Baker,Hereford 18,State Senate,30,REP,Write-in,0
+Baker,Huntington 19,State Senate,30,REP,Write-in,3
+Baker,Irondyke 20,State Senate,30,REP,Write-in,0
+Baker,Keating 21,State Senate,30,REP,Write-in,1
+Baker,Pine Valley 22,State Senate,30,REP,Write-in,4
+Baker,Poca-Wing 24,State Senate,30,REP,Write-in,2
+Baker,Sumpter 25,State Senate,30,REP,Write-in,2
+Baker,Unity 26,State Senate,30,REP,Write-in,0
+Baker,Baker 1,State Senate,30,REP,Over Votes,0
+Baker,Baker 2,State Senate,30,REP,Over Votes,0
+Baker,Baker 3,State Senate,30,REP,Over Votes,0
+Baker,Baker 4,State Senate,30,REP,Over Votes,0
+Baker,Baker 5,State Senate,30,REP,Over Votes,0
+Baker,Baker County 13,State Senate,30,REP,Over Votes,0
+Baker,Durkee 14,State Senate,30,REP,Over Votes,0
+Baker,Eagle Valley 15,State Senate,30,REP,Over Votes,0
+Baker,Haines 17,State Senate,30,REP,Over Votes,0
+Baker,Hereford 18,State Senate,30,REP,Over Votes,0
+Baker,Huntington 19,State Senate,30,REP,Over Votes,0
+Baker,Irondyke 20,State Senate,30,REP,Over Votes,0
+Baker,Keating 21,State Senate,30,REP,Over Votes,0
+Baker,Pine Valley 22,State Senate,30,REP,Over Votes,0
+Baker,Poca-Wing 24,State Senate,30,REP,Over Votes,0
+Baker,Sumpter 25,State Senate,30,REP,Over Votes,0
+Baker,Unity 26,State Senate,30,REP,Over Votes,0
+Baker,Baker 1,State Senate,30,REP,Under Votes,74
+Baker,Baker 2,State Senate,30,REP,Under Votes,66
+Baker,Baker 3,State Senate,30,REP,Under Votes,76
+Baker,Baker 4,State Senate,30,REP,Under Votes,103
+Baker,Baker 5,State Senate,30,REP,Under Votes,121
+Baker,Baker County 13,State Senate,30,REP,Under Votes,87
+Baker,Durkee 14,State Senate,30,REP,Under Votes,8
+Baker,Eagle Valley 15,State Senate,30,REP,Under Votes,39
+Baker,Haines 17,State Senate,30,REP,Under Votes,65
+Baker,Hereford 18,State Senate,30,REP,Under Votes,11
+Baker,Huntington 19,State Senate,30,REP,Under Votes,13
+Baker,Irondyke 20,State Senate,30,REP,Under Votes,5
+Baker,Keating 21,State Senate,30,REP,Under Votes,14
+Baker,Pine Valley 22,State Senate,30,REP,Under Votes,82
+Baker,Poca-Wing 24,State Senate,30,REP,Under Votes,88
+Baker,Sumpter 25,State Senate,30,REP,Under Votes,31
+Baker,Unity 26,State Senate,30,REP,Under Votes,7
+Baker,Baker 1,State House,60,REP,Cliff Bentz,278
+Baker,Baker 2,State House,60,REP,Cliff Bentz,220
+Baker,Baker 3,State House,60,REP,Cliff Bentz,261
+Baker,Baker 4,State House,60,REP,Cliff Bentz,342
+Baker,Baker 5,State House,60,REP,Cliff Bentz,362
+Baker,Baker County 13,State House,60,REP,Cliff Bentz,298
+Baker,Durkee 14,State House,60,REP,Cliff Bentz,42
+Baker,Eagle Valley 15,State House,60,REP,Cliff Bentz,153
+Baker,Haines 17,State House,60,REP,Cliff Bentz,225
+Baker,Hereford 18,State House,60,REP,Cliff Bentz,34
+Baker,Huntington 19,State House,60,REP,Cliff Bentz,40
+Baker,Irondyke 20,State House,60,REP,Cliff Bentz,12
+Baker,Keating 21,State House,60,REP,Cliff Bentz,69
+Baker,Pine Valley 22,State House,60,REP,Cliff Bentz,124
+Baker,Poca-Wing 24,State House,60,REP,Cliff Bentz,292
+Baker,Sumpter 25,State House,60,REP,Cliff Bentz,89
+Baker,Unity 26,State House,60,REP,Cliff Bentz,51
+Baker,Baker 1,State House,60,REP,Write-in,3
+Baker,Baker 2,State House,60,REP,Write-in,1
+Baker,Baker 3,State House,60,REP,Write-in,1
+Baker,Baker 4,State House,60,REP,Write-in,3
+Baker,Baker 5,State House,60,REP,Write-in,0
+Baker,Baker County 13,State House,60,REP,Write-in,4
+Baker,Durkee 14,State House,60,REP,Write-in,1
+Baker,Eagle Valley 15,State House,60,REP,Write-in,2
+Baker,Haines 17,State House,60,REP,Write-in,1
+Baker,Hereford 18,State House,60,REP,Write-in,0
+Baker,Huntington 19,State House,60,REP,Write-in,2
+Baker,Irondyke 20,State House,60,REP,Write-in,0
+Baker,Keating 21,State House,60,REP,Write-in,1
+Baker,Pine Valley 22,State House,60,REP,Write-in,7
+Baker,Poca-Wing 24,State House,60,REP,Write-in,2
+Baker,Sumpter 25,State House,60,REP,Write-in,1
+Baker,Unity 26,State House,60,REP,Write-in,0
+Baker,Baker 1,State House,60,REP,Over Votes,0
+Baker,Baker 2,State House,60,REP,Over Votes,0
+Baker,Baker 3,State House,60,REP,Over Votes,0
+Baker,Baker 4,State House,60,REP,Over Votes,0
+Baker,Baker 5,State House,60,REP,Over Votes,0
+Baker,Baker County 13,State House,60,REP,Over Votes,1
+Baker,Durkee 14,State House,60,REP,Over Votes,0
+Baker,Eagle Valley 15,State House,60,REP,Over Votes,0
+Baker,Haines 17,State House,60,REP,Over Votes,0
+Baker,Hereford 18,State House,60,REP,Over Votes,0
+Baker,Huntington 19,State House,60,REP,Over Votes,0
+Baker,Irondyke 20,State House,60,REP,Over Votes,0
+Baker,Keating 21,State House,60,REP,Over Votes,0
+Baker,Pine Valley 22,State House,60,REP,Over Votes,0
+Baker,Poca-Wing 24,State House,60,REP,Over Votes,0
+Baker,Sumpter 25,State House,60,REP,Over Votes,0
+Baker,Unity 26,State House,60,REP,Over Votes,0
+Baker,Baker 1,State House,60,REP,Under Votes,76
+Baker,Baker 2,State House,60,REP,Under Votes,64
+Baker,Baker 3,State House,60,REP,Under Votes,67
+Baker,Baker 4,State House,60,REP,Under Votes,87
+Baker,Baker 5,State House,60,REP,Under Votes,115
+Baker,Baker County 13,State House,60,REP,Under Votes,79
+Baker,Durkee 14,State House,60,REP,Under Votes,6
+Baker,Eagle Valley 15,State House,60,REP,Under Votes,32
+Baker,Haines 17,State House,60,REP,Under Votes,61
+Baker,Hereford 18,State House,60,REP,Under Votes,13
+Baker,Huntington 19,State House,60,REP,Under Votes,13
+Baker,Irondyke 20,State House,60,REP,Under Votes,5
+Baker,Keating 21,State House,60,REP,Under Votes,13
+Baker,Pine Valley 22,State House,60,REP,Under Votes,73
+Baker,Poca-Wing 24,State House,60,REP,Under Votes,80
+Baker,Sumpter 25,State House,60,REP,Under Votes,26
+Baker,Unity 26,State House,60,REP,Under Votes,7
+Baker,Baker 1,President,,DEM,Hillary Clinton,63
+Baker,Baker 2,President,,DEM,Hillary Clinton,58
+Baker,Baker 3,President,,DEM,Hillary Clinton,45
+Baker,Baker 4,President,,DEM,Hillary Clinton,68
+Baker,Baker 5,President,,DEM,Hillary Clinton,56
+Baker,Baker County 13,President,,DEM,Hillary Clinton,20
+Baker,Durkee 14,President,,DEM,Hillary Clinton,0
+Baker,Eagle Valley 15,President,,DEM,Hillary Clinton,26
+Baker,Haines 17,President,,DEM,Hillary Clinton,22
+Baker,Hereford 18,President,,DEM,Hillary Clinton,2
+Baker,Huntington 19,President,,DEM,Hillary Clinton,22
+Baker,Irondyke 20,President,,DEM,Hillary Clinton,6
+Baker,Keating 21,President,,DEM,Hillary Clinton,2
+Baker,Pine Valley 22,President,,DEM,Hillary Clinton,42
+Baker,Poca-Wing 24,President,,DEM,Hillary Clinton,46
+Baker,Sumpter 25,President,,DEM,Hillary Clinton,15
+Baker,Unity 26,President,,DEM,Hillary Clinton,1
+Baker,Baker 1,President,,DEM,Bernie Sanders,102
+Baker,Baker 2,President,,DEM,Bernie Sanders,74
+Baker,Baker 3,President,,DEM,Bernie Sanders,92
+Baker,Baker 4,President,,DEM,Bernie Sanders,93
+Baker,Baker 5,President,,DEM,Bernie Sanders,118
+Baker,Baker County 13,President,,DEM,Bernie Sanders,37
+Baker,Durkee 14,President,,DEM,Bernie Sanders,2
+Baker,Eagle Valley 15,President,,DEM,Bernie Sanders,33
+Baker,Haines 17,President,,DEM,Bernie Sanders,28
+Baker,Hereford 18,President,,DEM,Bernie Sanders,1
+Baker,Huntington 19,President,,DEM,Bernie Sanders,13
+Baker,Irondyke 20,President,,DEM,Bernie Sanders,3
+Baker,Keating 21,President,,DEM,Bernie Sanders,15
+Baker,Pine Valley 22,President,,DEM,Bernie Sanders,70
+Baker,Poca-Wing 24,President,,DEM,Bernie Sanders,50
+Baker,Sumpter 25,President,,DEM,Bernie Sanders,15
+Baker,Unity 26,President,,DEM,Bernie Sanders,2
+Baker,Baker 1,President,,DEM,Write-in,8
+Baker,Baker 2,President,,DEM,Write-in,9
+Baker,Baker 3,President,,DEM,Write-in,8
+Baker,Baker 4,President,,DEM,Write-in,14
+Baker,Baker 5,President,,DEM,Write-in,10
+Baker,Baker County 13,President,,DEM,Write-in,5
+Baker,Durkee 14,President,,DEM,Write-in,0
+Baker,Eagle Valley 15,President,,DEM,Write-in,7
+Baker,Haines 17,President,,DEM,Write-in,3
+Baker,Hereford 18,President,,DEM,Write-in,0
+Baker,Huntington 19,President,,DEM,Write-in,2
+Baker,Irondyke 20,President,,DEM,Write-in,2
+Baker,Keating 21,President,,DEM,Write-in,1
+Baker,Pine Valley 22,President,,DEM,Write-in,6
+Baker,Poca-Wing 24,President,,DEM,Write-in,1
+Baker,Sumpter 25,President,,DEM,Write-in,3
+Baker,Unity 26,President,,DEM,Write-in,1
+Baker,Baker 1,President,,DEM,Over Votes,0
+Baker,Baker 2,President,,DEM,Over Votes,0
+Baker,Baker 3,President,,DEM,Over Votes,0
+Baker,Baker 4,President,,DEM,Over Votes,0
+Baker,Baker 5,President,,DEM,Over Votes,0
+Baker,Baker County 13,President,,DEM,Over Votes,0
+Baker,Durkee 14,President,,DEM,Over Votes,0
+Baker,Eagle Valley 15,President,,DEM,Over Votes,0
+Baker,Haines 17,President,,DEM,Over Votes,0
+Baker,Hereford 18,President,,DEM,Over Votes,0
+Baker,Huntington 19,President,,DEM,Over Votes,0
+Baker,Irondyke 20,President,,DEM,Over Votes,0
+Baker,Keating 21,President,,DEM,Over Votes,0
+Baker,Pine Valley 22,President,,DEM,Over Votes,0
+Baker,Poca-Wing 24,President,,DEM,Over Votes,0
+Baker,Sumpter 25,President,,DEM,Over Votes,0
+Baker,Unity 26,President,,DEM,Over Votes,0
+Baker,Baker 1,President,,DEM,Under Votes,6
+Baker,Baker 2,President,,DEM,Under Votes,14
+Baker,Baker 3,President,,DEM,Under Votes,7
+Baker,Baker 4,President,,DEM,Under Votes,7
+Baker,Baker 5,President,,DEM,Under Votes,11
+Baker,Baker County 13,President,,DEM,Under Votes,8
+Baker,Durkee 14,President,,DEM,Under Votes,3
+Baker,Eagle Valley 15,President,,DEM,Under Votes,6
+Baker,Haines 17,President,,DEM,Under Votes,3
+Baker,Hereford 18,President,,DEM,Under Votes,0
+Baker,Huntington 19,President,,DEM,Under Votes,3
+Baker,Irondyke 20,President,,DEM,Under Votes,0
+Baker,Keating 21,President,,DEM,Under Votes,1
+Baker,Pine Valley 22,President,,DEM,Under Votes,8
+Baker,Poca-Wing 24,President,,DEM,Under Votes,6
+Baker,Sumpter 25,President,,DEM,Under Votes,6
+Baker,Unity 26,President,,DEM,Under Votes,1
+Baker,Baker 1,U.S. Senate,,DEM,Ron Wyden,141
+Baker,Baker 2,U.S. Senate,,DEM,Ron Wyden,115
+Baker,Baker 3,U.S. Senate,,DEM,Ron Wyden,97
+Baker,Baker 4,U.S. Senate,,DEM,Ron Wyden,133
+Baker,Baker 5,U.S. Senate,,DEM,Ron Wyden,138
+Baker,Baker County 13,U.S. Senate,,DEM,Ron Wyden,44
+Baker,Durkee 14,U.S. Senate,,DEM,Ron Wyden,3
+Baker,Eagle Valley 15,U.S. Senate,,DEM,Ron Wyden,49
+Baker,Haines 17,U.S. Senate,,DEM,Ron Wyden,46
+Baker,Hereford 18,U.S. Senate,,DEM,Ron Wyden,3
+Baker,Huntington 19,U.S. Senate,,DEM,Ron Wyden,31
+Baker,Irondyke 20,U.S. Senate,,DEM,Ron Wyden,7
+Baker,Keating 21,U.S. Senate,,DEM,Ron Wyden,10
+Baker,Pine Valley 22,U.S. Senate,,DEM,Ron Wyden,101
+Baker,Poca-Wing 24,U.S. Senate,,DEM,Ron Wyden,81
+Baker,Sumpter 25,U.S. Senate,,DEM,Ron Wyden,24
+Baker,Unity 26,U.S. Senate,,DEM,Ron Wyden,2
+Baker,Baker 1,U.S. Senate,,DEM,Paul B Weaver,7
+Baker,Baker 2,U.S. Senate,,DEM,Paul B Weaver,7
+Baker,Baker 3,U.S. Senate,,DEM,Paul B Weaver,10
+Baker,Baker 4,U.S. Senate,,DEM,Paul B Weaver,12
+Baker,Baker 5,U.S. Senate,,DEM,Paul B Weaver,7
+Baker,Baker County 13,U.S. Senate,,DEM,Paul B Weaver,6
+Baker,Durkee 14,U.S. Senate,,DEM,Paul B Weaver,0
+Baker,Eagle Valley 15,U.S. Senate,,DEM,Paul B Weaver,8
+Baker,Haines 17,U.S. Senate,,DEM,Paul B Weaver,6
+Baker,Hereford 18,U.S. Senate,,DEM,Paul B Weaver,0
+Baker,Huntington 19,U.S. Senate,,DEM,Paul B Weaver,3
+Baker,Irondyke 20,U.S. Senate,,DEM,Paul B Weaver,0
+Baker,Keating 21,U.S. Senate,,DEM,Paul B Weaver,2
+Baker,Pine Valley 22,U.S. Senate,,DEM,Paul B Weaver,2
+Baker,Poca-Wing 24,U.S. Senate,,DEM,Paul B Weaver,5
+Baker,Sumpter 25,U.S. Senate,,DEM,Paul B Weaver,4
+Baker,Unity 26,U.S. Senate,,DEM,Paul B Weaver,0
+Baker,Baker 1,U.S. Senate,,DEM,Kevin H Stine,20
+Baker,Baker 2,U.S. Senate,,DEM,Kevin H Stine,20
+Baker,Baker 3,U.S. Senate,,DEM,Kevin H Stine,29
+Baker,Baker 4,U.S. Senate,,DEM,Kevin H Stine,22
+Baker,Baker 5,U.S. Senate,,DEM,Kevin H Stine,36
+Baker,Baker County 13,U.S. Senate,,DEM,Kevin H Stine,10
+Baker,Durkee 14,U.S. Senate,,DEM,Kevin H Stine,1
+Baker,Eagle Valley 15,U.S. Senate,,DEM,Kevin H Stine,14
+Baker,Haines 17,U.S. Senate,,DEM,Kevin H Stine,2
+Baker,Hereford 18,U.S. Senate,,DEM,Kevin H Stine,0
+Baker,Huntington 19,U.S. Senate,,DEM,Kevin H Stine,5
+Baker,Irondyke 20,U.S. Senate,,DEM,Kevin H Stine,2
+Baker,Keating 21,U.S. Senate,,DEM,Kevin H Stine,4
+Baker,Pine Valley 22,U.S. Senate,,DEM,Kevin H Stine,7
+Baker,Poca-Wing 24,U.S. Senate,,DEM,Kevin H Stine,7
+Baker,Sumpter 25,U.S. Senate,,DEM,Kevin H Stine,5
+Baker,Unity 26,U.S. Senate,,DEM,Kevin H Stine,1
+Baker,Baker 1,U.S. Senate,,DEM,Write-in,0
+Baker,Baker 2,U.S. Senate,,DEM,Write-in,2
+Baker,Baker 3,U.S. Senate,,DEM,Write-in,2
+Baker,Baker 4,U.S. Senate,,DEM,Write-in,4
+Baker,Baker 5,U.S. Senate,,DEM,Write-in,5
+Baker,Baker County 13,U.S. Senate,,DEM,Write-in,1
+Baker,Durkee 14,U.S. Senate,,DEM,Write-in,0
+Baker,Eagle Valley 15,U.S. Senate,,DEM,Write-in,0
+Baker,Haines 17,U.S. Senate,,DEM,Write-in,0
+Baker,Hereford 18,U.S. Senate,,DEM,Write-in,0
+Baker,Huntington 19,U.S. Senate,,DEM,Write-in,0
+Baker,Irondyke 20,U.S. Senate,,DEM,Write-in,0
+Baker,Keating 21,U.S. Senate,,DEM,Write-in,1
+Baker,Pine Valley 22,U.S. Senate,,DEM,Write-in,1
+Baker,Poca-Wing 24,U.S. Senate,,DEM,Write-in,1
+Baker,Sumpter 25,U.S. Senate,,DEM,Write-in,0
+Baker,Unity 26,U.S. Senate,,DEM,Write-in,1
+Baker,Baker 1,U.S. Senate,,DEM,Over Votes,0
+Baker,Baker 2,U.S. Senate,,DEM,Over Votes,0
+Baker,Baker 3,U.S. Senate,,DEM,Over Votes,0
+Baker,Baker 4,U.S. Senate,,DEM,Over Votes,0
+Baker,Baker 5,U.S. Senate,,DEM,Over Votes,0
+Baker,Baker County 13,U.S. Senate,,DEM,Over Votes,0
+Baker,Durkee 14,U.S. Senate,,DEM,Over Votes,0
+Baker,Eagle Valley 15,U.S. Senate,,DEM,Over Votes,0
+Baker,Haines 17,U.S. Senate,,DEM,Over Votes,0
+Baker,Hereford 18,U.S. Senate,,DEM,Over Votes,0
+Baker,Huntington 19,U.S. Senate,,DEM,Over Votes,0
+Baker,Irondyke 20,U.S. Senate,,DEM,Over Votes,0
+Baker,Keating 21,U.S. Senate,,DEM,Over Votes,0
+Baker,Pine Valley 22,U.S. Senate,,DEM,Over Votes,0
+Baker,Poca-Wing 24,U.S. Senate,,DEM,Over Votes,0
+Baker,Sumpter 25,U.S. Senate,,DEM,Over Votes,0
+Baker,Unity 26,U.S. Senate,,DEM,Over Votes,0
+Baker,Baker 1,U.S. Senate,,DEM,Under Votes,11
+Baker,Baker 2,U.S. Senate,,DEM,Under Votes,11
+Baker,Baker 3,U.S. Senate,,DEM,Under Votes,14
+Baker,Baker 4,U.S. Senate,,DEM,Under Votes,11
+Baker,Baker 5,U.S. Senate,,DEM,Under Votes,9
+Baker,Baker County 13,U.S. Senate,,DEM,Under Votes,9
+Baker,Durkee 14,U.S. Senate,,DEM,Under Votes,1
+Baker,Eagle Valley 15,U.S. Senate,,DEM,Under Votes,1
+Baker,Haines 17,U.S. Senate,,DEM,Under Votes,2
+Baker,Hereford 18,U.S. Senate,,DEM,Under Votes,0
+Baker,Huntington 19,U.S. Senate,,DEM,Under Votes,1
+Baker,Irondyke 20,U.S. Senate,,DEM,Under Votes,2
+Baker,Keating 21,U.S. Senate,,DEM,Under Votes,2
+Baker,Pine Valley 22,U.S. Senate,,DEM,Under Votes,15
+Baker,Poca-Wing 24,U.S. Senate,,DEM,Under Votes,9
+Baker,Sumpter 25,U.S. Senate,,DEM,Under Votes,6
+Baker,Unity 26,U.S. Senate,,DEM,Under Votes,1
+Baker,Baker 1,U.S. House,2,DEM,James (Jim) Crary,116
+Baker,Baker 2,U.S. House,2,DEM,James (Jim) Crary,96
+Baker,Baker 3,U.S. House,2,DEM,James (Jim) Crary,105
+Baker,Baker 4,U.S. House,2,DEM,James (Jim) Crary,115
+Baker,Baker 5,U.S. House,2,DEM,James (Jim) Crary,107
+Baker,Baker County 13,U.S. House,2,DEM,James (Jim) Crary,33
+Baker,Durkee 14,U.S. House,2,DEM,James (Jim) Crary,2
+Baker,Eagle Valley 15,U.S. House,2,DEM,James (Jim) Crary,48
+Baker,Haines 17,U.S. House,2,DEM,James (Jim) Crary,34
+Baker,Hereford 18,U.S. House,2,DEM,James (Jim) Crary,3
+Baker,Huntington 19,U.S. House,2,DEM,James (Jim) Crary,29
+Baker,Irondyke 20,U.S. House,2,DEM,James (Jim) Crary,6
+Baker,Keating 21,U.S. House,2,DEM,James (Jim) Crary,11
+Baker,Pine Valley 22,U.S. House,2,DEM,James (Jim) Crary,69
+Baker,Poca-Wing 24,U.S. House,2,DEM,James (Jim) Crary,63
+Baker,Sumpter 25,U.S. House,2,DEM,James (Jim) Crary,26
+Baker,Unity 26,U.S. House,2,DEM,James (Jim) Crary,2
+Baker,Baker 1,U.S. House,2,DEM,Write-in,1
+Baker,Baker 2,U.S. House,2,DEM,Write-in,0
+Baker,Baker 3,U.S. House,2,DEM,Write-in,3
+Baker,Baker 4,U.S. House,2,DEM,Write-in,4
+Baker,Baker 5,U.S. House,2,DEM,Write-in,8
+Baker,Baker County 13,U.S. House,2,DEM,Write-in,4
+Baker,Durkee 14,U.S. House,2,DEM,Write-in,1
+Baker,Eagle Valley 15,U.S. House,2,DEM,Write-in,0
+Baker,Haines 17,U.S. House,2,DEM,Write-in,1
+Baker,Hereford 18,U.S. House,2,DEM,Write-in,0
+Baker,Huntington 19,U.S. House,2,DEM,Write-in,0
+Baker,Irondyke 20,U.S. House,2,DEM,Write-in,0
+Baker,Keating 21,U.S. House,2,DEM,Write-in,1
+Baker,Pine Valley 22,U.S. House,2,DEM,Write-in,1
+Baker,Poca-Wing 24,U.S. House,2,DEM,Write-in,1
+Baker,Sumpter 25,U.S. House,2,DEM,Write-in,0
+Baker,Unity 26,U.S. House,2,DEM,Write-in,2
+Baker,Baker 1,U.S. House,2,DEM,Over Votes,0
+Baker,Baker 2,U.S. House,2,DEM,Over Votes,0
+Baker,Baker 3,U.S. House,2,DEM,Over Votes,0
+Baker,Baker 4,U.S. House,2,DEM,Over Votes,0
+Baker,Baker 5,U.S. House,2,DEM,Over Votes,0
+Baker,Baker County 13,U.S. House,2,DEM,Over Votes,0
+Baker,Durkee 14,U.S. House,2,DEM,Over Votes,0
+Baker,Eagle Valley 15,U.S. House,2,DEM,Over Votes,0
+Baker,Haines 17,U.S. House,2,DEM,Over Votes,0
+Baker,Hereford 18,U.S. House,2,DEM,Over Votes,0
+Baker,Huntington 19,U.S. House,2,DEM,Over Votes,0
+Baker,Irondyke 20,U.S. House,2,DEM,Over Votes,0
+Baker,Keating 21,U.S. House,2,DEM,Over Votes,0
+Baker,Pine Valley 22,U.S. House,2,DEM,Over Votes,0
+Baker,Poca-Wing 24,U.S. House,2,DEM,Over Votes,0
+Baker,Sumpter 25,U.S. House,2,DEM,Over Votes,0
+Baker,Unity 26,U.S. House,2,DEM,Over Votes,0
+Baker,Baker 1,U.S. House,2,DEM,Under Votes,62
+Baker,Baker 2,U.S. House,2,DEM,Under Votes,59
+Baker,Baker 3,U.S. House,2,DEM,Under Votes,44
+Baker,Baker 4,U.S. House,2,DEM,Under Votes,63
+Baker,Baker 5,U.S. House,2,DEM,Under Votes,80
+Baker,Baker County 13,U.S. House,2,DEM,Under Votes,33
+Baker,Durkee 14,U.S. House,2,DEM,Under Votes,2
+Baker,Eagle Valley 15,U.S. House,2,DEM,Under Votes,24
+Baker,Haines 17,U.S. House,2,DEM,Under Votes,21
+Baker,Hereford 18,U.S. House,2,DEM,Under Votes,0
+Baker,Huntington 19,U.S. House,2,DEM,Under Votes,11
+Baker,Irondyke 20,U.S. House,2,DEM,Under Votes,5
+Baker,Keating 21,U.S. House,2,DEM,Under Votes,7
+Baker,Pine Valley 22,U.S. House,2,DEM,Under Votes,56
+Baker,Poca-Wing 24,U.S. House,2,DEM,Under Votes,39
+Baker,Sumpter 25,U.S. House,2,DEM,Under Votes,13
+Baker,Unity 26,U.S. House,2,DEM,Under Votes,1
+Baker,Baker 1,Governor,,DEM,Kate Brown,118
+Baker,Baker 2,Governor,,DEM,Kate Brown,100
+Baker,Baker 3,Governor,,DEM,Kate Brown,102
+Baker,Baker 4,Governor,,DEM,Kate Brown,116
+Baker,Baker 5,Governor,,DEM,Kate Brown,114
+Baker,Baker County 13,Governor,,DEM,Kate Brown,37
+Baker,Durkee 14,Governor,,DEM,Kate Brown,2
+Baker,Eagle Valley 15,Governor,,DEM,Kate Brown,39
+Baker,Haines 17,Governor,,DEM,Kate Brown,36
+Baker,Hereford 18,Governor,,DEM,Kate Brown,3
+Baker,Huntington 19,Governor,,DEM,Kate Brown,30
+Baker,Irondyke 20,Governor,,DEM,Kate Brown,8
+Baker,Keating 21,Governor,,DEM,Kate Brown,9
+Baker,Pine Valley 22,Governor,,DEM,Kate Brown,83
+Baker,Poca-Wing 24,Governor,,DEM,Kate Brown,67
+Baker,Sumpter 25,Governor,,DEM,Kate Brown,18
+Baker,Unity 26,Governor,,DEM,Kate Brown,3
+Baker,Baker 1,Governor,,DEM,Julian Bell,13
+Baker,Baker 2,Governor,,DEM,Julian Bell,10
+Baker,Baker 3,Governor,,DEM,Julian Bell,9
+Baker,Baker 4,Governor,,DEM,Julian Bell,10
+Baker,Baker 5,Governor,,DEM,Julian Bell,16
+Baker,Baker County 13,Governor,,DEM,Julian Bell,9
+Baker,Durkee 14,Governor,,DEM,Julian Bell,0
+Baker,Eagle Valley 15,Governor,,DEM,Julian Bell,2
+Baker,Haines 17,Governor,,DEM,Julian Bell,1
+Baker,Hereford 18,Governor,,DEM,Julian Bell,0
+Baker,Huntington 19,Governor,,DEM,Julian Bell,1
+Baker,Irondyke 20,Governor,,DEM,Julian Bell,0
+Baker,Keating 21,Governor,,DEM,Julian Bell,2
+Baker,Pine Valley 22,Governor,,DEM,Julian Bell,9
+Baker,Poca-Wing 24,Governor,,DEM,Julian Bell,1
+Baker,Sumpter 25,Governor,,DEM,Julian Bell,5
+Baker,Unity 26,Governor,,DEM,Julian Bell,0
+Baker,Baker 1,Governor,,DEM,Chet Chance,4
+Baker,Baker 2,Governor,,DEM,Chet Chance,4
+Baker,Baker 3,Governor,,DEM,Chet Chance,1
+Baker,Baker 4,Governor,,DEM,Chet Chance,2
+Baker,Baker 5,Governor,,DEM,Chet Chance,4
+Baker,Baker County 13,Governor,,DEM,Chet Chance,0
+Baker,Durkee 14,Governor,,DEM,Chet Chance,1
+Baker,Eagle Valley 15,Governor,,DEM,Chet Chance,2
+Baker,Haines 17,Governor,,DEM,Chet Chance,1
+Baker,Hereford 18,Governor,,DEM,Chet Chance,0
+Baker,Huntington 19,Governor,,DEM,Chet Chance,0
+Baker,Irondyke 20,Governor,,DEM,Chet Chance,0
+Baker,Keating 21,Governor,,DEM,Chet Chance,1
+Baker,Pine Valley 22,Governor,,DEM,Chet Chance,5
+Baker,Poca-Wing 24,Governor,,DEM,Chet Chance,1
+Baker,Sumpter 25,Governor,,DEM,Chet Chance,0
+Baker,Unity 26,Governor,,DEM,Chet Chance,0
+Baker,Baker 1,Governor,,DEM,Kevin M Forsythe,10
+Baker,Baker 2,Governor,,DEM,Kevin M Forsythe,8
+Baker,Baker 3,Governor,,DEM,Kevin M Forsythe,8
+Baker,Baker 4,Governor,,DEM,Kevin M Forsythe,9
+Baker,Baker 5,Governor,,DEM,Kevin M Forsythe,6
+Baker,Baker County 13,Governor,,DEM,Kevin M Forsythe,1
+Baker,Durkee 14,Governor,,DEM,Kevin M Forsythe,0
+Baker,Eagle Valley 15,Governor,,DEM,Kevin M Forsythe,5
+Baker,Haines 17,Governor,,DEM,Kevin M Forsythe,0
+Baker,Hereford 18,Governor,,DEM,Kevin M Forsythe,0
+Baker,Huntington 19,Governor,,DEM,Kevin M Forsythe,4
+Baker,Irondyke 20,Governor,,DEM,Kevin M Forsythe,0
+Baker,Keating 21,Governor,,DEM,Kevin M Forsythe,0
+Baker,Pine Valley 22,Governor,,DEM,Kevin M Forsythe,7
+Baker,Poca-Wing 24,Governor,,DEM,Kevin M Forsythe,3
+Baker,Sumpter 25,Governor,,DEM,Kevin M Forsythe,1
+Baker,Unity 26,Governor,,DEM,Kevin M Forsythe,0
+Baker,Baker 1,Governor,,DEM,Dave Stauffer,7
+Baker,Baker 2,Governor,,DEM,Dave Stauffer,11
+Baker,Baker 3,Governor,,DEM,Dave Stauffer,5
+Baker,Baker 4,Governor,,DEM,Dave Stauffer,7
+Baker,Baker 5,Governor,,DEM,Dave Stauffer,16
+Baker,Baker County 13,Governor,,DEM,Dave Stauffer,5
+Baker,Durkee 14,Governor,,DEM,Dave Stauffer,0
+Baker,Eagle Valley 15,Governor,,DEM,Dave Stauffer,6
+Baker,Haines 17,Governor,,DEM,Dave Stauffer,4
+Baker,Hereford 18,Governor,,DEM,Dave Stauffer,0
+Baker,Huntington 19,Governor,,DEM,Dave Stauffer,1
+Baker,Irondyke 20,Governor,,DEM,Dave Stauffer,0
+Baker,Keating 21,Governor,,DEM,Dave Stauffer,0
+Baker,Pine Valley 22,Governor,,DEM,Dave Stauffer,4
+Baker,Poca-Wing 24,Governor,,DEM,Dave Stauffer,8
+Baker,Sumpter 25,Governor,,DEM,Dave Stauffer,1
+Baker,Unity 26,Governor,,DEM,Dave Stauffer,0
+Baker,Baker 1,Governor,,DEM,Steve Johnson,11
+Baker,Baker 2,Governor,,DEM,Steve Johnson,8
+Baker,Baker 3,Governor,,DEM,Steve Johnson,13
+Baker,Baker 4,Governor,,DEM,Steve Johnson,14
+Baker,Baker 5,Governor,,DEM,Steve Johnson,7
+Baker,Baker County 13,Governor,,DEM,Steve Johnson,1
+Baker,Durkee 14,Governor,,DEM,Steve Johnson,0
+Baker,Eagle Valley 15,Governor,,DEM,Steve Johnson,10
+Baker,Haines 17,Governor,,DEM,Steve Johnson,7
+Baker,Hereford 18,Governor,,DEM,Steve Johnson,0
+Baker,Huntington 19,Governor,,DEM,Steve Johnson,2
+Baker,Irondyke 20,Governor,,DEM,Steve Johnson,0
+Baker,Keating 21,Governor,,DEM,Steve Johnson,1
+Baker,Pine Valley 22,Governor,,DEM,Steve Johnson,4
+Baker,Poca-Wing 24,Governor,,DEM,Steve Johnson,9
+Baker,Sumpter 25,Governor,,DEM,Steve Johnson,2
+Baker,Unity 26,Governor,,DEM,Steve Johnson,0
+Baker,Baker 1,Governor,,DEM,Write-in,3
+Baker,Baker 2,Governor,,DEM,Write-in,1
+Baker,Baker 3,Governor,,DEM,Write-in,1
+Baker,Baker 4,Governor,,DEM,Write-in,6
+Baker,Baker 5,Governor,,DEM,Write-in,7
+Baker,Baker County 13,Governor,,DEM,Write-in,5
+Baker,Durkee 14,Governor,,DEM,Write-in,0
+Baker,Eagle Valley 15,Governor,,DEM,Write-in,3
+Baker,Haines 17,Governor,,DEM,Write-in,1
+Baker,Hereford 18,Governor,,DEM,Write-in,0
+Baker,Huntington 19,Governor,,DEM,Write-in,0
+Baker,Irondyke 20,Governor,,DEM,Write-in,1
+Baker,Keating 21,Governor,,DEM,Write-in,2
+Baker,Pine Valley 22,Governor,,DEM,Write-in,3
+Baker,Poca-Wing 24,Governor,,DEM,Write-in,1
+Baker,Sumpter 25,Governor,,DEM,Write-in,0
+Baker,Unity 26,Governor,,DEM,Write-in,1
+Baker,Baker 1,Governor,,DEM,Over Votes,0
+Baker,Baker 2,Governor,,DEM,Over Votes,0
+Baker,Baker 3,Governor,,DEM,Over Votes,0
+Baker,Baker 4,Governor,,DEM,Over Votes,0
+Baker,Baker 5,Governor,,DEM,Over Votes,0
+Baker,Baker County 13,Governor,,DEM,Over Votes,0
+Baker,Durkee 14,Governor,,DEM,Over Votes,0
+Baker,Eagle Valley 15,Governor,,DEM,Over Votes,0
+Baker,Haines 17,Governor,,DEM,Over Votes,0
+Baker,Hereford 18,Governor,,DEM,Over Votes,0
+Baker,Huntington 19,Governor,,DEM,Over Votes,0
+Baker,Irondyke 20,Governor,,DEM,Over Votes,0
+Baker,Keating 21,Governor,,DEM,Over Votes,0
+Baker,Pine Valley 22,Governor,,DEM,Over Votes,0
+Baker,Poca-Wing 24,Governor,,DEM,Over Votes,0
+Baker,Sumpter 25,Governor,,DEM,Over Votes,0
+Baker,Unity 26,Governor,,DEM,Over Votes,0
+Baker,Baker 1,Governor,,DEM,Under Votes,13
+Baker,Baker 2,Governor,,DEM,Under Votes,13
+Baker,Baker 3,Governor,,DEM,Under Votes,13
+Baker,Baker 4,Governor,,DEM,Under Votes,18
+Baker,Baker 5,Governor,,DEM,Under Votes,25
+Baker,Baker County 13,Governor,,DEM,Under Votes,12
+Baker,Durkee 14,Governor,,DEM,Under Votes,2
+Baker,Eagle Valley 15,Governor,,DEM,Under Votes,5
+Baker,Haines 17,Governor,,DEM,Under Votes,6
+Baker,Hereford 18,Governor,,DEM,Under Votes,0
+Baker,Huntington 19,Governor,,DEM,Under Votes,2
+Baker,Irondyke 20,Governor,,DEM,Under Votes,2
+Baker,Keating 21,Governor,,DEM,Under Votes,4
+Baker,Pine Valley 22,Governor,,DEM,Under Votes,11
+Baker,Poca-Wing 24,Governor,,DEM,Under Votes,13
+Baker,Sumpter 25,Governor,,DEM,Under Votes,12
+Baker,Unity 26,Governor,,DEM,Under Votes,1
+Baker,Baker 1,State Treasurer,,DEM,Tobias Read,122
+Baker,Baker 2,State Treasurer,,DEM,Tobias Read,104
+Baker,Baker 3,State Treasurer,,DEM,Tobias Read,105
+Baker,Baker 4,State Treasurer,,DEM,Tobias Read,118
+Baker,Baker 5,State Treasurer,,DEM,Tobias Read,113
+Baker,Baker County 13,State Treasurer,,DEM,Tobias Read,34
+Baker,Durkee 14,State Treasurer,,DEM,Tobias Read,4
+Baker,Eagle Valley 15,State Treasurer,,DEM,Tobias Read,50
+Baker,Haines 17,State Treasurer,,DEM,Tobias Read,36
+Baker,Hereford 18,State Treasurer,,DEM,Tobias Read,3
+Baker,Huntington 19,State Treasurer,,DEM,Tobias Read,29
+Baker,Irondyke 20,State Treasurer,,DEM,Tobias Read,8
+Baker,Keating 21,State Treasurer,,DEM,Tobias Read,10
+Baker,Pine Valley 22,State Treasurer,,DEM,Tobias Read,84
+Baker,Poca-Wing 24,State Treasurer,,DEM,Tobias Read,62
+Baker,Sumpter 25,State Treasurer,,DEM,Tobias Read,23
+Baker,Unity 26,State Treasurer,,DEM,Tobias Read,2
+Baker,Baker 1,State Treasurer,,DEM,Write-in,0
+Baker,Baker 2,State Treasurer,,DEM,Write-in,0
+Baker,Baker 3,State Treasurer,,DEM,Write-in,3
+Baker,Baker 4,State Treasurer,,DEM,Write-in,3
+Baker,Baker 5,State Treasurer,,DEM,Write-in,6
+Baker,Baker County 13,State Treasurer,,DEM,Write-in,2
+Baker,Durkee 14,State Treasurer,,DEM,Write-in,0
+Baker,Eagle Valley 15,State Treasurer,,DEM,Write-in,1
+Baker,Haines 17,State Treasurer,,DEM,Write-in,0
+Baker,Hereford 18,State Treasurer,,DEM,Write-in,0
+Baker,Huntington 19,State Treasurer,,DEM,Write-in,0
+Baker,Irondyke 20,State Treasurer,,DEM,Write-in,0
+Baker,Keating 21,State Treasurer,,DEM,Write-in,2
+Baker,Pine Valley 22,State Treasurer,,DEM,Write-in,2
+Baker,Poca-Wing 24,State Treasurer,,DEM,Write-in,0
+Baker,Sumpter 25,State Treasurer,,DEM,Write-in,0
+Baker,Unity 26,State Treasurer,,DEM,Write-in,2
+Baker,Baker 1,State Treasurer,,DEM,Over Votes,0
+Baker,Baker 2,State Treasurer,,DEM,Over Votes,0
+Baker,Baker 3,State Treasurer,,DEM,Over Votes,0
+Baker,Baker 4,State Treasurer,,DEM,Over Votes,0
+Baker,Baker 5,State Treasurer,,DEM,Over Votes,0
+Baker,Baker County 13,State Treasurer,,DEM,Over Votes,0
+Baker,Durkee 14,State Treasurer,,DEM,Over Votes,0
+Baker,Eagle Valley 15,State Treasurer,,DEM,Over Votes,0
+Baker,Haines 17,State Treasurer,,DEM,Over Votes,0
+Baker,Hereford 18,State Treasurer,,DEM,Over Votes,0
+Baker,Huntington 19,State Treasurer,,DEM,Over Votes,0
+Baker,Irondyke 20,State Treasurer,,DEM,Over Votes,0
+Baker,Keating 21,State Treasurer,,DEM,Over Votes,0
+Baker,Pine Valley 22,State Treasurer,,DEM,Over Votes,0
+Baker,Poca-Wing 24,State Treasurer,,DEM,Over Votes,0
+Baker,Sumpter 25,State Treasurer,,DEM,Over Votes,0
+Baker,Unity 26,State Treasurer,,DEM,Over Votes,0
+Baker,Baker 1,State Treasurer,,DEM,Under Votes,57
+Baker,Baker 2,State Treasurer,,DEM,Under Votes,51
+Baker,Baker 3,State Treasurer,,DEM,Under Votes,44
+Baker,Baker 4,State Treasurer,,DEM,Under Votes,61
+Baker,Baker 5,State Treasurer,,DEM,Under Votes,76
+Baker,Baker County 13,State Treasurer,,DEM,Under Votes,34
+Baker,Durkee 14,State Treasurer,,DEM,Under Votes,1
+Baker,Eagle Valley 15,State Treasurer,,DEM,Under Votes,21
+Baker,Haines 17,State Treasurer,,DEM,Under Votes,20
+Baker,Hereford 18,State Treasurer,,DEM,Under Votes,0
+Baker,Huntington 19,State Treasurer,,DEM,Under Votes,11
+Baker,Irondyke 20,State Treasurer,,DEM,Under Votes,3
+Baker,Keating 21,State Treasurer,,DEM,Under Votes,7
+Baker,Pine Valley 22,State Treasurer,,DEM,Under Votes,40
+Baker,Poca-Wing 24,State Treasurer,,DEM,Under Votes,41
+Baker,Sumpter 25,State Treasurer,,DEM,Under Votes,16
+Baker,Unity 26,State Treasurer,,DEM,Under Votes,1
+Baker,Baker 1,Attorney General,,DEM,Ellen Rosenblum,129
+Baker,Baker 2,Attorney General,,DEM,Ellen Rosenblum,106
+Baker,Baker 3,Attorney General,,DEM,Ellen Rosenblum,111
+Baker,Baker 4,Attorney General,,DEM,Ellen Rosenblum,124
+Baker,Baker 5,Attorney General,,DEM,Ellen Rosenblum,121
+Baker,Baker County 13,Attorney General,,DEM,Ellen Rosenblum,39
+Baker,Durkee 14,Attorney General,,DEM,Ellen Rosenblum,4
+Baker,Eagle Valley 15,Attorney General,,DEM,Ellen Rosenblum,52
+Baker,Haines 17,Attorney General,,DEM,Ellen Rosenblum,35
+Baker,Hereford 18,Attorney General,,DEM,Ellen Rosenblum,3
+Baker,Huntington 19,Attorney General,,DEM,Ellen Rosenblum,30
+Baker,Irondyke 20,Attorney General,,DEM,Ellen Rosenblum,8
+Baker,Keating 21,Attorney General,,DEM,Ellen Rosenblum,9
+Baker,Pine Valley 22,Attorney General,,DEM,Ellen Rosenblum,84
+Baker,Poca-Wing 24,Attorney General,,DEM,Ellen Rosenblum,67
+Baker,Sumpter 25,Attorney General,,DEM,Ellen Rosenblum,25
+Baker,Unity 26,Attorney General,,DEM,Ellen Rosenblum,2
+Baker,Baker 1,Attorney General,,DEM,Write-in,2
+Baker,Baker 2,Attorney General,,DEM,Write-in,1
+Baker,Baker 3,Attorney General,,DEM,Write-in,0
+Baker,Baker 4,Attorney General,,DEM,Write-in,2
+Baker,Baker 5,Attorney General,,DEM,Write-in,2
+Baker,Baker County 13,Attorney General,,DEM,Write-in,1
+Baker,Durkee 14,Attorney General,,DEM,Write-in,0
+Baker,Eagle Valley 15,Attorney General,,DEM,Write-in,0
+Baker,Haines 17,Attorney General,,DEM,Write-in,0
+Baker,Hereford 18,Attorney General,,DEM,Write-in,0
+Baker,Huntington 19,Attorney General,,DEM,Write-in,0
+Baker,Irondyke 20,Attorney General,,DEM,Write-in,0
+Baker,Keating 21,Attorney General,,DEM,Write-in,1
+Baker,Pine Valley 22,Attorney General,,DEM,Write-in,1
+Baker,Poca-Wing 24,Attorney General,,DEM,Write-in,0
+Baker,Sumpter 25,Attorney General,,DEM,Write-in,0
+Baker,Unity 26,Attorney General,,DEM,Write-in,2
+Baker,Baker 1,Attorney General,,DEM,Over Votes,0
+Baker,Baker 2,Attorney General,,DEM,Over Votes,0
+Baker,Baker 3,Attorney General,,DEM,Over Votes,0
+Baker,Baker 4,Attorney General,,DEM,Over Votes,0
+Baker,Baker 5,Attorney General,,DEM,Over Votes,0
+Baker,Baker County 13,Attorney General,,DEM,Over Votes,0
+Baker,Durkee 14,Attorney General,,DEM,Over Votes,0
+Baker,Eagle Valley 15,Attorney General,,DEM,Over Votes,0
+Baker,Haines 17,Attorney General,,DEM,Over Votes,0
+Baker,Hereford 18,Attorney General,,DEM,Over Votes,0
+Baker,Huntington 19,Attorney General,,DEM,Over Votes,0
+Baker,Irondyke 20,Attorney General,,DEM,Over Votes,0
+Baker,Keating 21,Attorney General,,DEM,Over Votes,0
+Baker,Pine Valley 22,Attorney General,,DEM,Over Votes,0
+Baker,Poca-Wing 24,Attorney General,,DEM,Over Votes,0
+Baker,Sumpter 25,Attorney General,,DEM,Over Votes,0
+Baker,Unity 26,Attorney General,,DEM,Over Votes,0
+Baker,Baker 1,Attorney General,,DEM,Under Votes,48
+Baker,Baker 2,Attorney General,,DEM,Under Votes,48
+Baker,Baker 3,Attorney General,,DEM,Under Votes,41
+Baker,Baker 4,Attorney General,,DEM,Under Votes,56
+Baker,Baker 5,Attorney General,,DEM,Under Votes,72
+Baker,Baker County 13,Attorney General,,DEM,Under Votes,30
+Baker,Durkee 14,Attorney General,,DEM,Under Votes,1
+Baker,Eagle Valley 15,Attorney General,,DEM,Under Votes,20
+Baker,Haines 17,Attorney General,,DEM,Under Votes,21
+Baker,Hereford 18,Attorney General,,DEM,Under Votes,0
+Baker,Huntington 19,Attorney General,,DEM,Under Votes,10
+Baker,Irondyke 20,Attorney General,,DEM,Under Votes,3
+Baker,Keating 21,Attorney General,,DEM,Under Votes,9
+Baker,Pine Valley 22,Attorney General,,DEM,Under Votes,41
+Baker,Poca-Wing 24,Attorney General,,DEM,Under Votes,36
+Baker,Sumpter 25,Attorney General,,DEM,Under Votes,14
+Baker,Unity 26,Attorney General,,DEM,Under Votes,1
+Baker,Baker 1,State Senate,30,DEM,Stormy Gayle Ray,54
+Baker,Baker 2,State Senate,30,DEM,Stormy Gayle Ray,45
+Baker,Baker 3,State Senate,30,DEM,Stormy Gayle Ray,43
+Baker,Baker 4,State Senate,30,DEM,Stormy Gayle Ray,58
+Baker,Baker 5,State Senate,30,DEM,Stormy Gayle Ray,37
+Baker,Baker County 13,State Senate,30,DEM,Stormy Gayle Ray,12
+Baker,Durkee 14,State Senate,30,DEM,Stormy Gayle Ray,1
+Baker,Eagle Valley 15,State Senate,30,DEM,Stormy Gayle Ray,23
+Baker,Haines 17,State Senate,30,DEM,Stormy Gayle Ray,13
+Baker,Hereford 18,State Senate,30,DEM,Stormy Gayle Ray,1
+Baker,Huntington 19,State Senate,30,DEM,Stormy Gayle Ray,18
+Baker,Irondyke 20,State Senate,30,DEM,Stormy Gayle Ray,4
+Baker,Keating 21,State Senate,30,DEM,Stormy Gayle Ray,5
+Baker,Pine Valley 22,State Senate,30,DEM,Stormy Gayle Ray,27
+Baker,Poca-Wing 24,State Senate,30,DEM,Stormy Gayle Ray,30
+Baker,Sumpter 25,State Senate,30,DEM,Stormy Gayle Ray,6
+Baker,Unity 26,State Senate,30,DEM,Stormy Gayle Ray,1
+Baker,Baker 1,State Senate,30,DEM,W Mark Stringer,68
+Baker,Baker 2,State Senate,30,DEM,W Mark Stringer,60
+Baker,Baker 3,State Senate,30,DEM,W Mark Stringer,68
+Baker,Baker 4,State Senate,30,DEM,W Mark Stringer,65
+Baker,Baker 5,State Senate,30,DEM,W Mark Stringer,78
+Baker,Baker County 13,State Senate,30,DEM,W Mark Stringer,26
+Baker,Durkee 14,State Senate,30,DEM,W Mark Stringer,3
+Baker,Eagle Valley 15,State Senate,30,DEM,W Mark Stringer,30
+Baker,Haines 17,State Senate,30,DEM,W Mark Stringer,19
+Baker,Hereford 18,State Senate,30,DEM,W Mark Stringer,1
+Baker,Huntington 19,State Senate,30,DEM,W Mark Stringer,15
+Baker,Irondyke 20,State Senate,30,DEM,W Mark Stringer,4
+Baker,Keating 21,State Senate,30,DEM,W Mark Stringer,6
+Baker,Pine Valley 22,State Senate,30,DEM,W Mark Stringer,53
+Baker,Poca-Wing 24,State Senate,30,DEM,W Mark Stringer,40
+Baker,Sumpter 25,State Senate,30,DEM,W Mark Stringer,20
+Baker,Unity 26,State Senate,30,DEM,W Mark Stringer,1
+Baker,Baker 1,State Senate,30,DEM,Write-in,2
+Baker,Baker 2,State Senate,30,DEM,Write-in,3
+Baker,Baker 3,State Senate,30,DEM,Write-in,0
+Baker,Baker 4,State Senate,30,DEM,Write-in,3
+Baker,Baker 5,State Senate,30,DEM,Write-in,4
+Baker,Baker County 13,State Senate,30,DEM,Write-in,3
+Baker,Durkee 14,State Senate,30,DEM,Write-in,0
+Baker,Eagle Valley 15,State Senate,30,DEM,Write-in,2
+Baker,Haines 17,State Senate,30,DEM,Write-in,1
+Baker,Hereford 18,State Senate,30,DEM,Write-in,0
+Baker,Huntington 19,State Senate,30,DEM,Write-in,0
+Baker,Irondyke 20,State Senate,30,DEM,Write-in,0
+Baker,Keating 21,State Senate,30,DEM,Write-in,1
+Baker,Pine Valley 22,State Senate,30,DEM,Write-in,0
+Baker,Poca-Wing 24,State Senate,30,DEM,Write-in,0
+Baker,Sumpter 25,State Senate,30,DEM,Write-in,0
+Baker,Unity 26,State Senate,30,DEM,Write-in,2
+Baker,Baker 1,State Senate,30,DEM,Over Votes,0
+Baker,Baker 2,State Senate,30,DEM,Over Votes,0
+Baker,Baker 3,State Senate,30,DEM,Over Votes,0
+Baker,Baker 4,State Senate,30,DEM,Over Votes,0
+Baker,Baker 5,State Senate,30,DEM,Over Votes,0
+Baker,Baker County 13,State Senate,30,DEM,Over Votes,0
+Baker,Durkee 14,State Senate,30,DEM,Over Votes,0
+Baker,Eagle Valley 15,State Senate,30,DEM,Over Votes,0
+Baker,Haines 17,State Senate,30,DEM,Over Votes,0
+Baker,Hereford 18,State Senate,30,DEM,Over Votes,0
+Baker,Huntington 19,State Senate,30,DEM,Over Votes,0
+Baker,Irondyke 20,State Senate,30,DEM,Over Votes,0
+Baker,Keating 21,State Senate,30,DEM,Over Votes,0
+Baker,Pine Valley 22,State Senate,30,DEM,Over Votes,0
+Baker,Poca-Wing 24,State Senate,30,DEM,Over Votes,0
+Baker,Sumpter 25,State Senate,30,DEM,Over Votes,0
+Baker,Unity 26,State Senate,30,DEM,Over Votes,0
+Baker,Baker 1,State Senate,30,DEM,Under Votes,55
+Baker,Baker 2,State Senate,30,DEM,Under Votes,47
+Baker,Baker 3,State Senate,30,DEM,Under Votes,41
+Baker,Baker 4,State Senate,30,DEM,Under Votes,56
+Baker,Baker 5,State Senate,30,DEM,Under Votes,76
+Baker,Baker County 13,State Senate,30,DEM,Under Votes,29
+Baker,Durkee 14,State Senate,30,DEM,Under Votes,1
+Baker,Eagle Valley 15,State Senate,30,DEM,Under Votes,17
+Baker,Haines 17,State Senate,30,DEM,Under Votes,23
+Baker,Hereford 18,State Senate,30,DEM,Under Votes,1
+Baker,Huntington 19,State Senate,30,DEM,Under Votes,7
+Baker,Irondyke 20,State Senate,30,DEM,Under Votes,3
+Baker,Keating 21,State Senate,30,DEM,Under Votes,7
+Baker,Pine Valley 22,State Senate,30,DEM,Under Votes,46
+Baker,Poca-Wing 24,State Senate,30,DEM,Under Votes,33
+Baker,Sumpter 25,State Senate,30,DEM,Under Votes,13
+Baker,Unity 26,State Senate,30,DEM,Under Votes,1
