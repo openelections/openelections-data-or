@@ -24,29 +24,29 @@
 
 import re
 import os
+import sys
 import pdb
 import fileinput
 import unicodecsv
 import pprint
-import string
 
 # Configure variables
 county = 'Lane'
-outfile = '20061107__or__general__lane__precinct.csv'
+outfile = '20041102__or__general__lane__precinct.csv'
 
 
-headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
+headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'notes']
 party_prefixes = ['DEM', 'REP']
 
 office_lookup = {
-	'United States President': 'President',
-	'United States Senator': 'U.S. Senate',
-	'REPRESENTATIVE IN CONGRESS': 'U.S. House',
-	'Secretary of State': 'Secretary of State',
-	'State Treasurer': 'State Treasurer',
-	'Attorney General': 'Attorney General',
+	'UNITED STATES PRESIDENT AND VICE PRESIDENT': 'President',
+	'UNITED STATES SENATOR': 'U.S. Senate',
+	'REP IN CONGRESS': 'U.S. House',
+	'SECRETARY OF STATE': 'Secretary of State',
+	'STATE TREASURER': 'State Treasurer',
+	'ATTORNEY GENERAL': 'Attorney General',
 	'GOVERNOR': 'Governor',
-	'STATE REP': 'State House',
+	'STATE REPRESENTATIVE': 'State House',
 	'STATE SENATOR': 'State Senate'
 }
 
@@ -60,19 +60,23 @@ candidate_lookup = {
 def main():
 	currentCanvass = ""
 	allCanvasses = []
-	divisionRE = re.compile("@@@")
+	divisionRE = re.compile(" PAGE ")
 
 	# read from stdin
-	for line in fileinput.input():
-		if divisionRE.match(line):
+	for line in sys.stdin.readlines():
+		if divisionRE.search(line):
 			previousCanvass = OfficeCanvass(currentCanvass)
-			allCanvasses.append(previousCanvass)
+
+			# pdb.set_trace()
+
+			if len(allCanvasses) <= 16: # We only want the first 16
+				allCanvasses.append(previousCanvass)
+			else:
+				break
 
 			currentCanvass = ""
 		else:
 			currentCanvass += line
-
-	allCanvasses.append(OfficeCanvass(currentCanvass))
 
 	# printCanvasses(allCanvasses)
 	writeCSV(allCanvasses)
@@ -96,22 +100,32 @@ def writeCSV(allCanvasses):
 					normalisedOffice = office_lookup[canvass.office] # Normalise the office
 					candidate = canvass.candidates[index]
 					party = listGet(canvass.parties, index, "")
-					normalisedCandidate = candidate_lookup.get(candidate, candidate) # Normalise the candidate
+					normalisedCandidate = candidate_lookup.get(candidate, candidate.title()) # Normalise the candidate
+					note = noteForPrecinct(precinct)
+					normalisedPrecinct = precinct.replace("*", "")
 
-					row = [county, precinct, normalisedOffice, canvass.district,
-							party, normalisedCandidate, result]
+					row = [county, normalisedPrecinct, normalisedOffice, canvass.district,
+							party, normalisedCandidate, result, note]
 
 					print row
 					w.writerow(row)
+
+def noteForPrecinct(precinct):
+	if precinct.endswith("**"):
+		return "144 ballots were counted in precinct 101315 that should have been counted in precinct 101313. Same ballot styles, therefore no impact to contest results."
+	elif precinct.endswith("*"):
+		return "421 ballots were counted in precinct 101215 that should have been counted in precinct 101223. Same ballot styles, therefore no impact to contest results."
+	else:
+		return ""
 
 def printCanvasses(allCanvasses):
 	pp = pprint.PrettyPrinter(indent=4)
 
 	for canvass in allCanvasses:
+		print canvass.parties
 		print canvass.office
 		print canvass.district
 		print canvass.candidates
-		print canvass.parties
 		pp.pprint(canvass.results)
 		print "====="
 
@@ -127,35 +141,53 @@ class OfficeCanvass(object):
 		self.parties = []
 		self.candidates = []
 
-		self.hyphenRE = re.compile("(-----)")
-		self.parenRE = re.compile("\(")
-		self.endOfTableRE = re.compile("TOTALS")
+		self.hyphenRE = re.compile("(--+)")
+		self.endOfTableRE = re.compile("OFFICIAL CANVASS|TOTALS")
 		self.districtRE = re.compile(" (\d\d?)\w\w DISTRICT")
+		self.precintRE = re.compile("\d\d? PRECINCTS")
+		self.turnoutRE = re.compile("\xb3[^\xb3]+\xb3")
+		self.partyRE = re.compile("\((\w\w\w)\)")
 
+		self.removeTurnoutColumns()
 		self.parseTitle()
-		self.parseOfficePartyDistrict()
+		self.parseOfficeDistrict()
 		self.populateHeaderAndTable()
+		self.parseParties()
 		self.parseHeader()
 		self.parseResults()
 
 	def __repr__(self):
 		return self.title+self.party+self.office
 
+	def removeTurnoutColumns(self):
+		for index, line in enumerate(self.lines):
+			m = self.turnoutRE.search(line)
+			if m:
+				self.lines[index] = line.replace(m.group(0), "")
+
 	def parseTitle(self):
 		self.title = self.lines[0].strip()
 		
-	def parseOfficePartyDistrict(self):
-		self.office = self.title.strip()
+	def parseOfficeDistrict(self):
+		self.office = self.title
 
 		m = self.districtRE.search(self.office)
 		if m:
 			self.district = m.group(1)
 			self.office = self.office.replace(m.group(0), "") # Remove district from office
 
+	def parseParties(self):
+		partiesLine = self.header[-2]
+		for m in self.partyRE.finditer(partiesLine):
+			self.parties.append(m.group(1))
+			partiesLine = partiesLine.replace(m.group(0), " " * len(m.group(0)))
+
+		self.header[-2] = partiesLine
+
 	def populateHeaderAndTable(self):
 		inTable = False
 
-		for line in self.lines[1:]:
+		for line in self.lines[2:]:
 			if not inTable:
 				self.header.append(line)
 				if self.hyphenRE.search(line):
@@ -164,33 +196,28 @@ class OfficeCanvass(object):
 				if self.endOfTableRE.search(line):
 					break
 
-				self.table.append(line)
+				if len(line.strip()):
+					self.table.append(line)
 
 	def parseHeader(self):
-		# 1. Remove the diagonal printing
-		i = 0
 		headerLines = self.header
 
-		# pdb.set_trace()
+		# 1. Remove the precinct count
+		lastLine = headerLines[-2]
+		m = self.precintRE.search(lastLine)
 
-		for index, line in enumerate(headerLines):
-			if index > 0 and not line.endswith("-----") and not self.parenRE.search(line): # Don't increment first and last lines
-				i += 1
-
-			headerLines[index] = line[i:]
+		if m:
+			lastLine = lastLine.replace(m.group(0), " "*len(m.group(0)))
+			headerLines[-2] = lastLine
 
 		# 2. Find out where the columns are
 		cols = []
 		longestString = len(headerLines[-1])
 
 		for m in self.hyphenRE.finditer(headerLines[-1]):
-			for i, g in enumerate(m.groups()):
-				cols.append(m.span(i))
-
-		# 2.5. Remove the parties
-		partyString = headerLines[-2].translate(string.maketrans("()", "  "))
-		self.parties = partyString.split()
-		del(headerLines[-2])
+			if len(m.group(0)) == 5: # Skip the first set of hyphens
+				for i, g in enumerate(m.groups()):
+					cols.append(m.span(i))
 
 		# 3. Make sure all strings are the same length
 		for i, line in enumerate(headerLines):
@@ -200,6 +227,9 @@ class OfficeCanvass(object):
 		bitmap = []
 		for line in headerLines[:-1]: #skip line of hyphens
 			bitmap.append(list(line))
+
+		# for aList in bitmap:
+		# 	print aList
 
 		# 5. Read vertical columns of characters as the names, removing unused spaces
 		names = []
