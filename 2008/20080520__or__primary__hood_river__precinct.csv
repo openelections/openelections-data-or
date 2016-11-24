@@ -1,0 +1,898 @@
+county,precinct,office,district,party,candidate,votes
+Hood River,1,President,,DEM,Hillary Clinton,184
+Hood River,2,President,,DEM,Hillary Clinton,184
+Hood River,3,President,,DEM,Hillary Clinton,77
+Hood River,4,President,,DEM,Hillary Clinton,173
+Hood River,5,President,,DEM,Hillary Clinton,126
+Hood River,6,President,,DEM,Hillary Clinton,99
+Hood River,7,President,,DEM,Hillary Clinton,95
+Hood River,8,President,,DEM,Hillary Clinton,66
+Hood River,9,President,,DEM,Hillary Clinton,18
+Hood River,10,President,,DEM,Hillary Clinton,111
+Hood River,11,President,,DEM,Hillary Clinton,114
+Hood River,12,President,,DEM,Hillary Clinton,97
+Hood River,13,President,,DEM,Hillary Clinton,125
+Hood River,1,President,,DEM,Barack Obama,291
+Hood River,2,President,,DEM,Barack Obama,367
+Hood River,3,President,,DEM,Barack Obama,160
+Hood River,4,President,,DEM,Barack Obama,351
+Hood River,5,President,,DEM,Barack Obama,164
+Hood River,6,President,,DEM,Barack Obama,180
+Hood River,7,President,,DEM,Barack Obama,126
+Hood River,8,President,,DEM,Barack Obama,111
+Hood River,9,President,,DEM,Barack Obama,28
+Hood River,10,President,,DEM,Barack Obama,134
+Hood River,11,President,,DEM,Barack Obama,151
+Hood River,12,President,,DEM,Barack Obama,71
+Hood River,13,President,,DEM,Barack Obama,122
+Hood River,1,President,,,Write-ins,1
+Hood River,2,President,,,Write-ins,2
+Hood River,3,President,,,Write-ins,1
+Hood River,4,President,,,Write-ins,5
+Hood River,5,President,,,Write-ins,0
+Hood River,6,President,,,Write-ins,3
+Hood River,7,President,,,Write-ins,2
+Hood River,8,President,,,Write-ins,1
+Hood River,9,President,,,Write-ins,1
+Hood River,10,President,,,Write-ins,5
+Hood River,11,President,,,Write-ins,2
+Hood River,12,President,,,Write-ins,1
+Hood River,13,President,,,Write-ins,7
+Hood River,1,President,,,Over Votes,0
+Hood River,2,President,,,Over Votes,0
+Hood River,3,President,,,Over Votes,0
+Hood River,4,President,,,Over Votes,0
+Hood River,5,President,,,Over Votes,0
+Hood River,6,President,,,Over Votes,0
+Hood River,7,President,,,Over Votes,0
+Hood River,8,President,,,Over Votes,0
+Hood River,9,President,,,Over Votes,0
+Hood River,10,President,,,Over Votes,0
+Hood River,11,President,,,Over Votes,0
+Hood River,12,President,,,Over Votes,0
+Hood River,13,President,,,Over Votes,0
+Hood River,1,President,,,Under Votes,7
+Hood River,2,President,,,Under Votes,11
+Hood River,3,President,,,Under Votes,4
+Hood River,4,President,,,Under Votes,5
+Hood River,5,President,,,Under Votes,9
+Hood River,6,President,,,Under Votes,7
+Hood River,7,President,,,Under Votes,5
+Hood River,8,President,,,Under Votes,4
+Hood River,9,President,,,Under Votes,4
+Hood River,10,President,,,Under Votes,4
+Hood River,11,President,,,Under Votes,10
+Hood River,12,President,,,Under Votes,5
+Hood River,13,President,,,Under Votes,3
+Hood River,1,U.S. Senate,,DEM,Pavel Goberman,10
+Hood River,2,U.S. Senate,,DEM,Pavel Goberman,11
+Hood River,3,U.S. Senate,,DEM,Pavel Goberman,4
+Hood River,4,U.S. Senate,,DEM,Pavel Goberman,13
+Hood River,5,U.S. Senate,,DEM,Pavel Goberman,4
+Hood River,6,U.S. Senate,,DEM,Pavel Goberman,5
+Hood River,7,U.S. Senate,,DEM,Pavel Goberman,4
+Hood River,8,U.S. Senate,,DEM,Pavel Goberman,3
+Hood River,9,U.S. Senate,,DEM,Pavel Goberman,0
+Hood River,10,U.S. Senate,,DEM,Pavel Goberman,2
+Hood River,11,U.S. Senate,,DEM,Pavel Goberman,4
+Hood River,12,U.S. Senate,,DEM,Pavel Goberman,0
+Hood River,13,U.S. Senate,,DEM,Pavel Goberman,6
+Hood River,1,U.S. Senate,,DEM,Jeff Merkley,200
+Hood River,2,U.S. Senate,,DEM,Jeff Merkley,209
+Hood River,3,U.S. Senate,,DEM,Jeff Merkley,95
+Hood River,4,U.S. Senate,,DEM,Jeff Merkley,190
+Hood River,5,U.S. Senate,,DEM,Jeff Merkley,117
+Hood River,6,U.S. Senate,,DEM,Jeff Merkley,121
+Hood River,7,U.S. Senate,,DEM,Jeff Merkley,98
+Hood River,8,U.S. Senate,,DEM,Jeff Merkley,64
+Hood River,9,U.S. Senate,,DEM,Jeff Merkley,16
+Hood River,10,U.S. Senate,,DEM,Jeff Merkley,97
+Hood River,11,U.S. Senate,,DEM,Jeff Merkley,101
+Hood River,12,U.S. Senate,,DEM,Jeff Merkley,59
+Hood River,13,U.S. Senate,,DEM,Jeff Merkley,89
+Hood River,1,U.S. Senate,,DEM,Roger S. Obrist,10
+Hood River,2,U.S. Senate,,DEM,Roger S. Obrist,10
+Hood River,3,U.S. Senate,,DEM,Roger S. Obrist,0
+Hood River,4,U.S. Senate,,DEM,Roger S. Obrist,2
+Hood River,5,U.S. Senate,,DEM,Roger S. Obrist,4
+Hood River,6,U.S. Senate,,DEM,Roger S. Obrist,8
+Hood River,7,U.S. Senate,,DEM,Roger S. Obrist,1
+Hood River,8,U.S. Senate,,DEM,Roger S. Obrist,1
+Hood River,9,U.S. Senate,,DEM,Roger S. Obrist,2
+Hood River,10,U.S. Senate,,DEM,Roger S. Obrist,7
+Hood River,11,U.S. Senate,,DEM,Roger S. Obrist,9
+Hood River,12,U.S. Senate,,DEM,Roger S. Obrist,9
+Hood River,13,U.S. Senate,,DEM,Roger S. Obrist,8
+Hood River,1,U.S. Senate,,DEM,David Loera,9
+Hood River,2,U.S. Senate,,DEM,David Loera,10
+Hood River,3,U.S. Senate,,DEM,David Loera,1
+Hood River,4,U.S. Senate,,DEM,David Loera,11
+Hood River,5,U.S. Senate,,DEM,David Loera,4
+Hood River,6,U.S. Senate,,DEM,David Loera,3
+Hood River,7,U.S. Senate,,DEM,David Loera,6
+Hood River,8,U.S. Senate,,DEM,David Loera,5
+Hood River,9,U.S. Senate,,DEM,David Loera,1
+Hood River,10,U.S. Senate,,DEM,David Loera,5
+Hood River,11,U.S. Senate,,DEM,David Loera,4
+Hood River,12,U.S. Senate,,DEM,David Loera,2
+Hood River,13,U.S. Senate,,DEM,David Loera,13
+Hood River,1,U.S. Senate,,DEM,Candy Neville,29
+Hood River,2,U.S. Senate,,DEM,Candy Neville,36
+Hood River,3,U.S. Senate,,DEM,Candy Neville,14
+Hood River,4,U.S. Senate,,DEM,Candy Neville,25
+Hood River,5,U.S. Senate,,DEM,Candy Neville,16
+Hood River,6,U.S. Senate,,DEM,Candy Neville,15
+Hood River,7,U.S. Senate,,DEM,Candy Neville,15
+Hood River,8,U.S. Senate,,DEM,Candy Neville,7
+Hood River,9,U.S. Senate,,DEM,Candy Neville,4
+Hood River,10,U.S. Senate,,DEM,Candy Neville,17
+Hood River,11,U.S. Senate,,DEM,Candy Neville,19
+Hood River,12,U.S. Senate,,DEM,Candy Neville,21
+Hood River,13,U.S. Senate,,DEM,Candy Neville,24
+Hood River,1,U.S. Senate,,DEM,Steve Novick,129
+Hood River,2,U.S. Senate,,DEM,Steve Novick,189
+Hood River,3,U.S. Senate,,DEM,Steve Novick,78
+Hood River,4,U.S. Senate,,DEM,Steve Novick,169
+Hood River,5,U.S. Senate,,DEM,Steve Novick,104
+Hood River,6,U.S. Senate,,DEM,Steve Novick,84
+Hood River,7,U.S. Senate,,DEM,Steve Novick,79
+Hood River,8,U.S. Senate,,DEM,Steve Novick,68
+Hood River,9,U.S. Senate,,DEM,Steve Novick,17
+Hood River,10,U.S. Senate,,DEM,Steve Novick,70
+Hood River,11,U.S. Senate,,DEM,Steve Novick,88
+Hood River,12,U.S. Senate,,DEM,Steve Novick,52
+Hood River,13,U.S. Senate,,DEM,Steve Novick,71
+Hood River,1,U.S. Senate,,,Write-ins,1
+Hood River,2,U.S. Senate,,,Write-ins,2
+Hood River,3,U.S. Senate,,,Write-ins,0
+Hood River,4,U.S. Senate,,,Write-ins,4
+Hood River,5,U.S. Senate,,,Write-ins,1
+Hood River,6,U.S. Senate,,,Write-ins,1
+Hood River,7,U.S. Senate,,,Write-ins,1
+Hood River,8,U.S. Senate,,,Write-ins,0
+Hood River,9,U.S. Senate,,,Write-ins,0
+Hood River,10,U.S. Senate,,,Write-ins,1
+Hood River,11,U.S. Senate,,,Write-ins,2
+Hood River,12,U.S. Senate,,,Write-ins,1
+Hood River,13,U.S. Senate,,,Write-ins,0
+Hood River,1,U.S. Senate,,,Over Votes,0
+Hood River,2,U.S. Senate,,,Over Votes,0
+Hood River,3,U.S. Senate,,,Over Votes,0
+Hood River,4,U.S. Senate,,,Over Votes,0
+Hood River,5,U.S. Senate,,,Over Votes,0
+Hood River,6,U.S. Senate,,,Over Votes,0
+Hood River,7,U.S. Senate,,,Over Votes,1
+Hood River,8,U.S. Senate,,,Over Votes,1
+Hood River,9,U.S. Senate,,,Over Votes,0
+Hood River,10,U.S. Senate,,,Over Votes,1
+Hood River,11,U.S. Senate,,,Over Votes,0
+Hood River,12,U.S. Senate,,,Over Votes,0
+Hood River,13,U.S. Senate,,,Over Votes,0
+Hood River,1,U.S. Senate,,,Under Votes,95
+Hood River,2,U.S. Senate,,,Under Votes,97
+Hood River,3,U.S. Senate,,,Under Votes,50
+Hood River,4,U.S. Senate,,,Under Votes,120
+Hood River,5,U.S. Senate,,,Under Votes,49
+Hood River,6,U.S. Senate,,,Under Votes,52
+Hood River,7,U.S. Senate,,,Under Votes,23
+Hood River,8,U.S. Senate,,,Under Votes,33
+Hood River,9,U.S. Senate,,,Under Votes,11
+Hood River,10,U.S. Senate,,,Under Votes,54
+Hood River,11,U.S. Senate,,,Under Votes,50
+Hood River,12,U.S. Senate,,,Under Votes,30
+Hood River,13,U.S. Senate,,,Under Votes,46
+Hood River,1,U.S. House,2,DEM,Noah Lemas,250
+Hood River,2,U.S. House,2,DEM,Noah Lemas,311
+Hood River,3,U.S. House,2,DEM,Noah Lemas,112
+Hood River,4,U.S. House,2,DEM,Noah Lemas,277
+Hood River,5,U.S. House,2,DEM,Noah Lemas,169
+Hood River,6,U.S. House,2,DEM,Noah Lemas,150
+Hood River,7,U.S. House,2,DEM,Noah Lemas,131
+Hood River,8,U.S. House,2,DEM,Noah Lemas,88
+Hood River,9,U.S. House,2,DEM,Noah Lemas,29
+Hood River,10,U.S. House,2,DEM,Noah Lemas,143
+Hood River,11,U.S. House,2,DEM,Noah Lemas,158
+Hood River,12,U.S. House,2,DEM,Noah Lemas,111
+Hood River,13,U.S. House,2,DEM,Noah Lemas,146
+Hood River,1,U.S. House,2,,Write-In Votes,4
+Hood River,2,U.S. House,2,,Write-In Votes,3
+Hood River,3,U.S. House,2,,Write-In Votes,0
+Hood River,4,U.S. House,2,,Write-In Votes,3
+Hood River,5,U.S. House,2,,Write-In Votes,3
+Hood River,6,U.S. House,2,,Write-In Votes,0
+Hood River,7,U.S. House,2,,Write-In Votes,1
+Hood River,8,U.S. House,2,,Write-In Votes,2
+Hood River,9,U.S. House,2,,Write-In Votes,2
+Hood River,10,U.S. House,2,,Write-In Votes,1
+Hood River,11,U.S. House,2,,Write-In Votes,2
+Hood River,12,U.S. House,2,,Write-In Votes,1
+Hood River,13,U.S. House,2,,Write-In Votes,1
+Hood River,1,U.S. House,2,,Over Votes,0
+Hood River,2,U.S. House,2,,Over Votes,0
+Hood River,3,U.S. House,2,,Over Votes,0
+Hood River,4,U.S. House,2,,Over Votes,0
+Hood River,5,U.S. House,2,,Over Votes,0
+Hood River,6,U.S. House,2,,Over Votes,0
+Hood River,7,U.S. House,2,,Over Votes,0
+Hood River,8,U.S. House,2,,Over Votes,0
+Hood River,9,U.S. House,2,,Over Votes,0
+Hood River,10,U.S. House,2,,Over Votes,0
+Hood River,11,U.S. House,2,,Over Votes,0
+Hood River,12,U.S. House,2,,Over Votes,0
+Hood River,13,U.S. House,2,,Over Votes,0
+Hood River,1,U.S. House,2,,Under Votes,229
+Hood River,2,U.S. House,2,,Under Votes,250
+Hood River,3,U.S. House,2,,Under Votes,130
+Hood River,4,U.S. House,2,,Under Votes,254
+Hood River,5,U.S. House,2,,Under Votes,127
+Hood River,6,U.S. House,2,,Under Votes,139
+Hood River,7,U.S. House,2,,Under Votes,96
+Hood River,8,U.S. House,2,,Under Votes,92
+Hood River,9,U.S. House,2,,Under Votes,20
+Hood River,10,U.S. House,2,,Under Votes,110
+Hood River,11,U.S. House,2,,Under Votes,117
+Hood River,12,U.S. House,2,,Under Votes,62
+Hood River,13,U.S. House,2,,Under Votes,110
+Hood River,1,Secretary of State,,DEM,Kate Brown,158
+Hood River,2,Secretary of State,,DEM,Kate Brown,224
+Hood River,3,Secretary of State,,DEM,Kate Brown,106
+Hood River,4,Secretary of State,,DEM,Kate Brown,166
+Hood River,5,Secretary of State,,DEM,Kate Brown,83
+Hood River,6,Secretary of State,,DEM,Kate Brown,91
+Hood River,7,Secretary of State,,DEM,Kate Brown,71
+Hood River,8,Secretary of State,,DEM,Kate Brown,63
+Hood River,9,Secretary of State,,DEM,Kate Brown,11
+Hood River,10,Secretary of State,,DEM,Kate Brown,75
+Hood River,11,Secretary of State,,DEM,Kate Brown,110
+Hood River,12,Secretary of State,,DEM,Kate Brown,44
+Hood River,13,Secretary of State,,DEM,Kate Brown,72
+Hood River,1,Secretary of State,,DEM,Rick Metsger,201
+Hood River,2,Secretary of State,,DEM,Rick Metsger,239
+Hood River,3,Secretary of State,,DEM,Rick Metsger,68
+Hood River,4,Secretary of State,,DEM,Rick Metsger,238
+Hood River,5,Secretary of State,,DEM,Rick Metsger,149
+Hood River,6,Secretary of State,,DEM,Rick Metsger,130
+Hood River,7,Secretary of State,,DEM,Rick Metsger,111
+Hood River,8,Secretary of State,,DEM,Rick Metsger,69
+Hood River,9,Secretary of State,,DEM,Rick Metsger,29
+Hood River,10,Secretary of State,,DEM,Rick Metsger,117
+Hood River,11,Secretary of State,,DEM,Rick Metsger,120
+Hood River,12,Secretary of State,,DEM,Rick Metsger,88
+Hood River,13,Secretary of State,,DEM,Rick Metsger,128
+Hood River,1,Secretary of State,,DEM,Vicki L. Walker,34
+Hood River,2,Secretary of State,,DEM,Vicki L. Walker,22
+Hood River,3,Secretary of State,,DEM,Vicki L. Walker,17
+Hood River,4,Secretary of State,,DEM,Vicki L. Walker,30
+Hood River,5,Secretary of State,,DEM,Vicki L. Walker,18
+Hood River,6,Secretary of State,,DEM,Vicki L. Walker,21
+Hood River,7,Secretary of State,,DEM,Vicki L. Walker,20
+Hood River,8,Secretary of State,,DEM,Vicki L. Walker,12
+Hood River,9,Secretary of State,,DEM,Vicki L. Walker,3
+Hood River,10,Secretary of State,,DEM,Vicki L. Walker,17
+Hood River,11,Secretary of State,,DEM,Vicki L. Walker,14
+Hood River,12,Secretary of State,,DEM,Vicki L. Walker,18
+Hood River,13,Secretary of State,,DEM,Vicki L. Walker,18
+Hood River,1,Secretary of State,,DEM,Paul Damian Wells,12
+Hood River,2,Secretary of State,,DEM,Paul Damian Wells,9
+Hood River,3,Secretary of State,,DEM,Paul Damian Wells,3
+Hood River,4,Secretary of State,,DEM,Paul Damian Wells,6
+Hood River,5,Secretary of State,,DEM,Paul Damian Wells,7
+Hood River,6,Secretary of State,,DEM,Paul Damian Wells,6
+Hood River,7,Secretary of State,,DEM,Paul Damian Wells,6
+Hood River,8,Secretary of State,,DEM,Paul Damian Wells,6
+Hood River,9,Secretary of State,,DEM,Paul Damian Wells,0
+Hood River,10,Secretary of State,,DEM,Paul Damian Wells,5
+Hood River,11,Secretary of State,,DEM,Paul Damian Wells,2
+Hood River,12,Secretary of State,,DEM,Paul Damian Wells,1
+Hood River,13,Secretary of State,,DEM,Paul Damian Wells,7
+Hood River,1,Secretary of State,,,Write-In Votes,1
+Hood River,2,Secretary of State,,,Write-In Votes,1
+Hood River,3,Secretary of State,,,Write-In Votes,0
+Hood River,4,Secretary of State,,,Write-In Votes,1
+Hood River,5,Secretary of State,,,Write-In Votes,1
+Hood River,6,Secretary of State,,,Write-In Votes,0
+Hood River,7,Secretary of State,,,Write-In Votes,0
+Hood River,8,Secretary of State,,,Write-In Votes,0
+Hood River,9,Secretary of State,,,Write-In Votes,1
+Hood River,10,Secretary of State,,,Write-In Votes,0
+Hood River,11,Secretary of State,,,Write-In Votes,0
+Hood River,12,Secretary of State,,,Write-In Votes,0
+Hood River,13,Secretary of State,,,Write-In Votes,0
+Hood River,1,Secretary of State,,,Over Votes,0
+Hood River,2,Secretary of State,,,Over Votes,0
+Hood River,3,Secretary of State,,,Over Votes,0
+Hood River,4,Secretary of State,,,Over Votes,0
+Hood River,5,Secretary of State,,,Over Votes,0
+Hood River,6,Secretary of State,,,Over Votes,0
+Hood River,7,Secretary of State,,,Over Votes,1
+Hood River,8,Secretary of State,,,Over Votes,0
+Hood River,9,Secretary of State,,,Over Votes,0
+Hood River,10,Secretary of State,,,Over Votes,0
+Hood River,11,Secretary of State,,,Over Votes,0
+Hood River,12,Secretary of State,,,Over Votes,0
+Hood River,13,Secretary of State,,,Over Votes,0
+Hood River,1,Secretary of State,,,Under Votes,77
+Hood River,2,Secretary of State,,,Under Votes,69
+Hood River,3,Secretary of State,,,Under Votes,48
+Hood River,4,Secretary of State,,,Under Votes,93
+Hood River,5,Secretary of State,,,Under Votes,41
+Hood River,6,Secretary of State,,,Under Votes,41
+Hood River,7,Secretary of State,,,Under Votes,19
+Hood River,8,Secretary of State,,,Under Votes,32
+Hood River,9,Secretary of State,,,Under Votes,7
+Hood River,10,Secretary of State,,,Under Votes,40
+Hood River,11,Secretary of State,,,Under Votes,31
+Hood River,12,Secretary of State,,,Under Votes,23
+Hood River,13,Secretary of State,,,Under Votes,32
+Hood River,1,State Treasurer,,DEM,Ben Westlund,277
+Hood River,2,State Treasurer,,DEM,Ben Westlund,349
+Hood River,3,State Treasurer,,DEM,Ben Westlund,130
+Hood River,4,State Treasurer,,DEM,Ben Westlund,293
+Hood River,5,State Treasurer,,DEM,Ben Westlund,185
+Hood River,6,State Treasurer,,DEM,Ben Westlund,177
+Hood River,7,State Treasurer,,DEM,Ben Westlund,150
+Hood River,8,State Treasurer,,DEM,Ben Westlund,107
+Hood River,9,State Treasurer,,DEM,Ben Westlund,32
+Hood River,10,State Treasurer,,DEM,Ben Westlund,152
+Hood River,11,State Treasurer,,DEM,Ben Westlund,169
+Hood River,12,State Treasurer,,DEM,Ben Westlund,120
+Hood River,13,State Treasurer,,DEM,Ben Westlund,158
+Hood River,1,State Treasurer,,,Write-In Votes,1
+Hood River,2,State Treasurer,,,Write-In Votes,3
+Hood River,3,State Treasurer,,,Write-In Votes,1
+Hood River,4,State Treasurer,,,Write-In Votes,3
+Hood River,5,State Treasurer,,,Write-In Votes,1
+Hood River,6,State Treasurer,,,Write-In Votes,0
+Hood River,7,State Treasurer,,,Write-In Votes,1
+Hood River,8,State Treasurer,,,Write-In Votes,0
+Hood River,9,State Treasurer,,,Write-In Votes,1
+Hood River,10,State Treasurer,,,Write-In Votes,1
+Hood River,11,State Treasurer,,,Write-In Votes,1
+Hood River,12,State Treasurer,,,Write-In Votes,1
+Hood River,13,State Treasurer,,,Write-In Votes,0
+Hood River,1,State Treasurer,,,Over Votes,0
+Hood River,2,State Treasurer,,,Over Votes,0
+Hood River,3,State Treasurer,,,Over Votes,0
+Hood River,4,State Treasurer,,,Over Votes,0
+Hood River,5,State Treasurer,,,Over Votes,0
+Hood River,6,State Treasurer,,,Over Votes,0
+Hood River,7,State Treasurer,,,Over Votes,0
+Hood River,8,State Treasurer,,,Over Votes,0
+Hood River,9,State Treasurer,,,Over Votes,0
+Hood River,10,State Treasurer,,,Over Votes,0
+Hood River,11,State Treasurer,,,Over Votes,0
+Hood River,12,State Treasurer,,,Over Votes,0
+Hood River,13,State Treasurer,,,Over Votes,0
+Hood River,1,State Treasurer,,,Under Votes,205
+Hood River,2,State Treasurer,,,Under Votes,212
+Hood River,3,State Treasurer,,,Under Votes,111
+Hood River,4,State Treasurer,,,Under Votes,238
+Hood River,5,State Treasurer,,,Under Votes,113
+Hood River,6,State Treasurer,,,Under Votes,112
+Hood River,7,State Treasurer,,,Under Votes,77
+Hood River,8,State Treasurer,,,Under Votes,75
+Hood River,9,State Treasurer,,,Under Votes,18
+Hood River,10,State Treasurer,,,Under Votes,101
+Hood River,11,State Treasurer,,,Under Votes,107
+Hood River,12,State Treasurer,,,Under Votes,53
+Hood River,13,State Treasurer,,,Under Votes,99
+Hood River,1,Attorney General,,DEM,John R. Kroger,227
+Hood River,2,Attorney General,,DEM,John R. Kroger,270
+Hood River,3,Attorney General,,DEM,John R. Kroger,116
+Hood River,4,Attorney General,,DEM,John R. Kroger,231
+Hood River,5,Attorney General,,DEM,John R. Kroger,135
+Hood River,6,Attorney General,,DEM,John R. Kroger,111
+Hood River,7,Attorney General,,DEM,John R. Kroger,119
+Hood River,8,Attorney General,,DEM,John R. Kroger,78
+Hood River,9,Attorney General,,DEM,John R. Kroger,24
+Hood River,10,Attorney General,,DEM,John R. Kroger,100
+Hood River,11,Attorney General,,DEM,John R. Kroger,117
+Hood River,12,Attorney General,,DEM,John R. Kroger,73
+Hood River,13,Attorney General,,DEM,John R. Kroger,97
+Hood River,1,Attorney General,,DEM,Greg Macpherson,135
+Hood River,2,Attorney General,,DEM,Greg Macpherson,168
+Hood River,3,Attorney General,,DEM,Greg Macpherson,57
+Hood River,4,Attorney General,,DEM,Greg Macpherson,152
+Hood River,5,Attorney General,,DEM,Greg Macpherson,86
+Hood River,6,Attorney General,,DEM,Greg Macpherson,94
+Hood River,7,Attorney General,,DEM,Greg Macpherson,76
+Hood River,8,Attorney General,,DEM,Greg Macpherson,57
+Hood River,9,Attorney General,,DEM,Greg Macpherson,15
+Hood River,10,Attorney General,,DEM,Greg Macpherson,91
+Hood River,11,Attorney General,,DEM,Greg Macpherson,86
+Hood River,12,Attorney General,,DEM,Greg Macpherson,67
+Hood River,13,Attorney General,,DEM,Greg Macpherson,107
+Hood River,1,Attorney General,,,Write-In Votes,1
+Hood River,2,Attorney General,,,Write-In Votes,1
+Hood River,3,Attorney General,,,Write-In Votes,1
+Hood River,4,Attorney General,,,Write-In Votes,0
+Hood River,5,Attorney General,,,Write-In Votes,1
+Hood River,6,Attorney General,,,Write-In Votes,0
+Hood River,7,Attorney General,,,Write-In Votes,0
+Hood River,8,Attorney General,,,Write-In Votes,0
+Hood River,9,Attorney General,,,Write-In Votes,0
+Hood River,10,Attorney General,,,Write-In Votes,0
+Hood River,11,Attorney General,,,Write-In Votes,0
+Hood River,12,Attorney General,,,Write-In Votes,0
+Hood River,13,Attorney General,,,Write-In Votes,0
+Hood River,1,Attorney General,,,Over Votes,0
+Hood River,2,Attorney General,,,Over Votes,0
+Hood River,3,Attorney General,,,Over Votes,0
+Hood River,4,Attorney General,,,Over Votes,0
+Hood River,5,Attorney General,,,Over Votes,0
+Hood River,6,Attorney General,,,Over Votes,0
+Hood River,7,Attorney General,,,Over Votes,0
+Hood River,8,Attorney General,,,Over Votes,0
+Hood River,9,Attorney General,,,Over Votes,0
+Hood River,10,Attorney General,,,Over Votes,0
+Hood River,11,Attorney General,,,Over Votes,0
+Hood River,12,Attorney General,,,Over Votes,0
+Hood River,13,Attorney General,,,Over Votes,0
+Hood River,1,Attorney General,,,Under Votes,120
+Hood River,2,Attorney General,,,Under Votes,125
+Hood River,3,Attorney General,,,Under Votes,68
+Hood River,4,Attorney General,,,Under Votes,151
+Hood River,5,Attorney General,,,Under Votes,77
+Hood River,6,Attorney General,,,Under Votes,84
+Hood River,7,Attorney General,,,Under Votes,33
+Hood River,8,Attorney General,,,Under Votes,47
+Hood River,9,Attorney General,,,Under Votes,12
+Hood River,10,Attorney General,,,Under Votes,63
+Hood River,11,Attorney General,,,Under Votes,74
+Hood River,12,Attorney General,,,Under Votes,34
+Hood River,13,Attorney General,,,Under Votes,53
+Hood River,1,State House,52,DEM,Suzanne VanOrman,303
+Hood River,2,State House,52,DEM,Suzanne VanOrman,366
+Hood River,3,State House,52,DEM,Suzanne VanOrman,148
+Hood River,4,State House,52,DEM,Suzanne VanOrman,340
+Hood River,5,State House,52,DEM,Suzanne VanOrman,177
+Hood River,6,State House,52,DEM,Suzanne VanOrman,175
+Hood River,7,State House,52,DEM,Suzanne VanOrman,156
+Hood River,8,State House,52,DEM,Suzanne VanOrman,113
+Hood River,9,State House,52,DEM,Suzanne VanOrman,32
+Hood River,10,State House,52,DEM,Suzanne VanOrman,153
+Hood River,11,State House,52,DEM,Suzanne VanOrman,175
+Hood River,12,State House,52,DEM,Suzanne VanOrman,93
+Hood River,13,State House,52,DEM,Suzanne VanOrman,152
+Hood River,1,State House,52,DEM,Steve Richkind,62
+Hood River,2,State House,52,DEM,Steve Richkind,60
+Hood River,3,State House,52,DEM,Steve Richkind,17
+Hood River,4,State House,52,DEM,Steve Richkind,51
+Hood River,5,State House,52,DEM,Steve Richkind,37
+Hood River,6,State House,52,DEM,Steve Richkind,27
+Hood River,7,State House,52,DEM,Steve Richkind,36
+Hood River,8,State House,52,DEM,Steve Richkind,22
+Hood River,9,State House,52,DEM,Steve Richkind,5
+Hood River,10,State House,52,DEM,Steve Richkind,34
+Hood River,11,State House,52,DEM,Steve Richkind,35
+Hood River,12,State House,52,DEM,Steve Richkind,32
+Hood River,13,State House,52,DEM,Steve Richkind,31
+Hood River,1,State House,52,,Write-In Votes,5
+Hood River,2,State House,52,,Write-In Votes,4
+Hood River,3,State House,52,,Write-In Votes,0
+Hood River,4,State House,52,,Write-In Votes,5
+Hood River,5,State House,52,,Write-In Votes,1
+Hood River,6,State House,52,,Write-In Votes,3
+Hood River,7,State House,52,,Write-In Votes,0
+Hood River,8,State House,52,,Write-In Votes,1
+Hood River,9,State House,52,,Write-In Votes,1
+Hood River,10,State House,52,,Write-In Votes,0
+Hood River,11,State House,52,,Write-In Votes,0
+Hood River,12,State House,52,,Write-In Votes,2
+Hood River,13,State House,52,,Write-In Votes,1
+Hood River,1,State House,52,,Over Votes,0
+Hood River,2,State House,52,,Over Votes,0
+Hood River,3,State House,52,,Over Votes,0
+Hood River,4,State House,52,,Over Votes,0
+Hood River,5,State House,52,,Over Votes,0
+Hood River,6,State House,52,,Over Votes,0
+Hood River,7,State House,52,,Over Votes,0
+Hood River,8,State House,52,,Over Votes,0
+Hood River,9,State House,52,,Over Votes,0
+Hood River,10,State House,52,,Over Votes,0
+Hood River,11,State House,52,,Over Votes,0
+Hood River,12,State House,52,,Over Votes,0
+Hood River,13,State House,52,,Over Votes,2
+Hood River,1,State House,52,,Under Votes,113
+Hood River,2,State House,52,,Under Votes,134
+Hood River,3,State House,52,,Under Votes,77
+Hood River,4,State House,52,,Under Votes,138
+Hood River,5,State House,52,,Under Votes,84
+Hood River,6,State House,52,,Under Votes,84
+Hood River,7,State House,52,,Under Votes,36
+Hood River,8,State House,52,,Under Votes,46
+Hood River,9,State House,52,,Under Votes,13
+Hood River,10,State House,52,,Under Votes,67
+Hood River,11,State House,52,,Under Votes,67
+Hood River,12,State House,52,,Under Votes,47
+Hood River,13,State House,52,,Under Votes,71
+Hood River,1,President,,REP,John McCain,126
+Hood River,2,President,,REP,John McCain,188
+Hood River,3,President,,REP,John McCain,66
+Hood River,4,President,,REP,John McCain,263
+Hood River,5,President,,REP,John McCain,180
+Hood River,6,President,,REP,John McCain,149
+Hood River,7,President,,REP,John McCain,99
+Hood River,8,President,,REP,John McCain,113
+Hood River,9,President,,REP,John McCain,37
+Hood River,10,President,,REP,John McCain,126
+Hood River,11,President,,REP,John McCain,160
+Hood River,12,President,,REP,John McCain,67
+Hood River,13,President,,REP,John McCain,137
+Hood River,1,President,,REP,Ron Paul,17
+Hood River,2,President,,REP,Ron Paul,27
+Hood River,3,President,,REP,Ron Paul,7
+Hood River,4,President,,REP,Ron Paul,36
+Hood River,5,President,,REP,Ron Paul,20
+Hood River,6,President,,REP,Ron Paul,22
+Hood River,7,President,,REP,Ron Paul,13
+Hood River,8,President,,REP,Ron Paul,16
+Hood River,9,President,,REP,Ron Paul,4
+Hood River,10,President,,REP,Ron Paul,18
+Hood River,11,President,,REP,Ron Paul,20
+Hood River,12,President,,REP,Ron Paul,14
+Hood River,13,President,,REP,Ron Paul,25
+Hood River,1,President,,,Write-In Votes,8
+Hood River,2,President,,,Write-In Votes,7
+Hood River,3,President,,,Write-In Votes,6
+Hood River,4,President,,,Write-In Votes,11
+Hood River,5,President,,,Write-In Votes,8
+Hood River,6,President,,,Write-In Votes,8
+Hood River,7,President,,,Write-In Votes,4
+Hood River,8,President,,,Write-In Votes,3
+Hood River,9,President,,,Write-In Votes,2
+Hood River,10,President,,,Write-In Votes,5
+Hood River,11,President,,,Write-In Votes,4
+Hood River,12,President,,,Write-In Votes,6
+Hood River,13,President,,,Write-In Votes,2
+Hood River,1,President,,,Over Votes,0
+Hood River,2,President,,,Over Votes,0
+Hood River,3,President,,,Over Votes,0
+Hood River,4,President,,,Over Votes,0
+Hood River,5,President,,,Over Votes,0
+Hood River,6,President,,,Over Votes,0
+Hood River,7,President,,,Over Votes,0
+Hood River,8,President,,,Over Votes,0
+Hood River,9,President,,,Over Votes,0
+Hood River,10,President,,,Over Votes,0
+Hood River,11,President,,,Over Votes,0
+Hood River,12,President,,,Over Votes,0
+Hood River,13,President,,,Over Votes,0
+Hood River,1,President,,,Under Votes,15
+Hood River,2,President,,,Under Votes,17
+Hood River,3,President,,,Under Votes,5
+Hood River,4,President,,,Under Votes,45
+Hood River,5,President,,,Under Votes,13
+Hood River,6,President,,,Under Votes,19
+Hood River,7,President,,,Under Votes,9
+Hood River,8,President,,,Under Votes,7
+Hood River,9,President,,,Under Votes,3
+Hood River,10,President,,,Under Votes,8
+Hood River,11,President,,,Under Votes,17
+Hood River,12,President,,,Under Votes,4
+Hood River,13,President,,,Under Votes,10
+Hood River,1,U.S. Senate,,REP,Gordon H. Smith,142
+Hood River,2,U.S. Senate,,REP,Gordon H. Smith,175
+Hood River,3,U.S. Senate,,REP,Gordon H. Smith,73
+Hood River,4,U.S. Senate,,REP,Gordon H. Smith,291
+Hood River,5,U.S. Senate,,REP,Gordon H. Smith,179
+Hood River,6,U.S. Senate,,REP,Gordon H. Smith,161
+Hood River,7,U.S. Senate,,REP,Gordon H. Smith,101
+Hood River,8,U.S. Senate,,REP,Gordon H. Smith,117
+Hood River,9,U.S. Senate,,REP,Gordon H. Smith,35
+Hood River,10,U.S. Senate,,REP,Gordon H. Smith,114
+Hood River,11,U.S. Senate,,REP,Gordon H. Smith,163
+Hood River,12,U.S. Senate,,REP,Gordon H. Smith,70
+Hood River,13,U.S. Senate,,REP,Gordon H. Smith,132
+Hood River,1,U.S. Senate,,REP,Gordon Leitch,13
+Hood River,2,U.S. Senate,,REP,Gordon Leitch,36
+Hood River,3,U.S. Senate,,REP,Gordon Leitch,7
+Hood River,4,U.S. Senate,,REP,Gordon Leitch,37
+Hood River,5,U.S. Senate,,REP,Gordon Leitch,24
+Hood River,6,U.S. Senate,,REP,Gordon Leitch,21
+Hood River,7,U.S. Senate,,REP,Gordon Leitch,17
+Hood River,8,U.S. Senate,,REP,Gordon Leitch,16
+Hood River,9,U.S. Senate,,REP,Gordon Leitch,7
+Hood River,10,U.S. Senate,,REP,Gordon Leitch,24
+Hood River,11,U.S. Senate,,REP,Gordon Leitch,21
+Hood River,12,U.S. Senate,,REP,Gordon Leitch,13
+Hood River,13,U.S. Senate,,REP,Gordon Leitch,26
+Hood River,1,U.S. Senate,,,Write-In Votes,0
+Hood River,2,U.S. Senate,,,Write-In Votes,1
+Hood River,3,U.S. Senate,,,Write-In Votes,1
+Hood River,4,U.S. Senate,,,Write-In Votes,1
+Hood River,5,U.S. Senate,,,Write-In Votes,1
+Hood River,6,U.S. Senate,,,Write-In Votes,0
+Hood River,7,U.S. Senate,,,Write-In Votes,0
+Hood River,8,U.S. Senate,,,Write-In Votes,0
+Hood River,9,U.S. Senate,,,Write-In Votes,2
+Hood River,10,U.S. Senate,,,Write-In Votes,0
+Hood River,11,U.S. Senate,,,Write-In Votes,0
+Hood River,12,U.S. Senate,,,Write-In Votes,1
+Hood River,13,U.S. Senate,,,Write-In Votes,0
+Hood River,1,U.S. Senate,,,Over Votes,0
+Hood River,2,U.S. Senate,,,Over Votes,0
+Hood River,3,U.S. Senate,,,Over Votes,0
+Hood River,4,U.S. Senate,,,Over Votes,0
+Hood River,5,U.S. Senate,,,Over Votes,0
+Hood River,6,U.S. Senate,,,Over Votes,0
+Hood River,7,U.S. Senate,,,Over Votes,0
+Hood River,8,U.S. Senate,,,Over Votes,0
+Hood River,9,U.S. Senate,,,Over Votes,0
+Hood River,10,U.S. Senate,,,Over Votes,0
+Hood River,11,U.S. Senate,,,Over Votes,0
+Hood River,12,U.S. Senate,,,Over Votes,0
+Hood River,13,U.S. Senate,,,Over Votes,0
+Hood River,1,U.S. Senate,,,Under Votes,11
+Hood River,2,U.S. Senate,,,Under Votes,27
+Hood River,3,U.S. Senate,,,Under Votes,3
+Hood River,4,U.S. Senate,,,Under Votes,26
+Hood River,5,U.S. Senate,,,Under Votes,17
+Hood River,6,U.S. Senate,,,Under Votes,16
+Hood River,7,U.S. Senate,,,Under Votes,7
+Hood River,8,U.S. Senate,,,Under Votes,6
+Hood River,9,U.S. Senate,,,Under Votes,2
+Hood River,10,U.S. Senate,,,Under Votes,19
+Hood River,11,U.S. Senate,,,Under Votes,17
+Hood River,12,U.S. Senate,,,Under Votes,7
+Hood River,13,U.S. Senate,,,Under Votes,16
+Hood River,1,U.S. House,2,REP,Greg Walden,151
+Hood River,2,U.S. House,2,REP,Greg Walden,207
+Hood River,3,U.S. House,2,REP,Greg Walden,77
+Hood River,4,U.S. House,2,REP,Greg Walden,319
+Hood River,5,U.S. House,2,REP,Greg Walden,199
+Hood River,6,U.S. House,2,REP,Greg Walden,185
+Hood River,7,U.S. House,2,REP,Greg Walden,110
+Hood River,8,U.S. House,2,REP,Greg Walden,131
+Hood River,9,U.S. House,2,REP,Greg Walden,41
+Hood River,10,U.S. House,2,REP,Greg Walden,140
+Hood River,11,U.S. House,2,REP,Greg Walden,173
+Hood River,12,U.S. House,2,REP,Greg Walden,68
+Hood River,13,U.S. House,2,REP,Greg Walden,153
+Hood River,1,U.S. House,2,,Write-In Votes,0
+Hood River,2,U.S. House,2,,Write-In Votes,2
+Hood River,3,U.S. House,2,,Write-In Votes,0
+Hood River,4,U.S. House,2,,Write-In Votes,0
+Hood River,5,U.S. House,2,,Write-In Votes,3
+Hood River,6,U.S. House,2,,Write-In Votes,0
+Hood River,7,U.S. House,2,,Write-In Votes,2
+Hood River,8,U.S. House,2,,Write-In Votes,1
+Hood River,9,U.S. House,2,,Write-In Votes,1
+Hood River,10,U.S. House,2,,Write-In Votes,2
+Hood River,11,U.S. House,2,,Write-In Votes,0
+Hood River,12,U.S. House,2,,Write-In Votes,1
+Hood River,13,U.S. House,2,,Write-In Votes,0
+Hood River,1,U.S. House,2,,Over Votes,0
+Hood River,2,U.S. House,2,,Over Votes,0
+Hood River,3,U.S. House,2,,Over Votes,0
+Hood River,4,U.S. House,2,,Over Votes,0
+Hood River,5,U.S. House,2,,Over Votes,0
+Hood River,6,U.S. House,2,,Over Votes,0
+Hood River,7,U.S. House,2,,Over Votes,0
+Hood River,8,U.S. House,2,,Over Votes,0
+Hood River,9,U.S. House,2,,Over Votes,0
+Hood River,10,U.S. House,2,,Over Votes,0
+Hood River,11,U.S. House,2,,Over Votes,0
+Hood River,12,U.S. House,2,,Over Votes,0
+Hood River,13,U.S. House,2,,Over Votes,0
+Hood River,1,U.S. House,2,,Under Votes,15
+Hood River,2,U.S. House,2,,Under Votes,30
+Hood River,3,U.S. House,2,,Under Votes,7
+Hood River,4,U.S. House,2,,Under Votes,36
+Hood River,5,U.S. House,2,,Under Votes,19
+Hood River,6,U.S. House,2,,Under Votes,13
+Hood River,7,U.S. House,2,,Under Votes,13
+Hood River,8,U.S. House,2,,Under Votes,7
+Hood River,9,U.S. House,2,,Under Votes,4
+Hood River,10,U.S. House,2,,Under Votes,15
+Hood River,11,U.S. House,2,,Under Votes,28
+Hood River,12,U.S. House,2,,Under Votes,22
+Hood River,13,U.S. House,2,,Under Votes,21
+Hood River,1,Secretary of State,,REP,Rick Dancer,106
+Hood River,2,Secretary of State,,REP,Rick Dancer,147
+Hood River,3,Secretary of State,,REP,Rick Dancer,57
+Hood River,4,Secretary of State,,REP,Rick Dancer,211
+Hood River,5,Secretary of State,,REP,Rick Dancer,139
+Hood River,6,Secretary of State,,REP,Rick Dancer,133
+Hood River,7,Secretary of State,,REP,Rick Dancer,61
+Hood River,8,Secretary of State,,REP,Rick Dancer,96
+Hood River,9,Secretary of State,,REP,Rick Dancer,30
+Hood River,10,Secretary of State,,REP,Rick Dancer,98
+Hood River,11,Secretary of State,,REP,Rick Dancer,127
+Hood River,12,Secretary of State,,REP,Rick Dancer,52
+Hood River,13,Secretary of State,,REP,Rick Dancer,112
+Hood River,1,Secretary of State,,,Write-In Votes,0
+Hood River,2,Secretary of State,,,Write-In Votes,2
+Hood River,3,Secretary of State,,,Write-In Votes,1
+Hood River,4,Secretary of State,,,Write-In Votes,1
+Hood River,5,Secretary of State,,,Write-In Votes,1
+Hood River,6,Secretary of State,,,Write-In Votes,0
+Hood River,7,Secretary of State,,,Write-In Votes,5
+Hood River,8,Secretary of State,,,Write-In Votes,3
+Hood River,9,Secretary of State,,,Write-In Votes,1
+Hood River,10,Secretary of State,,,Write-In Votes,2
+Hood River,11,Secretary of State,,,Write-In Votes,0
+Hood River,12,Secretary of State,,,Write-In Votes,0
+Hood River,13,Secretary of State,,,Write-In Votes,0
+Hood River,1,Secretary of State,,,Over Votes,0
+Hood River,2,Secretary of State,,,Over Votes,0
+Hood River,3,Secretary of State,,,Over Votes,0
+Hood River,4,Secretary of State,,,Over Votes,0
+Hood River,5,Secretary of State,,,Over Votes,0
+Hood River,6,Secretary of State,,,Over Votes,0
+Hood River,7,Secretary of State,,,Over Votes,0
+Hood River,8,Secretary of State,,,Over Votes,0
+Hood River,9,Secretary of State,,,Over Votes,0
+Hood River,10,Secretary of State,,,Over Votes,0
+Hood River,11,Secretary of State,,,Over Votes,0
+Hood River,12,Secretary of State,,,Over Votes,0
+Hood River,13,Secretary of State,,,Over Votes,0
+Hood River,1,Secretary of State,,,Under Votes,60
+Hood River,2,Secretary of State,,,Under Votes,90
+Hood River,3,Secretary of State,,,Under Votes,26
+Hood River,4,Secretary of State,,,Under Votes,143
+Hood River,5,Secretary of State,,,Under Votes,81
+Hood River,6,Secretary of State,,,Under Votes,65
+Hood River,7,Secretary of State,,,Under Votes,59
+Hood River,8,Secretary of State,,,Under Votes,40
+Hood River,9,Secretary of State,,,Under Votes,15
+Hood River,10,Secretary of State,,,Under Votes,57
+Hood River,11,Secretary of State,,,Under Votes,74
+Hood River,12,Secretary of State,,,Under Votes,39
+Hood River,13,Secretary of State,,,Under Votes,62
+Hood River,1,State Treasurer,,REP,Allen Alley,102
+Hood River,2,State Treasurer,,REP,Allen Alley,143
+Hood River,3,State Treasurer,,REP,Allen Alley,57
+Hood River,4,State Treasurer,,REP,Allen Alley,210
+Hood River,5,State Treasurer,,REP,Allen Alley,135
+Hood River,6,State Treasurer,,REP,Allen Alley,127
+Hood River,7,State Treasurer,,REP,Allen Alley,60
+Hood River,8,State Treasurer,,REP,Allen Alley,97
+Hood River,9,State Treasurer,,REP,Allen Alley,28
+Hood River,10,State Treasurer,,REP,Allen Alley,97
+Hood River,11,State Treasurer,,REP,Allen Alley,116
+Hood River,12,State Treasurer,,REP,Allen Alley,52
+Hood River,13,State Treasurer,,REP,Allen Alley,108
+Hood River,1,State Treasurer,,,Write-In Votes,0
+Hood River,2,State Treasurer,,,Write-In Votes,2
+Hood River,3,State Treasurer,,,Write-In Votes,0
+Hood River,4,State Treasurer,,,Write-In Votes,1
+Hood River,5,State Treasurer,,,Write-In Votes,3
+Hood River,6,State Treasurer,,,Write-In Votes,2
+Hood River,7,State Treasurer,,,Write-In Votes,2
+Hood River,8,State Treasurer,,,Write-In Votes,0
+Hood River,9,State Treasurer,,,Write-In Votes,1
+Hood River,10,State Treasurer,,,Write-In Votes,0
+Hood River,11,State Treasurer,,,Write-In Votes,0
+Hood River,12,State Treasurer,,,Write-In Votes,0
+Hood River,13,State Treasurer,,,Write-In Votes,0
+Hood River,1,State Treasurer,,,Over Votes,0
+Hood River,2,State Treasurer,,,Over Votes,0
+Hood River,3,State Treasurer,,,Over Votes,0
+Hood River,4,State Treasurer,,,Over Votes,0
+Hood River,5,State Treasurer,,,Over Votes,0
+Hood River,6,State Treasurer,,,Over Votes,0
+Hood River,7,State Treasurer,,,Over Votes,0
+Hood River,8,State Treasurer,,,Over Votes,0
+Hood River,9,State Treasurer,,,Over Votes,0
+Hood River,10,State Treasurer,,,Over Votes,0
+Hood River,11,State Treasurer,,,Over Votes,0
+Hood River,12,State Treasurer,,,Over Votes,0
+Hood River,13,State Treasurer,,,Over Votes,0
+Hood River,1,State Treasurer,,,Under Votes,64
+Hood River,2,State Treasurer,,,Under Votes,94
+Hood River,3,State Treasurer,,,Under Votes,27
+Hood River,4,State Treasurer,,,Under Votes,144
+Hood River,5,State Treasurer,,,Under Votes,83
+Hood River,6,State Treasurer,,,Under Votes,69
+Hood River,7,State Treasurer,,,Under Votes,63
+Hood River,8,State Treasurer,,,Under Votes,42
+Hood River,9,State Treasurer,,,Under Votes,17
+Hood River,10,State Treasurer,,,Under Votes,60
+Hood River,11,State Treasurer,,,Under Votes,85
+Hood River,12,State Treasurer,,,Under Votes,39
+Hood River,13,State Treasurer,,,Under Votes,66
+Hood River,1,Attorney General,,,Write-In Votes,2
+Hood River,2,Attorney General,,,Write-In Votes,8
+Hood River,3,Attorney General,,,Write-In Votes,8
+Hood River,4,Attorney General,,,Write-In Votes,22
+Hood River,5,Attorney General,,,Write-In Votes,16
+Hood River,6,Attorney General,,,Write-In Votes,6
+Hood River,7,Attorney General,,,Write-In Votes,5
+Hood River,8,Attorney General,,,Write-In Votes,10
+Hood River,9,Attorney General,,,Write-In Votes,2
+Hood River,10,Attorney General,,,Write-In Votes,7
+Hood River,11,Attorney General,,,Write-In Votes,6
+Hood River,12,Attorney General,,,Write-In Votes,6
+Hood River,13,Attorney General,,,Write-In Votes,3
+Hood River,1,Attorney General,,,Over Votes,0
+Hood River,2,Attorney General,,,Over Votes,0
+Hood River,3,Attorney General,,,Over Votes,0
+Hood River,4,Attorney General,,,Over Votes,0
+Hood River,5,Attorney General,,,Over Votes,0
+Hood River,6,Attorney General,,,Over Votes,0
+Hood River,7,Attorney General,,,Over Votes,0
+Hood River,8,Attorney General,,,Over Votes,0
+Hood River,9,Attorney General,,,Over Votes,0
+Hood River,10,Attorney General,,,Over Votes,0
+Hood River,11,Attorney General,,,Over Votes,0
+Hood River,12,Attorney General,,,Over Votes,0
+Hood River,13,Attorney General,,,Over Votes,0
+Hood River,1,Attorney General,,,Under Votes,164
+Hood River,2,Attorney General,,,Under Votes,231
+Hood River,3,Attorney General,,,Under Votes,76
+Hood River,4,Attorney General,,,Under Votes,333
+Hood River,5,Attorney General,,,Under Votes,205
+Hood River,6,Attorney General,,,Under Votes,192
+Hood River,7,Attorney General,,,Under Votes,120
+Hood River,8,Attorney General,,,Under Votes,129
+Hood River,9,Attorney General,,,Under Votes,44
+Hood River,10,Attorney General,,,Under Votes,150
+Hood River,11,Attorney General,,,Under Votes,195
+Hood River,12,Attorney General,,,Under Votes,85
+Hood River,13,Attorney General,,,Under Votes,171
+Hood River,1,State House,52,REP,Phyllis Thiemann,68
+Hood River,2,State House,52,REP,Phyllis Thiemann,81
+Hood River,3,State House,52,REP,Phyllis Thiemann,41
+Hood River,4,State House,52,REP,Phyllis Thiemann,149
+Hood River,5,State House,52,REP,Phyllis Thiemann,91
+Hood River,6,State House,52,REP,Phyllis Thiemann,60
+Hood River,7,State House,52,REP,Phyllis Thiemann,41
+Hood River,8,State House,52,REP,Phyllis Thiemann,67
+Hood River,9,State House,52,REP,Phyllis Thiemann,18
+Hood River,10,State House,52,REP,Phyllis Thiemann,54
+Hood River,11,State House,52,REP,Phyllis Thiemann,80
+Hood River,12,State House,52,REP,Phyllis Thiemann,38
+Hood River,13,State House,52,REP,Phyllis Thiemann,64
+Hood River,1,State House,52,REP,Matt Lindland,53
+Hood River,2,State House,52,REP,Matt Lindland,102
+Hood River,3,State House,52,REP,Matt Lindland,27
+Hood River,4,State House,52,REP,Matt Lindland,134
+Hood River,5,State House,52,REP,Matt Lindland,80
+Hood River,6,State House,52,REP,Matt Lindland,90
+Hood River,7,State House,52,REP,Matt Lindland,51
+Hood River,8,State House,52,REP,Matt Lindland,50
+Hood River,9,State House,52,REP,Matt Lindland,20
+Hood River,10,State House,52,REP,Matt Lindland,65
+Hood River,11,State House,52,REP,Matt Lindland,77
+Hood River,12,State House,52,REP,Matt Lindland,44
+Hood River,13,State House,52,REP,Matt Lindland,76
+Hood River,1,State House,52,,Write-In Votes,0
+Hood River,2,State House,52,,Write-In Votes,1
+Hood River,3,State House,52,,Write-In Votes,1
+Hood River,4,State House,52,,Write-In Votes,1
+Hood River,5,State House,52,,Write-In Votes,0
+Hood River,6,State House,52,,Write-In Votes,0
+Hood River,7,State House,52,,Write-In Votes,1
+Hood River,8,State House,52,,Write-In Votes,0
+Hood River,9,State House,52,,Write-In Votes,1
+Hood River,10,State House,52,,Write-In Votes,0
+Hood River,11,State House,52,,Write-In Votes,1
+Hood River,12,State House,52,,Write-In Votes,0
+Hood River,13,State House,52,,Write-In Votes,1
+Hood River,1,State House,52,,Over Votes,0
+Hood River,2,State House,52,,Over Votes,0
+Hood River,3,State House,52,,Over Votes,0
+Hood River,4,State House,52,,Over Votes,0
+Hood River,5,State House,52,,Over Votes,2
+Hood River,6,State House,52,,Over Votes,0
+Hood River,7,State House,52,,Over Votes,0
+Hood River,8,State House,52,,Over Votes,0
+Hood River,9,State House,52,,Over Votes,0
+Hood River,10,State House,52,,Over Votes,0
+Hood River,11,State House,52,,Over Votes,0
+Hood River,12,State House,52,,Over Votes,0
+Hood River,13,State House,52,,Over Votes,0
+Hood River,1,State House,52,,Under Votes,45
+Hood River,2,State House,52,,Under Votes,55
+Hood River,3,State House,52,,Under Votes,15
+Hood River,4,State House,52,,Under Votes,71
+Hood River,5,State House,52,,Under Votes,48
+Hood River,6,State House,52,,Under Votes,48
+Hood River,7,State House,52,,Under Votes,32
+Hood River,8,State House,52,,Under Votes,22
+Hood River,9,State House,52,,Under Votes,7
+Hood River,10,State House,52,,Under Votes,38
+Hood River,11,State House,52,,Under Votes,43
+Hood River,12,State House,52,,Under Votes,9
+Hood River,13,State House,52,,Under Votes,33
