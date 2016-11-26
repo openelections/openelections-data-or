@@ -1,0 +1,2857 @@
+county,precinct,office,district,party,candidate,votes
+Klamath,PRECINCT 1,President,,DEM,Hillary Clinton,206
+Klamath,PRECINCT 2,President,,DEM,Hillary Clinton,4
+Klamath,PRECINCT 3,President,,DEM,Hillary Clinton,97
+Klamath,PRECINCT 4,President,,DEM,Hillary Clinton,116
+Klamath,PRECINCT 5,President,,DEM,Hillary Clinton,30
+Klamath,PRECINCT 6,President,,DEM,Hillary Clinton,18
+Klamath,PRECINCT 7,President,,DEM,Hillary Clinton,233
+Klamath,PRECINCT 8,President,,DEM,Hillary Clinton,53
+Klamath,PRECINCT 9,President,,DEM,Hillary Clinton,45
+Klamath,PRECINCT 10,President,,DEM,Hillary Clinton,20
+Klamath,PRECINCT 11,President,,DEM,Hillary Clinton,128
+Klamath,PRECINCT 12,President,,DEM,Hillary Clinton,78
+Klamath,PRECINCT 13,President,,DEM,Hillary Clinton,153
+Klamath,PRECINCT 14,President,,DEM,Hillary Clinton,15
+Klamath,PRECINCT 15,President,,DEM,Hillary Clinton,42
+Klamath,PRECINCT 16,President,,DEM,Hillary Clinton,14
+Klamath,PRECINCT 17,President,,DEM,Hillary Clinton,28
+Klamath,PRECINCT 18,President,,DEM,Hillary Clinton,114
+Klamath,PRECINCT 19,President,,DEM,Hillary Clinton,41
+Klamath,PRECINCT 20,President,,DEM,Hillary Clinton,97
+Klamath,PRECINCT 21,President,,DEM,Hillary Clinton,251
+Klamath,PRECINCT 22,President,,DEM,Hillary Clinton,76
+Klamath,PRECINCT 23,President,,DEM,Hillary Clinton,220
+Klamath,PRECINCT 24,President,,DEM,Hillary Clinton,68
+Klamath,PRECINCT 25,President,,DEM,Hillary Clinton,105
+Klamath,PRECINCT 26,President,,DEM,Hillary Clinton,110
+Klamath,PRECINCT 27,President,,DEM,Hillary Clinton,161
+Klamath,PRECINCT 28,President,,DEM,Hillary Clinton,36
+Klamath,PRECINCT 29,President,,DEM,Hillary Clinton,85
+Klamath,PRECINCT 30,President,,DEM,Hillary Clinton,95
+Klamath,PRECINCT 31,President,,DEM,Hillary Clinton,115
+Klamath,PRECINCT 32,President,,DEM,Hillary Clinton,18
+Klamath,PRECINCT 33,President,,DEM,Hillary Clinton,75
+Klamath,PRECINCT 34,President,,DEM,Hillary Clinton,62
+Klamath,PRECINCT 35,President,,DEM,Hillary Clinton,35
+Klamath,PRECINCT 36,President,,DEM,Hillary Clinton,81
+Klamath,PRECINCT 37,President,,DEM,Hillary Clinton,93
+Klamath,PRECINCT 38,President,,DEM,Hillary Clinton,63
+Klamath,PRECINCT 39,President,,DEM,Hillary Clinton,15
+Klamath,PRECINCT 40,President,,DEM,Hillary Clinton,94
+Klamath,PRECINCT 41,President,,DEM,Hillary Clinton,78
+Klamath,PRECINCT 42,President,,DEM,Hillary Clinton,44
+Klamath,PRECINCT 1,President,,DEM,Barack Obama,143
+Klamath,PRECINCT 2,President,,DEM,Barack Obama,5
+Klamath,PRECINCT 3,President,,DEM,Barack Obama,110
+Klamath,PRECINCT 4,President,,DEM,Barack Obama,74
+Klamath,PRECINCT 5,President,,DEM,Barack Obama,28
+Klamath,PRECINCT 6,President,,DEM,Barack Obama,10
+Klamath,PRECINCT 7,President,,DEM,Barack Obama,204
+Klamath,PRECINCT 8,President,,DEM,Barack Obama,57
+Klamath,PRECINCT 9,President,,DEM,Barack Obama,34
+Klamath,PRECINCT 10,President,,DEM,Barack Obama,30
+Klamath,PRECINCT 11,President,,DEM,Barack Obama,113
+Klamath,PRECINCT 12,President,,DEM,Barack Obama,55
+Klamath,PRECINCT 13,President,,DEM,Barack Obama,155
+Klamath,PRECINCT 14,President,,DEM,Barack Obama,13
+Klamath,PRECINCT 15,President,,DEM,Barack Obama,53
+Klamath,PRECINCT 16,President,,DEM,Barack Obama,14
+Klamath,PRECINCT 17,President,,DEM,Barack Obama,22
+Klamath,PRECINCT 18,President,,DEM,Barack Obama,80
+Klamath,PRECINCT 19,President,,DEM,Barack Obama,16
+Klamath,PRECINCT 20,President,,DEM,Barack Obama,72
+Klamath,PRECINCT 21,President,,DEM,Barack Obama,185
+Klamath,PRECINCT 22,President,,DEM,Barack Obama,39
+Klamath,PRECINCT 23,President,,DEM,Barack Obama,171
+Klamath,PRECINCT 24,President,,DEM,Barack Obama,53
+Klamath,PRECINCT 25,President,,DEM,Barack Obama,76
+Klamath,PRECINCT 26,President,,DEM,Barack Obama,95
+Klamath,PRECINCT 27,President,,DEM,Barack Obama,124
+Klamath,PRECINCT 28,President,,DEM,Barack Obama,30
+Klamath,PRECINCT 29,President,,DEM,Barack Obama,66
+Klamath,PRECINCT 30,President,,DEM,Barack Obama,97
+Klamath,PRECINCT 31,President,,DEM,Barack Obama,121
+Klamath,PRECINCT 32,President,,DEM,Barack Obama,40
+Klamath,PRECINCT 33,President,,DEM,Barack Obama,76
+Klamath,PRECINCT 34,President,,DEM,Barack Obama,45
+Klamath,PRECINCT 35,President,,DEM,Barack Obama,28
+Klamath,PRECINCT 36,President,,DEM,Barack Obama,68
+Klamath,PRECINCT 37,President,,DEM,Barack Obama,140
+Klamath,PRECINCT 38,President,,DEM,Barack Obama,67
+Klamath,PRECINCT 39,President,,DEM,Barack Obama,10
+Klamath,PRECINCT 40,President,,DEM,Barack Obama,60
+Klamath,PRECINCT 41,President,,DEM,Barack Obama,91
+Klamath,PRECINCT 42,President,,DEM,Barack Obama,25
+Klamath,PRECINCT 1,President,,DEM,Write-In,9
+Klamath,PRECINCT 2,President,,DEM,Write-In,0
+Klamath,PRECINCT 3,President,,DEM,Write-In,5
+Klamath,PRECINCT 4,President,,DEM,Write-In,9
+Klamath,PRECINCT 5,President,,DEM,Write-In,3
+Klamath,PRECINCT 6,President,,DEM,Write-In,0
+Klamath,PRECINCT 7,President,,DEM,Write-In,8
+Klamath,PRECINCT 8,President,,DEM,Write-In,7
+Klamath,PRECINCT 9,President,,DEM,Write-In,0
+Klamath,PRECINCT 10,President,,DEM,Write-In,1
+Klamath,PRECINCT 11,President,,DEM,Write-In,8
+Klamath,PRECINCT 12,President,,DEM,Write-In,5
+Klamath,PRECINCT 13,President,,DEM,Write-In,11
+Klamath,PRECINCT 14,President,,DEM,Write-In,0
+Klamath,PRECINCT 15,President,,DEM,Write-In,7
+Klamath,PRECINCT 16,President,,DEM,Write-In,1
+Klamath,PRECINCT 17,President,,DEM,Write-In,0
+Klamath,PRECINCT 18,President,,DEM,Write-In,9
+Klamath,PRECINCT 19,President,,DEM,Write-In,2
+Klamath,PRECINCT 20,President,,DEM,Write-In,23
+Klamath,PRECINCT 21,President,,DEM,Write-In,20
+Klamath,PRECINCT 22,President,,DEM,Write-In,5
+Klamath,PRECINCT 23,President,,DEM,Write-In,23
+Klamath,PRECINCT 24,President,,DEM,Write-In,5
+Klamath,PRECINCT 25,President,,DEM,Write-In,5
+Klamath,PRECINCT 26,President,,DEM,Write-In,7
+Klamath,PRECINCT 27,President,,DEM,Write-In,19
+Klamath,PRECINCT 28,President,,DEM,Write-In,4
+Klamath,PRECINCT 29,President,,DEM,Write-In,7
+Klamath,PRECINCT 30,President,,DEM,Write-In,6
+Klamath,PRECINCT 31,President,,DEM,Write-In,5
+Klamath,PRECINCT 32,President,,DEM,Write-In,0
+Klamath,PRECINCT 33,President,,DEM,Write-In,1
+Klamath,PRECINCT 34,President,,DEM,Write-In,5
+Klamath,PRECINCT 35,President,,DEM,Write-In,0
+Klamath,PRECINCT 36,President,,DEM,Write-In,6
+Klamath,PRECINCT 37,President,,DEM,Write-In,3
+Klamath,PRECINCT 38,President,,DEM,Write-In,5
+Klamath,PRECINCT 39,President,,DEM,Write-In,0
+Klamath,PRECINCT 40,President,,DEM,Write-In,0
+Klamath,PRECINCT 41,President,,DEM,Write-In,5
+Klamath,PRECINCT 42,President,,DEM,Write-In,6
+Klamath,PRECINCT 1,President,,DEM,Over Votes,0
+Klamath,PRECINCT 2,President,,DEM,Over Votes,0
+Klamath,PRECINCT 3,President,,DEM,Over Votes,0
+Klamath,PRECINCT 4,President,,DEM,Over Votes,0
+Klamath,PRECINCT 5,President,,DEM,Over Votes,0
+Klamath,PRECINCT 6,President,,DEM,Over Votes,0
+Klamath,PRECINCT 7,President,,DEM,Over Votes,0
+Klamath,PRECINCT 8,President,,DEM,Over Votes,0
+Klamath,PRECINCT 9,President,,DEM,Over Votes,0
+Klamath,PRECINCT 10,President,,DEM,Over Votes,0
+Klamath,PRECINCT 11,President,,DEM,Over Votes,0
+Klamath,PRECINCT 12,President,,DEM,Over Votes,0
+Klamath,PRECINCT 13,President,,DEM,Over Votes,0
+Klamath,PRECINCT 14,President,,DEM,Over Votes,0
+Klamath,PRECINCT 15,President,,DEM,Over Votes,0
+Klamath,PRECINCT 16,President,,DEM,Over Votes,0
+Klamath,PRECINCT 17,President,,DEM,Over Votes,0
+Klamath,PRECINCT 18,President,,DEM,Over Votes,0
+Klamath,PRECINCT 19,President,,DEM,Over Votes,0
+Klamath,PRECINCT 20,President,,DEM,Over Votes,0
+Klamath,PRECINCT 21,President,,DEM,Over Votes,0
+Klamath,PRECINCT 22,President,,DEM,Over Votes,0
+Klamath,PRECINCT 23,President,,DEM,Over Votes,1
+Klamath,PRECINCT 24,President,,DEM,Over Votes,0
+Klamath,PRECINCT 25,President,,DEM,Over Votes,0
+Klamath,PRECINCT 26,President,,DEM,Over Votes,0
+Klamath,PRECINCT 27,President,,DEM,Over Votes,1
+Klamath,PRECINCT 28,President,,DEM,Over Votes,0
+Klamath,PRECINCT 29,President,,DEM,Over Votes,0
+Klamath,PRECINCT 30,President,,DEM,Over Votes,0
+Klamath,PRECINCT 31,President,,DEM,Over Votes,0
+Klamath,PRECINCT 32,President,,DEM,Over Votes,0
+Klamath,PRECINCT 33,President,,DEM,Over Votes,0
+Klamath,PRECINCT 34,President,,DEM,Over Votes,0
+Klamath,PRECINCT 35,President,,DEM,Over Votes,0
+Klamath,PRECINCT 36,President,,DEM,Over Votes,0
+Klamath,PRECINCT 37,President,,DEM,Over Votes,0
+Klamath,PRECINCT 38,President,,DEM,Over Votes,0
+Klamath,PRECINCT 39,President,,DEM,Over Votes,0
+Klamath,PRECINCT 40,President,,DEM,Over Votes,0
+Klamath,PRECINCT 41,President,,DEM,Over Votes,0
+Klamath,PRECINCT 42,President,,DEM,Over Votes,0
+Klamath,PRECINCT 1,President,,DEM,Under Votes,15
+Klamath,PRECINCT 2,President,,DEM,Under Votes,0
+Klamath,PRECINCT 3,President,,DEM,Under Votes,9
+Klamath,PRECINCT 4,President,,DEM,Under Votes,7
+Klamath,PRECINCT 5,President,,DEM,Under Votes,3
+Klamath,PRECINCT 6,President,,DEM,Under Votes,2
+Klamath,PRECINCT 7,President,,DEM,Under Votes,18
+Klamath,PRECINCT 8,President,,DEM,Under Votes,4
+Klamath,PRECINCT 9,President,,DEM,Under Votes,1
+Klamath,PRECINCT 10,President,,DEM,Under Votes,1
+Klamath,PRECINCT 11,President,,DEM,Under Votes,18
+Klamath,PRECINCT 12,President,,DEM,Under Votes,6
+Klamath,PRECINCT 13,President,,DEM,Under Votes,38
+Klamath,PRECINCT 14,President,,DEM,Under Votes,0
+Klamath,PRECINCT 15,President,,DEM,Under Votes,16
+Klamath,PRECINCT 16,President,,DEM,Under Votes,0
+Klamath,PRECINCT 17,President,,DEM,Under Votes,4
+Klamath,PRECINCT 18,President,,DEM,Under Votes,12
+Klamath,PRECINCT 19,President,,DEM,Under Votes,4
+Klamath,PRECINCT 20,President,,DEM,Under Votes,9
+Klamath,PRECINCT 21,President,,DEM,Under Votes,28
+Klamath,PRECINCT 22,President,,DEM,Under Votes,11
+Klamath,PRECINCT 23,President,,DEM,Under Votes,19
+Klamath,PRECINCT 24,President,,DEM,Under Votes,5
+Klamath,PRECINCT 25,President,,DEM,Under Votes,22
+Klamath,PRECINCT 26,President,,DEM,Under Votes,13
+Klamath,PRECINCT 27,President,,DEM,Under Votes,18
+Klamath,PRECINCT 28,President,,DEM,Under Votes,3
+Klamath,PRECINCT 29,President,,DEM,Under Votes,16
+Klamath,PRECINCT 30,President,,DEM,Under Votes,13
+Klamath,PRECINCT 31,President,,DEM,Under Votes,9
+Klamath,PRECINCT 32,President,,DEM,Under Votes,1
+Klamath,PRECINCT 33,President,,DEM,Under Votes,2
+Klamath,PRECINCT 34,President,,DEM,Under Votes,5
+Klamath,PRECINCT 35,President,,DEM,Under Votes,0
+Klamath,PRECINCT 36,President,,DEM,Under Votes,6
+Klamath,PRECINCT 37,President,,DEM,Under Votes,6
+Klamath,PRECINCT 38,President,,DEM,Under Votes,6
+Klamath,PRECINCT 39,President,,DEM,Under Votes,3
+Klamath,PRECINCT 40,President,,DEM,Under Votes,9
+Klamath,PRECINCT 41,President,,DEM,Under Votes,6
+Klamath,PRECINCT 42,President,,DEM,Under Votes,3
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Pavel Goberman,26
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Pavel Goberman,0
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Pavel Goberman,2
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Pavel Goberman,9
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Pavel Goberman,2
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Pavel Goberman,2
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Pavel Goberman,15
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Pavel Goberman,6
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Pavel Goberman,4
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Pavel Goberman,0
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Pavel Goberman,16
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Pavel Goberman,2
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Pavel Goberman,14
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Pavel Goberman,3
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Pavel Goberman,6
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Pavel Goberman,1
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Pavel Goberman,5
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Pavel Goberman,12
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Pavel Goberman,4
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Pavel Goberman,8
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Pavel Goberman,13
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Pavel Goberman,8
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Pavel Goberman,20
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Pavel Goberman,6
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Pavel Goberman,9
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Pavel Goberman,5
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Pavel Goberman,13
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Pavel Goberman,4
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Pavel Goberman,1
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Pavel Goberman,3
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Pavel Goberman,5
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Pavel Goberman,2
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Pavel Goberman,3
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Pavel Goberman,10
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Pavel Goberman,4
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Pavel Goberman,5
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Pavel Goberman,6
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Pavel Goberman,11
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Pavel Goberman,1
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Pavel Goberman,6
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Pavel Goberman,6
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Pavel Goberman,0
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Jeff Merkley,113
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Jeff Merkley,4
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Jeff Merkley,110
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Jeff Merkley,62
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Jeff Merkley,18
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Jeff Merkley,13
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Jeff Merkley,180
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Jeff Merkley,41
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Jeff Merkley,36
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Jeff Merkley,17
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Jeff Merkley,83
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Jeff Merkley,61
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Jeff Merkley,136
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Jeff Merkley,12
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Jeff Merkley,42
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Jeff Merkley,8
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Jeff Merkley,20
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Jeff Merkley,81
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Jeff Merkley,20
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Jeff Merkley,52
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Jeff Merkley,168
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Jeff Merkley,45
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Jeff Merkley,166
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Jeff Merkley,51
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Jeff Merkley,74
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Jeff Merkley,88
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Jeff Merkley,114
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Jeff Merkley,21
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Jeff Merkley,66
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Jeff Merkley,78
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Jeff Merkley,85
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Jeff Merkley,21
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Jeff Merkley,64
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Jeff Merkley,31
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Jeff Merkley,15
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Jeff Merkley,58
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Jeff Merkley,80
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Jeff Merkley,56
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Jeff Merkley,9
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Jeff Merkley,61
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Jeff Merkley,52
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Jeff Merkley,26
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Roger S. Orbist,15
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Roger S. Orbist,0
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Roger S. Orbist,6
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Roger S. Orbist,8
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Roger S. Orbist,2
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Roger S. Orbist,1
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Roger S. Orbist,14
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Roger S. Orbist,5
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Roger S. Orbist,2
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Roger S. Orbist,0
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Roger S. Orbist,11
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Roger S. Orbist,3
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Roger S. Orbist,4
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Roger S. Orbist,6
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Roger S. Orbist,2
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Roger S. Orbist,1
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Roger S. Orbist,1
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Roger S. Orbist,6
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Roger S. Orbist,3
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Roger S. Orbist,10
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Roger S. Orbist,17
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Roger S. Orbist,5
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Roger S. Orbist,19
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Roger S. Orbist,3
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Roger S. Orbist,7
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Roger S. Orbist,6
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Roger S. Orbist,10
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Roger S. Orbist,7
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Roger S. Orbist,0
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Roger S. Orbist,3
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Roger S. Orbist,12
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Roger S. Orbist,2
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Roger S. Orbist,2
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Roger S. Orbist,3
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Roger S. Orbist,3
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Roger S. Orbist,13
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Roger S. Orbist,4
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Roger S. Orbist,4
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Roger S. Orbist,2
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Roger S. Orbist,7
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Roger S. Orbist,6
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Roger S. Orbist,3
+Klamath,PRECINCT 1,U.S. Senate,,DEM,David Loera,5
+Klamath,PRECINCT 2,U.S. Senate,,DEM,David Loera,1
+Klamath,PRECINCT 3,U.S. Senate,,DEM,David Loera,2
+Klamath,PRECINCT 4,U.S. Senate,,DEM,David Loera,3
+Klamath,PRECINCT 5,U.S. Senate,,DEM,David Loera,0
+Klamath,PRECINCT 6,U.S. Senate,,DEM,David Loera,0
+Klamath,PRECINCT 7,U.S. Senate,,DEM,David Loera,12
+Klamath,PRECINCT 8,U.S. Senate,,DEM,David Loera,0
+Klamath,PRECINCT 9,U.S. Senate,,DEM,David Loera,2
+Klamath,PRECINCT 10,U.S. Senate,,DEM,David Loera,1
+Klamath,PRECINCT 11,U.S. Senate,,DEM,David Loera,5
+Klamath,PRECINCT 12,U.S. Senate,,DEM,David Loera,0
+Klamath,PRECINCT 13,U.S. Senate,,DEM,David Loera,3
+Klamath,PRECINCT 14,U.S. Senate,,DEM,David Loera,0
+Klamath,PRECINCT 15,U.S. Senate,,DEM,David Loera,2
+Klamath,PRECINCT 16,U.S. Senate,,DEM,David Loera,1
+Klamath,PRECINCT 17,U.S. Senate,,DEM,David Loera,2
+Klamath,PRECINCT 18,U.S. Senate,,DEM,David Loera,5
+Klamath,PRECINCT 19,U.S. Senate,,DEM,David Loera,2
+Klamath,PRECINCT 20,U.S. Senate,,DEM,David Loera,7
+Klamath,PRECINCT 21,U.S. Senate,,DEM,David Loera,7
+Klamath,PRECINCT 22,U.S. Senate,,DEM,David Loera,2
+Klamath,PRECINCT 23,U.S. Senate,,DEM,David Loera,19
+Klamath,PRECINCT 24,U.S. Senate,,DEM,David Loera,5
+Klamath,PRECINCT 25,U.S. Senate,,DEM,David Loera,4
+Klamath,PRECINCT 26,U.S. Senate,,DEM,David Loera,4
+Klamath,PRECINCT 27,U.S. Senate,,DEM,David Loera,9
+Klamath,PRECINCT 28,U.S. Senate,,DEM,David Loera,3
+Klamath,PRECINCT 29,U.S. Senate,,DEM,David Loera,12
+Klamath,PRECINCT 30,U.S. Senate,,DEM,David Loera,7
+Klamath,PRECINCT 31,U.S. Senate,,DEM,David Loera,3
+Klamath,PRECINCT 32,U.S. Senate,,DEM,David Loera,0
+Klamath,PRECINCT 33,U.S. Senate,,DEM,David Loera,3
+Klamath,PRECINCT 34,U.S. Senate,,DEM,David Loera,4
+Klamath,PRECINCT 35,U.S. Senate,,DEM,David Loera,1
+Klamath,PRECINCT 36,U.S. Senate,,DEM,David Loera,5
+Klamath,PRECINCT 37,U.S. Senate,,DEM,David Loera,7
+Klamath,PRECINCT 38,U.S. Senate,,DEM,David Loera,2
+Klamath,PRECINCT 39,U.S. Senate,,DEM,David Loera,1
+Klamath,PRECINCT 40,U.S. Senate,,DEM,David Loera,8
+Klamath,PRECINCT 41,U.S. Senate,,DEM,David Loera,3
+Klamath,PRECINCT 42,U.S. Senate,,DEM,David Loera,0
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Candy Neville,50
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Candy Neville,2
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Candy Neville,22
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Candy Neville,31
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Candy Neville,10
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Candy Neville,5
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Candy Neville,56
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Candy Neville,14
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Candy Neville,9
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Candy Neville,3
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Candy Neville,34
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Candy Neville,15
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Candy Neville,30
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Candy Neville,0
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Candy Neville,7
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Candy Neville,4
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Candy Neville,4
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Candy Neville,24
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Candy Neville,13
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Candy Neville,30
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Candy Neville,48
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Candy Neville,19
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Candy Neville,52
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Candy Neville,14
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Candy Neville,28
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Candy Neville,27
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Candy Neville,35
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Candy Neville,5
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Candy Neville,14
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Candy Neville,17
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Candy Neville,22
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Candy Neville,2
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Candy Neville,13
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Candy Neville,19
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Candy Neville,11
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Candy Neville,18
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Candy Neville,20
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Candy Neville,11
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Candy Neville,2
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Candy Neville,22
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Candy Neville,21
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Candy Neville,11
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Steve Novick,98
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Steve Novick,1
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Steve Novick,47
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Steve Novick,45
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Steve Novick,12
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Steve Novick,3
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Steve Novick,75
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Steve Novick,22
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Steve Novick,12
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Steve Novick,15
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Steve Novick,65
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Steve Novick,25
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Steve Novick,78
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Steve Novick,2
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Steve Novick,20
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Steve Novick,10
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Steve Novick,8
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Steve Novick,38
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Steve Novick,13
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Steve Novick,50
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Steve Novick,122
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Steve Novick,24
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Steve Novick,74
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Steve Novick,17
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Steve Novick,36
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Steve Novick,40
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Steve Novick,62
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Steve Novick,14
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Steve Novick,34
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Steve Novick,50
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Steve Novick,55
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Steve Novick,14
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Steve Novick,42
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Steve Novick,22
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Steve Novick,16
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Steve Novick,34
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Steve Novick,68
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Steve Novick,37
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Steve Novick,7
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Steve Novick,34
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Steve Novick,51
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Steve Novick,16
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Write-In,2
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Write-In,3
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Write-In,3
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Write-In,2
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Write-In,6
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Write-In,2
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Write-In,7
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Write-In,10
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Write-In,7
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Write-In,5
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Write-In,8
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Write-In,7
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Write-In,5
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Write-In,3
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Write-In,3
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Write-In,2
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Write-In,3
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Write-In,2
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Write-In,1
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Write-In,0
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Write-In,3
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Write-In,3
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Over Votes,1
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Over Votes,1
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Over Votes,1
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Over Votes,1
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Over Votes,1
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Over Votes,2
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Over Votes,0
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Under Votes,63
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Under Votes,1
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Under Votes,29
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Under Votes,45
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Under Votes,19
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Under Votes,6
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Under Votes,109
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Under Votes,32
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Under Votes,14
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Under Votes,15
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Under Votes,52
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Under Votes,37
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Under Votes,86
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Under Votes,5
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Under Votes,37
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Under Votes,4
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Under Votes,13
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Under Votes,41
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Under Votes,8
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Under Votes,34
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Under Votes,102
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Under Votes,23
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Under Votes,76
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Under Votes,28
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Under Votes,45
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Under Votes,52
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Under Votes,77
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Under Votes,17
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Under Votes,43
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Under Votes,53
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Under Votes,66
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Under Votes,18
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Under Votes,26
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Under Votes,27
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Under Votes,12
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Under Votes,28
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Under Votes,56
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Under Votes,18
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Under Votes,6
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Under Votes,23
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Under Votes,38
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Under Votes,19
+Klamath,PRECINCT 1,U.S. House,2,DEM,Noah Lemas,246
+Klamath,PRECINCT 2,U.S. House,2,DEM,Noah Lemas,6
+Klamath,PRECINCT 3,U.S. House,2,DEM,Noah Lemas,145
+Klamath,PRECINCT 4,U.S. House,2,DEM,Noah Lemas,123
+Klamath,PRECINCT 5,U.S. House,2,DEM,Noah Lemas,31
+Klamath,PRECINCT 6,U.S. House,2,DEM,Noah Lemas,18
+Klamath,PRECINCT 7,U.S. House,2,DEM,Noah Lemas,287
+Klamath,PRECINCT 8,U.S. House,2,DEM,Noah Lemas,68
+Klamath,PRECINCT 9,U.S. House,2,DEM,Noah Lemas,42
+Klamath,PRECINCT 10,U.S. House,2,DEM,Noah Lemas,38
+Klamath,PRECINCT 11,U.S. House,2,DEM,Noah Lemas,158
+Klamath,PRECINCT 12,U.S. House,2,DEM,Noah Lemas,78
+Klamath,PRECINCT 13,U.S. House,2,DEM,Noah Lemas,191
+Klamath,PRECINCT 14,U.S. House,2,DEM,Noah Lemas,19
+Klamath,PRECINCT 15,U.S. House,2,DEM,Noah Lemas,55
+Klamath,PRECINCT 16,U.S. House,2,DEM,Noah Lemas,21
+Klamath,PRECINCT 17,U.S. House,2,DEM,Noah Lemas,34
+Klamath,PRECINCT 18,U.S. House,2,DEM,Noah Lemas,132
+Klamath,PRECINCT 19,U.S. House,2,DEM,Noah Lemas,37
+Klamath,PRECINCT 20,U.S. House,2,DEM,Noah Lemas,129
+Klamath,PRECINCT 21,U.S. House,2,DEM,Noah Lemas,285
+Klamath,PRECINCT 22,U.S. House,2,DEM,Noah Lemas,74
+Klamath,PRECINCT 23,U.S. House,2,DEM,Noah Lemas,290
+Klamath,PRECINCT 24,U.S. House,2,DEM,Noah Lemas,77
+Klamath,PRECINCT 25,U.S. House,2,DEM,Noah Lemas,116
+Klamath,PRECINCT 26,U.S. House,2,DEM,Noah Lemas,123
+Klamath,PRECINCT 27,U.S. House,2,DEM,Noah Lemas,196
+Klamath,PRECINCT 28,U.S. House,2,DEM,Noah Lemas,42
+Klamath,PRECINCT 29,U.S. House,2,DEM,Noah Lemas,103
+Klamath,PRECINCT 30,U.S. House,2,DEM,Noah Lemas,122
+Klamath,PRECINCT 31,U.S. House,2,DEM,Noah Lemas,141
+Klamath,PRECINCT 32,U.S. House,2,DEM,Noah Lemas,34
+Klamath,PRECINCT 33,U.S. House,2,DEM,Noah Lemas,93
+Klamath,PRECINCT 34,U.S. House,2,DEM,Noah Lemas,67
+Klamath,PRECINCT 35,U.S. House,2,DEM,Noah Lemas,42
+Klamath,PRECINCT 36,U.S. House,2,DEM,Noah Lemas,102
+Klamath,PRECINCT 37,U.S. House,2,DEM,Noah Lemas,143
+Klamath,PRECINCT 38,U.S. House,2,DEM,Noah Lemas,93
+Klamath,PRECINCT 39,U.S. House,2,DEM,Noah Lemas,15
+Klamath,PRECINCT 40,U.S. House,2,DEM,Noah Lemas,112
+Klamath,PRECINCT 41,U.S. House,2,DEM,Noah Lemas,116
+Klamath,PRECINCT 42,U.S. House,2,DEM,Noah Lemas,39
+Klamath,PRECINCT 1,U.S. House,2,DEM,Write-In,6
+Klamath,PRECINCT 2,U.S. House,2,DEM,Write-In,0
+Klamath,PRECINCT 3,U.S. House,2,DEM,Write-In,4
+Klamath,PRECINCT 4,U.S. House,2,DEM,Write-In,4
+Klamath,PRECINCT 5,U.S. House,2,DEM,Write-In,0
+Klamath,PRECINCT 6,U.S. House,2,DEM,Write-In,0
+Klamath,PRECINCT 7,U.S. House,2,DEM,Write-In,3
+Klamath,PRECINCT 8,U.S. House,2,DEM,Write-In,2
+Klamath,PRECINCT 9,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 10,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 11,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 12,U.S. House,2,DEM,Write-In,2
+Klamath,PRECINCT 13,U.S. House,2,DEM,Write-In,9
+Klamath,PRECINCT 14,U.S. House,2,DEM,Write-In,0
+Klamath,PRECINCT 15,U.S. House,2,DEM,Write-In,2
+Klamath,PRECINCT 16,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 17,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 18,U.S. House,2,DEM,Write-In,8
+Klamath,PRECINCT 19,U.S. House,2,DEM,Write-In,2
+Klamath,PRECINCT 20,U.S. House,2,DEM,Write-In,10
+Klamath,PRECINCT 21,U.S. House,2,DEM,Write-In,15
+Klamath,PRECINCT 22,U.S. House,2,DEM,Write-In,4
+Klamath,PRECINCT 23,U.S. House,2,DEM,Write-In,6
+Klamath,PRECINCT 24,U.S. House,2,DEM,Write-In,5
+Klamath,PRECINCT 25,U.S. House,2,DEM,Write-In,0
+Klamath,PRECINCT 26,U.S. House,2,DEM,Write-In,4
+Klamath,PRECINCT 27,U.S. House,2,DEM,Write-In,6
+Klamath,PRECINCT 28,U.S. House,2,DEM,Write-In,3
+Klamath,PRECINCT 29,U.S. House,2,DEM,Write-In,4
+Klamath,PRECINCT 30,U.S. House,2,DEM,Write-In,3
+Klamath,PRECINCT 31,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 32,U.S. House,2,DEM,Write-In,0
+Klamath,PRECINCT 33,U.S. House,2,DEM,Write-In,3
+Klamath,PRECINCT 34,U.S. House,2,DEM,Write-In,0
+Klamath,PRECINCT 35,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 36,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 37,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 38,U.S. House,2,DEM,Write-In,2
+Klamath,PRECINCT 39,U.S. House,2,DEM,Write-In,0
+Klamath,PRECINCT 40,U.S. House,2,DEM,Write-In,1
+Klamath,PRECINCT 41,U.S. House,2,DEM,Write-In,5
+Klamath,PRECINCT 42,U.S. House,2,DEM,Write-In,3
+Klamath,PRECINCT 1,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 2,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 3,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 4,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 5,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 6,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 7,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 8,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 9,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 10,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 11,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 12,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 13,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 14,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 15,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 16,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 17,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 18,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 19,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 20,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 21,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 22,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 23,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 24,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 25,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 26,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 27,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 28,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 29,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 30,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 31,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 32,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 33,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 34,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 35,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 36,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 37,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 38,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 39,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 40,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 41,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 42,U.S. House,2,DEM,Over Votes,0
+Klamath,PRECINCT 1,U.S. House,2,DEM,Under Votes,121
+Klamath,PRECINCT 2,U.S. House,2,DEM,Under Votes,3
+Klamath,PRECINCT 3,U.S. House,2,DEM,Under Votes,72
+Klamath,PRECINCT 4,U.S. House,2,DEM,Under Votes,79
+Klamath,PRECINCT 5,U.S. House,2,DEM,Under Votes,33
+Klamath,PRECINCT 6,U.S. House,2,DEM,Under Votes,12
+Klamath,PRECINCT 7,U.S. House,2,DEM,Under Votes,173
+Klamath,PRECINCT 8,U.S. House,2,DEM,Under Votes,51
+Klamath,PRECINCT 9,U.S. House,2,DEM,Under Votes,37
+Klamath,PRECINCT 10,U.S. House,2,DEM,Under Votes,13
+Klamath,PRECINCT 11,U.S. House,2,DEM,Under Votes,108
+Klamath,PRECINCT 12,U.S. House,2,DEM,Under Votes,64
+Klamath,PRECINCT 13,U.S. House,2,DEM,Under Votes,157
+Klamath,PRECINCT 14,U.S. House,2,DEM,Under Votes,9
+Klamath,PRECINCT 15,U.S. House,2,DEM,Under Votes,61
+Klamath,PRECINCT 16,U.S. House,2,DEM,Under Votes,7
+Klamath,PRECINCT 17,U.S. House,2,DEM,Under Votes,19
+Klamath,PRECINCT 18,U.S. House,2,DEM,Under Votes,75
+Klamath,PRECINCT 19,U.S. House,2,DEM,Under Votes,24
+Klamath,PRECINCT 20,U.S. House,2,DEM,Under Votes,62
+Klamath,PRECINCT 21,U.S. House,2,DEM,Under Votes,184
+Klamath,PRECINCT 22,U.S. House,2,DEM,Under Votes,53
+Klamath,PRECINCT 23,U.S. House,2,DEM,Under Votes,138
+Klamath,PRECINCT 24,U.S. House,2,DEM,Under Votes,49
+Klamath,PRECINCT 25,U.S. House,2,DEM,Under Votes,92
+Klamath,PRECINCT 26,U.S. House,2,DEM,Under Votes,98
+Klamath,PRECINCT 27,U.S. House,2,DEM,Under Votes,121
+Klamath,PRECINCT 28,U.S. House,2,DEM,Under Votes,28
+Klamath,PRECINCT 29,U.S. House,2,DEM,Under Votes,67
+Klamath,PRECINCT 30,U.S. House,2,DEM,Under Votes,86
+Klamath,PRECINCT 31,U.S. House,2,DEM,Under Votes,108
+Klamath,PRECINCT 32,U.S. House,2,DEM,Under Votes,25
+Klamath,PRECINCT 33,U.S. House,2,DEM,Under Votes,58
+Klamath,PRECINCT 34,U.S. House,2,DEM,Under Votes,50
+Klamath,PRECINCT 35,U.S. House,2,DEM,Under Votes,20
+Klamath,PRECINCT 36,U.S. House,2,DEM,Under Votes,58
+Klamath,PRECINCT 37,U.S. House,2,DEM,Under Votes,98
+Klamath,PRECINCT 38,U.S. House,2,DEM,Under Votes,46
+Klamath,PRECINCT 39,U.S. House,2,DEM,Under Votes,13
+Klamath,PRECINCT 40,U.S. House,2,DEM,Under Votes,50
+Klamath,PRECINCT 41,U.S. House,2,DEM,Under Votes,59
+Klamath,PRECINCT 42,U.S. House,2,DEM,Under Votes,36
+Klamath,PRECINCT 1,Secretary Of State,,DEM,Kate Brown,128
+Klamath,PRECINCT 2,Secretary Of State,,DEM,Kate Brown,4
+Klamath,PRECINCT 3,Secretary Of State,,DEM,Kate Brown,90
+Klamath,PRECINCT 4,Secretary Of State,,DEM,Kate Brown,77
+Klamath,PRECINCT 5,Secretary Of State,,DEM,Kate Brown,27
+Klamath,PRECINCT 6,Secretary Of State,,DEM,Kate Brown,5
+Klamath,PRECINCT 7,Secretary Of State,,DEM,Kate Brown,163
+Klamath,PRECINCT 8,Secretary Of State,,DEM,Kate Brown,46
+Klamath,PRECINCT 9,Secretary Of State,,DEM,Kate Brown,30
+Klamath,PRECINCT 10,Secretary Of State,,DEM,Kate Brown,23
+Klamath,PRECINCT 11,Secretary Of State,,DEM,Kate Brown,87
+Klamath,PRECINCT 12,Secretary Of State,,DEM,Kate Brown,46
+Klamath,PRECINCT 13,Secretary Of State,,DEM,Kate Brown,125
+Klamath,PRECINCT 14,Secretary Of State,,DEM,Kate Brown,12
+Klamath,PRECINCT 15,Secretary Of State,,DEM,Kate Brown,32
+Klamath,PRECINCT 16,Secretary Of State,,DEM,Kate Brown,16
+Klamath,PRECINCT 17,Secretary Of State,,DEM,Kate Brown,13
+Klamath,PRECINCT 18,Secretary Of State,,DEM,Kate Brown,75
+Klamath,PRECINCT 19,Secretary Of State,,DEM,Kate Brown,24
+Klamath,PRECINCT 20,Secretary Of State,,DEM,Kate Brown,67
+Klamath,PRECINCT 21,Secretary Of State,,DEM,Kate Brown,178
+Klamath,PRECINCT 22,Secretary Of State,,DEM,Kate Brown,43
+Klamath,PRECINCT 23,Secretary Of State,,DEM,Kate Brown,162
+Klamath,PRECINCT 24,Secretary Of State,,DEM,Kate Brown,46
+Klamath,PRECINCT 25,Secretary Of State,,DEM,Kate Brown,61
+Klamath,PRECINCT 26,Secretary Of State,,DEM,Kate Brown,74
+Klamath,PRECINCT 27,Secretary Of State,,DEM,Kate Brown,100
+Klamath,PRECINCT 28,Secretary Of State,,DEM,Kate Brown,25
+Klamath,PRECINCT 29,Secretary Of State,,DEM,Kate Brown,54
+Klamath,PRECINCT 30,Secretary Of State,,DEM,Kate Brown,85
+Klamath,PRECINCT 31,Secretary Of State,,DEM,Kate Brown,95
+Klamath,PRECINCT 32,Secretary Of State,,DEM,Kate Brown,24
+Klamath,PRECINCT 33,Secretary Of State,,DEM,Kate Brown,55
+Klamath,PRECINCT 34,Secretary Of State,,DEM,Kate Brown,51
+Klamath,PRECINCT 35,Secretary Of State,,DEM,Kate Brown,37
+Klamath,PRECINCT 36,Secretary Of State,,DEM,Kate Brown,79
+Klamath,PRECINCT 37,Secretary Of State,,DEM,Kate Brown,114
+Klamath,PRECINCT 38,Secretary Of State,,DEM,Kate Brown,66
+Klamath,PRECINCT 39,Secretary Of State,,DEM,Kate Brown,8
+Klamath,PRECINCT 40,Secretary Of State,,DEM,Kate Brown,61
+Klamath,PRECINCT 41,Secretary Of State,,DEM,Kate Brown,68
+Klamath,PRECINCT 42,Secretary Of State,,DEM,Kate Brown,25
+Klamath,PRECINCT 1,Secretary Of State,,DEM,Rick Metsger,101
+Klamath,PRECINCT 2,Secretary Of State,,DEM,Rick Metsger,2
+Klamath,PRECINCT 3,Secretary Of State,,DEM,Rick Metsger,49
+Klamath,PRECINCT 4,Secretary Of State,,DEM,Rick Metsger,34
+Klamath,PRECINCT 5,Secretary Of State,,DEM,Rick Metsger,7
+Klamath,PRECINCT 6,Secretary Of State,,DEM,Rick Metsger,11
+Klamath,PRECINCT 7,Secretary Of State,,DEM,Rick Metsger,94
+Klamath,PRECINCT 8,Secretary Of State,,DEM,Rick Metsger,19
+Klamath,PRECINCT 9,Secretary Of State,,DEM,Rick Metsger,17
+Klamath,PRECINCT 10,Secretary Of State,,DEM,Rick Metsger,11
+Klamath,PRECINCT 11,Secretary Of State,,DEM,Rick Metsger,55
+Klamath,PRECINCT 12,Secretary Of State,,DEM,Rick Metsger,30
+Klamath,PRECINCT 13,Secretary Of State,,DEM,Rick Metsger,76
+Klamath,PRECINCT 14,Secretary Of State,,DEM,Rick Metsger,4
+Klamath,PRECINCT 15,Secretary Of State,,DEM,Rick Metsger,19
+Klamath,PRECINCT 16,Secretary Of State,,DEM,Rick Metsger,6
+Klamath,PRECINCT 17,Secretary Of State,,DEM,Rick Metsger,10
+Klamath,PRECINCT 18,Secretary Of State,,DEM,Rick Metsger,55
+Klamath,PRECINCT 19,Secretary Of State,,DEM,Rick Metsger,12
+Klamath,PRECINCT 20,Secretary Of State,,DEM,Rick Metsger,46
+Klamath,PRECINCT 21,Secretary Of State,,DEM,Rick Metsger,109
+Klamath,PRECINCT 22,Secretary Of State,,DEM,Rick Metsger,24
+Klamath,PRECINCT 23,Secretary Of State,,DEM,Rick Metsger,120
+Klamath,PRECINCT 24,Secretary Of State,,DEM,Rick Metsger,26
+Klamath,PRECINCT 25,Secretary Of State,,DEM,Rick Metsger,62
+Klamath,PRECINCT 26,Secretary Of State,,DEM,Rick Metsger,47
+Klamath,PRECINCT 27,Secretary Of State,,DEM,Rick Metsger,76
+Klamath,PRECINCT 28,Secretary Of State,,DEM,Rick Metsger,16
+Klamath,PRECINCT 29,Secretary Of State,,DEM,Rick Metsger,46
+Klamath,PRECINCT 30,Secretary Of State,,DEM,Rick Metsger,40
+Klamath,PRECINCT 31,Secretary Of State,,DEM,Rick Metsger,56
+Klamath,PRECINCT 32,Secretary Of State,,DEM,Rick Metsger,14
+Klamath,PRECINCT 33,Secretary Of State,,DEM,Rick Metsger,32
+Klamath,PRECINCT 34,Secretary Of State,,DEM,Rick Metsger,18
+Klamath,PRECINCT 35,Secretary Of State,,DEM,Rick Metsger,9
+Klamath,PRECINCT 36,Secretary Of State,,DEM,Rick Metsger,33
+Klamath,PRECINCT 37,Secretary Of State,,DEM,Rick Metsger,34
+Klamath,PRECINCT 38,Secretary Of State,,DEM,Rick Metsger,32
+Klamath,PRECINCT 39,Secretary Of State,,DEM,Rick Metsger,8
+Klamath,PRECINCT 40,Secretary Of State,,DEM,Rick Metsger,41
+Klamath,PRECINCT 41,Secretary Of State,,DEM,Rick Metsger,33
+Klamath,PRECINCT 42,Secretary Of State,,DEM,Rick Metsger,14
+Klamath,PRECINCT 1,Secretary Of State,,DEM,Vicki L. Walker,53
+Klamath,PRECINCT 2,Secretary Of State,,DEM,Vicki L. Walker,0
+Klamath,PRECINCT 3,Secretary Of State,,DEM,Vicki L. Walker,34
+Klamath,PRECINCT 4,Secretary Of State,,DEM,Vicki L. Walker,27
+Klamath,PRECINCT 5,Secretary Of State,,DEM,Vicki L. Walker,12
+Klamath,PRECINCT 6,Secretary Of State,,DEM,Vicki L. Walker,7
+Klamath,PRECINCT 7,Secretary Of State,,DEM,Vicki L. Walker,70
+Klamath,PRECINCT 8,Secretary Of State,,DEM,Vicki L. Walker,18
+Klamath,PRECINCT 9,Secretary Of State,,DEM,Vicki L. Walker,12
+Klamath,PRECINCT 10,Secretary Of State,,DEM,Vicki L. Walker,4
+Klamath,PRECINCT 11,Secretary Of State,,DEM,Vicki L. Walker,47
+Klamath,PRECINCT 12,Secretary Of State,,DEM,Vicki L. Walker,27
+Klamath,PRECINCT 13,Secretary Of State,,DEM,Vicki L. Walker,38
+Klamath,PRECINCT 14,Secretary Of State,,DEM,Vicki L. Walker,3
+Klamath,PRECINCT 15,Secretary Of State,,DEM,Vicki L. Walker,18
+Klamath,PRECINCT 16,Secretary Of State,,DEM,Vicki L. Walker,1
+Klamath,PRECINCT 17,Secretary Of State,,DEM,Vicki L. Walker,13
+Klamath,PRECINCT 18,Secretary Of State,,DEM,Vicki L. Walker,22
+Klamath,PRECINCT 19,Secretary Of State,,DEM,Vicki L. Walker,15
+Klamath,PRECINCT 20,Secretary Of State,,DEM,Vicki L. Walker,36
+Klamath,PRECINCT 21,Secretary Of State,,DEM,Vicki L. Walker,50
+Klamath,PRECINCT 22,Secretary Of State,,DEM,Vicki L. Walker,22
+Klamath,PRECINCT 23,Secretary Of State,,DEM,Vicki L. Walker,55
+Klamath,PRECINCT 24,Secretary Of State,,DEM,Vicki L. Walker,21
+Klamath,PRECINCT 25,Secretary Of State,,DEM,Vicki L. Walker,34
+Klamath,PRECINCT 26,Secretary Of State,,DEM,Vicki L. Walker,28
+Klamath,PRECINCT 27,Secretary Of State,,DEM,Vicki L. Walker,52
+Klamath,PRECINCT 28,Secretary Of State,,DEM,Vicki L. Walker,8
+Klamath,PRECINCT 29,Secretary Of State,,DEM,Vicki L. Walker,20
+Klamath,PRECINCT 30,Secretary Of State,,DEM,Vicki L. Walker,26
+Klamath,PRECINCT 31,Secretary Of State,,DEM,Vicki L. Walker,31
+Klamath,PRECINCT 32,Secretary Of State,,DEM,Vicki L. Walker,0
+Klamath,PRECINCT 33,Secretary Of State,,DEM,Vicki L. Walker,23
+Klamath,PRECINCT 34,Secretary Of State,,DEM,Vicki L. Walker,18
+Klamath,PRECINCT 35,Secretary Of State,,DEM,Vicki L. Walker,7
+Klamath,PRECINCT 36,Secretary Of State,,DEM,Vicki L. Walker,12
+Klamath,PRECINCT 37,Secretary Of State,,DEM,Vicki L. Walker,30
+Klamath,PRECINCT 38,Secretary Of State,,DEM,Vicki L. Walker,17
+Klamath,PRECINCT 39,Secretary Of State,,DEM,Vicki L. Walker,4
+Klamath,PRECINCT 40,Secretary Of State,,DEM,Vicki L. Walker,30
+Klamath,PRECINCT 41,Secretary Of State,,DEM,Vicki L. Walker,39
+Klamath,PRECINCT 42,Secretary Of State,,DEM,Vicki L. Walker,18
+Klamath,PRECINCT 1,Secretary Of State,,DEM,Paul Damian Wells,20
+Klamath,PRECINCT 2,Secretary Of State,,DEM,Paul Damian Wells,3
+Klamath,PRECINCT 3,Secretary Of State,,DEM,Paul Damian Wells,12
+Klamath,PRECINCT 4,Secretary Of State,,DEM,Paul Damian Wells,15
+Klamath,PRECINCT 5,Secretary Of State,,DEM,Paul Damian Wells,3
+Klamath,PRECINCT 6,Secretary Of State,,DEM,Paul Damian Wells,2
+Klamath,PRECINCT 7,Secretary Of State,,DEM,Paul Damian Wells,20
+Klamath,PRECINCT 8,Secretary Of State,,DEM,Paul Damian Wells,5
+Klamath,PRECINCT 9,Secretary Of State,,DEM,Paul Damian Wells,5
+Klamath,PRECINCT 10,Secretary Of State,,DEM,Paul Damian Wells,1
+Klamath,PRECINCT 11,Secretary Of State,,DEM,Paul Damian Wells,23
+Klamath,PRECINCT 12,Secretary Of State,,DEM,Paul Damian Wells,4
+Klamath,PRECINCT 13,Secretary Of State,,DEM,Paul Damian Wells,25
+Klamath,PRECINCT 14,Secretary Of State,,DEM,Paul Damian Wells,2
+Klamath,PRECINCT 15,Secretary Of State,,DEM,Paul Damian Wells,12
+Klamath,PRECINCT 16,Secretary Of State,,DEM,Paul Damian Wells,3
+Klamath,PRECINCT 17,Secretary Of State,,DEM,Paul Damian Wells,3
+Klamath,PRECINCT 18,Secretary Of State,,DEM,Paul Damian Wells,14
+Klamath,PRECINCT 19,Secretary Of State,,DEM,Paul Damian Wells,3
+Klamath,PRECINCT 20,Secretary Of State,,DEM,Paul Damian Wells,13
+Klamath,PRECINCT 21,Secretary Of State,,DEM,Paul Damian Wells,24
+Klamath,PRECINCT 22,Secretary Of State,,DEM,Paul Damian Wells,6
+Klamath,PRECINCT 23,Secretary Of State,,DEM,Paul Damian Wells,19
+Klamath,PRECINCT 24,Secretary Of State,,DEM,Paul Damian Wells,5
+Klamath,PRECINCT 25,Secretary Of State,,DEM,Paul Damian Wells,10
+Klamath,PRECINCT 26,Secretary Of State,,DEM,Paul Damian Wells,10
+Klamath,PRECINCT 27,Secretary Of State,,DEM,Paul Damian Wells,11
+Klamath,PRECINCT 28,Secretary Of State,,DEM,Paul Damian Wells,2
+Klamath,PRECINCT 29,Secretary Of State,,DEM,Paul Damian Wells,12
+Klamath,PRECINCT 30,Secretary Of State,,DEM,Paul Damian Wells,7
+Klamath,PRECINCT 31,Secretary Of State,,DEM,Paul Damian Wells,5
+Klamath,PRECINCT 32,Secretary Of State,,DEM,Paul Damian Wells,3
+Klamath,PRECINCT 33,Secretary Of State,,DEM,Paul Damian Wells,10
+Klamath,PRECINCT 34,Secretary Of State,,DEM,Paul Damian Wells,5
+Klamath,PRECINCT 35,Secretary Of State,,DEM,Paul Damian Wells,0
+Klamath,PRECINCT 36,Secretary Of State,,DEM,Paul Damian Wells,7
+Klamath,PRECINCT 37,Secretary Of State,,DEM,Paul Damian Wells,8
+Klamath,PRECINCT 38,Secretary Of State,,DEM,Paul Damian Wells,6
+Klamath,PRECINCT 39,Secretary Of State,,DEM,Paul Damian Wells,2
+Klamath,PRECINCT 40,Secretary Of State,,DEM,Paul Damian Wells,7
+Klamath,PRECINCT 41,Secretary Of State,,DEM,Paul Damian Wells,7
+Klamath,PRECINCT 42,Secretary Of State,,DEM,Paul Damian Wells,3
+Klamath,PRECINCT 1,Secretary Of State,,DEM,Write-In,1
+Klamath,PRECINCT 2,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 3,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 4,Secretary Of State,,DEM,Write-In,1
+Klamath,PRECINCT 5,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 6,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 7,Secretary Of State,,DEM,Write-In,2
+Klamath,PRECINCT 8,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 9,Secretary Of State,,DEM,Write-In,1
+Klamath,PRECINCT 10,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 11,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 12,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 13,Secretary Of State,,DEM,Write-In,4
+Klamath,PRECINCT 14,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 15,Secretary Of State,,DEM,Write-In,1
+Klamath,PRECINCT 16,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 17,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 18,Secretary Of State,,DEM,Write-In,7
+Klamath,PRECINCT 19,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 20,Secretary Of State,,DEM,Write-In,5
+Klamath,PRECINCT 21,Secretary Of State,,DEM,Write-In,1
+Klamath,PRECINCT 22,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 23,Secretary Of State,,DEM,Write-In,4
+Klamath,PRECINCT 24,Secretary Of State,,DEM,Write-In,2
+Klamath,PRECINCT 25,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 26,Secretary Of State,,DEM,Write-In,4
+Klamath,PRECINCT 27,Secretary Of State,,DEM,Write-In,2
+Klamath,PRECINCT 28,Secretary Of State,,DEM,Write-In,2
+Klamath,PRECINCT 29,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 30,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 31,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 32,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 33,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 34,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 35,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 36,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 37,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 38,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 39,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 40,Secretary Of State,,DEM,Write-In,0
+Klamath,PRECINCT 41,Secretary Of State,,DEM,Write-In,1
+Klamath,PRECINCT 42,Secretary Of State,,DEM,Write-In,1
+Klamath,PRECINCT 1,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 2,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 3,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 4,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 5,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 6,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 7,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 8,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 9,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 10,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 11,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 12,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 13,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 14,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 15,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 16,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 17,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 18,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 19,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 20,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 21,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 22,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 23,Secretary Of State,,DEM,Over Votes,1
+Klamath,PRECINCT 24,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 25,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 26,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 27,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 28,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 29,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 30,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 31,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 32,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 33,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 34,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 35,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 36,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 37,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 38,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 39,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 40,Secretary Of State,,DEM,Over Votes,2
+Klamath,PRECINCT 41,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 42,Secretary Of State,,DEM,Over Votes,0
+Klamath,PRECINCT 1,Secretary Of State,,DEM,Under Votes,70
+Klamath,PRECINCT 2,Secretary Of State,,DEM,Under Votes,0
+Klamath,PRECINCT 3,Secretary Of State,,DEM,Under Votes,36
+Klamath,PRECINCT 4,Secretary Of State,,DEM,Under Votes,52
+Klamath,PRECINCT 5,Secretary Of State,,DEM,Under Votes,15
+Klamath,PRECINCT 6,Secretary Of State,,DEM,Under Votes,5
+Klamath,PRECINCT 7,Secretary Of State,,DEM,Under Votes,114
+Klamath,PRECINCT 8,Secretary Of State,,DEM,Under Votes,33
+Klamath,PRECINCT 9,Secretary Of State,,DEM,Under Votes,15
+Klamath,PRECINCT 10,Secretary Of State,,DEM,Under Votes,13
+Klamath,PRECINCT 11,Secretary Of State,,DEM,Under Votes,55
+Klamath,PRECINCT 12,Secretary Of State,,DEM,Under Votes,37
+Klamath,PRECINCT 13,Secretary Of State,,DEM,Under Votes,89
+Klamath,PRECINCT 14,Secretary Of State,,DEM,Under Votes,7
+Klamath,PRECINCT 15,Secretary Of State,,DEM,Under Votes,36
+Klamath,PRECINCT 16,Secretary Of State,,DEM,Under Votes,3
+Klamath,PRECINCT 17,Secretary Of State,,DEM,Under Votes,15
+Klamath,PRECINCT 18,Secretary Of State,,DEM,Under Votes,42
+Klamath,PRECINCT 19,Secretary Of State,,DEM,Under Votes,9
+Klamath,PRECINCT 20,Secretary Of State,,DEM,Under Votes,34
+Klamath,PRECINCT 21,Secretary Of State,,DEM,Under Votes,122
+Klamath,PRECINCT 22,Secretary Of State,,DEM,Under Votes,36
+Klamath,PRECINCT 23,Secretary Of State,,DEM,Under Votes,73
+Klamath,PRECINCT 24,Secretary Of State,,DEM,Under Votes,31
+Klamath,PRECINCT 25,Secretary Of State,,DEM,Under Votes,41
+Klamath,PRECINCT 26,Secretary Of State,,DEM,Under Votes,62
+Klamath,PRECINCT 27,Secretary Of State,,DEM,Under Votes,82
+Klamath,PRECINCT 28,Secretary Of State,,DEM,Under Votes,20
+Klamath,PRECINCT 29,Secretary Of State,,DEM,Under Votes,42
+Klamath,PRECINCT 30,Secretary Of State,,DEM,Under Votes,53
+Klamath,PRECINCT 31,Secretary Of State,,DEM,Under Votes,63
+Klamath,PRECINCT 32,Secretary Of State,,DEM,Under Votes,18
+Klamath,PRECINCT 33,Secretary Of State,,DEM,Under Votes,34
+Klamath,PRECINCT 34,Secretary Of State,,DEM,Under Votes,25
+Klamath,PRECINCT 35,Secretary Of State,,DEM,Under Votes,10
+Klamath,PRECINCT 36,Secretary Of State,,DEM,Under Votes,30
+Klamath,PRECINCT 37,Secretary Of State,,DEM,Under Votes,56
+Klamath,PRECINCT 38,Secretary Of State,,DEM,Under Votes,20
+Klamath,PRECINCT 39,Secretary Of State,,DEM,Under Votes,6
+Klamath,PRECINCT 40,Secretary Of State,,DEM,Under Votes,22
+Klamath,PRECINCT 41,Secretary Of State,,DEM,Under Votes,32
+Klamath,PRECINCT 42,Secretary Of State,,DEM,Under Votes,17
+Klamath,PRECINCT 1,Attorney General,,DEM,John R. Kroger,137
+Klamath,PRECINCT 2,Attorney General,,DEM,John R. Kroger,3
+Klamath,PRECINCT 3,Attorney General,,DEM,John R. Kroger,92
+Klamath,PRECINCT 4,Attorney General,,DEM,John R. Kroger,62
+Klamath,PRECINCT 5,Attorney General,,DEM,John R. Kroger,22
+Klamath,PRECINCT 6,Attorney General,,DEM,John R. Kroger,15
+Klamath,PRECINCT 7,Attorney General,,DEM,John R. Kroger,162
+Klamath,PRECINCT 8,Attorney General,,DEM,John R. Kroger,49
+Klamath,PRECINCT 9,Attorney General,,DEM,John R. Kroger,30
+Klamath,PRECINCT 10,Attorney General,,DEM,John R. Kroger,23
+Klamath,PRECINCT 11,Attorney General,,DEM,John R. Kroger,103
+Klamath,PRECINCT 12,Attorney General,,DEM,John R. Kroger,62
+Klamath,PRECINCT 13,Attorney General,,DEM,John R. Kroger,130
+Klamath,PRECINCT 14,Attorney General,,DEM,John R. Kroger,14
+Klamath,PRECINCT 15,Attorney General,,DEM,John R. Kroger,35
+Klamath,PRECINCT 16,Attorney General,,DEM,John R. Kroger,14
+Klamath,PRECINCT 17,Attorney General,,DEM,John R. Kroger,17
+Klamath,PRECINCT 18,Attorney General,,DEM,John R. Kroger,93
+Klamath,PRECINCT 19,Attorney General,,DEM,John R. Kroger,23
+Klamath,PRECINCT 20,Attorney General,,DEM,John R. Kroger,72
+Klamath,PRECINCT 21,Attorney General,,DEM,John R. Kroger,179
+Klamath,PRECINCT 22,Attorney General,,DEM,John R. Kroger,47
+Klamath,PRECINCT 23,Attorney General,,DEM,John R. Kroger,166
+Klamath,PRECINCT 24,Attorney General,,DEM,John R. Kroger,46
+Klamath,PRECINCT 25,Attorney General,,DEM,John R. Kroger,86
+Klamath,PRECINCT 26,Attorney General,,DEM,John R. Kroger,81
+Klamath,PRECINCT 27,Attorney General,,DEM,John R. Kroger,124
+Klamath,PRECINCT 28,Attorney General,,DEM,John R. Kroger,34
+Klamath,PRECINCT 29,Attorney General,,DEM,John R. Kroger,70
+Klamath,PRECINCT 30,Attorney General,,DEM,John R. Kroger,83
+Klamath,PRECINCT 31,Attorney General,,DEM,John R. Kroger,99
+Klamath,PRECINCT 32,Attorney General,,DEM,John R. Kroger,21
+Klamath,PRECINCT 33,Attorney General,,DEM,John R. Kroger,70
+Klamath,PRECINCT 34,Attorney General,,DEM,John R. Kroger,44
+Klamath,PRECINCT 35,Attorney General,,DEM,John R. Kroger,28
+Klamath,PRECINCT 36,Attorney General,,DEM,John R. Kroger,57
+Klamath,PRECINCT 37,Attorney General,,DEM,John R. Kroger,101
+Klamath,PRECINCT 38,Attorney General,,DEM,John R. Kroger,55
+Klamath,PRECINCT 39,Attorney General,,DEM,John R. Kroger,14
+Klamath,PRECINCT 40,Attorney General,,DEM,John R. Kroger,62
+Klamath,PRECINCT 41,Attorney General,,DEM,John R. Kroger,75
+Klamath,PRECINCT 42,Attorney General,,DEM,John R. Kroger,27
+Klamath,PRECINCT 1,Attorney General,,DEM,Greg Macpherson,165
+Klamath,PRECINCT 2,Attorney General,,DEM,Greg Macpherson,6
+Klamath,PRECINCT 3,Attorney General,,DEM,Greg Macpherson,87
+Klamath,PRECINCT 4,Attorney General,,DEM,Greg Macpherson,92
+Klamath,PRECINCT 5,Attorney General,,DEM,Greg Macpherson,22
+Klamath,PRECINCT 6,Attorney General,,DEM,Greg Macpherson,9
+Klamath,PRECINCT 7,Attorney General,,DEM,Greg Macpherson,177
+Klamath,PRECINCT 8,Attorney General,,DEM,Greg Macpherson,39
+Klamath,PRECINCT 9,Attorney General,,DEM,Greg Macpherson,38
+Klamath,PRECINCT 10,Attorney General,,DEM,Greg Macpherson,19
+Klamath,PRECINCT 11,Attorney General,,DEM,Greg Macpherson,104
+Klamath,PRECINCT 12,Attorney General,,DEM,Greg Macpherson,46
+Klamath,PRECINCT 13,Attorney General,,DEM,Greg Macpherson,140
+Klamath,PRECINCT 14,Attorney General,,DEM,Greg Macpherson,10
+Klamath,PRECINCT 15,Attorney General,,DEM,Greg Macpherson,47
+Klamath,PRECINCT 16,Attorney General,,DEM,Greg Macpherson,10
+Klamath,PRECINCT 17,Attorney General,,DEM,Greg Macpherson,22
+Klamath,PRECINCT 18,Attorney General,,DEM,Greg Macpherson,81
+Klamath,PRECINCT 19,Attorney General,,DEM,Greg Macpherson,28
+Klamath,PRECINCT 20,Attorney General,,DEM,Greg Macpherson,98
+Klamath,PRECINCT 21,Attorney General,,DEM,Greg Macpherson,187
+Klamath,PRECINCT 22,Attorney General,,DEM,Greg Macpherson,48
+Klamath,PRECINCT 23,Attorney General,,DEM,Greg Macpherson,181
+Klamath,PRECINCT 24,Attorney General,,DEM,Greg Macpherson,54
+Klamath,PRECINCT 25,Attorney General,,DEM,Greg Macpherson,77
+Klamath,PRECINCT 26,Attorney General,,DEM,Greg Macpherson,85
+Klamath,PRECINCT 27,Attorney General,,DEM,Greg Macpherson,120
+Klamath,PRECINCT 28,Attorney General,,DEM,Greg Macpherson,23
+Klamath,PRECINCT 29,Attorney General,,DEM,Greg Macpherson,58
+Klamath,PRECINCT 30,Attorney General,,DEM,Greg Macpherson,72
+Klamath,PRECINCT 31,Attorney General,,DEM,Greg Macpherson,81
+Klamath,PRECINCT 32,Attorney General,,DEM,Greg Macpherson,16
+Klamath,PRECINCT 33,Attorney General,,DEM,Greg Macpherson,58
+Klamath,PRECINCT 34,Attorney General,,DEM,Greg Macpherson,45
+Klamath,PRECINCT 35,Attorney General,,DEM,Greg Macpherson,24
+Klamath,PRECINCT 36,Attorney General,,DEM,Greg Macpherson,69
+Klamath,PRECINCT 37,Attorney General,,DEM,Greg Macpherson,85
+Klamath,PRECINCT 38,Attorney General,,DEM,Greg Macpherson,59
+Klamath,PRECINCT 39,Attorney General,,DEM,Greg Macpherson,8
+Klamath,PRECINCT 40,Attorney General,,DEM,Greg Macpherson,74
+Klamath,PRECINCT 41,Attorney General,,DEM,Greg Macpherson,71
+Klamath,PRECINCT 42,Attorney General,,DEM,Greg Macpherson,36
+Klamath,PRECINCT 1,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 2,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 3,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 4,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 5,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 6,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 7,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 8,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 9,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 10,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 11,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 12,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 13,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 14,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 15,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 16,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 17,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 18,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 19,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 20,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 21,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 22,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 23,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 24,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 25,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 26,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 27,Attorney General,,DEM,Write-In,2
+Klamath,PRECINCT 28,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 29,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 30,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 31,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 32,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 33,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 34,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 35,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 36,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 37,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 38,Attorney General,,DEM,Write-In,1
+Klamath,PRECINCT 39,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 40,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 41,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 42,Attorney General,,DEM,Write-In,0
+Klamath,PRECINCT 1,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 2,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 3,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 4,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 5,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 6,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 7,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 8,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 9,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 10,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 11,Attorney General,,DEM,Over Votes,1
+Klamath,PRECINCT 12,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 13,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 14,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 15,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 16,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 17,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 18,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 19,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 20,Attorney General,,DEM,Over Votes,1
+Klamath,PRECINCT 21,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 22,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 23,Attorney General,,DEM,Over Votes,1
+Klamath,PRECINCT 24,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 25,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 26,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 27,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 28,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 29,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 30,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 31,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 32,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 33,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 34,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 35,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 36,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 37,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 38,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 39,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 40,Attorney General,,DEM,Over Votes,1
+Klamath,PRECINCT 41,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 42,Attorney General,,DEM,Over Votes,0
+Klamath,PRECINCT 1,Attorney General,,DEM,Under Votes,71
+Klamath,PRECINCT 2,Attorney General,,DEM,Under Votes,0
+Klamath,PRECINCT 3,Attorney General,,DEM,Under Votes,41
+Klamath,PRECINCT 4,Attorney General,,DEM,Under Votes,51
+Klamath,PRECINCT 5,Attorney General,,DEM,Under Votes,20
+Klamath,PRECINCT 6,Attorney General,,DEM,Under Votes,6
+Klamath,PRECINCT 7,Attorney General,,DEM,Under Votes,124
+Klamath,PRECINCT 8,Attorney General,,DEM,Under Votes,33
+Klamath,PRECINCT 9,Attorney General,,DEM,Under Votes,12
+Klamath,PRECINCT 10,Attorney General,,DEM,Under Votes,10
+Klamath,PRECINCT 11,Attorney General,,DEM,Under Votes,59
+Klamath,PRECINCT 12,Attorney General,,DEM,Under Votes,36
+Klamath,PRECINCT 13,Attorney General,,DEM,Under Votes,86
+Klamath,PRECINCT 14,Attorney General,,DEM,Under Votes,4
+Klamath,PRECINCT 15,Attorney General,,DEM,Under Votes,35
+Klamath,PRECINCT 16,Attorney General,,DEM,Under Votes,5
+Klamath,PRECINCT 17,Attorney General,,DEM,Under Votes,15
+Klamath,PRECINCT 18,Attorney General,,DEM,Under Votes,41
+Klamath,PRECINCT 19,Attorney General,,DEM,Under Votes,12
+Klamath,PRECINCT 20,Attorney General,,DEM,Under Votes,29
+Klamath,PRECINCT 21,Attorney General,,DEM,Under Votes,118
+Klamath,PRECINCT 22,Attorney General,,DEM,Under Votes,36
+Klamath,PRECINCT 23,Attorney General,,DEM,Under Votes,85
+Klamath,PRECINCT 24,Attorney General,,DEM,Under Votes,31
+Klamath,PRECINCT 25,Attorney General,,DEM,Under Votes,44
+Klamath,PRECINCT 26,Attorney General,,DEM,Under Votes,59
+Klamath,PRECINCT 27,Attorney General,,DEM,Under Votes,77
+Klamath,PRECINCT 28,Attorney General,,DEM,Under Votes,15
+Klamath,PRECINCT 29,Attorney General,,DEM,Under Votes,46
+Klamath,PRECINCT 30,Attorney General,,DEM,Under Votes,56
+Klamath,PRECINCT 31,Attorney General,,DEM,Under Votes,70
+Klamath,PRECINCT 32,Attorney General,,DEM,Under Votes,22
+Klamath,PRECINCT 33,Attorney General,,DEM,Under Votes,25
+Klamath,PRECINCT 34,Attorney General,,DEM,Under Votes,28
+Klamath,PRECINCT 35,Attorney General,,DEM,Under Votes,11
+Klamath,PRECINCT 36,Attorney General,,DEM,Under Votes,35
+Klamath,PRECINCT 37,Attorney General,,DEM,Under Votes,56
+Klamath,PRECINCT 38,Attorney General,,DEM,Under Votes,26
+Klamath,PRECINCT 39,Attorney General,,DEM,Under Votes,6
+Klamath,PRECINCT 40,Attorney General,,DEM,Under Votes,6
+Klamath,PRECINCT 41,Attorney General,,DEM,Under Votes,34
+Klamath,PRECINCT 42,Attorney General,,DEM,Under Votes,15
+Klamath,PRECINCT 1,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 2,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 3,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 4,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 5,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 6,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 7,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 8,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 9,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 10,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 11,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 12,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 13,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 14,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 15,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 16,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 17,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 18,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 19,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 20,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 21,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 22,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 23,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 24,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 25,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 26,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 27,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 28,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 29,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 30,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 31,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 32,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 33,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 34,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 35,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 36,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 37,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 38,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 39,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 40,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 41,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 42,State Senate,28,DEM,No Candidate Filed,0
+Klamath,PRECINCT 1,State Senate,28,DEM,Write-In,7
+Klamath,PRECINCT 2,State Senate,28,DEM,Write-In,0
+Klamath,PRECINCT 3,State Senate,28,DEM,Write-In,3
+Klamath,PRECINCT 4,State Senate,28,DEM,Write-In,15
+Klamath,PRECINCT 5,State Senate,28,DEM,Write-In,4
+Klamath,PRECINCT 6,State Senate,28,DEM,Write-In,2
+Klamath,PRECINCT 7,State Senate,28,DEM,Write-In,14
+Klamath,PRECINCT 8,State Senate,28,DEM,Write-In,4
+Klamath,PRECINCT 9,State Senate,28,DEM,Write-In,1
+Klamath,PRECINCT 10,State Senate,28,DEM,Write-In,1
+Klamath,PRECINCT 11,State Senate,28,DEM,Write-In,11
+Klamath,PRECINCT 12,State Senate,28,DEM,Write-In,11
+Klamath,PRECINCT 13,State Senate,28,DEM,Write-In,21
+Klamath,PRECINCT 14,State Senate,28,DEM,Write-In,1
+Klamath,PRECINCT 15,State Senate,28,DEM,Write-In,3
+Klamath,PRECINCT 16,State Senate,28,DEM,Write-In,1
+Klamath,PRECINCT 17,State Senate,28,DEM,Write-In,0
+Klamath,PRECINCT 18,State Senate,28,DEM,Write-In,17
+Klamath,PRECINCT 19,State Senate,28,DEM,Write-In,4
+Klamath,PRECINCT 20,State Senate,28,DEM,Write-In,17
+Klamath,PRECINCT 21,State Senate,28,DEM,Write-In,14
+Klamath,PRECINCT 22,State Senate,28,DEM,Write-In,5
+Klamath,PRECINCT 23,State Senate,28,DEM,Write-In,5
+Klamath,PRECINCT 24,State Senate,28,DEM,Write-In,6
+Klamath,PRECINCT 25,State Senate,28,DEM,Write-In,6
+Klamath,PRECINCT 26,State Senate,28,DEM,Write-In,8
+Klamath,PRECINCT 27,State Senate,28,DEM,Write-In,13
+Klamath,PRECINCT 28,State Senate,28,DEM,Write-In,5
+Klamath,PRECINCT 29,State Senate,28,DEM,Write-In,4
+Klamath,PRECINCT 30,State Senate,28,DEM,Write-In,9
+Klamath,PRECINCT 31,State Senate,28,DEM,Write-In,8
+Klamath,PRECINCT 32,State Senate,28,DEM,Write-In,5
+Klamath,PRECINCT 33,State Senate,28,DEM,Write-In,10
+Klamath,PRECINCT 34,State Senate,28,DEM,Write-In,4
+Klamath,PRECINCT 35,State Senate,28,DEM,Write-In,0
+Klamath,PRECINCT 36,State Senate,28,DEM,Write-In,1
+Klamath,PRECINCT 37,State Senate,28,DEM,Write-In,7
+Klamath,PRECINCT 38,State Senate,28,DEM,Write-In,7
+Klamath,PRECINCT 39,State Senate,28,DEM,Write-In,1
+Klamath,PRECINCT 40,State Senate,28,DEM,Write-In,6
+Klamath,PRECINCT 41,State Senate,28,DEM,Write-In,8
+Klamath,PRECINCT 42,State Senate,28,DEM,Write-In,0
+Klamath,PRECINCT 1,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 2,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 3,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 4,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 5,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 6,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 7,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 8,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 9,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 10,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 11,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 12,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 13,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 14,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 15,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 16,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 17,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 18,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 19,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 20,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 21,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 22,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 23,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 24,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 25,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 26,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 27,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 28,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 29,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 30,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 31,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 32,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 33,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 34,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 35,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 36,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 37,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 38,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 39,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 40,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 41,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 42,State Senate,28,DEM,Under Votes,0
+Klamath,PRECINCT 1,State Senate,28,DEM,Over Votes,366
+Klamath,PRECINCT 2,State Senate,28,DEM,Over Votes,9
+Klamath,PRECINCT 3,State Senate,28,DEM,Over Votes,218
+Klamath,PRECINCT 4,State Senate,28,DEM,Over Votes,191
+Klamath,PRECINCT 5,State Senate,28,DEM,Over Votes,60
+Klamath,PRECINCT 6,State Senate,28,DEM,Over Votes,28
+Klamath,PRECINCT 7,State Senate,28,DEM,Over Votes,449
+Klamath,PRECINCT 8,State Senate,28,DEM,Over Votes,117
+Klamath,PRECINCT 9,State Senate,28,DEM,Over Votes,79
+Klamath,PRECINCT 10,State Senate,28,DEM,Over Votes,51
+Klamath,PRECINCT 11,State Senate,28,DEM,Over Votes,256
+Klamath,PRECINCT 12,State Senate,28,DEM,Over Votes,133
+Klamath,PRECINCT 13,State Senate,28,DEM,Over Votes,336
+Klamath,PRECINCT 14,State Senate,28,DEM,Over Votes,27
+Klamath,PRECINCT 15,State Senate,28,DEM,Over Votes,115
+Klamath,PRECINCT 16,State Senate,28,DEM,Over Votes,28
+Klamath,PRECINCT 17,State Senate,28,DEM,Over Votes,54
+Klamath,PRECINCT 18,State Senate,28,DEM,Over Votes,198
+Klamath,PRECINCT 19,State Senate,28,DEM,Over Votes,59
+Klamath,PRECINCT 20,State Senate,28,DEM,Over Votes,184
+Klamath,PRECINCT 21,State Senate,28,DEM,Over Votes,470
+Klamath,PRECINCT 22,State Senate,28,DEM,Over Votes,126
+Klamath,PRECINCT 23,State Senate,28,DEM,Over Votes,429
+Klamath,PRECINCT 24,State Senate,28,DEM,Over Votes,125
+Klamath,PRECINCT 25,State Senate,28,DEM,Over Votes,202
+Klamath,PRECINCT 26,State Senate,28,DEM,Over Votes,217
+Klamath,PRECINCT 27,State Senate,28,DEM,Over Votes,310
+Klamath,PRECINCT 28,State Senate,28,DEM,Over Votes,68
+Klamath,PRECINCT 29,State Senate,28,DEM,Over Votes,170
+Klamath,PRECINCT 30,State Senate,28,DEM,Over Votes,202
+Klamath,PRECINCT 31,State Senate,28,DEM,Over Votes,242
+Klamath,PRECINCT 32,State Senate,28,DEM,Over Votes,54
+Klamath,PRECINCT 33,State Senate,28,DEM,Over Votes,144
+Klamath,PRECINCT 34,State Senate,28,DEM,Over Votes,113
+Klamath,PRECINCT 35,State Senate,28,DEM,Over Votes,63
+Klamath,PRECINCT 36,State Senate,28,DEM,Over Votes,160
+Klamath,PRECINCT 37,State Senate,28,DEM,Over Votes,235
+Klamath,PRECINCT 38,State Senate,28,DEM,Over Votes,134
+Klamath,PRECINCT 39,State Senate,28,DEM,Over Votes,27
+Klamath,PRECINCT 40,State Senate,28,DEM,Over Votes,157
+Klamath,PRECINCT 41,State Senate,28,DEM,Over Votes,172
+Klamath,PRECINCT 42,State Senate,28,DEM,Over Votes,78
+Klamath,PRECINCT 1,State House,55,DEM,No Candidate Filed,0
+Klamath,PRECINCT 2,State House,55,DEM,No Candidate Filed,0
+Klamath,PRECINCT 3,State House,55,DEM,No Candidate Filed,0
+Klamath,PRECINCT 4,State House,55,DEM,No Candidate Filed,0
+Klamath,PRECINCT 5,State House,55,DEM,No Candidate Filed,0
+Klamath,PRECINCT 6,State House,55,DEM,No Candidate Filed,0
+Klamath,PRECINCT 1,State House,55,DEM,Write-In,6
+Klamath,PRECINCT 2,State House,55,DEM,Write-In,0
+Klamath,PRECINCT 3,State House,55,DEM,Write-In,2
+Klamath,PRECINCT 4,State House,55,DEM,Write-In,12
+Klamath,PRECINCT 5,State House,55,DEM,Write-In,1
+Klamath,PRECINCT 6,State House,55,DEM,Write-In,1
+Klamath,PRECINCT 1,State House,55,DEM,Over Votes,0
+Klamath,PRECINCT 2,State House,55,DEM,Over Votes,0
+Klamath,PRECINCT 3,State House,55,DEM,Over Votes,0
+Klamath,PRECINCT 4,State House,55,DEM,Over Votes,0
+Klamath,PRECINCT 5,State House,55,DEM,Over Votes,0
+Klamath,PRECINCT 6,State House,55,DEM,Over Votes,0
+Klamath,PRECINCT 1,State House,55,DEM,Under Votes,367
+Klamath,PRECINCT 2,State House,55,DEM,Under Votes,9
+Klamath,PRECINCT 3,State House,55,DEM,Under Votes,219
+Klamath,PRECINCT 4,State House,55,DEM,Under Votes,194
+Klamath,PRECINCT 5,State House,55,DEM,Under Votes,63
+Klamath,PRECINCT 6,State House,55,DEM,Under Votes,29
+Klamath,PRECINCT 7,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 8,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 9,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 10,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 11,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 12,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 13,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 14,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 15,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 16,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 17,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 18,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 19,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 20,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 21,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 22,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 23,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 24,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 25,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 26,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 27,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 28,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 29,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 30,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 31,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 32,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 33,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 34,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 35,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 36,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 37,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 38,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 39,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 40,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 41,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 42,State House,56,DEM,No Candidate Filed,0
+Klamath,PRECINCT 7,State House,56,DEM,Write-In,7
+Klamath,PRECINCT 8,State House,56,DEM,Write-In,3
+Klamath,PRECINCT 9,State House,56,DEM,Write-In,1
+Klamath,PRECINCT 10,State House,56,DEM,Write-In,1
+Klamath,PRECINCT 11,State House,56,DEM,Write-In,8
+Klamath,PRECINCT 12,State House,56,DEM,Write-In,4
+Klamath,PRECINCT 13,State House,56,DEM,Write-In,6
+Klamath,PRECINCT 14,State House,56,DEM,Write-In,1
+Klamath,PRECINCT 15,State House,56,DEM,Write-In,1
+Klamath,PRECINCT 16,State House,56,DEM,Write-In,0
+Klamath,PRECINCT 17,State House,56,DEM,Write-In,0
+Klamath,PRECINCT 18,State House,56,DEM,Write-In,8
+Klamath,PRECINCT 19,State House,56,DEM,Write-In,1
+Klamath,PRECINCT 20,State House,56,DEM,Write-In,0
+Klamath,PRECINCT 21,State House,56,DEM,Write-In,6
+Klamath,PRECINCT 22,State House,56,DEM,Write-In,6
+Klamath,PRECINCT 23,State House,56,DEM,Write-In,3
+Klamath,PRECINCT 24,State House,56,DEM,Write-In,5
+Klamath,PRECINCT 25,State House,56,DEM,Write-In,1
+Klamath,PRECINCT 26,State House,56,DEM,Write-In,6
+Klamath,PRECINCT 27,State House,56,DEM,Write-In,7
+Klamath,PRECINCT 28,State House,56,DEM,Write-In,2
+Klamath,PRECINCT 29,State House,56,DEM,Write-In,2
+Klamath,PRECINCT 30,State House,56,DEM,Write-In,8
+Klamath,PRECINCT 31,State House,56,DEM,Write-In,0
+Klamath,PRECINCT 32,State House,56,DEM,Write-In,2
+Klamath,PRECINCT 33,State House,56,DEM,Write-In,4
+Klamath,PRECINCT 34,State House,56,DEM,Write-In,2
+Klamath,PRECINCT 35,State House,56,DEM,Write-In,0
+Klamath,PRECINCT 36,State House,56,DEM,Write-In,1
+Klamath,PRECINCT 37,State House,56,DEM,Write-In,2
+Klamath,PRECINCT 38,State House,56,DEM,Write-In,6
+Klamath,PRECINCT 39,State House,56,DEM,Write-In,0
+Klamath,PRECINCT 40,State House,56,DEM,Write-In,3
+Klamath,PRECINCT 41,State House,56,DEM,Write-In,7
+Klamath,PRECINCT 42,State House,56,DEM,Write-In,0
+Klamath,PRECINCT 7,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 8,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 9,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 10,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 11,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 12,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 13,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 14,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 15,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 16,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 17,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 18,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 19,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 20,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 21,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 22,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 23,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 24,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 25,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 26,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 27,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 28,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 29,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 30,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 31,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 32,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 33,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 34,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 35,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 36,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 37,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 38,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 39,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 40,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 41,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 42,State House,56,DEM,Over Votes,0
+Klamath,PRECINCT 7,State House,56,DEM,Under Votes,456
+Klamath,PRECINCT 8,State House,56,DEM,Under Votes,118
+Klamath,PRECINCT 9,State House,56,DEM,Under Votes,79
+Klamath,PRECINCT 10,State House,56,DEM,Under Votes,51
+Klamath,PRECINCT 11,State House,56,DEM,Under Votes,259
+Klamath,PRECINCT 12,State House,56,DEM,Under Votes,140
+Klamath,PRECINCT 13,State House,56,DEM,Under Votes,351
+Klamath,PRECINCT 14,State House,56,DEM,Under Votes,27
+Klamath,PRECINCT 15,State House,56,DEM,Under Votes,117
+Klamath,PRECINCT 16,State House,56,DEM,Under Votes,29
+Klamath,PRECINCT 17,State House,56,DEM,Under Votes,54
+Klamath,PRECINCT 18,State House,56,DEM,Under Votes,207
+Klamath,PRECINCT 19,State House,56,DEM,Under Votes,62
+Klamath,PRECINCT 20,State House,56,DEM,Under Votes,195
+Klamath,PRECINCT 21,State House,56,DEM,Under Votes,474
+Klamath,PRECINCT 22,State House,56,DEM,Under Votes,125
+Klamath,PRECINCT 23,State House,56,DEM,Under Votes,431
+Klamath,PRECINCT 24,State House,56,DEM,Under Votes,126
+Klamath,PRECINCT 25,State House,56,DEM,Under Votes,207
+Klamath,PRECINCT 26,State House,56,DEM,Under Votes,219
+Klamath,PRECINCT 27,State House,56,DEM,Under Votes,316
+Klamath,PRECINCT 28,State House,56,DEM,Under Votes,71
+Klamath,PRECINCT 29,State House,56,DEM,Under Votes,172
+Klamath,PRECINCT 30,State House,56,DEM,Under Votes,203
+Klamath,PRECINCT 31,State House,56,DEM,Under Votes,250
+Klamath,PRECINCT 32,State House,56,DEM,Under Votes,57
+Klamath,PRECINCT 33,State House,56,DEM,Under Votes,150
+Klamath,PRECINCT 34,State House,56,DEM,Under Votes,115
+Klamath,PRECINCT 35,State House,56,DEM,Under Votes,63
+Klamath,PRECINCT 36,State House,56,DEM,Under Votes,160
+Klamath,PRECINCT 37,State House,56,DEM,Under Votes,240
+Klamath,PRECINCT 38,State House,56,DEM,Under Votes,135
+Klamath,PRECINCT 39,State House,56,DEM,Under Votes,28
+Klamath,PRECINCT 40,State House,56,DEM,Under Votes,160
+Klamath,PRECINCT 41,State House,56,DEM,Under Votes,173
+Klamath,PRECINCT 42,State House,56,DEM,Under Votes,78
+Klamath,PRECINCT 1,President,,REP,John McCain,237
+Klamath,PRECINCT 2,President,,REP,John McCain,16
+Klamath,PRECINCT 3,President,,REP,John McCain,193
+Klamath,PRECINCT 4,President,,REP,John McCain,222
+Klamath,PRECINCT 5,President,,REP,John McCain,33
+Klamath,PRECINCT 6,President,,REP,John McCain,33
+Klamath,PRECINCT 7,President,,REP,John McCain,581
+Klamath,PRECINCT 8,President,,REP,John McCain,139
+Klamath,PRECINCT 9,President,,REP,John McCain,168
+Klamath,PRECINCT 10,President,,REP,John McCain,103
+Klamath,PRECINCT 11,President,,REP,John McCain,335
+Klamath,PRECINCT 12,President,,REP,John McCain,275
+Klamath,PRECINCT 13,President,,REP,John McCain,698
+Klamath,PRECINCT 14,President,,REP,John McCain,40
+Klamath,PRECINCT 15,President,,REP,John McCain,269
+Klamath,PRECINCT 16,President,,REP,John McCain,44
+Klamath,PRECINCT 17,President,,REP,John McCain,64
+Klamath,PRECINCT 18,President,,REP,John McCain,307
+Klamath,PRECINCT 19,President,,REP,John McCain,38
+Klamath,PRECINCT 20,President,,REP,John McCain,191
+Klamath,PRECINCT 21,President,,REP,John McCain,556
+Klamath,PRECINCT 22,President,,REP,John McCain,89
+Klamath,PRECINCT 23,President,,REP,John McCain,445
+Klamath,PRECINCT 24,President,,REP,John McCain,143
+Klamath,PRECINCT 25,President,,REP,John McCain,242
+Klamath,PRECINCT 26,President,,REP,John McCain,338
+Klamath,PRECINCT 27,President,,REP,John McCain,438
+Klamath,PRECINCT 28,President,,REP,John McCain,73
+Klamath,PRECINCT 29,President,,REP,John McCain,253
+Klamath,PRECINCT 30,President,,REP,John McCain,222
+Klamath,PRECINCT 31,President,,REP,John McCain,293
+Klamath,PRECINCT 32,President,,REP,John McCain,86
+Klamath,PRECINCT 33,President,,REP,John McCain,113
+Klamath,PRECINCT 34,President,,REP,John McCain,98
+Klamath,PRECINCT 35,President,,REP,John McCain,68
+Klamath,PRECINCT 36,President,,REP,John McCain,77
+Klamath,PRECINCT 37,President,,REP,John McCain,195
+Klamath,PRECINCT 38,President,,REP,John McCain,79
+Klamath,PRECINCT 39,President,,REP,John McCain,15
+Klamath,PRECINCT 40,President,,REP,John McCain,98
+Klamath,PRECINCT 41,President,,REP,John McCain,191
+Klamath,PRECINCT 42,President,,REP,John McCain,62
+Klamath,PRECINCT 1,President,,REP,Ron Paul,30
+Klamath,PRECINCT 2,President,,REP,Ron Paul,4
+Klamath,PRECINCT 3,President,,REP,Ron Paul,46
+Klamath,PRECINCT 4,President,,REP,Ron Paul,33
+Klamath,PRECINCT 5,President,,REP,Ron Paul,4
+Klamath,PRECINCT 6,President,,REP,Ron Paul,5
+Klamath,PRECINCT 7,President,,REP,Ron Paul,74
+Klamath,PRECINCT 8,President,,REP,Ron Paul,15
+Klamath,PRECINCT 9,President,,REP,Ron Paul,32
+Klamath,PRECINCT 10,President,,REP,Ron Paul,10
+Klamath,PRECINCT 11,President,,REP,Ron Paul,59
+Klamath,PRECINCT 12,President,,REP,Ron Paul,18
+Klamath,PRECINCT 13,President,,REP,Ron Paul,102
+Klamath,PRECINCT 14,President,,REP,Ron Paul,4
+Klamath,PRECINCT 15,President,,REP,Ron Paul,59
+Klamath,PRECINCT 16,President,,REP,Ron Paul,7
+Klamath,PRECINCT 17,President,,REP,Ron Paul,21
+Klamath,PRECINCT 18,President,,REP,Ron Paul,44
+Klamath,PRECINCT 19,President,,REP,Ron Paul,3
+Klamath,PRECINCT 20,President,,REP,Ron Paul,26
+Klamath,PRECINCT 21,President,,REP,Ron Paul,66
+Klamath,PRECINCT 22,President,,REP,Ron Paul,19
+Klamath,PRECINCT 23,President,,REP,Ron Paul,60
+Klamath,PRECINCT 24,President,,REP,Ron Paul,11
+Klamath,PRECINCT 25,President,,REP,Ron Paul,26
+Klamath,PRECINCT 26,President,,REP,Ron Paul,41
+Klamath,PRECINCT 27,President,,REP,Ron Paul,62
+Klamath,PRECINCT 28,President,,REP,Ron Paul,3
+Klamath,PRECINCT 29,President,,REP,Ron Paul,41
+Klamath,PRECINCT 30,President,,REP,Ron Paul,29
+Klamath,PRECINCT 31,President,,REP,Ron Paul,38
+Klamath,PRECINCT 32,President,,REP,Ron Paul,13
+Klamath,PRECINCT 33,President,,REP,Ron Paul,26
+Klamath,PRECINCT 34,President,,REP,Ron Paul,22
+Klamath,PRECINCT 35,President,,REP,Ron Paul,12
+Klamath,PRECINCT 36,President,,REP,Ron Paul,12
+Klamath,PRECINCT 37,President,,REP,Ron Paul,19
+Klamath,PRECINCT 38,President,,REP,Ron Paul,19
+Klamath,PRECINCT 39,President,,REP,Ron Paul,2
+Klamath,PRECINCT 40,President,,REP,Ron Paul,9
+Klamath,PRECINCT 41,President,,REP,Ron Paul,28
+Klamath,PRECINCT 42,President,,REP,Ron Paul,3
+Klamath,PRECINCT 1,President,,REP,Write-In,14
+Klamath,PRECINCT 2,President,,REP,Write-In,1
+Klamath,PRECINCT 3,President,,REP,Write-In,17
+Klamath,PRECINCT 4,President,,REP,Write-In,14
+Klamath,PRECINCT 5,President,,REP,Write-In,1
+Klamath,PRECINCT 6,President,,REP,Write-In,3
+Klamath,PRECINCT 7,President,,REP,Write-In,23
+Klamath,PRECINCT 8,President,,REP,Write-In,3
+Klamath,PRECINCT 9,President,,REP,Write-In,3
+Klamath,PRECINCT 10,President,,REP,Write-In,0
+Klamath,PRECINCT 11,President,,REP,Write-In,14
+Klamath,PRECINCT 12,President,,REP,Write-In,5
+Klamath,PRECINCT 13,President,,REP,Write-In,21
+Klamath,PRECINCT 14,President,,REP,Write-In,5
+Klamath,PRECINCT 15,President,,REP,Write-In,12
+Klamath,PRECINCT 16,President,,REP,Write-In,2
+Klamath,PRECINCT 17,President,,REP,Write-In,4
+Klamath,PRECINCT 18,President,,REP,Write-In,17
+Klamath,PRECINCT 19,President,,REP,Write-In,2
+Klamath,PRECINCT 20,President,,REP,Write-In,5
+Klamath,PRECINCT 21,President,,REP,Write-In,15
+Klamath,PRECINCT 22,President,,REP,Write-In,5
+Klamath,PRECINCT 23,President,,REP,Write-In,33
+Klamath,PRECINCT 24,President,,REP,Write-In,6
+Klamath,PRECINCT 25,President,,REP,Write-In,12
+Klamath,PRECINCT 26,President,,REP,Write-In,15
+Klamath,PRECINCT 27,President,,REP,Write-In,19
+Klamath,PRECINCT 28,President,,REP,Write-In,4
+Klamath,PRECINCT 29,President,,REP,Write-In,2
+Klamath,PRECINCT 30,President,,REP,Write-In,10
+Klamath,PRECINCT 31,President,,REP,Write-In,11
+Klamath,PRECINCT 32,President,,REP,Write-In,7
+Klamath,PRECINCT 33,President,,REP,Write-In,1
+Klamath,PRECINCT 34,President,,REP,Write-In,7
+Klamath,PRECINCT 35,President,,REP,Write-In,2
+Klamath,PRECINCT 36,President,,REP,Write-In,5
+Klamath,PRECINCT 37,President,,REP,Write-In,4
+Klamath,PRECINCT 38,President,,REP,Write-In,1
+Klamath,PRECINCT 39,President,,REP,Write-In,2
+Klamath,PRECINCT 40,President,,REP,Write-In,7
+Klamath,PRECINCT 41,President,,REP,Write-In,6
+Klamath,PRECINCT 42,President,,REP,Write-In,4
+Klamath,PRECINCT 1,President,,REP,Over Votes,0
+Klamath,PRECINCT 2,President,,REP,Over Votes,0
+Klamath,PRECINCT 3,President,,REP,Over Votes,0
+Klamath,PRECINCT 4,President,,REP,Over Votes,0
+Klamath,PRECINCT 5,President,,REP,Over Votes,0
+Klamath,PRECINCT 6,President,,REP,Over Votes,0
+Klamath,PRECINCT 7,President,,REP,Over Votes,1
+Klamath,PRECINCT 8,President,,REP,Over Votes,0
+Klamath,PRECINCT 9,President,,REP,Over Votes,0
+Klamath,PRECINCT 10,President,,REP,Over Votes,0
+Klamath,PRECINCT 11,President,,REP,Over Votes,0
+Klamath,PRECINCT 12,President,,REP,Over Votes,0
+Klamath,PRECINCT 13,President,,REP,Over Votes,0
+Klamath,PRECINCT 14,President,,REP,Over Votes,0
+Klamath,PRECINCT 15,President,,REP,Over Votes,0
+Klamath,PRECINCT 16,President,,REP,Over Votes,0
+Klamath,PRECINCT 17,President,,REP,Over Votes,0
+Klamath,PRECINCT 18,President,,REP,Over Votes,1
+Klamath,PRECINCT 19,President,,REP,Over Votes,0
+Klamath,PRECINCT 20,President,,REP,Over Votes,0
+Klamath,PRECINCT 21,President,,REP,Over Votes,0
+Klamath,PRECINCT 22,President,,REP,Over Votes,0
+Klamath,PRECINCT 23,President,,REP,Over Votes,0
+Klamath,PRECINCT 24,President,,REP,Over Votes,0
+Klamath,PRECINCT 25,President,,REP,Over Votes,0
+Klamath,PRECINCT 26,President,,REP,Over Votes,1
+Klamath,PRECINCT 27,President,,REP,Over Votes,0
+Klamath,PRECINCT 28,President,,REP,Over Votes,0
+Klamath,PRECINCT 29,President,,REP,Over Votes,0
+Klamath,PRECINCT 30,President,,REP,Over Votes,0
+Klamath,PRECINCT 31,President,,REP,Over Votes,0
+Klamath,PRECINCT 32,President,,REP,Over Votes,0
+Klamath,PRECINCT 33,President,,REP,Over Votes,0
+Klamath,PRECINCT 34,President,,REP,Over Votes,0
+Klamath,PRECINCT 35,President,,REP,Over Votes,0
+Klamath,PRECINCT 36,President,,REP,Over Votes,0
+Klamath,PRECINCT 37,President,,REP,Over Votes,0
+Klamath,PRECINCT 38,President,,REP,Over Votes,0
+Klamath,PRECINCT 39,President,,REP,Over Votes,0
+Klamath,PRECINCT 40,President,,REP,Over Votes,0
+Klamath,PRECINCT 41,President,,REP,Over Votes,0
+Klamath,PRECINCT 42,President,,REP,Over Votes,0
+Klamath,PRECINCT 1,President,,REP,Under Votes,11
+Klamath,PRECINCT 2,President,,REP,Under Votes,0
+Klamath,PRECINCT 3,President,,REP,Under Votes,8
+Klamath,PRECINCT 4,President,,REP,Under Votes,8
+Klamath,PRECINCT 5,President,,REP,Under Votes,3
+Klamath,PRECINCT 6,President,,REP,Under Votes,2
+Klamath,PRECINCT 7,President,,REP,Under Votes,22
+Klamath,PRECINCT 8,President,,REP,Under Votes,3
+Klamath,PRECINCT 9,President,,REP,Under Votes,10
+Klamath,PRECINCT 10,President,,REP,Under Votes,6
+Klamath,PRECINCT 11,President,,REP,Under Votes,23
+Klamath,PRECINCT 12,President,,REP,Under Votes,6
+Klamath,PRECINCT 13,President,,REP,Under Votes,41
+Klamath,PRECINCT 14,President,,REP,Under Votes,2
+Klamath,PRECINCT 15,President,,REP,Under Votes,24
+Klamath,PRECINCT 16,President,,REP,Under Votes,6
+Klamath,PRECINCT 17,President,,REP,Under Votes,4
+Klamath,PRECINCT 18,President,,REP,Under Votes,15
+Klamath,PRECINCT 19,President,,REP,Under Votes,3
+Klamath,PRECINCT 20,President,,REP,Under Votes,7
+Klamath,PRECINCT 21,President,,REP,Under Votes,37
+Klamath,PRECINCT 22,President,,REP,Under Votes,5
+Klamath,PRECINCT 23,President,,REP,Under Votes,26
+Klamath,PRECINCT 24,President,,REP,Under Votes,5
+Klamath,PRECINCT 25,President,,REP,Under Votes,14
+Klamath,PRECINCT 26,President,,REP,Under Votes,16
+Klamath,PRECINCT 27,President,,REP,Under Votes,28
+Klamath,PRECINCT 28,President,,REP,Under Votes,4
+Klamath,PRECINCT 29,President,,REP,Under Votes,11
+Klamath,PRECINCT 30,President,,REP,Under Votes,14
+Klamath,PRECINCT 31,President,,REP,Under Votes,22
+Klamath,PRECINCT 32,President,,REP,Under Votes,7
+Klamath,PRECINCT 33,President,,REP,Under Votes,8
+Klamath,PRECINCT 34,President,,REP,Under Votes,8
+Klamath,PRECINCT 35,President,,REP,Under Votes,4
+Klamath,PRECINCT 36,President,,REP,Under Votes,4
+Klamath,PRECINCT 37,President,,REP,Under Votes,14
+Klamath,PRECINCT 38,President,,REP,Under Votes,7
+Klamath,PRECINCT 39,President,,REP,Under Votes,1
+Klamath,PRECINCT 40,President,,REP,Under Votes,8
+Klamath,PRECINCT 41,President,,REP,Under Votes,7
+Klamath,PRECINCT 42,President,,REP,Under Votes,6
+Klamath,PRECINCT 1,U.S. Senate,,REP,Gordon H. Smith,220
+Klamath,PRECINCT 2,U.S. Senate,,REP,Gordon H. Smith,12
+Klamath,PRECINCT 3,U.S. Senate,,REP,Gordon H. Smith,197
+Klamath,PRECINCT 4,U.S. Senate,,REP,Gordon H. Smith,200
+Klamath,PRECINCT 5,U.S. Senate,,REP,Gordon H. Smith,26
+Klamath,PRECINCT 6,U.S. Senate,,REP,Gordon H. Smith,28
+Klamath,PRECINCT 7,U.S. Senate,,REP,Gordon H. Smith,540
+Klamath,PRECINCT 8,U.S. Senate,,REP,Gordon H. Smith,134
+Klamath,PRECINCT 9,U.S. Senate,,REP,Gordon H. Smith,163
+Klamath,PRECINCT 10,U.S. Senate,,REP,Gordon H. Smith,91
+Klamath,PRECINCT 11,U.S. Senate,,REP,Gordon H. Smith,341
+Klamath,PRECINCT 12,U.S. Senate,,REP,Gordon H. Smith,250
+Klamath,PRECINCT 13,U.S. Senate,,REP,Gordon H. Smith,671
+Klamath,PRECINCT 14,U.S. Senate,,REP,Gordon H. Smith,43
+Klamath,PRECINCT 15,U.S. Senate,,REP,Gordon H. Smith,275
+Klamath,PRECINCT 16,U.S. Senate,,REP,Gordon H. Smith,45
+Klamath,PRECINCT 17,U.S. Senate,,REP,Gordon H. Smith,74
+Klamath,PRECINCT 18,U.S. Senate,,REP,Gordon H. Smith,291
+Klamath,PRECINCT 19,U.S. Senate,,REP,Gordon H. Smith,35
+Klamath,PRECINCT 20,U.S. Senate,,REP,Gordon H. Smith,177
+Klamath,PRECINCT 21,U.S. Senate,,REP,Gordon H. Smith,537
+Klamath,PRECINCT 22,U.S. Senate,,REP,Gordon H. Smith,82
+Klamath,PRECINCT 23,U.S. Senate,,REP,Gordon H. Smith,450
+Klamath,PRECINCT 24,U.S. Senate,,REP,Gordon H. Smith,132
+Klamath,PRECINCT 25,U.S. Senate,,REP,Gordon H. Smith,235
+Klamath,PRECINCT 26,U.S. Senate,,REP,Gordon H. Smith,340
+Klamath,PRECINCT 27,U.S. Senate,,REP,Gordon H. Smith,434
+Klamath,PRECINCT 28,U.S. Senate,,REP,Gordon H. Smith,69
+Klamath,PRECINCT 29,U.S. Senate,,REP,Gordon H. Smith,251
+Klamath,PRECINCT 30,U.S. Senate,,REP,Gordon H. Smith,212
+Klamath,PRECINCT 31,U.S. Senate,,REP,Gordon H. Smith,303
+Klamath,PRECINCT 32,U.S. Senate,,REP,Gordon H. Smith,91
+Klamath,PRECINCT 33,U.S. Senate,,REP,Gordon H. Smith,125
+Klamath,PRECINCT 34,U.S. Senate,,REP,Gordon H. Smith,108
+Klamath,PRECINCT 35,U.S. Senate,,REP,Gordon H. Smith,65
+Klamath,PRECINCT 36,U.S. Senate,,REP,Gordon H. Smith,79
+Klamath,PRECINCT 37,U.S. Senate,,REP,Gordon H. Smith,181
+Klamath,PRECINCT 38,U.S. Senate,,REP,Gordon H. Smith,77
+Klamath,PRECINCT 39,U.S. Senate,,REP,Gordon H. Smith,17
+Klamath,PRECINCT 40,U.S. Senate,,REP,Gordon H. Smith,99
+Klamath,PRECINCT 41,U.S. Senate,,REP,Gordon H. Smith,184
+Klamath,PRECINCT 42,U.S. Senate,,REP,Gordon H. Smith,64
+Klamath,PRECINCT 1,U.S. Senate,,REP,Gordon Leitch,51
+Klamath,PRECINCT 2,U.S. Senate,,REP,Gordon Leitch,5
+Klamath,PRECINCT 3,U.S. Senate,,REP,Gordon Leitch,42
+Klamath,PRECINCT 4,U.S. Senate,,REP,Gordon Leitch,59
+Klamath,PRECINCT 5,U.S. Senate,,REP,Gordon Leitch,10
+Klamath,PRECINCT 6,U.S. Senate,,REP,Gordon Leitch,5
+Klamath,PRECINCT 7,U.S. Senate,,REP,Gordon Leitch,100
+Klamath,PRECINCT 8,U.S. Senate,,REP,Gordon Leitch,16
+Klamath,PRECINCT 9,U.S. Senate,,REP,Gordon Leitch,30
+Klamath,PRECINCT 10,U.S. Senate,,REP,Gordon Leitch,21
+Klamath,PRECINCT 11,U.S. Senate,,REP,Gordon Leitch,57
+Klamath,PRECINCT 12,U.S. Senate,,REP,Gordon Leitch,32
+Klamath,PRECINCT 13,U.S. Senate,,REP,Gordon Leitch,126
+Klamath,PRECINCT 14,U.S. Senate,,REP,Gordon Leitch,6
+Klamath,PRECINCT 15,U.S. Senate,,REP,Gordon Leitch,64
+Klamath,PRECINCT 16,U.S. Senate,,REP,Gordon Leitch,8
+Klamath,PRECINCT 17,U.S. Senate,,REP,Gordon Leitch,16
+Klamath,PRECINCT 18,U.S. Senate,,REP,Gordon Leitch,56
+Klamath,PRECINCT 19,U.S. Senate,,REP,Gordon Leitch,6
+Klamath,PRECINCT 20,U.S. Senate,,REP,Gordon Leitch,35
+Klamath,PRECINCT 21,U.S. Senate,,REP,Gordon Leitch,80
+Klamath,PRECINCT 22,U.S. Senate,,REP,Gordon Leitch,27
+Klamath,PRECINCT 23,U.S. Senate,,REP,Gordon Leitch,70
+Klamath,PRECINCT 24,U.S. Senate,,REP,Gordon Leitch,22
+Klamath,PRECINCT 25,U.S. Senate,,REP,Gordon Leitch,35
+Klamath,PRECINCT 26,U.S. Senate,,REP,Gordon Leitch,58
+Klamath,PRECINCT 27,U.S. Senate,,REP,Gordon Leitch,70
+Klamath,PRECINCT 28,U.S. Senate,,REP,Gordon Leitch,5
+Klamath,PRECINCT 29,U.S. Senate,,REP,Gordon Leitch,32
+Klamath,PRECINCT 30,U.S. Senate,,REP,Gordon Leitch,30
+Klamath,PRECINCT 31,U.S. Senate,,REP,Gordon Leitch,33
+Klamath,PRECINCT 32,U.S. Senate,,REP,Gordon Leitch,9
+Klamath,PRECINCT 33,U.S. Senate,,REP,Gordon Leitch,14
+Klamath,PRECINCT 34,U.S. Senate,,REP,Gordon Leitch,19
+Klamath,PRECINCT 35,U.S. Senate,,REP,Gordon Leitch,11
+Klamath,PRECINCT 36,U.S. Senate,,REP,Gordon Leitch,10
+Klamath,PRECINCT 37,U.S. Senate,,REP,Gordon Leitch,31
+Klamath,PRECINCT 38,U.S. Senate,,REP,Gordon Leitch,20
+Klamath,PRECINCT 39,U.S. Senate,,REP,Gordon Leitch,1
+Klamath,PRECINCT 40,U.S. Senate,,REP,Gordon Leitch,16
+Klamath,PRECINCT 41,U.S. Senate,,REP,Gordon Leitch,27
+Klamath,PRECINCT 42,U.S. Senate,,REP,Gordon Leitch,8
+Klamath,PRECINCT 1,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 2,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 3,U.S. Senate,,REP,Write-In,4
+Klamath,PRECINCT 4,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 5,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 6,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 7,U.S. Senate,,REP,Write-In,5
+Klamath,PRECINCT 8,U.S. Senate,,REP,Write-In,2
+Klamath,PRECINCT 9,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 10,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 11,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 12,U.S. Senate,,REP,Write-In,3
+Klamath,PRECINCT 13,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 14,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 15,U.S. Senate,,REP,Write-In,2
+Klamath,PRECINCT 16,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 17,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 18,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 19,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 20,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 21,U.S. Senate,,REP,Write-In,2
+Klamath,PRECINCT 22,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 23,U.S. Senate,,REP,Write-In,2
+Klamath,PRECINCT 24,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 25,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 26,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 27,U.S. Senate,,REP,Write-In,3
+Klamath,PRECINCT 28,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 29,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 30,U.S. Senate,,REP,Write-In,2
+Klamath,PRECINCT 31,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 32,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 33,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 34,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 35,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 36,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 37,U.S. Senate,,REP,Write-In,3
+Klamath,PRECINCT 38,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 39,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 40,U.S. Senate,,REP,Write-In,2
+Klamath,PRECINCT 41,U.S. Senate,,REP,Write-In,1
+Klamath,PRECINCT 42,U.S. Senate,,REP,Write-In,0
+Klamath,PRECINCT 1,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 2,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 3,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 4,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 5,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 6,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 7,U.S. Senate,,REP,Over Votes,1
+Klamath,PRECINCT 8,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 9,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 10,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 11,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 12,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 13,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 14,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 15,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 16,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 17,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 18,U.S. Senate,,REP,Over Votes,1
+Klamath,PRECINCT 19,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 20,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 21,U.S. Senate,,REP,Over Votes,1
+Klamath,PRECINCT 22,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 23,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 24,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 25,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 26,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 27,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 28,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 29,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 30,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 31,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 32,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 33,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 34,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 35,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 36,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 37,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 38,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 39,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 40,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 41,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 42,U.S. Senate,,REP,Over Votes,0
+Klamath,PRECINCT 1,U.S. Senate,,REP,Under Votes,20
+Klamath,PRECINCT 2,U.S. Senate,,REP,Under Votes,4
+Klamath,PRECINCT 3,U.S. Senate,,REP,Under Votes,21
+Klamath,PRECINCT 4,U.S. Senate,,REP,Under Votes,17
+Klamath,PRECINCT 5,U.S. Senate,,REP,Under Votes,5
+Klamath,PRECINCT 6,U.S. Senate,,REP,Under Votes,10
+Klamath,PRECINCT 7,U.S. Senate,,REP,Under Votes,55
+Klamath,PRECINCT 8,U.S. Senate,,REP,Under Votes,8
+Klamath,PRECINCT 9,U.S. Senate,,REP,Under Votes,19
+Klamath,PRECINCT 10,U.S. Senate,,REP,Under Votes,7
+Klamath,PRECINCT 11,U.S. Senate,,REP,Under Votes,32
+Klamath,PRECINCT 12,U.S. Senate,,REP,Under Votes,19
+Klamath,PRECINCT 13,U.S. Senate,,REP,Under Votes,64
+Klamath,PRECINCT 14,U.S. Senate,,REP,Under Votes,2
+Klamath,PRECINCT 15,U.S. Senate,,REP,Under Votes,23
+Klamath,PRECINCT 16,U.S. Senate,,REP,Under Votes,6
+Klamath,PRECINCT 17,U.S. Senate,,REP,Under Votes,3
+Klamath,PRECINCT 18,U.S. Senate,,REP,Under Votes,36
+Klamath,PRECINCT 19,U.S. Senate,,REP,Under Votes,5
+Klamath,PRECINCT 20,U.S. Senate,,REP,Under Votes,16
+Klamath,PRECINCT 21,U.S. Senate,,REP,Under Votes,54
+Klamath,PRECINCT 22,U.S. Senate,,REP,Under Votes,8
+Klamath,PRECINCT 23,U.S. Senate,,REP,Under Votes,42
+Klamath,PRECINCT 24,U.S. Senate,,REP,Under Votes,10
+Klamath,PRECINCT 25,U.S. Senate,,REP,Under Votes,23
+Klamath,PRECINCT 26,U.S. Senate,,REP,Under Votes,12
+Klamath,PRECINCT 27,U.S. Senate,,REP,Under Votes,40
+Klamath,PRECINCT 28,U.S. Senate,,REP,Under Votes,10
+Klamath,PRECINCT 29,U.S. Senate,,REP,Under Votes,23
+Klamath,PRECINCT 30,U.S. Senate,,REP,Under Votes,31
+Klamath,PRECINCT 31,U.S. Senate,,REP,Under Votes,28
+Klamath,PRECINCT 32,U.S. Senate,,REP,Under Votes,13
+Klamath,PRECINCT 33,U.S. Senate,,REP,Under Votes,9
+Klamath,PRECINCT 34,U.S. Senate,,REP,Under Votes,7
+Klamath,PRECINCT 35,U.S. Senate,,REP,Under Votes,10
+Klamath,PRECINCT 36,U.S. Senate,,REP,Under Votes,9
+Klamath,PRECINCT 37,U.S. Senate,,REP,Under Votes,17
+Klamath,PRECINCT 38,U.S. Senate,,REP,Under Votes,9
+Klamath,PRECINCT 39,U.S. Senate,,REP,Under Votes,2
+Klamath,PRECINCT 40,U.S. Senate,,REP,Under Votes,5
+Klamath,PRECINCT 41,U.S. Senate,,REP,Under Votes,20
+Klamath,PRECINCT 42,U.S. Senate,,REP,Under Votes,3
+Klamath,PRECINCT 1,U.S. House,2,REP,Greg Walden,260
+Klamath,PRECINCT 2,U.S. House,2,REP,Greg Walden,17
+Klamath,PRECINCT 3,U.S. House,2,REP,Greg Walden,234
+Klamath,PRECINCT 4,U.S. House,2,REP,Greg Walden,244
+Klamath,PRECINCT 5,U.S. House,2,REP,Greg Walden,34
+Klamath,PRECINCT 6,U.S. House,2,REP,Greg Walden,33
+Klamath,PRECINCT 7,U.S. House,2,REP,Greg Walden,610
+Klamath,PRECINCT 8,U.S. House,2,REP,Greg Walden,142
+Klamath,PRECINCT 9,U.S. House,2,REP,Greg Walden,183
+Klamath,PRECINCT 10,U.S. House,2,REP,Greg Walden,106
+Klamath,PRECINCT 11,U.S. House,2,REP,Greg Walden,382
+Klamath,PRECINCT 12,U.S. House,2,REP,Greg Walden,278
+Klamath,PRECINCT 13,U.S. House,2,REP,Greg Walden,780
+Klamath,PRECINCT 14,U.S. House,2,REP,Greg Walden,42
+Klamath,PRECINCT 15,U.S. House,2,REP,Greg Walden,323
+Klamath,PRECINCT 16,U.S. House,2,REP,Greg Walden,56
+Klamath,PRECINCT 17,U.S. House,2,REP,Greg Walden,82
+Klamath,PRECINCT 18,U.S. House,2,REP,Greg Walden,341
+Klamath,PRECINCT 19,U.S. House,2,REP,Greg Walden,40
+Klamath,PRECINCT 20,U.S. House,2,REP,Greg Walden,194
+Klamath,PRECINCT 21,U.S. House,2,REP,Greg Walden,597
+Klamath,PRECINCT 22,U.S. House,2,REP,Greg Walden,101
+Klamath,PRECINCT 23,U.S. House,2,REP,Greg Walden,488
+Klamath,PRECINCT 24,U.S. House,2,REP,Greg Walden,153
+Klamath,PRECINCT 25,U.S. House,2,REP,Greg Walden,265
+Klamath,PRECINCT 26,U.S. House,2,REP,Greg Walden,385
+Klamath,PRECINCT 27,U.S. House,2,REP,Greg Walden,476
+Klamath,PRECINCT 28,U.S. House,2,REP,Greg Walden,74
+Klamath,PRECINCT 29,U.S. House,2,REP,Greg Walden,280
+Klamath,PRECINCT 30,U.S. House,2,REP,Greg Walden,243
+Klamath,PRECINCT 31,U.S. House,2,REP,Greg Walden,317
+Klamath,PRECINCT 32,U.S. House,2,REP,Greg Walden,91
+Klamath,PRECINCT 33,U.S. House,2,REP,Greg Walden,134
+Klamath,PRECINCT 34,U.S. House,2,REP,Greg Walden,126
+Klamath,PRECINCT 35,U.S. House,2,REP,Greg Walden,73
+Klamath,PRECINCT 36,U.S. House,2,REP,Greg Walden,85
+Klamath,PRECINCT 37,U.S. House,2,REP,Greg Walden,200
+Klamath,PRECINCT 38,U.S. House,2,REP,Greg Walden,88
+Klamath,PRECINCT 39,U.S. House,2,REP,Greg Walden,17
+Klamath,PRECINCT 40,U.S. House,2,REP,Greg Walden,106
+Klamath,PRECINCT 41,U.S. House,2,REP,Greg Walden,204
+Klamath,PRECINCT 42,U.S. House,2,REP,Greg Walden,66
+Klamath,PRECINCT 1,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 2,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 3,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 4,U.S. House,2,REP,Write-In,3
+Klamath,PRECINCT 5,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 6,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 7,U.S. House,2,REP,Write-In,6
+Klamath,PRECINCT 8,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 9,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 10,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 11,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 12,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 13,U.S. House,2,REP,Write-In,3
+Klamath,PRECINCT 14,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 15,U.S. House,2,REP,Write-In,2
+Klamath,PRECINCT 16,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 17,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 18,U.S. House,2,REP,Write-In,4
+Klamath,PRECINCT 19,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 20,U.S. House,2,REP,Write-In,3
+Klamath,PRECINCT 21,U.S. House,2,REP,Write-In,8
+Klamath,PRECINCT 22,U.S. House,2,REP,Write-In,2
+Klamath,PRECINCT 23,U.S. House,2,REP,Write-In,4
+Klamath,PRECINCT 24,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 25,U.S. House,2,REP,Write-In,4
+Klamath,PRECINCT 26,U.S. House,2,REP,Write-In,4
+Klamath,PRECINCT 27,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 28,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 29,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 30,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 31,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 32,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 33,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 34,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 35,U.S. House,2,REP,Write-In,1
+Klamath,PRECINCT 36,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 37,U.S. House,2,REP,Write-In,3
+Klamath,PRECINCT 38,U.S. House,2,REP,Write-In,3
+Klamath,PRECINCT 39,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 40,U.S. House,2,REP,Write-In,3
+Klamath,PRECINCT 41,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 42,U.S. House,2,REP,Write-In,0
+Klamath,PRECINCT 1,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 2,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 3,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 4,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 5,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 6,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 7,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 8,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 9,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 10,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 11,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 12,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 13,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 14,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 15,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 16,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 17,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 18,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 19,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 20,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 21,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 22,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 23,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 24,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 25,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 26,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 27,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 28,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 29,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 30,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 31,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 32,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 33,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 34,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 35,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 36,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 37,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 38,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 39,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 40,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 41,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 42,U.S. House,2,REP,Over Votes,0
+Klamath,PRECINCT 1,U.S. House,2,REP,Under Votes,31
+Klamath,PRECINCT 2,U.S. House,2,REP,Under Votes,4
+Klamath,PRECINCT 3,U.S. House,2,REP,Under Votes,30
+Klamath,PRECINCT 4,U.S. House,2,REP,Under Votes,30
+Klamath,PRECINCT 5,U.S. House,2,REP,Under Votes,6
+Klamath,PRECINCT 6,U.S. House,2,REP,Under Votes,10
+Klamath,PRECINCT 7,U.S. House,2,REP,Under Votes,85
+Klamath,PRECINCT 8,U.S. House,2,REP,Under Votes,18
+Klamath,PRECINCT 9,U.S. House,2,REP,Under Votes,30
+Klamath,PRECINCT 10,U.S. House,2,REP,Under Votes,12
+Klamath,PRECINCT 11,U.S. House,2,REP,Under Votes,48
+Klamath,PRECINCT 12,U.S. House,2,REP,Under Votes,26
+Klamath,PRECINCT 13,U.S. House,2,REP,Under Votes,79
+Klamath,PRECINCT 14,U.S. House,2,REP,Under Votes,9
+Klamath,PRECINCT 15,U.S. House,2,REP,Under Votes,39
+Klamath,PRECINCT 16,U.S. House,2,REP,Under Votes,3
+Klamath,PRECINCT 17,U.S. House,2,REP,Under Votes,11
+Klamath,PRECINCT 18,U.S. House,2,REP,Under Votes,39
+Klamath,PRECINCT 19,U.S. House,2,REP,Under Votes,6
+Klamath,PRECINCT 20,U.S. House,2,REP,Under Votes,32
+Klamath,PRECINCT 21,U.S. House,2,REP,Under Votes,69
+Klamath,PRECINCT 22,U.S. House,2,REP,Under Votes,15
+Klamath,PRECINCT 23,U.S. House,2,REP,Under Votes,72
+Klamath,PRECINCT 24,U.S. House,2,REP,Under Votes,12
+Klamath,PRECINCT 25,U.S. House,2,REP,Under Votes,25
+Klamath,PRECINCT 26,U.S. House,2,REP,Under Votes,22
+Klamath,PRECINCT 27,U.S. House,2,REP,Under Votes,70
+Klamath,PRECINCT 28,U.S. House,2,REP,Under Votes,9
+Klamath,PRECINCT 29,U.S. House,2,REP,Under Votes,27
+Klamath,PRECINCT 30,U.S. House,2,REP,Under Votes,32
+Klamath,PRECINCT 31,U.S. House,2,REP,Under Votes,47
+Klamath,PRECINCT 32,U.S. House,2,REP,Under Votes,22
+Klamath,PRECINCT 33,U.S. House,2,REP,Under Votes,13
+Klamath,PRECINCT 34,U.S. House,2,REP,Under Votes,8
+Klamath,PRECINCT 35,U.S. House,2,REP,Under Votes,12
+Klamath,PRECINCT 36,U.S. House,2,REP,Under Votes,13
+Klamath,PRECINCT 37,U.S. House,2,REP,Under Votes,29
+Klamath,PRECINCT 38,U.S. House,2,REP,Under Votes,15
+Klamath,PRECINCT 39,U.S. House,2,REP,Under Votes,3
+Klamath,PRECINCT 40,U.S. House,2,REP,Under Votes,13
+Klamath,PRECINCT 41,U.S. House,2,REP,Under Votes,28
+Klamath,PRECINCT 42,U.S. House,2,REP,Under Votes,9
+Klamath,PRECINCT 1,Secretary of State,,REP,Rick Dancer,225
+Klamath,PRECINCT 2,Secretary of State,,REP,Rick Dancer,13
+Klamath,PRECINCT 3,Secretary of State,,REP,Rick Dancer,198
+Klamath,PRECINCT 4,Secretary of State,,REP,Rick Dancer,199
+Klamath,PRECINCT 5,Secretary of State,,REP,Rick Dancer,28
+Klamath,PRECINCT 6,Secretary of State,,REP,Rick Dancer,24
+Klamath,PRECINCT 7,Secretary of State,,REP,Rick Dancer,478
+Klamath,PRECINCT 8,Secretary of State,,REP,Rick Dancer,109
+Klamath,PRECINCT 9,Secretary of State,,REP,Rick Dancer,142
+Klamath,PRECINCT 10,Secretary of State,,REP,Rick Dancer,75
+Klamath,PRECINCT 11,Secretary of State,,REP,Rick Dancer,286
+Klamath,PRECINCT 12,Secretary of State,,REP,Rick Dancer,203
+Klamath,PRECINCT 13,Secretary of State,,REP,Rick Dancer,573
+Klamath,PRECINCT 14,Secretary of State,,REP,Rick Dancer,35
+Klamath,PRECINCT 15,Secretary of State,,REP,Rick Dancer,247
+Klamath,PRECINCT 16,Secretary of State,,REP,Rick Dancer,42
+Klamath,PRECINCT 17,Secretary of State,,REP,Rick Dancer,63
+Klamath,PRECINCT 18,Secretary of State,,REP,Rick Dancer,269
+Klamath,PRECINCT 19,Secretary of State,,REP,Rick Dancer,28
+Klamath,PRECINCT 20,Secretary of State,,REP,Rick Dancer,169
+Klamath,PRECINCT 21,Secretary of State,,REP,Rick Dancer,455
+Klamath,PRECINCT 22,Secretary of State,,REP,Rick Dancer,79
+Klamath,PRECINCT 23,Secretary of State,,REP,Rick Dancer,380
+Klamath,PRECINCT 24,Secretary of State,,REP,Rick Dancer,112
+Klamath,PRECINCT 25,Secretary of State,,REP,Rick Dancer,196
+Klamath,PRECINCT 26,Secretary of State,,REP,Rick Dancer,304
+Klamath,PRECINCT 27,Secretary of State,,REP,Rick Dancer,358
+Klamath,PRECINCT 28,Secretary of State,,REP,Rick Dancer,66
+Klamath,PRECINCT 29,Secretary of State,,REP,Rick Dancer,223
+Klamath,PRECINCT 30,Secretary of State,,REP,Rick Dancer,182
+Klamath,PRECINCT 31,Secretary of State,,REP,Rick Dancer,224
+Klamath,PRECINCT 32,Secretary of State,,REP,Rick Dancer,67
+Klamath,PRECINCT 33,Secretary of State,,REP,Rick Dancer,106
+Klamath,PRECINCT 34,Secretary of State,,REP,Rick Dancer,95
+Klamath,PRECINCT 35,Secretary of State,,REP,Rick Dancer,52
+Klamath,PRECINCT 36,Secretary of State,,REP,Rick Dancer,66
+Klamath,PRECINCT 37,Secretary of State,,REP,Rick Dancer,155
+Klamath,PRECINCT 38,Secretary of State,,REP,Rick Dancer,76
+Klamath,PRECINCT 39,Secretary of State,,REP,Rick Dancer,14
+Klamath,PRECINCT 40,Secretary of State,,REP,Rick Dancer,88
+Klamath,PRECINCT 41,Secretary of State,,REP,Rick Dancer,160
+Klamath,PRECINCT 42,Secretary of State,,REP,Rick Dancer,52
+Klamath,PRECINCT 1,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 2,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 3,Secretary of State,,REP,Write-In,3
+Klamath,PRECINCT 4,Secretary of State,,REP,Write-In,3
+Klamath,PRECINCT 5,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 6,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 7,Secretary of State,,REP,Write-In,3
+Klamath,PRECINCT 8,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 9,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 10,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 11,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 12,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 13,Secretary of State,,REP,Write-In,3
+Klamath,PRECINCT 14,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 15,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 16,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 17,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 18,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 19,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 20,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 21,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 22,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 23,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 24,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 25,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 26,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 27,Secretary of State,,REP,Write-In,6
+Klamath,PRECINCT 28,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 29,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 30,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 31,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 32,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 33,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 34,Secretary of State,,REP,Write-In,3
+Klamath,PRECINCT 35,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 36,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 37,Secretary of State,,REP,Write-In,2
+Klamath,PRECINCT 38,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 39,Secretary of State,,REP,Write-In,0
+Klamath,PRECINCT 40,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 41,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 42,Secretary of State,,REP,Write-In,1
+Klamath,PRECINCT 1,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 2,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 3,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 4,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 5,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 6,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 7,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 8,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 9,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 10,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 11,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 12,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 13,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 14,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 15,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 16,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 17,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 18,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 19,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 20,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 21,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 22,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 23,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 24,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 25,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 26,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 27,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 28,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 29,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 30,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 31,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 32,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 33,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 34,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 35,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 36,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 37,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 38,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 39,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 40,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 41,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 42,Secretary of State,,REP,Over Votes,0
+Klamath,PRECINCT 1,Secretary of State,,REP,Under Votes,67
+Klamath,PRECINCT 2,Secretary of State,,REP,Under Votes,8
+Klamath,PRECINCT 3,Secretary of State,,REP,Under Votes,63
+Klamath,PRECINCT 4,Secretary of State,,REP,Under Votes,75
+Klamath,PRECINCT 5,Secretary of State,,REP,Under Votes,13
+Klamath,PRECINCT 6,Secretary of State,,REP,Under Votes,19
+Klamath,PRECINCT 7,Secretary of State,,REP,Under Votes,220
+Klamath,PRECINCT 8,Secretary of State,,REP,Under Votes,49
+Klamath,PRECINCT 9,Secretary of State,,REP,Under Votes,69
+Klamath,PRECINCT 10,Secretary of State,,REP,Under Votes,42
+Klamath,PRECINCT 11,Secretary of State,,REP,Under Votes,145
+Klamath,PRECINCT 12,Secretary of State,,REP,Under Votes,101
+Klamath,PRECINCT 13,Secretary of State,,REP,Under Votes,286
+Klamath,PRECINCT 14,Secretary of State,,REP,Under Votes,15
+Klamath,PRECINCT 15,Secretary of State,,REP,Under Votes,117
+Klamath,PRECINCT 16,Secretary of State,,REP,Under Votes,17
+Klamath,PRECINCT 17,Secretary of State,,REP,Under Votes,28
+Klamath,PRECINCT 18,Secretary of State,,REP,Under Votes,114
+Klamath,PRECINCT 19,Secretary of State,,REP,Under Votes,18
+Klamath,PRECINCT 20,Secretary of State,,REP,Under Votes,59
+Klamath,PRECINCT 21,Secretary of State,,REP,Under Votes,217
+Klamath,PRECINCT 22,Secretary of State,,REP,Under Votes,38
+Klamath,PRECINCT 23,Secretary of State,,REP,Under Votes,182
+Klamath,PRECINCT 24,Secretary of State,,REP,Under Votes,51
+Klamath,PRECINCT 25,Secretary of State,,REP,Under Votes,97
+Klamath,PRECINCT 26,Secretary of State,,REP,Under Votes,106
+Klamath,PRECINCT 27,Secretary of State,,REP,Under Votes,183
+Klamath,PRECINCT 28,Secretary of State,,REP,Under Votes,18
+Klamath,PRECINCT 29,Secretary of State,,REP,Under Votes,83
+Klamath,PRECINCT 30,Secretary of State,,REP,Under Votes,92
+Klamath,PRECINCT 31,Secretary of State,,REP,Under Votes,140
+Klamath,PRECINCT 32,Secretary of State,,REP,Under Votes,46
+Klamath,PRECINCT 33,Secretary of State,,REP,Under Votes,42
+Klamath,PRECINCT 34,Secretary of State,,REP,Under Votes,37
+Klamath,PRECINCT 35,Secretary of State,,REP,Under Votes,34
+Klamath,PRECINCT 36,Secretary of State,,REP,Under Votes,30
+Klamath,PRECINCT 37,Secretary of State,,REP,Under Votes,75
+Klamath,PRECINCT 38,Secretary of State,,REP,Under Votes,29
+Klamath,PRECINCT 39,Secretary of State,,REP,Under Votes,6
+Klamath,PRECINCT 40,Secretary of State,,REP,Under Votes,33
+Klamath,PRECINCT 41,Secretary of State,,REP,Under Votes,71
+Klamath,PRECINCT 42,Secretary of State,,REP,Under Votes,22
+Klamath,PRECINCT 1,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 2,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 3,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 4,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 5,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 6,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 7,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 8,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 9,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 10,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 11,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 12,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 13,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 14,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 15,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 16,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 17,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 18,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 19,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 20,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 21,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 22,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 23,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 24,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 25,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 26,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 27,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 28,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 29,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 30,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 31,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 32,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 33,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 34,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 35,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 36,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 37,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 38,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 39,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 40,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 41,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 42,Attorney General,,REP,No Candidate Filed,0
+Klamath,PRECINCT 1,Attorney General,,REP,Write-In,6
+Klamath,PRECINCT 2,Attorney General,,REP,Write-In,0
+Klamath,PRECINCT 3,Attorney General,,REP,Write-In,13
+Klamath,PRECINCT 4,Attorney General,,REP,Write-In,13
+Klamath,PRECINCT 5,Attorney General,,REP,Write-In,1
+Klamath,PRECINCT 6,Attorney General,,REP,Write-In,0
+Klamath,PRECINCT 7,Attorney General,,REP,Write-In,15
+Klamath,PRECINCT 8,Attorney General,,REP,Write-In,4
+Klamath,PRECINCT 9,Attorney General,,REP,Write-In,7
+Klamath,PRECINCT 10,Attorney General,,REP,Write-In,5
+Klamath,PRECINCT 11,Attorney General,,REP,Write-In,4
+Klamath,PRECINCT 12,Attorney General,,REP,Write-In,5
+Klamath,PRECINCT 13,Attorney General,,REP,Write-In,14
+Klamath,PRECINCT 14,Attorney General,,REP,Write-In,1
+Klamath,PRECINCT 15,Attorney General,,REP,Write-In,19
+Klamath,PRECINCT 16,Attorney General,,REP,Write-In,1
+Klamath,PRECINCT 17,Attorney General,,REP,Write-In,5
+Klamath,PRECINCT 18,Attorney General,,REP,Write-In,10
+Klamath,PRECINCT 19,Attorney General,,REP,Write-In,0
+Klamath,PRECINCT 20,Attorney General,,REP,Write-In,9
+Klamath,PRECINCT 21,Attorney General,,REP,Write-In,11
+Klamath,PRECINCT 22,Attorney General,,REP,Write-In,2
+Klamath,PRECINCT 23,Attorney General,,REP,Write-In,20
+Klamath,PRECINCT 24,Attorney General,,REP,Write-In,7
+Klamath,PRECINCT 25,Attorney General,,REP,Write-In,11
+Klamath,PRECINCT 26,Attorney General,,REP,Write-In,12
+Klamath,PRECINCT 27,Attorney General,,REP,Write-In,9
+Klamath,PRECINCT 28,Attorney General,,REP,Write-In,1
+Klamath,PRECINCT 29,Attorney General,,REP,Write-In,6
+Klamath,PRECINCT 30,Attorney General,,REP,Write-In,6
+Klamath,PRECINCT 31,Attorney General,,REP,Write-In,7
+Klamath,PRECINCT 32,Attorney General,,REP,Write-In,3
+Klamath,PRECINCT 33,Attorney General,,REP,Write-In,5
+Klamath,PRECINCT 34,Attorney General,,REP,Write-In,7
+Klamath,PRECINCT 35,Attorney General,,REP,Write-In,3
+Klamath,PRECINCT 36,Attorney General,,REP,Write-In,5
+Klamath,PRECINCT 37,Attorney General,,REP,Write-In,8
+Klamath,PRECINCT 38,Attorney General,,REP,Write-In,8
+Klamath,PRECINCT 39,Attorney General,,REP,Write-In,0
+Klamath,PRECINCT 40,Attorney General,,REP,Write-In,6
+Klamath,PRECINCT 41,Attorney General,,REP,Write-In,9
+Klamath,PRECINCT 42,Attorney General,,REP,Write-In,2
+Klamath,PRECINCT 1,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 2,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 3,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 4,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 5,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 6,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 7,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 8,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 9,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 10,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 11,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 12,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 13,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 14,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 15,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 16,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 17,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 18,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 19,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 20,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 21,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 22,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 23,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 24,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 25,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 26,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 27,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 28,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 29,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 30,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 31,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 32,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 33,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 34,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 35,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 36,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 37,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 38,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 39,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 40,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 41,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 42,Attorney General,,REP,Over Votes,0
+Klamath,PRECINCT 1,Attorney General,,REP,Under Votes,286
+Klamath,PRECINCT 2,Attorney General,,REP,Under Votes,21
+Klamath,PRECINCT 3,Attorney General,,REP,Under Votes,251
+Klamath,PRECINCT 4,Attorney General,,REP,Under Votes,264
+Klamath,PRECINCT 5,Attorney General,,REP,Under Votes,40
+Klamath,PRECINCT 6,Attorney General,,REP,Under Votes,43
+Klamath,PRECINCT 7,Attorney General,,REP,Under Votes,686
+Klamath,PRECINCT 8,Attorney General,,REP,Under Votes,156
+Klamath,PRECINCT 9,Attorney General,,REP,Under Votes,206
+Klamath,PRECINCT 10,Attorney General,,REP,Under Votes,114
+Klamath,PRECINCT 11,Attorney General,,REP,Under Votes,427
+Klamath,PRECINCT 12,Attorney General,,REP,Under Votes,299
+Klamath,PRECINCT 13,Attorney General,,REP,Under Votes,848
+Klamath,PRECINCT 14,Attorney General,,REP,Under Votes,50
+Klamath,PRECINCT 15,Attorney General,,REP,Under Votes,345
+Klamath,PRECINCT 16,Attorney General,,REP,Under Votes,58
+Klamath,PRECINCT 17,Attorney General,,REP,Under Votes,88
+Klamath,PRECINCT 18,Attorney General,,REP,Under Votes,374
+Klamath,PRECINCT 19,Attorney General,,REP,Under Votes,46
+Klamath,PRECINCT 20,Attorney General,,REP,Under Votes,220
+Klamath,PRECINCT 21,Attorney General,,REP,Under Votes,663
+Klamath,PRECINCT 22,Attorney General,,REP,Under Votes,116
+Klamath,PRECINCT 23,Attorney General,,REP,Under Votes,544
+Klamath,PRECINCT 24,Attorney General,,REP,Under Votes,158
+Klamath,PRECINCT 25,Attorney General,,REP,Under Votes,283
+Klamath,PRECINCT 26,Attorney General,,REP,Under Votes,399
+Klamath,PRECINCT 27,Attorney General,,REP,Under Votes,538
+Klamath,PRECINCT 28,Attorney General,,REP,Under Votes,83
+Klamath,PRECINCT 29,Attorney General,,REP,Under Votes,301
+Klamath,PRECINCT 30,Attorney General,,REP,Under Votes,269
+Klamath,PRECINCT 31,Attorney General,,REP,Under Votes,357
+Klamath,PRECINCT 32,Attorney General,,REP,Under Votes,110
+Klamath,PRECINCT 33,Attorney General,,REP,Under Votes,143
+Klamath,PRECINCT 34,Attorney General,,REP,Under Votes,128
+Klamath,PRECINCT 35,Attorney General,,REP,Under Votes,83
+Klamath,PRECINCT 36,Attorney General,,REP,Under Votes,93
+Klamath,PRECINCT 37,Attorney General,,REP,Under Votes,224
+Klamath,PRECINCT 38,Attorney General,,REP,Under Votes,98
+Klamath,PRECINCT 39,Attorney General,,REP,Under Votes,20
+Klamath,PRECINCT 40,Attorney General,,REP,Under Votes,116
+Klamath,PRECINCT 41,Attorney General,,REP,Under Votes,223
+Klamath,PRECINCT 42,Attorney General,,REP,Under Votes,73
+Klamath,PRECINCT 1,State Senate,28,REP,Doug Whitsett,218
+Klamath,PRECINCT 2,State Senate,28,REP,Doug Whitsett,13
+Klamath,PRECINCT 3,State Senate,28,REP,Doug Whitsett,215
+Klamath,PRECINCT 4,State Senate,28,REP,Doug Whitsett,212
+Klamath,PRECINCT 5,State Senate,28,REP,Doug Whitsett,29
+Klamath,PRECINCT 6,State Senate,28,REP,Doug Whitsett,36
+Klamath,PRECINCT 7,State Senate,28,REP,Doug Whitsett,532
+Klamath,PRECINCT 8,State Senate,28,REP,Doug Whitsett,131
+Klamath,PRECINCT 9,State Senate,28,REP,Doug Whitsett,182
+Klamath,PRECINCT 10,State Senate,28,REP,Doug Whitsett,98
+Klamath,PRECINCT 11,State Senate,28,REP,Doug Whitsett,327
+Klamath,PRECINCT 12,State Senate,28,REP,Doug Whitsett,247
+Klamath,PRECINCT 13,State Senate,28,REP,Doug Whitsett,718
+Klamath,PRECINCT 14,State Senate,28,REP,Doug Whitsett,44
+Klamath,PRECINCT 15,State Senate,28,REP,Doug Whitsett,298
+Klamath,PRECINCT 16,State Senate,28,REP,Doug Whitsett,49
+Klamath,PRECINCT 17,State Senate,28,REP,Doug Whitsett,73
+Klamath,PRECINCT 18,State Senate,28,REP,Doug Whitsett,336
+Klamath,PRECINCT 19,State Senate,28,REP,Doug Whitsett,32
+Klamath,PRECINCT 20,State Senate,28,REP,Doug Whitsett,173
+Klamath,PRECINCT 21,State Senate,28,REP,Doug Whitsett,521
+Klamath,PRECINCT 22,State Senate,28,REP,Doug Whitsett,94
+Klamath,PRECINCT 23,State Senate,28,REP,Doug Whitsett,436
+Klamath,PRECINCT 24,State Senate,28,REP,Doug Whitsett,132
+Klamath,PRECINCT 25,State Senate,28,REP,Doug Whitsett,227
+Klamath,PRECINCT 26,State Senate,28,REP,Doug Whitsett,343
+Klamath,PRECINCT 27,State Senate,28,REP,Doug Whitsett,429
+Klamath,PRECINCT 28,State Senate,28,REP,Doug Whitsett,72
+Klamath,PRECINCT 29,State Senate,28,REP,Doug Whitsett,237
+Klamath,PRECINCT 30,State Senate,28,REP,Doug Whitsett,200
+Klamath,PRECINCT 31,State Senate,28,REP,Doug Whitsett,276
+Klamath,PRECINCT 32,State Senate,28,REP,Doug Whitsett,71
+Klamath,PRECINCT 33,State Senate,28,REP,Doug Whitsett,120
+Klamath,PRECINCT 34,State Senate,28,REP,Doug Whitsett,109
+Klamath,PRECINCT 35,State Senate,28,REP,Doug Whitsett,59
+Klamath,PRECINCT 36,State Senate,28,REP,Doug Whitsett,71
+Klamath,PRECINCT 37,State Senate,28,REP,Doug Whitsett,179
+Klamath,PRECINCT 38,State Senate,28,REP,Doug Whitsett,77
+Klamath,PRECINCT 39,State Senate,28,REP,Doug Whitsett,14
+Klamath,PRECINCT 40,State Senate,28,REP,Doug Whitsett,98
+Klamath,PRECINCT 41,State Senate,28,REP,Doug Whitsett,171
+Klamath,PRECINCT 42,State Senate,28,REP,Doug Whitsett,54
+Klamath,PRECINCT 1,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 2,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 3,State Senate,28,REP,Write-In,2
+Klamath,PRECINCT 4,State Senate,28,REP,Write-In,3
+Klamath,PRECINCT 5,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 6,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 7,State Senate,28,REP,Write-In,10
+Klamath,PRECINCT 8,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 9,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 10,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 11,State Senate,28,REP,Write-In,1
+Klamath,PRECINCT 12,State Senate,28,REP,Write-In,3
+Klamath,PRECINCT 13,State Senate,28,REP,Write-In,5
+Klamath,PRECINCT 14,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 15,State Senate,28,REP,Write-In,4
+Klamath,PRECINCT 16,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 17,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 18,State Senate,28,REP,Write-In,4
+Klamath,PRECINCT 19,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 20,State Senate,28,REP,Write-In,5
+Klamath,PRECINCT 21,State Senate,28,REP,Write-In,4
+Klamath,PRECINCT 22,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 23,State Senate,28,REP,Write-In,4
+Klamath,PRECINCT 24,State Senate,28,REP,Write-In,2
+Klamath,PRECINCT 25,State Senate,28,REP,Write-In,1
+Klamath,PRECINCT 26,State Senate,28,REP,Write-In,2
+Klamath,PRECINCT 27,State Senate,28,REP,Write-In,1
+Klamath,PRECINCT 28,State Senate,28,REP,Write-In,1
+Klamath,PRECINCT 29,State Senate,28,REP,Write-In,2
+Klamath,PRECINCT 30,State Senate,28,REP,Write-In,3
+Klamath,PRECINCT 31,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 32,State Senate,28,REP,Write-In,2
+Klamath,PRECINCT 33,State Senate,28,REP,Write-In,3
+Klamath,PRECINCT 34,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 35,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 36,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 37,State Senate,28,REP,Write-In,4
+Klamath,PRECINCT 38,State Senate,28,REP,Write-In,1
+Klamath,PRECINCT 39,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 40,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 41,State Senate,28,REP,Write-In,3
+Klamath,PRECINCT 42,State Senate,28,REP,Write-In,0
+Klamath,PRECINCT 1,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 2,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 3,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 4,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 5,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 6,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 7,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 8,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 9,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 10,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 11,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 12,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 13,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 14,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 15,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 16,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 17,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 18,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 19,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 20,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 21,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 22,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 23,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 24,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 25,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 26,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 27,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 28,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 29,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 30,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 31,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 32,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 33,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 34,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 35,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 36,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 37,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 38,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 39,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 40,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 41,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 42,State Senate,28,REP,Over Votes,0
+Klamath,PRECINCT 1,State Senate,28,REP,Under Votes,74
+Klamath,PRECINCT 2,State Senate,28,REP,Under Votes,8
+Klamath,PRECINCT 3,State Senate,28,REP,Under Votes,47
+Klamath,PRECINCT 4,State Senate,28,REP,Under Votes,62
+Klamath,PRECINCT 5,State Senate,28,REP,Under Votes,12
+Klamath,PRECINCT 6,State Senate,28,REP,Under Votes,7
+Klamath,PRECINCT 7,State Senate,28,REP,Under Votes,159
+Klamath,PRECINCT 8,State Senate,28,REP,Under Votes,29
+Klamath,PRECINCT 9,State Senate,28,REP,Under Votes,31
+Klamath,PRECINCT 10,State Senate,28,REP,Under Votes,21
+Klamath,PRECINCT 11,State Senate,28,REP,Under Votes,103
+Klamath,PRECINCT 12,State Senate,28,REP,Under Votes,54
+Klamath,PRECINCT 13,State Senate,28,REP,Under Votes,139
+Klamath,PRECINCT 14,State Senate,28,REP,Under Votes,7
+Klamath,PRECINCT 15,State Senate,28,REP,Under Votes,62
+Klamath,PRECINCT 16,State Senate,28,REP,Under Votes,10
+Klamath,PRECINCT 17,State Senate,28,REP,Under Votes,20
+Klamath,PRECINCT 18,State Senate,28,REP,Under Votes,44
+Klamath,PRECINCT 19,State Senate,28,REP,Under Votes,14
+Klamath,PRECINCT 20,State Senate,28,REP,Under Votes,51
+Klamath,PRECINCT 21,State Senate,28,REP,Under Votes,149
+Klamath,PRECINCT 22,State Senate,28,REP,Under Votes,24
+Klamath,PRECINCT 23,State Senate,28,REP,Under Votes,124
+Klamath,PRECINCT 24,State Senate,28,REP,Under Votes,31
+Klamath,PRECINCT 25,State Senate,28,REP,Under Votes,66
+Klamath,PRECINCT 26,State Senate,28,REP,Under Votes,66
+Klamath,PRECINCT 27,State Senate,28,REP,Under Votes,117
+Klamath,PRECINCT 28,State Senate,28,REP,Under Votes,11
+Klamath,PRECINCT 29,State Senate,28,REP,Under Votes,68
+Klamath,PRECINCT 30,State Senate,28,REP,Under Votes,72
+Klamath,PRECINCT 31,State Senate,28,REP,Under Votes,88
+Klamath,PRECINCT 32,State Senate,28,REP,Under Votes,40
+Klamath,PRECINCT 33,State Senate,28,REP,Under Votes,25
+Klamath,PRECINCT 34,State Senate,28,REP,Under Votes,26
+Klamath,PRECINCT 35,State Senate,28,REP,Under Votes,27
+Klamath,PRECINCT 36,State Senate,28,REP,Under Votes,27
+Klamath,PRECINCT 37,State Senate,28,REP,Under Votes,49
+Klamath,PRECINCT 38,State Senate,28,REP,Under Votes,28
+Klamath,PRECINCT 39,State Senate,28,REP,Under Votes,6
+Klamath,PRECINCT 40,State Senate,28,REP,Under Votes,24
+Klamath,PRECINCT 41,State Senate,28,REP,Under Votes,58
+Klamath,PRECINCT 42,State Senate,28,REP,Under Votes,21
+Klamath,PRECINCT 1,State House,55,REP,George Gilman,211
+Klamath,PRECINCT 2,State House,55,REP,George Gilman,13
+Klamath,PRECINCT 3,State House,55,REP,George Gilman,193
+Klamath,PRECINCT 4,State House,55,REP,George Gilman,200
+Klamath,PRECINCT 5,State House,55,REP,George Gilman,27
+Klamath,PRECINCT 6,State House,55,REP,George Gilman,30
+Klamath,PRECINCT 1,State House,55,REP,Write-In,1
+Klamath,PRECINCT 2,State House,55,REP,Write-In,0
+Klamath,PRECINCT 3,State House,55,REP,Write-In,0
+Klamath,PRECINCT 4,State House,55,REP,Write-In,0
+Klamath,PRECINCT 5,State House,55,REP,Write-In,0
+Klamath,PRECINCT 6,State House,55,REP,Write-In,0
+Klamath,PRECINCT 1,State House,55,REP,Over Votes,0
+Klamath,PRECINCT 2,State House,55,REP,Over Votes,0
+Klamath,PRECINCT 3,State House,55,REP,Over Votes,0
+Klamath,PRECINCT 4,State House,55,REP,Over Votes,0
+Klamath,PRECINCT 5,State House,55,REP,Over Votes,0
+Klamath,PRECINCT 6,State House,55,REP,Over Votes,0
+Klamath,PRECINCT 1,State House,55,REP,Under Votes,80
+Klamath,PRECINCT 2,State House,55,REP,Under Votes,8
+Klamath,PRECINCT 3,State House,55,REP,Under Votes,71
+Klamath,PRECINCT 4,State House,55,REP,Under Votes,77
+Klamath,PRECINCT 5,State House,55,REP,Under Votes,14
+Klamath,PRECINCT 6,State House,55,REP,Under Votes,13
+Klamath,PRECINCT 7,State House,56,REP,Bill Garrand,524
+Klamath,PRECINCT 8,State House,56,REP,Bill Garrand,125
+Klamath,PRECINCT 9,State House,56,REP,Bill Garrand,166
+Klamath,PRECINCT 10,State House,56,REP,Bill Garrand,102
+Klamath,PRECINCT 11,State House,56,REP,Bill Garrand,333
+Klamath,PRECINCT 12,State House,56,REP,Bill Garrand,246
+Klamath,PRECINCT 13,State House,56,REP,Bill Garrand,694
+Klamath,PRECINCT 14,State House,56,REP,Bill Garrand,38
+Klamath,PRECINCT 15,State House,56,REP,Bill Garrand,294
+Klamath,PRECINCT 16,State House,56,REP,Bill Garrand,47
+Klamath,PRECINCT 17,State House,56,REP,Bill Garrand,73
+Klamath,PRECINCT 18,State House,56,REP,Bill Garrand,323
+Klamath,PRECINCT 19,State House,56,REP,Bill Garrand,34
+Klamath,PRECINCT 20,State House,56,REP,Bill Garrand,181
+Klamath,PRECINCT 21,State House,56,REP,Bill Garrand,542
+Klamath,PRECINCT 22,State House,56,REP,Bill Garrand,94
+Klamath,PRECINCT 23,State House,56,REP,Bill Garrand,433
+Klamath,PRECINCT 24,State House,56,REP,Bill Garrand,140
+Klamath,PRECINCT 25,State House,56,REP,Bill Garrand,236
+Klamath,PRECINCT 26,State House,56,REP,Bill Garrand,335
+Klamath,PRECINCT 27,State House,56,REP,Bill Garrand,427
+Klamath,PRECINCT 28,State House,56,REP,Bill Garrand,74
+Klamath,PRECINCT 29,State House,56,REP,Bill Garrand,236
+Klamath,PRECINCT 30,State House,56,REP,Bill Garrand,200
+Klamath,PRECINCT 31,State House,56,REP,Bill Garrand,271
+Klamath,PRECINCT 32,State House,56,REP,Bill Garrand,80
+Klamath,PRECINCT 33,State House,56,REP,Bill Garrand,122
+Klamath,PRECINCT 34,State House,56,REP,Bill Garrand,115
+Klamath,PRECINCT 35,State House,56,REP,Bill Garrand,58
+Klamath,PRECINCT 36,State House,56,REP,Bill Garrand,80
+Klamath,PRECINCT 37,State House,56,REP,Bill Garrand,175
+Klamath,PRECINCT 38,State House,56,REP,Bill Garrand,78
+Klamath,PRECINCT 39,State House,56,REP,Bill Garrand,15
+Klamath,PRECINCT 40,State House,56,REP,Bill Garrand,102
+Klamath,PRECINCT 41,State House,56,REP,Bill Garrand,179
+Klamath,PRECINCT 42,State House,56,REP,Bill Garrand,58
+Klamath,PRECINCT 7,State House,56,REP,Write-In,4
+Klamath,PRECINCT 8,State House,56,REP,Write-In,0
+Klamath,PRECINCT 9,State House,56,REP,Write-In,1
+Klamath,PRECINCT 10,State House,56,REP,Write-In,0
+Klamath,PRECINCT 11,State House,56,REP,Write-In,4
+Klamath,PRECINCT 12,State House,56,REP,Write-In,3
+Klamath,PRECINCT 13,State House,56,REP,Write-In,8
+Klamath,PRECINCT 14,State House,56,REP,Write-In,0
+Klamath,PRECINCT 15,State House,56,REP,Write-In,2
+Klamath,PRECINCT 16,State House,56,REP,Write-In,0
+Klamath,PRECINCT 17,State House,56,REP,Write-In,0
+Klamath,PRECINCT 18,State House,56,REP,Write-In,4
+Klamath,PRECINCT 19,State House,56,REP,Write-In,0
+Klamath,PRECINCT 20,State House,56,REP,Write-In,2
+Klamath,PRECINCT 21,State House,56,REP,Write-In,7
+Klamath,PRECINCT 22,State House,56,REP,Write-In,2
+Klamath,PRECINCT 23,State House,56,REP,Write-In,7
+Klamath,PRECINCT 24,State House,56,REP,Write-In,1
+Klamath,PRECINCT 25,State House,56,REP,Write-In,6
+Klamath,PRECINCT 26,State House,56,REP,Write-In,1
+Klamath,PRECINCT 27,State House,56,REP,Write-In,3
+Klamath,PRECINCT 28,State House,56,REP,Write-In,0
+Klamath,PRECINCT 29,State House,56,REP,Write-In,4
+Klamath,PRECINCT 30,State House,56,REP,Write-In,3
+Klamath,PRECINCT 31,State House,56,REP,Write-In,0
+Klamath,PRECINCT 32,State House,56,REP,Write-In,0
+Klamath,PRECINCT 33,State House,56,REP,Write-In,2
+Klamath,PRECINCT 34,State House,56,REP,Write-In,0
+Klamath,PRECINCT 35,State House,56,REP,Write-In,2
+Klamath,PRECINCT 36,State House,56,REP,Write-In,0
+Klamath,PRECINCT 37,State House,56,REP,Write-In,5
+Klamath,PRECINCT 38,State House,56,REP,Write-In,2
+Klamath,PRECINCT 39,State House,56,REP,Write-In,0
+Klamath,PRECINCT 40,State House,56,REP,Write-In,3
+Klamath,PRECINCT 41,State House,56,REP,Write-In,3
+Klamath,PRECINCT 42,State House,56,REP,Write-In,0
+Klamath,PRECINCT 7,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 8,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 9,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 10,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 11,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 12,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 13,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 14,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 15,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 16,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 17,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 18,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 19,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 20,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 21,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 22,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 23,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 24,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 25,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 26,State House,56,REP,Over Votes,1
+Klamath,PRECINCT 27,State House,56,REP,Over Votes,1
+Klamath,PRECINCT 28,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 29,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 30,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 31,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 32,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 33,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 34,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 35,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 36,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 37,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 38,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 39,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 40,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 41,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 42,State House,56,REP,Over Votes,0
+Klamath,PRECINCT 7,State House,56,REP,Under Votes,173
+Klamath,PRECINCT 8,State House,56,REP,Under Votes,35
+Klamath,PRECINCT 9,State House,56,REP,Under Votes,46
+Klamath,PRECINCT 10,State House,56,REP,Under Votes,17
+Klamath,PRECINCT 11,State House,56,REP,Under Votes,94
+Klamath,PRECINCT 12,State House,56,REP,Under Votes,55
+Klamath,PRECINCT 13,State House,56,REP,Under Votes,160
+Klamath,PRECINCT 14,State House,56,REP,Under Votes,13
+Klamath,PRECINCT 15,State House,56,REP,Under Votes,68
+Klamath,PRECINCT 16,State House,56,REP,Under Votes,12
+Klamath,PRECINCT 17,State House,56,REP,Under Votes,20
+Klamath,PRECINCT 18,State House,56,REP,Under Votes,57
+Klamath,PRECINCT 19,State House,56,REP,Under Votes,12
+Klamath,PRECINCT 20,State House,56,REP,Under Votes,46
+Klamath,PRECINCT 21,State House,56,REP,Under Votes,125
+Klamath,PRECINCT 22,State House,56,REP,Under Votes,22
+Klamath,PRECINCT 23,State House,56,REP,Under Votes,124
+Klamath,PRECINCT 24,State House,56,REP,Under Votes,24
+Klamath,PRECINCT 25,State House,56,REP,Under Votes,52
+Klamath,PRECINCT 26,State House,56,REP,Under Votes,74
+Klamath,PRECINCT 27,State House,56,REP,Under Votes,116
+Klamath,PRECINCT 28,State House,56,REP,Under Votes,10
+Klamath,PRECINCT 29,State House,56,REP,Under Votes,67
+Klamath,PRECINCT 30,State House,56,REP,Under Votes,72
+Klamath,PRECINCT 31,State House,56,REP,Under Votes,93
+Klamath,PRECINCT 32,State House,56,REP,Under Votes,33
+Klamath,PRECINCT 33,State House,56,REP,Under Votes,24
+Klamath,PRECINCT 34,State House,56,REP,Under Votes,20
+Klamath,PRECINCT 35,State House,56,REP,Under Votes,26
+Klamath,PRECINCT 36,State House,56,REP,Under Votes,18
+Klamath,PRECINCT 37,State House,56,REP,Under Votes,52
+Klamath,PRECINCT 38,State House,56,REP,Under Votes,26
+Klamath,PRECINCT 39,State House,56,REP,Under Votes,5
+Klamath,PRECINCT 40,State House,56,REP,Under Votes,17
+Klamath,PRECINCT 41,State House,56,REP,Under Votes,50
+Klamath,PRECINCT 42,State House,56,REP,Under Votes,17
