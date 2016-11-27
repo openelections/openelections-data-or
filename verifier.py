@@ -149,7 +149,7 @@ class Verifier(object):
 
 	def verifyOffice(self, row):
 		if not row['office'] in Verifier.validOffices:
-			self.self.printError("Invalid office: {}".format(row['office']), row)
+			self.printError("Invalid office: {}".format(row['office']), row)
 
 	def verifyDistrict(self, row):
 		if row['office'] in Verifier.officesWithDistricts:
