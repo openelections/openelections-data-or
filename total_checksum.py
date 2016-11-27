@@ -27,28 +27,35 @@ import sys
 import re
 
 def main():
-	with open(sys.argv[1], 'rb') as csvfile:
+	with open(sys.argv[1], 'rU') as csvfile:
 		reader = csv.DictReader(csvfile)
 		
-		currentOffice = ""
+		currentOffice = ()
 		voteTotal = 0
 		for row in reader:
-			rowOffice = "%s-%s" % (row["office"], row["district"])
+			rowOffice = (row["precinct"], row["office"], row["district"])
+
+			try:
+				votes = int(row["votes"].replace(",", ""))
+			except Exception as e:
+				print "ERROR: Could not convert this to an integer: '%s'" % row["votes"]
+				print "ERROR: %s" % repr(row)
+
 			if rowOffice == currentOffice:
-				if row["candidate"] in ("Under Votes", "Over Votes"):
+				if row["candidate"] in ("Under Votes", "Over Votes", "Total Votes Cast", "Under-Votes", "Over-Votes"):
 					continue
 				elif row["candidate"] == "Total":
-					if voteTotal != int(row["votes"]):
+					if voteTotal != votes:
 						print "ERROR: %d != %s" % (voteTotal, row["votes"])
 						print "ERROR: %s" % repr(row)
 					# print row
 				else:
-					voteTotal += int(row["votes"])
+					voteTotal += votes
 					# print "total=%d" % voteTotal
 					# print row
 			else:
 				currentOffice = rowOffice
-				voteTotal = int(row['votes']) # reset the vote total
+				voteTotal = votes # reset the vote total
 				# print "total=%d" % voteTotal
 				# print row
 
