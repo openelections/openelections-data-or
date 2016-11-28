@@ -497,89 +497,89 @@ Lane,0080 102402 Springfield 402,President,,DEM,Barack Obama,2406
 Lane,0081 102504 Springfield 504,President,,DEM,Barack Obama,2150
 Lane,0082 102606 Springfield 606,President,,DEM,Barack Obama,1665
 Lane,0083 102608 Springfield 608,President,,DEM,Barack Obama,804
-Lane,0001 100001 Alvadore,President,,,Write-in,6
-Lane,0002 100003 Armitage,President,,,Write-in,7
-Lane,0003 100004 Bailey,President,,,Write-in,15
-Lane,0004 100005 Blachly,President,,,Write-in,8
-Lane,0005 100007 Blue River,President,,,Write-in,5
-Lane,0006 100008 Coast Fork,President,,,Write-in,19
-Lane,0007 100009 Camas,President,,,Write-in,1
-Lane,0008 100012 Cheshire,President,,,Write-in,25
-Lane,0009 100080 Elmira,President,,,Write-in,15
-Lane,0010 100082 Fernridge,President,,,Write-in,27
-Lane,0011 100084 Fox Hollow,President,,,Write-in,5
-Lane,0012 100086 Garden Way,President,,,Write-in,3
-Lane,0013 100087 Glenada,President,,,Write-in,8
-Lane,0014 100090 Goshen,President,,,Write-in,16
-Lane,0015 100091 Grovedale,President,,,Write-in,9
-Lane,0016 100095 Gateway,President,,,Write-in,8
-Lane,0017 100097 Latham,President,,,Write-in,14
-Lane,0018 100100 Lorane,President,,,Write-in,10
-Lane,0019 100102 Lowell,President,,,Write-in,6
-Lane,0020 100103 Mapleton,President,,,Write-in,10
-Lane,0021 100105 Marcola,President,,,Write-in,11
-Lane,0022 100107 Mosby,President,,,Write-in,30
-Lane,0023 100111 Pleasant Hill 1,President,,,Write-in,15
-Lane,0024 100112 Pleasant Hill 2,President,,,Write-in,3
-Lane,0025 100116 River Road,President,,,Write-in,32
-Lane,0026 100119 Salmon Creek,President,,,Write-in,5
-Lane,0027 100121 Santa Clara 1,President,,,Write-in,9
-Lane,0028 100124 Santa Clara 4,President,,,Write-in,31
-Lane,0029 100128 Santa Clara 8,President,,,Write-in,21
-Lane,0030 100130 Siuslaw,President,,,Write-in,19
-Lane,0031 100152 Walterville,President,,,Write-in,17
-Lane,0032 100153 Wilkins,President,,,Write-in,10
-Lane,0033 100155 McKenzie,President,,,Write-in,12
-Lane,0034 100200 Coburg,President,,,Write-in,7
-Lane,0035 100300 Cottage Grove,President,,,Write-in,36
-Lane,0036 100400 Creswell,President,,,Write-in,25
-Lane,0037 100500 Dunes City,President,,,Write-in,9
-Lane,0038 100601 Florence 1,President,,,Write-in,26
-Lane,0039 100602 Florence 2,President,,,Write-in,22
-Lane,0040 100700 Junction City,President,,,Write-in,24
-Lane,0041 100800 Oakridge,President,,,Write-in,11
-Lane,0042 100900 Veneta,President,,,Write-in,17
-Lane,0043 101101 Eugene 101,President,,,Write-in,20
-Lane,0044 101103 Eugene 103,President,,,Write-in,23
-Lane,0045 101105 Eugene 105,President,,,Write-in,4
-Lane,0046 101107 Eugene 107,President,,,Write-in,4
-Lane,0047 101109 Eugene 109,President,,,Write-in,0
-Lane,0048 101117 Eugene 117,President,,,Write-in,4
-Lane,0049 101215 Eugene 215,President,,,Write-in,24
-Lane,0050 101223 Eugene 223,President,,,Write-in,15
-Lane,0051 101235 Eugene 235,President,,,Write-in,18
-Lane,0052 101237 Eugene 237,President,,,Write-in,7
-Lane,0053 101313 Eugene 313,President,,,Write-in,18
-Lane,0054 101315 Eugene 315,President,,,Write-in,12
-Lane,0055 101317 Eugene 317,President,,,Write-in,21
-Lane,0056 101431 Eugene 431,President,,,Write-in,12
-Lane,0057 101433 Eugene 433,President,,,Write-in,15
-Lane,0058 101435 Eugene 435,President,,,Write-in,18
-Lane,0059 101439 Eugene 439,President,,,Write-in,14
-Lane,0060 101505 Eugene 505,President,,,Write-in,2
-Lane,0061 101507 Eugene 507,President,,,Write-in,22
-Lane,0062 101511 Eugene 511,President,,,Write-in,25
-Lane,0063 101523 Eugene 523,President,,,Write-in,17
-Lane,0064 101613 Eugene 613,President,,,Write-in,26
-Lane,0065 101617 Eugene 617,President,,,Write-in,38
-Lane,0066 101623 Eugene 623,President,,,Write-in,24
-Lane,0067 101711 Eugene 711,President,,,Write-in,10
-Lane,0068 101713 Eugene 713,President,,,Write-in,14
-Lane,0069 101715 Eugene 715,President,,,Write-in,3
-Lane,0070 101717 Eugene 717,President,,,Write-in,2
-Lane,0071 101719 Eugene 719,President,,,Write-in,3
-Lane,0072 101723 Eugene 723,President,,,Write-in,26
-Lane,0073 101803 Eugene 803,President,,,Write-in,19
-Lane,0074 101805 Eugene 805,President,,,Write-in,19
-Lane,0075 101807 Eugene 807,President,,,Write-in,22
-Lane,0076 101809 Eugene 809,President,,,Write-in,5
-Lane,0077 102102 Springfield 102,President,,,Write-in,26
-Lane,0078 102206 Springfield 206,President,,,Write-in,30
-Lane,0079 102304 Springfield 304,President,,,Write-in,33
-Lane,0080 102402 Springfield 402,President,,,Write-in,39
-Lane,0081 102504 Springfield 504,President,,,Write-in,48
-Lane,0082 102606 Springfield 606,President,,,Write-in,22
-Lane,0083 102608 Springfield 608,President,,,Write-in,11
+Lane,0001 100001 Alvadore,President,,,Write-ins,6
+Lane,0002 100003 Armitage,President,,,Write-ins,7
+Lane,0003 100004 Bailey,President,,,Write-ins,15
+Lane,0004 100005 Blachly,President,,,Write-ins,8
+Lane,0005 100007 Blue River,President,,,Write-ins,5
+Lane,0006 100008 Coast Fork,President,,,Write-ins,19
+Lane,0007 100009 Camas,President,,,Write-ins,1
+Lane,0008 100012 Cheshire,President,,,Write-ins,25
+Lane,0009 100080 Elmira,President,,,Write-ins,15
+Lane,0010 100082 Fernridge,President,,,Write-ins,27
+Lane,0011 100084 Fox Hollow,President,,,Write-ins,5
+Lane,0012 100086 Garden Way,President,,,Write-ins,3
+Lane,0013 100087 Glenada,President,,,Write-ins,8
+Lane,0014 100090 Goshen,President,,,Write-ins,16
+Lane,0015 100091 Grovedale,President,,,Write-ins,9
+Lane,0016 100095 Gateway,President,,,Write-ins,8
+Lane,0017 100097 Latham,President,,,Write-ins,14
+Lane,0018 100100 Lorane,President,,,Write-ins,10
+Lane,0019 100102 Lowell,President,,,Write-ins,6
+Lane,0020 100103 Mapleton,President,,,Write-ins,10
+Lane,0021 100105 Marcola,President,,,Write-ins,11
+Lane,0022 100107 Mosby,President,,,Write-ins,30
+Lane,0023 100111 Pleasant Hill 1,President,,,Write-ins,15
+Lane,0024 100112 Pleasant Hill 2,President,,,Write-ins,3
+Lane,0025 100116 River Road,President,,,Write-ins,32
+Lane,0026 100119 Salmon Creek,President,,,Write-ins,5
+Lane,0027 100121 Santa Clara 1,President,,,Write-ins,9
+Lane,0028 100124 Santa Clara 4,President,,,Write-ins,31
+Lane,0029 100128 Santa Clara 8,President,,,Write-ins,21
+Lane,0030 100130 Siuslaw,President,,,Write-ins,19
+Lane,0031 100152 Walterville,President,,,Write-ins,17
+Lane,0032 100153 Wilkins,President,,,Write-ins,10
+Lane,0033 100155 McKenzie,President,,,Write-ins,12
+Lane,0034 100200 Coburg,President,,,Write-ins,7
+Lane,0035 100300 Cottage Grove,President,,,Write-ins,36
+Lane,0036 100400 Creswell,President,,,Write-ins,25
+Lane,0037 100500 Dunes City,President,,,Write-ins,9
+Lane,0038 100601 Florence 1,President,,,Write-ins,26
+Lane,0039 100602 Florence 2,President,,,Write-ins,22
+Lane,0040 100700 Junction City,President,,,Write-ins,24
+Lane,0041 100800 Oakridge,President,,,Write-ins,11
+Lane,0042 100900 Veneta,President,,,Write-ins,17
+Lane,0043 101101 Eugene 101,President,,,Write-ins,20
+Lane,0044 101103 Eugene 103,President,,,Write-ins,23
+Lane,0045 101105 Eugene 105,President,,,Write-ins,4
+Lane,0046 101107 Eugene 107,President,,,Write-ins,4
+Lane,0047 101109 Eugene 109,President,,,Write-ins,0
+Lane,0048 101117 Eugene 117,President,,,Write-ins,4
+Lane,0049 101215 Eugene 215,President,,,Write-ins,24
+Lane,0050 101223 Eugene 223,President,,,Write-ins,15
+Lane,0051 101235 Eugene 235,President,,,Write-ins,18
+Lane,0052 101237 Eugene 237,President,,,Write-ins,7
+Lane,0053 101313 Eugene 313,President,,,Write-ins,18
+Lane,0054 101315 Eugene 315,President,,,Write-ins,12
+Lane,0055 101317 Eugene 317,President,,,Write-ins,21
+Lane,0056 101431 Eugene 431,President,,,Write-ins,12
+Lane,0057 101433 Eugene 433,President,,,Write-ins,15
+Lane,0058 101435 Eugene 435,President,,,Write-ins,18
+Lane,0059 101439 Eugene 439,President,,,Write-ins,14
+Lane,0060 101505 Eugene 505,President,,,Write-ins,2
+Lane,0061 101507 Eugene 507,President,,,Write-ins,22
+Lane,0062 101511 Eugene 511,President,,,Write-ins,25
+Lane,0063 101523 Eugene 523,President,,,Write-ins,17
+Lane,0064 101613 Eugene 613,President,,,Write-ins,26
+Lane,0065 101617 Eugene 617,President,,,Write-ins,38
+Lane,0066 101623 Eugene 623,President,,,Write-ins,24
+Lane,0067 101711 Eugene 711,President,,,Write-ins,10
+Lane,0068 101713 Eugene 713,President,,,Write-ins,14
+Lane,0069 101715 Eugene 715,President,,,Write-ins,3
+Lane,0070 101717 Eugene 717,President,,,Write-ins,2
+Lane,0071 101719 Eugene 719,President,,,Write-ins,3
+Lane,0072 101723 Eugene 723,President,,,Write-ins,26
+Lane,0073 101803 Eugene 803,President,,,Write-ins,19
+Lane,0074 101805 Eugene 805,President,,,Write-ins,19
+Lane,0075 101807 Eugene 807,President,,,Write-ins,22
+Lane,0076 101809 Eugene 809,President,,,Write-ins,5
+Lane,0077 102102 Springfield 102,President,,,Write-ins,26
+Lane,0078 102206 Springfield 206,President,,,Write-ins,30
+Lane,0079 102304 Springfield 304,President,,,Write-ins,33
+Lane,0080 102402 Springfield 402,President,,,Write-ins,39
+Lane,0081 102504 Springfield 504,President,,,Write-ins,48
+Lane,0082 102606 Springfield 606,President,,,Write-ins,22
+Lane,0083 102608 Springfield 608,President,,,Write-ins,11
 Lane,0001 100001 Alvadore,President,,,Over Votes,1
 Lane,0002 100003 Armitage,President,,,Over Votes,1
 Lane,0003 100004 Bailey,President,,,Over Votes,3
@@ -995,89 +995,89 @@ Lane,0080 102402 Springfield 402,U.S. Senate,,CON,Dave Brownlow,281
 Lane,0081 102504 Springfield 504,U.S. Senate,,CON,Dave Brownlow,228
 Lane,0082 102606 Springfield 606,U.S. Senate,,CON,Dave Brownlow,149
 Lane,0083 102608 Springfield 608,U.S. Senate,,CON,Dave Brownlow,51
-Lane,0001 100001 Alvadore,U.S. Senate,,,Write-in,2
-Lane,0002 100003 Armitage,U.S. Senate,,,Write-in,1
-Lane,0003 100004 Bailey,U.S. Senate,,,Write-in,3
-Lane,0004 100005 Blachly,U.S. Senate,,,Write-in,5
-Lane,0005 100007 Blue River,U.S. Senate,,,Write-in,5
-Lane,0006 100008 Coast Fork,U.S. Senate,,,Write-in,3
-Lane,0007 100009 Camas,U.S. Senate,,,Write-in,2
-Lane,0008 100012 Cheshire,U.S. Senate,,,Write-in,9
-Lane,0009 100080 Elmira,U.S. Senate,,,Write-in,15
-Lane,0010 100082 Fernridge,U.S. Senate,,,Write-in,8
-Lane,0011 100084 Fox Hollow,U.S. Senate,,,Write-in,2
-Lane,0012 100086 Garden Way,U.S. Senate,,,Write-in,2
-Lane,0013 100087 Glenada,U.S. Senate,,,Write-in,0
-Lane,0014 100090 Goshen,U.S. Senate,,,Write-in,5
-Lane,0015 100091 Grovedale,U.S. Senate,,,Write-in,0
-Lane,0016 100095 Gateway,U.S. Senate,,,Write-in,0
-Lane,0017 100097 Latham,U.S. Senate,,,Write-in,4
-Lane,0018 100100 Lorane,U.S. Senate,,,Write-in,0
-Lane,0019 100102 Lowell,U.S. Senate,,,Write-in,9
-Lane,0020 100103 Mapleton,U.S. Senate,,,Write-in,0
-Lane,0021 100105 Marcola,U.S. Senate,,,Write-in,8
-Lane,0022 100107 Mosby,U.S. Senate,,,Write-in,4
-Lane,0023 100111 Pleasant Hill 1,U.S. Senate,,,Write-in,5
-Lane,0024 100112 Pleasant Hill 2,U.S. Senate,,,Write-in,2
-Lane,0025 100116 River Road,U.S. Senate,,,Write-in,16
-Lane,0026 100119 Salmon Creek,U.S. Senate,,,Write-in,1
-Lane,0027 100121 Santa Clara 1,U.S. Senate,,,Write-in,4
-Lane,0028 100124 Santa Clara 4,U.S. Senate,,,Write-in,7
-Lane,0029 100128 Santa Clara 8,U.S. Senate,,,Write-in,5
-Lane,0030 100130 Siuslaw,U.S. Senate,,,Write-in,5
-Lane,0031 100152 Walterville,U.S. Senate,,,Write-in,6
-Lane,0032 100153 Wilkins,U.S. Senate,,,Write-in,2
-Lane,0033 100155 McKenzie,U.S. Senate,,,Write-in,9
-Lane,0034 100200 Coburg,U.S. Senate,,,Write-in,1
-Lane,0035 100300 Cottage Grove,U.S. Senate,,,Write-in,11
-Lane,0036 100400 Creswell,U.S. Senate,,,Write-in,7
-Lane,0037 100500 Dunes City,U.S. Senate,,,Write-in,2
-Lane,0038 100601 Florence 1,U.S. Senate,,,Write-in,5
-Lane,0039 100602 Florence 2,U.S. Senate,,,Write-in,3
-Lane,0040 100700 Junction City,U.S. Senate,,,Write-in,6
-Lane,0041 100800 Oakridge,U.S. Senate,,,Write-in,2
-Lane,0042 100900 Veneta,U.S. Senate,,,Write-in,5
-Lane,0043 101101 Eugene 101,U.S. Senate,,,Write-in,6
-Lane,0044 101103 Eugene 103,U.S. Senate,,,Write-in,5
-Lane,0045 101105 Eugene 105,U.S. Senate,,,Write-in,2
-Lane,0046 101107 Eugene 107,U.S. Senate,,,Write-in,3
-Lane,0047 101109 Eugene 109,U.S. Senate,,,Write-in,0
-Lane,0048 101117 Eugene 117,U.S. Senate,,,Write-in,4
-Lane,0049 101215 Eugene 215,U.S. Senate,,,Write-in,8
-Lane,0050 101223 Eugene 223,U.S. Senate,,,Write-in,3
-Lane,0051 101235 Eugene 235,U.S. Senate,,,Write-in,5
-Lane,0052 101237 Eugene 237,U.S. Senate,,,Write-in,2
-Lane,0053 101313 Eugene 313,U.S. Senate,,,Write-in,9
-Lane,0054 101315 Eugene 315,U.S. Senate,,,Write-in,3
-Lane,0055 101317 Eugene 317,U.S. Senate,,,Write-in,5
-Lane,0056 101431 Eugene 431,U.S. Senate,,,Write-in,6
-Lane,0057 101433 Eugene 433,U.S. Senate,,,Write-in,4
-Lane,0058 101435 Eugene 435,U.S. Senate,,,Write-in,6
-Lane,0059 101439 Eugene 439,U.S. Senate,,,Write-in,5
-Lane,0060 101505 Eugene 505,U.S. Senate,,,Write-in,0
-Lane,0061 101507 Eugene 507,U.S. Senate,,,Write-in,7
-Lane,0062 101511 Eugene 511,U.S. Senate,,,Write-in,6
-Lane,0063 101523 Eugene 523,U.S. Senate,,,Write-in,2
-Lane,0064 101613 Eugene 613,U.S. Senate,,,Write-in,15
-Lane,0065 101617 Eugene 617,U.S. Senate,,,Write-in,7
-Lane,0066 101623 Eugene 623,U.S. Senate,,,Write-in,9
-Lane,0067 101711 Eugene 711,U.S. Senate,,,Write-in,3
-Lane,0068 101713 Eugene 713,U.S. Senate,,,Write-in,6
-Lane,0069 101715 Eugene 715,U.S. Senate,,,Write-in,0
-Lane,0070 101717 Eugene 717,U.S. Senate,,,Write-in,1
-Lane,0071 101719 Eugene 719,U.S. Senate,,,Write-in,0
-Lane,0072 101723 Eugene 723,U.S. Senate,,,Write-in,9
-Lane,0073 101803 Eugene 803,U.S. Senate,,,Write-in,7
-Lane,0074 101805 Eugene 805,U.S. Senate,,,Write-in,7
-Lane,0075 101807 Eugene 807,U.S. Senate,,,Write-in,7
-Lane,0076 101809 Eugene 809,U.S. Senate,,,Write-in,2
-Lane,0077 102102 Springfield 102,U.S. Senate,,,Write-in,10
-Lane,0078 102206 Springfield 206,U.S. Senate,,,Write-in,10
-Lane,0079 102304 Springfield 304,U.S. Senate,,,Write-in,18
-Lane,0080 102402 Springfield 402,U.S. Senate,,,Write-in,13
-Lane,0081 102504 Springfield 504,U.S. Senate,,,Write-in,23
-Lane,0082 102606 Springfield 606,U.S. Senate,,,Write-in,15
-Lane,0083 102608 Springfield 608,U.S. Senate,,,Write-in,5
+Lane,0001 100001 Alvadore,U.S. Senate,,,Write-ins,2
+Lane,0002 100003 Armitage,U.S. Senate,,,Write-ins,1
+Lane,0003 100004 Bailey,U.S. Senate,,,Write-ins,3
+Lane,0004 100005 Blachly,U.S. Senate,,,Write-ins,5
+Lane,0005 100007 Blue River,U.S. Senate,,,Write-ins,5
+Lane,0006 100008 Coast Fork,U.S. Senate,,,Write-ins,3
+Lane,0007 100009 Camas,U.S. Senate,,,Write-ins,2
+Lane,0008 100012 Cheshire,U.S. Senate,,,Write-ins,9
+Lane,0009 100080 Elmira,U.S. Senate,,,Write-ins,15
+Lane,0010 100082 Fernridge,U.S. Senate,,,Write-ins,8
+Lane,0011 100084 Fox Hollow,U.S. Senate,,,Write-ins,2
+Lane,0012 100086 Garden Way,U.S. Senate,,,Write-ins,2
+Lane,0013 100087 Glenada,U.S. Senate,,,Write-ins,0
+Lane,0014 100090 Goshen,U.S. Senate,,,Write-ins,5
+Lane,0015 100091 Grovedale,U.S. Senate,,,Write-ins,0
+Lane,0016 100095 Gateway,U.S. Senate,,,Write-ins,0
+Lane,0017 100097 Latham,U.S. Senate,,,Write-ins,4
+Lane,0018 100100 Lorane,U.S. Senate,,,Write-ins,0
+Lane,0019 100102 Lowell,U.S. Senate,,,Write-ins,9
+Lane,0020 100103 Mapleton,U.S. Senate,,,Write-ins,0
+Lane,0021 100105 Marcola,U.S. Senate,,,Write-ins,8
+Lane,0022 100107 Mosby,U.S. Senate,,,Write-ins,4
+Lane,0023 100111 Pleasant Hill 1,U.S. Senate,,,Write-ins,5
+Lane,0024 100112 Pleasant Hill 2,U.S. Senate,,,Write-ins,2
+Lane,0025 100116 River Road,U.S. Senate,,,Write-ins,16
+Lane,0026 100119 Salmon Creek,U.S. Senate,,,Write-ins,1
+Lane,0027 100121 Santa Clara 1,U.S. Senate,,,Write-ins,4
+Lane,0028 100124 Santa Clara 4,U.S. Senate,,,Write-ins,7
+Lane,0029 100128 Santa Clara 8,U.S. Senate,,,Write-ins,5
+Lane,0030 100130 Siuslaw,U.S. Senate,,,Write-ins,5
+Lane,0031 100152 Walterville,U.S. Senate,,,Write-ins,6
+Lane,0032 100153 Wilkins,U.S. Senate,,,Write-ins,2
+Lane,0033 100155 McKenzie,U.S. Senate,,,Write-ins,9
+Lane,0034 100200 Coburg,U.S. Senate,,,Write-ins,1
+Lane,0035 100300 Cottage Grove,U.S. Senate,,,Write-ins,11
+Lane,0036 100400 Creswell,U.S. Senate,,,Write-ins,7
+Lane,0037 100500 Dunes City,U.S. Senate,,,Write-ins,2
+Lane,0038 100601 Florence 1,U.S. Senate,,,Write-ins,5
+Lane,0039 100602 Florence 2,U.S. Senate,,,Write-ins,3
+Lane,0040 100700 Junction City,U.S. Senate,,,Write-ins,6
+Lane,0041 100800 Oakridge,U.S. Senate,,,Write-ins,2
+Lane,0042 100900 Veneta,U.S. Senate,,,Write-ins,5
+Lane,0043 101101 Eugene 101,U.S. Senate,,,Write-ins,6
+Lane,0044 101103 Eugene 103,U.S. Senate,,,Write-ins,5
+Lane,0045 101105 Eugene 105,U.S. Senate,,,Write-ins,2
+Lane,0046 101107 Eugene 107,U.S. Senate,,,Write-ins,3
+Lane,0047 101109 Eugene 109,U.S. Senate,,,Write-ins,0
+Lane,0048 101117 Eugene 117,U.S. Senate,,,Write-ins,4
+Lane,0049 101215 Eugene 215,U.S. Senate,,,Write-ins,8
+Lane,0050 101223 Eugene 223,U.S. Senate,,,Write-ins,3
+Lane,0051 101235 Eugene 235,U.S. Senate,,,Write-ins,5
+Lane,0052 101237 Eugene 237,U.S. Senate,,,Write-ins,2
+Lane,0053 101313 Eugene 313,U.S. Senate,,,Write-ins,9
+Lane,0054 101315 Eugene 315,U.S. Senate,,,Write-ins,3
+Lane,0055 101317 Eugene 317,U.S. Senate,,,Write-ins,5
+Lane,0056 101431 Eugene 431,U.S. Senate,,,Write-ins,6
+Lane,0057 101433 Eugene 433,U.S. Senate,,,Write-ins,4
+Lane,0058 101435 Eugene 435,U.S. Senate,,,Write-ins,6
+Lane,0059 101439 Eugene 439,U.S. Senate,,,Write-ins,5
+Lane,0060 101505 Eugene 505,U.S. Senate,,,Write-ins,0
+Lane,0061 101507 Eugene 507,U.S. Senate,,,Write-ins,7
+Lane,0062 101511 Eugene 511,U.S. Senate,,,Write-ins,6
+Lane,0063 101523 Eugene 523,U.S. Senate,,,Write-ins,2
+Lane,0064 101613 Eugene 613,U.S. Senate,,,Write-ins,15
+Lane,0065 101617 Eugene 617,U.S. Senate,,,Write-ins,7
+Lane,0066 101623 Eugene 623,U.S. Senate,,,Write-ins,9
+Lane,0067 101711 Eugene 711,U.S. Senate,,,Write-ins,3
+Lane,0068 101713 Eugene 713,U.S. Senate,,,Write-ins,6
+Lane,0069 101715 Eugene 715,U.S. Senate,,,Write-ins,0
+Lane,0070 101717 Eugene 717,U.S. Senate,,,Write-ins,1
+Lane,0071 101719 Eugene 719,U.S. Senate,,,Write-ins,0
+Lane,0072 101723 Eugene 723,U.S. Senate,,,Write-ins,9
+Lane,0073 101803 Eugene 803,U.S. Senate,,,Write-ins,7
+Lane,0074 101805 Eugene 805,U.S. Senate,,,Write-ins,7
+Lane,0075 101807 Eugene 807,U.S. Senate,,,Write-ins,7
+Lane,0076 101809 Eugene 809,U.S. Senate,,,Write-ins,2
+Lane,0077 102102 Springfield 102,U.S. Senate,,,Write-ins,10
+Lane,0078 102206 Springfield 206,U.S. Senate,,,Write-ins,10
+Lane,0079 102304 Springfield 304,U.S. Senate,,,Write-ins,18
+Lane,0080 102402 Springfield 402,U.S. Senate,,,Write-ins,13
+Lane,0081 102504 Springfield 504,U.S. Senate,,,Write-ins,23
+Lane,0082 102606 Springfield 606,U.S. Senate,,,Write-ins,15
+Lane,0083 102608 Springfield 608,U.S. Senate,,,Write-ins,5
 Lane,0001 100001 Alvadore,U.S. Senate,,,Over Votes,0
 Lane,0002 100003 Armitage,U.S. Senate,,,Over Votes,0
 Lane,0003 100004 Bailey,U.S. Senate,,,Over Votes,0
@@ -1493,89 +1493,89 @@ Lane,0080 102402 Springfield 402,U.S. House,4,DEM,Peter A DeFazio,3265
 Lane,0081 102504 Springfield 504,U.S. House,4,DEM,Peter A DeFazio,3017
 Lane,0082 102606 Springfield 606,U.S. House,4,DEM,Peter A DeFazio,2493
 Lane,0083 102608 Springfield 608,U.S. House,4,DEM,Peter A DeFazio,1203
-Lane,0001 100001 Alvadore,U.S. House,4,,Write-in,17
-Lane,0002 100003 Armitage,U.S. House,4,,Write-in,2
-Lane,0003 100004 Bailey,U.S. House,4,,Write-in,11
-Lane,0004 100005 Blachly,U.S. House,4,,Write-in,10
-Lane,0005 100007 Blue River,U.S. House,4,,Write-in,10
-Lane,0006 100008 Coast Fork,U.S. House,4,,Write-in,12
-Lane,0007 100009 Camas,U.S. House,4,,Write-in,4
-Lane,0008 100012 Cheshire,U.S. House,4,,Write-in,29
-Lane,0009 100080 Elmira,U.S. House,4,,Write-in,18
-Lane,0010 100082 Fernridge,U.S. House,4,,Write-in,27
-Lane,0011 100084 Fox Hollow,U.S. House,4,,Write-in,12
-Lane,0012 100086 Garden Way,U.S. House,4,,Write-in,3
-Lane,0013 100087 Glenada,U.S. House,4,,Write-in,5
-Lane,0014 100090 Goshen,U.S. House,4,,Write-in,25
-Lane,0015 100091 Grovedale,U.S. House,4,,Write-in,8
-Lane,0016 100095 Gateway,U.S. House,4,,Write-in,6
-Lane,0017 100097 Latham,U.S. House,4,,Write-in,13
-Lane,0018 100100 Lorane,U.S. House,4,,Write-in,12
-Lane,0019 100102 Lowell,U.S. House,4,,Write-in,10
-Lane,0020 100103 Mapleton,U.S. House,4,,Write-in,6
-Lane,0021 100105 Marcola,U.S. House,4,,Write-in,12
-Lane,0022 100107 Mosby,U.S. House,4,,Write-in,29
-Lane,0023 100111 Pleasant Hill 1,U.S. House,4,,Write-in,23
-Lane,0024 100112 Pleasant Hill 2,U.S. House,4,,Write-in,4
-Lane,0025 100116 River Road,U.S. House,4,,Write-in,26
-Lane,0026 100119 Salmon Creek,U.S. House,4,,Write-in,1
-Lane,0027 100121 Santa Clara 1,U.S. House,4,,Write-in,12
-Lane,0028 100124 Santa Clara 4,U.S. House,4,,Write-in,31
-Lane,0029 100128 Santa Clara 8,U.S. House,4,,Write-in,20
-Lane,0030 100130 Siuslaw,U.S. House,4,,Write-in,15
-Lane,0031 100152 Walterville,U.S. House,4,,Write-in,19
-Lane,0032 100153 Wilkins,U.S. House,4,,Write-in,16
-Lane,0033 100155 McKenzie,U.S. House,4,,Write-in,30
-Lane,0034 100200 Coburg,U.S. House,4,,Write-in,6
-Lane,0035 100300 Cottage Grove,U.S. House,4,,Write-in,31
-Lane,0036 100400 Creswell,U.S. House,4,,Write-in,23
-Lane,0037 100500 Dunes City,U.S. House,4,,Write-in,11
-Lane,0038 100601 Florence 1,U.S. House,4,,Write-in,14
-Lane,0039 100602 Florence 2,U.S. House,4,,Write-in,8
-Lane,0040 100700 Junction City,U.S. House,4,,Write-in,23
-Lane,0041 100800 Oakridge,U.S. House,4,,Write-in,8
-Lane,0042 100900 Veneta,U.S. House,4,,Write-in,18
-Lane,0043 101101 Eugene 101,U.S. House,4,,Write-in,15
-Lane,0044 101103 Eugene 103,U.S. House,4,,Write-in,12
-Lane,0045 101105 Eugene 105,U.S. House,4,,Write-in,2
-Lane,0046 101107 Eugene 107,U.S. House,4,,Write-in,9
-Lane,0047 101109 Eugene 109,U.S. House,4,,Write-in,0
-Lane,0048 101117 Eugene 117,U.S. House,4,,Write-in,7
-Lane,0049 101215 Eugene 215,U.S. House,4,,Write-in,16
-Lane,0050 101223 Eugene 223,U.S. House,4,,Write-in,16
-Lane,0051 101235 Eugene 235,U.S. House,4,,Write-in,5
-Lane,0052 101237 Eugene 237,U.S. House,4,,Write-in,26
-Lane,0053 101313 Eugene 313,U.S. House,4,,Write-in,22
-Lane,0054 101315 Eugene 315,U.S. House,4,,Write-in,19
-Lane,0055 101317 Eugene 317,U.S. House,4,,Write-in,18
-Lane,0056 101431 Eugene 431,U.S. House,4,,Write-in,16
-Lane,0057 101433 Eugene 433,U.S. House,4,,Write-in,12
-Lane,0058 101435 Eugene 435,U.S. House,4,,Write-in,28
-Lane,0059 101439 Eugene 439,U.S. House,4,,Write-in,25
-Lane,0060 101505 Eugene 505,U.S. House,4,,Write-in,4
-Lane,0061 101507 Eugene 507,U.S. House,4,,Write-in,13
-Lane,0062 101511 Eugene 511,U.S. House,4,,Write-in,30
-Lane,0063 101523 Eugene 523,U.S. House,4,,Write-in,36
-Lane,0064 101613 Eugene 613,U.S. House,4,,Write-in,26
-Lane,0065 101617 Eugene 617,U.S. House,4,,Write-in,41
-Lane,0066 101623 Eugene 623,U.S. House,4,,Write-in,33
-Lane,0067 101711 Eugene 711,U.S. House,4,,Write-in,6
-Lane,0068 101713 Eugene 713,U.S. House,4,,Write-in,24
-Lane,0069 101715 Eugene 715,U.S. House,4,,Write-in,4
-Lane,0070 101717 Eugene 717,U.S. House,4,,Write-in,3
-Lane,0071 101719 Eugene 719,U.S. House,4,,Write-in,6
-Lane,0072 101723 Eugene 723,U.S. House,4,,Write-in,20
-Lane,0073 101803 Eugene 803,U.S. House,4,,Write-in,16
-Lane,0074 101805 Eugene 805,U.S. House,4,,Write-in,17
-Lane,0075 101807 Eugene 807,U.S. House,4,,Write-in,34
-Lane,0076 101809 Eugene 809,U.S. House,4,,Write-in,12
-Lane,0077 102102 Springfield 102,U.S. House,4,,Write-in,34
-Lane,0078 102206 Springfield 206,U.S. House,4,,Write-in,34
-Lane,0079 102304 Springfield 304,U.S. House,4,,Write-in,41
-Lane,0080 102402 Springfield 402,U.S. House,4,,Write-in,50
-Lane,0081 102504 Springfield 504,U.S. House,4,,Write-in,34
-Lane,0082 102606 Springfield 606,U.S. House,4,,Write-in,28
-Lane,0083 102608 Springfield 608,U.S. House,4,,Write-in,25
+Lane,0001 100001 Alvadore,U.S. House,4,,Write-ins,17
+Lane,0002 100003 Armitage,U.S. House,4,,Write-ins,2
+Lane,0003 100004 Bailey,U.S. House,4,,Write-ins,11
+Lane,0004 100005 Blachly,U.S. House,4,,Write-ins,10
+Lane,0005 100007 Blue River,U.S. House,4,,Write-ins,10
+Lane,0006 100008 Coast Fork,U.S. House,4,,Write-ins,12
+Lane,0007 100009 Camas,U.S. House,4,,Write-ins,4
+Lane,0008 100012 Cheshire,U.S. House,4,,Write-ins,29
+Lane,0009 100080 Elmira,U.S. House,4,,Write-ins,18
+Lane,0010 100082 Fernridge,U.S. House,4,,Write-ins,27
+Lane,0011 100084 Fox Hollow,U.S. House,4,,Write-ins,12
+Lane,0012 100086 Garden Way,U.S. House,4,,Write-ins,3
+Lane,0013 100087 Glenada,U.S. House,4,,Write-ins,5
+Lane,0014 100090 Goshen,U.S. House,4,,Write-ins,25
+Lane,0015 100091 Grovedale,U.S. House,4,,Write-ins,8
+Lane,0016 100095 Gateway,U.S. House,4,,Write-ins,6
+Lane,0017 100097 Latham,U.S. House,4,,Write-ins,13
+Lane,0018 100100 Lorane,U.S. House,4,,Write-ins,12
+Lane,0019 100102 Lowell,U.S. House,4,,Write-ins,10
+Lane,0020 100103 Mapleton,U.S. House,4,,Write-ins,6
+Lane,0021 100105 Marcola,U.S. House,4,,Write-ins,12
+Lane,0022 100107 Mosby,U.S. House,4,,Write-ins,29
+Lane,0023 100111 Pleasant Hill 1,U.S. House,4,,Write-ins,23
+Lane,0024 100112 Pleasant Hill 2,U.S. House,4,,Write-ins,4
+Lane,0025 100116 River Road,U.S. House,4,,Write-ins,26
+Lane,0026 100119 Salmon Creek,U.S. House,4,,Write-ins,1
+Lane,0027 100121 Santa Clara 1,U.S. House,4,,Write-ins,12
+Lane,0028 100124 Santa Clara 4,U.S. House,4,,Write-ins,31
+Lane,0029 100128 Santa Clara 8,U.S. House,4,,Write-ins,20
+Lane,0030 100130 Siuslaw,U.S. House,4,,Write-ins,15
+Lane,0031 100152 Walterville,U.S. House,4,,Write-ins,19
+Lane,0032 100153 Wilkins,U.S. House,4,,Write-ins,16
+Lane,0033 100155 McKenzie,U.S. House,4,,Write-ins,30
+Lane,0034 100200 Coburg,U.S. House,4,,Write-ins,6
+Lane,0035 100300 Cottage Grove,U.S. House,4,,Write-ins,31
+Lane,0036 100400 Creswell,U.S. House,4,,Write-ins,23
+Lane,0037 100500 Dunes City,U.S. House,4,,Write-ins,11
+Lane,0038 100601 Florence 1,U.S. House,4,,Write-ins,14
+Lane,0039 100602 Florence 2,U.S. House,4,,Write-ins,8
+Lane,0040 100700 Junction City,U.S. House,4,,Write-ins,23
+Lane,0041 100800 Oakridge,U.S. House,4,,Write-ins,8
+Lane,0042 100900 Veneta,U.S. House,4,,Write-ins,18
+Lane,0043 101101 Eugene 101,U.S. House,4,,Write-ins,15
+Lane,0044 101103 Eugene 103,U.S. House,4,,Write-ins,12
+Lane,0045 101105 Eugene 105,U.S. House,4,,Write-ins,2
+Lane,0046 101107 Eugene 107,U.S. House,4,,Write-ins,9
+Lane,0047 101109 Eugene 109,U.S. House,4,,Write-ins,0
+Lane,0048 101117 Eugene 117,U.S. House,4,,Write-ins,7
+Lane,0049 101215 Eugene 215,U.S. House,4,,Write-ins,16
+Lane,0050 101223 Eugene 223,U.S. House,4,,Write-ins,16
+Lane,0051 101235 Eugene 235,U.S. House,4,,Write-ins,5
+Lane,0052 101237 Eugene 237,U.S. House,4,,Write-ins,26
+Lane,0053 101313 Eugene 313,U.S. House,4,,Write-ins,22
+Lane,0054 101315 Eugene 315,U.S. House,4,,Write-ins,19
+Lane,0055 101317 Eugene 317,U.S. House,4,,Write-ins,18
+Lane,0056 101431 Eugene 431,U.S. House,4,,Write-ins,16
+Lane,0057 101433 Eugene 433,U.S. House,4,,Write-ins,12
+Lane,0058 101435 Eugene 435,U.S. House,4,,Write-ins,28
+Lane,0059 101439 Eugene 439,U.S. House,4,,Write-ins,25
+Lane,0060 101505 Eugene 505,U.S. House,4,,Write-ins,4
+Lane,0061 101507 Eugene 507,U.S. House,4,,Write-ins,13
+Lane,0062 101511 Eugene 511,U.S. House,4,,Write-ins,30
+Lane,0063 101523 Eugene 523,U.S. House,4,,Write-ins,36
+Lane,0064 101613 Eugene 613,U.S. House,4,,Write-ins,26
+Lane,0065 101617 Eugene 617,U.S. House,4,,Write-ins,41
+Lane,0066 101623 Eugene 623,U.S. House,4,,Write-ins,33
+Lane,0067 101711 Eugene 711,U.S. House,4,,Write-ins,6
+Lane,0068 101713 Eugene 713,U.S. House,4,,Write-ins,24
+Lane,0069 101715 Eugene 715,U.S. House,4,,Write-ins,4
+Lane,0070 101717 Eugene 717,U.S. House,4,,Write-ins,3
+Lane,0071 101719 Eugene 719,U.S. House,4,,Write-ins,6
+Lane,0072 101723 Eugene 723,U.S. House,4,,Write-ins,20
+Lane,0073 101803 Eugene 803,U.S. House,4,,Write-ins,16
+Lane,0074 101805 Eugene 805,U.S. House,4,,Write-ins,17
+Lane,0075 101807 Eugene 807,U.S. House,4,,Write-ins,34
+Lane,0076 101809 Eugene 809,U.S. House,4,,Write-ins,12
+Lane,0077 102102 Springfield 102,U.S. House,4,,Write-ins,34
+Lane,0078 102206 Springfield 206,U.S. House,4,,Write-ins,34
+Lane,0079 102304 Springfield 304,U.S. House,4,,Write-ins,41
+Lane,0080 102402 Springfield 402,U.S. House,4,,Write-ins,50
+Lane,0081 102504 Springfield 504,U.S. House,4,,Write-ins,34
+Lane,0082 102606 Springfield 606,U.S. House,4,,Write-ins,28
+Lane,0083 102608 Springfield 608,U.S. House,4,,Write-ins,25
 Lane,0001 100001 Alvadore,U.S. House,4,,Over Votes,0
 Lane,0002 100003 Armitage,U.S. House,4,,Over Votes,0
 Lane,0003 100004 Bailey,U.S. House,4,,Over Votes,0
@@ -1991,89 +1991,89 @@ Lane,0080 102402 Springfield 402,Secretary of State,,REP,Rick Dancer,2821
 Lane,0081 102504 Springfield 504,Secretary of State,,REP,Rick Dancer,2586
 Lane,0082 102606 Springfield 606,Secretary of State,,REP,Rick Dancer,2189
 Lane,0083 102608 Springfield 608,Secretary of State,,REP,Rick Dancer,1134
-Lane,0001 100001 Alvadore,Secretary of State,,,Write-in,6
-Lane,0002 100003 Armitage,Secretary of State,,,Write-in,1
-Lane,0003 100004 Bailey,Secretary of State,,,Write-in,3
-Lane,0004 100005 Blachly,Secretary of State,,,Write-in,2
-Lane,0005 100007 Blue River,Secretary of State,,,Write-in,2
-Lane,0006 100008 Coast Fork,Secretary of State,,,Write-in,4
-Lane,0007 100009 Camas,Secretary of State,,,Write-in,2
-Lane,0008 100012 Cheshire,Secretary of State,,,Write-in,8
-Lane,0009 100080 Elmira,Secretary of State,,,Write-in,7
-Lane,0010 100082 Fernridge,Secretary of State,,,Write-in,1
-Lane,0011 100084 Fox Hollow,Secretary of State,,,Write-in,3
-Lane,0012 100086 Garden Way,Secretary of State,,,Write-in,1
-Lane,0013 100087 Glenada,Secretary of State,,,Write-in,4
-Lane,0014 100090 Goshen,Secretary of State,,,Write-in,6
-Lane,0015 100091 Grovedale,Secretary of State,,,Write-in,5
-Lane,0016 100095 Gateway,Secretary of State,,,Write-in,2
-Lane,0017 100097 Latham,Secretary of State,,,Write-in,10
-Lane,0018 100100 Lorane,Secretary of State,,,Write-in,0
-Lane,0019 100102 Lowell,Secretary of State,,,Write-in,6
-Lane,0020 100103 Mapleton,Secretary of State,,,Write-in,3
-Lane,0021 100105 Marcola,Secretary of State,,,Write-in,1
-Lane,0022 100107 Mosby,Secretary of State,,,Write-in,7
-Lane,0023 100111 Pleasant Hill 1,Secretary of State,,,Write-in,8
-Lane,0024 100112 Pleasant Hill 2,Secretary of State,,,Write-in,0
-Lane,0025 100116 River Road,Secretary of State,,,Write-in,7
-Lane,0026 100119 Salmon Creek,Secretary of State,,,Write-in,2
-Lane,0027 100121 Santa Clara 1,Secretary of State,,,Write-in,3
-Lane,0028 100124 Santa Clara 4,Secretary of State,,,Write-in,8
-Lane,0029 100128 Santa Clara 8,Secretary of State,,,Write-in,11
-Lane,0030 100130 Siuslaw,Secretary of State,,,Write-in,5
-Lane,0031 100152 Walterville,Secretary of State,,,Write-in,7
-Lane,0032 100153 Wilkins,Secretary of State,,,Write-in,3
-Lane,0033 100155 McKenzie,Secretary of State,,,Write-in,4
-Lane,0034 100200 Coburg,Secretary of State,,,Write-in,3
-Lane,0035 100300 Cottage Grove,Secretary of State,,,Write-in,13
-Lane,0036 100400 Creswell,Secretary of State,,,Write-in,11
-Lane,0037 100500 Dunes City,Secretary of State,,,Write-in,3
-Lane,0038 100601 Florence 1,Secretary of State,,,Write-in,3
-Lane,0039 100602 Florence 2,Secretary of State,,,Write-in,4
-Lane,0040 100700 Junction City,Secretary of State,,,Write-in,7
-Lane,0041 100800 Oakridge,Secretary of State,,,Write-in,8
-Lane,0042 100900 Veneta,Secretary of State,,,Write-in,5
-Lane,0043 101101 Eugene 101,Secretary of State,,,Write-in,7
-Lane,0044 101103 Eugene 103,Secretary of State,,,Write-in,12
-Lane,0045 101105 Eugene 105,Secretary of State,,,Write-in,1
-Lane,0046 101107 Eugene 107,Secretary of State,,,Write-in,0
-Lane,0047 101109 Eugene 109,Secretary of State,,,Write-in,1
-Lane,0048 101117 Eugene 117,Secretary of State,,,Write-in,3
-Lane,0049 101215 Eugene 215,Secretary of State,,,Write-in,3
-Lane,0050 101223 Eugene 223,Secretary of State,,,Write-in,4
-Lane,0051 101235 Eugene 235,Secretary of State,,,Write-in,2
-Lane,0052 101237 Eugene 237,Secretary of State,,,Write-in,2
-Lane,0053 101313 Eugene 313,Secretary of State,,,Write-in,12
-Lane,0054 101315 Eugene 315,Secretary of State,,,Write-in,4
-Lane,0055 101317 Eugene 317,Secretary of State,,,Write-in,3
-Lane,0056 101431 Eugene 431,Secretary of State,,,Write-in,6
-Lane,0057 101433 Eugene 433,Secretary of State,,,Write-in,5
-Lane,0058 101435 Eugene 435,Secretary of State,,,Write-in,6
-Lane,0059 101439 Eugene 439,Secretary of State,,,Write-in,8
-Lane,0060 101505 Eugene 505,Secretary of State,,,Write-in,2
-Lane,0061 101507 Eugene 507,Secretary of State,,,Write-in,6
-Lane,0062 101511 Eugene 511,Secretary of State,,,Write-in,9
-Lane,0063 101523 Eugene 523,Secretary of State,,,Write-in,9
-Lane,0064 101613 Eugene 613,Secretary of State,,,Write-in,9
-Lane,0065 101617 Eugene 617,Secretary of State,,,Write-in,15
-Lane,0066 101623 Eugene 623,Secretary of State,,,Write-in,10
-Lane,0067 101711 Eugene 711,Secretary of State,,,Write-in,6
-Lane,0068 101713 Eugene 713,Secretary of State,,,Write-in,10
-Lane,0069 101715 Eugene 715,Secretary of State,,,Write-in,0
-Lane,0070 101717 Eugene 717,Secretary of State,,,Write-in,0
-Lane,0071 101719 Eugene 719,Secretary of State,,,Write-in,1
-Lane,0072 101723 Eugene 723,Secretary of State,,,Write-in,8
-Lane,0073 101803 Eugene 803,Secretary of State,,,Write-in,8
-Lane,0074 101805 Eugene 805,Secretary of State,,,Write-in,3
-Lane,0075 101807 Eugene 807,Secretary of State,,,Write-in,10
-Lane,0076 101809 Eugene 809,Secretary of State,,,Write-in,0
-Lane,0077 102102 Springfield 102,Secretary of State,,,Write-in,12
-Lane,0078 102206 Springfield 206,Secretary of State,,,Write-in,13
-Lane,0079 102304 Springfield 304,Secretary of State,,,Write-in,16
-Lane,0080 102402 Springfield 402,Secretary of State,,,Write-in,16
-Lane,0081 102504 Springfield 504,Secretary of State,,,Write-in,21
-Lane,0082 102606 Springfield 606,Secretary of State,,,Write-in,7
-Lane,0083 102608 Springfield 608,Secretary of State,,,Write-in,7
+Lane,0001 100001 Alvadore,Secretary of State,,,Write-ins,6
+Lane,0002 100003 Armitage,Secretary of State,,,Write-ins,1
+Lane,0003 100004 Bailey,Secretary of State,,,Write-ins,3
+Lane,0004 100005 Blachly,Secretary of State,,,Write-ins,2
+Lane,0005 100007 Blue River,Secretary of State,,,Write-ins,2
+Lane,0006 100008 Coast Fork,Secretary of State,,,Write-ins,4
+Lane,0007 100009 Camas,Secretary of State,,,Write-ins,2
+Lane,0008 100012 Cheshire,Secretary of State,,,Write-ins,8
+Lane,0009 100080 Elmira,Secretary of State,,,Write-ins,7
+Lane,0010 100082 Fernridge,Secretary of State,,,Write-ins,1
+Lane,0011 100084 Fox Hollow,Secretary of State,,,Write-ins,3
+Lane,0012 100086 Garden Way,Secretary of State,,,Write-ins,1
+Lane,0013 100087 Glenada,Secretary of State,,,Write-ins,4
+Lane,0014 100090 Goshen,Secretary of State,,,Write-ins,6
+Lane,0015 100091 Grovedale,Secretary of State,,,Write-ins,5
+Lane,0016 100095 Gateway,Secretary of State,,,Write-ins,2
+Lane,0017 100097 Latham,Secretary of State,,,Write-ins,10
+Lane,0018 100100 Lorane,Secretary of State,,,Write-ins,0
+Lane,0019 100102 Lowell,Secretary of State,,,Write-ins,6
+Lane,0020 100103 Mapleton,Secretary of State,,,Write-ins,3
+Lane,0021 100105 Marcola,Secretary of State,,,Write-ins,1
+Lane,0022 100107 Mosby,Secretary of State,,,Write-ins,7
+Lane,0023 100111 Pleasant Hill 1,Secretary of State,,,Write-ins,8
+Lane,0024 100112 Pleasant Hill 2,Secretary of State,,,Write-ins,0
+Lane,0025 100116 River Road,Secretary of State,,,Write-ins,7
+Lane,0026 100119 Salmon Creek,Secretary of State,,,Write-ins,2
+Lane,0027 100121 Santa Clara 1,Secretary of State,,,Write-ins,3
+Lane,0028 100124 Santa Clara 4,Secretary of State,,,Write-ins,8
+Lane,0029 100128 Santa Clara 8,Secretary of State,,,Write-ins,11
+Lane,0030 100130 Siuslaw,Secretary of State,,,Write-ins,5
+Lane,0031 100152 Walterville,Secretary of State,,,Write-ins,7
+Lane,0032 100153 Wilkins,Secretary of State,,,Write-ins,3
+Lane,0033 100155 McKenzie,Secretary of State,,,Write-ins,4
+Lane,0034 100200 Coburg,Secretary of State,,,Write-ins,3
+Lane,0035 100300 Cottage Grove,Secretary of State,,,Write-ins,13
+Lane,0036 100400 Creswell,Secretary of State,,,Write-ins,11
+Lane,0037 100500 Dunes City,Secretary of State,,,Write-ins,3
+Lane,0038 100601 Florence 1,Secretary of State,,,Write-ins,3
+Lane,0039 100602 Florence 2,Secretary of State,,,Write-ins,4
+Lane,0040 100700 Junction City,Secretary of State,,,Write-ins,7
+Lane,0041 100800 Oakridge,Secretary of State,,,Write-ins,8
+Lane,0042 100900 Veneta,Secretary of State,,,Write-ins,5
+Lane,0043 101101 Eugene 101,Secretary of State,,,Write-ins,7
+Lane,0044 101103 Eugene 103,Secretary of State,,,Write-ins,12
+Lane,0045 101105 Eugene 105,Secretary of State,,,Write-ins,1
+Lane,0046 101107 Eugene 107,Secretary of State,,,Write-ins,0
+Lane,0047 101109 Eugene 109,Secretary of State,,,Write-ins,1
+Lane,0048 101117 Eugene 117,Secretary of State,,,Write-ins,3
+Lane,0049 101215 Eugene 215,Secretary of State,,,Write-ins,3
+Lane,0050 101223 Eugene 223,Secretary of State,,,Write-ins,4
+Lane,0051 101235 Eugene 235,Secretary of State,,,Write-ins,2
+Lane,0052 101237 Eugene 237,Secretary of State,,,Write-ins,2
+Lane,0053 101313 Eugene 313,Secretary of State,,,Write-ins,12
+Lane,0054 101315 Eugene 315,Secretary of State,,,Write-ins,4
+Lane,0055 101317 Eugene 317,Secretary of State,,,Write-ins,3
+Lane,0056 101431 Eugene 431,Secretary of State,,,Write-ins,6
+Lane,0057 101433 Eugene 433,Secretary of State,,,Write-ins,5
+Lane,0058 101435 Eugene 435,Secretary of State,,,Write-ins,6
+Lane,0059 101439 Eugene 439,Secretary of State,,,Write-ins,8
+Lane,0060 101505 Eugene 505,Secretary of State,,,Write-ins,2
+Lane,0061 101507 Eugene 507,Secretary of State,,,Write-ins,6
+Lane,0062 101511 Eugene 511,Secretary of State,,,Write-ins,9
+Lane,0063 101523 Eugene 523,Secretary of State,,,Write-ins,9
+Lane,0064 101613 Eugene 613,Secretary of State,,,Write-ins,9
+Lane,0065 101617 Eugene 617,Secretary of State,,,Write-ins,15
+Lane,0066 101623 Eugene 623,Secretary of State,,,Write-ins,10
+Lane,0067 101711 Eugene 711,Secretary of State,,,Write-ins,6
+Lane,0068 101713 Eugene 713,Secretary of State,,,Write-ins,10
+Lane,0069 101715 Eugene 715,Secretary of State,,,Write-ins,0
+Lane,0070 101717 Eugene 717,Secretary of State,,,Write-ins,0
+Lane,0071 101719 Eugene 719,Secretary of State,,,Write-ins,1
+Lane,0072 101723 Eugene 723,Secretary of State,,,Write-ins,8
+Lane,0073 101803 Eugene 803,Secretary of State,,,Write-ins,8
+Lane,0074 101805 Eugene 805,Secretary of State,,,Write-ins,3
+Lane,0075 101807 Eugene 807,Secretary of State,,,Write-ins,10
+Lane,0076 101809 Eugene 809,Secretary of State,,,Write-ins,0
+Lane,0077 102102 Springfield 102,Secretary of State,,,Write-ins,12
+Lane,0078 102206 Springfield 206,Secretary of State,,,Write-ins,13
+Lane,0079 102304 Springfield 304,Secretary of State,,,Write-ins,16
+Lane,0080 102402 Springfield 402,Secretary of State,,,Write-ins,16
+Lane,0081 102504 Springfield 504,Secretary of State,,,Write-ins,21
+Lane,0082 102606 Springfield 606,Secretary of State,,,Write-ins,7
+Lane,0083 102608 Springfield 608,Secretary of State,,,Write-ins,7
 Lane,0001 100001 Alvadore,Secretary of State,,,Over Votes,2
 Lane,0002 100003 Armitage,Secretary of State,,,Over Votes,0
 Lane,0003 100004 Bailey,Secretary of State,,,Over Votes,1
@@ -2489,89 +2489,89 @@ Lane,0080 102402 Springfield 402,State Treasurer,,DEM,Ben Westlund,2044
 Lane,0081 102504 Springfield 504,State Treasurer,,DEM,Ben Westlund,1842
 Lane,0082 102606 Springfield 606,State Treasurer,,DEM,Ben Westlund,1390
 Lane,0083 102608 Springfield 608,State Treasurer,,DEM,Ben Westlund,669
-Lane,0001 100001 Alvadore,State Treasurer,,,Write-in,8
-Lane,0002 100003 Armitage,State Treasurer,,,Write-in,2
-Lane,0003 100004 Bailey,State Treasurer,,,Write-in,8
-Lane,0004 100005 Blachly,State Treasurer,,,Write-in,2
-Lane,0005 100007 Blue River,State Treasurer,,,Write-in,4
-Lane,0006 100008 Coast Fork,State Treasurer,,,Write-in,2
-Lane,0007 100009 Camas,State Treasurer,,,Write-in,0
-Lane,0008 100012 Cheshire,State Treasurer,,,Write-in,5
-Lane,0009 100080 Elmira,State Treasurer,,,Write-in,9
-Lane,0010 100082 Fernridge,State Treasurer,,,Write-in,9
-Lane,0011 100084 Fox Hollow,State Treasurer,,,Write-in,1
-Lane,0012 100086 Garden Way,State Treasurer,,,Write-in,1
-Lane,0013 100087 Glenada,State Treasurer,,,Write-in,1
-Lane,0014 100090 Goshen,State Treasurer,,,Write-in,6
-Lane,0015 100091 Grovedale,State Treasurer,,,Write-in,4
-Lane,0016 100095 Gateway,State Treasurer,,,Write-in,0
-Lane,0017 100097 Latham,State Treasurer,,,Write-in,1
-Lane,0018 100100 Lorane,State Treasurer,,,Write-in,2
-Lane,0019 100102 Lowell,State Treasurer,,,Write-in,3
-Lane,0020 100103 Mapleton,State Treasurer,,,Write-in,2
-Lane,0021 100105 Marcola,State Treasurer,,,Write-in,2
-Lane,0022 100107 Mosby,State Treasurer,,,Write-in,13
-Lane,0023 100111 Pleasant Hill 1,State Treasurer,,,Write-in,13
-Lane,0024 100112 Pleasant Hill 2,State Treasurer,,,Write-in,2
-Lane,0025 100116 River Road,State Treasurer,,,Write-in,11
-Lane,0026 100119 Salmon Creek,State Treasurer,,,Write-in,1
-Lane,0027 100121 Santa Clara 1,State Treasurer,,,Write-in,4
-Lane,0028 100124 Santa Clara 4,State Treasurer,,,Write-in,13
-Lane,0029 100128 Santa Clara 8,State Treasurer,,,Write-in,8
-Lane,0030 100130 Siuslaw,State Treasurer,,,Write-in,9
-Lane,0031 100152 Walterville,State Treasurer,,,Write-in,6
-Lane,0032 100153 Wilkins,State Treasurer,,,Write-in,4
-Lane,0033 100155 McKenzie,State Treasurer,,,Write-in,6
-Lane,0034 100200 Coburg,State Treasurer,,,Write-in,0
-Lane,0035 100300 Cottage Grove,State Treasurer,,,Write-in,9
-Lane,0036 100400 Creswell,State Treasurer,,,Write-in,8
-Lane,0037 100500 Dunes City,State Treasurer,,,Write-in,1
-Lane,0038 100601 Florence 1,State Treasurer,,,Write-in,0
-Lane,0039 100602 Florence 2,State Treasurer,,,Write-in,7
-Lane,0040 100700 Junction City,State Treasurer,,,Write-in,7
-Lane,0041 100800 Oakridge,State Treasurer,,,Write-in,1
-Lane,0042 100900 Veneta,State Treasurer,,,Write-in,3
-Lane,0043 101101 Eugene 101,State Treasurer,,,Write-in,11
-Lane,0044 101103 Eugene 103,State Treasurer,,,Write-in,12
-Lane,0045 101105 Eugene 105,State Treasurer,,,Write-in,2
-Lane,0046 101107 Eugene 107,State Treasurer,,,Write-in,4
-Lane,0047 101109 Eugene 109,State Treasurer,,,Write-in,0
-Lane,0048 101117 Eugene 117,State Treasurer,,,Write-in,4
-Lane,0049 101215 Eugene 215,State Treasurer,,,Write-in,9
-Lane,0050 101223 Eugene 223,State Treasurer,,,Write-in,7
-Lane,0051 101235 Eugene 235,State Treasurer,,,Write-in,8
-Lane,0052 101237 Eugene 237,State Treasurer,,,Write-in,6
-Lane,0053 101313 Eugene 313,State Treasurer,,,Write-in,21
-Lane,0054 101315 Eugene 315,State Treasurer,,,Write-in,13
-Lane,0055 101317 Eugene 317,State Treasurer,,,Write-in,7
-Lane,0056 101431 Eugene 431,State Treasurer,,,Write-in,5
-Lane,0057 101433 Eugene 433,State Treasurer,,,Write-in,7
-Lane,0058 101435 Eugene 435,State Treasurer,,,Write-in,7
-Lane,0059 101439 Eugene 439,State Treasurer,,,Write-in,8
-Lane,0060 101505 Eugene 505,State Treasurer,,,Write-in,1
-Lane,0061 101507 Eugene 507,State Treasurer,,,Write-in,3
-Lane,0062 101511 Eugene 511,State Treasurer,,,Write-in,13
-Lane,0063 101523 Eugene 523,State Treasurer,,,Write-in,11
-Lane,0064 101613 Eugene 613,State Treasurer,,,Write-in,5
-Lane,0065 101617 Eugene 617,State Treasurer,,,Write-in,13
-Lane,0066 101623 Eugene 623,State Treasurer,,,Write-in,10
-Lane,0067 101711 Eugene 711,State Treasurer,,,Write-in,7
-Lane,0068 101713 Eugene 713,State Treasurer,,,Write-in,3
-Lane,0069 101715 Eugene 715,State Treasurer,,,Write-in,0
-Lane,0070 101717 Eugene 717,State Treasurer,,,Write-in,2
-Lane,0071 101719 Eugene 719,State Treasurer,,,Write-in,0
-Lane,0072 101723 Eugene 723,State Treasurer,,,Write-in,17
-Lane,0073 101803 Eugene 803,State Treasurer,,,Write-in,6
-Lane,0074 101805 Eugene 805,State Treasurer,,,Write-in,5
-Lane,0075 101807 Eugene 807,State Treasurer,,,Write-in,14
-Lane,0076 101809 Eugene 809,State Treasurer,,,Write-in,1
-Lane,0077 102102 Springfield 102,State Treasurer,,,Write-in,12
-Lane,0078 102206 Springfield 206,State Treasurer,,,Write-in,15
-Lane,0079 102304 Springfield 304,State Treasurer,,,Write-in,16
-Lane,0080 102402 Springfield 402,State Treasurer,,,Write-in,17
-Lane,0081 102504 Springfield 504,State Treasurer,,,Write-in,19
-Lane,0082 102606 Springfield 606,State Treasurer,,,Write-in,14
-Lane,0083 102608 Springfield 608,State Treasurer,,,Write-in,0
+Lane,0001 100001 Alvadore,State Treasurer,,,Write-ins,8
+Lane,0002 100003 Armitage,State Treasurer,,,Write-ins,2
+Lane,0003 100004 Bailey,State Treasurer,,,Write-ins,8
+Lane,0004 100005 Blachly,State Treasurer,,,Write-ins,2
+Lane,0005 100007 Blue River,State Treasurer,,,Write-ins,4
+Lane,0006 100008 Coast Fork,State Treasurer,,,Write-ins,2
+Lane,0007 100009 Camas,State Treasurer,,,Write-ins,0
+Lane,0008 100012 Cheshire,State Treasurer,,,Write-ins,5
+Lane,0009 100080 Elmira,State Treasurer,,,Write-ins,9
+Lane,0010 100082 Fernridge,State Treasurer,,,Write-ins,9
+Lane,0011 100084 Fox Hollow,State Treasurer,,,Write-ins,1
+Lane,0012 100086 Garden Way,State Treasurer,,,Write-ins,1
+Lane,0013 100087 Glenada,State Treasurer,,,Write-ins,1
+Lane,0014 100090 Goshen,State Treasurer,,,Write-ins,6
+Lane,0015 100091 Grovedale,State Treasurer,,,Write-ins,4
+Lane,0016 100095 Gateway,State Treasurer,,,Write-ins,0
+Lane,0017 100097 Latham,State Treasurer,,,Write-ins,1
+Lane,0018 100100 Lorane,State Treasurer,,,Write-ins,2
+Lane,0019 100102 Lowell,State Treasurer,,,Write-ins,3
+Lane,0020 100103 Mapleton,State Treasurer,,,Write-ins,2
+Lane,0021 100105 Marcola,State Treasurer,,,Write-ins,2
+Lane,0022 100107 Mosby,State Treasurer,,,Write-ins,13
+Lane,0023 100111 Pleasant Hill 1,State Treasurer,,,Write-ins,13
+Lane,0024 100112 Pleasant Hill 2,State Treasurer,,,Write-ins,2
+Lane,0025 100116 River Road,State Treasurer,,,Write-ins,11
+Lane,0026 100119 Salmon Creek,State Treasurer,,,Write-ins,1
+Lane,0027 100121 Santa Clara 1,State Treasurer,,,Write-ins,4
+Lane,0028 100124 Santa Clara 4,State Treasurer,,,Write-ins,13
+Lane,0029 100128 Santa Clara 8,State Treasurer,,,Write-ins,8
+Lane,0030 100130 Siuslaw,State Treasurer,,,Write-ins,9
+Lane,0031 100152 Walterville,State Treasurer,,,Write-ins,6
+Lane,0032 100153 Wilkins,State Treasurer,,,Write-ins,4
+Lane,0033 100155 McKenzie,State Treasurer,,,Write-ins,6
+Lane,0034 100200 Coburg,State Treasurer,,,Write-ins,0
+Lane,0035 100300 Cottage Grove,State Treasurer,,,Write-ins,9
+Lane,0036 100400 Creswell,State Treasurer,,,Write-ins,8
+Lane,0037 100500 Dunes City,State Treasurer,,,Write-ins,1
+Lane,0038 100601 Florence 1,State Treasurer,,,Write-ins,0
+Lane,0039 100602 Florence 2,State Treasurer,,,Write-ins,7
+Lane,0040 100700 Junction City,State Treasurer,,,Write-ins,7
+Lane,0041 100800 Oakridge,State Treasurer,,,Write-ins,1
+Lane,0042 100900 Veneta,State Treasurer,,,Write-ins,3
+Lane,0043 101101 Eugene 101,State Treasurer,,,Write-ins,11
+Lane,0044 101103 Eugene 103,State Treasurer,,,Write-ins,12
+Lane,0045 101105 Eugene 105,State Treasurer,,,Write-ins,2
+Lane,0046 101107 Eugene 107,State Treasurer,,,Write-ins,4
+Lane,0047 101109 Eugene 109,State Treasurer,,,Write-ins,0
+Lane,0048 101117 Eugene 117,State Treasurer,,,Write-ins,4
+Lane,0049 101215 Eugene 215,State Treasurer,,,Write-ins,9
+Lane,0050 101223 Eugene 223,State Treasurer,,,Write-ins,7
+Lane,0051 101235 Eugene 235,State Treasurer,,,Write-ins,8
+Lane,0052 101237 Eugene 237,State Treasurer,,,Write-ins,6
+Lane,0053 101313 Eugene 313,State Treasurer,,,Write-ins,21
+Lane,0054 101315 Eugene 315,State Treasurer,,,Write-ins,13
+Lane,0055 101317 Eugene 317,State Treasurer,,,Write-ins,7
+Lane,0056 101431 Eugene 431,State Treasurer,,,Write-ins,5
+Lane,0057 101433 Eugene 433,State Treasurer,,,Write-ins,7
+Lane,0058 101435 Eugene 435,State Treasurer,,,Write-ins,7
+Lane,0059 101439 Eugene 439,State Treasurer,,,Write-ins,8
+Lane,0060 101505 Eugene 505,State Treasurer,,,Write-ins,1
+Lane,0061 101507 Eugene 507,State Treasurer,,,Write-ins,3
+Lane,0062 101511 Eugene 511,State Treasurer,,,Write-ins,13
+Lane,0063 101523 Eugene 523,State Treasurer,,,Write-ins,11
+Lane,0064 101613 Eugene 613,State Treasurer,,,Write-ins,5
+Lane,0065 101617 Eugene 617,State Treasurer,,,Write-ins,13
+Lane,0066 101623 Eugene 623,State Treasurer,,,Write-ins,10
+Lane,0067 101711 Eugene 711,State Treasurer,,,Write-ins,7
+Lane,0068 101713 Eugene 713,State Treasurer,,,Write-ins,3
+Lane,0069 101715 Eugene 715,State Treasurer,,,Write-ins,0
+Lane,0070 101717 Eugene 717,State Treasurer,,,Write-ins,2
+Lane,0071 101719 Eugene 719,State Treasurer,,,Write-ins,0
+Lane,0072 101723 Eugene 723,State Treasurer,,,Write-ins,17
+Lane,0073 101803 Eugene 803,State Treasurer,,,Write-ins,6
+Lane,0074 101805 Eugene 805,State Treasurer,,,Write-ins,5
+Lane,0075 101807 Eugene 807,State Treasurer,,,Write-ins,14
+Lane,0076 101809 Eugene 809,State Treasurer,,,Write-ins,1
+Lane,0077 102102 Springfield 102,State Treasurer,,,Write-ins,12
+Lane,0078 102206 Springfield 206,State Treasurer,,,Write-ins,15
+Lane,0079 102304 Springfield 304,State Treasurer,,,Write-ins,16
+Lane,0080 102402 Springfield 402,State Treasurer,,,Write-ins,17
+Lane,0081 102504 Springfield 504,State Treasurer,,,Write-ins,19
+Lane,0082 102606 Springfield 606,State Treasurer,,,Write-ins,14
+Lane,0083 102608 Springfield 608,State Treasurer,,,Write-ins,0
 Lane,0001 100001 Alvadore,State Treasurer,,,Over Votes,1
 Lane,0002 100003 Armitage,State Treasurer,,,Over Votes,1
 Lane,0003 100004 Bailey,State Treasurer,,,Over Votes,1
@@ -3070,89 +3070,89 @@ Lane,0080 102402 Springfield 402,Attorney General,,CON,James E Leuenberger,465
 Lane,0081 102504 Springfield 504,Attorney General,,CON,James E Leuenberger,356
 Lane,0082 102606 Springfield 606,Attorney General,,CON,James E Leuenberger,318
 Lane,0083 102608 Springfield 608,Attorney General,,CON,James E Leuenberger,193
-Lane,0001 100001 Alvadore,Attorney General,,,Write-in,5
-Lane,0002 100003 Armitage,Attorney General,,,Write-in,3
-Lane,0003 100004 Bailey,Attorney General,,,Write-in,7
-Lane,0004 100005 Blachly,Attorney General,,,Write-in,5
-Lane,0005 100007 Blue River,Attorney General,,,Write-in,3
-Lane,0006 100008 Coast Fork,Attorney General,,,Write-in,5
-Lane,0007 100009 Camas,Attorney General,,,Write-in,1
-Lane,0008 100012 Cheshire,Attorney General,,,Write-in,13
-Lane,0009 100080 Elmira,Attorney General,,,Write-in,15
-Lane,0010 100082 Fernridge,Attorney General,,,Write-in,13
-Lane,0011 100084 Fox Hollow,Attorney General,,,Write-in,6
-Lane,0012 100086 Garden Way,Attorney General,,,Write-in,0
-Lane,0013 100087 Glenada,Attorney General,,,Write-in,0
-Lane,0014 100090 Goshen,Attorney General,,,Write-in,10
-Lane,0015 100091 Grovedale,Attorney General,,,Write-in,3
-Lane,0016 100095 Gateway,Attorney General,,,Write-in,5
-Lane,0017 100097 Latham,Attorney General,,,Write-in,8
-Lane,0018 100100 Lorane,Attorney General,,,Write-in,2
-Lane,0019 100102 Lowell,Attorney General,,,Write-in,1
-Lane,0020 100103 Mapleton,Attorney General,,,Write-in,3
-Lane,0021 100105 Marcola,Attorney General,,,Write-in,3
-Lane,0022 100107 Mosby,Attorney General,,,Write-in,8
-Lane,0023 100111 Pleasant Hill 1,Attorney General,,,Write-in,14
-Lane,0024 100112 Pleasant Hill 2,Attorney General,,,Write-in,3
-Lane,0025 100116 River Road,Attorney General,,,Write-in,16
-Lane,0026 100119 Salmon Creek,Attorney General,,,Write-in,0
-Lane,0027 100121 Santa Clara 1,Attorney General,,,Write-in,3
-Lane,0028 100124 Santa Clara 4,Attorney General,,,Write-in,14
-Lane,0029 100128 Santa Clara 8,Attorney General,,,Write-in,11
-Lane,0030 100130 Siuslaw,Attorney General,,,Write-in,5
-Lane,0031 100152 Walterville,Attorney General,,,Write-in,10
-Lane,0032 100153 Wilkins,Attorney General,,,Write-in,6
-Lane,0033 100155 McKenzie,Attorney General,,,Write-in,12
-Lane,0034 100200 Coburg,Attorney General,,,Write-in,1
-Lane,0035 100300 Cottage Grove,Attorney General,,,Write-in,10
-Lane,0036 100400 Creswell,Attorney General,,,Write-in,9
-Lane,0037 100500 Dunes City,Attorney General,,,Write-in,4
-Lane,0038 100601 Florence 1,Attorney General,,,Write-in,2
-Lane,0039 100602 Florence 2,Attorney General,,,Write-in,8
-Lane,0040 100700 Junction City,Attorney General,,,Write-in,10
-Lane,0041 100800 Oakridge,Attorney General,,,Write-in,5
-Lane,0042 100900 Veneta,Attorney General,,,Write-in,12
-Lane,0043 101101 Eugene 101,Attorney General,,,Write-in,5
-Lane,0044 101103 Eugene 103,Attorney General,,,Write-in,8
-Lane,0045 101105 Eugene 105,Attorney General,,,Write-in,2
-Lane,0046 101107 Eugene 107,Attorney General,,,Write-in,5
-Lane,0047 101109 Eugene 109,Attorney General,,,Write-in,0
-Lane,0048 101117 Eugene 117,Attorney General,,,Write-in,2
-Lane,0049 101215 Eugene 215,Attorney General,,,Write-in,3
-Lane,0050 101223 Eugene 223,Attorney General,,,Write-in,2
-Lane,0051 101235 Eugene 235,Attorney General,,,Write-in,2
-Lane,0052 101237 Eugene 237,Attorney General,,,Write-in,6
-Lane,0053 101313 Eugene 313,Attorney General,,,Write-in,5
-Lane,0054 101315 Eugene 315,Attorney General,,,Write-in,7
-Lane,0055 101317 Eugene 317,Attorney General,,,Write-in,5
-Lane,0056 101431 Eugene 431,Attorney General,,,Write-in,7
-Lane,0057 101433 Eugene 433,Attorney General,,,Write-in,4
-Lane,0058 101435 Eugene 435,Attorney General,,,Write-in,6
-Lane,0059 101439 Eugene 439,Attorney General,,,Write-in,15
-Lane,0060 101505 Eugene 505,Attorney General,,,Write-in,0
-Lane,0061 101507 Eugene 507,Attorney General,,,Write-in,4
-Lane,0062 101511 Eugene 511,Attorney General,,,Write-in,22
-Lane,0063 101523 Eugene 523,Attorney General,,,Write-in,20
-Lane,0064 101613 Eugene 613,Attorney General,,,Write-in,14
-Lane,0065 101617 Eugene 617,Attorney General,,,Write-in,14
-Lane,0066 101623 Eugene 623,Attorney General,,,Write-in,13
-Lane,0067 101711 Eugene 711,Attorney General,,,Write-in,5
-Lane,0068 101713 Eugene 713,Attorney General,,,Write-in,9
-Lane,0069 101715 Eugene 715,Attorney General,,,Write-in,0
-Lane,0070 101717 Eugene 717,Attorney General,,,Write-in,2
-Lane,0071 101719 Eugene 719,Attorney General,,,Write-in,0
-Lane,0072 101723 Eugene 723,Attorney General,,,Write-in,13
-Lane,0073 101803 Eugene 803,Attorney General,,,Write-in,5
-Lane,0074 101805 Eugene 805,Attorney General,,,Write-in,7
-Lane,0075 101807 Eugene 807,Attorney General,,,Write-in,17
-Lane,0076 101809 Eugene 809,Attorney General,,,Write-in,4
-Lane,0077 102102 Springfield 102,Attorney General,,,Write-in,9
-Lane,0078 102206 Springfield 206,Attorney General,,,Write-in,8
-Lane,0079 102304 Springfield 304,Attorney General,,,Write-in,11
-Lane,0080 102402 Springfield 402,Attorney General,,,Write-in,21
-Lane,0081 102504 Springfield 504,Attorney General,,,Write-in,20
-Lane,0082 102606 Springfield 606,Attorney General,,,Write-in,17
-Lane,0083 102608 Springfield 608,Attorney General,,,Write-in,5
+Lane,0001 100001 Alvadore,Attorney General,,,Write-ins,5
+Lane,0002 100003 Armitage,Attorney General,,,Write-ins,3
+Lane,0003 100004 Bailey,Attorney General,,,Write-ins,7
+Lane,0004 100005 Blachly,Attorney General,,,Write-ins,5
+Lane,0005 100007 Blue River,Attorney General,,,Write-ins,3
+Lane,0006 100008 Coast Fork,Attorney General,,,Write-ins,5
+Lane,0007 100009 Camas,Attorney General,,,Write-ins,1
+Lane,0008 100012 Cheshire,Attorney General,,,Write-ins,13
+Lane,0009 100080 Elmira,Attorney General,,,Write-ins,15
+Lane,0010 100082 Fernridge,Attorney General,,,Write-ins,13
+Lane,0011 100084 Fox Hollow,Attorney General,,,Write-ins,6
+Lane,0012 100086 Garden Way,Attorney General,,,Write-ins,0
+Lane,0013 100087 Glenada,Attorney General,,,Write-ins,0
+Lane,0014 100090 Goshen,Attorney General,,,Write-ins,10
+Lane,0015 100091 Grovedale,Attorney General,,,Write-ins,3
+Lane,0016 100095 Gateway,Attorney General,,,Write-ins,5
+Lane,0017 100097 Latham,Attorney General,,,Write-ins,8
+Lane,0018 100100 Lorane,Attorney General,,,Write-ins,2
+Lane,0019 100102 Lowell,Attorney General,,,Write-ins,1
+Lane,0020 100103 Mapleton,Attorney General,,,Write-ins,3
+Lane,0021 100105 Marcola,Attorney General,,,Write-ins,3
+Lane,0022 100107 Mosby,Attorney General,,,Write-ins,8
+Lane,0023 100111 Pleasant Hill 1,Attorney General,,,Write-ins,14
+Lane,0024 100112 Pleasant Hill 2,Attorney General,,,Write-ins,3
+Lane,0025 100116 River Road,Attorney General,,,Write-ins,16
+Lane,0026 100119 Salmon Creek,Attorney General,,,Write-ins,0
+Lane,0027 100121 Santa Clara 1,Attorney General,,,Write-ins,3
+Lane,0028 100124 Santa Clara 4,Attorney General,,,Write-ins,14
+Lane,0029 100128 Santa Clara 8,Attorney General,,,Write-ins,11
+Lane,0030 100130 Siuslaw,Attorney General,,,Write-ins,5
+Lane,0031 100152 Walterville,Attorney General,,,Write-ins,10
+Lane,0032 100153 Wilkins,Attorney General,,,Write-ins,6
+Lane,0033 100155 McKenzie,Attorney General,,,Write-ins,12
+Lane,0034 100200 Coburg,Attorney General,,,Write-ins,1
+Lane,0035 100300 Cottage Grove,Attorney General,,,Write-ins,10
+Lane,0036 100400 Creswell,Attorney General,,,Write-ins,9
+Lane,0037 100500 Dunes City,Attorney General,,,Write-ins,4
+Lane,0038 100601 Florence 1,Attorney General,,,Write-ins,2
+Lane,0039 100602 Florence 2,Attorney General,,,Write-ins,8
+Lane,0040 100700 Junction City,Attorney General,,,Write-ins,10
+Lane,0041 100800 Oakridge,Attorney General,,,Write-ins,5
+Lane,0042 100900 Veneta,Attorney General,,,Write-ins,12
+Lane,0043 101101 Eugene 101,Attorney General,,,Write-ins,5
+Lane,0044 101103 Eugene 103,Attorney General,,,Write-ins,8
+Lane,0045 101105 Eugene 105,Attorney General,,,Write-ins,2
+Lane,0046 101107 Eugene 107,Attorney General,,,Write-ins,5
+Lane,0047 101109 Eugene 109,Attorney General,,,Write-ins,0
+Lane,0048 101117 Eugene 117,Attorney General,,,Write-ins,2
+Lane,0049 101215 Eugene 215,Attorney General,,,Write-ins,3
+Lane,0050 101223 Eugene 223,Attorney General,,,Write-ins,2
+Lane,0051 101235 Eugene 235,Attorney General,,,Write-ins,2
+Lane,0052 101237 Eugene 237,Attorney General,,,Write-ins,6
+Lane,0053 101313 Eugene 313,Attorney General,,,Write-ins,5
+Lane,0054 101315 Eugene 315,Attorney General,,,Write-ins,7
+Lane,0055 101317 Eugene 317,Attorney General,,,Write-ins,5
+Lane,0056 101431 Eugene 431,Attorney General,,,Write-ins,7
+Lane,0057 101433 Eugene 433,Attorney General,,,Write-ins,4
+Lane,0058 101435 Eugene 435,Attorney General,,,Write-ins,6
+Lane,0059 101439 Eugene 439,Attorney General,,,Write-ins,15
+Lane,0060 101505 Eugene 505,Attorney General,,,Write-ins,0
+Lane,0061 101507 Eugene 507,Attorney General,,,Write-ins,4
+Lane,0062 101511 Eugene 511,Attorney General,,,Write-ins,22
+Lane,0063 101523 Eugene 523,Attorney General,,,Write-ins,20
+Lane,0064 101613 Eugene 613,Attorney General,,,Write-ins,14
+Lane,0065 101617 Eugene 617,Attorney General,,,Write-ins,14
+Lane,0066 101623 Eugene 623,Attorney General,,,Write-ins,13
+Lane,0067 101711 Eugene 711,Attorney General,,,Write-ins,5
+Lane,0068 101713 Eugene 713,Attorney General,,,Write-ins,9
+Lane,0069 101715 Eugene 715,Attorney General,,,Write-ins,0
+Lane,0070 101717 Eugene 717,Attorney General,,,Write-ins,2
+Lane,0071 101719 Eugene 719,Attorney General,,,Write-ins,0
+Lane,0072 101723 Eugene 723,Attorney General,,,Write-ins,13
+Lane,0073 101803 Eugene 803,Attorney General,,,Write-ins,5
+Lane,0074 101805 Eugene 805,Attorney General,,,Write-ins,7
+Lane,0075 101807 Eugene 807,Attorney General,,,Write-ins,17
+Lane,0076 101809 Eugene 809,Attorney General,,,Write-ins,4
+Lane,0077 102102 Springfield 102,Attorney General,,,Write-ins,9
+Lane,0078 102206 Springfield 206,Attorney General,,,Write-ins,8
+Lane,0079 102304 Springfield 304,Attorney General,,,Write-ins,11
+Lane,0080 102402 Springfield 402,Attorney General,,,Write-ins,21
+Lane,0081 102504 Springfield 504,Attorney General,,,Write-ins,20
+Lane,0082 102606 Springfield 606,Attorney General,,,Write-ins,17
+Lane,0083 102608 Springfield 608,Attorney General,,,Write-ins,5
 Lane,0001 100001 Alvadore,Attorney General,,,Over Votes,0
 Lane,0002 100003 Armitage,Attorney General,,,Over Votes,0
 Lane,0003 100004 Bailey,Attorney General,,,Over Votes,0
@@ -3327,14 +3327,14 @@ Lane,0030 100130 Siuslaw,State Senate,5,DEM,Joanne Verger,1259
 Lane,0037 100500 Dunes City,State Senate,5,DEM,Joanne Verger,584
 Lane,0038 100601 Florence 1,State Senate,5,DEM,Joanne Verger,1596
 Lane,0039 100602 Florence 2,State Senate,5,DEM,Joanne Verger,1622
-Lane,0004 100005 Blachly,State Senate,5,,Write-in,23
-Lane,0009 100080 Elmira,State Senate,5,,Write-in,45
-Lane,0013 100087 Glenada,State Senate,5,,Write-in,21
-Lane,0020 100103 Mapleton,State Senate,5,,Write-in,8
-Lane,0030 100130 Siuslaw,State Senate,5,,Write-in,49
-Lane,0037 100500 Dunes City,State Senate,5,,Write-in,16
-Lane,0038 100601 Florence 1,State Senate,5,,Write-in,43
-Lane,0039 100602 Florence 2,State Senate,5,,Write-in,40
+Lane,0004 100005 Blachly,State Senate,5,,Write-ins,23
+Lane,0009 100080 Elmira,State Senate,5,,Write-ins,45
+Lane,0013 100087 Glenada,State Senate,5,,Write-ins,21
+Lane,0020 100103 Mapleton,State Senate,5,,Write-ins,8
+Lane,0030 100130 Siuslaw,State Senate,5,,Write-ins,49
+Lane,0037 100500 Dunes City,State Senate,5,,Write-ins,16
+Lane,0038 100601 Florence 1,State Senate,5,,Write-ins,43
+Lane,0039 100602 Florence 2,State Senate,5,,Write-ins,40
 Lane,0004 100005 Blachly,State Senate,5,,Over Votes,0
 Lane,0009 100080 Elmira,State Senate,5,,Over Votes,0
 Lane,0013 100087 Glenada,State Senate,5,,Over Votes,0
@@ -3369,15 +3369,15 @@ Lane,0024 100112 Pleasant Hill 2,State House,7,REP,Bruce Hanna,212
 Lane,0026 100119 Salmon Creek,State House,7,REP,Bruce Hanna,377
 Lane,0035 100300 Cottage Grove,State House,7,REP,Bruce Hanna,1961
 Lane,0041 100800 Oakridge,State House,7,REP,Bruce Hanna,656
-Lane,0005 100007 Blue River,State House,7,,Write-in,7
-Lane,0007 100009 Camas,State House,7,,Write-in,1
-Lane,0017 100097 Latham,State House,7,,Write-in,4
-Lane,0019 100102 Lowell,State House,7,,Write-in,4
-Lane,0022 100107 Mosby,State House,7,,Write-in,15
-Lane,0024 100112 Pleasant Hill 2,State House,7,,Write-in,1
-Lane,0026 100119 Salmon Creek,State House,7,,Write-in,2
-Lane,0035 100300 Cottage Grove,State House,7,,Write-in,11
-Lane,0041 100800 Oakridge,State House,7,,Write-in,7
+Lane,0005 100007 Blue River,State House,7,,Write-ins,7
+Lane,0007 100009 Camas,State House,7,,Write-ins,1
+Lane,0017 100097 Latham,State House,7,,Write-ins,4
+Lane,0019 100102 Lowell,State House,7,,Write-ins,4
+Lane,0022 100107 Mosby,State House,7,,Write-ins,15
+Lane,0024 100112 Pleasant Hill 2,State House,7,,Write-ins,1
+Lane,0026 100119 Salmon Creek,State House,7,,Write-ins,2
+Lane,0035 100300 Cottage Grove,State House,7,,Write-ins,11
+Lane,0041 100800 Oakridge,State House,7,,Write-ins,7
 Lane,0005 100007 Blue River,State House,7,,Over Votes,0
 Lane,0007 100009 Camas,State House,7,,Over Votes,0
 Lane,0017 100097 Latham,State House,7,,Over Votes,0
@@ -3411,21 +3411,21 @@ Lane,0069 101715 Eugene 715,State House,8,DEM,Paul R Holvey,171
 Lane,0070 101717 Eugene 717,State House,8,DEM,Paul R Holvey,210
 Lane,0075 101807 Eugene 807,State House,8,DEM,Paul R Holvey,2847
 Lane,0076 101809 Eugene 809,State House,8,DEM,Paul R Holvey,875
-Lane,0003 100004 Bailey,State House,8,,Write-in,28
-Lane,0010 100082 Fernridge,State House,8,,Write-in,43
-Lane,0011 100084 Fox Hollow,State House,8,,Write-in,19
-Lane,0018 100100 Lorane,State House,8,,Write-in,24
-Lane,0042 100900 Veneta,State House,8,,Write-in,48
-Lane,0043 101101 Eugene 101,State House,8,,Write-in,32
-Lane,0044 101103 Eugene 103,State House,8,,Write-in,52
-Lane,0051 101235 Eugene 235,State House,8,,Write-in,29
-Lane,0052 101237 Eugene 237,State House,8,,Write-in,24
-Lane,0053 101313 Eugene 313,State House,8,,Write-in,45
-Lane,0054 101315 Eugene 315,State House,8,,Write-in,48
-Lane,0069 101715 Eugene 715,State House,8,,Write-in,1
-Lane,0070 101717 Eugene 717,State House,8,,Write-in,3
-Lane,0075 101807 Eugene 807,State House,8,,Write-in,68
-Lane,0076 101809 Eugene 809,State House,8,,Write-in,19
+Lane,0003 100004 Bailey,State House,8,,Write-ins,28
+Lane,0010 100082 Fernridge,State House,8,,Write-ins,43
+Lane,0011 100084 Fox Hollow,State House,8,,Write-ins,19
+Lane,0018 100100 Lorane,State House,8,,Write-ins,24
+Lane,0042 100900 Veneta,State House,8,,Write-ins,48
+Lane,0043 101101 Eugene 101,State House,8,,Write-ins,32
+Lane,0044 101103 Eugene 103,State House,8,,Write-ins,52
+Lane,0051 101235 Eugene 235,State House,8,,Write-ins,29
+Lane,0052 101237 Eugene 237,State House,8,,Write-ins,24
+Lane,0053 101313 Eugene 313,State House,8,,Write-ins,45
+Lane,0054 101315 Eugene 315,State House,8,,Write-ins,48
+Lane,0069 101715 Eugene 715,State House,8,,Write-ins,1
+Lane,0070 101717 Eugene 717,State House,8,,Write-ins,3
+Lane,0075 101807 Eugene 807,State House,8,,Write-ins,68
+Lane,0076 101809 Eugene 809,State House,8,,Write-ins,19
 Lane,0003 100004 Bailey,State House,8,,Over Votes,0
 Lane,0010 100082 Fernridge,State House,8,,Over Votes,0
 Lane,0011 100084 Fox Hollow,State House,8,,Over Votes,0
@@ -3464,10 +3464,10 @@ Lane,0013 100087 Glenada,State House,9,REP,Al Pearn,467
 Lane,0037 100500 Dunes City,State House,9,REP,Al Pearn,432
 Lane,0038 100601 Florence 1,State House,9,REP,Al Pearn,886
 Lane,0039 100602 Florence 2,State House,9,REP,Al Pearn,1054
-Lane,0013 100087 Glenada,State House,9,,Write-in,2
-Lane,0037 100500 Dunes City,State House,9,,Write-in,1
-Lane,0038 100601 Florence 1,State House,9,,Write-in,5
-Lane,0039 100602 Florence 2,State House,9,,Write-in,3
+Lane,0013 100087 Glenada,State House,9,,Write-ins,2
+Lane,0037 100500 Dunes City,State House,9,,Write-ins,1
+Lane,0038 100601 Florence 1,State House,9,,Write-ins,5
+Lane,0039 100602 Florence 2,State House,9,,Write-ins,3
 Lane,0013 100087 Glenada,State House,9,,Over Votes,0
 Lane,0037 100500 Dunes City,State House,9,,Over Votes,0
 Lane,0038 100601 Florence 1,State House,9,,Over Votes,1
@@ -3480,10 +3480,10 @@ Lane,0004 100005 Blachly,State House,10,DEM,Jean Cowan,652
 Lane,0009 100080 Elmira,State House,10,DEM,Jean Cowan,1218
 Lane,0020 100103 Mapleton,State House,10,DEM,Jean Cowan,522
 Lane,0030 100130 Siuslaw,State House,10,DEM,Jean Cowan,1239
-Lane,0004 100005 Blachly,State House,10,,Write-in,18
-Lane,0009 100080 Elmira,State House,10,,Write-in,44
-Lane,0020 100103 Mapleton,State House,10,,Write-in,14
-Lane,0030 100130 Siuslaw,State House,10,,Write-in,39
+Lane,0004 100005 Blachly,State House,10,,Write-ins,18
+Lane,0009 100080 Elmira,State House,10,,Write-ins,44
+Lane,0020 100103 Mapleton,State House,10,,Write-ins,14
+Lane,0030 100130 Siuslaw,State House,10,,Write-ins,39
 Lane,0004 100005 Blachly,State House,10,,Over Votes,1
 Lane,0009 100080 Elmira,State House,10,,Over Votes,0
 Lane,0020 100103 Mapleton,State House,10,,Over Votes,0
@@ -3511,25 +3511,25 @@ Lane,0077 102102 Springfield 102,State House,11,DEM,Phil Barnhart,16
 Lane,0079 102304 Springfield 304,State House,11,DEM,Phil Barnhart,3
 Lane,0080 102402 Springfield 402,State House,11,DEM,Phil Barnhart,28
 Lane,0081 102504 Springfield 504,State House,11,DEM,Phil Barnhart,191
-Lane,0006 100008 Coast Fork,State House,11,,Write-in,34
-Lane,0014 100090 Goshen,State House,11,,Write-in,31
-Lane,0015 100091 Grovedale,State House,11,,Write-in,16
-Lane,0021 100105 Marcola,State House,11,,Write-in,12
-Lane,0023 100111 Pleasant Hill 1,State House,11,,Write-in,76
-Lane,0031 100152 Walterville,State House,11,,Write-in,45
-Lane,0032 100153 Wilkins,State House,11,,Write-in,18
-Lane,0033 100155 McKenzie,State House,11,,Write-in,75
-Lane,0034 100200 Coburg,State House,11,,Write-in,13
-Lane,0036 100400 Creswell,State House,11,,Write-in,43
-Lane,0049 101215 Eugene 215,State House,11,,Write-in,36
-Lane,0050 101223 Eugene 223,State House,11,,Write-in,24
-Lane,0055 101317 Eugene 317,State House,11,,Write-in,32
-Lane,0059 101439 Eugene 439,State House,11,,Write-in,0
-Lane,0063 101523 Eugene 523,State House,11,,Write-in,1
-Lane,0077 102102 Springfield 102,State House,11,,Write-in,0
-Lane,0079 102304 Springfield 304,State House,11,,Write-in,0
-Lane,0080 102402 Springfield 402,State House,11,,Write-in,0
-Lane,0081 102504 Springfield 504,State House,11,,Write-in,5
+Lane,0006 100008 Coast Fork,State House,11,,Write-ins,34
+Lane,0014 100090 Goshen,State House,11,,Write-ins,31
+Lane,0015 100091 Grovedale,State House,11,,Write-ins,16
+Lane,0021 100105 Marcola,State House,11,,Write-ins,12
+Lane,0023 100111 Pleasant Hill 1,State House,11,,Write-ins,76
+Lane,0031 100152 Walterville,State House,11,,Write-ins,45
+Lane,0032 100153 Wilkins,State House,11,,Write-ins,18
+Lane,0033 100155 McKenzie,State House,11,,Write-ins,75
+Lane,0034 100200 Coburg,State House,11,,Write-ins,13
+Lane,0036 100400 Creswell,State House,11,,Write-ins,43
+Lane,0049 101215 Eugene 215,State House,11,,Write-ins,36
+Lane,0050 101223 Eugene 223,State House,11,,Write-ins,24
+Lane,0055 101317 Eugene 317,State House,11,,Write-ins,32
+Lane,0059 101439 Eugene 439,State House,11,,Write-ins,0
+Lane,0063 101523 Eugene 523,State House,11,,Write-ins,1
+Lane,0077 102102 Springfield 102,State House,11,,Write-ins,0
+Lane,0079 102304 Springfield 304,State House,11,,Write-ins,0
+Lane,0080 102402 Springfield 402,State House,11,,Write-ins,0
+Lane,0081 102504 Springfield 504,State House,11,,Write-ins,5
 Lane,0006 100008 Coast Fork,State House,11,,Over Votes,0
 Lane,0014 100090 Goshen,State House,11,,Over Votes,0
 Lane,0015 100091 Grovedale,State House,11,,Over Votes,0
@@ -3588,16 +3588,16 @@ Lane,0080 102402 Springfield 402,State House,12,REP,Sean MP VanGordon,1327
 Lane,0081 102504 Springfield 504,State House,12,REP,Sean MP VanGordon,1064
 Lane,0082 102606 Springfield 606,State House,12,REP,Sean MP VanGordon,1131
 Lane,0083 102608 Springfield 608,State House,12,REP,Sean MP VanGordon,668
-Lane,0002 100003 Armitage,State House,12,,Write-in,1
-Lane,0012 100086 Garden Way,State House,12,,Write-in,1
-Lane,0016 100095 Gateway,State House,12,,Write-in,4
-Lane,0077 102102 Springfield 102,State House,12,,Write-in,18
-Lane,0078 102206 Springfield 206,State House,12,,Write-in,13
-Lane,0079 102304 Springfield 304,State House,12,,Write-in,19
-Lane,0080 102402 Springfield 402,State House,12,,Write-in,26
-Lane,0081 102504 Springfield 504,State House,12,,Write-in,19
-Lane,0082 102606 Springfield 606,State House,12,,Write-in,18
-Lane,0083 102608 Springfield 608,State House,12,,Write-in,7
+Lane,0002 100003 Armitage,State House,12,,Write-ins,1
+Lane,0012 100086 Garden Way,State House,12,,Write-ins,1
+Lane,0016 100095 Gateway,State House,12,,Write-ins,4
+Lane,0077 102102 Springfield 102,State House,12,,Write-ins,18
+Lane,0078 102206 Springfield 206,State House,12,,Write-ins,13
+Lane,0079 102304 Springfield 304,State House,12,,Write-ins,19
+Lane,0080 102402 Springfield 402,State House,12,,Write-ins,26
+Lane,0081 102504 Springfield 504,State House,12,,Write-ins,19
+Lane,0082 102606 Springfield 606,State House,12,,Write-ins,18
+Lane,0083 102608 Springfield 608,State House,12,,Write-ins,7
 Lane,0002 100003 Armitage,State House,12,,Over Votes,0
 Lane,0012 100086 Garden Way,State House,12,,Over Votes,0
 Lane,0016 100095 Gateway,State House,12,,Over Votes,0
@@ -3631,19 +3631,19 @@ Lane,0062 101511 Eugene 511,State House,13,DEM,Nancy Nathanson,2819
 Lane,0063 101523 Eugene 523,State House,13,DEM,Nancy Nathanson,2109
 Lane,0071 101719 Eugene 719,State House,13,DEM,Nancy Nathanson,253
 Lane,0072 101723 Eugene 723,State House,13,DEM,Nancy Nathanson,3279
-Lane,0025 100116 River Road,State House,13,,Write-in,78
-Lane,0029 100128 Santa Clara 8,State House,13,,Write-in,55
-Lane,0046 101107 Eugene 107,State House,13,,Write-in,14
-Lane,0048 101117 Eugene 117,State House,13,,Write-in,17
-Lane,0056 101431 Eugene 431,State House,13,,Write-in,23
-Lane,0057 101433 Eugene 433,State House,13,,Write-in,40
-Lane,0058 101435 Eugene 435,State House,13,,Write-in,49
-Lane,0059 101439 Eugene 439,State House,13,,Write-in,52
-Lane,0061 101507 Eugene 507,State House,13,,Write-in,56
-Lane,0062 101511 Eugene 511,State House,13,,Write-in,82
-Lane,0063 101523 Eugene 523,State House,13,,Write-in,67
-Lane,0071 101719 Eugene 719,State House,13,,Write-in,7
-Lane,0072 101723 Eugene 723,State House,13,,Write-in,78
+Lane,0025 100116 River Road,State House,13,,Write-ins,78
+Lane,0029 100128 Santa Clara 8,State House,13,,Write-ins,55
+Lane,0046 101107 Eugene 107,State House,13,,Write-ins,14
+Lane,0048 101117 Eugene 117,State House,13,,Write-ins,17
+Lane,0056 101431 Eugene 431,State House,13,,Write-ins,23
+Lane,0057 101433 Eugene 433,State House,13,,Write-ins,40
+Lane,0058 101435 Eugene 435,State House,13,,Write-ins,49
+Lane,0059 101439 Eugene 439,State House,13,,Write-ins,52
+Lane,0061 101507 Eugene 507,State House,13,,Write-ins,56
+Lane,0062 101511 Eugene 511,State House,13,,Write-ins,82
+Lane,0063 101523 Eugene 523,State House,13,,Write-ins,67
+Lane,0071 101719 Eugene 719,State House,13,,Write-ins,7
+Lane,0072 101723 Eugene 723,State House,13,,Write-ins,78
 Lane,0025 100116 River Road,State House,13,,Over Votes,0
 Lane,0029 100128 Santa Clara 8,State House,13,,Over Votes,0
 Lane,0046 101107 Eugene 107,State House,13,,Over Votes,0
@@ -3685,21 +3685,21 @@ Lane,0067 101711 Eugene 711,State House,14,DEM,Chris Edwards,707
 Lane,0068 101713 Eugene 713,State House,14,DEM,Chris Edwards,1623
 Lane,0073 101803 Eugene 803,State House,14,DEM,Chris Edwards,1406
 Lane,0074 101805 Eugene 805,State House,14,DEM,Chris Edwards,1433
-Lane,0001 100001 Alvadore,State House,14,,Write-in,31
-Lane,0008 100012 Cheshire,State House,14,,Write-in,62
-Lane,0027 100121 Santa Clara 1,State House,14,,Write-in,25
-Lane,0028 100124 Santa Clara 4,State House,14,,Write-in,70
-Lane,0040 100700 Junction City,State House,14,,Write-in,50
-Lane,0045 101105 Eugene 105,State House,14,,Write-in,16
-Lane,0047 101109 Eugene 109,State House,14,,Write-in,4
-Lane,0060 101505 Eugene 505,State House,14,,Write-in,13
-Lane,0064 101613 Eugene 613,State House,14,,Write-in,65
-Lane,0065 101617 Eugene 617,State House,14,,Write-in,63
-Lane,0066 101623 Eugene 623,State House,14,,Write-in,80
-Lane,0067 101711 Eugene 711,State House,14,,Write-in,23
-Lane,0068 101713 Eugene 713,State House,14,,Write-in,51
-Lane,0073 101803 Eugene 803,State House,14,,Write-in,27
-Lane,0074 101805 Eugene 805,State House,14,,Write-in,50
+Lane,0001 100001 Alvadore,State House,14,,Write-ins,31
+Lane,0008 100012 Cheshire,State House,14,,Write-ins,62
+Lane,0027 100121 Santa Clara 1,State House,14,,Write-ins,25
+Lane,0028 100124 Santa Clara 4,State House,14,,Write-ins,70
+Lane,0040 100700 Junction City,State House,14,,Write-ins,50
+Lane,0045 101105 Eugene 105,State House,14,,Write-ins,16
+Lane,0047 101109 Eugene 109,State House,14,,Write-ins,4
+Lane,0060 101505 Eugene 505,State House,14,,Write-ins,13
+Lane,0064 101613 Eugene 613,State House,14,,Write-ins,65
+Lane,0065 101617 Eugene 617,State House,14,,Write-ins,63
+Lane,0066 101623 Eugene 623,State House,14,,Write-ins,80
+Lane,0067 101711 Eugene 711,State House,14,,Write-ins,23
+Lane,0068 101713 Eugene 713,State House,14,,Write-ins,51
+Lane,0073 101803 Eugene 803,State House,14,,Write-ins,27
+Lane,0074 101805 Eugene 805,State House,14,,Write-ins,50
 Lane,0001 100001 Alvadore,State House,14,,Over Votes,0
 Lane,0008 100012 Cheshire,State House,14,,Over Votes,0
 Lane,0027 100121 Santa Clara 1,State House,14,,Over Votes,0

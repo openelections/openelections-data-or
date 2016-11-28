@@ -39,26 +39,26 @@ Wasco,PREC 7,U.S. House,2,DEM,"VOISIN, CAROL",65.0
 Wasco,PREC 8,U.S. House,2,DEM,"VOISIN, CAROL",37.0
 Wasco,PREC 9,U.S. House,2,DEM,"VOISIN, CAROL",65.0
 Wasco,PREC 10,U.S. House,2,DEM,"VOISIN, CAROL",41.0
-Wasco,PREC 1,U.S. House,2,DEM,UNDERVOTES,78.0
-Wasco,PREC 2,U.S. House,2,DEM,UNDERVOTES,140.0
-Wasco,PREC 3,U.S. House,2,DEM,UNDERVOTES,95.0
-Wasco,PREC 4,U.S. House,2,DEM,UNDERVOTES,77.0
-Wasco,PREC 5,U.S. House,2,DEM,UNDERVOTES,75.0
-Wasco,PREC 6,U.S. House,2,DEM,UNDERVOTES,90.0
-Wasco,PREC 7,U.S. House,2,DEM,UNDERVOTES,89.0
-Wasco,PREC 8,U.S. House,2,DEM,UNDERVOTES,56.0
-Wasco,PREC 9,U.S. House,2,DEM,UNDERVOTES,49.0
-Wasco,PREC 10,U.S. House,2,DEM,UNDERVOTES,36.0
-Wasco,PREC 1,U.S. House,2,DEM,OVERVOTES,0.0
-Wasco,PREC 2,U.S. House,2,DEM,OVERVOTES,2.0
-Wasco,PREC 3,U.S. House,2,DEM,OVERVOTES,0.0
-Wasco,PREC 4,U.S. House,2,DEM,OVERVOTES,0.0
-Wasco,PREC 5,U.S. House,2,DEM,OVERVOTES,0.0
-Wasco,PREC 6,U.S. House,2,DEM,OVERVOTES,0.0
-Wasco,PREC 7,U.S. House,2,DEM,OVERVOTES,1.0
-Wasco,PREC 8,U.S. House,2,DEM,OVERVOTES,0.0
-Wasco,PREC 9,U.S. House,2,DEM,OVERVOTES,0.0
-Wasco,PREC 10,U.S. House,2,DEM,OVERVOTES,0.0
+Wasco,PREC 1,U.S. House,2,DEM,Under Votes,78.0
+Wasco,PREC 2,U.S. House,2,DEM,Under Votes,140.0
+Wasco,PREC 3,U.S. House,2,DEM,Under Votes,95.0
+Wasco,PREC 4,U.S. House,2,DEM,Under Votes,77.0
+Wasco,PREC 5,U.S. House,2,DEM,Under Votes,75.0
+Wasco,PREC 6,U.S. House,2,DEM,Under Votes,90.0
+Wasco,PREC 7,U.S. House,2,DEM,Under Votes,89.0
+Wasco,PREC 8,U.S. House,2,DEM,Under Votes,56.0
+Wasco,PREC 9,U.S. House,2,DEM,Under Votes,49.0
+Wasco,PREC 10,U.S. House,2,DEM,Under Votes,36.0
+Wasco,PREC 1,U.S. House,2,DEM,Over Votes,0.0
+Wasco,PREC 2,U.S. House,2,DEM,Over Votes,2.0
+Wasco,PREC 3,U.S. House,2,DEM,Over Votes,0.0
+Wasco,PREC 4,U.S. House,2,DEM,Over Votes,0.0
+Wasco,PREC 5,U.S. House,2,DEM,Over Votes,0.0
+Wasco,PREC 6,U.S. House,2,DEM,Over Votes,0.0
+Wasco,PREC 7,U.S. House,2,DEM,Over Votes,1.0
+Wasco,PREC 8,U.S. House,2,DEM,Over Votes,0.0
+Wasco,PREC 9,U.S. House,2,DEM,Over Votes,0.0
+Wasco,PREC 10,U.S. House,2,DEM,Over Votes,0.0
 Wasco,PREC 1,Governor,,DEM,"SORENSON, PETE",34.0
 Wasco,PREC 2,Governor,,DEM,"SORENSON, PETE",45.0
 Wasco,PREC 3,Governor,,DEM,"SORENSON, PETE",35.0
@@ -89,26 +89,26 @@ Wasco,PREC 7,Governor,,DEM,"HILL, JIM",66.0
 Wasco,PREC 8,Governor,,DEM,"HILL, JIM",46.0
 Wasco,PREC 9,Governor,,DEM,"HILL, JIM",61.0
 Wasco,PREC 10,Governor,,DEM,"HILL, JIM",55.0
-Wasco,PREC 1,Governor,,DEM,UNDERVOTES,15.0
-Wasco,PREC 2,Governor,,DEM,UNDERVOTES,20.0
-Wasco,PREC 3,Governor,,DEM,UNDERVOTES,17.0
-Wasco,PREC 4,Governor,,DEM,UNDERVOTES,13.0
-Wasco,PREC 5,Governor,,DEM,UNDERVOTES,11.0
-Wasco,PREC 6,Governor,,DEM,UNDERVOTES,20.0
-Wasco,PREC 7,Governor,,DEM,UNDERVOTES,19.0
-Wasco,PREC 8,Governor,,DEM,UNDERVOTES,18.0
-Wasco,PREC 9,Governor,,DEM,UNDERVOTES,12.0
-Wasco,PREC 10,Governor,,DEM,UNDERVOTES,5.0
-Wasco,PREC 1,Governor,,DEM,OVERVOTES,0.0
-Wasco,PREC 2,Governor,,DEM,OVERVOTES,0.0
-Wasco,PREC 3,Governor,,DEM,OVERVOTES,0.0
-Wasco,PREC 4,Governor,,DEM,OVERVOTES,1.0
-Wasco,PREC 5,Governor,,DEM,OVERVOTES,0.0
-Wasco,PREC 6,Governor,,DEM,OVERVOTES,0.0
-Wasco,PREC 7,Governor,,DEM,OVERVOTES,0.0
-Wasco,PREC 8,Governor,,DEM,OVERVOTES,0.0
-Wasco,PREC 9,Governor,,DEM,OVERVOTES,0.0
-Wasco,PREC 10,Governor,,DEM,OVERVOTES,0.0
+Wasco,PREC 1,Governor,,DEM,Under Votes,15.0
+Wasco,PREC 2,Governor,,DEM,Under Votes,20.0
+Wasco,PREC 3,Governor,,DEM,Under Votes,17.0
+Wasco,PREC 4,Governor,,DEM,Under Votes,13.0
+Wasco,PREC 5,Governor,,DEM,Under Votes,11.0
+Wasco,PREC 6,Governor,,DEM,Under Votes,20.0
+Wasco,PREC 7,Governor,,DEM,Under Votes,19.0
+Wasco,PREC 8,Governor,,DEM,Under Votes,18.0
+Wasco,PREC 9,Governor,,DEM,Under Votes,12.0
+Wasco,PREC 10,Governor,,DEM,Under Votes,5.0
+Wasco,PREC 1,Governor,,DEM,Over Votes,0.0
+Wasco,PREC 2,Governor,,DEM,Over Votes,0.0
+Wasco,PREC 3,Governor,,DEM,Over Votes,0.0
+Wasco,PREC 4,Governor,,DEM,Over Votes,1.0
+Wasco,PREC 5,Governor,,DEM,Over Votes,0.0
+Wasco,PREC 6,Governor,,DEM,Over Votes,0.0
+Wasco,PREC 7,Governor,,DEM,Over Votes,0.0
+Wasco,PREC 8,Governor,,DEM,Over Votes,0.0
+Wasco,PREC 9,Governor,,DEM,Over Votes,0.0
+Wasco,PREC 10,Governor,,DEM,Over Votes,0.0
 Wasco,PREC 1,State House,59,DEM,"GILBERTSON, JIM",154.0
 Wasco,PREC 2,State House,59,DEM,"GILBERTSON, JIM",280.0
 Wasco,PREC 3,State House,59,DEM,"GILBERTSON, JIM",229.0
@@ -119,26 +119,26 @@ Wasco,PREC 7,State House,59,DEM,"GILBERTSON, JIM",148.0
 Wasco,PREC 8,State House,59,DEM,"GILBERTSON, JIM",79.0
 Wasco,PREC 9,State House,59,DEM,"GILBERTSON, JIM",135.0
 Wasco,PREC 10,State House,59,DEM,"GILBERTSON, JIM",96.0
-Wasco,PREC 1,State House,59,DEM,UNDERVOTES,89.0
-Wasco,PREC 2,State House,59,DEM,UNDERVOTES,170.0
-Wasco,PREC 3,State House,59,DEM,UNDERVOTES,115.0
-Wasco,PREC 4,State House,59,DEM,UNDERVOTES,91.0
-Wasco,PREC 5,State House,59,DEM,UNDERVOTES,101.0
-Wasco,PREC 6,State House,59,DEM,UNDERVOTES,112.0
-Wasco,PREC 7,State House,59,DEM,UNDERVOTES,96.0
-Wasco,PREC 8,State House,59,DEM,UNDERVOTES,70.0
-Wasco,PREC 9,State House,59,DEM,UNDERVOTES,65.0
-Wasco,PREC 10,State House,59,DEM,UNDERVOTES,53.0
-Wasco,PREC 1,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 2,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 3,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 4,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 5,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 6,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 7,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 8,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 9,State House,59,DEM,OVERVOTES,0.0
-Wasco,PREC 10,State House,59,DEM,OVERVOTES,0.0
+Wasco,PREC 1,State House,59,DEM,Under Votes,89.0
+Wasco,PREC 2,State House,59,DEM,Under Votes,170.0
+Wasco,PREC 3,State House,59,DEM,Under Votes,115.0
+Wasco,PREC 4,State House,59,DEM,Under Votes,91.0
+Wasco,PREC 5,State House,59,DEM,Under Votes,101.0
+Wasco,PREC 6,State House,59,DEM,Under Votes,112.0
+Wasco,PREC 7,State House,59,DEM,Under Votes,96.0
+Wasco,PREC 8,State House,59,DEM,Under Votes,70.0
+Wasco,PREC 9,State House,59,DEM,Under Votes,65.0
+Wasco,PREC 10,State House,59,DEM,Under Votes,53.0
+Wasco,PREC 1,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 2,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 3,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 4,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 5,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 6,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 7,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 8,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 9,State House,59,DEM,Over Votes,0.0
+Wasco,PREC 10,State House,59,DEM,Over Votes,0.0
 Wasco,PREC 1,U.S. House,2,REP,"WALDEN, GREG",198.0
 Wasco,PREC 2,U.S. House,2,REP,"WALDEN, GREG",327.0
 Wasco,PREC 3,U.S. House,2,REP,"WALDEN, GREG",318.0
@@ -159,26 +159,26 @@ Wasco,PREC 7,U.S. House,2,REP,"DAGHLIAN, PAUL A",24.0
 Wasco,PREC 8,U.S. House,2,REP,"DAGHLIAN, PAUL A",33.0
 Wasco,PREC 9,U.S. House,2,REP,"DAGHLIAN, PAUL A",13.0
 Wasco,PREC 10,U.S. House,2,REP,"DAGHLIAN, PAUL A",16.0
-Wasco,PREC 1,U.S. House,2,REP,UNDERVOTES,13.0
-Wasco,PREC 2,U.S. House,2,REP,UNDERVOTES,18.0
-Wasco,PREC 3,U.S. House,2,REP,UNDERVOTES,12.0
-Wasco,PREC 4,U.S. House,2,REP,UNDERVOTES,20.0
-Wasco,PREC 5,U.S. House,2,REP,UNDERVOTES,8.0
-Wasco,PREC 6,U.S. House,2,REP,UNDERVOTES,8.0
-Wasco,PREC 7,U.S. House,2,REP,UNDERVOTES,14.0
-Wasco,PREC 8,U.S. House,2,REP,UNDERVOTES,14.0
-Wasco,PREC 9,U.S. House,2,REP,UNDERVOTES,7.0
-Wasco,PREC 10,U.S. House,2,REP,UNDERVOTES,5.0
-Wasco,PREC 1,U.S. House,2,REP,OVERVOTES,0.0
-Wasco,PREC 2,U.S. House,2,REP,OVERVOTES,0.0
-Wasco,PREC 3,U.S. House,2,REP,OVERVOTES,0.0
-Wasco,PREC 4,U.S. House,2,REP,OVERVOTES,1.0
-Wasco,PREC 5,U.S. House,2,REP,OVERVOTES,0.0
-Wasco,PREC 6,U.S. House,2,REP,OVERVOTES,0.0
-Wasco,PREC 7,U.S. House,2,REP,OVERVOTES,0.0
-Wasco,PREC 8,U.S. House,2,REP,OVERVOTES,0.0
-Wasco,PREC 9,U.S. House,2,REP,OVERVOTES,0.0
-Wasco,PREC 10,U.S. House,2,REP,OVERVOTES,0.0
+Wasco,PREC 1,U.S. House,2,REP,Under Votes,13.0
+Wasco,PREC 2,U.S. House,2,REP,Under Votes,18.0
+Wasco,PREC 3,U.S. House,2,REP,Under Votes,12.0
+Wasco,PREC 4,U.S. House,2,REP,Under Votes,20.0
+Wasco,PREC 5,U.S. House,2,REP,Under Votes,8.0
+Wasco,PREC 6,U.S. House,2,REP,Under Votes,8.0
+Wasco,PREC 7,U.S. House,2,REP,Under Votes,14.0
+Wasco,PREC 8,U.S. House,2,REP,Under Votes,14.0
+Wasco,PREC 9,U.S. House,2,REP,Under Votes,7.0
+Wasco,PREC 10,U.S. House,2,REP,Under Votes,5.0
+Wasco,PREC 1,U.S. House,2,REP,Over Votes,0.0
+Wasco,PREC 2,U.S. House,2,REP,Over Votes,0.0
+Wasco,PREC 3,U.S. House,2,REP,Over Votes,0.0
+Wasco,PREC 4,U.S. House,2,REP,Over Votes,1.0
+Wasco,PREC 5,U.S. House,2,REP,Over Votes,0.0
+Wasco,PREC 6,U.S. House,2,REP,Over Votes,0.0
+Wasco,PREC 7,U.S. House,2,REP,Over Votes,0.0
+Wasco,PREC 8,U.S. House,2,REP,Over Votes,0.0
+Wasco,PREC 9,U.S. House,2,REP,Over Votes,0.0
+Wasco,PREC 10,U.S. House,2,REP,Over Votes,0.0
 Wasco,PREC 1,Governor,,REP,"MANNIX, KEVIN",53.0
 Wasco,PREC 2,Governor,,REP,"MANNIX, KEVIN",82.0
 Wasco,PREC 3,Governor,,REP,"MANNIX, KEVIN",89.0
@@ -259,26 +259,26 @@ Wasco,PREC 7,Governor,,REP,"LEITCH, GORDON",6.0
 Wasco,PREC 8,Governor,,REP,"LEITCH, GORDON",3.0
 Wasco,PREC 9,Governor,,REP,"LEITCH, GORDON",2.0
 Wasco,PREC 10,Governor,,REP,"LEITCH, GORDON",1.0
-Wasco,PREC 1,Governor,,REP,UNDERVOTES,21.0
-Wasco,PREC 2,Governor,,REP,UNDERVOTES,42.0
-Wasco,PREC 3,Governor,,REP,UNDERVOTES,30.0
-Wasco,PREC 4,Governor,,REP,UNDERVOTES,26.0
-Wasco,PREC 5,Governor,,REP,UNDERVOTES,12.0
-Wasco,PREC 6,Governor,,REP,UNDERVOTES,17.0
-Wasco,PREC 7,Governor,,REP,UNDERVOTES,26.0
-Wasco,PREC 8,Governor,,REP,UNDERVOTES,31.0
-Wasco,PREC 9,Governor,,REP,UNDERVOTES,13.0
-Wasco,PREC 10,Governor,,REP,UNDERVOTES,10.0
-Wasco,PREC 1,Governor,,REP,OVERVOTES,0.0
-Wasco,PREC 2,Governor,,REP,OVERVOTES,0.0
-Wasco,PREC 3,Governor,,REP,OVERVOTES,0.0
-Wasco,PREC 4,Governor,,REP,OVERVOTES,0.0
-Wasco,PREC 5,Governor,,REP,OVERVOTES,0.0
-Wasco,PREC 6,Governor,,REP,OVERVOTES,0.0
-Wasco,PREC 7,Governor,,REP,OVERVOTES,0.0
-Wasco,PREC 8,Governor,,REP,OVERVOTES,0.0
-Wasco,PREC 9,Governor,,REP,OVERVOTES,1.0
-Wasco,PREC 10,Governor,,REP,OVERVOTES,0.0
+Wasco,PREC 1,Governor,,REP,Under Votes,21.0
+Wasco,PREC 2,Governor,,REP,Under Votes,42.0
+Wasco,PREC 3,Governor,,REP,Under Votes,30.0
+Wasco,PREC 4,Governor,,REP,Under Votes,26.0
+Wasco,PREC 5,Governor,,REP,Under Votes,12.0
+Wasco,PREC 6,Governor,,REP,Under Votes,17.0
+Wasco,PREC 7,Governor,,REP,Under Votes,26.0
+Wasco,PREC 8,Governor,,REP,Under Votes,31.0
+Wasco,PREC 9,Governor,,REP,Under Votes,13.0
+Wasco,PREC 10,Governor,,REP,Under Votes,10.0
+Wasco,PREC 1,Governor,,REP,Over Votes,0.0
+Wasco,PREC 2,Governor,,REP,Over Votes,0.0
+Wasco,PREC 3,Governor,,REP,Over Votes,0.0
+Wasco,PREC 4,Governor,,REP,Over Votes,0.0
+Wasco,PREC 5,Governor,,REP,Over Votes,0.0
+Wasco,PREC 6,Governor,,REP,Over Votes,0.0
+Wasco,PREC 7,Governor,,REP,Over Votes,0.0
+Wasco,PREC 8,Governor,,REP,Over Votes,0.0
+Wasco,PREC 9,Governor,,REP,Over Votes,1.0
+Wasco,PREC 10,Governor,,REP,Over Votes,0.0
 Wasco,PREC 1,State House,59,REP,"DALLUM, JOHN W",198.0
 Wasco,PREC 2,State House,59,REP,"DALLUM, JOHN W",289.0
 Wasco,PREC 3,State House,59,REP,"DALLUM, JOHN W",288.0
@@ -289,23 +289,23 @@ Wasco,PREC 7,State House,59,REP,"DALLUM, JOHN W",237.0
 Wasco,PREC 8,State House,59,REP,"DALLUM, JOHN W",210.0
 Wasco,PREC 9,State House,59,REP,"DALLUM, JOHN W",101.0
 Wasco,PREC 10,State House,59,REP,"DALLUM, JOHN W",119.0
-Wasco,PREC 1,State House,59,REP,UNDERVOTES,48.0
-Wasco,PREC 2,State House,59,REP,UNDERVOTES,84.0
-Wasco,PREC 3,State House,59,REP,UNDERVOTES,86.0
-Wasco,PREC 4,State House,59,REP,UNDERVOTES,75.0
-Wasco,PREC 5,State House,59,REP,UNDERVOTES,66.0
-Wasco,PREC 6,State House,59,REP,UNDERVOTES,46.0
-Wasco,PREC 7,State House,59,REP,UNDERVOTES,84.0
-Wasco,PREC 8,State House,59,REP,UNDERVOTES,67.0
-Wasco,PREC 9,State House,59,REP,UNDERVOTES,51.0
-Wasco,PREC 10,State House,59,REP,UNDERVOTES,33.0
-Wasco,PREC 1,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 2,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 3,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 4,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 5,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 6,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 7,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 8,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 9,State House,59,REP,OVERVOTES,0.0
-Wasco,PREC 10,State House,59,REP,OVERVOTES,0.0
+Wasco,PREC 1,State House,59,REP,Under Votes,48.0
+Wasco,PREC 2,State House,59,REP,Under Votes,84.0
+Wasco,PREC 3,State House,59,REP,Under Votes,86.0
+Wasco,PREC 4,State House,59,REP,Under Votes,75.0
+Wasco,PREC 5,State House,59,REP,Under Votes,66.0
+Wasco,PREC 6,State House,59,REP,Under Votes,46.0
+Wasco,PREC 7,State House,59,REP,Under Votes,84.0
+Wasco,PREC 8,State House,59,REP,Under Votes,67.0
+Wasco,PREC 9,State House,59,REP,Under Votes,51.0
+Wasco,PREC 10,State House,59,REP,Under Votes,33.0
+Wasco,PREC 1,State House,59,REP,Over Votes,0.0
+Wasco,PREC 2,State House,59,REP,Over Votes,0.0
+Wasco,PREC 3,State House,59,REP,Over Votes,0.0
+Wasco,PREC 4,State House,59,REP,Over Votes,0.0
+Wasco,PREC 5,State House,59,REP,Over Votes,0.0
+Wasco,PREC 6,State House,59,REP,Over Votes,0.0
+Wasco,PREC 7,State House,59,REP,Over Votes,0.0
+Wasco,PREC 8,State House,59,REP,Over Votes,0.0
+Wasco,PREC 9,State House,59,REP,Over Votes,0.0
+Wasco,PREC 10,State House,59,REP,Over Votes,0.0

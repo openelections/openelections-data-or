@@ -2,19 +2,19 @@ county,precinct,office,district,party,candidate,votes
 Tillamook,1,U.S. Senate,,D,Pavel Goberman,2
 Tillamook,1,U.S. Senate,,D,Loren Hooker,11
 Tillamook,1,U.S. Senate,,D,Ron Wyden,175
-Tillamook,1,U.S. Senate,,D,Write-in,1
+Tillamook,1,U.S. Senate,,D,Write-ins,1
 Tillamook,1,U.S. Senate,,D,Under Votes,4
 Tillamook,1,U.S. House,5,D,Kurt Schrader,140
-Tillamook,1,U.S. House,5,D,Write-in,1
+Tillamook,1,U.S. House,5,D,Write-ins,1
 Tillamook,1,U.S. House,5,D,Under Votes,52
 Tillamook,1,Governor,,D,Roger Obrist,11
 Tillamook,1,Governor,,D,John Kitzhaber,131
 Tillamook,1,Governor,,D,Bill Bradbury,39
-Tillamook,1,Governor,,D,Write-in,4
+Tillamook,1,Governor,,D,Write-ins,4
 Tillamook,1,Governor,,D,Under Votes,8
 Tillamook,1,State Treasurer,,D,Rick Metsger,68
 Tillamook,1,State Treasurer,,D,Ted Wheeler,98
-Tillamook,1,State Treasurer,,D,Write-in,2
+Tillamook,1,State Treasurer,,D,Write-ins,2
 Tillamook,1,State Treasurer,,D,Under Votes,25
 Tillamook,1,State Senate,16,D,Betsy Johnson,152
 Tillamook,1,State Senate,16,D,Under Votes,41
@@ -27,11 +27,11 @@ Tillamook,1,U.S. Senate,,R,Shane Dinkel,21
 Tillamook,1,U.S. Senate,,R,Jim Huffman,47
 Tillamook,1,U.S. Senate,,R,Walter Woodland,0
 Tillamook,1,U.S. Senate,,R,Keith Waldron,8
-Tillamook,1,U.S. Senate,,R,Write-in,1
+Tillamook,1,U.S. Senate,,R,Write-ins,1
 Tillamook,1,U.S. Senate,,R,Under Votes,35
 Tillamook,1,U.S. House,5,R,Scott Bruun,76
 Tillamook,1,U.S. House,5,R,Fred Thompson,57
-Tillamook,1,U.S. House,5,R,Write-in,1
+Tillamook,1,U.S. House,5,R,Write-ins,1
 Tillamook,1,U.S. House,5,R,Under Votes,30
 Tillamook,1,Governor,,R,Bill Sizemore,6
 Tillamook,1,Governor,,R,John Lim,25
@@ -42,40 +42,40 @@ Tillamook,1,Governor,,R,Chris Dudley,64
 Tillamook,1,Governor,,R,Bob Forthan,0
 Tillamook,1,Governor,,R,Allen Alley,43
 Tillamook,1,Governor,,R,Rex Watkins,0
-Tillamook,1,Governor,,R,Write-in,3
-Tillamook,1,Governor,,R,overvote,1
+Tillamook,1,Governor,,R,Write-ins,3
+Tillamook,1,Governor,,R,Over Votes,1
 Tillamook,1,Governor,,R,Under Votes,8
 Tillamook,1,State Treasurer,,R,Chris Telfer,94
-Tillamook,1,State Treasurer,,R,Write-in,1
+Tillamook,1,State Treasurer,,R,Write-ins,1
 Tillamook,1,State Treasurer,,R,Under Votes,69
 Tillamook,1,State Senate,16,R,Bob Horning,88
-Tillamook,1,State Senate,16,R,Write-in,7
+Tillamook,1,State Senate,16,R,Write-ins,7
 Tillamook,1,State Senate,16,R,Under Votes,69
 Tillamook,1,State House,32,R,Lew Barnes,89
-Tillamook,1,State House,32,R,Write-in,1
+Tillamook,1,State House,32,R,Write-ins,1
 Tillamook,1,State House,32,R,Under Votes,74
 Tillamook,3,U.S. Senate,,D,Pavel Goberman,5
 Tillamook,3,U.S. Senate,,D,Loren Hooker,10
 Tillamook,3,U.S. Senate,,D,Ron Wyden,100
-Tillamook,3,U.S. Senate,,D,Write-in,1
+Tillamook,3,U.S. Senate,,D,Write-ins,1
 Tillamook,3,U.S. Senate,,D,Under Votes,4
 Tillamook,3,U.S. House,5,D,Kurt Schrader,87
-Tillamook,3,U.S. House,5,D,Write-in,0
+Tillamook,3,U.S. House,5,D,Write-ins,0
 Tillamook,3,U.S. House,5,D,Under Votes,33
 Tillamook,3,Governor,,D,Roger Obrist,4
 Tillamook,3,Governor,,D,John Kitzhaber,62
 Tillamook,3,Governor,,D,Bill Bradbury,47
-Tillamook,3,Governor,,D,Write-in,1
+Tillamook,3,Governor,,D,Write-ins,1
 Tillamook,3,Governor,,D,Under Votes,6
 Tillamook,3,State Treasurer,,D,Rick Metsger,39
 Tillamook,3,State Treasurer,,D,Ted Wheeler,68
-Tillamook,3,State Treasurer,,D,Write-in,1
+Tillamook,3,State Treasurer,,D,Write-ins,1
 Tillamook,3,State Treasurer,,D,Under Votes,12
 Tillamook,3,State Senate,16,D,Betsy Johnson,87
-Tillamook,3,State Senate,16,D,Write-in,1
+Tillamook,3,State Senate,16,D,Write-ins,1
 Tillamook,3,State Senate,16,D,Under Votes,32
 Tillamook,3,State House,32,D,Deborah Boone,85
-Tillamook,3,State House,32,D,Write-in,2
+Tillamook,3,State House,32,D,Write-ins,2
 Tillamook,3,State House,32,D,Under Votes,33
 Tillamook,3,U.S. Senate,,R,Tom Stutzman,6
 Tillamook,3,U.S. Senate,,R,Robin Parker,7
@@ -84,11 +84,11 @@ Tillamook,3,U.S. Senate,,R,Shane Dinkel,20
 Tillamook,3,U.S. Senate,,R,Jim Huffman,33
 Tillamook,3,U.S. Senate,,R,Walter Woodland,1
 Tillamook,3,U.S. Senate,,R,Keith Waldron,22
-Tillamook,3,U.S. Senate,,R,Write-in,1
+Tillamook,3,U.S. Senate,,R,Write-ins,1
 Tillamook,3,U.S. Senate,,R,Under Votes,28
 Tillamook,3,U.S. House,5,R,Scott Bruun,59
 Tillamook,3,U.S. House,5,R,Fred Thompson,56
-Tillamook,3,U.S. House,5,R,Write-in,1
+Tillamook,3,U.S. House,5,R,Write-ins,1
 Tillamook,3,U.S. House,5,R,Under Votes,21
 Tillamook,3,Governor,,R,Bill Sizemore,10
 Tillamook,3,Governor,,R,John Lim,12
@@ -99,34 +99,34 @@ Tillamook,3,Governor,,R,Chris Dudley,57
 Tillamook,3,Governor,,R,Bob Forthan,0
 Tillamook,3,Governor,,R,Allen Alley,43
 Tillamook,3,Governor,,R,Rex Watkins,0
-Tillamook,3,Governor,,R,Write-in,2
-Tillamook,3,Governor,,R,overvote,0
+Tillamook,3,Governor,,R,Write-ins,2
+Tillamook,3,Governor,,R,Over Votes,0
 Tillamook,3,Governor,,R,Under Votes,7
 Tillamook,3,State Treasurer,,R,Chris Telfer,82
-Tillamook,3,State Treasurer,,R,Write-in,2
+Tillamook,3,State Treasurer,,R,Write-ins,2
 Tillamook,3,State Treasurer,,R,Under Votes,53
 Tillamook,3,State Senate,16,R,Bob Horning,78
-Tillamook,3,State Senate,16,R,Write-in,3
+Tillamook,3,State Senate,16,R,Write-ins,3
 Tillamook,3,State Senate,16,R,Under Votes,56
 Tillamook,3,State House,32,R,Lew Barnes,80
-Tillamook,3,State House,32,R,Write-in,6
+Tillamook,3,State House,32,R,Write-ins,6
 Tillamook,3,State House,32,R,Under Votes,51
 Tillamook,5,U.S. Senate,,D,Pavel Goberman,4
 Tillamook,5,U.S. Senate,,D,Loren Hooker,3
 Tillamook,5,U.S. Senate,,D,Ron Wyden,51
-Tillamook,5,U.S. Senate,,D,Write-in,0
+Tillamook,5,U.S. Senate,,D,Write-ins,0
 Tillamook,5,U.S. Senate,,D,Under Votes,2
 Tillamook,5,U.S. House,5,D,Kurt Schrader,43
-Tillamook,5,U.S. House,5,D,Write-in,0
+Tillamook,5,U.S. House,5,D,Write-ins,0
 Tillamook,5,U.S. House,5,D,Under Votes,17
 Tillamook,5,Governor,,D,Roger Obrist,6
 Tillamook,5,Governor,,D,John Kitzhaber,30
 Tillamook,5,Governor,,D,Bill Bradbury,19
-Tillamook,5,Governor,,D,Write-in,1
+Tillamook,5,Governor,,D,Write-ins,1
 Tillamook,5,Governor,,D,Under Votes,4
 Tillamook,5,State Treasurer,,D,Rick Metsger,16
 Tillamook,5,State Treasurer,,D,Ted Wheeler,39
-Tillamook,5,State Treasurer,,D,Write-in,0
+Tillamook,5,State Treasurer,,D,Write-ins,0
 Tillamook,5,State Treasurer,,D,Under Votes,5
 Tillamook,5,State Senate,16,D,Betsy Johnson,45
 Tillamook,5,State Senate,16,D,Under Votes,15
@@ -139,11 +139,11 @@ Tillamook,5,U.S. Senate,,R,Shane Dinkel,8
 Tillamook,5,U.S. Senate,,R,Jim Huffman,29
 Tillamook,5,U.S. Senate,,R,Walter Woodland,0
 Tillamook,5,U.S. Senate,,R,Keith Waldron,5
-Tillamook,5,U.S. Senate,,R,Write-in,0
+Tillamook,5,U.S. Senate,,R,Write-ins,0
 Tillamook,5,U.S. Senate,,R,Under Votes,17
 Tillamook,5,U.S. House,5,R,Scott Bruun,32
 Tillamook,5,U.S. House,5,R,Fred Thompson,35
-Tillamook,5,U.S. House,5,R,Write-in,1
+Tillamook,5,U.S. House,5,R,Write-ins,1
 Tillamook,5,U.S. House,5,R,Under Votes,18
 Tillamook,5,Governor,,R,Bill Sizemore,5
 Tillamook,5,Governor,,R,John Lim,6
@@ -154,34 +154,34 @@ Tillamook,5,Governor,,R,Chris Dudley,42
 Tillamook,5,Governor,,R,Bob Forthan,0
 Tillamook,5,Governor,,R,Allen Alley,22
 Tillamook,5,Governor,,R,Rex Watkins,0
-Tillamook,5,Governor,,R,Write-in,0
-Tillamook,5,Governor,,R,overvote,0
+Tillamook,5,Governor,,R,Write-ins,0
+Tillamook,5,Governor,,R,Over Votes,0
 Tillamook,5,Governor,,R,Under Votes,5
 Tillamook,5,State Treasurer,,R,Chris Telfer,45
-Tillamook,5,State Treasurer,,R,Write-in,1
+Tillamook,5,State Treasurer,,R,Write-ins,1
 Tillamook,5,State Treasurer,,R,Under Votes,40
 Tillamook,5,State Senate,16,R,Bob Horning,42
-Tillamook,5,State Senate,16,R,Write-in,2
+Tillamook,5,State Senate,16,R,Write-ins,2
 Tillamook,5,State Senate,16,R,Under Votes,42
 Tillamook,5,State House,32,R,Lew Barnes,44
-Tillamook,5,State House,32,R,Write-in,2
+Tillamook,5,State House,32,R,Write-ins,2
 Tillamook,5,State House,32,R,Under Votes,40
 Tillamook,6,U.S. Senate,,D,Pavel Goberman,5
 Tillamook,6,U.S. Senate,,D,Loren Hooker,9
 Tillamook,6,U.S. Senate,,D,Ron Wyden,43
-Tillamook,6,U.S. Senate,,D,Write-in,0
+Tillamook,6,U.S. Senate,,D,Write-ins,0
 Tillamook,6,U.S. Senate,,D,Under Votes,8
 Tillamook,6,U.S. House,5,D,Kurt Schrader,41
-Tillamook,6,U.S. House,5,D,Write-in,1
+Tillamook,6,U.S. House,5,D,Write-ins,1
 Tillamook,6,U.S. House,5,D,Under Votes,23
 Tillamook,6,Governor,,D,Roger Obrist,3
 Tillamook,6,Governor,,D,John Kitzhaber,35
 Tillamook,6,Governor,,D,Bill Bradbury,25
-Tillamook,6,Governor,,D,Write-in,0
+Tillamook,6,Governor,,D,Write-ins,0
 Tillamook,6,Governor,,D,Under Votes,2
 Tillamook,6,State Treasurer,,D,Rick Metsger,22
 Tillamook,6,State Treasurer,,D,Ted Wheeler,31
-Tillamook,6,State Treasurer,,D,Write-in,0
+Tillamook,6,State Treasurer,,D,Write-ins,0
 Tillamook,6,State Treasurer,,D,Under Votes,12
 Tillamook,6,State Senate,16,D,Betsy Johnson,38
 Tillamook,6,State Senate,16,D,Under Votes,27
@@ -194,11 +194,11 @@ Tillamook,6,U.S. Senate,,R,Shane Dinkel,6
 Tillamook,6,U.S. Senate,,R,Jim Huffman,29
 Tillamook,6,U.S. Senate,,R,Walter Woodland,1
 Tillamook,6,U.S. Senate,,R,Keith Waldron,5
-Tillamook,6,U.S. Senate,,R,Write-in,1
+Tillamook,6,U.S. Senate,,R,Write-ins,1
 Tillamook,6,U.S. Senate,,R,Under Votes,23
 Tillamook,6,U.S. House,5,R,Scott Bruun,42
 Tillamook,6,U.S. House,5,R,Fred Thompson,28
-Tillamook,6,U.S. House,5,R,Write-in,1
+Tillamook,6,U.S. House,5,R,Write-ins,1
 Tillamook,6,U.S. House,5,R,Under Votes,17
 Tillamook,6,Governor,,R,Bill Sizemore,5
 Tillamook,6,Governor,,R,John Lim,14
@@ -209,34 +209,34 @@ Tillamook,6,Governor,,R,Chris Dudley,49
 Tillamook,6,Governor,,R,Bob Forthan,0
 Tillamook,6,Governor,,R,Allen Alley,9
 Tillamook,6,Governor,,R,Rex Watkins,2
-Tillamook,6,Governor,,R,Write-in,1
-Tillamook,6,Governor,,R,overvote,0
+Tillamook,6,Governor,,R,Write-ins,1
+Tillamook,6,Governor,,R,Over Votes,0
 Tillamook,6,Governor,,R,Under Votes,3
 Tillamook,6,State Treasurer,,R,Chris Telfer,45
-Tillamook,6,State Treasurer,,R,Write-in,1
+Tillamook,6,State Treasurer,,R,Write-ins,1
 Tillamook,6,State Treasurer,,R,Under Votes,42
 Tillamook,6,State Senate,16,R,Bob Horning,42
-Tillamook,6,State Senate,16,R,Write-in,1
+Tillamook,6,State Senate,16,R,Write-ins,1
 Tillamook,6,State Senate,16,R,Under Votes,45
 Tillamook,6,State House,32,R,Lew Barnes,46
-Tillamook,6,State House,32,R,Write-in,1
+Tillamook,6,State House,32,R,Write-ins,1
 Tillamook,6,State House,32,R,Under Votes,41
 Tillamook,7,U.S. Senate,,D,Pavel Goberman,6
 Tillamook,7,U.S. Senate,,D,Loren Hooker,0
 Tillamook,7,U.S. Senate,,D,Ron Wyden,18
-Tillamook,7,U.S. Senate,,D,Write-in,0
+Tillamook,7,U.S. Senate,,D,Write-ins,0
 Tillamook,7,U.S. Senate,,D,Under Votes,0
 Tillamook,7,U.S. House,5,D,Kurt Schrader,18
-Tillamook,7,U.S. House,5,D,Write-in,0
+Tillamook,7,U.S. House,5,D,Write-ins,0
 Tillamook,7,U.S. House,5,D,Under Votes,6
 Tillamook,7,Governor,,D,Roger Obrist,3
 Tillamook,7,Governor,,D,John Kitzhaber,12
 Tillamook,7,Governor,,D,Bill Bradbury,9
-Tillamook,7,Governor,,D,Write-in,0
+Tillamook,7,Governor,,D,Write-ins,0
 Tillamook,7,Governor,,D,Under Votes,0
 Tillamook,7,State Treasurer,,D,Rick Metsger,9
 Tillamook,7,State Treasurer,,D,Ted Wheeler,12
-Tillamook,7,State Treasurer,,D,Write-in,0
+Tillamook,7,State Treasurer,,D,Write-ins,0
 Tillamook,7,State Treasurer,,D,Under Votes,3
 Tillamook,7,State Senate,16,D,Betsy Johnson,18
 Tillamook,7,State Senate,16,D,Under Votes,6
@@ -249,11 +249,11 @@ Tillamook,7,U.S. Senate,,R,Shane Dinkel,1
 Tillamook,7,U.S. Senate,,R,Jim Huffman,12
 Tillamook,7,U.S. Senate,,R,Walter Woodland,1
 Tillamook,7,U.S. Senate,,R,Keith Waldron,2
-Tillamook,7,U.S. Senate,,R,Write-in,0
+Tillamook,7,U.S. Senate,,R,Write-ins,0
 Tillamook,7,U.S. Senate,,R,Under Votes,12
 Tillamook,7,U.S. House,5,R,Scott Bruun,13
 Tillamook,7,U.S. House,5,R,Fred Thompson,11
-Tillamook,7,U.S. House,5,R,Write-in,0
+Tillamook,7,U.S. House,5,R,Write-ins,0
 Tillamook,7,U.S. House,5,R,Under Votes,13
 Tillamook,7,Governor,,R,Bill Sizemore,1
 Tillamook,7,Governor,,R,John Lim,6
@@ -264,40 +264,40 @@ Tillamook,7,Governor,,R,Chris Dudley,0
 Tillamook,7,Governor,,R,Bob Forthan,4
 Tillamook,7,Governor,,R,Allen Alley,0
 Tillamook,7,Governor,,R,Rex Watkins,0
-Tillamook,7,Governor,,R,Write-in,0
-Tillamook,7,Governor,,R,overvote,0
+Tillamook,7,Governor,,R,Write-ins,0
+Tillamook,7,Governor,,R,Over Votes,0
 Tillamook,7,Governor,,R,Under Votes,3
 Tillamook,7,State Treasurer,,R,Chris Telfer,15
-Tillamook,7,State Treasurer,,R,Write-in,0
+Tillamook,7,State Treasurer,,R,Write-ins,0
 Tillamook,7,State Treasurer,,R,Under Votes,22
 Tillamook,7,State Senate,16,R,Bob Horning,13
-Tillamook,7,State Senate,16,R,Write-in,0
+Tillamook,7,State Senate,16,R,Write-ins,0
 Tillamook,7,State Senate,16,R,Under Votes,24
 Tillamook,7,State House,32,R,Lew Barnes,14
-Tillamook,7,State House,32,R,Write-in,0
+Tillamook,7,State House,32,R,Write-ins,0
 Tillamook,7,State House,32,R,Under Votes,23
 Tillamook,8,U.S. Senate,,D,Pavel Goberman,9
 Tillamook,8,U.S. Senate,,D,Loren Hooker,19
 Tillamook,8,U.S. Senate,,D,Ron Wyden,202
-Tillamook,8,U.S. Senate,,D,Write-in,3
+Tillamook,8,U.S. Senate,,D,Write-ins,3
 Tillamook,8,U.S. Senate,,D,Under Votes,17
 Tillamook,8,U.S. House,5,D,Kurt Schrader,178
-Tillamook,8,U.S. House,5,D,Write-in,0
+Tillamook,8,U.S. House,5,D,Write-ins,0
 Tillamook,8,U.S. House,5,D,Under Votes,72
 Tillamook,8,Governor,,D,Roger Obrist,19
 Tillamook,8,Governor,,D,John Kitzhaber,132
 Tillamook,8,Governor,,D,Bill Bradbury,75
-Tillamook,8,Governor,,D,Write-in,5
+Tillamook,8,Governor,,D,Write-ins,5
 Tillamook,8,Governor,,D,Under Votes,19
 Tillamook,8,State Treasurer,,D,Rick Metsger,83
 Tillamook,8,State Treasurer,,D,Ted Wheeler,119
-Tillamook,8,State Treasurer,,D,Write-in,2
+Tillamook,8,State Treasurer,,D,Write-ins,2
 Tillamook,8,State Treasurer,,D,Under Votes,46
 Tillamook,8,State Senate,16,D,Betsy Johnson,189
-Tillamook,8,State Senate,16,D,Write-in,2
+Tillamook,8,State Senate,16,D,Write-ins,2
 Tillamook,8,State Senate,16,D,Under Votes,59
 Tillamook,8,State House,32,D,Deborah Boone,189
-Tillamook,8,State House,32,D,Write-in,1
+Tillamook,8,State House,32,D,Write-ins,1
 Tillamook,8,State House,32,D,Under Votes,60
 Tillamook,8,U.S. Senate,,R,Tom Stutzman,20
 Tillamook,8,U.S. Senate,,R,Robin Parker,15
@@ -306,11 +306,11 @@ Tillamook,8,U.S. Senate,,R,Shane Dinkel,24
 Tillamook,8,U.S. Senate,,R,Jim Huffman,81
 Tillamook,8,U.S. Senate,,R,Walter Woodland,3
 Tillamook,8,U.S. Senate,,R,Keith Waldron,21
-Tillamook,8,U.S. Senate,,R,Write-in,0
+Tillamook,8,U.S. Senate,,R,Write-ins,0
 Tillamook,8,U.S. Senate,,R,Under Votes,50
 Tillamook,8,U.S. House,5,R,Scott Bruun,97
 Tillamook,8,U.S. House,5,R,Fred Thompson,104
-Tillamook,8,U.S. House,5,R,Write-in,1
+Tillamook,8,U.S. House,5,R,Write-ins,1
 Tillamook,8,U.S. House,5,R,Under Votes,44
 Tillamook,8,Governor,,R,Bill Sizemore,16
 Tillamook,8,Governor,,R,John Lim,37
@@ -321,34 +321,34 @@ Tillamook,8,Governor,,R,Chris Dudley,113
 Tillamook,8,Governor,,R,Bob Forthan,2
 Tillamook,8,Governor,,R,Allen Alley,61
 Tillamook,8,Governor,,R,Rex Watkins,1
-Tillamook,8,Governor,,R,Write-in,0
-Tillamook,8,Governor,,R,overvote,1
+Tillamook,8,Governor,,R,Write-ins,0
+Tillamook,8,Governor,,R,Over Votes,1
 Tillamook,8,Governor,,R,Under Votes,9
 Tillamook,8,State Treasurer,,R,Chris Telfer,141
-Tillamook,8,State Treasurer,,R,Write-in,2
+Tillamook,8,State Treasurer,,R,Write-ins,2
 Tillamook,8,State Treasurer,,R,Under Votes,103
 Tillamook,8,State Senate,16,R,Bob Horning,128
-Tillamook,8,State Senate,16,R,Write-in,19
+Tillamook,8,State Senate,16,R,Write-ins,19
 Tillamook,8,State Senate,16,R,Under Votes,99
 Tillamook,8,State House,32,R,Lew Barnes,135
-Tillamook,8,State House,32,R,Write-in,5
+Tillamook,8,State House,32,R,Write-ins,5
 Tillamook,8,State House,32,R,Under Votes,106
 Tillamook,10,U.S. Senate,,D,Pavel Goberman,4
 Tillamook,10,U.S. Senate,,D,Loren Hooker,6
 Tillamook,10,U.S. Senate,,D,Ron Wyden,95
-Tillamook,10,U.S. Senate,,D,Write-in,0
+Tillamook,10,U.S. Senate,,D,Write-ins,0
 Tillamook,10,U.S. Senate,,D,Under Votes,2
 Tillamook,10,U.S. House,5,D,Kurt Schrader,78
-Tillamook,10,U.S. House,5,D,Write-in,1
+Tillamook,10,U.S. House,5,D,Write-ins,1
 Tillamook,10,U.S. House,5,D,Under Votes,28
 Tillamook,10,Governor,,D,Roger Obrist,2
 Tillamook,10,Governor,,D,John Kitzhaber,67
 Tillamook,10,Governor,,D,Bill Bradbury,32
-Tillamook,10,Governor,,D,Write-in,2
+Tillamook,10,Governor,,D,Write-ins,2
 Tillamook,10,Governor,,D,Under Votes,4
 Tillamook,10,State Treasurer,,D,Rick Metsger,41
 Tillamook,10,State Treasurer,,D,Ted Wheeler,56
-Tillamook,10,State Treasurer,,D,Write-in,0
+Tillamook,10,State Treasurer,,D,Write-ins,0
 Tillamook,10,State Treasurer,,D,Under Votes,10
 Tillamook,10,State Senate,16,D,Betsy Johnson,82
 Tillamook,10,State Senate,16,D,Under Votes,25
@@ -361,11 +361,11 @@ Tillamook,10,U.S. Senate,,R,Shane Dinkel,10
 Tillamook,10,U.S. Senate,,R,Jim Huffman,16
 Tillamook,10,U.S. Senate,,R,Walter Woodland,0
 Tillamook,10,U.S. Senate,,R,Keith Waldron,5
-Tillamook,10,U.S. Senate,,R,Write-in,0
+Tillamook,10,U.S. Senate,,R,Write-ins,0
 Tillamook,10,U.S. Senate,,R,Under Votes,13
 Tillamook,10,U.S. House,5,R,Scott Bruun,23
 Tillamook,10,U.S. House,5,R,Fred Thompson,33
-Tillamook,10,U.S. House,5,R,Write-in,0
+Tillamook,10,U.S. House,5,R,Write-ins,0
 Tillamook,10,U.S. House,5,R,Under Votes,15
 Tillamook,10,Governor,,R,Bill Sizemore,2
 Tillamook,10,Governor,,R,John Lim,10
@@ -376,40 +376,40 @@ Tillamook,10,Governor,,R,Chris Dudley,34
 Tillamook,10,Governor,,R,Bob Forthan,1
 Tillamook,10,Governor,,R,Allen Alley,14
 Tillamook,10,Governor,,R,Rex Watkins,1
-Tillamook,10,Governor,,R,Write-in,1
-Tillamook,10,Governor,,R,overvote,0
+Tillamook,10,Governor,,R,Write-ins,1
+Tillamook,10,Governor,,R,Over Votes,0
 Tillamook,10,Governor,,R,Under Votes,4
 Tillamook,10,State Treasurer,,R,Chris Telfer,39
-Tillamook,10,State Treasurer,,R,Write-in,0
+Tillamook,10,State Treasurer,,R,Write-ins,0
 Tillamook,10,State Treasurer,,R,Under Votes,32
 Tillamook,10,State Senate,16,R,Bob Horning,32
-Tillamook,10,State Senate,16,R,Write-in,1
+Tillamook,10,State Senate,16,R,Write-ins,1
 Tillamook,10,State Senate,16,R,Under Votes,38
 Tillamook,10,State House,32,R,Lew Barnes,34
-Tillamook,10,State House,32,R,Write-in,0
+Tillamook,10,State House,32,R,Write-ins,0
 Tillamook,10,State House,32,R,Under Votes,37
 Tillamook,12,U.S. Senate,,D,Pavel Goberman,4
 Tillamook,12,U.S. Senate,,D,Loren Hooker,16
 Tillamook,12,U.S. Senate,,D,Ron Wyden,140
-Tillamook,12,U.S. Senate,,D,Write-in,2
+Tillamook,12,U.S. Senate,,D,Write-ins,2
 Tillamook,12,U.S. Senate,,D,Under Votes,5
 Tillamook,12,U.S. House,5,D,Kurt Schrader,109
-Tillamook,12,U.S. House,5,D,Write-in,4
+Tillamook,12,U.S. House,5,D,Write-ins,4
 Tillamook,12,U.S. House,5,D,Under Votes,54
 Tillamook,12,Governor,,D,Roger Obrist,8
 Tillamook,12,Governor,,D,John Kitzhaber,101
 Tillamook,12,Governor,,D,Bill Bradbury,46
-Tillamook,12,Governor,,D,Write-in,6
+Tillamook,12,Governor,,D,Write-ins,6
 Tillamook,12,Governor,,D,Under Votes,6
 Tillamook,12,State Treasurer,,D,Rick Metsger,58
 Tillamook,12,State Treasurer,,D,Ted Wheeler,71
-Tillamook,12,State Treasurer,,D,Write-in,4
+Tillamook,12,State Treasurer,,D,Write-ins,4
 Tillamook,12,State Treasurer,,D,Under Votes,34
 Tillamook,12,State Senate,16,D,Betsy Johnson,119
-Tillamook,12,State Senate,16,D,Write-in,6
+Tillamook,12,State Senate,16,D,Write-ins,6
 Tillamook,12,State Senate,16,D,Under Votes,42
 Tillamook,12,State House,32,D,Deborah Boone,125
-Tillamook,12,State House,32,D,Write-in,3
+Tillamook,12,State House,32,D,Write-ins,3
 Tillamook,12,State House,32,D,Under Votes,39
 Tillamook,12,U.S. Senate,,R,Tom Stutzman,14
 Tillamook,12,U.S. Senate,,R,Robin Parker,3
@@ -418,11 +418,11 @@ Tillamook,12,U.S. Senate,,R,Shane Dinkel,16
 Tillamook,12,U.S. Senate,,R,Jim Huffman,40
 Tillamook,12,U.S. Senate,,R,Walter Woodland,0
 Tillamook,12,U.S. Senate,,R,Keith Waldron,15
-Tillamook,12,U.S. Senate,,R,Write-in,1
+Tillamook,12,U.S. Senate,,R,Write-ins,1
 Tillamook,12,U.S. Senate,,R,Under Votes,24
 Tillamook,12,U.S. House,5,R,Scott Bruun,50
 Tillamook,12,U.S. House,5,R,Fred Thompson,52
-Tillamook,12,U.S. House,5,R,Write-in,0
+Tillamook,12,U.S. House,5,R,Write-ins,0
 Tillamook,12,U.S. House,5,R,Under Votes,28
 Tillamook,12,Governor,,R,Bill Sizemore,12
 Tillamook,12,Governor,,R,John Lim,13
@@ -433,40 +433,40 @@ Tillamook,12,Governor,,R,Chris Dudley,54
 Tillamook,12,Governor,,R,Bob Forthan,0
 Tillamook,12,Governor,,R,Allen Alley,35
 Tillamook,12,Governor,,R,Rex Watkins,0
-Tillamook,12,Governor,,R,Write-in,1
-Tillamook,12,Governor,,R,overvote,0
+Tillamook,12,Governor,,R,Write-ins,1
+Tillamook,12,Governor,,R,Over Votes,0
 Tillamook,12,Governor,,R,Under Votes,7
 Tillamook,12,State Treasurer,,R,Chris Telfer,81
-Tillamook,12,State Treasurer,,R,Write-in,2
+Tillamook,12,State Treasurer,,R,Write-ins,2
 Tillamook,12,State Treasurer,,R,Under Votes,47
 Tillamook,12,State Senate,16,R,Bob Horning,84
-Tillamook,12,State Senate,16,R,Write-in,2
+Tillamook,12,State Senate,16,R,Write-ins,2
 Tillamook,12,State Senate,16,R,Under Votes,44
 Tillamook,12,State House,32,R,Lew Barnes,75
-Tillamook,12,State House,32,R,Write-in,0
+Tillamook,12,State House,32,R,Write-ins,0
 Tillamook,12,State House,32,R,Under Votes,55
 Tillamook,13,U.S. Senate,,D,Pavel Goberman,1
 Tillamook,13,U.S. Senate,,D,Loren Hooker,6
 Tillamook,13,U.S. Senate,,D,Ron Wyden,52
-Tillamook,13,U.S. Senate,,D,Write-in,0
+Tillamook,13,U.S. Senate,,D,Write-ins,0
 Tillamook,13,U.S. Senate,,D,Under Votes,6
 Tillamook,13,U.S. House,5,D,Kurt Schrader,48
-Tillamook,13,U.S. House,5,D,Write-in,0
+Tillamook,13,U.S. House,5,D,Write-ins,0
 Tillamook,13,U.S. House,5,D,Under Votes,17
 Tillamook,13,Governor,,D,Roger Obrist,5
 Tillamook,13,Governor,,D,John Kitzhaber,37
 Tillamook,13,Governor,,D,Bill Bradbury,16
-Tillamook,13,Governor,,D,Write-in,3
+Tillamook,13,Governor,,D,Write-ins,3
 Tillamook,13,Governor,,D,Under Votes,4
 Tillamook,13,State Treasurer,,D,Rick Metsger,28
 Tillamook,13,State Treasurer,,D,Ted Wheeler,26
-Tillamook,13,State Treasurer,,D,Write-in,0
+Tillamook,13,State Treasurer,,D,Write-ins,0
 Tillamook,13,State Treasurer,,D,Under Votes,11
 Tillamook,13,State Senate,16,D,Betsy Johnson,47
-Tillamook,13,State Senate,16,D,Write-in,0
+Tillamook,13,State Senate,16,D,Write-ins,0
 Tillamook,13,State Senate,16,D,Under Votes,18
 Tillamook,13,State House,32,D,Deborah Boone,45
-Tillamook,13,State House,32,D,Write-in,0
+Tillamook,13,State House,32,D,Write-ins,0
 Tillamook,13,State House,32,D,Under Votes,20
 Tillamook,13,U.S. Senate,,R,Tom Stutzman,5
 Tillamook,13,U.S. Senate,,R,Robin Parker,0
@@ -475,11 +475,11 @@ Tillamook,13,U.S. Senate,,R,Shane Dinkel,9
 Tillamook,13,U.S. Senate,,R,Jim Huffman,19
 Tillamook,13,U.S. Senate,,R,Walter Woodland,0
 Tillamook,13,U.S. Senate,,R,Keith Waldron,2
-Tillamook,13,U.S. Senate,,R,Write-in,1
+Tillamook,13,U.S. Senate,,R,Write-ins,1
 Tillamook,13,U.S. Senate,,R,Under Votes,13
 Tillamook,13,U.S. House,5,R,Scott Bruun,22
 Tillamook,13,U.S. House,5,R,Fred Thompson,22
-Tillamook,13,U.S. House,5,R,Write-in,0
+Tillamook,13,U.S. House,5,R,Write-ins,0
 Tillamook,13,U.S. House,5,R,Under Votes,10
 Tillamook,13,Governor,,R,Bill Sizemore,3
 Tillamook,13,Governor,,R,John Lim,6
@@ -490,40 +490,40 @@ Tillamook,13,Governor,,R,Chris Dudley,27
 Tillamook,13,Governor,,R,Bob Forthan,1
 Tillamook,13,Governor,,R,Allen Alley,10
 Tillamook,13,Governor,,R,Rex Watkins,2
-Tillamook,13,Governor,,R,Write-in,1
-Tillamook,13,Governor,,R,overvote,0
+Tillamook,13,Governor,,R,Write-ins,1
+Tillamook,13,Governor,,R,Over Votes,0
 Tillamook,13,Governor,,R,Under Votes,2
 Tillamook,13,State Treasurer,,R,Chris Telfer,29
-Tillamook,13,State Treasurer,,R,Write-in,1
+Tillamook,13,State Treasurer,,R,Write-ins,1
 Tillamook,13,State Treasurer,,R,Under Votes,24
 Tillamook,13,State Senate,16,R,Bob Horning,26
-Tillamook,13,State Senate,16,R,Write-in,5
+Tillamook,13,State Senate,16,R,Write-ins,5
 Tillamook,13,State Senate,16,R,Under Votes,23
 Tillamook,13,State House,32,R,Lew Barnes,27
-Tillamook,13,State House,32,R,Write-in,1
+Tillamook,13,State House,32,R,Write-ins,1
 Tillamook,13,State House,32,R,Under Votes,26
 Tillamook,14,U.S. Senate,,D,Pavel Goberman,4
 Tillamook,14,U.S. Senate,,D,Loren Hooker,2
 Tillamook,14,U.S. Senate,,D,Ron Wyden,96
-Tillamook,14,U.S. Senate,,D,Write-in,2
+Tillamook,14,U.S. Senate,,D,Write-ins,2
 Tillamook,14,U.S. Senate,,D,Under Votes,7
 Tillamook,14,U.S. House,5,D,Kurt Schrader,86
-Tillamook,14,U.S. House,5,D,Write-in,3
+Tillamook,14,U.S. House,5,D,Write-ins,3
 Tillamook,14,U.S. House,5,D,Under Votes,22
 Tillamook,14,Governor,,D,Roger Obrist,9
 Tillamook,14,Governor,,D,John Kitzhaber,64
 Tillamook,14,Governor,,D,Bill Bradbury,31
-Tillamook,14,Governor,,D,Write-in,3
+Tillamook,14,Governor,,D,Write-ins,3
 Tillamook,14,Governor,,D,Under Votes,4
 Tillamook,14,State Treasurer,,D,Rick Metsger,43
 Tillamook,14,State Treasurer,,D,Ted Wheeler,46
-Tillamook,14,State Treasurer,,D,Write-in,2
+Tillamook,14,State Treasurer,,D,Write-ins,2
 Tillamook,14,State Treasurer,,D,Under Votes,20
 Tillamook,14,State Senate,16,D,Betsy Johnson,86
-Tillamook,14,State Senate,16,D,Write-in,4
+Tillamook,14,State Senate,16,D,Write-ins,4
 Tillamook,14,State Senate,16,D,Under Votes,21
 Tillamook,14,State House,32,D,Deborah Boone,87
-Tillamook,14,State House,32,D,Write-in,4
+Tillamook,14,State House,32,D,Write-ins,4
 Tillamook,14,State House,32,D,Under Votes,20
 Tillamook,14,U.S. Senate,,R,Tom Stutzman,8
 Tillamook,14,U.S. Senate,,R,Robin Parker,6
@@ -532,11 +532,11 @@ Tillamook,14,U.S. Senate,,R,Shane Dinkel,11
 Tillamook,14,U.S. Senate,,R,Jim Huffman,42
 Tillamook,14,U.S. Senate,,R,Walter Woodland,2
 Tillamook,14,U.S. Senate,,R,Keith Waldron,9
-Tillamook,14,U.S. Senate,,R,Write-in,2
+Tillamook,14,U.S. Senate,,R,Write-ins,2
 Tillamook,14,U.S. Senate,,R,Under Votes,23
 Tillamook,14,U.S. House,5,R,Scott Bruun,41
 Tillamook,14,U.S. House,5,R,Fred Thompson,47
-Tillamook,14,U.S. House,5,R,Write-in,0
+Tillamook,14,U.S. House,5,R,Write-ins,0
 Tillamook,14,U.S. House,5,R,Under Votes,23
 Tillamook,14,Governor,,R,Bill Sizemore,12
 Tillamook,14,Governor,,R,John Lim,18
@@ -547,34 +547,34 @@ Tillamook,14,Governor,,R,Chris Dudley,42
 Tillamook,14,Governor,,R,Bob Forthan,1
 Tillamook,14,Governor,,R,Allen Alley,27
 Tillamook,14,Governor,,R,Rex Watkins,0
-Tillamook,14,Governor,,R,Write-in,2
-Tillamook,14,Governor,,R,overvote,0
+Tillamook,14,Governor,,R,Write-ins,2
+Tillamook,14,Governor,,R,Over Votes,0
 Tillamook,14,Governor,,R,Under Votes,3
 Tillamook,14,State Treasurer,,R,Chris Telfer,57
-Tillamook,14,State Treasurer,,R,Write-in,1
+Tillamook,14,State Treasurer,,R,Write-ins,1
 Tillamook,14,State Treasurer,,R,Under Votes,53
 Tillamook,14,State Senate,16,R,Bob Horning,51
-Tillamook,14,State Senate,16,R,Write-in,4
+Tillamook,14,State Senate,16,R,Write-ins,4
 Tillamook,14,State Senate,16,R,Under Votes,55
 Tillamook,14,State House,32,R,Lew Barnes,60
-Tillamook,14,State House,32,R,Write-in,1
+Tillamook,14,State House,32,R,Write-ins,1
 Tillamook,14,State House,32,R,Under Votes,50
 Tillamook,15,U.S. Senate,,D,Pavel Goberman,1
 Tillamook,15,U.S. Senate,,D,Loren Hooker,6
 Tillamook,15,U.S. Senate,,D,Ron Wyden,70
-Tillamook,15,U.S. Senate,,D,Write-in,2
+Tillamook,15,U.S. Senate,,D,Write-ins,2
 Tillamook,15,U.S. Senate,,D,Under Votes,7
 Tillamook,15,U.S. House,5,D,Kurt Schrader,65
-Tillamook,15,U.S. House,5,D,Write-in,1
+Tillamook,15,U.S. House,5,D,Write-ins,1
 Tillamook,15,U.S. House,5,D,Under Votes,20
 Tillamook,15,Governor,,D,Roger Obrist,6
 Tillamook,15,Governor,,D,John Kitzhaber,56
 Tillamook,15,Governor,,D,Bill Bradbury,16
-Tillamook,15,Governor,,D,Write-in,5
+Tillamook,15,Governor,,D,Write-ins,5
 Tillamook,15,Governor,,D,Under Votes,3
 Tillamook,15,State Treasurer,,D,Rick Metsger,38
 Tillamook,15,State Treasurer,,D,Ted Wheeler,32
-Tillamook,15,State Treasurer,,D,Write-in,0
+Tillamook,15,State Treasurer,,D,Write-ins,0
 Tillamook,15,State Treasurer,,D,Under Votes,16
 Tillamook,15,State Senate,16,D,Betsy Johnson,72
 Tillamook,15,State Senate,16,D,Under Votes,14
@@ -587,11 +587,11 @@ Tillamook,15,U.S. Senate,,R,Shane Dinkel,11
 Tillamook,15,U.S. Senate,,R,Jim Huffman,40
 Tillamook,15,U.S. Senate,,R,Walter Woodland,0
 Tillamook,15,U.S. Senate,,R,Keith Waldron,10
-Tillamook,15,U.S. Senate,,R,Write-in,3
+Tillamook,15,U.S. Senate,,R,Write-ins,3
 Tillamook,15,U.S. Senate,,R,Under Votes,37
 Tillamook,15,U.S. House,5,R,Scott Bruun,39
 Tillamook,15,U.S. House,5,R,Fred Thompson,41
-Tillamook,15,U.S. House,5,R,Write-in,2
+Tillamook,15,U.S. House,5,R,Write-ins,2
 Tillamook,15,U.S. House,5,R,Under Votes,36
 Tillamook,15,Governor,,R,Bill Sizemore,10
 Tillamook,15,Governor,,R,John Lim,16
@@ -602,38 +602,38 @@ Tillamook,15,Governor,,R,Chris Dudley,52
 Tillamook,15,Governor,,R,Bob Forthan,1
 Tillamook,15,Governor,,R,Allen Alley,23
 Tillamook,15,Governor,,R,Rex Watkins,1
-Tillamook,15,Governor,,R,Write-in,0
-Tillamook,15,Governor,,R,overvote,0
+Tillamook,15,Governor,,R,Write-ins,0
+Tillamook,15,Governor,,R,Over Votes,0
 Tillamook,15,Governor,,R,Under Votes,10
 Tillamook,15,State Treasurer,,R,Chris Telfer,66
-Tillamook,15,State Treasurer,,R,Write-in,1
+Tillamook,15,State Treasurer,,R,Write-ins,1
 Tillamook,15,State Treasurer,,R,Under Votes,51
 Tillamook,15,State Senate,16,R,Bob Horning,57
-Tillamook,15,State Senate,16,R,Write-in,5
+Tillamook,15,State Senate,16,R,Write-ins,5
 Tillamook,15,State Senate,16,R,Under Votes,56
 Tillamook,15,State House,32,R,Lew Barnes,57
-Tillamook,15,State House,32,R,Write-in,2
+Tillamook,15,State House,32,R,Write-ins,2
 Tillamook,15,State House,32,R,Under Votes,59
 Tillamook,16,U.S. Senate,,D,Pavel Goberman,2
 Tillamook,16,U.S. Senate,,D,Loren Hooker,6
 Tillamook,16,U.S. Senate,,D,Ron Wyden,95
-Tillamook,16,U.S. Senate,,D,Write-in,2
+Tillamook,16,U.S. Senate,,D,Write-ins,2
 Tillamook,16,U.S. Senate,,D,Under Votes,7
 Tillamook,16,U.S. House,5,D,Kurt Schrader,78
-Tillamook,16,U.S. House,5,D,Write-in,1
+Tillamook,16,U.S. House,5,D,Write-ins,1
 Tillamook,16,U.S. House,5,D,Under Votes,33
 Tillamook,16,Governor,,D,Roger Obrist,6
 Tillamook,16,Governor,,D,John Kitzhaber,71
 Tillamook,16,Governor,,D,Bill Bradbury,32
-Tillamook,16,Governor,,D,Write-in,2
+Tillamook,16,Governor,,D,Write-ins,2
 Tillamook,16,Governor,,D,Under Votes,1
 Tillamook,16,State Treasurer,,D,Rick Metsger,27
 Tillamook,16,State Treasurer,,D,Ted Wheeler,63
-Tillamook,16,State Treasurer,,D,Write-in,2
-Tillamook,16,State Treasurer,,D,overvote,1
+Tillamook,16,State Treasurer,,D,Write-ins,2
+Tillamook,16,State Treasurer,,D,Over Votes,1
 Tillamook,16,State Treasurer,,D,Under Votes,19
 Tillamook,16,State Senate,16,D,Betsy Johnson,82
-Tillamook,16,State Senate,16,D,Write-in,5
+Tillamook,16,State Senate,16,D,Write-ins,5
 Tillamook,16,State Senate,16,D,Under Votes,25
 Tillamook,16,State House,32,D,Deborah Boone,88
 Tillamook,16,State House,32,D,Under Votes,24
@@ -644,11 +644,11 @@ Tillamook,16,U.S. Senate,,R,Shane Dinkel,5
 Tillamook,16,U.S. Senate,,R,Jim Huffman,20
 Tillamook,16,U.S. Senate,,R,Walter Woodland,5
 Tillamook,16,U.S. Senate,,R,Keith Waldron,4
-Tillamook,16,U.S. Senate,,R,Write-in,1
+Tillamook,16,U.S. Senate,,R,Write-ins,1
 Tillamook,16,U.S. Senate,,R,Under Votes,9
 Tillamook,16,U.S. House,5,R,Scott Bruun,23
 Tillamook,16,U.S. House,5,R,Fred Thompson,19
-Tillamook,16,U.S. House,5,R,Write-in,1
+Tillamook,16,U.S. House,5,R,Write-ins,1
 Tillamook,16,U.S. House,5,R,Under Votes,12
 Tillamook,16,Governor,,R,Bill Sizemore,1
 Tillamook,16,Governor,,R,John Lim,9
@@ -659,40 +659,40 @@ Tillamook,16,Governor,,R,Chris Dudley,24
 Tillamook,16,Governor,,R,Bob Forthan,0
 Tillamook,16,Governor,,R,Allen Alley,15
 Tillamook,16,Governor,,R,Rex Watkins,1
-Tillamook,16,Governor,,R,Write-in,0
-Tillamook,16,Governor,,R,overvote,0
+Tillamook,16,Governor,,R,Write-ins,0
+Tillamook,16,Governor,,R,Over Votes,0
 Tillamook,16,Governor,,R,Under Votes,4
 Tillamook,16,State Treasurer,,R,Chris Telfer,37
-Tillamook,16,State Treasurer,,R,Write-in,2
+Tillamook,16,State Treasurer,,R,Write-ins,2
 Tillamook,16,State Treasurer,,R,Under Votes,16
 Tillamook,16,State Senate,16,R,Bob Horning,37
-Tillamook,16,State Senate,16,R,Write-in,2
+Tillamook,16,State Senate,16,R,Write-ins,2
 Tillamook,16,State Senate,16,R,Under Votes,16
 Tillamook,16,State House,32,R,Lew Barnes,36
-Tillamook,16,State House,32,R,Write-in,2
+Tillamook,16,State House,32,R,Write-ins,2
 Tillamook,16,State House,32,R,Under Votes,17
 Tillamook,17,U.S. Senate,,D,Pavel Goberman,2
 Tillamook,17,U.S. Senate,,D,Loren Hooker,3
 Tillamook,17,U.S. Senate,,D,Ron Wyden,125
-Tillamook,17,U.S. Senate,,D,Write-in,2
+Tillamook,17,U.S. Senate,,D,Write-ins,2
 Tillamook,17,U.S. Senate,,D,Under Votes,4
 Tillamook,17,U.S. House,5,D,Kurt Schrader,115
-Tillamook,17,U.S. House,5,D,Write-in,0
+Tillamook,17,U.S. House,5,D,Write-ins,0
 Tillamook,17,U.S. House,5,D,Under Votes,21
 Tillamook,17,Governor,,D,Roger Obrist,3
 Tillamook,17,Governor,,D,John Kitzhaber,100
 Tillamook,17,Governor,,D,Bill Bradbury,27
-Tillamook,17,Governor,,D,Write-in,3
+Tillamook,17,Governor,,D,Write-ins,3
 Tillamook,17,Governor,,D,Under Votes,3
 Tillamook,17,State Treasurer,,D,Rick Metsger,28
 Tillamook,17,State Treasurer,,D,Ted Wheeler,85
-Tillamook,17,State Treasurer,,D,Write-in,1
+Tillamook,17,State Treasurer,,D,Write-ins,1
 Tillamook,17,State Treasurer,,D,Under Votes,22
 Tillamook,17,State Senate,16,D,Betsy Johnson,101
-Tillamook,17,State Senate,16,D,Write-in,1
+Tillamook,17,State Senate,16,D,Write-ins,1
 Tillamook,17,State Senate,16,D,Under Votes,34
 Tillamook,17,State House,32,D,Deborah Boone,104
-Tillamook,17,State House,32,D,Write-in,3
+Tillamook,17,State House,32,D,Write-ins,3
 Tillamook,17,State House,32,D,Under Votes,29
 Tillamook,17,U.S. Senate,,R,Tom Stutzman,14
 Tillamook,17,U.S. Senate,,R,Robin Parker,2
@@ -701,11 +701,11 @@ Tillamook,17,U.S. Senate,,R,Shane Dinkel,12
 Tillamook,17,U.S. Senate,,R,Jim Huffman,46
 Tillamook,17,U.S. Senate,,R,Walter Woodland,2
 Tillamook,17,U.S. Senate,,R,Keith Waldron,9
-Tillamook,17,U.S. Senate,,R,Write-in,0
+Tillamook,17,U.S. Senate,,R,Write-ins,0
 Tillamook,17,U.S. Senate,,R,Under Votes,16
 Tillamook,17,U.S. House,5,R,Scott Bruun,60
 Tillamook,17,U.S. House,5,R,Fred Thompson,35
-Tillamook,17,U.S. House,5,R,Write-in,0
+Tillamook,17,U.S. House,5,R,Write-ins,0
 Tillamook,17,U.S. House,5,R,Under Votes,11
 Tillamook,17,Governor,,R,Bill Sizemore,4
 Tillamook,17,Governor,,R,John Lim,6
@@ -716,34 +716,34 @@ Tillamook,17,Governor,,R,Chris Dudley,47
 Tillamook,17,Governor,,R,Bob Forthan,1
 Tillamook,17,Governor,,R,Allen Alley,37
 Tillamook,17,Governor,,R,Rex Watkins,1
-Tillamook,17,Governor,,R,Write-in,1
-Tillamook,17,Governor,,R,overvote,0
+Tillamook,17,Governor,,R,Write-ins,1
+Tillamook,17,Governor,,R,Over Votes,0
 Tillamook,17,Governor,,R,Under Votes,5
 Tillamook,17,State Treasurer,,R,Chris Telfer,77
-Tillamook,17,State Treasurer,,R,Write-in,0
+Tillamook,17,State Treasurer,,R,Write-ins,0
 Tillamook,17,State Treasurer,,R,Under Votes,29
 Tillamook,17,State Senate,16,R,Bob Horning,68
-Tillamook,17,State Senate,16,R,Write-in,2
+Tillamook,17,State Senate,16,R,Write-ins,2
 Tillamook,17,State Senate,16,R,Under Votes,36
 Tillamook,17,State House,32,R,Lew Barnes,71
-Tillamook,17,State House,32,R,Write-in,0
+Tillamook,17,State House,32,R,Write-ins,0
 Tillamook,17,State House,32,R,Under Votes,35
 Tillamook,18,U.S. Senate,,D,Pavel Goberman,3
 Tillamook,18,U.S. Senate,,D,Loren Hooker,17
 Tillamook,18,U.S. Senate,,D,Ron Wyden,187
-Tillamook,18,U.S. Senate,,D,Write-in,0
+Tillamook,18,U.S. Senate,,D,Write-ins,0
 Tillamook,18,U.S. Senate,,D,Under Votes,7
 Tillamook,18,U.S. House,5,D,Kurt Schrader,151
-Tillamook,18,U.S. House,5,D,Write-in,2
+Tillamook,18,U.S. House,5,D,Write-ins,2
 Tillamook,18,U.S. House,5,D,Under Votes,61
 Tillamook,18,Governor,,D,Roger Obrist,8
 Tillamook,18,Governor,,D,John Kitzhaber,132
 Tillamook,18,Governor,,D,Bill Bradbury,65
-Tillamook,18,Governor,,D,Write-in,0
+Tillamook,18,Governor,,D,Write-ins,0
 Tillamook,18,Governor,,D,Under Votes,9
 Tillamook,18,State Treasurer,,D,Rick Metsger,74
 Tillamook,18,State Treasurer,,D,Ted Wheeler,105
-Tillamook,18,State Treasurer,,D,Write-in,0
+Tillamook,18,State Treasurer,,D,Write-ins,0
 Tillamook,18,State Treasurer,,D,Under Votes,35
 Tillamook,18,State Senate,16,D,Betsy Johnson,165
 Tillamook,18,State Senate,16,D,Under Votes,49
@@ -756,11 +756,11 @@ Tillamook,18,U.S. Senate,,R,Shane Dinkel,12
 Tillamook,18,U.S. Senate,,R,Jim Huffman,44
 Tillamook,18,U.S. Senate,,R,Walter Woodland,3
 Tillamook,18,U.S. Senate,,R,Keith Waldron,16
-Tillamook,18,U.S. Senate,,R,Write-in,2
+Tillamook,18,U.S. Senate,,R,Write-ins,2
 Tillamook,18,U.S. Senate,,R,Under Votes,23
 Tillamook,18,U.S. House,5,R,Scott Bruun,59
 Tillamook,18,U.S. House,5,R,Fred Thompson,46
-Tillamook,18,U.S. House,5,R,Write-in,1
+Tillamook,18,U.S. House,5,R,Write-ins,1
 Tillamook,18,U.S. House,5,R,Under Votes,22
 Tillamook,18,Governor,,R,Bill Sizemore,3
 Tillamook,18,Governor,,R,John Lim,21
@@ -771,34 +771,34 @@ Tillamook,18,Governor,,R,Chris Dudley,56
 Tillamook,18,Governor,,R,Bob Forthan,1
 Tillamook,18,Governor,,R,Allen Alley,33
 Tillamook,18,Governor,,R,Rex Watkins,4
-Tillamook,18,Governor,,R,Write-in,1
-Tillamook,18,Governor,,R,overvote,0
+Tillamook,18,Governor,,R,Write-ins,1
+Tillamook,18,Governor,,R,Over Votes,0
 Tillamook,18,Governor,,R,Under Votes,4
 Tillamook,18,State Treasurer,,R,Chris Telfer,86
-Tillamook,18,State Treasurer,,R,Write-in,3
+Tillamook,18,State Treasurer,,R,Write-ins,3
 Tillamook,18,State Treasurer,,R,Under Votes,39
 Tillamook,18,State Senate,16,R,Bob Horning,82
-Tillamook,18,State Senate,16,R,Write-in,3
+Tillamook,18,State Senate,16,R,Write-ins,3
 Tillamook,18,State Senate,16,R,Under Votes,43
 Tillamook,18,State House,32,R,Lew Barnes,82
-Tillamook,18,State House,32,R,Write-in,2
+Tillamook,18,State House,32,R,Write-ins,2
 Tillamook,18,State House,32,R,Under Votes,44
 Tillamook,20,U.S. Senate,,D,Pavel Goberman,1
 Tillamook,20,U.S. Senate,,D,Loren Hooker,2
 Tillamook,20,U.S. Senate,,D,Ron Wyden,86
-Tillamook,20,U.S. Senate,,D,Write-in,0
+Tillamook,20,U.S. Senate,,D,Write-ins,0
 Tillamook,20,U.S. Senate,,D,Under Votes,0
 Tillamook,20,U.S. House,5,D,Kurt Schrader,71
-Tillamook,20,U.S. House,5,D,Write-in,0
+Tillamook,20,U.S. House,5,D,Write-ins,0
 Tillamook,20,U.S. House,5,D,Under Votes,18
 Tillamook,20,Governor,,D,Roger Obrist,3
 Tillamook,20,Governor,,D,John Kitzhaber,69
 Tillamook,20,Governor,,D,Bill Bradbury,15
-Tillamook,20,Governor,,D,Write-in,0
+Tillamook,20,Governor,,D,Write-ins,0
 Tillamook,20,Governor,,D,Under Votes,2
 Tillamook,20,State Treasurer,,D,Rick Metsger,22
 Tillamook,20,State Treasurer,,D,Ted Wheeler,52
-Tillamook,20,State Treasurer,,D,Write-in,0
+Tillamook,20,State Treasurer,,D,Write-ins,0
 Tillamook,20,State Treasurer,,D,Under Votes,15
 Tillamook,20,State Senate,16,D,Betsy Johnson,73
 Tillamook,20,State Senate,16,D,Under Votes,16
@@ -811,11 +811,11 @@ Tillamook,20,U.S. Senate,,R,Shane Dinkel,3
 Tillamook,20,U.S. Senate,,R,Jim Huffman,17
 Tillamook,20,U.S. Senate,,R,Walter Woodland,0
 Tillamook,20,U.S. Senate,,R,Keith Waldron,2
-Tillamook,20,U.S. Senate,,R,Write-in,0
+Tillamook,20,U.S. Senate,,R,Write-ins,0
 Tillamook,20,U.S. Senate,,R,Under Votes,5
 Tillamook,20,U.S. House,5,R,Scott Bruun,27
 Tillamook,20,U.S. House,5,R,Fred Thompson,15
-Tillamook,20,U.S. House,5,R,Write-in,1
+Tillamook,20,U.S. House,5,R,Write-ins,1
 Tillamook,20,U.S. House,5,R,Under Votes,6
 Tillamook,20,Governor,,R,Bill Sizemore,2
 Tillamook,20,Governor,,R,John Lim,4
@@ -826,40 +826,40 @@ Tillamook,20,Governor,,R,Chris Dudley,25
 Tillamook,20,Governor,,R,Bob Forthan,0
 Tillamook,20,Governor,,R,Allen Alley,16
 Tillamook,20,Governor,,R,Rex Watkins,0
-Tillamook,20,Governor,,R,Write-in,0
-Tillamook,20,Governor,,R,overvote,0
+Tillamook,20,Governor,,R,Write-ins,0
+Tillamook,20,Governor,,R,Over Votes,0
 Tillamook,20,Governor,,R,Under Votes,1
 Tillamook,20,State Treasurer,,R,Chris Telfer,28
-Tillamook,20,State Treasurer,,R,Write-in,0
+Tillamook,20,State Treasurer,,R,Write-ins,0
 Tillamook,20,State Treasurer,,R,Under Votes,21
 Tillamook,20,State Senate,16,R,Bob Horning,24
-Tillamook,20,State Senate,16,R,Write-in,2
+Tillamook,20,State Senate,16,R,Write-ins,2
 Tillamook,20,State Senate,16,R,Under Votes,23
 Tillamook,20,State House,32,R,Lew Barnes,23
-Tillamook,20,State House,32,R,Write-in,0
+Tillamook,20,State House,32,R,Write-ins,0
 Tillamook,20,State House,32,R,Under Votes,26
 Tillamook,21,U.S. Senate,,D,Pavel Goberman,8
 Tillamook,21,U.S. Senate,,D,Loren Hooker,21
 Tillamook,21,U.S. Senate,,D,Ron Wyden,368
-Tillamook,21,U.S. Senate,,D,Write-in,1
+Tillamook,21,U.S. Senate,,D,Write-ins,1
 Tillamook,21,U.S. Senate,,D,Under Votes,11
 Tillamook,21,U.S. House,5,D,Kurt Schrader,296
-Tillamook,21,U.S. House,5,D,Write-in,4
+Tillamook,21,U.S. House,5,D,Write-ins,4
 Tillamook,21,U.S. House,5,D,Under Votes,109
 Tillamook,21,Governor,,D,Roger Obrist,9
 Tillamook,21,Governor,,D,John Kitzhaber,271
 Tillamook,21,Governor,,D,Bill Bradbury,115
-Tillamook,21,Governor,,D,Write-in,4
+Tillamook,21,Governor,,D,Write-ins,4
 Tillamook,21,Governor,,D,Under Votes,10
 Tillamook,21,State Treasurer,,D,Rick Metsger,118
 Tillamook,21,State Treasurer,,D,Ted Wheeler,233
-Tillamook,21,State Treasurer,,D,Write-in,1
+Tillamook,21,State Treasurer,,D,Write-ins,1
 Tillamook,21,State Treasurer,,D,Under Votes,57
 Tillamook,21,State Senate,16,D,Betsy Johnson,310
-Tillamook,21,State Senate,16,D,Write-in,4
+Tillamook,21,State Senate,16,D,Write-ins,4
 Tillamook,21,State Senate,16,D,Under Votes,95
 Tillamook,21,State House,32,D,Deborah Boone,305
-Tillamook,21,State House,32,D,Write-in,3
+Tillamook,21,State House,32,D,Write-ins,3
 Tillamook,21,State House,32,D,Under Votes,101
 Tillamook,21,U.S. Senate,,R,Tom Stutzman,17
 Tillamook,21,U.S. Senate,,R,Robin Parker,7
@@ -868,11 +868,11 @@ Tillamook,21,U.S. Senate,,R,Shane Dinkel,20
 Tillamook,21,U.S. Senate,,R,Jim Huffman,76
 Tillamook,21,U.S. Senate,,R,Walter Woodland,2
 Tillamook,21,U.S. Senate,,R,Keith Waldron,14
-Tillamook,21,U.S. Senate,,R,Write-in,0
+Tillamook,21,U.S. Senate,,R,Write-ins,0
 Tillamook,21,U.S. Senate,,R,Under Votes,33
 Tillamook,21,U.S. House,5,R,Scott Bruun,87
 Tillamook,21,U.S. House,5,R,Fred Thompson,75
-Tillamook,21,U.S. House,5,R,Write-in,0
+Tillamook,21,U.S. House,5,R,Write-ins,0
 Tillamook,21,U.S. House,5,R,Under Votes,20
 Tillamook,21,Governor,,R,Bill Sizemore,9
 Tillamook,21,Governor,,R,John Lim,23
@@ -883,40 +883,40 @@ Tillamook,21,Governor,,R,Chris Dudley,97
 Tillamook,21,Governor,,R,Bob Forthan,0
 Tillamook,21,Governor,,R,Allen Alley,41
 Tillamook,21,Governor,,R,Rex Watkins,1
-Tillamook,21,Governor,,R,Write-in,1
-Tillamook,21,Governor,,R,overvote,0
+Tillamook,21,Governor,,R,Write-ins,1
+Tillamook,21,Governor,,R,Over Votes,0
 Tillamook,21,Governor,,R,Under Votes,2
 Tillamook,21,State Treasurer,,R,Chris Telfer,123
-Tillamook,21,State Treasurer,,R,Write-in,1
+Tillamook,21,State Treasurer,,R,Write-ins,1
 Tillamook,21,State Treasurer,,R,Under Votes,58
 Tillamook,21,State Senate,16,R,Bob Horning,113
-Tillamook,21,State Senate,16,R,Write-in,11
+Tillamook,21,State Senate,16,R,Write-ins,11
 Tillamook,21,State Senate,16,R,Under Votes,58
 Tillamook,21,State House,32,R,Lew Barnes,110
-Tillamook,21,State House,32,R,Write-in,1
+Tillamook,21,State House,32,R,Write-ins,1
 Tillamook,21,State House,32,R,Under Votes,71
 Tillamook,24,U.S. Senate,,D,Pavel Goberman,8
 Tillamook,24,U.S. Senate,,D,Loren Hooker,22
 Tillamook,24,U.S. Senate,,D,Ron Wyden,225
-Tillamook,24,U.S. Senate,,D,Write-in,3
+Tillamook,24,U.S. Senate,,D,Write-ins,3
 Tillamook,24,U.S. Senate,,D,Under Votes,6
 Tillamook,24,U.S. House,5,D,Kurt Schrader,184
-Tillamook,24,U.S. House,5,D,Write-in,5
+Tillamook,24,U.S. House,5,D,Write-ins,5
 Tillamook,24,U.S. House,5,D,Under Votes,75
 Tillamook,24,Governor,,D,Roger Obrist,18
 Tillamook,24,Governor,,D,John Kitzhaber,159
 Tillamook,24,Governor,,D,Bill Bradbury,76
-Tillamook,24,Governor,,D,Write-in,5
+Tillamook,24,Governor,,D,Write-ins,5
 Tillamook,24,Governor,,D,Under Votes,6
 Tillamook,24,State Treasurer,,D,Rick Metsger,93
 Tillamook,24,State Treasurer,,D,Ted Wheeler,124
-Tillamook,24,State Treasurer,,D,Write-in,1
+Tillamook,24,State Treasurer,,D,Write-ins,1
 Tillamook,24,State Treasurer,,D,Under Votes,40
 Tillamook,24,State Senate,16,D,Betsy Johnson,186
-Tillamook,24,State Senate,16,D,Write-in,4
+Tillamook,24,State Senate,16,D,Write-ins,4
 Tillamook,24,State Senate,16,D,Under Votes,74
 Tillamook,24,State House,32,D,Deborah Boone,195
-Tillamook,24,State House,32,D,Write-in,3
+Tillamook,24,State House,32,D,Write-ins,3
 Tillamook,24,State House,32,D,Under Votes,66
 Tillamook,24,U.S. Senate,,R,Tom Stutzman,7
 Tillamook,24,U.S. Senate,,R,Robin Parker,15
@@ -925,11 +925,11 @@ Tillamook,24,U.S. Senate,,R,Shane Dinkel,10
 Tillamook,24,U.S. Senate,,R,Jim Huffman,69
 Tillamook,24,U.S. Senate,,R,Walter Woodland,6
 Tillamook,24,U.S. Senate,,R,Keith Waldron,14
-Tillamook,24,U.S. Senate,,R,Write-in,0
+Tillamook,24,U.S. Senate,,R,Write-ins,0
 Tillamook,24,U.S. Senate,,R,Under Votes,41
 Tillamook,24,U.S. House,5,R,Scott Bruun,89
 Tillamook,24,U.S. House,5,R,Fred Thompson,67
-Tillamook,24,U.S. House,5,R,Write-in,0
+Tillamook,24,U.S. House,5,R,Write-ins,0
 Tillamook,24,U.S. House,5,R,Under Votes,21
 Tillamook,24,Governor,,R,Bill Sizemore,9
 Tillamook,24,Governor,,R,John Lim,28
@@ -940,40 +940,40 @@ Tillamook,24,Governor,,R,Chris Dudley,79
 Tillamook,24,Governor,,R,Bob Forthan,1
 Tillamook,24,Governor,,R,Allen Alley,44
 Tillamook,24,Governor,,R,Rex Watkins,2
-Tillamook,24,Governor,,R,Write-in,0
-Tillamook,24,Governor,,R,overvote,1
+Tillamook,24,Governor,,R,Write-ins,0
+Tillamook,24,Governor,,R,Over Votes,1
 Tillamook,24,Governor,,R,Under Votes,8
 Tillamook,24,State Treasurer,,R,Chris Telfer,107
-Tillamook,24,State Treasurer,,R,Write-in,1
+Tillamook,24,State Treasurer,,R,Write-ins,1
 Tillamook,24,State Treasurer,,R,Under Votes,69
 Tillamook,24,State Senate,16,R,Bob Horning,105
-Tillamook,24,State Senate,16,R,Write-in,1
+Tillamook,24,State Senate,16,R,Write-ins,1
 Tillamook,24,State Senate,16,R,Under Votes,71
 Tillamook,24,State House,32,R,Lew Barnes,103
-Tillamook,24,State House,32,R,Write-in,0
+Tillamook,24,State House,32,R,Write-ins,0
 Tillamook,24,State House,32,R,Under Votes,74
 Tillamook,26,U.S. Senate,,D,Pavel Goberman,2
 Tillamook,26,U.S. Senate,,D,Loren Hooker,14
 Tillamook,26,U.S. Senate,,D,Ron Wyden,110
-Tillamook,26,U.S. Senate,,D,Write-in,2
+Tillamook,26,U.S. Senate,,D,Write-ins,2
 Tillamook,26,U.S. Senate,,D,Under Votes,12
 Tillamook,26,U.S. House,5,D,Kurt Schrader,98
-Tillamook,26,U.S. House,5,D,Write-in,2
+Tillamook,26,U.S. House,5,D,Write-ins,2
 Tillamook,26,U.S. House,5,D,Under Votes,40
 Tillamook,26,Governor,,D,Roger Obrist,11
 Tillamook,26,Governor,,D,John Kitzhaber,89
 Tillamook,26,Governor,,D,Bill Bradbury,30
-Tillamook,26,Governor,,D,Write-in,6
+Tillamook,26,Governor,,D,Write-ins,6
 Tillamook,26,Governor,,D,Under Votes,4
 Tillamook,26,State Treasurer,,D,Rick Metsger,46
 Tillamook,26,State Treasurer,,D,Ted Wheeler,66
-Tillamook,26,State Treasurer,,D,Write-in,1
+Tillamook,26,State Treasurer,,D,Write-ins,1
 Tillamook,26,State Treasurer,,D,Under Votes,27
 Tillamook,26,State Senate,16,D,Betsy Johnson,103
-Tillamook,26,State Senate,16,D,Write-in,3
+Tillamook,26,State Senate,16,D,Write-ins,3
 Tillamook,26,State Senate,16,D,Under Votes,34
 Tillamook,26,State House,32,D,Deborah Boone,97
-Tillamook,26,State House,32,D,Write-in,3
+Tillamook,26,State House,32,D,Write-ins,3
 Tillamook,26,State House,32,D,Under Votes,40
 Tillamook,26,U.S. Senate,,R,Tom Stutzman,26
 Tillamook,26,U.S. Senate,,R,Robin Parker,3
@@ -982,12 +982,12 @@ Tillamook,26,U.S. Senate,,R,Shane Dinkel,15
 Tillamook,26,U.S. Senate,,R,Jim Huffman,50
 Tillamook,26,U.S. Senate,,R,Walter Woodland,5
 Tillamook,26,U.S. Senate,,R,Keith Waldron,19
-Tillamook,26,U.S. Senate,,R,Write-in,3
-Tillamook,26,U.S. Senate,,R,overvote,1
+Tillamook,26,U.S. Senate,,R,Write-ins,3
+Tillamook,26,U.S. Senate,,R,Over Votes,1
 Tillamook,26,U.S. Senate,,R,Under Votes,39
 Tillamook,26,U.S. House,5,R,Scott Bruun,83
 Tillamook,26,U.S. House,5,R,Fred Thompson,52
-Tillamook,26,U.S. House,5,R,Write-in,3
+Tillamook,26,U.S. House,5,R,Write-ins,3
 Tillamook,26,U.S. House,5,R,Under Votes,37
 Tillamook,26,Governor,,R,Bill Sizemore,4
 Tillamook,26,Governor,,R,John Lim,37
@@ -998,37 +998,37 @@ Tillamook,26,Governor,,R,Chris Dudley,73
 Tillamook,26,Governor,,R,Bob Forthan,0
 Tillamook,26,Governor,,R,Allen Alley,38
 Tillamook,26,Governor,,R,Rex Watkins,0
-Tillamook,26,Governor,,R,Write-in,1
-Tillamook,26,Governor,,R,overvote,0
+Tillamook,26,Governor,,R,Write-ins,1
+Tillamook,26,Governor,,R,Over Votes,0
 Tillamook,26,Governor,,R,Under Votes,11
 Tillamook,26,State Treasurer,,R,Chris Telfer,98
-Tillamook,26,State Treasurer,,R,Write-in,1
+Tillamook,26,State Treasurer,,R,Write-ins,1
 Tillamook,26,State Treasurer,,R,Under Votes,76
 Tillamook,26,State Senate,16,R,Bob Horning,96
-Tillamook,26,State Senate,16,R,Write-in,1
+Tillamook,26,State Senate,16,R,Write-ins,1
 Tillamook,26,State Senate,16,R,Under Votes,78
 Tillamook,26,State House,32,R,Lew Barnes,97
-Tillamook,26,State House,32,R,Write-in,0
+Tillamook,26,State House,32,R,Write-ins,0
 Tillamook,26,State House,32,R,Under Votes,78
 Tillamook,28,U.S. Senate,,D,Pavel Goberman,1
 Tillamook,28,U.S. Senate,,D,Loren Hooker,5
 Tillamook,28,U.S. Senate,,D,Ron Wyden,48
-Tillamook,28,U.S. Senate,,D,Write-in,0
+Tillamook,28,U.S. Senate,,D,Write-ins,0
 Tillamook,28,U.S. Senate,,D,Under Votes,2
 Tillamook,28,U.S. House,5,D,Kurt Schrader,38
-Tillamook,28,U.S. House,5,D,Write-in,1
+Tillamook,28,U.S. House,5,D,Write-ins,1
 Tillamook,28,U.S. House,5,D,Under Votes,17
 Tillamook,28,Governor,,D,Roger Obrist,3
 Tillamook,28,Governor,,D,John Kitzhaber,32
 Tillamook,28,Governor,,D,Bill Bradbury,15
-Tillamook,28,Governor,,D,Write-in,2
+Tillamook,28,Governor,,D,Write-ins,2
 Tillamook,28,Governor,,D,Under Votes,4
 Tillamook,28,State Treasurer,,D,Rick Metsger,20
 Tillamook,28,State Treasurer,,D,Ted Wheeler,30
-Tillamook,28,State Treasurer,,D,Write-in,0
+Tillamook,28,State Treasurer,,D,Write-ins,0
 Tillamook,28,State Treasurer,,D,Under Votes,6
 Tillamook,28,State Senate,16,D,Betsy Johnson,44
-Tillamook,28,State Senate,16,D,Write-in,1
+Tillamook,28,State Senate,16,D,Write-ins,1
 Tillamook,28,State Senate,16,D,Under Votes,11
 Tillamook,28,State House,32,D,Deborah Boone,43
 Tillamook,28,State House,32,D,Under Votes,13
@@ -1039,11 +1039,11 @@ Tillamook,28,U.S. Senate,,R,Shane Dinkel,1
 Tillamook,28,U.S. Senate,,R,Jim Huffman,10
 Tillamook,28,U.S. Senate,,R,Walter Woodland,2
 Tillamook,28,U.S. Senate,,R,Keith Waldron,9
-Tillamook,28,U.S. Senate,,R,Write-in,1
+Tillamook,28,U.S. Senate,,R,Write-ins,1
 Tillamook,28,U.S. Senate,,R,Under Votes,12
 Tillamook,28,U.S. House,5,R,Scott Bruun,14
 Tillamook,28,U.S. House,5,R,Fred Thompson,22
-Tillamook,28,U.S. House,5,R,Write-in,0
+Tillamook,28,U.S. House,5,R,Write-ins,0
 Tillamook,28,U.S. House,5,R,Under Votes,6
 Tillamook,28,Governor,,R,Bill Sizemore,4
 Tillamook,28,Governor,,R,John Lim,8
@@ -1054,40 +1054,40 @@ Tillamook,28,Governor,,R,Chris Dudley,19
 Tillamook,28,Governor,,R,Bob Forthan,1
 Tillamook,28,Governor,,R,Allen Alley,6
 Tillamook,28,Governor,,R,Rex Watkins,0
-Tillamook,28,Governor,,R,Write-in,0
-Tillamook,28,Governor,,R,overvote,0
+Tillamook,28,Governor,,R,Write-ins,0
+Tillamook,28,Governor,,R,Over Votes,0
 Tillamook,28,Governor,,R,Under Votes,3
 Tillamook,28,State Treasurer,,R,Chris Telfer,23
-Tillamook,28,State Treasurer,,R,Write-in,1
+Tillamook,28,State Treasurer,,R,Write-ins,1
 Tillamook,28,State Treasurer,,R,Under Votes,18
 Tillamook,28,State Senate,16,R,Bob Horning,23
-Tillamook,28,State Senate,16,R,Write-in,1
+Tillamook,28,State Senate,16,R,Write-ins,1
 Tillamook,28,State Senate,16,R,Under Votes,18
 Tillamook,28,State House,32,R,Lew Barnes,23
-Tillamook,28,State House,32,R,Write-in,0
+Tillamook,28,State House,32,R,Write-ins,0
 Tillamook,28,State House,32,R,Under Votes,19
 Tillamook,30,U.S. Senate,,D,Pavel Goberman,4
 Tillamook,30,U.S. Senate,,D,Loren Hooker,20
 Tillamook,30,U.S. Senate,,D,Ron Wyden,191
-Tillamook,30,U.S. Senate,,D,Write-in,4
+Tillamook,30,U.S. Senate,,D,Write-ins,4
 Tillamook,30,U.S. Senate,,D,Under Votes,9
 Tillamook,30,U.S. House,5,D,Kurt Schrader,153
-Tillamook,30,U.S. House,5,D,Write-in,2
+Tillamook,30,U.S. House,5,D,Write-ins,2
 Tillamook,30,U.S. House,5,D,Under Votes,73
 Tillamook,30,Governor,,D,Roger Obrist,15
 Tillamook,30,Governor,,D,John Kitzhaber,128
 Tillamook,30,Governor,,D,Bill Bradbury,70
-Tillamook,30,Governor,,D,Write-in,7
+Tillamook,30,Governor,,D,Write-ins,7
 Tillamook,30,Governor,,D,Under Votes,8
 Tillamook,30,State Treasurer,,D,Rick Metsger,81
 Tillamook,30,State Treasurer,,D,Ted Wheeler,96
-Tillamook,30,State Treasurer,,D,Write-in,2
+Tillamook,30,State Treasurer,,D,Write-ins,2
 Tillamook,30,State Treasurer,,D,Under Votes,49
 Tillamook,30,State Senate,16,D,Betsy Johnson,150
-Tillamook,30,State Senate,16,D,Write-in,4
+Tillamook,30,State Senate,16,D,Write-ins,4
 Tillamook,30,State Senate,16,D,Under Votes,74
 Tillamook,30,State House,32,D,Deborah Boone,153
-Tillamook,30,State House,32,D,Write-in,3
+Tillamook,30,State House,32,D,Write-ins,3
 Tillamook,30,State House,32,D,Under Votes,72
 Tillamook,30,U.S. Senate,,R,Tom Stutzman,26
 Tillamook,30,U.S. Senate,,R,Robin Parker,6
@@ -1096,11 +1096,11 @@ Tillamook,30,U.S. Senate,,R,Shane Dinkel,18
 Tillamook,30,U.S. Senate,,R,Jim Huffman,51
 Tillamook,30,U.S. Senate,,R,Walter Woodland,0
 Tillamook,30,U.S. Senate,,R,Keith Waldron,15
-Tillamook,30,U.S. Senate,,R,Write-in,5
+Tillamook,30,U.S. Senate,,R,Write-ins,5
 Tillamook,30,U.S. Senate,,R,Under Votes,40
 Tillamook,30,U.S. House,5,R,Scott Bruun,84
 Tillamook,30,U.S. House,5,R,Fred Thompson,61
-Tillamook,30,U.S. House,5,R,Write-in,1
+Tillamook,30,U.S. House,5,R,Write-ins,1
 Tillamook,30,U.S. House,5,R,Under Votes,32
 Tillamook,30,Governor,,R,Bill Sizemore,5
 Tillamook,30,Governor,,R,John Lim,14
@@ -1111,40 +1111,40 @@ Tillamook,30,Governor,,R,Chris Dudley,93
 Tillamook,30,Governor,,R,Bob Forthan,1
 Tillamook,30,Governor,,R,Allen Alley,44
 Tillamook,30,Governor,,R,Rex Watkins,1
-Tillamook,30,Governor,,R,Write-in,3
-Tillamook,30,Governor,,R,overvote,0
+Tillamook,30,Governor,,R,Write-ins,3
+Tillamook,30,Governor,,R,Over Votes,0
 Tillamook,30,Governor,,R,Under Votes,5
 Tillamook,30,State Treasurer,,R,Chris Telfer,111
-Tillamook,30,State Treasurer,,R,Write-in,3
+Tillamook,30,State Treasurer,,R,Write-ins,3
 Tillamook,30,State Treasurer,,R,Under Votes,64
 Tillamook,30,State Senate,16,R,Bob Horning,104
-Tillamook,30,State Senate,16,R,Write-in,9
+Tillamook,30,State Senate,16,R,Write-ins,9
 Tillamook,30,State Senate,16,R,Under Votes,65
 Tillamook,30,State House,32,R,Lew Barnes,105
-Tillamook,30,State House,32,R,Write-in,2
+Tillamook,30,State House,32,R,Write-ins,2
 Tillamook,30,State House,32,R,Under Votes,71
 Tillamook,32,U.S. Senate,,D,Pavel Goberman,0
 Tillamook,32,U.S. Senate,,D,Loren Hooker,5
 Tillamook,32,U.S. Senate,,D,Ron Wyden,61
-Tillamook,32,U.S. Senate,,D,Write-in,0
+Tillamook,32,U.S. Senate,,D,Write-ins,0
 Tillamook,32,U.S. Senate,,D,Under Votes,1
 Tillamook,32,U.S. House,5,D,Kurt Schrader,50
-Tillamook,32,U.S. House,5,D,Write-in,0
+Tillamook,32,U.S. House,5,D,Write-ins,0
 Tillamook,32,U.S. House,5,D,Under Votes,17
 Tillamook,32,Governor,,D,Roger Obrist,0
 Tillamook,32,Governor,,D,John Kitzhaber,46
 Tillamook,32,Governor,,D,Bill Bradbury,18
-Tillamook,32,Governor,,D,Write-in,0
+Tillamook,32,Governor,,D,Write-ins,0
 Tillamook,32,Governor,,D,Under Votes,3
 Tillamook,32,State Treasurer,,D,Rick Metsger,20
 Tillamook,32,State Treasurer,,D,Ted Wheeler,40
-Tillamook,32,State Treasurer,,D,Write-in,1
+Tillamook,32,State Treasurer,,D,Write-ins,1
 Tillamook,32,State Treasurer,,D,Under Votes,6
 Tillamook,32,State Senate,16,D,Betsy Johnson,49
-Tillamook,32,State Senate,16,D,Write-in,3
+Tillamook,32,State Senate,16,D,Write-ins,3
 Tillamook,32,State Senate,16,D,Under Votes,15
 Tillamook,32,State House,32,D,Deborah Boone,50
-Tillamook,32,State House,32,D,Write-in,1
+Tillamook,32,State House,32,D,Write-ins,1
 Tillamook,32,State House,32,D,Under Votes,16
 Tillamook,32,U.S. Senate,,R,Tom Stutzman,8
 Tillamook,32,U.S. Senate,,R,Robin Parker,1
@@ -1153,11 +1153,11 @@ Tillamook,32,U.S. Senate,,R,Shane Dinkel,2
 Tillamook,32,U.S. Senate,,R,Jim Huffman,13
 Tillamook,32,U.S. Senate,,R,Walter Woodland,0
 Tillamook,32,U.S. Senate,,R,Keith Waldron,7
-Tillamook,32,U.S. Senate,,R,Write-in,1
+Tillamook,32,U.S. Senate,,R,Write-ins,1
 Tillamook,32,U.S. Senate,,R,Under Votes,14
 Tillamook,32,U.S. House,5,R,Scott Bruun,18
 Tillamook,32,U.S. House,5,R,Fred Thompson,15
-Tillamook,32,U.S. House,5,R,Write-in,0
+Tillamook,32,U.S. House,5,R,Write-ins,0
 Tillamook,32,U.S. House,5,R,Under Votes,17
 Tillamook,32,Governor,,R,Bill Sizemore,1
 Tillamook,32,Governor,,R,John Lim,5
@@ -1168,40 +1168,40 @@ Tillamook,32,Governor,,R,Chris Dudley,23
 Tillamook,32,Governor,,R,Bob Forthan,0
 Tillamook,32,Governor,,R,Allen Alley,13
 Tillamook,32,Governor,,R,Rex Watkins,2
-Tillamook,32,Governor,,R,Write-in,0
-Tillamook,32,Governor,,R,overvote,0
+Tillamook,32,Governor,,R,Write-ins,0
+Tillamook,32,Governor,,R,Over Votes,0
 Tillamook,32,Governor,,R,Under Votes,3
 Tillamook,32,State Treasurer,,R,Chris Telfer,27
-Tillamook,32,State Treasurer,,R,Write-in,0
+Tillamook,32,State Treasurer,,R,Write-ins,0
 Tillamook,32,State Treasurer,,R,Under Votes,23
 Tillamook,32,State Senate,16,R,Bob Horning,26
-Tillamook,32,State Senate,16,R,Write-in,1
+Tillamook,32,State Senate,16,R,Write-ins,1
 Tillamook,32,State Senate,16,R,Under Votes,23
 Tillamook,32,State House,32,R,Lew Barnes,26
-Tillamook,32,State House,32,R,Write-in,0
+Tillamook,32,State House,32,R,Write-ins,0
 Tillamook,32,State House,32,R,Under Votes,24
 Tillamook,33,U.S. Senate,,D,Pavel Goberman,2
 Tillamook,33,U.S. Senate,,D,Loren Hooker,7
 Tillamook,33,U.S. Senate,,D,Ron Wyden,84
-Tillamook,33,U.S. Senate,,D,Write-in,2
+Tillamook,33,U.S. Senate,,D,Write-ins,2
 Tillamook,33,U.S. Senate,,D,Under Votes,3
 Tillamook,33,U.S. House,5,D,Kurt Schrader,61
-Tillamook,33,U.S. House,5,D,Write-in,1
+Tillamook,33,U.S. House,5,D,Write-ins,1
 Tillamook,33,U.S. House,5,D,Under Votes,36
 Tillamook,33,Governor,,D,Roger Obrist,2
 Tillamook,33,Governor,,D,John Kitzhaber,72
 Tillamook,33,Governor,,D,Bill Bradbury,22
-Tillamook,33,Governor,,D,Write-in,1
+Tillamook,33,Governor,,D,Write-ins,1
 Tillamook,33,Governor,,D,Under Votes,1
 Tillamook,33,State Treasurer,,D,Rick Metsger,31
 Tillamook,33,State Treasurer,,D,Ted Wheeler,54
-Tillamook,33,State Treasurer,,D,Write-in,0
+Tillamook,33,State Treasurer,,D,Write-ins,0
 Tillamook,33,State Treasurer,,D,Under Votes,13
 Tillamook,33,State Senate,16,D,Betsy Johnson,67
-Tillamook,33,State Senate,16,D,Write-in,2
+Tillamook,33,State Senate,16,D,Write-ins,2
 Tillamook,33,State Senate,16,D,Under Votes,29
 Tillamook,33,State House,32,D,Deborah Boone,72
-Tillamook,33,State House,32,D,Write-in,1
+Tillamook,33,State House,32,D,Write-ins,1
 Tillamook,33,State House,32,D,Under Votes,25
 Tillamook,33,U.S. Senate,,R,Tom Stutzman,3
 Tillamook,33,U.S. Senate,,R,Robin Parker,2
@@ -1210,11 +1210,11 @@ Tillamook,33,U.S. Senate,,R,Shane Dinkel,4
 Tillamook,33,U.S. Senate,,R,Jim Huffman,20
 Tillamook,33,U.S. Senate,,R,Walter Woodland,2
 Tillamook,33,U.S. Senate,,R,Keith Waldron,7
-Tillamook,33,U.S. Senate,,R,Write-in,0
+Tillamook,33,U.S. Senate,,R,Write-ins,0
 Tillamook,33,U.S. Senate,,R,Under Votes,11
 Tillamook,33,U.S. House,5,R,Scott Bruun,29
 Tillamook,33,U.S. House,5,R,Fred Thompson,10
-Tillamook,33,U.S. House,5,R,Write-in,0
+Tillamook,33,U.S. House,5,R,Write-ins,0
 Tillamook,33,U.S. House,5,R,Under Votes,13
 Tillamook,33,Governor,,R,Bill Sizemore,2
 Tillamook,33,Governor,,R,John Lim,4
@@ -1225,40 +1225,40 @@ Tillamook,33,Governor,,R,Chris Dudley,29
 Tillamook,33,Governor,,R,Bob Forthan,0
 Tillamook,33,Governor,,R,Allen Alley,10
 Tillamook,33,Governor,,R,Rex Watkins,0
-Tillamook,33,Governor,,R,Write-in,2
-Tillamook,33,Governor,,R,overvote,0
+Tillamook,33,Governor,,R,Write-ins,2
+Tillamook,33,Governor,,R,Over Votes,0
 Tillamook,33,Governor,,R,Under Votes,2
 Tillamook,33,State Treasurer,,R,Chris Telfer,30
-Tillamook,33,State Treasurer,,R,Write-in,0
+Tillamook,33,State Treasurer,,R,Write-ins,0
 Tillamook,33,State Treasurer,,R,Under Votes,22
 Tillamook,33,State Senate,16,R,Bob Horning,29
-Tillamook,33,State Senate,16,R,Write-in,0
+Tillamook,33,State Senate,16,R,Write-ins,0
 Tillamook,33,State Senate,16,R,Under Votes,23
 Tillamook,33,State House,32,R,Lew Barnes,28
-Tillamook,33,State House,32,R,Write-in,0
+Tillamook,33,State House,32,R,Write-ins,0
 Tillamook,33,State House,32,R,Under Votes,24
 Tillamook,35,U.S. Senate,,D,Pavel Goberman,10
 Tillamook,35,U.S. Senate,,D,Loren Hooker,9
 Tillamook,35,U.S. Senate,,D,Ron Wyden,77
-Tillamook,35,U.S. Senate,,D,Write-in,1
+Tillamook,35,U.S. Senate,,D,Write-ins,1
 Tillamook,35,U.S. Senate,,D,Under Votes,5
 Tillamook,35,U.S. House,5,D,Kurt Schrader,73
-Tillamook,35,U.S. House,5,D,Write-in,1
+Tillamook,35,U.S. House,5,D,Write-ins,1
 Tillamook,35,U.S. House,5,D,Under Votes,28
 Tillamook,35,Governor,,D,Roger Obrist,5
 Tillamook,35,Governor,,D,John Kitzhaber,65
 Tillamook,35,Governor,,D,Bill Bradbury,25
-Tillamook,35,Governor,,D,Write-in,1
+Tillamook,35,Governor,,D,Write-ins,1
 Tillamook,35,Governor,,D,Under Votes,6
 Tillamook,35,State Treasurer,,D,Rick Metsger,35
 Tillamook,35,State Treasurer,,D,Ted Wheeler,53
-Tillamook,35,State Treasurer,,D,Write-in,1
+Tillamook,35,State Treasurer,,D,Write-ins,1
 Tillamook,35,State Treasurer,,D,Under Votes,13
 Tillamook,35,State Senate,16,D,Betsy Johnson,89
-Tillamook,35,State Senate,16,D,Write-in,1
+Tillamook,35,State Senate,16,D,Write-ins,1
 Tillamook,35,State Senate,16,D,Under Votes,12
 Tillamook,35,State House,32,D,Deborah Boone,85
-Tillamook,35,State House,32,D,Write-in,1
+Tillamook,35,State House,32,D,Write-ins,1
 Tillamook,35,State House,32,D,Under Votes,16
 Tillamook,35,U.S. Senate,,R,Tom Stutzman,8
 Tillamook,35,U.S. Senate,,R,Robin Parker,8
@@ -1267,11 +1267,11 @@ Tillamook,35,U.S. Senate,,R,Shane Dinkel,6
 Tillamook,35,U.S. Senate,,R,Jim Huffman,15
 Tillamook,35,U.S. Senate,,R,Walter Woodland,0
 Tillamook,35,U.S. Senate,,R,Keith Waldron,9
-Tillamook,35,U.S. Senate,,R,Write-in,0
+Tillamook,35,U.S. Senate,,R,Write-ins,0
 Tillamook,35,U.S. Senate,,R,Under Votes,10
 Tillamook,35,U.S. House,5,R,Scott Bruun,33
 Tillamook,35,U.S. House,5,R,Fred Thompson,23
-Tillamook,35,U.S. House,5,R,Write-in,0
+Tillamook,35,U.S. House,5,R,Write-ins,0
 Tillamook,35,U.S. House,5,R,Under Votes,7
 Tillamook,35,Governor,,R,Bill Sizemore,4
 Tillamook,35,Governor,,R,John Lim,14
@@ -1282,40 +1282,40 @@ Tillamook,35,Governor,,R,Chris Dudley,27
 Tillamook,35,Governor,,R,Bob Forthan,1
 Tillamook,35,Governor,,R,Allen Alley,10
 Tillamook,35,Governor,,R,Rex Watkins,2
-Tillamook,35,Governor,,R,Write-in,0
-Tillamook,35,Governor,,R,overvote,0
+Tillamook,35,Governor,,R,Write-ins,0
+Tillamook,35,Governor,,R,Over Votes,0
 Tillamook,35,Governor,,R,Under Votes,1
 Tillamook,35,State Treasurer,,R,Chris Telfer,50
-Tillamook,35,State Treasurer,,R,Write-in,0
+Tillamook,35,State Treasurer,,R,Write-ins,0
 Tillamook,35,State Treasurer,,R,Under Votes,13
 Tillamook,35,State Senate,16,R,Bob Horning,42
-Tillamook,35,State Senate,16,R,Write-in,3
+Tillamook,35,State Senate,16,R,Write-ins,3
 Tillamook,35,State Senate,16,R,Under Votes,18
 Tillamook,35,State House,32,R,Lew Barnes,42
-Tillamook,35,State House,32,R,Write-in,2
+Tillamook,35,State House,32,R,Write-ins,2
 Tillamook,35,State House,32,R,Under Votes,19
 Tillamook,36,U.S. Senate,,D,Pavel Goberman,1
 Tillamook,36,U.S. Senate,,D,Loren Hooker,10
 Tillamook,36,U.S. Senate,,D,Ron Wyden,49
-Tillamook,36,U.S. Senate,,D,Write-in,0
+Tillamook,36,U.S. Senate,,D,Write-ins,0
 Tillamook,36,U.S. Senate,,D,Under Votes,0
 Tillamook,36,U.S. House,5,D,Kurt Schrader,42
-Tillamook,36,U.S. House,5,D,Write-in,0
+Tillamook,36,U.S. House,5,D,Write-ins,0
 Tillamook,36,U.S. House,5,D,Under Votes,18
 Tillamook,36,Governor,,D,Roger Obrist,2
 Tillamook,36,Governor,,D,John Kitzhaber,38
 Tillamook,36,Governor,,D,Bill Bradbury,16
-Tillamook,36,Governor,,D,Write-in,2
+Tillamook,36,Governor,,D,Write-ins,2
 Tillamook,36,Governor,,D,Under Votes,2
 Tillamook,36,State Treasurer,,D,Rick Metsger,20
 Tillamook,36,State Treasurer,,D,Ted Wheeler,31
-Tillamook,36,State Treasurer,,D,Write-in,0
+Tillamook,36,State Treasurer,,D,Write-ins,0
 Tillamook,36,State Treasurer,,D,Under Votes,9
 Tillamook,36,State Senate,16,D,Betsy Johnson,48
-Tillamook,36,State Senate,16,D,Write-in,0
+Tillamook,36,State Senate,16,D,Write-ins,0
 Tillamook,36,State Senate,16,D,Under Votes,12
 Tillamook,36,State House,32,D,Deborah Boone,49
-Tillamook,36,State House,32,D,Write-in,0
+Tillamook,36,State House,32,D,Write-ins,0
 Tillamook,36,State House,32,D,Under Votes,11
 Tillamook,36,U.S. Senate,,R,Tom Stutzman,8
 Tillamook,36,U.S. Senate,,R,Robin Parker,0
@@ -1324,12 +1324,12 @@ Tillamook,36,U.S. Senate,,R,Shane Dinkel,3
 Tillamook,36,U.S. Senate,,R,Jim Huffman,21
 Tillamook,36,U.S. Senate,,R,Walter Woodland,1
 Tillamook,36,U.S. Senate,,R,Keith Waldron,3
-Tillamook,36,U.S. Senate,,R,Write-in,0
-Tillamook,36,U.S. Senate,,R,overvote,0
+Tillamook,36,U.S. Senate,,R,Write-ins,0
+Tillamook,36,U.S. Senate,,R,Over Votes,0
 Tillamook,36,U.S. Senate,,R,Under Votes,20
 Tillamook,36,U.S. House,5,R,Scott Bruun,25
 Tillamook,36,U.S. House,5,R,Fred Thompson,21
-Tillamook,36,U.S. House,5,R,Write-in,0
+Tillamook,36,U.S. House,5,R,Write-ins,0
 Tillamook,36,U.S. House,5,R,Under Votes,15
 Tillamook,36,Governor,,R,Bill Sizemore,2
 Tillamook,36,Governor,,R,John Lim,5
@@ -1340,40 +1340,40 @@ Tillamook,36,Governor,,R,Chris Dudley,33
 Tillamook,36,Governor,,R,Bob Forthan,0
 Tillamook,36,Governor,,R,Allen Alley,13
 Tillamook,36,Governor,,R,Rex Watkins,0
-Tillamook,36,Governor,,R,Write-in,0
-Tillamook,36,Governor,,R,overvote,1
+Tillamook,36,Governor,,R,Write-ins,0
+Tillamook,36,Governor,,R,Over Votes,1
 Tillamook,36,Governor,,R,Under Votes,3
 Tillamook,36,State Treasurer,,R,Chris Telfer,40
-Tillamook,36,State Treasurer,,R,Write-in,1
+Tillamook,36,State Treasurer,,R,Write-ins,1
 Tillamook,36,State Treasurer,,R,Under Votes,20
 Tillamook,36,State Senate,16,R,Bob Horning,38
-Tillamook,36,State Senate,16,R,Write-in,2
+Tillamook,36,State Senate,16,R,Write-ins,2
 Tillamook,36,State Senate,16,R,Under Votes,21
 Tillamook,36,State House,32,R,Lew Barnes,36
-Tillamook,36,State House,32,R,Write-in,1
+Tillamook,36,State House,32,R,Write-ins,1
 Tillamook,36,State House,32,R,Under Votes,24
 Tillamook,37,U.S. Senate,,D,Pavel Goberman,2
 Tillamook,37,U.S. Senate,,D,Loren Hooker,8
 Tillamook,37,U.S. Senate,,D,Ron Wyden,64
-Tillamook,37,U.S. Senate,,D,Write-in,1
+Tillamook,37,U.S. Senate,,D,Write-ins,1
 Tillamook,37,U.S. Senate,,D,Under Votes,3
 Tillamook,37,U.S. House,5,D,Kurt Schrader,62
-Tillamook,37,U.S. House,5,D,Write-in,3
+Tillamook,37,U.S. House,5,D,Write-ins,3
 Tillamook,37,U.S. House,5,D,Under Votes,13
 Tillamook,37,Governor,,D,Roger Obrist,3
 Tillamook,37,Governor,,D,John Kitzhaber,47
 Tillamook,37,Governor,,D,Bill Bradbury,27
-Tillamook,37,Governor,,D,Write-in,0
+Tillamook,37,Governor,,D,Write-ins,0
 Tillamook,37,Governor,,D,Under Votes,1
 Tillamook,37,State Treasurer,,D,Rick Metsger,35
 Tillamook,37,State Treasurer,,D,Ted Wheeler,37
-Tillamook,37,State Treasurer,,D,Write-in,0
+Tillamook,37,State Treasurer,,D,Write-ins,0
 Tillamook,37,State Treasurer,,D,Under Votes,6
 Tillamook,37,State Senate,16,D,Betsy Johnson,64
-Tillamook,37,State Senate,16,D,Write-in,3
+Tillamook,37,State Senate,16,D,Write-ins,3
 Tillamook,37,State Senate,16,D,Under Votes,11
 Tillamook,37,State House,32,D,Deborah Boone,65
-Tillamook,37,State House,32,D,Write-in,3
+Tillamook,37,State House,32,D,Write-ins,3
 Tillamook,37,State House,32,D,Under Votes,10
 Tillamook,37,U.S. Senate,,R,Tom Stutzman,8
 Tillamook,37,U.S. Senate,,R,Robin Parker,1
@@ -1382,11 +1382,11 @@ Tillamook,37,U.S. Senate,,R,Shane Dinkel,3
 Tillamook,37,U.S. Senate,,R,Jim Huffman,18
 Tillamook,37,U.S. Senate,,R,Walter Woodland,0
 Tillamook,37,U.S. Senate,,R,Keith Waldron,6
-Tillamook,37,U.S. Senate,,R,Write-in,1
+Tillamook,37,U.S. Senate,,R,Write-ins,1
 Tillamook,37,U.S. Senate,,R,Under Votes,15
 Tillamook,37,U.S. House,5,R,Scott Bruun,29
 Tillamook,37,U.S. House,5,R,Fred Thompson,12
-Tillamook,37,U.S. House,5,R,Write-in,0
+Tillamook,37,U.S. House,5,R,Write-ins,0
 Tillamook,37,U.S. House,5,R,Under Votes,15
 Tillamook,37,Governor,,R,Bill Sizemore,2
 Tillamook,37,Governor,,R,John Lim,7
@@ -1397,40 +1397,40 @@ Tillamook,37,Governor,,R,Chris Dudley,27
 Tillamook,37,Governor,,R,Bob Forthan,0
 Tillamook,37,Governor,,R,Allen Alley,14
 Tillamook,37,Governor,,R,Rex Watkins,0
-Tillamook,37,Governor,,R,Write-in,0
-Tillamook,37,Governor,,R,overvote,0
+Tillamook,37,Governor,,R,Write-ins,0
+Tillamook,37,Governor,,R,Over Votes,0
 Tillamook,37,Governor,,R,Under Votes,3
 Tillamook,37,State Treasurer,,R,Chris Telfer,36
-Tillamook,37,State Treasurer,,R,Write-in,0
+Tillamook,37,State Treasurer,,R,Write-ins,0
 Tillamook,37,State Treasurer,,R,Under Votes,20
 Tillamook,37,State Senate,16,R,Bob Horning,31
-Tillamook,37,State Senate,16,R,Write-in,3
+Tillamook,37,State Senate,16,R,Write-ins,3
 Tillamook,37,State Senate,16,R,Under Votes,22
 Tillamook,37,State House,32,R,Lew Barnes,31
-Tillamook,37,State House,32,R,Write-in,2
+Tillamook,37,State House,32,R,Write-ins,2
 Tillamook,37,State House,32,R,Under Votes,23
 Tillamook,38,U.S. Senate,,D,Pavel Goberman,3
 Tillamook,38,U.S. Senate,,D,Loren Hooker,4
 Tillamook,38,U.S. Senate,,D,Ron Wyden,60
-Tillamook,38,U.S. Senate,,D,Write-in,0
+Tillamook,38,U.S. Senate,,D,Write-ins,0
 Tillamook,38,U.S. Senate,,D,Under Votes,6
 Tillamook,38,U.S. House,5,D,Kurt Schrader,49
-Tillamook,38,U.S. House,5,D,Write-in,0
+Tillamook,38,U.S. House,5,D,Write-ins,0
 Tillamook,38,U.S. House,5,D,Under Votes,24
 Tillamook,38,Governor,,D,Roger Obrist,5
 Tillamook,38,Governor,,D,John Kitzhaber,46
 Tillamook,38,Governor,,D,Bill Bradbury,18
-Tillamook,38,Governor,,D,Write-in,1
+Tillamook,38,Governor,,D,Write-ins,1
 Tillamook,38,Governor,,D,Under Votes,3
 Tillamook,38,State Treasurer,,D,Rick Metsger,28
 Tillamook,38,State Treasurer,,D,Ted Wheeler,38
-Tillamook,38,State Treasurer,,D,Write-in,0
+Tillamook,38,State Treasurer,,D,Write-ins,0
 Tillamook,38,State Treasurer,,D,Under Votes,7
 Tillamook,38,State Senate,16,D,Betsy Johnson,52
-Tillamook,38,State Senate,16,D,Write-in,0
+Tillamook,38,State Senate,16,D,Write-ins,0
 Tillamook,38,State Senate,16,D,Under Votes,21
 Tillamook,38,State House,32,D,Deborah Boone,55
-Tillamook,38,State House,32,D,Write-in,0
+Tillamook,38,State House,32,D,Write-ins,0
 Tillamook,38,State House,32,D,Under Votes,18
 Tillamook,38,U.S. Senate,,R,Tom Stutzman,7
 Tillamook,38,U.S. Senate,,R,Robin Parker,2
@@ -1439,11 +1439,11 @@ Tillamook,38,U.S. Senate,,R,Shane Dinkel,7
 Tillamook,38,U.S. Senate,,R,Jim Huffman,16
 Tillamook,38,U.S. Senate,,R,Walter Woodland,1
 Tillamook,38,U.S. Senate,,R,Keith Waldron,4
-Tillamook,38,U.S. Senate,,R,Write-in,2
+Tillamook,38,U.S. Senate,,R,Write-ins,2
 Tillamook,38,U.S. Senate,,R,Under Votes,4
 Tillamook,38,U.S. House,5,R,Scott Bruun,26
 Tillamook,38,U.S. House,5,R,Fred Thompson,18
-Tillamook,38,U.S. House,5,R,Write-in,0
+Tillamook,38,U.S. House,5,R,Write-ins,0
 Tillamook,38,U.S. House,5,R,Under Votes,4
 Tillamook,38,Governor,,R,Bill Sizemore,5
 Tillamook,38,Governor,,R,John Lim,13
@@ -1454,40 +1454,40 @@ Tillamook,38,Governor,,R,Chris Dudley,15
 Tillamook,38,Governor,,R,Bob Forthan,0
 Tillamook,38,Governor,,R,Allen Alley,9
 Tillamook,38,Governor,,R,Rex Watkins,0
-Tillamook,38,Governor,,R,Write-in,1
-Tillamook,38,Governor,,R,overvote,0
+Tillamook,38,Governor,,R,Write-ins,1
+Tillamook,38,Governor,,R,Over Votes,0
 Tillamook,38,Governor,,R,Under Votes,0
 Tillamook,38,State Treasurer,,R,Chris Telfer,30
-Tillamook,38,State Treasurer,,R,Write-in,1
+Tillamook,38,State Treasurer,,R,Write-ins,1
 Tillamook,38,State Treasurer,,R,Under Votes,17
 Tillamook,38,State Senate,16,R,Bob Horning,30
-Tillamook,38,State Senate,16,R,Write-in,2
+Tillamook,38,State Senate,16,R,Write-ins,2
 Tillamook,38,State Senate,16,R,Under Votes,16
 Tillamook,38,State House,32,R,Lew Barnes,30
-Tillamook,38,State House,32,R,Write-in,2
+Tillamook,38,State House,32,R,Write-ins,2
 Tillamook,38,State House,32,R,Under Votes,16
 Tillamook,39,U.S. Senate,,D,Pavel Goberman,1
 Tillamook,39,U.S. Senate,,D,Loren Hooker,4
 Tillamook,39,U.S. Senate,,D,Ron Wyden,48
-Tillamook,39,U.S. Senate,,D,Write-in,2
+Tillamook,39,U.S. Senate,,D,Write-ins,2
 Tillamook,39,U.S. Senate,,D,Under Votes,1
 Tillamook,39,U.S. House,5,D,Kurt Schrader,39
-Tillamook,39,U.S. House,5,D,Write-in,2
+Tillamook,39,U.S. House,5,D,Write-ins,2
 Tillamook,39,U.S. House,5,D,Under Votes,15
 Tillamook,39,Governor,,D,Roger Obrist,1
 Tillamook,39,Governor,,D,John Kitzhaber,29
 Tillamook,39,Governor,,D,Bill Bradbury,22
-Tillamook,39,Governor,,D,Write-in,3
+Tillamook,39,Governor,,D,Write-ins,3
 Tillamook,39,Governor,,D,Under Votes,1
 Tillamook,39,State Treasurer,,D,Rick Metsger,23
 Tillamook,39,State Treasurer,,D,Ted Wheeler,23
-Tillamook,39,State Treasurer,,D,Write-in,2
+Tillamook,39,State Treasurer,,D,Write-ins,2
 Tillamook,39,State Treasurer,,D,Under Votes,8
 Tillamook,39,State Senate,16,D,Betsy Johnson,44
-Tillamook,39,State Senate,16,D,Write-in,2
+Tillamook,39,State Senate,16,D,Write-ins,2
 Tillamook,39,State Senate,16,D,Under Votes,10
 Tillamook,39,State House,32,D,Deborah Boone,43
-Tillamook,39,State House,32,D,Write-in,1
+Tillamook,39,State House,32,D,Write-ins,1
 Tillamook,39,State House,32,D,Under Votes,12
 Tillamook,39,U.S. Senate,,R,Tom Stutzman,8
 Tillamook,39,U.S. Senate,,R,Robin Parker,2
@@ -1496,11 +1496,11 @@ Tillamook,39,U.S. Senate,,R,Shane Dinkel,2
 Tillamook,39,U.S. Senate,,R,Jim Huffman,11
 Tillamook,39,U.S. Senate,,R,Walter Woodland,1
 Tillamook,39,U.S. Senate,,R,Keith Waldron,4
-Tillamook,39,U.S. Senate,,R,Write-in,0
+Tillamook,39,U.S. Senate,,R,Write-ins,0
 Tillamook,39,U.S. Senate,,R,Under Votes,18
 Tillamook,39,U.S. House,5,R,Scott Bruun,15
 Tillamook,39,U.S. House,5,R,Fred Thompson,18
-Tillamook,39,U.S. House,5,R,Write-in,0
+Tillamook,39,U.S. House,5,R,Write-ins,0
 Tillamook,39,U.S. House,5,R,Under Votes,15
 Tillamook,39,Governor,,R,Bill Sizemore,3
 Tillamook,39,Governor,,R,John Lim,9
@@ -1511,40 +1511,40 @@ Tillamook,39,Governor,,R,Chris Dudley,19
 Tillamook,39,Governor,,R,Bob Forthan,0
 Tillamook,39,Governor,,R,Allen Alley,13
 Tillamook,39,Governor,,R,Rex Watkins,0
-Tillamook,39,Governor,,R,Write-in,0
-Tillamook,39,Governor,,R,overvote,0
+Tillamook,39,Governor,,R,Write-ins,0
+Tillamook,39,Governor,,R,Over Votes,0
 Tillamook,39,Governor,,R,Under Votes,2
 Tillamook,39,State Treasurer,,R,Chris Telfer,23
-Tillamook,39,State Treasurer,,R,Write-in,0
+Tillamook,39,State Treasurer,,R,Write-ins,0
 Tillamook,39,State Treasurer,,R,Under Votes,25
 Tillamook,39,State Senate,16,R,Bob Horning,24
-Tillamook,39,State Senate,16,R,Write-in,0
+Tillamook,39,State Senate,16,R,Write-ins,0
 Tillamook,39,State Senate,16,R,Under Votes,24
 Tillamook,39,State House,32,R,Lew Barnes,22
-Tillamook,39,State House,32,R,Write-in,0
+Tillamook,39,State House,32,R,Write-ins,0
 Tillamook,39,State House,32,R,Under Votes,26
 Tillamook,40,U.S. Senate,,D,Pavel Goberman,3
 Tillamook,40,U.S. Senate,,D,Loren Hooker,2
 Tillamook,40,U.S. Senate,,D,Ron Wyden,66
-Tillamook,40,U.S. Senate,,D,Write-in,1
+Tillamook,40,U.S. Senate,,D,Write-ins,1
 Tillamook,40,U.S. Senate,,D,Under Votes,3
 Tillamook,40,U.S. House,5,D,Kurt Schrader,53
-Tillamook,40,U.S. House,5,D,Write-in,0
+Tillamook,40,U.S. House,5,D,Write-ins,0
 Tillamook,40,U.S. House,5,D,Under Votes,22
 Tillamook,40,Governor,,D,Roger Obrist,4
 Tillamook,40,Governor,,D,John Kitzhaber,45
 Tillamook,40,Governor,,D,Bill Bradbury,21
-Tillamook,40,Governor,,D,Write-in,2
+Tillamook,40,Governor,,D,Write-ins,2
 Tillamook,40,Governor,,D,Under Votes,3
 Tillamook,40,State Treasurer,,D,Rick Metsger,35
 Tillamook,40,State Treasurer,,D,Ted Wheeler,32
-Tillamook,40,State Treasurer,,D,Write-in,0
+Tillamook,40,State Treasurer,,D,Write-ins,0
 Tillamook,40,State Treasurer,,D,Under Votes,8
 Tillamook,40,State Senate,16,D,Betsy Johnson,57
-Tillamook,40,State Senate,16,D,Write-in,2
+Tillamook,40,State Senate,16,D,Write-ins,2
 Tillamook,40,State Senate,16,D,Under Votes,16
 Tillamook,40,State House,32,D,Deborah Boone,59
-Tillamook,40,State House,32,D,Write-in,1
+Tillamook,40,State House,32,D,Write-ins,1
 Tillamook,40,State House,32,D,Under Votes,15
 Tillamook,40,U.S. Senate,,R,Tom Stutzman,6
 Tillamook,40,U.S. Senate,,R,Robin Parker,1
@@ -1553,11 +1553,11 @@ Tillamook,40,U.S. Senate,,R,Shane Dinkel,6
 Tillamook,40,U.S. Senate,,R,Jim Huffman,19
 Tillamook,40,U.S. Senate,,R,Walter Woodland,4
 Tillamook,40,U.S. Senate,,R,Keith Waldron,7
-Tillamook,40,U.S. Senate,,R,Write-in,2
+Tillamook,40,U.S. Senate,,R,Write-ins,2
 Tillamook,40,U.S. Senate,,R,Under Votes,12
 Tillamook,40,U.S. House,5,R,Scott Bruun,23
 Tillamook,40,U.S. House,5,R,Fred Thompson,27
-Tillamook,40,U.S. House,5,R,Write-in,0
+Tillamook,40,U.S. House,5,R,Write-ins,0
 Tillamook,40,U.S. House,5,R,Under Votes,16
 Tillamook,40,Governor,,R,Bill Sizemore,9
 Tillamook,40,Governor,,R,John Lim,9
@@ -1568,15 +1568,15 @@ Tillamook,40,Governor,,R,Chris Dudley,26
 Tillamook,40,Governor,,R,Bob Forthan,0
 Tillamook,40,Governor,,R,Allen Alley,11
 Tillamook,40,Governor,,R,Rex Watkins,0
-Tillamook,40,Governor,,R,Write-in,1
-Tillamook,40,Governor,,R,overvote,0
+Tillamook,40,Governor,,R,Write-ins,1
+Tillamook,40,Governor,,R,Over Votes,0
 Tillamook,40,Governor,,R,Under Votes,8
 Tillamook,40,State Treasurer,,R,Chris Telfer,39
-Tillamook,40,State Treasurer,,R,Write-in,5
+Tillamook,40,State Treasurer,,R,Write-ins,5
 Tillamook,40,State Treasurer,,R,Under Votes,22
 Tillamook,40,State Senate,16,R,Bob Horning,37
-Tillamook,40,State Senate,16,R,Write-in,5
+Tillamook,40,State Senate,16,R,Write-ins,5
 Tillamook,40,State Senate,16,R,Under Votes,24
 Tillamook,40,State House,32,R,Lew Barnes,45
-Tillamook,40,State House,32,R,Write-in,1
+Tillamook,40,State House,32,R,Write-ins,1
 Tillamook,40,State House,32,R,Under Votes,20
