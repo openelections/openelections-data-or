@@ -1,1 +1,746 @@
-county,precinct,office,district,party,candidate,votesYamhill,PRE001,President,,DEM,Barack Obama,807Yamhill,PRE002,President,,DEM,Barack Obama,1268Yamhill,PRE003,President,,DEM,Barack Obama,1540Yamhill,PRE004,President,,DEM,Barack Obama,1150Yamhill,PRE007,President,,DEM,Barack Obama,741Yamhill,PRE009,President,,DEM,Barack Obama,1169Yamhill,PRE010,President,,DEM,Barack Obama,877Yamhill,PRE012,President,,DEM,Barack Obama,957Yamhill,PRE013,President,,DEM,Barack Obama,955Yamhill,PRE014,President,,DEM,Barack Obama,973Yamhill,PRE015,President,,DEM,Barack Obama,964Yamhill,PRE016,President,,DEM,Barack Obama,696Yamhill,PRE017,President,,DEM,Barack Obama,963Yamhill,PRE018,President,,DEM,Barack Obama,1581Yamhill,PRE019,President,,DEM,Barack Obama,1275Yamhill,PRE020,President,,DEM,Barack Obama,737Yamhill,PRE021,President,,DEM,Barack Obama,740Yamhill,PRE022,President,,DEM,Barack Obama,759Yamhill,PRE026,President,,DEM,Barack Obama,623Yamhill,PRE027,President,,DEM,Barack Obama,166Yamhill,PRE028,President,,DEM,Barack Obama,319Yamhill,PRE001,President,,PGP,Jill Stein,9Yamhill,PRE002,President,,PGP,Jill Stein,21Yamhill,PRE003,President,,PGP,Jill Stein,23Yamhill,PRE004,President,,PGP,Jill Stein,19Yamhill,PRE007,President,,PGP,Jill Stein,15Yamhill,PRE009,President,,PGP,Jill Stein,14Yamhill,PRE010,President,,PGP,Jill Stein,8Yamhill,PRE012,President,,PGP,Jill Stein,28Yamhill,PRE013,President,,PGP,Jill Stein,18Yamhill,PRE014,President,,PGP,Jill Stein,14Yamhill,PRE015,President,,PGP,Jill Stein,13Yamhill,PRE016,President,,PGP,Jill Stein,11Yamhill,PRE017,President,,PGP,Jill Stein,12Yamhill,PRE018,President,,PGP,Jill Stein,22Yamhill,PRE019,President,,PGP,Jill Stein,27Yamhill,PRE020,President,,PGP,Jill Stein,14Yamhill,PRE021,President,,PGP,Jill Stein,24Yamhill,PRE022,President,,PGP,Jill Stein,13Yamhill,PRE026,President,,PGP,Jill Stein,12Yamhill,PRE027,President,,PGP,Jill Stein,17Yamhill,PRE028,President,,PGP,Jill Stein,9Yamhill,PRE001,President,,PRO,Rocky Anderson,0Yamhill,PRE002,President,,PRO,Rocky Anderson,3Yamhill,PRE003,President,,PRO,Rocky Anderson,6Yamhill,PRE004,President,,PRO,Rocky Anderson,1Yamhill,PRE007,President,,PRO,Rocky Anderson,3Yamhill,PRE009,President,,PRO,Rocky Anderson,5Yamhill,PRE010,President,,PRO,Rocky Anderson,1Yamhill,PRE012,President,,PRO,Rocky Anderson,5Yamhill,PRE013,President,,PRO,Rocky Anderson,4Yamhill,PRE014,President,,PRO,Rocky Anderson,4Yamhill,PRE015,President,,PRO,Rocky Anderson,2Yamhill,PRE016,President,,PRO,Rocky Anderson,0Yamhill,PRE017,President,,PRO,Rocky Anderson,3Yamhill,PRE018,President,,PRO,Rocky Anderson,4Yamhill,PRE019,President,,PRO,Rocky Anderson,6Yamhill,PRE020,President,,PRO,Rocky Anderson,1Yamhill,PRE021,President,,PRO,Rocky Anderson,2Yamhill,PRE022,President,,PRO,Rocky Anderson,2Yamhill,PRE026,President,,PRO,Rocky Anderson,3Yamhill,PRE027,President,,PRO,Rocky Anderson,2Yamhill,PRE028,President,,PRO,Rocky Anderson,4Yamhill,PRE001,President,,LBT,Gary Johnson,21Yamhill,PRE002,President,,LBT,Gary Johnson,57Yamhill,PRE003,President,,LBT,Gary Johnson,46Yamhill,PRE004,President,,LBT,Gary Johnson,47Yamhill,PRE007,President,,LBT,Gary Johnson,20Yamhill,PRE009,President,,LBT,Gary Johnson,34Yamhill,PRE010,President,,LBT,Gary Johnson,32Yamhill,PRE012,President,,LBT,Gary Johnson,45Yamhill,PRE013,President,,LBT,Gary Johnson,39Yamhill,PRE014,President,,LBT,Gary Johnson,24Yamhill,PRE015,President,,LBT,Gary Johnson,38Yamhill,PRE016,President,,LBT,Gary Johnson,16Yamhill,PRE017,President,,LBT,Gary Johnson,18Yamhill,PRE018,President,,LBT,Gary Johnson,31Yamhill,PRE019,President,,LBT,Gary Johnson,32Yamhill,PRE020,President,,LBT,Gary Johnson,26Yamhill,PRE021,President,,LBT,Gary Johnson,21Yamhill,PRE022,President,,LBT,Gary Johnson,33Yamhill,PRE026,President,,LBT,Gary Johnson,26Yamhill,PRE027,President,,LBT,Gary Johnson,12Yamhill,PRE028,President,,LBT,Gary Johnson,21Yamhill,PRE001,President,,REP,Mitt Romney,1138Yamhill,PRE002,President,,REP,Mitt Romney,1535Yamhill,PRE003,President,,REP,Mitt Romney,1932Yamhill,PRE004,President,,REP,Mitt Romney,1392Yamhill,PRE007,President,,REP,Mitt Romney,772Yamhill,PRE009,President,,REP,Mitt Romney,1498Yamhill,PRE010,President,,REP,Mitt Romney,997Yamhill,PRE012,President,,REP,Mitt Romney,1357Yamhill,PRE013,President,,REP,Mitt Romney,1411Yamhill,PRE014,President,,REP,Mitt Romney,840Yamhill,PRE015,President,,REP,Mitt Romney,820Yamhill,PRE016,President,,REP,Mitt Romney,658Yamhill,PRE017,President,,REP,Mitt Romney,879Yamhill,PRE018,President,,REP,Mitt Romney,1659Yamhill,PRE019,President,,REP,Mitt Romney,895Yamhill,PRE020,President,,REP,Mitt Romney,920Yamhill,PRE021,President,,REP,Mitt Romney,948Yamhill,PRE022,President,,REP,Mitt Romney,943Yamhill,PRE026,President,,REP,Mitt Romney,763Yamhill,PRE027,President,,REP,Mitt Romney,213Yamhill,PRE028,President,,REP,Mitt Romney,475Yamhill,PRE001,President,,CON,Will Christensen,5Yamhill,PRE002,President,,CON,Will Christensen,14Yamhill,PRE003,President,,CON,Will Christensen,7Yamhill,PRE004,President,,CON,Will Christensen,9Yamhill,PRE007,President,,CON,Will Christensen,8Yamhill,PRE009,President,,CON,Will Christensen,3Yamhill,PRE010,President,,CON,Will Christensen,9Yamhill,PRE012,President,,CON,Will Christensen,13Yamhill,PRE013,President,,CON,Will Christensen,5Yamhill,PRE014,President,,CON,Will Christensen,5Yamhill,PRE015,President,,CON,Will Christensen,4Yamhill,PRE016,President,,CON,Will Christensen,7Yamhill,PRE017,President,,CON,Will Christensen,2Yamhill,PRE018,President,,CON,Will Christensen,2Yamhill,PRE019,President,,CON,Will Christensen,8Yamhill,PRE020,President,,CON,Will Christensen,3Yamhill,PRE021,President,,CON,Will Christensen,5Yamhill,PRE022,President,,CON,Will Christensen,3Yamhill,PRE026,President,,CON,Will Christensen,9Yamhill,PRE027,President,,CON,Will Christensen,4Yamhill,PRE028,President,,CON,Will Christensen,3Yamhill,PRE001,President,,,Write-ins,12Yamhill,PRE002,President,,,Write-ins,34Yamhill,PRE003,President,,,Write-ins,32Yamhill,PRE004,President,,,Write-ins,25Yamhill,PRE007,President,,,Write-ins,13Yamhill,PRE009,President,,,Write-ins,14Yamhill,PRE010,President,,,Write-ins,22Yamhill,PRE012,President,,,Write-ins,23Yamhill,PRE013,President,,,Write-ins,28Yamhill,PRE014,President,,,Write-ins,20Yamhill,PRE015,President,,,Write-ins,24Yamhill,PRE016,President,,,Write-ins,16Yamhill,PRE017,President,,,Write-ins,24Yamhill,PRE018,President,,,Write-ins,19Yamhill,PRE019,President,,,Write-ins,29Yamhill,PRE020,President,,,Write-ins,16Yamhill,PRE021,President,,,Write-ins,14Yamhill,PRE022,President,,,Write-ins,20Yamhill,PRE026,President,,,Write-ins,21Yamhill,PRE027,President,,,Write-ins,6Yamhill,PRE028,President,,,Write-ins,19Yamhill,PRE001,U.S. House,1,CON,Bob Ekstrom,56Yamhill,PRE002,U.S. House,1,CON,Bob Ekstrom,100Yamhill,PRE003,U.S. House,1,CON,Bob Ekstrom,116Yamhill,PRE004,U.S. House,1,CON,Bob Ekstrom,86Yamhill,PRE007,U.S. House,1,CON,Bob Ekstrom,61Yamhill,PRE009,U.S. House,1,CON,Bob Ekstrom,78Yamhill,PRE010,U.S. House,1,CON,Bob Ekstrom,49Yamhill,PRE012,U.S. House,1,CON,Bob Ekstrom,75Yamhill,PRE013,U.S. House,1,CON,Bob Ekstrom,87Yamhill,PRE014,U.S. House,1,CON,Bob Ekstrom,49Yamhill,PRE015,U.S. House,1,CON,Bob Ekstrom,40Yamhill,PRE016,U.S. House,1,CON,Bob Ekstrom,37Yamhill,PRE017,U.S. House,1,CON,Bob Ekstrom,46Yamhill,PRE018,U.S. House,1,CON,Bob Ekstrom,60Yamhill,PRE019,U.S. House,1,CON,Bob Ekstrom,65Yamhill,PRE020,U.S. House,1,CON,Bob Ekstrom,37Yamhill,PRE021,U.S. House,1,CON,Bob Ekstrom,69Yamhill,PRE022,U.S. House,1,CON,Bob Ekstrom,74Yamhill,PRE026,U.S. House,1,CON,Bob Ekstrom,73Yamhill,PRE027,U.S. House,1,CON,Bob Ekstrom,26Yamhill,PRE028,U.S. House,1,CON,Bob Ekstrom,49Yamhill,PRE001,U.S. House,1,REP,Delinda Morgan,953Yamhill,PRE002,U.S. House,1,REP,Delinda Morgan,1230Yamhill,PRE003,U.S. House,1,REP,Delinda Morgan,1547Yamhill,PRE004,U.S. House,1,REP,Delinda Morgan,1100Yamhill,PRE007,U.S. House,1,REP,Delinda Morgan,628Yamhill,PRE009,U.S. House,1,REP,Delinda Morgan,1217Yamhill,PRE010,U.S. House,1,REP,Delinda Morgan,836Yamhill,PRE012,U.S. House,1,REP,Delinda Morgan,1088Yamhill,PRE013,U.S. House,1,REP,Delinda Morgan,1137Yamhill,PRE014,U.S. House,1,REP,Delinda Morgan,670Yamhill,PRE015,U.S. House,1,REP,Delinda Morgan,669Yamhill,PRE016,U.S. House,1,REP,Delinda Morgan,518Yamhill,PRE017,U.S. House,1,REP,Delinda Morgan,648Yamhill,PRE018,U.S. House,1,REP,Delinda Morgan,1358Yamhill,PRE019,U.S. House,1,REP,Delinda Morgan,710Yamhill,PRE020,U.S. House,1,REP,Delinda Morgan,751Yamhill,PRE021,U.S. House,1,REP,Delinda Morgan,726Yamhill,PRE022,U.S. House,1,REP,Delinda Morgan,747Yamhill,PRE026,U.S. House,1,REP,Delinda Morgan,561Yamhill,PRE027,U.S. House,1,REP,Delinda Morgan,160Yamhill,PRE028,U.S. House,1,REP,Delinda Morgan,361Yamhill,PRE001,U.S. House,1,DEM,Suzanne Bonamici,820Yamhill,PRE002,U.S. House,1,DEM,Suzanne Bonamici,1291Yamhill,PRE003,U.S. House,1,DEM,Suzanne Bonamici,1593Yamhill,PRE004,U.S. House,1,DEM,Suzanne Bonamici,1182Yamhill,PRE007,U.S. House,1,DEM,Suzanne Bonamici,729Yamhill,PRE009,U.S. House,1,DEM,Suzanne Bonamici,1199Yamhill,PRE010,U.S. House,1,DEM,Suzanne Bonamici,887Yamhill,PRE012,U.S. House,1,DEM,Suzanne Bonamici,1021Yamhill,PRE013,U.S. House,1,DEM,Suzanne Bonamici,1031Yamhill,PRE014,U.S. House,1,DEM,Suzanne Bonamici,982Yamhill,PRE015,U.S. House,1,DEM,Suzanne Bonamici,990Yamhill,PRE016,U.S. House,1,DEM,Suzanne Bonamici,734Yamhill,PRE017,U.S. House,1,DEM,Suzanne Bonamici,1043Yamhill,PRE018,U.S. House,1,DEM,Suzanne Bonamici,1667Yamhill,PRE019,U.S. House,1,DEM,Suzanne Bonamici,1285Yamhill,PRE020,U.S. House,1,DEM,Suzanne Bonamici,775Yamhill,PRE021,U.S. House,1,DEM,Suzanne Bonamici,777Yamhill,PRE022,U.S. House,1,DEM,Suzanne Bonamici,789Yamhill,PRE026,U.S. House,1,DEM,Suzanne Bonamici,681Yamhill,PRE027,U.S. House,1,DEM,Suzanne Bonamici,179Yamhill,PRE028,U.S. House,1,DEM,Suzanne Bonamici,348Yamhill,PRE001,U.S. House,1,PRO,Steven Reynolds,65Yamhill,PRE002,U.S. House,1,PRO,Steven Reynolds,118Yamhill,PRE003,U.S. House,1,PRO,Steven Reynolds,132Yamhill,PRE004,U.S. House,1,PRO,Steven Reynolds,98Yamhill,PRE007,U.S. House,1,PRO,Steven Reynolds,74Yamhill,PRE009,U.S. House,1,PRO,Steven Reynolds,113Yamhill,PRE010,U.S. House,1,PRO,Steven Reynolds,73Yamhill,PRE012,U.S. House,1,PRO,Steven Reynolds,130Yamhill,PRE013,U.S. House,1,PRO,Steven Reynolds,94Yamhill,PRE014,U.S. House,1,PRO,Steven Reynolds,73Yamhill,PRE015,U.S. House,1,PRO,Steven Reynolds,79Yamhill,PRE016,U.S. House,1,PRO,Steven Reynolds,48Yamhill,PRE017,U.S. House,1,PRO,Steven Reynolds,57Yamhill,PRE018,U.S. House,1,PRO,Steven Reynolds,109Yamhill,PRE019,U.S. House,1,PRO,Steven Reynolds,102Yamhill,PRE020,U.S. House,1,PRO,Steven Reynolds,68Yamhill,PRE021,U.S. House,1,PRO,Steven Reynolds,82Yamhill,PRE022,U.S. House,1,PRO,Steven Reynolds,73Yamhill,PRE026,U.S. House,1,PRO,Steven Reynolds,61Yamhill,PRE027,U.S. House,1,PRO,Steven Reynolds,30Yamhill,PRE028,U.S. House,1,PRO,Steven Reynolds,40Yamhill,PRE001,U.S. House,1,,Write-ins,4Yamhill,PRE002,U.S. House,1,,Write-ins,4Yamhill,PRE003,U.S. House,1,,Write-ins,7Yamhill,PRE004,U.S. House,1,,Write-ins,1Yamhill,PRE007,U.S. House,1,,Write-ins,3Yamhill,PRE009,U.S. House,1,,Write-ins,3Yamhill,PRE010,U.S. House,1,,Write-ins,2Yamhill,PRE012,U.S. House,1,,Write-ins,2Yamhill,PRE013,U.S. House,1,,Write-ins,4Yamhill,PRE014,U.S. House,1,,Write-ins,5Yamhill,PRE015,U.S. House,1,,Write-ins,4Yamhill,PRE016,U.S. House,1,,Write-ins,5Yamhill,PRE017,U.S. House,1,,Write-ins,3Yamhill,PRE018,U.S. House,1,,Write-ins,2Yamhill,PRE019,U.S. House,1,,Write-ins,3Yamhill,PRE020,U.S. House,1,,Write-ins,0Yamhill,PRE021,U.S. House,1,,Write-ins,2Yamhill,PRE022,U.S. House,1,,Write-ins,0Yamhill,PRE026,U.S. House,1,,Write-ins,2Yamhill,PRE027,U.S. House,1,,Write-ins,1Yamhill,PRE028,U.S. House,1,,Write-ins,3Yamhill,PRE001,Secretary of State,,PGP,Seth Woolley,20Yamhill,PRE002,Secretary of State,,PGP,Seth Woolley,63Yamhill,PRE003,Secretary of State,,PGP,Seth Woolley,76Yamhill,PRE004,Secretary of State,,PGP,Seth Woolley,56Yamhill,PRE007,Secretary of State,,PGP,Seth Woolley,34Yamhill,PRE009,Secretary of State,,PGP,Seth Woolley,46Yamhill,PRE010,Secretary of State,,PGP,Seth Woolley,31Yamhill,PRE012,Secretary of State,,PGP,Seth Woolley,59Yamhill,PRE013,Secretary of State,,PGP,Seth Woolley,46Yamhill,PRE014,Secretary of State,,PGP,Seth Woolley,34Yamhill,PRE015,Secretary of State,,PGP,Seth Woolley,45Yamhill,PRE016,Secretary of State,,PGP,Seth Woolley,30Yamhill,PRE017,Secretary of State,,PGP,Seth Woolley,37Yamhill,PRE018,Secretary of State,,PGP,Seth Woolley,47Yamhill,PRE019,Secretary of State,,PGP,Seth Woolley,73Yamhill,PRE020,Secretary of State,,PGP,Seth Woolley,34Yamhill,PRE021,Secretary of State,,PGP,Seth Woolley,48Yamhill,PRE022,Secretary of State,,PGP,Seth Woolley,39Yamhill,PRE026,Secretary of State,,PGP,Seth Woolley,36Yamhill,PRE027,Secretary of State,,PGP,Seth Woolley,13Yamhill,PRE028,Secretary of State,,PGP,Seth Woolley,20Yamhill,PRE001,Secretary of State,,PRO,Robert Wolfe,29Yamhill,PRE002,Secretary of State,,PRO,Robert Wolfe,40Yamhill,PRE003,Secretary of State,,PRO,Robert Wolfe,40Yamhill,PRE004,Secretary of State,,PRO,Robert Wolfe,39Yamhill,PRE007,Secretary of State,,PRO,Robert Wolfe,13Yamhill,PRE009,Secretary of State,,PRO,Robert Wolfe,36Yamhill,PRE010,Secretary of State,,PRO,Robert Wolfe,22Yamhill,PRE012,Secretary of State,,PRO,Robert Wolfe,27Yamhill,PRE013,Secretary of State,,PRO,Robert Wolfe,46Yamhill,PRE014,Secretary of State,,PRO,Robert Wolfe,20Yamhill,PRE015,Secretary of State,,PRO,Robert Wolfe,17Yamhill,PRE016,Secretary of State,,PRO,Robert Wolfe,11Yamhill,PRE017,Secretary of State,,PRO,Robert Wolfe,20Yamhill,PRE018,Secretary of State,,PRO,Robert Wolfe,27Yamhill,PRE019,Secretary of State,,PRO,Robert Wolfe,35Yamhill,PRE020,Secretary of State,,PRO,Robert Wolfe,13Yamhill,PRE021,Secretary of State,,PRO,Robert Wolfe,31Yamhill,PRE022,Secretary of State,,PRO,Robert Wolfe,17Yamhill,PRE026,Secretary of State,,PRO,Robert Wolfe,20Yamhill,PRE027,Secretary of State,,PRO,Robert Wolfe,8Yamhill,PRE028,Secretary of State,,PRO,Robert Wolfe,9Yamhill,PRE001,Secretary of State,,LBT,Bruce Alexander Knight,25Yamhill,PRE002,Secretary of State,,LBT,Bruce Alexander Knight,62Yamhill,PRE003,Secretary of State,,LBT,Bruce Alexander Knight,40Yamhill,PRE004,Secretary of State,,LBT,Bruce Alexander Knight,49Yamhill,PRE007,Secretary of State,,LBT,Bruce Alexander Knight,16Yamhill,PRE009,Secretary of State,,LBT,Bruce Alexander Knight,29Yamhill,PRE010,Secretary of State,,LBT,Bruce Alexander Knight,29Yamhill,PRE012,Secretary of State,,LBT,Bruce Alexander Knight,51Yamhill,PRE013,Secretary of State,,LBT,Bruce Alexander Knight,33Yamhill,PRE014,Secretary of State,,LBT,Bruce Alexander Knight,27Yamhill,PRE015,Secretary of State,,LBT,Bruce Alexander Knight,27Yamhill,PRE016,Secretary of State,,LBT,Bruce Alexander Knight,16Yamhill,PRE017,Secretary of State,,LBT,Bruce Alexander Knight,22Yamhill,PRE018,Secretary of State,,LBT,Bruce Alexander Knight,28Yamhill,PRE019,Secretary of State,,LBT,Bruce Alexander Knight,40Yamhill,PRE020,Secretary of State,,LBT,Bruce Alexander Knight,27Yamhill,PRE021,Secretary of State,,LBT,Bruce Alexander Knight,33Yamhill,PRE022,Secretary of State,,LBT,Bruce Alexander Knight,36Yamhill,PRE026,Secretary of State,,LBT,Bruce Alexander Knight,19Yamhill,PRE027,Secretary of State,,LBT,Bruce Alexander Knight,13Yamhill,PRE028,Secretary of State,,LBT,Bruce Alexander Knight,26Yamhill,PRE001,Secretary of State,,DEM,Kate Brown,697Yamhill,PRE002,Secretary of State,,DEM,Kate Brown,1149Yamhill,PRE003,Secretary of State,,DEM,Kate Brown,1403Yamhill,PRE004,Secretary of State,,DEM,Kate Brown,1006Yamhill,PRE007,Secretary of State,,DEM,Kate Brown,658Yamhill,PRE009,Secretary of State,,DEM,Kate Brown,1031Yamhill,PRE010,Secretary of State,,DEM,Kate Brown,822Yamhill,PRE012,Secretary of State,,DEM,Kate Brown,928Yamhill,PRE013,Secretary of State,,DEM,Kate Brown,920Yamhill,PRE014,Secretary of State,,DEM,Kate Brown,914Yamhill,PRE015,Secretary of State,,DEM,Kate Brown,900Yamhill,PRE016,Secretary of State,,DEM,Kate Brown,696Yamhill,PRE017,Secretary of State,,DEM,Kate Brown,906Yamhill,PRE018,Secretary of State,,DEM,Kate Brown,1464Yamhill,PRE019,Secretary of State,,DEM,Kate Brown,1190Yamhill,PRE020,Secretary of State,,DEM,Kate Brown,656Yamhill,PRE021,Secretary of State,,DEM,Kate Brown,704Yamhill,PRE022,Secretary of State,,DEM,Kate Brown,720Yamhill,PRE026,Secretary of State,,DEM,Kate Brown,618Yamhill,PRE027,Secretary of State,,DEM,Kate Brown,178Yamhill,PRE028,Secretary of State,,DEM,Kate Brown,325Yamhill,PRE001,Secretary of State,,REP,Knute Buehler,1124Yamhill,PRE002,Secretary of State,,REP,Knute Buehler,1421Yamhill,PRE003,Secretary of State,,REP,Knute Buehler,1819Yamhill,PRE004,Secretary of State,,REP,Knute Buehler,1316Yamhill,PRE007,Secretary of State,,REP,Knute Buehler,772Yamhill,PRE009,Secretary of State,,REP,Knute Buehler,1471Yamhill,PRE010,Secretary of State,,REP,Knute Buehler,940Yamhill,PRE012,Secretary of State,,REP,Knute Buehler,1233Yamhill,PRE013,Secretary of State,,REP,Knute Buehler,1280Yamhill,PRE014,Secretary of State,,REP,Knute Buehler,782Yamhill,PRE015,Secretary of State,,REP,Knute Buehler,782Yamhill,PRE016,Secretary of State,,REP,Knute Buehler,584Yamhill,PRE017,Secretary of State,,REP,Knute Buehler,789Yamhill,PRE018,Secretary of State,,REP,Knute Buehler,1624Yamhill,PRE019,Secretary of State,,REP,Knute Buehler,800Yamhill,PRE020,Secretary of State,,REP,Knute Buehler,907Yamhill,PRE021,Secretary of State,,REP,Knute Buehler,824Yamhill,PRE022,Secretary of State,,REP,Knute Buehler,866Yamhill,PRE026,Secretary of State,,REP,Knute Buehler,678Yamhill,PRE027,Secretary of State,,REP,Knute Buehler,184Yamhill,PRE028,Secretary of State,,REP,Knute Buehler,428Yamhill,PRE001,Secretary of State,,,Write-ins,2Yamhill,PRE002,Secretary of State,,,Write-ins,2Yamhill,PRE003,Secretary of State,,,Write-ins,2Yamhill,PRE004,Secretary of State,,,Write-ins,5Yamhill,PRE007,Secretary of State,,,Write-ins,3Yamhill,PRE009,Secretary of State,,,Write-ins,1Yamhill,PRE010,Secretary of State,,,Write-ins,6Yamhill,PRE012,Secretary of State,,,Write-ins,6Yamhill,PRE013,Secretary of State,,,Write-ins,4Yamhill,PRE014,Secretary of State,,,Write-ins,2Yamhill,PRE015,Secretary of State,,,Write-ins,1Yamhill,PRE016,Secretary of State,,,Write-ins,3Yamhill,PRE017,Secretary of State,,,Write-ins,5Yamhill,PRE018,Secretary of State,,,Write-ins,2Yamhill,PRE019,Secretary of State,,,Write-ins,2Yamhill,PRE020,Secretary of State,,,Write-ins,0Yamhill,PRE021,Secretary of State,,,Write-ins,1Yamhill,PRE022,Secretary of State,,,Write-ins,2Yamhill,PRE026,Secretary of State,,,Write-ins,2Yamhill,PRE027,Secretary of State,,,Write-ins,0Yamhill,PRE028,Secretary of State,,,Write-ins,3Yamhill,PRE001,State Treasurer,,DEM,Ted Wheeler,852Yamhill,PRE002,State Treasurer,,DEM,Ted Wheeler,1255Yamhill,PRE003,State Treasurer,,DEM,Ted Wheeler,1587Yamhill,PRE004,State Treasurer,,DEM,Ted Wheeler,1152Yamhill,PRE007,State Treasurer,,DEM,Ted Wheeler,762Yamhill,PRE009,State Treasurer,,DEM,Ted Wheeler,1209Yamhill,PRE010,State Treasurer,,DEM,Ted Wheeler,879Yamhill,PRE012,State Treasurer,,DEM,Ted Wheeler,1034Yamhill,PRE013,State Treasurer,,DEM,Ted Wheeler,1035Yamhill,PRE014,State Treasurer,,DEM,Ted Wheeler,987Yamhill,PRE015,State Treasurer,,DEM,Ted Wheeler,983Yamhill,PRE016,State Treasurer,,DEM,Ted Wheeler,750Yamhill,PRE017,State Treasurer,,DEM,Ted Wheeler,1008Yamhill,PRE018,State Treasurer,,DEM,Ted Wheeler,1688Yamhill,PRE019,State Treasurer,,DEM,Ted Wheeler,1286Yamhill,PRE020,State Treasurer,,DEM,Ted Wheeler,758Yamhill,PRE021,State Treasurer,,DEM,Ted Wheeler,775Yamhill,PRE022,State Treasurer,,DEM,Ted Wheeler,790Yamhill,PRE026,State Treasurer,,DEM,Ted Wheeler,679Yamhill,PRE027,State Treasurer,,DEM,Ted Wheeler,180Yamhill,PRE028,State Treasurer,,DEM,Ted Wheeler,340Yamhill,PRE001,State Treasurer,,PRO,Cameron Whitten,19Yamhill,PRE002,State Treasurer,,PRO,Cameron Whitten,70Yamhill,PRE003,State Treasurer,,PRO,Cameron Whitten,74Yamhill,PRE004,State Treasurer,,PRO,Cameron Whitten,50Yamhill,PRE007,State Treasurer,,PRO,Cameron Whitten,24Yamhill,PRE009,State Treasurer,,PRO,Cameron Whitten,52Yamhill,PRE010,State Treasurer,,PRO,Cameron Whitten,43Yamhill,PRE012,State Treasurer,,PRO,Cameron Whitten,55Yamhill,PRE013,State Treasurer,,PRO,Cameron Whitten,47Yamhill,PRE014,State Treasurer,,PRO,Cameron Whitten,46Yamhill,PRE015,State Treasurer,,PRO,Cameron Whitten,49Yamhill,PRE016,State Treasurer,,PRO,Cameron Whitten,40Yamhill,PRE017,State Treasurer,,PRO,Cameron Whitten,32Yamhill,PRE018,State Treasurer,,PRO,Cameron Whitten,30Yamhill,PRE019,State Treasurer,,PRO,Cameron Whitten,65Yamhill,PRE020,State Treasurer,,PRO,Cameron Whitten,31Yamhill,PRE021,State Treasurer,,PRO,Cameron Whitten,39Yamhill,PRE022,State Treasurer,,PRO,Cameron Whitten,41Yamhill,PRE026,State Treasurer,,PRO,Cameron Whitten,30Yamhill,PRE027,State Treasurer,,PRO,Cameron Whitten,19Yamhill,PRE028,State Treasurer,,PRO,Cameron Whitten,22Yamhill,PRE001,State Treasurer,,LBT,John F. Mahler,27Yamhill,PRE002,State Treasurer,,LBT,John F. Mahler,61Yamhill,PRE003,State Treasurer,,LBT,John F. Mahler,44Yamhill,PRE004,State Treasurer,,LBT,John F. Mahler,45Yamhill,PRE007,State Treasurer,,LBT,John F. Mahler,20Yamhill,PRE009,State Treasurer,,LBT,John F. Mahler,40Yamhill,PRE010,State Treasurer,,LBT,John F. Mahler,38Yamhill,PRE012,State Treasurer,,LBT,John F. Mahler,60Yamhill,PRE013,State Treasurer,,LBT,John F. Mahler,40Yamhill,PRE014,State Treasurer,,LBT,John F. Mahler,26Yamhill,PRE015,State Treasurer,,LBT,John F. Mahler,30Yamhill,PRE016,State Treasurer,,LBT,John F. Mahler,18Yamhill,PRE017,State Treasurer,,LBT,John F. Mahler,26Yamhill,PRE018,State Treasurer,,LBT,John F. Mahler,40Yamhill,PRE019,State Treasurer,,LBT,John F. Mahler,41Yamhill,PRE020,State Treasurer,,LBT,John F. Mahler,26Yamhill,PRE021,State Treasurer,,LBT,John F. Mahler,36Yamhill,PRE022,State Treasurer,,LBT,John F. Mahler,52Yamhill,PRE026,State Treasurer,,LBT,John F. Mahler,17Yamhill,PRE027,State Treasurer,,LBT,John F. Mahler,18Yamhill,PRE028,State Treasurer,,LBT,John F. Mahler,28Yamhill,PRE001,State Treasurer,,CON,Michael Paul Marsh,17Yamhill,PRE002,State Treasurer,,CON,Michael Paul Marsh,46Yamhill,PRE003,State Treasurer,,CON,Michael Paul Marsh,34Yamhill,PRE004,State Treasurer,,CON,Michael Paul Marsh,35Yamhill,PRE007,State Treasurer,,CON,Michael Paul Marsh,22Yamhill,PRE009,State Treasurer,,CON,Michael Paul Marsh,26Yamhill,PRE010,State Treasurer,,CON,Michael Paul Marsh,20Yamhill,PRE012,State Treasurer,,CON,Michael Paul Marsh,29Yamhill,PRE013,State Treasurer,,CON,Michael Paul Marsh,35Yamhill,PRE014,State Treasurer,,CON,Michael Paul Marsh,32Yamhill,PRE015,State Treasurer,,CON,Michael Paul Marsh,13Yamhill,PRE016,State Treasurer,,CON,Michael Paul Marsh,15Yamhill,PRE017,State Treasurer,,CON,Michael Paul Marsh,25Yamhill,PRE018,State Treasurer,,CON,Michael Paul Marsh,18Yamhill,PRE019,State Treasurer,,CON,Michael Paul Marsh,32Yamhill,PRE020,State Treasurer,,CON,Michael Paul Marsh,23Yamhill,PRE021,State Treasurer,,CON,Michael Paul Marsh,23Yamhill,PRE022,State Treasurer,,CON,Michael Paul Marsh,29Yamhill,PRE026,State Treasurer,,CON,Michael Paul Marsh,20Yamhill,PRE027,State Treasurer,,CON,Michael Paul Marsh,11Yamhill,PRE028,State Treasurer,,CON,Michael Paul Marsh,18Yamhill,PRE001,State Treasurer,,REP,Tom Cox,957Yamhill,PRE002,State Treasurer,,REP,Tom Cox,1280Yamhill,PRE003,State Treasurer,,REP,Tom Cox,1586Yamhill,PRE004,State Treasurer,,REP,Tom Cox,1154Yamhill,PRE007,State Treasurer,,REP,Tom Cox,649Yamhill,PRE009,State Treasurer,,REP,Tom Cox,1251Yamhill,PRE010,State Treasurer,,REP,Tom Cox,818Yamhill,PRE012,State Treasurer,,REP,Tom Cox,1098Yamhill,PRE013,State Treasurer,,REP,Tom Cox,1124Yamhill,PRE014,State Treasurer,,REP,Tom Cox,666Yamhill,PRE015,State Treasurer,,REP,Tom Cox,671Yamhill,PRE016,State Treasurer,,REP,Tom Cox,494Yamhill,PRE017,State Treasurer,,REP,Tom Cox,659Yamhill,PRE018,State Treasurer,,REP,Tom Cox,1368Yamhill,PRE019,State Treasurer,,REP,Tom Cox,694Yamhill,PRE020,State Treasurer,,REP,Tom Cox,774Yamhill,PRE021,State Treasurer,,REP,Tom Cox,759Yamhill,PRE022,State Treasurer,,REP,Tom Cox,754Yamhill,PRE026,State Treasurer,,REP,Tom Cox,616Yamhill,PRE027,State Treasurer,,REP,Tom Cox,164Yamhill,PRE028,State Treasurer,,REP,Tom Cox,386Yamhill,PRE001,State Treasurer,,,Write-ins,4Yamhill,PRE002,State Treasurer,,,Write-ins,1Yamhill,PRE003,State Treasurer,,,Write-ins,2Yamhill,PRE004,State Treasurer,,,Write-ins,4Yamhill,PRE007,State Treasurer,,,Write-ins,3Yamhill,PRE009,State Treasurer,,,Write-ins,2Yamhill,PRE010,State Treasurer,,,Write-ins,2Yamhill,PRE012,State Treasurer,,,Write-ins,5Yamhill,PRE013,State Treasurer,,,Write-ins,4Yamhill,PRE014,State Treasurer,,,Write-ins,2Yamhill,PRE015,State Treasurer,,,Write-ins,1Yamhill,PRE016,State Treasurer,,,Write-ins,2Yamhill,PRE017,State Treasurer,,,Write-ins,4Yamhill,PRE018,State Treasurer,,,Write-ins,2Yamhill,PRE019,State Treasurer,,,Write-ins,2Yamhill,PRE020,State Treasurer,,,Write-ins,0Yamhill,PRE021,State Treasurer,,,Write-ins,3Yamhill,PRE022,State Treasurer,,,Write-ins,0Yamhill,PRE026,State Treasurer,,,Write-ins,0Yamhill,PRE027,State Treasurer,,,Write-ins,0Yamhill,PRE028,State Treasurer,,,Write-ins,1Yamhill,PRE001,Attorney General,,PRO,Chris Henry,16Yamhill,PRE002,Attorney General,,PRO,Chris Henry,37Yamhill,PRE003,Attorney General,,PRO,Chris Henry,41Yamhill,PRE004,Attorney General,,PRO,Chris Henry,43Yamhill,PRE007,Attorney General,,PRO,Chris Henry,22Yamhill,PRE009,Attorney General,,PRO,Chris Henry,33Yamhill,PRE010,Attorney General,,PRO,Chris Henry,25Yamhill,PRE012,Attorney General,,PRO,Chris Henry,49Yamhill,PRE013,Attorney General,,PRO,Chris Henry,27Yamhill,PRE014,Attorney General,,PRO,Chris Henry,25Yamhill,PRE015,Attorney General,,PRO,Chris Henry,22Yamhill,PRE016,Attorney General,,PRO,Chris Henry,18Yamhill,PRE017,Attorney General,,PRO,Chris Henry,30Yamhill,PRE018,Attorney General,,PRO,Chris Henry,35Yamhill,PRE019,Attorney General,,PRO,Chris Henry,42Yamhill,PRE020,Attorney General,,PRO,Chris Henry,13Yamhill,PRE021,Attorney General,,PRO,Chris Henry,28Yamhill,PRE022,Attorney General,,PRO,Chris Henry,33Yamhill,PRE026,Attorney General,,PRO,Chris Henry,28Yamhill,PRE027,Attorney General,,PRO,Chris Henry,10Yamhill,PRE028,Attorney General,,PRO,Chris Henry,21Yamhill,PRE001,Attorney General,,REP,James L. Buchal,1044Yamhill,PRE002,Attorney General,,REP,James L. Buchal,1334Yamhill,PRE003,Attorney General,,REP,James L. Buchal,1685Yamhill,PRE004,Attorney General,,REP,James L. Buchal,1200Yamhill,PRE007,Attorney General,,REP,James L. Buchal,703Yamhill,PRE009,Attorney General,,REP,James L. Buchal,1348Yamhill,PRE010,Attorney General,,REP,James L. Buchal,870Yamhill,PRE012,Attorney General,,REP,James L. Buchal,1162Yamhill,PRE013,Attorney General,,REP,James L. Buchal,1198Yamhill,PRE014,Attorney General,,REP,James L. Buchal,725Yamhill,PRE015,Attorney General,,REP,James L. Buchal,722Yamhill,PRE016,Attorney General,,REP,James L. Buchal,543Yamhill,PRE017,Attorney General,,REP,James L. Buchal,719Yamhill,PRE018,Attorney General,,REP,James L. Buchal,1451Yamhill,PRE019,Attorney General,,REP,James L. Buchal,741Yamhill,PRE020,Attorney General,,REP,James L. Buchal,845Yamhill,PRE021,Attorney General,,REP,James L. Buchal,778Yamhill,PRE022,Attorney General,,REP,James L. Buchal,784Yamhill,PRE026,Attorney General,,REP,James L. Buchal,637Yamhill,PRE027,Attorney General,,REP,James L. Buchal,175Yamhill,PRE028,Attorney General,,REP,James L. Buchal,394Yamhill,PRE001,Attorney General,,CON,James E. Leuenberger,38Yamhill,PRE002,Attorney General,,CON,James E. Leuenberger,108Yamhill,PRE003,Attorney General,,CON,James E. Leuenberger,83Yamhill,PRE004,Attorney General,,CON,James E. Leuenberger,82Yamhill,PRE007,Attorney General,,CON,James E. Leuenberger,44Yamhill,PRE009,Attorney General,,CON,James E. Leuenberger,58Yamhill,PRE010,Attorney General,,CON,James E. Leuenberger,68Yamhill,PRE012,Attorney General,,CON,James E. Leuenberger,93Yamhill,PRE013,Attorney General,,CON,James E. Leuenberger,80Yamhill,PRE014,Attorney General,,CON,James E. Leuenberger,61Yamhill,PRE015,Attorney General,,CON,James E. Leuenberger,37Yamhill,PRE016,Attorney General,,CON,James E. Leuenberger,42Yamhill,PRE017,Attorney General,,CON,James E. Leuenberger,45Yamhill,PRE018,Attorney General,,CON,James E. Leuenberger,51Yamhill,PRE019,Attorney General,,CON,James E. Leuenberger,69Yamhill,PRE020,Attorney General,,CON,James E. Leuenberger,38Yamhill,PRE021,Attorney General,,CON,James E. Leuenberger,57Yamhill,PRE022,Attorney General,,CON,James E. Leuenberger,75Yamhill,PRE026,Attorney General,,CON,James E. Leuenberger,39Yamhill,PRE027,Attorney General,,CON,James E. Leuenberger,27Yamhill,PRE028,Attorney General,,CON,James E. Leuenberger,47Yamhill,PRE001,Attorney General,,DEM,Ellen Rosenblum,760Yamhill,PRE002,Attorney General,,DEM,Ellen Rosenblum,1206Yamhill,PRE003,Attorney General,,DEM,Ellen Rosenblum,1483Yamhill,PRE004,Attorney General,,DEM,Ellen Rosenblum,1080Yamhill,PRE007,Attorney General,,DEM,Ellen Rosenblum,701Yamhill,PRE009,Attorney General,,DEM,Ellen Rosenblum,1149Yamhill,PRE010,Attorney General,,DEM,Ellen Rosenblum,827Yamhill,PRE012,Attorney General,,DEM,Ellen Rosenblum,952Yamhill,PRE013,Attorney General,,DEM,Ellen Rosenblum,977Yamhill,PRE014,Attorney General,,DEM,Ellen Rosenblum,930Yamhill,PRE015,Attorney General,,DEM,Ellen Rosenblum,960Yamhill,PRE016,Attorney General,,DEM,Ellen Rosenblum,713Yamhill,PRE017,Attorney General,,DEM,Ellen Rosenblum,938Yamhill,PRE018,Attorney General,,DEM,Ellen Rosenblum,1591Yamhill,PRE019,Attorney General,,DEM,Ellen Rosenblum,1245Yamhill,PRE020,Attorney General,,DEM,Ellen Rosenblum,714Yamhill,PRE021,Attorney General,,DEM,Ellen Rosenblum,743Yamhill,PRE022,Attorney General,,DEM,Ellen Rosenblum,754Yamhill,PRE026,Attorney General,,DEM,Ellen Rosenblum,643Yamhill,PRE027,Attorney General,,DEM,Ellen Rosenblum,175Yamhill,PRE028,Attorney General,,DEM,Ellen Rosenblum,316Yamhill,PRE001,Attorney General,,,Write-ins,4Yamhill,PRE002,Attorney General,,,Write-ins,2Yamhill,PRE003,Attorney General,,,Write-ins,5Yamhill,PRE004,Attorney General,,,Write-ins,4Yamhill,PRE007,Attorney General,,,Write-ins,2Yamhill,PRE009,Attorney General,,,Write-ins,1Yamhill,PRE010,Attorney General,,,Write-ins,5Yamhill,PRE012,Attorney General,,,Write-ins,5Yamhill,PRE013,Attorney General,,,Write-ins,2Yamhill,PRE014,Attorney General,,,Write-ins,4Yamhill,PRE015,Attorney General,,,Write-ins,3Yamhill,PRE016,Attorney General,,,Write-ins,2Yamhill,PRE017,Attorney General,,,Write-ins,5Yamhill,PRE018,Attorney General,,,Write-ins,4Yamhill,PRE019,Attorney General,,,Write-ins,4Yamhill,PRE020,Attorney General,,,Write-ins,0Yamhill,PRE021,Attorney General,,,Write-ins,3Yamhill,PRE022,Attorney General,,,Write-ins,2Yamhill,PRE026,Attorney General,,,Write-ins,2Yamhill,PRE027,Attorney General,,,Write-ins,1Yamhill,PRE028,Attorney General,,,Write-ins,4Yamhill,PRE026,State Senate,5,REP,Scott Roberts,749Yamhill,PRE028,State Senate,5,REP,Scott Roberts,464Yamhill,PRE026,State Senate,5,DEM,Arnie Roblan,602Yamhill,PRE028,State Senate,5,DEM,Arnie Roblan,321Yamhill,PRE026,State Senate,5,,Write-ins,3Yamhill,PRE028,State Senate,5,,Write-ins,3Yamhill,PRE007,State Senate,12,DEM,Annette Frank,608Yamhill,PRE009,State Senate,12,DEM,Annette Frank,956Yamhill,PRE010,State Senate,12,DEM,Annette Frank,789Yamhill,PRE012,State Senate,12,DEM,Annette Frank,791Yamhill,PRE013,State Senate,12,DEM,Annette Frank,833Yamhill,PRE014,State Senate,12,DEM,Annette Frank,815Yamhill,PRE015,State Senate,12,DEM,Annette Frank,800Yamhill,PRE016,State Senate,12,DEM,Annette Frank,608Yamhill,PRE017,State Senate,12,DEM,Annette Frank,763Yamhill,PRE018,State Senate,12,DEM,Annette Frank,1273Yamhill,PRE019,State Senate,12,DEM,Annette Frank,1068Yamhill,PRE020,State Senate,12,DEM,Annette Frank,600Yamhill,PRE021,State Senate,12,DEM,Annette Frank,638Yamhill,PRE022,State Senate,12,DEM,Annette Frank,638Yamhill,PRE027,State Senate,12,DEM,Annette Frank,145Yamhill,PRE007,State Senate,12,REP,Brian J. Boquist,859Yamhill,PRE009,State Senate,12,REP,Brian J. Boquist,1604Yamhill,PRE010,State Senate,12,REP,Brian J. Boquist,1019Yamhill,PRE012,State Senate,12,REP,Brian J. Boquist,1452Yamhill,PRE013,State Senate,12,REP,Brian J. Boquist,1438Yamhill,PRE014,State Senate,12,REP,Brian J. Boquist,894Yamhill,PRE015,State Senate,12,REP,Brian J. Boquist,916Yamhill,PRE016,State Senate,12,REP,Brian J. Boquist,693Yamhill,PRE017,State Senate,12,REP,Brian J. Boquist,956Yamhill,PRE018,State Senate,12,REP,Brian J. Boquist,1823Yamhill,PRE019,State Senate,12,REP,Brian J. Boquist,994Yamhill,PRE020,State Senate,12,REP,Brian J. Boquist,986Yamhill,PRE021,State Senate,12,REP,Brian J. Boquist,961Yamhill,PRE022,State Senate,12,REP,Brian J. Boquist,996Yamhill,PRE027,State Senate,12,REP,Brian J. Boquist,240Yamhill,PRE007,State Senate,12,,Write-ins,2Yamhill,PRE009,State Senate,12,,Write-ins,1Yamhill,PRE010,State Senate,12,,Write-ins,3Yamhill,PRE012,State Senate,12,,Write-ins,3Yamhill,PRE013,State Senate,12,,Write-ins,2Yamhill,PRE014,State Senate,12,,Write-ins,4Yamhill,PRE015,State Senate,12,,Write-ins,8Yamhill,PRE016,State Senate,12,,Write-ins,4Yamhill,PRE017,State Senate,12,,Write-ins,4Yamhill,PRE018,State Senate,12,,Write-ins,6Yamhill,PRE019,State Senate,12,,Write-ins,9Yamhill,PRE020,State Senate,12,,Write-ins,0Yamhill,PRE021,State Senate,12,,Write-ins,7Yamhill,PRE022,State Senate,12,,Write-ins,1Yamhill,PRE027,State Senate,12,,Write-ins,1Yamhill,PRE026,State House,10,DEM,David Gomberg,652Yamhill,PRE028,State House,10,DEM,David Gomberg,321Yamhill,PRE026,State House,10,REP,Jerome Grant,675Yamhill,PRE028,State House,10,REP,Jerome Grant,445Yamhill,PRE026,State House,10,,Write-ins,1Yamhill,PRE028,State House,10,,Write-ins,3Yamhill,PRE010,State House,23,DEM,Ross Swartzendruber,633Yamhill,PRE012,State House,23,DEM,Ross Swartzendruber,774Yamhill,PRE020,State House,23,DEM,Ross Swartzendruber,541Yamhill,PRE027,State House,23,DEM,Ross Swartzendruber,134Yamhill,PRE010,State House,23,PGP,Alex Polikoff,161Yamhill,PRE012,State House,23,PGP,Alex Polikoff,182Yamhill,PRE020,State House,23,PGP,Alex Polikoff,96Yamhill,PRE027,State House,23,PGP,Alex Polikoff,51Yamhill,PRE010,State House,23,REP,Jim Thompson,985Yamhill,PRE012,State House,23,REP,Jim Thompson,1283Yamhill,PRE020,State House,23,REP,Jim Thompson,942Yamhill,PRE027,State House,23,REP,Jim Thompson,199Yamhill,PRE010,State House,23,,Write-ins,5Yamhill,PRE012,State House,23,,Write-ins,5Yamhill,PRE020,State House,23,,Write-ins,2Yamhill,PRE027,State House,23,,Write-ins,0Yamhill,PRE007,State House,24,DEM,Jim Weidner,833Yamhill,PRE009,State House,24,DEM,Jim Weidner,1559Yamhill,PRE013,State House,24,DEM,Jim Weidner,1464Yamhill,PRE014,State House,24,DEM,Jim Weidner,890Yamhill,PRE015,State House,24,DEM,Jim Weidner,887Yamhill,PRE016,State House,24,DEM,Jim Weidner,671Yamhill,PRE017,State House,24,DEM,Jim Weidner,918Yamhill,PRE018,State House,24,DEM,Jim Weidner,1737Yamhill,PRE019,State House,24,DEM,Jim Weidner,935Yamhill,PRE021,State House,24,DEM,Jim Weidner,987Yamhill,PRE022,State House,24,DEM,Jim Weidner,987Yamhill,PRE007,State House,24,LBT,Kohler Johnson,38Yamhill,PRE009,State House,24,LBT,Kohler Johnson,41Yamhill,PRE013,State House,24,LBT,Kohler Johnson,53Yamhill,PRE014,State House,24,LBT,Kohler Johnson,46Yamhill,PRE015,State House,24,LBT,Kohler Johnson,39Yamhill,PRE016,State House,24,LBT,Kohler Johnson,26Yamhill,PRE017,State House,24,LBT,Kohler Johnson,38Yamhill,PRE018,State House,24,LBT,Kohler Johnson,46Yamhill,PRE019,State House,24,LBT,Kohler Johnson,56Yamhill,PRE021,State House,24,LBT,Kohler Johnson,39Yamhill,PRE022,State House,24,LBT,Kohler Johnson,41Yamhill,PRE007,State House,24,DEM,Kathy Campbell,615Yamhill,PRE009,State House,24,DEM,Kathy Campbell,983Yamhill,PRE013,State House,24,DEM,Kathy Campbell,817Yamhill,PRE014,State House,24,DEM,Kathy Campbell,830Yamhill,PRE015,State House,24,DEM,Kathy Campbell,839Yamhill,PRE016,State House,24,DEM,Kathy Campbell,634Yamhill,PRE017,State House,24,DEM,Kathy Campbell,833Yamhill,PRE018,State House,24,DEM,Kathy Campbell,1386Yamhill,PRE019,State House,24,DEM,Kathy Campbell,1138Yamhill,PRE021,State House,24,DEM,Kathy Campbell,641Yamhill,PRE022,State House,24,DEM,Kathy Campbell,646Yamhill,PRE007,State House,24,,Write-ins,2Yamhill,PRE009,State House,24,,Write-ins,1Yamhill,PRE004,State House,24,,Write-ins,1Yamhill,PRE014,State House,24,,Write-ins,1Yamhill,PRE015,State House,24,,Write-ins,3Yamhill,PRE016,State House,24,,Write-ins,3Yamhill,PRE017,State House,24,,Write-ins,2Yamhill,PRE018,State House,24,,Write-ins,3Yamhill,PRE019,State House,24,,Write-ins,3Yamhill,PRE021,State House,24,,Write-ins,2Yamhill,PRE022,State House,24,,Write-ins,2Yamhill,PRE001,State House,25,DEM,Paul Holman,603Yamhill,PRE002,State House,25,DEM,Paul Holman,952Yamhill,PRE003,State House,25,DEM,Paul Holman,1143Yamhill,PRE004,State House,25,DEM,Paul Holman,856Yamhill,PRE001,State House,25,LBT,Ryan Haffner,50Yamhill,PRE002,State House,25,LBT,Ryan Haffner,90Yamhill,PRE003,State House,25,LBT,Ryan Haffner,101Yamhill,PRE004,State House,25,LBT,Ryan Haffner,77Yamhill,PRE001,State House,25,REP,Kim Thatcher,1204Yamhill,PRE002,State House,25,REP,Kim Thatcher,1632Yamhill,PRE003,State House,25,REP,Kim Thatcher,2091Yamhill,PRE004,State House,25,REP,Kim Thatcher,1476Yamhill,PRE001,State House,25,,Write-ins,4Yamhill,PRE002,State House,25,,Write-ins,5Yamhill,PRE003,State House,25,,Write-ins,7Yamhill,PRE004,State House,25,,Write-ins,2Yamhill,PRE013,State House,32,CON,Jim Welsh,0Yamhill,PRE013,State House,32,DEM,Deborah Boone,1Yamhill,PRE013,State House,32,LBT,Perry Roll,0
+county,precinct,office,district,party,candidate,votes
+Yamhill,PRE001,President,,DEM,Barack Obama,807
+Yamhill,PRE002,President,,DEM,Barack Obama,1268
+Yamhill,PRE003,President,,DEM,Barack Obama,1540
+Yamhill,PRE004,President,,DEM,Barack Obama,1150
+Yamhill,PRE007,President,,DEM,Barack Obama,741
+Yamhill,PRE009,President,,DEM,Barack Obama,1169
+Yamhill,PRE010,President,,DEM,Barack Obama,877
+Yamhill,PRE012,President,,DEM,Barack Obama,957
+Yamhill,PRE013,President,,DEM,Barack Obama,955
+Yamhill,PRE014,President,,DEM,Barack Obama,973
+Yamhill,PRE015,President,,DEM,Barack Obama,964
+Yamhill,PRE016,President,,DEM,Barack Obama,696
+Yamhill,PRE017,President,,DEM,Barack Obama,963
+Yamhill,PRE018,President,,DEM,Barack Obama,1581
+Yamhill,PRE019,President,,DEM,Barack Obama,1275
+Yamhill,PRE020,President,,DEM,Barack Obama,737
+Yamhill,PRE021,President,,DEM,Barack Obama,740
+Yamhill,PRE022,President,,DEM,Barack Obama,759
+Yamhill,PRE026,President,,DEM,Barack Obama,623
+Yamhill,PRE027,President,,DEM,Barack Obama,166
+Yamhill,PRE028,President,,DEM,Barack Obama,319
+Yamhill,PRE001,President,,PGP,Jill Stein,9
+Yamhill,PRE002,President,,PGP,Jill Stein,21
+Yamhill,PRE003,President,,PGP,Jill Stein,23
+Yamhill,PRE004,President,,PGP,Jill Stein,19
+Yamhill,PRE007,President,,PGP,Jill Stein,15
+Yamhill,PRE009,President,,PGP,Jill Stein,14
+Yamhill,PRE010,President,,PGP,Jill Stein,8
+Yamhill,PRE012,President,,PGP,Jill Stein,28
+Yamhill,PRE013,President,,PGP,Jill Stein,18
+Yamhill,PRE014,President,,PGP,Jill Stein,14
+Yamhill,PRE015,President,,PGP,Jill Stein,13
+Yamhill,PRE016,President,,PGP,Jill Stein,11
+Yamhill,PRE017,President,,PGP,Jill Stein,12
+Yamhill,PRE018,President,,PGP,Jill Stein,22
+Yamhill,PRE019,President,,PGP,Jill Stein,27
+Yamhill,PRE020,President,,PGP,Jill Stein,14
+Yamhill,PRE021,President,,PGP,Jill Stein,24
+Yamhill,PRE022,President,,PGP,Jill Stein,13
+Yamhill,PRE026,President,,PGP,Jill Stein,12
+Yamhill,PRE027,President,,PGP,Jill Stein,17
+Yamhill,PRE028,President,,PGP,Jill Stein,9
+Yamhill,PRE001,President,,PRO,Rocky Anderson,0
+Yamhill,PRE002,President,,PRO,Rocky Anderson,3
+Yamhill,PRE003,President,,PRO,Rocky Anderson,6
+Yamhill,PRE004,President,,PRO,Rocky Anderson,1
+Yamhill,PRE007,President,,PRO,Rocky Anderson,3
+Yamhill,PRE009,President,,PRO,Rocky Anderson,5
+Yamhill,PRE010,President,,PRO,Rocky Anderson,1
+Yamhill,PRE012,President,,PRO,Rocky Anderson,5
+Yamhill,PRE013,President,,PRO,Rocky Anderson,4
+Yamhill,PRE014,President,,PRO,Rocky Anderson,4
+Yamhill,PRE015,President,,PRO,Rocky Anderson,2
+Yamhill,PRE016,President,,PRO,Rocky Anderson,0
+Yamhill,PRE017,President,,PRO,Rocky Anderson,3
+Yamhill,PRE018,President,,PRO,Rocky Anderson,4
+Yamhill,PRE019,President,,PRO,Rocky Anderson,6
+Yamhill,PRE020,President,,PRO,Rocky Anderson,1
+Yamhill,PRE021,President,,PRO,Rocky Anderson,2
+Yamhill,PRE022,President,,PRO,Rocky Anderson,2
+Yamhill,PRE026,President,,PRO,Rocky Anderson,3
+Yamhill,PRE027,President,,PRO,Rocky Anderson,2
+Yamhill,PRE028,President,,PRO,Rocky Anderson,4
+Yamhill,PRE001,President,,LBT,Gary Johnson,21
+Yamhill,PRE002,President,,LBT,Gary Johnson,57
+Yamhill,PRE003,President,,LBT,Gary Johnson,46
+Yamhill,PRE004,President,,LBT,Gary Johnson,47
+Yamhill,PRE007,President,,LBT,Gary Johnson,20
+Yamhill,PRE009,President,,LBT,Gary Johnson,34
+Yamhill,PRE010,President,,LBT,Gary Johnson,32
+Yamhill,PRE012,President,,LBT,Gary Johnson,45
+Yamhill,PRE013,President,,LBT,Gary Johnson,39
+Yamhill,PRE014,President,,LBT,Gary Johnson,24
+Yamhill,PRE015,President,,LBT,Gary Johnson,38
+Yamhill,PRE016,President,,LBT,Gary Johnson,16
+Yamhill,PRE017,President,,LBT,Gary Johnson,18
+Yamhill,PRE018,President,,LBT,Gary Johnson,31
+Yamhill,PRE019,President,,LBT,Gary Johnson,32
+Yamhill,PRE020,President,,LBT,Gary Johnson,26
+Yamhill,PRE021,President,,LBT,Gary Johnson,21
+Yamhill,PRE022,President,,LBT,Gary Johnson,33
+Yamhill,PRE026,President,,LBT,Gary Johnson,26
+Yamhill,PRE027,President,,LBT,Gary Johnson,12
+Yamhill,PRE028,President,,LBT,Gary Johnson,21
+Yamhill,PRE001,President,,REP,Mitt Romney,1138
+Yamhill,PRE002,President,,REP,Mitt Romney,1535
+Yamhill,PRE003,President,,REP,Mitt Romney,1932
+Yamhill,PRE004,President,,REP,Mitt Romney,1392
+Yamhill,PRE007,President,,REP,Mitt Romney,772
+Yamhill,PRE009,President,,REP,Mitt Romney,1498
+Yamhill,PRE010,President,,REP,Mitt Romney,997
+Yamhill,PRE012,President,,REP,Mitt Romney,1357
+Yamhill,PRE013,President,,REP,Mitt Romney,1411
+Yamhill,PRE014,President,,REP,Mitt Romney,840
+Yamhill,PRE015,President,,REP,Mitt Romney,820
+Yamhill,PRE016,President,,REP,Mitt Romney,658
+Yamhill,PRE017,President,,REP,Mitt Romney,879
+Yamhill,PRE018,President,,REP,Mitt Romney,1659
+Yamhill,PRE019,President,,REP,Mitt Romney,895
+Yamhill,PRE020,President,,REP,Mitt Romney,920
+Yamhill,PRE021,President,,REP,Mitt Romney,948
+Yamhill,PRE022,President,,REP,Mitt Romney,943
+Yamhill,PRE026,President,,REP,Mitt Romney,763
+Yamhill,PRE027,President,,REP,Mitt Romney,213
+Yamhill,PRE028,President,,REP,Mitt Romney,475
+Yamhill,PRE001,President,,CON,Will Christensen,5
+Yamhill,PRE002,President,,CON,Will Christensen,14
+Yamhill,PRE003,President,,CON,Will Christensen,7
+Yamhill,PRE004,President,,CON,Will Christensen,9
+Yamhill,PRE007,President,,CON,Will Christensen,8
+Yamhill,PRE009,President,,CON,Will Christensen,3
+Yamhill,PRE010,President,,CON,Will Christensen,9
+Yamhill,PRE012,President,,CON,Will Christensen,13
+Yamhill,PRE013,President,,CON,Will Christensen,5
+Yamhill,PRE014,President,,CON,Will Christensen,5
+Yamhill,PRE015,President,,CON,Will Christensen,4
+Yamhill,PRE016,President,,CON,Will Christensen,7
+Yamhill,PRE017,President,,CON,Will Christensen,2
+Yamhill,PRE018,President,,CON,Will Christensen,2
+Yamhill,PRE019,President,,CON,Will Christensen,8
+Yamhill,PRE020,President,,CON,Will Christensen,3
+Yamhill,PRE021,President,,CON,Will Christensen,5
+Yamhill,PRE022,President,,CON,Will Christensen,3
+Yamhill,PRE026,President,,CON,Will Christensen,9
+Yamhill,PRE027,President,,CON,Will Christensen,4
+Yamhill,PRE028,President,,CON,Will Christensen,3
+Yamhill,PRE001,President,,,Write-ins,12
+Yamhill,PRE002,President,,,Write-ins,34
+Yamhill,PRE003,President,,,Write-ins,32
+Yamhill,PRE004,President,,,Write-ins,25
+Yamhill,PRE007,President,,,Write-ins,13
+Yamhill,PRE009,President,,,Write-ins,14
+Yamhill,PRE010,President,,,Write-ins,22
+Yamhill,PRE012,President,,,Write-ins,23
+Yamhill,PRE013,President,,,Write-ins,28
+Yamhill,PRE014,President,,,Write-ins,20
+Yamhill,PRE015,President,,,Write-ins,24
+Yamhill,PRE016,President,,,Write-ins,16
+Yamhill,PRE017,President,,,Write-ins,24
+Yamhill,PRE018,President,,,Write-ins,19
+Yamhill,PRE019,President,,,Write-ins,29
+Yamhill,PRE020,President,,,Write-ins,16
+Yamhill,PRE021,President,,,Write-ins,14
+Yamhill,PRE022,President,,,Write-ins,20
+Yamhill,PRE026,President,,,Write-ins,21
+Yamhill,PRE027,President,,,Write-ins,6
+Yamhill,PRE028,President,,,Write-ins,19
+Yamhill,PRE001,U.S. House,1,CON,Bob Ekstrom,56
+Yamhill,PRE002,U.S. House,1,CON,Bob Ekstrom,100
+Yamhill,PRE003,U.S. House,1,CON,Bob Ekstrom,116
+Yamhill,PRE004,U.S. House,1,CON,Bob Ekstrom,86
+Yamhill,PRE007,U.S. House,1,CON,Bob Ekstrom,61
+Yamhill,PRE009,U.S. House,1,CON,Bob Ekstrom,78
+Yamhill,PRE010,U.S. House,1,CON,Bob Ekstrom,49
+Yamhill,PRE012,U.S. House,1,CON,Bob Ekstrom,75
+Yamhill,PRE013,U.S. House,1,CON,Bob Ekstrom,87
+Yamhill,PRE014,U.S. House,1,CON,Bob Ekstrom,49
+Yamhill,PRE015,U.S. House,1,CON,Bob Ekstrom,40
+Yamhill,PRE016,U.S. House,1,CON,Bob Ekstrom,37
+Yamhill,PRE017,U.S. House,1,CON,Bob Ekstrom,46
+Yamhill,PRE018,U.S. House,1,CON,Bob Ekstrom,60
+Yamhill,PRE019,U.S. House,1,CON,Bob Ekstrom,65
+Yamhill,PRE020,U.S. House,1,CON,Bob Ekstrom,37
+Yamhill,PRE021,U.S. House,1,CON,Bob Ekstrom,69
+Yamhill,PRE022,U.S. House,1,CON,Bob Ekstrom,74
+Yamhill,PRE026,U.S. House,1,CON,Bob Ekstrom,73
+Yamhill,PRE027,U.S. House,1,CON,Bob Ekstrom,26
+Yamhill,PRE028,U.S. House,1,CON,Bob Ekstrom,49
+Yamhill,PRE001,U.S. House,1,REP,Delinda Morgan,953
+Yamhill,PRE002,U.S. House,1,REP,Delinda Morgan,1230
+Yamhill,PRE003,U.S. House,1,REP,Delinda Morgan,1547
+Yamhill,PRE004,U.S. House,1,REP,Delinda Morgan,1100
+Yamhill,PRE007,U.S. House,1,REP,Delinda Morgan,628
+Yamhill,PRE009,U.S. House,1,REP,Delinda Morgan,1217
+Yamhill,PRE010,U.S. House,1,REP,Delinda Morgan,836
+Yamhill,PRE012,U.S. House,1,REP,Delinda Morgan,1088
+Yamhill,PRE013,U.S. House,1,REP,Delinda Morgan,1137
+Yamhill,PRE014,U.S. House,1,REP,Delinda Morgan,670
+Yamhill,PRE015,U.S. House,1,REP,Delinda Morgan,669
+Yamhill,PRE016,U.S. House,1,REP,Delinda Morgan,518
+Yamhill,PRE017,U.S. House,1,REP,Delinda Morgan,648
+Yamhill,PRE018,U.S. House,1,REP,Delinda Morgan,1358
+Yamhill,PRE019,U.S. House,1,REP,Delinda Morgan,710
+Yamhill,PRE020,U.S. House,1,REP,Delinda Morgan,751
+Yamhill,PRE021,U.S. House,1,REP,Delinda Morgan,726
+Yamhill,PRE022,U.S. House,1,REP,Delinda Morgan,747
+Yamhill,PRE026,U.S. House,1,REP,Delinda Morgan,561
+Yamhill,PRE027,U.S. House,1,REP,Delinda Morgan,160
+Yamhill,PRE028,U.S. House,1,REP,Delinda Morgan,361
+Yamhill,PRE001,U.S. House,1,DEM,Suzanne Bonamici,820
+Yamhill,PRE002,U.S. House,1,DEM,Suzanne Bonamici,1291
+Yamhill,PRE003,U.S. House,1,DEM,Suzanne Bonamici,1593
+Yamhill,PRE004,U.S. House,1,DEM,Suzanne Bonamici,1182
+Yamhill,PRE007,U.S. House,1,DEM,Suzanne Bonamici,729
+Yamhill,PRE009,U.S. House,1,DEM,Suzanne Bonamici,1199
+Yamhill,PRE010,U.S. House,1,DEM,Suzanne Bonamici,887
+Yamhill,PRE012,U.S. House,1,DEM,Suzanne Bonamici,1021
+Yamhill,PRE013,U.S. House,1,DEM,Suzanne Bonamici,1031
+Yamhill,PRE014,U.S. House,1,DEM,Suzanne Bonamici,982
+Yamhill,PRE015,U.S. House,1,DEM,Suzanne Bonamici,990
+Yamhill,PRE016,U.S. House,1,DEM,Suzanne Bonamici,734
+Yamhill,PRE017,U.S. House,1,DEM,Suzanne Bonamici,1043
+Yamhill,PRE018,U.S. House,1,DEM,Suzanne Bonamici,1667
+Yamhill,PRE019,U.S. House,1,DEM,Suzanne Bonamici,1285
+Yamhill,PRE020,U.S. House,1,DEM,Suzanne Bonamici,775
+Yamhill,PRE021,U.S. House,1,DEM,Suzanne Bonamici,777
+Yamhill,PRE022,U.S. House,1,DEM,Suzanne Bonamici,789
+Yamhill,PRE026,U.S. House,1,DEM,Suzanne Bonamici,681
+Yamhill,PRE027,U.S. House,1,DEM,Suzanne Bonamici,179
+Yamhill,PRE028,U.S. House,1,DEM,Suzanne Bonamici,348
+Yamhill,PRE001,U.S. House,1,PRO,Steven Reynolds,65
+Yamhill,PRE002,U.S. House,1,PRO,Steven Reynolds,118
+Yamhill,PRE003,U.S. House,1,PRO,Steven Reynolds,132
+Yamhill,PRE004,U.S. House,1,PRO,Steven Reynolds,98
+Yamhill,PRE007,U.S. House,1,PRO,Steven Reynolds,74
+Yamhill,PRE009,U.S. House,1,PRO,Steven Reynolds,113
+Yamhill,PRE010,U.S. House,1,PRO,Steven Reynolds,73
+Yamhill,PRE012,U.S. House,1,PRO,Steven Reynolds,130
+Yamhill,PRE013,U.S. House,1,PRO,Steven Reynolds,94
+Yamhill,PRE014,U.S. House,1,PRO,Steven Reynolds,73
+Yamhill,PRE015,U.S. House,1,PRO,Steven Reynolds,79
+Yamhill,PRE016,U.S. House,1,PRO,Steven Reynolds,48
+Yamhill,PRE017,U.S. House,1,PRO,Steven Reynolds,57
+Yamhill,PRE018,U.S. House,1,PRO,Steven Reynolds,109
+Yamhill,PRE019,U.S. House,1,PRO,Steven Reynolds,102
+Yamhill,PRE020,U.S. House,1,PRO,Steven Reynolds,68
+Yamhill,PRE021,U.S. House,1,PRO,Steven Reynolds,82
+Yamhill,PRE022,U.S. House,1,PRO,Steven Reynolds,73
+Yamhill,PRE026,U.S. House,1,PRO,Steven Reynolds,61
+Yamhill,PRE027,U.S. House,1,PRO,Steven Reynolds,30
+Yamhill,PRE028,U.S. House,1,PRO,Steven Reynolds,40
+Yamhill,PRE001,U.S. House,1,,Write-ins,4
+Yamhill,PRE002,U.S. House,1,,Write-ins,4
+Yamhill,PRE003,U.S. House,1,,Write-ins,7
+Yamhill,PRE004,U.S. House,1,,Write-ins,1
+Yamhill,PRE007,U.S. House,1,,Write-ins,3
+Yamhill,PRE009,U.S. House,1,,Write-ins,3
+Yamhill,PRE010,U.S. House,1,,Write-ins,2
+Yamhill,PRE012,U.S. House,1,,Write-ins,2
+Yamhill,PRE013,U.S. House,1,,Write-ins,4
+Yamhill,PRE014,U.S. House,1,,Write-ins,5
+Yamhill,PRE015,U.S. House,1,,Write-ins,4
+Yamhill,PRE016,U.S. House,1,,Write-ins,5
+Yamhill,PRE017,U.S. House,1,,Write-ins,3
+Yamhill,PRE018,U.S. House,1,,Write-ins,2
+Yamhill,PRE019,U.S. House,1,,Write-ins,3
+Yamhill,PRE020,U.S. House,1,,Write-ins,0
+Yamhill,PRE021,U.S. House,1,,Write-ins,2
+Yamhill,PRE022,U.S. House,1,,Write-ins,0
+Yamhill,PRE026,U.S. House,1,,Write-ins,2
+Yamhill,PRE027,U.S. House,1,,Write-ins,1
+Yamhill,PRE028,U.S. House,1,,Write-ins,3
+Yamhill,PRE001,Secretary of State,,PGP,Seth Woolley,20
+Yamhill,PRE002,Secretary of State,,PGP,Seth Woolley,63
+Yamhill,PRE003,Secretary of State,,PGP,Seth Woolley,76
+Yamhill,PRE004,Secretary of State,,PGP,Seth Woolley,56
+Yamhill,PRE007,Secretary of State,,PGP,Seth Woolley,34
+Yamhill,PRE009,Secretary of State,,PGP,Seth Woolley,46
+Yamhill,PRE010,Secretary of State,,PGP,Seth Woolley,31
+Yamhill,PRE012,Secretary of State,,PGP,Seth Woolley,59
+Yamhill,PRE013,Secretary of State,,PGP,Seth Woolley,46
+Yamhill,PRE014,Secretary of State,,PGP,Seth Woolley,34
+Yamhill,PRE015,Secretary of State,,PGP,Seth Woolley,45
+Yamhill,PRE016,Secretary of State,,PGP,Seth Woolley,30
+Yamhill,PRE017,Secretary of State,,PGP,Seth Woolley,37
+Yamhill,PRE018,Secretary of State,,PGP,Seth Woolley,47
+Yamhill,PRE019,Secretary of State,,PGP,Seth Woolley,73
+Yamhill,PRE020,Secretary of State,,PGP,Seth Woolley,34
+Yamhill,PRE021,Secretary of State,,PGP,Seth Woolley,48
+Yamhill,PRE022,Secretary of State,,PGP,Seth Woolley,39
+Yamhill,PRE026,Secretary of State,,PGP,Seth Woolley,36
+Yamhill,PRE027,Secretary of State,,PGP,Seth Woolley,13
+Yamhill,PRE028,Secretary of State,,PGP,Seth Woolley,20
+Yamhill,PRE001,Secretary of State,,PRO,Robert Wolfe,29
+Yamhill,PRE002,Secretary of State,,PRO,Robert Wolfe,40
+Yamhill,PRE003,Secretary of State,,PRO,Robert Wolfe,40
+Yamhill,PRE004,Secretary of State,,PRO,Robert Wolfe,39
+Yamhill,PRE007,Secretary of State,,PRO,Robert Wolfe,13
+Yamhill,PRE009,Secretary of State,,PRO,Robert Wolfe,36
+Yamhill,PRE010,Secretary of State,,PRO,Robert Wolfe,22
+Yamhill,PRE012,Secretary of State,,PRO,Robert Wolfe,27
+Yamhill,PRE013,Secretary of State,,PRO,Robert Wolfe,46
+Yamhill,PRE014,Secretary of State,,PRO,Robert Wolfe,20
+Yamhill,PRE015,Secretary of State,,PRO,Robert Wolfe,17
+Yamhill,PRE016,Secretary of State,,PRO,Robert Wolfe,11
+Yamhill,PRE017,Secretary of State,,PRO,Robert Wolfe,20
+Yamhill,PRE018,Secretary of State,,PRO,Robert Wolfe,27
+Yamhill,PRE019,Secretary of State,,PRO,Robert Wolfe,35
+Yamhill,PRE020,Secretary of State,,PRO,Robert Wolfe,13
+Yamhill,PRE021,Secretary of State,,PRO,Robert Wolfe,31
+Yamhill,PRE022,Secretary of State,,PRO,Robert Wolfe,17
+Yamhill,PRE026,Secretary of State,,PRO,Robert Wolfe,20
+Yamhill,PRE027,Secretary of State,,PRO,Robert Wolfe,8
+Yamhill,PRE028,Secretary of State,,PRO,Robert Wolfe,9
+Yamhill,PRE001,Secretary of State,,LBT,Bruce Alexander Knight,25
+Yamhill,PRE002,Secretary of State,,LBT,Bruce Alexander Knight,62
+Yamhill,PRE003,Secretary of State,,LBT,Bruce Alexander Knight,40
+Yamhill,PRE004,Secretary of State,,LBT,Bruce Alexander Knight,49
+Yamhill,PRE007,Secretary of State,,LBT,Bruce Alexander Knight,16
+Yamhill,PRE009,Secretary of State,,LBT,Bruce Alexander Knight,29
+Yamhill,PRE010,Secretary of State,,LBT,Bruce Alexander Knight,29
+Yamhill,PRE012,Secretary of State,,LBT,Bruce Alexander Knight,51
+Yamhill,PRE013,Secretary of State,,LBT,Bruce Alexander Knight,33
+Yamhill,PRE014,Secretary of State,,LBT,Bruce Alexander Knight,27
+Yamhill,PRE015,Secretary of State,,LBT,Bruce Alexander Knight,27
+Yamhill,PRE016,Secretary of State,,LBT,Bruce Alexander Knight,16
+Yamhill,PRE017,Secretary of State,,LBT,Bruce Alexander Knight,22
+Yamhill,PRE018,Secretary of State,,LBT,Bruce Alexander Knight,28
+Yamhill,PRE019,Secretary of State,,LBT,Bruce Alexander Knight,40
+Yamhill,PRE020,Secretary of State,,LBT,Bruce Alexander Knight,27
+Yamhill,PRE021,Secretary of State,,LBT,Bruce Alexander Knight,33
+Yamhill,PRE022,Secretary of State,,LBT,Bruce Alexander Knight,36
+Yamhill,PRE026,Secretary of State,,LBT,Bruce Alexander Knight,19
+Yamhill,PRE027,Secretary of State,,LBT,Bruce Alexander Knight,13
+Yamhill,PRE028,Secretary of State,,LBT,Bruce Alexander Knight,26
+Yamhill,PRE001,Secretary of State,,DEM,Kate Brown,697
+Yamhill,PRE002,Secretary of State,,DEM,Kate Brown,1149
+Yamhill,PRE003,Secretary of State,,DEM,Kate Brown,1403
+Yamhill,PRE004,Secretary of State,,DEM,Kate Brown,1006
+Yamhill,PRE007,Secretary of State,,DEM,Kate Brown,658
+Yamhill,PRE009,Secretary of State,,DEM,Kate Brown,1031
+Yamhill,PRE010,Secretary of State,,DEM,Kate Brown,822
+Yamhill,PRE012,Secretary of State,,DEM,Kate Brown,928
+Yamhill,PRE013,Secretary of State,,DEM,Kate Brown,920
+Yamhill,PRE014,Secretary of State,,DEM,Kate Brown,914
+Yamhill,PRE015,Secretary of State,,DEM,Kate Brown,900
+Yamhill,PRE016,Secretary of State,,DEM,Kate Brown,696
+Yamhill,PRE017,Secretary of State,,DEM,Kate Brown,906
+Yamhill,PRE018,Secretary of State,,DEM,Kate Brown,1464
+Yamhill,PRE019,Secretary of State,,DEM,Kate Brown,1190
+Yamhill,PRE020,Secretary of State,,DEM,Kate Brown,656
+Yamhill,PRE021,Secretary of State,,DEM,Kate Brown,704
+Yamhill,PRE022,Secretary of State,,DEM,Kate Brown,720
+Yamhill,PRE026,Secretary of State,,DEM,Kate Brown,618
+Yamhill,PRE027,Secretary of State,,DEM,Kate Brown,178
+Yamhill,PRE028,Secretary of State,,DEM,Kate Brown,325
+Yamhill,PRE001,Secretary of State,,REP,Knute Buehler,1124
+Yamhill,PRE002,Secretary of State,,REP,Knute Buehler,1421
+Yamhill,PRE003,Secretary of State,,REP,Knute Buehler,1819
+Yamhill,PRE004,Secretary of State,,REP,Knute Buehler,1316
+Yamhill,PRE007,Secretary of State,,REP,Knute Buehler,772
+Yamhill,PRE009,Secretary of State,,REP,Knute Buehler,1471
+Yamhill,PRE010,Secretary of State,,REP,Knute Buehler,940
+Yamhill,PRE012,Secretary of State,,REP,Knute Buehler,1233
+Yamhill,PRE013,Secretary of State,,REP,Knute Buehler,1280
+Yamhill,PRE014,Secretary of State,,REP,Knute Buehler,782
+Yamhill,PRE015,Secretary of State,,REP,Knute Buehler,782
+Yamhill,PRE016,Secretary of State,,REP,Knute Buehler,584
+Yamhill,PRE017,Secretary of State,,REP,Knute Buehler,789
+Yamhill,PRE018,Secretary of State,,REP,Knute Buehler,1624
+Yamhill,PRE019,Secretary of State,,REP,Knute Buehler,800
+Yamhill,PRE020,Secretary of State,,REP,Knute Buehler,907
+Yamhill,PRE021,Secretary of State,,REP,Knute Buehler,824
+Yamhill,PRE022,Secretary of State,,REP,Knute Buehler,866
+Yamhill,PRE026,Secretary of State,,REP,Knute Buehler,678
+Yamhill,PRE027,Secretary of State,,REP,Knute Buehler,184
+Yamhill,PRE028,Secretary of State,,REP,Knute Buehler,428
+Yamhill,PRE001,Secretary of State,,,Write-ins,2
+Yamhill,PRE002,Secretary of State,,,Write-ins,2
+Yamhill,PRE003,Secretary of State,,,Write-ins,2
+Yamhill,PRE004,Secretary of State,,,Write-ins,5
+Yamhill,PRE007,Secretary of State,,,Write-ins,3
+Yamhill,PRE009,Secretary of State,,,Write-ins,1
+Yamhill,PRE010,Secretary of State,,,Write-ins,6
+Yamhill,PRE012,Secretary of State,,,Write-ins,6
+Yamhill,PRE013,Secretary of State,,,Write-ins,4
+Yamhill,PRE014,Secretary of State,,,Write-ins,2
+Yamhill,PRE015,Secretary of State,,,Write-ins,1
+Yamhill,PRE016,Secretary of State,,,Write-ins,3
+Yamhill,PRE017,Secretary of State,,,Write-ins,5
+Yamhill,PRE018,Secretary of State,,,Write-ins,2
+Yamhill,PRE019,Secretary of State,,,Write-ins,2
+Yamhill,PRE020,Secretary of State,,,Write-ins,0
+Yamhill,PRE021,Secretary of State,,,Write-ins,1
+Yamhill,PRE022,Secretary of State,,,Write-ins,2
+Yamhill,PRE026,Secretary of State,,,Write-ins,2
+Yamhill,PRE027,Secretary of State,,,Write-ins,0
+Yamhill,PRE028,Secretary of State,,,Write-ins,3
+Yamhill,PRE001,State Treasurer,,DEM,Ted Wheeler,852
+Yamhill,PRE002,State Treasurer,,DEM,Ted Wheeler,1255
+Yamhill,PRE003,State Treasurer,,DEM,Ted Wheeler,1587
+Yamhill,PRE004,State Treasurer,,DEM,Ted Wheeler,1152
+Yamhill,PRE007,State Treasurer,,DEM,Ted Wheeler,762
+Yamhill,PRE009,State Treasurer,,DEM,Ted Wheeler,1209
+Yamhill,PRE010,State Treasurer,,DEM,Ted Wheeler,879
+Yamhill,PRE012,State Treasurer,,DEM,Ted Wheeler,1034
+Yamhill,PRE013,State Treasurer,,DEM,Ted Wheeler,1035
+Yamhill,PRE014,State Treasurer,,DEM,Ted Wheeler,987
+Yamhill,PRE015,State Treasurer,,DEM,Ted Wheeler,983
+Yamhill,PRE016,State Treasurer,,DEM,Ted Wheeler,750
+Yamhill,PRE017,State Treasurer,,DEM,Ted Wheeler,1008
+Yamhill,PRE018,State Treasurer,,DEM,Ted Wheeler,1688
+Yamhill,PRE019,State Treasurer,,DEM,Ted Wheeler,1286
+Yamhill,PRE020,State Treasurer,,DEM,Ted Wheeler,758
+Yamhill,PRE021,State Treasurer,,DEM,Ted Wheeler,775
+Yamhill,PRE022,State Treasurer,,DEM,Ted Wheeler,790
+Yamhill,PRE026,State Treasurer,,DEM,Ted Wheeler,679
+Yamhill,PRE027,State Treasurer,,DEM,Ted Wheeler,180
+Yamhill,PRE028,State Treasurer,,DEM,Ted Wheeler,340
+Yamhill,PRE001,State Treasurer,,PRO,Cameron Whitten,19
+Yamhill,PRE002,State Treasurer,,PRO,Cameron Whitten,70
+Yamhill,PRE003,State Treasurer,,PRO,Cameron Whitten,74
+Yamhill,PRE004,State Treasurer,,PRO,Cameron Whitten,50
+Yamhill,PRE007,State Treasurer,,PRO,Cameron Whitten,24
+Yamhill,PRE009,State Treasurer,,PRO,Cameron Whitten,52
+Yamhill,PRE010,State Treasurer,,PRO,Cameron Whitten,43
+Yamhill,PRE012,State Treasurer,,PRO,Cameron Whitten,55
+Yamhill,PRE013,State Treasurer,,PRO,Cameron Whitten,47
+Yamhill,PRE014,State Treasurer,,PRO,Cameron Whitten,46
+Yamhill,PRE015,State Treasurer,,PRO,Cameron Whitten,49
+Yamhill,PRE016,State Treasurer,,PRO,Cameron Whitten,40
+Yamhill,PRE017,State Treasurer,,PRO,Cameron Whitten,32
+Yamhill,PRE018,State Treasurer,,PRO,Cameron Whitten,30
+Yamhill,PRE019,State Treasurer,,PRO,Cameron Whitten,65
+Yamhill,PRE020,State Treasurer,,PRO,Cameron Whitten,31
+Yamhill,PRE021,State Treasurer,,PRO,Cameron Whitten,39
+Yamhill,PRE022,State Treasurer,,PRO,Cameron Whitten,41
+Yamhill,PRE026,State Treasurer,,PRO,Cameron Whitten,30
+Yamhill,PRE027,State Treasurer,,PRO,Cameron Whitten,19
+Yamhill,PRE028,State Treasurer,,PRO,Cameron Whitten,22
+Yamhill,PRE001,State Treasurer,,LBT,John F. Mahler,27
+Yamhill,PRE002,State Treasurer,,LBT,John F. Mahler,61
+Yamhill,PRE003,State Treasurer,,LBT,John F. Mahler,44
+Yamhill,PRE004,State Treasurer,,LBT,John F. Mahler,45
+Yamhill,PRE007,State Treasurer,,LBT,John F. Mahler,20
+Yamhill,PRE009,State Treasurer,,LBT,John F. Mahler,40
+Yamhill,PRE010,State Treasurer,,LBT,John F. Mahler,38
+Yamhill,PRE012,State Treasurer,,LBT,John F. Mahler,60
+Yamhill,PRE013,State Treasurer,,LBT,John F. Mahler,40
+Yamhill,PRE014,State Treasurer,,LBT,John F. Mahler,26
+Yamhill,PRE015,State Treasurer,,LBT,John F. Mahler,30
+Yamhill,PRE016,State Treasurer,,LBT,John F. Mahler,18
+Yamhill,PRE017,State Treasurer,,LBT,John F. Mahler,26
+Yamhill,PRE018,State Treasurer,,LBT,John F. Mahler,40
+Yamhill,PRE019,State Treasurer,,LBT,John F. Mahler,41
+Yamhill,PRE020,State Treasurer,,LBT,John F. Mahler,26
+Yamhill,PRE021,State Treasurer,,LBT,John F. Mahler,36
+Yamhill,PRE022,State Treasurer,,LBT,John F. Mahler,52
+Yamhill,PRE026,State Treasurer,,LBT,John F. Mahler,17
+Yamhill,PRE027,State Treasurer,,LBT,John F. Mahler,18
+Yamhill,PRE028,State Treasurer,,LBT,John F. Mahler,28
+Yamhill,PRE001,State Treasurer,,CON,Michael Paul Marsh,17
+Yamhill,PRE002,State Treasurer,,CON,Michael Paul Marsh,46
+Yamhill,PRE003,State Treasurer,,CON,Michael Paul Marsh,34
+Yamhill,PRE004,State Treasurer,,CON,Michael Paul Marsh,35
+Yamhill,PRE007,State Treasurer,,CON,Michael Paul Marsh,22
+Yamhill,PRE009,State Treasurer,,CON,Michael Paul Marsh,26
+Yamhill,PRE010,State Treasurer,,CON,Michael Paul Marsh,20
+Yamhill,PRE012,State Treasurer,,CON,Michael Paul Marsh,29
+Yamhill,PRE013,State Treasurer,,CON,Michael Paul Marsh,35
+Yamhill,PRE014,State Treasurer,,CON,Michael Paul Marsh,32
+Yamhill,PRE015,State Treasurer,,CON,Michael Paul Marsh,13
+Yamhill,PRE016,State Treasurer,,CON,Michael Paul Marsh,15
+Yamhill,PRE017,State Treasurer,,CON,Michael Paul Marsh,25
+Yamhill,PRE018,State Treasurer,,CON,Michael Paul Marsh,18
+Yamhill,PRE019,State Treasurer,,CON,Michael Paul Marsh,32
+Yamhill,PRE020,State Treasurer,,CON,Michael Paul Marsh,23
+Yamhill,PRE021,State Treasurer,,CON,Michael Paul Marsh,23
+Yamhill,PRE022,State Treasurer,,CON,Michael Paul Marsh,29
+Yamhill,PRE026,State Treasurer,,CON,Michael Paul Marsh,20
+Yamhill,PRE027,State Treasurer,,CON,Michael Paul Marsh,11
+Yamhill,PRE028,State Treasurer,,CON,Michael Paul Marsh,18
+Yamhill,PRE001,State Treasurer,,REP,Tom Cox,957
+Yamhill,PRE002,State Treasurer,,REP,Tom Cox,1280
+Yamhill,PRE003,State Treasurer,,REP,Tom Cox,1586
+Yamhill,PRE004,State Treasurer,,REP,Tom Cox,1154
+Yamhill,PRE007,State Treasurer,,REP,Tom Cox,649
+Yamhill,PRE009,State Treasurer,,REP,Tom Cox,1251
+Yamhill,PRE010,State Treasurer,,REP,Tom Cox,818
+Yamhill,PRE012,State Treasurer,,REP,Tom Cox,1098
+Yamhill,PRE013,State Treasurer,,REP,Tom Cox,1124
+Yamhill,PRE014,State Treasurer,,REP,Tom Cox,666
+Yamhill,PRE015,State Treasurer,,REP,Tom Cox,671
+Yamhill,PRE016,State Treasurer,,REP,Tom Cox,494
+Yamhill,PRE017,State Treasurer,,REP,Tom Cox,659
+Yamhill,PRE018,State Treasurer,,REP,Tom Cox,1368
+Yamhill,PRE019,State Treasurer,,REP,Tom Cox,694
+Yamhill,PRE020,State Treasurer,,REP,Tom Cox,774
+Yamhill,PRE021,State Treasurer,,REP,Tom Cox,759
+Yamhill,PRE022,State Treasurer,,REP,Tom Cox,754
+Yamhill,PRE026,State Treasurer,,REP,Tom Cox,616
+Yamhill,PRE027,State Treasurer,,REP,Tom Cox,164
+Yamhill,PRE028,State Treasurer,,REP,Tom Cox,386
+Yamhill,PRE001,State Treasurer,,,Write-ins,4
+Yamhill,PRE002,State Treasurer,,,Write-ins,1
+Yamhill,PRE003,State Treasurer,,,Write-ins,2
+Yamhill,PRE004,State Treasurer,,,Write-ins,4
+Yamhill,PRE007,State Treasurer,,,Write-ins,3
+Yamhill,PRE009,State Treasurer,,,Write-ins,2
+Yamhill,PRE010,State Treasurer,,,Write-ins,2
+Yamhill,PRE012,State Treasurer,,,Write-ins,5
+Yamhill,PRE013,State Treasurer,,,Write-ins,4
+Yamhill,PRE014,State Treasurer,,,Write-ins,2
+Yamhill,PRE015,State Treasurer,,,Write-ins,1
+Yamhill,PRE016,State Treasurer,,,Write-ins,2
+Yamhill,PRE017,State Treasurer,,,Write-ins,4
+Yamhill,PRE018,State Treasurer,,,Write-ins,2
+Yamhill,PRE019,State Treasurer,,,Write-ins,2
+Yamhill,PRE020,State Treasurer,,,Write-ins,0
+Yamhill,PRE021,State Treasurer,,,Write-ins,3
+Yamhill,PRE022,State Treasurer,,,Write-ins,0
+Yamhill,PRE026,State Treasurer,,,Write-ins,0
+Yamhill,PRE027,State Treasurer,,,Write-ins,0
+Yamhill,PRE028,State Treasurer,,,Write-ins,1
+Yamhill,PRE001,Attorney General,,PRO,Chris Henry,16
+Yamhill,PRE002,Attorney General,,PRO,Chris Henry,37
+Yamhill,PRE003,Attorney General,,PRO,Chris Henry,41
+Yamhill,PRE004,Attorney General,,PRO,Chris Henry,43
+Yamhill,PRE007,Attorney General,,PRO,Chris Henry,22
+Yamhill,PRE009,Attorney General,,PRO,Chris Henry,33
+Yamhill,PRE010,Attorney General,,PRO,Chris Henry,25
+Yamhill,PRE012,Attorney General,,PRO,Chris Henry,49
+Yamhill,PRE013,Attorney General,,PRO,Chris Henry,27
+Yamhill,PRE014,Attorney General,,PRO,Chris Henry,25
+Yamhill,PRE015,Attorney General,,PRO,Chris Henry,22
+Yamhill,PRE016,Attorney General,,PRO,Chris Henry,18
+Yamhill,PRE017,Attorney General,,PRO,Chris Henry,30
+Yamhill,PRE018,Attorney General,,PRO,Chris Henry,35
+Yamhill,PRE019,Attorney General,,PRO,Chris Henry,42
+Yamhill,PRE020,Attorney General,,PRO,Chris Henry,13
+Yamhill,PRE021,Attorney General,,PRO,Chris Henry,28
+Yamhill,PRE022,Attorney General,,PRO,Chris Henry,33
+Yamhill,PRE026,Attorney General,,PRO,Chris Henry,28
+Yamhill,PRE027,Attorney General,,PRO,Chris Henry,10
+Yamhill,PRE028,Attorney General,,PRO,Chris Henry,21
+Yamhill,PRE001,Attorney General,,REP,James L. Buchal,1044
+Yamhill,PRE002,Attorney General,,REP,James L. Buchal,1334
+Yamhill,PRE003,Attorney General,,REP,James L. Buchal,1685
+Yamhill,PRE004,Attorney General,,REP,James L. Buchal,1200
+Yamhill,PRE007,Attorney General,,REP,James L. Buchal,703
+Yamhill,PRE009,Attorney General,,REP,James L. Buchal,1348
+Yamhill,PRE010,Attorney General,,REP,James L. Buchal,870
+Yamhill,PRE012,Attorney General,,REP,James L. Buchal,1162
+Yamhill,PRE013,Attorney General,,REP,James L. Buchal,1198
+Yamhill,PRE014,Attorney General,,REP,James L. Buchal,725
+Yamhill,PRE015,Attorney General,,REP,James L. Buchal,722
+Yamhill,PRE016,Attorney General,,REP,James L. Buchal,543
+Yamhill,PRE017,Attorney General,,REP,James L. Buchal,719
+Yamhill,PRE018,Attorney General,,REP,James L. Buchal,1451
+Yamhill,PRE019,Attorney General,,REP,James L. Buchal,741
+Yamhill,PRE020,Attorney General,,REP,James L. Buchal,845
+Yamhill,PRE021,Attorney General,,REP,James L. Buchal,778
+Yamhill,PRE022,Attorney General,,REP,James L. Buchal,784
+Yamhill,PRE026,Attorney General,,REP,James L. Buchal,637
+Yamhill,PRE027,Attorney General,,REP,James L. Buchal,175
+Yamhill,PRE028,Attorney General,,REP,James L. Buchal,394
+Yamhill,PRE001,Attorney General,,CON,James E. Leuenberger,38
+Yamhill,PRE002,Attorney General,,CON,James E. Leuenberger,108
+Yamhill,PRE003,Attorney General,,CON,James E. Leuenberger,83
+Yamhill,PRE004,Attorney General,,CON,James E. Leuenberger,82
+Yamhill,PRE007,Attorney General,,CON,James E. Leuenberger,44
+Yamhill,PRE009,Attorney General,,CON,James E. Leuenberger,58
+Yamhill,PRE010,Attorney General,,CON,James E. Leuenberger,68
+Yamhill,PRE012,Attorney General,,CON,James E. Leuenberger,93
+Yamhill,PRE013,Attorney General,,CON,James E. Leuenberger,80
+Yamhill,PRE014,Attorney General,,CON,James E. Leuenberger,61
+Yamhill,PRE015,Attorney General,,CON,James E. Leuenberger,37
+Yamhill,PRE016,Attorney General,,CON,James E. Leuenberger,42
+Yamhill,PRE017,Attorney General,,CON,James E. Leuenberger,45
+Yamhill,PRE018,Attorney General,,CON,James E. Leuenberger,51
+Yamhill,PRE019,Attorney General,,CON,James E. Leuenberger,69
+Yamhill,PRE020,Attorney General,,CON,James E. Leuenberger,38
+Yamhill,PRE021,Attorney General,,CON,James E. Leuenberger,57
+Yamhill,PRE022,Attorney General,,CON,James E. Leuenberger,75
+Yamhill,PRE026,Attorney General,,CON,James E. Leuenberger,39
+Yamhill,PRE027,Attorney General,,CON,James E. Leuenberger,27
+Yamhill,PRE028,Attorney General,,CON,James E. Leuenberger,47
+Yamhill,PRE001,Attorney General,,DEM,Ellen Rosenblum,760
+Yamhill,PRE002,Attorney General,,DEM,Ellen Rosenblum,1206
+Yamhill,PRE003,Attorney General,,DEM,Ellen Rosenblum,1483
+Yamhill,PRE004,Attorney General,,DEM,Ellen Rosenblum,1080
+Yamhill,PRE007,Attorney General,,DEM,Ellen Rosenblum,701
+Yamhill,PRE009,Attorney General,,DEM,Ellen Rosenblum,1149
+Yamhill,PRE010,Attorney General,,DEM,Ellen Rosenblum,827
+Yamhill,PRE012,Attorney General,,DEM,Ellen Rosenblum,952
+Yamhill,PRE013,Attorney General,,DEM,Ellen Rosenblum,977
+Yamhill,PRE014,Attorney General,,DEM,Ellen Rosenblum,930
+Yamhill,PRE015,Attorney General,,DEM,Ellen Rosenblum,960
+Yamhill,PRE016,Attorney General,,DEM,Ellen Rosenblum,713
+Yamhill,PRE017,Attorney General,,DEM,Ellen Rosenblum,938
+Yamhill,PRE018,Attorney General,,DEM,Ellen Rosenblum,1591
+Yamhill,PRE019,Attorney General,,DEM,Ellen Rosenblum,1245
+Yamhill,PRE020,Attorney General,,DEM,Ellen Rosenblum,714
+Yamhill,PRE021,Attorney General,,DEM,Ellen Rosenblum,743
+Yamhill,PRE022,Attorney General,,DEM,Ellen Rosenblum,754
+Yamhill,PRE026,Attorney General,,DEM,Ellen Rosenblum,643
+Yamhill,PRE027,Attorney General,,DEM,Ellen Rosenblum,175
+Yamhill,PRE028,Attorney General,,DEM,Ellen Rosenblum,316
+Yamhill,PRE001,Attorney General,,,Write-ins,4
+Yamhill,PRE002,Attorney General,,,Write-ins,2
+Yamhill,PRE003,Attorney General,,,Write-ins,5
+Yamhill,PRE004,Attorney General,,,Write-ins,4
+Yamhill,PRE007,Attorney General,,,Write-ins,2
+Yamhill,PRE009,Attorney General,,,Write-ins,1
+Yamhill,PRE010,Attorney General,,,Write-ins,5
+Yamhill,PRE012,Attorney General,,,Write-ins,5
+Yamhill,PRE013,Attorney General,,,Write-ins,2
+Yamhill,PRE014,Attorney General,,,Write-ins,4
+Yamhill,PRE015,Attorney General,,,Write-ins,3
+Yamhill,PRE016,Attorney General,,,Write-ins,2
+Yamhill,PRE017,Attorney General,,,Write-ins,5
+Yamhill,PRE018,Attorney General,,,Write-ins,4
+Yamhill,PRE019,Attorney General,,,Write-ins,4
+Yamhill,PRE020,Attorney General,,,Write-ins,0
+Yamhill,PRE021,Attorney General,,,Write-ins,3
+Yamhill,PRE022,Attorney General,,,Write-ins,2
+Yamhill,PRE026,Attorney General,,,Write-ins,2
+Yamhill,PRE027,Attorney General,,,Write-ins,1
+Yamhill,PRE028,Attorney General,,,Write-ins,4
+Yamhill,PRE026,State Senate,5,REP,Scott Roberts,749
+Yamhill,PRE028,State Senate,5,REP,Scott Roberts,464
+Yamhill,PRE026,State Senate,5,DEM,Arnie Roblan,602
+Yamhill,PRE028,State Senate,5,DEM,Arnie Roblan,321
+Yamhill,PRE026,State Senate,5,,Write-ins,3
+Yamhill,PRE028,State Senate,5,,Write-ins,3
+Yamhill,PRE007,State Senate,12,DEM,Annette Frank,608
+Yamhill,PRE009,State Senate,12,DEM,Annette Frank,956
+Yamhill,PRE010,State Senate,12,DEM,Annette Frank,789
+Yamhill,PRE012,State Senate,12,DEM,Annette Frank,791
+Yamhill,PRE013,State Senate,12,DEM,Annette Frank,833
+Yamhill,PRE014,State Senate,12,DEM,Annette Frank,815
+Yamhill,PRE015,State Senate,12,DEM,Annette Frank,800
+Yamhill,PRE016,State Senate,12,DEM,Annette Frank,608
+Yamhill,PRE017,State Senate,12,DEM,Annette Frank,763
+Yamhill,PRE018,State Senate,12,DEM,Annette Frank,1273
+Yamhill,PRE019,State Senate,12,DEM,Annette Frank,1068
+Yamhill,PRE020,State Senate,12,DEM,Annette Frank,600
+Yamhill,PRE021,State Senate,12,DEM,Annette Frank,638
+Yamhill,PRE022,State Senate,12,DEM,Annette Frank,638
+Yamhill,PRE027,State Senate,12,DEM,Annette Frank,145
+Yamhill,PRE007,State Senate,12,REP,Brian J. Boquist,859
+Yamhill,PRE009,State Senate,12,REP,Brian J. Boquist,1604
+Yamhill,PRE010,State Senate,12,REP,Brian J. Boquist,1019
+Yamhill,PRE012,State Senate,12,REP,Brian J. Boquist,1452
+Yamhill,PRE013,State Senate,12,REP,Brian J. Boquist,1438
+Yamhill,PRE014,State Senate,12,REP,Brian J. Boquist,894
+Yamhill,PRE015,State Senate,12,REP,Brian J. Boquist,916
+Yamhill,PRE016,State Senate,12,REP,Brian J. Boquist,693
+Yamhill,PRE017,State Senate,12,REP,Brian J. Boquist,956
+Yamhill,PRE018,State Senate,12,REP,Brian J. Boquist,1823
+Yamhill,PRE019,State Senate,12,REP,Brian J. Boquist,994
+Yamhill,PRE020,State Senate,12,REP,Brian J. Boquist,986
+Yamhill,PRE021,State Senate,12,REP,Brian J. Boquist,961
+Yamhill,PRE022,State Senate,12,REP,Brian J. Boquist,996
+Yamhill,PRE027,State Senate,12,REP,Brian J. Boquist,240
+Yamhill,PRE007,State Senate,12,,Write-ins,2
+Yamhill,PRE009,State Senate,12,,Write-ins,1
+Yamhill,PRE010,State Senate,12,,Write-ins,3
+Yamhill,PRE012,State Senate,12,,Write-ins,3
+Yamhill,PRE013,State Senate,12,,Write-ins,2
+Yamhill,PRE014,State Senate,12,,Write-ins,4
+Yamhill,PRE015,State Senate,12,,Write-ins,8
+Yamhill,PRE016,State Senate,12,,Write-ins,4
+Yamhill,PRE017,State Senate,12,,Write-ins,4
+Yamhill,PRE018,State Senate,12,,Write-ins,6
+Yamhill,PRE019,State Senate,12,,Write-ins,9
+Yamhill,PRE020,State Senate,12,,Write-ins,0
+Yamhill,PRE021,State Senate,12,,Write-ins,7
+Yamhill,PRE022,State Senate,12,,Write-ins,1
+Yamhill,PRE027,State Senate,12,,Write-ins,1
+Yamhill,PRE026,State House,10,DEM,David Gomberg,652
+Yamhill,PRE028,State House,10,DEM,David Gomberg,321
+Yamhill,PRE026,State House,10,REP,Jerome Grant,675
+Yamhill,PRE028,State House,10,REP,Jerome Grant,445
+Yamhill,PRE026,State House,10,,Write-ins,1
+Yamhill,PRE028,State House,10,,Write-ins,3
+Yamhill,PRE010,State House,23,DEM,Ross Swartzendruber,633
+Yamhill,PRE012,State House,23,DEM,Ross Swartzendruber,774
+Yamhill,PRE020,State House,23,DEM,Ross Swartzendruber,541
+Yamhill,PRE027,State House,23,DEM,Ross Swartzendruber,134
+Yamhill,PRE010,State House,23,PGP,Alex Polikoff,161
+Yamhill,PRE012,State House,23,PGP,Alex Polikoff,182
+Yamhill,PRE020,State House,23,PGP,Alex Polikoff,96
+Yamhill,PRE027,State House,23,PGP,Alex Polikoff,51
+Yamhill,PRE010,State House,23,REP,Jim Thompson,985
+Yamhill,PRE012,State House,23,REP,Jim Thompson,1283
+Yamhill,PRE020,State House,23,REP,Jim Thompson,942
+Yamhill,PRE027,State House,23,REP,Jim Thompson,199
+Yamhill,PRE010,State House,23,,Write-ins,5
+Yamhill,PRE012,State House,23,,Write-ins,5
+Yamhill,PRE020,State House,23,,Write-ins,2
+Yamhill,PRE027,State House,23,,Write-ins,0
+Yamhill,PRE007,State House,24,DEM,Jim Weidner,833
+Yamhill,PRE009,State House,24,DEM,Jim Weidner,1559
+Yamhill,PRE013,State House,24,DEM,Jim Weidner,1464
+Yamhill,PRE014,State House,24,DEM,Jim Weidner,890
+Yamhill,PRE015,State House,24,DEM,Jim Weidner,887
+Yamhill,PRE016,State House,24,DEM,Jim Weidner,671
+Yamhill,PRE017,State House,24,DEM,Jim Weidner,918
+Yamhill,PRE018,State House,24,DEM,Jim Weidner,1737
+Yamhill,PRE019,State House,24,DEM,Jim Weidner,935
+Yamhill,PRE021,State House,24,DEM,Jim Weidner,987
+Yamhill,PRE022,State House,24,DEM,Jim Weidner,987
+Yamhill,PRE007,State House,24,LBT,Kohler Johnson,38
+Yamhill,PRE009,State House,24,LBT,Kohler Johnson,41
+Yamhill,PRE013,State House,24,LBT,Kohler Johnson,53
+Yamhill,PRE014,State House,24,LBT,Kohler Johnson,46
+Yamhill,PRE015,State House,24,LBT,Kohler Johnson,39
+Yamhill,PRE016,State House,24,LBT,Kohler Johnson,26
+Yamhill,PRE017,State House,24,LBT,Kohler Johnson,38
+Yamhill,PRE018,State House,24,LBT,Kohler Johnson,46
+Yamhill,PRE019,State House,24,LBT,Kohler Johnson,56
+Yamhill,PRE021,State House,24,LBT,Kohler Johnson,39
+Yamhill,PRE022,State House,24,LBT,Kohler Johnson,41
+Yamhill,PRE007,State House,24,DEM,Kathy Campbell,615
+Yamhill,PRE009,State House,24,DEM,Kathy Campbell,983
+Yamhill,PRE013,State House,24,DEM,Kathy Campbell,817
+Yamhill,PRE014,State House,24,DEM,Kathy Campbell,830
+Yamhill,PRE015,State House,24,DEM,Kathy Campbell,839
+Yamhill,PRE016,State House,24,DEM,Kathy Campbell,634
+Yamhill,PRE017,State House,24,DEM,Kathy Campbell,833
+Yamhill,PRE018,State House,24,DEM,Kathy Campbell,1386
+Yamhill,PRE019,State House,24,DEM,Kathy Campbell,1138
+Yamhill,PRE021,State House,24,DEM,Kathy Campbell,641
+Yamhill,PRE022,State House,24,DEM,Kathy Campbell,646
+Yamhill,PRE007,State House,24,,Write-ins,2
+Yamhill,PRE009,State House,24,,Write-ins,1
+Yamhill,PRE004,State House,24,,Write-ins,1
+Yamhill,PRE014,State House,24,,Write-ins,1
+Yamhill,PRE015,State House,24,,Write-ins,3
+Yamhill,PRE016,State House,24,,Write-ins,3
+Yamhill,PRE017,State House,24,,Write-ins,2
+Yamhill,PRE018,State House,24,,Write-ins,3
+Yamhill,PRE019,State House,24,,Write-ins,3
+Yamhill,PRE021,State House,24,,Write-ins,2
+Yamhill,PRE022,State House,24,,Write-ins,2
+Yamhill,PRE001,State House,25,DEM,Paul Holman,603
+Yamhill,PRE002,State House,25,DEM,Paul Holman,952
+Yamhill,PRE003,State House,25,DEM,Paul Holman,1143
+Yamhill,PRE004,State House,25,DEM,Paul Holman,856
+Yamhill,PRE001,State House,25,LBT,Ryan Haffner,50
+Yamhill,PRE002,State House,25,LBT,Ryan Haffner,90
+Yamhill,PRE003,State House,25,LBT,Ryan Haffner,101
+Yamhill,PRE004,State House,25,LBT,Ryan Haffner,77
+Yamhill,PRE001,State House,25,REP,Kim Thatcher,1204
+Yamhill,PRE002,State House,25,REP,Kim Thatcher,1632
+Yamhill,PRE003,State House,25,REP,Kim Thatcher,2091
+Yamhill,PRE004,State House,25,REP,Kim Thatcher,1476
+Yamhill,PRE001,State House,25,,Write-ins,4
+Yamhill,PRE002,State House,25,,Write-ins,5
+Yamhill,PRE003,State House,25,,Write-ins,7
+Yamhill,PRE004,State House,25,,Write-ins,2
+Yamhill,PRE013,State House,32,CON,Jim Welsh,0
+Yamhill,PRE013,State House,32,DEM,Deborah Boone,1
+Yamhill,PRE013,State House,32,LBT,Perry Roll,0

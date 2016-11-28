@@ -29,26 +29,26 @@ Wasco,PREC 7,U.S. House,2,REP,WALDEN,688.0
 Wasco,PREC 8,U.S. House,2,REP,WALDEN,518.0
 Wasco,PREC 9,U.S. House,2,REP,WALDEN,357.0
 Wasco,PREC 10,U.S. House,2,REP,WALDEN,408.0
-Wasco,PREC 1,U.S. House,2,,UNDER VOTES,21.0
-Wasco,PREC 2,U.S. House,2,,UNDER VOTES,40.0
-Wasco,PREC 3,U.S. House,2,,UNDER VOTES,24.0
-Wasco,PREC 4,U.S. House,2,,UNDER VOTES,26.0
-Wasco,PREC 5,U.S. House,2,,UNDER VOTES,20.0
-Wasco,PREC 6,U.S. House,2,,UNDER VOTES,43.0
-Wasco,PREC 7,U.S. House,2,,UNDER VOTES,27.0
-Wasco,PREC 8,U.S. House,2,,UNDER VOTES,20.0
-Wasco,PREC 9,U.S. House,2,,UNDER VOTES,39.0
-Wasco,PREC 10,U.S. House,2,,UNDER VOTES,21.0
-Wasco,PREC 1,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 2,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 3,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 4,U.S. House,2,,OVERVOTES,1.0
-Wasco,PREC 5,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 6,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 7,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 8,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 9,U.S. House,2,,OVERVOTES,1.0
-Wasco,PREC 10,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 1,U.S. House,2,,Under Votes,21.0
+Wasco,PREC 2,U.S. House,2,,Under Votes,40.0
+Wasco,PREC 3,U.S. House,2,,Under Votes,24.0
+Wasco,PREC 4,U.S. House,2,,Under Votes,26.0
+Wasco,PREC 5,U.S. House,2,,Under Votes,20.0
+Wasco,PREC 6,U.S. House,2,,Under Votes,43.0
+Wasco,PREC 7,U.S. House,2,,Under Votes,27.0
+Wasco,PREC 8,U.S. House,2,,Under Votes,20.0
+Wasco,PREC 9,U.S. House,2,,Under Votes,39.0
+Wasco,PREC 10,U.S. House,2,,Under Votes,21.0
+Wasco,PREC 1,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 2,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 3,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 4,U.S. House,2,,Over Votes,1.0
+Wasco,PREC 5,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 6,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 7,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 8,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 9,U.S. House,2,,Over Votes,1.0
+Wasco,PREC 10,U.S. House,2,,Over Votes,0.0
 Wasco,PREC 1,Governor,,PGR,"KEATING, JOE",5.0
 Wasco,PREC 2,Governor,,PGR,"KEATING, JOE",24.0
 Wasco,PREC 3,Governor,,PGR,"KEATING, JOE",17.0
@@ -99,23 +99,23 @@ Wasco,PREC 7,Governor,,REP,"SAXTON, RON",505.0
 Wasco,PREC 8,Governor,,REP,"SAXTON, RON",370.0
 Wasco,PREC 9,Governor,,REP,"SAXTON, RON",298.0
 Wasco,PREC 10,Governor,,REP,"SAXTON, RON",268.0
-Wasco,PREC 1,Governor,,,UNDERVOTES,15.0
-Wasco,PREC 2,Governor,,,UNDERVOTES,36.0
-Wasco,PREC 3,Governor,,,UNDERVOTES,18.0
-Wasco,PREC 4,Governor,,,UNDERVOTES,21.0
-Wasco,PREC 5,Governor,,,UNDERVOTES,8.0
-Wasco,PREC 6,Governor,,,UNDERVOTES,25.0
-Wasco,PREC 7,Governor,,,UNDERVOTES,13.0
-Wasco,PREC 8,Governor,,,UNDERVOTES,12.0
-Wasco,PREC 9,Governor,,,UNDERVOTES,19.0
-Wasco,PREC 10,Governor,,,UNDERVOTES,8.0
-Wasco,PREC 1,Governor,,,OVERVOTES,1.0
-Wasco,PREC 2,Governor,,,OVERVOTES,0.0
-Wasco,PREC 3,Governor,,,OVERVOTES,0.0
-Wasco,PREC 4,Governor,,,OVERVOTES,0.0
-Wasco,PREC 5,Governor,,,OVERVOTES,0.0
-Wasco,PREC 6,Governor,,,OVERVOTES,0.0
-Wasco,PREC 7,Governor,,,OVERVOTES,0.0
-Wasco,PREC 8,Governor,,,OVERVOTES,1.0
-Wasco,PREC 9,Governor,,,OVERVOTES,0.0
-Wasco,PREC 10,Governor,,,OVERVOTES,0.0
+Wasco,PREC 1,Governor,,,Under Votes,15.0
+Wasco,PREC 2,Governor,,,Under Votes,36.0
+Wasco,PREC 3,Governor,,,Under Votes,18.0
+Wasco,PREC 4,Governor,,,Under Votes,21.0
+Wasco,PREC 5,Governor,,,Under Votes,8.0
+Wasco,PREC 6,Governor,,,Under Votes,25.0
+Wasco,PREC 7,Governor,,,Under Votes,13.0
+Wasco,PREC 8,Governor,,,Under Votes,12.0
+Wasco,PREC 9,Governor,,,Under Votes,19.0
+Wasco,PREC 10,Governor,,,Under Votes,8.0
+Wasco,PREC 1,Governor,,,Over Votes,1.0
+Wasco,PREC 2,Governor,,,Over Votes,0.0
+Wasco,PREC 3,Governor,,,Over Votes,0.0
+Wasco,PREC 4,Governor,,,Over Votes,0.0
+Wasco,PREC 5,Governor,,,Over Votes,0.0
+Wasco,PREC 6,Governor,,,Over Votes,0.0
+Wasco,PREC 7,Governor,,,Over Votes,0.0
+Wasco,PREC 8,Governor,,,Over Votes,1.0
+Wasco,PREC 9,Governor,,,Over Votes,0.0
+Wasco,PREC 10,Governor,,,Over Votes,0.0

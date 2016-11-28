@@ -1,1 +1,120 @@
-county,office,district,party,candidate,votesJackson,State Senate,3,R,Dave Dotterrer,23700Klamath,State Senate,3,R,Dave Dotterrer,0Jackson,State Senate,3,PG,Art H. Krueger,1917Klamath,State Senate,3,PG,Art H. Krueger,0Jackson,State Senate,3,D,Alan Bates,27678Klamath,State Senate,3,D,Alan Bates,0Jackson,State Senate,3,,Misc.,69Klamath,State Senate,3,,Misc.,0Douglas,State Senate,4,R,Cheryl Mueller,7064Lane,State Senate,4,R,Cheryl Mueller,13055Douglas,State Senate,4,D,Floyd Prozanski,4300Lane,State Senate,4,D,Floyd Prozanski,26301Douglas,State Senate,4,L,William Bollinger,533Lane,State Senate,4,L,William Bollinger,1477Douglas,State Senate,4,,Misc.,42Lane,State Senate,4,,Misc.,134Lane,State Senate,6,D,Lee Beyer,24017Linn,State Senate,6,D,Lee Beyer,1973Lane,State Senate,6,R,Michael P. Spasaro,14171Linn,State Senate,6,R,Michael P. Spasaro,3828Lane,State Senate,6,,Misc.,136Linn,State Senate,6,,Misc.,29Lane,State Senate,7,D,Chris Edwards,30550Lane,State Senate,7,,Misc.,1607Benton,State Senate,8,R,Betsy L. Close,10825Linn,State Senate,8,R,Betsy L. Close,11097Benton,State Senate,8,D,Sara A. Gelser,19560Linn,State Senate,8,D,Sara A. Gelser,8266Benton,State Senate,8,,Misc.,148Linn,State Senate,8,,Misc.,102Marion,State Senate,10,L,Glen E. Ewert,3511Polk,State Senate,10,L,Glen E. Ewert,1804Marion,State Senate,10,R,Jackie Winters,25784Polk,State Senate,10,R,Jackie Winters,12345Marion,State Senate,10,,Misc.,295Polk,State Senate,10,,Misc.,302Marion,State Senate,11,D,Peter Courtney,16179Marion,State Senate,11,R,Patricia Milne,13442Marion,State Senate,11,,Misc.,178Clackamas,State Senate,13,R,Kim Thatcher,3489Marion,State Senate,13,R,Kim Thatcher,8929Washington,State Senate,13,R,Kim Thatcher,9727Yamhill,State Senate,13,R,Kim Thatcher,5493Clackamas,State Senate,13,D,Ryan Howard,2794Marion,State Senate,13,D,Ryan Howard,5082Washington,State Senate,13,D,Ryan Howard,7920Yamhill,State Senate,13,D,Ryan Howard,3638Clackamas,State Senate,13,,Misc.,28Marion,State Senate,13,,Misc.,46Washington,State Senate,13,,Misc.,38Yamhill,State Senate,13,,Misc.,24Washington,State Senate,15,L,Caitlin Mitchel-Markley,3593Washington,State Senate,15,D,Chuck Riley,18156Washington,State Senate,15,R,Bruce Starr,17869Washington,State Senate,15,,Misc.,116Clatsop,State Senate,16,L,Perry R. Roll,415Columbia,State Senate,16,L,Perry R. Roll,697Multnomah,State Senate,16,L,Perry R. Roll,106Tillamook,State Senate,16,L,Perry R. Roll,253Washington,State Senate,16,L,Perry R. Roll,430Yamhill,State Senate,16,L,Perry R. Roll,0Clatsop,State Senate,16,D,Betsy Johnson,10960Columbia,State Senate,16,D,Betsy Johnson,12458Multnomah,State Senate,16,D,Betsy Johnson,1787Tillamook,State Senate,16,D,Betsy Johnson,4949Washington,State Senate,16,D,Betsy Johnson,4170Yamhill,State Senate,16,D,Betsy Johnson,0Clatsop,State Senate,16,I,Andrew Kaza,1536Columbia,State Senate,16,I,Andrew Kaza,2582Multnomah,State Senate,16,I,Andrew Kaza,348Tillamook,State Senate,16,I,Andrew Kaza,846Washington,State Senate,16,I,Andrew Kaza,1291Yamhill,State Senate,16,I,Andrew Kaza,0Clatsop,State Senate,16,C,Bob Ekstrom,974Columbia,State Senate,16,C,Bob Ekstrom,3300Multnomah,State Senate,16,C,Bob Ekstrom,197Tillamook,State Senate,16,C,Bob Ekstrom,447Washington,State Senate,16,C,Bob Ekstrom,1067Yamhill,State Senate,16,C,Bob Ekstrom,0Clatsop,State Senate,16,,Misc.,40Columbia,State Senate,16,,Misc.,61Multnomah,State Senate,16,,Misc.,19Tillamook,State Senate,16,,Misc.,25Washington,State Senate,16,,Misc.,48Yamhill,State Senate,16,,Misc.,0Multnomah,State Senate,17,R,John Verbeek,1612Washington,State Senate,17,R,John Verbeek,14085Multnomah,State Senate,17,D,Elizabeth Steiner Hayward,6885Washington,State Senate,17,D,Elizabeth Steiner Hayward,23792Multnomah,State Senate,17,,Misc.,24Washington,State Senate,17,,Misc.,177Clackamas,State Senate,19,D,Richard Devlin,23764Multnomah,State Senate,19,D,Richard Devlin,9555Washington,State Senate,19,D,Richard Devlin,6210Clackamas,State Senate,19,,Misc.,1082Multnomah,State Senate,19,,Misc.,274Washington,State Senate,19,,Misc.,270Clackamas,State Senate,20,R,Alan R. Olsen,26681Marion,State Senate,20,R,Alan R. Olsen,24Clackamas,State Senate,20,D,Jamie Damon,23924Marion,State Senate,20,D,Jamie Damon,6Clackamas,State Senate,20,,Misc.,199Marion,State Senate,20,,Misc.,0Multnomah,State Senate,23,L,Michael Marvin,6097Multnomah,State Senate,23,D,Michael Dembrow,40948Multnomah,State Senate,23,,Misc.,419Clackamas,State Senate,24,D,Rod Monroe,6158Multnomah,State Senate,24,D,Rod Monroe,16333Clackamas,State Senate,24,,Misc.,326Multnomah,State Senate,24,,Misc.,829Clackamas,State Senate,26,R,Chuck Thomsen,13337Hood River,State Senate,26,R,Chuck Thomsen,4461Multnomah,State Senate,26,R,Chuck Thomsen,6624Clackamas,State Senate,26,D,Robert R. Bruce,8864Hood River,State Senate,26,D,Robert R. Bruce,3679Multnomah,State Senate,26,D,Robert R. Bruce,6098Clackamas,State Senate,26,,Misc.,98Hood River,State Senate,26,,Misc.,22Multnomah,State Senate,26,,Misc.,63
+county,office,district,party,candidate,votes
+Jackson,State Senate,3,R,Dave Dotterrer,23700
+Klamath,State Senate,3,R,Dave Dotterrer,0
+Jackson,State Senate,3,PG,Art H. Krueger,1917
+Klamath,State Senate,3,PG,Art H. Krueger,0
+Jackson,State Senate,3,D,Alan Bates,27678
+Klamath,State Senate,3,D,Alan Bates,0
+Jackson,State Senate,3,,Misc.,69
+Klamath,State Senate,3,,Misc.,0
+Douglas,State Senate,4,R,Cheryl Mueller,7064
+Lane,State Senate,4,R,Cheryl Mueller,13055
+Douglas,State Senate,4,D,Floyd Prozanski,4300
+Lane,State Senate,4,D,Floyd Prozanski,26301
+Douglas,State Senate,4,L,William Bollinger,533
+Lane,State Senate,4,L,William Bollinger,1477
+Douglas,State Senate,4,,Misc.,42
+Lane,State Senate,4,,Misc.,134
+Lane,State Senate,6,D,Lee Beyer,24017
+Linn,State Senate,6,D,Lee Beyer,1973
+Lane,State Senate,6,R,Michael P. Spasaro,14171
+Linn,State Senate,6,R,Michael P. Spasaro,3828
+Lane,State Senate,6,,Misc.,136
+Linn,State Senate,6,,Misc.,29
+Lane,State Senate,7,D,Chris Edwards,30550
+Lane,State Senate,7,,Misc.,1607
+Benton,State Senate,8,R,Betsy L. Close,10825
+Linn,State Senate,8,R,Betsy L. Close,11097
+Benton,State Senate,8,D,Sara A. Gelser,19560
+Linn,State Senate,8,D,Sara A. Gelser,8266
+Benton,State Senate,8,,Misc.,148
+Linn,State Senate,8,,Misc.,102
+Marion,State Senate,10,L,Glen E. Ewert,3511
+Polk,State Senate,10,L,Glen E. Ewert,1804
+Marion,State Senate,10,R,Jackie Winters,25784
+Polk,State Senate,10,R,Jackie Winters,12345
+Marion,State Senate,10,,Misc.,295
+Polk,State Senate,10,,Misc.,302
+Marion,State Senate,11,D,Peter Courtney,16179
+Marion,State Senate,11,R,Patricia Milne,13442
+Marion,State Senate,11,,Misc.,178
+Clackamas,State Senate,13,R,Kim Thatcher,3489
+Marion,State Senate,13,R,Kim Thatcher,8929
+Washington,State Senate,13,R,Kim Thatcher,9727
+Yamhill,State Senate,13,R,Kim Thatcher,5493
+Clackamas,State Senate,13,D,Ryan Howard,2794
+Marion,State Senate,13,D,Ryan Howard,5082
+Washington,State Senate,13,D,Ryan Howard,7920
+Yamhill,State Senate,13,D,Ryan Howard,3638
+Clackamas,State Senate,13,,Misc.,28
+Marion,State Senate,13,,Misc.,46
+Washington,State Senate,13,,Misc.,38
+Yamhill,State Senate,13,,Misc.,24
+Washington,State Senate,15,L,Caitlin Mitchel-Markley,3593
+Washington,State Senate,15,D,Chuck Riley,18156
+Washington,State Senate,15,R,Bruce Starr,17869
+Washington,State Senate,15,,Misc.,116
+Clatsop,State Senate,16,L,Perry R. Roll,415
+Columbia,State Senate,16,L,Perry R. Roll,697
+Multnomah,State Senate,16,L,Perry R. Roll,106
+Tillamook,State Senate,16,L,Perry R. Roll,253
+Washington,State Senate,16,L,Perry R. Roll,430
+Yamhill,State Senate,16,L,Perry R. Roll,0
+Clatsop,State Senate,16,D,Betsy Johnson,10960
+Columbia,State Senate,16,D,Betsy Johnson,12458
+Multnomah,State Senate,16,D,Betsy Johnson,1787
+Tillamook,State Senate,16,D,Betsy Johnson,4949
+Washington,State Senate,16,D,Betsy Johnson,4170
+Yamhill,State Senate,16,D,Betsy Johnson,0
+Clatsop,State Senate,16,I,Andrew Kaza,1536
+Columbia,State Senate,16,I,Andrew Kaza,2582
+Multnomah,State Senate,16,I,Andrew Kaza,348
+Tillamook,State Senate,16,I,Andrew Kaza,846
+Washington,State Senate,16,I,Andrew Kaza,1291
+Yamhill,State Senate,16,I,Andrew Kaza,0
+Clatsop,State Senate,16,C,Bob Ekstrom,974
+Columbia,State Senate,16,C,Bob Ekstrom,3300
+Multnomah,State Senate,16,C,Bob Ekstrom,197
+Tillamook,State Senate,16,C,Bob Ekstrom,447
+Washington,State Senate,16,C,Bob Ekstrom,1067
+Yamhill,State Senate,16,C,Bob Ekstrom,0
+Clatsop,State Senate,16,,Misc.,40
+Columbia,State Senate,16,,Misc.,61
+Multnomah,State Senate,16,,Misc.,19
+Tillamook,State Senate,16,,Misc.,25
+Washington,State Senate,16,,Misc.,48
+Yamhill,State Senate,16,,Misc.,0
+Multnomah,State Senate,17,R,John Verbeek,1612
+Washington,State Senate,17,R,John Verbeek,14085
+Multnomah,State Senate,17,D,Elizabeth Steiner Hayward,6885
+Washington,State Senate,17,D,Elizabeth Steiner Hayward,23792
+Multnomah,State Senate,17,,Misc.,24
+Washington,State Senate,17,,Misc.,177
+Clackamas,State Senate,19,D,Richard Devlin,23764
+Multnomah,State Senate,19,D,Richard Devlin,9555
+Washington,State Senate,19,D,Richard Devlin,6210
+Clackamas,State Senate,19,,Misc.,1082
+Multnomah,State Senate,19,,Misc.,274
+Washington,State Senate,19,,Misc.,270
+Clackamas,State Senate,20,R,Alan R. Olsen,26681
+Marion,State Senate,20,R,Alan R. Olsen,24
+Clackamas,State Senate,20,D,Jamie Damon,23924
+Marion,State Senate,20,D,Jamie Damon,6
+Clackamas,State Senate,20,,Misc.,199
+Marion,State Senate,20,,Misc.,0
+Multnomah,State Senate,23,L,Michael Marvin,6097
+Multnomah,State Senate,23,D,Michael Dembrow,40948
+Multnomah,State Senate,23,,Misc.,419
+Clackamas,State Senate,24,D,Rod Monroe,6158
+Multnomah,State Senate,24,D,Rod Monroe,16333
+Clackamas,State Senate,24,,Misc.,326
+Multnomah,State Senate,24,,Misc.,829
+Clackamas,State Senate,26,R,Chuck Thomsen,13337
+Hood River,State Senate,26,R,Chuck Thomsen,4461
+Multnomah,State Senate,26,R,Chuck Thomsen,6624
+Clackamas,State Senate,26,D,Robert R. Bruce,8864
+Hood River,State Senate,26,D,Robert R. Bruce,3679
+Multnomah,State Senate,26,D,Robert R. Bruce,6098
+Clackamas,State Senate,26,,Misc.,98
+Hood River,State Senate,26,,Misc.,22
+Multnomah,State Senate,26,,Misc.,63

@@ -1,1 +1,1567 @@
-county,precinct,office,district,party,candidate,votesColumbia,0001 Clatskanie 1,Voters,,,Registered,239Columbia,0002 Clatskanie 2,Voters,,,Registered,347Columbia,0003 Clatskanie 3,Voters,,,Registered,266Columbia,0004 North Clatskanie,Voters,,,Registered,392Columbia,0005 South Clatskanie,Voters,,,Registered,518Columbia,0006 South Delena 1,Voters,,,Registered,484Columbia,0007 North Delena 2,Voters,,,Registered,650Columbia,0008 Goble,Voters,,,Registered,702Columbia,0009 Marshland,Voters,,,Registered,232Columbia,0010 South Milton,Voters,,,Registered,287Columbia,0011 North Milton,Voters,,,Registered,329Columbia,0012 South McNulty,Voters,,,Registered,474Columbia,0013 North McNulty,Voters,,,Registered,527Columbia,0014 Quincy,Voters,,,Registered,458Columbia,0015 Rainier 1,Voters,,,Registered,314Columbia,0016 Rainier 2,Voters,,,Registered,677Columbia,0017 West Rainier,Voters,,,Registered,392Columbia,0018 East Rainier,Voters,,,Registered,173Columbia,0019 South Warren,Voters,,,Registered,888Columbia,0020 North Warren,Voters,,,Registered,687Columbia,0021 St. Helens 1,Voters,,,Registered,457Columbia,0022 St. Helens 2,Voters,,,Registered,398Columbia,0023 St. Helens 3,Voters,,,Registered,826Columbia,0024 St. Helens 4,Voters,,,Registered,522Columbia,0025 St. Helens 5,Voters,,,Registered,409Columbia,0026 St. Helens 6,Voters,,,Registered,2153Columbia,0027 St. Helens 7,Voters,,,Registered,522Columbia,0028 St. Helens 8,Voters,,,Registered,543Columbia,0029 St. Helens 9,Voters,,,Registered,613Columbia,0030 South St. Helens,Voters,,,Registered,226Columbia,0031 Scappoose 1,Voters,,,Registered,652Columbia,0032 Scappoose 2,Voters,,,Registered,769Columbia,0033 Scappoose 3,Voters,,,Registered,1339Columbia,0034 Scappoose 4,Voters,,,Registered,1085Columbia,0035 South Scappoose,Voters,,,Registered,691Columbia,0036 Canyon,Voters,,,Registered,434Columbia,0037 East Scappoose,Voters,,,Registered,428Columbia,0038 West Scappoose,Voters,,,Registered,478Columbia,0039 Sauvie Island,Voters,,,Registered,40Columbia,0040 Yankton,Voters,,,Registered,951Columbia,0041 Vernonia 1,Voters,,,Registered,436Columbia,0042 Vernonia 2,Voters,,,Registered,292Columbia,0043 Vernonia 3,Voters,,,Registered,451Columbia,0044 Vernonia 4,Voters,,,Registered,209Columbia,0045 Vernonia,Voters,,,Registered,552Columbia,0046 Apiary,Voters,,,Registered,594Columbia,0047 Chapman,Voters,,,Registered,589Columbia,0048 South Deer Island,Voters,,,Registered,372Columbia,0049 North Deer Island,Voters,,,Registered,500Columbia,0050 Prescott,Voters,,,Registered,41Columbia,0051 South Mist,Voters,,,Registered,189Columbia,0052 North Mist,Voters,,,Registered,63Columbia,0053 Columbia City,Voters,,,Registered,1283Columbia,0055 East Chapman,Voters,,,Registered,231Columbia,0001 Clatskanie 1,Voters,,,Ballots Cast,177Columbia,0002 Clatskanie 2,Voters,,,Ballots Cast,258Columbia,0003 Clatskanie 3,Voters,,,Ballots Cast,176Columbia,0004 North Clatskanie,Voters,,,Ballots Cast,275Columbia,0005 South Clatskanie,Voters,,,Ballots Cast,383Columbia,0006 South Delena 1,Voters,,,Ballots Cast,329Columbia,0007 North Delena 2,Voters,,,Ballots Cast,455Columbia,0008 Goble,Voters,,,Ballots Cast,539Columbia,0009 Marshland,Voters,,,Ballots Cast,181Columbia,0010 South Milton,Voters,,,Ballots Cast,230Columbia,0011 North Milton,Voters,,,Ballots Cast,264Columbia,0012 South McNulty,Voters,,,Ballots Cast,349Columbia,0013 North McNulty,Voters,,,Ballots Cast,414Columbia,0014 Quincy,Voters,,,Ballots Cast,332Columbia,0015 Rainier 1,Voters,,,Ballots Cast,216Columbia,0016 Rainier 2,Voters,,,Ballots Cast,468Columbia,0017 West Rainier,Voters,,,Ballots Cast,257Columbia,0018 East Rainier,Voters,,,Ballots Cast,124Columbia,0019 South Warren,Voters,,,Ballots Cast,724Columbia,0020 North Warren,Voters,,,Ballots Cast,540Columbia,0021 St. Helens 1,Voters,,,Ballots Cast,317Columbia,0022 St. Helens 2,Voters,,,Ballots Cast,304Columbia,0023 St. Helens 3,Voters,,,Ballots Cast,544Columbia,0024 St. Helens 4,Voters,,,Ballots Cast,350Columbia,0025 St. Helens 5,Voters,,,Ballots Cast,289Columbia,0026 St. Helens 6,Voters,,,Ballots Cast,1500Columbia,0027 St. Helens 7,Voters,,,Ballots Cast,332Columbia,0028 St. Helens 8,Voters,,,Ballots Cast,377Columbia,0029 St. Helens 9,Voters,,,Ballots Cast,426Columbia,0030 South St. Helens,Voters,,,Ballots Cast,170Columbia,0031 Scappoose 1,Voters,,,Ballots Cast,474Columbia,0032 Scappoose 2,Voters,,,Ballots Cast,540Columbia,0033 Scappoose 3,Voters,,,Ballots Cast,960Columbia,0034 Scappoose 4,Voters,,,Ballots Cast,749Columbia,0035 South Scappoose,Voters,,,Ballots Cast,507Columbia,0036 Canyon,Voters,,,Ballots Cast,352Columbia,0037 East Scappoose,Voters,,,Ballots Cast,308Columbia,0038 West Scappoose,Voters,,,Ballots Cast,357Columbia,0039 Sauvie Island,Voters,,,Ballots Cast,29Columbia,0040 Yankton,Voters,,,Ballots Cast,731Columbia,0041 Vernonia 1,Voters,,,Ballots Cast,293Columbia,0042 Vernonia 2,Voters,,,Ballots Cast,208Columbia,0043 Vernonia 3,Voters,,,Ballots Cast,307Columbia,0044 Vernonia 4,Voters,,,Ballots Cast,149Columbia,0045 Vernonia,Voters,,,Ballots Cast,429Columbia,0046 Apiary,Voters,,,Ballots Cast,439Columbia,0047 Chapman,Voters,,,Ballots Cast,453Columbia,0048 South Deer Island,Voters,,,Ballots Cast,261Columbia,0049 North Deer Island,Voters,,,Ballots Cast,383Columbia,0050 Prescott,Voters,,,Ballots Cast,32Columbia,0051 South Mist,Voters,,,Ballots Cast,146Columbia,0052 North Mist,Voters,,,Ballots Cast,46Columbia,0053 Columbia City,Voters,,,Ballots Cast,1008Columbia,0055 East Chapman,Voters,,,Ballots Cast,187Columbia,0001 Clatskanie 1,U.S. Senate,,L,Mike Montchalin,9Columbia,0002 Clatskanie 2,U.S. Senate,,L,Mike Montchalin,8Columbia,0003 Clatskanie 3,U.S. Senate,,L,Mike Montchalin,8Columbia,0004 North Clatskanie,U.S. Senate,,L,Mike Montchalin,16Columbia,0005 South Clatskanie,U.S. Senate,,L,Mike Montchalin,23Columbia,0006 South Delena 1,U.S. Senate,,L,Mike Montchalin,19Columbia,0007 North Delena 2,U.S. Senate,,L,Mike Montchalin,15Columbia,0008 Goble,U.S. Senate,,L,Mike Montchalin,29Columbia,0009 Marshland,U.S. Senate,,L,Mike Montchalin,2Columbia,0010 South Milton,U.S. Senate,,L,Mike Montchalin,6Columbia,0011 North Milton,U.S. Senate,,L,Mike Montchalin,14Columbia,0012 South McNulty,U.S. Senate,,L,Mike Montchalin,7Columbia,0013 North McNulty,U.S. Senate,,L,Mike Montchalin,17Columbia,0014 Quincy,U.S. Senate,,L,Mike Montchalin,16Columbia,0015 Rainier 1,U.S. Senate,,L,Mike Montchalin,12Columbia,0016 Rainier 2,U.S. Senate,,L,Mike Montchalin,18Columbia,0017 West Rainier,U.S. Senate,,L,Mike Montchalin,11Columbia,0018 East Rainier,U.S. Senate,,L,Mike Montchalin,7Columbia,0019 South Warren,U.S. Senate,,L,Mike Montchalin,18Columbia,0020 North Warren,U.S. Senate,,L,Mike Montchalin,25Columbia,0021 St. Helens 1,U.S. Senate,,L,Mike Montchalin,14Columbia,0022 St. Helens 2,U.S. Senate,,L,Mike Montchalin,9Columbia,0023 St. Helens 3,U.S. Senate,,L,Mike Montchalin,31Columbia,0024 St. Helens 4,U.S. Senate,,L,Mike Montchalin,13Columbia,0025 St. Helens 5,U.S. Senate,,L,Mike Montchalin,18Columbia,0026 St. Helens 6,U.S. Senate,,L,Mike Montchalin,53Columbia,0027 St. Helens 7,U.S. Senate,,L,Mike Montchalin,13Columbia,0028 St. Helens 8,U.S. Senate,,L,Mike Montchalin,25Columbia,0029 St. Helens 9,U.S. Senate,,L,Mike Montchalin,17Columbia,0030 South St. Helens,U.S. Senate,,L,Mike Montchalin,2Columbia,0031 Scappoose 1,U.S. Senate,,L,Mike Montchalin,13Columbia,0032 Scappoose 2,U.S. Senate,,L,Mike Montchalin,18Columbia,0033 Scappoose 3,U.S. Senate,,L,Mike Montchalin,30Columbia,0034 Scappoose 4,U.S. Senate,,L,Mike Montchalin,33Columbia,0035 South Scappoose,U.S. Senate,,L,Mike Montchalin,23Columbia,0036 Canyon,U.S. Senate,,L,Mike Montchalin,15Columbia,0037 East Scappoose,U.S. Senate,,L,Mike Montchalin,13Columbia,0038 West Scappoose,U.S. Senate,,L,Mike Montchalin,12Columbia,0039 Sauvie Island,U.S. Senate,,L,Mike Montchalin,0Columbia,0040 Yankton,U.S. Senate,,L,Mike Montchalin,20Columbia,0041 Vernonia 1,U.S. Senate,,L,Mike Montchalin,12Columbia,0042 Vernonia 2,U.S. Senate,,L,Mike Montchalin,7Columbia,0043 Vernonia 3,U.S. Senate,,L,Mike Montchalin,12Columbia,0044 Vernonia 4,U.S. Senate,,L,Mike Montchalin,8Columbia,0045 Vernonia,U.S. Senate,,L,Mike Montchalin,19Columbia,0046 Apiary,U.S. Senate,,L,Mike Montchalin,25Columbia,0047 Chapman,U.S. Senate,,L,Mike Montchalin,17Columbia,0048 South Deer Island,U.S. Senate,,L,Mike Montchalin,8Columbia,0049 North Deer Island,U.S. Senate,,L,Mike Montchalin,17Columbia,0050 Prescott,U.S. Senate,,L,Mike Montchalin,2Columbia,0051 South Mist,U.S. Senate,,L,Mike Montchalin,6Columbia,0052 North Mist,U.S. Senate,,L,Mike Montchalin,0Columbia,0053 Columbia City,U.S. Senate,,L,Mike Montchalin,30Columbia,0055 East Chapman,U.S. Senate,,L,Mike Montchalin,8Columbia,0001 Clatskanie 1,U.S. Senate,,D,Jeff Merkley,83Columbia,0002 Clatskanie 2,U.S. Senate,,D,Jeff Merkley,111Columbia,0003 Clatskanie 3,U.S. Senate,,D,Jeff Merkley,66Columbia,0004 North Clatskanie,U.S. Senate,,D,Jeff Merkley,116Columbia,0005 South Clatskanie,U.S. Senate,,D,Jeff Merkley,190Columbia,0006 South Delena 1,U.S. Senate,,D,Jeff Merkley,147Columbia,0007 North Delena 2,U.S. Senate,,D,Jeff Merkley,240Columbia,0008 Goble,U.S. Senate,,D,Jeff Merkley,227Columbia,0009 Marshland,U.S. Senate,,D,Jeff Merkley,97Columbia,0010 South Milton,U.S. Senate,,D,Jeff Merkley,113Columbia,0011 North Milton,U.S. Senate,,D,Jeff Merkley,125Columbia,0012 South McNulty,U.S. Senate,,D,Jeff Merkley,179Columbia,0013 North McNulty,U.S. Senate,,D,Jeff Merkley,199Columbia,0014 Quincy,U.S. Senate,,D,Jeff Merkley,155Columbia,0015 Rainier 1,U.S. Senate,,D,Jeff Merkley,104Columbia,0016 Rainier 2,U.S. Senate,,D,Jeff Merkley,228Columbia,0017 West Rainier,U.S. Senate,,D,Jeff Merkley,115Columbia,0018 East Rainier,U.S. Senate,,D,Jeff Merkley,64Columbia,0019 South Warren,U.S. Senate,,D,Jeff Merkley,339Columbia,0020 North Warren,U.S. Senate,,D,Jeff Merkley,233Columbia,0021 St. Helens 1,U.S. Senate,,D,Jeff Merkley,175Columbia,0022 St. Helens 2,U.S. Senate,,D,Jeff Merkley,174Columbia,0023 St. Helens 3,U.S. Senate,,D,Jeff Merkley,281Columbia,0024 St. Helens 4,U.S. Senate,,D,Jeff Merkley,173Columbia,0025 St. Helens 5,U.S. Senate,,D,Jeff Merkley,155Columbia,0026 St. Helens 6,U.S. Senate,,D,Jeff Merkley,683Columbia,0027 St. Helens 7,U.S. Senate,,D,Jeff Merkley,178Columbia,0028 St. Helens 8,U.S. Senate,,D,Jeff Merkley,189Columbia,0029 St. Helens 9,U.S. Senate,,D,Jeff Merkley,209Columbia,0030 South St. Helens,U.S. Senate,,D,Jeff Merkley,97Columbia,0031 Scappoose 1,U.S. Senate,,D,Jeff Merkley,224Columbia,0032 Scappoose 2,U.S. Senate,,D,Jeff Merkley,280Columbia,0033 Scappoose 3,U.S. Senate,,D,Jeff Merkley,489Columbia,0034 Scappoose 4,U.S. Senate,,D,Jeff Merkley,381Columbia,0035 South Scappoose,U.S. Senate,,D,Jeff Merkley,245Columbia,0036 Canyon,U.S. Senate,,D,Jeff Merkley,186Columbia,0037 East Scappoose,U.S. Senate,,D,Jeff Merkley,166Columbia,0038 West Scappoose,U.S. Senate,,D,Jeff Merkley,182Columbia,0039 Sauvie Island,U.S. Senate,,D,Jeff Merkley,13Columbia,0040 Yankton,U.S. Senate,,D,Jeff Merkley,339Columbia,0041 Vernonia 1,U.S. Senate,,D,Jeff Merkley,137Columbia,0042 Vernonia 2,U.S. Senate,,D,Jeff Merkley,80Columbia,0043 Vernonia 3,U.S. Senate,,D,Jeff Merkley,131Columbia,0044 Vernonia 4,U.S. Senate,,D,Jeff Merkley,62Columbia,0045 Vernonia,U.S. Senate,,D,Jeff Merkley,152Columbia,0046 Apiary,U.S. Senate,,D,Jeff Merkley,210Columbia,0047 Chapman,U.S. Senate,,D,Jeff Merkley,241Columbia,0048 South Deer Island,U.S. Senate,,D,Jeff Merkley,98Columbia,0049 North Deer Island,U.S. Senate,,D,Jeff Merkley,169Columbia,0050 Prescott,U.S. Senate,,D,Jeff Merkley,19Columbia,0051 South Mist,U.S. Senate,,D,Jeff Merkley,68Columbia,0052 North Mist,U.S. Senate,,D,Jeff Merkley,18Columbia,0053 Columbia City,U.S. Senate,,D,Jeff Merkley,532Columbia,0055 East Chapman,U.S. Senate,,D,Jeff Merkley,90Columbia,0001 Clatskanie 1,U.S. Senate,,PAC,Christina Lugo,3Columbia,0002 Clatskanie 2,U.S. Senate,,PAC,Christina Lugo,5Columbia,0003 Clatskanie 3,U.S. Senate,,PAC,Christina Lugo,6Columbia,0004 North Clatskanie,U.S. Senate,,PAC,Christina Lugo,6Columbia,0005 South Clatskanie,U.S. Senate,,PAC,Christina Lugo,5Columbia,0006 South Delena 1,U.S. Senate,,PAC,Christina Lugo,8Columbia,0007 North Delena 2,U.S. Senate,,PAC,Christina Lugo,8Columbia,0008 Goble,U.S. Senate,,PAC,Christina Lugo,14Columbia,0009 Marshland,U.S. Senate,,PAC,Christina Lugo,5Columbia,0010 South Milton,U.S. Senate,,PAC,Christina Lugo,7Columbia,0011 North Milton,U.S. Senate,,PAC,Christina Lugo,10Columbia,0012 South McNulty,U.S. Senate,,PAC,Christina Lugo,8Columbia,0013 North McNulty,U.S. Senate,,PAC,Christina Lugo,8Columbia,0014 Quincy,U.S. Senate,,PAC,Christina Lugo,1Columbia,0015 Rainier 1,U.S. Senate,,PAC,Christina Lugo,5Columbia,0016 Rainier 2,U.S. Senate,,PAC,Christina Lugo,9Columbia,0017 West Rainier,U.S. Senate,,PAC,Christina Lugo,7Columbia,0018 East Rainier,U.S. Senate,,PAC,Christina Lugo,2Columbia,0019 South Warren,U.S. Senate,,PAC,Christina Lugo,8Columbia,0020 North Warren,U.S. Senate,,PAC,Christina Lugo,9Columbia,0021 St. Helens 1,U.S. Senate,,PAC,Christina Lugo,8Columbia,0022 St. Helens 2,U.S. Senate,,PAC,Christina Lugo,8Columbia,0023 St. Helens 3,U.S. Senate,,PAC,Christina Lugo,19Columbia,0024 St. Helens 4,U.S. Senate,,PAC,Christina Lugo,8Columbia,0025 St. Helens 5,U.S. Senate,,PAC,Christina Lugo,13Columbia,0026 St. Helens 6,U.S. Senate,,PAC,Christina Lugo,33Columbia,0027 St. Helens 7,U.S. Senate,,PAC,Christina Lugo,12Columbia,0028 St. Helens 8,U.S. Senate,,PAC,Christina Lugo,12Columbia,0029 St. Helens 9,U.S. Senate,,PAC,Christina Lugo,11Columbia,0030 South St. Helens,U.S. Senate,,PAC,Christina Lugo,4Columbia,0031 Scappoose 1,U.S. Senate,,PAC,Christina Lugo,5Columbia,0032 Scappoose 2,U.S. Senate,,PAC,Christina Lugo,8Columbia,0033 Scappoose 3,U.S. Senate,,PAC,Christina Lugo,22Columbia,0034 Scappoose 4,U.S. Senate,,PAC,Christina Lugo,9Columbia,0035 South Scappoose,U.S. Senate,,PAC,Christina Lugo,9Columbia,0036 Canyon,U.S. Senate,,PAC,Christina Lugo,3Columbia,0037 East Scappoose,U.S. Senate,,PAC,Christina Lugo,11Columbia,0038 West Scappoose,U.S. Senate,,PAC,Christina Lugo,5Columbia,0039 Sauvie Island,U.S. Senate,,PAC,Christina Lugo,1Columbia,0040 Yankton,U.S. Senate,,PAC,Christina Lugo,22Columbia,0041 Vernonia 1,U.S. Senate,,PAC,Christina Lugo,3Columbia,0042 Vernonia 2,U.S. Senate,,PAC,Christina Lugo,3Columbia,0043 Vernonia 3,U.S. Senate,,PAC,Christina Lugo,2Columbia,0044 Vernonia 4,U.S. Senate,,PAC,Christina Lugo,1Columbia,0045 Vernonia,U.S. Senate,,PAC,Christina Lugo,9Columbia,0046 Apiary,U.S. Senate,,PAC,Christina Lugo,4Columbia,0047 Chapman,U.S. Senate,,PAC,Christina Lugo,10Columbia,0048 South Deer Island,U.S. Senate,,PAC,Christina Lugo,9Columbia,0049 North Deer Island,U.S. Senate,,PAC,Christina Lugo,12Columbia,0050 Prescott,U.S. Senate,,PAC,Christina Lugo,0Columbia,0051 South Mist,U.S. Senate,,PAC,Christina Lugo,3Columbia,0052 North Mist,U.S. Senate,,PAC,Christina Lugo,2Columbia,0053 Columbia City,U.S. Senate,,PAC,Christina Lugo,11Columbia,0055 East Chapman,U.S. Senate,,PAC,Christina Lugo,4Columbia,0001 Clatskanie 1,U.S. Senate,,CON,James E. Leuenberger,11Columbia,0002 Clatskanie 2,U.S. Senate,,CON,James E. Leuenberger,6Columbia,0003 Clatskanie 3,U.S. Senate,,CON,James E. Leuenberger,8Columbia,0004 North Clatskanie,U.S. Senate,,CON,James E. Leuenberger,9Columbia,0005 South Clatskanie,U.S. Senate,,CON,James E. Leuenberger,20Columbia,0006 South Delena 1,U.S. Senate,,CON,James E. Leuenberger,21Columbia,0007 North Delena 2,U.S. Senate,,CON,James E. Leuenberger,23Columbia,0008 Goble,U.S. Senate,,CON,James E. Leuenberger,24Columbia,0009 Marshland,U.S. Senate,,CON,James E. Leuenberger,6Columbia,0010 South Milton,U.S. Senate,,CON,James E. Leuenberger,3Columbia,0011 North Milton,U.S. Senate,,CON,James E. Leuenberger,3Columbia,0012 South McNulty,U.S. Senate,,CON,James E. Leuenberger,6Columbia,0013 North McNulty,U.S. Senate,,CON,James E. Leuenberger,7Columbia,0014 Quincy,U.S. Senate,,CON,James E. Leuenberger,29Columbia,0015 Rainier 1,U.S. Senate,,CON,James E. Leuenberger,5Columbia,0016 Rainier 2,U.S. Senate,,CON,James E. Leuenberger,10Columbia,0017 West Rainier,U.S. Senate,,CON,James E. Leuenberger,7Columbia,0018 East Rainier,U.S. Senate,,CON,James E. Leuenberger,1Columbia,0019 South Warren,U.S. Senate,,CON,James E. Leuenberger,19Columbia,0020 North Warren,U.S. Senate,,CON,James E. Leuenberger,16Columbia,0021 St. Helens 1,U.S. Senate,,CON,James E. Leuenberger,12Columbia,0022 St. Helens 2,U.S. Senate,,CON,James E. Leuenberger,8Columbia,0023 St. Helens 3,U.S. Senate,,CON,James E. Leuenberger,24Columbia,0024 St. Helens 4,U.S. Senate,,CON,James E. Leuenberger,14Columbia,0025 St. Helens 5,U.S. Senate,,CON,James E. Leuenberger,4Columbia,0026 St. Helens 6,U.S. Senate,,CON,James E. Leuenberger,33Columbia,0027 St. Helens 7,U.S. Senate,,CON,James E. Leuenberger,10Columbia,0028 St. Helens 8,U.S. Senate,,CON,James E. Leuenberger,11Columbia,0029 St. Helens 9,U.S. Senate,,CON,James E. Leuenberger,12Columbia,0030 South St. Helens,U.S. Senate,,CON,James E. Leuenberger,1Columbia,0031 Scappoose 1,U.S. Senate,,CON,James E. Leuenberger,15Columbia,0032 Scappoose 2,U.S. Senate,,CON,James E. Leuenberger,12Columbia,0033 Scappoose 3,U.S. Senate,,CON,James E. Leuenberger,24Columbia,0034 Scappoose 4,U.S. Senate,,CON,James E. Leuenberger,19Columbia,0035 South Scappoose,U.S. Senate,,CON,James E. Leuenberger,12Columbia,0036 Canyon,U.S. Senate,,CON,James E. Leuenberger,14Columbia,0037 East Scappoose,U.S. Senate,,CON,James E. Leuenberger,5Columbia,0038 West Scappoose,U.S. Senate,,CON,James E. Leuenberger,10Columbia,0039 Sauvie Island,U.S. Senate,,CON,James E. Leuenberger,0Columbia,0040 Yankton,U.S. Senate,,CON,James E. Leuenberger,29Columbia,0041 Vernonia 1,U.S. Senate,,CON,James E. Leuenberger,3Columbia,0042 Vernonia 2,U.S. Senate,,CON,James E. Leuenberger,6Columbia,0043 Vernonia 3,U.S. Senate,,CON,James E. Leuenberger,10Columbia,0044 Vernonia 4,U.S. Senate,,CON,James E. Leuenberger,7Columbia,0045 Vernonia,U.S. Senate,,CON,James E. Leuenberger,20Columbia,0046 Apiary,U.S. Senate,,CON,James E. Leuenberger,11Columbia,0047 Chapman,U.S. Senate,,CON,James E. Leuenberger,16Columbia,0048 South Deer Island,U.S. Senate,,CON,James E. Leuenberger,5Columbia,0049 North Deer Island,U.S. Senate,,CON,James E. Leuenberger,28Columbia,0050 Prescott,U.S. Senate,,CON,James E. Leuenberger,1Columbia,0051 South Mist,U.S. Senate,,CON,James E. Leuenberger,7Columbia,0052 North Mist,U.S. Senate,,CON,James E. Leuenberger,0Columbia,0053 Columbia City,U.S. Senate,,CON,James E. Leuenberger,21Columbia,0055 East Chapman,U.S. Senate,,CON,James E. Leuenberger,2Columbia,0001 Clatskanie 1,U.S. Senate,,REP,Monica Wehby,62Columbia,0002 Clatskanie 2,U.S. Senate,,REP,Monica Wehby,115Columbia,0003 Clatskanie 3,U.S. Senate,,REP,Monica Wehby,79Columbia,0004 North Clatskanie,U.S. Senate,,REP,Monica Wehby,115Columbia,0005 South Clatskanie,U.S. Senate,,REP,Monica Wehby,136Columbia,0006 South Delena 1,U.S. Senate,,REP,Monica Wehby,132Columbia,0007 North Delena 2,U.S. Senate,,REP,Monica Wehby,153Columbia,0008 Goble,U.S. Senate,,REP,Monica Wehby,218Columbia,0009 Marshland,U.S. Senate,,REP,Monica Wehby,68Columbia,0010 South Milton,U.S. Senate,,REP,Monica Wehby,91Columbia,0011 North Milton,U.S. Senate,,REP,Monica Wehby,97Columbia,0012 South McNulty,U.S. Senate,,REP,Monica Wehby,135Columbia,0013 North McNulty,U.S. Senate,,REP,Monica Wehby,165Columbia,0014 Quincy,U.S. Senate,,REP,Monica Wehby,117Columbia,0015 Rainier 1,U.S. Senate,,REP,Monica Wehby,75Columbia,0016 Rainier 2,U.S. Senate,,REP,Monica Wehby,185Columbia,0017 West Rainier,U.S. Senate,,REP,Monica Wehby,99Columbia,0018 East Rainier,U.S. Senate,,REP,Monica Wehby,46Columbia,0019 South Warren,U.S. Senate,,REP,Monica Wehby,319Columbia,0020 North Warren,U.S. Senate,,REP,Monica Wehby,235Columbia,0021 St. Helens 1,U.S. Senate,,REP,Monica Wehby,95Columbia,0022 St. Helens 2,U.S. Senate,,REP,Monica Wehby,93Columbia,0023 St. Helens 3,U.S. Senate,,REP,Monica Wehby,159Columbia,0024 St. Helens 4,U.S. Senate,,REP,Monica Wehby,117Columbia,0025 St. Helens 5,U.S. Senate,,REP,Monica Wehby,86Columbia,0026 St. Helens 6,U.S. Senate,,REP,Monica Wehby,618Columbia,0027 St. Helens 7,U.S. Senate,,REP,Monica Wehby,104Columbia,0028 St. Helens 8,U.S. Senate,,REP,Monica Wehby,121Columbia,0029 St. Helens 9,U.S. Senate,,REP,Monica Wehby,155Columbia,0030 South St. Helens,U.S. Senate,,REP,Monica Wehby,54Columbia,0031 Scappoose 1,U.S. Senate,,REP,Monica Wehby,197Columbia,0032 Scappoose 2,U.S. Senate,,REP,Monica Wehby,200Columbia,0033 Scappoose 3,U.S. Senate,,REP,Monica Wehby,353Columbia,0034 Scappoose 4,U.S. Senate,,REP,Monica Wehby,286Columbia,0035 South Scappoose,U.S. Senate,,REP,Monica Wehby,197Columbia,0036 Canyon,U.S. Senate,,REP,Monica Wehby,120Columbia,0037 East Scappoose,U.S. Senate,,REP,Monica Wehby,94Columbia,0038 West Scappoose,U.S. Senate,,REP,Monica Wehby,127Columbia,0039 Sauvie Island,U.S. Senate,,REP,Monica Wehby,15Columbia,0040 Yankton,U.S. Senate,,REP,Monica Wehby,290Columbia,0041 Vernonia 1,U.S. Senate,,REP,Monica Wehby,123Columbia,0042 Vernonia 2,U.S. Senate,,REP,Monica Wehby,102Columbia,0043 Vernonia 3,U.S. Senate,,REP,Monica Wehby,131Columbia,0044 Vernonia 4,U.S. Senate,,REP,Monica Wehby,67Columbia,0045 Vernonia,U.S. Senate,,REP,Monica Wehby,201Columbia,0046 Apiary,U.S. Senate,,REP,Monica Wehby,168Columbia,0047 Chapman,U.S. Senate,,REP,Monica Wehby,155Columbia,0048 South Deer Island,U.S. Senate,,REP,Monica Wehby,129Columbia,0049 North Deer Island,U.S. Senate,,REP,Monica Wehby,143Columbia,0050 Prescott,U.S. Senate,,REP,Monica Wehby,10Columbia,0051 South Mist,U.S. Senate,,REP,Monica Wehby,58Columbia,0052 North Mist,U.S. Senate,,REP,Monica Wehby,23Columbia,0053 Columbia City,U.S. Senate,,REP,Monica Wehby,372Columbia,0055 East Chapman,U.S. Senate,,REP,Monica Wehby,74Columbia,0001 Clatskanie 1,U.S. Senate,,,Write-ins,0Columbia,0002 Clatskanie 2,U.S. Senate,,,Write-ins,1Columbia,0003 Clatskanie 3,U.S. Senate,,,Write-ins,0Columbia,0004 North Clatskanie,U.S. Senate,,,Write-ins,0Columbia,0005 South Clatskanie,U.S. Senate,,,Write-ins,3Columbia,0006 South Delena 1,U.S. Senate,,,Write-ins,0Columbia,0007 North Delena 2,U.S. Senate,,,Write-ins,1Columbia,0008 Goble,U.S. Senate,,,Write-ins,3Columbia,0009 Marshland,U.S. Senate,,,Write-ins,0Columbia,0010 South Milton,U.S. Senate,,,Write-ins,1Columbia,0011 North Milton,U.S. Senate,,,Write-ins,1Columbia,0012 South McNulty,U.S. Senate,,,Write-ins,1Columbia,0013 North McNulty,U.S. Senate,,,Write-ins,3Columbia,0014 Quincy,U.S. Senate,,,Write-ins,1Columbia,0015 Rainier 1,U.S. Senate,,,Write-ins,1Columbia,0016 Rainier 2,U.S. Senate,,,Write-ins,0Columbia,0017 West Rainier,U.S. Senate,,,Write-ins,2Columbia,0018 East Rainier,U.S. Senate,,,Write-ins,0Columbia,0019 South Warren,U.S. Senate,,,Write-ins,2Columbia,0020 North Warren,U.S. Senate,,,Write-ins,1Columbia,0021 St. Helens 1,U.S. Senate,,,Write-ins,1Columbia,0022 St. Helens 2,U.S. Senate,,,Write-ins,0Columbia,0023 St. Helens 3,U.S. Senate,,,Write-ins,0Columbia,0024 St. Helens 4,U.S. Senate,,,Write-ins,6Columbia,0025 St. Helens 5,U.S. Senate,,,Write-ins,1Columbia,0026 St. Helens 6,U.S. Senate,,,Write-ins,5Columbia,0027 St. Helens 7,U.S. Senate,,,Write-ins,0Columbia,0028 St. Helens 8,U.S. Senate,,,Write-ins,0Columbia,0029 St. Helens 9,U.S. Senate,,,Write-ins,1Columbia,0030 South St. Helens,U.S. Senate,,,Write-ins,4Columbia,0031 Scappoose 1,U.S. Senate,,,Write-ins,0Columbia,0032 Scappoose 2,U.S. Senate,,,Write-ins,0Columbia,0033 Scappoose 3,U.S. Senate,,,Write-ins,3Columbia,0034 Scappoose 4,U.S. Senate,,,Write-ins,0Columbia,0035 South Scappoose,U.S. Senate,,,Write-ins,0Columbia,0036 Canyon,U.S. Senate,,,Write-ins,1Columbia,0037 East Scappoose,U.S. Senate,,,Write-ins,0Columbia,0038 West Scappoose,U.S. Senate,,,Write-ins,2Columbia,0039 Sauvie Island,U.S. Senate,,,Write-ins,0Columbia,0040 Yankton,U.S. Senate,,,Write-ins,3Columbia,0041 Vernonia 1,U.S. Senate,,,Write-ins,1Columbia,0042 Vernonia 2,U.S. Senate,,,Write-ins,0Columbia,0043 Vernonia 3,U.S. Senate,,,Write-ins,3Columbia,0044 Vernonia 4,U.S. Senate,,,Write-ins,0Columbia,0045 Vernonia,U.S. Senate,,,Write-ins,3Columbia,0046 Apiary,U.S. Senate,,,Write-ins,0Columbia,0047 Chapman,U.S. Senate,,,Write-ins,0Columbia,0048 South Deer Island,U.S. Senate,,,Write-ins,3Columbia,0049 North Deer Island,U.S. Senate,,,Write-ins,1Columbia,0050 Prescott,U.S. Senate,,,Write-ins,0Columbia,0051 South Mist,U.S. Senate,,,Write-ins,0Columbia,0052 North Mist,U.S. Senate,,,Write-ins,0Columbia,0053 Columbia City,U.S. Senate,,,Write-ins,0Columbia,0055 East Chapman,U.S. Senate,,,Write-ins,1Columbia,0001 Clatskanie 1,U.S. House,1,PAC,Steven Reynolds,5Columbia,0002 Clatskanie 2,U.S. House,1,PAC,Steven Reynolds,13Columbia,0003 Clatskanie 3,U.S. House,1,PAC,Steven Reynolds,9Columbia,0004 North Clatskanie,U.S. House,1,PAC,Steven Reynolds,13Columbia,0005 South Clatskanie,U.S. House,1,PAC,Steven Reynolds,7Columbia,0006 South Delena 1,U.S. House,1,PAC,Steven Reynolds,10Columbia,0007 North Delena 2,U.S. House,1,PAC,Steven Reynolds,12Columbia,0008 Goble,U.S. House,1,PAC,Steven Reynolds,28Columbia,0009 Marshland,U.S. House,1,PAC,Steven Reynolds,5Columbia,0010 South Milton,U.S. House,1,PAC,Steven Reynolds,6Columbia,0011 North Milton,U.S. House,1,PAC,Steven Reynolds,13Columbia,0012 South McNulty,U.S. House,1,PAC,Steven Reynolds,12Columbia,0013 North McNulty,U.S. House,1,PAC,Steven Reynolds,20Columbia,0014 Quincy,U.S. House,1,PAC,Steven Reynolds,5Columbia,0015 Rainier 1,U.S. House,1,PAC,Steven Reynolds,10Columbia,0016 Rainier 2,U.S. House,1,PAC,Steven Reynolds,11Columbia,0017 West Rainier,U.S. House,1,PAC,Steven Reynolds,13Columbia,0018 East Rainier,U.S. House,1,PAC,Steven Reynolds,3Columbia,0019 South Warren,U.S. House,1,PAC,Steven Reynolds,20Columbia,0020 North Warren,U.S. House,1,PAC,Steven Reynolds,16Columbia,0021 St. Helens 1,U.S. House,1,PAC,Steven Reynolds,15Columbia,0022 St. Helens 2,U.S. House,1,PAC,Steven Reynolds,14Columbia,0023 St. Helens 3,U.S. House,1,PAC,Steven Reynolds,35Columbia,0024 St. Helens 4,U.S. House,1,PAC,Steven Reynolds,18Columbia,0025 St. Helens 5,U.S. House,1,PAC,Steven Reynolds,18Columbia,0026 St. Helens 6,U.S. House,1,PAC,Steven Reynolds,38Columbia,0027 St. Helens 7,U.S. House,1,PAC,Steven Reynolds,18Columbia,0028 St. Helens 8,U.S. House,1,PAC,Steven Reynolds,15Columbia,0029 St. Helens 9,U.S. House,1,PAC,Steven Reynolds,14Columbia,0030 South St. Helens,U.S. House,1,PAC,Steven Reynolds,8Columbia,0031 Scappoose 1,U.S. House,1,PAC,Steven Reynolds,11Columbia,0032 Scappoose 2,U.S. House,1,PAC,Steven Reynolds,30Columbia,0033 Scappoose 3,U.S. House,1,PAC,Steven Reynolds,39Columbia,0034 Scappoose 4,U.S. House,1,PAC,Steven Reynolds,23Columbia,0035 South Scappoose,U.S. House,1,PAC,Steven Reynolds,10Columbia,0036 Canyon,U.S. House,1,PAC,Steven Reynolds,7Columbia,0037 East Scappoose,U.S. House,1,PAC,Steven Reynolds,21Columbia,0038 West Scappoose,U.S. House,1,PAC,Steven Reynolds,9Columbia,0039 Sauvie Island,U.S. House,1,PAC,Steven Reynolds,2Columbia,0040 Yankton,U.S. House,1,PAC,Steven Reynolds,33Columbia,0041 Vernonia 1,U.S. House,1,PAC,Steven Reynolds,6Columbia,0042 Vernonia 2,U.S. House,1,PAC,Steven Reynolds,8Columbia,0043 Vernonia 3,U.S. House,1,PAC,Steven Reynolds,13Columbia,0044 Vernonia 4,U.S. House,1,PAC,Steven Reynolds,8Columbia,0045 Vernonia,U.S. House,1,PAC,Steven Reynolds,19Columbia,0046 Apiary,U.S. House,1,PAC,Steven Reynolds,14Columbia,0047 Chapman,U.S. House,1,PAC,Steven Reynolds,17Columbia,0048 South Deer Island,U.S. House,1,PAC,Steven Reynolds,18Columbia,0049 North Deer Island,U.S. House,1,PAC,Steven Reynolds,17Columbia,0050 Prescott,U.S. House,1,PAC,Steven Reynolds,0Columbia,0051 South Mist,U.S. House,1,PAC,Steven Reynolds,10Columbia,0052 North Mist,U.S. House,1,PAC,Steven Reynolds,2Columbia,0053 Columbia City,U.S. House,1,PAC,Steven Reynolds,18Columbia,0055 East Chapman,U.S. House,1,PAC,Steven Reynolds,3Columbia,0001 Clatskanie 1,U.S. House,1,REP,Jason Yates,64Columbia,0002 Clatskanie 2,U.S. House,1,REP,Jason Yates,105Columbia,0003 Clatskanie 3,U.S. House,1,REP,Jason Yates,71Columbia,0004 North Clatskanie,U.S. House,1,REP,Jason Yates,105Columbia,0005 South Clatskanie,U.S. House,1,REP,Jason Yates,140Columbia,0006 South Delena 1,U.S. House,1,REP,Jason Yates,136Columbia,0007 North Delena 2,U.S. House,1,REP,Jason Yates,150Columbia,0008 Goble,U.S. House,1,REP,Jason Yates,204Columbia,0009 Marshland,U.S. House,1,REP,Jason Yates,59Columbia,0010 South Milton,U.S. House,1,REP,Jason Yates,81Columbia,0011 North Milton,U.S. House,1,REP,Jason Yates,76Columbia,0012 South McNulty,U.S. House,1,REP,Jason Yates,114Columbia,0013 North McNulty,U.S. House,1,REP,Jason Yates,134Columbia,0014 Quincy,U.S. House,1,REP,Jason Yates,122Columbia,0015 Rainier 1,U.S. House,1,REP,Jason Yates,67Columbia,0016 Rainier 2,U.S. House,1,REP,Jason Yates,173Columbia,0017 West Rainier,U.S. House,1,REP,Jason Yates,90Columbia,0018 East Rainier,U.S. House,1,REP,Jason Yates,42Columbia,0019 South Warren,U.S. House,1,REP,Jason Yates,282Columbia,0020 North Warren,U.S. House,1,REP,Jason Yates,232Columbia,0021 St. Helens 1,U.S. House,1,REP,Jason Yates,91Columbia,0022 St. Helens 2,U.S. House,1,REP,Jason Yates,73Columbia,0023 St. Helens 3,U.S. House,1,REP,Jason Yates,153Columbia,0024 St. Helens 4,U.S. House,1,REP,Jason Yates,105Columbia,0025 St. Helens 5,U.S. House,1,REP,Jason Yates,80Columbia,0026 St. Helens 6,U.S. House,1,REP,Jason Yates,561Columbia,0027 St. Helens 7,U.S. House,1,REP,Jason Yates,106Columbia,0028 St. Helens 8,U.S. House,1,REP,Jason Yates,125Columbia,0029 St. Helens 9,U.S. House,1,REP,Jason Yates,149Columbia,0030 South St. Helens,U.S. House,1,REP,Jason Yates,47Columbia,0031 Scappoose 1,U.S. House,1,REP,Jason Yates,176Columbia,0032 Scappoose 2,U.S. House,1,REP,Jason Yates,168Columbia,0033 Scappoose 3,U.S. House,1,REP,Jason Yates,326Columbia,0034 Scappoose 4,U.S. House,1,REP,Jason Yates,261Columbia,0035 South Scappoose,U.S. House,1,REP,Jason Yates,185Columbia,0036 Canyon,U.S. House,1,REP,Jason Yates,120Columbia,0037 East Scappoose,U.S. House,1,REP,Jason Yates,85Columbia,0038 West Scappoose,U.S. House,1,REP,Jason Yates,134Columbia,0039 Sauvie Island,U.S. House,1,REP,Jason Yates,13Columbia,0040 Yankton,U.S. House,1,REP,Jason Yates,296Columbia,0041 Vernonia 1,U.S. House,1,REP,Jason Yates,115Columbia,0042 Vernonia 2,U.S. House,1,REP,Jason Yates,96Columbia,0043 Vernonia 3,U.S. House,1,REP,Jason Yates,134Columbia,0044 Vernonia 4,U.S. House,1,REP,Jason Yates,65Columbia,0045 Vernonia,U.S. House,1,REP,Jason Yates,198Columbia,0046 Apiary,U.S. House,1,REP,Jason Yates,174Columbia,0047 Chapman,U.S. House,1,REP,Jason Yates,156Columbia,0048 South Deer Island,U.S. House,1,REP,Jason Yates,105Columbia,0049 North Deer Island,U.S. House,1,REP,Jason Yates,151Columbia,0050 Prescott,U.S. House,1,REP,Jason Yates,10Columbia,0051 South Mist,U.S. House,1,REP,Jason Yates,55Columbia,0052 North Mist,U.S. House,1,REP,Jason Yates,23Columbia,0053 Columbia City,U.S. House,1,REP,Jason Yates,340Columbia,0055 East Chapman,U.S. House,1,REP,Jason Yates,57Columbia,0001 Clatskanie 1,U.S. House,1,DEM,Suzanne Bonamici,84Columbia,0002 Clatskanie 2,U.S. House,1,DEM,Suzanne Bonamici,119Columbia,0003 Clatskanie 3,U.S. House,1,DEM,Suzanne Bonamici,77Columbia,0004 North Clatskanie,U.S. House,1,DEM,Suzanne Bonamici,123Columbia,0005 South Clatskanie,U.S. House,1,DEM,Suzanne Bonamici,198Columbia,0006 South Delena 1,U.S. House,1,DEM,Suzanne Bonamici,159Columbia,0007 North Delena 2,U.S. House,1,DEM,Suzanne Bonamici,246Columbia,0008 Goble,U.S. House,1,DEM,Suzanne Bonamici,237Columbia,0009 Marshland,U.S. House,1,DEM,Suzanne Bonamici,97Columbia,0010 South Milton,U.S. House,1,DEM,Suzanne Bonamici,119Columbia,0011 North Milton,U.S. House,1,DEM,Suzanne Bonamici,143Columbia,0012 South McNulty,U.S. House,1,DEM,Suzanne Bonamici,190Columbia,0013 North McNulty,U.S. House,1,DEM,Suzanne Bonamici,207Columbia,0014 Quincy,U.S. House,1,DEM,Suzanne Bonamici,174Columbia,0015 Rainier 1,U.S. House,1,DEM,Suzanne Bonamici,110Columbia,0016 Rainier 2,U.S. House,1,DEM,Suzanne Bonamici,232Columbia,0017 West Rainier,U.S. House,1,DEM,Suzanne Bonamici,125Columbia,0018 East Rainier,U.S. House,1,DEM,Suzanne Bonamici,69Columbia,0019 South Warren,U.S. House,1,DEM,Suzanne Bonamici,351Columbia,0020 North Warren,U.S. House,1,DEM,Suzanne Bonamici,233Columbia,0021 St. Helens 1,U.S. House,1,DEM,Suzanne Bonamici,176Columbia,0022 St. Helens 2,U.S. House,1,DEM,Suzanne Bonamici,180Columbia,0023 St. Helens 3,U.S. House,1,DEM,Suzanne Bonamici,280Columbia,0024 St. Helens 4,U.S. House,1,DEM,Suzanne Bonamici,189Columbia,0025 St. Helens 5,U.S. House,1,DEM,Suzanne Bonamici,162Columbia,0026 St. Helens 6,U.S. House,1,DEM,Suzanne Bonamici,716Columbia,0027 St. Helens 7,U.S. House,1,DEM,Suzanne Bonamici,171Columbia,0028 St. Helens 8,U.S. House,1,DEM,Suzanne Bonamici,184Columbia,0029 St. Helens 9,U.S. House,1,DEM,Suzanne Bonamici,215Columbia,0030 South St. Helens,U.S. House,1,DEM,Suzanne Bonamici,95Columbia,0031 Scappoose 1,U.S. House,1,DEM,Suzanne Bonamici,235Columbia,0032 Scappoose 2,U.S. House,1,DEM,Suzanne Bonamici,279Columbia,0033 Scappoose 3,U.S. House,1,DEM,Suzanne Bonamici,491Columbia,0034 Scappoose 4,U.S. House,1,DEM,Suzanne Bonamici,389Columbia,0035 South Scappoose,U.S. House,1,DEM,Suzanne Bonamici,248Columbia,0036 Canyon,U.S. House,1,DEM,Suzanne Bonamici,189Columbia,0037 East Scappoose,U.S. House,1,DEM,Suzanne Bonamici,167Columbia,0038 West Scappoose,U.S. House,1,DEM,Suzanne Bonamici,184Columbia,0039 Sauvie Island,U.S. House,1,DEM,Suzanne Bonamici,12Columbia,0040 Yankton,U.S. House,1,DEM,Suzanne Bonamici,342Columbia,0041 Vernonia 1,U.S. House,1,DEM,Suzanne Bonamici,128Columbia,0042 Vernonia 2,U.S. House,1,DEM,Suzanne Bonamici,84Columbia,0043 Vernonia 3,U.S. House,1,DEM,Suzanne Bonamici,137Columbia,0044 Vernonia 4,U.S. House,1,DEM,Suzanne Bonamici,60Columbia,0045 Vernonia,U.S. House,1,DEM,Suzanne Bonamici,166Columbia,0046 Apiary,U.S. House,1,DEM,Suzanne Bonamici,202Columbia,0047 Chapman,U.S. House,1,DEM,Suzanne Bonamici,233Columbia,0048 South Deer Island,U.S. House,1,DEM,Suzanne Bonamici,103Columbia,0049 North Deer Island,U.S. House,1,DEM,Suzanne Bonamici,177Columbia,0050 Prescott,U.S. House,1,DEM,Suzanne Bonamici,22Columbia,0051 South Mist,U.S. House,1,DEM,Suzanne Bonamici,72Columbia,0052 North Mist,U.S. House,1,DEM,Suzanne Bonamici,19Columbia,0053 Columbia City,U.S. House,1,DEM,Suzanne Bonamici,554Columbia,0055 East Chapman,U.S. House,1,DEM,Suzanne Bonamici,108Columbia,0001 Clatskanie 1,U.S. House,1,LBT,James Foster,7Columbia,0002 Clatskanie 2,U.S. House,1,LBT,James Foster,5Columbia,0003 Clatskanie 3,U.S. House,1,LBT,James Foster,9Columbia,0004 North Clatskanie,U.S. House,1,LBT,James Foster,18Columbia,0005 South Clatskanie,U.S. House,1,LBT,James Foster,24Columbia,0006 South Delena 1,U.S. House,1,LBT,James Foster,14Columbia,0007 North Delena 2,U.S. House,1,LBT,James Foster,20Columbia,0008 Goble,U.S. House,1,LBT,James Foster,32Columbia,0009 Marshland,U.S. House,1,LBT,James Foster,5Columbia,0010 South Milton,U.S. House,1,LBT,James Foster,7Columbia,0011 North Milton,U.S. House,1,LBT,James Foster,17Columbia,0012 South McNulty,U.S. House,1,LBT,James Foster,13Columbia,0013 North McNulty,U.S. House,1,LBT,James Foster,23Columbia,0014 Quincy,U.S. House,1,LBT,James Foster,14Columbia,0015 Rainier 1,U.S. House,1,LBT,James Foster,13Columbia,0016 Rainier 2,U.S. House,1,LBT,James Foster,25Columbia,0017 West Rainier,U.S. House,1,LBT,James Foster,9Columbia,0018 East Rainier,U.S. House,1,LBT,James Foster,5Columbia,0019 South Warren,U.S. House,1,LBT,James Foster,26Columbia,0020 North Warren,U.S. House,1,LBT,James Foster,27Columbia,0021 St. Helens 1,U.S. House,1,LBT,James Foster,17Columbia,0022 St. Helens 2,U.S. House,1,LBT,James Foster,16Columbia,0023 St. Helens 3,U.S. House,1,LBT,James Foster,29Columbia,0024 St. Helens 4,U.S. House,1,LBT,James Foster,9Columbia,0025 St. Helens 5,U.S. House,1,LBT,James Foster,14Columbia,0026 St. Helens 6,U.S. House,1,LBT,James Foster,74Columbia,0027 St. Helens 7,U.S. House,1,LBT,James Foster,13Columbia,0028 St. Helens 8,U.S. House,1,LBT,James Foster,24Columbia,0029 St. Helens 9,U.S. House,1,LBT,James Foster,19Columbia,0030 South St. Helens,U.S. House,1,LBT,James Foster,6Columbia,0031 Scappoose 1,U.S. House,1,LBT,James Foster,16Columbia,0032 Scappoose 2,U.S. House,1,LBT,James Foster,30Columbia,0033 Scappoose 3,U.S. House,1,LBT,James Foster,35Columbia,0034 Scappoose 4,U.S. House,1,LBT,James Foster,38Columbia,0035 South Scappoose,U.S. House,1,LBT,James Foster,34Columbia,0036 Canyon,U.S. House,1,LBT,James Foster,18Columbia,0037 East Scappoose,U.S. House,1,LBT,James Foster,10Columbia,0038 West Scappoose,U.S. House,1,LBT,James Foster,10Columbia,0039 Sauvie Island,U.S. House,1,LBT,James Foster,2Columbia,0040 Yankton,U.S. House,1,LBT,James Foster,22Columbia,0041 Vernonia 1,U.S. House,1,LBT,James Foster,13Columbia,0042 Vernonia 2,U.S. House,1,LBT,James Foster,3Columbia,0043 Vernonia 3,U.S. House,1,LBT,James Foster,9Columbia,0044 Vernonia 4,U.S. House,1,LBT,James Foster,7Columbia,0045 Vernonia,U.S. House,1,LBT,James Foster,17Columbia,0046 Apiary,U.S. House,1,LBT,James Foster,22Columbia,0047 Chapman,U.S. House,1,LBT,James Foster,24Columbia,0048 South Deer Island,U.S. House,1,LBT,James Foster,12Columbia,0049 North Deer Island,U.S. House,1,LBT,James Foster,16Columbia,0050 Prescott,U.S. House,1,LBT,James Foster,0Columbia,0051 South Mist,U.S. House,1,LBT,James Foster,4Columbia,0052 North Mist,U.S. House,1,LBT,James Foster,0Columbia,0053 Columbia City,U.S. House,1,LBT,James Foster,29Columbia,0055 East Chapman,U.S. House,1,LBT,James Foster,7Columbia,0001 Clatskanie 1,U.S. House,1,,Write-ins,0Columbia,0002 Clatskanie 2,U.S. House,1,,Write-ins,2Columbia,0003 Clatskanie 3,U.S. House,1,,Write-ins,0Columbia,0004 North Clatskanie,U.S. House,1,,Write-ins,0Columbia,0005 South Clatskanie,U.S. House,1,,Write-ins,0Columbia,0006 South Delena 1,U.S. House,1,,Write-ins,0Columbia,0007 North Delena 2,U.S. House,1,,Write-ins,2Columbia,0008 Goble,U.S. House,1,,Write-ins,1Columbia,0009 Marshland,U.S. House,1,,Write-ins,3Columbia,0010 South Milton,U.S. House,1,,Write-ins,0Columbia,0011 North Milton,U.S. House,1,,Write-ins,0Columbia,0012 South McNulty,U.S. House,1,,Write-ins,0Columbia,0013 North McNulty,U.S. House,1,,Write-ins,1Columbia,0014 Quincy,U.S. House,1,,Write-ins,0Columbia,0015 Rainier 1,U.S. House,1,,Write-ins,0Columbia,0016 Rainier 2,U.S. House,1,,Write-ins,0Columbia,0017 West Rainier,U.S. House,1,,Write-ins,1Columbia,0018 East Rainier,U.S. House,1,,Write-ins,0Columbia,0019 South Warren,U.S. House,1,,Write-ins,0Columbia,0020 North Warren,U.S. House,1,,Write-ins,0Columbia,0021 St. Helens 1,U.S. House,1,,Write-ins,1Columbia,0022 St. Helens 2,U.S. House,1,,Write-ins,0Columbia,0023 St. Helens 3,U.S. House,1,,Write-ins,0Columbia,0024 St. Helens 4,U.S. House,1,,Write-ins,1Columbia,0025 St. Helens 5,U.S. House,1,,Write-ins,1Columbia,0026 St. Helens 6,U.S. House,1,,Write-ins,4Columbia,0027 St. Helens 7,U.S. House,1,,Write-ins,0Columbia,0028 St. Helens 8,U.S. House,1,,Write-ins,2Columbia,0029 St. Helens 9,U.S. House,1,,Write-ins,1Columbia,0030 South St. Helens,U.S. House,1,,Write-ins,2Columbia,0031 Scappoose 1,U.S. House,1,,Write-ins,0Columbia,0032 Scappoose 2,U.S. House,1,,Write-ins,0Columbia,0033 Scappoose 3,U.S. House,1,,Write-ins,0Columbia,0034 Scappoose 4,U.S. House,1,,Write-ins,0Columbia,0035 South Scappoose,U.S. House,1,,Write-ins,0Columbia,0036 Canyon,U.S. House,1,,Write-ins,0Columbia,0037 East Scappoose,U.S. House,1,,Write-ins,0Columbia,0038 West Scappoose,U.S. House,1,,Write-ins,1Columbia,0039 Sauvie Island,U.S. House,1,,Write-ins,0Columbia,0040 Yankton,U.S. House,1,,Write-ins,0Columbia,0041 Vernonia 1,U.S. House,1,,Write-ins,0Columbia,0042 Vernonia 2,U.S. House,1,,Write-ins,0Columbia,0043 Vernonia 3,U.S. House,1,,Write-ins,2Columbia,0044 Vernonia 4,U.S. House,1,,Write-ins,0Columbia,0045 Vernonia,U.S. House,1,,Write-ins,0Columbia,0046 Apiary,U.S. House,1,,Write-ins,0Columbia,0047 Chapman,U.S. House,1,,Write-ins,2Columbia,0048 South Deer Island,U.S. House,1,,Write-ins,1Columbia,0049 North Deer Island,U.S. House,1,,Write-ins,0Columbia,0050 Prescott,U.S. House,1,,Write-ins,0Columbia,0051 South Mist,U.S. House,1,,Write-ins,0Columbia,0052 North Mist,U.S. House,1,,Write-ins,0Columbia,0053 Columbia City,U.S. House,1,,Write-ins,0Columbia,0055 East Chapman,U.S. House,1,,Write-ins,0Columbia,0001 Clatskanie 1,Governor,,REP,Dennis Richardson,93Columbia,0002 Clatskanie 2,Governor,,REP,Dennis Richardson,144Columbia,0003 Clatskanie 3,Governor,,REP,Dennis Richardson,96Columbia,0004 North Clatskanie,Governor,,REP,Dennis Richardson,155Columbia,0005 South Clatskanie,Governor,,REP,Dennis Richardson,189Columbia,0006 South Delena 1,Governor,,REP,Dennis Richardson,176Columbia,0007 North Delena 2,Governor,,REP,Dennis Richardson,201Columbia,0008 Goble,Governor,,REP,Dennis Richardson,283Columbia,0009 Marshland,Governor,,REP,Dennis Richardson,92Columbia,0010 South Milton,Governor,,REP,Dennis Richardson,120Columbia,0011 North Milton,Governor,,REP,Dennis Richardson,116Columbia,0012 South McNulty,Governor,,REP,Dennis Richardson,159Columbia,0013 North McNulty,Governor,,REP,Dennis Richardson,202Columbia,0014 Quincy,Governor,,REP,Dennis Richardson,180Columbia,0015 Rainier 1,Governor,,REP,Dennis Richardson,89Columbia,0016 Rainier 2,Governor,,REP,Dennis Richardson,218Columbia,0017 West Rainier,Governor,,REP,Dennis Richardson,112Columbia,0018 East Rainier,Governor,,REP,Dennis Richardson,54Columbia,0019 South Warren,Governor,,REP,Dennis Richardson,399Columbia,0020 North Warren,Governor,,REP,Dennis Richardson,287Columbia,0021 St. Helens 1,Governor,,REP,Dennis Richardson,116Columbia,0022 St. Helens 2,Governor,,REP,Dennis Richardson,102Columbia,0023 St. Helens 3,Governor,,REP,Dennis Richardson,201Columbia,0024 St. Helens 4,Governor,,REP,Dennis Richardson,150Columbia,0025 St. Helens 5,Governor,,REP,Dennis Richardson,115Columbia,0026 St. Helens 6,Governor,,REP,Dennis Richardson,740Columbia,0027 St. Helens 7,Governor,,REP,Dennis Richardson,152Columbia,0028 St. Helens 8,Governor,,REP,Dennis Richardson,158Columbia,0029 St. Helens 9,Governor,,REP,Dennis Richardson,191Columbia,0030 South St. Helens,Governor,,REP,Dennis Richardson,77Columbia,0031 Scappoose 1,Governor,,REP,Dennis Richardson,229Columbia,0032 Scappoose 2,Governor,,REP,Dennis Richardson,237Columbia,0033 Scappoose 3,Governor,,REP,Dennis Richardson,429Columbia,0034 Scappoose 4,Governor,,REP,Dennis Richardson,348Columbia,0035 South Scappoose,Governor,,REP,Dennis Richardson,258Columbia,0036 Canyon,Governor,,REP,Dennis Richardson,152Columbia,0037 East Scappoose,Governor,,REP,Dennis Richardson,132Columbia,0038 West Scappoose,Governor,,REP,Dennis Richardson,167Columbia,0039 Sauvie Island,Governor,,REP,Dennis Richardson,17Columbia,0040 Yankton,Governor,,REP,Dennis Richardson,365Columbia,0041 Vernonia 1,Governor,,REP,Dennis Richardson,152Columbia,0042 Vernonia 2,Governor,,REP,Dennis Richardson,122Columbia,0043 Vernonia 3,Governor,,REP,Dennis Richardson,160Columbia,0044 Vernonia 4,Governor,,REP,Dennis Richardson,83Columbia,0045 Vernonia,Governor,,REP,Dennis Richardson,256Columbia,0046 Apiary,Governor,,REP,Dennis Richardson,231Columbia,0047 Chapman,Governor,,REP,Dennis Richardson,197Columbia,0048 South Deer Island,Governor,,REP,Dennis Richardson,145Columbia,0049 North Deer Island,Governor,,REP,Dennis Richardson,197Columbia,0050 Prescott,Governor,,REP,Dennis Richardson,12Columbia,0051 South Mist,Governor,,REP,Dennis Richardson,69Columbia,0052 North Mist,Governor,,REP,Dennis Richardson,28Columbia,0053 Columbia City,Governor,,REP,Dennis Richardson,443Columbia,0055 East Chapman,Governor,,REP,Dennis Richardson,91Columbia,0001 Clatskanie 1,Governor,,PRO,Chris Henry,9Columbia,0002 Clatskanie 2,Governor,,PRO,Chris Henry,7Columbia,0003 Clatskanie 3,Governor,,PRO,Chris Henry,3Columbia,0004 North Clatskanie,Governor,,PRO,Chris Henry,4Columbia,0005 South Clatskanie,Governor,,PRO,Chris Henry,5Columbia,0006 South Delena 1,Governor,,PRO,Chris Henry,0Columbia,0007 North Delena 2,Governor,,PRO,Chris Henry,11Columbia,0008 Goble,Governor,,PRO,Chris Henry,5Columbia,0009 Marshland,Governor,,PRO,Chris Henry,0Columbia,0010 South Milton,Governor,,PRO,Chris Henry,7Columbia,0011 North Milton,Governor,,PRO,Chris Henry,3Columbia,0012 South McNulty,Governor,,PRO,Chris Henry,4Columbia,0013 North McNulty,Governor,,PRO,Chris Henry,3Columbia,0014 Quincy,Governor,,PRO,Chris Henry,4Columbia,0015 Rainier 1,Governor,,PRO,Chris Henry,0Columbia,0016 Rainier 2,Governor,,PRO,Chris Henry,2Columbia,0017 West Rainier,Governor,,PRO,Chris Henry,2Columbia,0018 East Rainier,Governor,,PRO,Chris Henry,3Columbia,0019 South Warren,Governor,,PRO,Chris Henry,3Columbia,0020 North Warren,Governor,,PRO,Chris Henry,2Columbia,0021 St. Helens 1,Governor,,PRO,Chris Henry,4Columbia,0022 St. Helens 2,Governor,,PRO,Chris Henry,3Columbia,0023 St. Helens 3,Governor,,PRO,Chris Henry,12Columbia,0024 St. Helens 4,Governor,,PRO,Chris Henry,2Columbia,0025 St. Helens 5,Governor,,PRO,Chris Henry,6Columbia,0026 St. Helens 6,Governor,,PRO,Chris Henry,23Columbia,0027 St. Helens 7,Governor,,PRO,Chris Henry,4Columbia,0028 St. Helens 8,Governor,,PRO,Chris Henry,7Columbia,0029 St. Helens 9,Governor,,PRO,Chris Henry,8Columbia,0030 South St. Helens,Governor,,PRO,Chris Henry,4Columbia,0031 Scappoose 1,Governor,,PRO,Chris Henry,2Columbia,0032 Scappoose 2,Governor,,PRO,Chris Henry,8Columbia,0033 Scappoose 3,Governor,,PRO,Chris Henry,12Columbia,0034 Scappoose 4,Governor,,PRO,Chris Henry,6Columbia,0035 South Scappoose,Governor,,PRO,Chris Henry,3Columbia,0036 Canyon,Governor,,PRO,Chris Henry,2Columbia,0037 East Scappoose,Governor,,PRO,Chris Henry,2Columbia,0038 West Scappoose,Governor,,PRO,Chris Henry,0Columbia,0039 Sauvie Island,Governor,,PRO,Chris Henry,0Columbia,0040 Yankton,Governor,,PRO,Chris Henry,7Columbia,0041 Vernonia 1,Governor,,PRO,Chris Henry,1Columbia,0042 Vernonia 2,Governor,,PRO,Chris Henry,0Columbia,0043 Vernonia 3,Governor,,PRO,Chris Henry,0Columbia,0044 Vernonia 4,Governor,,PRO,Chris Henry,1Columbia,0045 Vernonia,Governor,,PRO,Chris Henry,2Columbia,0046 Apiary,Governor,,PRO,Chris Henry,4Columbia,0047 Chapman,Governor,,PRO,Chris Henry,5Columbia,0048 South Deer Island,Governor,,PRO,Chris Henry,3Columbia,0049 North Deer Island,Governor,,PRO,Chris Henry,4Columbia,0050 Prescott,Governor,,PRO,Chris Henry,0Columbia,0051 South Mist,Governor,,PRO,Chris Henry,2Columbia,0052 North Mist,Governor,,PRO,Chris Henry,1Columbia,0053 Columbia City,Governor,,PRO,Chris Henry,10Columbia,0055 East Chapman,Governor,,PRO,Chris Henry,0Columbia,0001 Clatskanie 1,Governor,,CON,Aaron Auer,2Columbia,0002 Clatskanie 2,Governor,,CON,Aaron Auer,3Columbia,0003 Clatskanie 3,Governor,,CON,Aaron Auer,5Columbia,0004 North Clatskanie,Governor,,CON,Aaron Auer,0Columbia,0005 South Clatskanie,Governor,,CON,Aaron Auer,11Columbia,0006 South Delena 1,Governor,,CON,Aaron Auer,9Columbia,0007 North Delena 2,Governor,,CON,Aaron Auer,12Columbia,0008 Goble,Governor,,CON,Aaron Auer,5Columbia,0009 Marshland,Governor,,CON,Aaron Auer,1Columbia,0010 South Milton,Governor,,CON,Aaron Auer,2Columbia,0011 North Milton,Governor,,CON,Aaron Auer,6Columbia,0012 South McNulty,Governor,,CON,Aaron Auer,3Columbia,0013 North McNulty,Governor,,CON,Aaron Auer,3Columbia,0014 Quincy,Governor,,CON,Aaron Auer,4Columbia,0015 Rainier 1,Governor,,CON,Aaron Auer,6Columbia,0016 Rainier 2,Governor,,CON,Aaron Auer,9Columbia,0017 West Rainier,Governor,,CON,Aaron Auer,9Columbia,0018 East Rainier,Governor,,CON,Aaron Auer,5Columbia,0019 South Warren,Governor,,CON,Aaron Auer,6Columbia,0020 North Warren,Governor,,CON,Aaron Auer,5Columbia,0021 St. Helens 1,Governor,,CON,Aaron Auer,11Columbia,0022 St. Helens 2,Governor,,CON,Aaron Auer,7Columbia,0023 St. Helens 3,Governor,,CON,Aaron Auer,17Columbia,0024 St. Helens 4,Governor,,CON,Aaron Auer,13Columbia,0025 St. Helens 5,Governor,,CON,Aaron Auer,5Columbia,0026 St. Helens 6,Governor,,CON,Aaron Auer,28Columbia,0027 St. Helens 7,Governor,,CON,Aaron Auer,12Columbia,0028 St. Helens 8,Governor,,CON,Aaron Auer,7Columbia,0029 St. Helens 9,Governor,,CON,Aaron Auer,5Columbia,0030 South St. Helens,Governor,,CON,Aaron Auer,1Columbia,0031 Scappoose 1,Governor,,CON,Aaron Auer,4Columbia,0032 Scappoose 2,Governor,,CON,Aaron Auer,11Columbia,0033 Scappoose 3,Governor,,CON,Aaron Auer,17Columbia,0034 Scappoose 4,Governor,,CON,Aaron Auer,7Columbia,0035 South Scappoose,Governor,,CON,Aaron Auer,6Columbia,0036 Canyon,Governor,,CON,Aaron Auer,9Columbia,0037 East Scappoose,Governor,,CON,Aaron Auer,7Columbia,0038 West Scappoose,Governor,,CON,Aaron Auer,4Columbia,0039 Sauvie Island,Governor,,CON,Aaron Auer,0Columbia,0040 Yankton,Governor,,CON,Aaron Auer,12Columbia,0041 Vernonia 1,Governor,,CON,Aaron Auer,2Columbia,0042 Vernonia 2,Governor,,CON,Aaron Auer,0Columbia,0043 Vernonia 3,Governor,,CON,Aaron Auer,9Columbia,0044 Vernonia 4,Governor,,CON,Aaron Auer,4Columbia,0045 Vernonia,Governor,,CON,Aaron Auer,8Columbia,0046 Apiary,Governor,,CON,Aaron Auer,4Columbia,0047 Chapman,Governor,,CON,Aaron Auer,12Columbia,0048 South Deer Island,Governor,,CON,Aaron Auer,3Columbia,0049 North Deer Island,Governor,,CON,Aaron Auer,18Columbia,0050 Prescott,Governor,,CON,Aaron Auer,2Columbia,0051 South Mist,Governor,,CON,Aaron Auer,6Columbia,0052 North Mist,Governor,,CON,Aaron Auer,0Columbia,0053 Columbia City,Governor,,CON,Aaron Auer,13Columbia,0055 East Chapman,Governor,,CON,Aaron Auer,1Columbia,0001 Clatskanie 1,Governor,,DEM,John Kitzhaber,62Columbia,0002 Clatskanie 2,Governor,,DEM,John Kitzhaber,79Columbia,0003 Clatskanie 3,Governor,,DEM,John Kitzhaber,59Columbia,0004 North Clatskanie,Governor,,DEM,John Kitzhaber,90Columbia,0005 South Clatskanie,Governor,,DEM,John Kitzhaber,147Columbia,0006 South Delena 1,Governor,,DEM,John Kitzhaber,123Columbia,0007 North Delena 2,Governor,,DEM,John Kitzhaber,199Columbia,0008 Goble,Governor,,DEM,John Kitzhaber,192Columbia,0009 Marshland,Governor,,DEM,John Kitzhaber,68Columbia,0010 South Milton,Governor,,DEM,John Kitzhaber,85Columbia,0011 North Milton,Governor,,DEM,John Kitzhaber,114Columbia,0012 South McNulty,Governor,,DEM,John Kitzhaber,160Columbia,0013 North McNulty,Governor,,DEM,John Kitzhaber,173Columbia,0014 Quincy,Governor,,DEM,John Kitzhaber,119Columbia,0015 Rainier 1,Governor,,DEM,John Kitzhaber,104Columbia,0016 Rainier 2,Governor,,DEM,John Kitzhaber,199Columbia,0017 West Rainier,Governor,,DEM,John Kitzhaber,107Columbia,0018 East Rainier,Governor,,DEM,John Kitzhaber,54Columbia,0019 South Warren,Governor,,DEM,John Kitzhaber,270Columbia,0020 North Warren,Governor,,DEM,John Kitzhaber,201Columbia,0021 St. Helens 1,Governor,,DEM,John Kitzhaber,146Columbia,0022 St. Helens 2,Governor,,DEM,John Kitzhaber,161Columbia,0023 St. Helens 3,Governor,,DEM,John Kitzhaber,258Columbia,0024 St. Helens 4,Governor,,DEM,John Kitzhaber,146Columbia,0025 St. Helens 5,Governor,,DEM,John Kitzhaber,130Columbia,0026 St. Helens 6,Governor,,DEM,John Kitzhaber,566Columbia,0027 St. Helens 7,Governor,,DEM,John Kitzhaber,136Columbia,0028 St. Helens 8,Governor,,DEM,John Kitzhaber,169Columbia,0029 St. Helens 9,Governor,,DEM,John Kitzhaber,189Columbia,0030 South St. Helens,Governor,,DEM,John Kitzhaber,74Columbia,0031 Scappoose 1,Governor,,DEM,John Kitzhaber,197Columbia,0032 Scappoose 2,Governor,,DEM,John Kitzhaber,236Columbia,0033 Scappoose 3,Governor,,DEM,John Kitzhaber,422Columbia,0034 Scappoose 4,Governor,,DEM,John Kitzhaber,325Columbia,0035 South Scappoose,Governor,,DEM,John Kitzhaber,212Columbia,0036 Canyon,Governor,,DEM,John Kitzhaber,160Columbia,0037 East Scappoose,Governor,,DEM,John Kitzhaber,141Columbia,0038 West Scappoose,Governor,,DEM,John Kitzhaber,159Columbia,0039 Sauvie Island,Governor,,DEM,John Kitzhaber,12Columbia,0040 Yankton,Governor,,DEM,John Kitzhaber,290Columbia,0041 Vernonia 1,Governor,,DEM,John Kitzhaber,119Columbia,0042 Vernonia 2,Governor,,DEM,John Kitzhaber,79Columbia,0043 Vernonia 3,Governor,,DEM,John Kitzhaber,113Columbia,0044 Vernonia 4,Governor,,DEM,John Kitzhaber,52Columbia,0045 Vernonia,Governor,,DEM,John Kitzhaber,132Columbia,0046 Apiary,Governor,,DEM,John Kitzhaber,166Columbia,0047 Chapman,Governor,,DEM,John Kitzhaber,205Columbia,0048 South Deer Island,Governor,,DEM,John Kitzhaber,90Columbia,0049 North Deer Island,Governor,,DEM,John Kitzhaber,133Columbia,0050 Prescott,Governor,,DEM,John Kitzhaber,17Columbia,0051 South Mist,Governor,,DEM,John Kitzhaber,60Columbia,0052 North Mist,Governor,,DEM,John Kitzhaber,16Columbia,0053 Columbia City,Governor,,DEM,John Kitzhaber,475Columbia,0055 East Chapman,Governor,,DEM,John Kitzhaber,86Columbia,0001 Clatskanie 1,Governor,,LBT,Paul Grad,3Columbia,0002 Clatskanie 2,Governor,,LBT,Paul Grad,3Columbia,0003 Clatskanie 3,Governor,,LBT,Paul Grad,3Columbia,0004 North Clatskanie,Governor,,LBT,Paul Grad,8Columbia,0005 South Clatskanie,Governor,,LBT,Paul Grad,15Columbia,0006 South Delena 1,Governor,,LBT,Paul Grad,6Columbia,0007 North Delena 2,Governor,,LBT,Paul Grad,7Columbia,0008 Goble,Governor,,LBT,Paul Grad,14Columbia,0009 Marshland,Governor,,LBT,Paul Grad,3Columbia,0010 South Milton,Governor,,LBT,Paul Grad,2Columbia,0011 North Milton,Governor,,LBT,Paul Grad,8Columbia,0012 South McNulty,Governor,,LBT,Paul Grad,4Columbia,0013 North McNulty,Governor,,LBT,Paul Grad,7Columbia,0014 Quincy,Governor,,LBT,Paul Grad,5Columbia,0015 Rainier 1,Governor,,LBT,Paul Grad,4Columbia,0016 Rainier 2,Governor,,LBT,Paul Grad,12Columbia,0017 West Rainier,Governor,,LBT,Paul Grad,4Columbia,0018 East Rainier,Governor,,LBT,Paul Grad,3Columbia,0019 South Warren,Governor,,LBT,Paul Grad,10Columbia,0020 North Warren,Governor,,LBT,Paul Grad,14Columbia,0021 St. Helens 1,Governor,,LBT,Paul Grad,11Columbia,0022 St. Helens 2,Governor,,LBT,Paul Grad,10Columbia,0023 St. Helens 3,Governor,,LBT,Paul Grad,14Columbia,0024 St. Helens 4,Governor,,LBT,Paul Grad,9Columbia,0025 St. Helens 5,Governor,,LBT,Paul Grad,8Columbia,0026 St. Helens 6,Governor,,LBT,Paul Grad,25Columbia,0027 St. Helens 7,Governor,,LBT,Paul Grad,7Columbia,0028 St. Helens 8,Governor,,LBT,Paul Grad,12Columbia,0029 St. Helens 9,Governor,,LBT,Paul Grad,5Columbia,0030 South St. Helens,Governor,,LBT,Paul Grad,1Columbia,0031 Scappoose 1,Governor,,LBT,Paul Grad,8Columbia,0032 Scappoose 2,Governor,,LBT,Paul Grad,8Columbia,0033 Scappoose 3,Governor,,LBT,Paul Grad,15Columbia,0034 Scappoose 4,Governor,,LBT,Paul Grad,15Columbia,0035 South Scappoose,Governor,,LBT,Paul Grad,11Columbia,0036 Canyon,Governor,,LBT,Paul Grad,7Columbia,0037 East Scappoose,Governor,,LBT,Paul Grad,3Columbia,0038 West Scappoose,Governor,,LBT,Paul Grad,7Columbia,0039 Sauvie Island,Governor,,LBT,Paul Grad,0Columbia,0040 Yankton,Governor,,LBT,Paul Grad,10Columbia,0041 Vernonia 1,Governor,,LBT,Paul Grad,2Columbia,0042 Vernonia 2,Governor,,LBT,Paul Grad,2Columbia,0043 Vernonia 3,Governor,,LBT,Paul Grad,4Columbia,0044 Vernonia 4,Governor,,LBT,Paul Grad,5Columbia,0045 Vernonia,Governor,,LBT,Paul Grad,6Columbia,0046 Apiary,Governor,,LBT,Paul Grad,10Columbia,0047 Chapman,Governor,,LBT,Paul Grad,9Columbia,0048 South Deer Island,Governor,,LBT,Paul Grad,7Columbia,0049 North Deer Island,Governor,,LBT,Paul Grad,11Columbia,0050 Prescott,Governor,,LBT,Paul Grad,0Columbia,0051 South Mist,Governor,,LBT,Paul Grad,2Columbia,0052 North Mist,Governor,,LBT,Paul Grad,0Columbia,0053 Columbia City,Governor,,LBT,Paul Grad,18Columbia,0055 East Chapman,Governor,,LBT,Paul Grad,1Columbia,0001 Clatskanie 1,Governor,,PAC,Jason Levin,1Columbia,0002 Clatskanie 2,Governor,,PAC,Jason Levin,9Columbia,0003 Clatskanie 3,Governor,,PAC,Jason Levin,5Columbia,0004 North Clatskanie,Governor,,PAC,Jason Levin,6Columbia,0005 South Clatskanie,Governor,,PAC,Jason Levin,3Columbia,0006 South Delena 1,Governor,,PAC,Jason Levin,5Columbia,0007 North Delena 2,Governor,,PAC,Jason Levin,5Columbia,0008 Goble,Governor,,PAC,Jason Levin,18Columbia,0009 Marshland,Governor,,PAC,Jason Levin,7Columbia,0010 South Milton,Governor,,PAC,Jason Levin,2Columbia,0011 North Milton,Governor,,PAC,Jason Levin,6Columbia,0012 South McNulty,Governor,,PAC,Jason Levin,6Columbia,0013 North McNulty,Governor,,PAC,Jason Levin,8Columbia,0014 Quincy,Governor,,PAC,Jason Levin,5Columbia,0015 Rainier 1,Governor,,PAC,Jason Levin,2Columbia,0016 Rainier 2,Governor,,PAC,Jason Levin,7Columbia,0017 West Rainier,Governor,,PAC,Jason Levin,5Columbia,0018 East Rainier,Governor,,PAC,Jason Levin,4Columbia,0019 South Warren,Governor,,PAC,Jason Levin,8Columbia,0020 North Warren,Governor,,PAC,Jason Levin,8Columbia,0021 St. Helens 1,Governor,,PAC,Jason Levin,11Columbia,0022 St. Helens 2,Governor,,PAC,Jason Levin,3Columbia,0023 St. Helens 3,Governor,,PAC,Jason Levin,11Columbia,0024 St. Helens 4,Governor,,PAC,Jason Levin,8Columbia,0025 St. Helens 5,Governor,,PAC,Jason Levin,10Columbia,0026 St. Helens 6,Governor,,PAC,Jason Levin,36Columbia,0027 St. Helens 7,Governor,,PAC,Jason Levin,12Columbia,0028 St. Helens 8,Governor,,PAC,Jason Levin,8Columbia,0029 St. Helens 9,Governor,,PAC,Jason Levin,12Columbia,0030 South St. Helens,Governor,,PAC,Jason Levin,2Columbia,0031 Scappoose 1,Governor,,PAC,Jason Levin,8Columbia,0032 Scappoose 2,Governor,,PAC,Jason Levin,15Columbia,0033 Scappoose 3,Governor,,PAC,Jason Levin,15Columbia,0034 Scappoose 4,Governor,,PAC,Jason Levin,12Columbia,0035 South Scappoose,Governor,,PAC,Jason Levin,5Columbia,0036 Canyon,Governor,,PAC,Jason Levin,1Columbia,0037 East Scappoose,Governor,,PAC,Jason Levin,8Columbia,0038 West Scappoose,Governor,,PAC,Jason Levin,8Columbia,0039 Sauvie Island,Governor,,PAC,Jason Levin,0Columbia,0040 Yankton,Governor,,PAC,Jason Levin,18Columbia,0041 Vernonia 1,Governor,,PAC,Jason Levin,3Columbia,0042 Vernonia 2,Governor,,PAC,Jason Levin,3Columbia,0043 Vernonia 3,Governor,,PAC,Jason Levin,4Columbia,0044 Vernonia 4,Governor,,PAC,Jason Levin,1Columbia,0045 Vernonia,Governor,,PAC,Jason Levin,7Columbia,0046 Apiary,Governor,,PAC,Jason Levin,6Columbia,0047 Chapman,Governor,,PAC,Jason Levin,8Columbia,0048 South Deer Island,Governor,,PAC,Jason Levin,7Columbia,0049 North Deer Island,Governor,,PAC,Jason Levin,8Columbia,0050 Prescott,Governor,,PAC,Jason Levin,1Columbia,0051 South Mist,Governor,,PAC,Jason Levin,2Columbia,0052 North Mist,Governor,,PAC,Jason Levin,0Columbia,0053 Columbia City,Governor,,PAC,Jason Levin,10Columbia,0055 East Chapman,Governor,,PAC,Jason Levin,3Columbia,0001 Clatskanie 1,Governor,,,Write-ins,0Columbia,0002 Clatskanie 2,Governor,,,Write-ins,0Columbia,0003 Clatskanie 3,Governor,,,Write-ins,0Columbia,0004 North Clatskanie,Governor,,,Write-ins,1Columbia,0005 South Clatskanie,Governor,,,Write-ins,0Columbia,0006 South Delena 1,Governor,,,Write-ins,4Columbia,0007 North Delena 2,Governor,,,Write-ins,2Columbia,0008 Goble,Governor,,,Write-ins,1Columbia,0009 Marshland,Governor,,,Write-ins,2Columbia,0010 South Milton,Governor,,,Write-ins,1Columbia,0011 North Milton,Governor,,,Write-ins,3Columbia,0012 South McNulty,Governor,,,Write-ins,4Columbia,0013 North McNulty,Governor,,,Write-ins,1Columbia,0014 Quincy,Governor,,,Write-ins,1Columbia,0015 Rainier 1,Governor,,,Write-ins,1Columbia,0016 Rainier 2,Governor,,,Write-ins,0Columbia,0017 West Rainier,Governor,,,Write-ins,3Columbia,0018 East Rainier,Governor,,,Write-ins,0Columbia,0019 South Warren,Governor,,,Write-ins,2Columbia,0020 North Warren,Governor,,,Write-ins,3Columbia,0021 St. Helens 1,Governor,,,Write-ins,4Columbia,0022 St. Helens 2,Governor,,,Write-ins,0Columbia,0023 St. Helens 3,Governor,,,Write-ins,3Columbia,0024 St. Helens 4,Governor,,,Write-ins,3Columbia,0025 St. Helens 5,Governor,,,Write-ins,1Columbia,0026 St. Helens 6,Governor,,,Write-ins,5Columbia,0027 St. Helens 7,Governor,,,Write-ins,0Columbia,0028 St. Helens 8,Governor,,,Write-ins,3Columbia,0029 St. Helens 9,Governor,,,Write-ins,1Columbia,0030 South St. Helens,Governor,,,Write-ins,0Columbia,0031 Scappoose 1,Governor,,,Write-ins,3Columbia,0032 Scappoose 2,Governor,,,Write-ins,2Columbia,0033 Scappoose 3,Governor,,,Write-ins,6Columbia,0034 Scappoose 4,Governor,,,Write-ins,2Columbia,0035 South Scappoose,Governor,,,Write-ins,0Columbia,0036 Canyon,Governor,,,Write-ins,2Columbia,0037 East Scappoose,Governor,,,Write-ins,2Columbia,0038 West Scappoose,Governor,,,Write-ins,1Columbia,0039 Sauvie Island,Governor,,,Write-ins,0Columbia,0040 Yankton,Governor,,,Write-ins,2Columbia,0041 Vernonia 1,Governor,,,Write-ins,1Columbia,0042 Vernonia 2,Governor,,,Write-ins,0Columbia,0043 Vernonia 3,Governor,,,Write-ins,5Columbia,0044 Vernonia 4,Governor,,,Write-ins,0Columbia,0045 Vernonia,Governor,,,Write-ins,3Columbia,0046 Apiary,Governor,,,Write-ins,3Columbia,0047 Chapman,Governor,,,Write-ins,3Columbia,0048 South Deer Island,Governor,,,Write-ins,1Columbia,0049 North Deer Island,Governor,,,Write-ins,1Columbia,0050 Prescott,Governor,,,Write-ins,0Columbia,0051 South Mist,Governor,,,Write-ins,0Columbia,0052 North Mist,Governor,,,Write-ins,0Columbia,0053 Columbia City,Governor,,,Write-ins,3Columbia,0055 East Chapman,Governor,,,Write-ins,2Columbia,0001 Clatskanie 1,State Senate,16,LBT,Perry Roll,4Columbia,0002 Clatskanie 2,State Senate,16,LBT,Perry Roll,7Columbia,0003 Clatskanie 3,State Senate,16,LBT,Perry Roll,6Columbia,0004 North Clatskanie,State Senate,16,LBT,Perry Roll,15Columbia,0005 South Clatskanie,State Senate,16,LBT,Perry Roll,18Columbia,0006 South Delena 1,State Senate,16,LBT,Perry Roll,12Columbia,0007 North Delena 2,State Senate,16,LBT,Perry Roll,10Columbia,0008 Goble,State Senate,16,LBT,Perry Roll,23Columbia,0009 Marshland,State Senate,16,LBT,Perry Roll,1Columbia,0010 South Milton,State Senate,16,LBT,Perry Roll,4Columbia,0011 North Milton,State Senate,16,LBT,Perry Roll,11Columbia,0012 South McNulty,State Senate,16,LBT,Perry Roll,12Columbia,0013 North McNulty,State Senate,16,LBT,Perry Roll,10Columbia,0014 Quincy,State Senate,16,LBT,Perry Roll,4Columbia,0015 Rainier 1,State Senate,16,LBT,Perry Roll,5Columbia,0016 Rainier 2,State Senate,16,LBT,Perry Roll,11Columbia,0017 West Rainier,State Senate,16,LBT,Perry Roll,7Columbia,0018 East Rainier,State Senate,16,LBT,Perry Roll,2Columbia,0019 South Warren,State Senate,16,LBT,Perry Roll,16Columbia,0020 North Warren,State Senate,16,LBT,Perry Roll,21Columbia,0021 St. Helens 1,State Senate,16,LBT,Perry Roll,11Columbia,0022 St. Helens 2,State Senate,16,LBT,Perry Roll,17Columbia,0023 St. Helens 3,State Senate,16,LBT,Perry Roll,14Columbia,0024 St. Helens 4,State Senate,16,LBT,Perry Roll,11Columbia,0025 St. Helens 5,State Senate,16,LBT,Perry Roll,15Columbia,0026 St. Helens 6,State Senate,16,LBT,Perry Roll,64Columbia,0027 St. Helens 7,State Senate,16,LBT,Perry Roll,14Columbia,0028 St. Helens 8,State Senate,16,LBT,Perry Roll,19Columbia,0029 St. Helens 9,State Senate,16,LBT,Perry Roll,10Columbia,0030 South St. Helens,State Senate,16,LBT,Perry Roll,3Columbia,0031 Scappoose 1,State Senate,16,LBT,Perry Roll,12Columbia,0032 Scappoose 2,State Senate,16,LBT,Perry Roll,16Columbia,0033 Scappoose 3,State Senate,16,LBT,Perry Roll,23Columbia,0034 Scappoose 4,State Senate,16,LBT,Perry Roll,25Columbia,0035 South Scappoose,State Senate,16,LBT,Perry Roll,22Columbia,0036 Canyon,State Senate,16,LBT,Perry Roll,15Columbia,0037 East Scappoose,State Senate,16,LBT,Perry Roll,4Columbia,0038 West Scappoose,State Senate,16,LBT,Perry Roll,13Columbia,0039 Sauvie Island,State Senate,16,LBT,Perry Roll,1Columbia,0040 Yankton,State Senate,16,LBT,Perry Roll,25Columbia,0041 Vernonia 1,State Senate,16,LBT,Perry Roll,11Columbia,0042 Vernonia 2,State Senate,16,LBT,Perry Roll,3Columbia,0043 Vernonia 3,State Senate,16,LBT,Perry Roll,9Columbia,0044 Vernonia 4,State Senate,16,LBT,Perry Roll,12Columbia,0045 Vernonia,State Senate,16,LBT,Perry Roll,15Columbia,0046 Apiary,State Senate,16,LBT,Perry Roll,24Columbia,0047 Chapman,State Senate,16,LBT,Perry Roll,22Columbia,0048 South Deer Island,State Senate,16,LBT,Perry Roll,10Columbia,0049 North Deer Island,State Senate,16,LBT,Perry Roll,12Columbia,0050 Prescott,State Senate,16,LBT,Perry Roll,0Columbia,0051 South Mist,State Senate,16,LBT,Perry Roll,8Columbia,0052 North Mist,State Senate,16,LBT,Perry Roll,2Columbia,0053 Columbia City,State Senate,16,LBT,Perry Roll,25Columbia,0055 East Chapman,State Senate,16,LBT,Perry Roll,11Columbia,0001 Clatskanie 1,State Senate,16,DEM,Betsy Johnson,108Columbia,0002 Clatskanie 2,State Senate,16,DEM,Betsy Johnson,183Columbia,0003 Clatskanie 3,State Senate,16,DEM,Betsy Johnson,119Columbia,0004 North Clatskanie,State Senate,16,DEM,Betsy Johnson,175Columbia,0005 South Clatskanie,State Senate,16,DEM,Betsy Johnson,254Columbia,0006 South Delena 1,State Senate,16,DEM,Betsy Johnson,196Columbia,0007 North Delena 2,State Senate,16,DEM,Betsy Johnson,293Columbia,0008 Goble,State Senate,16,DEM,Betsy Johnson,298Columbia,0009 Marshland,State Senate,16,DEM,Betsy Johnson,130Columbia,0010 South Milton,State Senate,16,DEM,Betsy Johnson,147Columbia,0011 North Milton,State Senate,16,DEM,Betsy Johnson,163Columbia,0012 South McNulty,State Senate,16,DEM,Betsy Johnson,224Columbia,0013 North McNulty,State Senate,16,DEM,Betsy Johnson,234Columbia,0014 Quincy,State Senate,16,DEM,Betsy Johnson,238Columbia,0015 Rainier 1,State Senate,16,DEM,Betsy Johnson,134Columbia,0016 Rainier 2,State Senate,16,DEM,Betsy Johnson,287Columbia,0017 West Rainier,State Senate,16,DEM,Betsy Johnson,158Columbia,0018 East Rainier,State Senate,16,DEM,Betsy Johnson,87Columbia,0019 South Warren,State Senate,16,DEM,Betsy Johnson,445Columbia,0020 North Warren,State Senate,16,DEM,Betsy Johnson,328Columbia,0021 St. Helens 1,State Senate,16,DEM,Betsy Johnson,180Columbia,0022 St. Helens 2,State Senate,16,DEM,Betsy Johnson,177Columbia,0023 St. Helens 3,State Senate,16,DEM,Betsy Johnson,295Columbia,0024 St. Helens 4,State Senate,16,DEM,Betsy Johnson,182Columbia,0025 St. Helens 5,State Senate,16,DEM,Betsy Johnson,180Columbia,0026 St. Helens 6,State Senate,16,DEM,Betsy Johnson,869Columbia,0027 St. Helens 7,State Senate,16,DEM,Betsy Johnson,184Columbia,0028 St. Helens 8,State Senate,16,DEM,Betsy Johnson,212Columbia,0029 St. Helens 9,State Senate,16,DEM,Betsy Johnson,249Columbia,0030 South St. Helens,State Senate,16,DEM,Betsy Johnson,97Columbia,0031 Scappoose 1,State Senate,16,DEM,Betsy Johnson,278Columbia,0032 Scappoose 2,State Senate,16,DEM,Betsy Johnson,291Columbia,0033 Scappoose 3,State Senate,16,DEM,Betsy Johnson,594Columbia,0034 Scappoose 4,State Senate,16,DEM,Betsy Johnson,472Columbia,0035 South Scappoose,State Senate,16,DEM,Betsy Johnson,292Columbia,0036 Canyon,State Senate,16,DEM,Betsy Johnson,204Columbia,0037 East Scappoose,State Senate,16,DEM,Betsy Johnson,161Columbia,0038 West Scappoose,State Senate,16,DEM,Betsy Johnson,218Columbia,0039 Sauvie Island,State Senate,16,DEM,Betsy Johnson,21Columbia,0040 Yankton,State Senate,16,DEM,Betsy Johnson,434Columbia,0041 Vernonia 1,State Senate,16,DEM,Betsy Johnson,199Columbia,0042 Vernonia 2,State Senate,16,DEM,Betsy Johnson,145Columbia,0043 Vernonia 3,State Senate,16,DEM,Betsy Johnson,201Columbia,0044 Vernonia 4,State Senate,16,DEM,Betsy Johnson,91Columbia,0045 Vernonia,State Senate,16,DEM,Betsy Johnson,257Columbia,0046 Apiary,State Senate,16,DEM,Betsy Johnson,266Columbia,0047 Chapman,State Senate,16,DEM,Betsy Johnson,289Columbia,0048 South Deer Island,State Senate,16,DEM,Betsy Johnson,137Columbia,0049 North Deer Island,State Senate,16,DEM,Betsy Johnson,213Columbia,0050 Prescott,State Senate,16,DEM,Betsy Johnson,21Columbia,0051 South Mist,State Senate,16,DEM,Betsy Johnson,85Columbia,0052 North Mist,State Senate,16,DEM,Betsy Johnson,29Columbia,0053 Columbia City,State Senate,16,DEM,Betsy Johnson,631Columbia,0055 East Chapman,State Senate,16,DEM,Betsy Johnson,103Columbia,0001 Clatskanie 1,State Senate,16,IND,Andrew Kaza,26Columbia,0002 Clatskanie 2,State Senate,16,IND,Andrew Kaza,25Columbia,0003 Clatskanie 3,State Senate,16,IND,Andrew Kaza,21Columbia,0004 North Clatskanie,State Senate,16,IND,Andrew Kaza,27Columbia,0005 South Clatskanie,State Senate,16,IND,Andrew Kaza,43Columbia,0006 South Delena 1,State Senate,16,IND,Andrew Kaza,38Columbia,0007 North Delena 2,State Senate,16,IND,Andrew Kaza,52Columbia,0008 Goble,State Senate,16,IND,Andrew Kaza,72Columbia,0009 Marshland,State Senate,16,IND,Andrew Kaza,14Columbia,0010 South Milton,State Senate,16,IND,Andrew Kaza,24Columbia,0011 North Milton,State Senate,16,IND,Andrew Kaza,27Columbia,0012 South McNulty,State Senate,16,IND,Andrew Kaza,30Columbia,0013 North McNulty,State Senate,16,IND,Andrew Kaza,60Columbia,0014 Quincy,State Senate,16,IND,Andrew Kaza,18Columbia,0015 Rainier 1,State Senate,16,IND,Andrew Kaza,33Columbia,0016 Rainier 2,State Senate,16,IND,Andrew Kaza,59Columbia,0017 West Rainier,State Senate,16,IND,Andrew Kaza,35Columbia,0018 East Rainier,State Senate,16,IND,Andrew Kaza,17Columbia,0019 South Warren,State Senate,16,IND,Andrew Kaza,90Columbia,0020 North Warren,State Senate,16,IND,Andrew Kaza,62Columbia,0021 St. Helens 1,State Senate,16,IND,Andrew Kaza,57Columbia,0022 St. Helens 2,State Senate,16,IND,Andrew Kaza,36Columbia,0023 St. Helens 3,State Senate,16,IND,Andrew Kaza,87Columbia,0024 St. Helens 4,State Senate,16,IND,Andrew Kaza,63Columbia,0025 St. Helens 5,State Senate,16,IND,Andrew Kaza,43Columbia,0026 St. Helens 6,State Senate,16,IND,Andrew Kaza,220Columbia,0027 St. Helens 7,State Senate,16,IND,Andrew Kaza,51Columbia,0028 St. Helens 8,State Senate,16,IND,Andrew Kaza,46Columbia,0029 St. Helens 9,State Senate,16,IND,Andrew Kaza,66Columbia,0030 South St. Helens,State Senate,16,IND,Andrew Kaza,33Columbia,0031 Scappoose 1,State Senate,16,IND,Andrew Kaza,45Columbia,0032 Scappoose 2,State Senate,16,IND,Andrew Kaza,84Columbia,0033 Scappoose 3,State Senate,16,IND,Andrew Kaza,120Columbia,0034 Scappoose 4,State Senate,16,IND,Andrew Kaza,84Columbia,0035 South Scappoose,State Senate,16,IND,Andrew Kaza,53Columbia,0036 Canyon,State Senate,16,IND,Andrew Kaza,34Columbia,0037 East Scappoose,State Senate,16,IND,Andrew Kaza,54Columbia,0038 West Scappoose,State Senate,16,IND,Andrew Kaza,33Columbia,0039 Sauvie Island,State Senate,16,IND,Andrew Kaza,4Columbia,0040 Yankton,State Senate,16,IND,Andrew Kaza,90Columbia,0041 Vernonia 1,State Senate,16,IND,Andrew Kaza,31Columbia,0042 Vernonia 2,State Senate,16,IND,Andrew Kaza,21Columbia,0043 Vernonia 3,State Senate,16,IND,Andrew Kaza,30Columbia,0044 Vernonia 4,State Senate,16,IND,Andrew Kaza,16Columbia,0045 Vernonia,State Senate,16,IND,Andrew Kaza,44Columbia,0046 Apiary,State Senate,16,IND,Andrew Kaza,55Columbia,0047 Chapman,State Senate,16,IND,Andrew Kaza,45Columbia,0048 South Deer Island,State Senate,16,IND,Andrew Kaza,41Columbia,0049 North Deer Island,State Senate,16,IND,Andrew Kaza,34Columbia,0050 Prescott,State Senate,16,IND,Andrew Kaza,3Columbia,0051 South Mist,State Senate,16,IND,Andrew Kaza,22Columbia,0052 North Mist,State Senate,16,IND,Andrew Kaza,8Columbia,0053 Columbia City,State Senate,16,IND,Andrew Kaza,135Columbia,0055 East Chapman,State Senate,16,IND,Andrew Kaza,21Columbia,0001 Clatskanie 1,State Senate,16,CON,Bob Ekstrom,27Columbia,0002 Clatskanie 2,State Senate,16,CON,Bob Ekstrom,30Columbia,0003 Clatskanie 3,State Senate,16,CON,Bob Ekstrom,22Columbia,0004 North Clatskanie,State Senate,16,CON,Bob Ekstrom,43Columbia,0005 South Clatskanie,State Senate,16,CON,Bob Ekstrom,51Columbia,0006 South Delena 1,State Senate,16,CON,Bob Ekstrom,58Columbia,0007 North Delena 2,State Senate,16,CON,Bob Ekstrom,69Columbia,0008 Goble,State Senate,16,CON,Bob Ekstrom,103Columbia,0009 Marshland,State Senate,16,CON,Bob Ekstrom,23Columbia,0010 South Milton,State Senate,16,CON,Bob Ekstrom,36Columbia,0011 North Milton,State Senate,16,CON,Bob Ekstrom,47Columbia,0012 South McNulty,State Senate,16,CON,Bob Ekstrom,50Columbia,0013 North McNulty,State Senate,16,CON,Bob Ekstrom,76Columbia,0014 Quincy,State Senate,16,CON,Bob Ekstrom,52Columbia,0015 Rainier 1,State Senate,16,CON,Bob Ekstrom,26Columbia,0016 Rainier 2,State Senate,16,CON,Bob Ekstrom,69Columbia,0017 West Rainier,State Senate,16,CON,Bob Ekstrom,30Columbia,0018 East Rainier,State Senate,16,CON,Bob Ekstrom,11Columbia,0019 South Warren,State Senate,16,CON,Bob Ekstrom,125Columbia,0020 North Warren,State Senate,16,CON,Bob Ekstrom,92Columbia,0021 St. Helens 1,State Senate,16,CON,Bob Ekstrom,50Columbia,0022 St. Helens 2,State Senate,16,CON,Bob Ekstrom,45Columbia,0023 St. Helens 3,State Senate,16,CON,Bob Ekstrom,103Columbia,0024 St. Helens 4,State Senate,16,CON,Bob Ekstrom,53Columbia,0025 St. Helens 5,State Senate,16,CON,Bob Ekstrom,35Columbia,0026 St. Helens 6,State Senate,16,CON,Bob Ekstrom,219Columbia,0027 St. Helens 7,State Senate,16,CON,Bob Ekstrom,53Columbia,0028 St. Helens 8,State Senate,16,CON,Bob Ekstrom,70Columbia,0029 St. Helens 9,State Senate,16,CON,Bob Ekstrom,67Columbia,0030 South St. Helens,State Senate,16,CON,Bob Ekstrom,26Columbia,0031 Scappoose 1,State Senate,16,CON,Bob Ekstrom,100Columbia,0032 Scappoose 2,State Senate,16,CON,Bob Ekstrom,105Columbia,0033 Scappoose 3,State Senate,16,CON,Bob Ekstrom,143Columbia,0034 Scappoose 4,State Senate,16,CON,Bob Ekstrom,124Columbia,0035 South Scappoose,State Senate,16,CON,Bob Ekstrom,95Columbia,0036 Canyon,State Senate,16,CON,Bob Ekstrom,72Columbia,0037 East Scappoose,State Senate,16,CON,Bob Ekstrom,61Columbia,0038 West Scappoose,State Senate,16,CON,Bob Ekstrom,71Columbia,0039 Sauvie Island,State Senate,16,CON,Bob Ekstrom,0Columbia,0040 Yankton,State Senate,16,CON,Bob Ekstrom,123Columbia,0041 Vernonia 1,State Senate,16,CON,Bob Ekstrom,30Columbia,0042 Vernonia 2,State Senate,16,CON,Bob Ekstrom,26Columbia,0043 Vernonia 3,State Senate,16,CON,Bob Ekstrom,48Columbia,0044 Vernonia 4,State Senate,16,CON,Bob Ekstrom,23Columbia,0045 Vernonia,State Senate,16,CON,Bob Ekstrom,70Columbia,0046 Apiary,State Senate,16,CON,Bob Ekstrom,53Columbia,0047 Chapman,State Senate,16,CON,Bob Ekstrom,72Columbia,0048 South Deer Island,State Senate,16,CON,Bob Ekstrom,50Columbia,0049 North Deer Island,State Senate,16,CON,Bob Ekstrom,85Columbia,0050 Prescott,State Senate,16,CON,Bob Ekstrom,8Columbia,0051 South Mist,State Senate,16,CON,Bob Ekstrom,14Columbia,0052 North Mist,State Senate,16,CON,Bob Ekstrom,6Columbia,0053 Columbia City,State Senate,16,CON,Bob Ekstrom,128Columbia,0055 East Chapman,State Senate,16,CON,Bob Ekstrom,32Columbia,0001 Clatskanie 1,State Senate,16,,Write-ins,0Columbia,0002 Clatskanie 2,State Senate,16,,Write-ins,0Columbia,0003 Clatskanie 3,State Senate,16,,Write-ins,0Columbia,0004 North Clatskanie,State Senate,16,,Write-ins,1Columbia,0005 South Clatskanie,State Senate,16,,Write-ins,0Columbia,0006 South Delena 1,State Senate,16,,Write-ins,1Columbia,0007 North Delena 2,State Senate,16,,Write-ins,0Columbia,0008 Goble,State Senate,16,,Write-ins,1Columbia,0009 Marshland,State Senate,16,,Write-ins,0Columbia,0010 South Milton,State Senate,16,,Write-ins,1Columbia,0011 North Milton,State Senate,16,,Write-ins,0Columbia,0012 South McNulty,State Senate,16,,Write-ins,1Columbia,0013 North McNulty,State Senate,16,,Write-ins,1Columbia,0014 Quincy,State Senate,16,,Write-ins,1Columbia,0015 Rainier 1,State Senate,16,,Write-ins,1Columbia,0016 Rainier 2,State Senate,16,,Write-ins,2Columbia,0017 West Rainier,State Senate,16,,Write-ins,1Columbia,0018 East Rainier,State Senate,16,,Write-ins,0Columbia,0019 South Warren,State Senate,16,,Write-ins,1Columbia,0020 North Warren,State Senate,16,,Write-ins,1Columbia,0021 St. Helens 1,State Senate,16,,Write-ins,2Columbia,0022 St. Helens 2,State Senate,16,,Write-ins,0Columbia,0023 St. Helens 3,State Senate,16,,Write-ins,1Columbia,0024 St. Helens 4,State Senate,16,,Write-ins,2Columbia,0025 St. Helens 5,State Senate,16,,Write-ins,0Columbia,0026 St. Helens 6,State Senate,16,,Write-ins,6Columbia,0027 St. Helens 7,State Senate,16,,Write-ins,3Columbia,0028 St. Helens 8,State Senate,16,,Write-ins,3Columbia,0029 St. Helens 9,State Senate,16,,Write-ins,3Columbia,0030 South St. Helens,State Senate,16,,Write-ins,0Columbia,0031 Scappoose 1,State Senate,16,,Write-ins,0Columbia,0032 Scappoose 2,State Senate,16,,Write-ins,0Columbia,0033 Scappoose 3,State Senate,16,,Write-ins,1Columbia,0034 Scappoose 4,State Senate,16,,Write-ins,1Columbia,0035 South Scappoose,State Senate,16,,Write-ins,1Columbia,0036 Canyon,State Senate,16,,Write-ins,0Columbia,0037 East Scappoose,State Senate,16,,Write-ins,1Columbia,0038 West Scappoose,State Senate,16,,Write-ins,1Columbia,0039 Sauvie Island,State Senate,16,,Write-ins,1Columbia,0040 Yankton,State Senate,16,,Write-ins,2Columbia,0041 Vernonia 1,State Senate,16,,Write-ins,0Columbia,0042 Vernonia 2,State Senate,16,,Write-ins,0Columbia,0043 Vernonia 3,State Senate,16,,Write-ins,3Columbia,0044 Vernonia 4,State Senate,16,,Write-ins,0Columbia,0045 Vernonia,State Senate,16,,Write-ins,0Columbia,0046 Apiary,State Senate,16,,Write-ins,2Columbia,0047 Chapman,State Senate,16,,Write-ins,2Columbia,0048 South Deer Island,State Senate,16,,Write-ins,3Columbia,0049 North Deer Island,State Senate,16,,Write-ins,4Columbia,0050 Prescott,State Senate,16,,Write-ins,0Columbia,0051 South Mist,State Senate,16,,Write-ins,1Columbia,0052 North Mist,State Senate,16,,Write-ins,0Columbia,0053 Columbia City,State Senate,16,,Write-ins,1Columbia,0055 East Chapman,State Senate,16,,Write-ins,4Columbia,0001 Clatskanie 1,State House,31,LBT,Robert Miller,9Columbia,0002 Clatskanie 2,State House,31,LBT,Robert Miller,11Columbia,0003 Clatskanie 3,State House,31,LBT,Robert Miller,11Columbia,0004 North Clatskanie,State House,31,LBT,Robert Miller,15Columbia,0005 South Clatskanie,State House,31,LBT,Robert Miller,24Columbia,0006 South Delena 1,State House,31,LBT,Robert Miller,16Columbia,0007 North Delena 2,State House,31,LBT,Robert Miller,16Columbia,0008 Goble,State House,31,LBT,Robert Miller,30Columbia,0009 Marshland,State House,31,LBT,Robert Miller,3Columbia,0010 South Milton,State House,31,LBT,Robert Miller,4Columbia,0011 North Milton,State House,31,LBT,Robert Miller,11Columbia,0012 South McNulty,State House,31,LBT,Robert Miller,13Columbia,0013 North McNulty,State House,31,LBT,Robert Miller,14Columbia,0014 Quincy,State House,31,LBT,Robert Miller,13Columbia,0015 Rainier 1,State House,31,LBT,Robert Miller,8Columbia,0016 Rainier 2,State House,31,LBT,Robert Miller,15Columbia,0017 West Rainier,State House,31,LBT,Robert Miller,12Columbia,0018 East Rainier,State House,31,LBT,Robert Miller,4Columbia,0019 South Warren,State House,31,LBT,Robert Miller,22Columbia,0020 North Warren,State House,31,LBT,Robert Miller,31Columbia,0021 St. Helens 1,State House,31,LBT,Robert Miller,15Columbia,0022 St. Helens 2,State House,31,LBT,Robert Miller,20Columbia,0023 St. Helens 3,State House,31,LBT,Robert Miller,26Columbia,0024 St. Helens 4,State House,31,LBT,Robert Miller,22Columbia,0025 St. Helens 5,State House,31,LBT,Robert Miller,11Columbia,0026 St. Helens 6,State House,31,LBT,Robert Miller,59Columbia,0027 St. Helens 7,State House,31,LBT,Robert Miller,18Columbia,0028 St. Helens 8,State House,31,LBT,Robert Miller,26Columbia,0029 St. Helens 9,State House,31,LBT,Robert Miller,14Columbia,0030 South St. Helens,State House,31,LBT,Robert Miller,5Columbia,0031 Scappoose 1,State House,31,LBT,Robert Miller,16Columbia,0032 Scappoose 2,State House,31,LBT,Robert Miller,22Columbia,0033 Scappoose 3,State House,31,LBT,Robert Miller,39Columbia,0034 Scappoose 4,State House,31,LBT,Robert Miller,28Columbia,0035 South Scappoose,State House,31,LBT,Robert Miller,18Columbia,0036 Canyon,State House,31,LBT,Robert Miller,14Columbia,0037 East Scappoose,State House,31,LBT,Robert Miller,9Columbia,0038 West Scappoose,State House,31,LBT,Robert Miller,16Columbia,0039 Sauvie Island,State House,31,LBT,Robert Miller,1Columbia,0040 Yankton,State House,31,LBT,Robert Miller,27Columbia,0041 Vernonia 1,State House,31,LBT,Robert Miller,9Columbia,0042 Vernonia 2,State House,31,LBT,Robert Miller,8Columbia,0043 Vernonia 3,State House,31,LBT,Robert Miller,8Columbia,0044 Vernonia 4,State House,31,LBT,Robert Miller,6Columbia,0045 Vernonia,State House,31,LBT,Robert Miller,24Columbia,0046 Apiary,State House,31,LBT,Robert Miller,19Columbia,0047 Chapman,State House,31,LBT,Robert Miller,18Columbia,0048 South Deer Island,State House,31,LBT,Robert Miller,11Columbia,0049 North Deer Island,State House,31,LBT,Robert Miller,19Columbia,0050 Prescott,State House,31,LBT,Robert Miller,0Columbia,0051 South Mist,State House,31,LBT,Robert Miller,8Columbia,0052 North Mist,State House,31,LBT,Robert Miller,3Columbia,0053 Columbia City,State House,31,LBT,Robert Miller,37Columbia,0055 East Chapman,State House,31,LBT,Robert Miller,6Columbia,0001 Clatskanie 1,State House,31,REP,Larry C. Ericksen,63Columbia,0002 Clatskanie 2,State House,31,REP,Larry C. Ericksen,99Columbia,0003 Clatskanie 3,State House,31,REP,Larry C. Ericksen,53Columbia,0004 North Clatskanie,State House,31,REP,Larry C. Ericksen,119Columbia,0005 South Clatskanie,State House,31,REP,Larry C. Ericksen,142Columbia,0006 South Delena 1,State House,31,REP,Larry C. Ericksen,127Columbia,0007 North Delena 2,State House,31,REP,Larry C. Ericksen,149Columbia,0008 Goble,State House,31,REP,Larry C. Ericksen,211Columbia,0009 Marshland,State House,31,REP,Larry C. Ericksen,71Columbia,0010 South Milton,State House,31,REP,Larry C. Ericksen,95Columbia,0011 North Milton,State House,31,REP,Larry C. Ericksen,94Columbia,0012 South McNulty,State House,31,REP,Larry C. Ericksen,129Columbia,0013 North McNulty,State House,31,REP,Larry C. Ericksen,159Columbia,0014 Quincy,State House,31,REP,Larry C. Ericksen,128Columbia,0015 Rainier 1,State House,31,REP,Larry C. Ericksen,71Columbia,0016 Rainier 2,State House,31,REP,Larry C. Ericksen,183Columbia,0017 West Rainier,State House,31,REP,Larry C. Ericksen,87Columbia,0018 East Rainier,State House,31,REP,Larry C. Ericksen,41Columbia,0019 South Warren,State House,31,REP,Larry C. Ericksen,325Columbia,0020 North Warren,State House,31,REP,Larry C. Ericksen,235Columbia,0021 St. Helens 1,State House,31,REP,Larry C. Ericksen,101Columbia,0022 St. Helens 2,State House,31,REP,Larry C. Ericksen,85Columbia,0023 St. Helens 3,State House,31,REP,Larry C. Ericksen,171Columbia,0024 St. Helens 4,State House,31,REP,Larry C. Ericksen,113Columbia,0025 St. Helens 5,State House,31,REP,Larry C. Ericksen,97Columbia,0026 St. Helens 6,State House,31,REP,Larry C. Ericksen,615Columbia,0027 St. Helens 7,State House,31,REP,Larry C. Ericksen,118Columbia,0028 St. Helens 8,State House,31,REP,Larry C. Ericksen,128Columbia,0029 St. Helens 9,State House,31,REP,Larry C. Ericksen,165Columbia,0030 South St. Helens,State House,31,REP,Larry C. Ericksen,58Columbia,0031 Scappoose 1,State House,31,REP,Larry C. Ericksen,206Columbia,0032 Scappoose 2,State House,31,REP,Larry C. Ericksen,203Columbia,0033 Scappoose 3,State House,31,REP,Larry C. Ericksen,378Columbia,0034 Scappoose 4,State House,31,REP,Larry C. Ericksen,298Columbia,0035 South Scappoose,State House,31,REP,Larry C. Ericksen,216Columbia,0036 Canyon,State House,31,REP,Larry C. Ericksen,125Columbia,0037 East Scappoose,State House,31,REP,Larry C. Ericksen,105Columbia,0038 West Scappoose,State House,31,REP,Larry C. Ericksen,128Columbia,0039 Sauvie Island,State House,31,REP,Larry C. Ericksen,15Columbia,0040 Yankton,State House,31,REP,Larry C. Ericksen,311Columbia,0041 Vernonia 1,State House,31,REP,Larry C. Ericksen,98Columbia,0042 Vernonia 2,State House,31,REP,Larry C. Ericksen,91Columbia,0043 Vernonia 3,State House,31,REP,Larry C. Ericksen,122Columbia,0044 Vernonia 4,State House,31,REP,Larry C. Ericksen,69Columbia,0045 Vernonia,State House,31,REP,Larry C. Ericksen,194Columbia,0046 Apiary,State House,31,REP,Larry C. Ericksen,170Columbia,0047 Chapman,State House,31,REP,Larry C. Ericksen,169Columbia,0048 South Deer Island,State House,31,REP,Larry C. Ericksen,109Columbia,0049 North Deer Island,State House,31,REP,Larry C. Ericksen,165Columbia,0050 Prescott,State House,31,REP,Larry C. Ericksen,10Columbia,0051 South Mist,State House,31,REP,Larry C. Ericksen,49Columbia,0052 North Mist,State House,31,REP,Larry C. Ericksen,23Columbia,0053 Columbia City,State House,31,REP,Larry C. Ericksen,370Columbia,0055 East Chapman,State House,31,REP,Larry C. Ericksen,75Columbia,0001 Clatskanie 1,State House,31,DEM,Brad Witt,91Columbia,0002 Clatskanie 2,State House,31,DEM,Brad Witt,134Columbia,0003 Clatskanie 3,State House,31,DEM,Brad Witt,100Columbia,0004 North Clatskanie,State House,31,DEM,Brad Witt,124Columbia,0005 South Clatskanie,State House,31,DEM,Brad Witt,201Columbia,0006 South Delena 1,State House,31,DEM,Brad Witt,167Columbia,0007 North Delena 2,State House,31,DEM,Brad Witt,263Columbia,0008 Goble,State House,31,DEM,Brad Witt,256Columbia,0009 Marshland,State House,31,DEM,Brad Witt,100Columbia,0010 South Milton,State House,31,DEM,Brad Witt,107Columbia,0011 North Milton,State House,31,DEM,Brad Witt,142Columbia,0012 South McNulty,State House,31,DEM,Brad Witt,174Columbia,0013 North McNulty,State House,31,DEM,Brad Witt,206Columbia,0014 Quincy,State House,31,DEM,Brad Witt,165Columbia,0015 Rainier 1,State House,31,DEM,Brad Witt,117Columbia,0016 Rainier 2,State House,31,DEM,Brad Witt,238Columbia,0017 West Rainier,State House,31,DEM,Brad Witt,136Columbia,0018 East Rainier,State House,31,DEM,Brad Witt,72Columbia,0019 South Warren,State House,31,DEM,Brad Witt,330Columbia,0020 North Warren,State House,31,DEM,Brad Witt,241Columbia,0021 St. Helens 1,State House,31,DEM,Brad Witt,180Columbia,0022 St. Helens 2,State House,31,DEM,Brad Witt,172Columbia,0023 St. Helens 3,State House,31,DEM,Brad Witt,290Columbia,0024 St. Helens 4,State House,31,DEM,Brad Witt,182Columbia,0025 St. Helens 5,State House,31,DEM,Brad Witt,161Columbia,0026 St. Helens 6,State House,31,DEM,Brad Witt,700Columbia,0027 St. Helens 7,State House,31,DEM,Brad Witt,170Columbia,0028 St. Helens 8,State House,31,DEM,Brad Witt,193Columbia,0029 St. Helens 9,State House,31,DEM,Brad Witt,219Columbia,0030 South St. Helens,State House,31,DEM,Brad Witt,94Columbia,0031 Scappoose 1,State House,31,DEM,Brad Witt,217Columbia,0032 Scappoose 2,State House,31,DEM,Brad Witt,269Columbia,0033 Scappoose 3,State House,31,DEM,Brad Witt,469Columbia,0034 Scappoose 4,State House,31,DEM,Brad Witt,380Columbia,0035 South Scappoose,State House,31,DEM,Brad Witt,233Columbia,0036 Canyon,State House,31,DEM,Brad Witt,193Columbia,0037 East Scappoose,State House,31,DEM,Brad Witt,166Columbia,0038 West Scappoose,State House,31,DEM,Brad Witt,186Columbia,0039 Sauvie Island,State House,31,DEM,Brad Witt,12Columbia,0040 Yankton,State House,31,DEM,Brad Witt,343Columbia,0041 Vernonia 1,State House,31,DEM,Brad Witt,152Columbia,0042 Vernonia 2,State House,31,DEM,Brad Witt,95Columbia,0043 Vernonia 3,State House,31,DEM,Brad Witt,153Columbia,0044 Vernonia 4,State House,31,DEM,Brad Witt,62Columbia,0045 Vernonia,State House,31,DEM,Brad Witt,176Columbia,0046 Apiary,State House,31,DEM,Brad Witt,218Columbia,0047 Chapman,State House,31,DEM,Brad Witt,239Columbia,0048 South Deer Island,State House,31,DEM,Brad Witt,116Columbia,0049 North Deer Island,State House,31,DEM,Brad Witt,171Columbia,0050 Prescott,State House,31,DEM,Brad Witt,22Columbia,0051 South Mist,State House,31,DEM,Brad Witt,75Columbia,0052 North Mist,State House,31,DEM,Brad Witt,18Columbia,0053 Columbia City,State House,31,DEM,Brad Witt,519Columbia,0055 East Chapman,State House,31,DEM,Brad Witt,94Columbia,0001 Clatskanie 1,State House,31,,Write-ins,0Columbia,0002 Clatskanie 2,State House,31,,Write-ins,0Columbia,0003 Clatskanie 3,State House,31,,Write-ins,1Columbia,0004 North Clatskanie,State House,31,,Write-ins,3Columbia,0005 South Clatskanie,State House,31,,Write-ins,0Columbia,0006 South Delena 1,State House,31,,Write-ins,3Columbia,0007 North Delena 2,State House,31,,Write-ins,1Columbia,0008 Goble,State House,31,,Write-ins,1Columbia,0009 Marshland,State House,31,,Write-ins,0Columbia,0010 South Milton,State House,31,,Write-ins,0Columbia,0011 North Milton,State House,31,,Write-ins,0Columbia,0012 South McNulty,State House,31,,Write-ins,0Columbia,0013 North McNulty,State House,31,,Write-ins,3Columbia,0014 Quincy,State House,31,,Write-ins,0Columbia,0015 Rainier 1,State House,31,,Write-ins,1Columbia,0016 Rainier 2,State House,31,,Write-ins,0Columbia,0017 West Rainier,State House,31,,Write-ins,1Columbia,0018 East Rainier,State House,31,,Write-ins,0Columbia,0019 South Warren,State House,31,,Write-ins,1Columbia,0020 North Warren,State House,31,,Write-ins,3Columbia,0021 St. Helens 1,State House,31,,Write-ins,3Columbia,0022 St. Helens 2,State House,31,,Write-ins,1Columbia,0023 St. Helens 3,State House,31,,Write-ins,3Columbia,0024 St. Helens 4,State House,31,,Write-ins,2Columbia,0025 St. Helens 5,State House,31,,Write-ins,3Columbia,0026 St. Helens 6,State House,31,,Write-ins,3Columbia,0027 St. Helens 7,State House,31,,Write-ins,1Columbia,0028 St. Helens 8,State House,31,,Write-ins,0Columbia,0029 St. Helens 9,State House,31,,Write-ins,2Columbia,0030 South St. Helens,State House,31,,Write-ins,1Columbia,0031 Scappoose 1,State House,31,,Write-ins,0Columbia,0032 Scappoose 2,State House,31,,Write-ins,4Columbia,0033 Scappoose 3,State House,31,,Write-ins,2Columbia,0034 Scappoose 4,State House,31,,Write-ins,0Columbia,0035 South Scappoose,State House,31,,Write-ins,0Columbia,0036 Canyon,State House,31,,Write-ins,1Columbia,0037 East Scappoose,State House,31,,Write-ins,1Columbia,0038 West Scappoose,State House,31,,Write-ins,1Columbia,0039 Sauvie Island,State House,31,,Write-ins,0Columbia,0040 Yankton,State House,31,,Write-ins,1Columbia,0041 Vernonia 1,State House,31,,Write-ins,0Columbia,0042 Vernonia 2,State House,31,,Write-ins,0Columbia,0043 Vernonia 3,State House,31,,Write-ins,2Columbia,0044 Vernonia 4,State House,31,,Write-ins,0Columbia,0045 Vernonia,State House,31,,Write-ins,1Columbia,0046 Apiary,State House,31,,Write-ins,1Columbia,0047 Chapman,State House,31,,Write-ins,2Columbia,0048 South Deer Island,State House,31,,Write-ins,4Columbia,0049 North Deer Island,State House,31,,Write-ins,1Columbia,0050 Prescott,State House,31,,Write-ins,0Columbia,0051 South Mist,State House,31,,Write-ins,0Columbia,0052 North Mist,State House,31,,Write-ins,0Columbia,0053 Columbia City,State House,31,,Write-ins,5Columbia,0055 East Chapman,State House,31,,Write-ins,0
+county,precinct,office,district,party,candidate,votes
+Columbia,0001 Clatskanie 1,Voters,,,Registered,239
+Columbia,0002 Clatskanie 2,Voters,,,Registered,347
+Columbia,0003 Clatskanie 3,Voters,,,Registered,266
+Columbia,0004 North Clatskanie,Voters,,,Registered,392
+Columbia,0005 South Clatskanie,Voters,,,Registered,518
+Columbia,0006 South Delena 1,Voters,,,Registered,484
+Columbia,0007 North Delena 2,Voters,,,Registered,650
+Columbia,0008 Goble,Voters,,,Registered,702
+Columbia,0009 Marshland,Voters,,,Registered,232
+Columbia,0010 South Milton,Voters,,,Registered,287
+Columbia,0011 North Milton,Voters,,,Registered,329
+Columbia,0012 South McNulty,Voters,,,Registered,474
+Columbia,0013 North McNulty,Voters,,,Registered,527
+Columbia,0014 Quincy,Voters,,,Registered,458
+Columbia,0015 Rainier 1,Voters,,,Registered,314
+Columbia,0016 Rainier 2,Voters,,,Registered,677
+Columbia,0017 West Rainier,Voters,,,Registered,392
+Columbia,0018 East Rainier,Voters,,,Registered,173
+Columbia,0019 South Warren,Voters,,,Registered,888
+Columbia,0020 North Warren,Voters,,,Registered,687
+Columbia,0021 St. Helens 1,Voters,,,Registered,457
+Columbia,0022 St. Helens 2,Voters,,,Registered,398
+Columbia,0023 St. Helens 3,Voters,,,Registered,826
+Columbia,0024 St. Helens 4,Voters,,,Registered,522
+Columbia,0025 St. Helens 5,Voters,,,Registered,409
+Columbia,0026 St. Helens 6,Voters,,,Registered,2153
+Columbia,0027 St. Helens 7,Voters,,,Registered,522
+Columbia,0028 St. Helens 8,Voters,,,Registered,543
+Columbia,0029 St. Helens 9,Voters,,,Registered,613
+Columbia,0030 South St. Helens,Voters,,,Registered,226
+Columbia,0031 Scappoose 1,Voters,,,Registered,652
+Columbia,0032 Scappoose 2,Voters,,,Registered,769
+Columbia,0033 Scappoose 3,Voters,,,Registered,1339
+Columbia,0034 Scappoose 4,Voters,,,Registered,1085
+Columbia,0035 South Scappoose,Voters,,,Registered,691
+Columbia,0036 Canyon,Voters,,,Registered,434
+Columbia,0037 East Scappoose,Voters,,,Registered,428
+Columbia,0038 West Scappoose,Voters,,,Registered,478
+Columbia,0039 Sauvie Island,Voters,,,Registered,40
+Columbia,0040 Yankton,Voters,,,Registered,951
+Columbia,0041 Vernonia 1,Voters,,,Registered,436
+Columbia,0042 Vernonia 2,Voters,,,Registered,292
+Columbia,0043 Vernonia 3,Voters,,,Registered,451
+Columbia,0044 Vernonia 4,Voters,,,Registered,209
+Columbia,0045 Vernonia,Voters,,,Registered,552
+Columbia,0046 Apiary,Voters,,,Registered,594
+Columbia,0047 Chapman,Voters,,,Registered,589
+Columbia,0048 South Deer Island,Voters,,,Registered,372
+Columbia,0049 North Deer Island,Voters,,,Registered,500
+Columbia,0050 Prescott,Voters,,,Registered,41
+Columbia,0051 South Mist,Voters,,,Registered,189
+Columbia,0052 North Mist,Voters,,,Registered,63
+Columbia,0053 Columbia City,Voters,,,Registered,1283
+Columbia,0055 East Chapman,Voters,,,Registered,231
+Columbia,0001 Clatskanie 1,Voters,,,Ballots Cast,177
+Columbia,0002 Clatskanie 2,Voters,,,Ballots Cast,258
+Columbia,0003 Clatskanie 3,Voters,,,Ballots Cast,176
+Columbia,0004 North Clatskanie,Voters,,,Ballots Cast,275
+Columbia,0005 South Clatskanie,Voters,,,Ballots Cast,383
+Columbia,0006 South Delena 1,Voters,,,Ballots Cast,329
+Columbia,0007 North Delena 2,Voters,,,Ballots Cast,455
+Columbia,0008 Goble,Voters,,,Ballots Cast,539
+Columbia,0009 Marshland,Voters,,,Ballots Cast,181
+Columbia,0010 South Milton,Voters,,,Ballots Cast,230
+Columbia,0011 North Milton,Voters,,,Ballots Cast,264
+Columbia,0012 South McNulty,Voters,,,Ballots Cast,349
+Columbia,0013 North McNulty,Voters,,,Ballots Cast,414
+Columbia,0014 Quincy,Voters,,,Ballots Cast,332
+Columbia,0015 Rainier 1,Voters,,,Ballots Cast,216
+Columbia,0016 Rainier 2,Voters,,,Ballots Cast,468
+Columbia,0017 West Rainier,Voters,,,Ballots Cast,257
+Columbia,0018 East Rainier,Voters,,,Ballots Cast,124
+Columbia,0019 South Warren,Voters,,,Ballots Cast,724
+Columbia,0020 North Warren,Voters,,,Ballots Cast,540
+Columbia,0021 St. Helens 1,Voters,,,Ballots Cast,317
+Columbia,0022 St. Helens 2,Voters,,,Ballots Cast,304
+Columbia,0023 St. Helens 3,Voters,,,Ballots Cast,544
+Columbia,0024 St. Helens 4,Voters,,,Ballots Cast,350
+Columbia,0025 St. Helens 5,Voters,,,Ballots Cast,289
+Columbia,0026 St. Helens 6,Voters,,,Ballots Cast,1500
+Columbia,0027 St. Helens 7,Voters,,,Ballots Cast,332
+Columbia,0028 St. Helens 8,Voters,,,Ballots Cast,377
+Columbia,0029 St. Helens 9,Voters,,,Ballots Cast,426
+Columbia,0030 South St. Helens,Voters,,,Ballots Cast,170
+Columbia,0031 Scappoose 1,Voters,,,Ballots Cast,474
+Columbia,0032 Scappoose 2,Voters,,,Ballots Cast,540
+Columbia,0033 Scappoose 3,Voters,,,Ballots Cast,960
+Columbia,0034 Scappoose 4,Voters,,,Ballots Cast,749
+Columbia,0035 South Scappoose,Voters,,,Ballots Cast,507
+Columbia,0036 Canyon,Voters,,,Ballots Cast,352
+Columbia,0037 East Scappoose,Voters,,,Ballots Cast,308
+Columbia,0038 West Scappoose,Voters,,,Ballots Cast,357
+Columbia,0039 Sauvie Island,Voters,,,Ballots Cast,29
+Columbia,0040 Yankton,Voters,,,Ballots Cast,731
+Columbia,0041 Vernonia 1,Voters,,,Ballots Cast,293
+Columbia,0042 Vernonia 2,Voters,,,Ballots Cast,208
+Columbia,0043 Vernonia 3,Voters,,,Ballots Cast,307
+Columbia,0044 Vernonia 4,Voters,,,Ballots Cast,149
+Columbia,0045 Vernonia,Voters,,,Ballots Cast,429
+Columbia,0046 Apiary,Voters,,,Ballots Cast,439
+Columbia,0047 Chapman,Voters,,,Ballots Cast,453
+Columbia,0048 South Deer Island,Voters,,,Ballots Cast,261
+Columbia,0049 North Deer Island,Voters,,,Ballots Cast,383
+Columbia,0050 Prescott,Voters,,,Ballots Cast,32
+Columbia,0051 South Mist,Voters,,,Ballots Cast,146
+Columbia,0052 North Mist,Voters,,,Ballots Cast,46
+Columbia,0053 Columbia City,Voters,,,Ballots Cast,1008
+Columbia,0055 East Chapman,Voters,,,Ballots Cast,187
+Columbia,0001 Clatskanie 1,U.S. Senate,,L,Mike Montchalin,9
+Columbia,0002 Clatskanie 2,U.S. Senate,,L,Mike Montchalin,8
+Columbia,0003 Clatskanie 3,U.S. Senate,,L,Mike Montchalin,8
+Columbia,0004 North Clatskanie,U.S. Senate,,L,Mike Montchalin,16
+Columbia,0005 South Clatskanie,U.S. Senate,,L,Mike Montchalin,23
+Columbia,0006 South Delena 1,U.S. Senate,,L,Mike Montchalin,19
+Columbia,0007 North Delena 2,U.S. Senate,,L,Mike Montchalin,15
+Columbia,0008 Goble,U.S. Senate,,L,Mike Montchalin,29
+Columbia,0009 Marshland,U.S. Senate,,L,Mike Montchalin,2
+Columbia,0010 South Milton,U.S. Senate,,L,Mike Montchalin,6
+Columbia,0011 North Milton,U.S. Senate,,L,Mike Montchalin,14
+Columbia,0012 South McNulty,U.S. Senate,,L,Mike Montchalin,7
+Columbia,0013 North McNulty,U.S. Senate,,L,Mike Montchalin,17
+Columbia,0014 Quincy,U.S. Senate,,L,Mike Montchalin,16
+Columbia,0015 Rainier 1,U.S. Senate,,L,Mike Montchalin,12
+Columbia,0016 Rainier 2,U.S. Senate,,L,Mike Montchalin,18
+Columbia,0017 West Rainier,U.S. Senate,,L,Mike Montchalin,11
+Columbia,0018 East Rainier,U.S. Senate,,L,Mike Montchalin,7
+Columbia,0019 South Warren,U.S. Senate,,L,Mike Montchalin,18
+Columbia,0020 North Warren,U.S. Senate,,L,Mike Montchalin,25
+Columbia,0021 St. Helens 1,U.S. Senate,,L,Mike Montchalin,14
+Columbia,0022 St. Helens 2,U.S. Senate,,L,Mike Montchalin,9
+Columbia,0023 St. Helens 3,U.S. Senate,,L,Mike Montchalin,31
+Columbia,0024 St. Helens 4,U.S. Senate,,L,Mike Montchalin,13
+Columbia,0025 St. Helens 5,U.S. Senate,,L,Mike Montchalin,18
+Columbia,0026 St. Helens 6,U.S. Senate,,L,Mike Montchalin,53
+Columbia,0027 St. Helens 7,U.S. Senate,,L,Mike Montchalin,13
+Columbia,0028 St. Helens 8,U.S. Senate,,L,Mike Montchalin,25
+Columbia,0029 St. Helens 9,U.S. Senate,,L,Mike Montchalin,17
+Columbia,0030 South St. Helens,U.S. Senate,,L,Mike Montchalin,2
+Columbia,0031 Scappoose 1,U.S. Senate,,L,Mike Montchalin,13
+Columbia,0032 Scappoose 2,U.S. Senate,,L,Mike Montchalin,18
+Columbia,0033 Scappoose 3,U.S. Senate,,L,Mike Montchalin,30
+Columbia,0034 Scappoose 4,U.S. Senate,,L,Mike Montchalin,33
+Columbia,0035 South Scappoose,U.S. Senate,,L,Mike Montchalin,23
+Columbia,0036 Canyon,U.S. Senate,,L,Mike Montchalin,15
+Columbia,0037 East Scappoose,U.S. Senate,,L,Mike Montchalin,13
+Columbia,0038 West Scappoose,U.S. Senate,,L,Mike Montchalin,12
+Columbia,0039 Sauvie Island,U.S. Senate,,L,Mike Montchalin,0
+Columbia,0040 Yankton,U.S. Senate,,L,Mike Montchalin,20
+Columbia,0041 Vernonia 1,U.S. Senate,,L,Mike Montchalin,12
+Columbia,0042 Vernonia 2,U.S. Senate,,L,Mike Montchalin,7
+Columbia,0043 Vernonia 3,U.S. Senate,,L,Mike Montchalin,12
+Columbia,0044 Vernonia 4,U.S. Senate,,L,Mike Montchalin,8
+Columbia,0045 Vernonia,U.S. Senate,,L,Mike Montchalin,19
+Columbia,0046 Apiary,U.S. Senate,,L,Mike Montchalin,25
+Columbia,0047 Chapman,U.S. Senate,,L,Mike Montchalin,17
+Columbia,0048 South Deer Island,U.S. Senate,,L,Mike Montchalin,8
+Columbia,0049 North Deer Island,U.S. Senate,,L,Mike Montchalin,17
+Columbia,0050 Prescott,U.S. Senate,,L,Mike Montchalin,2
+Columbia,0051 South Mist,U.S. Senate,,L,Mike Montchalin,6
+Columbia,0052 North Mist,U.S. Senate,,L,Mike Montchalin,0
+Columbia,0053 Columbia City,U.S. Senate,,L,Mike Montchalin,30
+Columbia,0055 East Chapman,U.S. Senate,,L,Mike Montchalin,8
+Columbia,0001 Clatskanie 1,U.S. Senate,,D,Jeff Merkley,83
+Columbia,0002 Clatskanie 2,U.S. Senate,,D,Jeff Merkley,111
+Columbia,0003 Clatskanie 3,U.S. Senate,,D,Jeff Merkley,66
+Columbia,0004 North Clatskanie,U.S. Senate,,D,Jeff Merkley,116
+Columbia,0005 South Clatskanie,U.S. Senate,,D,Jeff Merkley,190
+Columbia,0006 South Delena 1,U.S. Senate,,D,Jeff Merkley,147
+Columbia,0007 North Delena 2,U.S. Senate,,D,Jeff Merkley,240
+Columbia,0008 Goble,U.S. Senate,,D,Jeff Merkley,227
+Columbia,0009 Marshland,U.S. Senate,,D,Jeff Merkley,97
+Columbia,0010 South Milton,U.S. Senate,,D,Jeff Merkley,113
+Columbia,0011 North Milton,U.S. Senate,,D,Jeff Merkley,125
+Columbia,0012 South McNulty,U.S. Senate,,D,Jeff Merkley,179
+Columbia,0013 North McNulty,U.S. Senate,,D,Jeff Merkley,199
+Columbia,0014 Quincy,U.S. Senate,,D,Jeff Merkley,155
+Columbia,0015 Rainier 1,U.S. Senate,,D,Jeff Merkley,104
+Columbia,0016 Rainier 2,U.S. Senate,,D,Jeff Merkley,228
+Columbia,0017 West Rainier,U.S. Senate,,D,Jeff Merkley,115
+Columbia,0018 East Rainier,U.S. Senate,,D,Jeff Merkley,64
+Columbia,0019 South Warren,U.S. Senate,,D,Jeff Merkley,339
+Columbia,0020 North Warren,U.S. Senate,,D,Jeff Merkley,233
+Columbia,0021 St. Helens 1,U.S. Senate,,D,Jeff Merkley,175
+Columbia,0022 St. Helens 2,U.S. Senate,,D,Jeff Merkley,174
+Columbia,0023 St. Helens 3,U.S. Senate,,D,Jeff Merkley,281
+Columbia,0024 St. Helens 4,U.S. Senate,,D,Jeff Merkley,173
+Columbia,0025 St. Helens 5,U.S. Senate,,D,Jeff Merkley,155
+Columbia,0026 St. Helens 6,U.S. Senate,,D,Jeff Merkley,683
+Columbia,0027 St. Helens 7,U.S. Senate,,D,Jeff Merkley,178
+Columbia,0028 St. Helens 8,U.S. Senate,,D,Jeff Merkley,189
+Columbia,0029 St. Helens 9,U.S. Senate,,D,Jeff Merkley,209
+Columbia,0030 South St. Helens,U.S. Senate,,D,Jeff Merkley,97
+Columbia,0031 Scappoose 1,U.S. Senate,,D,Jeff Merkley,224
+Columbia,0032 Scappoose 2,U.S. Senate,,D,Jeff Merkley,280
+Columbia,0033 Scappoose 3,U.S. Senate,,D,Jeff Merkley,489
+Columbia,0034 Scappoose 4,U.S. Senate,,D,Jeff Merkley,381
+Columbia,0035 South Scappoose,U.S. Senate,,D,Jeff Merkley,245
+Columbia,0036 Canyon,U.S. Senate,,D,Jeff Merkley,186
+Columbia,0037 East Scappoose,U.S. Senate,,D,Jeff Merkley,166
+Columbia,0038 West Scappoose,U.S. Senate,,D,Jeff Merkley,182
+Columbia,0039 Sauvie Island,U.S. Senate,,D,Jeff Merkley,13
+Columbia,0040 Yankton,U.S. Senate,,D,Jeff Merkley,339
+Columbia,0041 Vernonia 1,U.S. Senate,,D,Jeff Merkley,137
+Columbia,0042 Vernonia 2,U.S. Senate,,D,Jeff Merkley,80
+Columbia,0043 Vernonia 3,U.S. Senate,,D,Jeff Merkley,131
+Columbia,0044 Vernonia 4,U.S. Senate,,D,Jeff Merkley,62
+Columbia,0045 Vernonia,U.S. Senate,,D,Jeff Merkley,152
+Columbia,0046 Apiary,U.S. Senate,,D,Jeff Merkley,210
+Columbia,0047 Chapman,U.S. Senate,,D,Jeff Merkley,241
+Columbia,0048 South Deer Island,U.S. Senate,,D,Jeff Merkley,98
+Columbia,0049 North Deer Island,U.S. Senate,,D,Jeff Merkley,169
+Columbia,0050 Prescott,U.S. Senate,,D,Jeff Merkley,19
+Columbia,0051 South Mist,U.S. Senate,,D,Jeff Merkley,68
+Columbia,0052 North Mist,U.S. Senate,,D,Jeff Merkley,18
+Columbia,0053 Columbia City,U.S. Senate,,D,Jeff Merkley,532
+Columbia,0055 East Chapman,U.S. Senate,,D,Jeff Merkley,90
+Columbia,0001 Clatskanie 1,U.S. Senate,,PAC,Christina Lugo,3
+Columbia,0002 Clatskanie 2,U.S. Senate,,PAC,Christina Lugo,5
+Columbia,0003 Clatskanie 3,U.S. Senate,,PAC,Christina Lugo,6
+Columbia,0004 North Clatskanie,U.S. Senate,,PAC,Christina Lugo,6
+Columbia,0005 South Clatskanie,U.S. Senate,,PAC,Christina Lugo,5
+Columbia,0006 South Delena 1,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0007 North Delena 2,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0008 Goble,U.S. Senate,,PAC,Christina Lugo,14
+Columbia,0009 Marshland,U.S. Senate,,PAC,Christina Lugo,5
+Columbia,0010 South Milton,U.S. Senate,,PAC,Christina Lugo,7
+Columbia,0011 North Milton,U.S. Senate,,PAC,Christina Lugo,10
+Columbia,0012 South McNulty,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0013 North McNulty,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0014 Quincy,U.S. Senate,,PAC,Christina Lugo,1
+Columbia,0015 Rainier 1,U.S. Senate,,PAC,Christina Lugo,5
+Columbia,0016 Rainier 2,U.S. Senate,,PAC,Christina Lugo,9
+Columbia,0017 West Rainier,U.S. Senate,,PAC,Christina Lugo,7
+Columbia,0018 East Rainier,U.S. Senate,,PAC,Christina Lugo,2
+Columbia,0019 South Warren,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0020 North Warren,U.S. Senate,,PAC,Christina Lugo,9
+Columbia,0021 St. Helens 1,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0022 St. Helens 2,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0023 St. Helens 3,U.S. Senate,,PAC,Christina Lugo,19
+Columbia,0024 St. Helens 4,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0025 St. Helens 5,U.S. Senate,,PAC,Christina Lugo,13
+Columbia,0026 St. Helens 6,U.S. Senate,,PAC,Christina Lugo,33
+Columbia,0027 St. Helens 7,U.S. Senate,,PAC,Christina Lugo,12
+Columbia,0028 St. Helens 8,U.S. Senate,,PAC,Christina Lugo,12
+Columbia,0029 St. Helens 9,U.S. Senate,,PAC,Christina Lugo,11
+Columbia,0030 South St. Helens,U.S. Senate,,PAC,Christina Lugo,4
+Columbia,0031 Scappoose 1,U.S. Senate,,PAC,Christina Lugo,5
+Columbia,0032 Scappoose 2,U.S. Senate,,PAC,Christina Lugo,8
+Columbia,0033 Scappoose 3,U.S. Senate,,PAC,Christina Lugo,22
+Columbia,0034 Scappoose 4,U.S. Senate,,PAC,Christina Lugo,9
+Columbia,0035 South Scappoose,U.S. Senate,,PAC,Christina Lugo,9
+Columbia,0036 Canyon,U.S. Senate,,PAC,Christina Lugo,3
+Columbia,0037 East Scappoose,U.S. Senate,,PAC,Christina Lugo,11
+Columbia,0038 West Scappoose,U.S. Senate,,PAC,Christina Lugo,5
+Columbia,0039 Sauvie Island,U.S. Senate,,PAC,Christina Lugo,1
+Columbia,0040 Yankton,U.S. Senate,,PAC,Christina Lugo,22
+Columbia,0041 Vernonia 1,U.S. Senate,,PAC,Christina Lugo,3
+Columbia,0042 Vernonia 2,U.S. Senate,,PAC,Christina Lugo,3
+Columbia,0043 Vernonia 3,U.S. Senate,,PAC,Christina Lugo,2
+Columbia,0044 Vernonia 4,U.S. Senate,,PAC,Christina Lugo,1
+Columbia,0045 Vernonia,U.S. Senate,,PAC,Christina Lugo,9
+Columbia,0046 Apiary,U.S. Senate,,PAC,Christina Lugo,4
+Columbia,0047 Chapman,U.S. Senate,,PAC,Christina Lugo,10
+Columbia,0048 South Deer Island,U.S. Senate,,PAC,Christina Lugo,9
+Columbia,0049 North Deer Island,U.S. Senate,,PAC,Christina Lugo,12
+Columbia,0050 Prescott,U.S. Senate,,PAC,Christina Lugo,0
+Columbia,0051 South Mist,U.S. Senate,,PAC,Christina Lugo,3
+Columbia,0052 North Mist,U.S. Senate,,PAC,Christina Lugo,2
+Columbia,0053 Columbia City,U.S. Senate,,PAC,Christina Lugo,11
+Columbia,0055 East Chapman,U.S. Senate,,PAC,Christina Lugo,4
+Columbia,0001 Clatskanie 1,U.S. Senate,,CON,James E. Leuenberger,11
+Columbia,0002 Clatskanie 2,U.S. Senate,,CON,James E. Leuenberger,6
+Columbia,0003 Clatskanie 3,U.S. Senate,,CON,James E. Leuenberger,8
+Columbia,0004 North Clatskanie,U.S. Senate,,CON,James E. Leuenberger,9
+Columbia,0005 South Clatskanie,U.S. Senate,,CON,James E. Leuenberger,20
+Columbia,0006 South Delena 1,U.S. Senate,,CON,James E. Leuenberger,21
+Columbia,0007 North Delena 2,U.S. Senate,,CON,James E. Leuenberger,23
+Columbia,0008 Goble,U.S. Senate,,CON,James E. Leuenberger,24
+Columbia,0009 Marshland,U.S. Senate,,CON,James E. Leuenberger,6
+Columbia,0010 South Milton,U.S. Senate,,CON,James E. Leuenberger,3
+Columbia,0011 North Milton,U.S. Senate,,CON,James E. Leuenberger,3
+Columbia,0012 South McNulty,U.S. Senate,,CON,James E. Leuenberger,6
+Columbia,0013 North McNulty,U.S. Senate,,CON,James E. Leuenberger,7
+Columbia,0014 Quincy,U.S. Senate,,CON,James E. Leuenberger,29
+Columbia,0015 Rainier 1,U.S. Senate,,CON,James E. Leuenberger,5
+Columbia,0016 Rainier 2,U.S. Senate,,CON,James E. Leuenberger,10
+Columbia,0017 West Rainier,U.S. Senate,,CON,James E. Leuenberger,7
+Columbia,0018 East Rainier,U.S. Senate,,CON,James E. Leuenberger,1
+Columbia,0019 South Warren,U.S. Senate,,CON,James E. Leuenberger,19
+Columbia,0020 North Warren,U.S. Senate,,CON,James E. Leuenberger,16
+Columbia,0021 St. Helens 1,U.S. Senate,,CON,James E. Leuenberger,12
+Columbia,0022 St. Helens 2,U.S. Senate,,CON,James E. Leuenberger,8
+Columbia,0023 St. Helens 3,U.S. Senate,,CON,James E. Leuenberger,24
+Columbia,0024 St. Helens 4,U.S. Senate,,CON,James E. Leuenberger,14
+Columbia,0025 St. Helens 5,U.S. Senate,,CON,James E. Leuenberger,4
+Columbia,0026 St. Helens 6,U.S. Senate,,CON,James E. Leuenberger,33
+Columbia,0027 St. Helens 7,U.S. Senate,,CON,James E. Leuenberger,10
+Columbia,0028 St. Helens 8,U.S. Senate,,CON,James E. Leuenberger,11
+Columbia,0029 St. Helens 9,U.S. Senate,,CON,James E. Leuenberger,12
+Columbia,0030 South St. Helens,U.S. Senate,,CON,James E. Leuenberger,1
+Columbia,0031 Scappoose 1,U.S. Senate,,CON,James E. Leuenberger,15
+Columbia,0032 Scappoose 2,U.S. Senate,,CON,James E. Leuenberger,12
+Columbia,0033 Scappoose 3,U.S. Senate,,CON,James E. Leuenberger,24
+Columbia,0034 Scappoose 4,U.S. Senate,,CON,James E. Leuenberger,19
+Columbia,0035 South Scappoose,U.S. Senate,,CON,James E. Leuenberger,12
+Columbia,0036 Canyon,U.S. Senate,,CON,James E. Leuenberger,14
+Columbia,0037 East Scappoose,U.S. Senate,,CON,James E. Leuenberger,5
+Columbia,0038 West Scappoose,U.S. Senate,,CON,James E. Leuenberger,10
+Columbia,0039 Sauvie Island,U.S. Senate,,CON,James E. Leuenberger,0
+Columbia,0040 Yankton,U.S. Senate,,CON,James E. Leuenberger,29
+Columbia,0041 Vernonia 1,U.S. Senate,,CON,James E. Leuenberger,3
+Columbia,0042 Vernonia 2,U.S. Senate,,CON,James E. Leuenberger,6
+Columbia,0043 Vernonia 3,U.S. Senate,,CON,James E. Leuenberger,10
+Columbia,0044 Vernonia 4,U.S. Senate,,CON,James E. Leuenberger,7
+Columbia,0045 Vernonia,U.S. Senate,,CON,James E. Leuenberger,20
+Columbia,0046 Apiary,U.S. Senate,,CON,James E. Leuenberger,11
+Columbia,0047 Chapman,U.S. Senate,,CON,James E. Leuenberger,16
+Columbia,0048 South Deer Island,U.S. Senate,,CON,James E. Leuenberger,5
+Columbia,0049 North Deer Island,U.S. Senate,,CON,James E. Leuenberger,28
+Columbia,0050 Prescott,U.S. Senate,,CON,James E. Leuenberger,1
+Columbia,0051 South Mist,U.S. Senate,,CON,James E. Leuenberger,7
+Columbia,0052 North Mist,U.S. Senate,,CON,James E. Leuenberger,0
+Columbia,0053 Columbia City,U.S. Senate,,CON,James E. Leuenberger,21
+Columbia,0055 East Chapman,U.S. Senate,,CON,James E. Leuenberger,2
+Columbia,0001 Clatskanie 1,U.S. Senate,,REP,Monica Wehby,62
+Columbia,0002 Clatskanie 2,U.S. Senate,,REP,Monica Wehby,115
+Columbia,0003 Clatskanie 3,U.S. Senate,,REP,Monica Wehby,79
+Columbia,0004 North Clatskanie,U.S. Senate,,REP,Monica Wehby,115
+Columbia,0005 South Clatskanie,U.S. Senate,,REP,Monica Wehby,136
+Columbia,0006 South Delena 1,U.S. Senate,,REP,Monica Wehby,132
+Columbia,0007 North Delena 2,U.S. Senate,,REP,Monica Wehby,153
+Columbia,0008 Goble,U.S. Senate,,REP,Monica Wehby,218
+Columbia,0009 Marshland,U.S. Senate,,REP,Monica Wehby,68
+Columbia,0010 South Milton,U.S. Senate,,REP,Monica Wehby,91
+Columbia,0011 North Milton,U.S. Senate,,REP,Monica Wehby,97
+Columbia,0012 South McNulty,U.S. Senate,,REP,Monica Wehby,135
+Columbia,0013 North McNulty,U.S. Senate,,REP,Monica Wehby,165
+Columbia,0014 Quincy,U.S. Senate,,REP,Monica Wehby,117
+Columbia,0015 Rainier 1,U.S. Senate,,REP,Monica Wehby,75
+Columbia,0016 Rainier 2,U.S. Senate,,REP,Monica Wehby,185
+Columbia,0017 West Rainier,U.S. Senate,,REP,Monica Wehby,99
+Columbia,0018 East Rainier,U.S. Senate,,REP,Monica Wehby,46
+Columbia,0019 South Warren,U.S. Senate,,REP,Monica Wehby,319
+Columbia,0020 North Warren,U.S. Senate,,REP,Monica Wehby,235
+Columbia,0021 St. Helens 1,U.S. Senate,,REP,Monica Wehby,95
+Columbia,0022 St. Helens 2,U.S. Senate,,REP,Monica Wehby,93
+Columbia,0023 St. Helens 3,U.S. Senate,,REP,Monica Wehby,159
+Columbia,0024 St. Helens 4,U.S. Senate,,REP,Monica Wehby,117
+Columbia,0025 St. Helens 5,U.S. Senate,,REP,Monica Wehby,86
+Columbia,0026 St. Helens 6,U.S. Senate,,REP,Monica Wehby,618
+Columbia,0027 St. Helens 7,U.S. Senate,,REP,Monica Wehby,104
+Columbia,0028 St. Helens 8,U.S. Senate,,REP,Monica Wehby,121
+Columbia,0029 St. Helens 9,U.S. Senate,,REP,Monica Wehby,155
+Columbia,0030 South St. Helens,U.S. Senate,,REP,Monica Wehby,54
+Columbia,0031 Scappoose 1,U.S. Senate,,REP,Monica Wehby,197
+Columbia,0032 Scappoose 2,U.S. Senate,,REP,Monica Wehby,200
+Columbia,0033 Scappoose 3,U.S. Senate,,REP,Monica Wehby,353
+Columbia,0034 Scappoose 4,U.S. Senate,,REP,Monica Wehby,286
+Columbia,0035 South Scappoose,U.S. Senate,,REP,Monica Wehby,197
+Columbia,0036 Canyon,U.S. Senate,,REP,Monica Wehby,120
+Columbia,0037 East Scappoose,U.S. Senate,,REP,Monica Wehby,94
+Columbia,0038 West Scappoose,U.S. Senate,,REP,Monica Wehby,127
+Columbia,0039 Sauvie Island,U.S. Senate,,REP,Monica Wehby,15
+Columbia,0040 Yankton,U.S. Senate,,REP,Monica Wehby,290
+Columbia,0041 Vernonia 1,U.S. Senate,,REP,Monica Wehby,123
+Columbia,0042 Vernonia 2,U.S. Senate,,REP,Monica Wehby,102
+Columbia,0043 Vernonia 3,U.S. Senate,,REP,Monica Wehby,131
+Columbia,0044 Vernonia 4,U.S. Senate,,REP,Monica Wehby,67
+Columbia,0045 Vernonia,U.S. Senate,,REP,Monica Wehby,201
+Columbia,0046 Apiary,U.S. Senate,,REP,Monica Wehby,168
+Columbia,0047 Chapman,U.S. Senate,,REP,Monica Wehby,155
+Columbia,0048 South Deer Island,U.S. Senate,,REP,Monica Wehby,129
+Columbia,0049 North Deer Island,U.S. Senate,,REP,Monica Wehby,143
+Columbia,0050 Prescott,U.S. Senate,,REP,Monica Wehby,10
+Columbia,0051 South Mist,U.S. Senate,,REP,Monica Wehby,58
+Columbia,0052 North Mist,U.S. Senate,,REP,Monica Wehby,23
+Columbia,0053 Columbia City,U.S. Senate,,REP,Monica Wehby,372
+Columbia,0055 East Chapman,U.S. Senate,,REP,Monica Wehby,74
+Columbia,0001 Clatskanie 1,U.S. Senate,,,Write-ins,0
+Columbia,0002 Clatskanie 2,U.S. Senate,,,Write-ins,1
+Columbia,0003 Clatskanie 3,U.S. Senate,,,Write-ins,0
+Columbia,0004 North Clatskanie,U.S. Senate,,,Write-ins,0
+Columbia,0005 South Clatskanie,U.S. Senate,,,Write-ins,3
+Columbia,0006 South Delena 1,U.S. Senate,,,Write-ins,0
+Columbia,0007 North Delena 2,U.S. Senate,,,Write-ins,1
+Columbia,0008 Goble,U.S. Senate,,,Write-ins,3
+Columbia,0009 Marshland,U.S. Senate,,,Write-ins,0
+Columbia,0010 South Milton,U.S. Senate,,,Write-ins,1
+Columbia,0011 North Milton,U.S. Senate,,,Write-ins,1
+Columbia,0012 South McNulty,U.S. Senate,,,Write-ins,1
+Columbia,0013 North McNulty,U.S. Senate,,,Write-ins,3
+Columbia,0014 Quincy,U.S. Senate,,,Write-ins,1
+Columbia,0015 Rainier 1,U.S. Senate,,,Write-ins,1
+Columbia,0016 Rainier 2,U.S. Senate,,,Write-ins,0
+Columbia,0017 West Rainier,U.S. Senate,,,Write-ins,2
+Columbia,0018 East Rainier,U.S. Senate,,,Write-ins,0
+Columbia,0019 South Warren,U.S. Senate,,,Write-ins,2
+Columbia,0020 North Warren,U.S. Senate,,,Write-ins,1
+Columbia,0021 St. Helens 1,U.S. Senate,,,Write-ins,1
+Columbia,0022 St. Helens 2,U.S. Senate,,,Write-ins,0
+Columbia,0023 St. Helens 3,U.S. Senate,,,Write-ins,0
+Columbia,0024 St. Helens 4,U.S. Senate,,,Write-ins,6
+Columbia,0025 St. Helens 5,U.S. Senate,,,Write-ins,1
+Columbia,0026 St. Helens 6,U.S. Senate,,,Write-ins,5
+Columbia,0027 St. Helens 7,U.S. Senate,,,Write-ins,0
+Columbia,0028 St. Helens 8,U.S. Senate,,,Write-ins,0
+Columbia,0029 St. Helens 9,U.S. Senate,,,Write-ins,1
+Columbia,0030 South St. Helens,U.S. Senate,,,Write-ins,4
+Columbia,0031 Scappoose 1,U.S. Senate,,,Write-ins,0
+Columbia,0032 Scappoose 2,U.S. Senate,,,Write-ins,0
+Columbia,0033 Scappoose 3,U.S. Senate,,,Write-ins,3
+Columbia,0034 Scappoose 4,U.S. Senate,,,Write-ins,0
+Columbia,0035 South Scappoose,U.S. Senate,,,Write-ins,0
+Columbia,0036 Canyon,U.S. Senate,,,Write-ins,1
+Columbia,0037 East Scappoose,U.S. Senate,,,Write-ins,0
+Columbia,0038 West Scappoose,U.S. Senate,,,Write-ins,2
+Columbia,0039 Sauvie Island,U.S. Senate,,,Write-ins,0
+Columbia,0040 Yankton,U.S. Senate,,,Write-ins,3
+Columbia,0041 Vernonia 1,U.S. Senate,,,Write-ins,1
+Columbia,0042 Vernonia 2,U.S. Senate,,,Write-ins,0
+Columbia,0043 Vernonia 3,U.S. Senate,,,Write-ins,3
+Columbia,0044 Vernonia 4,U.S. Senate,,,Write-ins,0
+Columbia,0045 Vernonia,U.S. Senate,,,Write-ins,3
+Columbia,0046 Apiary,U.S. Senate,,,Write-ins,0
+Columbia,0047 Chapman,U.S. Senate,,,Write-ins,0
+Columbia,0048 South Deer Island,U.S. Senate,,,Write-ins,3
+Columbia,0049 North Deer Island,U.S. Senate,,,Write-ins,1
+Columbia,0050 Prescott,U.S. Senate,,,Write-ins,0
+Columbia,0051 South Mist,U.S. Senate,,,Write-ins,0
+Columbia,0052 North Mist,U.S. Senate,,,Write-ins,0
+Columbia,0053 Columbia City,U.S. Senate,,,Write-ins,0
+Columbia,0055 East Chapman,U.S. Senate,,,Write-ins,1
+Columbia,0001 Clatskanie 1,U.S. House,1,PAC,Steven Reynolds,5
+Columbia,0002 Clatskanie 2,U.S. House,1,PAC,Steven Reynolds,13
+Columbia,0003 Clatskanie 3,U.S. House,1,PAC,Steven Reynolds,9
+Columbia,0004 North Clatskanie,U.S. House,1,PAC,Steven Reynolds,13
+Columbia,0005 South Clatskanie,U.S. House,1,PAC,Steven Reynolds,7
+Columbia,0006 South Delena 1,U.S. House,1,PAC,Steven Reynolds,10
+Columbia,0007 North Delena 2,U.S. House,1,PAC,Steven Reynolds,12
+Columbia,0008 Goble,U.S. House,1,PAC,Steven Reynolds,28
+Columbia,0009 Marshland,U.S. House,1,PAC,Steven Reynolds,5
+Columbia,0010 South Milton,U.S. House,1,PAC,Steven Reynolds,6
+Columbia,0011 North Milton,U.S. House,1,PAC,Steven Reynolds,13
+Columbia,0012 South McNulty,U.S. House,1,PAC,Steven Reynolds,12
+Columbia,0013 North McNulty,U.S. House,1,PAC,Steven Reynolds,20
+Columbia,0014 Quincy,U.S. House,1,PAC,Steven Reynolds,5
+Columbia,0015 Rainier 1,U.S. House,1,PAC,Steven Reynolds,10
+Columbia,0016 Rainier 2,U.S. House,1,PAC,Steven Reynolds,11
+Columbia,0017 West Rainier,U.S. House,1,PAC,Steven Reynolds,13
+Columbia,0018 East Rainier,U.S. House,1,PAC,Steven Reynolds,3
+Columbia,0019 South Warren,U.S. House,1,PAC,Steven Reynolds,20
+Columbia,0020 North Warren,U.S. House,1,PAC,Steven Reynolds,16
+Columbia,0021 St. Helens 1,U.S. House,1,PAC,Steven Reynolds,15
+Columbia,0022 St. Helens 2,U.S. House,1,PAC,Steven Reynolds,14
+Columbia,0023 St. Helens 3,U.S. House,1,PAC,Steven Reynolds,35
+Columbia,0024 St. Helens 4,U.S. House,1,PAC,Steven Reynolds,18
+Columbia,0025 St. Helens 5,U.S. House,1,PAC,Steven Reynolds,18
+Columbia,0026 St. Helens 6,U.S. House,1,PAC,Steven Reynolds,38
+Columbia,0027 St. Helens 7,U.S. House,1,PAC,Steven Reynolds,18
+Columbia,0028 St. Helens 8,U.S. House,1,PAC,Steven Reynolds,15
+Columbia,0029 St. Helens 9,U.S. House,1,PAC,Steven Reynolds,14
+Columbia,0030 South St. Helens,U.S. House,1,PAC,Steven Reynolds,8
+Columbia,0031 Scappoose 1,U.S. House,1,PAC,Steven Reynolds,11
+Columbia,0032 Scappoose 2,U.S. House,1,PAC,Steven Reynolds,30
+Columbia,0033 Scappoose 3,U.S. House,1,PAC,Steven Reynolds,39
+Columbia,0034 Scappoose 4,U.S. House,1,PAC,Steven Reynolds,23
+Columbia,0035 South Scappoose,U.S. House,1,PAC,Steven Reynolds,10
+Columbia,0036 Canyon,U.S. House,1,PAC,Steven Reynolds,7
+Columbia,0037 East Scappoose,U.S. House,1,PAC,Steven Reynolds,21
+Columbia,0038 West Scappoose,U.S. House,1,PAC,Steven Reynolds,9
+Columbia,0039 Sauvie Island,U.S. House,1,PAC,Steven Reynolds,2
+Columbia,0040 Yankton,U.S. House,1,PAC,Steven Reynolds,33
+Columbia,0041 Vernonia 1,U.S. House,1,PAC,Steven Reynolds,6
+Columbia,0042 Vernonia 2,U.S. House,1,PAC,Steven Reynolds,8
+Columbia,0043 Vernonia 3,U.S. House,1,PAC,Steven Reynolds,13
+Columbia,0044 Vernonia 4,U.S. House,1,PAC,Steven Reynolds,8
+Columbia,0045 Vernonia,U.S. House,1,PAC,Steven Reynolds,19
+Columbia,0046 Apiary,U.S. House,1,PAC,Steven Reynolds,14
+Columbia,0047 Chapman,U.S. House,1,PAC,Steven Reynolds,17
+Columbia,0048 South Deer Island,U.S. House,1,PAC,Steven Reynolds,18
+Columbia,0049 North Deer Island,U.S. House,1,PAC,Steven Reynolds,17
+Columbia,0050 Prescott,U.S. House,1,PAC,Steven Reynolds,0
+Columbia,0051 South Mist,U.S. House,1,PAC,Steven Reynolds,10
+Columbia,0052 North Mist,U.S. House,1,PAC,Steven Reynolds,2
+Columbia,0053 Columbia City,U.S. House,1,PAC,Steven Reynolds,18
+Columbia,0055 East Chapman,U.S. House,1,PAC,Steven Reynolds,3
+Columbia,0001 Clatskanie 1,U.S. House,1,REP,Jason Yates,64
+Columbia,0002 Clatskanie 2,U.S. House,1,REP,Jason Yates,105
+Columbia,0003 Clatskanie 3,U.S. House,1,REP,Jason Yates,71
+Columbia,0004 North Clatskanie,U.S. House,1,REP,Jason Yates,105
+Columbia,0005 South Clatskanie,U.S. House,1,REP,Jason Yates,140
+Columbia,0006 South Delena 1,U.S. House,1,REP,Jason Yates,136
+Columbia,0007 North Delena 2,U.S. House,1,REP,Jason Yates,150
+Columbia,0008 Goble,U.S. House,1,REP,Jason Yates,204
+Columbia,0009 Marshland,U.S. House,1,REP,Jason Yates,59
+Columbia,0010 South Milton,U.S. House,1,REP,Jason Yates,81
+Columbia,0011 North Milton,U.S. House,1,REP,Jason Yates,76
+Columbia,0012 South McNulty,U.S. House,1,REP,Jason Yates,114
+Columbia,0013 North McNulty,U.S. House,1,REP,Jason Yates,134
+Columbia,0014 Quincy,U.S. House,1,REP,Jason Yates,122
+Columbia,0015 Rainier 1,U.S. House,1,REP,Jason Yates,67
+Columbia,0016 Rainier 2,U.S. House,1,REP,Jason Yates,173
+Columbia,0017 West Rainier,U.S. House,1,REP,Jason Yates,90
+Columbia,0018 East Rainier,U.S. House,1,REP,Jason Yates,42
+Columbia,0019 South Warren,U.S. House,1,REP,Jason Yates,282
+Columbia,0020 North Warren,U.S. House,1,REP,Jason Yates,232
+Columbia,0021 St. Helens 1,U.S. House,1,REP,Jason Yates,91
+Columbia,0022 St. Helens 2,U.S. House,1,REP,Jason Yates,73
+Columbia,0023 St. Helens 3,U.S. House,1,REP,Jason Yates,153
+Columbia,0024 St. Helens 4,U.S. House,1,REP,Jason Yates,105
+Columbia,0025 St. Helens 5,U.S. House,1,REP,Jason Yates,80
+Columbia,0026 St. Helens 6,U.S. House,1,REP,Jason Yates,561
+Columbia,0027 St. Helens 7,U.S. House,1,REP,Jason Yates,106
+Columbia,0028 St. Helens 8,U.S. House,1,REP,Jason Yates,125
+Columbia,0029 St. Helens 9,U.S. House,1,REP,Jason Yates,149
+Columbia,0030 South St. Helens,U.S. House,1,REP,Jason Yates,47
+Columbia,0031 Scappoose 1,U.S. House,1,REP,Jason Yates,176
+Columbia,0032 Scappoose 2,U.S. House,1,REP,Jason Yates,168
+Columbia,0033 Scappoose 3,U.S. House,1,REP,Jason Yates,326
+Columbia,0034 Scappoose 4,U.S. House,1,REP,Jason Yates,261
+Columbia,0035 South Scappoose,U.S. House,1,REP,Jason Yates,185
+Columbia,0036 Canyon,U.S. House,1,REP,Jason Yates,120
+Columbia,0037 East Scappoose,U.S. House,1,REP,Jason Yates,85
+Columbia,0038 West Scappoose,U.S. House,1,REP,Jason Yates,134
+Columbia,0039 Sauvie Island,U.S. House,1,REP,Jason Yates,13
+Columbia,0040 Yankton,U.S. House,1,REP,Jason Yates,296
+Columbia,0041 Vernonia 1,U.S. House,1,REP,Jason Yates,115
+Columbia,0042 Vernonia 2,U.S. House,1,REP,Jason Yates,96
+Columbia,0043 Vernonia 3,U.S. House,1,REP,Jason Yates,134
+Columbia,0044 Vernonia 4,U.S. House,1,REP,Jason Yates,65
+Columbia,0045 Vernonia,U.S. House,1,REP,Jason Yates,198
+Columbia,0046 Apiary,U.S. House,1,REP,Jason Yates,174
+Columbia,0047 Chapman,U.S. House,1,REP,Jason Yates,156
+Columbia,0048 South Deer Island,U.S. House,1,REP,Jason Yates,105
+Columbia,0049 North Deer Island,U.S. House,1,REP,Jason Yates,151
+Columbia,0050 Prescott,U.S. House,1,REP,Jason Yates,10
+Columbia,0051 South Mist,U.S. House,1,REP,Jason Yates,55
+Columbia,0052 North Mist,U.S. House,1,REP,Jason Yates,23
+Columbia,0053 Columbia City,U.S. House,1,REP,Jason Yates,340
+Columbia,0055 East Chapman,U.S. House,1,REP,Jason Yates,57
+Columbia,0001 Clatskanie 1,U.S. House,1,DEM,Suzanne Bonamici,84
+Columbia,0002 Clatskanie 2,U.S. House,1,DEM,Suzanne Bonamici,119
+Columbia,0003 Clatskanie 3,U.S. House,1,DEM,Suzanne Bonamici,77
+Columbia,0004 North Clatskanie,U.S. House,1,DEM,Suzanne Bonamici,123
+Columbia,0005 South Clatskanie,U.S. House,1,DEM,Suzanne Bonamici,198
+Columbia,0006 South Delena 1,U.S. House,1,DEM,Suzanne Bonamici,159
+Columbia,0007 North Delena 2,U.S. House,1,DEM,Suzanne Bonamici,246
+Columbia,0008 Goble,U.S. House,1,DEM,Suzanne Bonamici,237
+Columbia,0009 Marshland,U.S. House,1,DEM,Suzanne Bonamici,97
+Columbia,0010 South Milton,U.S. House,1,DEM,Suzanne Bonamici,119
+Columbia,0011 North Milton,U.S. House,1,DEM,Suzanne Bonamici,143
+Columbia,0012 South McNulty,U.S. House,1,DEM,Suzanne Bonamici,190
+Columbia,0013 North McNulty,U.S. House,1,DEM,Suzanne Bonamici,207
+Columbia,0014 Quincy,U.S. House,1,DEM,Suzanne Bonamici,174
+Columbia,0015 Rainier 1,U.S. House,1,DEM,Suzanne Bonamici,110
+Columbia,0016 Rainier 2,U.S. House,1,DEM,Suzanne Bonamici,232
+Columbia,0017 West Rainier,U.S. House,1,DEM,Suzanne Bonamici,125
+Columbia,0018 East Rainier,U.S. House,1,DEM,Suzanne Bonamici,69
+Columbia,0019 South Warren,U.S. House,1,DEM,Suzanne Bonamici,351
+Columbia,0020 North Warren,U.S. House,1,DEM,Suzanne Bonamici,233
+Columbia,0021 St. Helens 1,U.S. House,1,DEM,Suzanne Bonamici,176
+Columbia,0022 St. Helens 2,U.S. House,1,DEM,Suzanne Bonamici,180
+Columbia,0023 St. Helens 3,U.S. House,1,DEM,Suzanne Bonamici,280
+Columbia,0024 St. Helens 4,U.S. House,1,DEM,Suzanne Bonamici,189
+Columbia,0025 St. Helens 5,U.S. House,1,DEM,Suzanne Bonamici,162
+Columbia,0026 St. Helens 6,U.S. House,1,DEM,Suzanne Bonamici,716
+Columbia,0027 St. Helens 7,U.S. House,1,DEM,Suzanne Bonamici,171
+Columbia,0028 St. Helens 8,U.S. House,1,DEM,Suzanne Bonamici,184
+Columbia,0029 St. Helens 9,U.S. House,1,DEM,Suzanne Bonamici,215
+Columbia,0030 South St. Helens,U.S. House,1,DEM,Suzanne Bonamici,95
+Columbia,0031 Scappoose 1,U.S. House,1,DEM,Suzanne Bonamici,235
+Columbia,0032 Scappoose 2,U.S. House,1,DEM,Suzanne Bonamici,279
+Columbia,0033 Scappoose 3,U.S. House,1,DEM,Suzanne Bonamici,491
+Columbia,0034 Scappoose 4,U.S. House,1,DEM,Suzanne Bonamici,389
+Columbia,0035 South Scappoose,U.S. House,1,DEM,Suzanne Bonamici,248
+Columbia,0036 Canyon,U.S. House,1,DEM,Suzanne Bonamici,189
+Columbia,0037 East Scappoose,U.S. House,1,DEM,Suzanne Bonamici,167
+Columbia,0038 West Scappoose,U.S. House,1,DEM,Suzanne Bonamici,184
+Columbia,0039 Sauvie Island,U.S. House,1,DEM,Suzanne Bonamici,12
+Columbia,0040 Yankton,U.S. House,1,DEM,Suzanne Bonamici,342
+Columbia,0041 Vernonia 1,U.S. House,1,DEM,Suzanne Bonamici,128
+Columbia,0042 Vernonia 2,U.S. House,1,DEM,Suzanne Bonamici,84
+Columbia,0043 Vernonia 3,U.S. House,1,DEM,Suzanne Bonamici,137
+Columbia,0044 Vernonia 4,U.S. House,1,DEM,Suzanne Bonamici,60
+Columbia,0045 Vernonia,U.S. House,1,DEM,Suzanne Bonamici,166
+Columbia,0046 Apiary,U.S. House,1,DEM,Suzanne Bonamici,202
+Columbia,0047 Chapman,U.S. House,1,DEM,Suzanne Bonamici,233
+Columbia,0048 South Deer Island,U.S. House,1,DEM,Suzanne Bonamici,103
+Columbia,0049 North Deer Island,U.S. House,1,DEM,Suzanne Bonamici,177
+Columbia,0050 Prescott,U.S. House,1,DEM,Suzanne Bonamici,22
+Columbia,0051 South Mist,U.S. House,1,DEM,Suzanne Bonamici,72
+Columbia,0052 North Mist,U.S. House,1,DEM,Suzanne Bonamici,19
+Columbia,0053 Columbia City,U.S. House,1,DEM,Suzanne Bonamici,554
+Columbia,0055 East Chapman,U.S. House,1,DEM,Suzanne Bonamici,108
+Columbia,0001 Clatskanie 1,U.S. House,1,LBT,James Foster,7
+Columbia,0002 Clatskanie 2,U.S. House,1,LBT,James Foster,5
+Columbia,0003 Clatskanie 3,U.S. House,1,LBT,James Foster,9
+Columbia,0004 North Clatskanie,U.S. House,1,LBT,James Foster,18
+Columbia,0005 South Clatskanie,U.S. House,1,LBT,James Foster,24
+Columbia,0006 South Delena 1,U.S. House,1,LBT,James Foster,14
+Columbia,0007 North Delena 2,U.S. House,1,LBT,James Foster,20
+Columbia,0008 Goble,U.S. House,1,LBT,James Foster,32
+Columbia,0009 Marshland,U.S. House,1,LBT,James Foster,5
+Columbia,0010 South Milton,U.S. House,1,LBT,James Foster,7
+Columbia,0011 North Milton,U.S. House,1,LBT,James Foster,17
+Columbia,0012 South McNulty,U.S. House,1,LBT,James Foster,13
+Columbia,0013 North McNulty,U.S. House,1,LBT,James Foster,23
+Columbia,0014 Quincy,U.S. House,1,LBT,James Foster,14
+Columbia,0015 Rainier 1,U.S. House,1,LBT,James Foster,13
+Columbia,0016 Rainier 2,U.S. House,1,LBT,James Foster,25
+Columbia,0017 West Rainier,U.S. House,1,LBT,James Foster,9
+Columbia,0018 East Rainier,U.S. House,1,LBT,James Foster,5
+Columbia,0019 South Warren,U.S. House,1,LBT,James Foster,26
+Columbia,0020 North Warren,U.S. House,1,LBT,James Foster,27
+Columbia,0021 St. Helens 1,U.S. House,1,LBT,James Foster,17
+Columbia,0022 St. Helens 2,U.S. House,1,LBT,James Foster,16
+Columbia,0023 St. Helens 3,U.S. House,1,LBT,James Foster,29
+Columbia,0024 St. Helens 4,U.S. House,1,LBT,James Foster,9
+Columbia,0025 St. Helens 5,U.S. House,1,LBT,James Foster,14
+Columbia,0026 St. Helens 6,U.S. House,1,LBT,James Foster,74
+Columbia,0027 St. Helens 7,U.S. House,1,LBT,James Foster,13
+Columbia,0028 St. Helens 8,U.S. House,1,LBT,James Foster,24
+Columbia,0029 St. Helens 9,U.S. House,1,LBT,James Foster,19
+Columbia,0030 South St. Helens,U.S. House,1,LBT,James Foster,6
+Columbia,0031 Scappoose 1,U.S. House,1,LBT,James Foster,16
+Columbia,0032 Scappoose 2,U.S. House,1,LBT,James Foster,30
+Columbia,0033 Scappoose 3,U.S. House,1,LBT,James Foster,35
+Columbia,0034 Scappoose 4,U.S. House,1,LBT,James Foster,38
+Columbia,0035 South Scappoose,U.S. House,1,LBT,James Foster,34
+Columbia,0036 Canyon,U.S. House,1,LBT,James Foster,18
+Columbia,0037 East Scappoose,U.S. House,1,LBT,James Foster,10
+Columbia,0038 West Scappoose,U.S. House,1,LBT,James Foster,10
+Columbia,0039 Sauvie Island,U.S. House,1,LBT,James Foster,2
+Columbia,0040 Yankton,U.S. House,1,LBT,James Foster,22
+Columbia,0041 Vernonia 1,U.S. House,1,LBT,James Foster,13
+Columbia,0042 Vernonia 2,U.S. House,1,LBT,James Foster,3
+Columbia,0043 Vernonia 3,U.S. House,1,LBT,James Foster,9
+Columbia,0044 Vernonia 4,U.S. House,1,LBT,James Foster,7
+Columbia,0045 Vernonia,U.S. House,1,LBT,James Foster,17
+Columbia,0046 Apiary,U.S. House,1,LBT,James Foster,22
+Columbia,0047 Chapman,U.S. House,1,LBT,James Foster,24
+Columbia,0048 South Deer Island,U.S. House,1,LBT,James Foster,12
+Columbia,0049 North Deer Island,U.S. House,1,LBT,James Foster,16
+Columbia,0050 Prescott,U.S. House,1,LBT,James Foster,0
+Columbia,0051 South Mist,U.S. House,1,LBT,James Foster,4
+Columbia,0052 North Mist,U.S. House,1,LBT,James Foster,0
+Columbia,0053 Columbia City,U.S. House,1,LBT,James Foster,29
+Columbia,0055 East Chapman,U.S. House,1,LBT,James Foster,7
+Columbia,0001 Clatskanie 1,U.S. House,1,,Write-ins,0
+Columbia,0002 Clatskanie 2,U.S. House,1,,Write-ins,2
+Columbia,0003 Clatskanie 3,U.S. House,1,,Write-ins,0
+Columbia,0004 North Clatskanie,U.S. House,1,,Write-ins,0
+Columbia,0005 South Clatskanie,U.S. House,1,,Write-ins,0
+Columbia,0006 South Delena 1,U.S. House,1,,Write-ins,0
+Columbia,0007 North Delena 2,U.S. House,1,,Write-ins,2
+Columbia,0008 Goble,U.S. House,1,,Write-ins,1
+Columbia,0009 Marshland,U.S. House,1,,Write-ins,3
+Columbia,0010 South Milton,U.S. House,1,,Write-ins,0
+Columbia,0011 North Milton,U.S. House,1,,Write-ins,0
+Columbia,0012 South McNulty,U.S. House,1,,Write-ins,0
+Columbia,0013 North McNulty,U.S. House,1,,Write-ins,1
+Columbia,0014 Quincy,U.S. House,1,,Write-ins,0
+Columbia,0015 Rainier 1,U.S. House,1,,Write-ins,0
+Columbia,0016 Rainier 2,U.S. House,1,,Write-ins,0
+Columbia,0017 West Rainier,U.S. House,1,,Write-ins,1
+Columbia,0018 East Rainier,U.S. House,1,,Write-ins,0
+Columbia,0019 South Warren,U.S. House,1,,Write-ins,0
+Columbia,0020 North Warren,U.S. House,1,,Write-ins,0
+Columbia,0021 St. Helens 1,U.S. House,1,,Write-ins,1
+Columbia,0022 St. Helens 2,U.S. House,1,,Write-ins,0
+Columbia,0023 St. Helens 3,U.S. House,1,,Write-ins,0
+Columbia,0024 St. Helens 4,U.S. House,1,,Write-ins,1
+Columbia,0025 St. Helens 5,U.S. House,1,,Write-ins,1
+Columbia,0026 St. Helens 6,U.S. House,1,,Write-ins,4
+Columbia,0027 St. Helens 7,U.S. House,1,,Write-ins,0
+Columbia,0028 St. Helens 8,U.S. House,1,,Write-ins,2
+Columbia,0029 St. Helens 9,U.S. House,1,,Write-ins,1
+Columbia,0030 South St. Helens,U.S. House,1,,Write-ins,2
+Columbia,0031 Scappoose 1,U.S. House,1,,Write-ins,0
+Columbia,0032 Scappoose 2,U.S. House,1,,Write-ins,0
+Columbia,0033 Scappoose 3,U.S. House,1,,Write-ins,0
+Columbia,0034 Scappoose 4,U.S. House,1,,Write-ins,0
+Columbia,0035 South Scappoose,U.S. House,1,,Write-ins,0
+Columbia,0036 Canyon,U.S. House,1,,Write-ins,0
+Columbia,0037 East Scappoose,U.S. House,1,,Write-ins,0
+Columbia,0038 West Scappoose,U.S. House,1,,Write-ins,1
+Columbia,0039 Sauvie Island,U.S. House,1,,Write-ins,0
+Columbia,0040 Yankton,U.S. House,1,,Write-ins,0
+Columbia,0041 Vernonia 1,U.S. House,1,,Write-ins,0
+Columbia,0042 Vernonia 2,U.S. House,1,,Write-ins,0
+Columbia,0043 Vernonia 3,U.S. House,1,,Write-ins,2
+Columbia,0044 Vernonia 4,U.S. House,1,,Write-ins,0
+Columbia,0045 Vernonia,U.S. House,1,,Write-ins,0
+Columbia,0046 Apiary,U.S. House,1,,Write-ins,0
+Columbia,0047 Chapman,U.S. House,1,,Write-ins,2
+Columbia,0048 South Deer Island,U.S. House,1,,Write-ins,1
+Columbia,0049 North Deer Island,U.S. House,1,,Write-ins,0
+Columbia,0050 Prescott,U.S. House,1,,Write-ins,0
+Columbia,0051 South Mist,U.S. House,1,,Write-ins,0
+Columbia,0052 North Mist,U.S. House,1,,Write-ins,0
+Columbia,0053 Columbia City,U.S. House,1,,Write-ins,0
+Columbia,0055 East Chapman,U.S. House,1,,Write-ins,0
+Columbia,0001 Clatskanie 1,Governor,,REP,Dennis Richardson,93
+Columbia,0002 Clatskanie 2,Governor,,REP,Dennis Richardson,144
+Columbia,0003 Clatskanie 3,Governor,,REP,Dennis Richardson,96
+Columbia,0004 North Clatskanie,Governor,,REP,Dennis Richardson,155
+Columbia,0005 South Clatskanie,Governor,,REP,Dennis Richardson,189
+Columbia,0006 South Delena 1,Governor,,REP,Dennis Richardson,176
+Columbia,0007 North Delena 2,Governor,,REP,Dennis Richardson,201
+Columbia,0008 Goble,Governor,,REP,Dennis Richardson,283
+Columbia,0009 Marshland,Governor,,REP,Dennis Richardson,92
+Columbia,0010 South Milton,Governor,,REP,Dennis Richardson,120
+Columbia,0011 North Milton,Governor,,REP,Dennis Richardson,116
+Columbia,0012 South McNulty,Governor,,REP,Dennis Richardson,159
+Columbia,0013 North McNulty,Governor,,REP,Dennis Richardson,202
+Columbia,0014 Quincy,Governor,,REP,Dennis Richardson,180
+Columbia,0015 Rainier 1,Governor,,REP,Dennis Richardson,89
+Columbia,0016 Rainier 2,Governor,,REP,Dennis Richardson,218
+Columbia,0017 West Rainier,Governor,,REP,Dennis Richardson,112
+Columbia,0018 East Rainier,Governor,,REP,Dennis Richardson,54
+Columbia,0019 South Warren,Governor,,REP,Dennis Richardson,399
+Columbia,0020 North Warren,Governor,,REP,Dennis Richardson,287
+Columbia,0021 St. Helens 1,Governor,,REP,Dennis Richardson,116
+Columbia,0022 St. Helens 2,Governor,,REP,Dennis Richardson,102
+Columbia,0023 St. Helens 3,Governor,,REP,Dennis Richardson,201
+Columbia,0024 St. Helens 4,Governor,,REP,Dennis Richardson,150
+Columbia,0025 St. Helens 5,Governor,,REP,Dennis Richardson,115
+Columbia,0026 St. Helens 6,Governor,,REP,Dennis Richardson,740
+Columbia,0027 St. Helens 7,Governor,,REP,Dennis Richardson,152
+Columbia,0028 St. Helens 8,Governor,,REP,Dennis Richardson,158
+Columbia,0029 St. Helens 9,Governor,,REP,Dennis Richardson,191
+Columbia,0030 South St. Helens,Governor,,REP,Dennis Richardson,77
+Columbia,0031 Scappoose 1,Governor,,REP,Dennis Richardson,229
+Columbia,0032 Scappoose 2,Governor,,REP,Dennis Richardson,237
+Columbia,0033 Scappoose 3,Governor,,REP,Dennis Richardson,429
+Columbia,0034 Scappoose 4,Governor,,REP,Dennis Richardson,348
+Columbia,0035 South Scappoose,Governor,,REP,Dennis Richardson,258
+Columbia,0036 Canyon,Governor,,REP,Dennis Richardson,152
+Columbia,0037 East Scappoose,Governor,,REP,Dennis Richardson,132
+Columbia,0038 West Scappoose,Governor,,REP,Dennis Richardson,167
+Columbia,0039 Sauvie Island,Governor,,REP,Dennis Richardson,17
+Columbia,0040 Yankton,Governor,,REP,Dennis Richardson,365
+Columbia,0041 Vernonia 1,Governor,,REP,Dennis Richardson,152
+Columbia,0042 Vernonia 2,Governor,,REP,Dennis Richardson,122
+Columbia,0043 Vernonia 3,Governor,,REP,Dennis Richardson,160
+Columbia,0044 Vernonia 4,Governor,,REP,Dennis Richardson,83
+Columbia,0045 Vernonia,Governor,,REP,Dennis Richardson,256
+Columbia,0046 Apiary,Governor,,REP,Dennis Richardson,231
+Columbia,0047 Chapman,Governor,,REP,Dennis Richardson,197
+Columbia,0048 South Deer Island,Governor,,REP,Dennis Richardson,145
+Columbia,0049 North Deer Island,Governor,,REP,Dennis Richardson,197
+Columbia,0050 Prescott,Governor,,REP,Dennis Richardson,12
+Columbia,0051 South Mist,Governor,,REP,Dennis Richardson,69
+Columbia,0052 North Mist,Governor,,REP,Dennis Richardson,28
+Columbia,0053 Columbia City,Governor,,REP,Dennis Richardson,443
+Columbia,0055 East Chapman,Governor,,REP,Dennis Richardson,91
+Columbia,0001 Clatskanie 1,Governor,,PRO,Chris Henry,9
+Columbia,0002 Clatskanie 2,Governor,,PRO,Chris Henry,7
+Columbia,0003 Clatskanie 3,Governor,,PRO,Chris Henry,3
+Columbia,0004 North Clatskanie,Governor,,PRO,Chris Henry,4
+Columbia,0005 South Clatskanie,Governor,,PRO,Chris Henry,5
+Columbia,0006 South Delena 1,Governor,,PRO,Chris Henry,0
+Columbia,0007 North Delena 2,Governor,,PRO,Chris Henry,11
+Columbia,0008 Goble,Governor,,PRO,Chris Henry,5
+Columbia,0009 Marshland,Governor,,PRO,Chris Henry,0
+Columbia,0010 South Milton,Governor,,PRO,Chris Henry,7
+Columbia,0011 North Milton,Governor,,PRO,Chris Henry,3
+Columbia,0012 South McNulty,Governor,,PRO,Chris Henry,4
+Columbia,0013 North McNulty,Governor,,PRO,Chris Henry,3
+Columbia,0014 Quincy,Governor,,PRO,Chris Henry,4
+Columbia,0015 Rainier 1,Governor,,PRO,Chris Henry,0
+Columbia,0016 Rainier 2,Governor,,PRO,Chris Henry,2
+Columbia,0017 West Rainier,Governor,,PRO,Chris Henry,2
+Columbia,0018 East Rainier,Governor,,PRO,Chris Henry,3
+Columbia,0019 South Warren,Governor,,PRO,Chris Henry,3
+Columbia,0020 North Warren,Governor,,PRO,Chris Henry,2
+Columbia,0021 St. Helens 1,Governor,,PRO,Chris Henry,4
+Columbia,0022 St. Helens 2,Governor,,PRO,Chris Henry,3
+Columbia,0023 St. Helens 3,Governor,,PRO,Chris Henry,12
+Columbia,0024 St. Helens 4,Governor,,PRO,Chris Henry,2
+Columbia,0025 St. Helens 5,Governor,,PRO,Chris Henry,6
+Columbia,0026 St. Helens 6,Governor,,PRO,Chris Henry,23
+Columbia,0027 St. Helens 7,Governor,,PRO,Chris Henry,4
+Columbia,0028 St. Helens 8,Governor,,PRO,Chris Henry,7
+Columbia,0029 St. Helens 9,Governor,,PRO,Chris Henry,8
+Columbia,0030 South St. Helens,Governor,,PRO,Chris Henry,4
+Columbia,0031 Scappoose 1,Governor,,PRO,Chris Henry,2
+Columbia,0032 Scappoose 2,Governor,,PRO,Chris Henry,8
+Columbia,0033 Scappoose 3,Governor,,PRO,Chris Henry,12
+Columbia,0034 Scappoose 4,Governor,,PRO,Chris Henry,6
+Columbia,0035 South Scappoose,Governor,,PRO,Chris Henry,3
+Columbia,0036 Canyon,Governor,,PRO,Chris Henry,2
+Columbia,0037 East Scappoose,Governor,,PRO,Chris Henry,2
+Columbia,0038 West Scappoose,Governor,,PRO,Chris Henry,0
+Columbia,0039 Sauvie Island,Governor,,PRO,Chris Henry,0
+Columbia,0040 Yankton,Governor,,PRO,Chris Henry,7
+Columbia,0041 Vernonia 1,Governor,,PRO,Chris Henry,1
+Columbia,0042 Vernonia 2,Governor,,PRO,Chris Henry,0
+Columbia,0043 Vernonia 3,Governor,,PRO,Chris Henry,0
+Columbia,0044 Vernonia 4,Governor,,PRO,Chris Henry,1
+Columbia,0045 Vernonia,Governor,,PRO,Chris Henry,2
+Columbia,0046 Apiary,Governor,,PRO,Chris Henry,4
+Columbia,0047 Chapman,Governor,,PRO,Chris Henry,5
+Columbia,0048 South Deer Island,Governor,,PRO,Chris Henry,3
+Columbia,0049 North Deer Island,Governor,,PRO,Chris Henry,4
+Columbia,0050 Prescott,Governor,,PRO,Chris Henry,0
+Columbia,0051 South Mist,Governor,,PRO,Chris Henry,2
+Columbia,0052 North Mist,Governor,,PRO,Chris Henry,1
+Columbia,0053 Columbia City,Governor,,PRO,Chris Henry,10
+Columbia,0055 East Chapman,Governor,,PRO,Chris Henry,0
+Columbia,0001 Clatskanie 1,Governor,,CON,Aaron Auer,2
+Columbia,0002 Clatskanie 2,Governor,,CON,Aaron Auer,3
+Columbia,0003 Clatskanie 3,Governor,,CON,Aaron Auer,5
+Columbia,0004 North Clatskanie,Governor,,CON,Aaron Auer,0
+Columbia,0005 South Clatskanie,Governor,,CON,Aaron Auer,11
+Columbia,0006 South Delena 1,Governor,,CON,Aaron Auer,9
+Columbia,0007 North Delena 2,Governor,,CON,Aaron Auer,12
+Columbia,0008 Goble,Governor,,CON,Aaron Auer,5
+Columbia,0009 Marshland,Governor,,CON,Aaron Auer,1
+Columbia,0010 South Milton,Governor,,CON,Aaron Auer,2
+Columbia,0011 North Milton,Governor,,CON,Aaron Auer,6
+Columbia,0012 South McNulty,Governor,,CON,Aaron Auer,3
+Columbia,0013 North McNulty,Governor,,CON,Aaron Auer,3
+Columbia,0014 Quincy,Governor,,CON,Aaron Auer,4
+Columbia,0015 Rainier 1,Governor,,CON,Aaron Auer,6
+Columbia,0016 Rainier 2,Governor,,CON,Aaron Auer,9
+Columbia,0017 West Rainier,Governor,,CON,Aaron Auer,9
+Columbia,0018 East Rainier,Governor,,CON,Aaron Auer,5
+Columbia,0019 South Warren,Governor,,CON,Aaron Auer,6
+Columbia,0020 North Warren,Governor,,CON,Aaron Auer,5
+Columbia,0021 St. Helens 1,Governor,,CON,Aaron Auer,11
+Columbia,0022 St. Helens 2,Governor,,CON,Aaron Auer,7
+Columbia,0023 St. Helens 3,Governor,,CON,Aaron Auer,17
+Columbia,0024 St. Helens 4,Governor,,CON,Aaron Auer,13
+Columbia,0025 St. Helens 5,Governor,,CON,Aaron Auer,5
+Columbia,0026 St. Helens 6,Governor,,CON,Aaron Auer,28
+Columbia,0027 St. Helens 7,Governor,,CON,Aaron Auer,12
+Columbia,0028 St. Helens 8,Governor,,CON,Aaron Auer,7
+Columbia,0029 St. Helens 9,Governor,,CON,Aaron Auer,5
+Columbia,0030 South St. Helens,Governor,,CON,Aaron Auer,1
+Columbia,0031 Scappoose 1,Governor,,CON,Aaron Auer,4
+Columbia,0032 Scappoose 2,Governor,,CON,Aaron Auer,11
+Columbia,0033 Scappoose 3,Governor,,CON,Aaron Auer,17
+Columbia,0034 Scappoose 4,Governor,,CON,Aaron Auer,7
+Columbia,0035 South Scappoose,Governor,,CON,Aaron Auer,6
+Columbia,0036 Canyon,Governor,,CON,Aaron Auer,9
+Columbia,0037 East Scappoose,Governor,,CON,Aaron Auer,7
+Columbia,0038 West Scappoose,Governor,,CON,Aaron Auer,4
+Columbia,0039 Sauvie Island,Governor,,CON,Aaron Auer,0
+Columbia,0040 Yankton,Governor,,CON,Aaron Auer,12
+Columbia,0041 Vernonia 1,Governor,,CON,Aaron Auer,2
+Columbia,0042 Vernonia 2,Governor,,CON,Aaron Auer,0
+Columbia,0043 Vernonia 3,Governor,,CON,Aaron Auer,9
+Columbia,0044 Vernonia 4,Governor,,CON,Aaron Auer,4
+Columbia,0045 Vernonia,Governor,,CON,Aaron Auer,8
+Columbia,0046 Apiary,Governor,,CON,Aaron Auer,4
+Columbia,0047 Chapman,Governor,,CON,Aaron Auer,12
+Columbia,0048 South Deer Island,Governor,,CON,Aaron Auer,3
+Columbia,0049 North Deer Island,Governor,,CON,Aaron Auer,18
+Columbia,0050 Prescott,Governor,,CON,Aaron Auer,2
+Columbia,0051 South Mist,Governor,,CON,Aaron Auer,6
+Columbia,0052 North Mist,Governor,,CON,Aaron Auer,0
+Columbia,0053 Columbia City,Governor,,CON,Aaron Auer,13
+Columbia,0055 East Chapman,Governor,,CON,Aaron Auer,1
+Columbia,0001 Clatskanie 1,Governor,,DEM,John Kitzhaber,62
+Columbia,0002 Clatskanie 2,Governor,,DEM,John Kitzhaber,79
+Columbia,0003 Clatskanie 3,Governor,,DEM,John Kitzhaber,59
+Columbia,0004 North Clatskanie,Governor,,DEM,John Kitzhaber,90
+Columbia,0005 South Clatskanie,Governor,,DEM,John Kitzhaber,147
+Columbia,0006 South Delena 1,Governor,,DEM,John Kitzhaber,123
+Columbia,0007 North Delena 2,Governor,,DEM,John Kitzhaber,199
+Columbia,0008 Goble,Governor,,DEM,John Kitzhaber,192
+Columbia,0009 Marshland,Governor,,DEM,John Kitzhaber,68
+Columbia,0010 South Milton,Governor,,DEM,John Kitzhaber,85
+Columbia,0011 North Milton,Governor,,DEM,John Kitzhaber,114
+Columbia,0012 South McNulty,Governor,,DEM,John Kitzhaber,160
+Columbia,0013 North McNulty,Governor,,DEM,John Kitzhaber,173
+Columbia,0014 Quincy,Governor,,DEM,John Kitzhaber,119
+Columbia,0015 Rainier 1,Governor,,DEM,John Kitzhaber,104
+Columbia,0016 Rainier 2,Governor,,DEM,John Kitzhaber,199
+Columbia,0017 West Rainier,Governor,,DEM,John Kitzhaber,107
+Columbia,0018 East Rainier,Governor,,DEM,John Kitzhaber,54
+Columbia,0019 South Warren,Governor,,DEM,John Kitzhaber,270
+Columbia,0020 North Warren,Governor,,DEM,John Kitzhaber,201
+Columbia,0021 St. Helens 1,Governor,,DEM,John Kitzhaber,146
+Columbia,0022 St. Helens 2,Governor,,DEM,John Kitzhaber,161
+Columbia,0023 St. Helens 3,Governor,,DEM,John Kitzhaber,258
+Columbia,0024 St. Helens 4,Governor,,DEM,John Kitzhaber,146
+Columbia,0025 St. Helens 5,Governor,,DEM,John Kitzhaber,130
+Columbia,0026 St. Helens 6,Governor,,DEM,John Kitzhaber,566
+Columbia,0027 St. Helens 7,Governor,,DEM,John Kitzhaber,136
+Columbia,0028 St. Helens 8,Governor,,DEM,John Kitzhaber,169
+Columbia,0029 St. Helens 9,Governor,,DEM,John Kitzhaber,189
+Columbia,0030 South St. Helens,Governor,,DEM,John Kitzhaber,74
+Columbia,0031 Scappoose 1,Governor,,DEM,John Kitzhaber,197
+Columbia,0032 Scappoose 2,Governor,,DEM,John Kitzhaber,236
+Columbia,0033 Scappoose 3,Governor,,DEM,John Kitzhaber,422
+Columbia,0034 Scappoose 4,Governor,,DEM,John Kitzhaber,325
+Columbia,0035 South Scappoose,Governor,,DEM,John Kitzhaber,212
+Columbia,0036 Canyon,Governor,,DEM,John Kitzhaber,160
+Columbia,0037 East Scappoose,Governor,,DEM,John Kitzhaber,141
+Columbia,0038 West Scappoose,Governor,,DEM,John Kitzhaber,159
+Columbia,0039 Sauvie Island,Governor,,DEM,John Kitzhaber,12
+Columbia,0040 Yankton,Governor,,DEM,John Kitzhaber,290
+Columbia,0041 Vernonia 1,Governor,,DEM,John Kitzhaber,119
+Columbia,0042 Vernonia 2,Governor,,DEM,John Kitzhaber,79
+Columbia,0043 Vernonia 3,Governor,,DEM,John Kitzhaber,113
+Columbia,0044 Vernonia 4,Governor,,DEM,John Kitzhaber,52
+Columbia,0045 Vernonia,Governor,,DEM,John Kitzhaber,132
+Columbia,0046 Apiary,Governor,,DEM,John Kitzhaber,166
+Columbia,0047 Chapman,Governor,,DEM,John Kitzhaber,205
+Columbia,0048 South Deer Island,Governor,,DEM,John Kitzhaber,90
+Columbia,0049 North Deer Island,Governor,,DEM,John Kitzhaber,133
+Columbia,0050 Prescott,Governor,,DEM,John Kitzhaber,17
+Columbia,0051 South Mist,Governor,,DEM,John Kitzhaber,60
+Columbia,0052 North Mist,Governor,,DEM,John Kitzhaber,16
+Columbia,0053 Columbia City,Governor,,DEM,John Kitzhaber,475
+Columbia,0055 East Chapman,Governor,,DEM,John Kitzhaber,86
+Columbia,0001 Clatskanie 1,Governor,,LBT,Paul Grad,3
+Columbia,0002 Clatskanie 2,Governor,,LBT,Paul Grad,3
+Columbia,0003 Clatskanie 3,Governor,,LBT,Paul Grad,3
+Columbia,0004 North Clatskanie,Governor,,LBT,Paul Grad,8
+Columbia,0005 South Clatskanie,Governor,,LBT,Paul Grad,15
+Columbia,0006 South Delena 1,Governor,,LBT,Paul Grad,6
+Columbia,0007 North Delena 2,Governor,,LBT,Paul Grad,7
+Columbia,0008 Goble,Governor,,LBT,Paul Grad,14
+Columbia,0009 Marshland,Governor,,LBT,Paul Grad,3
+Columbia,0010 South Milton,Governor,,LBT,Paul Grad,2
+Columbia,0011 North Milton,Governor,,LBT,Paul Grad,8
+Columbia,0012 South McNulty,Governor,,LBT,Paul Grad,4
+Columbia,0013 North McNulty,Governor,,LBT,Paul Grad,7
+Columbia,0014 Quincy,Governor,,LBT,Paul Grad,5
+Columbia,0015 Rainier 1,Governor,,LBT,Paul Grad,4
+Columbia,0016 Rainier 2,Governor,,LBT,Paul Grad,12
+Columbia,0017 West Rainier,Governor,,LBT,Paul Grad,4
+Columbia,0018 East Rainier,Governor,,LBT,Paul Grad,3
+Columbia,0019 South Warren,Governor,,LBT,Paul Grad,10
+Columbia,0020 North Warren,Governor,,LBT,Paul Grad,14
+Columbia,0021 St. Helens 1,Governor,,LBT,Paul Grad,11
+Columbia,0022 St. Helens 2,Governor,,LBT,Paul Grad,10
+Columbia,0023 St. Helens 3,Governor,,LBT,Paul Grad,14
+Columbia,0024 St. Helens 4,Governor,,LBT,Paul Grad,9
+Columbia,0025 St. Helens 5,Governor,,LBT,Paul Grad,8
+Columbia,0026 St. Helens 6,Governor,,LBT,Paul Grad,25
+Columbia,0027 St. Helens 7,Governor,,LBT,Paul Grad,7
+Columbia,0028 St. Helens 8,Governor,,LBT,Paul Grad,12
+Columbia,0029 St. Helens 9,Governor,,LBT,Paul Grad,5
+Columbia,0030 South St. Helens,Governor,,LBT,Paul Grad,1
+Columbia,0031 Scappoose 1,Governor,,LBT,Paul Grad,8
+Columbia,0032 Scappoose 2,Governor,,LBT,Paul Grad,8
+Columbia,0033 Scappoose 3,Governor,,LBT,Paul Grad,15
+Columbia,0034 Scappoose 4,Governor,,LBT,Paul Grad,15
+Columbia,0035 South Scappoose,Governor,,LBT,Paul Grad,11
+Columbia,0036 Canyon,Governor,,LBT,Paul Grad,7
+Columbia,0037 East Scappoose,Governor,,LBT,Paul Grad,3
+Columbia,0038 West Scappoose,Governor,,LBT,Paul Grad,7
+Columbia,0039 Sauvie Island,Governor,,LBT,Paul Grad,0
+Columbia,0040 Yankton,Governor,,LBT,Paul Grad,10
+Columbia,0041 Vernonia 1,Governor,,LBT,Paul Grad,2
+Columbia,0042 Vernonia 2,Governor,,LBT,Paul Grad,2
+Columbia,0043 Vernonia 3,Governor,,LBT,Paul Grad,4
+Columbia,0044 Vernonia 4,Governor,,LBT,Paul Grad,5
+Columbia,0045 Vernonia,Governor,,LBT,Paul Grad,6
+Columbia,0046 Apiary,Governor,,LBT,Paul Grad,10
+Columbia,0047 Chapman,Governor,,LBT,Paul Grad,9
+Columbia,0048 South Deer Island,Governor,,LBT,Paul Grad,7
+Columbia,0049 North Deer Island,Governor,,LBT,Paul Grad,11
+Columbia,0050 Prescott,Governor,,LBT,Paul Grad,0
+Columbia,0051 South Mist,Governor,,LBT,Paul Grad,2
+Columbia,0052 North Mist,Governor,,LBT,Paul Grad,0
+Columbia,0053 Columbia City,Governor,,LBT,Paul Grad,18
+Columbia,0055 East Chapman,Governor,,LBT,Paul Grad,1
+Columbia,0001 Clatskanie 1,Governor,,PAC,Jason Levin,1
+Columbia,0002 Clatskanie 2,Governor,,PAC,Jason Levin,9
+Columbia,0003 Clatskanie 3,Governor,,PAC,Jason Levin,5
+Columbia,0004 North Clatskanie,Governor,,PAC,Jason Levin,6
+Columbia,0005 South Clatskanie,Governor,,PAC,Jason Levin,3
+Columbia,0006 South Delena 1,Governor,,PAC,Jason Levin,5
+Columbia,0007 North Delena 2,Governor,,PAC,Jason Levin,5
+Columbia,0008 Goble,Governor,,PAC,Jason Levin,18
+Columbia,0009 Marshland,Governor,,PAC,Jason Levin,7
+Columbia,0010 South Milton,Governor,,PAC,Jason Levin,2
+Columbia,0011 North Milton,Governor,,PAC,Jason Levin,6
+Columbia,0012 South McNulty,Governor,,PAC,Jason Levin,6
+Columbia,0013 North McNulty,Governor,,PAC,Jason Levin,8
+Columbia,0014 Quincy,Governor,,PAC,Jason Levin,5
+Columbia,0015 Rainier 1,Governor,,PAC,Jason Levin,2
+Columbia,0016 Rainier 2,Governor,,PAC,Jason Levin,7
+Columbia,0017 West Rainier,Governor,,PAC,Jason Levin,5
+Columbia,0018 East Rainier,Governor,,PAC,Jason Levin,4
+Columbia,0019 South Warren,Governor,,PAC,Jason Levin,8
+Columbia,0020 North Warren,Governor,,PAC,Jason Levin,8
+Columbia,0021 St. Helens 1,Governor,,PAC,Jason Levin,11
+Columbia,0022 St. Helens 2,Governor,,PAC,Jason Levin,3
+Columbia,0023 St. Helens 3,Governor,,PAC,Jason Levin,11
+Columbia,0024 St. Helens 4,Governor,,PAC,Jason Levin,8
+Columbia,0025 St. Helens 5,Governor,,PAC,Jason Levin,10
+Columbia,0026 St. Helens 6,Governor,,PAC,Jason Levin,36
+Columbia,0027 St. Helens 7,Governor,,PAC,Jason Levin,12
+Columbia,0028 St. Helens 8,Governor,,PAC,Jason Levin,8
+Columbia,0029 St. Helens 9,Governor,,PAC,Jason Levin,12
+Columbia,0030 South St. Helens,Governor,,PAC,Jason Levin,2
+Columbia,0031 Scappoose 1,Governor,,PAC,Jason Levin,8
+Columbia,0032 Scappoose 2,Governor,,PAC,Jason Levin,15
+Columbia,0033 Scappoose 3,Governor,,PAC,Jason Levin,15
+Columbia,0034 Scappoose 4,Governor,,PAC,Jason Levin,12
+Columbia,0035 South Scappoose,Governor,,PAC,Jason Levin,5
+Columbia,0036 Canyon,Governor,,PAC,Jason Levin,1
+Columbia,0037 East Scappoose,Governor,,PAC,Jason Levin,8
+Columbia,0038 West Scappoose,Governor,,PAC,Jason Levin,8
+Columbia,0039 Sauvie Island,Governor,,PAC,Jason Levin,0
+Columbia,0040 Yankton,Governor,,PAC,Jason Levin,18
+Columbia,0041 Vernonia 1,Governor,,PAC,Jason Levin,3
+Columbia,0042 Vernonia 2,Governor,,PAC,Jason Levin,3
+Columbia,0043 Vernonia 3,Governor,,PAC,Jason Levin,4
+Columbia,0044 Vernonia 4,Governor,,PAC,Jason Levin,1
+Columbia,0045 Vernonia,Governor,,PAC,Jason Levin,7
+Columbia,0046 Apiary,Governor,,PAC,Jason Levin,6
+Columbia,0047 Chapman,Governor,,PAC,Jason Levin,8
+Columbia,0048 South Deer Island,Governor,,PAC,Jason Levin,7
+Columbia,0049 North Deer Island,Governor,,PAC,Jason Levin,8
+Columbia,0050 Prescott,Governor,,PAC,Jason Levin,1
+Columbia,0051 South Mist,Governor,,PAC,Jason Levin,2
+Columbia,0052 North Mist,Governor,,PAC,Jason Levin,0
+Columbia,0053 Columbia City,Governor,,PAC,Jason Levin,10
+Columbia,0055 East Chapman,Governor,,PAC,Jason Levin,3
+Columbia,0001 Clatskanie 1,Governor,,,Write-ins,0
+Columbia,0002 Clatskanie 2,Governor,,,Write-ins,0
+Columbia,0003 Clatskanie 3,Governor,,,Write-ins,0
+Columbia,0004 North Clatskanie,Governor,,,Write-ins,1
+Columbia,0005 South Clatskanie,Governor,,,Write-ins,0
+Columbia,0006 South Delena 1,Governor,,,Write-ins,4
+Columbia,0007 North Delena 2,Governor,,,Write-ins,2
+Columbia,0008 Goble,Governor,,,Write-ins,1
+Columbia,0009 Marshland,Governor,,,Write-ins,2
+Columbia,0010 South Milton,Governor,,,Write-ins,1
+Columbia,0011 North Milton,Governor,,,Write-ins,3
+Columbia,0012 South McNulty,Governor,,,Write-ins,4
+Columbia,0013 North McNulty,Governor,,,Write-ins,1
+Columbia,0014 Quincy,Governor,,,Write-ins,1
+Columbia,0015 Rainier 1,Governor,,,Write-ins,1
+Columbia,0016 Rainier 2,Governor,,,Write-ins,0
+Columbia,0017 West Rainier,Governor,,,Write-ins,3
+Columbia,0018 East Rainier,Governor,,,Write-ins,0
+Columbia,0019 South Warren,Governor,,,Write-ins,2
+Columbia,0020 North Warren,Governor,,,Write-ins,3
+Columbia,0021 St. Helens 1,Governor,,,Write-ins,4
+Columbia,0022 St. Helens 2,Governor,,,Write-ins,0
+Columbia,0023 St. Helens 3,Governor,,,Write-ins,3
+Columbia,0024 St. Helens 4,Governor,,,Write-ins,3
+Columbia,0025 St. Helens 5,Governor,,,Write-ins,1
+Columbia,0026 St. Helens 6,Governor,,,Write-ins,5
+Columbia,0027 St. Helens 7,Governor,,,Write-ins,0
+Columbia,0028 St. Helens 8,Governor,,,Write-ins,3
+Columbia,0029 St. Helens 9,Governor,,,Write-ins,1
+Columbia,0030 South St. Helens,Governor,,,Write-ins,0
+Columbia,0031 Scappoose 1,Governor,,,Write-ins,3
+Columbia,0032 Scappoose 2,Governor,,,Write-ins,2
+Columbia,0033 Scappoose 3,Governor,,,Write-ins,6
+Columbia,0034 Scappoose 4,Governor,,,Write-ins,2
+Columbia,0035 South Scappoose,Governor,,,Write-ins,0
+Columbia,0036 Canyon,Governor,,,Write-ins,2
+Columbia,0037 East Scappoose,Governor,,,Write-ins,2
+Columbia,0038 West Scappoose,Governor,,,Write-ins,1
+Columbia,0039 Sauvie Island,Governor,,,Write-ins,0
+Columbia,0040 Yankton,Governor,,,Write-ins,2
+Columbia,0041 Vernonia 1,Governor,,,Write-ins,1
+Columbia,0042 Vernonia 2,Governor,,,Write-ins,0
+Columbia,0043 Vernonia 3,Governor,,,Write-ins,5
+Columbia,0044 Vernonia 4,Governor,,,Write-ins,0
+Columbia,0045 Vernonia,Governor,,,Write-ins,3
+Columbia,0046 Apiary,Governor,,,Write-ins,3
+Columbia,0047 Chapman,Governor,,,Write-ins,3
+Columbia,0048 South Deer Island,Governor,,,Write-ins,1
+Columbia,0049 North Deer Island,Governor,,,Write-ins,1
+Columbia,0050 Prescott,Governor,,,Write-ins,0
+Columbia,0051 South Mist,Governor,,,Write-ins,0
+Columbia,0052 North Mist,Governor,,,Write-ins,0
+Columbia,0053 Columbia City,Governor,,,Write-ins,3
+Columbia,0055 East Chapman,Governor,,,Write-ins,2
+Columbia,0001 Clatskanie 1,State Senate,16,LBT,Perry Roll,4
+Columbia,0002 Clatskanie 2,State Senate,16,LBT,Perry Roll,7
+Columbia,0003 Clatskanie 3,State Senate,16,LBT,Perry Roll,6
+Columbia,0004 North Clatskanie,State Senate,16,LBT,Perry Roll,15
+Columbia,0005 South Clatskanie,State Senate,16,LBT,Perry Roll,18
+Columbia,0006 South Delena 1,State Senate,16,LBT,Perry Roll,12
+Columbia,0007 North Delena 2,State Senate,16,LBT,Perry Roll,10
+Columbia,0008 Goble,State Senate,16,LBT,Perry Roll,23
+Columbia,0009 Marshland,State Senate,16,LBT,Perry Roll,1
+Columbia,0010 South Milton,State Senate,16,LBT,Perry Roll,4
+Columbia,0011 North Milton,State Senate,16,LBT,Perry Roll,11
+Columbia,0012 South McNulty,State Senate,16,LBT,Perry Roll,12
+Columbia,0013 North McNulty,State Senate,16,LBT,Perry Roll,10
+Columbia,0014 Quincy,State Senate,16,LBT,Perry Roll,4
+Columbia,0015 Rainier 1,State Senate,16,LBT,Perry Roll,5
+Columbia,0016 Rainier 2,State Senate,16,LBT,Perry Roll,11
+Columbia,0017 West Rainier,State Senate,16,LBT,Perry Roll,7
+Columbia,0018 East Rainier,State Senate,16,LBT,Perry Roll,2
+Columbia,0019 South Warren,State Senate,16,LBT,Perry Roll,16
+Columbia,0020 North Warren,State Senate,16,LBT,Perry Roll,21
+Columbia,0021 St. Helens 1,State Senate,16,LBT,Perry Roll,11
+Columbia,0022 St. Helens 2,State Senate,16,LBT,Perry Roll,17
+Columbia,0023 St. Helens 3,State Senate,16,LBT,Perry Roll,14
+Columbia,0024 St. Helens 4,State Senate,16,LBT,Perry Roll,11
+Columbia,0025 St. Helens 5,State Senate,16,LBT,Perry Roll,15
+Columbia,0026 St. Helens 6,State Senate,16,LBT,Perry Roll,64
+Columbia,0027 St. Helens 7,State Senate,16,LBT,Perry Roll,14
+Columbia,0028 St. Helens 8,State Senate,16,LBT,Perry Roll,19
+Columbia,0029 St. Helens 9,State Senate,16,LBT,Perry Roll,10
+Columbia,0030 South St. Helens,State Senate,16,LBT,Perry Roll,3
+Columbia,0031 Scappoose 1,State Senate,16,LBT,Perry Roll,12
+Columbia,0032 Scappoose 2,State Senate,16,LBT,Perry Roll,16
+Columbia,0033 Scappoose 3,State Senate,16,LBT,Perry Roll,23
+Columbia,0034 Scappoose 4,State Senate,16,LBT,Perry Roll,25
+Columbia,0035 South Scappoose,State Senate,16,LBT,Perry Roll,22
+Columbia,0036 Canyon,State Senate,16,LBT,Perry Roll,15
+Columbia,0037 East Scappoose,State Senate,16,LBT,Perry Roll,4
+Columbia,0038 West Scappoose,State Senate,16,LBT,Perry Roll,13
+Columbia,0039 Sauvie Island,State Senate,16,LBT,Perry Roll,1
+Columbia,0040 Yankton,State Senate,16,LBT,Perry Roll,25
+Columbia,0041 Vernonia 1,State Senate,16,LBT,Perry Roll,11
+Columbia,0042 Vernonia 2,State Senate,16,LBT,Perry Roll,3
+Columbia,0043 Vernonia 3,State Senate,16,LBT,Perry Roll,9
+Columbia,0044 Vernonia 4,State Senate,16,LBT,Perry Roll,12
+Columbia,0045 Vernonia,State Senate,16,LBT,Perry Roll,15
+Columbia,0046 Apiary,State Senate,16,LBT,Perry Roll,24
+Columbia,0047 Chapman,State Senate,16,LBT,Perry Roll,22
+Columbia,0048 South Deer Island,State Senate,16,LBT,Perry Roll,10
+Columbia,0049 North Deer Island,State Senate,16,LBT,Perry Roll,12
+Columbia,0050 Prescott,State Senate,16,LBT,Perry Roll,0
+Columbia,0051 South Mist,State Senate,16,LBT,Perry Roll,8
+Columbia,0052 North Mist,State Senate,16,LBT,Perry Roll,2
+Columbia,0053 Columbia City,State Senate,16,LBT,Perry Roll,25
+Columbia,0055 East Chapman,State Senate,16,LBT,Perry Roll,11
+Columbia,0001 Clatskanie 1,State Senate,16,DEM,Betsy Johnson,108
+Columbia,0002 Clatskanie 2,State Senate,16,DEM,Betsy Johnson,183
+Columbia,0003 Clatskanie 3,State Senate,16,DEM,Betsy Johnson,119
+Columbia,0004 North Clatskanie,State Senate,16,DEM,Betsy Johnson,175
+Columbia,0005 South Clatskanie,State Senate,16,DEM,Betsy Johnson,254
+Columbia,0006 South Delena 1,State Senate,16,DEM,Betsy Johnson,196
+Columbia,0007 North Delena 2,State Senate,16,DEM,Betsy Johnson,293
+Columbia,0008 Goble,State Senate,16,DEM,Betsy Johnson,298
+Columbia,0009 Marshland,State Senate,16,DEM,Betsy Johnson,130
+Columbia,0010 South Milton,State Senate,16,DEM,Betsy Johnson,147
+Columbia,0011 North Milton,State Senate,16,DEM,Betsy Johnson,163
+Columbia,0012 South McNulty,State Senate,16,DEM,Betsy Johnson,224
+Columbia,0013 North McNulty,State Senate,16,DEM,Betsy Johnson,234
+Columbia,0014 Quincy,State Senate,16,DEM,Betsy Johnson,238
+Columbia,0015 Rainier 1,State Senate,16,DEM,Betsy Johnson,134
+Columbia,0016 Rainier 2,State Senate,16,DEM,Betsy Johnson,287
+Columbia,0017 West Rainier,State Senate,16,DEM,Betsy Johnson,158
+Columbia,0018 East Rainier,State Senate,16,DEM,Betsy Johnson,87
+Columbia,0019 South Warren,State Senate,16,DEM,Betsy Johnson,445
+Columbia,0020 North Warren,State Senate,16,DEM,Betsy Johnson,328
+Columbia,0021 St. Helens 1,State Senate,16,DEM,Betsy Johnson,180
+Columbia,0022 St. Helens 2,State Senate,16,DEM,Betsy Johnson,177
+Columbia,0023 St. Helens 3,State Senate,16,DEM,Betsy Johnson,295
+Columbia,0024 St. Helens 4,State Senate,16,DEM,Betsy Johnson,182
+Columbia,0025 St. Helens 5,State Senate,16,DEM,Betsy Johnson,180
+Columbia,0026 St. Helens 6,State Senate,16,DEM,Betsy Johnson,869
+Columbia,0027 St. Helens 7,State Senate,16,DEM,Betsy Johnson,184
+Columbia,0028 St. Helens 8,State Senate,16,DEM,Betsy Johnson,212
+Columbia,0029 St. Helens 9,State Senate,16,DEM,Betsy Johnson,249
+Columbia,0030 South St. Helens,State Senate,16,DEM,Betsy Johnson,97
+Columbia,0031 Scappoose 1,State Senate,16,DEM,Betsy Johnson,278
+Columbia,0032 Scappoose 2,State Senate,16,DEM,Betsy Johnson,291
+Columbia,0033 Scappoose 3,State Senate,16,DEM,Betsy Johnson,594
+Columbia,0034 Scappoose 4,State Senate,16,DEM,Betsy Johnson,472
+Columbia,0035 South Scappoose,State Senate,16,DEM,Betsy Johnson,292
+Columbia,0036 Canyon,State Senate,16,DEM,Betsy Johnson,204
+Columbia,0037 East Scappoose,State Senate,16,DEM,Betsy Johnson,161
+Columbia,0038 West Scappoose,State Senate,16,DEM,Betsy Johnson,218
+Columbia,0039 Sauvie Island,State Senate,16,DEM,Betsy Johnson,21
+Columbia,0040 Yankton,State Senate,16,DEM,Betsy Johnson,434
+Columbia,0041 Vernonia 1,State Senate,16,DEM,Betsy Johnson,199
+Columbia,0042 Vernonia 2,State Senate,16,DEM,Betsy Johnson,145
+Columbia,0043 Vernonia 3,State Senate,16,DEM,Betsy Johnson,201
+Columbia,0044 Vernonia 4,State Senate,16,DEM,Betsy Johnson,91
+Columbia,0045 Vernonia,State Senate,16,DEM,Betsy Johnson,257
+Columbia,0046 Apiary,State Senate,16,DEM,Betsy Johnson,266
+Columbia,0047 Chapman,State Senate,16,DEM,Betsy Johnson,289
+Columbia,0048 South Deer Island,State Senate,16,DEM,Betsy Johnson,137
+Columbia,0049 North Deer Island,State Senate,16,DEM,Betsy Johnson,213
+Columbia,0050 Prescott,State Senate,16,DEM,Betsy Johnson,21
+Columbia,0051 South Mist,State Senate,16,DEM,Betsy Johnson,85
+Columbia,0052 North Mist,State Senate,16,DEM,Betsy Johnson,29
+Columbia,0053 Columbia City,State Senate,16,DEM,Betsy Johnson,631
+Columbia,0055 East Chapman,State Senate,16,DEM,Betsy Johnson,103
+Columbia,0001 Clatskanie 1,State Senate,16,IND,Andrew Kaza,26
+Columbia,0002 Clatskanie 2,State Senate,16,IND,Andrew Kaza,25
+Columbia,0003 Clatskanie 3,State Senate,16,IND,Andrew Kaza,21
+Columbia,0004 North Clatskanie,State Senate,16,IND,Andrew Kaza,27
+Columbia,0005 South Clatskanie,State Senate,16,IND,Andrew Kaza,43
+Columbia,0006 South Delena 1,State Senate,16,IND,Andrew Kaza,38
+Columbia,0007 North Delena 2,State Senate,16,IND,Andrew Kaza,52
+Columbia,0008 Goble,State Senate,16,IND,Andrew Kaza,72
+Columbia,0009 Marshland,State Senate,16,IND,Andrew Kaza,14
+Columbia,0010 South Milton,State Senate,16,IND,Andrew Kaza,24
+Columbia,0011 North Milton,State Senate,16,IND,Andrew Kaza,27
+Columbia,0012 South McNulty,State Senate,16,IND,Andrew Kaza,30
+Columbia,0013 North McNulty,State Senate,16,IND,Andrew Kaza,60
+Columbia,0014 Quincy,State Senate,16,IND,Andrew Kaza,18
+Columbia,0015 Rainier 1,State Senate,16,IND,Andrew Kaza,33
+Columbia,0016 Rainier 2,State Senate,16,IND,Andrew Kaza,59
+Columbia,0017 West Rainier,State Senate,16,IND,Andrew Kaza,35
+Columbia,0018 East Rainier,State Senate,16,IND,Andrew Kaza,17
+Columbia,0019 South Warren,State Senate,16,IND,Andrew Kaza,90
+Columbia,0020 North Warren,State Senate,16,IND,Andrew Kaza,62
+Columbia,0021 St. Helens 1,State Senate,16,IND,Andrew Kaza,57
+Columbia,0022 St. Helens 2,State Senate,16,IND,Andrew Kaza,36
+Columbia,0023 St. Helens 3,State Senate,16,IND,Andrew Kaza,87
+Columbia,0024 St. Helens 4,State Senate,16,IND,Andrew Kaza,63
+Columbia,0025 St. Helens 5,State Senate,16,IND,Andrew Kaza,43
+Columbia,0026 St. Helens 6,State Senate,16,IND,Andrew Kaza,220
+Columbia,0027 St. Helens 7,State Senate,16,IND,Andrew Kaza,51
+Columbia,0028 St. Helens 8,State Senate,16,IND,Andrew Kaza,46
+Columbia,0029 St. Helens 9,State Senate,16,IND,Andrew Kaza,66
+Columbia,0030 South St. Helens,State Senate,16,IND,Andrew Kaza,33
+Columbia,0031 Scappoose 1,State Senate,16,IND,Andrew Kaza,45
+Columbia,0032 Scappoose 2,State Senate,16,IND,Andrew Kaza,84
+Columbia,0033 Scappoose 3,State Senate,16,IND,Andrew Kaza,120
+Columbia,0034 Scappoose 4,State Senate,16,IND,Andrew Kaza,84
+Columbia,0035 South Scappoose,State Senate,16,IND,Andrew Kaza,53
+Columbia,0036 Canyon,State Senate,16,IND,Andrew Kaza,34
+Columbia,0037 East Scappoose,State Senate,16,IND,Andrew Kaza,54
+Columbia,0038 West Scappoose,State Senate,16,IND,Andrew Kaza,33
+Columbia,0039 Sauvie Island,State Senate,16,IND,Andrew Kaza,4
+Columbia,0040 Yankton,State Senate,16,IND,Andrew Kaza,90
+Columbia,0041 Vernonia 1,State Senate,16,IND,Andrew Kaza,31
+Columbia,0042 Vernonia 2,State Senate,16,IND,Andrew Kaza,21
+Columbia,0043 Vernonia 3,State Senate,16,IND,Andrew Kaza,30
+Columbia,0044 Vernonia 4,State Senate,16,IND,Andrew Kaza,16
+Columbia,0045 Vernonia,State Senate,16,IND,Andrew Kaza,44
+Columbia,0046 Apiary,State Senate,16,IND,Andrew Kaza,55
+Columbia,0047 Chapman,State Senate,16,IND,Andrew Kaza,45
+Columbia,0048 South Deer Island,State Senate,16,IND,Andrew Kaza,41
+Columbia,0049 North Deer Island,State Senate,16,IND,Andrew Kaza,34
+Columbia,0050 Prescott,State Senate,16,IND,Andrew Kaza,3
+Columbia,0051 South Mist,State Senate,16,IND,Andrew Kaza,22
+Columbia,0052 North Mist,State Senate,16,IND,Andrew Kaza,8
+Columbia,0053 Columbia City,State Senate,16,IND,Andrew Kaza,135
+Columbia,0055 East Chapman,State Senate,16,IND,Andrew Kaza,21
+Columbia,0001 Clatskanie 1,State Senate,16,CON,Bob Ekstrom,27
+Columbia,0002 Clatskanie 2,State Senate,16,CON,Bob Ekstrom,30
+Columbia,0003 Clatskanie 3,State Senate,16,CON,Bob Ekstrom,22
+Columbia,0004 North Clatskanie,State Senate,16,CON,Bob Ekstrom,43
+Columbia,0005 South Clatskanie,State Senate,16,CON,Bob Ekstrom,51
+Columbia,0006 South Delena 1,State Senate,16,CON,Bob Ekstrom,58
+Columbia,0007 North Delena 2,State Senate,16,CON,Bob Ekstrom,69
+Columbia,0008 Goble,State Senate,16,CON,Bob Ekstrom,103
+Columbia,0009 Marshland,State Senate,16,CON,Bob Ekstrom,23
+Columbia,0010 South Milton,State Senate,16,CON,Bob Ekstrom,36
+Columbia,0011 North Milton,State Senate,16,CON,Bob Ekstrom,47
+Columbia,0012 South McNulty,State Senate,16,CON,Bob Ekstrom,50
+Columbia,0013 North McNulty,State Senate,16,CON,Bob Ekstrom,76
+Columbia,0014 Quincy,State Senate,16,CON,Bob Ekstrom,52
+Columbia,0015 Rainier 1,State Senate,16,CON,Bob Ekstrom,26
+Columbia,0016 Rainier 2,State Senate,16,CON,Bob Ekstrom,69
+Columbia,0017 West Rainier,State Senate,16,CON,Bob Ekstrom,30
+Columbia,0018 East Rainier,State Senate,16,CON,Bob Ekstrom,11
+Columbia,0019 South Warren,State Senate,16,CON,Bob Ekstrom,125
+Columbia,0020 North Warren,State Senate,16,CON,Bob Ekstrom,92
+Columbia,0021 St. Helens 1,State Senate,16,CON,Bob Ekstrom,50
+Columbia,0022 St. Helens 2,State Senate,16,CON,Bob Ekstrom,45
+Columbia,0023 St. Helens 3,State Senate,16,CON,Bob Ekstrom,103
+Columbia,0024 St. Helens 4,State Senate,16,CON,Bob Ekstrom,53
+Columbia,0025 St. Helens 5,State Senate,16,CON,Bob Ekstrom,35
+Columbia,0026 St. Helens 6,State Senate,16,CON,Bob Ekstrom,219
+Columbia,0027 St. Helens 7,State Senate,16,CON,Bob Ekstrom,53
+Columbia,0028 St. Helens 8,State Senate,16,CON,Bob Ekstrom,70
+Columbia,0029 St. Helens 9,State Senate,16,CON,Bob Ekstrom,67
+Columbia,0030 South St. Helens,State Senate,16,CON,Bob Ekstrom,26
+Columbia,0031 Scappoose 1,State Senate,16,CON,Bob Ekstrom,100
+Columbia,0032 Scappoose 2,State Senate,16,CON,Bob Ekstrom,105
+Columbia,0033 Scappoose 3,State Senate,16,CON,Bob Ekstrom,143
+Columbia,0034 Scappoose 4,State Senate,16,CON,Bob Ekstrom,124
+Columbia,0035 South Scappoose,State Senate,16,CON,Bob Ekstrom,95
+Columbia,0036 Canyon,State Senate,16,CON,Bob Ekstrom,72
+Columbia,0037 East Scappoose,State Senate,16,CON,Bob Ekstrom,61
+Columbia,0038 West Scappoose,State Senate,16,CON,Bob Ekstrom,71
+Columbia,0039 Sauvie Island,State Senate,16,CON,Bob Ekstrom,0
+Columbia,0040 Yankton,State Senate,16,CON,Bob Ekstrom,123
+Columbia,0041 Vernonia 1,State Senate,16,CON,Bob Ekstrom,30
+Columbia,0042 Vernonia 2,State Senate,16,CON,Bob Ekstrom,26
+Columbia,0043 Vernonia 3,State Senate,16,CON,Bob Ekstrom,48
+Columbia,0044 Vernonia 4,State Senate,16,CON,Bob Ekstrom,23
+Columbia,0045 Vernonia,State Senate,16,CON,Bob Ekstrom,70
+Columbia,0046 Apiary,State Senate,16,CON,Bob Ekstrom,53
+Columbia,0047 Chapman,State Senate,16,CON,Bob Ekstrom,72
+Columbia,0048 South Deer Island,State Senate,16,CON,Bob Ekstrom,50
+Columbia,0049 North Deer Island,State Senate,16,CON,Bob Ekstrom,85
+Columbia,0050 Prescott,State Senate,16,CON,Bob Ekstrom,8
+Columbia,0051 South Mist,State Senate,16,CON,Bob Ekstrom,14
+Columbia,0052 North Mist,State Senate,16,CON,Bob Ekstrom,6
+Columbia,0053 Columbia City,State Senate,16,CON,Bob Ekstrom,128
+Columbia,0055 East Chapman,State Senate,16,CON,Bob Ekstrom,32
+Columbia,0001 Clatskanie 1,State Senate,16,,Write-ins,0
+Columbia,0002 Clatskanie 2,State Senate,16,,Write-ins,0
+Columbia,0003 Clatskanie 3,State Senate,16,,Write-ins,0
+Columbia,0004 North Clatskanie,State Senate,16,,Write-ins,1
+Columbia,0005 South Clatskanie,State Senate,16,,Write-ins,0
+Columbia,0006 South Delena 1,State Senate,16,,Write-ins,1
+Columbia,0007 North Delena 2,State Senate,16,,Write-ins,0
+Columbia,0008 Goble,State Senate,16,,Write-ins,1
+Columbia,0009 Marshland,State Senate,16,,Write-ins,0
+Columbia,0010 South Milton,State Senate,16,,Write-ins,1
+Columbia,0011 North Milton,State Senate,16,,Write-ins,0
+Columbia,0012 South McNulty,State Senate,16,,Write-ins,1
+Columbia,0013 North McNulty,State Senate,16,,Write-ins,1
+Columbia,0014 Quincy,State Senate,16,,Write-ins,1
+Columbia,0015 Rainier 1,State Senate,16,,Write-ins,1
+Columbia,0016 Rainier 2,State Senate,16,,Write-ins,2
+Columbia,0017 West Rainier,State Senate,16,,Write-ins,1
+Columbia,0018 East Rainier,State Senate,16,,Write-ins,0
+Columbia,0019 South Warren,State Senate,16,,Write-ins,1
+Columbia,0020 North Warren,State Senate,16,,Write-ins,1
+Columbia,0021 St. Helens 1,State Senate,16,,Write-ins,2
+Columbia,0022 St. Helens 2,State Senate,16,,Write-ins,0
+Columbia,0023 St. Helens 3,State Senate,16,,Write-ins,1
+Columbia,0024 St. Helens 4,State Senate,16,,Write-ins,2
+Columbia,0025 St. Helens 5,State Senate,16,,Write-ins,0
+Columbia,0026 St. Helens 6,State Senate,16,,Write-ins,6
+Columbia,0027 St. Helens 7,State Senate,16,,Write-ins,3
+Columbia,0028 St. Helens 8,State Senate,16,,Write-ins,3
+Columbia,0029 St. Helens 9,State Senate,16,,Write-ins,3
+Columbia,0030 South St. Helens,State Senate,16,,Write-ins,0
+Columbia,0031 Scappoose 1,State Senate,16,,Write-ins,0
+Columbia,0032 Scappoose 2,State Senate,16,,Write-ins,0
+Columbia,0033 Scappoose 3,State Senate,16,,Write-ins,1
+Columbia,0034 Scappoose 4,State Senate,16,,Write-ins,1
+Columbia,0035 South Scappoose,State Senate,16,,Write-ins,1
+Columbia,0036 Canyon,State Senate,16,,Write-ins,0
+Columbia,0037 East Scappoose,State Senate,16,,Write-ins,1
+Columbia,0038 West Scappoose,State Senate,16,,Write-ins,1
+Columbia,0039 Sauvie Island,State Senate,16,,Write-ins,1
+Columbia,0040 Yankton,State Senate,16,,Write-ins,2
+Columbia,0041 Vernonia 1,State Senate,16,,Write-ins,0
+Columbia,0042 Vernonia 2,State Senate,16,,Write-ins,0
+Columbia,0043 Vernonia 3,State Senate,16,,Write-ins,3
+Columbia,0044 Vernonia 4,State Senate,16,,Write-ins,0
+Columbia,0045 Vernonia,State Senate,16,,Write-ins,0
+Columbia,0046 Apiary,State Senate,16,,Write-ins,2
+Columbia,0047 Chapman,State Senate,16,,Write-ins,2
+Columbia,0048 South Deer Island,State Senate,16,,Write-ins,3
+Columbia,0049 North Deer Island,State Senate,16,,Write-ins,4
+Columbia,0050 Prescott,State Senate,16,,Write-ins,0
+Columbia,0051 South Mist,State Senate,16,,Write-ins,1
+Columbia,0052 North Mist,State Senate,16,,Write-ins,0
+Columbia,0053 Columbia City,State Senate,16,,Write-ins,1
+Columbia,0055 East Chapman,State Senate,16,,Write-ins,4
+Columbia,0001 Clatskanie 1,State House,31,LBT,Robert Miller,9
+Columbia,0002 Clatskanie 2,State House,31,LBT,Robert Miller,11
+Columbia,0003 Clatskanie 3,State House,31,LBT,Robert Miller,11
+Columbia,0004 North Clatskanie,State House,31,LBT,Robert Miller,15
+Columbia,0005 South Clatskanie,State House,31,LBT,Robert Miller,24
+Columbia,0006 South Delena 1,State House,31,LBT,Robert Miller,16
+Columbia,0007 North Delena 2,State House,31,LBT,Robert Miller,16
+Columbia,0008 Goble,State House,31,LBT,Robert Miller,30
+Columbia,0009 Marshland,State House,31,LBT,Robert Miller,3
+Columbia,0010 South Milton,State House,31,LBT,Robert Miller,4
+Columbia,0011 North Milton,State House,31,LBT,Robert Miller,11
+Columbia,0012 South McNulty,State House,31,LBT,Robert Miller,13
+Columbia,0013 North McNulty,State House,31,LBT,Robert Miller,14
+Columbia,0014 Quincy,State House,31,LBT,Robert Miller,13
+Columbia,0015 Rainier 1,State House,31,LBT,Robert Miller,8
+Columbia,0016 Rainier 2,State House,31,LBT,Robert Miller,15
+Columbia,0017 West Rainier,State House,31,LBT,Robert Miller,12
+Columbia,0018 East Rainier,State House,31,LBT,Robert Miller,4
+Columbia,0019 South Warren,State House,31,LBT,Robert Miller,22
+Columbia,0020 North Warren,State House,31,LBT,Robert Miller,31
+Columbia,0021 St. Helens 1,State House,31,LBT,Robert Miller,15
+Columbia,0022 St. Helens 2,State House,31,LBT,Robert Miller,20
+Columbia,0023 St. Helens 3,State House,31,LBT,Robert Miller,26
+Columbia,0024 St. Helens 4,State House,31,LBT,Robert Miller,22
+Columbia,0025 St. Helens 5,State House,31,LBT,Robert Miller,11
+Columbia,0026 St. Helens 6,State House,31,LBT,Robert Miller,59
+Columbia,0027 St. Helens 7,State House,31,LBT,Robert Miller,18
+Columbia,0028 St. Helens 8,State House,31,LBT,Robert Miller,26
+Columbia,0029 St. Helens 9,State House,31,LBT,Robert Miller,14
+Columbia,0030 South St. Helens,State House,31,LBT,Robert Miller,5
+Columbia,0031 Scappoose 1,State House,31,LBT,Robert Miller,16
+Columbia,0032 Scappoose 2,State House,31,LBT,Robert Miller,22
+Columbia,0033 Scappoose 3,State House,31,LBT,Robert Miller,39
+Columbia,0034 Scappoose 4,State House,31,LBT,Robert Miller,28
+Columbia,0035 South Scappoose,State House,31,LBT,Robert Miller,18
+Columbia,0036 Canyon,State House,31,LBT,Robert Miller,14
+Columbia,0037 East Scappoose,State House,31,LBT,Robert Miller,9
+Columbia,0038 West Scappoose,State House,31,LBT,Robert Miller,16
+Columbia,0039 Sauvie Island,State House,31,LBT,Robert Miller,1
+Columbia,0040 Yankton,State House,31,LBT,Robert Miller,27
+Columbia,0041 Vernonia 1,State House,31,LBT,Robert Miller,9
+Columbia,0042 Vernonia 2,State House,31,LBT,Robert Miller,8
+Columbia,0043 Vernonia 3,State House,31,LBT,Robert Miller,8
+Columbia,0044 Vernonia 4,State House,31,LBT,Robert Miller,6
+Columbia,0045 Vernonia,State House,31,LBT,Robert Miller,24
+Columbia,0046 Apiary,State House,31,LBT,Robert Miller,19
+Columbia,0047 Chapman,State House,31,LBT,Robert Miller,18
+Columbia,0048 South Deer Island,State House,31,LBT,Robert Miller,11
+Columbia,0049 North Deer Island,State House,31,LBT,Robert Miller,19
+Columbia,0050 Prescott,State House,31,LBT,Robert Miller,0
+Columbia,0051 South Mist,State House,31,LBT,Robert Miller,8
+Columbia,0052 North Mist,State House,31,LBT,Robert Miller,3
+Columbia,0053 Columbia City,State House,31,LBT,Robert Miller,37
+Columbia,0055 East Chapman,State House,31,LBT,Robert Miller,6
+Columbia,0001 Clatskanie 1,State House,31,REP,Larry C. Ericksen,63
+Columbia,0002 Clatskanie 2,State House,31,REP,Larry C. Ericksen,99
+Columbia,0003 Clatskanie 3,State House,31,REP,Larry C. Ericksen,53
+Columbia,0004 North Clatskanie,State House,31,REP,Larry C. Ericksen,119
+Columbia,0005 South Clatskanie,State House,31,REP,Larry C. Ericksen,142
+Columbia,0006 South Delena 1,State House,31,REP,Larry C. Ericksen,127
+Columbia,0007 North Delena 2,State House,31,REP,Larry C. Ericksen,149
+Columbia,0008 Goble,State House,31,REP,Larry C. Ericksen,211
+Columbia,0009 Marshland,State House,31,REP,Larry C. Ericksen,71
+Columbia,0010 South Milton,State House,31,REP,Larry C. Ericksen,95
+Columbia,0011 North Milton,State House,31,REP,Larry C. Ericksen,94
+Columbia,0012 South McNulty,State House,31,REP,Larry C. Ericksen,129
+Columbia,0013 North McNulty,State House,31,REP,Larry C. Ericksen,159
+Columbia,0014 Quincy,State House,31,REP,Larry C. Ericksen,128
+Columbia,0015 Rainier 1,State House,31,REP,Larry C. Ericksen,71
+Columbia,0016 Rainier 2,State House,31,REP,Larry C. Ericksen,183
+Columbia,0017 West Rainier,State House,31,REP,Larry C. Ericksen,87
+Columbia,0018 East Rainier,State House,31,REP,Larry C. Ericksen,41
+Columbia,0019 South Warren,State House,31,REP,Larry C. Ericksen,325
+Columbia,0020 North Warren,State House,31,REP,Larry C. Ericksen,235
+Columbia,0021 St. Helens 1,State House,31,REP,Larry C. Ericksen,101
+Columbia,0022 St. Helens 2,State House,31,REP,Larry C. Ericksen,85
+Columbia,0023 St. Helens 3,State House,31,REP,Larry C. Ericksen,171
+Columbia,0024 St. Helens 4,State House,31,REP,Larry C. Ericksen,113
+Columbia,0025 St. Helens 5,State House,31,REP,Larry C. Ericksen,97
+Columbia,0026 St. Helens 6,State House,31,REP,Larry C. Ericksen,615
+Columbia,0027 St. Helens 7,State House,31,REP,Larry C. Ericksen,118
+Columbia,0028 St. Helens 8,State House,31,REP,Larry C. Ericksen,128
+Columbia,0029 St. Helens 9,State House,31,REP,Larry C. Ericksen,165
+Columbia,0030 South St. Helens,State House,31,REP,Larry C. Ericksen,58
+Columbia,0031 Scappoose 1,State House,31,REP,Larry C. Ericksen,206
+Columbia,0032 Scappoose 2,State House,31,REP,Larry C. Ericksen,203
+Columbia,0033 Scappoose 3,State House,31,REP,Larry C. Ericksen,378
+Columbia,0034 Scappoose 4,State House,31,REP,Larry C. Ericksen,298
+Columbia,0035 South Scappoose,State House,31,REP,Larry C. Ericksen,216
+Columbia,0036 Canyon,State House,31,REP,Larry C. Ericksen,125
+Columbia,0037 East Scappoose,State House,31,REP,Larry C. Ericksen,105
+Columbia,0038 West Scappoose,State House,31,REP,Larry C. Ericksen,128
+Columbia,0039 Sauvie Island,State House,31,REP,Larry C. Ericksen,15
+Columbia,0040 Yankton,State House,31,REP,Larry C. Ericksen,311
+Columbia,0041 Vernonia 1,State House,31,REP,Larry C. Ericksen,98
+Columbia,0042 Vernonia 2,State House,31,REP,Larry C. Ericksen,91
+Columbia,0043 Vernonia 3,State House,31,REP,Larry C. Ericksen,122
+Columbia,0044 Vernonia 4,State House,31,REP,Larry C. Ericksen,69
+Columbia,0045 Vernonia,State House,31,REP,Larry C. Ericksen,194
+Columbia,0046 Apiary,State House,31,REP,Larry C. Ericksen,170
+Columbia,0047 Chapman,State House,31,REP,Larry C. Ericksen,169
+Columbia,0048 South Deer Island,State House,31,REP,Larry C. Ericksen,109
+Columbia,0049 North Deer Island,State House,31,REP,Larry C. Ericksen,165
+Columbia,0050 Prescott,State House,31,REP,Larry C. Ericksen,10
+Columbia,0051 South Mist,State House,31,REP,Larry C. Ericksen,49
+Columbia,0052 North Mist,State House,31,REP,Larry C. Ericksen,23
+Columbia,0053 Columbia City,State House,31,REP,Larry C. Ericksen,370
+Columbia,0055 East Chapman,State House,31,REP,Larry C. Ericksen,75
+Columbia,0001 Clatskanie 1,State House,31,DEM,Brad Witt,91
+Columbia,0002 Clatskanie 2,State House,31,DEM,Brad Witt,134
+Columbia,0003 Clatskanie 3,State House,31,DEM,Brad Witt,100
+Columbia,0004 North Clatskanie,State House,31,DEM,Brad Witt,124
+Columbia,0005 South Clatskanie,State House,31,DEM,Brad Witt,201
+Columbia,0006 South Delena 1,State House,31,DEM,Brad Witt,167
+Columbia,0007 North Delena 2,State House,31,DEM,Brad Witt,263
+Columbia,0008 Goble,State House,31,DEM,Brad Witt,256
+Columbia,0009 Marshland,State House,31,DEM,Brad Witt,100
+Columbia,0010 South Milton,State House,31,DEM,Brad Witt,107
+Columbia,0011 North Milton,State House,31,DEM,Brad Witt,142
+Columbia,0012 South McNulty,State House,31,DEM,Brad Witt,174
+Columbia,0013 North McNulty,State House,31,DEM,Brad Witt,206
+Columbia,0014 Quincy,State House,31,DEM,Brad Witt,165
+Columbia,0015 Rainier 1,State House,31,DEM,Brad Witt,117
+Columbia,0016 Rainier 2,State House,31,DEM,Brad Witt,238
+Columbia,0017 West Rainier,State House,31,DEM,Brad Witt,136
+Columbia,0018 East Rainier,State House,31,DEM,Brad Witt,72
+Columbia,0019 South Warren,State House,31,DEM,Brad Witt,330
+Columbia,0020 North Warren,State House,31,DEM,Brad Witt,241
+Columbia,0021 St. Helens 1,State House,31,DEM,Brad Witt,180
+Columbia,0022 St. Helens 2,State House,31,DEM,Brad Witt,172
+Columbia,0023 St. Helens 3,State House,31,DEM,Brad Witt,290
+Columbia,0024 St. Helens 4,State House,31,DEM,Brad Witt,182
+Columbia,0025 St. Helens 5,State House,31,DEM,Brad Witt,161
+Columbia,0026 St. Helens 6,State House,31,DEM,Brad Witt,700
+Columbia,0027 St. Helens 7,State House,31,DEM,Brad Witt,170
+Columbia,0028 St. Helens 8,State House,31,DEM,Brad Witt,193
+Columbia,0029 St. Helens 9,State House,31,DEM,Brad Witt,219
+Columbia,0030 South St. Helens,State House,31,DEM,Brad Witt,94
+Columbia,0031 Scappoose 1,State House,31,DEM,Brad Witt,217
+Columbia,0032 Scappoose 2,State House,31,DEM,Brad Witt,269
+Columbia,0033 Scappoose 3,State House,31,DEM,Brad Witt,469
+Columbia,0034 Scappoose 4,State House,31,DEM,Brad Witt,380
+Columbia,0035 South Scappoose,State House,31,DEM,Brad Witt,233
+Columbia,0036 Canyon,State House,31,DEM,Brad Witt,193
+Columbia,0037 East Scappoose,State House,31,DEM,Brad Witt,166
+Columbia,0038 West Scappoose,State House,31,DEM,Brad Witt,186
+Columbia,0039 Sauvie Island,State House,31,DEM,Brad Witt,12
+Columbia,0040 Yankton,State House,31,DEM,Brad Witt,343
+Columbia,0041 Vernonia 1,State House,31,DEM,Brad Witt,152
+Columbia,0042 Vernonia 2,State House,31,DEM,Brad Witt,95
+Columbia,0043 Vernonia 3,State House,31,DEM,Brad Witt,153
+Columbia,0044 Vernonia 4,State House,31,DEM,Brad Witt,62
+Columbia,0045 Vernonia,State House,31,DEM,Brad Witt,176
+Columbia,0046 Apiary,State House,31,DEM,Brad Witt,218
+Columbia,0047 Chapman,State House,31,DEM,Brad Witt,239
+Columbia,0048 South Deer Island,State House,31,DEM,Brad Witt,116
+Columbia,0049 North Deer Island,State House,31,DEM,Brad Witt,171
+Columbia,0050 Prescott,State House,31,DEM,Brad Witt,22
+Columbia,0051 South Mist,State House,31,DEM,Brad Witt,75
+Columbia,0052 North Mist,State House,31,DEM,Brad Witt,18
+Columbia,0053 Columbia City,State House,31,DEM,Brad Witt,519
+Columbia,0055 East Chapman,State House,31,DEM,Brad Witt,94
+Columbia,0001 Clatskanie 1,State House,31,,Write-ins,0
+Columbia,0002 Clatskanie 2,State House,31,,Write-ins,0
+Columbia,0003 Clatskanie 3,State House,31,,Write-ins,1
+Columbia,0004 North Clatskanie,State House,31,,Write-ins,3
+Columbia,0005 South Clatskanie,State House,31,,Write-ins,0
+Columbia,0006 South Delena 1,State House,31,,Write-ins,3
+Columbia,0007 North Delena 2,State House,31,,Write-ins,1
+Columbia,0008 Goble,State House,31,,Write-ins,1
+Columbia,0009 Marshland,State House,31,,Write-ins,0
+Columbia,0010 South Milton,State House,31,,Write-ins,0
+Columbia,0011 North Milton,State House,31,,Write-ins,0
+Columbia,0012 South McNulty,State House,31,,Write-ins,0
+Columbia,0013 North McNulty,State House,31,,Write-ins,3
+Columbia,0014 Quincy,State House,31,,Write-ins,0
+Columbia,0015 Rainier 1,State House,31,,Write-ins,1
+Columbia,0016 Rainier 2,State House,31,,Write-ins,0
+Columbia,0017 West Rainier,State House,31,,Write-ins,1
+Columbia,0018 East Rainier,State House,31,,Write-ins,0
+Columbia,0019 South Warren,State House,31,,Write-ins,1
+Columbia,0020 North Warren,State House,31,,Write-ins,3
+Columbia,0021 St. Helens 1,State House,31,,Write-ins,3
+Columbia,0022 St. Helens 2,State House,31,,Write-ins,1
+Columbia,0023 St. Helens 3,State House,31,,Write-ins,3
+Columbia,0024 St. Helens 4,State House,31,,Write-ins,2
+Columbia,0025 St. Helens 5,State House,31,,Write-ins,3
+Columbia,0026 St. Helens 6,State House,31,,Write-ins,3
+Columbia,0027 St. Helens 7,State House,31,,Write-ins,1
+Columbia,0028 St. Helens 8,State House,31,,Write-ins,0
+Columbia,0029 St. Helens 9,State House,31,,Write-ins,2
+Columbia,0030 South St. Helens,State House,31,,Write-ins,1
+Columbia,0031 Scappoose 1,State House,31,,Write-ins,0
+Columbia,0032 Scappoose 2,State House,31,,Write-ins,4
+Columbia,0033 Scappoose 3,State House,31,,Write-ins,2
+Columbia,0034 Scappoose 4,State House,31,,Write-ins,0
+Columbia,0035 South Scappoose,State House,31,,Write-ins,0
+Columbia,0036 Canyon,State House,31,,Write-ins,1
+Columbia,0037 East Scappoose,State House,31,,Write-ins,1
+Columbia,0038 West Scappoose,State House,31,,Write-ins,1
+Columbia,0039 Sauvie Island,State House,31,,Write-ins,0
+Columbia,0040 Yankton,State House,31,,Write-ins,1
+Columbia,0041 Vernonia 1,State House,31,,Write-ins,0
+Columbia,0042 Vernonia 2,State House,31,,Write-ins,0
+Columbia,0043 Vernonia 3,State House,31,,Write-ins,2
+Columbia,0044 Vernonia 4,State House,31,,Write-ins,0
+Columbia,0045 Vernonia,State House,31,,Write-ins,1
+Columbia,0046 Apiary,State House,31,,Write-ins,1
+Columbia,0047 Chapman,State House,31,,Write-ins,2
+Columbia,0048 South Deer Island,State House,31,,Write-ins,4
+Columbia,0049 North Deer Island,State House,31,,Write-ins,1
+Columbia,0050 Prescott,State House,31,,Write-ins,0
+Columbia,0051 South Mist,State House,31,,Write-ins,0
+Columbia,0052 North Mist,State House,31,,Write-ins,0
+Columbia,0053 Columbia City,State House,31,,Write-ins,5
+Columbia,0055 East Chapman,State House,31,,Write-ins,0

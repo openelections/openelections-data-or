@@ -49,26 +49,26 @@ Wasco,PREC 7,President,,REP,BUSH/CHENEY,731.0
 Wasco,PREC 8,President,,REP,BUSH/CHENEY,594.0
 Wasco,PREC 9,President,,REP,BUSH/CHENEY,384.0
 Wasco,PREC 10,President,,REP,BUSH/CHENEY,375.0
-Wasco,PREC 1,President,,,UNDERVOTES,10.0
-Wasco,PREC 2,President,,,UNDERVOTES,12.0
-Wasco,PREC 3,President,,,UNDERVOTES,18.0
-Wasco,PREC 4,President,,,UNDERVOTES,11.0
-Wasco,PREC 5,President,,,UNDERVOTES,12.0
-Wasco,PREC 6,President,,,UNDERVOTES,13.0
-Wasco,PREC 7,President,,,UNDERVOTES,9.0
-Wasco,PREC 8,President,,,UNDERVOTES,10.0
-Wasco,PREC 9,President,,,UNDERVOTES,6.0
-Wasco,PREC 10,President,,,UNDERVOTES,6.0
-Wasco,PREC 1,President,,,OVERVOTES,4.0
-Wasco,PREC 2,President,,,OVERVOTES,3.0
-Wasco,PREC 3,President,,,OVERVOTES,4.0
-Wasco,PREC 4,President,,,OVERVOTES,4.0
-Wasco,PREC 5,President,,,OVERVOTES,4.0
-Wasco,PREC 6,President,,,OVERVOTES,4.0
-Wasco,PREC 7,President,,,OVERVOTES,3.0
-Wasco,PREC 8,President,,,OVERVOTES,2.0
-Wasco,PREC 9,President,,,OVERVOTES,2.0
-Wasco,PREC 10,President,,,OVERVOTES,1.0
+Wasco,PREC 1,President,,,Under Votes,10.0
+Wasco,PREC 2,President,,,Under Votes,12.0
+Wasco,PREC 3,President,,,Under Votes,18.0
+Wasco,PREC 4,President,,,Under Votes,11.0
+Wasco,PREC 5,President,,,Under Votes,12.0
+Wasco,PREC 6,President,,,Under Votes,13.0
+Wasco,PREC 7,President,,,Under Votes,9.0
+Wasco,PREC 8,President,,,Under Votes,10.0
+Wasco,PREC 9,President,,,Under Votes,6.0
+Wasco,PREC 10,President,,,Under Votes,6.0
+Wasco,PREC 1,President,,,Over Votes,4.0
+Wasco,PREC 2,President,,,Over Votes,3.0
+Wasco,PREC 3,President,,,Over Votes,4.0
+Wasco,PREC 4,President,,,Over Votes,4.0
+Wasco,PREC 5,President,,,Over Votes,4.0
+Wasco,PREC 6,President,,,Over Votes,4.0
+Wasco,PREC 7,President,,,Over Votes,3.0
+Wasco,PREC 8,President,,,Over Votes,2.0
+Wasco,PREC 9,President,,,Over Votes,2.0
+Wasco,PREC 10,President,,,Over Votes,1.0
 Wasco,PREC 1,U.S. Senate,,PGR,"KEANE, TERESA",22.0
 Wasco,PREC 2,U.S. Senate,,PGR,"KEANE, TERESA",46.0
 Wasco,PREC 3,U.S. Senate,,PGR,"KEANE, TERESA",37.0
@@ -119,26 +119,26 @@ Wasco,PREC 7,U.S. Senate,,CON,"BROWNLOW, DAVID",8.0
 Wasco,PREC 8,U.S. Senate,,CON,"BROWNLOW, DAVID",15.0
 Wasco,PREC 9,U.S. Senate,,CON,"BROWNLOW, DAVID",6.0
 Wasco,PREC 10,U.S. Senate,,CON,"BROWNLOW, DAVID",9.0
-Wasco,PREC 1,U.S. Senate,,,UNDERVOTES,34.0
-Wasco,PREC 2,U.S. Senate,,,UNDERVOTES,61.0
-Wasco,PREC 3,U.S. Senate,,,UNDERVOTES,52.0
-Wasco,PREC 4,U.S. Senate,,,UNDERVOTES,40.0
-Wasco,PREC 5,U.S. Senate,,,UNDERVOTES,44.0
-Wasco,PREC 6,U.S. Senate,,,UNDERVOTES,45.0
-Wasco,PREC 7,U.S. Senate,,,UNDERVOTES,38.0
-Wasco,PREC 8,U.S. Senate,,,UNDERVOTES,34.0
-Wasco,PREC 9,U.S. Senate,,,UNDERVOTES,29.0
-Wasco,PREC 10,U.S. Senate,,,UNDERVOTES,34.0
-Wasco,PREC 1,U.S. Senate,,,OVERVOTES,0.0
-Wasco,PREC 2,U.S. Senate,,,OVERVOTES,2.0
-Wasco,PREC 3,U.S. Senate,,,OVERVOTES,1.0
-Wasco,PREC 4,U.S. Senate,,,OVERVOTES,4.0
-Wasco,PREC 5,U.S. Senate,,,OVERVOTES,1.0
-Wasco,PREC 6,U.S. Senate,,,OVERVOTES,0.0
-Wasco,PREC 7,U.S. Senate,,,OVERVOTES,2.0
-Wasco,PREC 8,U.S. Senate,,,OVERVOTES,3.0
-Wasco,PREC 9,U.S. Senate,,,OVERVOTES,0.0
-Wasco,PREC 10,U.S. Senate,,,OVERVOTES,0.0
+Wasco,PREC 1,U.S. Senate,,,Under Votes,34.0
+Wasco,PREC 2,U.S. Senate,,,Under Votes,61.0
+Wasco,PREC 3,U.S. Senate,,,Under Votes,52.0
+Wasco,PREC 4,U.S. Senate,,,Under Votes,40.0
+Wasco,PREC 5,U.S. Senate,,,Under Votes,44.0
+Wasco,PREC 6,U.S. Senate,,,Under Votes,45.0
+Wasco,PREC 7,U.S. Senate,,,Under Votes,38.0
+Wasco,PREC 8,U.S. Senate,,,Under Votes,34.0
+Wasco,PREC 9,U.S. Senate,,,Under Votes,29.0
+Wasco,PREC 10,U.S. Senate,,,Under Votes,34.0
+Wasco,PREC 1,U.S. Senate,,,Over Votes,0.0
+Wasco,PREC 2,U.S. Senate,,,Over Votes,2.0
+Wasco,PREC 3,U.S. Senate,,,Over Votes,1.0
+Wasco,PREC 4,U.S. Senate,,,Over Votes,4.0
+Wasco,PREC 5,U.S. Senate,,,Over Votes,1.0
+Wasco,PREC 6,U.S. Senate,,,Over Votes,0.0
+Wasco,PREC 7,U.S. Senate,,,Over Votes,2.0
+Wasco,PREC 8,U.S. Senate,,,Over Votes,3.0
+Wasco,PREC 9,U.S. Senate,,,Over Votes,0.0
+Wasco,PREC 10,U.S. Senate,,,Over Votes,0.0
 Wasco,PREC 1,U.S. House,2,LIB,"LINDSAY, JIM",14.0
 Wasco,PREC 2,U.S. House,2,LIB,"LINDSAY, JIM",27.0
 Wasco,PREC 3,U.S. House,2,LIB,"LINDSAY, JIM",26.0
@@ -179,26 +179,26 @@ Wasco,PREC 7,U.S. House,2,CON,"BROWN, JACK ALAN",8.0
 Wasco,PREC 8,U.S. House,2,CON,"BROWN, JACK ALAN",12.0
 Wasco,PREC 9,U.S. House,2,CON,"BROWN, JACK ALAN",8.0
 Wasco,PREC 10,U.S. House,2,CON,"BROWN, JACK ALAN",10.0
-Wasco,PREC 1,U.S. House,2,,UNDERVOTES,40.0
-Wasco,PREC 2,U.S. House,2,,UNDERVOTES,63.0
-Wasco,PREC 3,U.S. House,2,,UNDERVOTES,61.0
-Wasco,PREC 4,U.S. House,2,,UNDERVOTES,41.0
-Wasco,PREC 5,U.S. House,2,,UNDERVOTES,58.0
-Wasco,PREC 6,U.S. House,2,,UNDERVOTES,53.0
-Wasco,PREC 7,U.S. House,2,,UNDERVOTES,44.0
-Wasco,PREC 8,U.S. House,2,,UNDERVOTES,31.0
-Wasco,PREC 9,U.S. House,2,,UNDERVOTES,37.0
-Wasco,PREC 10,U.S. House,2,,UNDERVOTES,37.0
-Wasco,PREC 1,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 2,U.S. House,2,,OVERVOTES,1.0
-Wasco,PREC 3,U.S. House,2,,OVERVOTES,3.0
-Wasco,PREC 4,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 5,U.S. House,2,,OVERVOTES,1.0
-Wasco,PREC 6,U.S. House,2,,OVERVOTES,1.0
-Wasco,PREC 7,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 8,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 9,U.S. House,2,,OVERVOTES,0.0
-Wasco,PREC 10,U.S. House,2,,OVERVOTES,0.0
+Wasco,PREC 1,U.S. House,2,,Under Votes,40.0
+Wasco,PREC 2,U.S. House,2,,Under Votes,63.0
+Wasco,PREC 3,U.S. House,2,,Under Votes,61.0
+Wasco,PREC 4,U.S. House,2,,Under Votes,41.0
+Wasco,PREC 5,U.S. House,2,,Under Votes,58.0
+Wasco,PREC 6,U.S. House,2,,Under Votes,53.0
+Wasco,PREC 7,U.S. House,2,,Under Votes,44.0
+Wasco,PREC 8,U.S. House,2,,Under Votes,31.0
+Wasco,PREC 9,U.S. House,2,,Under Votes,37.0
+Wasco,PREC 10,U.S. House,2,,Under Votes,37.0
+Wasco,PREC 1,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 2,U.S. House,2,,Over Votes,1.0
+Wasco,PREC 3,U.S. House,2,,Over Votes,3.0
+Wasco,PREC 4,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 5,U.S. House,2,,Over Votes,1.0
+Wasco,PREC 6,U.S. House,2,,Over Votes,1.0
+Wasco,PREC 7,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 8,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 9,U.S. House,2,,Over Votes,0.0
+Wasco,PREC 10,U.S. House,2,,Over Votes,0.0
 Wasco,PREC 1,Secretary of State,,REP,"CLOSE, BETSY",415.0
 Wasco,PREC 2,Secretary of State,,REP,"CLOSE, BETSY",633.0
 Wasco,PREC 3,Secretary of State,,REP,"CLOSE, BETSY",688.0
@@ -229,26 +229,26 @@ Wasco,PREC 7,Secretary of State,,DEM,"BRADBURY, BILL",654.0
 Wasco,PREC 8,Secretary of State,,DEM,"BRADBURY, BILL",358.0
 Wasco,PREC 9,Secretary of State,,DEM,"BRADBURY, BILL",398.0
 Wasco,PREC 10,Secretary of State,,DEM,"BRADBURY, BILL",407.0
-Wasco,PREC 1,Secretary of State,,,UNDERVOTES,50.0
-Wasco,PREC 2,Secretary of State,,,UNDERVOTES,96.0
-Wasco,PREC 3,Secretary of State,,,UNDERVOTES,66.0
-Wasco,PREC 4,Secretary of State,,,UNDERVOTES,62.0
-Wasco,PREC 5,Secretary of State,,,UNDERVOTES,48.0
-Wasco,PREC 6,Secretary of State,,,UNDERVOTES,68.0
-Wasco,PREC 7,Secretary of State,,,UNDERVOTES,57.0
-Wasco,PREC 8,Secretary of State,,,UNDERVOTES,48.0
-Wasco,PREC 9,Secretary of State,,,UNDERVOTES,33.0
-Wasco,PREC 10,Secretary of State,,,UNDERVOTES,43.0
-Wasco,PREC 1,Secretary of State,,,OVERVOTES,0.0
-Wasco,PREC 2,Secretary of State,,,OVERVOTES,0.0
-Wasco,PREC 3,Secretary of State,,,OVERVOTES,0.0
-Wasco,PREC 4,Secretary of State,,,OVERVOTES,0.0
-Wasco,PREC 5,Secretary of State,,,OVERVOTES,0.0
-Wasco,PREC 6,Secretary of State,,,OVERVOTES,0.0
-Wasco,PREC 7,Secretary of State,,,OVERVOTES,1.0
-Wasco,PREC 8,Secretary of State,,,OVERVOTES,0.0
-Wasco,PREC 9,Secretary of State,,,OVERVOTES,0.0
-Wasco,PREC 10,Secretary of State,,,OVERVOTES,0.0
+Wasco,PREC 1,Secretary of State,,,Under Votes,50.0
+Wasco,PREC 2,Secretary of State,,,Under Votes,96.0
+Wasco,PREC 3,Secretary of State,,,Under Votes,66.0
+Wasco,PREC 4,Secretary of State,,,Under Votes,62.0
+Wasco,PREC 5,Secretary of State,,,Under Votes,48.0
+Wasco,PREC 6,Secretary of State,,,Under Votes,68.0
+Wasco,PREC 7,Secretary of State,,,Under Votes,57.0
+Wasco,PREC 8,Secretary of State,,,Under Votes,48.0
+Wasco,PREC 9,Secretary of State,,,Under Votes,33.0
+Wasco,PREC 10,Secretary of State,,,Under Votes,43.0
+Wasco,PREC 1,Secretary of State,,,Over Votes,0.0
+Wasco,PREC 2,Secretary of State,,,Over Votes,0.0
+Wasco,PREC 3,Secretary of State,,,Over Votes,0.0
+Wasco,PREC 4,Secretary of State,,,Over Votes,0.0
+Wasco,PREC 5,Secretary of State,,,Over Votes,0.0
+Wasco,PREC 6,Secretary of State,,,Over Votes,0.0
+Wasco,PREC 7,Secretary of State,,,Over Votes,1.0
+Wasco,PREC 8,Secretary of State,,,Over Votes,0.0
+Wasco,PREC 9,Secretary of State,,,Over Votes,0.0
+Wasco,PREC 10,Secretary of State,,,Over Votes,0.0
 Wasco,PREC 1,State Treasurer,,DEM,"EDWARDS, RANDALL",568.0
 Wasco,PREC 2,State Treasurer,,DEM,"EDWARDS, RANDALL",938.0
 Wasco,PREC 3,State Treasurer,,DEM,"EDWARDS, RANDALL",872.0
@@ -289,26 +289,26 @@ Wasco,PREC 7,State Treasurer,,LIB,"SHULTS, MITCH",30.0
 Wasco,PREC 8,State Treasurer,,LIB,"SHULTS, MITCH",16.0
 Wasco,PREC 9,State Treasurer,,LIB,"SHULTS, MITCH",18.0
 Wasco,PREC 10,State Treasurer,,LIB,"SHULTS, MITCH",19.0
-Wasco,PREC 1,State Treasurer,,,UNDERVOTES,90.0
-Wasco,PREC 2,State Treasurer,,,UNDERVOTES,169.0
-Wasco,PREC 3,State Treasurer,,,UNDERVOTES,131.0
-Wasco,PREC 4,State Treasurer,,,UNDERVOTES,109.0
-Wasco,PREC 5,State Treasurer,,,UNDERVOTES,99.0
-Wasco,PREC 6,State Treasurer,,,UNDERVOTES,99.0
-Wasco,PREC 7,State Treasurer,,,UNDERVOTES,118.0
-Wasco,PREC 8,State Treasurer,,,UNDERVOTES,83.0
-Wasco,PREC 9,State Treasurer,,,UNDERVOTES,57.0
-Wasco,PREC 10,State Treasurer,,,UNDERVOTES,64.0
-Wasco,PREC 1,State Treasurer,,,OVERVOTES,1.0
-Wasco,PREC 2,State Treasurer,,,OVERVOTES,0.0
-Wasco,PREC 3,State Treasurer,,,OVERVOTES,0.0
-Wasco,PREC 4,State Treasurer,,,OVERVOTES,0.0
-Wasco,PREC 5,State Treasurer,,,OVERVOTES,0.0
-Wasco,PREC 6,State Treasurer,,,OVERVOTES,0.0
-Wasco,PREC 7,State Treasurer,,,OVERVOTES,0.0
-Wasco,PREC 8,State Treasurer,,,OVERVOTES,0.0
-Wasco,PREC 9,State Treasurer,,,OVERVOTES,0.0
-Wasco,PREC 10,State Treasurer,,,OVERVOTES,1.0
+Wasco,PREC 1,State Treasurer,,,Under Votes,90.0
+Wasco,PREC 2,State Treasurer,,,Under Votes,169.0
+Wasco,PREC 3,State Treasurer,,,Under Votes,131.0
+Wasco,PREC 4,State Treasurer,,,Under Votes,109.0
+Wasco,PREC 5,State Treasurer,,,Under Votes,99.0
+Wasco,PREC 6,State Treasurer,,,Under Votes,99.0
+Wasco,PREC 7,State Treasurer,,,Under Votes,118.0
+Wasco,PREC 8,State Treasurer,,,Under Votes,83.0
+Wasco,PREC 9,State Treasurer,,,Under Votes,57.0
+Wasco,PREC 10,State Treasurer,,,Under Votes,64.0
+Wasco,PREC 1,State Treasurer,,,Over Votes,1.0
+Wasco,PREC 2,State Treasurer,,,Over Votes,0.0
+Wasco,PREC 3,State Treasurer,,,Over Votes,0.0
+Wasco,PREC 4,State Treasurer,,,Over Votes,0.0
+Wasco,PREC 5,State Treasurer,,,Over Votes,0.0
+Wasco,PREC 6,State Treasurer,,,Over Votes,0.0
+Wasco,PREC 7,State Treasurer,,,Over Votes,0.0
+Wasco,PREC 8,State Treasurer,,,Over Votes,0.0
+Wasco,PREC 9,State Treasurer,,,Over Votes,0.0
+Wasco,PREC 10,State Treasurer,,,Over Votes,1.0
 Wasco,PREC 1,Attorney General,,CON,"HAKE, RICHARD D",7.0
 Wasco,PREC 2,Attorney General,,CON,"HAKE, RICHARD D",18.0
 Wasco,PREC 3,Attorney General,,CON,"HAKE, RICHARD D",17.0
@@ -349,23 +349,23 @@ Wasco,PREC 7,Attorney General,,LIB,"SMITH JR, DONALD G",40.0
 Wasco,PREC 8,Attorney General,,LIB,"SMITH JR, DONALD G",27.0
 Wasco,PREC 9,Attorney General,,LIB,"SMITH JR, DONALD G",17.0
 Wasco,PREC 10,Attorney General,,LIB,"SMITH JR, DONALD G",21.0
-Wasco,PREC 1,Attorney General,,,UNDERVOTES,74.0
-Wasco,PREC 2,Attorney General,,,UNDERVOTES,125.0
-Wasco,PREC 3,Attorney General,,,UNDERVOTES,107.0
-Wasco,PREC 4,Attorney General,,,UNDERVOTES,96.0
-Wasco,PREC 5,Attorney General,,,UNDERVOTES,89.0
-Wasco,PREC 6,Attorney General,,,UNDERVOTES,75.0
-Wasco,PREC 7,Attorney General,,,UNDERVOTES,99.0
-Wasco,PREC 8,Attorney General,,,UNDERVOTES,74.0
-Wasco,PREC 9,Attorney General,,,UNDERVOTES,42.0
-Wasco,PREC 10,Attorney General,,,UNDERVOTES,53.0
-Wasco,PREC 1,Attorney General,,,OVERVOTES,0.0
-Wasco,PREC 2,Attorney General,,,OVERVOTES,2.0
-Wasco,PREC 3,Attorney General,,,OVERVOTES,1.0
-Wasco,PREC 4,Attorney General,,,OVERVOTES,1.0
-Wasco,PREC 5,Attorney General,,,OVERVOTES,1.0
-Wasco,PREC 6,Attorney General,,,OVERVOTES,0.0
-Wasco,PREC 7,Attorney General,,,OVERVOTES,2.0
-Wasco,PREC 8,Attorney General,,,OVERVOTES,0.0
-Wasco,PREC 9,Attorney General,,,OVERVOTES,0.0
-Wasco,PREC 10,Attorney General,,,OVERVOTES,0.0
+Wasco,PREC 1,Attorney General,,,Under Votes,74.0
+Wasco,PREC 2,Attorney General,,,Under Votes,125.0
+Wasco,PREC 3,Attorney General,,,Under Votes,107.0
+Wasco,PREC 4,Attorney General,,,Under Votes,96.0
+Wasco,PREC 5,Attorney General,,,Under Votes,89.0
+Wasco,PREC 6,Attorney General,,,Under Votes,75.0
+Wasco,PREC 7,Attorney General,,,Under Votes,99.0
+Wasco,PREC 8,Attorney General,,,Under Votes,74.0
+Wasco,PREC 9,Attorney General,,,Under Votes,42.0
+Wasco,PREC 10,Attorney General,,,Under Votes,53.0
+Wasco,PREC 1,Attorney General,,,Over Votes,0.0
+Wasco,PREC 2,Attorney General,,,Over Votes,2.0
+Wasco,PREC 3,Attorney General,,,Over Votes,1.0
+Wasco,PREC 4,Attorney General,,,Over Votes,1.0
+Wasco,PREC 5,Attorney General,,,Over Votes,1.0
+Wasco,PREC 6,Attorney General,,,Over Votes,0.0
+Wasco,PREC 7,Attorney General,,,Over Votes,2.0
+Wasco,PREC 8,Attorney General,,,Over Votes,0.0
+Wasco,PREC 9,Attorney General,,,Over Votes,0.0
+Wasco,PREC 10,Attorney General,,,Over Votes,0.0

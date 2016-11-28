@@ -1,1 +1,97 @@
-county,precinct,office,district,party,candidate,votesHarney,Burns 21,President,,D,Barack Obama,359Harney,Hines 25,President,,D,Barack Obama,210Harney,Rural 26,President,,D,Barack Obama,263Harney,Burns 21,President,,Pac,Jill Stein,11Harney,Hines 25,President,,Pac,Jill Stein,4Harney,Rural 26,President,,Pac,Jill Stein,11Harney,Burns 21,President,,Prog,Ross C. Anderson,3Harney,Hines 25,President,,Prog,Ross C. Anderson,1Harney,Rural 26,President,,Prog,Ross C. Anderson,0Harney,Burns 21,President,,L,Gary Johnson,26Harney,Hines 25,President,,L,Gary Johnson,11Harney,Rural 26,President,,L,Gary Johnson,18Harney,Burns 21,President,,R,Mitt Romney,723Harney,Hines 25,President,,R,Mitt Romney,490Harney,Rural 26,President,,R,Mitt Romney,1394Harney,Burns 21,President,,C,Will Christensen,7Harney,Hines 25,President,,C,Will Christensen,5Harney,Rural 26,President,,C,Will Christensen,10Harney,Burns 21,President,,I,Write-ins,16Harney,Hines 25,President,,I,Write-ins,6Harney,Rural 26,President,,I,Write-ins,15Harney,Burns 21,U.S. House,2,D,Joyce Segers,229Harney,Hines 25,U.S. House,2,D,Joyce Segers,118Harney,Rural 26,U.S. House,2,D,Joyce Segers,174Harney,Burns 21,U.S. House,2,R,Greg Walden,841Harney,Hines 25,U.S. House,2,R,Greg Walden,571Harney,Rural 26,U.S. House,2,R,Greg Walden,1467Harney,Burns 21,U.S. House,2,C,Joe Tabor,36Harney,Hines 25,U.S. House,2,C,Joe Tabor,19Harney,Rural 26,U.S. House,2,C,Joe Tabor,25Harney,Burns 21,U.S. House,2,I,Write-ins,3Harney,Hines 25,U.S. House,2,I,Write-ins,0Harney,Rural 26,U.S. House,2,I,Write-ins,3Harney,Burns 21,Secretary of State,,Pac,Seth Woolley,16Harney,Hines 25,Secretary of State,,Pac,Seth Woolley,6Harney,Rural 26,Secretary of State,,Pac,Seth Woolley,15Harney,Burns 21,Secretary of State,,Prog,Robert Wolfe,9Harney,Hines 25,Secretary of State,,Prog,Robert Wolfe,9Harney,Rural 26,Secretary of State,,Prog,Robert Wolfe,6Harney,Burns 21,Secretary of State,,L,Bruce Knight,28Harney,Hines 25,Secretary of State,,L,Bruce Knight,11Harney,Rural 26,Secretary of State,,L,Bruce Knight,23Harney,Burns 21,Secretary of State,,D,Kate Brown,387Harney,Hines 25,Secretary of State,,D,Kate Brown,234Harney,Rural 26,Secretary of State,,D,Kate Brown,327Harney,Burns 21,Secretary of State,,R,Knute Buehler,651Harney,Hines 25,Secretary of State,,R,Knute Buehler,441Harney,Rural 26,Secretary of State,,R,Knute Buehler,1268Harney,Burns 21,Secretary of State,,I,Write-ins,0Harney,Hines 25,Secretary of State,,I,Write-ins,0Harney,Rural 26,Secretary of State,,I,Write-ins,3Harney,Burns 21,State Treasurer,,D,Ted Wheeler,420Harney,Hines 25,State Treasurer,,D,Ted Wheeler,273Harney,Rural 26,State Treasurer,,D,Ted Wheeler,364Harney,Burns 21,State Treasurer,,Prog,Cameron Whitten,22Harney,Hines 25,State Treasurer,,Prog,Cameron Whitten,10Harney,Rural 26,State Treasurer,,Prog,Cameron Whitten,16Harney,Burns 21,State Treasurer,,L,John F. Mahler,33Harney,Hines 25,State Treasurer,,L,John F. Mahler,18Harney,Rural 26,State Treasurer,,L,John F. Mahler,28Harney,Burns 21,State Treasurer,,C,Michael P. Marsh,13Harney,Hines 25,State Treasurer,,C,Michael P. Marsh,12Harney,Rural 26,State Treasurer,,C,Michael P. Marsh,22Harney,Burns 21,State Treasurer,,R,Tom Cox,577Harney,Hines 25,State Treasurer,,R,Tom Cox,365Harney,Rural 26,State Treasurer,,R,Tom Cox,1161Harney,Burns 21,State Treasurer,,I,Write-ins,0Harney,Hines 25,State Treasurer,,I,Write-ins,1Harney,Rural 26,State Treasurer,,I,Write-ins,3Harney,Burns 21,Attorney General,,Prog,Chris Henry,15Harney,Hines 25,Attorney General,,Prog,Chris Henry,10Harney,Rural 26,Attorney General,,Prog,Chris Henry,17Harney,Burns 21,Attorney General,,R,James Buchal,578Harney,Hines 25,Attorney General,,R,James Buchal,385Harney,Rural 26,Attorney General,,R,James Buchal,1187Harney,Burns 21,Attorney General,,C,James Leuenberger,46Harney,Hines 25,Attorney General,,C,James Leuenberger,28Harney,Rural 26,Attorney General,,C,James Leuenberger,48Harney,Burns 21,Attorney General,,D,Ellen Rosenblum,398Harney,Hines 25,Attorney General,,D,Ellen Rosenblum,252Harney,Rural 26,Attorney General,,D,Ellen Rosenblum,320Harney,Burns 21,Attorney General,,I,Write-ins,3Harney,Hines 25,Attorney General,,I,Write-ins,0Harney,Rural 26,Attorney General,,I,Write-ins,1Harney,Burns 21,State Senate,30,R,Ted Ferrioli,799Harney,Hines 25,State Senate,30,R,Ted Ferrioli,538Harney,Rural 26,State Senate,30,R,Ted Ferrioli,1345Harney,Burns 21,State Senate,30,I,Write-ins,24Harney,Hines 25,State Senate,30,I,Write-ins,8Harney,Rural 26,State Senate,30,I,Write-ins,8Harney,Burns 21,State House,60,R,Cliff Bentz,882Harney,Hines 25,State House,60,R,Cliff Bentz,575Harney,Rural 26,State House,60,R,Cliff Bentz,1475Harney,Burns 21,State House,60,I,Write-ins,21Harney,Hines 25,State House,60,I,Write-ins,9Harney,Rural 26,State House,60,I,Write-ins,13
+county,precinct,office,district,party,candidate,votes
+Harney,Burns 21,President,,D,Barack Obama,359
+Harney,Hines 25,President,,D,Barack Obama,210
+Harney,Rural 26,President,,D,Barack Obama,263
+Harney,Burns 21,President,,Pac,Jill Stein,11
+Harney,Hines 25,President,,Pac,Jill Stein,4
+Harney,Rural 26,President,,Pac,Jill Stein,11
+Harney,Burns 21,President,,Prog,Ross C. Anderson,3
+Harney,Hines 25,President,,Prog,Ross C. Anderson,1
+Harney,Rural 26,President,,Prog,Ross C. Anderson,0
+Harney,Burns 21,President,,L,Gary Johnson,26
+Harney,Hines 25,President,,L,Gary Johnson,11
+Harney,Rural 26,President,,L,Gary Johnson,18
+Harney,Burns 21,President,,R,Mitt Romney,723
+Harney,Hines 25,President,,R,Mitt Romney,490
+Harney,Rural 26,President,,R,Mitt Romney,1394
+Harney,Burns 21,President,,C,Will Christensen,7
+Harney,Hines 25,President,,C,Will Christensen,5
+Harney,Rural 26,President,,C,Will Christensen,10
+Harney,Burns 21,President,,I,Write-ins,16
+Harney,Hines 25,President,,I,Write-ins,6
+Harney,Rural 26,President,,I,Write-ins,15
+Harney,Burns 21,U.S. House,2,D,Joyce Segers,229
+Harney,Hines 25,U.S. House,2,D,Joyce Segers,118
+Harney,Rural 26,U.S. House,2,D,Joyce Segers,174
+Harney,Burns 21,U.S. House,2,R,Greg Walden,841
+Harney,Hines 25,U.S. House,2,R,Greg Walden,571
+Harney,Rural 26,U.S. House,2,R,Greg Walden,1467
+Harney,Burns 21,U.S. House,2,C,Joe Tabor,36
+Harney,Hines 25,U.S. House,2,C,Joe Tabor,19
+Harney,Rural 26,U.S. House,2,C,Joe Tabor,25
+Harney,Burns 21,U.S. House,2,I,Write-ins,3
+Harney,Hines 25,U.S. House,2,I,Write-ins,0
+Harney,Rural 26,U.S. House,2,I,Write-ins,3
+Harney,Burns 21,Secretary of State,,Pac,Seth Woolley,16
+Harney,Hines 25,Secretary of State,,Pac,Seth Woolley,6
+Harney,Rural 26,Secretary of State,,Pac,Seth Woolley,15
+Harney,Burns 21,Secretary of State,,Prog,Robert Wolfe,9
+Harney,Hines 25,Secretary of State,,Prog,Robert Wolfe,9
+Harney,Rural 26,Secretary of State,,Prog,Robert Wolfe,6
+Harney,Burns 21,Secretary of State,,L,Bruce Knight,28
+Harney,Hines 25,Secretary of State,,L,Bruce Knight,11
+Harney,Rural 26,Secretary of State,,L,Bruce Knight,23
+Harney,Burns 21,Secretary of State,,D,Kate Brown,387
+Harney,Hines 25,Secretary of State,,D,Kate Brown,234
+Harney,Rural 26,Secretary of State,,D,Kate Brown,327
+Harney,Burns 21,Secretary of State,,R,Knute Buehler,651
+Harney,Hines 25,Secretary of State,,R,Knute Buehler,441
+Harney,Rural 26,Secretary of State,,R,Knute Buehler,1268
+Harney,Burns 21,Secretary of State,,I,Write-ins,0
+Harney,Hines 25,Secretary of State,,I,Write-ins,0
+Harney,Rural 26,Secretary of State,,I,Write-ins,3
+Harney,Burns 21,State Treasurer,,D,Ted Wheeler,420
+Harney,Hines 25,State Treasurer,,D,Ted Wheeler,273
+Harney,Rural 26,State Treasurer,,D,Ted Wheeler,364
+Harney,Burns 21,State Treasurer,,Prog,Cameron Whitten,22
+Harney,Hines 25,State Treasurer,,Prog,Cameron Whitten,10
+Harney,Rural 26,State Treasurer,,Prog,Cameron Whitten,16
+Harney,Burns 21,State Treasurer,,L,John F. Mahler,33
+Harney,Hines 25,State Treasurer,,L,John F. Mahler,18
+Harney,Rural 26,State Treasurer,,L,John F. Mahler,28
+Harney,Burns 21,State Treasurer,,C,Michael P. Marsh,13
+Harney,Hines 25,State Treasurer,,C,Michael P. Marsh,12
+Harney,Rural 26,State Treasurer,,C,Michael P. Marsh,22
+Harney,Burns 21,State Treasurer,,R,Tom Cox,577
+Harney,Hines 25,State Treasurer,,R,Tom Cox,365
+Harney,Rural 26,State Treasurer,,R,Tom Cox,1161
+Harney,Burns 21,State Treasurer,,I,Write-ins,0
+Harney,Hines 25,State Treasurer,,I,Write-ins,1
+Harney,Rural 26,State Treasurer,,I,Write-ins,3
+Harney,Burns 21,Attorney General,,Prog,Chris Henry,15
+Harney,Hines 25,Attorney General,,Prog,Chris Henry,10
+Harney,Rural 26,Attorney General,,Prog,Chris Henry,17
+Harney,Burns 21,Attorney General,,R,James Buchal,578
+Harney,Hines 25,Attorney General,,R,James Buchal,385
+Harney,Rural 26,Attorney General,,R,James Buchal,1187
+Harney,Burns 21,Attorney General,,C,James Leuenberger,46
+Harney,Hines 25,Attorney General,,C,James Leuenberger,28
+Harney,Rural 26,Attorney General,,C,James Leuenberger,48
+Harney,Burns 21,Attorney General,,D,Ellen Rosenblum,398
+Harney,Hines 25,Attorney General,,D,Ellen Rosenblum,252
+Harney,Rural 26,Attorney General,,D,Ellen Rosenblum,320
+Harney,Burns 21,Attorney General,,I,Write-ins,3
+Harney,Hines 25,Attorney General,,I,Write-ins,0
+Harney,Rural 26,Attorney General,,I,Write-ins,1
+Harney,Burns 21,State Senate,30,R,Ted Ferrioli,799
+Harney,Hines 25,State Senate,30,R,Ted Ferrioli,538
+Harney,Rural 26,State Senate,30,R,Ted Ferrioli,1345
+Harney,Burns 21,State Senate,30,I,Write-ins,24
+Harney,Hines 25,State Senate,30,I,Write-ins,8
+Harney,Rural 26,State Senate,30,I,Write-ins,8
+Harney,Burns 21,State House,60,R,Cliff Bentz,882
+Harney,Hines 25,State House,60,R,Cliff Bentz,575
+Harney,Rural 26,State House,60,R,Cliff Bentz,1475
+Harney,Burns 21,State House,60,I,Write-ins,21
+Harney,Hines 25,State House,60,I,Write-ins,9
+Harney,Rural 26,State House,60,I,Write-ins,13
