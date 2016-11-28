@@ -1,1 +1,121 @@
-county,precinct,office,district,party,candidate,votesGrant,8,President,,DEM,Hillary Clinton,13Grant,8,President,,DEM,Bernie Sanders,27Grant,8,President,,DEM,Write-in,2Grant,8,President,,DEM,Over Votes,1Grant,8,President,,DEM,Under Votes,6Grant,8,U.S. Senate,,DEM,Ron Wyden,33Grant,8,U.S. Senate,,DEM,Paul B Weaver,3Grant,8,U.S. Senate,,DEM,Kevin H Stine,10Grant,8,U.S. Senate,,DEM,Write-in,0Grant,8,U.S. Senate,,DEM,Over Votes,0Grant,8,U.S. Senate,,DEM,Under Votes,3Grant,8,U.S. House,,DEM,James (Jim) Crary,29Grant,8,U.S. House,,DEM,Write-in,2Grant,8,U.S. House,,DEM,Over Votes,0Grant,8,U.S. House,,DEM,Under Votes,18Grant,8,Governor,,DEM,Kate Brown,23Grant,8,Governor,,DEM,Julian Bell,4Grant,8,Governor,,DEM,Chet Chance,1Grant,8,Governor,,DEM,Kevin M Forsythe,1Grant,8,Governor,,DEM,Dave Stauffer,3Grant,8,Governor,,DEM,Steve Johnson,3Grant,8,Governor,,DEM,Write-in,4Grant,8,Governor,,DEM,Over Votes,0Grant,8,Governor,,DEM,Under Votes,10Grant,4,President,,DEM,Hillary Clinton,24Grant,4,President,,DEM,Bernie Sanders,59Grant,4,President,,DEM,Write-in,11Grant,4,President,,DEM,Over Votes,0Grant,4,President,,DEM,Under Votes,15Grant,4,U.S. Senate,,DEM,Ron Wyden,70Grant,4,U.S. Senate,,DEM,Paul B Weaver,10Grant,4,U.S. Senate,,DEM,Kevin H Stine,12Grant,4,U.S. Senate,,DEM,Write-in,0Grant,4,U.S. Senate,,DEM,Over Votes,0Grant,4,U.S. Senate,,DEM,Under Votes,17Grant,4,U.S. House,,DEM,James (Jim) Crary,52Grant,4,U.S. House,,DEM,Write-in,2Grant,4,U.S. House,,DEM,Over Votes,0Grant,4,U.S. House,,DEM,Under Votes,55Grant,4,Governor,,DEM,Kate Brown,51Grant,4,Governor,,DEM,Julian Bell,9Grant,4,Governor,,DEM,Chet Chance,1Grant,4,Governor,,DEM,Kevin M Forsythe,5Grant,4,Governor,,DEM,Dave Stauffer,8Grant,4,Governor,,DEM,Steve Johnson,8Grant,4,Governor,,DEM,Write-in,6Grant,4,Governor,,DEM,Over Votes,0Grant,4,Governor,,DEM,Under Votes,21Grant,3,President,,DEM,Hillary Clinton,159Grant,3,President,,DEM,Bernie Sanders,264Grant,3,President,,DEM,Write-in,55Grant,3,President,,DEM,Over Votes,2Grant,3,President,,DEM,Under Votes,43Grant,3,U.S. Senate,,DEM,Ron Wyden,366Grant,3,U.S. Senate,,DEM,Paul B Weaver,25Grant,3,U.S. Senate,,DEM,Kevin H Stine,51Grant,3,U.S. Senate,,DEM,Write-in,18Grant,3,U.S. Senate,,DEM,Over Votes,0Grant,3,U.S. Senate,,DEM,Under Votes,63Grant,3,U.S. House,,DEM,James (Jim) Crary,285Grant,3,U.S. House,,DEM,Write-in,18Grant,3,U.S. House,,DEM,Over Votes,0Grant,3,U.S. House,,DEM,Under Votes,220Grant,3,Governor,,DEM,Kate Brown,296Grant,3,Governor,,DEM,Julian Bell,22Grant,3,Governor,,DEM,Chet Chance,11Grant,3,Governor,,DEM,Kevin M Forsythe,26Grant,3,Governor,,DEM,Dave Stauffer,17Grant,3,Governor,,DEM,Steve Johnson,35Grant,3,Governor,,DEM,Write-in,33Grant,3,Governor,,DEM,Over Votes,3Grant,3,Governor,,DEM,Under Votes,80Grant,17,President,,DEM,Hillary Clinton,13Grant,17,President,,DEM,Bernie Sanders,21Grant,17,President,,DEM,Write-in,8Grant,17,President,,DEM,Over Votes,0Grant,17,President,,DEM,Under Votes,3Grant,17,U.S. Senate,,DEM,Ron Wyden,34Grant,17,U.S. Senate,,DEM,Paul B Weaver,3Grant,17,U.S. Senate,,DEM,Kevin H Stine,6Grant,17,U.S. Senate,,DEM,Write-in,0Grant,17,U.S. Senate,,DEM,Over Votes,0Grant,17,U.S. Senate,,DEM,Under Votes,2Grant,17,U.S. House,,DEM,James (Jim) Crary,26Grant,17,U.S. House,,DEM,Write-in,0Grant,17,U.S. House,,DEM,Over Votes,0Grant,17,U.S. House,,DEM,Under Votes,19Grant,17,Governor,,DEM,Kate Brown,23Grant,17,Governor,,DEM,Julian Bell,2Grant,17,Governor,,DEM,Chet Chance,2Grant,17,Governor,,DEM,Kevin M Forsythe,3Grant,17,Governor,,DEM,Dave Stauffer,5Grant,17,Governor,,DEM,Steve Johnson,4Grant,17,Governor,,DEM,Write-in,0Grant,17,Governor,,DEM,Over Votes,0Grant,17,Governor,,DEM,Under Votes,6Grant,16,President,,DEM,Hillary Clinton,6Grant,16,President,,DEM,Bernie Sanders,15Grant,16,President,,DEM,Write-in,6Grant,16,President,,DEM,Over Votes,0Grant,16,President,,DEM,Under Votes,6Grant,16,U.S. Senate,,DEM,Ron Wyden,16Grant,16,U.S. Senate,,DEM,Paul B Weaver,0Grant,16,U.S. Senate,,DEM,Kevin H Stine,11Grant,16,U.S. Senate,,DEM,Write-in,2Grant,16,U.S. Senate,,DEM,Over Votes,0Grant,16,U.S. Senate,,DEM,Under Votes,4Grant,16,U.S. House,,DEM,James (Jim) Crary,14Grant,16,U.S. House,,DEM,Write-in,3Grant,16,U.S. House,,DEM,Over Votes,0Grant,16,U.S. House,,DEM,Under Votes,16Grant,16,Governor,,DEM,Kate Brown,9Grant,16,Governor,,DEM,Julian Bell,0Grant,16,Governor,,DEM,Chet Chance,1Grant,16,Governor,,DEM,Kevin M Forsythe,2Grant,16,Governor,,DEM,Dave Stauffer,4Grant,16,Governor,,DEM,Steve Johnson,2Grant,16,Governor,,DEM,Write-in,7Grant,16,Governor,,DEM,Over Votes,0Grant,16,Governor,,DEM,Under Votes,8
+county,precinct,office,district,party,candidate,votes
+Grant,8,President,,DEM,Hillary Clinton,13
+Grant,8,President,,DEM,Bernie Sanders,27
+Grant,8,President,,DEM,Write-in,2
+Grant,8,President,,DEM,Over Votes,1
+Grant,8,President,,DEM,Under Votes,6
+Grant,8,U.S. Senate,,DEM,Ron Wyden,33
+Grant,8,U.S. Senate,,DEM,Paul B Weaver,3
+Grant,8,U.S. Senate,,DEM,Kevin H Stine,10
+Grant,8,U.S. Senate,,DEM,Write-in,0
+Grant,8,U.S. Senate,,DEM,Over Votes,0
+Grant,8,U.S. Senate,,DEM,Under Votes,3
+Grant,8,U.S. House,,DEM,James (Jim) Crary,29
+Grant,8,U.S. House,,DEM,Write-in,2
+Grant,8,U.S. House,,DEM,Over Votes,0
+Grant,8,U.S. House,,DEM,Under Votes,18
+Grant,8,Governor,,DEM,Kate Brown,23
+Grant,8,Governor,,DEM,Julian Bell,4
+Grant,8,Governor,,DEM,Chet Chance,1
+Grant,8,Governor,,DEM,Kevin M Forsythe,1
+Grant,8,Governor,,DEM,Dave Stauffer,3
+Grant,8,Governor,,DEM,Steve Johnson,3
+Grant,8,Governor,,DEM,Write-in,4
+Grant,8,Governor,,DEM,Over Votes,0
+Grant,8,Governor,,DEM,Under Votes,10
+Grant,4,President,,DEM,Hillary Clinton,24
+Grant,4,President,,DEM,Bernie Sanders,59
+Grant,4,President,,DEM,Write-in,11
+Grant,4,President,,DEM,Over Votes,0
+Grant,4,President,,DEM,Under Votes,15
+Grant,4,U.S. Senate,,DEM,Ron Wyden,70
+Grant,4,U.S. Senate,,DEM,Paul B Weaver,10
+Grant,4,U.S. Senate,,DEM,Kevin H Stine,12
+Grant,4,U.S. Senate,,DEM,Write-in,0
+Grant,4,U.S. Senate,,DEM,Over Votes,0
+Grant,4,U.S. Senate,,DEM,Under Votes,17
+Grant,4,U.S. House,,DEM,James (Jim) Crary,52
+Grant,4,U.S. House,,DEM,Write-in,2
+Grant,4,U.S. House,,DEM,Over Votes,0
+Grant,4,U.S. House,,DEM,Under Votes,55
+Grant,4,Governor,,DEM,Kate Brown,51
+Grant,4,Governor,,DEM,Julian Bell,9
+Grant,4,Governor,,DEM,Chet Chance,1
+Grant,4,Governor,,DEM,Kevin M Forsythe,5
+Grant,4,Governor,,DEM,Dave Stauffer,8
+Grant,4,Governor,,DEM,Steve Johnson,8
+Grant,4,Governor,,DEM,Write-in,6
+Grant,4,Governor,,DEM,Over Votes,0
+Grant,4,Governor,,DEM,Under Votes,21
+Grant,3,President,,DEM,Hillary Clinton,159
+Grant,3,President,,DEM,Bernie Sanders,264
+Grant,3,President,,DEM,Write-in,55
+Grant,3,President,,DEM,Over Votes,2
+Grant,3,President,,DEM,Under Votes,43
+Grant,3,U.S. Senate,,DEM,Ron Wyden,366
+Grant,3,U.S. Senate,,DEM,Paul B Weaver,25
+Grant,3,U.S. Senate,,DEM,Kevin H Stine,51
+Grant,3,U.S. Senate,,DEM,Write-in,18
+Grant,3,U.S. Senate,,DEM,Over Votes,0
+Grant,3,U.S. Senate,,DEM,Under Votes,63
+Grant,3,U.S. House,,DEM,James (Jim) Crary,285
+Grant,3,U.S. House,,DEM,Write-in,18
+Grant,3,U.S. House,,DEM,Over Votes,0
+Grant,3,U.S. House,,DEM,Under Votes,220
+Grant,3,Governor,,DEM,Kate Brown,296
+Grant,3,Governor,,DEM,Julian Bell,22
+Grant,3,Governor,,DEM,Chet Chance,11
+Grant,3,Governor,,DEM,Kevin M Forsythe,26
+Grant,3,Governor,,DEM,Dave Stauffer,17
+Grant,3,Governor,,DEM,Steve Johnson,35
+Grant,3,Governor,,DEM,Write-in,33
+Grant,3,Governor,,DEM,Over Votes,3
+Grant,3,Governor,,DEM,Under Votes,80
+Grant,17,President,,DEM,Hillary Clinton,13
+Grant,17,President,,DEM,Bernie Sanders,21
+Grant,17,President,,DEM,Write-in,8
+Grant,17,President,,DEM,Over Votes,0
+Grant,17,President,,DEM,Under Votes,3
+Grant,17,U.S. Senate,,DEM,Ron Wyden,34
+Grant,17,U.S. Senate,,DEM,Paul B Weaver,3
+Grant,17,U.S. Senate,,DEM,Kevin H Stine,6
+Grant,17,U.S. Senate,,DEM,Write-in,0
+Grant,17,U.S. Senate,,DEM,Over Votes,0
+Grant,17,U.S. Senate,,DEM,Under Votes,2
+Grant,17,U.S. House,,DEM,James (Jim) Crary,26
+Grant,17,U.S. House,,DEM,Write-in,0
+Grant,17,U.S. House,,DEM,Over Votes,0
+Grant,17,U.S. House,,DEM,Under Votes,19
+Grant,17,Governor,,DEM,Kate Brown,23
+Grant,17,Governor,,DEM,Julian Bell,2
+Grant,17,Governor,,DEM,Chet Chance,2
+Grant,17,Governor,,DEM,Kevin M Forsythe,3
+Grant,17,Governor,,DEM,Dave Stauffer,5
+Grant,17,Governor,,DEM,Steve Johnson,4
+Grant,17,Governor,,DEM,Write-in,0
+Grant,17,Governor,,DEM,Over Votes,0
+Grant,17,Governor,,DEM,Under Votes,6
+Grant,16,President,,DEM,Hillary Clinton,6
+Grant,16,President,,DEM,Bernie Sanders,15
+Grant,16,President,,DEM,Write-in,6
+Grant,16,President,,DEM,Over Votes,0
+Grant,16,President,,DEM,Under Votes,6
+Grant,16,U.S. Senate,,DEM,Ron Wyden,16
+Grant,16,U.S. Senate,,DEM,Paul B Weaver,0
+Grant,16,U.S. Senate,,DEM,Kevin H Stine,11
+Grant,16,U.S. Senate,,DEM,Write-in,2
+Grant,16,U.S. Senate,,DEM,Over Votes,0
+Grant,16,U.S. Senate,,DEM,Under Votes,4
+Grant,16,U.S. House,,DEM,James (Jim) Crary,14
+Grant,16,U.S. House,,DEM,Write-in,3
+Grant,16,U.S. House,,DEM,Over Votes,0
+Grant,16,U.S. House,,DEM,Under Votes,16
+Grant,16,Governor,,DEM,Kate Brown,9
+Grant,16,Governor,,DEM,Julian Bell,0
+Grant,16,Governor,,DEM,Chet Chance,1
+Grant,16,Governor,,DEM,Kevin M Forsythe,2
+Grant,16,Governor,,DEM,Dave Stauffer,4
+Grant,16,Governor,,DEM,Steve Johnson,2
+Grant,16,Governor,,DEM,Write-in,7
+Grant,16,Governor,,DEM,Over Votes,0
+Grant,16,Governor,,DEM,Under Votes,8

@@ -1,1 +1,61 @@
-county,precinct,office,district,party,candidate,votesHarney,Burns 21,U.S. Senate,,L,Mike Montchalin,44Harney,Hines 25,U.S. Senate,,L,Mike Montchalin,21Harney,Rural 26,U.S. Senate,,L,Mike Montchalin,40Harney,Burns 21,U.S. Senate,,D,Jeff Merkley,365Harney,Hines 25,U.S. Senate,,D,Jeff Merkley,230Harney,Rural 26,U.S. Senate,,D,Jeff Merkley,316Harney,Burns 21,U.S. Senate,,PAC,Christina Jean Lugo,20Harney,Hines 25,U.S. Senate,,PAC,Christina Jean Lugo,7Harney,Rural 26,U.S. Senate,,PAC,Christina Jean Lugo,13Harney,Burns 21,U.S. Senate,,C,Jamie E. Leuenberger,27Harney,Hines 25,U.S. Senate,,C,Jamie E. Leuenberger,17Harney,Rural 26,U.S. Senate,,C,Jamie E. Leuenberger,25Harney,Burns 21,U.S. Senate,,R,Monica Wehby,495Harney,Hines 25,U.S. Senate,,R,Monica Wehby,342Harney,Rural 26,U.S. Senate,,R,Monica Wehby,946Harney,Burns 21,U.S. Senate,,I,Write-ins,9Harney,Hines 25,U.S. Senate,,I,Write-ins,2Harney,Rural 26,U.S. Senate,,I,Write-ins,5Harney,Burns 21,U.S. House,2,D,Aelea Christofferson,165Harney,Hines 25,U.S. House,2,D,Aelea Christofferson,91Harney,Rural 26,U.S. House,2,D,Aelea Christofferson,108Harney,Burns 21,U.S. House,2,L,Sharon L. Durbin,50Harney,Hines 25,U.S. House,2,L,Sharon L. Durbin,21Harney,Rural 26,U.S. House,2,L,Sharon L. Durbin,38Harney,Burns 21,U.S. House,2,R,Greg Walden,736Harney,Hines 25,U.S. House,2,R,Greg Walden,503Harney,Rural 26,U.S. House,2,R,Greg Walden,1223Harney,Burns 21,U.S. House,2,I,Write-ins,5Harney,Hines 25,U.S. House,2,I,Write-ins,0Harney,Rural 26,U.S. House,2,I,Write-ins,5Harney,Burns 21,Governor,,R,Dennis Richardson,601Harney,Hines 25,Governor,,R,Dennis Richardson,396Harney,Rural 26,Governor,,R,Dennis Richardson,1086Harney,Burns 21,Governor,,PROG,Chris Henry,6Harney,Hines 25,Governor,,PROG,Chris Henry,6Harney,Rural 26,Governor,,PROG,Chris Henry,14Harney,Burns 21,Governor,,C,Aaron Auer,22Harney,Hines 25,Governor,,C,Aaron Auer,15Harney,Rural 26,Governor,,C,Aaron Auer,18Harney,Burns 21,Governor,,D,John Kitzhaber,306Harney,Hines 25,Governor,,D,John Kitzhaber,181Harney,Rural 26,Governor,,D,John Kitzhaber,237Harney,Burns 21,Governor,,L,Paul Grad,22Harney,Hines 25,Governor,,L,Paul Grad,10Harney,Rural 26,Governor,,L,Paul Grad,7Harney,Burns 21,Governor,,PAC,Jason Levin,16Harney,Hines 25,Governor,,PAC,Jason Levin,6Harney,Rural 26,Governor,,PAC,Jason Levin,6Harney,Burns 21,Governor,,I,Write-ins,0Harney,Hines 25,Governor,,I,Write-ins,1Harney,Rural 26,Governor,,I,Write-ins,2Harney,Burns 21,State House,60,D,Peter Hall,185Harney,Hines 25,State House,60,D,Peter Hall,105Harney,Rural 26,State House,60,D,Peter Hall,122Harney,Burns 21,State House,60,R,Cliff Bentz,759Harney,Hines 25,State House,60,R,Cliff Bentz,507Harney,Rural 26,State House,60,R,Cliff Bentz,1247Harney,Burns 21,State House,60,I,Write-ins,0Harney,Hines 25,State House,60,I,Write-ins,1Harney,Rural 26,State House,60,I,Write-ins,4
+county,precinct,office,district,party,candidate,votes
+Harney,Burns 21,U.S. Senate,,L,Mike Montchalin,44
+Harney,Hines 25,U.S. Senate,,L,Mike Montchalin,21
+Harney,Rural 26,U.S. Senate,,L,Mike Montchalin,40
+Harney,Burns 21,U.S. Senate,,D,Jeff Merkley,365
+Harney,Hines 25,U.S. Senate,,D,Jeff Merkley,230
+Harney,Rural 26,U.S. Senate,,D,Jeff Merkley,316
+Harney,Burns 21,U.S. Senate,,PAC,Christina Jean Lugo,20
+Harney,Hines 25,U.S. Senate,,PAC,Christina Jean Lugo,7
+Harney,Rural 26,U.S. Senate,,PAC,Christina Jean Lugo,13
+Harney,Burns 21,U.S. Senate,,C,Jamie E. Leuenberger,27
+Harney,Hines 25,U.S. Senate,,C,Jamie E. Leuenberger,17
+Harney,Rural 26,U.S. Senate,,C,Jamie E. Leuenberger,25
+Harney,Burns 21,U.S. Senate,,R,Monica Wehby,495
+Harney,Hines 25,U.S. Senate,,R,Monica Wehby,342
+Harney,Rural 26,U.S. Senate,,R,Monica Wehby,946
+Harney,Burns 21,U.S. Senate,,I,Write-ins,9
+Harney,Hines 25,U.S. Senate,,I,Write-ins,2
+Harney,Rural 26,U.S. Senate,,I,Write-ins,5
+Harney,Burns 21,U.S. House,2,D,Aelea Christofferson,165
+Harney,Hines 25,U.S. House,2,D,Aelea Christofferson,91
+Harney,Rural 26,U.S. House,2,D,Aelea Christofferson,108
+Harney,Burns 21,U.S. House,2,L,Sharon L. Durbin,50
+Harney,Hines 25,U.S. House,2,L,Sharon L. Durbin,21
+Harney,Rural 26,U.S. House,2,L,Sharon L. Durbin,38
+Harney,Burns 21,U.S. House,2,R,Greg Walden,736
+Harney,Hines 25,U.S. House,2,R,Greg Walden,503
+Harney,Rural 26,U.S. House,2,R,Greg Walden,1223
+Harney,Burns 21,U.S. House,2,I,Write-ins,5
+Harney,Hines 25,U.S. House,2,I,Write-ins,0
+Harney,Rural 26,U.S. House,2,I,Write-ins,5
+Harney,Burns 21,Governor,,R,Dennis Richardson,601
+Harney,Hines 25,Governor,,R,Dennis Richardson,396
+Harney,Rural 26,Governor,,R,Dennis Richardson,1086
+Harney,Burns 21,Governor,,PROG,Chris Henry,6
+Harney,Hines 25,Governor,,PROG,Chris Henry,6
+Harney,Rural 26,Governor,,PROG,Chris Henry,14
+Harney,Burns 21,Governor,,C,Aaron Auer,22
+Harney,Hines 25,Governor,,C,Aaron Auer,15
+Harney,Rural 26,Governor,,C,Aaron Auer,18
+Harney,Burns 21,Governor,,D,John Kitzhaber,306
+Harney,Hines 25,Governor,,D,John Kitzhaber,181
+Harney,Rural 26,Governor,,D,John Kitzhaber,237
+Harney,Burns 21,Governor,,L,Paul Grad,22
+Harney,Hines 25,Governor,,L,Paul Grad,10
+Harney,Rural 26,Governor,,L,Paul Grad,7
+Harney,Burns 21,Governor,,PAC,Jason Levin,16
+Harney,Hines 25,Governor,,PAC,Jason Levin,6
+Harney,Rural 26,Governor,,PAC,Jason Levin,6
+Harney,Burns 21,Governor,,I,Write-ins,0
+Harney,Hines 25,Governor,,I,Write-ins,1
+Harney,Rural 26,Governor,,I,Write-ins,2
+Harney,Burns 21,State House,60,D,Peter Hall,185
+Harney,Hines 25,State House,60,D,Peter Hall,105
+Harney,Rural 26,State House,60,D,Peter Hall,122
+Harney,Burns 21,State House,60,R,Cliff Bentz,759
+Harney,Hines 25,State House,60,R,Cliff Bentz,507
+Harney,Rural 26,State House,60,R,Cliff Bentz,1247
+Harney,Burns 21,State House,60,I,Write-ins,0
+Harney,Hines 25,State House,60,I,Write-ins,1
+Harney,Rural 26,State House,60,I,Write-ins,4

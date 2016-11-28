@@ -1,1 +1,76 @@
-county,office,district,party,candidate,votesClatsop ,U.S. House,1,D,Dominic Hammon,53Columbia ,U.S. House,1,D,Dominic Hammon,87Multnomah ,U.S. House,1,D,Dominic Hammon,86Washington ,U.S. House,1,D,Dominic Hammon,560Yamhill ,U.S. House,1,D,Dominic Hammon,137Clatsop ,U.S. House,1,D,Suzanne Bonamici,2634Columbia ,U.S. House,1,D,Suzanne Bonamici,2909Multnomah ,U.S. House,1,D,Suzanne Bonamici,9566Washington ,U.S. House,1,D,Suzanne Bonamici,29382Yamhill ,U.S. House,1,D,Suzanne Bonamici,5230Clatsop ,U.S. House,1,D,Brad Witt,693Columbia ,U.S. House,1,D,Brad Witt,1629Multnomah ,U.S. House,1,D,Brad Witt,524Washington ,U.S. House,1,D,Brad Witt,2551Yamhill ,U.S. House,1,D,Brad Witt,606Clatsop ,U.S. House,1,D,Saba Ahmed,11Columbia ,U.S. House,1,D,Saba Ahmed,9Multnomah ,U.S. House,1,D,Saba Ahmed,28Washington ,U.S. House,1,D,Saba Ahmed,178Yamhill ,U.S. House,1,D,Saba Ahmed,24Clatsop ,U.S. House,1,D,Brad Avakian,681Columbia ,U.S. House,1,D,Brad Avakian,681Multnomah ,U.S. House,1,D,Brad Avakian,3084Washington ,U.S. House,1,D,Brad Avakian,11210Yamhill ,U.S. House,1,D,Brad Avakian,1307Clatsop ,U.S. House,1,D,Dan Strite,248Columbia ,U.S. House,1,D,Dan Strite,94Multnomah ,U.S. House,1,D,Dan Strite,83Washington ,U.S. House,1,D,Dan Strite,626Yamhill ,U.S. House,1,D,Dan Strite,161Clatsop ,U.S. House,1,D,Robert E. Lettin,9Columbia ,U.S. House,1,D,Robert E. Lettin,7Multnomah ,U.S. House,1,D,Robert E. Lettin,10Washington ,U.S. House,1,D,Robert E. Lettin,53Yamhill ,U.S. House,1,D,Robert E. Lettin,12Clatsop ,U.S. House,1,D,Todd Lee Ritter,18Columbia ,U.S. House,1,D,Todd Lee Ritter,58Multnomah ,U.S. House,1,D,Todd Lee Ritter,54Washington ,U.S. House,1,D,Todd Lee Ritter,440Yamhill ,U.S. House,1,D,Todd Lee Ritter,81Clatsop ,U.S. House,1,D,Misc.,20Columbia ,U.S. House,1,D,Misc.,53Multnomah ,U.S. House,1,D,Misc.,33Washington ,U.S. House,1,D,Misc.,314Yamhill ,U.S. House,1,D,Misc.,49Clatsop ,U.S. House,1,R,Lisa Michaels,222Columbia ,U.S. House,1,R,Lisa Michaels,409Multnomah ,U.S. House,1,R,Lisa Michaels,269Washington ,U.S. House,1,R,Lisa Michaels,3980Yamhill ,U.S. House,1,R,Lisa Michaels,859Clatsop ,U.S. House,1,R,D.R. Delgado-Morgan,54Columbia ,U.S. House,1,R,D.R. Delgado-Morgan,88Multnomah ,U.S. House,1,R,D.R. Delgado-Morgan,47Washington ,U.S. House,1,R,D.R. Delgado-Morgan,516Yamhill ,U.S. House,1,R,D.R. Delgado-Morgan,142Clatsop ,U.S. House,1,R,Pavel Goberman,85Columbia ,U.S. House,1,R,Pavel Goberman,154Multnomah ,U.S. House,1,R,Pavel Goberman,84Washington ,U.S. House,1,R,Pavel Goberman,1033Yamhill ,U.S. House,1,R,Pavel Goberman,301Clatsop ,U.S. House,1,R,Jim Greenfield,308Columbia ,U.S. House,1,R,Jim Greenfield,453Multnomah ,U.S. House,1,R,Jim Greenfield,369Washington ,U.S. House,1,R,Jim Greenfield,4241Yamhill ,U.S. House,1,R,Jim Greenfield,989Clatsop ,U.S. House,1,R,Rob Cornilles,2129Columbia ,U.S. House,1,R,Rob Cornilles,2292Multnomah ,U.S. House,1,R,Rob Cornilles,2696Washington ,U.S. House,1,R,Rob Cornilles,27058Yamhill ,U.S. House,1,R,Rob Cornilles,6052Clatsop ,U.S. House,1,R,Misc.,50Columbia ,U.S. House,1,R,Misc.,50Multnomah ,U.S. House,1,R,Misc.,37Washington ,U.S. House,1,R,Misc.,325Yamhill ,U.S. House,1,R,Misc.,57
+county,office,district,party,candidate,votes
+Clatsop ,U.S. House,1,D,Dominic Hammon,53
+Columbia ,U.S. House,1,D,Dominic Hammon,87
+Multnomah ,U.S. House,1,D,Dominic Hammon,86
+Washington ,U.S. House,1,D,Dominic Hammon,560
+Yamhill ,U.S. House,1,D,Dominic Hammon,137
+Clatsop ,U.S. House,1,D,Suzanne Bonamici,2634
+Columbia ,U.S. House,1,D,Suzanne Bonamici,2909
+Multnomah ,U.S. House,1,D,Suzanne Bonamici,9566
+Washington ,U.S. House,1,D,Suzanne Bonamici,29382
+Yamhill ,U.S. House,1,D,Suzanne Bonamici,5230
+Clatsop ,U.S. House,1,D,Brad Witt,693
+Columbia ,U.S. House,1,D,Brad Witt,1629
+Multnomah ,U.S. House,1,D,Brad Witt,524
+Washington ,U.S. House,1,D,Brad Witt,2551
+Yamhill ,U.S. House,1,D,Brad Witt,606
+Clatsop ,U.S. House,1,D,Saba Ahmed,11
+Columbia ,U.S. House,1,D,Saba Ahmed,9
+Multnomah ,U.S. House,1,D,Saba Ahmed,28
+Washington ,U.S. House,1,D,Saba Ahmed,178
+Yamhill ,U.S. House,1,D,Saba Ahmed,24
+Clatsop ,U.S. House,1,D,Brad Avakian,681
+Columbia ,U.S. House,1,D,Brad Avakian,681
+Multnomah ,U.S. House,1,D,Brad Avakian,3084
+Washington ,U.S. House,1,D,Brad Avakian,11210
+Yamhill ,U.S. House,1,D,Brad Avakian,1307
+Clatsop ,U.S. House,1,D,Dan Strite,248
+Columbia ,U.S. House,1,D,Dan Strite,94
+Multnomah ,U.S. House,1,D,Dan Strite,83
+Washington ,U.S. House,1,D,Dan Strite,626
+Yamhill ,U.S. House,1,D,Dan Strite,161
+Clatsop ,U.S. House,1,D,Robert E. Lettin,9
+Columbia ,U.S. House,1,D,Robert E. Lettin,7
+Multnomah ,U.S. House,1,D,Robert E. Lettin,10
+Washington ,U.S. House,1,D,Robert E. Lettin,53
+Yamhill ,U.S. House,1,D,Robert E. Lettin,12
+Clatsop ,U.S. House,1,D,Todd Lee Ritter,18
+Columbia ,U.S. House,1,D,Todd Lee Ritter,58
+Multnomah ,U.S. House,1,D,Todd Lee Ritter,54
+Washington ,U.S. House,1,D,Todd Lee Ritter,440
+Yamhill ,U.S. House,1,D,Todd Lee Ritter,81
+Clatsop ,U.S. House,1,D,Misc.,20
+Columbia ,U.S. House,1,D,Misc.,53
+Multnomah ,U.S. House,1,D,Misc.,33
+Washington ,U.S. House,1,D,Misc.,314
+Yamhill ,U.S. House,1,D,Misc.,49
+Clatsop ,U.S. House,1,R,Lisa Michaels,222
+Columbia ,U.S. House,1,R,Lisa Michaels,409
+Multnomah ,U.S. House,1,R,Lisa Michaels,269
+Washington ,U.S. House,1,R,Lisa Michaels,3980
+Yamhill ,U.S. House,1,R,Lisa Michaels,859
+Clatsop ,U.S. House,1,R,D.R. Delgado-Morgan,54
+Columbia ,U.S. House,1,R,D.R. Delgado-Morgan,88
+Multnomah ,U.S. House,1,R,D.R. Delgado-Morgan,47
+Washington ,U.S. House,1,R,D.R. Delgado-Morgan,516
+Yamhill ,U.S. House,1,R,D.R. Delgado-Morgan,142
+Clatsop ,U.S. House,1,R,Pavel Goberman,85
+Columbia ,U.S. House,1,R,Pavel Goberman,154
+Multnomah ,U.S. House,1,R,Pavel Goberman,84
+Washington ,U.S. House,1,R,Pavel Goberman,1033
+Yamhill ,U.S. House,1,R,Pavel Goberman,301
+Clatsop ,U.S. House,1,R,Jim Greenfield,308
+Columbia ,U.S. House,1,R,Jim Greenfield,453
+Multnomah ,U.S. House,1,R,Jim Greenfield,369
+Washington ,U.S. House,1,R,Jim Greenfield,4241
+Yamhill ,U.S. House,1,R,Jim Greenfield,989
+Clatsop ,U.S. House,1,R,Rob Cornilles,2129
+Columbia ,U.S. House,1,R,Rob Cornilles,2292
+Multnomah ,U.S. House,1,R,Rob Cornilles,2696
+Washington ,U.S. House,1,R,Rob Cornilles,27058
+Yamhill ,U.S. House,1,R,Rob Cornilles,6052
+Clatsop ,U.S. House,1,R,Misc.,50
+Columbia ,U.S. House,1,R,Misc.,50
+Multnomah ,U.S. House,1,R,Misc.,37
+Washington ,U.S. House,1,R,Misc.,325
+Yamhill ,U.S. House,1,R,Misc.,57

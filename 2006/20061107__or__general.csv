@@ -1,1 +1,863 @@
-county,office,district,party,candidate,votesClatsop ,U.S. House,1,R,Derrick Kitts,4367Columbia ,U.S. House,1,R,Derrick Kitts,6569Multnomah ,U.S. House,1,R,Derrick Kitts,5546Washington ,U.S. House,1,R,Derrick Kitts,60831Yamhill ,U.S. House,1,R,Derrick Kitts,13591Clatsop ,U.S. House,1,D,David Wu,9939Columbia ,U.S. House,1,D,David Wu,11496Multnomah ,U.S. House,1,D,David Wu,29199Washington ,U.S. House,1,D,David Wu,101199Yamhill ,U.S. House,1,D,David Wu,17576Clatsop ,U.S. House,1,C,Dean Wolf,234Columbia ,U.S. House,1,C,Dean Wolf,649Multnomah ,U.S. House,1,C,Dean Wolf,236Washington ,U.S. House,1,C,Dean Wolf,2565Yamhill ,U.S. House,1,C,Dean Wolf,686Clatsop ,U.S. House,1,L,Drake Davis,223Columbia ,U.S. House,1,L,Drake Davis,336Multnomah ,U.S. House,1,L,Drake Davis,625Washington ,U.S. House,1,L,Drake Davis,2790Yamhill ,U.S. House,1,L,Drake Davis,523Clatsop ,U.S. House,1,,Misc.,10Columbia ,U.S. House,1,,Misc.,30Multnomah ,U.S. House,1,,Misc.,99Washington ,U.S. House,1,,Misc.,264Yamhill ,U.S. House,1,,Misc.,44Baker ,U.S. House,2,C,Jack Alan Brown Jr.,254Crook ,U.S. House,2,C,Jack Alan Brown Jr.,219Deschutes ,U.S. House,2,C,Jack Alan Brown Jr.,1102Gilliam ,U.S. House,2,C,Jack Alan Brown Jr.,30Grant ,U.S. House,2,C,Jack Alan Brown Jr.,110Harney ,U.S. House,2,C,Jack Alan Brown Jr.,89Hood River ,U.S. House,2,C,Jack Alan Brown Jr.,117Jackson ,U.S. House,2,C,Jack Alan Brown Jr.,1799Jefferson ,U.S. House,2,C,Jack Alan Brown Jr.,172Josephine ,U.S. House,2,C,Jack Alan Brown Jr.,1006Klamath ,U.S. House,2,C,Jack Alan Brown Jr.,691Lake ,U.S. House,2,C,Jack Alan Brown Jr.,90Malheur ,U.S. House,2,C,Jack Alan Brown Jr.,242Morrow ,U.S. House,2,C,Jack Alan Brown Jr.,107Sherman ,U.S. House,2,C,Jack Alan Brown Jr.,23Umatilla ,U.S. House,2,C,Jack Alan Brown Jr.,538Union ,U.S. House,2,C,Jack Alan Brown Jr.,247Wallowa ,U.S. House,2,C,Jack Alan Brown Jr.,90Wasco ,U.S. House,2,C,Jack Alan Brown Jr.,241Wheeler ,U.S. House,2,C,Jack Alan Brown Jr.,26Baker ,U.S. House,2,D,Carol Voisin,1789Crook ,U.S. House,2,D,Carol Voisin,1859Deschutes ,U.S. House,2,D,Carol Voisin,19409Gilliam ,U.S. House,2,D,Carol Voisin,181Grant ,U.S. House,2,D,Carol Voisin,457Harney ,U.S. House,2,D,Carol Voisin,488Hood River ,U.S. House,2,D,Carol Voisin,2772Jackson ,U.S. House,2,D,Carol Voisin,28684Jefferson ,U.S. House,2,D,Carol Voisin,1826Josephine ,U.S. House,2,D,Carol Voisin,5993Klamath ,U.S. House,2,D,Carol Voisin,5051Lake ,U.S. House,2,D,Carol Voisin,518Malheur ,U.S. House,2,D,Carol Voisin,1727Morrow ,U.S. House,2,D,Carol Voisin,664Sherman ,U.S. House,2,D,Carol Voisin,197Umatilla ,U.S. House,2,D,Carol Voisin,4718Union ,U.S. House,2,D,Carol Voisin,2325Wallowa ,U.S. House,2,D,Carol Voisin,839Wasco ,U.S. House,2,D,Carol Voisin,2831Wheeler ,U.S. House,2,D,Carol Voisin,156Baker ,U.S. House,2,R,Greg Walden,5214Crook ,U.S. House,2,R,Greg Walden,6107Deschutes ,U.S. House,2,R,Greg Walden,36124Gilliam ,U.S. House,2,R,Greg Walden,755Grant ,U.S. House,2,R,Greg Walden,2757Harney ,U.S. House,2,R,Greg Walden,2386Hood River ,U.S. House,2,R,Greg Walden,4477Jackson ,U.S. House,2,R,Greg Walden,45603Jefferson ,U.S. House,2,R,Greg Walden,4549Josephine ,U.S. House,2,R,Greg Walden,14509Klamath ,U.S. House,2,R,Greg Walden,17718Lake ,U.S. House,2,R,Greg Walden,2434Malheur ,U.S. House,2,R,Greg Walden,6006Morrow ,U.S. House,2,R,Greg Walden,2264Sherman ,U.S. House,2,R,Greg Walden,686Umatilla ,U.S. House,2,R,Greg Walden,13272Union ,U.S. House,2,R,Greg Walden,7300Wallowa ,U.S. House,2,R,Greg Walden,2867Wasco ,U.S. House,2,R,Greg Walden,5966Wheeler ,U.S. House,2,R,Greg Walden,535Baker ,U.S. House,2,,Misc.,9Crook ,U.S. House,2,,Misc.,15Deschutes ,U.S. House,2,,Misc.,106Gilliam ,U.S. House,2,,Misc.,16Grant ,U.S. House,2,,Misc.,2Harney ,U.S. House,2,,Misc.,4Hood River ,U.S. House,2,,Misc.,10Jackson ,U.S. House,2,,Misc.,124Jefferson ,U.S. House,2,,Misc.,9Josephine ,U.S. House,2,,Misc.,39Klamath ,U.S. House,2,,Misc.,39Lake ,U.S. House,2,,Misc.,38Malheur ,U.S. House,2,,Misc.,13Morrow ,U.S. House,2,,Misc.,3Sherman ,U.S. House,2,,Misc.,16Umatilla ,U.S. House,2,,Misc.,17Union ,U.S. House,2,,Misc.,19Wallowa ,U.S. House,2,,Misc.,5Wasco ,U.S. House,2,,Misc.,20Wheeler ,U.S. House,2,,Misc.,9Clackamas ,U.S. House,3,D,Earl Blumenauer,28365Multnomah ,U.S. House,3,D,Earl Blumenauer,158015Clackamas ,U.S. House,3,C,David Brownlow,1735Multnomah ,U.S. House,3,C,David Brownlow,5268Clackamas ,U.S. House,3,R,Bruce Broussard,18730Multnomah ,U.S. House,3,R,Bruce Broussard,40799Clackamas ,U.S. House,3,,Misc.,78Multnomah ,U.S. House,3,,Misc.,620Benton ,U.S. House,4,R,Jim Feldkamp,6726Coos ,U.S. House,4,R,Jim Feldkamp,10909Curry ,U.S. House,4,R,Jim Feldkamp,4650Douglas ,U.S. House,4,R,Jim Feldkamp,20989Josephine ,U.S. House,4,R,Jim Feldkamp,5676Lane ,U.S. House,4,R,Jim Feldkamp,43079Linn ,U.S. House,4,R,Jim Feldkamp,17076Benton ,U.S. House,4,D,Peter A. DeFazio,15769Coos ,U.S. House,4,D,Peter A. DeFazio,14163Curry ,U.S. House,4,D,Peter A. DeFazio,5433Douglas ,U.S. House,4,D,Peter A. DeFazio,21681Josephine ,U.S. House,4,D,Peter A. DeFazio,4984Lane ,U.S. House,4,D,Peter A. DeFazio,96272Linn ,U.S. House,4,D,Peter A. DeFazio,22305Benton ,U.S. House,4,,Misc.,30Coos ,U.S. House,4,,Misc.,38Curry ,U.S. House,4,,Misc.,17Douglas ,U.S. House,4,,Misc.,48Josephine ,U.S. House,4,,Misc.,38Lane ,U.S. House,4,,Misc.,311Linn ,U.S. House,4,,Misc.,50Benton ,U.S. House,5,R,Mike Erickson,4741Clackamas ,U.S. House,5,R,Mike Erickson,40726Lincoln ,U.S. House,5,R,Mike Erickson,7013Marion ,U.S. House,5,R,Mike Erickson,43872Multnomah ,U.S. House,5,R,Mike Erickson,3236Polk ,U.S. House,5,R,Mike Erickson,12501Tillamook ,U.S. House,5,R,Mike Erickson,4335Benton ,U.S. House,5,C,Douglas Patterson,115Clackamas ,U.S. House,5,C,Douglas Patterson,1342Lincoln ,U.S. House,5,C,Douglas Patterson,364Marion ,U.S. House,5,C,Douglas Patterson,1654Multnomah ,U.S. House,5,C,Douglas Patterson,97Polk ,U.S. House,5,C,Douglas Patterson,408Tillamook ,U.S. House,5,C,Douglas Patterson,180Benton ,U.S. House,5,P,Paul Aranas,343Clackamas ,U.S. House,5,P,Paul Aranas,1090Lincoln ,U.S. House,5,P,Paul Aranas,486Marion ,U.S. House,5,P,Paul Aranas,1347Multnomah ,U.S. House,5,P,Paul Aranas,309Polk ,U.S. House,5,P,Paul Aranas,431Tillamook ,U.S. House,5,P,Paul Aranas,188Benton ,U.S. House,5,D,Darlene Hooley,7076Clackamas ,U.S. House,5,D,Darlene Hooley,49926Lincoln ,U.S. House,5,D,Darlene Hooley,11606Marion ,U.S. House,5,D,Darlene Hooley,49028Multnomah ,U.S. House,5,D,Darlene Hooley,9537Polk ,U.S. House,5,D,Darlene Hooley,13774Tillamook ,U.S. House,5,D,Darlene Hooley,6026Benton ,U.S. House,5,,Misc.,13Clackamas ,U.S. House,5,,Misc.,119Lincoln ,U.S. House,5,,Misc.,14Marion ,U.S. House,5,,Misc.,263Multnomah ,U.S. House,5,,Misc.,18Polk ,U.S. House,5,,Misc.,33Tillamook ,U.S. House,5,,Misc.,23Baker ,Governor,,P,Joe Keating,71Benton ,Governor,,P,Joe Keating,735Clackamas ,Governor,,P,Joe Keating,1373Clatsop ,Governor,,P,Joe Keating,254Columbia ,Governor,,P,Joe Keating,226Coos ,Governor,,P,Joe Keating,416Crook ,Governor,,P,Joe Keating,69Curry ,Governor,,P,Joe Keating,165Deschutes ,Governor,,P,Joe Keating,784Douglas ,Governor,,P,Joe Keating,506Gilliam ,Governor,,P,Joe Keating,5Grant ,Governor,,P,Joe Keating,20Harney ,Governor,,P,Joe Keating,15Hood River ,Governor,,P,Joe Keating,124Jackson ,Governor,,P,Joe Keating,1281Jefferson ,Governor,,P,Joe Keating,49Josephine ,Governor,,P,Joe Keating,525Klamath ,Governor,,P,Joe Keating,262Lake ,Governor,,P,Joe Keating,32Lane ,Governor,,P,Joe Keating,2770Lincoln ,Governor,,P,Joe Keating,420Linn ,Governor,,P,Joe Keating,482Malheur ,Governor,,P,Joe Keating,75Marion ,Governor,,P,Joe Keating,1083Morrow ,Governor,,P,Joe Keating,23Multnomah ,Governor,,P,Joe Keating,5033Polk ,Governor,,P,Joe Keating,312Sherman ,Governor,,P,Joe Keating,10Tillamook ,Governor,,P,Joe Keating,136Umatilla ,Governor,,P,Joe Keating,193Union ,Governor,,P,Joe Keating,128Wallowa ,Governor,,P,Joe Keating,38Wasco ,Governor,,P,Joe Keating,121Washington ,Governor,,P,Joe Keating,1954Wheeler ,Governor,,P,Joe Keating,9Yamhill ,Governor,,P,Joe Keating,331Baker ,Governor,,D,Ted Kulongoski,2508Benton ,Governor,,D,Ted Kulongoski,20661Clackamas ,Governor,,D,Ted Kulongoski,70131Clatsop ,Governor,,D,Ted Kulongoski,7936Columbia ,Governor,,D,Ted Kulongoski,9291Coos ,Governor,,D,Ted Kulongoski,10977Crook ,Governor,,D,Ted Kulongoski,2518Curry ,Governor,,D,Ted Kulongoski,4162Deschutes ,Governor,,D,Ted Kulongoski,23631Douglas ,Governor,,D,Ted Kulongoski,15123Gilliam ,Governor,,D,Ted Kulongoski,388Grant ,Governor,,D,Ted Kulongoski,783Harney ,Governor,,D,Ted Kulongoski,643Hood River ,Governor,,D,Ted Kulongoski,4352Jackson ,Governor,,D,Ted Kulongoski,33329Jefferson ,Governor,,D,Ted Kulongoski,2776Josephine ,Governor,,D,Ted Kulongoski,11900Klamath ,Governor,,D,Ted Kulongoski,6592Lake ,Governor,,D,Ted Kulongoski,723Lane ,Governor,,D,Ted Kulongoski,81550Lincoln ,Governor,,D,Ted Kulongoski,10145Linn ,Governor,,D,Ted Kulongoski,15588Malheur ,Governor,,D,Ted Kulongoski,2357Marion ,Governor,,D,Ted Kulongoski,45304Morrow ,Governor,,D,Ted Kulongoski,1043Multnomah ,Governor,,D,Ted Kulongoski,177797Polk ,Governor,,D,Ted Kulongoski,12620Sherman ,Governor,,D,Ted Kulongoski,331Tillamook ,Governor,,D,Ted Kulongoski,5356Umatilla ,Governor,,D,Ted Kulongoski,7182Union ,Governor,,D,Ted Kulongoski,3961Wallowa ,Governor,,D,Ted Kulongoski,1253Wasco ,Governor,,D,Ted Kulongoski,4307Washington ,Governor,,D,Ted Kulongoski,88292Wheeler ,Governor,,D,Ted Kulongoski,233Yamhill ,Governor,,D,Ted Kulongoski,14043Baker ,Governor,,L,Richard Morley,71Benton ,Governor,,L,Richard Morley,456Clackamas ,Governor,,L,Richard Morley,1335Clatsop ,Governor,,L,Richard Morley,181Columbia ,Governor,,L,Richard Morley,238Coos ,Governor,,L,Richard Morley,410Crook ,Governor,,L,Richard Morley,98Curry ,Governor,,L,Richard Morley,158Deschutes ,Governor,,L,Richard Morley,682Douglas ,Governor,,L,Richard Morley,639Gilliam ,Governor,,L,Richard Morley,10Grant ,Governor,,L,Richard Morley,39Harney ,Governor,,L,Richard Morley,36Hood River ,Governor,,L,Richard Morley,63Jackson ,Governor,,L,Richard Morley,1017Jefferson ,Governor,,L,Richard Morley,81Josephine ,Governor,,L,Richard Morley,474Klamath ,Governor,,L,Richard Morley,304Lake ,Governor,,L,Richard Morley,51Lane ,Governor,,L,Richard Morley,1920Lincoln ,Governor,,L,Richard Morley,271Linn ,Governor,,L,Richard Morley,518Malheur ,Governor,,L,Richard Morley,94Marion ,Governor,,L,Richard Morley,962Morrow ,Governor,,L,Richard Morley,33Multnomah ,Governor,,L,Richard Morley,3010Polk ,Governor,,L,Richard Morley,314Sherman ,Governor,,L,Richard Morley,10Tillamook ,Governor,,L,Richard Morley,109Umatilla ,Governor,,L,Richard Morley,243Union ,Governor,,L,Richard Morley,114Wallowa ,Governor,,L,Richard Morley,57Wasco ,Governor,,L,Richard Morley,117Washington ,Governor,,L,Richard Morley,2275Wheeler ,Governor,,L,Richard Morley,13Yamhill ,Governor,,L,Richard Morley,395Baker ,Governor,,C,Mary Starrett,362Benton ,Governor,,C,Mary Starrett,559Clackamas ,Governor,,C,Mary Starrett,6405Clatsop ,Governor,,C,Mary Starrett,666Columbia ,Governor,,C,Mary Starrett,1577Coos ,Governor,,C,Mary Starrett,1215Crook ,Governor,,C,Mary Starrett,313Curry ,Governor,,C,Mary Starrett,282Deschutes ,Governor,,C,Mary Starrett,1368Douglas ,Governor,,C,Mary Starrett,1384Gilliam ,Governor,,C,Mary Starrett,53Grant ,Governor,,C,Mary Starrett,118Harney ,Governor,,C,Mary Starrett,119Hood River ,Governor,,C,Mary Starrett,331Jackson ,Governor,,C,Mary Starrett,2183Jefferson ,Governor,,C,Mary Starrett,278Josephine ,Governor,,C,Mary Starrett,1398Klamath ,Governor,,C,Mary Starrett,823Lake ,Governor,,C,Mary Starrett,132Lane ,Governor,,C,Mary Starrett,2895Lincoln ,Governor,,C,Mary Starrett,730Linn ,Governor,,C,Mary Starrett,1769Malheur ,Governor,,C,Mary Starrett,273Marion ,Governor,,C,Mary Starrett,4968Morrow ,Governor,,C,Mary Starrett,178Multnomah ,Governor,,C,Mary Starrett,8022Polk ,Governor,,C,Mary Starrett,1351Sherman ,Governor,,C,Mary Starrett,54Tillamook ,Governor,,C,Mary Starrett,473Umatilla ,Governor,,C,Mary Starrett,775Union ,Governor,,C,Mary Starrett,403Wallowa ,Governor,,C,Mary Starrett,112Wasco ,Governor,,C,Mary Starrett,547Washington ,Governor,,C,Mary Starrett,6133Wheeler ,Governor,,C,Mary Starrett,52Yamhill ,Governor,,C,Mary Starrett,1928Baker ,Governor,,R,Ron Saxton,4338Benton ,Governor,,R,Ron Saxton,12736Clackamas ,Governor,,R,Ron Saxton,65795Clatsop ,Governor,,R,Ron Saxton,5886Columbia ,Governor,,R,Ron Saxton,8032Coos ,Governor,,R,Ron Saxton,12103Crook ,Governor,,R,Ron Saxton,5333Curry ,Governor,,R,Ron Saxton,5332Deschutes ,Governor,,R,Ron Saxton,31256Douglas ,Governor,,R,Ron Saxton,24896Gilliam ,Governor,,R,Ron Saxton,535Grant ,Governor,,R,Ron Saxton,2401Harney ,Governor,,R,Ron Saxton,2186Hood River ,Governor,,R,Ron Saxton,2554Jackson ,Governor,,R,Ron Saxton,39055Jefferson ,Governor,,R,Ron Saxton,3511Josephine ,Governor,,R,Ron Saxton,18321Klamath ,Governor,,R,Ron Saxton,15651Lake ,Governor,,R,Ron Saxton,2156Lane ,Governor,,R,Ron Saxton,50290Lincoln ,Governor,,R,Ron Saxton,8072Linn ,Governor,,R,Ron Saxton,21411Malheur ,Governor,,R,Ron Saxton,5296Marion ,Governor,,R,Ron Saxton,44474Morrow ,Governor,,R,Ron Saxton,1797Multnomah ,Governor,,R,Ron Saxton,65488Polk ,Governor,,R,Ron Saxton,12643Sherman ,Governor,,R,Ron Saxton,529Tillamook ,Governor,,R,Ron Saxton,4745Umatilla ,Governor,,R,Ron Saxton,10554Union ,Governor,,R,Ron Saxton,5473Wallowa ,Governor,,R,Ron Saxton,2335Wasco ,Governor,,R,Ron Saxton,4057Washington ,Governor,,R,Ron Saxton,73907Wheeler ,Governor,,R,Ron Saxton,422Yamhill ,Governor,,R,Ron Saxton,16178Baker ,Governor,,,Misc.,11Benton ,Governor,,,Misc.,58Clackamas ,Governor,,,Misc.,198Clatsop ,Governor,,,Misc.,17Columbia ,Governor,,,Misc.,38Coos ,Governor,,,Misc.,31Crook ,Governor,,,Misc.,22Curry ,Governor,,,Misc.,31Deschutes ,Governor,,,Misc.,122Douglas ,Governor,,,Misc.,64Gilliam ,Governor,,,Misc.,6Grant ,Governor,,,Misc.,6Harney ,Governor,,,Misc.,8Hood River ,Governor,,,Misc.,10Jackson ,Governor,,,Misc.,192Jefferson ,Governor,,,Misc.,13Josephine ,Governor,,,Misc.,86Klamath ,Governor,,,Misc.,38Lake ,Governor,,,Misc.,14Lane ,Governor,,,Misc.,422Lincoln ,Governor,,,Misc.,20Linn ,Governor,,,Misc.,71Malheur ,Governor,,,Misc.,6Marion ,Governor,,,Misc.,335Morrow ,Governor,,,Misc.,5Multnomah ,Governor,,,Misc.,454Polk ,Governor,,,Misc.,64Sherman ,Governor,,,Misc.,2Tillamook ,Governor,,,Misc.,19Umatilla ,Governor,,,Misc.,22Union ,Governor,,,Misc.,19Wallowa ,Governor,,,Misc.,3Wasco ,Governor,,,Misc.,15Washington ,Governor,,,Misc.,222Wheeler ,Governor,,,Misc.,5Yamhill ,Governor,,,Misc.,235Jackson ,State Senate,3,D,Alan Bates,30552Jackson ,State Senate,3,R,Lynn Aiello,17321Jackson ,State Senate,3,,Misc.,92Douglas ,State Senate,4,R,Bill Eddie,6647Lane ,State Senate,4,R,Bill Eddie,10680Douglas ,State Senate,4,D,Floyd Prozanski,5425Lane ,State Senate,4,D,Floyd Prozanski,24977Douglas ,State Senate,4,,Misc.,12Lane ,State Senate,4,,Misc.,84Lane ,State Senate,6,R,Renee Lindsay,12124Linn ,State Senate,6,R,Renee Lindsay,2629Lane ,State Senate,6,D,Bill Morrisette,28135Linn ,State Senate,6,D,Bill Morrisette,2026Lane ,State Senate,6,,Misc.,94Linn ,State Senate,6,,Misc.,5Lane ,State Senate,7,R,Jim Torrey,23962Lane ,State Senate,7,D,Vicki L. Walker,25667Lane ,State Senate,7,,Misc.,134Benton ,State Senate,8,D,Mario E. Magana,13670Linn ,State Senate,8,D,Mario E. Magana,5097Benton ,State Senate,8,R,Frank Morse,15659Linn ,State Senate,8,R,Frank Morse,11468Benton ,State Senate,8,,Misc.,70Linn ,State Senate,8,,Misc.,64Marion ,State Senate,10,D,Paul Evans,14469Polk ,State Senate,10,D,Paul Evans,6763Marion ,State Senate,10,R,Jackie Winters,17855Polk ,State Senate,10,R,Jackie Winters,6786Marion ,State Senate,10,,Misc.,60Polk ,State Senate,10,,Misc.,39Marion ,State Senate,11,D,Peter Courtney,15593Marion ,State Senate,11,R,Jared Thatcher,10814Marion ,State Senate,11,C,Keith Humphrey,767Marion ,State Senate,11,,Misc.,49Clackamas ,State Senate,13,R,Larry George,3588Marion ,State Senate,13,R,Larry George,7601Washington ,State Senate,13,R,Larry George,10313Yamhill ,State Senate,13,R,Larry George,5002Clackamas ,State Senate,13,D,Rick Ross,2794Marion ,State Senate,13,D,Rick Ross,5084Washington ,State Senate,13,D,Rick Ross,7595Yamhill ,State Senate,13,D,Rick Ross,2845Clackamas ,State Senate,13,,Misc.,9Marion ,State Senate,13,,Misc.,31Washington ,State Senate,13,,Misc.,57Yamhill ,State Senate,13,,Misc.,20Washington ,State Senate,15,D,John Napolitano,16308Washington ,State Senate,15,R,Bruce Starr,19973Washington ,State Senate,15,,Misc.,71Clatsop ,State Senate,16,R,Don Fell,3852Columbia ,State Senate,16,R,Don Fell,6155Multnomah ,State Senate,16,R,Don Fell,145Tillamook ,State Senate,16,R,Don Fell,3707Washington ,State Senate,16,R,Don Fell,2181Clatsop ,State Senate,16,D,Elizabeth (Betsy) Johnson,10412Columbia ,State Senate,16,D,Elizabeth (Betsy) Johnson,11935Multnomah ,State Senate,16,D,Elizabeth (Betsy) Johnson,310Tillamook ,State Senate,16,D,Elizabeth (Betsy) Johnson,6121Washington ,State Senate,16,D,Elizabeth (Betsy) Johnson,1867Clatsop ,State Senate,16,C,Robert J. Simmering,297Columbia ,State Senate,16,C,Robert J. Simmering,748Multnomah ,State Senate,16,C,Robert J. Simmering,9Tillamook ,State Senate,16,C,Robert J. Simmering,283Washington ,State Senate,16,C,Robert J. Simmering,92Clatsop ,State Senate,16,,Misc.,19Columbia ,State Senate,16,,Misc.,37Multnomah ,State Senate,16,,Misc.,5Tillamook ,State Senate,16,,Misc.,16Washington ,State Senate,16,,Misc.,8Multnomah ,State Senate,17,R,Piotr Kuklinski,2192Washington ,State Senate,17,R,Piotr Kuklinski,11305Multnomah ,State Senate,17,L,Richard Whitehead,369Washington ,State Senate,17,L,Richard Whitehead,1076Multnomah ,State Senate,17,C,John R. Pivarnik,97Washington ,State Senate,17,C,John R. Pivarnik,274Multnomah ,State Senate,17,D,Brad Avakian,10315Washington ,State Senate,17,D,Brad Avakian,21297Multnomah ,State Senate,17,,Misc.,23Washington ,State Senate,17,,Misc.,66Clackamas ,State Senate,19,D,Richard Devlin,19414Multnomah ,State Senate,19,D,Richard Devlin,6774Washington ,State Senate,19,D,Richard Devlin,4775Clackamas ,State Senate,19,L,Marc Delphine,717Multnomah ,State Senate,19,L,Marc Delphine,252Washington ,State Senate,19,L,Marc Delphine,249Clackamas ,State Senate,19,R,David Newell,12559Multnomah ,State Senate,19,R,David Newell,2174Washington ,State Senate,19,R,David Newell,3566Clackamas ,State Senate,19,,Misc.,31Multnomah ,State Senate,19,,Misc.,24Washington ,State Senate,19,,Misc.,10Clackamas ,State Senate,20,D,Kurt Schrader,28530Clackamas ,State Senate,20,,Misc.,1154Clackamas ,State Senate,24,N,Ron McCarty,147Multnomah ,State Senate,24,N,Ron McCarty,2506Clackamas ,State Senate,24,D,Rod Monroe,1902Multnomah ,State Senate,24,D,Rod Monroe,15402Clackamas ,State Senate,24,R,T.J. Reilly,2879Multnomah ,State Senate,24,R,T.J. Reilly,12604Clackamas ,State Senate,24,,Misc.,5Multnomah ,State Senate,24,,Misc.,80Clackamas ,State Senate,26,R,Carol York,14529Hood River ,State Senate,26,R,Carol York,2583Multnomah ,State Senate,26,R,Carol York,1852Clackamas ,State Senate,26,D,Rick Metsger,18183Hood River ,State Senate,26,D,Rick Metsger,4728Multnomah ,State Senate,26,D,Rick Metsger,2272Clackamas ,State Senate,26,,Misc.,62Hood River ,State Senate,26,,Misc.,6Multnomah ,State Senate,26,,Misc.,13Coos ,State House,1,L,Robert Taylor,2244Curry ,State House,1,L,Robert Taylor,2465Douglas ,State House,1,L,Robert Taylor,1152Coos ,State House,1,R,Wayne Krieger,6243Curry ,State House,1,R,Wayne Krieger,6825Douglas ,State House,1,R,Wayne Krieger,3668Coos ,State House,1,,Misc.,66Curry ,State House,1,,Misc.,89Douglas ,State House,1,,Misc.,27Douglas ,State House,2,R,Susan Morgan,15873Jackson ,State House,2,R,Susan Morgan,707Josephine ,State House,2,R,Susan Morgan,382Douglas ,State House,2,,Misc.,393Jackson ,State House,2,,Misc.,32Josephine ,State House,2,,Misc.,28Josephine ,State House,3,D,Howard Owens,8645Josephine ,State House,3,R,Ron Maurer,14394Josephine ,State House,3,,Misc.,47Jackson ,State House,4,D,Richard Koopmans,4823Josephine ,State House,4,D,Richard Koopmans,2391Jackson ,State House,4,R,Dennis Richardson,11521Josephine ,State House,4,R,Dennis Richardson,5083Jackson ,State House,4,,Misc.,40Josephine ,State House,4,,Misc.,31Jackson ,State House,5,D,Peter Buckley,19310Jackson ,State House,5,,Misc.,496Jackson ,State House,6,R,Sal Esquivel,11423Jackson ,State House,6,D,Mike Moran,10541Jackson ,State House,6,,Misc.,43Douglas ,State House,7,R,Bruce Hanna,9129Lane ,State House,7,R,Bruce Hanna,6376Douglas ,State House,7,,Misc.,216Lane ,State House,7,,Misc.,448Lane ,State House,8,D,Paul R. Holvey,18481Lane ,State House,8,R,Andrew Hill,5460Lane ,State House,8,,Misc.,63Coos ,State House,9,R,Al Pearn,6282Douglas ,State House,9,R,Al Pearn,1000Lane ,State House,9,R,Al Pearn,2511Coos ,State House,9,D,Arnie Roblan,9054Douglas ,State House,9,D,Arnie Roblan,1310Lane ,State House,9,D,Arnie Roblan,2976Coos ,State House,9,,Misc.,22Douglas ,State House,9,,Misc.,2Lane ,State House,9,,Misc.,8Lane ,State House,10,D,Jean Cowan,2635Lincoln ,State House,10,D,Jean Cowan,9931Polk ,State House,10,D,Jean Cowan,181Tillamook ,State House,10,D,Jean Cowan,0Yamhill ,State House,10,D,Jean Cowan,157Lane ,State House,10,R,Alan Brown,2244Lincoln ,State House,10,R,Alan Brown,9418Polk ,State House,10,R,Alan Brown,183Tillamook ,State House,10,R,Alan Brown,1Yamhill ,State House,10,R,Alan Brown,266Lane ,State House,10,,Misc.,12Lincoln ,State House,10,,Misc.,48Polk ,State House,10,,Misc.,7Tillamook ,State House,10,,Misc.,0Yamhill ,State House,10,,Misc.,1Lane ,State House,11,D,Phil Barnhart,14262Linn ,State House,11,D,Phil Barnhart,1944Lane ,State House,11,R,Jim Oakley,7362Linn ,State House,11,R,Jim Oakley,2647Lane ,State House,11,,Misc.,44Linn ,State House,11,,Misc.,13Lane ,State House,12,D,Elizabeth Terry Beyer,11015Lane ,State House,12,R,Bill Lioio,6093Lane ,State House,12,,Misc.,36Lane ,State House,13,D,Nancy Nathanson,17505Lane ,State House,13,R,Monica Johnson,6622Lane ,State House,13,,Misc.,73Lane ,State House,14,D,Chris Edwards,12320Lane ,State House,14,R,Debi Farr,11257Lane ,State House,14,,Misc.,56Benton ,State House,15,R,Andy Olson,4653Linn ,State House,15,R,Andy Olson,11664Benton ,State House,15,D,Sam H.W. Sappington,2542Linn ,State House,15,D,Sam H.W. Sappington,5092Benton ,State House,15,,Misc.,13Linn ,State House,15,,Misc.,34Benton ,State House,16,R,Robin M. Brown,7250Linn ,State House,16,R,Robin M. Brown,2Benton ,State House,16,D,Sara A. Gelser,15058Linn ,State House,16,D,Sara A. Gelser,0Benton ,State House,16,,Misc.,40Linn ,State House,16,,Misc.,0Linn ,State House,17,D,Dan Thackaberry,6141Marion ,State House,17,D,Dan Thackaberry,2541Linn ,State House,17,R,Fred Girod,8545Marion ,State House,17,R,Fred Girod,4113Linn ,State House,17,,Misc.,57Marion ,State House,17,,Misc.,34Clackamas ,State House,18,D,Jim Gilbert,4202Marion ,State House,18,D,Jim Gilbert,5638Clackamas ,State House,18,R,Mac Sumner,5424Marion ,State House,18,R,Mac Sumner,6102Clackamas ,State House,18,C,Roger Shipman,238Marion ,State House,18,C,Roger Shipman,266Clackamas ,State House,18,,Misc.,14Marion ,State House,18,,Misc.,20Marion ,State House,19,R,Kevin Cameron,12506Marion ,State House,19,D,Brian Grisham,9529Marion ,State House,19,,Misc.,54Marion ,State House,20,R,Vicki Berger,5398Polk ,State House,20,R,Vicki Berger,7984Marion ,State House,20,D,Connie Garcia,3836Polk ,State House,20,D,Connie Garcia,5204Marion ,State House,20,,Misc.,41Polk ,State House,20,,Misc.,38Marion ,State House,21,D,Brian L. Clem,9598Marion ,State House,21,R,Billy Dalto,6025Marion ,State House,21,,Misc.,101Marion ,State House,22,D,Betty Komp,5830Marion ,State House,22,R,Carl Wieneke,5090Marion ,State House,22,C,Michael Marsh,381Marion ,State House,22,,Misc.,22Benton ,State House,23,R,Brian Boquist,2135Linn ,State House,23,R,Brian Boquist,1178Marion ,State House,23,R,Brian Boquist,2083Polk ,State House,23,R,Brian Boquist,7248Yamhill ,State House,23,R,Brian Boquist,778Benton ,State House,23,D,Jason Brown,2049Linn ,State House,23,D,Jason Brown,662Marion ,State House,23,D,Jason Brown,1177Polk ,State House,23,D,Jason Brown,4283Yamhill ,State House,23,D,Jason Brown,589Benton ,State House,23,L,Paul Delaney,150Linn ,State House,23,L,Paul Delaney,97Marion ,State House,23,L,Paul Delaney,147Polk ,State House,23,L,Paul Delaney,462Yamhill ,State House,23,L,Paul Delaney,86Benton ,State House,23,,Misc.,6Linn ,State House,23,,Misc.,3Marion ,State House,23,,Misc.,6Polk ,State House,23,,Misc.,10Yamhill ,State House,23,,Misc.,2Polk ,State House,24,L,David Terry,30Yamhill ,State House,24,L,David Terry,822Polk ,State House,24,D,Sal Peralta,204Yamhill ,State House,24,D,Sal Peralta,10643Polk ,State House,24,R,Donna G. Nelson,315Yamhill ,State House,24,R,Donna G. Nelson,10891Polk ,State House,24,,Misc.,1Yamhill ,State House,24,,Misc.,159Marion ,State House,25,R,Kim Thatcher,7183Yamhill ,State House,25,R,Kim Thatcher,4773Marion ,State House,25,D,Charles E. Lee,5960Yamhill ,State House,25,D,Charles E. Lee,3017Marion ,State House,25,,Misc.,21Yamhill ,State House,25,,Misc.,17Clackamas ,State House,26,D,Lee Coleman,2358Washington ,State House,26,D,Lee Coleman,6955Clackamas ,State House,26,R,Jerry Krummel,4008Washington ,State House,26,R,Jerry Krummel,10416Clackamas ,State House,26,L,Charles F. Radley,129Washington ,State House,26,L,Charles F. Radley,488Clackamas ,State House,26,,Misc.,7Washington ,State House,26,,Misc.,26Multnomah ,State House,27,R,Domonic Biggi,762Washington ,State House,27,R,Domonic Biggi,8944Multnomah ,State House,27,D,Tobias Read,1348Washington ,State House,27,D,Tobias Read,12977Multnomah ,State House,27,,Misc.,6Washington ,State House,27,,Misc.,37Washington ,State House,28,D,Jeff Barker,10924Washington ,State House,28,R,Eldon Derville-Teer,5912Washington ,State House,28,,Misc.,86Washington ,State House,29,L,Scott Harwood,769Washington ,State House,29,D,Chuck Riley,7987Washington ,State House,29,R,Terry Rilling,6659Washington ,State House,29,,Misc.,34Washington ,State House,30,C,Ken Cunningham,442Washington ,State House,30,R,Everett Curry,8965Washington ,State House,30,D,David Edwards,12253Washington ,State House,30,,Misc.,38Clatsop ,State House,31,C,Bob Ekstrom,362Columbia ,State House,31,C,Bob Ekstrom,2404Multnomah ,State House,31,C,Bob Ekstrom,36Clatsop ,State House,31,R,Mike Kocher,1272Columbia ,State House,31,R,Mike Kocher,5516Multnomah ,State House,31,R,Mike Kocher,167Clatsop ,State House,31,D,Brad Witt,3639Columbia ,State House,31,D,Brad Witt,10084Multnomah ,State House,31,D,Brad Witt,252Clatsop ,State House,31,,Misc.,15Columbia ,State House,31,,Misc.,43Multnomah ,State House,31,,Misc.,4Clatsop ,State House,32,D,Deborah Boone,6127Columbia ,State House,32,D,Deborah Boone,287Tillamook ,State House,32,D,Deborah Boone,6456Clatsop ,State House,32,R,Norm Myers,2907Columbia ,State House,32,R,Norm Myers,244Tillamook ,State House,32,R,Norm Myers,3902Clatsop ,State House,32,,Misc.,15Columbia ,State House,32,,Misc.,5Tillamook ,State House,32,,Misc.,33Multnomah ,State House,33,R,Mark Eggleston,1998Washington ,State House,33,R,Mark Eggleston,5380Multnomah ,State House,33,L,David E. Long,509Washington ,State House,33,L,David E. Long,571Multnomah ,State House,33,D,Mitch Greenlick,10565Washington ,State House,33,D,Mitch Greenlick,8916Multnomah ,State House,33,,Misc.,38Washington ,State House,33,,Misc.,24Washington ,State House,34,D,Suzanne Bonamici,11780Washington ,State House,34,R,Joan Draper,6902Washington ,State House,34,L,Gregory F. Rohde,439Washington ,State House,34,,Misc.,27Multnomah ,State House,35,R,Shirley Parsons,534Washington ,State House,35,R,Shirley Parsons,9466Multnomah ,State House,35,D,Larry Galizio,1208Washington ,State House,35,D,Larry Galizio,11420Multnomah ,State House,35,,Misc.,7Washington ,State House,35,,Misc.,40Multnomah ,State House,36,L,Frank Dane,3520Multnomah ,State House,36,D,Mary Nolan,20344Multnomah ,State House,36,,Misc.,137Clackamas ,State House,37,D,Bev Backa,6733Washington ,State House,37,D,Bev Backa,3728Clackamas ,State House,37,R,Scott Bruun,8035Washington ,State House,37,R,Scott Bruun,4496Clackamas ,State House,37,L,David M. Akin,309Washington ,State House,37,L,David M. Akin,198Clackamas ,State House,37,,Misc.,11Washington ,State House,37,,Misc.,9Clackamas ,State House,38,R,Fred Bremner,6201Multnomah ,State House,38,R,Fred Bremner,2115Washington ,State House,38,R,Fred Bremner,19Clackamas ,State House,38,D,Greg Macpherson,11269Multnomah ,State House,38,D,Greg Macpherson,7050Washington ,State House,38,D,Greg Macpherson,42Clackamas ,State House,38,,Misc.,24Multnomah ,State House,38,,Misc.,21Washington ,State House,38,,Misc.,0Clackamas ,State House,39,D,Mike Caudle,9214Clackamas ,State House,39,L,Wes Wagner,819Clackamas ,State House,39,R,Scott Wayne,12247Clackamas ,State House,39,,Misc.,51Clackamas ,State House,40,D,Dave Hunt,13606Clackamas ,State House,40,,Misc.,418Clackamas ,State House,41,D,Carolyn Tomei,5191Multnomah ,State House,41,D,Carolyn Tomei,10807Clackamas ,State House,41,,Misc.,225Multnomah ,State House,41,,Misc.,285Multnomah ,State House,42,P,Jeff Cropp,3870Multnomah ,State House,42,D,Diane Rosenbaum,20325Multnomah ,State House,42,,Misc.,155Multnomah ,State House,43,D,Chip Shields,18340Multnomah ,State House,43,,Misc.,378Multnomah ,State House,44,R,Jay Kushner,3645Multnomah ,State House,44,D,Tina Kotek,13931Multnomah ,State House,44,,Misc.,97Multnomah ,State House,45,D,Jackie Dingfelder,18460Multnomah ,State House,45,R,Dick Osborne,4603Multnomah ,State House,45,,Misc.,73Multnomah ,State House,46,D,Ben Cannon,16348Multnomah ,State House,46,R,William (Bill) C. Cornett,3493Multnomah ,State House,46,PAC,Paul Loney,1318Multnomah ,State House,46,,Misc.,75Multnomah ,State House,47,R,Bruce McCain,6192Multnomah ,State House,47,D,Jeff Merkley,11106Multnomah ,State House,47,,Misc.,65Clackamas ,State House,48,D,Mike Schaufler,2839Multnomah ,State House,48,D,Mike Schaufler,8423Clackamas ,State House,48,C,N.W. (Bill) Stallings,1042Multnomah ,State House,48,C,N.W. (Bill) Stallings,2630Clackamas ,State House,48,,Misc.,82Multnomah ,State House,48,,Misc.,150Multnomah ,State House,49,D,Rob Brading,7911Multnomah ,State House,49,R,Karen Minnis,8601Multnomah ,State House,49,,Misc.,92Multnomah ,State House,50,L,Brian D. Lowery,557Multnomah ,State House,50,R,John Lim,11362Multnomah ,State House,50,D,Jill Selman-Ringer,6107Multnomah ,State House,50,,Misc.,48Clackamas ,State House,51,R,Linda Flores,11480Multnomah ,State House,51,R,Linda Flores,446Clackamas ,State House,51,D,Ryan A. Olds,8325Multnomah ,State House,51,D,Ryan A. Olds,430Clackamas ,State House,51,,Misc.,27Multnomah ,State House,51,,Misc.,3Clackamas ,State House,52,D,Suzanne VanOrman,5273Hood River ,State House,52,D,Suzanne VanOrman,3533Multnomah ,State House,52,D,Suzanne VanOrman,1188Clackamas ,State House,52,R,Patti Smith,6844Hood River ,State House,52,R,Patti Smith,3738Multnomah ,State House,52,R,Patti Smith,2006Clackamas ,State House,52,,Misc.,21Hood River ,State House,52,,Misc.,6Multnomah ,State House,52,,Misc.,7Deschutes ,State House,53,R,Gene Whisnant,16527Deschutes ,State House,53,D,Bill A. Smith,11406Deschutes ,State House,53,,Misc.,31Deschutes ,State House,54,R,Chuck Burley,14780Deschutes ,State House,54,D,Phil Philiben,11873Deschutes ,State House,54,,Misc.,67Crook ,State House,55,R,George Gilman,5435Deschutes ,State House,55,R,George Gilman,143Jackson ,State House,55,R,George Gilman,7084Klamath ,State House,55,R,George Gilman,1636Lake ,State House,55,R,George Gilman,2193Crook ,State House,55,,Misc.,109Deschutes ,State House,55,,Misc.,3Jackson ,State House,55,,Misc.,206Klamath ,State House,55,,Misc.,62Lake ,State House,55,,Misc.,37Klamath ,State House,56,D,James Calvert,6855Klamath ,State House,56,R,Bill Garrard,13759Klamath ,State House,56,,Misc.,46Morrow ,State House,57,D,Tonia P. St. Germain,797Umatilla ,State House,57,D,Tonia P. St. Germain,995Union ,State House,57,D,Tonia P. St. Germain,3219Wallowa ,State House,57,D,Tonia P. St. Germain,1047Morrow ,State House,57,R,Greg Smith,2215Umatilla ,State House,57,R,Greg Smith,2692Union ,State House,57,R,Greg Smith,6541Wallowa ,State House,57,R,Greg Smith,2671Morrow ,State House,57,,Misc.,3Umatilla ,State House,57,,Misc.,4Union ,State House,57,,Misc.,22Wallowa ,State House,57,,Misc.,16Umatilla ,State House,58,D,Ben Talley,4629Union ,State House,58,D,Ben Talley,0Umatilla ,State House,58,R,Bob Jenson,10194Union ,State House,58,R,Bob Jenson,0Umatilla ,State House,58,,Misc.,31Union ,State House,58,,Misc.,0Clackamas ,State House,59,R,John H. Dallum,0Deschutes ,State House,59,R,John H. Dallum,513Gilliam ,State House,59,R,John H. Dallum,444Grant ,State House,59,R,John H. Dallum,1794Jefferson ,State House,59,R,John H. Dallum,2827Marion ,State House,59,R,John H. Dallum,0Sherman ,State House,59,R,John H. Dallum,475Wasco ,State House,59,R,John H. Dallum,4315Wheeler ,State House,59,R,John H. Dallum,365Clackamas ,State House,59,D,Jim Gilbertson,0Deschutes ,State House,59,D,Jim Gilbertson,377Gilliam ,State House,59,D,Jim Gilbertson,467Grant ,State House,59,D,Jim Gilbertson,999Jefferson ,State House,59,D,Jim Gilbertson,3494Marion ,State House,59,D,Jim Gilbertson,0Sherman ,State House,59,D,Jim Gilbertson,377Wasco ,State House,59,D,Jim Gilbertson,4412Wheeler ,State House,59,D,Jim Gilbertson,327Clackamas ,State House,59,,Misc.,0Deschutes ,State House,59,,Misc.,1Gilliam ,State House,59,,Misc.,2Grant ,State House,59,,Misc.,6Jefferson ,State House,59,,Misc.,5Marion ,State House,59,,Misc.,0Sherman ,State House,59,,Misc.,3Wasco ,State House,59,,Misc.,15Wheeler ,State House,59,,Misc.,0Baker ,State House,60,R,R. Thomas (Tom) Butler,4764Grant ,State House,60,R,R. Thomas (Tom) Butler,224Harney ,State House,60,R,R. Thomas (Tom) Butler,2217Malheur ,State House,60,R,R. Thomas (Tom) Butler,6157Baker ,State House,60,D,Peter Hall,2085Grant ,State House,60,D,Peter Hall,60Harney ,State House,60,D,Peter Hall,636Malheur ,State House,60,D,Peter Hall,1794Baker ,State House,60,,Misc.,21Grant ,State House,60,,Misc.,1Harney ,State House,60,,Misc.,7Malheur ,State House,60,,Misc.,17
+county,office,district,party,candidate,votes
+Clatsop ,U.S. House,1,R,Derrick Kitts,4367
+Columbia ,U.S. House,1,R,Derrick Kitts,6569
+Multnomah ,U.S. House,1,R,Derrick Kitts,5546
+Washington ,U.S. House,1,R,Derrick Kitts,60831
+Yamhill ,U.S. House,1,R,Derrick Kitts,13591
+Clatsop ,U.S. House,1,D,David Wu,9939
+Columbia ,U.S. House,1,D,David Wu,11496
+Multnomah ,U.S. House,1,D,David Wu,29199
+Washington ,U.S. House,1,D,David Wu,101199
+Yamhill ,U.S. House,1,D,David Wu,17576
+Clatsop ,U.S. House,1,C,Dean Wolf,234
+Columbia ,U.S. House,1,C,Dean Wolf,649
+Multnomah ,U.S. House,1,C,Dean Wolf,236
+Washington ,U.S. House,1,C,Dean Wolf,2565
+Yamhill ,U.S. House,1,C,Dean Wolf,686
+Clatsop ,U.S. House,1,L,Drake Davis,223
+Columbia ,U.S. House,1,L,Drake Davis,336
+Multnomah ,U.S. House,1,L,Drake Davis,625
+Washington ,U.S. House,1,L,Drake Davis,2790
+Yamhill ,U.S. House,1,L,Drake Davis,523
+Clatsop ,U.S. House,1,,Misc.,10
+Columbia ,U.S. House,1,,Misc.,30
+Multnomah ,U.S. House,1,,Misc.,99
+Washington ,U.S. House,1,,Misc.,264
+Yamhill ,U.S. House,1,,Misc.,44
+Baker ,U.S. House,2,C,Jack Alan Brown Jr.,254
+Crook ,U.S. House,2,C,Jack Alan Brown Jr.,219
+Deschutes ,U.S. House,2,C,Jack Alan Brown Jr.,1102
+Gilliam ,U.S. House,2,C,Jack Alan Brown Jr.,30
+Grant ,U.S. House,2,C,Jack Alan Brown Jr.,110
+Harney ,U.S. House,2,C,Jack Alan Brown Jr.,89
+Hood River ,U.S. House,2,C,Jack Alan Brown Jr.,117
+Jackson ,U.S. House,2,C,Jack Alan Brown Jr.,1799
+Jefferson ,U.S. House,2,C,Jack Alan Brown Jr.,172
+Josephine ,U.S. House,2,C,Jack Alan Brown Jr.,1006
+Klamath ,U.S. House,2,C,Jack Alan Brown Jr.,691
+Lake ,U.S. House,2,C,Jack Alan Brown Jr.,90
+Malheur ,U.S. House,2,C,Jack Alan Brown Jr.,242
+Morrow ,U.S. House,2,C,Jack Alan Brown Jr.,107
+Sherman ,U.S. House,2,C,Jack Alan Brown Jr.,23
+Umatilla ,U.S. House,2,C,Jack Alan Brown Jr.,538
+Union ,U.S. House,2,C,Jack Alan Brown Jr.,247
+Wallowa ,U.S. House,2,C,Jack Alan Brown Jr.,90
+Wasco ,U.S. House,2,C,Jack Alan Brown Jr.,241
+Wheeler ,U.S. House,2,C,Jack Alan Brown Jr.,26
+Baker ,U.S. House,2,D,Carol Voisin,1789
+Crook ,U.S. House,2,D,Carol Voisin,1859
+Deschutes ,U.S. House,2,D,Carol Voisin,19409
+Gilliam ,U.S. House,2,D,Carol Voisin,181
+Grant ,U.S. House,2,D,Carol Voisin,457
+Harney ,U.S. House,2,D,Carol Voisin,488
+Hood River ,U.S. House,2,D,Carol Voisin,2772
+Jackson ,U.S. House,2,D,Carol Voisin,28684
+Jefferson ,U.S. House,2,D,Carol Voisin,1826
+Josephine ,U.S. House,2,D,Carol Voisin,5993
+Klamath ,U.S. House,2,D,Carol Voisin,5051
+Lake ,U.S. House,2,D,Carol Voisin,518
+Malheur ,U.S. House,2,D,Carol Voisin,1727
+Morrow ,U.S. House,2,D,Carol Voisin,664
+Sherman ,U.S. House,2,D,Carol Voisin,197
+Umatilla ,U.S. House,2,D,Carol Voisin,4718
+Union ,U.S. House,2,D,Carol Voisin,2325
+Wallowa ,U.S. House,2,D,Carol Voisin,839
+Wasco ,U.S. House,2,D,Carol Voisin,2831
+Wheeler ,U.S. House,2,D,Carol Voisin,156
+Baker ,U.S. House,2,R,Greg Walden,5214
+Crook ,U.S. House,2,R,Greg Walden,6107
+Deschutes ,U.S. House,2,R,Greg Walden,36124
+Gilliam ,U.S. House,2,R,Greg Walden,755
+Grant ,U.S. House,2,R,Greg Walden,2757
+Harney ,U.S. House,2,R,Greg Walden,2386
+Hood River ,U.S. House,2,R,Greg Walden,4477
+Jackson ,U.S. House,2,R,Greg Walden,45603
+Jefferson ,U.S. House,2,R,Greg Walden,4549
+Josephine ,U.S. House,2,R,Greg Walden,14509
+Klamath ,U.S. House,2,R,Greg Walden,17718
+Lake ,U.S. House,2,R,Greg Walden,2434
+Malheur ,U.S. House,2,R,Greg Walden,6006
+Morrow ,U.S. House,2,R,Greg Walden,2264
+Sherman ,U.S. House,2,R,Greg Walden,686
+Umatilla ,U.S. House,2,R,Greg Walden,13272
+Union ,U.S. House,2,R,Greg Walden,7300
+Wallowa ,U.S. House,2,R,Greg Walden,2867
+Wasco ,U.S. House,2,R,Greg Walden,5966
+Wheeler ,U.S. House,2,R,Greg Walden,535
+Baker ,U.S. House,2,,Misc.,9
+Crook ,U.S. House,2,,Misc.,15
+Deschutes ,U.S. House,2,,Misc.,106
+Gilliam ,U.S. House,2,,Misc.,16
+Grant ,U.S. House,2,,Misc.,2
+Harney ,U.S. House,2,,Misc.,4
+Hood River ,U.S. House,2,,Misc.,10
+Jackson ,U.S. House,2,,Misc.,124
+Jefferson ,U.S. House,2,,Misc.,9
+Josephine ,U.S. House,2,,Misc.,39
+Klamath ,U.S. House,2,,Misc.,39
+Lake ,U.S. House,2,,Misc.,38
+Malheur ,U.S. House,2,,Misc.,13
+Morrow ,U.S. House,2,,Misc.,3
+Sherman ,U.S. House,2,,Misc.,16
+Umatilla ,U.S. House,2,,Misc.,17
+Union ,U.S. House,2,,Misc.,19
+Wallowa ,U.S. House,2,,Misc.,5
+Wasco ,U.S. House,2,,Misc.,20
+Wheeler ,U.S. House,2,,Misc.,9
+Clackamas ,U.S. House,3,D,Earl Blumenauer,28365
+Multnomah ,U.S. House,3,D,Earl Blumenauer,158015
+Clackamas ,U.S. House,3,C,David Brownlow,1735
+Multnomah ,U.S. House,3,C,David Brownlow,5268
+Clackamas ,U.S. House,3,R,Bruce Broussard,18730
+Multnomah ,U.S. House,3,R,Bruce Broussard,40799
+Clackamas ,U.S. House,3,,Misc.,78
+Multnomah ,U.S. House,3,,Misc.,620
+Benton ,U.S. House,4,R,Jim Feldkamp,6726
+Coos ,U.S. House,4,R,Jim Feldkamp,10909
+Curry ,U.S. House,4,R,Jim Feldkamp,4650
+Douglas ,U.S. House,4,R,Jim Feldkamp,20989
+Josephine ,U.S. House,4,R,Jim Feldkamp,5676
+Lane ,U.S. House,4,R,Jim Feldkamp,43079
+Linn ,U.S. House,4,R,Jim Feldkamp,17076
+Benton ,U.S. House,4,D,Peter A. DeFazio,15769
+Coos ,U.S. House,4,D,Peter A. DeFazio,14163
+Curry ,U.S. House,4,D,Peter A. DeFazio,5433
+Douglas ,U.S. House,4,D,Peter A. DeFazio,21681
+Josephine ,U.S. House,4,D,Peter A. DeFazio,4984
+Lane ,U.S. House,4,D,Peter A. DeFazio,96272
+Linn ,U.S. House,4,D,Peter A. DeFazio,22305
+Benton ,U.S. House,4,,Misc.,30
+Coos ,U.S. House,4,,Misc.,38
+Curry ,U.S. House,4,,Misc.,17
+Douglas ,U.S. House,4,,Misc.,48
+Josephine ,U.S. House,4,,Misc.,38
+Lane ,U.S. House,4,,Misc.,311
+Linn ,U.S. House,4,,Misc.,50
+Benton ,U.S. House,5,R,Mike Erickson,4741
+Clackamas ,U.S. House,5,R,Mike Erickson,40726
+Lincoln ,U.S. House,5,R,Mike Erickson,7013
+Marion ,U.S. House,5,R,Mike Erickson,43872
+Multnomah ,U.S. House,5,R,Mike Erickson,3236
+Polk ,U.S. House,5,R,Mike Erickson,12501
+Tillamook ,U.S. House,5,R,Mike Erickson,4335
+Benton ,U.S. House,5,C,Douglas Patterson,115
+Clackamas ,U.S. House,5,C,Douglas Patterson,1342
+Lincoln ,U.S. House,5,C,Douglas Patterson,364
+Marion ,U.S. House,5,C,Douglas Patterson,1654
+Multnomah ,U.S. House,5,C,Douglas Patterson,97
+Polk ,U.S. House,5,C,Douglas Patterson,408
+Tillamook ,U.S. House,5,C,Douglas Patterson,180
+Benton ,U.S. House,5,P,Paul Aranas,343
+Clackamas ,U.S. House,5,P,Paul Aranas,1090
+Lincoln ,U.S. House,5,P,Paul Aranas,486
+Marion ,U.S. House,5,P,Paul Aranas,1347
+Multnomah ,U.S. House,5,P,Paul Aranas,309
+Polk ,U.S. House,5,P,Paul Aranas,431
+Tillamook ,U.S. House,5,P,Paul Aranas,188
+Benton ,U.S. House,5,D,Darlene Hooley,7076
+Clackamas ,U.S. House,5,D,Darlene Hooley,49926
+Lincoln ,U.S. House,5,D,Darlene Hooley,11606
+Marion ,U.S. House,5,D,Darlene Hooley,49028
+Multnomah ,U.S. House,5,D,Darlene Hooley,9537
+Polk ,U.S. House,5,D,Darlene Hooley,13774
+Tillamook ,U.S. House,5,D,Darlene Hooley,6026
+Benton ,U.S. House,5,,Misc.,13
+Clackamas ,U.S. House,5,,Misc.,119
+Lincoln ,U.S. House,5,,Misc.,14
+Marion ,U.S. House,5,,Misc.,263
+Multnomah ,U.S. House,5,,Misc.,18
+Polk ,U.S. House,5,,Misc.,33
+Tillamook ,U.S. House,5,,Misc.,23
+Baker ,Governor,,P,Joe Keating,71
+Benton ,Governor,,P,Joe Keating,735
+Clackamas ,Governor,,P,Joe Keating,1373
+Clatsop ,Governor,,P,Joe Keating,254
+Columbia ,Governor,,P,Joe Keating,226
+Coos ,Governor,,P,Joe Keating,416
+Crook ,Governor,,P,Joe Keating,69
+Curry ,Governor,,P,Joe Keating,165
+Deschutes ,Governor,,P,Joe Keating,784
+Douglas ,Governor,,P,Joe Keating,506
+Gilliam ,Governor,,P,Joe Keating,5
+Grant ,Governor,,P,Joe Keating,20
+Harney ,Governor,,P,Joe Keating,15
+Hood River ,Governor,,P,Joe Keating,124
+Jackson ,Governor,,P,Joe Keating,1281
+Jefferson ,Governor,,P,Joe Keating,49
+Josephine ,Governor,,P,Joe Keating,525
+Klamath ,Governor,,P,Joe Keating,262
+Lake ,Governor,,P,Joe Keating,32
+Lane ,Governor,,P,Joe Keating,2770
+Lincoln ,Governor,,P,Joe Keating,420
+Linn ,Governor,,P,Joe Keating,482
+Malheur ,Governor,,P,Joe Keating,75
+Marion ,Governor,,P,Joe Keating,1083
+Morrow ,Governor,,P,Joe Keating,23
+Multnomah ,Governor,,P,Joe Keating,5033
+Polk ,Governor,,P,Joe Keating,312
+Sherman ,Governor,,P,Joe Keating,10
+Tillamook ,Governor,,P,Joe Keating,136
+Umatilla ,Governor,,P,Joe Keating,193
+Union ,Governor,,P,Joe Keating,128
+Wallowa ,Governor,,P,Joe Keating,38
+Wasco ,Governor,,P,Joe Keating,121
+Washington ,Governor,,P,Joe Keating,1954
+Wheeler ,Governor,,P,Joe Keating,9
+Yamhill ,Governor,,P,Joe Keating,331
+Baker ,Governor,,D,Ted Kulongoski,2508
+Benton ,Governor,,D,Ted Kulongoski,20661
+Clackamas ,Governor,,D,Ted Kulongoski,70131
+Clatsop ,Governor,,D,Ted Kulongoski,7936
+Columbia ,Governor,,D,Ted Kulongoski,9291
+Coos ,Governor,,D,Ted Kulongoski,10977
+Crook ,Governor,,D,Ted Kulongoski,2518
+Curry ,Governor,,D,Ted Kulongoski,4162
+Deschutes ,Governor,,D,Ted Kulongoski,23631
+Douglas ,Governor,,D,Ted Kulongoski,15123
+Gilliam ,Governor,,D,Ted Kulongoski,388
+Grant ,Governor,,D,Ted Kulongoski,783
+Harney ,Governor,,D,Ted Kulongoski,643
+Hood River ,Governor,,D,Ted Kulongoski,4352
+Jackson ,Governor,,D,Ted Kulongoski,33329
+Jefferson ,Governor,,D,Ted Kulongoski,2776
+Josephine ,Governor,,D,Ted Kulongoski,11900
+Klamath ,Governor,,D,Ted Kulongoski,6592
+Lake ,Governor,,D,Ted Kulongoski,723
+Lane ,Governor,,D,Ted Kulongoski,81550
+Lincoln ,Governor,,D,Ted Kulongoski,10145
+Linn ,Governor,,D,Ted Kulongoski,15588
+Malheur ,Governor,,D,Ted Kulongoski,2357
+Marion ,Governor,,D,Ted Kulongoski,45304
+Morrow ,Governor,,D,Ted Kulongoski,1043
+Multnomah ,Governor,,D,Ted Kulongoski,177797
+Polk ,Governor,,D,Ted Kulongoski,12620
+Sherman ,Governor,,D,Ted Kulongoski,331
+Tillamook ,Governor,,D,Ted Kulongoski,5356
+Umatilla ,Governor,,D,Ted Kulongoski,7182
+Union ,Governor,,D,Ted Kulongoski,3961
+Wallowa ,Governor,,D,Ted Kulongoski,1253
+Wasco ,Governor,,D,Ted Kulongoski,4307
+Washington ,Governor,,D,Ted Kulongoski,88292
+Wheeler ,Governor,,D,Ted Kulongoski,233
+Yamhill ,Governor,,D,Ted Kulongoski,14043
+Baker ,Governor,,L,Richard Morley,71
+Benton ,Governor,,L,Richard Morley,456
+Clackamas ,Governor,,L,Richard Morley,1335
+Clatsop ,Governor,,L,Richard Morley,181
+Columbia ,Governor,,L,Richard Morley,238
+Coos ,Governor,,L,Richard Morley,410
+Crook ,Governor,,L,Richard Morley,98
+Curry ,Governor,,L,Richard Morley,158
+Deschutes ,Governor,,L,Richard Morley,682
+Douglas ,Governor,,L,Richard Morley,639
+Gilliam ,Governor,,L,Richard Morley,10
+Grant ,Governor,,L,Richard Morley,39
+Harney ,Governor,,L,Richard Morley,36
+Hood River ,Governor,,L,Richard Morley,63
+Jackson ,Governor,,L,Richard Morley,1017
+Jefferson ,Governor,,L,Richard Morley,81
+Josephine ,Governor,,L,Richard Morley,474
+Klamath ,Governor,,L,Richard Morley,304
+Lake ,Governor,,L,Richard Morley,51
+Lane ,Governor,,L,Richard Morley,1920
+Lincoln ,Governor,,L,Richard Morley,271
+Linn ,Governor,,L,Richard Morley,518
+Malheur ,Governor,,L,Richard Morley,94
+Marion ,Governor,,L,Richard Morley,962
+Morrow ,Governor,,L,Richard Morley,33
+Multnomah ,Governor,,L,Richard Morley,3010
+Polk ,Governor,,L,Richard Morley,314
+Sherman ,Governor,,L,Richard Morley,10
+Tillamook ,Governor,,L,Richard Morley,109
+Umatilla ,Governor,,L,Richard Morley,243
+Union ,Governor,,L,Richard Morley,114
+Wallowa ,Governor,,L,Richard Morley,57
+Wasco ,Governor,,L,Richard Morley,117
+Washington ,Governor,,L,Richard Morley,2275
+Wheeler ,Governor,,L,Richard Morley,13
+Yamhill ,Governor,,L,Richard Morley,395
+Baker ,Governor,,C,Mary Starrett,362
+Benton ,Governor,,C,Mary Starrett,559
+Clackamas ,Governor,,C,Mary Starrett,6405
+Clatsop ,Governor,,C,Mary Starrett,666
+Columbia ,Governor,,C,Mary Starrett,1577
+Coos ,Governor,,C,Mary Starrett,1215
+Crook ,Governor,,C,Mary Starrett,313
+Curry ,Governor,,C,Mary Starrett,282
+Deschutes ,Governor,,C,Mary Starrett,1368
+Douglas ,Governor,,C,Mary Starrett,1384
+Gilliam ,Governor,,C,Mary Starrett,53
+Grant ,Governor,,C,Mary Starrett,118
+Harney ,Governor,,C,Mary Starrett,119
+Hood River ,Governor,,C,Mary Starrett,331
+Jackson ,Governor,,C,Mary Starrett,2183
+Jefferson ,Governor,,C,Mary Starrett,278
+Josephine ,Governor,,C,Mary Starrett,1398
+Klamath ,Governor,,C,Mary Starrett,823
+Lake ,Governor,,C,Mary Starrett,132
+Lane ,Governor,,C,Mary Starrett,2895
+Lincoln ,Governor,,C,Mary Starrett,730
+Linn ,Governor,,C,Mary Starrett,1769
+Malheur ,Governor,,C,Mary Starrett,273
+Marion ,Governor,,C,Mary Starrett,4968
+Morrow ,Governor,,C,Mary Starrett,178
+Multnomah ,Governor,,C,Mary Starrett,8022
+Polk ,Governor,,C,Mary Starrett,1351
+Sherman ,Governor,,C,Mary Starrett,54
+Tillamook ,Governor,,C,Mary Starrett,473
+Umatilla ,Governor,,C,Mary Starrett,775
+Union ,Governor,,C,Mary Starrett,403
+Wallowa ,Governor,,C,Mary Starrett,112
+Wasco ,Governor,,C,Mary Starrett,547
+Washington ,Governor,,C,Mary Starrett,6133
+Wheeler ,Governor,,C,Mary Starrett,52
+Yamhill ,Governor,,C,Mary Starrett,1928
+Baker ,Governor,,R,Ron Saxton,4338
+Benton ,Governor,,R,Ron Saxton,12736
+Clackamas ,Governor,,R,Ron Saxton,65795
+Clatsop ,Governor,,R,Ron Saxton,5886
+Columbia ,Governor,,R,Ron Saxton,8032
+Coos ,Governor,,R,Ron Saxton,12103
+Crook ,Governor,,R,Ron Saxton,5333
+Curry ,Governor,,R,Ron Saxton,5332
+Deschutes ,Governor,,R,Ron Saxton,31256
+Douglas ,Governor,,R,Ron Saxton,24896
+Gilliam ,Governor,,R,Ron Saxton,535
+Grant ,Governor,,R,Ron Saxton,2401
+Harney ,Governor,,R,Ron Saxton,2186
+Hood River ,Governor,,R,Ron Saxton,2554
+Jackson ,Governor,,R,Ron Saxton,39055
+Jefferson ,Governor,,R,Ron Saxton,3511
+Josephine ,Governor,,R,Ron Saxton,18321
+Klamath ,Governor,,R,Ron Saxton,15651
+Lake ,Governor,,R,Ron Saxton,2156
+Lane ,Governor,,R,Ron Saxton,50290
+Lincoln ,Governor,,R,Ron Saxton,8072
+Linn ,Governor,,R,Ron Saxton,21411
+Malheur ,Governor,,R,Ron Saxton,5296
+Marion ,Governor,,R,Ron Saxton,44474
+Morrow ,Governor,,R,Ron Saxton,1797
+Multnomah ,Governor,,R,Ron Saxton,65488
+Polk ,Governor,,R,Ron Saxton,12643
+Sherman ,Governor,,R,Ron Saxton,529
+Tillamook ,Governor,,R,Ron Saxton,4745
+Umatilla ,Governor,,R,Ron Saxton,10554
+Union ,Governor,,R,Ron Saxton,5473
+Wallowa ,Governor,,R,Ron Saxton,2335
+Wasco ,Governor,,R,Ron Saxton,4057
+Washington ,Governor,,R,Ron Saxton,73907
+Wheeler ,Governor,,R,Ron Saxton,422
+Yamhill ,Governor,,R,Ron Saxton,16178
+Baker ,Governor,,,Misc.,11
+Benton ,Governor,,,Misc.,58
+Clackamas ,Governor,,,Misc.,198
+Clatsop ,Governor,,,Misc.,17
+Columbia ,Governor,,,Misc.,38
+Coos ,Governor,,,Misc.,31
+Crook ,Governor,,,Misc.,22
+Curry ,Governor,,,Misc.,31
+Deschutes ,Governor,,,Misc.,122
+Douglas ,Governor,,,Misc.,64
+Gilliam ,Governor,,,Misc.,6
+Grant ,Governor,,,Misc.,6
+Harney ,Governor,,,Misc.,8
+Hood River ,Governor,,,Misc.,10
+Jackson ,Governor,,,Misc.,192
+Jefferson ,Governor,,,Misc.,13
+Josephine ,Governor,,,Misc.,86
+Klamath ,Governor,,,Misc.,38
+Lake ,Governor,,,Misc.,14
+Lane ,Governor,,,Misc.,422
+Lincoln ,Governor,,,Misc.,20
+Linn ,Governor,,,Misc.,71
+Malheur ,Governor,,,Misc.,6
+Marion ,Governor,,,Misc.,335
+Morrow ,Governor,,,Misc.,5
+Multnomah ,Governor,,,Misc.,454
+Polk ,Governor,,,Misc.,64
+Sherman ,Governor,,,Misc.,2
+Tillamook ,Governor,,,Misc.,19
+Umatilla ,Governor,,,Misc.,22
+Union ,Governor,,,Misc.,19
+Wallowa ,Governor,,,Misc.,3
+Wasco ,Governor,,,Misc.,15
+Washington ,Governor,,,Misc.,222
+Wheeler ,Governor,,,Misc.,5
+Yamhill ,Governor,,,Misc.,235
+Jackson ,State Senate,3,D,Alan Bates,30552
+Jackson ,State Senate,3,R,Lynn Aiello,17321
+Jackson ,State Senate,3,,Misc.,92
+Douglas ,State Senate,4,R,Bill Eddie,6647
+Lane ,State Senate,4,R,Bill Eddie,10680
+Douglas ,State Senate,4,D,Floyd Prozanski,5425
+Lane ,State Senate,4,D,Floyd Prozanski,24977
+Douglas ,State Senate,4,,Misc.,12
+Lane ,State Senate,4,,Misc.,84
+Lane ,State Senate,6,R,Renee Lindsay,12124
+Linn ,State Senate,6,R,Renee Lindsay,2629
+Lane ,State Senate,6,D,Bill Morrisette,28135
+Linn ,State Senate,6,D,Bill Morrisette,2026
+Lane ,State Senate,6,,Misc.,94
+Linn ,State Senate,6,,Misc.,5
+Lane ,State Senate,7,R,Jim Torrey,23962
+Lane ,State Senate,7,D,Vicki L. Walker,25667
+Lane ,State Senate,7,,Misc.,134
+Benton ,State Senate,8,D,Mario E. Magana,13670
+Linn ,State Senate,8,D,Mario E. Magana,5097
+Benton ,State Senate,8,R,Frank Morse,15659
+Linn ,State Senate,8,R,Frank Morse,11468
+Benton ,State Senate,8,,Misc.,70
+Linn ,State Senate,8,,Misc.,64
+Marion ,State Senate,10,D,Paul Evans,14469
+Polk ,State Senate,10,D,Paul Evans,6763
+Marion ,State Senate,10,R,Jackie Winters,17855
+Polk ,State Senate,10,R,Jackie Winters,6786
+Marion ,State Senate,10,,Misc.,60
+Polk ,State Senate,10,,Misc.,39
+Marion ,State Senate,11,D,Peter Courtney,15593
+Marion ,State Senate,11,R,Jared Thatcher,10814
+Marion ,State Senate,11,C,Keith Humphrey,767
+Marion ,State Senate,11,,Misc.,49
+Clackamas ,State Senate,13,R,Larry George,3588
+Marion ,State Senate,13,R,Larry George,7601
+Washington ,State Senate,13,R,Larry George,10313
+Yamhill ,State Senate,13,R,Larry George,5002
+Clackamas ,State Senate,13,D,Rick Ross,2794
+Marion ,State Senate,13,D,Rick Ross,5084
+Washington ,State Senate,13,D,Rick Ross,7595
+Yamhill ,State Senate,13,D,Rick Ross,2845
+Clackamas ,State Senate,13,,Misc.,9
+Marion ,State Senate,13,,Misc.,31
+Washington ,State Senate,13,,Misc.,57
+Yamhill ,State Senate,13,,Misc.,20
+Washington ,State Senate,15,D,John Napolitano,16308
+Washington ,State Senate,15,R,Bruce Starr,19973
+Washington ,State Senate,15,,Misc.,71
+Clatsop ,State Senate,16,R,Don Fell,3852
+Columbia ,State Senate,16,R,Don Fell,6155
+Multnomah ,State Senate,16,R,Don Fell,145
+Tillamook ,State Senate,16,R,Don Fell,3707
+Washington ,State Senate,16,R,Don Fell,2181
+Clatsop ,State Senate,16,D,Elizabeth (Betsy) Johnson,10412
+Columbia ,State Senate,16,D,Elizabeth (Betsy) Johnson,11935
+Multnomah ,State Senate,16,D,Elizabeth (Betsy) Johnson,310
+Tillamook ,State Senate,16,D,Elizabeth (Betsy) Johnson,6121
+Washington ,State Senate,16,D,Elizabeth (Betsy) Johnson,1867
+Clatsop ,State Senate,16,C,Robert J. Simmering,297
+Columbia ,State Senate,16,C,Robert J. Simmering,748
+Multnomah ,State Senate,16,C,Robert J. Simmering,9
+Tillamook ,State Senate,16,C,Robert J. Simmering,283
+Washington ,State Senate,16,C,Robert J. Simmering,92
+Clatsop ,State Senate,16,,Misc.,19
+Columbia ,State Senate,16,,Misc.,37
+Multnomah ,State Senate,16,,Misc.,5
+Tillamook ,State Senate,16,,Misc.,16
+Washington ,State Senate,16,,Misc.,8
+Multnomah ,State Senate,17,R,Piotr Kuklinski,2192
+Washington ,State Senate,17,R,Piotr Kuklinski,11305
+Multnomah ,State Senate,17,L,Richard Whitehead,369
+Washington ,State Senate,17,L,Richard Whitehead,1076
+Multnomah ,State Senate,17,C,John R. Pivarnik,97
+Washington ,State Senate,17,C,John R. Pivarnik,274
+Multnomah ,State Senate,17,D,Brad Avakian,10315
+Washington ,State Senate,17,D,Brad Avakian,21297
+Multnomah ,State Senate,17,,Misc.,23
+Washington ,State Senate,17,,Misc.,66
+Clackamas ,State Senate,19,D,Richard Devlin,19414
+Multnomah ,State Senate,19,D,Richard Devlin,6774
+Washington ,State Senate,19,D,Richard Devlin,4775
+Clackamas ,State Senate,19,L,Marc Delphine,717
+Multnomah ,State Senate,19,L,Marc Delphine,252
+Washington ,State Senate,19,L,Marc Delphine,249
+Clackamas ,State Senate,19,R,David Newell,12559
+Multnomah ,State Senate,19,R,David Newell,2174
+Washington ,State Senate,19,R,David Newell,3566
+Clackamas ,State Senate,19,,Misc.,31
+Multnomah ,State Senate,19,,Misc.,24
+Washington ,State Senate,19,,Misc.,10
+Clackamas ,State Senate,20,D,Kurt Schrader,28530
+Clackamas ,State Senate,20,,Misc.,1154
+Clackamas ,State Senate,24,N,Ron McCarty,147
+Multnomah ,State Senate,24,N,Ron McCarty,2506
+Clackamas ,State Senate,24,D,Rod Monroe,1902
+Multnomah ,State Senate,24,D,Rod Monroe,15402
+Clackamas ,State Senate,24,R,T.J. Reilly,2879
+Multnomah ,State Senate,24,R,T.J. Reilly,12604
+Clackamas ,State Senate,24,,Misc.,5
+Multnomah ,State Senate,24,,Misc.,80
+Clackamas ,State Senate,26,R,Carol York,14529
+Hood River ,State Senate,26,R,Carol York,2583
+Multnomah ,State Senate,26,R,Carol York,1852
+Clackamas ,State Senate,26,D,Rick Metsger,18183
+Hood River ,State Senate,26,D,Rick Metsger,4728
+Multnomah ,State Senate,26,D,Rick Metsger,2272
+Clackamas ,State Senate,26,,Misc.,62
+Hood River ,State Senate,26,,Misc.,6
+Multnomah ,State Senate,26,,Misc.,13
+Coos ,State House,1,L,Robert Taylor,2244
+Curry ,State House,1,L,Robert Taylor,2465
+Douglas ,State House,1,L,Robert Taylor,1152
+Coos ,State House,1,R,Wayne Krieger,6243
+Curry ,State House,1,R,Wayne Krieger,6825
+Douglas ,State House,1,R,Wayne Krieger,3668
+Coos ,State House,1,,Misc.,66
+Curry ,State House,1,,Misc.,89
+Douglas ,State House,1,,Misc.,27
+Douglas ,State House,2,R,Susan Morgan,15873
+Jackson ,State House,2,R,Susan Morgan,707
+Josephine ,State House,2,R,Susan Morgan,382
+Douglas ,State House,2,,Misc.,393
+Jackson ,State House,2,,Misc.,32
+Josephine ,State House,2,,Misc.,28
+Josephine ,State House,3,D,Howard Owens,8645
+Josephine ,State House,3,R,Ron Maurer,14394
+Josephine ,State House,3,,Misc.,47
+Jackson ,State House,4,D,Richard Koopmans,4823
+Josephine ,State House,4,D,Richard Koopmans,2391
+Jackson ,State House,4,R,Dennis Richardson,11521
+Josephine ,State House,4,R,Dennis Richardson,5083
+Jackson ,State House,4,,Misc.,40
+Josephine ,State House,4,,Misc.,31
+Jackson ,State House,5,D,Peter Buckley,19310
+Jackson ,State House,5,,Misc.,496
+Jackson ,State House,6,R,Sal Esquivel,11423
+Jackson ,State House,6,D,Mike Moran,10541
+Jackson ,State House,6,,Misc.,43
+Douglas ,State House,7,R,Bruce Hanna,9129
+Lane ,State House,7,R,Bruce Hanna,6376
+Douglas ,State House,7,,Misc.,216
+Lane ,State House,7,,Misc.,448
+Lane ,State House,8,D,Paul R. Holvey,18481
+Lane ,State House,8,R,Andrew Hill,5460
+Lane ,State House,8,,Misc.,63
+Coos ,State House,9,R,Al Pearn,6282
+Douglas ,State House,9,R,Al Pearn,1000
+Lane ,State House,9,R,Al Pearn,2511
+Coos ,State House,9,D,Arnie Roblan,9054
+Douglas ,State House,9,D,Arnie Roblan,1310
+Lane ,State House,9,D,Arnie Roblan,2976
+Coos ,State House,9,,Misc.,22
+Douglas ,State House,9,,Misc.,2
+Lane ,State House,9,,Misc.,8
+Lane ,State House,10,D,Jean Cowan,2635
+Lincoln ,State House,10,D,Jean Cowan,9931
+Polk ,State House,10,D,Jean Cowan,181
+Tillamook ,State House,10,D,Jean Cowan,0
+Yamhill ,State House,10,D,Jean Cowan,157
+Lane ,State House,10,R,Alan Brown,2244
+Lincoln ,State House,10,R,Alan Brown,9418
+Polk ,State House,10,R,Alan Brown,183
+Tillamook ,State House,10,R,Alan Brown,1
+Yamhill ,State House,10,R,Alan Brown,266
+Lane ,State House,10,,Misc.,12
+Lincoln ,State House,10,,Misc.,48
+Polk ,State House,10,,Misc.,7
+Tillamook ,State House,10,,Misc.,0
+Yamhill ,State House,10,,Misc.,1
+Lane ,State House,11,D,Phil Barnhart,14262
+Linn ,State House,11,D,Phil Barnhart,1944
+Lane ,State House,11,R,Jim Oakley,7362
+Linn ,State House,11,R,Jim Oakley,2647
+Lane ,State House,11,,Misc.,44
+Linn ,State House,11,,Misc.,13
+Lane ,State House,12,D,Elizabeth Terry Beyer,11015
+Lane ,State House,12,R,Bill Lioio,6093
+Lane ,State House,12,,Misc.,36
+Lane ,State House,13,D,Nancy Nathanson,17505
+Lane ,State House,13,R,Monica Johnson,6622
+Lane ,State House,13,,Misc.,73
+Lane ,State House,14,D,Chris Edwards,12320
+Lane ,State House,14,R,Debi Farr,11257
+Lane ,State House,14,,Misc.,56
+Benton ,State House,15,R,Andy Olson,4653
+Linn ,State House,15,R,Andy Olson,11664
+Benton ,State House,15,D,Sam H.W. Sappington,2542
+Linn ,State House,15,D,Sam H.W. Sappington,5092
+Benton ,State House,15,,Misc.,13
+Linn ,State House,15,,Misc.,34
+Benton ,State House,16,R,Robin M. Brown,7250
+Linn ,State House,16,R,Robin M. Brown,2
+Benton ,State House,16,D,Sara A. Gelser,15058
+Linn ,State House,16,D,Sara A. Gelser,0
+Benton ,State House,16,,Misc.,40
+Linn ,State House,16,,Misc.,0
+Linn ,State House,17,D,Dan Thackaberry,6141
+Marion ,State House,17,D,Dan Thackaberry,2541
+Linn ,State House,17,R,Fred Girod,8545
+Marion ,State House,17,R,Fred Girod,4113
+Linn ,State House,17,,Misc.,57
+Marion ,State House,17,,Misc.,34
+Clackamas ,State House,18,D,Jim Gilbert,4202
+Marion ,State House,18,D,Jim Gilbert,5638
+Clackamas ,State House,18,R,Mac Sumner,5424
+Marion ,State House,18,R,Mac Sumner,6102
+Clackamas ,State House,18,C,Roger Shipman,238
+Marion ,State House,18,C,Roger Shipman,266
+Clackamas ,State House,18,,Misc.,14
+Marion ,State House,18,,Misc.,20
+Marion ,State House,19,R,Kevin Cameron,12506
+Marion ,State House,19,D,Brian Grisham,9529
+Marion ,State House,19,,Misc.,54
+Marion ,State House,20,R,Vicki Berger,5398
+Polk ,State House,20,R,Vicki Berger,7984
+Marion ,State House,20,D,Connie Garcia,3836
+Polk ,State House,20,D,Connie Garcia,5204
+Marion ,State House,20,,Misc.,41
+Polk ,State House,20,,Misc.,38
+Marion ,State House,21,D,Brian L. Clem,9598
+Marion ,State House,21,R,Billy Dalto,6025
+Marion ,State House,21,,Misc.,101
+Marion ,State House,22,D,Betty Komp,5830
+Marion ,State House,22,R,Carl Wieneke,5090
+Marion ,State House,22,C,Michael Marsh,381
+Marion ,State House,22,,Misc.,22
+Benton ,State House,23,R,Brian Boquist,2135
+Linn ,State House,23,R,Brian Boquist,1178
+Marion ,State House,23,R,Brian Boquist,2083
+Polk ,State House,23,R,Brian Boquist,7248
+Yamhill ,State House,23,R,Brian Boquist,778
+Benton ,State House,23,D,Jason Brown,2049
+Linn ,State House,23,D,Jason Brown,662
+Marion ,State House,23,D,Jason Brown,1177
+Polk ,State House,23,D,Jason Brown,4283
+Yamhill ,State House,23,D,Jason Brown,589
+Benton ,State House,23,L,Paul Delaney,150
+Linn ,State House,23,L,Paul Delaney,97
+Marion ,State House,23,L,Paul Delaney,147
+Polk ,State House,23,L,Paul Delaney,462
+Yamhill ,State House,23,L,Paul Delaney,86
+Benton ,State House,23,,Misc.,6
+Linn ,State House,23,,Misc.,3
+Marion ,State House,23,,Misc.,6
+Polk ,State House,23,,Misc.,10
+Yamhill ,State House,23,,Misc.,2
+Polk ,State House,24,L,David Terry,30
+Yamhill ,State House,24,L,David Terry,822
+Polk ,State House,24,D,Sal Peralta,204
+Yamhill ,State House,24,D,Sal Peralta,10643
+Polk ,State House,24,R,Donna G. Nelson,315
+Yamhill ,State House,24,R,Donna G. Nelson,10891
+Polk ,State House,24,,Misc.,1
+Yamhill ,State House,24,,Misc.,159
+Marion ,State House,25,R,Kim Thatcher,7183
+Yamhill ,State House,25,R,Kim Thatcher,4773
+Marion ,State House,25,D,Charles E. Lee,5960
+Yamhill ,State House,25,D,Charles E. Lee,3017
+Marion ,State House,25,,Misc.,21
+Yamhill ,State House,25,,Misc.,17
+Clackamas ,State House,26,D,Lee Coleman,2358
+Washington ,State House,26,D,Lee Coleman,6955
+Clackamas ,State House,26,R,Jerry Krummel,4008
+Washington ,State House,26,R,Jerry Krummel,10416
+Clackamas ,State House,26,L,Charles F. Radley,129
+Washington ,State House,26,L,Charles F. Radley,488
+Clackamas ,State House,26,,Misc.,7
+Washington ,State House,26,,Misc.,26
+Multnomah ,State House,27,R,Domonic Biggi,762
+Washington ,State House,27,R,Domonic Biggi,8944
+Multnomah ,State House,27,D,Tobias Read,1348
+Washington ,State House,27,D,Tobias Read,12977
+Multnomah ,State House,27,,Misc.,6
+Washington ,State House,27,,Misc.,37
+Washington ,State House,28,D,Jeff Barker,10924
+Washington ,State House,28,R,Eldon Derville-Teer,5912
+Washington ,State House,28,,Misc.,86
+Washington ,State House,29,L,Scott Harwood,769
+Washington ,State House,29,D,Chuck Riley,7987
+Washington ,State House,29,R,Terry Rilling,6659
+Washington ,State House,29,,Misc.,34
+Washington ,State House,30,C,Ken Cunningham,442
+Washington ,State House,30,R,Everett Curry,8965
+Washington ,State House,30,D,David Edwards,12253
+Washington ,State House,30,,Misc.,38
+Clatsop ,State House,31,C,Bob Ekstrom,362
+Columbia ,State House,31,C,Bob Ekstrom,2404
+Multnomah ,State House,31,C,Bob Ekstrom,36
+Clatsop ,State House,31,R,Mike Kocher,1272
+Columbia ,State House,31,R,Mike Kocher,5516
+Multnomah ,State House,31,R,Mike Kocher,167
+Clatsop ,State House,31,D,Brad Witt,3639
+Columbia ,State House,31,D,Brad Witt,10084
+Multnomah ,State House,31,D,Brad Witt,252
+Clatsop ,State House,31,,Misc.,15
+Columbia ,State House,31,,Misc.,43
+Multnomah ,State House,31,,Misc.,4
+Clatsop ,State House,32,D,Deborah Boone,6127
+Columbia ,State House,32,D,Deborah Boone,287
+Tillamook ,State House,32,D,Deborah Boone,6456
+Clatsop ,State House,32,R,Norm Myers,2907
+Columbia ,State House,32,R,Norm Myers,244
+Tillamook ,State House,32,R,Norm Myers,3902
+Clatsop ,State House,32,,Misc.,15
+Columbia ,State House,32,,Misc.,5
+Tillamook ,State House,32,,Misc.,33
+Multnomah ,State House,33,R,Mark Eggleston,1998
+Washington ,State House,33,R,Mark Eggleston,5380
+Multnomah ,State House,33,L,David E. Long,509
+Washington ,State House,33,L,David E. Long,571
+Multnomah ,State House,33,D,Mitch Greenlick,10565
+Washington ,State House,33,D,Mitch Greenlick,8916
+Multnomah ,State House,33,,Misc.,38
+Washington ,State House,33,,Misc.,24
+Washington ,State House,34,D,Suzanne Bonamici,11780
+Washington ,State House,34,R,Joan Draper,6902
+Washington ,State House,34,L,Gregory F. Rohde,439
+Washington ,State House,34,,Misc.,27
+Multnomah ,State House,35,R,Shirley Parsons,534
+Washington ,State House,35,R,Shirley Parsons,9466
+Multnomah ,State House,35,D,Larry Galizio,1208
+Washington ,State House,35,D,Larry Galizio,11420
+Multnomah ,State House,35,,Misc.,7
+Washington ,State House,35,,Misc.,40
+Multnomah ,State House,36,L,Frank Dane,3520
+Multnomah ,State House,36,D,Mary Nolan,20344
+Multnomah ,State House,36,,Misc.,137
+Clackamas ,State House,37,D,Bev Backa,6733
+Washington ,State House,37,D,Bev Backa,3728
+Clackamas ,State House,37,R,Scott Bruun,8035
+Washington ,State House,37,R,Scott Bruun,4496
+Clackamas ,State House,37,L,David M. Akin,309
+Washington ,State House,37,L,David M. Akin,198
+Clackamas ,State House,37,,Misc.,11
+Washington ,State House,37,,Misc.,9
+Clackamas ,State House,38,R,Fred Bremner,6201
+Multnomah ,State House,38,R,Fred Bremner,2115
+Washington ,State House,38,R,Fred Bremner,19
+Clackamas ,State House,38,D,Greg Macpherson,11269
+Multnomah ,State House,38,D,Greg Macpherson,7050
+Washington ,State House,38,D,Greg Macpherson,42
+Clackamas ,State House,38,,Misc.,24
+Multnomah ,State House,38,,Misc.,21
+Washington ,State House,38,,Misc.,0
+Clackamas ,State House,39,D,Mike Caudle,9214
+Clackamas ,State House,39,L,Wes Wagner,819
+Clackamas ,State House,39,R,Scott Wayne,12247
+Clackamas ,State House,39,,Misc.,51
+Clackamas ,State House,40,D,Dave Hunt,13606
+Clackamas ,State House,40,,Misc.,418
+Clackamas ,State House,41,D,Carolyn Tomei,5191
+Multnomah ,State House,41,D,Carolyn Tomei,10807
+Clackamas ,State House,41,,Misc.,225
+Multnomah ,State House,41,,Misc.,285
+Multnomah ,State House,42,P,Jeff Cropp,3870
+Multnomah ,State House,42,D,Diane Rosenbaum,20325
+Multnomah ,State House,42,,Misc.,155
+Multnomah ,State House,43,D,Chip Shields,18340
+Multnomah ,State House,43,,Misc.,378
+Multnomah ,State House,44,R,Jay Kushner,3645
+Multnomah ,State House,44,D,Tina Kotek,13931
+Multnomah ,State House,44,,Misc.,97
+Multnomah ,State House,45,D,Jackie Dingfelder,18460
+Multnomah ,State House,45,R,Dick Osborne,4603
+Multnomah ,State House,45,,Misc.,73
+Multnomah ,State House,46,D,Ben Cannon,16348
+Multnomah ,State House,46,R,William (Bill) C. Cornett,3493
+Multnomah ,State House,46,PAC,Paul Loney,1318
+Multnomah ,State House,46,,Misc.,75
+Multnomah ,State House,47,R,Bruce McCain,6192
+Multnomah ,State House,47,D,Jeff Merkley,11106
+Multnomah ,State House,47,,Misc.,65
+Clackamas ,State House,48,D,Mike Schaufler,2839
+Multnomah ,State House,48,D,Mike Schaufler,8423
+Clackamas ,State House,48,C,N.W. (Bill) Stallings,1042
+Multnomah ,State House,48,C,N.W. (Bill) Stallings,2630
+Clackamas ,State House,48,,Misc.,82
+Multnomah ,State House,48,,Misc.,150
+Multnomah ,State House,49,D,Rob Brading,7911
+Multnomah ,State House,49,R,Karen Minnis,8601
+Multnomah ,State House,49,,Misc.,92
+Multnomah ,State House,50,L,Brian D. Lowery,557
+Multnomah ,State House,50,R,John Lim,11362
+Multnomah ,State House,50,D,Jill Selman-Ringer,6107
+Multnomah ,State House,50,,Misc.,48
+Clackamas ,State House,51,R,Linda Flores,11480
+Multnomah ,State House,51,R,Linda Flores,446
+Clackamas ,State House,51,D,Ryan A. Olds,8325
+Multnomah ,State House,51,D,Ryan A. Olds,430
+Clackamas ,State House,51,,Misc.,27
+Multnomah ,State House,51,,Misc.,3
+Clackamas ,State House,52,D,Suzanne VanOrman,5273
+Hood River ,State House,52,D,Suzanne VanOrman,3533
+Multnomah ,State House,52,D,Suzanne VanOrman,1188
+Clackamas ,State House,52,R,Patti Smith,6844
+Hood River ,State House,52,R,Patti Smith,3738
+Multnomah ,State House,52,R,Patti Smith,2006
+Clackamas ,State House,52,,Misc.,21
+Hood River ,State House,52,,Misc.,6
+Multnomah ,State House,52,,Misc.,7
+Deschutes ,State House,53,R,Gene Whisnant,16527
+Deschutes ,State House,53,D,Bill A. Smith,11406
+Deschutes ,State House,53,,Misc.,31
+Deschutes ,State House,54,R,Chuck Burley,14780
+Deschutes ,State House,54,D,Phil Philiben,11873
+Deschutes ,State House,54,,Misc.,67
+Crook ,State House,55,R,George Gilman,5435
+Deschutes ,State House,55,R,George Gilman,143
+Jackson ,State House,55,R,George Gilman,7084
+Klamath ,State House,55,R,George Gilman,1636
+Lake ,State House,55,R,George Gilman,2193
+Crook ,State House,55,,Misc.,109
+Deschutes ,State House,55,,Misc.,3
+Jackson ,State House,55,,Misc.,206
+Klamath ,State House,55,,Misc.,62
+Lake ,State House,55,,Misc.,37
+Klamath ,State House,56,D,James Calvert,6855
+Klamath ,State House,56,R,Bill Garrard,13759
+Klamath ,State House,56,,Misc.,46
+Morrow ,State House,57,D,Tonia P. St. Germain,797
+Umatilla ,State House,57,D,Tonia P. St. Germain,995
+Union ,State House,57,D,Tonia P. St. Germain,3219
+Wallowa ,State House,57,D,Tonia P. St. Germain,1047
+Morrow ,State House,57,R,Greg Smith,2215
+Umatilla ,State House,57,R,Greg Smith,2692
+Union ,State House,57,R,Greg Smith,6541
+Wallowa ,State House,57,R,Greg Smith,2671
+Morrow ,State House,57,,Misc.,3
+Umatilla ,State House,57,,Misc.,4
+Union ,State House,57,,Misc.,22
+Wallowa ,State House,57,,Misc.,16
+Umatilla ,State House,58,D,Ben Talley,4629
+Union ,State House,58,D,Ben Talley,0
+Umatilla ,State House,58,R,Bob Jenson,10194
+Union ,State House,58,R,Bob Jenson,0
+Umatilla ,State House,58,,Misc.,31
+Union ,State House,58,,Misc.,0
+Clackamas ,State House,59,R,John H. Dallum,0
+Deschutes ,State House,59,R,John H. Dallum,513
+Gilliam ,State House,59,R,John H. Dallum,444
+Grant ,State House,59,R,John H. Dallum,1794
+Jefferson ,State House,59,R,John H. Dallum,2827
+Marion ,State House,59,R,John H. Dallum,0
+Sherman ,State House,59,R,John H. Dallum,475
+Wasco ,State House,59,R,John H. Dallum,4315
+Wheeler ,State House,59,R,John H. Dallum,365
+Clackamas ,State House,59,D,Jim Gilbertson,0
+Deschutes ,State House,59,D,Jim Gilbertson,377
+Gilliam ,State House,59,D,Jim Gilbertson,467
+Grant ,State House,59,D,Jim Gilbertson,999
+Jefferson ,State House,59,D,Jim Gilbertson,3494
+Marion ,State House,59,D,Jim Gilbertson,0
+Sherman ,State House,59,D,Jim Gilbertson,377
+Wasco ,State House,59,D,Jim Gilbertson,4412
+Wheeler ,State House,59,D,Jim Gilbertson,327
+Clackamas ,State House,59,,Misc.,0
+Deschutes ,State House,59,,Misc.,1
+Gilliam ,State House,59,,Misc.,2
+Grant ,State House,59,,Misc.,6
+Jefferson ,State House,59,,Misc.,5
+Marion ,State House,59,,Misc.,0
+Sherman ,State House,59,,Misc.,3
+Wasco ,State House,59,,Misc.,15
+Wheeler ,State House,59,,Misc.,0
+Baker ,State House,60,R,R. Thomas (Tom) Butler,4764
+Grant ,State House,60,R,R. Thomas (Tom) Butler,224
+Harney ,State House,60,R,R. Thomas (Tom) Butler,2217
+Malheur ,State House,60,R,R. Thomas (Tom) Butler,6157
+Baker ,State House,60,D,Peter Hall,2085
+Grant ,State House,60,D,Peter Hall,60
+Harney ,State House,60,D,Peter Hall,636
+Malheur ,State House,60,D,Peter Hall,1794
+Baker ,State House,60,,Misc.,21
+Grant ,State House,60,,Misc.,1
+Harney ,State House,60,,Misc.,7
+Malheur ,State House,60,,Misc.,17

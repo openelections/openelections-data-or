@@ -1,1 +1,456 @@
-county,precinct,office,district,party,candidate,votesSherman,Rufus #1,President,,REP,Ted Cruz,5Sherman,Rufus #1,President,,REP,John R Kasich,1Sherman,Rufus #1,President,,REP,Donald J Trump,39Sherman,Rufus #1,President,,REP,Write-in,0Sherman,Rufus #1,President,,REP,Over Votes,0Sherman,Rufus #1,President,,REP,Under Votes,5Sherman,Wasco #2,President,,REP,Ted Cruz,15Sherman,Wasco #2,President,,REP,John R Kasich,20Sherman,Wasco #2,President,,REP,Donald J Trump,87Sherman,Wasco #2,President,,REP,Write-in,2Sherman,Wasco #2,President,,REP,Over Votes,0Sherman,Wasco #2,President,,REP,Under Votes,7Sherman,Moro #3,President,,REP,Ted Cruz,16Sherman,Moro #3,President,,REP,John R Kasich,12Sherman,Moro #3,President,,REP,Donald J Trump,90Sherman,Moro #3,President,,REP,Write-in,1Sherman,Moro #3,President,,REP,Over Votes,0Sherman,Moro #3,President,,REP,Under Votes,6Sherman,Grass Valley #4,President,,REP,Ted Cruz,17Sherman,Grass Valley #4,President,,REP,John R Kasich,5Sherman,Grass Valley #4,President,,REP,Donald J Trump,46Sherman,Grass Valley #4,President,,REP,Write-in,2Sherman,Grass Valley #4,President,,REP,Over Votes,0Sherman,Grass Valley #4,President,,REP,Under Votes,2Sherman,Kent #5,President,,REP,Ted Cruz,6Sherman,Kent #5,President,,REP,John R Kasich,7Sherman,Kent #5,President,,REP,Donald J Trump,17Sherman,Kent #5,President,,REP,Write-in,0Sherman,Kent #5,President,,REP,Over Votes,0Sherman,Kent #5,President,,REP,Under Votes,1Sherman,Rufus #1,U.S. Senate,,REP,Sam Carpenter,8Sherman,Rufus #1,U.S. Senate,,REP,Mark Callahan,15Sherman,Rufus #1,U.S. Senate,,REP,Faye Stewart,2Sherman,Rufus #1,U.S. Senate,,REP,Dan Laschober,4Sherman,Rufus #1,U.S. Senate,,REP,Write-in,3Sherman,Rufus #1,U.S. Senate,,REP,Over Votes,0Sherman,Rufus #1,U.S. Senate,,REP,Under Votes,18Sherman,Wasco #2,U.S. Senate,,REP,Sam Carpenter,30Sherman,Wasco #2,U.S. Senate,,REP,Mark Callahan,41Sherman,Wasco #2,U.S. Senate,,REP,Faye Stewart,12Sherman,Wasco #2,U.S. Senate,,REP,Dan Laschober,7Sherman,Wasco #2,U.S. Senate,,REP,Write-in,3Sherman,Wasco #2,U.S. Senate,,REP,Over Votes,0Sherman,Wasco #2,U.S. Senate,,REP,Under Votes,38Sherman,Moro #3,U.S. Senate,,REP,Sam Carpenter,32Sherman,Moro #3,U.S. Senate,,REP,Mark Callahan,34Sherman,Moro #3,U.S. Senate,,REP,Faye Stewart,12Sherman,Moro #3,U.S. Senate,,REP,Dan Laschober,4Sherman,Moro #3,U.S. Senate,,REP,Write-in,3Sherman,Moro #3,U.S. Senate,,REP,Over Votes,0Sherman,Moro #3,U.S. Senate,,REP,Under Votes,40Sherman,Grass Valley #4,U.S. Senate,,REP,Sam Carpenter,19Sherman,Grass Valley #4,U.S. Senate,,REP,Mark Callahan,17Sherman,Grass Valley #4,U.S. Senate,,REP,Faye Stewart,6Sherman,Grass Valley #4,U.S. Senate,,REP,Dan Laschober,3Sherman,Grass Valley #4,U.S. Senate,,REP,Write-in,0Sherman,Grass Valley #4,U.S. Senate,,REP,Over Votes,0Sherman,Grass Valley #4,U.S. Senate,,REP,Under Votes,27Sherman,Kent #5,U.S. Senate,,REP,Sam Carpenter,10Sherman,Kent #5,U.S. Senate,,REP,Mark Callahan,9Sherman,Kent #5,U.S. Senate,,REP,Faye Stewart,1Sherman,Kent #5,U.S. Senate,,REP,Dan Laschober,4Sherman,Kent #5,U.S. Senate,,REP,Write-in,0Sherman,Kent #5,U.S. Senate,,REP,Over Votes,0Sherman,Kent #5,U.S. Senate,,REP,Under Votes,7Sherman,Rufus #1,U.S. House,2,REP,Paul J Romero Jr,2Sherman,Rufus #1,U.S. House,2,REP,Greg Walden,42Sherman,Rufus #1,U.S. House,2,REP,Write-in,0Sherman,Rufus #1,U.S. House,2,REP,Over Votes,0Sherman,Rufus #1,U.S. House,2,REP,Under Votes,6Sherman,Wasco #2,U.S. House,2,REP,Paul J Romero Jr,26Sherman,Wasco #2,U.S. House,2,REP,Greg Walden,101Sherman,Wasco #2,U.S. House,2,REP,Write-in,1Sherman,Wasco #2,U.S. House,2,REP,Over Votes,0Sherman,Wasco #2,U.S. House,2,REP,Under Votes,3Sherman,Moro #3,U.S. House,2,REP,Paul J Romero Jr,12Sherman,Moro #3,U.S. House,2,REP,Greg Walden,107Sherman,Moro #3,U.S. House,2,REP,Write-in,0Sherman,Moro #3,U.S. House,2,REP,Over Votes,0Sherman,Moro #3,U.S. House,2,REP,Under Votes,6Sherman,Grass Valley #4,U.S. House,2,REP,Paul J Romero Jr,9Sherman,Grass Valley #4,U.S. House,2,REP,Greg Walden,62Sherman,Grass Valley #4,U.S. House,2,REP,Write-in,0Sherman,Grass Valley #4,U.S. House,2,REP,Over Votes,0Sherman,Grass Valley #4,U.S. House,2,REP,Under Votes,1Sherman,Kent #5,U.S. House,2,REP,Paul J Romero Jr,2Sherman,Kent #5,U.S. House,2,REP,Greg Walden,28Sherman,Kent #5,U.S. House,2,REP,Write-in,0Sherman,Kent #5,U.S. House,2,REP,Over Votes,0Sherman,Kent #5,U.S. House,2,REP,Under Votes,1Sherman,Rufus #1,Governor,,REP,Bruce Cuff,2Sherman,Rufus #1,Governor,,REP,Bob Niemeyer,3Sherman,Rufus #1,Governor,,REP,Bob Forthan,1Sherman,Rufus #1,Governor,,REP,Bud Pierce,13Sherman,Rufus #1,Governor,,REP,Allen Alley,15Sherman,Rufus #1,Governor,,REP,Write-in,0Sherman,Rufus #1,Governor,,REP,Over Votes,0Sherman,Rufus #1,Governor,,REP,Under Votes,16Sherman,Wasco #2,Governor,,REP,Bruce Cuff,5Sherman,Wasco #2,Governor,,REP,Bob Niemeyer,18Sherman,Wasco #2,Governor,,REP,Bob Forthan,2Sherman,Wasco #2,Governor,,REP,Bud Pierce,42Sherman,Wasco #2,Governor,,REP,Allen Alley,46Sherman,Wasco #2,Governor,,REP,Write-in,1Sherman,Wasco #2,Governor,,REP,Over Votes,0Sherman,Wasco #2,Governor,,REP,Under Votes,17Sherman,Moro #3,Governor,,REP,Bruce Cuff,12Sherman,Moro #3,Governor,,REP,Bob Niemeyer,17Sherman,Moro #3,Governor,,REP,Bob Forthan,0Sherman,Moro #3,Governor,,REP,Bud Pierce,36Sherman,Moro #3,Governor,,REP,Allen Alley,39Sherman,Moro #3,Governor,,REP,Write-in,0Sherman,Moro #3,Governor,,REP,Over Votes,0Sherman,Moro #3,Governor,,REP,Under Votes,21Sherman,Grass Valley #4,Governor,,REP,Bruce Cuff,7Sherman,Grass Valley #4,Governor,,REP,Bob Niemeyer,8Sherman,Grass Valley #4,Governor,,REP,Bob Forthan,1Sherman,Grass Valley #4,Governor,,REP,Bud Pierce,24Sherman,Grass Valley #4,Governor,,REP,Allen Alley,24Sherman,Grass Valley #4,Governor,,REP,Write-in,0Sherman,Grass Valley #4,Governor,,REP,Over Votes,0Sherman,Grass Valley #4,Governor,,REP,Under Votes,8Sherman,Kent #5,Governor,,REP,Bruce Cuff,0Sherman,Kent #5,Governor,,REP,Bob Niemeyer,3Sherman,Kent #5,Governor,,REP,Bob Forthan,0Sherman,Kent #5,Governor,,REP,Bud Pierce,4Sherman,Kent #5,Governor,,REP,Allen Alley,21Sherman,Kent #5,Governor,,REP,Write-in,1Sherman,Kent #5,Governor,,REP,Over Votes,0Sherman,Kent #5,Governor,,REP,Under Votes,2Sherman,Rufus #1,Secretary of State,,REP,Dennis Richardson,28Sherman,Rufus #1,Secretary of State,,REP,Sid Leiken,5Sherman,Rufus #1,Secretary of State,,REP,Write-in,1Sherman,Rufus #1,Secretary of State,,REP,Over Votes,0Sherman,Rufus #1,Secretary of State,,REP,Under Votes,16Sherman,Wasco #2,Secretary of State,,REP,Dennis Richardson,93Sherman,Wasco #2,Secretary of State,,REP,Sid Leiken,16Sherman,Wasco #2,Secretary of State,,REP,Write-in,1Sherman,Wasco #2,Secretary of State,,REP,Over Votes,0Sherman,Wasco #2,Secretary of State,,REP,Under Votes,21Sherman,Moro #3,Secretary of State,,REP,Dennis Richardson,79Sherman,Moro #3,Secretary of State,,REP,Sid Leiken,19Sherman,Moro #3,Secretary of State,,REP,Write-in,1Sherman,Moro #3,Secretary of State,,REP,Over Votes,0Sherman,Moro #3,Secretary of State,,REP,Under Votes,26Sherman,Grass Valley #4,Secretary of State,,REP,Dennis Richardson,45Sherman,Grass Valley #4,Secretary of State,,REP,Sid Leiken,12Sherman,Grass Valley #4,Secretary of State,,REP,Write-in,2Sherman,Grass Valley #4,Secretary of State,,REP,Over Votes,0Sherman,Grass Valley #4,Secretary of State,,REP,Under Votes,13Sherman,Kent #5,Secretary of State,,REP,Dennis Richardson,22Sherman,Kent #5,Secretary of State,,REP,Sid Leiken,3Sherman,Kent #5,Secretary of State,,REP,Write-in,0Sherman,Kent #5,Secretary of State,,REP,Over Votes,0Sherman,Kent #5,Secretary of State,,REP,Under Votes,6Sherman,Rufus #1,State Treasurer,,REP,Jeff Gudman,24Sherman,Rufus #1,State Treasurer,,REP,Write-in,0Sherman,Rufus #1,State Treasurer,,REP,Over Votes,0Sherman,Rufus #1,State Treasurer,,REP,Under Votes,26Sherman,Wasco #2,State Treasurer,,REP,Jeff Gudman,83Sherman,Wasco #2,State Treasurer,,REP,Write-in,2Sherman,Wasco #2,State Treasurer,,REP,Over Votes,0Sherman,Wasco #2,State Treasurer,,REP,Under Votes,46Sherman,Moro #3,State Treasurer,,REP,Jeff Gudman,79Sherman,Moro #3,State Treasurer,,REP,Write-in,1Sherman,Moro #3,State Treasurer,,REP,Over Votes,0Sherman,Moro #3,State Treasurer,,REP,Under Votes,45Sherman,Grass Valley #4,State Treasurer,,REP,Jeff Gudman,49Sherman,Grass Valley #4,State Treasurer,,REP,Write-in,0Sherman,Grass Valley #4,State Treasurer,,REP,Over Votes,0Sherman,Grass Valley #4,State Treasurer,,REP,Under Votes,23Sherman,Kent #5,State Treasurer,,REP,Jeff Gudman,16Sherman,Kent #5,State Treasurer,,REP,Write-in,0Sherman,Kent #5,State Treasurer,,REP,Over Votes,0Sherman,Kent #5,State Treasurer,,REP,Under Votes,15Sherman,Rufus #1,Attorney General,,REP,Daniel Zene Crowe,21Sherman,Rufus #1,Attorney General,,REP,Write-in,0Sherman,Rufus #1,Attorney General,,REP,Over Votes,0Sherman,Rufus #1,Attorney General,,REP,Under Votes,29Sherman,Wasco #2,Attorney General,,REP,Daniel Zene Crowe,76Sherman,Wasco #2,Attorney General,,REP,Write-in,2Sherman,Wasco #2,Attorney General,,REP,Over Votes,0Sherman,Wasco #2,Attorney General,,REP,Under Votes,53Sherman,Moro #3,Attorney General,,REP,Daniel Zene Crowe,71Sherman,Moro #3,Attorney General,,REP,Write-in,1Sherman,Moro #3,Attorney General,,REP,Over Votes,0Sherman,Moro #3,Attorney General,,REP,Under Votes,53Sherman,Grass Valley #4,Attorney General,,REP,Daniel Zene Crowe,45Sherman,Grass Valley #4,Attorney General,,REP,Write-in,0Sherman,Grass Valley #4,Attorney General,,REP,Over Votes,0Sherman,Grass Valley #4,Attorney General,,REP,Under Votes,27Sherman,Kent #5,Attorney General,,REP,Daniel Zene Crowe,16Sherman,Kent #5,Attorney General,,REP,Write-in,0Sherman,Kent #5,Attorney General,,REP,Over Votes,0Sherman,Kent #5,Attorney General,,REP,Under Votes,15Sherman,Rufus #1,State Senate,29,REP,Bill Hansell,28Sherman,Rufus #1,State Senate,29,REP,Write-in,0Sherman,Rufus #1,State Senate,29,REP,Over Votes,0Sherman,Rufus #1,State Senate,29,REP,Under Votes,22Sherman,Wasco #2,State Senate,29,REP,Bill Hansell,97Sherman,Wasco #2,State Senate,29,REP,Write-in,2Sherman,Wasco #2,State Senate,29,REP,Over Votes,0Sherman,Wasco #2,State Senate,29,REP,Under Votes,32Sherman,Moro #3,State Senate,29,REP,Bill Hansell,93Sherman,Moro #3,State Senate,29,REP,Write-in,0Sherman,Moro #3,State Senate,29,REP,Over Votes,0Sherman,Moro #3,State Senate,29,REP,Under Votes,32Sherman,Grass Valley #4,State Senate,29,REP,Bill Hansell,52Sherman,Grass Valley #4,State Senate,29,REP,Write-in,0Sherman,Grass Valley #4,State Senate,29,REP,Over Votes,0Sherman,Grass Valley #4,State Senate,29,REP,Under Votes,20Sherman,Kent #5,State Senate,29,REP,Bill Hansell,22Sherman,Kent #5,State Senate,29,REP,Write-in,0Sherman,Kent #5,State Senate,29,REP,Over Votes,0Sherman,Kent #5,State Senate,29,REP,Under Votes,9Sherman,Rufus #1,State House,57,REP,Greg Smith,30Sherman,Rufus #1,State House,57,REP,Write-in,0Sherman,Rufus #1,State House,57,REP,Over Votes,0Sherman,Rufus #1,State House,57,REP,Under Votes,20Sherman,Wasco #2,State House,57,REP,Greg Smith,100Sherman,Wasco #2,State House,57,REP,Write-in,3Sherman,Wasco #2,State House,57,REP,Over Votes,0Sherman,Wasco #2,State House,57,REP,Under Votes,28Sherman,Moro #3,State House,57,REP,Greg Smith,98Sherman,Moro #3,State House,57,REP,Write-in,1Sherman,Moro #3,State House,57,REP,Over Votes,0Sherman,Moro #3,State House,57,REP,Under Votes,26Sherman,Grass Valley #4,State House,57,REP,Greg Smith,51Sherman,Grass Valley #4,State House,57,REP,Write-in,0Sherman,Grass Valley #4,State House,57,REP,Over Votes,0Sherman,Grass Valley #4,State House,57,REP,Under Votes,21Sherman,Kent #5,State House,57,REP,Greg Smith,23Sherman,Kent #5,State House,57,REP,Write-in,0Sherman,Kent #5,State House,57,REP,Over Votes,0Sherman,Kent #5,State House,57,REP,Under Votes,8Sherman,Rufus #1,President,,DEM,Hillary Clinton,18Sherman,Rufus #1,President,,DEM,Bernie Sanders,15Sherman,Rufus #1,President,,DEM,Write-in,2Sherman,Rufus #1,President,,DEM,Over Votes,0Sherman,Rufus #1,President,,DEM,Under Votes,1Sherman,Wasco #2,President,,DEM,Hillary Clinton,26Sherman,Wasco #2,President,,DEM,Bernie Sanders,26Sherman,Wasco #2,President,,DEM,Write-in,11Sherman,Wasco #2,President,,DEM,Over Votes,0Sherman,Wasco #2,President,,DEM,Under Votes,11Sherman,Moro #3,President,,DEM,Hillary Clinton,19Sherman,Moro #3,President,,DEM,Bernie Sanders,22Sherman,Moro #3,President,,DEM,Write-in,2Sherman,Moro #3,President,,DEM,Over Votes,0Sherman,Moro #3,President,,DEM,Under Votes,4Sherman,Grass Valley #4,President,,DEM,Hillary Clinton,4Sherman,Grass Valley #4,President,,DEM,Bernie Sanders,17Sherman,Grass Valley #4,President,,DEM,Write-in,2Sherman,Grass Valley #4,President,,DEM,Over Votes,0Sherman,Grass Valley #4,President,,DEM,Under Votes,2Sherman,Kent #5,President,,DEM,Hillary Clinton,0Sherman,Kent #5,President,,DEM,Bernie Sanders,2Sherman,Kent #5,President,,DEM,Write-in,2Sherman,Kent #5,President,,DEM,Over Votes,0Sherman,Kent #5,President,,DEM,Under Votes,1Sherman,Rufus #1,U.S. Senate,,DEM,Ron Wyden,32Sherman,Rufus #1,U.S. Senate,,DEM,Paul B Weaver,1Sherman,Rufus #1,U.S. Senate,,DEM,Kevin H Stine,2Sherman,Rufus #1,U.S. Senate,,DEM,Write-in,1Sherman,Rufus #1,U.S. Senate,,DEM,Over Votes,0Sherman,Rufus #1,U.S. Senate,,DEM,Under Votes,0Sherman,Wasco #2,U.S. Senate,,DEM,Ron Wyden,45Sherman,Wasco #2,U.S. Senate,,DEM,Paul B Weaver,8Sherman,Wasco #2,U.S. Senate,,DEM,Kevin H Stine,8Sherman,Wasco #2,U.S. Senate,,DEM,Write-in,3Sherman,Wasco #2,U.S. Senate,,DEM,Over Votes,0Sherman,Wasco #2,U.S. Senate,,DEM,Under Votes,10Sherman,Moro #3,U.S. Senate,,DEM,Ron Wyden,34Sherman,Moro #3,U.S. Senate,,DEM,Paul B Weaver,4Sherman,Moro #3,U.S. Senate,,DEM,Kevin H Stine,5Sherman,Moro #3,U.S. Senate,,DEM,Write-in,2Sherman,Moro #3,U.S. Senate,,DEM,Over Votes,0Sherman,Moro #3,U.S. Senate,,DEM,Under Votes,2Sherman,Grass Valley #4,U.S. Senate,,DEM,Ron Wyden,11Sherman,Grass Valley #4,U.S. Senate,,DEM,Paul B Weaver,3Sherman,Grass Valley #4,U.S. Senate,,DEM,Kevin H Stine,5Sherman,Grass Valley #4,U.S. Senate,,DEM,Write-in,0Sherman,Grass Valley #4,U.S. Senate,,DEM,Over Votes,0Sherman,Grass Valley #4,U.S. Senate,,DEM,Under Votes,6Sherman,Kent #5,U.S. Senate,,DEM,Ron Wyden,3Sherman,Kent #5,U.S. Senate,,DEM,Paul B Weaver,1Sherman,Kent #5,U.S. Senate,,DEM,Kevin H Stine,0Sherman,Kent #5,U.S. Senate,,DEM,Write-in,0Sherman,Kent #5,U.S. Senate,,DEM,Over Votes,0Sherman,Kent #5,U.S. Senate,,DEM,Under Votes,1Sherman,Rufus #1,U.S. House,2,DEM,James (Jim) Crary,25Sherman,Rufus #1,U.S. House,2,DEM,Write-in,1Sherman,Rufus #1,U.S. House,2,DEM,Over Votes,0Sherman,Rufus #1,U.S. House,2,DEM,Under Votes,10Sherman,Wasco #2,U.S. House,2,DEM,James (Jim) Crary,41Sherman,Wasco #2,U.S. House,2,DEM,Write-in,4Sherman,Wasco #2,U.S. House,2,DEM,Over Votes,0Sherman,Wasco #2,U.S. House,2,DEM,Under Votes,29Sherman,Moro #3,U.S. House,2,DEM,James (Jim) Crary,26Sherman,Moro #3,U.S. House,2,DEM,Write-in,3Sherman,Moro #3,U.S. House,2,DEM,Over Votes,0Sherman,Moro #3,U.S. House,2,DEM,Under Votes,18Sherman,Grass Valley #4,U.S. House,2,DEM,James (Jim) Crary,11Sherman,Grass Valley #4,U.S. House,2,DEM,Write-in,1Sherman,Grass Valley #4,U.S. House,2,DEM,Over Votes,0Sherman,Grass Valley #4,U.S. House,2,DEM,Under Votes,13Sherman,Kent #5,U.S. House,2,DEM,James (Jim) Crary,3Sherman,Kent #5,U.S. House,2,DEM,Write-in,0Sherman,Kent #5,U.S. House,2,DEM,Over Votes,0Sherman,Kent #5,U.S. House,2,DEM,Under Votes,2Sherman,Rufus #1,Governor,,DEM,Kate Brown,25Sherman,Rufus #1,Governor,,DEM,Julian Bell,4Sherman,Rufus #1,Governor,,DEM,Chet Chance,1Sherman,Rufus #1,Governor,,DEM,Kevin M Forsythe,1Sherman,Rufus #1,Governor,,DEM,Dave Stauffer,1Sherman,Rufus #1,Governor,,DEM,Steve Johnson,1Sherman,Rufus #1,Governor,,DEM,Write-in,2Sherman,Rufus #1,Governor,,DEM,Over Votes,0Sherman,Rufus #1,Governor,,DEM,Under Votes,1Sherman,Wasco #2,Governor,,DEM,Kate Brown,43Sherman,Wasco #2,Governor,,DEM,Julian Bell,3Sherman,Wasco #2,Governor,,DEM,Chet Chance,2Sherman,Wasco #2,Governor,,DEM,Kevin M Forsythe,2Sherman,Wasco #2,Governor,,DEM,Dave Stauffer,9Sherman,Wasco #2,Governor,,DEM,Steve Johnson,3Sherman,Wasco #2,Governor,,DEM,Write-in,5Sherman,Wasco #2,Governor,,DEM,Over Votes,0Sherman,Wasco #2,Governor,,DEM,Under Votes,7Sherman,Moro #3,Governor,,DEM,Kate Brown,23Sherman,Moro #3,Governor,,DEM,Julian Bell,4Sherman,Moro #3,Governor,,DEM,Chet Chance,0Sherman,Moro #3,Governor,,DEM,Kevin M Forsythe,4Sherman,Moro #3,Governor,,DEM,Dave Stauffer,5Sherman,Moro #3,Governor,,DEM,Steve Johnson,5Sherman,Moro #3,Governor,,DEM,Write-in,3Sherman,Moro #3,Governor,,DEM,Over Votes,0Sherman,Moro #3,Governor,,DEM,Under Votes,3Sherman,Grass Valley #4,Governor,,DEM,Kate Brown,11Sherman,Grass Valley #4,Governor,,DEM,Julian Bell,0Sherman,Grass Valley #4,Governor,,DEM,Chet Chance,1Sherman,Grass Valley #4,Governor,,DEM,Kevin M Forsythe,0Sherman,Grass Valley #4,Governor,,DEM,Dave Stauffer,7Sherman,Grass Valley #4,Governor,,DEM,Steve Johnson,2Sherman,Grass Valley #4,Governor,,DEM,Write-in,1Sherman,Grass Valley #4,Governor,,DEM,Over Votes,0Sherman,Grass Valley #4,Governor,,DEM,Under Votes,3Sherman,Kent #5,Governor,,DEM,Kate Brown,3Sherman,Kent #5,Governor,,DEM,Julian Bell,0Sherman,Kent #5,Governor,,DEM,Chet Chance,0Sherman,Kent #5,Governor,,DEM,Kevin M Forsythe,0Sherman,Kent #5,Governor,,DEM,Dave Stauffer,1Sherman,Kent #5,Governor,,DEM,Steve Johnson,0Sherman,Kent #5,Governor,,DEM,Write-in,1Sherman,Kent #5,Governor,,DEM,Over Votes,0Sherman,Kent #5,Governor,,DEM,Under Votes,0Sherman,Rufus #1,Secretary of State,,DEM,Richard Devlin,10Sherman,Rufus #1,Secretary of State,,DEM,Brad Avakian,14Sherman,Rufus #1,Secretary of State,,DEM,Val Hoyle,6Sherman,Rufus #1,Secretary of State,,DEM,Write-in,0Sherman,Rufus #1,Secretary of State,,DEM,Over Votes,0Sherman,Rufus #1,Secretary of State,,DEM,Under Votes,6Sherman,Wasco #2,Secretary of State,,DEM,Richard Devlin,11Sherman,Wasco #2,Secretary of State,,DEM,Brad Avakian,25Sherman,Wasco #2,Secretary of State,,DEM,Val Hoyle,16Sherman,Wasco #2,Secretary of State,,DEM,Write-in,4Sherman,Wasco #2,Secretary of State,,DEM,Over Votes,0Sherman,Wasco #2,Secretary of State,,DEM,Under Votes,18Sherman,Moro #3,Secretary of State,,DEM,Richard Devlin,14Sherman,Moro #3,Secretary of State,,DEM,Brad Avakian,8Sherman,Moro #3,Secretary of State,,DEM,Val Hoyle,10Sherman,Moro #3,Secretary of State,,DEM,Write-in,2Sherman,Moro #3,Secretary of State,,DEM,Over Votes,0Sherman,Moro #3,Secretary of State,,DEM,Under Votes,13Sherman,Grass Valley #4,Secretary of State,,DEM,Richard Devlin,6Sherman,Grass Valley #4,Secretary of State,,DEM,Brad Avakian,5Sherman,Grass Valley #4,Secretary of State,,DEM,Val Hoyle,6Sherman,Grass Valley #4,Secretary of State,,DEM,Write-in,1Sherman,Grass Valley #4,Secretary of State,,DEM,Over Votes,0Sherman,Grass Valley #4,Secretary of State,,DEM,Under Votes,7Sherman,Kent #5,Secretary of State,,DEM,Richard Devlin,0Sherman,Kent #5,Secretary of State,,DEM,Brad Avakian,1Sherman,Kent #5,Secretary of State,,DEM,Val Hoyle,2Sherman,Kent #5,Secretary of State,,DEM,Write-in,1Sherman,Kent #5,Secretary of State,,DEM,Over Votes,0Sherman,Kent #5,Secretary of State,,DEM,Under Votes,1Sherman,Rufus #1,State Treasurer,,DEM,Tobias Read,25Sherman,Rufus #1,State Treasurer,,DEM,Write-in,0Sherman,Rufus #1,State Treasurer,,DEM,Over Votes,0Sherman,Rufus #1,State Treasurer,,DEM,Under Votes,11Sherman,Wasco #2,State Treasurer,,DEM,Tobias Read,44Sherman,Wasco #2,State Treasurer,,DEM,Write-in,2Sherman,Wasco #2,State Treasurer,,DEM,Over Votes,0Sherman,Wasco #2,State Treasurer,,DEM,Under Votes,28Sherman,Moro #3,State Treasurer,,DEM,Tobias Read,27Sherman,Moro #3,State Treasurer,,DEM,Write-in,1Sherman,Moro #3,State Treasurer,,DEM,Over Votes,0Sherman,Moro #3,State Treasurer,,DEM,Under Votes,19Sherman,Grass Valley #4,State Treasurer,,DEM,Tobias Read,13Sherman,Grass Valley #4,State Treasurer,,DEM,Write-in,1Sherman,Grass Valley #4,State Treasurer,,DEM,Over Votes,0Sherman,Grass Valley #4,State Treasurer,,DEM,Under Votes,11Sherman,Kent #5,State Treasurer,,DEM,Tobias Read,2Sherman,Kent #5,State Treasurer,,DEM,Write-in,0Sherman,Kent #5,State Treasurer,,DEM,Over Votes,0Sherman,Kent #5,State Treasurer,,DEM,Under Votes,3Sherman,Rufus #1,Attorney General,,DEM,Ellen Rosenblum,24Sherman,Rufus #1,Attorney General,,DEM,Write-in,0Sherman,Rufus #1,Attorney General,,DEM,Over Votes,0Sherman,Rufus #1,Attorney General,,DEM,Under Votes,12Sherman,Wasco #2,Attorney General,,DEM,Ellen Rosenblum,47Sherman,Wasco #2,Attorney General,,DEM,Write-in,0Sherman,Wasco #2,Attorney General,,DEM,Over Votes,0Sherman,Wasco #2,Attorney General,,DEM,Under Votes,27Sherman,Moro #3,Attorney General,,DEM,Ellen Rosenblum,29Sherman,Moro #3,Attorney General,,DEM,Write-in,1Sherman,Moro #3,Attorney General,,DEM,Over Votes,0Sherman,Moro #3,Attorney General,,DEM,Under Votes,17Sherman,Grass Valley #4,Attorney General,,DEM,Ellen Rosenblum,12Sherman,Grass Valley #4,Attorney General,,DEM,Write-in,0Sherman,Grass Valley #4,Attorney General,,DEM,Over Votes,0Sherman,Grass Valley #4,Attorney General,,DEM,Under Votes,13Sherman,Kent #5,Attorney General,,DEM,Ellen Rosenblum,3Sherman,Kent #5,Attorney General,,DEM,Write-in,0Sherman,Kent #5,Attorney General,,DEM,Over Votes,0Sherman,Kent #5,Attorney General,,DEM,Under Votes,2Sherman,Rufus #1,State Senate,29,DEM,Write-in,0Sherman,Rufus #1,State Senate,29,DEM,Over Votes,0Sherman,Rufus #1,State Senate,29,DEM,Under Votes,36Sherman,Wasco #2,State Senate,29,DEM,Write-in,5Sherman,Wasco #2,State Senate,29,DEM,Over Votes,0Sherman,Wasco #2,State Senate,29,DEM,Under Votes,69Sherman,Moro #3,State Senate,29,DEM,Write-in,5Sherman,Moro #3,State Senate,29,DEM,Over Votes,0Sherman,Moro #3,State Senate,29,DEM,Under Votes,42Sherman,Grass Valley #4,State Senate,29,DEM,Write-in,3Sherman,Grass Valley #4,State Senate,29,DEM,Over Votes,0Sherman,Grass Valley #4,State Senate,29,DEM,Under Votes,22Sherman,Kent #5,State Senate,29,DEM,Write-in,0Sherman,Kent #5,State Senate,29,DEM,Over Votes,0Sherman,Kent #5,State Senate,29,DEM,Under Votes,5Sherman,Rufus #1,State House,57,DEM,Write-in,0Sherman,Rufus #1,State House,57,DEM,Over Votes,0Sherman,Rufus #1,State House,57,DEM,Under Votes,36Sherman,Wasco #2,State House,57,DEM,Write-in,4Sherman,Wasco #2,State House,57,DEM,Over Votes,0Sherman,Wasco #2,State House,57,DEM,Under Votes,70Sherman,Moro #3,State House,57,DEM,Write-in,5Sherman,Moro #3,State House,57,DEM,Over Votes,0Sherman,Moro #3,State House,57,DEM,Under Votes,42Sherman,Grass Valley #4,State House,57,DEM,Write-in,3Sherman,Grass Valley #4,State House,57,DEM,Over Votes,0Sherman,Grass Valley #4,State House,57,DEM,Under Votes,22Sherman,Kent #5,State House,57,DEM,Write-in,0Sherman,Kent #5,State House,57,DEM,Over Votes,0Sherman,Kent #5,State House,57,DEM,Under Votes,5
+county,precinct,office,district,party,candidate,votes
+Sherman,Rufus #1,President,,REP,Ted Cruz,5
+Sherman,Rufus #1,President,,REP,John R Kasich,1
+Sherman,Rufus #1,President,,REP,Donald J Trump,39
+Sherman,Rufus #1,President,,REP,Write-in,0
+Sherman,Rufus #1,President,,REP,Over Votes,0
+Sherman,Rufus #1,President,,REP,Under Votes,5
+Sherman,Wasco #2,President,,REP,Ted Cruz,15
+Sherman,Wasco #2,President,,REP,John R Kasich,20
+Sherman,Wasco #2,President,,REP,Donald J Trump,87
+Sherman,Wasco #2,President,,REP,Write-in,2
+Sherman,Wasco #2,President,,REP,Over Votes,0
+Sherman,Wasco #2,President,,REP,Under Votes,7
+Sherman,Moro #3,President,,REP,Ted Cruz,16
+Sherman,Moro #3,President,,REP,John R Kasich,12
+Sherman,Moro #3,President,,REP,Donald J Trump,90
+Sherman,Moro #3,President,,REP,Write-in,1
+Sherman,Moro #3,President,,REP,Over Votes,0
+Sherman,Moro #3,President,,REP,Under Votes,6
+Sherman,Grass Valley #4,President,,REP,Ted Cruz,17
+Sherman,Grass Valley #4,President,,REP,John R Kasich,5
+Sherman,Grass Valley #4,President,,REP,Donald J Trump,46
+Sherman,Grass Valley #4,President,,REP,Write-in,2
+Sherman,Grass Valley #4,President,,REP,Over Votes,0
+Sherman,Grass Valley #4,President,,REP,Under Votes,2
+Sherman,Kent #5,President,,REP,Ted Cruz,6
+Sherman,Kent #5,President,,REP,John R Kasich,7
+Sherman,Kent #5,President,,REP,Donald J Trump,17
+Sherman,Kent #5,President,,REP,Write-in,0
+Sherman,Kent #5,President,,REP,Over Votes,0
+Sherman,Kent #5,President,,REP,Under Votes,1
+Sherman,Rufus #1,U.S. Senate,,REP,Sam Carpenter,8
+Sherman,Rufus #1,U.S. Senate,,REP,Mark Callahan,15
+Sherman,Rufus #1,U.S. Senate,,REP,Faye Stewart,2
+Sherman,Rufus #1,U.S. Senate,,REP,Dan Laschober,4
+Sherman,Rufus #1,U.S. Senate,,REP,Write-in,3
+Sherman,Rufus #1,U.S. Senate,,REP,Over Votes,0
+Sherman,Rufus #1,U.S. Senate,,REP,Under Votes,18
+Sherman,Wasco #2,U.S. Senate,,REP,Sam Carpenter,30
+Sherman,Wasco #2,U.S. Senate,,REP,Mark Callahan,41
+Sherman,Wasco #2,U.S. Senate,,REP,Faye Stewart,12
+Sherman,Wasco #2,U.S. Senate,,REP,Dan Laschober,7
+Sherman,Wasco #2,U.S. Senate,,REP,Write-in,3
+Sherman,Wasco #2,U.S. Senate,,REP,Over Votes,0
+Sherman,Wasco #2,U.S. Senate,,REP,Under Votes,38
+Sherman,Moro #3,U.S. Senate,,REP,Sam Carpenter,32
+Sherman,Moro #3,U.S. Senate,,REP,Mark Callahan,34
+Sherman,Moro #3,U.S. Senate,,REP,Faye Stewart,12
+Sherman,Moro #3,U.S. Senate,,REP,Dan Laschober,4
+Sherman,Moro #3,U.S. Senate,,REP,Write-in,3
+Sherman,Moro #3,U.S. Senate,,REP,Over Votes,0
+Sherman,Moro #3,U.S. Senate,,REP,Under Votes,40
+Sherman,Grass Valley #4,U.S. Senate,,REP,Sam Carpenter,19
+Sherman,Grass Valley #4,U.S. Senate,,REP,Mark Callahan,17
+Sherman,Grass Valley #4,U.S. Senate,,REP,Faye Stewart,6
+Sherman,Grass Valley #4,U.S. Senate,,REP,Dan Laschober,3
+Sherman,Grass Valley #4,U.S. Senate,,REP,Write-in,0
+Sherman,Grass Valley #4,U.S. Senate,,REP,Over Votes,0
+Sherman,Grass Valley #4,U.S. Senate,,REP,Under Votes,27
+Sherman,Kent #5,U.S. Senate,,REP,Sam Carpenter,10
+Sherman,Kent #5,U.S. Senate,,REP,Mark Callahan,9
+Sherman,Kent #5,U.S. Senate,,REP,Faye Stewart,1
+Sherman,Kent #5,U.S. Senate,,REP,Dan Laschober,4
+Sherman,Kent #5,U.S. Senate,,REP,Write-in,0
+Sherman,Kent #5,U.S. Senate,,REP,Over Votes,0
+Sherman,Kent #5,U.S. Senate,,REP,Under Votes,7
+Sherman,Rufus #1,U.S. House,2,REP,Paul J Romero Jr,2
+Sherman,Rufus #1,U.S. House,2,REP,Greg Walden,42
+Sherman,Rufus #1,U.S. House,2,REP,Write-in,0
+Sherman,Rufus #1,U.S. House,2,REP,Over Votes,0
+Sherman,Rufus #1,U.S. House,2,REP,Under Votes,6
+Sherman,Wasco #2,U.S. House,2,REP,Paul J Romero Jr,26
+Sherman,Wasco #2,U.S. House,2,REP,Greg Walden,101
+Sherman,Wasco #2,U.S. House,2,REP,Write-in,1
+Sherman,Wasco #2,U.S. House,2,REP,Over Votes,0
+Sherman,Wasco #2,U.S. House,2,REP,Under Votes,3
+Sherman,Moro #3,U.S. House,2,REP,Paul J Romero Jr,12
+Sherman,Moro #3,U.S. House,2,REP,Greg Walden,107
+Sherman,Moro #3,U.S. House,2,REP,Write-in,0
+Sherman,Moro #3,U.S. House,2,REP,Over Votes,0
+Sherman,Moro #3,U.S. House,2,REP,Under Votes,6
+Sherman,Grass Valley #4,U.S. House,2,REP,Paul J Romero Jr,9
+Sherman,Grass Valley #4,U.S. House,2,REP,Greg Walden,62
+Sherman,Grass Valley #4,U.S. House,2,REP,Write-in,0
+Sherman,Grass Valley #4,U.S. House,2,REP,Over Votes,0
+Sherman,Grass Valley #4,U.S. House,2,REP,Under Votes,1
+Sherman,Kent #5,U.S. House,2,REP,Paul J Romero Jr,2
+Sherman,Kent #5,U.S. House,2,REP,Greg Walden,28
+Sherman,Kent #5,U.S. House,2,REP,Write-in,0
+Sherman,Kent #5,U.S. House,2,REP,Over Votes,0
+Sherman,Kent #5,U.S. House,2,REP,Under Votes,1
+Sherman,Rufus #1,Governor,,REP,Bruce Cuff,2
+Sherman,Rufus #1,Governor,,REP,Bob Niemeyer,3
+Sherman,Rufus #1,Governor,,REP,Bob Forthan,1
+Sherman,Rufus #1,Governor,,REP,Bud Pierce,13
+Sherman,Rufus #1,Governor,,REP,Allen Alley,15
+Sherman,Rufus #1,Governor,,REP,Write-in,0
+Sherman,Rufus #1,Governor,,REP,Over Votes,0
+Sherman,Rufus #1,Governor,,REP,Under Votes,16
+Sherman,Wasco #2,Governor,,REP,Bruce Cuff,5
+Sherman,Wasco #2,Governor,,REP,Bob Niemeyer,18
+Sherman,Wasco #2,Governor,,REP,Bob Forthan,2
+Sherman,Wasco #2,Governor,,REP,Bud Pierce,42
+Sherman,Wasco #2,Governor,,REP,Allen Alley,46
+Sherman,Wasco #2,Governor,,REP,Write-in,1
+Sherman,Wasco #2,Governor,,REP,Over Votes,0
+Sherman,Wasco #2,Governor,,REP,Under Votes,17
+Sherman,Moro #3,Governor,,REP,Bruce Cuff,12
+Sherman,Moro #3,Governor,,REP,Bob Niemeyer,17
+Sherman,Moro #3,Governor,,REP,Bob Forthan,0
+Sherman,Moro #3,Governor,,REP,Bud Pierce,36
+Sherman,Moro #3,Governor,,REP,Allen Alley,39
+Sherman,Moro #3,Governor,,REP,Write-in,0
+Sherman,Moro #3,Governor,,REP,Over Votes,0
+Sherman,Moro #3,Governor,,REP,Under Votes,21
+Sherman,Grass Valley #4,Governor,,REP,Bruce Cuff,7
+Sherman,Grass Valley #4,Governor,,REP,Bob Niemeyer,8
+Sherman,Grass Valley #4,Governor,,REP,Bob Forthan,1
+Sherman,Grass Valley #4,Governor,,REP,Bud Pierce,24
+Sherman,Grass Valley #4,Governor,,REP,Allen Alley,24
+Sherman,Grass Valley #4,Governor,,REP,Write-in,0
+Sherman,Grass Valley #4,Governor,,REP,Over Votes,0
+Sherman,Grass Valley #4,Governor,,REP,Under Votes,8
+Sherman,Kent #5,Governor,,REP,Bruce Cuff,0
+Sherman,Kent #5,Governor,,REP,Bob Niemeyer,3
+Sherman,Kent #5,Governor,,REP,Bob Forthan,0
+Sherman,Kent #5,Governor,,REP,Bud Pierce,4
+Sherman,Kent #5,Governor,,REP,Allen Alley,21
+Sherman,Kent #5,Governor,,REP,Write-in,1
+Sherman,Kent #5,Governor,,REP,Over Votes,0
+Sherman,Kent #5,Governor,,REP,Under Votes,2
+Sherman,Rufus #1,Secretary of State,,REP,Dennis Richardson,28
+Sherman,Rufus #1,Secretary of State,,REP,Sid Leiken,5
+Sherman,Rufus #1,Secretary of State,,REP,Write-in,1
+Sherman,Rufus #1,Secretary of State,,REP,Over Votes,0
+Sherman,Rufus #1,Secretary of State,,REP,Under Votes,16
+Sherman,Wasco #2,Secretary of State,,REP,Dennis Richardson,93
+Sherman,Wasco #2,Secretary of State,,REP,Sid Leiken,16
+Sherman,Wasco #2,Secretary of State,,REP,Write-in,1
+Sherman,Wasco #2,Secretary of State,,REP,Over Votes,0
+Sherman,Wasco #2,Secretary of State,,REP,Under Votes,21
+Sherman,Moro #3,Secretary of State,,REP,Dennis Richardson,79
+Sherman,Moro #3,Secretary of State,,REP,Sid Leiken,19
+Sherman,Moro #3,Secretary of State,,REP,Write-in,1
+Sherman,Moro #3,Secretary of State,,REP,Over Votes,0
+Sherman,Moro #3,Secretary of State,,REP,Under Votes,26
+Sherman,Grass Valley #4,Secretary of State,,REP,Dennis Richardson,45
+Sherman,Grass Valley #4,Secretary of State,,REP,Sid Leiken,12
+Sherman,Grass Valley #4,Secretary of State,,REP,Write-in,2
+Sherman,Grass Valley #4,Secretary of State,,REP,Over Votes,0
+Sherman,Grass Valley #4,Secretary of State,,REP,Under Votes,13
+Sherman,Kent #5,Secretary of State,,REP,Dennis Richardson,22
+Sherman,Kent #5,Secretary of State,,REP,Sid Leiken,3
+Sherman,Kent #5,Secretary of State,,REP,Write-in,0
+Sherman,Kent #5,Secretary of State,,REP,Over Votes,0
+Sherman,Kent #5,Secretary of State,,REP,Under Votes,6
+Sherman,Rufus #1,State Treasurer,,REP,Jeff Gudman,24
+Sherman,Rufus #1,State Treasurer,,REP,Write-in,0
+Sherman,Rufus #1,State Treasurer,,REP,Over Votes,0
+Sherman,Rufus #1,State Treasurer,,REP,Under Votes,26
+Sherman,Wasco #2,State Treasurer,,REP,Jeff Gudman,83
+Sherman,Wasco #2,State Treasurer,,REP,Write-in,2
+Sherman,Wasco #2,State Treasurer,,REP,Over Votes,0
+Sherman,Wasco #2,State Treasurer,,REP,Under Votes,46
+Sherman,Moro #3,State Treasurer,,REP,Jeff Gudman,79
+Sherman,Moro #3,State Treasurer,,REP,Write-in,1
+Sherman,Moro #3,State Treasurer,,REP,Over Votes,0
+Sherman,Moro #3,State Treasurer,,REP,Under Votes,45
+Sherman,Grass Valley #4,State Treasurer,,REP,Jeff Gudman,49
+Sherman,Grass Valley #4,State Treasurer,,REP,Write-in,0
+Sherman,Grass Valley #4,State Treasurer,,REP,Over Votes,0
+Sherman,Grass Valley #4,State Treasurer,,REP,Under Votes,23
+Sherman,Kent #5,State Treasurer,,REP,Jeff Gudman,16
+Sherman,Kent #5,State Treasurer,,REP,Write-in,0
+Sherman,Kent #5,State Treasurer,,REP,Over Votes,0
+Sherman,Kent #5,State Treasurer,,REP,Under Votes,15
+Sherman,Rufus #1,Attorney General,,REP,Daniel Zene Crowe,21
+Sherman,Rufus #1,Attorney General,,REP,Write-in,0
+Sherman,Rufus #1,Attorney General,,REP,Over Votes,0
+Sherman,Rufus #1,Attorney General,,REP,Under Votes,29
+Sherman,Wasco #2,Attorney General,,REP,Daniel Zene Crowe,76
+Sherman,Wasco #2,Attorney General,,REP,Write-in,2
+Sherman,Wasco #2,Attorney General,,REP,Over Votes,0
+Sherman,Wasco #2,Attorney General,,REP,Under Votes,53
+Sherman,Moro #3,Attorney General,,REP,Daniel Zene Crowe,71
+Sherman,Moro #3,Attorney General,,REP,Write-in,1
+Sherman,Moro #3,Attorney General,,REP,Over Votes,0
+Sherman,Moro #3,Attorney General,,REP,Under Votes,53
+Sherman,Grass Valley #4,Attorney General,,REP,Daniel Zene Crowe,45
+Sherman,Grass Valley #4,Attorney General,,REP,Write-in,0
+Sherman,Grass Valley #4,Attorney General,,REP,Over Votes,0
+Sherman,Grass Valley #4,Attorney General,,REP,Under Votes,27
+Sherman,Kent #5,Attorney General,,REP,Daniel Zene Crowe,16
+Sherman,Kent #5,Attorney General,,REP,Write-in,0
+Sherman,Kent #5,Attorney General,,REP,Over Votes,0
+Sherman,Kent #5,Attorney General,,REP,Under Votes,15
+Sherman,Rufus #1,State Senate,29,REP,Bill Hansell,28
+Sherman,Rufus #1,State Senate,29,REP,Write-in,0
+Sherman,Rufus #1,State Senate,29,REP,Over Votes,0
+Sherman,Rufus #1,State Senate,29,REP,Under Votes,22
+Sherman,Wasco #2,State Senate,29,REP,Bill Hansell,97
+Sherman,Wasco #2,State Senate,29,REP,Write-in,2
+Sherman,Wasco #2,State Senate,29,REP,Over Votes,0
+Sherman,Wasco #2,State Senate,29,REP,Under Votes,32
+Sherman,Moro #3,State Senate,29,REP,Bill Hansell,93
+Sherman,Moro #3,State Senate,29,REP,Write-in,0
+Sherman,Moro #3,State Senate,29,REP,Over Votes,0
+Sherman,Moro #3,State Senate,29,REP,Under Votes,32
+Sherman,Grass Valley #4,State Senate,29,REP,Bill Hansell,52
+Sherman,Grass Valley #4,State Senate,29,REP,Write-in,0
+Sherman,Grass Valley #4,State Senate,29,REP,Over Votes,0
+Sherman,Grass Valley #4,State Senate,29,REP,Under Votes,20
+Sherman,Kent #5,State Senate,29,REP,Bill Hansell,22
+Sherman,Kent #5,State Senate,29,REP,Write-in,0
+Sherman,Kent #5,State Senate,29,REP,Over Votes,0
+Sherman,Kent #5,State Senate,29,REP,Under Votes,9
+Sherman,Rufus #1,State House,57,REP,Greg Smith,30
+Sherman,Rufus #1,State House,57,REP,Write-in,0
+Sherman,Rufus #1,State House,57,REP,Over Votes,0
+Sherman,Rufus #1,State House,57,REP,Under Votes,20
+Sherman,Wasco #2,State House,57,REP,Greg Smith,100
+Sherman,Wasco #2,State House,57,REP,Write-in,3
+Sherman,Wasco #2,State House,57,REP,Over Votes,0
+Sherman,Wasco #2,State House,57,REP,Under Votes,28
+Sherman,Moro #3,State House,57,REP,Greg Smith,98
+Sherman,Moro #3,State House,57,REP,Write-in,1
+Sherman,Moro #3,State House,57,REP,Over Votes,0
+Sherman,Moro #3,State House,57,REP,Under Votes,26
+Sherman,Grass Valley #4,State House,57,REP,Greg Smith,51
+Sherman,Grass Valley #4,State House,57,REP,Write-in,0
+Sherman,Grass Valley #4,State House,57,REP,Over Votes,0
+Sherman,Grass Valley #4,State House,57,REP,Under Votes,21
+Sherman,Kent #5,State House,57,REP,Greg Smith,23
+Sherman,Kent #5,State House,57,REP,Write-in,0
+Sherman,Kent #5,State House,57,REP,Over Votes,0
+Sherman,Kent #5,State House,57,REP,Under Votes,8
+Sherman,Rufus #1,President,,DEM,Hillary Clinton,18
+Sherman,Rufus #1,President,,DEM,Bernie Sanders,15
+Sherman,Rufus #1,President,,DEM,Write-in,2
+Sherman,Rufus #1,President,,DEM,Over Votes,0
+Sherman,Rufus #1,President,,DEM,Under Votes,1
+Sherman,Wasco #2,President,,DEM,Hillary Clinton,26
+Sherman,Wasco #2,President,,DEM,Bernie Sanders,26
+Sherman,Wasco #2,President,,DEM,Write-in,11
+Sherman,Wasco #2,President,,DEM,Over Votes,0
+Sherman,Wasco #2,President,,DEM,Under Votes,11
+Sherman,Moro #3,President,,DEM,Hillary Clinton,19
+Sherman,Moro #3,President,,DEM,Bernie Sanders,22
+Sherman,Moro #3,President,,DEM,Write-in,2
+Sherman,Moro #3,President,,DEM,Over Votes,0
+Sherman,Moro #3,President,,DEM,Under Votes,4
+Sherman,Grass Valley #4,President,,DEM,Hillary Clinton,4
+Sherman,Grass Valley #4,President,,DEM,Bernie Sanders,17
+Sherman,Grass Valley #4,President,,DEM,Write-in,2
+Sherman,Grass Valley #4,President,,DEM,Over Votes,0
+Sherman,Grass Valley #4,President,,DEM,Under Votes,2
+Sherman,Kent #5,President,,DEM,Hillary Clinton,0
+Sherman,Kent #5,President,,DEM,Bernie Sanders,2
+Sherman,Kent #5,President,,DEM,Write-in,2
+Sherman,Kent #5,President,,DEM,Over Votes,0
+Sherman,Kent #5,President,,DEM,Under Votes,1
+Sherman,Rufus #1,U.S. Senate,,DEM,Ron Wyden,32
+Sherman,Rufus #1,U.S. Senate,,DEM,Paul B Weaver,1
+Sherman,Rufus #1,U.S. Senate,,DEM,Kevin H Stine,2
+Sherman,Rufus #1,U.S. Senate,,DEM,Write-in,1
+Sherman,Rufus #1,U.S. Senate,,DEM,Over Votes,0
+Sherman,Rufus #1,U.S. Senate,,DEM,Under Votes,0
+Sherman,Wasco #2,U.S. Senate,,DEM,Ron Wyden,45
+Sherman,Wasco #2,U.S. Senate,,DEM,Paul B Weaver,8
+Sherman,Wasco #2,U.S. Senate,,DEM,Kevin H Stine,8
+Sherman,Wasco #2,U.S. Senate,,DEM,Write-in,3
+Sherman,Wasco #2,U.S. Senate,,DEM,Over Votes,0
+Sherman,Wasco #2,U.S. Senate,,DEM,Under Votes,10
+Sherman,Moro #3,U.S. Senate,,DEM,Ron Wyden,34
+Sherman,Moro #3,U.S. Senate,,DEM,Paul B Weaver,4
+Sherman,Moro #3,U.S. Senate,,DEM,Kevin H Stine,5
+Sherman,Moro #3,U.S. Senate,,DEM,Write-in,2
+Sherman,Moro #3,U.S. Senate,,DEM,Over Votes,0
+Sherman,Moro #3,U.S. Senate,,DEM,Under Votes,2
+Sherman,Grass Valley #4,U.S. Senate,,DEM,Ron Wyden,11
+Sherman,Grass Valley #4,U.S. Senate,,DEM,Paul B Weaver,3
+Sherman,Grass Valley #4,U.S. Senate,,DEM,Kevin H Stine,5
+Sherman,Grass Valley #4,U.S. Senate,,DEM,Write-in,0
+Sherman,Grass Valley #4,U.S. Senate,,DEM,Over Votes,0
+Sherman,Grass Valley #4,U.S. Senate,,DEM,Under Votes,6
+Sherman,Kent #5,U.S. Senate,,DEM,Ron Wyden,3
+Sherman,Kent #5,U.S. Senate,,DEM,Paul B Weaver,1
+Sherman,Kent #5,U.S. Senate,,DEM,Kevin H Stine,0
+Sherman,Kent #5,U.S. Senate,,DEM,Write-in,0
+Sherman,Kent #5,U.S. Senate,,DEM,Over Votes,0
+Sherman,Kent #5,U.S. Senate,,DEM,Under Votes,1
+Sherman,Rufus #1,U.S. House,2,DEM,James (Jim) Crary,25
+Sherman,Rufus #1,U.S. House,2,DEM,Write-in,1
+Sherman,Rufus #1,U.S. House,2,DEM,Over Votes,0
+Sherman,Rufus #1,U.S. House,2,DEM,Under Votes,10
+Sherman,Wasco #2,U.S. House,2,DEM,James (Jim) Crary,41
+Sherman,Wasco #2,U.S. House,2,DEM,Write-in,4
+Sherman,Wasco #2,U.S. House,2,DEM,Over Votes,0
+Sherman,Wasco #2,U.S. House,2,DEM,Under Votes,29
+Sherman,Moro #3,U.S. House,2,DEM,James (Jim) Crary,26
+Sherman,Moro #3,U.S. House,2,DEM,Write-in,3
+Sherman,Moro #3,U.S. House,2,DEM,Over Votes,0
+Sherman,Moro #3,U.S. House,2,DEM,Under Votes,18
+Sherman,Grass Valley #4,U.S. House,2,DEM,James (Jim) Crary,11
+Sherman,Grass Valley #4,U.S. House,2,DEM,Write-in,1
+Sherman,Grass Valley #4,U.S. House,2,DEM,Over Votes,0
+Sherman,Grass Valley #4,U.S. House,2,DEM,Under Votes,13
+Sherman,Kent #5,U.S. House,2,DEM,James (Jim) Crary,3
+Sherman,Kent #5,U.S. House,2,DEM,Write-in,0
+Sherman,Kent #5,U.S. House,2,DEM,Over Votes,0
+Sherman,Kent #5,U.S. House,2,DEM,Under Votes,2
+Sherman,Rufus #1,Governor,,DEM,Kate Brown,25
+Sherman,Rufus #1,Governor,,DEM,Julian Bell,4
+Sherman,Rufus #1,Governor,,DEM,Chet Chance,1
+Sherman,Rufus #1,Governor,,DEM,Kevin M Forsythe,1
+Sherman,Rufus #1,Governor,,DEM,Dave Stauffer,1
+Sherman,Rufus #1,Governor,,DEM,Steve Johnson,1
+Sherman,Rufus #1,Governor,,DEM,Write-in,2
+Sherman,Rufus #1,Governor,,DEM,Over Votes,0
+Sherman,Rufus #1,Governor,,DEM,Under Votes,1
+Sherman,Wasco #2,Governor,,DEM,Kate Brown,43
+Sherman,Wasco #2,Governor,,DEM,Julian Bell,3
+Sherman,Wasco #2,Governor,,DEM,Chet Chance,2
+Sherman,Wasco #2,Governor,,DEM,Kevin M Forsythe,2
+Sherman,Wasco #2,Governor,,DEM,Dave Stauffer,9
+Sherman,Wasco #2,Governor,,DEM,Steve Johnson,3
+Sherman,Wasco #2,Governor,,DEM,Write-in,5
+Sherman,Wasco #2,Governor,,DEM,Over Votes,0
+Sherman,Wasco #2,Governor,,DEM,Under Votes,7
+Sherman,Moro #3,Governor,,DEM,Kate Brown,23
+Sherman,Moro #3,Governor,,DEM,Julian Bell,4
+Sherman,Moro #3,Governor,,DEM,Chet Chance,0
+Sherman,Moro #3,Governor,,DEM,Kevin M Forsythe,4
+Sherman,Moro #3,Governor,,DEM,Dave Stauffer,5
+Sherman,Moro #3,Governor,,DEM,Steve Johnson,5
+Sherman,Moro #3,Governor,,DEM,Write-in,3
+Sherman,Moro #3,Governor,,DEM,Over Votes,0
+Sherman,Moro #3,Governor,,DEM,Under Votes,3
+Sherman,Grass Valley #4,Governor,,DEM,Kate Brown,11
+Sherman,Grass Valley #4,Governor,,DEM,Julian Bell,0
+Sherman,Grass Valley #4,Governor,,DEM,Chet Chance,1
+Sherman,Grass Valley #4,Governor,,DEM,Kevin M Forsythe,0
+Sherman,Grass Valley #4,Governor,,DEM,Dave Stauffer,7
+Sherman,Grass Valley #4,Governor,,DEM,Steve Johnson,2
+Sherman,Grass Valley #4,Governor,,DEM,Write-in,1
+Sherman,Grass Valley #4,Governor,,DEM,Over Votes,0
+Sherman,Grass Valley #4,Governor,,DEM,Under Votes,3
+Sherman,Kent #5,Governor,,DEM,Kate Brown,3
+Sherman,Kent #5,Governor,,DEM,Julian Bell,0
+Sherman,Kent #5,Governor,,DEM,Chet Chance,0
+Sherman,Kent #5,Governor,,DEM,Kevin M Forsythe,0
+Sherman,Kent #5,Governor,,DEM,Dave Stauffer,1
+Sherman,Kent #5,Governor,,DEM,Steve Johnson,0
+Sherman,Kent #5,Governor,,DEM,Write-in,1
+Sherman,Kent #5,Governor,,DEM,Over Votes,0
+Sherman,Kent #5,Governor,,DEM,Under Votes,0
+Sherman,Rufus #1,Secretary of State,,DEM,Richard Devlin,10
+Sherman,Rufus #1,Secretary of State,,DEM,Brad Avakian,14
+Sherman,Rufus #1,Secretary of State,,DEM,Val Hoyle,6
+Sherman,Rufus #1,Secretary of State,,DEM,Write-in,0
+Sherman,Rufus #1,Secretary of State,,DEM,Over Votes,0
+Sherman,Rufus #1,Secretary of State,,DEM,Under Votes,6
+Sherman,Wasco #2,Secretary of State,,DEM,Richard Devlin,11
+Sherman,Wasco #2,Secretary of State,,DEM,Brad Avakian,25
+Sherman,Wasco #2,Secretary of State,,DEM,Val Hoyle,16
+Sherman,Wasco #2,Secretary of State,,DEM,Write-in,4
+Sherman,Wasco #2,Secretary of State,,DEM,Over Votes,0
+Sherman,Wasco #2,Secretary of State,,DEM,Under Votes,18
+Sherman,Moro #3,Secretary of State,,DEM,Richard Devlin,14
+Sherman,Moro #3,Secretary of State,,DEM,Brad Avakian,8
+Sherman,Moro #3,Secretary of State,,DEM,Val Hoyle,10
+Sherman,Moro #3,Secretary of State,,DEM,Write-in,2
+Sherman,Moro #3,Secretary of State,,DEM,Over Votes,0
+Sherman,Moro #3,Secretary of State,,DEM,Under Votes,13
+Sherman,Grass Valley #4,Secretary of State,,DEM,Richard Devlin,6
+Sherman,Grass Valley #4,Secretary of State,,DEM,Brad Avakian,5
+Sherman,Grass Valley #4,Secretary of State,,DEM,Val Hoyle,6
+Sherman,Grass Valley #4,Secretary of State,,DEM,Write-in,1
+Sherman,Grass Valley #4,Secretary of State,,DEM,Over Votes,0
+Sherman,Grass Valley #4,Secretary of State,,DEM,Under Votes,7
+Sherman,Kent #5,Secretary of State,,DEM,Richard Devlin,0
+Sherman,Kent #5,Secretary of State,,DEM,Brad Avakian,1
+Sherman,Kent #5,Secretary of State,,DEM,Val Hoyle,2
+Sherman,Kent #5,Secretary of State,,DEM,Write-in,1
+Sherman,Kent #5,Secretary of State,,DEM,Over Votes,0
+Sherman,Kent #5,Secretary of State,,DEM,Under Votes,1
+Sherman,Rufus #1,State Treasurer,,DEM,Tobias Read,25
+Sherman,Rufus #1,State Treasurer,,DEM,Write-in,0
+Sherman,Rufus #1,State Treasurer,,DEM,Over Votes,0
+Sherman,Rufus #1,State Treasurer,,DEM,Under Votes,11
+Sherman,Wasco #2,State Treasurer,,DEM,Tobias Read,44
+Sherman,Wasco #2,State Treasurer,,DEM,Write-in,2
+Sherman,Wasco #2,State Treasurer,,DEM,Over Votes,0
+Sherman,Wasco #2,State Treasurer,,DEM,Under Votes,28
+Sherman,Moro #3,State Treasurer,,DEM,Tobias Read,27
+Sherman,Moro #3,State Treasurer,,DEM,Write-in,1
+Sherman,Moro #3,State Treasurer,,DEM,Over Votes,0
+Sherman,Moro #3,State Treasurer,,DEM,Under Votes,19
+Sherman,Grass Valley #4,State Treasurer,,DEM,Tobias Read,13
+Sherman,Grass Valley #4,State Treasurer,,DEM,Write-in,1
+Sherman,Grass Valley #4,State Treasurer,,DEM,Over Votes,0
+Sherman,Grass Valley #4,State Treasurer,,DEM,Under Votes,11
+Sherman,Kent #5,State Treasurer,,DEM,Tobias Read,2
+Sherman,Kent #5,State Treasurer,,DEM,Write-in,0
+Sherman,Kent #5,State Treasurer,,DEM,Over Votes,0
+Sherman,Kent #5,State Treasurer,,DEM,Under Votes,3
+Sherman,Rufus #1,Attorney General,,DEM,Ellen Rosenblum,24
+Sherman,Rufus #1,Attorney General,,DEM,Write-in,0
+Sherman,Rufus #1,Attorney General,,DEM,Over Votes,0
+Sherman,Rufus #1,Attorney General,,DEM,Under Votes,12
+Sherman,Wasco #2,Attorney General,,DEM,Ellen Rosenblum,47
+Sherman,Wasco #2,Attorney General,,DEM,Write-in,0
+Sherman,Wasco #2,Attorney General,,DEM,Over Votes,0
+Sherman,Wasco #2,Attorney General,,DEM,Under Votes,27
+Sherman,Moro #3,Attorney General,,DEM,Ellen Rosenblum,29
+Sherman,Moro #3,Attorney General,,DEM,Write-in,1
+Sherman,Moro #3,Attorney General,,DEM,Over Votes,0
+Sherman,Moro #3,Attorney General,,DEM,Under Votes,17
+Sherman,Grass Valley #4,Attorney General,,DEM,Ellen Rosenblum,12
+Sherman,Grass Valley #4,Attorney General,,DEM,Write-in,0
+Sherman,Grass Valley #4,Attorney General,,DEM,Over Votes,0
+Sherman,Grass Valley #4,Attorney General,,DEM,Under Votes,13
+Sherman,Kent #5,Attorney General,,DEM,Ellen Rosenblum,3
+Sherman,Kent #5,Attorney General,,DEM,Write-in,0
+Sherman,Kent #5,Attorney General,,DEM,Over Votes,0
+Sherman,Kent #5,Attorney General,,DEM,Under Votes,2
+Sherman,Rufus #1,State Senate,29,DEM,Write-in,0
+Sherman,Rufus #1,State Senate,29,DEM,Over Votes,0
+Sherman,Rufus #1,State Senate,29,DEM,Under Votes,36
+Sherman,Wasco #2,State Senate,29,DEM,Write-in,5
+Sherman,Wasco #2,State Senate,29,DEM,Over Votes,0
+Sherman,Wasco #2,State Senate,29,DEM,Under Votes,69
+Sherman,Moro #3,State Senate,29,DEM,Write-in,5
+Sherman,Moro #3,State Senate,29,DEM,Over Votes,0
+Sherman,Moro #3,State Senate,29,DEM,Under Votes,42
+Sherman,Grass Valley #4,State Senate,29,DEM,Write-in,3
+Sherman,Grass Valley #4,State Senate,29,DEM,Over Votes,0
+Sherman,Grass Valley #4,State Senate,29,DEM,Under Votes,22
+Sherman,Kent #5,State Senate,29,DEM,Write-in,0
+Sherman,Kent #5,State Senate,29,DEM,Over Votes,0
+Sherman,Kent #5,State Senate,29,DEM,Under Votes,5
+Sherman,Rufus #1,State House,57,DEM,Write-in,0
+Sherman,Rufus #1,State House,57,DEM,Over Votes,0
+Sherman,Rufus #1,State House,57,DEM,Under Votes,36
+Sherman,Wasco #2,State House,57,DEM,Write-in,4
+Sherman,Wasco #2,State House,57,DEM,Over Votes,0
+Sherman,Wasco #2,State House,57,DEM,Under Votes,70
+Sherman,Moro #3,State House,57,DEM,Write-in,5
+Sherman,Moro #3,State House,57,DEM,Over Votes,0
+Sherman,Moro #3,State House,57,DEM,Under Votes,42
+Sherman,Grass Valley #4,State House,57,DEM,Write-in,3
+Sherman,Grass Valley #4,State House,57,DEM,Over Votes,0
+Sherman,Grass Valley #4,State House,57,DEM,Under Votes,22
+Sherman,Kent #5,State House,57,DEM,Write-in,0
+Sherman,Kent #5,State House,57,DEM,Over Votes,0
+Sherman,Kent #5,State House,57,DEM,Under Votes,5

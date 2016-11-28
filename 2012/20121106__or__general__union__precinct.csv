@@ -1,1 +1,913 @@
-county,precinct,office,district,party,candidate,votesUnion,Prec 01 - City of La Grande,President,,DEM,Barack Obama,998Union,Prec 02 - City of La Grande,President,,DEM,Barack Obama,628Union,Prec 03 - City of La Grande,President,,DEM,Barack Obama,586Union,Prec 04 - Rural La Grande,President,,DEM,Barack Obama,110Union,Prec 05 - Rural La Grande,President,,DEM,Barack Obama,278Union,Prec 06 - City of Cove,President,,DEM,Barack Obama,102Union,Prec 07 - Rural Cove,President,,DEM,Barack Obama,158Union,Prec 08 - City of Elgin,President,,DEM,Barack Obama,169Union,Prec 09 - Rural Elgin,President,,DEM,Barack Obama,99Union,Prec 1O - City of Imbler,President,,DEM,Barack Obama,39Union,Prec 11 - Rural Imbler/Summerville,President,,DEM,Barack Obama,126Union,Prec 12 - City of Summerville,President,,DEM,Barack Obama,9Union,Prec 13 - Rural North Powder,President,,DEM,Barack Obama,17Union,Prec 14 - City of North Powder,President,,DEM,Barack Obama,68Union,Prec 15 - Rural Union,President,,DEM,Barack Obama,57Union,Prec 16 - City of Union,President,,DEM,Barack Obama,324Union,Prec 17 - Antelope/Big Creek,President,,DEM,Barack Obama,7Union,Prec 18 - City of Island City,President,,DEM,Barack Obama,150Union,Prec 19 - Rural Island City,President,,DEM,Barack Obama,48Union,Prec 01 - City of La Grande,President,,PAC,Jill Stein,22Union,Prec 02 - City of La Grande,President,,PAC,Jill Stein,18Union,Prec 03 - City of La Grande,President,,PAC,Jill Stein,9Union,Prec 04 - Rural La Grande,President,,PAC,Jill Stein,4Union,Prec 05 - Rural La Grande,President,,PAC,Jill Stein,6Union,Prec 06 - City of Cove,President,,PAC,Jill Stein,3Union,Prec 07 - Rural Cove,President,,PAC,Jill Stein,2Union,Prec 08 - City of Elgin,President,,PAC,Jill Stein,10Union,Prec 09 - Rural Elgin,President,,PAC,Jill Stein,5Union,Prec 1O - City of Imbler,President,,PAC,Jill Stein,0Union,Prec 11 - Rural Imbler/Summerville,President,,PAC,Jill Stein,8Union,Prec 12 - City of Summerville,President,,PAC,Jill Stein,0Union,Prec 13 - Rural North Powder,President,,PAC,Jill Stein,1Union,Prec 14 - City of North Powder,President,,PAC,Jill Stein,3Union,Prec 15 - Rural Union,President,,PAC,Jill Stein,0Union,Prec 16 - City of Union,President,,PAC,Jill Stein,12Union,Prec 17 - Antelope/Big Creek,President,,PAC,Jill Stein,0Union,Prec 18 - City of Island City,President,,PAC,Jill Stein,2Union,Prec 19 - Rural Island City,President,,PAC,Jill Stein,0Union,Prec 01 - City of La Grande,President,,PRO,Ross C Anderson,3Union,Prec 02 - City of La Grande,President,,PRO,Ross C Anderson,3Union,Prec 03 - City of La Grande,President,,PRO,Ross C Anderson,4Union,Prec 04 - Rural La Grande,President,,PRO,Ross C Anderson,0Union,Prec 05 - Rural La Grande,President,,PRO,Ross C Anderson,2Union,Prec 06 - City of Cove,President,,PRO,Ross C Anderson,1Union,Prec 07 - Rural Cove,President,,PRO,Ross C Anderson,0Union,Prec 08 - City of Elgin,President,,PRO,Ross C Anderson,0Union,Prec 09 - Rural Elgin,President,,PRO,Ross C Anderson,0Union,Prec 1O - City of Imbler,President,,PRO,Ross C Anderson,0Union,Prec 11 - Rural Imbler/Summerville,President,,PRO,Ross C Anderson,1Union,Prec 12 - City of Summerville,President,,PRO,Ross C Anderson,0Union,Prec 13 - Rural North Powder,President,,PRO,Ross C Anderson,0Union,Prec 14 - City of North Powder,President,,PRO,Ross C Anderson,2Union,Prec 15 - Rural Union,President,,PRO,Ross C Anderson,1Union,Prec 16 - City of Union,President,,PRO,Ross C Anderson,2Union,Prec 17 - Antelope/Big Creek,President,,PRO,Ross C Anderson,0Union,Prec 18 - City of Island City,President,,PRO,Ross C Anderson,0Union,Prec 19 - Rural Island City,President,,PRO,Ross C Anderson,1Union,Prec 01 - City of La Grande,President,,LBT,Gary Johnson,33Union,Prec 02 - City of La Grande,President,,LBT,Gary Johnson,29Union,Prec 03 - City of La Grande,President,,LBT,Gary Johnson,24Union,Prec 04 - Rural La Grande,President,,LBT,Gary Johnson,6Union,Prec 05 - Rural La Grande,President,,LBT,Gary Johnson,11Union,Prec 06 - City of Cove,President,,LBT,Gary Johnson,6Union,Prec 07 - Rural Cove,President,,LBT,Gary Johnson,5Union,Prec 08 - City of Elgin,President,,LBT,Gary Johnson,10Union,Prec 09 - Rural Elgin,President,,LBT,Gary Johnson,4Union,Prec 1O - City of Imbler,President,,LBT,Gary Johnson,3Union,Prec 11 - Rural Imbler/Summerville,President,,LBT,Gary Johnson,8Union,Prec 12 - City of Summerville,President,,LBT,Gary Johnson,1Union,Prec 13 - Rural North Powder,President,,LBT,Gary Johnson,1Union,Prec 14 - City of North Powder,President,,LBT,Gary Johnson,3Union,Prec 15 - Rural Union,President,,LBT,Gary Johnson,1Union,Prec 16 - City of Union,President,,LBT,Gary Johnson,27Union,Prec 17 - Antelope/Big Creek,President,,LBT,Gary Johnson,2Union,Prec 18 - City of Island City,President,,LBT,Gary Johnson,7Union,Prec 19 - Rural Island City,President,,LBT,Gary Johnson,3Union,Prec 01 - City of La Grande,President,,REP,Mitt Romney,945Union,Prec 02 - City of La Grande,President,,REP,Mitt Romney,987Union,Prec 03 - City of La Grande,President,,REP,Mitt Romney,959Union,Prec 04 - Rural La Grande,President,,REP,Mitt Romney,221Union,Prec 05 - Rural La Grande,President,,REP,Mitt Romney,677Union,Prec 06 - City of Cove,President,,REP,Mitt Romney,214Union,Prec 07 - Rural Cove,President,,REP,Mitt Romney,354Union,Prec 08 - City of Elgin,President,,REP,Mitt Romney,481Union,Prec 09 - Rural Elgin,President,,REP,Mitt Romney,415Union,Prec 1O - City of Imbler,President,,REP,Mitt Romney,139Union,Prec 11 - Rural Imbler/Summerville,President,,REP,Mitt Romney,483Union,Prec 12 - City of Summerville,President,,REP,Mitt Romney,47Union,Prec 13 - Rural North Powder,President,,REP,Mitt Romney,82Union,Prec 14 - City of North Powder,President,,REP,Mitt Romney,119Union,Prec 15 - Rural Union,President,,REP,Mitt Romney,196Union,Prec 16 - City of Union,President,,REP,Mitt Romney,659Union,Prec 17 - Antelope/Big Creek,President,,REP,Mitt Romney,33Union,Prec 18 - City of Island City,President,,REP,Mitt Romney,398Union,Prec 19 - Rural Island City,President,,REP,Mitt Romney,227Union,Prec 01 - City of La Grande,President,,CON,Will Christensen,11Union,Prec 02 - City of La Grande,President,,CON,Will Christensen,3Union,Prec 03 - City of La Grande,President,,CON,Will Christensen,10Union,Prec 04 - Rural La Grande,President,,CON,Will Christensen,2Union,Prec 05 - Rural La Grande,President,,CON,Will Christensen,3Union,Prec 06 - City of Cove,President,,CON,Will Christensen,0Union,Prec 07 - Rural Cove,President,,CON,Will Christensen,0Union,Prec 08 - City of Elgin,President,,CON,Will Christensen,5Union,Prec 09 - Rural Elgin,President,,CON,Will Christensen,2Union,Prec 1O - City of Imbler,President,,CON,Will Christensen,1Union,Prec 11 - Rural Imbler/Summerville,President,,CON,Will Christensen,2Union,Prec 12 - City of Summerville,President,,CON,Will Christensen,1Union,Prec 13 - Rural North Powder,President,,CON,Will Christensen,0Union,Prec 14 - City of North Powder,President,,CON,Will Christensen,0Union,Prec 15 - Rural Union,President,,CON,Will Christensen,0Union,Prec 16 - City of Union,President,,CON,Will Christensen,4Union,Prec 17 - Antelope/Big Creek,President,,CON,Will Christensen,0Union,Prec 18 - City of Island City,President,,CON,Will Christensen,4Union,Prec 19 - Rural Island City,President,,CON,Will Christensen,2Union,Prec 01 - City of La Grande,President,,,Write-ins,25Union,Prec 02 - City of La Grande,President,,,Write-ins,8Union,Prec 03 - City of La Grande,President,,,Write-ins,20Union,Prec 04 - Rural La Grande,President,,,Write-ins,0Union,Prec 05 - Rural La Grande,President,,,Write-ins,6Union,Prec 06 - City of Cove,President,,,Write-ins,2Union,Prec 07 - Rural Cove,President,,,Write-ins,3Union,Prec 08 - City of Elgin,President,,,Write-ins,1Union,Prec 09 - Rural Elgin,President,,,Write-ins,1Union,Prec 1O - City of Imbler,President,,,Write-ins,1Union,Prec 11 - Rural Imbler/Summerville,President,,,Write-ins,4Union,Prec 12 - City of Summerville,President,,,Write-ins,0Union,Prec 13 - Rural North Powder,President,,,Write-ins,0Union,Prec 14 - City of North Powder,President,,,Write-ins,2Union,Prec 15 - Rural Union,President,,,Write-ins,2Union,Prec 16 - City of Union,President,,,Write-ins,21Union,Prec 17 - Antelope/Big Creek,President,,,Write-ins,1Union,Prec 18 - City of Island City,President,,,Write-ins,2Union,Prec 19 - Rural Island City,President,,,Write-ins,3Union,Prec 01 - City of La Grande,President,,,Over Votes,2Union,Prec 02 - City of La Grande,President,,,Over Votes,5Union,Prec 03 - City of La Grande,President,,,Over Votes,2Union,Prec 04 - Rural La Grande,President,,,Over Votes,0Union,Prec 05 - Rural La Grande,President,,,Over Votes,2Union,Prec 06 - City of Cove,President,,,Over Votes,1Union,Prec 07 - Rural Cove,President,,,Over Votes,1Union,Prec 08 - City of Elgin,President,,,Over Votes,3Union,Prec 09 - Rural Elgin,President,,,Over Votes,2Union,Prec 1O - City of Imbler,President,,,Over Votes,2Union,Prec 11 - Rural Imbler/Summerville,President,,,Over Votes,1Union,Prec 12 - City of Summerville,President,,,Over Votes,0Union,Prec 13 - Rural North Powder,President,,,Over Votes,0Union,Prec 14 - City of North Powder,President,,,Over Votes,0Union,Prec 15 - Rural Union,President,,,Over Votes,0Union,Prec 16 - City of Union,President,,,Over Votes,0Union,Prec 17 - Antelope/Big Creek,President,,,Over Votes,0Union,Prec 18 - City of Island City,President,,,Over Votes,1Union,Prec 19 - Rural Island City,President,,,Over Votes,0Union,Prec 01 - City of La Grande,President,,,Under Votes,13Union,Prec 02 - City of La Grande,President,,,Under Votes,22Union,Prec 03 - City of La Grande,President,,,Under Votes,17Union,Prec 04 - Rural La Grande,President,,,Under Votes,1Union,Prec 05 - Rural La Grande,President,,,Under Votes,16Union,Prec 06 - City of Cove,President,,,Under Votes,5Union,Prec 07 - Rural Cove,President,,,Under Votes,3Union,Prec 08 - City of Elgin,President,,,Under Votes,5Union,Prec 09 - Rural Elgin,President,,,Under Votes,0Union,Prec 1O - City of Imbler,President,,,Under Votes,2Union,Prec 11 - Rural Imbler/Summerville,President,,,Under Votes,8Union,Prec 12 - City of Summerville,President,,,Under Votes,3Union,Prec 13 - Rural North Powder,President,,,Under Votes,2Union,Prec 14 - City of North Powder,President,,,Under Votes,4Union,Prec 15 - Rural Union,President,,,Under Votes,1Union,Prec 16 - City of Union,President,,,Under Votes,7Union,Prec 17 - Antelope/Big Creek,President,,,Under Votes,0Union,Prec 18 - City of Island City,President,,,Under Votes,5Union,Prec 19 - Rural Island City,President,,,Under Votes,3Union,Prec 01 - City of La Grande,U.S. House,2,DEM,Joyce B Segers,674Union,Prec 02 - City of La Grande,U.S. House,2,DEM,Joyce B Segers,386Union,Prec 03 - City of La Grande,U.S. House,2,DEM,Joyce B Segers,387Union,Prec 04 - Rural La Grande,U.S. House,2,DEM,Joyce B Segers,67Union,Prec 05 - Rural La Grande,U.S. House,2,DEM,Joyce B Segers,191Union,Prec 06 - City of Cove,U.S. House,2,DEM,Joyce B Segers,64Union,Prec 07 - Rural Cove,U.S. House,2,DEM,Joyce B Segers,102Union,Prec 08 - City of Elgin,U.S. House,2,DEM,Joyce B Segers,105Union,Prec 09 - Rural Elgin,U.S. House,2,DEM,Joyce B Segers,55Union,Prec 1O - City of Imbler,U.S. House,2,DEM,Joyce B Segers,19Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,DEM,Joyce B Segers,83Union,Prec 12 - City of Summerville,U.S. House,2,DEM,Joyce B Segers,5Union,Prec 13 - Rural North Powder,U.S. House,2,DEM,Joyce B Segers,7Union,Prec 14 - City of North Powder,U.S. House,2,DEM,Joyce B Segers,53Union,Prec 15 - Rural Union,U.S. House,2,DEM,Joyce B Segers,34Union,Prec 16 - City of Union,U.S. House,2,DEM,Joyce B Segers,201Union,Prec 17 - Antelope/Big Creek,U.S. House,2,DEM,Joyce B Segers,7Union,Prec 18 - City of Island City,U.S. House,2,DEM,Joyce B Segers,92Union,Prec 19 - Rural Island City,U.S. House,2,DEM,Joyce B Segers,27Union,Prec 01 - City of La Grande,U.S. House,2,REP,Greg Walden,1234Union,Prec 02 - City of La Grande,U.S. House,2,REP,Greg Walden,1162Union,Prec 03 - City of La Grande,U.S. House,2,REP,Greg Walden,1119Union,Prec 04 - Rural La Grande,U.S. House,2,REP,Greg Walden,248Union,Prec 05 - Rural La Grande,U.S. House,2,REP,Greg Walden,750Union,Prec 06 - City of Cove,U.S. House,2,REP,Greg Walden,254Union,Prec 07 - Rural Cove,U.S. House,2,REP,Greg Walden,402Union,Prec 08 - City of Elgin,U.S. House,2,REP,Greg Walden,532Union,Prec 09 - Rural Elgin,U.S. House,2,REP,Greg Walden,458Union,Prec 1O - City of Imbler,U.S. House,2,REP,Greg Walden,169Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,REP,Greg Walden,528Union,Prec 12 - City of Summerville,U.S. House,2,REP,Greg Walden,52Union,Prec 13 - Rural North Powder,U.S. House,2,REP,Greg Walden,95Union,Prec 14 - City of North Powder,U.S. House,2,REP,Greg Walden,135Union,Prec 15 - Rural Union,U.S. House,2,REP,Greg Walden,216Union,Prec 16 - City of Union,U.S. House,2,REP,Greg Walden,779Union,Prec 17 - Antelope/Big Creek,U.S. House,2,REP,Greg Walden,35Union,Prec 18 - City of Island City,U.S. House,2,REP,Greg Walden,455Union,Prec 19 - Rural Island City,U.S. House,2,REP,Greg Walden,250Union,Prec 01 - City of La Grande,U.S. House,2,LBT,Joe Tabor,40Union,Prec 02 - City of La Grande,U.S. House,2,LBT,Joe Tabor,40Union,Prec 03 - City of La Grande,U.S. House,2,LBT,Joe Tabor,25Union,Prec 04 - Rural La Grande,U.S. House,2,LBT,Joe Tabor,9Union,Prec 05 - Rural La Grande,U.S. House,2,LBT,Joe Tabor,14Union,Prec 06 - City of Cove,U.S. House,2,LBT,Joe Tabor,4Union,Prec 07 - Rural Cove,U.S. House,2,LBT,Joe Tabor,6Union,Prec 08 - City of Elgin,U.S. House,2,LBT,Joe Tabor,18Union,Prec 09 - Rural Elgin,U.S. House,2,LBT,Joe Tabor,4Union,Prec 1O - City of Imbler,U.S. House,2,LBT,Joe Tabor,2Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,LBT,Joe Tabor,9Union,Prec 12 - City of Summerville,U.S. House,2,LBT,Joe Tabor,0Union,Prec 13 - Rural North Powder,U.S. House,2,LBT,Joe Tabor,0Union,Prec 14 - City of North Powder,U.S. House,2,LBT,Joe Tabor,4Union,Prec 15 - Rural Union,U.S. House,2,LBT,Joe Tabor,1Union,Prec 16 - City of Union,U.S. House,2,LBT,Joe Tabor,27Union,Prec 17 - Antelope/Big Creek,U.S. House,2,LBT,Joe Tabor,1Union,Prec 18 - City of Island City,U.S. House,2,LBT,Joe Tabor,4Union,Prec 19 - Rural Island City,U.S. House,2,LBT,Joe Tabor,5Union,Prec 01 - City of La Grande,U.S. House,2,,Write-ins,3Union,Prec 02 - City of La Grande,U.S. House,2,,Write-ins,7Union,Prec 03 - City of La Grande,U.S. House,2,,Write-ins,2Union,Prec 04 - Rural La Grande,U.S. House,2,,Write-ins,1Union,Prec 05 - Rural La Grande,U.S. House,2,,Write-ins,0Union,Prec 06 - City of Cove,U.S. House,2,,Write-ins,0Union,Prec 07 - Rural Cove,U.S. House,2,,Write-ins,0Union,Prec 08 - City of Elgin,U.S. House,2,,Write-ins,3Union,Prec 09 - Rural Elgin,U.S. House,2,,Write-ins,0Union,Prec 1O - City of Imbler,U.S. House,2,,Write-ins,0Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,,Write-ins,3Union,Prec 12 - City of Summerville,U.S. House,2,,Write-ins,0Union,Prec 13 - Rural North Powder,U.S. House,2,,Write-ins,0Union,Prec 14 - City of North Powder,U.S. House,2,,Write-ins,0Union,Prec 15 - Rural Union,U.S. House,2,,Write-ins,0Union,Prec 16 - City of Union,U.S. House,2,,Write-ins,2Union,Prec 17 - Antelope/Big Creek,U.S. House,2,,Write-ins,0Union,Prec 18 - City of Island City,U.S. House,2,,Write-ins,1Union,Prec 19 - Rural Island City,U.S. House,2,,Write-ins,0Union,Prec 01 - City of La Grande,U.S. House,2,,Over Votes,1Union,Prec 02 - City of La Grande,U.S. House,2,,Over Votes,1Union,Prec 03 - City of La Grande,U.S. House,2,,Over Votes,1Union,Prec 04 - Rural La Grande,U.S. House,2,,Over Votes,0Union,Prec 05 - Rural La Grande,U.S. House,2,,Over Votes,0Union,Prec 06 - City of Cove,U.S. House,2,,Over Votes,0Union,Prec 07 - Rural Cove,U.S. House,2,,Over Votes,0Union,Prec 08 - City of Elgin,U.S. House,2,,Over Votes,0Union,Prec 09 - Rural Elgin,U.S. House,2,,Over Votes,0Union,Prec 1O - City of Imbler,U.S. House,2,,Over Votes,1Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,,Over Votes,0Union,Prec 12 - City of Summerville,U.S. House,2,,Over Votes,0Union,Prec 13 - Rural North Powder,U.S. House,2,,Over Votes,0Union,Prec 14 - City of North Powder,U.S. House,2,,Over Votes,0Union,Prec 15 - Rural Union,U.S. House,2,,Over Votes,0Union,Prec 16 - City of Union,U.S. House,2,,Over Votes,0Union,Prec 17 - Antelope/Big Creek,U.S. House,2,,Over Votes,0Union,Prec 18 - City of Island City,U.S. House,2,,Over Votes,0Union,Prec 19 - Rural Island City,U.S. House,2,,Over Votes,0Union,Prec 01 - City of La Grande,U.S. House,2,,Under Votes,100Union,Prec 02 - City of La Grande,U.S. House,2,,Under Votes,107Union,Prec 03 - City of La Grande,U.S. House,2,,Under Votes,97Union,Prec 04 - Rural La Grande,U.S. House,2,,Under Votes,19Union,Prec 05 - Rural La Grande,U.S. House,2,,Under Votes,46Union,Prec 06 - City of Cove,U.S. House,2,,Under Votes,12Union,Prec 07 - Rural Cove,U.S. House,2,,Under Votes,16Union,Prec 08 - City of Elgin,U.S. House,2,,Under Votes,26Union,Prec 09 - Rural Elgin,U.S. House,2,,Under Votes,11Union,Prec 1O - City of Imbler,U.S. House,2,,Under Votes,6Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,,Under Votes,18Union,Prec 12 - City of Summerville,U.S. House,2,,Under Votes,4Union,Prec 13 - Rural North Powder,U.S. House,2,,Under Votes,1Union,Prec 14 - City of North Powder,U.S. House,2,,Under Votes,9Union,Prec 15 - Rural Union,U.S. House,2,,Under Votes,7Union,Prec 16 - City of Union,U.S. House,2,,Under Votes,47Union,Prec 17 - Antelope/Big Creek,U.S. House,2,,Under Votes,0Union,Prec 18 - City of Island City,U.S. House,2,,Under Votes,17Union,Prec 19 - Rural Island City,U.S. House,2,,Under Votes,5Union,Prec 01 - City of La Grande,Secretary of State,,PAC,Seth Woolley,36Union,Prec 02 - City of La Grande,Secretary of State,,PAC,Seth Woolley,29Union,Prec 03 - City of La Grande,Secretary of State,,PAC,Seth Woolley,37Union,Prec 04 - Rural La Grande,Secretary of State,,PAC,Seth Woolley,2Union,Prec 05 - Rural La Grande,Secretary of State,,PAC,Seth Woolley,14Union,Prec 06 - City of Cove,Secretary of State,,PAC,Seth Woolley,5Union,Prec 07 - Rural Cove,Secretary of State,,PAC,Seth Woolley,7Union,Prec 08 - City of Elgin,Secretary of State,,PAC,Seth Woolley,9Union,Prec 09 - Rural Elgin,Secretary of State,,PAC,Seth Woolley,4Union,Prec 1O - City of Imbler,Secretary of State,,PAC,Seth Woolley,4Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,PAC,Seth Woolley,5Union,Prec 12 - City of Summerville,Secretary of State,,PAC,Seth Woolley,1Union,Prec 13 - Rural North Powder,Secretary of State,,PAC,Seth Woolley,0Union,Prec 14 - City of North Powder,Secretary of State,,PAC,Seth Woolley,2Union,Prec 15 - Rural Union,Secretary of State,,PAC,Seth Woolley,2Union,Prec 16 - City of Union,Secretary of State,,PAC,Seth Woolley,17Union,Prec 17 - Antelope/Big Creek,Secretary of State,,PAC,Seth Woolley,1Union,Prec 18 - City of Island City,Secretary of State,,PAC,Seth Woolley,9Union,Prec 19 - Rural Island City,Secretary of State,,PAC,Seth Woolley,1Union,Prec 01 - City of La Grande,Secretary of State,,PRO,Robert Wolfe,18Union,Prec 02 - City of La Grande,Secretary of State,,PRO,Robert Wolfe,19Union,Prec 03 - City of La Grande,Secretary of State,,PRO,Robert Wolfe,16Union,Prec 04 - Rural La Grande,Secretary of State,,PRO,Robert Wolfe,3Union,Prec 05 - Rural La Grande,Secretary of State,,PRO,Robert Wolfe,8Union,Prec 06 - City of Cove,Secretary of State,,PRO,Robert Wolfe,5Union,Prec 07 - Rural Cove,Secretary of State,,PRO,Robert Wolfe,0Union,Prec 08 - City of Elgin,Secretary of State,,PRO,Robert Wolfe,7Union,Prec 09 - Rural Elgin,Secretary of State,,PRO,Robert Wolfe,3Union,Prec 1O - City of Imbler,Secretary of State,,PRO,Robert Wolfe,1Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,PRO,Robert Wolfe,6Union,Prec 12 - City of Summerville,Secretary of State,,PRO,Robert Wolfe,1Union,Prec 13 - Rural North Powder,Secretary of State,,PRO,Robert Wolfe,1Union,Prec 14 - City of North Powder,Secretary of State,,PRO,Robert Wolfe,2Union,Prec 15 - Rural Union,Secretary of State,,PRO,Robert Wolfe,2Union,Prec 16 - City of Union,Secretary of State,,PRO,Robert Wolfe,9Union,Prec 17 - Antelope/Big Creek,Secretary of State,,PRO,Robert Wolfe,3Union,Prec 18 - City of Island City,Secretary of State,,PRO,Robert Wolfe,1Union,Prec 19 - Rural Island City,Secretary of State,,PRO,Robert Wolfe,1Union,Prec 01 - City of La Grande,Secretary of State,,LBT,Bruce Alexander Knight,36Union,Prec 02 - City of La Grande,Secretary of State,,LBT,Bruce Alexander Knight,36Union,Prec 03 - City of La Grande,Secretary of State,,LBT,Bruce Alexander Knight,18Union,Prec 04 - Rural La Grande,Secretary of State,,LBT,Bruce Alexander Knight,10Union,Prec 05 - Rural La Grande,Secretary of State,,LBT,Bruce Alexander Knight,10Union,Prec 06 - City of Cove,Secretary of State,,LBT,Bruce Alexander Knight,4Union,Prec 07 - Rural Cove,Secretary of State,,LBT,Bruce Alexander Knight,11Union,Prec 08 - City of Elgin,Secretary of State,,LBT,Bruce Alexander Knight,14Union,Prec 09 - Rural Elgin,Secretary of State,,LBT,Bruce Alexander Knight,9Union,Prec 1O - City of Imbler,Secretary of State,,LBT,Bruce Alexander Knight,1Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,LBT,Bruce Alexander Knight,6Union,Prec 12 - City of Summerville,Secretary of State,,LBT,Bruce Alexander Knight,1Union,Prec 13 - Rural North Powder,Secretary of State,,LBT,Bruce Alexander Knight,1Union,Prec 14 - City of North Powder,Secretary of State,,LBT,Bruce Alexander Knight,4Union,Prec 15 - Rural Union,Secretary of State,,LBT,Bruce Alexander Knight,1Union,Prec 16 - City of Union,Secretary of State,,LBT,Bruce Alexander Knight,16Union,Prec 17 - Antelope/Big Creek,Secretary of State,,LBT,Bruce Alexander Knight,1Union,Prec 18 - City of Island City,Secretary of State,,LBT,Bruce Alexander Knight,4Union,Prec 19 - Rural Island City,Secretary of State,,LBT,Bruce Alexander Knight,6Union,Prec 01 - City of La Grande,Secretary of State,,DEM,Kate Brown,922Union,Prec 02 - City of La Grande,Secretary of State,,DEM,Kate Brown,586Union,Prec 03 - City of La Grande,Secretary of State,,DEM,Kate Brown,623Union,Prec 04 - Rural La Grande,Secretary of State,,DEM,Kate Brown,101Union,Prec 05 - Rural La Grande,Secretary of State,,DEM,Kate Brown,320Union,Prec 06 - City of Cove,Secretary of State,,DEM,Kate Brown,95Union,Prec 07 - Rural Cove,Secretary of State,,DEM,Kate Brown,149Union,Prec 08 - City of Elgin,Secretary of State,,DEM,Kate Brown,194Union,Prec 09 - Rural Elgin,Secretary of State,,DEM,Kate Brown,111Union,Prec 1O - City of Imbler,Secretary of State,,DEM,Kate Brown,41Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,DEM,Kate Brown,138Union,Prec 12 - City of Summerville,Secretary of State,,DEM,Kate Brown,12Union,Prec 13 - Rural North Powder,Secretary of State,,DEM,Kate Brown,15Union,Prec 14 - City of North Powder,Secretary of State,,DEM,Kate Brown,77Union,Prec 15 - Rural Union,Secretary of State,,DEM,Kate Brown,65Union,Prec 16 - City of Union,Secretary of State,,DEM,Kate Brown,351Union,Prec 17 - Antelope/Big Creek,Secretary of State,,DEM,Kate Brown,14Union,Prec 18 - City of Island City,Secretary of State,,DEM,Kate Brown,157Union,Prec 19 - Rural Island City,Secretary of State,,DEM,Kate Brown,58Union,Prec 01 - City of La Grande,Secretary of State,,REP,Knute Buehler,901Union,Prec 02 - City of La Grande,Secretary of State,,REP,Knute Buehler,886Union,Prec 03 - City of La Grande,Secretary of State,,REP,Knute Buehler,836Union,Prec 04 - Rural La Grande,Secretary of State,,REP,Knute Buehler,200Union,Prec 05 - Rural La Grande,Secretary of State,,REP,Knute Buehler,598Union,Prec 06 - City of Cove,Secretary of State,,REP,Knute Buehler,206Union,Prec 07 - Rural Cove,Secretary of State,,REP,Knute Buehler,339Union,Prec 08 - City of Elgin,Secretary of State,,REP,Knute Buehler,409Union,Prec 09 - Rural Elgin,Secretary of State,,REP,Knute Buehler,386Union,Prec 1O - City of Imbler,Secretary of State,,REP,Knute Buehler,128Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,REP,Knute Buehler,457Union,Prec 12 - City of Summerville,Secretary of State,,REP,Knute Buehler,37Union,Prec 13 - Rural North Powder,Secretary of State,,REP,Knute Buehler,79Union,Prec 14 - City of North Powder,Secretary of State,,REP,Knute Buehler,99Union,Prec 15 - Rural Union,Secretary of State,,REP,Knute Buehler,170Union,Prec 16 - City of Union,Secretary of State,,REP,Knute Buehler,590Union,Prec 17 - Antelope/Big Creek,Secretary of State,,REP,Knute Buehler,24Union,Prec 18 - City of Island City,Secretary of State,,REP,Knute Buehler,370Union,Prec 19 - Rural Island City,Secretary of State,,REP,Knute Buehler,210Union,Prec 01 - City of La Grande,Secretary of State,,,Write-ins,2Union,Prec 02 - City of La Grande,Secretary of State,,,Write-ins,2Union,Prec 03 - City of La Grande,Secretary of State,,,Write-ins,2Union,Prec 04 - Rural La Grande,Secretary of State,,,Write-ins,0Union,Prec 05 - Rural La Grande,Secretary of State,,,Write-ins,1Union,Prec 06 - City of Cove,Secretary of State,,,Write-ins,0Union,Prec 07 - Rural Cove,Secretary of State,,,Write-ins,0Union,Prec 08 - City of Elgin,Secretary of State,,,Write-ins,2Union,Prec 09 - Rural Elgin,Secretary of State,,,Write-ins,0Union,Prec 1O - City of Imbler,Secretary of State,,,Write-ins,0Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,,Write-ins,5Union,Prec 12 - City of Summerville,Secretary of State,,,Write-ins,0Union,Prec 13 - Rural North Powder,Secretary of State,,,Write-ins,0Union,Prec 14 - City of North Powder,Secretary of State,,,Write-ins,2Union,Prec 15 - Rural Union,Secretary of State,,,Write-ins,0Union,Prec 16 - City of Union,Secretary of State,,,Write-ins,3Union,Prec 17 - Antelope/Big Creek,Secretary of State,,,Write-ins,0Union,Prec 18 - City of Island City,Secretary of State,,,Write-ins,1Union,Prec 19 - Rural Island City,Secretary of State,,,Write-ins,0Union,Prec 01 - City of La Grande,Secretary of State,,,Over Votes,1Union,Prec 02 - City of La Grande,Secretary of State,,,Over Votes,3Union,Prec 03 - City of La Grande,Secretary of State,,,Over Votes,0Union,Prec 04 - Rural La Grande,Secretary of State,,,Over Votes,0Union,Prec 05 - Rural La Grande,Secretary of State,,,Over Votes,1Union,Prec 06 - City of Cove,Secretary of State,,,Over Votes,0Union,Prec 07 - Rural Cove,Secretary of State,,,Over Votes,0Union,Prec 08 - City of Elgin,Secretary of State,,,Over Votes,2Union,Prec 09 - Rural Elgin,Secretary of State,,,Over Votes,0Union,Prec 1O - City of Imbler,Secretary of State,,,Over Votes,0Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,,Over Votes,0Union,Prec 12 - City of Summerville,Secretary of State,,,Over Votes,0Union,Prec 13 - Rural North Powder,Secretary of State,,,Over Votes,0Union,Prec 14 - City of North Powder,Secretary of State,,,Over Votes,1Union,Prec 15 - Rural Union,Secretary of State,,,Over Votes,0Union,Prec 16 - City of Union,Secretary of State,,,Over Votes,0Union,Prec 17 - Antelope/Big Creek,Secretary of State,,,Over Votes,0Union,Prec 18 - City of Island City,Secretary of State,,,Over Votes,0Union,Prec 19 - Rural Island City,Secretary of State,,,Over Votes,0Union,Prec 01 - City of La Grande,Secretary of State,,,Under Votes,136Union,Prec 02 - City of La Grande,Secretary of State,,,Under Votes,142Union,Prec 03 - City of La Grande,Secretary of State,,,Under Votes,99Union,Prec 04 - Rural La Grande,Secretary of State,,,Under Votes,28Union,Prec 05 - Rural La Grande,Secretary of State,,,Under Votes,49Union,Prec 06 - City of Cove,Secretary of State,,,Under Votes,19Union,Prec 07 - Rural Cove,Secretary of State,,,Under Votes,20Union,Prec 08 - City of Elgin,Secretary of State,,,Under Votes,47Union,Prec 09 - Rural Elgin,Secretary of State,,,Under Votes,15Union,Prec 1O - City of Imbler,Secretary of State,,,Under Votes,12Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,,Under Votes,24Union,Prec 12 - City of Summerville,Secretary of State,,,Under Votes,9Union,Prec 13 - Rural North Powder,Secretary of State,,,Under Votes,7Union,Prec 14 - City of North Powder,Secretary of State,,,Under Votes,14Union,Prec 15 - Rural Union,Secretary of State,,,Under Votes,18Union,Prec 16 - City of Union,Secretary of State,,,Under Votes,70Union,Prec 17 - Antelope/Big Creek,Secretary of State,,,Under Votes,0Union,Prec 18 - City of Island City,Secretary of State,,,Under Votes,27Union,Prec 19 - Rural Island City,Secretary of State,,,Under Votes,11Union,Prec 01 - City of La Grande,State Treasurer,,DEM,Ted Wheeler,988Union,Prec 02 - City of La Grande,State Treasurer,,DEM,Ted Wheeler,604Union,Prec 03 - City of La Grande,State Treasurer,,DEM,Ted Wheeler,613Union,Prec 04 - Rural La Grande,State Treasurer,,DEM,Ted Wheeler,125Union,Prec 05 - Rural La Grande,State Treasurer,,DEM,Ted Wheeler,341Union,Prec 06 - City of Cove,State Treasurer,,DEM,Ted Wheeler,110Union,Prec 07 - Rural Cove,State Treasurer,,DEM,Ted Wheeler,163Union,Prec 08 - City of Elgin,State Treasurer,,DEM,Ted Wheeler,211Union,Prec 09 - Rural Elgin,State Treasurer,,DEM,Ted Wheeler,127Union,Prec 1O - City of Imbler,State Treasurer,,DEM,Ted Wheeler,43Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,DEM,Ted Wheeler,169Union,Prec 12 - City of Summerville,State Treasurer,,DEM,Ted Wheeler,15Union,Prec 13 - Rural North Powder,State Treasurer,,DEM,Ted Wheeler,18Union,Prec 14 - City of North Powder,State Treasurer,,DEM,Ted Wheeler,80Union,Prec 15 - Rural Union,State Treasurer,,DEM,Ted Wheeler,69Union,Prec 16 - City of Union,State Treasurer,,DEM,Ted Wheeler,365Union,Prec 17 - Antelope/Big Creek,State Treasurer,,DEM,Ted Wheeler,12Union,Prec 18 - City of Island City,State Treasurer,,DEM,Ted Wheeler,174Union,Prec 19 - Rural Island City,State Treasurer,,DEM,Ted Wheeler,70Union,Prec 01 - City of La Grande,State Treasurer,,PRO,Cameron Whitten,45Union,Prec 02 - City of La Grande,State Treasurer,,PRO,Cameron Whitten,33Union,Prec 03 - City of La Grande,State Treasurer,,PRO,Cameron Whitten,41Union,Prec 04 - Rural La Grande,State Treasurer,,PRO,Cameron Whitten,6Union,Prec 05 - Rural La Grande,State Treasurer,,PRO,Cameron Whitten,15Union,Prec 06 - City of Cove,State Treasurer,,PRO,Cameron Whitten,8Union,Prec 07 - Rural Cove,State Treasurer,,PRO,Cameron Whitten,11Union,Prec 08 - City of Elgin,State Treasurer,,PRO,Cameron Whitten,10Union,Prec 09 - Rural Elgin,State Treasurer,,PRO,Cameron Whitten,8Union,Prec 1O - City of Imbler,State Treasurer,,PRO,Cameron Whitten,3Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,PRO,Cameron Whitten,17Union,Prec 12 - City of Summerville,State Treasurer,,PRO,Cameron Whitten,0Union,Prec 13 - Rural North Powder,State Treasurer,,PRO,Cameron Whitten,2Union,Prec 14 - City of North Powder,State Treasurer,,PRO,Cameron Whitten,2Union,Prec 15 - Rural Union,State Treasurer,,PRO,Cameron Whitten,1Union,Prec 16 - City of Union,State Treasurer,,PRO,Cameron Whitten,23Union,Prec 17 - Antelope/Big Creek,State Treasurer,,PRO,Cameron Whitten,1Union,Prec 18 - City of Island City,State Treasurer,,PRO,Cameron Whitten,6Union,Prec 19 - Rural Island City,State Treasurer,,PRO,Cameron Whitten,6Union,Prec 01 - City of La Grande,State Treasurer,,LBT,John F Mahler,37Union,Prec 02 - City of La Grande,State Treasurer,,LBT,John F Mahler,34Union,Prec 03 - City of La Grande,State Treasurer,,LBT,John F Mahler,31Union,Prec 04 - Rural La Grande,State Treasurer,,LBT,John F Mahler,10Union,Prec 05 - Rural La Grande,State Treasurer,,LBT,John F Mahler,10Union,Prec 06 - City of Cove,State Treasurer,,LBT,John F Mahler,5Union,Prec 07 - Rural Cove,State Treasurer,,LBT,John F Mahler,10Union,Prec 08 - City of Elgin,State Treasurer,,LBT,John F Mahler,18Union,Prec 09 - Rural Elgin,State Treasurer,,LBT,John F Mahler,7Union,Prec 1O - City of Imbler,State Treasurer,,LBT,John F Mahler,2Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,LBT,John F Mahler,6Union,Prec 12 - City of Summerville,State Treasurer,,LBT,John F Mahler,1Union,Prec 13 - Rural North Powder,State Treasurer,,LBT,John F Mahler,1Union,Prec 14 - City of North Powder,State Treasurer,,LBT,John F Mahler,6Union,Prec 15 - Rural Union,State Treasurer,,LBT,John F Mahler,1Union,Prec 16 - City of Union,State Treasurer,,LBT,John F Mahler,23Union,Prec 17 - Antelope/Big Creek,State Treasurer,,LBT,John F Mahler,1Union,Prec 18 - City of Island City,State Treasurer,,LBT,John F Mahler,8Union,Prec 19 - Rural Island City,State Treasurer,,LBT,John F Mahler,5Union,Prec 01 - City of La Grande,State Treasurer,,CON,Michael Paul Marsh,22Union,Prec 02 - City of La Grande,State Treasurer,,CON,Michael Paul Marsh,26Union,Prec 03 - City of La Grande,State Treasurer,,CON,Michael Paul Marsh,14Union,Prec 04 - Rural La Grande,State Treasurer,,CON,Michael Paul Marsh,1Union,Prec 05 - Rural La Grande,State Treasurer,,CON,Michael Paul Marsh,9Union,Prec 06 - City of Cove,State Treasurer,,CON,Michael Paul Marsh,1Union,Prec 07 - Rural Cove,State Treasurer,,CON,Michael Paul Marsh,4Union,Prec 08 - City of Elgin,State Treasurer,,CON,Michael Paul Marsh,7Union,Prec 09 - Rural Elgin,State Treasurer,,CON,Michael Paul Marsh,3Union,Prec 1O - City of Imbler,State Treasurer,,CON,Michael Paul Marsh,2Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,CON,Michael Paul Marsh,6Union,Prec 12 - City of Summerville,State Treasurer,,CON,Michael Paul Marsh,0Union,Prec 13 - Rural North Powder,State Treasurer,,CON,Michael Paul Marsh,1Union,Prec 14 - City of North Powder,State Treasurer,,CON,Michael Paul Marsh,4Union,Prec 15 - Rural Union,State Treasurer,,CON,Michael Paul Marsh,1Union,Prec 16 - City of Union,State Treasurer,,CON,Michael Paul Marsh,21Union,Prec 17 - Antelope/Big Creek,State Treasurer,,CON,Michael Paul Marsh,1Union,Prec 18 - City of Island City,State Treasurer,,CON,Michael Paul Marsh,7Union,Prec 19 - Rural Island City,State Treasurer,,CON,Michael Paul Marsh,4Union,Prec 01 - City of La Grande,State Treasurer,,REP,Tom Cox,780Union,Prec 02 - City of La Grande,State Treasurer,,REP,Tom Cox,829Union,Prec 03 - City of La Grande,State Treasurer,,REP,Tom Cox,793Union,Prec 04 - Rural La Grande,State Treasurer,,REP,Tom Cox,173Union,Prec 05 - Rural La Grande,State Treasurer,,REP,Tom Cox,548Union,Prec 06 - City of Cove,State Treasurer,,REP,Tom Cox,182Union,Prec 07 - Rural Cove,State Treasurer,,REP,Tom Cox,309Union,Prec 08 - City of Elgin,State Treasurer,,REP,Tom Cox,376Union,Prec 09 - Rural Elgin,State Treasurer,,REP,Tom Cox,357Union,Prec 1O - City of Imbler,State Treasurer,,REP,Tom Cox,120Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,REP,Tom Cox,404Union,Prec 12 - City of Summerville,State Treasurer,,REP,Tom Cox,35Union,Prec 13 - Rural North Powder,State Treasurer,,REP,Tom Cox,73Union,Prec 14 - City of North Powder,State Treasurer,,REP,Tom Cox,89Union,Prec 15 - Rural Union,State Treasurer,,REP,Tom Cox,159Union,Prec 16 - City of Union,State Treasurer,,REP,Tom Cox,532Union,Prec 17 - Antelope/Big Creek,State Treasurer,,REP,Tom Cox,26Union,Prec 18 - City of Island City,State Treasurer,,REP,Tom Cox,336Union,Prec 19 - Rural Island City,State Treasurer,,REP,Tom Cox,184Union,Prec 01 - City of La Grande,State Treasurer,,,Write-ins,1Union,Prec 02 - City of La Grande,State Treasurer,,,Write-ins,3Union,Prec 03 - City of La Grande,State Treasurer,,,Write-ins,1Union,Prec 04 - Rural La Grande,State Treasurer,,,Write-ins,1Union,Prec 05 - Rural La Grande,State Treasurer,,,Write-ins,0Union,Prec 06 - City of Cove,State Treasurer,,,Write-ins,0Union,Prec 07 - Rural Cove,State Treasurer,,,Write-ins,0Union,Prec 08 - City of Elgin,State Treasurer,,,Write-ins,2Union,Prec 09 - Rural Elgin,State Treasurer,,,Write-ins,0Union,Prec 1O - City of Imbler,State Treasurer,,,Write-ins,0Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,,Write-ins,0Union,Prec 12 - City of Summerville,State Treasurer,,,Write-ins,0Union,Prec 13 - Rural North Powder,State Treasurer,,,Write-ins,0Union,Prec 14 - City of North Powder,State Treasurer,,,Write-ins,0Union,Prec 15 - Rural Union,State Treasurer,,,Write-ins,0Union,Prec 16 - City of Union,State Treasurer,,,Write-ins,2Union,Prec 17 - Antelope/Big Creek,State Treasurer,,,Write-ins,1Union,Prec 18 - City of Island City,State Treasurer,,,Write-ins,0Union,Prec 19 - Rural Island City,State Treasurer,,,Write-ins,0Union,Prec 01 - City of La Grande,State Treasurer,,,Over Votes,0Union,Prec 02 - City of La Grande,State Treasurer,,,Over Votes,2Union,Prec 03 - City of La Grande,State Treasurer,,,Over Votes,0Union,Prec 04 - Rural La Grande,State Treasurer,,,Over Votes,0Union,Prec 05 - Rural La Grande,State Treasurer,,,Over Votes,0Union,Prec 06 - City of Cove,State Treasurer,,,Over Votes,0Union,Prec 07 - Rural Cove,State Treasurer,,,Over Votes,0Union,Prec 08 - City of Elgin,State Treasurer,,,Over Votes,0Union,Prec 09 - Rural Elgin,State Treasurer,,,Over Votes,0Union,Prec 1O - City of Imbler,State Treasurer,,,Over Votes,0Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,,Over Votes,0Union,Prec 12 - City of Summerville,State Treasurer,,,Over Votes,0Union,Prec 13 - Rural North Powder,State Treasurer,,,Over Votes,0Union,Prec 14 - City of North Powder,State Treasurer,,,Over Votes,0Union,Prec 15 - Rural Union,State Treasurer,,,Over Votes,0Union,Prec 16 - City of Union,State Treasurer,,,Over Votes,0Union,Prec 17 - Antelope/Big Creek,State Treasurer,,,Over Votes,0Union,Prec 18 - City of Island City,State Treasurer,,,Over Votes,0Union,Prec 19 - Rural Island City,State Treasurer,,,Over Votes,0Union,Prec 01 - City of La Grande,State Treasurer,,,Under Votes,179Union,Prec 02 - City of La Grande,State Treasurer,,,Under Votes,172Union,Prec 03 - City of La Grande,State Treasurer,,,Under Votes,138Union,Prec 04 - Rural La Grande,State Treasurer,,,Under Votes,28Union,Prec 05 - Rural La Grande,State Treasurer,,,Under Votes,78Union,Prec 06 - City of Cove,State Treasurer,,,Under Votes,28Union,Prec 07 - Rural Cove,State Treasurer,,,Under Votes,29Union,Prec 08 - City of Elgin,State Treasurer,,,Under Votes,60Union,Prec 09 - Rural Elgin,State Treasurer,,,Under Votes,26Union,Prec 1O - City of Imbler,State Treasurer,,,Under Votes,17Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,,Under Votes,39Union,Prec 12 - City of Summerville,State Treasurer,,,Under Votes,10Union,Prec 13 - Rural North Powder,State Treasurer,,,Under Votes,8Union,Prec 14 - City of North Powder,State Treasurer,,,Under Votes,20Union,Prec 15 - Rural Union,State Treasurer,,,Under Votes,27Union,Prec 16 - City of Union,State Treasurer,,,Under Votes,90Union,Prec 17 - Antelope/Big Creek,State Treasurer,,,Under Votes,1Union,Prec 18 - City of Island City,State Treasurer,,,Under Votes,38Union,Prec 19 - Rural Island City,State Treasurer,,,Under Votes,18Union,Prec 01 - City of La Grande,Attorney General,,PRO,Chris Henry,34Union,Prec 02 - City of La Grande,Attorney General,,PRO,Chris Henry,25Union,Prec 03 - City of La Grande,Attorney General,,PRO,Chris Henry,26Union,Prec 04 - Rural La Grande,Attorney General,,PRO,Chris Henry,3Union,Prec 05 - Rural La Grande,Attorney General,,PRO,Chris Henry,15Union,Prec 06 - City of Cove,Attorney General,,PRO,Chris Henry,3Union,Prec 07 - Rural Cove,Attorney General,,PRO,Chris Henry,3Union,Prec 08 - City of Elgin,Attorney General,,PRO,Chris Henry,9Union,Prec 09 - Rural Elgin,Attorney General,,PRO,Chris Henry,6Union,Prec 1O - City of Imbler,Attorney General,,PRO,Chris Henry,0Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,PRO,Chris Henry,9Union,Prec 12 - City of Summerville,Attorney General,,PRO,Chris Henry,1Union,Prec 13 - Rural North Powder,Attorney General,,PRO,Chris Henry,2Union,Prec 14 - City of North Powder,Attorney General,,PRO,Chris Henry,2Union,Prec 15 - Rural Union,Attorney General,,PRO,Chris Henry,1Union,Prec 16 - City of Union,Attorney General,,PRO,Chris Henry,13Union,Prec 17 - Antelope/Big Creek,Attorney General,,PRO,Chris Henry,1Union,Prec 18 - City of Island City,Attorney General,,PRO,Chris Henry,6Union,Prec 19 - Rural Island City,Attorney General,,PRO,Chris Henry,3Union,Prec 01 - City of La Grande,Attorney General,,REP,James L Buchal,812Union,Prec 02 - City of La Grande,Attorney General,,REP,James L Buchal,839Union,Prec 03 - City of La Grande,Attorney General,,REP,James L Buchal,787Union,Prec 04 - Rural La Grande,Attorney General,,REP,James L Buchal,179Union,Prec 05 - Rural La Grande,Attorney General,,REP,James L Buchal,566Union,Prec 06 - City of Cove,Attorney General,,REP,James L Buchal,185Union,Prec 07 - Rural Cove,Attorney General,,REP,James L Buchal,312Union,Prec 08 - City of Elgin,Attorney General,,REP,James L Buchal,385Union,Prec 09 - Rural Elgin,Attorney General,,REP,James L Buchal,359Union,Prec 1O - City of Imbler,Attorney General,,REP,James L Buchal,124Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,REP,James L Buchal,424Union,Prec 12 - City of Summerville,Attorney General,,REP,James L Buchal,34Union,Prec 13 - Rural North Powder,Attorney General,,REP,James L Buchal,75Union,Prec 14 - City of North Powder,Attorney General,,REP,James L Buchal,93Union,Prec 15 - Rural Union,Attorney General,,REP,James L Buchal,160Union,Prec 16 - City of Union,Attorney General,,REP,James L Buchal,547Union,Prec 17 - Antelope/Big Creek,Attorney General,,REP,James L Buchal,28Union,Prec 18 - City of Island City,Attorney General,,REP,James L Buchal,340Union,Prec 19 - Rural Island City,Attorney General,,REP,James L Buchal,187Union,Prec 01 - City of La Grande,Attorney General,,CON,James E Leuenberger,53Union,Prec 02 - City of La Grande,Attorney General,,CON,James E Leuenberger,66Union,Prec 03 - City of La Grande,Attorney General,,CON,James E Leuenberger,45Union,Prec 04 - Rural La Grande,Attorney General,,CON,James E Leuenberger,16Union,Prec 05 - Rural La Grande,Attorney General,,CON,James E Leuenberger,23Union,Prec 06 - City of Cove,Attorney General,,CON,James E Leuenberger,10Union,Prec 07 - Rural Cove,Attorney General,,CON,James E Leuenberger,13Union,Prec 08 - City of Elgin,Attorney General,,CON,James E Leuenberger,23Union,Prec 09 - Rural Elgin,Attorney General,,CON,James E Leuenberger,14Union,Prec 1O - City of Imbler,Attorney General,,CON,James E Leuenberger,3Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,CON,James E Leuenberger,18Union,Prec 12 - City of Summerville,Attorney General,,CON,James E Leuenberger,1Union,Prec 13 - Rural North Powder,Attorney General,,CON,James E Leuenberger,1Union,Prec 14 - City of North Powder,Attorney General,,CON,James E Leuenberger,11Union,Prec 15 - Rural Union,Attorney General,,CON,James E Leuenberger,5Union,Prec 16 - City of Union,Attorney General,,CON,James E Leuenberger,42Union,Prec 17 - Antelope/Big Creek,Attorney General,,CON,James E Leuenberger,1Union,Prec 18 - City of Island City,Attorney General,,CON,James E Leuenberger,14Union,Prec 19 - Rural Island City,Attorney General,,CON,James E Leuenberger,9Union,Prec 01 - City of La Grande,Attorney General,,DEM,Ellen Rosenblum,963Union,Prec 02 - City of La Grande,Attorney General,,DEM,Ellen Rosenblum,583Union,Prec 03 - City of La Grande,Attorney General,,DEM,Ellen Rosenblum,623Union,Prec 04 - Rural La Grande,Attorney General,,DEM,Ellen Rosenblum,112Union,Prec 05 - Rural La Grande,Attorney General,,DEM,Ellen Rosenblum,319Union,Prec 06 - City of Cove,Attorney General,,DEM,Ellen Rosenblum,106Union,Prec 07 - Rural Cove,Attorney General,,DEM,Ellen Rosenblum,163Union,Prec 08 - City of Elgin,Attorney General,,DEM,Ellen Rosenblum,202Union,Prec 09 - Rural Elgin,Attorney General,,DEM,Ellen Rosenblum,120Union,Prec 1O - City of Imbler,Attorney General,,DEM,Ellen Rosenblum,43Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,DEM,Ellen Rosenblum,142Union,Prec 12 - City of Summerville,Attorney General,,DEM,Ellen Rosenblum,14Union,Prec 13 - Rural North Powder,Attorney General,,DEM,Ellen Rosenblum,16Union,Prec 14 - City of North Powder,Attorney General,,DEM,Ellen Rosenblum,74Union,Prec 15 - Rural Union,Attorney General,,DEM,Ellen Rosenblum,62Union,Prec 16 - City of Union,Attorney General,,DEM,Ellen Rosenblum,362Union,Prec 17 - Antelope/Big Creek,Attorney General,,DEM,Ellen Rosenblum,13Union,Prec 18 - City of Island City,Attorney General,,DEM,Ellen Rosenblum,166Union,Prec 19 - Rural Island City,Attorney General,,DEM,Ellen Rosenblum,67Union,Prec 01 - City of La Grande,Attorney General,,,Write-ins,2Union,Prec 02 - City of La Grande,Attorney General,,,Write-ins,1Union,Prec 03 - City of La Grande,Attorney General,,,Write-ins,2Union,Prec 04 - Rural La Grande,Attorney General,,,Write-ins,0Union,Prec 05 - Rural La Grande,Attorney General,,,Write-ins,0Union,Prec 06 - City of Cove,Attorney General,,,Write-ins,1Union,Prec 07 - Rural Cove,Attorney General,,,Write-ins,0Union,Prec 08 - City of Elgin,Attorney General,,,Write-ins,0Union,Prec 09 - Rural Elgin,Attorney General,,,Write-ins,0Union,Prec 1O - City of Imbler,Attorney General,,,Write-ins,0Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,,Write-ins,2Union,Prec 12 - City of Summerville,Attorney General,,,Write-ins,0Union,Prec 13 - Rural North Powder,Attorney General,,,Write-ins,0Union,Prec 14 - City of North Powder,Attorney General,,,Write-ins,0Union,Prec 15 - Rural Union,Attorney General,,,Write-ins,0Union,Prec 16 - City of Union,Attorney General,,,Write-ins,1Union,Prec 17 - Antelope/Big Creek,Attorney General,,,Write-ins,0Union,Prec 18 - City of Island City,Attorney General,,,Write-ins,0Union,Prec 19 - Rural Island City,Attorney General,,,Write-ins,0Union,Prec 01 - City of La Grande,Attorney General,,,Over Votes,2Union,Prec 02 - City of La Grande,Attorney General,,,Over Votes,0Union,Prec 03 - City of La Grande,Attorney General,,,Over Votes,0Union,Prec 04 - Rural La Grande,Attorney General,,,Over Votes,1Union,Prec 05 - Rural La Grande,Attorney General,,,Over Votes,0Union,Prec 06 - City of Cove,Attorney General,,,Over Votes,0Union,Prec 07 - Rural Cove,Attorney General,,,Over Votes,0Union,Prec 08 - City of Elgin,Attorney General,,,Over Votes,1Union,Prec 09 - Rural Elgin,Attorney General,,,Over Votes,2Union,Prec 1O - City of Imbler,Attorney General,,,Over Votes,0Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,,Over Votes,0Union,Prec 12 - City of Summerville,Attorney General,,,Over Votes,0Union,Prec 13 - Rural North Powder,Attorney General,,,Over Votes,0Union,Prec 14 - City of North Powder,Attorney General,,,Over Votes,0Union,Prec 15 - Rural Union,Attorney General,,,Over Votes,0Union,Prec 16 - City of Union,Attorney General,,,Over Votes,0Union,Prec 17 - Antelope/Big Creek,Attorney General,,,Over Votes,0Union,Prec 18 - City of Island City,Attorney General,,,Over Votes,0Union,Prec 19 - Rural Island City,Attorney General,,,Over Votes,1Union,Prec 01 - City of La Grande,Attorney General,,,Under Votes,186Union,Prec 02 - City of La Grande,Attorney General,,,Under Votes,189Union,Prec 03 - City of La Grande,Attorney General,,,Under Votes,148Union,Prec 04 - Rural La Grande,Attorney General,,,Under Votes,33Union,Prec 05 - Rural La Grande,Attorney General,,,Under Votes,78Union,Prec 06 - City of Cove,Attorney General,,,Under Votes,29Union,Prec 07 - Rural Cove,Attorney General,,,Under Votes,35Union,Prec 08 - City of Elgin,Attorney General,,,Under Votes,64Union,Prec 09 - Rural Elgin,Attorney General,,,Under Votes,27Union,Prec 1O - City of Imbler,Attorney General,,,Under Votes,17Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,,Under Votes,46Union,Prec 12 - City of Summerville,Attorney General,,,Under Votes,11Union,Prec 13 - Rural North Powder,Attorney General,,,Under Votes,9Union,Prec 14 - City of North Powder,Attorney General,,,Under Votes,21Union,Prec 15 - Rural Union,Attorney General,,,Under Votes,30Union,Prec 16 - City of Union,Attorney General,,,Under Votes,91Union,Prec 17 - Antelope/Big Creek,Attorney General,,,Under Votes,0Union,Prec 18 - City of Island City,Attorney General,,,Under Votes,43Union,Prec 19 - Rural Island City,Attorney General,,,Under Votes,20Union,Prec 01 - City of La Grande,State Senate,29,REP,Bill Hansell,970Union,Prec 02 - City of La Grande,State Senate,29,REP,Bill Hansell,951Union,Prec 03 - City of La Grande,State Senate,29,REP,Bill Hansell,950Union,Prec 04 - Rural La Grande,State Senate,29,REP,Bill Hansell,217Union,Prec 05 - Rural La Grande,State Senate,29,REP,Bill Hansell,657Union,Prec 06 - City of Cove,State Senate,29,REP,Bill Hansell,221Union,Prec 07 - Rural Cove,State Senate,29,REP,Bill Hansell,364Union,Prec 08 - City of Elgin,State Senate,29,REP,Bill Hansell,450Union,Prec 09 - Rural Elgin,State Senate,29,REP,Bill Hansell,414Union,Prec 1O - City of Imbler,State Senate,29,REP,Bill Hansell,142Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,REP,Bill Hansell,477Union,Prec 12 - City of Summerville,State Senate,29,REP,Bill Hansell,43Union,Prec 13 - Rural North Powder,State Senate,29,REP,Bill Hansell,81Union,Prec 14 - City of North Powder,State Senate,29,REP,Bill Hansell,117Union,Prec 15 - Rural Union,State Senate,29,REP,Bill Hansell,189Union,Prec 16 - City of Union,State Senate,29,REP,Bill Hansell,655Union,Prec 17 - Antelope/Big Creek,State Senate,29,REP,Bill Hansell,33Union,Prec 18 - City of Island City,State Senate,29,REP,Bill Hansell,401Union,Prec 19 - Rural Island City,State Senate,29,REP,Bill Hansell,216Union,Prec 01 - City of La Grande,State Senate,29,DEM,Antone Minthorn,846Union,Prec 02 - City of La Grande,State Senate,29,DEM,Antone Minthorn,528Union,Prec 03 - City of La Grande,State Senate,29,DEM,Antone Minthorn,503Union,Prec 04 - Rural La Grande,State Senate,29,DEM,Antone Minthorn,91Union,Prec 05 - Rural La Grande,State Senate,29,DEM,Antone Minthorn,247Union,Prec 06 - City of Cove,State Senate,29,DEM,Antone Minthorn,86Union,Prec 07 - Rural Cove,State Senate,29,DEM,Antone Minthorn,133Union,Prec 08 - City of Elgin,State Senate,29,DEM,Antone Minthorn,152Union,Prec 09 - Rural Elgin,State Senate,29,DEM,Antone Minthorn,92Union,Prec 1O - City of Imbler,State Senate,29,DEM,Antone Minthorn,30Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,DEM,Antone Minthorn,128Union,Prec 12 - City of Summerville,State Senate,29,DEM,Antone Minthorn,9Union,Prec 13 - Rural North Powder,State Senate,29,DEM,Antone Minthorn,14Union,Prec 14 - City of North Powder,State Senate,29,DEM,Antone Minthorn,61Union,Prec 15 - Rural Union,State Senate,29,DEM,Antone Minthorn,47Union,Prec 16 - City of Union,State Senate,29,DEM,Antone Minthorn,293Union,Prec 17 - Antelope/Big Creek,State Senate,29,DEM,Antone Minthorn,10Union,Prec 18 - City of Island City,State Senate,29,DEM,Antone Minthorn,118Union,Prec 19 - Rural Island City,State Senate,29,DEM,Antone Minthorn,51Union,Prec 01 - City of La Grande,State Senate,29,,Write-ins,8Union,Prec 02 - City of La Grande,State Senate,29,,Write-ins,7Union,Prec 03 - City of La Grande,State Senate,29,,Write-ins,4Union,Prec 04 - Rural La Grande,State Senate,29,,Write-ins,1Union,Prec 05 - Rural La Grande,State Senate,29,,Write-ins,0Union,Prec 06 - City of Cove,State Senate,29,,Write-ins,0Union,Prec 07 - Rural Cove,State Senate,29,,Write-ins,1Union,Prec 08 - City of Elgin,State Senate,29,,Write-ins,1Union,Prec 09 - Rural Elgin,State Senate,29,,Write-ins,0Union,Prec 1O - City of Imbler,State Senate,29,,Write-ins,0Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,,Write-ins,1Union,Prec 12 - City of Summerville,State Senate,29,,Write-ins,0Union,Prec 13 - Rural North Powder,State Senate,29,,Write-ins,1Union,Prec 14 - City of North Powder,State Senate,29,,Write-ins,0Union,Prec 15 - Rural Union,State Senate,29,,Write-ins,0Union,Prec 16 - City of Union,State Senate,29,,Write-ins,4Union,Prec 17 - Antelope/Big Creek,State Senate,29,,Write-ins,0Union,Prec 18 - City of Island City,State Senate,29,,Write-ins,1Union,Prec 19 - Rural Island City,State Senate,29,,Write-ins,0Union,Prec 01 - City of La Grande,State Senate,29,,Over Votes,0Union,Prec 02 - City of La Grande,State Senate,29,,Over Votes,1Union,Prec 03 - City of La Grande,State Senate,29,,Over Votes,1Union,Prec 04 - Rural La Grande,State Senate,29,,Over Votes,0Union,Prec 05 - Rural La Grande,State Senate,29,,Over Votes,0Union,Prec 06 - City of Cove,State Senate,29,,Over Votes,0Union,Prec 07 - Rural Cove,State Senate,29,,Over Votes,0Union,Prec 08 - City of Elgin,State Senate,29,,Over Votes,0Union,Prec 09 - Rural Elgin,State Senate,29,,Over Votes,0Union,Prec 1O - City of Imbler,State Senate,29,,Over Votes,0Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,,Over Votes,0Union,Prec 12 - City of Summerville,State Senate,29,,Over Votes,0Union,Prec 13 - Rural North Powder,State Senate,29,,Over Votes,0Union,Prec 14 - City of North Powder,State Senate,29,,Over Votes,0Union,Prec 15 - Rural Union,State Senate,29,,Over Votes,0Union,Prec 16 - City of Union,State Senate,29,,Over Votes,0Union,Prec 17 - Antelope/Big Creek,State Senate,29,,Over Votes,0Union,Prec 18 - City of Island City,State Senate,29,,Over Votes,0Union,Prec 19 - Rural Island City,State Senate,29,,Over Votes,0Union,Prec 01 - City of La Grande,State Senate,29,,Under Votes,228Union,Prec 02 - City of La Grande,State Senate,29,,Under Votes,216Union,Prec 03 - City of La Grande,State Senate,29,,Under Votes,173Union,Prec 04 - Rural La Grande,State Senate,29,,Under Votes,35Union,Prec 05 - Rural La Grande,State Senate,29,,Under Votes,97Union,Prec 06 - City of Cove,State Senate,29,,Under Votes,27Union,Prec 07 - Rural Cove,State Senate,29,,Under Votes,28Union,Prec 08 - City of Elgin,State Senate,29,,Under Votes,81Union,Prec 09 - Rural Elgin,State Senate,29,,Under Votes,22Union,Prec 1O - City of Imbler,State Senate,29,,Under Votes,15Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,,Under Votes,35Union,Prec 12 - City of Summerville,State Senate,29,,Under Votes,9Union,Prec 13 - Rural North Powder,State Senate,29,,Under Votes,7Union,Prec 14 - City of North Powder,State Senate,29,,Under Votes,23Union,Prec 15 - Rural Union,State Senate,29,,Under Votes,22Union,Prec 16 - City of Union,State Senate,29,,Under Votes,104Union,Prec 17 - Antelope/Big Creek,State Senate,29,,Under Votes,0Union,Prec 18 - City of Island City,State Senate,29,,Under Votes,49Union,Prec 19 - Rural Island City,State Senate,29,,Under Votes,20Union,Prec 01 - City of La Grande,State House,58,REP,Bob Jensen,1074Union,Prec 02 - City of La Grande,State House,58,REP,Bob Jensen,1035Union,Prec 03 - City of La Grande,State House,58,REP,Bob Jensen,997Union,Prec 04 - Rural La Grande,State House,58,REP,Bob Jensen,235Union,Prec 05 - Rural La Grande,State House,58,REP,Bob Jensen,680Union,Prec 06 - City of Cove,State House,58,REP,Bob Jensen,248Union,Prec 07 - Rural Cove,State House,58,REP,Bob Jensen,371Union,Prec 08 - City of Elgin,State House,58,REP,Bob Jensen,475Union,Prec 09 - Rural Elgin,State House,58,REP,Bob Jensen,411Union,Prec 1O - City of Imbler,State House,58,REP,Bob Jensen,147Union,Prec 11 - Rural Imbler/Summerville,State House,58,REP,Bob Jensen,491Union,Prec 12 - City of Summerville,State House,58,REP,Bob Jensen,43Union,Prec 13 - Rural North Powder,State House,58,REP,Bob Jensen,85Union,Prec 14 - City of North Powder,State House,58,REP,Bob Jensen,118Union,Prec 15 - Rural Union,State House,58,REP,Bob Jensen,189Union,Prec 16 - City of Union,State House,58,REP,Bob Jensen,668Union,Prec 17 - Antelope/Big Creek,State House,58,REP,Bob Jensen,34Union,Prec 18 - City of Island City,State House,58,REP,Bob Jensen,421Union,Prec 19 - Rural Island City,State House,58,REP,Bob Jensen,218Union,Prec 01 - City of La Grande,State House,58,DEM,Heidi VanSchoonhoven,697Union,Prec 02 - City of La Grande,State House,58,DEM,Heidi VanSchoonhoven,416Union,Prec 03 - City of La Grande,State House,58,DEM,Heidi VanSchoonhoven,440Union,Prec 04 - Rural La Grande,State House,58,DEM,Heidi VanSchoonhoven,64Union,Prec 05 - Rural La Grande,State House,58,DEM,Heidi VanSchoonhoven,192Union,Prec 06 - City of Cove,State House,58,DEM,Heidi VanSchoonhoven,57Union,Prec 07 - Rural Cove,State House,58,DEM,Heidi VanSchoonhoven,110Union,Prec 08 - City of Elgin,State House,58,DEM,Heidi VanSchoonhoven,119Union,Prec 09 - Rural Elgin,State House,58,DEM,Heidi VanSchoonhoven,75Union,Prec 1O - City of Imbler,State House,58,DEM,Heidi VanSchoonhoven,24Union,Prec 11 - Rural Imbler/Summerville,State House,58,DEM,Heidi VanSchoonhoven,97Union,Prec 12 - City of Summerville,State House,58,DEM,Heidi VanSchoonhoven,8Union,Prec 13 - Rural North Powder,State House,58,DEM,Heidi VanSchoonhoven,10Union,Prec 14 - City of North Powder,State House,58,DEM,Heidi VanSchoonhoven,50Union,Prec 15 - Rural Union,State House,58,DEM,Heidi VanSchoonhoven,40Union,Prec 16 - City of Union,State House,58,DEM,Heidi VanSchoonhoven,246Union,Prec 17 - Antelope/Big Creek,State House,58,DEM,Heidi VanSchoonhoven,7Union,Prec 18 - City of Island City,State House,58,DEM,Heidi VanSchoonhoven,90Union,Prec 19 - Rural Island City,State House,58,DEM,Heidi VanSchoonhoven,40Union,Prec 01 - City of La Grande,State House,58,,Write-ins,13Union,Prec 02 - City of La Grande,State House,58,,Write-ins,13Union,Prec 03 - City of La Grande,State House,58,,Write-ins,7Union,Prec 04 - Rural La Grande,State House,58,,Write-ins,2Union,Prec 05 - Rural La Grande,State House,58,,Write-ins,6Union,Prec 06 - City of Cove,State House,58,,Write-ins,0Union,Prec 07 - Rural Cove,State House,58,,Write-ins,4Union,Prec 08 - City of Elgin,State House,58,,Write-ins,3Union,Prec 09 - Rural Elgin,State House,58,,Write-ins,0Union,Prec 1O - City of Imbler,State House,58,,Write-ins,0Union,Prec 11 - Rural Imbler/Summerville,State House,58,,Write-ins,3Union,Prec 12 - City of Summerville,State House,58,,Write-ins,0Union,Prec 13 - Rural North Powder,State House,58,,Write-ins,0Union,Prec 14 - City of North Powder,State House,58,,Write-ins,0Union,Prec 15 - Rural Union,State House,58,,Write-ins,0Union,Prec 16 - City of Union,State House,58,,Write-ins,4Union,Prec 17 - Antelope/Big Creek,State House,58,,Write-ins,0Union,Prec 18 - City of Island City,State House,58,,Write-ins,4Union,Prec 19 - Rural Island City,State House,58,,Write-ins,1Union,Prec 01 - City of La Grande,State House,58,,Over Votes,0Union,Prec 02 - City of La Grande,State House,58,,Over Votes,2Union,Prec 03 - City of La Grande,State House,58,,Over Votes,0Union,Prec 04 - Rural La Grande,State House,58,,Over Votes,0Union,Prec 05 - Rural La Grande,State House,58,,Over Votes,0Union,Prec 06 - City of Cove,State House,58,,Over Votes,0Union,Prec 07 - Rural Cove,State House,58,,Over Votes,1Union,Prec 08 - City of Elgin,State House,58,,Over Votes,0Union,Prec 09 - Rural Elgin,State House,58,,Over Votes,0Union,Prec 1O - City of Imbler,State House,58,,Over Votes,0Union,Prec 11 - Rural Imbler/Summerville,State House,58,,Over Votes,0Union,Prec 12 - City of Summerville,State House,58,,Over Votes,0Union,Prec 13 - Rural North Powder,State House,58,,Over Votes,0Union,Prec 14 - City of North Powder,State House,58,,Over Votes,0Union,Prec 15 - Rural Union,State House,58,,Over Votes,1Union,Prec 16 - City of Union,State House,58,,Over Votes,0Union,Prec 17 - Antelope/Big Creek,State House,58,,Over Votes,0Union,Prec 18 - City of Island City,State House,58,,Over Votes,0Union,Prec 19 - Rural Island City,State House,58,,Over Votes,0Union,Prec 01 - City of La Grande,State House,58,,Under Votes,268Union,Prec 02 - City of La Grande,State House,58,,Under Votes,237Union,Prec 03 - City of La Grande,State House,58,,Under Votes,187Union,Prec 04 - Rural La Grande,State House,58,,Under Votes,43Union,Prec 05 - Rural La Grande,State House,58,,Under Votes,123Union,Prec 06 - City of Cove,State House,58,,Under Votes,29Union,Prec 07 - Rural Cove,State House,58,,Under Votes,40Union,Prec 08 - City of Elgin,State House,58,,Under Votes,87Union,Prec 09 - Rural Elgin,State House,58,,Under Votes,42Union,Prec 1O - City of Imbler,State House,58,,Under Votes,16Union,Prec 11 - Rural Imbler/Summerville,State House,58,,Under Votes,50Union,Prec 12 - City of Summerville,State House,58,,Under Votes,10Union,Prec 13 - Rural North Powder,State House,58,,Under Votes,8Union,Prec 14 - City of North Powder,State House,58,,Under Votes,33Union,Prec 15 - Rural Union,State House,58,,Under Votes,28Union,Prec 16 - City of Union,State House,58,,Under Votes,138Union,Prec 17 - Antelope/Big Creek,State House,58,,Under Votes,2Union,Prec 18 - City of Island City,State House,58,,Under Votes,54Union,Prec 19 - Rural Island City,State House,58,,Under Votes,28
+county,precinct,office,district,party,candidate,votes
+Union,Prec 01 - City of La Grande,President,,DEM,Barack Obama,998
+Union,Prec 02 - City of La Grande,President,,DEM,Barack Obama,628
+Union,Prec 03 - City of La Grande,President,,DEM,Barack Obama,586
+Union,Prec 04 - Rural La Grande,President,,DEM,Barack Obama,110
+Union,Prec 05 - Rural La Grande,President,,DEM,Barack Obama,278
+Union,Prec 06 - City of Cove,President,,DEM,Barack Obama,102
+Union,Prec 07 - Rural Cove,President,,DEM,Barack Obama,158
+Union,Prec 08 - City of Elgin,President,,DEM,Barack Obama,169
+Union,Prec 09 - Rural Elgin,President,,DEM,Barack Obama,99
+Union,Prec 1O - City of Imbler,President,,DEM,Barack Obama,39
+Union,Prec 11 - Rural Imbler/Summerville,President,,DEM,Barack Obama,126
+Union,Prec 12 - City of Summerville,President,,DEM,Barack Obama,9
+Union,Prec 13 - Rural North Powder,President,,DEM,Barack Obama,17
+Union,Prec 14 - City of North Powder,President,,DEM,Barack Obama,68
+Union,Prec 15 - Rural Union,President,,DEM,Barack Obama,57
+Union,Prec 16 - City of Union,President,,DEM,Barack Obama,324
+Union,Prec 17 - Antelope/Big Creek,President,,DEM,Barack Obama,7
+Union,Prec 18 - City of Island City,President,,DEM,Barack Obama,150
+Union,Prec 19 - Rural Island City,President,,DEM,Barack Obama,48
+Union,Prec 01 - City of La Grande,President,,PAC,Jill Stein,22
+Union,Prec 02 - City of La Grande,President,,PAC,Jill Stein,18
+Union,Prec 03 - City of La Grande,President,,PAC,Jill Stein,9
+Union,Prec 04 - Rural La Grande,President,,PAC,Jill Stein,4
+Union,Prec 05 - Rural La Grande,President,,PAC,Jill Stein,6
+Union,Prec 06 - City of Cove,President,,PAC,Jill Stein,3
+Union,Prec 07 - Rural Cove,President,,PAC,Jill Stein,2
+Union,Prec 08 - City of Elgin,President,,PAC,Jill Stein,10
+Union,Prec 09 - Rural Elgin,President,,PAC,Jill Stein,5
+Union,Prec 1O - City of Imbler,President,,PAC,Jill Stein,0
+Union,Prec 11 - Rural Imbler/Summerville,President,,PAC,Jill Stein,8
+Union,Prec 12 - City of Summerville,President,,PAC,Jill Stein,0
+Union,Prec 13 - Rural North Powder,President,,PAC,Jill Stein,1
+Union,Prec 14 - City of North Powder,President,,PAC,Jill Stein,3
+Union,Prec 15 - Rural Union,President,,PAC,Jill Stein,0
+Union,Prec 16 - City of Union,President,,PAC,Jill Stein,12
+Union,Prec 17 - Antelope/Big Creek,President,,PAC,Jill Stein,0
+Union,Prec 18 - City of Island City,President,,PAC,Jill Stein,2
+Union,Prec 19 - Rural Island City,President,,PAC,Jill Stein,0
+Union,Prec 01 - City of La Grande,President,,PRO,Ross C Anderson,3
+Union,Prec 02 - City of La Grande,President,,PRO,Ross C Anderson,3
+Union,Prec 03 - City of La Grande,President,,PRO,Ross C Anderson,4
+Union,Prec 04 - Rural La Grande,President,,PRO,Ross C Anderson,0
+Union,Prec 05 - Rural La Grande,President,,PRO,Ross C Anderson,2
+Union,Prec 06 - City of Cove,President,,PRO,Ross C Anderson,1
+Union,Prec 07 - Rural Cove,President,,PRO,Ross C Anderson,0
+Union,Prec 08 - City of Elgin,President,,PRO,Ross C Anderson,0
+Union,Prec 09 - Rural Elgin,President,,PRO,Ross C Anderson,0
+Union,Prec 1O - City of Imbler,President,,PRO,Ross C Anderson,0
+Union,Prec 11 - Rural Imbler/Summerville,President,,PRO,Ross C Anderson,1
+Union,Prec 12 - City of Summerville,President,,PRO,Ross C Anderson,0
+Union,Prec 13 - Rural North Powder,President,,PRO,Ross C Anderson,0
+Union,Prec 14 - City of North Powder,President,,PRO,Ross C Anderson,2
+Union,Prec 15 - Rural Union,President,,PRO,Ross C Anderson,1
+Union,Prec 16 - City of Union,President,,PRO,Ross C Anderson,2
+Union,Prec 17 - Antelope/Big Creek,President,,PRO,Ross C Anderson,0
+Union,Prec 18 - City of Island City,President,,PRO,Ross C Anderson,0
+Union,Prec 19 - Rural Island City,President,,PRO,Ross C Anderson,1
+Union,Prec 01 - City of La Grande,President,,LBT,Gary Johnson,33
+Union,Prec 02 - City of La Grande,President,,LBT,Gary Johnson,29
+Union,Prec 03 - City of La Grande,President,,LBT,Gary Johnson,24
+Union,Prec 04 - Rural La Grande,President,,LBT,Gary Johnson,6
+Union,Prec 05 - Rural La Grande,President,,LBT,Gary Johnson,11
+Union,Prec 06 - City of Cove,President,,LBT,Gary Johnson,6
+Union,Prec 07 - Rural Cove,President,,LBT,Gary Johnson,5
+Union,Prec 08 - City of Elgin,President,,LBT,Gary Johnson,10
+Union,Prec 09 - Rural Elgin,President,,LBT,Gary Johnson,4
+Union,Prec 1O - City of Imbler,President,,LBT,Gary Johnson,3
+Union,Prec 11 - Rural Imbler/Summerville,President,,LBT,Gary Johnson,8
+Union,Prec 12 - City of Summerville,President,,LBT,Gary Johnson,1
+Union,Prec 13 - Rural North Powder,President,,LBT,Gary Johnson,1
+Union,Prec 14 - City of North Powder,President,,LBT,Gary Johnson,3
+Union,Prec 15 - Rural Union,President,,LBT,Gary Johnson,1
+Union,Prec 16 - City of Union,President,,LBT,Gary Johnson,27
+Union,Prec 17 - Antelope/Big Creek,President,,LBT,Gary Johnson,2
+Union,Prec 18 - City of Island City,President,,LBT,Gary Johnson,7
+Union,Prec 19 - Rural Island City,President,,LBT,Gary Johnson,3
+Union,Prec 01 - City of La Grande,President,,REP,Mitt Romney,945
+Union,Prec 02 - City of La Grande,President,,REP,Mitt Romney,987
+Union,Prec 03 - City of La Grande,President,,REP,Mitt Romney,959
+Union,Prec 04 - Rural La Grande,President,,REP,Mitt Romney,221
+Union,Prec 05 - Rural La Grande,President,,REP,Mitt Romney,677
+Union,Prec 06 - City of Cove,President,,REP,Mitt Romney,214
+Union,Prec 07 - Rural Cove,President,,REP,Mitt Romney,354
+Union,Prec 08 - City of Elgin,President,,REP,Mitt Romney,481
+Union,Prec 09 - Rural Elgin,President,,REP,Mitt Romney,415
+Union,Prec 1O - City of Imbler,President,,REP,Mitt Romney,139
+Union,Prec 11 - Rural Imbler/Summerville,President,,REP,Mitt Romney,483
+Union,Prec 12 - City of Summerville,President,,REP,Mitt Romney,47
+Union,Prec 13 - Rural North Powder,President,,REP,Mitt Romney,82
+Union,Prec 14 - City of North Powder,President,,REP,Mitt Romney,119
+Union,Prec 15 - Rural Union,President,,REP,Mitt Romney,196
+Union,Prec 16 - City of Union,President,,REP,Mitt Romney,659
+Union,Prec 17 - Antelope/Big Creek,President,,REP,Mitt Romney,33
+Union,Prec 18 - City of Island City,President,,REP,Mitt Romney,398
+Union,Prec 19 - Rural Island City,President,,REP,Mitt Romney,227
+Union,Prec 01 - City of La Grande,President,,CON,Will Christensen,11
+Union,Prec 02 - City of La Grande,President,,CON,Will Christensen,3
+Union,Prec 03 - City of La Grande,President,,CON,Will Christensen,10
+Union,Prec 04 - Rural La Grande,President,,CON,Will Christensen,2
+Union,Prec 05 - Rural La Grande,President,,CON,Will Christensen,3
+Union,Prec 06 - City of Cove,President,,CON,Will Christensen,0
+Union,Prec 07 - Rural Cove,President,,CON,Will Christensen,0
+Union,Prec 08 - City of Elgin,President,,CON,Will Christensen,5
+Union,Prec 09 - Rural Elgin,President,,CON,Will Christensen,2
+Union,Prec 1O - City of Imbler,President,,CON,Will Christensen,1
+Union,Prec 11 - Rural Imbler/Summerville,President,,CON,Will Christensen,2
+Union,Prec 12 - City of Summerville,President,,CON,Will Christensen,1
+Union,Prec 13 - Rural North Powder,President,,CON,Will Christensen,0
+Union,Prec 14 - City of North Powder,President,,CON,Will Christensen,0
+Union,Prec 15 - Rural Union,President,,CON,Will Christensen,0
+Union,Prec 16 - City of Union,President,,CON,Will Christensen,4
+Union,Prec 17 - Antelope/Big Creek,President,,CON,Will Christensen,0
+Union,Prec 18 - City of Island City,President,,CON,Will Christensen,4
+Union,Prec 19 - Rural Island City,President,,CON,Will Christensen,2
+Union,Prec 01 - City of La Grande,President,,,Write-ins,25
+Union,Prec 02 - City of La Grande,President,,,Write-ins,8
+Union,Prec 03 - City of La Grande,President,,,Write-ins,20
+Union,Prec 04 - Rural La Grande,President,,,Write-ins,0
+Union,Prec 05 - Rural La Grande,President,,,Write-ins,6
+Union,Prec 06 - City of Cove,President,,,Write-ins,2
+Union,Prec 07 - Rural Cove,President,,,Write-ins,3
+Union,Prec 08 - City of Elgin,President,,,Write-ins,1
+Union,Prec 09 - Rural Elgin,President,,,Write-ins,1
+Union,Prec 1O - City of Imbler,President,,,Write-ins,1
+Union,Prec 11 - Rural Imbler/Summerville,President,,,Write-ins,4
+Union,Prec 12 - City of Summerville,President,,,Write-ins,0
+Union,Prec 13 - Rural North Powder,President,,,Write-ins,0
+Union,Prec 14 - City of North Powder,President,,,Write-ins,2
+Union,Prec 15 - Rural Union,President,,,Write-ins,2
+Union,Prec 16 - City of Union,President,,,Write-ins,21
+Union,Prec 17 - Antelope/Big Creek,President,,,Write-ins,1
+Union,Prec 18 - City of Island City,President,,,Write-ins,2
+Union,Prec 19 - Rural Island City,President,,,Write-ins,3
+Union,Prec 01 - City of La Grande,President,,,Over Votes,2
+Union,Prec 02 - City of La Grande,President,,,Over Votes,5
+Union,Prec 03 - City of La Grande,President,,,Over Votes,2
+Union,Prec 04 - Rural La Grande,President,,,Over Votes,0
+Union,Prec 05 - Rural La Grande,President,,,Over Votes,2
+Union,Prec 06 - City of Cove,President,,,Over Votes,1
+Union,Prec 07 - Rural Cove,President,,,Over Votes,1
+Union,Prec 08 - City of Elgin,President,,,Over Votes,3
+Union,Prec 09 - Rural Elgin,President,,,Over Votes,2
+Union,Prec 1O - City of Imbler,President,,,Over Votes,2
+Union,Prec 11 - Rural Imbler/Summerville,President,,,Over Votes,1
+Union,Prec 12 - City of Summerville,President,,,Over Votes,0
+Union,Prec 13 - Rural North Powder,President,,,Over Votes,0
+Union,Prec 14 - City of North Powder,President,,,Over Votes,0
+Union,Prec 15 - Rural Union,President,,,Over Votes,0
+Union,Prec 16 - City of Union,President,,,Over Votes,0
+Union,Prec 17 - Antelope/Big Creek,President,,,Over Votes,0
+Union,Prec 18 - City of Island City,President,,,Over Votes,1
+Union,Prec 19 - Rural Island City,President,,,Over Votes,0
+Union,Prec 01 - City of La Grande,President,,,Under Votes,13
+Union,Prec 02 - City of La Grande,President,,,Under Votes,22
+Union,Prec 03 - City of La Grande,President,,,Under Votes,17
+Union,Prec 04 - Rural La Grande,President,,,Under Votes,1
+Union,Prec 05 - Rural La Grande,President,,,Under Votes,16
+Union,Prec 06 - City of Cove,President,,,Under Votes,5
+Union,Prec 07 - Rural Cove,President,,,Under Votes,3
+Union,Prec 08 - City of Elgin,President,,,Under Votes,5
+Union,Prec 09 - Rural Elgin,President,,,Under Votes,0
+Union,Prec 1O - City of Imbler,President,,,Under Votes,2
+Union,Prec 11 - Rural Imbler/Summerville,President,,,Under Votes,8
+Union,Prec 12 - City of Summerville,President,,,Under Votes,3
+Union,Prec 13 - Rural North Powder,President,,,Under Votes,2
+Union,Prec 14 - City of North Powder,President,,,Under Votes,4
+Union,Prec 15 - Rural Union,President,,,Under Votes,1
+Union,Prec 16 - City of Union,President,,,Under Votes,7
+Union,Prec 17 - Antelope/Big Creek,President,,,Under Votes,0
+Union,Prec 18 - City of Island City,President,,,Under Votes,5
+Union,Prec 19 - Rural Island City,President,,,Under Votes,3
+Union,Prec 01 - City of La Grande,U.S. House,2,DEM,Joyce B Segers,674
+Union,Prec 02 - City of La Grande,U.S. House,2,DEM,Joyce B Segers,386
+Union,Prec 03 - City of La Grande,U.S. House,2,DEM,Joyce B Segers,387
+Union,Prec 04 - Rural La Grande,U.S. House,2,DEM,Joyce B Segers,67
+Union,Prec 05 - Rural La Grande,U.S. House,2,DEM,Joyce B Segers,191
+Union,Prec 06 - City of Cove,U.S. House,2,DEM,Joyce B Segers,64
+Union,Prec 07 - Rural Cove,U.S. House,2,DEM,Joyce B Segers,102
+Union,Prec 08 - City of Elgin,U.S. House,2,DEM,Joyce B Segers,105
+Union,Prec 09 - Rural Elgin,U.S. House,2,DEM,Joyce B Segers,55
+Union,Prec 1O - City of Imbler,U.S. House,2,DEM,Joyce B Segers,19
+Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,DEM,Joyce B Segers,83
+Union,Prec 12 - City of Summerville,U.S. House,2,DEM,Joyce B Segers,5
+Union,Prec 13 - Rural North Powder,U.S. House,2,DEM,Joyce B Segers,7
+Union,Prec 14 - City of North Powder,U.S. House,2,DEM,Joyce B Segers,53
+Union,Prec 15 - Rural Union,U.S. House,2,DEM,Joyce B Segers,34
+Union,Prec 16 - City of Union,U.S. House,2,DEM,Joyce B Segers,201
+Union,Prec 17 - Antelope/Big Creek,U.S. House,2,DEM,Joyce B Segers,7
+Union,Prec 18 - City of Island City,U.S. House,2,DEM,Joyce B Segers,92
+Union,Prec 19 - Rural Island City,U.S. House,2,DEM,Joyce B Segers,27
+Union,Prec 01 - City of La Grande,U.S. House,2,REP,Greg Walden,1234
+Union,Prec 02 - City of La Grande,U.S. House,2,REP,Greg Walden,1162
+Union,Prec 03 - City of La Grande,U.S. House,2,REP,Greg Walden,1119
+Union,Prec 04 - Rural La Grande,U.S. House,2,REP,Greg Walden,248
+Union,Prec 05 - Rural La Grande,U.S. House,2,REP,Greg Walden,750
+Union,Prec 06 - City of Cove,U.S. House,2,REP,Greg Walden,254
+Union,Prec 07 - Rural Cove,U.S. House,2,REP,Greg Walden,402
+Union,Prec 08 - City of Elgin,U.S. House,2,REP,Greg Walden,532
+Union,Prec 09 - Rural Elgin,U.S. House,2,REP,Greg Walden,458
+Union,Prec 1O - City of Imbler,U.S. House,2,REP,Greg Walden,169
+Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,REP,Greg Walden,528
+Union,Prec 12 - City of Summerville,U.S. House,2,REP,Greg Walden,52
+Union,Prec 13 - Rural North Powder,U.S. House,2,REP,Greg Walden,95
+Union,Prec 14 - City of North Powder,U.S. House,2,REP,Greg Walden,135
+Union,Prec 15 - Rural Union,U.S. House,2,REP,Greg Walden,216
+Union,Prec 16 - City of Union,U.S. House,2,REP,Greg Walden,779
+Union,Prec 17 - Antelope/Big Creek,U.S. House,2,REP,Greg Walden,35
+Union,Prec 18 - City of Island City,U.S. House,2,REP,Greg Walden,455
+Union,Prec 19 - Rural Island City,U.S. House,2,REP,Greg Walden,250
+Union,Prec 01 - City of La Grande,U.S. House,2,LBT,Joe Tabor,40
+Union,Prec 02 - City of La Grande,U.S. House,2,LBT,Joe Tabor,40
+Union,Prec 03 - City of La Grande,U.S. House,2,LBT,Joe Tabor,25
+Union,Prec 04 - Rural La Grande,U.S. House,2,LBT,Joe Tabor,9
+Union,Prec 05 - Rural La Grande,U.S. House,2,LBT,Joe Tabor,14
+Union,Prec 06 - City of Cove,U.S. House,2,LBT,Joe Tabor,4
+Union,Prec 07 - Rural Cove,U.S. House,2,LBT,Joe Tabor,6
+Union,Prec 08 - City of Elgin,U.S. House,2,LBT,Joe Tabor,18
+Union,Prec 09 - Rural Elgin,U.S. House,2,LBT,Joe Tabor,4
+Union,Prec 1O - City of Imbler,U.S. House,2,LBT,Joe Tabor,2
+Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,LBT,Joe Tabor,9
+Union,Prec 12 - City of Summerville,U.S. House,2,LBT,Joe Tabor,0
+Union,Prec 13 - Rural North Powder,U.S. House,2,LBT,Joe Tabor,0
+Union,Prec 14 - City of North Powder,U.S. House,2,LBT,Joe Tabor,4
+Union,Prec 15 - Rural Union,U.S. House,2,LBT,Joe Tabor,1
+Union,Prec 16 - City of Union,U.S. House,2,LBT,Joe Tabor,27
+Union,Prec 17 - Antelope/Big Creek,U.S. House,2,LBT,Joe Tabor,1
+Union,Prec 18 - City of Island City,U.S. House,2,LBT,Joe Tabor,4
+Union,Prec 19 - Rural Island City,U.S. House,2,LBT,Joe Tabor,5
+Union,Prec 01 - City of La Grande,U.S. House,2,,Write-ins,3
+Union,Prec 02 - City of La Grande,U.S. House,2,,Write-ins,7
+Union,Prec 03 - City of La Grande,U.S. House,2,,Write-ins,2
+Union,Prec 04 - Rural La Grande,U.S. House,2,,Write-ins,1
+Union,Prec 05 - Rural La Grande,U.S. House,2,,Write-ins,0
+Union,Prec 06 - City of Cove,U.S. House,2,,Write-ins,0
+Union,Prec 07 - Rural Cove,U.S. House,2,,Write-ins,0
+Union,Prec 08 - City of Elgin,U.S. House,2,,Write-ins,3
+Union,Prec 09 - Rural Elgin,U.S. House,2,,Write-ins,0
+Union,Prec 1O - City of Imbler,U.S. House,2,,Write-ins,0
+Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,,Write-ins,3
+Union,Prec 12 - City of Summerville,U.S. House,2,,Write-ins,0
+Union,Prec 13 - Rural North Powder,U.S. House,2,,Write-ins,0
+Union,Prec 14 - City of North Powder,U.S. House,2,,Write-ins,0
+Union,Prec 15 - Rural Union,U.S. House,2,,Write-ins,0
+Union,Prec 16 - City of Union,U.S. House,2,,Write-ins,2
+Union,Prec 17 - Antelope/Big Creek,U.S. House,2,,Write-ins,0
+Union,Prec 18 - City of Island City,U.S. House,2,,Write-ins,1
+Union,Prec 19 - Rural Island City,U.S. House,2,,Write-ins,0
+Union,Prec 01 - City of La Grande,U.S. House,2,,Over Votes,1
+Union,Prec 02 - City of La Grande,U.S. House,2,,Over Votes,1
+Union,Prec 03 - City of La Grande,U.S. House,2,,Over Votes,1
+Union,Prec 04 - Rural La Grande,U.S. House,2,,Over Votes,0
+Union,Prec 05 - Rural La Grande,U.S. House,2,,Over Votes,0
+Union,Prec 06 - City of Cove,U.S. House,2,,Over Votes,0
+Union,Prec 07 - Rural Cove,U.S. House,2,,Over Votes,0
+Union,Prec 08 - City of Elgin,U.S. House,2,,Over Votes,0
+Union,Prec 09 - Rural Elgin,U.S. House,2,,Over Votes,0
+Union,Prec 1O - City of Imbler,U.S. House,2,,Over Votes,1
+Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,,Over Votes,0
+Union,Prec 12 - City of Summerville,U.S. House,2,,Over Votes,0
+Union,Prec 13 - Rural North Powder,U.S. House,2,,Over Votes,0
+Union,Prec 14 - City of North Powder,U.S. House,2,,Over Votes,0
+Union,Prec 15 - Rural Union,U.S. House,2,,Over Votes,0
+Union,Prec 16 - City of Union,U.S. House,2,,Over Votes,0
+Union,Prec 17 - Antelope/Big Creek,U.S. House,2,,Over Votes,0
+Union,Prec 18 - City of Island City,U.S. House,2,,Over Votes,0
+Union,Prec 19 - Rural Island City,U.S. House,2,,Over Votes,0
+Union,Prec 01 - City of La Grande,U.S. House,2,,Under Votes,100
+Union,Prec 02 - City of La Grande,U.S. House,2,,Under Votes,107
+Union,Prec 03 - City of La Grande,U.S. House,2,,Under Votes,97
+Union,Prec 04 - Rural La Grande,U.S. House,2,,Under Votes,19
+Union,Prec 05 - Rural La Grande,U.S. House,2,,Under Votes,46
+Union,Prec 06 - City of Cove,U.S. House,2,,Under Votes,12
+Union,Prec 07 - Rural Cove,U.S. House,2,,Under Votes,16
+Union,Prec 08 - City of Elgin,U.S. House,2,,Under Votes,26
+Union,Prec 09 - Rural Elgin,U.S. House,2,,Under Votes,11
+Union,Prec 1O - City of Imbler,U.S. House,2,,Under Votes,6
+Union,Prec 11 - Rural Imbler/Summerville,U.S. House,2,,Under Votes,18
+Union,Prec 12 - City of Summerville,U.S. House,2,,Under Votes,4
+Union,Prec 13 - Rural North Powder,U.S. House,2,,Under Votes,1
+Union,Prec 14 - City of North Powder,U.S. House,2,,Under Votes,9
+Union,Prec 15 - Rural Union,U.S. House,2,,Under Votes,7
+Union,Prec 16 - City of Union,U.S. House,2,,Under Votes,47
+Union,Prec 17 - Antelope/Big Creek,U.S. House,2,,Under Votes,0
+Union,Prec 18 - City of Island City,U.S. House,2,,Under Votes,17
+Union,Prec 19 - Rural Island City,U.S. House,2,,Under Votes,5
+Union,Prec 01 - City of La Grande,Secretary of State,,PAC,Seth Woolley,36
+Union,Prec 02 - City of La Grande,Secretary of State,,PAC,Seth Woolley,29
+Union,Prec 03 - City of La Grande,Secretary of State,,PAC,Seth Woolley,37
+Union,Prec 04 - Rural La Grande,Secretary of State,,PAC,Seth Woolley,2
+Union,Prec 05 - Rural La Grande,Secretary of State,,PAC,Seth Woolley,14
+Union,Prec 06 - City of Cove,Secretary of State,,PAC,Seth Woolley,5
+Union,Prec 07 - Rural Cove,Secretary of State,,PAC,Seth Woolley,7
+Union,Prec 08 - City of Elgin,Secretary of State,,PAC,Seth Woolley,9
+Union,Prec 09 - Rural Elgin,Secretary of State,,PAC,Seth Woolley,4
+Union,Prec 1O - City of Imbler,Secretary of State,,PAC,Seth Woolley,4
+Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,PAC,Seth Woolley,5
+Union,Prec 12 - City of Summerville,Secretary of State,,PAC,Seth Woolley,1
+Union,Prec 13 - Rural North Powder,Secretary of State,,PAC,Seth Woolley,0
+Union,Prec 14 - City of North Powder,Secretary of State,,PAC,Seth Woolley,2
+Union,Prec 15 - Rural Union,Secretary of State,,PAC,Seth Woolley,2
+Union,Prec 16 - City of Union,Secretary of State,,PAC,Seth Woolley,17
+Union,Prec 17 - Antelope/Big Creek,Secretary of State,,PAC,Seth Woolley,1
+Union,Prec 18 - City of Island City,Secretary of State,,PAC,Seth Woolley,9
+Union,Prec 19 - Rural Island City,Secretary of State,,PAC,Seth Woolley,1
+Union,Prec 01 - City of La Grande,Secretary of State,,PRO,Robert Wolfe,18
+Union,Prec 02 - City of La Grande,Secretary of State,,PRO,Robert Wolfe,19
+Union,Prec 03 - City of La Grande,Secretary of State,,PRO,Robert Wolfe,16
+Union,Prec 04 - Rural La Grande,Secretary of State,,PRO,Robert Wolfe,3
+Union,Prec 05 - Rural La Grande,Secretary of State,,PRO,Robert Wolfe,8
+Union,Prec 06 - City of Cove,Secretary of State,,PRO,Robert Wolfe,5
+Union,Prec 07 - Rural Cove,Secretary of State,,PRO,Robert Wolfe,0
+Union,Prec 08 - City of Elgin,Secretary of State,,PRO,Robert Wolfe,7
+Union,Prec 09 - Rural Elgin,Secretary of State,,PRO,Robert Wolfe,3
+Union,Prec 1O - City of Imbler,Secretary of State,,PRO,Robert Wolfe,1
+Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,PRO,Robert Wolfe,6
+Union,Prec 12 - City of Summerville,Secretary of State,,PRO,Robert Wolfe,1
+Union,Prec 13 - Rural North Powder,Secretary of State,,PRO,Robert Wolfe,1
+Union,Prec 14 - City of North Powder,Secretary of State,,PRO,Robert Wolfe,2
+Union,Prec 15 - Rural Union,Secretary of State,,PRO,Robert Wolfe,2
+Union,Prec 16 - City of Union,Secretary of State,,PRO,Robert Wolfe,9
+Union,Prec 17 - Antelope/Big Creek,Secretary of State,,PRO,Robert Wolfe,3
+Union,Prec 18 - City of Island City,Secretary of State,,PRO,Robert Wolfe,1
+Union,Prec 19 - Rural Island City,Secretary of State,,PRO,Robert Wolfe,1
+Union,Prec 01 - City of La Grande,Secretary of State,,LBT,Bruce Alexander Knight,36
+Union,Prec 02 - City of La Grande,Secretary of State,,LBT,Bruce Alexander Knight,36
+Union,Prec 03 - City of La Grande,Secretary of State,,LBT,Bruce Alexander Knight,18
+Union,Prec 04 - Rural La Grande,Secretary of State,,LBT,Bruce Alexander Knight,10
+Union,Prec 05 - Rural La Grande,Secretary of State,,LBT,Bruce Alexander Knight,10
+Union,Prec 06 - City of Cove,Secretary of State,,LBT,Bruce Alexander Knight,4
+Union,Prec 07 - Rural Cove,Secretary of State,,LBT,Bruce Alexander Knight,11
+Union,Prec 08 - City of Elgin,Secretary of State,,LBT,Bruce Alexander Knight,14
+Union,Prec 09 - Rural Elgin,Secretary of State,,LBT,Bruce Alexander Knight,9
+Union,Prec 1O - City of Imbler,Secretary of State,,LBT,Bruce Alexander Knight,1
+Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,LBT,Bruce Alexander Knight,6
+Union,Prec 12 - City of Summerville,Secretary of State,,LBT,Bruce Alexander Knight,1
+Union,Prec 13 - Rural North Powder,Secretary of State,,LBT,Bruce Alexander Knight,1
+Union,Prec 14 - City of North Powder,Secretary of State,,LBT,Bruce Alexander Knight,4
+Union,Prec 15 - Rural Union,Secretary of State,,LBT,Bruce Alexander Knight,1
+Union,Prec 16 - City of Union,Secretary of State,,LBT,Bruce Alexander Knight,16
+Union,Prec 17 - Antelope/Big Creek,Secretary of State,,LBT,Bruce Alexander Knight,1
+Union,Prec 18 - City of Island City,Secretary of State,,LBT,Bruce Alexander Knight,4
+Union,Prec 19 - Rural Island City,Secretary of State,,LBT,Bruce Alexander Knight,6
+Union,Prec 01 - City of La Grande,Secretary of State,,DEM,Kate Brown,922
+Union,Prec 02 - City of La Grande,Secretary of State,,DEM,Kate Brown,586
+Union,Prec 03 - City of La Grande,Secretary of State,,DEM,Kate Brown,623
+Union,Prec 04 - Rural La Grande,Secretary of State,,DEM,Kate Brown,101
+Union,Prec 05 - Rural La Grande,Secretary of State,,DEM,Kate Brown,320
+Union,Prec 06 - City of Cove,Secretary of State,,DEM,Kate Brown,95
+Union,Prec 07 - Rural Cove,Secretary of State,,DEM,Kate Brown,149
+Union,Prec 08 - City of Elgin,Secretary of State,,DEM,Kate Brown,194
+Union,Prec 09 - Rural Elgin,Secretary of State,,DEM,Kate Brown,111
+Union,Prec 1O - City of Imbler,Secretary of State,,DEM,Kate Brown,41
+Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,DEM,Kate Brown,138
+Union,Prec 12 - City of Summerville,Secretary of State,,DEM,Kate Brown,12
+Union,Prec 13 - Rural North Powder,Secretary of State,,DEM,Kate Brown,15
+Union,Prec 14 - City of North Powder,Secretary of State,,DEM,Kate Brown,77
+Union,Prec 15 - Rural Union,Secretary of State,,DEM,Kate Brown,65
+Union,Prec 16 - City of Union,Secretary of State,,DEM,Kate Brown,351
+Union,Prec 17 - Antelope/Big Creek,Secretary of State,,DEM,Kate Brown,14
+Union,Prec 18 - City of Island City,Secretary of State,,DEM,Kate Brown,157
+Union,Prec 19 - Rural Island City,Secretary of State,,DEM,Kate Brown,58
+Union,Prec 01 - City of La Grande,Secretary of State,,REP,Knute Buehler,901
+Union,Prec 02 - City of La Grande,Secretary of State,,REP,Knute Buehler,886
+Union,Prec 03 - City of La Grande,Secretary of State,,REP,Knute Buehler,836
+Union,Prec 04 - Rural La Grande,Secretary of State,,REP,Knute Buehler,200
+Union,Prec 05 - Rural La Grande,Secretary of State,,REP,Knute Buehler,598
+Union,Prec 06 - City of Cove,Secretary of State,,REP,Knute Buehler,206
+Union,Prec 07 - Rural Cove,Secretary of State,,REP,Knute Buehler,339
+Union,Prec 08 - City of Elgin,Secretary of State,,REP,Knute Buehler,409
+Union,Prec 09 - Rural Elgin,Secretary of State,,REP,Knute Buehler,386
+Union,Prec 1O - City of Imbler,Secretary of State,,REP,Knute Buehler,128
+Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,REP,Knute Buehler,457
+Union,Prec 12 - City of Summerville,Secretary of State,,REP,Knute Buehler,37
+Union,Prec 13 - Rural North Powder,Secretary of State,,REP,Knute Buehler,79
+Union,Prec 14 - City of North Powder,Secretary of State,,REP,Knute Buehler,99
+Union,Prec 15 - Rural Union,Secretary of State,,REP,Knute Buehler,170
+Union,Prec 16 - City of Union,Secretary of State,,REP,Knute Buehler,590
+Union,Prec 17 - Antelope/Big Creek,Secretary of State,,REP,Knute Buehler,24
+Union,Prec 18 - City of Island City,Secretary of State,,REP,Knute Buehler,370
+Union,Prec 19 - Rural Island City,Secretary of State,,REP,Knute Buehler,210
+Union,Prec 01 - City of La Grande,Secretary of State,,,Write-ins,2
+Union,Prec 02 - City of La Grande,Secretary of State,,,Write-ins,2
+Union,Prec 03 - City of La Grande,Secretary of State,,,Write-ins,2
+Union,Prec 04 - Rural La Grande,Secretary of State,,,Write-ins,0
+Union,Prec 05 - Rural La Grande,Secretary of State,,,Write-ins,1
+Union,Prec 06 - City of Cove,Secretary of State,,,Write-ins,0
+Union,Prec 07 - Rural Cove,Secretary of State,,,Write-ins,0
+Union,Prec 08 - City of Elgin,Secretary of State,,,Write-ins,2
+Union,Prec 09 - Rural Elgin,Secretary of State,,,Write-ins,0
+Union,Prec 1O - City of Imbler,Secretary of State,,,Write-ins,0
+Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,,Write-ins,5
+Union,Prec 12 - City of Summerville,Secretary of State,,,Write-ins,0
+Union,Prec 13 - Rural North Powder,Secretary of State,,,Write-ins,0
+Union,Prec 14 - City of North Powder,Secretary of State,,,Write-ins,2
+Union,Prec 15 - Rural Union,Secretary of State,,,Write-ins,0
+Union,Prec 16 - City of Union,Secretary of State,,,Write-ins,3
+Union,Prec 17 - Antelope/Big Creek,Secretary of State,,,Write-ins,0
+Union,Prec 18 - City of Island City,Secretary of State,,,Write-ins,1
+Union,Prec 19 - Rural Island City,Secretary of State,,,Write-ins,0
+Union,Prec 01 - City of La Grande,Secretary of State,,,Over Votes,1
+Union,Prec 02 - City of La Grande,Secretary of State,,,Over Votes,3
+Union,Prec 03 - City of La Grande,Secretary of State,,,Over Votes,0
+Union,Prec 04 - Rural La Grande,Secretary of State,,,Over Votes,0
+Union,Prec 05 - Rural La Grande,Secretary of State,,,Over Votes,1
+Union,Prec 06 - City of Cove,Secretary of State,,,Over Votes,0
+Union,Prec 07 - Rural Cove,Secretary of State,,,Over Votes,0
+Union,Prec 08 - City of Elgin,Secretary of State,,,Over Votes,2
+Union,Prec 09 - Rural Elgin,Secretary of State,,,Over Votes,0
+Union,Prec 1O - City of Imbler,Secretary of State,,,Over Votes,0
+Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,,Over Votes,0
+Union,Prec 12 - City of Summerville,Secretary of State,,,Over Votes,0
+Union,Prec 13 - Rural North Powder,Secretary of State,,,Over Votes,0
+Union,Prec 14 - City of North Powder,Secretary of State,,,Over Votes,1
+Union,Prec 15 - Rural Union,Secretary of State,,,Over Votes,0
+Union,Prec 16 - City of Union,Secretary of State,,,Over Votes,0
+Union,Prec 17 - Antelope/Big Creek,Secretary of State,,,Over Votes,0
+Union,Prec 18 - City of Island City,Secretary of State,,,Over Votes,0
+Union,Prec 19 - Rural Island City,Secretary of State,,,Over Votes,0
+Union,Prec 01 - City of La Grande,Secretary of State,,,Under Votes,136
+Union,Prec 02 - City of La Grande,Secretary of State,,,Under Votes,142
+Union,Prec 03 - City of La Grande,Secretary of State,,,Under Votes,99
+Union,Prec 04 - Rural La Grande,Secretary of State,,,Under Votes,28
+Union,Prec 05 - Rural La Grande,Secretary of State,,,Under Votes,49
+Union,Prec 06 - City of Cove,Secretary of State,,,Under Votes,19
+Union,Prec 07 - Rural Cove,Secretary of State,,,Under Votes,20
+Union,Prec 08 - City of Elgin,Secretary of State,,,Under Votes,47
+Union,Prec 09 - Rural Elgin,Secretary of State,,,Under Votes,15
+Union,Prec 1O - City of Imbler,Secretary of State,,,Under Votes,12
+Union,Prec 11 - Rural Imbler/Summerville,Secretary of State,,,Under Votes,24
+Union,Prec 12 - City of Summerville,Secretary of State,,,Under Votes,9
+Union,Prec 13 - Rural North Powder,Secretary of State,,,Under Votes,7
+Union,Prec 14 - City of North Powder,Secretary of State,,,Under Votes,14
+Union,Prec 15 - Rural Union,Secretary of State,,,Under Votes,18
+Union,Prec 16 - City of Union,Secretary of State,,,Under Votes,70
+Union,Prec 17 - Antelope/Big Creek,Secretary of State,,,Under Votes,0
+Union,Prec 18 - City of Island City,Secretary of State,,,Under Votes,27
+Union,Prec 19 - Rural Island City,Secretary of State,,,Under Votes,11
+Union,Prec 01 - City of La Grande,State Treasurer,,DEM,Ted Wheeler,988
+Union,Prec 02 - City of La Grande,State Treasurer,,DEM,Ted Wheeler,604
+Union,Prec 03 - City of La Grande,State Treasurer,,DEM,Ted Wheeler,613
+Union,Prec 04 - Rural La Grande,State Treasurer,,DEM,Ted Wheeler,125
+Union,Prec 05 - Rural La Grande,State Treasurer,,DEM,Ted Wheeler,341
+Union,Prec 06 - City of Cove,State Treasurer,,DEM,Ted Wheeler,110
+Union,Prec 07 - Rural Cove,State Treasurer,,DEM,Ted Wheeler,163
+Union,Prec 08 - City of Elgin,State Treasurer,,DEM,Ted Wheeler,211
+Union,Prec 09 - Rural Elgin,State Treasurer,,DEM,Ted Wheeler,127
+Union,Prec 1O - City of Imbler,State Treasurer,,DEM,Ted Wheeler,43
+Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,DEM,Ted Wheeler,169
+Union,Prec 12 - City of Summerville,State Treasurer,,DEM,Ted Wheeler,15
+Union,Prec 13 - Rural North Powder,State Treasurer,,DEM,Ted Wheeler,18
+Union,Prec 14 - City of North Powder,State Treasurer,,DEM,Ted Wheeler,80
+Union,Prec 15 - Rural Union,State Treasurer,,DEM,Ted Wheeler,69
+Union,Prec 16 - City of Union,State Treasurer,,DEM,Ted Wheeler,365
+Union,Prec 17 - Antelope/Big Creek,State Treasurer,,DEM,Ted Wheeler,12
+Union,Prec 18 - City of Island City,State Treasurer,,DEM,Ted Wheeler,174
+Union,Prec 19 - Rural Island City,State Treasurer,,DEM,Ted Wheeler,70
+Union,Prec 01 - City of La Grande,State Treasurer,,PRO,Cameron Whitten,45
+Union,Prec 02 - City of La Grande,State Treasurer,,PRO,Cameron Whitten,33
+Union,Prec 03 - City of La Grande,State Treasurer,,PRO,Cameron Whitten,41
+Union,Prec 04 - Rural La Grande,State Treasurer,,PRO,Cameron Whitten,6
+Union,Prec 05 - Rural La Grande,State Treasurer,,PRO,Cameron Whitten,15
+Union,Prec 06 - City of Cove,State Treasurer,,PRO,Cameron Whitten,8
+Union,Prec 07 - Rural Cove,State Treasurer,,PRO,Cameron Whitten,11
+Union,Prec 08 - City of Elgin,State Treasurer,,PRO,Cameron Whitten,10
+Union,Prec 09 - Rural Elgin,State Treasurer,,PRO,Cameron Whitten,8
+Union,Prec 1O - City of Imbler,State Treasurer,,PRO,Cameron Whitten,3
+Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,PRO,Cameron Whitten,17
+Union,Prec 12 - City of Summerville,State Treasurer,,PRO,Cameron Whitten,0
+Union,Prec 13 - Rural North Powder,State Treasurer,,PRO,Cameron Whitten,2
+Union,Prec 14 - City of North Powder,State Treasurer,,PRO,Cameron Whitten,2
+Union,Prec 15 - Rural Union,State Treasurer,,PRO,Cameron Whitten,1
+Union,Prec 16 - City of Union,State Treasurer,,PRO,Cameron Whitten,23
+Union,Prec 17 - Antelope/Big Creek,State Treasurer,,PRO,Cameron Whitten,1
+Union,Prec 18 - City of Island City,State Treasurer,,PRO,Cameron Whitten,6
+Union,Prec 19 - Rural Island City,State Treasurer,,PRO,Cameron Whitten,6
+Union,Prec 01 - City of La Grande,State Treasurer,,LBT,John F Mahler,37
+Union,Prec 02 - City of La Grande,State Treasurer,,LBT,John F Mahler,34
+Union,Prec 03 - City of La Grande,State Treasurer,,LBT,John F Mahler,31
+Union,Prec 04 - Rural La Grande,State Treasurer,,LBT,John F Mahler,10
+Union,Prec 05 - Rural La Grande,State Treasurer,,LBT,John F Mahler,10
+Union,Prec 06 - City of Cove,State Treasurer,,LBT,John F Mahler,5
+Union,Prec 07 - Rural Cove,State Treasurer,,LBT,John F Mahler,10
+Union,Prec 08 - City of Elgin,State Treasurer,,LBT,John F Mahler,18
+Union,Prec 09 - Rural Elgin,State Treasurer,,LBT,John F Mahler,7
+Union,Prec 1O - City of Imbler,State Treasurer,,LBT,John F Mahler,2
+Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,LBT,John F Mahler,6
+Union,Prec 12 - City of Summerville,State Treasurer,,LBT,John F Mahler,1
+Union,Prec 13 - Rural North Powder,State Treasurer,,LBT,John F Mahler,1
+Union,Prec 14 - City of North Powder,State Treasurer,,LBT,John F Mahler,6
+Union,Prec 15 - Rural Union,State Treasurer,,LBT,John F Mahler,1
+Union,Prec 16 - City of Union,State Treasurer,,LBT,John F Mahler,23
+Union,Prec 17 - Antelope/Big Creek,State Treasurer,,LBT,John F Mahler,1
+Union,Prec 18 - City of Island City,State Treasurer,,LBT,John F Mahler,8
+Union,Prec 19 - Rural Island City,State Treasurer,,LBT,John F Mahler,5
+Union,Prec 01 - City of La Grande,State Treasurer,,CON,Michael Paul Marsh,22
+Union,Prec 02 - City of La Grande,State Treasurer,,CON,Michael Paul Marsh,26
+Union,Prec 03 - City of La Grande,State Treasurer,,CON,Michael Paul Marsh,14
+Union,Prec 04 - Rural La Grande,State Treasurer,,CON,Michael Paul Marsh,1
+Union,Prec 05 - Rural La Grande,State Treasurer,,CON,Michael Paul Marsh,9
+Union,Prec 06 - City of Cove,State Treasurer,,CON,Michael Paul Marsh,1
+Union,Prec 07 - Rural Cove,State Treasurer,,CON,Michael Paul Marsh,4
+Union,Prec 08 - City of Elgin,State Treasurer,,CON,Michael Paul Marsh,7
+Union,Prec 09 - Rural Elgin,State Treasurer,,CON,Michael Paul Marsh,3
+Union,Prec 1O - City of Imbler,State Treasurer,,CON,Michael Paul Marsh,2
+Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,CON,Michael Paul Marsh,6
+Union,Prec 12 - City of Summerville,State Treasurer,,CON,Michael Paul Marsh,0
+Union,Prec 13 - Rural North Powder,State Treasurer,,CON,Michael Paul Marsh,1
+Union,Prec 14 - City of North Powder,State Treasurer,,CON,Michael Paul Marsh,4
+Union,Prec 15 - Rural Union,State Treasurer,,CON,Michael Paul Marsh,1
+Union,Prec 16 - City of Union,State Treasurer,,CON,Michael Paul Marsh,21
+Union,Prec 17 - Antelope/Big Creek,State Treasurer,,CON,Michael Paul Marsh,1
+Union,Prec 18 - City of Island City,State Treasurer,,CON,Michael Paul Marsh,7
+Union,Prec 19 - Rural Island City,State Treasurer,,CON,Michael Paul Marsh,4
+Union,Prec 01 - City of La Grande,State Treasurer,,REP,Tom Cox,780
+Union,Prec 02 - City of La Grande,State Treasurer,,REP,Tom Cox,829
+Union,Prec 03 - City of La Grande,State Treasurer,,REP,Tom Cox,793
+Union,Prec 04 - Rural La Grande,State Treasurer,,REP,Tom Cox,173
+Union,Prec 05 - Rural La Grande,State Treasurer,,REP,Tom Cox,548
+Union,Prec 06 - City of Cove,State Treasurer,,REP,Tom Cox,182
+Union,Prec 07 - Rural Cove,State Treasurer,,REP,Tom Cox,309
+Union,Prec 08 - City of Elgin,State Treasurer,,REP,Tom Cox,376
+Union,Prec 09 - Rural Elgin,State Treasurer,,REP,Tom Cox,357
+Union,Prec 1O - City of Imbler,State Treasurer,,REP,Tom Cox,120
+Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,REP,Tom Cox,404
+Union,Prec 12 - City of Summerville,State Treasurer,,REP,Tom Cox,35
+Union,Prec 13 - Rural North Powder,State Treasurer,,REP,Tom Cox,73
+Union,Prec 14 - City of North Powder,State Treasurer,,REP,Tom Cox,89
+Union,Prec 15 - Rural Union,State Treasurer,,REP,Tom Cox,159
+Union,Prec 16 - City of Union,State Treasurer,,REP,Tom Cox,532
+Union,Prec 17 - Antelope/Big Creek,State Treasurer,,REP,Tom Cox,26
+Union,Prec 18 - City of Island City,State Treasurer,,REP,Tom Cox,336
+Union,Prec 19 - Rural Island City,State Treasurer,,REP,Tom Cox,184
+Union,Prec 01 - City of La Grande,State Treasurer,,,Write-ins,1
+Union,Prec 02 - City of La Grande,State Treasurer,,,Write-ins,3
+Union,Prec 03 - City of La Grande,State Treasurer,,,Write-ins,1
+Union,Prec 04 - Rural La Grande,State Treasurer,,,Write-ins,1
+Union,Prec 05 - Rural La Grande,State Treasurer,,,Write-ins,0
+Union,Prec 06 - City of Cove,State Treasurer,,,Write-ins,0
+Union,Prec 07 - Rural Cove,State Treasurer,,,Write-ins,0
+Union,Prec 08 - City of Elgin,State Treasurer,,,Write-ins,2
+Union,Prec 09 - Rural Elgin,State Treasurer,,,Write-ins,0
+Union,Prec 1O - City of Imbler,State Treasurer,,,Write-ins,0
+Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,,Write-ins,0
+Union,Prec 12 - City of Summerville,State Treasurer,,,Write-ins,0
+Union,Prec 13 - Rural North Powder,State Treasurer,,,Write-ins,0
+Union,Prec 14 - City of North Powder,State Treasurer,,,Write-ins,0
+Union,Prec 15 - Rural Union,State Treasurer,,,Write-ins,0
+Union,Prec 16 - City of Union,State Treasurer,,,Write-ins,2
+Union,Prec 17 - Antelope/Big Creek,State Treasurer,,,Write-ins,1
+Union,Prec 18 - City of Island City,State Treasurer,,,Write-ins,0
+Union,Prec 19 - Rural Island City,State Treasurer,,,Write-ins,0
+Union,Prec 01 - City of La Grande,State Treasurer,,,Over Votes,0
+Union,Prec 02 - City of La Grande,State Treasurer,,,Over Votes,2
+Union,Prec 03 - City of La Grande,State Treasurer,,,Over Votes,0
+Union,Prec 04 - Rural La Grande,State Treasurer,,,Over Votes,0
+Union,Prec 05 - Rural La Grande,State Treasurer,,,Over Votes,0
+Union,Prec 06 - City of Cove,State Treasurer,,,Over Votes,0
+Union,Prec 07 - Rural Cove,State Treasurer,,,Over Votes,0
+Union,Prec 08 - City of Elgin,State Treasurer,,,Over Votes,0
+Union,Prec 09 - Rural Elgin,State Treasurer,,,Over Votes,0
+Union,Prec 1O - City of Imbler,State Treasurer,,,Over Votes,0
+Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,,Over Votes,0
+Union,Prec 12 - City of Summerville,State Treasurer,,,Over Votes,0
+Union,Prec 13 - Rural North Powder,State Treasurer,,,Over Votes,0
+Union,Prec 14 - City of North Powder,State Treasurer,,,Over Votes,0
+Union,Prec 15 - Rural Union,State Treasurer,,,Over Votes,0
+Union,Prec 16 - City of Union,State Treasurer,,,Over Votes,0
+Union,Prec 17 - Antelope/Big Creek,State Treasurer,,,Over Votes,0
+Union,Prec 18 - City of Island City,State Treasurer,,,Over Votes,0
+Union,Prec 19 - Rural Island City,State Treasurer,,,Over Votes,0
+Union,Prec 01 - City of La Grande,State Treasurer,,,Under Votes,179
+Union,Prec 02 - City of La Grande,State Treasurer,,,Under Votes,172
+Union,Prec 03 - City of La Grande,State Treasurer,,,Under Votes,138
+Union,Prec 04 - Rural La Grande,State Treasurer,,,Under Votes,28
+Union,Prec 05 - Rural La Grande,State Treasurer,,,Under Votes,78
+Union,Prec 06 - City of Cove,State Treasurer,,,Under Votes,28
+Union,Prec 07 - Rural Cove,State Treasurer,,,Under Votes,29
+Union,Prec 08 - City of Elgin,State Treasurer,,,Under Votes,60
+Union,Prec 09 - Rural Elgin,State Treasurer,,,Under Votes,26
+Union,Prec 1O - City of Imbler,State Treasurer,,,Under Votes,17
+Union,Prec 11 - Rural Imbler/Summerville,State Treasurer,,,Under Votes,39
+Union,Prec 12 - City of Summerville,State Treasurer,,,Under Votes,10
+Union,Prec 13 - Rural North Powder,State Treasurer,,,Under Votes,8
+Union,Prec 14 - City of North Powder,State Treasurer,,,Under Votes,20
+Union,Prec 15 - Rural Union,State Treasurer,,,Under Votes,27
+Union,Prec 16 - City of Union,State Treasurer,,,Under Votes,90
+Union,Prec 17 - Antelope/Big Creek,State Treasurer,,,Under Votes,1
+Union,Prec 18 - City of Island City,State Treasurer,,,Under Votes,38
+Union,Prec 19 - Rural Island City,State Treasurer,,,Under Votes,18
+Union,Prec 01 - City of La Grande,Attorney General,,PRO,Chris Henry,34
+Union,Prec 02 - City of La Grande,Attorney General,,PRO,Chris Henry,25
+Union,Prec 03 - City of La Grande,Attorney General,,PRO,Chris Henry,26
+Union,Prec 04 - Rural La Grande,Attorney General,,PRO,Chris Henry,3
+Union,Prec 05 - Rural La Grande,Attorney General,,PRO,Chris Henry,15
+Union,Prec 06 - City of Cove,Attorney General,,PRO,Chris Henry,3
+Union,Prec 07 - Rural Cove,Attorney General,,PRO,Chris Henry,3
+Union,Prec 08 - City of Elgin,Attorney General,,PRO,Chris Henry,9
+Union,Prec 09 - Rural Elgin,Attorney General,,PRO,Chris Henry,6
+Union,Prec 1O - City of Imbler,Attorney General,,PRO,Chris Henry,0
+Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,PRO,Chris Henry,9
+Union,Prec 12 - City of Summerville,Attorney General,,PRO,Chris Henry,1
+Union,Prec 13 - Rural North Powder,Attorney General,,PRO,Chris Henry,2
+Union,Prec 14 - City of North Powder,Attorney General,,PRO,Chris Henry,2
+Union,Prec 15 - Rural Union,Attorney General,,PRO,Chris Henry,1
+Union,Prec 16 - City of Union,Attorney General,,PRO,Chris Henry,13
+Union,Prec 17 - Antelope/Big Creek,Attorney General,,PRO,Chris Henry,1
+Union,Prec 18 - City of Island City,Attorney General,,PRO,Chris Henry,6
+Union,Prec 19 - Rural Island City,Attorney General,,PRO,Chris Henry,3
+Union,Prec 01 - City of La Grande,Attorney General,,REP,James L Buchal,812
+Union,Prec 02 - City of La Grande,Attorney General,,REP,James L Buchal,839
+Union,Prec 03 - City of La Grande,Attorney General,,REP,James L Buchal,787
+Union,Prec 04 - Rural La Grande,Attorney General,,REP,James L Buchal,179
+Union,Prec 05 - Rural La Grande,Attorney General,,REP,James L Buchal,566
+Union,Prec 06 - City of Cove,Attorney General,,REP,James L Buchal,185
+Union,Prec 07 - Rural Cove,Attorney General,,REP,James L Buchal,312
+Union,Prec 08 - City of Elgin,Attorney General,,REP,James L Buchal,385
+Union,Prec 09 - Rural Elgin,Attorney General,,REP,James L Buchal,359
+Union,Prec 1O - City of Imbler,Attorney General,,REP,James L Buchal,124
+Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,REP,James L Buchal,424
+Union,Prec 12 - City of Summerville,Attorney General,,REP,James L Buchal,34
+Union,Prec 13 - Rural North Powder,Attorney General,,REP,James L Buchal,75
+Union,Prec 14 - City of North Powder,Attorney General,,REP,James L Buchal,93
+Union,Prec 15 - Rural Union,Attorney General,,REP,James L Buchal,160
+Union,Prec 16 - City of Union,Attorney General,,REP,James L Buchal,547
+Union,Prec 17 - Antelope/Big Creek,Attorney General,,REP,James L Buchal,28
+Union,Prec 18 - City of Island City,Attorney General,,REP,James L Buchal,340
+Union,Prec 19 - Rural Island City,Attorney General,,REP,James L Buchal,187
+Union,Prec 01 - City of La Grande,Attorney General,,CON,James E Leuenberger,53
+Union,Prec 02 - City of La Grande,Attorney General,,CON,James E Leuenberger,66
+Union,Prec 03 - City of La Grande,Attorney General,,CON,James E Leuenberger,45
+Union,Prec 04 - Rural La Grande,Attorney General,,CON,James E Leuenberger,16
+Union,Prec 05 - Rural La Grande,Attorney General,,CON,James E Leuenberger,23
+Union,Prec 06 - City of Cove,Attorney General,,CON,James E Leuenberger,10
+Union,Prec 07 - Rural Cove,Attorney General,,CON,James E Leuenberger,13
+Union,Prec 08 - City of Elgin,Attorney General,,CON,James E Leuenberger,23
+Union,Prec 09 - Rural Elgin,Attorney General,,CON,James E Leuenberger,14
+Union,Prec 1O - City of Imbler,Attorney General,,CON,James E Leuenberger,3
+Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,CON,James E Leuenberger,18
+Union,Prec 12 - City of Summerville,Attorney General,,CON,James E Leuenberger,1
+Union,Prec 13 - Rural North Powder,Attorney General,,CON,James E Leuenberger,1
+Union,Prec 14 - City of North Powder,Attorney General,,CON,James E Leuenberger,11
+Union,Prec 15 - Rural Union,Attorney General,,CON,James E Leuenberger,5
+Union,Prec 16 - City of Union,Attorney General,,CON,James E Leuenberger,42
+Union,Prec 17 - Antelope/Big Creek,Attorney General,,CON,James E Leuenberger,1
+Union,Prec 18 - City of Island City,Attorney General,,CON,James E Leuenberger,14
+Union,Prec 19 - Rural Island City,Attorney General,,CON,James E Leuenberger,9
+Union,Prec 01 - City of La Grande,Attorney General,,DEM,Ellen Rosenblum,963
+Union,Prec 02 - City of La Grande,Attorney General,,DEM,Ellen Rosenblum,583
+Union,Prec 03 - City of La Grande,Attorney General,,DEM,Ellen Rosenblum,623
+Union,Prec 04 - Rural La Grande,Attorney General,,DEM,Ellen Rosenblum,112
+Union,Prec 05 - Rural La Grande,Attorney General,,DEM,Ellen Rosenblum,319
+Union,Prec 06 - City of Cove,Attorney General,,DEM,Ellen Rosenblum,106
+Union,Prec 07 - Rural Cove,Attorney General,,DEM,Ellen Rosenblum,163
+Union,Prec 08 - City of Elgin,Attorney General,,DEM,Ellen Rosenblum,202
+Union,Prec 09 - Rural Elgin,Attorney General,,DEM,Ellen Rosenblum,120
+Union,Prec 1O - City of Imbler,Attorney General,,DEM,Ellen Rosenblum,43
+Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,DEM,Ellen Rosenblum,142
+Union,Prec 12 - City of Summerville,Attorney General,,DEM,Ellen Rosenblum,14
+Union,Prec 13 - Rural North Powder,Attorney General,,DEM,Ellen Rosenblum,16
+Union,Prec 14 - City of North Powder,Attorney General,,DEM,Ellen Rosenblum,74
+Union,Prec 15 - Rural Union,Attorney General,,DEM,Ellen Rosenblum,62
+Union,Prec 16 - City of Union,Attorney General,,DEM,Ellen Rosenblum,362
+Union,Prec 17 - Antelope/Big Creek,Attorney General,,DEM,Ellen Rosenblum,13
+Union,Prec 18 - City of Island City,Attorney General,,DEM,Ellen Rosenblum,166
+Union,Prec 19 - Rural Island City,Attorney General,,DEM,Ellen Rosenblum,67
+Union,Prec 01 - City of La Grande,Attorney General,,,Write-ins,2
+Union,Prec 02 - City of La Grande,Attorney General,,,Write-ins,1
+Union,Prec 03 - City of La Grande,Attorney General,,,Write-ins,2
+Union,Prec 04 - Rural La Grande,Attorney General,,,Write-ins,0
+Union,Prec 05 - Rural La Grande,Attorney General,,,Write-ins,0
+Union,Prec 06 - City of Cove,Attorney General,,,Write-ins,1
+Union,Prec 07 - Rural Cove,Attorney General,,,Write-ins,0
+Union,Prec 08 - City of Elgin,Attorney General,,,Write-ins,0
+Union,Prec 09 - Rural Elgin,Attorney General,,,Write-ins,0
+Union,Prec 1O - City of Imbler,Attorney General,,,Write-ins,0
+Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,,Write-ins,2
+Union,Prec 12 - City of Summerville,Attorney General,,,Write-ins,0
+Union,Prec 13 - Rural North Powder,Attorney General,,,Write-ins,0
+Union,Prec 14 - City of North Powder,Attorney General,,,Write-ins,0
+Union,Prec 15 - Rural Union,Attorney General,,,Write-ins,0
+Union,Prec 16 - City of Union,Attorney General,,,Write-ins,1
+Union,Prec 17 - Antelope/Big Creek,Attorney General,,,Write-ins,0
+Union,Prec 18 - City of Island City,Attorney General,,,Write-ins,0
+Union,Prec 19 - Rural Island City,Attorney General,,,Write-ins,0
+Union,Prec 01 - City of La Grande,Attorney General,,,Over Votes,2
+Union,Prec 02 - City of La Grande,Attorney General,,,Over Votes,0
+Union,Prec 03 - City of La Grande,Attorney General,,,Over Votes,0
+Union,Prec 04 - Rural La Grande,Attorney General,,,Over Votes,1
+Union,Prec 05 - Rural La Grande,Attorney General,,,Over Votes,0
+Union,Prec 06 - City of Cove,Attorney General,,,Over Votes,0
+Union,Prec 07 - Rural Cove,Attorney General,,,Over Votes,0
+Union,Prec 08 - City of Elgin,Attorney General,,,Over Votes,1
+Union,Prec 09 - Rural Elgin,Attorney General,,,Over Votes,2
+Union,Prec 1O - City of Imbler,Attorney General,,,Over Votes,0
+Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,,Over Votes,0
+Union,Prec 12 - City of Summerville,Attorney General,,,Over Votes,0
+Union,Prec 13 - Rural North Powder,Attorney General,,,Over Votes,0
+Union,Prec 14 - City of North Powder,Attorney General,,,Over Votes,0
+Union,Prec 15 - Rural Union,Attorney General,,,Over Votes,0
+Union,Prec 16 - City of Union,Attorney General,,,Over Votes,0
+Union,Prec 17 - Antelope/Big Creek,Attorney General,,,Over Votes,0
+Union,Prec 18 - City of Island City,Attorney General,,,Over Votes,0
+Union,Prec 19 - Rural Island City,Attorney General,,,Over Votes,1
+Union,Prec 01 - City of La Grande,Attorney General,,,Under Votes,186
+Union,Prec 02 - City of La Grande,Attorney General,,,Under Votes,189
+Union,Prec 03 - City of La Grande,Attorney General,,,Under Votes,148
+Union,Prec 04 - Rural La Grande,Attorney General,,,Under Votes,33
+Union,Prec 05 - Rural La Grande,Attorney General,,,Under Votes,78
+Union,Prec 06 - City of Cove,Attorney General,,,Under Votes,29
+Union,Prec 07 - Rural Cove,Attorney General,,,Under Votes,35
+Union,Prec 08 - City of Elgin,Attorney General,,,Under Votes,64
+Union,Prec 09 - Rural Elgin,Attorney General,,,Under Votes,27
+Union,Prec 1O - City of Imbler,Attorney General,,,Under Votes,17
+Union,Prec 11 - Rural Imbler/Summerville,Attorney General,,,Under Votes,46
+Union,Prec 12 - City of Summerville,Attorney General,,,Under Votes,11
+Union,Prec 13 - Rural North Powder,Attorney General,,,Under Votes,9
+Union,Prec 14 - City of North Powder,Attorney General,,,Under Votes,21
+Union,Prec 15 - Rural Union,Attorney General,,,Under Votes,30
+Union,Prec 16 - City of Union,Attorney General,,,Under Votes,91
+Union,Prec 17 - Antelope/Big Creek,Attorney General,,,Under Votes,0
+Union,Prec 18 - City of Island City,Attorney General,,,Under Votes,43
+Union,Prec 19 - Rural Island City,Attorney General,,,Under Votes,20
+Union,Prec 01 - City of La Grande,State Senate,29,REP,Bill Hansell,970
+Union,Prec 02 - City of La Grande,State Senate,29,REP,Bill Hansell,951
+Union,Prec 03 - City of La Grande,State Senate,29,REP,Bill Hansell,950
+Union,Prec 04 - Rural La Grande,State Senate,29,REP,Bill Hansell,217
+Union,Prec 05 - Rural La Grande,State Senate,29,REP,Bill Hansell,657
+Union,Prec 06 - City of Cove,State Senate,29,REP,Bill Hansell,221
+Union,Prec 07 - Rural Cove,State Senate,29,REP,Bill Hansell,364
+Union,Prec 08 - City of Elgin,State Senate,29,REP,Bill Hansell,450
+Union,Prec 09 - Rural Elgin,State Senate,29,REP,Bill Hansell,414
+Union,Prec 1O - City of Imbler,State Senate,29,REP,Bill Hansell,142
+Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,REP,Bill Hansell,477
+Union,Prec 12 - City of Summerville,State Senate,29,REP,Bill Hansell,43
+Union,Prec 13 - Rural North Powder,State Senate,29,REP,Bill Hansell,81
+Union,Prec 14 - City of North Powder,State Senate,29,REP,Bill Hansell,117
+Union,Prec 15 - Rural Union,State Senate,29,REP,Bill Hansell,189
+Union,Prec 16 - City of Union,State Senate,29,REP,Bill Hansell,655
+Union,Prec 17 - Antelope/Big Creek,State Senate,29,REP,Bill Hansell,33
+Union,Prec 18 - City of Island City,State Senate,29,REP,Bill Hansell,401
+Union,Prec 19 - Rural Island City,State Senate,29,REP,Bill Hansell,216
+Union,Prec 01 - City of La Grande,State Senate,29,DEM,Antone Minthorn,846
+Union,Prec 02 - City of La Grande,State Senate,29,DEM,Antone Minthorn,528
+Union,Prec 03 - City of La Grande,State Senate,29,DEM,Antone Minthorn,503
+Union,Prec 04 - Rural La Grande,State Senate,29,DEM,Antone Minthorn,91
+Union,Prec 05 - Rural La Grande,State Senate,29,DEM,Antone Minthorn,247
+Union,Prec 06 - City of Cove,State Senate,29,DEM,Antone Minthorn,86
+Union,Prec 07 - Rural Cove,State Senate,29,DEM,Antone Minthorn,133
+Union,Prec 08 - City of Elgin,State Senate,29,DEM,Antone Minthorn,152
+Union,Prec 09 - Rural Elgin,State Senate,29,DEM,Antone Minthorn,92
+Union,Prec 1O - City of Imbler,State Senate,29,DEM,Antone Minthorn,30
+Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,DEM,Antone Minthorn,128
+Union,Prec 12 - City of Summerville,State Senate,29,DEM,Antone Minthorn,9
+Union,Prec 13 - Rural North Powder,State Senate,29,DEM,Antone Minthorn,14
+Union,Prec 14 - City of North Powder,State Senate,29,DEM,Antone Minthorn,61
+Union,Prec 15 - Rural Union,State Senate,29,DEM,Antone Minthorn,47
+Union,Prec 16 - City of Union,State Senate,29,DEM,Antone Minthorn,293
+Union,Prec 17 - Antelope/Big Creek,State Senate,29,DEM,Antone Minthorn,10
+Union,Prec 18 - City of Island City,State Senate,29,DEM,Antone Minthorn,118
+Union,Prec 19 - Rural Island City,State Senate,29,DEM,Antone Minthorn,51
+Union,Prec 01 - City of La Grande,State Senate,29,,Write-ins,8
+Union,Prec 02 - City of La Grande,State Senate,29,,Write-ins,7
+Union,Prec 03 - City of La Grande,State Senate,29,,Write-ins,4
+Union,Prec 04 - Rural La Grande,State Senate,29,,Write-ins,1
+Union,Prec 05 - Rural La Grande,State Senate,29,,Write-ins,0
+Union,Prec 06 - City of Cove,State Senate,29,,Write-ins,0
+Union,Prec 07 - Rural Cove,State Senate,29,,Write-ins,1
+Union,Prec 08 - City of Elgin,State Senate,29,,Write-ins,1
+Union,Prec 09 - Rural Elgin,State Senate,29,,Write-ins,0
+Union,Prec 1O - City of Imbler,State Senate,29,,Write-ins,0
+Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,,Write-ins,1
+Union,Prec 12 - City of Summerville,State Senate,29,,Write-ins,0
+Union,Prec 13 - Rural North Powder,State Senate,29,,Write-ins,1
+Union,Prec 14 - City of North Powder,State Senate,29,,Write-ins,0
+Union,Prec 15 - Rural Union,State Senate,29,,Write-ins,0
+Union,Prec 16 - City of Union,State Senate,29,,Write-ins,4
+Union,Prec 17 - Antelope/Big Creek,State Senate,29,,Write-ins,0
+Union,Prec 18 - City of Island City,State Senate,29,,Write-ins,1
+Union,Prec 19 - Rural Island City,State Senate,29,,Write-ins,0
+Union,Prec 01 - City of La Grande,State Senate,29,,Over Votes,0
+Union,Prec 02 - City of La Grande,State Senate,29,,Over Votes,1
+Union,Prec 03 - City of La Grande,State Senate,29,,Over Votes,1
+Union,Prec 04 - Rural La Grande,State Senate,29,,Over Votes,0
+Union,Prec 05 - Rural La Grande,State Senate,29,,Over Votes,0
+Union,Prec 06 - City of Cove,State Senate,29,,Over Votes,0
+Union,Prec 07 - Rural Cove,State Senate,29,,Over Votes,0
+Union,Prec 08 - City of Elgin,State Senate,29,,Over Votes,0
+Union,Prec 09 - Rural Elgin,State Senate,29,,Over Votes,0
+Union,Prec 1O - City of Imbler,State Senate,29,,Over Votes,0
+Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,,Over Votes,0
+Union,Prec 12 - City of Summerville,State Senate,29,,Over Votes,0
+Union,Prec 13 - Rural North Powder,State Senate,29,,Over Votes,0
+Union,Prec 14 - City of North Powder,State Senate,29,,Over Votes,0
+Union,Prec 15 - Rural Union,State Senate,29,,Over Votes,0
+Union,Prec 16 - City of Union,State Senate,29,,Over Votes,0
+Union,Prec 17 - Antelope/Big Creek,State Senate,29,,Over Votes,0
+Union,Prec 18 - City of Island City,State Senate,29,,Over Votes,0
+Union,Prec 19 - Rural Island City,State Senate,29,,Over Votes,0
+Union,Prec 01 - City of La Grande,State Senate,29,,Under Votes,228
+Union,Prec 02 - City of La Grande,State Senate,29,,Under Votes,216
+Union,Prec 03 - City of La Grande,State Senate,29,,Under Votes,173
+Union,Prec 04 - Rural La Grande,State Senate,29,,Under Votes,35
+Union,Prec 05 - Rural La Grande,State Senate,29,,Under Votes,97
+Union,Prec 06 - City of Cove,State Senate,29,,Under Votes,27
+Union,Prec 07 - Rural Cove,State Senate,29,,Under Votes,28
+Union,Prec 08 - City of Elgin,State Senate,29,,Under Votes,81
+Union,Prec 09 - Rural Elgin,State Senate,29,,Under Votes,22
+Union,Prec 1O - City of Imbler,State Senate,29,,Under Votes,15
+Union,Prec 11 - Rural Imbler/Summerville,State Senate,29,,Under Votes,35
+Union,Prec 12 - City of Summerville,State Senate,29,,Under Votes,9
+Union,Prec 13 - Rural North Powder,State Senate,29,,Under Votes,7
+Union,Prec 14 - City of North Powder,State Senate,29,,Under Votes,23
+Union,Prec 15 - Rural Union,State Senate,29,,Under Votes,22
+Union,Prec 16 - City of Union,State Senate,29,,Under Votes,104
+Union,Prec 17 - Antelope/Big Creek,State Senate,29,,Under Votes,0
+Union,Prec 18 - City of Island City,State Senate,29,,Under Votes,49
+Union,Prec 19 - Rural Island City,State Senate,29,,Under Votes,20
+Union,Prec 01 - City of La Grande,State House,58,REP,Bob Jensen,1074
+Union,Prec 02 - City of La Grande,State House,58,REP,Bob Jensen,1035
+Union,Prec 03 - City of La Grande,State House,58,REP,Bob Jensen,997
+Union,Prec 04 - Rural La Grande,State House,58,REP,Bob Jensen,235
+Union,Prec 05 - Rural La Grande,State House,58,REP,Bob Jensen,680
+Union,Prec 06 - City of Cove,State House,58,REP,Bob Jensen,248
+Union,Prec 07 - Rural Cove,State House,58,REP,Bob Jensen,371
+Union,Prec 08 - City of Elgin,State House,58,REP,Bob Jensen,475
+Union,Prec 09 - Rural Elgin,State House,58,REP,Bob Jensen,411
+Union,Prec 1O - City of Imbler,State House,58,REP,Bob Jensen,147
+Union,Prec 11 - Rural Imbler/Summerville,State House,58,REP,Bob Jensen,491
+Union,Prec 12 - City of Summerville,State House,58,REP,Bob Jensen,43
+Union,Prec 13 - Rural North Powder,State House,58,REP,Bob Jensen,85
+Union,Prec 14 - City of North Powder,State House,58,REP,Bob Jensen,118
+Union,Prec 15 - Rural Union,State House,58,REP,Bob Jensen,189
+Union,Prec 16 - City of Union,State House,58,REP,Bob Jensen,668
+Union,Prec 17 - Antelope/Big Creek,State House,58,REP,Bob Jensen,34
+Union,Prec 18 - City of Island City,State House,58,REP,Bob Jensen,421
+Union,Prec 19 - Rural Island City,State House,58,REP,Bob Jensen,218
+Union,Prec 01 - City of La Grande,State House,58,DEM,Heidi VanSchoonhoven,697
+Union,Prec 02 - City of La Grande,State House,58,DEM,Heidi VanSchoonhoven,416
+Union,Prec 03 - City of La Grande,State House,58,DEM,Heidi VanSchoonhoven,440
+Union,Prec 04 - Rural La Grande,State House,58,DEM,Heidi VanSchoonhoven,64
+Union,Prec 05 - Rural La Grande,State House,58,DEM,Heidi VanSchoonhoven,192
+Union,Prec 06 - City of Cove,State House,58,DEM,Heidi VanSchoonhoven,57
+Union,Prec 07 - Rural Cove,State House,58,DEM,Heidi VanSchoonhoven,110
+Union,Prec 08 - City of Elgin,State House,58,DEM,Heidi VanSchoonhoven,119
+Union,Prec 09 - Rural Elgin,State House,58,DEM,Heidi VanSchoonhoven,75
+Union,Prec 1O - City of Imbler,State House,58,DEM,Heidi VanSchoonhoven,24
+Union,Prec 11 - Rural Imbler/Summerville,State House,58,DEM,Heidi VanSchoonhoven,97
+Union,Prec 12 - City of Summerville,State House,58,DEM,Heidi VanSchoonhoven,8
+Union,Prec 13 - Rural North Powder,State House,58,DEM,Heidi VanSchoonhoven,10
+Union,Prec 14 - City of North Powder,State House,58,DEM,Heidi VanSchoonhoven,50
+Union,Prec 15 - Rural Union,State House,58,DEM,Heidi VanSchoonhoven,40
+Union,Prec 16 - City of Union,State House,58,DEM,Heidi VanSchoonhoven,246
+Union,Prec 17 - Antelope/Big Creek,State House,58,DEM,Heidi VanSchoonhoven,7
+Union,Prec 18 - City of Island City,State House,58,DEM,Heidi VanSchoonhoven,90
+Union,Prec 19 - Rural Island City,State House,58,DEM,Heidi VanSchoonhoven,40
+Union,Prec 01 - City of La Grande,State House,58,,Write-ins,13
+Union,Prec 02 - City of La Grande,State House,58,,Write-ins,13
+Union,Prec 03 - City of La Grande,State House,58,,Write-ins,7
+Union,Prec 04 - Rural La Grande,State House,58,,Write-ins,2
+Union,Prec 05 - Rural La Grande,State House,58,,Write-ins,6
+Union,Prec 06 - City of Cove,State House,58,,Write-ins,0
+Union,Prec 07 - Rural Cove,State House,58,,Write-ins,4
+Union,Prec 08 - City of Elgin,State House,58,,Write-ins,3
+Union,Prec 09 - Rural Elgin,State House,58,,Write-ins,0
+Union,Prec 1O - City of Imbler,State House,58,,Write-ins,0
+Union,Prec 11 - Rural Imbler/Summerville,State House,58,,Write-ins,3
+Union,Prec 12 - City of Summerville,State House,58,,Write-ins,0
+Union,Prec 13 - Rural North Powder,State House,58,,Write-ins,0
+Union,Prec 14 - City of North Powder,State House,58,,Write-ins,0
+Union,Prec 15 - Rural Union,State House,58,,Write-ins,0
+Union,Prec 16 - City of Union,State House,58,,Write-ins,4
+Union,Prec 17 - Antelope/Big Creek,State House,58,,Write-ins,0
+Union,Prec 18 - City of Island City,State House,58,,Write-ins,4
+Union,Prec 19 - Rural Island City,State House,58,,Write-ins,1
+Union,Prec 01 - City of La Grande,State House,58,,Over Votes,0
+Union,Prec 02 - City of La Grande,State House,58,,Over Votes,2
+Union,Prec 03 - City of La Grande,State House,58,,Over Votes,0
+Union,Prec 04 - Rural La Grande,State House,58,,Over Votes,0
+Union,Prec 05 - Rural La Grande,State House,58,,Over Votes,0
+Union,Prec 06 - City of Cove,State House,58,,Over Votes,0
+Union,Prec 07 - Rural Cove,State House,58,,Over Votes,1
+Union,Prec 08 - City of Elgin,State House,58,,Over Votes,0
+Union,Prec 09 - Rural Elgin,State House,58,,Over Votes,0
+Union,Prec 1O - City of Imbler,State House,58,,Over Votes,0
+Union,Prec 11 - Rural Imbler/Summerville,State House,58,,Over Votes,0
+Union,Prec 12 - City of Summerville,State House,58,,Over Votes,0
+Union,Prec 13 - Rural North Powder,State House,58,,Over Votes,0
+Union,Prec 14 - City of North Powder,State House,58,,Over Votes,0
+Union,Prec 15 - Rural Union,State House,58,,Over Votes,1
+Union,Prec 16 - City of Union,State House,58,,Over Votes,0
+Union,Prec 17 - Antelope/Big Creek,State House,58,,Over Votes,0
+Union,Prec 18 - City of Island City,State House,58,,Over Votes,0
+Union,Prec 19 - Rural Island City,State House,58,,Over Votes,0
+Union,Prec 01 - City of La Grande,State House,58,,Under Votes,268
+Union,Prec 02 - City of La Grande,State House,58,,Under Votes,237
+Union,Prec 03 - City of La Grande,State House,58,,Under Votes,187
+Union,Prec 04 - Rural La Grande,State House,58,,Under Votes,43
+Union,Prec 05 - Rural La Grande,State House,58,,Under Votes,123
+Union,Prec 06 - City of Cove,State House,58,,Under Votes,29
+Union,Prec 07 - Rural Cove,State House,58,,Under Votes,40
+Union,Prec 08 - City of Elgin,State House,58,,Under Votes,87
+Union,Prec 09 - Rural Elgin,State House,58,,Under Votes,42
+Union,Prec 1O - City of Imbler,State House,58,,Under Votes,16
+Union,Prec 11 - Rural Imbler/Summerville,State House,58,,Under Votes,50
+Union,Prec 12 - City of Summerville,State House,58,,Under Votes,10
+Union,Prec 13 - Rural North Powder,State House,58,,Under Votes,8
+Union,Prec 14 - City of North Powder,State House,58,,Under Votes,33
+Union,Prec 15 - Rural Union,State House,58,,Under Votes,28
+Union,Prec 16 - City of Union,State House,58,,Under Votes,138
+Union,Prec 17 - Antelope/Big Creek,State House,58,,Under Votes,2
+Union,Prec 18 - City of Island City,State House,58,,Under Votes,54
+Union,Prec 19 - Rural Island City,State House,58,,Under Votes,28

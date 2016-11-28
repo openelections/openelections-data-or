@@ -1,1 +1,766 @@
-county,precinct,office,district,party,candidate,votesBaker,1 BAKER #1,President,,DEM,Barack Obama,285Baker,2  BAKER #2,President,,DEM,Barack Obama,281Baker,3  BAKER #3,President,,DEM,Barack Obama,247Baker,4  BAKER #4,President,,DEM,Barack Obama,318Baker,5  BAKER #5,President,,DEM,Barack Obama,305Baker,13  BAKER COUNTRY,President,,DEM,Barack Obama,100Baker,14  DURKEE,President,,DEM,Barack Obama,6Baker,15  EAGLE VA,President,,DEM,Barack Obama,90Baker,17  HAINES,President,,DEM,Barack Obama,119Baker,18  HEREFORD,President,,DEM,Barack Obama,5Baker,19  HUNTINGTON,President,,DEM,Barack Obama,90Baker,20  IRONDYKE,President,,DEM,Barack Obama,20Baker,21  KEATING,President,,DEM,Barack Obama,20Baker,22  PINE VALLEY,President,,DEM,Barack Obama,213Baker,24  POCA-WI NO,President,,DEM,Barack Obama,185Baker,25  SUMPTER,President,,DEM,Barack Obama,70Baker,26  UNITY,President,,DEM,Barack Obama,15Baker,1 BAKER #1,President,,PAC,Jill Stein,10Baker,2  BAKER #2,President,,PAC,Jill Stein,7Baker,3  BAKER #3,President,,PAC,Jill Stein,15Baker,4  BAKER #4,President,,PAC,Jill Stein,11Baker,5  BAKER #5,President,,PAC,Jill Stein,11Baker,13  BAKER COUNTRY,President,,PAC,Jill Stein,3Baker,14  DURKEE,President,,PAC,Jill Stein,2Baker,15  EAGLE VA,President,,PAC,Jill Stein,9Baker,17  HAINES,President,,PAC,Jill Stein,6Baker,18  HEREFORD,President,,PAC,Jill Stein,0Baker,19  HUNTINGTON,President,,PAC,Jill Stein,6Baker,20  IRONDYKE,President,,PAC,Jill Stein,0Baker,21  KEATING,President,,PAC,Jill Stein,0Baker,22  PINE VALLEY,President,,PAC,Jill Stein,6Baker,24  POCA-WI NO,President,,PAC,Jill Stein,4Baker,25  SUMPTER,President,,PAC,Jill Stein,0.0Baker,26  UNITY,President,,PAC,Jill Stein,1Baker,1 BAKER #1,President,,PRO,Ross C (Rocky) Anderson,3Baker,2  BAKER #2,President,,PRO,Ross C (Rocky) Anderson,3Baker,3  BAKER #3,President,,PRO,Ross C (Rocky) Anderson,4Baker,4  BAKER #4,President,,PRO,Ross C (Rocky) Anderson,2Baker,5  BAKER #5,President,,PRO,Ross C (Rocky) Anderson,2Baker,13  BAKER COUNTRY,President,,PRO,Ross C (Rocky) Anderson,1Baker,14  DURKEE,President,,PRO,Ross C (Rocky) Anderson,0Baker,15  EAGLE VA,President,,PRO,Ross C (Rocky) Anderson,2Baker,17  HAINES,President,,PRO,Ross C (Rocky) Anderson,0Baker,18  HEREFORD,President,,PRO,Ross C (Rocky) Anderson,0Baker,19  HUNTINGTON,President,,PRO,Ross C (Rocky) Anderson,1Baker,20  IRONDYKE,President,,PRO,Ross C (Rocky) Anderson,0Baker,21  KEATING,President,,PRO,Ross C (Rocky) Anderson,2Baker,22  PINE VALLEY,President,,PRO,Ross C (Rocky) Anderson,1Baker,24  POCA-WI NO,President,,PRO,Ross C (Rocky) Anderson,0Baker,25  SUMPTER,President,,PRO,Ross C (Rocky) Anderson,1Baker,26  UNITY,President,,PRO,Ross C (Rocky) Anderson,0Baker,1 BAKER #1,President,,LBT,Gary Johnson,15Baker,2  BAKER #2,President,,LBT,Gary Johnson,19Baker,3  BAKER #3,President,,LBT,Gary Johnson,19Baker,4  BAKER #4,President,,LBT,Gary Johnson,15Baker,5  BAKER #5,President,,LBT,Gary Johnson,10Baker,13  BAKER COUNTRY,President,,LBT,Gary Johnson,13Baker,14  DURKEE,President,,LBT,Gary Johnson,0Baker,15  EAGLE VA,President,,LBT,Gary Johnson,5Baker,17  HAINES,President,,LBT,Gary Johnson,4Baker,18  HEREFORD,President,,LBT,Gary Johnson,2Baker,19  HUNTINGTON,President,,LBT,Gary Johnson,9Baker,20  IRONDYKE,President,,LBT,Gary Johnson,0Baker,21  KEATING,President,,LBT,Gary Johnson,4Baker,22  PINE VALLEY,President,,LBT,Gary Johnson,11Baker,24  POCA-WI NO,President,,LBT,Gary Johnson,8Baker,25  SUMPTER,President,,LBT,Gary Johnson,8Baker,26  UNITY,President,,LBT,Gary Johnson,0Baker,1 BAKER #1,President,,REP,Mitt Romney,540Baker,2  BAKER #2,President,,REP,Mitt Romney,477Baker,3  BAKER #3,President,,REP,Mitt Romney,573Baker,4  BAKER #4,President,,REP,Mitt Romney,704Baker,5  BAKER #5,President,,REP,Mitt Romney,741Baker,13  BAKER COUNTRY,President,,REP,Mitt Romney,524Baker,14  DURKEE,President,,REP,Mitt Romney,75Baker,15  EAGLE VA,President,,REP,Mitt Romney,290Baker,17  HAINES,President,,REP,Mitt Romney,409Baker,18  HEREFORD,President,,REP,Mitt Romney,73Baker,19  HUNTINGTON,President,,REP,Mitt Romney,114Baker,20  IRONDYKE,President,,REP,Mitt Romney,34Baker,21  KEATING,President,,REP,Mitt Romney,120Baker,22  PINE VALLEY,President,,REP,Mitt Romney,314Baker,24  POCA-WI NO,President,,REP,Mitt Romney,487Baker,25  SUMPTER,President,,REP,Mitt Romney,162Baker,26  UNITY,President,,REP,Mitt Romney,65Baker,1 BAKER #1,President,,CON,Will Christensen Write-in,8Baker,2  BAKER #2,President,,CON,Will Christensen Write-in,6Baker,3  BAKER #3,President,,CON,Will Christensen Write-in,5Baker,4  BAKER #4,President,,CON,Will Christensen Write-in,2Baker,5  BAKER #5,President,,CON,Will Christensen Write-in,4Baker,13  BAKER COUNTRY,President,,CON,Will Christensen Write-in,2Baker,14  DURKEE,President,,CON,Will Christensen Write-in,1Baker,15  EAGLE VA,President,,CON,Will Christensen Write-in,2Baker,17  HAINES,President,,CON,Will Christensen Write-in,2Baker,18  HEREFORD,President,,CON,Will Christensen Write-in,0Baker,19  HUNTINGTON,President,,CON,Will Christensen Write-in,2Baker,20  IRONDYKE,President,,CON,Will Christensen Write-in,0Baker,21  KEATING,President,,CON,Will Christensen Write-in,1Baker,22  PINE VALLEY,President,,CON,Will Christensen Write-in,3Baker,24  POCA-WI NO,President,,CON,Will Christensen Write-in,1Baker,25  SUMPTER,President,,CON,Will Christensen Write-in,2Baker,26  UNITY,President,,CON,Will Christensen Write-in,0Baker,1 BAKER #1,President,,,Write-ins,7Baker,2  BAKER #2,President,,,Write-ins,6Baker,3  BAKER #3,President,,,Write-ins,6Baker,4  BAKER #4,President,,,Write-ins,6Baker,5  BAKER #5,President,,,Write-ins,13Baker,13  BAKER COUNTRY,President,,,Write-ins,6Baker,14  DURKEE,President,,,Write-ins,0Baker,15  EAGLE VA,President,,,Write-ins,7Baker,17  HAINES,President,,,Write-ins,5Baker,18  HEREFORD,President,,,Write-ins,1Baker,19  HUNTINGTON,President,,,Write-ins,1Baker,20  IRONDYKE,President,,,Write-ins,0Baker,21  KEATING,President,,,Write-ins,2Baker,22  PINE VALLEY,President,,,Write-ins,6Baker,24  POCA-WI NO,President,,,Write-ins,6Baker,25  SUMPTER,President,,,Write-ins,9Baker,26  UNITY,President,,,Write-ins,0Baker,1 BAKER #1,President,,,Over Votes,2Baker,2  BAKER #2,President,,,Over Votes,0Baker,3  BAKER #3,President,,,Over Votes,1Baker,4  BAKER #4,President,,,Over Votes,0Baker,5  BAKER #5,President,,,Over Votes,1Baker,13  BAKER COUNTRY,President,,,Over Votes,0Baker,14  DURKEE,President,,,Over Votes,0Baker,15  EAGLE VA,President,,,Over Votes,0Baker,17  HAINES,President,,,Over Votes,0Baker,18  HEREFORD,President,,,Over Votes,0Baker,19  HUNTINGTON,President,,,Over Votes,0Baker,20  IRONDYKE,President,,,Over Votes,2Baker,21  KEATING,President,,,Over Votes,0Baker,22  PINE VALLEY,President,,,Over Votes,0Baker,24  POCA-WI NO,President,,,Over Votes,0Baker,25  SUMPTER,President,,,Over Votes,0Baker,26  UNITY,President,,,Over Votes,0Baker,1 BAKER #1,President,,,Under Votes,9Baker,2  BAKER #2,President,,,Under Votes,9Baker,3  BAKER #3,President,,,Under Votes,7Baker,4  BAKER #4,President,,,Under Votes,17Baker,5  BAKER #5,President,,,Under Votes,21Baker,13  BAKER COUNTRY,President,,,Under Votes,7Baker,14  DURKEE,President,,,Under Votes,0Baker,15  EAGLE VA,President,,,Under Votes,5Baker,17  HAINES,President,,,Under Votes,3Baker,18  HEREFORD,President,,,Under Votes,2Baker,19  HUNTINGTON,President,,,Under Votes,11Baker,20  IRONDYKE,President,,,Under Votes,1Baker,21  KEATING,President,,,Under Votes,1Baker,22  PINE VALLEY,President,,,Under Votes,6Baker,24  POCA-WI NO,President,,,Under Votes,8Baker,25  SUMPTER,President,,,Under Votes,4Baker,26  UNITY,President,,,Under Votes,1Baker,1 BAKER #1,U.S. House,2,DEM,Joyce B Segers,200Baker,2  BAKER #2,U.S. House,2,DEM,Joyce B Segers,196Baker,3  BAKER #3,U.S. House,2,DEM,Joyce B Segers,206Baker,4  BAKER #4,U.S. House,2,DEM,Joyce B Segers,216Baker,5  BAKER #5,U.S. House,2,DEM,Joyce B Segers,216Baker,13  BAKER COUNTRY,U.S. House,2,DEM,Joyce B Segers,65Baker,14  DURKEE,U.S. House,2,DEM,Joyce B Segers,9Baker,15  EAGLE VA,U.S. House,2,DEM,Joyce B Segers,68Baker,17  HAINES,U.S. House,2,DEM,Joyce B Segers,69Baker,18  HEREFORD,U.S. House,2,DEM,Joyce B Segers,7Baker,19  HUNTINGTON,U.S. House,2,DEM,Joyce B Segers,79Baker,20  IRONDYKE,U.S. House,2,DEM,Joyce B Segers,21Baker,21  KEATING,U.S. House,2,DEM,Joyce B Segers,12Baker,22  PINE VALLEY,U.S. House,2,DEM,Joyce B Segers,147Baker,24  POCA-WING,U.S. House,2,DEM,Joyce B Segers,129Baker,25 SUMPTER,U.S. House,2,DEM,Joyce B Segers,42Baker,26  UNITY,U.S. House,2,DEM,Joyce B Segers,10Baker,1 BAKER #1,U.S. House,2,REP,Greg Walden,624Baker,2  BAKER #2,U.S. House,2,REP,Greg Walden,557Baker,3  BAKER #3,U.S. House,2,REP,Greg Walden,612Baker,4  BAKER #4,U.S. House,2,REP,Greg Walden,796Baker,5  BAKER #5,U.S. House,2,REP,Greg Walden,826Baker,13  BAKER COUNTRY,U.S. House,2,REP,Greg Walden,550Baker,14  DURKEE,U.S. House,2,REP,Greg Walden,69Baker,15  EAGLE VA,U.S. House,2,REP,Greg Walden,315Baker,17  HAINES,U.S. House,2,REP,Greg Walden,453Baker,18  HEREFORD,U.S. House,2,REP,Greg Walden,69Baker,19  HUNTINGTON,U.S. House,2,REP,Greg Walden,127Baker,20  IRONDYKE,U.S. House,2,REP,Greg Walden,28Baker,21  KEATING,U.S. House,2,REP,Greg Walden,132Baker,22  PINE VALLEY,U.S. House,2,REP,Greg Walden,373Baker,24  POCA-WING,U.S. House,2,REP,Greg Walden,538Baker,25 SUMPTER,U.S. House,2,REP,Greg Walden,185Baker,26  UNITY,U.S. House,2,REP,Greg Walden,69Baker,1 BAKER #1,U.S. House,2,LBT,Joe Tabor,17Baker,2  BAKER #2,U.S. House,2,LBT,Joe Tabor,28Baker,3  BAKER #3,U.S. House,2,LBT,Joe Tabor,24Baker,4  BAKER #4,U.S. House,2,LBT,Joe Tabor,15Baker,5  BAKER #5,U.S. House,2,LBT,Joe Tabor,16Baker,13  BAKER COUNTRY,U.S. House,2,LBT,Joe Tabor,12Baker,14  DURKEE,U.S. House,2,LBT,Joe Tabor,2Baker,15  EAGLE VA,U.S. House,2,LBT,Joe Tabor,9Baker,17  HAINES,U.S. House,2,LBT,Joe Tabor,6Baker,18  HEREFORD,U.S. House,2,LBT,Joe Tabor,3Baker,19  HUNTINGTON,U.S. House,2,LBT,Joe Tabor,10Baker,20  IRONDYKE,U.S. House,2,LBT,Joe Tabor,3Baker,21  KEATING,U.S. House,2,LBT,Joe Tabor,2Baker,22  PINE VALLEY,U.S. House,2,LBT,Joe Tabor,16Baker,24  POCA-WING,U.S. House,2,LBT,Joe Tabor,13Baker,25 SUMPTER,U.S. House,2,LBT,Joe Tabor,7Baker,26  UNITY,U.S. House,2,LBT,Joe Tabor,0Baker,1 BAKER #1,U.S. House,2,,Write-ins,2Baker,2  BAKER #2,U.S. House,2,,Write-ins,0Baker,3  BAKER #3,U.S. House,2,,Write-ins,2Baker,4  BAKER #4,U.S. House,2,,Write-ins,0Baker,5  BAKER #5,U.S. House,2,,Write-ins,0Baker,13  BAKER COUNTRY,U.S. House,2,,Write-ins,3Baker,14  DURKEE,U.S. House,2,,Write-ins,0Baker,15  EAGLE VA,U.S. House,2,,Write-ins,2Baker,17  HAINES,U.S. House,2,,Write-ins,0Baker,18  HEREFORD,U.S. House,2,,Write-ins,0Baker,19  HUNTINGTON,U.S. House,2,,Write-ins,0Baker,20  IRONDYKE,U.S. House,2,,Write-ins,0Baker,21  KEATING,U.S. House,2,,Write-ins,0Baker,22  PINE VALLEY,U.S. House,2,,Write-ins,0Baker,24  POCA-WING,U.S. House,2,,Write-ins,1Baker,25 SUMPTER,U.S. House,2,,Write-ins,0Baker,26  UNITY,U.S. House,2,,Write-ins,0Baker,1 BAKER #1,U.S. House,2,,Over Votes,0Baker,2  BAKER #2,U.S. House,2,,Over Votes,0Baker,3  BAKER #3,U.S. House,2,,Over Votes,0Baker,4  BAKER #4,U.S. House,2,,Over Votes,0Baker,5  BAKER #5,U.S. House,2,,Over Votes,0Baker,13  BAKER COUNTRY,U.S. House,2,,Over Votes,0Baker,14  DURKEE,U.S. House,2,,Over Votes,0Baker,15  EAGLE VA,U.S. House,2,,Over Votes,0Baker,17  HAINES,U.S. House,2,,Over Votes,0Baker,18  HEREFORD,U.S. House,2,,Over Votes,0Baker,19  HUNTINGTON,U.S. House,2,,Over Votes,0Baker,20  IRONDYKE,U.S. House,2,,Over Votes,0Baker,21  KEATING,U.S. House,2,,Over Votes,0Baker,22  PINE VALLEY,U.S. House,2,,Over Votes,0Baker,24  POCA-WING,U.S. House,2,,Over Votes,0Baker,25 SUMPTER,U.S. House,2,,Over Votes,0Baker,26  UNITY,U.S. House,2,,Over Votes,0Baker,1 BAKER #1,U.S. House,2,,Under Votes,36Baker,2  BAKER #2,U.S. House,2,,Under Votes,27Baker,3  BAKER #3,U.S. House,2,,Under Votes,33Baker,4  BAKER #4,U.S. House,2,,Under Votes,48Baker,5  BAKER #5,U.S. House,2,,Under Votes,50Baker,13  BAKER COUNTRY,U.S. House,2,,Under Votes,26Baker,14  DURKEE,U.S. House,2,,Under Votes,4Baker,15  EAGLE VA,U.S. House,2,,Under Votes,16Baker,17  HAINES,U.S. House,2,,Under Votes,20Baker,18  HEREFORD,U.S. House,2,,Under Votes,4Baker,19  HUNTINGTON,U.S. House,2,,Under Votes,18Baker,20  IRONDYKE,U.S. House,2,,Under Votes,5Baker,21  KEATING,U.S. House,2,,Under Votes,4Baker,22  PINE VALLEY,U.S. House,2,,Under Votes,24Baker,24  POCA-WING,U.S. House,2,,Under Votes,18Baker,25 SUMPTER,U.S. House,2,,Under Votes,22Baker,26  UNITY,U.S. House,2,,Under Votes,3Baker,1 BAKER #1,Secretary of State,,PGP,Seth Woolley,15Baker,2 BAKER #2,Secretary of State,,PGP,Seth Woolley,11Baker,3 BAKER #3,Secretary of State,,PGP,Seth Woolley,17Baker,4 BAKER #4,Secretary of State,,PGP,Seth Woolley,16Baker,5 BAKER #5,Secretary of State,,PGP,Seth Woolley,4Baker,13 BAKER COUNTRY,Secretary of State,,PGP,Seth Woolley,4Baker,14 DURKEE,Secretary of State,,PGP,Seth Woolley,2Baker,15 EAGLE VA,Secretary of State,,PGP,Seth Woolley,8Baker,17 HAINES,Secretary of State,,PGP,Seth Woolley,4Baker,18 HEREFORD,Secretary of State,,PGP,Seth Woolley,0Baker,19 HUNTINGTON,Secretary of State,,PGP,Seth Woolley,7Baker,20 IRONDYKE,Secretary of State,,PGP,Seth Woolley,1Baker,21  KEATING,Secretary of State,,PGP,Seth Woolley,1Baker,22 PINE VALLEY,Secretary of State,,PGP,Seth Woolley,12Baker,24 POCA-WING,Secretary of State,,PGP,Seth Woolley,6Baker,25 SUMPTER,Secretary of State,,PGP,Seth Woolley,2Baker,26 UNITY,Secretary of State,,PGP,Seth Woolley,2Baker,1 BAKER #1,Secretary of State,,PRO,Robert Wolfe,5Baker,2 BAKER #2,Secretary of State,,PRO,Robert Wolfe,8Baker,3 BAKER #3,Secretary of State,,PRO,Robert Wolfe,9Baker,4 BAKER #4,Secretary of State,,PRO,Robert Wolfe,13Baker,5 BAKER #5,Secretary of State,,PRO,Robert Wolfe,7Baker,13 BAKER COUNTRY,Secretary of State,,PRO,Robert Wolfe,7Baker,14 DURKEE,Secretary of State,,PRO,Robert Wolfe,1Baker,15 EAGLE VA,Secretary of State,,PRO,Robert Wolfe,5Baker,17 HAINES,Secretary of State,,PRO,Robert Wolfe,1Baker,18 HEREFORD,Secretary of State,,PRO,Robert Wolfe,1Baker,19 HUNTINGTON,Secretary of State,,PRO,Robert Wolfe,4Baker,20 IRONDYKE,Secretary of State,,PRO,Robert Wolfe,1Baker,21  KEATING,Secretary of State,,PRO,Robert Wolfe,3Baker,22 PINE VALLEY,Secretary of State,,PRO,Robert Wolfe,7Baker,24 POCA-WING,Secretary of State,,PRO,Robert Wolfe,0Baker,25 SUMPTER,Secretary of State,,PRO,Robert Wolfe,5Baker,26 UNITY,Secretary of State,,PRO,Robert Wolfe,2Baker,1 BAKER #1,Secretary of State,,LBT,Bruce Alexander Knight,15Baker,2 BAKER #2,Secretary of State,,LBT,Bruce Alexander Knight,27Baker,3 BAKER #3,Secretary of State,,LBT,Bruce Alexander Knight,16Baker,4 BAKER #4,Secretary of State,,LBT,Bruce Alexander Knight,19Baker,5 BAKER #5,Secretary of State,,LBT,Bruce Alexander Knight,11Baker,13 BAKER COUNTRY,Secretary of State,,LBT,Bruce Alexander Knight,7Baker,14 DURKEE,Secretary of State,,LBT,Bruce Alexander Knight,0Baker,15 EAGLE VA,Secretary of State,,LBT,Bruce Alexander Knight,5Baker,17 HAINES,Secretary of State,,LBT,Bruce Alexander Knight,5Baker,18 HEREFORD,Secretary of State,,LBT,Bruce Alexander Knight,4Baker,19 HUNTINGTON,Secretary of State,,LBT,Bruce Alexander Knight,5Baker,20 IRONDYKE,Secretary of State,,LBT,Bruce Alexander Knight,1Baker,21  KEATING,Secretary of State,,LBT,Bruce Alexander Knight,2Baker,22 PINE VALLEY,Secretary of State,,LBT,Bruce Alexander Knight,10Baker,24 POCA-WING,Secretary of State,,LBT,Bruce Alexander Knight,4Baker,25 SUMPTER,Secretary of State,,LBT,Bruce Alexander Knight,3Baker,26 UNITY,Secretary of State,,LBT,Bruce Alexander Knight,0Baker,1 BAKER #1,Secretary of State,,DEM,Kate Brown,305Baker,2 BAKER #2,Secretary of State,,DEM,Kate Brown,300Baker,3 BAKER #3,Secretary of State,,DEM,Kate Brown,290Baker,4 BAKER #4,Secretary of State,,DEM,Kate Brown,349Baker,5 BAKER #5,Secretary of State,,DEM,Kate Brown,372Baker,13 BAKER COUNTRY,Secretary of State,,DEM,Kate Brown,119Baker,14 DURKEE,Secretary of State,,DEM,Kate Brown,12Baker,15 EAGLE VA,Secretary of State,,DEM,Kate Brown,101Baker,17 HAINES,Secretary of State,,DEM,Kate Brown,135Baker,18 HEREFORD,Secretary of State,,DEM,Kate Brown,9Baker,19 HUNTINGTON,Secretary of State,,DEM,Kate Brown,107Baker,20 IRONDYKE,Secretary of State,,DEM,Kate Brown,22Baker,21  KEATING,Secretary of State,,DEM,Kate Brown,20Baker,22 PINE VALLEY,Secretary of State,,DEM,Kate Brown,218Baker,24 POCA-WING,Secretary of State,,DEM,Kate Brown,184Baker,25 SUMPTER,Secretary of State,,DEM,Kate Brown,76Baker,26 UNITY,Secretary of State,,DEM,Kate Brown,16Baker,1 BAKER #1,Secretary of State,,REP,Knute Buehler,477Baker,2 BAKER #2,Secretary of State,,REP,Knute Buehler,420Baker,3 BAKER #3,Secretary of State,,REP,Knute Buehler,494Baker,4 BAKER #4,Secretary of State,,REP,Knute Buehler,620Baker,5 BAKER #5,Secretary of State,,REP,Knute Buehler,643Baker,13 BAKER COUNTRY,Secretary of State,,REP,Knute Buehler,487Baker,14 DURKEE,Secretary of State,,REP,Knute Buehler,65Baker,15 EAGLE VA,Secretary of State,,REP,Knute Buehler,271Baker,17 HAINES,Secretary of State,,REP,Knute Buehler,378Baker,18 HEREFORD,Secretary of State,,REP,Knute Buehler,65Baker,19 HUNTINGTON,Secretary of State,,REP,Knute Buehler,99Baker,20 IRONDYKE,Secretary of State,,REP,Knute Buehler,26Baker,21  KEATING,Secretary of State,,REP,Knute Buehler,117Baker,22 PINE VALLEY,Secretary of State,,REP,Knute Buehler,266Baker,24 POCA-WING,Secretary of State,,REP,Knute Buehler,472Baker,25 SUMPTER,Secretary of State,,REP,Knute Buehler,150Baker,26 UNITY,Secretary of State,,REP,Knute Buehler,60Baker,1 BAKER #1,Secretary of State,,,Write-ins,1Baker,2 BAKER #2,Secretary of State,,,Write-ins,1Baker,3 BAKER #3,Secretary of State,,,Write-ins,0Baker,4 BAKER #4,Secretary of State,,,Write-ins,0Baker,5 BAKER #5,Secretary of State,,,Write-ins,0Baker,13 BAKER COUNTRY,Secretary of State,,,Write-ins,1Baker,14 DURKEE,Secretary of State,,,Write-ins,1Baker,15 EAGLE VA,Secretary of State,,,Write-ins,1Baker,17 HAINES,Secretary of State,,,Write-ins,0Baker,18 HEREFORD,Secretary of State,,,Write-ins,0Baker,19 HUNTINGTON,Secretary of State,,,Write-ins,0Baker,20 IRONDYKE,Secretary of State,,,Write-ins,0Baker,21  KEATING,Secretary of State,,,Write-ins,0Baker,22 PINE VALLEY,Secretary of State,,,Write-ins,2Baker,24 POCA-WING,Secretary of State,,,Write-ins,0Baker,25 SUMPTER,Secretary of State,,,Write-ins,0Baker,26 UNITY,Secretary of State,,,Write-ins,1Baker,1 BAKER #1,Secretary of State,,,Over Votes,1Baker,2 BAKER #2,Secretary of State,,,Over Votes,0Baker,3 BAKER #3,Secretary of State,,,Over Votes,0Baker,4 BAKER #4,Secretary of State,,,Over Votes,0Baker,5 BAKER #5,Secretary of State,,,Over Votes,0Baker,13 BAKER COUNTRY,Secretary of State,,,Over Votes,0Baker,14 DURKEE,Secretary of State,,,Over Votes,0Baker,15 EAGLE VA,Secretary of State,,,Over Votes,0Baker,17 HAINES,Secretary of State,,,Over Votes,0Baker,18 HEREFORD,Secretary of State,,,Over Votes,0Baker,19 HUNTINGTON,Secretary of State,,,Over Votes,0Baker,20 IRONDYKE,Secretary of State,,,Over Votes,0Baker,21  KEATING,Secretary of State,,,Over Votes,0Baker,22 PINE VALLEY,Secretary of State,,,Over Votes,0Baker,24 POCA-WING,Secretary of State,,,Over Votes,0Baker,25 SUMPTER,Secretary of State,,,Over Votes,0Baker,26 UNITY,Secretary of State,,,Over Votes,0Baker,1 BAKER #1,Secretary of State,,,Under Votes,60Baker,2 BAKER #2,Secretary of State,,,Under Votes,41Baker,3 BAKER #3,Secretary of State,,,Under Votes,51Baker,4 BAKER #4,Secretary of State,,,Under Votes,58Baker,5 BAKER #5,Secretary of State,,,Under Votes,71Baker,13 BAKER COUNTRY,Secretary of State,,,Under Votes,31Baker,14 DURKEE,Secretary of State,,,Under Votes,3Baker,15 EAGLE VA,Secretary of State,,,Under Votes,19Baker,17 HAINES,Secretary of State,,,Under Votes,25Baker,18 HEREFORD,Secretary of State,,,Under Votes,4Baker,19 HUNTINGTON,Secretary of State,,,Under Votes,12Baker,20 IRONDYKE,Secretary of State,,,Under Votes,6Baker,21  KEATING,Secretary of State,,,Under Votes,7Baker,22 PINE VALLEY,Secretary of State,,,Under Votes,45Baker,24 POCA-WING,Secretary of State,,,Under Votes,33Baker,25 SUMPTER,Secretary of State,,,Under Votes,20Baker,26 UNITY,Secretary of State,,,Under Votes,1Baker,1 BAKER #1,State Treasurer,,DEM,Ted Wheeler,314Baker,2  BAKER #2,State Treasurer,,DEM,Ted Wheeler,334Baker,3  BAKER #3,State Treasurer,,DEM,Ted Wheeler,300Baker,4  BAKER #4,State Treasurer,,DEM,Ted Wheeler,374Baker,5  BAKER #5,State Treasurer,,DEM,Ted Wheeler,393Baker,13  BAKER COUNTRY,State Treasurer,,DEM,Ted Wheeler,144Baker,14  DURKEE,State Treasurer,,DEM,Ted Wheeler,12Baker,15  EAGLE VA,State Treasurer,,DEM,Ted Wheeler,121Baker,17  HAINES,State Treasurer,,DEM,Ted Wheeler,127Baker,18  HEREFORD,State Treasurer,,DEM,Ted Wheeler,8Baker,19  HUNTINGTON,State Treasurer,,DEM,Ted Wheeler,104Baker,20  IRONDYKE,State Treasurer,,DEM,Ted Wheeler,21Baker,21  KEATING,State Treasurer,,DEM,Ted Wheeler,30Baker,22  PINE VALLEY,State Treasurer,,DEM,Ted Wheeler,218Baker,24  POCA-WING,State Treasurer,,DEM,Ted Wheeler,205Baker,25  SUMPTER,State Treasurer,,DEM,Ted Wheeler,79Baker,26  UNITY,State Treasurer,,DEM,Ted Wheeler,16Baker,1 BAKER #1,State Treasurer,,PRO,Cameron Whitten,9Baker,2  BAKER #2,State Treasurer,,PRO,Cameron Whitten,10Baker,3  BAKER #3,State Treasurer,,PRO,Cameron Whitten,22Baker,4  BAKER #4,State Treasurer,,PRO,Cameron Whitten,20Baker,5  BAKER #5,State Treasurer,,PRO,Cameron Whitten,10Baker,13  BAKER COUNTRY,State Treasurer,,PRO,Cameron Whitten,1Baker,14  DURKEE,State Treasurer,,PRO,Cameron Whitten,0Baker,15  EAGLE VA,State Treasurer,,PRO,Cameron Whitten,9Baker,17  HAINES,State Treasurer,,PRO,Cameron Whitten,7Baker,18  HEREFORD,State Treasurer,,PRO,Cameron Whitten,1Baker,19  HUNTINGTON,State Treasurer,,PRO,Cameron Whitten,5Baker,20  IRONDYKE,State Treasurer,,PRO,Cameron Whitten,0Baker,21  KEATING,State Treasurer,,PRO,Cameron Whitten,1Baker,22  PINE VALLEY,State Treasurer,,PRO,Cameron Whitten,18Baker,24  POCA-WING,State Treasurer,,PRO,Cameron Whitten,6Baker,25  SUMPTER,State Treasurer,,PRO,Cameron Whitten,5Baker,26  UNITY,State Treasurer,,PRO,Cameron Whitten,2Baker,1 BAKER #1,State Treasurer,,LBT,John F Mahler,13Baker,2  BAKER #2,State Treasurer,,LBT,John F Mahler,27Baker,3  BAKER #3,State Treasurer,,LBT,John F Mahler,23Baker,4  BAKER #4,State Treasurer,,LBT,John F Mahler,23Baker,5  BAKER #5,State Treasurer,,LBT,John F Mahler,10Baker,13  BAKER COUNTRY,State Treasurer,,LBT,John F Mahler,18Baker,14  DURKEE,State Treasurer,,LBT,John F Mahler,1Baker,15  EAGLE VA,State Treasurer,,LBT,John F Mahler,7Baker,17  HAINES,State Treasurer,,LBT,John F Mahler,12Baker,18  HEREFORD,State Treasurer,,LBT,John F Mahler,3Baker,19  HUNTINGTON,State Treasurer,,LBT,John F Mahler,10Baker,20  IRONDYKE,State Treasurer,,LBT,John F Mahler,2Baker,21  KEATING,State Treasurer,,LBT,John F Mahler,0Baker,22  PINE VALLEY,State Treasurer,,LBT,John F Mahler,15Baker,24  POCA-WING,State Treasurer,,LBT,John F Mahler,8Baker,25  SUMPTER,State Treasurer,,LBT,John F Mahler,7Baker,26  UNITY,State Treasurer,,LBT,John F Mahler,1Baker,1 BAKER #1,State Treasurer,,CON,Michael Paul Marsh,13Baker,2  BAKER #2,State Treasurer,,CON,Michael Paul Marsh,7Baker,3  BAKER #3,State Treasurer,,CON,Michael Paul Marsh,20Baker,4  BAKER #4,State Treasurer,,CON,Michael Paul Marsh,9Baker,5  BAKER #5,State Treasurer,,CON,Michael Paul Marsh,9Baker,13  BAKER COUNTRY,State Treasurer,,CON,Michael Paul Marsh,10Baker,14  DURKEE,State Treasurer,,CON,Michael Paul Marsh,2Baker,15  EAGLE VA,State Treasurer,,CON,Michael Paul Marsh,8Baker,17  HAINES,State Treasurer,,CON,Michael Paul Marsh,8Baker,18  HEREFORD,State Treasurer,,CON,Michael Paul Marsh,1Baker,19  HUNTINGTON,State Treasurer,,CON,Michael Paul Marsh,8Baker,20  IRONDYKE,State Treasurer,,CON,Michael Paul Marsh,1Baker,21  KEATING,State Treasurer,,CON,Michael Paul Marsh,1Baker,22  PINE VALLEY,State Treasurer,,CON,Michael Paul Marsh,6Baker,24  POCA-WING,State Treasurer,,CON,Michael Paul Marsh,13Baker,25  SUMPTER,State Treasurer,,CON,Michael Paul Marsh,8Baker,26  UNITY,State Treasurer,,CON,Michael Paul Marsh,1Baker,1 BAKER #1,State Treasurer,,REP,Tom Cox,435Baker,2  BAKER #2,State Treasurer,,REP,Tom Cox,377Baker,3  BAKER #3,State Treasurer,,REP,Tom Cox,449Baker,4  BAKER #4,State Treasurer,,REP,Tom Cox,552Baker,5  BAKER #5,State Treasurer,,REP,Tom Cox,583Baker,13  BAKER COUNTRY,State Treasurer,,REP,Tom Cox,429Baker,14  DURKEE,State Treasurer,,REP,Tom Cox,65Baker,15  EAGLE VA,State Treasurer,,REP,Tom Cox,232Baker,17  HAINES,State Treasurer,,REP,Tom Cox,352Baker,18  HEREFORD,State Treasurer,,REP,Tom Cox,66Baker,19  HUNTINGTON,State Treasurer,,REP,Tom Cox,87Baker,20  IRONDYKE,State Treasurer,,REP,Tom Cox,26Baker,21  KEATING,State Treasurer,,REP,Tom Cox,108Baker,22  PINE VALLEY,State Treasurer,,REP,Tom Cox,255Baker,24  POCA-WING,State Treasurer,,REP,Tom Cox,408Baker,25  SUMPTER,State Treasurer,,REP,Tom Cox,126Baker,26  UNITY,State Treasurer,,REP,Tom Cox,58Baker,1 BAKER #1,State Treasurer,,,Write-ins,0Baker,2  BAKER #2,State Treasurer,,,Write-ins,0Baker,3  BAKER #3,State Treasurer,,,Write-ins,0Baker,4  BAKER #4,State Treasurer,,,Write-ins,1Baker,5  BAKER #5,State Treasurer,,,Write-ins,0Baker,13  BAKER COUNTRY,State Treasurer,,,Write-ins,1Baker,14  DURKEE,State Treasurer,,,Write-ins,1Baker,15  EAGLE VA,State Treasurer,,,Write-ins,1Baker,17  HAINES,State Treasurer,,,Write-ins,0Baker,18  HEREFORD,State Treasurer,,,Write-ins,0Baker,19  HUNTINGTON,State Treasurer,,,Write-ins,1Baker,20  IRONDYKE,State Treasurer,,,Write-ins,0Baker,21  KEATING,State Treasurer,,,Write-ins,0Baker,22  PINE VALLEY,State Treasurer,,,Write-ins,0Baker,24  POCA-WING,State Treasurer,,,Write-ins,1Baker,25  SUMPTER,State Treasurer,,,Write-ins,0Baker,26  UNITY,State Treasurer,,,Write-ins,0Baker,1 BAKER #1,State Treasurer,,,Over Votes,0Baker,2  BAKER #2,State Treasurer,,,Over Votes,0Baker,3  BAKER #3,State Treasurer,,,Over Votes,1Baker,4  BAKER #4,State Treasurer,,,Over Votes,1Baker,5  BAKER #5,State Treasurer,,,Over Votes,0Baker,13  BAKER COUNTRY,State Treasurer,,,Over Votes,0Baker,14  DURKEE,State Treasurer,,,Over Votes,0Baker,15  EAGLE VA,State Treasurer,,,Over Votes,0Baker,17  HAINES,State Treasurer,,,Over Votes,0Baker,18  HEREFORD,State Treasurer,,,Over Votes,0Baker,19  HUNTINGTON,State Treasurer,,,Over Votes,0Baker,20  IRONDYKE,State Treasurer,,,Over Votes,0Baker,21  KEATING,State Treasurer,,,Over Votes,0Baker,22  PINE VALLEY,State Treasurer,,,Over Votes,0Baker,24  POCA-WING,State Treasurer,,,Over Votes,0Baker,25  SUMPTER,State Treasurer,,,Over Votes,0Baker,26  UNITY,State Treasurer,,,Over Votes,0Baker,1 BAKER #1,State Treasurer,,,Under Votes,95Baker,2  BAKER #2,State Treasurer,,,Under Votes,53Baker,3  BAKER #3,State Treasurer,,,Under Votes,62Baker,4  BAKER #4,State Treasurer,,,Under Votes,95Baker,5  BAKER #5,State Treasurer,,,Under Votes,103Baker,13  BAKER COUNTRY,State Treasurer,,,Under Votes,53Baker,14  DURKEE,State Treasurer,,,Under Votes,3Baker,15  EAGLE VA,State Treasurer,,,Under Votes,32Baker,17  HAINES,State Treasurer,,,Under Votes,42Baker,18  HEREFORD,State Treasurer,,,Under Votes,4Baker,19  HUNTINGTON,State Treasurer,,,Under Votes,19Baker,20  IRONDYKE,State Treasurer,,,Under Votes,7Baker,21  KEATING,State Treasurer,,,Under Votes,10Baker,22  PINE VALLEY,State Treasurer,,,Under Votes,48Baker,24  POCA-WING,State Treasurer,,,Under Votes,58Baker,25  SUMPTER,State Treasurer,,,Under Votes,31Baker,26  UNITY,State Treasurer,,,Under Votes,4Baker,1 BAKER #1,Attorney General,,PRO,Chris Henry,14Baker,2  BAKER #2,Attorney General,,PRO,Chris Henry,16Baker,3  BAKER #3,Attorney General,,PRO,Chris Henry,17Baker,4  BAKER #4,Attorney General,,PRO,Chris Henry,16Baker,5 BAKER #5,Attorney General,,PRO,Chris Henry,16Baker,13 BAKER COUNTRY,Attorney General,,PRO,Chris Henry,3Baker,14 DURKEE,Attorney General,,PRO,Chris Henry,0Baker,15 EAGLE VA,Attorney General,,PRO,Chris Henry,8Baker,17  HAINES,Attorney General,,PRO,Chris Henry,4Baker,18  HEREFORD,Attorney General,,PRO,Chris Henry,1Baker,19  HUNTINGTON,Attorney General,,PRO,Chris Henry,4Baker,20  IRONDYKE,Attorney General,,PRO,Chris Henry,0Baker,21  KEATING,Attorney General,,PRO,Chris Henry,1Baker,22  PINE VALLEY,Attorney General,,PRO,Chris Henry,7Baker,24  POCA-WING,Attorney General,,PRO,Chris Henry,2Baker,25  SUMPTER,Attorney General,,PRO,Chris Henry,7Baker,26  UNITY,Attorney General,,PRO,Chris Henry,0Baker,1 BAKER #1,Attorney General,,REP,James L. Buchal,408Baker,2  BAKER #2,Attorney General,,REP,James L. Buchal,375Baker,3  BAKER #3,Attorney General,,REP,James L. Buchal,463Baker,4  BAKER #4,Attorney General,,REP,James L. Buchal,566Baker,5 BAKER #5,Attorney General,,REP,James L. Buchal,578Baker,13 BAKER COUNTRY,Attorney General,,REP,James L. Buchal,410Baker,14 DURKEE,Attorney General,,REP,James L. Buchal,65Baker,15 EAGLE VA,Attorney General,,REP,James L. Buchal,241Baker,17  HAINES,Attorney General,,REP,James L. Buchal,351Baker,18  HEREFORD,Attorney General,,REP,James L. Buchal,61Baker,19  HUNTINGTON,Attorney General,,REP,James L. Buchal,86Baker,20  IRONDYKE,Attorney General,,REP,James L. Buchal,25Baker,21  KEATING,Attorney General,,REP,James L. Buchal,108Baker,22  PINE VALLEY,Attorney General,,REP,James L. Buchal,257Baker,24  POCA-WING,Attorney General,,REP,James L. Buchal,414Baker,25  SUMPTER,Attorney General,,REP,James L. Buchal,133Baker,26  UNITY,Attorney General,,REP,James L. Buchal,57Baker,1 BAKER #1,Attorney General,,CON,James E. Leuenberger,52Baker,2  BAKER #2,Attorney General,,CON,James E. Leuenberger,47Baker,3  BAKER #3,Attorney General,,CON,James E. Leuenberger,46Baker,4  BAKER #4,Attorney General,,CON,James E. Leuenberger,44Baker,5 BAKER #5,Attorney General,,CON,James E. Leuenberger,29Baker,13 BAKER COUNTRY,Attorney General,,CON,James E. Leuenberger,33Baker,14 DURKEE,Attorney General,,CON,James E. Leuenberger,3Baker,15 EAGLE VA,Attorney General,,CON,James E. Leuenberger,20Baker,17  HAINES,Attorney General,,CON,James E. Leuenberger,13Baker,18  HEREFORD,Attorney General,,CON,James E. Leuenberger,7Baker,19  HUNTINGTON,Attorney General,,CON,James E. Leuenberger,19Baker,20  IRONDYKE,Attorney General,,CON,James E. Leuenberger,3Baker,21  KEATING,Attorney General,,CON,James E. Leuenberger,4Baker,22  PINE VALLEY,Attorney General,,CON,James E. Leuenberger,21Baker,24  POCA-WING,Attorney General,,CON,James E. Leuenberger,27Baker,25  SUMPTER,Attorney General,,CON,James E. Leuenberger,12Baker,26  UNITY,Attorney General,,CON,James E. Leuenberger,4Baker,1 BAKER #1,Attorney General,,DEM,Ellen Rosenblum,294Baker,2  BAKER #2,Attorney General,,DEM,Ellen Rosenblum,299Baker,3  BAKER #3,Attorney General,,DEM,Ellen Rosenblum,286Baker,4  BAKER #4,Attorney General,,DEM,Ellen Rosenblum,344Baker,5 BAKER #5,Attorney General,,DEM,Ellen Rosenblum,353Baker,13 BAKER COUNTRY,Attorney General,,DEM,Ellen Rosenblum,131Baker,14 DURKEE,Attorney General,,DEM,Ellen Rosenblum,12Baker,15 EAGLE VA,Attorney General,,DEM,Ellen Rosenblum,107Baker,17  HAINES,Attorney General,,DEM,Ellen Rosenblum,129Baker,18  HEREFORD,Attorney General,,DEM,Ellen Rosenblum,9Baker,19  HUNTINGTON,Attorney General,,DEM,Ellen Rosenblum,98Baker,20  IRONDYKE,Attorney General,,DEM,Ellen Rosenblum,23Baker,21  KEATING,Attorney General,,DEM,Ellen Rosenblum,27Baker,22  PINE VALLEY,Attorney General,,DEM,Ellen Rosenblum,210Baker,24  POCA-WING,Attorney General,,DEM,Ellen Rosenblum,187Baker,25  SUMPTER,Attorney General,,DEM,Ellen Rosenblum,67Baker,26  UNITY,Attorney General,,DEM,Ellen Rosenblum,17Baker,1 BAKER #1,Attorney General,,,Write-ins,1Baker,2  BAKER #2,Attorney General,,,Write-ins,1Baker,3  BAKER #3,Attorney General,,,Write-ins,1Baker,4  BAKER #4,Attorney General,,,Write-ins,0Baker,5 BAKER #5,Attorney General,,,Write-ins,0Baker,13 BAKER COUNTRY,Attorney General,,,Write-ins,2Baker,14 DURKEE,Attorney General,,,Write-ins,0Baker,15 EAGLE VA,Attorney General,,,Write-ins,1Baker,17  HAINES,Attorney General,,,Write-ins,0Baker,18  HEREFORD,Attorney General,,,Write-ins,0Baker,19  HUNTINGTON,Attorney General,,,Write-ins,0Baker,20  IRONDYKE,Attorney General,,,Write-ins,0Baker,21  KEATING,Attorney General,,,Write-ins,0Baker,22  PINE VALLEY,Attorney General,,,Write-ins,0Baker,24  POCA-WING,Attorney General,,,Write-ins,0Baker,25  SUMPTER,Attorney General,,,Write-ins,0Baker,26  UNITY,Attorney General,,,Write-ins,0Baker,1 BAKER #1,Attorney General,,,Over Votes,0Baker,2  BAKER #2,Attorney General,,,Over Votes,0Baker,3  BAKER #3,Attorney General,,,Over Votes,0Baker,4  BAKER #4,Attorney General,,,Over Votes,0Baker,5 BAKER #5,Attorney General,,,Over Votes,0Baker,13 BAKER COUNTRY,Attorney General,,,Over Votes,0Baker,14 DURKEE,Attorney General,,,Over Votes,0Baker,15 EAGLE VA,Attorney General,,,Over Votes,0Baker,17  HAINES,Attorney General,,,Over Votes,0Baker,18  HEREFORD,Attorney General,,,Over Votes,0Baker,19  HUNTINGTON,Attorney General,,,Over Votes,0Baker,20  IRONDYKE,Attorney General,,,Over Votes,0Baker,21  KEATING,Attorney General,,,Over Votes,0Baker,22  PINE VALLEY,Attorney General,,,Over Votes,0Baker,24  POCA-WING,Attorney General,,,Over Votes,0Baker,25  SUMPTER,Attorney General,,,Over Votes,0Baker,26  UNITY,Attorney General,,,Over Votes,0Baker,1 BAKER #1,Attorney General,,,Under Votes,110Baker,2  BAKER #2,Attorney General,,,Under Votes,70Baker,3  BAKER #3,Attorney General,,,Under Votes,64Baker,4  BAKER #4,Attorney General,,,Under Votes,105Baker,5 BAKER #5,Attorney General,,,Under Votes,132Baker,13 BAKER COUNTRY,Attorney General,,,Under Votes,77Baker,14 DURKEE,Attorney General,,,Under Votes,4Baker,15 EAGLE VA,Attorney General,,,Under Votes,33Baker,17  HAINES,Attorney General,,,Under Votes,51Baker,18  HEREFORD,Attorney General,,,Under Votes,5Baker,19  HUNTINGTON,Attorney General,,,Under Votes,27Baker,20  IRONDYKE,Attorney General,,,Under Votes,6Baker,21  KEATING,Attorney General,,,Under Votes,10Baker,22  PINE VALLEY,Attorney General,,,Under Votes,65Baker,24  POCA-WING,Attorney General,,,Under Votes,69Baker,25  SUMPTER,Attorney General,,,Under Votes,37Baker,26  UNITY,Attorney General,,,Under Votes,4Baker,1 BAKER #1,State Senate,30,REP,Ted Ferrioli,641Baker,2 BAKER #2,State Senate,30,REP,Ted Ferrioli,594Baker,3 BAKER #3,State Senate,30,REP,Ted Ferrioli,637Baker,4 BAKER #4,State Senate,30,REP,Ted Ferrioli,821Baker,5 BAKER #5,State Senate,30,REP,Ted Ferrioli,830Baker,13 BAKER COUNTRY,State Senate,30,REP,Ted Ferrioli,509Baker,14 DURKEE,State Senate,30,REP,Ted Ferrioli,70Baker,15 EAGLE VA,State Senate,30,REP,Ted Ferrioli,317Baker,17 HAINES,State Senate,30,REP,Ted Ferrioli,424Baker,18 HEREFORD,State Senate,30,REP,Ted Ferrioli,72Baker,19 HUNTINGTON,State Senate,30,REP,Ted Ferrioli,168Baker,20 IRONDYKE,State Senate,30,REP,Ted Ferrioli,38Baker,21  KEATING,State Senate,30,REP,Ted Ferrioli,130Baker,22 PINE VALLEY,State Senate,30,REP,Ted Ferrioli,384Baker,24 POCA-WING,State Senate,30,REP,Ted Ferrioli,531Baker,25 SUMPTER,State Senate,30,REP,Ted Ferrioli,161Baker,26 UNITY,State Senate,30,REP,Ted Ferrioli,72Baker,1 BAKER #1,State Senate,30,,Write-ins,9Baker,2 BAKER #2,State Senate,30,,Write-ins,10Baker,3 BAKER #3,State Senate,30,,Write-ins,14Baker,4 BAKER #4,State Senate,30,,Write-ins,7Baker,5 BAKER #5,State Senate,30,,Write-ins,9Baker,13 BAKER COUNTRY,State Senate,30,,Write-ins,5Baker,14 DURKEE,State Senate,30,,Write-ins,0Baker,15 EAGLE VA,State Senate,30,,Write-ins,4Baker,17 HAINES,State Senate,30,,Write-ins,4Baker,18 HEREFORD,State Senate,30,,Write-ins,0Baker,19 HUNTINGTON,State Senate,30,,Write-ins,2Baker,20 IRONDYKE,State Senate,30,,Write-ins,1Baker,21  KEATING,State Senate,30,,Write-ins,0Baker,22 PINE VALLEY,State Senate,30,,Write-ins,5Baker,24 POCA-WING,State Senate,30,,Write-ins,5Baker,25 SUMPTER,State Senate,30,,Write-ins,2Baker,26 UNITY,State Senate,30,,Write-ins,0Baker,1 BAKER #1,State Senate,30,,Under Votes,229Baker,2 BAKER #2,State Senate,30,,Under Votes,204Baker,3 BAKER #3,State Senate,30,,Under Votes,226Baker,4 BAKER #4,State Senate,30,,Under Votes,247Baker,5 BAKER #5,State Senate,30,,Under Votes,269Baker,13 BAKER COUNTRY,State Senate,30,,Under Votes,142Baker,14 DURKEE,State Senate,30,,Under Votes,14Baker,15 EAGLE VA,State Senate,30,,Under Votes,89Baker,17 HAINES,State Senate,30,,Under Votes,120Baker,18 HEREFORD,State Senate,30,,Under Votes,11Baker,19 HUNTINGTON,State Senate,30,,Under Votes,64Baker,20 IRONDYKE,State Senate,30,,Under Votes,18Baker,21  KEATING,State Senate,30,,Under Votes,20Baker,22 PINE VALLEY,State Senate,30,,Under Votes,171Baker,24 POCA-WING,State Senate,30,,Under Votes,163Baker,25 SUMPTER,State Senate,30,,Under Votes,93Baker,26 UNITY,State Senate,30,,Under Votes,10Baker,1  BAKER #1,State House,60,REP,Cliff Bentz,643Baker,2  BAKER #2,State House,60,REP,Cliff Bentz,591Baker,3  BAKER #3,State House,60,REP,Cliff Bentz,621Baker,4  BAKER #4,State House,60,REP,Cliff Bentz,792Baker,5  BAKER #5,State House,60,REP,Cliff Bentz,831Baker,13  BAKER COUNTRY,State House,60,REP,Cliff Bentz,518Baker,14  DURKEE,State House,60,REP,Cliff Bentz,70Baker,15  EAGLE VA,State House,60,REP,Cliff Bentz,319Baker,17  HAINES,State House,60,REP,Cliff Bentz,430Baker,18  HEREFORD,State House,60,REP,Cliff Bentz,77Baker,19  HUNTINGTON,State House,60,REP,Cliff Bentz,167Baker,20  IRONDYKE,State House,60,REP,Cliff Bentz,33Baker,21  KEATING,State House,60,REP,Cliff Bentz,138Baker,22  PINE VALLEY,State House,60,REP,Cliff Bentz,371Baker,24  POCA-WING,State House,60,REP,Cliff Bentz,524Baker,25 SUMPTER,State House,60,REP,Cliff Bentz,166Baker,26  UNITY,State House,60,REP,Cliff Bentz,72Baker,1  BAKER #1,State House,60,,Write-ins,5Baker,2  BAKER #2,State House,60,,Write-ins,6Baker,3  BAKER #3,State House,60,,Write-ins,13Baker,4  BAKER #4,State House,60,,Write-ins,12Baker,5  BAKER #5,State House,60,,Write-ins,11Baker,13  BAKER COUNTRY,State House,60,,Write-ins,5Baker,14  DURKEE,State House,60,,Write-ins,1Baker,15  EAGLE VA,State House,60,,Write-ins,5Baker,17  HAINES,State House,60,,Write-ins,4Baker,18  HEREFORD,State House,60,,Write-ins,0Baker,19  HUNTINGTON,State House,60,,Write-ins,1Baker,20  IRONDYKE,State House,60,,Write-ins,2Baker,21  KEATING,State House,60,,Write-ins,0Baker,22  PINE VALLEY,State House,60,,Write-ins,2Baker,24  POCA-WING,State House,60,,Write-ins,4Baker,25 SUMPTER,State House,60,,Write-ins,2Baker,26  UNITY,State House,60,,Write-ins,2Baker,1  BAKER #1,State House,60,,Over Votes,0Baker,2  BAKER #2,State House,60,,Over Votes,0Baker,3  BAKER #3,State House,60,,Over Votes,0Baker,4  BAKER #4,State House,60,,Over Votes,0Baker,5  BAKER #5,State House,60,,Over Votes,0Baker,13  BAKER COUNTRY,State House,60,,Over Votes,0Baker,14  DURKEE,State House,60,,Over Votes,0Baker,15  EAGLE VA,State House,60,,Over Votes,0Baker,17  HAINES,State House,60,,Over Votes,0Baker,18  HEREFORD,State House,60,,Over Votes,0Baker,19  HUNTINGTON,State House,60,,Over Votes,0Baker,20  IRONDYKE,State House,60,,Over Votes,0Baker,21  KEATING,State House,60,,Over Votes,0Baker,22  PINE VALLEY,State House,60,,Over Votes,0Baker,24  POCA-WING,State House,60,,Over Votes,0Baker,25 SUMPTER,State House,60,,Over Votes,0Baker,26  UNITY,State House,60,,Over Votes,0Baker,1  BAKER #1,State House,60,,Under Votes,231Baker,2  BAKER #2,State House,60,,Under Votes,211Baker,3  BAKER #3,State House,60,,Under Votes,243Baker,4  BAKER #4,State House,60,,Under Votes,271Baker,5  BAKER #5,State House,60,,Under Votes,266Baker,13  BAKER COUNTRY,State House,60,,Under Votes,133Baker,14  DURKEE,State House,60,,Under Votes,13Baker,15  EAGLE VA,State House,60,,Under Votes,86Baker,17  HAINES,State House,60,,Under Votes,114Baker,18  HEREFORD,State House,60,,Under Votes,6Baker,19  HUNTINGTON,State House,60,,Under Votes,66Baker,20  IRONDYKE,State House,60,,Under Votes,22Baker,21  KEATING,State House,60,,Under Votes,12Baker,22  PINE VALLEY,State House,60,,Under Votes,187Baker,24  POCA-WING,State House,60,,Under Votes,171Baker,25 SUMPTER,State House,60,,Under Votes,88Baker,26  UNITY,State House,60,,Under Votes,8
+county,precinct,office,district,party,candidate,votes
+Baker,1 BAKER #1,President,,DEM,Barack Obama,285
+Baker,2  BAKER #2,President,,DEM,Barack Obama,281
+Baker,3  BAKER #3,President,,DEM,Barack Obama,247
+Baker,4  BAKER #4,President,,DEM,Barack Obama,318
+Baker,5  BAKER #5,President,,DEM,Barack Obama,305
+Baker,13  BAKER COUNTRY,President,,DEM,Barack Obama,100
+Baker,14  DURKEE,President,,DEM,Barack Obama,6
+Baker,15  EAGLE VA,President,,DEM,Barack Obama,90
+Baker,17  HAINES,President,,DEM,Barack Obama,119
+Baker,18  HEREFORD,President,,DEM,Barack Obama,5
+Baker,19  HUNTINGTON,President,,DEM,Barack Obama,90
+Baker,20  IRONDYKE,President,,DEM,Barack Obama,20
+Baker,21  KEATING,President,,DEM,Barack Obama,20
+Baker,22  PINE VALLEY,President,,DEM,Barack Obama,213
+Baker,24  POCA-WI NO,President,,DEM,Barack Obama,185
+Baker,25  SUMPTER,President,,DEM,Barack Obama,70
+Baker,26  UNITY,President,,DEM,Barack Obama,15
+Baker,1 BAKER #1,President,,PAC,Jill Stein,10
+Baker,2  BAKER #2,President,,PAC,Jill Stein,7
+Baker,3  BAKER #3,President,,PAC,Jill Stein,15
+Baker,4  BAKER #4,President,,PAC,Jill Stein,11
+Baker,5  BAKER #5,President,,PAC,Jill Stein,11
+Baker,13  BAKER COUNTRY,President,,PAC,Jill Stein,3
+Baker,14  DURKEE,President,,PAC,Jill Stein,2
+Baker,15  EAGLE VA,President,,PAC,Jill Stein,9
+Baker,17  HAINES,President,,PAC,Jill Stein,6
+Baker,18  HEREFORD,President,,PAC,Jill Stein,0
+Baker,19  HUNTINGTON,President,,PAC,Jill Stein,6
+Baker,20  IRONDYKE,President,,PAC,Jill Stein,0
+Baker,21  KEATING,President,,PAC,Jill Stein,0
+Baker,22  PINE VALLEY,President,,PAC,Jill Stein,6
+Baker,24  POCA-WI NO,President,,PAC,Jill Stein,4
+Baker,25  SUMPTER,President,,PAC,Jill Stein,0.0
+Baker,26  UNITY,President,,PAC,Jill Stein,1
+Baker,1 BAKER #1,President,,PRO,Ross C (Rocky) Anderson,3
+Baker,2  BAKER #2,President,,PRO,Ross C (Rocky) Anderson,3
+Baker,3  BAKER #3,President,,PRO,Ross C (Rocky) Anderson,4
+Baker,4  BAKER #4,President,,PRO,Ross C (Rocky) Anderson,2
+Baker,5  BAKER #5,President,,PRO,Ross C (Rocky) Anderson,2
+Baker,13  BAKER COUNTRY,President,,PRO,Ross C (Rocky) Anderson,1
+Baker,14  DURKEE,President,,PRO,Ross C (Rocky) Anderson,0
+Baker,15  EAGLE VA,President,,PRO,Ross C (Rocky) Anderson,2
+Baker,17  HAINES,President,,PRO,Ross C (Rocky) Anderson,0
+Baker,18  HEREFORD,President,,PRO,Ross C (Rocky) Anderson,0
+Baker,19  HUNTINGTON,President,,PRO,Ross C (Rocky) Anderson,1
+Baker,20  IRONDYKE,President,,PRO,Ross C (Rocky) Anderson,0
+Baker,21  KEATING,President,,PRO,Ross C (Rocky) Anderson,2
+Baker,22  PINE VALLEY,President,,PRO,Ross C (Rocky) Anderson,1
+Baker,24  POCA-WI NO,President,,PRO,Ross C (Rocky) Anderson,0
+Baker,25  SUMPTER,President,,PRO,Ross C (Rocky) Anderson,1
+Baker,26  UNITY,President,,PRO,Ross C (Rocky) Anderson,0
+Baker,1 BAKER #1,President,,LBT,Gary Johnson,15
+Baker,2  BAKER #2,President,,LBT,Gary Johnson,19
+Baker,3  BAKER #3,President,,LBT,Gary Johnson,19
+Baker,4  BAKER #4,President,,LBT,Gary Johnson,15
+Baker,5  BAKER #5,President,,LBT,Gary Johnson,10
+Baker,13  BAKER COUNTRY,President,,LBT,Gary Johnson,13
+Baker,14  DURKEE,President,,LBT,Gary Johnson,0
+Baker,15  EAGLE VA,President,,LBT,Gary Johnson,5
+Baker,17  HAINES,President,,LBT,Gary Johnson,4
+Baker,18  HEREFORD,President,,LBT,Gary Johnson,2
+Baker,19  HUNTINGTON,President,,LBT,Gary Johnson,9
+Baker,20  IRONDYKE,President,,LBT,Gary Johnson,0
+Baker,21  KEATING,President,,LBT,Gary Johnson,4
+Baker,22  PINE VALLEY,President,,LBT,Gary Johnson,11
+Baker,24  POCA-WI NO,President,,LBT,Gary Johnson,8
+Baker,25  SUMPTER,President,,LBT,Gary Johnson,8
+Baker,26  UNITY,President,,LBT,Gary Johnson,0
+Baker,1 BAKER #1,President,,REP,Mitt Romney,540
+Baker,2  BAKER #2,President,,REP,Mitt Romney,477
+Baker,3  BAKER #3,President,,REP,Mitt Romney,573
+Baker,4  BAKER #4,President,,REP,Mitt Romney,704
+Baker,5  BAKER #5,President,,REP,Mitt Romney,741
+Baker,13  BAKER COUNTRY,President,,REP,Mitt Romney,524
+Baker,14  DURKEE,President,,REP,Mitt Romney,75
+Baker,15  EAGLE VA,President,,REP,Mitt Romney,290
+Baker,17  HAINES,President,,REP,Mitt Romney,409
+Baker,18  HEREFORD,President,,REP,Mitt Romney,73
+Baker,19  HUNTINGTON,President,,REP,Mitt Romney,114
+Baker,20  IRONDYKE,President,,REP,Mitt Romney,34
+Baker,21  KEATING,President,,REP,Mitt Romney,120
+Baker,22  PINE VALLEY,President,,REP,Mitt Romney,314
+Baker,24  POCA-WI NO,President,,REP,Mitt Romney,487
+Baker,25  SUMPTER,President,,REP,Mitt Romney,162
+Baker,26  UNITY,President,,REP,Mitt Romney,65
+Baker,1 BAKER #1,President,,CON,Will Christensen Write-in,8
+Baker,2  BAKER #2,President,,CON,Will Christensen Write-in,6
+Baker,3  BAKER #3,President,,CON,Will Christensen Write-in,5
+Baker,4  BAKER #4,President,,CON,Will Christensen Write-in,2
+Baker,5  BAKER #5,President,,CON,Will Christensen Write-in,4
+Baker,13  BAKER COUNTRY,President,,CON,Will Christensen Write-in,2
+Baker,14  DURKEE,President,,CON,Will Christensen Write-in,1
+Baker,15  EAGLE VA,President,,CON,Will Christensen Write-in,2
+Baker,17  HAINES,President,,CON,Will Christensen Write-in,2
+Baker,18  HEREFORD,President,,CON,Will Christensen Write-in,0
+Baker,19  HUNTINGTON,President,,CON,Will Christensen Write-in,2
+Baker,20  IRONDYKE,President,,CON,Will Christensen Write-in,0
+Baker,21  KEATING,President,,CON,Will Christensen Write-in,1
+Baker,22  PINE VALLEY,President,,CON,Will Christensen Write-in,3
+Baker,24  POCA-WI NO,President,,CON,Will Christensen Write-in,1
+Baker,25  SUMPTER,President,,CON,Will Christensen Write-in,2
+Baker,26  UNITY,President,,CON,Will Christensen Write-in,0
+Baker,1 BAKER #1,President,,,Write-ins,7
+Baker,2  BAKER #2,President,,,Write-ins,6
+Baker,3  BAKER #3,President,,,Write-ins,6
+Baker,4  BAKER #4,President,,,Write-ins,6
+Baker,5  BAKER #5,President,,,Write-ins,13
+Baker,13  BAKER COUNTRY,President,,,Write-ins,6
+Baker,14  DURKEE,President,,,Write-ins,0
+Baker,15  EAGLE VA,President,,,Write-ins,7
+Baker,17  HAINES,President,,,Write-ins,5
+Baker,18  HEREFORD,President,,,Write-ins,1
+Baker,19  HUNTINGTON,President,,,Write-ins,1
+Baker,20  IRONDYKE,President,,,Write-ins,0
+Baker,21  KEATING,President,,,Write-ins,2
+Baker,22  PINE VALLEY,President,,,Write-ins,6
+Baker,24  POCA-WI NO,President,,,Write-ins,6
+Baker,25  SUMPTER,President,,,Write-ins,9
+Baker,26  UNITY,President,,,Write-ins,0
+Baker,1 BAKER #1,President,,,Over Votes,2
+Baker,2  BAKER #2,President,,,Over Votes,0
+Baker,3  BAKER #3,President,,,Over Votes,1
+Baker,4  BAKER #4,President,,,Over Votes,0
+Baker,5  BAKER #5,President,,,Over Votes,1
+Baker,13  BAKER COUNTRY,President,,,Over Votes,0
+Baker,14  DURKEE,President,,,Over Votes,0
+Baker,15  EAGLE VA,President,,,Over Votes,0
+Baker,17  HAINES,President,,,Over Votes,0
+Baker,18  HEREFORD,President,,,Over Votes,0
+Baker,19  HUNTINGTON,President,,,Over Votes,0
+Baker,20  IRONDYKE,President,,,Over Votes,2
+Baker,21  KEATING,President,,,Over Votes,0
+Baker,22  PINE VALLEY,President,,,Over Votes,0
+Baker,24  POCA-WI NO,President,,,Over Votes,0
+Baker,25  SUMPTER,President,,,Over Votes,0
+Baker,26  UNITY,President,,,Over Votes,0
+Baker,1 BAKER #1,President,,,Under Votes,9
+Baker,2  BAKER #2,President,,,Under Votes,9
+Baker,3  BAKER #3,President,,,Under Votes,7
+Baker,4  BAKER #4,President,,,Under Votes,17
+Baker,5  BAKER #5,President,,,Under Votes,21
+Baker,13  BAKER COUNTRY,President,,,Under Votes,7
+Baker,14  DURKEE,President,,,Under Votes,0
+Baker,15  EAGLE VA,President,,,Under Votes,5
+Baker,17  HAINES,President,,,Under Votes,3
+Baker,18  HEREFORD,President,,,Under Votes,2
+Baker,19  HUNTINGTON,President,,,Under Votes,11
+Baker,20  IRONDYKE,President,,,Under Votes,1
+Baker,21  KEATING,President,,,Under Votes,1
+Baker,22  PINE VALLEY,President,,,Under Votes,6
+Baker,24  POCA-WI NO,President,,,Under Votes,8
+Baker,25  SUMPTER,President,,,Under Votes,4
+Baker,26  UNITY,President,,,Under Votes,1
+Baker,1 BAKER #1,U.S. House,2,DEM,Joyce B Segers,200
+Baker,2  BAKER #2,U.S. House,2,DEM,Joyce B Segers,196
+Baker,3  BAKER #3,U.S. House,2,DEM,Joyce B Segers,206
+Baker,4  BAKER #4,U.S. House,2,DEM,Joyce B Segers,216
+Baker,5  BAKER #5,U.S. House,2,DEM,Joyce B Segers,216
+Baker,13  BAKER COUNTRY,U.S. House,2,DEM,Joyce B Segers,65
+Baker,14  DURKEE,U.S. House,2,DEM,Joyce B Segers,9
+Baker,15  EAGLE VA,U.S. House,2,DEM,Joyce B Segers,68
+Baker,17  HAINES,U.S. House,2,DEM,Joyce B Segers,69
+Baker,18  HEREFORD,U.S. House,2,DEM,Joyce B Segers,7
+Baker,19  HUNTINGTON,U.S. House,2,DEM,Joyce B Segers,79
+Baker,20  IRONDYKE,U.S. House,2,DEM,Joyce B Segers,21
+Baker,21  KEATING,U.S. House,2,DEM,Joyce B Segers,12
+Baker,22  PINE VALLEY,U.S. House,2,DEM,Joyce B Segers,147
+Baker,24  POCA-WING,U.S. House,2,DEM,Joyce B Segers,129
+Baker,25 SUMPTER,U.S. House,2,DEM,Joyce B Segers,42
+Baker,26  UNITY,U.S. House,2,DEM,Joyce B Segers,10
+Baker,1 BAKER #1,U.S. House,2,REP,Greg Walden,624
+Baker,2  BAKER #2,U.S. House,2,REP,Greg Walden,557
+Baker,3  BAKER #3,U.S. House,2,REP,Greg Walden,612
+Baker,4  BAKER #4,U.S. House,2,REP,Greg Walden,796
+Baker,5  BAKER #5,U.S. House,2,REP,Greg Walden,826
+Baker,13  BAKER COUNTRY,U.S. House,2,REP,Greg Walden,550
+Baker,14  DURKEE,U.S. House,2,REP,Greg Walden,69
+Baker,15  EAGLE VA,U.S. House,2,REP,Greg Walden,315
+Baker,17  HAINES,U.S. House,2,REP,Greg Walden,453
+Baker,18  HEREFORD,U.S. House,2,REP,Greg Walden,69
+Baker,19  HUNTINGTON,U.S. House,2,REP,Greg Walden,127
+Baker,20  IRONDYKE,U.S. House,2,REP,Greg Walden,28
+Baker,21  KEATING,U.S. House,2,REP,Greg Walden,132
+Baker,22  PINE VALLEY,U.S. House,2,REP,Greg Walden,373
+Baker,24  POCA-WING,U.S. House,2,REP,Greg Walden,538
+Baker,25 SUMPTER,U.S. House,2,REP,Greg Walden,185
+Baker,26  UNITY,U.S. House,2,REP,Greg Walden,69
+Baker,1 BAKER #1,U.S. House,2,LBT,Joe Tabor,17
+Baker,2  BAKER #2,U.S. House,2,LBT,Joe Tabor,28
+Baker,3  BAKER #3,U.S. House,2,LBT,Joe Tabor,24
+Baker,4  BAKER #4,U.S. House,2,LBT,Joe Tabor,15
+Baker,5  BAKER #5,U.S. House,2,LBT,Joe Tabor,16
+Baker,13  BAKER COUNTRY,U.S. House,2,LBT,Joe Tabor,12
+Baker,14  DURKEE,U.S. House,2,LBT,Joe Tabor,2
+Baker,15  EAGLE VA,U.S. House,2,LBT,Joe Tabor,9
+Baker,17  HAINES,U.S. House,2,LBT,Joe Tabor,6
+Baker,18  HEREFORD,U.S. House,2,LBT,Joe Tabor,3
+Baker,19  HUNTINGTON,U.S. House,2,LBT,Joe Tabor,10
+Baker,20  IRONDYKE,U.S. House,2,LBT,Joe Tabor,3
+Baker,21  KEATING,U.S. House,2,LBT,Joe Tabor,2
+Baker,22  PINE VALLEY,U.S. House,2,LBT,Joe Tabor,16
+Baker,24  POCA-WING,U.S. House,2,LBT,Joe Tabor,13
+Baker,25 SUMPTER,U.S. House,2,LBT,Joe Tabor,7
+Baker,26  UNITY,U.S. House,2,LBT,Joe Tabor,0
+Baker,1 BAKER #1,U.S. House,2,,Write-ins,2
+Baker,2  BAKER #2,U.S. House,2,,Write-ins,0
+Baker,3  BAKER #3,U.S. House,2,,Write-ins,2
+Baker,4  BAKER #4,U.S. House,2,,Write-ins,0
+Baker,5  BAKER #5,U.S. House,2,,Write-ins,0
+Baker,13  BAKER COUNTRY,U.S. House,2,,Write-ins,3
+Baker,14  DURKEE,U.S. House,2,,Write-ins,0
+Baker,15  EAGLE VA,U.S. House,2,,Write-ins,2
+Baker,17  HAINES,U.S. House,2,,Write-ins,0
+Baker,18  HEREFORD,U.S. House,2,,Write-ins,0
+Baker,19  HUNTINGTON,U.S. House,2,,Write-ins,0
+Baker,20  IRONDYKE,U.S. House,2,,Write-ins,0
+Baker,21  KEATING,U.S. House,2,,Write-ins,0
+Baker,22  PINE VALLEY,U.S. House,2,,Write-ins,0
+Baker,24  POCA-WING,U.S. House,2,,Write-ins,1
+Baker,25 SUMPTER,U.S. House,2,,Write-ins,0
+Baker,26  UNITY,U.S. House,2,,Write-ins,0
+Baker,1 BAKER #1,U.S. House,2,,Over Votes,0
+Baker,2  BAKER #2,U.S. House,2,,Over Votes,0
+Baker,3  BAKER #3,U.S. House,2,,Over Votes,0
+Baker,4  BAKER #4,U.S. House,2,,Over Votes,0
+Baker,5  BAKER #5,U.S. House,2,,Over Votes,0
+Baker,13  BAKER COUNTRY,U.S. House,2,,Over Votes,0
+Baker,14  DURKEE,U.S. House,2,,Over Votes,0
+Baker,15  EAGLE VA,U.S. House,2,,Over Votes,0
+Baker,17  HAINES,U.S. House,2,,Over Votes,0
+Baker,18  HEREFORD,U.S. House,2,,Over Votes,0
+Baker,19  HUNTINGTON,U.S. House,2,,Over Votes,0
+Baker,20  IRONDYKE,U.S. House,2,,Over Votes,0
+Baker,21  KEATING,U.S. House,2,,Over Votes,0
+Baker,22  PINE VALLEY,U.S. House,2,,Over Votes,0
+Baker,24  POCA-WING,U.S. House,2,,Over Votes,0
+Baker,25 SUMPTER,U.S. House,2,,Over Votes,0
+Baker,26  UNITY,U.S. House,2,,Over Votes,0
+Baker,1 BAKER #1,U.S. House,2,,Under Votes,36
+Baker,2  BAKER #2,U.S. House,2,,Under Votes,27
+Baker,3  BAKER #3,U.S. House,2,,Under Votes,33
+Baker,4  BAKER #4,U.S. House,2,,Under Votes,48
+Baker,5  BAKER #5,U.S. House,2,,Under Votes,50
+Baker,13  BAKER COUNTRY,U.S. House,2,,Under Votes,26
+Baker,14  DURKEE,U.S. House,2,,Under Votes,4
+Baker,15  EAGLE VA,U.S. House,2,,Under Votes,16
+Baker,17  HAINES,U.S. House,2,,Under Votes,20
+Baker,18  HEREFORD,U.S. House,2,,Under Votes,4
+Baker,19  HUNTINGTON,U.S. House,2,,Under Votes,18
+Baker,20  IRONDYKE,U.S. House,2,,Under Votes,5
+Baker,21  KEATING,U.S. House,2,,Under Votes,4
+Baker,22  PINE VALLEY,U.S. House,2,,Under Votes,24
+Baker,24  POCA-WING,U.S. House,2,,Under Votes,18
+Baker,25 SUMPTER,U.S. House,2,,Under Votes,22
+Baker,26  UNITY,U.S. House,2,,Under Votes,3
+Baker,1 BAKER #1,Secretary of State,,PGP,Seth Woolley,15
+Baker,2 BAKER #2,Secretary of State,,PGP,Seth Woolley,11
+Baker,3 BAKER #3,Secretary of State,,PGP,Seth Woolley,17
+Baker,4 BAKER #4,Secretary of State,,PGP,Seth Woolley,16
+Baker,5 BAKER #5,Secretary of State,,PGP,Seth Woolley,4
+Baker,13 BAKER COUNTRY,Secretary of State,,PGP,Seth Woolley,4
+Baker,14 DURKEE,Secretary of State,,PGP,Seth Woolley,2
+Baker,15 EAGLE VA,Secretary of State,,PGP,Seth Woolley,8
+Baker,17 HAINES,Secretary of State,,PGP,Seth Woolley,4
+Baker,18 HEREFORD,Secretary of State,,PGP,Seth Woolley,0
+Baker,19 HUNTINGTON,Secretary of State,,PGP,Seth Woolley,7
+Baker,20 IRONDYKE,Secretary of State,,PGP,Seth Woolley,1
+Baker,21  KEATING,Secretary of State,,PGP,Seth Woolley,1
+Baker,22 PINE VALLEY,Secretary of State,,PGP,Seth Woolley,12
+Baker,24 POCA-WING,Secretary of State,,PGP,Seth Woolley,6
+Baker,25 SUMPTER,Secretary of State,,PGP,Seth Woolley,2
+Baker,26 UNITY,Secretary of State,,PGP,Seth Woolley,2
+Baker,1 BAKER #1,Secretary of State,,PRO,Robert Wolfe,5
+Baker,2 BAKER #2,Secretary of State,,PRO,Robert Wolfe,8
+Baker,3 BAKER #3,Secretary of State,,PRO,Robert Wolfe,9
+Baker,4 BAKER #4,Secretary of State,,PRO,Robert Wolfe,13
+Baker,5 BAKER #5,Secretary of State,,PRO,Robert Wolfe,7
+Baker,13 BAKER COUNTRY,Secretary of State,,PRO,Robert Wolfe,7
+Baker,14 DURKEE,Secretary of State,,PRO,Robert Wolfe,1
+Baker,15 EAGLE VA,Secretary of State,,PRO,Robert Wolfe,5
+Baker,17 HAINES,Secretary of State,,PRO,Robert Wolfe,1
+Baker,18 HEREFORD,Secretary of State,,PRO,Robert Wolfe,1
+Baker,19 HUNTINGTON,Secretary of State,,PRO,Robert Wolfe,4
+Baker,20 IRONDYKE,Secretary of State,,PRO,Robert Wolfe,1
+Baker,21  KEATING,Secretary of State,,PRO,Robert Wolfe,3
+Baker,22 PINE VALLEY,Secretary of State,,PRO,Robert Wolfe,7
+Baker,24 POCA-WING,Secretary of State,,PRO,Robert Wolfe,0
+Baker,25 SUMPTER,Secretary of State,,PRO,Robert Wolfe,5
+Baker,26 UNITY,Secretary of State,,PRO,Robert Wolfe,2
+Baker,1 BAKER #1,Secretary of State,,LBT,Bruce Alexander Knight,15
+Baker,2 BAKER #2,Secretary of State,,LBT,Bruce Alexander Knight,27
+Baker,3 BAKER #3,Secretary of State,,LBT,Bruce Alexander Knight,16
+Baker,4 BAKER #4,Secretary of State,,LBT,Bruce Alexander Knight,19
+Baker,5 BAKER #5,Secretary of State,,LBT,Bruce Alexander Knight,11
+Baker,13 BAKER COUNTRY,Secretary of State,,LBT,Bruce Alexander Knight,7
+Baker,14 DURKEE,Secretary of State,,LBT,Bruce Alexander Knight,0
+Baker,15 EAGLE VA,Secretary of State,,LBT,Bruce Alexander Knight,5
+Baker,17 HAINES,Secretary of State,,LBT,Bruce Alexander Knight,5
+Baker,18 HEREFORD,Secretary of State,,LBT,Bruce Alexander Knight,4
+Baker,19 HUNTINGTON,Secretary of State,,LBT,Bruce Alexander Knight,5
+Baker,20 IRONDYKE,Secretary of State,,LBT,Bruce Alexander Knight,1
+Baker,21  KEATING,Secretary of State,,LBT,Bruce Alexander Knight,2
+Baker,22 PINE VALLEY,Secretary of State,,LBT,Bruce Alexander Knight,10
+Baker,24 POCA-WING,Secretary of State,,LBT,Bruce Alexander Knight,4
+Baker,25 SUMPTER,Secretary of State,,LBT,Bruce Alexander Knight,3
+Baker,26 UNITY,Secretary of State,,LBT,Bruce Alexander Knight,0
+Baker,1 BAKER #1,Secretary of State,,DEM,Kate Brown,305
+Baker,2 BAKER #2,Secretary of State,,DEM,Kate Brown,300
+Baker,3 BAKER #3,Secretary of State,,DEM,Kate Brown,290
+Baker,4 BAKER #4,Secretary of State,,DEM,Kate Brown,349
+Baker,5 BAKER #5,Secretary of State,,DEM,Kate Brown,372
+Baker,13 BAKER COUNTRY,Secretary of State,,DEM,Kate Brown,119
+Baker,14 DURKEE,Secretary of State,,DEM,Kate Brown,12
+Baker,15 EAGLE VA,Secretary of State,,DEM,Kate Brown,101
+Baker,17 HAINES,Secretary of State,,DEM,Kate Brown,135
+Baker,18 HEREFORD,Secretary of State,,DEM,Kate Brown,9
+Baker,19 HUNTINGTON,Secretary of State,,DEM,Kate Brown,107
+Baker,20 IRONDYKE,Secretary of State,,DEM,Kate Brown,22
+Baker,21  KEATING,Secretary of State,,DEM,Kate Brown,20
+Baker,22 PINE VALLEY,Secretary of State,,DEM,Kate Brown,218
+Baker,24 POCA-WING,Secretary of State,,DEM,Kate Brown,184
+Baker,25 SUMPTER,Secretary of State,,DEM,Kate Brown,76
+Baker,26 UNITY,Secretary of State,,DEM,Kate Brown,16
+Baker,1 BAKER #1,Secretary of State,,REP,Knute Buehler,477
+Baker,2 BAKER #2,Secretary of State,,REP,Knute Buehler,420
+Baker,3 BAKER #3,Secretary of State,,REP,Knute Buehler,494
+Baker,4 BAKER #4,Secretary of State,,REP,Knute Buehler,620
+Baker,5 BAKER #5,Secretary of State,,REP,Knute Buehler,643
+Baker,13 BAKER COUNTRY,Secretary of State,,REP,Knute Buehler,487
+Baker,14 DURKEE,Secretary of State,,REP,Knute Buehler,65
+Baker,15 EAGLE VA,Secretary of State,,REP,Knute Buehler,271
+Baker,17 HAINES,Secretary of State,,REP,Knute Buehler,378
+Baker,18 HEREFORD,Secretary of State,,REP,Knute Buehler,65
+Baker,19 HUNTINGTON,Secretary of State,,REP,Knute Buehler,99
+Baker,20 IRONDYKE,Secretary of State,,REP,Knute Buehler,26
+Baker,21  KEATING,Secretary of State,,REP,Knute Buehler,117
+Baker,22 PINE VALLEY,Secretary of State,,REP,Knute Buehler,266
+Baker,24 POCA-WING,Secretary of State,,REP,Knute Buehler,472
+Baker,25 SUMPTER,Secretary of State,,REP,Knute Buehler,150
+Baker,26 UNITY,Secretary of State,,REP,Knute Buehler,60
+Baker,1 BAKER #1,Secretary of State,,,Write-ins,1
+Baker,2 BAKER #2,Secretary of State,,,Write-ins,1
+Baker,3 BAKER #3,Secretary of State,,,Write-ins,0
+Baker,4 BAKER #4,Secretary of State,,,Write-ins,0
+Baker,5 BAKER #5,Secretary of State,,,Write-ins,0
+Baker,13 BAKER COUNTRY,Secretary of State,,,Write-ins,1
+Baker,14 DURKEE,Secretary of State,,,Write-ins,1
+Baker,15 EAGLE VA,Secretary of State,,,Write-ins,1
+Baker,17 HAINES,Secretary of State,,,Write-ins,0
+Baker,18 HEREFORD,Secretary of State,,,Write-ins,0
+Baker,19 HUNTINGTON,Secretary of State,,,Write-ins,0
+Baker,20 IRONDYKE,Secretary of State,,,Write-ins,0
+Baker,21  KEATING,Secretary of State,,,Write-ins,0
+Baker,22 PINE VALLEY,Secretary of State,,,Write-ins,2
+Baker,24 POCA-WING,Secretary of State,,,Write-ins,0
+Baker,25 SUMPTER,Secretary of State,,,Write-ins,0
+Baker,26 UNITY,Secretary of State,,,Write-ins,1
+Baker,1 BAKER #1,Secretary of State,,,Over Votes,1
+Baker,2 BAKER #2,Secretary of State,,,Over Votes,0
+Baker,3 BAKER #3,Secretary of State,,,Over Votes,0
+Baker,4 BAKER #4,Secretary of State,,,Over Votes,0
+Baker,5 BAKER #5,Secretary of State,,,Over Votes,0
+Baker,13 BAKER COUNTRY,Secretary of State,,,Over Votes,0
+Baker,14 DURKEE,Secretary of State,,,Over Votes,0
+Baker,15 EAGLE VA,Secretary of State,,,Over Votes,0
+Baker,17 HAINES,Secretary of State,,,Over Votes,0
+Baker,18 HEREFORD,Secretary of State,,,Over Votes,0
+Baker,19 HUNTINGTON,Secretary of State,,,Over Votes,0
+Baker,20 IRONDYKE,Secretary of State,,,Over Votes,0
+Baker,21  KEATING,Secretary of State,,,Over Votes,0
+Baker,22 PINE VALLEY,Secretary of State,,,Over Votes,0
+Baker,24 POCA-WING,Secretary of State,,,Over Votes,0
+Baker,25 SUMPTER,Secretary of State,,,Over Votes,0
+Baker,26 UNITY,Secretary of State,,,Over Votes,0
+Baker,1 BAKER #1,Secretary of State,,,Under Votes,60
+Baker,2 BAKER #2,Secretary of State,,,Under Votes,41
+Baker,3 BAKER #3,Secretary of State,,,Under Votes,51
+Baker,4 BAKER #4,Secretary of State,,,Under Votes,58
+Baker,5 BAKER #5,Secretary of State,,,Under Votes,71
+Baker,13 BAKER COUNTRY,Secretary of State,,,Under Votes,31
+Baker,14 DURKEE,Secretary of State,,,Under Votes,3
+Baker,15 EAGLE VA,Secretary of State,,,Under Votes,19
+Baker,17 HAINES,Secretary of State,,,Under Votes,25
+Baker,18 HEREFORD,Secretary of State,,,Under Votes,4
+Baker,19 HUNTINGTON,Secretary of State,,,Under Votes,12
+Baker,20 IRONDYKE,Secretary of State,,,Under Votes,6
+Baker,21  KEATING,Secretary of State,,,Under Votes,7
+Baker,22 PINE VALLEY,Secretary of State,,,Under Votes,45
+Baker,24 POCA-WING,Secretary of State,,,Under Votes,33
+Baker,25 SUMPTER,Secretary of State,,,Under Votes,20
+Baker,26 UNITY,Secretary of State,,,Under Votes,1
+Baker,1 BAKER #1,State Treasurer,,DEM,Ted Wheeler,314
+Baker,2  BAKER #2,State Treasurer,,DEM,Ted Wheeler,334
+Baker,3  BAKER #3,State Treasurer,,DEM,Ted Wheeler,300
+Baker,4  BAKER #4,State Treasurer,,DEM,Ted Wheeler,374
+Baker,5  BAKER #5,State Treasurer,,DEM,Ted Wheeler,393
+Baker,13  BAKER COUNTRY,State Treasurer,,DEM,Ted Wheeler,144
+Baker,14  DURKEE,State Treasurer,,DEM,Ted Wheeler,12
+Baker,15  EAGLE VA,State Treasurer,,DEM,Ted Wheeler,121
+Baker,17  HAINES,State Treasurer,,DEM,Ted Wheeler,127
+Baker,18  HEREFORD,State Treasurer,,DEM,Ted Wheeler,8
+Baker,19  HUNTINGTON,State Treasurer,,DEM,Ted Wheeler,104
+Baker,20  IRONDYKE,State Treasurer,,DEM,Ted Wheeler,21
+Baker,21  KEATING,State Treasurer,,DEM,Ted Wheeler,30
+Baker,22  PINE VALLEY,State Treasurer,,DEM,Ted Wheeler,218
+Baker,24  POCA-WING,State Treasurer,,DEM,Ted Wheeler,205
+Baker,25  SUMPTER,State Treasurer,,DEM,Ted Wheeler,79
+Baker,26  UNITY,State Treasurer,,DEM,Ted Wheeler,16
+Baker,1 BAKER #1,State Treasurer,,PRO,Cameron Whitten,9
+Baker,2  BAKER #2,State Treasurer,,PRO,Cameron Whitten,10
+Baker,3  BAKER #3,State Treasurer,,PRO,Cameron Whitten,22
+Baker,4  BAKER #4,State Treasurer,,PRO,Cameron Whitten,20
+Baker,5  BAKER #5,State Treasurer,,PRO,Cameron Whitten,10
+Baker,13  BAKER COUNTRY,State Treasurer,,PRO,Cameron Whitten,1
+Baker,14  DURKEE,State Treasurer,,PRO,Cameron Whitten,0
+Baker,15  EAGLE VA,State Treasurer,,PRO,Cameron Whitten,9
+Baker,17  HAINES,State Treasurer,,PRO,Cameron Whitten,7
+Baker,18  HEREFORD,State Treasurer,,PRO,Cameron Whitten,1
+Baker,19  HUNTINGTON,State Treasurer,,PRO,Cameron Whitten,5
+Baker,20  IRONDYKE,State Treasurer,,PRO,Cameron Whitten,0
+Baker,21  KEATING,State Treasurer,,PRO,Cameron Whitten,1
+Baker,22  PINE VALLEY,State Treasurer,,PRO,Cameron Whitten,18
+Baker,24  POCA-WING,State Treasurer,,PRO,Cameron Whitten,6
+Baker,25  SUMPTER,State Treasurer,,PRO,Cameron Whitten,5
+Baker,26  UNITY,State Treasurer,,PRO,Cameron Whitten,2
+Baker,1 BAKER #1,State Treasurer,,LBT,John F Mahler,13
+Baker,2  BAKER #2,State Treasurer,,LBT,John F Mahler,27
+Baker,3  BAKER #3,State Treasurer,,LBT,John F Mahler,23
+Baker,4  BAKER #4,State Treasurer,,LBT,John F Mahler,23
+Baker,5  BAKER #5,State Treasurer,,LBT,John F Mahler,10
+Baker,13  BAKER COUNTRY,State Treasurer,,LBT,John F Mahler,18
+Baker,14  DURKEE,State Treasurer,,LBT,John F Mahler,1
+Baker,15  EAGLE VA,State Treasurer,,LBT,John F Mahler,7
+Baker,17  HAINES,State Treasurer,,LBT,John F Mahler,12
+Baker,18  HEREFORD,State Treasurer,,LBT,John F Mahler,3
+Baker,19  HUNTINGTON,State Treasurer,,LBT,John F Mahler,10
+Baker,20  IRONDYKE,State Treasurer,,LBT,John F Mahler,2
+Baker,21  KEATING,State Treasurer,,LBT,John F Mahler,0
+Baker,22  PINE VALLEY,State Treasurer,,LBT,John F Mahler,15
+Baker,24  POCA-WING,State Treasurer,,LBT,John F Mahler,8
+Baker,25  SUMPTER,State Treasurer,,LBT,John F Mahler,7
+Baker,26  UNITY,State Treasurer,,LBT,John F Mahler,1
+Baker,1 BAKER #1,State Treasurer,,CON,Michael Paul Marsh,13
+Baker,2  BAKER #2,State Treasurer,,CON,Michael Paul Marsh,7
+Baker,3  BAKER #3,State Treasurer,,CON,Michael Paul Marsh,20
+Baker,4  BAKER #4,State Treasurer,,CON,Michael Paul Marsh,9
+Baker,5  BAKER #5,State Treasurer,,CON,Michael Paul Marsh,9
+Baker,13  BAKER COUNTRY,State Treasurer,,CON,Michael Paul Marsh,10
+Baker,14  DURKEE,State Treasurer,,CON,Michael Paul Marsh,2
+Baker,15  EAGLE VA,State Treasurer,,CON,Michael Paul Marsh,8
+Baker,17  HAINES,State Treasurer,,CON,Michael Paul Marsh,8
+Baker,18  HEREFORD,State Treasurer,,CON,Michael Paul Marsh,1
+Baker,19  HUNTINGTON,State Treasurer,,CON,Michael Paul Marsh,8
+Baker,20  IRONDYKE,State Treasurer,,CON,Michael Paul Marsh,1
+Baker,21  KEATING,State Treasurer,,CON,Michael Paul Marsh,1
+Baker,22  PINE VALLEY,State Treasurer,,CON,Michael Paul Marsh,6
+Baker,24  POCA-WING,State Treasurer,,CON,Michael Paul Marsh,13
+Baker,25  SUMPTER,State Treasurer,,CON,Michael Paul Marsh,8
+Baker,26  UNITY,State Treasurer,,CON,Michael Paul Marsh,1
+Baker,1 BAKER #1,State Treasurer,,REP,Tom Cox,435
+Baker,2  BAKER #2,State Treasurer,,REP,Tom Cox,377
+Baker,3  BAKER #3,State Treasurer,,REP,Tom Cox,449
+Baker,4  BAKER #4,State Treasurer,,REP,Tom Cox,552
+Baker,5  BAKER #5,State Treasurer,,REP,Tom Cox,583
+Baker,13  BAKER COUNTRY,State Treasurer,,REP,Tom Cox,429
+Baker,14  DURKEE,State Treasurer,,REP,Tom Cox,65
+Baker,15  EAGLE VA,State Treasurer,,REP,Tom Cox,232
+Baker,17  HAINES,State Treasurer,,REP,Tom Cox,352
+Baker,18  HEREFORD,State Treasurer,,REP,Tom Cox,66
+Baker,19  HUNTINGTON,State Treasurer,,REP,Tom Cox,87
+Baker,20  IRONDYKE,State Treasurer,,REP,Tom Cox,26
+Baker,21  KEATING,State Treasurer,,REP,Tom Cox,108
+Baker,22  PINE VALLEY,State Treasurer,,REP,Tom Cox,255
+Baker,24  POCA-WING,State Treasurer,,REP,Tom Cox,408
+Baker,25  SUMPTER,State Treasurer,,REP,Tom Cox,126
+Baker,26  UNITY,State Treasurer,,REP,Tom Cox,58
+Baker,1 BAKER #1,State Treasurer,,,Write-ins,0
+Baker,2  BAKER #2,State Treasurer,,,Write-ins,0
+Baker,3  BAKER #3,State Treasurer,,,Write-ins,0
+Baker,4  BAKER #4,State Treasurer,,,Write-ins,1
+Baker,5  BAKER #5,State Treasurer,,,Write-ins,0
+Baker,13  BAKER COUNTRY,State Treasurer,,,Write-ins,1
+Baker,14  DURKEE,State Treasurer,,,Write-ins,1
+Baker,15  EAGLE VA,State Treasurer,,,Write-ins,1
+Baker,17  HAINES,State Treasurer,,,Write-ins,0
+Baker,18  HEREFORD,State Treasurer,,,Write-ins,0
+Baker,19  HUNTINGTON,State Treasurer,,,Write-ins,1
+Baker,20  IRONDYKE,State Treasurer,,,Write-ins,0
+Baker,21  KEATING,State Treasurer,,,Write-ins,0
+Baker,22  PINE VALLEY,State Treasurer,,,Write-ins,0
+Baker,24  POCA-WING,State Treasurer,,,Write-ins,1
+Baker,25  SUMPTER,State Treasurer,,,Write-ins,0
+Baker,26  UNITY,State Treasurer,,,Write-ins,0
+Baker,1 BAKER #1,State Treasurer,,,Over Votes,0
+Baker,2  BAKER #2,State Treasurer,,,Over Votes,0
+Baker,3  BAKER #3,State Treasurer,,,Over Votes,1
+Baker,4  BAKER #4,State Treasurer,,,Over Votes,1
+Baker,5  BAKER #5,State Treasurer,,,Over Votes,0
+Baker,13  BAKER COUNTRY,State Treasurer,,,Over Votes,0
+Baker,14  DURKEE,State Treasurer,,,Over Votes,0
+Baker,15  EAGLE VA,State Treasurer,,,Over Votes,0
+Baker,17  HAINES,State Treasurer,,,Over Votes,0
+Baker,18  HEREFORD,State Treasurer,,,Over Votes,0
+Baker,19  HUNTINGTON,State Treasurer,,,Over Votes,0
+Baker,20  IRONDYKE,State Treasurer,,,Over Votes,0
+Baker,21  KEATING,State Treasurer,,,Over Votes,0
+Baker,22  PINE VALLEY,State Treasurer,,,Over Votes,0
+Baker,24  POCA-WING,State Treasurer,,,Over Votes,0
+Baker,25  SUMPTER,State Treasurer,,,Over Votes,0
+Baker,26  UNITY,State Treasurer,,,Over Votes,0
+Baker,1 BAKER #1,State Treasurer,,,Under Votes,95
+Baker,2  BAKER #2,State Treasurer,,,Under Votes,53
+Baker,3  BAKER #3,State Treasurer,,,Under Votes,62
+Baker,4  BAKER #4,State Treasurer,,,Under Votes,95
+Baker,5  BAKER #5,State Treasurer,,,Under Votes,103
+Baker,13  BAKER COUNTRY,State Treasurer,,,Under Votes,53
+Baker,14  DURKEE,State Treasurer,,,Under Votes,3
+Baker,15  EAGLE VA,State Treasurer,,,Under Votes,32
+Baker,17  HAINES,State Treasurer,,,Under Votes,42
+Baker,18  HEREFORD,State Treasurer,,,Under Votes,4
+Baker,19  HUNTINGTON,State Treasurer,,,Under Votes,19
+Baker,20  IRONDYKE,State Treasurer,,,Under Votes,7
+Baker,21  KEATING,State Treasurer,,,Under Votes,10
+Baker,22  PINE VALLEY,State Treasurer,,,Under Votes,48
+Baker,24  POCA-WING,State Treasurer,,,Under Votes,58
+Baker,25  SUMPTER,State Treasurer,,,Under Votes,31
+Baker,26  UNITY,State Treasurer,,,Under Votes,4
+Baker,1 BAKER #1,Attorney General,,PRO,Chris Henry,14
+Baker,2  BAKER #2,Attorney General,,PRO,Chris Henry,16
+Baker,3  BAKER #3,Attorney General,,PRO,Chris Henry,17
+Baker,4  BAKER #4,Attorney General,,PRO,Chris Henry,16
+Baker,5 BAKER #5,Attorney General,,PRO,Chris Henry,16
+Baker,13 BAKER COUNTRY,Attorney General,,PRO,Chris Henry,3
+Baker,14 DURKEE,Attorney General,,PRO,Chris Henry,0
+Baker,15 EAGLE VA,Attorney General,,PRO,Chris Henry,8
+Baker,17  HAINES,Attorney General,,PRO,Chris Henry,4
+Baker,18  HEREFORD,Attorney General,,PRO,Chris Henry,1
+Baker,19  HUNTINGTON,Attorney General,,PRO,Chris Henry,4
+Baker,20  IRONDYKE,Attorney General,,PRO,Chris Henry,0
+Baker,21  KEATING,Attorney General,,PRO,Chris Henry,1
+Baker,22  PINE VALLEY,Attorney General,,PRO,Chris Henry,7
+Baker,24  POCA-WING,Attorney General,,PRO,Chris Henry,2
+Baker,25  SUMPTER,Attorney General,,PRO,Chris Henry,7
+Baker,26  UNITY,Attorney General,,PRO,Chris Henry,0
+Baker,1 BAKER #1,Attorney General,,REP,James L. Buchal,408
+Baker,2  BAKER #2,Attorney General,,REP,James L. Buchal,375
+Baker,3  BAKER #3,Attorney General,,REP,James L. Buchal,463
+Baker,4  BAKER #4,Attorney General,,REP,James L. Buchal,566
+Baker,5 BAKER #5,Attorney General,,REP,James L. Buchal,578
+Baker,13 BAKER COUNTRY,Attorney General,,REP,James L. Buchal,410
+Baker,14 DURKEE,Attorney General,,REP,James L. Buchal,65
+Baker,15 EAGLE VA,Attorney General,,REP,James L. Buchal,241
+Baker,17  HAINES,Attorney General,,REP,James L. Buchal,351
+Baker,18  HEREFORD,Attorney General,,REP,James L. Buchal,61
+Baker,19  HUNTINGTON,Attorney General,,REP,James L. Buchal,86
+Baker,20  IRONDYKE,Attorney General,,REP,James L. Buchal,25
+Baker,21  KEATING,Attorney General,,REP,James L. Buchal,108
+Baker,22  PINE VALLEY,Attorney General,,REP,James L. Buchal,257
+Baker,24  POCA-WING,Attorney General,,REP,James L. Buchal,414
+Baker,25  SUMPTER,Attorney General,,REP,James L. Buchal,133
+Baker,26  UNITY,Attorney General,,REP,James L. Buchal,57
+Baker,1 BAKER #1,Attorney General,,CON,James E. Leuenberger,52
+Baker,2  BAKER #2,Attorney General,,CON,James E. Leuenberger,47
+Baker,3  BAKER #3,Attorney General,,CON,James E. Leuenberger,46
+Baker,4  BAKER #4,Attorney General,,CON,James E. Leuenberger,44
+Baker,5 BAKER #5,Attorney General,,CON,James E. Leuenberger,29
+Baker,13 BAKER COUNTRY,Attorney General,,CON,James E. Leuenberger,33
+Baker,14 DURKEE,Attorney General,,CON,James E. Leuenberger,3
+Baker,15 EAGLE VA,Attorney General,,CON,James E. Leuenberger,20
+Baker,17  HAINES,Attorney General,,CON,James E. Leuenberger,13
+Baker,18  HEREFORD,Attorney General,,CON,James E. Leuenberger,7
+Baker,19  HUNTINGTON,Attorney General,,CON,James E. Leuenberger,19
+Baker,20  IRONDYKE,Attorney General,,CON,James E. Leuenberger,3
+Baker,21  KEATING,Attorney General,,CON,James E. Leuenberger,4
+Baker,22  PINE VALLEY,Attorney General,,CON,James E. Leuenberger,21
+Baker,24  POCA-WING,Attorney General,,CON,James E. Leuenberger,27
+Baker,25  SUMPTER,Attorney General,,CON,James E. Leuenberger,12
+Baker,26  UNITY,Attorney General,,CON,James E. Leuenberger,4
+Baker,1 BAKER #1,Attorney General,,DEM,Ellen Rosenblum,294
+Baker,2  BAKER #2,Attorney General,,DEM,Ellen Rosenblum,299
+Baker,3  BAKER #3,Attorney General,,DEM,Ellen Rosenblum,286
+Baker,4  BAKER #4,Attorney General,,DEM,Ellen Rosenblum,344
+Baker,5 BAKER #5,Attorney General,,DEM,Ellen Rosenblum,353
+Baker,13 BAKER COUNTRY,Attorney General,,DEM,Ellen Rosenblum,131
+Baker,14 DURKEE,Attorney General,,DEM,Ellen Rosenblum,12
+Baker,15 EAGLE VA,Attorney General,,DEM,Ellen Rosenblum,107
+Baker,17  HAINES,Attorney General,,DEM,Ellen Rosenblum,129
+Baker,18  HEREFORD,Attorney General,,DEM,Ellen Rosenblum,9
+Baker,19  HUNTINGTON,Attorney General,,DEM,Ellen Rosenblum,98
+Baker,20  IRONDYKE,Attorney General,,DEM,Ellen Rosenblum,23
+Baker,21  KEATING,Attorney General,,DEM,Ellen Rosenblum,27
+Baker,22  PINE VALLEY,Attorney General,,DEM,Ellen Rosenblum,210
+Baker,24  POCA-WING,Attorney General,,DEM,Ellen Rosenblum,187
+Baker,25  SUMPTER,Attorney General,,DEM,Ellen Rosenblum,67
+Baker,26  UNITY,Attorney General,,DEM,Ellen Rosenblum,17
+Baker,1 BAKER #1,Attorney General,,,Write-ins,1
+Baker,2  BAKER #2,Attorney General,,,Write-ins,1
+Baker,3  BAKER #3,Attorney General,,,Write-ins,1
+Baker,4  BAKER #4,Attorney General,,,Write-ins,0
+Baker,5 BAKER #5,Attorney General,,,Write-ins,0
+Baker,13 BAKER COUNTRY,Attorney General,,,Write-ins,2
+Baker,14 DURKEE,Attorney General,,,Write-ins,0
+Baker,15 EAGLE VA,Attorney General,,,Write-ins,1
+Baker,17  HAINES,Attorney General,,,Write-ins,0
+Baker,18  HEREFORD,Attorney General,,,Write-ins,0
+Baker,19  HUNTINGTON,Attorney General,,,Write-ins,0
+Baker,20  IRONDYKE,Attorney General,,,Write-ins,0
+Baker,21  KEATING,Attorney General,,,Write-ins,0
+Baker,22  PINE VALLEY,Attorney General,,,Write-ins,0
+Baker,24  POCA-WING,Attorney General,,,Write-ins,0
+Baker,25  SUMPTER,Attorney General,,,Write-ins,0
+Baker,26  UNITY,Attorney General,,,Write-ins,0
+Baker,1 BAKER #1,Attorney General,,,Over Votes,0
+Baker,2  BAKER #2,Attorney General,,,Over Votes,0
+Baker,3  BAKER #3,Attorney General,,,Over Votes,0
+Baker,4  BAKER #4,Attorney General,,,Over Votes,0
+Baker,5 BAKER #5,Attorney General,,,Over Votes,0
+Baker,13 BAKER COUNTRY,Attorney General,,,Over Votes,0
+Baker,14 DURKEE,Attorney General,,,Over Votes,0
+Baker,15 EAGLE VA,Attorney General,,,Over Votes,0
+Baker,17  HAINES,Attorney General,,,Over Votes,0
+Baker,18  HEREFORD,Attorney General,,,Over Votes,0
+Baker,19  HUNTINGTON,Attorney General,,,Over Votes,0
+Baker,20  IRONDYKE,Attorney General,,,Over Votes,0
+Baker,21  KEATING,Attorney General,,,Over Votes,0
+Baker,22  PINE VALLEY,Attorney General,,,Over Votes,0
+Baker,24  POCA-WING,Attorney General,,,Over Votes,0
+Baker,25  SUMPTER,Attorney General,,,Over Votes,0
+Baker,26  UNITY,Attorney General,,,Over Votes,0
+Baker,1 BAKER #1,Attorney General,,,Under Votes,110
+Baker,2  BAKER #2,Attorney General,,,Under Votes,70
+Baker,3  BAKER #3,Attorney General,,,Under Votes,64
+Baker,4  BAKER #4,Attorney General,,,Under Votes,105
+Baker,5 BAKER #5,Attorney General,,,Under Votes,132
+Baker,13 BAKER COUNTRY,Attorney General,,,Under Votes,77
+Baker,14 DURKEE,Attorney General,,,Under Votes,4
+Baker,15 EAGLE VA,Attorney General,,,Under Votes,33
+Baker,17  HAINES,Attorney General,,,Under Votes,51
+Baker,18  HEREFORD,Attorney General,,,Under Votes,5
+Baker,19  HUNTINGTON,Attorney General,,,Under Votes,27
+Baker,20  IRONDYKE,Attorney General,,,Under Votes,6
+Baker,21  KEATING,Attorney General,,,Under Votes,10
+Baker,22  PINE VALLEY,Attorney General,,,Under Votes,65
+Baker,24  POCA-WING,Attorney General,,,Under Votes,69
+Baker,25  SUMPTER,Attorney General,,,Under Votes,37
+Baker,26  UNITY,Attorney General,,,Under Votes,4
+Baker,1 BAKER #1,State Senate,30,REP,Ted Ferrioli,641
+Baker,2 BAKER #2,State Senate,30,REP,Ted Ferrioli,594
+Baker,3 BAKER #3,State Senate,30,REP,Ted Ferrioli,637
+Baker,4 BAKER #4,State Senate,30,REP,Ted Ferrioli,821
+Baker,5 BAKER #5,State Senate,30,REP,Ted Ferrioli,830
+Baker,13 BAKER COUNTRY,State Senate,30,REP,Ted Ferrioli,509
+Baker,14 DURKEE,State Senate,30,REP,Ted Ferrioli,70
+Baker,15 EAGLE VA,State Senate,30,REP,Ted Ferrioli,317
+Baker,17 HAINES,State Senate,30,REP,Ted Ferrioli,424
+Baker,18 HEREFORD,State Senate,30,REP,Ted Ferrioli,72
+Baker,19 HUNTINGTON,State Senate,30,REP,Ted Ferrioli,168
+Baker,20 IRONDYKE,State Senate,30,REP,Ted Ferrioli,38
+Baker,21  KEATING,State Senate,30,REP,Ted Ferrioli,130
+Baker,22 PINE VALLEY,State Senate,30,REP,Ted Ferrioli,384
+Baker,24 POCA-WING,State Senate,30,REP,Ted Ferrioli,531
+Baker,25 SUMPTER,State Senate,30,REP,Ted Ferrioli,161
+Baker,26 UNITY,State Senate,30,REP,Ted Ferrioli,72
+Baker,1 BAKER #1,State Senate,30,,Write-ins,9
+Baker,2 BAKER #2,State Senate,30,,Write-ins,10
+Baker,3 BAKER #3,State Senate,30,,Write-ins,14
+Baker,4 BAKER #4,State Senate,30,,Write-ins,7
+Baker,5 BAKER #5,State Senate,30,,Write-ins,9
+Baker,13 BAKER COUNTRY,State Senate,30,,Write-ins,5
+Baker,14 DURKEE,State Senate,30,,Write-ins,0
+Baker,15 EAGLE VA,State Senate,30,,Write-ins,4
+Baker,17 HAINES,State Senate,30,,Write-ins,4
+Baker,18 HEREFORD,State Senate,30,,Write-ins,0
+Baker,19 HUNTINGTON,State Senate,30,,Write-ins,2
+Baker,20 IRONDYKE,State Senate,30,,Write-ins,1
+Baker,21  KEATING,State Senate,30,,Write-ins,0
+Baker,22 PINE VALLEY,State Senate,30,,Write-ins,5
+Baker,24 POCA-WING,State Senate,30,,Write-ins,5
+Baker,25 SUMPTER,State Senate,30,,Write-ins,2
+Baker,26 UNITY,State Senate,30,,Write-ins,0
+Baker,1 BAKER #1,State Senate,30,,Under Votes,229
+Baker,2 BAKER #2,State Senate,30,,Under Votes,204
+Baker,3 BAKER #3,State Senate,30,,Under Votes,226
+Baker,4 BAKER #4,State Senate,30,,Under Votes,247
+Baker,5 BAKER #5,State Senate,30,,Under Votes,269
+Baker,13 BAKER COUNTRY,State Senate,30,,Under Votes,142
+Baker,14 DURKEE,State Senate,30,,Under Votes,14
+Baker,15 EAGLE VA,State Senate,30,,Under Votes,89
+Baker,17 HAINES,State Senate,30,,Under Votes,120
+Baker,18 HEREFORD,State Senate,30,,Under Votes,11
+Baker,19 HUNTINGTON,State Senate,30,,Under Votes,64
+Baker,20 IRONDYKE,State Senate,30,,Under Votes,18
+Baker,21  KEATING,State Senate,30,,Under Votes,20
+Baker,22 PINE VALLEY,State Senate,30,,Under Votes,171
+Baker,24 POCA-WING,State Senate,30,,Under Votes,163
+Baker,25 SUMPTER,State Senate,30,,Under Votes,93
+Baker,26 UNITY,State Senate,30,,Under Votes,10
+Baker,1  BAKER #1,State House,60,REP,Cliff Bentz,643
+Baker,2  BAKER #2,State House,60,REP,Cliff Bentz,591
+Baker,3  BAKER #3,State House,60,REP,Cliff Bentz,621
+Baker,4  BAKER #4,State House,60,REP,Cliff Bentz,792
+Baker,5  BAKER #5,State House,60,REP,Cliff Bentz,831
+Baker,13  BAKER COUNTRY,State House,60,REP,Cliff Bentz,518
+Baker,14  DURKEE,State House,60,REP,Cliff Bentz,70
+Baker,15  EAGLE VA,State House,60,REP,Cliff Bentz,319
+Baker,17  HAINES,State House,60,REP,Cliff Bentz,430
+Baker,18  HEREFORD,State House,60,REP,Cliff Bentz,77
+Baker,19  HUNTINGTON,State House,60,REP,Cliff Bentz,167
+Baker,20  IRONDYKE,State House,60,REP,Cliff Bentz,33
+Baker,21  KEATING,State House,60,REP,Cliff Bentz,138
+Baker,22  PINE VALLEY,State House,60,REP,Cliff Bentz,371
+Baker,24  POCA-WING,State House,60,REP,Cliff Bentz,524
+Baker,25 SUMPTER,State House,60,REP,Cliff Bentz,166
+Baker,26  UNITY,State House,60,REP,Cliff Bentz,72
+Baker,1  BAKER #1,State House,60,,Write-ins,5
+Baker,2  BAKER #2,State House,60,,Write-ins,6
+Baker,3  BAKER #3,State House,60,,Write-ins,13
+Baker,4  BAKER #4,State House,60,,Write-ins,12
+Baker,5  BAKER #5,State House,60,,Write-ins,11
+Baker,13  BAKER COUNTRY,State House,60,,Write-ins,5
+Baker,14  DURKEE,State House,60,,Write-ins,1
+Baker,15  EAGLE VA,State House,60,,Write-ins,5
+Baker,17  HAINES,State House,60,,Write-ins,4
+Baker,18  HEREFORD,State House,60,,Write-ins,0
+Baker,19  HUNTINGTON,State House,60,,Write-ins,1
+Baker,20  IRONDYKE,State House,60,,Write-ins,2
+Baker,21  KEATING,State House,60,,Write-ins,0
+Baker,22  PINE VALLEY,State House,60,,Write-ins,2
+Baker,24  POCA-WING,State House,60,,Write-ins,4
+Baker,25 SUMPTER,State House,60,,Write-ins,2
+Baker,26  UNITY,State House,60,,Write-ins,2
+Baker,1  BAKER #1,State House,60,,Over Votes,0
+Baker,2  BAKER #2,State House,60,,Over Votes,0
+Baker,3  BAKER #3,State House,60,,Over Votes,0
+Baker,4  BAKER #4,State House,60,,Over Votes,0
+Baker,5  BAKER #5,State House,60,,Over Votes,0
+Baker,13  BAKER COUNTRY,State House,60,,Over Votes,0
+Baker,14  DURKEE,State House,60,,Over Votes,0
+Baker,15  EAGLE VA,State House,60,,Over Votes,0
+Baker,17  HAINES,State House,60,,Over Votes,0
+Baker,18  HEREFORD,State House,60,,Over Votes,0
+Baker,19  HUNTINGTON,State House,60,,Over Votes,0
+Baker,20  IRONDYKE,State House,60,,Over Votes,0
+Baker,21  KEATING,State House,60,,Over Votes,0
+Baker,22  PINE VALLEY,State House,60,,Over Votes,0
+Baker,24  POCA-WING,State House,60,,Over Votes,0
+Baker,25 SUMPTER,State House,60,,Over Votes,0
+Baker,26  UNITY,State House,60,,Over Votes,0
+Baker,1  BAKER #1,State House,60,,Under Votes,231
+Baker,2  BAKER #2,State House,60,,Under Votes,211
+Baker,3  BAKER #3,State House,60,,Under Votes,243
+Baker,4  BAKER #4,State House,60,,Under Votes,271
+Baker,5  BAKER #5,State House,60,,Under Votes,266
+Baker,13  BAKER COUNTRY,State House,60,,Under Votes,133
+Baker,14  DURKEE,State House,60,,Under Votes,13
+Baker,15  EAGLE VA,State House,60,,Under Votes,86
+Baker,17  HAINES,State House,60,,Under Votes,114
+Baker,18  HEREFORD,State House,60,,Under Votes,6
+Baker,19  HUNTINGTON,State House,60,,Under Votes,66
+Baker,20  IRONDYKE,State House,60,,Under Votes,22
+Baker,21  KEATING,State House,60,,Under Votes,12
+Baker,22  PINE VALLEY,State House,60,,Under Votes,187
+Baker,24  POCA-WING,State House,60,,Under Votes,171
+Baker,25 SUMPTER,State House,60,,Under Votes,88
+Baker,26  UNITY,State House,60,,Under Votes,8
