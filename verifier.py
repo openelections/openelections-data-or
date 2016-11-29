@@ -116,9 +116,12 @@ class Verifier(object):
 	def parseFileAtPath(self, path):
 		with open(path, 'rU') as csvfile:
 			self.reader = csv.DictReader(csvfile)
+			self.currentRowIndex = 0
 			
 			if self.verifyColumns(self.reader.fieldnames):
-				for row in self.reader:
+				for index, row in enumerate(self.reader):
+					self.currentRowIndex = index
+
 					self.verifyCounty(row)
 					self.verifyOffice(row)
 					self.verifyDistrict(row)
@@ -199,7 +202,7 @@ class Verifier(object):
 		return True
 
 	def printError(self, text, row=[]):
-		print("ERROR: " + text)
+		print("ERROR: Line {}: {}".format(self.currentRowIndex, text))
 
 		if row:
 			print(row)
