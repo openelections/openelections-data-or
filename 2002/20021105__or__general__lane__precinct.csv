@@ -1010,22 +1010,22 @@ Lane,101313 EUGENE 313,State House,8,REP,Greg McNeill,147
 Lane,101313 EUGENE 313,State House,8,DEM,Floyd Prozanski,876
 Lane,101717 EUGENE 717,State House,8,REP,Greg McNeill,33
 Lane,101717 EUGENE 717,State House,8,DEM,Floyd Prozanski,113
-Lane,100601 FLORENCE 1,State House,9,,Valorie K. Holloway,314
-Lane,100601 FLORENCE 1,State House,9,,Joanne Verger,964
-Lane,100087 GLENADA,State House,9,,Valorie K. Holloway,169
-Lane,100087 GLENADA,State House,9,,Joanne Verger,477
-Lane,100500 DUNES CITY,State House,9,,Valorie K. Holloway,178
-Lane,100500 DUNES CITY,State House,9,,Joanne Verger,373
-Lane,100602 FLORENCE 2,State House,9,,Valorie K. Holloway,369
-Lane,100602 FLORENCE 2,State House,9,,Joanne Verger,1093
-Lane,100130 SIUSLAW,State House,10,,Alan Brown,705
-Lane,100130 SIUSLAW,State House,10,,Marcia L. Thompson,670
-Lane,100005 BLACHLY,State House,10,,Alan Brown,361
-Lane,100005 BLACHLY,State House,10,,Marcia L. Thompson,451
-Lane,100103 MAPLETON,State House,10,,Alan Brown,246
-Lane,100103 MAPLETON,State House,10,,Marcia L. Thompson,332
-Lane,100080 ELMIRA,State House,10,,Alan Brown,755
-Lane,100080 ELMIRA,State House,10,,Marcia L. Thompson,756
+Lane,100601 FLORENCE 1,State House,9,LIB,Valorie K. Holloway,314
+Lane,100601 FLORENCE 1,State House,9,DEM,Joanne Verger,964
+Lane,100087 GLENADA,State House,9,LIB,Valorie K. Holloway,169
+Lane,100087 GLENADA,State House,9,DEM,Joanne Verger,477
+Lane,100500 DUNES CITY,State House,9,LIB,Valorie K. Holloway,178
+Lane,100500 DUNES CITY,State House,9,DEM,Joanne Verger,373
+Lane,100602 FLORENCE 2,State House,9,LIB,Valorie K. Holloway,369
+Lane,100602 FLORENCE 2,State House,9,DEM,Joanne Verger,1093
+Lane,100130 SIUSLAW,State House,10,REP,Alan Brown,705
+Lane,100130 SIUSLAW,State House,10,DEM,Marcia L. Thompson,670
+Lane,100005 BLACHLY,State House,10,REP,Alan Brown,361
+Lane,100005 BLACHLY,State House,10,DEM,Marcia L. Thompson,451
+Lane,100103 MAPLETON,State House,10,REP,Alan Brown,246
+Lane,100103 MAPLETON,State House,10,DEM,Marcia L. Thompson,332
+Lane,100080 ELMIRA,State House,10,REP,Alan Brown,755
+Lane,100080 ELMIRA,State House,10,DEM,Marcia L. Thompson,756
 Lane,100091 GROVEDALE,State House,11,REP,Robert M. Bolanos,241
 Lane,100091 GROVEDALE,State House,11,DEM,Phil Barnhart,410
 Lane,100152 WALTERVILLE,State House,11,REP,Robert M. Bolanos,641
