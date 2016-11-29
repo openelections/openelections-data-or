@@ -51,8 +51,8 @@ class Verifier(object):
 	requiredColumns = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
 	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer'])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
-	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total'])
-	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total'])
+	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast'])
+	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast'])
 
 	# Return the appropriate subclass based on the path
 	def __new__(cls, path):
@@ -124,6 +124,7 @@ class Verifier(object):
 					self.verifyDistrict(row)
 					self.verifyCandidate(row)
 					self.verifyParty(row)
+					self.verifyVotes(row)
 
 	def verifyColumns(self, columns):
 		invalidColumns = set(columns) - Verifier.validColumns
@@ -184,6 +185,10 @@ class Verifier(object):
 	def verifyParty(self, row):
 		if row['candidate'] not in Verifier.pseudocandidates and not row['party']:
 			self.printError("Party missing", row)
+
+	def verifyVotes(self, row):
+		if not self.verifyInteger(row['votes']):
+			self.printError("Vote count must be an integer", row)
 
 	def verifyInteger(self, numberStr):
 		try:
