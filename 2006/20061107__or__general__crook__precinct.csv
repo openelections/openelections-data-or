@@ -1,20 +1,20 @@
-Crook,01,State House,55,party,candidate,votes
-Crook,10,State House,55,CON,Jack Alan Brown Jr.,10
-Crook,11,State House,55,CON,Jack Alan Brown Jr.,9
-Crook,12,State House,55,CON,Jack Alan Brown Jr.,14
-Crook,13,State House,55,CON,Jack Alan Brown Jr.,1
-Crook,14,State House,55,CON,Jack Alan Brown Jr.,11
-Crook,15,State House,55,CON,Jack Alan Brown Jr.,14
-Crook,16,State House,55,CON,Jack Alan Brown Jr.,24
-Crook,17,State House,55,CON,Jack Alan Brown Jr.,9
-Crook,02,State House,55,CON,Jack Alan Brown Jr.,40
-Crook,03,State House,55,CON,Jack Alan Brown Jr.,10
-Crook,04,State House,55,CON,Jack Alan Brown Jr.,3
-Crook,05,State House,55,CON,Jack Alan Brown Jr.,29
-Crook,06,State House,55,CON,Jack Alan Brown Jr.,22
-Crook,07,State House,55,CON,Jack Alan Brown Jr.,5
-Crook,08,State House,55,CON,Jack Alan Brown Jr.,4
-Crook,09,State House,55,CON,Jack Alan Brown Jr.,12
+county,precinct,office,district,party,candidate,votes
+Crook,01,U.S. House,2,CON,Jack Alan Brown Jr.,10
+Crook,10,U.S. House,2,CON,Jack Alan Brown Jr.,9
+Crook,11,U.S. House,2,CON,Jack Alan Brown Jr.,14
+Crook,12,U.S. House,2,CON,Jack Alan Brown Jr.,1
+Crook,13,U.S. House,2,CON,Jack Alan Brown Jr.,11
+Crook,14,U.S. House,2,CON,Jack Alan Brown Jr.,14
+Crook,15,U.S. House,2,CON,Jack Alan Brown Jr.,24
+Crook,16,U.S. House,2,CON,Jack Alan Brown Jr.,9
+Crook,17,U.S. House,2,CON,Jack Alan Brown Jr.,40
+Crook,02,U.S. House,2,CON,Jack Alan Brown Jr.,10
+Crook,03,U.S. House,2,CON,Jack Alan Brown Jr.,3
+Crook,04,U.S. House,2,CON,Jack Alan Brown Jr.,29
+Crook,05,U.S. House,2,CON,Jack Alan Brown Jr.,22
+Crook,06,U.S. House,2,CON,Jack Alan Brown Jr.,5
+Crook,07,U.S. House,2,CON,Jack Alan Brown Jr.,4
+Crook,08,U.S. House,2,CON,Jack Alan Brown Jr.,12
 Crook,09,U.S. House,2,CON,Jack Alan Brown Jr.,2
 Crook,01,U.S. House,2,DEM,Carol Voisin,88
 Crook,10,U.S. House,2,DEM,Carol Voisin,80
@@ -67,6 +67,23 @@ Crook,06,U.S. House,2,,Write-ins,0
 Crook,07,U.S. House,2,,Write-ins,0
 Crook,08,U.S. House,2,,Write-ins,0
 Crook,09,U.S. House,2,,Write-ins,0
+Crook,01,U.S. House,2,,Total,302
+Crook,10,U.S. House,2,,Total,289
+Crook,11,U.S. House,2,,Total,1119
+Crook,12,U.S. House,2,,Total,69
+Crook,13,U.S. House,2,,Total,497
+Crook,14,U.S. House,2,,Total,215
+Crook,15,U.S. House,2,,Total,421
+Crook,16,U.S. House,2,,Total,406
+Crook,17,U.S. House,2,,Total,1345
+Crook,02,U.S. House,2,,Total,248
+Crook,03,U.S. House,2,,Total,139
+Crook,04,U.S. House,2,,Total,693
+Crook,05,U.S. House,2,,Total,1078
+Crook,06,U.S. House,2,,Total,450
+Crook,07,U.S. House,2,,Total,169
+Crook,08,U.S. House,2,,Total,415
+Crook,09,U.S. House,2,,Total,147
 Crook,01,Governor,,PGP,Joe Keating,4
 Crook,10,Governor,,PGP,Joe Keating,5
 Crook,11,Governor,,PGP,Joe Keating,9
@@ -169,6 +186,23 @@ Crook,06,Governor,,,Write-ins,0
 Crook,07,Governor,,,Write-ins,0
 Crook,08,Governor,,,Write-ins,0
 Crook,09,Governor,,,Write-ins,0
+Crook,01,Governor,,,Total,305
+Crook,10,Governor,,,Total,299
+Crook,11,Governor,,,Total,1134
+Crook,12,Governor,,,Total,70
+Crook,13,Governor,,,Total,506
+Crook,14,Governor,,,Total,215
+Crook,15,Governor,,,Total,651
+Crook,16,Governor,,,Total,416
+Crook,17,Governor,,,Total,1372
+Crook,02,Governor,,,Total,249
+Crook,03,Governor,,,Total,141
+Crook,04,Governor,,,Total,668
+Crook,05,Governor,,,Total,1061
+Crook,06,Governor,,,Total,464
+Crook,07,Governor,,,Total,177
+Crook,08,Governor,,,Total,423
+Crook,09,Governor,,,Total,152
 Crook,01,State House,55,REP,George Gilman,193
 Crook,10,State House,55,REP,George Gilman,184
 Crook,11,State House,55,REP,George Gilman,742
@@ -203,3 +237,20 @@ Crook,06,State House,55,,Write-ins,0
 Crook,07,State House,55,,Write-ins,0
 Crook,08,State House,55,,Write-ins,0
 Crook,09,State House,55,,Write-ins,0
+Crook,01,State House,55,,Total,193
+Crook,10,State House,55,,Total,184
+Crook,11,State House,55,,Total,742
+Crook,12,State House,55,,Total,48
+Crook,13,State House,55,,Total,325
+Crook,14,State House,55,,Total,130
+Crook,15,State House,55,,Total,405
+Crook,16,State House,55,,Total,278
+Crook,17,State House,55,,Total,866
+Crook,02,State House,55,,Total,176
+Crook,03,State House,55,,Total,74
+Crook,04,State House,55,,Total,443
+Crook,05,State House,55,,Total,777
+Crook,06,State House,55,,Total,310
+Crook,07,State House,55,,Total,115
+Crook,08,State House,55,,Total,268
+Crook,09,State House,55,,Total,101
