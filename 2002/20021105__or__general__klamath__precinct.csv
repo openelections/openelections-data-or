@@ -1,0 +1,469 @@
+county,precinct,office,district,party,candidate,votes
+Klamath,PRECINCT 1,U.S. Senate,,DEM,Bill Bradbury,249
+Klamath,PRECINCT 2,U.S. Senate,,DEM,Bill Bradbury,16
+Klamath,PRECINCT 3,U.S. Senate,,DEM,Bill Bradbury,160
+Klamath,PRECINCT 4,U.S. Senate,,DEM,Bill Bradbury,156
+Klamath,PRECINCT 5,U.S. Senate,,DEM,Bill Bradbury,42
+Klamath,PRECINCT 6,U.S. Senate,,DEM,Bill Bradbury,19
+Klamath,PRECINCT 7,U.S. Senate,,DEM,Bill Bradbury,260
+Klamath,PRECINCT 8,U.S. Senate,,DEM,Bill Bradbury,74
+Klamath,PRECINCT 9,U.S. Senate,,DEM,Bill Bradbury,78
+Klamath,PRECINCT 10,U.S. Senate,,DEM,Bill Bradbury,31
+Klamath,PRECINCT 11,U.S. Senate,,DEM,Bill Bradbury,125
+Klamath,PRECINCT 12,U.S. Senate,,DEM,Bill Bradbury,80
+Klamath,PRECINCT 13,U.S. Senate,,DEM,Bill Bradbury,170
+Klamath,PRECINCT 14,U.S. Senate,,DEM,Bill Bradbury,21
+Klamath,PRECINCT 15,U.S. Senate,,DEM,Bill Bradbury,32
+Klamath,PRECINCT 16,U.S. Senate,,DEM,Bill Bradbury,11
+Klamath,PRECINCT 17,U.S. Senate,,DEM,Bill Bradbury,18
+Klamath,PRECINCT 18,U.S. Senate,,DEM,Bill Bradbury,93
+Klamath,PRECINCT 19,U.S. Senate,,DEM,Bill Bradbury,41
+Klamath,PRECINCT 20,U.S. Senate,,DEM,Bill Bradbury,108
+Klamath,PRECINCT 21,U.S. Senate,,DEM,Bill Bradbury,316
+Klamath,PRECINCT 22,U.S. Senate,,DEM,Bill Bradbury,62
+Klamath,PRECINCT 23,U.S. Senate,,DEM,Bill Bradbury,232
+Klamath,PRECINCT 24,U.S. Senate,,DEM,Bill Bradbury,75
+Klamath,PRECINCT 25,U.S. Senate,,DEM,Bill Bradbury,124
+Klamath,PRECINCT 26,U.S. Senate,,DEM,Bill Bradbury,104
+Klamath,PRECINCT 27,U.S. Senate,,DEM,Bill Bradbury,169
+Klamath,PRECINCT 28,U.S. Senate,,DEM,Bill Bradbury,48
+Klamath,PRECINCT 29,U.S. Senate,,DEM,Bill Bradbury,100
+Klamath,PRECINCT 30,U.S. Senate,,DEM,Bill Bradbury,172
+Klamath,PRECINCT 31,U.S. Senate,,DEM,Bill Bradbury,165
+Klamath,PRECINCT 32,U.S. Senate,,DEM,Bill Bradbury,51
+Klamath,PRECINCT 33,U.S. Senate,,DEM,Bill Bradbury,116
+Klamath,PRECINCT 34,U.S. Senate,,DEM,Bill Bradbury,64
+Klamath,PRECINCT 35,U.S. Senate,,DEM,Bill Bradbury,48
+Klamath,PRECINCT 36,U.S. Senate,,DEM,Bill Bradbury,106
+Klamath,PRECINCT 37,U.S. Senate,,DEM,Bill Bradbury,182
+Klamath,PRECINCT 38,U.S. Senate,,DEM,Bill Bradbury,87
+Klamath,PRECINCT 39,U.S. Senate,,DEM,Bill Bradbury,19
+Klamath,PRECINCT 40,U.S. Senate,,DEM,Bill Bradbury,111
+Klamath,PRECINCT 41,U.S. Senate,,DEM,Bill Bradbury,107
+Klamath,PRECINCT 42,U.S. Senate,,DEM,Bill Bradbury,32
+Klamath,PRECINCT 1,U.S. Senate,,LIB,Dan Fitzgerald,34
+Klamath,PRECINCT 2,U.S. Senate,,LIB,Dan Fitzgerald,5
+Klamath,PRECINCT 3,U.S. Senate,,LIB,Dan Fitzgerald,12
+Klamath,PRECINCT 4,U.S. Senate,,LIB,Dan Fitzgerald,29
+Klamath,PRECINCT 5,U.S. Senate,,LIB,Dan Fitzgerald,7
+Klamath,PRECINCT 6,U.S. Senate,,LIB,Dan Fitzgerald,8
+Klamath,PRECINCT 7,U.S. Senate,,LIB,Dan Fitzgerald,33
+Klamath,PRECINCT 8,U.S. Senate,,LIB,Dan Fitzgerald,8
+Klamath,PRECINCT 9,U.S. Senate,,LIB,Dan Fitzgerald,14
+Klamath,PRECINCT 10,U.S. Senate,,LIB,Dan Fitzgerald,0
+Klamath,PRECINCT 11,U.S. Senate,,LIB,Dan Fitzgerald,25
+Klamath,PRECINCT 12,U.S. Senate,,LIB,Dan Fitzgerald,7
+Klamath,PRECINCT 13,U.S. Senate,,LIB,Dan Fitzgerald,26
+Klamath,PRECINCT 14,U.S. Senate,,LIB,Dan Fitzgerald,5
+Klamath,PRECINCT 15,U.S. Senate,,LIB,Dan Fitzgerald,3
+Klamath,PRECINCT 16,U.S. Senate,,LIB,Dan Fitzgerald,3
+Klamath,PRECINCT 17,U.S. Senate,,LIB,Dan Fitzgerald,9
+Klamath,PRECINCT 18,U.S. Senate,,LIB,Dan Fitzgerald,14
+Klamath,PRECINCT 19,U.S. Senate,,LIB,Dan Fitzgerald,3
+Klamath,PRECINCT 20,U.S. Senate,,LIB,Dan Fitzgerald,16
+Klamath,PRECINCT 21,U.S. Senate,,LIB,Dan Fitzgerald,23
+Klamath,PRECINCT 22,U.S. Senate,,LIB,Dan Fitzgerald,10
+Klamath,PRECINCT 23,U.S. Senate,,LIB,Dan Fitzgerald,16
+Klamath,PRECINCT 24,U.S. Senate,,LIB,Dan Fitzgerald,9
+Klamath,PRECINCT 25,U.S. Senate,,LIB,Dan Fitzgerald,12
+Klamath,PRECINCT 26,U.S. Senate,,LIB,Dan Fitzgerald,11
+Klamath,PRECINCT 27,U.S. Senate,,LIB,Dan Fitzgerald,15
+Klamath,PRECINCT 28,U.S. Senate,,LIB,Dan Fitzgerald,2
+Klamath,PRECINCT 29,U.S. Senate,,LIB,Dan Fitzgerald,7
+Klamath,PRECINCT 30,U.S. Senate,,LIB,Dan Fitzgerald,15
+Klamath,PRECINCT 31,U.S. Senate,,LIB,Dan Fitzgerald,13
+Klamath,PRECINCT 32,U.S. Senate,,LIB,Dan Fitzgerald,3
+Klamath,PRECINCT 33,U.S. Senate,,LIB,Dan Fitzgerald,6
+Klamath,PRECINCT 34,U.S. Senate,,LIB,Dan Fitzgerald,17
+Klamath,PRECINCT 35,U.S. Senate,,LIB,Dan Fitzgerald,4
+Klamath,PRECINCT 36,U.S. Senate,,LIB,Dan Fitzgerald,9
+Klamath,PRECINCT 37,U.S. Senate,,LIB,Dan Fitzgerald,7
+Klamath,PRECINCT 38,U.S. Senate,,LIB,Dan Fitzgerald,14
+Klamath,PRECINCT 39,U.S. Senate,,LIB,Dan Fitzgerald,0
+Klamath,PRECINCT 40,U.S. Senate,,LIB,Dan Fitzgerald,17
+Klamath,PRECINCT 41,U.S. Senate,,LIB,Dan Fitzgerald,13
+Klamath,PRECINCT 42,U.S. Senate,,LIB,Dan Fitzgerald,5
+Klamath,PRECINCT 1,U.S. Senate,,REP,Gordan H. Smith,444
+Klamath,PRECINCT 2,U.S. Senate,,REP,Gordan H. Smith,31
+Klamath,PRECINCT 3,U.S. Senate,,REP,Gordan H. Smith,325
+Klamath,PRECINCT 4,U.S. Senate,,REP,Gordan H. Smith,354
+Klamath,PRECINCT 5,U.S. Senate,,REP,Gordan H. Smith,102
+Klamath,PRECINCT 6,U.S. Senate,,REP,Gordan H. Smith,65
+Klamath,PRECINCT 7,U.S. Senate,,REP,Gordan H. Smith,1083
+Klamath,PRECINCT 8,U.S. Senate,,REP,Gordan H. Smith,279
+Klamath,PRECINCT 9,U.S. Senate,,REP,Gordan H. Smith,423
+Klamath,PRECINCT 10,U.S. Senate,,REP,Gordan H. Smith,108
+Klamath,PRECINCT 11,U.S. Senate,,REP,Gordan H. Smith,722
+Klamath,PRECINCT 12,U.S. Senate,,REP,Gordan H. Smith,436
+Klamath,PRECINCT 13,U.S. Senate,,REP,Gordan H. Smith,1390
+Klamath,PRECINCT 14,U.S. Senate,,REP,Gordan H. Smith,99
+Klamath,PRECINCT 15,U.S. Senate,,REP,Gordan H. Smith,574
+Klamath,PRECINCT 16,U.S. Senate,,REP,Gordan H. Smith,141
+Klamath,PRECINCT 17,U.S. Senate,,REP,Gordan H. Smith,185
+Klamath,PRECINCT 18,U.S. Senate,,REP,Gordan H. Smith,599
+Klamath,PRECINCT 19,U.S. Senate,,REP,Gordan H. Smith,123
+Klamath,PRECINCT 20,U.S. Senate,,REP,Gordan H. Smith,431
+Klamath,PRECINCT 21,U.S. Senate,,REP,Gordan H. Smith,1080
+Klamath,PRECINCT 22,U.S. Senate,,REP,Gordan H. Smith,262
+Klamath,PRECINCT 23,U.S. Senate,,REP,Gordan H. Smith,864
+Klamath,PRECINCT 24,U.S. Senate,,REP,Gordan H. Smith,363
+Klamath,PRECINCT 25,U.S. Senate,,REP,Gordan H. Smith,446
+Klamath,PRECINCT 26,U.S. Senate,,REP,Gordan H. Smith,593
+Klamath,PRECINCT 27,U.S. Senate,,REP,Gordan H. Smith,913
+Klamath,PRECINCT 28,U.S. Senate,,REP,Gordan H. Smith,144
+Klamath,PRECINCT 29,U.S. Senate,,REP,Gordan H. Smith,518
+Klamath,PRECINCT 30,U.S. Senate,,REP,Gordan H. Smith,446
+Klamath,PRECINCT 31,U.S. Senate,,REP,Gordan H. Smith,592
+Klamath,PRECINCT 32,U.S. Senate,,REP,Gordan H. Smith,70
+Klamath,PRECINCT 33,U.S. Senate,,REP,Gordan H. Smith,250
+Klamath,PRECINCT 34,U.S. Senate,,REP,Gordan H. Smith,237
+Klamath,PRECINCT 35,U.S. Senate,,REP,Gordan H. Smith,145
+Klamath,PRECINCT 36,U.S. Senate,,REP,Gordan H. Smith,253
+Klamath,PRECINCT 37,U.S. Senate,,REP,Gordan H. Smith,384
+Klamath,PRECINCT 38,U.S. Senate,,REP,Gordan H. Smith,204
+Klamath,PRECINCT 39,U.S. Senate,,REP,Gordan H. Smith,34
+Klamath,PRECINCT 40,U.S. Senate,,REP,Gordan H. Smith,247
+Klamath,PRECINCT 41,U.S. Senate,,REP,Gordan H. Smith,334
+Klamath,PRECINCT 42,U.S. Senate,,REP,Gordan H. Smith,133
+Klamath,PRECINCT 1,U.S. Senate,,CON,Lon Mabon,19
+Klamath,PRECINCT 2,U.S. Senate,,CON,Lon Mabon,2
+Klamath,PRECINCT 3,U.S. Senate,,CON,Lon Mabon,11
+Klamath,PRECINCT 4,U.S. Senate,,CON,Lon Mabon,20
+Klamath,PRECINCT 5,U.S. Senate,,CON,Lon Mabon,11
+Klamath,PRECINCT 6,U.S. Senate,,CON,Lon Mabon,1
+Klamath,PRECINCT 7,U.S. Senate,,CON,Lon Mabon,39
+Klamath,PRECINCT 8,U.S. Senate,,CON,Lon Mabon,8
+Klamath,PRECINCT 9,U.S. Senate,,CON,Lon Mabon,15
+Klamath,PRECINCT 10,U.S. Senate,,CON,Lon Mabon,0
+Klamath,PRECINCT 11,U.S. Senate,,CON,Lon Mabon,15
+Klamath,PRECINCT 12,U.S. Senate,,CON,Lon Mabon,11
+Klamath,PRECINCT 13,U.S. Senate,,CON,Lon Mabon,37
+Klamath,PRECINCT 14,U.S. Senate,,CON,Lon Mabon,6
+Klamath,PRECINCT 15,U.S. Senate,,CON,Lon Mabon,15
+Klamath,PRECINCT 16,U.S. Senate,,CON,Lon Mabon,2
+Klamath,PRECINCT 17,U.S. Senate,,CON,Lon Mabon,1
+Klamath,PRECINCT 18,U.S. Senate,,CON,Lon Mabon,16
+Klamath,PRECINCT 19,U.S. Senate,,CON,Lon Mabon,6
+Klamath,PRECINCT 20,U.S. Senate,,CON,Lon Mabon,16
+Klamath,PRECINCT 21,U.S. Senate,,CON,Lon Mabon,27
+Klamath,PRECINCT 22,U.S. Senate,,CON,Lon Mabon,14
+Klamath,PRECINCT 23,U.S. Senate,,CON,Lon Mabon,34
+Klamath,PRECINCT 24,U.S. Senate,,CON,Lon Mabon,12
+Klamath,PRECINCT 25,U.S. Senate,,CON,Lon Mabon,15
+Klamath,PRECINCT 26,U.S. Senate,,CON,Lon Mabon,23
+Klamath,PRECINCT 27,U.S. Senate,,CON,Lon Mabon,22
+Klamath,PRECINCT 28,U.S. Senate,,CON,Lon Mabon,3
+Klamath,PRECINCT 29,U.S. Senate,,CON,Lon Mabon,12
+Klamath,PRECINCT 30,U.S. Senate,,CON,Lon Mabon,10
+Klamath,PRECINCT 31,U.S. Senate,,CON,Lon Mabon,3
+Klamath,PRECINCT 32,U.S. Senate,,CON,Lon Mabon,2
+Klamath,PRECINCT 33,U.S. Senate,,CON,Lon Mabon,7
+Klamath,PRECINCT 34,U.S. Senate,,CON,Lon Mabon,9
+Klamath,PRECINCT 35,U.S. Senate,,CON,Lon Mabon,3
+Klamath,PRECINCT 36,U.S. Senate,,CON,Lon Mabon,6
+Klamath,PRECINCT 37,U.S. Senate,,CON,Lon Mabon,8
+Klamath,PRECINCT 38,U.S. Senate,,CON,Lon Mabon,10
+Klamath,PRECINCT 39,U.S. Senate,,CON,Lon Mabon,1
+Klamath,PRECINCT 40,U.S. Senate,,CON,Lon Mabon,16
+Klamath,PRECINCT 41,U.S. Senate,,CON,Lon Mabon,6
+Klamath,PRECINCT 42,U.S. Senate,,CON,Lon Mabon,4
+Klamath,PRECINCT 1,U.S. House,2,REP,Greg Walden,476
+Klamath,PRECINCT 2,U.S. House,2,REP,Greg Walden,33
+Klamath,PRECINCT 3,U.S. House,2,REP,Greg Walden,363
+Klamath,PRECINCT 4,U.S. House,2,REP,Greg Walden,395
+Klamath,PRECINCT 5,U.S. House,2,REP,Greg Walden,98
+Klamath,PRECINCT 6,U.S. House,2,REP,Greg Walden,67
+Klamath,PRECINCT 7,U.S. House,2,REP,Greg Walden,1126
+Klamath,PRECINCT 8,U.S. House,2,REP,Greg Walden,296
+Klamath,PRECINCT 9,U.S. House,2,REP,Greg Walden,455
+Klamath,PRECINCT 10,U.S. House,2,REP,Greg Walden,114
+Klamath,PRECINCT 11,U.S. House,2,REP,Greg Walden,755
+Klamath,PRECINCT 12,U.S. House,2,REP,Greg Walden,461
+Klamath,PRECINCT 13,U.S. House,2,REP,Greg Walden,1457
+Klamath,PRECINCT 14,U.S. House,2,REP,Greg Walden,107
+Klamath,PRECINCT 15,U.S. House,2,REP,Greg Walden,595
+Klamath,PRECINCT 16,U.S. House,2,REP,Greg Walden,144
+Klamath,PRECINCT 17,U.S. House,2,REP,Greg Walden,191
+Klamath,PRECINCT 18,U.S. House,2,REP,Greg Walden,625
+Klamath,PRECINCT 19,U.S. House,2,REP,Greg Walden,129
+Klamath,PRECINCT 20,U.S. House,2,REP,Greg Walden,455
+Klamath,PRECINCT 21,U.S. House,2,REP,Greg Walden,1167
+Klamath,PRECINCT 22,U.S. House,2,REP,Greg Walden,277
+Klamath,PRECINCT 23,U.S. House,2,REP,Greg Walden,918
+Klamath,PRECINCT 24,U.S. House,2,REP,Greg Walden,395
+Klamath,PRECINCT 25,U.S. House,2,REP,Greg Walden,488
+Klamath,PRECINCT 26,U.S. House,2,REP,Greg Walden,625
+Klamath,PRECINCT 27,U.S. House,2,REP,Greg Walden,947
+Klamath,PRECINCT 28,U.S. House,2,REP,Greg Walden,153
+Klamath,PRECINCT 29,U.S. House,2,REP,Greg Walden,549
+Klamath,PRECINCT 30,U.S. House,2,REP,Greg Walden,483
+Klamath,PRECINCT 31,U.S. House,2,REP,Greg Walden,621
+Klamath,PRECINCT 32,U.S. House,2,REP,Greg Walden,79
+Klamath,PRECINCT 33,U.S. House,2,REP,Greg Walden,270
+Klamath,PRECINCT 34,U.S. House,2,REP,Greg Walden,252
+Klamath,PRECINCT 35,U.S. House,2,REP,Greg Walden,159
+Klamath,PRECINCT 36,U.S. House,2,REP,Greg Walden,262
+Klamath,PRECINCT 37,U.S. House,2,REP,Greg Walden,414
+Klamath,PRECINCT 38,U.S. House,2,REP,Greg Walden,233
+Klamath,PRECINCT 39,U.S. House,2,REP,Greg Walden,28
+Klamath,PRECINCT 40,U.S. House,2,REP,Greg Walden,276
+Klamath,PRECINCT 41,U.S. House,2,REP,Greg Walden,359
+Klamath,PRECINCT 42,U.S. House,2,REP,Greg Walden,137
+Klamath,PRECINCT 1,U.S. House,2,LIB,Mike Wood,24
+Klamath,PRECINCT 2,U.S. House,2,LIB,Mike Wood,6
+Klamath,PRECINCT 3,U.S. House,2,LIB,Mike Wood,13
+Klamath,PRECINCT 4,U.S. House,2,LIB,Mike Wood,29
+Klamath,PRECINCT 5,U.S. House,2,LIB,Mike Wood,12
+Klamath,PRECINCT 6,U.S. House,2,LIB,Mike Wood,5
+Klamath,PRECINCT 7,U.S. House,2,LIB,Mike Wood,48
+Klamath,PRECINCT 8,U.S. House,2,LIB,Mike Wood,7
+Klamath,PRECINCT 9,U.S. House,2,LIB,Mike Wood,9
+Klamath,PRECINCT 10,U.S. House,2,LIB,Mike Wood,0
+Klamath,PRECINCT 11,U.S. House,2,LIB,Mike Wood,16
+Klamath,PRECINCT 12,U.S. House,2,LIB,Mike Wood,5
+Klamath,PRECINCT 13,U.S. House,2,LIB,Mike Wood,25
+Klamath,PRECINCT 14,U.S. House,2,LIB,Mike Wood,5
+Klamath,PRECINCT 15,U.S. House,2,LIB,Mike Wood,2
+Klamath,PRECINCT 16,U.S. House,2,LIB,Mike Wood,4
+Klamath,PRECINCT 17,U.S. House,2,LIB,Mike Wood,3
+Klamath,PRECINCT 18,U.S. House,2,LIB,Mike Wood,7
+Klamath,PRECINCT 19,U.S. House,2,LIB,Mike Wood,11
+Klamath,PRECINCT 20,U.S. House,2,LIB,Mike Wood,2
+Klamath,PRECINCT 21,U.S. House,2,LIB,Mike Wood,15
+Klamath,PRECINCT 22,U.S. House,2,LIB,Mike Wood,18
+Klamath,PRECINCT 23,U.S. House,2,LIB,Mike Wood,16
+Klamath,PRECINCT 24,U.S. House,2,LIB,Mike Wood,26
+Klamath,PRECINCT 25,U.S. House,2,LIB,Mike Wood,6
+Klamath,PRECINCT 26,U.S. House,2,LIB,Mike Wood,11
+Klamath,PRECINCT 27,U.S. House,2,LIB,Mike Wood,16
+Klamath,PRECINCT 28,U.S. House,2,LIB,Mike Wood,20
+Klamath,PRECINCT 29,U.S. House,2,LIB,Mike Wood,4
+Klamath,PRECINCT 30,U.S. House,2,LIB,Mike Wood,11
+Klamath,PRECINCT 31,U.S. House,2,LIB,Mike Wood,12
+Klamath,PRECINCT 32,U.S. House,2,LIB,Mike Wood,10
+Klamath,PRECINCT 33,U.S. House,2,LIB,Mike Wood,4
+Klamath,PRECINCT 34,U.S. House,2,LIB,Mike Wood,7
+Klamath,PRECINCT 35,U.S. House,2,LIB,Mike Wood,15
+Klamath,PRECINCT 36,U.S. House,2,LIB,Mike Wood,3
+Klamath,PRECINCT 37,U.S. House,2,LIB,Mike Wood,12
+Klamath,PRECINCT 38,U.S. House,2,LIB,Mike Wood,14
+Klamath,PRECINCT 39,U.S. House,2,LIB,Mike Wood,1
+Klamath,PRECINCT 40,U.S. House,2,LIB,Mike Wood,19
+Klamath,PRECINCT 41,U.S. House,2,LIB,Mike Wood,11
+Klamath,PRECINCT 42,U.S. House,2,LIB,Mike Wood,4
+Klamath,PRECINCT 1,U.S. House,2,DEM,Peter Buckley,233
+Klamath,PRECINCT 2,U.S. House,2,DEM,Peter Buckley,16
+Klamath,PRECINCT 3,U.S. House,2,DEM,Peter Buckley,136
+Klamath,PRECINCT 4,U.S. House,2,DEM,Peter Buckley,133
+Klamath,PRECINCT 5,U.S. House,2,DEM,Peter Buckley,49
+Klamath,PRECINCT 6,U.S. House,2,DEM,Peter Buckley,20
+Klamath,PRECINCT 7,U.S. House,2,DEM,Peter Buckley,230
+Klamath,PRECINCT 8,U.S. House,2,DEM,Peter Buckley,67
+Klamath,PRECINCT 9,U.S. House,2,DEM,Peter Buckley,67
+Klamath,PRECINCT 10,U.S. House,2,DEM,Peter Buckley,25
+Klamath,PRECINCT 11,U.S. House,2,DEM,Peter Buckley,155
+Klamath,PRECINCT 12,U.S. House,2,DEM,Peter Buckley,63
+Klamath,PRECINCT 13,U.S. House,2,DEM,Peter Buckley,131
+Klamath,PRECINCT 14,U.S. House,2,DEM,Peter Buckley,18
+Klamath,PRECINCT 15,U.S. House,2,DEM,Peter Buckley,24
+Klamath,PRECINCT 16,U.S. House,2,DEM,Peter Buckley,9
+Klamath,PRECINCT 17,U.S. House,2,DEM,Peter Buckley,14
+Klamath,PRECINCT 18,U.S. House,2,DEM,Peter Buckley,79
+Klamath,PRECINCT 19,U.S. House,2,DEM,Peter Buckley,42
+Klamath,PRECINCT 20,U.S. House,2,DEM,Peter Buckley,99
+Klamath,PRECINCT 21,U.S. House,2,DEM,Peter Buckley,250
+Klamath,PRECINCT 22,U.S. House,2,DEM,Peter Buckley,51
+Klamath,PRECINCT 23,U.S. House,2,DEM,Peter Buckley,192
+Klamath,PRECINCT 24,U.S. House,2,DEM,Peter Buckley,54
+Klamath,PRECINCT 25,U.S. House,2,DEM,Peter Buckley,99
+Klamath,PRECINCT 26,U.S. House,2,DEM,Peter Buckley,84
+Klamath,PRECINCT 27,U.S. House,2,DEM,Peter Buckley,45
+Klamath,PRECINCT 28,U.S. House,2,DEM,Peter Buckley,35
+Klamath,PRECINCT 29,U.S. House,2,DEM,Peter Buckley,77
+Klamath,PRECINCT 30,U.S. House,2,DEM,Peter Buckley,141
+Klamath,PRECINCT 31,U.S. House,2,DEM,Peter Buckley,143
+Klamath,PRECINCT 32,U.S. House,2,DEM,Peter Buckley,43
+Klamath,PRECINCT 33,U.S. House,2,DEM,Peter Buckley,97
+Klamath,PRECINCT 34,U.S. House,2,DEM,Peter Buckley,59
+Klamath,PRECINCT 35,U.S. House,2,DEM,Peter Buckley,38
+Klamath,PRECINCT 36,U.S. House,2,DEM,Peter Buckley,98
+Klamath,PRECINCT 37,U.S. House,2,DEM,Peter Buckley,153
+Klamath,PRECINCT 38,U.S. House,2,DEM,Peter Buckley,69
+Klamath,PRECINCT 39,U.S. House,2,DEM,Peter Buckley,15
+Klamath,PRECINCT 40,U.S. House,2,DEM,Peter Buckley,93
+Klamath,PRECINCT 41,U.S. House,2,DEM,Peter Buckley,85
+Klamath,PRECINCT 42,U.S. House,2,DEM,Peter Buckley,33
+Klamath,PRECINCT 1,Governor,,REP,Kevin L. Mannix,371
+Klamath,PRECINCT 2,Governor,,REP,Kevin L. Mannix,25
+Klamath,PRECINCT 3,Governor,,REP,Kevin L. Mannix,304
+Klamath,PRECINCT 4,Governor,,REP,Kevin L. Mannix,365
+Klamath,PRECINCT 5,Governor,,REP,Kevin L. Mannix,89
+Klamath,PRECINCT 6,Governor,,REP,Kevin L. Mannix,65
+Klamath,PRECINCT 7,Governor,,REP,Kevin L. Mannix,981
+Klamath,PRECINCT 8,Governor,,REP,Kevin L. Mannix,250
+Klamath,PRECINCT 9,Governor,,REP,Kevin L. Mannix,400
+Klamath,PRECINCT 10,Governor,,REP,Kevin L. Mannix,106
+Klamath,PRECINCT 11,Governor,,REP,Kevin L. Mannix,615
+Klamath,PRECINCT 12,Governor,,REP,Kevin L. Mannix,408
+Klamath,PRECINCT 13,Governor,,REP,Kevin L. Mannix,1301
+Klamath,PRECINCT 14,Governor,,REP,Kevin L. Mannix,94
+Klamath,PRECINCT 15,Governor,,REP,Kevin L. Mannix,549
+Klamath,PRECINCT 16,Governor,,REP,Kevin L. Mannix,131
+Klamath,PRECINCT 17,Governor,,REP,Kevin L. Mannix,163
+Klamath,PRECINCT 18,Governor,,REP,Kevin L. Mannix,568
+Klamath,PRECINCT 19,Governor,,REP,Kevin L. Mannix,105
+Klamath,PRECINCT 20,Governor,,REP,Kevin L. Mannix,385
+Klamath,PRECINCT 21,Governor,,REP,Kevin L. Mannix,930
+Klamath,PRECINCT 22,Governor,,REP,Kevin L. Mannix,210
+Klamath,PRECINCT 23,Governor,,REP,Kevin L. Mannix,724
+Klamath,PRECINCT 24,Governor,,REP,Kevin L. Mannix,310
+Klamath,PRECINCT 25,Governor,,REP,Kevin L. Mannix,390
+Klamath,PRECINCT 26,Governor,,REP,Kevin L. Mannix,541
+Klamath,PRECINCT 27,Governor,,REP,Kevin L. Mannix,792
+Klamath,PRECINCT 28,Governor,,REP,Kevin L. Mannix,130
+Klamath,PRECINCT 29,Governor,,REP,Kevin L. Mannix,478
+Klamath,PRECINCT 30,Governor,,REP,Kevin L. Mannix,390
+Klamath,PRECINCT 31,Governor,,REP,Kevin L. Mannix,527
+Klamath,PRECINCT 32,Governor,,REP,Kevin L. Mannix,64
+Klamath,PRECINCT 33,Governor,,REP,Kevin L. Mannix,200
+Klamath,PRECINCT 34,Governor,,REP,Kevin L. Mannix,203
+Klamath,PRECINCT 35,Governor,,REP,Kevin L. Mannix,124
+Klamath,PRECINCT 36,Governor,,REP,Kevin L. Mannix,210
+Klamath,PRECINCT 37,Governor,,REP,Kevin L. Mannix,337
+Klamath,PRECINCT 38,Governor,,REP,Kevin L. Mannix,191
+Klamath,PRECINCT 39,Governor,,REP,Kevin L. Mannix,33
+Klamath,PRECINCT 40,Governor,,REP,Kevin L. Mannix,312
+Klamath,PRECINCT 41,Governor,,REP,Kevin L. Mannix,292
+Klamath,PRECINCT 42,Governor,,REP,Kevin L. Mannix,90
+Klamath,PRECINCT 1,Governor,,DEM,Ted Kulongoski,310
+Klamath,PRECINCT 2,Governor,,DEM,Ted Kulongoski,23
+Klamath,PRECINCT 3,Governor,,DEM,Ted Kulongoski,172
+Klamath,PRECINCT 4,Governor,,DEM,Ted Kulongoski,163
+Klamath,PRECINCT 5,Governor,,DEM,Ted Kulongoski,56
+Klamath,PRECINCT 6,Governor,,DEM,Ted Kulongoski,17
+Klamath,PRECINCT 7,Governor,,DEM,Ted Kulongoski,345
+Klamath,PRECINCT 8,Governor,,DEM,Ted Kulongoski,102
+Klamath,PRECINCT 9,Governor,,DEM,Ted Kulongoski,106
+Klamath,PRECINCT 10,Governor,,DEM,Ted Kulongoski,32
+Klamath,PRECINCT 11,Governor,,DEM,Ted Kulongoski,222
+Klamath,PRECINCT 12,Governor,,DEM,Ted Kulongoski,117
+Klamath,PRECINCT 13,Governor,,DEM,Ted Kulongoski,255
+Klamath,PRECINCT 14,Governor,,DEM,Ted Kulongoski,31
+Klamath,PRECINCT 15,Governor,,DEM,Ted Kulongoski,53
+Klamath,PRECINCT 16,Governor,,DEM,Ted Kulongoski,15
+Klamath,PRECINCT 17,Governor,,DEM,Ted Kulongoski,33
+Klamath,PRECINCT 18,Governor,,DEM,Ted Kulongoski,119
+Klamath,PRECINCT 19,Governor,,DEM,Ted Kulongoski,49
+Klamath,PRECINCT 20,Governor,,DEM,Ted Kulongoski,174
+Klamath,PRECINCT 21,Governor,,DEM,Ted Kulongoski,453
+Klamath,PRECINCT 22,Governor,,DEM,Ted Kulongoski,98
+Klamath,PRECINCT 23,Governor,,DEM,Ted Kulongoski,346
+Klamath,PRECINCT 24,Governor,,DEM,Ted Kulongoski,125
+Klamath,PRECINCT 25,Governor,,DEM,Ted Kulongoski,180
+Klamath,PRECINCT 26,Governor,,DEM,Ted Kulongoski,159
+Klamath,PRECINCT 27,Governor,,DEM,Ted Kulongoski,272
+Klamath,PRECINCT 28,Governor,,DEM,Ted Kulongoski,59
+Klamath,PRECINCT 29,Governor,,DEM,Ted Kulongoski,143
+Klamath,PRECINCT 30,Governor,,DEM,Ted Kulongoski,222
+Klamath,PRECINCT 31,Governor,,DEM,Ted Kulongoski,226
+Klamath,PRECINCT 32,Governor,,DEM,Ted Kulongoski,56
+Klamath,PRECINCT 33,Governor,,DEM,Ted Kulongoski,150
+Klamath,PRECINCT 34,Governor,,DEM,Ted Kulongoski,97
+Klamath,PRECINCT 35,Governor,,DEM,Ted Kulongoski,63
+Klamath,PRECINCT 36,Governor,,DEM,Ted Kulongoski,138
+Klamath,PRECINCT 37,Governor,,DEM,Ted Kulongoski,228
+Klamath,PRECINCT 38,Governor,,DEM,Ted Kulongoski,97
+Klamath,PRECINCT 39,Governor,,DEM,Ted Kulongoski,16
+Klamath,PRECINCT 40,Governor,,DEM,Ted Kulongoski,130
+Klamath,PRECINCT 41,Governor,,DEM,Ted Kulongoski,143
+Klamath,PRECINCT 42,Governor,,DEM,Ted Kulongoski,66
+Klamath,PRECINCT 1,Governor,,LIB,Tom Cox,45
+Klamath,PRECINCT 2,Governor,,LIB,Tom Cox,7
+Klamath,PRECINCT 3,Governor,,LIB,Tom Cox,30
+Klamath,PRECINCT 4,Governor,,LIB,Tom Cox,35
+Klamath,PRECINCT 5,Governor,,LIB,Tom Cox,15
+Klamath,PRECINCT 6,Governor,,LIB,Tom Cox,10
+Klamath,PRECINCT 7,Governor,,LIB,Tom Cox,77
+Klamath,PRECINCT 8,Governor,,LIB,Tom Cox,15
+Klamath,PRECINCT 9,Governor,,LIB,Tom Cox,23
+Klamath,PRECINCT 10,Governor,,LIB,Tom Cox,1
+Klamath,PRECINCT 11,Governor,,LIB,Tom Cox,47
+Klamath,PRECINCT 12,Governor,,LIB,Tom Cox,9
+Klamath,PRECINCT 13,Governor,,LIB,Tom Cox,52
+Klamath,PRECINCT 14,Governor,,LIB,Tom Cox,5
+Klamath,PRECINCT 15,Governor,,LIB,Tom Cox,13
+Klamath,PRECINCT 16,Governor,,LIB,Tom Cox,8
+Klamath,PRECINCT 17,Governor,,LIB,Tom Cox,12
+Klamath,PRECINCT 18,Governor,,LIB,Tom Cox,31
+Klamath,PRECINCT 19,Governor,,LIB,Tom Cox,12
+Klamath,PRECINCT 20,Governor,,LIB,Tom Cox,35
+Klamath,PRECINCT 21,Governor,,LIB,Tom Cox,50
+Klamath,PRECINCT 22,Governor,,LIB,Tom Cox,31
+Klamath,PRECINCT 23,Governor,,LIB,Tom Cox,55
+Klamath,PRECINCT 24,Governor,,LIB,Tom Cox,19
+Klamath,PRECINCT 25,Governor,,LIB,Tom Cox,21
+Klamath,PRECINCT 26,Governor,,LIB,Tom Cox,26
+Klamath,PRECINCT 27,Governor,,LIB,Tom Cox,32
+Klamath,PRECINCT 28,Governor,,LIB,Tom Cox,6
+Klamath,PRECINCT 29,Governor,,LIB,Tom Cox,16
+Klamath,PRECINCT 30,Governor,,LIB,Tom Cox,28
+Klamath,PRECINCT 31,Governor,,LIB,Tom Cox,17
+Klamath,PRECINCT 32,Governor,,LIB,Tom Cox,6
+Klamath,PRECINCT 33,Governor,,LIB,Tom Cox,25
+Klamath,PRECINCT 34,Governor,,LIB,Tom Cox,22
+Klamath,PRECINCT 35,Governor,,LIB,Tom Cox,12
+Klamath,PRECINCT 36,Governor,,LIB,Tom Cox,24
+Klamath,PRECINCT 37,Governor,,LIB,Tom Cox,16
+Klamath,PRECINCT 38,Governor,,LIB,Tom Cox,26
+Klamath,PRECINCT 39,Governor,,LIB,Tom Cox,4
+Klamath,PRECINCT 40,Governor,,LIB,Tom Cox,37
+Klamath,PRECINCT 41,Governor,,LIB,Tom Cox,16
+Klamath,PRECINCT 42,Governor,,LIB,Tom Cox,15
+Klamath,PRECINCT 1,State House,55,REP,George Gilman,377
+Klamath,PRECINCT 2,State House,55,REP,George Gilman,26
+Klamath,PRECINCT 3,State House,55,REP,George Gilman,288
+Klamath,PRECINCT 4,State House,55,REP,George Gilman,369
+Klamath,PRECINCT 5,State House,55,REP,George Gilman,93
+Klamath,PRECINCT 6,State House,55,REP,George Gilman,60
+Klamath,PRECINCT 1,State House,55,DEM,Karole S. Stockton,322
+Klamath,PRECINCT 2,State House,55,DEM,Karole S. Stockton,20
+Klamath,PRECINCT 3,State House,55,DEM,Karole S. Stockton,197
+Klamath,PRECINCT 4,State House,55,DEM,Karole S. Stockton,167
+Klamath,PRECINCT 5,State House,55,DEM,Karole S. Stockton,56
+Klamath,PRECINCT 6,State House,55,DEM,Karole S. Stockton,25
+Klamath,PRECINCT 7,State House,56,REP,Bill Garrard,1078
+Klamath,PRECINCT 8,State House,56,REP,Bill Garrard,295
+Klamath,PRECINCT 9,State House,56,REP,Bill Garrard,429
+Klamath,PRECINCT 10,State House,56,REP,Bill Garrard,111
+Klamath,PRECINCT 11,State House,56,REP,Bill Garrard,706
+Klamath,PRECINCT 12,State House,56,REP,Bill Garrard,444
+Klamath,PRECINCT 13,State House,56,REP,Bill Garrard,1348
+Klamath,PRECINCT 14,State House,56,REP,Bill Garrard,100
+Klamath,PRECINCT 15,State House,56,REP,Bill Garrard,537
+Klamath,PRECINCT 16,State House,56,REP,Bill Garrard,136
+Klamath,PRECINCT 17,State House,56,REP,Bill Garrard,182
+Klamath,PRECINCT 18,State House,56,REP,Bill Garrard,596
+Klamath,PRECINCT 19,State House,56,REP,Bill Garrard,135
+Klamath,PRECINCT 20,State House,56,REP,Bill Garrard,451
+Klamath,PRECINCT 21,State House,56,REP,Bill Garrard,1130
+Klamath,PRECINCT 22,State House,56,REP,Bill Garrard,276
+Klamath,PRECINCT 23,State House,56,REP,Bill Garrard,933
+Klamath,PRECINCT 24,State House,56,REP,Bill Garrard,382
+Klamath,PRECINCT 25,State House,56,REP,Bill Garrard,466
+Klamath,PRECINCT 26,State House,56,REP,Bill Garrard,590
+Klamath,PRECINCT 27,State House,56,REP,Bill Garrard,916
+Klamath,PRECINCT 28,State House,56,REP,Bill Garrard,168
+Klamath,PRECINCT 29,State House,56,REP,Bill Garrard,518
+Klamath,PRECINCT 30,State House,56,REP,Bill Garrard,473
+Klamath,PRECINCT 31,State House,56,REP,Bill Garrard,624
+Klamath,PRECINCT 32,State House,56,REP,Bill Garrard,77
+Klamath,PRECINCT 33,State House,56,REP,Bill Garrard,271
+Klamath,PRECINCT 34,State House,56,REP,Bill Garrard,258
+Klamath,PRECINCT 35,State House,56,REP,Bill Garrard,161
+Klamath,PRECINCT 36,State House,56,REP,Bill Garrard,282
+Klamath,PRECINCT 37,State House,56,REP,Bill Garrard,242
+Klamath,PRECINCT 38,State House,56,REP,Bill Garrard,250
+Klamath,PRECINCT 39,State House,56,REP,Bill Garrard,43
+Klamath,PRECINCT 40,State House,56,REP,Bill Garrard,303
+Klamath,PRECINCT 41,State House,56,REP,Bill Garrard,253
+Klamath,PRECINCT 42,State House,56,REP,Bill Garrard,120
