@@ -1,783 +1,783 @@
 county,precinct,office,district,party,candidate,votes
-Crook,PRECINCT 01 ,President,,DEM,"Clinton, Hillary",45
-Crook,PRECINCT 10 ,President,,DEM,"Clinton, Hillary",58
-Crook,PRECINCT 11 ,President,,DEM,"Clinton, Hillary",144
-Crook,PRECINCT 12 ,President,,DEM,"Clinton, Hillary",12
-Crook,PRECINCT 13 ,President,,DEM,"Clinton, Hillary",92
-Crook,PRECINCT 14 ,President,,DEM,"Clinton, Hillary",63
-Crook,PRECINCT 15 ,President,,DEM,"Clinton, Hillary",142
-Crook,PRECINCT 16 ,President,,DEM,"Clinton, Hillary",57
-Crook,PRECINCT 17 ,President,,DEM,"Clinton, Hillary",295
-Crook,PRECINCT 02 ,President,,DEM,"Clinton, Hillary",36
-Crook,PRECINCT 03 ,President,,DEM,"Clinton, Hillary",27
-Crook,PRECINCT 04 ,President,,DEM,"Clinton, Hillary",84
-Crook,PRECINCT 01 ,President,,DEM,"Obama, Barack",58
-Crook,PRECINCT 10 ,President,,DEM,"Obama, Barack",51
-Crook,PRECINCT 11 ,President,,DEM,"Obama, Barack",173
-Crook,PRECINCT 12 ,President,,DEM,"Obama, Barack",9
-Crook,PRECINCT 13 ,President,,DEM,"Obama, Barack",58
-Crook,PRECINCT 14 ,President,,DEM,"Obama, Barack",45
-Crook,PRECINCT 15 ,President,,DEM,"Obama, Barack",94
-Crook,PRECINCT 16 ,President,,DEM,"Obama, Barack",45
-Crook,PRECINCT 17 ,President,,DEM,"Obama, Barack",207
-Crook,PRECINCT 02 ,President,,DEM,"Obama, Barack",53
-Crook,PRECINCT 03 ,President,,DEM,"Obama, Barack",13
-Crook,PRECINCT 04 ,President,,DEM,"Obama, Barack",83
-Crook,PRECINCT 01 ,President,,DEM,Write-ins,1
-Crook,PRECINCT 10 ,President,,DEM,Write-ins,3
-Crook,PRECINCT 11 ,President,,DEM,Write-ins,7
-Crook,PRECINCT 12 ,President,,DEM,Write-ins,1
-Crook,PRECINCT 13 ,President,,DEM,Write-ins,5
-Crook,PRECINCT 14 ,President,,DEM,Write-ins,1
-Crook,PRECINCT 15 ,President,,DEM,Write-ins,6
-Crook,PRECINCT 16 ,President,,DEM,Write-ins,3
-Crook,PRECINCT 17 ,President,,DEM,Write-ins,7
-Crook,PRECINCT 02 ,President,,DEM,Write-ins,0
-Crook,PRECINCT 03 ,President,,DEM,Write-ins,1
-Crook,PRECINCT 04 ,President,,DEM,Write-ins,6
-Crook,PRECINCT 01 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 10 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 11 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 12 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 13 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 14 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 15 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 16 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 17 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 02 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 03 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 04 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 05 ,President,,DEM,"Clinton, Hillary",165
-Crook,PRECINCT 06 ,President,,DEM,"Clinton, Hillary",61
-Crook,PRECINCT 07 ,President,,DEM,"Clinton, Hillary",10
-Crook,PRECINCT 08 ,President,,DEM,"Clinton, Hillary",75
-Crook,PRECINCT 09 ,President,,DEM,"Clinton, Hillary",23
-Crook,PRECINCT 05 ,President,,DEM,"Obama, Barack",161
-Crook,PRECINCT 06 ,President,,DEM,"Obama, Barack",95
-Crook,PRECINCT 07 ,President,,DEM,"Obama, Barack",17
-Crook,PRECINCT 08 ,President,,DEM,"Obama, Barack",65
-Crook,PRECINCT 09 ,President,,DEM,"Obama, Barack",16
-Crook,PRECINCT 05 ,President,,DEM,Write-ins,9
-Crook,PRECINCT 06 ,President,,DEM,Write-ins,2
-Crook,PRECINCT 07 ,President,,DEM,Write-ins,1
-Crook,PRECINCT 08 ,President,,DEM,Write-ins,6
-Crook,PRECINCT 09 ,President,,DEM,Write-ins,3
-Crook,PRECINCT 05 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 06 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 07 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 08 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 09 ,President,,DEM,Over Votes,0
-Crook,PRECINCT 01 ,U.S. Senate,,DEM,"Goberman, Pavel",1
-Crook,PRECINCT 10 ,U.S. Senate,,DEM,"Goberman, Pavel",3
-Crook,PRECINCT 11 ,U.S. Senate,,DEM,"Goberman, Pavel",8
-Crook,PRECINCT 12 ,U.S. Senate,,DEM,"Goberman, Pavel",1
-Crook,PRECINCT 13 ,U.S. Senate,,DEM,"Goberman, Pavel",3
-Crook,PRECINCT 14 ,U.S. Senate,,DEM,"Goberman, Pavel",2
-Crook,PRECINCT 15 ,U.S. Senate,,DEM,"Goberman, Pavel",9
-Crook,PRECINCT 16 ,U.S. Senate,,DEM,"Goberman, Pavel",4
-Crook,PRECINCT 17 ,U.S. Senate,,DEM,"Goberman, Pavel",17
-Crook,PRECINCT 02 ,U.S. Senate,,DEM,"Goberman, Pavel",0
-Crook,PRECINCT 03 ,U.S. Senate,,DEM,"Goberman, Pavel",2
-Crook,PRECINCT 04 ,U.S. Senate,,DEM,"Goberman, Pavel",6
-Crook,PRECINCT 05 ,U.S. Senate,,DEM,"Goberman, Pavel",9
-Crook,PRECINCT 01 ,U.S. Senate,,DEM,"Loera, David ",0
-Crook,PRECINCT 10 ,U.S. Senate,,DEM,"Loera, David ",1
-Crook,PRECINCT 11 ,U.S. Senate,,DEM,"Loera, David ",2
-Crook,PRECINCT 12 ,U.S. Senate,,DEM,"Loera, David ",1
-Crook,PRECINCT 13 ,U.S. Senate,,DEM,"Loera, David ",3
-Crook,PRECINCT 14 ,U.S. Senate,,DEM,"Loera, David ",3
-Crook,PRECINCT 15 ,U.S. Senate,,DEM,"Loera, David ",5
-Crook,PRECINCT 16 ,U.S. Senate,,DEM,"Loera, David ",2
-Crook,PRECINCT 17 ,U.S. Senate,,DEM,"Loera, David ",1
-Crook,PRECINCT 02 ,U.S. Senate,,DEM,"Loera, David ",1
-Crook,PRECINCT 03 ,U.S. Senate,,DEM,"Loera, David ",1
-Crook,PRECINCT 04 ,U.S. Senate,,DEM,"Loera, David ",2
-Crook,PRECINCT 05 ,U.S. Senate,,DEM,"Loera, David ",8
-Crook,PRECINCT 01 ,U.S. Senate,,DEM,"Merkley, Jeff ",43
-Crook,PRECINCT 10 ,U.S. Senate,,DEM,"Merkley, Jeff ",33
-Crook,PRECINCT 11 ,U.S. Senate,,DEM,"Merkley, Jeff ",121
-Crook,PRECINCT 12 ,U.S. Senate,,DEM,"Merkley, Jeff ",5
-Crook,PRECINCT 13 ,U.S. Senate,,DEM,"Merkley, Jeff ",57
-Crook,PRECINCT 14 ,U.S. Senate,,DEM,"Merkley, Jeff ",35
-Crook,PRECINCT 15 ,U.S. Senate,,DEM,"Merkley, Jeff ",76
-Crook,PRECINCT 16 ,U.S. Senate,,DEM,"Merkley, Jeff ",35
-Crook,PRECINCT 17 ,U.S. Senate,,DEM,"Merkley, Jeff ",209
-Crook,PRECINCT 02 ,U.S. Senate,,DEM,"Merkley, Jeff ",28
-Crook,PRECINCT 03 ,U.S. Senate,,DEM,"Merkley, Jeff ",6
-Crook,PRECINCT 04 ,U.S. Senate,,DEM,"Merkley, Jeff ",63
-Crook,PRECINCT 05 ,U.S. Senate,,DEM,"Merkley, Jeff ",118
-Crook,PRECINCT 01 ,U.S. Senate,,DEM,"Neville, Candy",8
-Crook,PRECINCT 10 ,U.S. Senate,,DEM,"Neville, Candy",14
-Crook,PRECINCT 11 ,U.S. Senate,,DEM,"Neville, Candy",24
-Crook,PRECINCT 12 ,U.S. Senate,,DEM,"Neville, Candy",3
-Crook,PRECINCT 13 ,U.S. Senate,,DEM,"Neville, Candy",22
-Crook,PRECINCT 14 ,U.S. Senate,,DEM,"Neville, Candy",23
-Crook,PRECINCT 15 ,U.S. Senate,,DEM,"Neville, Candy",19
-Crook,PRECINCT 16 ,U.S. Senate,,DEM,"Neville, Candy",9
-Crook,PRECINCT 17 ,U.S. Senate,,DEM,"Neville, Candy",55
-Crook,PRECINCT 02 ,U.S. Senate,,DEM,"Neville, Candy",7
-Crook,PRECINCT 03 ,U.S. Senate,,DEM,"Neville, Candy",14
-Crook,PRECINCT 04 ,U.S. Senate,,DEM,"Neville, Candy",16
-Crook,PRECINCT 05 ,U.S. Senate,,DEM,"Neville, Candy",36
-Crook,PRECINCT 01 ,U.S. Senate,,DEM,"Novick, Steve",32
-Crook,PRECINCT 10 ,U.S. Senate,,DEM,"Novick, Steve",35
-Crook,PRECINCT 11 ,U.S. Senate,,DEM,"Novick, Steve",86
-Crook,PRECINCT 12 ,U.S. Senate,,DEM,"Novick, Steve",7
-Crook,PRECINCT 13 ,U.S. Senate,,DEM,"Novick, Steve",34
-Crook,PRECINCT 14 ,U.S. Senate,,DEM,"Novick, Steve",18
-Crook,PRECINCT 15 ,U.S. Senate,,DEM,"Novick, Steve",78
-Crook,PRECINCT 16 ,U.S. Senate,,DEM,"Novick, Steve",30
-Crook,PRECINCT 17 ,U.S. Senate,,DEM,"Novick, Steve",126
-Crook,PRECINCT 02 ,U.S. Senate,,DEM,"Novick, Steve",24
-Crook,PRECINCT 03 ,U.S. Senate,,DEM,"Novick, Steve",12
-Crook,PRECINCT 04 ,U.S. Senate,,DEM,"Novick, Steve",48
-Crook,PRECINCT 05 ,U.S. Senate,,DEM,"Novick, Steve",100
-Crook,PRECINCT 01 ,U.S. Senate,,DEM,"Obrist, Roger S. ",2
-Crook,PRECINCT 10 ,U.S. Senate,,DEM,"Obrist, Roger S. ",2
-Crook,PRECINCT 11 ,U.S. Senate,,DEM,"Obrist, Roger S. ",9
-Crook,PRECINCT 12 ,U.S. Senate,,DEM,"Obrist, Roger S. ",0
-Crook,PRECINCT 13 ,U.S. Senate,,DEM,"Obrist, Roger S. ",6
-Crook,PRECINCT 14 ,U.S. Senate,,DEM,"Obrist, Roger S. ",1
-Crook,PRECINCT 15 ,U.S. Senate,,DEM,"Obrist, Roger S. ",8
-Crook,PRECINCT 16 ,U.S. Senate,,DEM,"Obrist, Roger S. ",0
-Crook,PRECINCT 17 ,U.S. Senate,,DEM,"Obrist, Roger S. ",23
-Crook,PRECINCT 02 ,U.S. Senate,,DEM,"Obrist, Roger S. ",2
-Crook,PRECINCT 03 ,U.S. Senate,,DEM,"Obrist, Roger S. ",2
-Crook,PRECINCT 04 ,U.S. Senate,,DEM,"Obrist, Roger S. ",4
-Crook,PRECINCT 05 ,U.S. Senate,,DEM,"Obrist, Roger S. ",12
-Crook,PRECINCT 01 ,U.S. Senate,,DEM,Write-ins,1
-Crook,PRECINCT 10 ,U.S. Senate,,DEM,Write-ins,0
-Crook,PRECINCT 11 ,U.S. Senate,,DEM,Write-ins,7
-Crook,PRECINCT 12 ,U.S. Senate,,DEM,Write-ins,0
-Crook,PRECINCT 13 ,U.S. Senate,,DEM,Write-ins,5
-Crook,PRECINCT 14 ,U.S. Senate,,DEM,Write-ins,2
-Crook,PRECINCT 15 ,U.S. Senate,,DEM,Write-ins,3
-Crook,PRECINCT 16 ,U.S. Senate,,DEM,Write-ins,3
-Crook,PRECINCT 17 ,U.S. Senate,,DEM,Write-ins,4
-Crook,PRECINCT 02 ,U.S. Senate,,DEM,Write-ins,3
-Crook,PRECINCT 03 ,U.S. Senate,,DEM,Write-ins,0
-Crook,PRECINCT 04 ,U.S. Senate,,DEM,Write-ins,2
-Crook,PRECINCT 05 ,U.S. Senate,,DEM,Write-ins,2
-Crook,PRECINCT 01 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 10 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 11 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 12 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 13 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 14 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 15 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 16 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 17 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 02 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 03 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 04 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 05 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 06 ,U.S. Senate,,DEM,"Goberman, Pavel",1
-Crook,PRECINCT 07 ,U.S. Senate,,DEM,"Goberman, Pavel",2
-Crook,PRECINCT 08 ,U.S. Senate,,DEM,"Goberman, Pavel",4
-Crook,PRECINCT 09 ,U.S. Senate,,DEM,"Goberman, Pavel",2
-Crook,PRECINCT 06 ,U.S. Senate,,DEM,"Loera, David ",0
-Crook,PRECINCT 07 ,U.S. Senate,,DEM,"Loera, David ",0
-Crook,PRECINCT 08 ,U.S. Senate,,DEM,"Loera, David ",1
-Crook,PRECINCT 09 ,U.S. Senate,,DEM,"Loera, David ",0
-Crook,PRECINCT 06 ,U.S. Senate,,DEM,"Merkley, Jeff ",58
-Crook,PRECINCT 07 ,U.S. Senate,,DEM,"Merkley, Jeff ",7
-Crook,PRECINCT 08 ,U.S. Senate,,DEM,"Merkley, Jeff ",44
-Crook,PRECINCT 09 ,U.S. Senate,,DEM,"Merkley, Jeff ",12
-Crook,PRECINCT 06 ,U.S. Senate,,DEM,"Neville, Candy",14
-Crook,PRECINCT 07 ,U.S. Senate,,DEM,"Neville, Candy",4
-Crook,PRECINCT 08 ,U.S. Senate,,DEM,"Neville, Candy",10
-Crook,PRECINCT 09 ,U.S. Senate,,DEM,"Neville, Candy",6
-Crook,PRECINCT 06 ,U.S. Senate,,DEM,"Novick, Steve",55
-Crook,PRECINCT 07 ,U.S. Senate,,DEM,"Novick, Steve",11
-Crook,PRECINCT 08 ,U.S. Senate,,DEM,"Novick, Steve",52
-Crook,PRECINCT 09 ,U.S. Senate,,DEM,"Novick, Steve",19
-Crook,PRECINCT 06 ,U.S. Senate,,DEM,"Obrist, Roger S. ",6
-Crook,PRECINCT 07 ,U.S. Senate,,DEM,"Obrist, Roger S. ",0
-Crook,PRECINCT 08 ,U.S. Senate,,DEM,"Obrist, Roger S. ",7
-Crook,PRECINCT 09 ,U.S. Senate,,DEM,"Obrist, Roger S. ",1
-Crook,PRECINCT 06 ,U.S. Senate,,DEM,Write-ins,2
-Crook,PRECINCT 07 ,U.S. Senate,,DEM,Write-ins,0
-Crook,PRECINCT 08 ,U.S. Senate,,DEM,Write-ins,2
-Crook,PRECINCT 09 ,U.S. Senate,,DEM,Write-ins,2
-Crook,PRECINCT 06 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 07 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 08 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 09 ,U.S. Senate,,DEM,Over Votes,0
-Crook,PRECINCT 01 ,U.S. House,2,DEM,"Lemas, Noah",56
-Crook,PRECINCT 10 ,U.S. House,2,DEM,"Lemas, Noah",69
-Crook,PRECINCT 11 ,U.S. House,2,DEM,"Lemas, Noah",166
-Crook,PRECINCT 12 ,U.S. House,2,DEM,"Lemas, Noah",14
-Crook,PRECINCT 13 ,U.S. House,2,DEM,"Lemas, Noah",82
-Crook,PRECINCT 14 ,U.S. House,2,DEM,"Lemas, Noah",65
-Crook,PRECINCT 15 ,U.S. House,2,DEM,"Lemas, Noah",121
-Crook,PRECINCT 16 ,U.S. House,2,DEM,"Lemas, Noah",53
-Crook,PRECINCT 17 ,U.S. House,2,DEM,"Lemas, Noah",283
-Crook,PRECINCT 02 ,U.S. House,2,DEM,"Lemas, Noah",45
-Crook,PRECINCT 03 ,U.S. House,2,DEM,"Lemas, Noah",27
-Crook,PRECINCT 04 ,U.S. House,2,DEM,"Lemas, Noah",97
-Crook,PRECINCT 05 ,U.S. House,2,DEM,"Lemas, Noah",189
-Crook,PRECINCT 01 ,U.S. House,2,DEM,Write-ins,1
-Crook,PRECINCT 10 ,U.S. House,2,DEM,Write-ins,0
-Crook,PRECINCT 11 ,U.S. House,2,DEM,Write-ins,7
-Crook,PRECINCT 12 ,U.S. House,2,DEM,Write-ins,0
-Crook,PRECINCT 13 ,U.S. House,2,DEM,Write-ins,4
-Crook,PRECINCT 14 ,U.S. House,2,DEM,Write-ins,3
-Crook,PRECINCT 15 ,U.S. House,2,DEM,Write-ins,3
-Crook,PRECINCT 16 ,U.S. House,2,DEM,Write-ins,4
-Crook,PRECINCT 17 ,U.S. House,2,DEM,Write-ins,4
-Crook,PRECINCT 02 ,U.S. House,2,DEM,Write-ins,2
-Crook,PRECINCT 03 ,U.S. House,2,DEM,Write-ins,2
-Crook,PRECINCT 04 ,U.S. House,2,DEM,Write-ins,3
-Crook,PRECINCT 05 ,U.S. House,2,DEM,Write-ins,8
-Crook,PRECINCT 01 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 10 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 11 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 12 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 13 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 14 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 15 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 16 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 17 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 02 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 03 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 04 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 05 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 06 ,U.S. House,2,DEM,"Lemas, Noah",102
-Crook,PRECINCT 07 ,U.S. House,2,DEM,"Lemas, Noah",15
-Crook,PRECINCT 08 ,U.S. House,2,DEM,"Lemas, Noah",74
-Crook,PRECINCT 09 ,U.S. House,2,DEM,"Lemas, Noah",26
-Crook,PRECINCT 06 ,U.S. House,2,DEM,Write-ins,4
-Crook,PRECINCT 07 ,U.S. House,2,DEM,Write-ins,0
-Crook,PRECINCT 08 ,U.S. House,2,DEM,Write-ins,2
-Crook,PRECINCT 09 ,U.S. House,2,DEM,Write-ins,1
-Crook,PRECINCT 06 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 07 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 08 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 09 ,U.S. House,2,DEM,Over Votes,0
-Crook,PRECINCT 01 ,Secretary of State,,DEM,"Brown, Kate ",35
-Crook,PRECINCT 10 ,Secretary of State,,DEM,"Brown, Kate ",42
-Crook,PRECINCT 11 ,Secretary of State,,DEM,"Brown, Kate ",142
-Crook,PRECINCT 12 ,Secretary of State,,DEM,"Brown, Kate ",8
-Crook,PRECINCT 13 ,Secretary of State,,DEM,"Brown, Kate ",54
-Crook,PRECINCT 14 ,Secretary of State,,DEM,"Brown, Kate ",47
-Crook,PRECINCT 15 ,Secretary of State,,DEM,"Brown, Kate ",78
-Crook,PRECINCT 16 ,Secretary of State,,DEM,"Brown, Kate ",37
-Crook,PRECINCT 17 ,Secretary of State,,DEM,"Brown, Kate ",197
-Crook,PRECINCT 02 ,Secretary of State,,DEM,"Brown, Kate ",33
-Crook,PRECINCT 03 ,Secretary of State,,DEM,"Brown, Kate ",14
-Crook,PRECINCT 04 ,Secretary of State,,DEM,"Brown, Kate ",71
-Crook,PRECINCT 05 ,Secretary of State,,DEM,"Brown, Kate ",132
-Crook,PRECINCT 01 ,Secretary of State,,DEM,"Metsger, Rick",35
-Crook,PRECINCT 10 ,Secretary of State,,DEM,"Metsger, Rick",28
-Crook,PRECINCT 11 ,Secretary of State,,DEM,"Metsger, Rick",91
-Crook,PRECINCT 12 ,Secretary of State,,DEM,"Metsger, Rick",4
-Crook,PRECINCT 13 ,Secretary of State,,DEM,"Metsger, Rick",47
-Crook,PRECINCT 14 ,Secretary of State,,DEM,"Metsger, Rick",23
-Crook,PRECINCT 15 ,Secretary of State,,DEM,"Metsger, Rick",77
-Crook,PRECINCT 16 ,Secretary of State,,DEM,"Metsger, Rick",33
-Crook,PRECINCT 17 ,Secretary of State,,DEM,"Metsger, Rick",159
-Crook,PRECINCT 02 ,Secretary of State,,DEM,"Metsger, Rick",29
-Crook,PRECINCT 03 ,Secretary of State,,DEM,"Metsger, Rick",12
-Crook,PRECINCT 04 ,Secretary of State,,DEM,"Metsger, Rick",54
-Crook,PRECINCT 05 ,Secretary of State,,DEM,"Metsger, Rick",109
-Crook,PRECINCT 01 ,Secretary of State,,DEM,"Walker, Vicki L.",16
-Crook,PRECINCT 10 ,Secretary of State,,DEM,"Walker, Vicki L.",17
-Crook,PRECINCT 11 ,Secretary of State,,DEM,"Walker, Vicki L.",23
-Crook,PRECINCT 12 ,Secretary of State,,DEM,"Walker, Vicki L.",2
-Crook,PRECINCT 13 ,Secretary of State,,DEM,"Walker, Vicki L.",20
-Crook,PRECINCT 14 ,Secretary of State,,DEM,"Walker, Vicki L.",18
-Crook,PRECINCT 15 ,Secretary of State,,DEM,"Walker, Vicki L.",31
-Crook,PRECINCT 16 ,Secretary of State,,DEM,"Walker, Vicki L.",9
-Crook,PRECINCT 17 ,Secretary of State,,DEM,"Walker, Vicki L.",71
-Crook,PRECINCT 02 ,Secretary of State,,DEM,"Walker, Vicki L.",6
-Crook,PRECINCT 03 ,Secretary of State,,DEM,"Walker, Vicki L.",10
-Crook,PRECINCT 04 ,Secretary of State,,DEM,"Walker, Vicki L.",18
-Crook,PRECINCT 05 ,Secretary of State,,DEM,"Walker, Vicki L.",36
-Crook,PRECINCT 01 ,Secretary of State,,DEM,"Wells, Paul Damian",1
-Crook,PRECINCT 10 ,Secretary of State,,DEM,"Wells, Paul Damian",2
-Crook,PRECINCT 11 ,Secretary of State,,DEM,"Wells, Paul Damian",5
-Crook,PRECINCT 12 ,Secretary of State,,DEM,"Wells, Paul Damian",2
-Crook,PRECINCT 13 ,Secretary of State,,DEM,"Wells, Paul Damian",8
-Crook,PRECINCT 14 ,Secretary of State,,DEM,"Wells, Paul Damian",0
-Crook,PRECINCT 15 ,Secretary of State,,DEM,"Wells, Paul Damian",10
-Crook,PRECINCT 16 ,Secretary of State,,DEM,"Wells, Paul Damian",2
-Crook,PRECINCT 17 ,Secretary of State,,DEM,"Wells, Paul Damian",12
-Crook,PRECINCT 02 ,Secretary of State,,DEM,"Wells, Paul Damian",0
-Crook,PRECINCT 03 ,Secretary of State,,DEM,"Wells, Paul Damian",1
-Crook,PRECINCT 04 ,Secretary of State,,DEM,"Wells, Paul Damian",4
-Crook,PRECINCT 05 ,Secretary of State,,DEM,"Wells, Paul Damian",11
-Crook,PRECINCT 01 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 10 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 11 ,Secretary of State,,DEM,Write-ins,2
-Crook,PRECINCT 12 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 13 ,Secretary of State,,DEM,Write-ins,2
-Crook,PRECINCT 14 ,Secretary of State,,DEM,Write-ins,1
-Crook,PRECINCT 15 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 16 ,Secretary of State,,DEM,Write-ins,1
-Crook,PRECINCT 17 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 02 ,Secretary of State,,DEM,Write-ins,1
-Crook,PRECINCT 03 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 04 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 05 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 01 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 10 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 11 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 12 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 13 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 14 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 15 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 16 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 17 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 02 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 03 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 04 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 05 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 06 ,Secretary of State,,DEM,"Brown, Kate ",75
-Crook,PRECINCT 07 ,Secretary of State,,DEM,"Brown, Kate ",11
-Crook,PRECINCT 08 ,Secretary of State,,DEM,"Brown, Kate ",39
-Crook,PRECINCT 09 ,Secretary of State,,DEM,"Brown, Kate ",26
-Crook,PRECINCT 06 ,Secretary of State,,DEM,"Metsger, Rick",47
-Crook,PRECINCT 07 ,Secretary of State,,DEM,"Metsger, Rick",7
-Crook,PRECINCT 08 ,Secretary of State,,DEM,"Metsger, Rick",54
-Crook,PRECINCT 09 ,Secretary of State,,DEM,"Metsger, Rick",10
-Crook,PRECINCT 06 ,Secretary of State,,DEM,"Walker, Vicki L.",11
-Crook,PRECINCT 07 ,Secretary of State,,DEM,"Walker, Vicki L.",4
-Crook,PRECINCT 08 ,Secretary of State,,DEM,"Walker, Vicki L.",18
-Crook,PRECINCT 09 ,Secretary of State,,DEM,"Walker, Vicki L.",3
-Crook,PRECINCT 06 ,Secretary of State,,DEM,"Wells, Paul Damian",3
-Crook,PRECINCT 07 ,Secretary of State,,DEM,"Wells, Paul Damian",1
-Crook,PRECINCT 08 ,Secretary of State,,DEM,"Wells, Paul Damian",5
-Crook,PRECINCT 09 ,Secretary of State,,DEM,"Wells, Paul Damian",0
-Crook,PRECINCT 06 ,Secretary of State,,DEM,Write-ins,1
-Crook,PRECINCT 07 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 08 ,Secretary of State,,DEM,Write-ins,1
-Crook,PRECINCT 09 ,Secretary of State,,DEM,Write-ins,0
-Crook,PRECINCT 06 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 07 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 08 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 09 ,Secretary of State,,DEM,Over Votes,0
-Crook,PRECINCT 01 ,State Treasurer,,DEM,"Westlund, Ben",78
-Crook,PRECINCT 10 ,State Treasurer,,DEM,"Westlund, Ben",78
-Crook,PRECINCT 11 ,State Treasurer,,DEM,"Westlund, Ben",215
-Crook,PRECINCT 12 ,State Treasurer,,DEM,"Westlund, Ben",14
-Crook,PRECINCT 13 ,State Treasurer,,DEM,"Westlund, Ben",100
-Crook,PRECINCT 14 ,State Treasurer,,DEM,"Westlund, Ben",73
-Crook,PRECINCT 15 ,State Treasurer,,DEM,"Westlund, Ben",159
-Crook,PRECINCT 16 ,State Treasurer,,DEM,"Westlund, Ben",67
-Crook,PRECINCT 17 ,State Treasurer,,DEM,"Westlund, Ben",357
-Crook,PRECINCT 02 ,State Treasurer,,DEM,"Westlund, Ben",59
-Crook,PRECINCT 03 ,State Treasurer,,DEM,"Westlund, Ben",32
-Crook,PRECINCT 04 ,State Treasurer,,DEM,"Westlund, Ben",116
-Crook,PRECINCT 05 ,State Treasurer,,DEM,"Westlund, Ben",246
-Crook,PRECINCT 01 ,State Treasurer,,DEM,Write-ins,1
-Crook,PRECINCT 10 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 11 ,State Treasurer,,DEM,Write-ins,5
-Crook,PRECINCT 12 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 13 ,State Treasurer,,DEM,Write-ins,2
-Crook,PRECINCT 14 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 15 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 16 ,State Treasurer,,DEM,Write-ins,1
-Crook,PRECINCT 17 ,State Treasurer,,DEM,Write-ins,3
-Crook,PRECINCT 02 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 03 ,State Treasurer,,DEM,Write-ins,2
-Crook,PRECINCT 04 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 05 ,State Treasurer,,DEM,Write-ins,4
-Crook,PRECINCT 01 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 10 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 11 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 12 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 13 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 14 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 15 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 16 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 17 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 02 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 03 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 04 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 05 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 06 ,State Treasurer,,DEM,"Westlund, Ben",121
-Crook,PRECINCT 07 ,State Treasurer,,DEM,"Westlund, Ben",19
-Crook,PRECINCT 08 ,State Treasurer,,DEM,"Westlund, Ben",101
-Crook,PRECINCT 09 ,State Treasurer,,DEM,"Westlund, Ben",35
-Crook,PRECINCT 06 ,State Treasurer,,DEM,Write-ins,1
-Crook,PRECINCT 07 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 08 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 09 ,State Treasurer,,DEM,Write-ins,0
-Crook,PRECINCT 06 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 07 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 08 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 09 ,State Treasurer,,DEM,Over Votes,0
-Crook,PRECINCT 01 ,Attorney General,,DEM,"Kroger, John R.",0
-Crook,PRECINCT 10 ,Attorney General,,DEM,"Kroger, John R.",43
-Crook,PRECINCT 11 ,Attorney General,,DEM,"Kroger, John R.",147
-Crook,PRECINCT 12 ,Attorney General,,DEM,"Kroger, John R.",10
-Crook,PRECINCT 13 ,Attorney General,,DEM,"Kroger, John R.",61
-Crook,PRECINCT 14 ,Attorney General,,DEM,"Kroger, John R.",23
-Crook,PRECINCT 15 ,Attorney General,,DEM,"Kroger, John R.",88
-Crook,PRECINCT 16 ,Attorney General,,DEM,"Kroger, John R.",38
-Crook,PRECINCT 17 ,Attorney General,,DEM,"Kroger, John R.",225
-Crook,PRECINCT 02 ,Attorney General,,DEM,"Kroger, John R.",34
-Crook,PRECINCT 03 ,Attorney General,,DEM,"Kroger, John R.",14
-Crook,PRECINCT 04 ,Attorney General,,DEM,"Kroger, John R.",65
-Crook,PRECINCT 05 ,Attorney General,,DEM,"Kroger, John R.",149
-Crook,PRECINCT 06 ,Attorney General,,DEM,"Kroger, John R.",62
-Crook,PRECINCT 07 ,Attorney General,,DEM,"Kroger, John R.",11
-Crook,PRECINCT 08 ,Attorney General,,DEM,"Kroger, John R.",72
-Crook,PRECINCT 09 ,Attorney General,,DEM,"Kroger, John R.",22
-Crook,PRECINCT 01 ,Attorney General,,DEM,"Macpherson, Greg",39
-Crook,PRECINCT 10 ,Attorney General,,DEM,"Macpherson, Greg",40
-Crook,PRECINCT 11 ,Attorney General,,DEM,"Macpherson, Greg",100
-Crook,PRECINCT 12 ,Attorney General,,DEM,"Macpherson, Greg",5
-Crook,PRECINCT 13 ,Attorney General,,DEM,"Macpherson, Greg",66
-Crook,PRECINCT 14 ,Attorney General,,DEM,"Macpherson, Greg",60
-Crook,PRECINCT 15 ,Attorney General,,DEM,"Macpherson, Greg",103
-Crook,PRECINCT 16 ,Attorney General,,DEM,"Macpherson, Greg",43
-Crook,PRECINCT 17 ,Attorney General,,DEM,"Macpherson, Greg",197
-Crook,PRECINCT 02 ,Attorney General,,DEM,"Macpherson, Greg",33
-Crook,PRECINCT 03 ,Attorney General,,DEM,"Macpherson, Greg",22
-Crook,PRECINCT 04 ,Attorney General,,DEM,"Macpherson, Greg",63
-Crook,PRECINCT 05 ,Attorney General,,DEM,"Macpherson, Greg",125
-Crook,PRECINCT 06 ,Attorney General,,DEM,"Macpherson, Greg",69
-Crook,PRECINCT 07 ,Attorney General,,DEM,"Macpherson, Greg",14
-Crook,PRECINCT 08 ,Attorney General,,DEM,"Macpherson, Greg",41
-Crook,PRECINCT 09 ,Attorney General,,DEM,"Macpherson, Greg",12
-Crook,PRECINCT 01 ,Attorney General,,DEM,Write-ins,47
-Crook,PRECINCT 10 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 11 ,Attorney General,,DEM,Write-ins,1
-Crook,PRECINCT 12 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 13 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 14 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 15 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 16 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 17 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 02 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 03 ,Attorney General,,DEM,Write-ins,1
-Crook,PRECINCT 04 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 05 ,Attorney General,,DEM,Write-ins,2
-Crook,PRECINCT 06 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 07 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 08 ,Attorney General,,DEM,Write-ins,1
-Crook,PRECINCT 09 ,Attorney General,,DEM,Write-ins,0
-Crook,PRECINCT 01 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 10 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 11 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 12 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 13 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 14 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 15 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 16 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 17 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 02 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 03 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 04 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 05 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 06 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 07 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 08 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 09 ,Attorney General,,DEM,Over Votes,0
-Crook,PRECINCT 01 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 10 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 11 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 12 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 13 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 14 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 15 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 16 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 17 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 02 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 03 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 04 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 05 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 06 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 07 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 08 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 09 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
-Crook,PRECINCT 01 ,State Senate,28,DEM,No Candidate Filed,0
-Crook,PRECINCT 10 ,State Senate,28,DEM,No Candidate Filed,5
-Crook,PRECINCT 11 ,State Senate,28,DEM,No Candidate Filed,2
-Crook,PRECINCT 12 ,State Senate,28,DEM,No Candidate Filed,0
-Crook,PRECINCT 13 ,State Senate,28,DEM,No Candidate Filed,5
-Crook,PRECINCT 14 ,State Senate,28,DEM,No Candidate Filed,5
-Crook,PRECINCT 15 ,State Senate,28,DEM,No Candidate Filed,4
-Crook,PRECINCT 16 ,State Senate,28,DEM,No Candidate Filed,4
-Crook,PRECINCT 17 ,State Senate,28,DEM,No Candidate Filed,8
-Crook,PRECINCT 02 ,State Senate,28,DEM,No Candidate Filed,2
-Crook,PRECINCT 03 ,State Senate,28,DEM,No Candidate Filed,3
-Crook,PRECINCT 04 ,State Senate,28,DEM,No Candidate Filed,6
-Crook,PRECINCT 05 ,State Senate,28,DEM,No Candidate Filed,9
-Crook,PRECINCT 06 ,State Senate,28,DEM,No Candidate Filed,5
-Crook,PRECINCT 07 ,State Senate,28,DEM,No Candidate Filed,1
-Crook,PRECINCT 08 ,State Senate,28,DEM,No Candidate Filed,5
-Crook,PRECINCT 09 ,State Senate,28,DEM,No Candidate Filed,0
-Crook,PRECINCT 01 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 10 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 11 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 12 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 13 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 14 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 15 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 16 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 17 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 02 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 03 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 04 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 05 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 06 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 07 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 08 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 09 ,State Senate,28,DEM,Write-ins,0
-Crook,PRECINCT 01 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 10 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 11 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 12 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 13 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 14 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 15 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 16 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 17 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 02 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 03 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 04 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 05 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 06 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 07 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 08 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 09 ,State Senate,28,DEM,Over Votes,0
-Crook,PRECINCT 01 ,State House,55,DEM,No Candidate Filed,0
-Crook,PRECINCT 10 ,State House,55,DEM,No Candidate Filed,3
-Crook,PRECINCT 11 ,State House,55,DEM,No Candidate Filed,1
-Crook,PRECINCT 12 ,State House,55,DEM,No Candidate Filed,0
-Crook,PRECINCT 13 ,State House,55,DEM,No Candidate Filed,3
-Crook,PRECINCT 14 ,State House,55,DEM,No Candidate Filed,4
-Crook,PRECINCT 15 ,State House,55,DEM,No Candidate Filed,3
-Crook,PRECINCT 16 ,State House,55,DEM,No Candidate Filed,3
-Crook,PRECINCT 17 ,State House,55,DEM,No Candidate Filed,5
-Crook,PRECINCT 02 ,State House,55,DEM,No Candidate Filed,1
-Crook,PRECINCT 03 ,State House,55,DEM,No Candidate Filed,3
-Crook,PRECINCT 04 ,State House,55,DEM,No Candidate Filed,4
-Crook,PRECINCT 05 ,State House,55,DEM,No Candidate Filed,5
-Crook,PRECINCT 06 ,State House,55,DEM,No Candidate Filed,0
-Crook,PRECINCT 07 ,State House,55,DEM,No Candidate Filed,0
-Crook,PRECINCT 08 ,State House,55,DEM,No Candidate Filed,0
-Crook,PRECINCT 09 ,State House,55,DEM,No Candidate Filed,0
-Crook,PRECINCT 01 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 10 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 11 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 12 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 13 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 14 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 15 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 16 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 17 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 02 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 03 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 04 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 05 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 06 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 07 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 08 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 09 ,State House,55,DEM,Write-ins,0
-Crook,PRECINCT 01 ,President,,REP,"McCain, John",68
-Crook,PRECINCT 10 ,President,,REP,"McCain, John",72
-Crook,PRECINCT 11 ,President,,REP,"McCain, John",468
-Crook,PRECINCT 12 ,President,,REP,"McCain, John",29
-Crook,PRECINCT 13 ,President,,REP,"McCain, John",145
-Crook,PRECINCT 14 ,President,,REP,"McCain, John",33
-Crook,PRECINCT 15 ,President,,REP,"McCain, John",200
-Crook,PRECINCT 16 ,President,,REP,"McCain, John",125
-Crook,PRECINCT 17 ,President,,REP,"McCain, John",379
-Crook,PRECINCT 02 ,President,,REP,"McCain, John",69
-Crook,PRECINCT 03 ,President,,REP,"McCain, John",28
-Crook,PRECINCT 04 ,President,,REP,"McCain, John",248
-Crook,PRECINCT 05 ,President,,REP,"McCain, John",398
-Crook,PRECINCT 06 ,President,,REP,"McCain, John",136
-Crook,PRECINCT 07 ,President,,REP,"McCain, John",75
-Crook,PRECINCT 08 ,President,,REP,"McCain, John",108
-Crook,PRECINCT 09 ,President,,REP,"McCain, John",43
-Crook,PRECINCT 01 ,President,,REP,"Paul, Ron",9
-Crook,PRECINCT 10 ,President,,REP,"Paul, Ron",10
-Crook,PRECINCT 11 ,President,,REP,"Paul, Ron",42
-Crook,PRECINCT 12 ,President,,REP,"Paul, Ron",7
-Crook,PRECINCT 13 ,President,,REP,"Paul, Ron",10
-Crook,PRECINCT 14 ,President,,REP,"Paul, Ron",6
-Crook,PRECINCT 15 ,President,,REP,"Paul, Ron",26
-Crook,PRECINCT 16 ,President,,REP,"Paul, Ron",18
-Crook,PRECINCT 17 ,President,,REP,"Paul, Ron",72
-Crook,PRECINCT 02 ,President,,REP,"Paul, Ron",5
-Crook,PRECINCT 03 ,President,,REP,"Paul, Ron",2
-Crook,PRECINCT 04 ,President,,REP,"Paul, Ron",32
-Crook,PRECINCT 05 ,President,,REP,"Paul, Ron",50
-Crook,PRECINCT 06 ,President,,REP,"Paul, Ron",20
-Crook,PRECINCT 07 ,President,,REP,"Paul, Ron",4
-Crook,PRECINCT 08 ,President,,REP,"Paul, Ron",10
-Crook,PRECINCT 09 ,President,,REP,"Paul, Ron",2
-Crook,PRECINCT 01 ,President,,REP,Write-ins,2
-Crook,PRECINCT 10 ,President,,REP,Write-ins,6
-Crook,PRECINCT 11 ,President,,REP,Write-ins,14
-Crook,PRECINCT 12 ,President,,REP,Write-ins,2
-Crook,PRECINCT 13 ,President,,REP,Write-ins,14
-Crook,PRECINCT 14 ,President,,REP,Write-ins,5
-Crook,PRECINCT 15 ,President,,REP,Write-ins,9
-Crook,PRECINCT 16 ,President,,REP,Write-ins,13
-Crook,PRECINCT 17 ,President,,REP,Write-ins,22
-Crook,PRECINCT 02 ,President,,REP,Write-ins,2
-Crook,PRECINCT 03 ,President,,REP,Write-ins,2
-Crook,PRECINCT 04 ,President,,REP,Write-ins,9
-Crook,PRECINCT 05 ,President,,REP,Write-ins,23
-Crook,PRECINCT 06 ,President,,REP,Write-ins,6
-Crook,PRECINCT 07 ,President,,REP,Write-ins,3
-Crook,PRECINCT 08 ,President,,REP,Write-ins,4
-Crook,PRECINCT 09 ,President,,REP,Write-ins,5
-Crook,PRECINCT 01 ,U.S. Senate,,REP,"Leitch, Gordon ",8
-Crook,PRECINCT 10 ,U.S. Senate,,REP,"Leitch, Gordon ",13
-Crook,PRECINCT 11 ,U.S. Senate,,REP,"Leitch, Gordon ",65
-Crook,PRECINCT 12 ,U.S. Senate,,REP,"Leitch, Gordon ",3
-Crook,PRECINCT 13 ,U.S. Senate,,REP,"Leitch, Gordon ",22
-Crook,PRECINCT 14 ,U.S. Senate,,REP,"Leitch, Gordon ",3
-Crook,PRECINCT 15 ,U.S. Senate,,REP,"Leitch, Gordon ",33
-Crook,PRECINCT 16 ,U.S. Senate,,REP,"Leitch, Gordon ",28
-Crook,PRECINCT 17 ,U.S. Senate,,REP,"Leitch, Gordon ",76
-Crook,PRECINCT 02 ,U.S. Senate,,REP,"Leitch, Gordon ",3
-Crook,PRECINCT 03 ,U.S. Senate,,REP,"Leitch, Gordon ",6
-Crook,PRECINCT 04 ,U.S. Senate,,REP,"Leitch, Gordon ",36
-Crook,PRECINCT 05 ,U.S. Senate,,REP,"Leitch, Gordon ",64
-Crook,PRECINCT 06 ,U.S. Senate,,REP,"Leitch, Gordon ",13
-Crook,PRECINCT 07 ,U.S. Senate,,REP,"Leitch, Gordon ",10
-Crook,PRECINCT 08 ,U.S. Senate,,REP,"Leitch, Gordon ",12
-Crook,PRECINCT 09 ,U.S. Senate,,REP,"Leitch, Gordon ",6
-Crook,PRECINCT 01 ,U.S. Senate,,REP,"Smith, Gordon H. ",75
-Crook,PRECINCT 10 ,U.S. Senate,,REP,"Smith, Gordon H. ",72
-Crook,PRECINCT 11 ,U.S. Senate,,REP,"Smith, Gordon H. ",449
-Crook,PRECINCT 12 ,U.S. Senate,,REP,"Smith, Gordon H. ",31
-Crook,PRECINCT 13 ,U.S. Senate,,REP,"Smith, Gordon H. ",143
-Crook,PRECINCT 14 ,U.S. Senate,,REP,"Smith, Gordon H. ",39
-Crook,PRECINCT 15 ,U.S. Senate,,REP,"Smith, Gordon H. ",208
-Crook,PRECINCT 16 ,U.S. Senate,,REP,"Smith, Gordon H. ",133
-Crook,PRECINCT 17 ,U.S. Senate,,REP,"Smith, Gordon H. ",394
-Crook,PRECINCT 02 ,U.S. Senate,,REP,"Smith, Gordon H. ",74
-Crook,PRECINCT 03 ,U.S. Senate,,REP,"Smith, Gordon H. ",25
-Crook,PRECINCT 04 ,U.S. Senate,,REP,"Smith, Gordon H. ",246
-Crook,PRECINCT 05 ,U.S. Senate,,REP,"Smith, Gordon H. ",392
-Crook,PRECINCT 06 ,U.S. Senate,,REP,"Smith, Gordon H. ",152
-Crook,PRECINCT 07 ,U.S. Senate,,REP,"Smith, Gordon H. ",67
-Crook,PRECINCT 08 ,U.S. Senate,,REP,"Smith, Gordon H. ",106
-Crook,PRECINCT 09 ,U.S. Senate,,REP,"Smith, Gordon H. ",41
-Crook,PRECINCT 01 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 10 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 11 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 12 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 13 ,U.S. Senate,,REP,Write-ins,1
-Crook,PRECINCT 14 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 15 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 16 ,U.S. Senate,,REP,Write-ins,2
-Crook,PRECINCT 17 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 02 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 03 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 04 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 05 ,U.S. Senate,,REP,Write-ins,2
-Crook,PRECINCT 06 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 07 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 08 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 09 ,U.S. Senate,,REP,Write-ins,0
-Crook,PRECINCT 01 ,U.S. House,2,REP,"Walden, Greg",78
-Crook,PRECINCT 10 ,U.S. House,2,REP,"Walden, Greg",81
-Crook,PRECINCT 11 ,U.S. House,2,REP,"Walden, Greg",477
-Crook,PRECINCT 12 ,U.S. House,2,REP,"Walden, Greg",35
-Crook,PRECINCT 13 ,U.S. House,2,REP,"Walden, Greg",145
-Crook,PRECINCT 14 ,U.S. House,2,REP,"Walden, Greg",40
-Crook,PRECINCT 15 ,U.S. House,2,REP,"Walden, Greg",215
-Crook,PRECINCT 16 ,U.S. House,2,REP,"Walden, Greg",142
-Crook,PRECINCT 17 ,U.S. House,2,REP,"Walden, Greg",436
-Crook,PRECINCT 02 ,U.S. House,2,REP,"Walden, Greg",72
-Crook,PRECINCT 03 ,U.S. House,2,REP,"Walden, Greg",28
-Crook,PRECINCT 04 ,U.S. House,2,REP,"Walden, Greg",255
-Crook,PRECINCT 05 ,U.S. House,2,REP,"Walden, Greg",419
-Crook,PRECINCT 06 ,U.S. House,2,REP,"Walden, Greg",145
-Crook,PRECINCT 07 ,U.S. House,2,REP,"Walden, Greg",65
-Crook,PRECINCT 08 ,U.S. House,2,REP,"Walden, Greg",111
-Crook,PRECINCT 09 ,U.S. House,2,REP,"Walden, Greg",47
-Crook,PRECINCT 01 ,U.S. House,2,REP,Write-ins,0
-Crook,PRECINCT 10 ,U.S. House,2,REP,Write-ins,2
-Crook,PRECINCT 11 ,U.S. House,2,REP,Write-ins,1
-Crook,PRECINCT 12 ,U.S. House,2,REP,Write-ins,0
-Crook,PRECINCT 13 ,U.S. House,2,REP,Write-ins,1
-Crook,PRECINCT 14 ,U.S. House,2,REP,Write-ins,1
-Crook,PRECINCT 15 ,U.S. House,2,REP,Write-ins,0
-Crook,PRECINCT 16 ,U.S. House,2,REP,Write-ins,2
-Crook,PRECINCT 17 ,U.S. House,2,REP,Write-ins,3
-Crook,PRECINCT 02 ,U.S. House,2,REP,Write-ins,0
-Crook,PRECINCT 03 ,U.S. House,2,REP,Write-ins,0
-Crook,PRECINCT 04 ,U.S. House,2,REP,Write-ins,2
-Crook,PRECINCT 05 ,U.S. House,2,REP,Write-ins,2
-Crook,PRECINCT 06 ,U.S. House,2,REP,Write-ins,1
-Crook,PRECINCT 07 ,U.S. House,2,REP,Write-ins,1
-Crook,PRECINCT 08 ,U.S. House,2,REP,Write-ins,0
-Crook,PRECINCT 09 ,U.S. House,2,REP,Write-ins,0
-Crook,PRECINCT 01 ,Secretary of State,,REP,"Dancer, Rick",66
-Crook,PRECINCT 10 ,Secretary of State,,REP,"Dancer, Rick",68
-Crook,PRECINCT 11 ,Secretary of State,,REP,"Dancer, Rick",368
-Crook,PRECINCT 12 ,Secretary of State,,REP,"Dancer, Rick",24
-Crook,PRECINCT 13 ,Secretary of State,,REP,"Dancer, Rick",117
-Crook,PRECINCT 14 ,Secretary of State,,REP,"Dancer, Rick",34
-Crook,PRECINCT 15 ,Secretary of State,,REP,"Dancer, Rick",172
-Crook,PRECINCT 16 ,Secretary of State,,REP,"Dancer, Rick",98
-Crook,PRECINCT 17 ,Secretary of State,,REP,"Dancer, Rick",333
-Crook,PRECINCT 02 ,Secretary of State,,REP,"Dancer, Rick",58
-Crook,PRECINCT 03 ,Secretary of State,,REP,"Dancer, Rick",22
-Crook,PRECINCT 04 ,Secretary of State,,REP,"Dancer, Rick",190
-Crook,PRECINCT 05 ,Secretary of State,,REP,"Dancer, Rick",323
-Crook,PRECINCT 06 ,Secretary of State,,REP,"Dancer, Rick",108
-Crook,PRECINCT 07 ,Secretary of State,,REP,"Dancer, Rick",42
-Crook,PRECINCT 08 ,Secretary of State,,REP,"Dancer, Rick",92
-Crook,PRECINCT 09 ,Secretary of State,,REP,"Dancer, Rick",37
-Crook,PRECINCT 01 ,Secretary of State,,REP,Write-ins,0
-Crook,PRECINCT 10 ,Secretary of State,,REP,Write-ins,0
-Crook,PRECINCT 11 ,Secretary of State,,REP,Write-ins,1
-Crook,PRECINCT 12 ,Secretary of State,,REP,Write-ins,0
-Crook,PRECINCT 13 ,Secretary of State,,REP,Write-ins,3
-Crook,PRECINCT 14 ,Secretary of State,,REP,Write-ins,0
-Crook,PRECINCT 15 ,Secretary of State,,REP,Write-ins,2
-Crook,PRECINCT 16 ,Secretary of State,,REP,Write-ins,3
-Crook,PRECINCT 17 ,Secretary of State,,REP,Write-ins,5
-Crook,PRECINCT 02 ,Secretary of State,,REP,Write-ins,1
-Crook,PRECINCT 03 ,Secretary of State,,REP,Write-ins,2
-Crook,PRECINCT 04 ,Secretary of State,,REP,Write-ins,2
-Crook,PRECINCT 05 ,Secretary of State,,REP,Write-ins,7
-Crook,PRECINCT 06 ,Secretary of State,,REP,Write-ins,2
-Crook,PRECINCT 07 ,Secretary of State,,REP,Write-ins,1
-Crook,PRECINCT 08 ,Secretary of State,,REP,Write-ins,0
-Crook,PRECINCT 09 ,Secretary of State,,REP,Write-ins,0
-Crook,PRECINCT 01 ,State Treasurer,,REP,"Alley, Allen",63
-Crook,PRECINCT 10 ,State Treasurer,,REP,"Alley, Allen",68
-Crook,PRECINCT 11 ,State Treasurer,,REP,"Alley, Allen",357
-Crook,PRECINCT 12 ,State Treasurer,,REP,"Alley, Allen",26
-Crook,PRECINCT 13 ,State Treasurer,,REP,"Alley, Allen",111
-Crook,PRECINCT 14 ,State Treasurer,,REP,"Alley, Allen",34
-Crook,PRECINCT 15 ,State Treasurer,,REP,"Alley, Allen",166
-Crook,PRECINCT 16 ,State Treasurer,,REP,"Alley, Allen",98
-Crook,PRECINCT 17 ,State Treasurer,,REP,"Alley, Allen",322
-Crook,PRECINCT 02 ,State Treasurer,,REP,"Alley, Allen",56
-Crook,PRECINCT 03 ,State Treasurer,,REP,"Alley, Allen",22
-Crook,PRECINCT 04 ,State Treasurer,,REP,"Alley, Allen",190
-Crook,PRECINCT 05 ,State Treasurer,,REP,"Alley, Allen",318
-Crook,PRECINCT 06 ,State Treasurer,,REP,"Alley, Allen",103
-Crook,PRECINCT 07 ,State Treasurer,,REP,"Alley, Allen",42
-Crook,PRECINCT 08 ,State Treasurer,,REP,"Alley, Allen",91
-Crook,PRECINCT 09 ,State Treasurer,,REP,"Alley, Allen",35
-Crook,PRECINCT 01 ,State Treasurer,,REP,Write-ins,0
-Crook,PRECINCT 10 ,State Treasurer,,REP,Write-ins,0
-Crook,PRECINCT 11 ,State Treasurer,,REP,Write-ins,0
-Crook,PRECINCT 12 ,State Treasurer,,REP,Write-ins,0
-Crook,PRECINCT 13 ,State Treasurer,,REP,Write-ins,1
-Crook,PRECINCT 14 ,State Treasurer,,REP,Write-ins,0
-Crook,PRECINCT 15 ,State Treasurer,,REP,Write-ins,1
-Crook,PRECINCT 16 ,State Treasurer,,REP,Write-ins,5
-Crook,PRECINCT 17 ,State Treasurer,,REP,Write-ins,1
-Crook,PRECINCT 02 ,State Treasurer,,REP,Write-ins,2
-Crook,PRECINCT 03 ,State Treasurer,,REP,Write-ins,1
-Crook,PRECINCT 04 ,State Treasurer,,REP,Write-ins,0
-Crook,PRECINCT 05 ,State Treasurer,,REP,Write-ins,4
-Crook,PRECINCT 06 ,State Treasurer,,REP,Write-ins,3
-Crook,PRECINCT 07 ,State Treasurer,,REP,Write-ins,0
-Crook,PRECINCT 08 ,State Treasurer,,REP,Write-ins,0
-Crook,PRECINCT 09 ,State Treasurer,,REP,Write-ins,1
+Crook,01 ,President,,DEM,"Clinton, Hillary",45
+Crook,10 ,President,,DEM,"Clinton, Hillary",58
+Crook,11 ,President,,DEM,"Clinton, Hillary",144
+Crook,12 ,President,,DEM,"Clinton, Hillary",12
+Crook,13 ,President,,DEM,"Clinton, Hillary",92
+Crook,14 ,President,,DEM,"Clinton, Hillary",63
+Crook,15 ,President,,DEM,"Clinton, Hillary",142
+Crook,16 ,President,,DEM,"Clinton, Hillary",57
+Crook,17 ,President,,DEM,"Clinton, Hillary",295
+Crook,02 ,President,,DEM,"Clinton, Hillary",36
+Crook,03 ,President,,DEM,"Clinton, Hillary",27
+Crook,04 ,President,,DEM,"Clinton, Hillary",84
+Crook,01 ,President,,DEM,"Obama, Barack",58
+Crook,10 ,President,,DEM,"Obama, Barack",51
+Crook,11 ,President,,DEM,"Obama, Barack",173
+Crook,12 ,President,,DEM,"Obama, Barack",9
+Crook,13 ,President,,DEM,"Obama, Barack",58
+Crook,14 ,President,,DEM,"Obama, Barack",45
+Crook,15 ,President,,DEM,"Obama, Barack",94
+Crook,16 ,President,,DEM,"Obama, Barack",45
+Crook,17 ,President,,DEM,"Obama, Barack",207
+Crook,02 ,President,,DEM,"Obama, Barack",53
+Crook,03 ,President,,DEM,"Obama, Barack",13
+Crook,04 ,President,,DEM,"Obama, Barack",83
+Crook,01 ,President,,DEM,Write-ins,1
+Crook,10 ,President,,DEM,Write-ins,3
+Crook,11 ,President,,DEM,Write-ins,7
+Crook,12 ,President,,DEM,Write-ins,1
+Crook,13 ,President,,DEM,Write-ins,5
+Crook,14 ,President,,DEM,Write-ins,1
+Crook,15 ,President,,DEM,Write-ins,6
+Crook,16 ,President,,DEM,Write-ins,3
+Crook,17 ,President,,DEM,Write-ins,7
+Crook,02 ,President,,DEM,Write-ins,0
+Crook,03 ,President,,DEM,Write-ins,1
+Crook,04 ,President,,DEM,Write-ins,6
+Crook,01 ,President,,DEM,Over Votes,0
+Crook,10 ,President,,DEM,Over Votes,0
+Crook,11 ,President,,DEM,Over Votes,0
+Crook,12 ,President,,DEM,Over Votes,0
+Crook,13 ,President,,DEM,Over Votes,0
+Crook,14 ,President,,DEM,Over Votes,0
+Crook,15 ,President,,DEM,Over Votes,0
+Crook,16 ,President,,DEM,Over Votes,0
+Crook,17 ,President,,DEM,Over Votes,0
+Crook,02 ,President,,DEM,Over Votes,0
+Crook,03 ,President,,DEM,Over Votes,0
+Crook,04 ,President,,DEM,Over Votes,0
+Crook,05 ,President,,DEM,"Clinton, Hillary",165
+Crook,06 ,President,,DEM,"Clinton, Hillary",61
+Crook,07 ,President,,DEM,"Clinton, Hillary",10
+Crook,08 ,President,,DEM,"Clinton, Hillary",75
+Crook,09 ,President,,DEM,"Clinton, Hillary",23
+Crook,05 ,President,,DEM,"Obama, Barack",161
+Crook,06 ,President,,DEM,"Obama, Barack",95
+Crook,07 ,President,,DEM,"Obama, Barack",17
+Crook,08 ,President,,DEM,"Obama, Barack",65
+Crook,09 ,President,,DEM,"Obama, Barack",16
+Crook,05 ,President,,DEM,Write-ins,9
+Crook,06 ,President,,DEM,Write-ins,2
+Crook,07 ,President,,DEM,Write-ins,1
+Crook,08 ,President,,DEM,Write-ins,6
+Crook,09 ,President,,DEM,Write-ins,3
+Crook,05 ,President,,DEM,Over Votes,0
+Crook,06 ,President,,DEM,Over Votes,0
+Crook,07 ,President,,DEM,Over Votes,0
+Crook,08 ,President,,DEM,Over Votes,0
+Crook,09 ,President,,DEM,Over Votes,0
+Crook,01 ,U.S. Senate,,DEM,"Goberman, Pavel",1
+Crook,10 ,U.S. Senate,,DEM,"Goberman, Pavel",3
+Crook,11 ,U.S. Senate,,DEM,"Goberman, Pavel",8
+Crook,12 ,U.S. Senate,,DEM,"Goberman, Pavel",1
+Crook,13 ,U.S. Senate,,DEM,"Goberman, Pavel",3
+Crook,14 ,U.S. Senate,,DEM,"Goberman, Pavel",2
+Crook,15 ,U.S. Senate,,DEM,"Goberman, Pavel",9
+Crook,16 ,U.S. Senate,,DEM,"Goberman, Pavel",4
+Crook,17 ,U.S. Senate,,DEM,"Goberman, Pavel",17
+Crook,02 ,U.S. Senate,,DEM,"Goberman, Pavel",0
+Crook,03 ,U.S. Senate,,DEM,"Goberman, Pavel",2
+Crook,04 ,U.S. Senate,,DEM,"Goberman, Pavel",6
+Crook,05 ,U.S. Senate,,DEM,"Goberman, Pavel",9
+Crook,01 ,U.S. Senate,,DEM,"Loera, David ",0
+Crook,10 ,U.S. Senate,,DEM,"Loera, David ",1
+Crook,11 ,U.S. Senate,,DEM,"Loera, David ",2
+Crook,12 ,U.S. Senate,,DEM,"Loera, David ",1
+Crook,13 ,U.S. Senate,,DEM,"Loera, David ",3
+Crook,14 ,U.S. Senate,,DEM,"Loera, David ",3
+Crook,15 ,U.S. Senate,,DEM,"Loera, David ",5
+Crook,16 ,U.S. Senate,,DEM,"Loera, David ",2
+Crook,17 ,U.S. Senate,,DEM,"Loera, David ",1
+Crook,02 ,U.S. Senate,,DEM,"Loera, David ",1
+Crook,03 ,U.S. Senate,,DEM,"Loera, David ",1
+Crook,04 ,U.S. Senate,,DEM,"Loera, David ",2
+Crook,05 ,U.S. Senate,,DEM,"Loera, David ",8
+Crook,01 ,U.S. Senate,,DEM,"Merkley, Jeff ",43
+Crook,10 ,U.S. Senate,,DEM,"Merkley, Jeff ",33
+Crook,11 ,U.S. Senate,,DEM,"Merkley, Jeff ",121
+Crook,12 ,U.S. Senate,,DEM,"Merkley, Jeff ",5
+Crook,13 ,U.S. Senate,,DEM,"Merkley, Jeff ",57
+Crook,14 ,U.S. Senate,,DEM,"Merkley, Jeff ",35
+Crook,15 ,U.S. Senate,,DEM,"Merkley, Jeff ",76
+Crook,16 ,U.S. Senate,,DEM,"Merkley, Jeff ",35
+Crook,17 ,U.S. Senate,,DEM,"Merkley, Jeff ",209
+Crook,02 ,U.S. Senate,,DEM,"Merkley, Jeff ",28
+Crook,03 ,U.S. Senate,,DEM,"Merkley, Jeff ",6
+Crook,04 ,U.S. Senate,,DEM,"Merkley, Jeff ",63
+Crook,05 ,U.S. Senate,,DEM,"Merkley, Jeff ",118
+Crook,01 ,U.S. Senate,,DEM,"Neville, Candy",8
+Crook,10 ,U.S. Senate,,DEM,"Neville, Candy",14
+Crook,11 ,U.S. Senate,,DEM,"Neville, Candy",24
+Crook,12 ,U.S. Senate,,DEM,"Neville, Candy",3
+Crook,13 ,U.S. Senate,,DEM,"Neville, Candy",22
+Crook,14 ,U.S. Senate,,DEM,"Neville, Candy",23
+Crook,15 ,U.S. Senate,,DEM,"Neville, Candy",19
+Crook,16 ,U.S. Senate,,DEM,"Neville, Candy",9
+Crook,17 ,U.S. Senate,,DEM,"Neville, Candy",55
+Crook,02 ,U.S. Senate,,DEM,"Neville, Candy",7
+Crook,03 ,U.S. Senate,,DEM,"Neville, Candy",14
+Crook,04 ,U.S. Senate,,DEM,"Neville, Candy",16
+Crook,05 ,U.S. Senate,,DEM,"Neville, Candy",36
+Crook,01 ,U.S. Senate,,DEM,"Novick, Steve",32
+Crook,10 ,U.S. Senate,,DEM,"Novick, Steve",35
+Crook,11 ,U.S. Senate,,DEM,"Novick, Steve",86
+Crook,12 ,U.S. Senate,,DEM,"Novick, Steve",7
+Crook,13 ,U.S. Senate,,DEM,"Novick, Steve",34
+Crook,14 ,U.S. Senate,,DEM,"Novick, Steve",18
+Crook,15 ,U.S. Senate,,DEM,"Novick, Steve",78
+Crook,16 ,U.S. Senate,,DEM,"Novick, Steve",30
+Crook,17 ,U.S. Senate,,DEM,"Novick, Steve",126
+Crook,02 ,U.S. Senate,,DEM,"Novick, Steve",24
+Crook,03 ,U.S. Senate,,DEM,"Novick, Steve",12
+Crook,04 ,U.S. Senate,,DEM,"Novick, Steve",48
+Crook,05 ,U.S. Senate,,DEM,"Novick, Steve",100
+Crook,01 ,U.S. Senate,,DEM,"Obrist, Roger S. ",2
+Crook,10 ,U.S. Senate,,DEM,"Obrist, Roger S. ",2
+Crook,11 ,U.S. Senate,,DEM,"Obrist, Roger S. ",9
+Crook,12 ,U.S. Senate,,DEM,"Obrist, Roger S. ",0
+Crook,13 ,U.S. Senate,,DEM,"Obrist, Roger S. ",6
+Crook,14 ,U.S. Senate,,DEM,"Obrist, Roger S. ",1
+Crook,15 ,U.S. Senate,,DEM,"Obrist, Roger S. ",8
+Crook,16 ,U.S. Senate,,DEM,"Obrist, Roger S. ",0
+Crook,17 ,U.S. Senate,,DEM,"Obrist, Roger S. ",23
+Crook,02 ,U.S. Senate,,DEM,"Obrist, Roger S. ",2
+Crook,03 ,U.S. Senate,,DEM,"Obrist, Roger S. ",2
+Crook,04 ,U.S. Senate,,DEM,"Obrist, Roger S. ",4
+Crook,05 ,U.S. Senate,,DEM,"Obrist, Roger S. ",12
+Crook,01 ,U.S. Senate,,DEM,Write-ins,1
+Crook,10 ,U.S. Senate,,DEM,Write-ins,0
+Crook,11 ,U.S. Senate,,DEM,Write-ins,7
+Crook,12 ,U.S. Senate,,DEM,Write-ins,0
+Crook,13 ,U.S. Senate,,DEM,Write-ins,5
+Crook,14 ,U.S. Senate,,DEM,Write-ins,2
+Crook,15 ,U.S. Senate,,DEM,Write-ins,3
+Crook,16 ,U.S. Senate,,DEM,Write-ins,3
+Crook,17 ,U.S. Senate,,DEM,Write-ins,4
+Crook,02 ,U.S. Senate,,DEM,Write-ins,3
+Crook,03 ,U.S. Senate,,DEM,Write-ins,0
+Crook,04 ,U.S. Senate,,DEM,Write-ins,2
+Crook,05 ,U.S. Senate,,DEM,Write-ins,2
+Crook,01 ,U.S. Senate,,DEM,Over Votes,0
+Crook,10 ,U.S. Senate,,DEM,Over Votes,0
+Crook,11 ,U.S. Senate,,DEM,Over Votes,0
+Crook,12 ,U.S. Senate,,DEM,Over Votes,0
+Crook,13 ,U.S. Senate,,DEM,Over Votes,0
+Crook,14 ,U.S. Senate,,DEM,Over Votes,0
+Crook,15 ,U.S. Senate,,DEM,Over Votes,0
+Crook,16 ,U.S. Senate,,DEM,Over Votes,0
+Crook,17 ,U.S. Senate,,DEM,Over Votes,0
+Crook,02 ,U.S. Senate,,DEM,Over Votes,0
+Crook,03 ,U.S. Senate,,DEM,Over Votes,0
+Crook,04 ,U.S. Senate,,DEM,Over Votes,0
+Crook,05 ,U.S. Senate,,DEM,Over Votes,0
+Crook,06 ,U.S. Senate,,DEM,"Goberman, Pavel",1
+Crook,07 ,U.S. Senate,,DEM,"Goberman, Pavel",2
+Crook,08 ,U.S. Senate,,DEM,"Goberman, Pavel",4
+Crook,09 ,U.S. Senate,,DEM,"Goberman, Pavel",2
+Crook,06 ,U.S. Senate,,DEM,"Loera, David ",0
+Crook,07 ,U.S. Senate,,DEM,"Loera, David ",0
+Crook,08 ,U.S. Senate,,DEM,"Loera, David ",1
+Crook,09 ,U.S. Senate,,DEM,"Loera, David ",0
+Crook,06 ,U.S. Senate,,DEM,"Merkley, Jeff ",58
+Crook,07 ,U.S. Senate,,DEM,"Merkley, Jeff ",7
+Crook,08 ,U.S. Senate,,DEM,"Merkley, Jeff ",44
+Crook,09 ,U.S. Senate,,DEM,"Merkley, Jeff ",12
+Crook,06 ,U.S. Senate,,DEM,"Neville, Candy",14
+Crook,07 ,U.S. Senate,,DEM,"Neville, Candy",4
+Crook,08 ,U.S. Senate,,DEM,"Neville, Candy",10
+Crook,09 ,U.S. Senate,,DEM,"Neville, Candy",6
+Crook,06 ,U.S. Senate,,DEM,"Novick, Steve",55
+Crook,07 ,U.S. Senate,,DEM,"Novick, Steve",11
+Crook,08 ,U.S. Senate,,DEM,"Novick, Steve",52
+Crook,09 ,U.S. Senate,,DEM,"Novick, Steve",19
+Crook,06 ,U.S. Senate,,DEM,"Obrist, Roger S. ",6
+Crook,07 ,U.S. Senate,,DEM,"Obrist, Roger S. ",0
+Crook,08 ,U.S. Senate,,DEM,"Obrist, Roger S. ",7
+Crook,09 ,U.S. Senate,,DEM,"Obrist, Roger S. ",1
+Crook,06 ,U.S. Senate,,DEM,Write-ins,2
+Crook,07 ,U.S. Senate,,DEM,Write-ins,0
+Crook,08 ,U.S. Senate,,DEM,Write-ins,2
+Crook,09 ,U.S. Senate,,DEM,Write-ins,2
+Crook,06 ,U.S. Senate,,DEM,Over Votes,0
+Crook,07 ,U.S. Senate,,DEM,Over Votes,0
+Crook,08 ,U.S. Senate,,DEM,Over Votes,0
+Crook,09 ,U.S. Senate,,DEM,Over Votes,0
+Crook,01 ,U.S. House,2,DEM,"Lemas, Noah",56
+Crook,10 ,U.S. House,2,DEM,"Lemas, Noah",69
+Crook,11 ,U.S. House,2,DEM,"Lemas, Noah",166
+Crook,12 ,U.S. House,2,DEM,"Lemas, Noah",14
+Crook,13 ,U.S. House,2,DEM,"Lemas, Noah",82
+Crook,14 ,U.S. House,2,DEM,"Lemas, Noah",65
+Crook,15 ,U.S. House,2,DEM,"Lemas, Noah",121
+Crook,16 ,U.S. House,2,DEM,"Lemas, Noah",53
+Crook,17 ,U.S. House,2,DEM,"Lemas, Noah",283
+Crook,02 ,U.S. House,2,DEM,"Lemas, Noah",45
+Crook,03 ,U.S. House,2,DEM,"Lemas, Noah",27
+Crook,04 ,U.S. House,2,DEM,"Lemas, Noah",97
+Crook,05 ,U.S. House,2,DEM,"Lemas, Noah",189
+Crook,01 ,U.S. House,2,DEM,Write-ins,1
+Crook,10 ,U.S. House,2,DEM,Write-ins,0
+Crook,11 ,U.S. House,2,DEM,Write-ins,7
+Crook,12 ,U.S. House,2,DEM,Write-ins,0
+Crook,13 ,U.S. House,2,DEM,Write-ins,4
+Crook,14 ,U.S. House,2,DEM,Write-ins,3
+Crook,15 ,U.S. House,2,DEM,Write-ins,3
+Crook,16 ,U.S. House,2,DEM,Write-ins,4
+Crook,17 ,U.S. House,2,DEM,Write-ins,4
+Crook,02 ,U.S. House,2,DEM,Write-ins,2
+Crook,03 ,U.S. House,2,DEM,Write-ins,2
+Crook,04 ,U.S. House,2,DEM,Write-ins,3
+Crook,05 ,U.S. House,2,DEM,Write-ins,8
+Crook,01 ,U.S. House,2,DEM,Over Votes,0
+Crook,10 ,U.S. House,2,DEM,Over Votes,0
+Crook,11 ,U.S. House,2,DEM,Over Votes,0
+Crook,12 ,U.S. House,2,DEM,Over Votes,0
+Crook,13 ,U.S. House,2,DEM,Over Votes,0
+Crook,14 ,U.S. House,2,DEM,Over Votes,0
+Crook,15 ,U.S. House,2,DEM,Over Votes,0
+Crook,16 ,U.S. House,2,DEM,Over Votes,0
+Crook,17 ,U.S. House,2,DEM,Over Votes,0
+Crook,02 ,U.S. House,2,DEM,Over Votes,0
+Crook,03 ,U.S. House,2,DEM,Over Votes,0
+Crook,04 ,U.S. House,2,DEM,Over Votes,0
+Crook,05 ,U.S. House,2,DEM,Over Votes,0
+Crook,06 ,U.S. House,2,DEM,"Lemas, Noah",102
+Crook,07 ,U.S. House,2,DEM,"Lemas, Noah",15
+Crook,08 ,U.S. House,2,DEM,"Lemas, Noah",74
+Crook,09 ,U.S. House,2,DEM,"Lemas, Noah",26
+Crook,06 ,U.S. House,2,DEM,Write-ins,4
+Crook,07 ,U.S. House,2,DEM,Write-ins,0
+Crook,08 ,U.S. House,2,DEM,Write-ins,2
+Crook,09 ,U.S. House,2,DEM,Write-ins,1
+Crook,06 ,U.S. House,2,DEM,Over Votes,0
+Crook,07 ,U.S. House,2,DEM,Over Votes,0
+Crook,08 ,U.S. House,2,DEM,Over Votes,0
+Crook,09 ,U.S. House,2,DEM,Over Votes,0
+Crook,01 ,Secretary of State,,DEM,"Brown, Kate ",35
+Crook,10 ,Secretary of State,,DEM,"Brown, Kate ",42
+Crook,11 ,Secretary of State,,DEM,"Brown, Kate ",142
+Crook,12 ,Secretary of State,,DEM,"Brown, Kate ",8
+Crook,13 ,Secretary of State,,DEM,"Brown, Kate ",54
+Crook,14 ,Secretary of State,,DEM,"Brown, Kate ",47
+Crook,15 ,Secretary of State,,DEM,"Brown, Kate ",78
+Crook,16 ,Secretary of State,,DEM,"Brown, Kate ",37
+Crook,17 ,Secretary of State,,DEM,"Brown, Kate ",197
+Crook,02 ,Secretary of State,,DEM,"Brown, Kate ",33
+Crook,03 ,Secretary of State,,DEM,"Brown, Kate ",14
+Crook,04 ,Secretary of State,,DEM,"Brown, Kate ",71
+Crook,05 ,Secretary of State,,DEM,"Brown, Kate ",132
+Crook,01 ,Secretary of State,,DEM,"Metsger, Rick",35
+Crook,10 ,Secretary of State,,DEM,"Metsger, Rick",28
+Crook,11 ,Secretary of State,,DEM,"Metsger, Rick",91
+Crook,12 ,Secretary of State,,DEM,"Metsger, Rick",4
+Crook,13 ,Secretary of State,,DEM,"Metsger, Rick",47
+Crook,14 ,Secretary of State,,DEM,"Metsger, Rick",23
+Crook,15 ,Secretary of State,,DEM,"Metsger, Rick",77
+Crook,16 ,Secretary of State,,DEM,"Metsger, Rick",33
+Crook,17 ,Secretary of State,,DEM,"Metsger, Rick",159
+Crook,02 ,Secretary of State,,DEM,"Metsger, Rick",29
+Crook,03 ,Secretary of State,,DEM,"Metsger, Rick",12
+Crook,04 ,Secretary of State,,DEM,"Metsger, Rick",54
+Crook,05 ,Secretary of State,,DEM,"Metsger, Rick",109
+Crook,01 ,Secretary of State,,DEM,"Walker, Vicki L.",16
+Crook,10 ,Secretary of State,,DEM,"Walker, Vicki L.",17
+Crook,11 ,Secretary of State,,DEM,"Walker, Vicki L.",23
+Crook,12 ,Secretary of State,,DEM,"Walker, Vicki L.",2
+Crook,13 ,Secretary of State,,DEM,"Walker, Vicki L.",20
+Crook,14 ,Secretary of State,,DEM,"Walker, Vicki L.",18
+Crook,15 ,Secretary of State,,DEM,"Walker, Vicki L.",31
+Crook,16 ,Secretary of State,,DEM,"Walker, Vicki L.",9
+Crook,17 ,Secretary of State,,DEM,"Walker, Vicki L.",71
+Crook,02 ,Secretary of State,,DEM,"Walker, Vicki L.",6
+Crook,03 ,Secretary of State,,DEM,"Walker, Vicki L.",10
+Crook,04 ,Secretary of State,,DEM,"Walker, Vicki L.",18
+Crook,05 ,Secretary of State,,DEM,"Walker, Vicki L.",36
+Crook,01 ,Secretary of State,,DEM,"Wells, Paul Damian",1
+Crook,10 ,Secretary of State,,DEM,"Wells, Paul Damian",2
+Crook,11 ,Secretary of State,,DEM,"Wells, Paul Damian",5
+Crook,12 ,Secretary of State,,DEM,"Wells, Paul Damian",2
+Crook,13 ,Secretary of State,,DEM,"Wells, Paul Damian",8
+Crook,14 ,Secretary of State,,DEM,"Wells, Paul Damian",0
+Crook,15 ,Secretary of State,,DEM,"Wells, Paul Damian",10
+Crook,16 ,Secretary of State,,DEM,"Wells, Paul Damian",2
+Crook,17 ,Secretary of State,,DEM,"Wells, Paul Damian",12
+Crook,02 ,Secretary of State,,DEM,"Wells, Paul Damian",0
+Crook,03 ,Secretary of State,,DEM,"Wells, Paul Damian",1
+Crook,04 ,Secretary of State,,DEM,"Wells, Paul Damian",4
+Crook,05 ,Secretary of State,,DEM,"Wells, Paul Damian",11
+Crook,01 ,Secretary of State,,DEM,Write-ins,0
+Crook,10 ,Secretary of State,,DEM,Write-ins,0
+Crook,11 ,Secretary of State,,DEM,Write-ins,2
+Crook,12 ,Secretary of State,,DEM,Write-ins,0
+Crook,13 ,Secretary of State,,DEM,Write-ins,2
+Crook,14 ,Secretary of State,,DEM,Write-ins,1
+Crook,15 ,Secretary of State,,DEM,Write-ins,0
+Crook,16 ,Secretary of State,,DEM,Write-ins,1
+Crook,17 ,Secretary of State,,DEM,Write-ins,0
+Crook,02 ,Secretary of State,,DEM,Write-ins,1
+Crook,03 ,Secretary of State,,DEM,Write-ins,0
+Crook,04 ,Secretary of State,,DEM,Write-ins,0
+Crook,05 ,Secretary of State,,DEM,Write-ins,0
+Crook,01 ,Secretary of State,,DEM,Over Votes,0
+Crook,10 ,Secretary of State,,DEM,Over Votes,0
+Crook,11 ,Secretary of State,,DEM,Over Votes,0
+Crook,12 ,Secretary of State,,DEM,Over Votes,0
+Crook,13 ,Secretary of State,,DEM,Over Votes,0
+Crook,14 ,Secretary of State,,DEM,Over Votes,0
+Crook,15 ,Secretary of State,,DEM,Over Votes,0
+Crook,16 ,Secretary of State,,DEM,Over Votes,0
+Crook,17 ,Secretary of State,,DEM,Over Votes,0
+Crook,02 ,Secretary of State,,DEM,Over Votes,0
+Crook,03 ,Secretary of State,,DEM,Over Votes,0
+Crook,04 ,Secretary of State,,DEM,Over Votes,0
+Crook,05 ,Secretary of State,,DEM,Over Votes,0
+Crook,06 ,Secretary of State,,DEM,"Brown, Kate ",75
+Crook,07 ,Secretary of State,,DEM,"Brown, Kate ",11
+Crook,08 ,Secretary of State,,DEM,"Brown, Kate ",39
+Crook,09 ,Secretary of State,,DEM,"Brown, Kate ",26
+Crook,06 ,Secretary of State,,DEM,"Metsger, Rick",47
+Crook,07 ,Secretary of State,,DEM,"Metsger, Rick",7
+Crook,08 ,Secretary of State,,DEM,"Metsger, Rick",54
+Crook,09 ,Secretary of State,,DEM,"Metsger, Rick",10
+Crook,06 ,Secretary of State,,DEM,"Walker, Vicki L.",11
+Crook,07 ,Secretary of State,,DEM,"Walker, Vicki L.",4
+Crook,08 ,Secretary of State,,DEM,"Walker, Vicki L.",18
+Crook,09 ,Secretary of State,,DEM,"Walker, Vicki L.",3
+Crook,06 ,Secretary of State,,DEM,"Wells, Paul Damian",3
+Crook,07 ,Secretary of State,,DEM,"Wells, Paul Damian",1
+Crook,08 ,Secretary of State,,DEM,"Wells, Paul Damian",5
+Crook,09 ,Secretary of State,,DEM,"Wells, Paul Damian",0
+Crook,06 ,Secretary of State,,DEM,Write-ins,1
+Crook,07 ,Secretary of State,,DEM,Write-ins,0
+Crook,08 ,Secretary of State,,DEM,Write-ins,1
+Crook,09 ,Secretary of State,,DEM,Write-ins,0
+Crook,06 ,Secretary of State,,DEM,Over Votes,0
+Crook,07 ,Secretary of State,,DEM,Over Votes,0
+Crook,08 ,Secretary of State,,DEM,Over Votes,0
+Crook,09 ,Secretary of State,,DEM,Over Votes,0
+Crook,01 ,State Treasurer,,DEM,"Westlund, Ben",78
+Crook,10 ,State Treasurer,,DEM,"Westlund, Ben",78
+Crook,11 ,State Treasurer,,DEM,"Westlund, Ben",215
+Crook,12 ,State Treasurer,,DEM,"Westlund, Ben",14
+Crook,13 ,State Treasurer,,DEM,"Westlund, Ben",100
+Crook,14 ,State Treasurer,,DEM,"Westlund, Ben",73
+Crook,15 ,State Treasurer,,DEM,"Westlund, Ben",159
+Crook,16 ,State Treasurer,,DEM,"Westlund, Ben",67
+Crook,17 ,State Treasurer,,DEM,"Westlund, Ben",357
+Crook,02 ,State Treasurer,,DEM,"Westlund, Ben",59
+Crook,03 ,State Treasurer,,DEM,"Westlund, Ben",32
+Crook,04 ,State Treasurer,,DEM,"Westlund, Ben",116
+Crook,05 ,State Treasurer,,DEM,"Westlund, Ben",246
+Crook,01 ,State Treasurer,,DEM,Write-ins,1
+Crook,10 ,State Treasurer,,DEM,Write-ins,0
+Crook,11 ,State Treasurer,,DEM,Write-ins,5
+Crook,12 ,State Treasurer,,DEM,Write-ins,0
+Crook,13 ,State Treasurer,,DEM,Write-ins,2
+Crook,14 ,State Treasurer,,DEM,Write-ins,0
+Crook,15 ,State Treasurer,,DEM,Write-ins,0
+Crook,16 ,State Treasurer,,DEM,Write-ins,1
+Crook,17 ,State Treasurer,,DEM,Write-ins,3
+Crook,02 ,State Treasurer,,DEM,Write-ins,0
+Crook,03 ,State Treasurer,,DEM,Write-ins,2
+Crook,04 ,State Treasurer,,DEM,Write-ins,0
+Crook,05 ,State Treasurer,,DEM,Write-ins,4
+Crook,01 ,State Treasurer,,DEM,Over Votes,0
+Crook,10 ,State Treasurer,,DEM,Over Votes,0
+Crook,11 ,State Treasurer,,DEM,Over Votes,0
+Crook,12 ,State Treasurer,,DEM,Over Votes,0
+Crook,13 ,State Treasurer,,DEM,Over Votes,0
+Crook,14 ,State Treasurer,,DEM,Over Votes,0
+Crook,15 ,State Treasurer,,DEM,Over Votes,0
+Crook,16 ,State Treasurer,,DEM,Over Votes,0
+Crook,17 ,State Treasurer,,DEM,Over Votes,0
+Crook,02 ,State Treasurer,,DEM,Over Votes,0
+Crook,03 ,State Treasurer,,DEM,Over Votes,0
+Crook,04 ,State Treasurer,,DEM,Over Votes,0
+Crook,05 ,State Treasurer,,DEM,Over Votes,0
+Crook,06 ,State Treasurer,,DEM,"Westlund, Ben",121
+Crook,07 ,State Treasurer,,DEM,"Westlund, Ben",19
+Crook,08 ,State Treasurer,,DEM,"Westlund, Ben",101
+Crook,09 ,State Treasurer,,DEM,"Westlund, Ben",35
+Crook,06 ,State Treasurer,,DEM,Write-ins,1
+Crook,07 ,State Treasurer,,DEM,Write-ins,0
+Crook,08 ,State Treasurer,,DEM,Write-ins,0
+Crook,09 ,State Treasurer,,DEM,Write-ins,0
+Crook,06 ,State Treasurer,,DEM,Over Votes,0
+Crook,07 ,State Treasurer,,DEM,Over Votes,0
+Crook,08 ,State Treasurer,,DEM,Over Votes,0
+Crook,09 ,State Treasurer,,DEM,Over Votes,0
+Crook,01 ,Attorney General,,DEM,"Kroger, John R.",0
+Crook,10 ,Attorney General,,DEM,"Kroger, John R.",43
+Crook,11 ,Attorney General,,DEM,"Kroger, John R.",147
+Crook,12 ,Attorney General,,DEM,"Kroger, John R.",10
+Crook,13 ,Attorney General,,DEM,"Kroger, John R.",61
+Crook,14 ,Attorney General,,DEM,"Kroger, John R.",23
+Crook,15 ,Attorney General,,DEM,"Kroger, John R.",88
+Crook,16 ,Attorney General,,DEM,"Kroger, John R.",38
+Crook,17 ,Attorney General,,DEM,"Kroger, John R.",225
+Crook,02 ,Attorney General,,DEM,"Kroger, John R.",34
+Crook,03 ,Attorney General,,DEM,"Kroger, John R.",14
+Crook,04 ,Attorney General,,DEM,"Kroger, John R.",65
+Crook,05 ,Attorney General,,DEM,"Kroger, John R.",149
+Crook,06 ,Attorney General,,DEM,"Kroger, John R.",62
+Crook,07 ,Attorney General,,DEM,"Kroger, John R.",11
+Crook,08 ,Attorney General,,DEM,"Kroger, John R.",72
+Crook,09 ,Attorney General,,DEM,"Kroger, John R.",22
+Crook,01 ,Attorney General,,DEM,"Macpherson, Greg",39
+Crook,10 ,Attorney General,,DEM,"Macpherson, Greg",40
+Crook,11 ,Attorney General,,DEM,"Macpherson, Greg",100
+Crook,12 ,Attorney General,,DEM,"Macpherson, Greg",5
+Crook,13 ,Attorney General,,DEM,"Macpherson, Greg",66
+Crook,14 ,Attorney General,,DEM,"Macpherson, Greg",60
+Crook,15 ,Attorney General,,DEM,"Macpherson, Greg",103
+Crook,16 ,Attorney General,,DEM,"Macpherson, Greg",43
+Crook,17 ,Attorney General,,DEM,"Macpherson, Greg",197
+Crook,02 ,Attorney General,,DEM,"Macpherson, Greg",33
+Crook,03 ,Attorney General,,DEM,"Macpherson, Greg",22
+Crook,04 ,Attorney General,,DEM,"Macpherson, Greg",63
+Crook,05 ,Attorney General,,DEM,"Macpherson, Greg",125
+Crook,06 ,Attorney General,,DEM,"Macpherson, Greg",69
+Crook,07 ,Attorney General,,DEM,"Macpherson, Greg",14
+Crook,08 ,Attorney General,,DEM,"Macpherson, Greg",41
+Crook,09 ,Attorney General,,DEM,"Macpherson, Greg",12
+Crook,01 ,Attorney General,,DEM,Write-ins,47
+Crook,10 ,Attorney General,,DEM,Write-ins,0
+Crook,11 ,Attorney General,,DEM,Write-ins,1
+Crook,12 ,Attorney General,,DEM,Write-ins,0
+Crook,13 ,Attorney General,,DEM,Write-ins,0
+Crook,14 ,Attorney General,,DEM,Write-ins,0
+Crook,15 ,Attorney General,,DEM,Write-ins,0
+Crook,16 ,Attorney General,,DEM,Write-ins,0
+Crook,17 ,Attorney General,,DEM,Write-ins,0
+Crook,02 ,Attorney General,,DEM,Write-ins,0
+Crook,03 ,Attorney General,,DEM,Write-ins,1
+Crook,04 ,Attorney General,,DEM,Write-ins,0
+Crook,05 ,Attorney General,,DEM,Write-ins,2
+Crook,06 ,Attorney General,,DEM,Write-ins,0
+Crook,07 ,Attorney General,,DEM,Write-ins,0
+Crook,08 ,Attorney General,,DEM,Write-ins,1
+Crook,09 ,Attorney General,,DEM,Write-ins,0
+Crook,01 ,Attorney General,,DEM,Over Votes,0
+Crook,10 ,Attorney General,,DEM,Over Votes,0
+Crook,11 ,Attorney General,,DEM,Over Votes,0
+Crook,12 ,Attorney General,,DEM,Over Votes,0
+Crook,13 ,Attorney General,,DEM,Over Votes,0
+Crook,14 ,Attorney General,,DEM,Over Votes,0
+Crook,15 ,Attorney General,,DEM,Over Votes,0
+Crook,16 ,Attorney General,,DEM,Over Votes,0
+Crook,17 ,Attorney General,,DEM,Over Votes,0
+Crook,02 ,Attorney General,,DEM,Over Votes,0
+Crook,03 ,Attorney General,,DEM,Over Votes,0
+Crook,04 ,Attorney General,,DEM,Over Votes,0
+Crook,05 ,Attorney General,,DEM,Over Votes,0
+Crook,06 ,Attorney General,,DEM,Over Votes,0
+Crook,07 ,Attorney General,,DEM,Over Votes,0
+Crook,08 ,Attorney General,,DEM,Over Votes,0
+Crook,09 ,Attorney General,,DEM,Over Votes,0
+Crook,01 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,10 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,11 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,12 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,13 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,14 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,15 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,16 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,17 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,02 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,03 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,04 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,05 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,06 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,07 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,08 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,09 ,State Senate,28,DEM,"Whitsett, Douglas K.",0
+Crook,01 ,State Senate,28,DEM,No Candidate Filed,0
+Crook,10 ,State Senate,28,DEM,No Candidate Filed,5
+Crook,11 ,State Senate,28,DEM,No Candidate Filed,2
+Crook,12 ,State Senate,28,DEM,No Candidate Filed,0
+Crook,13 ,State Senate,28,DEM,No Candidate Filed,5
+Crook,14 ,State Senate,28,DEM,No Candidate Filed,5
+Crook,15 ,State Senate,28,DEM,No Candidate Filed,4
+Crook,16 ,State Senate,28,DEM,No Candidate Filed,4
+Crook,17 ,State Senate,28,DEM,No Candidate Filed,8
+Crook,02 ,State Senate,28,DEM,No Candidate Filed,2
+Crook,03 ,State Senate,28,DEM,No Candidate Filed,3
+Crook,04 ,State Senate,28,DEM,No Candidate Filed,6
+Crook,05 ,State Senate,28,DEM,No Candidate Filed,9
+Crook,06 ,State Senate,28,DEM,No Candidate Filed,5
+Crook,07 ,State Senate,28,DEM,No Candidate Filed,1
+Crook,08 ,State Senate,28,DEM,No Candidate Filed,5
+Crook,09 ,State Senate,28,DEM,No Candidate Filed,0
+Crook,01 ,State Senate,28,DEM,Write-ins,0
+Crook,10 ,State Senate,28,DEM,Write-ins,0
+Crook,11 ,State Senate,28,DEM,Write-ins,0
+Crook,12 ,State Senate,28,DEM,Write-ins,0
+Crook,13 ,State Senate,28,DEM,Write-ins,0
+Crook,14 ,State Senate,28,DEM,Write-ins,0
+Crook,15 ,State Senate,28,DEM,Write-ins,0
+Crook,16 ,State Senate,28,DEM,Write-ins,0
+Crook,17 ,State Senate,28,DEM,Write-ins,0
+Crook,02 ,State Senate,28,DEM,Write-ins,0
+Crook,03 ,State Senate,28,DEM,Write-ins,0
+Crook,04 ,State Senate,28,DEM,Write-ins,0
+Crook,05 ,State Senate,28,DEM,Write-ins,0
+Crook,06 ,State Senate,28,DEM,Write-ins,0
+Crook,07 ,State Senate,28,DEM,Write-ins,0
+Crook,08 ,State Senate,28,DEM,Write-ins,0
+Crook,09 ,State Senate,28,DEM,Write-ins,0
+Crook,01 ,State Senate,28,DEM,Over Votes,0
+Crook,10 ,State Senate,28,DEM,Over Votes,0
+Crook,11 ,State Senate,28,DEM,Over Votes,0
+Crook,12 ,State Senate,28,DEM,Over Votes,0
+Crook,13 ,State Senate,28,DEM,Over Votes,0
+Crook,14 ,State Senate,28,DEM,Over Votes,0
+Crook,15 ,State Senate,28,DEM,Over Votes,0
+Crook,16 ,State Senate,28,DEM,Over Votes,0
+Crook,17 ,State Senate,28,DEM,Over Votes,0
+Crook,02 ,State Senate,28,DEM,Over Votes,0
+Crook,03 ,State Senate,28,DEM,Over Votes,0
+Crook,04 ,State Senate,28,DEM,Over Votes,0
+Crook,05 ,State Senate,28,DEM,Over Votes,0
+Crook,06 ,State Senate,28,DEM,Over Votes,0
+Crook,07 ,State Senate,28,DEM,Over Votes,0
+Crook,08 ,State Senate,28,DEM,Over Votes,0
+Crook,09 ,State Senate,28,DEM,Over Votes,0
+Crook,01 ,State House,55,DEM,No Candidate Filed,0
+Crook,10 ,State House,55,DEM,No Candidate Filed,3
+Crook,11 ,State House,55,DEM,No Candidate Filed,1
+Crook,12 ,State House,55,DEM,No Candidate Filed,0
+Crook,13 ,State House,55,DEM,No Candidate Filed,3
+Crook,14 ,State House,55,DEM,No Candidate Filed,4
+Crook,15 ,State House,55,DEM,No Candidate Filed,3
+Crook,16 ,State House,55,DEM,No Candidate Filed,3
+Crook,17 ,State House,55,DEM,No Candidate Filed,5
+Crook,02 ,State House,55,DEM,No Candidate Filed,1
+Crook,03 ,State House,55,DEM,No Candidate Filed,3
+Crook,04 ,State House,55,DEM,No Candidate Filed,4
+Crook,05 ,State House,55,DEM,No Candidate Filed,5
+Crook,06 ,State House,55,DEM,No Candidate Filed,0
+Crook,07 ,State House,55,DEM,No Candidate Filed,0
+Crook,08 ,State House,55,DEM,No Candidate Filed,0
+Crook,09 ,State House,55,DEM,No Candidate Filed,0
+Crook,01 ,State House,55,DEM,Write-ins,0
+Crook,10 ,State House,55,DEM,Write-ins,0
+Crook,11 ,State House,55,DEM,Write-ins,0
+Crook,12 ,State House,55,DEM,Write-ins,0
+Crook,13 ,State House,55,DEM,Write-ins,0
+Crook,14 ,State House,55,DEM,Write-ins,0
+Crook,15 ,State House,55,DEM,Write-ins,0
+Crook,16 ,State House,55,DEM,Write-ins,0
+Crook,17 ,State House,55,DEM,Write-ins,0
+Crook,02 ,State House,55,DEM,Write-ins,0
+Crook,03 ,State House,55,DEM,Write-ins,0
+Crook,04 ,State House,55,DEM,Write-ins,0
+Crook,05 ,State House,55,DEM,Write-ins,0
+Crook,06 ,State House,55,DEM,Write-ins,0
+Crook,07 ,State House,55,DEM,Write-ins,0
+Crook,08 ,State House,55,DEM,Write-ins,0
+Crook,09 ,State House,55,DEM,Write-ins,0
+Crook,01 ,President,,REP,"McCain, John",68
+Crook,10 ,President,,REP,"McCain, John",72
+Crook,11 ,President,,REP,"McCain, John",468
+Crook,12 ,President,,REP,"McCain, John",29
+Crook,13 ,President,,REP,"McCain, John",145
+Crook,14 ,President,,REP,"McCain, John",33
+Crook,15 ,President,,REP,"McCain, John",200
+Crook,16 ,President,,REP,"McCain, John",125
+Crook,17 ,President,,REP,"McCain, John",379
+Crook,02 ,President,,REP,"McCain, John",69
+Crook,03 ,President,,REP,"McCain, John",28
+Crook,04 ,President,,REP,"McCain, John",248
+Crook,05 ,President,,REP,"McCain, John",398
+Crook,06 ,President,,REP,"McCain, John",136
+Crook,07 ,President,,REP,"McCain, John",75
+Crook,08 ,President,,REP,"McCain, John",108
+Crook,09 ,President,,REP,"McCain, John",43
+Crook,01 ,President,,REP,"Paul, Ron",9
+Crook,10 ,President,,REP,"Paul, Ron",10
+Crook,11 ,President,,REP,"Paul, Ron",42
+Crook,12 ,President,,REP,"Paul, Ron",7
+Crook,13 ,President,,REP,"Paul, Ron",10
+Crook,14 ,President,,REP,"Paul, Ron",6
+Crook,15 ,President,,REP,"Paul, Ron",26
+Crook,16 ,President,,REP,"Paul, Ron",18
+Crook,17 ,President,,REP,"Paul, Ron",72
+Crook,02 ,President,,REP,"Paul, Ron",5
+Crook,03 ,President,,REP,"Paul, Ron",2
+Crook,04 ,President,,REP,"Paul, Ron",32
+Crook,05 ,President,,REP,"Paul, Ron",50
+Crook,06 ,President,,REP,"Paul, Ron",20
+Crook,07 ,President,,REP,"Paul, Ron",4
+Crook,08 ,President,,REP,"Paul, Ron",10
+Crook,09 ,President,,REP,"Paul, Ron",2
+Crook,01 ,President,,REP,Write-ins,2
+Crook,10 ,President,,REP,Write-ins,6
+Crook,11 ,President,,REP,Write-ins,14
+Crook,12 ,President,,REP,Write-ins,2
+Crook,13 ,President,,REP,Write-ins,14
+Crook,14 ,President,,REP,Write-ins,5
+Crook,15 ,President,,REP,Write-ins,9
+Crook,16 ,President,,REP,Write-ins,13
+Crook,17 ,President,,REP,Write-ins,22
+Crook,02 ,President,,REP,Write-ins,2
+Crook,03 ,President,,REP,Write-ins,2
+Crook,04 ,President,,REP,Write-ins,9
+Crook,05 ,President,,REP,Write-ins,23
+Crook,06 ,President,,REP,Write-ins,6
+Crook,07 ,President,,REP,Write-ins,3
+Crook,08 ,President,,REP,Write-ins,4
+Crook,09 ,President,,REP,Write-ins,5
+Crook,01 ,U.S. Senate,,REP,"Leitch, Gordon ",8
+Crook,10 ,U.S. Senate,,REP,"Leitch, Gordon ",13
+Crook,11 ,U.S. Senate,,REP,"Leitch, Gordon ",65
+Crook,12 ,U.S. Senate,,REP,"Leitch, Gordon ",3
+Crook,13 ,U.S. Senate,,REP,"Leitch, Gordon ",22
+Crook,14 ,U.S. Senate,,REP,"Leitch, Gordon ",3
+Crook,15 ,U.S. Senate,,REP,"Leitch, Gordon ",33
+Crook,16 ,U.S. Senate,,REP,"Leitch, Gordon ",28
+Crook,17 ,U.S. Senate,,REP,"Leitch, Gordon ",76
+Crook,02 ,U.S. Senate,,REP,"Leitch, Gordon ",3
+Crook,03 ,U.S. Senate,,REP,"Leitch, Gordon ",6
+Crook,04 ,U.S. Senate,,REP,"Leitch, Gordon ",36
+Crook,05 ,U.S. Senate,,REP,"Leitch, Gordon ",64
+Crook,06 ,U.S. Senate,,REP,"Leitch, Gordon ",13
+Crook,07 ,U.S. Senate,,REP,"Leitch, Gordon ",10
+Crook,08 ,U.S. Senate,,REP,"Leitch, Gordon ",12
+Crook,09 ,U.S. Senate,,REP,"Leitch, Gordon ",6
+Crook,01 ,U.S. Senate,,REP,"Smith, Gordon H. ",75
+Crook,10 ,U.S. Senate,,REP,"Smith, Gordon H. ",72
+Crook,11 ,U.S. Senate,,REP,"Smith, Gordon H. ",449
+Crook,12 ,U.S. Senate,,REP,"Smith, Gordon H. ",31
+Crook,13 ,U.S. Senate,,REP,"Smith, Gordon H. ",143
+Crook,14 ,U.S. Senate,,REP,"Smith, Gordon H. ",39
+Crook,15 ,U.S. Senate,,REP,"Smith, Gordon H. ",208
+Crook,16 ,U.S. Senate,,REP,"Smith, Gordon H. ",133
+Crook,17 ,U.S. Senate,,REP,"Smith, Gordon H. ",394
+Crook,02 ,U.S. Senate,,REP,"Smith, Gordon H. ",74
+Crook,03 ,U.S. Senate,,REP,"Smith, Gordon H. ",25
+Crook,04 ,U.S. Senate,,REP,"Smith, Gordon H. ",246
+Crook,05 ,U.S. Senate,,REP,"Smith, Gordon H. ",392
+Crook,06 ,U.S. Senate,,REP,"Smith, Gordon H. ",152
+Crook,07 ,U.S. Senate,,REP,"Smith, Gordon H. ",67
+Crook,08 ,U.S. Senate,,REP,"Smith, Gordon H. ",106
+Crook,09 ,U.S. Senate,,REP,"Smith, Gordon H. ",41
+Crook,01 ,U.S. Senate,,REP,Write-ins,0
+Crook,10 ,U.S. Senate,,REP,Write-ins,0
+Crook,11 ,U.S. Senate,,REP,Write-ins,0
+Crook,12 ,U.S. Senate,,REP,Write-ins,0
+Crook,13 ,U.S. Senate,,REP,Write-ins,1
+Crook,14 ,U.S. Senate,,REP,Write-ins,0
+Crook,15 ,U.S. Senate,,REP,Write-ins,0
+Crook,16 ,U.S. Senate,,REP,Write-ins,2
+Crook,17 ,U.S. Senate,,REP,Write-ins,0
+Crook,02 ,U.S. Senate,,REP,Write-ins,0
+Crook,03 ,U.S. Senate,,REP,Write-ins,0
+Crook,04 ,U.S. Senate,,REP,Write-ins,0
+Crook,05 ,U.S. Senate,,REP,Write-ins,2
+Crook,06 ,U.S. Senate,,REP,Write-ins,0
+Crook,07 ,U.S. Senate,,REP,Write-ins,0
+Crook,08 ,U.S. Senate,,REP,Write-ins,0
+Crook,09 ,U.S. Senate,,REP,Write-ins,0
+Crook,01 ,U.S. House,2,REP,"Walden, Greg",78
+Crook,10 ,U.S. House,2,REP,"Walden, Greg",81
+Crook,11 ,U.S. House,2,REP,"Walden, Greg",477
+Crook,12 ,U.S. House,2,REP,"Walden, Greg",35
+Crook,13 ,U.S. House,2,REP,"Walden, Greg",145
+Crook,14 ,U.S. House,2,REP,"Walden, Greg",40
+Crook,15 ,U.S. House,2,REP,"Walden, Greg",215
+Crook,16 ,U.S. House,2,REP,"Walden, Greg",142
+Crook,17 ,U.S. House,2,REP,"Walden, Greg",436
+Crook,02 ,U.S. House,2,REP,"Walden, Greg",72
+Crook,03 ,U.S. House,2,REP,"Walden, Greg",28
+Crook,04 ,U.S. House,2,REP,"Walden, Greg",255
+Crook,05 ,U.S. House,2,REP,"Walden, Greg",419
+Crook,06 ,U.S. House,2,REP,"Walden, Greg",145
+Crook,07 ,U.S. House,2,REP,"Walden, Greg",65
+Crook,08 ,U.S. House,2,REP,"Walden, Greg",111
+Crook,09 ,U.S. House,2,REP,"Walden, Greg",47
+Crook,01 ,U.S. House,2,REP,Write-ins,0
+Crook,10 ,U.S. House,2,REP,Write-ins,2
+Crook,11 ,U.S. House,2,REP,Write-ins,1
+Crook,12 ,U.S. House,2,REP,Write-ins,0
+Crook,13 ,U.S. House,2,REP,Write-ins,1
+Crook,14 ,U.S. House,2,REP,Write-ins,1
+Crook,15 ,U.S. House,2,REP,Write-ins,0
+Crook,16 ,U.S. House,2,REP,Write-ins,2
+Crook,17 ,U.S. House,2,REP,Write-ins,3
+Crook,02 ,U.S. House,2,REP,Write-ins,0
+Crook,03 ,U.S. House,2,REP,Write-ins,0
+Crook,04 ,U.S. House,2,REP,Write-ins,2
+Crook,05 ,U.S. House,2,REP,Write-ins,2
+Crook,06 ,U.S. House,2,REP,Write-ins,1
+Crook,07 ,U.S. House,2,REP,Write-ins,1
+Crook,08 ,U.S. House,2,REP,Write-ins,0
+Crook,09 ,U.S. House,2,REP,Write-ins,0
+Crook,01 ,Secretary of State,,REP,"Dancer, Rick",66
+Crook,10 ,Secretary of State,,REP,"Dancer, Rick",68
+Crook,11 ,Secretary of State,,REP,"Dancer, Rick",368
+Crook,12 ,Secretary of State,,REP,"Dancer, Rick",24
+Crook,13 ,Secretary of State,,REP,"Dancer, Rick",117
+Crook,14 ,Secretary of State,,REP,"Dancer, Rick",34
+Crook,15 ,Secretary of State,,REP,"Dancer, Rick",172
+Crook,16 ,Secretary of State,,REP,"Dancer, Rick",98
+Crook,17 ,Secretary of State,,REP,"Dancer, Rick",333
+Crook,02 ,Secretary of State,,REP,"Dancer, Rick",58
+Crook,03 ,Secretary of State,,REP,"Dancer, Rick",22
+Crook,04 ,Secretary of State,,REP,"Dancer, Rick",190
+Crook,05 ,Secretary of State,,REP,"Dancer, Rick",323
+Crook,06 ,Secretary of State,,REP,"Dancer, Rick",108
+Crook,07 ,Secretary of State,,REP,"Dancer, Rick",42
+Crook,08 ,Secretary of State,,REP,"Dancer, Rick",92
+Crook,09 ,Secretary of State,,REP,"Dancer, Rick",37
+Crook,01 ,Secretary of State,,REP,Write-ins,0
+Crook,10 ,Secretary of State,,REP,Write-ins,0
+Crook,11 ,Secretary of State,,REP,Write-ins,1
+Crook,12 ,Secretary of State,,REP,Write-ins,0
+Crook,13 ,Secretary of State,,REP,Write-ins,3
+Crook,14 ,Secretary of State,,REP,Write-ins,0
+Crook,15 ,Secretary of State,,REP,Write-ins,2
+Crook,16 ,Secretary of State,,REP,Write-ins,3
+Crook,17 ,Secretary of State,,REP,Write-ins,5
+Crook,02 ,Secretary of State,,REP,Write-ins,1
+Crook,03 ,Secretary of State,,REP,Write-ins,2
+Crook,04 ,Secretary of State,,REP,Write-ins,2
+Crook,05 ,Secretary of State,,REP,Write-ins,7
+Crook,06 ,Secretary of State,,REP,Write-ins,2
+Crook,07 ,Secretary of State,,REP,Write-ins,1
+Crook,08 ,Secretary of State,,REP,Write-ins,0
+Crook,09 ,Secretary of State,,REP,Write-ins,0
+Crook,01 ,State Treasurer,,REP,"Alley, Allen",63
+Crook,10 ,State Treasurer,,REP,"Alley, Allen",68
+Crook,11 ,State Treasurer,,REP,"Alley, Allen",357
+Crook,12 ,State Treasurer,,REP,"Alley, Allen",26
+Crook,13 ,State Treasurer,,REP,"Alley, Allen",111
+Crook,14 ,State Treasurer,,REP,"Alley, Allen",34
+Crook,15 ,State Treasurer,,REP,"Alley, Allen",166
+Crook,16 ,State Treasurer,,REP,"Alley, Allen",98
+Crook,17 ,State Treasurer,,REP,"Alley, Allen",322
+Crook,02 ,State Treasurer,,REP,"Alley, Allen",56
+Crook,03 ,State Treasurer,,REP,"Alley, Allen",22
+Crook,04 ,State Treasurer,,REP,"Alley, Allen",190
+Crook,05 ,State Treasurer,,REP,"Alley, Allen",318
+Crook,06 ,State Treasurer,,REP,"Alley, Allen",103
+Crook,07 ,State Treasurer,,REP,"Alley, Allen",42
+Crook,08 ,State Treasurer,,REP,"Alley, Allen",91
+Crook,09 ,State Treasurer,,REP,"Alley, Allen",35
+Crook,01 ,State Treasurer,,REP,Write-ins,0
+Crook,10 ,State Treasurer,,REP,Write-ins,0
+Crook,11 ,State Treasurer,,REP,Write-ins,0
+Crook,12 ,State Treasurer,,REP,Write-ins,0
+Crook,13 ,State Treasurer,,REP,Write-ins,1
+Crook,14 ,State Treasurer,,REP,Write-ins,0
+Crook,15 ,State Treasurer,,REP,Write-ins,1
+Crook,16 ,State Treasurer,,REP,Write-ins,5
+Crook,17 ,State Treasurer,,REP,Write-ins,1
+Crook,02 ,State Treasurer,,REP,Write-ins,2
+Crook,03 ,State Treasurer,,REP,Write-ins,1
+Crook,04 ,State Treasurer,,REP,Write-ins,0
+Crook,05 ,State Treasurer,,REP,Write-ins,4
+Crook,06 ,State Treasurer,,REP,Write-ins,3
+Crook,07 ,State Treasurer,,REP,Write-ins,0
+Crook,08 ,State Treasurer,,REP,Write-ins,0
+Crook,09 ,State Treasurer,,REP,Write-ins,1
