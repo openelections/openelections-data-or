@@ -26,7 +26,6 @@ import csv
 import os
 import re
 import argparse
-from difflib import SequenceMatcher
 
 def main():
 	args = parseArguments()
@@ -48,7 +47,7 @@ def parseArguments():
 
 class Verifier(object):
 	validColumns = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'notes'])
-	requiredColumns = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
+	requiredColumnSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
 	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer'])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
 	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast'])
@@ -111,7 +110,7 @@ class Verifier(object):
 		if len(components) == 5:
 			return (components[1], components[3].replace("_", " ").title())
 
-		return ""
+		return (None, None)
 
 	def parseFileAtPath(self, path):
 		with open(path, 'rU') as csvfile:
@@ -131,7 +130,7 @@ class Verifier(object):
 
 	def verifyColumns(self, columns):
 		invalidColumns = set(columns) - Verifier.validColumns
-		missingColumns = Verifier.requiredColumns - set(columns)
+		missingColumns = self.requiredColumns() - set(columns)
 
 		if invalidColumns:
 			self.printError("Invalid columns: {}".format(invalidColumns))
@@ -141,6 +140,9 @@ class Verifier(object):
 			return False
 
 		return True
+
+	def requiredColumns(self):
+		return Verifier.requiredColumnSet
 
 	def verifyCounty(self, row):
 		normalisedCounty = row['county'].title()
@@ -174,15 +176,12 @@ class Verifier(object):
 
 		if candidate not in Verifier.pseudocandidates:
 			if normalizedCandidate in Verifier.normalizedPseudocandidates:
-				self.printError("Misspelled pseudocandidate: '{}'".format(candidate), row)
+				self.printError("Misspelled pseudocandidate a: '{}'".format(candidate), row)
 			else:
 				# Compare the normalized strings to determine if they match
 				for npc in Verifier.normalizedPseudocandidates:
-					s = SequenceMatcher(None, normalizedCandidate, npc)
-					match = s.find_longest_match(0, len(normalizedCandidate), 0, len(npc))
-
-					if match.size > 4:
-						self.printError("Misspelled pseudocandidate: '{}'".format(candidate), row)
+					if normalizedCandidate.startswith(npc[0:4]): # Only check the first 4 characters
+						self.printError("Misspelled pseudocandidate b: '{}'".format(candidate), row)
 						break
 
 	def verifyParty(self, row):
@@ -221,10 +220,19 @@ class SpecialPrecinctVerifier(Verifier):
 
 
 class PrimaryVerifier(Verifier):
-	pass
+	def requiredColumns(self):
+		return Verifier.requiredColumnSet - set(['precinct'])
+
+	def verifyCounty(self, row):
+		pass
+
 
 class GeneralVerifier(Verifier):
-	pass
+	def requiredColumns(self):
+		return Verifier.requiredColumnSet - set(['precinct'])
+
+	def verifyCounty(self, row):
+		pass
 
 
 # Default function is main()
