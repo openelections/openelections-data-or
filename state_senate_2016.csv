@@ -1,0 +1,49 @@
+ContestID,ContestName,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+300019203,"State Senator, 1st District","","","SD 01",,,9901," Write-in",12/3/2016 6:55:36 AM,1,106,0.00169988934682554,65/65
+300019203,"State Senator, 1st District","DEM","","SD 01",,,300027646,"Timm Rolek",12/3/2016 6:55:36 AM,1,16476,0.264220536587713,65/65
+300019203,"State Senator, 1st District","REP","","SD 01",,,300021435,"Jeff Kruse",12/3/2016 6:55:36 AM,1,45775,0.734079574065462,65/65
+300019204,"State Senator, 2nd District","","","SD 02",,,9901," Write-in",12/3/2016 6:55:36 AM,1,1075,0.0240977359336472,57/57
+300019204,"State Senator, 2nd District","REP","","SD 02",,,300021622,"Herman Baertschiger Jr",12/3/2016 6:55:36 AM,1,43535,0.975902264066353,57/57
+300019205,"State Senator, 5th District","","","SD 05",,,9901," Write-in",12/3/2016 6:55:36 AM,1,1066,0.0166784010013299,62/62
+300019205,"State Senator, 5th District","DEM","","SD 05",,,300021623,"Arnie Roblan",12/3/2016 6:55:36 AM,1,30318,0.474348744426191,62/62
+300019205,"State Senator, 5th District","LBT","","SD 05",,,300027648,"Dan Souza",12/3/2016 6:55:36 AM,1,2558,0.0400219040913714,62/62
+300019205,"State Senator, 5th District","REP","","SD 05",,,300027647,"Dick Anderson",12/3/2016 6:55:36 AM,1,29973,0.468950950481108,62/62
+300019206,"State Senator, 9th District","","","SD 09",,,9901," Write-in",12/3/2016 6:55:36 AM,1,120,0.00202774632893425,80/80
+300019206,"State Senator, 9th District","DEM","","SD 09",,,300027650,"Rich Harisay",12/3/2016 6:55:36 AM,1,15901,0.268693286469863,80/80
+300019206,"State Senator, 9th District","LBT","","SD 09",,,300027649,"Jack Stillwell",12/3/2016 6:55:36 AM,1,2503,0.0422954088443536,80/80
+300019206,"State Senator, 9th District","REP","","SD 09",,,300021438,"Fred Frank Girod",12/3/2016 6:55:36 AM,1,40655,0.68698355835685,80/80
+300019207,"State Senator, 12th District","","","SD 12",,,9901," Write-in",12/3/2016 6:55:36 AM,1,293,0.0046038779422394,38/38
+300019207,"State Senator, 12th District","DEM","","SD 12",,,300027651,"Ross Swartzendruber",12/3/2016 6:55:36 AM,1,23441,0.368325948273153,38/38
+300019207,"State Senator, 12th District","REP","","SD 12",,,300021439,"Brian J Boquist",12/3/2016 6:55:36 AM,1,39908,0.627070173784608,38/38
+300019208,"State Senator, 14th District","","","SD 14",,,9901," Write-in",12/3/2016 6:55:36 AM,1,1271,0.0278673068911838,27/27
+300019208,"State Senator, 14th District","DEM","","SD 14",,,300021440,"Mark Hass",12/3/2016 6:55:36 AM,1,44338,0.972132693108816,27/27
+300019209,"State Senator, 18th District","","","SD 18",,,9901," Write-in",12/3/2016 6:55:36 AM,1,1349,0.0255299015897048,25/25
+300019209,"State Senator, 18th District","DEM","","SD 18",,,300021441,"Ginny Burdick",12/3/2016 6:55:36 AM,1,51491,0.974470098410295,25/25
+300019210,"State Senator, 21st District","","","SD 21",,,9901," Write-in",12/3/2016 6:55:36 AM,1,322,0.00452985200607732,22/22
+300019210,"State Senator, 21st District","DEM","","SD 21",,,300027577,"Kathleen Taylor",12/3/2016 6:55:36 AM,1,54520,0.766979911091104,22/22
+300019210,"State Senator, 21st District","LBT","","SD 21",,,300027653,"Josh Howard",12/3/2016 6:55:36 AM,1,5852,0.0823251364582747,22/22
+300019210,"State Senator, 21st District","PRO","","SD 21",,,300027652,"James Ofsink",12/3/2016 6:55:36 AM,1,10390,0.146165100444544,22/22
+300019211,"State Senator, 22nd District","","","SD 22",,,9901," Write-in",12/3/2016 6:55:36 AM,1,290,0.00436654922154967,11/11
+300019211,"State Senator, 22nd District","LBT","","SD 22",,,300027654,"Eugene A Newell Jr",12/3/2016 6:55:36 AM,1,5321,0.0801186496822959,11/11
+300019211,"State Senator, 22nd District","DEM","","SD 22",,,300027578,"Lew Frederick",12/3/2016 6:55:36 AM,1,60803,0.915514801096154,11/11
+300019212,"State Senator, 23rd District","","","SD 23",,,9901," Write-in",12/3/2016 6:55:36 AM,1,1071,0.0215090474564698,17/17
+300019212,"State Senator, 23rd District","DEM","","SD 23",,,300024777,"Michael Dembrow",12/3/2016 6:55:36 AM,1,48722,0.97849095254353,17/17
+300019213,"State Senator, 25th District","","","SD 25",,,9901," Write-in",12/3/2016 6:55:36 AM,1,75,0.00163008041730059,19/19
+300019213,"State Senator, 25th District","LBT","","SD 25",,,300027656,"Jeffrey Ricks",12/3/2016 6:55:36 AM,1,1854,0.0402955879156705,19/19
+300019213,"State Senator, 25th District","DEM","","SD 25",,,300021444,"Laurie Monnes Anderson",12/3/2016 6:55:36 AM,1,25339,0.550728102586394,19/19
+300019213,"State Senator, 25th District","REP","","SD 25",,,300027655,"Tamie Tlustos-Arnold",12/3/2016 6:55:36 AM,1,18742,0.407346229080635,19/19
+300019214,"State Senator, 27th District","","","SD 27",,,9901," Write-in",12/3/2016 6:55:36 AM,1,147,0.00199265293950197,36/36
+300019214,"State Senator, 27th District","DEM","","SD 27",,,300027579,"Greg Delgado",12/3/2016 6:55:36 AM,1,28933,0.392200187065378,36/36
+300019214,"State Senator, 27th District","REP","","SD 27",,,300021645,"Tim Knopp",12/3/2016 6:55:36 AM,1,44691,0.60580715999512,36/36
+300019215,"State Senator, 28th District","","","SD 28",,,9901," Write-in",12/3/2016 6:55:36 AM,1,283,0.00469047816358664,79/95
+300019215,"State Senator, 28th District","DEM","","SD 28",,,300027657,"Todd Kepple",12/3/2016 6:55:36 AM,1,22933,0.380094472528383,79/95
+300019215,"State Senator, 28th District","REP","","SD 28",,,300027626,"Dennis Linthicum",12/3/2016 6:55:36 AM,1,37119,0.61521504930803,79/95
+300019216,"State Senator, 29th District","","","SD 29",,,9901," Write-in",12/3/2016 6:55:36 AM,1,176,0.00373871481678173,93/93
+300019216,"State Senator, 29th District","IND","","SD 29",,,300027658,"Barbara E Dickerson",12/3/2016 6:55:36 AM,1,9114,0.19360594795539,93/93
+300019216,"State Senator, 29th District","REP","","SD 29",,,300021649,"Bill Hansell",12/3/2016 6:55:36 AM,1,37785,0.802655337227828,93/93
+300019217,"State Senator, 30th District","","","SD 30",,,9901," Write-in",12/3/2016 6:55:36 AM,1,131,0.00228346319440813,86/92
+300019217,"State Senator, 30th District","DEM","","SD 30",,,300027659,"W Mark Stringer",12/3/2016 6:55:36 AM,1,17001,0.296344715787272,86/92
+300019217,"State Senator, 30th District","REP","","SD 30",,,300021448,"Ted Ferrioli",12/3/2016 6:55:36 AM,1,40237,0.70137182101832,86/92
+300019392,"State Senator, 3rd District (2 Year Term)","","","SD 03",,,9901," Write-in",12/3/2016 6:55:36 AM,1,147,0.00223703433162893,32/32
+300019392,"State Senator, 3rd District (2 Year Term)","DEM","","SD 03",,,300027804,"Tonia Moro",12/3/2016 6:55:36 AM,1,32585,0.495875943511079,32/32
+300019392,"State Senator, 3rd District (2 Year Term)","REP","","SD 03",,,300027791,"Alan DeBoer",12/3/2016 6:55:36 AM,1,32980,0.501887022157292,32/32
