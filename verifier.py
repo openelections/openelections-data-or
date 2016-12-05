@@ -22,6 +22,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 # SOFTWARE.
 
+import pdb
 import csv
 import os
 import re
@@ -32,6 +33,8 @@ def main():
 
 	for path in args.paths:
 		verifier = Verifier(path)
+		verifier.showPrimaryPartiesError = not args.mutePrimaryPartiesError
+		verifier.showXForDistrictError = not args.muteXForDistrictError
 
 		if verifier.ready and "matrix" not in verifier.filename:
 			verifier.verify()
@@ -39,6 +42,9 @@ def main():
 
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify openelections CSV files')
+	parser.add_argument('--mutePrimaryPartiesError', dest='mutePrimaryPartiesError', action='store_true')
+	parser.add_argument('--muteXForDistrictError', dest='muteXForDistrictError', action='store_true')
+	parser.set_defaults(mutePrimaryPartiesError=False, muteXForDistrictError=False)
 	parser.add_argument('paths', metavar='N', type=str, nargs='+',
 					   help='path to a CSV file')
 
@@ -79,6 +85,8 @@ class Verifier(object):
 		self.columns = []
 		self.reader = None
 		self.ready = False
+		self.showPrimaryPartiesError = True
+		self.showXForDistrictError = True
 
 		self.countyRE = re.compile("\d{8}__[a-z]{2}_")
 
@@ -119,7 +127,7 @@ class Verifier(object):
 			
 			if self.verifyColumns(self.reader.fieldnames):
 				for index, row in enumerate(self.reader):
-					self.currentRowIndex = index
+					self.currentRowIndex = index + 2 # 1 for header; 1 for human-readable, 1-indexed list
 
 					self.verifyCounty(row)
 					self.verifyOffice(row)
@@ -162,8 +170,8 @@ class Verifier(object):
 			if not row['district']:
 				self.printError("Office '{}' requires a district".format(row['office']), row)
 			elif row['district'].lower() == 'x':
-				if self.filenameState == 'ms':
-					pass # This is legit in some MS precincts
+				if not self.showXForDistrictError:
+					pass # Some counties use this, but we still want to make sure it's reviewed by default
 				else:
 					self.printError("District must be an integer", row)
 			elif not self.verifyInteger(row['district']):
@@ -212,8 +220,9 @@ class GeneralPrecinctVerifier(Verifier):
 
 class PrimaryPrecinctVerifier(Verifier):
 	def verifyParty(self, row):
-		if not row['party']:
-			self.printError("Primary results must include a party for every row", row)
+		if self.showPrimaryPartiesError:
+			if not row['party']:
+				self.printError("Primary results must include a party for every row", row)
 
 class SpecialPrecinctVerifier(Verifier):
 	pass
