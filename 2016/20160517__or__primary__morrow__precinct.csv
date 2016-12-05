@@ -1,1 +1,547 @@
-county,precinct,office,district,party,candidate,votesMorrow,Precinct 1,President,,DEM,Hillary Clinton,89Morrow,Precinct 1,President,,DEM,Bernie Sanders,86Morrow,Precinct 1,President,,DEM,Write-ins,6Morrow,Precinct 1,President,,DEM,Over Votes,0Morrow,Precinct 1,President,,DEM,Under Votes,7Morrow,Precinct 2,President,,DEM,Hillary Clinton,81Morrow,Precinct 2,President,,DEM,Bernie Sanders,101Morrow,Precinct 2,President,,DEM,Write-ins,15Morrow,Precinct 2,President,,DEM,Over Votes,1Morrow,Precinct 2,President,,DEM,Under Votes,14Morrow,Precinct 3,President,,DEM,Hillary Clinton,19Morrow,Precinct 3,President,,DEM,Bernie Sanders,20Morrow,Precinct 3,President,,DEM,Write-ins,6Morrow,Precinct 3,President,,DEM,Over Votes,0Morrow,Precinct 3,President,,DEM,Under Votes,4Morrow,Precinct 4,President,,DEM,Hillary Clinton,26Morrow,Precinct 4,President,,DEM,Bernie Sanders,28Morrow,Precinct 4,President,,DEM,Write-ins,3Morrow,Precinct 4,President,,DEM,Over Votes,0Morrow,Precinct 4,President,,DEM,Under Votes,5Morrow,Precinct 5,President,,DEM,Hillary Clinton,79Morrow,Precinct 5,President,,DEM,Bernie Sanders,102Morrow,Precinct 5,President,,DEM,Write-ins,14Morrow,Precinct 5,President,,DEM,Over Votes,0Morrow,Precinct 5,President,,DEM,Under Votes,20Morrow,,President,,DEM,Hillary Clinton,294Morrow,,President,,DEM,Bernie Sanders,337Morrow,,President,,DEM,Write-ins,44Morrow,,President,,DEM,Over Votes,1Morrow,,President,,DEM,Under Votes,50Morrow,Precinct 1,U.S. Senate,,DEM,Ron Wyden,139Morrow,Precinct 1,U.S. Senate,,DEM,Paul B Weaver,12Morrow,Precinct 1,U.S. Senate,,DEM,Kevin H Stine,23Morrow,Precinct 1,U.S. Senate,,DEM,Write-ins,2Morrow,Precinct 1,U.S. Senate,,DEM,Over Votes,0Morrow,Precinct 1,U.S. Senate,,DEM,Under Votes,12Morrow,Precinct 2,U.S. Senate,,DEM,Ron Wyden,148Morrow,Precinct 2,U.S. Senate,,DEM,Paul B Weaver,23Morrow,Precinct 2,U.S. Senate,,DEM,Kevin H Stine,23Morrow,Precinct 2,U.S. Senate,,DEM,Write-ins,0Morrow,Precinct 2,U.S. Senate,,DEM,Over Votes,0Morrow,Precinct 2,U.S. Senate,,DEM,Under Votes,18Morrow,Precinct 3,U.S. Senate,,DEM,Ron Wyden,33Morrow,Precinct 3,U.S. Senate,,DEM,Paul B Weaver,7Morrow,Precinct 3,U.S. Senate,,DEM,Kevin H Stine,5Morrow,Precinct 3,U.S. Senate,,DEM,Write-ins,1Morrow,Precinct 3,U.S. Senate,,DEM,Over Votes,0Morrow,Precinct 3,U.S. Senate,,DEM,Under Votes,3Morrow,Precinct 4,U.S. Senate,,DEM,Ron Wyden,53Morrow,Precinct 4,U.S. Senate,,DEM,Paul B Weaver,3Morrow,Precinct 4,U.S. Senate,,DEM,Kevin H Stine,6Morrow,Precinct 4,U.S. Senate,,DEM,Write-ins,0Morrow,Precinct 4,U.S. Senate,,DEM,Over Votes,0Morrow,Precinct 4,U.S. Senate,,DEM,Under Votes,0Morrow,Precinct 5,U.S. Senate,,DEM,Ron Wyden,168Morrow,Precinct 5,U.S. Senate,,DEM,Paul B Weaver,11Morrow,Precinct 5,U.S. Senate,,DEM,Kevin H Stine,16Morrow,Precinct 5,U.S. Senate,,DEM,Write-ins,3Morrow,Precinct 5,U.S. Senate,,DEM,Over Votes,0Morrow,Precinct 5,U.S. Senate,,DEM,Under Votes,17Morrow,,U.S. Senate,,DEM,Ron Wyden,541Morrow,,U.S. Senate,,DEM,Paul B Weaver,56Morrow,,U.S. Senate,,DEM,Kevin H Stine,73Morrow,,U.S. Senate,,DEM,Write-ins,6Morrow,,U.S. Senate,,DEM,Over Votes,0Morrow,,U.S. Senate,,DEM,Under Votes,50Morrow,Precinct 1,U.S. House,2,DEM,James (Jim) Crary,129Morrow,Precinct 1,U.S. House,2,DEM,Write-ins,4Morrow,Precinct 1,U.S. House,2,DEM,Over Votes,0Morrow,Precinct 1,U.S. House,2,DEM,Under Votes,55Morrow,Precinct 2,U.S. House,2,DEM,James (Jim) Crary,146Morrow,Precinct 2,U.S. House,2,DEM,Write-ins,3Morrow,Precinct 2,U.S. House,2,DEM,Over Votes,0Morrow,Precinct 2,U.S. House,2,DEM,Under Votes,63Morrow,Precinct 3,U.S. House,2,DEM,James (Jim) Crary,29Morrow,Precinct 3,U.S. House,2,DEM,Write-ins,2Morrow,Precinct 3,U.S. House,2,DEM,Over Votes,0Morrow,Precinct 3,U.S. House,2,DEM,Under Votes,18Morrow,Precinct 4,U.S. House,2,DEM,James (Jim) Crary,40Morrow,Precinct 4,U.S. House,2,DEM,Write-ins,0Morrow,Precinct 4,U.S. House,2,DEM,Over Votes,0Morrow,Precinct 4,U.S. House,2,DEM,Under Votes,22Morrow,Precinct 5,U.S. House,2,DEM,James (Jim) Crary,97Morrow,Precinct 5,U.S. House,2,DEM,Write-ins,9Morrow,Precinct 5,U.S. House,2,DEM,Over Votes,0Morrow,Precinct 5,U.S. House,2,DEM,Under Votes,109Morrow,,U.S. House,2,DEM,James (Jim) Crary,441Morrow,,U.S. House,2,DEM,Write-ins,18Morrow,,U.S. House,2,DEM,Over Votes,0Morrow,,U.S. House,2,DEM,Under Votes,267Morrow,Precinct 1,Governor,,DEM,Kate Brown,122Morrow,Precinct 1,Governor,,DEM,Julian Bell,7Morrow,Precinct 1,Governor,,DEM,Chet Chance,7Morrow,Precinct 1,Governor,,DEM,Kevin M Forsythe,11Morrow,Precinct 1,Governor,,DEM,Dave Stauffer,6Morrow,Precinct 1,Governor,,DEM,Steve Johnson,13Morrow,Precinct 1,Governor,,DEM,Write-ins,1Morrow,Precinct 1,Governor,,DEM,Over Votes,0Morrow,Precinct 1,Governor,,DEM,Under Votes,21Morrow,Precinct 2,Governor,,DEM,Kate Brown,113Morrow,Precinct 2,Governor,,DEM,Julian Bell,28Morrow,Precinct 2,Governor,,DEM,Chet Chance,8Morrow,Precinct 2,Governor,,DEM,Kevin M Forsythe,6Morrow,Precinct 2,Governor,,DEM,Dave Stauffer,25Morrow,Precinct 2,Governor,,DEM,Steve Johnson,11Morrow,Precinct 2,Governor,,DEM,Write-ins,3Morrow,Precinct 2,Governor,,DEM,Over Votes,0Morrow,Precinct 2,Governor,,DEM,Under Votes,18Morrow,Precinct 3,Governor,,DEM,Kate Brown,22Morrow,Precinct 3,Governor,,DEM,Julian Bell,2Morrow,Precinct 3,Governor,,DEM,Chet Chance,1Morrow,Precinct 3,Governor,,DEM,Kevin M Forsythe,5Morrow,Precinct 3,Governor,,DEM,Dave Stauffer,4Morrow,Precinct 3,Governor,,DEM,Steve Johnson,6Morrow,Precinct 3,Governor,,DEM,Write-ins,1Morrow,Precinct 3,Governor,,DEM,Over Votes,1Morrow,Precinct 3,Governor,,DEM,Under Votes,7Morrow,Precinct 4,Governor,,DEM,Kate Brown,30Morrow,Precinct 4,Governor,,DEM,Julian Bell,5Morrow,Precinct 4,Governor,,DEM,Chet Chance,3Morrow,Precinct 4,Governor,,DEM,Kevin M Forsythe,4Morrow,Precinct 4,Governor,,DEM,Dave Stauffer,9Morrow,Precinct 4,Governor,,DEM,Steve Johnson,2Morrow,Precinct 4,Governor,,DEM,Write-ins,1Morrow,Precinct 4,Governor,,DEM,Over Votes,0Morrow,Precinct 4,Governor,,DEM,Under Votes,8Morrow,Precinct 5,Governor,,DEM,Kate Brown,115Morrow,Precinct 5,Governor,,DEM,Julian Bell,21Morrow,Precinct 5,Governor,,DEM,Chet Chance,9Morrow,Precinct 5,Governor,,DEM,Kevin M Forsythe,10Morrow,Precinct 5,Governor,,DEM,Dave Stauffer,12Morrow,Precinct 5,Governor,,DEM,Steve Johnson,12Morrow,Precinct 5,Governor,,DEM,Write-ins,7Morrow,Precinct 5,Governor,,DEM,Over Votes,0Morrow,Precinct 5,Governor,,DEM,Under Votes,29Morrow,,Governor,,DEM,Kate Brown,402Morrow,,Governor,,DEM,Julian Bell,63Morrow,,Governor,,DEM,Chet Chance,28Morrow,,Governor,,DEM,Kevin M Forsythe,36Morrow,,Governor,,DEM,Dave Stauffer,56Morrow,,Governor,,DEM,Steve Johnson,44Morrow,,Governor,,DEM,Write-ins,13Morrow,,Governor,,DEM,Over Votes,1Morrow,,Governor,,DEM,Under Votes,83Morrow,Precinct 1,Secretary of State,,DEM,Richard Devlin,63Morrow,Precinct 1,Secretary of State,,DEM,Brad Avakian,49Morrow,Precinct 1,Secretary of State,,DEM,Val Hoyle,43Morrow,Precinct 1,Secretary of State,,DEM,Write-ins,1Morrow,Precinct 1,Secretary of State,,DEM,Over Votes,0Morrow,Precinct 1,Secretary of State,,DEM,Under Votes,32Morrow,Precinct 2,Secretary of State,,DEM,Richard Devlin,65Morrow,Precinct 2,Secretary of State,,DEM,Brad Avakian,54Morrow,Precinct 2,Secretary of State,,DEM,Val Hoyle,61Morrow,Precinct 2,Secretary of State,,DEM,Write-ins,1Morrow,Precinct 2,Secretary of State,,DEM,Over Votes,0Morrow,Precinct 2,Secretary of State,,DEM,Under Votes,31Morrow,Precinct 3,Secretary of State,,DEM,Richard Devlin,12Morrow,Precinct 3,Secretary of State,,DEM,Brad Avakian,14Morrow,Precinct 3,Secretary of State,,DEM,Val Hoyle,12Morrow,Precinct 3,Secretary of State,,DEM,Write-ins,2Morrow,Precinct 3,Secretary of State,,DEM,Over Votes,0Morrow,Precinct 3,Secretary of State,,DEM,Under Votes,9Morrow,Precinct 4,Secretary of State,,DEM,Richard Devlin,20Morrow,Precinct 4,Secretary of State,,DEM,Brad Avakian,18Morrow,Precinct 4,Secretary of State,,DEM,Val Hoyle,11Morrow,Precinct 4,Secretary of State,,DEM,Write-ins,0Morrow,Precinct 4,Secretary of State,,DEM,Over Votes,0Morrow,Precinct 4,Secretary of State,,DEM,Under Votes,13Morrow,Precinct 5,Secretary of State,,DEM,Richard Devlin,60Morrow,Precinct 5,Secretary of State,,DEM,Brad Avakian,54Morrow,Precinct 5,Secretary of State,,DEM,Val Hoyle,38Morrow,Precinct 5,Secretary of State,,DEM,Write-ins,4Morrow,Precinct 5,Secretary of State,,DEM,Over Votes,1Morrow,Precinct 5,Secretary of State,,DEM,Under Votes,58Morrow,,Secretary of State,,DEM,Richard Devlin,220Morrow,,Secretary of State,,DEM,Brad Avakian,189Morrow,,Secretary of State,,DEM,Val Hoyle,165Morrow,,Secretary of State,,DEM,Write-ins,8Morrow,,Secretary of State,,DEM,Over Votes,1Morrow,,Secretary of State,,DEM,Under Votes,143Morrow,Precinct 1,State Treasurer,,DEM,Tobias Read,129Morrow,Precinct 1,State Treasurer,,DEM,Write-ins,1Morrow,Precinct 1,State Treasurer,,DEM,Over Votes,0Morrow,Precinct 1,State Treasurer,,DEM,Under Votes,58Morrow,Precinct 2,State Treasurer,,DEM,Tobias Read,143Morrow,Precinct 2,State Treasurer,,DEM,Write-ins,2Morrow,Precinct 2,State Treasurer,,DEM,Over Votes,0Morrow,Precinct 2,State Treasurer,,DEM,Under Votes,67Morrow,Precinct 3,State Treasurer,,DEM,Tobias Read,27Morrow,Precinct 3,State Treasurer,,DEM,Write-ins,0Morrow,Precinct 3,State Treasurer,,DEM,Over Votes,0Morrow,Precinct 3,State Treasurer,,DEM,Under Votes,22Morrow,Precinct 4,State Treasurer,,DEM,Tobias Read,37Morrow,Precinct 4,State Treasurer,,DEM,Write-ins,0Morrow,Precinct 4,State Treasurer,,DEM,Over Votes,0Morrow,Precinct 4,State Treasurer,,DEM,Under Votes,25Morrow,Precinct 5,State Treasurer,,DEM,Tobias Read,107Morrow,Precinct 5,State Treasurer,,DEM,Write-ins,3Morrow,Precinct 5,State Treasurer,,DEM,Over Votes,0Morrow,Precinct 5,State Treasurer,,DEM,Under Votes,105Morrow,,State Treasurer,,DEM,Tobias Read,443Morrow,,State Treasurer,,DEM,Write-ins,6Morrow,,State Treasurer,,DEM,Over Votes,0Morrow,,State Treasurer,,DEM,Under Votes,277Morrow,Precinct 1,Attorney General,,DEM,Ellen Rosenblum,131Morrow,Precinct 1,Attorney General,,DEM,Write-ins,1Morrow,Precinct 1,Attorney General,,DEM,Over Votes,0Morrow,Precinct 1,Attorney General,,DEM,Under Votes,56Morrow,Precinct 2,Attorney General,,DEM,Ellen Rosenblum,147Morrow,Precinct 2,Attorney General,,DEM,Write-ins,0Morrow,Precinct 2,Attorney General,,DEM,Over Votes,0Morrow,Precinct 2,Attorney General,,DEM,Under Votes,65Morrow,Precinct 3,Attorney General,,DEM,Ellen Rosenblum,30Morrow,Precinct 3,Attorney General,,DEM,Write-ins,0Morrow,Precinct 3,Attorney General,,DEM,Over Votes,0Morrow,Precinct 3,Attorney General,,DEM,Under Votes,19Morrow,Precinct 4,Attorney General,,DEM,Ellen Rosenblum,40Morrow,Precinct 4,Attorney General,,DEM,Write-ins,0Morrow,Precinct 4,Attorney General,,DEM,Over Votes,0Morrow,Precinct 4,Attorney General,,DEM,Under Votes,22Morrow,Precinct 5,Attorney General,,DEM,Ellen Rosenblum,120Morrow,Precinct 5,Attorney General,,DEM,Write-ins,0Morrow,Precinct 5,Attorney General,,DEM,Over Votes,0Morrow,Precinct 5,Attorney General,,DEM,Under Votes,95Morrow,,Attorney General,,DEM,Ellen Rosenblum,468Morrow,,Attorney General,,DEM,Write-ins,1Morrow,,Attorney General,,DEM,Over Votes,0Morrow,,Attorney General,,DEM,Under Votes,257Morrow,Precinct 1,State Senate,29,DEM,Write-ins,12Morrow,Precinct 1,State Senate,29,DEM,Over Votes,0Morrow,Precinct 1,State Senate,29,DEM,Under Votes,176Morrow,Precinct 2,State Senate,29,DEM,Write-ins,8Morrow,Precinct 2,State Senate,29,DEM,Over Votes,0Morrow,Precinct 2,State Senate,29,DEM,Under Votes,204Morrow,Precinct 3,State Senate,29,DEM,Write-ins,4Morrow,Precinct 3,State Senate,29,DEM,Over Votes,0Morrow,Precinct 3,State Senate,29,DEM,Under Votes,45Morrow,Precinct 4,State Senate,29,DEM,Write-ins,3Morrow,Precinct 4,State Senate,29,DEM,Over Votes,0Morrow,Precinct 4,State Senate,29,DEM,Under Votes,59Morrow,Precinct 5,State Senate,29,DEM,Write-ins,11Morrow,Precinct 5,State Senate,29,DEM,Over Votes,0Morrow,Precinct 5,State Senate,29,DEM,Under Votes,204Morrow,,State Senate,29,DEM,Write-ins,38Morrow,,State Senate,29,DEM,Over Votes,0Morrow,,State Senate,29,DEM,Under Votes,688Morrow,Precinct 1,State House,57,DEM,Write-ins,5Morrow,Precinct 1,State House,57,DEM,Over Votes,0Morrow,Precinct 1,State House,57,DEM,Under Votes,183Morrow,Precinct 2,State House,57,DEM,Write-ins,5Morrow,Precinct 2,State House,57,DEM,Over Votes,0Morrow,Precinct 2,State House,57,DEM,Under Votes,207Morrow,Precinct 3,State House,57,DEM,Write-ins,1Morrow,Precinct 3,State House,57,DEM,Over Votes,0Morrow,Precinct 3,State House,57,DEM,Under Votes,48Morrow,Precinct 4,State House,57,DEM,Write-ins,3Morrow,Precinct 4,State House,57,DEM,Over Votes,0Morrow,Precinct 4,State House,57,DEM,Under Votes,59Morrow,Precinct 5,State House,57,DEM,Write-ins,11Morrow,Precinct 5,State House,57,DEM,Over Votes,0Morrow,Precinct 5,State House,57,DEM,Under Votes,204Morrow,,State House,57,DEM,Write-ins,25Morrow,,State House,57,DEM,Over Votes,0Morrow,,State House,57,DEM,Under Votes,701Morrow,Precinct 1,President,,REP,Ted Cruz,42Morrow,Precinct 1,President,,REP,John R Kasich,34Morrow,Precinct 1,President,,REP,Donald J Trump,170Morrow,Precinct 1,President,,REP,Write-ins,6Morrow,Precinct 1,President,,REP,Over Votes,0Morrow,Precinct 1,President,,REP,Under Votes,10Morrow,Precinct 2,President,,REP,Ted Cruz,63Morrow,Precinct 2,President,,REP,John R Kasich,27Morrow,Precinct 2,President,,REP,Donald J Trump,243Morrow,Precinct 2,President,,REP,Write-ins,2Morrow,Precinct 2,President,,REP,Over Votes,0Morrow,Precinct 2,President,,REP,Under Votes,9Morrow,Precinct 3,President,,REP,Ted Cruz,32Morrow,Precinct 3,President,,REP,John R Kasich,12Morrow,Precinct 3,President,,REP,Donald J Trump,102Morrow,Precinct 3,President,,REP,Write-ins,0Morrow,Precinct 3,President,,REP,Over Votes,0Morrow,Precinct 3,President,,REP,Under Votes,10Morrow,Precinct 4,President,,REP,Ted Cruz,36Morrow,Precinct 4,President,,REP,John R Kasich,23Morrow,Precinct 4,President,,REP,Donald J Trump,108Morrow,Precinct 4,President,,REP,Write-ins,3Morrow,Precinct 4,President,,REP,Over Votes,0Morrow,Precinct 4,President,,REP,Under Votes,5Morrow,Precinct 5,President,,REP,Ted Cruz,92Morrow,Precinct 5,President,,REP,John R Kasich,61Morrow,Precinct 5,President,,REP,Donald J Trump,247Morrow,Precinct 5,President,,REP,Write-ins,5Morrow,Precinct 5,President,,REP,Over Votes,0Morrow,Precinct 5,President,,REP,Under Votes,26Morrow,,President,,REP,Ted Cruz,265Morrow,,President,,REP,John R Kasich,157Morrow,,President,,REP,Donald J Trump,870Morrow,,President,,REP,Write-ins,16Morrow,,President,,REP,Over Votes,0Morrow,,President,,REP,Under Votes,60Morrow,Precinct 1,U.S. Senate,,REP,Sam Carpenter,73Morrow,Precinct 1,U.S. Senate,,REP,Mark Callahan,78Morrow,Precinct 1,U.S. Senate,,REP,Faye Stewart,39Morrow,Precinct 1,U.S. Senate,,REP,Dan Laschober,23Morrow,Precinct 1,U.S. Senate,,REP,Write-ins,0Morrow,Precinct 1,U.S. Senate,,REP,Over Votes,0Morrow,Precinct 1,U.S. Senate,,REP,Under Votes,49Morrow,Precinct 2,U.S. Senate,,REP,Sam Carpenter,81Morrow,Precinct 2,U.S. Senate,,REP,Mark Callahan,120Morrow,Precinct 2,U.S. Senate,,REP,Faye Stewart,43Morrow,Precinct 2,U.S. Senate,,REP,Dan Laschober,38Morrow,Precinct 2,U.S. Senate,,REP,Write-ins,2Morrow,Precinct 2,U.S. Senate,,REP,Over Votes,0Morrow,Precinct 2,U.S. Senate,,REP,Under Votes,60Morrow,Precinct 3,U.S. Senate,,REP,Sam Carpenter,41Morrow,Precinct 3,U.S. Senate,,REP,Mark Callahan,49Morrow,Precinct 3,U.S. Senate,,REP,Faye Stewart,4Morrow,Precinct 3,U.S. Senate,,REP,Dan Laschober,2Morrow,Precinct 3,U.S. Senate,,REP,Write-ins,0Morrow,Precinct 3,U.S. Senate,,REP,Over Votes,0Morrow,Precinct 3,U.S. Senate,,REP,Under Votes,60Morrow,Precinct 4,U.S. Senate,,REP,Sam Carpenter,55Morrow,Precinct 4,U.S. Senate,,REP,Mark Callahan,47Morrow,Precinct 4,U.S. Senate,,REP,Faye Stewart,11Morrow,Precinct 4,U.S. Senate,,REP,Dan Laschober,9Morrow,Precinct 4,U.S. Senate,,REP,Write-ins,2Morrow,Precinct 4,U.S. Senate,,REP,Over Votes,0Morrow,Precinct 4,U.S. Senate,,REP,Under Votes,51Morrow,Precinct 5,U.S. Senate,,REP,Sam Carpenter,120Morrow,Precinct 5,U.S. Senate,,REP,Mark Callahan,125Morrow,Precinct 5,U.S. Senate,,REP,Faye Stewart,1Morrow,Precinct 5,U.S. Senate,,REP,Dan Laschober,33Morrow,Precinct 5,U.S. Senate,,REP,Write-ins,2Morrow,Precinct 5,U.S. Senate,,REP,Over Votes,0Morrow,Precinct 5,U.S. Senate,,REP,Under Votes,120Morrow,,U.S. Senate,,REP,Sam Carpenter,370Morrow,,U.S. Senate,,REP,Mark Callahan,419Morrow,,U.S. Senate,,REP,Faye Stewart,128Morrow,,U.S. Senate,,REP,Dan Laschober,105Morrow,,U.S. Senate,,REP,Write-ins,6Morrow,,U.S. Senate,,REP,Over Votes,0Morrow,,U.S. Senate,,REP,Under Votes,340Morrow,Precinct 1,U.S. House,2,REP,Paul J Romero Jr,62Morrow,Precinct 1,U.S. House,2,REP,Greg Walden,187Morrow,Precinct 1,U.S. House,2,REP,Write-ins,0Morrow,Precinct 1,U.S. House,2,REP,Over Votes,0Morrow,Precinct 1,U.S. House,2,REP,Under Votes,13Morrow,Precinct 2,U.S. House,2,REP,Paul J Romero Jr,71Morrow,Precinct 2,U.S. House,2,REP,Greg Walden,258Morrow,Precinct 2,U.S. House,2,REP,Write-ins,0Morrow,Precinct 2,U.S. House,2,REP,Over Votes,0Morrow,Precinct 2,U.S. House,2,REP,Under Votes,15Morrow,Precinct 3,U.S. House,2,REP,Paul J Romero Jr,29Morrow,Precinct 3,U.S. House,2,REP,Greg Walden,117Morrow,Precinct 3,U.S. House,2,REP,Write-ins,0Morrow,Precinct 3,U.S. House,2,REP,Over Votes,0Morrow,Precinct 3,U.S. House,2,REP,Under Votes,10Morrow,Precinct 4,U.S. House,2,REP,Paul J Romero Jr,24Morrow,Precinct 4,U.S. House,2,REP,Greg Walden,143Morrow,Precinct 4,U.S. House,2,REP,Write-ins,1Morrow,Precinct 4,U.S. House,2,REP,Over Votes,0Morrow,Precinct 4,U.S. House,2,REP,Under Votes,7Morrow,Precinct 5,U.S. House,2,REP,Paul J Romero Jr,58Morrow,Precinct 5,U.S. House,2,REP,Greg Walden,346Morrow,Precinct 5,U.S. House,2,REP,Write-ins,1Morrow,Precinct 5,U.S. House,2,REP,Over Votes,0Morrow,Precinct 5,U.S. House,2,REP,Under Votes,26Morrow,,U.S. House,2,REP,Paul J Romero Jr,244Morrow,,U.S. House,2,REP,Greg Walden,1051Morrow,,U.S. House,2,REP,Write-ins,2Morrow,,U.S. House,2,REP,Over Votes,0Morrow,,U.S. House,2,REP,Under Votes,71Morrow,Precinct 1,Governor,,REP,Bruce Cuff,32Morrow,Precinct 1,Governor,,REP,Bob Niemeyer,36Morrow,Precinct 1,Governor,,REP,Bob Forthan,5Morrow,Precinct 1,Governor,,REP,Bud Pierce,84Morrow,Precinct 1,Governor,,REP,Allen Alley,79Morrow,Precinct 1,Governor,,REP,Write-ins,0Morrow,Precinct 1,Governor,,REP,Over Votes,2Morrow,Precinct 1,Governor,,REP,Under Votes,24Morrow,Precinct 2,Governor,,REP,Bruce Cuff,64Morrow,Precinct 2,Governor,,REP,Bob Niemeyer,42Morrow,Precinct 2,Governor,,REP,Bob Forthan,5Morrow,Precinct 2,Governor,,REP,Bud Pierce,124Morrow,Precinct 2,Governor,,REP,Allen Alley,63Morrow,Precinct 2,Governor,,REP,Write-ins,2Morrow,Precinct 2,Governor,,REP,Over Votes,0Morrow,Precinct 2,Governor,,REP,Under Votes,44Morrow,Precinct 3,Governor,,REP,Bruce Cuff,25Morrow,Precinct 3,Governor,,REP,Bob Niemeyer,13Morrow,Precinct 3,Governor,,REP,Bob Forthan,2Morrow,Precinct 3,Governor,,REP,Bud Pierce,42Morrow,Precinct 3,Governor,,REP,Allen Alley,38Morrow,Precinct 3,Governor,,REP,Write-ins,3Morrow,Precinct 3,Governor,,REP,Over Votes,0Morrow,Precinct 3,Governor,,REP,Under Votes,33Morrow,Precinct 4,Governor,,REP,Bruce Cuff,20Morrow,Precinct 4,Governor,,REP,Bob Niemeyer,22Morrow,Precinct 4,Governor,,REP,Bob Forthan,0Morrow,Precinct 4,Governor,,REP,Bud Pierce,62Morrow,Precinct 4,Governor,,REP,Allen Alley,53Morrow,Precinct 4,Governor,,REP,Write-ins,1Morrow,Precinct 4,Governor,,REP,Over Votes,0Morrow,Precinct 4,Governor,,REP,Under Votes,17Morrow,Precinct 5,Governor,,REP,Bruce Cuff,48Morrow,Precinct 5,Governor,,REP,Bob Niemeyer,44Morrow,Precinct 5,Governor,,REP,Bob Forthan,5Morrow,Precinct 5,Governor,,REP,Bud Pierce,137Morrow,Precinct 5,Governor,,REP,Allen Alley,142Morrow,Precinct 5,Governor,,REP,Write-ins,1Morrow,Precinct 5,Governor,,REP,Over Votes,0Morrow,Precinct 5,Governor,,REP,Under Votes,54Morrow,,Governor,,REP,Bruce Cuff,189Morrow,,Governor,,REP,Bob Niemeyer,157Morrow,,Governor,,REP,Bob Forthan,17Morrow,,Governor,,REP,Bud Pierce,449Morrow,,Governor,,REP,Allen Alley,375Morrow,,Governor,,REP,Write-ins,7Morrow,,Governor,,REP,Over Votes,2Morrow,,Governor,,REP,Under Votes,172Morrow,Precinct 1,Secretary of State,,REP,Dennis Richardson,177Morrow,Precinct 1,Secretary of State,,REP,Sid Leiken,52Morrow,Precinct 1,Secretary of State,,REP,Write-ins,0Morrow,Precinct 1,Secretary of State,,REP,Over Votes,0Morrow,Precinct 1,Secretary of State,,REP,Under Votes,33Morrow,Precinct 2,Secretary of State,,REP,Dennis Richardson,225Morrow,Precinct 2,Secretary of State,,REP,Sid Leiken,57Morrow,Precinct 2,Secretary of State,,REP,Write-ins,1Morrow,Precinct 2,Secretary of State,,REP,Over Votes,0Morrow,Precinct 2,Secretary of State,,REP,Under Votes,61Morrow,Precinct 3,Secretary of State,,REP,Dennis Richardson,99Morrow,Precinct 3,Secretary of State,,REP,Sid Leiken,18Morrow,Precinct 3,Secretary of State,,REP,Write-ins,0Morrow,Precinct 3,Secretary of State,,REP,Over Votes,0Morrow,Precinct 3,Secretary of State,,REP,Under Votes,39Morrow,Precinct 4,Secretary of State,,REP,Dennis Richardson,113Morrow,Precinct 4,Secretary of State,,REP,Sid Leiken,24Morrow,Precinct 4,Secretary of State,,REP,Write-ins,1Morrow,Precinct 4,Secretary of State,,REP,Over Votes,0Morrow,Precinct 4,Secretary of State,,REP,Under Votes,37Morrow,Precinct 5,Secretary of State,,REP,Dennis Richardson,288Morrow,Precinct 5,Secretary of State,,REP,Sid Leiken,55Morrow,Precinct 5,Secretary of State,,REP,Write-ins,1Morrow,Precinct 5,Secretary of State,,REP,Over Votes,0Morrow,Precinct 5,Secretary of State,,REP,Under Votes,87Morrow,,Secretary of State,,REP,Dennis Richardson,902Morrow,,Secretary of State,,REP,Sid Leiken,206Morrow,,Secretary of State,,REP,Write-ins,3Morrow,,Secretary of State,,REP,Over Votes,0Morrow,,Secretary of State,,REP,Under Votes,257Morrow,Precinct 1,State Treasurer,,REP,Jeff Gudman,190Morrow,Precinct 1,State Treasurer,,REP,Write-ins,1Morrow,Precinct 1,State Treasurer,,REP,Over Votes,0Morrow,Precinct 1,State Treasurer,,REP,Under Votes,71Morrow,Precinct 2,State Treasurer,,REP,Jeff Gudman,244Morrow,Precinct 2,State Treasurer,,REP,Write-ins,2Morrow,Precinct 2,State Treasurer,,REP,Over Votes,0Morrow,Precinct 2,State Treasurer,,REP,Under Votes,98Morrow,Precinct 3,State Treasurer,,REP,Jeff Gudman,85Morrow,Precinct 3,State Treasurer,,REP,Write-ins,0Morrow,Precinct 3,State Treasurer,,REP,Over Votes,0Morrow,Precinct 3,State Treasurer,,REP,Under Votes,71Morrow,Precinct 4,State Treasurer,,REP,Jeff Gudman,99Morrow,Precinct 4,State Treasurer,,REP,Write-ins,1Morrow,Precinct 4,State Treasurer,,REP,Over Votes,0Morrow,Precinct 4,State Treasurer,,REP,Under Votes,75Morrow,Precinct 5,State Treasurer,,REP,Jeff Gudman,282Morrow,Precinct 5,State Treasurer,,REP,Write-ins,3Morrow,Precinct 5,State Treasurer,,REP,Over Votes,0Morrow,Precinct 5,State Treasurer,,REP,Under Votes,146Morrow,,State Treasurer,,REP,Jeff Gudman,900Morrow,,State Treasurer,,REP,Write-ins,7Morrow,,State Treasurer,,REP,Over Votes,0Morrow,,State Treasurer,,REP,Under Votes,461Morrow,Precinct 1,Attorney General,,REP,Daniel Zene Crowe,174Morrow,Precinct 1,Attorney General,,REP,Write-ins,1Morrow,Precinct 1,Attorney General,,REP,Over Votes,0Morrow,Precinct 1,Attorney General,,REP,Under Votes,87Morrow,Precinct 2,Attorney General,,REP,Daniel Zene Crowe,214Morrow,Precinct 2,Attorney General,,REP,Write-ins,2Morrow,Precinct 2,Attorney General,,REP,Over Votes,0Morrow,Precinct 2,Attorney General,,REP,Under Votes,128Morrow,Precinct 3,Attorney General,,REP,Daniel Zene Crowe,80Morrow,Precinct 3,Attorney General,,REP,Write-ins,0Morrow,Precinct 3,Attorney General,,REP,Over Votes,0Morrow,Precinct 3,Attorney General,,REP,Under Votes,76Morrow,Precinct 4,Attorney General,,REP,Daniel Zene Crowe,91Morrow,Precinct 4,Attorney General,,REP,Write-ins,1Morrow,Precinct 4,Attorney General,,REP,Over Votes,0Morrow,Precinct 4,Attorney General,,REP,Under Votes,83Morrow,Precinct 5,Attorney General,,REP,Daniel Zene Crowe,259Morrow,Precinct 5,Attorney General,,REP,Write-ins,3Morrow,Precinct 5,Attorney General,,REP,Over Votes,0Morrow,Precinct 5,Attorney General,,REP,Under Votes,169Morrow,,Attorney General,,REP,Daniel Zene Crowe,818Morrow,,Attorney General,,REP,Write-ins,7Morrow,,Attorney General,,REP,Over Votes,0Morrow,,Attorney General,,REP,Under Votes,543Morrow,Precinct 1,State Senate,29,REP,Bill Hansell,210Morrow,Precinct 1,State Senate,29,REP,Write-ins,1Morrow,Precinct 1,State Senate,29,REP,Over Votes,0Morrow,Precinct 1,State Senate,29,REP,Under Votes,51Morrow,Precinct 2,State Senate,29,REP,Bill Hansell,271Morrow,Precinct 2,State Senate,29,REP,Write-ins,0Morrow,Precinct 2,State Senate,29,REP,Over Votes,0Morrow,Precinct 2,State Senate,29,REP,Under Votes,73Morrow,Precinct 3,State Senate,29,REP,Bill Hansell,115Morrow,Precinct 3,State Senate,29,REP,Write-ins,1Morrow,Precinct 3,State Senate,29,REP,Over Votes,0Morrow,Precinct 3,State Senate,29,REP,Under Votes,40Morrow,Precinct 4,State Senate,29,REP,Bill Hansell,137Morrow,Precinct 4,State Senate,29,REP,Write-ins,3Morrow,Precinct 4,State Senate,29,REP,Over Votes,0Morrow,Precinct 4,State Senate,29,REP,Under Votes,35Morrow,Precinct 5,State Senate,29,REP,Bill Hansell,335Morrow,Precinct 5,State Senate,29,REP,Write-ins,3Morrow,Precinct 5,State Senate,29,REP,Over Votes,0Morrow,Precinct 5,State Senate,29,REP,Under Votes,93Morrow,,State Senate,29,REP,Bill Hansell,1068Morrow,,State Senate,29,REP,Write-ins,8Morrow,,State Senate,29,REP,Over Votes,0Morrow,,State Senate,29,REP,Under Votes,292Morrow,Precinct 1,State House,57,REP,Bill Hansell,212Morrow,Precinct 1,State House,57,REP,Write-ins,3Morrow,Precinct 1,State House,57,REP,Over Votes,0Morrow,Precinct 1,State House,57,REP,Under Votes,47Morrow,Precinct 2,State House,57,REP,Bill Hansell,284Morrow,Precinct 2,State House,57,REP,Write-ins,1Morrow,Precinct 2,State House,57,REP,Over Votes,0Morrow,Precinct 2,State House,57,REP,Under Votes,59Morrow,Precinct 3,State House,57,REP,Bill Hansell,124Morrow,Precinct 3,State House,57,REP,Write-ins,1Morrow,Precinct 3,State House,57,REP,Over Votes,0Morrow,Precinct 3,State House,57,REP,Under Votes,31Morrow,Precinct 4,State House,57,REP,Bill Hansell,133Morrow,Precinct 4,State House,57,REP,Write-ins,5Morrow,Precinct 4,State House,57,REP,Over Votes,0Morrow,Precinct 4,State House,57,REP,Under Votes,37Morrow,Precinct 5,State House,57,REP,Bill Hansell,368Morrow,Precinct 5,State House,57,REP,Write-ins,2Morrow,Precinct 5,State House,57,REP,Over Votes,0Morrow,Precinct 5,State House,57,REP,Under Votes,61Morrow,,State House,57,REP,Bill Hansell,1121Morrow,,State House,57,REP,Write-ins,12Morrow,,State House,57,REP,Over Votes,0Morrow,,State House,57,REP,Under Votes,235
+county,precinct,office,district,party,candidate,votes
+Morrow,1,President,,DEM,Hillary Clinton,89
+Morrow,1,President,,DEM,Bernie Sanders,86
+Morrow,1,President,,DEM,Write-ins,6
+Morrow,1,President,,DEM,Over Votes,0
+Morrow,1,President,,DEM,Under Votes,7
+Morrow,2,President,,DEM,Hillary Clinton,81
+Morrow,2,President,,DEM,Bernie Sanders,101
+Morrow,2,President,,DEM,Write-ins,15
+Morrow,2,President,,DEM,Over Votes,1
+Morrow,2,President,,DEM,Under Votes,14
+Morrow,3,President,,DEM,Hillary Clinton,19
+Morrow,3,President,,DEM,Bernie Sanders,20
+Morrow,3,President,,DEM,Write-ins,6
+Morrow,3,President,,DEM,Over Votes,0
+Morrow,3,President,,DEM,Under Votes,4
+Morrow,4,President,,DEM,Hillary Clinton,26
+Morrow,4,President,,DEM,Bernie Sanders,28
+Morrow,4,President,,DEM,Write-ins,3
+Morrow,4,President,,DEM,Over Votes,0
+Morrow,4,President,,DEM,Under Votes,5
+Morrow,5,President,,DEM,Hillary Clinton,79
+Morrow,5,President,,DEM,Bernie Sanders,102
+Morrow,5,President,,DEM,Write-ins,14
+Morrow,5,President,,DEM,Over Votes,0
+Morrow,5,President,,DEM,Under Votes,20
+Morrow,,President,,DEM,Hillary Clinton,294
+Morrow,,President,,DEM,Bernie Sanders,337
+Morrow,,President,,DEM,Write-ins,44
+Morrow,,President,,DEM,Over Votes,1
+Morrow,,President,,DEM,Under Votes,50
+Morrow,1,U.S. Senate,,DEM,Ron Wyden,139
+Morrow,1,U.S. Senate,,DEM,Paul B Weaver,12
+Morrow,1,U.S. Senate,,DEM,Kevin H Stine,23
+Morrow,1,U.S. Senate,,DEM,Write-ins,2
+Morrow,1,U.S. Senate,,DEM,Over Votes,0
+Morrow,1,U.S. Senate,,DEM,Under Votes,12
+Morrow,2,U.S. Senate,,DEM,Ron Wyden,148
+Morrow,2,U.S. Senate,,DEM,Paul B Weaver,23
+Morrow,2,U.S. Senate,,DEM,Kevin H Stine,23
+Morrow,2,U.S. Senate,,DEM,Write-ins,0
+Morrow,2,U.S. Senate,,DEM,Over Votes,0
+Morrow,2,U.S. Senate,,DEM,Under Votes,18
+Morrow,3,U.S. Senate,,DEM,Ron Wyden,33
+Morrow,3,U.S. Senate,,DEM,Paul B Weaver,7
+Morrow,3,U.S. Senate,,DEM,Kevin H Stine,5
+Morrow,3,U.S. Senate,,DEM,Write-ins,1
+Morrow,3,U.S. Senate,,DEM,Over Votes,0
+Morrow,3,U.S. Senate,,DEM,Under Votes,3
+Morrow,4,U.S. Senate,,DEM,Ron Wyden,53
+Morrow,4,U.S. Senate,,DEM,Paul B Weaver,3
+Morrow,4,U.S. Senate,,DEM,Kevin H Stine,6
+Morrow,4,U.S. Senate,,DEM,Write-ins,0
+Morrow,4,U.S. Senate,,DEM,Over Votes,0
+Morrow,4,U.S. Senate,,DEM,Under Votes,0
+Morrow,5,U.S. Senate,,DEM,Ron Wyden,168
+Morrow,5,U.S. Senate,,DEM,Paul B Weaver,11
+Morrow,5,U.S. Senate,,DEM,Kevin H Stine,16
+Morrow,5,U.S. Senate,,DEM,Write-ins,3
+Morrow,5,U.S. Senate,,DEM,Over Votes,0
+Morrow,5,U.S. Senate,,DEM,Under Votes,17
+Morrow,,U.S. Senate,,DEM,Ron Wyden,541
+Morrow,,U.S. Senate,,DEM,Paul B Weaver,56
+Morrow,,U.S. Senate,,DEM,Kevin H Stine,73
+Morrow,,U.S. Senate,,DEM,Write-ins,6
+Morrow,,U.S. Senate,,DEM,Over Votes,0
+Morrow,,U.S. Senate,,DEM,Under Votes,50
+Morrow,1,U.S. House,2,DEM,James (Jim) Crary,129
+Morrow,1,U.S. House,2,DEM,Write-ins,4
+Morrow,1,U.S. House,2,DEM,Over Votes,0
+Morrow,1,U.S. House,2,DEM,Under Votes,55
+Morrow,2,U.S. House,2,DEM,James (Jim) Crary,146
+Morrow,2,U.S. House,2,DEM,Write-ins,3
+Morrow,2,U.S. House,2,DEM,Over Votes,0
+Morrow,2,U.S. House,2,DEM,Under Votes,63
+Morrow,3,U.S. House,2,DEM,James (Jim) Crary,29
+Morrow,3,U.S. House,2,DEM,Write-ins,2
+Morrow,3,U.S. House,2,DEM,Over Votes,0
+Morrow,3,U.S. House,2,DEM,Under Votes,18
+Morrow,4,U.S. House,2,DEM,James (Jim) Crary,40
+Morrow,4,U.S. House,2,DEM,Write-ins,0
+Morrow,4,U.S. House,2,DEM,Over Votes,0
+Morrow,4,U.S. House,2,DEM,Under Votes,22
+Morrow,5,U.S. House,2,DEM,James (Jim) Crary,97
+Morrow,5,U.S. House,2,DEM,Write-ins,9
+Morrow,5,U.S. House,2,DEM,Over Votes,0
+Morrow,5,U.S. House,2,DEM,Under Votes,109
+Morrow,,U.S. House,2,DEM,James (Jim) Crary,441
+Morrow,,U.S. House,2,DEM,Write-ins,18
+Morrow,,U.S. House,2,DEM,Over Votes,0
+Morrow,,U.S. House,2,DEM,Under Votes,267
+Morrow,1,Governor,,DEM,Kate Brown,122
+Morrow,1,Governor,,DEM,Julian Bell,7
+Morrow,1,Governor,,DEM,Chet Chance,7
+Morrow,1,Governor,,DEM,Kevin M Forsythe,11
+Morrow,1,Governor,,DEM,Dave Stauffer,6
+Morrow,1,Governor,,DEM,Steve Johnson,13
+Morrow,1,Governor,,DEM,Write-ins,1
+Morrow,1,Governor,,DEM,Over Votes,0
+Morrow,1,Governor,,DEM,Under Votes,21
+Morrow,2,Governor,,DEM,Kate Brown,113
+Morrow,2,Governor,,DEM,Julian Bell,28
+Morrow,2,Governor,,DEM,Chet Chance,8
+Morrow,2,Governor,,DEM,Kevin M Forsythe,6
+Morrow,2,Governor,,DEM,Dave Stauffer,25
+Morrow,2,Governor,,DEM,Steve Johnson,11
+Morrow,2,Governor,,DEM,Write-ins,3
+Morrow,2,Governor,,DEM,Over Votes,0
+Morrow,2,Governor,,DEM,Under Votes,18
+Morrow,3,Governor,,DEM,Kate Brown,22
+Morrow,3,Governor,,DEM,Julian Bell,2
+Morrow,3,Governor,,DEM,Chet Chance,1
+Morrow,3,Governor,,DEM,Kevin M Forsythe,5
+Morrow,3,Governor,,DEM,Dave Stauffer,4
+Morrow,3,Governor,,DEM,Steve Johnson,6
+Morrow,3,Governor,,DEM,Write-ins,1
+Morrow,3,Governor,,DEM,Over Votes,1
+Morrow,3,Governor,,DEM,Under Votes,7
+Morrow,4,Governor,,DEM,Kate Brown,30
+Morrow,4,Governor,,DEM,Julian Bell,5
+Morrow,4,Governor,,DEM,Chet Chance,3
+Morrow,4,Governor,,DEM,Kevin M Forsythe,4
+Morrow,4,Governor,,DEM,Dave Stauffer,9
+Morrow,4,Governor,,DEM,Steve Johnson,2
+Morrow,4,Governor,,DEM,Write-ins,1
+Morrow,4,Governor,,DEM,Over Votes,0
+Morrow,4,Governor,,DEM,Under Votes,8
+Morrow,5,Governor,,DEM,Kate Brown,115
+Morrow,5,Governor,,DEM,Julian Bell,21
+Morrow,5,Governor,,DEM,Chet Chance,9
+Morrow,5,Governor,,DEM,Kevin M Forsythe,10
+Morrow,5,Governor,,DEM,Dave Stauffer,12
+Morrow,5,Governor,,DEM,Steve Johnson,12
+Morrow,5,Governor,,DEM,Write-ins,7
+Morrow,5,Governor,,DEM,Over Votes,0
+Morrow,5,Governor,,DEM,Under Votes,29
+Morrow,,Governor,,DEM,Kate Brown,402
+Morrow,,Governor,,DEM,Julian Bell,63
+Morrow,,Governor,,DEM,Chet Chance,28
+Morrow,,Governor,,DEM,Kevin M Forsythe,36
+Morrow,,Governor,,DEM,Dave Stauffer,56
+Morrow,,Governor,,DEM,Steve Johnson,44
+Morrow,,Governor,,DEM,Write-ins,13
+Morrow,,Governor,,DEM,Over Votes,1
+Morrow,,Governor,,DEM,Under Votes,83
+Morrow,1,Secretary of State,,DEM,Richard Devlin,63
+Morrow,1,Secretary of State,,DEM,Brad Avakian,49
+Morrow,1,Secretary of State,,DEM,Val Hoyle,43
+Morrow,1,Secretary of State,,DEM,Write-ins,1
+Morrow,1,Secretary of State,,DEM,Over Votes,0
+Morrow,1,Secretary of State,,DEM,Under Votes,32
+Morrow,2,Secretary of State,,DEM,Richard Devlin,65
+Morrow,2,Secretary of State,,DEM,Brad Avakian,54
+Morrow,2,Secretary of State,,DEM,Val Hoyle,61
+Morrow,2,Secretary of State,,DEM,Write-ins,1
+Morrow,2,Secretary of State,,DEM,Over Votes,0
+Morrow,2,Secretary of State,,DEM,Under Votes,31
+Morrow,3,Secretary of State,,DEM,Richard Devlin,12
+Morrow,3,Secretary of State,,DEM,Brad Avakian,14
+Morrow,3,Secretary of State,,DEM,Val Hoyle,12
+Morrow,3,Secretary of State,,DEM,Write-ins,2
+Morrow,3,Secretary of State,,DEM,Over Votes,0
+Morrow,3,Secretary of State,,DEM,Under Votes,9
+Morrow,4,Secretary of State,,DEM,Richard Devlin,20
+Morrow,4,Secretary of State,,DEM,Brad Avakian,18
+Morrow,4,Secretary of State,,DEM,Val Hoyle,11
+Morrow,4,Secretary of State,,DEM,Write-ins,0
+Morrow,4,Secretary of State,,DEM,Over Votes,0
+Morrow,4,Secretary of State,,DEM,Under Votes,13
+Morrow,5,Secretary of State,,DEM,Richard Devlin,60
+Morrow,5,Secretary of State,,DEM,Brad Avakian,54
+Morrow,5,Secretary of State,,DEM,Val Hoyle,38
+Morrow,5,Secretary of State,,DEM,Write-ins,4
+Morrow,5,Secretary of State,,DEM,Over Votes,1
+Morrow,5,Secretary of State,,DEM,Under Votes,58
+Morrow,,Secretary of State,,DEM,Richard Devlin,220
+Morrow,,Secretary of State,,DEM,Brad Avakian,189
+Morrow,,Secretary of State,,DEM,Val Hoyle,165
+Morrow,,Secretary of State,,DEM,Write-ins,8
+Morrow,,Secretary of State,,DEM,Over Votes,1
+Morrow,,Secretary of State,,DEM,Under Votes,143
+Morrow,1,State Treasurer,,DEM,Tobias Read,129
+Morrow,1,State Treasurer,,DEM,Write-ins,1
+Morrow,1,State Treasurer,,DEM,Over Votes,0
+Morrow,1,State Treasurer,,DEM,Under Votes,58
+Morrow,2,State Treasurer,,DEM,Tobias Read,143
+Morrow,2,State Treasurer,,DEM,Write-ins,2
+Morrow,2,State Treasurer,,DEM,Over Votes,0
+Morrow,2,State Treasurer,,DEM,Under Votes,67
+Morrow,3,State Treasurer,,DEM,Tobias Read,27
+Morrow,3,State Treasurer,,DEM,Write-ins,0
+Morrow,3,State Treasurer,,DEM,Over Votes,0
+Morrow,3,State Treasurer,,DEM,Under Votes,22
+Morrow,4,State Treasurer,,DEM,Tobias Read,37
+Morrow,4,State Treasurer,,DEM,Write-ins,0
+Morrow,4,State Treasurer,,DEM,Over Votes,0
+Morrow,4,State Treasurer,,DEM,Under Votes,25
+Morrow,5,State Treasurer,,DEM,Tobias Read,107
+Morrow,5,State Treasurer,,DEM,Write-ins,3
+Morrow,5,State Treasurer,,DEM,Over Votes,0
+Morrow,5,State Treasurer,,DEM,Under Votes,105
+Morrow,,State Treasurer,,DEM,Tobias Read,443
+Morrow,,State Treasurer,,DEM,Write-ins,6
+Morrow,,State Treasurer,,DEM,Over Votes,0
+Morrow,,State Treasurer,,DEM,Under Votes,277
+Morrow,1,Attorney General,,DEM,Ellen Rosenblum,131
+Morrow,1,Attorney General,,DEM,Write-ins,1
+Morrow,1,Attorney General,,DEM,Over Votes,0
+Morrow,1,Attorney General,,DEM,Under Votes,56
+Morrow,2,Attorney General,,DEM,Ellen Rosenblum,147
+Morrow,2,Attorney General,,DEM,Write-ins,0
+Morrow,2,Attorney General,,DEM,Over Votes,0
+Morrow,2,Attorney General,,DEM,Under Votes,65
+Morrow,3,Attorney General,,DEM,Ellen Rosenblum,30
+Morrow,3,Attorney General,,DEM,Write-ins,0
+Morrow,3,Attorney General,,DEM,Over Votes,0
+Morrow,3,Attorney General,,DEM,Under Votes,19
+Morrow,4,Attorney General,,DEM,Ellen Rosenblum,40
+Morrow,4,Attorney General,,DEM,Write-ins,0
+Morrow,4,Attorney General,,DEM,Over Votes,0
+Morrow,4,Attorney General,,DEM,Under Votes,22
+Morrow,5,Attorney General,,DEM,Ellen Rosenblum,120
+Morrow,5,Attorney General,,DEM,Write-ins,0
+Morrow,5,Attorney General,,DEM,Over Votes,0
+Morrow,5,Attorney General,,DEM,Under Votes,95
+Morrow,,Attorney General,,DEM,Ellen Rosenblum,468
+Morrow,,Attorney General,,DEM,Write-ins,1
+Morrow,,Attorney General,,DEM,Over Votes,0
+Morrow,,Attorney General,,DEM,Under Votes,257
+Morrow,1,State Senate,29,DEM,Write-ins,12
+Morrow,1,State Senate,29,DEM,Over Votes,0
+Morrow,1,State Senate,29,DEM,Under Votes,176
+Morrow,2,State Senate,29,DEM,Write-ins,8
+Morrow,2,State Senate,29,DEM,Over Votes,0
+Morrow,2,State Senate,29,DEM,Under Votes,204
+Morrow,3,State Senate,29,DEM,Write-ins,4
+Morrow,3,State Senate,29,DEM,Over Votes,0
+Morrow,3,State Senate,29,DEM,Under Votes,45
+Morrow,4,State Senate,29,DEM,Write-ins,3
+Morrow,4,State Senate,29,DEM,Over Votes,0
+Morrow,4,State Senate,29,DEM,Under Votes,59
+Morrow,5,State Senate,29,DEM,Write-ins,11
+Morrow,5,State Senate,29,DEM,Over Votes,0
+Morrow,5,State Senate,29,DEM,Under Votes,204
+Morrow,,State Senate,29,DEM,Write-ins,38
+Morrow,,State Senate,29,DEM,Over Votes,0
+Morrow,,State Senate,29,DEM,Under Votes,688
+Morrow,1,State House,57,DEM,Write-ins,5
+Morrow,1,State House,57,DEM,Over Votes,0
+Morrow,1,State House,57,DEM,Under Votes,183
+Morrow,2,State House,57,DEM,Write-ins,5
+Morrow,2,State House,57,DEM,Over Votes,0
+Morrow,2,State House,57,DEM,Under Votes,207
+Morrow,3,State House,57,DEM,Write-ins,1
+Morrow,3,State House,57,DEM,Over Votes,0
+Morrow,3,State House,57,DEM,Under Votes,48
+Morrow,4,State House,57,DEM,Write-ins,3
+Morrow,4,State House,57,DEM,Over Votes,0
+Morrow,4,State House,57,DEM,Under Votes,59
+Morrow,5,State House,57,DEM,Write-ins,11
+Morrow,5,State House,57,DEM,Over Votes,0
+Morrow,5,State House,57,DEM,Under Votes,204
+Morrow,,State House,57,DEM,Write-ins,25
+Morrow,,State House,57,DEM,Over Votes,0
+Morrow,,State House,57,DEM,Under Votes,701
+Morrow,1,President,,REP,Ted Cruz,42
+Morrow,1,President,,REP,John R Kasich,34
+Morrow,1,President,,REP,Donald J Trump,170
+Morrow,1,President,,REP,Write-ins,6
+Morrow,1,President,,REP,Over Votes,0
+Morrow,1,President,,REP,Under Votes,10
+Morrow,2,President,,REP,Ted Cruz,63
+Morrow,2,President,,REP,John R Kasich,27
+Morrow,2,President,,REP,Donald J Trump,243
+Morrow,2,President,,REP,Write-ins,2
+Morrow,2,President,,REP,Over Votes,0
+Morrow,2,President,,REP,Under Votes,9
+Morrow,3,President,,REP,Ted Cruz,32
+Morrow,3,President,,REP,John R Kasich,12
+Morrow,3,President,,REP,Donald J Trump,102
+Morrow,3,President,,REP,Write-ins,0
+Morrow,3,President,,REP,Over Votes,0
+Morrow,3,President,,REP,Under Votes,10
+Morrow,4,President,,REP,Ted Cruz,36
+Morrow,4,President,,REP,John R Kasich,23
+Morrow,4,President,,REP,Donald J Trump,108
+Morrow,4,President,,REP,Write-ins,3
+Morrow,4,President,,REP,Over Votes,0
+Morrow,4,President,,REP,Under Votes,5
+Morrow,5,President,,REP,Ted Cruz,92
+Morrow,5,President,,REP,John R Kasich,61
+Morrow,5,President,,REP,Donald J Trump,247
+Morrow,5,President,,REP,Write-ins,5
+Morrow,5,President,,REP,Over Votes,0
+Morrow,5,President,,REP,Under Votes,26
+Morrow,,President,,REP,Ted Cruz,265
+Morrow,,President,,REP,John R Kasich,157
+Morrow,,President,,REP,Donald J Trump,870
+Morrow,,President,,REP,Write-ins,16
+Morrow,,President,,REP,Over Votes,0
+Morrow,,President,,REP,Under Votes,60
+Morrow,1,U.S. Senate,,REP,Sam Carpenter,73
+Morrow,1,U.S. Senate,,REP,Mark Callahan,78
+Morrow,1,U.S. Senate,,REP,Faye Stewart,39
+Morrow,1,U.S. Senate,,REP,Dan Laschober,23
+Morrow,1,U.S. Senate,,REP,Write-ins,0
+Morrow,1,U.S. Senate,,REP,Over Votes,0
+Morrow,1,U.S. Senate,,REP,Under Votes,49
+Morrow,2,U.S. Senate,,REP,Sam Carpenter,81
+Morrow,2,U.S. Senate,,REP,Mark Callahan,120
+Morrow,2,U.S. Senate,,REP,Faye Stewart,43
+Morrow,2,U.S. Senate,,REP,Dan Laschober,38
+Morrow,2,U.S. Senate,,REP,Write-ins,2
+Morrow,2,U.S. Senate,,REP,Over Votes,0
+Morrow,2,U.S. Senate,,REP,Under Votes,60
+Morrow,3,U.S. Senate,,REP,Sam Carpenter,41
+Morrow,3,U.S. Senate,,REP,Mark Callahan,49
+Morrow,3,U.S. Senate,,REP,Faye Stewart,4
+Morrow,3,U.S. Senate,,REP,Dan Laschober,2
+Morrow,3,U.S. Senate,,REP,Write-ins,0
+Morrow,3,U.S. Senate,,REP,Over Votes,0
+Morrow,3,U.S. Senate,,REP,Under Votes,60
+Morrow,4,U.S. Senate,,REP,Sam Carpenter,55
+Morrow,4,U.S. Senate,,REP,Mark Callahan,47
+Morrow,4,U.S. Senate,,REP,Faye Stewart,11
+Morrow,4,U.S. Senate,,REP,Dan Laschober,9
+Morrow,4,U.S. Senate,,REP,Write-ins,2
+Morrow,4,U.S. Senate,,REP,Over Votes,0
+Morrow,4,U.S. Senate,,REP,Under Votes,51
+Morrow,5,U.S. Senate,,REP,Sam Carpenter,120
+Morrow,5,U.S. Senate,,REP,Mark Callahan,125
+Morrow,5,U.S. Senate,,REP,Faye Stewart,1
+Morrow,5,U.S. Senate,,REP,Dan Laschober,33
+Morrow,5,U.S. Senate,,REP,Write-ins,2
+Morrow,5,U.S. Senate,,REP,Over Votes,0
+Morrow,5,U.S. Senate,,REP,Under Votes,120
+Morrow,,U.S. Senate,,REP,Sam Carpenter,370
+Morrow,,U.S. Senate,,REP,Mark Callahan,419
+Morrow,,U.S. Senate,,REP,Faye Stewart,128
+Morrow,,U.S. Senate,,REP,Dan Laschober,105
+Morrow,,U.S. Senate,,REP,Write-ins,6
+Morrow,,U.S. Senate,,REP,Over Votes,0
+Morrow,,U.S. Senate,,REP,Under Votes,340
+Morrow,1,U.S. House,2,REP,Paul J Romero Jr,62
+Morrow,1,U.S. House,2,REP,Greg Walden,187
+Morrow,1,U.S. House,2,REP,Write-ins,0
+Morrow,1,U.S. House,2,REP,Over Votes,0
+Morrow,1,U.S. House,2,REP,Under Votes,13
+Morrow,2,U.S. House,2,REP,Paul J Romero Jr,71
+Morrow,2,U.S. House,2,REP,Greg Walden,258
+Morrow,2,U.S. House,2,REP,Write-ins,0
+Morrow,2,U.S. House,2,REP,Over Votes,0
+Morrow,2,U.S. House,2,REP,Under Votes,15
+Morrow,3,U.S. House,2,REP,Paul J Romero Jr,29
+Morrow,3,U.S. House,2,REP,Greg Walden,117
+Morrow,3,U.S. House,2,REP,Write-ins,0
+Morrow,3,U.S. House,2,REP,Over Votes,0
+Morrow,3,U.S. House,2,REP,Under Votes,10
+Morrow,4,U.S. House,2,REP,Paul J Romero Jr,24
+Morrow,4,U.S. House,2,REP,Greg Walden,143
+Morrow,4,U.S. House,2,REP,Write-ins,1
+Morrow,4,U.S. House,2,REP,Over Votes,0
+Morrow,4,U.S. House,2,REP,Under Votes,7
+Morrow,5,U.S. House,2,REP,Paul J Romero Jr,58
+Morrow,5,U.S. House,2,REP,Greg Walden,346
+Morrow,5,U.S. House,2,REP,Write-ins,1
+Morrow,5,U.S. House,2,REP,Over Votes,0
+Morrow,5,U.S. House,2,REP,Under Votes,26
+Morrow,,U.S. House,2,REP,Paul J Romero Jr,244
+Morrow,,U.S. House,2,REP,Greg Walden,1051
+Morrow,,U.S. House,2,REP,Write-ins,2
+Morrow,,U.S. House,2,REP,Over Votes,0
+Morrow,,U.S. House,2,REP,Under Votes,71
+Morrow,1,Governor,,REP,Bruce Cuff,32
+Morrow,1,Governor,,REP,Bob Niemeyer,36
+Morrow,1,Governor,,REP,Bob Forthan,5
+Morrow,1,Governor,,REP,Bud Pierce,84
+Morrow,1,Governor,,REP,Allen Alley,79
+Morrow,1,Governor,,REP,Write-ins,0
+Morrow,1,Governor,,REP,Over Votes,2
+Morrow,1,Governor,,REP,Under Votes,24
+Morrow,2,Governor,,REP,Bruce Cuff,64
+Morrow,2,Governor,,REP,Bob Niemeyer,42
+Morrow,2,Governor,,REP,Bob Forthan,5
+Morrow,2,Governor,,REP,Bud Pierce,124
+Morrow,2,Governor,,REP,Allen Alley,63
+Morrow,2,Governor,,REP,Write-ins,2
+Morrow,2,Governor,,REP,Over Votes,0
+Morrow,2,Governor,,REP,Under Votes,44
+Morrow,3,Governor,,REP,Bruce Cuff,25
+Morrow,3,Governor,,REP,Bob Niemeyer,13
+Morrow,3,Governor,,REP,Bob Forthan,2
+Morrow,3,Governor,,REP,Bud Pierce,42
+Morrow,3,Governor,,REP,Allen Alley,38
+Morrow,3,Governor,,REP,Write-ins,3
+Morrow,3,Governor,,REP,Over Votes,0
+Morrow,3,Governor,,REP,Under Votes,33
+Morrow,4,Governor,,REP,Bruce Cuff,20
+Morrow,4,Governor,,REP,Bob Niemeyer,22
+Morrow,4,Governor,,REP,Bob Forthan,0
+Morrow,4,Governor,,REP,Bud Pierce,62
+Morrow,4,Governor,,REP,Allen Alley,53
+Morrow,4,Governor,,REP,Write-ins,1
+Morrow,4,Governor,,REP,Over Votes,0
+Morrow,4,Governor,,REP,Under Votes,17
+Morrow,5,Governor,,REP,Bruce Cuff,48
+Morrow,5,Governor,,REP,Bob Niemeyer,44
+Morrow,5,Governor,,REP,Bob Forthan,5
+Morrow,5,Governor,,REP,Bud Pierce,137
+Morrow,5,Governor,,REP,Allen Alley,142
+Morrow,5,Governor,,REP,Write-ins,1
+Morrow,5,Governor,,REP,Over Votes,0
+Morrow,5,Governor,,REP,Under Votes,54
+Morrow,,Governor,,REP,Bruce Cuff,189
+Morrow,,Governor,,REP,Bob Niemeyer,157
+Morrow,,Governor,,REP,Bob Forthan,17
+Morrow,,Governor,,REP,Bud Pierce,449
+Morrow,,Governor,,REP,Allen Alley,375
+Morrow,,Governor,,REP,Write-ins,7
+Morrow,,Governor,,REP,Over Votes,2
+Morrow,,Governor,,REP,Under Votes,172
+Morrow,1,Secretary of State,,REP,Dennis Richardson,177
+Morrow,1,Secretary of State,,REP,Sid Leiken,52
+Morrow,1,Secretary of State,,REP,Write-ins,0
+Morrow,1,Secretary of State,,REP,Over Votes,0
+Morrow,1,Secretary of State,,REP,Under Votes,33
+Morrow,2,Secretary of State,,REP,Dennis Richardson,225
+Morrow,2,Secretary of State,,REP,Sid Leiken,57
+Morrow,2,Secretary of State,,REP,Write-ins,1
+Morrow,2,Secretary of State,,REP,Over Votes,0
+Morrow,2,Secretary of State,,REP,Under Votes,61
+Morrow,3,Secretary of State,,REP,Dennis Richardson,99
+Morrow,3,Secretary of State,,REP,Sid Leiken,18
+Morrow,3,Secretary of State,,REP,Write-ins,0
+Morrow,3,Secretary of State,,REP,Over Votes,0
+Morrow,3,Secretary of State,,REP,Under Votes,39
+Morrow,4,Secretary of State,,REP,Dennis Richardson,113
+Morrow,4,Secretary of State,,REP,Sid Leiken,24
+Morrow,4,Secretary of State,,REP,Write-ins,1
+Morrow,4,Secretary of State,,REP,Over Votes,0
+Morrow,4,Secretary of State,,REP,Under Votes,37
+Morrow,5,Secretary of State,,REP,Dennis Richardson,288
+Morrow,5,Secretary of State,,REP,Sid Leiken,55
+Morrow,5,Secretary of State,,REP,Write-ins,1
+Morrow,5,Secretary of State,,REP,Over Votes,0
+Morrow,5,Secretary of State,,REP,Under Votes,87
+Morrow,,Secretary of State,,REP,Dennis Richardson,902
+Morrow,,Secretary of State,,REP,Sid Leiken,206
+Morrow,,Secretary of State,,REP,Write-ins,3
+Morrow,,Secretary of State,,REP,Over Votes,0
+Morrow,,Secretary of State,,REP,Under Votes,257
+Morrow,1,State Treasurer,,REP,Jeff Gudman,190
+Morrow,1,State Treasurer,,REP,Write-ins,1
+Morrow,1,State Treasurer,,REP,Over Votes,0
+Morrow,1,State Treasurer,,REP,Under Votes,71
+Morrow,2,State Treasurer,,REP,Jeff Gudman,244
+Morrow,2,State Treasurer,,REP,Write-ins,2
+Morrow,2,State Treasurer,,REP,Over Votes,0
+Morrow,2,State Treasurer,,REP,Under Votes,98
+Morrow,3,State Treasurer,,REP,Jeff Gudman,85
+Morrow,3,State Treasurer,,REP,Write-ins,0
+Morrow,3,State Treasurer,,REP,Over Votes,0
+Morrow,3,State Treasurer,,REP,Under Votes,71
+Morrow,4,State Treasurer,,REP,Jeff Gudman,99
+Morrow,4,State Treasurer,,REP,Write-ins,1
+Morrow,4,State Treasurer,,REP,Over Votes,0
+Morrow,4,State Treasurer,,REP,Under Votes,75
+Morrow,5,State Treasurer,,REP,Jeff Gudman,282
+Morrow,5,State Treasurer,,REP,Write-ins,3
+Morrow,5,State Treasurer,,REP,Over Votes,0
+Morrow,5,State Treasurer,,REP,Under Votes,146
+Morrow,,State Treasurer,,REP,Jeff Gudman,900
+Morrow,,State Treasurer,,REP,Write-ins,7
+Morrow,,State Treasurer,,REP,Over Votes,0
+Morrow,,State Treasurer,,REP,Under Votes,461
+Morrow,1,Attorney General,,REP,Daniel Zene Crowe,174
+Morrow,1,Attorney General,,REP,Write-ins,1
+Morrow,1,Attorney General,,REP,Over Votes,0
+Morrow,1,Attorney General,,REP,Under Votes,87
+Morrow,2,Attorney General,,REP,Daniel Zene Crowe,214
+Morrow,2,Attorney General,,REP,Write-ins,2
+Morrow,2,Attorney General,,REP,Over Votes,0
+Morrow,2,Attorney General,,REP,Under Votes,128
+Morrow,3,Attorney General,,REP,Daniel Zene Crowe,80
+Morrow,3,Attorney General,,REP,Write-ins,0
+Morrow,3,Attorney General,,REP,Over Votes,0
+Morrow,3,Attorney General,,REP,Under Votes,76
+Morrow,4,Attorney General,,REP,Daniel Zene Crowe,91
+Morrow,4,Attorney General,,REP,Write-ins,1
+Morrow,4,Attorney General,,REP,Over Votes,0
+Morrow,4,Attorney General,,REP,Under Votes,83
+Morrow,5,Attorney General,,REP,Daniel Zene Crowe,259
+Morrow,5,Attorney General,,REP,Write-ins,3
+Morrow,5,Attorney General,,REP,Over Votes,0
+Morrow,5,Attorney General,,REP,Under Votes,169
+Morrow,,Attorney General,,REP,Daniel Zene Crowe,818
+Morrow,,Attorney General,,REP,Write-ins,7
+Morrow,,Attorney General,,REP,Over Votes,0
+Morrow,,Attorney General,,REP,Under Votes,543
+Morrow,1,State Senate,29,REP,Bill Hansell,210
+Morrow,1,State Senate,29,REP,Write-ins,1
+Morrow,1,State Senate,29,REP,Over Votes,0
+Morrow,1,State Senate,29,REP,Under Votes,51
+Morrow,2,State Senate,29,REP,Bill Hansell,271
+Morrow,2,State Senate,29,REP,Write-ins,0
+Morrow,2,State Senate,29,REP,Over Votes,0
+Morrow,2,State Senate,29,REP,Under Votes,73
+Morrow,3,State Senate,29,REP,Bill Hansell,115
+Morrow,3,State Senate,29,REP,Write-ins,1
+Morrow,3,State Senate,29,REP,Over Votes,0
+Morrow,3,State Senate,29,REP,Under Votes,40
+Morrow,4,State Senate,29,REP,Bill Hansell,137
+Morrow,4,State Senate,29,REP,Write-ins,3
+Morrow,4,State Senate,29,REP,Over Votes,0
+Morrow,4,State Senate,29,REP,Under Votes,35
+Morrow,5,State Senate,29,REP,Bill Hansell,335
+Morrow,5,State Senate,29,REP,Write-ins,3
+Morrow,5,State Senate,29,REP,Over Votes,0
+Morrow,5,State Senate,29,REP,Under Votes,93
+Morrow,,State Senate,29,REP,Bill Hansell,1068
+Morrow,,State Senate,29,REP,Write-ins,8
+Morrow,,State Senate,29,REP,Over Votes,0
+Morrow,,State Senate,29,REP,Under Votes,292
+Morrow,1,State House,57,REP,Bill Hansell,212
+Morrow,1,State House,57,REP,Write-ins,3
+Morrow,1,State House,57,REP,Over Votes,0
+Morrow,1,State House,57,REP,Under Votes,47
+Morrow,2,State House,57,REP,Bill Hansell,284
+Morrow,2,State House,57,REP,Write-ins,1
+Morrow,2,State House,57,REP,Over Votes,0
+Morrow,2,State House,57,REP,Under Votes,59
+Morrow,3,State House,57,REP,Bill Hansell,124
+Morrow,3,State House,57,REP,Write-ins,1
+Morrow,3,State House,57,REP,Over Votes,0
+Morrow,3,State House,57,REP,Under Votes,31
+Morrow,4,State House,57,REP,Bill Hansell,133
+Morrow,4,State House,57,REP,Write-ins,5
+Morrow,4,State House,57,REP,Over Votes,0
+Morrow,4,State House,57,REP,Under Votes,37
+Morrow,5,State House,57,REP,Bill Hansell,368
+Morrow,5,State House,57,REP,Write-ins,2
+Morrow,5,State House,57,REP,Over Votes,0
+Morrow,5,State House,57,REP,Under Votes,61
+Morrow,,State House,57,REP,Bill Hansell,1121
+Morrow,,State House,57,REP,Write-ins,12
+Morrow,,State House,57,REP,Over Votes,0
+Morrow,,State House,57,REP,Under Votes,235

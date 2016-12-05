@@ -1,58 +1,58 @@
-county,precinct,office,district,candidate,votes
-Wheeler,Fossil #1,State House,59,John H. Dallum,133
-Wheeler,Mitchell #3,State House,59,John H. Dallum,107
-Wheeler,Spray #4,State House,59,John H. Dallum,125
-Wheeler,Fossil #1,State House,59,Jim Gilbertson,167
-Wheeler,Mitchell #3,State House,59,Jim Gilbertson,85
-Wheeler,Spray #4,State House,59,Jim Gilbertson,75
-Wheeler,Fossil #1,State House,59,Write-ins,0
-Wheeler,Mitchell #3,State House,59,Write-ins,0
-Wheeler,Spray #4,State House,59,Write-ins,0
-Wheeler,Fossil #1,State House,59,Over Votes,0
-Wheeler,Mitchell #3,State House,59,Over Votes,0
-Wheeler,Spray #4,State House,59,Over Votes,0
-Wheeler,Fossil #1,State House,59,Under Votes,29
-Wheeler,Mitchell #3,State House,59,Under Votes,13
-Wheeler,Spray #4,State House,59,Under Votes,20
-Wheeler,Fossil #1,Governor,,Joe Keating,2
-Wheeler,Mitchell #3,Governor,,Joe Keating,3
-Wheeler,Spray #4,Governor,,Joe Keating,4
-Wheeler,Fossil #1,Governor,,Ted Kulongoski,120
-Wheeler,Mitchell #3,Governor,,Ted Kulongoski,57
-Wheeler,Spray #4,Governor,,Ted Kulongoski,56
-Wheeler,Fossil #1,Governor,,Richard Morley,8
-Wheeler,Mitchell #3,Governor,,Richard Morley,3
-Wheeler,Spray #4,Governor,,Richard Morley,2
-Wheeler,Fossil #1,Governor,,Mary Starrett,31
-Wheeler,Mitchell #3,Governor,,Mary Starrett,9
-Wheeler,Spray #4,Governor,,Mary Starrett,12
-Wheeler,Fossil #1,Governor,,Ron Saxton,159
-Wheeler,Mitchell #3,Governor,,Ron Saxton,126
-Wheeler,Spray #4,Governor,,Ron Saxton,137
-Wheeler,Fossil #1,Governor,,Write-ins,3
-Wheeler,Mitchell #3,Governor,,Write-ins,0
-Wheeler,Spray #4,Governor,,Write-ins,2
-Wheeler,Fossil #1,Governor,,Over Votes,1
-Wheeler,Mitchell #3,Governor,,Over Votes,0
-Wheeler,Spray #4,Governor,,Over Votes,0
-Wheeler,Fossil #1,Governor,,Under Votes,5
-Wheeler,Mitchell #3,Governor,,Under Votes,7
-Wheeler,Spray #4,Governor,,Under Votes,7
-Wheeler,Fossil #1,U.S. House,2,Jack Alan Brown Jr.,15
-Wheeler,Mitchell #3,U.S. House,2,Jack Alan Brown Jr.,5
-Wheeler,Spray #4,U.S. House,2,Jack Alan Brown Jr.,6
-Wheeler,Fossil #1,U.S. House,2,Carol Voisin,79
-Wheeler,Mitchell #3,U.S. House,2,Carol Voisin,39
-Wheeler,Spray #4,U.S. House,2,Carol Voisin,38
-Wheeler,Fossil #1,U.S. House,2,Greg Walden,213
-Wheeler,Mitchell #3,U.S. House,2,Greg Walden,153
-Wheeler,Spray #4,U.S. House,2,Greg Walden,169
-Wheeler,Fossil #1,U.S. House,2,Write-ins,8
-Wheeler,Mitchell #3,U.S. House,2,Write-ins,1
-Wheeler,Spray #4,U.S. House,2,Write-ins,0
-Wheeler,Fossil #1,U.S. House,2,Over Votes,3
-Wheeler,Mitchell #3,U.S. House,2,Over Votes,0
-Wheeler,Spray #4,U.S. House,2,Over Votes,0
-Wheeler,Fossil #1,U.S. House,2,Under Votes,11
-Wheeler,Mitchell #3,U.S. House,2,Under Votes,7
-Wheeler,Spray #4,U.S. House,2,Under Votes,7
+county,precinct,office,district,party,candidate,votes
+Wheeler,Fossil #1,State House,59,REP,John H. Dallum,133
+Wheeler,Mitchell #3,State House,59,REP,John H. Dallum,107
+Wheeler,Spray #4,State House,59,REP,John H. Dallum,125
+Wheeler,Fossil #1,State House,59,DEM,Jim Gilbertson,167
+Wheeler,Mitchell #3,State House,59,DEM,Jim Gilbertson,85
+Wheeler,Spray #4,State House,59,DEM,Jim Gilbertson,75
+Wheeler,Fossil #1,State House,59,,Write-ins,0
+Wheeler,Mitchell #3,State House,59,,Write-ins,0
+Wheeler,Spray #4,State House,59,,Write-ins,0
+Wheeler,Fossil #1,State House,59,,Over Votes,0
+Wheeler,Mitchell #3,State House,59,,Over Votes,0
+Wheeler,Spray #4,State House,59,,Over Votes,0
+Wheeler,Fossil #1,State House,59,,Under Votes,29
+Wheeler,Mitchell #3,State House,59,,Under Votes,13
+Wheeler,Spray #4,State House,59,,Under Votes,20
+Wheeler,Fossil #1,Governor,,PAC,Joe Keating,2
+Wheeler,Mitchell #3,Governor,,PAC,Joe Keating,3
+Wheeler,Spray #4,Governor,,PAC,Joe Keating,4
+Wheeler,Fossil #1,Governor,,DEM,Ted Kulongoski,120
+Wheeler,Mitchell #3,Governor,,DEM,Ted Kulongoski,57
+Wheeler,Spray #4,Governor,,DEM,Ted Kulongoski,56
+Wheeler,Fossil #1,Governor,,LIB,Richard Morley,8
+Wheeler,Mitchell #3,Governor,,LIB,Richard Morley,3
+Wheeler,Spray #4,Governor,,LIB,Richard Morley,2
+Wheeler,Fossil #1,Governor,,CON,Mary Starrett,31
+Wheeler,Mitchell #3,Governor,,CON,Mary Starrett,9
+Wheeler,Spray #4,Governor,,CON,Mary Starrett,12
+Wheeler,Fossil #1,Governor,,REP,Ron Saxton,159
+Wheeler,Mitchell #3,Governor,,REP,Ron Saxton,126
+Wheeler,Spray #4,Governor,,REP,Ron Saxton,137
+Wheeler,Fossil #1,Governor,,,Write-ins,3
+Wheeler,Mitchell #3,Governor,,,Write-ins,0
+Wheeler,Spray #4,Governor,,,Write-ins,2
+Wheeler,Fossil #1,Governor,,,Over Votes,1
+Wheeler,Mitchell #3,Governor,,,Over Votes,0
+Wheeler,Spray #4,Governor,,,Over Votes,0
+Wheeler,Fossil #1,Governor,,,Under Votes,5
+Wheeler,Mitchell #3,Governor,,,Under Votes,7
+Wheeler,Spray #4,Governor,,,Under Votes,7
+Wheeler,Fossil #1,U.S. House,2,CON,Jack Alan Brown Jr.,15
+Wheeler,Mitchell #3,U.S. House,2,CON,Jack Alan Brown Jr.,5
+Wheeler,Spray #4,U.S. House,2,CON,Jack Alan Brown Jr.,6
+Wheeler,Fossil #1,U.S. House,2,DEM,Carol Voisin,79
+Wheeler,Mitchell #3,U.S. House,2,DEM,Carol Voisin,39
+Wheeler,Spray #4,U.S. House,2,DEM,Carol Voisin,38
+Wheeler,Fossil #1,U.S. House,2,REP,Greg Walden,213
+Wheeler,Mitchell #3,U.S. House,2,REP,Greg Walden,153
+Wheeler,Spray #4,U.S. House,2,REP,Greg Walden,169
+Wheeler,Fossil #1,U.S. House,2,,Write-ins,8
+Wheeler,Mitchell #3,U.S. House,2,,Write-ins,1
+Wheeler,Spray #4,U.S. House,2,,Write-ins,0
+Wheeler,Fossil #1,U.S. House,2,,Over Votes,3
+Wheeler,Mitchell #3,U.S. House,2,,Over Votes,0
+Wheeler,Spray #4,U.S. House,2,,Over Votes,0
+Wheeler,Fossil #1,U.S. House,2,,Under Votes,11
+Wheeler,Mitchell #3,U.S. House,2,,Under Votes,7
+Wheeler,Spray #4,U.S. House,2,,Under Votes,7
