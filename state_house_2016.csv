@@ -1,0 +1,192 @@
+ContestID,ContestName,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+300019218,"State Representative, 1st District","","","HD 01",,,9901," Write-in",12/3/2016 6:58:04 AM,1,45,0.00132528346340745,47/47
+300019218,"State Representative, 1st District","DEM","","HD 01",,,300027580,"Terry Brayer",12/3/2016 6:58:04 AM,1,10129,0.298306582241202,47/47
+300019218,"State Representative, 1st District","LBT","","HD 01",,,300027660,"Tamie Kaufman",12/3/2016 6:58:04 AM,1,3507,0.103283757914887,47/47
+300019218,"State Representative, 1st District","REP","","HD 01",,,300027661,"David Brock Smith",12/3/2016 6:58:04 AM,1,20274,0.597084376380504,47/47
+300019219,"State Representative, 2nd District","","","HD 02",,,9901," Write-in",12/3/2016 6:58:04 AM,1,512,0.0249318270354499,19/19
+300019219,"State Representative, 2nd District","REP","","HD 02",,,100043092,"Dallas Heard",12/3/2016 6:58:04 AM,1,20024,0.97506817296455,19/19
+300019220,"State Representative, 3rd District","","","HD 03",,,9901," Write-in",12/3/2016 6:58:04 AM,1,99,0.00320699708454811,28/28
+300019220,"State Representative, 3rd District","DEM","","HD 03",,,300027664,"Tom Johnson",12/3/2016 6:58:04 AM,1,8423,0.272853903466148,28/28
+300019220,"State Representative, 3rd District","REP","","HD 03",,,100043096,"Carl Wilson",12/3/2016 6:58:04 AM,1,22348,0.723939099449304,28/28
+300019221,"State Representative, 4th District","","","HD 04",,,9901," Write-in",12/3/2016 6:58:04 AM,1,380,0.0169984343547305,29/29
+300019221,"State Representative, 4th District","REP","","HD 04",,,100043099,"Duane A Stark",12/3/2016 6:58:04 AM,1,21975,0.98300156564527,29/29
+300019222,"State Representative, 5th District","","","HD 05",,,9901," Write-in",12/3/2016 6:58:04 AM,1,88,0.00245528863591976,22/22
+300019222,"State Representative, 5th District","DEM","","HD 05",,,300027581,"Pam Marsh",12/3/2016 6:58:04 AM,1,22480,0.627214642448592,22/22
+300019222,"State Representative, 5th District","REP","","HD 05",,,300027848,"Steven Richie",12/3/2016 6:58:04 AM,1,13273,0.370330068915488,22/22
+300019223,"State Representative, 6th District","","","HD 06",,,9901," Write-in",12/3/2016 6:58:04 AM,1,75,0.00265580736543909,16/16
+300019223,"State Representative, 6th District","DEM","","HD 06",,,300027666,"Mike Moran",12/3/2016 6:58:04 AM,1,12213,0.432471671388102,16/16
+300019223,"State Representative, 6th District","REP","","HD 06",,,300025039,"Sal Esquivel",12/3/2016 6:58:04 AM,1,15952,0.564872521246459,16/16
+300019224,"State Representative, 7th District","","","HD 07",,,9901," Write-in",12/3/2016 6:58:04 AM,1,76,0.00254631956310517,18/18
+300019224,"State Representative, 7th District","DEM","","HD 07",,,300027668,"Vincent T Portulano",12/3/2016 6:58:04 AM,1,7097,0.237779341307334,18/18
+300019224,"State Representative, 7th District","IND","","HD 07",,,300027667,"Fergus Mclean",12/3/2016 6:58:04 AM,1,3139,0.105169698797199,18/18
+300019224,"State Representative, 7th District","REP","","HD 07",,,100043101,"Cedric Hayden",12/3/2016 6:58:04 AM,1,19535,0.654504640332362,18/18
+300019225,"State Representative, 8th District","","","HD 08",,,9901," Write-in",12/3/2016 6:58:04 AM,1,80,0.0023178328263074,17/17
+300019225,"State Representative, 8th District","DEM","","HD 08",,,300025040,"Paul R Holvey",12/3/2016 6:58:04 AM,1,23886,0.692046936114733,17/17
+300019225,"State Representative, 8th District","LBT","","HD 08",,,300027670,"Martha Sherwood",12/3/2016 6:58:04 AM,1,1399,0.0405331015500507,17/17
+300019225,"State Representative, 8th District","REP","","HD 08",,,300027669,"Mary M Tucker",12/3/2016 6:58:04 AM,1,9150,0.265102129508909,17/17
+300019226,"State Representative, 9th District","","","HD 09",,,9901," Write-in",12/3/2016 6:58:04 AM,1,43,0.00139338950097213,16/16
+300019226,"State Representative, 9th District","DEM","","HD 09",,,300025041,"Caddy McKeown",12/3/2016 6:58:04 AM,1,15368,0.49799092676604,16/16
+300019226,"State Representative, 9th District","LBT","","HD 09",,,300027805,"Guy Rosinbaum",12/3/2016 6:58:04 AM,1,1184,0.0383668178872327,16/16
+300019226,"State Representative, 9th District","REP","","HD 09",,,300027671,"Teri Grier",12/3/2016 6:58:04 AM,1,14265,0.462248865845755,16/16
+300019227,"State Representative, 10th District","","","HD 10",,,9901," Write-in",12/3/2016 6:58:04 AM,1,2080,0.0628341842129112,47/47
+300019227,"State Representative, 10th District","DEM","","HD 10",,,300025042,"David Gomberg",12/3/2016 6:58:04 AM,1,17499,0.528622783433526,47/47
+300019227,"State Representative, 10th District","REP","","HD 10",,,300027672,"Thomas M Donohue",12/3/2016 6:58:04 AM,1,13524,0.408543032353563,47/47
+300019228,"State Representative, 11th District","","","HD 11",,,9901," Write-in",12/3/2016 6:58:04 AM,1,73,0.00224167050514356,31/31
+300019228,"State Representative, 11th District","DEM","","HD 11",,,300025045,"Phil Barnhart",12/3/2016 6:58:04 AM,1,17298,0.531183786273607,31/31
+300019228,"State Representative, 11th District","REP","","HD 11",,,300027673,"Joe Potwora",12/3/2016 6:58:04 AM,1,15194,0.46657454322125,31/31
+300019229,"State Representative, 12th District","","","HD 12",,,9901," Write-in",12/3/2016 6:58:04 AM,1,94,0.00365332296929654,7/7
+300019229,"State Representative, 12th District","DEM","","HD 12",,,300025046,"John Lively",12/3/2016 6:58:04 AM,1,16030,0.623008161678974,7/7
+300019229,"State Representative, 12th District","REP","","HD 12",,,300027678,"Robert Schwartz",12/3/2016 6:58:04 AM,1,9606,0.37333851535173,7/7
+300019230,"State Representative, 13th District","","","HD 13",,,9901," Write-in",12/3/2016 6:58:04 AM,1,70,0.00217810691393366,15/15
+300019230,"State Representative, 13th District","DEM","","HD 13",,,300025047,"Nancy Nathanson",12/3/2016 6:58:04 AM,1,21304,0.662891281349182,15/15
+300019230,"State Representative, 13th District","LBT","","HD 13",,,300027806,"Christopher Tsekouras",12/3/2016 6:58:04 AM,1,1018,0.0316758976912067,15/15
+300019230,"State Representative, 13th District","REP","","HD 13",,,300027679,"Laura D Cooper",12/3/2016 6:58:04 AM,1,9746,0.303254714045678,15/15
+300019231,"State Representative, 14th District","","","HD 14",,,9901," Write-in",12/3/2016 6:58:04 AM,1,65,0.00209745079057761,13/13
+300019231,"State Representative, 14th District","DEM","","HD 14",,,300027582,"Julie Fahey",12/3/2016 6:58:04 AM,1,16039,0.51755404969345,13/13
+300019231,"State Representative, 14th District","REP","","HD 14",,,300027680,"Kathy Lamberg",12/3/2016 6:58:04 AM,1,14886,0.480348499515973,13/13
+300019232,"State Representative, 15th District","","","HD 15",,,9901," Write-in",12/3/2016 6:58:04 AM,1,163,0.00536378294777716,40/40
+300019232,"State Representative, 15th District","PRO","","HD 15",,,300027779,"Cynthia Hyatt",12/3/2016 6:58:04 AM,1,5051,0.166211458093389,40/40
+300019232,"State Representative, 15th District","REP","","HD 15",,,300025050,"Andy Olson",12/3/2016 6:58:04 AM,1,25175,0.828424758958834,40/40
+300019233,"State Representative, 16th District","","","HD 16",,,9901," Write-in",12/3/2016 6:58:04 AM,1,58,0.00187878591558421,12/12
+300019233,"State Representative, 16th District","DEM","","HD 16",,,100043108,"Dan Rayfield",12/3/2016 6:58:04 AM,1,17921,0.580512455054906,12/12
+300019233,"State Representative, 16th District","LBT","","HD 16",,,300027682,"Andrew Freborg",12/3/2016 6:58:04 AM,1,1484,0.0480710051504648,12/12
+300019233,"State Representative, 16th District","PRO","","HD 16",,,300027583,"Sami Al-AbdRabbuh",12/3/2016 6:58:04 AM,1,4934,0.159826374267112,12/12
+300019233,"State Representative, 16th District","REP","","HD 16",,,300027681,"Judson McClure",12/3/2016 6:58:04 AM,1,6474,0.209711379611934,12/12
+300019234,"State Representative, 17th District","","","HD 17",,,9901," Write-in",12/3/2016 6:58:04 AM,1,182,0.00628279480806407,50/50
+300019234,"State Representative, 17th District","IND","","HD 17",,,300027683,"Jeffrey D Goodwin",12/3/2016 6:58:04 AM,1,6113,0.211025959679647,50/50
+300019234,"State Representative, 17th District","REP","","HD 17",,,300025051,"Sherrie Sprenger",12/3/2016 6:58:04 AM,1,22673,0.782691245512289,50/50
+300019235,"State Representative, 18th District","","","HD 18",,,9901," Write-in",12/3/2016 6:58:04 AM,1,82,0.00275787845155215,30/30
+300019235,"State Representative, 18th District","DEM","","HD 18",,,173,"Tom Kane",12/3/2016 6:58:04 AM,1,9565,0.321696431574345,30/30
+300019235,"State Representative, 18th District","LBT","","HD 18",,,150,"Patrick Marnell",12/3/2016 6:58:04 AM,1,836,0.0281169071402146,30/30
+300019235,"State Representative, 18th District","REP","","HD 18",,,100,"Victor S Gilliam",12/3/2016 6:58:04 AM,1,19250,0.647428782833888,30/30
+300019236,"State Representative, 19th District","","","HD 19",,,9901," Write-in",12/3/2016 6:58:04 AM,1,110,0.00376042663749487,26/26
+300019236,"State Representative, 19th District","DEM","","HD 19",,,22,"Larry Trott",12/3/2016 6:58:04 AM,1,11337,0.387563243538903,26/26
+300019236,"State Representative, 19th District","REP","","HD 19",,,128,"Jodi Hack",12/3/2016 6:58:04 AM,1,17805,0.608676329823602,26/26
+300019237,"State Representative, 20th District","","","HD 20",,,9901," Write-in",12/3/2016 6:58:04 AM,1,401,0.0120717683183816,15/15
+300019237,"State Representative, 20th District","DEM","","HD 20",,,100043131,"Paul Evans",12/3/2016 6:58:04 AM,1,17408,0.524053224155578,15/15
+300019237,"State Representative, 20th District","REP","","HD 20",,,300027686,"Laura S Morett",12/3/2016 6:58:04 AM,1,15409,0.46387500752604,15/15
+300019238,"State Representative, 21st District","","","HD 21",,,9901," Write-in",12/3/2016 6:58:04 AM,1,106,0.00477972674392388,19/19
+300019238,"State Representative, 21st District","DEM","","HD 21",,,127,"Brian Clem",12/3/2016 6:58:04 AM,1,12313,0.555214862244668,19/19
+300019238,"State Representative, 21st District","IND","","HD 21",,,99,"Alvin M Klausen Jr",12/3/2016 6:58:04 AM,1,1420,0.064030301663886,19/19
+300019238,"State Representative, 21st District","REP","","HD 21",,,98,"Doug Rodgers",12/3/2016 6:58:04 AM,1,8338,0.375975109347522,19/19
+300019239,"State Representative, 22nd District","","","HD 22",,,9901," Write-in",12/3/2016 6:58:04 AM,1,61,0.00351058931860037,19/19
+300019239,"State Representative, 22nd District","DEM","","HD 22",,,80,"Teresa Alonso Leon",12/3/2016 6:58:04 AM,1,9604,0.552716390423573,19/19
+300019239,"State Representative, 22nd District","REP","","HD 22",,,126,"Patti Milne",12/3/2016 6:58:04 AM,1,7711,0.443773020257827,19/19
+300019240,"State Representative, 23rd District","","","HD 23",,,9901," Write-in",12/3/2016 6:58:04 AM,1,203,0.00607111882046834,22/22
+300019240,"State Representative, 23rd District","IND","","HD 23",,,300027691,"Jim Thompson",12/3/2016 6:58:04 AM,1,12370,0.369949457188145,22/22
+300019240,"State Representative, 23rd District","LBT","","HD 23",,,300027690,"Garrett Leeds",12/3/2016 6:58:04 AM,1,1395,0.0417202500224302,22/22
+300019240,"State Representative, 23rd District","PGP","","HD 23",,,300027766,"Alex Polikoff",12/3/2016 6:58:04 AM,1,1906,0.057002721536023,22/22
+300019240,"State Representative, 23rd District","REP","","HD 23",,,300027692,"Mike Nearman",12/3/2016 6:58:04 AM,1,17563,0.525256452432934,22/22
+300019241,"State Representative, 24th District","","","HD 24",,,9901," Write-in",12/3/2016 6:58:04 AM,1,62,0.00199421035702798,16/16
+300019241,"State Representative, 24th District","DEM","","HD 24",,,300027694,"Ken Moore",12/3/2016 6:58:04 AM,1,13958,0.448954647796719,16/16
+300019241,"State Representative, 24th District","REP","","HD 24",,,300027693,"Ron Noble",12/3/2016 6:58:04 AM,1,17070,0.549051141846253,16/16
+300019242,"State Representative, 25th District","","","HD 25",,,9901," Write-in",12/3/2016 6:58:04 AM,1,71,0.00243559397619293,17/17
+300019242,"State Representative, 25th District","DEM","","HD 25",,,300027695,"Sharon P Freeman",12/3/2016 6:58:04 AM,1,10528,0.361153991286748,17/17
+300019242,"State Representative, 25th District","REP","","HD 25",,,100043141,"Bill Post",12/3/2016 6:58:04 AM,1,18552,0.636410414737059,17/17
+300019243,"State Representative, 26th District","","","HD 26",,,9901," Write-in",12/3/2016 6:58:04 AM,1,47,0.00137765271426896,23/23
+300019243,"State Representative, 26th District","DEM","","HD 26",,,300027696,"Ray M Lister",12/3/2016 6:58:04 AM,1,15365,0.450375190526439,23/23
+300019243,"State Representative, 26th District","REP","","HD 26",,,300027697,"A Richard Vial",12/3/2016 6:58:04 AM,1,18704,0.548247156759292,23/23
+300019244,"State Representative, 27th District","","","HD 27",,,9901," Write-in",12/3/2016 6:58:04 AM,1,500,0.021735350373848,14/14
+300019244,"State Representative, 27th District","DEM","","HD 27",,,300027698,"Sheri Malstrom",12/3/2016 6:58:04 AM,1,22504,0.978264649626152,14/14
+300019245,"State Representative, 28th District","","","HD 28",,,9901," Write-in",12/3/2016 6:58:04 AM,1,112,0.00419475655430712,13/13
+300019245,"State Representative, 28th District","DEM","","HD 28",,,300025058,"Jeff Barker",12/3/2016 6:58:04 AM,1,17107,0.640711610486891,13/13
+300019245,"State Representative, 28th District","REP","","HD 28",,,300027699,"Gary M Carlson",12/3/2016 6:58:04 AM,1,9481,0.355093632958801,13/13
+300019246,"State Representative, 29th District","","","HD 29",,,9901," Write-in",12/3/2016 6:58:04 AM,1,90,0.00372347027429564,13/13
+300019246,"State Representative, 29th District","DEM","","HD 29",,,100043143,"Susan McLain",12/3/2016 6:58:04 AM,1,14248,0.589466716312937,13/13
+300019246,"State Representative, 29th District","REP","","HD 29",,,300027700,"Juanita Lint",12/3/2016 6:58:04 AM,1,9833,0.406809813412767,13/13
+300019247,"State Representative, 30th District","","","HD 30",,,9901," Write-in",12/3/2016 6:58:04 AM,1,61,0.00207709071097794,13/13
+300019247,"State Representative, 30th District","DEM","","HD 30",,,300027702,"Janeen Sollman",12/3/2016 6:58:04 AM,1,15336,0.522201035140289,13/13
+300019247,"State Representative, 30th District","LBT","","HD 30",,,300027703,"Kyle Markley",12/3/2016 6:58:04 AM,1,2498,0.0850585671479161,13/13
+300019247,"State Representative, 30th District","REP","","HD 30",,,300027701,"Dan Mason",12/3/2016 6:58:04 AM,1,11473,0.390663307000817,13/13
+300019248,"State Representative, 31st District","","","HD 31",,,9901," Write-in",12/3/2016 6:58:04 AM,1,252,0.00811150094956063,44/44
+300019248,"State Representative, 31st District","DEM","","HD 31",,,300025060,"Brad Witt",12/3/2016 6:58:04 AM,1,25003,0.80480896127724,44/44
+300019248,"State Representative, 31st District","LBT","","HD 31",,,300027704,"Robert Miller",12/3/2016 6:58:04 AM,1,5812,0.1870795377732,44/44
+300019249,"State Representative, 32nd District","","","HD 32",,,9901," Write-in",12/3/2016 6:58:04 AM,1,97,0.00295785814478258,59/59
+300019249,"State Representative, 32nd District","DEM","","HD 32",,,300025061,"Deborah Boone",12/3/2016 6:58:04 AM,1,18540,0.56534731963164,59/59
+300019249,"State Representative, 32nd District","REP","","HD 32",,,300027705,"Bruce L Bobek",12/3/2016 6:58:04 AM,1,14157,0.431694822223577,59/59
+300019250,"State Representative, 33rd District","","","HD 33",,,9901," Write-in",12/3/2016 6:58:04 AM,1,77,0.00218569928184166,14/14
+300019250,"State Representative, 33rd District","DEM","","HD 33",,,300025062,"Mitch Greenlick",12/3/2016 6:58:04 AM,1,24466,0.69448465752647,14/14
+300019250,"State Representative, 33rd District","REP","","HD 33",,,300027706,"John Verbeek",12/3/2016 6:58:04 AM,1,10686,0.303329643191689,14/14
+300019251,"State Representative, 34th District","","","HD 34",,,9901," Write-in",12/3/2016 6:58:04 AM,1,86,0.00301046662232646,20/20
+300019251,"State Representative, 34th District","DEM","","HD 34",,,100043148,"Ken Helm",12/3/2016 6:58:04 AM,1,18606,0.651310953197746,20/20
+300019251,"State Representative, 34th District","IND","","HD 34",,,300027707,"Donald E Hershiser",12/3/2016 6:58:04 AM,1,9875,0.345678580179928,20/20
+300019252,"State Representative, 35th District","","","HD 35",,,9901," Write-in",12/3/2016 6:58:04 AM,1,106,0.00336860838338577,14/14
+300019252,"State Representative, 35th District","DEM","","HD 35",,,300025063,"Margaret Doherty",12/3/2016 6:58:04 AM,1,19609,0.623160771601996,14/14
+300019252,"State Representative, 35th District","IND","","HD 35",,,300027708,"Jessica L Cousineau",12/3/2016 6:58:04 AM,1,11752,0.373470620014619,14/14
+300019253,"State Representative, 36th District","","","HD 36",,,9901," Write-in",12/3/2016 6:58:04 AM,1,149,0.0045785576007129,11/11
+300019253,"State Representative, 36th District","DEM","","HD 36",,,300025064,"Jennifer Williamson",12/3/2016 6:58:04 AM,1,28875,0.887287588728759,11/11
+300019253,"State Representative, 36th District","LBT","","HD 36",,,300027719,"Amanda Burnham",12/3/2016 6:58:04 AM,1,3519,0.108133853670528,11/11
+300019254,"State Representative, 37th District","","","HD 37",,,9901," Write-in",12/3/2016 6:58:04 AM,1,63,0.00178687920129336,24/24
+300019254,"State Representative, 37th District","DEM","","HD 37",,,300027720,"Paul Southwick",12/3/2016 6:58:04 AM,1,15393,0.436594151516011,24/24
+300019254,"State Representative, 37th District","LBT","","HD 37",,,300027780,"Ryan R Haffner",12/3/2016 6:58:04 AM,1,830,0.0235414243979919,24/24
+300019254,"State Representative, 37th District","REP","","HD 37",,,300025065,"Julie Parrish",12/3/2016 6:58:04 AM,1,18971,0.538077544884704,24/24
+300019255,"State Representative, 38th District","","","HD 38",,,9901," Write-in",12/3/2016 6:58:04 AM,1,68,0.00177657017452189,20/20
+300019255,"State Representative, 38th District","DEM","","HD 38",,,100042966,"Ann Lininger",12/3/2016 6:58:04 AM,1,26675,0.696911903020169,20/20
+300019255,"State Representative, 38th District","REP","","HD 38",,,300027721,"Patrick De Klotz",12/3/2016 6:58:04 AM,1,11533,0.301311526805309,20/20
+300019256,"State Representative, 39th District","","","HD 39",,,9901," Write-in",12/3/2016 6:58:04 AM,1,53,0.00155038759689922,26/26
+300019256,"State Representative, 39th District","DEM","","HD 39",,,14,"Charles Gallia",12/3/2016 6:58:04 AM,1,10963,0.320696211788796,26/26
+300019256,"State Representative, 39th District","LBT","","HD 39",,,34,"Kenny Sernach",12/3/2016 6:58:04 AM,1,1009,0.0295158695334211,26/26
+300019256,"State Representative, 39th District","REP","","HD 39",,,13,"Bill Kennemer",12/3/2016 6:58:04 AM,1,22160,0.648237531080883,26/26
+300019257,"State Representative, 40th District","","","HD 40",,,9901," Write-in",12/3/2016 6:58:04 AM,1,83,0.00260114701181485,16/16
+300019257,"State Representative, 40th District","DEM","","HD 40",,,125,"Mark Meek",12/3/2016 6:58:04 AM,1,16282,0.51026356200445,16/16
+300019257,"State Representative, 40th District","NAV","","HD 40",,,69,"Christine VanOrder",12/3/2016 6:58:04 AM,1,865,0.0271083393399981,16/16
+300019257,"State Representative, 40th District","LBT","","HD 40",,,126,"Jeffrey J Langan",12/3/2016 6:58:04 AM,1,850,0.026638252530634,16/16
+300019257,"State Representative, 40th District","REP","","HD 40",,,48,"Evon Tekorius",12/3/2016 6:58:04 AM,1,13829,0.433388699113103,16/16
+300019258,"State Representative, 41st District","","","HD 41",,,9901," Write-in",12/3/2016 6:58:04 AM,1,76,0.00220519962859796,15/15
+300019258,"State Representative, 41st District","DEM","","HD 41",,,300027727,"Karin Power",12/3/2016 6:58:04 AM,1,24589,0.7134691272052,15/15
+300019258,"State Representative, 41st District","REP","","HD 41",,,300027728,"Tim McMenamin",12/3/2016 6:58:04 AM,1,9799,0.284325673166202,15/15
+300019259,"State Representative, 42nd District","","","HD 42",,,9901," Write-in",12/3/2016 6:58:04 AM,1,115,0.003009919648232,7/7
+300019259,"State Representative, 42nd District","DEM","","HD 42",,,100043160,"Rob Nosse",12/3/2016 6:58:04 AM,1,33894,0.887114926584134,7/7
+300019259,"State Representative, 42nd District","IND","","HD 42",,,300027730,"James E Stubbs",12/3/2016 6:58:04 AM,1,2459,0.0643599340434999,7/7
+300019259,"State Representative, 42nd District","LBT","","HD 42",,,300027729,"Jeremy Wilson",12/3/2016 6:58:04 AM,1,1739,0.0455152197241343,7/7
+300019260,"State Representative, 43rd District","","","HD 43",,,9901," Write-in",12/3/2016 6:58:04 AM,1,457,0.014503792567203,6/6
+300019260,"State Representative, 43rd District","DEM","","HD 43",,,300027731,"Tawna Sanchez",12/3/2016 6:58:04 AM,1,31052,0.985496207432797,6/6
+300019261,"State Representative, 44th District","","","HD 44",,,9901," Write-in",12/3/2016 6:58:04 AM,1,241,0.00824523589585685,5/5
+300019261,"State Representative, 44th District","DEM","","HD 44",,,300025069,"Tina Kotek",12/3/2016 6:58:04 AM,1,23288,0.796742960758151,5/5
+300019261,"State Representative, 44th District","PGP","","HD 44",,,300027764,"Joe Rowe",12/3/2016 6:58:04 AM,1,5700,0.195011803345992,5/5
+300019262,"State Representative, 45th District","","","HD 45",,,9901," Write-in",12/3/2016 6:58:04 AM,1,488,0.0192649322963957,10/10
+300019262,"State Representative, 45th District","DEM","","HD 45",,,100042967,"Barbara Smith Warner",12/3/2016 6:58:04 AM,1,24843,0.980735067703604,10/10
+300019263,"State Representative, 46th District","","","HD 46",,,9901," Write-in",12/3/2016 6:58:04 AM,1,488,0.0204577848578855,7/7
+300019263,"State Representative, 46th District","DEM","","HD 46",,,300025070,"Alissa Keny-Guyer",12/3/2016 6:58:04 AM,1,23366,0.979542215142114,7/7
+300019264,"State Representative, 47th District","","","HD 47",,,9901," Write-in",12/3/2016 6:58:04 AM,1,58,0.00270952069513221,10/10
+300019264,"State Representative, 47th District","DEM","","HD 47",,,300027733,"Diego Hernandez",12/3/2016 6:58:04 AM,1,14323,0.669111464075493,10/10
+300019264,"State Representative, 47th District","IND","","HD 47",,,300027732,"Michael P Langley",12/3/2016 6:58:04 AM,1,7025,0.328179015229375,10/10
+300019265,"State Representative, 48th District","","","HD 48",,,9901," Write-in",12/3/2016 6:58:04 AM,1,69,0.00286509155836067,15/15
+300019265,"State Representative, 48th District","DEM","","HD 48",,,300025072,"Jeff Reardon",12/3/2016 6:58:04 AM,1,15154,0.629240543121704,15/15
+300019265,"State Representative, 48th District","LBT","","HD 48",,,300027735,"Gary Dye",12/3/2016 6:58:04 AM,1,1130,0.0469210646514139,15/15
+300019265,"State Representative, 48th District","NAV","","HD 48",,,300027863,"Timothy Crawley",12/3/2016 6:58:04 AM,1,956,0.0396960511564174,15/15
+300019265,"State Representative, 48th District","REP","","HD 48",,,300027734,"George (Sonny) Yellott",12/3/2016 6:58:04 AM,1,6774,0.281277249512104,15/15
+300019266,"State Representative, 49th District","","","HD 49",,,9901," Write-in",12/3/2016 6:58:04 AM,1,582,0.0349381678472806,11/11
+300019266,"State Representative, 49th District","DEM","","HD 49",,,300025073,"Chris Gorsek",12/3/2016 6:58:04 AM,1,16076,0.965061832152719,11/11
+300019267,"State Representative, 50th District","","","HD 50",,,9901," Write-in",12/3/2016 6:58:04 AM,1,33,0.00140067911714771,8/8
+300019267,"State Representative, 50th District","DEM","","HD 50",,,100043169,"Carla Piluso",12/3/2016 6:58:04 AM,1,11840,0.502546689303905,8/8
+300019267,"State Representative, 50th District","IND","","HD 50",,,300027737,"Michael Calcagno",12/3/2016 6:58:04 AM,1,4433,0.188157894736842,8/8
+300019267,"State Representative, 50th District","REP","","HD 50",,,300027736,"Stella Armstrong",12/3/2016 6:58:04 AM,1,7254,0.307894736842105,8/8
+300019268,"State Representative, 51st District","","","HD 51",,,9901," Write-in",12/3/2016 6:58:04 AM,1,86,0.00305593063748134,19/19
+300019268,"State Representative, 51st District","DEM","","HD 51",,,300027739,"Janelle S Bynum",12/3/2016 6:58:04 AM,1,14310,0.508492644446024,19/19
+300019268,"State Representative, 51st District","REP","","HD 51",,,300027738,"Lori Chavez-DeRemer",12/3/2016 6:58:04 AM,1,13746,0.488451424916495,19/19
+300019269,"State Representative, 52nd District","","","HD 52",,,9901," Write-in",12/3/2016 6:58:04 AM,1,59,0.00186190355970714,24/24
+300019269,"State Representative, 52nd District","DEM","","HD 52",,,300027740,"Mark Reynolds",12/3/2016 6:58:04 AM,1,14047,0.443290835647564,24/24
+300019269,"State Representative, 52nd District","REP","","HD 52",,,300025075,"Mark Johnson",12/3/2016 6:58:04 AM,1,17582,0.554847260792729,24/24
+300019270,"State Representative, 53rd District","","","HD 53",,,9901," Write-in",12/3/2016 6:58:04 AM,1,60,0.00165690931183033,19/19
+300019270,"State Representative, 53rd District","DEM","","HD 53",,,300027741,"Michael Graham",12/3/2016 6:58:04 AM,1,11727,0.323842924997238,19/19
+300019270,"State Representative, 53rd District","REP","","HD 53",,,300025076,"Gene Whisnant",12/3/2016 6:58:04 AM,1,24425,0.674500165690931,19/19
+300019271,"State Representative, 54th District","","","HD 54",,,9901," Write-in",12/3/2016 6:58:04 AM,1,117,0.00313900142194082,17/17
+300019271,"State Representative, 54th District","DEM","","HD 54",,,300027742,"Gena Goodman-Campbell",12/3/2016 6:58:04 AM,1,17804,0.477664797574652,17/17
+300019271,"State Representative, 54th District","REP","","HD 54",,,100043173,"Knute Buehler",12/3/2016 6:58:04 AM,1,19352,0.519196201003407,17/17
+300019272,"State Representative, 55th District","","","HD 55",,,9901," Write-in",12/3/2016 6:58:04 AM,1,76,0.00230547550432277,42/49
+300019272,"State Representative, 55th District","DEM","","HD 55",,,300027743,"Brie S Malarkey",12/3/2016 6:58:04 AM,1,7951,0.241195207037767,42/49
+300019272,"State Representative, 55th District","REP","","HD 55",,,300025077,"Mike McLane",12/3/2016 6:58:04 AM,1,24938,0.75649931745791,42/49
+300019273,"State Representative, 56th District","","","HD 56",,,9901," Write-in",12/3/2016 6:58:04 AM,1,66,0.00241917747965692,37/47
+300019273,"State Representative, 56th District","DEM","","HD 56",,,300027744,"Al Switzer",12/3/2016 6:58:04 AM,1,10983,0.402573125137453,37/47
+300019273,"State Representative, 56th District","NAV","","HD 56",,,300027809,"Jonah Hakanson",12/3/2016 6:58:04 AM,1,2961,0.108533098746426,37/47
+300019273,"State Representative, 56th District","REP","","HD 56",,,300027745,"E Werner Reschke",12/3/2016 6:58:04 AM,1,13272,0.486474598636464,37/47
+300019274,"State Representative, 57th District","","","HD 57",,,9901," Write-in",12/3/2016 6:58:04 AM,1,222,0.0125750538121672,40/40
+300019274,"State Representative, 57th District","REP","","HD 57",,,300025079,"Greg Smith",12/3/2016 6:58:04 AM,1,17432,0.987424946187833,40/40
+300019275,"State Representative, 58th District","","","HD 58",,,9901," Write-in",12/3/2016 6:58:04 AM,1,642,0.0271435819381025,62/62
+300019275,"State Representative, 58th District","REP","","HD 58",,,100043176,"Greg Barreto",12/3/2016 6:58:04 AM,1,23010,0.972856418061897,62/62
+300019276,"State Representative, 59th District","","","HD 59",,,9901," Write-in",12/3/2016 6:58:04 AM,1,81,0.0026596617960926,37/37
+300019276,"State Representative, 59th District","DEM","","HD 59",,,300027746,"Tyler J Gabriel",12/3/2016 6:58:04 AM,1,8982,0.294926941388934,37/37
+300019276,"State Representative, 59th District","REP","","HD 59",,,300025080,"John E Huffman",12/3/2016 6:58:04 AM,1,21392,0.702413396814973,37/37
+300019277,"State Representative, 60th District","","","HD 60",,,9901," Write-in",12/3/2016 6:58:04 AM,1,352,0.0155127583623463,49/55
+300019277,"State Representative, 60th District","REP","","HD 60",,,300025081,"Cliff Bentz",12/3/2016 6:58:04 AM,1,22339,0.984487241637654,49/55
