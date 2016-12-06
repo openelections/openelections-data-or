@@ -56,7 +56,7 @@ def main():
 		for row in reader:
 			if firstRow:
 				firstRow = False
-				continue # have to manually skip the first row
+				continue # due to the seek, have to manually skip the header row
 
 			rowGroup = tuple(row[col] for col in groupingColumns)
 			# print(rowGroup)

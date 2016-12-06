@@ -114,9 +114,15 @@ class Verifier(object):
 
 	def deriveStateCountyFromFilename(self, filename):
 		components = filename.split("__")
+		countyIndex = 0
 
-		if len(components) == 5:
-			return (components[1], components[3].replace("_", " ").title())
+		if "special" in components and ("primary" in components or "general" in components): # special primary or special general
+			countyIndex = 4
+		elif ("primary" in components or "general" in components): # normal primary or general
+			countyIndex = 3
+
+		if countyIndex:
+			return (components[1], components[countyIndex].replace("_", " ").title())
 
 		return (None, None)
 
