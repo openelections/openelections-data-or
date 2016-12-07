@@ -1,19 +1,19 @@
 county,precinct,office,district,party,candidate,votes
-Jefferson,1 Haystack,Governor,,,Dennis Richardson,502
-Jefferson,2 Crooked River Ranch,Governor,,,Dennis Richardson,1180
-Jefferson,5 Ashwood,Governor,,,Dennis Richardson,22
-Jefferson,6 Kutcher,Governor,,,Dennis Richardson,158
-Jefferson,8 Lyle Gap,Governor,,,Dennis Richardson,59
-Jefferson,11 Metolius,Governor,,,Dennis Richardson,110
-Jefferson,13 East Madras,Governor,,,Dennis Richardson,439
-Jefferson,14 Warm Springs,Governor,,,Dennis Richardson,93
-Jefferson,16 Camp Sherman,Governor,,,Dennis Richardson,75
-Jefferson,17 Culver,Governor,,,Dennis Richardson,188
-Jefferson,18 Round Butte,Governor,,,Dennis Richardson,199
-Jefferson,19 West Madras,Governor,,,Dennis Richardson,251
-Jefferson,20 Circle M,Governor,,,Dennis Richardson,66
-Jefferson,21 Central,Governor,,,Dennis Richardson,389
-Jefferson,22 Sunset,Governor,,,Dennis Richardson,317
+Jefferson,1 Haystack,Governor,,REP,Dennis Richardson,502
+Jefferson,2 Crooked River Ranch,Governor,,REP,Dennis Richardson,1180
+Jefferson,5 Ashwood,Governor,,REP,Dennis Richardson,22
+Jefferson,6 Kutcher,Governor,,REP,Dennis Richardson,158
+Jefferson,8 Lyle Gap,Governor,,REP,Dennis Richardson,59
+Jefferson,11 Metolius,Governor,,REP,Dennis Richardson,110
+Jefferson,13 East Madras,Governor,,REP,Dennis Richardson,439
+Jefferson,14 Warm Springs,Governor,,REP,Dennis Richardson,93
+Jefferson,16 Camp Sherman,Governor,,REP,Dennis Richardson,75
+Jefferson,17 Culver,Governor,,REP,Dennis Richardson,188
+Jefferson,18 Round Butte,Governor,,REP,Dennis Richardson,199
+Jefferson,19 West Madras,Governor,,REP,Dennis Richardson,251
+Jefferson,20 Circle M,Governor,,REP,Dennis Richardson,66
+Jefferson,21 Central,Governor,,REP,Dennis Richardson,389
+Jefferson,22 Sunset,Governor,,REP,Dennis Richardson,317
 Jefferson,1 Haystack,Governor,,PRO,Chris Henry,7
 Jefferson,2 Crooked River Ranch,Governor,,PRO,Chris Henry,13
 Jefferson,5 Ashwood,Governor,,PRO,Chris Henry,0
