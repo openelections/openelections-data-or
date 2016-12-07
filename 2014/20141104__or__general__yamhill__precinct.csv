@@ -458,10 +458,10 @@ Yamhill,13,State Senate,16,IND,Andrew Kaza,0
 Yamhill,13,State Senate,16,CON,Bob Ekstrom,0
 Yamhill,26,State House,10,DEM,David Gomberg,773
 Yamhill,28,State House,10,DEM,David Gomberg,445
-Yamhill,26,State House,10,REP,Greg Leo,4
-Yamhill,28,State House,10,REP,Greg Leo,0
-Yamhill,26,State House,10,DEM,Jackie Winters,4
-Yamhill,28,State House,10,DEM,Jackie Winters,5
+Yamhill,26,State House,10,,Greg Leo,4
+Yamhill,28,State House,10,,Greg Leo,0
+Yamhill,26,State House,10,REP,Jackie Winters,4
+Yamhill,28,State House,10,REP,Jackie Winters,5
 Yamhill,26,State House,10,,Write-ins,30
 Yamhill,28,State House,10,,Write-ins,9
 Yamhill,10,State House,23,REP,Mike Nearman,864
