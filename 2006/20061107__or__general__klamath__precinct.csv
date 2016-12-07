@@ -1,0 +1,541 @@
+county,precinct,office,district,party,candidate,votes
+Klamath,PRECINCT 1,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",44
+Klamath,PRECINCT 1,U.S. House,2,DEM,Carol Voisin,259
+Klamath,PRECINCT 1,U.S. House,2,REP,Greg Walden,585
+Klamath,PRECINCT 1,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 1,Governor,,PGP,Joe Keatin,11
+Klamath,PRECINCT 1,Governor,,DEM,Ted Kulongoski,300
+Klamath,PRECINCT 1,Governor,,LIB,Richard Morley,16
+Klamath,PRECINCT 1,Governor,,CON,Mary Starrett,41
+Klamath,PRECINCT 1,Governor,,REP,Ron Saxton,542
+Klamath,PRECINCT 1,Governor,,,Write-ins,1
+Klamath,PRECINCT 1,State House,55,REP,George Gilman,587
+Klamath,PRECINCT 1,State House,55,,Write-ins,16
+Klamath,PRECINCT 2,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",3
+Klamath,PRECINCT 2,U.S. House,2,DEM,Carol Voisin,25
+Klamath,PRECINCT 2,U.S. House,2,REP,Greg Walden,41
+Klamath,PRECINCT 2,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 2,Governor,,PGP,Joe Keatin,2
+Klamath,PRECINCT 2,Governor,,DEM,Ted Kulongoski,17
+Klamath,PRECINCT 2,Governor,,LIB,Richard Morley,4
+Klamath,PRECINCT 2,Governor,,CON,Mary Starrett,3
+Klamath,PRECINCT 2,Governor,,REP,Ron Saxton,42
+Klamath,PRECINCT 2,Governor,,,Write-ins,0
+Klamath,PRECINCT 2,State House,55,REP,George Gilman,40
+Klamath,PRECINCT 2,State House,55,,Write-ins,3
+Klamath,PRECINCT 3,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",11
+Klamath,PRECINCT 3,U.S. House,2,DEM,Carol Voisin,188
+Klamath,PRECINCT 3,U.S. House,2,REP,Greg Walden,410
+Klamath,PRECINCT 3,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 3,Governor,,PGP,Joe Keatin,10
+Klamath,PRECINCT 3,Governor,,DEM,Ted Kulongoski,189
+Klamath,PRECINCT 3,Governor,,LIB,Richard Morley,7
+Klamath,PRECINCT 3,Governor,,CON,Mary Starrett,27
+Klamath,PRECINCT 3,Governor,,REP,Ron Saxton,383
+Klamath,PRECINCT 3,Governor,,,Write-ins,0
+Klamath,PRECINCT 3,State House,55,REP,George Gilman,399
+Klamath,PRECINCT 3,State House,55,,Write-ins,10
+Klamath,PRECINCT 4,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",38
+Klamath,PRECINCT 4,U.S. House,2,DEM,Carol Voisin,161
+Klamath,PRECINCT 4,U.S. House,2,REP,Greg Walden,423
+Klamath,PRECINCT 4,U.S. House,2,,Write-ins,4
+Klamath,PRECINCT 4,Governor,,PGP,Joe Keatin,13
+Klamath,PRECINCT 4,Governor,,DEM,Ted Kulongoski,182
+Klamath,PRECINCT 4,Governor,,LIB,Richard Morley,8
+Klamath,PRECINCT 4,Governor,,CON,Mary Starrett,31
+Klamath,PRECINCT 4,Governor,,REP,Ron Saxton,396
+Klamath,PRECINCT 4,Governor,,,Write-ins,0
+Klamath,PRECINCT 4,State House,55,REP,George Gilman,433
+Klamath,PRECINCT 4,State House,55,,Write-ins,20
+Klamath,PRECINCT 5,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",20
+Klamath,PRECINCT 5,U.S. House,2,DEM,Carol Voisin,59
+Klamath,PRECINCT 5,U.S. House,2,REP,Greg Walden,87
+Klamath,PRECINCT 5,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 5,Governor,,PGP,Joe Keatin,4
+Klamath,PRECINCT 5,Governor,,DEM,Ted Kulongoski,61
+Klamath,PRECINCT 5,Governor,,LIB,Richard Morley,4
+Klamath,PRECINCT 5,Governor,,CON,Mary Starrett,14
+Klamath,PRECINCT 5,Governor,,REP,Ron Saxton,83
+Klamath,PRECINCT 5,Governor,,,Write-ins,0
+Klamath,PRECINCT 5,State House,55,REP,George Gilman,94
+Klamath,PRECINCT 5,State House,55,,Write-ins,8
+Klamath,PRECINCT 6,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",3
+Klamath,PRECINCT 6,U.S. House,2,DEM,Carol Voisin,31
+Klamath,PRECINCT 6,U.S. House,2,REP,Greg Walden,89
+Klamath,PRECINCT 6,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 6,Governor,,PGP,Joe Keatin,3
+Klamath,PRECINCT 6,Governor,,DEM,Ted Kulongoski,27
+Klamath,PRECINCT 6,Governor,,LIB,Richard Morley,0
+Klamath,PRECINCT 6,Governor,,CON,Mary Starrett,2
+Klamath,PRECINCT 6,Governor,,REP,Ron Saxton,93
+Klamath,PRECINCT 6,Governor,,,Write-ins,0
+Klamath,PRECINCT 6,State House,55,REP,George Gilman,83
+Klamath,PRECINCT 6,State House,55,,Write-ins,5
+Klamath,PRECINCT 7,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",46
+Klamath,PRECINCT 7,U.S. House,2,DEM,Carol Voisin,371
+Klamath,PRECINCT 7,U.S. House,2,REP,Greg Walden,1232
+Klamath,PRECINCT 7,U.S. House,2,,Write-ins,3
+Klamath,PRECINCT 7,Governor,,PGP,Joe Keatin,16
+Klamath,PRECINCT 7,Governor,,DEM,Ted Kulongoski,443
+Klamath,PRECINCT 7,Governor,,LIB,Richard Morley,28
+Klamath,PRECINCT 7,Governor,,CON,Mary Starrett,55
+Klamath,PRECINCT 7,Governor,,REP,Ron Saxton,1127
+Klamath,PRECINCT 7,Governor,,,Write-ins,4
+Klamath,PRECINCT 7,State House,56,DEM,James Calvert,537
+Klamath,PRECINCT 7,State House,56,REP,Bill Garrard,1085
+Klamath,PRECINCT 7,State House,56,,Write-ins,2
+Klamath,PRECINCT 8,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",8
+Klamath,PRECINCT 8,U.S. House,2,DEM,Carol Voisin,87
+Klamath,PRECINCT 8,U.S. House,2,REP,Greg Walden,312
+Klamath,PRECINCT 8,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 8,Governor,,PGP,Joe Keatin,4
+Klamath,PRECINCT 8,Governor,,DEM,Ted Kulongoski,124
+Klamath,PRECINCT 8,Governor,,LIB,Richard Morley,3
+Klamath,PRECINCT 8,Governor,,CON,Mary Starrett,10
+Klamath,PRECINCT 8,Governor,,REP,Ron Saxton,266
+Klamath,PRECINCT 8,Governor,,,Write-ins,0
+Klamath,PRECINCT 8,State House,56,DEM,James Calvert,140
+Klamath,PRECINCT 8,State House,56,REP,Bill Garrard,259
+Klamath,PRECINCT 8,State House,56,,Write-ins,1
+Klamath,PRECINCT 9,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",16
+Klamath,PRECINCT 9,U.S. House,2,DEM,Carol Voisin,76
+Klamath,PRECINCT 9,U.S. House,2,REP,Greg Walden,359
+Klamath,PRECINCT 9,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 9,Governor,,PGP,Joe Keatin,6
+Klamath,PRECINCT 9,Governor,,DEM,Ted Kulongoski,87
+Klamath,PRECINCT 9,Governor,,LIB,Richard Morley,7
+Klamath,PRECINCT 9,Governor,,CON,Mary Starrett,21
+Klamath,PRECINCT 9,Governor,,REP,Ron Saxton,338
+Klamath,PRECINCT 9,Governor,,,Write-ins,0
+Klamath,PRECINCT 9,State House,56,DEM,James Calvert,122
+Klamath,PRECINCT 9,State House,56,REP,Bill Garrard,316
+Klamath,PRECINCT 9,State House,56,,Write-ins,2
+Klamath,PRECINCT 10,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",5
+Klamath,PRECINCT 10,U.S. House,2,DEM,Carol Voisin,37
+Klamath,PRECINCT 10,U.S. House,2,REP,Greg Walden,129
+Klamath,PRECINCT 10,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 10,Governor,,PGP,Joe Keatin,1
+Klamath,PRECINCT 10,Governor,,DEM,Ted Kulongoski,47
+Klamath,PRECINCT 10,Governor,,LIB,Richard Morley,4
+Klamath,PRECINCT 10,Governor,,CON,Mary Starrett,0
+Klamath,PRECINCT 10,Governor,,REP,Ron Saxton,119
+Klamath,PRECINCT 10,Governor,,,Write-ins,0
+Klamath,PRECINCT 10,State House,56,DEM,James Calvert,56
+Klamath,PRECINCT 10,State House,56,REP,Bill Garrard,114
+Klamath,PRECINCT 10,State House,56,,Write-ins,0
+Klamath,PRECINCT 11,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",34
+Klamath,PRECINCT 11,U.S. House,2,DEM,Carol Voisin,196
+Klamath,PRECINCT 11,U.S. House,2,REP,Greg Walden,769
+Klamath,PRECINCT 11,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 11,Governor,,PGP,Joe Keatin,9
+Klamath,PRECINCT 11,Governor,,DEM,Ted Kulongoski,248
+Klamath,PRECINCT 11,Governor,,LIB,Richard Morley,11
+Klamath,PRECINCT 11,Governor,,CON,Mary Starrett,36
+Klamath,PRECINCT 11,Governor,,REP,Ron Saxton,696
+Klamath,PRECINCT 11,Governor,,,Write-ins,0
+Klamath,PRECINCT 11,State House,56,DEM,James Calvert,300
+Klamath,PRECINCT 11,State House,56,REP,Bill Garrard,676
+Klamath,PRECINCT 11,State House,56,,Write-ins,0
+Klamath,PRECINCT 12,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",10
+Klamath,PRECINCT 12,U.S. House,2,DEM,Carol Voisin,85
+Klamath,PRECINCT 12,U.S. House,2,REP,Greg Walden,482
+Klamath,PRECINCT 12,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 12,Governor,,PGP,Joe Keatin,1
+Klamath,PRECINCT 12,Governor,,DEM,Ted Kulongoski,127
+Klamath,PRECINCT 12,Governor,,LIB,Richard Morley,4
+Klamath,PRECINCT 12,Governor,,CON,Mary Starrett,10
+Klamath,PRECINCT 12,Governor,,REP,Ron Saxton,437
+Klamath,PRECINCT 12,Governor,,,Write-ins,0
+Klamath,PRECINCT 12,State House,56,DEM,James Calvert,147
+Klamath,PRECINCT 12,State House,56,REP,Bill Garrard,415
+Klamath,PRECINCT 12,State House,56,,Write-ins,0
+Klamath,PRECINCT 13,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",48
+Klamath,PRECINCT 13,U.S. House,2,DEM,Carol Voisin,193
+Klamath,PRECINCT 13,U.S. House,2,REP,Greg Walden,1495
+Klamath,PRECINCT 13,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 13,Governor,,PGP,Joe Keatin,14
+Klamath,PRECINCT 13,Governor,,DEM,Ted Kulongoski,311
+Klamath,PRECINCT 13,Governor,,LIB,Richard Morley,19
+Klamath,PRECINCT 13,Governor,,CON,Mary Starrett,41
+Klamath,PRECINCT 13,Governor,,REP,Ron Saxton,1356
+Klamath,PRECINCT 13,Governor,,,Write-ins,6
+Klamath,PRECINCT 13,State House,56,DEM,James Calvert,393
+Klamath,PRECINCT 13,State House,56,REP,Bill Garrard,1293
+Klamath,PRECINCT 13,State House,56,,Write-ins,2
+Klamath,PRECINCT 14,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",8
+Klamath,PRECINCT 14,U.S. House,2,DEM,Carol Voisin,17
+Klamath,PRECINCT 14,U.S. House,2,REP,Greg Walden,90
+Klamath,PRECINCT 14,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 14,Governor,,PGP,Joe Keatin,1
+Klamath,PRECINCT 14,Governor,,DEM,Ted Kulongoski,28
+Klamath,PRECINCT 14,Governor,,LIB,Richard Morley,0
+Klamath,PRECINCT 14,Governor,,CON,Mary Starrett,3
+Klamath,PRECINCT 14,Governor,,REP,Ron Saxton,83
+Klamath,PRECINCT 14,Governor,,,Write-ins,0
+Klamath,PRECINCT 14,State House,56,DEM,James Calvert,28
+Klamath,PRECINCT 14,State House,56,REP,Bill Garrard,82
+Klamath,PRECINCT 14,State House,56,,Write-ins,0
+Klamath,PRECINCT 15,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",17
+Klamath,PRECINCT 15,U.S. House,2,DEM,Carol Voisin,52
+Klamath,PRECINCT 15,U.S. House,2,REP,Greg Walden,599
+Klamath,PRECINCT 15,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 15,Governor,,PGP,Joe Keatin,3
+Klamath,PRECINCT 15,Governor,,DEM,Ted Kulongoski,83
+Klamath,PRECINCT 15,Governor,,LIB,Richard Morley,9
+Klamath,PRECINCT 15,Governor,,CON,Mary Starrett,17
+Klamath,PRECINCT 15,Governor,,REP,Ron Saxton,558
+Klamath,PRECINCT 15,Governor,,,Write-ins,0
+Klamath,PRECINCT 15,State House,56,DEM,James Calvert,125
+Klamath,PRECINCT 15,State House,56,REP,Bill Garrard,525
+Klamath,PRECINCT 15,State House,56,,Write-ins,0
+Klamath,PRECINCT 16,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",10
+Klamath,PRECINCT 16,U.S. House,2,DEM,Carol Voisin,23
+Klamath,PRECINCT 16,U.S. House,2,REP,Greg Walden,124
+Klamath,PRECINCT 16,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 16,Governor,,PGP,Joe Keatin,2
+Klamath,PRECINCT 16,Governor,,DEM,Ted Kulongoski,27
+Klamath,PRECINCT 16,Governor,,LIB,Richard Morley,2
+Klamath,PRECINCT 16,Governor,,CON,Mary Starrett,8
+Klamath,PRECINCT 16,Governor,,REP,Ron Saxton,115
+Klamath,PRECINCT 16,Governor,,,Write-ins,0
+Klamath,PRECINCT 16,State House,56,DEM,James Calvert,44
+Klamath,PRECINCT 16,State House,56,REP,Bill Garrard,112
+Klamath,PRECINCT 16,State House,56,,Write-ins,0
+Klamath,PRECINCT 17,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",10
+Klamath,PRECINCT 17,U.S. House,2,DEM,Carol Voisin,32
+Klamath,PRECINCT 17,U.S. House,2,REP,Greg Walden,192
+Klamath,PRECINCT 17,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 17,Governor,,PGP,Joe Keatin,1
+Klamath,PRECINCT 17,Governor,,DEM,Ted Kulongoski,43
+Klamath,PRECINCT 17,Governor,,LIB,Richard Morley,7
+Klamath,PRECINCT 17,Governor,,CON,Mary Starrett,10
+Klamath,PRECINCT 17,Governor,,REP,Ron Saxton,171
+Klamath,PRECINCT 17,Governor,,,Write-ins,0
+Klamath,PRECINCT 17,State House,56,DEM,James Calvert,55
+Klamath,PRECINCT 17,State House,56,REP,Bill Garrard,175
+Klamath,PRECINCT 17,State House,56,,Write-ins,0
+Klamath,PRECINCT 18,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",19
+Klamath,PRECINCT 18,U.S. House,2,DEM,Carol Voisin,136
+Klamath,PRECINCT 18,U.S. House,2,REP,Greg Walden,744
+Klamath,PRECINCT 18,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 18,Governor,,PGP,Joe Keatin,6
+Klamath,PRECINCT 18,Governor,,DEM,Ted Kulongoski,207
+Klamath,PRECINCT 18,Governor,,LIB,Richard Morley,2
+Klamath,PRECINCT 18,Governor,,CON,Mary Starrett,29
+Klamath,PRECINCT 18,Governor,,REP,Ron Saxton,659
+Klamath,PRECINCT 18,Governor,,,Write-ins,2
+Klamath,PRECINCT 18,State House,56,DEM,James Calvert,210
+Klamath,PRECINCT 18,State House,56,REP,Bill Garrard,674
+Klamath,PRECINCT 18,State House,56,,Write-ins,2
+Klamath,PRECINCT 19,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",4
+Klamath,PRECINCT 19,U.S. House,2,DEM,Carol Voisin,45
+Klamath,PRECINCT 19,U.S. House,2,REP,Greg Walden,105
+Klamath,PRECINCT 19,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 19,Governor,,PGP,Joe Keatin,2
+Klamath,PRECINCT 19,Governor,,DEM,Ted Kulongoski,42
+Klamath,PRECINCT 19,Governor,,LIB,Richard Morley,1
+Klamath,PRECINCT 19,Governor,,CON,Mary Starrett,6
+Klamath,PRECINCT 19,Governor,,REP,Ron Saxton,102
+Klamath,PRECINCT 19,Governor,,,Write-ins,1
+Klamath,PRECINCT 19,State House,56,DEM,James Calvert,59
+Klamath,PRECINCT 19,State House,56,REP,Bill Garrard,94
+Klamath,PRECINCT 19,State House,56,,Write-ins,1
+Klamath,PRECINCT 20,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",21
+Klamath,PRECINCT 20,U.S. House,2,DEM,Carol Voisin,138
+Klamath,PRECINCT 20,U.S. House,2,REP,Greg Walden,439
+Klamath,PRECINCT 20,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 20,Governor,,PGP,Joe Keatin,13
+Klamath,PRECINCT 20,Governor,,DEM,Ted Kulongoski,171
+Klamath,PRECINCT 20,Governor,,LIB,Richard Morley,12
+Klamath,PRECINCT 20,Governor,,CON,Mary Starrett,36
+Klamath,PRECINCT 20,Governor,,REP,Ron Saxton,368
+Klamath,PRECINCT 20,Governor,,,Write-ins,2
+Klamath,PRECINCT 20,State House,56,DEM,James Calvert,208
+Klamath,PRECINCT 20,State House,56,REP,Bill Garrard,386
+Klamath,PRECINCT 20,State House,56,,Write-ins,0
+Klamath,PRECINCT 21,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",24
+Klamath,PRECINCT 21,U.S. House,2,DEM,Carol Voisin,313
+Klamath,PRECINCT 21,U.S. House,2,REP,Greg Walden,1112
+Klamath,PRECINCT 21,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 21,Governor,,PGP,Joe Keatin,3
+Klamath,PRECINCT 21,Governor,,DEM,Ted Kulongoski,452
+Klamath,PRECINCT 21,Governor,,LIB,Richard Morley,8
+Klamath,PRECINCT 21,Governor,,CON,Mary Starrett,52
+Klamath,PRECINCT 21,Governor,,REP,Ron Saxton,940
+Klamath,PRECINCT 21,Governor,,,Write-ins,1
+Klamath,PRECINCT 21,State House,56,DEM,James Calvert,500
+Klamath,PRECINCT 21,State House,56,REP,Bill Garrard,928
+Klamath,PRECINCT 21,State House,56,,Write-ins,2
+Klamath,PRECINCT 22,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",12
+Klamath,PRECINCT 22,U.S. House,2,DEM,Carol Voisin,94
+Klamath,PRECINCT 22,U.S. House,2,REP,Greg Walden,264
+Klamath,PRECINCT 22,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 22,Governor,,PGP,Joe Keatin,3
+Klamath,PRECINCT 22,Governor,,DEM,Ted Kulongoski,121
+Klamath,PRECINCT 22,Governor,,LIB,Richard Morley,7
+Klamath,PRECINCT 22,Governor,,CON,Mary Starrett,9
+Klamath,PRECINCT 22,Governor,,REP,Ron Saxton,231
+Klamath,PRECINCT 22,Governor,,,Write-ins,1
+Klamath,PRECINCT 22,State House,56,DEM,James Calvert,151
+Klamath,PRECINCT 22,State House,56,REP,Bill Garrard,212
+Klamath,PRECINCT 22,State House,56,,Write-ins,2
+Klamath,PRECINCT 23,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",44
+Klamath,PRECINCT 23,U.S. House,2,DEM,Carol Voisin,266
+Klamath,PRECINCT 23,U.S. House,2,REP,Greg Walden,964
+Klamath,PRECINCT 23,U.S. House,2,,Write-ins,3
+Klamath,PRECINCT 23,Governor,,PGP,Joe Keatin,11
+Klamath,PRECINCT 23,Governor,,DEM,Ted Kulongoski,348
+Klamath,PRECINCT 23,Governor,,LIB,Richard Morley,20
+Klamath,PRECINCT 23,Governor,,CON,Mary Starrett,56
+Klamath,PRECINCT 23,Governor,,REP,Ron Saxton,853
+Klamath,PRECINCT 23,Governor,,,Write-ins,2
+Klamath,PRECINCT 23,State House,56,DEM,James Calvert,416
+Klamath,PRECINCT 23,State House,56,REP,Bill Garrard,847
+Klamath,PRECINCT 23,State House,56,,Write-ins,4
+Klamath,PRECINCT 24,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",7
+Klamath,PRECINCT 24,U.S. House,2,DEM,Carol Voisin,70
+Klamath,PRECINCT 24,U.S. House,2,REP,Greg Walden,330
+Klamath,PRECINCT 24,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 24,Governor,,PGP,Joe Keatin,4
+Klamath,PRECINCT 24,Governor,,DEM,Ted Kulongoski,119
+Klamath,PRECINCT 24,Governor,,LIB,Richard Morley,6
+Klamath,PRECINCT 24,Governor,,CON,Mary Starrett,10
+Klamath,PRECINCT 24,Governor,,REP,Ron Saxton,271
+Klamath,PRECINCT 24,Governor,,,Write-ins,0
+Klamath,PRECINCT 24,State House,56,DEM,James Calvert,141
+Klamath,PRECINCT 24,State House,56,REP,Bill Garrard,260
+Klamath,PRECINCT 24,State House,56,,Write-ins,0
+Klamath,PRECINCT 25,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",16
+Klamath,PRECINCT 25,U.S. House,2,DEM,Carol Voisin,140
+Klamath,PRECINCT 25,U.S. House,2,REP,Greg Walden,497
+Klamath,PRECINCT 25,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 25,Governor,,PGP,Joe Keatin,8
+Klamath,PRECINCT 25,Governor,,DEM,Ted Kulongoski,173
+Klamath,PRECINCT 25,Governor,,LIB,Richard Morley,4
+Klamath,PRECINCT 25,Governor,,CON,Mary Starrett,26
+Klamath,PRECINCT 25,Governor,,REP,Ron Saxton,447
+Klamath,PRECINCT 25,Governor,,,Write-ins,0
+Klamath,PRECINCT 25,State House,56,DEM,James Calvert,213
+Klamath,PRECINCT 25,State House,56,REP,Bill Garrard,430
+Klamath,PRECINCT 25,State House,56,,Write-ins,3
+Klamath,PRECINCT 26,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",13
+Klamath,PRECINCT 26,U.S. House,2,DEM,Carol Voisin,148
+Klamath,PRECINCT 26,U.S. House,2,REP,Greg Walden,677
+Klamath,PRECINCT 26,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 26,Governor,,PGP,Joe Keatin,7
+Klamath,PRECINCT 26,Governor,,DEM,Ted Kulongoski,207
+Klamath,PRECINCT 26,Governor,,LIB,Richard Morley,7
+Klamath,PRECINCT 26,Governor,,CON,Mary Starrett,25
+Klamath,PRECINCT 26,Governor,,REP,Ron Saxton,595
+Klamath,PRECINCT 26,Governor,,,Write-ins,0
+Klamath,PRECINCT 26,State House,56,DEM,James Calvert,249
+Klamath,PRECINCT 26,State House,56,REP,Bill Garrard,564
+Klamath,PRECINCT 26,State House,56,,Write-ins,3
+Klamath,PRECINCT 27,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",27
+Klamath,PRECINCT 27,U.S. House,2,DEM,Carol Voisin,188
+Klamath,PRECINCT 27,U.S. House,2,REP,Greg Walden,902
+Klamath,PRECINCT 27,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 27,Governor,,PGP,Joe Keatin,11
+Klamath,PRECINCT 27,Governor,,DEM,Ted Kulongoski,316
+Klamath,PRECINCT 27,Governor,,LIB,Richard Morley,13
+Klamath,PRECINCT 27,Governor,,CON,Mary Starrett,34
+Klamath,PRECINCT 27,Governor,,REP,Ron Saxton,751
+Klamath,PRECINCT 27,Governor,,,Write-ins,2
+Klamath,PRECINCT 27,State House,56,DEM,James Calvert,343
+Klamath,PRECINCT 27,State House,56,REP,Bill Garrard,760
+Klamath,PRECINCT 27,State House,56,,Write-ins,3
+Klamath,PRECINCT 28,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",6
+Klamath,PRECINCT 28,U.S. House,2,DEM,Carol Voisin,32
+Klamath,PRECINCT 28,U.S. House,2,REP,Greg Walden,173
+Klamath,PRECINCT 28,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 28,Governor,,PGP,Joe Keatin,0
+Klamath,PRECINCT 28,Governor,,DEM,Ted Kulongoski,59
+Klamath,PRECINCT 28,Governor,,LIB,Richard Morley,6
+Klamath,PRECINCT 28,Governor,,CON,Mary Starrett,6
+Klamath,PRECINCT 28,Governor,,REP,Ron Saxton,142
+Klamath,PRECINCT 28,Governor,,,Write-ins,0
+Klamath,PRECINCT 28,State House,56,DEM,James Calvert,63
+Klamath,PRECINCT 28,State House,56,REP,Bill Garrard,145
+Klamath,PRECINCT 28,State House,56,,Write-ins,1
+Klamath,PRECINCT 29,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",20
+Klamath,PRECINCT 29,U.S. House,2,DEM,Carol Voisin,112
+Klamath,PRECINCT 29,U.S. House,2,REP,Greg Walden,531
+Klamath,PRECINCT 29,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 29,Governor,,PGP,Joe Keatin,6
+Klamath,PRECINCT 29,Governor,,DEM,Ted Kulongoski,154
+Klamath,PRECINCT 29,Governor,,LIB,Richard Morley,7
+Klamath,PRECINCT 29,Governor,,CON,Mary Starrett,24
+Klamath,PRECINCT 29,Governor,,REP,Ron Saxton,464
+Klamath,PRECINCT 29,Governor,,,Write-ins,2
+Klamath,PRECINCT 29,State House,56,DEM,James Calvert,189
+Klamath,PRECINCT 29,State House,56,REP,Bill Garrard,459
+Klamath,PRECINCT 29,State House,56,,Write-ins,4
+Klamath,PRECINCT 30,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",13
+Klamath,PRECINCT 30,U.S. House,2,DEM,Carol Voisin,166
+Klamath,PRECINCT 30,U.S. House,2,REP,Greg Walden,504
+Klamath,PRECINCT 30,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 30,Governor,,PGP,Joe Keatin,7
+Klamath,PRECINCT 30,Governor,,DEM,Ted Kulongoski,232
+Klamath,PRECINCT 30,Governor,,LIB,Richard Morley,11
+Klamath,PRECINCT 30,Governor,,CON,Mary Starrett,24
+Klamath,PRECINCT 30,Governor,,REP,Ron Saxton,412
+Klamath,PRECINCT 30,Governor,,,Write-ins,2
+Klamath,PRECINCT 30,State House,56,DEM,James Calvert,280
+Klamath,PRECINCT 30,State House,56,REP,Bill Garrard,394
+Klamath,PRECINCT 30,State House,56,,Write-ins,3
+Klamath,PRECINCT 31,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",6
+Klamath,PRECINCT 31,U.S. House,2,DEM,Carol Voisin,208
+Klamath,PRECINCT 31,U.S. House,2,REP,Greg Walden,624
+Klamath,PRECINCT 31,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 31,Governor,,PGP,Joe Keatin,8
+Klamath,PRECINCT 31,Governor,,DEM,Ted Kulongoski,320
+Klamath,PRECINCT 31,Governor,,LIB,Richard Morley,7
+Klamath,PRECINCT 31,Governor,,CON,Mary Starrett,14
+Klamath,PRECINCT 31,Governor,,REP,Ron Saxton,500
+Klamath,PRECINCT 31,Governor,,,Write-ins,1
+Klamath,PRECINCT 31,State House,56,DEM,James Calvert,328
+Klamath,PRECINCT 31,State House,56,REP,Bill Garrard,495
+Klamath,PRECINCT 31,State House,56,,Write-ins,1
+Klamath,PRECINCT 32,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",4
+Klamath,PRECINCT 32,U.S. House,2,DEM,Carol Voisin,47
+Klamath,PRECINCT 32,U.S. House,2,REP,Greg Walden,125
+Klamath,PRECINCT 32,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 32,Governor,,PGP,Joe Keatin,5
+Klamath,PRECINCT 32,Governor,,DEM,Ted Kulongoski,78
+Klamath,PRECINCT 32,Governor,,LIB,Richard Morley,1
+Klamath,PRECINCT 32,Governor,,CON,Mary Starrett,3
+Klamath,PRECINCT 32,Governor,,REP,Ron Saxton,97
+Klamath,PRECINCT 32,Governor,,,Write-ins,1
+Klamath,PRECINCT 32,State House,56,DEM,James Calvert,72
+Klamath,PRECINCT 32,State House,56,REP,Bill Garrard,105
+Klamath,PRECINCT 32,State House,56,,Write-ins,0
+Klamath,PRECINCT 33,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",15
+Klamath,PRECINCT 33,U.S. House,2,DEM,Carol Voisin,141
+Klamath,PRECINCT 33,U.S. House,2,REP,Greg Walden,251
+Klamath,PRECINCT 33,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 33,Governor,,PGP,Joe Keatin,7
+Klamath,PRECINCT 33,Governor,,DEM,Ted Kulongoski,171
+Klamath,PRECINCT 33,Governor,,LIB,Richard Morley,16
+Klamath,PRECINCT 33,Governor,,CON,Mary Starrett,14
+Klamath,PRECINCT 33,Governor,,REP,Ron Saxton,203
+Klamath,PRECINCT 33,Governor,,,Write-ins,2
+Klamath,PRECINCT 33,State House,56,DEM,James Calvert,195
+Klamath,PRECINCT 33,State House,56,REP,Bill Garrard,201
+Klamath,PRECINCT 33,State House,56,,Write-ins,0
+Klamath,PRECINCT 34,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",13
+Klamath,PRECINCT 34,U.S. House,2,DEM,Carol Voisin,98
+Klamath,PRECINCT 34,U.S. House,2,REP,Greg Walden,262
+Klamath,PRECINCT 34,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 34,Governor,,PGP,Joe Keatin,9
+Klamath,PRECINCT 34,Governor,,DEM,Ted Kulongoski,104
+Klamath,PRECINCT 34,Governor,,LIB,Richard Morley,6
+Klamath,PRECINCT 34,Governor,,CON,Mary Starrett,16
+Klamath,PRECINCT 34,Governor,,REP,Ron Saxton,239
+Klamath,PRECINCT 34,Governor,,,Write-ins,4
+Klamath,PRECINCT 34,State House,56,DEM,James Calvert,140
+Klamath,PRECINCT 34,State House,56,REP,Bill Garrard,227
+Klamath,PRECINCT 34,State House,56,,Write-ins,2
+Klamath,PRECINCT 35,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",12
+Klamath,PRECINCT 35,U.S. House,2,DEM,Carol Voisin,74
+Klamath,PRECINCT 35,U.S. House,2,REP,Greg Walden,152
+Klamath,PRECINCT 35,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 35,Governor,,PGP,Joe Keatin,9
+Klamath,PRECINCT 35,Governor,,DEM,Ted Kulongoski,80
+Klamath,PRECINCT 35,Governor,,LIB,Richard Morley,4
+Klamath,PRECINCT 35,Governor,,CON,Mary Starrett,14
+Klamath,PRECINCT 35,Governor,,REP,Ron Saxton,136
+Klamath,PRECINCT 35,Governor,,,Write-ins,0
+Klamath,PRECINCT 35,State House,56,DEM,James Calvert,102
+Klamath,PRECINCT 35,State House,56,REP,Bill Garrard,127
+Klamath,PRECINCT 35,State House,56,,Write-ins,1
+Klamath,PRECINCT 36,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",12
+Klamath,PRECINCT 36,U.S. House,2,DEM,Carol Voisin,121
+Klamath,PRECINCT 36,U.S. House,2,REP,Greg Walden,202
+Klamath,PRECINCT 36,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 36,Governor,,PGP,Joe Keatin,7
+Klamath,PRECINCT 36,Governor,,DEM,Ted Kulongoski,135
+Klamath,PRECINCT 36,Governor,,LIB,Richard Morley,10
+Klamath,PRECINCT 36,Governor,,CON,Mary Starrett,22
+Klamath,PRECINCT 36,Governor,,REP,Ron Saxton,170
+Klamath,PRECINCT 36,Governor,,,Write-ins,1
+Klamath,PRECINCT 36,State House,56,DEM,James Calvert,159
+Klamath,PRECINCT 36,State House,56,REP,Bill Garrard,172
+Klamath,PRECINCT 36,State House,56,,Write-ins,1
+Klamath,PRECINCT 37,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",11
+Klamath,PRECINCT 37,U.S. House,2,DEM,Carol Voisin,183
+Klamath,PRECINCT 37,U.S. House,2,REP,Greg Walden,410
+Klamath,PRECINCT 37,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 37,Governor,,PGP,Joe Keatin,5
+Klamath,PRECINCT 37,Governor,,DEM,Ted Kulongoski,237
+Klamath,PRECINCT 37,Governor,,LIB,Richard Morley,4
+Klamath,PRECINCT 37,Governor,,CON,Mary Starrett,12
+Klamath,PRECINCT 37,Governor,,REP,Ron Saxton,349
+Klamath,PRECINCT 37,Governor,,,Write-ins,2
+Klamath,PRECINCT 37,State House,56,DEM,James Calvert,261
+Klamath,PRECINCT 37,State House,56,REP,Bill Garrard,337
+Klamath,PRECINCT 37,State House,56,,Write-ins,2
+Klamath,PRECINCT 38,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",14
+Klamath,PRECINCT 38,U.S. House,2,DEM,Carol Voisin,116
+Klamath,PRECINCT 38,U.S. House,2,REP,Greg Walden,223
+Klamath,PRECINCT 38,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 38,Governor,,PGP,Joe Keatin,10
+Klamath,PRECINCT 38,Governor,,DEM,Ted Kulongoski,135
+Klamath,PRECINCT 38,Governor,,LIB,Richard Morley,6
+Klamath,PRECINCT 38,Governor,,CON,Mary Starrett,8
+Klamath,PRECINCT 38,Governor,,REP,Ron Saxton,197
+Klamath,PRECINCT 38,Governor,,,Write-ins,0
+Klamath,PRECINCT 38,State House,56,DEM,James Calvert,151
+Klamath,PRECINCT 38,State House,56,REP,Bill Garrard,196
+Klamath,PRECINCT 38,State House,56,,Write-ins,0
+Klamath,PRECINCT 39,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",2
+Klamath,PRECINCT 39,U.S. House,2,DEM,Carol Voisin,21
+Klamath,PRECINCT 39,U.S. House,2,REP,Greg Walden,31
+Klamath,PRECINCT 39,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 39,Governor,,PGP,Joe Keatin,1
+Klamath,PRECINCT 39,Governor,,DEM,Ted Kulongoski,22
+Klamath,PRECINCT 39,Governor,,LIB,Richard Morley,0
+Klamath,PRECINCT 39,Governor,,CON,Mary Starrett,4
+Klamath,PRECINCT 39,Governor,,REP,Ron Saxton,29
+Klamath,PRECINCT 39,Governor,,,Write-ins,0
+Klamath,PRECINCT 39,State House,56,DEM,James Calvert,29
+Klamath,PRECINCT 39,State House,56,REP,Bill Garrard,26
+Klamath,PRECINCT 39,State House,56,,Write-ins,0
+Klamath,PRECINCT 40,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",22
+Klamath,PRECINCT 40,U.S. House,2,DEM,Carol Voisin,126
+Klamath,PRECINCT 40,U.S. House,2,REP,Greg Walden,250
+Klamath,PRECINCT 40,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 40,Governor,,PGP,Joe Keatin,10
+Klamath,PRECINCT 40,Governor,,DEM,Ted Kulongoski,140
+Klamath,PRECINCT 40,Governor,,LIB,Richard Morley,7
+Klamath,PRECINCT 40,Governor,,CON,Mary Starrett,23
+Klamath,PRECINCT 40,Governor,,REP,Ron Saxton,220
+Klamath,PRECINCT 40,Governor,,,Write-ins,0
+Klamath,PRECINCT 40,State House,56,DEM,James Calvert,183
+Klamath,PRECINCT 40,State House,56,REP,Bill Garrard,211
+Klamath,PRECINCT 40,State House,56,,Write-ins,3
+Klamath,PRECINCT 41,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",14
+Klamath,PRECINCT 41,U.S. House,2,DEM,Carol Voisin,122
+Klamath,PRECINCT 41,U.S. House,2,REP,Greg Walden,406
+Klamath,PRECINCT 41,U.S. House,2,,Write-ins,3
+Klamath,PRECINCT 41,Governor,,PGP,Joe Keatin,8
+Klamath,PRECINCT 41,Governor,,DEM,Ted Kulongoski,165
+Klamath,PRECINCT 41,Governor,,LIB,Richard Morley,4
+Klamath,PRECINCT 41,Governor,,CON,Mary Starrett,17
+Klamath,PRECINCT 41,Governor,,REP,Ron Saxton,354
+Klamath,PRECINCT 41,Governor,,,Write-ins,1
+Klamath,PRECINCT 41,State House,56,DEM,James Calvert,184
+Klamath,PRECINCT 41,State House,56,REP,Bill Garrard,354
+Klamath,PRECINCT 41,State House,56,,Write-ins,1
+Klamath,PRECINCT 42,U.S. House,2,CON,"""Jack Alan Brown, Jr.""",9
+Klamath,PRECINCT 42,U.S. House,2,DEM,Carol Voisin,54
+Klamath,PRECINCT 42,U.S. House,2,REP,Greg Walden,122
+Klamath,PRECINCT 42,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 42,Governor,,PGP,Joe Keatin,1
+Klamath,PRECINCT 42,Governor,,DEM,Ted Kulongoski,60
+Klamath,PRECINCT 42,Governor,,LIB,Richard Morley,2
+Klamath,PRECINCT 42,Governor,,CON,Mary Starrett,10
+Klamath,PRECINCT 42,Governor,,REP,Ron Saxton,117
+Klamath,PRECINCT 42,Governor,,,Write-ins,0
+Klamath,PRECINCT 42,State House,56,DEM,James Calvert,82
+Klamath,PRECINCT 42,State House,56,REP,Bill Garrard,103
+Klamath,PRECINCT 42,State House,56,,Write-ins,0
