@@ -29,22 +29,49 @@ import re
 def main():
 	with open(sys.argv[1], 'rU') as csvfile:
 		reader = csv.DictReader(csvfile)
+		groupingColumns = ()
+		totalColumn = ''
 		
-		currentOffice = ()
+		currentGroup = ()
 		voteTotal = 0
+
+		# First, figure out if we're doing precinct totals or candidate totals
 		for row in reader:
-			rowOffice = (row["precinct"], row["office"], row["district"])
+			if row["candidate"] == 'Total':
+				totalColumn = 'candidate'
+				groupingColumns = ('precinct', 'office', 'district')
+				break
+			elif row["precinct"] == 'Total':
+				totalColumn = 'precinct'
+				groupingColumns = ('candidate', 'office', 'district')
+				break
+		else:
+			print("No totals to compare vote counts with")
+			sys.exit(0)
+
+		# Now that we've figured out which column to accumulate totals by, start over
+		csvfile.seek(0)
+		firstRow = True
+
+		for row in reader:
+			if firstRow:
+				firstRow = False
+				continue # due to the seek, have to manually skip the header row
+
+			rowGroup = tuple(row[col] for col in groupingColumns)
+			# print(rowGroup)
 
 			try:
 				votes = int(row["votes"].replace(",", ""))
 			except Exception as e:
 				print "ERROR: Could not convert this to an integer: '%s'" % row["votes"]
 				print "ERROR: %s" % repr(row)
+				continue
 
-			if rowOffice == currentOffice:
+			if rowGroup == currentGroup:
 				if row["candidate"] in ("Under Votes", "Over Votes", "Total Votes Cast", "Under-Votes", "Over-Votes"):
 					continue
-				elif row["candidate"] == "Total":
+				elif row[totalColumn] == "Total":
 					if voteTotal != votes:
 						print "ERROR: %d != %s" % (voteTotal, row["votes"])
 						print "ERROR: %s" % repr(row)
@@ -54,7 +81,7 @@ def main():
 					# print "total=%d" % voteTotal
 					# print row
 			else:
-				currentOffice = rowOffice
+				currentGroup = rowGroup
 				voteTotal = votes # reset the vote total
 				# print "total=%d" % voteTotal
 				# print row

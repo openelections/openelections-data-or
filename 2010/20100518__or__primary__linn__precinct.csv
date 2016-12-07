@@ -78,7 +78,7 @@ Linn,105,U.S. Senate,,DEM,Pavel Goberman,6
 Linn,106,U.S. Senate,,DEM,Pavel Goberman,1
 Linn,107,U.S. Senate,,DEM,Pavel Goberman,5
 Linn,108,U.S. Senate,,DEM,Pavel Goberman,10
-Linn,,U.S. Senate,,DEM,Pavel Goberman,384
+Linn,Total,U.S. Senate,,DEM,Pavel Goberman,384
 Linn,1,U.S. Senate,,DEM,Loren Hooker,3
 Linn,3,U.S. Senate,,DEM,Loren Hooker,7
 Linn,5,U.S. Senate,,DEM,Loren Hooker,20
@@ -158,7 +158,7 @@ Linn,105,U.S. Senate,,DEM,Loren Hooker,12
 Linn,106,U.S. Senate,,DEM,Loren Hooker,5
 Linn,107,U.S. Senate,,DEM,Loren Hooker,18
 Linn,108,U.S. Senate,,DEM,Loren Hooker,20
-Linn,,U.S. Senate,,DEM,Loren Hooker,997
+Linn,Total,U.S. Senate,,DEM,Loren Hooker,997
 Linn,1,U.S. Senate,,DEM,Ron Wyden,122
 Linn,3,U.S. Senate,,DEM,Ron Wyden,102
 Linn,5,U.S. Senate,,DEM,Ron Wyden,80
@@ -238,7 +238,7 @@ Linn,105,U.S. Senate,,DEM,Ron Wyden,60
 Linn,106,U.S. Senate,,DEM,Ron Wyden,84
 Linn,107,U.S. Senate,,DEM,Ron Wyden,133
 Linn,108,U.S. Senate,,DEM,Ron Wyden,203
-Linn,,U.S. Senate,,DEM,Ron Wyden,7481
+Linn,Total,U.S. Senate,,DEM,Ron Wyden,7481
 Linn,1,U.S. Senate,,DEM,Write-ins,0
 Linn,3,U.S. Senate,,DEM,Write-ins,0
 Linn,5,U.S. Senate,,DEM,Write-ins,0
@@ -318,7 +318,7 @@ Linn,105,U.S. Senate,,DEM,Write-ins,3
 Linn,106,U.S. Senate,,DEM,Write-ins,2
 Linn,107,U.S. Senate,,DEM,Write-ins,2
 Linn,108,U.S. Senate,,DEM,Write-ins,2
-Linn,,U.S. Senate,,DEM,Write-ins,117
+Linn,Total,U.S. Senate,,DEM,Write-ins,117
 Linn,1,U.S. House,4,DEM,Peter DeFazio,119
 Linn,3,U.S. House,4,DEM,Peter DeFazio,104
 Linn,5,U.S. House,4,DEM,Peter DeFazio,91
@@ -398,7 +398,7 @@ Linn,105,U.S. House,4,DEM,Peter DeFazio,69
 Linn,106,U.S. House,4,DEM,Peter DeFazio,83
 Linn,107,U.S. House,4,DEM,Peter DeFazio,149
 Linn,108,U.S. House,4,DEM,Peter DeFazio,214
-Linn,,U.S. House,4,DEM,Peter DeFazio,7880
+Linn,Total,U.S. House,4,DEM,Peter DeFazio,7880
 Linn,1,U.S. House,4,DEM,Write-ins,0
 Linn,3,U.S. House,4,DEM,Write-ins,0
 Linn,5,U.S. House,4,DEM,Write-ins,2
@@ -478,7 +478,7 @@ Linn,105,U.S. House,4,DEM,Write-ins,2
 Linn,106,U.S. House,4,DEM,Write-ins,0
 Linn,107,U.S. House,4,DEM,Write-ins,2
 Linn,108,U.S. House,4,DEM,Write-ins,4
-Linn,,U.S. House,4,DEM,Write-ins,171
+Linn,Total,U.S. House,4,DEM,Write-ins,171
 Linn,1,Governor,,DEM,Roger Obrist,3
 Linn,3,Governor,,DEM,Roger Obrist,2
 Linn,5,Governor,,DEM,Roger Obrist,7
@@ -558,7 +558,7 @@ Linn,105,Governor,,DEM,Roger Obrist,5
 Linn,106,Governor,,DEM,Roger Obrist,4
 Linn,107,Governor,,DEM,Roger Obrist,11
 Linn,108,Governor,,DEM,Roger Obrist,17
-Linn,,Governor,,DEM,Roger Obrist,668
+Linn,Total,Governor,,DEM,Roger Obrist,668
 Linn,1,Governor,,DEM,John Kitzhaber,95
 Linn,3,Governor,,DEM,John Kitzhaber,81
 Linn,5,Governor,,DEM,John Kitzhaber,66
@@ -638,7 +638,7 @@ Linn,105,Governor,,DEM,John Kitzhaber,56
 Linn,106,Governor,,DEM,John Kitzhaber,63
 Linn,107,Governor,,DEM,John Kitzhaber,111
 Linn,108,Governor,,DEM,John Kitzhaber,149
-Linn,,Governor,,DEM,John Kitzhaber,5775
+Linn,Total,Governor,,DEM,John Kitzhaber,5775
 Linn,1,Governor,,DEM,Bill Bradbury,35
 Linn,3,Governor,,DEM,Bill Bradbury,25
 Linn,5,Governor,,DEM,Bill Bradbury,31
@@ -718,7 +718,7 @@ Linn,105,Governor,,DEM,Bill Bradbury,16
 Linn,106,Governor,,DEM,Bill Bradbury,25
 Linn,107,Governor,,DEM,Bill Bradbury,40
 Linn,108,Governor,,DEM,Bill Bradbury,66
-Linn,,Governor,,DEM,Bill Bradbury,2372
+Linn,Total,Governor,,DEM,Bill Bradbury,2372
 Linn,1,Governor,,DEM,Write-ins,0
 Linn,3,Governor,,DEM,Write-ins,1
 Linn,5,Governor,,DEM,Write-ins,2
@@ -798,7 +798,7 @@ Linn,105,Governor,,DEM,Write-ins,4
 Linn,106,Governor,,DEM,Write-ins,2
 Linn,107,Governor,,DEM,Write-ins,5
 Linn,108,Governor,,DEM,Write-ins,4
-Linn,,Governor,,DEM,Write-ins,241
+Linn,Total,Governor,,DEM,Write-ins,241
 Linn,1,State Treasurer,,DEM,Rick Metsger,37
 Linn,3,State Treasurer,,DEM,Rick Metsger,29
 Linn,5,State Treasurer,,DEM,Rick Metsger,45
@@ -878,7 +878,7 @@ Linn,105,State Treasurer,,DEM,Rick Metsger,37
 Linn,106,State Treasurer,,DEM,Rick Metsger,40
 Linn,107,State Treasurer,,DEM,Rick Metsger,53
 Linn,108,State Treasurer,,DEM,Rick Metsger,97
-Linn,,State Treasurer,,DEM,Rick Metsger,3594
+Linn,Total,State Treasurer,,DEM,Rick Metsger,3594
 Linn,1,State Treasurer,,DEM,Ted Wheeler,67
 Linn,3,State Treasurer,,DEM,Ted Wheeler,64
 Linn,5,State Treasurer,,DEM,Ted Wheeler,55
@@ -958,7 +958,7 @@ Linn,105,State Treasurer,,DEM,Ted Wheeler,38
 Linn,106,State Treasurer,,DEM,Ted Wheeler,46
 Linn,107,State Treasurer,,DEM,Ted Wheeler,90
 Linn,108,State Treasurer,,DEM,Ted Wheeler,114
-Linn,,State Treasurer,,DEM,Ted Wheeler,4362
+Linn,Total,State Treasurer,,DEM,Ted Wheeler,4362
 Linn,1,State Treasurer,,DEM,Write-ins,0
 Linn,3,State Treasurer,,DEM,Write-ins,1
 Linn,5,State Treasurer,,DEM,Write-ins,2
@@ -1038,10 +1038,10 @@ Linn,105,State Treasurer,,DEM,Write-ins,2
 Linn,106,State Treasurer,,DEM,Write-ins,0
 Linn,107,State Treasurer,,DEM,Write-ins,2
 Linn,108,State Treasurer,,DEM,Write-ins,1
-Linn,,State Treasurer,,DEM,Write-ins,94
+Linn,Total,State Treasurer,,DEM,Write-ins,94
 Linn,1,State Senate,8,DEM,Dan Rayfield,79
 Linn,3,State Senate,8,DEM,Dan Rayfield,72
-Linn,5,State Senate,8,DEM,Dan Rayfield,81
+Linn,5,State Senate,8,DEM,Dan Rayfield,82
 Linn,8,State Senate,8,DEM,Dan Rayfield,71
 Linn,11,State Senate,8,DEM,Dan Rayfield,54
 Linn,14,State Senate,8,DEM,Dan Rayfield,74
@@ -1071,7 +1071,7 @@ Linn,102,State Senate,8,DEM,Dan Rayfield,116
 Linn,105,State Senate,8,DEM,Dan Rayfield,57
 Linn,106,State Senate,8,DEM,Dan Rayfield,44
 Linn,107,State Senate,8,DEM,Dan Rayfield,100
-Linn,,State Senate,8,DEM,Dan Rayfield,2610
+Linn,Total,State Senate,8,DEM,Dan Rayfield,2610
 Linn,1,State Senate,8,DEM,Write-ins,2
 Linn,3,State Senate,8,DEM,Write-ins,1
 Linn,5,State Senate,8,DEM,Write-ins,0
@@ -1104,7 +1104,7 @@ Linn,102,State Senate,8,DEM,Write-ins,4
 Linn,105,State Senate,8,DEM,Write-ins,2
 Linn,106,State Senate,8,DEM,Write-ins,1
 Linn,107,State Senate,8,DEM,Write-ins,4
-Linn,,State Senate,8,DEM,Write-ins,60
+Linn,Total,State Senate,8,DEM,Write-ins,60
 Linn,21,State Senate,6,DEM,Lee Beyer,30
 Linn,22,State Senate,6,DEM,Lee Beyer,3
 Linn,23,State Senate,6,DEM,Lee Beyer,81
@@ -1291,18 +1291,18 @@ Linn,101,State House,17,DEM,Write-ins,2
 Linn,103,State House,17,DEM,Write-ins,2
 Linn,104,State House,17,DEM,Write-ins,4
 Linn,108,State House,17,DEM,Write-ins,4
-Linn,28,State State House,23,DEM,Wes West,50
-Linn,29,State State House,23,DEM,Wes West,127
-Linn,30,State State House,23,DEM,Wes West,14
-Linn,47,State State House,23,DEM,Wes West,37
-Linn,54,State State House,23,DEM,Wes West,40
-Linn,65,State State House,23,DEM,Wes West,6
-Linn,28,State State House,23,DEM,Write-ins,0
-Linn,29,State State House,23,DEM,Write-ins,3
-Linn,30,State State House,23,DEM,Write-ins,0
-Linn,47,State State House,23,DEM,Write-ins,1
-Linn,54,State State House,23,DEM,Write-ins,1
-Linn,65,State State House,23,DEM,Write-ins,0
+Linn,28,State House,23,DEM,Wes West,50
+Linn,29,State House,23,DEM,Wes West,127
+Linn,30,State House,23,DEM,Wes West,14
+Linn,47,State House,23,DEM,Wes West,37
+Linn,54,State House,23,DEM,Wes West,40
+Linn,65,State House,23,DEM,Wes West,6
+Linn,28,State House,23,DEM,Write-ins,0
+Linn,29,State House,23,DEM,Write-ins,3
+Linn,30,State House,23,DEM,Write-ins,0
+Linn,47,State House,23,DEM,Write-ins,1
+Linn,54,State House,23,DEM,Write-ins,1
+Linn,65,State House,23,DEM,Write-ins,0
 Linn,1,U.S. Senate,,REP,Tom Stutzman,14
 Linn,3,U.S. Senate,,REP,Tom Stutzman,16
 Linn,5,U.S. Senate,,REP,Tom Stutzman,13
@@ -1382,7 +1382,7 @@ Linn,105,U.S. Senate,,REP,Tom Stutzman,26
 Linn,106,U.S. Senate,,REP,Tom Stutzman,30
 Linn,107,U.S. Senate,,REP,Tom Stutzman,33
 Linn,108,U.S. Senate,,REP,Tom Stutzman,51
-Linn,,U.S. Senate,,REP,Tom Stutzman,2074
+Linn,Total,U.S. Senate,,REP,Tom Stutzman,2074
 Linn,1,U.S. Senate,,REP,Robin Parker,6
 Linn,3,U.S. Senate,,REP,Robin Parker,1
 Linn,5,U.S. Senate,,REP,Robin Parker,5
@@ -1462,7 +1462,7 @@ Linn,105,U.S. Senate,,REP,Robin Parker,3
 Linn,106,U.S. Senate,,REP,Robin Parker,5
 Linn,107,U.S. Senate,,REP,Robin Parker,7
 Linn,108,U.S. Senate,,REP,Robin Parker,5
-Linn,,U.S. Senate,,REP,Robin Parker,504
+Linn,Total,U.S. Senate,,REP,Robin Parker,504
 Linn,1,U.S. Senate,,REP,Loren Later,6
 Linn,3,U.S. Senate,,REP,Loren Later,10
 Linn,5,U.S. Senate,,REP,Loren Later,11
@@ -1542,7 +1542,7 @@ Linn,105,U.S. Senate,,REP,Loren Later,11
 Linn,106,U.S. Senate,,REP,Loren Later,21
 Linn,107,U.S. Senate,,REP,Loren Later,28
 Linn,108,U.S. Senate,,REP,Loren Later,36
-Linn,,U.S. Senate,,REP,Loren Later,1622
+Linn,Total,U.S. Senate,,REP,Loren Later,1622
 Linn,1,U.S. Senate,,REP,Shane Dinkel,2
 Linn,3,U.S. Senate,,REP,Shane Dinkel,6
 Linn,5,U.S. Senate,,REP,Shane Dinkel,7
@@ -1622,7 +1622,7 @@ Linn,105,U.S. Senate,,REP,Shane Dinkel,7
 Linn,106,U.S. Senate,,REP,Shane Dinkel,9
 Linn,107,U.S. Senate,,REP,Shane Dinkel,11
 Linn,108,U.S. Senate,,REP,Shane Dinkel,26
-Linn,,U.S. Senate,,REP,Shane Dinkel,1229
+Linn,Total,U.S. Senate,,REP,Shane Dinkel,1229
 Linn,1,U.S. Senate,,REP,Jim Huffman,32
 Linn,3,U.S. Senate,,REP,Jim Huffman,17
 Linn,5,U.S. Senate,,REP,Jim Huffman,28
@@ -1702,7 +1702,7 @@ Linn,105,U.S. Senate,,REP,Jim Huffman,17
 Linn,106,U.S. Senate,,REP,Jim Huffman,20
 Linn,107,U.S. Senate,,REP,Jim Huffman,59
 Linn,108,U.S. Senate,,REP,Jim Huffman,62
-Linn,,U.S. Senate,,REP,Jim Huffman,3234
+Linn,Total,U.S. Senate,,REP,Jim Huffman,3234
 Linn,1,U.S. Senate,,REP,Walter Woodland,2
 Linn,3,U.S. Senate,,REP,Walter Woodland,0
 Linn,5,U.S. Senate,,REP,Walter Woodland,0
@@ -1782,7 +1782,7 @@ Linn,105,U.S. Senate,,REP,Walter Woodland,2
 Linn,106,U.S. Senate,,REP,Walter Woodland,1
 Linn,107,U.S. Senate,,REP,Walter Woodland,2
 Linn,108,U.S. Senate,,REP,Walter Woodland,4
-Linn,,U.S. Senate,,REP,Walter Woodland,141
+Linn,Total,U.S. Senate,,REP,Walter Woodland,141
 Linn,1,U.S. Senate,,REP,Keith Waldron,11
 Linn,3,U.S. Senate,,REP,Keith Waldron,3
 Linn,5,U.S. Senate,,REP,Keith Waldron,7
@@ -1862,7 +1862,7 @@ Linn,105,U.S. Senate,,REP,Keith Waldron,1
 Linn,106,U.S. Senate,,REP,Keith Waldron,6
 Linn,107,U.S. Senate,,REP,Keith Waldron,6
 Linn,108,U.S. Senate,,REP,Keith Waldron,13
-Linn,,U.S. Senate,,REP,Keith Waldron,753
+Linn,Total,U.S. Senate,,REP,Keith Waldron,753
 Linn,1,U.S. Senate,,REP,Write-ins,0
 Linn,3,U.S. Senate,,REP,Write-ins,0
 Linn,5,U.S. Senate,,REP,Write-ins,1
@@ -1942,7 +1942,7 @@ Linn,105,U.S. Senate,,REP,Write-ins,1
 Linn,106,U.S. Senate,,REP,Write-ins,0
 Linn,107,U.S. Senate,,REP,Write-ins,0
 Linn,108,U.S. Senate,,REP,Write-ins,0
-Linn,,U.S. Senate,,REP,Write-ins,44
+Linn,Total,U.S. Senate,,REP,Write-ins,44
 Linn,1,U.S. House,4,REP,Jaynee Germond,13
 Linn,3,U.S. House,4,REP,Jaynee Germond,15
 Linn,5,U.S. House,4,REP,Jaynee Germond,18
@@ -2022,87 +2022,87 @@ Linn,105,U.S. House,4,REP,Jaynee Germond,16
 Linn,106,U.S. House,4,REP,Jaynee Germond,25
 Linn,107,U.S. House,4,REP,Jaynee Germond,35
 Linn,108,U.S. House,4,REP,Jaynee Germond,43
-Linn,,U.S. House,4,REP,Jaynee Germond,1914
-Linn,1,Governor,,REP,Art Robinson,66
-Linn,3,U.S. Senate,,REP,Art Robinson,44
-Linn,5,U.S. Senate,,REP,Art Robinson,50
-Linn,8,U.S. Senate,,REP,Art Robinson,74
-Linn,11,U.S. Senate,,REP,Art Robinson,43
-Linn,14,U.S. Senate,,REP,Art Robinson,33
-Linn,15,U.S. Senate,,REP,Art Robinson,27
-Linn,16,U.S. Senate,,REP,Art Robinson,69
-Linn,18,U.S. Senate,,REP,Art Robinson,236
-Linn,19,U.S. Senate,,REP,Art Robinson,129
-Linn,20,U.S. Senate,,REP,Art Robinson,71
-Linn,21,U.S. Senate,,REP,Art Robinson,73
-Linn,22,U.S. Senate,,REP,Art Robinson,6
-Linn,23,U.S. Senate,,REP,Art Robinson,157
-Linn,25,U.S. Senate,,REP,Art Robinson,101
-Linn,26,U.S. Senate,,REP,Art Robinson,47
-Linn,27,U.S. Senate,,REP,Art Robinson,112
-Linn,28,U.S. Senate,,REP,Art Robinson,100
-Linn,29,U.S. Senate,,REP,Art Robinson,232
-Linn,30,U.S. Senate,,REP,Art Robinson,59
-Linn,31,U.S. Senate,,REP,Art Robinson,157
-Linn,32,U.S. Senate,,REP,Art Robinson,100
-Linn,34,U.S. Senate,,REP,Art Robinson,54
-Linn,35,U.S. Senate,,REP,Art Robinson,205
-Linn,36,U.S. Senate,,REP,Art Robinson,116
-Linn,37,U.S. Senate,,REP,Art Robinson,96
-Linn,38,U.S. Senate,,REP,Art Robinson,74
-Linn,39,U.S. Senate,,REP,Art Robinson,62
-Linn,40,U.S. Senate,,REP,Art Robinson,1
-Linn,41,U.S. Senate,,REP,Art Robinson,60
-Linn,43,U.S. Senate,,REP,Art Robinson,61
-Linn,44,U.S. Senate,,REP,Art Robinson,129
-Linn,45,U.S. Senate,,REP,Art Robinson,144
-Linn,46,U.S. Senate,,REP,Art Robinson,137
-Linn,47,U.S. Senate,,REP,Art Robinson,39
-Linn,48,U.S. Senate,,REP,Art Robinson,151
-Linn,49,U.S. Senate,,REP,Art Robinson,7
-Linn,51,U.S. Senate,,REP,Art Robinson,118
-Linn,52,U.S. Senate,,REP,Art Robinson,34
-Linn,53,U.S. Senate,,REP,Art Robinson,134
-Linn,54,U.S. Senate,,REP,Art Robinson,84
-Linn,55,U.S. Senate,,REP,Art Robinson,78
-Linn,56,U.S. Senate,,REP,Art Robinson,101
-Linn,57,U.S. Senate,,REP,Art Robinson,44
-Linn,59,U.S. Senate,,REP,Art Robinson,57
-Linn,61,U.S. Senate,,REP,Art Robinson,53
-Linn,62,U.S. Senate,,REP,Art Robinson,82
-Linn,63,U.S. Senate,,REP,Art Robinson,295
-Linn,65,U.S. Senate,,REP,Art Robinson,11
-Linn,66,U.S. Senate,,REP,Art Robinson,47
-Linn,70,U.S. Senate,,REP,Art Robinson,178
-Linn,73,U.S. Senate,,REP,Art Robinson,133
-Linn,75,U.S. Senate,,REP,Art Robinson,179
-Linn,77,U.S. Senate,,REP,Art Robinson,55
-Linn,78,U.S. Senate,,REP,Art Robinson,103
-Linn,79,U.S. Senate,,REP,Art Robinson,138
-Linn,80,U.S. Senate,,REP,Art Robinson,109
-Linn,82,U.S. Senate,,REP,Art Robinson,45
-Linn,84,U.S. Senate,,REP,Art Robinson,48
-Linn,86,U.S. Senate,,REP,Art Robinson,220
-Linn,88,U.S. Senate,,REP,Art Robinson,88
-Linn,89,U.S. Senate,,REP,Art Robinson,86
-Linn,91,U.S. Senate,,REP,Art Robinson,82
-Linn,92,U.S. Senate,,REP,Art Robinson,141
-Linn,93,U.S. Senate,,REP,Art Robinson,148
-Linn,94,U.S. Senate,,REP,Art Robinson,63
-Linn,95,U.S. Senate,,REP,Art Robinson,104
-Linn,96,U.S. Senate,,REP,Art Robinson,152
-Linn,97,U.S. Senate,,REP,Art Robinson,222
-Linn,99,U.S. Senate,,REP,Art Robinson,62
-Linn,100,U.S. Senate,,REP,Art Robinson,142
-Linn,101,U.S. Senate,,REP,Art Robinson,69
-Linn,102,U.S. Senate,,REP,Art Robinson,117
-Linn,103,U.S. Senate,,REP,Art Robinson,138
-Linn,104,U.S. Senate,,REP,Art Robinson,72
-Linn,105,U.S. Senate,,REP,Art Robinson,48
-Linn,106,U.S. Senate,,REP,Art Robinson,69
-Linn,107,U.S. Senate,,REP,Art Robinson,105
-Linn,108,U.S. Senate,,REP,Art Robinson,159
-Linn,,U.S. Senate,,REP,Art Robinson,7735
+Linn,Total,U.S. House,4,REP,Jaynee Germond,1914
+Linn,1,U.S. House,4,REP,Art Robinson,66
+Linn,3,U.S. House,4,REP,Art Robinson,44
+Linn,5,U.S. House,4,REP,Art Robinson,50
+Linn,8,U.S. House,4,REP,Art Robinson,74
+Linn,11,U.S. House,4,REP,Art Robinson,43
+Linn,14,U.S. House,4,REP,Art Robinson,33
+Linn,15,U.S. House,4,REP,Art Robinson,27
+Linn,16,U.S. House,4,REP,Art Robinson,69
+Linn,18,U.S. House,4,REP,Art Robinson,236
+Linn,19,U.S. House,4,REP,Art Robinson,129
+Linn,20,U.S. House,4,REP,Art Robinson,71
+Linn,21,U.S. House,4,REP,Art Robinson,73
+Linn,22,U.S. House,4,REP,Art Robinson,6
+Linn,23,U.S. House,4,REP,Art Robinson,157
+Linn,25,U.S. House,4,REP,Art Robinson,101
+Linn,26,U.S. House,4,REP,Art Robinson,47
+Linn,27,U.S. House,4,REP,Art Robinson,112
+Linn,28,U.S. House,4,REP,Art Robinson,100
+Linn,29,U.S. House,4,REP,Art Robinson,232
+Linn,30,U.S. House,4,REP,Art Robinson,59
+Linn,31,U.S. House,4,REP,Art Robinson,157
+Linn,32,U.S. House,4,REP,Art Robinson,100
+Linn,34,U.S. House,4,REP,Art Robinson,54
+Linn,35,U.S. House,4,REP,Art Robinson,205
+Linn,36,U.S. House,4,REP,Art Robinson,116
+Linn,37,U.S. House,4,REP,Art Robinson,96
+Linn,38,U.S. House,4,REP,Art Robinson,74
+Linn,39,U.S. House,4,REP,Art Robinson,62
+Linn,40,U.S. House,4,REP,Art Robinson,1
+Linn,41,U.S. House,4,REP,Art Robinson,60
+Linn,43,U.S. House,4,REP,Art Robinson,61
+Linn,44,U.S. House,4,REP,Art Robinson,129
+Linn,45,U.S. House,4,REP,Art Robinson,144
+Linn,46,U.S. House,4,REP,Art Robinson,137
+Linn,47,U.S. House,4,REP,Art Robinson,39
+Linn,48,U.S. House,4,REP,Art Robinson,151
+Linn,49,U.S. House,4,REP,Art Robinson,7
+Linn,51,U.S. House,4,REP,Art Robinson,118
+Linn,52,U.S. House,4,REP,Art Robinson,34
+Linn,53,U.S. House,4,REP,Art Robinson,134
+Linn,54,U.S. House,4,REP,Art Robinson,84
+Linn,55,U.S. House,4,REP,Art Robinson,78
+Linn,56,U.S. House,4,REP,Art Robinson,101
+Linn,57,U.S. House,4,REP,Art Robinson,44
+Linn,59,U.S. House,4,REP,Art Robinson,57
+Linn,61,U.S. House,4,REP,Art Robinson,53
+Linn,62,U.S. House,4,REP,Art Robinson,82
+Linn,63,U.S. House,4,REP,Art Robinson,295
+Linn,65,U.S. House,4,REP,Art Robinson,11
+Linn,66,U.S. House,4,REP,Art Robinson,47
+Linn,70,U.S. House,4,REP,Art Robinson,178
+Linn,73,U.S. House,4,REP,Art Robinson,133
+Linn,75,U.S. House,4,REP,Art Robinson,179
+Linn,77,U.S. House,4,REP,Art Robinson,55
+Linn,78,U.S. House,4,REP,Art Robinson,103
+Linn,79,U.S. House,4,REP,Art Robinson,138
+Linn,80,U.S. House,4,REP,Art Robinson,109
+Linn,82,U.S. House,4,REP,Art Robinson,45
+Linn,84,U.S. House,4,REP,Art Robinson,48
+Linn,86,U.S. House,4,REP,Art Robinson,220
+Linn,88,U.S. House,4,REP,Art Robinson,88
+Linn,89,U.S. House,4,REP,Art Robinson,86
+Linn,91,U.S. House,4,REP,Art Robinson,82
+Linn,92,U.S. House,4,REP,Art Robinson,141
+Linn,93,U.S. House,4,REP,Art Robinson,148
+Linn,94,U.S. House,4,REP,Art Robinson,63
+Linn,95,U.S. House,4,REP,Art Robinson,104
+Linn,96,U.S. House,4,REP,Art Robinson,152
+Linn,97,U.S. House,4,REP,Art Robinson,222
+Linn,99,U.S. House,4,REP,Art Robinson,62
+Linn,100,U.S. House,4,REP,Art Robinson,142
+Linn,101,U.S. House,4,REP,Art Robinson,69
+Linn,102,U.S. House,4,REP,Art Robinson,117
+Linn,103,U.S. House,4,REP,Art Robinson,138
+Linn,104,U.S. House,4,REP,Art Robinson,72
+Linn,105,U.S. House,4,REP,Art Robinson,48
+Linn,106,U.S. House,4,REP,Art Robinson,69
+Linn,107,U.S. House,4,REP,Art Robinson,105
+Linn,108,U.S. House,4,REP,Art Robinson,159
+Linn,Total,U.S. House,4,REP,Art Robinson,7735
 Linn,1,U.S. House,4,REP,Write-ins,0
 Linn,3,U.S. House,4,REP,Write-ins,0
 Linn,5,U.S. House,4,REP,Write-ins,2
@@ -2182,7 +2182,7 @@ Linn,105,U.S. House,4,REP,Write-ins,1
 Linn,106,U.S. House,4,REP,Write-ins,0
 Linn,107,U.S. House,4,REP,Write-ins,0
 Linn,108,U.S. House,4,REP,Write-ins,1
-Linn,,U.S. House,4,REP,Write-ins,48
+Linn,Total,U.S. House,4,REP,Write-ins,48
 Linn,1,Governor,,REP,Bill Sizemore,8
 Linn,3,Governor,,REP,Bill Sizemore,3
 Linn,5,Governor,,REP,Bill Sizemore,4
@@ -2262,7 +2262,7 @@ Linn,105,Governor,,REP,Bill Sizemore,8
 Linn,106,Governor,,REP,Bill Sizemore,4
 Linn,107,Governor,,REP,Bill Sizemore,7
 Linn,108,Governor,,REP,Bill Sizemore,15
-Linn,,Governor,,REP,Bill Sizemore,768
+Linn,Total,Governor,,REP,Bill Sizemore,768
 Linn,1,Governor,,REP,John Lim,10
 Linn,3,Governor,,REP,John Lim,11
 Linn,5,Governor,,REP,John Lim,11
@@ -2342,7 +2342,7 @@ Linn,105,Governor,,REP,John Lim,12
 Linn,106,Governor,,REP,John Lim,14
 Linn,107,Governor,,REP,John Lim,20
 Linn,108,Governor,,REP,John Lim,41
-Linn,,Governor,,REP,John Lim,1743
+Linn,Total,Governor,,REP,John Lim,1743
 Linn,1,Governor,,REP,Darren Karr,1
 Linn,3,Governor,,REP,Darren Karr,0
 Linn,5,Governor,,REP,Darren Karr,2
@@ -2422,7 +2422,7 @@ Linn,105,Governor,,REP,Darren Karr,0
 Linn,106,Governor,,REP,Darren Karr,0
 Linn,107,Governor,,REP,Darren Karr,0
 Linn,108,Governor,,REP,Darren Karr,3
-Linn,,Governor,,REP,Darren Karr,38
+Linn,Total,Governor,,REP,Darren Karr,38
 Linn,1,Governor,,REP,Clark Colvin,0
 Linn,3,Governor,,REP,Clark Colvin,0
 Linn,5,Governor,,REP,Clark Colvin,0
@@ -2502,7 +2502,7 @@ Linn,105,Governor,,REP,Clark Colvin,1
 Linn,106,Governor,,REP,Clark Colvin,0
 Linn,107,Governor,,REP,Clark Colvin,0
 Linn,108,Governor,,REP,Clark Colvin,3
-Linn,,Governor,,REP,Clark Colvin,31
+Linn,Total,Governor,,REP,Clark Colvin,31
 Linn,1,Governor,,REP,William Curtwright,1
 Linn,3,Governor,,REP,William Curtwright,0
 Linn,5,Governor,,REP,William Curtwright,4
@@ -2582,7 +2582,7 @@ Linn,105,Governor,,REP,William Curtwright,0
 Linn,106,Governor,,REP,William Curtwright,6
 Linn,107,Governor,,REP,William Curtwright,2
 Linn,108,Governor,,REP,William Curtwright,12
-Linn,,Governor,,REP,William Curtwright,381
+Linn,Total,Governor,,REP,William Curtwright,381
 Linn,1,Governor,,REP,Chris Dudley,44
 Linn,3,Governor,,REP,Chris Dudley,44
 Linn,5,Governor,,REP,Chris Dudley,37
@@ -2662,7 +2662,7 @@ Linn,105,Governor,,REP,Chris Dudley,34
 Linn,106,Governor,,REP,Chris Dudley,54
 Linn,107,Governor,,REP,Chris Dudley,95
 Linn,108,Governor,,REP,Chris Dudley,103
-Linn,,Governor,,REP,Chris Dudley,4880
+Linn,Total,Governor,,REP,Chris Dudley,4880
 Linn,1,Governor,,REP,Bob Forthan,0
 Linn,3,Governor,,REP,Bob Forthan,0
 Linn,5,Governor,,REP,Bob Forthan,0
@@ -2742,7 +2742,7 @@ Linn,105,Governor,,REP,Bob Forthan,0
 Linn,106,Governor,,REP,Bob Forthan,0
 Linn,107,Governor,,REP,Bob Forthan,3
 Linn,108,Governor,,REP,Bob Forthan,1
-Linn,,Governor,,REP,Bob Forthan,30
+Linn,Total,Governor,,REP,Bob Forthan,30
 Linn,1,Governor,,REP,Allen Alley,31
 Linn,3,Governor,,REP,Allen Alley,18
 Linn,5,Governor,,REP,Allen Alley,21
@@ -2822,7 +2822,7 @@ Linn,105,Governor,,REP,Allen Alley,15
 Linn,106,Governor,,REP,Allen Alley,22
 Linn,107,Governor,,REP,Allen Alley,54
 Linn,108,Governor,,REP,Allen Alley,42
-Linn,,Governor,,REP,Allen Alley,3083
+Linn,Total,Governor,,REP,Allen Alley,3083
 Linn,1,Governor,,REP,Rex Watkins,1
 Linn,3,Governor,,REP,Rex Watkins,1
 Linn,5,Governor,,REP,Rex Watkins,2
@@ -2902,7 +2902,7 @@ Linn,105,Governor,,REP,Rex Watkins,6
 Linn,106,Governor,,REP,Rex Watkins,9
 Linn,107,Governor,,REP,Rex Watkins,4
 Linn,108,Governor,,REP,Rex Watkins,3
-Linn,,Governor,,REP,Rex Watkins,253
+Linn,Total,Governor,,REP,Rex Watkins,253
 Linn,1,Governor,,REP,Write-ins,0
 Linn,3,Governor,,REP,Write-ins,0
 Linn,5,Governor,,REP,Write-ins,1
@@ -2982,7 +2982,7 @@ Linn,105,Governor,,REP,Write-ins,0
 Linn,106,Governor,,REP,Write-ins,1
 Linn,107,Governor,,REP,Write-ins,1
 Linn,108,Governor,,REP,Write-ins,2
-Linn,,Governor,,REP,Write-ins,62
+Linn,Total,Governor,,REP,Write-ins,62
 Linn,1,State Treasurer,,REP,Chris Telfer,62
 Linn,3,State Treasurer,,REP,Chris Telfer,55
 Linn,5,State Treasurer,,REP,Chris Telfer,56
@@ -3062,7 +3062,7 @@ Linn,105,State Treasurer,,REP,Chris Telfer,47
 Linn,106,State Treasurer,,REP,Chris Telfer,74
 Linn,107,State Treasurer,,REP,Chris Telfer,108
 Linn,108,State Treasurer,,REP,Chris Telfer,169
-Linn,,State Treasurer,,REP,Chris Teller,7206
+Linn,Total,State Treasurer,,REP,Chris Teller,7206
 Linn,1,State Treasurer,,REP,Write-ins,0
 Linn,3,State Treasurer,,REP,Write-ins,0
 Linn,5,State Treasurer,,REP,Write-ins,1
@@ -3142,7 +3142,7 @@ Linn,105,State Treasurer,,REP,Write-ins,2
 Linn,106,State Treasurer,,REP,Write-ins,0
 Linn,107,State Treasurer,,REP,Write-ins,2
 Linn,108,State Treasurer,,REP,Write-ins,3
-Linn,,State Treasurer,,REP,Write-ins,89
+Linn,Total,State Treasurer,,REP,Write-ins,89
 Linn,1,State Senate,8,REP,Frank Morse,78
 Linn,3,State Senate,8,REP,Frank Morse,65
 Linn,5,State Senate,8,REP,Frank Morse,63
@@ -3175,7 +3175,7 @@ Linn,102,State Senate,8,REP,Frank Morse,132
 Linn,105,State Senate,8,REP,Frank Morse,50
 Linn,106,State Senate,8,REP,Frank Morse,87
 Linn,107,State Senate,8,REP,Frank Morse,135
-Linn,,State Senate,8,REP,Frank Morse,3604
+Linn,Total,State Senate,8,REP,Frank Morse,3604
 Linn,1,State Senate,8,REP,Write-ins,1
 Linn,3,State Senate,8,REP,Write-ins,0
 Linn,5,State Senate,8,REP,Write-ins,0
@@ -3208,7 +3208,7 @@ Linn,102,State Senate,8,REP,Write-ins,2
 Linn,105,State Senate,8,REP,Write-ins,2
 Linn,106,State Senate,8,REP,Write-ins,0
 Linn,107,State Senate,8,REP,Write-ins,3
-Linn,,State Senate,8,REP,Write-ins,37
+Linn,Total,State Senate,8,REP,Write-ins,37
 Linn,21,State Senate,6,REP,Write-ins,20
 Linn,22,State Senate,6,REP,Write-ins,1
 Linn,23,State Senate,6,REP,Write-ins,30
