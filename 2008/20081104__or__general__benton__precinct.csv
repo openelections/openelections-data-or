@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes
-Benton,0001 01A,President,,Green,Ralph Nader,2
+Benton,0001 01A,President,,PCE,Ralph Nader,2
 Benton,0001 01A,President,,Pacific Green,Cynthia McKinney,0
 Benton,0001 01A,President,,Republican,John McCain,94
 Benton,0001 01A,President,,Libertarian,Bob Barr,3
@@ -8,7 +8,7 @@ Benton,0001 01A,President,,Democrat,Barack Obama,109
 Benton,0001 01A,President,,,Write-ins,1
 Benton,0001 01A,President,,,Over Votes,0
 Benton,0001 01A,President,,,Under Votes,2
-Benton,0002 01B,President,,Green,Ralph Nader,25
+Benton,0002 01B,President,,PCE,Ralph Nader,25
 Benton,0002 01B,President,,Pacific Green,Cynthia McKinney,5
 Benton,0002 01B,President,,Republican,John McCain,1173
 Benton,0002 01B,President,,Libertarian,Bob Barr,12
@@ -17,7 +17,7 @@ Benton,0002 01B,President,,Democrat,Barack Obama,2726
 Benton,0002 01B,President,,,Write-ins,21
 Benton,0002 01B,President,,,Over Votes,3
 Benton,0002 01B,President,,,Under Votes,31
-Benton,0003 02A,President,,Green,Ralph Nader,6
+Benton,0003 02A,President,,PCE,Ralph Nader,6
 Benton,0003 02A,President,,Pacific Green,Cynthia McKinney,0
 Benton,0003 02A,President,,Republican,John McCain,16
 Benton,0003 02A,President,,Libertarian,Bob Barr,0
@@ -26,7 +26,7 @@ Benton,0003 02A,President,,Democrat,Barack Obama,140
 Benton,0003 02A,President,,,Write-ins,0
 Benton,0003 02A,President,,,Over Votes,0
 Benton,0003 02A,President,,,Under Votes,2
-Benton,0004 02B,President,,Green,Ralph Nader,19
+Benton,0004 02B,President,,PCE,Ralph Nader,19
 Benton,0004 02B,President,,Pacific Green,Cynthia McKinney,14
 Benton,0004 02B,President,,Republican,John McCain,410
 Benton,0004 02B,President,,Libertarian,Bob Barr,15
@@ -35,7 +35,7 @@ Benton,0004 02B,President,,Democrat,Barack Obama,1689
 Benton,0004 02B,President,,,Write-ins,25
 Benton,0004 02B,President,,,Over Votes,4
 Benton,0004 02B,President,,,Under Votes,8
-Benton,0005 03A,President,,Green,Ralph Nader,40
+Benton,0005 03A,President,,PCE,Ralph Nader,40
 Benton,0005 03A,President,,Pacific Green,Cynthia McKinney,17
 Benton,0005 03A,President,,Republican,John McCain,776
 Benton,0005 03A,President,,Libertarian,Bob Barr,19
@@ -44,7 +44,7 @@ Benton,0005 03A,President,,Democrat,Barack Obama,1935
 Benton,0005 03A,President,,,Write-ins,23
 Benton,0005 03A,President,,,Over Votes,1
 Benton,0005 03A,President,,,Under Votes,16
-Benton,0006 03B,President,,Green,Ralph Nader,4
+Benton,0006 03B,President,,PCE,Ralph Nader,4
 Benton,0006 03B,President,,Pacific Green,Cynthia McKinney,6
 Benton,0006 03B,President,,Republican,John McCain,92
 Benton,0006 03B,President,,Libertarian,Bob Barr,3
@@ -53,7 +53,7 @@ Benton,0006 03B,President,,Democrat,Barack Obama,403
 Benton,0006 03B,President,,,Write-ins,9
 Benton,0006 03B,President,,,Over Votes,1
 Benton,0006 03B,President,,,Under Votes,4
-Benton,0007 04A,President,,Green,Ralph Nader,2
+Benton,0007 04A,President,,PCE,Ralph Nader,2
 Benton,0007 04A,President,,Pacific Green,Cynthia McKinney,0
 Benton,0007 04A,President,,Republican,John McCain,10
 Benton,0007 04A,President,,Libertarian,Bob Barr,0
@@ -62,7 +62,7 @@ Benton,0007 04A,President,,Democrat,Barack Obama,53
 Benton,0007 04A,President,,,Write-ins,0
 Benton,0007 04A,President,,,Over Votes,0
 Benton,0007 04A,President,,,Under Votes,0
-Benton,0008 04B,President,,Green,Ralph Nader,10
+Benton,0008 04B,President,,PCE,Ralph Nader,10
 Benton,0008 04B,President,,Pacific Green,Cynthia McKinney,6
 Benton,0008 04B,President,,Republican,John McCain,432
 Benton,0008 04B,President,,Libertarian,Bob Barr,9
@@ -71,7 +71,7 @@ Benton,0008 04B,President,,Democrat,Barack Obama,1472
 Benton,0008 04B,President,,,Write-ins,11
 Benton,0008 04B,President,,,Over Votes,0
 Benton,0008 04B,President,,,Under Votes,15
-Benton,0009 05A,President,,Green,Ralph Nader,29
+Benton,0009 05A,President,,PCE,Ralph Nader,29
 Benton,0009 05A,President,,Pacific Green,Cynthia McKinney,13
 Benton,0009 05A,President,,Republican,John McCain,395
 Benton,0009 05A,President,,Libertarian,Bob Barr,14
@@ -80,7 +80,7 @@ Benton,0009 05A,President,,Democrat,Barack Obama,2250
 Benton,0009 05A,President,,,Write-ins,21
 Benton,0009 05A,President,,,Over Votes,3
 Benton,0009 05A,President,,,Under Votes,18
-Benton,0010 05B,President,,Green,Ralph Nader,0
+Benton,0010 05B,President,,PCE,Ralph Nader,0
 Benton,0010 05B,President,,Pacific Green,Cynthia McKinney,0
 Benton,0010 05B,President,,Republican,John McCain,27
 Benton,0010 05B,President,,Libertarian,Bob Barr,1
@@ -89,7 +89,7 @@ Benton,0010 05B,President,,Democrat,Barack Obama,52
 Benton,0010 05B,President,,,Write-ins,3
 Benton,0010 05B,President,,,Over Votes,0
 Benton,0010 05B,President,,,Under Votes,2
-Benton,0011 06,President,,Green,Ralph Nader,32
+Benton,0011 06,President,,PCE,Ralph Nader,32
 Benton,0011 06,President,,Pacific Green,Cynthia McKinney,13
 Benton,0011 06,President,,Republican,John McCain,655
 Benton,0011 06,President,,Libertarian,Bob Barr,9
@@ -98,7 +98,7 @@ Benton,0011 06,President,,Democrat,Barack Obama,2006
 Benton,0011 06,President,,,Write-ins,28
 Benton,0011 06,President,,,Over Votes,3
 Benton,0011 06,President,,,Under Votes,19
-Benton,0012 07A,President,,Green,Ralph Nader,27
+Benton,0012 07A,President,,PCE,Ralph Nader,27
 Benton,0012 07A,President,,Pacific Green,Cynthia McKinney,6
 Benton,0012 07A,President,,Republican,John McCain,872
 Benton,0012 07A,President,,Libertarian,Bob Barr,15
@@ -107,7 +107,7 @@ Benton,0012 07A,President,,Democrat,Barack Obama,2561
 Benton,0012 07A,President,,,Write-ins,19
 Benton,0012 07A,President,,,Over Votes,0
 Benton,0012 07A,President,,,Under Votes,27
-Benton,0013 07B,President,,Green,Ralph Nader,2
+Benton,0013 07B,President,,PCE,Ralph Nader,2
 Benton,0013 07B,President,,Pacific Green,Cynthia McKinney,0
 Benton,0013 07B,President,,Republican,John McCain,38
 Benton,0013 07B,President,,Libertarian,Bob Barr,1
@@ -116,7 +116,7 @@ Benton,0013 07B,President,,Democrat,Barack Obama,67
 Benton,0013 07B,President,,,Write-ins,0
 Benton,0013 07B,President,,,Over Votes,0
 Benton,0013 07B,President,,,Under Votes,0
-Benton,0014 08,President,,Green,Ralph Nader,31
+Benton,0014 08,President,,PCE,Ralph Nader,31
 Benton,0014 08,President,,Pacific Green,Cynthia McKinney,6
 Benton,0014 08,President,,Republican,John McCain,1042
 Benton,0014 08,President,,Libertarian,Bob Barr,12
@@ -125,7 +125,7 @@ Benton,0014 08,President,,Democrat,Barack Obama,2801
 Benton,0014 08,President,,,Write-ins,18
 Benton,0014 08,President,,,Over Votes,1
 Benton,0014 08,President,,,Under Votes,21
-Benton,0015 09,President,,Green,Ralph Nader,27
+Benton,0015 09,President,,PCE,Ralph Nader,27
 Benton,0015 09,President,,Pacific Green,Cynthia McKinney,7
 Benton,0015 09,President,,Republican,John McCain,813
 Benton,0015 09,President,,Libertarian,Bob Barr,10
@@ -134,7 +134,7 @@ Benton,0015 09,President,,Democrat,Barack Obama,1744
 Benton,0015 09,President,,,Write-ins,25
 Benton,0015 09,President,,,Over Votes,2
 Benton,0015 09,President,,,Under Votes,21
-Benton,0016 10A,President,,Green,Ralph Nader,14
+Benton,0016 10A,President,,PCE,Ralph Nader,14
 Benton,0016 10A,President,,Pacific Green,Cynthia McKinney,11
 Benton,0016 10A,President,,Republican,John McCain,773
 Benton,0016 10A,President,,Libertarian,Bob Barr,4
@@ -143,7 +143,7 @@ Benton,0016 10A,President,,Democrat,Barack Obama,968
 Benton,0016 10A,President,,,Write-ins,18
 Benton,0016 10A,President,,,Over Votes,1
 Benton,0016 10A,President,,,Under Votes,12
-Benton,0017 10B,President,,Green,Ralph Nader,1
+Benton,0017 10B,President,,PCE,Ralph Nader,1
 Benton,0017 10B,President,,Pacific Green,Cynthia McKinney,3
 Benton,0017 10B,President,,Republican,John McCain,124
 Benton,0017 10B,President,,Libertarian,Bob Barr,3
@@ -152,7 +152,7 @@ Benton,0017 10B,President,,Democrat,Barack Obama,188
 Benton,0017 10B,President,,,Write-ins,3
 Benton,0017 10B,President,,,Over Votes,0
 Benton,0017 10B,President,,,Under Votes,3
-Benton,0018 11A,President,,Green,Ralph Nader,4
+Benton,0018 11A,President,,PCE,Ralph Nader,4
 Benton,0018 11A,President,,Pacific Green,Cynthia McKinney,0
 Benton,0018 11A,President,,Republican,John McCain,411
 Benton,0018 11A,President,,Libertarian,Bob Barr,1
@@ -161,7 +161,7 @@ Benton,0018 11A,President,,Democrat,Barack Obama,344
 Benton,0018 11A,President,,,Write-ins,7
 Benton,0018 11A,President,,,Over Votes,0
 Benton,0018 11A,President,,,Under Votes,3
-Benton,0019 11B,President,,Green,Ralph Nader,21
+Benton,0019 11B,President,,PCE,Ralph Nader,21
 Benton,0019 11B,President,,Pacific Green,Cynthia McKinney,7
 Benton,0019 11B,President,,Republican,John McCain,1654
 Benton,0019 11B,President,,Libertarian,Bob Barr,14
@@ -170,7 +170,7 @@ Benton,0019 11B,President,,Democrat,Barack Obama,1513
 Benton,0019 11B,President,,,Write-ins,20
 Benton,0019 11B,President,,,Over Votes,1
 Benton,0019 11B,President,,,Under Votes,21
-Benton,0020 12,President,,Green,Ralph Nader,6
+Benton,0020 12,President,,PCE,Ralph Nader,6
 Benton,0020 12,President,,Pacific Green,Cynthia McKinney,1
 Benton,0020 12,President,,Republican,John McCain,200
 Benton,0020 12,President,,Libertarian,Bob Barr,8
@@ -179,7 +179,7 @@ Benton,0020 12,President,,Democrat,Barack Obama,165
 Benton,0020 12,President,,,Write-ins,3
 Benton,0020 12,President,,,Over Votes,0
 Benton,0020 12,President,,,Under Votes,2
-Benton,0021 13,President,,Green,Ralph Nader,9
+Benton,0021 13,President,,PCE,Ralph Nader,9
 Benton,0021 13,President,,Pacific Green,Cynthia McKinney,0
 Benton,0021 13,President,,Republican,John McCain,123
 Benton,0021 13,President,,Libertarian,Bob Barr,0
@@ -188,7 +188,7 @@ Benton,0021 13,President,,Democrat,Barack Obama,141
 Benton,0021 13,President,,,Write-ins,3
 Benton,0021 13,President,,,Over Votes,0
 Benton,0021 13,President,,,Under Votes,2
-Benton,0022 14,President,,Green,Ralph Nader,20
+Benton,0022 14,President,,PCE,Ralph Nader,20
 Benton,0022 14,President,,Pacific Green,Cynthia McKinney,3
 Benton,0022 14,President,,Republican,John McCain,283
 Benton,0022 14,President,,Libertarian,Bob Barr,6
@@ -197,7 +197,7 @@ Benton,0022 14,President,,Democrat,Barack Obama,245
 Benton,0022 14,President,,,Write-ins,7
 Benton,0022 14,President,,,Over Votes,1
 Benton,0022 14,President,,,Under Votes,8
-Benton,0023 15A,President,,Green,Ralph Nader,23
+Benton,0023 15A,President,,PCE,Ralph Nader,23
 Benton,0023 15A,President,,Pacific Green,Cynthia McKinney,14
 Benton,0023 15A,President,,Republican,John McCain,1084
 Benton,0023 15A,President,,Libertarian,Bob Barr,17
@@ -206,7 +206,7 @@ Benton,0023 15A,President,,Democrat,Barack Obama,1341
 Benton,0023 15A,President,,,Write-ins,12
 Benton,0023 15A,President,,,Over Votes,2
 Benton,0023 15A,President,,,Under Votes,16
-Benton,0024 15B,President,,Green,Ralph Nader,0
+Benton,0024 15B,President,,PCE,Ralph Nader,0
 Benton,0024 15B,President,,Pacific Green,Cynthia McKinney,0
 Benton,0024 15B,President,,Republican,John McCain,0
 Benton,0024 15B,President,,Libertarian,Bob Barr,0
@@ -215,7 +215,7 @@ Benton,0024 15B,President,,Democrat,Barack Obama,0
 Benton,0024 15B,President,,,Write-ins,0
 Benton,0024 15B,President,,,Over Votes,0
 Benton,0024 15B,President,,,Under Votes,0
-Benton,0025 16A,President,,Green,Ralph Nader,5
+Benton,0025 16A,President,,PCE,Ralph Nader,5
 Benton,0025 16A,President,,Pacific Green,Cynthia McKinney,2
 Benton,0025 16A,President,,Republican,John McCain,194
 Benton,0025 16A,President,,Libertarian,Bob Barr,1
@@ -224,7 +224,7 @@ Benton,0025 16A,President,,Democrat,Barack Obama,321
 Benton,0025 16A,President,,,Write-ins,2
 Benton,0025 16A,President,,,Over Votes,0
 Benton,0025 16A,President,,,Under Votes,1
-Benton,0026 16B,President,,Green,Ralph Nader,10
+Benton,0026 16B,President,,PCE,Ralph Nader,10
 Benton,0026 16B,President,,Pacific Green,Cynthia McKinney,3
 Benton,0026 16B,President,,Republican,John McCain,425
 Benton,0026 16B,President,,Libertarian,Bob Barr,5
@@ -233,7 +233,7 @@ Benton,0026 16B,President,,Democrat,Barack Obama,781
 Benton,0026 16B,President,,,Write-ins,9
 Benton,0026 16B,President,,,Over Votes,1
 Benton,0026 16B,President,,,Under Votes,8
-Benton,0027 17A,President,,Green,Ralph Nader,5
+Benton,0027 17A,President,,PCE,Ralph Nader,5
 Benton,0027 17A,President,,Pacific Green,Cynthia McKinney,4
 Benton,0027 17A,President,,Republican,John McCain,313
 Benton,0027 17A,President,,Libertarian,Bob Barr,1
@@ -242,7 +242,7 @@ Benton,0027 17A,President,,Democrat,Barack Obama,463
 Benton,0027 17A,President,,,Write-ins,5
 Benton,0027 17A,President,,,Over Votes,0
 Benton,0027 17A,President,,,Under Votes,5
-Benton,0028 17B,President,,Green,Ralph Nader,18
+Benton,0028 17B,President,,PCE,Ralph Nader,18
 Benton,0028 17B,President,,Pacific Green,Cynthia McKinney,7
 Benton,0028 17B,President,,Republican,John McCain,796
 Benton,0028 17B,President,,Libertarian,Bob Barr,16
@@ -251,7 +251,7 @@ Benton,0028 17B,President,,Democrat,Barack Obama,1376
 Benton,0028 17B,President,,,Write-ins,15
 Benton,0028 17B,President,,,Over Votes,0
 Benton,0028 17B,President,,,Under Votes,13
-Benton,0029 18A,President,,Green,Ralph Nader,0
+Benton,0029 18A,President,,PCE,Ralph Nader,0
 Benton,0029 18A,President,,Pacific Green,Cynthia McKinney,0
 Benton,0029 18A,President,,Republican,John McCain,0
 Benton,0029 18A,President,,Libertarian,Bob Barr,1
@@ -260,7 +260,7 @@ Benton,0029 18A,President,,Democrat,Barack Obama,16
 Benton,0029 18A,President,,,Write-ins,0
 Benton,0029 18A,President,,,Over Votes,0
 Benton,0029 18A,President,,,Under Votes,0
-Benton,0030 18B,President,,Green,Ralph Nader,3
+Benton,0030 18B,President,,PCE,Ralph Nader,3
 Benton,0030 18B,President,,Pacific Green,Cynthia McKinney,4
 Benton,0030 18B,President,,Republican,John McCain,739
 Benton,0030 18B,President,,Libertarian,Bob Barr,6
@@ -269,7 +269,7 @@ Benton,0030 18B,President,,Democrat,Barack Obama,543
 Benton,0030 18B,President,,,Write-ins,12
 Benton,0030 18B,President,,,Over Votes,0
 Benton,0030 18B,President,,,Under Votes,13
-Benton,0031 19A,President,,Green,Ralph Nader,11
+Benton,0031 19A,President,,PCE,Ralph Nader,11
 Benton,0031 19A,President,,Pacific Green,Cynthia McKinney,7
 Benton,0031 19A,President,,Republican,John McCain,627
 Benton,0031 19A,President,,Libertarian,Bob Barr,4
@@ -278,7 +278,7 @@ Benton,0031 19A,President,,Democrat,Barack Obama,873
 Benton,0031 19A,President,,,Write-ins,6
 Benton,0031 19A,President,,,Over Votes,1
 Benton,0031 19A,President,,,Under Votes,7
-Benton,0032 19B,President,,Green,Ralph Nader,1
+Benton,0032 19B,President,,PCE,Ralph Nader,1
 Benton,0032 19B,President,,Pacific Green,Cynthia McKinney,0
 Benton,0032 19B,President,,Republican,John McCain,17
 Benton,0032 19B,President,,Libertarian,Bob Barr,0
@@ -287,7 +287,7 @@ Benton,0032 19B,President,,Democrat,Barack Obama,39
 Benton,0032 19B,President,,,Write-ins,0
 Benton,0032 19B,President,,,Over Votes,1
 Benton,0032 19B,President,,,Under Votes,0
-Benton,0033 20,President,,Green,Ralph Nader,20
+Benton,0033 20,President,,PCE,Ralph Nader,20
 Benton,0033 20,President,,Pacific Green,Cynthia McKinney,10
 Benton,0033 20,President,,Republican,John McCain,656
 Benton,0033 20,President,,Libertarian,Bob Barr,4

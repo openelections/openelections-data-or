@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes
-Wheeler,Fossil,U.S. Senate,,,Gordon H. Smith,200
-Wheeler,Mitchell,U.S. Senate,,,Gordon H. Smith,149
-Wheeler,Spray,U.S. Senate,,,Gordon H. Smith,160
-Wheeler,Fossil,U.S. Senate,,,Jeff Merkley,110
-Wheeler,Mitchell,U.S. Senate,,,Jeff Merkley,58
-Wheeler,Spray,U.S. Senate,,,Jeff Merkley,44
-Wheeler,Fossil,U.S. Senate,,,Dave Brownlow,30
-Wheeler,Mitchell,U.S. Senate,,,Dave Brownlow,18
-Wheeler,Spray,U.S. Senate,,,Dave Brownlow,20
+Wheeler,Fossil,U.S. Senate,,REP,Gordon H. Smith,200
+Wheeler,Mitchell,U.S. Senate,,REP,Gordon H. Smith,149
+Wheeler,Spray,U.S. Senate,,REP,Gordon H. Smith,160
+Wheeler,Fossil,U.S. Senate,,DEM,Jeff Merkley,110
+Wheeler,Mitchell,U.S. Senate,,DEM,Jeff Merkley,58
+Wheeler,Spray,U.S. Senate,,DEM,Jeff Merkley,44
+Wheeler,Fossil,U.S. Senate,,CON,Dave Brownlow,30
+Wheeler,Mitchell,U.S. Senate,,CON,Dave Brownlow,18
+Wheeler,Spray,U.S. Senate,,CON,Dave Brownlow,20
 Wheeler,Fossil,U.S. Senate,,,Write-ins,1
 Wheeler,Mitchell,U.S. Senate,,,Write-ins,1
 Wheeler,Spray,U.S. Senate,,,Write-ins,0
@@ -17,24 +17,24 @@ Wheeler,Spray,U.S. Senate,,,Over Votes,0
 Wheeler,Fossil,U.S. Senate,,,Under Votes,21
 Wheeler,Mitchell,U.S. Senate,,,Under Votes,9
 Wheeler,Spray,U.S. Senate,,,Under Votes,9
-Wheeler,Fossil,President,,,Ralph Nader,6
-Wheeler,Mitchell,President,,,Ralph Nader,4
-Wheeler,Spray,President,,,Ralph Nader,1
-Wheeler,Fossil,President,,,Cynthia McKinney,0
-Wheeler,Mitchell,President,,,Cynthia McKinney,0
-Wheeler,Spray,President,,,Cynthia McKinney,1
-Wheeler,Fossil,President,,,John McCain,184
-Wheeler,Mitchell,President,,,John McCain,144
-Wheeler,Spray,President,,,John McCain,170
-Wheeler,Fossil,President,,,Bob Barr,3
-Wheeler,Mitchell,President,,,Bob Barr,4
-Wheeler,Spray,President,,,Bob Barr,2
-Wheeler,Fossil,President,,,Chuck Baldwin,4
-Wheeler,Mitchell,President,,,Chuck Baldwin,0
-Wheeler,Spray,President,,,Chuck Baldwin,1
-Wheeler,Fossil,President,,,Barack Obama,152
-Wheeler,Mitchell,President,,,Barack Obama,75
-Wheeler,Spray,President,,,Barack Obama,54
+Wheeler,Fossil,President,,PCE,Ralph Nader,6
+Wheeler,Mitchell,President,,PCE,Ralph Nader,4
+Wheeler,Spray,President,,PCE,Ralph Nader,1
+Wheeler,Fossil,President,,PAC,Cynthia McKinney,0
+Wheeler,Mitchell,President,,PAC,Cynthia McKinney,0
+Wheeler,Spray,President,,PAC,Cynthia McKinney,1
+Wheeler,Fossil,President,,REP,John McCain,184
+Wheeler,Mitchell,President,,REP,John McCain,144
+Wheeler,Spray,President,,REP,John McCain,170
+Wheeler,Fossil,President,,LIB,Bob Barr,3
+Wheeler,Mitchell,President,,LIB,Bob Barr,4
+Wheeler,Spray,President,,LIB,Bob Barr,2
+Wheeler,Fossil,President,,CON,Chuck Baldwin,4
+Wheeler,Mitchell,President,,CON,Chuck Baldwin,0
+Wheeler,Spray,President,,CON,Chuck Baldwin,1
+Wheeler,Fossil,President,,DEM,Barack Obama,152
+Wheeler,Mitchell,President,,DEM,Barack Obama,75
+Wheeler,Spray,President,,DEM,Barack Obama,54
 Wheeler,Fossil,President,,,Write-ins,3
 Wheeler,Mitchell,President,,,Write-ins,3
 Wheeler,Spray,President,,,Write-ins,1
@@ -44,15 +44,15 @@ Wheeler,Spray,President,,,Over Votes,0
 Wheeler,Fossil,President,,,Under Votes,10
 Wheeler,Mitchell,President,,,Under Votes,5
 Wheeler,Spray,President,,,Under Votes,3
-Wheeler,Fossil,Secretary of State,,,Kate Brown,134
-Wheeler,Mitchell,Secretary of State,,,Kate Brown,80
-Wheeler,Spray,Secretary of State,,,Kate Brown,50
-Wheeler,Fossil,Secretary of State,,,Seth Alan Woolley,7
-Wheeler,Mitchell,Secretary of State,,,Seth Alan Woolley,4
-Wheeler,Spray,Secretary of State,,,Seth Alan Woolley,3
-Wheeler,Fossil,Secretary of State,,,Rick Dancer,185
-Wheeler,Mitchell,Secretary of State,,,Rick Dancer,142
-Wheeler,Spray,Secretary of State,,,Rick Dancer,166
+Wheeler,Fossil,Secretary of State,,DEM,Kate Brown,134
+Wheeler,Mitchell,Secretary of State,,DEM,Kate Brown,80
+Wheeler,Spray,Secretary of State,,DEM,Kate Brown,50
+Wheeler,Fossil,Secretary of State,,PAC,Seth Alan Woolley,7
+Wheeler,Mitchell,Secretary of State,,PAC,Seth Alan Woolley,4
+Wheeler,Spray,Secretary of State,,PAC,Seth Alan Woolley,3
+Wheeler,Fossil,Secretary of State,,REP,Rick Dancer,185
+Wheeler,Mitchell,Secretary of State,,REP,Rick Dancer,142
+Wheeler,Spray,Secretary of State,,REP,Rick Dancer,166
 Wheeler,Fossil,Secretary of State,,,Write-ins,0
 Wheeler,Mitchell,Secretary of State,,,Write-ins,1
 Wheeler,Spray,Secretary of State,,,Write-ins,0
@@ -62,18 +62,18 @@ Wheeler,Spray,Secretary of State,,,Over Votes,0
 Wheeler,Fossil,Secretary of State,,,Under Votes,36
 Wheeler,Mitchell,Secretary of State,,,Under Votes,8
 Wheeler,Spray,Secretary of State,,,Under Votes,14
-Wheeler,Fossil,U.S. House,2,,Richard D. Hake,8
-Wheeler,Mitchell,U.S. House,2,,Richard D. Hake,4
-Wheeler,Spray,U.S. House,2,,Richard D. Hake,9
-Wheeler,Fossil,U.S. House,2,,Tristin Mock,3
-Wheeler,Mitchell,U.S. House,2,,Tristin Mock,1
-Wheeler,Spray,U.S. House,2,,Tristin Mock,7
-Wheeler,Fossil,U.S. House,2,,Greg Walden,237
-Wheeler,Mitchell,U.S. House,2,,Greg Walden,180
-Wheeler,Spray,U.S. House,2,,Greg Walden,172
-Wheeler,Fossil,U.S. House,2,,Noah Lemas,88
-Wheeler,Mitchell,U.S. House,2,,Noah Lemas,45
-Wheeler,Spray,U.S. House,2,,Noah Lemas,28
+Wheeler,Fossil,U.S. House,2,CON,Richard D. Hake,8
+Wheeler,Mitchell,U.S. House,2,CON,Richard D. Hake,4
+Wheeler,Spray,U.S. House,2,CON,Richard D. Hake,9
+Wheeler,Fossil,U.S. House,2,PAC,Tristin Mock,3
+Wheeler,Mitchell,U.S. House,2,PAC,Tristin Mock,1
+Wheeler,Spray,U.S. House,2,PAC,Tristin Mock,7
+Wheeler,Fossil,U.S. House,2,REP,Greg Walden,237
+Wheeler,Mitchell,U.S. House,2,REP,Greg Walden,180
+Wheeler,Spray,U.S. House,2,REP,Greg Walden,172
+Wheeler,Fossil,U.S. House,2,DEM,Noah Lemas,88
+Wheeler,Mitchell,U.S. House,2,DEM,Noah Lemas,45
+Wheeler,Spray,U.S. House,2,DEM,Noah Lemas,28
 Wheeler,Fossil,U.S. House,2,,Write-ins,1
 Wheeler,Mitchell,U.S. House,2,,Write-ins,0
 Wheeler,Spray,U.S. House,2,,Write-ins,0
@@ -83,18 +83,18 @@ Wheeler,Spray,U.S. House,2,,Over Votes,0
 Wheeler,Fossil,U.S. House,2,,Under Votes,25
 Wheeler,Mitchell,U.S. House,2,,Under Votes,5
 Wheeler,Spray,U.S. House,2,,Under Votes,17
-Wheeler,Fossil,Attorney General,,,John R. Kroger,198
-Wheeler,Mitchell,Attorney General,,,John R. Kroger,110
-Wheeler,Spray,Attorney General,,,John R. Kroger,105
-Wheeler,Fossil,Attorney General,,,J. Ashlee Albies,36
-Wheeler,Mitchell,Attorney General,,,J. Ashlee Albies,45
-Wheeler,Spray,Attorney General,,,J. Ashlee Albies,35
-Wheeler,Fossil,Attorney General,,,Walter F. (Walt) Brown,16
-Wheeler,Mitchell,Attorney General,,,Walter F. (Walt) Brown,5
-Wheeler,Spray,Attorney General,,,Walter F. (Walt) Brown,10
-Wheeler,Fossil,Attorney General,,,James E. Leuenberger,30
-Wheeler,Mitchell,Attorney General,,,James E. Leuenberger,30
-Wheeler,Spray,Attorney General,,,James E. Leuenberger,31
+Wheeler,Fossil,Attorney General,,DEM,John R. Kroger,198
+Wheeler,Mitchell,Attorney General,,DEM,John R. Kroger,110
+Wheeler,Spray,Attorney General,,DEM,John R. Kroger,105
+Wheeler,Fossil,Attorney General,,WFP,J. Ashlee Albies,36
+Wheeler,Mitchell,Attorney General,,WFP,J. Ashlee Albies,45
+Wheeler,Spray,Attorney General,,WFP,J. Ashlee Albies,35
+Wheeler,Fossil,Attorney General,,PAC,Walter F. (Walt) Brown,16
+Wheeler,Mitchell,Attorney General,,PAC,Walter F. (Walt) Brown,5
+Wheeler,Spray,Attorney General,,PAC,Walter F. (Walt) Brown,10
+Wheeler,Fossil,Attorney General,,CON,James E. Leuenberger,30
+Wheeler,Mitchell,Attorney General,,CON,James E. Leuenberger,30
+Wheeler,Spray,Attorney General,,CON,James E. Leuenberger,31
 Wheeler,Fossil,Attorney General,,,Write-ins,2
 Wheeler,Mitchell,Attorney General,,,Write-ins,3
 Wheeler,Spray,Attorney General,,,Write-ins,0
@@ -104,15 +104,15 @@ Wheeler,Spray,Attorney General,,,Over Votes,0
 Wheeler,Fossil,Attorney General,,,Under Votes,79
 Wheeler,Mitchell,Attorney General,,,Under Votes,42
 Wheeler,Spray,Attorney General,,,Under Votes,52
-Wheeler,Fossil,State Treasurer,,,Allen Alley,151
-Wheeler,Mitchell,State Treasurer,,,Allen Alley,125
-Wheeler,Spray,State Treasurer,,,Allen Alley,138
-Wheeler,Fossil,State Treasurer,,,Michael Marsh,21
-Wheeler,Mitchell,State Treasurer,,,Michael Marsh,5
-Wheeler,Spray,State Treasurer,,,Michael Marsh,10
-Wheeler,Fossil,State Treasurer,,,Ben Westlund,145
-Wheeler,Mitchell,State Treasurer,,,Ben Westlund,93
-Wheeler,Spray,State Treasurer,,,Ben Westlund,59
+Wheeler,Fossil,State Treasurer,,REP,Allen Alley,151
+Wheeler,Mitchell,State Treasurer,,REP,Allen Alley,125
+Wheeler,Spray,State Treasurer,,REP,Allen Alley,138
+Wheeler,Fossil,State Treasurer,,CON,Michael Marsh,21
+Wheeler,Mitchell,State Treasurer,,CON,Michael Marsh,5
+Wheeler,Spray,State Treasurer,,CON,Michael Marsh,10
+Wheeler,Fossil,State Treasurer,,DEM,Ben Westlund,145
+Wheeler,Mitchell,State Treasurer,,DEM,Ben Westlund,93
+Wheeler,Spray,State Treasurer,,DEM,Ben Westlund,59
 Wheeler,Fossil,State Treasurer,,,Write-ins,0
 Wheeler,Mitchell,State Treasurer,,,Write-ins,1
 Wheeler,Spray,State Treasurer,,,Write-ins,0
@@ -122,12 +122,12 @@ Wheeler,Spray,State Treasurer,,,Over Votes,0
 Wheeler,Fossil,State Treasurer,,,Under Votes,45
 Wheeler,Mitchell,State Treasurer,,,Under Votes,11
 Wheeler,Spray,State Treasurer,,,Under Votes,26
-Wheeler,Fossil,State House,59,,John E. Huffman,175
-Wheeler,Mitchell,State House,59,,John E. Huffman,141
-Wheeler,Spray,State House,59,,John E. Huffman,161
-Wheeler,Fossil,State House,59,,Mike Ahern,154
-Wheeler,Mitchell,State House,59,,Mike Ahern,82
-Wheeler,Spray,State House,59,,Mike Ahern,53
+Wheeler,Fossil,State House,59,REP,John E. Huffman,175
+Wheeler,Mitchell,State House,59,REP,John E. Huffman,141
+Wheeler,Spray,State House,59,REP,John E. Huffman,161
+Wheeler,Fossil,State House,59,DEM,Mike Ahern,154
+Wheeler,Mitchell,State House,59,DEM,Mike Ahern,82
+Wheeler,Spray,State House,59,DEM,Mike Ahern,53
 Wheeler,Fossil,State House,59,,Write-ins,2
 Wheeler,Mitchell,State House,59,,Write-ins,0
 Wheeler,Spray,State House,59,,Write-ins,0
@@ -137,9 +137,9 @@ Wheeler,Spray,State House,59,,Over Votes,0
 Wheeler,Fossil,State House,59,,Under Votes,31
 Wheeler,Mitchell,State House,59,,Under Votes,12
 Wheeler,Spray,State House,59,,Under Votes,19
-Wheeler,Fossil,State Senate,30,,Ted Ferrioli,250
-Wheeler,Mitchell,State Senate,30,,Ted Ferrioli,183
-Wheeler,Spray,State Senate,30,,Ted Ferrioli,166
+Wheeler,Fossil,State Senate,30,REP,Ted Ferrioli,250
+Wheeler,Mitchell,State Senate,30,REP,Ted Ferrioli,183
+Wheeler,Spray,State Senate,30,REP,Ted Ferrioli,166
 Wheeler,Fossil,State Senate,30,,Write-ins,12
 Wheeler,Mitchell,State Senate,30,,Write-ins,3
 Wheeler,Spray,State Senate,30,,Write-ins,4
