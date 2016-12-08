@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes
-Marion,0301,President,,PEP,Ralph Nader,1
+Marion,0301,President,,PCE,Ralph Nader,1
 Marion,0301,President,,PAC,Cynthia McKinney,0
 Marion,0301,President,,REP,John McCain,37
 Marion,0301,President,,LIB,Bob Barr,0
@@ -8,7 +8,7 @@ Marion,0301,President,,DEM,Barack Obama,99
 Marion,0301,President,,,Write-ins,2
 Marion,0301,President,,,Over Votes,0
 Marion,0301,President,,,Under Votes,2
-Marion,0302,President,,PEP,Ralph Nader,3
+Marion,0302,President,,PCE,Ralph Nader,3
 Marion,0302,President,,PAC,Cynthia McKinney,1
 Marion,0302,President,,REP,John McCain,85
 Marion,0302,President,,LIB,Bob Barr,1
@@ -17,7 +17,7 @@ Marion,0302,President,,DEM,Barack Obama,156
 Marion,0302,President,,,Write-ins,4
 Marion,0302,President,,,Over Votes,0
 Marion,0302,President,,,Under Votes,11
-Marion,0303,President,,PEP,Ralph Nader,2
+Marion,0303,President,,PCE,Ralph Nader,2
 Marion,0303,President,,PAC,Cynthia McKinney,0
 Marion,0303,President,,REP,John McCain,27
 Marion,0303,President,,LIB,Bob Barr,0
@@ -26,7 +26,7 @@ Marion,0303,President,,DEM,Barack Obama,46
 Marion,0303,President,,,Write-ins,0
 Marion,0303,President,,,Over Votes,0
 Marion,0303,President,,,Under Votes,0
-Marion,0304,President,,PEP,Ralph Nader,1
+Marion,0304,President,,PCE,Ralph Nader,1
 Marion,0304,President,,PAC,Cynthia McKinney,0
 Marion,0304,President,,REP,John McCain,7
 Marion,0304,President,,LIB,Bob Barr,0
@@ -35,7 +35,7 @@ Marion,0304,President,,DEM,Barack Obama,4
 Marion,0304,President,,,Write-ins,1
 Marion,0304,President,,,Over Votes,0
 Marion,0304,President,,,Under Votes,0
-Marion,0310,President,,PEP,Ralph Nader,12
+Marion,0310,President,,PCE,Ralph Nader,12
 Marion,0310,President,,PAC,Cynthia McKinney,3
 Marion,0310,President,,REP,John McCain,352
 Marion,0310,President,,LIB,Bob Barr,6
@@ -44,7 +44,7 @@ Marion,0310,President,,DEM,Barack Obama,746
 Marion,0310,President,,,Write-ins,13
 Marion,0310,President,,,Over Votes,0
 Marion,0310,President,,,Under Votes,11
-Marion,0311,President,,PEP,Ralph Nader,2
+Marion,0311,President,,PCE,Ralph Nader,2
 Marion,0311,President,,PAC,Cynthia McKinney,0
 Marion,0311,President,,REP,John McCain,50
 Marion,0311,President,,LIB,Bob Barr,1
@@ -53,7 +53,7 @@ Marion,0311,President,,DEM,Barack Obama,103
 Marion,0311,President,,,Write-ins,3
 Marion,0311,President,,,Over Votes,0
 Marion,0311,President,,,Under Votes,2
-Marion,0312,President,,PEP,Ralph Nader,2
+Marion,0312,President,,PCE,Ralph Nader,2
 Marion,0312,President,,PAC,Cynthia McKinney,0
 Marion,0312,President,,REP,John McCain,18
 Marion,0312,President,,LIB,Bob Barr,1
@@ -62,7 +62,7 @@ Marion,0312,President,,DEM,Barack Obama,57
 Marion,0312,President,,,Write-ins,0
 Marion,0312,President,,,Over Votes,0
 Marion,0312,President,,,Under Votes,2
-Marion,0313,President,,PEP,Ralph Nader,18
+Marion,0313,President,,PCE,Ralph Nader,18
 Marion,0313,President,,PAC,Cynthia McKinney,6
 Marion,0313,President,,REP,John McCain,347
 Marion,0313,President,,LIB,Bob Barr,9
@@ -71,7 +71,7 @@ Marion,0313,President,,DEM,Barack Obama,789
 Marion,0313,President,,,Write-ins,15
 Marion,0313,President,,,Over Votes,0
 Marion,0313,President,,,Under Votes,23
-Marion,0314,President,,PEP,Ralph Nader,16
+Marion,0314,President,,PCE,Ralph Nader,16
 Marion,0314,President,,PAC,Cynthia McKinney,7
 Marion,0314,President,,REP,John McCain,740
 Marion,0314,President,,LIB,Bob Barr,14
@@ -80,7 +80,7 @@ Marion,0314,President,,DEM,Barack Obama,1158
 Marion,0314,President,,,Write-ins,12
 Marion,0314,President,,,Over Votes,5
 Marion,0314,President,,,Under Votes,28
-Marion,0315,President,,PEP,Ralph Nader,6
+Marion,0315,President,,PCE,Ralph Nader,6
 Marion,0315,President,,PAC,Cynthia McKinney,3
 Marion,0315,President,,REP,John McCain,94
 Marion,0315,President,,LIB,Bob Barr,1
@@ -89,7 +89,7 @@ Marion,0315,President,,DEM,Barack Obama,174
 Marion,0315,President,,,Write-ins,3
 Marion,0315,President,,,Over Votes,2
 Marion,0315,President,,,Under Votes,11
-Marion,0316,President,,PEP,Ralph Nader,11
+Marion,0316,President,,PCE,Ralph Nader,11
 Marion,0316,President,,PAC,Cynthia McKinney,3
 Marion,0316,President,,REP,John McCain,660
 Marion,0316,President,,LIB,Bob Barr,12
@@ -98,7 +98,7 @@ Marion,0316,President,,DEM,Barack Obama,761
 Marion,0316,President,,,Write-ins,14
 Marion,0316,President,,,Over Votes,1
 Marion,0316,President,,,Under Votes,18
-Marion,0320,President,,PEP,Ralph Nader,3
+Marion,0320,President,,PCE,Ralph Nader,3
 Marion,0320,President,,PAC,Cynthia McKinney,2
 Marion,0320,President,,REP,John McCain,103
 Marion,0320,President,,LIB,Bob Barr,4
@@ -107,7 +107,7 @@ Marion,0320,President,,DEM,Barack Obama,407
 Marion,0320,President,,,Write-ins,1
 Marion,0320,President,,,Over Votes,0
 Marion,0320,President,,,Under Votes,10
-Marion,0321,President,,PEP,Ralph Nader,13
+Marion,0321,President,,PCE,Ralph Nader,13
 Marion,0321,President,,PAC,Cynthia McKinney,7
 Marion,0321,President,,REP,John McCain,222
 Marion,0321,President,,LIB,Bob Barr,3
@@ -116,7 +116,7 @@ Marion,0321,President,,DEM,Barack Obama,506
 Marion,0321,President,,,Write-ins,5
 Marion,0321,President,,,Over Votes,3
 Marion,0321,President,,,Under Votes,11
-Marion,0322,President,,PEP,Ralph Nader,13
+Marion,0322,President,,PCE,Ralph Nader,13
 Marion,0322,President,,PAC,Cynthia McKinney,7
 Marion,0322,President,,REP,John McCain,256
 Marion,0322,President,,LIB,Bob Barr,7
@@ -125,7 +125,7 @@ Marion,0322,President,,DEM,Barack Obama,697
 Marion,0322,President,,,Write-ins,4
 Marion,0322,President,,,Over Votes,3
 Marion,0322,President,,,Under Votes,17
-Marion,0323,President,,PEP,Ralph Nader,21
+Marion,0323,President,,PCE,Ralph Nader,21
 Marion,0323,President,,PAC,Cynthia McKinney,12
 Marion,0323,President,,REP,John McCain,525
 Marion,0323,President,,LIB,Bob Barr,7
@@ -134,7 +134,7 @@ Marion,0323,President,,DEM,Barack Obama,1367
 Marion,0323,President,,,Write-ins,16
 Marion,0323,President,,,Over Votes,0
 Marion,0323,President,,,Under Votes,21
-Marion,0324,President,,PEP,Ralph Nader,0
+Marion,0324,President,,PCE,Ralph Nader,0
 Marion,0324,President,,PAC,Cynthia McKinney,0
 Marion,0324,President,,REP,John McCain,25
 Marion,0324,President,,LIB,Bob Barr,1
@@ -143,7 +143,7 @@ Marion,0324,President,,DEM,Barack Obama,40
 Marion,0324,President,,,Write-ins,3
 Marion,0324,President,,,Over Votes,0
 Marion,0324,President,,,Under Votes,5
-Marion,0325,President,,PEP,Ralph Nader,3
+Marion,0325,President,,PCE,Ralph Nader,3
 Marion,0325,President,,PAC,Cynthia McKinney,0
 Marion,0325,President,,REP,John McCain,30
 Marion,0325,President,,LIB,Bob Barr,0
@@ -152,7 +152,7 @@ Marion,0325,President,,DEM,Barack Obama,49
 Marion,0325,President,,,Write-ins,0
 Marion,0325,President,,,Over Votes,0
 Marion,0325,President,,,Under Votes,1
-Marion,0326,President,,PEP,Ralph Nader,5
+Marion,0326,President,,PCE,Ralph Nader,5
 Marion,0326,President,,PAC,Cynthia McKinney,2
 Marion,0326,President,,REP,John McCain,110
 Marion,0326,President,,LIB,Bob Barr,4
@@ -161,7 +161,7 @@ Marion,0326,President,,DEM,Barack Obama,156
 Marion,0326,President,,,Write-ins,3
 Marion,0326,President,,,Over Votes,0
 Marion,0326,President,,,Under Votes,0
-Marion,0327,President,,PEP,Ralph Nader,6
+Marion,0327,President,,PCE,Ralph Nader,6
 Marion,0327,President,,PAC,Cynthia McKinney,4
 Marion,0327,President,,REP,John McCain,175
 Marion,0327,President,,LIB,Bob Barr,0
@@ -170,7 +170,7 @@ Marion,0327,President,,DEM,Barack Obama,193
 Marion,0327,President,,,Write-ins,5
 Marion,0327,President,,,Over Votes,1
 Marion,0327,President,,,Under Votes,6
-Marion,0328,President,,PEP,Ralph Nader,9
+Marion,0328,President,,PCE,Ralph Nader,9
 Marion,0328,President,,PAC,Cynthia McKinney,2
 Marion,0328,President,,REP,John McCain,413
 Marion,0328,President,,LIB,Bob Barr,3
@@ -179,7 +179,7 @@ Marion,0328,President,,DEM,Barack Obama,475
 Marion,0328,President,,,Write-ins,10
 Marion,0328,President,,,Over Votes,0
 Marion,0328,President,,,Under Votes,10
-Marion,0329,President,,PEP,Ralph Nader,2
+Marion,0329,President,,PCE,Ralph Nader,2
 Marion,0329,President,,PAC,Cynthia McKinney,1
 Marion,0329,President,,REP,John McCain,227
 Marion,0329,President,,LIB,Bob Barr,3
@@ -188,7 +188,7 @@ Marion,0329,President,,DEM,Barack Obama,281
 Marion,0329,President,,,Write-ins,7
 Marion,0329,President,,,Over Votes,1
 Marion,0329,President,,,Under Votes,5
-Marion,0330,President,,PEP,Ralph Nader,4
+Marion,0330,President,,PCE,Ralph Nader,4
 Marion,0330,President,,PAC,Cynthia McKinney,1
 Marion,0330,President,,REP,John McCain,64
 Marion,0330,President,,LIB,Bob Barr,0
@@ -197,7 +197,7 @@ Marion,0330,President,,DEM,Barack Obama,129
 Marion,0330,President,,,Write-ins,4
 Marion,0330,President,,,Over Votes,1
 Marion,0330,President,,,Under Votes,1
-Marion,0331,President,,PEP,Ralph Nader,22
+Marion,0331,President,,PCE,Ralph Nader,22
 Marion,0331,President,,PAC,Cynthia McKinney,5
 Marion,0331,President,,REP,John McCain,1001
 Marion,0331,President,,LIB,Bob Barr,15
@@ -206,7 +206,7 @@ Marion,0331,President,,DEM,Barack Obama,1340
 Marion,0331,President,,,Write-ins,28
 Marion,0331,President,,,Over Votes,3
 Marion,0331,President,,,Under Votes,20
-Marion,0332,President,,PEP,Ralph Nader,14
+Marion,0332,President,,PCE,Ralph Nader,14
 Marion,0332,President,,PAC,Cynthia McKinney,3
 Marion,0332,President,,REP,John McCain,735
 Marion,0332,President,,LIB,Bob Barr,10
@@ -215,7 +215,7 @@ Marion,0332,President,,DEM,Barack Obama,1148
 Marion,0332,President,,,Write-ins,21
 Marion,0332,President,,,Over Votes,3
 Marion,0332,President,,,Under Votes,36
-Marion,0333,President,,PEP,Ralph Nader,1
+Marion,0333,President,,PCE,Ralph Nader,1
 Marion,0333,President,,PAC,Cynthia McKinney,1
 Marion,0333,President,,REP,John McCain,103
 Marion,0333,President,,LIB,Bob Barr,2
@@ -224,7 +224,7 @@ Marion,0333,President,,DEM,Barack Obama,181
 Marion,0333,President,,,Write-ins,3
 Marion,0333,President,,,Over Votes,0
 Marion,0333,President,,,Under Votes,3
-Marion,0334,President,,PEP,Ralph Nader,19
+Marion,0334,President,,PCE,Ralph Nader,19
 Marion,0334,President,,PAC,Cynthia McKinney,8
 Marion,0334,President,,REP,John McCain,944
 Marion,0334,President,,LIB,Bob Barr,6
@@ -233,7 +233,7 @@ Marion,0334,President,,DEM,Barack Obama,1126
 Marion,0334,President,,,Write-ins,12
 Marion,0334,President,,,Over Votes,0
 Marion,0334,President,,,Under Votes,16
-Marion,0335,President,,PEP,Ralph Nader,0
+Marion,0335,President,,PCE,Ralph Nader,0
 Marion,0335,President,,PAC,Cynthia McKinney,0
 Marion,0335,President,,REP,John McCain,35
 Marion,0335,President,,LIB,Bob Barr,2
@@ -242,7 +242,7 @@ Marion,0335,President,,DEM,Barack Obama,15
 Marion,0335,President,,,Write-ins,1
 Marion,0335,President,,,Over Votes,0
 Marion,0335,President,,,Under Votes,2
-Marion,0336,President,,PEP,Ralph Nader,0
+Marion,0336,President,,PCE,Ralph Nader,0
 Marion,0336,President,,PAC,Cynthia McKinney,0
 Marion,0336,President,,REP,John McCain,2
 Marion,0336,President,,LIB,Bob Barr,0
@@ -251,7 +251,7 @@ Marion,0336,President,,DEM,Barack Obama,2
 Marion,0336,President,,,Write-ins,0
 Marion,0336,President,,,Over Votes,0
 Marion,0336,President,,,Under Votes,0
-Marion,0340,President,,PEP,Ralph Nader,8
+Marion,0340,President,,PCE,Ralph Nader,8
 Marion,0340,President,,PAC,Cynthia McKinney,4
 Marion,0340,President,,REP,John McCain,536
 Marion,0340,President,,LIB,Bob Barr,3
@@ -260,7 +260,7 @@ Marion,0340,President,,DEM,Barack Obama,606
 Marion,0340,President,,,Write-ins,11
 Marion,0340,President,,,Over Votes,1
 Marion,0340,President,,,Under Votes,11
-Marion,0341,President,,PEP,Ralph Nader,15
+Marion,0341,President,,PCE,Ralph Nader,15
 Marion,0341,President,,PAC,Cynthia McKinney,2
 Marion,0341,President,,REP,John McCain,1275
 Marion,0341,President,,LIB,Bob Barr,6
@@ -269,7 +269,7 @@ Marion,0341,President,,DEM,Barack Obama,1307
 Marion,0341,President,,,Write-ins,30
 Marion,0341,President,,,Over Votes,3
 Marion,0341,President,,,Under Votes,65
-Marion,0342,President,,PEP,Ralph Nader,3
+Marion,0342,President,,PCE,Ralph Nader,3
 Marion,0342,President,,PAC,Cynthia McKinney,1
 Marion,0342,President,,REP,John McCain,404
 Marion,0342,President,,LIB,Bob Barr,5
@@ -278,7 +278,7 @@ Marion,0342,President,,DEM,Barack Obama,390
 Marion,0342,President,,,Write-ins,8
 Marion,0342,President,,,Over Votes,0
 Marion,0342,President,,,Under Votes,6
-Marion,0343,President,,PEP,Ralph Nader,14
+Marion,0343,President,,PCE,Ralph Nader,14
 Marion,0343,President,,PAC,Cynthia McKinney,4
 Marion,0343,President,,REP,John McCain,488
 Marion,0343,President,,LIB,Bob Barr,2
@@ -287,7 +287,7 @@ Marion,0343,President,,DEM,Barack Obama,665
 Marion,0343,President,,,Write-ins,11
 Marion,0343,President,,,Over Votes,1
 Marion,0343,President,,,Under Votes,12
-Marion,0344,President,,PEP,Ralph Nader,23
+Marion,0344,President,,PCE,Ralph Nader,23
 Marion,0344,President,,PAC,Cynthia McKinney,2
 Marion,0344,President,,REP,John McCain,870
 Marion,0344,President,,LIB,Bob Barr,7
@@ -296,7 +296,7 @@ Marion,0344,President,,DEM,Barack Obama,1103
 Marion,0344,President,,,Write-ins,18
 Marion,0344,President,,,Over Votes,3
 Marion,0344,President,,,Under Votes,19
-Marion,0345,President,,PEP,Ralph Nader,14
+Marion,0345,President,,PCE,Ralph Nader,14
 Marion,0345,President,,PAC,Cynthia McKinney,5
 Marion,0345,President,,REP,John McCain,1344
 Marion,0345,President,,LIB,Bob Barr,7
@@ -305,7 +305,7 @@ Marion,0345,President,,DEM,Barack Obama,1266
 Marion,0345,President,,,Write-ins,17
 Marion,0345,President,,,Over Votes,1
 Marion,0345,President,,,Under Votes,23
-Marion,0346,President,,PEP,Ralph Nader,0
+Marion,0346,President,,PCE,Ralph Nader,0
 Marion,0346,President,,PAC,Cynthia McKinney,0
 Marion,0346,President,,REP,John McCain,2
 Marion,0346,President,,LIB,Bob Barr,0
@@ -314,7 +314,7 @@ Marion,0346,President,,DEM,Barack Obama,0
 Marion,0346,President,,,Write-ins,0
 Marion,0346,President,,,Over Votes,0
 Marion,0346,President,,,Under Votes,0
-Marion,0350,President,,PEP,Ralph Nader,24
+Marion,0350,President,,PCE,Ralph Nader,24
 Marion,0350,President,,PAC,Cynthia McKinney,9
 Marion,0350,President,,REP,John McCain,534
 Marion,0350,President,,LIB,Bob Barr,8
@@ -323,7 +323,7 @@ Marion,0350,President,,DEM,Barack Obama,958
 Marion,0350,President,,,Write-ins,16
 Marion,0350,President,,,Over Votes,2
 Marion,0350,President,,,Under Votes,17
-Marion,0351,President,,PEP,Ralph Nader,13
+Marion,0351,President,,PCE,Ralph Nader,13
 Marion,0351,President,,PAC,Cynthia McKinney,6
 Marion,0351,President,,REP,John McCain,365
 Marion,0351,President,,LIB,Bob Barr,8
@@ -332,7 +332,7 @@ Marion,0351,President,,DEM,Barack Obama,641
 Marion,0351,President,,,Write-ins,11
 Marion,0351,President,,,Over Votes,0
 Marion,0351,President,,,Under Votes,19
-Marion,0352,President,,PEP,Ralph Nader,5
+Marion,0352,President,,PCE,Ralph Nader,5
 Marion,0352,President,,PAC,Cynthia McKinney,2
 Marion,0352,President,,REP,John McCain,124
 Marion,0352,President,,LIB,Bob Barr,1
@@ -341,7 +341,7 @@ Marion,0352,President,,DEM,Barack Obama,178
 Marion,0352,President,,,Write-ins,1
 Marion,0352,President,,,Over Votes,1
 Marion,0352,President,,,Under Votes,3
-Marion,0353,President,,PEP,Ralph Nader,20
+Marion,0353,President,,PCE,Ralph Nader,20
 Marion,0353,President,,PAC,Cynthia McKinney,10
 Marion,0353,President,,REP,John McCain,751
 Marion,0353,President,,LIB,Bob Barr,6
@@ -350,7 +350,7 @@ Marion,0353,President,,DEM,Barack Obama,761
 Marion,0353,President,,,Write-ins,10
 Marion,0353,President,,,Over Votes,1
 Marion,0353,President,,,Under Votes,15
-Marion,0354,President,,PEP,Ralph Nader,0
+Marion,0354,President,,PCE,Ralph Nader,0
 Marion,0354,President,,PAC,Cynthia McKinney,0
 Marion,0354,President,,REP,John McCain,0
 Marion,0354,President,,LIB,Bob Barr,0
@@ -359,7 +359,7 @@ Marion,0354,President,,DEM,Barack Obama,0
 Marion,0354,President,,,Write-ins,0
 Marion,0354,President,,,Over Votes,0
 Marion,0354,President,,,Under Votes,0
-Marion,0355,President,,PEP,Ralph Nader,0
+Marion,0355,President,,PCE,Ralph Nader,0
 Marion,0355,President,,PAC,Cynthia McKinney,0
 Marion,0355,President,,REP,John McCain,14
 Marion,0355,President,,LIB,Bob Barr,0
@@ -368,7 +368,7 @@ Marion,0355,President,,DEM,Barack Obama,23
 Marion,0355,President,,,Write-ins,1
 Marion,0355,President,,,Over Votes,0
 Marion,0355,President,,,Under Votes,0
-Marion,0356,President,,PEP,Ralph Nader,0
+Marion,0356,President,,PCE,Ralph Nader,0
 Marion,0356,President,,PAC,Cynthia McKinney,0
 Marion,0356,President,,REP,John McCain,36
 Marion,0356,President,,LIB,Bob Barr,0
@@ -377,7 +377,7 @@ Marion,0356,President,,DEM,Barack Obama,50
 Marion,0356,President,,,Write-ins,0
 Marion,0356,President,,,Over Votes,0
 Marion,0356,President,,,Under Votes,1
-Marion,0360,President,,PEP,Ralph Nader,7
+Marion,0360,President,,PCE,Ralph Nader,7
 Marion,0360,President,,PAC,Cynthia McKinney,7
 Marion,0360,President,,REP,John McCain,303
 Marion,0360,President,,LIB,Bob Barr,3
@@ -386,7 +386,7 @@ Marion,0360,President,,DEM,Barack Obama,497
 Marion,0360,President,,,Write-ins,4
 Marion,0360,President,,,Over Votes,0
 Marion,0360,President,,,Under Votes,12
-Marion,0361,President,,PEP,Ralph Nader,7
+Marion,0361,President,,PCE,Ralph Nader,7
 Marion,0361,President,,PAC,Cynthia McKinney,1
 Marion,0361,President,,REP,John McCain,296
 Marion,0361,President,,LIB,Bob Barr,3
@@ -395,7 +395,7 @@ Marion,0361,President,,DEM,Barack Obama,485
 Marion,0361,President,,,Write-ins,5
 Marion,0361,President,,,Over Votes,1
 Marion,0361,President,,,Under Votes,19
-Marion,0363,President,,PEP,Ralph Nader,29
+Marion,0363,President,,PCE,Ralph Nader,29
 Marion,0363,President,,PAC,Cynthia McKinney,4
 Marion,0363,President,,REP,John McCain,1058
 Marion,0363,President,,LIB,Bob Barr,11
@@ -404,7 +404,7 @@ Marion,0363,President,,DEM,Barack Obama,1185
 Marion,0363,President,,,Write-ins,28
 Marion,0363,President,,,Over Votes,1
 Marion,0363,President,,,Under Votes,74
-Marion,0370,President,,PEP,Ralph Nader,16
+Marion,0370,President,,PCE,Ralph Nader,16
 Marion,0370,President,,PAC,Cynthia McKinney,4
 Marion,0370,President,,REP,John McCain,539
 Marion,0370,President,,LIB,Bob Barr,5
@@ -413,7 +413,7 @@ Marion,0370,President,,DEM,Barack Obama,1261
 Marion,0370,President,,,Write-ins,8
 Marion,0370,President,,,Over Votes,0
 Marion,0370,President,,,Under Votes,48
-Marion,0371,President,,PEP,Ralph Nader,25
+Marion,0371,President,,PCE,Ralph Nader,25
 Marion,0371,President,,PAC,Cynthia McKinney,11
 Marion,0371,President,,REP,John McCain,1429
 Marion,0371,President,,LIB,Bob Barr,22
@@ -422,7 +422,7 @@ Marion,0371,President,,DEM,Barack Obama,1916
 Marion,0371,President,,,Write-ins,20
 Marion,0371,President,,,Over Votes,2
 Marion,0371,President,,,Under Votes,99
-Marion,0372,President,,PEP,Ralph Nader,15
+Marion,0372,President,,PCE,Ralph Nader,15
 Marion,0372,President,,PAC,Cynthia McKinney,6
 Marion,0372,President,,REP,John McCain,912
 Marion,0372,President,,LIB,Bob Barr,7
@@ -431,7 +431,7 @@ Marion,0372,President,,DEM,Barack Obama,1313
 Marion,0372,President,,,Write-ins,15
 Marion,0372,President,,,Over Votes,3
 Marion,0372,President,,,Under Votes,25
-Marion,0373,President,,PEP,Ralph Nader,22
+Marion,0373,President,,PCE,Ralph Nader,22
 Marion,0373,President,,PAC,Cynthia McKinney,3
 Marion,0373,President,,REP,John McCain,933
 Marion,0373,President,,LIB,Bob Barr,4
@@ -440,7 +440,7 @@ Marion,0373,President,,DEM,Barack Obama,1055
 Marion,0373,President,,,Write-ins,13
 Marion,0373,President,,,Over Votes,1
 Marion,0373,President,,,Under Votes,17
-Marion,0374,President,,PEP,Ralph Nader,0
+Marion,0374,President,,PCE,Ralph Nader,0
 Marion,0374,President,,PAC,Cynthia McKinney,0
 Marion,0374,President,,REP,John McCain,13
 Marion,0374,President,,LIB,Bob Barr,0
@@ -449,7 +449,7 @@ Marion,0374,President,,DEM,Barack Obama,12
 Marion,0374,President,,,Write-ins,0
 Marion,0374,President,,,Over Votes,0
 Marion,0374,President,,,Under Votes,1
-Marion,0400,President,,PEP,Ralph Nader,0
+Marion,0400,President,,PCE,Ralph Nader,0
 Marion,0400,President,,PAC,Cynthia McKinney,0
 Marion,0400,President,,REP,John McCain,0
 Marion,0400,President,,LIB,Bob Barr,0
@@ -458,7 +458,7 @@ Marion,0400,President,,DEM,Barack Obama,0
 Marion,0400,President,,,Write-ins,0
 Marion,0400,President,,,Over Votes,0
 Marion,0400,President,,,Under Votes,0
-Marion,0401,President,,PEP,Ralph Nader,21
+Marion,0401,President,,PCE,Ralph Nader,21
 Marion,0401,President,,PAC,Cynthia McKinney,6
 Marion,0401,President,,REP,John McCain,1383
 Marion,0401,President,,LIB,Bob Barr,11
@@ -467,7 +467,7 @@ Marion,0401,President,,DEM,Barack Obama,1188
 Marion,0401,President,,,Write-ins,17
 Marion,0401,President,,,Over Votes,2
 Marion,0401,President,,,Under Votes,33
-Marion,0402,President,,PEP,Ralph Nader,4
+Marion,0402,President,,PCE,Ralph Nader,4
 Marion,0402,President,,PAC,Cynthia McKinney,1
 Marion,0402,President,,REP,John McCain,1113
 Marion,0402,President,,LIB,Bob Barr,3
@@ -476,7 +476,7 @@ Marion,0402,President,,DEM,Barack Obama,891
 Marion,0402,President,,,Write-ins,13
 Marion,0402,President,,,Over Votes,0
 Marion,0402,President,,,Under Votes,16
-Marion,0403,President,,PEP,Ralph Nader,22
+Marion,0403,President,,PCE,Ralph Nader,22
 Marion,0403,President,,PAC,Cynthia McKinney,3
 Marion,0403,President,,REP,John McCain,1358
 Marion,0403,President,,LIB,Bob Barr,13
@@ -485,7 +485,7 @@ Marion,0403,President,,DEM,Barack Obama,1099
 Marion,0403,President,,,Write-ins,19
 Marion,0403,President,,,Over Votes,2
 Marion,0403,President,,,Under Votes,59
-Marion,0404,President,,PEP,Ralph Nader,32
+Marion,0404,President,,PCE,Ralph Nader,32
 Marion,0404,President,,PAC,Cynthia McKinney,3
 Marion,0404,President,,REP,John McCain,965
 Marion,0404,President,,LIB,Bob Barr,6
@@ -494,7 +494,7 @@ Marion,0404,President,,DEM,Barack Obama,920
 Marion,0404,President,,,Write-ins,14
 Marion,0404,President,,,Over Votes,1
 Marion,0404,President,,,Under Votes,68
-Marion,0405,President,,PEP,Ralph Nader,9
+Marion,0405,President,,PCE,Ralph Nader,9
 Marion,0405,President,,PAC,Cynthia McKinney,3
 Marion,0405,President,,REP,John McCain,678
 Marion,0405,President,,LIB,Bob Barr,1
@@ -503,7 +503,7 @@ Marion,0405,President,,DEM,Barack Obama,633
 Marion,0405,President,,,Write-ins,17
 Marion,0405,President,,,Over Votes,2
 Marion,0405,President,,,Under Votes,40
-Marion,0406,President,,PEP,Ralph Nader,40
+Marion,0406,President,,PCE,Ralph Nader,40
 Marion,0406,President,,PAC,Cynthia McKinney,1
 Marion,0406,President,,REP,John McCain,1371
 Marion,0406,President,,LIB,Bob Barr,19
@@ -512,7 +512,7 @@ Marion,0406,President,,DEM,Barack Obama,1491
 Marion,0406,President,,,Write-ins,17
 Marion,0406,President,,,Over Votes,4
 Marion,0406,President,,,Under Votes,25
-Marion,0407,President,,PEP,Ralph Nader,33
+Marion,0407,President,,PCE,Ralph Nader,33
 Marion,0407,President,,PAC,Cynthia McKinney,12
 Marion,0407,President,,REP,John McCain,1052
 Marion,0407,President,,LIB,Bob Barr,12
@@ -521,7 +521,7 @@ Marion,0407,President,,DEM,Barack Obama,1238
 Marion,0407,President,,,Write-ins,32
 Marion,0407,President,,,Over Votes,2
 Marion,0407,President,,,Under Votes,64
-Marion,0505,President,,PEP,Ralph Nader,2
+Marion,0505,President,,PCE,Ralph Nader,2
 Marion,0505,President,,PAC,Cynthia McKinney,0
 Marion,0505,President,,REP,John McCain,111
 Marion,0505,President,,LIB,Bob Barr,0
@@ -530,7 +530,7 @@ Marion,0505,President,,DEM,Barack Obama,90
 Marion,0505,President,,,Write-ins,2
 Marion,0505,President,,,Over Votes,0
 Marion,0505,President,,,Under Votes,0
-Marion,0515,President,,PEP,Ralph Nader,3
+Marion,0515,President,,PCE,Ralph Nader,3
 Marion,0515,President,,PAC,Cynthia McKinney,2
 Marion,0515,President,,REP,John McCain,199
 Marion,0515,President,,LIB,Bob Barr,1
@@ -539,7 +539,7 @@ Marion,0515,President,,DEM,Barack Obama,177
 Marion,0515,President,,,Write-ins,0
 Marion,0515,President,,,Over Votes,0
 Marion,0515,President,,,Under Votes,7
-Marion,0525,President,,PEP,Ralph Nader,4
+Marion,0525,President,,PCE,Ralph Nader,4
 Marion,0525,President,,PAC,Cynthia McKinney,3
 Marion,0525,President,,REP,John McCain,280
 Marion,0525,President,,LIB,Bob Barr,3
@@ -548,7 +548,7 @@ Marion,0525,President,,DEM,Barack Obama,250
 Marion,0525,President,,,Write-ins,5
 Marion,0525,President,,,Over Votes,0
 Marion,0525,President,,,Under Votes,9
-Marion,0535,President,,PEP,Ralph Nader,8
+Marion,0535,President,,PCE,Ralph Nader,8
 Marion,0535,President,,PAC,Cynthia McKinney,1
 Marion,0535,President,,REP,John McCain,486
 Marion,0535,President,,LIB,Bob Barr,3
@@ -557,7 +557,7 @@ Marion,0535,President,,DEM,Barack Obama,489
 Marion,0535,President,,,Write-ins,6
 Marion,0535,President,,,Over Votes,1
 Marion,0535,President,,,Under Votes,7
-Marion,0545,President,,PEP,Ralph Nader,3
+Marion,0545,President,,PCE,Ralph Nader,3
 Marion,0545,President,,PAC,Cynthia McKinney,0
 Marion,0545,President,,REP,John McCain,193
 Marion,0545,President,,LIB,Bob Barr,0
@@ -566,7 +566,7 @@ Marion,0545,President,,DEM,Barack Obama,223
 Marion,0545,President,,,Write-ins,6
 Marion,0545,President,,,Over Votes,1
 Marion,0545,President,,,Under Votes,17
-Marion,0555,President,,PEP,Ralph Nader,8
+Marion,0555,President,,PCE,Ralph Nader,8
 Marion,0555,President,,PAC,Cynthia McKinney,2
 Marion,0555,President,,REP,John McCain,690
 Marion,0555,President,,LIB,Bob Barr,3
@@ -575,7 +575,7 @@ Marion,0555,President,,DEM,Barack Obama,653
 Marion,0555,President,,,Write-ins,11
 Marion,0555,President,,,Over Votes,3
 Marion,0555,President,,,Under Votes,22
-Marion,0580,President,,PEP,Ralph Nader,8
+Marion,0580,President,,PCE,Ralph Nader,8
 Marion,0580,President,,PAC,Cynthia McKinney,3
 Marion,0580,President,,REP,John McCain,715
 Marion,0580,President,,LIB,Bob Barr,2
@@ -584,7 +584,7 @@ Marion,0580,President,,DEM,Barack Obama,375
 Marion,0580,President,,,Write-ins,8
 Marion,0580,President,,,Over Votes,1
 Marion,0580,President,,,Under Votes,15
-Marion,0581,President,,PEP,Ralph Nader,33
+Marion,0581,President,,PCE,Ralph Nader,33
 Marion,0581,President,,PAC,Cynthia McKinney,4
 Marion,0581,President,,REP,John McCain,1306
 Marion,0581,President,,LIB,Bob Barr,4
@@ -593,7 +593,7 @@ Marion,0581,President,,DEM,Barack Obama,938
 Marion,0581,President,,,Write-ins,28
 Marion,0581,President,,,Over Votes,1
 Marion,0581,President,,,Under Votes,66
-Marion,0582,President,,PEP,Ralph Nader,13
+Marion,0582,President,,PCE,Ralph Nader,13
 Marion,0582,President,,PAC,Cynthia McKinney,4
 Marion,0582,President,,REP,John McCain,590
 Marion,0582,President,,LIB,Bob Barr,4
@@ -602,7 +602,7 @@ Marion,0582,President,,DEM,Barack Obama,392
 Marion,0582,President,,,Write-ins,9
 Marion,0582,President,,,Over Votes,1
 Marion,0582,President,,,Under Votes,44
-Marion,0583,President,,PEP,Ralph Nader,26
+Marion,0583,President,,PCE,Ralph Nader,26
 Marion,0583,President,,PAC,Cynthia McKinney,4
 Marion,0583,President,,REP,John McCain,842
 Marion,0583,President,,LIB,Bob Barr,7
@@ -611,7 +611,7 @@ Marion,0583,President,,DEM,Barack Obama,415
 Marion,0583,President,,,Write-ins,6
 Marion,0583,President,,,Over Votes,0
 Marion,0583,President,,,Under Votes,15
-Marion,0584,President,,PEP,Ralph Nader,0
+Marion,0584,President,,PCE,Ralph Nader,0
 Marion,0584,President,,PAC,Cynthia McKinney,0
 Marion,0584,President,,REP,John McCain,10
 Marion,0584,President,,LIB,Bob Barr,0
@@ -620,7 +620,7 @@ Marion,0584,President,,DEM,Barack Obama,5
 Marion,0584,President,,,Write-ins,0
 Marion,0584,President,,,Over Votes,0
 Marion,0584,President,,,Under Votes,0
-Marion,0585,President,,PEP,Ralph Nader,3
+Marion,0585,President,,PCE,Ralph Nader,3
 Marion,0585,President,,PAC,Cynthia McKinney,0
 Marion,0585,President,,REP,John McCain,104
 Marion,0585,President,,LIB,Bob Barr,1
@@ -629,7 +629,7 @@ Marion,0585,President,,DEM,Barack Obama,54
 Marion,0585,President,,,Write-ins,0
 Marion,0585,President,,,Over Votes,0
 Marion,0585,President,,,Under Votes,3
-Marion,0586,President,,PEP,Ralph Nader,5
+Marion,0586,President,,PCE,Ralph Nader,5
 Marion,0586,President,,PAC,Cynthia McKinney,1
 Marion,0586,President,,REP,John McCain,303
 Marion,0586,President,,LIB,Bob Barr,0
@@ -638,7 +638,7 @@ Marion,0586,President,,DEM,Barack Obama,180
 Marion,0586,President,,,Write-ins,4
 Marion,0586,President,,,Over Votes,0
 Marion,0586,President,,,Under Votes,6
-Marion,0587,President,,PEP,Ralph Nader,2
+Marion,0587,President,,PCE,Ralph Nader,2
 Marion,0587,President,,PAC,Cynthia McKinney,1
 Marion,0587,President,,REP,John McCain,57
 Marion,0587,President,,LIB,Bob Barr,0
@@ -647,7 +647,7 @@ Marion,0587,President,,DEM,Barack Obama,27
 Marion,0587,President,,,Write-ins,1
 Marion,0587,President,,,Over Votes,0
 Marion,0587,President,,,Under Votes,4
-Marion,0588,President,,PEP,Ralph Nader,0
+Marion,0588,President,,PCE,Ralph Nader,0
 Marion,0588,President,,PAC,Cynthia McKinney,2
 Marion,0588,President,,REP,John McCain,31
 Marion,0588,President,,LIB,Bob Barr,0
@@ -656,7 +656,7 @@ Marion,0588,President,,DEM,Barack Obama,27
 Marion,0588,President,,,Write-ins,0
 Marion,0588,President,,,Over Votes,0
 Marion,0588,President,,,Under Votes,4
-Marion,0589,President,,PEP,Ralph Nader,0
+Marion,0589,President,,PCE,Ralph Nader,0
 Marion,0589,President,,PAC,Cynthia McKinney,0
 Marion,0589,President,,REP,John McCain,35
 Marion,0589,President,,LIB,Bob Barr,0
@@ -665,7 +665,7 @@ Marion,0589,President,,DEM,Barack Obama,8
 Marion,0589,President,,,Write-ins,0
 Marion,0589,President,,,Over Votes,0
 Marion,0589,President,,,Under Votes,0
-Marion,0590,President,,PEP,Ralph Nader,0
+Marion,0590,President,,PCE,Ralph Nader,0
 Marion,0590,President,,PAC,Cynthia McKinney,0
 Marion,0590,President,,REP,John McCain,2
 Marion,0590,President,,LIB,Bob Barr,0
@@ -674,7 +674,7 @@ Marion,0590,President,,DEM,Barack Obama,4
 Marion,0590,President,,,Write-ins,0
 Marion,0590,President,,,Over Votes,0
 Marion,0590,President,,,Under Votes,0
-Marion,0615,President,,PEP,Ralph Nader,0
+Marion,0615,President,,PCE,Ralph Nader,0
 Marion,0615,President,,PAC,Cynthia McKinney,0
 Marion,0615,President,,REP,John McCain,98
 Marion,0615,President,,LIB,Bob Barr,2
@@ -683,7 +683,7 @@ Marion,0615,President,,DEM,Barack Obama,62
 Marion,0615,President,,,Write-ins,1
 Marion,0615,President,,,Over Votes,0
 Marion,0615,President,,,Under Votes,3
-Marion,0625,President,,PEP,Ralph Nader,37
+Marion,0625,President,,PCE,Ralph Nader,37
 Marion,0625,President,,PAC,Cynthia McKinney,3
 Marion,0625,President,,REP,John McCain,1860
 Marion,0625,President,,LIB,Bob Barr,17
@@ -692,7 +692,7 @@ Marion,0625,President,,DEM,Barack Obama,2285
 Marion,0625,President,,,Write-ins,22
 Marion,0625,President,,,Over Votes,1
 Marion,0625,President,,,Under Votes,31
-Marion,0635,President,,PEP,Ralph Nader,0
+Marion,0635,President,,PCE,Ralph Nader,0
 Marion,0635,President,,PAC,Cynthia McKinney,0
 Marion,0635,President,,REP,John McCain,23
 Marion,0635,President,,LIB,Bob Barr,0
@@ -701,7 +701,7 @@ Marion,0635,President,,DEM,Barack Obama,22
 Marion,0635,President,,,Write-ins,0
 Marion,0635,President,,,Over Votes,0
 Marion,0635,President,,,Under Votes,3
-Marion,0645,President,,PEP,Ralph Nader,6
+Marion,0645,President,,PCE,Ralph Nader,6
 Marion,0645,President,,PAC,Cynthia McKinney,2
 Marion,0645,President,,REP,John McCain,822
 Marion,0645,President,,LIB,Bob Barr,5
@@ -710,7 +710,7 @@ Marion,0645,President,,DEM,Barack Obama,522
 Marion,0645,President,,,Write-ins,10
 Marion,0645,President,,,Over Votes,0
 Marion,0645,President,,,Under Votes,44
-Marion,0655,President,,PEP,Ralph Nader,45
+Marion,0655,President,,PCE,Ralph Nader,45
 Marion,0655,President,,PAC,Cynthia McKinney,11
 Marion,0655,President,,REP,John McCain,1793
 Marion,0655,President,,LIB,Bob Barr,18
@@ -719,7 +719,7 @@ Marion,0655,President,,DEM,Barack Obama,1337
 Marion,0655,President,,,Write-ins,23
 Marion,0655,President,,,Over Votes,1
 Marion,0655,President,,,Under Votes,28
-Marion,0665,President,,PEP,Ralph Nader,0
+Marion,0665,President,,PCE,Ralph Nader,0
 Marion,0665,President,,PAC,Cynthia McKinney,0
 Marion,0665,President,,REP,John McCain,1
 Marion,0665,President,,LIB,Bob Barr,0
@@ -728,7 +728,7 @@ Marion,0665,President,,DEM,Barack Obama,0
 Marion,0665,President,,,Write-ins,0
 Marion,0665,President,,,Over Votes,0
 Marion,0665,President,,,Under Votes,0
-Marion,0680,President,,PEP,Ralph Nader,5
+Marion,0680,President,,PCE,Ralph Nader,5
 Marion,0680,President,,PAC,Cynthia McKinney,0
 Marion,0680,President,,REP,John McCain,513
 Marion,0680,President,,LIB,Bob Barr,0
@@ -737,7 +737,7 @@ Marion,0680,President,,DEM,Barack Obama,196
 Marion,0680,President,,,Write-ins,4
 Marion,0680,President,,,Over Votes,0
 Marion,0680,President,,,Under Votes,14
-Marion,0681,President,,PEP,Ralph Nader,21
+Marion,0681,President,,PCE,Ralph Nader,21
 Marion,0681,President,,PAC,Cynthia McKinney,4
 Marion,0681,President,,REP,John McCain,1120
 Marion,0681,President,,LIB,Bob Barr,9
@@ -746,7 +746,7 @@ Marion,0681,President,,DEM,Barack Obama,818
 Marion,0681,President,,,Write-ins,14
 Marion,0681,President,,,Over Votes,0
 Marion,0681,President,,,Under Votes,9
-Marion,0682,President,,PEP,Ralph Nader,18
+Marion,0682,President,,PCE,Ralph Nader,18
 Marion,0682,President,,PAC,Cynthia McKinney,2
 Marion,0682,President,,REP,John McCain,1586
 Marion,0682,President,,LIB,Bob Barr,12
@@ -755,7 +755,7 @@ Marion,0682,President,,DEM,Barack Obama,1094
 Marion,0682,President,,,Write-ins,24
 Marion,0682,President,,,Over Votes,2
 Marion,0682,President,,,Under Votes,19
-Marion,0683,President,,PEP,Ralph Nader,11
+Marion,0683,President,,PCE,Ralph Nader,11
 Marion,0683,President,,PAC,Cynthia McKinney,3
 Marion,0683,President,,REP,John McCain,778
 Marion,0683,President,,LIB,Bob Barr,6
@@ -764,7 +764,7 @@ Marion,0683,President,,DEM,Barack Obama,449
 Marion,0683,President,,,Write-ins,5
 Marion,0683,President,,,Over Votes,1
 Marion,0683,President,,,Under Votes,11
-Marion,0684,President,,PEP,Ralph Nader,4
+Marion,0684,President,,PCE,Ralph Nader,4
 Marion,0684,President,,PAC,Cynthia McKinney,0
 Marion,0684,President,,REP,John McCain,236
 Marion,0684,President,,LIB,Bob Barr,1
@@ -773,7 +773,7 @@ Marion,0684,President,,DEM,Barack Obama,125
 Marion,0684,President,,,Write-ins,4
 Marion,0684,President,,,Over Votes,1
 Marion,0684,President,,,Under Votes,11
-Marion,0685,President,,PEP,Ralph Nader,21
+Marion,0685,President,,PCE,Ralph Nader,21
 Marion,0685,President,,PAC,Cynthia McKinney,5
 Marion,0685,President,,REP,John McCain,1041
 Marion,0685,President,,LIB,Bob Barr,5
@@ -782,7 +782,7 @@ Marion,0685,President,,DEM,Barack Obama,518
 Marion,0685,President,,,Write-ins,10
 Marion,0685,President,,,Over Votes,2
 Marion,0685,President,,,Under Votes,20
-Marion,0686,President,,PEP,Ralph Nader,1
+Marion,0686,President,,PCE,Ralph Nader,1
 Marion,0686,President,,PAC,Cynthia McKinney,1
 Marion,0686,President,,REP,John McCain,91
 Marion,0686,President,,LIB,Bob Barr,2
@@ -791,7 +791,7 @@ Marion,0686,President,,DEM,Barack Obama,50
 Marion,0686,President,,,Write-ins,0
 Marion,0686,President,,,Over Votes,0
 Marion,0686,President,,,Under Votes,1
-Marion,0688,President,,PEP,Ralph Nader,0
+Marion,0688,President,,PCE,Ralph Nader,0
 Marion,0688,President,,PAC,Cynthia McKinney,0
 Marion,0688,President,,REP,John McCain,20
 Marion,0688,President,,LIB,Bob Barr,0
@@ -800,7 +800,7 @@ Marion,0688,President,,DEM,Barack Obama,8
 Marion,0688,President,,,Write-ins,0
 Marion,0688,President,,,Over Votes,0
 Marion,0688,President,,,Under Votes,2
-Marion,0689,President,,PEP,Ralph Nader,0
+Marion,0689,President,,PCE,Ralph Nader,0
 Marion,0689,President,,PAC,Cynthia McKinney,1
 Marion,0689,President,,REP,John McCain,13
 Marion,0689,President,,LIB,Bob Barr,0
@@ -809,7 +809,7 @@ Marion,0689,President,,DEM,Barack Obama,0
 Marion,0689,President,,,Write-ins,0
 Marion,0689,President,,,Over Votes,0
 Marion,0689,President,,,Under Votes,0
-Marion,0690,President,,PEP,Ralph Nader,13
+Marion,0690,President,,PCE,Ralph Nader,13
 Marion,0690,President,,PAC,Cynthia McKinney,4
 Marion,0690,President,,REP,John McCain,521
 Marion,0690,President,,LIB,Bob Barr,7
@@ -818,7 +818,7 @@ Marion,0690,President,,DEM,Barack Obama,654
 Marion,0690,President,,,Write-ins,12
 Marion,0690,President,,,Over Votes,0
 Marion,0690,President,,,Under Votes,41
-Marion,0691,President,,PEP,Ralph Nader,18
+Marion,0691,President,,PCE,Ralph Nader,18
 Marion,0691,President,,PAC,Cynthia McKinney,3
 Marion,0691,President,,REP,John McCain,1020
 Marion,0691,President,,LIB,Bob Barr,8
@@ -827,7 +827,7 @@ Marion,0691,President,,DEM,Barack Obama,994
 Marion,0691,President,,,Write-ins,15
 Marion,0691,President,,,Over Votes,0
 Marion,0691,President,,,Under Votes,22
-Marion,0692,President,,PEP,Ralph Nader,0
+Marion,0692,President,,PCE,Ralph Nader,0
 Marion,0692,President,,PAC,Cynthia McKinney,0
 Marion,0692,President,,REP,John McCain,22
 Marion,0692,President,,LIB,Bob Barr,0
@@ -836,7 +836,7 @@ Marion,0692,President,,DEM,Barack Obama,2
 Marion,0692,President,,,Write-ins,0
 Marion,0692,President,,,Over Votes,0
 Marion,0692,President,,,Under Votes,0
-Marion,0693,President,,PEP,Ralph Nader,6
+Marion,0693,President,,PCE,Ralph Nader,6
 Marion,0693,President,,PAC,Cynthia McKinney,0
 Marion,0693,President,,REP,John McCain,264
 Marion,0693,President,,LIB,Bob Barr,3
@@ -845,7 +845,7 @@ Marion,0693,President,,DEM,Barack Obama,252
 Marion,0693,President,,,Write-ins,3
 Marion,0693,President,,,Over Votes,0
 Marion,0693,President,,,Under Votes,16
-Marion,0694,President,,PEP,Ralph Nader,33
+Marion,0694,President,,PCE,Ralph Nader,33
 Marion,0694,President,,PAC,Cynthia McKinney,5
 Marion,0694,President,,REP,John McCain,1074
 Marion,0694,President,,LIB,Bob Barr,6
@@ -854,7 +854,7 @@ Marion,0694,President,,DEM,Barack Obama,1122
 Marion,0694,President,,,Write-ins,25
 Marion,0694,President,,,Over Votes,1
 Marion,0694,President,,,Under Votes,30
-Marion,0695,President,,PEP,Ralph Nader,21
+Marion,0695,President,,PCE,Ralph Nader,21
 Marion,0695,President,,PAC,Cynthia McKinney,6
 Marion,0695,President,,REP,John McCain,760
 Marion,0695,President,,LIB,Bob Barr,11
@@ -863,7 +863,7 @@ Marion,0695,President,,DEM,Barack Obama,825
 Marion,0695,President,,,Write-ins,19
 Marion,0695,President,,,Over Votes,0
 Marion,0695,President,,,Under Votes,21
-Marion,0696,President,,PEP,Ralph Nader,19
+Marion,0696,President,,PCE,Ralph Nader,19
 Marion,0696,President,,PAC,Cynthia McKinney,1
 Marion,0696,President,,REP,John McCain,556
 Marion,0696,President,,LIB,Bob Barr,6
@@ -872,7 +872,7 @@ Marion,0696,President,,DEM,Barack Obama,789
 Marion,0696,President,,,Write-ins,12
 Marion,0696,President,,,Over Votes,0
 Marion,0696,President,,,Under Votes,15
-Marion,0697,President,,PEP,Ralph Nader,22
+Marion,0697,President,,PCE,Ralph Nader,22
 Marion,0697,President,,PAC,Cynthia McKinney,6
 Marion,0697,President,,REP,John McCain,915
 Marion,0697,President,,LIB,Bob Barr,11
@@ -881,7 +881,7 @@ Marion,0697,President,,DEM,Barack Obama,1053
 Marion,0697,President,,,Write-ins,27
 Marion,0697,President,,,Over Votes,3
 Marion,0697,President,,,Under Votes,15
-Marion,0705,President,,PEP,Ralph Nader,8
+Marion,0705,President,,PCE,Ralph Nader,8
 Marion,0705,President,,PAC,Cynthia McKinney,2
 Marion,0705,President,,REP,John McCain,528
 Marion,0705,President,,LIB,Bob Barr,5
@@ -890,7 +890,7 @@ Marion,0705,President,,DEM,Barack Obama,332
 Marion,0705,President,,,Write-ins,11
 Marion,0705,President,,,Over Votes,0
 Marion,0705,President,,,Under Votes,27
-Marion,0715,President,,PEP,Ralph Nader,22
+Marion,0715,President,,PCE,Ralph Nader,22
 Marion,0715,President,,PAC,Cynthia McKinney,5
 Marion,0715,President,,REP,John McCain,767
 Marion,0715,President,,LIB,Bob Barr,6
@@ -899,7 +899,7 @@ Marion,0715,President,,DEM,Barack Obama,448
 Marion,0715,President,,,Write-ins,19
 Marion,0715,President,,,Over Votes,0
 Marion,0715,President,,,Under Votes,21
-Marion,0725,President,,PEP,Ralph Nader,16
+Marion,0725,President,,PCE,Ralph Nader,16
 Marion,0725,President,,PAC,Cynthia McKinney,5
 Marion,0725,President,,REP,John McCain,596
 Marion,0725,President,,LIB,Bob Barr,6
@@ -908,7 +908,7 @@ Marion,0725,President,,DEM,Barack Obama,446
 Marion,0725,President,,,Write-ins,7
 Marion,0725,President,,,Over Votes,3
 Marion,0725,President,,,Under Votes,16
-Marion,0780,President,,PEP,Ralph Nader,2
+Marion,0780,President,,PCE,Ralph Nader,2
 Marion,0780,President,,PAC,Cynthia McKinney,1
 Marion,0780,President,,REP,John McCain,110
 Marion,0780,President,,LIB,Bob Barr,0
@@ -917,7 +917,7 @@ Marion,0780,President,,DEM,Barack Obama,90
 Marion,0780,President,,,Write-ins,3
 Marion,0780,President,,,Over Votes,0
 Marion,0780,President,,,Under Votes,5
-Marion,0781,President,,PEP,Ralph Nader,12
+Marion,0781,President,,PCE,Ralph Nader,12
 Marion,0781,President,,PAC,Cynthia McKinney,1
 Marion,0781,President,,REP,John McCain,374
 Marion,0781,President,,LIB,Bob Barr,3
@@ -926,7 +926,7 @@ Marion,0781,President,,DEM,Barack Obama,370
 Marion,0781,President,,,Write-ins,5
 Marion,0781,President,,,Over Votes,1
 Marion,0781,President,,,Under Votes,2
-Marion,0782,President,,PEP,Ralph Nader,0
+Marion,0782,President,,PCE,Ralph Nader,0
 Marion,0782,President,,PAC,Cynthia McKinney,0
 Marion,0782,President,,REP,John McCain,4
 Marion,0782,President,,LIB,Bob Barr,0
@@ -935,7 +935,7 @@ Marion,0782,President,,DEM,Barack Obama,17
 Marion,0782,President,,,Write-ins,0
 Marion,0782,President,,,Over Votes,0
 Marion,0782,President,,,Under Votes,0
-Marion,0783,President,,PEP,Ralph Nader,2
+Marion,0783,President,,PCE,Ralph Nader,2
 Marion,0783,President,,PAC,Cynthia McKinney,0
 Marion,0783,President,,REP,John McCain,60
 Marion,0783,President,,LIB,Bob Barr,0
@@ -944,7 +944,7 @@ Marion,0783,President,,DEM,Barack Obama,58
 Marion,0783,President,,,Write-ins,2
 Marion,0783,President,,,Over Votes,0
 Marion,0783,President,,,Under Votes,0
-Marion,0784,President,,PEP,Ralph Nader,4
+Marion,0784,President,,PCE,Ralph Nader,4
 Marion,0784,President,,PAC,Cynthia McKinney,0
 Marion,0784,President,,REP,John McCain,66
 Marion,0784,President,,LIB,Bob Barr,0
@@ -953,7 +953,7 @@ Marion,0784,President,,DEM,Barack Obama,91
 Marion,0784,President,,,Write-ins,1
 Marion,0784,President,,,Over Votes,0
 Marion,0784,President,,,Under Votes,3
-Marion,0785,President,,PEP,Ralph Nader,6
+Marion,0785,President,,PCE,Ralph Nader,6
 Marion,0785,President,,PAC,Cynthia McKinney,1
 Marion,0785,President,,REP,John McCain,554
 Marion,0785,President,,LIB,Bob Barr,9
@@ -962,7 +962,7 @@ Marion,0785,President,,DEM,Barack Obama,459
 Marion,0785,President,,,Write-ins,7
 Marion,0785,President,,,Over Votes,0
 Marion,0785,President,,,Under Votes,5
-Marion,0786,President,,PEP,Ralph Nader,3
+Marion,0786,President,,PCE,Ralph Nader,3
 Marion,0786,President,,PAC,Cynthia McKinney,2
 Marion,0786,President,,REP,John McCain,226
 Marion,0786,President,,LIB,Bob Barr,2
@@ -971,7 +971,7 @@ Marion,0786,President,,DEM,Barack Obama,207
 Marion,0786,President,,,Write-ins,4
 Marion,0786,President,,,Over Votes,0
 Marion,0786,President,,,Under Votes,2
-Marion,0787,President,,PEP,Ralph Nader,30
+Marion,0787,President,,PCE,Ralph Nader,30
 Marion,0787,President,,PAC,Cynthia McKinney,11
 Marion,0787,President,,REP,John McCain,1734
 Marion,0787,President,,LIB,Bob Barr,9
@@ -980,7 +980,7 @@ Marion,0787,President,,DEM,Barack Obama,1180
 Marion,0787,President,,,Write-ins,24
 Marion,0787,President,,,Over Votes,0
 Marion,0787,President,,,Under Votes,65
-Marion,0788,President,,PEP,Ralph Nader,17
+Marion,0788,President,,PCE,Ralph Nader,17
 Marion,0788,President,,PAC,Cynthia McKinney,1
 Marion,0788,President,,REP,John McCain,949
 Marion,0788,President,,LIB,Bob Barr,5
@@ -989,7 +989,7 @@ Marion,0788,President,,DEM,Barack Obama,595
 Marion,0788,President,,,Write-ins,7
 Marion,0788,President,,,Over Votes,0
 Marion,0788,President,,,Under Votes,11
-Marion,0789,President,,PEP,Ralph Nader,21
+Marion,0789,President,,PCE,Ralph Nader,21
 Marion,0789,President,,PAC,Cynthia McKinney,9
 Marion,0789,President,,REP,John McCain,1145
 Marion,0789,President,,LIB,Bob Barr,10
@@ -998,7 +998,7 @@ Marion,0789,President,,DEM,Barack Obama,723
 Marion,0789,President,,,Write-ins,18
 Marion,0789,President,,,Over Votes,0
 Marion,0789,President,,,Under Votes,24
-Marion,0790,President,,PEP,Ralph Nader,0
+Marion,0790,President,,PCE,Ralph Nader,0
 Marion,0790,President,,PAC,Cynthia McKinney,0
 Marion,0790,President,,REP,John McCain,1
 Marion,0790,President,,LIB,Bob Barr,0
@@ -1007,7 +1007,7 @@ Marion,0790,President,,DEM,Barack Obama,5
 Marion,0790,President,,,Write-ins,0
 Marion,0790,President,,,Over Votes,0
 Marion,0790,President,,,Under Votes,0
-Marion,0791,President,,PEP,Ralph Nader,0
+Marion,0791,President,,PCE,Ralph Nader,0
 Marion,0791,President,,PAC,Cynthia McKinney,0
 Marion,0791,President,,REP,John McCain,0
 Marion,0791,President,,LIB,Bob Barr,0
@@ -1016,7 +1016,7 @@ Marion,0791,President,,DEM,Barack Obama,0
 Marion,0791,President,,,Write-ins,0
 Marion,0791,President,,,Over Votes,0
 Marion,0791,President,,,Under Votes,0
-Marion,0792,President,,PEP,Ralph Nader,0
+Marion,0792,President,,PCE,Ralph Nader,0
 Marion,0792,President,,PAC,Cynthia McKinney,0
 Marion,0792,President,,REP,John McCain,2
 Marion,0792,President,,LIB,Bob Barr,0
@@ -1025,7 +1025,7 @@ Marion,0792,President,,DEM,Barack Obama,3
 Marion,0792,President,,,Write-ins,0
 Marion,0792,President,,,Over Votes,0
 Marion,0792,President,,,Under Votes,0
-Marion,0815,President,,PEP,Ralph Nader,9
+Marion,0815,President,,PCE,Ralph Nader,9
 Marion,0815,President,,PAC,Cynthia McKinney,1
 Marion,0815,President,,REP,John McCain,759
 Marion,0815,President,,LIB,Bob Barr,10
@@ -1034,7 +1034,7 @@ Marion,0815,President,,DEM,Barack Obama,892
 Marion,0815,President,,,Write-ins,6
 Marion,0815,President,,,Over Votes,3
 Marion,0815,President,,,Under Votes,21
-Marion,0825,President,,PEP,Ralph Nader,7
+Marion,0825,President,,PCE,Ralph Nader,7
 Marion,0825,President,,PAC,Cynthia McKinney,2
 Marion,0825,President,,REP,John McCain,263
 Marion,0825,President,,LIB,Bob Barr,0
@@ -1043,7 +1043,7 @@ Marion,0825,President,,DEM,Barack Obama,368
 Marion,0825,President,,,Write-ins,3
 Marion,0825,President,,,Over Votes,0
 Marion,0825,President,,,Under Votes,26
-Marion,0835,President,,PEP,Ralph Nader,4
+Marion,0835,President,,PCE,Ralph Nader,4
 Marion,0835,President,,PAC,Cynthia McKinney,3
 Marion,0835,President,,REP,John McCain,323
 Marion,0835,President,,LIB,Bob Barr,1
@@ -1052,7 +1052,7 @@ Marion,0835,President,,DEM,Barack Obama,403
 Marion,0835,President,,,Write-ins,7
 Marion,0835,President,,,Over Votes,0
 Marion,0835,President,,,Under Votes,9
-Marion,0845,President,,PEP,Ralph Nader,15
+Marion,0845,President,,PCE,Ralph Nader,15
 Marion,0845,President,,PAC,Cynthia McKinney,5
 Marion,0845,President,,REP,John McCain,955
 Marion,0845,President,,LIB,Bob Barr,6
@@ -1061,7 +1061,7 @@ Marion,0845,President,,DEM,Barack Obama,992
 Marion,0845,President,,,Write-ins,14
 Marion,0845,President,,,Over Votes,8
 Marion,0845,President,,,Under Votes,24
-Marion,0855,President,,PEP,Ralph Nader,11
+Marion,0855,President,,PCE,Ralph Nader,11
 Marion,0855,President,,PAC,Cynthia McKinney,1
 Marion,0855,President,,REP,John McCain,231
 Marion,0855,President,,LIB,Bob Barr,4
@@ -1070,7 +1070,7 @@ Marion,0855,President,,DEM,Barack Obama,423
 Marion,0855,President,,,Write-ins,7
 Marion,0855,President,,,Over Votes,0
 Marion,0855,President,,,Under Votes,2
-Marion,0865,President,,PEP,Ralph Nader,3
+Marion,0865,President,,PCE,Ralph Nader,3
 Marion,0865,President,,PAC,Cynthia McKinney,1
 Marion,0865,President,,REP,John McCain,270
 Marion,0865,President,,LIB,Bob Barr,4
@@ -1079,7 +1079,7 @@ Marion,0865,President,,DEM,Barack Obama,334
 Marion,0865,President,,,Write-ins,7
 Marion,0865,President,,,Over Votes,1
 Marion,0865,President,,,Under Votes,6
-Marion,0905,President,,PEP,Ralph Nader,1
+Marion,0905,President,,PCE,Ralph Nader,1
 Marion,0905,President,,PAC,Cynthia McKinney,0
 Marion,0905,President,,REP,John McCain,60
 Marion,0905,President,,LIB,Bob Barr,0
@@ -1088,7 +1088,7 @@ Marion,0905,President,,DEM,Barack Obama,50
 Marion,0905,President,,,Write-ins,0
 Marion,0905,President,,,Over Votes,0
 Marion,0905,President,,,Under Votes,1
-Marion,0915,President,,PEP,Ralph Nader,2
+Marion,0915,President,,PCE,Ralph Nader,2
 Marion,0915,President,,PAC,Cynthia McKinney,3
 Marion,0915,President,,REP,John McCain,109
 Marion,0915,President,,LIB,Bob Barr,2
@@ -1097,7 +1097,7 @@ Marion,0915,President,,DEM,Barack Obama,93
 Marion,0915,President,,,Write-ins,2
 Marion,0915,President,,,Over Votes,1
 Marion,0915,President,,,Under Votes,6
-Marion,0925,President,,PEP,Ralph Nader,0
+Marion,0925,President,,PCE,Ralph Nader,0
 Marion,0925,President,,PAC,Cynthia McKinney,0
 Marion,0925,President,,REP,John McCain,53
 Marion,0925,President,,LIB,Bob Barr,1
@@ -1106,7 +1106,7 @@ Marion,0925,President,,DEM,Barack Obama,41
 Marion,0925,President,,,Write-ins,0
 Marion,0925,President,,,Over Votes,0
 Marion,0925,President,,,Under Votes,0
-Marion,0935,President,,PEP,Ralph Nader,1
+Marion,0935,President,,PCE,Ralph Nader,1
 Marion,0935,President,,PAC,Cynthia McKinney,0
 Marion,0935,President,,REP,John McCain,14
 Marion,0935,President,,LIB,Bob Barr,0
@@ -1115,7 +1115,7 @@ Marion,0935,President,,DEM,Barack Obama,12
 Marion,0935,President,,,Write-ins,0
 Marion,0935,President,,,Over Votes,1
 Marion,0935,President,,,Under Votes,0
-Marion,0981,President,,PEP,Ralph Nader,9
+Marion,0981,President,,PCE,Ralph Nader,9
 Marion,0981,President,,PAC,Cynthia McKinney,0
 Marion,0981,President,,REP,John McCain,133
 Marion,0981,President,,LIB,Bob Barr,3
@@ -1124,7 +1124,7 @@ Marion,0981,President,,DEM,Barack Obama,144
 Marion,0981,President,,,Write-ins,1
 Marion,0981,President,,,Over Votes,0
 Marion,0981,President,,,Under Votes,1
-Marion,0982,President,,PEP,Ralph Nader,0
+Marion,0982,President,,PCE,Ralph Nader,0
 Marion,0982,President,,PAC,Cynthia McKinney,0
 Marion,0982,President,,REP,John McCain,0
 Marion,0982,President,,LIB,Bob Barr,0
