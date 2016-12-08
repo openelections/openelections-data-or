@@ -25,9 +25,12 @@
 import csv
 import sys
 import re
+import argparse
 
 def main():
-	with open(sys.argv[1], 'rU') as csvfile:
+	args = parseArguments()
+
+	with open(args.path, 'rU') as csvfile:
 		reader = csv.DictReader(csvfile)
 		groupingColumns = ()
 		totalColumn = ''
@@ -75,16 +78,32 @@ def main():
 					if voteTotal != votes:
 						print "ERROR: %d != %s" % (voteTotal, row["votes"])
 						print "ERROR: %s" % repr(row)
-					# print row
+					if args.verbose:
+						print "===="
+						print row
 				else:
 					voteTotal += votes
-					# print "total=%d" % voteTotal
-					# print row
+
+					if args.verbose:
+						print "===="
+						print "total=%d" % voteTotal
+						print row
 			else:
 				currentGroup = rowGroup
 				voteTotal = votes # reset the vote total
-				# print "total=%d" % voteTotal
-				# print row
+
+				if args.verbose:
+					print "===="
+					print "total=%d" % voteTotal
+					print row
+
+def parseArguments():
+	parser = argparse.ArgumentParser(description='Verify votes are correct using a simple checksum')
+	parser.add_argument('--verbose -v', dest='verbose', action='store_true')
+	parser.add_argument('path', type=str, help='path to a CSV file')
+	parser.set_defaults(verbose=False)
+
+	return parser.parse_args()
 
 
 # Default function is main()

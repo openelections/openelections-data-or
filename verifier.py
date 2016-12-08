@@ -130,11 +130,13 @@ class Verifier(object):
 		with open(path, 'rU') as csvfile:
 			self.reader = csv.DictReader(csvfile)
 			self.currentRowIndex = 0
+			self.headerColumnCount = 0
 			
 			if self.verifyColumns(self.reader.fieldnames):
 				for index, row in enumerate(self.reader):
 					self.currentRowIndex = index + 2 # 1 for header; 1 for human-readable, 1-indexed list
 
+					self.verifyColumnsOfRow(row)
 					self.verifyCounty(row)
 					self.verifyOffice(row)
 					self.verifyDistrict(row)
@@ -143,6 +145,8 @@ class Verifier(object):
 					self.verifyVotes(row)
 
 	def verifyColumns(self, columns):
+		self.headerColumnCount = len(columns)
+
 		invalidColumns = set(columns) - Verifier.validColumns
 		missingColumns = self.requiredColumns() - set(columns)
 
@@ -157,6 +161,14 @@ class Verifier(object):
 
 	def requiredColumns(self):
 		return Verifier.requiredColumnSet
+
+	def verifyColumnsOfRow(self, row):
+		badColumnCount = len(row) - self.headerColumnCount
+
+		if badColumnCount < 0:
+			self.printError("Row is missing {} column(s)".format(abs(badColumnCount)), row)
+		elif badColumnCount > 0:
+			self.printError("Row has {} extra column(s)".format(badColumnCount), row)
 
 	def verifyCounty(self, row):
 		normalisedCounty = row['county'].title()
