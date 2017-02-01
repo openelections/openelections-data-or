@@ -45,7 +45,7 @@ def parseArguments():
 	parser.add_argument('--mutePrimaryPartiesError', dest='mutePrimaryPartiesError', action='store_true')
 	parser.add_argument('--muteXForDistrictError', dest='muteXForDistrictError', action='store_true')
 	parser.set_defaults(mutePrimaryPartiesError=False, muteXForDistrictError=False)
-	parser.add_argument('paths', metavar='N', type=str, nargs='+',
+	parser.add_argument('paths', metavar='path', type=str, nargs='+',
 					   help='path to a CSV file')
 
 	return parser.parse_args()
@@ -54,6 +54,7 @@ def parseArguments():
 class Verifier(object):
 	validColumns = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'notes'])
 	requiredColumnSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
+	uniqueRowIDSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
 	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer'])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
 	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast'])
@@ -83,6 +84,7 @@ class Verifier(object):
 	def __init__(self, path):
 		self.path = path
 		self.columns = []
+		self.uniqueRowIDs = {}
 		self.reader = None
 		self.ready = False
 		self.showPrimaryPartiesError = True
@@ -143,6 +145,7 @@ class Verifier(object):
 					self.verifyCandidate(row)
 					self.verifyParty(row)
 					self.verifyVotes(row)
+					self.verifyRowIsUnique(row)
 
 	def verifyColumns(self, columns):
 		self.headerColumnCount = len(columns)
@@ -217,6 +220,14 @@ class Verifier(object):
 	def verifyVotes(self, row):
 		if not self.verifyInteger(row['votes']):
 			self.printError("Vote count must be an integer", row)
+
+	def verifyRowIsUnique(self, row):
+		rowTuple = tuple(row[col] for col in Verifier.uniqueRowIDSet)
+
+		if rowTuple in self.uniqueRowIDs:
+			self.printError("Line is duplicated (original line {})".format(self.uniqueRowIDs[rowTuple]), row)
+		else:
+			self.uniqueRowIDs[rowTuple] = self.currentRowIndex
 
 	def verifyInteger(self, numberStr):
 		try:
