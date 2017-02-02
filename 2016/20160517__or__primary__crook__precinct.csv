@@ -1,9 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Crook,1,Voters,,,Registered,319
-Crook,1,Voters,,D,Ballots,103
-Crook,1,Voters,,R,Ballots,162
-Crook,1,Voters,,I,Ballots,19
-Crook,1,Voters,,NP,Ballots,35
 Crook,1,President,,D,Hillary Clinton,41
 Crook,1,President,,D,Bernie Sanders,55
 Crook,1,President,,D,Write-ins,2
@@ -75,11 +70,6 @@ Crook,1,State Treasurer,,Ind,Write-ins,4
 Crook,1,Attorney General,,Ind,Write-ins,4
 Crook,1,State Senate,28,Ind,Write-ins,3
 Crook,1,State House,55,Ind,Write-ins,4
-Crook,2,Voters,,,Registered,233
-Crook,2,Voters,,D,Ballots,75
-Crook,2,Voters,,R,Ballots,106
-Crook,2,Voters,,I,Ballots,19
-Crook,2,Voters,,NP,Ballots,33
 Crook,2,President,,D,Hillary Clinton,30
 Crook,2,President,,D,Bernie Sanders,40
 Crook,2,President,,D,Write-ins,3
@@ -151,11 +141,6 @@ Crook,2,State Treasurer,,Ind,Write-ins,1
 Crook,2,Attorney General,,Ind,Write-ins,3
 Crook,2,State Senate,28,Ind,Write-ins,2
 Crook,2,State House,55,Ind,Write-ins,2
-Crook,3,Voters,,,Registered,121
-Crook,3,Voters,,D,Ballots,53
-Crook,3,Voters,,R,Ballots,45
-Crook,3,Voters,,I,Ballots,5
-Crook,3,Voters,,NP,Ballots,18
 Crook,3,President,,D,Hillary Clinton,17
 Crook,3,President,,D,Bernie Sanders,27
 Crook,3,President,,D,Write-ins,3
@@ -227,11 +212,6 @@ Crook,3,State Treasurer,,Ind,Write-ins,2
 Crook,3,Attorney General,,Ind,Write-ins,1
 Crook,3,State Senate,28,Ind,Write-ins,1
 Crook,3,State House,55,Ind,Write-ins,1
-Crook,4,Voters,,,Registered,644
-Crook,4,Voters,,D,Ballots,148
-Crook,4,Voters,,R,Ballots,398
-Crook,4,Voters,,I,Ballots,31
-Crook,4,Voters,,NP,Ballots,67
 Crook,4,President,,D,Hillary Clinton,39
 Crook,4,President,,D,Bernie Sanders,89
 Crook,4,President,,D,Write-ins,11
@@ -303,11 +283,6 @@ Crook,4,State Treasurer,,Ind,Write-ins,1
 Crook,4,Attorney General,,Ind,Write-ins,1
 Crook,4,State Senate,28,Ind,Write-ins,6
 Crook,4,State House,55,Ind,Write-ins,2
-Crook,5,Voters,,,Registered,1143
-Crook,5,Voters,,D,Ballots,296
-Crook,5,Voters,,R,Ballots,621
-Crook,5,Voters,,I,Ballots,76
-Crook,5,Voters,,NP,Ballots,150
 Crook,5,President,,D,Hillary Clinton,121
 Crook,5,President,,D,Bernie Sanders,137
 Crook,5,President,,D,Write-ins,14
@@ -379,11 +354,6 @@ Crook,5,State Treasurer,,Ind,Write-ins,5
 Crook,5,Attorney General,,Ind,Write-ins,7
 Crook,5,State Senate,28,Ind,Write-ins,15
 Crook,5,State House,55,Ind,Write-ins,11
-Crook,6,Voters,,,Registered,396
-Crook,6,Voters,,D,Ballots,133
-Crook,6,Voters,,R,Ballots,196
-Crook,6,Voters,,I,Ballots,24
-Crook,6,Voters,,NP,Ballots,43
 Crook,6,President,,D,Hillary Clinton,59
 Crook,6,President,,D,Bernie Sanders,64
 Crook,6,President,,D,Write-ins,5
@@ -455,11 +425,6 @@ Crook,6,State Treasurer,,Ind,Write-ins,0
 Crook,6,Attorney General,,Ind,Write-ins,4
 Crook,6,State Senate,28,Ind,Write-ins,5
 Crook,6,State House,55,Ind,Write-ins,4
-Crook,7,Voters,,,Registered,170
-Crook,7,Voters,,D,Ballots,28
-Crook,7,Voters,,R,Ballots,122
-Crook,7,Voters,,I,Ballots,9
-Crook,7,Voters,,NP,Ballots,11
 Crook,7,President,,D,Hillary Clinton,12
 Crook,7,President,,D,Bernie Sanders,12
 Crook,7,President,,D,Write-ins,1
@@ -531,11 +496,6 @@ Crook,7,State Treasurer,,Ind,Write-ins,4
 Crook,7,Attorney General,,Ind,Write-ins,2
 Crook,7,State Senate,28,Ind,Write-ins,2
 Crook,7,State House,55,Ind,Write-ins,2
-Crook,8,Voters,,,Registered,296
-Crook,8,Voters,,D,Ballots,96
-Crook,8,Voters,,R,Ballots,136
-Crook,8,Voters,,I,Ballots,13
-Crook,8,Voters,,NP,Ballots,51
 Crook,8,President,,D,Hillary Clinton,31
 Crook,8,President,,D,Bernie Sanders,50
 Crook,8,President,,D,Write-ins,8
@@ -607,11 +567,6 @@ Crook,8,State Treasurer,,Ind,Write-ins,0
 Crook,8,Attorney General,,Ind,Write-ins,0
 Crook,8,State Senate,28,Ind,Write-ins,1
 Crook,8,State House,55,Ind,Write-ins,0
-Crook,9,Voters,,,Registered,98
-Crook,9,Voters,,D,Ballots,16
-Crook,9,Voters,,R,Ballots,63
-Crook,9,Voters,,I,Ballots,7
-Crook,9,Voters,,NP,Ballots,12
 Crook,9,President,,D,Hillary Clinton,5
 Crook,9,President,,D,Bernie Sanders,7
 Crook,9,President,,D,Write-ins,1
@@ -683,11 +638,6 @@ Crook,9,State Treasurer,,Ind,Write-ins,0
 Crook,9,Attorney General,,Ind,Write-ins,2
 Crook,9,State Senate,28,Ind,Write-ins,3
 Crook,9,State House,55,Ind,Write-ins,1
-Crook,10,Voters,,,Registered,248
-Crook,10,Voters,,D,Ballots,96
-Crook,10,Voters,,R,Ballots,119
-Crook,10,Voters,,I,Ballots,7
-Crook,10,Voters,,NP,Ballots,26
 Crook,10,President,,D,Hillary Clinton,45
 Crook,10,President,,D,Bernie Sanders,37
 Crook,10,President,,D,Write-ins,4
@@ -759,11 +709,6 @@ Crook,10,State Treasurer,,Ind,Write-ins,0
 Crook,10,Attorney General,,Ind,Write-ins,1
 Crook,10,State Senate,28,Ind,Write-ins,0
 Crook,10,State House,55,Ind,Write-ins,1
-Crook,11,Voters,,,Registered,1071
-Crook,11,Voters,,D,Ballots,257
-Crook,11,Voters,,R,Ballots,689
-Crook,11,Voters,,I,Ballots,54
-Crook,11,Voters,,NP,Ballots,71
 Crook,11,President,,D,Hillary Clinton,120
 Crook,11,President,,D,Bernie Sanders,113
 Crook,11,President,,D,Write-ins,14
@@ -835,11 +780,6 @@ Crook,11,State Treasurer,,Ind,Write-ins,3
 Crook,11,Attorney General,,Ind,Write-ins,5
 Crook,11,State Senate,28,Ind,Write-ins,8
 Crook,11,State House,55,Ind,Write-ins,6
-Crook,12,Voters,,,Registered,82
-Crook,12,Voters,,D,Ballots,13
-Crook,12,Voters,,R,Ballots,58
-Crook,12,Voters,,I,Ballots,6
-Crook,12,Voters,,NP,Ballots,5
 Crook,12,President,,D,Hillary Clinton,3
 Crook,12,President,,D,Bernie Sanders,7
 Crook,12,President,,D,Write-ins,0
@@ -911,11 +851,6 @@ Crook,12,State Treasurer,,Ind,Write-ins,1
 Crook,12,Attorney General,,Ind,Write-ins,1
 Crook,12,State Senate,28,Ind,Write-ins,1
 Crook,12,State House,55,Ind,Write-ins,1
-Crook,13,Voters,,,Registered,431
-Crook,13,Voters,,D,Ballots,112
-Crook,13,Voters,,R,Ballots,250
-Crook,13,Voters,,I,Ballots,17
-Crook,13,Voters,,NP,Ballots,52
 Crook,13,President,,D,Hillary Clinton,48
 Crook,13,President,,D,Bernie Sanders,47
 Crook,13,President,,D,Write-ins,8
@@ -987,11 +922,6 @@ Crook,13,State Treasurer,,Ind,Write-ins,3
 Crook,13,Attorney General,,Ind,Write-ins,6
 Crook,13,State Senate,28,Ind,Write-ins,5
 Crook,13,State House,55,Ind,Write-ins,4
-Crook,14,Voters,,,Registered,233
-Crook,14,Voters,,D,Ballots,70
-Crook,14,Voters,,R,Ballots,107
-Crook,14,Voters,,I,Ballots,29
-Crook,14,Voters,,NP,Ballots,27
 Crook,14,President,,D,Hillary Clinton,27
 Crook,14,President,,D,Bernie Sanders,41
 Crook,14,President,,D,Write-ins,1
@@ -1063,11 +993,6 @@ Crook,14,State Treasurer,,Ind,Write-ins,1
 Crook,14,Attorney General,,Ind,Write-ins,2
 Crook,14,State Senate,28,Ind,Write-ins,4
 Crook,14,State House,55,Ind,Write-ins,4
-Crook,15,Voters,,,Registered,605,p99
-Crook,15,Voters,,D,Ballots,163
-Crook,15,Voters,,R,Ballots,346
-Crook,15,Voters,,I,Ballots,41
-Crook,15,Voters,,NP,Ballots,55
 Crook,15,President,,D,Hillary Clinton,51
 Crook,15,President,,D,Bernie Sanders,77
 Crook,15,President,,D,Write-ins,19
@@ -1139,11 +1064,6 @@ Crook,15,State Treasurer,,Ind,Write-ins,3
 Crook,15,Attorney General,,Ind,Write-ins,5
 Crook,15,State Senate,28,Ind,Write-ins,10
 Crook,15,State House,55,Ind,Write-ins,7
-Crook,16,Voters,,,Registered,381
-Crook,16,Voters,,D,Ballots,88
-Crook,16,Voters,,R,Ballots,226
-Crook,16,Voters,,I,Ballots,17
-Crook,16,Voters,,NP,Ballots,50
 Crook,16,President,,D,Hillary Clinton,38
 Crook,16,President,,D,Bernie Sanders,31
 Crook,16,President,,D,Write-ins,13
@@ -1215,11 +1135,6 @@ Crook,16,State Treasurer,,Ind,Write-ins,3
 Crook,16,Attorney General,,Ind,Write-ins,5
 Crook,16,State Senate,28,Ind,Write-ins,6
 Crook,16,State House,55,Ind,Write-ins,5
-Crook,17,Voters,,,Registered,1439
-Crook,17,Voters,,D,Ballots,397
-Crook,17,Voters,,R,Ballots,795
-Crook,17,Voters,,I,Ballots,81
-Crook,17,Voters,,NP,Ballots,166
 Crook,17,President,,D,Hillary Clinton,157
 Crook,17,President,,D,Bernie Sanders,197
 Crook,17,President,,D,Write-ins,22
