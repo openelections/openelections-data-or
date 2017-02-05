@@ -72,7 +72,7 @@ def main():
 				continue
 
 			if rowGroup == currentGroup:
-				if row["candidate"] in ("Under Votes", "Over Votes", "Total Votes Cast", "Under-Votes", "Over-Votes"):
+				if not args.includeOverUnder and row["candidate"] in ("Under Votes", "Over Votes", "Total Votes Cast"):
 					continue
 				elif row[totalColumn] == "Total":
 					if voteTotal != votes:
@@ -100,6 +100,7 @@ def main():
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify votes are correct using a simple checksum')
 	parser.add_argument('--verbose -v', dest='verbose', action='store_true')
+	parser.add_argument('--includeOverUnder', dest='includeOverUnder', action='store_true')
 	parser.add_argument('path', type=str, help='path to a CSV file')
 	parser.set_defaults(verbose=False)
 
