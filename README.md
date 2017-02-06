@@ -7,3 +7,7 @@ Here is what a [finished CSV file (from Ohio)](https://github.com/openelections/
 For extracting text from PDF tables,we recommend [Tabula](http://tabula.technology/), which can be installed and run locally on OSX,Windows or Linux.
 
 If you're familiar with git and Github,clone this repository and get started. If not, you can still help: leave a comment on a task you'd like to work on, or just convert any of the files into CSV and send the result to openelections@gmail.com.
+
+## Code License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
