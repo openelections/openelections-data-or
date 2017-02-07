@@ -22,7 +22,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 # SOFTWARE.
 
-import pdb
+import argparse
 import csv
 import sys
 import re
@@ -42,7 +42,7 @@ office_lookup = {
 
 # Configure variables
 county = 'Umatilla'
-outfile = '20001107__or__general__umatilla__precinct.csv'
+outfileFormat = '{}__or__general__{}__precinct.csv'
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
@@ -50,7 +50,9 @@ headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'vo
 def main():
 	csvLines = []
 
-	with open(sys.argv[1], 'rb') as csvfile:
+	args = parseArguments()
+
+	with open(args.path, 'rb') as csvfile:
 		reader = csv.reader(csvfile, delimiter=',', quotechar='"')
 		header = []
 		office = ""
@@ -72,12 +74,20 @@ def main():
 							candidate, party = parseParty(candidate)
 							csvLines.append([county, precinct, normalisedOffice, district, party, candidate, votes])
 
-	with open(outfile, 'wb') as csvfile:
+	with open(outfileName(args.date, args.county), 'wb') as csvfile:
 		w = csv.writer(csvfile)
 		w.writerow(headers)
 
 		for row in csvLines:
 			w.writerow(row)
+
+def parseArguments():
+	parser = argparse.ArgumentParser(description='Turn a general csv into an OE-formatted csv')
+	parser.add_argument('date', type=str, help='Date of the election. Used in the generated filename.')
+	parser.add_argument('county', type=str, help='County of the election. Used in the generated filename.')
+	parser.add_argument('path', type=str, help='Path to an generically-formatted CSV file.')
+
+	return parser.parse_args()
 
 def parseOfficeDistrict(text):
 	party = ""
@@ -106,6 +116,9 @@ def parseParty(text):
 
 	return (text, party)
 
+def outfileName(date, county):
+	name = outfileFormat.format(date, county.lower())
+	return name
 
 
 
