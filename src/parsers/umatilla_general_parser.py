@@ -43,6 +43,7 @@ office_lookup = {
 # Configure variables
 county = 'Umatilla'
 outfileFormat = '{}__or__general__{}__precinct.csv'
+partyPostfixRE = re.compile(" \((DEM|REP|LIB|CON|REF|PAC|IND)\)$")
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
@@ -60,7 +61,11 @@ def main():
 		party = ""
 		for row in reader:
 			if row[0]:
-				office, district = parseOfficeDistrict(row[0])
+				if args.isGeneral:
+					office, district = parseOfficeDistrict(row[0])
+				else:
+					office, district, party = parseOfficeDistrictParty(row[0])
+
 				header = row
 			elif row[1] == 'TOTAL':
 				continue
@@ -68,11 +73,14 @@ def main():
 				for index, votes in reversed(list(enumerate(row))):
 					if index > 1 and row[index]:
 						if header[index] not in ['Voters', 'Pct', '']:
-							normalisedOffice = office_lookup[office.upper()] # Normalise the office
+							normalizedOffice = normalizeOffice(office)
 							precinct = row[1]
 							candidate = "Total" if header[index] == "Trnout" else header[index]
-							candidate, party = parseParty(candidate)
-							csvLines.append([county, precinct, normalisedOffice, district, party, candidate, votes])
+
+							if args.isGeneral:
+								candidate, party = parseParty(candidate)
+
+							csvLines.append([county, precinct, normalizedOffice, district, party, candidate, votes])
 
 	with open(outfileName(args.date, args.county), 'wb') as csvfile:
 		w = csv.writer(csvfile)
@@ -82,10 +90,15 @@ def main():
 			w.writerow(row)
 
 def parseArguments():
-	parser = argparse.ArgumentParser(description='Turn a general csv into an OE-formatted csv')
+	parser = argparse.ArgumentParser(description='Turn a generic csv into an OE-formatted csv')
 	parser.add_argument('date', type=str, help='Date of the election. Used in the generated filename.')
 	parser.add_argument('county', type=str, help='County of the election. Used in the generated filename.')
 	parser.add_argument('path', type=str, help='Path to an generically-formatted CSV file.')
+
+	# By default, the script will assume the file is a general, --general doesn't have to be specified (but can be).
+	# If multiple arguments are passed, the last one wins.
+	parser.add_argument('--primary', action='store_false', dest='isGeneral', help='Process the file as a primary (parties per office).')
+	parser.add_argument('--general', action='store_true', dest='isGeneral', help='Process the file as a general (parties per candidate). This is the default.')
 
 	return parser.parse_args()
 
@@ -105,7 +118,6 @@ def parseOfficeDistrict(text):
 	return (office, district)
 
 def parseParty(text):
-	partyPostfixRE = re.compile(" \((DEM|REP|LIB|CON|REF|PAC|IND)\)$")
 	party = ''
 
 	m = partyPostfixRE.search(text)
@@ -115,6 +127,36 @@ def parseParty(text):
 		text = text.replace(m.group(0), "") # Remove party from text
 
 	return (text, party)
+
+def parseOfficeDistrictParty(text):
+	party = ""
+	district = ""
+	office = text.strip().upper()
+
+	districtPrefixRE = re.compile(",? (\d\d?)\w\w DISTRICT")
+
+	m = partyPostfixRE.search(office)
+
+	if m:
+		party = m.group(1)
+		office = office.replace(m.group(0), "") # Remove party from text
+
+	m = districtPrefixRE.search(office)
+
+	if m:
+		district = m.group(1)
+		office = office.replace(m.group(0), "") # Remove district from office
+
+	return (office, district, party)
+
+def normalizeOffice(office):
+	try:
+		outOffice = office_lookup[office.upper()] # Normalise the office
+	except KeyError as e:
+		print("Can't find the office '{}'. Did you forget to pass --primary?".format(office))
+		sys.exit(1)
+
+	return outOffice
 
 def outfileName(date, county):
 	name = outfileFormat.format(date, county.lower())
