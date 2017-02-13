@@ -42,7 +42,7 @@ office_lookup = {
 
 # Configure variables
 county = 'Umatilla'
-outfileFormat = '{}__or__general__{}__precinct.csv'
+outfileFormat = '{}__or__{}__{}__precinct.csv'
 partyPostfixRE = re.compile(" \((DEM|REP|LIB|CON|REF|PAC|IND)\)$")
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
@@ -82,7 +82,7 @@ def main():
 
 							csvLines.append([county, precinct, normalizedOffice, district, party, candidate, votes])
 
-	with open(outfileName(args.date, args.county), 'wb') as csvfile:
+	with open(outfileName(args.date, args.county, args.isGeneral), 'wb') as csvfile:
 		w = csv.writer(csvfile)
 		w.writerow(headers)
 
@@ -158,8 +158,9 @@ def normalizeOffice(office):
 
 	return outOffice
 
-def outfileName(date, county):
-	name = outfileFormat.format(date, county.lower())
+def outfileName(date, county, isGeneral):
+	primaryOrGeneral = "general" if isGeneral else "primary"
+	name = outfileFormat.format(date, primaryOrGeneral, county.lower())
 	return name
 
 
