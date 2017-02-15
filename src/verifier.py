@@ -35,6 +35,7 @@ def main():
 		verifier = Verifier(path)
 		verifier.showPrimaryPartiesError = not args.mutePrimaryPartiesError
 		verifier.showXForDistrictError = not args.muteXForDistrictError
+		verifier.singleErrorMode = args.singleError
 
 		if verifier.ready and "matrix" not in verifier.filename:
 			verifier.verify()
@@ -44,6 +45,7 @@ def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify openelections CSV files')
 	parser.add_argument('--mutePrimaryPartiesError', dest='mutePrimaryPartiesError', action='store_true')
 	parser.add_argument('--muteXForDistrictError', dest='muteXForDistrictError', action='store_true')
+	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
 	parser.set_defaults(mutePrimaryPartiesError=False, muteXForDistrictError=False)
 	parser.add_argument('paths', metavar='path', type=str, nargs='+',
 					   help='path to a CSV file')
@@ -89,6 +91,7 @@ class Verifier(object):
 		self.ready = False
 		self.showPrimaryPartiesError = True
 		self.showXForDistrictError = True
+		self.singleErrorMode = False
 
 		self.countyRE = re.compile("\d{8}__[a-z]{2}_")
 
@@ -134,18 +137,21 @@ class Verifier(object):
 			self.currentRowIndex = 0
 			self.headerColumnCount = 0
 			
-			if self.verifyColumns(self.reader.fieldnames):
-				for index, row in enumerate(self.reader):
-					self.currentRowIndex = index + 2 # 1 for header; 1 for human-readable, 1-indexed list
+			try:
+				if self.verifyColumns(self.reader.fieldnames):
+					for index, row in enumerate(self.reader):
+						self.currentRowIndex = index + 2 # 1 for header; 1 for human-readable, 1-indexed list
 
-					self.verifyColumnsOfRow(row)
-					self.verifyCounty(row)
-					self.verifyOffice(row)
-					self.verifyDistrict(row)
-					self.verifyCandidate(row)
-					self.verifyParty(row)
-					self.verifyVotes(row)
-					self.verifyRowIsUnique(row)
+						self.verifyColumnsOfRow(row)
+						self.verifyCounty(row)
+						self.verifyOffice(row)
+						self.verifyDistrict(row)
+						self.verifyCandidate(row)
+						self.verifyParty(row)
+						self.verifyVotes(row)
+						self.verifyRowIsUnique(row)
+			except StopIteration as si:
+				pass # Stop verifying when exception is thrown
 
 	def verifyColumns(self, columns):
 		self.headerColumnCount = len(columns)
@@ -242,6 +248,9 @@ class Verifier(object):
 
 		if row:
 			print(row)
+
+		if self.singleErrorMode:
+			raise StopIteration("Stop after first error")
 
 
 class GeneralPrecinctVerifier(Verifier):
