@@ -99,7 +99,7 @@ def main():
 
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify votes are correct using a simple checksum')
-	parser.add_argument('--verbose -v', dest='verbose', action='store_true')
+	parser.add_argument('--verbose', '-v', dest='verbose', action='store_true')
 	parser.add_argument('--includeOverUnder', dest='includeOverUnder', action='store_true')
 	parser.add_argument('path', type=str, help='path to a CSV file')
 	parser.set_defaults(verbose=False)
