@@ -26,7 +26,7 @@ Curry,24,U.S. Senate,,DEM,Pavel Goberman,3
 Curry,25,U.S. Senate,,DEM,Pavel Goberman,6
 Curry,26,U.S. Senate,,DEM,Pavel Goberman,2
 Curry,27,U.S. Senate,,DEM,Pavel Goberman,0
-Curry,,U.S. Senate,,DEM,Pavel Goberman,94
+Curry,TOTAL,U.S. Senate,,DEM,Pavel Goberman,94
 Curry,1,U.S. Senate,,DEM,Loren Hooker,2
 Curry,2,U.S. Senate,,DEM,Loren Hooker,13
 Curry,3,U.S. Senate,,DEM,Loren Hooker,12
@@ -54,7 +54,7 @@ Curry,24,U.S. Senate,,DEM,Loren Hooker,15
 Curry,25,U.S. Senate,,DEM,Loren Hooker,10
 Curry,26,U.S. Senate,,DEM,Loren Hooker,7
 Curry,27,U.S. Senate,,DEM,Loren Hooker,11
-Curry,,U.S. Senate,,DEM,Loren Hooker,80
+Curry,TOTAL,U.S. Senate,,DEM,Loren Hooker,80
 Curry,1,U.S. Senate,,DEM,Ron Wyden,17
 Curry,2,U.S. Senate,,DEM,Ron Wyden,59
 Curry,3,U.S. Senate,,DEM,Ron Wyden,96
@@ -82,7 +82,7 @@ Curry,24,U.S. Senate,,DEM,Ron Wyden,73
 Curry,25,U.S. Senate,,DEM,Ron Wyden,67
 Curry,26,U.S. Senate,,DEM,Ron Wyden,110
 Curry,27,U.S. Senate,,DEM,Ron Wyden,41
-Curry,,U.S. Senate,,DEM,Ron Wyden,2096
+Curry,TOTAL,U.S. Senate,,DEM,Ron Wyden,2096
 Curry,1,U.S. Senate,,DEM,Write-ins,0
 Curry,2,U.S. Senate,,DEM,Write-ins,0
 Curry,3,U.S. Senate,,DEM,Write-ins,0
@@ -110,7 +110,7 @@ Curry,24,U.S. Senate,,DEM,Write-ins,1
 Curry,25,U.S. Senate,,DEM,Write-ins,4
 Curry,26,U.S. Senate,,DEM,Write-ins,2
 Curry,27,U.S. Senate,,DEM,Write-ins,2
-Curry,,U.S. Senate,,DEM,Write-ins,41
+Curry,TOTAL,U.S. Senate,,DEM,Write-ins,41
 Curry,1,U.S. House,4,DEM,Peter DeFazio,18
 Curry,2,U.S. House,4,DEM,Peter DeFazio,64
 Curry,3,U.S. House,4,DEM,Peter DeFazio,101
@@ -138,7 +138,7 @@ Curry,24,U.S. House,4,DEM,Peter DeFazio,80
 Curry,25,U.S. House,4,DEM,Peter DeFazio,71
 Curry,26,U.S. House,4,DEM,Peter DeFazio,114
 Curry,27,U.S. House,4,DEM,Peter DeFazio,48
-Curry,,U.S. House,4,DEM,Peter DeFazio,2270
+Curry,TOTAL,U.S. House,4,DEM,Peter DeFazio,2270
 Curry,1,U.S. House,4,DEM,Write-ins,0
 Curry,2,U.S. House,4,DEM,Write-ins,3
 Curry,3,U.S. House,4,DEM,Write-ins,1
@@ -166,7 +166,7 @@ Curry,24,U.S. House,4,DEM,Write-ins,5
 Curry,25,U.S. House,4,DEM,Write-ins,7
 Curry,26,U.S. House,4,DEM,Write-ins,4
 Curry,27,U.S. House,4,DEM,Write-ins,3
-Curry,,U.S. House,4,DEM,Write-ins,109
+Curry,TOTAL,U.S. House,4,DEM,Write-ins,109
 Curry,1,Governor,,DEM,Roger Obrist,1
 Curry,2,Governor,,DEM,Roger Obrist,9
 Curry,3,Governor,,DEM,Roger Obrist,10
@@ -194,7 +194,7 @@ Curry,24,Governor,,DEM,Roger Obrist,4
 Curry,25,Governor,,DEM,Roger Obrist,4
 Curry,26,Governor,,DEM,Roger Obrist,2
 Curry,27,Governor,,DEM,Roger Obrist,4
-Curry,,U.S. Senate,,DEM,Roger Obrist,158
+Curry,TOTAL,U.S. Senate,,DEM,Roger Obrist,158
 Curry,1,Governor,,DEM,John Kitzhaber,13
 Curry,2,Governor,,DEM,John Kitzhaber,44
 Curry,3,Governor,,DEM,John Kitzhaber,47
@@ -222,7 +222,7 @@ Curry,24,Governor,,DEM,John Kitzhaber,46
 Curry,25,Governor,,DEM,John Kitzhaber,40
 Curry,26,Governor,,DEM,John Kitzhaber,65
 Curry,27,Governor,,DEM,John Kitzhaber,28
-Curry,,Governor,,DEM,John Kitzhaber,1241
+Curry,TOTAL,Governor,,DEM,John Kitzhaber,1241
 Curry,1,Governor,,DEM,Bill Bradbury,5
 Curry,2,Governor,,DEM,Bill Bradbury,24
 Curry,3,Governor,,DEM,Bill Bradbury,55
@@ -250,7 +250,7 @@ Curry,24,Governor,,DEM,Bill Bradbury,40
 Curry,25,Governor,,DEM,Bill Bradbury,37
 Curry,26,Governor,,DEM,Bill Bradbury,47
 Curry,27,Governor,,DEM,Bill Bradbury,20
-Curry,,Governor,,DEM,Bill Bradbury,1044
+Curry,TOTAL,Governor,,DEM,Bill Bradbury,1044
 Curry,1,Governor,,DEM,Write-ins,0
 Curry,2,Governor,,DEM,Write-ins,0
 Curry,3,Governor,,DEM,Write-ins,0
@@ -278,7 +278,7 @@ Curry,24,Governor,,DEM,Write-ins,3
 Curry,25,Governor,,DEM,Write-ins,4
 Curry,26,Governor,,DEM,Write-ins,4
 Curry,27,Governor,,DEM,Write-ins,1
-Curry,,Governor,,DEM,Write-ins,75
+Curry,TOTAL,Governor,,DEM,Write-ins,75
 Curry,1,State Treasurer,,DEM,Rick Metsger,12
 Curry,2,State Treasurer,,DEM,Rick Metsger,32
 Curry,3,State Treasurer,,DEM,Rick Metsger,33
@@ -306,7 +306,7 @@ Curry,24,State Treasurer,,DEM,Rick Metsger,29
 Curry,25,State Treasurer,,DEM,Rick Metsger,29
 Curry,26,State Treasurer,,DEM,Rick Metsger,36
 Curry,27,State Treasurer,,DEM,Rick Metsger,23
-Curry,,State Treasurer,,DEM,Rick Metsger,821
+Curry,TOTAL,State Treasurer,,DEM,Rick Metsger,821
 Curry,1,State Treasurer,,DEM,Ted Wheeler,5
 Curry,2,State Treasurer,,DEM,Ted Wheeler,34
 Curry,3,State Treasurer,,DEM,Ted Wheeler,58
@@ -334,7 +334,7 @@ Curry,24,State Treasurer,,DEM,Ted Wheeler,57
 Curry,25,State Treasurer,,DEM,Ted Wheeler,35
 Curry,26,State Treasurer,,DEM,Ted Wheeler,65
 Curry,27,State Treasurer,,DEM,Ted Wheeler,25
-Curry,,State Treasurer,,DEM,Ted Wheeler,1241
+Curry,TOTAL,State Treasurer,,DEM,Ted Wheeler,1241
 Curry,1,State Treasurer,,DEM,Write-ins,0
 Curry,2,State Treasurer,,DEM,Write-ins,2
 Curry,3,State Treasurer,,DEM,Write-ins,0
@@ -362,7 +362,7 @@ Curry,24,State Treasurer,,DEM,Write-ins,2
 Curry,25,State Treasurer,,DEM,Write-ins,4
 Curry,26,State Treasurer,,DEM,Write-ins,2
 Curry,27,State Treasurer,,DEM,Write-ins,1
-Curry,,State Treasurer,,DEM,Write-ins,50
+Curry,TOTAL,State Treasurer,,DEM,Write-ins,50
 Curry,1,State House,1,DEM,Lynn Kindred,9
 Curry,2,State House,1,DEM,Lynn Kindred,28
 Curry,3,State House,1,DEM,Lynn Kindred,46
@@ -390,7 +390,7 @@ Curry,24,State House,1,DEM,Lynn Kindred,43
 Curry,25,State House,1,DEM,Lynn Kindred,32
 Curry,26,State House,1,DEM,Lynn Kindred,48
 Curry,27,State House,1,DEM,Lynn Kindred,31
-Curry,,State House,1,DEM,Lynn Kindred,1000
+Curry,TOTAL,State House,1,DEM,Lynn Kindred,1000
 Curry,1,State House,1,DEM,Eldon Rollins,0
 Curry,2,State House,1,DEM,Eldon Rollins,31
 Curry,3,State House,1,DEM,Eldon Rollins,23
@@ -418,7 +418,7 @@ Curry,24,State House,1,DEM,Eldon Rollins,18
 Curry,25,State House,1,DEM,Eldon Rollins,24
 Curry,26,State House,1,DEM,Eldon Rollins,24
 Curry,27,State House,1,DEM,Eldon Rollins,8
-Curry,,State House,1,DEM,Eldon Rollins,512
+Curry,TOTAL,State House,1,DEM,Eldon Rollins,512
 Curry,1,State House,1,DEM,Write-ins,1
 Curry,2,State House,1,DEM,Write-ins,0
 Curry,3,State House,1,DEM,Write-ins,0
@@ -446,7 +446,7 @@ Curry,24,State House,1,DEM,Write-ins,4
 Curry,25,State House,1,DEM,Write-ins,3
 Curry,26,State House,1,DEM,Write-ins,3
 Curry,27,State House,1,DEM,Write-ins,2
-Curry,,State House,1,DEM,Write-ins,74
+Curry,TOTAL,State House,1,DEM,Write-ins,74
 Curry,1,U.S. Senate,,REP,Tom Stutzman,0
 Curry,2,U.S. Senate,,REP,Tom Stutzman,16
 Curry,3,U.S. Senate,,REP,Tom Stutzman,12
@@ -474,7 +474,7 @@ Curry,24,U.S. Senate,,REP,Tom Stutzman,14
 Curry,25,U.S. Senate,,REP,Tom Stutzman,15
 Curry,26,U.S. Senate,,REP,Tom Stutzman,17
 Curry,27,U.S. Senate,,REP,Tom Stutzman,7
-Curry,,U.S. Senate,,REP,Tom Stutzman,339
+Curry,TOTAL,U.S. Senate,,REP,Tom Stutzman,339
 Curry,1,U.S. Senate,,REP,Robin Parker,1
 Curry,2,U.S. Senate,,REP,Robin Parker,3
 Curry,3,U.S. Senate,,REP,Robin Parker,8
@@ -502,7 +502,7 @@ Curry,24,U.S. Senate,,REP,Robin Parker,14
 Curry,25,U.S. Senate,,REP,Robin Parker,15
 Curry,26,U.S. Senate,,REP,Robin Parker,4
 Curry,27,U.S. Senate,,REP,Robin Parker,7
-Curry,,U.S. Senate,,REP,Robin Parker,188
+Curry,TOTAL,U.S. Senate,,REP,Robin Parker,188
 Curry,1,U.S. Senate,,REP,Loren Later,0
 Curry,2,U.S. Senate,,REP,Loren Later,8
 Curry,3,U.S. Senate,,REP,Loren Later,19
@@ -530,7 +530,7 @@ Curry,24,U.S. Senate,,REP,Loren Later,29
 Curry,25,U.S. Senate,,REP,Loren Later,13
 Curry,26,U.S. Senate,,REP,Loren Later,26
 Curry,27,U.S. Senate,,REP,Loren Later,21
-Curry,,U.S. Senate,,REP,Loren Later,516
+Curry,TOTAL,U.S. Senate,,REP,Loren Later,516
 Curry,1,U.S. Senate,,REP,Shane Dinkel,0
 Curry,2,U.S. Senate,,REP,Shane Dinkel,23
 Curry,3,U.S. Senate,,REP,Shane Dinkel,11
@@ -558,7 +558,7 @@ Curry,24,U.S. Senate,,REP,Shane Dinkel,26
 Curry,25,U.S. Senate,,REP,Shane Dinkel,20
 Curry,26,U.S. Senate,,REP,Shane Dinkel,39
 Curry,27,U.S. Senate,,REP,Shane Dinkel,16
-Curry,,U.S. Senate,,REP,Shane Dinkel,539
+Curry,TOTAL,U.S. Senate,,REP,Shane Dinkel,539
 Curry,1,U.S. Senate,,REP,Jim Huffman,1
 Curry,2,U.S. Senate,,REP,Jim Huffman,24
 Curry,3,U.S. Senate,,REP,Jim Huffman,20
@@ -586,7 +586,7 @@ Curry,24,U.S. Senate,,REP,Jim Huffman,22
 Curry,25,U.S. Senate,,REP,Jim Huffman,23
 Curry,26,U.S. Senate,,REP,Jim Huffman,51
 Curry,27,U.S. Senate,,REP,Jim Huffman,11
-Curry,,U.S. Senate,,REP,Jim Huffman,746
+Curry,TOTAL,U.S. Senate,,REP,Jim Huffman,746
 Curry,1,U.S. Senate,,REP,Walter Woodland,1
 Curry,2,U.S. Senate,,REP,Walter Woodland,2
 Curry,3,U.S. Senate,,REP,Walter Woodland,1
@@ -614,7 +614,7 @@ Curry,24,U.S. Senate,,REP,Walter Woodland,4
 Curry,25,U.S. Senate,,REP,Walter Woodland,2
 Curry,26,U.S. Senate,,REP,Walter Woodland,2
 Curry,27,U.S. Senate,,REP,Walter Woodland,0
-Curry,,U.S. Senate,,REP,Walter Woodland,55
+Curry,TOTAL,U.S. Senate,,REP,Walter Woodland,55
 Curry,1,U.S. Senate,,REP,Keith Waldron,0
 Curry,2,U.S. Senate,,REP,Keith Waldron,12
 Curry,3,U.S. Senate,,REP,Keith Waldron,6
@@ -642,7 +642,7 @@ Curry,24,U.S. Senate,,REP,Keith Waldron,15
 Curry,25,U.S. Senate,,REP,Keith Waldron,8
 Curry,26,U.S. Senate,,REP,Keith Waldron,14
 Curry,27,U.S. Senate,,REP,Keith Waldron,11
-Curry,,U.S. Senate,,REP,Keith Waldron,258
+Curry,TOTAL,U.S. Senate,,REP,Keith Waldron,258
 Curry,1,U.S. Senate,,REP,Write-ins,0
 Curry,2,U.S. Senate,,REP,Write-ins,2
 Curry,3,U.S. Senate,,REP,Write-ins,0
@@ -670,7 +670,7 @@ Curry,24,U.S. Senate,,REP,Write-ins,0
 Curry,25,U.S. Senate,,REP,Write-ins,0
 Curry,26,U.S. Senate,,REP,Write-ins,1
 Curry,27,U.S. Senate,,REP,Write-ins,0
-Curry,,U.S. Senate,,REP,Write-ins,33
+Curry,TOTAL,U.S. Senate,,REP,Write-ins,33
 Curry,1,U.S. House,4,REP,Jaynee Germond,1
 Curry,2,U.S. House,4,REP,Jaynee Germond,12
 Curry,3,U.S. House,4,REP,Jaynee Germond,18
@@ -698,7 +698,7 @@ Curry,24,U.S. House,4,REP,Jaynee Germond,20
 Curry,25,U.S. House,4,REP,Jaynee Germond,14
 Curry,26,U.S. House,4,REP,Jaynee Germond,20
 Curry,27,U.S. House,4,REP,Jaynee Germond,14
-Curry,,U.S. House,4,REP,Jaynee Germond,423
+Curry,TOTAL,U.S. House,4,REP,Jaynee Germond,423
 Curry,1,U.S. House,4,REP,Art Robinson,6
 Curry,2,U.S. House,4,REP,Art Robinson,91
 Curry,3,U.S. House,4,REP,Art Robinson,68
@@ -726,7 +726,7 @@ Curry,24,U.S. House,4,REP,Art Robinson,110
 Curry,25,U.S. House,4,REP,Art Robinson,88
 Curry,26,U.S. House,4,REP,Art Robinson,148
 Curry,27,U.S. House,4,REP,Art Robinson,62
-Curry,,U.S. House,4,REP,Art Robinson,2497
+Curry,TOTAL,U.S. House,4,REP,Art Robinson,2497
 Curry,1,U.S. House,4,REP,Write-ins,0
 Curry,2,U.S. House,4,REP,Write-ins,0
 Curry,3,U.S. House,4,REP,Write-ins,0
@@ -754,7 +754,7 @@ Curry,24,U.S. House,4,REP,Write-ins,0
 Curry,25,U.S. House,4,REP,Write-ins,0
 Curry,26,U.S. House,4,REP,Write-ins,1
 Curry,27,U.S. House,4,REP,Write-ins,2
-Curry,,U.S. House,4,REP,Write-ins,29
+Curry,TOTAL,U.S. House,4,REP,Write-ins,29
 Curry,1,Governor,,REP,Bill Sizemore,0
 Curry,2,Governor,,REP,Bill Sizemore,23
 Curry,3,Governor,,REP,Bill Sizemore,17
@@ -782,7 +782,7 @@ Curry,24,Governor,,REP,Bill Sizemore,24
 Curry,25,Governor,,REP,Bill Sizemore,18
 Curry,26,Governor,,REP,Bill Sizemore,36
 Curry,27,Governor,,REP,Bill Sizemore,12
-Curry,,Governor,,REP,Bill Sizemore,547
+Curry,TOTAL,Governor,,REP,Bill Sizemore,547
 Curry,1,Governor,,REP,John Lim,1
 Curry,2,Governor,,REP,John Lim,17
 Curry,3,Governor,,REP,John Lim,15
@@ -810,7 +810,7 @@ Curry,24,Governor,,REP,John Lim,13
 Curry,25,Governor,,REP,John Lim,19
 Curry,26,Governor,,REP,John Lim,20
 Curry,27,Governor,,REP,John Lim,17
-Curry,,Governor,,REP,John Lim,373
+Curry,TOTAL,Governor,,REP,John Lim,373
 Curry,1,Governor,,REP,Darren Karr,0
 Curry,2,Governor,,REP,Darren Karr,0
 Curry,3,Governor,,REP,Darren Karr,0
@@ -838,7 +838,7 @@ Curry,24,Governor,,REP,Darren Karr,3
 Curry,25,Governor,,REP,Darren Karr,3
 Curry,26,Governor,,REP,Darren Karr,0
 Curry,27,Governor,,REP,Darren Karr,1
-Curry,,Governor,,REP,Darren Karr,17
+Curry,TOTAL,Governor,,REP,Darren Karr,17
 Curry,1,Governor,,REP,Clark Colvin,0
 Curry,2,Governor,,REP,Clark Colvin,1
 Curry,3,Governor,,REP,Clark Colvin,1
@@ -866,7 +866,7 @@ Curry,24,Governor,,REP,Clark Colvin,3
 Curry,25,Governor,,REP,Clark Colvin,0
 Curry,26,Governor,,REP,Clark Colvin,3
 Curry,27,Governor,,REP,Clark Colvin,0
-Curry,,Governor,,REP,Clark Colvin,29
+Curry,TOTAL,Governor,,REP,Clark Colvin,29
 Curry,1,Governor,,REP,William Curtwright,0
 Curry,2,Governor,,REP,William Curtwright,18
 Curry,3,Governor,,REP,William Curtwright,4
@@ -894,7 +894,7 @@ Curry,24,Governor,,REP,William Curtwright,18
 Curry,25,Governor,,REP,William Curtwright,12
 Curry,26,Governor,,REP,William Curtwright,23
 Curry,27,Governor,,REP,William Curtwright,16
-Curry,,Governor,,REP,William Curtwright,319
+Curry,TOTAL,Governor,,REP,William Curtwright,319
 Curry,1,Governor,,REP,Chris Dudley,3
 Curry,2,Governor,,REP,Chris Dudley,28
 Curry,3,Governor,,REP,Chris Dudley,13
@@ -922,7 +922,7 @@ Curry,24,Governor,,REP,Chris Dudley,26
 Curry,25,Governor,,REP,Chris Dudley,25
 Curry,26,Governor,,REP,Chris Dudley,37
 Curry,27,Governor,,REP,Chris Dudley,7
-Curry,,Governor,,REP,Chris Dudley,732
+Curry,TOTAL,Governor,,REP,Chris Dudley,732
 Curry,1,Governor,,REP,Bob Forthan,0
 Curry,2,Governor,,REP,Bob Forthan,0
 Curry,3,Governor,,REP,Bob Forthan,0
@@ -950,7 +950,7 @@ Curry,24,Governor,,REP,Bob Forthan,0
 Curry,25,Governor,,REP,Bob Forthan,0
 Curry,26,Governor,,REP,Bob Forthan,2
 Curry,27,Governor,,REP,Bob Forthan,0
-Curry,,Governor,,REP,Bob Forthan,14
+Curry,TOTAL,Governor,,REP,Bob Forthan,14
 Curry,1,Governor,,REP,Allen Alley,2
 Curry,2,Governor,,REP,Allen Alley,21
 Curry,3,Governor,,REP,Allen Alley,38
@@ -978,63 +978,63 @@ Curry,24,Governor,,REP,Allen Alley,39
 Curry,25,Governor,,REP,Allen Alley,21
 Curry,26,Governor,,REP,Allen Alley,53
 Curry,27,Governor,,REP,Allen Alley,24
-Curry,,Governor,,REP,Allen Alley,897
-Curry,1,U.S. House,4,REP,Rex Watkins,0
-Curry,2,U.S. House,4,REP,Rex Watkins,1
-Curry,3,U.S. House,4,REP,Rex Watkins,1
-Curry,4,U.S. House,4,REP,Rex Watkins,1
-Curry,5,U.S. House,4,REP,Rex Watkins,2
-Curry,6,U.S. House,4,REP,Rex Watkins,2
-Curry,7,U.S. House,4,REP,Rex Watkins,1
-Curry,8,U.S. House,4,REP,Rex Watkins,0
-Curry,9,U.S. House,4,REP,Rex Watkins,6
-Curry,10,U.S. House,4,REP,Rex Watkins,1
-Curry,11,U.S. House,4,REP,Rex Watkins,1
-Curry,12,U.S. House,4,REP,Rex Watkins,1
-Curry,13,U.S. House,4,REP,Rex Watkins,1
-Curry,14,U.S. House,4,REP,Rex Watkins,0
-Curry,15,U.S. House,4,REP,Rex Watkins,1
-Curry,16,U.S. House,4,REP,Rex Watkins,6
-Curry,17,U.S. House,4,REP,Rex Watkins,8
-Curry,18,U.S. House,4,REP,Rex Watkins,1
-Curry,19,U.S. House,4,REP,Rex Watkins,5
-Curry,20,U.S. House,4,REP,Rex Watkins,0
-Curry,21,U.S. House,4,REP,Rex Watkins,0
-Curry,22,U.S. House,4,REP,Rex Watkins,3
-Curry,23,U.S. House,4,REP,Rex Watkins,3
-Curry,24,U.S. House,4,REP,Rex Watkins,2
-Curry,25,U.S. House,4,REP,Rex Watkins,3
-Curry,26,U.S. House,4,REP,Rex Watkins,0
-Curry,27,U.S. House,4,REP,Rex Watkins,1
-Curry,,U.S. House,4,REP,Rex Watkins,51
-Curry,1,U.S. House,4,REP,Write-ins,0
-Curry,2,U.S. House,4,REP,Write-ins,1
-Curry,3,U.S. House,4,REP,Write-ins,0
-Curry,4,U.S. House,4,REP,Write-ins,0
-Curry,5,U.S. House,4,REP,Write-ins,1
-Curry,6,U.S. House,4,REP,Write-ins,0
-Curry,7,U.S. House,4,REP,Write-ins,0
-Curry,8,U.S. House,4,REP,Write-ins,1
-Curry,9,U.S. House,4,REP,Write-ins,0
-Curry,10,U.S. House,4,REP,Write-ins,1
-Curry,11,U.S. House,4,REP,Write-ins,3
-Curry,12,U.S. House,4,REP,Write-ins,2
-Curry,13,U.S. House,4,REP,Write-ins,0
-Curry,14,U.S. House,4,REP,Write-ins,1
-Curry,15,U.S. House,4,REP,Write-ins,0
-Curry,16,U.S. House,4,REP,Write-ins,5
-Curry,17,U.S. House,4,REP,Write-ins,3
-Curry,18,U.S. House,4,REP,Write-ins,3
-Curry,19,U.S. House,4,REP,Write-ins,0
-Curry,20,U.S. House,4,REP,Write-ins,3
-Curry,21,U.S. House,4,REP,Write-ins,0
-Curry,22,U.S. House,4,REP,Write-ins,0
-Curry,23,U.S. House,4,REP,Write-ins,1
-Curry,24,U.S. House,4,REP,Write-ins,0
-Curry,25,U.S. House,4,REP,Write-ins,1
-Curry,26,U.S. House,4,REP,Write-ins,2
-Curry,27,U.S. House,4,REP,Write-ins,0
-Curry,,U.S. House,4,REP,Write-ins,28
+Curry,TOTAL,Governor,,REP,Allen Alley,897
+Curry,1,Governor,,REP,Rex Watkins,0
+Curry,2,Governor,,REP,Rex Watkins,1
+Curry,3,Governor,,REP,Rex Watkins,1
+Curry,4,Governor,,REP,Rex Watkins,1
+Curry,5,Governor,,REP,Rex Watkins,2
+Curry,6,Governor,,REP,Rex Watkins,2
+Curry,7,Governor,,REP,Rex Watkins,1
+Curry,8,Governor,,REP,Rex Watkins,0
+Curry,9,Governor,,REP,Rex Watkins,6
+Curry,10,Governor,,REP,Rex Watkins,1
+Curry,11,Governor,,REP,Rex Watkins,1
+Curry,12,Governor,,REP,Rex Watkins,1
+Curry,13,Governor,,REP,Rex Watkins,1
+Curry,14,Governor,,REP,Rex Watkins,0
+Curry,15,Governor,,REP,Rex Watkins,1
+Curry,16,Governor,,REP,Rex Watkins,6
+Curry,17,Governor,,REP,Rex Watkins,8
+Curry,18,Governor,,REP,Rex Watkins,1
+Curry,19,Governor,,REP,Rex Watkins,5
+Curry,20,Governor,,REP,Rex Watkins,0
+Curry,21,Governor,,REP,Rex Watkins,0
+Curry,22,Governor,,REP,Rex Watkins,3
+Curry,23,Governor,,REP,Rex Watkins,3
+Curry,24,Governor,,REP,Rex Watkins,2
+Curry,25,Governor,,REP,Rex Watkins,3
+Curry,26,Governor,,REP,Rex Watkins,0
+Curry,27,Governor,,REP,Rex Watkins,1
+Curry,TOTAL,Governor,,REP,Rex Watkins,51
+Curry,1,Governor,,REP,Write-ins,0
+Curry,2,Governor,,REP,Write-ins,1
+Curry,3,Governor,,REP,Write-ins,0
+Curry,4,Governor,,REP,Write-ins,0
+Curry,5,Governor,,REP,Write-ins,1
+Curry,6,Governor,,REP,Write-ins,0
+Curry,7,Governor,,REP,Write-ins,0
+Curry,8,Governor,,REP,Write-ins,1
+Curry,9,Governor,,REP,Write-ins,0
+Curry,10,Governor,,REP,Write-ins,1
+Curry,11,Governor,,REP,Write-ins,3
+Curry,12,Governor,,REP,Write-ins,2
+Curry,13,Governor,,REP,Write-ins,0
+Curry,14,Governor,,REP,Write-ins,1
+Curry,15,Governor,,REP,Write-ins,0
+Curry,16,Governor,,REP,Write-ins,5
+Curry,17,Governor,,REP,Write-ins,3
+Curry,18,Governor,,REP,Write-ins,3
+Curry,19,Governor,,REP,Write-ins,0
+Curry,20,Governor,,REP,Write-ins,3
+Curry,21,Governor,,REP,Write-ins,0
+Curry,22,Governor,,REP,Write-ins,0
+Curry,23,Governor,,REP,Write-ins,1
+Curry,24,Governor,,REP,Write-ins,0
+Curry,25,Governor,,REP,Write-ins,1
+Curry,26,Governor,,REP,Write-ins,2
+Curry,27,Governor,,REP,Write-ins,0
+Curry,TOTAL,Governor,,REP,Write-ins,28
 Curry,1,State Treasurer,,REP,Chris Teller,3
 Curry,2,State Treasurer,,REP,Chris Teller,78
 Curry,3,State Treasurer,,REP,Chris Teller,66
@@ -1062,7 +1062,7 @@ Curry,24,State Treasurer,,REP,Chris Teller,104
 Curry,25,State Treasurer,,REP,Chris Teller,74
 Curry,26,State Treasurer,,REP,Chris Teller,123
 Curry,27,State Treasurer,,REP,Chris Teller,55
-Curry,,State Treasurer,,REP,Chris Teller,2219
+Curry,TOTAL,State Treasurer,,REP,Chris Teller,2219
 Curry,1,State Treasurer,,REP,Write-ins,0
 Curry,2,State Treasurer,,REP,Write-ins,0
 Curry,3,State Treasurer,,REP,Write-ins,2
@@ -1090,7 +1090,7 @@ Curry,24,State Treasurer,,REP,Write-ins,1
 Curry,25,State Treasurer,,REP,Write-ins,1
 Curry,26,State Treasurer,,REP,Write-ins,1
 Curry,27,State Treasurer,,REP,Write-ins,3
-Curry,,State Treasurer,,REP,Write-ins,44
+Curry,TOTAL,State Treasurer,,REP,Write-ins,44
 Curry,1,State House,1,REP,Wayne Krieger,8
 Curry,2,State House,1,REP,Wayne Krieger,103
 Curry,3,State House,1,REP,Wayne Krieger,84
@@ -1118,7 +1118,7 @@ Curry,24,State House,1,REP,Wayne Krieger,114
 Curry,25,State House,1,REP,Wayne Krieger,86
 Curry,26,State House,1,REP,Wayne Krieger,145
 Curry,27,State House,1,REP,Wayne Krieger,65
-Curry,,State House,1,REP,Wayne Krieger,2656
+Curry,TOTAL,State House,1,REP,Wayne Krieger,2656
 Curry,1,State House,1,REP,Write-ins,0
 Curry,2,State House,1,REP,Write-ins,0
 Curry,3,State House,1,REP,Write-ins,2
@@ -1146,4 +1146,4 @@ Curry,24,State House,1,REP,Write-ins,1
 Curry,25,State House,1,REP,Write-ins,0
 Curry,26,State House,1,REP,Write-ins,3
 Curry,27,State House,1,REP,Write-ins,3
-Curry,,State House,1,REP,Write-ins,44
+Curry,TOTAL,State House,1,REP,Write-ins,44
