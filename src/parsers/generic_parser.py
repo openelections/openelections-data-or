@@ -41,7 +41,6 @@ office_lookup = {
 
 
 # Configure variables
-county = 'Umatilla'
 outfileFormat = '{}__or__{}__{}__precinct.csv'
 partyPostfixRE = re.compile(" \((DEM|REP|LIB|CON|REF|PAC|IND)\)$")
 
@@ -80,7 +79,7 @@ def main():
 							if args.isGeneral:
 								candidate, party = parseParty(candidate)
 
-							csvLines.append([county, precinct, normalizedOffice, district, party, candidate, votes])
+							csvLines.append([args.county, precinct, normalizedOffice, district, party, candidate, votes])
 
 	with open(outfileName(args.date, args.county, args.isGeneral), 'wb') as csvfile:
 		w = csv.writer(csvfile)
