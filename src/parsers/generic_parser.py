@@ -67,7 +67,18 @@ def main():
 
 				header = row
 			elif row[1] == 'TOTAL':
-				continue
+				for index, votes in reversed(list(enumerate(row))):
+					if index > 1 and row[index]:
+						if header[index] not in ['Voters', 'Trnout', 'Pct', '']:
+							precinct = 'Total'
+							normalizedOffice = normalizeOffice(office)
+							candidate = header[index]
+
+							if args.isGeneral:
+								candidate, party = parseParty(candidate)
+
+							csvLines.append([args.county, precinct, normalizedOffice, district, party, candidate, votes])
+
 			else:
 				for index, votes in reversed(list(enumerate(row))):
 					if index > 1 and row[index]:
