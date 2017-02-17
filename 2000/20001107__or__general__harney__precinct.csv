@@ -1,0 +1,181 @@
+county,precinct,office,district,party,candidate,votes
+Harney,21,President,,,Over Votes,5
+Harney,21,President,,,Under Votes,15
+Harney,21,President,,,Write-ins,7
+Harney,21,President,,DEM,Al Gore,361
+Harney,21,President,,CON,Howard Phillips,7
+Harney,21,President,,REF,John Hagelin,3
+Harney,21,President,,PAC,Ralph Nader,37
+Harney,21,President,,REP,George W. Bush,913
+Harney,21,President,,IND,Patrick J. Buchanan,16
+Harney,21,President,,LIB,Harry Browne,6
+Harney,25,President,,,Over Votes,0
+Harney,25,President,,,Under Votes,21
+Harney,25,President,,,Write-ins,3
+Harney,25,President,,DEM,Al Gore,218
+Harney,25,President,,CON,Howard Phillips,4
+Harney,25,President,,REF,John Hagelin,3
+Harney,25,President,,PAC,Ralph Nader,18
+Harney,25,President,,REP,George W. Bush,539
+Harney,25,President,,IND,Patrick J. Buchanan,7
+Harney,25,President,,LIB,Harry Browne,5
+Harney,26,President,,,Over Votes,1
+Harney,26,President,,,Under Votes,14
+Harney,26,President,,,Write-ins,1
+Harney,26,President,,DEM,Al Gore,187
+Harney,26,President,,CON,Howard Phillips,3
+Harney,26,President,,REF,John Hagelin,3
+Harney,26,President,,PAC,Ralph Nader,29
+Harney,26,President,,REP,George W. Bush,1347
+Harney,26,President,,IND,Patrick J. Buchanan,12
+Harney,26,President,,LIB,Harry Browne,5
+Harney,Total,President,,,Over Votes,6
+Harney,Total,President,,,Under Votes,50
+Harney,Total,President,,,Write-ins,11
+Harney,Total,President,,DEM,Al Gore,766
+Harney,Total,President,,CON,Howard Phillips,14
+Harney,Total,President,,REF,John Hagelin,9
+Harney,Total,President,,PAC,Ralph Nader,84
+Harney,Total,President,,REP,George W. Bush,2799
+Harney,Total,President,,IND,Patrick J. Buchanan,35
+Harney,Total,President,,LIB,Harry Browne,16
+Harney,21,U.S. House,2,,Over Votes,1
+Harney,21,U.S. House,2,,Under Votes,58
+Harney,21,U.S. House,2,,Write-ins,7
+Harney,21,U.S. House,2,DEM,Walter Ponsford,259
+Harney,21,U.S. House,2,REP,Greg Walden,1045
+Harney,25,U.S. House,2,,Over Votes,0
+Harney,25,U.S. House,2,,Under Votes,52
+Harney,25,U.S. House,2,,Write-ins,4
+Harney,25,U.S. House,2,DEM,Walter Ponsford,127
+Harney,25,U.S. House,2,REP,Greg Walden,635
+Harney,26,U.S. House,2,,Over Votes,1
+Harney,26,U.S. House,2,,Under Votes,57
+Harney,26,U.S. House,2,,Write-ins,1
+Harney,26,U.S. House,2,DEM,Walter Ponsford,156
+Harney,26,U.S. House,2,REP,Greg Walden,1387
+Harney,Total,U.S. House,2,,Over Votes,2
+Harney,Total,U.S. House,2,,Under Votes,167
+Harney,Total,U.S. House,2,,Write-ins,12
+Harney,Total,U.S. House,2,DEM,Walter Ponsford,542
+Harney,Total,U.S. House,2,REP,Greg Walden,3067
+Harney,21,Secretary of State,,,Over Votes,3
+Harney,21,Secretary of State,,,Under Votes,61
+Harney,21,Secretary of State,,,Write-ins,0
+Harney,21,Secretary of State,,LIB,E J (Ed) Pole II,31
+Harney,21,Secretary of State,,REP,Lynn Snodgrass,768
+Harney,21,Secretary of State,,PAC,Lloyd Marbet,29
+Harney,21,Secretary of State,,DEM,Bill Bradbury,478
+Harney,25,Secretary of State,,,Over Votes,2
+Harney,25,Secretary of State,,,Under Votes,38
+Harney,25,Secretary of State,,,Write-ins,2
+Harney,25,Secretary of State,,LIB,E J (Ed) Pole II,10
+Harney,25,Secretary of State,,REP,Lynn Snodgrass,457
+Harney,25,Secretary of State,,PAC,Lloyd Marbet,16
+Harney,25,Secretary of State,,DEM,Bill Bradbury,293
+Harney,26,Secretary of State,,,Over Votes,2
+Harney,26,Secretary of State,,,Under Votes,74
+Harney,26,Secretary of State,,,Write-ins,1
+Harney,26,Secretary of State,,LIB,E J (Ed) Pole II,19
+Harney,26,Secretary of State,,REP,Lynn Snodgrass,1161
+Harney,26,Secretary of State,,PAC,Lloyd Marbet,25
+Harney,26,Secretary of State,,DEM,Bill Bradbury,320
+Harney,Total,Secretary of State,,,Over Votes,7
+Harney,Total,Secretary of State,,,Under Votes,173
+Harney,Total,Secretary of State,,,Write-ins,3
+Harney,Total,Secretary of State,,LIB,E J (Ed) Pole II,60
+Harney,Total,Secretary of State,,REP,Lynn Snodgrass,2386
+Harney,Total,Secretary of State,,PAC,Lloyd Marbet,70
+Harney,Total,Secretary of State,,DEM,Bill Bradbury,1091
+Harney,21,State Treasurer,,,Over Votes,0
+Harney,21,State Treasurer,,,Under Votes,119
+Harney,21,State Treasurer,,,Write-ins,2
+Harney,21,State Treasurer,,LIB,Mitchell T Shults,55
+Harney,21,State Treasurer,,REP,Jon Kvistad,636
+Harney,21,State Treasurer,,CON,Carlos F Lucero,17
+Harney,21,State Treasurer,,DEM,Randall Edwards,512
+Harney,21,State Treasurer,,REF,Leonard Zack,29
+Harney,25,State Treasurer,,,Over Votes,0
+Harney,25,State Treasurer,,,Under Votes,80
+Harney,25,State Treasurer,,,Write-ins,1
+Harney,25,State Treasurer,,LIB,Mitchell T Shults,15
+Harney,25,State Treasurer,,REP,Jon Kvistad,374
+Harney,25,State Treasurer,,CON,Carlos F Lucero,9
+Harney,25,State Treasurer,,DEM,Randall Edwards,324
+Harney,25,State Treasurer,,REF,Leonard Zack,15
+Harney,26,State Treasurer,,,Over Votes,0
+Harney,26,State Treasurer,,,Under Votes,158
+Harney,26,State Treasurer,,,Write-ins,2
+Harney,26,State Treasurer,,LIB,Mitchell T Shults,40
+Harney,26,State Treasurer,,REP,Jon Kvistad,1028
+Harney,26,State Treasurer,,CON,Carlos F Lucero,25
+Harney,26,State Treasurer,,DEM,Randall Edwards,328
+Harney,26,State Treasurer,,REF,Leonard Zack,21
+Harney,Total,State Treasurer,,,Over Votes,0
+Harney,Total,State Treasurer,,,Under Votes,357
+Harney,Total,State Treasurer,,,Write-ins,5
+Harney,Total,State Treasurer,,LIB,Mitchell T Shults,110
+Harney,Total,State Treasurer,,REP,Jon Kvistad,2038
+Harney,Total,State Treasurer,,CON,Carlos F Lucero,51
+Harney,Total,State Treasurer,,DEM,Randall Edwards,1164
+Harney,Total,State Treasurer,,REF,Leonard Zack,65
+Harney,21,Attorney General,,,Over Votes,0
+Harney,21,Attorney General,,,Under Votes,83
+Harney,21,Attorney General,,,Write-ins,2
+Harney,21,Attorney General,,LIB,Thomas B Cox,52
+Harney,21,Attorney General,,REP,Kevin L Mannix,640
+Harney,21,Attorney General,,DEM,Hardy Myers,593
+Harney,25,Attorney General,,,Over Votes,0
+Harney,25,Attorney General,,,Under Votes,64
+Harney,25,Attorney General,,,Write-ins,3
+Harney,25,Attorney General,,LIB,Thomas B Cox,31
+Harney,25,Attorney General,,REP,Kevin L Mannix,380
+Harney,25,Attorney General,,DEM,Hardy Myers,340
+Harney,26,Attorney General,,,Over Votes,0
+Harney,26,Attorney General,,,Under Votes,122
+Harney,26,Attorney General,,,Write-ins,1
+Harney,26,Attorney General,,LIB,Thomas B Cox,49
+Harney,26,Attorney General,,REP,Kevin L Mannix,1038
+Harney,26,Attorney General,,DEM,Hardy Myers,392
+Harney,Total,Attorney General,,,Over Votes,0
+Harney,Total,Attorney General,,,Under Votes,269
+Harney,Total,Attorney General,,,Write-ins,6
+Harney,Total,Attorney General,,LIB,Thomas B Cox,132
+Harney,Total,Attorney General,,REP,Kevin L Mannix,2058
+Harney,Total,Attorney General,,DEM,Hardy Myers,1325
+Harney,21,State Senate,30,,Over Votes,0
+Harney,21,State Senate,30,,Under Votes,95
+Harney,21,State Senate,30,,Write-ins,0
+Harney,21,State Senate,30,REP,Steve Harper,785
+Harney,21,State Senate,30,DEM,Debra M. James,490
+Harney,25,State Senate,30,,Over Votes,0
+Harney,25,State Senate,30,,Under Votes,75
+Harney,25,State Senate,30,,Write-ins,4
+Harney,25,State Senate,30,REP,Steve Harper,468
+Harney,25,State Senate,30,DEM,Debra M. James,271
+Harney,26,State Senate,30,,Over Votes,0
+Harney,26,State Senate,30,,Under Votes,129
+Harney,26,State Senate,30,,Write-ins,7
+Harney,26,State Senate,30,REP,Steve Harper,1185
+Harney,26,State Senate,30,DEM,Debra M. James,281
+Harney,Total,State Senate,30,,Over Votes,0
+Harney,Total,State Senate,30,,Under Votes,299
+Harney,Total,State Senate,30,,Write-ins,11
+Harney,Total,State Senate,30,REP,Steve Harper,2438
+Harney,Total,State Senate,30,DEM,Debra M. James,1042
+Harney,21,State House,57,,Over Votes,0
+Harney,21,State House,57,,Under Votes,331
+Harney,21,State House,57,,Write-ins,19
+Harney,21,State House,57,REP,R. Thomas (Tom) Butler,1020
+Harney,25,State House,57,,Over Votes,0
+Harney,25,State House,57,,Under Votes,197
+Harney,25,State House,57,,Write-ins,6
+Harney,25,State House,57,REP,R. Thomas (Tom) Butler,615
+Harney,26,State House,57,,Over Votes,1
+Harney,26,State House,57,,Under Votes,279
+Harney,26,State House,57,,Write-ins,16
+Harney,26,State House,57,REP,R. Thomas (Tom) Butler,1306
+Harney,Total,State House,57,,Over Votes,1
+Harney,Total,State House,57,,Under Votes,807
+Harney,Total,State House,57,,Write-ins,41
+Harney,Total,State House,57,REP,R. Thomas (Tom) Butler,2941
