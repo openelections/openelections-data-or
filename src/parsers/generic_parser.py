@@ -66,6 +66,7 @@ def main():
 					office, district, party = parseOfficeDistrictParty(row[0])
 
 				header = row
+
 			elif row[1] == 'TOTAL':
 				for index, votes in reversed(list(enumerate(row))):
 					if index > 1 and row[index]:
@@ -90,7 +91,7 @@ def main():
 							if args.isGeneral:
 								candidate, party = parseParty(candidate)
 
-							csvLines.append([args.county, precinct, normalizedOffice, district, party, candidate, votes])
+							csvLines.append([args.county, precinct, normalizedOffice, district, party, normalizeName(candidate), votes])
 
 	with open(outfileName(args.date, args.county, args.isGeneral), 'wb') as csvfile:
 		w = csv.writer(csvfile)
@@ -117,9 +118,10 @@ def parseOfficeDistrict(text):
 	district = ""
 	office = text.strip().upper()
 
-	districtPrefixRE = re.compile(",? (\d\d?)\w\w DISTRICT")
+	districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DISTRICT")
+	districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
 
-	m = districtPrefixRE.search(office)
+	m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
 
 	if m:
 		district = m.group(1)
@@ -143,7 +145,8 @@ def parseOfficeDistrictParty(text):
 	district = ""
 	office = text.strip().upper()
 
-	districtPrefixRE = re.compile(",? (\d\d?)\w\w DISTRICT")
+	districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DISTRICT")
+	districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
 
 	m = partyPostfixRE.search(office)
 
@@ -151,7 +154,7 @@ def parseOfficeDistrictParty(text):
 		party = m.group(1)
 		office = office.replace(m.group(0), "") # Remove party from text
 
-	m = districtPrefixRE.search(office)
+	m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
 
 	if m:
 		district = m.group(1)
@@ -167,6 +170,17 @@ def normalizeOffice(office):
 		sys.exit(1)
 
 	return outOffice
+
+def normalizeName(name):
+	name = name.title()
+
+	mistakes = {'Defazio': 'DeFazio'}
+
+	for mistake, correction in mistakes.iteritems():
+		if mistake in name:
+			name = name.replace(mistake, correction)
+
+	return name
 
 def outfileName(date, county, isGeneral):
 	primaryOrGeneral = "general" if isGeneral else "primary"
