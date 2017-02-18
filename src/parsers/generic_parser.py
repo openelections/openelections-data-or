@@ -31,11 +31,13 @@ office_lookup = {
 	'PRESIDENT': 'President',
 	'SENATOR': 'U.S. Senate',
 	'HOUSE': 'U.S. House',
+	'REPRESENTATIVE': 'U.S. House',
 	'SECRETARY OF STATE': 'Secretary of State',
 	'STATE TREASURER': 'State Treasurer',
 	'ATTORNEY GENERAL': 'Attorney General',
 	'GOVERNOR': 'Governor',
 	'STATE HOUSE': 'State House',
+	'STATE REPRESENTATIVE': 'State House',
 	'STATE SENATOR': 'State Senate'
 }
 
@@ -174,7 +176,7 @@ def normalizeOffice(office):
 def normalizeName(name):
 	name = name.title()
 
-	mistakes = {'Defazio': 'DeFazio'}
+	mistakes = {'Write-Ins': 'Write-ins'}
 
 	for mistake, correction in mistakes.iteritems():
 		if mistake in name:
