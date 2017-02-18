@@ -42,7 +42,7 @@ office_lookup = {
 
 # Configure variables
 outfileFormat = '{}__or__{}__{}__precinct.csv'
-partyPostfixRE = re.compile(" \((DEM|REP|LIB|CON|REF|PAC|IND)\)$")
+partyPostfixRE = re.compile(" \((DEM|REP|LIB|CON|REF|PAC|IND|SOC)\)$")
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
