@@ -120,7 +120,7 @@ def parseOfficeDistrict(text):
 	district = ""
 	office = text.strip().upper()
 
-	districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DISTRICT")
+	districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DIST(RICT)?")
 	districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
 
 	m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
@@ -147,7 +147,7 @@ def parseOfficeDistrictParty(text):
 	district = ""
 	office = text.strip().upper()
 
-	districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DISTRICT")
+	districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DIST(RICT)?")
 	districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
 
 	m = partyPostfixRE.search(office)
