@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 # -*- coding: utf-8 -*-
 
 # The MIT License (MIT)
@@ -22,6 +22,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 # SOFTWARE.
 
+from collections import OrderedDict
 import argparse
 import csv
 import sys
@@ -54,7 +55,7 @@ def main():
 
 	args = parseArguments()
 
-	with open(args.path, 'rb') as csvfile:
+	with open(args.path, 'r') as csvfile:
 		reader = csv.reader(csvfile, delimiter=',', quotechar='"')
 		header = []
 		office = ""
@@ -95,7 +96,7 @@ def main():
 
 							csvLines.append([args.county, precinct, normalizedOffice, district, party, normalizeName(candidate), votes])
 
-	with open(outfileName(args.date, args.county, args.isGeneral), 'wb') as csvfile:
+	with open(outfileName(args.date, args.county, args.isGeneral), 'w') as csvfile:
 		w = csv.writer(csvfile)
 		w.writerow(headers)
 
@@ -176,9 +177,12 @@ def normalizeOffice(office):
 def normalizeName(name):
 	name = name.title()
 
-	mistakes = {'Write-Ins': 'Write-ins'}
+	mistakes = OrderedDict()
+	mistakes['Write-Ins'] = 'Write-ins'
+	mistakes['Iii'] = 'III'
+	mistakes['Ii'] = 'Ii'
 
-	for mistake, correction in mistakes.iteritems():
+	for mistake, correction in mistakes.items():
 		if mistake in name:
 			name = name.replace(mistake, correction)
 
