@@ -1292,12 +1292,12 @@ Josephine,35,President,,DEM,Write-ins,14
 Josephine,35,President,,DEM,Al Gore,182
 Josephine,35,President,,DEM,"Lyndon H. Larouche, Jr",19
 Josephine,35,President,,DEM,Total,247
-Josephine,36,President,,DEM,Over Votes,MISSING
-Josephine,36,President,,DEM,Under Votes,MISSING
-Josephine,36,President,,DEM,Write-ins,MISSING
-Josephine,36,President,,DEM,Al Gore,MISSING
-Josephine,36,President,,DEM,"Lyndon H. Larouche, Jr",MISSING
-Josephine,36,President,,DEM,Total,MISSING
+Josephine,36,President,,DEM,Over Votes,0
+Josephine,36,President,,DEM,Under Votes,31
+Josephine,36,President,,DEM,Write-ins,10
+Josephine,36,President,,DEM,Al Gore,95
+Josephine,36,President,,DEM,"Lyndon H. Larouche, Jr",25
+Josephine,36,President,,DEM,Total,161
 Josephine,37,President,,DEM,Over Votes,1
 Josephine,37,President,,DEM,Under Votes,14
 Josephine,37,President,,DEM,Write-ins,14
@@ -1471,11 +1471,11 @@ Josephine,35,U.S. House,2,DEM,Under Votes,100
 Josephine,35,U.S. House,2,DEM,Write-ins,2
 Josephine,35,U.S. House,2,DEM,Walter Ponsford,148
 Josephine,35,U.S. House,2,DEM,Total,250
-Josephine,36,U.S. House,2,DEM,Over Votes,MISSING
-Josephine,36,U.S. House,2,DEM,Under Votes,MISSING
-Josephine,36,U.S. House,2,DEM,Write-ins,MISSING
-Josephine,36,U.S. House,2,DEM,Walter Ponsford,MISSING
-Josephine,36,U.S. House,2,DEM,Total,MISSING
+Josephine,36,U.S. House,2,DEM,Over Votes,0
+Josephine,36,U.S. House,2,DEM,Under Votes,75
+Josephine,36,U.S. House,2,DEM,Write-ins,6
+Josephine,36,U.S. House,2,DEM,Walter Ponsford,87
+Josephine,36,U.S. House,2,DEM,Total,168
 Josephine,37,U.S. House,2,DEM,Over Votes,1
 Josephine,37,U.S. House,2,DEM,Under Votes,43
 Josephine,37,U.S. House,2,DEM,Write-ins,8
@@ -1651,11 +1651,11 @@ Josephine,35,Secretary of State,,DEM,Under Votes,65
 Josephine,35,Secretary of State,,DEM,Write-ins,4
 Josephine,35,Secretary of State,,DEM,Bill Bradbury,181
 Josephine,35,Secretary of State,,DEM,Total,250
-Josephine,36,Secretary of State,,DEM,Over Votes,MISSING
-Josephine,36,Secretary of State,,DEM,Under Votes,MISSING
-Josephine,36,Secretary of State,,DEM,Write-ins,MISSING
-Josephine,36,Secretary of State,,DEM,Bill Bradbury,MISSING
-Josephine,36,Secretary of State,,DEM,Total,MISSING
+Josephine,36,Secretary of State,,DEM,Over Votes,0
+Josephine,36,Secretary of State,,DEM,Under Votes,62
+Josephine,36,Secretary of State,,DEM,Write-ins,4
+Josephine,36,Secretary of State,,DEM,Bill Bradbury,102
+Josephine,36,Secretary of State,,DEM,Total,168
 Josephine,37,Secretary of State,,DEM,Over Votes,0
 Josephine,37,Secretary of State,,DEM,Under Votes,28
 Josephine,37,Secretary of State,,DEM,Write-ins,7
@@ -1836,12 +1836,12 @@ Josephine,35,State Treasurer,,DEM,Write-ins,1
 Josephine,35,State Treasurer,,DEM,Gary Bruebaker,88
 Josephine,35,State Treasurer,,DEM,Randall Edwards,85
 Josephine,35,State Treasurer,,DEM,Total,250
-Josephine,36,State Treasurer,,DEM,Over Votes,MISSING
-Josephine,36,State Treasurer,,DEM,Under Votes,MISSING
-Josephine,36,State Treasurer,,DEM,Write-ins,MISSING
-Josephine,36,State Treasurer,,DEM,Gary Bruebaker,MISSING
-Josephine,36,State Treasurer,,DEM,Randall Edwards,MISSING
-Josephine,36,State Treasurer,,DEM,Total,MISSING
+Josephine,36,State Treasurer,,DEM,Over Votes,0
+Josephine,36,State Treasurer,,DEM,Under Votes,54
+Josephine,36,State Treasurer,,DEM,Write-ins,2
+Josephine,36,State Treasurer,,DEM,Gary Bruebaker,67
+Josephine,36,State Treasurer,,DEM,Randall Edwards,45
+Josephine,36,State Treasurer,,DEM,Total,168
 Josephine,37,State Treasurer,,DEM,Over Votes,0
 Josephine,37,State Treasurer,,DEM,Under Votes,23
 Josephine,37,State Treasurer,,DEM,Write-ins,1
@@ -2025,11 +2025,11 @@ Josephine,35,Attorney General,,DEM,Under Votes,78
 Josephine,35,Attorney General,,DEM,Write-ins,2
 Josephine,35,Attorney General,,DEM,Hardy Myers,170
 Josephine,35,Attorney General,,DEM,Total,250
-Josephine,36,Attorney General,,DEM,Over Votes,MISSING
-Josephine,36,Attorney General,,DEM,Under Votes,MISSING
-Josephine,36,Attorney General,,DEM,Write-ins,MISSING
-Josephine,36,Attorney General,,DEM,Hardy Myers,MISSING
-Josephine,36,Attorney General,,DEM,Total,MISSING
+Josephine,36,Attorney General,,DEM,Over Votes,0
+Josephine,36,Attorney General,,DEM,Under Votes,74
+Josephine,36,Attorney General,,DEM,Write-ins,4
+Josephine,36,Attorney General,,DEM,Hardy Myers,90
+Josephine,36,Attorney General,,DEM,Total,168
 Josephine,37,Attorney General,,DEM,Over Votes,1
 Josephine,37,Attorney General,,DEM,Under Votes,32
 Josephine,37,Attorney General,,DEM,Write-ins,4
@@ -2128,10 +2128,10 @@ Josephine,32,State Senate,23,DEM,Over Votes,0
 Josephine,32,State Senate,23,DEM,Under Votes,150
 Josephine,32,State Senate,23,DEM,Write-ins,8
 Josephine,32,State Senate,23,DEM,Total,158
-Josephine,36,State Senate,23,DEM,Over Votes,MISSING
-Josephine,36,State Senate,23,DEM,Under Votes,MISSING
-Josephine,36,State Senate,23,DEM,Write-ins,MISSING
-Josephine,36,State Senate,23,DEM,Total,MISSING
+Josephine,36,State Senate,23,DEM,Over Votes,0
+Josephine,36,State Senate,23,DEM,Under Votes,156
+Josephine,36,State Senate,23,DEM,Write-ins,12
+Josephine,36,State Senate,23,DEM,Total,168
 Josephine,42,State Senate,23,DEM,Over Votes,0
 Josephine,42,State Senate,23,DEM,Under Votes,260
 Josephine,42,State Senate,23,DEM,Write-ins,14
@@ -3729,3 +3729,4 @@ Josephine,43,State House,51,REP,Write-ins,3
 Josephine,43,State House,51,REP,Larry Frank,110
 Josephine,43,State House,51,REP,Cherryl Walker,251
 Josephine,43,State House,51,REP,Total,402
+
