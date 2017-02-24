@@ -181,6 +181,7 @@ def normalizeName(name):
 	mistakes['Write-Ins'] = 'Write-ins'
 	mistakes['Iii'] = 'III'
 	mistakes['Ii'] = 'Ii'
+	mistakes['Defazio'] = 'DeFazio'
 
 	for mistake, correction in mistakes.items():
 		if mistake in name:
