@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 # -*- coding: utf-8 -*-
 
 # The MIT License (MIT)
@@ -67,8 +67,8 @@ def main():
 			try:
 				votes = int(row["votes"].replace(",", ""))
 			except Exception as e:
-				print "ERROR: Could not convert this to an integer: '%s'" % row["votes"]
-				print "ERROR: %s" % repr(row)
+				print("ERROR: Could not convert this to an integer: '%s'" % row["votes"])
+				print("ERROR: %s" % repr(row))
 				continue
 
 			if rowGroup == currentGroup:
@@ -76,26 +76,26 @@ def main():
 					continue
 				elif row[totalColumn] == "Total":
 					if voteTotal != votes:
-						print "ERROR: %d != %s" % (voteTotal, row["votes"])
-						print "ERROR: %s" % repr(row)
+						print("ERROR: %d != %s" % (voteTotal, row["votes"]))
+						print("ERROR: %s" % repr(row))
 					if args.verbose:
-						print "===="
-						print row
+						print("====")
+						print(row)
 				else:
 					voteTotal += votes
 
 					if args.verbose:
-						print "===="
-						print "total=%d" % voteTotal
-						print row
+						print("====")
+						print("total=%d" % voteTotal)
+						print(row)
 			else:
 				currentGroup = rowGroup
 				voteTotal = votes # reset the vote total
 
 				if args.verbose:
-					print "===="
-					print "total=%d" % voteTotal
-					print row
+					print("====")
+					print("total=%d" % voteTotal)
+					print(row)
 
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify votes are correct using a simple checksum')
