@@ -25,49 +25,94 @@
 import csv
 import sys
 import re
+import os
 import argparse
 import pandas
+
 
 def main():
 	args = parseArguments()
 
-	results = pandas.read_csv(args.path)
-	results = results.fillna('')
+	checker = TotalChecker(args.path)
 
-	contest_by_cand_columns = ['office', 'district', 'candidate', 'party']
-	contest_by_cand = results.drop_duplicates(contest_by_cand_columns)[contest_by_cand_columns].values
+	checker.populateResults()
 
-	contest_by_prec_columns = ['office', 'district', 'precinct', 'party']
-	contest_by_prec = results.drop_duplicates(contest_by_prec_columns)[contest_by_prec_columns].values
-
-	precinct_total_data = results.loc[results.candidate == 'Total']
-	candidate_total_data = results.loc[results.precinct == 'Total']
-	results_sans_totals = results.loc[(results.candidate != 'Total') & (results.precinct != 'Total')]
-
-	if len(precinct_total_data):
-		# Calculate our own totals per precinct to compare
-		precinct_totals = results_sans_totals.groupby(contest_by_prec_columns).votes.sum()
-
-		for index, row in precinct_total_data.iterrows():
-			file_total = row.votes
-			actual_total = precinct_totals[row.office, row.district, row.precinct, row.party]
-
-			if file_total != actual_total:
-				print("Error: total incorrect, line {}. {} != {}".format(index, file_total, actual_total))
-				print(row)
+	# checker.checkTotals(['office', 'district', 'candidate', 'party'], 'candidate')
+	checker.checkCandidateTotals()
+	checker.checkPrecinctTotals()
 
 
-	if len(candidate_total_data):
-		# Calculate our own totals per precinct to compare
-		candidate_totals = results_sans_totals.groupby(contest_by_cand_columns).votes.sum()
+class TotalChecker(object):
+	def __init__(self, path):
+		self.path = path
 
-		for index, row in candidate_total_data.iterrows():
-			file_total = row.votes
-			actual_total = candidate_totals[row.office, row.district, row.candidate, row.party]
+		print("==> {}".format(os.path.basename(path)))
 
-			if file_total != actual_total:
-				print("Error: total incorrect, line {}. {} != {}".format(index, file_total, actual_total))
-				print(row)
+		self.results = None
+		self.results_sans_totals = None
+
+	def populateResults(self):
+		self.results = pandas.read_csv(self.path).fillna('')
+		self.results[['votes']] = self.results[['votes']].apply(pandas.to_numeric)
+
+		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results.precinct != 'Total')]	
+
+	# def checkTotals(self, columns, totalColumn):
+	# 	contests = self.results.drop_duplicates(columns)[columns].values
+	# 	total_data = self.results.loc[self.results[totalColumn] == 'Total']
+
+	# 	if len(total_data):
+	# 		# Calculate our own totals to compare
+	# 		totals = self.results_sans_totals.groupby(columns).votes.sum()
+
+	# 		for index, row in total_data.iterrows():
+	# 			file_total = row.votes
+	# 			row_values = [row[x] for x in columns]
+	# 			print(row_values)
+	# 			actual_total = totals[row.office, row.district, row.candidate, row.party]
+	# 			print (actual_total)
+
+	# 			if file_total != actual_total:
+	# 				print("Error: total incorrect, line {}. {} != {}".format(index, file_total, actual_total))
+	# 				print(row)
+
+	def checkCandidateTotals(self):
+		contest_by_cand_columns = ['office', 'district', 'candidate', 'party']
+		contest_by_cand = self.results.drop_duplicates(contest_by_cand_columns)[contest_by_cand_columns].values
+
+		candidate_total_data = self.results.loc[self.results.precinct == 'Total']
+
+		if len(candidate_total_data):
+			# Calculate our own totals per precinct to compare
+			candidate_totals = self.results_sans_totals.groupby(contest_by_cand_columns).votes.sum()
+
+			for index, row in candidate_total_data.iterrows():
+				file_total = row.votes
+				actual_total = candidate_totals[row.office, row.district, row.candidate, row.party]
+
+				if file_total != actual_total:
+					lineNo = index + 2 # 1 for header, 1 for zero-indexing
+					print("Error: candidate total incorrect, line {}. {} != {}".format(lineNo, file_total, actual_total))
+					print(row)
+
+	def checkPrecinctTotals(self):
+		contest_by_prec_columns = ['office', 'district', 'precinct', 'party']
+		contest_by_prec = self.results.drop_duplicates(contest_by_prec_columns)[contest_by_prec_columns].values
+
+		precinct_total_data = self.results.loc[self.results.candidate == 'Total']
+
+		if len(precinct_total_data):
+			# Calculate our own totals per precinct to compare
+			precinct_totals = self.results_sans_totals.groupby(contest_by_prec_columns).votes.sum()
+
+			for index, row in precinct_total_data.iterrows():
+				file_total = row.votes
+				actual_total = precinct_totals[row.office, row.district, row.precinct, row.party]
+
+				if file_total != actual_total:
+					lineNo = index + 2 # 1 for header, 1 for zero-indexing
+					print("Error: precinct total incorrect, line {}. {} != {}".format(lineNo, file_total, actual_total))
+					print(row.to_dict())
 
 
 def parseArguments():
