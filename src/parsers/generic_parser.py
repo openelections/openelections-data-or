@@ -47,7 +47,7 @@ office_lookup = {
 
 # Configure variables
 outfileFormat = '{}__or__{}__{}__precinct.csv'
-partyPostfixRE = re.compile(" \((DEM|REP|LIB|CON|REF|PAC|IND|SOC)\)$")
+partyPostfixRE = re.compile(" \((DEM|REP|LIB|LBT|PRO|CON|REF|PAC|IND|SOC|WFP)\)$")
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
@@ -120,7 +120,7 @@ class GenericParser(object):
 								candidate = "Total" if header[index] == "Trnout" else header[index]
 
 								if self.isGeneral:
-									candidate, party = parseParty(candidate)
+									candidate, party = self.parseParty(candidate)
 
 								self.csvLines.append([self.county, precinct, normalizedOffice, district, party, self.normalizeName(candidate), votes])
 
