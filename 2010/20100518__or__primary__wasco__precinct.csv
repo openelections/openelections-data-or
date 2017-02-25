@@ -1,501 +1,551 @@
 county,precinct,office,district,party,candidate,votes
-Wasco,1,U.S. Senate,,DEM,"GOBERMAN, PAVEL",14
-Wasco,2,U.S. Senate,,DEM,"GOBERMAN, PAVEL",12
-Wasco,3,U.S. Senate,,DEM,"GOBERMAN, PAVEL",13
-Wasco,4,U.S. Senate,,DEM,"GOBERMAN, PAVEL",9
-Wasco,5,U.S. Senate,,DEM,"GOBERMAN, PAVEL",3
-Wasco,6,U.S. Senate,,DEM,"GOBERMAN, PAVEL",7
-Wasco,7,U.S. Senate,,DEM,"GOBERMAN, PAVEL",5
-Wasco,8,U.S. Senate,,DEM,"GOBERMAN, PAVEL",5
-Wasco,9,U.S. Senate,,DEM,"GOBERMAN, PAVEL",12
-Wasco,10,U.S. Senate,,DEM,"GOBERMAN, PAVEL",85
-Wasco,1,U.S. Senate,,DEM,"HOOKER, LOREN",34
-Wasco,2,U.S. Senate,,DEM,"HOOKER, LOREN",21
-Wasco,3,U.S. Senate,,DEM,"HOOKER, LOREN",23
-Wasco,4,U.S. Senate,,DEM,"HOOKER, LOREN",38
-Wasco,5,U.S. Senate,,DEM,"HOOKER, LOREN",12
-Wasco,6,U.S. Senate,,DEM,"HOOKER, LOREN",13
-Wasco,7,U.S. Senate,,DEM,"HOOKER, LOREN",8
-Wasco,8,U.S. Senate,,DEM,"HOOKER, LOREN",19
-Wasco,9,U.S. Senate,,DEM,"HOOKER, LOREN",16
-Wasco,10,U.S. Senate,,DEM,"HOOKER, LOREN",209
-Wasco,1,U.S. Senate,,DEM,"WYDEN, RON",429
-Wasco,2,U.S. Senate,,DEM,"WYDEN, RON",312
-Wasco,3,U.S. Senate,,DEM,"WYDEN, RON",322
-Wasco,4,U.S. Senate,,DEM,"WYDEN, RON",335
-Wasco,5,U.S. Senate,,DEM,"WYDEN, RON",167
-Wasco,6,U.S. Senate,,DEM,"WYDEN, RON",200
-Wasco,7,U.S. Senate,,DEM,"WYDEN, RON",134
-Wasco,8,U.S. Senate,,DEM,"WYDEN, RON",151
-Wasco,9,U.S. Senate,,DEM,"WYDEN, RON",118
-Wasco,10,U.S. Senate,,DEM,"WYDEN, RON",2431
-Wasco,1,U.S. Senate,,DEM,Under Votes,30
-Wasco,2,U.S. Senate,,DEM,Under Votes,17
-Wasco,3,U.S. Senate,,DEM,Under Votes,25
-Wasco,4,U.S. Senate,,DEM,Under Votes,24
-Wasco,5,U.S. Senate,,DEM,Under Votes,7
-Wasco,6,U.S. Senate,,DEM,Under Votes,30
-Wasco,7,U.S. Senate,,DEM,Under Votes,12
-Wasco,8,U.S. Senate,,DEM,Under Votes,8
-Wasco,9,U.S. Senate,,DEM,Under Votes,7
-Wasco,10,U.S. Senate,,DEM,Under Votes,169
 Wasco,1,U.S. Senate,,DEM,Over Votes,0
+Wasco,1,U.S. Senate,,DEM,Under Votes,9
+Wasco,1,U.S. Senate,,DEM,Ron Wyden,263
+Wasco,1,U.S. Senate,,DEM,Loren Hooker,25
+Wasco,1,U.S. Senate,,DEM,Pavel Goberman,5
 Wasco,2,U.S. Senate,,DEM,Over Votes,0
+Wasco,2,U.S. Senate,,DEM,Under Votes,30
+Wasco,2,U.S. Senate,,DEM,Ron Wyden,429
+Wasco,2,U.S. Senate,,DEM,Loren Hooker,34
+Wasco,2,U.S. Senate,,DEM,Pavel Goberman,14
 Wasco,3,U.S. Senate,,DEM,Over Votes,0
-Wasco,4,U.S. Senate,,DEM,Over Votes,1
-Wasco,5,U.S. Senate,,DEM,Over Votes,0
+Wasco,3,U.S. Senate,,DEM,Under Votes,17
+Wasco,3,U.S. Senate,,DEM,Ron Wyden,312
+Wasco,3,U.S. Senate,,DEM,Loren Hooker,21
+Wasco,3,U.S. Senate,,DEM,Pavel Goberman,12
+Wasco,4,U.S. Senate,,DEM,Over Votes,0
+Wasco,4,U.S. Senate,,DEM,Under Votes,25
+Wasco,4,U.S. Senate,,DEM,Ron Wyden,322
+Wasco,4,U.S. Senate,,DEM,Loren Hooker,23
+Wasco,4,U.S. Senate,,DEM,Pavel Goberman,13
+Wasco,5,U.S. Senate,,DEM,Over Votes,1
+Wasco,5,U.S. Senate,,DEM,Under Votes,24
+Wasco,5,U.S. Senate,,DEM,Ron Wyden,335
+Wasco,5,U.S. Senate,,DEM,Loren Hooker,38
+Wasco,5,U.S. Senate,,DEM,Pavel Goberman,9
 Wasco,6,U.S. Senate,,DEM,Over Votes,0
+Wasco,6,U.S. Senate,,DEM,Under Votes,7
+Wasco,6,U.S. Senate,,DEM,Ron Wyden,167
+Wasco,6,U.S. Senate,,DEM,Loren Hooker,12
+Wasco,6,U.S. Senate,,DEM,Pavel Goberman,3
 Wasco,7,U.S. Senate,,DEM,Over Votes,0
-Wasco,8,U.S. Senate,,DEM,Over Votes,1
-Wasco,9,U.S. Senate,,DEM,Over Votes,0
-Wasco,10,U.S. Senate,,DEM,Over Votes,2
-Wasco,1,U.S. House,2,DEM,"SEGERS, JOYCE B.",266
-Wasco,2,U.S. House,2,DEM,"SEGERS, JOYCE B.",204
-Wasco,3,U.S. House,2,DEM,"SEGERS, JOYCE B.",217
-Wasco,4,U.S. House,2,DEM,"SEGERS, JOYCE B.",205
-Wasco,5,U.S. House,2,DEM,"SEGERS, JOYCE B.",97
-Wasco,6,U.S. House,2,DEM,"SEGERS, JOYCE B.",119
-Wasco,7,U.S. House,2,DEM,"SEGERS, JOYCE B.",91
-Wasco,8,U.S. House,2,DEM,"SEGERS, JOYCE B.",109
-Wasco,9,U.S. House,2,DEM,"SEGERS, JOYCE B.",84
-Wasco,10,U.S. House,2,DEM,"SEGERS, JOYCE B.",1569
-Wasco,1,U.S. House,2,DEM,Under Votes,238
-Wasco,2,U.S. House,2,DEM,Under Votes,150
-Wasco,3,U.S. House,2,DEM,Under Votes,164
-Wasco,4,U.S. House,2,DEM,Under Votes,199
-Wasco,5,U.S. House,2,DEM,Under Votes,92
-Wasco,6,U.S. House,2,DEM,Under Votes,132
-Wasco,7,U.S. House,2,DEM,Under Votes,69
-Wasco,8,U.S. House,2,DEM,Under Votes,77
-Wasco,9,U.S. House,2,DEM,Under Votes,68
-Wasco,10,U.S. House,2,DEM,Under Votes,1311
-Wasco,1,U.S. House,2,DEM,Over Votes,1
-Wasco,2,U.S. House,2,DEM,Over Votes,0
+Wasco,7,U.S. Senate,,DEM,Under Votes,30
+Wasco,7,U.S. Senate,,DEM,Ron Wyden,200
+Wasco,7,U.S. Senate,,DEM,Loren Hooker,13
+Wasco,7,U.S. Senate,,DEM,Pavel Goberman,7
+Wasco,8,U.S. Senate,,DEM,Over Votes,0
+Wasco,8,U.S. Senate,,DEM,Under Votes,12
+Wasco,8,U.S. Senate,,DEM,Ron Wyden,134
+Wasco,8,U.S. Senate,,DEM,Loren Hooker,8
+Wasco,8,U.S. Senate,,DEM,Pavel Goberman,5
+Wasco,9,U.S. Senate,,DEM,Over Votes,1
+Wasco,9,U.S. Senate,,DEM,Under Votes,8
+Wasco,9,U.S. Senate,,DEM,Ron Wyden,151
+Wasco,9,U.S. Senate,,DEM,Loren Hooker,19
+Wasco,9,U.S. Senate,,DEM,Pavel Goberman,5
+Wasco,10,U.S. Senate,,DEM,Over Votes,0
+Wasco,10,U.S. Senate,,DEM,Under Votes,7
+Wasco,10,U.S. Senate,,DEM,Ron Wyden,118
+Wasco,10,U.S. Senate,,DEM,Loren Hooker,16
+Wasco,10,U.S. Senate,,DEM,Pavel Goberman,12
+Wasco,Total,U.S. Senate,,DEM,Over Votes,2
+Wasco,Total,U.S. Senate,,DEM,Under Votes,169
+Wasco,Total,U.S. Senate,,DEM,Ron Wyden,2431
+Wasco,Total,U.S. Senate,,DEM,Loren Hooker,209
+Wasco,Total,U.S. Senate,,DEM,Pavel Goberman,85
+Wasco,1,U.S. House,2,DEM,Over Votes,0
+Wasco,1,U.S. House,2,DEM,Under Votes,122
+Wasco,1,U.S. House,2,DEM,Joyce B. Segers,177
+Wasco,2,U.S. House,2,DEM,Over Votes,1
+Wasco,2,U.S. House,2,DEM,Under Votes,238
+Wasco,2,U.S. House,2,DEM,Joyce B. Segers,266
 Wasco,3,U.S. House,2,DEM,Over Votes,0
+Wasco,3,U.S. House,2,DEM,Under Votes,150
+Wasco,3,U.S. House,2,DEM,Joyce B. Segers,204
 Wasco,4,U.S. House,2,DEM,Over Votes,0
+Wasco,4,U.S. House,2,DEM,Under Votes,164
+Wasco,4,U.S. House,2,DEM,Joyce B. Segers,217
 Wasco,5,U.S. House,2,DEM,Over Votes,0
+Wasco,5,U.S. House,2,DEM,Under Votes,199
+Wasco,5,U.S. House,2,DEM,Joyce B. Segers,205
 Wasco,6,U.S. House,2,DEM,Over Votes,0
+Wasco,6,U.S. House,2,DEM,Under Votes,92
+Wasco,6,U.S. House,2,DEM,Joyce B. Segers,97
 Wasco,7,U.S. House,2,DEM,Over Votes,0
-Wasco,8,U.S. House,2,DEM,Over Votes,1
-Wasco,9,U.S. House,2,DEM,Over Votes,0
-Wasco,10,U.S. House,2,DEM,Over Votes,2
-Wasco,1,Governor,,DEM,"OBRIST, ROGER",30
-Wasco,2,Governor,,DEM,"OBRIST, ROGER",15
-Wasco,3,Governor,,DEM,"OBRIST, ROGER",20
-Wasco,4,Governor,,DEM,"OBRIST, ROGER",23
-Wasco,5,Governor,,DEM,"OBRIST, ROGER",9
-Wasco,6,Governor,,DEM,"OBRIST, ROGER",24
-Wasco,7,Governor,,DEM,"OBRIST, ROGER",14
-Wasco,8,Governor,,DEM,"OBRIST, ROGER",14
-Wasco,9,Governor,,DEM,"OBRIST, ROGER",14
-Wasco,10,Governor,,DEM,"OBRIST, ROGER",182
-Wasco,1,Governor,,DEM,"KITZHABER, JOHN",310
-Wasco,2,Governor,,DEM,"KITZHABER, JOHN",228
-Wasco,3,Governor,,DEM,"KITZHABER, JOHN",226
-Wasco,4,Governor,,DEM,"KITZHABER, JOHN",245
-Wasco,5,Governor,,DEM,"KITZHABER, JOHN",124
-Wasco,6,Governor,,DEM,"KITZHABER, JOHN",163
-Wasco,7,Governor,,DEM,"KITZHABER, JOHN",88
-Wasco,8,Governor,,DEM,"KITZHABER, JOHN",104
-Wasco,9,Governor,,DEM,"KITZHABER, JOHN",76
-Wasco,10,Governor,,DEM,"KITZHABER, JOHN",1752
-Wasco,1,Governor,,DEM,"BRADBURY, BILL",137
-Wasco,2,Governor,,DEM,"BRADBURY, BILL",94
-Wasco,3,Governor,,DEM,"BRADBURY, BILL",106
-Wasco,4,Governor,,DEM,"BRADBURY, BILL",109
-Wasco,5,Governor,,DEM,"BRADBURY, BILL",48
-Wasco,6,Governor,,DEM,"BRADBURY, BILL",48
-Wasco,7,Governor,,DEM,"BRADBURY, BILL",39
-Wasco,8,Governor,,DEM,"BRADBURY, BILL",55
-Wasco,9,Governor,,DEM,"BRADBURY, BILL",58
-Wasco,10,Governor,,DEM,"BRADBURY, BILL",775
-Wasco,1,Governor,,DEM,Under Votes,27
-Wasco,2,Governor,,DEM,Under Votes,15
-Wasco,3,Governor,,DEM,Under Votes,22
-Wasco,4,Governor,,DEM,Under Votes,22
-Wasco,5,Governor,,DEM,Under Votes,6
-Wasco,6,Governor,,DEM,Under Votes,11
-Wasco,7,Governor,,DEM,Under Votes,146
-Wasco,8,Governor,,DEM,Under Votes,77
-Wasco,9,Governor,,DEM,Under Votes,4
-Wasco,10,Governor,,DEM,Under Votes,338
+Wasco,7,U.S. House,2,DEM,Under Votes,132
+Wasco,7,U.S. House,2,DEM,Joyce B. Segers,119
+Wasco,8,U.S. House,2,DEM,Over Votes,0
+Wasco,8,U.S. House,2,DEM,Under Votes,69
+Wasco,8,U.S. House,2,DEM,Joyce B. Segers,91
+Wasco,9,U.S. House,2,DEM,Over Votes,1
+Wasco,9,U.S. House,2,DEM,Under Votes,77
+Wasco,9,U.S. House,2,DEM,Joyce B. Segers,109
+Wasco,10,U.S. House,2,DEM,Over Votes,0
+Wasco,10,U.S. House,2,DEM,Under Votes,68
+Wasco,10,U.S. House,2,DEM,Joyce B. Segers,84
+Wasco,Total,U.S. House,2,DEM,Over Votes,2
+Wasco,Total,U.S. House,2,DEM,Under Votes,1311
+Wasco,Total,U.S. House,2,DEM,Joyce B. Segers,1569
 Wasco,1,Governor,,DEM,Over Votes,1
-Wasco,2,Governor,,DEM,Over Votes,0
+Wasco,1,Governor,,DEM,Under Votes,8
+Wasco,1,Governor,,DEM,Bill Bradbury,81
+Wasco,1,Governor,,DEM,John Kitzhaber,188
+Wasco,1,Governor,,DEM,Roger Obrist,19
+Wasco,2,Governor,,DEM,Over Votes,1
+Wasco,2,Governor,,DEM,Under Votes,27
+Wasco,2,Governor,,DEM,Bill Bradbury,137
+Wasco,2,Governor,,DEM,John Kitzhaber,310
+Wasco,2,Governor,,DEM,Roger Obrist,30
 Wasco,3,Governor,,DEM,Over Votes,0
-Wasco,4,Governor,,DEM,Over Votes,3
-Wasco,5,Governor,,DEM,Over Votes,0
+Wasco,3,Governor,,DEM,Under Votes,15
+Wasco,3,Governor,,DEM,Bill Bradbury,94
+Wasco,3,Governor,,DEM,John Kitzhaber,228
+Wasco,3,Governor,,DEM,Roger Obrist,15
+Wasco,4,Governor,,DEM,Over Votes,0
+Wasco,4,Governor,,DEM,Under Votes,22
+Wasco,4,Governor,,DEM,Bill Bradbury,106
+Wasco,4,Governor,,DEM,John Kitzhaber,226
+Wasco,4,Governor,,DEM,Roger Obrist,20
+Wasco,5,Governor,,DEM,Over Votes,3
+Wasco,5,Governor,,DEM,Under Votes,22
+Wasco,5,Governor,,DEM,Bill Bradbury,109
+Wasco,5,Governor,,DEM,John Kitzhaber,245
+Wasco,5,Governor,,DEM,Roger Obrist,23
 Wasco,6,Governor,,DEM,Over Votes,0
+Wasco,6,Governor,,DEM,Under Votes,6
+Wasco,6,Governor,,DEM,Bill Bradbury,48
+Wasco,6,Governor,,DEM,John Kitzhaber,124
+Wasco,6,Governor,,DEM,Roger Obrist,9
 Wasco,7,Governor,,DEM,Over Votes,0
-Wasco,8,Governor,,DEM,Over Votes,1
-Wasco,9,Governor,,DEM,Over Votes,0
-Wasco,10,Governor,,DEM,Over Votes,6
-Wasco,1,State Treasurer,,DEM,"METSGER, RICK",185
-Wasco,2,State Treasurer,,DEM,"METSGER, RICK",145
-Wasco,3,State Treasurer,,DEM,"METSGER, RICK",153
-Wasco,4,State Treasurer,,DEM,"METSGER, RICK",155
-Wasco,5,State Treasurer,,DEM,"METSGER, RICK",79
-Wasco,6,State Treasurer,,DEM,"METSGER, RICK",77
-Wasco,7,State Treasurer,,DEM,"METSGER, RICK",69
-Wasco,8,State Treasurer,,DEM,"METSGER, RICK",92
-Wasco,9,State Treasurer,,DEM,"METSGER, RICK",72
-Wasco,10,State Treasurer,,DEM,"METSGER, RICK",1163
-Wasco,1,State Treasurer,,DEM,"WHEELER, TED",237
-Wasco,2,State Treasurer,,DEM,"WHEELER, TED",161
-Wasco,3,State Treasurer,,DEM,"WHEELER, TED",168
-Wasco,4,State Treasurer,,DEM,"WHEELER, TED",185
-Wasco,5,State Treasurer,,DEM,"WHEELER, TED",90
-Wasco,6,State Treasurer,,DEM,"WHEELER, TED",120
-Wasco,7,State Treasurer,,DEM,"WHEELER, TED",67
-Wasco,8,State Treasurer,,DEM,"WHEELER, TED",72
-Wasco,9,State Treasurer,,DEM,"WHEELER, TED",57
-Wasco,10,State Treasurer,,DEM,"WHEELER, TED",1287
-Wasco,1,State Treasurer,,DEM,Under Votes,86
-Wasco,2,State Treasurer,,DEM,Under Votes,54
-Wasco,3,State Treasurer,,DEM,Under Votes,62
-Wasco,4,State Treasurer,,DEM,Under Votes,65
-Wasco,5,State Treasurer,,DEM,Under Votes,21
-Wasco,6,State Treasurer,,DEM,Under Votes,56
-Wasco,7,State Treasurer,,DEM,Under Votes,24
-Wasco,8,State Treasurer,,DEM,Under Votes,22
-Wasco,9,State Treasurer,,DEM,Under Votes,23
-Wasco,10,State Treasurer,,DEM,Under Votes,449
-Wasco,1,State Treasurer,,DEM,Over Votes,2
-Wasco,2,State Treasurer,,DEM,Over Votes,0
+Wasco,7,Governor,,DEM,Under Votes,11
+Wasco,7,Governor,,DEM,Bill Bradbury,48
+Wasco,7,Governor,,DEM,John Kitzhaber,163
+Wasco,7,Governor,,DEM,Roger Obrist,24
+Wasco,8,Governor,,DEM,Over Votes,0
+Wasco,8,Governor,,DEM,Under Votes,146
+Wasco,8,Governor,,DEM,Bill Bradbury,39
+Wasco,8,Governor,,DEM,John Kitzhaber,88
+Wasco,8,Governor,,DEM,Roger Obrist,14
+Wasco,9,Governor,,DEM,Over Votes,1
+Wasco,9,Governor,,DEM,Under Votes,77
+Wasco,9,Governor,,DEM,Bill Bradbury,55
+Wasco,9,Governor,,DEM,John Kitzhaber,104
+Wasco,9,Governor,,DEM,Roger Obrist,14
+Wasco,10,Governor,,DEM,Over Votes,0
+Wasco,10,Governor,,DEM,Under Votes,4
+Wasco,10,Governor,,DEM,Bill Bradbury,58
+Wasco,10,Governor,,DEM,John Kitzhaber,76
+Wasco,10,Governor,,DEM,Roger Obrist,14
+Wasco,Total,Governor,,DEM,Over Votes,6
+Wasco,Total,Governor,,DEM,Under Votes,338
+Wasco,Total,Governor,,DEM,Bill Bradbury,775
+Wasco,Total,Governor,,DEM,John Kitzhaber,1752
+Wasco,Total,Governor,,DEM,Roger Obrist,182
+Wasco,1,State Treasurer,,DEM,Over Votes,0
+Wasco,1,State Treasurer,,DEM,Under Votes,36
+Wasco,1,State Treasurer,,DEM,Ted Wheeler,130
+Wasco,1,State Treasurer,,DEM,Rick Metsger,136
+Wasco,2,State Treasurer,,DEM,Over Votes,2
+Wasco,2,State Treasurer,,DEM,Under Votes,86
+Wasco,2,State Treasurer,,DEM,Ted Wheeler,237
+Wasco,2,State Treasurer,,DEM,Rick Metsger,185
 Wasco,3,State Treasurer,,DEM,Over Votes,0
-Wasco,4,State Treasurer,,DEM,Over Votes,1
-Wasco,5,State Treasurer,,DEM,Over Votes,0
+Wasco,3,State Treasurer,,DEM,Under Votes,54
+Wasco,3,State Treasurer,,DEM,Ted Wheeler,161
+Wasco,3,State Treasurer,,DEM,Rick Metsger,145
+Wasco,4,State Treasurer,,DEM,Over Votes,0
+Wasco,4,State Treasurer,,DEM,Under Votes,62
+Wasco,4,State Treasurer,,DEM,Ted Wheeler,168
+Wasco,4,State Treasurer,,DEM,Rick Metsger,153
+Wasco,5,State Treasurer,,DEM,Over Votes,1
+Wasco,5,State Treasurer,,DEM,Under Votes,65
+Wasco,5,State Treasurer,,DEM,Ted Wheeler,185
+Wasco,5,State Treasurer,,DEM,Rick Metsger,155
 Wasco,6,State Treasurer,,DEM,Over Votes,0
+Wasco,6,State Treasurer,,DEM,Under Votes,21
+Wasco,6,State Treasurer,,DEM,Ted Wheeler,90
+Wasco,6,State Treasurer,,DEM,Rick Metsger,79
 Wasco,7,State Treasurer,,DEM,Over Votes,0
-Wasco,8,State Treasurer,,DEM,Over Votes,1
-Wasco,9,State Treasurer,,DEM,Over Votes,0
-Wasco,10,State Treasurer,,DEM,Over Votes,4
-Wasco,1,State House,59,DEM,"BOETTNER, WILL",266
-Wasco,2,State House,59,DEM,"BOETTNER, WILL",211
-Wasco,3,State House,59,DEM,"BOETTNER, WILL",216
-Wasco,4,State House,59,DEM,"BOETTNER, WILL",206
-Wasco,5,State House,59,DEM,"BOETTNER, WILL",106
-Wasco,6,State House,59,DEM,"BOETTNER, WILL",119
-Wasco,7,State House,59,DEM,"BOETTNER, WILL",90
-Wasco,8,State House,59,DEM,"BOETTNER, WILL",111
-Wasco,9,State House,59,DEM,"BOETTNER, WILL",81
-Wasco,10,State House,59,DEM,"BOETTNER, WILL",1573
-Wasco,1,State House,59,DEM,Under Votes,239
-Wasco,2,State House,59,DEM,Under Votes,146
-Wasco,3,State House,59,DEM,Under Votes,162
-Wasco,4,State House,59,DEM,Under Votes,197
-Wasco,5,State House,59,DEM,Under Votes,82
-Wasco,6,State House,59,DEM,Under Votes,129
-Wasco,7,State House,59,DEM,Under Votes,67
-Wasco,8,State House,59,DEM,Under Votes,75
-Wasco,9,State House,59,DEM,Under Votes,71
-Wasco,10,State House,59,DEM,Under Votes,1296
-Wasco,1,State House,59,DEM,Over Votes,1
-Wasco,2,State House,59,DEM,Over Votes,0
+Wasco,7,State Treasurer,,DEM,Under Votes,56
+Wasco,7,State Treasurer,,DEM,Ted Wheeler,120
+Wasco,7,State Treasurer,,DEM,Rick Metsger,77
+Wasco,8,State Treasurer,,DEM,Over Votes,0
+Wasco,8,State Treasurer,,DEM,Under Votes,24
+Wasco,8,State Treasurer,,DEM,Ted Wheeler,67
+Wasco,8,State Treasurer,,DEM,Rick Metsger,69
+Wasco,9,State Treasurer,,DEM,Over Votes,1
+Wasco,9,State Treasurer,,DEM,Under Votes,22
+Wasco,9,State Treasurer,,DEM,Ted Wheeler,72
+Wasco,9,State Treasurer,,DEM,Rick Metsger,92
+Wasco,10,State Treasurer,,DEM,Over Votes,0
+Wasco,10,State Treasurer,,DEM,Under Votes,23
+Wasco,10,State Treasurer,,DEM,Ted Wheeler,57
+Wasco,10,State Treasurer,,DEM,Rick Metsger,72
+Wasco,Total,State Treasurer,,DEM,Over Votes,4
+Wasco,Total,State Treasurer,,DEM,Under Votes,449
+Wasco,Total,State Treasurer,,DEM,Ted Wheeler,1287
+Wasco,Total,State Treasurer,,DEM,Rick Metsger,1163
+Wasco,1,State House,59,DEM,Over Votes,0
+Wasco,1,State House,59,DEM,Under Votes,128
+Wasco,1,State House,59,DEM,Will Boettner,167
+Wasco,2,State House,59,DEM,Over Votes,1
+Wasco,2,State House,59,DEM,Under Votes,239
+Wasco,2,State House,59,DEM,Will Boettner,266
 Wasco,3,State House,59,DEM,Over Votes,0
+Wasco,3,State House,59,DEM,Under Votes,146
+Wasco,3,State House,59,DEM,Will Boettner,211
 Wasco,4,State House,59,DEM,Over Votes,0
+Wasco,4,State House,59,DEM,Under Votes,162
+Wasco,4,State House,59,DEM,Will Boettner,216
 Wasco,5,State House,59,DEM,Over Votes,0
+Wasco,5,State House,59,DEM,Under Votes,197
+Wasco,5,State House,59,DEM,Will Boettner,206
 Wasco,6,State House,59,DEM,Over Votes,0
+Wasco,6,State House,59,DEM,Under Votes,82
+Wasco,6,State House,59,DEM,Will Boettner,106
 Wasco,7,State House,59,DEM,Over Votes,0
+Wasco,7,State House,59,DEM,Under Votes,129
+Wasco,7,State House,59,DEM,Will Boettner,119
 Wasco,8,State House,59,DEM,Over Votes,0
+Wasco,8,State House,59,DEM,Under Votes,67
+Wasco,8,State House,59,DEM,Will Boettner,90
 Wasco,9,State House,59,DEM,Over Votes,0
-Wasco,10,State House,59,DEM,Over Votes,1
-Wasco,1,U.S. Senate,,REP,"STUTZMAN, TOM",10
-Wasco,2,U.S. Senate,,REP,"STUTZMAN, TOM",23
-Wasco,3,U.S. Senate,,REP,"STUTZMAN, TOM",27
-Wasco,4,U.S. Senate,,REP,"STUTZMAN, TOM",16
-Wasco,5,U.S. Senate,,REP,"STUTZMAN, TOM",13
-Wasco,6,U.S. Senate,,REP,"STUTZMAN, TOM",22
-Wasco,7,U.S. Senate,,REP,"STUTZMAN, TOM",12
-Wasco,8,U.S. Senate,,REP,"STUTZMAN, TOM",14
-Wasco,9,U.S. Senate,,REP,"STUTZMAN, TOM",12
-Wasco,10,U.S. Senate,,REP,"STUTZMAN, TOM",169
-Wasco,1,U.S. Senate,,REP,"PARKER, ROBIN S",9
-Wasco,2,U.S. Senate,,REP,"PARKER, ROBIN S",14
-Wasco,3,U.S. Senate,,REP,"PARKER, ROBIN S",12
-Wasco,4,U.S. Senate,,REP,"PARKER, ROBIN S",12
-Wasco,5,U.S. Senate,,REP,"PARKER, ROBIN S",2
-Wasco,6,U.S. Senate,,REP,"PARKER, ROBIN S",13
-Wasco,7,U.S. Senate,,REP,"PARKER, ROBIN S",4
-Wasco,8,U.S. Senate,,REP,"PARKER, ROBIN S",3
-Wasco,9,U.S. Senate,,REP,"PARKER, ROBIN S",0
-Wasco,10,U.S. Senate,,REP,"PARKER, ROBIN S",81
-Wasco,1,U.S. Senate,,REP,"LATER, LOREN",18
-Wasco,2,U.S. Senate,,REP,"LATER, LOREN",16
-Wasco,3,U.S. Senate,,REP,"LATER, LOREN",15
-Wasco,4,U.S. Senate,,REP,"LATER, LOREN",21
-Wasco,5,U.S. Senate,,REP,"LATER, LOREN",6
-Wasco,6,U.S. Senate,,REP,"LATER, LOREN",15
-Wasco,7,U.S. Senate,,REP,"LATER, LOREN",8
-Wasco,8,U.S. Senate,,REP,"LATER, LOREN",12
-Wasco,9,U.S. Senate,,REP,"LATER, LOREN",13
-Wasco,10,U.S. Senate,,REP,"LATER, LOREN",137
-Wasco,1,U.S. Senate,,REP,"DINKEL, G. SHANE",23
-Wasco,2,U.S. Senate,,REP,"DINKEL, G. SHANE",18
-Wasco,3,U.S. Senate,,REP,"DINKEL, G. SHANE",16
-Wasco,4,U.S. Senate,,REP,"DINKEL, G. SHANE",13
-Wasco,5,U.S. Senate,,REP,"DINKEL, G. SHANE",5
-Wasco,6,U.S. Senate,,REP,"DINKEL, G. SHANE",28
-Wasco,7,U.S. Senate,,REP,"DINKEL, G. SHANE",16
-Wasco,8,U.S. Senate,,REP,"DINKEL, G. SHANE",11
-Wasco,9,U.S. Senate,,REP,"DINKEL, G. SHANE",10
-Wasco,10,U.S. Senate,,REP,"DINKEL, G. SHANE",158
-Wasco,1,U.S. Senate,,REP,"HUFFMAN, JIM",198
-Wasco,2,U.S. Senate,,REP,"HUFFMAN, JIM",162
-Wasco,3,U.S. Senate,,REP,"HUFFMAN, JIM",161
-Wasco,4,U.S. Senate,,REP,"HUFFMAN, JIM",148
-Wasco,5,U.S. Senate,,REP,"HUFFMAN, JIM",69
-Wasco,6,U.S. Senate,,REP,"HUFFMAN, JIM",188
-Wasco,7,U.S. Senate,,REP,"HUFFMAN, JIM",153
-Wasco,8,U.S. Senate,,REP,"HUFFMAN, JIM",59
-Wasco,9,U.S. Senate,,REP,"HUFFMAN, JIM",82
-Wasco,10,U.S. Senate,,REP,"HUFFMAN, JIM",1362
-Wasco,1,U.S. Senate,,REP,"WOODLAND, WALTER H.",5
-Wasco,2,U.S. Senate,,REP,"WOODLAND, WALTER H.",3
-Wasco,3,U.S. Senate,,REP,"WOODLAND, WALTER H.",5
-Wasco,4,U.S. Senate,,REP,"WOODLAND, WALTER H.",0
-Wasco,5,U.S. Senate,,REP,"WOODLAND, WALTER H.",2
-Wasco,6,U.S. Senate,,REP,"WOODLAND, WALTER H.",1
-Wasco,7,U.S. Senate,,REP,"WOODLAND, WALTER H.",1
-Wasco,8,U.S. Senate,,REP,"WOODLAND, WALTER H.",2
-Wasco,9,U.S. Senate,,REP,"WOODLAND, WALTER H.",0
-Wasco,10,U.S. Senate,,REP,"WOODLAND, WALTER H.",24
-Wasco,1,U.S. Senate,,REP,"WALDRON, KEITH",27
-Wasco,2,U.S. Senate,,REP,"WALDRON, KEITH",17
-Wasco,3,U.S. Senate,,REP,"WALDRON, KEITH",21
-Wasco,4,U.S. Senate,,REP,"WALDRON, KEITH",14
-Wasco,5,U.S. Senate,,REP,"WALDRON, KEITH",13
-Wasco,6,U.S. Senate,,REP,"WALDRON, KEITH",6
-Wasco,7,U.S. Senate,,REP,"WALDRON, KEITH",20
-Wasco,8,U.S. Senate,,REP,"WALDRON, KEITH",12
-Wasco,9,U.S. Senate,,REP,"WALDRON, KEITH",3
-Wasco,10,U.S. Senate,,REP,"WALDRON, KEITH",148
-Wasco,1,U.S. Senate,,REP,Under Votes,109
-Wasco,2,U.S. Senate,,REP,Under Votes,80
-Wasco,3,U.S. Senate,,REP,Under Votes,93
-Wasco,4,U.S. Senate,,REP,Under Votes,40
-Wasco,5,U.S. Senate,,REP,Under Votes,28
-Wasco,6,U.S. Senate,,REP,Under Votes,76
-Wasco,7,U.S. Senate,,REP,Under Votes,72
-Wasco,8,U.S. Senate,,REP,Under Votes,27
-Wasco,9,U.S. Senate,,REP,Under Votes,22
-Wasco,10,U.S. Senate,,REP,Under Votes,592
-Wasco,1,U.S. Senate,,REP,Over Votes,0
-Wasco,2,U.S. Senate,,REP,Over Votes,1
+Wasco,9,State House,59,DEM,Under Votes,75
+Wasco,9,State House,59,DEM,Will Boettner,111
+Wasco,10,State House,59,DEM,Over Votes,0
+Wasco,10,State House,59,DEM,Under Votes,71
+Wasco,10,State House,59,DEM,Will Boettner,81
+Wasco,Total,State House,59,DEM,Over Votes,1
+Wasco,Total,State House,59,DEM,Under Votes,1296
+Wasco,Total,State House,59,DEM,Will Boettner,1573
+Wasco,1,U.S. Senate,,REP,Over Votes,2
+Wasco,1,U.S. Senate,,REP,Under Votes,45
+Wasco,1,U.S. Senate,,REP,Keith Waldron,15
+Wasco,1,U.S. Senate,,REP,Walter H. Woodland,5
+Wasco,1,U.S. Senate,,REP,Jim Huffman,142
+Wasco,1,U.S. Senate,,REP,G. Shane Dinkel,18
+Wasco,1,U.S. Senate,,REP,Loren Later,13
+Wasco,1,U.S. Senate,,REP,Robin S Parker,12
+Wasco,1,U.S. Senate,,REP,Tom Stutzman,20
+Wasco,2,U.S. Senate,,REP,Over Votes,0
+Wasco,2,U.S. Senate,,REP,Under Votes,109
+Wasco,2,U.S. Senate,,REP,Keith Waldron,27
+Wasco,2,U.S. Senate,,REP,Walter H. Woodland,5
+Wasco,2,U.S. Senate,,REP,Jim Huffman,198
+Wasco,2,U.S. Senate,,REP,G. Shane Dinkel,23
+Wasco,2,U.S. Senate,,REP,Loren Later,18
+Wasco,2,U.S. Senate,,REP,Robin S Parker,9
+Wasco,2,U.S. Senate,,REP,Tom Stutzman,10
 Wasco,3,U.S. Senate,,REP,Over Votes,1
-Wasco,4,U.S. Senate,,REP,Over Votes,0
+Wasco,3,U.S. Senate,,REP,Under Votes,80
+Wasco,3,U.S. Senate,,REP,Keith Waldron,17
+Wasco,3,U.S. Senate,,REP,Walter H. Woodland,3
+Wasco,3,U.S. Senate,,REP,Jim Huffman,162
+Wasco,3,U.S. Senate,,REP,G. Shane Dinkel,18
+Wasco,3,U.S. Senate,,REP,Loren Later,16
+Wasco,3,U.S. Senate,,REP,Robin S Parker,14
+Wasco,3,U.S. Senate,,REP,Tom Stutzman,23
+Wasco,4,U.S. Senate,,REP,Over Votes,1
+Wasco,4,U.S. Senate,,REP,Under Votes,93
+Wasco,4,U.S. Senate,,REP,Keith Waldron,21
+Wasco,4,U.S. Senate,,REP,Walter H. Woodland,5
+Wasco,4,U.S. Senate,,REP,Jim Huffman,161
+Wasco,4,U.S. Senate,,REP,G. Shane Dinkel,16
+Wasco,4,U.S. Senate,,REP,Loren Later,15
+Wasco,4,U.S. Senate,,REP,Robin S Parker,12
+Wasco,4,U.S. Senate,,REP,Tom Stutzman,27
 Wasco,5,U.S. Senate,,REP,Over Votes,0
-Wasco,6,U.S. Senate,,REP,Over Votes,1
-Wasco,7,U.S. Senate,,REP,Over Votes,0
-Wasco,8,U.S. Senate,,REP,Over Votes,1
-Wasco,9,U.S. Senate,,REP,Over Votes,0
-Wasco,10,U.S. Senate,,REP,Over Votes,6
-Wasco,1,U.S. House,2,REP,"WALDEN, GREG",345
-Wasco,2,U.S. House,2,REP,"WALDEN, GREG",287
-Wasco,3,U.S. House,2,REP,"WALDEN, GREG",309
-Wasco,4,U.S. House,2,REP,"WALDEN, GREG",234
-Wasco,5,U.S. House,2,REP,"WALDEN, GREG",126
-Wasco,6,U.S. House,2,REP,"WALDEN, GREG",297
-Wasco,7,U.S. House,2,REP,"WALDEN, GREG",251
-Wasco,8,U.S. House,2,REP,"WALDEN, GREG",113
-Wasco,9,U.S. House,2,REP,"WALDEN, GREG",126
-Wasco,10,U.S. House,2,REP,"WALDEN, GREG",2326
-Wasco,1,U.S. House,2,REP,Under Votes,54
-Wasco,2,U.S. House,2,REP,Under Votes,49
-Wasco,3,U.S. House,2,REP,Under Votes,43
-Wasco,4,U.S. House,2,REP,Under Votes,30
-Wasco,5,U.S. House,2,REP,Under Votes,14
-Wasco,6,U.S. House,2,REP,Under Votes,51
-Wasco,7,U.S. House,2,REP,Under Votes,34
-Wasco,8,U.S. House,2,REP,Under Votes,27
-Wasco,9,U.S. House,2,REP,Under Votes,15
-Wasco,10,U.S. House,2,REP,Under Votes,349
+Wasco,5,U.S. Senate,,REP,Under Votes,40
+Wasco,5,U.S. Senate,,REP,Keith Waldron,14
+Wasco,5,U.S. Senate,,REP,Walter H. Woodland,0
+Wasco,5,U.S. Senate,,REP,Jim Huffman,148
+Wasco,5,U.S. Senate,,REP,G. Shane Dinkel,13
+Wasco,5,U.S. Senate,,REP,Loren Later,21
+Wasco,5,U.S. Senate,,REP,Robin S Parker,12
+Wasco,5,U.S. Senate,,REP,Tom Stutzman,16
+Wasco,6,U.S. Senate,,REP,Over Votes,0
+Wasco,6,U.S. Senate,,REP,Under Votes,28
+Wasco,6,U.S. Senate,,REP,Keith Waldron,13
+Wasco,6,U.S. Senate,,REP,Walter H. Woodland,2
+Wasco,6,U.S. Senate,,REP,Jim Huffman,69
+Wasco,6,U.S. Senate,,REP,G. Shane Dinkel,5
+Wasco,6,U.S. Senate,,REP,Loren Later,6
+Wasco,6,U.S. Senate,,REP,Robin S Parker,2
+Wasco,6,U.S. Senate,,REP,Tom Stutzman,13
+Wasco,7,U.S. Senate,,REP,Over Votes,1
+Wasco,7,U.S. Senate,,REP,Under Votes,76
+Wasco,7,U.S. Senate,,REP,Keith Waldron,6
+Wasco,7,U.S. Senate,,REP,Walter H. Woodland,1
+Wasco,7,U.S. Senate,,REP,Jim Huffman,188
+Wasco,7,U.S. Senate,,REP,G. Shane Dinkel,28
+Wasco,7,U.S. Senate,,REP,Loren Later,15
+Wasco,7,U.S. Senate,,REP,Robin S Parker,13
+Wasco,7,U.S. Senate,,REP,Tom Stutzman,22
+Wasco,8,U.S. Senate,,REP,Over Votes,0
+Wasco,8,U.S. Senate,,REP,Under Votes,72
+Wasco,8,U.S. Senate,,REP,Keith Waldron,20
+Wasco,8,U.S. Senate,,REP,Walter H. Woodland,1
+Wasco,8,U.S. Senate,,REP,Jim Huffman,153
+Wasco,8,U.S. Senate,,REP,G. Shane Dinkel,16
+Wasco,8,U.S. Senate,,REP,Loren Later,8
+Wasco,8,U.S. Senate,,REP,Robin S Parker,4
+Wasco,8,U.S. Senate,,REP,Tom Stutzman,12
+Wasco,9,U.S. Senate,,REP,Over Votes,1
+Wasco,9,U.S. Senate,,REP,Under Votes,27
+Wasco,9,U.S. Senate,,REP,Keith Waldron,12
+Wasco,9,U.S. Senate,,REP,Walter H. Woodland,2
+Wasco,9,U.S. Senate,,REP,Jim Huffman,59
+Wasco,9,U.S. Senate,,REP,G. Shane Dinkel,11
+Wasco,9,U.S. Senate,,REP,Loren Later,12
+Wasco,9,U.S. Senate,,REP,Robin S Parker,3
+Wasco,9,U.S. Senate,,REP,Tom Stutzman,14
+Wasco,10,U.S. Senate,,REP,Over Votes,0
+Wasco,10,U.S. Senate,,REP,Under Votes,22
+Wasco,10,U.S. Senate,,REP,Keith Waldron,3
+Wasco,10,U.S. Senate,,REP,Walter H. Woodland,0
+Wasco,10,U.S. Senate,,REP,Jim Huffman,82
+Wasco,10,U.S. Senate,,REP,G. Shane Dinkel,10
+Wasco,10,U.S. Senate,,REP,Loren Later,13
+Wasco,10,U.S. Senate,,REP,Robin S Parker,0
+Wasco,10,U.S. Senate,,REP,Tom Stutzman,12
+Wasco,Total,U.S. Senate,,REP,Over Votes,6
+Wasco,Total,U.S. Senate,,REP,Under Votes,592
+Wasco,Total,U.S. Senate,,REP,Keith Waldron,148
+Wasco,Total,U.S. Senate,,REP,Walter H. Woodland,24
+Wasco,Total,U.S. Senate,,REP,Jim Huffman,1362
+Wasco,Total,U.S. Senate,,REP,G. Shane Dinkel,158
+Wasco,Total,U.S. Senate,,REP,Loren Later,137
+Wasco,Total,U.S. Senate,,REP,Robin S Parker,81
+Wasco,Total,U.S. Senate,,REP,Tom Stutzman,169
 Wasco,1,U.S. House,2,REP,Over Votes,0
+Wasco,1,U.S. House,2,REP,Under Votes,32
+Wasco,1,U.S. House,2,REP,Greg Walden,238
 Wasco,2,U.S. House,2,REP,Over Votes,0
+Wasco,2,U.S. House,2,REP,Under Votes,54
+Wasco,2,U.S. House,2,REP,Greg Walden,345
 Wasco,3,U.S. House,2,REP,Over Votes,0
+Wasco,3,U.S. House,2,REP,Under Votes,49
+Wasco,3,U.S. House,2,REP,Greg Walden,287
 Wasco,4,U.S. House,2,REP,Over Votes,0
+Wasco,4,U.S. House,2,REP,Under Votes,43
+Wasco,4,U.S. House,2,REP,Greg Walden,309
 Wasco,5,U.S. House,2,REP,Over Votes,0
+Wasco,5,U.S. House,2,REP,Under Votes,30
+Wasco,5,U.S. House,2,REP,Greg Walden,234
 Wasco,6,U.S. House,2,REP,Over Votes,0
+Wasco,6,U.S. House,2,REP,Under Votes,14
+Wasco,6,U.S. House,2,REP,Greg Walden,126
 Wasco,7,U.S. House,2,REP,Over Votes,0
-Wasco,8,U.S. House,2,REP,Over Votes,1
-Wasco,9,U.S. House,2,REP,Over Votes,0
-Wasco,10,U.S. House,2,REP,Over Votes,1
-Wasco,1,Governor,,REP,"SIZEMORE, BILL",21
-Wasco,2,Governor,,REP,"SIZEMORE, BILL",21
-Wasco,3,Governor,,REP,"SIZEMORE, BILL",22
-Wasco,4,Governor,,REP,"SIZEMORE, BILL",22
-Wasco,5,Governor,,REP,"SIZEMORE, BILL",8
-Wasco,6,Governor,,REP,"SIZEMORE, BILL",16
-Wasco,7,Governor,,REP,"SIZEMORE, BILL",18
-Wasco,8,Governor,,REP,"SIZEMORE, BILL",13
-Wasco,9,Governor,,REP,"SIZEMORE, BILL",9
-Wasco,10,Governor,,REP,"SIZEMORE, BILL",175
-Wasco,1,Governor,,REP,"LIM, JOHN",45
-Wasco,2,Governor,,REP,"LIM, JOHN",32
-Wasco,3,Governor,,REP,"LIM, JOHN",37
-Wasco,4,Governor,,REP,"LIM, JOHN",36
-Wasco,5,Governor,,REP,"LIM, JOHN",12
-Wasco,6,Governor,,REP,"LIM, JOHN",36
-Wasco,7,Governor,,REP,"LIM, JOHN",29
-Wasco,8,Governor,,REP,"LIM, JOHN",10
-Wasco,9,Governor,,REP,"LIM, JOHN",18
-Wasco,10,Governor,,REP,"LIM, JOHN",284
-Wasco,1,Governor,,REP,"KARR, DARREN",1
-Wasco,2,Governor,,REP,"KARR, DARREN",0
-Wasco,3,Governor,,REP,"KARR, DARREN",0
-Wasco,4,Governor,,REP,"KARR, DARREN",0
-Wasco,5,Governor,,REP,"KARR, DARREN",1
-Wasco,6,Governor,,REP,"KARR, DARREN",0
-Wasco,7,Governor,,REP,"KARR, DARREN",0
-Wasco,8,Governor,,REP,"KARR, DARREN",0
-Wasco,9,Governor,,REP,"KARR, DARREN",0
-Wasco,10,Governor,,REP,"KARR, DARREN",2
-Wasco,1,Governor,,REP,"COLVIN, CLARK",1
-Wasco,2,Governor,,REP,"COLVIN, CLARK",0
-Wasco,3,Governor,,REP,"COLVIN, CLARK",1
-Wasco,4,Governor,,REP,"COLVIN, CLARK",1
-Wasco,5,Governor,,REP,"COLVIN, CLARK",0
-Wasco,6,Governor,,REP,"COLVIN, CLARK",2
-Wasco,7,Governor,,REP,"COLVIN, CLARK",1
-Wasco,8,Governor,,REP,"COLVIN, CLARK",0
-Wasco,9,Governor,,REP,"COLVIN, CLARK",0
-Wasco,10,Governor,,REP,"COLVIN, CLARK",7
-Wasco,1,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",3
-Wasco,2,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",5
-Wasco,3,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",4
-Wasco,4,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",14
-Wasco,5,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",3
-Wasco,6,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",5
-Wasco,7,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",2
-Wasco,8,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",5
-Wasco,9,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",8
-Wasco,10,Governor,,REP,"CURTWRIGHT, WILLIAM AMES",56
-Wasco,1,Governor,,REP,"DUDLEY, CHRIS",165
-Wasco,2,Governor,,REP,"DUDLEY, CHRIS",139
-Wasco,3,Governor,,REP,"DUDLEY, CHRIS",153
-Wasco,4,Governor,,REP,"DUDLEY, CHRIS",93
-Wasco,5,Governor,,REP,"DUDLEY, CHRIS",63
-Wasco,6,Governor,,REP,"DUDLEY, CHRIS",150
-Wasco,7,Governor,,REP,"DUDLEY, CHRIS",108
-Wasco,8,Governor,,REP,"DUDLEY, CHRIS",75
-Wasco,9,Governor,,REP,"DUDLEY, CHRIS",58
-Wasco,10,Governor,,REP,"DUDLEY, CHRIS",1119
-Wasco,1,Governor,,REP,"FORTHAN, BOB",1
-Wasco,2,Governor,,REP,"FORTHAN, BOB",1
-Wasco,3,Governor,,REP,"FORTHAN, BOB",1
-Wasco,4,Governor,,REP,"FORTHAN, BOB",0
-Wasco,5,Governor,,REP,"FORTHAN, BOB",1
-Wasco,6,Governor,,REP,"FORTHAN, BOB",0
-Wasco,7,Governor,,REP,"FORTHAN, BOB",3
-Wasco,8,Governor,,REP,"FORTHAN, BOB",1
-Wasco,9,Governor,,REP,"FORTHAN, BOB",1
-Wasco,10,Governor,,REP,"FORTHAN, BOB",9
-Wasco,1,Governor,,REP,"ALLEY, ALLEN",121
-Wasco,2,Governor,,REP,"ALLEY, ALLEN",114
-Wasco,3,Governor,,REP,"ALLEY, ALLEN",11
-Wasco,4,Governor,,REP,"ALLEY, ALLEN",76
-Wasco,5,Governor,,REP,"ALLEY, ALLEN",45
-Wasco,6,Governor,,REP,"ALLEY, ALLEN",120
-Wasco,7,Governor,,REP,"ALLEY, ALLEN",106
-Wasco,8,Governor,,REP,"ALLEY, ALLEN",27
-Wasco,9,Governor,,REP,"ALLEY, ALLEN",43
-Wasco,10,Governor,,REP,"ALLEY, ALLEN",748
-Wasco,1,Governor,,REP,"WATKINS, REX O.",7
-Wasco,2,Governor,,REP,"WATKINS, REX O.",3
-Wasco,3,Governor,,REP,"WATKINS, REX O.",1
-Wasco,4,Governor,,REP,"WATKINS, REX O.",2
-Wasco,5,Governor,,REP,"WATKINS, REX O.",2
-Wasco,6,Governor,,REP,"WATKINS, REX O.",1
-Wasco,7,Governor,,REP,"WATKINS, REX O.",2
-Wasco,8,Governor,,REP,"WATKINS, REX O.",3
-Wasco,9,Governor,,REP,"WATKINS, REX O.",0
-Wasco,10,Governor,,REP,"WATKINS, REX O.",23
-Wasco,1,Governor,,REP,Under Votes,32
-Wasco,2,Governor,,REP,Under Votes,19
-Wasco,3,Governor,,REP,Under Votes,17
-Wasco,4,Governor,,REP,Under Votes,18
-Wasco,5,Governor,,REP,Under Votes,3
-Wasco,6,Governor,,REP,Under Votes,21
-Wasco,7,Governor,,REP,Under Votes,18
-Wasco,8,Governor,,REP,Under Votes,5
-Wasco,9,Governor,,REP,Under Votes,3
-Wasco,10,Governor,,REP,Under Votes,142
-Wasco,1,Governor,,REP,Over Votes,3
-Wasco,2,Governor,,REP,Over Votes,1
-Wasco,3,Governor,,REP,Over Votes,0
-Wasco,4,Governor,,REP,Over Votes,1
-Wasco,5,Governor,,REP,Over Votes,0
-Wasco,6,Governor,,REP,Over Votes,1
-Wasco,7,Governor,,REP,Over Votes,0
-Wasco,8,Governor,,REP,Over Votes,3
-Wasco,9,Governor,,REP,Over Votes,1
-Wasco,10,Governor,,REP,Over Votes,11
-Wasco,1,State Treasurer,,REP,"TELFER, CHRIS",248
-Wasco,2,State Treasurer,,REP,"TELFER, CHRIS",202
-Wasco,3,State Treasurer,,REP,"TELFER, CHRIS",234
-Wasco,4,State Treasurer,,REP,"TELFER, CHRIS",177
-Wasco,5,State Treasurer,,REP,"TELFER, CHRIS",106
-Wasco,6,State Treasurer,,REP,"TELFER, CHRIS",218
-Wasco,7,State Treasurer,,REP,"TELFER, CHRIS",185
-Wasco,8,State Treasurer,,REP,"TELFER, CHRIS",89
-Wasco,9,State Treasurer,,REP,"TELFER, CHRIS",98
-Wasco,10,State Treasurer,,REP,"TELFER, CHRIS",1736
-Wasco,1,State Treasurer,,REP,Under Votes,151
-Wasco,2,State Treasurer,,REP,Under Votes,131
-Wasco,3,State Treasurer,,REP,Under Votes,121
-Wasco,4,State Treasurer,,REP,Under Votes,87
-Wasco,5,State Treasurer,,REP,Under Votes,34
-Wasco,6,State Treasurer,,REP,Under Votes,131
-Wasco,7,State Treasurer,,REP,Under Votes,100
-Wasco,8,State Treasurer,,REP,Under Votes,52
-Wasco,9,State Treasurer,,REP,Under Votes,44
-Wasco,10,State Treasurer,,REP,Under Votes,944
+Wasco,7,U.S. House,2,REP,Under Votes,51
+Wasco,7,U.S. House,2,REP,Greg Walden,297
+Wasco,8,U.S. House,2,REP,Over Votes,0
+Wasco,8,U.S. House,2,REP,Under Votes,34
+Wasco,8,U.S. House,2,REP,Greg Walden,251
+Wasco,9,U.S. House,2,REP,Over Votes,1
+Wasco,9,U.S. House,2,REP,Under Votes,27
+Wasco,9,U.S. House,2,REP,Greg Walden,113
+Wasco,10,U.S. House,2,REP,Over Votes,0
+Wasco,10,U.S. House,2,REP,Under Votes,15
+Wasco,10,U.S. House,2,REP,Greg Walden,126
+Wasco,Total,U.S. House,2,REP,Over Votes,1
+Wasco,Total,U.S. House,2,REP,Under Votes,349
+Wasco,Total,U.S. House,2,REP,Greg Walden,2326
+Wasco,1,Governor,,REP,Over Votes,1
+Wasco,1,Governor,,REP,Under Votes,6
+Wasco,1,Governor,,REP,Rex O. Watkins,2
+Wasco,1,Governor,,REP,Allen Alley,85
+Wasco,1,Governor,,REP,Bob Forthan,0
+Wasco,1,Governor,,REP,Chris Dudley,115
+Wasco,1,Governor,,REP,William Ames Curtwright,7
+Wasco,1,Governor,,REP,Clark Colvin,1
+Wasco,1,Governor,,REP,Darren Karr,0
+Wasco,1,Governor,,REP,John Lim,29
+Wasco,1,Governor,,REP,Bill Sizemore,25
+Wasco,2,Governor,,REP,Over Votes,3
+Wasco,2,Governor,,REP,Under Votes,32
+Wasco,2,Governor,,REP,Rex O. Watkins,7
+Wasco,2,Governor,,REP,Allen Alley,121
+Wasco,2,Governor,,REP,Bob Forthan,1
+Wasco,2,Governor,,REP,Chris Dudley,165
+Wasco,2,Governor,,REP,William Ames Curtwright,3
+Wasco,2,Governor,,REP,Clark Colvin,1
+Wasco,2,Governor,,REP,Darren Karr,1
+Wasco,2,Governor,,REP,John Lim,45
+Wasco,2,Governor,,REP,Bill Sizemore,21
+Wasco,3,Governor,,REP,Over Votes,1
+Wasco,3,Governor,,REP,Under Votes,19
+Wasco,3,Governor,,REP,Rex O. Watkins,3
+Wasco,3,Governor,,REP,Allen Alley,114
+Wasco,3,Governor,,REP,Bob Forthan,1
+Wasco,3,Governor,,REP,Chris Dudley,139
+Wasco,3,Governor,,REP,William Ames Curtwright,5
+Wasco,3,Governor,,REP,Clark Colvin,0
+Wasco,3,Governor,,REP,Darren Karr,0
+Wasco,3,Governor,,REP,John Lim,32
+Wasco,3,Governor,,REP,Bill Sizemore,21
+Wasco,4,Governor,,REP,Over Votes,0
+Wasco,4,Governor,,REP,Under Votes,17
+Wasco,4,Governor,,REP,Rex O. Watkins,1
+Wasco,4,Governor,,REP,Allen Alley,11
+Wasco,4,Governor,,REP,Bob Forthan,1
+Wasco,4,Governor,,REP,Chris Dudley,153
+Wasco,4,Governor,,REP,William Ames Curtwright,4
+Wasco,4,Governor,,REP,Clark Colvin,1
+Wasco,4,Governor,,REP,Darren Karr,0
+Wasco,4,Governor,,REP,John Lim,37
+Wasco,4,Governor,,REP,Bill Sizemore,22
+Wasco,5,Governor,,REP,Over Votes,1
+Wasco,5,Governor,,REP,Under Votes,18
+Wasco,5,Governor,,REP,Rex O. Watkins,2
+Wasco,5,Governor,,REP,Allen Alley,76
+Wasco,5,Governor,,REP,Bob Forthan,0
+Wasco,5,Governor,,REP,Chris Dudley,93
+Wasco,5,Governor,,REP,William Ames Curtwright,14
+Wasco,5,Governor,,REP,Clark Colvin,1
+Wasco,5,Governor,,REP,Darren Karr,0
+Wasco,5,Governor,,REP,John Lim,36
+Wasco,5,Governor,,REP,Bill Sizemore,22
+Wasco,6,Governor,,REP,Over Votes,0
+Wasco,6,Governor,,REP,Under Votes,3
+Wasco,6,Governor,,REP,Rex O. Watkins,2
+Wasco,6,Governor,,REP,Allen Alley,45
+Wasco,6,Governor,,REP,Bob Forthan,1
+Wasco,6,Governor,,REP,Chris Dudley,63
+Wasco,6,Governor,,REP,William Ames Curtwright,3
+Wasco,6,Governor,,REP,Clark Colvin,0
+Wasco,6,Governor,,REP,Darren Karr,1
+Wasco,6,Governor,,REP,John Lim,12
+Wasco,6,Governor,,REP,Bill Sizemore,8
+Wasco,7,Governor,,REP,Over Votes,1
+Wasco,7,Governor,,REP,Under Votes,21
+Wasco,7,Governor,,REP,Rex O. Watkins,1
+Wasco,7,Governor,,REP,Allen Alley,120
+Wasco,7,Governor,,REP,Bob Forthan,0
+Wasco,7,Governor,,REP,Chris Dudley,150
+Wasco,7,Governor,,REP,William Ames Curtwright,5
+Wasco,7,Governor,,REP,Clark Colvin,2
+Wasco,7,Governor,,REP,Darren Karr,0
+Wasco,7,Governor,,REP,John Lim,36
+Wasco,7,Governor,,REP,Bill Sizemore,16
+Wasco,8,Governor,,REP,Over Votes,0
+Wasco,8,Governor,,REP,Under Votes,18
+Wasco,8,Governor,,REP,Rex O. Watkins,2
+Wasco,8,Governor,,REP,Allen Alley,106
+Wasco,8,Governor,,REP,Bob Forthan,3
+Wasco,8,Governor,,REP,Chris Dudley,108
+Wasco,8,Governor,,REP,William Ames Curtwright,2
+Wasco,8,Governor,,REP,Clark Colvin,1
+Wasco,8,Governor,,REP,Darren Karr,0
+Wasco,8,Governor,,REP,John Lim,29
+Wasco,8,Governor,,REP,Bill Sizemore,18
+Wasco,9,Governor,,REP,Over Votes,3
+Wasco,9,Governor,,REP,Under Votes,5
+Wasco,9,Governor,,REP,Rex O. Watkins,3
+Wasco,9,Governor,,REP,Allen Alley,27
+Wasco,9,Governor,,REP,Bob Forthan,1
+Wasco,9,Governor,,REP,Chris Dudley,75
+Wasco,9,Governor,,REP,William Ames Curtwright,5
+Wasco,9,Governor,,REP,Clark Colvin,0
+Wasco,9,Governor,,REP,Darren Karr,0
+Wasco,9,Governor,,REP,John Lim,10
+Wasco,9,Governor,,REP,Bill Sizemore,13
+Wasco,10,Governor,,REP,Over Votes,1
+Wasco,10,Governor,,REP,Under Votes,3
+Wasco,10,Governor,,REP,Rex O. Watkins,0
+Wasco,10,Governor,,REP,Allen Alley,43
+Wasco,10,Governor,,REP,Bob Forthan,1
+Wasco,10,Governor,,REP,Chris Dudley,58
+Wasco,10,Governor,,REP,William Ames Curtwright,8
+Wasco,10,Governor,,REP,Clark Colvin,0
+Wasco,10,Governor,,REP,Darren Karr,0
+Wasco,10,Governor,,REP,John Lim,18
+Wasco,10,Governor,,REP,Bill Sizemore,9
+Wasco,Total,Governor,,REP,Over Votes,11
+Wasco,Total,Governor,,REP,Under Votes,142
+Wasco,Total,Governor,,REP,Rex O. Watkins,23
+Wasco,Total,Governor,,REP,Allen Alley,748
+Wasco,Total,Governor,,REP,Bob Forthan,9
+Wasco,Total,Governor,,REP,Chris Dudley,1119
+Wasco,Total,Governor,,REP,William Ames Curtwright,56
+Wasco,Total,Governor,,REP,Clark Colvin,7
+Wasco,Total,Governor,,REP,Darren Karr,2
+Wasco,Total,Governor,,REP,John Lim,284
+Wasco,Total,Governor,,REP,Bill Sizemore,175
 Wasco,1,State Treasurer,,REP,Over Votes,0
+Wasco,1,State Treasurer,,REP,Under Votes,93
+Wasco,1,State Treasurer,,REP,Chris Telfer,179
 Wasco,2,State Treasurer,,REP,Over Votes,0
+Wasco,2,State Treasurer,,REP,Under Votes,151
+Wasco,2,State Treasurer,,REP,Chris Telfer,248
 Wasco,3,State Treasurer,,REP,Over Votes,0
+Wasco,3,State Treasurer,,REP,Under Votes,131
+Wasco,3,State Treasurer,,REP,Chris Telfer,202
 Wasco,4,State Treasurer,,REP,Over Votes,0
+Wasco,4,State Treasurer,,REP,Under Votes,121
+Wasco,4,State Treasurer,,REP,Chris Telfer,234
 Wasco,5,State Treasurer,,REP,Over Votes,0
+Wasco,5,State Treasurer,,REP,Under Votes,87
+Wasco,5,State Treasurer,,REP,Chris Telfer,177
 Wasco,6,State Treasurer,,REP,Over Votes,0
+Wasco,6,State Treasurer,,REP,Under Votes,34
+Wasco,6,State Treasurer,,REP,Chris Telfer,106
 Wasco,7,State Treasurer,,REP,Over Votes,0
+Wasco,7,State Treasurer,,REP,Under Votes,131
+Wasco,7,State Treasurer,,REP,Chris Telfer,218
 Wasco,8,State Treasurer,,REP,Over Votes,0
+Wasco,8,State Treasurer,,REP,Under Votes,100
+Wasco,8,State Treasurer,,REP,Chris Telfer,185
 Wasco,9,State Treasurer,,REP,Over Votes,0
+Wasco,9,State Treasurer,,REP,Under Votes,52
+Wasco,9,State Treasurer,,REP,Chris Telfer,89
 Wasco,10,State Treasurer,,REP,Over Votes,0
-Wasco,1,State House,59,REP,"STORKSON, BRITT",23
-Wasco,2,State House,59,REP,"STORKSON, BRITT",19
-Wasco,3,State House,59,REP,"STORKSON, BRITT",21
-Wasco,4,State House,59,REP,"STORKSON, BRITT",15
-Wasco,5,State House,59,REP,"STORKSON, BRITT",7
-Wasco,6,State House,59,REP,"STORKSON, BRITT",17
-Wasco,7,State House,59,REP,"STORKSON, BRITT",16
-Wasco,8,State House,59,REP,"STORKSON, BRITT",6
-Wasco,9,State House,59,REP,"STORKSON, BRITT",10
-Wasco,10,State House,59,REP,"STORKSON, BRITT",148
-Wasco,1,State House,59,REP,"HUFFMAN, JOHN E.",341
-Wasco,2,State House,59,REP,"HUFFMAN, JOHN E.",285
-Wasco,3,State House,59,REP,"HUFFMAN, JOHN E.",304
-Wasco,4,State House,59,REP,"HUFFMAN, JOHN E.",221
-Wasco,5,State House,59,REP,"HUFFMAN, JOHN E.",120
-Wasco,6,State House,59,REP,"HUFFMAN, JOHN E.",301
-Wasco,7,State House,59,REP,"HUFFMAN, JOHN E.",243
-Wasco,8,State House,59,REP,"HUFFMAN, JOHN E.",110
-Wasco,9,State House,59,REP,"HUFFMAN, JOHN E.",119
-Wasco,10,State House,59,REP,"HUFFMAN, JOHN E.",2273
+Wasco,10,State Treasurer,,REP,Under Votes,44
+Wasco,10,State Treasurer,,REP,Chris Telfer,98
+Wasco,Total,State Treasurer,,REP,Over Votes,0
+Wasco,Total,State Treasurer,,REP,Under Votes,944
+Wasco,Total,State Treasurer,,REP,Chris Telfer,1736
 Wasco,1,State House,59,REP,Over Votes,0
-Wasco,2,State House,59,REP,Over Votes,0
-Wasco,3,State House,59,REP,Over Votes,0
-Wasco,4,State House,59,REP,Over Votes,0
-Wasco,5,State House,59,REP,Over Votes,0
-Wasco,6,State House,59,REP,Over Votes,0
-Wasco,7,State House,59,REP,Over Votes,0
-Wasco,8,State House,59,REP,Over Votes,0
-Wasco,9,State House,59,REP,Over Votes,0
-Wasco,10,State House,59,REP,Over Votes,0
 Wasco,1,State House,59,REP,Under Votes,28
+Wasco,1,State House,59,REP,John E.  Huffman,229
+Wasco,1,State House,59,REP,Britt Storkson,14
+Wasco,2,State House,59,REP,Over Votes,0
 Wasco,2,State House,59,REP,Under Votes,38
+Wasco,2,State House,59,REP,John E.  Huffman,341
+Wasco,2,State House,59,REP,Britt Storkson,23
+Wasco,3,State House,59,REP,Over Votes,0
 Wasco,3,State House,59,REP,Under Votes,30
+Wasco,3,State House,59,REP,John E.  Huffman,285
+Wasco,3,State House,59,REP,Britt Storkson,19
+Wasco,4,State House,59,REP,Over Votes,0
 Wasco,4,State House,59,REP,Under Votes,31
+Wasco,4,State House,59,REP,John E.  Huffman,304
+Wasco,4,State House,59,REP,Britt Storkson,21
+Wasco,5,State House,59,REP,Over Votes,0
 Wasco,5,State House,59,REP,Under Votes,28
+Wasco,5,State House,59,REP,John E.  Huffman,221
+Wasco,5,State House,59,REP,Britt Storkson,15
+Wasco,6,State House,59,REP,Over Votes,0
 Wasco,6,State House,59,REP,Under Votes,14
+Wasco,6,State House,59,REP,John E.  Huffman,120
+Wasco,6,State House,59,REP,Britt Storkson,7
+Wasco,7,State House,59,REP,Over Votes,0
 Wasco,7,State House,59,REP,Under Votes,34
+Wasco,7,State House,59,REP,John E.  Huffman,301
+Wasco,7,State House,59,REP,Britt Storkson,17
+Wasco,8,State House,59,REP,Over Votes,0
 Wasco,8,State House,59,REP,Under Votes,100
+Wasco,8,State House,59,REP,John E.  Huffman,243
+Wasco,8,State House,59,REP,Britt Storkson,16
+Wasco,9,State House,59,REP,Over Votes,0
 Wasco,9,State House,59,REP,Under Votes,26
+Wasco,9,State House,59,REP,John E.  Huffman,110
+Wasco,9,State House,59,REP,Britt Storkson,6
+Wasco,10,State House,59,REP,Over Votes,0
 Wasco,10,State House,59,REP,Under Votes,13
+Wasco,10,State House,59,REP,John E.  Huffman,119
+Wasco,10,State House,59,REP,Britt Storkson,10
+Wasco,Total,State House,59,REP,Over Votes,0
+Wasco,Total,State House,59,REP,Under Votes,342
+Wasco,Total,State House,59,REP,John E.  Huffman,2273
+Wasco,Total,State House,59,REP,Britt Storkson,148
