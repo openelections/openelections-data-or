@@ -23,79 +23,56 @@
 # SOFTWARE.
 
 import csv
-import sys
-import re
+import os
 import argparse
+import pandas
+
 
 def main():
 	args = parseArguments()
 
-	with open(args.path, 'rU') as csvfile:
-		reader = csv.DictReader(csvfile)
-		groupingColumns = ()
-		totalColumn = ''
+	checker = TotalChecker(args.path)
+
+	# Candidate total
+	checker.checkTotals('precinct', ['office', 'district', 'candidate', 'party'])
+
+	# Precinct total
+	checker.checkTotals('candidate', ['office', 'district', 'precinct', 'party'])
+
+
+class TotalChecker(object):
+	def __init__(self, path):
+		self.path = path
+
+		print("==> {}".format(os.path.basename(path)))
+
+		self.populateResults()
+
+	def populateResults(self):
+		self.results = pandas.read_csv(self.path).fillna('')
+		self.results[['votes']] = self.results[['votes']].apply(pandas.to_numeric)
+
+		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results.precinct != 'Total')]	
+
+	def checkTotals(self, totalColumn, columns):
+		contests = self.results.drop_duplicates(columns)[columns].values
+		total_data = self.results.loc[self.results[totalColumn] == 'Total']
 		
-		currentGroup = ()
-		voteTotal = 0
+		if len(total_data):
+			# Calculate our own totals to compare
+			totals = self.results_sans_totals.groupby(columns).votes.sum()
 
-		# First, figure out if we're doing precinct totals or candidate totals
-		for row in reader:
-			if row["candidate"] == 'Total':
-				totalColumn = 'candidate'
-				groupingColumns = ('precinct', 'office', 'district')
-				break
-			elif row["precinct"] == 'Total':
-				totalColumn = 'precinct'
-				groupingColumns = ('candidate', 'office', 'district')
-				break
-		else:
-			print("No totals to compare vote counts with")
-			sys.exit(0)
+			for index, row in total_data.iterrows():
+				file_total = row.votes
+				index_values = tuple(row[x] for x in columns)
+				actual_total = totals.loc[index_values]
 
-		# Now that we've figured out which column to accumulate totals by, start over
-		csvfile.seek(0)
-		firstRow = True
-
-		for row in reader:
-			if firstRow:
-				firstRow = False
-				continue # due to the seek, have to manually skip the header row
-
-			rowGroup = tuple(row[col] for col in groupingColumns)
-			# print(rowGroup)
-
-			try:
-				votes = int(row["votes"].replace(",", ""))
-			except Exception as e:
-				print("ERROR: Could not convert this to an integer: '%s'" % row["votes"])
-				print("ERROR: %s" % repr(row))
-				continue
-
-			if rowGroup == currentGroup:
-				if not args.includeOverUnder and row["candidate"] in ("Under Votes", "Over Votes", "Total Votes Cast"):
-					continue
-				elif row[totalColumn] == "Total":
-					if voteTotal != votes:
-						print("ERROR: %d != %s" % (voteTotal, row["votes"]))
-						print("ERROR: %s" % repr(row))
-					if args.verbose:
-						print("====")
-						print(row)
-				else:
-					voteTotal += votes
-
-					if args.verbose:
-						print("====")
-						print("total=%d" % voteTotal)
-						print(row)
-			else:
-				currentGroup = rowGroup
-				voteTotal = votes # reset the vote total
-
-				if args.verbose:
-					print("====")
-					print("total=%d" % voteTotal)
-					print(row)
+				if file_total != actual_total:
+					lineNo = index + 2 # 1 for header, 1 for zero-indexing
+					print("ERROR: {} total incorrect, line {}. {} != {}".format(
+						"precinct" if totalColumn == "candidate" else "candidate",
+						lineNo, file_total, actual_total))
+					print(row.to_dict())
 
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify votes are correct using a simple checksum')
