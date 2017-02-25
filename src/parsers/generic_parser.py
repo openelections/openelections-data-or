@@ -30,9 +30,11 @@ import re
 
 office_lookup = {
 	'PRESIDENT': 'President',
+	'U S SENATOR': 'U.S. Senate',
 	'SENATOR': 'U.S. Senate',
 	'HOUSE': 'U.S. House',
 	'REPRESENTATIVE': 'U.S. House',
+	'REP IN CONGRESS': 'U.S. House',
 	'SECRETARY OF STATE': 'Secretary of State',
 	'STATE TREASURER': 'State Treasurer',
 	'ATTORNEY GENERAL': 'Attorney General',
@@ -51,57 +53,11 @@ headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'vo
 
 
 def main():
-	csvLines = []
-
 	args = parseArguments()
+	parser = GenericParser(args.path, args.date, args.county, args.isGeneral)
 
-	with open(args.path, 'r') as csvfile:
-		reader = csv.reader(csvfile, delimiter=',', quotechar='"')
-		header = []
-		office = ""
-		district = ""
-		party = ""
-		for row in reader:
-			if row[0]:
-				if args.isGeneral:
-					office, district = parseOfficeDistrict(row[0])
-				else:
-					office, district, party = parseOfficeDistrictParty(row[0])
-
-				header = row
-
-			elif row[1] == 'TOTAL':
-				for index, votes in reversed(list(enumerate(row))):
-					if index > 1 and row[index]:
-						if header[index] not in ['Voters', 'Trnout', 'Pct', '']:
-							precinct = 'Total'
-							normalizedOffice = normalizeOffice(office)
-							candidate = header[index]
-
-							if args.isGeneral:
-								candidate, party = parseParty(candidate)
-
-							csvLines.append([args.county, precinct, normalizedOffice, district, party, candidate, votes])
-
-			else:
-				for index, votes in reversed(list(enumerate(row))):
-					if index > 1 and row[index]:
-						if header[index] not in ['Voters', 'Pct', '']:
-							normalizedOffice = normalizeOffice(office)
-							precinct = row[1]
-							candidate = "Total" if header[index] == "Trnout" else header[index]
-
-							if args.isGeneral:
-								candidate, party = parseParty(candidate)
-
-							csvLines.append([args.county, precinct, normalizedOffice, district, party, normalizeName(candidate), votes])
-
-	with open(outfileName(args.date, args.county, args.isGeneral), 'w') as csvfile:
-		w = csv.writer(csvfile)
-		w.writerow(headers)
-
-		for row in csvLines:
-			w.writerow(row)
+	parser.flipCandidateNames = args.flipCandidateNames
+	parser.parse()
 
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Turn a generic csv into an OE-formatted csv')
@@ -113,86 +69,154 @@ def parseArguments():
 	# If multiple arguments are passed, the last one wins.
 	parser.add_argument('--primary', action='store_false', dest='isGeneral', help='Process the file as a primary (parties per office).')
 	parser.add_argument('--general', action='store_true', dest='isGeneral', help='Process the file as a general (parties per candidate). This is the default.')
+	parser.add_argument('--flipCandidateNames', action='store_true', dest='flipCandidateNames', help='Turn "Last, First" into more standard "First Last".')
 
 	return parser.parse_args()
 
-def parseOfficeDistrict(text):
-	party = ""
-	district = ""
-	office = text.strip().upper()
 
-	districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DIST(RICT)?")
-	districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
+class GenericParser(object):
+	def __init__(self, path, date, county, isGeneral):
+		self.path = path
+		self.date = date
+		self.county = county
+		self.isGeneral = isGeneral
+		self.csvLines = []
 
-	m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
+	def parse(self):
+		with open(self.path, 'r') as csvfile:
+			reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+			header = []
+			office = ""
+			district = ""
+			party = ""
+			for row in reader:
+				if row[0]:
+					if self.isGeneral:
+						office, district = self.parseOfficeDistrict(row[0])
+					else:
+						office, district, party = self.parseOfficeDistrictParty(row[0])
 
-	if m:
-		district = m.group(1)
-		office = office.replace(m.group(0), "") # Remove district from office
+					header = row
 
-	return (office, district)
+				elif row[1] == 'TOTAL':
+					for index, votes in reversed(list(enumerate(row))):
+						if index > 1 and row[index]:
+							if header[index] not in ['Voters', 'Trnout', 'Pct', '']:
+								precinct = 'Total'
+								normalizedOffice = self.normalizeOffice(office)
+								candidate = header[index]
 
-def parseParty(text):
-	party = ''
+								if self.isGeneral:
+									candidate, party = self.parseParty(candidate)
 
-	m = partyPostfixRE.search(text)
+								self.csvLines.append([self.county, precinct, normalizedOffice, district, party, self.normalizeName(candidate), votes])
 
-	if m:
-		party = m.group(1)
-		text = text.replace(m.group(0), "") # Remove party from text
+				else:
+					for index, votes in reversed(list(enumerate(row))):
+						if index > 1 and row[index]:
+							if header[index] not in ['Voters', 'Pct', '']:
+								normalizedOffice = self.normalizeOffice(office)
+								precinct = row[1]
+								candidate = "Total" if header[index] == "Trnout" else header[index]
 
-	return (text, party)
+								if self.isGeneral:
+									candidate, party = parseParty(candidate)
 
-def parseOfficeDistrictParty(text):
-	party = ""
-	district = ""
-	office = text.strip().upper()
+								self.csvLines.append([self.county, precinct, normalizedOffice, district, party, self.normalizeName(candidate), votes])
 
-	districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DIST(RICT)?")
-	districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
+		with open(self.outfileName(), 'w') as csvfile:
+			w = csv.writer(csvfile)
+			w.writerow(headers)
 
-	m = partyPostfixRE.search(office)
+			for row in self.csvLines:
+				w.writerow(row)
 
-	if m:
-		party = m.group(1)
-		office = office.replace(m.group(0), "") # Remove party from text
 
-	m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
+	def parseOfficeDistrict(self, text):
+		party = ""
+		district = ""
+		office = text.strip().upper()
 
-	if m:
-		district = m.group(1)
-		office = office.replace(m.group(0), "") # Remove district from office
+		districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DIST(RICT)?")
+		districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
 
-	return (office, district, party)
+		m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
 
-def normalizeOffice(office):
-	try:
-		outOffice = office_lookup[office.upper()] # Normalise the office
-	except KeyError as e:
-		print("Can't find the office '{}'. Did you forget to pass --primary?".format(office))
-		sys.exit(1)
+		if m:
+			district = m.group(1)
+			office = office.replace(m.group(0), "") # Remove district from office
 
-	return outOffice
+		return (office, district)
 
-def normalizeName(name):
-	name = name.title()
+	def parseParty(self, text):
+		party = ''
 
-	mistakes = OrderedDict()
-	mistakes['Write-Ins'] = 'Write-ins'
-	mistakes['Iii'] = 'III'
-	mistakes['Ii'] = 'Ii'
-	mistakes['Defazio'] = 'DeFazio'
+		m = partyPostfixRE.search(text)
 
-	for mistake, correction in mistakes.items():
-		if mistake in name:
-			name = name.replace(mistake, correction)
+		if m:
+			party = m.group(1)
+			text = text.replace(m.group(0), "") # Remove party from text
 
-	return name
+		return (text, party)
 
-def outfileName(date, county, isGeneral):
-	primaryOrGeneral = "general" if isGeneral else "primary"
-	name = outfileFormat.format(date, primaryOrGeneral, county.lower())
-	return name
+	def parseOfficeDistrictParty(self, text):
+		party = ""
+		district = ""
+		office = text.strip().upper()
+
+		districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DIST(RICT)?")
+		districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
+
+		m = partyPostfixRE.search(office)
+
+		if m:
+			party = m.group(1)
+			office = office.replace(m.group(0), "") # Remove party from text
+
+		m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
+
+		if m:
+			district = m.group(1)
+			office = office.replace(m.group(0), "") # Remove district from office
+
+		return (office, district, party)
+
+	def normalizeOffice(self, office):
+		try:
+			outOffice = office_lookup[office.upper()] # Normalise the office
+		except KeyError as e:
+			print("Can't find the office '{}'. Did you forget to pass --primary?".format(office))
+			sys.exit(1)
+
+		return outOffice
+
+	def normalizeName(self, name):
+		name = name.title()
+
+		mistakes = OrderedDict()
+		mistakes['Write-Ins'] = 'Write-ins'
+		mistakes['Iii'] = 'III'
+		mistakes['Ii'] = 'Ii'
+		mistakes['Defazio'] = 'DeFazio'
+		mistakes['Undervotes'] = 'Under Votes'
+		mistakes['Overvotes'] = 'Over Votes'
+
+		for mistake, correction in mistakes.items():
+			if mistake in name:
+				name = name.replace(mistake, correction)
+
+		if self.flipCandidateNames:
+			if "," in name:
+				components = name.split(",")
+				components[0], components[1] = components[1], components[0] # Swap first two
+				name = " ".join(components).strip()
+
+		return name
+
+	def outfileName(self):
+		primaryOrGeneral = "general" if self.isGeneral else "primary"
+		name = outfileFormat.format(self.date, primaryOrGeneral, self.county.lower())
+		return name
 
 
 
