@@ -30,9 +30,10 @@ import re
 
 office_lookup = {
 	'PRESIDENT': 'President',
-	'U S SENATOR': 'U.S. Senate',
+	'US SENATOR': 'U.S. Senate',
 	'SENATOR': 'U.S. Senate',
 	'HOUSE': 'U.S. House',
+	'US REP': 'U.S. House',
 	'REPRESENTATIVE': 'U.S. House',
 	'REP IN CONGRESS': 'U.S. House',
 	'SECRETARY OF STATE': 'Secretary of State',
@@ -199,6 +200,7 @@ class GenericParser(object):
 		mistakes['Iii'] = 'III'
 		mistakes['Ii'] = 'Ii'
 		mistakes['Defazio'] = 'DeFazio'
+		mistakes['Mclane'] = 'McLane'
 		mistakes['Undervotes'] = 'Under Votes'
 		mistakes['Overvotes'] = 'Over Votes'
 
