@@ -34,11 +34,16 @@ def main():
 	checker = TotalChecker(args.path, args.excludeOverUnder)
 	checker.singleError = args.singleError
 
+	sortColumns = ['office', 'district']
+
+	if not args.isGeneral:
+		sortColumns += ['party']
+
 	# Candidate total
-	checkedCandidateTotals = checker.checkTotals('precinct', ['office', 'district', 'candidate', 'party'])
+	checkedCandidateTotals = checker.checkTotals('precinct', sortColumns + ['candidate'])
 
 	# Precinct total
-	checkedPrecinctTotals = checker.checkTotals('candidate', ['office', 'district', 'precinct', 'party'])
+	checkedPrecinctTotals = checker.checkTotals('candidate', sortColumns + ['precinct'])
 
 	if not checkedCandidateTotals and not checkedPrecinctTotals:
 		print("No totals to check")
@@ -100,6 +105,11 @@ def parseArguments():
 	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
 	parser.add_argument('path', type=str, help='path to a CSV file')
 	parser.set_defaults(verbose=False)
+
+	# By default, the script will assume the file is a general, --general doesn't have to be specified (but can be).
+	# If multiple arguments are passed, the last one wins.
+	parser.add_argument('--primary', action='store_false', dest='isGeneral', help='Process the file as a primary (parties per office).')
+	parser.add_argument('--general', action='store_true', dest='isGeneral', help='Process the file as a general (parties per candidate). This is the default.')
 
 	return parser.parse_args()
 
