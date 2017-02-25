@@ -31,7 +31,7 @@ import pandas
 def main():
 	args = parseArguments()
 
-	checker = TotalChecker(args.path)
+	checker = TotalChecker(args.path, args.excludeOverUnder)
 	checker.singleError = args.singleError
 
 	# Candidate total
@@ -45,9 +45,10 @@ def main():
 
 
 class TotalChecker(object):
-	def __init__(self, path):
+	def __init__(self, path, excludeOverUnder):
 		self.path = path
 		self.singleError = False
+		self.excludeOverUnder = excludeOverUnder
 
 		print("==> {}".format(os.path.basename(path)))
 
@@ -58,7 +59,12 @@ class TotalChecker(object):
 		self.results[['votes']] = self.results[['votes']].apply(pandas.to_numeric)
 		self.results['precinct'] = self.results['precinct'].astype(str)
 
-		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results.precinct != 'Total')]	
+		if self.excludeOverUnder:
+			self.results = self.results[(self.results.candidate != 'Over Votes') & 
+										(self.results.candidate != 'Under Votes')]
+
+		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results.precinct != 'Total')]
+
 
 	def checkTotals(self, totalColumn, columns):
 		contests = self.results.drop_duplicates(columns)[columns].values
@@ -90,7 +96,7 @@ class TotalChecker(object):
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify votes are correct using a simple checksum')
 	parser.add_argument('--verbose', '-v', dest='verbose', action='store_true')
-	parser.add_argument('--excludeOverUnder', dest='includeOverUnder', action='store_false')
+	parser.add_argument('--excludeOverUnder', dest='excludeOverUnder', action='store_true')
 	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
 	parser.add_argument('path', type=str, help='path to a CSV file')
 	parser.set_defaults(verbose=False)

@@ -40,6 +40,7 @@ office_lookup = {
 	'ATTORNEY GENERAL': 'Attorney General',
 	'GOVERNOR': 'Governor',
 	'STATE HOUSE': 'State House',
+	'STATE REP': 'State House',
 	'STATE REPRESENTATIVE': 'State House',
 	'STATE SENATOR': 'State Senate'
 }
