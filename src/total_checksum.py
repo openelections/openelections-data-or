@@ -32,17 +32,22 @@ def main():
 	args = parseArguments()
 
 	checker = TotalChecker(args.path)
+	checker.singleError = args.singleError
 
 	# Candidate total
-	checker.checkTotals('precinct', ['office', 'district', 'candidate', 'party'])
+	checkedCandidateTotals = checker.checkTotals('precinct', ['office', 'district', 'candidate', 'party'])
 
 	# Precinct total
-	checker.checkTotals('candidate', ['office', 'district', 'precinct', 'party'])
+	checkedPrecinctTotals = checker.checkTotals('candidate', ['office', 'district', 'precinct', 'party'])
+
+	if not checkedCandidateTotals and not checkedPrecinctTotals:
+		print("No totals to check")
 
 
 class TotalChecker(object):
 	def __init__(self, path):
 		self.path = path
+		self.singleError = False
 
 		print("==> {}".format(os.path.basename(path)))
 
@@ -51,6 +56,7 @@ class TotalChecker(object):
 	def populateResults(self):
 		self.results = pandas.read_csv(self.path).fillna('')
 		self.results[['votes']] = self.results[['votes']].apply(pandas.to_numeric)
+		self.results['precinct'] = self.results['precinct'].astype(str)
 
 		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results.precinct != 'Total')]	
 
@@ -74,10 +80,18 @@ class TotalChecker(object):
 						lineNo, file_total, actual_total))
 					print(row.to_dict())
 
+					if self.singleError:
+						break
+
+			return True
+
+		return False
+
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify votes are correct using a simple checksum')
 	parser.add_argument('--verbose', '-v', dest='verbose', action='store_true')
 	parser.add_argument('--excludeOverUnder', dest='includeOverUnder', action='store_false')
+	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
 	parser.add_argument('path', type=str, help='path to a CSV file')
 	parser.set_defaults(verbose=False)
 
