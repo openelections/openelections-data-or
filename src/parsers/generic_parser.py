@@ -49,7 +49,7 @@ office_lookup = {
 
 # Configure variables
 outfileFormat = '{}__or__{}__{}__precinct.csv'
-partyPostfixRE = re.compile(" \((DEM|REP|LIB|LBT|PRO|CON|REF|PAC|IND|SOC|WFP)\)$")
+partyPostfixRE = re.compile(" \((DEM|REP|LIB|LBT|PRO|CON|REF|PAC|IND|SOC|WFP|WRK|PGP|PCE)\)$")
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
@@ -193,6 +193,9 @@ class GenericParser(object):
 		return outOffice
 
 	def normalizeName(self, name):
+		abbreviations = {'WI': 'Write-ins', 'OV': 'Over Votes', 'UV': 'Under Votes'}
+		name = abbreviations.get(name, name)
+
 		name = name.title()
 
 		mistakes = OrderedDict()
