@@ -127,7 +127,7 @@ class GenericParser(object):
 								self.csvLines.append([self.county, precinct, normalizedOffice, district, party, self.normalizeName(candidate), votes])
 
 		with open(self.outfileName(), 'w') as csvfile:
-			w = csv.writer(csvfile)
+			w = csv.writer(csvfile, lineterminator='\n')
 			w.writerow(headers)
 
 			for row in self.csvLines:
