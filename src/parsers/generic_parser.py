@@ -35,6 +35,7 @@ office_lookup = {
 	'HOUSE': 'U.S. House',
 	'US REP': 'U.S. House',
 	'REPRESENTATIVE': 'U.S. House',
+	'REPRESENTATIVE IN CONGRESS': 'U.S. House',
 	'REP IN CONGRESS': 'U.S. House',
 	'SECRETARY OF STATE': 'Secretary of State',
 	'STATE TREASURER': 'State Treasurer',
