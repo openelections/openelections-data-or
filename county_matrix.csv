@@ -1,7 +1,7 @@
 county,precinct count,2000 primary,2000 general,2002 primary,2002 general,2004 primary,2004 general,2006 primary,2006 general,2008 primary,2008 general,2010 primary,2010 general,2012 primary,2012 general,2014 primary,2014 general,2016 primary,2016 general
 Baker,17,n/a,n/a,n/a,n/a,done,done,done,done,done,done,done,done,done,done,done,done,done,done
 Benton,24,done,done,done,done,done,done,done,done,done,done,done,done,done,done,done,done,done,done
-Clackamas,119,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,done,done,done,done,done,done,done,done,done,done
+Clackamas,119,,,,,,,n/a,,done,done,done,done,done,done,done,done,done,done
 Clatsop,33,,,,,,,,done,done,done,done,done,done,done,done,done,done,done
 Columbia,33,n/a,n/a,n/a,n/a,,,done,done,done,done,done,done,done,done,done,done,done,done
 Coos,18,,,,,,,,,done,done,done,done,done,done,done,done,done,done
@@ -35,3 +35,4 @@ Wasco,14,done,done,done,done,done,done,done,done,done,done,done,done,done,done,d
 Washington,144,done,done,done,done,done,done,done,done,done,done,done,done,done,done,done,done,done,done
 Wheeler,3,n/a,n/a,n/a,n/a,done,done,done,done,done,done,done,done,done,done,done,done,done,done
 Yamhill,21,n/a,n/a,n/a,n/a,,,n/a,,n/a,done,done,done,done,done,done,done,done,done
+
