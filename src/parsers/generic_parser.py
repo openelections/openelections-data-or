@@ -44,20 +44,21 @@ office_lookup = {
 	'STATE HOUSE': 'State House',
 	'STATE REP': 'State House',
 	'STATE REPRESENTATIVE': 'State House',
-	'STATE SENATOR': 'State Senate'
+	'STATE SENATOR': 'State Senate',
+	'MEMBER OF ASSEMBLY': 'State Assembly',
 }
 
 
 # Configure variables
-outfileFormat = '{}__or__{}__{}__precinct.csv'
-partyPostfixRE = re.compile(" \((DEM|REP|LIB|LBT|PRO|CON|REF|PAC|IND|SOC|WFP|WRK|PGP|PCE)\)$")
+outfileFormat = '{}__{}__{}__{}__precinct.csv'
+partyPostfixRE = re.compile(" \(([A-Z]{3})\)$")
 
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
 
 def main():
 	args = parseArguments()
-	parser = GenericParser(args.path, args.date, args.county, args.isGeneral)
+	parser = GenericParser(args.path, args.date, args.state, args.county, args.isGeneral)
 
 	parser.flipCandidateNames = args.flipCandidateNames
 	parser.parse()
@@ -65,6 +66,7 @@ def main():
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Turn a generic csv into an OE-formatted csv')
 	parser.add_argument('date', type=str, help='Date of the election. Used in the generated filename.')
+	parser.add_argument('state', type=str, help='Two-letter state code of the election. Used in the generated filename.')
 	parser.add_argument('county', type=str, help='County of the election. Used in the generated filename.')
 	parser.add_argument('path', type=str, help='Path to an generically-formatted CSV file.')
 
@@ -78,9 +80,10 @@ def parseArguments():
 
 
 class GenericParser(object):
-	def __init__(self, path, date, county, isGeneral):
+	def __init__(self, path, date, state, county, isGeneral):
 		self.path = path
 		self.date = date
+		self.state = state
 		self.county = county
 		self.isGeneral = isGeneral
 		self.csvLines = []
@@ -140,8 +143,8 @@ class GenericParser(object):
 		district = ""
 		office = text.strip().upper()
 
-		districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DIST(RICT)?")
-		districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
+		districtPrefixType1RE = re.compile(",? (\d+)\w\w DIST(RICT)?")
+		districtPrefixType2RE = re.compile(" DIST\.? (\d+)")
 
 		m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
 
@@ -167,8 +170,8 @@ class GenericParser(object):
 		district = ""
 		office = text.strip().upper()
 
-		districtPrefixType1RE = re.compile(",? (\d\d?)\w\w DIST(RICT)?")
-		districtPrefixType2RE = re.compile(" DIST\.? (\d\d?)")
+		districtPrefixType1RE = re.compile(",? (\d+)\w\w DIST(RICT)?")
+		districtPrefixType2RE = re.compile(" DIST\.? (\d+)")
 
 		m = partyPostfixRE.search(office)
 
@@ -194,8 +197,10 @@ class GenericParser(object):
 		return outOffice
 
 	def normalizeName(self, name):
-		abbreviations = {'WI': 'Write-ins', 'OV': 'Over Votes', 'UV': 'Under Votes'}
-		name = abbreviations.get(name, name)
+		abbreviations = {'WI': 'Write-ins', 'OV': 'Over Votes', 'UV': 'Under Votes', 'BVS': 'BVS'}
+
+		if name in abbreviations:
+			return abbreviations[name]
 
 		name = name.title()
 
@@ -222,7 +227,7 @@ class GenericParser(object):
 
 	def outfileName(self):
 		primaryOrGeneral = "general" if self.isGeneral else "primary"
-		name = outfileFormat.format(self.date, primaryOrGeneral, self.county.lower())
+		name = outfileFormat.format(self.date, self.state.lower(), primaryOrGeneral, self.county.lower())
 		return name
 
 
