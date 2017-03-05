@@ -31,22 +31,23 @@ import pandas
 def main():
 	args = parseArguments()
 
-	checker = TotalChecker(args.path, args.excludeOverUnder)
-	checker.singleError = args.singleError
+	for path in args.paths:
+		checker = TotalChecker(path, args.excludeOverUnder)
+		checker.singleError = args.singleError
 
-	sortColumns = ['office', 'district']
+		sortColumns = ['office', 'district']
 
-	if not args.isGeneral:
-		sortColumns += ['party']
+		if not args.isGeneral:
+			sortColumns += ['party']
 
-	# Candidate total
-	checkedCandidateTotals = checker.checkTotals('precinct', sortColumns + ['candidate'])
+		# Candidate total
+		checkedCandidateTotals = checker.checkTotals('precinct', sortColumns + ['candidate'])
 
-	# Precinct total
-	checkedPrecinctTotals = checker.checkTotals('candidate', sortColumns + ['precinct'])
+		# Precinct total
+		checkedPrecinctTotals = checker.checkTotals('candidate', sortColumns + ['precinct'])
 
-	if not checkedCandidateTotals and not checkedPrecinctTotals:
-		print("No totals to check")
+		if not checkedCandidateTotals and not checkedPrecinctTotals:
+			print("No totals to check")
 
 
 class TotalChecker(object):
@@ -103,7 +104,7 @@ def parseArguments():
 	parser.add_argument('--verbose', '-v', dest='verbose', action='store_true')
 	parser.add_argument('--excludeOverUnder', dest='excludeOverUnder', action='store_true')
 	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
-	parser.add_argument('path', type=str, help='path to a CSV file')
+	parser.add_argument('paths', metavar='path', type=str, nargs='+', help='path to a CSV file')
 	parser.set_defaults(verbose=False)
 
 	# By default, the script will assume the file is a general, --general doesn't have to be specified (but can be).
