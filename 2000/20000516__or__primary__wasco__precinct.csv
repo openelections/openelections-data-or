@@ -1,4 +1,5 @@
 county,precinct,office,district,party,candidate,votes
+Wasco,Total,President,,DEM,"LAROUCHE JR, LYNDON H",399
 Wasco,19,President,,DEM,"LAROUCHE JR, LYNDON H",23
 Wasco,20,President,,DEM,"LAROUCHE JR, LYNDON H",25
 Wasco,21,President,,DEM,"LAROUCHE JR, LYNDON H",9
@@ -22,6 +23,7 @@ Wasco,86,President,,DEM,"LAROUCHE JR, LYNDON H",22
 Wasco,87,President,,DEM,"LAROUCHE JR, LYNDON H",15
 Wasco,88,President,,DEM,"LAROUCHE JR, LYNDON H",26
 Wasco,89,President,,DEM,"LAROUCHE JR, LYNDON H",14
+Wasco,Total,President,,DEM,"GORE, AL",2581
 Wasco,19,President,,DEM,"GORE, AL",130
 Wasco,20,President,,DEM,"GORE, AL",146
 Wasco,21,President,,DEM,"GORE, AL",69
@@ -45,6 +47,7 @@ Wasco,86,President,,DEM,"GORE, AL",179
 Wasco,87,President,,DEM,"GORE, AL",167
 Wasco,88,President,,DEM,"GORE, AL",201
 Wasco,89,President,,DEM,"GORE, AL",81
+Wasco,Total,President,,REP,"BUSH, GEORGE W",2324
 Wasco,19,President,,REP,"BUSH, GEORGE W",56
 Wasco,20,President,,REP,"BUSH, GEORGE W",134
 Wasco,21,President,,REP,"BUSH, GEORGE W",103
@@ -68,6 +71,7 @@ Wasco,86,President,,REP,"BUSH, GEORGE W",134
 Wasco,87,President,,REP,"BUSH, GEORGE W",177
 Wasco,88,President,,REP,"BUSH, GEORGE W",157
 Wasco,89,President,,REP,"BUSH, GEORGE W",120
+Wasco,Total,President,,REP,"KEYES, ALAN",342
 Wasco,19,President,,REP,"KEYES, ALAN",9
 Wasco,20,President,,REP,"KEYES, ALAN",19
 Wasco,21,President,,REP,"KEYES, ALAN",13
@@ -91,6 +95,7 @@ Wasco,86,President,,REP,"KEYES, ALAN",21
 Wasco,87,President,,REP,"KEYES, ALAN",20
 Wasco,88,President,,REP,"KEYES, ALAN",39
 Wasco,89,President,,REP,"KEYES, ALAN",10
+Wasco,Total,President,,REP,Under Votes,587
 Wasco,19,President,,REP,Under Votes,20
 Wasco,20,President,,REP,Under Votes,38
 Wasco,21,President,,REP,Under Votes,26
@@ -114,6 +119,7 @@ Wasco,86,President,,REP,Under Votes,32
 Wasco,87,President,,REP,Under Votes,29
 Wasco,88,President,,REP,Under Votes,39
 Wasco,89,President,,REP,Under Votes,24
+Wasco,Total,President,,REP,Over Votes,2
 Wasco,19,President,,REP,Over Votes,0
 Wasco,20,President,,REP,Over Votes,0
 Wasco,21,President,,REP,Over Votes,0
@@ -137,6 +143,7 @@ Wasco,86,President,,REP,Over Votes,0
 Wasco,87,President,,REP,Over Votes,0
 Wasco,88,President,,REP,Over Votes,0
 Wasco,89,President,,REP,Over Votes,1
+Wasco,Total,U.S. House,2,DEM,"PONSFORD, WALTER",2192
 Wasco,19,U.S. House,2,DEM,"PONSFORD, WALTER",118
 Wasco,20,U.S. House,2,DEM,"PONSFORD, WALTER",130
 Wasco,21,U.S. House,2,DEM,"PONSFORD, WALTER",57
@@ -160,6 +167,7 @@ Wasco,86,U.S. House,2,DEM,"PONSFORD, WALTER",150
 Wasco,87,U.S. House,2,DEM,"PONSFORD, WALTER",124
 Wasco,88,U.S. House,2,DEM,"PONSFORD, WALTER",152
 Wasco,89,U.S. House,2,DEM,"PONSFORD, WALTER",69
+Wasco,Total,U.S. House,2,REP,"WALDEN, GREG",2759
 Wasco,19,U.S. House,2,REP,"WALDEN, GREG",63
 Wasco,20,U.S. House,2,REP,"WALDEN, GREG",152
 Wasco,21,U.S. House,2,REP,"WALDEN, GREG",119
@@ -183,6 +191,7 @@ Wasco,86,U.S. House,2,REP,"WALDEN, GREG",148
 Wasco,87,U.S. House,2,REP,"WALDEN, GREG",200
 Wasco,88,U.S. House,2,REP,"WALDEN, GREG",192
 Wasco,89,U.S. House,2,REP,"WALDEN, GREG",128
+Wasco,Total,U.S. House,2,REP,Under Votes,1662
 Wasco,19,U.S. House,2,REP,Under Votes,58
 Wasco,20,U.S. House,2,REP,Under Votes,93
 Wasco,21,U.S. House,2,REP,Under Votes,55
@@ -206,6 +215,7 @@ Wasco,86,U.S. House,2,REP,Under Votes,106
 Wasco,87,U.S. House,2,REP,Under Votes,105
 Wasco,88,U.S. House,2,REP,Under Votes,136
 Wasco,89,U.S. House,2,REP,Under Votes,62
+Wasco,Total,U.S. House,2,REP,Over Votes,1
 Wasco,19,U.S. House,2,REP,Over Votes,0
 Wasco,20,U.S. House,2,REP,Over Votes,0
 Wasco,21,U.S. House,2,REP,Over Votes,0
@@ -229,6 +239,7 @@ Wasco,86,U.S. House,2,REP,Over Votes,0
 Wasco,87,U.S. House,2,REP,Over Votes,0
 Wasco,88,U.S. House,2,REP,Over Votes,0
 Wasco,89,U.S. House,2,REP,Over Votes,0
+Wasco,Total,Secretary of State,,DEM,"BRADBURY, BILL",2519
 Wasco,19,Secretary of State,,DEM,"BRADBURY, BILL",135
 Wasco,20,Secretary of State,,DEM,"BRADBURY, BILL",153
 Wasco,21,Secretary of State,,DEM,"BRADBURY, BILL",71
@@ -252,6 +263,7 @@ Wasco,86,Secretary of State,,DEM,"BRADBURY, BILL",163
 Wasco,87,Secretary of State,,DEM,"BRADBURY, BILL",149
 Wasco,88,Secretary of State,,DEM,"BRADBURY, BILL",169
 Wasco,89,Secretary of State,,DEM,"BRADBURY, BILL",86
+Wasco,Total,Secretary of State,,REP,"LUNDQUIST, LYNN",1500
 Wasco,19,Secretary of State,,REP,"LUNDQUIST, LYNN",23
 Wasco,20,Secretary of State,,REP,"LUNDQUIST, LYNN",73
 Wasco,21,Secretary of State,,REP,"LUNDQUIST, LYNN",81
@@ -275,6 +287,7 @@ Wasco,86,Secretary of State,,REP,"LUNDQUIST, LYNN",74
 Wasco,87,Secretary of State,,REP,"LUNDQUIST, LYNN",117
 Wasco,88,Secretary of State,,REP,"LUNDQUIST, LYNN",95
 Wasco,89,Secretary of State,,REP,"LUNDQUIST, LYNN",67
+Wasco,Total,Secretary of State,,REP,"DAMIAN WELLS, PAUL",168
 Wasco,19,Secretary of State,,REP,"DAMIAN WELLS, PAUL",4
 Wasco,20,Secretary of State,,REP,"DAMIAN WELLS, PAUL",7
 Wasco,21,Secretary of State,,REP,"DAMIAN WELLS, PAUL",3
@@ -298,6 +311,7 @@ Wasco,86,Secretary of State,,REP,"DAMIAN WELLS, PAUL",9
 Wasco,87,Secretary of State,,REP,"DAMIAN WELLS, PAUL",15
 Wasco,88,Secretary of State,,REP,"DAMIAN WELLS, PAUL",12
 Wasco,89,Secretary of State,,REP,"DAMIAN WELLS, PAUL",8
+Wasco,Total,Secretary of State,,REP,"SNODGRASS, LYNN",1139
 Wasco,19,Secretary of State,,REP,"SNODGRASS, LYNN",40
 Wasco,20,Secretary of State,,REP,"SNODGRASS, LYNN",77
 Wasco,21,Secretary of State,,REP,"SNODGRASS, LYNN",35
@@ -321,6 +335,7 @@ Wasco,86,Secretary of State,,REP,"SNODGRASS, LYNN",67
 Wasco,87,Secretary of State,,REP,"SNODGRASS, LYNN",65
 Wasco,88,Secretary of State,,REP,"SNODGRASS, LYNN",88
 Wasco,89,Secretary of State,,REP,"SNODGRASS, LYNN",48
+Wasco,Total,Secretary of State,,REP,Under Votes,1349
 Wasco,19,Secretary of State,,REP,Under Votes,41
 Wasco,20,Secretary of State,,REP,Under Votes,67
 Wasco,21,Secretary of State,,REP,Under Votes,41
@@ -344,6 +359,7 @@ Wasco,86,Secretary of State,,REP,Under Votes,92
 Wasco,87,Secretary of State,,REP,Under Votes,84
 Wasco,88,Secretary of State,,REP,Under Votes,120
 Wasco,89,Secretary of State,,REP,Under Votes,49
+Wasco,Total,Secretary of State,,REP,Over Votes,2
 Wasco,19,Secretary of State,,REP,Over Votes,0
 Wasco,20,Secretary of State,,REP,Over Votes,0
 Wasco,21,Secretary of State,,REP,Over Votes,1
@@ -367,6 +383,7 @@ Wasco,86,Secretary of State,,REP,Over Votes,0
 Wasco,87,Secretary of State,,REP,Over Votes,0
 Wasco,88,Secretary of State,,REP,Over Votes,0
 Wasco,89,Secretary of State,,REP,Over Votes,0
+Wasco,Total,State Treasurer,,DEM,"EDWARDS, RANDALL",1244
 Wasco,19,State Treasurer,,DEM,"EDWARDS, RANDALL",55
 Wasco,20,State Treasurer,,DEM,"EDWARDS, RANDALL",66
 Wasco,21,State Treasurer,,DEM,"EDWARDS, RANDALL",37
@@ -390,6 +407,7 @@ Wasco,86,State Treasurer,,DEM,"EDWARDS, RANDALL",86
 Wasco,87,State Treasurer,,DEM,"EDWARDS, RANDALL",72
 Wasco,88,State Treasurer,,DEM,"EDWARDS, RANDALL",77
 Wasco,89,State Treasurer,,DEM,"EDWARDS, RANDALL",47
+Wasco,Total,State Treasurer,,DEM,"BRUEBAKER, GARY",1496
 Wasco,19,State Treasurer,,DEM,"BRUEBAKER, GARY",85
 Wasco,20,State Treasurer,,DEM,"BRUEBAKER, GARY",88
 Wasco,21,State Treasurer,,DEM,"BRUEBAKER, GARY",40
@@ -413,6 +431,7 @@ Wasco,86,State Treasurer,,DEM,"BRUEBAKER, GARY",106
 Wasco,87,State Treasurer,,DEM,"BRUEBAKER, GARY",93
 Wasco,88,State Treasurer,,DEM,"BRUEBAKER, GARY",106
 Wasco,89,State Treasurer,,DEM,"BRUEBAKER, GARY",47
+Wasco,Total,State Treasurer,,REP,"KVISTAD, JON",2114
 Wasco,19,State Treasurer,,REP,"KVISTAD, JON",52
 Wasco,20,State Treasurer,,REP,"KVISTAD, JON",118
 Wasco,21,State Treasurer,,REP,"KVISTAD, JON",83
@@ -436,6 +455,7 @@ Wasco,86,State Treasurer,,REP,"KVISTAD, JON",116
 Wasco,87,State Treasurer,,REP,"KVISTAD, JON",156
 Wasco,88,State Treasurer,,REP,"KVISTAD, JON",135
 Wasco,89,State Treasurer,,REP,"KVISTAD, JON",100
+Wasco,Total,State Treasurer,,REP,Under Votes,1805
 Wasco,19,State Treasurer,,REP,Under Votes,51
 Wasco,20,State Treasurer,,REP,Under Votes,105
 Wasco,21,State Treasurer,,REP,Under Votes,74
@@ -459,6 +479,7 @@ Wasco,86,State Treasurer,,REP,Under Votes,98
 Wasco,87,State Treasurer,,REP,Under Votes,110
 Wasco,88,State Treasurer,,REP,Under Votes,166
 Wasco,89,State Treasurer,,REP,Under Votes,68
+Wasco,Total,State Treasurer,,REP,Over Votes,0
 Wasco,19,State Treasurer,,REP,Over Votes,0
 Wasco,20,State Treasurer,,REP,Over Votes,0
 Wasco,21,State Treasurer,,REP,Over Votes,0
@@ -482,6 +503,7 @@ Wasco,86,State Treasurer,,REP,Over Votes,0
 Wasco,87,State Treasurer,,REP,Over Votes,0
 Wasco,88,State Treasurer,,REP,Over Votes,0
 Wasco,89,State Treasurer,,REP,Over Votes,0
+Wasco,Total,Attorney General,,DEM,"MYERS, HARDY",2485
 Wasco,19,Attorney General,,DEM,"MYERS, HARDY",135
 Wasco,20,Attorney General,,DEM,"MYERS, HARDY",145
 Wasco,21,Attorney General,,DEM,"MYERS, HARDY",67
@@ -505,6 +527,7 @@ Wasco,86,Attorney General,,DEM,"MYERS, HARDY",158
 Wasco,87,Attorney General,,DEM,"MYERS, HARDY",146
 Wasco,88,Attorney General,,DEM,"MYERS, HARDY",168
 Wasco,89,Attorney General,,DEM,"MYERS, HARDY",82
+Wasco,Total,Attorney General,,REP,"MANNIX, KEVIN L",2098
 Wasco,19,Attorney General,,REP,"MANNIX, KEVIN L",53
 Wasco,20,Attorney General,,REP,"MANNIX, KEVIN L",122
 Wasco,21,Attorney General,,REP,"MANNIX, KEVIN L",82
@@ -528,6 +551,7 @@ Wasco,86,Attorney General,,REP,"MANNIX, KEVIN L",114
 Wasco,87,Attorney General,,REP,"MANNIX, KEVIN L",151
 Wasco,88,Attorney General,,REP,"MANNIX, KEVIN L",130
 Wasco,89,Attorney General,,REP,"MANNIX, KEVIN L",98
+Wasco,Total,Attorney General,,REP,Under Votes,2105
 Wasco,19,Attorney General,,REP,Under Votes,51
 Wasco,20,Attorney General,,REP,Under Votes,110
 Wasco,21,Attorney General,,REP,Under Votes,85
@@ -574,22 +598,27 @@ Wasco,86,Attorney General,,REP,Over Votes,0
 Wasco,87,Attorney General,,REP,Over Votes,0
 Wasco,88,Attorney General,,REP,Over Votes,0
 Wasco,89,Attorney General,,REP,Over Votes,0
+Wasco,Total,State Senate,27,DEM,"PHILIBEN, ANNE N",260
 Wasco,28,State Senate,27,DEM,"PHILIBEN, ANNE N",39
 Wasco,29,State Senate,27,DEM,"PHILIBEN, ANNE N",115
 Wasco,30,State Senate,27,DEM,"PHILIBEN, ANNE N",90
 Wasco,31,State Senate,27,DEM,"PHILIBEN, ANNE N",16
+Wasco,Total,State Senate,27,REP,"CLARNO, BEV",240
 Wasco,28,State Senate,27,REP,"CLARNO, BEV",29
 Wasco,29,State Senate,27,REP,"CLARNO, BEV",83
 Wasco,30,State Senate,27,REP,"CLARNO, BEV",102
 Wasco,31,State Senate,27,REP,"CLARNO, BEV",26
+Wasco,Total,State Senate,27,REP,Under Votes,195
 Wasco,28,State Senate,27,REP,Under Votes,31
 Wasco,29,State Senate,27,REP,Under Votes,85
 Wasco,30,State Senate,27,REP,Under Votes,70
 Wasco,31,State Senate,27,REP,Under Votes,9
+Wasco,Total,State Senate,27,REP,Over Votes,0
 Wasco,28,State Senate,27,REP,Over Votes,0
 Wasco,29,State Senate,27,REP,Over Votes,0
 Wasco,30,State Senate,27,REP,Over Votes,0
 Wasco,31,State Senate,27,REP,Over Votes,0
+Wasco,Total,State Senate,28,DEM,"COOK, VERN",2053
 Wasco,19,State Senate,28,DEM,"COOK, VERN",129
 Wasco,20,State Senate,28,DEM,"COOK, VERN",133
 Wasco,21,State Senate,28,DEM,"COOK, VERN",68
@@ -610,6 +639,7 @@ Wasco,86,State Senate,28,DEM,"COOK, VERN",153
 Wasco,87,State Senate,28,DEM,"COOK, VERN",135
 Wasco,88,State Senate,28,DEM,"COOK, VERN",157
 Wasco,89,State Senate,28,DEM,"COOK, VERN",79
+Wasco,Total,State Senate,28,REP,"FERRIOLI, TED",2045
 Wasco,19,State Senate,28,REP,"FERRIOLI, TED",57
 Wasco,20,State Senate,28,REP,"FERRIOLI, TED",127
 Wasco,21,State Senate,28,REP,"FERRIOLI, TED",87
@@ -630,6 +660,7 @@ Wasco,86,State Senate,28,REP,"FERRIOLI, TED",121
 Wasco,87,State Senate,28,REP,"FERRIOLI, TED",167
 Wasco,88,State Senate,28,REP,"FERRIOLI, TED",142
 Wasco,89,State Senate,28,REP,"FERRIOLI, TED",106
+Wasco,Total,State Senate,28,REP,Under Votes,1838
 Wasco,19,State Senate,28,REP,Under Votes,57
 Wasco,20,State Senate,28,REP,Under Votes,114
 Wasco,21,State Senate,28,REP,Under Votes,76
@@ -650,6 +681,7 @@ Wasco,86,State Senate,28,REP,Under Votes,131
 Wasco,87,State Senate,28,REP,Under Votes,128
 Wasco,88,State Senate,28,REP,Under Votes,184
 Wasco,89,State Senate,28,REP,Under Votes,75
+Wasco,Total,State Senate,28,REP,Over Votes,0
 Wasco,19,State Senate,28,REP,Over Votes,0
 Wasco,20,State Senate,28,REP,Over Votes,0
 Wasco,21,State Senate,28,REP,Over Votes,0
@@ -670,22 +702,27 @@ Wasco,86,State Senate,28,REP,Over Votes,0
 Wasco,87,State Senate,28,REP,Over Votes,0
 Wasco,88,State Senate,28,REP,Over Votes,0
 Wasco,89,State Senate,28,REP,Over Votes,0
+Wasco,Total,State House,55,DEM,"DUNLAP, DOUGLAS",255
 Wasco,28,State House,55,DEM,"DUNLAP, DOUGLAS",37
 Wasco,29,State House,55,DEM,"DUNLAP, DOUGLAS",114
 Wasco,30,State House,55,DEM,"DUNLAP, DOUGLAS",88
 Wasco,31,State House,55,DEM,"DUNLAP, DOUGLAS",16
+Wasco,Total,State House,55,REP,"WESTLUND, BEN",236
 Wasco,28,State House,55,REP,"WESTLUND, BEN",33
 Wasco,29,State House,55,REP,"WESTLUND, BEN",82
 Wasco,30,State House,55,REP,"WESTLUND, BEN",99
 Wasco,31,State House,55,REP,"WESTLUND, BEN",22
+Wasco,Total,State House,55,REP,Under Votes,205
 Wasco,28,State House,55,REP,Under Votes,29
 Wasco,29,State House,55,REP,Under Votes,89
 Wasco,30,State House,55,REP,Under Votes,73
 Wasco,31,State House,55,REP,Under Votes,14
+Wasco,Total,State House,55,REP,Over Votes,0
 Wasco,28,State House,55,REP,Over Votes,0
 Wasco,29,State House,55,REP,Over Votes,0
 Wasco,30,State House,55,REP,Over Votes,0
 Wasco,31,State House,55,REP,Over Votes,0
+Wasco,Total,State House,56,DEM,"ZASTROW, PAUL",1035
 Wasco,19,State House,56,DEM,"ZASTROW, PAUL",47
 Wasco,20,State House,56,DEM,"ZASTROW, PAUL",69
 Wasco,21,State House,56,DEM,"ZASTROW, PAUL",28
@@ -703,6 +740,7 @@ Wasco,86,State House,56,DEM,"ZASTROW, PAUL",61
 Wasco,87,State House,56,DEM,"ZASTROW, PAUL",85
 Wasco,88,State House,56,DEM,"ZASTROW, PAUL",93
 Wasco,89,State House,56,DEM,"ZASTROW, PAUL",38
+Wasco,Total,State House,56,DEM,"BELL, BILL",1607
 Wasco,19,State House,56,DEM,"BELL, BILL",109
 Wasco,20,State House,56,DEM,"BELL, BILL",110
 Wasco,21,State House,56,DEM,"BELL, BILL",61
@@ -720,6 +758,7 @@ Wasco,86,State House,56,DEM,"BELL, BILL",153
 Wasco,87,State House,56,DEM,"BELL, BILL",111
 Wasco,88,State House,56,DEM,"BELL, BILL",141
 Wasco,89,State House,56,DEM,"BELL, BILL",61
+Wasco,Total,State House,56,REP,"SMITH, PATTI",531
 Wasco,19,State House,56,REP,"SMITH, PATTI",21
 Wasco,20,State House,56,REP,"SMITH, PATTI",51
 Wasco,21,State House,56,REP,"SMITH, PATTI",38
@@ -737,6 +776,7 @@ Wasco,86,State House,56,REP,"SMITH, PATTI",43
 Wasco,87,State House,56,REP,"SMITH, PATTI",47
 Wasco,88,State House,56,REP,"SMITH, PATTI",59
 Wasco,89,State House,56,REP,"SMITH, PATTI",34
+Wasco,Total,State House,56,REP,"MCFADDEN, BOB",627
 Wasco,19,State House,56,REP,"MCFADDEN, BOB",25
 Wasco,20,State House,56,REP,"MCFADDEN, BOB",47
 Wasco,21,State House,56,REP,"MCFADDEN, BOB",44
@@ -754,6 +794,7 @@ Wasco,86,State House,56,REP,"MCFADDEN, BOB",59
 Wasco,87,State House,56,REP,"MCFADDEN, BOB",64
 Wasco,88,State House,56,REP,"MCFADDEN, BOB",60
 Wasco,89,State House,56,REP,"MCFADDEN, BOB",45
+Wasco,Total,State House,56,REP,"VAN VALKENBURGH, M D",851
 Wasco,19,State House,56,REP,"VAN VALKENBURGH, M D",22
 Wasco,20,State House,56,REP,"VAN VALKENBURGH, M D",65
 Wasco,21,State House,56,REP,"VAN VALKENBURGH, M D",41
@@ -771,6 +812,7 @@ Wasco,86,State House,56,REP,"VAN VALKENBURGH, M D",58
 Wasco,87,State House,56,REP,"VAN VALKENBURGH, M D",96
 Wasco,88,State House,56,REP,"VAN VALKENBURGH, M D",89
 Wasco,89,State House,56,REP,"VAN VALKENBURGH, M D",57
+Wasco,Total,State House,56,REP,Under Votes,403
 Wasco,19,State House,56,REP,Under Votes,17
 Wasco,20,State House,56,REP,Under Votes,30
 Wasco,21,State House,56,REP,Under Votes,20
@@ -788,6 +830,7 @@ Wasco,86,State House,56,REP,Under Votes,31
 Wasco,87,State House,56,REP,Under Votes,26
 Wasco,88,State House,56,REP,Under Votes,40
 Wasco,89,State House,56,REP,Under Votes,24
+Wasco,Total,State House,56,REP,Over Votes,2
 Wasco,19,State House,56,REP,Over Votes,0
 Wasco,20,State House,56,REP,Over Votes,0
 Wasco,21,State House,56,REP,Over Votes,0
@@ -805,15 +848,19 @@ Wasco,86,State House,56,REP,Over Votes,0
 Wasco,87,State House,56,REP,Over Votes,0
 Wasco,88,State House,56,REP,Over Votes,0
 Wasco,89,State House,56,REP,Over Votes,0
+Wasco,Total,State House,59,DEM,"HARRINGTON, LINDA",121
 Wasco,26,State House,59,DEM,"HARRINGTON, LINDA",26
 Wasco,27,State House,59,DEM,"HARRINGTON, LINDA",89
 Wasco,28,State House,59,DEM,"HARRINGTON, LINDA",6
+Wasco,Total,State House,59,REP,"SMITH, GREG",239
 Wasco,26,State House,59,REP,"SMITH, GREG",64
 Wasco,27,State House,59,REP,"SMITH, GREG",173
 Wasco,28,State House,59,REP,"SMITH, GREG",2
+Wasco,Total,State House,59,REP,Under Votes,124
 Wasco,26,State House,59,REP,Under Votes,35
 Wasco,27,State House,59,REP,Under Votes,86
 Wasco,28,State House,59,REP,Under Votes,3
+Wasco,Total,State House,59,REP,Over Votes,0
 Wasco,26,State House,59,REP,Over Votes,0
 Wasco,27,State House,59,REP,Over Votes,0
 Wasco,28,State House,59,REP,Over Votes,0
