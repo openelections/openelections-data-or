@@ -105,9 +105,9 @@ class GenericParser(object):
 					header = row
 
 				elif row[1] == 'TOTAL':
-					for index, votes in reversed(list(enumerate(row))):
+					for index, votes in list(enumerate(row)):
 						if index > 1 and row[index]:
-							if header[index] not in ['Voters', 'Trnout', 'Pct', '']:
+							if header[index] not in ['Voters', 'Trnout', 'Turnout', 'Pct', '']:
 								precinct = 'Total'
 								normalizedOffice = self.normalizeOffice(office)
 								candidate = header[index]
@@ -118,12 +118,12 @@ class GenericParser(object):
 								self.csvLines.append([self.county, precinct, normalizedOffice, district, party, self.normalizeName(candidate), votes])
 
 				else:
-					for index, votes in reversed(list(enumerate(row))):
+					for index, votes in list(enumerate(row)):
 						if index > 1 and row[index]:
 							if header[index] not in ['Voters', 'Pct', '']:
 								normalizedOffice = self.normalizeOffice(office)
 								precinct = row[1]
-								candidate = "Total" if header[index] == "Trnout" else header[index]
+								candidate = "Total" if header[index] in ["Trnout", "Turnout"] else header[index]
 
 								if self.isGeneral:
 									candidate, party = self.parseParty(candidate)
