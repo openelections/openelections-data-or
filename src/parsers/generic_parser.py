@@ -34,6 +34,7 @@ office_lookup = {
 	'SENATOR': 'U.S. Senate',
 	'HOUSE': 'U.S. House',
 	'US REP': 'U.S. House',
+	'US REPRESENTATIVE': 'U.S. House',
 	'REPRESENTATIVE': 'U.S. House',
 	'REPRESENTATIVE IN CONGRESS': 'U.S. House',
 	'REP IN CONGRESS': 'U.S. House',
@@ -189,7 +190,8 @@ class GenericParser(object):
 
 	def normalizeOffice(self, office):
 		try:
-			outOffice = office_lookup[office.upper()] # Normalise the office
+			strippedOffice = re.sub(r"\s+", " ", office)
+			outOffice = office_lookup[strippedOffice.upper()] # Normalise the office
 		except KeyError as e:
 			print("Can't find the office '{}'. Did you forget to pass --primary?".format(office))
 			sys.exit(1)
