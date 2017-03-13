@@ -145,7 +145,7 @@ class GenericParser(object):
 		office = text.strip().upper()
 
 		districtPrefixType1RE = re.compile(",? (\d+)\w\w DIST(RICT)?")
-		districtPrefixType2RE = re.compile(" DIST\.? (\d+)")
+		districtPrefixType2RE = re.compile(",? DIST\.? (\d+)")
 
 		m = districtPrefixType1RE.search(office) or districtPrefixType2RE.search(office)
 
@@ -172,7 +172,7 @@ class GenericParser(object):
 		office = text.strip().upper()
 
 		districtPrefixType1RE = re.compile(",? (\d+)\w\w DIST(RICT)?")
-		districtPrefixType2RE = re.compile(" DIST\.? (\d+)")
+		districtPrefixType2RE = re.compile(",? DIST\.? (\d+)")
 
 		m = partyPostfixRE.search(office)
 
