@@ -50,26 +50,30 @@ class OEProgress(object):
 	def printProgress(self):
 		for index, series in self.elections.iterrows():
 			precinctCount = series['precinct count']
-			gb = series.groupby(series[2:])
+			primaries = series.filter(regex='primary$')
+			generals  = series.filter(regex='general$')
 
-			for group, values in gb:
-				self.counts[group] += len(values.index)
-				self.weightedCounts[group] += len(values.index) * precinctCount
+			for elections in [primaries, generals]:
+				gb = elections.groupby(elections)
 
-		electionCount = sum(self.counts.values())
-		print(f"By election:")
+				# Because primaries involve two complete elections, the number of results is doubled
+				multiplier = 2 if elections.equals(primaries) else 1
 
-		for status, count in self.counts.items():
-			print("{:>15} {:>5} {:>6.1%}".format(self.statuses[status], count, count/electionCount))
+				for group, values in gb:
+					self.counts[group] += len(values.index)
+					self.weightedCounts[group] += len(values.index) * precinctCount * multiplier
 
-		print("{:>15} {:>5}".format("Total", electionCount))
+		def printCount(counts, name):
+			countSum = sum(counts.values())
+			print(f"By {name}:")
 
-		print("\nBy precinct:")
-		precinctCount = sum(self.weightedCounts.values())
-		for status, count in self.weightedCounts.items():
-			print("{:>15} {:>5} {:>6.1%}".format(self.statuses[status], count, count/precinctCount))
+			for status, count in counts.items():
+				print("{:>15} {:>5} {:>6.1%}".format(self.statuses[status], count, count/countSum))
 
-		print("{:>15} {:>5}".format("Total", precinctCount))
+			print("{:>15} {:>5}".format("Total", countSum))
+		
+		printCount(self.counts, 'election')
+		printCount(self.weightedCounts, 'precinct')
 
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify votes are correct using a simple checksum')
