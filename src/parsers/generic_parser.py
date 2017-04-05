@@ -31,9 +31,11 @@ import re
 office_lookup = {
 	'PRESIDENT': 'President',
 	'US SENATOR': 'U.S. Senate',
+	'U.S. SENATE': 'U.S. Senate',
 	'SENATOR': 'U.S. Senate',
 	'HOUSE': 'U.S. House',
 	'US REP': 'U.S. House',
+	'U.S. HOUSE': 'U.S. House',
 	'US REPRESENTATIVE': 'U.S. House',
 	'REPRESENTATIVE': 'U.S. House',
 	'REPRESENTATIVE IN CONGRESS': 'U.S. House',
@@ -45,8 +47,10 @@ office_lookup = {
 	'STATE HOUSE': 'State House',
 	'STATE REP': 'State House',
 	'STATE REPRESENTATIVE': 'State House',
+	'STATE SENATE': 'State Senate',
 	'STATE SENATOR': 'State Senate',
 	'MEMBER OF ASSEMBLY': 'State Assembly',
+	'STATE ASSEMBLY': 'State Assembly',
 }
 
 

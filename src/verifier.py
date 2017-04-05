@@ -59,8 +59,8 @@ class Verifier(object):
 	uniqueRowIDSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
 	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer'])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
-	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast'])
-	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast'])
+	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast',  'Registered Voters'])
+	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast', 'registeredvoters'])
 
 	# Return the appropriate subclass based on the path
 	def __new__(cls, path):
