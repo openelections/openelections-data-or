@@ -1,0 +1,1161 @@
+county,precinct,office,district,party,candidate,votes
+Coos,01,President,,REP,Donald J Trump,793
+Coos,02,President,,REP,Donald J Trump,1362
+Coos,03,President,,REP,Donald J Trump,1506
+Coos,04,President,,REP,Donald J Trump,946
+Coos,05,President,,REP,Donald J Trump,1541
+Coos,06,President,,REP,Donald J Trump,864
+Coos,07,President,,REP,Donald J Trump,976
+Coos,08,President,,REP,Donald J Trump,1656
+Coos,09,President,,REP,Donald J Trump,156
+Coos,10,President,,REP,Donald J Trump,1365
+Coos,11,President,,REP,Donald J Trump,1186
+Coos,12,President,,REP,Donald J Trump,1136
+Coos,13,President,,REP,Donald J Trump,811
+Coos,14,President,,REP,Donald J Trump,1083
+Coos,15,President,,REP,Donald J Trump,287
+Coos,16,President,,REP,Donald J Trump,783
+Coos,17,President,,REP,Donald J Trump,1206
+Coos,18,President,,REP,Donald J Trump,208
+Coos,01,President,,DEM,Hillary Clinton,359
+Coos,02,President,,DEM,Hillary Clinton,750
+Coos,03,President,,DEM,Hillary Clinton,921
+Coos,04,President,,DEM,Hillary Clinton,842
+Coos,05,President,,DEM,Hillary Clinton,1108
+Coos,06,President,,DEM,Hillary Clinton,793
+Coos,07,President,,DEM,Hillary Clinton,890
+Coos,08,President,,DEM,Hillary Clinton,910
+Coos,09,President,,DEM,Hillary Clinton,130
+Coos,10,President,,DEM,Hillary Clinton,642
+Coos,11,President,,DEM,Hillary Clinton,404
+Coos,12,President,,DEM,Hillary Clinton,487
+Coos,13,President,,DEM,Hillary Clinton,258
+Coos,14,President,,DEM,Hillary Clinton,276
+Coos,15,President,,DEM,Hillary Clinton,90
+Coos,16,President,,DEM,Hillary Clinton,813
+Coos,17,President,,DEM,Hillary Clinton,694
+Coos,18,President,,DEM,Hillary Clinton,81
+Coos,01,President,,GRE,Jill Stein,27
+Coos,02,President,,GRE,Jill Stein,47
+Coos,03,President,,GRE,Jill Stein,63
+Coos,04,President,,GRE,Jill Stein,50
+Coos,05,President,,GRE,Jill Stein,67
+Coos,06,President,,GRE,Jill Stein,48
+Coos,07,President,,GRE,Jill Stein,71
+Coos,08,President,,GRE,Jill Stein,75
+Coos,09,President,,GRE,Jill Stein,17
+Coos,10,President,,GRE,Jill Stein,50
+Coos,11,President,,GRE,Jill Stein,39
+Coos,12,President,,GRE,Jill Stein,41
+Coos,13,President,,GRE,Jill Stein,15
+Coos,14,President,,GRE,Jill Stein,20
+Coos,15,President,,GRE,Jill Stein,7
+Coos,16,President,,GRE,Jill Stein,48
+Coos,17,President,,GRE,Jill Stein,61
+Coos,18,President,,GRE,Jill Stein,9
+Coos,01,President,,LBT,Gary Johnson,59
+Coos,02,President,,LBT,Gary Johnson,109
+Coos,03,President,,LBT,Gary Johnson,143
+Coos,04,President,,LBT,Gary Johnson,116
+Coos,05,President,,LBT,Gary Johnson,141
+Coos,06,President,,LBT,Gary Johnson,87
+Coos,07,President,,LBT,Gary Johnson,122
+Coos,08,President,,LBT,Gary Johnson,127
+Coos,09,President,,LBT,Gary Johnson,13
+Coos,10,President,,LBT,Gary Johnson,73
+Coos,11,President,,LBT,Gary Johnson,69
+Coos,12,President,,LBT,Gary Johnson,89
+Coos,13,President,,LBT,Gary Johnson,44
+Coos,14,President,,LBT,Gary Johnson,51
+Coos,15,President,,LBT,Gary Johnson,18
+Coos,16,President,,LBT,Gary Johnson,59
+Coos,17,President,,LBT,Gary Johnson,78
+Coos,18,President,,LBT,Gary Johnson,13
+Coos,01,President,,,Write-ins,32
+Coos,02,President,,,Write-ins,57
+Coos,03,President,,,Write-ins,76
+Coos,04,President,,,Write-ins,57
+Coos,05,President,,,Write-ins,85
+Coos,06,President,,,Write-ins,70
+Coos,07,President,,,Write-ins,58
+Coos,08,President,,,Write-ins,85
+Coos,09,President,,,Write-ins,12
+Coos,10,President,,,Write-ins,49
+Coos,11,President,,,Write-ins,42
+Coos,12,President,,,Write-ins,51
+Coos,13,President,,,Write-ins,22
+Coos,14,President,,,Write-ins,22
+Coos,15,President,,,Write-ins,7
+Coos,16,President,,,Write-ins,49
+Coos,17,President,,,Write-ins,55
+Coos,18,President,,,Write-ins,5
+Coos,01,President,,,Over Votes,0
+Coos,02,President,,,Over Votes,0
+Coos,03,President,,,Over Votes,3
+Coos,04,President,,,Over Votes,2
+Coos,05,President,,,Over Votes,0
+Coos,06,President,,,Over Votes,0
+Coos,07,President,,,Over Votes,1
+Coos,08,President,,,Over Votes,1
+Coos,09,President,,,Over Votes,0
+Coos,10,President,,,Over Votes,2
+Coos,11,President,,,Over Votes,2
+Coos,12,President,,,Over Votes,1
+Coos,13,President,,,Over Votes,1
+Coos,14,President,,,Over Votes,2
+Coos,15,President,,,Over Votes,0
+Coos,16,President,,,Over Votes,0
+Coos,17,President,,,Over Votes,0
+Coos,18,President,,,Over Votes,0
+Coos,01,President,,,Under Votes,16
+Coos,02,President,,,Under Votes,37
+Coos,03,President,,,Under Votes,48
+Coos,04,President,,,Under Votes,31
+Coos,05,President,,,Under Votes,39
+Coos,06,President,,,Under Votes,20
+Coos,07,President,,,Under Votes,27
+Coos,08,President,,,Under Votes,35
+Coos,09,President,,,Under Votes,7
+Coos,10,President,,,Under Votes,29
+Coos,11,President,,,Under Votes,26
+Coos,12,President,,,Under Votes,38
+Coos,13,President,,,Under Votes,22
+Coos,14,President,,,Under Votes,28
+Coos,15,President,,,Under Votes,7
+Coos,16,President,,,Under Votes,19
+Coos,17,President,,,Under Votes,36
+Coos,18,President,,,Under Votes,4
+Coos,01,U.S. Senate,,IND,Steven C Reynolds,44
+Coos,02,U.S. Senate,,IND,Steven C Reynolds,78
+Coos,03,U.S. Senate,,IND,Steven C Reynolds,100
+Coos,04,U.S. Senate,,IND,Steven C Reynolds,72
+Coos,05,U.S. Senate,,IND,Steven C Reynolds,140
+Coos,06,U.S. Senate,,IND,Steven C Reynolds,47
+Coos,07,U.S. Senate,,IND,Steven C Reynolds,79
+Coos,08,U.S. Senate,,IND,Steven C Reynolds,133
+Coos,09,U.S. Senate,,IND,Steven C Reynolds,15
+Coos,10,U.S. Senate,,IND,Steven C Reynolds,76
+Coos,11,U.S. Senate,,IND,Steven C Reynolds,56
+Coos,12,U.S. Senate,,IND,Steven C Reynolds,82
+Coos,13,U.S. Senate,,IND,Steven C Reynolds,39
+Coos,14,U.S. Senate,,IND,Steven C Reynolds,44
+Coos,15,U.S. Senate,,IND,Steven C Reynolds,22
+Coos,16,U.S. Senate,,IND,Steven C Reynolds,61
+Coos,17,U.S. Senate,,IND,Steven C Reynolds,88
+Coos,18,U.S. Senate,,IND,Steven C Reynolds,13
+Coos,01,U.S. Senate,,DEM,Ron Wyden,515
+Coos,02,U.S. Senate,,DEM,Ron Wyden,956
+Coos,03,U.S. Senate,,DEM,Ron Wyden,1217
+Coos,04,U.S. Senate,,DEM,Ron Wyden,1003
+Coos,05,U.S. Senate,,DEM,Ron Wyden,1376
+Coos,06,U.S. Senate,,DEM,Ron Wyden,942
+Coos,07,U.S. Senate,,DEM,Ron Wyden,1054
+Coos,08,U.S. Senate,,DEM,Ron Wyden,1248
+Coos,09,U.S. Senate,,DEM,Ron Wyden,153
+Coos,10,U.S. Senate,,DEM,Ron Wyden,880
+Coos,11,U.S. Senate,,DEM,Ron Wyden,596
+Coos,12,U.S. Senate,,DEM,Ron Wyden,697
+Coos,13,U.S. Senate,,DEM,Ron Wyden,425
+Coos,14,U.S. Senate,,DEM,Ron Wyden,429
+Coos,15,U.S. Senate,,DEM,Ron Wyden,149
+Coos,16,U.S. Senate,,DEM,Ron Wyden,897
+Coos,17,U.S. Senate,,DEM,Ron Wyden,827
+Coos,18,U.S. Senate,,DEM,Ron Wyden,104
+Coos,01,U.S. Senate,,REP,Mark Callahan,626
+Coos,02,U.S. Senate,,REP,Mark Callahan,1133
+Coos,03,U.S. Senate,,REP,Mark Callahan,1178
+Coos,04,U.S. Senate,,REP,Mark Callahan,748
+Coos,05,U.S. Senate,,REP,Mark Callahan,1161
+Coos,06,U.S. Senate,,REP,Mark Callahan,695
+Coos,07,U.S. Senate,,REP,Mark Callahan,759
+Coos,08,U.S. Senate,,REP,Mark Callahan,1204
+Coos,09,U.S. Senate,,REP,Mark Callahan,128
+Coos,10,U.S. Senate,,REP,Mark Callahan,1071
+Coos,11,U.S. Senate,,REP,Mark Callahan,963
+Coos,12,U.S. Senate,,REP,Mark Callahan,898
+Coos,13,U.S. Senate,,REP,Mark Callahan,614
+Coos,14,U.S. Senate,,REP,Mark Callahan,877
+Coos,15,U.S. Senate,,REP,Mark Callahan,198
+Coos,16,U.S. Senate,,REP,Mark Callahan,649
+Coos,17,U.S. Senate,,REP,Mark Callahan,1006
+Coos,18,U.S. Senate,,REP,Mark Callahan,178
+Coos,01,U.S. Senate,,PAC,Eric Navickas,9
+Coos,02,U.S. Senate,,PAC,Eric Navickas,42
+Coos,03,U.S. Senate,,PAC,Eric Navickas,35
+Coos,04,U.S. Senate,,PAC,Eric Navickas,54
+Coos,05,U.S. Senate,,PAC,Eric Navickas,54
+Coos,06,U.S. Senate,,PAC,Eric Navickas,34
+Coos,07,U.S. Senate,,PAC,Eric Navickas,52
+Coos,08,U.S. Senate,,PAC,Eric Navickas,73
+Coos,09,U.S. Senate,,PAC,Eric Navickas,15
+Coos,10,U.S. Senate,,PAC,Eric Navickas,37
+Coos,11,U.S. Senate,,PAC,Eric Navickas,45
+Coos,12,U.S. Senate,,PAC,Eric Navickas,28
+Coos,13,U.S. Senate,,PAC,Eric Navickas,12
+Coos,14,U.S. Senate,,PAC,Eric Navickas,24
+Coos,15,U.S. Senate,,PAC,Eric Navickas,6
+Coos,16,U.S. Senate,,PAC,Eric Navickas,45
+Coos,17,U.S. Senate,,PAC,Eric Navickas,52
+Coos,18,U.S. Senate,,PAC,Eric Navickas,5
+Coos,01,U.S. Senate,,LBT,Jim Lindsay,14
+Coos,02,U.S. Senate,,LBT,Jim Lindsay,27
+Coos,03,U.S. Senate,,LBT,Jim Lindsay,37
+Coos,04,U.S. Senate,,LBT,Jim Lindsay,24
+Coos,05,U.S. Senate,,LBT,Jim Lindsay,51
+Coos,06,U.S. Senate,,LBT,Jim Lindsay,25
+Coos,07,U.S. Senate,,LBT,Jim Lindsay,35
+Coos,08,U.S. Senate,,LBT,Jim Lindsay,37
+Coos,09,U.S. Senate,,LBT,Jim Lindsay,6
+Coos,10,U.S. Senate,,LBT,Jim Lindsay,24
+Coos,11,U.S. Senate,,LBT,Jim Lindsay,15
+Coos,12,U.S. Senate,,LBT,Jim Lindsay,23
+Coos,13,U.S. Senate,,LBT,Jim Lindsay,10
+Coos,14,U.S. Senate,,LBT,Jim Lindsay,12
+Coos,15,U.S. Senate,,LBT,Jim Lindsay,5
+Coos,16,U.S. Senate,,LBT,Jim Lindsay,25
+Coos,17,U.S. Senate,,LBT,Jim Lindsay,20
+Coos,18,U.S. Senate,,LBT,Jim Lindsay,6
+Coos,01,U.S. Senate,,WFP,Shanti S Lewallen,34
+Coos,02,U.S. Senate,,WFP,Shanti S Lewallen,51
+Coos,03,U.S. Senate,,WFP,Shanti S Lewallen,98
+Coos,04,U.S. Senate,,WFP,Shanti S Lewallen,73
+Coos,05,U.S. Senate,,WFP,Shanti S Lewallen,101
+Coos,06,U.S. Senate,,WFP,Shanti S Lewallen,65
+Coos,07,U.S. Senate,,WFP,Shanti S Lewallen,82
+Coos,08,U.S. Senate,,WFP,Shanti S Lewallen,106
+Coos,09,U.S. Senate,,WFP,Shanti S Lewallen,6
+Coos,10,U.S. Senate,,WFP,Shanti S Lewallen,61
+Coos,11,U.S. Senate,,WFP,Shanti S Lewallen,36
+Coos,12,U.S. Senate,,WFP,Shanti S Lewallen,66
+Coos,13,U.S. Senate,,WFP,Shanti S Lewallen,33
+Coos,14,U.S. Senate,,WFP,Shanti S Lewallen,38
+Coos,15,U.S. Senate,,WFP,Shanti S Lewallen,19
+Coos,16,U.S. Senate,,WFP,Shanti S Lewallen,41
+Coos,17,U.S. Senate,,WFP,Shanti S Lewallen,59
+Coos,18,U.S. Senate,,WFP,Shanti S Lewallen,6
+Coos,01,U.S. Senate,,,Write-ins,0
+Coos,02,U.S. Senate,,,Write-ins,2
+Coos,03,U.S. Senate,,,Write-ins,1
+Coos,04,U.S. Senate,,,Write-ins,2
+Coos,05,U.S. Senate,,,Write-ins,3
+Coos,06,U.S. Senate,,,Write-ins,0
+Coos,07,U.S. Senate,,,Write-ins,4
+Coos,08,U.S. Senate,,,Write-ins,2
+Coos,09,U.S. Senate,,,Write-ins,0
+Coos,10,U.S. Senate,,,Write-ins,0
+Coos,11,U.S. Senate,,,Write-ins,4
+Coos,12,U.S. Senate,,,Write-ins,2
+Coos,13,U.S. Senate,,,Write-ins,1
+Coos,14,U.S. Senate,,,Write-ins,0
+Coos,15,U.S. Senate,,,Write-ins,0
+Coos,16,U.S. Senate,,,Write-ins,1
+Coos,17,U.S. Senate,,,Write-ins,1
+Coos,18,U.S. Senate,,,Write-ins,0
+Coos,01,U.S. Senate,,,Over Votes,1
+Coos,02,U.S. Senate,,,Over Votes,0
+Coos,03,U.S. Senate,,,Over Votes,0
+Coos,04,U.S. Senate,,,Over Votes,0
+Coos,05,U.S. Senate,,,Over Votes,1
+Coos,06,U.S. Senate,,,Over Votes,0
+Coos,07,U.S. Senate,,,Over Votes,0
+Coos,08,U.S. Senate,,,Over Votes,0
+Coos,09,U.S. Senate,,,Over Votes,0
+Coos,10,U.S. Senate,,,Over Votes,0
+Coos,11,U.S. Senate,,,Over Votes,0
+Coos,12,U.S. Senate,,,Over Votes,0
+Coos,13,U.S. Senate,,,Over Votes,1
+Coos,14,U.S. Senate,,,Over Votes,1
+Coos,15,U.S. Senate,,,Over Votes,0
+Coos,16,U.S. Senate,,,Over Votes,0
+Coos,17,U.S. Senate,,,Over Votes,0
+Coos,18,U.S. Senate,,,Over Votes,0
+Coos,01,U.S. Senate,,,Under Votes,43
+Coos,02,U.S. Senate,,,Under Votes,73
+Coos,03,U.S. Senate,,,Under Votes,94
+Coos,04,U.S. Senate,,,Under Votes,68
+Coos,05,U.S. Senate,,,Under Votes,94
+Coos,06,U.S. Senate,,,Under Votes,74
+Coos,07,U.S. Senate,,,Under Votes,80
+Coos,08,U.S. Senate,,,Under Votes,86
+Coos,09,U.S. Senate,,,Under Votes,12
+Coos,10,U.S. Senate,,,Under Votes,61
+Coos,11,U.S. Senate,,,Under Votes,53
+Coos,12,U.S. Senate,,,Under Votes,47
+Coos,13,U.S. Senate,,,Under Votes,38
+Coos,14,U.S. Senate,,,Under Votes,57
+Coos,15,U.S. Senate,,,Under Votes,17
+Coos,16,U.S. Senate,,,Under Votes,52
+Coos,17,U.S. Senate,,,Under Votes,77
+Coos,18,U.S. Senate,,,Under Votes,8
+Coos,01,U.S. House,4,DEM,Peter A DeFazio,563
+Coos,02,U.S. House,4,DEM,Peter A DeFazio,1082
+Coos,03,U.S. House,4,DEM,Peter A DeFazio,1317
+Coos,04,U.S. House,4,DEM,Peter A DeFazio,1112
+Coos,05,U.S. House,4,DEM,Peter A DeFazio,1443
+Coos,06,U.S. House,4,DEM,Peter A DeFazio,1010
+Coos,07,U.S. House,4,DEM,Peter A DeFazio,1164
+Coos,08,U.S. House,4,DEM,Peter A DeFazio,1359
+Coos,09,U.S. House,4,DEM,Peter A DeFazio,170
+Coos,10,U.S. House,4,DEM,Peter A DeFazio,933
+Coos,11,U.S. House,4,DEM,Peter A DeFazio,624
+Coos,12,U.S. House,4,DEM,Peter A DeFazio,752
+Coos,13,U.S. House,4,DEM,Peter A DeFazio,423
+Coos,14,U.S. House,4,DEM,Peter A DeFazio,452
+Coos,15,U.S. House,4,DEM,Peter A DeFazio,153
+Coos,16,U.S. House,4,DEM,Peter A DeFazio,975
+Coos,17,U.S. House,4,DEM,Peter A DeFazio,895
+Coos,18,U.S. House,4,DEM,Peter A DeFazio,107
+Coos,01,U.S. House,4,REP,Art Robinson,642
+Coos,02,U.S. House,4,REP,Art Robinson,1125
+Coos,03,U.S. House,4,REP,Art Robinson,1248
+Coos,04,U.S. House,4,REP,Art Robinson,780
+Coos,05,U.S. House,4,REP,Art Robinson,1275
+Coos,06,U.S. House,4,REP,Art Robinson,727
+Coos,07,U.S. House,4,REP,Art Robinson,786
+Coos,08,U.S. House,4,REP,Art Robinson,1292
+Coos,09,U.S. House,4,REP,Art Robinson,132
+Coos,10,U.S. House,4,REP,Art Robinson,1134
+Coos,11,U.S. House,4,REP,Art Robinson,1027
+Coos,12,U.S. House,4,REP,Art Robinson,952
+Coos,13,U.S. House,4,REP,Art Robinson,683
+Coos,14,U.S. House,4,REP,Art Robinson,937
+Coos,15,U.S. House,4,REP,Art Robinson,228
+Coos,16,U.S. House,4,REP,Art Robinson,662
+Coos,17,U.S. House,4,REP,Art Robinson,1051
+Coos,18,U.S. House,4,REP,Art Robinson,189
+Coos,01,U.S. House,4,PAC,Mike Beilstein,23
+Coos,02,U.S. House,4,PAC,Mike Beilstein,42
+Coos,03,U.S. House,4,PAC,Mike Beilstein,49
+Coos,04,U.S. House,4,PAC,Mike Beilstein,55
+Coos,05,U.S. House,4,PAC,Mike Beilstein,87
+Coos,06,U.S. House,4,PAC,Mike Beilstein,38
+Coos,07,U.S. House,4,PAC,Mike Beilstein,70
+Coos,08,U.S. House,4,PAC,Mike Beilstein,85
+Coos,09,U.S. House,4,PAC,Mike Beilstein,11
+Coos,10,U.S. House,4,PAC,Mike Beilstein,52
+Coos,11,U.S. House,4,PAC,Mike Beilstein,46
+Coos,12,U.S. House,4,PAC,Mike Beilstein,40
+Coos,13,U.S. House,4,PAC,Mike Beilstein,17
+Coos,14,U.S. House,4,PAC,Mike Beilstein,26
+Coos,15,U.S. House,4,PAC,Mike Beilstein,8
+Coos,16,U.S. House,4,PAC,Mike Beilstein,42
+Coos,17,U.S. House,4,PAC,Mike Beilstein,63
+Coos,18,U.S. House,4,PAC,Mike Beilstein,10
+Coos,01,U.S. House,4,LBT,Gil Guthrie,19
+Coos,02,U.S. House,4,LBT,Gil Guthrie,37
+Coos,03,U.S. House,4,LBT,Gil Guthrie,62
+Coos,04,U.S. House,4,LBT,Gil Guthrie,30
+Coos,05,U.S. House,4,LBT,Gil Guthrie,71
+Coos,06,U.S. House,4,LBT,Gil Guthrie,29
+Coos,07,U.S. House,4,LBT,Gil Guthrie,33
+Coos,08,U.S. House,4,LBT,Gil Guthrie,54
+Coos,09,U.S. House,4,LBT,Gil Guthrie,6
+Coos,10,U.S. House,4,LBT,Gil Guthrie,25
+Coos,11,U.S. House,4,LBT,Gil Guthrie,22
+Coos,12,U.S. House,4,LBT,Gil Guthrie,24
+Coos,13,U.S. House,4,LBT,Gil Guthrie,11
+Coos,14,U.S. House,4,LBT,Gil Guthrie,21
+Coos,15,U.S. House,4,LBT,Gil Guthrie,6
+Coos,16,U.S. House,4,LBT,Gil Guthrie,36
+Coos,17,U.S. House,4,LBT,Gil Guthrie,32
+Coos,18,U.S. House,4,LBT,Gil Guthrie,5
+Coos,01,U.S. House,4,,Write-ins,1
+Coos,02,U.S. House,4,,Write-ins,0
+Coos,03,U.S. House,4,,Write-ins,3
+Coos,04,U.S. House,4,,Write-ins,2
+Coos,05,U.S. House,4,,Write-ins,1
+Coos,06,U.S. House,4,,Write-ins,2
+Coos,07,U.S. House,4,,Write-ins,2
+Coos,08,U.S. House,4,,Write-ins,3
+Coos,09,U.S. House,4,,Write-ins,0
+Coos,10,U.S. House,4,,Write-ins,1
+Coos,11,U.S. House,4,,Write-ins,4
+Coos,12,U.S. House,4,,Write-ins,5
+Coos,13,U.S. House,4,,Write-ins,1
+Coos,14,U.S. House,4,,Write-ins,0
+Coos,15,U.S. House,4,,Write-ins,0
+Coos,16,U.S. House,4,,Write-ins,0
+Coos,17,U.S. House,4,,Write-ins,0
+Coos,18,U.S. House,4,,Write-ins,0
+Coos,01,U.S. House,4,,Over Votes,0
+Coos,02,U.S. House,4,,Over Votes,0
+Coos,03,U.S. House,4,,Over Votes,0
+Coos,04,U.S. House,4,,Over Votes,0
+Coos,05,U.S. House,4,,Over Votes,0
+Coos,06,U.S. House,4,,Over Votes,0
+Coos,07,U.S. House,4,,Over Votes,0
+Coos,08,U.S. House,4,,Over Votes,0
+Coos,09,U.S. House,4,,Over Votes,0
+Coos,10,U.S. House,4,,Over Votes,1
+Coos,11,U.S. House,4,,Over Votes,0
+Coos,12,U.S. House,4,,Over Votes,0
+Coos,13,U.S. House,4,,Over Votes,0
+Coos,14,U.S. House,4,,Over Votes,1
+Coos,15,U.S. House,4,,Over Votes,0
+Coos,16,U.S. House,4,,Over Votes,0
+Coos,17,U.S. House,4,,Over Votes,0
+Coos,18,U.S. House,4,,Over Votes,0
+Coos,01,U.S. House,4,,Under Votes,38
+Coos,02,U.S. House,4,,Under Votes,76
+Coos,03,U.S. House,4,,Under Votes,81
+Coos,04,U.S. House,4,,Under Votes,65
+Coos,05,U.S. House,4,,Under Votes,104
+Coos,06,U.S. House,4,,Under Votes,76
+Coos,07,U.S. House,4,,Under Votes,90
+Coos,08,U.S. House,4,,Under Votes,96
+Coos,09,U.S. House,4,,Under Votes,16
+Coos,10,U.S. House,4,,Under Votes,64
+Coos,11,U.S. House,4,,Under Votes,45
+Coos,12,U.S. House,4,,Under Votes,70
+Coos,13,U.S. House,4,,Under Votes,38
+Coos,14,U.S. House,4,,Under Votes,45
+Coos,15,U.S. House,4,,Under Votes,21
+Coos,16,U.S. House,4,,Under Votes,56
+Coos,17,U.S. House,4,,Under Votes,89
+Coos,18,U.S. House,4,,Under Votes,9
+Coos,01,Governor,,LBT,James Foster,31
+Coos,02,Governor,,LBT,James Foster,47
+Coos,03,Governor,,LBT,James Foster,68
+Coos,04,Governor,,LBT,James Foster,67
+Coos,05,Governor,,LBT,James Foster,90
+Coos,06,Governor,,LBT,James Foster,39
+Coos,07,Governor,,LBT,James Foster,68
+Coos,08,Governor,,LBT,James Foster,79
+Coos,09,Governor,,LBT,James Foster,8
+Coos,10,Governor,,LBT,James Foster,49
+Coos,11,Governor,,LBT,James Foster,27
+Coos,12,Governor,,LBT,James Foster,44
+Coos,13,Governor,,LBT,James Foster,24
+Coos,14,Governor,,LBT,James Foster,24
+Coos,15,Governor,,LBT,James Foster,10
+Coos,16,Governor,,LBT,James Foster,36
+Coos,17,Governor,,LBT,James Foster,51
+Coos,18,Governor,,LBT,James Foster,10
+Coos,01,Governor,,DEM,Kate Brown,424
+Coos,02,Governor,,DEM,Kate Brown,793
+Coos,03,Governor,,DEM,Kate Brown,1022
+Coos,04,Governor,,DEM,Kate Brown,891
+Coos,05,Governor,,DEM,Kate Brown,1237
+Coos,06,Governor,,DEM,Kate Brown,840
+Coos,07,Governor,,DEM,Kate Brown,942
+Coos,08,Governor,,DEM,Kate Brown,1039
+Coos,09,Governor,,DEM,Kate Brown,145
+Coos,10,Governor,,DEM,Kate Brown,693
+Coos,11,Governor,,DEM,Kate Brown,483
+Coos,12,Governor,,DEM,Kate Brown,595
+Coos,13,Governor,,DEM,Kate Brown,308
+Coos,14,Governor,,DEM,Kate Brown,316
+Coos,15,Governor,,DEM,Kate Brown,113
+Coos,16,Governor,,DEM,Kate Brown,820
+Coos,17,Governor,,DEM,Kate Brown,748
+Coos,18,Governor,,DEM,Kate Brown,91
+Coos,01,Governor,,IPO,Cliff Thomason,40
+Coos,02,Governor,,IPO,Cliff Thomason,52
+Coos,03,Governor,,IPO,Cliff Thomason,80
+Coos,04,Governor,,IPO,Cliff Thomason,63
+Coos,05,Governor,,IPO,Cliff Thomason,109
+Coos,06,Governor,,IPO,Cliff Thomason,47
+Coos,07,Governor,,IPO,Cliff Thomason,82
+Coos,08,Governor,,IPO,Cliff Thomason,134
+Coos,09,Governor,,IPO,Cliff Thomason,5
+Coos,10,Governor,,IPO,Cliff Thomason,57
+Coos,11,Governor,,IPO,Cliff Thomason,55
+Coos,12,Governor,,IPO,Cliff Thomason,58
+Coos,13,Governor,,IPO,Cliff Thomason,33
+Coos,14,Governor,,IPO,Cliff Thomason,49
+Coos,15,Governor,,IPO,Cliff Thomason,11
+Coos,16,Governor,,IPO,Cliff Thomason,40
+Coos,17,Governor,,IPO,Cliff Thomason,59
+Coos,18,Governor,,IPO,Cliff Thomason,11
+Coos,01,Governor,,CON,Aaron Donald Auer,18
+Coos,02,Governor,,CON,Aaron Donald Auer,28
+Coos,03,Governor,,CON,Aaron Donald Auer,43
+Coos,04,Governor,,CON,Aaron Donald Auer,38
+Coos,05,Governor,,CON,Aaron Donald Auer,60
+Coos,06,Governor,,CON,Aaron Donald Auer,32
+Coos,07,Governor,,CON,Aaron Donald Auer,36
+Coos,08,Governor,,CON,Aaron Donald Auer,50
+Coos,09,Governor,,CON,Aaron Donald Auer,10
+Coos,10,Governor,,CON,Aaron Donald Auer,39
+Coos,11,Governor,,CON,Aaron Donald Auer,40
+Coos,12,Governor,,CON,Aaron Donald Auer,33
+Coos,13,Governor,,CON,Aaron Donald Auer,23
+Coos,14,Governor,,CON,Aaron Donald Auer,27
+Coos,15,Governor,,CON,Aaron Donald Auer,6
+Coos,16,Governor,,CON,Aaron Donald Auer,22
+Coos,17,Governor,,CON,Aaron Donald Auer,30
+Coos,18,Governor,,CON,Aaron Donald Auer,3
+Coos,01,Governor,,REP,Bud Pierce,731
+Coos,02,Governor,,REP,Bud Pierce,1363
+Coos,03,Governor,,REP,Bud Pierce,1448
+Coos,04,Governor,,REP,Bud Pierce,907
+Coos,05,Governor,,REP,Bud Pierce,1393
+Coos,06,Governor,,REP,Bud Pierce,843
+Coos,07,Governor,,REP,Bud Pierce,915
+Coos,08,Governor,,REP,Bud Pierce,1493
+Coos,09,Governor,,REP,Bud Pierce,158
+Coos,10,Governor,,REP,Bud Pierce,1304
+Coos,11,Governor,,REP,Bud Pierce,1108
+Coos,12,Governor,,REP,Bud Pierce,1050
+Coos,13,Governor,,REP,Bud Pierce,746
+Coos,14,Governor,,REP,Bud Pierce,1011
+Coos,15,Governor,,REP,Bud Pierce,257
+Coos,16,Governor,,REP,Bud Pierce,783
+Coos,17,Governor,,REP,Bud Pierce,1178
+Coos,18,Governor,,REP,Bud Pierce,201
+Coos,01,Governor,,,Write-ins,1
+Coos,02,Governor,,,Write-ins,2
+Coos,03,Governor,,,Write-ins,1
+Coos,04,Governor,,,Write-ins,3
+Coos,05,Governor,,,Write-ins,4
+Coos,06,Governor,,,Write-ins,6
+Coos,07,Governor,,,Write-ins,5
+Coos,08,Governor,,,Write-ins,4
+Coos,09,Governor,,,Write-ins,2
+Coos,10,Governor,,,Write-ins,0
+Coos,11,Governor,,,Write-ins,5
+Coos,12,Governor,,,Write-ins,1
+Coos,13,Governor,,,Write-ins,0
+Coos,14,Governor,,,Write-ins,0
+Coos,15,Governor,,,Write-ins,0
+Coos,16,Governor,,,Write-ins,1
+Coos,17,Governor,,,Write-ins,0
+Coos,18,Governor,,,Write-ins,0
+Coos,01,Governor,,,Over Votes,0
+Coos,02,Governor,,,Over Votes,0
+Coos,03,Governor,,,Over Votes,1
+Coos,04,Governor,,,Over Votes,0
+Coos,05,Governor,,,Over Votes,0
+Coos,06,Governor,,,Over Votes,0
+Coos,07,Governor,,,Over Votes,0
+Coos,08,Governor,,,Over Votes,0
+Coos,09,Governor,,,Over Votes,0
+Coos,10,Governor,,,Over Votes,0
+Coos,11,Governor,,,Over Votes,0
+Coos,12,Governor,,,Over Votes,0
+Coos,13,Governor,,,Over Votes,0
+Coos,14,Governor,,,Over Votes,1
+Coos,15,Governor,,,Over Votes,0
+Coos,16,Governor,,,Over Votes,0
+Coos,17,Governor,,,Over Votes,0
+Coos,18,Governor,,,Over Votes,0
+Coos,01,Governor,,,Under Votes,37
+Coos,02,Governor,,,Under Votes,70
+Coos,03,Governor,,,Under Votes,94
+Coos,04,Governor,,,Under Votes,74
+Coos,05,Governor,,,Under Votes,85
+Coos,06,Governor,,,Under Votes,71
+Coos,07,Governor,,,Under Votes,95
+Coos,08,Governor,,,Under Votes,87
+Coos,09,Governor,,,Under Votes,7
+Coos,10,Governor,,,Under Votes,67
+Coos,11,Governor,,,Under Votes,49
+Coos,12,Governor,,,Under Votes,60
+Coos,13,Governor,,,Under Votes,38
+Coos,14,Governor,,,Under Votes,54
+Coos,15,Governor,,,Under Votes,19
+Coos,16,Governor,,,Under Votes,65
+Coos,17,Governor,,,Under Votes,62
+Coos,18,Governor,,,Under Votes,4
+Coos,01,Secretary of State,,LBT,Sharon L Durbin,45
+Coos,02,Secretary of State,,LBT,Sharon L Durbin,54
+Coos,03,Secretary of State,,LBT,Sharon L Durbin,89
+Coos,04,Secretary of State,,LBT,Sharon L Durbin,65
+Coos,05,Secretary of State,,LBT,Sharon L Durbin,104
+Coos,06,Secretary of State,,LBT,Sharon L Durbin,50
+Coos,07,Secretary of State,,LBT,Sharon L Durbin,78
+Coos,08,Secretary of State,,LBT,Sharon L Durbin,86
+Coos,09,Secretary of State,,LBT,Sharon L Durbin,10
+Coos,10,Secretary of State,,LBT,Sharon L Durbin,49
+Coos,11,Secretary of State,,LBT,Sharon L Durbin,25
+Coos,12,Secretary of State,,LBT,Sharon L Durbin,49
+Coos,13,Secretary of State,,LBT,Sharon L Durbin,30
+Coos,14,Secretary of State,,LBT,Sharon L Durbin,20
+Coos,15,Secretary of State,,LBT,Sharon L Durbin,18
+Coos,16,Secretary of State,,LBT,Sharon L Durbin,53
+Coos,17,Secretary of State,,LBT,Sharon L Durbin,60
+Coos,18,Secretary of State,,LBT,Sharon L Durbin,9
+Coos,01,Secretary of State,,REP,Dennis Richardson,731
+Coos,02,Secretary of State,,REP,Dennis Richardson,1375
+Coos,03,Secretary of State,,REP,Dennis Richardson,1493
+Coos,04,Secretary of State,,REP,Dennis Richardson,944
+Coos,05,Secretary of State,,REP,Dennis Richardson,1464
+Coos,06,Secretary of State,,REP,Dennis Richardson,900
+Coos,07,Secretary of State,,REP,Dennis Richardson,936
+Coos,08,Secretary of State,,REP,Dennis Richardson,1444
+Coos,09,Secretary of State,,REP,Dennis Richardson,155
+Coos,10,Secretary of State,,REP,Dennis Richardson,1280
+Coos,11,Secretary of State,,REP,Dennis Richardson,1118
+Coos,12,Secretary of State,,REP,Dennis Richardson,1078
+Coos,13,Secretary of State,,REP,Dennis Richardson,745
+Coos,14,Secretary of State,,REP,Dennis Richardson,1003
+Coos,15,Secretary of State,,REP,Dennis Richardson,252
+Coos,16,Secretary of State,,REP,Dennis Richardson,785
+Coos,17,Secretary of State,,REP,Dennis Richardson,1191
+Coos,18,Secretary of State,,REP,Dennis Richardson,195
+Coos,01,Secretary of State,,IPO,Paul Damian Wells,51
+Coos,02,Secretary of State,,IPO,Paul Damian Wells,76
+Coos,03,Secretary of State,,IPO,Paul Damian Wells,100
+Coos,04,Secretary of State,,IPO,Paul Damian Wells,85
+Coos,05,Secretary of State,,IPO,Paul Damian Wells,127
+Coos,06,Secretary of State,,IPO,Paul Damian Wells,75
+Coos,07,Secretary of State,,IPO,Paul Damian Wells,83
+Coos,08,Secretary of State,,IPO,Paul Damian Wells,133
+Coos,09,Secretary of State,,IPO,Paul Damian Wells,11
+Coos,10,Secretary of State,,IPO,Paul Damian Wells,84
+Coos,11,Secretary of State,,IPO,Paul Damian Wells,55
+Coos,12,Secretary of State,,IPO,Paul Damian Wells,73
+Coos,13,Secretary of State,,IPO,Paul Damian Wells,36
+Coos,14,Secretary of State,,IPO,Paul Damian Wells,44
+Coos,15,Secretary of State,,IPO,Paul Damian Wells,25
+Coos,16,Secretary of State,,IPO,Paul Damian Wells,49
+Coos,17,Secretary of State,,IPO,Paul Damian Wells,68
+Coos,18,Secretary of State,,IPO,Paul Damian Wells,11
+Coos,01,Secretary of State,,DEM,Brad Avakian,358
+Coos,02,Secretary of State,,DEM,Brad Avakian,676
+Coos,03,Secretary of State,,DEM,Brad Avakian,848
+Coos,04,Secretary of State,,DEM,Brad Avakian,749
+Coos,05,Secretary of State,,DEM,Brad Avakian,1019
+Coos,06,Secretary of State,,DEM,Brad Avakian,681
+Coos,07,Secretary of State,,DEM,Brad Avakian,816
+Coos,08,Secretary of State,,DEM,Brad Avakian,947
+Coos,09,Secretary of State,,DEM,Brad Avakian,124
+Coos,10,Secretary of State,,DEM,Brad Avakian,606
+Coos,11,Secretary of State,,DEM,Brad Avakian,420
+Coos,12,Secretary of State,,DEM,Brad Avakian,483
+Coos,13,Secretary of State,,DEM,Brad Avakian,265
+Coos,14,Secretary of State,,DEM,Brad Avakian,277
+Coos,15,Secretary of State,,DEM,Brad Avakian,77
+Coos,16,Secretary of State,,DEM,Brad Avakian,707
+Coos,17,Secretary of State,,DEM,Brad Avakian,625
+Coos,18,Secretary of State,,DEM,Brad Avakian,86
+Coos,01,Secretary of State,,PAC,Alan Zundel,18
+Coos,02,Secretary of State,,PAC,Alan Zundel,29
+Coos,03,Secretary of State,,PAC,Alan Zundel,40
+Coos,04,Secretary of State,,PAC,Alan Zundel,45
+Coos,05,Secretary of State,,PAC,Alan Zundel,53
+Coos,06,Secretary of State,,PAC,Alan Zundel,31
+Coos,07,Secretary of State,,PAC,Alan Zundel,51
+Coos,08,Secretary of State,,PAC,Alan Zundel,74
+Coos,09,Secretary of State,,PAC,Alan Zundel,13
+Coos,10,Secretary of State,,PAC,Alan Zundel,49
+Coos,11,Secretary of State,,PAC,Alan Zundel,37
+Coos,12,Secretary of State,,PAC,Alan Zundel,29
+Coos,13,Secretary of State,,PAC,Alan Zundel,21
+Coos,14,Secretary of State,,PAC,Alan Zundel,22
+Coos,15,Secretary of State,,PAC,Alan Zundel,4
+Coos,16,Secretary of State,,PAC,Alan Zundel,52
+Coos,17,Secretary of State,,PAC,Alan Zundel,61
+Coos,18,Secretary of State,,PAC,Alan Zundel,9
+Coos,01,Secretary of State,,CON,Michael Marsh,13
+Coos,02,Secretary of State,,CON,Michael Marsh,13
+Coos,03,Secretary of State,,CON,Michael Marsh,23
+Coos,04,Secretary of State,,CON,Michael Marsh,23
+Coos,05,Secretary of State,,CON,Michael Marsh,38
+Coos,06,Secretary of State,,CON,Michael Marsh,27
+Coos,07,Secretary of State,,CON,Michael Marsh,34
+Coos,08,Secretary of State,,CON,Michael Marsh,32
+Coos,09,Secretary of State,,CON,Michael Marsh,5
+Coos,10,Secretary of State,,CON,Michael Marsh,15
+Coos,11,Secretary of State,,CON,Michael Marsh,28
+Coos,12,Secretary of State,,CON,Michael Marsh,30
+Coos,13,Secretary of State,,CON,Michael Marsh,16
+Coos,14,Secretary of State,,CON,Michael Marsh,18
+Coos,15,Secretary of State,,CON,Michael Marsh,8
+Coos,16,Secretary of State,,CON,Michael Marsh,20
+Coos,17,Secretary of State,,CON,Michael Marsh,16
+Coos,18,Secretary of State,,CON,Michael Marsh,1
+Coos,01,Secretary of State,,,Write-ins,3
+Coos,02,Secretary of State,,,Write-ins,1
+Coos,03,Secretary of State,,,Write-ins,0
+Coos,04,Secretary of State,,,Write-ins,2
+Coos,05,Secretary of State,,,Write-ins,3
+Coos,06,Secretary of State,,,Write-ins,2
+Coos,07,Secretary of State,,,Write-ins,2
+Coos,08,Secretary of State,,,Write-ins,4
+Coos,09,Secretary of State,,,Write-ins,0
+Coos,10,Secretary of State,,,Write-ins,2
+Coos,11,Secretary of State,,,Write-ins,2
+Coos,12,Secretary of State,,,Write-ins, 1 
+Coos,13,Secretary of State,,,Write-ins,0
+Coos,14,Secretary of State,,,Write-ins,0
+Coos,15,Secretary of State,,,Write-ins,0
+Coos,16,Secretary of State,,,Write-ins,0
+Coos,17,Secretary of State,,,Write-ins,2
+Coos,18,Secretary of State,,,Write-ins,0
+Coos,01,Secretary of State,,,Over Votes,0
+Coos,02,Secretary of State,,,Over Votes,0
+Coos,03,Secretary of State,,,Over Votes,0
+Coos,04,Secretary of State,,,Over Votes,0
+Coos,05,Secretary of State,,,Over Votes,0
+Coos,06,Secretary of State,,,Over Votes,0
+Coos,07,Secretary of State,,,Over Votes,0
+Coos,08,Secretary of State,,,Over Votes,0
+Coos,09,Secretary of State,,,Over Votes,0
+Coos,10,Secretary of State,,,Over Votes,0
+Coos,11,Secretary of State,,,Over Votes,0
+Coos,12,Secretary of State,,,Over Votes,0
+Coos,13,Secretary of State,,,Over Votes,1
+Coos,14,Secretary of State,,,Over Votes,1
+Coos,15,Secretary of State,,,Over Votes,0
+Coos,16,Secretary of State,,,Over Votes,1
+Coos,17,Secretary of State,,,Over Votes,1
+Coos,18,Secretary of State,,,Over Votes,0
+Coos,01,Secretary of State,,,Under Votes,63
+Coos,02,Secretary of State,,,Under Votes,131
+Coos,03,Secretary of State,,,Under Votes,164
+Coos,04,Secretary of State,,,Under Votes,130
+Coos,05,Secretary of State,,,Under Votes,170
+Coos,06,Secretary of State,,,Under Votes,112
+Coos,07,Secretary of State,,,Under Votes,143
+Coos,08,Secretary of State,,,Under Votes,166
+Coos,09,Secretary of State,,,Under Votes,17
+Coos,10,Secretary of State,,,Under Votes,124
+Coos,11,Secretary of State,,,Under Votes,82
+Coos,12,Secretary of State,,,Under Votes,98
+Coos,13,Secretary of State,,,Under Votes,58
+Coos,14,Secretary of State,,,Under Votes,97
+Coos,15,Secretary of State,,,Under Votes,32
+Coos,16,Secretary of State,,,Under Votes,100
+Coos,17,Secretary of State,,,Under Votes,104
+Coos,18,Secretary of State,,,Under Votes,9
+Coos,01,State Treasurer,,PAC,Chris Henry,41
+Coos,02,State Treasurer,,PAC,Chris Henry,78
+Coos,03,State Treasurer,,PAC,Chris Henry,117
+Coos,04,State Treasurer,,PAC,Chris Henry,107
+Coos,05,State Treasurer,,PAC,Chris Henry,140
+Coos,06,State Treasurer,,PAC,Chris Henry,75
+Coos,07,State Treasurer,,PAC,Chris Henry,99
+Coos,08,State Treasurer,,PAC,Chris Henry,145
+Coos,09,State Treasurer,,PAC,Chris Henry,28
+Coos,10,State Treasurer,,PAC,Chris Henry,95
+Coos,11,State Treasurer,,PAC,Chris Henry,63
+Coos,12,State Treasurer,,PAC,Chris Henry,68
+Coos,13,State Treasurer,,PAC,Chris Henry,36
+Coos,14,State Treasurer,,PAC,Chris Henry,48
+Coos,15,State Treasurer,,PAC,Chris Henry,19
+Coos,16,State Treasurer,,PAC,Chris Henry,82
+Coos,17,State Treasurer,,PAC,Chris Henry,99
+Coos,18,State Treasurer,,PAC,Chris Henry,16
+Coos,01,State Treasurer,,DEM,Tobias Read,373
+Coos,02,State Treasurer,,DEM,Tobias Read,704
+Coos,03,State Treasurer,,DEM,Tobias Read,893
+Coos,04,State Treasurer,,DEM,Tobias Read,774
+Coos,05,State Treasurer,,DEM,Tobias Read,1053
+Coos,06,State Treasurer,,DEM,Tobias Read,692
+Coos,07,State Treasurer,,DEM,Tobias Read,799
+Coos,08,State Treasurer,,DEM,Tobias Read,937
+Coos,09,State Treasurer,,DEM,Tobias Read,115
+Coos,10,State Treasurer,,DEM,Tobias Read,642
+Coos,11,State Treasurer,,DEM,Tobias Read,440
+Coos,12,State Treasurer,,DEM,Tobias Read,507
+Coos,13,State Treasurer,,DEM,Tobias Read,290
+Coos,14,State Treasurer,,DEM,Tobias Read,278
+Coos,15,State Treasurer,,DEM,Tobias Read,98
+Coos,16,State Treasurer,,DEM,Tobias Read,716
+Coos,17,State Treasurer,,DEM,Tobias Read,647
+Coos,18,State Treasurer,,DEM,Tobias Read,84
+Coos,01,State Treasurer,,REP,Jeff Gudman,677
+Coos,02,State Treasurer,,REP,Jeff Gudman,1241
+Coos,03,State Treasurer,,REP,Jeff Gudman,1330
+Coos,04,State Treasurer,,REP,Jeff Gudman,838
+Coos,05,State Treasurer,,REP,Jeff Gudman,1306
+Coos,06,State Treasurer,,REP,Jeff Gudman,794
+Coos,07,State Treasurer,,REP,Jeff Gudman,854
+Coos,08,State Treasurer,,REP,Jeff Gudman,1316
+Coos,09,State Treasurer,,REP,Jeff Gudman,142
+Coos,10,State Treasurer,,REP,Jeff Gudman,1137
+Coos,11,State Treasurer,,REP,Jeff Gudman,1003
+Coos,12,State Treasurer,,REP,Jeff Gudman,994
+Coos,13,State Treasurer,,REP,Jeff Gudman,673
+Coos,14,State Treasurer,,REP,Jeff Gudman,898
+Coos,15,State Treasurer,,REP,Jeff Gudman,214
+Coos,16,State Treasurer,,REP,Jeff Gudman,702
+Coos,17,State Treasurer,,REP,Jeff Gudman,1077
+Coos,18,State Treasurer,,REP,Jeff Gudman,182
+Coos,01,State Treasurer,,IPO,Chris Telfer,100
+Coos,02,State Treasurer,,IPO,Chris Telfer,167
+Coos,03,State Treasurer,,IPO,Chris Telfer,209
+Coos,04,State Treasurer,,IPO,Chris Telfer,158
+Coos,05,State Treasurer,,IPO,Chris Telfer,269
+Coos,06,State Treasurer,,IPO,Chris Telfer,152
+Coos,07,State Treasurer,,IPO,Chris Telfer,205
+Coos,08,State Treasurer,,IPO,Chris Telfer,291
+Coos,09,State Treasurer,,IPO,Chris Telfer,33
+Coos,10,State Treasurer,,IPO,Chris Telfer,177
+Coos,11,State Treasurer,,IPO,Chris Telfer,144
+Coos,12,State Treasurer,,IPO,Chris Telfer,147
+Coos,13,State Treasurer,,IPO,Chris Telfer,103
+Coos,14,State Treasurer,,IPO,Chris Telfer,138
+Coos,15,State Treasurer,,IPO,Chris Telfer,38
+Coos,16,State Treasurer,,IPO,Chris Telfer,137
+Coos,17,State Treasurer,,IPO,Chris Telfer,177
+Coos,18,State Treasurer,,IPO,Chris Telfer,28
+Coos,01,State Treasurer,,,Write-ins,1
+Coos,02,State Treasurer,,,Write-ins,0
+Coos,03,State Treasurer,,,Write-ins,2
+Coos,04,State Treasurer,,,Write-ins,4
+Coos,05,State Treasurer,,,Write-ins,2
+Coos,06,State Treasurer,,,Write-ins,0
+Coos,07,State Treasurer,,,Write-ins,3
+Coos,08,State Treasurer,,,Write-ins,7
+Coos,09,State Treasurer,,,Write-ins,1
+Coos,10,State Treasurer,,,Write-ins,1
+Coos,11,State Treasurer,,,Write-ins,3
+Coos,12,State Treasurer,,,Write-ins,2
+Coos,13,State Treasurer,,,Write-ins,1
+Coos,14,State Treasurer,,,Write-ins,0
+Coos,15,State Treasurer,,,Write-ins,0
+Coos,16,State Treasurer,,,Write-ins,0
+Coos,17,State Treasurer,,,Write-ins,0
+Coos,18,State Treasurer,,,Write-ins,0
+Coos,01,State Treasurer,,,Over Votes,0
+Coos,02,State Treasurer,,,Over Votes,0
+Coos,03,State Treasurer,,,Over Votes,0
+Coos,04,State Treasurer,,,Over Votes,0
+Coos,05,State Treasurer,,,Over Votes,0
+Coos,06,State Treasurer,,,Over Votes,0
+Coos,07,State Treasurer,,,Over Votes,0
+Coos,08,State Treasurer,,,Over Votes,0
+Coos,09,State Treasurer,,,Over Votes,0
+Coos,10,State Treasurer,,,Over Votes,0
+Coos,11,State Treasurer,,,Over Votes,2
+Coos,12,State Treasurer,,,Over Votes,0
+Coos,13,State Treasurer,,,Over Votes,0
+Coos,14,State Treasurer,,,Over Votes,1
+Coos,15,State Treasurer,,,Over Votes,0
+Coos,16,State Treasurer,,,Over Votes,0
+Coos,17,State Treasurer,,,Over Votes,0
+Coos,18,State Treasurer,,,Over Votes,0
+Coos,01,State Treasurer,,,Under Votes,90
+Coos,02,State Treasurer,,,Under Votes,165
+Coos,03,State Treasurer,,,Under Votes,206
+Coos,04,State Treasurer,,,Under Votes,162
+Coos,05,State Treasurer,,,Under Votes,208
+Coos,06,State Treasurer,,,Under Votes,165
+Coos,07,State Treasurer,,,Under Votes,183
+Coos,08,State Treasurer,,,Under Votes,190
+Coos,09,State Treasurer,,,Under Votes,16
+Coos,10,State Treasurer,,,Under Votes,157
+Coos,11,State Treasurer,,,Under Votes,112
+Coos,12,State Treasurer,,,Under Votes,123
+Coos,13,State Treasurer,,,Under Votes,69
+Coos,14,State Treasurer,,,Under Votes,119
+Coos,15,State Treasurer,,,Under Votes,47
+Coos,16,State Treasurer,,,Under Votes,130
+Coos,17,State Treasurer,,,Under Votes,128
+Coos,18,State Treasurer,,,Under Votes,10
+Coos,01,Attorney General,,LBT,Lars D H Hedbor,37
+Coos,02,Attorney General,,LBT,Lars D H Hedbor,75
+Coos,03,Attorney General,,LBT,Lars D H Hedbor,106
+Coos,04,Attorney General,,LBT,Lars D H Hedbor,78
+Coos,05,Attorney General,,LBT,Lars D H Hedbor,132
+Coos,06,Attorney General,,LBT,Lars D H Hedbor,60
+Coos,07,Attorney General,,LBT,Lars D H Hedbor,78
+Coos,08,Attorney General,,LBT,Lars D H Hedbor,129
+Coos,09,Attorney General,,LBT,Lars D H Hedbor,15
+Coos,10,Attorney General,,LBT,Lars D H Hedbor,54
+Coos,11,Attorney General,,LBT,Lars D H Hedbor,55
+Coos,12,Attorney General,,LBT,Lars D H Hedbor,46
+Coos,13,Attorney General,,LBT,Lars D H Hedbor,30
+Coos,14,Attorney General,,LBT,Lars D H Hedbor,44
+Coos,15,Attorney General,,LBT,Lars D H Hedbor,15
+Coos,16,Attorney General,,LBT,Lars D H Hedbor,61
+Coos,17,Attorney General,,LBT,Lars D H Hedbor,55
+Coos,18,Attorney General,,LBT,Lars D H Hedbor,10
+Coos,01,Attorney General,,DEM,Ellen Rosenblum,437
+Coos,02,Attorney General,,DEM,Ellen Rosenblum,856
+Coos,03,Attorney General,,DEM,Ellen Rosenblum,1094
+Coos,04,Attorney General,,DEM,Ellen Rosenblum,930
+Coos,05,Attorney General,,DEM,Ellen Rosenblum,1274
+Coos,06,Attorney General,,DEM,Ellen Rosenblum,850
+Coos,07,Attorney General,,DEM,Ellen Rosenblum,1011
+Coos,08,Attorney General,,DEM,Ellen Rosenblum,1158
+Coos,09,Attorney General,,DEM,Ellen Rosenblum,146
+Coos,10,Attorney General,,DEM,Ellen Rosenblum,781
+Coos,11,Attorney General,,DEM,Ellen Rosenblum,532
+Coos,12,Attorney General,,DEM,Ellen Rosenblum,626
+Coos,13,Attorney General,,DEM,Ellen Rosenblum,370
+Coos,14,Attorney General,,DEM,Ellen Rosenblum,347
+Coos,15,Attorney General,,DEM,Ellen Rosenblum,114
+Coos,16,Attorney General,,DEM,Ellen Rosenblum,857
+Coos,17,Attorney General,,DEM,Ellen Rosenblum,792
+Coos,18,Attorney General,,DEM,Ellen Rosenblum,95
+Coos,01,Attorney General,,REP,Daniel Zene Crowe,710
+Coos,02,Attorney General,,REP,Daniel Zene Crowe,1247
+Coos,03,Attorney General,,REP,Daniel Zene Crowe,1341
+Coos,04,Attorney General,,REP,Daniel Zene Crowe,859
+Coos,05,Attorney General,,REP,Daniel Zene Crowe,1372
+Coos,06,Attorney General,,REP,Daniel Zene Crowe,806
+Coos,07,Attorney General,,REP,Daniel Zene Crowe,883
+Coos,08,Attorney General,,REP,Daniel Zene Crowe,1399
+Coos,09,Attorney General,,REP,Daniel Zene Crowe,149
+Coos,10,Attorney General,,REP,Daniel Zene Crowe,1192
+Coos,11,Attorney General,,REP,Daniel Zene Crowe,1054
+Coos,12,Attorney General,,REP,Daniel Zene Crowe,1033
+Coos,13,Attorney General,,REP,Daniel Zene Crowe,700
+Coos,14,Attorney General,,REP,Daniel Zene Crowe,964
+Coos,15,Attorney General,,REP,Daniel Zene Crowe,243
+Coos,16,Attorney General,,REP,Daniel Zene Crowe,717
+Coos,17,Attorney General,,REP,Daniel Zene Crowe,1142
+Coos,18,Attorney General,,REP,Daniel Zene Crowe,198
+Coos,01,Attorney General,,,Write-ins,4
+Coos,02,Attorney General,,,Write-ins,0
+Coos,03,Attorney General,,,Write-ins,1
+Coos,04,Attorney General,,,Write-ins,1
+Coos,05,Attorney General,,,Write-ins,5
+Coos,06,Attorney General,,,Write-ins,3
+Coos,07,Attorney General,,,Write-ins,3
+Coos,08,Attorney General,,,Write-ins,5
+Coos,09,Attorney General,,,Write-ins,0
+Coos,10,Attorney General,,,Write-ins,4
+Coos,11,Attorney General,,,Write-ins,3
+Coos,12,Attorney General,,,Write-ins,3
+Coos,13,Attorney General,,,Write-ins,1
+Coos,14,Attorney General,,,Write-ins,0
+Coos,15,Attorney General,,,Write-ins,0
+Coos,16,Attorney General,,,Write-ins,2
+Coos,17,Attorney General,,,Write-ins,1
+Coos,18,Attorney General,,,Write-ins,0
+Coos,01,Attorney General,,,Over Votes,0
+Coos,02,Attorney General,,,Over Votes,0
+Coos,03,Attorney General,,,Over Votes,0
+Coos,04,Attorney General,,,Over Votes,0
+Coos,05,Attorney General,,,Over Votes,0
+Coos,06,Attorney General,,,Over Votes,0
+Coos,07,Attorney General,,,Over Votes,0
+Coos,08,Attorney General,,,Over Votes,0
+Coos,09,Attorney General,,,Over Votes,0
+Coos,10,Attorney General,,,Over Votes,0
+Coos,11,Attorney General,,,Over Votes,1
+Coos,12,Attorney General,,,Over Votes,0
+Coos,13,Attorney General,,,Over Votes,0
+Coos,14,Attorney General,,,Over Votes,0
+Coos,15,Attorney General,,,Over Votes,0
+Coos,16,Attorney General,,,Over Votes,0
+Coos,17,Attorney General,,,Over Votes,0
+Coos,18,Attorney General,,,Over Votes,0
+Coos,01,Attorney General,,,Under Votes,94
+Coos,02,Attorney General,,,Under Votes,177
+Coos,03,Attorney General,,,Under Votes,215
+Coos,04,Attorney General,,,Under Votes,175
+Coos,05,Attorney General,,,Under Votes,195
+Coos,06,Attorney General,,,Under Votes,159
+Coos,07,Attorney General,,,Under Votes,168
+Coos,08,Attorney General,,,Under Votes,195
+Coos,09,Attorney General,,,Under Votes,25
+Coos,10,Attorney General,,,Under Votes,178
+Coos,11,Attorney General,,,Under Votes,122
+Coos,12,Attorney General,,,Under Votes,133
+Coos,13,Attorney General,,,Under Votes,71
+Coos,14,Attorney General,,,Under Votes,127
+Coos,15,Attorney General,,,Under Votes,44
+Coos,16,Attorney General,,,Under Votes,130
+Coos,17,Attorney General,,,Under Votes,138
+Coos,18,Attorney General,,,Under Votes,17
+Coos,09,State Senate,1,DEM,Timm Rolek,124
+Coos,10,State Senate,1,DEM,Timm Rolek,557
+Coos,11,State Senate,1,DEM,Timm Rolek,393
+Coos,12,State Senate,1,DEM,Timm Rolek,463
+Coos,13,State Senate,1,DEM,Timm Rolek,245
+Coos,14,State Senate,1,DEM,Timm Rolek,244
+Coos,15,State Senate,1,DEM,Timm Rolek,84
+Coos,16,State Senate,1,DEM,Timm Rolek,723
+Coos,17,State Senate,1,DEM,Timm Rolek,647
+Coos,18,State Senate,1,DEM,Timm Rolek,77
+Coos,09,State Senate,1,REP,Jeff Kruse,182
+Coos,10,State Senate,1,REP,Jeff Kruse,1477
+Coos,11,State Senate,1,REP,Jeff Kruse,1248
+Coos,12,State Senate,1,REP,Jeff Kruse,1246
+Coos,13,State Senate,1,REP,Jeff Kruse,850
+Coos,14,State Senate,1,REP,Jeff Kruse,1126
+Coos,15,State Senate,1,REP,Jeff Kruse,294
+Coos,16,State Senate,1,REP,Jeff Kruse,895
+Coos,17,State Senate,1,REP,Jeff Kruse,1338
+Coos,18,State Senate,1,REP,Jeff Kruse,229
+Coos,09,State Senate,1,,Write-ins,0
+Coos,10,State Senate,1,,Write-ins,4
+Coos,11,State Senate,1,,Write-ins,8
+Coos,12,State Senate,1,,Write-ins,3
+Coos,13,State Senate,1,,Write-ins,2
+Coos,14,State Senate,1,,Write-ins,0
+Coos,15,State Senate,1,,Write-ins,0
+Coos,16,State Senate,1,,Write-ins,2
+Coos,17,State Senate,1,,Write-ins,3
+Coos,18,State Senate,1,,Write-ins,1
+Coos,09,State Senate,1,,Over Votes,0
+Coos,10,State Senate,1,,Over Votes,0
+Coos,11,State Senate,1,,Over Votes,0
+Coos,12,State Senate,1,,Over Votes,0
+Coos,13,State Senate,1,,Over Votes,0
+Coos,14,State Senate,1,,Over Votes,0
+Coos,15,State Senate,1,,Over Votes,0
+Coos,16,State Senate,1,,Over Votes,0
+Coos,17,State Senate,1,,Over Votes,0
+Coos,18,State Senate,1,,Over Votes,0
+Coos,09,State Senate,1,,Under Votes,29
+Coos,10,State Senate,1,,Under Votes,171
+Coos,11,State Senate,1,,Under Votes,118
+Coos,12,State Senate,1,,Under Votes,129
+Coos,13,State Senate,1,,Under Votes,75
+Coos,14,State Senate,1,,Under Votes,112
+Coos,15,State Senate,1,,Under Votes,38
+Coos,16,State Senate,1,,Under Votes,147
+Coos,17,State Senate,1,,Under Votes,140
+Coos,18,State Senate,1,,Under Votes,13
+Coos,01,State Senate,5,DEM,Arnie Roblan,449
+Coos,02,State Senate,5,DEM,Arnie Roblan,904
+Coos,03,State Senate,5,DEM,Arnie Roblan,1161
+Coos,04,State Senate,5,DEM,Arnie Roblan,984
+Coos,05,State Senate,5,DEM,Arnie Roblan,1317
+Coos,06,State Senate,5,DEM,Arnie Roblan,918
+Coos,07,State Senate,5,DEM,Arnie Roblan,1053
+Coos,08,State Senate,5,DEM,Arnie Roblan,1209
+Coos,01,State Senate,5,REP,Dick Anderson,714
+Coos,02,State Senate,5,REP,Dick Anderson,1269
+Coos,03,State Senate,5,REP,Dick Anderson,1358
+Coos,04,State Senate,5,REP,Dick Anderson,876
+Coos,05,State Senate,5,REP,Dick Anderson,1401
+Coos,06,State Senate,5,REP,Dick Anderson,800
+Coos,07,State Senate,5,REP,Dick Anderson,901
+Coos,08,State Senate,5,REP,Dick Anderson,1444
+Coos,01,State Senate,5,LBT,Dan Souza,48
+Coos,02,State Senate,5,LBT,Dan Souza,70
+Coos,03,State Senate,5,LBT,Dan Souza,109
+Coos,04,State Senate,5,LBT,Dan Souza,69
+Coos,05,State Senate,5,LBT,Dan Souza,128
+Coos,06,State Senate,5,LBT,Dan Souza,68
+Coos,07,State Senate,5,LBT,Dan Souza,83
+Coos,08,State Senate,5,LBT,Dan Souza,98
+Coos,01,State Senate,5,,Write-ins,2
+Coos,02,State Senate,5,,Write-ins,0
+Coos,03,State Senate,5,,Write-ins,4
+Coos,04,State Senate,5,,Write-ins,3
+Coos,05,State Senate,5,,Write-ins,9
+Coos,06,State Senate,5,,Write-ins,4
+Coos,07,State Senate,5,,Write-ins,3
+Coos,08,State Senate,5,,Write-ins,5
+Coos,01,State Senate,5,,Over Votes,0
+Coos,02,State Senate,5,,Over Votes,1
+Coos,03,State Senate,5,,Over Votes,0
+Coos,04,State Senate,5,,Over Votes,2
+Coos,05,State Senate,5,,Over Votes,0
+Coos,06,State Senate,5,,Over Votes,0
+Coos,07,State Senate,5,,Over Votes,0
+Coos,08,State Senate,5,,Over Votes,0
+Coos,01,State Senate,5,,Under Votes,69
+Coos,02,State Senate,5,,Under Votes,111
+Coos,03,State Senate,5,,Under Votes,125
+Coos,04,State Senate,5,,Under Votes,109
+Coos,05,State Senate,5,,Under Votes,123
+Coos,06,State Senate,5,,Under Votes,88
+Coos,07,State Senate,5,,Under Votes,103
+Coos,08,State Senate,5,,Under Votes,130
+Coos,09,State House,1,DEM,Terry Brayer,124
+Coos,10,State House,1,DEM,Terry Brayer,608
+Coos,11,State House,1,DEM,Terry Brayer,450
+Coos,12,State House,1,DEM,Terry Brayer,479
+Coos,13,State House,1,DEM,Terry Brayer,287
+Coos,14,State House,1,DEM,Terry Brayer,259
+Coos,15,State House,1,DEM,Terry Brayer,88
+Coos,16,State House,1,DEM,Terry Brayer,698
+Coos,17,State House,1,DEM,Terry Brayer,670
+Coos,18,State House,1,DEM,Terry Brayer,79
+Coos,09,State House,1,LBT,Tamie Kaufman,26
+Coos,10,State House,1,LBT,Tamie Kaufman,164
+Coos,11,State House,1,LBT,Tamie Kaufman,105
+Coos,12,State House,1,LBT,Tamie Kaufman,143
+Coos,13,State House,1,LBT,Tamie Kaufman,61
+Coos,14,State House,1,LBT,Tamie Kaufman,85
+Coos,15,State House,1,LBT,Tamie Kaufman,33
+Coos,16,State House,1,LBT,Tamie Kaufman,126
+Coos,17,State House,1,LBT,Tamie Kaufman,129
+Coos,18,State House,1,LBT,Tamie Kaufman,24
+Coos,09,State House,1,REP,David Brock Smith,147
+Coos,10,State House,1,REP,David Brock Smith,1215
+Coos,11,State House,1,REP,David Brock Smith,1064
+Coos,12,State House,1,REP,David Brock Smith,1048
+Coos,13,State House,1,REP,David Brock Smith,737
+Coos,14,State House,1,REP,David Brock Smith,992
+Coos,15,State House,1,REP,David Brock Smith,255
+Coos,16,State House,1,REP,David Brock Smith,778
+Coos,17,State House,1,REP,David Brock Smith,1169
+Coos,18,State House,1,REP,David Brock Smith,203
+Coos,09,State House,1,,Write-ins,0
+Coos,10,State House,1,,Write-ins,0
+Coos,11,State House,1,,Write-ins,3
+Coos,12,State House,1,,Write-ins,1
+Coos,13,State House,1,,Write-ins,2
+Coos,14,State House,1,,Write-ins,0
+Coos,15,State House,1,,Write-ins,2
+Coos,16,State House,1,,Write-ins,1
+Coos,17,State House,1,,Write-ins,1
+Coos,18,State House,1,,Write-ins,1
+Coos,09,State House,1,,Over Votes,0
+Coos,10,State House,1,,Over Votes,0
+Coos,11,State House,1,,Over Votes,0
+Coos,12,State House,1,,Over Votes,0
+Coos,13,State House,1,,Over Votes,0
+Coos,14,State House,1,,Over Votes,1
+Coos,15,State House,1,,Over Votes,0
+Coos,16,State House,1,,Over Votes,0
+Coos,17,State House,1,,Over Votes,1
+Coos,18,State House,1,,Over Votes,0
+Coos,09,State House,1,,Under Votes,38
+Coos,10,State House,1,,Under Votes,222
+Coos,11,State House,1,,Under Votes,145
+Coos,12,State House,1,,Under Votes,170
+Coos,13,State House,1,,Under Votes,85
+Coos,14,State House,1,,Under Votes,145
+Coos,15,State House,1,,Under Votes,38
+Coos,16,State House,1,,Under Votes,164
+Coos,17,State House,1,,Under Votes,158
+Coos,18,State House,1,,Under Votes,13
+Coos,01,State House,9,LBT,Guy Rosinbaum,42
+Coos,02,State House,9,LBT,Guy Rosinbaum,60
+Coos,03,State House,9,LBT,Guy Rosinbaum,97
+Coos,04,State House,9,LBT,Guy Rosinbaum,69
+Coos,05,State House,9,LBT,Guy Rosinbaum,119
+Coos,06,State House,9,LBT,Guy Rosinbaum,60
+Coos,07,State House,9,LBT,Guy Rosinbaum,84
+Coos,08,State House,9,LBT,Guy Rosinbaum,107
+Coos,01,State House,9,REP,Teri Grier,685
+Coos,02,State House,9,REP,Teri Grier,1159
+Coos,03,State House,9,REP,Teri Grier,1279
+Coos,04,State House,9,REP,Teri Grier,785
+Coos,05,State House,9,REP,Teri Grier,1317
+Coos,06,State House,9,REP,Teri Grier,718
+Coos,07,State House,9,REP,Teri Grier,803
+Coos,08,State House,9,REP,Teri Grier,1389
+Coos,01,State House,9,DEM,Caddy McKeown,480
+Coos,02,State House,9,DEM,Caddy McKeown,1017
+Coos,03,State House,9,DEM,Caddy McKeown,1236
+Coos,04,State House,9,DEM,Caddy McKeown,1069
+Coos,05,State House,9,DEM,Caddy McKeown,1383
+Coos,06,State House,9,DEM,Caddy McKeown,1005
+Coos,07,State House,9,DEM,Caddy McKeown,1149
+Coos,08,State House,9,DEM,Caddy McKeown,1233
+Coos,01,State House,9,,Write-ins,2
+Coos,02,State House,9,,Write-ins,0
+Coos,03,State House,9,,Write-ins,2
+Coos,04,State House,9,,Write-ins,4
+Coos,05,State House,9,,Write-ins,3
+Coos,06,State House,9,,Write-ins,2
+Coos,07,State House,9,,Write-ins,5
+Coos,08,State House,9,,Write-ins,6
+Coos,01,State House,9,,Over Votes,0
+Coos,02,State House,9,,Over Votes,0
+Coos,03,State House,9,,Over Votes,0
+Coos,04,State House,9,,Over Votes,1
+Coos,05,State House,9,,Over Votes,0
+Coos,06,State House,9,,Over Votes,0
+Coos,07,State House,9,,Over Votes,0
+Coos,08,State House,9,,Over Votes,0
+Coos,01,State House,9,,Under Votes,73
+Coos,02,State House,9,,Under Votes,119
+Coos,03,State House,9,,Under Votes,143
+Coos,04,State House,9,,Under Votes,115
+Coos,05,State House,9,,Under Votes,156
+Coos,06,State House,9,,Under Votes,93
+Coos,07,State House,9,,Under Votes,102
+Coos,08,State House,9,,Under Votes,151

@@ -1,0 +1,916 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson,1,U.S. Senate,,IND,Steven C Reynolds,31
+Jefferson,1,President,,REP,Donald J Trump / Mike Pence,724
+Jefferson,1,U.S. House,2,REP,Greg Walden,799
+Jefferson,1,President,,DEM,Hillary Clinton / Tim Kaine,188
+Jefferson,1,U.S. House,2,DEM,James (Jim) Crary,137
+Jefferson,1,U.S. Senate,,DEM,Ron Wyden,391
+Jefferson,1,President,,PGP,Jill Stein / Ajamu Baraka,13
+Jefferson,1,U.S. Senate,,REP,Mark Callahan,518
+Jefferson,1,President,,LBT,Gary Johnson / Bill Weld,35
+Jefferson,1,U.S. Senate,,PGP,Eric Navickas,7
+Jefferson,1,U.S. Senate,,LBT,Jim Lindsay,12
+Jefferson,1,U.S. Senate,,WFP,Shanti S Lewallen,13
+Jefferson,1,U.S. Senate,,,Write-ins,1
+Jefferson,1,U.S. House,2,,Write-ins,5
+Jefferson,1,President,,,Write-ins,24
+Jefferson,2,U.S. Senate,,IND,Steven C Reynolds,96
+Jefferson,2,President,,REP,Donald J Trump / Mike Pence,1662
+Jefferson,2,U.S. House,2,REP,Greg Walden,1941
+Jefferson,2,President,,DEM,Hillary Clinton / Tim Kaine,726
+Jefferson,2,U.S. House,2,DEM,James (Jim) Crary,546
+Jefferson,2,U.S. Senate,,DEM,Ron Wyden,1117
+Jefferson,2,President,,PGP,Jill Stein / Ajamu Baraka,23
+Jefferson,2,U.S. Senate,,REP,Mark Callahan,1237
+Jefferson,2,President,,LBT,Gary Johnson / Bill Weld,105
+Jefferson,2,U.S. Senate,,PGP,Eric Navickas,17
+Jefferson,2,U.S. Senate,,LBT,Jim Lindsay,23
+Jefferson,2,U.S. Senate,,WFP,Shanti S Lewallen,46
+Jefferson,2,U.S. Senate,,,Write-ins,1
+Jefferson,2,U.S. House,2,,Write-ins,13
+Jefferson,2,President,,,Write-ins,60
+Jefferson,5,U.S. Senate,,IND,Steven C Reynolds,2
+Jefferson,5,President,,REP,Donald J Trump / Mike Pence,32
+Jefferson,5,U.S. House,2,REP,Greg Walden,38
+Jefferson,5,President,,DEM,Hillary Clinton / Tim Kaine,6
+Jefferson,5,U.S. House,2,DEM,James (Jim) Crary,6
+Jefferson,5,U.S. Senate,,DEM,Ron Wyden,22
+Jefferson,5,President,,PGP,Jill Stein / Ajamu Baraka,1
+Jefferson,5,U.S. Senate,,REP,Mark Callahan,19
+Jefferson,5,President,,LBT,Gary Johnson / Bill Weld,3
+Jefferson,5,U.S. Senate,,PGP,Eric Navickas,0
+Jefferson,5,U.S. Senate,,LBT,Jim Lindsay,0
+Jefferson,5,U.S. Senate,,WFP,Shanti S Lewallen,1
+Jefferson,5,U.S. Senate,,,Write-ins,0
+Jefferson,5,U.S. House,2,,Write-ins,0
+Jefferson,5,President,,,Write-ins,1
+Jefferson,6,U.S. Senate,,IND,Steven C Reynolds,10
+Jefferson,6,President,,REP,Donald J Trump / Mike Pence,178
+Jefferson,6,U.S. House,2,REP,Greg Walden,225
+Jefferson,6,President,,DEM,Hillary Clinton / Tim Kaine,83
+Jefferson,6,U.S. House,2,DEM,James (Jim) Crary,65
+Jefferson,6,U.S. Senate,,DEM,Ron Wyden,130
+Jefferson,6,President,,PGP,Jill Stein / Ajamu Baraka,5
+Jefferson,6,U.S. Senate,,REP,Mark Callahan,143
+Jefferson,6,President,,LBT,Gary Johnson / Bill Weld,23
+Jefferson,6,U.S. Senate,,PGP,Eric Navickas,2
+Jefferson,6,U.S. Senate,,LBT,Jim Lindsay,8
+Jefferson,6,U.S. Senate,,WFP,Shanti S Lewallen,3
+Jefferson,6,U.S. Senate,,,Write-ins,0
+Jefferson,6,U.S. House,2,,Write-ins,0
+Jefferson,6,President,,,Write-ins,9
+Jefferson,8,U.S. Senate,,IND,Steven C Reynolds,7
+Jefferson,8,President,,REP,Donald J Trump / Mike Pence,69
+Jefferson,8,U.S. House,2,REP,Greg Walden,79
+Jefferson,8,President,,DEM,Hillary Clinton / Tim Kaine,26
+Jefferson,8,U.S. House,2,DEM,James (Jim) Crary,22
+Jefferson,8,U.S. Senate,,DEM,Ron Wyden,45
+Jefferson,8,President,,PGP,Jill Stein / Ajamu Baraka,1
+Jefferson,8,U.S. Senate,,REP,Mark Callahan,48
+Jefferson,8,President,,LBT,Gary Johnson / Bill Weld,4
+Jefferson,8,U.S. Senate,,PGP,Eric Navickas,0
+Jefferson,8,U.S. Senate,,LBT,Jim Lindsay,0
+Jefferson,8,U.S. Senate,,WFP,Shanti S Lewallen,1
+Jefferson,8,U.S. Senate,,,Write-ins,0
+Jefferson,8,U.S. House,2,,Write-ins,0
+Jefferson,8,President,,,Write-ins,3
+Jefferson,11,U.S. Senate,,IND,Steven C Reynolds,12
+Jefferson,11,President,,REP,Donald J Trump / Mike Pence,171
+Jefferson,11,U.S. House,2,REP,Greg Walden,217
+Jefferson,11,President,,DEM,Hillary Clinton / Tim Kaine,101
+Jefferson,11,U.S. House,2,DEM,James (Jim) Crary,79
+Jefferson,11,U.S. Senate,,DEM,Ron Wyden,158
+Jefferson,11,President,,PGP,Jill Stein / Ajamu Baraka,5
+Jefferson,11,U.S. Senate,,REP,Mark Callahan,121
+Jefferson,11,President,,LBT,Gary Johnson / Bill Weld,19
+Jefferson,11,U.S. Senate,,PGP,Eric Navickas,3
+Jefferson,11,U.S. Senate,,LBT,Jim Lindsay,4
+Jefferson,11,U.S. Senate,,WFP,Shanti S Lewallen,7
+Jefferson,11,U.S. Senate,,,Write-ins,0
+Jefferson,11,U.S. House,2,,Write-ins,2
+Jefferson,11,President,,,Write-ins,11
+Jefferson,13,U.S. Senate,,IND,Steven C Reynolds,44
+Jefferson,13,President,,REP,Donald J Trump / Mike Pence,664
+Jefferson,13,U.S. House,2,REP,Greg Walden,854
+Jefferson,13,President,,DEM,Hillary Clinton / Tim Kaine,427
+Jefferson,13,U.S. House,2,DEM,James (Jim) Crary,354
+Jefferson,13,U.S. Senate,,DEM,Ron Wyden,647
+Jefferson,13,President,,PGP,Jill Stein / Ajamu Baraka,37
+Jefferson,13,U.S. Senate,,REP,Mark Callahan,456
+Jefferson,13,President,,LBT,Gary Johnson / Bill Weld,79
+Jefferson,13,U.S. Senate,,PGP,Eric Navickas,24
+Jefferson,13,U.S. Senate,,LBT,Jim Lindsay,19
+Jefferson,13,U.S. Senate,,WFP,Shanti S Lewallen,50
+Jefferson,13,U.S. Senate,,,Write-ins,1
+Jefferson,13,U.S. House,2,,Write-ins,6
+Jefferson,13,President,,,Write-ins,61
+Jefferson,14,U.S. Senate,,IND,Steven C Reynolds,19
+Jefferson,14,President,,REP,Donald J Trump / Mike Pence,66
+Jefferson,14,U.S. House,2,REP,Greg Walden,257
+Jefferson,14,President,,DEM,Hillary Clinton / Tim Kaine,360
+Jefferson,14,U.S. House,2,DEM,James (Jim) Crary,242
+Jefferson,14,U.S. Senate,,DEM,Ron Wyden,391
+Jefferson,14,President,,PGP,Jill Stein / Ajamu Baraka,21
+Jefferson,14,U.S. Senate,,REP,Mark Callahan,48
+Jefferson,14,President,,LBT,Gary Johnson / Bill Weld,28
+Jefferson,14,U.S. Senate,,PGP,Eric Navickas,9
+Jefferson,14,U.S. Senate,,LBT,Jim Lindsay,5
+Jefferson,14,U.S. Senate,,WFP,Shanti S Lewallen,49
+Jefferson,14,U.S. Senate,,,Write-ins,0
+Jefferson,14,U.S. House,2,,Write-ins,0
+Jefferson,14,President,,,Write-ins,55
+Jefferson,16,U.S. Senate,,IND,Steven C Reynolds,2
+Jefferson,16,President,,REP,Donald J Trump / Mike Pence,57
+Jefferson,16,U.S. House,2,REP,Greg Walden,103
+Jefferson,16,President,,DEM,Hillary Clinton / Tim Kaine,126
+Jefferson,16,U.S. House,2,DEM,James (Jim) Crary,97
+Jefferson,16,U.S. Senate,,DEM,Ron Wyden,131
+Jefferson,16,President,,PGP,Jill Stein / Ajamu Baraka,9
+Jefferson,16,U.S. Senate,,REP,Mark Callahan,65
+Jefferson,16,President,,LBT,Gary Johnson / Bill Weld,14
+Jefferson,16,U.S. Senate,,PGP,Eric Navickas,7
+Jefferson,16,U.S. Senate,,LBT,Jim Lindsay,0
+Jefferson,16,U.S. Senate,,WFP,Shanti S Lewallen,5
+Jefferson,16,U.S. Senate,,,Write-ins,0
+Jefferson,16,U.S. House,2,,Write-ins,1
+Jefferson,16,President,,,Write-ins,6
+Jefferson,17,U.S. Senate,,IND,Steven C Reynolds,23
+Jefferson,17,President,,REP,Donald J Trump / Mike Pence,303
+Jefferson,17,U.S. House,2,REP,Greg Walden,377
+Jefferson,17,President,,DEM,Hillary Clinton / Tim Kaine,156
+Jefferson,17,U.S. House,2,DEM,James (Jim) Crary,114
+Jefferson,17,U.S. Senate,,DEM,Ron Wyden,238
+Jefferson,17,President,,PGP,Jill Stein / Ajamu Baraka,9
+Jefferson,17,U.S. Senate,,REP,Mark Callahan,204
+Jefferson,17,President,,LBT,Gary Johnson / Bill Weld,24
+Jefferson,17,U.S. Senate,,PGP,Eric Navickas,7
+Jefferson,17,U.S. Senate,,LBT,Jim Lindsay,9
+Jefferson,17,U.S. Senate,,WFP,Shanti S Lewallen,16
+Jefferson,17,U.S. Senate,,,Write-ins,0
+Jefferson,17,U.S. House,2,,Write-ins,1
+Jefferson,17,President,,,Write-ins,19
+Jefferson,18,U.S. Senate,,IND,Steven C Reynolds,12
+Jefferson,18,President,,REP,Donald J Trump / Mike Pence,238
+Jefferson,18,U.S. House,2,REP,Greg Walden,286
+Jefferson,18,President,,DEM,Hillary Clinton / Tim Kaine,71
+Jefferson,18,U.S. House,2,DEM,James (Jim) Crary,52
+Jefferson,18,U.S. Senate,,DEM,Ron Wyden,128
+Jefferson,18,President,,PGP,Jill Stein / Ajamu Baraka,5
+Jefferson,18,U.S. Senate,,REP,Mark Callahan,185
+Jefferson,18,President,,LBT,Gary Johnson / Bill Weld,23
+Jefferson,18,U.S. Senate,,PGP,Eric Navickas,1
+Jefferson,18,U.S. Senate,,LBT,Jim Lindsay,9
+Jefferson,18,U.S. Senate,,WFP,Shanti S Lewallen,7
+Jefferson,18,U.S. Senate,,,Write-ins,0
+Jefferson,18,U.S. House,2,,Write-ins,0
+Jefferson,18,President,,,Write-ins,10
+Jefferson,19,U.S. Senate,,IND,Steven C Reynolds,49
+Jefferson,19,President,,REP,Donald J Trump / Mike Pence,386
+Jefferson,19,U.S. House,2,REP,Greg Walden,518
+Jefferson,19,President,,DEM,Hillary Clinton / Tim Kaine,293
+Jefferson,19,U.S. House,2,DEM,James (Jim) Crary,235
+Jefferson,19,U.S. Senate,,DEM,Ron Wyden,406
+Jefferson,19,President,,PGP,Jill Stein / Ajamu Baraka,30
+Jefferson,19,U.S. Senate,,REP,Mark Callahan,258
+Jefferson,19,President,,LBT,Gary Johnson / Bill Weld,57
+Jefferson,19,U.S. Senate,,PGP,Eric Navickas,15
+Jefferson,19,U.S. Senate,,LBT,Jim Lindsay,9
+Jefferson,19,U.S. Senate,,WFP,Shanti S Lewallen,37
+Jefferson,19,U.S. Senate,,,Write-ins,0
+Jefferson,19,U.S. House,2,,Write-ins,1
+Jefferson,19,President,,,Write-ins,24
+Jefferson,20,U.S. Senate,,IND,Steven C Reynolds,9
+Jefferson,20,President,,REP,Donald J Trump / Mike Pence,84
+Jefferson,20,U.S. House,2,REP,Greg Walden,99
+Jefferson,20,President,,DEM,Hillary Clinton / Tim Kaine,48
+Jefferson,20,U.S. House,2,DEM,James (Jim) Crary,38
+Jefferson,20,U.S. Senate,,DEM,Ron Wyden,68
+Jefferson,20,President,,PGP,Jill Stein / Ajamu Baraka,5
+Jefferson,20,U.S. Senate,,REP,Mark Callahan,63
+Jefferson,20,President,,LBT,Gary Johnson / Bill Weld,11
+Jefferson,20,U.S. Senate,,PGP,Eric Navickas,3
+Jefferson,20,U.S. Senate,,LBT,Jim Lindsay,2
+Jefferson,20,U.S. Senate,,WFP,Shanti S Lewallen,1
+Jefferson,20,U.S. Senate,,,Write-ins,0
+Jefferson,20,U.S. House,2,,Write-ins,0
+Jefferson,20,President,,,Write-ins,2
+Jefferson,21,U.S. Senate,,IND,Steven C Reynolds,21
+Jefferson,21,President,,REP,Donald J Trump / Mike Pence,435
+Jefferson,21,U.S. House,2,REP,Greg Walden,593
+Jefferson,21,President,,DEM,Hillary Clinton / Tim Kaine,250
+Jefferson,21,U.S. House,2,DEM,James (Jim) Crary,149
+Jefferson,21,U.S. Senate,,DEM,Ron Wyden,404
+Jefferson,21,President,,PGP,Jill Stein / Ajamu Baraka,11
+Jefferson,21,U.S. Senate,,REP,Mark Callahan,310
+Jefferson,21,President,,LBT,Gary Johnson / Bill Weld,45
+Jefferson,21,U.S. Senate,,PGP,Eric Navickas,7
+Jefferson,21,U.S. Senate,,LBT,Jim Lindsay,12
+Jefferson,21,U.S. Senate,,WFP,Shanti S Lewallen,8
+Jefferson,21,U.S. Senate,,,Write-ins,0
+Jefferson,21,U.S. House,2,,Write-ins,2
+Jefferson,21,President,,,Write-ins,22
+Jefferson,22,U.S. Senate,,IND,Steven C Reynolds,17
+Jefferson,22,President,,REP,Donald J Trump / Mike Pence,414
+Jefferson,22,U.S. House,2,REP,Greg Walden,470
+Jefferson,22,President,,DEM,Hillary Clinton / Tim Kaine,119
+Jefferson,22,U.S. House,2,DEM,James (Jim) Crary,87
+Jefferson,22,U.S. Senate,,DEM,Ron Wyden,241
+Jefferson,22,President,,PGP,Jill Stein / Ajamu Baraka,7
+Jefferson,22,U.S. Senate,,REP,Mark Callahan,292
+Jefferson,22,President,,LBT,Gary Johnson / Bill Weld,23
+Jefferson,22,U.S. Senate,,PGP,Eric Navickas,3
+Jefferson,22,U.S. Senate,,LBT,Jim Lindsay,9
+Jefferson,22,U.S. Senate,,WFP,Shanti S Lewallen,8
+Jefferson,22,U.S. Senate,,,Write-ins,0
+Jefferson,22,U.S. House,2,,Write-ins,0
+Jefferson,22,President,,,Write-ins,14
+Jefferson,1,Governor,,LBT,James Foster,18
+Jefferson,1,Attorney General,,LBT,Lars D H Hedbor,30
+Jefferson,1,Secretary of State,,LBT,Sharon L Durbin,20
+Jefferson,1,State Treasurer,,PRO,Chris Henry,18
+Jefferson,1,Attorney General,,DEM,Ellen Rosenblum,219
+Jefferson,1,Governor,,DEM,Kate Brown,219
+Jefferson,1,State Treasurer,,DEM,Tobias Read,160
+Jefferson,1,Secretary of State,,REP,Dennis Richardson,711
+Jefferson,1,Governor,,IND,Cliff Thomason,16
+Jefferson,1,Secretary of State,,IND,Paul Damian Wells,35
+Jefferson,1,Attorney General,,REP,Daniel Zene Crowe,647
+Jefferson,1,State Treasurer,,REP,Jeff Gudman,585
+Jefferson,1,Governor,,CON,Aaron Donald Auer,9
+Jefferson,1,Secretary of State,,DEM,Brad Avakian,162
+Jefferson,1,State Treasurer,,IND,Chris Telfer,159
+Jefferson,1,Secretary of State,,PGP,Alan Zundel,7
+Jefferson,1,Governor,,REP,Bud Pierce,708
+Jefferson,1,Secretary of State,,CON,Michael Marsh,12
+Jefferson,1,Secretary of State,,,Write-ins,0
+Jefferson,1,State Treasurer,,,Write-ins,1
+Jefferson,1,Attorney General,,,Write-ins,1
+Jefferson,1,Governor,,,Write-ins,2
+Jefferson,2,Governor,,LBT,James Foster,40
+Jefferson,2,Attorney General,,LBT,Lars D H Hedbor,52
+Jefferson,2,Secretary of State,,LBT,Sharon L Durbin,43
+Jefferson,2,State Treasurer,,PRO,Chris Henry,56
+Jefferson,2,Attorney General,,DEM,Ellen Rosenblum,812
+Jefferson,2,Governor,,DEM,Kate Brown,763
+Jefferson,2,State Treasurer,,DEM,Tobias Read,611
+Jefferson,2,Secretary of State,,REP,Dennis Richardson,1647
+Jefferson,2,Governor,,IND,Cliff Thomason,71
+Jefferson,2,Secretary of State,,IND,Paul Damian Wells,85
+Jefferson,2,Attorney General,,REP,Daniel Zene Crowe,1527
+Jefferson,2,State Treasurer,,REP,Jeff Gudman,1360
+Jefferson,2,Governor,,CON,Aaron Donald Auer,35
+Jefferson,2,Secretary of State,,DEM,Brad Avakian,647
+Jefferson,2,State Treasurer,,IND,Chris Telfer,407
+Jefferson,2,Secretary of State,,PGP,Alan Zundel,21
+Jefferson,2,Governor,,REP,Bud Pierce,1612
+Jefferson,2,Secretary of State,,CON,Michael Marsh,29
+Jefferson,2,Secretary of State,,,Write-ins,2
+Jefferson,2,State Treasurer,,,Write-ins,3
+Jefferson,2,Attorney General,,,Write-ins,3
+Jefferson,2,Governor,,,Write-ins,5
+Jefferson,5,Governor,,LBT,James Foster,0
+Jefferson,5,Attorney General,,LBT,Lars D H Hedbor,2
+Jefferson,5,Secretary of State,,LBT,Sharon L Durbin,4
+Jefferson,5,State Treasurer,,PRO,Chris Henry,0
+Jefferson,5,Attorney General,,DEM,Ellen Rosenblum,12
+Jefferson,5,Governor,,DEM,Kate Brown,8
+Jefferson,5,State Treasurer,,DEM,Tobias Read,7
+Jefferson,5,Secretary of State,,REP,Dennis Richardson,27
+Jefferson,5,Governor,,IND,Cliff Thomason,1
+Jefferson,5,Secretary of State,,IND,Paul Damian Wells,3
+Jefferson,5,Attorney General,,REP,Daniel Zene Crowe,27
+Jefferson,5,State Treasurer,,REP,Jeff Gudman,21
+Jefferson,5,Governor,,CON,Aaron Donald Auer,0
+Jefferson,5,Secretary of State,,DEM,Brad Avakian,9
+Jefferson,5,State Treasurer,,IND,Chris Telfer,14
+Jefferson,5,Secretary of State,,PGP,Alan Zundel,0
+Jefferson,5,Governor,,REP,Bud Pierce,34
+Jefferson,5,Secretary of State,,CON,Michael Marsh,1
+Jefferson,5,Attorney General,,,Write-ins,0
+Jefferson,5,Secretary of State,,,Write-ins,0
+Jefferson,5,State Treasurer,,,Write-ins,0
+Jefferson,5,Governor,,,Write-ins,1
+Jefferson,6,Governor,,LBT,James Foster,12
+Jefferson,6,Attorney General,,LBT,Lars D H Hedbor,15
+Jefferson,6,Secretary of State,,LBT,Sharon L Durbin,7
+Jefferson,6,State Treasurer,,PRO,Chris Henry,7
+Jefferson,6,Attorney General,,DEM,Ellen Rosenblum,93
+Jefferson,6,Governor,,DEM,Kate Brown,82
+Jefferson,6,State Treasurer,,DEM,Tobias Read,69
+Jefferson,6,Secretary of State,,REP,Dennis Richardson,194
+Jefferson,6,Governor,,IND,Cliff Thomason,4
+Jefferson,6,Secretary of State,,IND,Paul Damian Wells,11
+Jefferson,6,Attorney General,,REP,Daniel Zene Crowe,173
+Jefferson,6,State Treasurer,,REP,Jeff Gudman,163
+Jefferson,6,Governor,,CON,Aaron Donald Auer,2
+Jefferson,6,Secretary of State,,DEM,Brad Avakian,67
+Jefferson,6,State Treasurer,,IND,Chris Telfer,50
+Jefferson,6,Secretary of State,,PGP,Alan Zundel,5
+Jefferson,6,Governor,,REP,Bud Pierce,195
+Jefferson,6,Secretary of State,,CON,Michael Marsh,8
+Jefferson,6,Attorney General,,,Write-ins,0
+Jefferson,6,Governor,,,Write-ins,0
+Jefferson,6,Secretary of State,,,Write-ins,0
+Jefferson,6,State Treasurer,,,Write-ins,0
+Jefferson,8,Governor,,LBT,James Foster,2
+Jefferson,8,Attorney General,,LBT,Lars D H Hedbor,0
+Jefferson,8,Secretary of State,,LBT,Sharon L Durbin,0
+Jefferson,8,State Treasurer,,PRO,Chris Henry,2
+Jefferson,8,Attorney General,,DEM,Ellen Rosenblum,30
+Jefferson,8,Governor,,DEM,Kate Brown,23
+Jefferson,8,State Treasurer,,DEM,Tobias Read,17
+Jefferson,8,Secretary of State,,REP,Dennis Richardson,67
+Jefferson,8,Governor,,IND,Cliff Thomason,1
+Jefferson,8,Secretary of State,,IND,Paul Damian Wells,3
+Jefferson,8,Attorney General,,REP,Daniel Zene Crowe,59
+Jefferson,8,State Treasurer,,REP,Jeff Gudman,56
+Jefferson,8,Governor,,CON,Aaron Donald Auer,1
+Jefferson,8,Secretary of State,,DEM,Brad Avakian,23
+Jefferson,8,State Treasurer,,IND,Chris Telfer,21
+Jefferson,8,Secretary of State,,PGP,Alan Zundel,2
+Jefferson,8,Governor,,REP,Bud Pierce,74
+Jefferson,8,Secretary of State,,CON,Michael Marsh,1
+Jefferson,8,Governor,,,Write-ins,0
+Jefferson,8,Secretary of State,,,Write-ins,0
+Jefferson,8,State Treasurer,,,Write-ins,0
+Jefferson,8,Attorney General,,,Write-ins,1
+Jefferson,11,Governor,,LBT,James Foster,8
+Jefferson,11,Attorney General,,LBT,Lars D H Hedbor,17
+Jefferson,11,Secretary of State,,LBT,Sharon L Durbin,10
+Jefferson,11,State Treasurer,,PRO,Chris Henry,12
+Jefferson,11,Attorney General,,DEM,Ellen Rosenblum,123
+Jefferson,11,Governor,,DEM,Kate Brown,109
+Jefferson,11,State Treasurer,,DEM,Tobias Read,88
+Jefferson,11,Secretary of State,,REP,Dennis Richardson,165
+Jefferson,11,Governor,,IND,Cliff Thomason,7
+Jefferson,11,Secretary of State,,IND,Paul Damian Wells,15
+Jefferson,11,Attorney General,,REP,Daniel Zene Crowe,146
+Jefferson,11,State Treasurer,,REP,Jeff Gudman,135
+Jefferson,11,Governor,,CON,Aaron Donald Auer,7
+Jefferson,11,Secretary of State,,DEM,Brad Avakian,94
+Jefferson,11,State Treasurer,,IND,Chris Telfer,59
+Jefferson,11,Secretary of State,,PGP,Alan Zundel,6
+Jefferson,11,Governor,,REP,Bud Pierce,172
+Jefferson,11,Secretary of State,,CON,Michael Marsh,8
+Jefferson,11,Governor,,,Write-ins,0
+Jefferson,11,Secretary of State,,,Write-ins,1
+Jefferson,11,State Treasurer,,,Write-ins,1
+Jefferson,11,Attorney General,,,Write-ins,1
+Jefferson,13,Governor,,LBT,James Foster,32
+Jefferson,13,Attorney General,,LBT,Lars D H Hedbor,32
+Jefferson,13,Secretary of State,,LBT,Sharon L Durbin,35
+Jefferson,13,State Treasurer,,PRO,Chris Henry,72
+Jefferson,13,Attorney General,,DEM,Ellen Rosenblum,528
+Jefferson,13,Governor,,DEM,Kate Brown,489
+Jefferson,13,State Treasurer,,DEM,Tobias Read,356
+Jefferson,13,Secretary of State,,REP,Dennis Richardson,646
+Jefferson,13,Governor,,IND,Cliff Thomason,47
+Jefferson,13,Secretary of State,,IND,Paul Damian Wells,60
+Jefferson,13,Attorney General,,REP,Daniel Zene Crowe,602
+Jefferson,13,State Treasurer,,REP,Jeff Gudman,556
+Jefferson,13,Governor,,CON,Aaron Donald Auer,23
+Jefferson,13,Secretary of State,,DEM,Brad Avakian,406
+Jefferson,13,State Treasurer,,IND,Chris Telfer,201
+Jefferson,13,Secretary of State,,PGP,Alan Zundel,32
+Jefferson,13,Governor,,REP,Bud Pierce,639
+Jefferson,13,Secretary of State,,CON,Michael Marsh,21
+Jefferson,13,Governor,,,Write-ins,3
+Jefferson,13,Attorney General,,,Write-ins,3
+Jefferson,13,Secretary of State,,,Write-ins,6
+Jefferson,13,State Treasurer,,,Write-ins,6
+Jefferson,14,Governor,,LBT,James Foster,12
+Jefferson,14,Attorney General,,LBT,Lars D H Hedbor,18
+Jefferson,14,Secretary of State,,LBT,Sharon L Durbin,31
+Jefferson,14,State Treasurer,,PRO,Chris Henry,31
+Jefferson,14,Attorney General,,DEM,Ellen Rosenblum,399
+Jefferson,14,Governor,,DEM,Kate Brown,363
+Jefferson,14,State Treasurer,,DEM,Tobias Read,312
+Jefferson,14,Secretary of State,,REP,Dennis Richardson,108
+Jefferson,14,Governor,,IND,Cliff Thomason,39
+Jefferson,14,Secretary of State,,IND,Paul Damian Wells,29
+Jefferson,14,Attorney General,,REP,Daniel Zene Crowe,72
+Jefferson,14,State Treasurer,,REP,Jeff Gudman,73
+Jefferson,14,Governor,,CON,Aaron Donald Auer,8
+Jefferson,14,Secretary of State,,DEM,Brad Avakian,311
+Jefferson,14,State Treasurer,,IND,Chris Telfer,80
+Jefferson,14,Secretary of State,,PGP,Alan Zundel,16
+Jefferson,14,Governor,,REP,Bud Pierce,93
+Jefferson,14,Secretary of State,,CON,Michael Marsh,12
+Jefferson,14,Attorney General,,,Write-ins,0
+Jefferson,14,Secretary of State,,,Write-ins,1
+Jefferson,14,State Treasurer,,,Write-ins,2
+Jefferson,14,Governor,,,Write-ins,3
+Jefferson,16,Governor,,LBT,James Foster,3
+Jefferson,16,Attorney General,,LBT,Lars D H Hedbor,3
+Jefferson,16,Secretary of State,,LBT,Sharon L Durbin,3
+Jefferson,16,State Treasurer,,PRO,Chris Henry,11
+Jefferson,16,Attorney General,,DEM,Ellen Rosenblum,124
+Jefferson,16,Governor,,DEM,Kate Brown,112
+Jefferson,16,State Treasurer,,DEM,Tobias Read,89
+Jefferson,16,Secretary of State,,REP,Dennis Richardson,90
+Jefferson,16,Governor,,IND,Cliff Thomason,5
+Jefferson,16,Secretary of State,,IND,Paul Damian Wells,5
+Jefferson,16,Attorney General,,REP,Daniel Zene Crowe,74
+Jefferson,16,State Treasurer,,REP,Jeff Gudman,69
+Jefferson,16,Governor,,CON,Aaron Donald Auer,0
+Jefferson,16,Secretary of State,,DEM,Brad Avakian,98
+Jefferson,16,State Treasurer,,IND,Chris Telfer,38
+Jefferson,16,Secretary of State,,PGP,Alan Zundel,10
+Jefferson,16,Governor,,REP,Bud Pierce,90
+Jefferson,16,Secretary of State,,CON,Michael Marsh,0
+Jefferson,16,Governor,,,Write-ins,0
+Jefferson,16,Secretary of State,,,Write-ins,0
+Jefferson,16,State Treasurer,,,Write-ins,0
+Jefferson,16,Attorney General,,,Write-ins,1
+Jefferson,17,Governor,,LBT,James Foster,16
+Jefferson,17,Attorney General,,LBT,Lars D H Hedbor,22
+Jefferson,17,Secretary of State,,LBT,Sharon L Durbin,18
+Jefferson,17,State Treasurer,,PRO,Chris Henry,16
+Jefferson,17,Attorney General,,DEM,Ellen Rosenblum,195
+Jefferson,17,Governor,,DEM,Kate Brown,166
+Jefferson,17,State Treasurer,,DEM,Tobias Read,139
+Jefferson,17,Secretary of State,,REP,Dennis Richardson,282
+Jefferson,17,Governor,,IND,Cliff Thomason,22
+Jefferson,17,Secretary of State,,IND,Paul Damian Wells,26
+Jefferson,17,Attorney General,,REP,Daniel Zene Crowe,261
+Jefferson,17,State Treasurer,,REP,Jeff Gudman,242
+Jefferson,17,Governor,,CON,Aaron Donald Auer,9
+Jefferson,17,Secretary of State,,DEM,Brad Avakian,147
+Jefferson,17,State Treasurer,,IND,Chris Telfer,83
+Jefferson,17,Secretary of State,,PGP,Alan Zundel,4
+Jefferson,17,Governor,,REP,Bud Pierce,287
+Jefferson,17,Secretary of State,,CON,Michael Marsh,9
+Jefferson,17,Attorney General,,,Write-ins,0
+Jefferson,17,Secretary of State,,,Write-ins,0
+Jefferson,17,Governor,,,Write-ins,1
+Jefferson,17,State Treasurer,,,Write-ins,1
+Jefferson,18,Governor,,LBT,James Foster,8
+Jefferson,18,Attorney General,,LBT,Lars D H Hedbor,9
+Jefferson,18,Secretary of State,,LBT,Sharon L Durbin,6
+Jefferson,18,State Treasurer,,PRO,Chris Henry,7
+Jefferson,18,Attorney General,,DEM,Ellen Rosenblum,91
+Jefferson,18,Governor,,DEM,Kate Brown,87
+Jefferson,18,State Treasurer,,DEM,Tobias Read,67
+Jefferson,18,Secretary of State,,REP,Dennis Richardson,233
+Jefferson,18,Governor,,IND,Cliff Thomason,6
+Jefferson,18,Secretary of State,,IND,Paul Damian Wells,13
+Jefferson,18,Attorney General,,REP,Daniel Zene Crowe,216
+Jefferson,18,State Treasurer,,REP,Jeff Gudman,197
+Jefferson,18,Governor,,CON,Aaron Donald Auer,5
+Jefferson,18,Secretary of State,,DEM,Brad Avakian,79
+Jefferson,18,State Treasurer,,IND,Chris Telfer,61
+Jefferson,18,Secretary of State,,PGP,Alan Zundel,0
+Jefferson,18,Governor,,REP,Bud Pierce,238
+Jefferson,18,Secretary of State,,CON,Michael Marsh,7
+Jefferson,18,Attorney General,,,Write-ins,0
+Jefferson,18,Governor,,,Write-ins,0
+Jefferson,18,Secretary of State,,,Write-ins,0
+Jefferson,18,State Treasurer,,,Write-ins,0
+Jefferson,19,Governor,,LBT,James Foster,28
+Jefferson,19,Attorney General,,LBT,Lars D H Hedbor,33
+Jefferson,19,Secretary of State,,LBT,Sharon L Durbin,27
+Jefferson,19,State Treasurer,,PRO,Chris Henry,35
+Jefferson,19,Attorney General,,DEM,Ellen Rosenblum,372
+Jefferson,19,Governor,,DEM,Kate Brown,334
+Jefferson,19,State Treasurer,,DEM,Tobias Read,258
+Jefferson,19,Secretary of State,,REP,Dennis Richardson,372
+Jefferson,19,Governor,,IND,Cliff Thomason,32
+Jefferson,19,Secretary of State,,IND,Paul Damian Wells,32
+Jefferson,19,Attorney General,,REP,Daniel Zene Crowe,332
+Jefferson,19,State Treasurer,,REP,Jeff Gudman,313
+Jefferson,19,Governor,,CON,Aaron Donald Auer,7
+Jefferson,19,Secretary of State,,DEM,Brad Avakian,293
+Jefferson,19,State Treasurer,,IND,Chris Telfer,137
+Jefferson,19,Secretary of State,,PGP,Alan Zundel,17
+Jefferson,19,Governor,,REP,Bud Pierce,376
+Jefferson,19,Secretary of State,,CON,Michael Marsh,13
+Jefferson,19,Secretary of State,,,Write-ins,0
+Jefferson,19,State Treasurer,,,Write-ins,0
+Jefferson,19,Governor,,,Write-ins,2
+Jefferson,19,Attorney General,,,Write-ins,2
+Jefferson,20,Governor,,LBT,James Foster,4
+Jefferson,20,Attorney General,,LBT,Lars D H Hedbor,3
+Jefferson,20,Secretary of State,,LBT,Sharon L Durbin,5
+Jefferson,20,State Treasurer,,PRO,Chris Henry,4
+Jefferson,20,Attorney General,,DEM,Ellen Rosenblum,54
+Jefferson,20,Governor,,DEM,Kate Brown,48
+Jefferson,20,State Treasurer,,DEM,Tobias Read,35
+Jefferson,20,Secretary of State,,REP,Dennis Richardson,80
+Jefferson,20,Governor,,IND,Cliff Thomason,2
+Jefferson,20,Secretary of State,,IND,Paul Damian Wells,5
+Jefferson,20,Attorney General,,REP,Daniel Zene Crowe,71
+Jefferson,20,State Treasurer,,REP,Jeff Gudman,65
+Jefferson,20,Governor,,CON,Aaron Donald Auer,5
+Jefferson,20,Secretary of State,,DEM,Brad Avakian,42
+Jefferson,20,State Treasurer,,IND,Chris Telfer,28
+Jefferson,20,Secretary of State,,PGP,Alan Zundel,1
+Jefferson,20,Governor,,REP,Bud Pierce,81
+Jefferson,20,Secretary of State,,CON,Michael Marsh,4
+Jefferson,20,Attorney General,,,Write-ins,0
+Jefferson,20,Governor,,,Write-ins,0
+Jefferson,20,Secretary of State,,,Write-ins,0
+Jefferson,20,State Treasurer,,,Write-ins,0
+Jefferson,21,Governor,,LBT,James Foster,22
+Jefferson,21,Attorney General,,LBT,Lars D H Hedbor,23
+Jefferson,21,Secretary of State,,LBT,Sharon L Durbin,24
+Jefferson,21,State Treasurer,,PRO,Chris Henry,13
+Jefferson,21,Attorney General,,DEM,Ellen Rosenblum,264
+Jefferson,21,Governor,,DEM,Kate Brown,243
+Jefferson,21,State Treasurer,,DEM,Tobias Read,185
+Jefferson,21,Secretary of State,,REP,Dennis Richardson,477
+Jefferson,21,Governor,,IND,Cliff Thomason,16
+Jefferson,21,Secretary of State,,IND,Paul Damian Wells,33
+Jefferson,21,Attorney General,,REP,Daniel Zene Crowe,421
+Jefferson,21,State Treasurer,,REP,Jeff Gudman,346
+Jefferson,21,Governor,,CON,Aaron Donald Auer,7
+Jefferson,21,Secretary of State,,DEM,Brad Avakian,186
+Jefferson,21,State Treasurer,,IND,Chris Telfer,169
+Jefferson,21,Secretary of State,,PGP,Alan Zundel,2
+Jefferson,21,Governor,,REP,Bud Pierce,472
+Jefferson,21,Secretary of State,,CON,Michael Marsh,4
+Jefferson,21,Governor,,,Write-ins,0
+Jefferson,21,State Treasurer,,,Write-ins,0
+Jefferson,21,Attorney General,,,Write-ins,1
+Jefferson,21,Secretary of State,,,Write-ins,3
+Jefferson,22,Governor,,LBT,James Foster,14
+Jefferson,22,Attorney General,,LBT,Lars D H Hedbor,14
+Jefferson,22,Secretary of State,,LBT,Sharon L Durbin,11
+Jefferson,22,State Treasurer,,PRO,Chris Henry,9
+Jefferson,22,Attorney General,,DEM,Ellen Rosenblum,146
+Jefferson,22,Governor,,DEM,Kate Brown,123
+Jefferson,22,State Treasurer,,DEM,Tobias Read,111
+Jefferson,22,Secretary of State,,REP,Dennis Richardson,405
+Jefferson,22,Governor,,IND,Cliff Thomason,13
+Jefferson,22,Secretary of State,,IND,Paul Damian Wells,23
+Jefferson,22,Attorney General,,REP,Daniel Zene Crowe,386
+Jefferson,22,State Treasurer,,REP,Jeff Gudman,339
+Jefferson,22,Governor,,CON,Aaron Donald Auer,4
+Jefferson,22,Secretary of State,,DEM,Brad Avakian,105
+Jefferson,22,State Treasurer,,IND,Chris Telfer,95
+Jefferson,22,Secretary of State,,PGP,Alan Zundel,3
+Jefferson,22,Governor,,REP,Bud Pierce,413
+Jefferson,22,Secretary of State,,CON,Michael Marsh,6
+Jefferson,22,Attorney General,,,Write-ins,0
+Jefferson,22,Secretary of State,,,Write-ins,0
+Jefferson,22,State Treasurer,,,Write-ins,0
+Jefferson,22,Governor,,,Write-ins,1
+Jefferson,1,State Senate,30,REP,Ted Ferrioli,709
+Jefferson,1,State Senate,30,DEM,W Mark Stringer,205
+Jefferson,1,State Senate,30,,Write-ins,1
+Jefferson,2,State Senate,30,REP,Ted Ferrioli,1667
+Jefferson,2,State Senate,30,DEM,W Mark Stringer,706
+Jefferson,2,State Senate,30,,Write-ins,7
+Jefferson,5,State Senate,30,REP,Ted Ferrioli,33
+Jefferson,5,State Senate,30,DEM,W Mark Stringer,9
+Jefferson,5,State Senate,30,,Write-ins,0
+Jefferson,6,State Senate,30,REP,Ted Ferrioli,202
+Jefferson,6,State Senate,30,DEM,W Mark Stringer,77
+Jefferson,6,State Senate,30,,Write-ins,0
+Jefferson,8,State Senate,30,REP,Ted Ferrioli,73
+Jefferson,8,State Senate,30,DEM,W Mark Stringer,22
+Jefferson,8,State Senate,30,,Write-ins,0
+Jefferson,11,State Senate,30,REP,Ted Ferrioli,184
+Jefferson,11,State Senate,30,DEM,W Mark Stringer,106
+Jefferson,11,State Senate,30,,Write-ins,2
+Jefferson,13,State Senate,30,REP,Ted Ferrioli,715
+Jefferson,13,State Senate,30,DEM,W Mark Stringer,443
+Jefferson,13,State Senate,30,,Write-ins,5
+Jefferson,14,State Senate,30,REP,Ted Ferrioli,167
+Jefferson,14,State Senate,30,DEM,W Mark Stringer,330
+Jefferson,14,State Senate,30,,Write-ins,0
+Jefferson,16,State Senate,30,REP,Ted Ferrioli,90
+Jefferson,16,State Senate,30,DEM,W Mark Stringer,110
+Jefferson,16,State Senate,30,,Write-ins,1
+Jefferson,17,State Senate,30,REP,Ted Ferrioli,300
+Jefferson,17,State Senate,30,DEM,W Mark Stringer,169
+Jefferson,17,State Senate,30,,Write-ins,4
+Jefferson,18,State Senate,30,REP,Ted Ferrioli,240
+Jefferson,18,State Senate,30,DEM,W Mark Stringer,84
+Jefferson,18,State Senate,30,,Write-ins,0
+Jefferson,19,State Senate,30,REP,Ted Ferrioli,415
+Jefferson,19,State Senate,30,DEM,W Mark Stringer,307
+Jefferson,19,State Senate,30,,Write-ins,1
+Jefferson,20,State Senate,30,REP,Ted Ferrioli,84
+Jefferson,20,State Senate,30,DEM,W Mark Stringer,46
+Jefferson,20,State Senate,30,,Write-ins,0
+Jefferson,21,State Senate,30,REP,Ted Ferrioli,505
+Jefferson,21,State Senate,30,DEM,W Mark Stringer,188
+Jefferson,21,State Senate,30,,Write-ins,0
+Jefferson,22,State Senate,30,REP,Ted Ferrioli,431
+Jefferson,22,State Senate,30,DEM,W Mark Stringer,111
+Jefferson,22,State Senate,30,,Write-ins,0
+Jefferson,1,State House,59,REP,John E Huffman,740
+Jefferson,1,State House,59,DEM,Tyler J Gabriel,152
+Jefferson,1,State House,59,,Write-ins,2
+Jefferson,2,State House,59,REP,John E Huffman,1718
+Jefferson,2,State House,59,DEM,Tyler J Gabriel,617
+Jefferson,2,State House,59,,Write-ins,6
+Jefferson,5,State House,59,REP,John E Huffman,32
+Jefferson,5,State House,59,DEM,Tyler J Gabriel,5
+Jefferson,5,State House,59,,Write-ins,0
+Jefferson,6,State House,59,REP,John E Huffman,216
+Jefferson,6,State House,59,DEM,Tyler J Gabriel,58
+Jefferson,6,State House,59,,Write-ins,1
+Jefferson,8,State House,59,REP,John E Huffman,76
+Jefferson,8,State House,59,DEM,Tyler J Gabriel,17
+Jefferson,8,State House,59,,Write-ins,0
+Jefferson,11,State House,59,REP,John E Huffman,195
+Jefferson,11,State House,59,DEM,Tyler J Gabriel,94
+Jefferson,11,State House,59,,Write-ins,0
+Jefferson,13,State House,59,REP,John E Huffman,771
+Jefferson,13,State House,59,DEM,Tyler J Gabriel,371
+Jefferson,13,State House,59,,Write-ins,5
+Jefferson,14,State House,59,REP,John E Huffman,152
+Jefferson,14,State House,59,DEM,Tyler J Gabriel,322
+Jefferson,14,State House,59,,Write-ins,1
+Jefferson,16,State House,59,REP,John E Huffman,100
+Jefferson,16,State House,59,DEM,Tyler J Gabriel,88
+Jefferson,16,State House,59,,Write-ins,1
+Jefferson,17,State House,59,REP,John E Huffman,326
+Jefferson,17,State House,59,DEM,Tyler J Gabriel,136
+Jefferson,17,State House,59,,Write-ins,3
+Jefferson,18,State House,59,REP,John E Huffman,258
+Jefferson,18,State House,59,DEM,Tyler J Gabriel,65
+Jefferson,18,State House,59,,Write-ins,3
+Jefferson,19,State House,59,REP,John E Huffman,443
+Jefferson,19,State House,59,DEM,Tyler J Gabriel,264
+Jefferson,19,State House,59,,Write-ins,3
+Jefferson,20,State House,59,REP,John E Huffman,91
+Jefferson,20,State House,59,DEM,Tyler J Gabriel,37
+Jefferson,20,State House,59,,Write-ins,0
+Jefferson,21,State House,59,REP,John E Huffman,532
+Jefferson,21,State House,59,DEM,Tyler J Gabriel,162
+Jefferson,21,State House,59,,Write-ins,0
+Jefferson,22,State House,59,REP,John E Huffman,456
+Jefferson,22,State House,59,DEM,Tyler J Gabriel,86
+Jefferson,22,State House,59,,Write-ins,0
+Jefferson,1,President,,,Over Votes,0
+Jefferson,2,President,,,Over Votes,0
+Jefferson,5,President,,,Over Votes,0
+Jefferson,6,President,,,Over Votes,0
+Jefferson,8,President,,,Over Votes,0
+Jefferson,11,President,,,Over Votes,0
+Jefferson,13,President,,,Over Votes,0
+Jefferson,14,President,,,Over Votes,1
+Jefferson,16,President,,,Over Votes,0
+Jefferson,17,President,,,Over Votes,1
+Jefferson,18,President,,,Over Votes,1
+Jefferson,19,President,,,Over Votes,1
+Jefferson,20,President,,,Over Votes,0
+Jefferson,21,President,,,Over Votes,0
+Jefferson,22,President,,,Over Votes,0
+Jefferson,1,President,,,Under Votes,14
+Jefferson,2,President,,,Under Votes,28
+Jefferson,5,President,,,Under Votes,1
+Jefferson,6,President,,,Under Votes,10
+Jefferson,8,President,,,Under Votes,1
+Jefferson,11,President,,,Under Votes,3
+Jefferson,13,President,,,Under Votes,18
+Jefferson,14,President,,,Under Votes,1
+Jefferson,16,President,,,Under Votes,6
+Jefferson,17,President,,,Under Votes,8
+Jefferson,18,President,,,Under Votes,4
+Jefferson,19,President,,,Under Votes,11
+Jefferson,20,President,,,Under Votes,0
+Jefferson,21,President,,,Under Votes,17
+Jefferson,22,President,,,Under Votes,5
+Jefferson,1,U.S. Senate,,,Over Votes,0
+Jefferson,2,U.S. Senate,,,Over Votes,2
+Jefferson,5,U.S. Senate,,,Over Votes,0
+Jefferson,6,U.S. Senate,,,Over Votes,0
+Jefferson,8,U.S. Senate,,,Over Votes,0
+Jefferson,11,U.S. Senate,,,Over Votes,0
+Jefferson,13,U.S. Senate,,,Over Votes,0
+Jefferson,14,U.S. Senate,,,Over Votes,0
+Jefferson,16,U.S. Senate,,,Over Votes,0
+Jefferson,17,U.S. Senate,,,Over Votes,1
+Jefferson,18,U.S. Senate,,,Over Votes,0
+Jefferson,19,U.S. Senate,,,Over Votes,1
+Jefferson,20,U.S. Senate,,,Over Votes,0
+Jefferson,21,U.S. Senate,,,Over Votes,0
+Jefferson,22,U.S. Senate,,,Over Votes,1
+Jefferson,1,U.S. Senate,,,Under Votes,25
+Jefferson,2,U.S. Senate,,,Under Votes,65
+Jefferson,5,U.S. Senate,,,Under Votes,0
+Jefferson,6,U.S. Senate,,,Under Votes,12
+Jefferson,8,U.S. Senate,,,Under Votes,3
+Jefferson,11,U.S. Senate,,,Under Votes,5
+Jefferson,13,U.S. Senate,,,Under Votes,45
+Jefferson,14,U.S. Senate,,,Under Votes,11
+Jefferson,16,U.S. Senate,,,Under Votes,8
+Jefferson,17,U.S. Senate,,,Under Votes,22
+Jefferson,18,U.S. Senate,,,Under Votes,10
+Jefferson,19,U.S. Senate,,,Under Votes,27
+Jefferson,20,U.S. Senate,,,Under Votes,4
+Jefferson,21,U.S. Senate,,,Under Votes,18
+Jefferson,22,U.S. Senate,,,Under Votes,11
+Jefferson,1,U.S. House,2,,Over Votes,0
+Jefferson,2,U.S. House,2,,Over Votes,0
+Jefferson,5,U.S. House,2,,Over Votes,0
+Jefferson,6,U.S. House,2,,Over Votes,0
+Jefferson,8,U.S. House,2,,Over Votes,0
+Jefferson,11,U.S. House,2,,Over Votes,0
+Jefferson,13,U.S. House,2,,Over Votes,0
+Jefferson,14,U.S. House,2,,Over Votes,0
+Jefferson,16,U.S. House,2,,Over Votes,0
+Jefferson,17,U.S. House,2,,Over Votes,0
+Jefferson,18,U.S. House,2,,Over Votes,0
+Jefferson,19,U.S. House,2,,Over Votes,0
+Jefferson,20,U.S. House,2,,Over Votes,0
+Jefferson,21,U.S. House,2,,Over Votes,0
+Jefferson,22,U.S. House,2,,Over Votes,0
+Jefferson,1,U.S. House,2,,Under Votes,57
+Jefferson,2,U.S. House,2,,Under Votes,104
+Jefferson,5,U.S. House,2,,Under Votes,0
+Jefferson,6,U.S. House,2,,Under Votes,18
+Jefferson,8,U.S. House,2,,Under Votes,3
+Jefferson,11,U.S. House,2,,Under Votes,12
+Jefferson,13,U.S. House,2,,Under Votes,72
+Jefferson,14,U.S. House,2,,Under Votes,33
+Jefferson,16,U.S. House,2,,Under Votes,17
+Jefferson,17,U.S. House,2,,Under Votes,28
+Jefferson,18,U.S. House,2,,Under Votes,14
+Jefferson,19,U.S. House,2,,Under Votes,48
+Jefferson,20,U.S. House,2,,Under Votes,13
+Jefferson,21,U.S. House,2,,Under Votes,36
+Jefferson,22,U.S. House,2,,Under Votes,25
+Jefferson,1,Governor,,,Over Votes,0
+Jefferson,2,Governor,,,Over Votes,0
+Jefferson,5,Governor,,,Over Votes,0
+Jefferson,6,Governor,,,Over Votes,0
+Jefferson,8,Governor,,,Over Votes,0
+Jefferson,11,Governor,,,Over Votes,1
+Jefferson,13,Governor,,,Over Votes,2
+Jefferson,14,Governor,,,Over Votes,1
+Jefferson,16,Governor,,,Over Votes,0
+Jefferson,17,Governor,,,Over Votes,1
+Jefferson,18,Governor,,,Over Votes,0
+Jefferson,19,Governor,,,Over Votes,0
+Jefferson,20,Governor,,,Over Votes,0
+Jefferson,21,Governor,,,Over Votes,0
+Jefferson,22,Governor,,,Over Votes,0
+Jefferson,1,Governor,,,Under Votes,26
+Jefferson,2,Governor,,,Under Votes,78
+Jefferson,5,Governor,,,Under Votes,0
+Jefferson,6,Governor,,,Under Votes,13
+Jefferson,8,Governor,,,Under Votes,3
+Jefferson,11,Governor,,,Under Votes,6
+Jefferson,13,Governor,,,Under Votes,51
+Jefferson,14,Governor,,,Under Votes,13
+Jefferson,16,Governor,,,Under Votes,8
+Jefferson,17,Governor,,,Under Votes,18
+Jefferson,18,Governor,,,Under Votes,8
+Jefferson,19,Governor,,,Under Votes,23
+Jefferson,20,Governor,,,Under Votes,10
+Jefferson,21,Governor,,,Under Votes,20
+Jefferson,22,Governor,,,Under Votes,14
+Jefferson,1,Secretary of State,,,Over Votes,0
+Jefferson,2,Secretary of State,,,Over Votes,1
+Jefferson,5,Secretary of State,,,Over Votes,0
+Jefferson,6,Secretary of State,,,Over Votes,0
+Jefferson,8,Secretary of State,,,Over Votes,0
+Jefferson,11,Secretary of State,,,Over Votes,0
+Jefferson,13,Secretary of State,,,Over Votes,1
+Jefferson,14,Secretary of State,,,Over Votes,0
+Jefferson,16,Secretary of State,,,Over Votes,0
+Jefferson,17,Secretary of State,,,Over Votes,1
+Jefferson,18,Secretary of State,,,Over Votes,0
+Jefferson,19,Secretary of State,,,Over Votes,1
+Jefferson,20,Secretary of State,,,Over Votes,0
+Jefferson,21,Secretary of State,,,Over Votes,1
+Jefferson,22,Secretary of State,,,Over Votes,0
+Jefferson,1,Secretary of State,,,Under Votes,51
+Jefferson,2,Secretary of State,,,Under Votes,129
+Jefferson,5,Secretary of State,,,Under Votes,0
+Jefferson,6,Secretary of State,,,Under Votes,16
+Jefferson,8,Secretary of State,,,Under Votes,8
+Jefferson,11,Secretary of State,,,Under Votes,11
+Jefferson,13,Secretary of State,,,Under Votes,79
+Jefferson,14,Secretary of State,,,Under Votes,24
+Jefferson,16,Secretary of State,,,Under Votes,12
+Jefferson,17,Secretary of State,,,Under Votes,33
+Jefferson,18,Secretary of State,,,Under Votes,14
+Jefferson,19,Secretary of State,,,Under Votes,47
+Jefferson,20,Secretary of State,,,Under Votes,13
+Jefferson,21,Secretary of State,,,Under Votes,50
+Jefferson,22,Secretary of State,,,Under Votes,29
+Jefferson,1,State Treasurer,,,Over Votes,0
+Jefferson,2,State Treasurer,,,Over Votes,1
+Jefferson,5,State Treasurer,,,Over Votes,0
+Jefferson,6,State Treasurer,,,Over Votes,0
+Jefferson,8,State Treasurer,,,Over Votes,0
+Jefferson,11,State Treasurer,,,Over Votes,0
+Jefferson,13,State Treasurer,,,Over Votes,0
+Jefferson,14,State Treasurer,,,Over Votes,0
+Jefferson,16,State Treasurer,,,Over Votes,0
+Jefferson,17,State Treasurer,,,Over Votes,1
+Jefferson,18,State Treasurer,,,Over Votes,0
+Jefferson,19,State Treasurer,,,Over Votes,0
+Jefferson,20,State Treasurer,,,Over Votes,0
+Jefferson,21,State Treasurer,,,Over Votes,0
+Jefferson,22,State Treasurer,,,Over Votes,0
+Jefferson,1,State Treasurer,,,Under Votes,75
+Jefferson,2,State Treasurer,,,Under Votes,166
+Jefferson,5,State Treasurer,,,Under Votes,2
+Jefferson,6,State Treasurer,,,Under Votes,19
+Jefferson,8,State Treasurer,,,Under Votes,8
+Jefferson,11,State Treasurer,,,Under Votes,15
+Jefferson,13,State Treasurer,,,Under Votes,95
+Jefferson,14,State Treasurer,,,Under Votes,34
+Jefferson,16,State Treasurer,,,Under Votes,11
+Jefferson,17,State Treasurer,,,Under Votes,38
+Jefferson,18,State Treasurer,,,Under Votes,20
+Jefferson,19,State Treasurer,,,Under Votes,59
+Jefferson,20,State Treasurer,,,Under Votes,18
+Jefferson,21,State Treasurer,,,Under Votes,67
+Jefferson,22,State Treasurer,,,Under Votes,28
+Jefferson,1,Attorney General,,,Over Votes,0
+Jefferson,2,Attorney General,,,Over Votes,0
+Jefferson,5,Attorney General,,,Over Votes,0
+Jefferson,6,Attorney General,,,Over Votes,0
+Jefferson,8,Attorney General,,,Over Votes,0
+Jefferson,11,Attorney General,,,Over Votes,0
+Jefferson,13,Attorney General,,,Over Votes,2
+Jefferson,14,Attorney General,,,Over Votes,0
+Jefferson,16,Attorney General,,,Over Votes,0
+Jefferson,17,Attorney General,,,Over Votes,0
+Jefferson,18,Attorney General,,,Over Votes,0
+Jefferson,19,Attorney General,,,Over Votes,0
+Jefferson,20,Attorney General,,,Over Votes,0
+Jefferson,21,Attorney General,,,Over Votes,0
+Jefferson,22,Attorney General,,,Over Votes,0
+Jefferson,1,Attorney General,,,Under Votes,101
+Jefferson,2,Attorney General,,,Under Votes,210
+Jefferson,5,Attorney General,,,Under Votes,3
+Jefferson,6,Attorney General,,,Under Votes,27
+Jefferson,8,Attorney General,,,Under Votes,14
+Jefferson,11,Attorney General,,,Under Votes,23
+Jefferson,13,Attorney General,,,Under Votes,119
+Jefferson,14,Attorney General,,,Under Votes,43
+Jefferson,16,Attorney General,,,Under Votes,16
+Jefferson,17,Attorney General,,,Under Votes,42
+Jefferson,18,Attorney General,,,Under Votes,36
+Jefferson,19,Attorney General,,,Under Votes,63
+Jefferson,20,Attorney General,,,Under Votes,22
+Jefferson,21,Attorney General,,,Under Votes,71
+Jefferson,22,Attorney General,,,Under Votes,36
+Jefferson,1,State Senate,30,,Over Votes,1
+Jefferson,2,State Senate,30,,Over Votes,0
+Jefferson,5,State Senate,30,,Over Votes,0
+Jefferson,6,State Senate,30,,Over Votes,0
+Jefferson,8,State Senate,30,,Over Votes,0
+Jefferson,11,State Senate,30,,Over Votes,1
+Jefferson,13,State Senate,30,,Over Votes,0
+Jefferson,14,State Senate,30,,Over Votes,0
+Jefferson,16,State Senate,30,,Over Votes,0
+Jefferson,17,State Senate,30,,Over Votes,0
+Jefferson,18,State Senate,30,,Over Votes,1
+Jefferson,19,State Senate,30,,Over Votes,0
+Jefferson,20,State Senate,30,,Over Votes,0
+Jefferson,21,State Senate,30,,Over Votes,0
+Jefferson,22,State Senate,30,,Over Votes,0
+Jefferson,1,State Senate,30,,Under Votes,82
+Jefferson,2,State Senate,30,,Under Votes,224
+Jefferson,5,State Senate,30,,Under Votes,2
+Jefferson,6,State Senate,30,,Under Votes,29
+Jefferson,8,State Senate,30,,Under Votes,9
+Jefferson,11,State Senate,30,,Under Votes,17
+Jefferson,13,State Senate,30,,Under Votes,123
+Jefferson,14,State Senate,30,,Under Votes,35
+Jefferson,16,State Senate,30,,Under Votes,17
+Jefferson,17,State Senate,30,,Under Votes,47
+Jefferson,18,State Senate,30,,Under Votes,27
+Jefferson,19,State Senate,30,,Under Votes,79
+Jefferson,20,State Senate,30,,Under Votes,20
+Jefferson,21,State Senate,30,,Under Votes,87
+Jefferson,22,State Senate,30,,Under Votes,40
+Jefferson,1,State House,59,,Over Votes,0
+Jefferson,2,State House,59,,Over Votes,0
+Jefferson,5,State House,59,,Over Votes,0
+Jefferson,6,State House,59,,Over Votes,0
+Jefferson,8,State House,59,,Over Votes,0
+Jefferson,11,State House,59,,Over Votes,0
+Jefferson,13,State House,59,,Over Votes,0
+Jefferson,14,State House,59,,Over Votes,0
+Jefferson,16,State House,59,,Over Votes,0
+Jefferson,17,State House,59,,Over Votes,0
+Jefferson,18,State House,59,,Over Votes,1
+Jefferson,19,State House,59,,Over Votes,0
+Jefferson,20,State House,59,,Over Votes,0
+Jefferson,21,State House,59,,Over Votes,1
+Jefferson,22,State House,59,,Over Votes,0
+Jefferson,1,State House,59,,Under Votes,104
+Jefferson,2,State House,59,,Under Votes,263
+Jefferson,5,State House,59,,Under Votes,7
+Jefferson,6,State House,59,,Under Votes,33
+Jefferson,8,State House,59,,Under Votes,11
+Jefferson,11,State House,59,,Under Votes,21
+Jefferson,13,State House,59,,Under Votes,139
+Jefferson,14,State House,59,,Under Votes,57
+Jefferson,16,State House,59,,Under Votes,29
+Jefferson,17,State House,59,,Under Votes,55
+Jefferson,18,State House,59,,Under Votes,25
+Jefferson,19,State House,59,,Under Votes,92
+Jefferson,20,State House,59,,Under Votes,22
+Jefferson,21,State House,59,,Under Votes,85
+Jefferson,22,State House,59,,Under Votes,40

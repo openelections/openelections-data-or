@@ -1,0 +1,1411 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson,1 Haystack,President,,DEM,Hillary Clinton,58
+Jefferson,2 Crooked River Ranch,President,,DEM,Hillary Clinton,239
+Jefferson,5 Ashwood,President,,DEM,Hillary Clinton,2
+Jefferson,6 Kutcher,President,,DEM,Hillary Clinton,28
+Jefferson,8 Lyle Gap,President,,DEM,Hillary Clinton,7
+Jefferson,11 Metolius,President,,DEM,Hillary Clinton,28
+Jefferson,13 East Madras,President,,DEM,Hillary Clinton,116
+Jefferson,14 Warm Springs,President,,DEM,Hillary Clinton,44
+Jefferson,16 Camp Sherman,President,,DEM,Hillary Clinton,26
+Jefferson,17 Culver,President,,DEM,Hillary Clinton,32
+Jefferson,18 Round Butte,President,,DEM,Hillary Clinton,21
+Jefferson,19 West Madras,President,,DEM,Hillary Clinton,63
+Jefferson,20 Circle M,President,,DEM,Hillary Clinton,14
+Jefferson,21 Central,President,,DEM,Hillary Clinton,90
+Jefferson,22 Sunset,President,,DEM,Hillary Clinton,39
+Jefferson,1 Haystack,President,,DEM,Bernie Sanders,54
+Jefferson,2 Crooked River Ranch,President,,DEM,Bernie Sanders,241
+Jefferson,5 Ashwood,President,,DEM,Bernie Sanders,7
+Jefferson,6 Kutcher,President,,DEM,Bernie Sanders,26
+Jefferson,8 Lyle Gap,President,,DEM,Bernie Sanders,11
+Jefferson,11 Metolius,President,,DEM,Bernie Sanders,33
+Jefferson,13 East Madras,President,,DEM,Bernie Sanders,114
+Jefferson,14 Warm Springs,President,,DEM,Bernie Sanders,79
+Jefferson,16 Camp Sherman,President,,DEM,Bernie Sanders,36
+Jefferson,17 Culver,President,,DEM,Bernie Sanders,42
+Jefferson,18 Round Butte,President,,DEM,Bernie Sanders,29
+Jefferson,19 West Madras,President,,DEM,Bernie Sanders,89
+Jefferson,20 Circle M,President,,DEM,Bernie Sanders,14
+Jefferson,21 Central,President,,DEM,Bernie Sanders,83
+Jefferson,22 Sunset,President,,DEM,Bernie Sanders,45
+Jefferson,1 Haystack,President,,DEM,Write-ins,8
+Jefferson,2 Crooked River Ranch,President,,DEM,Write-ins,14
+Jefferson,5 Ashwood,President,,DEM,Write-ins,1
+Jefferson,6 Kutcher,President,,DEM,Write-ins,3
+Jefferson,8 Lyle Gap,President,,DEM,Write-ins,0
+Jefferson,11 Metolius,President,,DEM,Write-ins,0
+Jefferson,13 East Madras,President,,DEM,Write-ins,6
+Jefferson,14 Warm Springs,President,,DEM,Write-ins,1
+Jefferson,16 Camp Sherman,President,,DEM,Write-ins,0
+Jefferson,17 Culver,President,,DEM,Write-ins,3
+Jefferson,18 Round Butte,President,,DEM,Write-ins,4
+Jefferson,19 West Madras,President,,DEM,Write-ins,6
+Jefferson,20 Circle M,President,,DEM,Write-ins,1
+Jefferson,21 Central,President,,DEM,Write-ins,3
+Jefferson,22 Sunset,President,,DEM,Write-ins,4
+Jefferson,1 Haystack,President,,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,President,,DEM,Over Votes,0
+Jefferson,5 Ashwood,President,,DEM,Over Votes,0
+Jefferson,6 Kutcher,President,,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,President,,DEM,Over Votes,0
+Jefferson,11 Metolius,President,,DEM,Over Votes,0
+Jefferson,13 East Madras,President,,DEM,Over Votes,0
+Jefferson,14 Warm Springs,President,,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,President,,DEM,Over Votes,0
+Jefferson,17 Culver,President,,DEM,Over Votes,0
+Jefferson,18 Round Butte,President,,DEM,Over Votes,0
+Jefferson,19 West Madras,President,,DEM,Over Votes,0
+Jefferson,20 Circle M,President,,DEM,Over Votes,0
+Jefferson,21 Central,President,,DEM,Over Votes,0
+Jefferson,22 Sunset,President,,DEM,Over Votes,0
+Jefferson,1 Haystack,President,,DEM,Under Votes,5
+Jefferson,2 Crooked River Ranch,President,,DEM,Under Votes,10
+Jefferson,5 Ashwood,President,,DEM,Under Votes,1
+Jefferson,6 Kutcher,President,,DEM,Under Votes,2
+Jefferson,8 Lyle Gap,President,,DEM,Under Votes,2
+Jefferson,11 Metolius,President,,DEM,Under Votes,1
+Jefferson,13 East Madras,President,,DEM,Under Votes,11
+Jefferson,14 Warm Springs,President,,DEM,Under Votes,0
+Jefferson,16 Camp Sherman,President,,DEM,Under Votes,0
+Jefferson,17 Culver,President,,DEM,Under Votes,5
+Jefferson,18 Round Butte,President,,DEM,Under Votes,7
+Jefferson,19 West Madras,President,,DEM,Under Votes,5
+Jefferson,20 Circle M,President,,DEM,Under Votes,2
+Jefferson,21 Central,President,,DEM,Under Votes,14
+Jefferson,22 Sunset,President,,DEM,Under Votes,11
+Jefferson,1 Haystack,President,,REP,Ted Cruz,48
+Jefferson,2 Crooked River Ranch,President,,REP,Ted Cruz,89
+Jefferson,5 Ashwood,President,,REP,Ted Cruz,1
+Jefferson,6 Kutcher,President,,REP,Ted Cruz,7
+Jefferson,8 Lyle Gap,President,,REP,Ted Cruz,4
+Jefferson,11 Metolius,President,,REP,Ted Cruz,14
+Jefferson,13 East Madras,President,,REP,Ted Cruz,53
+Jefferson,14 Warm Springs,President,,REP,Ted Cruz,3
+Jefferson,16 Camp Sherman,President,,REP,Ted Cruz,8
+Jefferson,17 Culver,President,,REP,Ted Cruz,20
+Jefferson,18 Round Butte,President,,REP,Ted Cruz,22
+Jefferson,19 West Madras,President,,REP,Ted Cruz,29
+Jefferson,20 Circle M,President,,REP,Ted Cruz,1
+Jefferson,21 Central,President,,REP,Ted Cruz,40
+Jefferson,22 Sunset,President,,REP,Ted Cruz,38
+Jefferson,1 Haystack,President,,REP,John R Kasich,21
+Jefferson,2 Crooked River Ranch,President,,REP,John R Kasich,99
+Jefferson,5 Ashwood,President,,REP,John R Kasich,2
+Jefferson,6 Kutcher,President,,REP,John R Kasich,18
+Jefferson,8 Lyle Gap,President,,REP,John R Kasich,4
+Jefferson,11 Metolius,President,,REP,John R Kasich,9
+Jefferson,13 East Madras,President,,REP,John R Kasich,62
+Jefferson,14 Warm Springs,President,,REP,John R Kasich,4
+Jefferson,16 Camp Sherman,President,,REP,John R Kasich,12
+Jefferson,17 Culver,President,,REP,John R Kasich,9
+Jefferson,18 Round Butte,President,,REP,John R Kasich,15
+Jefferson,19 West Madras,President,,REP,John R Kasich,20
+Jefferson,20 Circle M,President,,REP,John R Kasich,2
+Jefferson,21 Central,President,,REP,John R Kasich,41
+Jefferson,22 Sunset,President,,REP,John R Kasich,27
+Jefferson,1 Haystack,President,,REP,Donald J Trump,270
+Jefferson,2 Crooked River Ranch,President,,REP,Donald J Trump,587
+Jefferson,5 Ashwood,President,,REP,Donald J Trump,8
+Jefferson,6 Kutcher,President,,REP,Donald J Trump,67
+Jefferson,8 Lyle Gap,President,,REP,Donald J Trump,26
+Jefferson,11 Metolius,President,,REP,Donald J Trump,45
+Jefferson,13 East Madras,President,,REP,Donald J Trump,179
+Jefferson,14 Warm Springs,President,,REP,Donald J Trump,11
+Jefferson,16 Camp Sherman,President,,REP,Donald J Trump,27
+Jefferson,17 Culver,President,,REP,Donald J Trump,95
+Jefferson,18 Round Butte,President,,REP,Donald J Trump,74
+Jefferson,19 West Madras,President,,REP,Donald J Trump,108
+Jefferson,20 Circle M,President,,REP,Donald J Trump,28
+Jefferson,21 Central,President,,REP,Donald J Trump,151
+Jefferson,22 Sunset,President,,REP,Donald J Trump,141
+Jefferson,1 Haystack,President,,REP,Write-ins,6
+Jefferson,2 Crooked River Ranch,President,,REP,Write-ins,11
+Jefferson,5 Ashwood,President,,REP,Write-ins,1
+Jefferson,6 Kutcher,President,,REP,Write-ins,1
+Jefferson,8 Lyle Gap,President,,REP,Write-ins,0
+Jefferson,11 Metolius,President,,REP,Write-ins,1
+Jefferson,13 East Madras,President,,REP,Write-ins,7
+Jefferson,14 Warm Springs,President,,REP,Write-ins,2
+Jefferson,16 Camp Sherman,President,,REP,Write-ins,0
+Jefferson,17 Culver,President,,REP,Write-ins,2
+Jefferson,18 Round Butte,President,,REP,Write-ins,0
+Jefferson,19 West Madras,President,,REP,Write-ins,1
+Jefferson,20 Circle M,President,,REP,Write-ins,0
+Jefferson,21 Central,President,,REP,Write-ins,7
+Jefferson,22 Sunset,President,,REP,Write-ins,2
+Jefferson,1 Haystack,President,,REP,Over Votes,0
+Jefferson,2 Crooked River Ranch,President,,REP,Over Votes,0
+Jefferson,5 Ashwood,President,,REP,Over Votes,0
+Jefferson,6 Kutcher,President,,REP,Over Votes,0
+Jefferson,8 Lyle Gap,President,,REP,Over Votes,0
+Jefferson,11 Metolius,President,,REP,Over Votes,0
+Jefferson,13 East Madras,President,,REP,Over Votes,0
+Jefferson,14 Warm Springs,President,,REP,Over Votes,0
+Jefferson,16 Camp Sherman,President,,REP,Over Votes,0
+Jefferson,17 Culver,President,,REP,Over Votes,0
+Jefferson,18 Round Butte,President,,REP,Over Votes,0
+Jefferson,19 West Madras,President,,REP,Over Votes,0
+Jefferson,20 Circle M,President,,REP,Over Votes,0
+Jefferson,21 Central,President,,REP,Over Votes,0
+Jefferson,22 Sunset,President,,REP,Over Votes,0
+Jefferson,1 Haystack,President,,REP,Under Votes,11
+Jefferson,2 Crooked River Ranch,President,,REP,Under Votes,24
+Jefferson,5 Ashwood,President,,REP,Under Votes,0
+Jefferson,6 Kutcher,President,,REP,Under Votes,0
+Jefferson,8 Lyle Gap,President,,REP,Under Votes,1
+Jefferson,11 Metolius,President,,REP,Under Votes,3
+Jefferson,13 East Madras,President,,REP,Under Votes,9
+Jefferson,14 Warm Springs,President,,REP,Under Votes,3
+Jefferson,16 Camp Sherman,President,,REP,Under Votes,0
+Jefferson,17 Culver,President,,REP,Under Votes,4
+Jefferson,18 Round Butte,President,,REP,Under Votes,3
+Jefferson,19 West Madras,President,,REP,Under Votes,3
+Jefferson,20 Circle M,President,,REP,Under Votes,0
+Jefferson,21 Central,President,,REP,Under Votes,16
+Jefferson,22 Sunset,President,,REP,Under Votes,8
+Jefferson,1 Haystack,U.S. Senate,,DEM,Ron Wyden,94
+Jefferson,2 Crooked River Ranch,U.S. Senate,,DEM,Ron Wyden,403
+Jefferson,5 Ashwood,U.S. Senate,,DEM,Ron Wyden,6
+Jefferson,6 Kutcher,U.S. Senate,,DEM,Ron Wyden,48
+Jefferson,8 Lyle Gap,U.S. Senate,,DEM,Ron Wyden,16
+Jefferson,11 Metolius,U.S. Senate,,DEM,Ron Wyden,46
+Jefferson,13 East Madras,U.S. Senate,,DEM,Ron Wyden,188
+Jefferson,14 Warm Springs,U.S. Senate,,DEM,Ron Wyden,103
+Jefferson,16 Camp Sherman,U.S. Senate,,DEM,Ron Wyden,49
+Jefferson,17 Culver,U.S. Senate,,DEM,Ron Wyden,63
+Jefferson,18 Round Butte,U.S. Senate,,DEM,Ron Wyden,46
+Jefferson,19 West Madras,U.S. Senate,,DEM,Ron Wyden,112
+Jefferson,20 Circle M,U.S. Senate,,DEM,Ron Wyden,23
+Jefferson,21 Central,U.S. Senate,,DEM,Ron Wyden,148
+Jefferson,22 Sunset,U.S. Senate,,DEM,Ron Wyden,73
+Jefferson,1 Haystack,U.S. Senate,,DEM,Paul B Weaver,4
+Jefferson,2 Crooked River Ranch,U.S. Senate,,DEM,Paul B Weaver,29
+Jefferson,5 Ashwood,U.S. Senate,,DEM,Paul B Weaver,0
+Jefferson,6 Kutcher,U.S. Senate,,DEM,Paul B Weaver,8
+Jefferson,8 Lyle Gap,U.S. Senate,,DEM,Paul B Weaver,0
+Jefferson,11 Metolius,U.S. Senate,,DEM,Paul B Weaver,4
+Jefferson,13 East Madras,U.S. Senate,,DEM,Paul B Weaver,15
+Jefferson,14 Warm Springs,U.S. Senate,,DEM,Paul B Weaver,6
+Jefferson,16 Camp Sherman,U.S. Senate,,DEM,Paul B Weaver,2
+Jefferson,17 Culver,U.S. Senate,,DEM,Paul B Weaver,5
+Jefferson,18 Round Butte,U.S. Senate,,DEM,Paul B Weaver,6
+Jefferson,19 West Madras,U.S. Senate,,DEM,Paul B Weaver,13
+Jefferson,20 Circle M,U.S. Senate,,DEM,Paul B Weaver,0
+Jefferson,21 Central,U.S. Senate,,DEM,Paul B Weaver,10
+Jefferson,22 Sunset,U.S. Senate,,DEM,Paul B Weaver,8
+Jefferson,1 Haystack,U.S. Senate,,DEM,Kevin Stine,19
+Jefferson,2 Crooked River Ranch,U.S. Senate,,DEM,Kevin Stine,53
+Jefferson,5 Ashwood,U.S. Senate,,DEM,Kevin Stine,2
+Jefferson,6 Kutcher,U.S. Senate,,DEM,Kevin Stine,2
+Jefferson,8 Lyle Gap,U.S. Senate,,DEM,Kevin Stine,3
+Jefferson,11 Metolius,U.S. Senate,,DEM,Kevin Stine,10
+Jefferson,13 East Madras,U.S. Senate,,DEM,Kevin Stine,24
+Jefferson,14 Warm Springs,U.S. Senate,,DEM,Kevin Stine,7
+Jefferson,16 Camp Sherman,U.S. Senate,,DEM,Kevin Stine,6
+Jefferson,17 Culver,U.S. Senate,,DEM,Kevin Stine,8
+Jefferson,18 Round Butte,U.S. Senate,,DEM,Kevin Stine,4
+Jefferson,19 West Madras,U.S. Senate,,DEM,Kevin Stine,27
+Jefferson,20 Circle M,U.S. Senate,,DEM,Kevin Stine,5
+Jefferson,21 Central,U.S. Senate,,DEM,Kevin Stine,18
+Jefferson,22 Sunset,U.S. Senate,,DEM,Kevin Stine,9
+Jefferson,1 Haystack,U.S. Senate,,DEM,Write-ins,2
+Jefferson,2 Crooked River Ranch,U.S. Senate,,DEM,Write-ins,1
+Jefferson,5 Ashwood,U.S. Senate,,DEM,Write-ins,0
+Jefferson,6 Kutcher,U.S. Senate,,DEM,Write-ins,0
+Jefferson,8 Lyle Gap,U.S. Senate,,DEM,Write-ins,0
+Jefferson,11 Metolius,U.S. Senate,,DEM,Write-ins,0
+Jefferson,13 East Madras,U.S. Senate,,DEM,Write-ins,4
+Jefferson,14 Warm Springs,U.S. Senate,,DEM,Write-ins,0
+Jefferson,16 Camp Sherman,U.S. Senate,,DEM,Write-ins,0
+Jefferson,17 Culver,U.S. Senate,,DEM,Write-ins,0
+Jefferson,18 Round Butte,U.S. Senate,,DEM,Write-ins,1
+Jefferson,19 West Madras,U.S. Senate,,DEM,Write-ins,3
+Jefferson,20 Circle M,U.S. Senate,,DEM,Write-ins,1
+Jefferson,21 Central,U.S. Senate,,DEM,Write-ins,0
+Jefferson,22 Sunset,U.S. Senate,,DEM,Write-ins,1
+Jefferson,1 Haystack,U.S. Senate,,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,U.S. Senate,,DEM,Over Votes,0
+Jefferson,5 Ashwood,U.S. Senate,,DEM,Over Votes,1
+Jefferson,6 Kutcher,U.S. Senate,,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,U.S. Senate,,DEM,Over Votes,0
+Jefferson,11 Metolius,U.S. Senate,,DEM,Over Votes,0
+Jefferson,13 East Madras,U.S. Senate,,DEM,Over Votes,1
+Jefferson,14 Warm Springs,U.S. Senate,,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,U.S. Senate,,DEM,Over Votes,0
+Jefferson,17 Culver,U.S. Senate,,DEM,Over Votes,0
+Jefferson,18 Round Butte,U.S. Senate,,DEM,Over Votes,0
+Jefferson,19 West Madras,U.S. Senate,,DEM,Over Votes,0
+Jefferson,20 Circle M,U.S. Senate,,DEM,Over Votes,0
+Jefferson,21 Central,U.S. Senate,,DEM,Over Votes,0
+Jefferson,22 Sunset,U.S. Senate,,DEM,Over Votes,0
+Jefferson,1 Haystack,U.S. Senate,,DEM,Under Votes,6
+Jefferson,2 Crooked River Ranch,U.S. Senate,,DEM,Under Votes,18
+Jefferson,5 Ashwood,U.S. Senate,,DEM,Under Votes,2
+Jefferson,6 Kutcher,U.S. Senate,,DEM,Under Votes,1
+Jefferson,8 Lyle Gap,U.S. Senate,,DEM,Under Votes,1
+Jefferson,11 Metolius,U.S. Senate,,DEM,Under Votes,2
+Jefferson,13 East Madras,U.S. Senate,,DEM,Under Votes,15
+Jefferson,14 Warm Springs,U.S. Senate,,DEM,Under Votes,8
+Jefferson,16 Camp Sherman,U.S. Senate,,DEM,Under Votes,5
+Jefferson,17 Culver,U.S. Senate,,DEM,Under Votes,6
+Jefferson,18 Round Butte,U.S. Senate,,DEM,Under Votes,4
+Jefferson,19 West Madras,U.S. Senate,,DEM,Under Votes,8
+Jefferson,20 Circle M,U.S. Senate,,DEM,Under Votes,2
+Jefferson,21 Central,U.S. Senate,,DEM,Under Votes,14
+Jefferson,22 Sunset,U.S. Senate,,DEM,Under Votes,8
+Jefferson,1 Haystack,U.S. Senate,,REP,Sam Carpenter,117
+Jefferson,2 Crooked River Ranch,U.S. Senate,,REP,Sam Carpenter,299
+Jefferson,5 Ashwood,U.S. Senate,,REP,Sam Carpenter,2
+Jefferson,6 Kutcher,U.S. Senate,,REP,Sam Carpenter,29
+Jefferson,8 Lyle Gap,U.S. Senate,,REP,Sam Carpenter,4
+Jefferson,11 Metolius,U.S. Senate,,REP,Sam Carpenter,15
+Jefferson,13 East Madras,U.S. Senate,,REP,Sam Carpenter,86
+Jefferson,14 Warm Springs,U.S. Senate,,REP,Sam Carpenter,4
+Jefferson,16 Camp Sherman,U.S. Senate,,REP,Sam Carpenter,14
+Jefferson,17 Culver,U.S. Senate,,REP,Sam Carpenter,59
+Jefferson,18 Round Butte,U.S. Senate,,REP,Sam Carpenter,41
+Jefferson,19 West Madras,U.S. Senate,,REP,Sam Carpenter,55
+Jefferson,20 Circle M,U.S. Senate,,REP,Sam Carpenter,10
+Jefferson,21 Central,U.S. Senate,,REP,Sam Carpenter,70
+Jefferson,22 Sunset,U.S. Senate,,REP,Sam Carpenter,56
+Jefferson,1 Haystack,U.S. Senate,,REP,Mark Callahan,95
+Jefferson,2 Crooked River Ranch,U.S. Senate,,REP,Mark Callahan,213
+Jefferson,5 Ashwood,U.S. Senate,,REP,Mark Callahan,1
+Jefferson,6 Kutcher,U.S. Senate,,REP,Mark Callahan,22
+Jefferson,8 Lyle Gap,U.S. Senate,,REP,Mark Callahan,11
+Jefferson,11 Metolius,U.S. Senate,,REP,Mark Callahan,28
+Jefferson,13 East Madras,U.S. Senate,,REP,Mark Callahan,80
+Jefferson,14 Warm Springs,U.S. Senate,,REP,Mark Callahan,9
+Jefferson,16 Camp Sherman,U.S. Senate,,REP,Mark Callahan,16
+Jefferson,17 Culver,U.S. Senate,,REP,Mark Callahan,31
+Jefferson,18 Round Butte,U.S. Senate,,REP,Mark Callahan,27
+Jefferson,19 West Madras,U.S. Senate,,REP,Mark Callahan,41
+Jefferson,20 Circle M,U.S. Senate,,REP,Mark Callahan,7
+Jefferson,21 Central,U.S. Senate,,REP,Mark Callahan,76
+Jefferson,22 Sunset,U.S. Senate,,REP,Mark Callahan,59
+Jefferson,1 Haystack,U.S. Senate,,REP,Faye Stewart,19
+Jefferson,2 Crooked River Ranch,U.S. Senate,,REP,Faye Stewart,79
+Jefferson,5 Ashwood,U.S. Senate,,REP,Faye Stewart,2
+Jefferson,6 Kutcher,U.S. Senate,,REP,Faye Stewart,3
+Jefferson,8 Lyle Gap,U.S. Senate,,REP,Faye Stewart,2
+Jefferson,11 Metolius,U.S. Senate,,REP,Faye Stewart,9
+Jefferson,13 East Madras,U.S. Senate,,REP,Faye Stewart,53
+Jefferson,14 Warm Springs,U.S. Senate,,REP,Faye Stewart,5
+Jefferson,16 Camp Sherman,U.S. Senate,,REP,Faye Stewart,3
+Jefferson,17 Culver,U.S. Senate,,REP,Faye Stewart,15
+Jefferson,18 Round Butte,U.S. Senate,,REP,Faye Stewart,5
+Jefferson,19 West Madras,U.S. Senate,,REP,Faye Stewart,29
+Jefferson,20 Circle M,U.S. Senate,,REP,Faye Stewart,0
+Jefferson,21 Central,U.S. Senate,,REP,Faye Stewart,10
+Jefferson,22 Sunset,U.S. Senate,,REP,Faye Stewart,20
+Jefferson,1 Haystack,U.S. Senate,,REP,Dan Laschober,37
+Jefferson,2 Crooked River Ranch,U.S. Senate,,REP,Dan Laschober,70
+Jefferson,5 Ashwood,U.S. Senate,,REP,Dan Laschober,6
+Jefferson,6 Kutcher,U.S. Senate,,REP,Dan Laschober,5
+Jefferson,8 Lyle Gap,U.S. Senate,,REP,Dan Laschober,6
+Jefferson,11 Metolius,U.S. Senate,,REP,Dan Laschober,3
+Jefferson,13 East Madras,U.S. Senate,,REP,Dan Laschober,18
+Jefferson,14 Warm Springs,U.S. Senate,,REP,Dan Laschober,1
+Jefferson,16 Camp Sherman,U.S. Senate,,REP,Dan Laschober,3
+Jefferson,17 Culver,U.S. Senate,,REP,Dan Laschober,10
+Jefferson,18 Round Butte,U.S. Senate,,REP,Dan Laschober,6
+Jefferson,19 West Madras,U.S. Senate,,REP,Dan Laschober,7
+Jefferson,20 Circle M,U.S. Senate,,REP,Dan Laschober,2
+Jefferson,21 Central,U.S. Senate,,REP,Dan Laschober,23
+Jefferson,22 Sunset,U.S. Senate,,REP,Dan Laschober,13
+Jefferson,1 Haystack,U.S. Senate,,REP,Write-ins,4
+Jefferson,2 Crooked River Ranch,U.S. Senate,,REP,Write-ins,2
+Jefferson,5 Ashwood,U.S. Senate,,REP,Write-ins,1
+Jefferson,6 Kutcher,U.S. Senate,,REP,Write-ins,0
+Jefferson,8 Lyle Gap,U.S. Senate,,REP,Write-ins,0
+Jefferson,11 Metolius,U.S. Senate,,REP,Write-ins,0
+Jefferson,13 East Madras,U.S. Senate,,REP,Write-ins,2
+Jefferson,14 Warm Springs,U.S. Senate,,REP,Write-ins,1
+Jefferson,16 Camp Sherman,U.S. Senate,,REP,Write-ins,0
+Jefferson,17 Culver,U.S. Senate,,REP,Write-ins,0
+Jefferson,18 Round Butte,U.S. Senate,,REP,Write-ins,0
+Jefferson,19 West Madras,U.S. Senate,,REP,Write-ins,1
+Jefferson,20 Circle M,U.S. Senate,,REP,Write-ins,0
+Jefferson,21 Central,U.S. Senate,,REP,Write-ins,1
+Jefferson,22 Sunset,U.S. Senate,,REP,Write-ins,0
+Jefferson,1 Haystack,U.S. Senate,,REP,Over Votes,0
+Jefferson,2 Crooked River Ranch,U.S. Senate,,REP,Over Votes,0
+Jefferson,5 Ashwood,U.S. Senate,,REP,Over Votes,0
+Jefferson,6 Kutcher,U.S. Senate,,REP,Over Votes,0
+Jefferson,8 Lyle Gap,U.S. Senate,,REP,Over Votes,0
+Jefferson,11 Metolius,U.S. Senate,,REP,Over Votes,0
+Jefferson,13 East Madras,U.S. Senate,,REP,Over Votes,0
+Jefferson,14 Warm Springs,U.S. Senate,,REP,Over Votes,0
+Jefferson,16 Camp Sherman,U.S. Senate,,REP,Over Votes,0
+Jefferson,17 Culver,U.S. Senate,,REP,Over Votes,0
+Jefferson,18 Round Butte,U.S. Senate,,REP,Over Votes,0
+Jefferson,19 West Madras,U.S. Senate,,REP,Over Votes,0
+Jefferson,20 Circle M,U.S. Senate,,REP,Over Votes,0
+Jefferson,21 Central,U.S. Senate,,REP,Over Votes,0
+Jefferson,22 Sunset,U.S. Senate,,REP,Over Votes,0
+Jefferson,1 Haystack,U.S. Senate,,REP,Under Votes,84
+Jefferson,2 Crooked River Ranch,U.S. Senate,,REP,Under Votes,147
+Jefferson,5 Ashwood,U.S. Senate,,REP,Under Votes,0
+Jefferson,6 Kutcher,U.S. Senate,,REP,Under Votes,34
+Jefferson,8 Lyle Gap,U.S. Senate,,REP,Under Votes,12
+Jefferson,11 Metolius,U.S. Senate,,REP,Under Votes,17
+Jefferson,13 East Madras,U.S. Senate,,REP,Under Votes,71
+Jefferson,14 Warm Springs,U.S. Senate,,REP,Under Votes,3
+Jefferson,16 Camp Sherman,U.S. Senate,,REP,Under Votes,11
+Jefferson,17 Culver,U.S. Senate,,REP,Under Votes,15
+Jefferson,18 Round Butte,U.S. Senate,,REP,Under Votes,35
+Jefferson,19 West Madras,U.S. Senate,,REP,Under Votes,28
+Jefferson,20 Circle M,U.S. Senate,,REP,Under Votes,12
+Jefferson,21 Central,U.S. Senate,,REP,Under Votes,75
+Jefferson,22 Sunset,U.S. Senate,,REP,Under Votes,68
+Jefferson,1 Haystack,U.S. House,2,DEM,James (Jim) Clary,73
+Jefferson,2 Crooked River Ranch,U.S. House,2,DEM,James (Jim) Clary,330
+Jefferson,5 Ashwood,U.S. House,2,DEM,James (Jim) Clary,6
+Jefferson,6 Kutcher,U.S. House,2,DEM,James (Jim) Clary,35
+Jefferson,8 Lyle Gap,U.S. House,2,DEM,James (Jim) Clary,15
+Jefferson,11 Metolius,U.S. House,2,DEM,James (Jim) Clary,40
+Jefferson,13 East Madras,U.S. House,2,DEM,James (Jim) Clary,143
+Jefferson,14 Warm Springs,U.S. House,2,DEM,James (Jim) Clary,93
+Jefferson,16 Camp Sherman,U.S. House,2,DEM,James (Jim) Clary,37
+Jefferson,17 Culver,U.S. House,2,DEM,James (Jim) Clary,53
+Jefferson,18 Round Butte,U.S. House,2,DEM,James (Jim) Clary,29
+Jefferson,19 West Madras,U.S. House,2,DEM,James (Jim) Clary,102
+Jefferson,20 Circle M,U.S. House,2,DEM,James (Jim) Clary,16
+Jefferson,21 Central,U.S. House,2,DEM,James (Jim) Clary,99
+Jefferson,22 Sunset,U.S. House,2,DEM,James (Jim) Clary,62
+Jefferson,1 Haystack,U.S. House,2,DEM,Write-ins,3
+Jefferson,2 Crooked River Ranch,U.S. House,2,DEM,Write-ins,4
+Jefferson,5 Ashwood,U.S. House,2,DEM,Write-ins,1
+Jefferson,6 Kutcher,U.S. House,2,DEM,Write-ins,1
+Jefferson,8 Lyle Gap,U.S. House,2,DEM,Write-ins,0
+Jefferson,11 Metolius,U.S. House,2,DEM,Write-ins,0
+Jefferson,13 East Madras,U.S. House,2,DEM,Write-ins,1
+Jefferson,14 Warm Springs,U.S. House,2,DEM,Write-ins,0
+Jefferson,16 Camp Sherman,U.S. House,2,DEM,Write-ins,0
+Jefferson,17 Culver,U.S. House,2,DEM,Write-ins,1
+Jefferson,18 Round Butte,U.S. House,2,DEM,Write-ins,2
+Jefferson,19 West Madras,U.S. House,2,DEM,Write-ins,4
+Jefferson,20 Circle M,U.S. House,2,DEM,Write-ins,2
+Jefferson,21 Central,U.S. House,2,DEM,Write-ins,0
+Jefferson,22 Sunset,U.S. House,2,DEM,Write-ins,1
+Jefferson,1 Haystack,U.S. House,2,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,U.S. House,2,DEM,Over Votes,0
+Jefferson,5 Ashwood,U.S. House,2,DEM,Over Votes,0
+Jefferson,6 Kutcher,U.S. House,2,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,U.S. House,2,DEM,Over Votes,0
+Jefferson,11 Metolius,U.S. House,2,DEM,Over Votes,0
+Jefferson,13 East Madras,U.S. House,2,DEM,Over Votes,0
+Jefferson,14 Warm Springs,U.S. House,2,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,U.S. House,2,DEM,Over Votes,0
+Jefferson,17 Culver,U.S. House,2,DEM,Over Votes,0
+Jefferson,18 Round Butte,U.S. House,2,DEM,Over Votes,0
+Jefferson,19 West Madras,U.S. House,2,DEM,Over Votes,0
+Jefferson,20 Circle M,U.S. House,2,DEM,Over Votes,0
+Jefferson,21 Central,U.S. House,2,DEM,Over Votes,0
+Jefferson,22 Sunset,U.S. House,2,DEM,Over Votes,0
+Jefferson,1 Haystack,U.S. House,2,DEM,Under Votes,49
+Jefferson,2 Crooked River Ranch,U.S. House,2,DEM,Under Votes,170
+Jefferson,5 Ashwood,U.S. House,2,DEM,Under Votes,4
+Jefferson,6 Kutcher,U.S. House,2,DEM,Under Votes,23
+Jefferson,8 Lyle Gap,U.S. House,2,DEM,Under Votes,5
+Jefferson,11 Metolius,U.S. House,2,DEM,Under Votes,22
+Jefferson,13 East Madras,U.S. House,2,DEM,Under Votes,103
+Jefferson,14 Warm Springs,U.S. House,2,DEM,Under Votes,31
+Jefferson,16 Camp Sherman,U.S. House,2,DEM,Under Votes,25
+Jefferson,17 Culver,U.S. House,2,DEM,Under Votes,28
+Jefferson,18 Round Butte,U.S. House,2,DEM,Under Votes,30
+Jefferson,19 West Madras,U.S. House,2,DEM,Under Votes,57
+Jefferson,20 Circle M,U.S. House,2,DEM,Under Votes,13
+Jefferson,21 Central,U.S. House,2,DEM,Under Votes,91
+Jefferson,22 Sunset,U.S. House,2,DEM,Under Votes,36
+Jefferson,1 Haystack,U.S. House,2,REP,Paul J Romero Jr,66
+Jefferson,2 Crooked River Ranch,U.S. House,2,REP,Paul J Romero Jr,153
+Jefferson,5 Ashwood,U.S. House,2,REP,Paul J Romero Jr,3
+Jefferson,6 Kutcher,U.S. House,2,REP,Paul J Romero Jr,6
+Jefferson,8 Lyle Gap,U.S. House,2,REP,Paul J Romero Jr,10
+Jefferson,11 Metolius,U.S. House,2,REP,Paul J Romero Jr,21
+Jefferson,13 East Madras,U.S. House,2,REP,Paul J Romero Jr,62
+Jefferson,14 Warm Springs,U.S. House,2,REP,Paul J Romero Jr,1
+Jefferson,16 Camp Sherman,U.S. House,2,REP,Paul J Romero Jr,4
+Jefferson,17 Culver,U.S. House,2,REP,Paul J Romero Jr,37
+Jefferson,18 Round Butte,U.S. House,2,REP,Paul J Romero Jr,18
+Jefferson,19 West Madras,U.S. House,2,REP,Paul J Romero Jr,34
+Jefferson,20 Circle M,U.S. House,2,REP,Paul J Romero Jr,6
+Jefferson,21 Central,U.S. House,2,REP,Paul J Romero Jr,59
+Jefferson,22 Sunset,U.S. House,2,REP,Paul J Romero Jr,28
+Jefferson,1 Haystack,U.S. House,2,REP,Greg Walden,259
+Jefferson,2 Crooked River Ranch,U.S. House,2,REP,Greg Walden,603
+Jefferson,5 Ashwood,U.S. House,2,REP,Greg Walden,9
+Jefferson,6 Kutcher,U.S. House,2,REP,Greg Walden,85
+Jefferson,8 Lyle Gap,U.S. House,2,REP,Greg Walden,24
+Jefferson,11 Metolius,U.S. House,2,REP,Greg Walden,47
+Jefferson,13 East Madras,U.S. House,2,REP,Greg Walden,226
+Jefferson,14 Warm Springs,U.S. House,2,REP,Greg Walden,20
+Jefferson,16 Camp Sherman,U.S. House,2,REP,Greg Walden,37
+Jefferson,17 Culver,U.S. House,2,REP,Greg Walden,92
+Jefferson,18 Round Butte,U.S. House,2,REP,Greg Walden,87
+Jefferson,19 West Madras,U.S. House,2,REP,Greg Walden,118
+Jefferson,20 Circle M,U.S. House,2,REP,Greg Walden,22
+Jefferson,21 Central,U.S. House,2,REP,Greg Walden,180
+Jefferson,22 Sunset,U.S. House,2,REP,Greg Walden,173
+Jefferson,1 Haystack,U.S. House,2,REP,Write-ins,0
+Jefferson,2 Crooked River Ranch,U.S. House,2,REP,Write-ins,2
+Jefferson,5 Ashwood,U.S. House,2,REP,Write-ins,0
+Jefferson,6 Kutcher,U.S. House,2,REP,Write-ins,0
+Jefferson,8 Lyle Gap,U.S. House,2,REP,Write-ins,0
+Jefferson,11 Metolius,U.S. House,2,REP,Write-ins,0
+Jefferson,13 East Madras,U.S. House,2,REP,Write-ins,1
+Jefferson,14 Warm Springs,U.S. House,2,REP,Write-ins,0
+Jefferson,16 Camp Sherman,U.S. House,2,REP,Write-ins,1
+Jefferson,17 Culver,U.S. House,2,REP,Write-ins,0
+Jefferson,18 Round Butte,U.S. House,2,REP,Write-ins,1
+Jefferson,19 West Madras,U.S. House,2,REP,Write-ins,0
+Jefferson,20 Circle M,U.S. House,2,REP,Write-ins,0
+Jefferson,21 Central,U.S. House,2,REP,Write-ins,1
+Jefferson,22 Sunset,U.S. House,2,REP,Write-ins,1
+Jefferson,1 Haystack,U.S. House,2,REP,Over Votes,1
+Jefferson,2 Crooked River Ranch,U.S. House,2,REP,Over Votes,0
+Jefferson,5 Ashwood,U.S. House,2,REP,Over Votes,0
+Jefferson,6 Kutcher,U.S. House,2,REP,Over Votes,0
+Jefferson,8 Lyle Gap,U.S. House,2,REP,Over Votes,0
+Jefferson,11 Metolius,U.S. House,2,REP,Over Votes,0
+Jefferson,13 East Madras,U.S. House,2,REP,Over Votes,0
+Jefferson,14 Warm Springs,U.S. House,2,REP,Over Votes,0
+Jefferson,16 Camp Sherman,U.S. House,2,REP,Over Votes,0
+Jefferson,17 Culver,U.S. House,2,REP,Over Votes,0
+Jefferson,18 Round Butte,U.S. House,2,REP,Over Votes,0
+Jefferson,19 West Madras,U.S. House,2,REP,Over Votes,0
+Jefferson,20 Circle M,U.S. House,2,REP,Over Votes,0
+Jefferson,21 Central,U.S. House,2,REP,Over Votes,0
+Jefferson,22 Sunset,U.S. House,2,REP,Over Votes,0
+Jefferson,1 Haystack,U.S. House,2,REP,Under Votes,30
+Jefferson,2 Crooked River Ranch,U.S. House,2,REP,Under Votes,52
+Jefferson,5 Ashwood,U.S. House,2,REP,Under Votes,0
+Jefferson,6 Kutcher,U.S. House,2,REP,Under Votes,2
+Jefferson,8 Lyle Gap,U.S. House,2,REP,Under Votes,1
+Jefferson,11 Metolius,U.S. House,2,REP,Under Votes,4
+Jefferson,13 East Madras,U.S. House,2,REP,Under Votes,21
+Jefferson,14 Warm Springs,U.S. House,2,REP,Under Votes,2
+Jefferson,16 Camp Sherman,U.S. House,2,REP,Under Votes,5
+Jefferson,17 Culver,U.S. House,2,REP,Under Votes,1
+Jefferson,18 Round Butte,U.S. House,2,REP,Under Votes,8
+Jefferson,19 West Madras,U.S. House,2,REP,Under Votes,9
+Jefferson,20 Circle M,U.S. House,2,REP,Under Votes,3
+Jefferson,21 Central,U.S. House,2,REP,Under Votes,15
+Jefferson,22 Sunset,U.S. House,2,REP,Under Votes,14
+Jefferson,1 Haystack,Governor,,DEM,Kate Brown,78
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Kate Brown,385
+Jefferson,5 Ashwood,Governor,,DEM,Kate Brown,4
+Jefferson,6 Kutcher,Governor,,DEM,Kate Brown,44
+Jefferson,8 Lyle Gap,Governor,,DEM,Kate Brown,14
+Jefferson,11 Metolius,Governor,,DEM,Kate Brown,36
+Jefferson,13 East Madras,Governor,,DEM,Kate Brown,177
+Jefferson,14 Warm Springs,Governor,,DEM,Kate Brown,106
+Jefferson,16 Camp Sherman,Governor,,DEM,Kate Brown,51
+Jefferson,17 Culver,Governor,,DEM,Kate Brown,53
+Jefferson,18 Round Butte,Governor,,DEM,Kate Brown,35
+Jefferson,19 West Madras,Governor,,DEM,Kate Brown,106
+Jefferson,20 Circle M,Governor,,DEM,Kate Brown,18
+Jefferson,21 Central,Governor,,DEM,Kate Brown,134
+Jefferson,22 Sunset,Governor,,DEM,Kate Brown,66
+Jefferson,1 Haystack,Governor,,DEM,Julian Bell,7
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Julian Bell,34
+Jefferson,5 Ashwood,Governor,,DEM,Julian Bell,0
+Jefferson,6 Kutcher,Governor,,DEM,Julian Bell,2
+Jefferson,8 Lyle Gap,Governor,,DEM,Julian Bell,1
+Jefferson,11 Metolius,Governor,,DEM,Julian Bell,3
+Jefferson,13 East Madras,Governor,,DEM,Julian Bell,12
+Jefferson,14 Warm Springs,Governor,,DEM,Julian Bell,5
+Jefferson,16 Camp Sherman,Governor,,DEM,Julian Bell,2
+Jefferson,17 Culver,Governor,,DEM,Julian Bell,4
+Jefferson,18 Round Butte,Governor,,DEM,Julian Bell,2
+Jefferson,19 West Madras,Governor,,DEM,Julian Bell,14
+Jefferson,20 Circle M,Governor,,DEM,Julian Bell,3
+Jefferson,21 Central,Governor,,DEM,Julian Bell,7
+Jefferson,22 Sunset,Governor,,DEM,Julian Bell,8
+Jefferson,1 Haystack,Governor,,DEM,Chet Chance,4
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Chet Chance,7
+Jefferson,5 Ashwood,Governor,,DEM,Chet Chance,0
+Jefferson,6 Kutcher,Governor,,DEM,Chet Chance,2
+Jefferson,8 Lyle Gap,Governor,,DEM,Chet Chance,0
+Jefferson,11 Metolius,Governor,,DEM,Chet Chance,1
+Jefferson,13 East Madras,Governor,,DEM,Chet Chance,4
+Jefferson,14 Warm Springs,Governor,,DEM,Chet Chance,0
+Jefferson,16 Camp Sherman,Governor,,DEM,Chet Chance,1
+Jefferson,17 Culver,Governor,,DEM,Chet Chance,4
+Jefferson,18 Round Butte,Governor,,DEM,Chet Chance,0
+Jefferson,19 West Madras,Governor,,DEM,Chet Chance,1
+Jefferson,20 Circle M,Governor,,DEM,Chet Chance,0
+Jefferson,21 Central,Governor,,DEM,Chet Chance,1
+Jefferson,22 Sunset,Governor,,DEM,Chet Chance,1
+Jefferson,1 Haystack,Governor,,DEM,Kevin M Forsythe,3
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Kevin M Forsythe,14
+Jefferson,5 Ashwood,Governor,,DEM,Kevin M Forsythe,0
+Jefferson,6 Kutcher,Governor,,DEM,Kevin M Forsythe,4
+Jefferson,8 Lyle Gap,Governor,,DEM,Kevin M Forsythe,0
+Jefferson,11 Metolius,Governor,,DEM,Kevin M Forsythe,2
+Jefferson,13 East Madras,Governor,,DEM,Kevin M Forsythe,6
+Jefferson,14 Warm Springs,Governor,,DEM,Kevin M Forsythe,2
+Jefferson,16 Camp Sherman,Governor,,DEM,Kevin M Forsythe,0
+Jefferson,17 Culver,Governor,,DEM,Kevin M Forsythe,5
+Jefferson,18 Round Butte,Governor,,DEM,Kevin M Forsythe,7
+Jefferson,19 West Madras,Governor,,DEM,Kevin M Forsythe,9
+Jefferson,20 Circle M,Governor,,DEM,Kevin M Forsythe,3
+Jefferson,21 Central,Governor,,DEM,Kevin M Forsythe,8
+Jefferson,22 Sunset,Governor,,DEM,Kevin M Forsythe,2
+Jefferson,1 Haystack,Governor,,DEM,Dave Stauffer,8
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Dave Stauffer,16
+Jefferson,5 Ashwood,Governor,,DEM,Dave Stauffer,3
+Jefferson,6 Kutcher,Governor,,DEM,Dave Stauffer,1
+Jefferson,8 Lyle Gap,Governor,,DEM,Dave Stauffer,0
+Jefferson,11 Metolius,Governor,,DEM,Dave Stauffer,8
+Jefferson,13 East Madras,Governor,,DEM,Dave Stauffer,10
+Jefferson,14 Warm Springs,Governor,,DEM,Dave Stauffer,4
+Jefferson,16 Camp Sherman,Governor,,DEM,Dave Stauffer,2
+Jefferson,17 Culver,Governor,,DEM,Dave Stauffer,5
+Jefferson,18 Round Butte,Governor,,DEM,Dave Stauffer,2
+Jefferson,19 West Madras,Governor,,DEM,Dave Stauffer,7
+Jefferson,20 Circle M,Governor,,DEM,Dave Stauffer,3
+Jefferson,21 Central,Governor,,DEM,Dave Stauffer,12
+Jefferson,22 Sunset,Governor,,DEM,Dave Stauffer,5
+Jefferson,1 Haystack,Governor,,DEM,Steve Johnson,12
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Steve Johnson,16
+Jefferson,5 Ashwood,Governor,,DEM,Steve Johnson,2
+Jefferson,6 Kutcher,Governor,,DEM,Steve Johnson,1
+Jefferson,8 Lyle Gap,Governor,,DEM,Steve Johnson,1
+Jefferson,11 Metolius,Governor,,DEM,Steve Johnson,6
+Jefferson,13 East Madras,Governor,,DEM,Steve Johnson,10
+Jefferson,14 Warm Springs,Governor,,DEM,Steve Johnson,1
+Jefferson,16 Camp Sherman,Governor,,DEM,Steve Johnson,3
+Jefferson,17 Culver,Governor,,DEM,Steve Johnson,2
+Jefferson,18 Round Butte,Governor,,DEM,Steve Johnson,4
+Jefferson,19 West Madras,Governor,,DEM,Steve Johnson,6
+Jefferson,20 Circle M,Governor,,DEM,Steve Johnson,2
+Jefferson,21 Central,Governor,,DEM,Steve Johnson,12
+Jefferson,22 Sunset,Governor,,DEM,Steve Johnson,6
+Jefferson,1 Haystack,Governor,,DEM,Write-ins,2
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Write-ins,5
+Jefferson,5 Ashwood,Governor,,DEM,Write-ins,0
+Jefferson,6 Kutcher,Governor,,DEM,Write-ins,3
+Jefferson,8 Lyle Gap,Governor,,DEM,Write-ins,1
+Jefferson,11 Metolius,Governor,,DEM,Write-ins,0
+Jefferson,13 East Madras,Governor,,DEM,Write-ins,6
+Jefferson,14 Warm Springs,Governor,,DEM,Write-ins,0
+Jefferson,16 Camp Sherman,Governor,,DEM,Write-ins,0
+Jefferson,17 Culver,Governor,,DEM,Write-ins,1
+Jefferson,18 Round Butte,Governor,,DEM,Write-ins,5
+Jefferson,19 West Madras,Governor,,DEM,Write-ins,7
+Jefferson,20 Circle M,Governor,,DEM,Write-ins,0
+Jefferson,21 Central,Governor,,DEM,Write-ins,1
+Jefferson,22 Sunset,Governor,,DEM,Write-ins,1
+Jefferson,1 Haystack,Governor,,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Over Votes,0
+Jefferson,5 Ashwood,Governor,,DEM,Over Votes,0
+Jefferson,6 Kutcher,Governor,,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,Governor,,DEM,Over Votes,0
+Jefferson,11 Metolius,Governor,,DEM,Over Votes,0
+Jefferson,13 East Madras,Governor,,DEM,Over Votes,1
+Jefferson,14 Warm Springs,Governor,,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,Governor,,DEM,Over Votes,0
+Jefferson,17 Culver,Governor,,DEM,Over Votes,0
+Jefferson,18 Round Butte,Governor,,DEM,Over Votes,0
+Jefferson,19 West Madras,Governor,,DEM,Over Votes,0
+Jefferson,20 Circle M,Governor,,DEM,Over Votes,0
+Jefferson,21 Central,Governor,,DEM,Over Votes,0
+Jefferson,22 Sunset,Governor,,DEM,Over Votes,0
+Jefferson,1 Haystack,Governor,,DEM,Under Votes,11
+Jefferson,2 Crooked River Ranch,Governor,,DEM,Under Votes,27
+Jefferson,5 Ashwood,Governor,,DEM,Under Votes,2
+Jefferson,6 Kutcher,Governor,,DEM,Under Votes,2
+Jefferson,8 Lyle Gap,Governor,,DEM,Under Votes,3
+Jefferson,11 Metolius,Governor,,DEM,Under Votes,6
+Jefferson,13 East Madras,Governor,,DEM,Under Votes,21
+Jefferson,14 Warm Springs,Governor,,DEM,Under Votes,6
+Jefferson,16 Camp Sherman,Governor,,DEM,Under Votes,3
+Jefferson,17 Culver,Governor,,DEM,Under Votes,8
+Jefferson,18 Round Butte,Governor,,DEM,Under Votes,6
+Jefferson,19 West Madras,Governor,,DEM,Under Votes,13
+Jefferson,20 Circle M,Governor,,DEM,Under Votes,2
+Jefferson,21 Central,Governor,,DEM,Under Votes,15
+Jefferson,22 Sunset,Governor,,DEM,Under Votes,10
+Jefferson,1 Haystack,Governor,,REP,Bruce Cuff,36
+Jefferson,2 Crooked River Ranch,Governor,,REP,Bruce Cuff,54
+Jefferson,5 Ashwood,Governor,,REP,Bruce Cuff,3
+Jefferson,6 Kutcher,Governor,,REP,Bruce Cuff,4
+Jefferson,8 Lyle Gap,Governor,,REP,Bruce Cuff,5
+Jefferson,11 Metolius,Governor,,REP,Bruce Cuff,10
+Jefferson,13 East Madras,Governor,,REP,Bruce Cuff,34
+Jefferson,14 Warm Springs,Governor,,REP,Bruce Cuff,0
+Jefferson,16 Camp Sherman,Governor,,REP,Bruce Cuff,4
+Jefferson,17 Culver,Governor,,REP,Bruce Cuff,16
+Jefferson,18 Round Butte,Governor,,REP,Bruce Cuff,10
+Jefferson,19 West Madras,Governor,,REP,Bruce Cuff,27
+Jefferson,20 Circle M,Governor,,REP,Bruce Cuff,2
+Jefferson,21 Central,Governor,,REP,Bruce Cuff,28
+Jefferson,22 Sunset,Governor,,REP,Bruce Cuff,24
+Jefferson,1 Haystack,Governor,,REP,Bob Niemeyer,41
+Jefferson,2 Crooked River Ranch,Governor,,REP,Bob Niemeyer,68
+Jefferson,5 Ashwood,Governor,,REP,Bob Niemeyer,0
+Jefferson,6 Kutcher,Governor,,REP,Bob Niemeyer,10
+Jefferson,8 Lyle Gap,Governor,,REP,Bob Niemeyer,3
+Jefferson,11 Metolius,Governor,,REP,Bob Niemeyer,10
+Jefferson,13 East Madras,Governor,,REP,Bob Niemeyer,30
+Jefferson,14 Warm Springs,Governor,,REP,Bob Niemeyer,5
+Jefferson,16 Camp Sherman,Governor,,REP,Bob Niemeyer,2
+Jefferson,17 Culver,Governor,,REP,Bob Niemeyer,18
+Jefferson,18 Round Butte,Governor,,REP,Bob Niemeyer,5
+Jefferson,19 West Madras,Governor,,REP,Bob Niemeyer,9
+Jefferson,20 Circle M,Governor,,REP,Bob Niemeyer,3
+Jefferson,21 Central,Governor,,REP,Bob Niemeyer,23
+Jefferson,22 Sunset,Governor,,REP,Bob Niemeyer,18
+Jefferson,1 Haystack,Governor,,REP,Bob Forthan,6
+Jefferson,2 Crooked River Ranch,Governor,,REP,Bob Forthan,10
+Jefferson,5 Ashwood,Governor,,REP,Bob Forthan,1
+Jefferson,6 Kutcher,Governor,,REP,Bob Forthan,1
+Jefferson,8 Lyle Gap,Governor,,REP,Bob Forthan,0
+Jefferson,11 Metolius,Governor,,REP,Bob Forthan,0
+Jefferson,13 East Madras,Governor,,REP,Bob Forthan,1
+Jefferson,14 Warm Springs,Governor,,REP,Bob Forthan,1
+Jefferson,16 Camp Sherman,Governor,,REP,Bob Forthan,0
+Jefferson,17 Culver,Governor,,REP,Bob Forthan,0
+Jefferson,18 Round Butte,Governor,,REP,Bob Forthan,1
+Jefferson,19 West Madras,Governor,,REP,Bob Forthan,3
+Jefferson,20 Circle M,Governor,,REP,Bob Forthan,0
+Jefferson,21 Central,Governor,,REP,Bob Forthan,0
+Jefferson,22 Sunset,Governor,,REP,Bob Forthan,0
+Jefferson,1 Haystack,Governor,,REP,Bud Pierce,89
+Jefferson,2 Crooked River Ranch,Governor,,REP,Bud Pierce,300
+Jefferson,5 Ashwood,Governor,,REP,Bud Pierce,3
+Jefferson,6 Kutcher,Governor,,REP,Bud Pierce,30
+Jefferson,8 Lyle Gap,Governor,,REP,Bud Pierce,11
+Jefferson,11 Metolius,Governor,,REP,Bud Pierce,18
+Jefferson,13 East Madras,Governor,,REP,Bud Pierce,105
+Jefferson,14 Warm Springs,Governor,,REP,Bud Pierce,9
+Jefferson,16 Camp Sherman,Governor,,REP,Bud Pierce,20
+Jefferson,17 Culver,Governor,,REP,Bud Pierce,38
+Jefferson,18 Round Butte,Governor,,REP,Bud Pierce,43
+Jefferson,19 West Madras,Governor,,REP,Bud Pierce,61
+Jefferson,20 Circle M,Governor,,REP,Bud Pierce,8
+Jefferson,21 Central,Governor,,REP,Bud Pierce,83
+Jefferson,22 Sunset,Governor,,REP,Bud Pierce,71
+Jefferson,1 Haystack,Governor,,REP,Allen Alley,143
+Jefferson,2 Crooked River Ranch,Governor,,REP,Allen Alley,304
+Jefferson,5 Ashwood,Governor,,REP,Allen Alley,4
+Jefferson,6 Kutcher,Governor,,REP,Allen Alley,31
+Jefferson,8 Lyle Gap,Governor,,REP,Allen Alley,9
+Jefferson,11 Metolius,Governor,,REP,Allen Alley,24
+Jefferson,13 East Madras,Governor,,REP,Allen Alley,103
+Jefferson,14 Warm Springs,Governor,,REP,Allen Alley,2
+Jefferson,16 Camp Sherman,Governor,,REP,Allen Alley,16
+Jefferson,17 Culver,Governor,,REP,Allen Alley,50
+Jefferson,18 Round Butte,Governor,,REP,Allen Alley,44
+Jefferson,19 West Madras,Governor,,REP,Allen Alley,44
+Jefferson,20 Circle M,Governor,,REP,Allen Alley,12
+Jefferson,21 Central,Governor,,REP,Allen Alley,94
+Jefferson,22 Sunset,Governor,,REP,Allen Alley,80
+Jefferson,1 Haystack,Governor,,REP,Write-ins,2
+Jefferson,2 Crooked River Ranch,Governor,,REP,Write-ins,4
+Jefferson,5 Ashwood,Governor,,REP,Write-ins,1
+Jefferson,6 Kutcher,Governor,,REP,Write-ins,0
+Jefferson,8 Lyle Gap,Governor,,REP,Write-ins,0
+Jefferson,11 Metolius,Governor,,REP,Write-ins,0
+Jefferson,13 East Madras,Governor,,REP,Write-ins,1
+Jefferson,14 Warm Springs,Governor,,REP,Write-ins,2
+Jefferson,16 Camp Sherman,Governor,,REP,Write-ins,0
+Jefferson,17 Culver,Governor,,REP,Write-ins,1
+Jefferson,18 Round Butte,Governor,,REP,Write-ins,0
+Jefferson,19 West Madras,Governor,,REP,Write-ins,0
+Jefferson,20 Circle M,Governor,,REP,Write-ins,0
+Jefferson,21 Central,Governor,,REP,Write-ins,1
+Jefferson,22 Sunset,Governor,,REP,Write-ins,0
+Jefferson,1 Haystack,Governor,,REP,Over Votes,0
+Jefferson,2 Crooked River Ranch,Governor,,REP,Over Votes,0
+Jefferson,5 Ashwood,Governor,,REP,Over Votes,0
+Jefferson,6 Kutcher,Governor,,REP,Over Votes,1
+Jefferson,8 Lyle Gap,Governor,,REP,Over Votes,0
+Jefferson,11 Metolius,Governor,,REP,Over Votes,0
+Jefferson,13 East Madras,Governor,,REP,Over Votes,1
+Jefferson,14 Warm Springs,Governor,,REP,Over Votes,0
+Jefferson,16 Camp Sherman,Governor,,REP,Over Votes,0
+Jefferson,17 Culver,Governor,,REP,Over Votes,0
+Jefferson,18 Round Butte,Governor,,REP,Over Votes,0
+Jefferson,19 West Madras,Governor,,REP,Over Votes,0
+Jefferson,20 Circle M,Governor,,REP,Over Votes,0
+Jefferson,21 Central,Governor,,REP,Over Votes,1
+Jefferson,22 Sunset,Governor,,REP,Over Votes,0
+Jefferson,1 Haystack,Governor,,REP,Under Votes,39
+Jefferson,2 Crooked River Ranch,Governor,,REP,Under Votes,70
+Jefferson,5 Ashwood,Governor,,REP,Under Votes,0
+Jefferson,6 Kutcher,Governor,,REP,Under Votes,16
+Jefferson,8 Lyle Gap,Governor,,REP,Under Votes,7
+Jefferson,11 Metolius,Governor,,REP,Under Votes,10
+Jefferson,13 East Madras,Governor,,REP,Under Votes,35
+Jefferson,14 Warm Springs,Governor,,REP,Under Votes,4
+Jefferson,16 Camp Sherman,Governor,,REP,Under Votes,5
+Jefferson,17 Culver,Governor,,REP,Under Votes,7
+Jefferson,18 Round Butte,Governor,,REP,Under Votes,11
+Jefferson,19 West Madras,Governor,,REP,Under Votes,17
+Jefferson,20 Circle M,Governor,,REP,Under Votes,6
+Jefferson,21 Central,Governor,,REP,Under Votes,25
+Jefferson,22 Sunset,Governor,,REP,Under Votes,23
+Jefferson,1 Haystack,Secretary of State,,DEM,Richard Devlin,28
+Jefferson,2 Crooked River Ranch,Secretary of State,,DEM,Richard Devlin,106
+Jefferson,5 Ashwood,Secretary of State,,DEM,Richard Devlin,2
+Jefferson,6 Kutcher,Secretary of State,,DEM,Richard Devlin,18
+Jefferson,8 Lyle Gap,Secretary of State,,DEM,Richard Devlin,6
+Jefferson,11 Metolius,Secretary of State,,DEM,Richard Devlin,15
+Jefferson,13 East Madras,Secretary of State,,DEM,Richard Devlin,65
+Jefferson,14 Warm Springs,Secretary of State,,DEM,Richard Devlin,43
+Jefferson,16 Camp Sherman,Secretary of State,,DEM,Richard Devlin,18
+Jefferson,17 Culver,Secretary of State,,DEM,Richard Devlin,21
+Jefferson,18 Round Butte,Secretary of State,,DEM,Richard Devlin,10
+Jefferson,19 West Madras,Secretary of State,,DEM,Richard Devlin,41
+Jefferson,20 Circle M,Secretary of State,,DEM,Richard Devlin,6
+Jefferson,21 Central,Secretary of State,,DEM,Richard Devlin,46
+Jefferson,22 Sunset,Secretary of State,,DEM,Richard Devlin,30
+Jefferson,1 Haystack,Secretary of State,,DEM,Brad Avakian,26
+Jefferson,2 Crooked River Ranch,Secretary of State,,DEM,Brad Avakian,180
+Jefferson,5 Ashwood,Secretary of State,,DEM,Brad Avakian,4
+Jefferson,6 Kutcher,Secretary of State,,DEM,Brad Avakian,18
+Jefferson,8 Lyle Gap,Secretary of State,,DEM,Brad Avakian,10
+Jefferson,11 Metolius,Secretary of State,,DEM,Brad Avakian,18
+Jefferson,13 East Madras,Secretary of State,,DEM,Brad Avakian,72
+Jefferson,14 Warm Springs,Secretary of State,,DEM,Brad Avakian,29
+Jefferson,16 Camp Sherman,Secretary of State,,DEM,Brad Avakian,19
+Jefferson,17 Culver,Secretary of State,,DEM,Brad Avakian,15
+Jefferson,18 Round Butte,Secretary of State,,DEM,Brad Avakian,17
+Jefferson,19 West Madras,Secretary of State,,DEM,Brad Avakian,42
+Jefferson,20 Circle M,Secretary of State,,DEM,Brad Avakian,6
+Jefferson,21 Central,Secretary of State,,DEM,Brad Avakian,45
+Jefferson,22 Sunset,Secretary of State,,DEM,Brad Avakian,29
+Jefferson,1 Haystack,Secretary of State,,DEM,Val Hoyle,41
+Jefferson,2 Crooked River Ranch,Secretary of State,,DEM,Val Hoyle,143
+Jefferson,5 Ashwood,Secretary of State,,DEM,Val Hoyle,1
+Jefferson,6 Kutcher,Secretary of State,,DEM,Val Hoyle,17
+Jefferson,8 Lyle Gap,Secretary of State,,DEM,Val Hoyle,1
+Jefferson,11 Metolius,Secretary of State,,DEM,Val Hoyle,18
+Jefferson,13 East Madras,Secretary of State,,DEM,Val Hoyle,64
+Jefferson,14 Warm Springs,Secretary of State,,DEM,Val Hoyle,38
+Jefferson,16 Camp Sherman,Secretary of State,,DEM,Val Hoyle,16
+Jefferson,17 Culver,Secretary of State,,DEM,Val Hoyle,30
+Jefferson,18 Round Butte,Secretary of State,,DEM,Val Hoyle,19
+Jefferson,19 West Madras,Secretary of State,,DEM,Val Hoyle,47
+Jefferson,20 Circle M,Secretary of State,,DEM,Val Hoyle,9
+Jefferson,21 Central,Secretary of State,,DEM,Val Hoyle,51
+Jefferson,22 Sunset,Secretary of State,,DEM,Val Hoyle,25
+Jefferson,1 Haystack,Secretary of State,,DEM,Write-ins,0
+Jefferson,2 Crooked River Ranch,Secretary of State,,DEM,Write-ins,3
+Jefferson,5 Ashwood,Secretary of State,,DEM,Write-ins,0
+Jefferson,6 Kutcher,Secretary of State,,DEM,Write-ins,0
+Jefferson,8 Lyle Gap,Secretary of State,,DEM,Write-ins,0
+Jefferson,11 Metolius,Secretary of State,,DEM,Write-ins,0
+Jefferson,13 East Madras,Secretary of State,,DEM,Write-ins,2
+Jefferson,14 Warm Springs,Secretary of State,,DEM,Write-ins,0
+Jefferson,16 Camp Sherman,Secretary of State,,DEM,Write-ins,0
+Jefferson,17 Culver,Secretary of State,,DEM,Write-ins,0
+Jefferson,18 Round Butte,Secretary of State,,DEM,Write-ins,0
+Jefferson,19 West Madras,Secretary of State,,DEM,Write-ins,4
+Jefferson,20 Circle M,Secretary of State,,DEM,Write-ins,1
+Jefferson,21 Central,Secretary of State,,DEM,Write-ins,0
+Jefferson,22 Sunset,Secretary of State,,DEM,Write-ins,1
+Jefferson,1 Haystack,Secretary of State,,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,Secretary of State,,DEM,Over Votes,0
+Jefferson,5 Ashwood,Secretary of State,,DEM,Over Votes,0
+Jefferson,6 Kutcher,Secretary of State,,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,Secretary of State,,DEM,Over Votes,0
+Jefferson,11 Metolius,Secretary of State,,DEM,Over Votes,0
+Jefferson,13 East Madras,Secretary of State,,DEM,Over Votes,0
+Jefferson,14 Warm Springs,Secretary of State,,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,Secretary of State,,DEM,Over Votes,0
+Jefferson,17 Culver,Secretary of State,,DEM,Over Votes,0
+Jefferson,18 Round Butte,Secretary of State,,DEM,Over Votes,0
+Jefferson,19 West Madras,Secretary of State,,DEM,Over Votes,0
+Jefferson,20 Circle M,Secretary of State,,DEM,Over Votes,0
+Jefferson,21 Central,Secretary of State,,DEM,Over Votes,0
+Jefferson,22 Sunset,Secretary of State,,DEM,Over Votes,0
+Jefferson,1 Haystack,Secretary of State,,DEM,Under Votes,30
+Jefferson,2 Crooked River Ranch,Secretary of State,,DEM,Under Votes,72
+Jefferson,5 Ashwood,Secretary of State,,DEM,Under Votes,4
+Jefferson,6 Kutcher,Secretary of State,,DEM,Under Votes,6
+Jefferson,8 Lyle Gap,Secretary of State,,DEM,Under Votes,3
+Jefferson,11 Metolius,Secretary of State,,DEM,Under Votes,11
+Jefferson,13 East Madras,Secretary of State,,DEM,Under Votes,44
+Jefferson,14 Warm Springs,Secretary of State,,DEM,Under Votes,14
+Jefferson,16 Camp Sherman,Secretary of State,,DEM,Under Votes,9
+Jefferson,17 Culver,Secretary of State,,DEM,Under Votes,16
+Jefferson,18 Round Butte,Secretary of State,,DEM,Under Votes,15
+Jefferson,19 West Madras,Secretary of State,,DEM,Under Votes,29
+Jefferson,20 Circle M,Secretary of State,,DEM,Under Votes,9
+Jefferson,21 Central,Secretary of State,,DEM,Under Votes,48
+Jefferson,22 Sunset,Secretary of State,,DEM,Under Votes,14
+Jefferson,1 Haystack,Secretary of State,,REP,Dennis Richardson,248
+Jefferson,2 Crooked River Ranch,Secretary of State,,REP,Dennis Richardson,582
+Jefferson,5 Ashwood,Secretary of State,,REP,Dennis Richardson,11
+Jefferson,6 Kutcher,Secretary of State,,REP,Dennis Richardson,65
+Jefferson,8 Lyle Gap,Secretary of State,,REP,Dennis Richardson,19
+Jefferson,11 Metolius,Secretary of State,,REP,Dennis Richardson,53
+Jefferson,13 East Madras,Secretary of State,,REP,Dennis Richardson,211
+Jefferson,14 Warm Springs,Secretary of State,,REP,Dennis Richardson,14
+Jefferson,16 Camp Sherman,Secretary of State,,REP,Dennis Richardson,39
+Jefferson,17 Culver,Secretary of State,,REP,Dennis Richardson,98
+Jefferson,18 Round Butte,Secretary of State,,REP,Dennis Richardson,90
+Jefferson,19 West Madras,Secretary of State,,REP,Dennis Richardson,106
+Jefferson,20 Circle M,Secretary of State,,REP,Dennis Richardson,18
+Jefferson,21 Central,Secretary of State,,REP,Dennis Richardson,181
+Jefferson,22 Sunset,Secretary of State,,REP,Dennis Richardson,161
+Jefferson,1 Haystack,Secretary of State,,REP,Sid Leiken,44
+Jefferson,2 Crooked River Ranch,Secretary of State,,REP,Sid Leiken,115
+Jefferson,5 Ashwood,Secretary of State,,REP,Sid Leiken,0
+Jefferson,6 Kutcher,Secretary of State,,REP,Sid Leiken,6
+Jefferson,8 Lyle Gap,Secretary of State,,REP,Sid Leiken,7
+Jefferson,11 Metolius,Secretary of State,,REP,Sid Leiken,10
+Jefferson,13 East Madras,Secretary of State,,REP,Sid Leiken,47
+Jefferson,14 Warm Springs,Secretary of State,,REP,Sid Leiken,4
+Jefferson,16 Camp Sherman,Secretary of State,,REP,Sid Leiken,0
+Jefferson,17 Culver,Secretary of State,,REP,Sid Leiken,20
+Jefferson,18 Round Butte,Secretary of State,,REP,Sid Leiken,11
+Jefferson,19 West Madras,Secretary of State,,REP,Sid Leiken,31
+Jefferson,20 Circle M,Secretary of State,,REP,Sid Leiken,2
+Jefferson,21 Central,Secretary of State,,REP,Sid Leiken,35
+Jefferson,22 Sunset,Secretary of State,,REP,Sid Leiken,23
+Jefferson,1 Haystack,Secretary of State,,REP,Write-ins,1
+Jefferson,2 Crooked River Ranch,Secretary of State,,REP,Write-ins,3
+Jefferson,5 Ashwood,Secretary of State,,REP,Write-ins,0
+Jefferson,6 Kutcher,Secretary of State,,REP,Write-ins,0
+Jefferson,8 Lyle Gap,Secretary of State,,REP,Write-ins,0
+Jefferson,11 Metolius,Secretary of State,,REP,Write-ins,0
+Jefferson,13 East Madras,Secretary of State,,REP,Write-ins,1
+Jefferson,14 Warm Springs,Secretary of State,,REP,Write-ins,1
+Jefferson,16 Camp Sherman,Secretary of State,,REP,Write-ins,0
+Jefferson,17 Culver,Secretary of State,,REP,Write-ins,0
+Jefferson,18 Round Butte,Secretary of State,,REP,Write-ins,0
+Jefferson,19 West Madras,Secretary of State,,REP,Write-ins,0
+Jefferson,20 Circle M,Secretary of State,,REP,Write-ins,0
+Jefferson,21 Central,Secretary of State,,REP,Write-ins,0
+Jefferson,22 Sunset,Secretary of State,,REP,Write-ins,0
+Jefferson,1 Haystack,Secretary of State,,REP,Over Votes,0
+Jefferson,2 Crooked River Ranch,Secretary of State,,REP,Over Votes,0
+Jefferson,5 Ashwood,Secretary of State,,REP,Over Votes,0
+Jefferson,6 Kutcher,Secretary of State,,REP,Over Votes,0
+Jefferson,8 Lyle Gap,Secretary of State,,REP,Over Votes,0
+Jefferson,11 Metolius,Secretary of State,,REP,Over Votes,0
+Jefferson,13 East Madras,Secretary of State,,REP,Over Votes,0
+Jefferson,14 Warm Springs,Secretary of State,,REP,Over Votes,0
+Jefferson,16 Camp Sherman,Secretary of State,,REP,Over Votes,0
+Jefferson,17 Culver,Secretary of State,,REP,Over Votes,0
+Jefferson,18 Round Butte,Secretary of State,,REP,Over Votes,0
+Jefferson,19 West Madras,Secretary of State,,REP,Over Votes,0
+Jefferson,20 Circle M,Secretary of State,,REP,Over Votes,0
+Jefferson,21 Central,Secretary of State,,REP,Over Votes,0
+Jefferson,22 Sunset,Secretary of State,,REP,Over Votes,0
+Jefferson,1 Haystack,Secretary of State,,REP,Under Votes,63
+Jefferson,2 Crooked River Ranch,Secretary of State,,REP,Under Votes,110
+Jefferson,5 Ashwood,Secretary of State,,REP,Under Votes,1
+Jefferson,6 Kutcher,Secretary of State,,REP,Under Votes,22
+Jefferson,8 Lyle Gap,Secretary of State,,REP,Under Votes,9
+Jefferson,11 Metolius,Secretary of State,,REP,Under Votes,9
+Jefferson,13 East Madras,Secretary of State,,REP,Under Votes,51
+Jefferson,14 Warm Springs,Secretary of State,,REP,Under Votes,4
+Jefferson,16 Camp Sherman,Secretary of State,,REP,Under Votes,8
+Jefferson,17 Culver,Secretary of State,,REP,Under Votes,12
+Jefferson,18 Round Butte,Secretary of State,,REP,Under Votes,13
+Jefferson,19 West Madras,Secretary of State,,REP,Under Votes,24
+Jefferson,20 Circle M,Secretary of State,,REP,Under Votes,11
+Jefferson,21 Central,Secretary of State,,REP,Under Votes,39
+Jefferson,22 Sunset,Secretary of State,,REP,Under Votes,32
+Jefferson,1 Haystack,State Treasurer,,DEM,Tobias Read,74
+Jefferson,2 Crooked River Ranch,State Treasurer,,DEM,Tobias Read,345
+Jefferson,5 Ashwood,State Treasurer,,DEM,Tobias Read,4
+Jefferson,6 Kutcher,State Treasurer,,DEM,Tobias Read,38
+Jefferson,8 Lyle Gap,State Treasurer,,DEM,Tobias Read,13
+Jefferson,11 Metolius,State Treasurer,,DEM,Tobias Read,41
+Jefferson,13 East Madras,State Treasurer,,DEM,Tobias Read,155
+Jefferson,14 Warm Springs,State Treasurer,,DEM,Tobias Read,100
+Jefferson,16 Camp Sherman,State Treasurer,,DEM,Tobias Read,44
+Jefferson,17 Culver,State Treasurer,,DEM,Tobias Read,55
+Jefferson,18 Round Butte,State Treasurer,,DEM,Tobias Read,33
+Jefferson,19 West Madras,State Treasurer,,DEM,Tobias Read,111
+Jefferson,20 Circle M,State Treasurer,,DEM,Tobias Read,18
+Jefferson,21 Central,State Treasurer,,DEM,Tobias Read,112
+Jefferson,22 Sunset,State Treasurer,,DEM,Tobias Read,64
+Jefferson,1 Haystack,State Treasurer,,DEM,Write-ins,3
+Jefferson,2 Crooked River Ranch,State Treasurer,,DEM,Write-ins,5
+Jefferson,5 Ashwood,State Treasurer,,DEM,Write-ins,0
+Jefferson,6 Kutcher,State Treasurer,,DEM,Write-ins,2
+Jefferson,8 Lyle Gap,State Treasurer,,DEM,Write-ins,0
+Jefferson,11 Metolius,State Treasurer,,DEM,Write-ins,0
+Jefferson,13 East Madras,State Treasurer,,DEM,Write-ins,3
+Jefferson,14 Warm Springs,State Treasurer,,DEM,Write-ins,0
+Jefferson,16 Camp Sherman,State Treasurer,,DEM,Write-ins,0
+Jefferson,17 Culver,State Treasurer,,DEM,Write-ins,2
+Jefferson,18 Round Butte,State Treasurer,,DEM,Write-ins,2
+Jefferson,19 West Madras,State Treasurer,,DEM,Write-ins,4
+Jefferson,20 Circle M,State Treasurer,,DEM,Write-ins,1
+Jefferson,21 Central,State Treasurer,,DEM,Write-ins,0
+Jefferson,22 Sunset,State Treasurer,,DEM,Write-ins,1
+Jefferson,1 Haystack,State Treasurer,,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,State Treasurer,,DEM,Over Votes,0
+Jefferson,5 Ashwood,State Treasurer,,DEM,Over Votes,0
+Jefferson,6 Kutcher,State Treasurer,,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,State Treasurer,,DEM,Over Votes,0
+Jefferson,11 Metolius,State Treasurer,,DEM,Over Votes,0
+Jefferson,13 East Madras,State Treasurer,,DEM,Over Votes,0
+Jefferson,14 Warm Springs,State Treasurer,,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,State Treasurer,,DEM,Over Votes,0
+Jefferson,17 Culver,State Treasurer,,DEM,Over Votes,0
+Jefferson,18 Round Butte,State Treasurer,,DEM,Over Votes,0
+Jefferson,19 West Madras,State Treasurer,,DEM,Over Votes,0
+Jefferson,20 Circle M,State Treasurer,,DEM,Over Votes,0
+Jefferson,21 Central,State Treasurer,,DEM,Over Votes,0
+Jefferson,22 Sunset,State Treasurer,,DEM,Over Votes,0
+Jefferson,1 Haystack,State Treasurer,,DEM,Under Votes,48
+Jefferson,2 Crooked River Ranch,State Treasurer,,DEM,Under Votes,154
+Jefferson,5 Ashwood,State Treasurer,,DEM,Under Votes,7
+Jefferson,6 Kutcher,State Treasurer,,DEM,Under Votes,19
+Jefferson,8 Lyle Gap,State Treasurer,,DEM,Under Votes,7
+Jefferson,11 Metolius,State Treasurer,,DEM,Under Votes,21
+Jefferson,13 East Madras,State Treasurer,,DEM,Under Votes,89
+Jefferson,14 Warm Springs,State Treasurer,,DEM,Under Votes,24
+Jefferson,16 Camp Sherman,State Treasurer,,DEM,Under Votes,18
+Jefferson,17 Culver,State Treasurer,,DEM,Under Votes,25
+Jefferson,18 Round Butte,State Treasurer,,DEM,Under Votes,26
+Jefferson,19 West Madras,State Treasurer,,DEM,Under Votes,48
+Jefferson,20 Circle M,State Treasurer,,DEM,Under Votes,12
+Jefferson,21 Central,State Treasurer,,DEM,Under Votes,78
+Jefferson,22 Sunset,State Treasurer,,DEM,Under Votes,34
+Jefferson,1 Haystack,State Treasurer,,REP,Jeff Gudman,217
+Jefferson,2 Crooked River Ranch,State Treasurer,,REP,Jeff Gudman,552
+Jefferson,5 Ashwood,State Treasurer,,REP,Jeff Gudman,7
+Jefferson,6 Kutcher,State Treasurer,,REP,Jeff Gudman,57
+Jefferson,8 Lyle Gap,State Treasurer,,REP,Jeff Gudman,21
+Jefferson,11 Metolius,State Treasurer,,REP,Jeff Gudman,55
+Jefferson,13 East Madras,State Treasurer,,REP,Jeff Gudman,201
+Jefferson,14 Warm Springs,State Treasurer,,REP,Jeff Gudman,15
+Jefferson,16 Camp Sherman,State Treasurer,,REP,Jeff Gudman,29
+Jefferson,17 Culver,State Treasurer,,REP,Jeff Gudman,88
+Jefferson,18 Round Butte,State Treasurer,,REP,Jeff Gudman,85
+Jefferson,19 West Madras,State Treasurer,,REP,Jeff Gudman,104
+Jefferson,20 Circle M,State Treasurer,,REP,Jeff Gudman,14
+Jefferson,21 Central,State Treasurer,,REP,Jeff Gudman,164
+Jefferson,22 Sunset,State Treasurer,,REP,Jeff Gudman,134
+Jefferson,1 Haystack,State Treasurer,,REP,Write-ins,1
+Jefferson,2 Crooked River Ranch,State Treasurer,,REP,Write-ins,11
+Jefferson,5 Ashwood,State Treasurer,,REP,Write-ins,0
+Jefferson,6 Kutcher,State Treasurer,,REP,Write-ins,1
+Jefferson,8 Lyle Gap,State Treasurer,,REP,Write-ins,0
+Jefferson,11 Metolius,State Treasurer,,REP,Write-ins,0
+Jefferson,13 East Madras,State Treasurer,,REP,Write-ins,3
+Jefferson,14 Warm Springs,State Treasurer,,REP,Write-ins,0
+Jefferson,16 Camp Sherman,State Treasurer,,REP,Write-ins,0
+Jefferson,17 Culver,State Treasurer,,REP,Write-ins,0
+Jefferson,18 Round Butte,State Treasurer,,REP,Write-ins,0
+Jefferson,19 West Madras,State Treasurer,,REP,Write-ins,2
+Jefferson,20 Circle M,State Treasurer,,REP,Write-ins,0
+Jefferson,21 Central,State Treasurer,,REP,Write-ins,2
+Jefferson,22 Sunset,State Treasurer,,REP,Write-ins,1
+Jefferson,1 Haystack,State Treasurer,,REP,Over Votes,0
+Jefferson,2 Crooked River Ranch,State Treasurer,,REP,Over Votes,0
+Jefferson,5 Ashwood,State Treasurer,,REP,Over Votes,0
+Jefferson,6 Kutcher,State Treasurer,,REP,Over Votes,0
+Jefferson,8 Lyle Gap,State Treasurer,,REP,Over Votes,0
+Jefferson,11 Metolius,State Treasurer,,REP,Over Votes,0
+Jefferson,13 East Madras,State Treasurer,,REP,Over Votes,0
+Jefferson,14 Warm Springs,State Treasurer,,REP,Over Votes,0
+Jefferson,16 Camp Sherman,State Treasurer,,REP,Over Votes,0
+Jefferson,17 Culver,State Treasurer,,REP,Over Votes,0
+Jefferson,18 Round Butte,State Treasurer,,REP,Over Votes,0
+Jefferson,19 West Madras,State Treasurer,,REP,Over Votes,0
+Jefferson,20 Circle M,State Treasurer,,REP,Over Votes,0
+Jefferson,21 Central,State Treasurer,,REP,Over Votes,0
+Jefferson,22 Sunset,State Treasurer,,REP,Over Votes,0
+Jefferson,1 Haystack,State Treasurer,,REP,Under Votes,138
+Jefferson,2 Crooked River Ranch,State Treasurer,,REP,Under Votes,247
+Jefferson,5 Ashwood,State Treasurer,,REP,Under Votes,5
+Jefferson,6 Kutcher,State Treasurer,,REP,Under Votes,35
+Jefferson,8 Lyle Gap,State Treasurer,,REP,Under Votes,14
+Jefferson,11 Metolius,State Treasurer,,REP,Under Votes,17
+Jefferson,13 East Madras,State Treasurer,,REP,Under Votes,106
+Jefferson,14 Warm Springs,State Treasurer,,REP,Under Votes,8
+Jefferson,16 Camp Sherman,State Treasurer,,REP,Under Votes,18
+Jefferson,17 Culver,State Treasurer,,REP,Under Votes,42
+Jefferson,18 Round Butte,State Treasurer,,REP,Under Votes,29
+Jefferson,19 West Madras,State Treasurer,,REP,Under Votes,55
+Jefferson,20 Circle M,State Treasurer,,REP,Under Votes,17
+Jefferson,21 Central,State Treasurer,,REP,Under Votes,89
+Jefferson,22 Sunset,State Treasurer,,REP,Under Votes,81
+Jefferson,1 Haystack,Attorney General,,DEM,Ellen Rosenblum,80
+Jefferson,2 Crooked River Ranch,Attorney General,,DEM,Ellen Rosenblum,360
+Jefferson,5 Ashwood,Attorney General,,DEM,Ellen Rosenblum,4
+Jefferson,6 Kutcher,Attorney General,,DEM,Ellen Rosenblum,41
+Jefferson,8 Lyle Gap,Attorney General,,DEM,Ellen Rosenblum,14
+Jefferson,11 Metolius,Attorney General,,DEM,Ellen Rosenblum,43
+Jefferson,13 East Madras,Attorney General,,DEM,Ellen Rosenblum,161
+Jefferson,14 Warm Springs,Attorney General,,DEM,Ellen Rosenblum,103
+Jefferson,16 Camp Sherman,Attorney General,,DEM,Ellen Rosenblum,47
+Jefferson,17 Culver,Attorney General,,DEM,Ellen Rosenblum,61
+Jefferson,18 Round Butte,Attorney General,,DEM,Ellen Rosenblum,36
+Jefferson,19 West Madras,Attorney General,,DEM,Ellen Rosenblum,110
+Jefferson,20 Circle M,Attorney General,,DEM,Ellen Rosenblum,20
+Jefferson,21 Central,Attorney General,,DEM,Ellen Rosenblum,109
+Jefferson,22 Sunset,Attorney General,,DEM,Ellen Rosenblum,61
+Jefferson,1 Haystack,Attorney General,,DEM,Write-ins,1
+Jefferson,2 Crooked River Ranch,Attorney General,,DEM,Write-ins,2
+Jefferson,5 Ashwood,Attorney General,,DEM,Write-ins,0
+Jefferson,6 Kutcher,Attorney General,,DEM,Write-ins,0
+Jefferson,8 Lyle Gap,Attorney General,,DEM,Write-ins,0
+Jefferson,11 Metolius,Attorney General,,DEM,Write-ins,0
+Jefferson,13 East Madras,Attorney General,,DEM,Write-ins,1
+Jefferson,14 Warm Springs,Attorney General,,DEM,Write-ins,0
+Jefferson,16 Camp Sherman,Attorney General,,DEM,Write-ins,0
+Jefferson,17 Culver,Attorney General,,DEM,Write-ins,2
+Jefferson,18 Round Butte,Attorney General,,DEM,Write-ins,0
+Jefferson,19 West Madras,Attorney General,,DEM,Write-ins,3
+Jefferson,20 Circle M,Attorney General,,DEM,Write-ins,0
+Jefferson,21 Central,Attorney General,,DEM,Write-ins,0
+Jefferson,22 Sunset,Attorney General,,DEM,Write-ins,0
+Jefferson,1 Haystack,Attorney General,,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,Attorney General,,DEM,Over Votes,0
+Jefferson,5 Ashwood,Attorney General,,DEM,Over Votes,0
+Jefferson,6 Kutcher,Attorney General,,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,Attorney General,,DEM,Over Votes,0
+Jefferson,11 Metolius,Attorney General,,DEM,Over Votes,0
+Jefferson,13 East Madras,Attorney General,,DEM,Over Votes,0
+Jefferson,14 Warm Springs,Attorney General,,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,Attorney General,,DEM,Over Votes,0
+Jefferson,17 Culver,Attorney General,,DEM,Over Votes,0
+Jefferson,18 Round Butte,Attorney General,,DEM,Over Votes,0
+Jefferson,19 West Madras,Attorney General,,DEM,Over Votes,0
+Jefferson,20 Circle M,Attorney General,,DEM,Over Votes,0
+Jefferson,21 Central,Attorney General,,DEM,Over Votes,0
+Jefferson,22 Sunset,Attorney General,,DEM,Over Votes,0
+Jefferson,1 Haystack,Attorney General,,DEM,Under Votes,44
+Jefferson,2 Crooked River Ranch,Attorney General,,DEM,Under Votes,142
+Jefferson,5 Ashwood,Attorney General,,DEM,Under Votes,7
+Jefferson,6 Kutcher,Attorney General,,DEM,Under Votes,18
+Jefferson,8 Lyle Gap,Attorney General,,DEM,Under Votes,6
+Jefferson,11 Metolius,Attorney General,,DEM,Under Votes,19
+Jefferson,13 East Madras,Attorney General,,DEM,Under Votes,85
+Jefferson,14 Warm Springs,Attorney General,,DEM,Under Votes,21
+Jefferson,16 Camp Sherman,Attorney General,,DEM,Under Votes,15
+Jefferson,17 Culver,Attorney General,,DEM,Under Votes,19
+Jefferson,18 Round Butte,Attorney General,,DEM,Under Votes,25
+Jefferson,19 West Madras,Attorney General,,DEM,Under Votes,50
+Jefferson,20 Circle M,Attorney General,,DEM,Under Votes,11
+Jefferson,21 Central,Attorney General,,DEM,Under Votes,81
+Jefferson,22 Sunset,Attorney General,,DEM,Under Votes,38
+Jefferson,1 Haystack,Attorney General,,REP,Daniel Zene Crowe,189
+Jefferson,2 Crooked River Ranch,Attorney General,,REP,Daniel Zene Crowe,506
+Jefferson,5 Ashwood,Attorney General,,REP,Daniel Zene Crowe,8
+Jefferson,6 Kutcher,Attorney General,,REP,Daniel Zene Crowe,53
+Jefferson,8 Lyle Gap,Attorney General,,REP,Daniel Zene Crowe,19
+Jefferson,11 Metolius,Attorney General,,REP,Daniel Zene Crowe,43
+Jefferson,13 East Madras,Attorney General,,REP,Daniel Zene Crowe,180
+Jefferson,14 Warm Springs,Attorney General,,REP,Daniel Zene Crowe,17
+Jefferson,16 Camp Sherman,Attorney General,,REP,Daniel Zene Crowe,22
+Jefferson,17 Culver,Attorney General,,REP,Daniel Zene Crowe,78
+Jefferson,18 Round Butte,Attorney General,,REP,Daniel Zene Crowe,75
+Jefferson,19 West Madras,Attorney General,,REP,Daniel Zene Crowe,100
+Jefferson,20 Circle M,Attorney General,,REP,Daniel Zene Crowe,13
+Jefferson,21 Central,Attorney General,,REP,Daniel Zene Crowe,148
+Jefferson,22 Sunset,Attorney General,,REP,Daniel Zene Crowe,119
+Jefferson,1 Haystack,Attorney General,,REP,Write-ins,0
+Jefferson,2 Crooked River Ranch,Attorney General,,REP,Write-ins,3
+Jefferson,5 Ashwood,Attorney General,,REP,Write-ins,0
+Jefferson,6 Kutcher,Attorney General,,REP,Write-ins,1
+Jefferson,8 Lyle Gap,Attorney General,,REP,Write-ins,1
+Jefferson,11 Metolius,Attorney General,,REP,Write-ins,0
+Jefferson,13 East Madras,Attorney General,,REP,Write-ins,1
+Jefferson,14 Warm Springs,Attorney General,,REP,Write-ins,1
+Jefferson,16 Camp Sherman,Attorney General,,REP,Write-ins,2
+Jefferson,17 Culver,Attorney General,,REP,Write-ins,0
+Jefferson,18 Round Butte,Attorney General,,REP,Write-ins,0
+Jefferson,19 West Madras,Attorney General,,REP,Write-ins,1
+Jefferson,20 Circle M,Attorney General,,REP,Write-ins,0
+Jefferson,21 Central,Attorney General,,REP,Write-ins,0
+Jefferson,22 Sunset,Attorney General,,REP,Write-ins,0
+Jefferson,1 Haystack,Attorney General,,REP,Over Votes,0
+Jefferson,2 Crooked River Ranch,Attorney General,,REP,Over Votes,0
+Jefferson,5 Ashwood,Attorney General,,REP,Over Votes,0
+Jefferson,6 Kutcher,Attorney General,,REP,Over Votes,0
+Jefferson,8 Lyle Gap,Attorney General,,REP,Over Votes,0
+Jefferson,11 Metolius,Attorney General,,REP,Over Votes,0
+Jefferson,13 East Madras,Attorney General,,REP,Over Votes,0
+Jefferson,14 Warm Springs,Attorney General,,REP,Over Votes,0
+Jefferson,16 Camp Sherman,Attorney General,,REP,Over Votes,0
+Jefferson,17 Culver,Attorney General,,REP,Over Votes,0
+Jefferson,18 Round Butte,Attorney General,,REP,Over Votes,0
+Jefferson,19 West Madras,Attorney General,,REP,Over Votes,0
+Jefferson,20 Circle M,Attorney General,,REP,Over Votes,0
+Jefferson,21 Central,Attorney General,,REP,Over Votes,0
+Jefferson,22 Sunset,Attorney General,,REP,Over Votes,0
+Jefferson,1 Haystack,Attorney General,,REP,Under Votes,167
+Jefferson,2 Crooked River Ranch,Attorney General,,REP,Under Votes,301
+Jefferson,5 Ashwood,Attorney General,,REP,Under Votes,4
+Jefferson,6 Kutcher,Attorney General,,REP,Under Votes,39
+Jefferson,8 Lyle Gap,Attorney General,,REP,Under Votes,15
+Jefferson,11 Metolius,Attorney General,,REP,Under Votes,29
+Jefferson,13 East Madras,Attorney General,,REP,Under Votes,129
+Jefferson,14 Warm Springs,Attorney General,,REP,Under Votes,5
+Jefferson,16 Camp Sherman,Attorney General,,REP,Under Votes,23
+Jefferson,17 Culver,Attorney General,,REP,Under Votes,52
+Jefferson,18 Round Butte,Attorney General,,REP,Under Votes,39
+Jefferson,19 West Madras,Attorney General,,REP,Under Votes,60
+Jefferson,20 Circle M,Attorney General,,REP,Under Votes,18
+Jefferson,21 Central,Attorney General,,REP,Under Votes,107
+Jefferson,22 Sunset,Attorney General,,REP,Under Votes,97
+Jefferson,1 Haystack,State Senate,30,DEM,Stormy Gayle Ray,26
+Jefferson,2 Crooked River Ranch,State Senate,30,DEM,Stormy Gayle Ray,151
+Jefferson,5 Ashwood,State Senate,30,DEM,Stormy Gayle Ray,2
+Jefferson,6 Kutcher,State Senate,30,DEM,Stormy Gayle Ray,13
+Jefferson,8 Lyle Gap,State Senate,30,DEM,Stormy Gayle Ray,6
+Jefferson,11 Metolius,State Senate,30,DEM,Stormy Gayle Ray,26
+Jefferson,13 East Madras,State Senate,30,DEM,Stormy Gayle Ray,80
+Jefferson,14 Warm Springs,State Senate,30,DEM,Stormy Gayle Ray,61
+Jefferson,16 Camp Sherman,State Senate,30,DEM,Stormy Gayle Ray,13
+Jefferson,17 Culver,State Senate,30,DEM,Stormy Gayle Ray,27
+Jefferson,18 Round Butte,State Senate,30,DEM,Stormy Gayle Ray,12
+Jefferson,19 West Madras,State Senate,30,DEM,Stormy Gayle Ray,53
+Jefferson,20 Circle M,State Senate,30,DEM,Stormy Gayle Ray,12
+Jefferson,21 Central,State Senate,30,DEM,Stormy Gayle Ray,47
+Jefferson,22 Sunset,State Senate,30,DEM,Stormy Gayle Ray,28
+Jefferson,1 Haystack,State Senate,30,DEM,W Mark Stringer,42
+Jefferson,2 Crooked River Ranch,State Senate,30,DEM,W Mark Stringer,184
+Jefferson,5 Ashwood,State Senate,30,DEM,W Mark Stringer,4
+Jefferson,6 Kutcher,State Senate,30,DEM,W Mark Stringer,26
+Jefferson,8 Lyle Gap,State Senate,30,DEM,W Mark Stringer,8
+Jefferson,11 Metolius,State Senate,30,DEM,W Mark Stringer,22
+Jefferson,13 East Madras,State Senate,30,DEM,W Mark Stringer,85
+Jefferson,14 Warm Springs,State Senate,30,DEM,W Mark Stringer,41
+Jefferson,16 Camp Sherman,State Senate,30,DEM,W Mark Stringer,28
+Jefferson,17 Culver,State Senate,30,DEM,W Mark Stringer,33
+Jefferson,18 Round Butte,State Senate,30,DEM,W Mark Stringer,26
+Jefferson,19 West Madras,State Senate,30,DEM,W Mark Stringer,63
+Jefferson,20 Circle M,State Senate,30,DEM,W Mark Stringer,9
+Jefferson,21 Central,State Senate,30,DEM,W Mark Stringer,69
+Jefferson,22 Sunset,State Senate,30,DEM,W Mark Stringer,38
+Jefferson,1 Haystack,State Senate,30,DEM,Write-ins,0
+Jefferson,2 Crooked River Ranch,State Senate,30,DEM,Write-ins,3
+Jefferson,5 Ashwood,State Senate,30,DEM,Write-ins,0
+Jefferson,6 Kutcher,State Senate,30,DEM,Write-ins,2
+Jefferson,8 Lyle Gap,State Senate,30,DEM,Write-ins,0
+Jefferson,11 Metolius,State Senate,30,DEM,Write-ins,0
+Jefferson,13 East Madras,State Senate,30,DEM,Write-ins,4
+Jefferson,14 Warm Springs,State Senate,30,DEM,Write-ins,0
+Jefferson,16 Camp Sherman,State Senate,30,DEM,Write-ins,0
+Jefferson,17 Culver,State Senate,30,DEM,Write-ins,0
+Jefferson,18 Round Butte,State Senate,30,DEM,Write-ins,3
+Jefferson,19 West Madras,State Senate,30,DEM,Write-ins,5
+Jefferson,20 Circle M,State Senate,30,DEM,Write-ins,0
+Jefferson,21 Central,State Senate,30,DEM,Write-ins,0
+Jefferson,22 Sunset,State Senate,30,DEM,Write-ins,3
+Jefferson,1 Haystack,State Senate,30,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,State Senate,30,DEM,Over Votes,0
+Jefferson,5 Ashwood,State Senate,30,DEM,Over Votes,0
+Jefferson,6 Kutcher,State Senate,30,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,State Senate,30,DEM,Over Votes,0
+Jefferson,11 Metolius,State Senate,30,DEM,Over Votes,0
+Jefferson,13 East Madras,State Senate,30,DEM,Over Votes,0
+Jefferson,14 Warm Springs,State Senate,30,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,State Senate,30,DEM,Over Votes,0
+Jefferson,17 Culver,State Senate,30,DEM,Over Votes,0
+Jefferson,18 Round Butte,State Senate,30,DEM,Over Votes,0
+Jefferson,19 West Madras,State Senate,30,DEM,Over Votes,0
+Jefferson,20 Circle M,State Senate,30,DEM,Over Votes,0
+Jefferson,21 Central,State Senate,30,DEM,Over Votes,0
+Jefferson,22 Sunset,State Senate,30,DEM,Over Votes,0
+Jefferson,1 Haystack,State Senate,30,DEM,Under Votes,57
+Jefferson,2 Crooked River Ranch,State Senate,30,DEM,Under Votes,166
+Jefferson,5 Ashwood,State Senate,30,DEM,Under Votes,5
+Jefferson,6 Kutcher,State Senate,30,DEM,Under Votes,18
+Jefferson,8 Lyle Gap,State Senate,30,DEM,Under Votes,6
+Jefferson,11 Metolius,State Senate,30,DEM,Under Votes,14
+Jefferson,13 East Madras,State Senate,30,DEM,Under Votes,78
+Jefferson,14 Warm Springs,State Senate,30,DEM,Under Votes,22
+Jefferson,16 Camp Sherman,State Senate,30,DEM,Under Votes,21
+Jefferson,17 Culver,State Senate,30,DEM,Under Votes,22
+Jefferson,18 Round Butte,State Senate,30,DEM,Under Votes,20
+Jefferson,19 West Madras,State Senate,30,DEM,Under Votes,42
+Jefferson,20 Circle M,State Senate,30,DEM,Under Votes,10
+Jefferson,21 Central,State Senate,30,DEM,Under Votes,74
+Jefferson,22 Sunset,State Senate,30,DEM,Under Votes,30
+Jefferson,1 Haystack,State Senate,30,REP,Ted Ferrioli,224
+Jefferson,2 Crooked River Ranch,State Senate,30,REP,Ted Ferrioli,542
+Jefferson,5 Ashwood,State Senate,30,REP,Ted Ferrioli,10
+Jefferson,6 Kutcher,State Senate,30,REP,Ted Ferrioli,60
+Jefferson,8 Lyle Gap,State Senate,30,REP,Ted Ferrioli,23
+Jefferson,11 Metolius,State Senate,30,REP,Ted Ferrioli,53
+Jefferson,13 East Madras,State Senate,30,REP,Ted Ferrioli,206
+Jefferson,14 Warm Springs,State Senate,30,REP,Ted Ferrioli,19
+Jefferson,16 Camp Sherman,State Senate,30,REP,Ted Ferrioli,30
+Jefferson,17 Culver,State Senate,30,REP,Ted Ferrioli,90
+Jefferson,18 Round Butte,State Senate,30,REP,Ted Ferrioli,77
+Jefferson,19 West Madras,State Senate,30,REP,Ted Ferrioli,109
+Jefferson,20 Circle M,State Senate,30,REP,Ted Ferrioli,21
+Jefferson,21 Central,State Senate,30,REP,Ted Ferrioli,175
+Jefferson,22 Sunset,State Senate,30,REP,Ted Ferrioli,151
+Jefferson,1 Haystack,State Senate,30,REP,Write-ins,0
+Jefferson,2 Crooked River Ranch,State Senate,30,REP,Write-ins,2
+Jefferson,5 Ashwood,State Senate,30,REP,Write-ins,0
+Jefferson,6 Kutcher,State Senate,30,REP,Write-ins,0
+Jefferson,8 Lyle Gap,State Senate,30,REP,Write-ins,0
+Jefferson,11 Metolius,State Senate,30,REP,Write-ins,0
+Jefferson,13 East Madras,State Senate,30,REP,Write-ins,2
+Jefferson,14 Warm Springs,State Senate,30,REP,Write-ins,0
+Jefferson,16 Camp Sherman,State Senate,30,REP,Write-ins,0
+Jefferson,17 Culver,State Senate,30,REP,Write-ins,0
+Jefferson,18 Round Butte,State Senate,30,REP,Write-ins,1
+Jefferson,19 West Madras,State Senate,30,REP,Write-ins,4
+Jefferson,20 Circle M,State Senate,30,REP,Write-ins,0
+Jefferson,21 Central,State Senate,30,REP,Write-ins,0
+Jefferson,22 Sunset,State Senate,30,REP,Write-ins,0
+Jefferson,1 Haystack,State Senate,30,REP,Over Votes,0
+Jefferson,2 Crooked River Ranch,State Senate,30,REP,Over Votes,0
+Jefferson,5 Ashwood,State Senate,30,REP,Over Votes,0
+Jefferson,6 Kutcher,State Senate,30,REP,Over Votes,0
+Jefferson,8 Lyle Gap,State Senate,30,REP,Over Votes,0
+Jefferson,11 Metolius,State Senate,30,REP,Over Votes,0
+Jefferson,13 East Madras,State Senate,30,REP,Over Votes,1
+Jefferson,14 Warm Springs,State Senate,30,REP,Over Votes,0
+Jefferson,16 Camp Sherman,State Senate,30,REP,Over Votes,0
+Jefferson,17 Culver,State Senate,30,REP,Over Votes,0
+Jefferson,18 Round Butte,State Senate,30,REP,Over Votes,0
+Jefferson,19 West Madras,State Senate,30,REP,Over Votes,0
+Jefferson,20 Circle M,State Senate,30,REP,Over Votes,0
+Jefferson,21 Central,State Senate,30,REP,Over Votes,0
+Jefferson,22 Sunset,State Senate,30,REP,Over Votes,0
+Jefferson,1 Haystack,State Senate,30,REP,Under Votes,132
+Jefferson,2 Crooked River Ranch,State Senate,30,REP,Under Votes,266
+Jefferson,5 Ashwood,State Senate,30,REP,Under Votes,2
+Jefferson,6 Kutcher,State Senate,30,REP,Under Votes,33
+Jefferson,8 Lyle Gap,State Senate,30,REP,Under Votes,12
+Jefferson,11 Metolius,State Senate,30,REP,Under Votes,19
+Jefferson,13 East Madras,State Senate,30,REP,Under Votes,101
+Jefferson,14 Warm Springs,State Senate,30,REP,Under Votes,4
+Jefferson,16 Camp Sherman,State Senate,30,REP,Under Votes,17
+Jefferson,17 Culver,State Senate,30,REP,Under Votes,40
+Jefferson,18 Round Butte,State Senate,30,REP,Under Votes,36
+Jefferson,19 West Madras,State Senate,30,REP,Under Votes,48
+Jefferson,20 Circle M,State Senate,30,REP,Under Votes,10
+Jefferson,21 Central,State Senate,30,REP,Under Votes,80
+Jefferson,22 Sunset,State Senate,30,REP,Under Votes,65
+Jefferson,1 Haystack,State House,59,DEM,Tyler J Gabriel,68
+Jefferson,2 Crooked River Ranch,State House,59,DEM,Tyler J Gabriel,289
+Jefferson,5 Ashwood,State House,59,DEM,Tyler J Gabriel,3
+Jefferson,6 Kutcher,State House,59,DEM,Tyler J Gabriel,32
+Jefferson,8 Lyle Gap,State House,59,DEM,Tyler J Gabriel,13
+Jefferson,11 Metolius,State House,59,DEM,Tyler J Gabriel,39
+Jefferson,13 East Madras,State House,59,DEM,Tyler J Gabriel,136
+Jefferson,14 Warm Springs,State House,59,DEM,Tyler J Gabriel,89
+Jefferson,16 Camp Sherman,State House,59,DEM,Tyler J Gabriel,35
+Jefferson,17 Culver,State House,59,DEM,Tyler J Gabriel,49
+Jefferson,18 Round Butte,State House,59,DEM,Tyler J Gabriel,27
+Jefferson,19 West Madras,State House,59,DEM,Tyler J Gabriel,98
+Jefferson,20 Circle M,State House,59,DEM,Tyler J Gabriel,18
+Jefferson,21 Central,State House,59,DEM,Tyler J Gabriel,91
+Jefferson,22 Sunset,State House,59,DEM,Tyler J Gabriel,52
+Jefferson,1 Haystack,State House,59,DEM,Write-ins,1
+Jefferson,2 Crooked River Ranch,State House,59,DEM,Write-ins,3
+Jefferson,5 Ashwood,State House,59,DEM,Write-ins,0
+Jefferson,6 Kutcher,State House,59,DEM,Write-ins,4
+Jefferson,8 Lyle Gap,State House,59,DEM,Write-ins,0
+Jefferson,11 Metolius,State House,59,DEM,Write-ins,0
+Jefferson,13 East Madras,State House,59,DEM,Write-ins,5
+Jefferson,14 Warm Springs,State House,59,DEM,Write-ins,0
+Jefferson,16 Camp Sherman,State House,59,DEM,Write-ins,1
+Jefferson,17 Culver,State House,59,DEM,Write-ins,1
+Jefferson,18 Round Butte,State House,59,DEM,Write-ins,4
+Jefferson,19 West Madras,State House,59,DEM,Write-ins,6
+Jefferson,20 Circle M,State House,59,DEM,Write-ins,0
+Jefferson,21 Central,State House,59,DEM,Write-ins,0
+Jefferson,22 Sunset,State House,59,DEM,Write-ins,1
+Jefferson,1 Haystack,State House,59,DEM,Over Votes,0
+Jefferson,2 Crooked River Ranch,State House,59,DEM,Over Votes,0
+Jefferson,5 Ashwood,State House,59,DEM,Over Votes,1
+Jefferson,6 Kutcher,State House,59,DEM,Over Votes,0
+Jefferson,8 Lyle Gap,State House,59,DEM,Over Votes,0
+Jefferson,11 Metolius,State House,59,DEM,Over Votes,0
+Jefferson,13 East Madras,State House,59,DEM,Over Votes,0
+Jefferson,14 Warm Springs,State House,59,DEM,Over Votes,0
+Jefferson,16 Camp Sherman,State House,59,DEM,Over Votes,0
+Jefferson,17 Culver,State House,59,DEM,Over Votes,0
+Jefferson,18 Round Butte,State House,59,DEM,Over Votes,0
+Jefferson,19 West Madras,State House,59,DEM,Over Votes,0
+Jefferson,20 Circle M,State House,59,DEM,Over Votes,0
+Jefferson,21 Central,State House,59,DEM,Over Votes,0
+Jefferson,22 Sunset,State House,59,DEM,Over Votes,0
+Jefferson,1 Haystack,State House,59,DEM,Under Votes,56
+Jefferson,2 Crooked River Ranch,State House,59,DEM,Under Votes,212
+Jefferson,5 Ashwood,State House,59,DEM,Under Votes,7
+Jefferson,6 Kutcher,State House,59,DEM,Under Votes,23
+Jefferson,8 Lyle Gap,State House,59,DEM,Under Votes,7
+Jefferson,11 Metolius,State House,59,DEM,Under Votes,23
+Jefferson,13 East Madras,State House,59,DEM,Under Votes,106
+Jefferson,14 Warm Springs,State House,59,DEM,Under Votes,35
+Jefferson,16 Camp Sherman,State House,59,DEM,Under Votes,26
+Jefferson,17 Culver,State House,59,DEM,Under Votes,32
+Jefferson,18 Round Butte,State House,59,DEM,Under Votes,30
+Jefferson,19 West Madras,State House,59,DEM,Under Votes,59
+Jefferson,20 Circle M,State House,59,DEM,Under Votes,13
+Jefferson,21 Central,State House,59,DEM,Under Votes,99
+Jefferson,22 Sunset,State House,59,DEM,Under Votes,46
+Jefferson,1 Haystack,State House,59,REP,John E Huffman,237
+Jefferson,2 Crooked River Ranch,State House,59,REP,John E Huffman,559
+Jefferson,5 Ashwood,State House,59,REP,John E Huffman,10
+Jefferson,6 Kutcher,State House,59,REP,John E Huffman,70
+Jefferson,8 Lyle Gap,State House,59,REP,John E Huffman,25
+Jefferson,11 Metolius,State House,59,REP,John E Huffman,56
+Jefferson,13 East Madras,State House,59,REP,John E Huffman,222
+Jefferson,14 Warm Springs,State House,59,REP,John E Huffman,15
+Jefferson,16 Camp Sherman,State House,59,REP,John E Huffman,30
+Jefferson,17 Culver,State House,59,REP,John E Huffman,91
+Jefferson,18 Round Butte,State House,59,REP,John E Huffman,93
+Jefferson,19 West Madras,State House,59,REP,John E Huffman,117
+Jefferson,20 Circle M,State House,59,REP,John E Huffman,22
+Jefferson,21 Central,State House,59,REP,John E Huffman,192
+Jefferson,22 Sunset,State House,59,REP,John E Huffman,162
+Jefferson,1 Haystack,State House,59,REP,Write-ins,1
+Jefferson,2 Crooked River Ranch,State House,59,REP,Write-ins,3
+Jefferson,5 Ashwood,State House,59,REP,Write-ins,0
+Jefferson,6 Kutcher,State House,59,REP,Write-ins,0
+Jefferson,8 Lyle Gap,State House,59,REP,Write-ins,0
+Jefferson,11 Metolius,State House,59,REP,Write-ins,0
+Jefferson,13 East Madras,State House,59,REP,Write-ins,0
+Jefferson,14 Warm Springs,State House,59,REP,Write-ins,0
+Jefferson,16 Camp Sherman,State House,59,REP,Write-ins,0
+Jefferson,17 Culver,State House,59,REP,Write-ins,1
+Jefferson,18 Round Butte,State House,59,REP,Write-ins,0
+Jefferson,19 West Madras,State House,59,REP,Write-ins,0
+Jefferson,20 Circle M,State House,59,REP,Write-ins,0
+Jefferson,21 Central,State House,59,REP,Write-ins,0
+Jefferson,22 Sunset,State House,59,REP,Write-ins,0
+Jefferson,1 Haystack,State House,59,REP,Over Votes,0
+Jefferson,2 Crooked River Ranch,State House,59,REP,Over Votes,0
+Jefferson,5 Ashwood,State House,59,REP,Over Votes,0
+Jefferson,6 Kutcher,State House,59,REP,Over Votes,0
+Jefferson,8 Lyle Gap,State House,59,REP,Over Votes,0
+Jefferson,11 Metolius,State House,59,REP,Over Votes,0
+Jefferson,13 East Madras,State House,59,REP,Over Votes,0
+Jefferson,14 Warm Springs,State House,59,REP,Over Votes,0
+Jefferson,16 Camp Sherman,State House,59,REP,Over Votes,0
+Jefferson,17 Culver,State House,59,REP,Over Votes,0
+Jefferson,18 Round Butte,State House,59,REP,Over Votes,0
+Jefferson,19 West Madras,State House,59,REP,Over Votes,0
+Jefferson,20 Circle M,State House,59,REP,Over Votes,0
+Jefferson,21 Central,State House,59,REP,Over Votes,0
+Jefferson,22 Sunset,State House,59,REP,Over Votes,0
+Jefferson,1 Haystack,State House,59,REP,Under Votes,118
+Jefferson,2 Crooked River Ranch,State House,59,REP,Under Votes,248
+Jefferson,5 Ashwood,State House,59,REP,Under Votes,2
+Jefferson,6 Kutcher,State House,59,REP,Under Votes,23
+Jefferson,8 Lyle Gap,State House,59,REP,Under Votes,10
+Jefferson,11 Metolius,State House,59,REP,Under Votes,16
+Jefferson,13 East Madras,State House,59,REP,Under Votes,88
+Jefferson,14 Warm Springs,State House,59,REP,Under Votes,8
+Jefferson,16 Camp Sherman,State House,59,REP,Under Votes,17
+Jefferson,17 Culver,State House,59,REP,Under Votes,38
+Jefferson,18 Round Butte,State House,59,REP,Under Votes,21
+Jefferson,19 West Madras,State House,59,REP,Under Votes,44
+Jefferson,20 Circle M,State House,59,REP,Under Votes,9
+Jefferson,21 Central,State House,59,REP,Under Votes,63
+Jefferson,22 Sunset,State House,59,REP,Under Votes,54
