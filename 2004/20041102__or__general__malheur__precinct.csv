@@ -1,0 +1,876 @@
+county,precinct,office,district,party,candidate,votes
+Malheur,1 - Ontario 1,President,,DEM,John F Kerry,331
+Malheur,2 - Ontario 2,President,,DEM,John F Kerry,256
+Malheur,3 - Ontario 3,President,,DEM,John F Kerry,244
+Malheur,4 - Ontario 4,President,,DEM,John F Kerry,285
+Malheur,5 - Applegate,President,,DEM,John F Kerry,68
+Malheur,6 - Fair/Ontario Heights,President,,DEM,John F Kerry,195
+Malheur,7 - Butte/Cairo,President,,DEM,John F Kerry,143
+Malheur,8 - City of Nyssa,President,,DEM,John F Kerry,274
+Malheur,9 - Rural Nyssa,President,,DEM,John F Kerry,135
+Malheur,10 - City of Adrian,President,,DEM,John F Kerry,27
+Malheur,11 - Rural Adrian,President,,DEM,John F Kerry,87
+Malheur,12 - City of Vale,President,,DEM,John F Kerry,175
+Malheur,13 - South Rural Vale,President,,DEM,John F Kerry,96
+Malheur,14 - North Rural Vale,President,,DEM,John F Kerry,125
+Malheur,15 - Willowcreek,President,,DEM,John F Kerry,40
+Malheur,16 - Brogan,President,,DEM,John F Kerry,18
+Malheur,17 - Ironside,President,,DEM,John F Kerry,2
+Malheur,18 - Harper,President,,DEM,John F Kerry,17
+Malheur,19 - Juntura,President,,DEM,John F Kerry,0
+Malheur,20 - City of Jordan Valley,President,,DEM,John F Kerry,15
+Malheur,21 - Rural Jordan Valley,President,,DEM,John F Kerry,5
+Malheur,22 - Arock,President,,DEM,John F Kerry,5
+Malheur,23 - McDermitt,President,,DEM,John F Kerry,2
+Malheur,24 - Annex/Huntington/Farewell Bend,President,,DEM,John F Kerry,32
+Malheur,,President,,DEM,John F Kerry,2577
+Malheur,1 - Ontario 1,President,,PAC,David Cobb,3
+Malheur,2 - Ontario 2,President,,PAC,David Cobb,3
+Malheur,3 - Ontario 3,President,,PAC,David Cobb,4
+Malheur,4 - Ontario 4,President,,PAC,David Cobb,2
+Malheur,5 - Applegate,President,,PAC,David Cobb,0
+Malheur,6 - Fair/Ontario Heights,President,,PAC,David Cobb,0
+Malheur,7 - Butte/Cairo,President,,PAC,David Cobb,0
+Malheur,8 - City of Nyssa,President,,PAC,David Cobb,3
+Malheur,9 - Rural Nyssa,President,,PAC,David Cobb,1
+Malheur,10 - City of Adrian,President,,PAC,David Cobb,0
+Malheur,11 - Rural Adrian,President,,PAC,David Cobb,1
+Malheur,12 - City of Vale,President,,PAC,David Cobb,0
+Malheur,13 - South Rural Vale,President,,PAC,David Cobb,0
+Malheur,14 - North Rural Vale,President,,PAC,David Cobb,0
+Malheur,15 - Willowcreek,President,,PAC,David Cobb,0
+Malheur,16 - Brogan,President,,PAC,David Cobb,0
+Malheur,17 - Ironside,President,,PAC,David Cobb,0
+Malheur,18 - Harper,President,,PAC,David Cobb,0
+Malheur,19 - Juntura,President,,PAC,David Cobb,0
+Malheur,20 - City of Jordan Valley,President,,PAC,David Cobb,0
+Malheur,21 - Rural Jordan Valley,President,,PAC,David Cobb,0
+Malheur,22 - Arock,President,,PAC,David Cobb,0
+Malheur,23 - McDermitt,President,,PAC,David Cobb,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,,PAC,David Cobb,0
+Malheur,,President,,PAC,David Cobb,17
+Malheur,1 - Ontario 1,President,,CON,Michael Anthony Peroutka,1
+Malheur,2 - Ontario 2,President,,CON,Michael Anthony Peroutka,2
+Malheur,3 - Ontario 3,President,,CON,Michael Anthony Peroutka,4
+Malheur,4 - Ontario 4,President,,CON,Michael Anthony Peroutka,6
+Malheur,5 - Applegate,President,,CON,Michael Anthony Peroutka,0
+Malheur,6 - Fair/Ontario Heights,President,,CON,Michael Anthony Peroutka,4
+Malheur,7 - Butte/Cairo,President,,CON,Michael Anthony Peroutka,4
+Malheur,8 - City of Nyssa,President,,CON,Michael Anthony Peroutka,5
+Malheur,9 - Rural Nyssa,President,,CON,Michael Anthony Peroutka,4
+Malheur,10 - City of Adrian,President,,CON,Michael Anthony Peroutka,1
+Malheur,11 - Rural Adrian,President,,CON,Michael Anthony Peroutka,7
+Malheur,12 - City of Vale,President,,CON,Michael Anthony Peroutka,1
+Malheur,13 - South Rural Vale,President,,CON,Michael Anthony Peroutka,3
+Malheur,14 - North Rural Vale,President,,CON,Michael Anthony Peroutka,4
+Malheur,15 - Willowcreek,President,,CON,Michael Anthony Peroutka,0
+Malheur,16 - Brogan,President,,CON,Michael Anthony Peroutka,0
+Malheur,17 - Ironside,President,,CON,Michael Anthony Peroutka,0
+Malheur,18 - Harper,President,,CON,Michael Anthony Peroutka,0
+Malheur,19 - Juntura,President,,CON,Michael Anthony Peroutka,0
+Malheur,20 - City of Jordan Valley,President,,CON,Michael Anthony Peroutka,2
+Malheur,21 - Rural Jordan Valley,President,,CON,Michael Anthony Peroutka,0
+Malheur,22 - Arock,President,,CON,Michael Anthony Peroutka,0
+Malheur,23 - McDermitt,President,,CON,Michael Anthony Peroutka,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,,CON,Michael Anthony Peroutka,0
+Malheur,,President,,CON,Michael Anthony Peroutka,48
+Malheur,1 - Ontario 1,President,,LIB,Michael Badnarik,5
+Malheur,2 - Ontario 2,President,,LIB,Michael Badnarik,3
+Malheur,3 - Ontario 3,President,,LIB,Michael Badnarik,9
+Malheur,4 - Ontario 4,President,,LIB,Michael Badnarik,5
+Malheur,5 - Applegate,President,,LIB,Michael Badnarik,1
+Malheur,6 - Fair/Ontario Heights,President,,LIB,Michael Badnarik,1
+Malheur,7 - Butte/Cairo,President,,LIB,Michael Badnarik,4
+Malheur,8 - City of Nyssa,President,,LIB,Michael Badnarik,0
+Malheur,9 - Rural Nyssa,President,,LIB,Michael Badnarik,3
+Malheur,10 - City of Adrian,President,,LIB,Michael Badnarik,0
+Malheur,11 - Rural Adrian,President,,LIB,Michael Badnarik,2
+Malheur,12 - City of Vale,President,,LIB,Michael Badnarik,7
+Malheur,13 - South Rural Vale,President,,LIB,Michael Badnarik,1
+Malheur,14 - North Rural Vale,President,,LIB,Michael Badnarik,2
+Malheur,15 - Willowcreek,President,,LIB,Michael Badnarik,0
+Malheur,16 - Brogan,President,,LIB,Michael Badnarik,1
+Malheur,17 - Ironside,President,,LIB,Michael Badnarik,0
+Malheur,18 - Harper,President,,LIB,Michael Badnarik,0
+Malheur,19 - Juntura,President,,LIB,Michael Badnarik,1
+Malheur,20 - City of Jordan Valley,President,,LIB,Michael Badnarik,0
+Malheur,21 - Rural Jordan Valley,President,,LIB,Michael Badnarik,0
+Malheur,22 - Arock,President,,LIB,Michael Badnarik,0
+Malheur,23 - McDermitt,President,,LIB,Michael Badnarik,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,,LIB,Michael Badnarik,0
+Malheur,,President,,LIB,Michael Badnarik,45
+Malheur,1 - Ontario 1,President,,REP,George Bush,832
+Malheur,2 - Ontario 2,President,,REP,George Bush,482
+Malheur,3 - Ontario 3,President,,REP,George Bush,458
+Malheur,4 - Ontario 4,President,,REP,George Bush,606
+Malheur,5 - Applegate,President,,REP,George Bush,316
+Malheur,6 - Fair/Ontario Heights,President,,REP,George Bush,622
+Malheur,7 - Butte/Cairo,President,,REP,George Bush,545
+Malheur,8 - City of Nyssa,President,,REP,George Bush,534
+Malheur,9 - Rural Nyssa,President,,REP,George Bush,631
+Malheur,10 - City of Adrian,President,,REP,George Bush,55
+Malheur,11 - Rural Adrian,President,,REP,George Bush,472
+Malheur,12 - City of Vale,President,,REP,George Bush,508
+Malheur,13 - South Rural Vale,President,,REP,George Bush,427
+Malheur,14 - North Rural Vale,President,,REP,George Bush,611
+Malheur,15 - Willowcreek,President,,REP,George Bush,241
+Malheur,16 - Brogan,President,,REP,George Bush,49
+Malheur,17 - Ironside,President,,REP,George Bush,41
+Malheur,18 - Harper,President,,REP,George Bush,154
+Malheur,19 - Juntura,President,,REP,George Bush,69
+Malheur,20 - City of Jordan Valley,President,,REP,George Bush,96
+Malheur,21 - Rural Jordan Valley,President,,REP,George Bush,117
+Malheur,22 - Arock,President,,REP,George Bush,76
+Malheur,23 - McDermitt,President,,REP,George Bush,30
+Malheur,24 - Annex/Huntington/Farewell Bend,President,,REP,George Bush,151
+Malheur,,President,,REP,George Bush,8123
+Malheur,1 - Ontario 1,President,,,Write-Ins,2
+Malheur,2 - Ontario 2,President,,,Write-Ins,4
+Malheur,3 - Ontario 3,President,,,Write-Ins,5
+Malheur,4 - Ontario 4,President,,,Write-Ins,1
+Malheur,5 - Applegate,President,,,Write-Ins,1
+Malheur,6 - Fair/Ontario Heights,President,,,Write-Ins,3
+Malheur,7 - Butte/Cairo,President,,,Write-Ins,3
+Malheur,8 - City of Nyssa,President,,,Write-Ins,3
+Malheur,9 - Rural Nyssa,President,,,Write-Ins,4
+Malheur,10 - City of Adrian,President,,,Write-Ins,1
+Malheur,11 - Rural Adrian,President,,,Write-Ins,1
+Malheur,12 - City of Vale,President,,,Write-Ins,1
+Malheur,13 - South Rural Vale,President,,,Write-Ins,1
+Malheur,14 - North Rural Vale,President,,,Write-Ins,5
+Malheur,15 - Willowcreek,President,,,Write-Ins,0
+Malheur,16 - Brogan,President,,,Write-Ins,0
+Malheur,17 - Ironside,President,,,Write-Ins,0
+Malheur,18 - Harper,President,,,Write-Ins,0
+Malheur,19 - Juntura,President,,,Write-Ins,0
+Malheur,20 - City of Jordan Valley,President,,,Write-Ins,1
+Malheur,21 - Rural Jordan Valley,President,,,Write-Ins,0
+Malheur,22 - Arock,President,,,Write-Ins,0
+Malheur,23 - McDermitt,President,,,Write-Ins,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,,,Write-Ins,0
+Malheur,,President,,,Write-Ins,36
+Malheur,1 - Ontario 1,U.S. Senate,,PAC,Teresa Keane,14
+Malheur,2 - Ontario 2,U.S. Senate,,PAC,Teresa Keane,20
+Malheur,3 - Ontario 3,U.S. Senate,,PAC,Teresa Keane,27
+Malheur,4 - Ontario 4,U.S. Senate,,PAC,Teresa Keane,19
+Malheur,5 - Applegate,U.S. Senate,,PAC,Teresa Keane,2
+Malheur,6 - Fair/Ontario Heights,U.S. Senate,,PAC,Teresa Keane,11
+Malheur,7 - Butte/Cairo,U.S. Senate,,PAC,Teresa Keane,9
+Malheur,8 - City of Nyssa,U.S. Senate,,PAC,Teresa Keane,16
+Malheur,9 - Rural Nyssa,U.S. Senate,,PAC,Teresa Keane,5
+Malheur,10 - City of Adrian,U.S. Senate,,PAC,Teresa Keane,0
+Malheur,11 - Rural Adrian,U.S. Senate,,PAC,Teresa Keane,3
+Malheur,12 - City of Vale,U.S. Senate,,PAC,Teresa Keane,7
+Malheur,13 - South Rural Vale,U.S. Senate,,PAC,Teresa Keane,7
+Malheur,14 - North Rural Vale,U.S. Senate,,PAC,Teresa Keane,5
+Malheur,15 - Willowcreek,U.S. Senate,,PAC,Teresa Keane,1
+Malheur,16 - Brogan,U.S. Senate,,PAC,Teresa Keane,1
+Malheur,17 - Ironside,U.S. Senate,,PAC,Teresa Keane,0
+Malheur,18 - Harper,U.S. Senate,,PAC,Teresa Keane,1
+Malheur,19 - Juntura,U.S. Senate,,PAC,Teresa Keane,0
+Malheur,20 - City of Jordan Valley,U.S. Senate,,PAC,Teresa Keane,0
+Malheur,21 - Rural Jordan Valley,U.S. Senate,,PAC,Teresa Keane,1
+Malheur,22 - Arock,U.S. Senate,,PAC,Teresa Keane,0
+Malheur,23 - McDermitt,U.S. Senate,,PAC,Teresa Keane,2
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. Senate,,PAC,Teresa Keane,0
+Malheur,,U.S. Senate,,PAC,Teresa Keane,151
+Malheur,1 - Ontario 1,U.S. Senate,,REP,Al King,561
+Malheur,2 - Ontario 2,U.S. Senate,,REP,Al King,341
+Malheur,3 - Ontario 3,U.S. Senate,,REP,Al King,313
+Malheur,4 - Ontario 4,U.S. Senate,,REP,Al King,389
+Malheur,5 - Applegate,U.S. Senate,,REP,Al King,237
+Malheur,6 - Fair/Ontario Heights,U.S. Senate,,REP,Al King,441
+Malheur,7 - Butte/Cairo,U.S. Senate,,REP,Al King,370
+Malheur,8 - City of Nyssa,U.S. Senate,,REP,Al King,351
+Malheur,9 - Rural Nyssa,U.S. Senate,,REP,Al King,499
+Malheur,10 - City of Adrian,U.S. Senate,,REP,Al King,35
+Malheur,11 - Rural Adrian,U.S. Senate,,REP,Al King,362
+Malheur,12 - City of Vale,U.S. Senate,,REP,Al King,321
+Malheur,13 - South Rural Vale,U.S. Senate,,REP,Al King,316
+Malheur,14 - North Rural Vale,U.S. Senate,,REP,Al King,440
+Malheur,15 - Willowcreek,U.S. Senate,,REP,Al King,174
+Malheur,16 - Brogan,U.S. Senate,,REP,Al King,31
+Malheur,17 - Ironside,U.S. Senate,,REP,Al King,28
+Malheur,18 - Harper,U.S. Senate,,REP,Al King,102
+Malheur,19 - Juntura,U.S. Senate,,REP,Al King,42
+Malheur,20 - City of Jordan Valley,U.S. Senate,,REP,Al King,80
+Malheur,21 - Rural Jordan Valley,U.S. Senate,,REP,Al King,94
+Malheur,22 - Arock,U.S. Senate,,REP,Al King,61
+Malheur,23 - McDermitt,U.S. Senate,,REP,Al King,28
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. Senate,,REP,Al King,104
+Malheur,,U.S. Senate,,REP,Al King,5720
+Malheur,1 - Ontario 1,U.S. Senate,,LIB,Dan Fitzgerald,14
+Malheur,2 - Ontario 2,U.S. Senate,,LIB,Dan Fitzgerald,13
+Malheur,3 - Ontario 3,U.S. Senate,,LIB,Dan Fitzgerald,15
+Malheur,4 - Ontario 4,U.S. Senate,,LIB,Dan Fitzgerald,20
+Malheur,5 - Applegate,U.S. Senate,,LIB,Dan Fitzgerald,7
+Malheur,6 - Fair/Ontario Heights,U.S. Senate,,LIB,Dan Fitzgerald,13
+Malheur,7 - Butte/Cairo,U.S. Senate,,LIB,Dan Fitzgerald,7
+Malheur,8 - City of Nyssa,U.S. Senate,,LIB,Dan Fitzgerald,8
+Malheur,9 - Rural Nyssa,U.S. Senate,,LIB,Dan Fitzgerald,9
+Malheur,10 - City of Adrian,U.S. Senate,,LIB,Dan Fitzgerald,5
+Malheur,11 - Rural Adrian,U.S. Senate,,LIB,Dan Fitzgerald,6
+Malheur,12 - City of Vale,U.S. Senate,,LIB,Dan Fitzgerald,15
+Malheur,13 - South Rural Vale,U.S. Senate,,LIB,Dan Fitzgerald,3
+Malheur,14 - North Rural Vale,U.S. Senate,,LIB,Dan Fitzgerald,10
+Malheur,15 - Willowcreek,U.S. Senate,,LIB,Dan Fitzgerald,1
+Malheur,16 - Brogan,U.S. Senate,,LIB,Dan Fitzgerald,1
+Malheur,17 - Ironside,U.S. Senate,,LIB,Dan Fitzgerald,1
+Malheur,18 - Harper,U.S. Senate,,LIB,Dan Fitzgerald,0
+Malheur,19 - Juntura,U.S. Senate,,LIB,Dan Fitzgerald,0
+Malheur,20 - City of Jordan Valley,U.S. Senate,,LIB,Dan Fitzgerald,2
+Malheur,21 - Rural Jordan Valley,U.S. Senate,,LIB,Dan Fitzgerald,4
+Malheur,22 - Arock,U.S. Senate,,LIB,Dan Fitzgerald,0
+Malheur,23 - McDermitt,U.S. Senate,,LIB,Dan Fitzgerald,2
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. Senate,,LIB,Dan Fitzgerald,5
+Malheur,,U.S. Senate,,LIB,Dan Fitzgerald,161
+Malheur,1 - Ontario 1,U.S. Senate,,DEM,Ron Wyden,553
+Malheur,2 - Ontario 2,U.S. Senate,,DEM,Ron Wyden,362
+Malheur,3 - Ontario 3,U.S. Senate,,DEM,Ron Wyden,342
+Malheur,4 - Ontario 4,U.S. Senate,,DEM,Ron Wyden,461
+Malheur,5 - Applegate,U.S. Senate,,DEM,Ron Wyden,137
+Malheur,6 - Fair/Ontario Heights,U.S. Senate,,DEM,Ron Wyden,333
+Malheur,7 - Butte/Cairo,U.S. Senate,,DEM,Ron Wyden,283
+Malheur,8 - City of Nyssa,U.S. Senate,,DEM,Ron Wyden,407
+Malheur,9 - Rural Nyssa,U.S. Senate,,DEM,Ron Wyden,240
+Malheur,10 - City of Adrian,U.S. Senate,,DEM,Ron Wyden,40
+Malheur,11 - Rural Adrian,U.S. Senate,,DEM,Ron Wyden,165
+Malheur,12 - City of Vale,U.S. Senate,,DEM,Ron Wyden,322
+Malheur,13 - South Rural Vale,U.S. Senate,,DEM,Ron Wyden,174
+Malheur,14 - North Rural Vale,U.S. Senate,,DEM,Ron Wyden,260
+Malheur,15 - Willowcreek,U.S. Senate,,DEM,Ron Wyden,91
+Malheur,16 - Brogan,U.S. Senate,,DEM,Ron Wyden,32
+Malheur,17 - Ironside,U.S. Senate,,DEM,Ron Wyden,11
+Malheur,18 - Harper,U.S. Senate,,DEM,Ron Wyden,60
+Malheur,19 - Juntura,U.S. Senate,,DEM,Ron Wyden,24
+Malheur,20 - City of Jordan Valley,U.S. Senate,,DEM,Ron Wyden,27
+Malheur,21 - Rural Jordan Valley,U.S. Senate,,DEM,Ron Wyden,15
+Malheur,22 - Arock,U.S. Senate,,DEM,Ron Wyden,19
+Malheur,23 - McDermitt,U.S. Senate,,DEM,Ron Wyden,1
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. Senate,,DEM,Ron Wyden,63
+Malheur,,U.S. Senate,,DEM,Ron Wyden,4422
+Malheur,1 - Ontario 1,U.S. Senate,,CON,David Brownlow,5
+Malheur,2 - Ontario 2,U.S. Senate,,CON,David Brownlow,5
+Malheur,3 - Ontario 3,U.S. Senate,,CON,David Brownlow,6
+Malheur,4 - Ontario 4,U.S. Senate,,CON,David Brownlow,10
+Malheur,5 - Applegate,U.S. Senate,,CON,David Brownlow,2
+Malheur,6 - Fair/Ontario Heights,U.S. Senate,,CON,David Brownlow,8
+Malheur,7 - Butte/Cairo,U.S. Senate,,CON,David Brownlow,9
+Malheur,8 - City of Nyssa,U.S. Senate,,CON,David Brownlow,9
+Malheur,9 - Rural Nyssa,U.S. Senate,,CON,David Brownlow,7
+Malheur,10 - City of Adrian,U.S. Senate,,CON,David Brownlow,0
+Malheur,11 - Rural Adrian,U.S. Senate,,CON,David Brownlow,6
+Malheur,12 - City of Vale,U.S. Senate,,CON,David Brownlow,5
+Malheur,13 - South Rural Vale,U.S. Senate,,CON,David Brownlow,5
+Malheur,14 - North Rural Vale,U.S. Senate,,CON,David Brownlow,7
+Malheur,15 - Willowcreek,U.S. Senate,,CON,David Brownlow,1
+Malheur,16 - Brogan,U.S. Senate,,CON,David Brownlow,0
+Malheur,17 - Ironside,U.S. Senate,,CON,David Brownlow,1
+Malheur,18 - Harper,U.S. Senate,,CON,David Brownlow,1
+Malheur,19 - Juntura,U.S. Senate,,CON,David Brownlow,0
+Malheur,20 - City of Jordan Valley,U.S. Senate,,CON,David Brownlow,1
+Malheur,21 - Rural Jordan Valley,U.S. Senate,,CON,David Brownlow,1
+Malheur,22 - Arock,U.S. Senate,,CON,David Brownlow,0
+Malheur,23 - McDermitt,U.S. Senate,,CON,David Brownlow,0
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. Senate,,CON,David Brownlow,4
+Malheur,,U.S. Senate,,CON,David Brownlow,93
+Malheur,1 - Ontario 1,U.S. Senate,,,Write-Ins,0
+Malheur,2 - Ontario 2,U.S. Senate,,,Write-Ins,0
+Malheur,3 - Ontario 3,U.S. Senate,,,Write-Ins,0
+Malheur,4 - Ontario 4,U.S. Senate,,,Write-Ins,0
+Malheur,5 - Applegate,U.S. Senate,,,Write-Ins,0
+Malheur,6 - Fair/Ontario Heights,U.S. Senate,,,Write-Ins,2
+Malheur,7 - Butte/Cairo,U.S. Senate,,,Write-Ins,1
+Malheur,8 - City of Nyssa,U.S. Senate,,,Write-Ins,1
+Malheur,9 - Rural Nyssa,U.S. Senate,,,Write-Ins,1
+Malheur,10 - City of Adrian,U.S. Senate,,,Write-Ins,0
+Malheur,11 - Rural Adrian,U.S. Senate,,,Write-Ins,0
+Malheur,12 - City of Vale,U.S. Senate,,,Write-Ins,0
+Malheur,13 - South Rural Vale,U.S. Senate,,,Write-Ins,1
+Malheur,14 - North Rural Vale,U.S. Senate,,,Write-Ins,1
+Malheur,15 - Willowcreek,U.S. Senate,,,Write-Ins,2
+Malheur,16 - Brogan,U.S. Senate,,,Write-Ins,0
+Malheur,17 - Ironside,U.S. Senate,,,Write-Ins,0
+Malheur,18 - Harper,U.S. Senate,,,Write-Ins,0
+Malheur,19 - Juntura,U.S. Senate,,,Write-Ins,0
+Malheur,20 - City of Jordan Valley,U.S. Senate,,,Write-Ins,0
+Malheur,21 - Rural Jordan Valley,U.S. Senate,,,Write-Ins,0
+Malheur,22 - Arock,U.S. Senate,,,Write-Ins,0
+Malheur,23 - McDermitt,U.S. Senate,,,Write-Ins,0
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. Senate,,,Write-Ins,0
+Malheur,,U.S. Senate,,,Write-Ins,9
+Malheur,1 - Ontario 1,U.S. House,2,LIB,Jim Lindsay,16
+Malheur,2 - Ontario 2,U.S. House,2,LIB,Jim Lindsay,19
+Malheur,3 - Ontario 3,U.S. House,2,LIB,Jim Lindsay,13
+Malheur,4 - Ontario 4,U.S. House,2,LIB,Jim Lindsay,14
+Malheur,5 - Applegate,U.S. House,2,LIB,Jim Lindsay,4
+Malheur,6 - Fair/Ontario Heights,U.S. House,2,LIB,Jim Lindsay,13
+Malheur,7 - Butte/Cairo,U.S. House,2,LIB,Jim Lindsay,5
+Malheur,8 - City of Nyssa,U.S. House,2,LIB,Jim Lindsay,4
+Malheur,9 - Rural Nyssa,U.S. House,2,LIB,Jim Lindsay,6
+Malheur,10 - City of Adrian,U.S. House,2,LIB,Jim Lindsay,1
+Malheur,11 - Rural Adrian,U.S. House,2,LIB,Jim Lindsay,5
+Malheur,12 - City of Vale,U.S. House,2,LIB,Jim Lindsay,9
+Malheur,13 - South Rural Vale,U.S. House,2,LIB,Jim Lindsay,3
+Malheur,14 - North Rural Vale,U.S. House,2,LIB,Jim Lindsay,11
+Malheur,15 - Willowcreek,U.S. House,2,LIB,Jim Lindsay,1
+Malheur,16 - Brogan,U.S. House,2,LIB,Jim Lindsay,1
+Malheur,17 - Ironside,U.S. House,2,LIB,Jim Lindsay,0
+Malheur,18 - Harper,U.S. House,2,LIB,Jim Lindsay,0
+Malheur,19 - Juntura,U.S. House,2,LIB,Jim Lindsay,0
+Malheur,20 - City of Jordan Valley,U.S. House,2,LIB,Jim Lindsay,0
+Malheur,21 - Rural Jordan Valley,U.S. House,2,LIB,Jim Lindsay,0
+Malheur,22 - Arock,U.S. House,2,LIB,Jim Lindsay,0
+Malheur,23 - McDermitt,U.S. House,2,LIB,Jim Lindsay,3
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. House,2,LIB,Jim Lindsay,2
+Malheur,,U.S. House,2,LIB,Jim Lindsay,130
+Malheur,1 - Ontario 1,U.S. House,2,DEM,John C McColgan,237
+Malheur,2 - Ontario 2,U.S. House,2,DEM,John C McColgan,218
+Malheur,3 - Ontario 3,U.S. House,2,DEM,John C McColgan,203
+Malheur,4 - Ontario 4,U.S. House,2,DEM,John C McColgan,218
+Malheur,5 - Applegate,U.S. House,2,DEM,John C McColgan,55
+Malheur,6 - Fair/Ontario Heights,U.S. House,2,DEM,John C McColgan,173
+Malheur,7 - Butte/Cairo,U.S. House,2,DEM,John C McColgan,97
+Malheur,8 - City of Nyssa,U.S. House,2,DEM,John C McColgan,247
+Malheur,9 - Rural Nyssa,U.S. House,2,DEM,John C McColgan,118
+Malheur,10 - City of Adrian,U.S. House,2,DEM,John C McColgan,30
+Malheur,11 - Rural Adrian,U.S. House,2,DEM,John C McColgan,53
+Malheur,12 - City of Vale,U.S. House,2,DEM,John C McColgan,160
+Malheur,13 - South Rural Vale,U.S. House,2,DEM,John C McColgan,58
+Malheur,14 - North Rural Vale,U.S. House,2,DEM,John C McColgan,105
+Malheur,15 - Willowcreek,U.S. House,2,DEM,John C McColgan,33
+Malheur,16 - Brogan,U.S. House,2,DEM,John C McColgan,16
+Malheur,17 - Ironside,U.S. House,2,DEM,John C McColgan,3
+Malheur,18 - Harper,U.S. House,2,DEM,John C McColgan,16
+Malheur,19 - Juntura,U.S. House,2,DEM,John C McColgan,0
+Malheur,20 - City of Jordan Valley,U.S. House,2,DEM,John C McColgan,15
+Malheur,21 - Rural Jordan Valley,U.S. House,2,DEM,John C McColgan,3
+Malheur,22 - Arock,U.S. House,2,DEM,John C McColgan,6
+Malheur,23 - McDermitt,U.S. House,2,DEM,John C McColgan,1
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. House,2,DEM,John C McColgan,28
+Malheur,,U.S. House,2,DEM,John C McColgan,2093
+Malheur,1 - Ontario 1,U.S. House,2,REP,Greg Walden,871
+Malheur,2 - Ontario 2,U.S. House,2,REP,Greg Walden,484
+Malheur,3 - Ontario 3,U.S. House,2,REP,Greg Walden,454
+Malheur,4 - Ontario 4,U.S. House,2,REP,Greg Walden,653
+Malheur,5 - Applegate,U.S. House,2,REP,Greg Walden,329
+Malheur,6 - Fair/Ontario Heights,U.S. House,2,REP,Greg Walden,606
+Malheur,7 - Butte/Cairo,U.S. House,2,REP,Greg Walden,557
+Malheur,8 - City of Nyssa,U.S. House,2,REP,Greg Walden,523
+Malheur,9 - Rural Nyssa,U.S. House,2,REP,Greg Walden,619
+Malheur,10 - City of Adrian,U.S. House,2,REP,Greg Walden,47
+Malheur,11 - Rural Adrian,U.S. House,2,REP,Greg Walden,474
+Malheur,12 - City of Vale,U.S. House,2,REP,Greg Walden,490
+Malheur,13 - South Rural Vale,U.S. House,2,REP,Greg Walden,430
+Malheur,14 - North Rural Vale,U.S. House,2,REP,Greg Walden,597
+Malheur,15 - Willowcreek,U.S. House,2,REP,Greg Walden,237
+Malheur,16 - Brogan,U.S. House,2,REP,Greg Walden,48
+Malheur,17 - Ironside,U.S. House,2,REP,Greg Walden,39
+Malheur,18 - Harper,U.S. House,2,REP,Greg Walden,147
+Malheur,19 - Juntura,U.S. House,2,REP,Greg Walden,69
+Malheur,20 - City of Jordan Valley,U.S. House,2,REP,Greg Walden,88
+Malheur,21 - Rural Jordan Valley,U.S. House,2,REP,Greg Walden,112
+Malheur,22 - Arock,U.S. House,2,REP,Greg Walden,73
+Malheur,23 - McDermitt,U.S. House,2,REP,Greg Walden,29
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. House,2,REP,Greg Walden,142
+Malheur,,U.S. House,2,REP,Greg Walden,8118
+Malheur,1 - Ontario 1,U.S. House,2,CON,Jack Alan Brown Jr,3
+Malheur,2 - Ontario 2,U.S. House,2,CON,Jack Alan Brown Jr,7
+Malheur,3 - Ontario 3,U.S. House,2,CON,Jack Alan Brown Jr,21
+Malheur,4 - Ontario 4,U.S. House,2,CON,Jack Alan Brown Jr,12
+Malheur,5 - Applegate,U.S. House,2,CON,Jack Alan Brown Jr,2
+Malheur,6 - Fair/Ontario Heights,U.S. House,2,CON,Jack Alan Brown Jr,10
+Malheur,7 - Butte/Cairo,U.S. House,2,CON,Jack Alan Brown Jr,14
+Malheur,8 - City of Nyssa,U.S. House,2,CON,Jack Alan Brown Jr,10
+Malheur,9 - Rural Nyssa,U.S. House,2,CON,Jack Alan Brown Jr,11
+Malheur,10 - City of Adrian,U.S. House,2,CON,Jack Alan Brown Jr,2
+Malheur,11 - Rural Adrian,U.S. House,2,CON,Jack Alan Brown Jr,9
+Malheur,12 - City of Vale,U.S. House,2,CON,Jack Alan Brown Jr,9
+Malheur,13 - South Rural Vale,U.S. House,2,CON,Jack Alan Brown Jr,8
+Malheur,14 - North Rural Vale,U.S. House,2,CON,Jack Alan Brown Jr,10
+Malheur,15 - Willowcreek,U.S. House,2,CON,Jack Alan Brown Jr,0
+Malheur,16 - Brogan,U.S. House,2,CON,Jack Alan Brown Jr,0
+Malheur,17 - Ironside,U.S. House,2,CON,Jack Alan Brown Jr,0
+Malheur,18 - Harper,U.S. House,2,CON,Jack Alan Brown Jr,0
+Malheur,19 - Juntura,U.S. House,2,CON,Jack Alan Brown Jr,0
+Malheur,20 - City of Jordan Valley,U.S. House,2,CON,Jack Alan Brown Jr,4
+Malheur,21 - Rural Jordan Valley,U.S. House,2,CON,Jack Alan Brown Jr,2
+Malheur,22 - Arock,U.S. House,2,CON,Jack Alan Brown Jr,3
+Malheur,23 - McDermitt,U.S. House,2,CON,Jack Alan Brown Jr,0
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. House,2,CON,Jack Alan Brown Jr,3
+Malheur,,U.S. House,2,CON,Jack Alan Brown Jr,140
+Malheur,1 - Ontario 1,U.S. House,2,,Write-Ins,0
+Malheur,2 - Ontario 2,U.S. House,2,,Write-Ins,4
+Malheur,3 - Ontario 3,U.S. House,2,,Write-Ins,1
+Malheur,4 - Ontario 4,U.S. House,2,,Write-Ins,0
+Malheur,5 - Applegate,U.S. House,2,,Write-Ins,0
+Malheur,6 - Fair/Ontario Heights,U.S. House,2,,Write-Ins,1
+Malheur,7 - Butte/Cairo,U.S. House,2,,Write-Ins,3
+Malheur,8 - City of Nyssa,U.S. House,2,,Write-Ins,3
+Malheur,9 - Rural Nyssa,U.S. House,2,,Write-Ins,3
+Malheur,10 - City of Adrian,U.S. House,2,,Write-Ins,0
+Malheur,11 - Rural Adrian,U.S. House,2,,Write-Ins,2
+Malheur,12 - City of Vale,U.S. House,2,,Write-Ins,1
+Malheur,13 - South Rural Vale,U.S. House,2,,Write-Ins,0
+Malheur,14 - North Rural Vale,U.S. House,2,,Write-Ins,1
+Malheur,15 - Willowcreek,U.S. House,2,,Write-Ins,0
+Malheur,16 - Brogan,U.S. House,2,,Write-Ins,0
+Malheur,17 - Ironside,U.S. House,2,,Write-Ins,0
+Malheur,18 - Harper,U.S. House,2,,Write-Ins,0
+Malheur,19 - Juntura,U.S. House,2,,Write-Ins,0
+Malheur,20 - City of Jordan Valley,U.S. House,2,,Write-Ins,1
+Malheur,21 - Rural Jordan Valley,U.S. House,2,,Write-Ins,0
+Malheur,22 - Arock,U.S. House,2,,Write-Ins,0
+Malheur,23 - McDermitt,U.S. House,2,,Write-Ins,0
+Malheur,24 - Annex/Huntington/Farewell Bend,U.S. House,2,,Write-Ins,0
+Malheur,,U.S. House,2,,Write-Ins,20
+Malheur,1 - Ontario 1,Secretary of State,,REP,Betsy L Close,679
+Malheur,2 - Ontario 2,Secretary of State,,REP,Betsy L Close,394
+Malheur,3 - Ontario 3,Secretary of State,,REP,Betsy L Close,383
+Malheur,4 - Ontario 4,Secretary of State,,REP,Betsy L Close,474
+Malheur,5 - Applegate,Secretary of State,,REP,Betsy L Close,277
+Malheur,6 - Fair/Ontario Heights,Secretary of State,,REP,Betsy L Close,499
+Malheur,7 - Butte/Cairo,Secretary of State,,REP,Betsy L Close,444
+Malheur,8 - City of Nyssa,Secretary of State,,REP,Betsy L Close,419
+Malheur,9 - Rural Nyssa,Secretary of State,,REP,Betsy L Close,548
+Malheur,10 - City of Adrian,Secretary of State,,REP,Betsy L Close,40
+Malheur,11 - Rural Adrian,Secretary of State,,REP,Betsy L Close,409
+Malheur,12 - City of Vale,Secretary of State,,REP,Betsy L Close,375
+Malheur,13 - South Rural Vale,Secretary of State,,REP,Betsy L Close,347
+Malheur,14 - North Rural Vale,Secretary of State,,REP,Betsy L Close,498
+Malheur,15 - Willowcreek,Secretary of State,,REP,Betsy L Close,194
+Malheur,16 - Brogan,Secretary of State,,REP,Betsy L Close,34
+Malheur,17 - Ironside,Secretary of State,,REP,Betsy L Close,33
+Malheur,18 - Harper,Secretary of State,,REP,Betsy L Close,113
+Malheur,19 - Juntura,Secretary of State,,REP,Betsy L Close,58
+Malheur,20 - City of Jordan Valley,Secretary of State,,REP,Betsy L Close,82
+Malheur,21 - Rural Jordan Valley,Secretary of State,,REP,Betsy L Close,108
+Malheur,22 - Arock,Secretary of State,,REP,Betsy L Close,70
+Malheur,23 - McDermitt,Secretary of State,,REP,Betsy L Close,28
+Malheur,24 - Annex/Huntington/Farewell Bend,Secretary of State,,REP,Betsy L Close,123
+Malheur,,Secretary of State,,REP,Betsy L Close,6629
+Malheur,1 - Ontario 1,Secretary of State,,LIB,Richard Morley,29
+Malheur,2 - Ontario 2,Secretary of State,,LIB,Richard Morley,18
+Malheur,3 - Ontario 3,Secretary of State,,LIB,Richard Morley,32
+Malheur,4 - Ontario 4,Secretary of State,,LIB,Richard Morley,43
+Malheur,5 - Applegate,Secretary of State,,LIB,Richard Morley,14
+Malheur,6 - Fair/Ontario Heights,Secretary of State,,LIB,Richard Morley,19
+Malheur,7 - Butte/Cairo,Secretary of State,,LIB,Richard Morley,29
+Malheur,8 - City of Nyssa,Secretary of State,,LIB,Richard Morley,21
+Malheur,9 - Rural Nyssa,Secretary of State,,LIB,Richard Morley,26
+Malheur,10 - City of Adrian,Secretary of State,,LIB,Richard Morley,3
+Malheur,11 - Rural Adrian,Secretary of State,,LIB,Richard Morley,11
+Malheur,12 - City of Vale,Secretary of State,,LIB,Richard Morley,20
+Malheur,13 - South Rural Vale,Secretary of State,,LIB,Richard Morley,12
+Malheur,14 - North Rural Vale,Secretary of State,,LIB,Richard Morley,11
+Malheur,15 - Willowcreek,Secretary of State,,LIB,Richard Morley,5
+Malheur,16 - Brogan,Secretary of State,,LIB,Richard Morley,1
+Malheur,17 - Ironside,Secretary of State,,LIB,Richard Morley,0
+Malheur,18 - Harper,Secretary of State,,LIB,Richard Morley,5
+Malheur,19 - Juntura,Secretary of State,,LIB,Richard Morley,0
+Malheur,20 - City of Jordan Valley,Secretary of State,,LIB,Richard Morley,2
+Malheur,21 - Rural Jordan Valley,Secretary of State,,LIB,Richard Morley,1
+Malheur,22 - Arock,Secretary of State,,LIB,Richard Morley,2
+Malheur,23 - McDermitt,Secretary of State,,LIB,Richard Morley,3
+Malheur,24 - Annex/Huntington/Farewell Bend,Secretary of State,,LIB,Richard Morley,8
+Malheur,,Secretary of State,,LIB,Richard Morley,315
+Malheur,1 - Ontario 1,Secretary of State,,DEM,Bill Bradbury,404
+Malheur,2 - Ontario 2,Secretary of State,,DEM,Bill Bradbury,310
+Malheur,3 - Ontario 3,Secretary of State,,DEM,Bill Bradbury,276
+Malheur,4 - Ontario 4,Secretary of State,,DEM,Bill Bradbury,358
+Malheur,5 - Applegate,Secretary of State,,DEM,Bill Bradbury,87
+Malheur,6 - Fair/Ontario Heights,Secretary of State,,DEM,Bill Bradbury,267
+Malheur,7 - Butte/Cairo,Secretary of State,,DEM,Bill Bradbury,195
+Malheur,8 - City of Nyssa,Secretary of State,,DEM,Bill Bradbury,346
+Malheur,9 - Rural Nyssa,Secretary of State,,DEM,Bill Bradbury,175
+Malheur,10 - City of Adrian,Secretary of State,,DEM,Bill Bradbury,38
+Malheur,11 - Rural Adrian,Secretary of State,,DEM,Bill Bradbury,122
+Malheur,12 - City of Vale,Secretary of State,,DEM,Bill Bradbury,264
+Malheur,13 - South Rural Vale,Secretary of State,,DEM,Bill Bradbury,135
+Malheur,14 - North Rural Vale,Secretary of State,,DEM,Bill Bradbury,207
+Malheur,15 - Willowcreek,Secretary of State,,DEM,Bill Bradbury,58
+Malheur,16 - Brogan,Secretary of State,,DEM,Bill Bradbury,29
+Malheur,17 - Ironside,Secretary of State,,DEM,Bill Bradbury,9
+Malheur,18 - Harper,Secretary of State,,DEM,Bill Bradbury,42
+Malheur,19 - Juntura,Secretary of State,,DEM,Bill Bradbury,7
+Malheur,20 - City of Jordan Valley,Secretary of State,,DEM,Bill Bradbury,24
+Malheur,21 - Rural Jordan Valley,Secretary of State,,DEM,Bill Bradbury,7
+Malheur,22 - Arock,Secretary of State,,DEM,Bill Bradbury,10
+Malheur,23 - McDermitt,Secretary of State,,DEM,Bill Bradbury,2
+Malheur,24 - Annex/Huntington/Farewell Bend,Secretary of State,,DEM,Bill Bradbury,43
+Malheur,,Secretary of State,,DEM,Bill Bradbury,3415
+Malheur,1 - Ontario 1,Secretary of State,,,Write-Ins,1
+Malheur,2 - Ontario 2,Secretary of State,,,Write-Ins,2
+Malheur,3 - Ontario 3,Secretary of State,,,Write-Ins,0
+Malheur,4 - Ontario 4,Secretary of State,,,Write-Ins,0
+Malheur,5 - Applegate,Secretary of State,,,Write-Ins,0
+Malheur,6 - Fair/Ontario Heights,Secretary of State,,,Write-Ins,1
+Malheur,7 - Butte/Cairo,Secretary of State,,,Write-Ins,3
+Malheur,8 - City of Nyssa,Secretary of State,,,Write-Ins,1
+Malheur,9 - Rural Nyssa,Secretary of State,,,Write-Ins,0
+Malheur,10 - City of Adrian,Secretary of State,,,Write-Ins,0
+Malheur,11 - Rural Adrian,Secretary of State,,,Write-Ins,0
+Malheur,12 - City of Vale,Secretary of State,,,Write-Ins,0
+Malheur,13 - South Rural Vale,Secretary of State,,,Write-Ins,0
+Malheur,14 - North Rural Vale,Secretary of State,,,Write-Ins,1
+Malheur,15 - Willowcreek,Secretary of State,,,Write-Ins,1
+Malheur,16 - Brogan,Secretary of State,,,Write-Ins,0
+Malheur,17 - Ironside,Secretary of State,,,Write-Ins,0
+Malheur,18 - Harper,Secretary of State,,,Write-Ins,0
+Malheur,19 - Juntura,Secretary of State,,,Write-Ins,0
+Malheur,20 - City of Jordan Valley,Secretary of State,,,Write-Ins,0
+Malheur,21 - Rural Jordan Valley,Secretary of State,,,Write-Ins,0
+Malheur,22 - Arock,Secretary of State,,,Write-Ins,0
+Malheur,23 - McDermitt,Secretary of State,,,Write-Ins,0
+Malheur,24 - Annex/Huntington/Farewell Bend,Secretary of State,,,Write-Ins,0
+Malheur,,Secretary of State,,,Write-Ins,10
+Malheur,1 - Ontario 1,State Treasurer,,DEM,Randall Edwards,358
+Malheur,2 - Ontario 2,State Treasurer,,DEM,Randall Edwards,260
+Malheur,3 - Ontario 3,State Treasurer,,DEM,Randall Edwards,258
+Malheur,4 - Ontario 4,State Treasurer,,DEM,Randall Edwards,307
+Malheur,5 - Applegate,State Treasurer,,DEM,Randall Edwards,96
+Malheur,6 - Fair/Ontario Heights,State Treasurer,,DEM,Randall Edwards,245
+Malheur,7 - Butte/Cairo,State Treasurer,,DEM,Randall Edwards,184
+Malheur,8 - City of Nyssa,State Treasurer,,DEM,Randall Edwards,316
+Malheur,9 - Rural Nyssa,State Treasurer,,DEM,Randall Edwards,169
+Malheur,10 - City of Adrian,State Treasurer,,DEM,Randall Edwards,37
+Malheur,11 - Rural Adrian,State Treasurer,,DEM,Randall Edwards,119
+Malheur,12 - City of Vale,State Treasurer,,DEM,Randall Edwards,218
+Malheur,13 - South Rural Vale,State Treasurer,,DEM,Randall Edwards,123
+Malheur,14 - North Rural Vale,State Treasurer,,DEM,Randall Edwards,177
+Malheur,15 - Willowcreek,State Treasurer,,DEM,Randall Edwards,39
+Malheur,16 - Brogan,State Treasurer,,DEM,Randall Edwards,21
+Malheur,17 - Ironside,State Treasurer,,DEM,Randall Edwards,8
+Malheur,18 - Harper,State Treasurer,,DEM,Randall Edwards,32
+Malheur,19 - Juntura,State Treasurer,,DEM,Randall Edwards,14
+Malheur,20 - City of Jordan Valley,State Treasurer,,DEM,Randall Edwards,19
+Malheur,21 - Rural Jordan Valley,State Treasurer,,DEM,Randall Edwards,17
+Malheur,22 - Arock,State Treasurer,,DEM,Randall Edwards,11
+Malheur,23 - McDermitt,State Treasurer,,DEM,Randall Edwards,1
+Malheur,24 - Annex/Huntington/Farewell Bend,State Treasurer,,DEM,Randall Edwards,40
+Malheur,,State Treasurer,,DEM,Randall Edwards,3069
+Malheur,1 - Ontario 1,State Treasurer,,REP,Jeff Caton,700
+Malheur,2 - Ontario 2,State Treasurer,,REP,Jeff Caton,410
+Malheur,3 - Ontario 3,State Treasurer,,REP,Jeff Caton,348
+Malheur,4 - Ontario 4,State Treasurer,,REP,Jeff Caton,501
+Malheur,5 - Applegate,State Treasurer,,REP,Jeff Caton,260
+Malheur,6 - Fair/Ontario Heights,State Treasurer,,REP,Jeff Caton,492
+Malheur,7 - Butte/Cairo,State Treasurer,,REP,Jeff Caton,440
+Malheur,8 - City of Nyssa,State Treasurer,,REP,Jeff Caton,423
+Malheur,9 - Rural Nyssa,State Treasurer,,REP,Jeff Caton,535
+Malheur,10 - City of Adrian,State Treasurer,,REP,Jeff Caton,37
+Malheur,11 - Rural Adrian,State Treasurer,,REP,Jeff Caton,394
+Malheur,12 - City of Vale,State Treasurer,,REP,Jeff Caton,389
+Malheur,13 - South Rural Vale,State Treasurer,,REP,Jeff Caton,338
+Malheur,14 - North Rural Vale,State Treasurer,,REP,Jeff Caton,500
+Malheur,15 - Willowcreek,State Treasurer,,REP,Jeff Caton,199
+Malheur,16 - Brogan,State Treasurer,,REP,Jeff Caton,38
+Malheur,17 - Ironside,State Treasurer,,REP,Jeff Caton,29
+Malheur,18 - Harper,State Treasurer,,REP,Jeff Caton,124
+Malheur,19 - Juntura,State Treasurer,,REP,Jeff Caton,49
+Malheur,20 - City of Jordan Valley,State Treasurer,,REP,Jeff Caton,80
+Malheur,21 - Rural Jordan Valley,State Treasurer,,REP,Jeff Caton,88
+Malheur,22 - Arock,State Treasurer,,REP,Jeff Caton,64
+Malheur,23 - McDermitt,State Treasurer,,REP,Jeff Caton,29
+Malheur,24 - Annex/Huntington/Farewell Bend,State Treasurer,,REP,Jeff Caton,128
+Malheur,,State Treasurer,,REP,Jeff Caton,6595
+Malheur,1 - Ontario 1,State Treasurer,,CON,Carole D Winegarden,23
+Malheur,2 - Ontario 2,State Treasurer,,CON,Carole D Winegarden,26
+Malheur,3 - Ontario 3,State Treasurer,,CON,Carole D Winegarden,51
+Malheur,4 - Ontario 4,State Treasurer,,CON,Carole D Winegarden,32
+Malheur,5 - Applegate,State Treasurer,,CON,Carole D Winegarden,7
+Malheur,6 - Fair/Ontario Heights,State Treasurer,,CON,Carole D Winegarden,25
+Malheur,7 - Butte/Cairo,State Treasurer,,CON,Carole D Winegarden,26
+Malheur,8 - City of Nyssa,State Treasurer,,CON,Carole D Winegarden,25
+Malheur,9 - Rural Nyssa,State Treasurer,,CON,Carole D Winegarden,32
+Malheur,10 - City of Adrian,State Treasurer,,CON,Carole D Winegarden,3
+Malheur,11 - Rural Adrian,State Treasurer,,CON,Carole D Winegarden,18
+Malheur,12 - City of Vale,State Treasurer,,CON,Carole D Winegarden,27
+Malheur,13 - South Rural Vale,State Treasurer,,CON,Carole D Winegarden,16
+Malheur,14 - North Rural Vale,State Treasurer,,CON,Carole D Winegarden,20
+Malheur,15 - Willowcreek,State Treasurer,,CON,Carole D Winegarden,11
+Malheur,16 - Brogan,State Treasurer,,CON,Carole D Winegarden,1
+Malheur,17 - Ironside,State Treasurer,,CON,Carole D Winegarden,2
+Malheur,18 - Harper,State Treasurer,,CON,Carole D Winegarden,3
+Malheur,19 - Juntura,State Treasurer,,CON,Carole D Winegarden,0
+Malheur,20 - City of Jordan Valley,State Treasurer,,CON,Carole D Winegarden,3
+Malheur,21 - Rural Jordan Valley,State Treasurer,,CON,Carole D Winegarden,7
+Malheur,22 - Arock,State Treasurer,,CON,Carole D Winegarden,2
+Malheur,23 - McDermitt,State Treasurer,,CON,Carole D Winegarden,0
+Malheur,24 - Annex/Huntington/Farewell Bend,State Treasurer,,CON,Carole D Winegarden,5
+Malheur,,State Treasurer,,CON,Carole D Winegarden,365
+Malheur,1 - Ontario 1,State Treasurer,,LIB,Mitch Shults,12
+Malheur,2 - Ontario 2,State Treasurer,,LIB,Mitch Shults,17
+Malheur,3 - Ontario 3,State Treasurer,,LIB,Mitch Shults,18
+Malheur,4 - Ontario 4,State Treasurer,,LIB,Mitch Shults,21
+Malheur,5 - Applegate,State Treasurer,,LIB,Mitch Shults,11
+Malheur,6 - Fair/Ontario Heights,State Treasurer,,LIB,Mitch Shults,17
+Malheur,7 - Butte/Cairo,State Treasurer,,LIB,Mitch Shults,17
+Malheur,8 - City of Nyssa,State Treasurer,,LIB,Mitch Shults,8
+Malheur,9 - Rural Nyssa,State Treasurer,,LIB,Mitch Shults,7
+Malheur,10 - City of Adrian,State Treasurer,,LIB,Mitch Shults,3
+Malheur,11 - Rural Adrian,State Treasurer,,LIB,Mitch Shults,5
+Malheur,12 - City of Vale,State Treasurer,,LIB,Mitch Shults,13
+Malheur,13 - South Rural Vale,State Treasurer,,LIB,Mitch Shults,5
+Malheur,14 - North Rural Vale,State Treasurer,,LIB,Mitch Shults,10
+Malheur,15 - Willowcreek,State Treasurer,,LIB,Mitch Shults,4
+Malheur,16 - Brogan,State Treasurer,,LIB,Mitch Shults,1
+Malheur,17 - Ironside,State Treasurer,,LIB,Mitch Shults,0
+Malheur,18 - Harper,State Treasurer,,LIB,Mitch Shults,0
+Malheur,19 - Juntura,State Treasurer,,LIB,Mitch Shults,0
+Malheur,20 - City of Jordan Valley,State Treasurer,,LIB,Mitch Shults,0
+Malheur,21 - Rural Jordan Valley,State Treasurer,,LIB,Mitch Shults,0
+Malheur,22 - Arock,State Treasurer,,LIB,Mitch Shults,2
+Malheur,23 - McDermitt,State Treasurer,,LIB,Mitch Shults,3
+Malheur,24 - Annex/Huntington/Farewell Bend,State Treasurer,,LIB,Mitch Shults,0
+Malheur,,State Treasurer,,LIB,Mitch Shults,174
+Malheur,1 - Ontario 1,State Treasurer,,,Write-Ins,0
+Malheur,2 - Ontario 2,State Treasurer,,,Write-Ins,2
+Malheur,3 - Ontario 3,State Treasurer,,,Write-Ins,0
+Malheur,4 - Ontario 4,State Treasurer,,,Write-Ins,0
+Malheur,5 - Applegate,State Treasurer,,,Write-Ins,0
+Malheur,6 - Fair/Ontario Heights,State Treasurer,,,Write-Ins,1
+Malheur,7 - Butte/Cairo,State Treasurer,,,Write-Ins,2
+Malheur,8 - City of Nyssa,State Treasurer,,,Write-Ins,2
+Malheur,9 - Rural Nyssa,State Treasurer,,,Write-Ins,0
+Malheur,10 - City of Adrian,State Treasurer,,,Write-Ins,0
+Malheur,11 - Rural Adrian,State Treasurer,,,Write-Ins,0
+Malheur,12 - City of Vale,State Treasurer,,,Write-Ins,0
+Malheur,13 - South Rural Vale,State Treasurer,,,Write-Ins,0
+Malheur,14 - North Rural Vale,State Treasurer,,,Write-Ins,1
+Malheur,15 - Willowcreek,State Treasurer,,,Write-Ins,1
+Malheur,16 - Brogan,State Treasurer,,,Write-Ins,0
+Malheur,17 - Ironside,State Treasurer,,,Write-Ins,0
+Malheur,18 - Harper,State Treasurer,,,Write-Ins,0
+Malheur,19 - Juntura,State Treasurer,,,Write-Ins,0
+Malheur,20 - City of Jordan Valley,State Treasurer,,,Write-Ins,0
+Malheur,21 - Rural Jordan Valley,State Treasurer,,,Write-Ins,0
+Malheur,22 - Arock,State Treasurer,,,Write-Ins,0
+Malheur,23 - McDermitt,State Treasurer,,,Write-Ins,0
+Malheur,24 - Annex/Huntington/Farewell Bend,State Treasurer,,,Write-Ins,0
+Malheur,,State Treasurer,,,Write-Ins,9
+Malheur,1 - Ontario 1,Attorney General,,CON,Richard D Hake,4
+Malheur,2 - Ontario 2,Attorney General,,CON,Richard D Hake,7
+Malheur,3 - Ontario 3,Attorney General,,CON,Richard D Hake,18
+Malheur,4 - Ontario 4,Attorney General,,CON,Richard D Hake,14
+Malheur,5 - Applegate,Attorney General,,CON,Richard D Hake,2
+Malheur,6 - Fair/Ontario Heights,Attorney General,,CON,Richard D Hake,10
+Malheur,7 - Butte/Cairo,Attorney General,,CON,Richard D Hake,8
+Malheur,8 - City of Nyssa,Attorney General,,CON,Richard D Hake,7
+Malheur,9 - Rural Nyssa,Attorney General,,CON,Richard D Hake,5
+Malheur,10 - City of Adrian,Attorney General,,CON,Richard D Hake,0
+Malheur,11 - Rural Adrian,Attorney General,,CON,Richard D Hake,6
+Malheur,12 - City of Vale,Attorney General,,CON,Richard D Hake,7
+Malheur,13 - South Rural Vale,Attorney General,,CON,Richard D Hake,9
+Malheur,14 - North Rural Vale,Attorney General,,CON,Richard D Hake,8
+Malheur,15 - Willowcreek,Attorney General,,CON,Richard D Hake,4
+Malheur,16 - Brogan,Attorney General,,CON,Richard D Hake,0
+Malheur,17 - Ironside,Attorney General,,CON,Richard D Hake,1
+Malheur,18 - Harper,Attorney General,,CON,Richard D Hake,0
+Malheur,19 - Juntura,Attorney General,,CON,Richard D Hake,0
+Malheur,20 - City of Jordan Valley,Attorney General,,CON,Richard D Hake,0
+Malheur,21 - Rural Jordan Valley,Attorney General,,CON,Richard D Hake,1
+Malheur,22 - Arock,Attorney General,,CON,Richard D Hake,0
+Malheur,23 - McDermitt,Attorney General,,CON,Richard D Hake,0
+Malheur,24 - Annex/Huntington/Farewell Bend,Attorney General,,CON,Richard D Hake,1
+Malheur,,Attorney General,,CON,Richard D Hake,112
+Malheur,1 - Ontario 1,Attorney General,,REP,Paul Connolly,710
+Malheur,2 - Ontario 2,Attorney General,,REP,Paul Connolly,418
+Malheur,3 - Ontario 3,Attorney General,,REP,Paul Connolly,370
+Malheur,4 - Ontario 4,Attorney General,,REP,Paul Connolly,509
+Malheur,5 - Applegate,Attorney General,,REP,Paul Connolly,277
+Malheur,6 - Fair/Ontario Heights,Attorney General,,REP,Paul Connolly,510
+Malheur,7 - Butte/Cairo,Attorney General,,REP,Paul Connolly,466
+Malheur,8 - City of Nyssa,Attorney General,,REP,Paul Connolly,438
+Malheur,9 - Rural Nyssa,Attorney General,,REP,Paul Connolly,565
+Malheur,10 - City of Adrian,Attorney General,,REP,Paul Connolly,39
+Malheur,11 - Rural Adrian,Attorney General,,REP,Paul Connolly,424
+Malheur,12 - City of Vale,Attorney General,,REP,Paul Connolly,396
+Malheur,13 - South Rural Vale,Attorney General,,REP,Paul Connolly,355
+Malheur,14 - North Rural Vale,Attorney General,,REP,Paul Connolly,503
+Malheur,15 - Willowcreek,Attorney General,,REP,Paul Connolly,204
+Malheur,16 - Brogan,Attorney General,,REP,Paul Connolly,38
+Malheur,17 - Ironside,Attorney General,,REP,Paul Connolly,34
+Malheur,18 - Harper,Attorney General,,REP,Paul Connolly,128
+Malheur,19 - Juntura,Attorney General,,REP,Paul Connolly,57
+Malheur,20 - City of Jordan Valley,Attorney General,,REP,Paul Connolly,83
+Malheur,21 - Rural Jordan Valley,Attorney General,,REP,Paul Connolly,105
+Malheur,22 - Arock,Attorney General,,REP,Paul Connolly,73
+Malheur,23 - McDermitt,Attorney General,,REP,Paul Connolly,31
+Malheur,24 - Annex/Huntington/Farewell Bend,Attorney General,,REP,Paul Connolly,140
+Malheur,,Attorney General,,REP,Paul Connolly,6873
+Malheur,1 - Ontario 1,Attorney General,,DEM,Hardy Myers,357
+Malheur,2 - Ontario 2,Attorney General,,DEM,Hardy Myers,267
+Malheur,3 - Ontario 3,Attorney General,,DEM,Hardy Myers,260
+Malheur,4 - Ontario 4,Attorney General,,DEM,Hardy Myers,319
+Malheur,5 - Applegate,Attorney General,,DEM,Hardy Myers,76
+Malheur,6 - Fair/Ontario Heights,Attorney General,,DEM,Hardy Myers,240
+Malheur,7 - Butte/Cairo,Attorney General,,DEM,Hardy Myers,168
+Malheur,8 - City of Nyssa,Attorney General,,DEM,Hardy Myers,310
+Malheur,9 - Rural Nyssa,Attorney General,,DEM,Hardy Myers,155
+Malheur,10 - City of Adrian,Attorney General,,DEM,Hardy Myers,33
+Malheur,11 - Rural Adrian,Attorney General,,DEM,Hardy Myers,97
+Malheur,12 - City of Vale,Attorney General,,DEM,Hardy Myers,226
+Malheur,13 - South Rural Vale,Attorney General,,DEM,Hardy Myers,109
+Malheur,14 - North Rural Vale,Attorney General,,DEM,Hardy Myers,183
+Malheur,15 - Willowcreek,Attorney General,,DEM,Hardy Myers,42
+Malheur,16 - Brogan,Attorney General,,DEM,Hardy Myers,25
+Malheur,17 - Ironside,Attorney General,,DEM,Hardy Myers,6
+Malheur,18 - Harper,Attorney General,,DEM,Hardy Myers,27
+Malheur,19 - Juntura,Attorney General,,DEM,Hardy Myers,5
+Malheur,20 - City of Jordan Valley,Attorney General,,DEM,Hardy Myers,18
+Malheur,21 - Rural Jordan Valley,Attorney General,,DEM,Hardy Myers,3
+Malheur,22 - Arock,Attorney General,,DEM,Hardy Myers,8
+Malheur,23 - McDermitt,Attorney General,,DEM,Hardy Myers,0
+Malheur,24 - Annex/Huntington/Farewell Bend,Attorney General,,DEM,Hardy Myers,26
+Malheur,,Attorney General,,DEM,Hardy Myers,2960
+Malheur,1 - Ontario 1,Attorney General,,LIB,Donald G Smith Jr,24
+Malheur,2 - Ontario 2,Attorney General,,LIB,Donald G Smith Jr,19
+Malheur,3 - Ontario 3,Attorney General,,LIB,Donald G Smith Jr,35
+Malheur,4 - Ontario 4,Attorney General,,LIB,Donald G Smith Jr,25
+Malheur,5 - Applegate,Attorney General,,LIB,Donald G Smith Jr,18
+Malheur,6 - Fair/Ontario Heights,Attorney General,,LIB,Donald G Smith Jr,20
+Malheur,7 - Butte/Cairo,Attorney General,,LIB,Donald G Smith Jr,18
+Malheur,8 - City of Nyssa,Attorney General,,LIB,Donald G Smith Jr,22
+Malheur,9 - Rural Nyssa,Attorney General,,LIB,Donald G Smith Jr,16
+Malheur,10 - City of Adrian,Attorney General,,LIB,Donald G Smith Jr,6
+Malheur,11 - Rural Adrian,Attorney General,,LIB,Donald G Smith Jr,10
+Malheur,12 - City of Vale,Attorney General,,LIB,Donald G Smith Jr,17
+Malheur,13 - South Rural Vale,Attorney General,,LIB,Donald G Smith Jr,9
+Malheur,14 - North Rural Vale,Attorney General,,LIB,Donald G Smith Jr,12
+Malheur,15 - Willowcreek,Attorney General,,LIB,Donald G Smith Jr,4
+Malheur,16 - Brogan,Attorney General,,LIB,Donald G Smith Jr,1
+Malheur,17 - Ironside,Attorney General,,LIB,Donald G Smith Jr,0
+Malheur,18 - Harper,Attorney General,,LIB,Donald G Smith Jr,2
+Malheur,19 - Juntura,Attorney General,,LIB,Donald G Smith Jr,0
+Malheur,20 - City of Jordan Valley,Attorney General,,LIB,Donald G Smith Jr,2
+Malheur,21 - Rural Jordan Valley,Attorney General,,LIB,Donald G Smith Jr,5
+Malheur,22 - Arock,Attorney General,,LIB,Donald G Smith Jr,0
+Malheur,23 - McDermitt,Attorney General,,LIB,Donald G Smith Jr,2
+Malheur,24 - Annex/Huntington/Farewell Bend,Attorney General,,LIB,Donald G Smith Jr,8
+Malheur,,Attorney General,,LIB,Donald G Smith Jr,275
+Malheur,1 - Ontario 1,Attorney General,,,Write-Ins,0
+Malheur,2 - Ontario 2,Attorney General,,,Write-Ins,1
+Malheur,3 - Ontario 3,Attorney General,,,Write-Ins,0
+Malheur,4 - Ontario 4,Attorney General,,,Write-Ins,0
+Malheur,5 - Applegate,Attorney General,,,Write-Ins,0
+Malheur,6 - Fair/Ontario Heights,Attorney General,,,Write-Ins,3
+Malheur,7 - Butte/Cairo,Attorney General,,,Write-Ins,0
+Malheur,8 - City of Nyssa,Attorney General,,,Write-Ins,1
+Malheur,9 - Rural Nyssa,Attorney General,,,Write-Ins,0
+Malheur,10 - City of Adrian,Attorney General,,,Write-Ins,0
+Malheur,11 - Rural Adrian,Attorney General,,,Write-Ins,0
+Malheur,12 - City of Vale,Attorney General,,,Write-Ins,0
+Malheur,13 - South Rural Vale,Attorney General,,,Write-Ins,0
+Malheur,14 - North Rural Vale,Attorney General,,,Write-Ins,1
+Malheur,15 - Willowcreek,Attorney General,,,Write-Ins,1
+Malheur,16 - Brogan,Attorney General,,,Write-Ins,0
+Malheur,17 - Ironside,Attorney General,,,Write-Ins,0
+Malheur,18 - Harper,Attorney General,,,Write-Ins,0
+Malheur,19 - Juntura,Attorney General,,,Write-Ins,0
+Malheur,20 - City of Jordan Valley,Attorney General,,,Write-Ins,0
+Malheur,21 - Rural Jordan Valley,Attorney General,,,Write-Ins,0
+Malheur,22 - Arock,Attorney General,,,Write-Ins,0
+Malheur,23 - McDermitt,Attorney General,,,Write-Ins,0
+Malheur,24 - Annex/Huntington/Farewell Bend,Attorney General,,,Write-Ins,0
+Malheur,,Attorney General,,,Write-Ins,7
+Malheur,1 - Ontario 1,State Senate,30,REP,Ted Ferrioli,898
+Malheur,2 - Ontario 2,State Senate,30,REP,Ted Ferrioli,556
+Malheur,3 - Ontario 3,State Senate,30,REP,Ted Ferrioli,559
+Malheur,4 - Ontario 4,State Senate,30,REP,Ted Ferrioli,684
+Malheur,5 - Applegate,State Senate,30,REP,Ted Ferrioli,297
+Malheur,6 - Fair/Ontario Heights,State Senate,30,REP,Ted Ferrioli,625
+Malheur,7 - Butte/Cairo,State Senate,30,REP,Ted Ferrioli,555
+Malheur,8 - City of Nyssa,State Senate,30,REP,Ted Ferrioli,600
+Malheur,9 - Rural Nyssa,State Senate,30,REP,Ted Ferrioli,650
+Malheur,10 - City of Adrian,State Senate,30,REP,Ted Ferrioli,61
+Malheur,11 - Rural Adrian,State Senate,30,REP,Ted Ferrioli,458
+Malheur,12 - City of Vale,State Senate,30,REP,Ted Ferrioli,539
+Malheur,13 - South Rural Vale,State Senate,30,REP,Ted Ferrioli,406
+Malheur,14 - North Rural Vale,State Senate,30,REP,Ted Ferrioli,591
+Malheur,15 - Willowcreek,State Senate,30,REP,Ted Ferrioli,217
+Malheur,16 - Brogan,State Senate,30,REP,Ted Ferrioli,46
+Malheur,17 - Ironside,State Senate,30,REP,Ted Ferrioli,37
+Malheur,18 - Harper,State Senate,30,REP,Ted Ferrioli,139
+Malheur,19 - Juntura,State Senate,30,REP,Ted Ferrioli,65
+Malheur,20 - City of Jordan Valley,State Senate,30,REP,Ted Ferrioli,98
+Malheur,21 - Rural Jordan Valley,State Senate,30,REP,Ted Ferrioli,113
+Malheur,22 - Arock,State Senate,30,REP,Ted Ferrioli,69
+Malheur,23 - McDermitt,State Senate,30,REP,Ted Ferrioli,31
+Malheur,24 - Annex/Huntington/Farewell Bend,State Senate,30,REP,Ted Ferrioli,152
+Malheur,,State Senate,30,REP,Ted Ferrioli,8446
+Malheur,1 - Ontario 1,State Senate,30,,Write-Ins,8
+Malheur,2 - Ontario 2,State Senate,30,,Write-Ins,22
+Malheur,3 - Ontario 3,State Senate,30,,Write-Ins,9
+Malheur,4 - Ontario 4,State Senate,30,,Write-Ins,19
+Malheur,5 - Applegate,State Senate,30,,Write-Ins,3
+Malheur,6 - Fair/Ontario Heights,State Senate,30,,Write-Ins,10
+Malheur,7 - Butte/Cairo,State Senate,30,,Write-Ins,9
+Malheur,8 - City of Nyssa,State Senate,30,,Write-Ins,14
+Malheur,9 - Rural Nyssa,State Senate,30,,Write-Ins,6
+Malheur,10 - City of Adrian,State Senate,30,,Write-Ins,2
+Malheur,11 - Rural Adrian,State Senate,30,,Write-Ins,2
+Malheur,12 - City of Vale,State Senate,30,,Write-Ins,14
+Malheur,13 - South Rural Vale,State Senate,30,,Write-Ins,5
+Malheur,14 - North Rural Vale,State Senate,30,,Write-Ins,9
+Malheur,15 - Willowcreek,State Senate,30,,Write-Ins,2
+Malheur,16 - Brogan,State Senate,30,,Write-Ins,0
+Malheur,17 - Ironside,State Senate,30,,Write-Ins,0
+Malheur,18 - Harper,State Senate,30,,Write-Ins,0
+Malheur,19 - Juntura,State Senate,30,,Write-Ins,0
+Malheur,20 - City of Jordan Valley,State Senate,30,,Write-Ins,0
+Malheur,21 - Rural Jordan Valley,State Senate,30,,Write-Ins,0
+Malheur,22 - Arock,State Senate,30,,Write-Ins,0
+Malheur,23 - McDermitt,State Senate,30,,Write-Ins,0
+Malheur,24 - Annex/Huntington/Farewell Bend,State Senate,30,,Write-Ins,1
+Malheur,,State Senate,30,,Write-Ins,135
+Malheur,1 - Ontario 1,State House,60,REP,R Thomas (Tom) Butler,937
+Malheur,2 - Ontario 2,State House,60,REP,R Thomas (Tom) Butler,581
+Malheur,3 - Ontario 3,State House,60,REP,R Thomas (Tom) Butler,590
+Malheur,4 - Ontario 4,State House,60,REP,R Thomas (Tom) Butler,726
+Malheur,5 - Applegate,State House,60,REP,R Thomas (Tom) Butler,319
+Malheur,6 - Fair/Ontario Heights,State House,60,REP,R Thomas (Tom) Butler,640
+Malheur,7 - Butte/Cairo,State House,60,REP,R Thomas (Tom) Butler,589
+Malheur,8 - City of Nyssa,State House,60,REP,R Thomas (Tom) Butler,649
+Malheur,9 - Rural Nyssa,State House,60,REP,R Thomas (Tom) Butler,671
+Malheur,10 - City of Adrian,State House,60,REP,R Thomas (Tom) Butler,66
+Malheur,11 - Rural Adrian,State House,60,REP,R Thomas (Tom) Butler,485
+Malheur,12 - City of Vale,State House,60,REP,R Thomas (Tom) Butler,567
+Malheur,13 - South Rural Vale,State House,60,REP,R Thomas (Tom) Butler,424
+Malheur,14 - North Rural Vale,State House,60,REP,R Thomas (Tom) Butler,625
+Malheur,15 - Willowcreek,State House,60,REP,R Thomas (Tom) Butler,228
+Malheur,16 - Brogan,State House,60,REP,R Thomas (Tom) Butler,47
+Malheur,17 - Ironside,State House,60,REP,R Thomas (Tom) Butler,38
+Malheur,18 - Harper,State House,60,REP,R Thomas (Tom) Butler,149
+Malheur,19 - Juntura,State House,60,REP,R Thomas (Tom) Butler,55
+Malheur,20 - City of Jordan Valley,State House,60,REP,R Thomas (Tom) Butler,97
+Malheur,21 - Rural Jordan Valley,State House,60,REP,R Thomas (Tom) Butler,114
+Malheur,22 - Arock,State House,60,REP,R Thomas (Tom) Butler,71
+Malheur,23 - McDermitt,State House,60,REP,R Thomas (Tom) Butler,31
+Malheur,24 - Annex/Huntington/Farewell Bend,State House,60,REP,R Thomas (Tom) Butler,157
+Malheur,,State House,60,REP,R Thomas (Tom) Butler,8856
+Malheur,1 - Ontario 1,State House,60,,Write-Ins,17
+Malheur,2 - Ontario 2,State House,60,,Write-Ins,27
+Malheur,3 - Ontario 3,State House,60,,Write-Ins,12
+Malheur,4 - Ontario 4,State House,60,,Write-Ins,15
+Malheur,5 - Applegate,State House,60,,Write-Ins,2
+Malheur,6 - Fair/Ontario Heights,State House,60,,Write-Ins,17
+Malheur,7 - Butte/Cairo,State House,60,,Write-Ins,12
+Malheur,8 - City of Nyssa,State House,60,,Write-Ins,15
+Malheur,9 - Rural Nyssa,State House,60,,Write-Ins,7
+Malheur,10 - City of Adrian,State House,60,,Write-Ins,2
+Malheur,11 - Rural Adrian,State House,60,,Write-Ins,5
+Malheur,12 - City of Vale,State House,60,,Write-Ins,14
+Malheur,13 - South Rural Vale,State House,60,,Write-Ins,4
+Malheur,14 - North Rural Vale,State House,60,,Write-Ins,5
+Malheur,15 - Willowcreek,State House,60,,Write-Ins,2
+Malheur,16 - Brogan,State House,60,,Write-Ins,0
+Malheur,17 - Ironside,State House,60,,Write-Ins,0
+Malheur,18 - Harper,State House,60,,Write-Ins,0
+Malheur,19 - Juntura,State House,60,,Write-Ins,0
+Malheur,20 - City of Jordan Valley,State House,60,,Write-Ins,1
+Malheur,21 - Rural Jordan Valley,State House,60,,Write-Ins,0
+Malheur,22 - Arock,State House,60,,Write-Ins,0
+Malheur,23 - McDermitt,State House,60,,Write-Ins,0
+Malheur,24 - Annex/Huntington/Farewell Bend,State House,60,,Write-Ins,2
+Malheur,,State House,60,,Write-Ins,159
