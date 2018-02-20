@@ -1,0 +1,496 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,01 Waldport,U.S. Senate,,CON,Lon Mabon,12
+Lincoln,02 Alsea,U.S. Senate,,CON,Lon Mabon,3
+Lincoln,03 Seaview,U.S. Senate,,CON,Lon Mabon,8
+Lincoln,04 Tidewater,U.S. Senate,,CON,Lon Mabon,4
+Lincoln,05 Yachats,U.S. Senate,,CON,Lon Mabon,8
+Lincoln,06 Bayview,U.S. Senate,,CON,Lon Mabon,2
+Lincoln,07 Seal Rock,U.S. Senate,,CON,Lon Mabon,4
+Lincoln,08 South Beach,U.S. Senate,,CON,Lon Mabon,5
+Lincoln,09 Nye Creek,U.S. Senate,,CON,Lon Mabon,17
+Lincoln,10 Newport Bay,U.S. Senate,,CON,Lon Mabon,4
+Lincoln,11 Oceanview,U.S. Senate,,CON,Lon Mabon,7
+Lincoln,12 Yaquina,U.S. Senate,,CON,Lon Mabon,10
+Lincoln,13 Pacific,U.S. Senate,,CON,Lon Mabon,1
+Lincoln,14 Agate Beach,U.S. Senate,,CON,Lon Mabon,6
+Lincoln,15 Otter Rock,U.S. Senate,,CON,Lon Mabon,0
+Lincoln,16 Depoe Bay,U.S. Senate,,CON,Lon Mabon,5
+Lincoln,17 Fogarty,U.S. Senate,,CON,Lon Mabon,15
+Lincoln,18 Kern,U.S. Senate,,CON,Lon Mabon,8
+Lincoln,19 Schooner Ck,U.S. Senate,,CON,Lon Mabon,14
+Lincoln,20 Delake,U.S. Senate,,CON,Lon Mabon,11
+Lincoln,21 Oceanlake,U.S. Senate,,CON,Lon Mabon,12
+Lincoln,22 Sunset West,U.S. Senate,,CON,Lon Mabon,13
+Lincoln,23 Sunset East,U.S. Senate,,CON,Lon Mabon,10
+Lincoln,24 Rose Lodge,U.S. Senate,,CON,Lon Mabon,14
+Lincoln,25 Big Elk,U.S. Senate,,CON,Lon Mabon,4
+Lincoln,26 Elk City,U.S. Senate,,CON,Lon Mabon,1
+Lincoln,27 Fruitvale,U.S. Senate,,CON,Lon Mabon,6
+Lincoln,28 Eddyville,U.S. Senate,,CON,Lon Mabon,2
+Lincoln,29 Siletz,U.S. Senate,,CON,Lon Mabon,21
+Lincoln,30 Rock Creek,U.S. Senate,,CON,Lon Mabon,3
+Lincoln,31 East Toledo,U.S. Senate,,CON,Lon Mabon,14
+Lincoln,32 South Toledo,U.S. Senate,,CON,Lon Mabon,14
+Lincoln,,U.S. Senate,,CON,Lon Mabon,258
+Lincoln,01 Waldport,U.S. Senate,,DEM,Bill Bradbury,419
+Lincoln,02 Alsea,U.S. Senate,,DEM,Bill Bradbury,153
+Lincoln,03 Seaview,U.S. Senate,,DEM,Bill Bradbury,224
+Lincoln,04 Tidewater,U.S. Senate,,DEM,Bill Bradbury,118
+Lincoln,05 Yachats,U.S. Senate,,DEM,Bill Bradbury,323
+Lincoln,06 Bayview,U.S. Senate,,DEM,Bill Bradbury,337
+Lincoln,07 Seal Rock,U.S. Senate,,DEM,Bill Bradbury,328
+Lincoln,08 South Beach,U.S. Senate,,DEM,Bill Bradbury,256
+Lincoln,09 Nye Creek,U.S. Senate,,DEM,Bill Bradbury,319
+Lincoln,10 Newport Bay,U.S. Senate,,DEM,Bill Bradbury,199
+Lincoln,11 Oceanview,U.S. Senate,,DEM,Bill Bradbury,221
+Lincoln,12 Yaquina,U.S. Senate,,DEM,Bill Bradbury,318
+Lincoln,13 Pacific,U.S. Senate,,DEM,Bill Bradbury,332
+Lincoln,14 Agate Beach,U.S. Senate,,DEM,Bill Bradbury,264
+Lincoln,15 Otter Rock,U.S. Senate,,DEM,Bill Bradbury,112
+Lincoln,16 Depoe Bay,U.S. Senate,,DEM,Bill Bradbury,252
+Lincoln,17 Fogarty,U.S. Senate,,DEM,Bill Bradbury,291
+Lincoln,18 Kern,U.S. Senate,,DEM,Bill Bradbury,276
+Lincoln,19 Schooner Ck,U.S. Senate,,DEM,Bill Bradbury,342
+Lincoln,20 Delake,U.S. Senate,,DEM,Bill Bradbury,389
+Lincoln,21 Oceanlake,U.S. Senate,,DEM,Bill Bradbury,333
+Lincoln,22 Sunset West,U.S. Senate,,DEM,Bill Bradbury,323
+Lincoln,23 Sunset East,U.S. Senate,,DEM,Bill Bradbury,284
+Lincoln,24 Rose Lodge,U.S. Senate,,DEM,Bill Bradbury,130
+Lincoln,25 Big Elk,U.S. Senate,,DEM,Bill Bradbury,7
+Lincoln,26 Elk City,U.S. Senate,,DEM,Bill Bradbury,24
+Lincoln,27 Fruitvale,U.S. Senate,,DEM,Bill Bradbury,200
+Lincoln,28 Eddyville,U.S. Senate,,DEM,Bill Bradbury,85
+Lincoln,29 Siletz,U.S. Senate,,DEM,Bill Bradbury,311
+Lincoln,30 Rock Creek,U.S. Senate,,DEM,Bill Bradbury,75
+Lincoln,31 East Toledo,U.S. Senate,,DEM,Bill Bradbury,331
+Lincoln,32 South Toledo,U.S. Senate,,DEM,Bill Bradbury,219
+Lincoln,,U.S. Senate,,DEM,Bill Bradbury,7795
+Lincoln,01 Waldport,U.S. Senate,,REP,Gordon H. Smith,426
+Lincoln,02 Alsea,U.S. Senate,,REP,Gordon H. Smith,227
+Lincoln,03 Seaview,U.S. Senate,,REP,Gordon H. Smith,221
+Lincoln,04 Tidewater,U.S. Senate,,REP,Gordon H. Smith,164
+Lincoln,05 Yachats,U.S. Senate,,REP,Gordon H. Smith,271
+Lincoln,06 Bayview,U.S. Senate,,REP,Gordon H. Smith,324
+Lincoln,07 Seal Rock,U.S. Senate,,REP,Gordon H. Smith,352
+Lincoln,08 South Beach,U.S. Senate,,REP,Gordon H. Smith,281
+Lincoln,09 Nye Creek,U.S. Senate,,REP,Gordon H. Smith,249
+Lincoln,10 Newport Bay,U.S. Senate,,REP,Gordon H. Smith,199
+Lincoln,11 Oceanview,U.S. Senate,,REP,Gordon H. Smith,298
+Lincoln,12 Yaquina,U.S. Senate,,REP,Gordon H. Smith,461
+Lincoln,13 Pacific,U.S. Senate,,REP,Gordon H. Smith,521
+Lincoln,14 Agate Beach,U.S. Senate,,REP,Gordon H. Smith,394
+Lincoln,15 Otter Rock,U.S. Senate,,REP,Gordon H. Smith,75
+Lincoln,16 Depoe Bay,U.S. Senate,,REP,Gordon H. Smith,323
+Lincoln,17 Fogarty,U.S. Senate,,REP,Gordon H. Smith,362
+Lincoln,18 Kern,U.S. Senate,,REP,Gordon H. Smith,334
+Lincoln,19 Schooner Ck,U.S. Senate,,REP,Gordon H. Smith,407
+Lincoln,20 Delake,U.S. Senate,,REP,Gordon H. Smith,429
+Lincoln,21 Oceanlake,U.S. Senate,,REP,Gordon H. Smith,374
+Lincoln,22 Sunset West,U.S. Senate,,REP,Gordon H. Smith,451
+Lincoln,23 Sunset East,U.S. Senate,,REP,Gordon H. Smith,310
+Lincoln,24 Rose Lodge,U.S. Senate,,REP,Gordon H. Smith,174
+Lincoln,25 Big Elk,U.S. Senate,,REP,Gordon H. Smith,41
+Lincoln,26 Elk City,U.S. Senate,,REP,Gordon H. Smith,26
+Lincoln,27 Fruitvale,U.S. Senate,,REP,Gordon H. Smith,303
+Lincoln,28 Eddyville,U.S. Senate,,REP,Gordon H. Smith,129
+Lincoln,29 Siletz,U.S. Senate,,REP,Gordon H. Smith,445
+Lincoln,30 Rock Creek,U.S. Senate,,REP,Gordon H. Smith,71
+Lincoln,31 East Toledo,U.S. Senate,,REP,Gordon H. Smith,427
+Lincoln,32 South Toledo,U.S. Senate,,REP,Gordon H. Smith,400
+Lincoln,,U.S. Senate,,REP,Gordon H. Smith,9469
+Lincoln,01 Waldport,U.S. Senate,,LIB,Dan Fitzgerald,25
+Lincoln,02 Alsea,U.S. Senate,,LIB,Dan Fitzgerald,14
+Lincoln,03 Seaview,U.S. Senate,,LIB,Dan Fitzgerald,20
+Lincoln,04 Tidewater,U.S. Senate,,LIB,Dan Fitzgerald,11
+Lincoln,05 Yachats,U.S. Senate,,LIB,Dan Fitzgerald,21
+Lincoln,06 Bayview,U.S. Senate,,LIB,Dan Fitzgerald,29
+Lincoln,07 Seal Rock,U.S. Senate,,LIB,Dan Fitzgerald,20
+Lincoln,08 South Beach,U.S. Senate,,LIB,Dan Fitzgerald,15
+Lincoln,09 Nye Creek,U.S. Senate,,LIB,Dan Fitzgerald,20
+Lincoln,10 Newport Bay,U.S. Senate,,LIB,Dan Fitzgerald,12
+Lincoln,11 Oceanview,U.S. Senate,,LIB,Dan Fitzgerald,22
+Lincoln,12 Yaquina,U.S. Senate,,LIB,Dan Fitzgerald,27
+Lincoln,13 Pacific,U.S. Senate,,LIB,Dan Fitzgerald,18
+Lincoln,14 Agate Beach,U.S. Senate,,LIB,Dan Fitzgerald,17
+Lincoln,15 Otter Rock,U.S. Senate,,LIB,Dan Fitzgerald,7
+Lincoln,16 Depoe Bay,U.S. Senate,,LIB,Dan Fitzgerald,18
+Lincoln,17 Fogarty,U.S. Senate,,LIB,Dan Fitzgerald,14
+Lincoln,18 Kern,U.S. Senate,,LIB,Dan Fitzgerald,17
+Lincoln,19 Schooner Ck,U.S. Senate,,LIB,Dan Fitzgerald,36
+Lincoln,20 Delake,U.S. Senate,,LIB,Dan Fitzgerald,35
+Lincoln,21 Oceanlake,U.S. Senate,,LIB,Dan Fitzgerald,18
+Lincoln,22 Sunset West,U.S. Senate,,LIB,Dan Fitzgerald,19
+Lincoln,23 Sunset East,U.S. Senate,,LIB,Dan Fitzgerald,20
+Lincoln,24 Rose Lodge,U.S. Senate,,LIB,Dan Fitzgerald,20
+Lincoln,25 Big Elk,U.S. Senate,,LIB,Dan Fitzgerald,0
+Lincoln,26 Elk City,U.S. Senate,,LIB,Dan Fitzgerald,1
+Lincoln,27 Fruitvale,U.S. Senate,,LIB,Dan Fitzgerald,24
+Lincoln,28 Eddyville,U.S. Senate,,LIB,Dan Fitzgerald,11
+Lincoln,29 Siletz,U.S. Senate,,LIB,Dan Fitzgerald,28
+Lincoln,30 Rock Creek,U.S. Senate,,LIB,Dan Fitzgerald,1
+Lincoln,31 East Toledo,U.S. Senate,,LIB,Dan Fitzgerald,32
+Lincoln,32 South Toledo,U.S. Senate,,LIB,Dan Fitzgerald,33
+Lincoln,,U.S. Senate,,LIB,Dan Fitzgerald,605
+Lincoln,01 Waldport,U.S. Senate,,,Write-Ins,0
+Lincoln,02 Alsea,U.S. Senate,,,Write-Ins,0
+Lincoln,03 Seaview,U.S. Senate,,,Write-Ins,0
+Lincoln,04 Tidewater,U.S. Senate,,,Write-Ins,0
+Lincoln,05 Yachats,U.S. Senate,,,Write-Ins,1
+Lincoln,06 Bayview,U.S. Senate,,,Write-Ins,5
+Lincoln,07 Seal Rock,U.S. Senate,,,Write-Ins,1
+Lincoln,08 South Beach,U.S. Senate,,,Write-Ins,0
+Lincoln,09 Nye Creek,U.S. Senate,,,Write-Ins,0
+Lincoln,10 Newport Bay,U.S. Senate,,,Write-Ins,0
+Lincoln,11 Oceanview,U.S. Senate,,,Write-Ins,0
+Lincoln,12 Yaquina,U.S. Senate,,,Write-Ins,1
+Lincoln,13 Pacific,U.S. Senate,,,Write-Ins,0
+Lincoln,14 Agate Beach,U.S. Senate,,,Write-Ins,0
+Lincoln,15 Otter Rock,U.S. Senate,,,Write-Ins,0
+Lincoln,16 Depoe Bay,U.S. Senate,,,Write-Ins,0
+Lincoln,17 Fogarty,U.S. Senate,,,Write-Ins,0
+Lincoln,18 Kern,U.S. Senate,,,Write-Ins,0
+Lincoln,19 Schooner Ck,U.S. Senate,,,Write-Ins,1
+Lincoln,20 Delake,U.S. Senate,,,Write-Ins,0
+Lincoln,21 Oceanlake,U.S. Senate,,,Write-Ins,0
+Lincoln,22 Sunset West,U.S. Senate,,,Write-Ins,0
+Lincoln,23 Sunset East,U.S. Senate,,,Write-Ins,2
+Lincoln,24 Rose Lodge,U.S. Senate,,,Write-Ins,0
+Lincoln,25 Big Elk,U.S. Senate,,,Write-Ins,0
+Lincoln,26 Elk City,U.S. Senate,,,Write-Ins,0
+Lincoln,27 Fruitvale,U.S. Senate,,,Write-Ins,1
+Lincoln,28 Eddyville,U.S. Senate,,,Write-Ins,0
+Lincoln,29 Siletz,U.S. Senate,,,Write-Ins,2
+Lincoln,30 Rock Creek,U.S. Senate,,,Write-Ins,0
+Lincoln,31 East Toledo,U.S. Senate,,,Write-Ins,1
+Lincoln,32 South Toledo,U.S. Senate,,,Write-Ins,0
+Lincoln,,U.S. Senate,,,Write-Ins,15
+Lincoln,01 Waldport,U.S. House,5,DEM,Darlene Hooley,578
+Lincoln,02 Alsea,U.S. House,5,DEM,Darlene Hooley,229
+Lincoln,03 Seaview,U.S. House,5,DEM,Darlene Hooley,315
+Lincoln,04 Tidewater,U.S. House,5,DEM,Darlene Hooley,168
+Lincoln,05 Yachats,U.S. House,5,DEM,Darlene Hooley,414
+Lincoln,06 Bayview,U.S. House,5,DEM,Darlene Hooley,436
+Lincoln,07 Seal Rock,U.S. House,5,DEM,Darlene Hooley,450
+Lincoln,08 South Beach,U.S. House,5,DEM,Darlene Hooley,358
+Lincoln,09 Nye Creek,U.S. House,5,DEM,Darlene Hooley,441
+Lincoln,10 Newport Bay,U.S. House,5,DEM,Darlene Hooley,278
+Lincoln,11 Oceanview,U.S. House,5,DEM,Darlene Hooley,328
+Lincoln,12 Yaquina,U.S. House,5,DEM,Darlene Hooley,488
+Lincoln,13 Pacific,U.S. House,5,DEM,Darlene Hooley,546
+Lincoln,14 Agate Beach,U.S. House,5,DEM,Darlene Hooley,434
+Lincoln,15 Otter Rock,U.S. House,5,DEM,Darlene Hooley,132
+Lincoln,16 Depoe Bay,U.S. House,5,DEM,Darlene Hooley,366
+Lincoln,17 Fogarty,U.S. House,5,DEM,Darlene Hooley,391
+Lincoln,18 Kern,U.S. House,5,DEM,Darlene Hooley,374
+Lincoln,19 Schooner Ck,U.S. House,5,DEM,Darlene Hooley,522
+Lincoln,20 Delake,U.S. House,5,DEM,Darlene Hooley,560
+Lincoln,21 Oceanlake,U.S. House,5,DEM,Darlene Hooley,451
+Lincoln,22 Sunset West,U.S. House,5,DEM,Darlene Hooley,459
+Lincoln,23 Sunset East,U.S. House,5,DEM,Darlene Hooley,399
+Lincoln,24 Rose Lodge,U.S. House,5,DEM,Darlene Hooley,201
+Lincoln,25 Big Elk,U.S. House,5,DEM,Darlene Hooley,11
+Lincoln,26 Elk City,U.S. House,5,DEM,Darlene Hooley,28
+Lincoln,27 Fruitvale,U.S. House,5,DEM,Darlene Hooley,311
+Lincoln,28 Eddyville,U.S. House,5,DEM,Darlene Hooley,119
+Lincoln,29 Siletz,U.S. House,5,DEM,Darlene Hooley,511
+Lincoln,30 Rock Creek,U.S. House,5,DEM,Darlene Hooley,103
+Lincoln,31 East Toledo,U.S. House,5,DEM,Darlene Hooley,513
+Lincoln,32 South Toledo,U.S. House,5,DEM,Darlene Hooley,418
+Lincoln,,U.S. House,5,DEM,Darlene Hooley,11332
+Lincoln,01 Waldport,U.S. House,5,REP,Brian J. Boquist,298
+Lincoln,02 Alsea,U.S. House,5,REP,Brian J. Boquist,156
+Lincoln,03 Seaview,U.S. House,5,REP,Brian J. Boquist,155
+Lincoln,04 Tidewater,U.S. House,5,REP,Brian J. Boquist,125
+Lincoln,05 Yachats,U.S. House,5,REP,Brian J. Boquist,197
+Lincoln,06 Bayview,U.S. House,5,REP,Brian J. Boquist,244
+Lincoln,07 Seal Rock,U.S. House,5,REP,Brian J. Boquist,239
+Lincoln,08 South Beach,U.S. House,5,REP,Brian J. Boquist,193
+Lincoln,09 Nye Creek,U.S. House,5,REP,Brian J. Boquist,161
+Lincoln,10 Newport Bay,U.S. House,5,REP,Brian J. Boquist,132
+Lincoln,11 Oceanview,U.S. House,5,REP,Brian J. Boquist,216
+Lincoln,12 Yaquina,U.S. House,5,REP,Brian J. Boquist,307
+Lincoln,13 Pacific,U.S. House,5,REP,Brian J. Boquist,322
+Lincoln,14 Agate Beach,U.S. House,5,REP,Brian J. Boquist,239
+Lincoln,15 Otter Rock,U.S. House,5,REP,Brian J. Boquist,58
+Lincoln,16 Depoe Bay,U.S. House,5,REP,Brian J. Boquist,223
+Lincoln,17 Fogarty,U.S. House,5,REP,Brian J. Boquist,279
+Lincoln,18 Kern,U.S. House,5,REP,Brian J. Boquist,253
+Lincoln,19 Schooner Ck,U.S. House,5,REP,Brian J. Boquist,269
+Lincoln,20 Delake,U.S. House,5,REP,Brian J. Boquist,298
+Lincoln,21 Oceanlake,U.S. House,5,REP,Brian J. Boquist,273
+Lincoln,22 Sunset West,U.S. House,5,REP,Brian J. Boquist,328
+Lincoln,23 Sunset East,U.S. House,5,REP,Brian J. Boquist,217
+Lincoln,24 Rose Lodge,U.S. House,5,REP,Brian J. Boquist,133
+Lincoln,25 Big Elk,U.S. House,5,REP,Brian J. Boquist,40
+Lincoln,26 Elk City,U.S. House,5,REP,Brian J. Boquist,25
+Lincoln,27 Fruitvale,U.S. House,5,REP,Brian J. Boquist,218
+Lincoln,28 Eddyville,U.S. House,5,REP,Brian J. Boquist,103
+Lincoln,29 Siletz,U.S. House,5,REP,Brian J. Boquist,286
+Lincoln,30 Rock Creek,U.S. House,5,REP,Brian J. Boquist,47
+Lincoln,31 East Toledo,U.S. House,5,REP,Brian J. Boquist,271
+Lincoln,32 South Toledo,U.S. House,5,REP,Brian J. Boquist,237
+Lincoln,,U.S. House,5,REP,Brian J. Boquist,6542
+Lincoln,01 Waldport,U.S. House,5,,Write-Ins,1
+Lincoln,02 Alsea,U.S. House,5,,Write-Ins,0
+Lincoln,03 Seaview,U.S. House,5,,Write-Ins,0
+Lincoln,04 Tidewater,U.S. House,5,,Write-Ins,0
+Lincoln,05 Yachats,U.S. House,5,,Write-Ins,1
+Lincoln,06 Bayview,U.S. House,5,,Write-Ins,4
+Lincoln,07 Seal Rock,U.S. House,5,,Write-Ins,2
+Lincoln,08 South Beach,U.S. House,5,,Write-Ins,1
+Lincoln,09 Nye Creek,U.S. House,5,,Write-Ins,2
+Lincoln,10 Newport Bay,U.S. House,5,,Write-Ins,0
+Lincoln,11 Oceanview,U.S. House,5,,Write-Ins,2
+Lincoln,12 Yaquina,U.S. House,5,,Write-Ins,3
+Lincoln,13 Pacific,U.S. House,5,,Write-Ins,2
+Lincoln,14 Agate Beach,U.S. House,5,,Write-Ins,0
+Lincoln,15 Otter Rock,U.S. House,5,,Write-Ins,0
+Lincoln,16 Depoe Bay,U.S. House,5,,Write-Ins,0
+Lincoln,17 Fogarty,U.S. House,5,,Write-Ins,1
+Lincoln,18 Kern,U.S. House,5,,Write-Ins,1
+Lincoln,19 Schooner Ck,U.S. House,5,,Write-Ins,3
+Lincoln,20 Delake,U.S. House,5,,Write-Ins,3
+Lincoln,21 Oceanlake,U.S. House,5,,Write-Ins,1
+Lincoln,22 Sunset West,U.S. House,5,,Write-Ins,2
+Lincoln,23 Sunset East,U.S. House,5,,Write-Ins,2
+Lincoln,24 Rose Lodge,U.S. House,5,,Write-Ins,0
+Lincoln,25 Big Elk,U.S. House,5,,Write-Ins,0
+Lincoln,26 Elk City,U.S. House,5,,Write-Ins,0
+Lincoln,27 Fruitvale,U.S. House,5,,Write-Ins,1
+Lincoln,28 Eddyville,U.S. House,5,,Write-Ins,2
+Lincoln,29 Siletz,U.S. House,5,,Write-Ins,1
+Lincoln,30 Rock Creek,U.S. House,5,,Write-Ins,0
+Lincoln,31 East Toledo,U.S. House,5,,Write-Ins,0
+Lincoln,32 South Toledo,U.S. House,5,,Write-Ins,1
+Lincoln,,U.S. House,5,,Write-Ins,36
+Lincoln,01 Waldport,Governor,,REP,Kevin L. Mannix,319
+Lincoln,02 Alsea,Governor,,REP,Kevin L. Mannix,177
+Lincoln,03 Seaview,Governor,,REP,Kevin L. Mannix,163
+Lincoln,04 Tidewater,Governor,,REP,Kevin L. Mannix,136
+Lincoln,05 Yachats,Governor,,REP,Kevin L. Mannix,211
+Lincoln,06 Bayview,Governor,,REP,Kevin L. Mannix,244
+Lincoln,07 Seal Rock,Governor,,REP,Kevin L. Mannix,274
+Lincoln,08 South Beach,Governor,,REP,Kevin L. Mannix,218
+Lincoln,09 Nye Creek,Governor,,REP,Kevin L. Mannix,189
+Lincoln,10 Newport Bay,Governor,,REP,Kevin L. Mannix,156
+Lincoln,11 Oceanview,Governor,,REP,Kevin L. Mannix,234
+Lincoln,12 Yaquina,Governor,,REP,Kevin L. Mannix,368
+Lincoln,13 Pacific,Governor,,REP,Kevin L. Mannix,368
+Lincoln,14 Agate Beach,Governor,,REP,Kevin L. Mannix,270
+Lincoln,15 Otter Rock,Governor,,REP,Kevin L. Mannix,58
+Lincoln,16 Depoe Bay,Governor,,REP,Kevin L. Mannix,254
+Lincoln,17 Fogarty,Governor,,REP,Kevin L. Mannix,292
+Lincoln,18 Kern,Governor,,REP,Kevin L. Mannix,253
+Lincoln,19 Schooner Ck,Governor,,REP,Kevin L. Mannix,291
+Lincoln,20 Delake,Governor,,REP,Kevin L. Mannix,321
+Lincoln,21 Oceanlake,Governor,,REP,Kevin L. Mannix,300
+Lincoln,22 Sunset West,Governor,,REP,Kevin L. Mannix,370
+Lincoln,23 Sunset East,Governor,,REP,Kevin L. Mannix,241
+Lincoln,24 Rose Lodge,Governor,,REP,Kevin L. Mannix,151
+Lincoln,25 Big Elk,Governor,,REP,Kevin L. Mannix,39
+Lincoln,26 Elk City,Governor,,REP,Kevin L. Mannix,22
+Lincoln,27 Fruitvale,Governor,,REP,Kevin L. Mannix,256
+Lincoln,28 Eddyville,Governor,,REP,Kevin L. Mannix,105
+Lincoln,29 Siletz,Governor,,REP,Kevin L. Mannix,359
+Lincoln,30 Rock Creek,Governor,,REP,Kevin L. Mannix,54
+Lincoln,31 East Toledo,Governor,,REP,Kevin L. Mannix,333
+Lincoln,32 South Toledo,Governor,,REP,Kevin L. Mannix,291
+Lincoln,,Governor,,REP,Kevin L. Mannix,7317
+Lincoln,01 Waldport,Governor,,LIB,Tom Cox,61
+Lincoln,02 Alsea,Governor,,LIB,Tom Cox,17
+Lincoln,03 Seaview,Governor,,LIB,Tom Cox,42
+Lincoln,04 Tidewater,Governor,,LIB,Tom Cox,22
+Lincoln,05 Yachats,Governor,,LIB,Tom Cox,33
+Lincoln,06 Bayview,Governor,,LIB,Tom Cox,40
+Lincoln,07 Seal Rock,Governor,,LIB,Tom Cox,44
+Lincoln,08 South Beach,Governor,,LIB,Tom Cox,27
+Lincoln,09 Nye Creek,Governor,,LIB,Tom Cox,37
+Lincoln,10 Newport Bay,Governor,,LIB,Tom Cox,27
+Lincoln,11 Oceanview,Governor,,LIB,Tom Cox,36
+Lincoln,12 Yaquina,Governor,,LIB,Tom Cox,41
+Lincoln,13 Pacific,Governor,,LIB,Tom Cox,27
+Lincoln,14 Agate Beach,Governor,,LIB,Tom Cox,35
+Lincoln,15 Otter Rock,Governor,,LIB,Tom Cox,16
+Lincoln,16 Depoe Bay,Governor,,LIB,Tom Cox,37
+Lincoln,17 Fogarty,Governor,,LIB,Tom Cox,33
+Lincoln,18 Kern,Governor,,LIB,Tom Cox,33
+Lincoln,19 Schooner Ck,Governor,,LIB,Tom Cox,47
+Lincoln,20 Delake,Governor,,LIB,Tom Cox,59
+Lincoln,21 Oceanlake,Governor,,LIB,Tom Cox,46
+Lincoln,22 Sunset West,Governor,,LIB,Tom Cox,39
+Lincoln,23 Sunset East,Governor,,LIB,Tom Cox,37
+Lincoln,24 Rose Lodge,Governor,,LIB,Tom Cox,30
+Lincoln,25 Big Elk,Governor,,LIB,Tom Cox,3
+Lincoln,26 Elk City,Governor,,LIB,Tom Cox,9
+Lincoln,27 Fruitvale,Governor,,LIB,Tom Cox,40
+Lincoln,28 Eddyville,Governor,,LIB,Tom Cox,17
+Lincoln,29 Siletz,Governor,,LIB,Tom Cox,54
+Lincoln,30 Rock Creek,Governor,,LIB,Tom Cox,6
+Lincoln,31 East Toledo,Governor,,LIB,Tom Cox,61
+Lincoln,32 South Toledo,Governor,,LIB,Tom Cox,57
+Lincoln,,Governor,,LIB,Tom Cox,1113
+Lincoln,01 Waldport,Governor,,DEM,Ted Kulongoski,498
+Lincoln,02 Alsea,Governor,,DEM,Ted Kulongoski,198
+Lincoln,03 Seaview,Governor,,DEM,Ted Kulongoski,268
+Lincoln,04 Tidewater,Governor,,DEM,Ted Kulongoski,143
+Lincoln,05 Yachats,Governor,,DEM,Ted Kulongoski,373
+Lincoln,06 Bayview,Governor,,DEM,Ted Kulongoski,404
+Lincoln,07 Seal Rock,Governor,,DEM,Ted Kulongoski,380
+Lincoln,08 South Beach,Governor,,DEM,Ted Kulongoski,312
+Lincoln,09 Nye Creek,Governor,,DEM,Ted Kulongoski,384
+Lincoln,10 Newport Bay,Governor,,DEM,Ted Kulongoski,233
+Lincoln,11 Oceanview,Governor,,DEM,Ted Kulongoski,267
+Lincoln,12 Yaquina,Governor,,DEM,Ted Kulongoski,402
+Lincoln,13 Pacific,Governor,,DEM,Ted Kulongoski,474
+Lincoln,14 Agate Beach,Governor,,DEM,Ted Kulongoski,370
+Lincoln,15 Otter Rock,Governor,,DEM,Ted Kulongoski,121
+Lincoln,16 Depoe Bay,Governor,,DEM,Ted Kulongoski,304
+Lincoln,17 Fogarty,Governor,,DEM,Ted Kulongoski,339
+Lincoln,18 Kern,Governor,,DEM,Ted Kulongoski,337
+Lincoln,19 Schooner Ck,Governor,,DEM,Ted Kulongoski,459
+Lincoln,20 Delake,Governor,,DEM,Ted Kulongoski,485
+Lincoln,21 Oceanlake,Governor,,DEM,Ted Kulongoski,380
+Lincoln,22 Sunset West,Governor,,DEM,Ted Kulongoski,398
+Lincoln,23 Sunset East,Governor,,DEM,Ted Kulongoski,338
+Lincoln,24 Rose Lodge,Governor,,DEM,Ted Kulongoski,158
+Lincoln,25 Big Elk,Governor,,DEM,Ted Kulongoski,11
+Lincoln,26 Elk City,Governor,,DEM,Ted Kulongoski,22
+Lincoln,27 Fruitvale,Governor,,DEM,Ted Kulongoski,236
+Lincoln,28 Eddyville,Governor,,DEM,Ted Kulongoski,105
+Lincoln,29 Siletz,Governor,,DEM,Ted Kulongoski,390
+Lincoln,30 Rock Creek,Governor,,DEM,Ted Kulongoski,90
+Lincoln,31 East Toledo,Governor,,DEM,Ted Kulongoski,409
+Lincoln,32 South Toledo,Governor,,DEM,Ted Kulongoski,314
+Lincoln,,Governor,,DEM,Ted Kulongoski,9602
+Lincoln,01 Waldport,Governor,,,Write-Ins,3
+Lincoln,02 Alsea,Governor,,,Write-Ins,0
+Lincoln,03 Seaview,Governor,,,Write-Ins,1
+Lincoln,04 Tidewater,Governor,,,Write-Ins,0
+Lincoln,05 Yachats,Governor,,,Write-Ins,3
+Lincoln,06 Bayview,Governor,,,Write-Ins,6
+Lincoln,07 Seal Rock,Governor,,,Write-Ins,3
+Lincoln,08 South Beach,Governor,,,Write-Ins,0
+Lincoln,09 Nye Creek,Governor,,,Write-Ins,2
+Lincoln,10 Newport Bay,Governor,,,Write-Ins,1
+Lincoln,11 Oceanview,Governor,,,Write-Ins,2
+Lincoln,12 Yaquina,Governor,,,Write-Ins,0
+Lincoln,13 Pacific,Governor,,,Write-Ins,0
+Lincoln,14 Agate Beach,Governor,,,Write-Ins,3
+Lincoln,15 Otter Rock,Governor,,,Write-Ins,0
+Lincoln,16 Depoe Bay,Governor,,,Write-Ins,2
+Lincoln,17 Fogarty,Governor,,,Write-Ins,4
+Lincoln,18 Kern,Governor,,,Write-Ins,3
+Lincoln,19 Schooner Ck,Governor,,,Write-Ins,2
+Lincoln,20 Delake,Governor,,,Write-Ins,0
+Lincoln,21 Oceanlake,Governor,,,Write-Ins,2
+Lincoln,22 Sunset West,Governor,,,Write-Ins,1
+Lincoln,23 Sunset East,Governor,,,Write-Ins,5
+Lincoln,24 Rose Lodge,Governor,,,Write-Ins,4
+Lincoln,25 Big Elk,Governor,,,Write-Ins,0
+Lincoln,26 Elk City,Governor,,,Write-Ins,0
+Lincoln,27 Fruitvale,Governor,,,Write-Ins,2
+Lincoln,28 Eddyville,Governor,,,Write-Ins,0
+Lincoln,29 Siletz,Governor,,,Write-Ins,0
+Lincoln,30 Rock Creek,Governor,,,Write-Ins,0
+Lincoln,31 East Toledo,Governor,,,Write-Ins,1
+Lincoln,32 South Toledo,Governor,,,Write-Ins,2
+Lincoln,,Governor,,,Write-Ins,52
+Lincoln,01 Waldport,State House,10,DEM,Marcia L. Thompson,451
+Lincoln,02 Alsea,State House,10,DEM,Marcia L. Thompson,151
+Lincoln,03 Seaview,State House,10,DEM,Marcia L. Thompson,256
+Lincoln,04 Tidewater,State House,10,DEM,Marcia L. Thompson,131
+Lincoln,05 Yachats,State House,10,DEM,Marcia L. Thompson,360
+Lincoln,06 Bayview,State House,10,DEM,Marcia L. Thompson,375
+Lincoln,07 Seal Rock,State House,10,DEM,Marcia L. Thompson,344
+Lincoln,08 South Beach,State House,10,DEM,Marcia L. Thompson,275
+Lincoln,09 Nye Creek,State House,10,DEM,Marcia L. Thompson,340
+Lincoln,10 Newport Bay,State House,10,DEM,Marcia L. Thompson,193
+Lincoln,11 Oceanview,State House,10,DEM,Marcia L. Thompson,256
+Lincoln,12 Yaquina,State House,10,DEM,Marcia L. Thompson,343
+Lincoln,13 Pacific,State House,10,DEM,Marcia L. Thompson,318
+Lincoln,14 Agate Beach,State House,10,DEM,Marcia L. Thompson,316
+Lincoln,15 Otter Rock,State House,10,DEM,Marcia L. Thompson,109
+Lincoln,16 Depoe Bay,State House,10,DEM,Marcia L. Thompson,285
+Lincoln,17 Fogarty,State House,10,DEM,Marcia L. Thompson,313
+Lincoln,18 Kern,State House,10,DEM,Marcia L. Thompson,312
+Lincoln,19 Schooner Ck,State House,10,DEM,Marcia L. Thompson,437
+Lincoln,20 Delake,State House,10,DEM,Marcia L. Thompson,503
+Lincoln,21 Oceanlake,State House,10,DEM,Marcia L. Thompson,397
+Lincoln,22 Sunset West,State House,10,DEM,Marcia L. Thompson,395
+Lincoln,23 Sunset East,State House,10,DEM,Marcia L. Thompson,343
+Lincoln,24 Rose Lodge,State House,10,DEM,Marcia L. Thompson,170
+Lincoln,25 Big Elk,State House,10,DEM,Marcia L. Thompson,12
+Lincoln,26 Elk City,State House,10,DEM,Marcia L. Thompson,23
+Lincoln,27 Fruitvale,State House,10,DEM,Marcia L. Thompson,197
+Lincoln,28 Eddyville,State House,10,DEM,Marcia L. Thompson,117
+Lincoln,29 Siletz,State House,10,DEM,Marcia L. Thompson,345
+Lincoln,30 Rock Creek,State House,10,DEM,Marcia L. Thompson,65
+Lincoln,31 East Toledo,State House,10,DEM,Marcia L. Thompson,333
+Lincoln,32 South Toledo,State House,10,DEM,Marcia L. Thompson,249
+Lincoln,,State House,10,DEM,Marcia L. Thompson,8714
+Lincoln,01 Waldport,State House,10,REP,Alan Brown,423
+Lincoln,02 Alsea,State House,10,REP,Alan Brown,242
+Lincoln,03 Seaview,State House,10,REP,Alan Brown,214
+Lincoln,04 Tidewater,State House,10,REP,Alan Brown,164
+Lincoln,05 Yachats,State House,10,REP,Alan Brown,254
+Lincoln,06 Bayview,State House,10,REP,Alan Brown,310
+Lincoln,07 Seal Rock,State House,10,REP,Alan Brown,348
+Lincoln,08 South Beach,State House,10,REP,Alan Brown,281
+Lincoln,09 Nye Creek,State House,10,REP,Alan Brown,258
+Lincoln,10 Newport Bay,State House,10,REP,Alan Brown,224
+Lincoln,11 Oceanview,State House,10,REP,Alan Brown,283
+Lincoln,12 Yaquina,State House,10,REP,Alan Brown,468
+Lincoln,13 Pacific,State House,10,REP,Alan Brown,554
+Lincoln,14 Agate Beach,State House,10,REP,Alan Brown,355
+Lincoln,15 Otter Rock,State House,10,REP,Alan Brown,79
+Lincoln,16 Depoe Bay,State House,10,REP,Alan Brown,313
+Lincoln,17 Fogarty,State House,10,REP,Alan Brown,353
+Lincoln,18 Kern,State House,10,REP,Alan Brown,309
+Lincoln,19 Schooner Ck,State House,10,REP,Alan Brown,359
+Lincoln,20 Delake,State House,10,REP,Alan Brown,347
+Lincoln,21 Oceanlake,State House,10,REP,Alan Brown,326
+Lincoln,22 Sunset West,State House,10,REP,Alan Brown,398
+Lincoln,23 Sunset East,State House,10,REP,Alan Brown,275
+Lincoln,24 Rose Lodge,State House,10,REP,Alan Brown,161
+Lincoln,25 Big Elk,State House,10,REP,Alan Brown,40
+Lincoln,26 Elk City,State House,10,REP,Alan Brown,32
+Lincoln,27 Fruitvale,State House,10,REP,Alan Brown,334
+Lincoln,28 Eddyville,State House,10,REP,Alan Brown,110
+Lincoln,29 Siletz,State House,10,REP,Alan Brown,459
+Lincoln,30 Rock Creek,State House,10,REP,Alan Brown,83
+Lincoln,31 East Toledo,State House,10,REP,Alan Brown,471
+Lincoln,32 South Toledo,State House,10,REP,Alan Brown,409
+Lincoln,,State House,10,REP,Alan Brown,9236
+Lincoln,01 Waldport,State House,10,,Write-Ins,4
+Lincoln,02 Alsea,State House,10,,Write-Ins,2
+Lincoln,03 Seaview,State House,10,,Write-Ins,2
+Lincoln,04 Tidewater,State House,10,,Write-Ins,1
+Lincoln,05 Yachats,State House,10,,Write-Ins,1
+Lincoln,06 Bayview,State House,10,,Write-Ins,5
+Lincoln,07 Seal Rock,State House,10,,Write-Ins,4
+Lincoln,08 South Beach,State House,10,,Write-Ins,2
+Lincoln,09 Nye Creek,State House,10,,Write-Ins,4
+Lincoln,10 Newport Bay,State House,10,,Write-Ins,1
+Lincoln,11 Oceanview,State House,10,,Write-Ins,1
+Lincoln,12 Yaquina,State House,10,,Write-Ins,1
+Lincoln,13 Pacific,State House,10,,Write-Ins,2
+Lincoln,14 Agate Beach,State House,10,,Write-Ins,2
+Lincoln,15 Otter Rock,State House,10,,Write-Ins,2
+Lincoln,16 Depoe Bay,State House,10,,Write-Ins,1
+Lincoln,17 Fogarty,State House,10,,Write-Ins,2
+Lincoln,18 Kern,State House,10,,Write-Ins,1
+Lincoln,19 Schooner Ck,State House,10,,Write-Ins,6
+Lincoln,20 Delake,State House,10,,Write-Ins,2
+Lincoln,21 Oceanlake,State House,10,,Write-Ins,4
+Lincoln,22 Sunset West,State House,10,,Write-Ins,3
+Lincoln,23 Sunset East,State House,10,,Write-Ins,2
+Lincoln,24 Rose Lodge,State House,10,,Write-Ins,3
+Lincoln,25 Big Elk,State House,10,,Write-Ins,0
+Lincoln,26 Elk City,State House,10,,Write-Ins,0
+Lincoln,27 Fruitvale,State House,10,,Write-Ins,1
+Lincoln,28 Eddyville,State House,10,,Write-Ins,0
+Lincoln,29 Siletz,State House,10,,Write-Ins,3
+Lincoln,30 Rock Creek,State House,10,,Write-Ins,0
+Lincoln,31 East Toledo,State House,10,,Write-Ins,3
+Lincoln,32 South Toledo,State House,10,,Write-Ins,2
+Lincoln,,State House,10,,Write-Ins,67
