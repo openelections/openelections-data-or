@@ -41,6 +41,7 @@ office_lookup = {
 	'REPRESENTATIVE IN CONGRESS': 'U.S. House',
 	'REP IN CONGRESS': 'U.S. House',
 	'SECRETARY OF STATE': 'Secretary of State',
+	'TREASURER': 'State Treasurer',
 	'STATE TREASURER': 'State Treasurer',
 	'ATTORNEY GENERAL': 'Attorney General',
 	'GOVERNOR': 'Governor',
@@ -51,6 +52,8 @@ office_lookup = {
 	'STATE SENATOR': 'State Senate',
 	'MEMBER OF ASSEMBLY': 'State Assembly',
 	'STATE ASSEMBLY': 'State Assembly',
+	'AUDITOR': 'Auditor',
+	'COMMISSIONER OF AGRICULTURE': 'Commissioner of Agriculture',
 }
 
 

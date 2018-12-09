@@ -34,17 +34,16 @@ def main():
 	for path in args.paths:
 		checker = TotalChecker(path, args.excludeOverUnder)
 		checker.singleError = args.singleError
-
 		sortColumns = ['office', 'district']
 
 		if not args.isGeneral:
 			sortColumns += ['party']
 
 		# Candidate total
-		checkedCandidateTotals = checker.checkTotals('precinct', sortColumns + ['candidate'])
+		checkedCandidateTotals = checker.checkTotals(checker.precinctColName, sortColumns + ['candidate'])
 
 		# Precinct total
-		checkedPrecinctTotals = checker.checkTotals('candidate', sortColumns + ['precinct'])
+		checkedPrecinctTotals = checker.checkTotals('candidate', sortColumns + [checker.precinctColName])
 
 		if not checkedCandidateTotals and not checkedPrecinctTotals:
 			print("No totals to check")
@@ -62,14 +61,17 @@ class TotalChecker(object):
 
 	def populateResults(self):
 		self.results = pandas.read_csv(self.path).fillna('')
-		self.results[['votes']] = self.results[['votes']].apply(pandas.to_numeric)
-		self.results['precinct'] = self.results['precinct'].astype(str)
 
+		self.precinctColName = 'election_district' if 'election_district' in list(self.results) else 'precinct'
+
+		self.results[['votes']] = self.results[['votes']].apply(pandas.to_numeric)
+		self.results[self.precinctColName] = self.results[self.precinctColName].astype(str)
+		
 		if self.excludeOverUnder:
 			self.results = self.results[(self.results.candidate != 'Over Votes') & 
 										(self.results.candidate != 'Under Votes')]
 
-		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results.precinct != 'Total')]
+		self.results_sans_totals = self.results.loc[(self.results.candidate != 'Total') & (self.results[self.precinctColName] != 'Total')]
 
 
 	def checkTotals(self, totalColumn, columns):
