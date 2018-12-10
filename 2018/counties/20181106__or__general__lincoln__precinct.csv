@@ -1,0 +1,484 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,01 WALDPORT,Governor,,,Write-ins,0
+Lincoln,01 WALDPORT,Governor,,CON,Aaron Auer,26
+Lincoln,01 WALDPORT,Governor,,DEM,Kate Brown,596
+Lincoln,01 WALDPORT,Governor,,LBT,Nick Chen,20
+Lincoln,01 WALDPORT,Governor,,NON,Patrick Starnes,40
+Lincoln,01 WALDPORT,Governor,,PRO,Chris Henry,13
+Lincoln,01 WALDPORT,Governor,,REP,Knute Buehler,470
+Lincoln,01 WALDPORT,State House,10,,Write-ins,1
+Lincoln,01 WALDPORT,State House,10,DEM,David Gomberg,683
+Lincoln,01 WALDPORT,State House,10,REP,Thomas M Donohue,457
+Lincoln,01 WALDPORT,U.S. House,5,,Write-ins,0
+Lincoln,01 WALDPORT,U.S. House,5,DEM,Kurt Schrader,674
+Lincoln,01 WALDPORT,U.S. House,5,LBT,Dan Souza,18
+Lincoln,01 WALDPORT,U.S. House,5,PGP,Marvin Sandnes,23
+Lincoln,01 WALDPORT,U.S. House,5,REP,Mark Callahan,444
+Lincoln,02 ALSEA,Governor,,,Write-ins,2
+Lincoln,02 ALSEA,Governor,,CON,Aaron Auer,6
+Lincoln,02 ALSEA,Governor,,DEM,Kate Brown,207
+Lincoln,02 ALSEA,Governor,,LBT,Nick Chen,6
+Lincoln,02 ALSEA,Governor,,NON,Patrick Starnes,17
+Lincoln,02 ALSEA,Governor,,PRO,Chris Henry,0
+Lincoln,02 ALSEA,Governor,,REP,Knute Buehler,257
+Lincoln,02 ALSEA,State House,10,,Write-ins,0
+Lincoln,02 ALSEA,State House,10,DEM,David Gomberg,242
+Lincoln,02 ALSEA,State House,10,REP,Thomas M Donohue,240
+Lincoln,02 ALSEA,U.S. House,5,,Write-ins,0
+Lincoln,02 ALSEA,U.S. House,5,DEM,Kurt Schrader,240
+Lincoln,02 ALSEA,U.S. House,5,LBT,Dan Souza,10
+Lincoln,02 ALSEA,U.S. House,5,PGP,Marvin Sandnes,7
+Lincoln,02 ALSEA,U.S. House,5,REP,Mark Callahan,236
+Lincoln,03 SEAVIEW,Governor,,,Write-ins,1
+Lincoln,03 SEAVIEW,Governor,,CON,Aaron Auer,5
+Lincoln,03 SEAVIEW,Governor,,DEM,Kate Brown,309
+Lincoln,03 SEAVIEW,Governor,,LBT,Nick Chen,14
+Lincoln,03 SEAVIEW,Governor,,NON,Patrick Starnes,29
+Lincoln,03 SEAVIEW,Governor,,PRO,Chris Henry,2
+Lincoln,03 SEAVIEW,Governor,,REP,Knute Buehler,255
+Lincoln,03 SEAVIEW,State House,10,,Write-ins,1
+Lincoln,03 SEAVIEW,State House,10,DEM,David Gomberg,347
+Lincoln,03 SEAVIEW,State House,10,REP,Thomas M Donohue,244
+Lincoln,03 SEAVIEW,U.S. House,5,,Write-ins,0
+Lincoln,03 SEAVIEW,U.S. House,5,DEM,Kurt Schrader,343
+Lincoln,03 SEAVIEW,U.S. House,5,LBT,Dan Souza,13
+Lincoln,03 SEAVIEW,U.S. House,5,PGP,Marvin Sandnes,18
+Lincoln,03 SEAVIEW,U.S. House,5,REP,Mark Callahan,230
+Lincoln,04 TIDEWATER,Governor,,,Write-ins,1
+Lincoln,04 TIDEWATER,Governor,,CON,Aaron Auer,4
+Lincoln,04 TIDEWATER,Governor,,DEM,Kate Brown,155
+Lincoln,04 TIDEWATER,Governor,,LBT,Nick Chen,4
+Lincoln,04 TIDEWATER,Governor,,NON,Patrick Starnes,12
+Lincoln,04 TIDEWATER,Governor,,PRO,Chris Henry,2
+Lincoln,04 TIDEWATER,Governor,,REP,Knute Buehler,203
+Lincoln,04 TIDEWATER,State House,10,,Write-ins,3
+Lincoln,04 TIDEWATER,State House,10,DEM,David Gomberg,172
+Lincoln,04 TIDEWATER,State House,10,REP,Thomas M Donohue,200
+Lincoln,04 TIDEWATER,U.S. House,5,,Write-ins,1
+Lincoln,04 TIDEWATER,U.S. House,5,DEM,Kurt Schrader,177
+Lincoln,04 TIDEWATER,U.S. House,5,LBT,Dan Souza,3
+Lincoln,04 TIDEWATER,U.S. House,5,PGP,Marvin Sandnes,4
+Lincoln,04 TIDEWATER,U.S. House,5,REP,Mark Callahan,193
+Lincoln,05 YACHATS,Governor,,,Write-ins,3
+Lincoln,05 YACHATS,Governor,,CON,Aaron Auer,5
+Lincoln,05 YACHATS,Governor,,DEM,Kate Brown,628
+Lincoln,05 YACHATS,Governor,,LBT,Nick Chen,9
+Lincoln,05 YACHATS,Governor,,NON,Patrick Starnes,20
+Lincoln,05 YACHATS,Governor,,PRO,Chris Henry,1
+Lincoln,05 YACHATS,Governor,,REP,Knute Buehler,220
+Lincoln,05 YACHATS,State House,09,,Write-ins,0
+Lincoln,05 YACHATS,State House,09,DEM,Caddy McKeown,447
+Lincoln,05 YACHATS,State House,09,REP,Teri Grier,133
+Lincoln,05 YACHATS,State House,10,,Write-ins,0
+Lincoln,05 YACHATS,State House,10,DEM,David Gomberg,217
+Lincoln,05 YACHATS,State House,10,REP,Thomas M Donohue,76
+Lincoln,05 YACHATS,U.S. House,5,,Write-ins,0
+Lincoln,05 YACHATS,U.S. House,5,DEM,Kurt Schrader,648
+Lincoln,05 YACHATS,U.S. House,5,LBT,Dan Souza,15
+Lincoln,05 YACHATS,U.S. House,5,PGP,Marvin Sandnes,23
+Lincoln,05 YACHATS,U.S. House,5,REP,Mark Callahan,193
+Lincoln,06 BAYVIEW,Governor,,,Write-ins,1
+Lincoln,06 BAYVIEW,Governor,,CON,Aaron Auer,11
+Lincoln,06 BAYVIEW,Governor,,DEM,Kate Brown,541
+Lincoln,06 BAYVIEW,Governor,,LBT,Nick Chen,12
+Lincoln,06 BAYVIEW,Governor,,NON,Patrick Starnes,33
+Lincoln,06 BAYVIEW,Governor,,PRO,Chris Henry,8
+Lincoln,06 BAYVIEW,Governor,,REP,Knute Buehler,378
+Lincoln,06 BAYVIEW,State House,10,,Write-ins,0
+Lincoln,06 BAYVIEW,State House,10,DEM,David Gomberg,607
+Lincoln,06 BAYVIEW,State House,10,REP,Thomas M Donohue,369
+Lincoln,06 BAYVIEW,U.S. House,5,,Write-ins,0
+Lincoln,06 BAYVIEW,U.S. House,5,DEM,Kurt Schrader,606
+Lincoln,06 BAYVIEW,U.S. House,5,LBT,Dan Souza,15
+Lincoln,06 BAYVIEW,U.S. House,5,PGP,Marvin Sandnes,14
+Lincoln,06 BAYVIEW,U.S. House,5,REP,Mark Callahan,346
+Lincoln,07 SEAL ROCK,Governor,,,Write-ins,0
+Lincoln,07 SEAL ROCK,Governor,,CON,Aaron Auer,2
+Lincoln,07 SEAL ROCK,Governor,,DEM,Kate Brown,546
+Lincoln,07 SEAL ROCK,Governor,,LBT,Nick Chen,9
+Lincoln,07 SEAL ROCK,Governor,,NON,Patrick Starnes,24
+Lincoln,07 SEAL ROCK,Governor,,PRO,Chris Henry,10
+Lincoln,07 SEAL ROCK,Governor,,REP,Knute Buehler,380
+Lincoln,07 SEAL ROCK,State House,10,,Write-ins,1
+Lincoln,07 SEAL ROCK,State House,10,DEM,David Gomberg,614
+Lincoln,07 SEAL ROCK,State House,10,REP,Thomas M Donohue,344
+Lincoln,07 SEAL ROCK,U.S. House,5,,Write-ins,0
+Lincoln,07 SEAL ROCK,U.S. House,5,DEM,Kurt Schrader,592
+Lincoln,07 SEAL ROCK,U.S. House,5,LBT,Dan Souza,14
+Lincoln,07 SEAL ROCK,U.S. House,5,PGP,Marvin Sandnes,23
+Lincoln,07 SEAL ROCK,U.S. House,5,REP,Mark Callahan,339
+Lincoln,08 SOUTH BEACH,Governor,,,Write-ins,2
+Lincoln,08 SOUTH BEACH,Governor,,CON,Aaron Auer,5
+Lincoln,08 SOUTH BEACH,Governor,,DEM,Kate Brown,477
+Lincoln,08 SOUTH BEACH,Governor,,LBT,Nick Chen,9
+Lincoln,08 SOUTH BEACH,Governor,,NON,Patrick Starnes,17
+Lincoln,08 SOUTH BEACH,Governor,,PRO,Chris Henry,6
+Lincoln,08 SOUTH BEACH,Governor,,REP,Knute Buehler,303
+Lincoln,08 SOUTH BEACH,State House,10,,Write-ins,0
+Lincoln,08 SOUTH BEACH,State House,10,DEM,David Gomberg,526
+Lincoln,08 SOUTH BEACH,State House,10,REP,Thomas M Donohue,283
+Lincoln,08 SOUTH BEACH,U.S. House,5,,Write-ins,1
+Lincoln,08 SOUTH BEACH,U.S. House,5,DEM,Kurt Schrader,500
+Lincoln,08 SOUTH BEACH,U.S. House,5,LBT,Dan Souza,11
+Lincoln,08 SOUTH BEACH,U.S. House,5,PGP,Marvin Sandnes,23
+Lincoln,08 SOUTH BEACH,U.S. House,5,REP,Mark Callahan,278
+Lincoln,09 NYE CREEK,Governor,,,Write-ins,0
+Lincoln,09 NYE CREEK,Governor,,CON,Aaron Auer,15
+Lincoln,09 NYE CREEK,Governor,,DEM,Kate Brown,484
+Lincoln,09 NYE CREEK,Governor,,LBT,Nick Chen,11
+Lincoln,09 NYE CREEK,Governor,,NON,Patrick Starnes,21
+Lincoln,09 NYE CREEK,Governor,,PRO,Chris Henry,4
+Lincoln,09 NYE CREEK,Governor,,REP,Knute Buehler,230
+Lincoln,09 NYE CREEK,State House,10,,Write-ins,2
+Lincoln,09 NYE CREEK,State House,10,DEM,David Gomberg,536
+Lincoln,09 NYE CREEK,State House,10,REP,Thomas M Donohue,211
+Lincoln,09 NYE CREEK,U.S. House,5,,Write-ins,0
+Lincoln,09 NYE CREEK,U.S. House,5,DEM,Kurt Schrader,515
+Lincoln,09 NYE CREEK,U.S. House,5,LBT,Dan Souza,10
+Lincoln,09 NYE CREEK,U.S. House,5,PGP,Marvin Sandnes,18
+Lincoln,09 NYE CREEK,U.S. House,5,REP,Mark Callahan,210
+Lincoln,10 NEWPORT BAY,Governor,,,Write-ins,2
+Lincoln,10 NEWPORT BAY,Governor,,CON,Aaron Auer,4
+Lincoln,10 NEWPORT BAY,Governor,,DEM,Kate Brown,313
+Lincoln,10 NEWPORT BAY,Governor,,LBT,Nick Chen,9
+Lincoln,10 NEWPORT BAY,Governor,,NON,Patrick Starnes,8
+Lincoln,10 NEWPORT BAY,Governor,,PRO,Chris Henry,3
+Lincoln,10 NEWPORT BAY,Governor,,REP,Knute Buehler,184
+Lincoln,10 NEWPORT BAY,State House,10,,Write-ins,1
+Lincoln,10 NEWPORT BAY,State House,10,DEM,David Gomberg,370
+Lincoln,10 NEWPORT BAY,State House,10,REP,Thomas M Donohue,145
+Lincoln,10 NEWPORT BAY,U.S. House,5,,Write-ins,1
+Lincoln,10 NEWPORT BAY,U.S. House,5,DEM,Kurt Schrader,363
+Lincoln,10 NEWPORT BAY,U.S. House,5,LBT,Dan Souza,4
+Lincoln,10 NEWPORT BAY,U.S. House,5,PGP,Marvin Sandnes,11
+Lincoln,10 NEWPORT BAY,U.S. House,5,REP,Mark Callahan,144
+Lincoln,11 OCEANVIEW,Governor,,,Write-ins,0
+Lincoln,11 OCEANVIEW,Governor,,CON,Aaron Auer,3
+Lincoln,11 OCEANVIEW,Governor,,DEM,Kate Brown,387
+Lincoln,11 OCEANVIEW,Governor,,LBT,Nick Chen,16
+Lincoln,11 OCEANVIEW,Governor,,NON,Patrick Starnes,10
+Lincoln,11 OCEANVIEW,Governor,,PRO,Chris Henry,3
+Lincoln,11 OCEANVIEW,Governor,,REP,Knute Buehler,265
+Lincoln,11 OCEANVIEW,State House,10,,Write-ins,0
+Lincoln,11 OCEANVIEW,State House,10,DEM,David Gomberg,442
+Lincoln,11 OCEANVIEW,State House,10,REP,Thomas M Donohue,224
+Lincoln,11 OCEANVIEW,U.S. House,5,,Write-ins,1
+Lincoln,11 OCEANVIEW,U.S. House,5,DEM,Kurt Schrader,433
+Lincoln,11 OCEANVIEW,U.S. House,5,LBT,Dan Souza,5
+Lincoln,11 OCEANVIEW,U.S. House,5,PGP,Marvin Sandnes,14
+Lincoln,11 OCEANVIEW,U.S. House,5,REP,Mark Callahan,219
+Lincoln,12 YAQUINA,Governor,,,Write-ins,2
+Lincoln,12 YAQUINA,Governor,,CON,Aaron Auer,7
+Lincoln,12 YAQUINA,Governor,,DEM,Kate Brown,509
+Lincoln,12 YAQUINA,Governor,,LBT,Nick Chen,18
+Lincoln,12 YAQUINA,Governor,,NON,Patrick Starnes,32
+Lincoln,12 YAQUINA,Governor,,PRO,Chris Henry,5
+Lincoln,12 YAQUINA,Governor,,REP,Knute Buehler,419
+Lincoln,12 YAQUINA,State House,10,,Write-ins,2
+Lincoln,12 YAQUINA,State House,10,DEM,David Gomberg,572
+Lincoln,12 YAQUINA,State House,10,REP,Thomas M Donohue,392
+Lincoln,12 YAQUINA,U.S. House,5,,Write-ins,0
+Lincoln,12 YAQUINA,U.S. House,5,DEM,Kurt Schrader,567
+Lincoln,12 YAQUINA,U.S. House,5,LBT,Dan Souza,18
+Lincoln,12 YAQUINA,U.S. House,5,PGP,Marvin Sandnes,20
+Lincoln,12 YAQUINA,U.S. House,5,REP,Mark Callahan,371
+Lincoln,13 PACIFIC,Governor,,,Write-ins,0
+Lincoln,13 PACIFIC,Governor,,CON,Aaron Auer,13
+Lincoln,13 PACIFIC,Governor,,DEM,Kate Brown,557
+Lincoln,13 PACIFIC,Governor,,LBT,Nick Chen,18
+Lincoln,13 PACIFIC,Governor,,NON,Patrick Starnes,35
+Lincoln,13 PACIFIC,Governor,,PRO,Chris Henry,2
+Lincoln,13 PACIFIC,Governor,,REP,Knute Buehler,375
+Lincoln,13 PACIFIC,State House,10,,Write-ins,1
+Lincoln,13 PACIFIC,State House,10,DEM,David Gomberg,660
+Lincoln,13 PACIFIC,State House,10,REP,Thomas M Donohue,325
+Lincoln,13 PACIFIC,U.S. House,5,,Write-ins,1
+Lincoln,13 PACIFIC,U.S. House,5,DEM,Kurt Schrader,650
+Lincoln,13 PACIFIC,U.S. House,5,LBT,Dan Souza,14
+Lincoln,13 PACIFIC,U.S. House,5,PGP,Marvin Sandnes,13
+Lincoln,13 PACIFIC,U.S. House,5,REP,Mark Callahan,316
+Lincoln,14 AGATE BEACH,Governor,,,Write-ins,0
+Lincoln,14 AGATE BEACH,Governor,,CON,Aaron Auer,10
+Lincoln,14 AGATE BEACH,Governor,,DEM,Kate Brown,491
+Lincoln,14 AGATE BEACH,Governor,,LBT,Nick Chen,14
+Lincoln,14 AGATE BEACH,Governor,,NON,Patrick Starnes,30
+Lincoln,14 AGATE BEACH,Governor,,PRO,Chris Henry,3
+Lincoln,14 AGATE BEACH,Governor,,REP,Knute Buehler,359
+Lincoln,14 AGATE BEACH,State House,10,,Write-ins,1
+Lincoln,14 AGATE BEACH,State House,10,DEM,David Gomberg,543
+Lincoln,14 AGATE BEACH,State House,10,REP,Thomas M Donohue,350
+Lincoln,14 AGATE BEACH,U.S. House,5,,Write-ins,0
+Lincoln,14 AGATE BEACH,U.S. House,5,DEM,Kurt Schrader,533
+Lincoln,14 AGATE BEACH,U.S. House,5,LBT,Dan Souza,19
+Lincoln,14 AGATE BEACH,U.S. House,5,PGP,Marvin Sandnes,15
+Lincoln,14 AGATE BEACH,U.S. House,5,REP,Mark Callahan,336
+Lincoln,15 OTTER ROCK,Governor,,,Write-ins,0
+Lincoln,15 OTTER ROCK,Governor,,CON,Aaron Auer,3
+Lincoln,15 OTTER ROCK,Governor,,DEM,Kate Brown,173
+Lincoln,15 OTTER ROCK,Governor,,LBT,Nick Chen,1
+Lincoln,15 OTTER ROCK,Governor,,NON,Patrick Starnes,1
+Lincoln,15 OTTER ROCK,Governor,,PRO,Chris Henry,4
+Lincoln,15 OTTER ROCK,Governor,,REP,Knute Buehler,104
+Lincoln,15 OTTER ROCK,State House,10,,Write-ins,1
+Lincoln,15 OTTER ROCK,State House,10,DEM,David Gomberg,177
+Lincoln,15 OTTER ROCK,State House,10,REP,Thomas M Donohue,102
+Lincoln,15 OTTER ROCK,U.S. House,5,,Write-ins,0
+Lincoln,15 OTTER ROCK,U.S. House,5,DEM,Kurt Schrader,176
+Lincoln,15 OTTER ROCK,U.S. House,5,LBT,Dan Souza,5
+Lincoln,15 OTTER ROCK,U.S. House,5,PGP,Marvin Sandnes,2
+Lincoln,15 OTTER ROCK,U.S. House,5,REP,Mark Callahan,97
+Lincoln,16 DEPOE BAY,Governor,,,Write-ins,2
+Lincoln,16 DEPOE BAY,Governor,,CON,Aaron Auer,8
+Lincoln,16 DEPOE BAY,Governor,,DEM,Kate Brown,471
+Lincoln,16 DEPOE BAY,Governor,,LBT,Nick Chen,19
+Lincoln,16 DEPOE BAY,Governor,,NON,Patrick Starnes,27
+Lincoln,16 DEPOE BAY,Governor,,PRO,Chris Henry,5
+Lincoln,16 DEPOE BAY,Governor,,REP,Knute Buehler,366
+Lincoln,16 DEPOE BAY,State House,10,,Write-ins,0
+Lincoln,16 DEPOE BAY,State House,10,DEM,David Gomberg,537
+Lincoln,16 DEPOE BAY,State House,10,REP,Thomas M Donohue,337
+Lincoln,16 DEPOE BAY,U.S. House,5,,Write-ins,0
+Lincoln,16 DEPOE BAY,U.S. House,5,DEM,Kurt Schrader,522
+Lincoln,16 DEPOE BAY,U.S. House,5,LBT,Dan Souza,17
+Lincoln,16 DEPOE BAY,U.S. House,5,PGP,Marvin Sandnes,12
+Lincoln,16 DEPOE BAY,U.S. House,5,REP,Mark Callahan,333
+Lincoln,17 FOGARTY CREEK,Governor,,,Write-ins,1
+Lincoln,17 FOGARTY CREEK,Governor,,CON,Aaron Auer,3
+Lincoln,17 FOGARTY CREEK,Governor,,DEM,Kate Brown,500
+Lincoln,17 FOGARTY CREEK,Governor,,LBT,Nick Chen,6
+Lincoln,17 FOGARTY CREEK,Governor,,NON,Patrick Starnes,24
+Lincoln,17 FOGARTY CREEK,Governor,,PRO,Chris Henry,8
+Lincoln,17 FOGARTY CREEK,Governor,,REP,Knute Buehler,365
+Lincoln,17 FOGARTY CREEK,State House,10,,Write-ins,2
+Lincoln,17 FOGARTY CREEK,State House,10,DEM,David Gomberg,565
+Lincoln,17 FOGARTY CREEK,State House,10,REP,Thomas M Donohue,321
+Lincoln,17 FOGARTY CREEK,U.S. House,5,,Write-ins,2
+Lincoln,17 FOGARTY CREEK,U.S. House,5,DEM,Kurt Schrader,547
+Lincoln,17 FOGARTY CREEK,U.S. House,5,LBT,Dan Souza,19
+Lincoln,17 FOGARTY CREEK,U.S. House,5,PGP,Marvin Sandnes,10
+Lincoln,17 FOGARTY CREEK,U.S. House,5,REP,Mark Callahan,325
+Lincoln,18 KERN,Governor,,,Write-ins,2
+Lincoln,18 KERN,Governor,,CON,Aaron Auer,13
+Lincoln,18 KERN,Governor,,DEM,Kate Brown,478
+Lincoln,18 KERN,Governor,,LBT,Nick Chen,16
+Lincoln,18 KERN,Governor,,NON,Patrick Starnes,31
+Lincoln,18 KERN,Governor,,PRO,Chris Henry,3
+Lincoln,18 KERN,Governor,,REP,Knute Buehler,309
+Lincoln,18 KERN,State House,10,,Write-ins,2
+Lincoln,18 KERN,State House,10,DEM,David Gomberg,560
+Lincoln,18 KERN,State House,10,REP,Thomas M Donohue,276
+Lincoln,18 KERN,U.S. House,5,,Write-ins,1
+Lincoln,18 KERN,U.S. House,5,DEM,Kurt Schrader,544
+Lincoln,18 KERN,U.S. House,5,LBT,Dan Souza,15
+Lincoln,18 KERN,U.S. House,5,PGP,Marvin Sandnes,20
+Lincoln,18 KERN,U.S. House,5,REP,Mark Callahan,270
+Lincoln,19 SCHOONER CREEK,Governor,,,Write-ins,3
+Lincoln,19 SCHOONER CREEK,Governor,,CON,Aaron Auer,18
+Lincoln,19 SCHOONER CREEK,Governor,,DEM,Kate Brown,561
+Lincoln,19 SCHOONER CREEK,Governor,,LBT,Nick Chen,27
+Lincoln,19 SCHOONER CREEK,Governor,,NON,Patrick Starnes,43
+Lincoln,19 SCHOONER CREEK,Governor,,PRO,Chris Henry,12
+Lincoln,19 SCHOONER CREEK,Governor,,REP,Knute Buehler,472
+Lincoln,19 SCHOONER CREEK,State House,10,,Write-ins,1
+Lincoln,19 SCHOONER CREEK,State House,10,DEM,David Gomberg,667
+Lincoln,19 SCHOONER CREEK,State House,10,REP,Thomas M Donohue,446
+Lincoln,19 SCHOONER CREEK,U.S. House,5,,Write-ins,1
+Lincoln,19 SCHOONER CREEK,U.S. House,5,DEM,Kurt Schrader,625
+Lincoln,19 SCHOONER CREEK,U.S. House,5,LBT,Dan Souza,33
+Lincoln,19 SCHOONER CREEK,U.S. House,5,PGP,Marvin Sandnes,31
+Lincoln,19 SCHOONER CREEK,U.S. House,5,REP,Mark Callahan,439
+Lincoln,20 DELAKE,Governor,,,Write-ins,0
+Lincoln,20 DELAKE,Governor,,CON,Aaron Auer,22
+Lincoln,20 DELAKE,Governor,,DEM,Kate Brown,728
+Lincoln,20 DELAKE,Governor,,LBT,Nick Chen,36
+Lincoln,20 DELAKE,Governor,,NON,Patrick Starnes,53
+Lincoln,20 DELAKE,Governor,,PRO,Chris Henry,8
+Lincoln,20 DELAKE,Governor,,REP,Knute Buehler,476
+Lincoln,20 DELAKE,State House,10,,Write-ins,1
+Lincoln,20 DELAKE,State House,10,DEM,David Gomberg,870
+Lincoln,20 DELAKE,State House,10,REP,Thomas M Donohue,425
+Lincoln,20 DELAKE,U.S. House,5,,Write-ins,0
+Lincoln,20 DELAKE,U.S. House,5,DEM,Kurt Schrader,822
+Lincoln,20 DELAKE,U.S. House,5,LBT,Dan Souza,32
+Lincoln,20 DELAKE,U.S. House,5,PGP,Marvin Sandnes,25
+Lincoln,20 DELAKE,U.S. House,5,REP,Mark Callahan,429
+Lincoln,21 OCEANLAKE,Governor,,,Write-ins,3
+Lincoln,21 OCEANLAKE,Governor,,CON,Aaron Auer,20
+Lincoln,21 OCEANLAKE,Governor,,DEM,Kate Brown,575
+Lincoln,21 OCEANLAKE,Governor,,LBT,Nick Chen,16
+Lincoln,21 OCEANLAKE,Governor,,NON,Patrick Starnes,36
+Lincoln,21 OCEANLAKE,Governor,,PRO,Chris Henry,9
+Lincoln,21 OCEANLAKE,Governor,,REP,Knute Buehler,375
+Lincoln,21 OCEANLAKE,State House,10,,Write-ins,0
+Lincoln,21 OCEANLAKE,State House,10,DEM,David Gomberg,662
+Lincoln,21 OCEANLAKE,State House,10,REP,Thomas M Donohue,356
+Lincoln,21 OCEANLAKE,U.S. House,5,,Write-ins,0
+Lincoln,21 OCEANLAKE,U.S. House,5,DEM,Kurt Schrader,634
+Lincoln,21 OCEANLAKE,U.S. House,5,LBT,Dan Souza,19
+Lincoln,21 OCEANLAKE,U.S. House,5,PGP,Marvin Sandnes,20
+Lincoln,21 OCEANLAKE,U.S. House,5,REP,Mark Callahan,355
+Lincoln,22 SUNSET WEST,Governor,,,Write-ins,3
+Lincoln,22 SUNSET WEST,Governor,,CON,Aaron Auer,12
+Lincoln,22 SUNSET WEST,Governor,,DEM,Kate Brown,711
+Lincoln,22 SUNSET WEST,Governor,,LBT,Nick Chen,11
+Lincoln,22 SUNSET WEST,Governor,,NON,Patrick Starnes,36
+Lincoln,22 SUNSET WEST,Governor,,PRO,Chris Henry,4
+Lincoln,22 SUNSET WEST,Governor,,REP,Knute Buehler,557
+Lincoln,22 SUNSET WEST,State House,10,,Write-ins,1
+Lincoln,22 SUNSET WEST,State House,10,DEM,David Gomberg,816
+Lincoln,22 SUNSET WEST,State House,10,REP,Thomas M Donohue,508
+Lincoln,22 SUNSET WEST,U.S. House,5,,Write-ins,1
+Lincoln,22 SUNSET WEST,U.S. House,5,DEM,Kurt Schrader,802
+Lincoln,22 SUNSET WEST,U.S. House,5,LBT,Dan Souza,26
+Lincoln,22 SUNSET WEST,U.S. House,5,PGP,Marvin Sandnes,18
+Lincoln,22 SUNSET WEST,U.S. House,5,REP,Mark Callahan,488
+Lincoln,23 SUNSET EAST,Governor,,,Write-ins,2
+Lincoln,23 SUNSET EAST,Governor,,CON,Aaron Auer,11
+Lincoln,23 SUNSET EAST,Governor,,DEM,Kate Brown,341
+Lincoln,23 SUNSET EAST,Governor,,LBT,Nick Chen,11
+Lincoln,23 SUNSET EAST,Governor,,NON,Patrick Starnes,32
+Lincoln,23 SUNSET EAST,Governor,,PRO,Chris Henry,7
+Lincoln,23 SUNSET EAST,Governor,,REP,Knute Buehler,364
+Lincoln,23 SUNSET EAST,State House,10,,Write-ins,1
+Lincoln,23 SUNSET EAST,State House,10,DEM,David Gomberg,425
+Lincoln,23 SUNSET EAST,State House,10,REP,Thomas M Donohue,327
+Lincoln,23 SUNSET EAST,U.S. House,5,,Write-ins,1
+Lincoln,23 SUNSET EAST,U.S. House,5,DEM,Kurt Schrader,387
+Lincoln,23 SUNSET EAST,U.S. House,5,LBT,Dan Souza,32
+Lincoln,23 SUNSET EAST,U.S. House,5,PGP,Marvin Sandnes,22
+Lincoln,23 SUNSET EAST,U.S. House,5,REP,Mark Callahan,325
+Lincoln,24 ROSE LODGE,Governor,,,Write-ins,3
+Lincoln,24 ROSE LODGE,Governor,,CON,Aaron Auer,9
+Lincoln,24 ROSE LODGE,Governor,,DEM,Kate Brown,231
+Lincoln,24 ROSE LODGE,Governor,,LBT,Nick Chen,20
+Lincoln,24 ROSE LODGE,Governor,,NON,Patrick Starnes,33
+Lincoln,24 ROSE LODGE,Governor,,PRO,Chris Henry,5
+Lincoln,24 ROSE LODGE,Governor,,REP,Knute Buehler,236
+Lincoln,24 ROSE LODGE,State House,10,,Write-ins,0
+Lincoln,24 ROSE LODGE,State House,10,DEM,David Gomberg,281
+Lincoln,24 ROSE LODGE,State House,10,REP,Thomas M Donohue,248
+Lincoln,24 ROSE LODGE,U.S. House,5,,Write-ins,2
+Lincoln,24 ROSE LODGE,U.S. House,5,DEM,Kurt Schrader,264
+Lincoln,24 ROSE LODGE,U.S. House,5,LBT,Dan Souza,25
+Lincoln,24 ROSE LODGE,U.S. House,5,PGP,Marvin Sandnes,7
+Lincoln,24 ROSE LODGE,U.S. House,5,REP,Mark Callahan,234
+Lincoln,25 BIG ELK,Governor,,,Write-ins,0
+Lincoln,25 BIG ELK,Governor,,CON,Aaron Auer,1
+Lincoln,25 BIG ELK,Governor,,DEM,Kate Brown,23
+Lincoln,25 BIG ELK,Governor,,LBT,Nick Chen,3
+Lincoln,25 BIG ELK,Governor,,NON,Patrick Starnes,1
+Lincoln,25 BIG ELK,Governor,,PRO,Chris Henry,0
+Lincoln,25 BIG ELK,Governor,,REP,Knute Buehler,35
+Lincoln,25 BIG ELK,State House,10,,Write-ins,0
+Lincoln,25 BIG ELK,State House,10,DEM,David Gomberg,25
+Lincoln,25 BIG ELK,State House,10,REP,Thomas M Donohue,36
+Lincoln,25 BIG ELK,U.S. House,5,,Write-ins,0
+Lincoln,25 BIG ELK,U.S. House,5,DEM,Kurt Schrader,28
+Lincoln,25 BIG ELK,U.S. House,5,LBT,Dan Souza,1
+Lincoln,25 BIG ELK,U.S. House,5,PGP,Marvin Sandnes,0
+Lincoln,25 BIG ELK,U.S. House,5,REP,Mark Callahan,33
+Lincoln,26 ELK CITY,Governor,,,Write-ins,0
+Lincoln,26 ELK CITY,Governor,,CON,Aaron Auer,3
+Lincoln,26 ELK CITY,Governor,,DEM,Kate Brown,12
+Lincoln,26 ELK CITY,Governor,,LBT,Nick Chen,1
+Lincoln,26 ELK CITY,Governor,,NON,Patrick Starnes,2
+Lincoln,26 ELK CITY,Governor,,PRO,Chris Henry,0
+Lincoln,26 ELK CITY,Governor,,REP,Knute Buehler,42
+Lincoln,26 ELK CITY,State House,10,,Write-ins,0
+Lincoln,26 ELK CITY,State House,10,DEM,David Gomberg,19
+Lincoln,26 ELK CITY,State House,10,REP,Thomas M Donohue,37
+Lincoln,26 ELK CITY,U.S. House,5,,Write-ins,0
+Lincoln,26 ELK CITY,U.S. House,5,DEM,Kurt Schrader,17
+Lincoln,26 ELK CITY,U.S. House,5,LBT,Dan Souza,0
+Lincoln,26 ELK CITY,U.S. House,5,PGP,Marvin Sandnes,1
+Lincoln,26 ELK CITY,U.S. House,5,REP,Mark Callahan,42
+Lincoln,27 FRUITVALE,Governor,,,Write-ins,0
+Lincoln,27 FRUITVALE,Governor,,CON,Aaron Auer,15
+Lincoln,27 FRUITVALE,Governor,,DEM,Kate Brown,228
+Lincoln,27 FRUITVALE,Governor,,LBT,Nick Chen,11
+Lincoln,27 FRUITVALE,Governor,,NON,Patrick Starnes,17
+Lincoln,27 FRUITVALE,Governor,,PRO,Chris Henry,5
+Lincoln,27 FRUITVALE,Governor,,REP,Knute Buehler,342
+Lincoln,27 FRUITVALE,State House,10,,Write-ins,0
+Lincoln,27 FRUITVALE,State House,10,DEM,David Gomberg,292
+Lincoln,27 FRUITVALE,State House,10,REP,Thomas M Donohue,313
+Lincoln,27 FRUITVALE,U.S. House,5,,Write-ins,0
+Lincoln,27 FRUITVALE,U.S. House,5,DEM,Kurt Schrader,285
+Lincoln,27 FRUITVALE,U.S. House,5,LBT,Dan Souza,7
+Lincoln,27 FRUITVALE,U.S. House,5,PGP,Marvin Sandnes,16
+Lincoln,27 FRUITVALE,U.S. House,5,REP,Mark Callahan,300
+Lincoln,28 EDDYVILLE,Governor,,,Write-ins,3
+Lincoln,28 EDDYVILLE,Governor,,CON,Aaron Auer,5
+Lincoln,28 EDDYVILLE,Governor,,DEM,Kate Brown,118
+Lincoln,28 EDDYVILLE,Governor,,LBT,Nick Chen,0
+Lincoln,28 EDDYVILLE,Governor,,NON,Patrick Starnes,12
+Lincoln,28 EDDYVILLE,Governor,,PRO,Chris Henry,5
+Lincoln,28 EDDYVILLE,Governor,,REP,Knute Buehler,143
+Lincoln,28 EDDYVILLE,State House,10,,Write-ins,0
+Lincoln,28 EDDYVILLE,State House,10,DEM,David Gomberg,142
+Lincoln,28 EDDYVILLE,State House,10,REP,Thomas M Donohue,137
+Lincoln,28 EDDYVILLE,U.S. House,5,,Write-ins,0
+Lincoln,28 EDDYVILLE,U.S. House,5,DEM,Kurt Schrader,141
+Lincoln,28 EDDYVILLE,U.S. House,5,LBT,Dan Souza,3
+Lincoln,28 EDDYVILLE,U.S. House,5,PGP,Marvin Sandnes,2
+Lincoln,28 EDDYVILLE,U.S. House,5,REP,Mark Callahan,134
+Lincoln,29 SILETZ,Governor,,,Write-ins,4
+Lincoln,29 SILETZ,Governor,,CON,Aaron Auer,15
+Lincoln,29 SILETZ,Governor,,DEM,Kate Brown,443
+Lincoln,29 SILETZ,Governor,,LBT,Nick Chen,16
+Lincoln,29 SILETZ,Governor,,NON,Patrick Starnes,53
+Lincoln,29 SILETZ,Governor,,PRO,Chris Henry,10
+Lincoln,29 SILETZ,Governor,,REP,Knute Buehler,455
+Lincoln,29 SILETZ,State House,10,,Write-ins,2
+Lincoln,29 SILETZ,State House,10,DEM,David Gomberg,543
+Lincoln,29 SILETZ,State House,10,REP,Thomas M Donohue,422
+Lincoln,29 SILETZ,U.S. House,5,,Write-ins,0
+Lincoln,29 SILETZ,U.S. House,5,DEM,Kurt Schrader,553
+Lincoln,29 SILETZ,U.S. House,5,LBT,Dan Souza,16
+Lincoln,29 SILETZ,U.S. House,5,PGP,Marvin Sandnes,15
+Lincoln,29 SILETZ,U.S. House,5,REP,Mark Callahan,398
+Lincoln,30 ROCK CREEK,Governor,,,Write-ins,0
+Lincoln,30 ROCK CREEK,Governor,,CON,Aaron Auer,0
+Lincoln,30 ROCK CREEK,Governor,,DEM,Kate Brown,107
+Lincoln,30 ROCK CREEK,Governor,,LBT,Nick Chen,3
+Lincoln,30 ROCK CREEK,Governor,,NON,Patrick Starnes,4
+Lincoln,30 ROCK CREEK,Governor,,PRO,Chris Henry,2
+Lincoln,30 ROCK CREEK,Governor,,REP,Knute Buehler,80
+Lincoln,30 ROCK CREEK,State House,10,,Write-ins,0
+Lincoln,30 ROCK CREEK,State House,10,DEM,David Gomberg,113
+Lincoln,30 ROCK CREEK,State House,10,REP,Thomas M Donohue,81
+Lincoln,30 ROCK CREEK,U.S. House,5,,Write-ins,2
+Lincoln,30 ROCK CREEK,U.S. House,5,DEM,Kurt Schrader,104
+Lincoln,30 ROCK CREEK,U.S. House,5,LBT,Dan Souza,4
+Lincoln,30 ROCK CREEK,U.S. House,5,PGP,Marvin Sandnes,3
+Lincoln,30 ROCK CREEK,U.S. House,5,REP,Mark Callahan,79
+Lincoln,31 EAST TOLEDO,Governor,,,Write-ins,1
+Lincoln,31 EAST TOLEDO,Governor,,CON,Aaron Auer,19
+Lincoln,31 EAST TOLEDO,Governor,,DEM,Kate Brown,381
+Lincoln,31 EAST TOLEDO,Governor,,LBT,Nick Chen,10
+Lincoln,31 EAST TOLEDO,Governor,,NON,Patrick Starnes,57
+Lincoln,31 EAST TOLEDO,Governor,,PRO,Chris Henry,6
+Lincoln,31 EAST TOLEDO,Governor,,REP,Knute Buehler,474
+Lincoln,31 EAST TOLEDO,State House,10,,Write-ins,0
+Lincoln,31 EAST TOLEDO,State House,10,DEM,David Gomberg,504
+Lincoln,31 EAST TOLEDO,State House,10,REP,Thomas M Donohue,431
+Lincoln,31 EAST TOLEDO,U.S. House,5,,Write-ins,0
+Lincoln,31 EAST TOLEDO,U.S. House,5,DEM,Kurt Schrader,506
+Lincoln,31 EAST TOLEDO,U.S. House,5,LBT,Dan Souza,20
+Lincoln,31 EAST TOLEDO,U.S. House,5,PGP,Marvin Sandnes,15
+Lincoln,31 EAST TOLEDO,U.S. House,5,REP,Mark Callahan,400
+Lincoln,32 SOUTH TOLEDO,Governor,,,Write-ins,2
+Lincoln,32 SOUTH TOLEDO,Governor,,CON,Aaron Auer,9
+Lincoln,32 SOUTH TOLEDO,Governor,,DEM,Kate Brown,329
+Lincoln,32 SOUTH TOLEDO,Governor,,LBT,Nick Chen,15
+Lincoln,32 SOUTH TOLEDO,Governor,,NON,Patrick Starnes,35
+Lincoln,32 SOUTH TOLEDO,Governor,,PRO,Chris Henry,9
+Lincoln,32 SOUTH TOLEDO,Governor,,REP,Knute Buehler,391
+Lincoln,32 SOUTH TOLEDO,State House,10,,Write-ins,1
+Lincoln,32 SOUTH TOLEDO,State House,10,DEM,David Gomberg,436
+Lincoln,32 SOUTH TOLEDO,State House,10,REP,Thomas M Donohue,339
+Lincoln,32 SOUTH TOLEDO,U.S. House,5,,Write-ins,4
+Lincoln,32 SOUTH TOLEDO,U.S. House,5,DEM,Kurt Schrader,425
+Lincoln,32 SOUTH TOLEDO,U.S. House,5,LBT,Dan Souza,12
+Lincoln,32 SOUTH TOLEDO,U.S. House,5,PGP,Marvin Sandnes,21
+Lincoln,32 SOUTH TOLEDO,U.S. House,5,REP,Mark Callahan,321

@@ -1,0 +1,511 @@
+county,precinct,office,district,party,candidate,votes
+Douglas,01 Unincorp Reedsport,Governor,,,Write-ins,2
+Douglas,01 Unincorp Reedsport,Governor,,CON,Aaron Auer,21
+Douglas,01 Unincorp Reedsport,Governor,,DEM,Kate Brown,250
+Douglas,01 Unincorp Reedsport,Governor,,LBT,Nick Chen,14
+Douglas,01 Unincorp Reedsport,Governor,,NON,Patrick Starnes,49
+Douglas,01 Unincorp Reedsport,Governor,,PRO,Chris Henry,7
+Douglas,01 Unincorp Reedsport,Governor,,REP,Knute Buehler,490
+Douglas,01 Unincorp Reedsport,State House,09,,Write-ins,4
+Douglas,01 Unincorp Reedsport,State House,09,DEM,Caddy McKeown,405
+Douglas,01 Unincorp Reedsport,State House,09,REP,Teri Grier,405
+Douglas,01 Unincorp Reedsport,U.S. House,4,,Write-ins,0
+Douglas,01 Unincorp Reedsport,U.S. House,4,DEM,Peter DeFazio,370
+Douglas,01 Unincorp Reedsport,U.S. House,4,LBT,Richard R Jacobson,15
+Douglas,01 Unincorp Reedsport,U.S. House,4,PGP,Mike Beilstein,22
+Douglas,01 Unincorp Reedsport,U.S. House,4,REP,Art Robinson,433
+Douglas,02 Roseburg City W 1,Governor,,,Write-ins,4
+Douglas,02 Roseburg City W 1,Governor,,CON,Aaron Auer,22
+Douglas,02 Roseburg City W 1,Governor,,DEM,Kate Brown,140
+Douglas,02 Roseburg City W 1,Governor,,LBT,Nick Chen,7
+Douglas,02 Roseburg City W 1,Governor,,NON,Patrick Starnes,44
+Douglas,02 Roseburg City W 1,Governor,,PRO,Chris Henry,8
+Douglas,02 Roseburg City W 1,Governor,,REP,Knute Buehler,374
+Douglas,02 Roseburg City W 1,State House,07,,Write-ins,1
+Douglas,02 Roseburg City W 1,State House,07,DEM,Christy Inskip,199
+Douglas,02 Roseburg City W 1,State House,07,REP,Cedric Hayden,370
+Douglas,02 Roseburg City W 1,State Senate,04,,Write-ins,5
+Douglas,02 Roseburg City W 1,State Senate,04,DEM,Floyd Prozanski,220
+Douglas,02 Roseburg City W 1,State Senate,04,LBT,Frank L Lengele Jr,16
+Douglas,02 Roseburg City W 1,State Senate,04,REP,Scott Rohter,328
+Douglas,02 Roseburg City W 1,U.S. House,4,,Write-ins,1
+Douglas,02 Roseburg City W 1,U.S. House,4,DEM,Peter DeFazio,262
+Douglas,02 Roseburg City W 1,U.S. House,4,LBT,Richard R Jacobson,5
+Douglas,02 Roseburg City W 1,U.S. House,4,PGP,Mike Beilstein,8
+Douglas,02 Roseburg City W 1,U.S. House,4,REP,Art Robinson,322
+Douglas,03 Reedsport City,Governor,,,Write-ins,0
+Douglas,03 Reedsport City,Governor,,CON,Aaron Auer,47
+Douglas,03 Reedsport City,Governor,,DEM,Kate Brown,621
+Douglas,03 Reedsport City,Governor,,LBT,Nick Chen,43
+Douglas,03 Reedsport City,Governor,,NON,Patrick Starnes,100
+Douglas,03 Reedsport City,Governor,,PRO,Chris Henry,15
+Douglas,03 Reedsport City,Governor,,REP,Knute Buehler,1043
+Douglas,03 Reedsport City,State House,09,,Write-ins,11
+Douglas,03 Reedsport City,State House,09,DEM,Caddy McKeown,893
+Douglas,03 Reedsport City,State House,09,REP,Teri Grier,911
+Douglas,03 Reedsport City,U.S. House,4,,Write-ins,2
+Douglas,03 Reedsport City,U.S. House,4,DEM,Peter DeFazio,871
+Douglas,03 Reedsport City,U.S. House,4,LBT,Richard R Jacobson,23
+Douglas,03 Reedsport City,U.S. House,4,PGP,Mike Beilstein,24
+Douglas,03 Reedsport City,U.S. House,4,REP,Art Robinson,949
+Douglas,04 North County,Governor,,,Write-ins,6
+Douglas,04 North County,Governor,,CON,Aaron Auer,80
+Douglas,04 North County,Governor,,DEM,Kate Brown,793
+Douglas,04 North County,Governor,,LBT,Nick Chen,54
+Douglas,04 North County,Governor,,NON,Patrick Starnes,152
+Douglas,04 North County,Governor,,PRO,Chris Henry,28
+Douglas,04 North County,Governor,,REP,Knute Buehler,2325
+Douglas,04 North County,State House,07,,Write-ins,6
+Douglas,04 North County,State House,07,DEM,Christy Inskip,978
+Douglas,04 North County,State House,07,REP,Cedric Hayden,2346
+Douglas,04 North County,State Senate,04,,Write-ins,10
+Douglas,04 North County,State Senate,04,DEM,Floyd Prozanski,1066
+Douglas,04 North County,State Senate,04,LBT,Frank L Lengele Jr,93
+Douglas,04 North County,State Senate,04,REP,Scott Rohter,2148
+Douglas,04 North County,U.S. House,4,,Write-ins,2
+Douglas,04 North County,U.S. House,4,DEM,Peter DeFazio,1141
+Douglas,04 North County,U.S. House,4,LBT,Richard R Jacobson,64
+Douglas,04 North County,U.S. House,4,PGP,Mike Beilstein,50
+Douglas,04 North County,U.S. House,4,REP,Art Robinson,2154
+Douglas,05 East County,Governor,,,Write-ins,9
+Douglas,05 East County,Governor,,CON,Aaron Auer,78
+Douglas,05 East County,Governor,,DEM,Kate Brown,801
+Douglas,05 East County,Governor,,LBT,Nick Chen,51
+Douglas,05 East County,Governor,,NON,Patrick Starnes,158
+Douglas,05 East County,Governor,,PRO,Chris Henry,23
+Douglas,05 East County,Governor,,REP,Knute Buehler,2264
+Douglas,05 East County,State House,07,,Write-ins,5
+Douglas,05 East County,State House,07,DEM,Christy Inskip,1026
+Douglas,05 East County,State House,07,REP,Cedric Hayden,2207
+Douglas,05 East County,State Senate,04,,Write-ins,15
+Douglas,05 East County,State Senate,04,DEM,Floyd Prozanski,1058
+Douglas,05 East County,State Senate,04,LBT,Frank L Lengele Jr,78
+Douglas,05 East County,State Senate,04,REP,Scott Rohter,2072
+Douglas,05 East County,U.S. House,4,,Write-ins,3
+Douglas,05 East County,U.S. House,4,DEM,Peter DeFazio,1215
+Douglas,05 East County,U.S. House,4,LBT,Richard R Jacobson,54
+Douglas,05 East County,U.S. House,4,PGP,Mike Beilstein,45
+Douglas,05 East County,U.S. House,4,REP,Art Robinson,2045
+Douglas,06 Uninc. N. Roseburg,Governor,,,Write-ins,3
+Douglas,06 Uninc. N. Roseburg,Governor,,CON,Aaron Auer,57
+Douglas,06 Uninc. N. Roseburg,Governor,,DEM,Kate Brown,705
+Douglas,06 Uninc. N. Roseburg,Governor,,LBT,Nick Chen,41
+Douglas,06 Uninc. N. Roseburg,Governor,,NON,Patrick Starnes,133
+Douglas,06 Uninc. N. Roseburg,Governor,,PRO,Chris Henry,22
+Douglas,06 Uninc. N. Roseburg,Governor,,REP,Knute Buehler,2143
+Douglas,06 Uninc. N. Roseburg,State House,07,,Write-ins,5
+Douglas,06 Uninc. N. Roseburg,State House,07,DEM,Christy Inskip,926
+Douglas,06 Uninc. N. Roseburg,State House,07,REP,Cedric Hayden,2016
+Douglas,06 Uninc. N. Roseburg,State Senate,04,,Write-ins,2
+Douglas,06 Uninc. N. Roseburg,State Senate,04,DEM,Floyd Prozanski,995
+Douglas,06 Uninc. N. Roseburg,State Senate,04,LBT,Frank L Lengele Jr,76
+Douglas,06 Uninc. N. Roseburg,State Senate,04,REP,Scott Rohter,1869
+Douglas,06 Uninc. N. Roseburg,U.S. House,4,,Write-ins,2
+Douglas,06 Uninc. N. Roseburg,U.S. House,4,DEM,Peter DeFazio,1193
+Douglas,06 Uninc. N. Roseburg,U.S. House,4,LBT,Richard R Jacobson,49
+Douglas,06 Uninc. N. Roseburg,U.S. House,4,PGP,Mike Beilstein,27
+Douglas,06 Uninc. N. Roseburg,U.S. House,4,REP,Art Robinson,1773
+Douglas,07 Roseburg City W 2,Governor,,,Write-ins,3
+Douglas,07 Roseburg City W 2,Governor,,CON,Aaron Auer,49
+Douglas,07 Roseburg City W 2,Governor,,DEM,Kate Brown,718
+Douglas,07 Roseburg City W 2,Governor,,LBT,Nick Chen,30
+Douglas,07 Roseburg City W 2,Governor,,NON,Patrick Starnes,109
+Douglas,07 Roseburg City W 2,Governor,,PRO,Chris Henry,11
+Douglas,07 Roseburg City W 2,Governor,,REP,Knute Buehler,1480
+Douglas,07 Roseburg City W 2,State House,02,,Write-ins,6
+Douglas,07 Roseburg City W 2,State House,02,DEM,Megan Salter,917
+Douglas,07 Roseburg City W 2,State House,02,REP,Gary Leif,1426
+Douglas,07 Roseburg City W 2,State Senate,01,,Write-ins,4
+Douglas,07 Roseburg City W 2,State Senate,01,DEM,Shannon Souza,874
+Douglas,07 Roseburg City W 2,State Senate,01,REP,Dallas Heard,1452
+Douglas,07 Roseburg City W 2,U.S. House,4,,Write-ins,9
+Douglas,07 Roseburg City W 2,U.S. House,4,DEM,Peter DeFazio,1068
+Douglas,07 Roseburg City W 2,U.S. House,4,LBT,Richard R Jacobson,44
+Douglas,07 Roseburg City W 2,U.S. House,4,PGP,Mike Beilstein,29
+Douglas,07 Roseburg City W 2,U.S. House,4,REP,Art Robinson,1222
+Douglas,08 Roseburg Unicorp,Governor,,,Write-ins,5
+Douglas,08 Roseburg Unicorp,Governor,,CON,Aaron Auer,98
+Douglas,08 Roseburg Unicorp,Governor,,DEM,Kate Brown,607
+Douglas,08 Roseburg Unicorp,Governor,,LBT,Nick Chen,41
+Douglas,08 Roseburg Unicorp,Governor,,NON,Patrick Starnes,143
+Douglas,08 Roseburg Unicorp,Governor,,PRO,Chris Henry,18
+Douglas,08 Roseburg Unicorp,Governor,,REP,Knute Buehler,1908
+Douglas,08 Roseburg Unicorp,State House,02,,Write-ins,6
+Douglas,08 Roseburg Unicorp,State House,02,DEM,Megan Salter,790
+Douglas,08 Roseburg Unicorp,State House,02,REP,Gary Leif,1954
+Douglas,08 Roseburg Unicorp,State Senate,01,,Write-ins,3
+Douglas,08 Roseburg Unicorp,State Senate,01,DEM,Shannon Souza,800
+Douglas,08 Roseburg Unicorp,State Senate,01,REP,Dallas Heard,1959
+Douglas,08 Roseburg Unicorp,U.S. House,4,,Write-ins,4
+Douglas,08 Roseburg Unicorp,U.S. House,4,DEM,Peter DeFazio,1040
+Douglas,08 Roseburg Unicorp,U.S. House,4,LBT,Richard R Jacobson,54
+Douglas,08 Roseburg Unicorp,U.S. House,4,PGP,Mike Beilstein,37
+Douglas,08 Roseburg Unicorp,U.S. House,4,REP,Art Robinson,1660
+Douglas,09 Roseburg City W 3,Governor,,,Write-ins,3
+Douglas,09 Roseburg City W 3,Governor,,CON,Aaron Auer,66
+Douglas,09 Roseburg City W 3,Governor,,DEM,Kate Brown,703
+Douglas,09 Roseburg City W 3,Governor,,LBT,Nick Chen,44
+Douglas,09 Roseburg City W 3,Governor,,NON,Patrick Starnes,106
+Douglas,09 Roseburg City W 3,Governor,,PRO,Chris Henry,17
+Douglas,09 Roseburg City W 3,Governor,,REP,Knute Buehler,1404
+Douglas,09 Roseburg City W 3,State House,02,,Write-ins,1
+Douglas,09 Roseburg City W 3,State House,02,DEM,Megan Salter,941
+Douglas,09 Roseburg City W 3,State House,02,REP,Gary Leif,1330
+Douglas,09 Roseburg City W 3,State Senate,01,,Write-ins,0
+Douglas,09 Roseburg City W 3,State Senate,01,DEM,Shannon Souza,921
+Douglas,09 Roseburg City W 3,State Senate,01,REP,Dallas Heard,1356
+Douglas,09 Roseburg City W 3,U.S. House,4,,Write-ins,1
+Douglas,09 Roseburg City W 3,U.S. House,4,DEM,Peter DeFazio,1077
+Douglas,09 Roseburg City W 3,U.S. House,4,LBT,Richard R Jacobson,50
+Douglas,09 Roseburg City W 3,U.S. House,4,PGP,Mike Beilstein,31
+Douglas,09 Roseburg City W 3,U.S. House,4,REP,Art Robinson,1141
+Douglas,10 Elkton City,Governor,,,Write-ins,0
+Douglas,10 Elkton City,Governor,,CON,Aaron Auer,3
+Douglas,10 Elkton City,Governor,,DEM,Kate Brown,41
+Douglas,10 Elkton City,Governor,,LBT,Nick Chen,0
+Douglas,10 Elkton City,Governor,,NON,Patrick Starnes,6
+Douglas,10 Elkton City,Governor,,PRO,Chris Henry,1
+Douglas,10 Elkton City,Governor,,REP,Knute Buehler,45
+Douglas,10 Elkton City,State House,07,,Write-ins,0
+Douglas,10 Elkton City,State House,07,DEM,Christy Inskip,45
+Douglas,10 Elkton City,State House,07,REP,Cedric Hayden,47
+Douglas,10 Elkton City,State Senate,04,,Write-ins,0
+Douglas,10 Elkton City,State Senate,04,DEM,Floyd Prozanski,48
+Douglas,10 Elkton City,State Senate,04,LBT,Frank L Lengele Jr,5
+Douglas,10 Elkton City,State Senate,04,REP,Scott Rohter,39
+Douglas,10 Elkton City,U.S. House,4,,Write-ins,0
+Douglas,10 Elkton City,U.S. House,4,DEM,Peter DeFazio,54
+Douglas,10 Elkton City,U.S. House,4,LBT,Richard R Jacobson,1
+Douglas,10 Elkton City,U.S. House,4,PGP,Mike Beilstein,3
+Douglas,10 Elkton City,U.S. House,4,REP,Art Robinson,38
+Douglas,11 Drain City,Governor,,,Write-ins,0
+Douglas,11 Drain City,Governor,,CON,Aaron Auer,8
+Douglas,11 Drain City,Governor,,DEM,Kate Brown,77
+Douglas,11 Drain City,Governor,,LBT,Nick Chen,7
+Douglas,11 Drain City,Governor,,NON,Patrick Starnes,18
+Douglas,11 Drain City,Governor,,PRO,Chris Henry,2
+Douglas,11 Drain City,Governor,,REP,Knute Buehler,269
+Douglas,11 Drain City,State House,07,,Write-ins,0
+Douglas,11 Drain City,State House,07,DEM,Christy Inskip,104
+Douglas,11 Drain City,State House,07,REP,Cedric Hayden,267
+Douglas,11 Drain City,State Senate,04,,Write-ins,0
+Douglas,11 Drain City,State Senate,04,DEM,Floyd Prozanski,106
+Douglas,11 Drain City,State Senate,04,LBT,Frank L Lengele Jr,8
+Douglas,11 Drain City,State Senate,04,REP,Scott Rohter,247
+Douglas,11 Drain City,U.S. House,4,,Write-ins,0
+Douglas,11 Drain City,U.S. House,4,DEM,Peter DeFazio,125
+Douglas,11 Drain City,U.S. House,4,LBT,Richard R Jacobson,4
+Douglas,11 Drain City,U.S. House,4,PGP,Mike Beilstein,2
+Douglas,11 Drain City,U.S. House,4,REP,Art Robinson,253
+Douglas,12 NW of  Roseburg,Governor,,,Write-ins,2
+Douglas,12 NW of  Roseburg,Governor,,CON,Aaron Auer,51
+Douglas,12 NW of  Roseburg,Governor,,DEM,Kate Brown,716
+Douglas,12 NW of  Roseburg,Governor,,LBT,Nick Chen,21
+Douglas,12 NW of  Roseburg,Governor,,NON,Patrick Starnes,88
+Douglas,12 NW of  Roseburg,Governor,,PRO,Chris Henry,11
+Douglas,12 NW of  Roseburg,Governor,,REP,Knute Buehler,2454
+Douglas,12 NW of  Roseburg,State House,01,,Write-ins,2
+Douglas,12 NW of  Roseburg,State House,01,DEM,Eldon Rollins,671
+Douglas,12 NW of  Roseburg,State House,01,REP,David Brock Smith,2389
+Douglas,12 NW of  Roseburg,State Senate,01,,Write-ins,8
+Douglas,12 NW of  Roseburg,State Senate,01,DEM,Shannon Souza,913
+Douglas,12 NW of  Roseburg,State Senate,01,REP,Dallas Heard,2339
+Douglas,12 NW of  Roseburg,U.S. House,4,,Write-ins,1
+Douglas,12 NW of  Roseburg,U.S. House,4,DEM,Peter DeFazio,1126
+Douglas,12 NW of  Roseburg,U.S. House,4,LBT,Richard R Jacobson,53
+Douglas,12 NW of  Roseburg,U.S. House,4,PGP,Mike Beilstein,34
+Douglas,12 NW of  Roseburg,U.S. House,4,REP,Art Robinson,2063
+Douglas,13 County West,Governor,,,Write-ins,3
+Douglas,13 County West,Governor,,CON,Aaron Auer,48
+Douglas,13 County West,Governor,,DEM,Kate Brown,531
+Douglas,13 County West,Governor,,LBT,Nick Chen,21
+Douglas,13 County West,Governor,,NON,Patrick Starnes,113
+Douglas,13 County West,Governor,,PRO,Chris Henry,10
+Douglas,13 County West,Governor,,REP,Knute Buehler,1882
+Douglas,13 County West,State House,01,,Write-ins,9
+Douglas,13 County West,State House,01,DEM,Eldon Rollins,536
+Douglas,13 County West,State House,01,REP,David Brock Smith,1819
+Douglas,13 County West,State Senate,01,,Write-ins,3
+Douglas,13 County West,State Senate,01,DEM,Shannon Souza,678
+Douglas,13 County West,State Senate,01,REP,Dallas Heard,1856
+Douglas,13 County West,U.S. House,4,,Write-ins,3
+Douglas,13 County West,U.S. House,4,DEM,Peter DeFazio,845
+Douglas,13 County West,U.S. House,4,LBT,Richard R Jacobson,44
+Douglas,13 County West,U.S. House,4,PGP,Mike Beilstein,16
+Douglas,13 County West,U.S. House,4,REP,Art Robinson,1656
+Douglas,14 Yoncalla City,Governor,,,Write-ins,1
+Douglas,14 Yoncalla City,Governor,,CON,Aaron Auer,8
+Douglas,14 Yoncalla City,Governor,,DEM,Kate Brown,86
+Douglas,14 Yoncalla City,Governor,,LBT,Nick Chen,8
+Douglas,14 Yoncalla City,Governor,,NON,Patrick Starnes,32
+Douglas,14 Yoncalla City,Governor,,PRO,Chris Henry,2
+Douglas,14 Yoncalla City,Governor,,REP,Knute Buehler,260
+Douglas,14 Yoncalla City,State House,07,,Write-ins,2
+Douglas,14 Yoncalla City,State House,07,DEM,Christy Inskip,116
+Douglas,14 Yoncalla City,State House,07,REP,Cedric Hayden,261
+Douglas,14 Yoncalla City,State Senate,04,,Write-ins,0
+Douglas,14 Yoncalla City,State Senate,04,DEM,Floyd Prozanski,131
+Douglas,14 Yoncalla City,State Senate,04,LBT,Frank L Lengele Jr,15
+Douglas,14 Yoncalla City,State Senate,04,REP,Scott Rohter,231
+Douglas,14 Yoncalla City,U.S. House,4,,Write-ins,0
+Douglas,14 Yoncalla City,U.S. House,4,DEM,Peter DeFazio,153
+Douglas,14 Yoncalla City,U.S. House,4,LBT,Richard R Jacobson,4
+Douglas,14 Yoncalla City,U.S. House,4,PGP,Mike Beilstein,6
+Douglas,14 Yoncalla City,U.S. House,4,REP,Art Robinson,233
+Douglas,15 Oakland City,Governor,,,Write-ins,0
+Douglas,15 Oakland City,Governor,,CON,Aaron Auer,6
+Douglas,15 Oakland City,Governor,,DEM,Kate Brown,141
+Douglas,15 Oakland City,Governor,,LBT,Nick Chen,5
+Douglas,15 Oakland City,Governor,,NON,Patrick Starnes,24
+Douglas,15 Oakland City,Governor,,PRO,Chris Henry,3
+Douglas,15 Oakland City,Governor,,REP,Knute Buehler,264
+Douglas,15 Oakland City,State House,07,,Write-ins,0
+Douglas,15 Oakland City,State House,07,DEM,Christy Inskip,170
+Douglas,15 Oakland City,State House,07,REP,Cedric Hayden,249
+Douglas,15 Oakland City,State Senate,04,,Write-ins,0
+Douglas,15 Oakland City,State Senate,04,DEM,Floyd Prozanski,181
+Douglas,15 Oakland City,State Senate,04,LBT,Frank L Lengele Jr,7
+Douglas,15 Oakland City,State Senate,04,REP,Scott Rohter,233
+Douglas,15 Oakland City,U.S. House,4,,Write-ins,1
+Douglas,15 Oakland City,U.S. House,4,DEM,Peter DeFazio,202
+Douglas,15 Oakland City,U.S. House,4,LBT,Richard R Jacobson,7
+Douglas,15 Oakland City,U.S. House,4,PGP,Mike Beilstein,1
+Douglas,15 Oakland City,U.S. House,4,REP,Art Robinson,223
+Douglas,16 County SW,Governor,,,Write-ins,11
+Douglas,16 County SW,Governor,,CON,Aaron Auer,97
+Douglas,16 County SW,Governor,,DEM,Kate Brown,386
+Douglas,16 County SW,Governor,,LBT,Nick Chen,29
+Douglas,16 County SW,Governor,,NON,Patrick Starnes,104
+Douglas,16 County SW,Governor,,PRO,Chris Henry,14
+Douglas,16 County SW,Governor,,REP,Knute Buehler,1379
+Douglas,16 County SW,State House,01,,Write-ins,11
+Douglas,16 County SW,State House,01,DEM,Eldon Rollins,432
+Douglas,16 County SW,State House,01,REP,David Brock Smith,1417
+Douglas,16 County SW,State Senate,01,,Write-ins,8
+Douglas,16 County SW,State Senate,01,DEM,Shannon Souza,538
+Douglas,16 County SW,State Senate,01,REP,Dallas Heard,1405
+Douglas,16 County SW,U.S. House,4,,Write-ins,5
+Douglas,16 County SW,U.S. House,4,DEM,Peter DeFazio,675
+Douglas,16 County SW,U.S. House,4,LBT,Richard R Jacobson,21
+Douglas,16 County SW,U.S. House,4,PGP,Mike Beilstein,40
+Douglas,16 County SW,U.S. House,4,REP,Art Robinson,1267
+Douglas,17 Sutherlin City,Governor,,,Write-ins,7
+Douglas,17 Sutherlin City,Governor,,CON,Aaron Auer,88
+Douglas,17 Sutherlin City,Governor,,DEM,Kate Brown,854
+Douglas,17 Sutherlin City,Governor,,LBT,Nick Chen,50
+Douglas,17 Sutherlin City,Governor,,NON,Patrick Starnes,221
+Douglas,17 Sutherlin City,Governor,,PRO,Chris Henry,37
+Douglas,17 Sutherlin City,Governor,,REP,Knute Buehler,2377
+Douglas,17 Sutherlin City,State House,07,,Write-ins,4
+Douglas,17 Sutherlin City,State House,07,DEM,Christy Inskip,1099
+Douglas,17 Sutherlin City,State House,07,REP,Cedric Hayden,2339
+Douglas,17 Sutherlin City,State Senate,04,,Write-ins,7
+Douglas,17 Sutherlin City,State Senate,04,DEM,Floyd Prozanski,1163
+Douglas,17 Sutherlin City,State Senate,04,LBT,Frank L Lengele Jr,88
+Douglas,17 Sutherlin City,State Senate,04,REP,Scott Rohter,2138
+Douglas,17 Sutherlin City,U.S. House,4,,Write-ins,2
+Douglas,17 Sutherlin City,U.S. House,4,DEM,Peter DeFazio,1367
+Douglas,17 Sutherlin City,U.S. House,4,LBT,Richard R Jacobson,74
+Douglas,17 Sutherlin City,U.S. House,4,PGP,Mike Beilstein,35
+Douglas,17 Sutherlin City,U.S. House,4,REP,Art Robinson,2101
+Douglas,18 Roseburg City W 1,Governor,,,Write-ins,6
+Douglas,18 Roseburg City W 1,Governor,,CON,Aaron Auer,48
+Douglas,18 Roseburg City W 1,Governor,,DEM,Kate Brown,472
+Douglas,18 Roseburg City W 1,Governor,,LBT,Nick Chen,39
+Douglas,18 Roseburg City W 1,Governor,,NON,Patrick Starnes,108
+Douglas,18 Roseburg City W 1,Governor,,PRO,Chris Henry,28
+Douglas,18 Roseburg City W 1,Governor,,REP,Knute Buehler,974
+Douglas,18 Roseburg City W 1,State House,02,,Write-ins,7
+Douglas,18 Roseburg City W 1,State House,02,DEM,Megan Salter,665
+Douglas,18 Roseburg City W 1,State House,02,REP,Gary Leif,946
+Douglas,18 Roseburg City W 1,State Senate,01,,Write-ins,4
+Douglas,18 Roseburg City W 1,State Senate,01,DEM,Shannon Souza,663
+Douglas,18 Roseburg City W 1,State Senate,01,REP,Dallas Heard,951
+Douglas,18 Roseburg City W 1,U.S. House,4,,Write-ins,6
+Douglas,18 Roseburg City W 1,U.S. House,4,DEM,Peter DeFazio,787
+Douglas,18 Roseburg City W 1,U.S. House,4,LBT,Richard R Jacobson,35
+Douglas,18 Roseburg City W 1,U.S. House,4,PGP,Mike Beilstein,32
+Douglas,18 Roseburg City W 1,U.S. House,4,REP,Art Robinson,800
+Douglas,19 Near Myrtle Creek,Governor,,,Write-ins,2
+Douglas,19 Near Myrtle Creek,Governor,,CON,Aaron Auer,105
+Douglas,19 Near Myrtle Creek,Governor,,DEM,Kate Brown,625
+Douglas,19 Near Myrtle Creek,Governor,,LBT,Nick Chen,60
+Douglas,19 Near Myrtle Creek,Governor,,NON,Patrick Starnes,168
+Douglas,19 Near Myrtle Creek,Governor,,PRO,Chris Henry,11
+Douglas,19 Near Myrtle Creek,Governor,,REP,Knute Buehler,2025
+Douglas,19 Near Myrtle Creek,State House,02,,Write-ins,8
+Douglas,19 Near Myrtle Creek,State House,02,DEM,Megan Salter,857
+Douglas,19 Near Myrtle Creek,State House,02,REP,Gary Leif,2062
+Douglas,19 Near Myrtle Creek,State Senate,01,,Write-ins,4
+Douglas,19 Near Myrtle Creek,State Senate,01,DEM,Shannon Souza,851
+Douglas,19 Near Myrtle Creek,State Senate,01,REP,Dallas Heard,2069
+Douglas,19 Near Myrtle Creek,U.S. House,4,,Write-ins,4
+Douglas,19 Near Myrtle Creek,U.S. House,4,DEM,Peter DeFazio,1056
+Douglas,19 Near Myrtle Creek,U.S. House,4,LBT,Richard R Jacobson,41
+Douglas,19 Near Myrtle Creek,U.S. House,4,PGP,Mike Beilstein,33
+Douglas,19 Near Myrtle Creek,U.S. House,4,REP,Art Robinson,1839
+Douglas,20 SE of  Roseburg,Governor,,,Write-ins,4
+Douglas,20 SE of  Roseburg,Governor,,CON,Aaron Auer,71
+Douglas,20 SE of  Roseburg,Governor,,DEM,Kate Brown,417
+Douglas,20 SE of  Roseburg,Governor,,LBT,Nick Chen,32
+Douglas,20 SE of  Roseburg,Governor,,NON,Patrick Starnes,115
+Douglas,20 SE of  Roseburg,Governor,,PRO,Chris Henry,12
+Douglas,20 SE of  Roseburg,Governor,,REP,Knute Buehler,1636
+Douglas,20 SE of  Roseburg,State House,02,,Write-ins,6
+Douglas,20 SE of  Roseburg,State House,02,DEM,Megan Salter,592
+Douglas,20 SE of  Roseburg,State House,02,REP,Gary Leif,1623
+Douglas,20 SE of  Roseburg,State Senate,01,,Write-ins,5
+Douglas,20 SE of  Roseburg,State Senate,01,DEM,Shannon Souza,596
+Douglas,20 SE of  Roseburg,State Senate,01,REP,Dallas Heard,1625
+Douglas,20 SE of  Roseburg,U.S. House,4,,Write-ins,1
+Douglas,20 SE of  Roseburg,U.S. House,4,DEM,Peter DeFazio,781
+Douglas,20 SE of  Roseburg,U.S. House,4,LBT,Richard R Jacobson,37
+Douglas,20 SE of  Roseburg,U.S. House,4,PGP,Mike Beilstein,18
+Douglas,20 SE of  Roseburg,U.S. House,4,REP,Art Robinson,1409
+Douglas,21 County South,Governor,,,Write-ins,3
+Douglas,21 County South,Governor,,CON,Aaron Auer,57
+Douglas,21 County South,Governor,,DEM,Kate Brown,285
+Douglas,21 County South,Governor,,LBT,Nick Chen,20
+Douglas,21 County South,Governor,,NON,Patrick Starnes,83
+Douglas,21 County South,Governor,,PRO,Chris Henry,14
+Douglas,21 County South,Governor,,REP,Knute Buehler,1202
+Douglas,21 County South,State House,02,,Write-ins,3
+Douglas,21 County South,State House,02,DEM,Megan Salter,411
+Douglas,21 County South,State House,02,REP,Gary Leif,1209
+Douglas,21 County South,State Senate,01,,Write-ins,1
+Douglas,21 County South,State Senate,01,DEM,Shannon Souza,417
+Douglas,21 County South,State Senate,01,REP,Dallas Heard,1201
+Douglas,21 County South,U.S. House,4,,Write-ins,0
+Douglas,21 County South,U.S. House,4,DEM,Peter DeFazio,477
+Douglas,21 County South,U.S. House,4,LBT,Richard R Jacobson,20
+Douglas,21 County South,U.S. House,4,PGP,Mike Beilstein,14
+Douglas,21 County South,U.S. House,4,REP,Art Robinson,1138
+Douglas,22 Roseburg City W 4,Governor,,,Write-ins,4
+Douglas,22 Roseburg City W 4,Governor,,CON,Aaron Auer,54
+Douglas,22 Roseburg City W 4,Governor,,DEM,Kate Brown,832
+Douglas,22 Roseburg City W 4,Governor,,LBT,Nick Chen,49
+Douglas,22 Roseburg City W 4,Governor,,NON,Patrick Starnes,134
+Douglas,22 Roseburg City W 4,Governor,,PRO,Chris Henry,25
+Douglas,22 Roseburg City W 4,Governor,,REP,Knute Buehler,1203
+Douglas,22 Roseburg City W 4,State House,02,,Write-ins,3
+Douglas,22 Roseburg City W 4,State House,02,DEM,Megan Salter,1051
+Douglas,22 Roseburg City W 4,State House,02,REP,Gary Leif,1189
+Douglas,22 Roseburg City W 4,State Senate,01,,Write-ins,4
+Douglas,22 Roseburg City W 4,State Senate,01,DEM,Shannon Souza,1065
+Douglas,22 Roseburg City W 4,State Senate,01,REP,Dallas Heard,1171
+Douglas,22 Roseburg City W 4,U.S. House,4,,Write-ins,1
+Douglas,22 Roseburg City W 4,U.S. House,4,DEM,Peter DeFazio,1203
+Douglas,22 Roseburg City W 4,U.S. House,4,LBT,Richard R Jacobson,42
+Douglas,22 Roseburg City W 4,U.S. House,4,PGP,Mike Beilstein,34
+Douglas,22 Roseburg City W 4,U.S. House,4,REP,Art Robinson,998
+Douglas,23 Winston Ward 1,Governor,,,Write-ins,1
+Douglas,23 Winston Ward 1,Governor,,CON,Aaron Auer,33
+Douglas,23 Winston Ward 1,Governor,,DEM,Kate Brown,217
+Douglas,23 Winston Ward 1,Governor,,LBT,Nick Chen,17
+Douglas,23 Winston Ward 1,Governor,,NON,Patrick Starnes,75
+Douglas,23 Winston Ward 1,Governor,,PRO,Chris Henry,14
+Douglas,23 Winston Ward 1,Governor,,REP,Knute Buehler,664
+Douglas,23 Winston Ward 1,State House,01,,Write-ins,0
+Douglas,23 Winston Ward 1,State House,01,DEM,Eldon Rollins,3
+Douglas,23 Winston Ward 1,State House,01,REP,David Brock Smith,12
+Douglas,23 Winston Ward 1,State House,02,,Write-ins,2
+Douglas,23 Winston Ward 1,State House,02,DEM,Megan Salter,278
+Douglas,23 Winston Ward 1,State House,02,REP,Gary Leif,697
+Douglas,23 Winston Ward 1,State Senate,01,,Write-ins,3
+Douglas,23 Winston Ward 1,State Senate,01,DEM,Shannon Souza,296
+Douglas,23 Winston Ward 1,State Senate,01,REP,Dallas Heard,688
+Douglas,23 Winston Ward 1,U.S. House,4,,Write-ins,2
+Douglas,23 Winston Ward 1,U.S. House,4,DEM,Peter DeFazio,379
+Douglas,23 Winston Ward 1,U.S. House,4,LBT,Richard R Jacobson,19
+Douglas,23 Winston Ward 1,U.S. House,4,PGP,Mike Beilstein,13
+Douglas,23 Winston Ward 1,U.S. House,4,REP,Art Robinson,588
+Douglas,24 Winston Ward 2,Governor,,,Write-ins,3
+Douglas,24 Winston Ward 2,Governor,,CON,Aaron Auer,37
+Douglas,24 Winston Ward 2,Governor,,DEM,Kate Brown,257
+Douglas,24 Winston Ward 2,Governor,,LBT,Nick Chen,14
+Douglas,24 Winston Ward 2,Governor,,NON,Patrick Starnes,52
+Douglas,24 Winston Ward 2,Governor,,PRO,Chris Henry,11
+Douglas,24 Winston Ward 2,Governor,,REP,Knute Buehler,714
+Douglas,24 Winston Ward 2,State House,02,,Write-ins,4
+Douglas,24 Winston Ward 2,State House,02,DEM,Megan Salter,310
+Douglas,24 Winston Ward 2,State House,02,REP,Gary Leif,740
+Douglas,24 Winston Ward 2,State Senate,01,,Write-ins,2
+Douglas,24 Winston Ward 2,State Senate,01,DEM,Shannon Souza,312
+Douglas,24 Winston Ward 2,State Senate,01,REP,Dallas Heard,741
+Douglas,24 Winston Ward 2,U.S. House,4,,Write-ins,1
+Douglas,24 Winston Ward 2,U.S. House,4,DEM,Peter DeFazio,433
+Douglas,24 Winston Ward 2,U.S. House,4,LBT,Richard R Jacobson,20
+Douglas,24 Winston Ward 2,U.S. House,4,PGP,Mike Beilstein,6
+Douglas,24 Winston Ward 2,U.S. House,4,REP,Art Robinson,620
+Douglas,25 Canyonville City,Governor,,,Write-ins,0
+Douglas,25 Canyonville City,Governor,,CON,Aaron Auer,17
+Douglas,25 Canyonville City,Governor,,DEM,Kate Brown,158
+Douglas,25 Canyonville City,Governor,,LBT,Nick Chen,15
+Douglas,25 Canyonville City,Governor,,NON,Patrick Starnes,27
+Douglas,25 Canyonville City,Governor,,PRO,Chris Henry,3
+Douglas,25 Canyonville City,Governor,,REP,Knute Buehler,387
+Douglas,25 Canyonville City,State House,02,,Write-ins,2
+Douglas,25 Canyonville City,State House,02,DEM,Megan Salter,196
+Douglas,25 Canyonville City,State House,02,REP,Gary Leif,379
+Douglas,25 Canyonville City,State Senate,01,,Write-ins,1
+Douglas,25 Canyonville City,State Senate,01,DEM,Shannon Souza,193
+Douglas,25 Canyonville City,State Senate,01,REP,Dallas Heard,384
+Douglas,25 Canyonville City,U.S. House,4,,Write-ins,0
+Douglas,25 Canyonville City,U.S. House,4,DEM,Peter DeFazio,222
+Douglas,25 Canyonville City,U.S. House,4,LBT,Richard R Jacobson,4
+Douglas,25 Canyonville City,U.S. House,4,PGP,Mike Beilstein,9
+Douglas,25 Canyonville City,U.S. House,4,REP,Art Robinson,366
+Douglas,26 Myrtle Creek City,Governor,,,Write-ins,5
+Douglas,26 Myrtle Creek City,Governor,,CON,Aaron Auer,57
+Douglas,26 Myrtle Creek City,Governor,,DEM,Kate Brown,273
+Douglas,26 Myrtle Creek City,Governor,,LBT,Nick Chen,21
+Douglas,26 Myrtle Creek City,Governor,,NON,Patrick Starnes,78
+Douglas,26 Myrtle Creek City,Governor,,PRO,Chris Henry,18
+Douglas,26 Myrtle Creek City,Governor,,REP,Knute Buehler,849
+Douglas,26 Myrtle Creek City,State House,02,,Write-ins,2
+Douglas,26 Myrtle Creek City,State House,02,DEM,Megan Salter,386
+Douglas,26 Myrtle Creek City,State House,02,REP,Gary Leif,864
+Douglas,26 Myrtle Creek City,State Senate,01,,Write-ins,1
+Douglas,26 Myrtle Creek City,State Senate,01,DEM,Shannon Souza,393
+Douglas,26 Myrtle Creek City,State Senate,01,REP,Dallas Heard,857
+Douglas,26 Myrtle Creek City,U.S. House,4,,Write-ins,2
+Douglas,26 Myrtle Creek City,U.S. House,4,DEM,Peter DeFazio,484
+Douglas,26 Myrtle Creek City,U.S. House,4,LBT,Richard R Jacobson,22
+Douglas,26 Myrtle Creek City,U.S. House,4,PGP,Mike Beilstein,23
+Douglas,26 Myrtle Creek City,U.S. House,4,REP,Art Robinson,749
+Douglas,27 Glendale City,Governor,,,Write-ins,0
+Douglas,27 Glendale City,Governor,,CON,Aaron Auer,10
+Douglas,27 Glendale City,Governor,,DEM,Kate Brown,54
+Douglas,27 Glendale City,Governor,,LBT,Nick Chen,1
+Douglas,27 Glendale City,Governor,,NON,Patrick Starnes,16
+Douglas,27 Glendale City,Governor,,PRO,Chris Henry,0
+Douglas,27 Glendale City,Governor,,REP,Knute Buehler,160
+Douglas,27 Glendale City,State House,02,,Write-ins,0
+Douglas,27 Glendale City,State House,02,DEM,Megan Salter,64
+Douglas,27 Glendale City,State House,02,REP,Gary Leif,164
+Douglas,27 Glendale City,State Senate,01,,Write-ins,1
+Douglas,27 Glendale City,State Senate,01,DEM,Shannon Souza,67
+Douglas,27 Glendale City,State Senate,01,REP,Dallas Heard,165
+Douglas,27 Glendale City,U.S. House,4,,Write-ins,0
+Douglas,27 Glendale City,U.S. House,4,DEM,Peter DeFazio,80
+Douglas,27 Glendale City,U.S. House,4,LBT,Richard R Jacobson,6
+Douglas,27 Glendale City,U.S. House,4,PGP,Mike Beilstein,1
+Douglas,27 Glendale City,U.S. House,4,REP,Art Robinson,146
+Douglas,28 Riddle City,Governor,,,Write-ins,1
+Douglas,28 Riddle City,Governor,,CON,Aaron Auer,10
+Douglas,28 Riddle City,Governor,,DEM,Kate Brown,64
+Douglas,28 Riddle City,Governor,,LBT,Nick Chen,4
+Douglas,28 Riddle City,Governor,,NON,Patrick Starnes,25
+Douglas,28 Riddle City,Governor,,PRO,Chris Henry,3
+Douglas,28 Riddle City,Governor,,REP,Knute Buehler,238
+Douglas,28 Riddle City,State House,02,,Write-ins,0
+Douglas,28 Riddle City,State House,02,DEM,Megan Salter,106
+Douglas,28 Riddle City,State House,02,REP,Gary Leif,234
+Douglas,28 Riddle City,State Senate,01,,Write-ins,0
+Douglas,28 Riddle City,State Senate,01,DEM,Shannon Souza,104
+Douglas,28 Riddle City,State Senate,01,REP,Dallas Heard,229
+Douglas,28 Riddle City,U.S. House,4,,Write-ins,1
+Douglas,28 Riddle City,U.S. House,4,DEM,Peter DeFazio,138
+Douglas,28 Riddle City,U.S. House,4,LBT,Richard R Jacobson,11
+Douglas,28 Riddle City,U.S. House,4,PGP,Mike Beilstein,2
+Douglas,28 Riddle City,U.S. House,4,REP,Art Robinson,193

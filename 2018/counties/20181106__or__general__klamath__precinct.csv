@@ -1,0 +1,603 @@
+county,precinct,office,district,party,candidate,votes
+Klamath,PRECINCT 01,Governor,,,Write-ins,1
+Klamath,PRECINCT 01,Governor,,CON,Aaron Auer,28
+Klamath,PRECINCT 01,Governor,,DEM,Kate Brown,275
+Klamath,PRECINCT 01,Governor,,LBT,Nick Chen,14
+Klamath,PRECINCT 01,Governor,,NON,Patrick Starnes,77
+Klamath,PRECINCT 01,Governor,,PRO,Chris Henry,6
+Klamath,PRECINCT 01,Governor,,REP,Knute Buehler,971
+Klamath,PRECINCT 01,State House,55,,Write-ins,0
+Klamath,PRECINCT 01,State House,55,DEM,Karen Rippberger,372
+Klamath,PRECINCT 01,State House,55,REP,Mike McLane,965
+Klamath,PRECINCT 01,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 01,U.S. House,2,DEM,Jamie McLeod-Skinner,337
+Klamath,PRECINCT 01,U.S. House,2,NON,Mark R Roberts,77
+Klamath,PRECINCT 01,U.S. House,2,REP,Greg Walden,961
+Klamath,PRECINCT 02,Governor,,,Write-ins,0
+Klamath,PRECINCT 02,Governor,,CON,Aaron Auer,5
+Klamath,PRECINCT 02,Governor,,DEM,Kate Brown,19
+Klamath,PRECINCT 02,Governor,,LBT,Nick Chen,2
+Klamath,PRECINCT 02,Governor,,NON,Patrick Starnes,7
+Klamath,PRECINCT 02,Governor,,PRO,Chris Henry,3
+Klamath,PRECINCT 02,Governor,,REP,Knute Buehler,60
+Klamath,PRECINCT 02,State House,55,,Write-ins,0
+Klamath,PRECINCT 02,State House,55,DEM,Karen Rippberger,26
+Klamath,PRECINCT 02,State House,55,REP,Mike McLane,68
+Klamath,PRECINCT 02,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 02,U.S. House,2,DEM,Jamie McLeod-Skinner,22
+Klamath,PRECINCT 02,U.S. House,2,NON,Mark R Roberts,6
+Klamath,PRECINCT 02,U.S. House,2,REP,Greg Walden,68
+Klamath,PRECINCT 03,Governor,,,Write-ins,1
+Klamath,PRECINCT 03,Governor,,CON,Aaron Auer,22
+Klamath,PRECINCT 03,Governor,,DEM,Kate Brown,260
+Klamath,PRECINCT 03,Governor,,LBT,Nick Chen,23
+Klamath,PRECINCT 03,Governor,,NON,Patrick Starnes,49
+Klamath,PRECINCT 03,Governor,,PRO,Chris Henry,2
+Klamath,PRECINCT 03,Governor,,REP,Knute Buehler,593
+Klamath,PRECINCT 03,State House,55,,Write-ins,2
+Klamath,PRECINCT 03,State House,55,DEM,Karen Rippberger,306
+Klamath,PRECINCT 03,State House,55,REP,Mike McLane,621
+Klamath,PRECINCT 03,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 03,U.S. House,2,DEM,Jamie McLeod-Skinner,294
+Klamath,PRECINCT 03,U.S. House,2,NON,Mark R Roberts,60
+Klamath,PRECINCT 03,U.S. House,2,REP,Greg Walden,600
+Klamath,PRECINCT 04,Governor,,,Write-ins,1
+Klamath,PRECINCT 04,Governor,,CON,Aaron Auer,31
+Klamath,PRECINCT 04,Governor,,DEM,Kate Brown,159
+Klamath,PRECINCT 04,Governor,,LBT,Nick Chen,17
+Klamath,PRECINCT 04,Governor,,NON,Patrick Starnes,36
+Klamath,PRECINCT 04,Governor,,PRO,Chris Henry,5
+Klamath,PRECINCT 04,Governor,,REP,Knute Buehler,564
+Klamath,PRECINCT 04,State House,55,,Write-ins,2
+Klamath,PRECINCT 04,State House,55,DEM,Karen Rippberger,181
+Klamath,PRECINCT 04,State House,55,REP,Mike McLane,615
+Klamath,PRECINCT 04,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 04,U.S. House,2,DEM,Jamie McLeod-Skinner,170
+Klamath,PRECINCT 04,U.S. House,2,NON,Mark R Roberts,56
+Klamath,PRECINCT 04,U.S. House,2,REP,Greg Walden,584
+Klamath,PRECINCT 05,Governor,,,Write-ins,1
+Klamath,PRECINCT 05,Governor,,CON,Aaron Auer,7
+Klamath,PRECINCT 05,Governor,,DEM,Kate Brown,80
+Klamath,PRECINCT 05,Governor,,LBT,Nick Chen,9
+Klamath,PRECINCT 05,Governor,,NON,Patrick Starnes,6
+Klamath,PRECINCT 05,Governor,,PRO,Chris Henry,4
+Klamath,PRECINCT 05,Governor,,REP,Knute Buehler,74
+Klamath,PRECINCT 05,State House,55,,Write-ins,2
+Klamath,PRECINCT 05,State House,55,DEM,Karen Rippberger,88
+Klamath,PRECINCT 05,State House,55,REP,Mike McLane,82
+Klamath,PRECINCT 05,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 05,U.S. House,2,DEM,Jamie McLeod-Skinner,91
+Klamath,PRECINCT 05,U.S. House,2,NON,Mark R Roberts,13
+Klamath,PRECINCT 05,U.S. House,2,REP,Greg Walden,76
+Klamath,PRECINCT 06,Governor,,,Write-ins,0
+Klamath,PRECINCT 06,Governor,,CON,Aaron Auer,6
+Klamath,PRECINCT 06,Governor,,DEM,Kate Brown,66
+Klamath,PRECINCT 06,Governor,,LBT,Nick Chen,4
+Klamath,PRECINCT 06,Governor,,NON,Patrick Starnes,25
+Klamath,PRECINCT 06,Governor,,PRO,Chris Henry,1
+Klamath,PRECINCT 06,Governor,,REP,Knute Buehler,282
+Klamath,PRECINCT 06,State House,55,,Write-ins,0
+Klamath,PRECINCT 06,State House,55,DEM,Karen Rippberger,88
+Klamath,PRECINCT 06,State House,55,REP,Mike McLane,285
+Klamath,PRECINCT 06,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 06,U.S. House,2,DEM,Jamie McLeod-Skinner,81
+Klamath,PRECINCT 06,U.S. House,2,NON,Mark R Roberts,26
+Klamath,PRECINCT 06,U.S. House,2,REP,Greg Walden,277
+Klamath,PRECINCT 07,Governor,,,Write-ins,6
+Klamath,PRECINCT 07,Governor,,CON,Aaron Auer,34
+Klamath,PRECINCT 07,Governor,,DEM,Kate Brown,243
+Klamath,PRECINCT 07,Governor,,LBT,Nick Chen,29
+Klamath,PRECINCT 07,Governor,,NON,Patrick Starnes,84
+Klamath,PRECINCT 07,Governor,,PRO,Chris Henry,1
+Klamath,PRECINCT 07,Governor,,REP,Knute Buehler,1051
+Klamath,PRECINCT 07,State House,56,,Write-ins,5
+Klamath,PRECINCT 07,State House,56,DEM,Taylor Tupper,305
+Klamath,PRECINCT 07,State House,56,REP,E Werner Reschke,1069
+Klamath,PRECINCT 07,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 07,U.S. House,2,DEM,Jamie McLeod-Skinner,288
+Klamath,PRECINCT 07,U.S. House,2,NON,Mark R Roberts,99
+Klamath,PRECINCT 07,U.S. House,2,REP,Greg Walden,1067
+Klamath,PRECINCT 08,Governor,,,Write-ins,0
+Klamath,PRECINCT 08,Governor,,CON,Aaron Auer,11
+Klamath,PRECINCT 08,Governor,,DEM,Kate Brown,84
+Klamath,PRECINCT 08,Governor,,LBT,Nick Chen,11
+Klamath,PRECINCT 08,Governor,,NON,Patrick Starnes,23
+Klamath,PRECINCT 08,Governor,,PRO,Chris Henry,6
+Klamath,PRECINCT 08,Governor,,REP,Knute Buehler,356
+Klamath,PRECINCT 08,State House,56,,Write-ins,1
+Klamath,PRECINCT 08,State House,56,DEM,Taylor Tupper,113
+Klamath,PRECINCT 08,State House,56,REP,E Werner Reschke,359
+Klamath,PRECINCT 08,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 08,U.S. House,2,DEM,Jamie McLeod-Skinner,94
+Klamath,PRECINCT 08,U.S. House,2,NON,Mark R Roberts,23
+Klamath,PRECINCT 08,U.S. House,2,REP,Greg Walden,375
+Klamath,PRECINCT 09,Governor,,,Write-ins,2
+Klamath,PRECINCT 09,Governor,,CON,Aaron Auer,15
+Klamath,PRECINCT 09,Governor,,DEM,Kate Brown,63
+Klamath,PRECINCT 09,Governor,,LBT,Nick Chen,8
+Klamath,PRECINCT 09,Governor,,NON,Patrick Starnes,16
+Klamath,PRECINCT 09,Governor,,PRO,Chris Henry,4
+Klamath,PRECINCT 09,Governor,,REP,Knute Buehler,423
+Klamath,PRECINCT 09,State House,56,,Write-ins,0
+Klamath,PRECINCT 09,State House,56,DEM,Taylor Tupper,83
+Klamath,PRECINCT 09,State House,56,REP,E Werner Reschke,437
+Klamath,PRECINCT 09,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 09,U.S. House,2,DEM,Jamie McLeod-Skinner,77
+Klamath,PRECINCT 09,U.S. House,2,NON,Mark R Roberts,43
+Klamath,PRECINCT 09,U.S. House,2,REP,Greg Walden,407
+Klamath,PRECINCT 10,Governor,,,Write-ins,1
+Klamath,PRECINCT 10,Governor,,CON,Aaron Auer,8
+Klamath,PRECINCT 10,Governor,,DEM,Kate Brown,226
+Klamath,PRECINCT 10,Governor,,LBT,Nick Chen,3
+Klamath,PRECINCT 10,Governor,,NON,Patrick Starnes,9
+Klamath,PRECINCT 10,Governor,,PRO,Chris Henry,2
+Klamath,PRECINCT 10,Governor,,REP,Knute Buehler,395
+Klamath,PRECINCT 10,State House,56,,Write-ins,1
+Klamath,PRECINCT 10,State House,56,DEM,Taylor Tupper,245
+Klamath,PRECINCT 10,State House,56,REP,E Werner Reschke,382
+Klamath,PRECINCT 10,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 10,U.S. House,2,DEM,Jamie McLeod-Skinner,239
+Klamath,PRECINCT 10,U.S. House,2,NON,Mark R Roberts,15
+Klamath,PRECINCT 10,U.S. House,2,REP,Greg Walden,393
+Klamath,PRECINCT 11,Governor,,,Write-ins,1
+Klamath,PRECINCT 11,Governor,,CON,Aaron Auer,23
+Klamath,PRECINCT 11,Governor,,DEM,Kate Brown,164
+Klamath,PRECINCT 11,Governor,,LBT,Nick Chen,28
+Klamath,PRECINCT 11,Governor,,NON,Patrick Starnes,47
+Klamath,PRECINCT 11,Governor,,PRO,Chris Henry,6
+Klamath,PRECINCT 11,Governor,,REP,Knute Buehler,722
+Klamath,PRECINCT 11,State House,56,,Write-ins,2
+Klamath,PRECINCT 11,State House,56,DEM,Taylor Tupper,227
+Klamath,PRECINCT 11,State House,56,REP,E Werner Reschke,728
+Klamath,PRECINCT 11,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 11,U.S. House,2,DEM,Jamie McLeod-Skinner,204
+Klamath,PRECINCT 11,U.S. House,2,NON,Mark R Roberts,51
+Klamath,PRECINCT 11,U.S. House,2,REP,Greg Walden,740
+Klamath,PRECINCT 12,Governor,,,Write-ins,1
+Klamath,PRECINCT 12,Governor,,CON,Aaron Auer,8
+Klamath,PRECINCT 12,Governor,,DEM,Kate Brown,109
+Klamath,PRECINCT 12,Governor,,LBT,Nick Chen,5
+Klamath,PRECINCT 12,Governor,,NON,Patrick Starnes,19
+Klamath,PRECINCT 12,Governor,,PRO,Chris Henry,3
+Klamath,PRECINCT 12,Governor,,REP,Knute Buehler,565
+Klamath,PRECINCT 12,State House,56,,Write-ins,2
+Klamath,PRECINCT 12,State House,56,DEM,Taylor Tupper,132
+Klamath,PRECINCT 12,State House,56,REP,E Werner Reschke,558
+Klamath,PRECINCT 12,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 12,U.S. House,2,DEM,Jamie McLeod-Skinner,114
+Klamath,PRECINCT 12,U.S. House,2,NON,Mark R Roberts,24
+Klamath,PRECINCT 12,U.S. House,2,REP,Greg Walden,576
+Klamath,PRECINCT 13,Governor,,,Write-ins,2
+Klamath,PRECINCT 13,Governor,,CON,Aaron Auer,30
+Klamath,PRECINCT 13,Governor,,DEM,Kate Brown,179
+Klamath,PRECINCT 13,Governor,,LBT,Nick Chen,17
+Klamath,PRECINCT 13,Governor,,NON,Patrick Starnes,51
+Klamath,PRECINCT 13,Governor,,PRO,Chris Henry,7
+Klamath,PRECINCT 13,Governor,,REP,Knute Buehler,1466
+Klamath,PRECINCT 13,State House,56,,Write-ins,2
+Klamath,PRECINCT 13,State House,56,DEM,Taylor Tupper,233
+Klamath,PRECINCT 13,State House,56,REP,E Werner Reschke,1467
+Klamath,PRECINCT 13,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 13,U.S. House,2,DEM,Jamie McLeod-Skinner,178
+Klamath,PRECINCT 13,U.S. House,2,NON,Mark R Roberts,85
+Klamath,PRECINCT 13,U.S. House,2,REP,Greg Walden,1485
+Klamath,PRECINCT 14,Governor,,,Write-ins,1
+Klamath,PRECINCT 14,Governor,,CON,Aaron Auer,4
+Klamath,PRECINCT 14,Governor,,DEM,Kate Brown,24
+Klamath,PRECINCT 14,Governor,,LBT,Nick Chen,4
+Klamath,PRECINCT 14,Governor,,NON,Patrick Starnes,10
+Klamath,PRECINCT 14,Governor,,PRO,Chris Henry,1
+Klamath,PRECINCT 14,Governor,,REP,Knute Buehler,114
+Klamath,PRECINCT 14,State House,56,,Write-ins,0
+Klamath,PRECINCT 14,State House,56,DEM,Taylor Tupper,36
+Klamath,PRECINCT 14,State House,56,REP,E Werner Reschke,112
+Klamath,PRECINCT 14,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 14,U.S. House,2,DEM,Jamie McLeod-Skinner,31
+Klamath,PRECINCT 14,U.S. House,2,NON,Mark R Roberts,10
+Klamath,PRECINCT 14,U.S. House,2,REP,Greg Walden,114
+Klamath,PRECINCT 15,Governor,,,Write-ins,0
+Klamath,PRECINCT 15,Governor,,CON,Aaron Auer,10
+Klamath,PRECINCT 15,Governor,,DEM,Kate Brown,55
+Klamath,PRECINCT 15,Governor,,LBT,Nick Chen,6
+Klamath,PRECINCT 15,Governor,,NON,Patrick Starnes,17
+Klamath,PRECINCT 15,Governor,,PRO,Chris Henry,0
+Klamath,PRECINCT 15,Governor,,REP,Knute Buehler,687
+Klamath,PRECINCT 15,State House,56,,Write-ins,2
+Klamath,PRECINCT 15,State House,56,DEM,Taylor Tupper,80
+Klamath,PRECINCT 15,State House,56,REP,E Werner Reschke,664
+Klamath,PRECINCT 15,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 15,U.S. House,2,DEM,Jamie McLeod-Skinner,57
+Klamath,PRECINCT 15,U.S. House,2,NON,Mark R Roberts,24
+Klamath,PRECINCT 15,U.S. House,2,REP,Greg Walden,700
+Klamath,PRECINCT 16,Governor,,,Write-ins,0
+Klamath,PRECINCT 16,Governor,,CON,Aaron Auer,1
+Klamath,PRECINCT 16,Governor,,DEM,Kate Brown,44
+Klamath,PRECINCT 16,Governor,,LBT,Nick Chen,3
+Klamath,PRECINCT 16,Governor,,NON,Patrick Starnes,6
+Klamath,PRECINCT 16,Governor,,PRO,Chris Henry,5
+Klamath,PRECINCT 16,Governor,,REP,Knute Buehler,111
+Klamath,PRECINCT 16,State House,56,,Write-ins,0
+Klamath,PRECINCT 16,State House,56,DEM,Taylor Tupper,49
+Klamath,PRECINCT 16,State House,56,REP,E Werner Reschke,112
+Klamath,PRECINCT 16,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 16,U.S. House,2,DEM,Jamie McLeod-Skinner,47
+Klamath,PRECINCT 16,U.S. House,2,NON,Mark R Roberts,7
+Klamath,PRECINCT 16,U.S. House,2,REP,Greg Walden,120
+Klamath,PRECINCT 17,Governor,,,Write-ins,0
+Klamath,PRECINCT 17,Governor,,CON,Aaron Auer,3
+Klamath,PRECINCT 17,Governor,,DEM,Kate Brown,30
+Klamath,PRECINCT 17,Governor,,LBT,Nick Chen,7
+Klamath,PRECINCT 17,Governor,,NON,Patrick Starnes,14
+Klamath,PRECINCT 17,Governor,,PRO,Chris Henry,4
+Klamath,PRECINCT 17,Governor,,REP,Knute Buehler,162
+Klamath,PRECINCT 17,State House,56,,Write-ins,1
+Klamath,PRECINCT 17,State House,56,DEM,Taylor Tupper,40
+Klamath,PRECINCT 17,State House,56,REP,E Werner Reschke,174
+Klamath,PRECINCT 17,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 17,U.S. House,2,DEM,Jamie McLeod-Skinner,35
+Klamath,PRECINCT 17,U.S. House,2,NON,Mark R Roberts,17
+Klamath,PRECINCT 17,U.S. House,2,REP,Greg Walden,166
+Klamath,PRECINCT 18,Governor,,,Write-ins,1
+Klamath,PRECINCT 18,Governor,,CON,Aaron Auer,12
+Klamath,PRECINCT 18,Governor,,DEM,Kate Brown,118
+Klamath,PRECINCT 18,Governor,,LBT,Nick Chen,11
+Klamath,PRECINCT 18,Governor,,NON,Patrick Starnes,53
+Klamath,PRECINCT 18,Governor,,PRO,Chris Henry,2
+Klamath,PRECINCT 18,Governor,,REP,Knute Buehler,688
+Klamath,PRECINCT 18,State House,56,,Write-ins,5
+Klamath,PRECINCT 18,State House,56,DEM,Taylor Tupper,153
+Klamath,PRECINCT 18,State House,56,REP,E Werner Reschke,696
+Klamath,PRECINCT 18,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 18,U.S. House,2,DEM,Jamie McLeod-Skinner,147
+Klamath,PRECINCT 18,U.S. House,2,NON,Mark R Roberts,29
+Klamath,PRECINCT 18,U.S. House,2,REP,Greg Walden,712
+Klamath,PRECINCT 19,Governor,,,Write-ins,0
+Klamath,PRECINCT 19,Governor,,CON,Aaron Auer,5
+Klamath,PRECINCT 19,Governor,,DEM,Kate Brown,51
+Klamath,PRECINCT 19,Governor,,LBT,Nick Chen,6
+Klamath,PRECINCT 19,Governor,,NON,Patrick Starnes,11
+Klamath,PRECINCT 19,Governor,,PRO,Chris Henry,8
+Klamath,PRECINCT 19,Governor,,REP,Knute Buehler,69
+Klamath,PRECINCT 19,State House,56,,Write-ins,3
+Klamath,PRECINCT 19,State House,56,DEM,Taylor Tupper,64
+Klamath,PRECINCT 19,State House,56,REP,E Werner Reschke,82
+Klamath,PRECINCT 19,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 19,U.S. House,2,DEM,Jamie McLeod-Skinner,54
+Klamath,PRECINCT 19,U.S. House,2,NON,Mark R Roberts,16
+Klamath,PRECINCT 19,U.S. House,2,REP,Greg Walden,89
+Klamath,PRECINCT 20,Governor,,,Write-ins,2
+Klamath,PRECINCT 20,Governor,,CON,Aaron Auer,21
+Klamath,PRECINCT 20,Governor,,DEM,Kate Brown,144
+Klamath,PRECINCT 20,Governor,,LBT,Nick Chen,21
+Klamath,PRECINCT 20,Governor,,NON,Patrick Starnes,36
+Klamath,PRECINCT 20,Governor,,PRO,Chris Henry,6
+Klamath,PRECINCT 20,Governor,,REP,Knute Buehler,423
+Klamath,PRECINCT 20,State House,56,,Write-ins,0
+Klamath,PRECINCT 20,State House,56,DEM,Taylor Tupper,200
+Klamath,PRECINCT 20,State House,56,REP,E Werner Reschke,430
+Klamath,PRECINCT 20,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 20,U.S. House,2,DEM,Jamie McLeod-Skinner,163
+Klamath,PRECINCT 20,U.S. House,2,NON,Mark R Roberts,41
+Klamath,PRECINCT 20,U.S. House,2,REP,Greg Walden,456
+Klamath,PRECINCT 21,Governor,,,Write-ins,0
+Klamath,PRECINCT 21,Governor,,CON,Aaron Auer,26
+Klamath,PRECINCT 21,Governor,,DEM,Kate Brown,365
+Klamath,PRECINCT 21,Governor,,LBT,Nick Chen,39
+Klamath,PRECINCT 21,Governor,,NON,Patrick Starnes,66
+Klamath,PRECINCT 21,Governor,,PRO,Chris Henry,6
+Klamath,PRECINCT 21,Governor,,REP,Knute Buehler,1050
+Klamath,PRECINCT 21,State House,56,,Write-ins,4
+Klamath,PRECINCT 21,State House,56,DEM,Taylor Tupper,442
+Klamath,PRECINCT 21,State House,56,REP,E Werner Reschke,1046
+Klamath,PRECINCT 21,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 21,U.S. House,2,DEM,Jamie McLeod-Skinner,392
+Klamath,PRECINCT 21,U.S. House,2,NON,Mark R Roberts,88
+Klamath,PRECINCT 21,U.S. House,2,REP,Greg Walden,1071
+Klamath,PRECINCT 22,Governor,,,Write-ins,0
+Klamath,PRECINCT 22,Governor,,CON,Aaron Auer,9
+Klamath,PRECINCT 22,Governor,,DEM,Kate Brown,94
+Klamath,PRECINCT 22,Governor,,LBT,Nick Chen,9
+Klamath,PRECINCT 22,Governor,,NON,Patrick Starnes,30
+Klamath,PRECINCT 22,Governor,,PRO,Chris Henry,7
+Klamath,PRECINCT 22,Governor,,REP,Knute Buehler,282
+Klamath,PRECINCT 22,State House,56,,Write-ins,1
+Klamath,PRECINCT 22,State House,56,DEM,Taylor Tupper,115
+Klamath,PRECINCT 22,State House,56,REP,E Werner Reschke,292
+Klamath,PRECINCT 22,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 22,U.S. House,2,DEM,Jamie McLeod-Skinner,110
+Klamath,PRECINCT 22,U.S. House,2,NON,Mark R Roberts,30
+Klamath,PRECINCT 22,U.S. House,2,REP,Greg Walden,288
+Klamath,PRECINCT 23,Governor,,,Write-ins,2
+Klamath,PRECINCT 23,Governor,,CON,Aaron Auer,31
+Klamath,PRECINCT 23,Governor,,DEM,Kate Brown,299
+Klamath,PRECINCT 23,Governor,,LBT,Nick Chen,42
+Klamath,PRECINCT 23,Governor,,NON,Patrick Starnes,81
+Klamath,PRECINCT 23,Governor,,PRO,Chris Henry,8
+Klamath,PRECINCT 23,Governor,,REP,Knute Buehler,1023
+Klamath,PRECINCT 23,State House,56,,Write-ins,5
+Klamath,PRECINCT 23,State House,56,DEM,Taylor Tupper,420
+Klamath,PRECINCT 23,State House,56,REP,E Werner Reschke,1019
+Klamath,PRECINCT 23,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 23,U.S. House,2,DEM,Jamie McLeod-Skinner,351
+Klamath,PRECINCT 23,U.S. House,2,NON,Mark R Roberts,106
+Klamath,PRECINCT 23,U.S. House,2,REP,Greg Walden,1033
+Klamath,PRECINCT 24,Governor,,,Write-ins,0
+Klamath,PRECINCT 24,Governor,,CON,Aaron Auer,11
+Klamath,PRECINCT 24,Governor,,DEM,Kate Brown,88
+Klamath,PRECINCT 24,Governor,,LBT,Nick Chen,9
+Klamath,PRECINCT 24,Governor,,NON,Patrick Starnes,27
+Klamath,PRECINCT 24,Governor,,PRO,Chris Henry,3
+Klamath,PRECINCT 24,Governor,,REP,Knute Buehler,294
+Klamath,PRECINCT 24,State House,56,,Write-ins,0
+Klamath,PRECINCT 24,State House,56,DEM,Taylor Tupper,117
+Klamath,PRECINCT 24,State House,56,REP,E Werner Reschke,299
+Klamath,PRECINCT 24,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 24,U.S. House,2,DEM,Jamie McLeod-Skinner,99
+Klamath,PRECINCT 24,U.S. House,2,NON,Mark R Roberts,22
+Klamath,PRECINCT 24,U.S. House,2,REP,Greg Walden,311
+Klamath,PRECINCT 25,Governor,,,Write-ins,1
+Klamath,PRECINCT 25,Governor,,CON,Aaron Auer,15
+Klamath,PRECINCT 25,Governor,,DEM,Kate Brown,155
+Klamath,PRECINCT 25,Governor,,LBT,Nick Chen,20
+Klamath,PRECINCT 25,Governor,,NON,Patrick Starnes,52
+Klamath,PRECINCT 25,Governor,,PRO,Chris Henry,5
+Klamath,PRECINCT 25,Governor,,REP,Knute Buehler,563
+Klamath,PRECINCT 25,State House,56,,Write-ins,4
+Klamath,PRECINCT 25,State House,56,DEM,Taylor Tupper,227
+Klamath,PRECINCT 25,State House,56,REP,E Werner Reschke,552
+Klamath,PRECINCT 25,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 25,U.S. House,2,DEM,Jamie McLeod-Skinner,197
+Klamath,PRECINCT 25,U.S. House,2,NON,Mark R Roberts,52
+Klamath,PRECINCT 25,U.S. House,2,REP,Greg Walden,565
+Klamath,PRECINCT 26,Governor,,,Write-ins,2
+Klamath,PRECINCT 26,Governor,,CON,Aaron Auer,14
+Klamath,PRECINCT 26,Governor,,DEM,Kate Brown,181
+Klamath,PRECINCT 26,Governor,,LBT,Nick Chen,29
+Klamath,PRECINCT 26,Governor,,NON,Patrick Starnes,41
+Klamath,PRECINCT 26,Governor,,PRO,Chris Henry,14
+Klamath,PRECINCT 26,Governor,,REP,Knute Buehler,743
+Klamath,PRECINCT 26,State House,56,,Write-ins,5
+Klamath,PRECINCT 26,State House,56,DEM,Taylor Tupper,230
+Klamath,PRECINCT 26,State House,56,REP,E Werner Reschke,747
+Klamath,PRECINCT 26,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 26,U.S. House,2,DEM,Jamie McLeod-Skinner,195
+Klamath,PRECINCT 26,U.S. House,2,NON,Mark R Roberts,37
+Klamath,PRECINCT 26,U.S. House,2,REP,Greg Walden,792
+Klamath,PRECINCT 27,Governor,,,Write-ins,2
+Klamath,PRECINCT 27,Governor,,CON,Aaron Auer,27
+Klamath,PRECINCT 27,Governor,,DEM,Kate Brown,257
+Klamath,PRECINCT 27,Governor,,LBT,Nick Chen,32
+Klamath,PRECINCT 27,Governor,,NON,Patrick Starnes,68
+Klamath,PRECINCT 27,Governor,,PRO,Chris Henry,12
+Klamath,PRECINCT 27,Governor,,REP,Knute Buehler,928
+Klamath,PRECINCT 27,State House,56,,Write-ins,2
+Klamath,PRECINCT 27,State House,56,DEM,Taylor Tupper,319
+Klamath,PRECINCT 27,State House,56,REP,E Werner Reschke,956
+Klamath,PRECINCT 27,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 27,U.S. House,2,DEM,Jamie McLeod-Skinner,296
+Klamath,PRECINCT 27,U.S. House,2,NON,Mark R Roberts,78
+Klamath,PRECINCT 27,U.S. House,2,REP,Greg Walden,957
+Klamath,PRECINCT 28,Governor,,,Write-ins,0
+Klamath,PRECINCT 28,Governor,,CON,Aaron Auer,1
+Klamath,PRECINCT 28,Governor,,DEM,Kate Brown,35
+Klamath,PRECINCT 28,Governor,,LBT,Nick Chen,4
+Klamath,PRECINCT 28,Governor,,NON,Patrick Starnes,7
+Klamath,PRECINCT 28,Governor,,PRO,Chris Henry,0
+Klamath,PRECINCT 28,Governor,,REP,Knute Buehler,180
+Klamath,PRECINCT 28,State House,56,,Write-ins,1
+Klamath,PRECINCT 28,State House,56,DEM,Taylor Tupper,48
+Klamath,PRECINCT 28,State House,56,REP,E Werner Reschke,169
+Klamath,PRECINCT 28,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 28,U.S. House,2,DEM,Jamie McLeod-Skinner,38
+Klamath,PRECINCT 28,U.S. House,2,NON,Mark R Roberts,6
+Klamath,PRECINCT 28,U.S. House,2,REP,Greg Walden,185
+Klamath,PRECINCT 29,Governor,,,Write-ins,2
+Klamath,PRECINCT 29,Governor,,CON,Aaron Auer,11
+Klamath,PRECINCT 29,Governor,,DEM,Kate Brown,153
+Klamath,PRECINCT 29,Governor,,LBT,Nick Chen,20
+Klamath,PRECINCT 29,Governor,,NON,Patrick Starnes,46
+Klamath,PRECINCT 29,Governor,,PRO,Chris Henry,5
+Klamath,PRECINCT 29,Governor,,REP,Knute Buehler,675
+Klamath,PRECINCT 29,State House,56,,Write-ins,2
+Klamath,PRECINCT 29,State House,56,DEM,Taylor Tupper,206
+Klamath,PRECINCT 29,State House,56,REP,E Werner Reschke,681
+Klamath,PRECINCT 29,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 29,U.S. House,2,DEM,Jamie McLeod-Skinner,190
+Klamath,PRECINCT 29,U.S. House,2,NON,Mark R Roberts,34
+Klamath,PRECINCT 29,U.S. House,2,REP,Greg Walden,692
+Klamath,PRECINCT 30,Governor,,,Write-ins,0
+Klamath,PRECINCT 30,Governor,,CON,Aaron Auer,14
+Klamath,PRECINCT 30,Governor,,DEM,Kate Brown,236
+Klamath,PRECINCT 30,Governor,,LBT,Nick Chen,25
+Klamath,PRECINCT 30,Governor,,NON,Patrick Starnes,33
+Klamath,PRECINCT 30,Governor,,PRO,Chris Henry,6
+Klamath,PRECINCT 30,Governor,,REP,Knute Buehler,478
+Klamath,PRECINCT 30,State House,56,,Write-ins,4
+Klamath,PRECINCT 30,State House,56,DEM,Taylor Tupper,271
+Klamath,PRECINCT 30,State House,56,REP,E Werner Reschke,489
+Klamath,PRECINCT 30,U.S. House,2,,Write-ins,3
+Klamath,PRECINCT 30,U.S. House,2,DEM,Jamie McLeod-Skinner,272
+Klamath,PRECINCT 30,U.S. House,2,NON,Mark R Roberts,45
+Klamath,PRECINCT 30,U.S. House,2,REP,Greg Walden,482
+Klamath,PRECINCT 31,Governor,,,Write-ins,4
+Klamath,PRECINCT 31,Governor,,CON,Aaron Auer,12
+Klamath,PRECINCT 31,Governor,,DEM,Kate Brown,338
+Klamath,PRECINCT 31,Governor,,LBT,Nick Chen,17
+Klamath,PRECINCT 31,Governor,,NON,Patrick Starnes,31
+Klamath,PRECINCT 31,Governor,,PRO,Chris Henry,6
+Klamath,PRECINCT 31,Governor,,REP,Knute Buehler,509
+Klamath,PRECINCT 31,State House,56,,Write-ins,2
+Klamath,PRECINCT 31,State House,56,DEM,Taylor Tupper,404
+Klamath,PRECINCT 31,State House,56,REP,E Werner Reschke,482
+Klamath,PRECINCT 31,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 31,U.S. House,2,DEM,Jamie McLeod-Skinner,372
+Klamath,PRECINCT 31,U.S. House,2,NON,Mark R Roberts,29
+Klamath,PRECINCT 31,U.S. House,2,REP,Greg Walden,521
+Klamath,PRECINCT 32,Governor,,,Write-ins,0
+Klamath,PRECINCT 32,Governor,,CON,Aaron Auer,3
+Klamath,PRECINCT 32,Governor,,DEM,Kate Brown,118
+Klamath,PRECINCT 32,Governor,,LBT,Nick Chen,13
+Klamath,PRECINCT 32,Governor,,NON,Patrick Starnes,13
+Klamath,PRECINCT 32,Governor,,PRO,Chris Henry,1
+Klamath,PRECINCT 32,Governor,,REP,Knute Buehler,193
+Klamath,PRECINCT 32,State House,56,,Write-ins,0
+Klamath,PRECINCT 32,State House,56,DEM,Taylor Tupper,115
+Klamath,PRECINCT 32,State House,56,REP,E Werner Reschke,209
+Klamath,PRECINCT 32,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 32,U.S. House,2,DEM,Jamie McLeod-Skinner,124
+Klamath,PRECINCT 32,U.S. House,2,NON,Mark R Roberts,14
+Klamath,PRECINCT 32,U.S. House,2,REP,Greg Walden,209
+Klamath,PRECINCT 33,Governor,,,Write-ins,0
+Klamath,PRECINCT 33,Governor,,CON,Aaron Auer,3
+Klamath,PRECINCT 33,Governor,,DEM,Kate Brown,38
+Klamath,PRECINCT 33,Governor,,LBT,Nick Chen,1
+Klamath,PRECINCT 33,Governor,,NON,Patrick Starnes,2
+Klamath,PRECINCT 33,Governor,,PRO,Chris Henry,0
+Klamath,PRECINCT 33,Governor,,REP,Knute Buehler,73
+Klamath,PRECINCT 33,State House,56,,Write-ins,0
+Klamath,PRECINCT 33,State House,56,DEM,Taylor Tupper,48
+Klamath,PRECINCT 33,State House,56,REP,E Werner Reschke,62
+Klamath,PRECINCT 33,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 33,U.S. House,2,DEM,Jamie McLeod-Skinner,46
+Klamath,PRECINCT 33,U.S. House,2,NON,Mark R Roberts,8
+Klamath,PRECINCT 33,U.S. House,2,REP,Greg Walden,65
+Klamath,PRECINCT 34,Governor,,,Write-ins,4
+Klamath,PRECINCT 34,Governor,,CON,Aaron Auer,7
+Klamath,PRECINCT 34,Governor,,DEM,Kate Brown,159
+Klamath,PRECINCT 34,Governor,,LBT,Nick Chen,15
+Klamath,PRECINCT 34,Governor,,NON,Patrick Starnes,37
+Klamath,PRECINCT 34,Governor,,PRO,Chris Henry,1
+Klamath,PRECINCT 34,Governor,,REP,Knute Buehler,290
+Klamath,PRECINCT 34,State House,56,,Write-ins,0
+Klamath,PRECINCT 34,State House,56,DEM,Taylor Tupper,197
+Klamath,PRECINCT 34,State House,56,REP,E Werner Reschke,293
+Klamath,PRECINCT 34,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 34,U.S. House,2,DEM,Jamie McLeod-Skinner,182
+Klamath,PRECINCT 34,U.S. House,2,NON,Mark R Roberts,32
+Klamath,PRECINCT 34,U.S. House,2,REP,Greg Walden,306
+Klamath,PRECINCT 35,Governor,,,Write-ins,0
+Klamath,PRECINCT 35,Governor,,CON,Aaron Auer,5
+Klamath,PRECINCT 35,Governor,,DEM,Kate Brown,70
+Klamath,PRECINCT 35,Governor,,LBT,Nick Chen,5
+Klamath,PRECINCT 35,Governor,,NON,Patrick Starnes,20
+Klamath,PRECINCT 35,Governor,,PRO,Chris Henry,4
+Klamath,PRECINCT 35,Governor,,REP,Knute Buehler,109
+Klamath,PRECINCT 35,State House,56,,Write-ins,0
+Klamath,PRECINCT 35,State House,56,DEM,Taylor Tupper,90
+Klamath,PRECINCT 35,State House,56,REP,E Werner Reschke,119
+Klamath,PRECINCT 35,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 35,U.S. House,2,DEM,Jamie McLeod-Skinner,83
+Klamath,PRECINCT 35,U.S. House,2,NON,Mark R Roberts,14
+Klamath,PRECINCT 35,U.S. House,2,REP,Greg Walden,113
+Klamath,PRECINCT 36,Governor,,,Write-ins,2
+Klamath,PRECINCT 36,Governor,,CON,Aaron Auer,14
+Klamath,PRECINCT 36,Governor,,DEM,Kate Brown,239
+Klamath,PRECINCT 36,Governor,,LBT,Nick Chen,29
+Klamath,PRECINCT 36,Governor,,NON,Patrick Starnes,37
+Klamath,PRECINCT 36,Governor,,PRO,Chris Henry,9
+Klamath,PRECINCT 36,Governor,,REP,Knute Buehler,272
+Klamath,PRECINCT 36,State House,56,,Write-ins,1
+Klamath,PRECINCT 36,State House,56,DEM,Taylor Tupper,308
+Klamath,PRECINCT 36,State House,56,REP,E Werner Reschke,280
+Klamath,PRECINCT 36,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 36,U.S. House,2,DEM,Jamie McLeod-Skinner,267
+Klamath,PRECINCT 36,U.S. House,2,NON,Mark R Roberts,52
+Klamath,PRECINCT 36,U.S. House,2,REP,Greg Walden,282
+Klamath,PRECINCT 37,Governor,,,Write-ins,0
+Klamath,PRECINCT 37,Governor,,CON,Aaron Auer,9
+Klamath,PRECINCT 37,Governor,,DEM,Kate Brown,313
+Klamath,PRECINCT 37,Governor,,LBT,Nick Chen,26
+Klamath,PRECINCT 37,Governor,,NON,Patrick Starnes,31
+Klamath,PRECINCT 37,Governor,,PRO,Chris Henry,5
+Klamath,PRECINCT 37,Governor,,REP,Knute Buehler,351
+Klamath,PRECINCT 37,State House,56,,Write-ins,2
+Klamath,PRECINCT 37,State House,56,DEM,Taylor Tupper,360
+Klamath,PRECINCT 37,State House,56,REP,E Werner Reschke,360
+Klamath,PRECINCT 37,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 37,U.S. House,2,DEM,Jamie McLeod-Skinner,329
+Klamath,PRECINCT 37,U.S. House,2,NON,Mark R Roberts,27
+Klamath,PRECINCT 37,U.S. House,2,REP,Greg Walden,390
+Klamath,PRECINCT 38,Governor,,,Write-ins,0
+Klamath,PRECINCT 38,Governor,,CON,Aaron Auer,21
+Klamath,PRECINCT 38,Governor,,DEM,Kate Brown,124
+Klamath,PRECINCT 38,Governor,,LBT,Nick Chen,15
+Klamath,PRECINCT 38,Governor,,NON,Patrick Starnes,28
+Klamath,PRECINCT 38,Governor,,PRO,Chris Henry,8
+Klamath,PRECINCT 38,Governor,,REP,Knute Buehler,183
+Klamath,PRECINCT 38,State House,56,,Write-ins,1
+Klamath,PRECINCT 38,State House,56,DEM,Taylor Tupper,158
+Klamath,PRECINCT 38,State House,56,REP,E Werner Reschke,202
+Klamath,PRECINCT 38,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 38,U.S. House,2,DEM,Jamie McLeod-Skinner,141
+Klamath,PRECINCT 38,U.S. House,2,NON,Mark R Roberts,31
+Klamath,PRECINCT 38,U.S. House,2,REP,Greg Walden,210
+Klamath,PRECINCT 39,Governor,,,Write-ins,1
+Klamath,PRECINCT 39,Governor,,CON,Aaron Auer,2
+Klamath,PRECINCT 39,Governor,,DEM,Kate Brown,30
+Klamath,PRECINCT 39,Governor,,LBT,Nick Chen,2
+Klamath,PRECINCT 39,Governor,,NON,Patrick Starnes,8
+Klamath,PRECINCT 39,Governor,,PRO,Chris Henry,1
+Klamath,PRECINCT 39,Governor,,REP,Knute Buehler,48
+Klamath,PRECINCT 39,State House,56,,Write-ins,2
+Klamath,PRECINCT 39,State House,56,DEM,Taylor Tupper,40
+Klamath,PRECINCT 39,State House,56,REP,E Werner Reschke,51
+Klamath,PRECINCT 39,U.S. House,2,,Write-ins,1
+Klamath,PRECINCT 39,U.S. House,2,DEM,Jamie McLeod-Skinner,33
+Klamath,PRECINCT 39,U.S. House,2,NON,Mark R Roberts,9
+Klamath,PRECINCT 39,U.S. House,2,REP,Greg Walden,53
+Klamath,PRECINCT 40,Governor,,,Write-ins,1
+Klamath,PRECINCT 40,Governor,,CON,Aaron Auer,15
+Klamath,PRECINCT 40,Governor,,DEM,Kate Brown,147
+Klamath,PRECINCT 40,Governor,,LBT,Nick Chen,19
+Klamath,PRECINCT 40,Governor,,NON,Patrick Starnes,36
+Klamath,PRECINCT 40,Governor,,PRO,Chris Henry,3
+Klamath,PRECINCT 40,Governor,,REP,Knute Buehler,207
+Klamath,PRECINCT 40,State House,56,,Write-ins,2
+Klamath,PRECINCT 40,State House,56,DEM,Taylor Tupper,174
+Klamath,PRECINCT 40,State House,56,REP,E Werner Reschke,232
+Klamath,PRECINCT 40,U.S. House,2,,Write-ins,2
+Klamath,PRECINCT 40,U.S. House,2,DEM,Jamie McLeod-Skinner,173
+Klamath,PRECINCT 40,U.S. House,2,NON,Mark R Roberts,32
+Klamath,PRECINCT 40,U.S. House,2,REP,Greg Walden,223
+Klamath,PRECINCT 41,Governor,,,Write-ins,1
+Klamath,PRECINCT 41,Governor,,CON,Aaron Auer,10
+Klamath,PRECINCT 41,Governor,,DEM,Kate Brown,220
+Klamath,PRECINCT 41,Governor,,LBT,Nick Chen,22
+Klamath,PRECINCT 41,Governor,,NON,Patrick Starnes,33
+Klamath,PRECINCT 41,Governor,,PRO,Chris Henry,8
+Klamath,PRECINCT 41,Governor,,REP,Knute Buehler,463
+Klamath,PRECINCT 41,State House,56,,Write-ins,1
+Klamath,PRECINCT 41,State House,56,DEM,Taylor Tupper,252
+Klamath,PRECINCT 41,State House,56,REP,E Werner Reschke,474
+Klamath,PRECINCT 41,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 41,U.S. House,2,DEM,Jamie McLeod-Skinner,240
+Klamath,PRECINCT 41,U.S. House,2,NON,Mark R Roberts,40
+Klamath,PRECINCT 41,U.S. House,2,REP,Greg Walden,480
+Klamath,PRECINCT 42,Governor,,,Write-ins,1
+Klamath,PRECINCT 42,Governor,,CON,Aaron Auer,15
+Klamath,PRECINCT 42,Governor,,DEM,Kate Brown,68
+Klamath,PRECINCT 42,Governor,,LBT,Nick Chen,8
+Klamath,PRECINCT 42,Governor,,NON,Patrick Starnes,30
+Klamath,PRECINCT 42,Governor,,PRO,Chris Henry,5
+Klamath,PRECINCT 42,Governor,,REP,Knute Buehler,240
+Klamath,PRECINCT 42,State House,56,,Write-ins,1
+Klamath,PRECINCT 42,State House,56,DEM,Taylor Tupper,84
+Klamath,PRECINCT 42,State House,56,REP,E Werner Reschke,253
+Klamath,PRECINCT 42,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 42,U.S. House,2,DEM,Jamie McLeod-Skinner,83
+Klamath,PRECINCT 42,U.S. House,2,NON,Mark R Roberts,24
+Klamath,PRECINCT 42,U.S. House,2,REP,Greg Walden,255
+Klamath,PRECINCT 43,Governor,,,Write-ins,1
+Klamath,PRECINCT 43,Governor,,CON,Aaron Auer,5
+Klamath,PRECINCT 43,Governor,,DEM,Kate Brown,181
+Klamath,PRECINCT 43,Governor,,LBT,Nick Chen,14
+Klamath,PRECINCT 43,Governor,,NON,Patrick Starnes,18
+Klamath,PRECINCT 43,Governor,,PRO,Chris Henry,5
+Klamath,PRECINCT 43,Governor,,REP,Knute Buehler,204
+Klamath,PRECINCT 43,State House,56,,Write-ins,0
+Klamath,PRECINCT 43,State House,56,DEM,Taylor Tupper,208
+Klamath,PRECINCT 43,State House,56,REP,E Werner Reschke,209
+Klamath,PRECINCT 43,U.S. House,2,,Write-ins,0
+Klamath,PRECINCT 43,U.S. House,2,DEM,Jamie McLeod-Skinner,190
+Klamath,PRECINCT 43,U.S. House,2,NON,Mark R Roberts,24
+Klamath,PRECINCT 43,U.S. House,2,REP,Greg Walden,216

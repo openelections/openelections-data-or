@@ -1,0 +1,269 @@
+county,precinct,office,district,party,candidate,votes
+Polk,102,Governor,,,Write-ins,2
+Polk,102,Governor,,CON,Aaron Auer,7
+Polk,102,Governor,,DEM,Kate Brown,221
+Polk,102,Governor,,LBT,Nick Chen,8
+Polk,102,Governor,,NON,Patrick Starnes,21
+Polk,102,Governor,,PRO,Chris Henry,0
+Polk,102,Governor,,REP,Knute Buehler,408
+Polk,102,State House,23,,Write-ins,0
+Polk,102,State House,23,DEM,Danny Jaffer,279
+Polk,102,State House,23,LBT,Mark Karnowski,7
+Polk,102,State House,23,REP,Mike Nearman,373
+Polk,102,U.S. House,5,,Write-ins,1
+Polk,102,U.S. House,5,DEM,Kurt Schrader,293
+Polk,102,U.S. House,5,LBT,Dan Souza,10
+Polk,102,U.S. House,5,PGP,Marvin Sandnes,10
+Polk,102,U.S. House,5,REP,Mark Callahan,348
+Polk,106,Governor,,,Write-ins,0
+Polk,106,Governor,,CON,Aaron Auer,23
+Polk,106,Governor,,DEM,Kate Brown,356
+Polk,106,Governor,,LBT,Nick Chen,16
+Polk,106,Governor,,NON,Patrick Starnes,40
+Polk,106,Governor,,PRO,Chris Henry,9
+Polk,106,Governor,,REP,Knute Buehler,806
+Polk,106,State House,23,,Write-ins,1
+Polk,106,State House,23,DEM,Danny Jaffer,426
+Polk,106,State House,23,LBT,Mark Karnowski,25
+Polk,106,State House,23,REP,Mike Nearman,770
+Polk,106,U.S. House,5,,Write-ins,0
+Polk,106,U.S. House,5,DEM,Kurt Schrader,459
+Polk,106,U.S. House,5,LBT,Dan Souza,18
+Polk,106,U.S. House,5,PGP,Marvin Sandnes,12
+Polk,106,U.S. House,5,REP,Mark Callahan,741
+Polk,110,Governor,,,Write-ins,1
+Polk,110,Governor,,CON,Aaron Auer,16
+Polk,110,Governor,,DEM,Kate Brown,207
+Polk,110,Governor,,LBT,Nick Chen,14
+Polk,110,Governor,,NON,Patrick Starnes,25
+Polk,110,Governor,,PRO,Chris Henry,2
+Polk,110,Governor,,REP,Knute Buehler,285
+Polk,110,State House,10,,Write-ins,2
+Polk,110,State House,10,DEM,David Gomberg,243
+Polk,110,State House,10,REP,Thomas M Donohue,288
+Polk,110,U.S. House,5,,Write-ins,0
+Polk,110,U.S. House,5,DEM,Kurt Schrader,248
+Polk,110,U.S. House,5,LBT,Dan Souza,10
+Polk,110,U.S. House,5,PGP,Marvin Sandnes,8
+Polk,110,U.S. House,5,REP,Mark Callahan,272
+Polk,118,Governor,,,Write-ins,6
+Polk,118,Governor,,CON,Aaron Auer,14
+Polk,118,Governor,,DEM,Kate Brown,899
+Polk,118,Governor,,LBT,Nick Chen,22
+Polk,118,Governor,,NON,Patrick Starnes,70
+Polk,118,Governor,,PRO,Chris Henry,7
+Polk,118,Governor,,REP,Knute Buehler,1382
+Polk,118,State House,23,,Write-ins,0
+Polk,118,State House,23,DEM,Danny Jaffer,1093
+Polk,118,State House,23,LBT,Mark Karnowski,37
+Polk,118,State House,23,REP,Mike Nearman,1227
+Polk,118,U.S. House,5,,Write-ins,4
+Polk,118,U.S. House,5,DEM,Kurt Schrader,1134
+Polk,118,U.S. House,5,LBT,Dan Souza,27
+Polk,118,U.S. House,5,PGP,Marvin Sandnes,32
+Polk,118,U.S. House,5,REP,Mark Callahan,1167
+Polk,122,Governor,,,Write-ins,4
+Polk,122,Governor,,CON,Aaron Auer,10
+Polk,122,Governor,,DEM,Kate Brown,468
+Polk,122,Governor,,LBT,Nick Chen,13
+Polk,122,Governor,,NON,Patrick Starnes,28
+Polk,122,Governor,,PRO,Chris Henry,5
+Polk,122,Governor,,REP,Knute Buehler,698
+Polk,122,State House,20,,Write-ins,3
+Polk,122,State House,20,DEM,Paul Evans,505
+Polk,122,State House,20,REP,Selma Pierce,705
+Polk,122,State Senate,10,,Write-ins,5
+Polk,122,State Senate,10,DEM,Deb Patterson,478
+Polk,122,State Senate,10,REP,Jackie F Winters,734
+Polk,122,U.S. House,5,,Write-ins,3
+Polk,122,U.S. House,5,DEM,Kurt Schrader,579
+Polk,122,U.S. House,5,LBT,Dan Souza,24
+Polk,122,U.S. House,5,PGP,Marvin Sandnes,20
+Polk,122,U.S. House,5,REP,Mark Callahan,591
+Polk,134,Governor,,,Write-ins,12
+Polk,134,Governor,,CON,Aaron Auer,43
+Polk,134,Governor,,DEM,Kate Brown,2028
+Polk,134,Governor,,LBT,Nick Chen,59
+Polk,134,Governor,,NON,Patrick Starnes,101
+Polk,134,Governor,,PRO,Chris Henry,20
+Polk,134,Governor,,REP,Knute Buehler,2216
+Polk,134,State House,20,,Write-ins,9
+Polk,134,State House,20,DEM,Paul Evans,2155
+Polk,134,State House,20,REP,Selma Pierce,2267
+Polk,134,State Senate,10,,Write-ins,14
+Polk,134,State Senate,10,DEM,Deb Patterson,1986
+Polk,134,State Senate,10,REP,Jackie F Winters,2404
+Polk,134,U.S. House,5,,Write-ins,3
+Polk,134,U.S. House,5,DEM,Kurt Schrader,2311
+Polk,134,U.S. House,5,LBT,Dan Souza,66
+Polk,134,U.S. House,5,PGP,Marvin Sandnes,67
+Polk,134,U.S. House,5,REP,Mark Callahan,1968
+Polk,136,Governor,,,Write-ins,7
+Polk,136,Governor,,CON,Aaron Auer,26
+Polk,136,Governor,,DEM,Kate Brown,1447
+Polk,136,Governor,,LBT,Nick Chen,24
+Polk,136,Governor,,NON,Patrick Starnes,52
+Polk,136,Governor,,PRO,Chris Henry,13
+Polk,136,Governor,,REP,Knute Buehler,1523
+Polk,136,State House,20,,Write-ins,2
+Polk,136,State House,20,DEM,Paul Evans,1498
+Polk,136,State House,20,REP,Selma Pierce,1557
+Polk,136,State Senate,10,,Write-ins,7
+Polk,136,State Senate,10,DEM,Deb Patterson,1402
+Polk,136,State Senate,10,REP,Jackie F Winters,1628
+Polk,136,U.S. House,5,,Write-ins,4
+Polk,136,U.S. House,5,DEM,Kurt Schrader,1693
+Polk,136,U.S. House,5,LBT,Dan Souza,30
+Polk,136,U.S. House,5,PGP,Marvin Sandnes,30
+Polk,136,U.S. House,5,REP,Mark Callahan,1305
+Polk,140,Governor,,,Write-ins,6
+Polk,140,Governor,,CON,Aaron Auer,39
+Polk,140,Governor,,DEM,Kate Brown,798
+Polk,140,Governor,,LBT,Nick Chen,35
+Polk,140,Governor,,NON,Patrick Starnes,57
+Polk,140,Governor,,PRO,Chris Henry,21
+Polk,140,Governor,,REP,Knute Buehler,584
+Polk,140,State House,20,,Write-ins,5
+Polk,140,State House,20,DEM,Paul Evans,884
+Polk,140,State House,20,REP,Selma Pierce,628
+Polk,140,State Senate,10,,Write-ins,7
+Polk,140,State Senate,10,DEM,Deb Patterson,820
+Polk,140,State Senate,10,REP,Jackie F Winters,682
+Polk,140,U.S. House,5,,Write-ins,4
+Polk,140,U.S. House,5,DEM,Kurt Schrader,902
+Polk,140,U.S. House,5,LBT,Dan Souza,36
+Polk,140,U.S. House,5,PGP,Marvin Sandnes,48
+Polk,140,U.S. House,5,REP,Mark Callahan,532
+Polk,146,Governor,,,Write-ins,11
+Polk,146,Governor,,CON,Aaron Auer,21
+Polk,146,Governor,,DEM,Kate Brown,1798
+Polk,146,Governor,,LBT,Nick Chen,49
+Polk,146,Governor,,NON,Patrick Starnes,72
+Polk,146,Governor,,PRO,Chris Henry,21
+Polk,146,Governor,,REP,Knute Buehler,1792
+Polk,146,State House,20,,Write-ins,10
+Polk,146,State House,20,DEM,Paul Evans,1858
+Polk,146,State House,20,REP,Selma Pierce,1846
+Polk,146,State Senate,10,,Write-ins,11
+Polk,146,State Senate,10,DEM,Deb Patterson,1680
+Polk,146,State Senate,10,REP,Jackie F Winters,2034
+Polk,146,U.S. House,5,,Write-ins,7
+Polk,146,U.S. House,5,DEM,Kurt Schrader,2087
+Polk,146,U.S. House,5,LBT,Dan Souza,56
+Polk,146,U.S. House,5,PGP,Marvin Sandnes,47
+Polk,146,U.S. House,5,REP,Mark Callahan,1537
+Polk,152,Governor,,,Write-ins,8
+Polk,152,Governor,,CON,Aaron Auer,53
+Polk,152,Governor,,DEM,Kate Brown,1054
+Polk,152,Governor,,LBT,Nick Chen,55
+Polk,152,Governor,,NON,Patrick Starnes,88
+Polk,152,Governor,,PRO,Chris Henry,14
+Polk,152,Governor,,REP,Knute Buehler,2311
+Polk,152,State House,23,,Write-ins,1
+Polk,152,State House,23,DEM,Danny Jaffer,1297
+Polk,152,State House,23,LBT,Mark Karnowski,64
+Polk,152,State House,23,REP,Mike Nearman,2171
+Polk,152,U.S. House,5,,Write-ins,3
+Polk,152,U.S. House,5,DEM,Kurt Schrader,1307
+Polk,152,U.S. House,5,LBT,Dan Souza,55
+Polk,152,U.S. House,5,PGP,Marvin Sandnes,41
+Polk,152,U.S. House,5,REP,Mark Callahan,2137
+Polk,154,Governor,,,Write-ins,7
+Polk,154,Governor,,CON,Aaron Auer,47
+Polk,154,Governor,,DEM,Kate Brown,1098
+Polk,154,Governor,,LBT,Nick Chen,60
+Polk,154,Governor,,NON,Patrick Starnes,123
+Polk,154,Governor,,PRO,Chris Henry,14
+Polk,154,Governor,,REP,Knute Buehler,1847
+Polk,154,State House,23,,Write-ins,4
+Polk,154,State House,23,DEM,Danny Jaffer,1391
+Polk,154,State House,23,LBT,Mark Karnowski,68
+Polk,154,State House,23,REP,Mike Nearman,1685
+Polk,154,U.S. House,5,,Write-ins,5
+Polk,154,U.S. House,5,DEM,Kurt Schrader,1359
+Polk,154,U.S. House,5,LBT,Dan Souza,53
+Polk,154,U.S. House,5,PGP,Marvin Sandnes,42
+Polk,154,U.S. House,5,REP,Mark Callahan,1700
+Polk,156,Governor,,,Write-ins,7
+Polk,156,Governor,,CON,Aaron Auer,37
+Polk,156,Governor,,DEM,Kate Brown,747
+Polk,156,Governor,,LBT,Nick Chen,49
+Polk,156,Governor,,NON,Patrick Starnes,83
+Polk,156,Governor,,PRO,Chris Henry,18
+Polk,156,Governor,,REP,Knute Buehler,1044
+Polk,156,State House,23,,Write-ins,3
+Polk,156,State House,23,DEM,Danny Jaffer,940
+Polk,156,State House,23,LBT,Mark Karnowski,58
+Polk,156,State House,23,REP,Mike Nearman,967
+Polk,156,U.S. House,5,,Write-ins,1
+Polk,156,U.S. House,5,DEM,Kurt Schrader,921
+Polk,156,U.S. House,5,LBT,Dan Souza,47
+Polk,156,U.S. House,5,PGP,Marvin Sandnes,36
+Polk,156,U.S. House,5,REP,Mark Callahan,969
+Polk,162,Governor,,,Write-ins,2
+Polk,162,Governor,,CON,Aaron Auer,33
+Polk,162,Governor,,DEM,Kate Brown,734
+Polk,162,Governor,,LBT,Nick Chen,31
+Polk,162,Governor,,NON,Patrick Starnes,65
+Polk,162,Governor,,PRO,Chris Henry,8
+Polk,162,Governor,,REP,Knute Buehler,1341
+Polk,162,State House,23,,Write-ins,4
+Polk,162,State House,23,DEM,Danny Jaffer,881
+Polk,162,State House,23,LBT,Mark Karnowski,26
+Polk,162,State House,23,REP,Mike Nearman,1256
+Polk,162,U.S. House,5,,Write-ins,2
+Polk,162,U.S. House,5,DEM,Kurt Schrader,902
+Polk,162,U.S. House,5,LBT,Dan Souza,27
+Polk,162,U.S. House,5,PGP,Marvin Sandnes,17
+Polk,162,U.S. House,5,REP,Mark Callahan,1230
+Polk,166,Governor,,,Write-ins,1
+Polk,166,Governor,,CON,Aaron Auer,24
+Polk,166,Governor,,DEM,Kate Brown,192
+Polk,166,Governor,,LBT,Nick Chen,15
+Polk,166,Governor,,NON,Patrick Starnes,25
+Polk,166,Governor,,PRO,Chris Henry,7
+Polk,166,Governor,,REP,Knute Buehler,337
+Polk,166,State House,10,,Write-ins,3
+Polk,166,State House,10,DEM,David Gomberg,235
+Polk,166,State House,10,REP,Thomas M Donohue,339
+Polk,166,U.S. House,5,,Write-ins,1
+Polk,166,U.S. House,5,DEM,Kurt Schrader,244
+Polk,166,U.S. House,5,LBT,Dan Souza,16
+Polk,166,U.S. House,5,PGP,Marvin Sandnes,14
+Polk,166,U.S. House,5,REP,Mark Callahan,318
+Polk,178,Governor,,,Write-ins,3
+Polk,178,Governor,,CON,Aaron Auer,43
+Polk,178,Governor,,DEM,Kate Brown,1815
+Polk,178,Governor,,LBT,Nick Chen,78
+Polk,178,Governor,,NON,Patrick Starnes,120
+Polk,178,Governor,,PRO,Chris Henry,26
+Polk,178,Governor,,REP,Knute Buehler,1476
+Polk,178,State House,20,,Write-ins,19
+Polk,178,State House,20,DEM,Paul Evans,2154
+Polk,178,State House,20,REP,Selma Pierce,1352
+Polk,178,State Senate,10,,Write-ins,14
+Polk,178,State Senate,10,DEM,Deb Patterson,1848
+Polk,178,State Senate,10,REP,Jackie F Winters,1636
+Polk,178,U.S. House,5,,Write-ins,2
+Polk,178,U.S. House,5,DEM,Kurt Schrader,2084
+Polk,178,U.S. House,5,LBT,Dan Souza,77
+Polk,178,U.S. House,5,PGP,Marvin Sandnes,67
+Polk,178,U.S. House,5,REP,Mark Callahan,1263
+Polk,182,Governor,,,Write-ins,6
+Polk,182,Governor,,CON,Aaron Auer,55
+Polk,182,Governor,,DEM,Kate Brown,1667
+Polk,182,Governor,,LBT,Nick Chen,61
+Polk,182,Governor,,NON,Patrick Starnes,106
+Polk,182,Governor,,PRO,Chris Henry,21
+Polk,182,Governor,,REP,Knute Buehler,1291
+Polk,182,State House,20,,Write-ins,13
+Polk,182,State House,20,DEM,Paul Evans,1891
+Polk,182,State House,20,REP,Selma Pierce,1268
+Polk,182,State Senate,10,,Write-ins,13
+Polk,182,State Senate,10,DEM,Deb Patterson,1675
+Polk,182,State Senate,10,REP,Jackie F Winters,1453
+Polk,182,U.S. House,5,,Write-ins,6
+Polk,182,U.S. House,5,DEM,Kurt Schrader,1844
+Polk,182,U.S. House,5,LBT,Dan Souza,73
+Polk,182,U.S. House,5,PGP,Marvin Sandnes,57
+Polk,182,U.S. House,5,REP,Mark Callahan,1163

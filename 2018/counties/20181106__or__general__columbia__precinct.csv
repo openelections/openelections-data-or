@@ -1,0 +1,562 @@
+county,precinct,office,district,party,candidate,votes
+Columbia,01 City of Clatskanie,Governor,,,Write-ins,0
+Columbia,01 City of Clatskanie,Governor,,CON,Aaron Auer,14
+Columbia,01 City of Clatskanie,Governor,,DEM,Kate Brown,270
+Columbia,01 City of Clatskanie,Governor,,LBT,Nick Chen,12
+Columbia,01 City of Clatskanie,Governor,,NON,Patrick Starnes,28
+Columbia,01 City of Clatskanie,Governor,,PRO,Chris Henry,1
+Columbia,01 City of Clatskanie,Governor,,REP,Knute Buehler,374
+Columbia,01 City of Clatskanie,State House,31,,Write-ins,2
+Columbia,01 City of Clatskanie,State House,31,DEM,Brad Witt,365
+Columbia,01 City of Clatskanie,State House,31,REP,Brian G Stout,326
+Columbia,01 City of Clatskanie,State Senate,16,,Write-ins,0
+Columbia,01 City of Clatskanie,State Senate,16,CON,Ray Biggs,105
+Columbia,01 City of Clatskanie,State Senate,16,DEM,Betsy Johnson,581
+Columbia,01 City of Clatskanie,U.S. House,1,,Write-ins,0
+Columbia,01 City of Clatskanie,U.S. House,1,DEM,Suzanne Bonamici,351
+Columbia,01 City of Clatskanie,U.S. House,1,LBT,Drew A Layda,25
+Columbia,01 City of Clatskanie,U.S. House,1,REP,John Verbeek,304
+Columbia,04 N Clatskanie-Marshland,Governor,,,Write-ins,1
+Columbia,04 N Clatskanie-Marshland,Governor,,CON,Aaron Auer,9
+Columbia,04 N Clatskanie-Marshland,Governor,,DEM,Kate Brown,182
+Columbia,04 N Clatskanie-Marshland,Governor,,LBT,Nick Chen,7
+Columbia,04 N Clatskanie-Marshland,Governor,,NON,Patrick Starnes,17
+Columbia,04 N Clatskanie-Marshland,Governor,,PRO,Chris Henry,3
+Columbia,04 N Clatskanie-Marshland,Governor,,REP,Knute Buehler,285
+Columbia,04 N Clatskanie-Marshland,State House,31,,Write-ins,2
+Columbia,04 N Clatskanie-Marshland,State House,31,DEM,Brad Witt,229
+Columbia,04 N Clatskanie-Marshland,State House,31,REP,Brian G Stout,261
+Columbia,04 N Clatskanie-Marshland,State Senate,16,,Write-ins,3
+Columbia,04 N Clatskanie-Marshland,State Senate,16,CON,Ray Biggs,99
+Columbia,04 N Clatskanie-Marshland,State Senate,16,DEM,Betsy Johnson,382
+Columbia,04 N Clatskanie-Marshland,U.S. House,1,,Write-ins,0
+Columbia,04 N Clatskanie-Marshland,U.S. House,1,DEM,Suzanne Bonamici,217
+Columbia,04 N Clatskanie-Marshland,U.S. House,1,LBT,Drew A Layda,19
+Columbia,04 N Clatskanie-Marshland,U.S. House,1,REP,John Verbeek,249
+Columbia,05 S Clatskanie,Governor,,,Write-ins,3
+Columbia,05 S Clatskanie,Governor,,CON,Aaron Auer,24
+Columbia,05 S Clatskanie,Governor,,DEM,Kate Brown,138
+Columbia,05 S Clatskanie,Governor,,LBT,Nick Chen,6
+Columbia,05 S Clatskanie,Governor,,NON,Patrick Starnes,16
+Columbia,05 S Clatskanie,Governor,,PRO,Chris Henry,3
+Columbia,05 S Clatskanie,Governor,,REP,Knute Buehler,258
+Columbia,05 S Clatskanie,State House,31,,Write-ins,2
+Columbia,05 S Clatskanie,State House,31,DEM,Brad Witt,205
+Columbia,05 S Clatskanie,State House,31,REP,Brian G Stout,240
+Columbia,05 S Clatskanie,State Senate,16,,Write-ins,1
+Columbia,05 S Clatskanie,State Senate,16,CON,Ray Biggs,112
+Columbia,05 S Clatskanie,State Senate,16,DEM,Betsy Johnson,309
+Columbia,05 S Clatskanie,U.S. House,1,,Write-ins,0
+Columbia,05 S Clatskanie,U.S. House,1,DEM,Suzanne Bonamici,175
+Columbia,05 S Clatskanie,U.S. House,1,LBT,Drew A Layda,14
+Columbia,05 S Clatskanie,U.S. House,1,REP,John Verbeek,245
+Columbia,06 Delena,Governor,,,Write-ins,1
+Columbia,06 Delena,Governor,,CON,Aaron Auer,25
+Columbia,06 Delena,Governor,,DEM,Kate Brown,368
+Columbia,06 Delena,Governor,,LBT,Nick Chen,14
+Columbia,06 Delena,Governor,,NON,Patrick Starnes,43
+Columbia,06 Delena,Governor,,PRO,Chris Henry,3
+Columbia,06 Delena,Governor,,REP,Knute Buehler,469
+Columbia,06 Delena,State House,31,,Write-ins,1
+Columbia,06 Delena,State House,31,DEM,Brad Witt,476
+Columbia,06 Delena,State House,31,REP,Brian G Stout,438
+Columbia,06 Delena,State Senate,16,,Write-ins,5
+Columbia,06 Delena,State Senate,16,CON,Ray Biggs,188
+Columbia,06 Delena,State Senate,16,DEM,Betsy Johnson,689
+Columbia,06 Delena,U.S. House,1,,Write-ins,3
+Columbia,06 Delena,U.S. House,1,DEM,Suzanne Bonamici,456
+Columbia,06 Delena,U.S. House,1,LBT,Drew A Layda,27
+Columbia,06 Delena,U.S. House,1,REP,John Verbeek,425
+Columbia,08 GOBLE,Governor,,,Write-ins,3
+Columbia,08 GOBLE,Governor,,CON,Aaron Auer,9
+Columbia,08 GOBLE,Governor,,DEM,Kate Brown,185
+Columbia,08 GOBLE,Governor,,LBT,Nick Chen,13
+Columbia,08 GOBLE,Governor,,NON,Patrick Starnes,29
+Columbia,08 GOBLE,Governor,,PRO,Chris Henry,2
+Columbia,08 GOBLE,Governor,,REP,Knute Buehler,314
+Columbia,08 GOBLE,State House,31,,Write-ins,1
+Columbia,08 GOBLE,State House,31,DEM,Brad Witt,250
+Columbia,08 GOBLE,State House,31,REP,Brian G Stout,304
+Columbia,08 GOBLE,State Senate,16,,Write-ins,5
+Columbia,08 GOBLE,State Senate,16,CON,Ray Biggs,124
+Columbia,08 GOBLE,State Senate,16,DEM,Betsy Johnson,402
+Columbia,08 GOBLE,U.S. House,1,,Write-ins,2
+Columbia,08 GOBLE,U.S. House,1,DEM,Suzanne Bonamici,238
+Columbia,08 GOBLE,U.S. House,1,LBT,Drew A Layda,36
+Columbia,08 GOBLE,U.S. House,1,REP,John Verbeek,269
+Columbia,10 Milton,Governor,,,Write-ins,2
+Columbia,10 Milton,Governor,,CON,Aaron Auer,11
+Columbia,10 Milton,Governor,,DEM,Kate Brown,277
+Columbia,10 Milton,Governor,,LBT,Nick Chen,9
+Columbia,10 Milton,Governor,,NON,Patrick Starnes,24
+Columbia,10 Milton,Governor,,PRO,Chris Henry,9
+Columbia,10 Milton,Governor,,REP,Knute Buehler,391
+Columbia,10 Milton,State House,31,,Write-ins,2
+Columbia,10 Milton,State House,31,DEM,Brad Witt,372
+Columbia,10 Milton,State House,31,REP,Brian G Stout,339
+Columbia,10 Milton,State Senate,16,,Write-ins,2
+Columbia,10 Milton,State Senate,16,CON,Ray Biggs,149
+Columbia,10 Milton,State Senate,16,DEM,Betsy Johnson,541
+Columbia,10 Milton,U.S. House,1,,Write-ins,3
+Columbia,10 Milton,U.S. House,1,DEM,Suzanne Bonamici,376
+Columbia,10 Milton,U.S. House,1,LBT,Drew A Layda,35
+Columbia,10 Milton,U.S. House,1,REP,John Verbeek,296
+Columbia,12 McNulty,Governor,,,Write-ins,4
+Columbia,12 McNulty,Governor,,CON,Aaron Auer,14
+Columbia,12 McNulty,Governor,,DEM,Kate Brown,338
+Columbia,12 McNulty,Governor,,LBT,Nick Chen,8
+Columbia,12 McNulty,Governor,,NON,Patrick Starnes,40
+Columbia,12 McNulty,Governor,,PRO,Chris Henry,9
+Columbia,12 McNulty,Governor,,REP,Knute Buehler,436
+Columbia,12 McNulty,State House,31,,Write-ins,6
+Columbia,12 McNulty,State House,31,DEM,Brad Witt,428
+Columbia,12 McNulty,State House,31,REP,Brian G Stout,391
+Columbia,12 McNulty,State Senate,16,,Write-ins,7
+Columbia,12 McNulty,State Senate,16,CON,Ray Biggs,170
+Columbia,12 McNulty,State Senate,16,DEM,Betsy Johnson,634
+Columbia,12 McNulty,U.S. House,1,,Write-ins,1
+Columbia,12 McNulty,U.S. House,1,DEM,Suzanne Bonamici,427
+Columbia,12 McNulty,U.S. House,1,LBT,Drew A Layda,33
+Columbia,12 McNulty,U.S. House,1,REP,John Verbeek,361
+Columbia,14 Quincy,Governor,,,Write-ins,0
+Columbia,14 Quincy,Governor,,CON,Aaron Auer,17
+Columbia,14 Quincy,Governor,,DEM,Kate Brown,132
+Columbia,14 Quincy,Governor,,LBT,Nick Chen,12
+Columbia,14 Quincy,Governor,,NON,Patrick Starnes,20
+Columbia,14 Quincy,Governor,,PRO,Chris Henry,3
+Columbia,14 Quincy,Governor,,REP,Knute Buehler,222
+Columbia,14 Quincy,State House,31,,Write-ins,0
+Columbia,14 Quincy,State House,31,DEM,Brad Witt,202
+Columbia,14 Quincy,State House,31,REP,Brian G Stout,203
+Columbia,14 Quincy,State Senate,16,,Write-ins,3
+Columbia,14 Quincy,State Senate,16,CON,Ray Biggs,87
+Columbia,14 Quincy,State Senate,16,DEM,Betsy Johnson,303
+Columbia,14 Quincy,U.S. House,1,,Write-ins,0
+Columbia,14 Quincy,U.S. House,1,DEM,Suzanne Bonamici,192
+Columbia,14 Quincy,U.S. House,1,LBT,Drew A Layda,20
+Columbia,14 Quincy,U.S. House,1,REP,John Verbeek,187
+Columbia,15 City of Rainier,Governor,,,Write-ins,0
+Columbia,15 City of Rainier,Governor,,CON,Aaron Auer,26
+Columbia,15 City of Rainier,Governor,,DEM,Kate Brown,321
+Columbia,15 City of Rainier,Governor,,LBT,Nick Chen,13
+Columbia,15 City of Rainier,Governor,,NON,Patrick Starnes,30
+Columbia,15 City of Rainier,Governor,,PRO,Chris Henry,5
+Columbia,15 City of Rainier,Governor,,REP,Knute Buehler,445
+Columbia,15 City of Rainier,State House,31,,Write-ins,1
+Columbia,15 City of Rainier,State House,31,DEM,Brad Witt,393
+Columbia,15 City of Rainier,State House,31,REP,Brian G Stout,427
+Columbia,15 City of Rainier,State Senate,16,,Write-ins,5
+Columbia,15 City of Rainier,State Senate,16,CON,Ray Biggs,207
+Columbia,15 City of Rainier,State Senate,16,DEM,Betsy Johnson,591
+Columbia,15 City of Rainier,U.S. House,1,,Write-ins,0
+Columbia,15 City of Rainier,U.S. House,1,DEM,Suzanne Bonamici,381
+Columbia,15 City of Rainier,U.S. House,1,LBT,Drew A Layda,34
+Columbia,15 City of Rainier,U.S. House,1,REP,John Verbeek,399
+Columbia,17 W Rainier,Governor,,,Write-ins,0
+Columbia,17 W Rainier,Governor,,CON,Aaron Auer,8
+Columbia,17 W Rainier,Governor,,DEM,Kate Brown,110
+Columbia,17 W Rainier,Governor,,LBT,Nick Chen,4
+Columbia,17 W Rainier,Governor,,NON,Patrick Starnes,14
+Columbia,17 W Rainier,Governor,,PRO,Chris Henry,6
+Columbia,17 W Rainier,Governor,,REP,Knute Buehler,177
+Columbia,17 W Rainier,State House,31,,Write-ins,0
+Columbia,17 W Rainier,State House,31,DEM,Brad Witt,139
+Columbia,17 W Rainier,State House,31,REP,Brian G Stout,173
+Columbia,17 W Rainier,State Senate,16,,Write-ins,0
+Columbia,17 W Rainier,State Senate,16,CON,Ray Biggs,90
+Columbia,17 W Rainier,State Senate,16,DEM,Betsy Johnson,213
+Columbia,17 W Rainier,U.S. House,1,,Write-ins,0
+Columbia,17 W Rainier,U.S. House,1,DEM,Suzanne Bonamici,135
+Columbia,17 W Rainier,U.S. House,1,LBT,Drew A Layda,14
+Columbia,17 W Rainier,U.S. House,1,REP,John Verbeek,161
+Columbia,18 E Rainier,Governor,,,Write-ins,0
+Columbia,18 E Rainier,Governor,,CON,Aaron Auer,3
+Columbia,18 E Rainier,Governor,,DEM,Kate Brown,55
+Columbia,18 E Rainier,Governor,,LBT,Nick Chen,4
+Columbia,18 E Rainier,Governor,,NON,Patrick Starnes,7
+Columbia,18 E Rainier,Governor,,PRO,Chris Henry,1
+Columbia,18 E Rainier,Governor,,REP,Knute Buehler,67
+Columbia,18 E Rainier,State House,31,,Write-ins,0
+Columbia,18 E Rainier,State House,31,DEM,Brad Witt,82
+Columbia,18 E Rainier,State House,31,REP,Brian G Stout,54
+Columbia,18 E Rainier,State Senate,16,,Write-ins,1
+Columbia,18 E Rainier,State Senate,16,CON,Ray Biggs,18
+Columbia,18 E Rainier,State Senate,16,DEM,Betsy Johnson,116
+Columbia,18 E Rainier,U.S. House,1,,Write-ins,0
+Columbia,18 E Rainier,U.S. House,1,DEM,Suzanne Bonamici,73
+Columbia,18 E Rainier,U.S. House,1,LBT,Drew A Layda,1
+Columbia,18 E Rainier,U.S. House,1,REP,John Verbeek,61
+Columbia,19 S Warren,Governor,,,Write-ins,1
+Columbia,19 S Warren,Governor,,CON,Aaron Auer,8
+Columbia,19 S Warren,Governor,,DEM,Kate Brown,293
+Columbia,19 S Warren,Governor,,LBT,Nick Chen,16
+Columbia,19 S Warren,Governor,,NON,Patrick Starnes,24
+Columbia,19 S Warren,Governor,,PRO,Chris Henry,4
+Columbia,19 S Warren,Governor,,REP,Knute Buehler,462
+Columbia,19 S Warren,State House,31,,Write-ins,0
+Columbia,19 S Warren,State House,31,DEM,Brad Witt,397
+Columbia,19 S Warren,State House,31,REP,Brian G Stout,388
+Columbia,19 S Warren,State Senate,16,,Write-ins,2
+Columbia,19 S Warren,State Senate,16,CON,Ray Biggs,126
+Columbia,19 S Warren,State Senate,16,DEM,Betsy Johnson,638
+Columbia,19 S Warren,U.S. House,1,,Write-ins,1
+Columbia,19 S Warren,U.S. House,1,DEM,Suzanne Bonamici,394
+Columbia,19 S Warren,U.S. House,1,LBT,Drew A Layda,22
+Columbia,19 S Warren,U.S. House,1,REP,John Verbeek,366
+Columbia,20 N Warren,Governor,,,Write-ins,0
+Columbia,20 N Warren,Governor,,CON,Aaron Auer,8
+Columbia,20 N Warren,Governor,,DEM,Kate Brown,218
+Columbia,20 N Warren,Governor,,LBT,Nick Chen,11
+Columbia,20 N Warren,Governor,,NON,Patrick Starnes,9
+Columbia,20 N Warren,Governor,,PRO,Chris Henry,0
+Columbia,20 N Warren,Governor,,REP,Knute Buehler,327
+Columbia,20 N Warren,State House,31,,Write-ins,0
+Columbia,20 N Warren,State House,31,DEM,Brad Witt,278
+Columbia,20 N Warren,State House,31,REP,Brian G Stout,279
+Columbia,20 N Warren,State Senate,16,,Write-ins,1
+Columbia,20 N Warren,State Senate,16,CON,Ray Biggs,104
+Columbia,20 N Warren,State Senate,16,DEM,Betsy Johnson,443
+Columbia,20 N Warren,U.S. House,1,,Write-ins,0
+Columbia,20 N Warren,U.S. House,1,DEM,Suzanne Bonamici,270
+Columbia,20 N Warren,U.S. House,1,LBT,Drew A Layda,19
+Columbia,20 N Warren,U.S. House,1,REP,John Verbeek,271
+Columbia,21 City St Helens One,Governor,,,Write-ins,3
+Columbia,21 City St Helens One,Governor,,CON,Aaron Auer,42
+Columbia,21 City St Helens One,Governor,,DEM,Kate Brown,777
+Columbia,21 City St Helens One,Governor,,LBT,Nick Chen,53
+Columbia,21 City St Helens One,Governor,,NON,Patrick Starnes,91
+Columbia,21 City St Helens One,Governor,,PRO,Chris Henry,14
+Columbia,21 City St Helens One,Governor,,REP,Knute Buehler,846
+Columbia,21 City St Helens One,State House,31,,Write-ins,3
+Columbia,21 City St Helens One,State House,31,DEM,Brad Witt,986
+Columbia,21 City St Helens One,State House,31,REP,Brian G Stout,817
+Columbia,21 City St Helens One,State Senate,16,,Write-ins,6
+Columbia,21 City St Helens One,State Senate,16,CON,Ray Biggs,384
+Columbia,21 City St Helens One,State Senate,16,DEM,Betsy Johnson,1378
+Columbia,21 City St Helens One,U.S. House,1,,Write-ins,2
+Columbia,21 City St Helens One,U.S. House,1,DEM,Suzanne Bonamici,980
+Columbia,21 City St Helens One,U.S. House,1,LBT,Drew A Layda,130
+Columbia,21 City St Helens One,U.S. House,1,REP,John Verbeek,682
+Columbia,24 City St Helens Four,Governor,,,Write-ins,4
+Columbia,24 City St Helens Four,Governor,,CON,Aaron Auer,37
+Columbia,24 City St Helens Four,Governor,,DEM,Kate Brown,697
+Columbia,24 City St Helens Four,Governor,,LBT,Nick Chen,38
+Columbia,24 City St Helens Four,Governor,,NON,Patrick Starnes,85
+Columbia,24 City St Helens Four,Governor,,PRO,Chris Henry,20
+Columbia,24 City St Helens Four,Governor,,REP,Knute Buehler,840
+Columbia,24 City St Helens Four,State House,31,,Write-ins,4
+Columbia,24 City St Helens Four,State House,31,DEM,Brad Witt,915
+Columbia,24 City St Helens Four,State House,31,REP,Brian G Stout,772
+Columbia,24 City St Helens Four,State Senate,16,,Write-ins,13
+Columbia,24 City St Helens Four,State Senate,16,CON,Ray Biggs,385
+Columbia,24 City St Helens Four,State Senate,16,DEM,Betsy Johnson,1247
+Columbia,24 City St Helens Four,U.S. House,1,,Write-ins,4
+Columbia,24 City St Helens Four,U.S. House,1,DEM,Suzanne Bonamici,890
+Columbia,24 City St Helens Four,U.S. House,1,LBT,Drew A Layda,120
+Columbia,24 City St Helens Four,U.S. House,1,REP,John Verbeek,675
+Columbia,26 City St Helens Six,Governor,,,Write-ins,2
+Columbia,26 City St Helens Six,Governor,,CON,Aaron Auer,37
+Columbia,26 City St Helens Six,Governor,,DEM,Kate Brown,737
+Columbia,26 City St Helens Six,Governor,,LBT,Nick Chen,46
+Columbia,26 City St Helens Six,Governor,,NON,Patrick Starnes,74
+Columbia,26 City St Helens Six,Governor,,PRO,Chris Henry,9
+Columbia,26 City St Helens Six,Governor,,REP,Knute Buehler,1057
+Columbia,26 City St Helens Six,State House,31,,Write-ins,7
+Columbia,26 City St Helens Six,State House,31,DEM,Brad Witt,959
+Columbia,26 City St Helens Six,State House,31,REP,Brian G Stout,966
+Columbia,26 City St Helens Six,State Senate,16,,Write-ins,19
+Columbia,26 City St Helens Six,State Senate,16,CON,Ray Biggs,390
+Columbia,26 City St Helens Six,State Senate,16,DEM,Betsy Johnson,1471
+Columbia,26 City St Helens Six,U.S. House,1,,Write-ins,2
+Columbia,26 City St Helens Six,U.S. House,1,DEM,Suzanne Bonamici,962
+Columbia,26 City St Helens Six,U.S. House,1,LBT,Drew A Layda,110
+Columbia,26 City St Helens Six,U.S. House,1,REP,John Verbeek,853
+Columbia,31 City of Scappoose One,Governor,,,Write-ins,1
+Columbia,31 City of Scappoose One,Governor,,CON,Aaron Auer,8
+Columbia,31 City of Scappoose One,Governor,,DEM,Kate Brown,255
+Columbia,31 City of Scappoose One,Governor,,LBT,Nick Chen,15
+Columbia,31 City of Scappoose One,Governor,,NON,Patrick Starnes,15
+Columbia,31 City of Scappoose One,Governor,,PRO,Chris Henry,6
+Columbia,31 City of Scappoose One,Governor,,REP,Knute Buehler,306
+Columbia,31 City of Scappoose One,State House,31,,Write-ins,2
+Columbia,31 City of Scappoose One,State House,31,DEM,Brad Witt,319
+Columbia,31 City of Scappoose One,State House,31,REP,Brian G Stout,265
+Columbia,31 City of Scappoose One,State Senate,16,,Write-ins,0
+Columbia,31 City of Scappoose One,State Senate,16,CON,Ray Biggs,91
+Columbia,31 City of Scappoose One,State Senate,16,DEM,Betsy Johnson,489
+Columbia,31 City of Scappoose One,U.S. House,1,,Write-ins,1
+Columbia,31 City of Scappoose One,U.S. House,1,DEM,Suzanne Bonamici,321
+Columbia,31 City of Scappoose One,U.S. House,1,LBT,Drew A Layda,44
+Columbia,31 City of Scappoose One,U.S. House,1,REP,John Verbeek,231
+Columbia,32 City of Scappoose Two,Governor,,,Write-ins,1
+Columbia,32 City of Scappoose Two,Governor,,CON,Aaron Auer,27
+Columbia,32 City of Scappoose Two,Governor,,DEM,Kate Brown,800
+Columbia,32 City of Scappoose Two,Governor,,LBT,Nick Chen,43
+Columbia,32 City of Scappoose Two,Governor,,NON,Patrick Starnes,73
+Columbia,32 City of Scappoose Two,Governor,,PRO,Chris Henry,10
+Columbia,32 City of Scappoose Two,Governor,,REP,Knute Buehler,894
+Columbia,32 City of Scappoose Two,State House,31,,Write-ins,1
+Columbia,32 City of Scappoose Two,State House,31,DEM,Brad Witt,1024
+Columbia,32 City of Scappoose Two,State House,31,REP,Brian G Stout,785
+Columbia,32 City of Scappoose Two,State Senate,16,,Write-ins,3
+Columbia,32 City of Scappoose Two,State Senate,16,CON,Ray Biggs,308
+Columbia,32 City of Scappoose Two,State Senate,16,DEM,Betsy Johnson,1446
+Columbia,32 City of Scappoose Two,U.S. House,1,,Write-ins,3
+Columbia,32 City of Scappoose Two,U.S. House,1,DEM,Suzanne Bonamici,1051
+Columbia,32 City of Scappoose Two,U.S. House,1,LBT,Drew A Layda,105
+Columbia,32 City of Scappoose Two,U.S. House,1,REP,John Verbeek,648
+Columbia,34 City of Scappoose Four,Governor,,,Write-ins,1
+Columbia,34 City of Scappoose Four,Governor,,CON,Aaron Auer,25
+Columbia,34 City of Scappoose Four,Governor,,DEM,Kate Brown,445
+Columbia,34 City of Scappoose Four,Governor,,LBT,Nick Chen,29
+Columbia,34 City of Scappoose Four,Governor,,NON,Patrick Starnes,37
+Columbia,34 City of Scappoose Four,Governor,,PRO,Chris Henry,5
+Columbia,34 City of Scappoose Four,Governor,,REP,Knute Buehler,526
+Columbia,34 City of Scappoose Four,State House,31,,Write-ins,1
+Columbia,34 City of Scappoose Four,State House,31,DEM,Brad Witt,564
+Columbia,34 City of Scappoose Four,State House,31,REP,Brian G Stout,478
+Columbia,34 City of Scappoose Four,State Senate,16,,Write-ins,6
+Columbia,34 City of Scappoose Four,State Senate,16,CON,Ray Biggs,183
+Columbia,34 City of Scappoose Four,State Senate,16,DEM,Betsy Johnson,823
+Columbia,34 City of Scappoose Four,U.S. House,1,,Write-ins,1
+Columbia,34 City of Scappoose Four,U.S. House,1,DEM,Suzanne Bonamici,566
+Columbia,34 City of Scappoose Four,U.S. House,1,LBT,Drew A Layda,55
+Columbia,34 City of Scappoose Four,U.S. House,1,REP,John Verbeek,410
+Columbia,35 SE Scappoose,Governor,,,Write-ins,1
+Columbia,35 SE Scappoose,Governor,,CON,Aaron Auer,6
+Columbia,35 SE Scappoose,Governor,,DEM,Kate Brown,412
+Columbia,35 SE Scappoose,Governor,,LBT,Nick Chen,12
+Columbia,35 SE Scappoose,Governor,,NON,Patrick Starnes,32
+Columbia,35 SE Scappoose,Governor,,PRO,Chris Henry,12
+Columbia,35 SE Scappoose,Governor,,REP,Knute Buehler,517
+Columbia,35 SE Scappoose,State House,31,,Write-ins,1
+Columbia,35 SE Scappoose,State House,31,DEM,Brad Witt,494
+Columbia,35 SE Scappoose,State House,31,REP,Brian G Stout,465
+Columbia,35 SE Scappoose,State Senate,16,,Write-ins,6
+Columbia,35 SE Scappoose,State Senate,16,CON,Ray Biggs,178
+Columbia,35 SE Scappoose,State Senate,16,DEM,Betsy Johnson,754
+Columbia,35 SE Scappoose,U.S. House,1,,Write-ins,1
+Columbia,35 SE Scappoose,U.S. House,1,DEM,Suzanne Bonamici,500
+Columbia,35 SE Scappoose,U.S. House,1,LBT,Drew A Layda,57
+Columbia,35 SE Scappoose,U.S. House,1,REP,John Verbeek,411
+Columbia,36 Canyon,Governor,,,Write-ins,1
+Columbia,36 Canyon,Governor,,CON,Aaron Auer,9
+Columbia,36 Canyon,Governor,,DEM,Kate Brown,171
+Columbia,36 Canyon,Governor,,LBT,Nick Chen,3
+Columbia,36 Canyon,Governor,,NON,Patrick Starnes,13
+Columbia,36 Canyon,Governor,,PRO,Chris Henry,0
+Columbia,36 Canyon,Governor,,REP,Knute Buehler,179
+Columbia,36 Canyon,State House,31,,Write-ins,1
+Columbia,36 Canyon,State House,31,DEM,Brad Witt,212
+Columbia,36 Canyon,State House,31,REP,Brian G Stout,159
+Columbia,36 Canyon,State Senate,16,,Write-ins,2
+Columbia,36 Canyon,State Senate,16,CON,Ray Biggs,75
+Columbia,36 Canyon,State Senate,16,DEM,Betsy Johnson,272
+Columbia,36 Canyon,U.S. House,1,,Write-ins,0
+Columbia,36 Canyon,U.S. House,1,DEM,Suzanne Bonamici,204
+Columbia,36 Canyon,U.S. House,1,LBT,Drew A Layda,11
+Columbia,36 Canyon,U.S. House,1,REP,John Verbeek,153
+Columbia,38 W Scappoose,Governor,,,Write-ins,2
+Columbia,38 W Scappoose,Governor,,CON,Aaron Auer,8
+Columbia,38 W Scappoose,Governor,,DEM,Kate Brown,151
+Columbia,38 W Scappoose,Governor,,LBT,Nick Chen,9
+Columbia,38 W Scappoose,Governor,,NON,Patrick Starnes,20
+Columbia,38 W Scappoose,Governor,,PRO,Chris Henry,3
+Columbia,38 W Scappoose,Governor,,REP,Knute Buehler,243
+Columbia,38 W Scappoose,State House,31,,Write-ins,0
+Columbia,38 W Scappoose,State House,31,DEM,Brad Witt,211
+Columbia,38 W Scappoose,State House,31,REP,Brian G Stout,210
+Columbia,38 W Scappoose,State Senate,16,,Write-ins,1
+Columbia,38 W Scappoose,State Senate,16,CON,Ray Biggs,91
+Columbia,38 W Scappoose,State Senate,16,DEM,Betsy Johnson,322
+Columbia,38 W Scappoose,U.S. House,1,,Write-ins,0
+Columbia,38 W Scappoose,U.S. House,1,DEM,Suzanne Bonamici,202
+Columbia,38 W Scappoose,U.S. House,1,LBT,Drew A Layda,20
+Columbia,38 W Scappoose,U.S. House,1,REP,John Verbeek,200
+Columbia,39 Sauvie Island,Governor,,,Write-ins,0
+Columbia,39 Sauvie Island,Governor,,CON,Aaron Auer,0
+Columbia,39 Sauvie Island,Governor,,DEM,Kate Brown,19
+Columbia,39 Sauvie Island,Governor,,LBT,Nick Chen,0
+Columbia,39 Sauvie Island,Governor,,NON,Patrick Starnes,0
+Columbia,39 Sauvie Island,Governor,,PRO,Chris Henry,0
+Columbia,39 Sauvie Island,Governor,,REP,Knute Buehler,22
+Columbia,39 Sauvie Island,State House,31,,Write-ins,0
+Columbia,39 Sauvie Island,State House,31,DEM,Brad Witt,24
+Columbia,39 Sauvie Island,State House,31,REP,Brian G Stout,14
+Columbia,39 Sauvie Island,State Senate,16,,Write-ins,1
+Columbia,39 Sauvie Island,State Senate,16,CON,Ray Biggs,3
+Columbia,39 Sauvie Island,State Senate,16,DEM,Betsy Johnson,32
+Columbia,39 Sauvie Island,U.S. House,1,,Write-ins,0
+Columbia,39 Sauvie Island,U.S. House,1,DEM,Suzanne Bonamici,20
+Columbia,39 Sauvie Island,U.S. House,1,LBT,Drew A Layda,1
+Columbia,39 Sauvie Island,U.S. House,1,REP,John Verbeek,18
+Columbia,40 Yankton,Governor,,,Write-ins,3
+Columbia,40 Yankton,Governor,,CON,Aaron Auer,15
+Columbia,40 Yankton,Governor,,DEM,Kate Brown,314
+Columbia,40 Yankton,Governor,,LBT,Nick Chen,15
+Columbia,40 Yankton,Governor,,NON,Patrick Starnes,25
+Columbia,40 Yankton,Governor,,PRO,Chris Henry,4
+Columbia,40 Yankton,Governor,,REP,Knute Buehler,500
+Columbia,40 Yankton,State House,31,,Write-ins,4
+Columbia,40 Yankton,State House,31,DEM,Brad Witt,417
+Columbia,40 Yankton,State House,31,REP,Brian G Stout,432
+Columbia,40 Yankton,State Senate,16,,Write-ins,6
+Columbia,40 Yankton,State Senate,16,CON,Ray Biggs,170
+Columbia,40 Yankton,State Senate,16,DEM,Betsy Johnson,637
+Columbia,40 Yankton,U.S. House,1,,Write-ins,2
+Columbia,40 Yankton,U.S. House,1,DEM,Suzanne Bonamici,409
+Columbia,40 Yankton,U.S. House,1,LBT,Drew A Layda,44
+Columbia,40 Yankton,U.S. House,1,REP,John Verbeek,398
+Columbia,41 City of Vernonia,Governor,,,Write-ins,0
+Columbia,41 City of Vernonia,Governor,,CON,Aaron Auer,15
+Columbia,41 City of Vernonia,Governor,,DEM,Kate Brown,340
+Columbia,41 City of Vernonia,Governor,,LBT,Nick Chen,18
+Columbia,41 City of Vernonia,Governor,,NON,Patrick Starnes,46
+Columbia,41 City of Vernonia,Governor,,PRO,Chris Henry,7
+Columbia,41 City of Vernonia,Governor,,REP,Knute Buehler,607
+Columbia,41 City of Vernonia,State House,31,,Write-ins,3
+Columbia,41 City of Vernonia,State House,31,DEM,Brad Witt,458
+Columbia,41 City of Vernonia,State House,31,REP,Brian G Stout,549
+Columbia,41 City of Vernonia,State Senate,16,,Write-ins,4
+Columbia,41 City of Vernonia,State Senate,16,CON,Ray Biggs,217
+Columbia,41 City of Vernonia,State Senate,16,DEM,Betsy Johnson,754
+Columbia,41 City of Vernonia,U.S. House,1,,Write-ins,1
+Columbia,41 City of Vernonia,U.S. House,1,DEM,Suzanne Bonamici,434
+Columbia,41 City of Vernonia,U.S. House,1,LBT,Drew A Layda,68
+Columbia,41 City of Vernonia,U.S. House,1,REP,John Verbeek,497
+Columbia,44 Rural Vernonia,Governor,,,Write-ins,0
+Columbia,44 Rural Vernonia,Governor,,CON,Aaron Auer,8
+Columbia,44 Rural Vernonia,Governor,,DEM,Kate Brown,187
+Columbia,44 Rural Vernonia,Governor,,LBT,Nick Chen,11
+Columbia,44 Rural Vernonia,Governor,,NON,Patrick Starnes,21
+Columbia,44 Rural Vernonia,Governor,,PRO,Chris Henry,4
+Columbia,44 Rural Vernonia,Governor,,REP,Knute Buehler,404
+Columbia,44 Rural Vernonia,State House,31,,Write-ins,1
+Columbia,44 Rural Vernonia,State House,31,DEM,Brad Witt,238
+Columbia,44 Rural Vernonia,State House,31,REP,Brian G Stout,386
+Columbia,44 Rural Vernonia,State Senate,16,,Write-ins,0
+Columbia,44 Rural Vernonia,State Senate,16,CON,Ray Biggs,130
+Columbia,44 Rural Vernonia,State Senate,16,DEM,Betsy Johnson,467
+Columbia,44 Rural Vernonia,U.S. House,1,,Write-ins,0
+Columbia,44 Rural Vernonia,U.S. House,1,DEM,Suzanne Bonamici,235
+Columbia,44 Rural Vernonia,U.S. House,1,LBT,Drew A Layda,38
+Columbia,44 Rural Vernonia,U.S. House,1,REP,John Verbeek,357
+Columbia,46 Apiary,Governor,,,Write-ins,1
+Columbia,46 Apiary,Governor,,CON,Aaron Auer,23
+Columbia,46 Apiary,Governor,,DEM,Kate Brown,174
+Columbia,46 Apiary,Governor,,LBT,Nick Chen,7
+Columbia,46 Apiary,Governor,,NON,Patrick Starnes,27
+Columbia,46 Apiary,Governor,,PRO,Chris Henry,6
+Columbia,46 Apiary,Governor,,REP,Knute Buehler,311
+Columbia,46 Apiary,State House,31,,Write-ins,2
+Columbia,46 Apiary,State House,31,DEM,Brad Witt,228
+Columbia,46 Apiary,State House,31,REP,Brian G Stout,309
+Columbia,46 Apiary,State Senate,16,,Write-ins,3
+Columbia,46 Apiary,State Senate,16,CON,Ray Biggs,125
+Columbia,46 Apiary,State Senate,16,DEM,Betsy Johnson,382
+Columbia,46 Apiary,U.S. House,1,,Write-ins,0
+Columbia,46 Apiary,U.S. House,1,DEM,Suzanne Bonamici,222
+Columbia,46 Apiary,U.S. House,1,LBT,Drew A Layda,35
+Columbia,46 Apiary,U.S. House,1,REP,John Verbeek,278
+Columbia,47 Chapman,Governor,,,Write-ins,0
+Columbia,47 Chapman,Governor,,CON,Aaron Auer,9
+Columbia,47 Chapman,Governor,,DEM,Kate Brown,306
+Columbia,47 Chapman,Governor,,LBT,Nick Chen,10
+Columbia,47 Chapman,Governor,,NON,Patrick Starnes,28
+Columbia,47 Chapman,Governor,,PRO,Chris Henry,4
+Columbia,47 Chapman,Governor,,REP,Knute Buehler,357
+Columbia,47 Chapman,State House,31,,Write-ins,2
+Columbia,47 Chapman,State House,31,DEM,Brad Witt,376
+Columbia,47 Chapman,State House,31,REP,Brian G Stout,319
+Columbia,47 Chapman,State Senate,16,,Write-ins,5
+Columbia,47 Chapman,State Senate,16,CON,Ray Biggs,129
+Columbia,47 Chapman,State Senate,16,DEM,Betsy Johnson,543
+Columbia,47 Chapman,U.S. House,1,,Write-ins,1
+Columbia,47 Chapman,U.S. House,1,DEM,Suzanne Bonamici,386
+Columbia,47 Chapman,U.S. House,1,LBT,Drew A Layda,38
+Columbia,47 Chapman,U.S. House,1,REP,John Verbeek,277
+Columbia,48 S Deer Island,Governor,,,Write-ins,2
+Columbia,48 S Deer Island,Governor,,CON,Aaron Auer,2
+Columbia,48 S Deer Island,Governor,,DEM,Kate Brown,86
+Columbia,48 S Deer Island,Governor,,LBT,Nick Chen,9
+Columbia,48 S Deer Island,Governor,,NON,Patrick Starnes,13
+Columbia,48 S Deer Island,Governor,,PRO,Chris Henry,2
+Columbia,48 S Deer Island,Governor,,REP,Knute Buehler,163
+Columbia,48 S Deer Island,State House,31,,Write-ins,2
+Columbia,48 S Deer Island,State House,31,DEM,Brad Witt,115
+Columbia,48 S Deer Island,State House,31,REP,Brian G Stout,160
+Columbia,48 S Deer Island,State Senate,16,,Write-ins,7
+Columbia,48 S Deer Island,State Senate,16,CON,Ray Biggs,67
+Columbia,48 S Deer Island,State Senate,16,DEM,Betsy Johnson,187
+Columbia,48 S Deer Island,U.S. House,1,,Write-ins,0
+Columbia,48 S Deer Island,U.S. House,1,DEM,Suzanne Bonamici,107
+Columbia,48 S Deer Island,U.S. House,1,LBT,Drew A Layda,16
+Columbia,48 S Deer Island,U.S. House,1,REP,John Verbeek,147
+Columbia,49 N Deer Island,Governor,,,Write-ins,1
+Columbia,49 N Deer Island,Governor,,CON,Aaron Auer,12
+Columbia,49 N Deer Island,Governor,,DEM,Kate Brown,156
+Columbia,49 N Deer Island,Governor,,LBT,Nick Chen,5
+Columbia,49 N Deer Island,Governor,,NON,Patrick Starnes,21
+Columbia,49 N Deer Island,Governor,,PRO,Chris Henry,0
+Columbia,49 N Deer Island,Governor,,REP,Knute Buehler,226
+Columbia,49 N Deer Island,State House,31,,Write-ins,2
+Columbia,49 N Deer Island,State House,31,DEM,Brad Witt,185
+Columbia,49 N Deer Island,State House,31,REP,Brian G Stout,230
+Columbia,49 N Deer Island,State Senate,16,,Write-ins,9
+Columbia,49 N Deer Island,State Senate,16,CON,Ray Biggs,117
+Columbia,49 N Deer Island,State Senate,16,DEM,Betsy Johnson,279
+Columbia,49 N Deer Island,U.S. House,1,,Write-ins,1
+Columbia,49 N Deer Island,U.S. House,1,DEM,Suzanne Bonamici,184
+Columbia,49 N Deer Island,U.S. House,1,LBT,Drew A Layda,16
+Columbia,49 N Deer Island,U.S. House,1,REP,John Verbeek,214
+Columbia,50 City of Prescott,Governor,,,Write-ins,1
+Columbia,50 City of Prescott,Governor,,CON,Aaron Auer,3
+Columbia,50 City of Prescott,Governor,,DEM,Kate Brown,15
+Columbia,50 City of Prescott,Governor,,LBT,Nick Chen,1
+Columbia,50 City of Prescott,Governor,,NON,Patrick Starnes,3
+Columbia,50 City of Prescott,Governor,,PRO,Chris Henry,0
+Columbia,50 City of Prescott,Governor,,REP,Knute Buehler,23
+Columbia,50 City of Prescott,State House,31,,Write-ins,1
+Columbia,50 City of Prescott,State House,31,DEM,Brad Witt,26
+Columbia,50 City of Prescott,State House,31,REP,Brian G Stout,19
+Columbia,50 City of Prescott,State Senate,16,,Write-ins,1
+Columbia,50 City of Prescott,State Senate,16,CON,Ray Biggs,7
+Columbia,50 City of Prescott,State Senate,16,DEM,Betsy Johnson,38
+Columbia,50 City of Prescott,U.S. House,1,,Write-ins,1
+Columbia,50 City of Prescott,U.S. House,1,DEM,Suzanne Bonamici,24
+Columbia,50 City of Prescott,U.S. House,1,LBT,Drew A Layda,1
+Columbia,50 City of Prescott,U.S. House,1,REP,John Verbeek,19
+Columbia,51 Mist,Governor,,,Write-ins,2
+Columbia,51 Mist,Governor,,CON,Aaron Auer,3
+Columbia,51 Mist,Governor,,DEM,Kate Brown,88
+Columbia,51 Mist,Governor,,LBT,Nick Chen,8
+Columbia,51 Mist,Governor,,NON,Patrick Starnes,6
+Columbia,51 Mist,Governor,,PRO,Chris Henry,1
+Columbia,51 Mist,Governor,,REP,Knute Buehler,145
+Columbia,51 Mist,State House,31,,Write-ins,0
+Columbia,51 Mist,State House,31,DEM,Brad Witt,121
+Columbia,51 Mist,State House,31,REP,Brian G Stout,123
+Columbia,51 Mist,State Senate,16,,Write-ins,0
+Columbia,51 Mist,State Senate,16,CON,Ray Biggs,40
+Columbia,51 Mist,State Senate,16,DEM,Betsy Johnson,182
+Columbia,51 Mist,U.S. House,1,,Write-ins,0
+Columbia,51 Mist,U.S. House,1,DEM,Suzanne Bonamici,102
+Columbia,51 Mist,U.S. House,1,LBT,Drew A Layda,14
+Columbia,51 Mist,U.S. House,1,REP,John Verbeek,129
+Columbia,53 City of Columbia City,Governor,,,Write-ins,1
+Columbia,53 City of Columbia City,Governor,,CON,Aaron Auer,16
+Columbia,53 City of Columbia City,Governor,,DEM,Kate Brown,502
+Columbia,53 City of Columbia City,Governor,,LBT,Nick Chen,19
+Columbia,53 City of Columbia City,Governor,,NON,Patrick Starnes,44
+Columbia,53 City of Columbia City,Governor,,PRO,Chris Henry,11
+Columbia,53 City of Columbia City,Governor,,REP,Knute Buehler,560
+Columbia,53 City of Columbia City,State House,31,,Write-ins,0
+Columbia,53 City of Columbia City,State House,31,DEM,Brad Witt,631
+Columbia,53 City of Columbia City,State House,31,REP,Brian G Stout,504
+Columbia,53 City of Columbia City,State Senate,16,,Write-ins,0
+Columbia,53 City of Columbia City,State Senate,16,CON,Ray Biggs,225
+Columbia,53 City of Columbia City,State Senate,16,DEM,Betsy Johnson,867
+Columbia,53 City of Columbia City,U.S. House,1,,Write-ins,1
+Columbia,53 City of Columbia City,U.S. House,1,DEM,Suzanne Bonamici,646
+Columbia,53 City of Columbia City,U.S. House,1,LBT,Drew A Layda,35
+Columbia,53 City of Columbia City,U.S. House,1,REP,John Verbeek,451

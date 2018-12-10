@@ -1,0 +1,291 @@
+county,precinct,office,district,party,candidate,votes
+Lake,PRECINCT 1,Governor,,,Write-ins,2
+Lake,PRECINCT 1,Governor,,CON,Aaron Auer,4
+Lake,PRECINCT 1,Governor,,DEM,Kate Brown,14
+Lake,PRECINCT 1,Governor,,LBT,Nick Chen,3
+Lake,PRECINCT 1,Governor,,NON,Patrick Starnes,11
+Lake,PRECINCT 1,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 1,Governor,,REP,Knute Buehler,100
+Lake,PRECINCT 1,State House,55,,Write-ins,2
+Lake,PRECINCT 1,State House,55,DEM,Karen Rippberger,28
+Lake,PRECINCT 1,State House,55,REP,Mike McLane,101
+Lake,PRECINCT 1,U.S. House,2,,Write-ins,2
+Lake,PRECINCT 1,U.S. House,2,DEM,Jamie McLeod-Skinner,27
+Lake,PRECINCT 1,U.S. House,2,NON,Mark R Roberts,9
+Lake,PRECINCT 1,U.S. House,2,REP,Greg Walden,95
+Lake,PRECINCT 10,Governor,,,Write-ins,0
+Lake,PRECINCT 10,Governor,,CON,Aaron Auer,4
+Lake,PRECINCT 10,Governor,,DEM,Kate Brown,8
+Lake,PRECINCT 10,Governor,,LBT,Nick Chen,2
+Lake,PRECINCT 10,Governor,,NON,Patrick Starnes,3
+Lake,PRECINCT 10,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 10,Governor,,REP,Knute Buehler,167
+Lake,PRECINCT 10,State House,56,,Write-ins,0
+Lake,PRECINCT 10,State House,56,DEM,Taylor Tupper,11
+Lake,PRECINCT 10,State House,56,REP,E Werner Reschke,159
+Lake,PRECINCT 10,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 10,U.S. House,2,DEM,Jamie McLeod-Skinner,9
+Lake,PRECINCT 10,U.S. House,2,NON,Mark R Roberts,12
+Lake,PRECINCT 10,U.S. House,2,REP,Greg Walden,162
+Lake,PRECINCT 11,Governor,,,Write-ins,0
+Lake,PRECINCT 11,Governor,,CON,Aaron Auer,6
+Lake,PRECINCT 11,Governor,,DEM,Kate Brown,35
+Lake,PRECINCT 11,Governor,,LBT,Nick Chen,0
+Lake,PRECINCT 11,Governor,,NON,Patrick Starnes,10
+Lake,PRECINCT 11,Governor,,PRO,Chris Henry,3
+Lake,PRECINCT 11,Governor,,REP,Knute Buehler,174
+Lake,PRECINCT 11,State House,56,,Write-ins,1
+Lake,PRECINCT 11,State House,56,DEM,Taylor Tupper,46
+Lake,PRECINCT 11,State House,56,REP,E Werner Reschke,128
+Lake,PRECINCT 11,State House,60,,Write-ins,0
+Lake,PRECINCT 11,State House,60,REP,Lynn P Findley,32
+Lake,PRECINCT 11,State Senate,30,,Write-ins,0
+Lake,PRECINCT 11,State Senate,30,DEM,Solea Kabakov,4
+Lake,PRECINCT 11,State Senate,30,REP,Cliff Bentz,37
+Lake,PRECINCT 11,U.S. House,2,,Write-ins,1
+Lake,PRECINCT 11,U.S. House,2,DEM,Jamie McLeod-Skinner,41
+Lake,PRECINCT 11,U.S. House,2,NON,Mark R Roberts,13
+Lake,PRECINCT 11,U.S. House,2,REP,Greg Walden,174
+Lake,PRECINCT 12,Governor,,,Write-ins,1
+Lake,PRECINCT 12,Governor,,CON,Aaron Auer,5
+Lake,PRECINCT 12,Governor,,DEM,Kate Brown,49
+Lake,PRECINCT 12,Governor,,LBT,Nick Chen,3
+Lake,PRECINCT 12,Governor,,NON,Patrick Starnes,14
+Lake,PRECINCT 12,Governor,,PRO,Chris Henry,1
+Lake,PRECINCT 12,Governor,,REP,Knute Buehler,333
+Lake,PRECINCT 12,State House,56,,Write-ins,1
+Lake,PRECINCT 12,State House,56,DEM,Taylor Tupper,54
+Lake,PRECINCT 12,State House,56,REP,E Werner Reschke,327
+Lake,PRECINCT 12,U.S. House,2,,Write-ins,1
+Lake,PRECINCT 12,U.S. House,2,DEM,Jamie McLeod-Skinner,60
+Lake,PRECINCT 12,U.S. House,2,NON,Mark R Roberts,29
+Lake,PRECINCT 12,U.S. House,2,REP,Greg Walden,321
+Lake,PRECINCT 13,Governor,,,Write-ins,0
+Lake,PRECINCT 13,Governor,,CON,Aaron Auer,25
+Lake,PRECINCT 13,Governor,,DEM,Kate Brown,102
+Lake,PRECINCT 13,Governor,,LBT,Nick Chen,10
+Lake,PRECINCT 13,Governor,,NON,Patrick Starnes,29
+Lake,PRECINCT 13,Governor,,PRO,Chris Henry,3
+Lake,PRECINCT 13,Governor,,REP,Knute Buehler,466
+Lake,PRECINCT 13,State House,55,,Write-ins,0
+Lake,PRECINCT 13,State House,55,DEM,Karen Rippberger,128
+Lake,PRECINCT 13,State House,55,REP,Mike McLane,483
+Lake,PRECINCT 13,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 13,U.S. House,2,DEM,Jamie McLeod-Skinner,115
+Lake,PRECINCT 13,U.S. House,2,NON,Mark R Roberts,53
+Lake,PRECINCT 13,U.S. House,2,REP,Greg Walden,462
+Lake,PRECINCT 14,Governor,,,Write-ins,0
+Lake,PRECINCT 14,Governor,,CON,Aaron Auer,0
+Lake,PRECINCT 14,Governor,,DEM,Kate Brown,20
+Lake,PRECINCT 14,Governor,,LBT,Nick Chen,0
+Lake,PRECINCT 14,Governor,,NON,Patrick Starnes,2
+Lake,PRECINCT 14,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 14,Governor,,REP,Knute Buehler,97
+Lake,PRECINCT 14,State House,55,,Write-ins,0
+Lake,PRECINCT 14,State House,55,DEM,Karen Rippberger,18
+Lake,PRECINCT 14,State House,55,REP,Mike McLane,99
+Lake,PRECINCT 14,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 14,U.S. House,2,DEM,Jamie McLeod-Skinner,20
+Lake,PRECINCT 14,U.S. House,2,NON,Mark R Roberts,6
+Lake,PRECINCT 14,U.S. House,2,REP,Greg Walden,95
+Lake,PRECINCT 15,Governor,,,Write-ins,0
+Lake,PRECINCT 15,Governor,,CON,Aaron Auer,3
+Lake,PRECINCT 15,Governor,,DEM,Kate Brown,8
+Lake,PRECINCT 15,Governor,,LBT,Nick Chen,3
+Lake,PRECINCT 15,Governor,,NON,Patrick Starnes,8
+Lake,PRECINCT 15,Governor,,PRO,Chris Henry,1
+Lake,PRECINCT 15,Governor,,REP,Knute Buehler,94
+Lake,PRECINCT 15,State House,56,,Write-ins,0
+Lake,PRECINCT 15,State House,56,DEM,Taylor Tupper,13
+Lake,PRECINCT 15,State House,56,REP,E Werner Reschke,96
+Lake,PRECINCT 15,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 15,U.S. House,2,DEM,Jamie McLeod-Skinner,14
+Lake,PRECINCT 15,U.S. House,2,NON,Mark R Roberts,4
+Lake,PRECINCT 15,U.S. House,2,REP,Greg Walden,99
+Lake,PRECINCT 16,Governor,,,Write-ins,0
+Lake,PRECINCT 16,Governor,,CON,Aaron Auer,2
+Lake,PRECINCT 16,Governor,,DEM,Kate Brown,14
+Lake,PRECINCT 16,Governor,,LBT,Nick Chen,3
+Lake,PRECINCT 16,Governor,,NON,Patrick Starnes,7
+Lake,PRECINCT 16,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 16,Governor,,REP,Knute Buehler,51
+Lake,PRECINCT 16,State House,60,,Write-ins,0
+Lake,PRECINCT 16,State House,60,REP,Lynn P Findley,46
+Lake,PRECINCT 16,State Senate,30,,Write-ins,0
+Lake,PRECINCT 16,State Senate,30,DEM,Solea Kabakov,19
+Lake,PRECINCT 16,State Senate,30,REP,Cliff Bentz,59
+Lake,PRECINCT 16,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 16,U.S. House,2,DEM,Jamie McLeod-Skinner,19
+Lake,PRECINCT 16,U.S. House,2,NON,Mark R Roberts,11
+Lake,PRECINCT 16,U.S. House,2,REP,Greg Walden,51
+Lake,PRECINCT 18,Governor,,,Write-ins,0
+Lake,PRECINCT 18,Governor,,CON,Aaron Auer,1
+Lake,PRECINCT 18,Governor,,DEM,Kate Brown,0
+Lake,PRECINCT 18,Governor,,LBT,Nick Chen,0
+Lake,PRECINCT 18,Governor,,NON,Patrick Starnes,0
+Lake,PRECINCT 18,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 18,Governor,,REP,Knute Buehler,41
+Lake,PRECINCT 18,State House,55,,Write-ins,0
+Lake,PRECINCT 18,State House,55,DEM,Karen Rippberger,0
+Lake,PRECINCT 18,State House,55,REP,Mike McLane,22
+Lake,PRECINCT 18,State House,60,,Write-ins,0
+Lake,PRECINCT 18,State House,60,REP,Lynn P Findley,11
+Lake,PRECINCT 18,State Senate,30,,Write-ins,0
+Lake,PRECINCT 18,State Senate,30,DEM,Solea Kabakov,0
+Lake,PRECINCT 18,State Senate,30,REP,Cliff Bentz,20
+Lake,PRECINCT 18,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 18,U.S. House,2,DEM,Jamie McLeod-Skinner,2
+Lake,PRECINCT 18,U.S. House,2,NON,Mark R Roberts,3
+Lake,PRECINCT 18,U.S. House,2,REP,Greg Walden,37
+Lake,PRECINCT 2,Governor,,,Write-ins,0
+Lake,PRECINCT 2,Governor,,CON,Aaron Auer,1
+Lake,PRECINCT 2,Governor,,DEM,Kate Brown,14
+Lake,PRECINCT 2,Governor,,LBT,Nick Chen,1
+Lake,PRECINCT 2,Governor,,NON,Patrick Starnes,2
+Lake,PRECINCT 2,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 2,Governor,,REP,Knute Buehler,55
+Lake,PRECINCT 2,State House,55,,Write-ins,0
+Lake,PRECINCT 2,State House,55,DEM,Karen Rippberger,15
+Lake,PRECINCT 2,State House,55,REP,Mike McLane,59
+Lake,PRECINCT 2,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 2,U.S. House,2,DEM,Jamie McLeod-Skinner,18
+Lake,PRECINCT 2,U.S. House,2,NON,Mark R Roberts,7
+Lake,PRECINCT 2,U.S. House,2,REP,Greg Walden,53
+Lake,PRECINCT 20,Governor,,,Write-ins,0
+Lake,PRECINCT 20,Governor,,CON,Aaron Auer,8
+Lake,PRECINCT 20,Governor,,DEM,Kate Brown,19
+Lake,PRECINCT 20,Governor,,LBT,Nick Chen,0
+Lake,PRECINCT 20,Governor,,NON,Patrick Starnes,9
+Lake,PRECINCT 20,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 20,Governor,,REP,Knute Buehler,125
+Lake,PRECINCT 20,State House,56,,Write-ins,0
+Lake,PRECINCT 20,State House,56,DEM,Taylor Tupper,33
+Lake,PRECINCT 20,State House,56,REP,E Werner Reschke,121
+Lake,PRECINCT 20,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 20,U.S. House,2,DEM,Jamie McLeod-Skinner,26
+Lake,PRECINCT 20,U.S. House,2,NON,Mark R Roberts,12
+Lake,PRECINCT 20,U.S. House,2,REP,Greg Walden,122
+Lake,PRECINCT 21,Governor,,,Write-ins,2
+Lake,PRECINCT 21,Governor,,CON,Aaron Auer,3
+Lake,PRECINCT 21,Governor,,DEM,Kate Brown,48
+Lake,PRECINCT 21,Governor,,LBT,Nick Chen,6
+Lake,PRECINCT 21,Governor,,NON,Patrick Starnes,15
+Lake,PRECINCT 21,Governor,,PRO,Chris Henry,1
+Lake,PRECINCT 21,Governor,,REP,Knute Buehler,148
+Lake,PRECINCT 21,State House,56,,Write-ins,0
+Lake,PRECINCT 21,State House,56,DEM,Taylor Tupper,50
+Lake,PRECINCT 21,State House,56,REP,E Werner Reschke,162
+Lake,PRECINCT 21,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 21,U.S. House,2,DEM,Jamie McLeod-Skinner,57
+Lake,PRECINCT 21,U.S. House,2,NON,Mark R Roberts,10
+Lake,PRECINCT 21,U.S. House,2,REP,Greg Walden,156
+Lake,PRECINCT 3,Governor,,,Write-ins,0
+Lake,PRECINCT 3,Governor,,CON,Aaron Auer,0
+Lake,PRECINCT 3,Governor,,DEM,Kate Brown,16
+Lake,PRECINCT 3,Governor,,LBT,Nick Chen,6
+Lake,PRECINCT 3,Governor,,NON,Patrick Starnes,5
+Lake,PRECINCT 3,Governor,,PRO,Chris Henry,1
+Lake,PRECINCT 3,Governor,,REP,Knute Buehler,171
+Lake,PRECINCT 3,State House,55,,Write-ins,0
+Lake,PRECINCT 3,State House,55,DEM,Karen Rippberger,24
+Lake,PRECINCT 3,State House,55,REP,Mike McLane,173
+Lake,PRECINCT 3,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 3,U.S. House,2,DEM,Jamie McLeod-Skinner,27
+Lake,PRECINCT 3,U.S. House,2,NON,Mark R Roberts,11
+Lake,PRECINCT 3,U.S. House,2,REP,Greg Walden,164
+Lake,PRECINCT 4,Governor,,,Write-ins,0
+Lake,PRECINCT 4,Governor,,CON,Aaron Auer,1
+Lake,PRECINCT 4,Governor,,DEM,Kate Brown,32
+Lake,PRECINCT 4,Governor,,LBT,Nick Chen,1
+Lake,PRECINCT 4,Governor,,NON,Patrick Starnes,6
+Lake,PRECINCT 4,Governor,,PRO,Chris Henry,1
+Lake,PRECINCT 4,Governor,,REP,Knute Buehler,180
+Lake,PRECINCT 4,State House,55,,Write-ins,0
+Lake,PRECINCT 4,State House,55,DEM,Karen Rippberger,5
+Lake,PRECINCT 4,State House,55,REP,Mike McLane,8
+Lake,PRECINCT 4,State House,56,,Write-ins,1
+Lake,PRECINCT 4,State House,56,DEM,Taylor Tupper,16
+Lake,PRECINCT 4,State House,56,REP,E Werner Reschke,93
+Lake,PRECINCT 4,State House,60,,Write-ins,0
+Lake,PRECINCT 4,State House,60,REP,Lynn P Findley,57
+Lake,PRECINCT 4,State Senate,30,,Write-ins,0
+Lake,PRECINCT 4,State Senate,30,DEM,Solea Kabakov,8
+Lake,PRECINCT 4,State Senate,30,REP,Cliff Bentz,82
+Lake,PRECINCT 4,U.S. House,2,,Write-ins,1
+Lake,PRECINCT 4,U.S. House,2,DEM,Jamie McLeod-Skinner,28
+Lake,PRECINCT 4,U.S. House,2,NON,Mark R Roberts,10
+Lake,PRECINCT 4,U.S. House,2,REP,Greg Walden,184
+Lake,PRECINCT 5,Governor,,,Write-ins,0
+Lake,PRECINCT 5,Governor,,CON,Aaron Auer,0
+Lake,PRECINCT 5,Governor,,DEM,Kate Brown,4
+Lake,PRECINCT 5,Governor,,LBT,Nick Chen,1
+Lake,PRECINCT 5,Governor,,NON,Patrick Starnes,0
+Lake,PRECINCT 5,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 5,Governor,,REP,Knute Buehler,44
+Lake,PRECINCT 5,State House,60,,Write-ins,1
+Lake,PRECINCT 5,State House,60,REP,Lynn P Findley,28
+Lake,PRECINCT 5,State Senate,30,,Write-ins,0
+Lake,PRECINCT 5,State Senate,30,DEM,Solea Kabakov,5
+Lake,PRECINCT 5,State Senate,30,REP,Cliff Bentz,44
+Lake,PRECINCT 5,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 5,U.S. House,2,DEM,Jamie McLeod-Skinner,6
+Lake,PRECINCT 5,U.S. House,2,NON,Mark R Roberts,2
+Lake,PRECINCT 5,U.S. House,2,REP,Greg Walden,42
+Lake,PRECINCT 6,Governor,,,Write-ins,0
+Lake,PRECINCT 6,Governor,,CON,Aaron Auer,1
+Lake,PRECINCT 6,Governor,,DEM,Kate Brown,5
+Lake,PRECINCT 6,Governor,,LBT,Nick Chen,1
+Lake,PRECINCT 6,Governor,,NON,Patrick Starnes,2
+Lake,PRECINCT 6,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 6,Governor,,REP,Knute Buehler,57
+Lake,PRECINCT 6,State House,60,,Write-ins,0
+Lake,PRECINCT 6,State House,60,REP,Lynn P Findley,53
+Lake,PRECINCT 6,State Senate,30,,Write-ins,0
+Lake,PRECINCT 6,State Senate,30,DEM,Solea Kabakov,5
+Lake,PRECINCT 6,State Senate,30,REP,Cliff Bentz,59
+Lake,PRECINCT 6,U.S. House,2,,Write-ins,0
+Lake,PRECINCT 6,U.S. House,2,DEM,Jamie McLeod-Skinner,5
+Lake,PRECINCT 6,U.S. House,2,NON,Mark R Roberts,2
+Lake,PRECINCT 6,U.S. House,2,REP,Greg Walden,60
+Lake,PRECINCT 7,Governor,,,Write-ins,0
+Lake,PRECINCT 7,Governor,,CON,Aaron Auer,7
+Lake,PRECINCT 7,Governor,,DEM,Kate Brown,23
+Lake,PRECINCT 7,Governor,,LBT,Nick Chen,4
+Lake,PRECINCT 7,Governor,,NON,Patrick Starnes,9
+Lake,PRECINCT 7,Governor,,PRO,Chris Henry,2
+Lake,PRECINCT 7,Governor,,REP,Knute Buehler,135
+Lake,PRECINCT 7,State House,56,,Write-ins,0
+Lake,PRECINCT 7,State House,56,DEM,Taylor Tupper,29
+Lake,PRECINCT 7,State House,56,REP,E Werner Reschke,142
+Lake,PRECINCT 7,U.S. House,2,,Write-ins,1
+Lake,PRECINCT 7,U.S. House,2,DEM,Jamie McLeod-Skinner,28
+Lake,PRECINCT 7,U.S. House,2,NON,Mark R Roberts,6
+Lake,PRECINCT 7,U.S. House,2,REP,Greg Walden,148
+Lake,PRECINCT 8,Governor,,,Write-ins,0
+Lake,PRECINCT 8,Governor,,CON,Aaron Auer,4
+Lake,PRECINCT 8,Governor,,DEM,Kate Brown,33
+Lake,PRECINCT 8,Governor,,LBT,Nick Chen,6
+Lake,PRECINCT 8,Governor,,NON,Patrick Starnes,8
+Lake,PRECINCT 8,Governor,,PRO,Chris Henry,1
+Lake,PRECINCT 8,Governor,,REP,Knute Buehler,151
+Lake,PRECINCT 8,State House,56,,Write-ins,1
+Lake,PRECINCT 8,State House,56,DEM,Taylor Tupper,42
+Lake,PRECINCT 8,State House,56,REP,E Werner Reschke,149
+Lake,PRECINCT 8,U.S. House,2,,Write-ins,1
+Lake,PRECINCT 8,U.S. House,2,DEM,Jamie McLeod-Skinner,37
+Lake,PRECINCT 8,U.S. House,2,NON,Mark R Roberts,14
+Lake,PRECINCT 8,U.S. House,2,REP,Greg Walden,150
+Lake,PRECINCT 9,Governor,,,Write-ins,0
+Lake,PRECINCT 9,Governor,,CON,Aaron Auer,6
+Lake,PRECINCT 9,Governor,,DEM,Kate Brown,32
+Lake,PRECINCT 9,Governor,,LBT,Nick Chen,2
+Lake,PRECINCT 9,Governor,,NON,Patrick Starnes,15
+Lake,PRECINCT 9,Governor,,PRO,Chris Henry,0
+Lake,PRECINCT 9,Governor,,REP,Knute Buehler,185
+Lake,PRECINCT 9,State House,56,,Write-ins,0
+Lake,PRECINCT 9,State House,56,DEM,Taylor Tupper,43
+Lake,PRECINCT 9,State House,56,REP,E Werner Reschke,189
+Lake,PRECINCT 9,U.S. House,2,,Write-ins,1
+Lake,PRECINCT 9,U.S. House,2,DEM,Jamie McLeod-Skinner,32
+Lake,PRECINCT 9,U.S. House,2,NON,Mark R Roberts,14
+Lake,PRECINCT 9,U.S. House,2,REP,Greg Walden,193

@@ -1,0 +1,52 @@
+county,precinct,office,district,party,candidate,votes
+Wheeler,FOS,Governor,,,Write-ins,0
+Wheeler,FOS,Governor,,CON,Aaron Auer,5
+Wheeler,FOS,Governor,,DEM,Kate Brown,76
+Wheeler,FOS,Governor,,LBT,Nick Chen,5
+Wheeler,FOS,Governor,,NON,Patrick Starnes,19
+Wheeler,FOS,Governor,,PRO,Chris Henry,2
+Wheeler,FOS,Governor,,REP,Knute Buehler,260
+Wheeler,FOS,State House,59,,Write-ins,0
+Wheeler,FOS,State House,59,DEM,Darcy Long-Curtiss,76
+Wheeler,FOS,State House,59,REP,Daniel G Bonham,254
+Wheeler,FOS,State Senate,30,,Write-ins,0
+Wheeler,FOS,State Senate,30,DEM,Solea Kabakov,70
+Wheeler,FOS,State Senate,30,REP,Cliff Bentz,262
+Wheeler,FOS,U.S. House,2,,Write-ins,0
+Wheeler,FOS,U.S. House,2,DEM,Jamie McLeod-Skinner,84
+Wheeler,FOS,U.S. House,2,NON,Mark R Roberts,27
+Wheeler,FOS,U.S. House,2,REP,Greg Walden,253
+Wheeler,MIT,Governor,,,Write-ins,0
+Wheeler,MIT,Governor,,CON,Aaron Auer,1
+Wheeler,MIT,Governor,,DEM,Kate Brown,43
+Wheeler,MIT,Governor,,LBT,Nick Chen,5
+Wheeler,MIT,Governor,,NON,Patrick Starnes,7
+Wheeler,MIT,Governor,,PRO,Chris Henry,0
+Wheeler,MIT,Governor,,REP,Knute Buehler,152
+Wheeler,MIT,State House,59,,Write-ins,1
+Wheeler,MIT,State House,59,DEM,Darcy Long-Curtiss,41
+Wheeler,MIT,State House,59,REP,Daniel G Bonham,152
+Wheeler,MIT,State Senate,30,,Write-ins,0
+Wheeler,MIT,State Senate,30,DEM,Solea Kabakov,43
+Wheeler,MIT,State Senate,30,REP,Cliff Bentz,156
+Wheeler,MIT,U.S. House,2,,Write-ins,0
+Wheeler,MIT,U.S. House,2,DEM,Jamie McLeod-Skinner,45
+Wheeler,MIT,U.S. House,2,NON,Mark R Roberts,7
+Wheeler,MIT,U.S. House,2,REP,Greg Walden,156
+Wheeler,SPR,Governor,,,Write-ins,0
+Wheeler,SPR,Governor,,CON,Aaron Auer,4
+Wheeler,SPR,Governor,,DEM,Kate Brown,39
+Wheeler,SPR,Governor,,LBT,Nick Chen,5
+Wheeler,SPR,Governor,,NON,Patrick Starnes,12
+Wheeler,SPR,Governor,,PRO,Chris Henry,1
+Wheeler,SPR,Governor,,REP,Knute Buehler,182
+Wheeler,SPR,State House,59,,Write-ins,0
+Wheeler,SPR,State House,59,DEM,Darcy Long-Curtiss,38
+Wheeler,SPR,State House,59,REP,Daniel G Bonham,187
+Wheeler,SPR,State Senate,30,,Write-ins,0
+Wheeler,SPR,State Senate,30,DEM,Solea Kabakov,33
+Wheeler,SPR,State Senate,30,REP,Cliff Bentz,201
+Wheeler,SPR,U.S. House,2,,Write-ins,0
+Wheeler,SPR,U.S. House,2,DEM,Jamie McLeod-Skinner,48
+Wheeler,SPR,U.S. House,2,NON,Mark R Roberts,14
+Wheeler,SPR,U.S. House,2,REP,Greg Walden,183

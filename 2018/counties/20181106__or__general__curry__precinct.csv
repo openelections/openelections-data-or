@@ -1,0 +1,487 @@
+county,precinct,office,district,party,candidate,votes
+Curry,PRC0001 Agness,Governor,,,Write-ins,2
+Curry,PRC0001 Agness,Governor,,CON,Aaron Auer,0
+Curry,PRC0001 Agness,Governor,,DEM,Kate Brown,32
+Curry,PRC0001 Agness,Governor,,LBT,Nick Chen,0
+Curry,PRC0001 Agness,Governor,,NON,Patrick Starnes,2
+Curry,PRC0001 Agness,Governor,,PRO,Chris Henry,0
+Curry,PRC0001 Agness,Governor,,REP,Knute Buehler,36
+Curry,PRC0001 Agness,State House,01,,Write-ins,0
+Curry,PRC0001 Agness,State House,01,DEM,Eldon Rollins,31
+Curry,PRC0001 Agness,State House,01,REP,David Brock Smith,38
+Curry,PRC0001 Agness,State Senate,01,,Write-ins,0
+Curry,PRC0001 Agness,State Senate,01,DEM,Shannon Souza,38
+Curry,PRC0001 Agness,State Senate,01,REP,Dallas Heard,32
+Curry,PRC0001 Agness,U.S. House,4,,Write-ins,1
+Curry,PRC0001 Agness,U.S. House,4,DEM,Peter DeFazio,37
+Curry,PRC0001 Agness,U.S. House,4,LBT,Richard R Jacobson,1
+Curry,PRC0001 Agness,U.S. House,4,PGP,Mike Beilstein,0
+Curry,PRC0001 Agness,U.S. House,4,REP,Art Robinson,31
+Curry,PRC0002 S Chetco,Governor,,,Write-ins,2
+Curry,PRC0002 S Chetco,Governor,,CON,Aaron Auer,7
+Curry,PRC0002 S Chetco,Governor,,DEM,Kate Brown,108
+Curry,PRC0002 S Chetco,Governor,,LBT,Nick Chen,10
+Curry,PRC0002 S Chetco,Governor,,NON,Patrick Starnes,20
+Curry,PRC0002 S Chetco,Governor,,PRO,Chris Henry,0
+Curry,PRC0002 S Chetco,Governor,,REP,Knute Buehler,217
+Curry,PRC0002 S Chetco,State House,01,,Write-ins,1
+Curry,PRC0002 S Chetco,State House,01,DEM,Eldon Rollins,109
+Curry,PRC0002 S Chetco,State House,01,REP,David Brock Smith,244
+Curry,PRC0002 S Chetco,State Senate,01,,Write-ins,1
+Curry,PRC0002 S Chetco,State Senate,01,DEM,Shannon Souza,130
+Curry,PRC0002 S Chetco,State Senate,01,REP,Dallas Heard,229
+Curry,PRC0002 S Chetco,U.S. House,4,,Write-ins,0
+Curry,PRC0002 S Chetco,U.S. House,4,DEM,Peter DeFazio,140
+Curry,PRC0002 S Chetco,U.S. House,4,LBT,Richard R Jacobson,6
+Curry,PRC0002 S Chetco,U.S. House,4,PGP,Mike Beilstein,3
+Curry,PRC0002 S Chetco,U.S. House,4,REP,Art Robinson,215
+Curry,PRC0003 Floras Creek,Governor,,,Write-ins,0
+Curry,PRC0003 Floras Creek,Governor,,CON,Aaron Auer,7
+Curry,PRC0003 Floras Creek,Governor,,DEM,Kate Brown,151
+Curry,PRC0003 Floras Creek,Governor,,LBT,Nick Chen,5
+Curry,PRC0003 Floras Creek,Governor,,NON,Patrick Starnes,15
+Curry,PRC0003 Floras Creek,Governor,,PRO,Chris Henry,0
+Curry,PRC0003 Floras Creek,Governor,,REP,Knute Buehler,161
+Curry,PRC0003 Floras Creek,State House,01,,Write-ins,3
+Curry,PRC0003 Floras Creek,State House,01,DEM,Eldon Rollins,134
+Curry,PRC0003 Floras Creek,State House,01,REP,David Brock Smith,189
+Curry,PRC0003 Floras Creek,State Senate,01,,Write-ins,1
+Curry,PRC0003 Floras Creek,State Senate,01,DEM,Shannon Souza,173
+Curry,PRC0003 Floras Creek,State Senate,01,REP,Dallas Heard,155
+Curry,PRC0003 Floras Creek,U.S. House,4,,Write-ins,0
+Curry,PRC0003 Floras Creek,U.S. House,4,DEM,Peter DeFazio,184
+Curry,PRC0003 Floras Creek,U.S. House,4,LBT,Richard R Jacobson,3
+Curry,PRC0003 Floras Creek,U.S. House,4,PGP,Mike Beilstein,3
+Curry,PRC0003 Floras Creek,U.S. House,4,REP,Art Robinson,152
+Curry,PRC0004 Sixes,Governor,,,Write-ins,0
+Curry,PRC0004 Sixes,Governor,,CON,Aaron Auer,5
+Curry,PRC0004 Sixes,Governor,,DEM,Kate Brown,56
+Curry,PRC0004 Sixes,Governor,,LBT,Nick Chen,0
+Curry,PRC0004 Sixes,Governor,,NON,Patrick Starnes,6
+Curry,PRC0004 Sixes,Governor,,PRO,Chris Henry,0
+Curry,PRC0004 Sixes,Governor,,REP,Knute Buehler,116
+Curry,PRC0004 Sixes,State House,01,,Write-ins,0
+Curry,PRC0004 Sixes,State House,01,DEM,Eldon Rollins,50
+Curry,PRC0004 Sixes,State House,01,REP,David Brock Smith,132
+Curry,PRC0004 Sixes,State Senate,01,,Write-ins,0
+Curry,PRC0004 Sixes,State Senate,01,DEM,Shannon Souza,60
+Curry,PRC0004 Sixes,State Senate,01,REP,Dallas Heard,120
+Curry,PRC0004 Sixes,U.S. House,4,,Write-ins,0
+Curry,PRC0004 Sixes,U.S. House,4,DEM,Peter DeFazio,65
+Curry,PRC0004 Sixes,U.S. House,4,LBT,Richard R Jacobson,2
+Curry,PRC0004 Sixes,U.S. House,4,PGP,Mike Beilstein,0
+Curry,PRC0004 Sixes,U.S. House,4,REP,Art Robinson,117
+Curry,PRC0005 Elk River,Governor,,,Write-ins,0
+Curry,PRC0005 Elk River,Governor,,CON,Aaron Auer,10
+Curry,PRC0005 Elk River,Governor,,DEM,Kate Brown,279
+Curry,PRC0005 Elk River,Governor,,LBT,Nick Chen,12
+Curry,PRC0005 Elk River,Governor,,NON,Patrick Starnes,19
+Curry,PRC0005 Elk River,Governor,,PRO,Chris Henry,4
+Curry,PRC0005 Elk River,Governor,,REP,Knute Buehler,233
+Curry,PRC0005 Elk River,State House,01,,Write-ins,5
+Curry,PRC0005 Elk River,State House,01,DEM,Eldon Rollins,251
+Curry,PRC0005 Elk River,State House,01,REP,David Brock Smith,293
+Curry,PRC0005 Elk River,State Senate,01,,Write-ins,0
+Curry,PRC0005 Elk River,State Senate,01,DEM,Shannon Souza,325
+Curry,PRC0005 Elk River,State Senate,01,REP,Dallas Heard,231
+Curry,PRC0005 Elk River,U.S. House,4,,Write-ins,0
+Curry,PRC0005 Elk River,U.S. House,4,DEM,Peter DeFazio,320
+Curry,PRC0005 Elk River,U.S. House,4,LBT,Richard R Jacobson,7
+Curry,PRC0005 Elk River,U.S. House,4,PGP,Mike Beilstein,8
+Curry,PRC0005 Elk River,U.S. House,4,REP,Art Robinson,220
+Curry,PRC0006 Port Orford 1,Governor,,,Write-ins,0
+Curry,PRC0006 Port Orford 1,Governor,,CON,Aaron Auer,4
+Curry,PRC0006 Port Orford 1,Governor,,DEM,Kate Brown,198
+Curry,PRC0006 Port Orford 1,Governor,,LBT,Nick Chen,8
+Curry,PRC0006 Port Orford 1,Governor,,NON,Patrick Starnes,10
+Curry,PRC0006 Port Orford 1,Governor,,PRO,Chris Henry,2
+Curry,PRC0006 Port Orford 1,Governor,,REP,Knute Buehler,174
+Curry,PRC0006 Port Orford 1,State House,01,,Write-ins,1
+Curry,PRC0006 Port Orford 1,State House,01,DEM,Eldon Rollins,181
+Curry,PRC0006 Port Orford 1,State House,01,REP,David Brock Smith,205
+Curry,PRC0006 Port Orford 1,State Senate,01,,Write-ins,1
+Curry,PRC0006 Port Orford 1,State Senate,01,DEM,Shannon Souza,233
+Curry,PRC0006 Port Orford 1,State Senate,01,REP,Dallas Heard,162
+Curry,PRC0006 Port Orford 1,U.S. House,4,,Write-ins,0
+Curry,PRC0006 Port Orford 1,U.S. House,4,DEM,Peter DeFazio,233
+Curry,PRC0006 Port Orford 1,U.S. House,4,LBT,Richard R Jacobson,3
+Curry,PRC0006 Port Orford 1,U.S. House,4,PGP,Mike Beilstein,4
+Curry,PRC0006 Port Orford 1,U.S. House,4,REP,Art Robinson,157
+Curry,PRC0007 Port Orford 2,Governor,,,Write-ins,0
+Curry,PRC0007 Port Orford 2,Governor,,CON,Aaron Auer,6
+Curry,PRC0007 Port Orford 2,Governor,,DEM,Kate Brown,128
+Curry,PRC0007 Port Orford 2,Governor,,LBT,Nick Chen,2
+Curry,PRC0007 Port Orford 2,Governor,,NON,Patrick Starnes,8
+Curry,PRC0007 Port Orford 2,Governor,,PRO,Chris Henry,4
+Curry,PRC0007 Port Orford 2,Governor,,REP,Knute Buehler,71
+Curry,PRC0007 Port Orford 2,State House,01,,Write-ins,0
+Curry,PRC0007 Port Orford 2,State House,01,DEM,Eldon Rollins,109
+Curry,PRC0007 Port Orford 2,State House,01,REP,David Brock Smith,99
+Curry,PRC0007 Port Orford 2,State Senate,01,,Write-ins,0
+Curry,PRC0007 Port Orford 2,State Senate,01,DEM,Shannon Souza,146
+Curry,PRC0007 Port Orford 2,State Senate,01,REP,Dallas Heard,65
+Curry,PRC0007 Port Orford 2,U.S. House,4,,Write-ins,0
+Curry,PRC0007 Port Orford 2,U.S. House,4,DEM,Peter DeFazio,149
+Curry,PRC0007 Port Orford 2,U.S. House,4,LBT,Richard R Jacobson,2
+Curry,PRC0007 Port Orford 2,U.S. House,4,PGP,Mike Beilstein,5
+Curry,PRC0007 Port Orford 2,U.S. House,4,REP,Art Robinson,64
+Curry,PRC0008 Ophir,Governor,,,Write-ins,0
+Curry,PRC0008 Ophir,Governor,,CON,Aaron Auer,3
+Curry,PRC0008 Ophir,Governor,,DEM,Kate Brown,157
+Curry,PRC0008 Ophir,Governor,,LBT,Nick Chen,6
+Curry,PRC0008 Ophir,Governor,,NON,Patrick Starnes,12
+Curry,PRC0008 Ophir,Governor,,PRO,Chris Henry,10
+Curry,PRC0008 Ophir,Governor,,REP,Knute Buehler,219
+Curry,PRC0008 Ophir,State House,01,,Write-ins,2
+Curry,PRC0008 Ophir,State House,01,DEM,Eldon Rollins,150
+Curry,PRC0008 Ophir,State House,01,REP,David Brock Smith,243
+Curry,PRC0008 Ophir,State Senate,01,,Write-ins,1
+Curry,PRC0008 Ophir,State Senate,01,DEM,Shannon Souza,181
+Curry,PRC0008 Ophir,State Senate,01,REP,Dallas Heard,219
+Curry,PRC0008 Ophir,U.S. House,4,,Write-ins,0
+Curry,PRC0008 Ophir,U.S. House,4,DEM,Peter DeFazio,185
+Curry,PRC0008 Ophir,U.S. House,4,LBT,Richard R Jacobson,7
+Curry,PRC0008 Ophir,U.S. House,4,PGP,Mike Beilstein,6
+Curry,PRC0008 Ophir,U.S. House,4,REP,Art Robinson,212
+Curry,PRC0009 Wedderburn,Governor,,,Write-ins,2
+Curry,PRC0009 Wedderburn,Governor,,CON,Aaron Auer,8
+Curry,PRC0009 Wedderburn,Governor,,DEM,Kate Brown,208
+Curry,PRC0009 Wedderburn,Governor,,LBT,Nick Chen,5
+Curry,PRC0009 Wedderburn,Governor,,NON,Patrick Starnes,28
+Curry,PRC0009 Wedderburn,Governor,,PRO,Chris Henry,3
+Curry,PRC0009 Wedderburn,Governor,,REP,Knute Buehler,402
+Curry,PRC0009 Wedderburn,State House,01,,Write-ins,0
+Curry,PRC0009 Wedderburn,State House,01,DEM,Eldon Rollins,214
+Curry,PRC0009 Wedderburn,State House,01,REP,David Brock Smith,416
+Curry,PRC0009 Wedderburn,State Senate,01,,Write-ins,3
+Curry,PRC0009 Wedderburn,State Senate,01,DEM,Shannon Souza,264
+Curry,PRC0009 Wedderburn,State Senate,01,REP,Dallas Heard,373
+Curry,PRC0009 Wedderburn,U.S. House,4,,Write-ins,0
+Curry,PRC0009 Wedderburn,U.S. House,4,DEM,Peter DeFazio,289
+Curry,PRC0009 Wedderburn,U.S. House,4,LBT,Richard R Jacobson,6
+Curry,PRC0009 Wedderburn,U.S. House,4,PGP,Mike Beilstein,10
+Curry,PRC0009 Wedderburn,U.S. House,4,REP,Art Robinson,351
+Curry,PRC0010 N Gold Beach,Governor,,,Write-ins,0
+Curry,PRC0010 N Gold Beach,Governor,,CON,Aaron Auer,13
+Curry,PRC0010 N Gold Beach,Governor,,DEM,Kate Brown,149
+Curry,PRC0010 N Gold Beach,Governor,,LBT,Nick Chen,6
+Curry,PRC0010 N Gold Beach,Governor,,NON,Patrick Starnes,14
+Curry,PRC0010 N Gold Beach,Governor,,PRO,Chris Henry,3
+Curry,PRC0010 N Gold Beach,Governor,,REP,Knute Buehler,190
+Curry,PRC0010 N Gold Beach,State House,01,,Write-ins,1
+Curry,PRC0010 N Gold Beach,State House,01,DEM,Eldon Rollins,135
+Curry,PRC0010 N Gold Beach,State House,01,REP,David Brock Smith,223
+Curry,PRC0010 N Gold Beach,State Senate,01,,Write-ins,0
+Curry,PRC0010 N Gold Beach,State Senate,01,DEM,Shannon Souza,182
+Curry,PRC0010 N Gold Beach,State Senate,01,REP,Dallas Heard,185
+Curry,PRC0010 N Gold Beach,U.S. House,4,,Write-ins,0
+Curry,PRC0010 N Gold Beach,U.S. House,4,DEM,Peter DeFazio,186
+Curry,PRC0010 N Gold Beach,U.S. House,4,LBT,Richard R Jacobson,5
+Curry,PRC0010 N Gold Beach,U.S. House,4,PGP,Mike Beilstein,7
+Curry,PRC0010 N Gold Beach,U.S. House,4,REP,Art Robinson,179
+Curry,PRC0011 S Gold Beach,Governor,,,Write-ins,1
+Curry,PRC0011 S Gold Beach,Governor,,CON,Aaron Auer,17
+Curry,PRC0011 S Gold Beach,Governor,,DEM,Kate Brown,212
+Curry,PRC0011 S Gold Beach,Governor,,LBT,Nick Chen,17
+Curry,PRC0011 S Gold Beach,Governor,,NON,Patrick Starnes,25
+Curry,PRC0011 S Gold Beach,Governor,,PRO,Chris Henry,8
+Curry,PRC0011 S Gold Beach,Governor,,REP,Knute Buehler,376
+Curry,PRC0011 S Gold Beach,State House,01,,Write-ins,3
+Curry,PRC0011 S Gold Beach,State House,01,DEM,Eldon Rollins,211
+Curry,PRC0011 S Gold Beach,State House,01,REP,David Brock Smith,425
+Curry,PRC0011 S Gold Beach,State Senate,01,,Write-ins,4
+Curry,PRC0011 S Gold Beach,State Senate,01,DEM,Shannon Souza,279
+Curry,PRC0011 S Gold Beach,State Senate,01,REP,Dallas Heard,365
+Curry,PRC0011 S Gold Beach,U.S. House,4,,Write-ins,1
+Curry,PRC0011 S Gold Beach,U.S. House,4,DEM,Peter DeFazio,283
+Curry,PRC0011 S Gold Beach,U.S. House,4,LBT,Richard R Jacobson,7
+Curry,PRC0011 S Gold Beach,U.S. House,4,PGP,Mike Beilstein,11
+Curry,PRC0011 S Gold Beach,U.S. House,4,REP,Art Robinson,355
+Curry,PRC0012 Hunter Creek,Governor,,,Write-ins,0
+Curry,PRC0012 Hunter Creek,Governor,,CON,Aaron Auer,3
+Curry,PRC0012 Hunter Creek,Governor,,DEM,Kate Brown,76
+Curry,PRC0012 Hunter Creek,Governor,,LBT,Nick Chen,2
+Curry,PRC0012 Hunter Creek,Governor,,NON,Patrick Starnes,5
+Curry,PRC0012 Hunter Creek,Governor,,PRO,Chris Henry,1
+Curry,PRC0012 Hunter Creek,Governor,,REP,Knute Buehler,114
+Curry,PRC0012 Hunter Creek,State House,01,,Write-ins,3
+Curry,PRC0012 Hunter Creek,State House,01,DEM,Eldon Rollins,71
+Curry,PRC0012 Hunter Creek,State House,01,REP,David Brock Smith,117
+Curry,PRC0012 Hunter Creek,State Senate,01,,Write-ins,0
+Curry,PRC0012 Hunter Creek,State Senate,01,DEM,Shannon Souza,88
+Curry,PRC0012 Hunter Creek,State Senate,01,REP,Dallas Heard,104
+Curry,PRC0012 Hunter Creek,U.S. House,4,,Write-ins,0
+Curry,PRC0012 Hunter Creek,U.S. House,4,DEM,Peter DeFazio,91
+Curry,PRC0012 Hunter Creek,U.S. House,4,LBT,Richard R Jacobson,1
+Curry,PRC0012 Hunter Creek,U.S. House,4,PGP,Mike Beilstein,2
+Curry,PRC0012 Hunter Creek,U.S. House,4,REP,Art Robinson,104
+Curry,PRC0013 Pistol River,Governor,,,Write-ins,0
+Curry,PRC0013 Pistol River,Governor,,CON,Aaron Auer,3
+Curry,PRC0013 Pistol River,Governor,,DEM,Kate Brown,81
+Curry,PRC0013 Pistol River,Governor,,LBT,Nick Chen,1
+Curry,PRC0013 Pistol River,Governor,,NON,Patrick Starnes,4
+Curry,PRC0013 Pistol River,Governor,,PRO,Chris Henry,1
+Curry,PRC0013 Pistol River,Governor,,REP,Knute Buehler,126
+Curry,PRC0013 Pistol River,State House,01,,Write-ins,0
+Curry,PRC0013 Pistol River,State House,01,DEM,Eldon Rollins,72
+Curry,PRC0013 Pistol River,State House,01,REP,David Brock Smith,137
+Curry,PRC0013 Pistol River,State Senate,01,,Write-ins,0
+Curry,PRC0013 Pistol River,State Senate,01,DEM,Shannon Souza,86
+Curry,PRC0013 Pistol River,State Senate,01,REP,Dallas Heard,128
+Curry,PRC0013 Pistol River,U.S. House,4,,Write-ins,0
+Curry,PRC0013 Pistol River,U.S. House,4,DEM,Peter DeFazio,89
+Curry,PRC0013 Pistol River,U.S. House,4,LBT,Richard R Jacobson,4
+Curry,PRC0013 Pistol River,U.S. House,4,PGP,Mike Beilstein,2
+Curry,PRC0013 Pistol River,U.S. House,4,REP,Art Robinson,124
+Curry,PRC0014 Harris Creek,Governor,,,Write-ins,0
+Curry,PRC0014 Harris Creek,Governor,,CON,Aaron Auer,2
+Curry,PRC0014 Harris Creek,Governor,,DEM,Kate Brown,68
+Curry,PRC0014 Harris Creek,Governor,,LBT,Nick Chen,2
+Curry,PRC0014 Harris Creek,Governor,,NON,Patrick Starnes,16
+Curry,PRC0014 Harris Creek,Governor,,PRO,Chris Henry,1
+Curry,PRC0014 Harris Creek,Governor,,REP,Knute Buehler,196
+Curry,PRC0014 Harris Creek,State House,01,,Write-ins,0
+Curry,PRC0014 Harris Creek,State House,01,DEM,Eldon Rollins,75
+Curry,PRC0014 Harris Creek,State House,01,REP,David Brock Smith,205
+Curry,PRC0014 Harris Creek,State Senate,01,,Write-ins,0
+Curry,PRC0014 Harris Creek,State Senate,01,DEM,Shannon Souza,87
+Curry,PRC0014 Harris Creek,State Senate,01,REP,Dallas Heard,190
+Curry,PRC0014 Harris Creek,U.S. House,4,,Write-ins,1
+Curry,PRC0014 Harris Creek,U.S. House,4,DEM,Peter DeFazio,88
+Curry,PRC0014 Harris Creek,U.S. House,4,LBT,Richard R Jacobson,2
+Curry,PRC0014 Harris Creek,U.S. House,4,PGP,Mike Beilstein,6
+Curry,PRC0014 Harris Creek,U.S. House,4,REP,Art Robinson,192
+Curry,PRC0015 Brookings 1,Governor,,,Write-ins,0
+Curry,PRC0015 Brookings 1,Governor,,CON,Aaron Auer,1
+Curry,PRC0015 Brookings 1,Governor,,DEM,Kate Brown,136
+Curry,PRC0015 Brookings 1,Governor,,LBT,Nick Chen,4
+Curry,PRC0015 Brookings 1,Governor,,NON,Patrick Starnes,12
+Curry,PRC0015 Brookings 1,Governor,,PRO,Chris Henry,2
+Curry,PRC0015 Brookings 1,Governor,,REP,Knute Buehler,220
+Curry,PRC0015 Brookings 1,State House,01,,Write-ins,1
+Curry,PRC0015 Brookings 1,State House,01,DEM,Eldon Rollins,130
+Curry,PRC0015 Brookings 1,State House,01,REP,David Brock Smith,231
+Curry,PRC0015 Brookings 1,State Senate,01,,Write-ins,0
+Curry,PRC0015 Brookings 1,State Senate,01,DEM,Shannon Souza,153
+Curry,PRC0015 Brookings 1,State Senate,01,REP,Dallas Heard,216
+Curry,PRC0015 Brookings 1,U.S. House,4,,Write-ins,0
+Curry,PRC0015 Brookings 1,U.S. House,4,DEM,Peter DeFazio,161
+Curry,PRC0015 Brookings 1,U.S. House,4,LBT,Richard R Jacobson,8
+Curry,PRC0015 Brookings 1,U.S. House,4,PGP,Mike Beilstein,0
+Curry,PRC0015 Brookings 1,U.S. House,4,REP,Art Robinson,202
+Curry,PRC0016 Brookings 2,Governor,,,Write-ins,1
+Curry,PRC0016 Brookings 2,Governor,,CON,Aaron Auer,16
+Curry,PRC0016 Brookings 2,Governor,,DEM,Kate Brown,325
+Curry,PRC0016 Brookings 2,Governor,,LBT,Nick Chen,17
+Curry,PRC0016 Brookings 2,Governor,,NON,Patrick Starnes,33
+Curry,PRC0016 Brookings 2,Governor,,PRO,Chris Henry,9
+Curry,PRC0016 Brookings 2,Governor,,REP,Knute Buehler,604
+Curry,PRC0016 Brookings 2,State House,01,,Write-ins,5
+Curry,PRC0016 Brookings 2,State House,01,DEM,Eldon Rollins,324
+Curry,PRC0016 Brookings 2,State House,01,REP,David Brock Smith,647
+Curry,PRC0016 Brookings 2,State Senate,01,,Write-ins,1
+Curry,PRC0016 Brookings 2,State Senate,01,DEM,Shannon Souza,401
+Curry,PRC0016 Brookings 2,State Senate,01,REP,Dallas Heard,589
+Curry,PRC0016 Brookings 2,U.S. House,4,,Write-ins,1
+Curry,PRC0016 Brookings 2,U.S. House,4,DEM,Peter DeFazio,423
+Curry,PRC0016 Brookings 2,U.S. House,4,LBT,Richard R Jacobson,18
+Curry,PRC0016 Brookings 2,U.S. House,4,PGP,Mike Beilstein,13
+Curry,PRC0016 Brookings 2,U.S. House,4,REP,Art Robinson,548
+Curry,PRC0017 Brookings 3,Governor,,,Write-ins,0
+Curry,PRC0017 Brookings 3,Governor,,CON,Aaron Auer,25
+Curry,PRC0017 Brookings 3,Governor,,DEM,Kate Brown,436
+Curry,PRC0017 Brookings 3,Governor,,LBT,Nick Chen,21
+Curry,PRC0017 Brookings 3,Governor,,NON,Patrick Starnes,54
+Curry,PRC0017 Brookings 3,Governor,,PRO,Chris Henry,4
+Curry,PRC0017 Brookings 3,Governor,,REP,Knute Buehler,665
+Curry,PRC0017 Brookings 3,State House,01,,Write-ins,2
+Curry,PRC0017 Brookings 3,State House,01,DEM,Eldon Rollins,395
+Curry,PRC0017 Brookings 3,State House,01,REP,David Brock Smith,765
+Curry,PRC0017 Brookings 3,State Senate,01,,Write-ins,0
+Curry,PRC0017 Brookings 3,State Senate,01,DEM,Shannon Souza,499
+Curry,PRC0017 Brookings 3,State Senate,01,REP,Dallas Heard,686
+Curry,PRC0017 Brookings 3,U.S. House,4,,Write-ins,0
+Curry,PRC0017 Brookings 3,U.S. House,4,DEM,Peter DeFazio,520
+Curry,PRC0017 Brookings 3,U.S. House,4,LBT,Richard R Jacobson,16
+Curry,PRC0017 Brookings 3,U.S. House,4,PGP,Mike Beilstein,6
+Curry,PRC0017 Brookings 3,U.S. House,4,REP,Art Robinson,661
+Curry,PRC0018 N Chetco,Governor,,,Write-ins,0
+Curry,PRC0018 N Chetco,Governor,,CON,Aaron Auer,3
+Curry,PRC0018 N Chetco,Governor,,DEM,Kate Brown,149
+Curry,PRC0018 N Chetco,Governor,,LBT,Nick Chen,4
+Curry,PRC0018 N Chetco,Governor,,NON,Patrick Starnes,11
+Curry,PRC0018 N Chetco,Governor,,PRO,Chris Henry,2
+Curry,PRC0018 N Chetco,Governor,,REP,Knute Buehler,195
+Curry,PRC0018 N Chetco,State House,01,,Write-ins,2
+Curry,PRC0018 N Chetco,State House,01,DEM,Eldon Rollins,155
+Curry,PRC0018 N Chetco,State House,01,REP,David Brock Smith,198
+Curry,PRC0018 N Chetco,State Senate,01,,Write-ins,0
+Curry,PRC0018 N Chetco,State Senate,01,DEM,Shannon Souza,168
+Curry,PRC0018 N Chetco,State Senate,01,REP,Dallas Heard,189
+Curry,PRC0018 N Chetco,U.S. House,4,,Write-ins,1
+Curry,PRC0018 N Chetco,U.S. House,4,DEM,Peter DeFazio,177
+Curry,PRC0018 N Chetco,U.S. House,4,LBT,Richard R Jacobson,1
+Curry,PRC0018 N Chetco,U.S. House,4,PGP,Mike Beilstein,2
+Curry,PRC0018 N Chetco,U.S. House,4,REP,Art Robinson,181
+Curry,PRC0019 Winchuck,Governor,,,Write-ins,0
+Curry,PRC0019 Winchuck,Governor,,CON,Aaron Auer,7
+Curry,PRC0019 Winchuck,Governor,,DEM,Kate Brown,189
+Curry,PRC0019 Winchuck,Governor,,LBT,Nick Chen,10
+Curry,PRC0019 Winchuck,Governor,,NON,Patrick Starnes,15
+Curry,PRC0019 Winchuck,Governor,,PRO,Chris Henry,2
+Curry,PRC0019 Winchuck,Governor,,REP,Knute Buehler,355
+Curry,PRC0019 Winchuck,State House,01,,Write-ins,2
+Curry,PRC0019 Winchuck,State House,01,DEM,Eldon Rollins,188
+Curry,PRC0019 Winchuck,State House,01,REP,David Brock Smith,371
+Curry,PRC0019 Winchuck,State Senate,01,,Write-ins,0
+Curry,PRC0019 Winchuck,State Senate,01,DEM,Shannon Souza,209
+Curry,PRC0019 Winchuck,State Senate,01,REP,Dallas Heard,360
+Curry,PRC0019 Winchuck,U.S. House,4,,Write-ins,0
+Curry,PRC0019 Winchuck,U.S. House,4,DEM,Peter DeFazio,212
+Curry,PRC0019 Winchuck,U.S. House,4,LBT,Richard R Jacobson,1
+Curry,PRC0019 Winchuck,U.S. House,4,PGP,Mike Beilstein,3
+Curry,PRC0019 Winchuck,U.S. House,4,REP,Art Robinson,357
+Curry,PRC0020 Jerrys Flat,Governor,,,Write-ins,0
+Curry,PRC0020 Jerrys Flat,Governor,,CON,Aaron Auer,9
+Curry,PRC0020 Jerrys Flat,Governor,,DEM,Kate Brown,90
+Curry,PRC0020 Jerrys Flat,Governor,,LBT,Nick Chen,6
+Curry,PRC0020 Jerrys Flat,Governor,,NON,Patrick Starnes,17
+Curry,PRC0020 Jerrys Flat,Governor,,PRO,Chris Henry,2
+Curry,PRC0020 Jerrys Flat,Governor,,REP,Knute Buehler,167
+Curry,PRC0020 Jerrys Flat,State House,01,,Write-ins,0
+Curry,PRC0020 Jerrys Flat,State House,01,DEM,Eldon Rollins,81
+Curry,PRC0020 Jerrys Flat,State House,01,REP,David Brock Smith,200
+Curry,PRC0020 Jerrys Flat,State Senate,01,,Write-ins,0
+Curry,PRC0020 Jerrys Flat,State Senate,01,DEM,Shannon Souza,106
+Curry,PRC0020 Jerrys Flat,State Senate,01,REP,Dallas Heard,180
+Curry,PRC0020 Jerrys Flat,U.S. House,4,,Write-ins,0
+Curry,PRC0020 Jerrys Flat,U.S. House,4,DEM,Peter DeFazio,114
+Curry,PRC0020 Jerrys Flat,U.S. House,4,LBT,Richard R Jacobson,8
+Curry,PRC0020 Jerrys Flat,U.S. House,4,PGP,Mike Beilstein,6
+Curry,PRC0020 Jerrys Flat,U.S. House,4,REP,Art Robinson,165
+Curry,PRC0021 Brookings 4,Governor,,,Write-ins,1
+Curry,PRC0021 Brookings 4,Governor,,CON,Aaron Auer,4
+Curry,PRC0021 Brookings 4,Governor,,DEM,Kate Brown,70
+Curry,PRC0021 Brookings 4,Governor,,LBT,Nick Chen,5
+Curry,PRC0021 Brookings 4,Governor,,NON,Patrick Starnes,6
+Curry,PRC0021 Brookings 4,Governor,,PRO,Chris Henry,1
+Curry,PRC0021 Brookings 4,Governor,,REP,Knute Buehler,138
+Curry,PRC0021 Brookings 4,State House,01,,Write-ins,0
+Curry,PRC0021 Brookings 4,State House,01,DEM,Eldon Rollins,67
+Curry,PRC0021 Brookings 4,State House,01,REP,David Brock Smith,153
+Curry,PRC0021 Brookings 4,State Senate,01,,Write-ins,0
+Curry,PRC0021 Brookings 4,State Senate,01,DEM,Shannon Souza,84
+Curry,PRC0021 Brookings 4,State Senate,01,REP,Dallas Heard,137
+Curry,PRC0021 Brookings 4,U.S. House,4,,Write-ins,0
+Curry,PRC0021 Brookings 4,U.S. House,4,DEM,Peter DeFazio,94
+Curry,PRC0021 Brookings 4,U.S. House,4,LBT,Richard R Jacobson,5
+Curry,PRC0021 Brookings 4,U.S. House,4,PGP,Mike Beilstein,1
+Curry,PRC0021 Brookings 4,U.S. House,4,REP,Art Robinson,126
+Curry,PRC0022 W Harbor,Governor,,,Write-ins,0
+Curry,PRC0022 W Harbor,Governor,,CON,Aaron Auer,4
+Curry,PRC0022 W Harbor,Governor,,DEM,Kate Brown,108
+Curry,PRC0022 W Harbor,Governor,,LBT,Nick Chen,7
+Curry,PRC0022 W Harbor,Governor,,NON,Patrick Starnes,15
+Curry,PRC0022 W Harbor,Governor,,PRO,Chris Henry,6
+Curry,PRC0022 W Harbor,Governor,,REP,Knute Buehler,227
+Curry,PRC0022 W Harbor,State House,01,,Write-ins,1
+Curry,PRC0022 W Harbor,State House,01,DEM,Eldon Rollins,125
+Curry,PRC0022 W Harbor,State House,01,REP,David Brock Smith,230
+Curry,PRC0022 W Harbor,State Senate,01,,Write-ins,0
+Curry,PRC0022 W Harbor,State Senate,01,DEM,Shannon Souza,145
+Curry,PRC0022 W Harbor,State Senate,01,REP,Dallas Heard,221
+Curry,PRC0022 W Harbor,U.S. House,4,,Write-ins,0
+Curry,PRC0022 W Harbor,U.S. House,4,DEM,Peter DeFazio,134
+Curry,PRC0022 W Harbor,U.S. House,4,LBT,Richard R Jacobson,8
+Curry,PRC0022 W Harbor,U.S. House,4,PGP,Mike Beilstein,9
+Curry,PRC0022 W Harbor,U.S. House,4,REP,Art Robinson,218
+Curry,PRC0023 Lower Harbor,Governor,,,Write-ins,1
+Curry,PRC0023 Lower Harbor,Governor,,CON,Aaron Auer,6
+Curry,PRC0023 Lower Harbor,Governor,,DEM,Kate Brown,146
+Curry,PRC0023 Lower Harbor,Governor,,LBT,Nick Chen,5
+Curry,PRC0023 Lower Harbor,Governor,,NON,Patrick Starnes,18
+Curry,PRC0023 Lower Harbor,Governor,,PRO,Chris Henry,1
+Curry,PRC0023 Lower Harbor,Governor,,REP,Knute Buehler,236
+Curry,PRC0023 Lower Harbor,State House,01,,Write-ins,4
+Curry,PRC0023 Lower Harbor,State House,01,DEM,Eldon Rollins,147
+Curry,PRC0023 Lower Harbor,State House,01,REP,David Brock Smith,249
+Curry,PRC0023 Lower Harbor,State Senate,01,,Write-ins,3
+Curry,PRC0023 Lower Harbor,State Senate,01,DEM,Shannon Souza,169
+Curry,PRC0023 Lower Harbor,State Senate,01,REP,Dallas Heard,235
+Curry,PRC0023 Lower Harbor,U.S. House,4,,Write-ins,1
+Curry,PRC0023 Lower Harbor,U.S. House,4,DEM,Peter DeFazio,172
+Curry,PRC0023 Lower Harbor,U.S. House,4,LBT,Richard R Jacobson,3
+Curry,PRC0023 Lower Harbor,U.S. House,4,PGP,Mike Beilstein,10
+Curry,PRC0023 Lower Harbor,U.S. House,4,REP,Art Robinson,227
+Curry,PRC0024 S W Harbor,Governor,,,Write-ins,0
+Curry,PRC0024 S W Harbor,Governor,,CON,Aaron Auer,6
+Curry,PRC0024 S W Harbor,Governor,,DEM,Kate Brown,150
+Curry,PRC0024 S W Harbor,Governor,,LBT,Nick Chen,4
+Curry,PRC0024 S W Harbor,Governor,,NON,Patrick Starnes,29
+Curry,PRC0024 S W Harbor,Governor,,PRO,Chris Henry,1
+Curry,PRC0024 S W Harbor,Governor,,REP,Knute Buehler,239
+Curry,PRC0024 S W Harbor,State House,01,,Write-ins,1
+Curry,PRC0024 S W Harbor,State House,01,DEM,Eldon Rollins,146
+Curry,PRC0024 S W Harbor,State House,01,REP,David Brock Smith,259
+Curry,PRC0024 S W Harbor,State Senate,01,,Write-ins,2
+Curry,PRC0024 S W Harbor,State Senate,01,DEM,Shannon Souza,164
+Curry,PRC0024 S W Harbor,State Senate,01,REP,Dallas Heard,255
+Curry,PRC0024 S W Harbor,U.S. House,4,,Write-ins,1
+Curry,PRC0024 S W Harbor,U.S. House,4,DEM,Peter DeFazio,183
+Curry,PRC0024 S W Harbor,U.S. House,4,LBT,Richard R Jacobson,6
+Curry,PRC0024 S W Harbor,U.S. House,4,PGP,Mike Beilstein,3
+Curry,PRC0024 S W Harbor,U.S. House,4,REP,Art Robinson,238
+Curry,PRC0025 E Harbor,Governor,,,Write-ins,0
+Curry,PRC0025 E Harbor,Governor,,CON,Aaron Auer,10
+Curry,PRC0025 E Harbor,Governor,,DEM,Kate Brown,156
+Curry,PRC0025 E Harbor,Governor,,LBT,Nick Chen,10
+Curry,PRC0025 E Harbor,Governor,,NON,Patrick Starnes,26
+Curry,PRC0025 E Harbor,Governor,,PRO,Chris Henry,1
+Curry,PRC0025 E Harbor,Governor,,REP,Knute Buehler,229
+Curry,PRC0025 E Harbor,State House,01,,Write-ins,0
+Curry,PRC0025 E Harbor,State House,01,DEM,Eldon Rollins,165
+Curry,PRC0025 E Harbor,State House,01,REP,David Brock Smith,257
+Curry,PRC0025 E Harbor,State Senate,01,,Write-ins,0
+Curry,PRC0025 E Harbor,State Senate,01,DEM,Shannon Souza,187
+Curry,PRC0025 E Harbor,State Senate,01,REP,Dallas Heard,240
+Curry,PRC0025 E Harbor,U.S. House,4,,Write-ins,0
+Curry,PRC0025 E Harbor,U.S. House,4,DEM,Peter DeFazio,185
+Curry,PRC0025 E Harbor,U.S. House,4,LBT,Richard R Jacobson,13
+Curry,PRC0025 E Harbor,U.S. House,4,PGP,Mike Beilstein,4
+Curry,PRC0025 E Harbor,U.S. House,4,REP,Art Robinson,233
+Curry,PRC0026 Cape Ferrelo,Governor,,,Write-ins,2
+Curry,PRC0026 Cape Ferrelo,Governor,,CON,Aaron Auer,16
+Curry,PRC0026 Cape Ferrelo,Governor,,DEM,Kate Brown,209
+Curry,PRC0026 Cape Ferrelo,Governor,,LBT,Nick Chen,13
+Curry,PRC0026 Cape Ferrelo,Governor,,NON,Patrick Starnes,16
+Curry,PRC0026 Cape Ferrelo,Governor,,PRO,Chris Henry,6
+Curry,PRC0026 Cape Ferrelo,Governor,,REP,Knute Buehler,399
+Curry,PRC0026 Cape Ferrelo,State House,01,,Write-ins,1
+Curry,PRC0026 Cape Ferrelo,State House,01,DEM,Eldon Rollins,208
+Curry,PRC0026 Cape Ferrelo,State House,01,REP,David Brock Smith,436
+Curry,PRC0026 Cape Ferrelo,State Senate,01,,Write-ins,1
+Curry,PRC0026 Cape Ferrelo,State Senate,01,DEM,Shannon Souza,249
+Curry,PRC0026 Cape Ferrelo,State Senate,01,REP,Dallas Heard,398
+Curry,PRC0026 Cape Ferrelo,U.S. House,4,,Write-ins,0
+Curry,PRC0026 Cape Ferrelo,U.S. House,4,DEM,Peter DeFazio,259
+Curry,PRC0026 Cape Ferrelo,U.S. House,4,LBT,Richard R Jacobson,8
+Curry,PRC0026 Cape Ferrelo,U.S. House,4,PGP,Mike Beilstein,9
+Curry,PRC0026 Cape Ferrelo,U.S. House,4,REP,Art Robinson,377
+Curry,PRC0027 Upper Chetco,Governor,,,Write-ins,1
+Curry,PRC0027 Upper Chetco,Governor,,CON,Aaron Auer,4
+Curry,PRC0027 Upper Chetco,Governor,,DEM,Kate Brown,74
+Curry,PRC0027 Upper Chetco,Governor,,LBT,Nick Chen,6
+Curry,PRC0027 Upper Chetco,Governor,,NON,Patrick Starnes,7
+Curry,PRC0027 Upper Chetco,Governor,,PRO,Chris Henry,1
+Curry,PRC0027 Upper Chetco,Governor,,REP,Knute Buehler,169
+Curry,PRC0027 Upper Chetco,State House,01,,Write-ins,0
+Curry,PRC0027 Upper Chetco,State House,01,DEM,Eldon Rollins,74
+Curry,PRC0027 Upper Chetco,State House,01,REP,David Brock Smith,182
+Curry,PRC0027 Upper Chetco,State Senate,01,,Write-ins,0
+Curry,PRC0027 Upper Chetco,State Senate,01,DEM,Shannon Souza,88
+Curry,PRC0027 Upper Chetco,State Senate,01,REP,Dallas Heard,172
+Curry,PRC0027 Upper Chetco,U.S. House,4,,Write-ins,0
+Curry,PRC0027 Upper Chetco,U.S. House,4,DEM,Peter DeFazio,97
+Curry,PRC0027 Upper Chetco,U.S. House,4,LBT,Richard R Jacobson,4
+Curry,PRC0027 Upper Chetco,U.S. House,4,PGP,Mike Beilstein,1
+Curry,PRC0027 Upper Chetco,U.S. House,4,REP,Art Robinson,166

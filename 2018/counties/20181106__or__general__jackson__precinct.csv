@@ -1,0 +1,742 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,001 Ashland,Governor,,,Write-ins,3
+Jackson,001 Ashland,Governor,,CON,Aaron Auer,18
+Jackson,001 Ashland,Governor,,DEM,Kate Brown,5482
+Jackson,001 Ashland,Governor,,LBT,Nick Chen,61
+Jackson,001 Ashland,Governor,,NON,Patrick Starnes,83
+Jackson,001 Ashland,Governor,,PRO,Chris Henry,36
+Jackson,001 Ashland,Governor,,REP,Knute Buehler,793
+Jackson,001 Ashland,State House,05,,Write-ins,1
+Jackson,001 Ashland,State House,05,DEM,Pam Marsh,5728
+Jackson,001 Ashland,State House,05,REP,Sandra A Abercrombie,649
+Jackson,001 Ashland,State Senate,03,,Write-ins,5
+Jackson,001 Ashland,State Senate,03,DEM,Jeff Golden,5559
+Jackson,001 Ashland,State Senate,03,REP,Jessica Gomez,911
+Jackson,001 Ashland,U.S. House,2,,Write-ins,3
+Jackson,001 Ashland,U.S. House,2,DEM,Jamie McLeod-Skinner,5688
+Jackson,001 Ashland,U.S. House,2,NON,Mark R Roberts,86
+Jackson,001 Ashland,U.S. House,2,REP,Greg Walden,758
+Jackson,002 Ashland,Governor,,,Write-ins,1
+Jackson,002 Ashland,Governor,,CON,Aaron Auer,24
+Jackson,002 Ashland,Governor,,DEM,Kate Brown,5158
+Jackson,002 Ashland,Governor,,LBT,Nick Chen,99
+Jackson,002 Ashland,Governor,,NON,Patrick Starnes,116
+Jackson,002 Ashland,Governor,,PRO,Chris Henry,51
+Jackson,002 Ashland,Governor,,REP,Knute Buehler,857
+Jackson,002 Ashland,State House,05,,Write-ins,3
+Jackson,002 Ashland,State House,05,DEM,Pam Marsh,5510
+Jackson,002 Ashland,State House,05,REP,Sandra A Abercrombie,701
+Jackson,002 Ashland,State Senate,03,,Write-ins,2
+Jackson,002 Ashland,State Senate,03,DEM,Jeff Golden,5304
+Jackson,002 Ashland,State Senate,03,REP,Jessica Gomez,994
+Jackson,002 Ashland,U.S. House,2,,Write-ins,2
+Jackson,002 Ashland,U.S. House,2,DEM,Jamie McLeod-Skinner,5428
+Jackson,002 Ashland,U.S. House,2,NON,Mark R Roberts,117
+Jackson,002 Ashland,U.S. House,2,REP,Greg Walden,815
+Jackson,003 Butte Falls,Governor,,,Write-ins,3
+Jackson,003 Butte Falls,Governor,,CON,Aaron Auer,7
+Jackson,003 Butte Falls,Governor,,DEM,Kate Brown,116
+Jackson,003 Butte Falls,Governor,,LBT,Nick Chen,7
+Jackson,003 Butte Falls,Governor,,NON,Patrick Starnes,43
+Jackson,003 Butte Falls,Governor,,PRO,Chris Henry,4
+Jackson,003 Butte Falls,Governor,,REP,Knute Buehler,403
+Jackson,003 Butte Falls,State House,55,,Write-ins,2
+Jackson,003 Butte Falls,State House,55,DEM,Karen Rippberger,147
+Jackson,003 Butte Falls,State House,55,REP,Mike McLane,411
+Jackson,003 Butte Falls,U.S. House,2,,Write-ins,2
+Jackson,003 Butte Falls,U.S. House,2,DEM,Jamie McLeod-Skinner,142
+Jackson,003 Butte Falls,U.S. House,2,NON,Mark R Roberts,44
+Jackson,003 Butte Falls,U.S. House,2,REP,Greg Walden,395
+Jackson,004 Central Point,Governor,,,Write-ins,3
+Jackson,004 Central Point,Governor,,CON,Aaron Auer,27
+Jackson,004 Central Point,Governor,,DEM,Kate Brown,513
+Jackson,004 Central Point,Governor,,LBT,Nick Chen,42
+Jackson,004 Central Point,Governor,,NON,Patrick Starnes,139
+Jackson,004 Central Point,Governor,,PRO,Chris Henry,11
+Jackson,004 Central Point,Governor,,REP,Knute Buehler,1320
+Jackson,004 Central Point,State House,04,,Write-ins,24
+Jackson,004 Central Point,State House,04,REP,Duane A Stark,1403
+Jackson,004 Central Point,U.S. House,2,,Write-ins,3
+Jackson,004 Central Point,U.S. House,2,DEM,Jamie McLeod-Skinner,596
+Jackson,004 Central Point,U.S. House,2,NON,Mark R Roberts,116
+Jackson,004 Central Point,U.S. House,2,REP,Greg Walden,1343
+Jackson,005 Central Point,Governor,,,Write-ins,4
+Jackson,005 Central Point,Governor,,CON,Aaron Auer,36
+Jackson,005 Central Point,Governor,,DEM,Kate Brown,789
+Jackson,005 Central Point,Governor,,LBT,Nick Chen,49
+Jackson,005 Central Point,Governor,,NON,Patrick Starnes,116
+Jackson,005 Central Point,Governor,,PRO,Chris Henry,20
+Jackson,005 Central Point,Governor,,REP,Knute Buehler,1738
+Jackson,005 Central Point,State House,04,,Write-ins,27
+Jackson,005 Central Point,State House,04,REP,Duane A Stark,1896
+Jackson,005 Central Point,U.S. House,2,,Write-ins,2
+Jackson,005 Central Point,U.S. House,2,DEM,Jamie McLeod-Skinner,888
+Jackson,005 Central Point,U.S. House,2,NON,Mark R Roberts,136
+Jackson,005 Central Point,U.S. House,2,REP,Greg Walden,1740
+Jackson,006 Central Point,Governor,,,Write-ins,5
+Jackson,006 Central Point,Governor,,CON,Aaron Auer,37
+Jackson,006 Central Point,Governor,,DEM,Kate Brown,547
+Jackson,006 Central Point,Governor,,LBT,Nick Chen,40
+Jackson,006 Central Point,Governor,,NON,Patrick Starnes,105
+Jackson,006 Central Point,Governor,,PRO,Chris Henry,17
+Jackson,006 Central Point,Governor,,REP,Knute Buehler,1230
+Jackson,006 Central Point,State House,04,,Write-ins,25
+Jackson,006 Central Point,State House,04,REP,Duane A Stark,1290
+Jackson,006 Central Point,U.S. House,2,,Write-ins,1
+Jackson,006 Central Point,U.S. House,2,DEM,Jamie McLeod-Skinner,622
+Jackson,006 Central Point,U.S. House,2,NON,Mark R Roberts,152
+Jackson,006 Central Point,U.S. House,2,REP,Greg Walden,1216
+Jackson,007 Central Point,Governor,,,Write-ins,4
+Jackson,007 Central Point,Governor,,CON,Aaron Auer,7
+Jackson,007 Central Point,Governor,,DEM,Kate Brown,298
+Jackson,007 Central Point,Governor,,LBT,Nick Chen,15
+Jackson,007 Central Point,Governor,,NON,Patrick Starnes,45
+Jackson,007 Central Point,Governor,,PRO,Chris Henry,8
+Jackson,007 Central Point,Governor,,REP,Knute Buehler,852
+Jackson,007 Central Point,State House,04,,Write-ins,15
+Jackson,007 Central Point,State House,04,REP,Duane A Stark,815
+Jackson,007 Central Point,U.S. House,2,,Write-ins,0
+Jackson,007 Central Point,U.S. House,2,DEM,Jamie McLeod-Skinner,334
+Jackson,007 Central Point,U.S. House,2,NON,Mark R Roberts,46
+Jackson,007 Central Point,U.S. House,2,REP,Greg Walden,844
+Jackson,008 Eagle Point,Governor,,,Write-ins,6
+Jackson,008 Eagle Point,Governor,,CON,Aaron Auer,64
+Jackson,008 Eagle Point,Governor,,DEM,Kate Brown,927
+Jackson,008 Eagle Point,Governor,,LBT,Nick Chen,65
+Jackson,008 Eagle Point,Governor,,NON,Patrick Starnes,202
+Jackson,008 Eagle Point,Governor,,PRO,Chris Henry,17
+Jackson,008 Eagle Point,Governor,,REP,Knute Buehler,2839
+Jackson,008 Eagle Point,State House,04,,Write-ins,49
+Jackson,008 Eagle Point,State House,04,REP,Duane A Stark,2908
+Jackson,008 Eagle Point,State House,55,,Write-ins,0
+Jackson,008 Eagle Point,State House,55,DEM,Karen Rippberger,1
+Jackson,008 Eagle Point,State House,55,REP,Mike McLane,4
+Jackson,008 Eagle Point,U.S. House,2,,Write-ins,4
+Jackson,008 Eagle Point,U.S. House,2,DEM,Jamie McLeod-Skinner,1070
+Jackson,008 Eagle Point,U.S. House,2,NON,Mark R Roberts,223
+Jackson,008 Eagle Point,U.S. House,2,REP,Greg Walden,2829
+Jackson,009 Gold Hill,Governor,,,Write-ins,1
+Jackson,009 Gold Hill,Governor,,CON,Aaron Auer,14
+Jackson,009 Gold Hill,Governor,,DEM,Kate Brown,184
+Jackson,009 Gold Hill,Governor,,LBT,Nick Chen,15
+Jackson,009 Gold Hill,Governor,,NON,Patrick Starnes,33
+Jackson,009 Gold Hill,Governor,,PRO,Chris Henry,6
+Jackson,009 Gold Hill,Governor,,REP,Knute Buehler,318
+Jackson,009 Gold Hill,State House,04,,Write-ins,7
+Jackson,009 Gold Hill,State House,04,REP,Duane A Stark,379
+Jackson,009 Gold Hill,U.S. House,2,,Write-ins,2
+Jackson,009 Gold Hill,U.S. House,2,DEM,Jamie McLeod-Skinner,192
+Jackson,009 Gold Hill,U.S. House,2,NON,Mark R Roberts,37
+Jackson,009 Gold Hill,U.S. House,2,REP,Greg Walden,339
+Jackson,010 Jacksonville,Governor,,,Write-ins,0
+Jackson,010 Jacksonville,Governor,,CON,Aaron Auer,19
+Jackson,010 Jacksonville,Governor,,DEM,Kate Brown,963
+Jackson,010 Jacksonville,Governor,,LBT,Nick Chen,26
+Jackson,010 Jacksonville,Governor,,NON,Patrick Starnes,72
+Jackson,010 Jacksonville,Governor,,PRO,Chris Henry,5
+Jackson,010 Jacksonville,Governor,,REP,Knute Buehler,973
+Jackson,010 Jacksonville,State House,05,,Write-ins,1
+Jackson,010 Jacksonville,State House,05,DEM,Pam Marsh,1073
+Jackson,010 Jacksonville,State House,05,REP,Sandra A Abercrombie,887
+Jackson,010 Jacksonville,State Senate,03,,Write-ins,3
+Jackson,010 Jacksonville,State Senate,03,DEM,Jeff Golden,1045
+Jackson,010 Jacksonville,State Senate,03,REP,Jessica Gomez,1001
+Jackson,010 Jacksonville,U.S. House,2,,Write-ins,0
+Jackson,010 Jacksonville,U.S. House,2,DEM,Jamie McLeod-Skinner,1054
+Jackson,010 Jacksonville,U.S. House,2,NON,Mark R Roberts,70
+Jackson,010 Jacksonville,U.S. House,2,REP,Greg Walden,950
+Jackson,011 Medford,Governor,,,Write-ins,7
+Jackson,011 Medford,Governor,,CON,Aaron Auer,39
+Jackson,011 Medford,Governor,,DEM,Kate Brown,979
+Jackson,011 Medford,Governor,,LBT,Nick Chen,51
+Jackson,011 Medford,Governor,,NON,Patrick Starnes,129
+Jackson,011 Medford,Governor,,PRO,Chris Henry,23
+Jackson,011 Medford,Governor,,REP,Knute Buehler,1776
+Jackson,011 Medford,State House,06,,Write-ins,2
+Jackson,011 Medford,State House,06,DEM,Michelle Blum Atkinson,582
+Jackson,011 Medford,State House,06,REP,Kim Wallan,938
+Jackson,011 Medford,State House,55,,Write-ins,1
+Jackson,011 Medford,State House,55,DEM,Karen Rippberger,508
+Jackson,011 Medford,State House,55,REP,Mike McLane,892
+Jackson,011 Medford,State Senate,03,,Write-ins,3
+Jackson,011 Medford,State Senate,03,DEM,Jeff Golden,572
+Jackson,011 Medford,State Senate,03,REP,Jessica Gomez,973
+Jackson,011 Medford,U.S. House,2,,Write-ins,4
+Jackson,011 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,1086
+Jackson,011 Medford,U.S. House,2,NON,Mark R Roberts,142
+Jackson,011 Medford,U.S. House,2,REP,Greg Walden,1785
+Jackson,012 Medford,Governor,,,Write-ins,12
+Jackson,012 Medford,Governor,,CON,Aaron Auer,74
+Jackson,012 Medford,Governor,,DEM,Kate Brown,1960
+Jackson,012 Medford,Governor,,LBT,Nick Chen,107
+Jackson,012 Medford,Governor,,NON,Patrick Starnes,228
+Jackson,012 Medford,Governor,,PRO,Chris Henry,36
+Jackson,012 Medford,Governor,,REP,Knute Buehler,3053
+Jackson,012 Medford,State House,06,,Write-ins,7
+Jackson,012 Medford,State House,06,DEM,Michelle Blum Atkinson,2356
+Jackson,012 Medford,State House,06,REP,Kim Wallan,3015
+Jackson,012 Medford,State Senate,03,,Write-ins,6
+Jackson,012 Medford,State Senate,03,DEM,Jeff Golden,2250
+Jackson,012 Medford,State Senate,03,REP,Jessica Gomez,3190
+Jackson,012 Medford,U.S. House,2,,Write-ins,6
+Jackson,012 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,2214
+Jackson,012 Medford,U.S. House,2,NON,Mark R Roberts,246
+Jackson,012 Medford,U.S. House,2,REP,Greg Walden,3032
+Jackson,013 Medford,Governor,,,Write-ins,6
+Jackson,013 Medford,Governor,,CON,Aaron Auer,14
+Jackson,013 Medford,Governor,,DEM,Kate Brown,983
+Jackson,013 Medford,Governor,,LBT,Nick Chen,27
+Jackson,013 Medford,Governor,,NON,Patrick Starnes,47
+Jackson,013 Medford,Governor,,PRO,Chris Henry,5
+Jackson,013 Medford,Governor,,REP,Knute Buehler,1797
+Jackson,013 Medford,State House,06,,Write-ins,0
+Jackson,013 Medford,State House,06,DEM,Michelle Blum Atkinson,1103
+Jackson,013 Medford,State House,06,REP,Kim Wallan,1718
+Jackson,013 Medford,State Senate,03,,Write-ins,2
+Jackson,013 Medford,State Senate,03,DEM,Jeff Golden,1033
+Jackson,013 Medford,State Senate,03,REP,Jessica Gomez,1823
+Jackson,013 Medford,U.S. House,2,,Write-ins,1
+Jackson,013 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,1069
+Jackson,013 Medford,U.S. House,2,NON,Mark R Roberts,57
+Jackson,013 Medford,U.S. House,2,REP,Greg Walden,1753
+Jackson,014 Medford,Governor,,,Write-ins,2
+Jackson,014 Medford,Governor,,CON,Aaron Auer,12
+Jackson,014 Medford,Governor,,DEM,Kate Brown,630
+Jackson,014 Medford,Governor,,LBT,Nick Chen,23
+Jackson,014 Medford,Governor,,NON,Patrick Starnes,62
+Jackson,014 Medford,Governor,,PRO,Chris Henry,7
+Jackson,014 Medford,Governor,,REP,Knute Buehler,1078
+Jackson,014 Medford,State House,06,,Write-ins,2
+Jackson,014 Medford,State House,06,DEM,Michelle Blum Atkinson,717
+Jackson,014 Medford,State House,06,REP,Kim Wallan,1065
+Jackson,014 Medford,State Senate,03,,Write-ins,0
+Jackson,014 Medford,State Senate,03,DEM,Jeff Golden,691
+Jackson,014 Medford,State Senate,03,REP,Jessica Gomez,1120
+Jackson,014 Medford,U.S. House,2,,Write-ins,1
+Jackson,014 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,684
+Jackson,014 Medford,U.S. House,2,NON,Mark R Roberts,48
+Jackson,014 Medford,U.S. House,2,REP,Greg Walden,1094
+Jackson,015 Medford,Governor,,,Write-ins,2
+Jackson,015 Medford,Governor,,CON,Aaron Auer,22
+Jackson,015 Medford,Governor,,DEM,Kate Brown,1362
+Jackson,015 Medford,Governor,,LBT,Nick Chen,27
+Jackson,015 Medford,Governor,,NON,Patrick Starnes,125
+Jackson,015 Medford,Governor,,PRO,Chris Henry,17
+Jackson,015 Medford,Governor,,REP,Knute Buehler,1362
+Jackson,015 Medford,State House,06,,Write-ins,1
+Jackson,015 Medford,State House,06,DEM,Michelle Blum Atkinson,1529
+Jackson,015 Medford,State House,06,REP,Kim Wallan,1360
+Jackson,015 Medford,State Senate,03,,Write-ins,2
+Jackson,015 Medford,State Senate,03,DEM,Jeff Golden,1519
+Jackson,015 Medford,State Senate,03,REP,Jessica Gomez,1407
+Jackson,015 Medford,U.S. House,2,,Write-ins,0
+Jackson,015 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,1524
+Jackson,015 Medford,U.S. House,2,NON,Mark R Roberts,103
+Jackson,015 Medford,U.S. House,2,REP,Greg Walden,1308
+Jackson,016 Medford,Governor,,,Write-ins,3
+Jackson,016 Medford,Governor,,CON,Aaron Auer,21
+Jackson,016 Medford,Governor,,DEM,Kate Brown,1352
+Jackson,016 Medford,Governor,,LBT,Nick Chen,37
+Jackson,016 Medford,Governor,,NON,Patrick Starnes,138
+Jackson,016 Medford,Governor,,PRO,Chris Henry,11
+Jackson,016 Medford,Governor,,REP,Knute Buehler,1551
+Jackson,016 Medford,State House,05,,Write-ins,1
+Jackson,016 Medford,State House,05,DEM,Pam Marsh,514
+Jackson,016 Medford,State House,05,REP,Sandra A Abercrombie,424
+Jackson,016 Medford,State House,06,,Write-ins,1
+Jackson,016 Medford,State House,06,DEM,Michelle Blum Atkinson,995
+Jackson,016 Medford,State House,06,REP,Kim Wallan,1089
+Jackson,016 Medford,State Senate,03,,Write-ins,2
+Jackson,016 Medford,State Senate,03,DEM,Jeff Golden,1514
+Jackson,016 Medford,State Senate,03,REP,Jessica Gomez,1593
+Jackson,016 Medford,U.S. House,2,,Write-ins,3
+Jackson,016 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,1440
+Jackson,016 Medford,U.S. House,2,NON,Mark R Roberts,76
+Jackson,016 Medford,U.S. House,2,REP,Greg Walden,1601
+Jackson,017 Medford,Governor,,,Write-ins,5
+Jackson,017 Medford,Governor,,CON,Aaron Auer,70
+Jackson,017 Medford,Governor,,DEM,Kate Brown,1125
+Jackson,017 Medford,Governor,,LBT,Nick Chen,66
+Jackson,017 Medford,Governor,,NON,Patrick Starnes,132
+Jackson,017 Medford,Governor,,PRO,Chris Henry,24
+Jackson,017 Medford,Governor,,REP,Knute Buehler,1851
+Jackson,017 Medford,State House,05,,Write-ins,5
+Jackson,017 Medford,State House,05,DEM,Pam Marsh,1411
+Jackson,017 Medford,State House,05,REP,Sandra A Abercrombie,1741
+Jackson,017 Medford,State Senate,03,,Write-ins,11
+Jackson,017 Medford,State Senate,03,DEM,Jeff Golden,1284
+Jackson,017 Medford,State Senate,03,REP,Jessica Gomez,1972
+Jackson,017 Medford,U.S. House,2,,Write-ins,3
+Jackson,017 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,1317
+Jackson,017 Medford,U.S. House,2,NON,Mark R Roberts,173
+Jackson,017 Medford,U.S. House,2,REP,Greg Walden,1815
+Jackson,018 Medford,Governor,,,Write-ins,3
+Jackson,018 Medford,Governor,,CON,Aaron Auer,56
+Jackson,018 Medford,Governor,,DEM,Kate Brown,943
+Jackson,018 Medford,Governor,,LBT,Nick Chen,67
+Jackson,018 Medford,Governor,,NON,Patrick Starnes,141
+Jackson,018 Medford,Governor,,PRO,Chris Henry,26
+Jackson,018 Medford,Governor,,REP,Knute Buehler,1321
+Jackson,018 Medford,State House,06,,Write-ins,3
+Jackson,018 Medford,State House,06,DEM,Michelle Blum Atkinson,1196
+Jackson,018 Medford,State House,06,REP,Kim Wallan,1296
+Jackson,018 Medford,State Senate,03,,Write-ins,3
+Jackson,018 Medford,State Senate,03,DEM,Jeff Golden,1118
+Jackson,018 Medford,State Senate,03,REP,Jessica Gomez,1427
+Jackson,018 Medford,U.S. House,2,,Write-ins,1
+Jackson,018 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,1110
+Jackson,018 Medford,U.S. House,2,NON,Mark R Roberts,147
+Jackson,018 Medford,U.S. House,2,REP,Greg Walden,1306
+Jackson,019 Medford,Governor,,,Write-ins,5
+Jackson,019 Medford,Governor,,CON,Aaron Auer,55
+Jackson,019 Medford,Governor,,DEM,Kate Brown,1091
+Jackson,019 Medford,Governor,,LBT,Nick Chen,77
+Jackson,019 Medford,Governor,,NON,Patrick Starnes,163
+Jackson,019 Medford,Governor,,PRO,Chris Henry,45
+Jackson,019 Medford,Governor,,REP,Knute Buehler,896
+Jackson,019 Medford,State House,05,,Write-ins,1
+Jackson,019 Medford,State House,05,DEM,Pam Marsh,96
+Jackson,019 Medford,State House,05,REP,Sandra A Abercrombie,77
+Jackson,019 Medford,State House,06,,Write-ins,6
+Jackson,019 Medford,State House,06,DEM,Michelle Blum Atkinson,1257
+Jackson,019 Medford,State House,06,REP,Kim Wallan,844
+Jackson,019 Medford,State Senate,03,,Write-ins,5
+Jackson,019 Medford,State Senate,03,DEM,Jeff Golden,1272
+Jackson,019 Medford,State Senate,03,REP,Jessica Gomez,1042
+Jackson,019 Medford,U.S. House,2,,Write-ins,2
+Jackson,019 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,1242
+Jackson,019 Medford,U.S. House,2,NON,Mark R Roberts,155
+Jackson,019 Medford,U.S. House,2,REP,Greg Walden,936
+Jackson,020 Medford,Governor,,,Write-ins,10
+Jackson,020 Medford,Governor,,CON,Aaron Auer,86
+Jackson,020 Medford,Governor,,DEM,Kate Brown,1668
+Jackson,020 Medford,Governor,,LBT,Nick Chen,110
+Jackson,020 Medford,Governor,,NON,Patrick Starnes,262
+Jackson,020 Medford,Governor,,PRO,Chris Henry,41
+Jackson,020 Medford,Governor,,REP,Knute Buehler,2400
+Jackson,020 Medford,State House,05,,Write-ins,0
+Jackson,020 Medford,State House,05,DEM,Pam Marsh,151
+Jackson,020 Medford,State House,05,REP,Sandra A Abercrombie,186
+Jackson,020 Medford,State House,06,,Write-ins,5
+Jackson,020 Medford,State House,06,DEM,Michelle Blum Atkinson,1962
+Jackson,020 Medford,State House,06,REP,Kim Wallan,2176
+Jackson,020 Medford,State Senate,03,,Write-ins,6
+Jackson,020 Medford,State Senate,03,DEM,Jeff Golden,2002
+Jackson,020 Medford,State Senate,03,REP,Jessica Gomez,2585
+Jackson,020 Medford,U.S. House,2,,Write-ins,8
+Jackson,020 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,1873
+Jackson,020 Medford,U.S. House,2,NON,Mark R Roberts,251
+Jackson,020 Medford,U.S. House,2,REP,Greg Walden,2468
+Jackson,021 Medford,Governor,,,Write-ins,3
+Jackson,021 Medford,Governor,,CON,Aaron Auer,27
+Jackson,021 Medford,Governor,,DEM,Kate Brown,671
+Jackson,021 Medford,Governor,,LBT,Nick Chen,45
+Jackson,021 Medford,Governor,,NON,Patrick Starnes,106
+Jackson,021 Medford,Governor,,PRO,Chris Henry,20
+Jackson,021 Medford,Governor,,REP,Knute Buehler,1041
+Jackson,021 Medford,State House,06,,Write-ins,5
+Jackson,021 Medford,State House,06,DEM,Michelle Blum Atkinson,783
+Jackson,021 Medford,State House,06,REP,Kim Wallan,1075
+Jackson,021 Medford,State Senate,03,,Write-ins,4
+Jackson,021 Medford,State Senate,03,DEM,Jeff Golden,756
+Jackson,021 Medford,State Senate,03,REP,Jessica Gomez,1139
+Jackson,021 Medford,U.S. House,2,,Write-ins,2
+Jackson,021 Medford,U.S. House,2,DEM,Jamie McLeod-Skinner,733
+Jackson,021 Medford,U.S. House,2,NON,Mark R Roberts,94
+Jackson,021 Medford,U.S. House,2,REP,Greg Walden,1083
+Jackson,022 Phoenix,Governor,,,Write-ins,1
+Jackson,022 Phoenix,Governor,,CON,Aaron Auer,29
+Jackson,022 Phoenix,Governor,,DEM,Kate Brown,1050
+Jackson,022 Phoenix,Governor,,LBT,Nick Chen,54
+Jackson,022 Phoenix,Governor,,NON,Patrick Starnes,101
+Jackson,022 Phoenix,Governor,,PRO,Chris Henry,22
+Jackson,022 Phoenix,Governor,,REP,Knute Buehler,980
+Jackson,022 Phoenix,State House,05,,Write-ins,3
+Jackson,022 Phoenix,State House,05,DEM,Pam Marsh,1249
+Jackson,022 Phoenix,State House,05,REP,Sandra A Abercrombie,926
+Jackson,022 Phoenix,State Senate,03,,Write-ins,1
+Jackson,022 Phoenix,State Senate,03,DEM,Jeff Golden,1198
+Jackson,022 Phoenix,State Senate,03,REP,Jessica Gomez,1047
+Jackson,022 Phoenix,U.S. House,2,,Write-ins,1
+Jackson,022 Phoenix,U.S. House,2,DEM,Jamie McLeod-Skinner,1163
+Jackson,022 Phoenix,U.S. House,2,NON,Mark R Roberts,69
+Jackson,022 Phoenix,U.S. House,2,REP,Greg Walden,1024
+Jackson,023 Rogue River,Governor,,,Write-ins,3
+Jackson,023 Rogue River,Governor,,CON,Aaron Auer,26
+Jackson,023 Rogue River,Governor,,DEM,Kate Brown,287
+Jackson,023 Rogue River,Governor,,LBT,Nick Chen,17
+Jackson,023 Rogue River,Governor,,NON,Patrick Starnes,54
+Jackson,023 Rogue River,Governor,,PRO,Chris Henry,9
+Jackson,023 Rogue River,Governor,,REP,Knute Buehler,635
+Jackson,023 Rogue River,State House,04,,Write-ins,19
+Jackson,023 Rogue River,State House,04,REP,Duane A Stark,723
+Jackson,023 Rogue River,U.S. House,2,,Write-ins,2
+Jackson,023 Rogue River,U.S. House,2,DEM,Jamie McLeod-Skinner,333
+Jackson,023 Rogue River,U.S. House,2,NON,Mark R Roberts,75
+Jackson,023 Rogue River,U.S. House,2,REP,Greg Walden,623
+Jackson,024 Shady Cove,Governor,,,Write-ins,1
+Jackson,024 Shady Cove,Governor,,CON,Aaron Auer,28
+Jackson,024 Shady Cove,Governor,,DEM,Kate Brown,399
+Jackson,024 Shady Cove,Governor,,LBT,Nick Chen,24
+Jackson,024 Shady Cove,Governor,,NON,Patrick Starnes,90
+Jackson,024 Shady Cove,Governor,,PRO,Chris Henry,9
+Jackson,024 Shady Cove,Governor,,REP,Knute Buehler,953
+Jackson,024 Shady Cove,State House,55,,Write-ins,0
+Jackson,024 Shady Cove,State House,55,DEM,Karen Rippberger,452
+Jackson,024 Shady Cove,State House,55,REP,Mike McLane,1005
+Jackson,024 Shady Cove,U.S. House,2,,Write-ins,1
+Jackson,024 Shady Cove,U.S. House,2,DEM,Jamie McLeod-Skinner,416
+Jackson,024 Shady Cove,U.S. House,2,NON,Mark R Roberts,89
+Jackson,024 Shady Cove,U.S. House,2,REP,Greg Walden,992
+Jackson,025 Talent,Governor,,,Write-ins,1
+Jackson,025 Talent,Governor,,CON,Aaron Auer,23
+Jackson,025 Talent,Governor,,DEM,Kate Brown,2137
+Jackson,025 Talent,Governor,,LBT,Nick Chen,63
+Jackson,025 Talent,Governor,,NON,Patrick Starnes,126
+Jackson,025 Talent,Governor,,PRO,Chris Henry,25
+Jackson,025 Talent,Governor,,REP,Knute Buehler,860
+Jackson,025 Talent,State House,05,,Write-ins,1
+Jackson,025 Talent,State House,05,DEM,Pam Marsh,2369
+Jackson,025 Talent,State House,05,REP,Sandra A Abercrombie,756
+Jackson,025 Talent,State Senate,03,,Write-ins,0
+Jackson,025 Talent,State Senate,03,DEM,Jeff Golden,2324
+Jackson,025 Talent,State Senate,03,REP,Jessica Gomez,914
+Jackson,025 Talent,U.S. House,2,,Write-ins,1
+Jackson,025 Talent,U.S. House,2,DEM,Jamie McLeod-Skinner,2307
+Jackson,025 Talent,U.S. House,2,NON,Mark R Roberts,88
+Jackson,025 Talent,U.S. House,2,REP,Greg Walden,855
+Jackson,026 Ashland Pinehurst,Governor,,,Write-ins,1
+Jackson,026 Ashland Pinehurst,Governor,,CON,Aaron Auer,15
+Jackson,026 Ashland Pinehurst,Governor,,DEM,Kate Brown,1915
+Jackson,026 Ashland Pinehurst,Governor,,LBT,Nick Chen,47
+Jackson,026 Ashland Pinehurst,Governor,,NON,Patrick Starnes,83
+Jackson,026 Ashland Pinehurst,Governor,,PRO,Chris Henry,26
+Jackson,026 Ashland Pinehurst,Governor,,REP,Knute Buehler,872
+Jackson,026 Ashland Pinehurst,State House,05,,Write-ins,1
+Jackson,026 Ashland Pinehurst,State House,05,DEM,Pam Marsh,2107
+Jackson,026 Ashland Pinehurst,State House,05,REP,Sandra A Abercrombie,785
+Jackson,026 Ashland Pinehurst,State House,55,,Write-ins,0
+Jackson,026 Ashland Pinehurst,State House,55,DEM,Karen Rippberger,0
+Jackson,026 Ashland Pinehurst,State House,55,REP,Mike McLane,1
+Jackson,026 Ashland Pinehurst,State Senate,03,,Write-ins,4
+Jackson,026 Ashland Pinehurst,State Senate,03,DEM,Jeff Golden,2018
+Jackson,026 Ashland Pinehurst,State Senate,03,REP,Jessica Gomez,934
+Jackson,026 Ashland Pinehurst,U.S. House,2,,Write-ins,0
+Jackson,026 Ashland Pinehurst,U.S. House,2,DEM,Jamie McLeod-Skinner,2039
+Jackson,026 Ashland Pinehurst,U.S. House,2,NON,Mark R Roberts,67
+Jackson,026 Ashland Pinehurst,U.S. House,2,REP,Greg Walden,877
+Jackson,027 Prospect,Governor,,,Write-ins,0
+Jackson,027 Prospect,Governor,,CON,Aaron Auer,8
+Jackson,027 Prospect,Governor,,DEM,Kate Brown,110
+Jackson,027 Prospect,Governor,,LBT,Nick Chen,4
+Jackson,027 Prospect,Governor,,NON,Patrick Starnes,30
+Jackson,027 Prospect,Governor,,PRO,Chris Henry,4
+Jackson,027 Prospect,Governor,,REP,Knute Buehler,279
+Jackson,027 Prospect,State House,55,,Write-ins,0
+Jackson,027 Prospect,State House,55,DEM,Karen Rippberger,141
+Jackson,027 Prospect,State House,55,REP,Mike McLane,289
+Jackson,027 Prospect,U.S. House,2,,Write-ins,0
+Jackson,027 Prospect,U.S. House,2,DEM,Jamie McLeod-Skinner,134
+Jackson,027 Prospect,U.S. House,2,NON,Mark R Roberts,17
+Jackson,027 Prospect,U.S. House,2,REP,Greg Walden,288
+Jackson,028 Shady Cove Rur,Governor,,,Write-ins,0
+Jackson,028 Shady Cove Rur,Governor,,CON,Aaron Auer,42
+Jackson,028 Shady Cove Rur,Governor,,DEM,Kate Brown,385
+Jackson,028 Shady Cove Rur,Governor,,LBT,Nick Chen,14
+Jackson,028 Shady Cove Rur,Governor,,NON,Patrick Starnes,81
+Jackson,028 Shady Cove Rur,Governor,,PRO,Chris Henry,11
+Jackson,028 Shady Cove Rur,Governor,,REP,Knute Buehler,1198
+Jackson,028 Shady Cove Rur,State House,55,,Write-ins,2
+Jackson,028 Shady Cove Rur,State House,55,DEM,Karen Rippberger,440
+Jackson,028 Shady Cove Rur,State House,55,REP,Mike McLane,1248
+Jackson,028 Shady Cove Rur,U.S. House,2,,Write-ins,0
+Jackson,028 Shady Cove Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,419
+Jackson,028 Shady Cove Rur,U.S. House,2,NON,Mark R Roberts,89
+Jackson,028 Shady Cove Rur,U.S. House,2,REP,Greg Walden,1234
+Jackson,029 Medford W Rur,Governor,,,Write-ins,3
+Jackson,029 Medford W Rur,Governor,,CON,Aaron Auer,28
+Jackson,029 Medford W Rur,Governor,,DEM,Kate Brown,442
+Jackson,029 Medford W Rur,Governor,,LBT,Nick Chen,23
+Jackson,029 Medford W Rur,Governor,,NON,Patrick Starnes,67
+Jackson,029 Medford W Rur,Governor,,PRO,Chris Henry,7
+Jackson,029 Medford W Rur,Governor,,REP,Knute Buehler,901
+Jackson,029 Medford W Rur,State House,05,,Write-ins,4
+Jackson,029 Medford W Rur,State House,05,DEM,Pam Marsh,527
+Jackson,029 Medford W Rur,State House,05,REP,Sandra A Abercrombie,758
+Jackson,029 Medford W Rur,State House,06,,Write-ins,0
+Jackson,029 Medford W Rur,State House,06,DEM,Michelle Blum Atkinson,34
+Jackson,029 Medford W Rur,State House,06,REP,Kim Wallan,88
+Jackson,029 Medford W Rur,State Senate,03,,Write-ins,1
+Jackson,029 Medford W Rur,State Senate,03,DEM,Jeff Golden,555
+Jackson,029 Medford W Rur,State Senate,03,REP,Jessica Gomez,919
+Jackson,029 Medford W Rur,U.S. House,2,,Write-ins,1
+Jackson,029 Medford W Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,522
+Jackson,029 Medford W Rur,U.S. House,2,NON,Mark R Roberts,79
+Jackson,029 Medford W Rur,U.S. House,2,REP,Greg Walden,887
+Jackson,030 Lake Creek,Governor,,,Write-ins,0
+Jackson,030 Lake Creek,Governor,,CON,Aaron Auer,1
+Jackson,030 Lake Creek,Governor,,DEM,Kate Brown,49
+Jackson,030 Lake Creek,Governor,,LBT,Nick Chen,2
+Jackson,030 Lake Creek,Governor,,NON,Patrick Starnes,3
+Jackson,030 Lake Creek,Governor,,PRO,Chris Henry,0
+Jackson,030 Lake Creek,Governor,,REP,Knute Buehler,96
+Jackson,030 Lake Creek,State House,55,,Write-ins,0
+Jackson,030 Lake Creek,State House,55,DEM,Karen Rippberger,53
+Jackson,030 Lake Creek,State House,55,REP,Mike McLane,94
+Jackson,030 Lake Creek,U.S. House,2,,Write-ins,0
+Jackson,030 Lake Creek,U.S. House,2,DEM,Jamie McLeod-Skinner,51
+Jackson,030 Lake Creek,U.S. House,2,NON,Mark R Roberts,2
+Jackson,030 Lake Creek,U.S. House,2,REP,Greg Walden,97
+Jackson,031 White City Rur,Governor,,,Write-ins,2
+Jackson,031 White City Rur,Governor,,CON,Aaron Auer,19
+Jackson,031 White City Rur,Governor,,DEM,Kate Brown,164
+Jackson,031 White City Rur,Governor,,LBT,Nick Chen,21
+Jackson,031 White City Rur,Governor,,NON,Patrick Starnes,20
+Jackson,031 White City Rur,Governor,,PRO,Chris Henry,2
+Jackson,031 White City Rur,Governor,,REP,Knute Buehler,641
+Jackson,031 White City Rur,State House,04,,Write-ins,0
+Jackson,031 White City Rur,State House,04,REP,Duane A Stark,19
+Jackson,031 White City Rur,State House,55,,Write-ins,1
+Jackson,031 White City Rur,State House,55,DEM,Karen Rippberger,206
+Jackson,031 White City Rur,State House,55,REP,Mike McLane,622
+Jackson,031 White City Rur,U.S. House,2,,Write-ins,0
+Jackson,031 White City Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,200
+Jackson,031 White City Rur,U.S. House,2,NON,Mark R Roberts,51
+Jackson,031 White City Rur,U.S. House,2,REP,Greg Walden,621
+Jackson,032 Jacksonville E Rur,Governor,,,Write-ins,0
+Jackson,032 Jacksonville E Rur,Governor,,CON,Aaron Auer,19
+Jackson,032 Jacksonville E Rur,Governor,,DEM,Kate Brown,407
+Jackson,032 Jacksonville E Rur,Governor,,LBT,Nick Chen,12
+Jackson,032 Jacksonville E Rur,Governor,,NON,Patrick Starnes,37
+Jackson,032 Jacksonville E Rur,Governor,,PRO,Chris Henry,8
+Jackson,032 Jacksonville E Rur,Governor,,REP,Knute Buehler,860
+Jackson,032 Jacksonville E Rur,State House,05,,Write-ins,1
+Jackson,032 Jacksonville E Rur,State House,05,DEM,Pam Marsh,494
+Jackson,032 Jacksonville E Rur,State House,05,REP,Sandra A Abercrombie,785
+Jackson,032 Jacksonville E Rur,State Senate,03,,Write-ins,3
+Jackson,032 Jacksonville E Rur,State Senate,03,DEM,Jeff Golden,503
+Jackson,032 Jacksonville E Rur,State Senate,03,REP,Jessica Gomez,832
+Jackson,032 Jacksonville E Rur,U.S. House,2,,Write-ins,0
+Jackson,032 Jacksonville E Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,460
+Jackson,032 Jacksonville E Rur,U.S. House,2,NON,Mark R Roberts,45
+Jackson,032 Jacksonville E Rur,U.S. House,2,REP,Greg Walden,847
+Jackson,033 Jacksonville W Rur,Governor,,,Write-ins,5
+Jackson,033 Jacksonville W Rur,Governor,,CON,Aaron Auer,10
+Jackson,033 Jacksonville W Rur,Governor,,DEM,Kate Brown,385
+Jackson,033 Jacksonville W Rur,Governor,,LBT,Nick Chen,11
+Jackson,033 Jacksonville W Rur,Governor,,NON,Patrick Starnes,39
+Jackson,033 Jacksonville W Rur,Governor,,PRO,Chris Henry,3
+Jackson,033 Jacksonville W Rur,Governor,,REP,Knute Buehler,772
+Jackson,033 Jacksonville W Rur,State House,04,,Write-ins,12
+Jackson,033 Jacksonville W Rur,State House,04,REP,Duane A Stark,734
+Jackson,033 Jacksonville W Rur,U.S. House,2,,Write-ins,1
+Jackson,033 Jacksonville W Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,416
+Jackson,033 Jacksonville W Rur,U.S. House,2,NON,Mark R Roberts,46
+Jackson,033 Jacksonville W Rur,U.S. House,2,REP,Greg Walden,769
+Jackson,034 Eagle Pt Rur,Governor,,,Write-ins,2
+Jackson,034 Eagle Pt Rur,Governor,,CON,Aaron Auer,17
+Jackson,034 Eagle Pt Rur,Governor,,DEM,Kate Brown,282
+Jackson,034 Eagle Pt Rur,Governor,,LBT,Nick Chen,17
+Jackson,034 Eagle Pt Rur,Governor,,NON,Patrick Starnes,53
+Jackson,034 Eagle Pt Rur,Governor,,PRO,Chris Henry,5
+Jackson,034 Eagle Pt Rur,Governor,,REP,Knute Buehler,1060
+Jackson,034 Eagle Pt Rur,State House,04,,Write-ins,4
+Jackson,034 Eagle Pt Rur,State House,04,REP,Duane A Stark,261
+Jackson,034 Eagle Pt Rur,State House,55,,Write-ins,0
+Jackson,034 Eagle Pt Rur,State House,55,DEM,Karen Rippberger,217
+Jackson,034 Eagle Pt Rur,State House,55,REP,Mike McLane,787
+Jackson,034 Eagle Pt Rur,U.S. House,2,,Write-ins,0
+Jackson,034 Eagle Pt Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,305
+Jackson,034 Eagle Pt Rur,U.S. House,2,NON,Mark R Roberts,54
+Jackson,034 Eagle Pt Rur,U.S. House,2,REP,Greg Walden,1084
+Jackson,035 Ruch,Governor,,,Write-ins,2
+Jackson,035 Ruch,Governor,,CON,Aaron Auer,35
+Jackson,035 Ruch,Governor,,DEM,Kate Brown,936
+Jackson,035 Ruch,Governor,,LBT,Nick Chen,43
+Jackson,035 Ruch,Governor,,NON,Patrick Starnes,67
+Jackson,035 Ruch,Governor,,PRO,Chris Henry,17
+Jackson,035 Ruch,Governor,,REP,Knute Buehler,1163
+Jackson,035 Ruch,State House,05,,Write-ins,2
+Jackson,035 Ruch,State House,05,DEM,Pam Marsh,1063
+Jackson,035 Ruch,State House,05,REP,Sandra A Abercrombie,1116
+Jackson,035 Ruch,State Senate,03,,Write-ins,5
+Jackson,035 Ruch,State Senate,03,DEM,Jeff Golden,1023
+Jackson,035 Ruch,State Senate,03,REP,Jessica Gomez,1214
+Jackson,035 Ruch,U.S. House,2,,Write-ins,1
+Jackson,035 Ruch,U.S. House,2,DEM,Jamie McLeod-Skinner,1019
+Jackson,035 Ruch,U.S. House,2,NON,Mark R Roberts,84
+Jackson,035 Ruch,U.S. House,2,REP,Greg Walden,1159
+Jackson,036 White City,Governor,,,Write-ins,3
+Jackson,036 White City,Governor,,CON,Aaron Auer,54
+Jackson,036 White City,Governor,,DEM,Kate Brown,622
+Jackson,036 White City,Governor,,LBT,Nick Chen,57
+Jackson,036 White City,Governor,,NON,Patrick Starnes,135
+Jackson,036 White City,Governor,,PRO,Chris Henry,27
+Jackson,036 White City,Governor,,REP,Knute Buehler,1441
+Jackson,036 White City,State House,04,,Write-ins,46
+Jackson,036 White City,State House,04,REP,Duane A Stark,1533
+Jackson,036 White City,State House,55,,Write-ins,0
+Jackson,036 White City,State House,55,DEM,Karen Rippberger,26
+Jackson,036 White City,State House,55,REP,Mike McLane,69
+Jackson,036 White City,U.S. House,2,,Write-ins,7
+Jackson,036 White City,U.S. House,2,DEM,Jamie McLeod-Skinner,719
+Jackson,036 White City,U.S. House,2,NON,Mark R Roberts,170
+Jackson,036 White City,U.S. House,2,REP,Greg Walden,1423
+Jackson,037 Talent Rur,Governor,,,Write-ins,0
+Jackson,037 Talent Rur,Governor,,CON,Aaron Auer,4
+Jackson,037 Talent Rur,Governor,,DEM,Kate Brown,691
+Jackson,037 Talent Rur,Governor,,LBT,Nick Chen,17
+Jackson,037 Talent Rur,Governor,,NON,Patrick Starnes,46
+Jackson,037 Talent Rur,Governor,,PRO,Chris Henry,11
+Jackson,037 Talent Rur,Governor,,REP,Knute Buehler,350
+Jackson,037 Talent Rur,State House,05,,Write-ins,0
+Jackson,037 Talent Rur,State House,05,DEM,Pam Marsh,772
+Jackson,037 Talent Rur,State House,05,REP,Sandra A Abercrombie,318
+Jackson,037 Talent Rur,State Senate,03,,Write-ins,0
+Jackson,037 Talent Rur,State Senate,03,DEM,Jeff Golden,741
+Jackson,037 Talent Rur,State Senate,03,REP,Jessica Gomez,386
+Jackson,037 Talent Rur,U.S. House,2,,Write-ins,0
+Jackson,037 Talent Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,739
+Jackson,037 Talent Rur,U.S. House,2,NON,Mark R Roberts,22
+Jackson,037 Talent Rur,U.S. House,2,REP,Greg Walden,365
+Jackson,038 Medford E Rur,Governor,,,Write-ins,0
+Jackson,038 Medford E Rur,Governor,,CON,Aaron Auer,15
+Jackson,038 Medford E Rur,Governor,,DEM,Kate Brown,236
+Jackson,038 Medford E Rur,Governor,,LBT,Nick Chen,15
+Jackson,038 Medford E Rur,Governor,,NON,Patrick Starnes,29
+Jackson,038 Medford E Rur,Governor,,PRO,Chris Henry,8
+Jackson,038 Medford E Rur,Governor,,REP,Knute Buehler,601
+Jackson,038 Medford E Rur,State House,04,,Write-ins,0
+Jackson,038 Medford E Rur,State House,04,REP,Duane A Stark,23
+Jackson,038 Medford E Rur,State House,05,,Write-ins,0
+Jackson,038 Medford E Rur,State House,05,DEM,Pam Marsh,1
+Jackson,038 Medford E Rur,State House,05,REP,Sandra A Abercrombie,1
+Jackson,038 Medford E Rur,State House,06,,Write-ins,0
+Jackson,038 Medford E Rur,State House,06,DEM,Michelle Blum Atkinson,15
+Jackson,038 Medford E Rur,State House,06,REP,Kim Wallan,14
+Jackson,038 Medford E Rur,State House,55,,Write-ins,1
+Jackson,038 Medford E Rur,State House,55,DEM,Karen Rippberger,218
+Jackson,038 Medford E Rur,State House,55,REP,Mike McLane,599
+Jackson,038 Medford E Rur,State Senate,03,,Write-ins,0
+Jackson,038 Medford E Rur,State Senate,03,DEM,Jeff Golden,18
+Jackson,038 Medford E Rur,State Senate,03,REP,Jessica Gomez,14
+Jackson,038 Medford E Rur,U.S. House,2,,Write-ins,0
+Jackson,038 Medford E Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,251
+Jackson,038 Medford E Rur,U.S. House,2,NON,Mark R Roberts,40
+Jackson,038 Medford E Rur,U.S. House,2,REP,Greg Walden,618
+Jackson,039 Phoenix Rur,Governor,,,Write-ins,3
+Jackson,039 Phoenix Rur,Governor,,CON,Aaron Auer,25
+Jackson,039 Phoenix Rur,Governor,,DEM,Kate Brown,1037
+Jackson,039 Phoenix Rur,Governor,,LBT,Nick Chen,50
+Jackson,039 Phoenix Rur,Governor,,NON,Patrick Starnes,141
+Jackson,039 Phoenix Rur,Governor,,PRO,Chris Henry,18
+Jackson,039 Phoenix Rur,Governor,,REP,Knute Buehler,1196
+Jackson,039 Phoenix Rur,State House,05,,Write-ins,3
+Jackson,039 Phoenix Rur,State House,05,DEM,Pam Marsh,1221
+Jackson,039 Phoenix Rur,State House,05,REP,Sandra A Abercrombie,1156
+Jackson,039 Phoenix Rur,State Senate,03,,Write-ins,6
+Jackson,039 Phoenix Rur,State Senate,03,DEM,Jeff Golden,1175
+Jackson,039 Phoenix Rur,State Senate,03,REP,Jessica Gomez,1285
+Jackson,039 Phoenix Rur,U.S. House,2,,Write-ins,1
+Jackson,039 Phoenix Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,1104
+Jackson,039 Phoenix Rur,U.S. House,2,NON,Mark R Roberts,114
+Jackson,039 Phoenix Rur,U.S. House,2,REP,Greg Walden,1264
+Jackson,040 Central Pt Rur,Governor,,,Write-ins,4
+Jackson,040 Central Pt Rur,Governor,,CON,Aaron Auer,43
+Jackson,040 Central Pt Rur,Governor,,DEM,Kate Brown,568
+Jackson,040 Central Pt Rur,Governor,,LBT,Nick Chen,33
+Jackson,040 Central Pt Rur,Governor,,NON,Patrick Starnes,125
+Jackson,040 Central Pt Rur,Governor,,PRO,Chris Henry,21
+Jackson,040 Central Pt Rur,Governor,,REP,Knute Buehler,1703
+Jackson,040 Central Pt Rur,State House,04,,Write-ins,36
+Jackson,040 Central Pt Rur,State House,04,REP,Duane A Stark,1637
+Jackson,040 Central Pt Rur,State House,06,,Write-ins,0
+Jackson,040 Central Pt Rur,State House,06,DEM,Michelle Blum Atkinson,1
+Jackson,040 Central Pt Rur,State House,06,REP,Kim Wallan,3
+Jackson,040 Central Pt Rur,State Senate,03,,Write-ins,0
+Jackson,040 Central Pt Rur,State Senate,03,DEM,Jeff Golden,1
+Jackson,040 Central Pt Rur,State Senate,03,REP,Jessica Gomez,3
+Jackson,040 Central Pt Rur,U.S. House,2,,Write-ins,1
+Jackson,040 Central Pt Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,644
+Jackson,040 Central Pt Rur,U.S. House,2,NON,Mark R Roberts,148
+Jackson,040 Central Pt Rur,U.S. House,2,REP,Greg Walden,1714
+Jackson,041 Gold Hill Rur,Governor,,,Write-ins,0
+Jackson,041 Gold Hill Rur,Governor,,CON,Aaron Auer,25
+Jackson,041 Gold Hill Rur,Governor,,DEM,Kate Brown,535
+Jackson,041 Gold Hill Rur,Governor,,LBT,Nick Chen,44
+Jackson,041 Gold Hill Rur,Governor,,NON,Patrick Starnes,102
+Jackson,041 Gold Hill Rur,Governor,,PRO,Chris Henry,13
+Jackson,041 Gold Hill Rur,Governor,,REP,Knute Buehler,1232
+Jackson,041 Gold Hill Rur,State House,04,,Write-ins,17
+Jackson,041 Gold Hill Rur,State House,04,REP,Duane A Stark,1241
+Jackson,041 Gold Hill Rur,U.S. House,2,,Write-ins,3
+Jackson,041 Gold Hill Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,610
+Jackson,041 Gold Hill Rur,U.S. House,2,NON,Mark R Roberts,95
+Jackson,041 Gold Hill Rur,U.S. House,2,REP,Greg Walden,1252
+Jackson,042 Sams Valley,Governor,,,Write-ins,6
+Jackson,042 Sams Valley,Governor,,CON,Aaron Auer,38
+Jackson,042 Sams Valley,Governor,,DEM,Kate Brown,376
+Jackson,042 Sams Valley,Governor,,LBT,Nick Chen,25
+Jackson,042 Sams Valley,Governor,,NON,Patrick Starnes,77
+Jackson,042 Sams Valley,Governor,,PRO,Chris Henry,7
+Jackson,042 Sams Valley,Governor,,REP,Knute Buehler,1381
+Jackson,042 Sams Valley,State House,04,,Write-ins,2
+Jackson,042 Sams Valley,State House,04,REP,Duane A Stark,351
+Jackson,042 Sams Valley,State House,55,,Write-ins,6
+Jackson,042 Sams Valley,State House,55,DEM,Karen Rippberger,345
+Jackson,042 Sams Valley,State House,55,REP,Mike McLane,996
+Jackson,042 Sams Valley,U.S. House,2,,Write-ins,4
+Jackson,042 Sams Valley,U.S. House,2,DEM,Jamie McLeod-Skinner,424
+Jackson,042 Sams Valley,U.S. House,2,NON,Mark R Roberts,90
+Jackson,042 Sams Valley,U.S. House,2,REP,Greg Walden,1390
+Jackson,043 Wimer,Governor,,,Write-ins,2
+Jackson,043 Wimer,Governor,,CON,Aaron Auer,15
+Jackson,043 Wimer,Governor,,DEM,Kate Brown,387
+Jackson,043 Wimer,Governor,,LBT,Nick Chen,25
+Jackson,043 Wimer,Governor,,NON,Patrick Starnes,68
+Jackson,043 Wimer,Governor,,PRO,Chris Henry,12
+Jackson,043 Wimer,Governor,,REP,Knute Buehler,886
+Jackson,043 Wimer,State House,02,,Write-ins,3
+Jackson,043 Wimer,State House,02,DEM,Megan Salter,245
+Jackson,043 Wimer,State House,02,REP,Gary Leif,468
+Jackson,043 Wimer,State House,04,,Write-ins,6
+Jackson,043 Wimer,State House,04,REP,Duane A Stark,422
+Jackson,043 Wimer,State Senate,01,,Write-ins,3
+Jackson,043 Wimer,State Senate,01,DEM,Shannon Souza,249
+Jackson,043 Wimer,State Senate,01,REP,Dallas Heard,483
+Jackson,043 Wimer,U.S. House,2,,Write-ins,0
+Jackson,043 Wimer,U.S. House,2,DEM,Jamie McLeod-Skinner,408
+Jackson,043 Wimer,U.S. House,2,NON,Mark R Roberts,69
+Jackson,043 Wimer,U.S. House,2,REP,Greg Walden,913
+Jackson,044 Rogue River Rur,Governor,,,Write-ins,3
+Jackson,044 Rogue River Rur,Governor,,CON,Aaron Auer,50
+Jackson,044 Rogue River Rur,Governor,,DEM,Kate Brown,704
+Jackson,044 Rogue River Rur,Governor,,LBT,Nick Chen,32
+Jackson,044 Rogue River Rur,Governor,,NON,Patrick Starnes,102
+Jackson,044 Rogue River Rur,Governor,,PRO,Chris Henry,18
+Jackson,044 Rogue River Rur,Governor,,REP,Knute Buehler,1770
+Jackson,044 Rogue River Rur,State House,04,,Write-ins,28
+Jackson,044 Rogue River Rur,State House,04,REP,Duane A Stark,1763
+Jackson,044 Rogue River Rur,U.S. House,2,,Write-ins,1
+Jackson,044 Rogue River Rur,U.S. House,2,DEM,Jamie McLeod-Skinner,770
+Jackson,044 Rogue River Rur,U.S. House,2,NON,Mark R Roberts,125
+Jackson,044 Rogue River Rur,U.S. House,2,REP,Greg Walden,1780
+Jackson,045 Applegate,Governor,,,Write-ins,2
+Jackson,045 Applegate,Governor,,CON,Aaron Auer,15
+Jackson,045 Applegate,Governor,,DEM,Kate Brown,362
+Jackson,045 Applegate,Governor,,LBT,Nick Chen,14
+Jackson,045 Applegate,Governor,,NON,Patrick Starnes,33
+Jackson,045 Applegate,Governor,,PRO,Chris Henry,3
+Jackson,045 Applegate,Governor,,REP,Knute Buehler,344
+Jackson,045 Applegate,State House,04,,Write-ins,1
+Jackson,045 Applegate,State House,04,REP,Duane A Stark,42
+Jackson,045 Applegate,State House,05,,Write-ins,1
+Jackson,045 Applegate,State House,05,DEM,Pam Marsh,357
+Jackson,045 Applegate,State House,05,REP,Sandra A Abercrombie,314
+Jackson,045 Applegate,State Senate,03,,Write-ins,1
+Jackson,045 Applegate,State Senate,03,DEM,Jeff Golden,359
+Jackson,045 Applegate,State Senate,03,REP,Jessica Gomez,340
+Jackson,045 Applegate,U.S. House,2,,Write-ins,3
+Jackson,045 Applegate,U.S. House,2,DEM,Jamie McLeod-Skinner,383
+Jackson,045 Applegate,U.S. House,2,NON,Mark R Roberts,37
+Jackson,045 Applegate,U.S. House,2,REP,Greg Walden,349

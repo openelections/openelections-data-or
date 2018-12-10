@@ -1,0 +1,40 @@
+county,precinct,office,district,party,candidate,votes
+Gilliam,PRECINCT 1,Governor,,,Write-ins,0
+Gilliam,PRECINCT 1,Governor,,CON,Aaron Auer,7
+Gilliam,PRECINCT 1,Governor,,DEM,Kate Brown,81
+Gilliam,PRECINCT 1,Governor,,LBT,Nick Chen,9
+Gilliam,PRECINCT 1,Governor,,NON,Patrick Starnes,18
+Gilliam,PRECINCT 1,Governor,,PRO,Chris Henry,1
+Gilliam,PRECINCT 1,Governor,,REP,Knute Buehler,273
+Gilliam,PRECINCT 1,State House,57,,Write-ins,3
+Gilliam,PRECINCT 1,State House,57,REP,Greg Smith,333
+Gilliam,PRECINCT 1,U.S. House,2,,Write-ins,0
+Gilliam,PRECINCT 1,U.S. House,2,DEM,Jamie McLeod-Skinner,88
+Gilliam,PRECINCT 1,U.S. House,2,NON,Mark R Roberts,19
+Gilliam,PRECINCT 1,U.S. House,2,REP,Greg Walden,289
+Gilliam,PRECINCT 6,Governor,,,Write-ins,0
+Gilliam,PRECINCT 6,Governor,,CON,Aaron Auer,1
+Gilliam,PRECINCT 6,Governor,,DEM,Kate Brown,51
+Gilliam,PRECINCT 6,Governor,,LBT,Nick Chen,5
+Gilliam,PRECINCT 6,Governor,,NON,Patrick Starnes,11
+Gilliam,PRECINCT 6,Governor,,PRO,Chris Henry,2
+Gilliam,PRECINCT 6,Governor,,REP,Knute Buehler,182
+Gilliam,PRECINCT 6,State House,57,,Write-ins,1
+Gilliam,PRECINCT 6,State House,57,REP,Greg Smith,218
+Gilliam,PRECINCT 6,U.S. House,2,,Write-ins,0
+Gilliam,PRECINCT 6,U.S. House,2,DEM,Jamie McLeod-Skinner,59
+Gilliam,PRECINCT 6,U.S. House,2,NON,Mark R Roberts,5
+Gilliam,PRECINCT 6,U.S. House,2,REP,Greg Walden,188
+Gilliam,PRECINCT 7,Governor,,,Write-ins,0
+Gilliam,PRECINCT 7,Governor,,CON,Aaron Auer,6
+Gilliam,PRECINCT 7,Governor,,DEM,Kate Brown,86
+Gilliam,PRECINCT 7,Governor,,LBT,Nick Chen,5
+Gilliam,PRECINCT 7,Governor,,NON,Patrick Starnes,17
+Gilliam,PRECINCT 7,Governor,,PRO,Chris Henry,2
+Gilliam,PRECINCT 7,Governor,,REP,Knute Buehler,236
+Gilliam,PRECINCT 7,State House,57,,Write-ins,4
+Gilliam,PRECINCT 7,State House,57,REP,Greg Smith,296
+Gilliam,PRECINCT 7,U.S. House,2,,Write-ins,0
+Gilliam,PRECINCT 7,U.S. House,2,DEM,Jamie McLeod-Skinner,109
+Gilliam,PRECINCT 7,U.S. House,2,NON,Mark R Roberts,15
+Gilliam,PRECINCT 7,U.S. House,2,REP,Greg Walden,230

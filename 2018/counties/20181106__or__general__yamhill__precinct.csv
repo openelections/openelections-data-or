@@ -1,0 +1,322 @@
+county,precinct,office,district,party,candidate,votes
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",Governor,,,Write-ins,2
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",Governor,,CON,Aaron Auer,22
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",Governor,,DEM,Kate Brown,708
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",Governor,,LBT,Nick Chen,23
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",Governor,,NON,Patrick Starnes,44
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",Governor,,PRO,Chris Henry,6
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",Governor,,REP,Knute Buehler,1245
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",State House,25,,Write-ins,1
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",State House,25,DEM,Dave McCall,745
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",State House,25,REP,Bill Post,1241
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",State Senate,13,,Write-ins,1
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",State Senate,13,DEM,Sarah Grider,687
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",State Senate,13,REP,Kim Thatcher,1310
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",U.S. House,1,,Write-ins,1
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",U.S. House,1,DEM,Suzanne Bonamici,855
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",U.S. House,1,LBT,Drew A Layda,79
+Yamhill,"Precinct 001 - Newberg Rural N, S & E",U.S. House,1,REP,John Verbeek,1013
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,Governor,,,Write-ins,4
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,Governor,,CON,Aaron Auer,71
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,Governor,,DEM,Kate Brown,1398
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,Governor,,LBT,Nick Chen,86
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,Governor,,NON,Patrick Starnes,124
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,Governor,,PRO,Chris Henry,36
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,Governor,,REP,Knute Buehler,1723
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,State House,25,,Write-ins,4
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,State House,25,DEM,Dave McCall,1503
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,State House,25,REP,Bill Post,1806
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,State Senate,13,,Write-ins,8
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,State Senate,13,DEM,Sarah Grider,1348
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,State Senate,13,REP,Kim Thatcher,1985
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,U.S. House,1,,Write-ins,4
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,U.S. House,1,DEM,Suzanne Bonamici,1711
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,U.S. House,1,LBT,Drew A Layda,202
+Yamhill,Precinct 002 - Newberg City - Districts 3 & 6,U.S. House,1,REP,John Verbeek,1382
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,Governor,,,Write-ins,6
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,Governor,,CON,Aaron Auer,71
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,Governor,,DEM,Kate Brown,1443
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,Governor,,LBT,Nick Chen,74
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,Governor,,NON,Patrick Starnes,105
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,Governor,,PRO,Chris Henry,10
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,Governor,,REP,Knute Buehler,2042
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,State House,25,,Write-ins,2
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,State House,25,DEM,Dave McCall,1523
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,State House,25,REP,Bill Post,2091
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,State Senate,13,,Write-ins,4
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,State Senate,13,DEM,Sarah Grider,1363
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,State Senate,13,REP,Kim Thatcher,2275
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,U.S. House,1,,Write-ins,1
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,U.S. House,1,DEM,Suzanne Bonamici,1743
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,U.S. House,1,LBT,Drew A Layda,169
+Yamhill,Precinct 003 - Newberg City - Districts 4 & 5,U.S. House,1,REP,John Verbeek,1642
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,Governor,,,Write-ins,6
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,Governor,,CON,Aaron Auer,52
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,Governor,,DEM,Kate Brown,1143
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,Governor,,LBT,Nick Chen,55
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,Governor,,NON,Patrick Starnes,85
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,Governor,,PRO,Chris Henry,17
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,Governor,,REP,Knute Buehler,1415
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,State House,25,,Write-ins,3
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,State House,25,DEM,Dave McCall,1200
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,State House,25,REP,Bill Post,1478
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,State Senate,13,,Write-ins,0
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,State Senate,13,DEM,Sarah Grider,1119
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,State Senate,13,REP,Kim Thatcher,1600
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,U.S. House,1,,Write-ins,2
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,U.S. House,1,DEM,Suzanne Bonamici,1376
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,U.S. House,1,LBT,Drew A Layda,163
+Yamhill,Precinct 004 - Newberg City - Districts 1 & 2,U.S. House,1,REP,John Verbeek,1105
+Yamhill,Precinct 007 - Dundee City & Rural,Governor,,,Write-ins,2
+Yamhill,Precinct 007 - Dundee City & Rural,Governor,,CON,Aaron Auer,25
+Yamhill,Precinct 007 - Dundee City & Rural,Governor,,DEM,Kate Brown,656
+Yamhill,Precinct 007 - Dundee City & Rural,Governor,,LBT,Nick Chen,22
+Yamhill,Precinct 007 - Dundee City & Rural,Governor,,NON,Patrick Starnes,52
+Yamhill,Precinct 007 - Dundee City & Rural,Governor,,PRO,Chris Henry,12
+Yamhill,Precinct 007 - Dundee City & Rural,Governor,,REP,Knute Buehler,835
+Yamhill,Precinct 007 - Dundee City & Rural,State House,24,,Write-ins,0
+Yamhill,Precinct 007 - Dundee City & Rural,State House,24,DEM,Ken Moore,685
+Yamhill,Precinct 007 - Dundee City & Rural,State House,24,REP,Ron Noble,881
+Yamhill,Precinct 007 - Dundee City & Rural,U.S. House,1,,Write-ins,3
+Yamhill,Precinct 007 - Dundee City & Rural,U.S. House,1,DEM,Suzanne Bonamici,779
+Yamhill,Precinct 007 - Dundee City & Rural,U.S. House,1,LBT,Drew A Layda,84
+Yamhill,Precinct 007 - Dundee City & Rural,U.S. House,1,REP,John Verbeek,681
+Yamhill,Precinct 009 - Newberg Rural W,Governor,,,Write-ins,1
+Yamhill,Precinct 009 - Newberg Rural W,Governor,,CON,Aaron Auer,25
+Yamhill,Precinct 009 - Newberg Rural W,Governor,,DEM,Kate Brown,1060
+Yamhill,Precinct 009 - Newberg Rural W,Governor,,LBT,Nick Chen,42
+Yamhill,Precinct 009 - Newberg Rural W,Governor,,NON,Patrick Starnes,63
+Yamhill,Precinct 009 - Newberg Rural W,Governor,,PRO,Chris Henry,4
+Yamhill,Precinct 009 - Newberg Rural W,Governor,,REP,Knute Buehler,1599
+Yamhill,Precinct 009 - Newberg Rural W,State House,24,,Write-ins,1
+Yamhill,Precinct 009 - Newberg Rural W,State House,24,DEM,Ken Moore,1045
+Yamhill,Precinct 009 - Newberg Rural W,State House,24,REP,Ron Noble,1677
+Yamhill,Precinct 009 - Newberg Rural W,U.S. House,1,,Write-ins,1
+Yamhill,Precinct 009 - Newberg Rural W,U.S. House,1,DEM,Suzanne Bonamici,1259
+Yamhill,Precinct 009 - Newberg Rural W,U.S. House,1,LBT,Drew A Layda,97
+Yamhill,Precinct 009 - Newberg Rural W,U.S. House,1,REP,John Verbeek,1345
+Yamhill,Precinct 010 - Dayton City & Rural,Governor,,,Write-ins,1
+Yamhill,Precinct 010 - Dayton City & Rural,Governor,,CON,Aaron Auer,32
+Yamhill,Precinct 010 - Dayton City & Rural,Governor,,DEM,Kate Brown,751
+Yamhill,Precinct 010 - Dayton City & Rural,Governor,,LBT,Nick Chen,46
+Yamhill,Precinct 010 - Dayton City & Rural,Governor,,NON,Patrick Starnes,78
+Yamhill,Precinct 010 - Dayton City & Rural,Governor,,PRO,Chris Henry,8
+Yamhill,Precinct 010 - Dayton City & Rural,Governor,,REP,Knute Buehler,1188
+Yamhill,Precinct 010 - Dayton City & Rural,State House,23,,Write-ins,6
+Yamhill,Precinct 010 - Dayton City & Rural,State House,23,DEM,Danny Jaffer,898
+Yamhill,Precinct 010 - Dayton City & Rural,State House,23,LBT,Mark Karnowski,61
+Yamhill,Precinct 010 - Dayton City & Rural,State House,23,REP,Mike Nearman,1070
+Yamhill,Precinct 010 - Dayton City & Rural,U.S. House,1,,Write-ins,2
+Yamhill,Precinct 010 - Dayton City & Rural,U.S. House,1,DEM,Suzanne Bonamici,931
+Yamhill,Precinct 010 - Dayton City & Rural,U.S. House,1,LBT,Drew A Layda,96
+Yamhill,Precinct 010 - Dayton City & Rural,U.S. House,1,REP,John Verbeek,973
+Yamhill,Precinct 011 - Gaston Area,Governor,,,Write-ins,0
+Yamhill,Precinct 011 - Gaston Area,Governor,,CON,Aaron Auer,0
+Yamhill,Precinct 011 - Gaston Area,Governor,,DEM,Kate Brown,0
+Yamhill,Precinct 011 - Gaston Area,Governor,,LBT,Nick Chen,0
+Yamhill,Precinct 011 - Gaston Area,Governor,,NON,Patrick Starnes,0
+Yamhill,Precinct 011 - Gaston Area,Governor,,PRO,Chris Henry,0
+Yamhill,Precinct 011 - Gaston Area,Governor,,REP,Knute Buehler,0
+Yamhill,Precinct 011 - Gaston Area,U.S. House,1,,Write-ins,0
+Yamhill,Precinct 011 - Gaston Area,U.S. House,1,DEM,Suzanne Bonamici,0
+Yamhill,Precinct 011 - Gaston Area,U.S. House,1,LBT,Drew A Layda,0
+Yamhill,Precinct 011 - Gaston Area,U.S. House,1,REP,John Verbeek,0
+Yamhill,Precinct 012 - Amity City & Rural,Governor,,,Write-ins,5
+Yamhill,Precinct 012 - Amity City & Rural,Governor,,CON,Aaron Auer,37
+Yamhill,Precinct 012 - Amity City & Rural,Governor,,DEM,Kate Brown,731
+Yamhill,Precinct 012 - Amity City & Rural,Governor,,LBT,Nick Chen,58
+Yamhill,Precinct 012 - Amity City & Rural,Governor,,NON,Patrick Starnes,87
+Yamhill,Precinct 012 - Amity City & Rural,Governor,,PRO,Chris Henry,16
+Yamhill,Precinct 012 - Amity City & Rural,Governor,,REP,Knute Buehler,1490
+Yamhill,Precinct 012 - Amity City & Rural,State House,23,,Write-ins,7
+Yamhill,Precinct 012 - Amity City & Rural,State House,23,DEM,Danny Jaffer,872
+Yamhill,Precinct 012 - Amity City & Rural,State House,23,LBT,Mark Karnowski,74
+Yamhill,Precinct 012 - Amity City & Rural,State House,23,REP,Mike Nearman,1400
+Yamhill,Precinct 012 - Amity City & Rural,U.S. House,1,,Write-ins,2
+Yamhill,Precinct 012 - Amity City & Rural,U.S. House,1,DEM,Suzanne Bonamici,953
+Yamhill,Precinct 012 - Amity City & Rural,U.S. House,1,LBT,Drew A Layda,115
+Yamhill,Precinct 012 - Amity City & Rural,U.S. House,1,REP,John Verbeek,1256
+Yamhill,Precinct 013 - Yamhill City & Rural,Governor,,,Write-ins,5
+Yamhill,Precinct 013 - Yamhill City & Rural,Governor,,CON,Aaron Auer,45
+Yamhill,Precinct 013 - Yamhill City & Rural,Governor,,DEM,Kate Brown,723
+Yamhill,Precinct 013 - Yamhill City & Rural,Governor,,LBT,Nick Chen,31
+Yamhill,Precinct 013 - Yamhill City & Rural,Governor,,NON,Patrick Starnes,67
+Yamhill,Precinct 013 - Yamhill City & Rural,Governor,,PRO,Chris Henry,8
+Yamhill,Precinct 013 - Yamhill City & Rural,Governor,,REP,Knute Buehler,1662
+Yamhill,Precinct 013 - Yamhill City & Rural,State House,24,,Write-ins,1
+Yamhill,Precinct 013 - Yamhill City & Rural,State House,24,DEM,Ken Moore,834
+Yamhill,Precinct 013 - Yamhill City & Rural,State House,24,REP,Ron Noble,1657
+Yamhill,Precinct 013 - Yamhill City & Rural,U.S. House,1,,Write-ins,1
+Yamhill,Precinct 013 - Yamhill City & Rural,U.S. House,1,DEM,Suzanne Bonamici,952
+Yamhill,Precinct 013 - Yamhill City & Rural,U.S. House,1,LBT,Drew A Layda,113
+Yamhill,Precinct 013 - Yamhill City & Rural,U.S. House,1,REP,John Verbeek,1379
+Yamhill,Precinct 014 - McMinnville City - Ward 1,Governor,,,Write-ins,3
+Yamhill,Precinct 014 - McMinnville City - Ward 1,Governor,,CON,Aaron Auer,29
+Yamhill,Precinct 014 - McMinnville City - Ward 1,Governor,,DEM,Kate Brown,911
+Yamhill,Precinct 014 - McMinnville City - Ward 1,Governor,,LBT,Nick Chen,41
+Yamhill,Precinct 014 - McMinnville City - Ward 1,Governor,,NON,Patrick Starnes,64
+Yamhill,Precinct 014 - McMinnville City - Ward 1,Governor,,PRO,Chris Henry,10
+Yamhill,Precinct 014 - McMinnville City - Ward 1,Governor,,REP,Knute Buehler,978
+Yamhill,Precinct 014 - McMinnville City - Ward 1,State House,24,,Write-ins,4
+Yamhill,Precinct 014 - McMinnville City - Ward 1,State House,24,DEM,Ken Moore,916
+Yamhill,Precinct 014 - McMinnville City - Ward 1,State House,24,REP,Ron Noble,1069
+Yamhill,Precinct 014 - McMinnville City - Ward 1,U.S. House,1,,Write-ins,3
+Yamhill,Precinct 014 - McMinnville City - Ward 1,U.S. House,1,DEM,Suzanne Bonamici,1078
+Yamhill,Precinct 014 - McMinnville City - Ward 1,U.S. House,1,LBT,Drew A Layda,87
+Yamhill,Precinct 014 - McMinnville City - Ward 1,U.S. House,1,REP,John Verbeek,767
+Yamhill,Precinct 015 - McMinnville City - Ward 1,Governor,,,Write-ins,5
+Yamhill,Precinct 015 - McMinnville City - Ward 1,Governor,,CON,Aaron Auer,24
+Yamhill,Precinct 015 - McMinnville City - Ward 1,Governor,,DEM,Kate Brown,911
+Yamhill,Precinct 015 - McMinnville City - Ward 1,Governor,,LBT,Nick Chen,48
+Yamhill,Precinct 015 - McMinnville City - Ward 1,Governor,,NON,Patrick Starnes,60
+Yamhill,Precinct 015 - McMinnville City - Ward 1,Governor,,PRO,Chris Henry,19
+Yamhill,Precinct 015 - McMinnville City - Ward 1,Governor,,REP,Knute Buehler,851
+Yamhill,Precinct 015 - McMinnville City - Ward 1,State House,24,,Write-ins,5
+Yamhill,Precinct 015 - McMinnville City - Ward 1,State House,24,DEM,Ken Moore,913
+Yamhill,Precinct 015 - McMinnville City - Ward 1,State House,24,REP,Ron Noble,971
+Yamhill,Precinct 015 - McMinnville City - Ward 1,U.S. House,1,,Write-ins,0
+Yamhill,Precinct 015 - McMinnville City - Ward 1,U.S. House,1,DEM,Suzanne Bonamici,1055
+Yamhill,Precinct 015 - McMinnville City - Ward 1,U.S. House,1,LBT,Drew A Layda,88
+Yamhill,Precinct 015 - McMinnville City - Ward 1,U.S. House,1,REP,John Verbeek,696
+Yamhill,Precinct 016 - McMinnville City - Ward 3,Governor,,,Write-ins,3
+Yamhill,Precinct 016 - McMinnville City - Ward 3,Governor,,CON,Aaron Auer,18
+Yamhill,Precinct 016 - McMinnville City - Ward 3,Governor,,DEM,Kate Brown,748
+Yamhill,Precinct 016 - McMinnville City - Ward 3,Governor,,LBT,Nick Chen,36
+Yamhill,Precinct 016 - McMinnville City - Ward 3,Governor,,NON,Patrick Starnes,73
+Yamhill,Precinct 016 - McMinnville City - Ward 3,Governor,,PRO,Chris Henry,12
+Yamhill,Precinct 016 - McMinnville City - Ward 3,Governor,,REP,Knute Buehler,816
+Yamhill,Precinct 016 - McMinnville City - Ward 3,State House,24,,Write-ins,4
+Yamhill,Precinct 016 - McMinnville City - Ward 3,State House,24,DEM,Ken Moore,752
+Yamhill,Precinct 016 - McMinnville City - Ward 3,State House,24,REP,Ron Noble,917
+Yamhill,Precinct 016 - McMinnville City - Ward 3,U.S. House,1,,Write-ins,1
+Yamhill,Precinct 016 - McMinnville City - Ward 3,U.S. House,1,DEM,Suzanne Bonamici,872
+Yamhill,Precinct 016 - McMinnville City - Ward 3,U.S. House,1,LBT,Drew A Layda,84
+Yamhill,Precinct 016 - McMinnville City - Ward 3,U.S. House,1,REP,John Verbeek,668
+Yamhill,Precinct 017 - McMinnville City - Ward 2,Governor,,,Write-ins,4
+Yamhill,Precinct 017 - McMinnville City - Ward 2,Governor,,CON,Aaron Auer,22
+Yamhill,Precinct 017 - McMinnville City - Ward 2,Governor,,DEM,Kate Brown,888
+Yamhill,Precinct 017 - McMinnville City - Ward 2,Governor,,LBT,Nick Chen,25
+Yamhill,Precinct 017 - McMinnville City - Ward 2,Governor,,NON,Patrick Starnes,66
+Yamhill,Precinct 017 - McMinnville City - Ward 2,Governor,,PRO,Chris Henry,7
+Yamhill,Precinct 017 - McMinnville City - Ward 2,Governor,,REP,Knute Buehler,936
+Yamhill,Precinct 017 - McMinnville City - Ward 2,State House,24,,Write-ins,2
+Yamhill,Precinct 017 - McMinnville City - Ward 2,State House,24,DEM,Ken Moore,839
+Yamhill,Precinct 017 - McMinnville City - Ward 2,State House,24,REP,Ron Noble,1078
+Yamhill,Precinct 017 - McMinnville City - Ward 2,U.S. House,1,,Write-ins,3
+Yamhill,Precinct 017 - McMinnville City - Ward 2,U.S. House,1,DEM,Suzanne Bonamici,1097
+Yamhill,Precinct 017 - McMinnville City - Ward 2,U.S. House,1,LBT,Drew A Layda,66
+Yamhill,Precinct 017 - McMinnville City - Ward 2,U.S. House,1,REP,John Verbeek,707
+Yamhill,Precinct 018 - McMinnville City - Ward 2,Governor,,,Write-ins,7
+Yamhill,Precinct 018 - McMinnville City - Ward 2,Governor,,CON,Aaron Auer,34
+Yamhill,Precinct 018 - McMinnville City - Ward 2,Governor,,DEM,Kate Brown,1638
+Yamhill,Precinct 018 - McMinnville City - Ward 2,Governor,,LBT,Nick Chen,45
+Yamhill,Precinct 018 - McMinnville City - Ward 2,Governor,,NON,Patrick Starnes,96
+Yamhill,Precinct 018 - McMinnville City - Ward 2,Governor,,PRO,Chris Henry,22
+Yamhill,Precinct 018 - McMinnville City - Ward 2,Governor,,REP,Knute Buehler,1604
+Yamhill,Precinct 018 - McMinnville City - Ward 2,State House,24,,Write-ins,2
+Yamhill,Precinct 018 - McMinnville City - Ward 2,State House,24,DEM,Ken Moore,1562
+Yamhill,Precinct 018 - McMinnville City - Ward 2,State House,24,REP,Ron Noble,1838
+Yamhill,Precinct 018 - McMinnville City - Ward 2,U.S. House,1,,Write-ins,1
+Yamhill,Precinct 018 - McMinnville City - Ward 2,U.S. House,1,DEM,Suzanne Bonamici,1973
+Yamhill,Precinct 018 - McMinnville City - Ward 2,U.S. House,1,LBT,Drew A Layda,98
+Yamhill,Precinct 018 - McMinnville City - Ward 2,U.S. House,1,REP,John Verbeek,1247
+Yamhill,Precinct 019 - McMinnville City - Ward 3,Governor,,,Write-ins,6
+Yamhill,Precinct 019 - McMinnville City - Ward 3,Governor,,CON,Aaron Auer,36
+Yamhill,Precinct 019 - McMinnville City - Ward 3,Governor,,DEM,Kate Brown,1323
+Yamhill,Precinct 019 - McMinnville City - Ward 3,Governor,,LBT,Nick Chen,51
+Yamhill,Precinct 019 - McMinnville City - Ward 3,Governor,,NON,Patrick Starnes,84
+Yamhill,Precinct 019 - McMinnville City - Ward 3,Governor,,PRO,Chris Henry,26
+Yamhill,Precinct 019 - McMinnville City - Ward 3,Governor,,REP,Knute Buehler,980
+Yamhill,Precinct 019 - McMinnville City - Ward 3,State House,24,,Write-ins,3
+Yamhill,Precinct 019 - McMinnville City - Ward 3,State House,24,DEM,Ken Moore,1315
+Yamhill,Precinct 019 - McMinnville City - Ward 3,State House,24,REP,Ron Noble,1127
+Yamhill,Precinct 019 - McMinnville City - Ward 3,U.S. House,1,,Write-ins,9
+Yamhill,Precinct 019 - McMinnville City - Ward 3,U.S. House,1,DEM,Suzanne Bonamici,1503
+Yamhill,Precinct 019 - McMinnville City - Ward 3,U.S. House,1,LBT,Drew A Layda,111
+Yamhill,Precinct 019 - McMinnville City - Ward 3,U.S. House,1,REP,John Verbeek,783
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,Governor,,,Write-ins,2
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,Governor,,CON,Aaron Auer,36
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,Governor,,DEM,Kate Brown,595
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,Governor,,LBT,Nick Chen,29
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,Governor,,NON,Patrick Starnes,52
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,Governor,,PRO,Chris Henry,10
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,Governor,,REP,Knute Buehler,1041
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,State House,23,,Write-ins,3
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,State House,23,DEM,Danny Jaffer,726
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,State House,23,LBT,Mark Karnowski,40
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,State House,23,REP,Mike Nearman,943
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,U.S. House,1,,Write-ins,3
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,U.S. House,1,DEM,Suzanne Bonamici,776
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,U.S. House,1,LBT,Drew A Layda,65
+Yamhill,Precinct 020 - McMinnville & Sheridan Rural,U.S. House,1,REP,John Verbeek,854
+Yamhill,Precinct 021 - Carlton City & Rural,Governor,,,Write-ins,9
+Yamhill,Precinct 021 - Carlton City & Rural,Governor,,CON,Aaron Auer,37
+Yamhill,Precinct 021 - Carlton City & Rural,Governor,,DEM,Kate Brown,635
+Yamhill,Precinct 021 - Carlton City & Rural,Governor,,LBT,Nick Chen,41
+Yamhill,Precinct 021 - Carlton City & Rural,Governor,,NON,Patrick Starnes,69
+Yamhill,Precinct 021 - Carlton City & Rural,Governor,,PRO,Chris Henry,12
+Yamhill,Precinct 021 - Carlton City & Rural,Governor,,REP,Knute Buehler,1113
+Yamhill,Precinct 021 - Carlton City & Rural,State House,24,,Write-ins,2
+Yamhill,Precinct 021 - Carlton City & Rural,State House,24,DEM,Ken Moore,736
+Yamhill,Precinct 021 - Carlton City & Rural,State House,24,REP,Ron Noble,1134
+Yamhill,Precinct 021 - Carlton City & Rural,U.S. House,1,,Write-ins,0
+Yamhill,Precinct 021 - Carlton City & Rural,U.S. House,1,DEM,Suzanne Bonamici,793
+Yamhill,Precinct 021 - Carlton City & Rural,U.S. House,1,LBT,Drew A Layda,127
+Yamhill,Precinct 021 - Carlton City & Rural,U.S. House,1,REP,John Verbeek,921
+Yamhill,Precinct 022 - Lafayette City & Rural,Governor,,,Write-ins,4
+Yamhill,Precinct 022 - Lafayette City & Rural,Governor,,CON,Aaron Auer,41
+Yamhill,Precinct 022 - Lafayette City & Rural,Governor,,DEM,Kate Brown,768
+Yamhill,Precinct 022 - Lafayette City & Rural,Governor,,LBT,Nick Chen,60
+Yamhill,Precinct 022 - Lafayette City & Rural,Governor,,NON,Patrick Starnes,88
+Yamhill,Precinct 022 - Lafayette City & Rural,Governor,,PRO,Chris Henry,27
+Yamhill,Precinct 022 - Lafayette City & Rural,Governor,,REP,Knute Buehler,1156
+Yamhill,Precinct 022 - Lafayette City & Rural,State House,24,,Write-ins,2
+Yamhill,Precinct 022 - Lafayette City & Rural,State House,24,DEM,Ken Moore,857
+Yamhill,Precinct 022 - Lafayette City & Rural,State House,24,REP,Ron Noble,1214
+Yamhill,Precinct 022 - Lafayette City & Rural,U.S. House,1,,Write-ins,3
+Yamhill,Precinct 022 - Lafayette City & Rural,U.S. House,1,DEM,Suzanne Bonamici,938
+Yamhill,Precinct 022 - Lafayette City & Rural,U.S. House,1,LBT,Drew A Layda,123
+Yamhill,Precinct 022 - Lafayette City & Rural,U.S. House,1,REP,John Verbeek,981
+Yamhill,Precinct 026 - Sheridan City & Rural,Governor,,,Write-ins,5
+Yamhill,Precinct 026 - Sheridan City & Rural,Governor,,CON,Aaron Auer,41
+Yamhill,Precinct 026 - Sheridan City & Rural,Governor,,DEM,Kate Brown,522
+Yamhill,Precinct 026 - Sheridan City & Rural,Governor,,LBT,Nick Chen,52
+Yamhill,Precinct 026 - Sheridan City & Rural,Governor,,NON,Patrick Starnes,89
+Yamhill,Precinct 026 - Sheridan City & Rural,Governor,,PRO,Chris Henry,11
+Yamhill,Precinct 026 - Sheridan City & Rural,Governor,,REP,Knute Buehler,925
+Yamhill,Precinct 026 - Sheridan City & Rural,State House,10,,Write-ins,4
+Yamhill,Precinct 026 - Sheridan City & Rural,State House,10,DEM,David Gomberg,671
+Yamhill,Precinct 026 - Sheridan City & Rural,State House,10,REP,Thomas M Donohue,898
+Yamhill,Precinct 026 - Sheridan City & Rural,U.S. House,1,,Write-ins,2
+Yamhill,Precinct 026 - Sheridan City & Rural,U.S. House,1,DEM,Suzanne Bonamici,674
+Yamhill,Precinct 026 - Sheridan City & Rural,U.S. House,1,LBT,Drew A Layda,105
+Yamhill,Precinct 026 - Sheridan City & Rural,U.S. House,1,REP,John Verbeek,789
+Yamhill,Precinct 027 - Willaminia City & Rural,Governor,,,Write-ins,0
+Yamhill,Precinct 027 - Willaminia City & Rural,Governor,,CON,Aaron Auer,10
+Yamhill,Precinct 027 - Willaminia City & Rural,Governor,,DEM,Kate Brown,156
+Yamhill,Precinct 027 - Willaminia City & Rural,Governor,,LBT,Nick Chen,11
+Yamhill,Precinct 027 - Willaminia City & Rural,Governor,,NON,Patrick Starnes,25
+Yamhill,Precinct 027 - Willaminia City & Rural,Governor,,PRO,Chris Henry,7
+Yamhill,Precinct 027 - Willaminia City & Rural,Governor,,REP,Knute Buehler,255
+Yamhill,Precinct 027 - Willaminia City & Rural,State House,23,,Write-ins,0
+Yamhill,Precinct 027 - Willaminia City & Rural,State House,23,DEM,Danny Jaffer,188
+Yamhill,Precinct 027 - Willaminia City & Rural,State House,23,LBT,Mark Karnowski,16
+Yamhill,Precinct 027 - Willaminia City & Rural,State House,23,REP,Mike Nearman,243
+Yamhill,Precinct 027 - Willaminia City & Rural,U.S. House,1,,Write-ins,0
+Yamhill,Precinct 027 - Willaminia City & Rural,U.S. House,1,DEM,Suzanne Bonamici,183
+Yamhill,Precinct 027 - Willaminia City & Rural,U.S. House,1,LBT,Drew A Layda,27
+Yamhill,Precinct 027 - Willaminia City & Rural,U.S. House,1,REP,John Verbeek,231
+Yamhill,Precinct 028 - Grand Ronde Area,Governor,,,Write-ins,1
+Yamhill,Precinct 028 - Grand Ronde Area,Governor,,CON,Aaron Auer,13
+Yamhill,Precinct 028 - Grand Ronde Area,Governor,,DEM,Kate Brown,223
+Yamhill,Precinct 028 - Grand Ronde Area,Governor,,LBT,Nick Chen,9
+Yamhill,Precinct 028 - Grand Ronde Area,Governor,,NON,Patrick Starnes,32
+Yamhill,Precinct 028 - Grand Ronde Area,Governor,,PRO,Chris Henry,7
+Yamhill,Precinct 028 - Grand Ronde Area,Governor,,REP,Knute Buehler,558
+Yamhill,Precinct 028 - Grand Ronde Area,State House,10,,Write-ins,3
+Yamhill,Precinct 028 - Grand Ronde Area,State House,10,DEM,David Gomberg,273
+Yamhill,Precinct 028 - Grand Ronde Area,State House,10,REP,Thomas M Donohue,519
+Yamhill,Precinct 028 - Grand Ronde Area,U.S. House,1,,Write-ins,1
+Yamhill,Precinct 028 - Grand Ronde Area,U.S. House,1,DEM,Suzanne Bonamici,292
+Yamhill,Precinct 028 - Grand Ronde Area,U.S. House,1,LBT,Drew A Layda,38
+Yamhill,Precinct 028 - Grand Ronde Area,U.S. House,1,REP,John Verbeek,486
