@@ -1,0 +1,376 @@
+county,precinct,office,district,candidate,party,votes
+Jefferson,No.1 Haystack,U.S. House,2,Mark R. Roberts,IND,33
+Jefferson,No.1 Haystack,U.S. House,2,Greg Walden,REP,678
+Jefferson,No.1 Haystack,U.S. House,2,Jamie McLeod-Skinner,DEM,182
+Jefferson,No.1 Haystack,U.S. House,2,Write-Ins,,0
+Jefferson,No.1 Haystack,U.S. House,2,Over Votes,,0
+Jefferson,No.1 Haystack,U.S. House,2,Under Votes,,9
+Jefferson,No.1 Haystack,Governor,,Aaron Auer,CON,9
+Jefferson,No.1 Haystack,Governor,,Nick Chen,LBT,5
+Jefferson,No.1 Haystack,Governor,,Kate Brown,DEM,150
+Jefferson,No.1 Haystack,Governor,,Knute Buehler,REP,695
+Jefferson,No.1 Haystack,Governor,,Patrick Starnes,IND,30
+Jefferson,No.1 Haystack,Governor,,Chris Henry,PRO,5
+Jefferson,No.1 Haystack,Governor,,Write-Ins,,0
+Jefferson,No.1 Haystack,Governor,,Over Votes,,0
+Jefferson,No.1 Haystack,Governor,,Under Votes,,8
+Jefferson,No.1 Haystack,State Senate,30,Solea Kabakov,DEM,168
+Jefferson,No.1 Haystack,State Senate,30,Cliff Bentz,REP,681
+Jefferson,No.1 Haystack,State Senate,30,Write-Ins,,2
+Jefferson,No.1 Haystack,State Senate,30,Over Votes,,0
+Jefferson,No.1 Haystack,State Senate,30,Under Votes,,51
+Jefferson,No.1 Haystack,State House,59,Darcy Long-Curtis,DEM,176
+Jefferson,No.1 Haystack,State House,59,Daniel G Bonham,REP,674
+Jefferson,No.1 Haystack,State House,59,Write-Ins,,1
+Jefferson,No.1 Haystack,State House,59,Over Votes,,0
+Jefferson,No.1 Haystack,State House,59,Under Votes,,51
+Jefferson,No.2 Crooked River Ranch,U.S. House,2,Mark R. Roberts,IND,106
+Jefferson,No.2 Crooked River Ranch,U.S. House,2,Greg Walden,REP,1651
+Jefferson,No.2 Crooked River Ranch,U.S. House,2,Jamie McLeod-Skinner,DEM,742
+Jefferson,No.2 Crooked River Ranch,U.S. House,2,Write-Ins,,0
+Jefferson,No.2 Crooked River Ranch,U.S. House,2,Over Votes,,2
+Jefferson,No.2 Crooked River Ranch,U.S. House,2,Under Votes,,25
+Jefferson,No.2 Crooked River Ranch,Governor,,Aaron Auer,CON,27
+Jefferson,No.2 Crooked River Ranch,Governor,,Nick Chen,LBT,20
+Jefferson,No.2 Crooked River Ranch,Governor,,Kate Brown,DEM,655
+Jefferson,No.2 Crooked River Ranch,Governor,,Knute Buehler,REP,1705
+Jefferson,No.2 Crooked River Ranch,Governor,,Patrick Starnes,IND,90
+Jefferson,No.2 Crooked River Ranch,Governor,,Chris Henry,PRO,8
+Jefferson,No.2 Crooked River Ranch,Governor,,Write-Ins,,1
+Jefferson,No.2 Crooked River Ranch,Governor,,Over Votes,,0
+Jefferson,No.2 Crooked River Ranch,Governor,,Under Votes,,20
+Jefferson,No.2 Crooked River Ranch,State Senate,30,Solea Kabakov,DEM,695
+Jefferson,No.2 Crooked River Ranch,State Senate,30,Cliff Bentz,REP,1682
+Jefferson,No.2 Crooked River Ranch,State Senate,30,Write-Ins,,2
+Jefferson,No.2 Crooked River Ranch,State Senate,30,Over Votes,,1
+Jefferson,No.2 Crooked River Ranch,State Senate,30,Under Votes,,146
+Jefferson,No.2 Crooked River Ranch,State House,59,Darcy Long-Curtis,DEM,731
+Jefferson,No.2 Crooked River Ranch,State House,59,Daniel G Bonham,REP,1648
+Jefferson,No.2 Crooked River Ranch,State House,59,Write-Ins,,2
+Jefferson,No.2 Crooked River Ranch,State House,59,Over Votes,,0
+Jefferson,No.2 Crooked River Ranch,State House,59,Under Votes,,145
+Jefferson,No.5 Ashwood,U.S. House,2,Mark R. Roberts,IND,2
+Jefferson,No.5 Ashwood,U.S. House,2,Greg Walden,REP,33
+Jefferson,No.5 Ashwood,U.S. House,2,Jamie McLeod-Skinner,DEM,10
+Jefferson,No.5 Ashwood,U.S. House,2,Write-Ins,,0
+Jefferson,No.5 Ashwood,U.S. House,2,Over Votes,,0
+Jefferson,No.5 Ashwood,U.S. House,2,Under Votes,,0
+Jefferson,No.5 Ashwood,Governor,,Aaron Auer,CON,0
+Jefferson,No.5 Ashwood,Governor,,Nick Chen,LBT,1
+Jefferson,No.5 Ashwood,Governor,,Kate Brown,DEM,6
+Jefferson,No.5 Ashwood,Governor,,Knute Buehler,REP,33
+Jefferson,No.5 Ashwood,Governor,,Patrick Starnes,IND,5
+Jefferson,No.5 Ashwood,Governor,,Chris Henry,PRO,0
+Jefferson,No.5 Ashwood,Governor,,Write-Ins,,0
+Jefferson,No.5 Ashwood,Governor,,Over Votes,,0
+Jefferson,No.5 Ashwood,Governor,,Under Votes,,0
+Jefferson,No.5 Ashwood,State Senate,30,Solea Kabakov,DEM,8
+Jefferson,No.5 Ashwood,State Senate,30,Cliff Bentz,REP,33
+Jefferson,No.5 Ashwood,State Senate,30,Write-Ins,,0
+Jefferson,No.5 Ashwood,State Senate,30,Over Votes,,0
+Jefferson,No.5 Ashwood,State Senate,30,Under Votes,,4
+Jefferson,No.5 Ashwood,State House,59,Darcy Long-Curtis,DEM,10
+Jefferson,No.5 Ashwood,State House,59,Daniel G Bonham,REP,33
+Jefferson,No.5 Ashwood,State House,59,Write-Ins,,0
+Jefferson,No.5 Ashwood,State House,59,Over Votes,,0
+Jefferson,No.5 Ashwood,State House,59,Under Votes,,2
+Jefferson,No.6 Kutcher,U.S. House,2,Mark R. Roberts,IND,14
+Jefferson,No.6 Kutcher,U.S. House,2,Greg Walden,REP,202
+Jefferson,No.6 Kutcher,U.S. House,2,Jamie McLeod-Skinner,DEM,73
+Jefferson,No.6 Kutcher,U.S. House,2,Write-Ins,,0
+Jefferson,No.6 Kutcher,U.S. House,2,Over Votes,,1
+Jefferson,No.6 Kutcher,U.S. House,2,Under Votes,,3
+Jefferson,No.6 Kutcher,Governor,,Aaron Auer,CON,1
+Jefferson,No.6 Kutcher,Governor,,Nick Chen,LBT,1
+Jefferson,No.6 Kutcher,Governor,,Kate Brown,DEM,53
+Jefferson,No.6 Kutcher,Governor,,Knute Buehler,REP,218
+Jefferson,No.6 Kutcher,Governor,,Patrick Starnes,IND,11
+Jefferson,No.6 Kutcher,Governor,,Chris Henry,PRO,0
+Jefferson,No.6 Kutcher,Governor,,Write-Ins,,0
+Jefferson,No.6 Kutcher,Governor,,Over Votes,,2
+Jefferson,No.6 Kutcher,Governor,,Under Votes,,7
+Jefferson,No.6 Kutcher,State Senate,30,Solea Kabakov,DEM,52
+Jefferson,No.6 Kutcher,State Senate,30,Cliff Bentz,REP,224
+Jefferson,No.6 Kutcher,State Senate,30,Write-Ins,,1
+Jefferson,No.6 Kutcher,State Senate,30,Over Votes,,0
+Jefferson,No.6 Kutcher,State Senate,30,Under Votes,,16
+Jefferson,No.6 Kutcher,State House,59,Darcy Long-Curtis,DEM,64
+Jefferson,No.6 Kutcher,State House,59,Daniel G Bonham,REP,218
+Jefferson,No.6 Kutcher,State House,59,Write-Ins,,0
+Jefferson,No.6 Kutcher,State House,59,Over Votes,,0
+Jefferson,No.6 Kutcher,State House,59,Under Votes,,11
+Jefferson,No.8 Lyle Gap,U.S. House,2,Mark R. Roberts,IND,6
+Jefferson,No.8 Lyle Gap,U.S. House,2,Greg Walden,REP,65
+Jefferson,No.8 Lyle Gap,U.S. House,2,Jamie McLeod-Skinner,DEM,22
+Jefferson,No.8 Lyle Gap,U.S. House,2,Write-Ins,,0
+Jefferson,No.8 Lyle Gap,U.S. House,2,Over Votes,,0
+Jefferson,No.8 Lyle Gap,U.S. House,2,Under Votes,,0
+Jefferson,No.8 Lyle Gap,Governor,,Aaron Auer,CON,2
+Jefferson,No.8 Lyle Gap,Governor,,Nick Chen,LBT,1
+Jefferson,No.8 Lyle Gap,Governor,,Kate Brown,DEM,20
+Jefferson,No.8 Lyle Gap,Governor,,Knute Buehler,REP,68
+Jefferson,No.8 Lyle Gap,Governor,,Patrick Starnes,IND,1
+Jefferson,No.8 Lyle Gap,Governor,,Chris Henry,PRO,1
+Jefferson,No.8 Lyle Gap,Governor,,Write-Ins,,0
+Jefferson,No.8 Lyle Gap,Governor,,Over Votes,,0
+Jefferson,No.8 Lyle Gap,Governor,,Under Votes,,0
+Jefferson,No.8 Lyle Gap,State Senate,30,Solea Kabakov,DEM,21
+Jefferson,No.8 Lyle Gap,State Senate,30,Cliff Bentz,REP,69
+Jefferson,No.8 Lyle Gap,State Senate,30,Write-Ins,,0
+Jefferson,No.8 Lyle Gap,State Senate,30,Over Votes,,0
+Jefferson,No.8 Lyle Gap,State Senate,30,Under Votes,,3
+Jefferson,No.8 Lyle Gap,State House,59,Darcy Long-Curtis,DEM,19
+Jefferson,No.8 Lyle Gap,State House,59,Daniel G Bonham,REP,71
+Jefferson,No.8 Lyle Gap,State House,59,Write-Ins,,0
+Jefferson,No.8 Lyle Gap,State House,59,Over Votes,,0
+Jefferson,No.8 Lyle Gap,State House,59,Under Votes,,3
+Jefferson,No.11 Metolius,U.S. House,2,Mark R. Roberts,IND,21
+Jefferson,No.11 Metolius,U.S. House,2,Greg Walden,REP,164
+Jefferson,No.11 Metolius,U.S. House,2,Jamie McLeod-Skinner,DEM,101
+Jefferson,No.11 Metolius,U.S. House,2,Write-Ins,,0
+Jefferson,No.11 Metolius,U.S. House,2,Over Votes,,0
+Jefferson,No.11 Metolius,U.S. House,2,Under Votes,,3
+Jefferson,No.11 Metolius,Governor,,Aaron Auer,CON,6
+Jefferson,No.11 Metolius,Governor,,Nick Chen,LBT,3
+Jefferson,No.11 Metolius,Governor,,Kate Brown,DEM,79
+Jefferson,No.11 Metolius,Governor,,Knute Buehler,REP,174
+Jefferson,No.11 Metolius,Governor,,Patrick Starnes,IND,22
+Jefferson,No.11 Metolius,Governor,,Chris Henry,PRO,2
+Jefferson,No.11 Metolius,Governor,,Write-Ins,,0
+Jefferson,No.11 Metolius,Governor,,Over Votes,,0
+Jefferson,No.11 Metolius,Governor,,Under Votes,,3
+Jefferson,No.11 Metolius,State Senate,30,Solea Kabakov,DEM,86
+Jefferson,No.11 Metolius,State Senate,30,Cliff Bentz,REP,179
+Jefferson,No.11 Metolius,State Senate,30,Write-Ins,,0
+Jefferson,No.11 Metolius,State Senate,30,Over Votes,,0
+Jefferson,No.11 Metolius,State Senate,30,Under Votes,,24
+Jefferson,No.11 Metolius,State House,59,Darcy Long-Curtis,DEM,92
+Jefferson,No.11 Metolius,State House,59,Daniel G Bonham,REP,173
+Jefferson,No.11 Metolius,State House,59,Write-Ins,,0
+Jefferson,No.11 Metolius,State House,59,Over Votes,,0
+Jefferson,No.11 Metolius,State House,59,Under Votes,,24
+Jefferson,No.13 East Madras,U.S. House,2,Mark R. Roberts,IND,57
+Jefferson,No.13 East Madras,U.S. House,2,Greg Walden,REP,614
+Jefferson,No.13 East Madras,U.S. House,2,Jamie McLeod-Skinner,DEM,479
+Jefferson,No.13 East Madras,U.S. House,2,Write-Ins,,0
+Jefferson,No.13 East Madras,U.S. House,2,Over Votes,,1
+Jefferson,No.13 East Madras,U.S. House,2,Under Votes,,25
+Jefferson,No.13 East Madras,Governor,,Aaron Auer,CON,29
+Jefferson,No.13 East Madras,Governor,,Nick Chen,LBT,14
+Jefferson,No.13 East Madras,Governor,,Kate Brown,DEM,423
+Jefferson,No.13 East Madras,Governor,,Knute Buehler,REP,632
+Jefferson,No.13 East Madras,Governor,,Patrick Starnes,IND,45
+Jefferson,No.13 East Madras,Governor,,Chris Henry,PRO,8
+Jefferson,No.13 East Madras,Governor,,Write-Ins,,4
+Jefferson,No.13 East Madras,Governor,,Over Votes,,1
+Jefferson,No.13 East Madras,Governor,,Under Votes,,20
+Jefferson,No.13 East Madras,State Senate,30,Solea Kabakov,DEM,430
+Jefferson,No.13 East Madras,State Senate,30,Cliff Bentz,REP,671
+Jefferson,No.13 East Madras,State Senate,30,Write-Ins,,2
+Jefferson,No.13 East Madras,State Senate,30,Over Votes,,0
+Jefferson,No.13 East Madras,State Senate,30,Under Votes,,73
+Jefferson,No.13 East Madras,State House,59,Darcy Long-Curtis,DEM,447
+Jefferson,No.13 East Madras,State House,59,Daniel G Bonham,REP,658
+Jefferson,No.13 East Madras,State House,59,Write-Ins,,1
+Jefferson,No.13 East Madras,State House,59,Over Votes,,0
+Jefferson,No.13 East Madras,State House,59,Under Votes,,70
+Jefferson,No.14 Warm Springs,U.S. House,2,Mark R. Roberts,IND,16
+Jefferson,No.14 Warm Springs,U.S. House,2,Greg Walden,REP,97
+Jefferson,No.14 Warm Springs,U.S. House,2,Jamie McLeod-Skinner,DEM,353
+Jefferson,No.14 Warm Springs,U.S. House,2,Write-Ins,,1
+Jefferson,No.14 Warm Springs,U.S. House,2,Over Votes,,0
+Jefferson,No.14 Warm Springs,U.S. House,2,Under Votes,,4
+Jefferson,No.14 Warm Springs,Governor,,Aaron Auer,CON,3
+Jefferson,No.14 Warm Springs,Governor,,Nick Chen,LBT,18
+Jefferson,No.14 Warm Springs,Governor,,Kate Brown,DEM,356
+Jefferson,No.14 Warm Springs,Governor,,Knute Buehler,REP,60
+Jefferson,No.14 Warm Springs,Governor,,Patrick Starnes,IND,21
+Jefferson,No.14 Warm Springs,Governor,,Chris Henry,PRO,7
+Jefferson,No.14 Warm Springs,Governor,,Write-Ins,,1
+Jefferson,No.14 Warm Springs,Governor,,Over Votes,,1
+Jefferson,No.14 Warm Springs,Governor,,Under Votes,,4
+Jefferson,No.14 Warm Springs,State Senate,30,Solea Kabakov,DEM,370
+Jefferson,No.14 Warm Springs,State Senate,30,Cliff Bentz,REP,88
+Jefferson,No.14 Warm Springs,State Senate,30,Write-Ins,,2
+Jefferson,No.14 Warm Springs,State Senate,30,Over Votes,,0
+Jefferson,No.14 Warm Springs,State Senate,30,Under Votes,,11
+Jefferson,No.14 Warm Springs,State House,59,Darcy Long-Curtis,DEM,371
+Jefferson,No.14 Warm Springs,State House,59,Daniel G Bonham,REP,85
+Jefferson,No.14 Warm Springs,State House,59,Write-Ins,,2
+Jefferson,No.14 Warm Springs,State House,59,Over Votes,,0
+Jefferson,No.14 Warm Springs,State House,59,Under Votes,,13
+Jefferson,No.16 Camp Sherman,U.S. House,2,Mark R. Roberts,IND,8
+Jefferson,No.16 Camp Sherman,U.S. House,2,Greg Walden,REP,70
+Jefferson,No.16 Camp Sherman,U.S. House,2,Jamie McLeod-Skinner,DEM,119
+Jefferson,No.16 Camp Sherman,U.S. House,2,Write-Ins,,0
+Jefferson,No.16 Camp Sherman,U.S. House,2,Over Votes,,0
+Jefferson,No.16 Camp Sherman,U.S. House,2,Under Votes,,2
+Jefferson,No.16 Camp Sherman,Governor,,Aaron Auer,CON,1
+Jefferson,No.16 Camp Sherman,Governor,,Nick Chen,LBT,1
+Jefferson,No.16 Camp Sherman,Governor,,Kate Brown,DEM,109
+Jefferson,No.16 Camp Sherman,Governor,,Knute Buehler,REP,82
+Jefferson,No.16 Camp Sherman,Governor,,Patrick Starnes,IND,4
+Jefferson,No.16 Camp Sherman,Governor,,Chris Henry,PRO,0
+Jefferson,No.16 Camp Sherman,Governor,,Write-Ins,,1
+Jefferson,No.16 Camp Sherman,Governor,,Over Votes,,0
+Jefferson,No.16 Camp Sherman,Governor,,Under Votes,,1
+Jefferson,No.16 Camp Sherman,State Senate,30,Solea Kabakov,DEM,111
+Jefferson,No.16 Camp Sherman,State Senate,30,Cliff Bentz,REP,77
+Jefferson,No.16 Camp Sherman,State Senate,30,Write-Ins,,0
+Jefferson,No.16 Camp Sherman,State Senate,30,Over Votes,,0
+Jefferson,No.16 Camp Sherman,State Senate,30,Under Votes,,11
+Jefferson,No.16 Camp Sherman,State House,59,Darcy Long-Curtis,DEM,112
+Jefferson,No.16 Camp Sherman,State House,59,Daniel G Bonham,REP,79
+Jefferson,No.16 Camp Sherman,State House,59,Write-Ins,,1
+Jefferson,No.16 Camp Sherman,State House,59,Over Votes,,0
+Jefferson,No.16 Camp Sherman,State House,59,Under Votes,,7
+Jefferson,No.17 Culver,U.S. House,2,Mark R. Roberts,IND,40
+Jefferson,No.17 Culver,U.S. House,2,Greg Walden,REP,306
+Jefferson,No.17 Culver,U.S. House,2,Jamie McLeod-Skinner,DEM,154
+Jefferson,No.17 Culver,U.S. House,2,Write-Ins,,0
+Jefferson,No.17 Culver,U.S. House,2,Over Votes,,0
+Jefferson,No.17 Culver,U.S. House,2,Under Votes,,4
+Jefferson,No.17 Culver,Governor,,Aaron Auer,CON,7
+Jefferson,No.17 Culver,Governor,,Nick Chen,LBT,6
+Jefferson,No.17 Culver,Governor,,Kate Brown,DEM,125
+Jefferson,No.17 Culver,Governor,,Knute Buehler,REP,329
+Jefferson,No.17 Culver,Governor,,Patrick Starnes,IND,26
+Jefferson,No.17 Culver,Governor,,Chris Henry,PRO,0
+Jefferson,No.17 Culver,Governor,,Write-Ins,,2
+Jefferson,No.17 Culver,Governor,,Over Votes,,1
+Jefferson,No.17 Culver,Governor,,Under Votes,,8
+Jefferson,No.17 Culver,State Senate,30,Solea Kabakov,DEM,145
+Jefferson,No.17 Culver,State Senate,30,Cliff Bentz,REP,332
+Jefferson,No.17 Culver,State Senate,30,Write-Ins,,0
+Jefferson,No.17 Culver,State Senate,30,Over Votes,,0
+Jefferson,No.17 Culver,State Senate,30,Under Votes,,27
+Jefferson,No.17 Culver,State House,59,Darcy Long-Curtis,DEM,151
+Jefferson,No.17 Culver,State House,59,Daniel G Bonham,REP,331
+Jefferson,No.17 Culver,State House,59,Write-Ins,,0
+Jefferson,No.17 Culver,State House,59,Over Votes,,0
+Jefferson,No.17 Culver,State House,59,Under Votes,,22
+Jefferson,No.18 Round Butte,U.S. House,2,Mark R. Roberts,IND,16
+Jefferson,No.18 Round Butte,U.S. House,2,Greg Walden,REP,233
+Jefferson,No.18 Round Butte,U.S. House,2,Jamie McLeod-Skinner,DEM,79
+Jefferson,No.18 Round Butte,U.S. House,2,Write-Ins,,0
+Jefferson,No.18 Round Butte,U.S. House,2,Over Votes,,0
+Jefferson,No.18 Round Butte,U.S. House,2,Under Votes,,4
+Jefferson,No.18 Round Butte,Governor,,Aaron Auer,CON,6
+Jefferson,No.18 Round Butte,Governor,,Nick Chen,LBT,2
+Jefferson,No.18 Round Butte,Governor,,Kate Brown,DEM,55
+Jefferson,No.18 Round Butte,Governor,,Knute Buehler,REP,239
+Jefferson,No.18 Round Butte,Governor,,Patrick Starnes,IND,21
+Jefferson,No.18 Round Butte,Governor,,Chris Henry,PRO,1
+Jefferson,No.18 Round Butte,Governor,,Write-Ins,,0
+Jefferson,No.18 Round Butte,Governor,,Over Votes,,0
+Jefferson,No.18 Round Butte,Governor,,Under Votes,,8
+Jefferson,No.18 Round Butte,State Senate,30,Solea Kabakov,DEM,60
+Jefferson,No.18 Round Butte,State Senate,30,Cliff Bentz,REP,238
+Jefferson,No.18 Round Butte,State Senate,30,Write-Ins,,0
+Jefferson,No.18 Round Butte,State Senate,30,Over Votes,,0
+Jefferson,No.18 Round Butte,State Senate,30,Under Votes,,34
+Jefferson,No.18 Round Butte,State House,59,Darcy Long-Curtis,DEM,71
+Jefferson,No.18 Round Butte,State House,59,Daniel G Bonham,REP,230
+Jefferson,No.18 Round Butte,State House,59,Write-Ins,,0
+Jefferson,No.18 Round Butte,State House,59,Over Votes,,0
+Jefferson,No.18 Round Butte,State House,59,Under Votes,,31
+Jefferson,No.19 West Madras,U.S. House,2,Mark R. Roberts,IND,50
+Jefferson,No.19 West Madras,U.S. House,2,Greg Walden,REP,357
+Jefferson,No.19 West Madras,U.S. House,2,Jamie McLeod-Skinner,DEM,300
+Jefferson,No.19 West Madras,U.S. House,2,Write-Ins,,1
+Jefferson,No.19 West Madras,U.S. House,2,Over Votes,,0
+Jefferson,No.19 West Madras,U.S. House,2,Under Votes,,12
+Jefferson,No.19 West Madras,Governor,,Aaron Auer,CON,20
+Jefferson,No.19 West Madras,Governor,,Nick Chen,LBT,19
+Jefferson,No.19 West Madras,Governor,,Kate Brown,DEM,260
+Jefferson,No.19 West Madras,Governor,,Knute Buehler,REP,344
+Jefferson,No.19 West Madras,Governor,,Patrick Starnes,IND,53
+Jefferson,No.19 West Madras,Governor,,Chris Henry,PRO,8
+Jefferson,No.19 West Madras,Governor,,Write-Ins,,0
+Jefferson,No.19 West Madras,Governor,,Over Votes,,1
+Jefferson,No.19 West Madras,Governor,,Under Votes,,15
+Jefferson,No.19 West Madras,State Senate,30,Solea Kabakov,DEM,301
+Jefferson,No.19 West Madras,State Senate,30,Cliff Bentz,REP,369
+Jefferson,No.19 West Madras,State Senate,30,Write-Ins,,0
+Jefferson,No.19 West Madras,State Senate,30,Over Votes,,1
+Jefferson,No.19 West Madras,State Senate,30,Under Votes,,49
+Jefferson,No.19 West Madras,State House,59,Darcy Long-Curtis,DEM,316
+Jefferson,No.19 West Madras,State House,59,Daniel G Bonham,REP,358
+Jefferson,No.19 West Madras,State House,59,Write-Ins,,1
+Jefferson,No.19 West Madras,State House,59,Over Votes,,0
+Jefferson,No.19 West Madras,State House,59,Under Votes,,45
+Jefferson,No.20 Circle M,U.S. House,2,Mark R. Roberts,IND,14
+Jefferson,No.20 Circle M,U.S. House,2,Greg Walden,REP,66
+Jefferson,No.20 Circle M,U.S. House,2,Jamie McLeod-Skinner,DEM,32
+Jefferson,No.20 Circle M,U.S. House,2,Write-Ins,,0
+Jefferson,No.20 Circle M,U.S. House,2,Over Votes,,0
+Jefferson,No.20 Circle M,U.S. House,2,Under Votes,,0
+Jefferson,No.20 Circle M,Governor,,Aaron Auer,CON,1
+Jefferson,No.20 Circle M,Governor,,Nick Chen,LBT,3
+Jefferson,No.20 Circle M,Governor,,Kate Brown,DEM,26
+Jefferson,No.20 Circle M,Governor,,Knute Buehler,REP,71
+Jefferson,No.20 Circle M,Governor,,Patrick Starnes,IND,7
+Jefferson,No.20 Circle M,Governor,,Chris Henry,PRO,0
+Jefferson,No.20 Circle M,Governor,,Write-Ins,,0
+Jefferson,No.20 Circle M,Governor,,Over Votes,,0
+Jefferson,No.20 Circle M,Governor,,Under Votes,,4
+Jefferson,No.20 Circle M,State Senate,30,Solea Kabakov,DEM,33
+Jefferson,No.20 Circle M,State Senate,30,Cliff Bentz,REP,68
+Jefferson,No.20 Circle M,State Senate,30,Write-Ins,,0
+Jefferson,No.20 Circle M,State Senate,30,Over Votes,,0
+Jefferson,No.20 Circle M,State Senate,30,Under Votes,,11
+Jefferson,No.20 Circle M,State House,59,Darcy Long-Curtis,DEM,34
+Jefferson,No.20 Circle M,State House,59,Daniel G Bonham,REP,65
+Jefferson,No.20 Circle M,State House,59,Write-Ins,,0
+Jefferson,No.20 Circle M,State House,59,Over Votes,,0
+Jefferson,No.20 Circle M,State House,59,Under Votes,,13
+Jefferson,No.21 Central,U.S. House,2,Mark R. Roberts,IND,54
+Jefferson,No.21 Central,U.S. House,2,Greg Walden,REP,451
+Jefferson,No.21 Central,U.S. House,2,Jamie McLeod-Skinner,DEM,225
+Jefferson,No.21 Central,U.S. House,2,Write-Ins,,0
+Jefferson,No.21 Central,U.S. House,2,Over Votes,,1
+Jefferson,No.21 Central,U.S. House,2,Under Votes,,8
+Jefferson,No.21 Central,Governor,,Aaron Auer,CON,25
+Jefferson,No.21 Central,Governor,,Nick Chen,LBT,9
+Jefferson,No.21 Central,Governor,,Kate Brown,DEM,192
+Jefferson,No.21 Central,Governor,,Knute Buehler,REP,460
+Jefferson,No.21 Central,Governor,,Patrick Starnes,IND,37
+Jefferson,No.21 Central,Governor,,Chris Henry,PRO,3
+Jefferson,No.21 Central,Governor,,Write-Ins,,0
+Jefferson,No.21 Central,Governor,,Over Votes,,0
+Jefferson,No.21 Central,Governor,,Under Votes,,13
+Jefferson,No.21 Central,State Senate,30,Solea Kabakov,DEM,200
+Jefferson,No.21 Central,State Senate,30,Cliff Bentz,REP,491
+Jefferson,No.21 Central,State Senate,30,Write-Ins,,0
+Jefferson,No.21 Central,State Senate,30,Over Votes,,0
+Jefferson,No.21 Central,State Senate,30,Under Votes,,48
+Jefferson,No.21 Central,State House,59,Darcy Long-Curtis,DEM,212
+Jefferson,No.21 Central,State House,59,Daniel G Bonham,REP,482
+Jefferson,No.21 Central,State House,59,Write-Ins,,0
+Jefferson,No.21 Central,State House,59,Over Votes,,0
+Jefferson,No.21 Central,State House,59,Under Votes,,45
+Jefferson,No.22 Sunset,U.S. House,2,Mark R. Roberts,IND,19
+Jefferson,No.22 Sunset,U.S. House,2,Greg Walden,REP,407
+Jefferson,No.22 Sunset,U.S. House,2,Jamie McLeod-Skinner,DEM,135
+Jefferson,No.22 Sunset,U.S. House,2,Write-Ins,,0
+Jefferson,No.22 Sunset,U.S. House,2,Over Votes,,0
+Jefferson,No.22 Sunset,U.S. House,2,Under Votes,,13
+Jefferson,No.22 Sunset,Governor,,Aaron Auer,CON,8
+Jefferson,No.22 Sunset,Governor,,Nick Chen,LBT,8
+Jefferson,No.22 Sunset,Governor,,Kate Brown,DEM,126
+Jefferson,No.22 Sunset,Governor,,Knute Buehler,REP,408
+Jefferson,No.22 Sunset,Governor,,Patrick Starnes,IND,15
+Jefferson,No.22 Sunset,Governor,,Chris Henry,PRO,2
+Jefferson,No.22 Sunset,Governor,,Write-Ins,,1
+Jefferson,No.22 Sunset,Governor,,Over Votes,,0
+Jefferson,No.22 Sunset,Governor,,Under Votes,,6
+Jefferson,No.22 Sunset,State Senate,30,Solea Kabakov,DEM,119
+Jefferson,No.22 Sunset,State Senate,30,Cliff Bentz,REP,410
+Jefferson,No.22 Sunset,State Senate,30,Write-Ins,,0
+Jefferson,No.22 Sunset,State Senate,30,Over Votes,,2
+Jefferson,No.22 Sunset,State Senate,30,Under Votes,,43
+Jefferson,No.22 Sunset,State House,59,Darcy Long-Curtis,DEM,126
+Jefferson,No.22 Sunset,State House,59,Daniel G Bonham,REP,407
+Jefferson,No.22 Sunset,State House,59,Write-Ins,,1
+Jefferson,No.22 Sunset,State House,59,Over Votes,,0
+Jefferson,No.22 Sunset,State House,59,Under Votes,,40
