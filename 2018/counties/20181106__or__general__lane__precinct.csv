@@ -1,0 +1,1448 @@
+county,precinct,office,district,party,candidate,votes
+Lane,Lane 1121,US House,4,Dem,Peter DeFazio,303
+Lane,Lane 1123,US House,4,Dem,Peter DeFazio,1496
+Lane,Lane 1125,US House,4,Dem,Peter DeFazio,3023
+Lane,Lane 1127,US House,4,Dem,Peter DeFazio,5157
+Lane,Lane 1231,US House,4,Dem,Peter DeFazio,3007
+Lane,Lane 1233,US House,4,Dem,Peter DeFazio,2636
+Lane,Lane 1235,US House,4,Dem,Peter DeFazio,5514
+Lane,Lane 1341,US House,4,Dem,Peter DeFazio,60
+Lane,Lane 1343,US House,4,Dem,Peter DeFazio,3253
+Lane,Lane 1345,US House,4,Dem,Peter DeFazio,3255
+Lane,Lane 1349,US House,4,Dem,Peter DeFazio,1004
+Lane,Lane 1451,US House,4,Dem,Peter DeFazio,2624
+Lane,Lane 1453,US House,4,Dem,Peter DeFazio,1500
+Lane,Lane 1455,US House,4,Dem,Peter DeFazio,1129
+Lane,Lane 1457,US House,4,Dem,Peter DeFazio,1861
+Lane,Lane 1561,US House,4,Dem,Peter DeFazio,3738
+Lane,Lane 1563,US House,4,Dem,Peter DeFazio,1915
+Lane,Lane 1565,US House,4,Dem,Peter DeFazio,1189
+Lane,Lane 1569,US House,4,Dem,Peter DeFazio,1018
+Lane,Lane 1671,US House,4,Dem,Peter DeFazio,806
+Lane,Lane 1673,US House,4,Dem,Peter DeFazio,1792
+Lane,Lane 1675,US House,4,Dem,Peter DeFazio,2877
+Lane,Lane 1781,US House,4,Dem,Peter DeFazio,1284
+Lane,Lane 1783,US House,4,Dem,Peter DeFazio,1956
+Lane,Lane 1785,US House,4,Dem,Peter DeFazio,1491
+Lane,Lane 1787,US House,4,Dem,Peter DeFazio,1807
+Lane,Lane 1891,US House,4,Dem,Peter DeFazio,1157
+Lane,Lane 1893,US House,4,Dem,Peter DeFazio,443
+Lane,Lane 1895,US House,4,Dem,Peter DeFazio,322
+Lane,Lane 1897,US House,4,Dem,Peter DeFazio,2124
+Lane,Lane 1899,US House,4,Dem,Peter DeFazio,2838
+Lane,Lane 2122,US House,4,Dem,Peter DeFazio,2256
+Lane,Lane 2234,US House,4,Dem,Peter DeFazio,2802
+Lane,Lane 2238,US House,4,Dem,Peter DeFazio,84
+Lane,Lane 2340,US House,4,Dem,Peter DeFazio,2382
+Lane,Lane 2344,US House,4,Dem,Peter DeFazio,34
+Lane,Lane 2456,US House,4,Dem,Peter DeFazio,2025
+Lane,Lane 2562,US House,4,Dem,Peter DeFazio,2339
+Lane,Lane 2676,US House,4,Dem,Peter DeFazio,2587
+Lane,Lane 4200,US House,4,Dem,Peter DeFazio,402
+Lane,Lane 4301,US House,4,Dem,Peter DeFazio,2046
+Lane,Lane 4400,US House,4,Dem,Peter DeFazio,1171
+Lane,Lane 4500,US House,4,Dem,Peter DeFazio,441
+Lane,Lane 4601,US House,4,Dem,Peter DeFazio,2695
+Lane,Lane 4700,US House,4,Dem,Peter DeFazio,1186
+Lane,Lane 4800,US House,4,Dem,Peter DeFazio,674
+Lane,Lane 4900,US House,4,Dem,Peter DeFazio,1057
+Lane,Lane 702,US House,4,Dem,Peter DeFazio,1667
+Lane,Lane 704,US House,4,Dem,Peter DeFazio,417
+Lane,Lane 706,US House,4,Dem,Peter DeFazio,558
+Lane,Lane 708,US House,4,Dem,Peter DeFazio,1166
+Lane,Lane 710,US House,4,Dem,Peter DeFazio,685
+Lane,Lane 712,US House,4,Dem,Peter DeFazio,914
+Lane,Lane 714,US House,4,Dem,Peter DeFazio,1094
+Lane,Lane 716,US House,4,Dem,Peter DeFazio,904
+Lane,Lane 718,US House,4,Dem,Peter DeFazio,798
+Lane,Lane 720,US House,4,Dem,Peter DeFazio,1157
+Lane,Lane 722,US House,4,Dem,Peter DeFazio,236
+Lane,Lane 724,US House,4,Dem,Peter DeFazio,180
+Lane,Lane 726,US House,4,Dem,Peter DeFazio,2322
+Lane,Lane 728,US House,4,Dem,Peter DeFazio,865
+Lane,Lane 730,US House,4,Dem,Peter DeFazio,2737
+Lane,Lane 732,US House,4,Dem,Peter DeFazio,1502
+Lane,Lane 734,US House,4,Dem,Peter DeFazio,282
+Lane,Lane 736,US House,4,Dem,Peter DeFazio,397
+Lane,Lane 738,US House,4,Dem,Peter DeFazio,1355
+Lane,Lane 740,US House,4,Dem,Peter DeFazio,250
+Lane,Lane 742,US House,4,Dem,Peter DeFazio,639
+Lane,Lane 744,US House,4,Dem,Peter DeFazio,346
+Lane,Lane 746,US House,4,Dem,Peter DeFazio,1245
+Lane,Lane 748,US House,4,Dem,Peter DeFazio,1602
+Lane,Lane 750,US House,4,Dem,Peter DeFazio,356
+Lane,Lane 752,US House,4,Dem,Peter DeFazio,711
+Lane,Lane 754,US House,4,Dem,Peter DeFazio,575
+Lane,Lane 756,US House,4,Dem,Peter DeFazio,1346
+Lane,Lane 758,US House,4,Dem,Peter DeFazio,841
+Lane,Lane 760,US House,4,Dem,Peter DeFazio,898
+Lane,Lane 762,US House,4,Dem,Peter DeFazio,823
+Lane,Lane 764,US House,4,Dem,Peter DeFazio,644
+Lane,Lane 766,US House,4,Dem,Peter DeFazio,289
+Lane,LANE OR,US House,4,Dem,Peter DeFazio,116561
+Lane,Lane 1121,US House,4,Rep,Art Robinson,44
+Lane,Lane 1123,US House,4,Rep,Art Robinson,114
+Lane,Lane 1125,US House,4,Rep,Art Robinson,246
+Lane,Lane 1127,US House,4,Rep,Art Robinson,499
+Lane,Lane 1231,US House,4,Rep,Art Robinson,233
+Lane,Lane 1233,US House,4,Rep,Art Robinson,358
+Lane,Lane 1235,US House,4,Rep,Art Robinson,682
+Lane,Lane 1341,US House,4,Rep,Art Robinson,5
+Lane,Lane 1343,US House,4,Rep,Art Robinson,183
+Lane,Lane 1345,US House,4,Rep,Art Robinson,280
+Lane,Lane 1349,US House,4,Rep,Art Robinson,66
+Lane,Lane 1451,US House,4,Rep,Art Robinson,1212
+Lane,Lane 1453,US House,4,Rep,Art Robinson,497
+Lane,Lane 1455,US House,4,Rep,Art Robinson,250
+Lane,Lane 1457,US House,4,Rep,Art Robinson,712
+Lane,Lane 1561,US House,4,Rep,Art Robinson,1761
+Lane,Lane 1563,US House,4,Rep,Art Robinson,693
+Lane,Lane 1565,US House,4,Rep,Art Robinson,424
+Lane,Lane 1569,US House,4,Rep,Art Robinson,577
+Lane,Lane 1671,US House,4,Rep,Art Robinson,487
+Lane,Lane 1673,US House,4,Rep,Art Robinson,918
+Lane,Lane 1675,US House,4,Rep,Art Robinson,1681
+Lane,Lane 1781,US House,4,Rep,Art Robinson,308
+Lane,Lane 1783,US House,4,Rep,Art Robinson,176
+Lane,Lane 1785,US House,4,Rep,Art Robinson,584
+Lane,Lane 1787,US House,4,Rep,Art Robinson,1217
+Lane,Lane 1891,US House,4,Rep,Art Robinson,541
+Lane,Lane 1893,US House,4,Rep,Art Robinson,43
+Lane,Lane 1895,US House,4,Rep,Art Robinson,66
+Lane,Lane 1897,US House,4,Rep,Art Robinson,775
+Lane,Lane 1899,US House,4,Rep,Art Robinson,738
+Lane,Lane 2122,US House,4,Rep,Art Robinson,1121
+Lane,Lane 2234,US House,4,Rep,Art Robinson,923
+Lane,Lane 2238,US House,4,Rep,Art Robinson,36
+Lane,Lane 2340,US House,4,Rep,Art Robinson,1177
+Lane,Lane 2344,US House,4,Rep,Art Robinson,39
+Lane,Lane 2456,US House,4,Rep,Art Robinson,1236
+Lane,Lane 2562,US House,4,Rep,Art Robinson,1536
+Lane,Lane 2676,US House,4,Rep,Art Robinson,2035
+Lane,Lane 4200,US House,4,Rep,Art Robinson,256
+Lane,Lane 4301,US House,4,Rep,Art Robinson,1717
+Lane,Lane 4400,US House,4,Rep,Art Robinson,1082
+Lane,Lane 4500,US House,4,Rep,Art Robinson,444
+Lane,Lane 4601,US House,4,Rep,Art Robinson,2049
+Lane,Lane 4700,US House,4,Rep,Art Robinson,1412
+Lane,Lane 4800,US House,4,Rep,Art Robinson,508
+Lane,Lane 4900,US House,4,Rep,Art Robinson,1025
+Lane,Lane 702,US House,4,Rep,Art Robinson,1334
+Lane,Lane 704,US House,4,Rep,Art Robinson,316
+Lane,Lane 706,US House,4,Rep,Art Robinson,411
+Lane,Lane 708,US House,4,Rep,Art Robinson,1028
+Lane,Lane 710,US House,4,Rep,Art Robinson,548
+Lane,Lane 712,US House,4,Rep,Art Robinson,1190
+Lane,Lane 714,US House,4,Rep,Art Robinson,1157
+Lane,Lane 716,US House,4,Rep,Art Robinson,899
+Lane,Lane 718,US House,4,Rep,Art Robinson,466
+Lane,Lane 720,US House,4,Rep,Art Robinson,383
+Lane,Lane 722,US House,4,Rep,Art Robinson,294
+Lane,Lane 724,US House,4,Rep,Art Robinson,223
+Lane,Lane 726,US House,4,Rep,Art Robinson,1317
+Lane,Lane 728,US House,4,Rep,Art Robinson,350
+Lane,Lane 730,US House,4,Rep,Art Robinson,589
+Lane,Lane 732,US House,4,Rep,Art Robinson,795
+Lane,Lane 734,US House,4,Rep,Art Robinson,200
+Lane,Lane 736,US House,4,Rep,Art Robinson,444
+Lane,Lane 738,US House,4,Rep,Art Robinson,824
+Lane,Lane 740,US House,4,Rep,Art Robinson,70
+Lane,Lane 742,US House,4,Rep,Art Robinson,357
+Lane,Lane 744,US House,4,Rep,Art Robinson,368
+Lane,Lane 746,US House,4,Rep,Art Robinson,1390
+Lane,Lane 748,US House,4,Rep,Art Robinson,1513
+Lane,Lane 750,US House,4,Rep,Art Robinson,395
+Lane,Lane 752,US House,4,Rep,Art Robinson,756
+Lane,Lane 754,US House,4,Rep,Art Robinson,541
+Lane,Lane 756,US House,4,Rep,Art Robinson,1431
+Lane,Lane 758,US House,4,Rep,Art Robinson,766
+Lane,Lane 760,US House,4,Rep,Art Robinson,823
+Lane,Lane 762,US House,4,Rep,Art Robinson,448
+Lane,Lane 764,US House,4,Rep,Art Robinson,634
+Lane,Lane 766,US House,4,Rep,Art Robinson,309
+Lane,LANE OR,US House,4,Rep,Art Robinson,55535
+Lane,Lane 1121,US House,4,Lbt,Richard Jacobson,3
+Lane,Lane 1123,US House,4,Lbt,Richard Jacobson,22
+Lane,Lane 1125,US House,4,Lbt,Richard Jacobson,37
+Lane,Lane 1127,US House,4,Lbt,Richard Jacobson,65
+Lane,Lane 1231,US House,4,Lbt,Richard Jacobson,36
+Lane,Lane 1233,US House,4,Lbt,Richard Jacobson,30
+Lane,Lane 1235,US House,4,Lbt,Richard Jacobson,63
+Lane,Lane 1341,US House,4,Lbt,Richard Jacobson,1
+Lane,Lane 1343,US House,4,Lbt,Richard Jacobson,54
+Lane,Lane 1345,US House,4,Lbt,Richard Jacobson,51
+Lane,Lane 1349,US House,4,Lbt,Richard Jacobson,25
+Lane,Lane 1451,US House,4,Lbt,Richard Jacobson,41
+Lane,Lane 1453,US House,4,Lbt,Richard Jacobson,18
+Lane,Lane 1455,US House,4,Lbt,Richard Jacobson,23
+Lane,Lane 1457,US House,4,Lbt,Richard Jacobson,30
+Lane,Lane 1561,US House,4,Lbt,Richard Jacobson,90
+Lane,Lane 1563,US House,4,Lbt,Richard Jacobson,28
+Lane,Lane 1565,US House,4,Lbt,Richard Jacobson,37
+Lane,Lane 1569,US House,4,Lbt,Richard Jacobson,25
+Lane,Lane 1671,US House,4,Lbt,Richard Jacobson,20
+Lane,Lane 1673,US House,4,Lbt,Richard Jacobson,51
+Lane,Lane 1675,US House,4,Lbt,Richard Jacobson,50
+Lane,Lane 1781,US House,4,Lbt,Richard Jacobson,21
+Lane,Lane 1783,US House,4,Lbt,Richard Jacobson,26
+Lane,Lane 1785,US House,4,Lbt,Richard Jacobson,31
+Lane,Lane 1787,US House,4,Lbt,Richard Jacobson,35
+Lane,Lane 1891,US House,4,Lbt,Richard Jacobson,46
+Lane,Lane 1893,US House,4,Lbt,Richard Jacobson,4
+Lane,Lane 1895,US House,4,Lbt,Richard Jacobson,6
+Lane,Lane 1897,US House,4,Lbt,Richard Jacobson,37
+Lane,Lane 1899,US House,4,Lbt,Richard Jacobson,48
+Lane,Lane 2122,US House,4,Lbt,Richard Jacobson,55
+Lane,Lane 2234,US House,4,Lbt,Richard Jacobson,61
+Lane,Lane 2238,US House,4,Lbt,Richard Jacobson,1
+Lane,Lane 2340,US House,4,Lbt,Richard Jacobson,54
+Lane,Lane 2344,US House,4,Lbt,Richard Jacobson,1
+Lane,Lane 2456,US House,4,Lbt,Richard Jacobson,56
+Lane,Lane 2562,US House,4,Lbt,Richard Jacobson,60
+Lane,Lane 2676,US House,4,Lbt,Richard Jacobson,75
+Lane,Lane 4200,US House,4,Lbt,Richard Jacobson,14
+Lane,Lane 4301,US House,4,Lbt,Richard Jacobson,72
+Lane,Lane 4400,US House,4,Lbt,Richard Jacobson,31
+Lane,Lane 4500,US House,4,Lbt,Richard Jacobson,15
+Lane,Lane 4601,US House,4,Lbt,Richard Jacobson,63
+Lane,Lane 4700,US House,4,Lbt,Richard Jacobson,44
+Lane,Lane 4800,US House,4,Lbt,Richard Jacobson,23
+Lane,Lane 4900,US House,4,Lbt,Richard Jacobson,27
+Lane,Lane 702,US House,4,Lbt,Richard Jacobson,39
+Lane,Lane 704,US House,4,Lbt,Richard Jacobson,2
+Lane,Lane 706,US House,4,Lbt,Richard Jacobson,8
+Lane,Lane 708,US House,4,Lbt,Richard Jacobson,26
+Lane,Lane 710,US House,4,Lbt,Richard Jacobson,17
+Lane,Lane 712,US House,4,Lbt,Richard Jacobson,37
+Lane,Lane 714,US House,4,Lbt,Richard Jacobson,38
+Lane,Lane 716,US House,4,Lbt,Richard Jacobson,33
+Lane,Lane 718,US House,4,Lbt,Richard Jacobson,14
+Lane,Lane 720,US House,4,Lbt,Richard Jacobson,15
+Lane,Lane 722,US House,4,Lbt,Richard Jacobson,5
+Lane,Lane 724,US House,4,Lbt,Richard Jacobson,3
+Lane,Lane 726,US House,4,Lbt,Richard Jacobson,44
+Lane,Lane 728,US House,4,Lbt,Richard Jacobson,20
+Lane,Lane 730,US House,4,Lbt,Richard Jacobson,46
+Lane,Lane 732,US House,4,Lbt,Richard Jacobson,37
+Lane,Lane 734,US House,4,Lbt,Richard Jacobson,6
+Lane,Lane 736,US House,4,Lbt,Richard Jacobson,6
+Lane,Lane 738,US House,4,Lbt,Richard Jacobson,31
+Lane,Lane 740,US House,4,Lbt,Richard Jacobson,1
+Lane,Lane 742,US House,4,Lbt,Richard Jacobson,20
+Lane,Lane 744,US House,4,Lbt,Richard Jacobson,7
+Lane,Lane 746,US House,4,Lbt,Richard Jacobson,29
+Lane,Lane 748,US House,4,Lbt,Richard Jacobson,32
+Lane,Lane 750,US House,4,Lbt,Richard Jacobson,11
+Lane,Lane 752,US House,4,Lbt,Richard Jacobson,15
+Lane,Lane 754,US House,4,Lbt,Richard Jacobson,10
+Lane,Lane 756,US House,4,Lbt,Richard Jacobson,36
+Lane,Lane 758,US House,4,Lbt,Richard Jacobson,20
+Lane,Lane 760,US House,4,Lbt,Richard Jacobson,24
+Lane,Lane 762,US House,4,Lbt,Richard Jacobson,16
+Lane,Lane 764,US House,4,Lbt,Richard Jacobson,21
+Lane,Lane 766,US House,4,Lbt,Richard Jacobson,11
+Lane,LANE OR,US House,4,Lbt,Richard Jacobson,2386
+Lane,Lane 1121,US House,4,PG,Mike Beilstein,14
+Lane,Lane 1123,US House,4,PG,Mike Beilstein,74
+Lane,Lane 1125,US House,4,PG,Mike Beilstein,104
+Lane,Lane 1127,US House,4,PG,Mike Beilstein,119
+Lane,Lane 1231,US House,4,PG,Mike Beilstein,81
+Lane,Lane 1233,US House,4,PG,Mike Beilstein,50
+Lane,Lane 1235,US House,4,PG,Mike Beilstein,90
+Lane,Lane 1341,US House,4,PG,Mike Beilstein,0
+Lane,Lane 1343,US House,4,PG,Mike Beilstein,123
+Lane,Lane 1345,US House,4,PG,Mike Beilstein,75
+Lane,Lane 1349,US House,4,PG,Mike Beilstein,34
+Lane,Lane 1451,US House,4,PG,Mike Beilstein,41
+Lane,Lane 1453,US House,4,PG,Mike Beilstein,16
+Lane,Lane 1455,US House,4,PG,Mike Beilstein,42
+Lane,Lane 1457,US House,4,PG,Mike Beilstein,28
+Lane,Lane 1561,US House,4,PG,Mike Beilstein,54
+Lane,Lane 1563,US House,4,PG,Mike Beilstein,32
+Lane,Lane 1565,US House,4,PG,Mike Beilstein,23
+Lane,Lane 1569,US House,4,PG,Mike Beilstein,30
+Lane,Lane 1671,US House,4,PG,Mike Beilstein,21
+Lane,Lane 1673,US House,4,PG,Mike Beilstein,63
+Lane,Lane 1675,US House,4,PG,Mike Beilstein,70
+Lane,Lane 1781,US House,4,PG,Mike Beilstein,30
+Lane,Lane 1783,US House,4,PG,Mike Beilstein,76
+Lane,Lane 1785,US House,4,PG,Mike Beilstein,31
+Lane,Lane 1787,US House,4,PG,Mike Beilstein,16
+Lane,Lane 1891,US House,4,PG,Mike Beilstein,36
+Lane,Lane 1893,US House,4,PG,Mike Beilstein,12
+Lane,Lane 1895,US House,4,PG,Mike Beilstein,5
+Lane,Lane 1897,US House,4,PG,Mike Beilstein,30
+Lane,Lane 1899,US House,4,PG,Mike Beilstein,61
+Lane,Lane 2122,US House,4,PG,Mike Beilstein,64
+Lane,Lane 2234,US House,4,PG,Mike Beilstein,62
+Lane,Lane 2238,US House,4,PG,Mike Beilstein,4
+Lane,Lane 2340,US House,4,PG,Mike Beilstein,62
+Lane,Lane 2344,US House,4,PG,Mike Beilstein,1
+Lane,Lane 2456,US House,4,PG,Mike Beilstein,47
+Lane,Lane 2562,US House,4,PG,Mike Beilstein,58
+Lane,Lane 2676,US House,4,PG,Mike Beilstein,50
+Lane,Lane 4200,US House,4,PG,Mike Beilstein,6
+Lane,Lane 4301,US House,4,PG,Mike Beilstein,66
+Lane,Lane 4400,US House,4,PG,Mike Beilstein,24
+Lane,Lane 4500,US House,4,PG,Mike Beilstein,10
+Lane,Lane 4601,US House,4,PG,Mike Beilstein,52
+Lane,Lane 4700,US House,4,PG,Mike Beilstein,32
+Lane,Lane 4800,US House,4,PG,Mike Beilstein,22
+Lane,Lane 4900,US House,4,PG,Mike Beilstein,32
+Lane,Lane 702,US House,4,PG,Mike Beilstein,27
+Lane,Lane 704,US House,4,PG,Mike Beilstein,15
+Lane,Lane 706,US House,4,PG,Mike Beilstein,16
+Lane,Lane 708,US House,4,PG,Mike Beilstein,31
+Lane,Lane 710,US House,4,PG,Mike Beilstein,13
+Lane,Lane 712,US House,4,PG,Mike Beilstein,26
+Lane,Lane 714,US House,4,PG,Mike Beilstein,27
+Lane,Lane 716,US House,4,PG,Mike Beilstein,16
+Lane,Lane 718,US House,4,PG,Mike Beilstein,20
+Lane,Lane 720,US House,4,PG,Mike Beilstein,20
+Lane,Lane 722,US House,4,PG,Mike Beilstein,6
+Lane,Lane 724,US House,4,PG,Mike Beilstein,8
+Lane,Lane 726,US House,4,PG,Mike Beilstein,43
+Lane,Lane 728,US House,4,PG,Mike Beilstein,13
+Lane,Lane 730,US House,4,PG,Mike Beilstein,66
+Lane,Lane 732,US House,4,PG,Mike Beilstein,31
+Lane,Lane 734,US House,4,PG,Mike Beilstein,11
+Lane,Lane 736,US House,4,PG,Mike Beilstein,9
+Lane,Lane 738,US House,4,PG,Mike Beilstein,27
+Lane,Lane 740,US House,4,PG,Mike Beilstein,11
+Lane,Lane 742,US House,4,PG,Mike Beilstein,15
+Lane,Lane 744,US House,4,PG,Mike Beilstein,9
+Lane,Lane 746,US House,4,PG,Mike Beilstein,25
+Lane,Lane 748,US House,4,PG,Mike Beilstein,27
+Lane,Lane 750,US House,4,PG,Mike Beilstein,9
+Lane,Lane 752,US House,4,PG,Mike Beilstein,22
+Lane,Lane 754,US House,4,PG,Mike Beilstein,8
+Lane,Lane 756,US House,4,PG,Mike Beilstein,16
+Lane,Lane 758,US House,4,PG,Mike Beilstein,11
+Lane,Lane 760,US House,4,PG,Mike Beilstein,26
+Lane,Lane 762,US House,4,PG,Mike Beilstein,17
+Lane,Lane 764,US House,4,PG,Mike Beilstein,13
+Lane,Lane 766,US House,4,PG,Mike Beilstein,11
+Lane,LANE OR,US House,4,PG,Mike Beilstein,2718
+Lane,Lane 1121,US House,4,,write-in,0
+Lane,Lane 1123,US House,4,,write-in,3
+Lane,Lane 1125,US House,4,,write-in,4
+Lane,Lane 1127,US House,4,,write-in,6
+Lane,Lane 1231,US House,4,,write-in,6
+Lane,Lane 1233,US House,4,,write-in,6
+Lane,Lane 1235,US House,4,,write-in,4
+Lane,Lane 1341,US House,4,,write-in,0
+Lane,Lane 1343,US House,4,,write-in,8
+Lane,Lane 1345,US House,4,,write-in,3
+Lane,Lane 1349,US House,4,,write-in,2
+Lane,Lane 1451,US House,4,,write-in,7
+Lane,Lane 1453,US House,4,,write-in,4
+Lane,Lane 1455,US House,4,,write-in,3
+Lane,Lane 1457,US House,4,,write-in,6
+Lane,Lane 1561,US House,4,,write-in,5
+Lane,Lane 1563,US House,4,,write-in,4
+Lane,Lane 1565,US House,4,,write-in,3
+Lane,Lane 1569,US House,4,,write-in,0
+Lane,Lane 1671,US House,4,,write-in,1
+Lane,Lane 1673,US House,4,,write-in,2
+Lane,Lane 1675,US House,4,,write-in,7
+Lane,Lane 1781,US House,4,,write-in,3
+Lane,Lane 1783,US House,4,,write-in,5
+Lane,Lane 1785,US House,4,,write-in,5
+Lane,Lane 1787,US House,4,,write-in,5
+Lane,Lane 1891,US House,4,,write-in,2
+Lane,Lane 1893,US House,4,,write-in,0
+Lane,Lane 1895,US House,4,,write-in,0
+Lane,Lane 1897,US House,4,,write-in,0
+Lane,Lane 1899,US House,4,,write-in,6
+Lane,Lane 2122,US House,4,,write-in,8
+Lane,Lane 2234,US House,4,,write-in,7
+Lane,Lane 2238,US House,4,,write-in,0
+Lane,Lane 2340,US House,4,,write-in,3
+Lane,Lane 2344,US House,4,,write-in,0
+Lane,Lane 2456,US House,4,,write-in,3
+Lane,Lane 2562,US House,4,,write-in,3
+Lane,Lane 2676,US House,4,,write-in,6
+Lane,Lane 4200,US House,4,,write-in,1
+Lane,Lane 4301,US House,4,,write-in,2
+Lane,Lane 4400,US House,4,,write-in,2
+Lane,Lane 4500,US House,4,,write-in,4
+Lane,Lane 4601,US House,4,,write-in,4
+Lane,Lane 4700,US House,4,,write-in,2
+Lane,Lane 4800,US House,4,,write-in,0
+Lane,Lane 4900,US House,4,,write-in,2
+Lane,Lane 702,US House,4,,write-in,2
+Lane,Lane 704,US House,4,,write-in,2
+Lane,Lane 706,US House,4,,write-in,2
+Lane,Lane 708,US House,4,,write-in,0
+Lane,Lane 710,US House,4,,write-in,0
+Lane,Lane 712,US House,4,,write-in,1
+Lane,Lane 714,US House,4,,write-in,0
+Lane,Lane 716,US House,4,,write-in,4
+Lane,Lane 718,US House,4,,write-in,1
+Lane,Lane 720,US House,4,,write-in,0
+Lane,Lane 722,US House,4,,write-in,0
+Lane,Lane 724,US House,4,,write-in,0
+Lane,Lane 726,US House,4,,write-in,3
+Lane,Lane 728,US House,4,,write-in,2
+Lane,Lane 730,US House,4,,write-in,4
+Lane,Lane 732,US House,4,,write-in,2
+Lane,Lane 734,US House,4,,write-in,0
+Lane,Lane 736,US House,4,,write-in,1
+Lane,Lane 738,US House,4,,write-in,4
+Lane,Lane 740,US House,4,,write-in,1
+Lane,Lane 742,US House,4,,write-in,1
+Lane,Lane 744,US House,4,,write-in,0
+Lane,Lane 746,US House,4,,write-in,1
+Lane,Lane 748,US House,4,,write-in,5
+Lane,Lane 750,US House,4,,write-in,0
+Lane,Lane 752,US House,4,,write-in,1
+Lane,Lane 754,US House,4,,write-in,0
+Lane,Lane 756,US House,4,,write-in,2
+Lane,Lane 758,US House,4,,write-in,5
+Lane,Lane 760,US House,4,,write-in,1
+Lane,Lane 762,US House,4,,write-in,1
+Lane,Lane 764,US House,4,,write-in,0
+Lane,Lane 766,US House,4,,write-in,1
+Lane,LANE OR,US House,4,,write-in,204
+Lane,Lane 1121,Governor,,Dem,Kate Brown,270
+Lane,Lane 1123,Governor,,Dem,Kate Brown,1422
+Lane,Lane 1125,Governor,,Dem,Kate Brown,2867
+Lane,Lane 1127,Governor,,Dem,Kate Brown,4849
+Lane,Lane 1231,Governor,,Dem,Kate Brown,2854
+Lane,Lane 1233,Governor,,Dem,Kate Brown,2434
+Lane,Lane 1235,Governor,,Dem,Kate Brown,5065
+Lane,Lane 1341,Governor,,Dem,Kate Brown,58
+Lane,Lane 1343,Governor,,Dem,Kate Brown,3175
+Lane,Lane 1345,Governor,,Dem,Kate Brown,3054
+Lane,Lane 1349,Governor,,Dem,Kate Brown,972
+Lane,Lane 1451,Governor,,Dem,Kate Brown,2121
+Lane,Lane 1453,Governor,,Dem,Kate Brown,1264
+Lane,Lane 1455,Governor,,Dem,Kate Brown,990
+Lane,Lane 1457,Governor,,Dem,Kate Brown,1505
+Lane,Lane 1561,Governor,,Dem,Kate Brown,3023
+Lane,Lane 1563,Governor,,Dem,Kate Brown,1620
+Lane,Lane 1565,Governor,,Dem,Kate Brown,980
+Lane,Lane 1569,Governor,,Dem,Kate Brown,826
+Lane,Lane 1671,Governor,,Dem,Kate Brown,625
+Lane,Lane 1673,Governor,,Dem,Kate Brown,1426
+Lane,Lane 1675,Governor,,Dem,Kate Brown,2261
+Lane,Lane 1781,Governor,,Dem,Kate Brown,1098
+Lane,Lane 1783,Governor,,Dem,Kate Brown,1826
+Lane,Lane 1785,Governor,,Dem,Kate Brown,1163
+Lane,Lane 1787,Governor,,Dem,Kate Brown,1401
+Lane,Lane 1891,Governor,,Dem,Kate Brown,898
+Lane,Lane 1893,Governor,,Dem,Kate Brown,405
+Lane,Lane 1895,Governor,,Dem,Kate Brown,284
+Lane,Lane 1897,Governor,,Dem,Kate Brown,1868
+Lane,Lane 1899,Governor,,Dem,Kate Brown,2529
+Lane,Lane 2122,Governor,,Dem,Kate Brown,1772
+Lane,Lane 2234,Governor,,Dem,Kate Brown,2332
+Lane,Lane 2238,Governor,,Dem,Kate Brown,64
+Lane,Lane 2340,Governor,,Dem,Kate Brown,1848
+Lane,Lane 2344,Governor,,Dem,Kate Brown,23
+Lane,Lane 2456,Governor,,Dem,Kate Brown,1501
+Lane,Lane 2562,Governor,,Dem,Kate Brown,1673
+Lane,Lane 2676,Governor,,Dem,Kate Brown,1808
+Lane,Lane 4200,Governor,,Dem,Kate Brown,291
+Lane,Lane 4301,Governor,,Dem,Kate Brown,1528
+Lane,Lane 4400,Governor,,Dem,Kate Brown,788
+Lane,Lane 4500,Governor,,Dem,Kate Brown,355
+Lane,Lane 4601,Governor,,Dem,Kate Brown,2174
+Lane,Lane 4700,Governor,,Dem,Kate Brown,802
+Lane,Lane 4800,Governor,,Dem,Kate Brown,487
+Lane,Lane 4900,Governor,,Dem,Kate Brown,798
+Lane,Lane 702,Governor,,Dem,Kate Brown,1357
+Lane,Lane 704,Governor,,Dem,Kate Brown,326
+Lane,Lane 706,Governor,,Dem,Kate Brown,456
+Lane,Lane 708,Governor,,Dem,Kate Brown,906
+Lane,Lane 710,Governor,,Dem,Kate Brown,546
+Lane,Lane 712,Governor,,Dem,Kate Brown,640
+Lane,Lane 714,Governor,,Dem,Kate Brown,847
+Lane,Lane 716,Governor,,Dem,Kate Brown,688
+Lane,Lane 718,Governor,,Dem,Kate Brown,642
+Lane,Lane 720,Governor,,Dem,Kate Brown,1035
+Lane,Lane 722,Governor,,Dem,Kate Brown,199
+Lane,Lane 724,Governor,,Dem,Kate Brown,134
+Lane,Lane 726,Governor,,Dem,Kate Brown,1821
+Lane,Lane 728,Governor,,Dem,Kate Brown,726
+Lane,Lane 730,Governor,,Dem,Kate Brown,2423
+Lane,Lane 732,Governor,,Dem,Kate Brown,1185
+Lane,Lane 734,Governor,,Dem,Kate Brown,222
+Lane,Lane 736,Governor,,Dem,Kate Brown,283
+Lane,Lane 738,Governor,,Dem,Kate Brown,1027
+Lane,Lane 740,Governor,,Dem,Kate Brown,201
+Lane,Lane 742,Governor,,Dem,Kate Brown,530
+Lane,Lane 744,Governor,,Dem,Kate Brown,245
+Lane,Lane 746,Governor,,Dem,Kate Brown,912
+Lane,Lane 748,Governor,,Dem,Kate Brown,1162
+Lane,Lane 750,Governor,,Dem,Kate Brown,270
+Lane,Lane 752,Governor,,Dem,Kate Brown,555
+Lane,Lane 754,Governor,,Dem,Kate Brown,451
+Lane,Lane 756,Governor,,Dem,Kate Brown,969
+Lane,Lane 758,Governor,,Dem,Kate Brown,626
+Lane,Lane 760,Governor,,Dem,Kate Brown,706
+Lane,Lane 762,Governor,,Dem,Kate Brown,659
+Lane,Lane 764,Governor,,Dem,Kate Brown,478
+Lane,Lane 766,Governor,,Dem,Kate Brown,237
+Lane,LANE OR,Governor,,Dem,Kate Brown,96841
+Lane,Lane 1121,Governor,,Rep,Knute Buehler,55
+Lane,Lane 1123,Governor,,Rep,Knute Buehler,159
+Lane,Lane 1125,Governor,,Rep,Knute Buehler,338
+Lane,Lane 1127,Governor,,Rep,Knute Buehler,747
+Lane,Lane 1231,Governor,,Rep,Knute Buehler,335
+Lane,Lane 1233,Governor,,Rep,Knute Buehler,533
+Lane,Lane 1235,Governor,,Rep,Knute Buehler,1038
+Lane,Lane 1341,Governor,,Rep,Knute Buehler,11
+Lane,Lane 1343,Governor,,Rep,Knute Buehler,317
+Lane,Lane 1345,Governor,,Rep,Knute Buehler,467
+Lane,Lane 1349,Governor,,Rep,Knute Buehler,108
+Lane,Lane 1451,Governor,,Rep,Knute Buehler,1598
+Lane,Lane 1453,Governor,,Rep,Knute Buehler,663
+Lane,Lane 1455,Governor,,Rep,Knute Buehler,381
+Lane,Lane 1457,Governor,,Rep,Knute Buehler,1006
+Lane,Lane 1561,Governor,,Rep,Knute Buehler,2366
+Lane,Lane 1563,Governor,,Rep,Knute Buehler,947
+Lane,Lane 1565,Governor,,Rep,Knute Buehler,619
+Lane,Lane 1569,Governor,,Rep,Knute Buehler,732
+Lane,Lane 1671,Governor,,Rep,Knute Buehler,579
+Lane,Lane 1673,Governor,,Rep,Knute Buehler,1132
+Lane,Lane 1675,Governor,,Rep,Knute Buehler,2022
+Lane,Lane 1781,Governor,,Rep,Knute Buehler,387
+Lane,Lane 1783,Governor,,Rep,Knute Buehler,255
+Lane,Lane 1785,Governor,,Rep,Knute Buehler,749
+Lane,Lane 1787,Governor,,Rep,Knute Buehler,1536
+Lane,Lane 1891,Governor,,Rep,Knute Buehler,697
+Lane,Lane 1893,Governor,,Rep,Knute Buehler,57
+Lane,Lane 1895,Governor,,Rep,Knute Buehler,102
+Lane,Lane 1897,Governor,,Rep,Knute Buehler,1000
+Lane,Lane 1899,Governor,,Rep,Knute Buehler,916
+Lane,Lane 2122,Governor,,Rep,Knute Buehler,1391
+Lane,Lane 2234,Governor,,Rep,Knute Buehler,1183
+Lane,Lane 2238,Governor,,Rep,Knute Buehler,41
+Lane,Lane 2340,Governor,,Rep,Knute Buehler,1430
+Lane,Lane 2344,Governor,,Rep,Knute Buehler,50
+Lane,Lane 2456,Governor,,Rep,Knute Buehler,1485
+Lane,Lane 2562,Governor,,Rep,Knute Buehler,1876
+Lane,Lane 2676,Governor,,Rep,Knute Buehler,2565
+Lane,Lane 4200,Governor,,Rep,Knute Buehler,348
+Lane,Lane 4301,Governor,,Rep,Knute Buehler,1954
+Lane,Lane 4400,Governor,,Rep,Knute Buehler,1324
+Lane,Lane 4500,Governor,,Rep,Knute Buehler,503
+Lane,Lane 4601,Governor,,Rep,Knute Buehler,2278
+Lane,Lane 4700,Governor,,Rep,Knute Buehler,1617
+Lane,Lane 4800,Governor,,Rep,Knute Buehler,551
+Lane,Lane 4900,Governor,,Rep,Knute Buehler,1108
+Lane,Lane 702,Governor,,Rep,Knute Buehler,1465
+Lane,Lane 704,Governor,,Rep,Knute Buehler,342
+Lane,Lane 706,Governor,,Rep,Knute Buehler,453
+Lane,Lane 708,Governor,,Rep,Knute Buehler,1160
+Lane,Lane 710,Governor,,Rep,Knute Buehler,614
+Lane,Lane 712,Governor,,Rep,Knute Buehler,1365
+Lane,Lane 714,Governor,,Rep,Knute Buehler,1322
+Lane,Lane 716,Governor,,Rep,Knute Buehler,1004
+Lane,Lane 718,Governor,,Rep,Knute Buehler,587
+Lane,Lane 720,Governor,,Rep,Knute Buehler,465
+Lane,Lane 722,Governor,,Rep,Knute Buehler,317
+Lane,Lane 724,Governor,,Rep,Knute Buehler,242
+Lane,Lane 726,Governor,,Rep,Knute Buehler,1621
+Lane,Lane 728,Governor,,Rep,Knute Buehler,416
+Lane,Lane 730,Governor,,Rep,Knute Buehler,793
+Lane,Lane 732,Governor,,Rep,Knute Buehler,989
+Lane,Lane 734,Governor,,Rep,Knute Buehler,238
+Lane,Lane 736,Governor,,Rep,Knute Buehler,531
+Lane,Lane 738,Governor,,Rep,Knute Buehler,1055
+Lane,Lane 740,Governor,,Rep,Knute Buehler,80
+Lane,Lane 742,Governor,,Rep,Knute Buehler,431
+Lane,Lane 744,Governor,,Rep,Knute Buehler,417
+Lane,Lane 746,Governor,,Rep,Knute Buehler,1579
+Lane,Lane 748,Governor,,Rep,Knute Buehler,1731
+Lane,Lane 750,Governor,,Rep,Knute Buehler,435
+Lane,Lane 752,Governor,,Rep,Knute Buehler,847
+Lane,Lane 754,Governor,,Rep,Knute Buehler,601
+Lane,Lane 756,Governor,,Rep,Knute Buehler,1668
+Lane,Lane 758,Governor,,Rep,Knute Buehler,904
+Lane,Lane 760,Governor,,Rep,Knute Buehler,956
+Lane,Lane 762,Governor,,Rep,Knute Buehler,532
+Lane,Lane 764,Governor,,Rep,Knute Buehler,698
+Lane,Lane 766,Governor,,Rep,Knute Buehler,323
+Lane,LANE OR,Governor,,Rep,Knute Buehler,67737
+Lane,Lane 1121,Governor,,Lbt,Nick Chen,8
+Lane,Lane 1123,Governor,,Lbt,Nick Chen,25
+Lane,Lane 1125,Governor,,Lbt,Nick Chen,46
+Lane,Lane 1127,Governor,,Lbt,Nick Chen,72
+Lane,Lane 1231,Governor,,Lbt,Nick Chen,48
+Lane,Lane 1233,Governor,,Lbt,Nick Chen,35
+Lane,Lane 1235,Governor,,Lbt,Nick Chen,66
+Lane,Lane 1341,Governor,,Lbt,Nick Chen,0
+Lane,Lane 1343,Governor,,Lbt,Nick Chen,68
+Lane,Lane 1345,Governor,,Lbt,Nick Chen,42
+Lane,Lane 1349,Governor,,Lbt,Nick Chen,22
+Lane,Lane 1451,Governor,,Lbt,Nick Chen,61
+Lane,Lane 1453,Governor,,Lbt,Nick Chen,29
+Lane,Lane 1455,Governor,,Lbt,Nick Chen,40
+Lane,Lane 1457,Governor,,Lbt,Nick Chen,38
+Lane,Lane 1561,Governor,,Lbt,Nick Chen,88
+Lane,Lane 1563,Governor,,Lbt,Nick Chen,38
+Lane,Lane 1565,Governor,,Lbt,Nick Chen,27
+Lane,Lane 1569,Governor,,Lbt,Nick Chen,27
+Lane,Lane 1671,Governor,,Lbt,Nick Chen,26
+Lane,Lane 1673,Governor,,Lbt,Nick Chen,65
+Lane,Lane 1675,Governor,,Lbt,Nick Chen,108
+Lane,Lane 1781,Governor,,Lbt,Nick Chen,42
+Lane,Lane 1783,Governor,,Lbt,Nick Chen,32
+Lane,Lane 1785,Governor,,Lbt,Nick Chen,44
+Lane,Lane 1787,Governor,,Lbt,Nick Chen,39
+Lane,Lane 1891,Governor,,Lbt,Nick Chen,59
+Lane,Lane 1893,Governor,,Lbt,Nick Chen,11
+Lane,Lane 1895,Governor,,Lbt,Nick Chen,4
+Lane,Lane 1897,Governor,,Lbt,Nick Chen,32
+Lane,Lane 1899,Governor,,Lbt,Nick Chen,64
+Lane,Lane 2122,Governor,,Lbt,Nick Chen,105
+Lane,Lane 2234,Governor,,Lbt,Nick Chen,86
+Lane,Lane 2238,Governor,,Lbt,Nick Chen,6
+Lane,Lane 2340,Governor,,Lbt,Nick Chen,112
+Lane,Lane 2344,Governor,,Lbt,Nick Chen,0
+Lane,Lane 2456,Governor,,Lbt,Nick Chen,78
+Lane,Lane 2562,Governor,,Lbt,Nick Chen,104
+Lane,Lane 2676,Governor,,Lbt,Nick Chen,94
+Lane,Lane 4200,Governor,,Lbt,Nick Chen,11
+Lane,Lane 4301,Governor,,Lbt,Nick Chen,88
+Lane,Lane 4400,Governor,,Lbt,Nick Chen,36
+Lane,Lane 4500,Governor,,Lbt,Nick Chen,18
+Lane,Lane 4601,Governor,,Lbt,Nick Chen,82
+Lane,Lane 4700,Governor,,Lbt,Nick Chen,66
+Lane,Lane 4800,Governor,,Lbt,Nick Chen,31
+Lane,Lane 4900,Governor,,Lbt,Nick Chen,45
+Lane,Lane 702,Governor,,Lbt,Nick Chen,52
+Lane,Lane 704,Governor,,Lbt,Nick Chen,16
+Lane,Lane 706,Governor,,Lbt,Nick Chen,23
+Lane,Lane 708,Governor,,Lbt,Nick Chen,34
+Lane,Lane 710,Governor,,Lbt,Nick Chen,18
+Lane,Lane 712,Governor,,Lbt,Nick Chen,39
+Lane,Lane 714,Governor,,Lbt,Nick Chen,27
+Lane,Lane 716,Governor,,Lbt,Nick Chen,36
+Lane,Lane 718,Governor,,Lbt,Nick Chen,17
+Lane,Lane 720,Governor,,Lbt,Nick Chen,16
+Lane,Lane 722,Governor,,Lbt,Nick Chen,6
+Lane,Lane 724,Governor,,Lbt,Nick Chen,9
+Lane,Lane 726,Governor,,Lbt,Nick Chen,61
+Lane,Lane 728,Governor,,Lbt,Nick Chen,19
+Lane,Lane 730,Governor,,Lbt,Nick Chen,64
+Lane,Lane 732,Governor,,Lbt,Nick Chen,42
+Lane,Lane 734,Governor,,Lbt,Nick Chen,11
+Lane,Lane 736,Governor,,Lbt,Nick Chen,9
+Lane,Lane 738,Governor,,Lbt,Nick Chen,40
+Lane,Lane 740,Governor,,Lbt,Nick Chen,12
+Lane,Lane 742,Governor,,Lbt,Nick Chen,15
+Lane,Lane 744,Governor,,Lbt,Nick Chen,7
+Lane,Lane 746,Governor,,Lbt,Nick Chen,35
+Lane,Lane 748,Governor,,Lbt,Nick Chen,53
+Lane,Lane 750,Governor,,Lbt,Nick Chen,13
+Lane,Lane 752,Governor,,Lbt,Nick Chen,20
+Lane,Lane 754,Governor,,Lbt,Nick Chen,11
+Lane,Lane 756,Governor,,Lbt,Nick Chen,39
+Lane,Lane 758,Governor,,Lbt,Nick Chen,23
+Lane,Lane 760,Governor,,Lbt,Nick Chen,23
+Lane,Lane 762,Governor,,Lbt,Nick Chen,14
+Lane,Lane 764,Governor,,Lbt,Nick Chen,28
+Lane,Lane 766,Governor,,Lbt,Nick Chen,6
+Lane,LANE OR,Governor,,Lbt,Nick Chen,3106
+Lane,Lane 1121,Governor,,Cst,Aaron Auer,7
+Lane,Lane 1123,Governor,,Cst,Aaron Auer,10
+Lane,Lane 1125,Governor,,Cst,Aaron Auer,30
+Lane,Lane 1127,Governor,,Cst,Aaron Auer,21
+Lane,Lane 1231,Governor,,Cst,Aaron Auer,21
+Lane,Lane 1233,Governor,,Cst,Aaron Auer,9
+Lane,Lane 1235,Governor,,Cst,Aaron Auer,20
+Lane,Lane 1341,Governor,,Cst,Aaron Auer,0
+Lane,Lane 1343,Governor,,Cst,Aaron Auer,11
+Lane,Lane 1345,Governor,,Cst,Aaron Auer,11
+Lane,Lane 1349,Governor,,Cst,Aaron Auer,2
+Lane,Lane 1451,Governor,,Cst,Aaron Auer,33
+Lane,Lane 1453,Governor,,Cst,Aaron Auer,13
+Lane,Lane 1455,Governor,,Cst,Aaron Auer,14
+Lane,Lane 1457,Governor,,Cst,Aaron Auer,17
+Lane,Lane 1561,Governor,,Cst,Aaron Auer,32
+Lane,Lane 1563,Governor,,Cst,Aaron Auer,26
+Lane,Lane 1565,Governor,,Cst,Aaron Auer,8
+Lane,Lane 1569,Governor,,Cst,Aaron Auer,16
+Lane,Lane 1671,Governor,,Cst,Aaron Auer,23
+Lane,Lane 1673,Governor,,Cst,Aaron Auer,39
+Lane,Lane 1675,Governor,,Cst,Aaron Auer,66
+Lane,Lane 1781,Governor,,Cst,Aaron Auer,19
+Lane,Lane 1783,Governor,,Cst,Aaron Auer,16
+Lane,Lane 1785,Governor,,Cst,Aaron Auer,37
+Lane,Lane 1787,Governor,,Cst,Aaron Auer,24
+Lane,Lane 1891,Governor,,Cst,Aaron Auer,23
+Lane,Lane 1893,Governor,,Cst,Aaron Auer,5
+Lane,Lane 1895,Governor,,Cst,Aaron Auer,0
+Lane,Lane 1897,Governor,,Cst,Aaron Auer,21
+Lane,Lane 1899,Governor,,Cst,Aaron Auer,30
+Lane,Lane 2122,Governor,,Cst,Aaron Auer,59
+Lane,Lane 2234,Governor,,Cst,Aaron Auer,40
+Lane,Lane 2238,Governor,,Cst,Aaron Auer,1
+Lane,Lane 2340,Governor,,Cst,Aaron Auer,62
+Lane,Lane 2344,Governor,,Cst,Aaron Auer,2
+Lane,Lane 2456,Governor,,Cst,Aaron Auer,71
+Lane,Lane 2562,Governor,,Cst,Aaron Auer,69
+Lane,Lane 2676,Governor,,Cst,Aaron Auer,58
+Lane,Lane 4200,Governor,,Cst,Aaron Auer,6
+Lane,Lane 4301,Governor,,Cst,Aaron Auer,85
+Lane,Lane 4400,Governor,,Cst,Aaron Auer,48
+Lane,Lane 4500,Governor,,Cst,Aaron Auer,9
+Lane,Lane 4601,Governor,,Cst,Aaron Auer,63
+Lane,Lane 4700,Governor,,Cst,Aaron Auer,45
+Lane,Lane 4800,Governor,,Cst,Aaron Auer,32
+Lane,Lane 4900,Governor,,Cst,Aaron Auer,89
+Lane,Lane 702,Governor,,Cst,Aaron Auer,29
+Lane,Lane 704,Governor,,Cst,Aaron Auer,21
+Lane,Lane 706,Governor,,Cst,Aaron Auer,21
+Lane,Lane 708,Governor,,Cst,Aaron Auer,52
+Lane,Lane 710,Governor,,Cst,Aaron Auer,33
+Lane,Lane 712,Governor,,Cst,Aaron Auer,32
+Lane,Lane 714,Governor,,Cst,Aaron Auer,29
+Lane,Lane 716,Governor,,Cst,Aaron Auer,42
+Lane,Lane 718,Governor,,Cst,Aaron Auer,9
+Lane,Lane 720,Governor,,Cst,Aaron Auer,11
+Lane,Lane 722,Governor,,Cst,Aaron Auer,2
+Lane,Lane 724,Governor,,Cst,Aaron Auer,6
+Lane,Lane 726,Governor,,Cst,Aaron Auer,48
+Lane,Lane 728,Governor,,Cst,Aaron Auer,25
+Lane,Lane 730,Governor,,Cst,Aaron Auer,22
+Lane,Lane 732,Governor,,Cst,Aaron Auer,33
+Lane,Lane 734,Governor,,Cst,Aaron Auer,6
+Lane,Lane 736,Governor,,Cst,Aaron Auer,11
+Lane,Lane 738,Governor,,Cst,Aaron Auer,21
+Lane,Lane 740,Governor,,Cst,Aaron Auer,9
+Lane,Lane 742,Governor,,Cst,Aaron Auer,8
+Lane,Lane 744,Governor,,Cst,Aaron Auer,22
+Lane,Lane 746,Governor,,Cst,Aaron Auer,38
+Lane,Lane 748,Governor,,Cst,Aaron Auer,59
+Lane,Lane 750,Governor,,Cst,Aaron Auer,15
+Lane,Lane 752,Governor,,Cst,Aaron Auer,21
+Lane,Lane 754,Governor,,Cst,Aaron Auer,20
+Lane,Lane 756,Governor,,Cst,Aaron Auer,46
+Lane,Lane 758,Governor,,Cst,Aaron Auer,24
+Lane,Lane 760,Governor,,Cst,Aaron Auer,37
+Lane,Lane 762,Governor,,Cst,Aaron Auer,14
+Lane,Lane 764,Governor,,Cst,Aaron Auer,50
+Lane,Lane 766,Governor,,Cst,Aaron Auer,14
+Lane,LANE OR,Governor,,Cst,Aaron Auer,2173
+Lane,Lane 1121,Governor,,Ind,Patrick Starnes,13
+Lane,Lane 1123,Governor,,Ind,Patrick Starnes,48
+Lane,Lane 1125,Governor,,Ind,Patrick Starnes,71
+Lane,Lane 1127,Governor,,Ind,Patrick Starnes,84
+Lane,Lane 1231,Governor,,Ind,Patrick Starnes,52
+Lane,Lane 1233,Governor,,Ind,Patrick Starnes,46
+Lane,Lane 1235,Governor,,Ind,Patrick Starnes,90
+Lane,Lane 1341,Governor,,Ind,Patrick Starnes,0
+Lane,Lane 1343,Governor,,Ind,Patrick Starnes,40
+Lane,Lane 1345,Governor,,Ind,Patrick Starnes,52
+Lane,Lane 1349,Governor,,Ind,Patrick Starnes,22
+Lane,Lane 1451,Governor,,Ind,Patrick Starnes,92
+Lane,Lane 1453,Governor,,Ind,Patrick Starnes,45
+Lane,Lane 1455,Governor,,Ind,Patrick Starnes,25
+Lane,Lane 1457,Governor,,Ind,Patrick Starnes,50
+Lane,Lane 1561,Governor,,Ind,Patrick Starnes,128
+Lane,Lane 1563,Governor,,Ind,Patrick Starnes,51
+Lane,Lane 1565,Governor,,Ind,Patrick Starnes,33
+Lane,Lane 1569,Governor,,Ind,Patrick Starnes,55
+Lane,Lane 1671,Governor,,Ind,Patrick Starnes,65
+Lane,Lane 1673,Governor,,Ind,Patrick Starnes,126
+Lane,Lane 1675,Governor,,Ind,Patrick Starnes,186
+Lane,Lane 1781,Governor,,Ind,Patrick Starnes,66
+Lane,Lane 1783,Governor,,Ind,Patrick Starnes,56
+Lane,Lane 1785,Governor,,Ind,Patrick Starnes,114
+Lane,Lane 1787,Governor,,Ind,Patrick Starnes,73
+Lane,Lane 1891,Governor,,Ind,Patrick Starnes,86
+Lane,Lane 1893,Governor,,Ind,Patrick Starnes,14
+Lane,Lane 1895,Governor,,Ind,Patrick Starnes,8
+Lane,Lane 1897,Governor,,Ind,Patrick Starnes,28
+Lane,Lane 1899,Governor,,Ind,Patrick Starnes,103
+Lane,Lane 2122,Governor,,Ind,Patrick Starnes,151
+Lane,Lane 2234,Governor,,Ind,Patrick Starnes,144
+Lane,Lane 2238,Governor,,Ind,Patrick Starnes,11
+Lane,Lane 2340,Governor,,Ind,Patrick Starnes,175
+Lane,Lane 2344,Governor,,Ind,Patrick Starnes,1
+Lane,Lane 2456,Governor,,Ind,Patrick Starnes,194
+Lane,Lane 2562,Governor,,Ind,Patrick Starnes,210
+Lane,Lane 2676,Governor,,Ind,Patrick Starnes,186
+Lane,Lane 4200,Governor,,Ind,Patrick Starnes,19
+Lane,Lane 4301,Governor,,Ind,Patrick Starnes,213
+Lane,Lane 4400,Governor,,Ind,Patrick Starnes,100
+Lane,Lane 4500,Governor,,Ind,Patrick Starnes,20
+Lane,Lane 4601,Governor,,Ind,Patrick Starnes,196
+Lane,Lane 4700,Governor,,Ind,Patrick Starnes,114
+Lane,Lane 4800,Governor,,Ind,Patrick Starnes,76
+Lane,Lane 4900,Governor,,Ind,Patrick Starnes,82
+Lane,Lane 702,Governor,,Ind,Patrick Starnes,129
+Lane,Lane 704,Governor,,Ind,Patrick Starnes,31
+Lane,Lane 706,Governor,,Ind,Patrick Starnes,30
+Lane,Lane 708,Governor,,Ind,Patrick Starnes,77
+Lane,Lane 710,Governor,,Ind,Patrick Starnes,41
+Lane,Lane 712,Governor,,Ind,Patrick Starnes,69
+Lane,Lane 714,Governor,,Ind,Patrick Starnes,72
+Lane,Lane 716,Governor,,Ind,Patrick Starnes,73
+Lane,Lane 718,Governor,,Ind,Patrick Starnes,32
+Lane,Lane 720,Governor,,Ind,Patrick Starnes,31
+Lane,Lane 722,Governor,,Ind,Patrick Starnes,11
+Lane,Lane 724,Governor,,Ind,Patrick Starnes,13
+Lane,Lane 726,Governor,,Ind,Patrick Starnes,144
+Lane,Lane 728,Governor,,Ind,Patrick Starnes,49
+Lane,Lane 730,Governor,,Ind,Patrick Starnes,78
+Lane,Lane 732,Governor,,Ind,Patrick Starnes,86
+Lane,Lane 734,Governor,,Ind,Patrick Starnes,17
+Lane,Lane 736,Governor,,Ind,Patrick Starnes,21
+Lane,Lane 738,Governor,,Ind,Patrick Starnes,87
+Lane,Lane 740,Governor,,Ind,Patrick Starnes,22
+Lane,Lane 742,Governor,,Ind,Patrick Starnes,32
+Lane,Lane 744,Governor,,Ind,Patrick Starnes,30
+Lane,Lane 746,Governor,,Ind,Patrick Starnes,105
+Lane,Lane 748,Governor,,Ind,Patrick Starnes,121
+Lane,Lane 750,Governor,,Ind,Patrick Starnes,38
+Lane,Lane 752,Governor,,Ind,Patrick Starnes,47
+Lane,Lane 754,Governor,,Ind,Patrick Starnes,40
+Lane,Lane 756,Governor,,Ind,Patrick Starnes,96
+Lane,Lane 758,Governor,,Ind,Patrick Starnes,58
+Lane,Lane 760,Governor,,Ind,Patrick Starnes,49
+Lane,Lane 762,Governor,,Ind,Patrick Starnes,59
+Lane,Lane 764,Governor,,Ind,Patrick Starnes,48
+Lane,Lane 766,Governor,,Ind,Patrick Starnes,33
+Lane,LANE OR,Governor,,Ind,Patrick Starnes,5683
+Lane,Lane 1121,Governor,,Prog,Chris Henry,5
+Lane,Lane 1123,Governor,,Prog,Chris Henry,34
+Lane,Lane 1125,Governor,,Prog,Chris Henry,44
+Lane,Lane 1127,Governor,,Prog,Chris Henry,38
+Lane,Lane 1231,Governor,,Prog,Chris Henry,23
+Lane,Lane 1233,Governor,,Prog,Chris Henry,7
+Lane,Lane 1235,Governor,,Prog,Chris Henry,36
+Lane,Lane 1341,Governor,,Prog,Chris Henry,0
+Lane,Lane 1343,Governor,,Prog,Chris Henry,35
+Lane,Lane 1345,Governor,,Prog,Chris Henry,26
+Lane,Lane 1349,Governor,,Prog,Chris Henry,8
+Lane,Lane 1451,Governor,,Prog,Chris Henry,16
+Lane,Lane 1453,Governor,,Prog,Chris Henry,13
+Lane,Lane 1455,Governor,,Prog,Chris Henry,9
+Lane,Lane 1457,Governor,,Prog,Chris Henry,8
+Lane,Lane 1561,Governor,,Prog,Chris Henry,24
+Lane,Lane 1563,Governor,,Prog,Chris Henry,14
+Lane,Lane 1565,Governor,,Prog,Chris Henry,8
+Lane,Lane 1569,Governor,,Prog,Chris Henry,8
+Lane,Lane 1671,Governor,,Prog,Chris Henry,16
+Lane,Lane 1673,Governor,,Prog,Chris Henry,30
+Lane,Lane 1675,Governor,,Prog,Chris Henry,35
+Lane,Lane 1781,Governor,,Prog,Chris Henry,22
+Lane,Lane 1783,Governor,,Prog,Chris Henry,35
+Lane,Lane 1785,Governor,,Prog,Chris Henry,26
+Lane,Lane 1787,Governor,,Prog,Chris Henry,17
+Lane,Lane 1891,Governor,,Prog,Chris Henry,22
+Lane,Lane 1893,Governor,,Prog,Chris Henry,4
+Lane,Lane 1895,Governor,,Prog,Chris Henry,3
+Lane,Lane 1897,Governor,,Prog,Chris Henry,20
+Lane,Lane 1899,Governor,,Prog,Chris Henry,30
+Lane,Lane 2122,Governor,,Prog,Chris Henry,24
+Lane,Lane 2234,Governor,,Prog,Chris Henry,48
+Lane,Lane 2238,Governor,,Prog,Chris Henry,0
+Lane,Lane 2340,Governor,,Prog,Chris Henry,31
+Lane,Lane 2344,Governor,,Prog,Chris Henry,0
+Lane,Lane 2456,Governor,,Prog,Chris Henry,32
+Lane,Lane 2562,Governor,,Prog,Chris Henry,44
+Lane,Lane 2676,Governor,,Prog,Chris Henry,34
+Lane,Lane 4200,Governor,,Prog,Chris Henry,4
+Lane,Lane 4301,Governor,,Prog,Chris Henry,37
+Lane,Lane 4400,Governor,,Prog,Chris Henry,16
+Lane,Lane 4500,Governor,,Prog,Chris Henry,9
+Lane,Lane 4601,Governor,,Prog,Chris Henry,37
+Lane,Lane 4700,Governor,,Prog,Chris Henry,17
+Lane,Lane 4800,Governor,,Prog,Chris Henry,27
+Lane,Lane 4900,Governor,,Prog,Chris Henry,22
+Lane,Lane 702,Governor,,Prog,Chris Henry,19
+Lane,Lane 704,Governor,,Prog,Chris Henry,10
+Lane,Lane 706,Governor,,Prog,Chris Henry,6
+Lane,Lane 708,Governor,,Prog,Chris Henry,21
+Lane,Lane 710,Governor,,Prog,Chris Henry,10
+Lane,Lane 712,Governor,,Prog,Chris Henry,12
+Lane,Lane 714,Governor,,Prog,Chris Henry,9
+Lane,Lane 716,Governor,,Prog,Chris Henry,10
+Lane,Lane 718,Governor,,Prog,Chris Henry,12
+Lane,Lane 720,Governor,,Prog,Chris Henry,5
+Lane,Lane 722,Governor,,Prog,Chris Henry,2
+Lane,Lane 724,Governor,,Prog,Chris Henry,4
+Lane,Lane 726,Governor,,Prog,Chris Henry,26
+Lane,Lane 728,Governor,,Prog,Chris Henry,13
+Lane,Lane 730,Governor,,Prog,Chris Henry,33
+Lane,Lane 732,Governor,,Prog,Chris Henry,16
+Lane,Lane 734,Governor,,Prog,Chris Henry,3
+Lane,Lane 736,Governor,,Prog,Chris Henry,2
+Lane,Lane 738,Governor,,Prog,Chris Henry,9
+Lane,Lane 740,Governor,,Prog,Chris Henry,5
+Lane,Lane 742,Governor,,Prog,Chris Henry,15
+Lane,Lane 744,Governor,,Prog,Chris Henry,3
+Lane,Lane 746,Governor,,Prog,Chris Henry,13
+Lane,Lane 748,Governor,,Prog,Chris Henry,21
+Lane,Lane 750,Governor,,Prog,Chris Henry,2
+Lane,Lane 752,Governor,,Prog,Chris Henry,9
+Lane,Lane 754,Governor,,Prog,Chris Henry,7
+Lane,Lane 756,Governor,,Prog,Chris Henry,11
+Lane,Lane 758,Governor,,Prog,Chris Henry,6
+Lane,Lane 760,Governor,,Prog,Chris Henry,6
+Lane,Lane 762,Governor,,Prog,Chris Henry,6
+Lane,Lane 764,Governor,,Prog,Chris Henry,7
+Lane,Lane 766,Governor,,Prog,Chris Henry,4
+Lane,LANE OR,Governor,,Prog,Chris Henry,1335
+Lane,Lane 1121,Governor,,,write-in,0
+Lane,Lane 1123,Governor,,,write-in,1
+Lane,Lane 1125,Governor,,,write-in,4
+Lane,Lane 1127,Governor,,,write-in,12
+Lane,Lane 1231,Governor,,,write-in,4
+Lane,Lane 1233,Governor,,,write-in,3
+Lane,Lane 1235,Governor,,,write-in,7
+Lane,Lane 1341,Governor,,,write-in,0
+Lane,Lane 1343,Governor,,,write-in,5
+Lane,Lane 1345,Governor,,,write-in,3
+Lane,Lane 1349,Governor,,,write-in,3
+Lane,Lane 1451,Governor,,,write-in,4
+Lane,Lane 1453,Governor,,,write-in,6
+Lane,Lane 1455,Governor,,,write-in,2
+Lane,Lane 1457,Governor,,,write-in,4
+Lane,Lane 1561,Governor,,,write-in,5
+Lane,Lane 1563,Governor,,,write-in,5
+Lane,Lane 1565,Governor,,,write-in,4
+Lane,Lane 1569,Governor,,,write-in,0
+Lane,Lane 1671,Governor,,,write-in,4
+Lane,Lane 1673,Governor,,,write-in,9
+Lane,Lane 1675,Governor,,,write-in,6
+Lane,Lane 1781,Governor,,,write-in,1
+Lane,Lane 1783,Governor,,,write-in,4
+Lane,Lane 1785,Governor,,,write-in,5
+Lane,Lane 1787,Governor,,,write-in,8
+Lane,Lane 1891,Governor,,,write-in,2
+Lane,Lane 1893,Governor,,,write-in,0
+Lane,Lane 1895,Governor,,,write-in,1
+Lane,Lane 1897,Governor,,,write-in,2
+Lane,Lane 1899,Governor,,,write-in,7
+Lane,Lane 2122,Governor,,,write-in,14
+Lane,Lane 2234,Governor,,,write-in,10
+Lane,Lane 2238,Governor,,,write-in,0
+Lane,Lane 2340,Governor,,,write-in,16
+Lane,Lane 2344,Governor,,,write-in,0
+Lane,Lane 2456,Governor,,,write-in,10
+Lane,Lane 2562,Governor,,,write-in,8
+Lane,Lane 2676,Governor,,,write-in,10
+Lane,Lane 4200,Governor,,,write-in,2
+Lane,Lane 4301,Governor,,,write-in,5
+Lane,Lane 4400,Governor,,,write-in,4
+Lane,Lane 4500,Governor,,,write-in,0
+Lane,Lane 4601,Governor,,,write-in,7
+Lane,Lane 4700,Governor,,,write-in,6
+Lane,Lane 4800,Governor,,,write-in,2
+Lane,Lane 4900,Governor,,,write-in,2
+Lane,Lane 702,Governor,,,write-in,3
+Lane,Lane 704,Governor,,,write-in,2
+Lane,Lane 706,Governor,,,write-in,0
+Lane,Lane 708,Governor,,,write-in,4
+Lane,Lane 710,Governor,,,write-in,2
+Lane,Lane 712,Governor,,,write-in,4
+Lane,Lane 714,Governor,,,write-in,5
+Lane,Lane 716,Governor,,,write-in,3
+Lane,Lane 718,Governor,,,write-in,0
+Lane,Lane 720,Governor,,,write-in,4
+Lane,Lane 722,Governor,,,write-in,0
+Lane,Lane 724,Governor,,,write-in,1
+Lane,Lane 726,Governor,,,write-in,5
+Lane,Lane 728,Governor,,,write-in,1
+Lane,Lane 730,Governor,,,write-in,7
+Lane,Lane 732,Governor,,,write-in,1
+Lane,Lane 734,Governor,,,write-in,0
+Lane,Lane 736,Governor,,,write-in,2
+Lane,Lane 738,Governor,,,write-in,3
+Lane,Lane 740,Governor,,,write-in,0
+Lane,Lane 742,Governor,,,write-in,3
+Lane,Lane 744,Governor,,,write-in,0
+Lane,Lane 746,Governor,,,write-in,4
+Lane,Lane 748,Governor,,,write-in,12
+Lane,Lane 750,Governor,,,write-in,0
+Lane,Lane 752,Governor,,,write-in,2
+Lane,Lane 754,Governor,,,write-in,0
+Lane,Lane 756,Governor,,,write-in,0
+Lane,Lane 758,Governor,,,write-in,6
+Lane,Lane 760,Governor,,,write-in,1
+Lane,Lane 762,Governor,,,write-in,2
+Lane,Lane 764,Governor,,,write-in,1
+Lane,Lane 766,Governor,,,write-in,2
+Lane,LANE OR,Governor,,,write-in,297
+Lane,Lane 1125,State Senate,4,Dem,Floyd Prozanski,2960
+Lane,Lane 1127,State Senate,4,Dem,Floyd Prozanski,5043
+Lane,Lane 1231,State Senate,4,Dem,Floyd Prozanski,2975
+Lane,Lane 1235,State Senate,4,Dem,Floyd Prozanski,5337
+Lane,Lane 1349,State Senate,4,Dem,Floyd Prozanski,988
+Lane,Lane 1895,State Senate,4,Dem,Floyd Prozanski,303
+Lane,Lane 1897,State Senate,4,Dem,Floyd Prozanski,2048
+Lane,Lane 4301,State Senate,4,Dem,Floyd Prozanski,1992
+Lane,Lane 4400,State Senate,4,Dem,Floyd Prozanski,1
+Lane,Lane 4800,State Senate,4,Dem,Floyd Prozanski,633
+Lane,Lane 4900,State Senate,4,Dem,Floyd Prozanski,986
+Lane,Lane 708,State Senate,4,Dem,Floyd Prozanski,1059
+Lane,Lane 710,State Senate,4,Dem,Floyd Prozanski,634
+Lane,Lane 714,State Senate,4,Dem,Floyd Prozanski,1008
+Lane,Lane 716,State Senate,4,Dem,Floyd Prozanski,825
+Lane,Lane 718,State Senate,4,Dem,Floyd Prozanski,760
+Lane,Lane 720,State Senate,4,Dem,Floyd Prozanski,1100
+Lane,Lane 722,State Senate,4,Dem,Floyd Prozanski,223
+Lane,Lane 724,State Senate,4,Dem,Floyd Prozanski,165
+Lane,Lane 746,State Senate,4,Dem,Floyd Prozanski,1142
+Lane,Lane 750,State Senate,4,Dem,Floyd Prozanski,336
+Lane,Lane 752,State Senate,4,Dem,Floyd Prozanski,663
+Lane,Lane 760,State Senate,4,Dem,Floyd Prozanski,824
+Lane,Lane 762,State Senate,4,Dem,Floyd Prozanski,779
+Lane,Lane 764,State Senate,4,Dem,Floyd Prozanski,599
+Lane,Lane 766,State Senate,4,Dem,Floyd Prozanski,272
+Lane,LANE OR,State Senate,4,Dem,Floyd Prozanski,33655
+Lane,Lane 1233,State Senate,6,Dem,Lee Beyer,2572
+Lane,Lane 1343,State Senate,6,Dem,Lee Beyer,3282
+Lane,Lane 1345,State Senate,6,Dem,Lee Beyer,3164
+Lane,Lane 2122,State Senate,6,Dem,Lee Beyer,2152
+Lane,Lane 2234,State Senate,6,Dem,Lee Beyer,2659
+Lane,Lane 2238,State Senate,6,Dem,Lee Beyer,84
+Lane,Lane 2340,State Senate,6,Dem,Lee Beyer,2250
+Lane,Lane 2344,State Senate,6,Dem,Lee Beyer,35
+Lane,Lane 2456,State Senate,6,Dem,Lee Beyer,1849
+Lane,Lane 2562,State Senate,6,Dem,Lee Beyer,2124
+Lane,Lane 2676,State Senate,6,Dem,Lee Beyer,2358
+Lane,Lane 4200,State Senate,6,Dem,Lee Beyer,350
+Lane,Lane 4400,State Senate,6,Dem,Lee Beyer,1001
+Lane,Lane 736,State Senate,6,Dem,Lee Beyer,355
+Lane,Lane 738,State Senate,6,Dem,Lee Beyer,1246
+Lane,Lane 740,State Senate,6,Dem,Lee Beyer,240
+Lane,Lane 742,State Senate,6,Dem,Lee Beyer,610
+Lane,Lane 744,State Senate,6,Dem,Lee Beyer,315
+Lane,Lane 748,State Senate,6,Dem,Lee Beyer,1476
+Lane,Lane 754,State Senate,6,Dem,Lee Beyer,550
+Lane,Lane 756,State Senate,6,Dem,Lee Beyer,1224
+Lane,Lane 758,State Senate,6,Dem,Lee Beyer,744
+Lane,LANE OR,State Senate,6,Dem,Lee Beyer,30640
+Lane,Lane 1121,State Senate,7,Dem,James Manning,267
+Lane,Lane 1123,State Senate,7,Dem,James Manning,1266
+Lane,Lane 1341,State Senate,7,Dem,James Manning,46
+Lane,Lane 1451,State Senate,7,Dem,James Manning,2206
+Lane,Lane 1453,State Senate,7,Dem,James Manning,1230
+Lane,Lane 1455,State Senate,7,Dem,James Manning,1016
+Lane,Lane 1457,State Senate,7,Dem,James Manning,1598
+Lane,Lane 1561,State Senate,7,Dem,James Manning,3265
+Lane,Lane 1563,State Senate,7,Dem,James Manning,1598
+Lane,Lane 1565,State Senate,7,Dem,James Manning,956
+Lane,Lane 1569,State Senate,7,Dem,James Manning,930
+Lane,Lane 1671,State Senate,7,Dem,James Manning,745
+Lane,Lane 1673,State Senate,7,Dem,James Manning,1671
+Lane,Lane 1675,State Senate,7,Dem,James Manning,2813
+Lane,Lane 1781,State Senate,7,Dem,James Manning,1079
+Lane,Lane 1783,State Senate,7,Dem,James Manning,1573
+Lane,Lane 1785,State Senate,7,Dem,James Manning,1352
+Lane,Lane 1787,State Senate,7,Dem,James Manning,1667
+Lane,Lane 1891,State Senate,7,Dem,James Manning,1092
+Lane,Lane 1893,State Senate,7,Dem,James Manning,361
+Lane,Lane 1899,State Senate,7,Dem,James Manning,2560
+Lane,Lane 4700,State Senate,7,Dem,James Manning,1308
+Lane,Lane 712,State Senate,7,Dem,James Manning,920
+Lane,Lane 726,State Senate,7,Dem,James Manning,2095
+Lane,Lane 728,State Senate,7,Dem,James Manning,788
+Lane,Lane 730,State Senate,7,Dem,James Manning,2293
+Lane,Lane 732,State Senate,7,Dem,James Manning,1308
+Lane,Lane 734,State Senate,7,Dem,James Manning,259
+Lane,LANE OR,State Senate,7,Dem,James Manning,38262
+Lane,Lane 1125,State Senate,4,Rep,Scott Rohter,272
+Lane,Lane 1127,State Senate,4,Rep,Scott Rohter,534
+Lane,Lane 1231,State Senate,4,Rep,Scott Rohter,233
+Lane,Lane 1235,State Senate,4,Rep,Scott Rohter,721
+Lane,Lane 1349,State Senate,4,Rep,Scott Rohter,71
+Lane,Lane 1895,State Senate,4,Rep,Scott Rohter,82
+Lane,Lane 1897,State Senate,4,Rep,Scott Rohter,778
+Lane,Lane 4301,State Senate,4,Rep,Scott Rohter,1696
+Lane,Lane 4400,State Senate,4,Rep,Scott Rohter,6
+Lane,Lane 4800,State Senate,4,Rep,Scott Rohter,493
+Lane,Lane 4900,State Senate,4,Rep,Scott Rohter,1026
+Lane,Lane 708,State Senate,4,Rep,Scott Rohter,1056
+Lane,Lane 710,State Senate,4,Rep,Scott Rohter,545
+Lane,Lane 714,State Senate,4,Rep,Scott Rohter,1154
+Lane,Lane 716,State Senate,4,Rep,Scott Rohter,889
+Lane,Lane 718,State Senate,4,Rep,Scott Rohter,475
+Lane,Lane 720,State Senate,4,Rep,Scott Rohter,394
+Lane,Lane 722,State Senate,4,Rep,Scott Rohter,289
+Lane,Lane 724,State Senate,4,Rep,Scott Rohter,221
+Lane,Lane 746,State Senate,4,Rep,Scott Rohter,1415
+Lane,Lane 750,State Senate,4,Rep,Scott Rohter,392
+Lane,Lane 752,State Senate,4,Rep,Scott Rohter,765
+Lane,Lane 760,State Senate,4,Rep,Scott Rohter,850
+Lane,Lane 762,State Senate,4,Rep,Scott Rohter,417
+Lane,Lane 764,State Senate,4,Rep,Scott Rohter,635
+Lane,Lane 766,State Senate,4,Rep,Scott Rohter,317
+Lane,LANE OR,State Senate,4,Rep,Scott Rohter,15726
+Lane,Lane 1233,State Senate,6,Rep,Robert Schwartz,388
+Lane,Lane 1343,State Senate,6,Rep,Robert Schwartz,242
+Lane,Lane 1345,State Senate,6,Rep,Robert Schwartz,351
+Lane,Lane 2122,State Senate,6,Rep,Robert Schwartz,1182
+Lane,Lane 2234,State Senate,6,Rep,Robert Schwartz,1022
+Lane,Lane 2238,State Senate,6,Rep,Robert Schwartz,41
+Lane,Lane 2340,State Senate,6,Rep,Robert Schwartz,1281
+Lane,Lane 2344,State Senate,6,Rep,Robert Schwartz,39
+Lane,Lane 2456,State Senate,6,Rep,Robert Schwartz,1371
+Lane,Lane 2562,State Senate,6,Rep,Robert Schwartz,1675
+Lane,Lane 2676,State Senate,6,Rep,Robert Schwartz,2134
+Lane,Lane 4200,State Senate,6,Rep,Robert Schwartz,292
+Lane,Lane 4400,State Senate,6,Rep,Robert Schwartz,1189
+Lane,Lane 736,State Senate,6,Rep,Robert Schwartz,463
+Lane,Lane 738,State Senate,6,Rep,Robert Schwartz,878
+Lane,Lane 740,State Senate,6,Rep,Robert Schwartz,78
+Lane,Lane 742,State Senate,6,Rep,Robert Schwartz,376
+Lane,Lane 744,State Senate,6,Rep,Robert Schwartz,377
+Lane,Lane 748,State Senate,6,Rep,Robert Schwartz,1549
+Lane,Lane 754,State Senate,6,Rep,Robert Schwartz,532
+Lane,Lane 756,State Senate,6,Rep,Robert Schwartz,1494
+Lane,Lane 758,State Senate,6,Rep,Robert Schwartz,814
+Lane,LANE OR,State Senate,6,Rep,Robert Schwartz,17768
+Lane,Lane 1125,State Senate,4,Lbt,Frank Lengele,85
+Lane,Lane 1127,State Senate,4,Lbt,Frank Lengele,117
+Lane,Lane 1231,State Senate,4,Lbt,Frank Lengele,70
+Lane,Lane 1235,State Senate,4,Lbt,Frank Lengele,95
+Lane,Lane 1349,State Senate,4,Lbt,Frank Lengele,32
+Lane,Lane 1895,State Senate,4,Lbt,Frank Lengele,2
+Lane,Lane 1897,State Senate,4,Lbt,Frank Lengele,44
+Lane,Lane 4301,State Senate,4,Lbt,Frank Lengele,90
+Lane,Lane 4400,State Senate,4,Lbt,Frank Lengele,1
+Lane,Lane 4800,State Senate,4,Lbt,Frank Lengele,45
+Lane,Lane 4900,State Senate,4,Lbt,Frank Lengele,60
+Lane,Lane 708,State Senate,4,Lbt,Frank Lengele,57
+Lane,Lane 710,State Senate,4,Lbt,Frank Lengele,34
+Lane,Lane 714,State Senate,4,Lbt,Frank Lengele,60
+Lane,Lane 716,State Senate,4,Lbt,Frank Lengele,51
+Lane,Lane 718,State Senate,4,Lbt,Frank Lengele,28
+Lane,Lane 720,State Senate,4,Lbt,Frank Lengele,31
+Lane,Lane 722,State Senate,4,Lbt,Frank Lengele,10
+Lane,Lane 724,State Senate,4,Lbt,Frank Lengele,9
+Lane,Lane 746,State Senate,4,Lbt,Frank Lengele,42
+Lane,Lane 750,State Senate,4,Lbt,Frank Lengele,18
+Lane,Lane 752,State Senate,4,Lbt,Frank Lengele,24
+Lane,Lane 760,State Senate,4,Lbt,Frank Lengele,41
+Lane,Lane 762,State Senate,4,Lbt,Frank Lengele,52
+Lane,Lane 764,State Senate,4,Lbt,Frank Lengele,31
+Lane,Lane 766,State Senate,4,Lbt,Frank Lengele,15
+Lane,LANE OR,State Senate,4,Lbt,Frank Lengele,1144
+Lane,Lane 1125,State Senate,4,,write-in,6
+Lane,Lane 1127,State Senate,4,,write-in,8
+Lane,Lane 1231,State Senate,4,,write-in,3
+Lane,Lane 1235,State Senate,4,,write-in,10
+Lane,Lane 1349,State Senate,4,,write-in,4
+Lane,Lane 1895,State Senate,4,,write-in,2
+Lane,Lane 1897,State Senate,4,,write-in,2
+Lane,Lane 4301,State Senate,4,,write-in,4
+Lane,Lane 4400,State Senate,4,,write-in,0
+Lane,Lane 4800,State Senate,4,,write-in,0
+Lane,Lane 4900,State Senate,4,,write-in,2
+Lane,Lane 708,State Senate,4,,write-in,1
+Lane,Lane 710,State Senate,4,,write-in,1
+Lane,Lane 714,State Senate,4,,write-in,3
+Lane,Lane 716,State Senate,4,,write-in,7
+Lane,Lane 718,State Senate,4,,write-in,2
+Lane,Lane 720,State Senate,4,,write-in,2
+Lane,Lane 722,State Senate,4,,write-in,1
+Lane,Lane 724,State Senate,4,,write-in,0
+Lane,Lane 746,State Senate,4,,write-in,1
+Lane,Lane 750,State Senate,4,,write-in,2
+Lane,Lane 752,State Senate,4,,write-in,1
+Lane,Lane 760,State Senate,4,,write-in,2
+Lane,Lane 762,State Senate,4,,write-in,7
+Lane,Lane 764,State Senate,4,,write-in,5
+Lane,Lane 766,State Senate,4,,write-in,2
+Lane,LANE OR,State Senate,4,,write-in,78
+Lane,Lane 1233,State Senate,6,,write-in,3
+Lane,Lane 1343,State Senate,6,,write-in,6
+Lane,Lane 1345,State Senate,6,,write-in,7
+Lane,Lane 2122,State Senate,6,,write-in,8
+Lane,Lane 2234,State Senate,6,,write-in,12
+Lane,Lane 2238,State Senate,6,,write-in,0
+Lane,Lane 2340,State Senate,6,,write-in,11
+Lane,Lane 2344,State Senate,6,,write-in,1
+Lane,Lane 2456,State Senate,6,,write-in,6
+Lane,Lane 2562,State Senate,6,,write-in,10
+Lane,Lane 2676,State Senate,6,,write-in,11
+Lane,Lane 4200,State Senate,6,,write-in,0
+Lane,Lane 4400,State Senate,6,,write-in,7
+Lane,Lane 736,State Senate,6,,write-in,2
+Lane,Lane 738,State Senate,6,,write-in,4
+Lane,Lane 740,State Senate,6,,write-in,0
+Lane,Lane 742,State Senate,6,,write-in,4
+Lane,Lane 744,State Senate,6,,write-in,4
+Lane,Lane 748,State Senate,6,,write-in,6
+Lane,Lane 754,State Senate,6,,write-in,3
+Lane,Lane 756,State Senate,6,,write-in,4
+Lane,Lane 758,State Senate,6,,write-in,4
+Lane,LANE OR,State Senate,6,,write-in,113
+Lane,Lane 1121,State Senate,7,,write-in,9
+Lane,Lane 1123,State Senate,7,,write-in,36
+Lane,Lane 1341,State Senate,7,,write-in,0
+Lane,Lane 1451,State Senate,7,,write-in,116
+Lane,Lane 1453,State Senate,7,,write-in,64
+Lane,Lane 1455,State Senate,7,,write-in,26
+Lane,Lane 1457,State Senate,7,,write-in,72
+Lane,Lane 1561,State Senate,7,,write-in,158
+Lane,Lane 1563,State Senate,7,,write-in,76
+Lane,Lane 1565,State Senate,7,,write-in,39
+Lane,Lane 1569,State Senate,7,,write-in,62
+Lane,Lane 1671,State Senate,7,,write-in,63
+Lane,Lane 1673,State Senate,7,,write-in,100
+Lane,Lane 1675,State Senate,7,,write-in,179
+Lane,Lane 1781,State Senate,7,,write-in,70
+Lane,Lane 1783,State Senate,7,,write-in,58
+Lane,Lane 1785,State Senate,7,,write-in,72
+Lane,Lane 1787,State Senate,7,,write-in,113
+Lane,Lane 1891,State Senate,7,,write-in,75
+Lane,Lane 1893,State Senate,7,,write-in,11
+Lane,Lane 1899,State Senate,7,,write-in,88
+Lane,Lane 4700,State Senate,7,,write-in,138
+Lane,Lane 712,State Senate,7,,write-in,115
+Lane,Lane 726,State Senate,7,,write-in,159
+Lane,Lane 728,State Senate,7,,write-in,49
+Lane,Lane 730,State Senate,7,,write-in,88
+Lane,Lane 732,State Senate,7,,write-in,97
+Lane,Lane 734,State Senate,7,,write-in,13
+Lane,LANE OR,State Senate,7,,write-in,2146
+Lane,Lane 4301,State House,7,Dem,Christy Inskip,1904
+Lane,Lane 4800,State House,7,Dem,Christy Inskip,605
+Lane,Lane 746,State House,7,Dem,Christy Inskip,1067
+Lane,Lane 750,State House,7,Dem,Christy Inskip,291
+Lane,Lane 752,State House,7,Dem,Christy Inskip,622
+Lane,Lane 760,State House,7,Dem,Christy Inskip,769
+Lane,Lane 762,State House,7,Dem,Christy Inskip,710
+Lane,Lane 764,State House,7,Dem,Christy Inskip,550
+Lane,Lane 766,State House,7,Dem,Christy Inskip,253
+Lane,Lane 1125,State House,8,Dem,Paul Hovey,2819
+Lane,Lane 1127,State House,8,Dem,Paul Hovey,4824
+Lane,Lane 1231,State House,8,Dem,Paul Hovey,2838
+Lane,Lane 1235,State House,8,Dem,Paul Hovey,5121
+Lane,Lane 1349,State House,8,Dem,Paul Hovey,933
+Lane,Lane 1895,State House,8,Dem,Paul Hovey,294
+Lane,Lane 1897,State House,8,Dem,Paul Hovey,1998
+Lane,Lane 4400,State House,8,Dem,Paul Hovey,1
+Lane,Lane 4900,State House,8,Dem,Paul Hovey,1029
+Lane,Lane 708,State House,8,Dem,Paul Hovey,1104
+Lane,Lane 710,State House,8,Dem,Paul Hovey,673
+Lane,Lane 714,State House,8,Dem,Paul Hovey,1077
+Lane,Lane 716,State House,8,Dem,Paul Hovey,886
+Lane,Lane 718,State House,8,Dem,Paul Hovey,739
+Lane,Lane 720,State House,8,Dem,Paul Hovey,1089
+Lane,Lane 722,State House,8,Dem,Paul Hovey,242
+Lane,Lane 724,State House,8,Dem,Paul Hovey,168
+Lane,Lane 4500,State House,9,Dem,Caddy McKeown,465
+Lane,Lane 4601,State House,9,Dem,Caddy McKeown,2696
+Lane,Lane 702,State House,9,Dem,Caddy McKeown,1638
+Lane,Lane 704,State House,9,Dem,Caddy McKeown,409
+Lane,Lane 706,State House,9,Dem,Caddy McKeown,541
+Lane,Lane 1233,State House,11,Dem,Marty Wilde,2564
+Lane,Lane 1343,State House,11,Dem,Marty Wilde,3260
+Lane,Lane 1345,State House,11,Dem,Marty Wilde,3195
+Lane,Lane 2238,State House,11,Dem,Marty Wilde,85
+Lane,Lane 2344,State House,11,Dem,Marty Wilde,30
+Lane,Lane 4200,State House,11,Dem,Marty Wilde,365
+Lane,Lane 4400,State House,11,Dem,Marty Wilde,1065
+Lane,Lane 736,State House,11,Dem,Marty Wilde,339
+Lane,Lane 740,State House,11,Dem,Marty Wilde,256
+Lane,Lane 742,State House,11,Dem,Marty Wilde,619
+Lane,Lane 744,State House,11,Dem,Marty Wilde,301
+Lane,Lane 748,State House,11,Dem,Marty Wilde,1433
+Lane,Lane 754,State House,11,Dem,Marty Wilde,534
+Lane,Lane 756,State House,11,Dem,Marty Wilde,1154
+Lane,Lane 758,State House,11,Dem,Marty Wilde,739
+Lane,Lane 2122,State House,12,Dem,John Lively,2360
+Lane,Lane 2234,State House,12,Dem,John Lively,2741
+Lane,Lane 2340,State House,12,Dem,John Lively,2485
+Lane,Lane 2456,State House,12,Dem,John Lively,2163
+Lane,Lane 2562,State House,12,Dem,John Lively,2505
+Lane,Lane 2676,State House,12,Dem,John Lively,2757
+Lane,Lane 738,State House,12,Dem,John Lively,1377
+Lane,Lane 1123,State House,13,Dem,Nancy Nathanson,1310
+Lane,Lane 1341,State House,13,Dem,Nancy Nathanson,45
+Lane,Lane 1451,State House,13,Dem,Nancy Nathanson,2312
+Lane,Lane 1453,State House,13,Dem,Nancy Nathanson,1317
+Lane,Lane 1455,State House,13,Dem,Nancy Nathanson,1020
+Lane,Lane 1457,State House,13,Dem,Nancy Nathanson,1651
+Lane,Lane 1561,State House,13,Dem,Nancy Nathanson,3406
+Lane,Lane 1563,State House,13,Dem,Nancy Nathanson,1705
+Lane,Lane 1565,State House,13,Dem,Nancy Nathanson,1001
+Lane,Lane 1569,State House,13,Dem,Nancy Nathanson,942
+Lane,Lane 1781,State House,13,Dem,Nancy Nathanson,1101
+Lane,Lane 1783,State House,13,Dem,Nancy Nathanson,1603
+Lane,Lane 730,State House,13,Dem,Nancy Nathanson,2374
+Lane,Lane 732,State House,13,Dem,Nancy Nathanson,1341
+Lane,Lane 734,State House,13,Dem,Nancy Nathanson,259
+Lane,Lane 1121,State House,14,Dem,Julie Fahey,287
+Lane,Lane 1671,State House,14,Dem,Julie Fahey,740
+Lane,Lane 1673,State House,14,Dem,Julie Fahey,1670
+Lane,Lane 1675,State House,14,Dem,Julie Fahey,2621
+Lane,Lane 1785,State House,14,Dem,Julie Fahey,1334
+Lane,Lane 1787,State House,14,Dem,Julie Fahey,1633
+Lane,Lane 1891,State House,14,Dem,Julie Fahey,1066
+Lane,Lane 1893,State House,14,Dem,Julie Fahey,430
+Lane,Lane 1899,State House,14,Dem,Julie Fahey,2703
+Lane,Lane 4700,State House,14,Dem,Julie Fahey,1080
+Lane,Lane 712,State House,14,Dem,Julie Fahey,780
+Lane,Lane 726,State House,14,Dem,Julie Fahey,2096
+Lane,Lane 728,State House,14,Dem,Julie Fahey,824
+LANE,LANE OR,State House,7,Dem,Christy Inskip,6771
+LANE,LANE OR,State House,8,Dem,Paul Holvey,25835
+LANE,LANE OR,State House,9,Dem,Caddy McKeown,5749
+LANE,LANE OR,State House,11,Dem,Marty Wilde,15939
+LANE,LANE OR,State House,12,Dem,John Lively,16388
+LANE,LANE OR,State House,13,Dem,Nancy Nathanson,21387
+LANE,LANE OR,State House,14,Dem,Julie Fahey,17264
+Lane,Lane 4301,State House,7,Rep,Cedric Hayden,1846
+Lane,Lane 4800,State House,7,Rep,Cedric Hayden,580
+Lane,Lane 746,State House,7,Rep,Cedric Hayden,1517
+Lane,Lane 750,State House,7,Rep,Cedric Hayden,449
+Lane,Lane 752,State House,7,Rep,Cedric Hayden,833
+Lane,Lane 760,State House,7,Rep,Cedric Hayden,962
+Lane,Lane 762,State House,7,Rep,Cedric Hayden,530
+Lane,Lane 764,State House,7,Rep,Cedric Hayden,730
+Lane,Lane 766,State House,7,Rep,Cedric Hayden,337
+Lane,Lane 4500,State House,9,Rep,Teri Grier,432
+Lane,Lane 4601,State House,9,Rep,Teri Grier,2063
+Lane,Lane 702,State House,9,Rep,Teri Grier,1358
+Lane,Lane 704,State House,9,Rep,Teri Grier,315
+Lane,Lane 706,State House,9,Rep,Teri Grier,412
+Lane,Lane 1233,State House,11,Rep,Mark Herbert,444
+Lane,Lane 1343,State House,11,Rep,Mark Herbert,279
+Lane,Lane 1345,State House,11,Rep,Mark Herbert,383
+Lane,Lane 2238,State House,11,Rep,Mark Herbert,40
+Lane,Lane 2344,State House,11,Rep,Mark Herbert,44
+Lane,Lane 4200,State House,11,Rep,Mark Herbert,284
+Lane,Lane 4400,State House,11,Rep,Mark Herbert,1177
+Lane,Lane 736,State House,11,Rep,Mark Herbert,501
+Lane,Lane 740,State House,11,Rep,Mark Herbert,70
+Lane,Lane 742,State House,11,Rep,Mark Herbert,383
+Lane,Lane 744,State House,11,Rep,Mark Herbert,401
+Lane,Lane 748,State House,11,Rep,Mark Herbert,1604
+Lane,Lane 754,State House,11,Rep,Mark Herbert,566
+Lane,Lane 756,State House,11,Rep,Mark Herbert,1602
+Lane,Lane 758,State House,11,Rep,Mark Herbert,840
+Lane,Lane 1121,State House,14,Rep,Rich Cunningham,48
+Lane,Lane 1671,State House,14,Rep,Rich Cunningham,505
+Lane,Lane 1673,State House,14,Rep,Rich Cunningham,962
+Lane,Lane 1675,State House,14,Rep,Rich Cunningham,1736
+Lane,Lane 1785,State House,14,Rep,Rich Cunningham,645
+Lane,Lane 1787,State House,14,Rep,Rich Cunningham,1267
+Lane,Lane 1891,State House,14,Rep,Rich Cunningham,599
+Lane,Lane 1893,State House,14,Rep,Rich Cunningham,51
+Lane,Lane 1899,State House,14,Rep,Rich Cunningham,797
+Lane,Lane 4700,State House,14,Rep,Rich Cunningham,1421
+Lane,Lane 712,State House,14,Rep,Rich Cunningham,1196
+Lane,Lane 726,State House,14,Rep,Rich Cunningham,1388
+Lane,Lane 728,State House,14,Rep,Rich Cunningham,354
+LANE,LANE OR,State House,7,Rep,Cedric Hayden,7784
+LANE,LANE OR,State House,9,Rep,Teri Grier,4580
+LANE,LANE OR,State House,11,Rep,Mark Herbert,8618
+LANE,LANE OR,State House,14,Rep,Rich Cunningham,10969
+Lane,Lane 1125,State House,8,Lbt,Martha Sherwood,312
+Lane,Lane 1127,State House,8,Lbt,Martha Sherwood,530
+Lane,Lane 1231,State House,8,Lbt,Martha Sherwood,269
+Lane,Lane 1235,State House,8,Lbt,Martha Sherwood,626
+Lane,Lane 1349,State House,8,Lbt,Martha Sherwood,126
+Lane,Lane 1895,State House,8,Lbt,Martha Sherwood,62
+Lane,Lane 1897,State House,8,Lbt,Martha Sherwood,542
+Lane,Lane 4400,State House,8,Lbt,Martha Sherwood,5
+Lane,Lane 4900,State House,8,Lbt,Martha Sherwood,714
+Lane,Lane 708,State House,8,Lbt,Martha Sherwood,643
+Lane,Lane 710,State House,8,Lbt,Martha Sherwood,345
+Lane,Lane 714,State House,8,Lbt,Martha Sherwood,697
+Lane,Lane 716,State House,8,Lbt,Martha Sherwood,568
+Lane,Lane 718,State House,8,Lbt,Martha Sherwood,315
+Lane,Lane 720,State House,8,Lbt,Martha Sherwood,258
+Lane,Lane 722,State House,8,Lbt,Martha Sherwood,155
+Lane,Lane 724,State House,8,Lbt,Martha Sherwood,143
+LANE,LANE OR,State House,8,Lbt,Martha Sherwood,6310
+Lane,Lane 4301,State House,7,,write-in,19
+Lane,Lane 4800,State House,7,,write-in,4
+Lane,Lane 746,State House,7,,write-in,7
+Lane,Lane 750,State House,7,,write-in,1
+Lane,Lane 752,State House,7,,write-in,6
+Lane,Lane 760,State House,7,,write-in,8
+Lane,Lane 762,State House,7,,write-in,6
+Lane,Lane 764,State House,7,,write-in,4
+Lane,Lane 766,State House,7,,write-in,5
+Lane,Lane 1125,State House,8,,write-in,8
+Lane,Lane 1127,State House,8,,write-in,18
+Lane,Lane 1231,State House,8,,write-in,8
+Lane,Lane 1235,State House,8,,write-in,10
+Lane,Lane 1349,State House,8,,write-in,3
+Lane,Lane 1895,State House,8,,write-in,3
+Lane,Lane 1897,State House,8,,write-in,17
+Lane,Lane 4400,State House,8,,write-in,0
+Lane,Lane 4900,State House,8,,write-in,29
+Lane,Lane 708,State House,8,,write-in,25
+Lane,Lane 710,State House,8,,write-in,13
+Lane,Lane 714,State House,8,,write-in,32
+Lane,Lane 716,State House,8,,write-in,20
+Lane,Lane 718,State House,8,,write-in,8
+Lane,Lane 720,State House,8,,write-in,7
+Lane,Lane 722,State House,8,,write-in,7
+Lane,Lane 724,State House,8,,write-in,2
+Lane,Lane 4500,State House,9,,write-in,5
+Lane,Lane 4601,State House,9,,write-in,16
+Lane,Lane 702,State House,9,,write-in,9
+Lane,Lane 704,State House,9,,write-in,3
+Lane,Lane 706,State House,9,,write-in,2
+Lane,Lane 1233,State House,11,,write-in,2
+Lane,Lane 1343,State House,11,,write-in,5
+Lane,Lane 1345,State House,11,,write-in,4
+Lane,Lane 2238,State House,11,,write-in,0
+Lane,Lane 2344,State House,11,,write-in,0
+Lane,Lane 4200,State House,11,,write-in,0
+Lane,Lane 4400,State House,11,,write-in,3
+Lane,Lane 736,State House,11,,write-in,0
+Lane,Lane 740,State House,11,,write-in,0
+Lane,Lane 742,State House,11,,write-in,2
+Lane,Lane 744,State House,11,,write-in,1
+Lane,Lane 748,State House,11,,write-in,3
+Lane,Lane 754,State House,11,,write-in,0
+Lane,Lane 756,State House,11,,write-in,0
+Lane,Lane 758,State House,11,,write-in,4
+Lane,Lane 2122,State House,12,,write-in,94
+Lane,Lane 2234,State House,12,,write-in,92
+Lane,Lane 2340,State House,12,,write-in,105
+Lane,Lane 2456,State House,12,,write-in,137
+Lane,Lane 2562,State House,12,,write-in,128
+Lane,Lane 2676,State House,12,,write-in,191
+Lane,Lane 738,State House,12,,write-in,73
+Lane,Lane 1123,State House,13,,write-in,21
+Lane,Lane 1341,State House,13,,write-in,0
+Lane,Lane 1451,State House,13,,write-in,69
+Lane,Lane 1453,State House,13,,write-in,48
+Lane,Lane 1455,State House,13,,write-in,22
+Lane,Lane 1457,State House,13,,write-in,52
+Lane,Lane 1561,State House,13,,write-in,127
+Lane,Lane 1563,State House,13,,write-in,71
+Lane,Lane 1565,State House,13,,write-in,27
+Lane,Lane 1569,State House,13,,write-in,43
+Lane,Lane 1781,State House,13,,write-in,49
+Lane,Lane 1783,State House,13,,write-in,43
+Lane,Lane 730,State House,13,,write-in,65
+Lane,Lane 732,State House,13,,write-in,76
+Lane,Lane 734,State House,13,,write-in,12
+Lane,Lane 1121,State House,14,,write-in,2
+Lane,Lane 1671,State House,14,,write-in,3
+Lane,Lane 1673,State House,14,,write-in,12
+Lane,Lane 1675,State House,14,,write-in,7
+Lane,Lane 1785,State House,14,,write-in,5
+Lane,Lane 1787,State House,14,,write-in,4
+Lane,Lane 1891,State House,14,,write-in,9
+Lane,Lane 1893,State House,14,,write-in,0
+Lane,Lane 1899,State House,14,,write-in,10
+Lane,Lane 4700,State House,14,,write-in,5
+Lane,Lane 712,State House,14,,write-in,1
+Lane,Lane 726,State House,14,,write-in,5
+Lane,Lane 728,State House,14,,write-in,1
+LANE,LANE OR,State House,7,,write-in,60
+LANE,LANE OR,State House,8,,write-in,210
+LANE,LANE OR,State House,9,,write-in,35
+LANE,LANE OR,State House,11,,write-in,24
+LANE,LANE OR,State House,12,,write-in,820
+LANE,LANE OR,State House,13,,write-in,725
+LANE,LANE OR,State House,14,,write-in,64

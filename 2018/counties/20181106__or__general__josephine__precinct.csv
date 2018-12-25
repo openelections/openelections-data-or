@@ -1,0 +1,733 @@
+county,precinct,office,district,party,candidate,votes
+Josephine,1 Highland,US House,2,Dem,Jamie McLeod-Skinner,1125
+Josephine,2 Greenwood South,US House,2,Dem,Jamie McLeod-Skinner,1138
+Josephine,3 Lincoln,US House,2,Dem,Jamie McLeod-Skinner,466
+Josephine,4 Central,US House,2,Dem,Jamie McLeod-Skinner,437
+Josephine,5 Riverside,US House,2,Dem,Jamie McLeod-Skinner,420
+Josephine,6 Webster,US House,2,Dem,Jamie McLeod-Skinner,286
+Josephine,7 Greenwood,US House,2,Dem,Jamie McLeod-Skinner,628
+Josephine,8 Riverside South,US House,2,Dem,Jamie McLeod-Skinner,780
+Josephine,9 Scoville,US House,2,Dem,Jamie McLeod-Skinner,30
+Josephine,10 Robertson,US House,2,Dem,Jamie McLeod-Skinner,44
+Josephine,11 Beacon,US House,2,Dem,Jamie McLeod-Skinner,67
+Josephine,12 River Road,US House,2,Dem,Jamie McLeod-Skinner,71
+Josephine,13 Hamilton,US House,2,Dem,Jamie McLeod-Skinner,60
+Josephine,15 Redwood,US House,2,Dem,Jamie McLeod-Skinner,257
+Josephine,16 Camp Joy,US House,2,Dem,Jamie McLeod-Skinner,56
+Josephine,17 Dimmick,US House,2,Dem,Jamie McLeod-Skinner,301
+Josephine,18 College,US House,2,Dem,Jamie McLeod-Skinner,312
+Josephine,19 Jerome Prairie,US House,2,Dem,Jamie McLeod-Skinner,351
+Josephine,21 Cloverlawn,US House,2,Dem,Jamie McLeod-Skinner,661
+Josephine,22 New Hope,US House,2,Dem,Jamie McLeod-Skinner,208
+Josephine,23 Louse Creek,US House,2,Dem,Jamie McLeod-Skinner,62
+Josephine,24 Allendale,US House,2,Dem,Jamie McLeod-Skinner,100
+Josephine,25 Jones Creek,US House,2,Dem,Jamie McLeod-Skinner,253
+Josephine,47 Crestview,US House,2,Dem,Jamie McLeod-Skinner,24
+Josephine,JOSEPHINE OR,US House,2,Dem,Jamie McLeod-Skinner,8137
+Josephine,14 Fort Vannoy,US House,4,Dem,Peter DeFazio,40
+Josephine,20 Grave Creek,US House,4,Dem,Peter DeFazio,67
+Josephine,26 Board Shanty,US House,4,Dem,Peter DeFazio,235
+Josephine,27 Wolf Creek,US House,4,Dem,Peter DeFazio,146
+Josephine,28 Kerby,US House,4,Dem,Peter DeFazio,164
+Josephine,29 West Colonial,US House,4,Dem,Peter DeFazio,29
+Josephine,30 Cave Junction,US House,4,Dem,Peter DeFazio,328
+Josephine,31 Bridgeview,US House,4,Dem,Peter DeFazio,1107
+Josephine,32 Mt. Peavine,US House,4,Dem,Peter DeFazio,83
+Josephine,33 Ferry,US House,4,Dem,Peter DeFazio,205
+Josephine,34 Illinois,US House,4,Dem,Peter DeFazio,104
+Josephine,35 Merlin,US House,4,Dem,Peter DeFazio,204
+Josephine,36 Findley Bend,US House,4,Dem,Peter DeFazio,556
+Josephine,37 Selma,US House,4,Dem,Peter DeFazio,370
+Josephine,38 Slate Creek,US House,4,Dem,Peter DeFazio,708
+Josephine,39 Lucky Queen,US House,4,Dem,Peter DeFazio,331
+Josephine,40 Williams,US House,4,Dem,Peter DeFazio,327
+Josephine,41 Colonial,US House,4,Dem,Peter DeFazio,28
+Josephine,42 North Valley,US House,4,Dem,Peter DeFazio,409
+Josephine,43 Pleasant Valley,US House,4,Dem,Peter DeFazio,219
+Josephine,44 Illinois River,US House,4,Dem,Peter DeFazio,61
+Josephine,45 North Applegate,US House,4,Dem,Peter DeFazio,59
+Josephine,46 Powell Creek,US House,4,Dem,Peter DeFazio,73
+Josephine,JOSEPHINE OR,US House,4,Dem,Peter DeFazio,5853
+Josephine,1 Highland,US House,2,Rep,Greg Walden,1539
+Josephine,2 Greenwood South,US House,2,Rep,Greg Walden,2410
+Josephine,3 Lincoln,US House,2,Rep,Greg Walden,732
+Josephine,4 Central,US House,2,Rep,Greg Walden,567
+Josephine,5 Riverside,US House,2,Rep,Greg Walden,623
+Josephine,6 Webster,US House,2,Rep,Greg Walden,505
+Josephine,7 Greenwood,US House,2,Rep,Greg Walden,917
+Josephine,8 Riverside South,US House,2,Rep,Greg Walden,1530
+Josephine,9 Scoville,US House,2,Rep,Greg Walden,68
+Josephine,10 Robertson,US House,2,Rep,Greg Walden,99
+Josephine,11 Beacon,US House,2,Rep,Greg Walden,119
+Josephine,12 River Road,US House,2,Rep,Greg Walden,122
+Josephine,13 Hamilton,US House,2,Rep,Greg Walden,122
+Josephine,15 Redwood,US House,2,Rep,Greg Walden,676
+Josephine,16 Camp Joy,US House,2,Rep,Greg Walden,186
+Josephine,17 Dimmick,US House,2,Rep,Greg Walden,649
+Josephine,18 College,US House,2,Rep,Greg Walden,795
+Josephine,19 Jerome Prairie,US House,2,Rep,Greg Walden,962
+Josephine,21 Cloverlawn,US House,2,Rep,Greg Walden,1522
+Josephine,22 New Hope,US House,2,Rep,Greg Walden,544
+Josephine,23 Louse Creek,US House,2,Rep,Greg Walden,232
+Josephine,24 Allendale,US House,2,Rep,Greg Walden,228
+Josephine,25 Jones Creek,US House,2,Rep,Greg Walden,529
+Josephine,47 Crestview,US House,2,Rep,Greg Walden,45
+Josephine,JOSEPHINE OR,US House,2,Rep,Greg Walden,15721
+Josephine,14 Fort Vannoy,US House,4,Rep,Art Robinson,58
+Josephine,20 Grave Creek,US House,4,Rep,Art Robinson,102
+Josephine,26 Board Shanty,US House,4,Rep,Art Robinson,419
+Josephine,27 Wolf Creek,US House,4,Rep,Art Robinson,211
+Josephine,28 Kerby,US House,4,Rep,Art Robinson,202
+Josephine,29 West Colonial,US House,4,Rep,Art Robinson,57
+Josephine,30 Cave Junction,US House,4,Rep,Art Robinson,380
+Josephine,31 Bridgeview,US House,4,Rep,Art Robinson,985
+Josephine,32 Mt. Peavine,US House,4,Rep,Art Robinson,123
+Josephine,33 Ferry,US House,4,Rep,Art Robinson,318
+Josephine,34 Illinois,US House,4,Rep,Art Robinson,130
+Josephine,35 Merlin,US House,4,Rep,Art Robinson,428
+Josephine,36 Findley Bend,US House,4,Rep,Art Robinson,1007
+Josephine,37 Selma,US House,4,Rep,Art Robinson,534
+Josephine,38 Slate Creek,US House,4,Rep,Art Robinson,1092
+Josephine,39 Lucky Queen,US House,4,Rep,Art Robinson,666
+Josephine,40 Williams,US House,4,Rep,Art Robinson,242
+Josephine,41 Colonial,US House,4,Rep,Art Robinson,53
+Josephine,42 North Valley,US House,4,Rep,Art Robinson,862
+Josephine,43 Pleasant Valley,US House,4,Rep,Art Robinson,425
+Josephine,44 Illinois River,US House,4,Rep,Art Robinson,71
+Josephine,45 North Applegate,US House,4,Rep,Art Robinson,89
+Josephine,46 Powell Creek,US House,4,Rep,Art Robinson,115
+Josephine,JOSEPHINE OR,US House,4,Rep,Art Robinson,8569
+Josephine,1 Highland,US House,2,Ind,Mark Roberts,105
+Josephine,2 Greenwood South,US House,2,Ind,Mark Roberts,199
+Josephine,3 Lincoln,US House,2,Ind,Mark Roberts,55
+Josephine,4 Central,US House,2,Ind,Mark Roberts,69
+Josephine,5 Riverside,US House,2,Ind,Mark Roberts,57
+Josephine,6 Webster,US House,2,Ind,Mark Roberts,46
+Josephine,7 Greenwood,US House,2,Ind,Mark Roberts,104
+Josephine,8 Riverside South,US House,2,Ind,Mark Roberts,129
+Josephine,9 Scoville,US House,2,Ind,Mark Roberts,1
+Josephine,10 Robertson,US House,2,Ind,Mark Roberts,8
+Josephine,11 Beacon,US House,2,Ind,Mark Roberts,14
+Josephine,12 River Road,US House,2,Ind,Mark Roberts,18
+Josephine,13 Hamilton,US House,2,Ind,Mark Roberts,11
+Josephine,15 Redwood,US House,2,Ind,Mark Roberts,37
+Josephine,16 Camp Joy,US House,2,Ind,Mark Roberts,9
+Josephine,17 Dimmick,US House,2,Ind,Mark Roberts,49
+Josephine,18 College,US House,2,Ind,Mark Roberts,78
+Josephine,19 Jerome Prairie,US House,2,Ind,Mark Roberts,60
+Josephine,21 Cloverlawn,US House,2,Ind,Mark Roberts,119
+Josephine,22 New Hope,US House,2,Ind,Mark Roberts,30
+Josephine,23 Louse Creek,US House,2,Ind,Mark Roberts,19
+Josephine,24 Allendale,US House,2,Ind,Mark Roberts,10
+Josephine,25 Jones Creek,US House,2,Ind,Mark Roberts,22
+Josephine,47 Crestview,US House,2,Ind,Mark Roberts,7
+Josephine,JOSEPHINE OR,US House,2,Ind,Mark Roberts,1256
+Josephine,14 Fort Vannoy,US House,4,Lbt,Richard Jacobson,3
+Josephine,20 Grave Creek,US House,4,Lbt,Richard Jacobson,5
+Josephine,26 Board Shanty,US House,4,Lbt,Richard Jacobson,14
+Josephine,27 Wolf Creek,US House,4,Lbt,Richard Jacobson,10
+Josephine,28 Kerby,US House,4,Lbt,Richard Jacobson,5
+Josephine,29 West Colonial,US House,4,Lbt,Richard Jacobson,0
+Josephine,30 Cave Junction,US House,4,Lbt,Richard Jacobson,12
+Josephine,31 Bridgeview,US House,4,Lbt,Richard Jacobson,47
+Josephine,32 Mt. Peavine,US House,4,Lbt,Richard Jacobson,5
+Josephine,33 Ferry,US House,4,Lbt,Richard Jacobson,10
+Josephine,34 Illinois,US House,4,Lbt,Richard Jacobson,7
+Josephine,35 Merlin,US House,4,Lbt,Richard Jacobson,6
+Josephine,36 Findley Bend,US House,4,Lbt,Richard Jacobson,15
+Josephine,37 Selma,US House,4,Lbt,Richard Jacobson,15
+Josephine,38 Slate Creek,US House,4,Lbt,Richard Jacobson,30
+Josephine,39 Lucky Queen,US House,4,Lbt,Richard Jacobson,14
+Josephine,40 Williams,US House,4,Lbt,Richard Jacobson,10
+Josephine,41 Colonial,US House,4,Lbt,Richard Jacobson,4
+Josephine,42 North Valley,US House,4,Lbt,Richard Jacobson,22
+Josephine,43 Pleasant Valley,US House,4,Lbt,Richard Jacobson,4
+Josephine,44 Illinois River,US House,4,Lbt,Richard Jacobson,1
+Josephine,45 North Applegate,US House,4,Lbt,Richard Jacobson,3
+Josephine,46 Powell Creek,US House,4,Lbt,Richard Jacobson,1
+Josephine,JOSEPHINE OR,US House,4,Lbt,Richard Jacobson,243
+Josephine,14 Fort Vannoy,US House,4,PGP,Mike Beilstein,2
+Josephine,20 Grave Creek,US House,4,PGP,Mike Beilstein,6
+Josephine,26 Board Shanty,US House,4,PGP,Mike Beilstein,13
+Josephine,27 Wolf Creek,US House,4,PGP,Mike Beilstein,7
+Josephine,28 Kerby,US House,4,PGP,Mike Beilstein,13
+Josephine,29 West Colonial,US House,4,PGP,Mike Beilstein,0
+Josephine,30 Cave Junction,US House,4,PGP,Mike Beilstein,16
+Josephine,31 Bridgeview,US House,4,PGP,Mike Beilstein,74
+Josephine,32 Mt. Peavine,US House,4,PGP,Mike Beilstein,7
+Josephine,33 Ferry,US House,4,PGP,Mike Beilstein,8
+Josephine,34 Illinois,US House,4,PGP,Mike Beilstein,11
+Josephine,35 Merlin,US House,4,PGP,Mike Beilstein,8
+Josephine,36 Findley Bend,US House,4,PGP,Mike Beilstein,17
+Josephine,37 Selma,US House,4,PGP,Mike Beilstein,24
+Josephine,38 Slate Creek,US House,4,PGP,Mike Beilstein,25
+Josephine,39 Lucky Queen,US House,4,PGP,Mike Beilstein,7
+Josephine,40 Williams,US House,4,PGP,Mike Beilstein,15
+Josephine,41 Colonial,US House,4,PGP,Mike Beilstein,0
+Josephine,42 North Valley,US House,4,PGP,Mike Beilstein,10
+Josephine,43 Pleasant Valley,US House,4,PGP,Mike Beilstein,8
+Josephine,44 Illinois River,US House,4,PGP,Mike Beilstein,1
+Josephine,45 North Applegate,US House,4,PGP,Mike Beilstein,3
+Josephine,46 Powell Creek,US House,4,PGP,Mike Beilstein,6
+Josephine,JOSEPHINE OR,US House,4,PGP,Mike Beilstein,281
+Josephine,1 Highland,US House,2,,write-in,6
+Josephine,2 Greenwood South,US House,2,,write-in,8
+Josephine,3 Lincoln,US House,2,,write-in,2
+Josephine,4 Central,US House,2,,write-in,3
+Josephine,5 Riverside,US House,2,,write-in,1
+Josephine,6 Webster,US House,2,,write-in,2
+Josephine,7 Greenwood,US House,2,,write-in,1
+Josephine,8 Riverside South,US House,2,,write-in,5
+Josephine,9 Scoville,US House,2,,write-in,0
+Josephine,10 Robertson,US House,2,,write-in,1
+Josephine,11 Beacon,US House,2,,write-in,0
+Josephine,12 River Road,US House,2,,write-in,0
+Josephine,13 Hamilton,US House,2,,write-in,0
+Josephine,15 Redwood,US House,2,,write-in,0
+Josephine,16 Camp Joy,US House,2,,write-in,0
+Josephine,17 Dimmick,US House,2,,write-in,0
+Josephine,18 College,US House,2,,write-in,0
+Josephine,19 Jerome Prairie,US House,2,,write-in,0
+Josephine,21 Cloverlawn,US House,2,,write-in,2
+Josephine,22 New Hope,US House,2,,write-in,3
+Josephine,23 Louse Creek,US House,2,,write-in,0
+Josephine,24 Allendale,US House,2,,write-in,0
+Josephine,25 Jones Creek,US House,2,,write-in,0
+Josephine,47 Crestview,US House,2,,write-in,0
+Josephine,JOSEPHINE OR,US House,2,,write-in,34
+Josephine,14 Fort Vannoy,US House,4,,write-in,0
+Josephine,20 Grave Creek,US House,4,,write-in,0
+Josephine,26 Board Shanty,US House,4,,write-in,1
+Josephine,27 Wolf Creek,US House,4,,write-in,1
+Josephine,28 Kerby,US House,4,,write-in,1
+Josephine,29 West Colonial,US House,4,,write-in,0
+Josephine,30 Cave Junction,US House,4,,write-in,4
+Josephine,31 Bridgeview,US House,4,,write-in,3
+Josephine,32 Mt. Peavine,US House,4,,write-in,0
+Josephine,33 Ferry,US House,4,,write-in,1
+Josephine,34 Illinois,US House,4,,write-in,0
+Josephine,35 Merlin,US House,4,,write-in,1
+Josephine,36 Findley Bend,US House,4,,write-in,1
+Josephine,37 Selma,US House,4,,write-in,1
+Josephine,38 Slate Creek,US House,4,,write-in,5
+Josephine,39 Lucky Queen,US House,4,,write-in,4
+Josephine,40 Williams,US House,4,,write-in,1
+Josephine,41 Colonial,US House,4,,write-in,0
+Josephine,42 North Valley,US House,4,,write-in,4
+Josephine,43 Pleasant Valley,US House,4,,write-in,0
+Josephine,44 Illinois River,US House,4,,write-in,1
+Josephine,45 North Applegate,US House,4,,write-in,1
+Josephine,46 Powell Creek,US House,4,,write-in,0
+Josephine,JOSEPHINE OR,US House,4,,write-in,30
+Josephine,1 Highland,Governor,,Dem,Kate Brown,1013
+Josephine,2 Greenwood South,Governor,,Dem,Kate Brown,"1,027"
+Josephine,3 Lincoln,Governor,,Dem,Kate Brown,415
+Josephine,4 Central,Governor,,Dem,Kate Brown,380
+Josephine,5 Riverside,Governor,,Dem,Kate Brown,353
+Josephine,6 Webster,Governor,,Dem,Kate Brown,247
+Josephine,7 Greenwood,Governor,,Dem,Kate Brown,588
+Josephine,8 Riverside South,Governor,,Dem,Kate Brown,704
+Josephine,9 Scoville,Governor,,Dem,Kate Brown,31
+Josephine,10 Robertson,Governor,,Dem,Kate Brown,40
+Josephine,11 Beacon,Governor,,Dem,Kate Brown,64
+Josephine,12 River Road,Governor,,Dem,Kate Brown,67
+Josephine,13 Hamilton,Governor,,Dem,Kate Brown,51
+Josephine,14 Fort Vannoy,Governor,,Dem,Kate Brown,35
+Josephine,15 Redwood,Governor,,Dem,Kate Brown,226
+Josephine,16 Camp Joy,Governor,,Dem,Kate Brown,47
+Josephine,17 Dimmick,Governor,,Dem,Kate Brown,270
+Josephine,18 College,Governor,,Dem,Kate Brown,291
+Josephine,19 Jerome Prairie,Governor,,Dem,Kate Brown,321
+Josephine,20 Grave Creek,Governor,,Dem,Kate Brown,51
+Josephine,21 Cloverlawn,Governor,,Dem,Kate Brown,603
+Josephine,22 New Hope,Governor,,Dem,Kate Brown,192
+Josephine,23 Louse Creek,Governor,,Dem,Kate Brown,58
+Josephine,24 Allendale,Governor,,Dem,Kate Brown,78
+Josephine,25 Jones Creek,Governor,,Dem,Kate Brown,234
+Josephine,26 Board Shanty,Governor,,Dem,Kate Brown,194
+Josephine,27 Wolf Creek,Governor,,Dem,Kate Brown,120
+Josephine,28 Kerby,Governor,,Dem,Kate Brown,133
+Josephine,29 West Colonial,Governor,,Dem,Kate Brown,18
+Josephine,30 Cave Junction,Governor,,Dem,Kate Brown,247
+Josephine,31 Bridgeview,Governor,,Dem,Kate Brown,998
+Josephine,32 Mt. Peavine,Governor,,Dem,Kate Brown,68
+Josephine,33 Ferry,Governor,,Dem,Kate Brown,179
+Josephine,34 Illinois,Governor,,Dem,Kate Brown,103
+Josephine,35 Merlin,Governor,,Dem,Kate Brown,167
+Josephine,36 Findley Bend,Governor,,Dem,Kate Brown,441
+Josephine,37 Selma,Governor,,Dem,Kate Brown,318
+Josephine,38 Slate Creek,Governor,,Dem,Kate Brown,583
+Josephine,39 Lucky Queen,Governor,,Dem,Kate Brown,273
+Josephine,40 Williams,Governor,,Dem,Kate Brown,305
+Josephine,41 Colonial,Governor,,Dem,Kate Brown,24
+Josephine,42 North Valley,Governor,,Dem,Kate Brown,317
+Josephine,43 Pleasant Valley,Governor,,Dem,Kate Brown,151
+Josephine,44 Illinois River,Governor,,Dem,Kate Brown,51
+Josephine,45 North Applegate,Governor,,Dem,Kate Brown,48
+Josephine,46 Powell Creek,Governor,,Dem,Kate Brown,63
+Josephine,47 Crestview,Governor,,Dem,Kate Brown,27
+Josephine,JOSEPHINE OR,Governor,,Dem,Kate Brown,12214
+Josephine,1 Highland,Governor,,Rep,Knute Buehler,1542
+Josephine,2 Greenwood South,Governor,,Rep,Knute Buehler,"2,391"
+Josephine,3 Lincoln,Governor,,Rep,Knute Buehler,737
+Josephine,4 Central,Governor,,Rep,Knute Buehler,572
+Josephine,5 Riverside,Governor,,Rep,Knute Buehler,637
+Josephine,6 Webster,Governor,,Rep,Knute Buehler,522
+Josephine,7 Greenwood,Governor,,Rep,Knute Buehler,875
+Josephine,8 Riverside South,Governor,,Rep,Knute Buehler,"1,516"
+Josephine,9 Scoville,Governor,,Rep,Knute Buehler,66
+Josephine,10 Robertson,Governor,,Rep,Knute Buehler,105
+Josephine,11 Beacon,Governor,,Rep,Knute Buehler,120
+Josephine,12 River Road,Governor,,Rep,Knute Buehler,121
+Josephine,13 Hamilton,Governor,,Rep,Knute Buehler,118
+Josephine,14 Fort Vannoy,Governor,,Rep,Knute Buehler,59
+Josephine,15 Redwood,Governor,,Rep,Knute Buehler,661
+Josephine,16 Camp Joy,Governor,,Rep,Knute Buehler,186
+Josephine,17 Dimmick,Governor,,Rep,Knute Buehler,652
+Josephine,18 College,Governor,,Rep,Knute Buehler,789
+Josephine,19 Jerome Prairie,Governor,,Rep,Knute Buehler,966
+Josephine,20 Grave Creek,Governor,,Rep,Knute Buehler,107
+Josephine,21 Cloverlawn,Governor,,Rep,Knute Buehler,1535
+Josephine,22 New Hope,Governor,,Rep,Knute Buehler,517
+Josephine,23 Louse Creek,Governor,,Rep,Knute Buehler,239
+Josephine,24 Allendale,Governor,,Rep,Knute Buehler,229
+Josephine,25 Jones Creek,Governor,,Rep,Knute Buehler,529
+Josephine,26 Board Shanty,Governor,,Rep,Knute Buehler,417
+Josephine,27 Wolf Creek,Governor,,Rep,Knute Buehler,220
+Josephine,28 Kerby,Governor,,Rep,Knute Buehler,197
+Josephine,29 West Colonial,Governor,,Rep,Knute Buehler,60
+Josephine,30 Cave Junction,Governor,,Rep,Knute Buehler,396
+Josephine,31 Bridgeview,Governor,,Rep,Knute Buehler,998
+Josephine,32 Mt. Peavine,Governor,,Rep,Knute Buehler,131
+Josephine,33 Ferry,Governor,,Rep,Knute Buehler,327
+Josephine,34 Illinois,Governor,,Rep,Knute Buehler,121
+Josephine,35 Merlin,Governor,,Rep,Knute Buehler,444
+Josephine,36 Findley Bend,Governor,,Rep,Knute Buehler,1052
+Josephine,37 Selma,Governor,,Rep,Knute Buehler,529
+Josephine,38 Slate Creek,Governor,,Rep,Knute Buehler,1135
+Josephine,39 Lucky Queen,Governor,,Rep,Knute Buehler,681
+Josephine,40 Williams,Governor,,Rep,Knute Buehler,251
+Josephine,41 Colonial,Governor,,Rep,Knute Buehler,53
+Josephine,42 North Valley,Governor,,Rep,Knute Buehler,908
+Josephine,43 Pleasant Valley,Governor,,Rep,Knute Buehler,450
+Josephine,44 Illinois River,Governor,,Rep,Knute Buehler,79
+Josephine,45 North Applegate,Governor,,Rep,Knute Buehler,96
+Josephine,46 Powell Creek,Governor,,Rep,Knute Buehler,121
+Josephine,47 Crestview,Governor,,Rep,Knute Buehler,42
+Josephine,JOSEPHINE OR,Governor,,Rep,Knute Buehler,24499
+Josephine,1 Highland,Governor,,Lbt,Nick Chen,60
+Josephine,2 Greenwood South,Governor,,Lbt,Nick Chen,84
+Josephine,3 Lincoln,Governor,,Lbt,Nick Chen,29
+Josephine,4 Central,Governor,,Lbt,Nick Chen,22
+Josephine,5 Riverside,Governor,,Lbt,Nick Chen,34
+Josephine,6 Webster,Governor,,Lbt,Nick Chen,18
+Josephine,7 Greenwood,Governor,,Lbt,Nick Chen,38
+Josephine,8 Riverside South,Governor,,Lbt,Nick Chen,44
+Josephine,9 Scoville,Governor,,Lbt,Nick Chen,0
+Josephine,10 Robertson,Governor,,Lbt,Nick Chen,0
+Josephine,11 Beacon,Governor,,Lbt,Nick Chen,7
+Josephine,12 River Road,Governor,,Lbt,Nick Chen,4
+Josephine,13 Hamilton,Governor,,Lbt,Nick Chen,3
+Josephine,14 Fort Vannoy,Governor,,Lbt,Nick Chen,3
+Josephine,15 Redwood,Governor,,Lbt,Nick Chen,9
+Josephine,16 Camp Joy,Governor,,Lbt,Nick Chen,6
+Josephine,17 Dimmick,Governor,,Lbt,Nick Chen,9
+Josephine,18 College,Governor,,Lbt,Nick Chen,19
+Josephine,19 Jerome Prairie,Governor,,Lbt,Nick Chen,14
+Josephine,20 Grave Creek,Governor,,Lbt,Nick Chen,6
+Josephine,21 Cloverlawn,Governor,,Lbt,Nick Chen,30
+Josephine,22 New Hope,Governor,,Lbt,Nick Chen,10
+Josephine,23 Louse Creek,Governor,,Lbt,Nick Chen,4
+Josephine,24 Allendale,Governor,,Lbt,Nick Chen,9
+Josephine,25 Jones Creek,Governor,,Lbt,Nick Chen,12
+Josephine,26 Board Shanty,Governor,,Lbt,Nick Chen,18
+Josephine,27 Wolf Creek,Governor,,Lbt,Nick Chen,3
+Josephine,28 Kerby,Governor,,Lbt,Nick Chen,11
+Josephine,29 West Colonial,Governor,,Lbt,Nick Chen,0
+Josephine,30 Cave Junction,Governor,,Lbt,Nick Chen,14
+Josephine,31 Bridgeview,Governor,,Lbt,Nick Chen,64
+Josephine,32 Mt. Peavine,Governor,,Lbt,Nick Chen,4
+Josephine,33 Ferry,Governor,,Lbt,Nick Chen,12
+Josephine,34 Illinois,Governor,,Lbt,Nick Chen,7
+Josephine,35 Merlin,Governor,,Lbt,Nick Chen,11
+Josephine,36 Findley Bend,Governor,,Lbt,Nick Chen,17
+Josephine,37 Selma,Governor,,Lbt,Nick Chen,35
+Josephine,38 Slate Creek,Governor,,Lbt,Nick Chen,28
+Josephine,39 Lucky Queen,Governor,,Lbt,Nick Chen,21
+Josephine,40 Williams,Governor,,Lbt,Nick Chen,13
+Josephine,41 Colonial,Governor,,Lbt,Nick Chen,2
+Josephine,42 North Valley,Governor,,Lbt,Nick Chen,14
+Josephine,43 Pleasant Valley,Governor,,Lbt,Nick Chen,10
+Josephine,44 Illinois River,Governor,,Lbt,Nick Chen,5
+Josephine,45 North Applegate,Governor,,Lbt,Nick Chen,2
+Josephine,46 Powell Creek,Governor,,Lbt,Nick Chen,1
+Josephine,47 Crestview,Governor,,Lbt,Nick Chen,1
+Josephine,JOSEPHINE OR,Governor,,Lbt,Nick Chen,767
+Josephine,1 Highland,Governor,,Cst,Aaron Auer,46
+Josephine,2 Greenwood South,Governor,,Cst,Aaron Auer,74
+Josephine,3 Lincoln,Governor,,Cst,Aaron Auer,21
+Josephine,4 Central,Governor,,Cst,Aaron Auer,25
+Josephine,5 Riverside,Governor,,Cst,Aaron Auer,24
+Josephine,6 Webster,Governor,,Cst,Aaron Auer,13
+Josephine,7 Greenwood,Governor,,Cst,Aaron Auer,39
+Josephine,8 Riverside South,Governor,,Cst,Aaron Auer,48
+Josephine,9 Scoville,Governor,,Cst,Aaron Auer,1
+Josephine,10 Robertson,Governor,,Cst,Aaron Auer,3
+Josephine,11 Beacon,Governor,,Cst,Aaron Auer,0
+Josephine,12 River Road,Governor,,Cst,Aaron Auer,3
+Josephine,13 Hamilton,Governor,,Cst,Aaron Auer,10
+Josephine,14 Fort Vannoy,Governor,,Cst,Aaron Auer,2
+Josephine,15 Redwood,Governor,,Cst,Aaron Auer,19
+Josephine,16 Camp Joy,Governor,,Cst,Aaron Auer,3
+Josephine,17 Dimmick,Governor,,Cst,Aaron Auer,23
+Josephine,18 College,Governor,,Cst,Aaron Auer,27
+Josephine,19 Jerome Prairie,Governor,,Cst,Aaron Auer,26
+Josephine,20 Grave Creek,Governor,,Cst,Aaron Auer,4
+Josephine,21 Cloverlawn,Governor,,Cst,Aaron Auer,42
+Josephine,22 New Hope,Governor,,Cst,Aaron Auer,13
+Josephine,23 Louse Creek,Governor,,Cst,Aaron Auer,5
+Josephine,24 Allendale,Governor,,Cst,Aaron Auer,7
+Josephine,25 Jones Creek,Governor,,Cst,Aaron Auer,11
+Josephine,26 Board Shanty,Governor,,Cst,Aaron Auer,24
+Josephine,27 Wolf Creek,Governor,,Cst,Aaron Auer,15
+Josephine,28 Kerby,Governor,,Cst,Aaron Auer,20
+Josephine,29 West Colonial,Governor,,Cst,Aaron Auer,7
+Josephine,30 Cave Junction,Governor,,Cst,Aaron Auer,24
+Josephine,31 Bridgeview,Governor,,Cst,Aaron Auer,71
+Josephine,32 Mt. Peavine,Governor,,Cst,Aaron Auer,5
+Josephine,33 Ferry,Governor,,Cst,Aaron Auer,12
+Josephine,34 Illinois,Governor,,Cst,Aaron Auer,8
+Josephine,35 Merlin,Governor,,Cst,Aaron Auer,9
+Josephine,36 Findley Bend,Governor,,Cst,Aaron Auer,32
+Josephine,37 Selma,Governor,,Cst,Aaron Auer,43
+Josephine,38 Slate Creek,Governor,,Cst,Aaron Auer,43
+Josephine,39 Lucky Queen,Governor,,Cst,Aaron Auer,12
+Josephine,40 Williams,Governor,,Cst,Aaron Auer,9
+Josephine,41 Colonial,Governor,,Cst,Aaron Auer,6
+Josephine,42 North Valley,Governor,,Cst,Aaron Auer,31
+Josephine,43 Pleasant Valley,Governor,,Cst,Aaron Auer,7
+Josephine,44 Illinois River,Governor,,Cst,Aaron Auer,2
+Josephine,45 North Applegate,Governor,,Cst,Aaron Auer,4
+Josephine,46 Powell Creek,Governor,,Cst,Aaron Auer,6
+Josephine,47 Crestview,Governor,,Cst,Aaron Auer,2
+Josephine,JOSEPHINE OR,Governor,,Cst,Aaron Auer,881
+Josephine,1 Highland,Governor,,Ind,Patrick Starnes,122
+Josephine,2 Greenwood South,Governor,,Ind,Patrick Starnes,172
+Josephine,3 Lincoln,Governor,,Ind,Patrick Starnes,42
+Josephine,4 Central,Governor,,Ind,Patrick Starnes,61
+Josephine,5 Riverside,Governor,,Ind,Patrick Starnes,47
+Josephine,6 Webster,Governor,,Ind,Patrick Starnes,38
+Josephine,7 Greenwood,Governor,,Ind,Patrick Starnes,102
+Josephine,8 Riverside South,Governor,,Ind,Patrick Starnes,118
+Josephine,9 Scoville,Governor,,Ind,Patrick Starnes,0
+Josephine,10 Robertson,Governor,,Ind,Patrick Starnes,7
+Josephine,11 Beacon,Governor,,Ind,Patrick Starnes,72
+Josephine,12 River Road,Governor,,Ind,Patrick Starnes,13
+Josephine,13 Hamilton,Governor,,Ind,Patrick Starnes,7
+Josephine,14 Fort Vannoy,Governor,,Ind,Patrick Starnes,4
+Josephine,15 Redwood,Governor,,Ind,Patrick Starnes,48
+Josephine,16 Camp Joy,Governor,,Ind,Patrick Starnes,11
+Josephine,17 Dimmick,Governor,,Ind,Patrick Starnes,41
+Josephine,18 College,Governor,,Ind,Patrick Starnes,52
+Josephine,19 Jerome Prairie,Governor,,Ind,Patrick Starnes,45
+Josephine,20 Grave Creek,Governor,,Ind,Patrick Starnes,9
+Josephine,21 Cloverlawn,Governor,,Ind,Patrick Starnes,96
+Josephine,22 New Hope,Governor,,Ind,Patrick Starnes,41
+Josephine,23 Louse Creek,Governor,,Ind,Patrick Starnes,7
+Josephine,24 Allendale,Governor,,Ind,Patrick Starnes,15
+Josephine,25 Jones Creek,Governor,,Ind,Patrick Starnes,24
+Josephine,26 Board Shanty,Governor,,Ind,Patrick Starnes,31
+Josephine,27 Wolf Creek,Governor,,Ind,Patrick Starnes,20
+Josephine,28 Kerby,Governor,,Ind,Patrick Starnes,17
+Josephine,29 West Colonial,Governor,,Ind,Patrick Starnes,5
+Josephine,30 Cave Junction,Governor,,Ind,Patrick Starnes,57
+Josephine,31 Bridgeview,Governor,,Ind,Patrick Starnes,88
+Josephine,32 Mt. Peavine,Governor,,Ind,Patrick Starnes,10
+Josephine,33 Ferry,Governor,,Ind,Patrick Starnes,23
+Josephine,34 Illinois,Governor,,Ind,Patrick Starnes,8
+Josephine,35 Merlin,Governor,,Ind,Patrick Starnes,28
+Josephine,36 Findley Bend,Governor,,Ind,Patrick Starnes,58
+Josephine,37 Selma,Governor,,Ind,Patrick Starnes,27
+Josephine,38 Slate Creek,Governor,,Ind,Patrick Starnes,79
+Josephine,39 Lucky Queen,Governor,,Ind,Patrick Starnes,32
+Josephine,40 Williams,Governor,,Ind,Patrick Starnes,14
+Josephine,41 Colonial,Governor,,Ind,Patrick Starnes,4
+Josephine,42 North Valley,Governor,,Ind,Patrick Starnes,54
+Josephine,43 Pleasant Valley,Governor,,Ind,Patrick Starnes,36
+Josephine,44 Illinois River,Governor,,Ind,Patrick Starnes,3
+Josephine,45 North Applegate,Governor,,Ind,Patrick Starnes,5
+Josephine,46 Powell Creek,Governor,,Ind,Patrick Starnes,3
+Josephine,47 Crestview,Governor,,Ind,Patrick Starnes,4
+Josephine,JOSEPHINE OR,Governor,,Ind,Patrick Starnes,1735
+Josephine,1 Highland,Governor,,Prog,Chris Henry,9
+Josephine,2 Greenwood South,Governor,,Prog,Chris Henry,32
+Josephine,3 Lincoln,Governor,,Prog,Chris Henry,6
+Josephine,4 Central,Governor,,Prog,Chris Henry,16
+Josephine,5 Riverside,Governor,,Prog,Chris Henry,14
+Josephine,6 Webster,Governor,,Prog,Chris Henry,4
+Josephine,7 Greenwood,Governor,,Prog,Chris Henry,20
+Josephine,8 Riverside South,Governor,,Prog,Chris Henry,15
+Josephine,9 Scoville,Governor,,Prog,Chris Henry,0
+Josephine,10 Robertson,Governor,,Prog,Chris Henry,0
+Josephine,11 Beacon,Governor,,Prog,Chris Henry,2
+Josephine,12 River Road,Governor,,Prog,Chris Henry,2
+Josephine,13 Hamilton,Governor,,Prog,Chris Henry,1
+Josephine,14 Fort Vannoy,Governor,,Prog,Chris Henry,1
+Josephine,15 Redwood,Governor,,Prog,Chris Henry,6
+Josephine,16 Camp Joy,Governor,,Prog,Chris Henry,2
+Josephine,17 Dimmick,Governor,,Prog,Chris Henry,6
+Josephine,18 College,Governor,,Prog,Chris Henry,8
+Josephine,19 Jerome Prairie,Governor,,Prog,Chris Henry,6
+Josephine,20 Grave Creek,Governor,,Prog,Chris Henry,6
+Josephine,21 Cloverlawn,Governor,,Prog,Chris Henry,7
+Josephine,22 New Hope,Governor,,Prog,Chris Henry,10
+Josephine,23 Louse Creek,Governor,,Prog,Chris Henry,0
+Josephine,24 Allendale,Governor,,Prog,Chris Henry,0
+Josephine,25 Jones Creek,Governor,,Prog,Chris Henry,4
+Josephine,26 Board Shanty,Governor,,Prog,Chris Henry,5
+Josephine,27 Wolf Creek,Governor,,Prog,Chris Henry,4
+Josephine,28 Kerby,Governor,,Prog,Chris Henry,5
+Josephine,29 West Colonial,Governor,,Prog,Chris Henry,1
+Josephine,30 Cave Junction,Governor,,Prog,Chris Henry,12
+Josephine,31 Bridgeview,Governor,,Prog,Chris Henry,27
+Josephine,32 Mt. Peavine,Governor,,Prog,Chris Henry,1
+Josephine,33 Ferry,Governor,,Prog,Chris Henry,4
+Josephine,34 Illinois,Governor,,Prog,Chris Henry,5
+Josephine,35 Merlin,Governor,,Prog,Chris Henry,3
+Josephine,36 Findley Bend,Governor,,Prog,Chris Henry,9
+Josephine,37 Selma,Governor,,Prog,Chris Henry,8
+Josephine,38 Slate Creek,Governor,,Prog,Chris Henry,12
+Josephine,39 Lucky Queen,Governor,,Prog,Chris Henry,3
+Josephine,40 Williams,Governor,,Prog,Chris Henry,10
+Josephine,41 Colonial,Governor,,Prog,Chris Henry,1
+Josephine,42 North Valley,Governor,,Prog,Chris Henry,10
+Josephine,43 Pleasant Valley,Governor,,Prog,Chris Henry,5
+Josephine,44 Illinois River,Governor,,Prog,Chris Henry,0
+Josephine,45 North Applegate,Governor,,Prog,Chris Henry,3
+Josephine,46 Powell Creek,Governor,,Prog,Chris Henry,3
+Josephine,47 Crestview,Governor,,Prog,Chris Henry,0
+Josephine,JOSEPHINE OR,Governor,,Prog,Chris Henry,308
+Josephine,1 Highland,Governor,,,write-in,4
+Josephine,2 Greenwood South,Governor,,,write-in,3
+Josephine,3 Lincoln,Governor,,,write-in,1
+Josephine,4 Central,Governor,,,write-in,4
+Josephine,5 Riverside,Governor,,,write-in,2
+Josephine,6 Webster,Governor,,,write-in,4
+Josephine,7 Greenwood,Governor,,,write-in,2
+Josephine,8 Riverside South,Governor,,,write-in,1
+Josephine,9 Scoville,Governor,,,write-in,2
+Josephine,10 Robertson,Governor,,,write-in,0
+Josephine,11 Beacon,Governor,,,write-in,0
+Josephine,12 River Road,Governor,,,write-in,1
+Josephine,13 Hamilton,Governor,,,write-in,1
+Josephine,14 Fort Vannoy,Governor,,,write-in,0
+Josephine,15 Redwood,Governor,,,write-in,1
+Josephine,16 Camp Joy,Governor,,,write-in,0
+Josephine,17 Dimmick,Governor,,,write-in,1
+Josephine,18 College,Governor,,,write-in,2
+Josephine,19 Jerome Prairie,Governor,,,write-in,1
+Josephine,20 Grave Creek,Governor,,,write-in,0
+Josephine,21 Cloverlawn,Governor,,,write-in,4
+Josephine,22 New Hope,Governor,,,write-in,1
+Josephine,23 Louse Creek,Governor,,,write-in,1
+Josephine,24 Allendale,Governor,,,write-in,0
+Josephine,25 Jones Creek,Governor,,,write-in,1
+Josephine,26 Board Shanty,Governor,,,write-in,0
+Josephine,27 Wolf Creek,Governor,,,write-in,0
+Josephine,28 Kerby,Governor,,,write-in,2
+Josephine,29 West Colonial,Governor,,,write-in,0
+Josephine,30 Cave Junction,Governor,,,write-in,2
+Josephine,31 Bridgeview,Governor,,,write-in,7
+Josephine,32 Mt. Peavine,Governor,,,write-in,0
+Josephine,33 Ferry,Governor,,,write-in,4
+Josephine,34 Illinois,Governor,,,write-in,0
+Josephine,35 Merlin,Governor,,,write-in,0
+Josephine,36 Findley Bend,Governor,,,write-in,4
+Josephine,37 Selma,Governor,,,write-in,3
+Josephine,38 Slate Creek,Governor,,,write-in,2
+Josephine,39 Lucky Queen,Governor,,,write-in,2
+Josephine,40 Williams,Governor,,,write-in,0
+Josephine,41 Colonial,Governor,,,write-in,0
+Josephine,42 North Valley,Governor,,,write-in,2
+Josephine,43 Pleasant Valley,Governor,,,write-in,0
+Josephine,44 Illinois River,Governor,,,write-in,1
+Josephine,45 North Applegate,Governor,,,write-in,0
+Josephine,46 Powell Creek,Governor,,,write-in,0
+Josephine,47 Crestview,Governor,,,write-in,0
+Josephine,JOSEPHINE OR,Governor,,,write-in,66
+Josephine,20 Grave Creek,State Senate,1,Dem,Shannon Souza,72
+Josephine,27 Wolf Creek,State Senate,1,Dem,Shannon Souza,136
+Josephine,32 Mt. Peavine,State Senate,1,Dem,Shannon Souza,84
+Josephine,33 Ferry,State Senate,1,Dem,Shannon Souza,208
+Josephine,34 Illinois,State Senate,1,Dem,Shannon Souza,113
+Josephine,35 Merlin,State Senate,1,Dem,Shannon Souza,209
+Josephine,39 Lucky Queen,State Senate,1,Dem,Shannon Souza,319
+Josephine,41 Colonial,State Senate,1,Dem,Shannon Souza,29
+Josephine,42 North Valley,State Senate,1,Dem,Shannon Souza,396
+Josephine,44 Illinois River,State Senate,1,Dem,Shannon Souza,60
+Josephine,JOSEPHINE OR,State Senate,1,Dem,Shannon Souza,1626
+Josephine,20 Grave Creek,State Senate,1,Rep,Dallas Heard,110
+Josephine,27 Wolf Creek,State Senate,1,Rep,Dallas Heard,236
+Josephine,32 Mt. Peavine,State Senate,1,Rep,Dallas Heard,128
+Josephine,33 Ferry,State Senate,1,Rep,Dallas Heard,337
+Josephine,34 Illinois,State Senate,1,Rep,Dallas Heard,130
+Josephine,35 Merlin,State Senate,1,Rep,Dallas Heard,434
+Josephine,39 Lucky Queen,State Senate,1,Rep,Dallas Heard,687
+Josephine,41 Colonial,State Senate,1,Rep,Dallas Heard,56
+Josephine,42 North Valley,State Senate,1,Rep,Dallas Heard,897
+Josephine,44 Illinois River,State Senate,1,Rep,Dallas Heard,79
+Josephine,JOSEPHINE OR,State Senate,1,Rep,Dallas Heard,3094
+Josephine,20 Grave Creek,State Senate,1,,write-ins,0
+Josephine,27 Wolf Creek,State Senate,1,,write-ins,0
+Josephine,32 Mt. Peavine,State Senate,1,,write-ins,0
+Josephine,33 Ferry,State Senate,1,,write-ins,2
+Josephine,34 Illinois,State Senate,1,,write-ins,0
+Josephine,35 Merlin,State Senate,1,,write-ins,1
+Josephine,39 Lucky Queen,State Senate,1,,write-ins,3
+Josephine,41 Colonial,State Senate,1,,write-ins,0
+Josephine,42 North Valley,State Senate,1,,write-ins,1
+Josephine,44 Illinois River,State Senate,1,,write-ins,1
+Josephine,JOSEPHINE OR,State Senate,1,,write-ins,8
+Josephine,20 Grave Creek,State House,1,Dem,Eldon Rollins,61
+Josephine,32 Mt. Peavine,State House,1,Dem,Eldon Rollins,69
+Josephine,33 Ferry,State House,1,Dem,Eldon Rollins,174
+Josephine,34 Illinois,State House,1,Dem,Eldon Rollins,100
+Josephine,35 Merlin,State House,1,Dem,Eldon Rollins,170
+Josephine,44 Illinois River,State House,1,Dem,Eldon Rollins,50
+Josephine,JOSEPHINE OR,State House,1,Dem,Eldon Rollins,627
+Josephine,27 Wolf Creek,State House,2,Dem,Megan Salter,144
+Josephine,39 Lucky Queen,State House,2,Dem,Megan Salter,325
+Josephine,41 Colonial,State House,2,Dem,Megan Salter,30
+Josephine,42 North Valley,State House,2,Dem,Megan Salter,392
+Josephine,JOSEPHINE OR,State House,2,Dem,Megan Salter,891
+Josephine,1 Highland,State House,3,Dem,Jerry Morgan,909
+Josephine,2 Greenwood South,State House,3,Dem,Jerry Morgan,1005
+Josephine,3 Lincoln,State House,3,Dem,Jerry Morgan,364
+Josephine,4 Central,State House,3,Dem,Jerry Morgan,358
+Josephine,5 Riverside,State House,3,Dem,Jerry Morgan,349
+Josephine,6 Webster,State House,3,Dem,Jerry Morgan,231
+Josephine,7 Greenwood,State House,3,Dem,Jerry Morgan,568
+Josephine,8 Riverside South,State House,3,Dem,Jerry Morgan,662
+Josephine,10 Robertson,State House,3,Dem,Jerry Morgan,42
+Josephine,12 River Road,State House,3,Dem,Jerry Morgan,67
+Josephine,13 Hamilton,State House,3,Dem,Jerry Morgan,48
+Josephine,14 Fort Vannoy,State House,3,Dem,Jerry Morgan,30
+Josephine,15 Redwood,State House,3,Dem,Jerry Morgan,222
+Josephine,16 Camp Joy,State House,3,Dem,Jerry Morgan,50
+Josephine,17 Dimmick,State House,3,Dem,Jerry Morgan,249
+Josephine,18 College,State House,3,Dem,Jerry Morgan,270
+Josephine,19 Jerome Prairie,State House,3,Dem,Jerry Morgan,299
+Josephine,24 Allendale,State House,3,Dem,Jerry Morgan,69
+Josephine,26 Board Shanty,State House,3,Dem,Jerry Morgan,184
+Josephine,28 Kerby,State House,3,Dem,Jerry Morgan,151
+Josephine,29 West Colonial,State House,3,Dem,Jerry Morgan,18
+Josephine,30 Cave Junction,State House,3,Dem,Jerry Morgan,274
+Josephine,31 Bridgeview,State House,3,Dem,Jerry Morgan,965
+Josephine,36 Findley Bend,State House,3,Dem,Jerry Morgan,402
+Josephine,37 Selma,State House,3,Dem,Jerry Morgan,333
+Josephine,38 Slate Creek,State House,3,Dem,Jerry Morgan,552
+Josephine,40 Williams,State House,3,Dem,Jerry Morgan,280
+Josephine,43 Pleasant Valley,State House,3,Dem,Jerry Morgan,149
+Josephine,JOSEPHINE OR,State House,3,Dem,Jerry Morgan,9100
+Josephine,1 Highland,State House,3,Rep,Carl Wilson,1788
+Josephine,2 Greenwood South,State House,3,Rep,Carl Wilson,2675
+Josephine,3 Lincoln,State House,3,Rep,Carl Wilson,847
+Josephine,4 Central,State House,3,Rep,Carl Wilson,682
+Josephine,5 Riverside,State House,3,Rep,Carl Wilson,719
+Josephine,6 Webster,State House,3,Rep,Carl Wilson,592
+Josephine,7 Greenwood,State House,3,Rep,Carl Wilson,1019
+Josephine,8 Riverside South,State House,3,Rep,Carl Wilson,1711
+Josephine,9 Scoville,State House,4,Rep,Duane Stark,57
+Josephine,10 Robertson,State House,3,Rep,Carl Wilson,107
+Josephine,11 Beacon,State House,4,Rep,Duane Stark,142
+Josephine,12 River Road,State House,3,Rep,Carl Wilson,144
+Josephine,13 Hamilton,State House,3,Rep,Carl Wilson,142
+Josephine,14 Fort Vannoy,State House,3,Rep,Carl Wilson,66
+Josephine,15 Redwood,State House,3,Rep,Carl Wilson,716
+Josephine,16 Camp Joy,State House,3,Rep,Carl Wilson,194
+Josephine,17 Dimmick,State House,3,Rep,Carl Wilson,730
+Josephine,18 College,State House,3,Rep,Carl Wilson,885
+Josephine,19 Jerome Prairie,State House,3,Rep,Carl Wilson,1048
+Josephine,20 Grave Creek,State House,1,Rep,David Brock Smith,116
+Josephine,21 Cloverlawn,State House,4,Rep,Duane Stark,1524
+Josephine,22 New Hope,State House,4,Rep,Duane Stark,554
+Josephine,23 Louse Creek,State House,4,Rep,Duane Stark,221
+Josephine,24 Allendale,State House,3,Rep,Carl Wilson,261
+Josephine,25 Jones Creek,State House,4,Rep,Duane Stark,538
+Josephine,26 Board Shanty,State House,3,Rep,Carl Wilson,495
+Josephine,27 Wolf Creek,State House,2,Rep,Gary Leif,225
+Josephine,28 Kerby,State House,3,Rep,Carl Wilson,225
+Josephine,29 West Colonial,State House,3,Rep,Carl Wilson,67
+Josephine,30 Cave Junction,State House,3,Rep,Carl Wilson,448
+Josephine,31 Bridgeview,State House,3,Rep,Carl Wilson,1166
+Josephine,32 Mt. Peavine,State House,1,Rep,David Brock Smith,137
+Josephine,33 Ferry,State House,1,Rep,David Brock Smith,365
+Josephine,34 Illinois,State House,1,Rep,David Brock Smith,133
+Josephine,35 Merlin,State House,1,Rep,David Brock Smith,461
+Josephine,36 Findley Bend,State House,3,Rep,Carl Wilson,1182
+Josephine,37 Selma,State House,3,Rep,Carl Wilson,599
+Josephine,38 Slate Creek,State House,3,Rep,Carl Wilson,1280
+Josephine,39 Lucky Queen,State House,2,Rep,Gary Leif,664
+Josephine,40 Williams,State House,3,Rep,Carl Wilson,295
+Josephine,41 Colonial,State House,2,Rep,Gary Leif,56
+Josephine,42 North Valley,State House,2,Rep,Gary Leif,874
+Josephine,43 Pleasant Valley,State House,3,Rep,Carl Wilson,485
+Josephine,44 Illinois River,State House,1,Rep,David Brock Smith,84
+Josephine,45 North Applegate,State House,4,Rep,Duane Stark,106
+Josephine,46 Powell Creek,State House,4,Rep,Duane Stark,119
+Josephine,47 Crestview,State House,4,Rep,Duane Stark,50
+Josephine,JOSEPHINE OR,State House,1,Rep,David Brock Smith,1296
+Josephine,JOSEPHINE OR,State House,2,Rep,Gary Leif,1819
+Josephine,JOSEPHINE OR,State House,3,Rep,Carl Wilson,20568
+Josephine,JOSEPHINE OR,State House,4,Rep,Duane Stark,3311
+Josephine,1 Highland,State House,3,,write-ins,9
+Josephine,2 Greenwood South,State House,3,,write-ins,10
+Josephine,3 Lincoln,State House,3,,write-ins,2
+Josephine,4 Central,State House,3,,write-ins,6
+Josephine,5 Riverside,State House,3,,write-ins,2
+Josephine,6 Webster,State House,3,,write-ins,3
+Josephine,7 Greenwood,State House,3,,write-ins,5
+Josephine,8 Riverside South,State House,3,,write-ins,4
+Josephine,9 Scoville,State House,4,,write-ins,2
+Josephine,10 Robertson,State House,3,,write-ins,0
+Josephine,11 Beacon,State House,4,,write-ins,1
+Josephine,12 River Road,State House,3,,write-ins,0
+Josephine,13 Hamilton,State House,3,,write-ins,0
+Josephine,14 Fort Vannoy,State House,3,,write-ins,1
+Josephine,15 Redwood,State House,3,,write-ins,5
+Josephine,16 Camp Joy,State House,3,,write-ins,0
+Josephine,17 Dimmick,State House,3,,write-ins,0
+Josephine,18 College,State House,3,,write-ins,2
+Josephine,19 Jerome Prairie,State House,3,,write-ins,1
+Josephine,20 Grave Creek,State House,1,,write-ins,0
+Josephine,21 Cloverlawn,State House,4,,write-ins,38
+Josephine,22 New Hope,State House,4,,write-ins,17
+Josephine,23 Louse Creek,State House,4,,write-ins,8
+Josephine,24 Allendale,State House,3,,write-ins,0
+Josephine,25 Jones Creek,State House,4,,write-ins,13
+Josephine,26 Board Shanty,State House,3,,write-ins,0
+Josephine,27 Wolf Creek,State House,2,,write-ins,1
+Josephine,28 Kerby,State House,3,,write-ins,0
+Josephine,29 West Colonial,State House,3,,write-ins,0
+Josephine,30 Cave Junction,State House,3,,write-ins,1
+Josephine,31 Bridgeview,State House,3,,write-ins,9
+Josephine,32 Mt. Peavine,State House,1,,write-ins,2
+Josephine,33 Ferry,State House,1,,write-ins,3
+Josephine,34 Illinois,State House,1,,write-ins,2
+Josephine,35 Merlin,State House,1,,write-ins,2
+Josephine,36 Findley Bend,State House,3,,write-ins,1
+Josephine,37 Selma,State House,3,,write-ins,2
+Josephine,38 Slate Creek,State House,3,,write-ins,8
+Josephine,39 Lucky Queen,State House,2,,write-ins,5
+Josephine,40 Williams,State House,3,,write-ins,5
+Josephine,41 Colonial,State House,2,,write-ins,0
+Josephine,42 North Valley,State House,2,,write-ins,10
+Josephine,43 Pleasant Valley,State House,3,,write-ins,0
+Josephine,44 Illinois River,State House,1,,write-ins,1
+Josephine,45 North Applegate,State House,4,,write-ins,2
+Josephine,46 Powell Creek,State House,4,,write-ins,4
+Josephine,47 Crestview,State House,4,,write-ins,0
+Josephine,JOSEPHINE OR,State House,1,,write-ins,10
+Josephine,JOSEPHINE OR,State House,2,,write-ins,16
+Josephine,JOSEPHINE OR,State House,3,,write-ins,76
+Josephine,JOSEPHINE OR,State House,4,,write-ins,85

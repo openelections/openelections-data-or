@@ -1,0 +1,97 @@
+county,precinct,office,district,party,candidate,votes
+Grant,JOHN DAY VALLEY,US House,2,Dem,Jamie McLeod-Skinner,525
+Grant,LONG CREEK VALLEY,US House,2,Dem,Jamie McLeod-Skinner,126
+Grant,NORTH FORK,US House,2,Dem,Jamie McLeod-Skinner,52
+Grant,SOUTHFORK,US House,2,Dem,Jamie McLeod-Skinner,44
+Grant,UNION,US House,2,Dem,Jamie McLeod-Skinner,23
+Grant,GRANT OR,US House,2,Dem,Jamie McLeod-Skinner,770
+Grant,JOHN DAY VALLEY,US House,2,Rep,Greg Walden,1865
+Grant,LONG CREEK VALLEY,US House,2,Rep,Greg Walden,477
+Grant,NORTH FORK,US House,2,Rep,Greg Walden,153
+Grant,SOUTHFORK,US House,2,Rep,Greg Walden,149
+Grant,UNION,US House,2,Rep,Greg Walden,201
+Grant,GRANT OR,US House,2,Rep,Greg Walden,2845
+Grant,JOHN DAY VALLEY,US House,2,Ind,Mark Roberts,128
+Grant,LONG CREEK VALLEY,US House,2,Ind,Mark Roberts,48
+Grant,NORTH FORK,US House,2,Ind,Mark Roberts,13
+Grant,SOUTHFORK,US House,2,Ind,Mark Roberts,11
+Grant,UNION,US House,2,Ind,Mark Roberts,17
+Grant,GRANT OR,US House,2,Ind,Mark Roberts,217
+Grant,JOHN DAY VALLEY,US House,2,,write-ins,2
+Grant,LONG CREEK VALLEY,US House,2,,write-ins,1
+Grant,NORTH FORK,US House,2,,write-ins,3
+Grant,SOUTHFORK,US House,2,,write-ins,0
+Grant,UNION,US House,2,,write-ins,1
+Grant,GRANT OR,US House,2,,write-ins,7
+Grant,JOHN DAY VALLEY,Governor,,Dem,Kate Brown,444
+Grant,LONG CREEK VALLEY,Governor,,Dem,Kate Brown,102
+Grant,NORTH FORK,Governor,,Dem,Kate Brown,40
+Grant,SOUTHFORK,Governor,,Dem,Kate Brown,33
+Grant,UNION,Governor,,Dem,Kate Brown,30
+Grant,GRANT OR,Governor,,Dem,Kate Brown,649
+Grant,JOHN DAY VALLEY,Governor,,Rep,Knute Buehler,"1,915"
+Grant,LONG CREEK VALLEY,Governor,,Rep,Knute Buehler,499
+Grant,NORTH FORK,Governor,,Rep,Knute Buehler,163
+Grant,SOUTHFORK,Governor,,Rep,Knute Buehler,151
+Grant,UNION,Governor,,Rep,Knute Buehler,195
+Grant,GRANT OR,Governor,,Rep,Knute Buehler,"2,923"
+Grant,JOHN DAY VALLEY,Governor,,Lbt,Nick Chen,26
+Grant,LONG CREEK VALLEY,Governor,,Lbt,Nick Chen,8
+Grant,NORTH FORK,Governor,,Lbt,Nick Chen,3
+Grant,SOUTHFORK,Governor,,Lbt,Nick Chen,6
+Grant,UNION,Governor,,Lbt,Nick Chen,5
+Grant,GRANT OR,Governor,,Lbt,Nick Chen,48
+Grant,JOHN DAY VALLEY,Governor,,Cst,Aaron Auer,35
+Grant,LONG CREEK VALLEY,Governor,,Cst,Aaron Auer,9
+Grant,NORTH FORK,Governor,,Cst,Aaron Auer,5
+Grant,SOUTHFORK,Governor,,Cst,Aaron Auer,2
+Grant,UNION,Governor,,Cst,Aaron Auer,5
+Grant,GRANT OR,Governor,,Cst,Aaron Auer,56
+Grant,JOHN DAY VALLEY,Governor,,Ind,Patrick Starnes,85
+Grant,LONG CREEK VALLEY,Governor,,Ind,Patrick Starnes,31
+Grant,NORTH FORK,Governor,,Ind,Patrick Starnes,11
+Grant,SOUTHFORK,Governor,,Ind,Patrick Starnes,12
+Grant,UNION,Governor,,Ind,Patrick Starnes,12
+Grant,GRANT OR,Governor,,Ind,Patrick Starnes,151
+Grant,JOHN DAY VALLEY,Governor,,Prog,Chris Henry,14
+Grant,LONG CREEK VALLEY,Governor,,Prog,Chris Henry,3
+Grant,NORTH FORK,Governor,,Prog,Chris Henry,1
+Grant,SOUTHFORK,Governor,,Prog,Chris Henry,1
+Grant,UNION,Governor,,Prog,Chris Henry,0
+Grant,GRANT OR,Governor,,Prog,Chris Henry,19
+Grant,JOHN DAY VALLEY,Governor,,,write-in,6
+Grant,LONG CREEK VALLEY,Governor,,,write-in,1
+Grant,NORTH FORK,Governor,,,write-in,0
+Grant,SOUTHFORK,Governor,,,write-in,0
+Grant,UNION,Governor,,,write-in,0
+Grant,GRANT OR,Governor,,,write-in,7
+Grant,JOHN DAY VALLEY,State Senate,30,Dem,Solea Kabakov,400
+Grant,LONG CREEK VALLEY,State Senate,30,Dem,Solea Kabakov,91
+Grant,NORTH FORK,State Senate,30,Dem,Solea Kabakov,41
+Grant,SOUTHFORK,State Senate,30,Dem,Solea Kabakov,30
+Grant,UNION,State Senate,30,Dem,Solea Kabakov,28
+Grant,GRANT OR,State Senate,30,Dem,Solea Kabakov,590
+Grant,JOHN DAY VALLEY,State Senate,30,Rep,Cliff Bentz,2048
+Grant,LONG CREEK VALLEY,State Senate,30,Rep,Cliff Bentz,531
+Grant,NORTH FORK,State Senate,30,Rep,Cliff Bentz,173
+Grant,SOUTHFORK,State Senate,30,Rep,Cliff Bentz,165
+Grant,UNION,State Senate,30,Rep,Cliff Bentz,208
+Grant,GRANT OR,State Senate,30,Rep,Cliff Bentz,3125
+Grant,JOHN DAY VALLEY,State Senate,30,,write-ins,6
+Grant,LONG CREEK VALLEY,State Senate,30,,write-ins,4
+Grant,NORTH FORK,State Senate,30,,write-ins,1
+Grant,SOUTHFORK,State Senate,30,,write-ins,0
+Grant,UNION,State Senate,30,,write-ins,1
+Grant,GRANT OR,State Senate,30,,write-ins,12
+Grant,JOHN DAY VALLEY,State House,60,Rep,Lynn Findley,"1,763"
+Grant,LONG CREEK VALLEY,State House,60,Rep,Lynn Findley,482
+Grant,NORTH FORK,State House,60,Rep,Lynn Findley,151
+Grant,SOUTH FORK,State House,60,Rep,Lynn Findley,142
+Grant,UNION,State House,60,Rep,Lynn Findley,171
+Grant,GRANT OR,State House,60,Rep,Lynn Findley,"2,709"
+Grant,JOHN DAY VALLEY,State House,60,,write-ins,37
+Grant,LONG CREEK VALLEY,State House,60,,write-ins,9
+Grant,NORTH FORK,State House,60,,write-ins,5
+Grant,SOUTH FORK,State House,60,,write-ins,2
+Grant,UNION,State House,60,,write-ins,3
+Grant,GRANT OR,State House,60,,write-ins,56
