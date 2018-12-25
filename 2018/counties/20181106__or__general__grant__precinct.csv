@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes
-Grant,JOHN DAY VALLEY,US House,2,Dem,Jamie McLeod-Skinner,525
-Grant,LONG CREEK VALLEY,US House,2,Dem,Jamie McLeod-Skinner,126
-Grant,NORTH FORK,US House,2,Dem,Jamie McLeod-Skinner,52
-Grant,SOUTHFORK,US House,2,Dem,Jamie McLeod-Skinner,44
-Grant,UNION,US House,2,Dem,Jamie McLeod-Skinner,23
-Grant,GRANT OR,US House,2,Dem,Jamie McLeod-Skinner,770
-Grant,JOHN DAY VALLEY,US House,2,Rep,Greg Walden,1865
-Grant,LONG CREEK VALLEY,US House,2,Rep,Greg Walden,477
-Grant,NORTH FORK,US House,2,Rep,Greg Walden,153
-Grant,SOUTHFORK,US House,2,Rep,Greg Walden,149
-Grant,UNION,US House,2,Rep,Greg Walden,201
-Grant,GRANT OR,US House,2,Rep,Greg Walden,2845
-Grant,JOHN DAY VALLEY,US House,2,Ind,Mark Roberts,128
-Grant,LONG CREEK VALLEY,US House,2,Ind,Mark Roberts,48
-Grant,NORTH FORK,US House,2,Ind,Mark Roberts,13
-Grant,SOUTHFORK,US House,2,Ind,Mark Roberts,11
-Grant,UNION,US House,2,Ind,Mark Roberts,17
-Grant,GRANT OR,US House,2,Ind,Mark Roberts,217
-Grant,JOHN DAY VALLEY,US House,2,,write-ins,2
-Grant,LONG CREEK VALLEY,US House,2,,write-ins,1
-Grant,NORTH FORK,US House,2,,write-ins,3
-Grant,SOUTHFORK,US House,2,,write-ins,0
-Grant,UNION,US House,2,,write-ins,1
-Grant,GRANT OR,US House,2,,write-ins,7
+Grant,JOHN DAY VALLEY,U.S. House,2,Dem,Jamie McLeod-Skinner,525
+Grant,LONG CREEK VALLEY,U.S. House,2,Dem,Jamie McLeod-Skinner,126
+Grant,NORTH FORK,U.S. House,2,Dem,Jamie McLeod-Skinner,52
+Grant,SOUTHFORK,U.S. House,2,Dem,Jamie McLeod-Skinner,44
+Grant,UNION,U.S. House,2,Dem,Jamie McLeod-Skinner,23
+Grant,GRANT OR,U.S. House,2,Dem,Jamie McLeod-Skinner,770
+Grant,JOHN DAY VALLEY,U.S. House,2,Rep,Greg Walden,1865
+Grant,LONG CREEK VALLEY,U.S. House,2,Rep,Greg Walden,477
+Grant,NORTH FORK,U.S. House,2,Rep,Greg Walden,153
+Grant,SOUTHFORK,U.S. House,2,Rep,Greg Walden,149
+Grant,UNION,U.S. House,2,Rep,Greg Walden,201
+Grant,GRANT OR,U.S. House,2,Rep,Greg Walden,2845
+Grant,JOHN DAY VALLEY,U.S. House,2,Ind,Mark Roberts,128
+Grant,LONG CREEK VALLEY,U.S. House,2,Ind,Mark Roberts,48
+Grant,NORTH FORK,U.S. House,2,Ind,Mark Roberts,13
+Grant,SOUTHFORK,U.S. House,2,Ind,Mark Roberts,11
+Grant,UNION,U.S. House,2,Ind,Mark Roberts,17
+Grant,GRANT OR,U.S. House,2,Ind,Mark Roberts,217
+Grant,JOHN DAY VALLEY,U.S. House,2,,write-ins,2
+Grant,LONG CREEK VALLEY,U.S. House,2,,write-ins,1
+Grant,NORTH FORK,U.S. House,2,,write-ins,3
+Grant,SOUTHFORK,U.S. House,2,,write-ins,0
+Grant,UNION,U.S. House,2,,write-ins,1
+Grant,GRANT OR,U.S. House,2,,write-ins,7
 Grant,JOHN DAY VALLEY,Governor,,Dem,Kate Brown,444
 Grant,LONG CREEK VALLEY,Governor,,Dem,Kate Brown,102
 Grant,NORTH FORK,Governor,,Dem,Kate Brown,40
