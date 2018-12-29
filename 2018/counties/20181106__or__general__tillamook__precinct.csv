@@ -1,550 +1,757 @@
-county,precinct,office,district,party,candidate,votes
-Tillamook,BAY,U.S. House,5,Dem,Kurt Schrader,413
-Tillamook,BEAVER,U.S. House,5,Dem,Kurt Schrader,234
-Tillamook,CARNAHAN,U.S. House,5,Dem,Kurt Schrader,104
-Tillamook,CLOVERDALE,U.S. House,5,Dem,Kurt Schrader,110
-Tillamook,EASTSIDE,U.S. House,5,Dem,Kurt Schrader,54
-Tillamook,FAIRVIEW,U.S. House,5,Dem,Kurt Schrader,427
-Tillamook,FOLEY,U.S. House,5,Dem,Kurt Schrader,204
-Tillamook,GARIBALDI,U.S. House,5,Dem,Kurt Schrader,333
-Tillamook,HEBO,U.S. House,5,Dem,Kurt Schrader,119
-Tillamook,KILCHIS,U.S. House,5,Dem,Kurt Schrader,190
-Tillamook,MAPLELEAF,U.S. House,5,Dem,Kurt Schrader,131
-Tillamook,NEHALEM,U.S. House,5,Dem,Kurt Schrader,245
-Tillamook,NESKOWIN,U.S. House,5,Dem,Kurt Schrader,306
-Tillamook,NETARTS,U.S. House,5,Dem,Kurt Schrader,369
-Tillamook,OCEANSIDE,U.S. House,5,Dem,Kurt Schrader,173
-Tillamook,PINE GROVE,U.S. House,5,Dem,Kurt Schrader,872
-Tillamook,ROCKAWAY,U.S. House,5,Dem,Kurt Schrader,543
-Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Dem,Kurt Schrader,114
-Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Dem,Kurt Schrader,109
-Tillamook,TILLAMOOK #1,U.S. House,5,Dem,Kurt Schrader,151
-Tillamook,TILLAMOOK #2,U.S. House,5,Dem,Kurt Schrader,130
-Tillamook,TILLAMOOK #3,U.S. House,5,Dem,Kurt Schrader,134
-Tillamook,TILLAMOOK #4,U.S. House,5,Dem,Kurt Schrader,120
-Tillamook,TILLAMOOK #5,U.S. House,5,Dem,Kurt Schrader,140
-Tillamook,TILLAMOOK #6,U.S. House,5,Dem,Kurt Schrader,145
-Tillamook,TRASK,U.S. House,5,Dem,Kurt Schrader,79
-Tillamook,UNION,U.S. House,5,Dem,Kurt Schrader,499
-Tillamook,WESTSIDE,U.S. House,5,Dem,Kurt Schrader,126
-Tillamook,WHEELER,U.S. House,5,Dem,Kurt Schrader,228
-Tillamook,TILLAMOOK OR,U.S. House,5,Dem,Kurt Schrader,"6,802"
-Tillamook,BAY,U.S. House,5,Rep,Mark Callahan,362
-Tillamook,BEAVER,U.S. House,5,Rep,Mark Callahan,303
-Tillamook,CARNAHAN,U.S. House,5,Rep,Mark Callahan,182
-Tillamook,CLOVERDALE,U.S. House,5,Rep,Mark Callahan,153
-Tillamook,EASTSIDE,U.S. House,5,Rep,Mark Callahan,58
-Tillamook,FAIRVIEW,U.S. House,5,Rep,Mark Callahan,536
-Tillamook,FOLEY,U.S. House,5,Rep,Mark Callahan,143
-Tillamook,GARIBALDI,U.S. House,5,Rep,Mark Callahan,266
-Tillamook,HEBO,U.S. House,5,Rep,Mark Callahan,146
-Tillamook,KILCHIS,U.S. House,5,Rep,Mark Callahan,207
-Tillamook,MAPLELEAF,U.S. House,5,Rep,Mark Callahan,231
-Tillamook,NEHALEM,U.S. House,5,Rep,Mark Callahan,123
-Tillamook,NESKOWIN,U.S. House,5,Rep,Mark Callahan,176
-Tillamook,NETARTS,U.S. House,5,Rep,Mark Callahan,258
-Tillamook,OCEANSIDE,U.S. House,5,Rep,Mark Callahan,62
-Tillamook,PINE GROVE,U.S. House,5,Rep,Mark Callahan,324
-Tillamook,ROCKAWAY,U.S. House,5,Rep,Mark Callahan,382
-Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Rep,Mark Callahan,223
-Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Rep,Mark Callahan,217
-Tillamook,TILLAMOOK #1,U.S. House,5,Rep,Mark Callahan,116
-Tillamook,TILLAMOOK #2,U.S. House,5,Rep,Mark Callahan,118
-Tillamook,TILLAMOOK #3,U.S. House,5,Rep,Mark Callahan,120
-Tillamook,TILLAMOOK #4,U.S. House,5,Rep,Mark Callahan,139
-Tillamook,TILLAMOOK #5,U.S. House,5,Rep,Mark Callahan,120
-Tillamook,TILLAMOOK #6,U.S. House,5,Rep,Mark Callahan,130
-Tillamook,TRASK,U.S. House,5,Rep,Mark Callahan,94
-Tillamook,UNION,U.S. House,5,Rep,Mark Callahan,347
-Tillamook,WESTSIDE,U.S. House,5,Rep,Mark Callahan,83
-Tillamook,WHEELER,U.S. House,5,Rep,Mark Callahan,99
-Tillamook,TILLAMOOK OR,U.S. House,5,Rep,Mark Callahan,"5,718"
-Tillamook,BAY,U.S. House,5,Lbt,Dan Souza,10
-Tillamook,BEAVER,U.S. House,5,Lbt,Dan Souza,3
-Tillamook,CARNAHAN,U.S. House,5,Lbt,Dan Souza,0
-Tillamook,CLOVERDALE,U.S. House,5,Lbt,Dan Souza,5
-Tillamook,EASTSIDE,U.S. House,5,Lbt,Dan Souza,1
-Tillamook,FAIRVIEW,U.S. House,5,Lbt,Dan Souza,16
-Tillamook,FOLEY,U.S. House,5,Lbt,Dan Souza,6
-Tillamook,GARIBALDI,U.S. House,5,Lbt,Dan Souza,11
-Tillamook,HEBO,U.S. House,5,Lbt,Dan Souza,3
-Tillamook,KILCHIS,U.S. House,5,Lbt,Dan Souza,11
-Tillamook,MAPLELEAF,U.S. House,5,Lbt,Dan Souza,2
-Tillamook,NEHALEM,U.S. House,5,Lbt,Dan Souza,8
-Tillamook,NESKOWIN,U.S. House,5,Lbt,Dan Souza,7
-Tillamook,NETARTS,U.S. House,5,Lbt,Dan Souza,12
-Tillamook,OCEANSIDE,U.S. House,5,Lbt,Dan Souza,4
-Tillamook,PINE GROVE,U.S. House,5,Lbt,Dan Souza,14
-Tillamook,ROCKAWAY,U.S. House,5,Lbt,Dan Souza,15
-Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Lbt,Dan Souza,2
-Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Lbt,Dan Souza,5
-Tillamook,TILLAMOOK #1,U.S. House,5,Lbt,Dan Souza,5
-Tillamook,TILLAMOOK #2,U.S. House,5,Lbt,Dan Souza,9
-Tillamook,TILLAMOOK #3,U.S. House,5,Lbt,Dan Souza,12
-Tillamook,TILLAMOOK #4,U.S. House,5,Lbt,Dan Souza,7
-Tillamook,TILLAMOOK #5,U.S. House,5,Lbt,Dan Souza,7
-Tillamook,TILLAMOOK #6,U.S. House,5,Lbt,Dan Souza,5
-Tillamook,TRASK,U.S. House,5,Lbt,Dan Souza,1
-Tillamook,UNION,U.S. House,5,Lbt,Dan Souza,13
-Tillamook,WESTSIDE,U.S. House,5,Lbt,Dan Souza,4
-Tillamook,WHEELER,U.S. House,5,Lbt,Dan Souza,2
-Tillamook,TILLAMOOK OR,U.S. House,5,Lbt,Dan Souza,200
-Tillamook,BAY,U.S. House,5,PG,Marvin Sandnes,12
-Tillamook,BEAVER,U.S. House,5,PG,Marvin Sandnes,7
-Tillamook,CARNAHAN,U.S. House,5,PG,Marvin Sandnes,3
-Tillamook,CLOVERDALE,U.S. House,5,PG,Marvin Sandnes,5
-Tillamook,EASTSIDE,U.S. House,5,PG,Marvin Sandnes,3
-Tillamook,FAIRVIEW,U.S. House,5,PG,Marvin Sandnes,10
-Tillamook,FOLEY,U.S. House,5,PG,Marvin Sandnes,12
-Tillamook,GARIBALDI,U.S. House,5,PG,Marvin Sandnes,4
-Tillamook,HEBO,U.S. House,5,PG,Marvin Sandnes,8
-Tillamook,KILCHIS,U.S. House,5,PG,Marvin Sandnes,5
-Tillamook,MAPLELEAF,U.S. House,5,PG,Marvin Sandnes,1
-Tillamook,NEHALEM,U.S. House,5,PG,Marvin Sandnes,4
-Tillamook,NESKOWIN,U.S. House,5,PG,Marvin Sandnes,8
-Tillamook,NETARTS,U.S. House,5,PG,Marvin Sandnes,9
-Tillamook,OCEANSIDE,U.S. House,5,PG,Marvin Sandnes,4
-Tillamook,PINE GROVE,U.S. House,5,PG,Marvin Sandnes,22
-Tillamook,ROCKAWAY,U.S. House,5,PG,Marvin Sandnes,22
-Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,PG,Marvin Sandnes,2
-Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,PG,Marvin Sandnes,1
-Tillamook,TILLAMOOK #1,U.S. House,5,PG,Marvin Sandnes,4
-Tillamook,TILLAMOOK #2,U.S. House,5,PG,Marvin Sandnes,7
-Tillamook,TILLAMOOK #3,U.S. House,5,PG,Marvin Sandnes,9
-Tillamook,TILLAMOOK #4,U.S. House,5,PG,Marvin Sandnes,3
-Tillamook,TILLAMOOK #5,U.S. House,5,PG,Marvin Sandnes,5
-Tillamook,TILLAMOOK #6,U.S. House,5,PG,Marvin Sandnes,3
-Tillamook,TRASK,U.S. House,5,PG,Marvin Sandnes,3
-Tillamook,UNION,U.S. House,5,PG,Marvin Sandnes,13
-Tillamook,WESTSIDE,U.S. House,5,PG,Marvin Sandnes,2
-Tillamook,WHEELER,U.S. House,5,PG,Marvin Sandnes,7
-Tillamook,TILLAMOOK OR,U.S. House,5,PG,Marvin Sandnes,200
-Tillamook,BAY,U.S. House,5,,write-in,0
-Tillamook,BEAVER,U.S. House,5,,write-in,0
-Tillamook,CARNAHAN,U.S. House,5,,write-in,0
-Tillamook,CLOVERDALE,U.S. House,5,,write-in,0
-Tillamook,EASTSIDE,U.S. House,5,,write-in,0
-Tillamook,FAIRVIEW,U.S. House,5,,write-in,2
-Tillamook,FOLEY,U.S. House,5,,write-in,1
-Tillamook,GARIBALDI,U.S. House,5,,write-in,0
-Tillamook,HEBO,U.S. House,5,,write-in,0
-Tillamook,KILCHIS,U.S. House,5,,write-in,0
-Tillamook,MAPLELEAF,U.S. House,5,,write-in,0
-Tillamook,NEHALEM,U.S. House,5,,write-in,1
-Tillamook,NESKOWIN,U.S. House,5,,write-in,1
-Tillamook,NETARTS,U.S. House,5,,write-in,1
-Tillamook,OCEANSIDE,U.S. House,5,,write-in,0
-Tillamook,PINE GROVE,U.S. House,5,,write-in,2
-Tillamook,ROCKAWAY,U.S. House,5,,write-in,2
-Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,,write-in,0
-Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,,write-in,1
-Tillamook,TILLAMOOK #1,U.S. House,5,,write-in,1
-Tillamook,TILLAMOOK #2,U.S. House,5,,write-in,0
-Tillamook,TILLAMOOK #3,U.S. House,5,,write-in,0
-Tillamook,TILLAMOOK #4,U.S. House,5,,write-in,0
-Tillamook,TILLAMOOK #5,U.S. House,5,,write-in,0
-Tillamook,TILLAMOOK #6,U.S. House,5,,write-in,0
-Tillamook,TRASK,U.S. House,5,,write-in,2
-Tillamook,UNION,U.S. House,5,,write-in,0
-Tillamook,WESTSIDE,U.S. House,5,,write-in,1
-Tillamook,WHEELER,U.S. House,5,,write-in,0
-Tillamook,TILLAMOOK OR,U.S. House,5,,write-in,15
-Tillamook,BAY,Governor,,Dem,Kate Brown,325
-Tillamook,BEAVER,Governor,,Dem,Kate Brown,164
-Tillamook,CARNAHAN,Governor,,Dem,Kate Brown,73
-Tillamook,CLOVERDALE,Governor,,Dem,Kate Brown,89
-Tillamook,EASTSIDE,Governor,,Dem,Kate Brown,42
-Tillamook,FAIRVIEW,Governor,,Dem,Kate Brown,305
-Tillamook,FOLEY,Governor,,Dem,Kate Brown,174
-Tillamook,GARIBALDI,Governor,,Dem,Kate Brown,288
-Tillamook,HEBO,Governor,,Dem,Kate Brown,102
-Tillamook,KILCHIS,Governor,,Dem,Kate Brown,141
-Tillamook,MAPLELEAF,Governor,,Dem,Kate Brown,85
-Tillamook,NEHALEM,Governor,,Dem,Kate Brown,229
-Tillamook,NESKOWIN,Governor,,Dem,Kate Brown,259
-Tillamook,NETARTS,Governor,,Dem,Kate Brown,327
-Tillamook,OCEANSIDE,Governor,,Dem,Kate Brown,147
-Tillamook,PINE GROVE,Governor,,Dem,Kate Brown,777
-Tillamook,ROCKAWAY,Governor,,Dem,Kate Brown,472
-Tillamook,SOUTH PRAIRIE EAST,Governor,,Dem,Kate Brown,76
-Tillamook,SOUTH PRAIRIE WEST,Governor,,Dem,Kate Brown,73
-Tillamook,TILLAMOOK #1,Governor,,Dem,Kate Brown,115
-Tillamook,TILLAMOOK #2,Governor,,Dem,Kate Brown,116
-Tillamook,TILLAMOOK #3,Governor,,Dem,Kate Brown,101
-Tillamook,TILLAMOOK #4,Governor,,Dem,Kate Brown,102
-Tillamook,TILLAMOOK #5,Governor,,Dem,Kate Brown,120
-Tillamook,TILLAMOOK #6,Governor,,Dem,Kate Brown,112
-Tillamook,TRASK,Governor,,Dem,Kate Brown,58
-Tillamook,UNION,Governor,,Dem,Kate Brown,424
-Tillamook,WESTSIDE,Governor,,Dem,Kate Brown,102
-Tillamook,WHEELER,Governor,,Dem,Kate Brown,218
-Tillamook,TILLAMOOK OR,Governor,,Dem,Kate Brown,5616
-Tillamook,BAY,Governor,,Rep,Knute Buehler,432
-Tillamook,BEAVER,Governor,,Rep,Knute Buehler,333
-Tillamook,CARNAHAN,Governor,,Rep,Knute Buehler,200
-Tillamook,CLOVERDALE,Governor,,Rep,Knute Buehler,166
-Tillamook,EASTSIDE,Governor,,Rep,Knute Buehler,63
-Tillamook,FAIRVIEW,Governor,,Rep,Knute Buehler,622
-Tillamook,FOLEY,Governor,,Rep,Knute Buehler,157
-Tillamook,GARIBALDI,Governor,,Rep,Knute Buehler,292
-Tillamook,HEBO,Governor,,Rep,Knute Buehler,169
-Tillamook,KILCHIS,Governor,,Rep,Knute Buehler,250
-Tillamook,MAPLELEAF,Governor,,Rep,Knute Buehler,272
-Tillamook,NEHALEM,Governor,,Rep,Knute Buehler,143
-Tillamook,NESKOWIN,Governor,,Rep,Knute Buehler,230
-Tillamook,NETARTS,Governor,,Rep,Knute Buehler,297
-Tillamook,OCEANSIDE,Governor,,Rep,Knute Buehler,90
-Tillamook,PINE GROVE,Governor,,Rep,Knute Buehler,416
-Tillamook,ROCKAWAY,Governor,,Rep,Knute Buehler,437
-Tillamook,SOUTH PRAIRIE EAST,Governor,,Rep,Knute Buehler,255
-Tillamook,SOUTH PRAIRIE WEST,Governor,,Rep,Knute Buehler,247
-Tillamook,TILLAMOOK #1,Governor,,Rep,Knute Buehler,125
-Tillamook,TILLAMOOK #2,Governor,,Rep,Knute Buehler,115
-Tillamook,TILLAMOOK #3,Governor,,Rep,Knute Buehler,149
-Tillamook,TILLAMOOK #4,Governor,,Rep,Knute Buehler,145
-Tillamook,TILLAMOOK #5,Governor,,Rep,Knute Buehler,137
-Tillamook,TILLAMOOK #6,Governor,,Rep,Knute Buehler,147
-Tillamook,TRASK,Governor,,Rep,Knute Buehler,109
-Tillamook,UNION,Governor,,Rep,Knute Buehler,398
-Tillamook,WESTSIDE,Governor,,Rep,Knute Buehler,106
-Tillamook,WHEELER,Governor,,Rep,Knute Buehler,104
-Tillamook,TILLAMOOK OR,Governor,,Rep,Knute Buehler,6606
-Tillamook,BAY,Governor,,Lbt,Nick Chen,6
-Tillamook,BEAVER,Governor,,Lbt,Nick Chen,3
-Tillamook,CARNAHAN,Governor,,Lbt,Nick Chen,5
-Tillamook,CLOVERDALE,Governor,,Lbt,Nick Chen,3
-Tillamook,EASTSIDE,Governor,,Lbt,Nick Chen,1
-Tillamook,FAIRVIEW,Governor,,Lbt,Nick Chen,17
-Tillamook,FOLEY,Governor,,Lbt,Nick Chen,7
-Tillamook,GARIBALDI,Governor,,Lbt,Nick Chen,4
-Tillamook,HEBO,Governor,,Lbt,Nick Chen,1
-Tillamook,KILCHIS,Governor,,Lbt,Nick Chen,8
-Tillamook,MAPLELEAF,Governor,,Lbt,Nick Chen,0
-Tillamook,NEHALEM,Governor,,Lbt,Nick Chen,3
-Tillamook,NESKOWIN,Governor,,Lbt,Nick Chen,8
-Tillamook,NETARTS,Governor,,Lbt,Nick Chen,9
-Tillamook,OCEANSIDE,Governor,,Lbt,Nick Chen,1
-Tillamook,PINE GROVE,Governor,,Lbt,Nick Chen,10
-Tillamook,ROCKAWAY,Governor,,Lbt,Nick Chen,15
-Tillamook,SOUTH PRAIRIE EAST,Governor,,Lbt,Nick Chen,0
-Tillamook,SOUTH PRAIRIE WEST,Governor,,Lbt,Nick Chen,2
-Tillamook,TILLAMOOK #1,Governor,,Lbt,Nick Chen,3
-Tillamook,TILLAMOOK #2,Governor,,Lbt,Nick Chen,9
-Tillamook,TILLAMOOK #3,Governor,,Lbt,Nick Chen,5
-Tillamook,TILLAMOOK #4,Governor,,Lbt,Nick Chen,9
-Tillamook,TILLAMOOK #5,Governor,,Lbt,Nick Chen,4
-Tillamook,TILLAMOOK #6,Governor,,Lbt,Nick Chen,8
-Tillamook,TRASK,Governor,,Lbt,Nick Chen,4
-Tillamook,UNION,Governor,,Lbt,Nick Chen,9
-Tillamook,WESTSIDE,Governor,,Lbt,Nick Chen,1
-Tillamook,WHEELER,Governor,,Lbt,Nick Chen,3
-Tillamook,TILLAMOOK OR,Governor,,Lbt,Nick Chen,158
-Tillamook,BAY,Governor,,Cst,Aaron Auer,7
-Tillamook,BEAVER,Governor,,Cst,Aaron Auer,21
-Tillamook,CARNAHAN,Governor,,Cst,Aaron Auer,8
-Tillamook,CLOVERDALE,Governor,,Cst,Aaron Auer,8
-Tillamook,EASTSIDE,Governor,,Cst,Aaron Auer,6
-Tillamook,FAIRVIEW,Governor,,Cst,Aaron Auer,23
-Tillamook,FOLEY,Governor,,Cst,Aaron Auer,3
-Tillamook,GARIBALDI,Governor,,Cst,Aaron Auer,5
-Tillamook,HEBO,Governor,,Cst,Aaron Auer,3
-Tillamook,KILCHIS,Governor,,Cst,Aaron Auer,2
-Tillamook,MAPLELEAF,Governor,,Cst,Aaron Auer,4
-Tillamook,NEHALEM,Governor,,Cst,Aaron Auer,0
-Tillamook,NESKOWIN,Governor,,Cst,Aaron Auer,1
-Tillamook,NETARTS,Governor,,Cst,Aaron Auer,9
-Tillamook,OCEANSIDE,Governor,,Cst,Aaron Auer,0
-Tillamook,PINE GROVE,Governor,,Cst,Aaron Auer,8
-Tillamook,ROCKAWAY,Governor,,Cst,Aaron Auer,8
-Tillamook,SOUTH PRAIRIE EAST,Governor,,Cst,Aaron Auer,7
-Tillamook,SOUTH PRAIRIE WEST,Governor,,Cst,Aaron Auer,11
-Tillamook,TILLAMOOK #1,Governor,,Cst,Aaron Auer,10
-Tillamook,TILLAMOOK #2,Governor,,Cst,Aaron Auer,7
-Tillamook,TILLAMOOK #3,Governor,,Cst,Aaron Auer,6
-Tillamook,TILLAMOOK #4,Governor,,Cst,Aaron Auer,5
-Tillamook,TILLAMOOK #5,Governor,,Cst,Aaron Auer,7
-Tillamook,TILLAMOOK #6,Governor,,Cst,Aaron Auer,11
-Tillamook,TRASK,Governor,,Cst,Aaron Auer,2
-Tillamook,UNION,Governor,,Cst,Aaron Auer,13
-Tillamook,WESTSIDE,Governor,,Cst,Aaron Auer,1
-Tillamook,WHEELER,Governor,,Cst,Aaron Auer,6
-Tillamook,TILLAMOOK OR,Governor,,Cst,Aaron Auer,202
-Tillamook,BAY,Governor,,Ind,Patrick Starnes,33
-Tillamook,BEAVER,Governor,,Ind,Patrick Starnes,30
-Tillamook,CARNAHAN,Governor,,Ind,Patrick Starnes,8
-Tillamook,CLOVERDALE,Governor,,Ind,Patrick Starnes,9
-Tillamook,EASTSIDE,Governor,,Ind,Patrick Starnes,6
-Tillamook,FAIRVIEW,Governor,,Ind,Patrick Starnes,23
-Tillamook,FOLEY,Governor,,Ind,Patrick Starnes,23
-Tillamook,GARIBALDI,Governor,,Ind,Patrick Starnes,35
-Tillamook,HEBO,Governor,,Ind,Patrick Starnes,6
-Tillamook,KILCHIS,Governor,,Ind,Patrick Starnes,15
-Tillamook,MAPLELEAF,Governor,,Ind,Patrick Starnes,9
-Tillamook,NEHALEM,Governor,,Ind,Patrick Starnes,11
-Tillamook,NESKOWIN,Governor,,Ind,Patrick Starnes,9
-Tillamook,NETARTS,Governor,,Ind,Patrick Starnes,11
-Tillamook,OCEANSIDE,Governor,,Ind,Patrick Starnes,3
-Tillamook,PINE GROVE,Governor,,Ind,Patrick Starnes,27
-Tillamook,ROCKAWAY,Governor,,Ind,Patrick Starnes,34
-Tillamook,SOUTH PRAIRIE EAST,Governor,,Ind,Patrick Starnes,12
-Tillamook,SOUTH PRAIRIE WEST,Governor,,Ind,Patrick Starnes,11
-Tillamook,TILLAMOOK #1,Governor,,Ind,Patrick Starnes,26
-Tillamook,TILLAMOOK #2,Governor,,Ind,Patrick Starnes,20
-Tillamook,TILLAMOOK #3,Governor,,Ind,Patrick Starnes,19
-Tillamook,TILLAMOOK #4,Governor,,Ind,Patrick Starnes,9
-Tillamook,TILLAMOOK #5,Governor,,Ind,Patrick Starnes,11
-Tillamook,TILLAMOOK #6,Governor,,Ind,Patrick Starnes,11
-Tillamook,TRASK,Governor,,Ind,Patrick Starnes,7
-Tillamook,UNION,Governor,,Ind,Patrick Starnes,31
-Tillamook,WESTSIDE,Governor,,Ind,Patrick Starnes,6
-Tillamook,WHEELER,Governor,,Ind,Patrick Starnes,9
-Tillamook,TILLAMOOK OR,Governor,,Ind,Patrick Starnes,464
-Tillamook,BAY,Governor,,Prog,Chris Henry,11
-Tillamook,BEAVER,Governor,,Prog,Chris Henry,2
-Tillamook,CARNAHAN,Governor,,Prog,Chris Henry,2
-Tillamook,CLOVERDALE,Governor,,Prog,Chris Henry,0
-Tillamook,EASTSIDE,Governor,,Prog,Chris Henry,1
-Tillamook,FAIRVIEW,Governor,,Prog,Chris Henry,5
-Tillamook,FOLEY,Governor,,Prog,Chris Henry,3
-Tillamook,GARIBALDI,Governor,,Prog,Chris Henry,6
-Tillamook,HEBO,Governor,,Prog,Chris Henry,1
-Tillamook,KILCHIS,Governor,,Prog,Chris Henry,1
-Tillamook,MAPLELEAF,Governor,,Prog,Chris Henry,2
-Tillamook,NEHALEM,Governor,,Prog,Chris Henry,1
-Tillamook,NESKOWIN,Governor,,Prog,Chris Henry,1
-Tillamook,NETARTS,Governor,,Prog,Chris Henry,2
-Tillamook,OCEANSIDE,Governor,,Prog,Chris Henry,0
-Tillamook,PINE GROVE,Governor,,Prog,Chris Henry,7
-Tillamook,ROCKAWAY,Governor,,Prog,Chris Henry,14
-Tillamook,SOUTH PRAIRIE EAST,Governor,,Prog,Chris Henry,0
-Tillamook,SOUTH PRAIRIE WEST,Governor,,Prog,Chris Henry,2
-Tillamook,TILLAMOOK #1,Governor,,Prog,Chris Henry,2
-Tillamook,TILLAMOOK #2,Governor,,Prog,Chris Henry,0
-Tillamook,TILLAMOOK #3,Governor,,Prog,Chris Henry,1
-Tillamook,TILLAMOOK #4,Governor,,Prog,Chris Henry,1
-Tillamook,TILLAMOOK #5,Governor,,Prog,Chris Henry,3
-Tillamook,TILLAMOOK #6,Governor,,Prog,Chris Henry,2
-Tillamook,TRASK,Governor,,Prog,Chris Henry,1
-Tillamook,UNION,Governor,,Prog,Chris Henry,2
-Tillamook,WESTSIDE,Governor,,Prog,Chris Henry,1
-Tillamook,WHEELER,Governor,,Prog,Chris Henry,3
-Tillamook,TILLAMOOK OR,Governor,,Prog,Chris Henry,77
-Tillamook,BAY,Governor,,,write-in,0
-Tillamook,BEAVER,Governor,,,write-in,0
-Tillamook,CARNAHAN,Governor,,,write-in,0
-Tillamook,CLOVERDALE,Governor,,,write-in,0
-Tillamook,EASTSIDE,Governor,,,write-in,0
-Tillamook,FAIRVIEW,Governor,,,write-in,4
-Tillamook,FOLEY,Governor,,,write-in,1
-Tillamook,GARIBALDI,Governor,,,write-in,0
-Tillamook,HEBO,Governor,,,write-in,1
-Tillamook,KILCHIS,Governor,,,write-in,0
-Tillamook,MAPLELEAF,Governor,,,write-in,0
-Tillamook,NEHALEM,Governor,,,write-in,0
-Tillamook,NESKOWIN,Governor,,,write-in,1
-Tillamook,NETARTS,Governor,,,write-in,1
-Tillamook,OCEANSIDE,Governor,,,write-in,0
-Tillamook,PINE GROVE,Governor,,,write-in,1
-Tillamook,ROCKAWAY,Governor,,,write-in,3
-Tillamook,SOUTH PRAIRIE EAST,Governor,,,write-in,1
-Tillamook,SOUTH PRAIRIE WEST,Governor,,,write-in,0
-Tillamook,TILLAMOOK #1,Governor,,,write-in,0
-Tillamook,TILLAMOOK #2,Governor,,,write-in,0
-Tillamook,TILLAMOOK #3,Governor,,,write-in,1
-Tillamook,TILLAMOOK #4,Governor,,,write-in,2
-Tillamook,TILLAMOOK #5,Governor,,,write-in,1
-Tillamook,TILLAMOOK #6,Governor,,,write-in,0
-Tillamook,TRASK,Governor,,,write-in,2
-Tillamook,UNION,Governor,,,write-in,0
-Tillamook,WESTSIDE,Governor,,,write-in,0
-Tillamook,WHEELER,Governor,,,write-in,0
-Tillamook,TILLAMOOK OR,Governor,,,write-in,19
-Tillamook,BAY,State Senate,16,Dem,Betsy Johnson,630
-Tillamook,EASTSIDE,State Senate,16,Dem,Betsy Johnson,96
-Tillamook,FAIRVIEW,State Senate,16,Dem,Betsy Johnson,776
-Tillamook,FOLEY,State Senate,16,Dem,Betsy Johnson,298
-Tillamook,GARIBALDI,State Senate,16,Dem,Betsy Johnson,474
-Tillamook,KILCHIS,State Senate,16,Dem,Betsy Johnson,321
-Tillamook,MAPLELEAF,State Senate,16,Dem,Betsy Johnson,306
-Tillamook,NEHALEM,State Senate,16,Dem,Betsy Johnson,307
-Tillamook,PINE GROVE,State Senate,16,Dem,Betsy Johnson,1013
-Tillamook,ROCKAWAY,State Senate,16,Dem,Betsy Johnson,721
-Tillamook,SOUTH PRAIRIE WEST,State Senate,16,Dem,Betsy Johnson,276
-Tillamook,TILLAMOOK #1,State Senate,16,Dem,Betsy Johnson,225
-Tillamook,TILLAMOOK #2,State Senate,16,Dem,Betsy Johnson,207
-Tillamook,TILLAMOOK #3,State Senate,16,Dem,Betsy Johnson,203
-Tillamook,TILLAMOOK #4,State Senate,16,Dem,Betsy Johnson,216
-Tillamook,TILLAMOOK #5,State Senate,16,Dem,Betsy Johnson,212
-Tillamook,TILLAMOOK #6,State Senate,16,Dem,Betsy Johnson,213
-Tillamook,WHEELER,State Senate,16,Dem,Betsy Johnson,253
-Tillamook,TILLAMOOK OR,State Senate,16,Dem,Betsy Johnson,6747
-Tillamook,BAY,State Senate,16,Con,Ray Biggs,139
-Tillamook,EASTSIDE,State Senate,16,Con,Ray Biggs,21
-Tillamook,FAIRVIEW,State Senate,16,Con,Ray Biggs,141
-Tillamook,FOLEY,State Senate,16,Con,Ray Biggs,48
-Tillamook,GARIBALDI,State Senate,16,Con,Ray Biggs,101
-Tillamook,KILCHIS,State Senate,16,Con,Ray Biggs,72
-Tillamook,MAPLELEAF,State Senate,16,Con,Ray Biggs,48
-Tillamook,NEHALEM,State Senate,16,Con,Ray Biggs,44
-Tillamook,PINE GROVE,State Senate,16,Con,Ray Biggs,124
-Tillamook,ROCKAWAY,State Senate,16,Con,Ray Biggs,175
-Tillamook,SOUTH PRAIRIE WEST,State Senate,16,Con,Ray Biggs,53
-Tillamook,TILLAMOOK #1,State Senate,16,Con,Ray Biggs,47
-Tillamook,TILLAMOOK #2,State Senate,16,Con,Ray Biggs,46
-Tillamook,TILLAMOOK #3,State Senate,16,Con,Ray Biggs,50
-Tillamook,TILLAMOOK #4,State Senate,16,Con,Ray Biggs,45
-Tillamook,TILLAMOOK #5,State Senate,16,Con,Ray Biggs,54
-Tillamook,TILLAMOOK #6,State Senate,16,Con,Ray Biggs,53
-Tillamook,WHEELER,State Senate,16,Con,Ray Biggs,53
-Tillamook,TILLAMOOK OR,State Senate,16,Con,Ray Biggs,1314
-Tillamook,BAY,State Senate,16,,write-in,4
-Tillamook,EASTSIDE,State Senate,16,,write-in,0
-Tillamook,FAIRVIEW,State Senate,16,,write-in,4
-Tillamook,FOLEY,State Senate,16,,write-in,5
-Tillamook,GARIBALDI,State Senate,16,,write-in,4
-Tillamook,KILCHIS,State Senate,16,,write-in,3
-Tillamook,MAPLELEAF,State Senate,16,,write-in,4
-Tillamook,NEHALEM,State Senate,16,,write-in,3
-Tillamook,PINE GROVE,State Senate,16,,write-in,7
-Tillamook,ROCKAWAY,State Senate,16,,write-in,7
-Tillamook,SOUTH PRAIRIE WEST,State Senate,16,,write-in,0
-Tillamook,TILLAMOOK #1,State Senate,16,,write-in,3
-Tillamook,TILLAMOOK #2,State Senate,16,,write-in,0
-Tillamook,TILLAMOOK #3,State Senate,16,,write-in,1
-Tillamook,TILLAMOOK #4,State Senate,16,,write-in,0
-Tillamook,TILLAMOOK #5,State Senate,16,,write-in,1
-Tillamook,TILLAMOOK #6,State Senate,16,,write-in,3
-Tillamook,WHEELER,State Senate,16,,write-in,2
-Tillamook,TILLAMOOK OR,State Senate,16,,write-in,51
-Tillamook,BAY,State House,32,Dem,Tiffiny K Mitchell,336
-Tillamook,BEAVER,State House,10,Dem,David Gomberg,203
-Tillamook,CARNAHAN,State House,10,Dem,David Gomberg,90
-Tillamook,CLOVERDALE,State House,10,Dem,David Gomberg,108
-Tillamook,EASTSIDE,State House,32,Dem,Tiffiny K Mitchell,45
-Tillamook,FAIRVIEW,State House,32,Dem,Tiffiny K Mitchell,304
-Tillamook,FOLEY,State House,32,Dem,Tiffiny K Mitchell,181
-Tillamook,GARIBALDI,State House,32,Dem,Tiffiny K Mitchell,293
-Tillamook,HEBO,State House,10,Dem,David Gomberg,118
-Tillamook,KILCHIS,State House,32,Dem,Tiffiny K Mitchell,143
-Tillamook,MAPLELEAF,State House,32,Dem,Tiffiny K Mitchell,89
-Tillamook,NEHALEM,State House,32,Dem,Tiffiny K Mitchell,226
-Tillamook,NESKOWIN,State House,10,Dem,David Gomberg,300
-Tillamook,NETARTS,State House,10,Dem,David Gomberg,363
-Tillamook,OCEANSIDE,State House,10,Dem,David Gomberg,168
-Tillamook,PINE GROVE,State House,10,Dem,David Gomberg,802
-Tillamook,ROCKAWAY,State House,32,Dem,Tiffiny K Mitchell,502
-Tillamook,SOUTH PRAIRIE EAST,State House,10,Dem,David Gomberg,97
-Tillamook,SOUTH PRAIRIE WEST,State House,32,Dem,Tiffiny K Mitchell,83
-Tillamook,TILLAMOOK #1,State House,32,Dem,Tiffiny K Mitchell,137
-Tillamook,TILLAMOOK #2,State House,32,Dem,Tiffiny K Mitchell,118
-Tillamook,TILLAMOOK #3,State House,32,Dem,Tiffiny K Mitchell,112
-Tillamook,TILLAMOOK #4,State House,32,Dem,Tiffiny K Mitchell,103
-Tillamook,TILLAMOOK #5,State House,32,Dem,Tiffiny K Mitchell,138
-Tillamook,TILLAMOOK #6,State House,32,Dem,Tiffiny K Mitchell,117
-Tillamook,TRASK,State House,10,Dem,David Gomberg,69
-Tillamook,UNION,State House,10,Dem,David Gomberg,498
-Tillamook,WESTSIDE,State House,10,Dem,David Gomberg,112
-Tillamook,WHEELER,State House,32,Dem,Tiffiny K Mitchell,208
-Tillamook,TILLAMOOK OR,State House,10,Dem,David Gomberg,2126
-Tillamook,TILLAMOOK OR,State House,32,Dem,Tiffiny K Mitchell,3937
-Tillamook,BAY,State House,32,Rep,Vineeta Lower,380
-Tillamook,BEAVER,State House,10,Rep,Thomas Donohue,339
-Tillamook,CARNAHAN,State House,10,Rep,Thomas Donohue,198
-Tillamook,CLOVERDALE,State House,10,Rep,Thomas Donohue,165
-Tillamook,EASTSIDE,State House,32,Rep,Vineeta Lower,55
-Tillamook,FAIRVIEW,State House,32,Rep,Vineeta Lower,562
-Tillamook,FOLEY,State House,32,Rep,Vineeta Lower,139
-Tillamook,GARIBALDI,State House,32,Rep,Vineeta Lower,253
-Tillamook,HEBO,State House,10,Rep,Thomas Donohue,154
-Tillamook,KILCHIS,State House,32,Rep,Vineeta Lower,227
-Tillamook,MAPLELEAF,State House,32,Rep,Vineeta Lower,247
-Tillamook,NEHALEM,State House,32,Rep,Vineeta Lower,119
-Tillamook,NESKOWIN,State House,10,Rep,Thomas Donohue,191
-Tillamook,NETARTS,State House,10,Rep,Thomas Donohue,276
-Tillamook,OCEANSIDE,State House,10,Rep,Thomas Donohue,68
-Tillamook,PINE GROVE,State House,10,Rep,Thomas Donohue,339
-Tillamook,ROCKAWAY,State House,32,Rep,Vineeta Lower,368
-Tillamook,SOUTH PRAIRIE EAST,State House,10,Rep,Thomas Donohue,233
-Tillamook,SOUTH PRAIRIE WEST,State House,32,Rep,Vineeta Lower,217
-Tillamook,TILLAMOOK #1,State House,32,Rep,Vineeta Lower,103
-Tillamook,TILLAMOOK #2,State House,32,Rep,Vineeta Lower,116
-Tillamook,TILLAMOOK #3,State House,32,Rep,Vineeta Lower,116
-Tillamook,TILLAMOOK #4,State House,32,Rep,Vineeta Lower,142
-Tillamook,TILLAMOOK #5,State House,32,Rep,Vineeta Lower,112
-Tillamook,TILLAMOOK #6,State House,32,Rep,Vineeta Lower,129
-Tillamook,TRASK,State House,10,Rep,Thomas Donohue,104
-Tillamook,UNION,State House,10,Rep,Thomas Donohue,363
-Tillamook,WESTSIDE,State House,10,Rep,Thomas Donohue,95
-Tillamook,WHEELER,State House,32,Rep,Vineeta Lower,96
-Tillamook,TILLAMOOK OR,State House,10,Rep,Thomas Donohue,2186
-Tillamook,TILLAMOOK OR,State House,32,Rep,Vineeta Lower,3720
-Tillamook,PINE GROVE,State House,32,Lbt,Randall Carlson,34
-Tillamook,BAY,State House,32,Lbt,Randall Carlson,30
-Tillamook,EASTSIDE,State House,32,Lbt,Randall Carlson,2
-Tillamook,FAIRVIEW,State House,32,Lbt,Randall Carlson,25
-Tillamook,FOLEY,State House,32,Lbt,Randall Carlson,14
-Tillamook,GARIBALDI,State House,32,Lbt,Randall Carlson,23
-Tillamook,KILCHIS,State House,32,Lbt,Randall Carlson,9
-Tillamook,MAPLELEAF,State House,32,Lbt,Randall Carlson,8
-Tillamook,NEHALEM,State House,32,Lbt,Randall Carlson,6
-Tillamook,ROCKAWAY,State House,32,Lbt,Randall Carlson,23
-Tillamook,SOUTH PRAIRIE WEST,State House,32,Lbt,Randall Carlson,8
-Tillamook,TILLAMOOK #1,State House,32,Lbt,Randall Carlson,13
-Tillamook,TILLAMOOK #2,State House,32,Lbt,Randall Carlson,10
-Tillamook,TILLAMOOK #3,State House,32,Lbt,Randall Carlson,13
-Tillamook,TILLAMOOK #4,State House,32,Lbt,Randall Carlson,6
-Tillamook,TILLAMOOK #5,State House,32,Lbt,Randall Carlson,11
-Tillamook,TILLAMOOK #6,State House,32,Lbt,Randall Carlson,11
-Tillamook,WHEELER,State House,32,Lbt,Randall Carlson,3
-Tillamook,TILLAMOOK OR,State House,32,Lbt,Randall Carlson,249
-Tillamook,BAY,State House,32,Ind,Brian Halvorsen,40
-Tillamook,EASTSIDE,State House,32,Ind,Brian Halvorsen,11
-Tillamook,FAIRVIEW,State House,32,Ind,Brian Halvorsen,39
-Tillamook,FOLEY,State House,32,Ind,Brian Halvorsen,26
-Tillamook,GARIBALDI,State House,32,Ind,Brian Halvorsen,28
-Tillamook,KILCHIS,State House,32,Ind,Brian Halvorsen,18
-Tillamook,MAPLELEAF,State House,32,Ind,Brian Halvorsen,15
-Tillamook,NEHALEM,State House,32,Ind,Brian Halvorsen,24
-Tillamook,PINE GROVE,State House,32,Ind,Brian Halvorsen,37
-Tillamook,ROCKAWAY,State House,32,Ind,Brian Halvorsen,58
-Tillamook,SOUTH PRAIRIE WEST,State House,32,Ind,Brian Halvorsen,13
-Tillamook,TILLAMOOK #1,State House,32,Ind,Brian Halvorsen,23
-Tillamook,TILLAMOOK #2,State House,32,Ind,Brian Halvorsen,16
-Tillamook,TILLAMOOK #3,State House,32,Ind,Brian Halvorsen,26
-Tillamook,TILLAMOOK #4,State House,32,Ind,Brian Halvorsen,15
-Tillamook,TILLAMOOK #5,State House,32,Ind,Brian Halvorsen,13
-Tillamook,TILLAMOOK #6,State House,32,Ind,Brian Halvorsen,15
-Tillamook,WHEELER,State House,32,Ind,Brian Halvorsen,20
-Tillamook,TILLAMOOK OR,State House,32,Ind,Brian Halvorsen,437
-Tillamook,BEAVER,State House,10,,write-in,0
-Tillamook,CARNAHAN,State House,10,,write-in,0
-Tillamook,CLOVERDALE,State House,10,,write-in,0
-Tillamook,HEBO,State House,10,,write-in,0
-Tillamook,NESKOWIN,State House,10,,write-in,0
-Tillamook,NETARTS,State House,10,,write-in,5
-Tillamook,OCEANSIDE,State House,10,,write-in,0
-Tillamook,SOUTH PRAIRIE EAST,State House,10,,write-in,0
-Tillamook,TRASK,State House,10,,write-in,0
-Tillamook,UNION,State House,10,,write-in,0
-Tillamook,WESTSIDE,State House,10,,write-in,0
-Tillamook,TILLAMOOK OR,State House,10,,write-in,0
-Tillamook,BAY,State House,32,,write-in,3
-Tillamook,EASTSIDE,State House,32,,write-in,1
-Tillamook,FAIRVIEW,State House,32,,write-in,0
-Tillamook,FOLEY,State House,32,,write-in,2
-Tillamook,GARIBALDI,State House,32,,write-in,2
-Tillamook,KILCHIS,State House,32,,write-in,0
-Tillamook,MAPLELEAF,State House,32,,write-in,0
-Tillamook,NEHALEM,State House,32,,write-in,0
-Tillamook,PINE GROVE,State House,32,,write-in,0
-Tillamook,ROCKAWAY,State House,32,,write-in,1
-Tillamook,SOUTH PRAIRIE WEST,State House,32,,write-in,0
-Tillamook,TILLAMOOK #1,State House,32,,write-in,0
-Tillamook,TILLAMOOK #2,State House,32,,write-in,2
-Tillamook,TILLAMOOK #3,State House,32,,write-in,2
-Tillamook,TILLAMOOK #4,State House,32,,write-in,0
-Tillamook,TILLAMOOK #5,State House,32,,write-in,1
-Tillamook,TILLAMOOK #6,State House,32,,write-in,0
-Tillamook,WHEELER,State House,32,,write-in,0
-Tillamook,TILLAMOOK OR,State House,32,,write-in,12
-Tillamook,TILLAMOOK OR,State House,10,,write-in,7
+county,precinct,office,district,Candidate,party,votes
+Tillamook,BAY,U.S. House,5,Mark Callahan,REP,362
+Tillamook,BEAVER,U.S. House,5,Mark Callahan,REP,303
+Tillamook,CARNAHAN,U.S. House,5,Mark Callahan,REP,182
+Tillamook,CLOVERDALE,U.S. House,5,Mark Callahan,REP,153
+Tillamook,EASTSIDE,U.S. House,5,Mark Callahan,REP,58
+Tillamook,FAIRVIEW,U.S. House,5,Mark Callahan,REP,536
+Tillamook,FOLEY,U.S. House,5,Mark Callahan,REP,143
+Tillamook,GARIBALDI,U.S. House,5,Mark Callahan,REP,266
+Tillamook,HEBO,U.S. House,5,Mark Callahan,REP,146
+Tillamook,KILCHIS,U.S. House,5,Mark Callahan,REP,207
+Tillamook,MAPLELEAF,U.S. House,5,Mark Callahan,REP,231
+Tillamook,NEHALEM,U.S. House,5,Mark Callahan,REP,123
+Tillamook,NESKOWIN,U.S. House,5,Mark Callahan,REP,176
+Tillamook,NETARTS,U.S. House,5,Mark Callahan,REP,258
+Tillamook,OCEANSIDE,U.S. House,5,Mark Callahan,REP,62
+Tillamook,PINE GROVE,U.S. House,5,Mark Callahan,REP,324
+Tillamook,ROCKAWAY,U.S. House,5,Mark Callahan,REP,382
+Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Mark Callahan,REP,223
+Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Mark Callahan,REP,217
+Tillamook,TRASK,U.S. House,5,Mark Callahan,REP,94
+Tillamook,UNION,U.S. House,5,Mark Callahan,REP,347
+Tillamook,WESTSIDE,U.S. House,5,Mark Callahan,REP,83
+Tillamook,WHEELER,U.S. House,5,Mark Callahan,REP,99
+Tillamook,TILLAMOOK #1,U.S. House,5,Mark Callahan,REP,116
+Tillamook,TILLAMOOK #2,U.S. House,5,Mark Callahan,REP,118
+Tillamook,TILLAMOOK #3,U.S. House,5,Mark Callahan,REP,120
+Tillamook,TILLAMOOK #4,U.S. House,5,Mark Callahan,REP,139
+Tillamook,TILLAMOOK #5,U.S. House,5,Mark Callahan,REP,120
+Tillamook,TILLAMOOK #6,U.S. House,5,Mark Callahan,REP,130
+Tillamook,Total,U.S. House,5,Mark Callahan,REP,5718
+Tillamook,BAY,U.S. House,5,Dan Souza,LBT,10
+Tillamook,BEAVER,U.S. House,5,Dan Souza,LBT,3
+Tillamook,CARNAHAN,U.S. House,5,Dan Souza,LBT,0
+Tillamook,CLOVERDALE,U.S. House,5,Dan Souza,LBT,5
+Tillamook,EASTSIDE,U.S. House,5,Dan Souza,LBT,1
+Tillamook,FAIRVIEW,U.S. House,5,Dan Souza,LBT,16
+Tillamook,FOLEY,U.S. House,5,Dan Souza,LBT,6
+Tillamook,GARIBALDI,U.S. House,5,Dan Souza,LBT,11
+Tillamook,HEBO,U.S. House,5,Dan Souza,LBT,3
+Tillamook,KILCHIS,U.S. House,5,Dan Souza,LBT,11
+Tillamook,MAPLELEAF,U.S. House,5,Dan Souza,LBT,2
+Tillamook,NEHALEM,U.S. House,5,Dan Souza,LBT,8
+Tillamook,NESKOWIN,U.S. House,5,Dan Souza,LBT,7
+Tillamook,NETARTS,U.S. House,5,Dan Souza,LBT,12
+Tillamook,OCEANSIDE,U.S. House,5,Dan Souza,LBT,4
+Tillamook,PINE GROVE,U.S. House,5,Dan Souza,LBT,14
+Tillamook,ROCKAWAY,U.S. House,5,Dan Souza,LBT,15
+Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Dan Souza,LBT,2
+Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Dan Souza,LBT,5
+Tillamook,TRASK,U.S. House,5,Dan Souza,LBT,1
+Tillamook,UNION,U.S. House,5,Dan Souza,LBT,13
+Tillamook,WESTSIDE,U.S. House,5,Dan Souza,LBT,4
+Tillamook,WHEELER,U.S. House,5,Dan Souza,LBT,2
+Tillamook,TILLAMOOK #1,U.S. House,5,Dan Souza,LBT,5
+Tillamook,TILLAMOOK #2,U.S. House,5,Dan Souza,LBT,9
+Tillamook,TILLAMOOK #3,U.S. House,5,Dan Souza,LBT,12
+Tillamook,TILLAMOOK #4,U.S. House,5,Dan Souza,LBT,7
+Tillamook,TILLAMOOK #5,U.S. House,5,Dan Souza,LBT,7
+Tillamook,TILLAMOOK #6,U.S. House,5,Dan Souza,LBT,5
+Tillamook,Total,U.S. House,5,Dan Souza,LBT,200
+Tillamook,BAY,U.S. House,5,Marvin Sandnes,PGP,12
+Tillamook,BEAVER,U.S. House,5,Marvin Sandnes,PGP,7
+Tillamook,CARNAHAN,U.S. House,5,Marvin Sandnes,PGP,3
+Tillamook,CLOVERDALE,U.S. House,5,Marvin Sandnes,PGP,5
+Tillamook,EASTSIDE,U.S. House,5,Marvin Sandnes,PGP,3
+Tillamook,FAIRVIEW,U.S. House,5,Marvin Sandnes,PGP,10
+Tillamook,FOLEY,U.S. House,5,Marvin Sandnes,PGP,12
+Tillamook,GARIBALDI,U.S. House,5,Marvin Sandnes,PGP,6
+Tillamook,HEBO,U.S. House,5,Marvin Sandnes,PGP,8
+Tillamook,KILCHIS,U.S. House,5,Marvin Sandnes,PGP,5
+Tillamook,MAPLELEAF,U.S. House,5,Marvin Sandnes,PGP,1
+Tillamook,NEHALEM,U.S. House,5,Marvin Sandnes,PGP,4
+Tillamook,NESKOWIN,U.S. House,5,Marvin Sandnes,PGP,8
+Tillamook,NETARTS,U.S. House,5,Marvin Sandnes,PGP,9
+Tillamook,OCEANSIDE,U.S. House,5,Marvin Sandnes,PGP,4
+Tillamook,PINE GROVE,U.S. House,5,Marvin Sandnes,PGP,22
+Tillamook,ROCKAWAY,U.S. House,5,Marvin Sandnes,PGP,22
+Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Marvin Sandnes,PGP,2
+Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Marvin Sandnes,PGP,1
+Tillamook,TRASK,U.S. House,5,Marvin Sandnes,PGP,3
+Tillamook,UNION,U.S. House,5,Marvin Sandnes,PGP,13
+Tillamook,WESTSIDE,U.S. House,5,Marvin Sandnes,PGP,2
+Tillamook,WHEELER,U.S. House,5,Marvin Sandnes,PGP,7
+Tillamook,TILLAMOOK #1,U.S. House,5,Marvin Sandnes,PGP,4
+Tillamook,TILLAMOOK #2,U.S. House,5,Marvin Sandnes,PGP,7
+Tillamook,TILLAMOOK #3,U.S. House,5,Marvin Sandnes,PGP,9
+Tillamook,TILLAMOOK #4,U.S. House,5,Marvin Sandnes,PGP,3
+Tillamook,TILLAMOOK #5,U.S. House,5,Marvin Sandnes,PGP,5
+Tillamook,TILLAMOOK #6,U.S. House,5,Marvin Sandnes,PGP,3
+Tillamook,Total,U.S. House,5,Marvin Sandnes,PGP,200
+Tillamook,BAY,U.S. House,5,Kurt Schrader,DEM,413
+Tillamook,BEAVER,U.S. House,5,Kurt Schrader,DEM,234
+Tillamook,CARNAHAN,U.S. House,5,Kurt Schrader,DEM,104
+Tillamook,CLOVERDALE,U.S. House,5,Kurt Schrader,DEM,110
+Tillamook,EASTSIDE,U.S. House,5,Kurt Schrader,DEM,54
+Tillamook,FAIRVIEW,U.S. House,5,Kurt Schrader,DEM,427
+Tillamook,FOLEY,U.S. House,5,Kurt Schrader,DEM,204
+Tillamook,GARIBALDI,U.S. House,5,Kurt Schrader,DEM,333
+Tillamook,HEBO,U.S. House,5,Kurt Schrader,DEM,119
+Tillamook,KILCHIS,U.S. House,5,Kurt Schrader,DEM,190
+Tillamook,MAPLELEAF,U.S. House,5,Kurt Schrader,DEM,131
+Tillamook,NEHALEM,U.S. House,5,Kurt Schrader,DEM,245
+Tillamook,NESKOWIN,U.S. House,5,Kurt Schrader,DEM,306
+Tillamook,NETARTS,U.S. House,5,Kurt Schrader,DEM,369
+Tillamook,OCEANSIDE,U.S. House,5,Kurt Schrader,DEM,173
+Tillamook,PINE GROVE,U.S. House,5,Kurt Schrader,DEM,872
+Tillamook,ROCKAWAY,U.S. House,5,Kurt Schrader,DEM,543
+Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Kurt Schrader,DEM,114
+Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Kurt Schrader,DEM,109
+Tillamook,TRASK,U.S. House,5,Kurt Schrader,DEM,79
+Tillamook,UNION,U.S. House,5,Kurt Schrader,DEM,499
+Tillamook,WESTSIDE,U.S. House,5,Kurt Schrader,DEM,126
+Tillamook,WHEELER,U.S. House,5,Kurt Schrader,DEM,228
+Tillamook,TILLAMOOK #1,U.S. House,5,Kurt Schrader,DEM,151
+Tillamook,TILLAMOOK #2,U.S. House,5,Kurt Schrader,DEM,130
+Tillamook,TILLAMOOK #3,U.S. House,5,Kurt Schrader,DEM,134
+Tillamook,TILLAMOOK #4,U.S. House,5,Kurt Schrader,DEM,120
+Tillamook,TILLAMOOK #5,U.S. House,5,Kurt Schrader,DEM,140
+Tillamook,TILLAMOOK #6,U.S. House,5,Kurt Schrader,DEM,145
+Tillamook,Total,U.S. House,5,Kurt Schrader,DEM,6802
+Tillamook,BAY,U.S. House,5,Write-In Totals,,0
+Tillamook,BEAVER,U.S. House,5,Write-In Totals,,0
+Tillamook,CARNAHAN,U.S. House,5,Write-In Totals,,0
+Tillamook,CLOVERDALE,U.S. House,5,Write-In Totals,,0
+Tillamook,EASTSIDE,U.S. House,5,Write-In Totals,,0
+Tillamook,FAIRVIEW,U.S. House,5,Write-In Totals,,2
+Tillamook,FOLEY,U.S. House,5,Write-In Totals,,1
+Tillamook,GARIBALDI,U.S. House,5,Write-In Totals,,0
+Tillamook,HEBO,U.S. House,5,Write-In Totals,,0
+Tillamook,KILCHIS,U.S. House,5,Write-In Totals,,0
+Tillamook,MAPLELEAF,U.S. House,5,Write-In Totals,,0
+Tillamook,NEHALEM,U.S. House,5,Write-In Totals,,1
+Tillamook,NESKOWIN,U.S. House,5,Write-In Totals,,1
+Tillamook,NETARTS,U.S. House,5,Write-In Totals,,1
+Tillamook,OCEANSIDE,U.S. House,5,Write-In Totals,,0
+Tillamook,PINE GROVE,U.S. House,5,Write-In Totals,,2
+Tillamook,ROCKAWAY,U.S. House,5,Write-In Totals,,2
+Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Write-In Totals,,0
+Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Write-In Totals,,1
+Tillamook,TRASK,U.S. House,5,Write-In Totals,,2
+Tillamook,UNION,U.S. House,5,Write-In Totals,,0
+Tillamook,WESTSIDE,U.S. House,5,Write-In Totals,,1
+Tillamook,WHEELER,U.S. House,5,Write-In Totals,,0
+Tillamook,TILLAMOOK #1,U.S. House,5,Write-In Totals,,1
+Tillamook,TILLAMOOK #2,U.S. House,5,Write-In Totals,,0
+Tillamook,TILLAMOOK #3,U.S. House,5,Write-In Totals,,0
+Tillamook,TILLAMOOK #4,U.S. House,5,Write-In Totals,,0
+Tillamook,TILLAMOOK #5,U.S. House,5,Write-In Totals,,0
+Tillamook,TILLAMOOK #6,U.S. House,5,Write-In Totals,,0
+Tillamook,Total,U.S. House,5,Write-In Totals,,15
+Tillamook,BAY,U.S. House,5,Overvotes,,0
+Tillamook,BEAVER,U.S. House,5,Overvotes,,0
+Tillamook,CARNAHAN,U.S. House,5,Overvotes,,0
+Tillamook,CLOVERDALE,U.S. House,5,Overvotes,,0
+Tillamook,EASTSIDE,U.S. House,5,Overvotes,,0
+Tillamook,FAIRVIEW,U.S. House,5,Overvotes,,0
+Tillamook,FOLEY,U.S. House,5,Overvotes,,0
+Tillamook,GARIBALDI,U.S. House,5,Overvotes,,0
+Tillamook,HEBO,U.S. House,5,Overvotes,,0
+Tillamook,KILCHIS,U.S. House,5,Overvotes,,0
+Tillamook,MAPLELEAF,U.S. House,5,Overvotes,,0
+Tillamook,NEHALEM,U.S. House,5,Overvotes,,0
+Tillamook,NESKOWIN,U.S. House,5,Overvotes,,0
+Tillamook,NETARTS,U.S. House,5,Overvotes,,0
+Tillamook,OCEANSIDE,U.S. House,5,Overvotes,,0
+Tillamook,PINE GROVE,U.S. House,5,Overvotes,,0
+Tillamook,ROCKAWAY,U.S. House,5,Overvotes,,0
+Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Overvotes,,0
+Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Overvotes,,0
+Tillamook,TRASK,U.S. House,5,Overvotes,,0
+Tillamook,UNION,U.S. House,5,Overvotes,,0
+Tillamook,WESTSIDE,U.S. House,5,Overvotes,,0
+Tillamook,WHEELER,U.S. House,5,Overvotes,,0
+Tillamook,TILLAMOOK #1,U.S. House,5,Overvotes,,1
+Tillamook,TILLAMOOK #2,U.S. House,5,Overvotes,,0
+Tillamook,TILLAMOOK #3,U.S. House,5,Overvotes,,0
+Tillamook,TILLAMOOK #4,U.S. House,5,Overvotes,,0
+Tillamook,TILLAMOOK #5,U.S. House,5,Overvotes,,1
+Tillamook,TILLAMOOK #6,U.S. House,5,Overvotes,,0
+Tillamook,Total,U.S. House,5,Overvotes,,2
+Tillamook,BAY,U.S. House,5,Undervotes,,34
+Tillamook,BEAVER,U.S. House,5,Undervotes,,15
+Tillamook,CARNAHAN,U.S. House,5,Undervotes,,14
+Tillamook,CLOVERDALE,U.S. House,5,Undervotes,,7
+Tillamook,EASTSIDE,U.S. House,5,Undervotes,,9
+Tillamook,FAIRVIEW,U.S. House,5,Undervotes,,22
+Tillamook,FOLEY,U.S. House,5,Undervotes,,7
+Tillamook,GARIBALDI,U.S. House,5,Undervotes,,22
+Tillamook,HEBO,U.S. House,5,Undervotes,,7
+Tillamook,KILCHIS,U.S. House,5,Undervotes,,10
+Tillamook,MAPLELEAF,U.S. House,5,Undervotes,,16
+Tillamook,NEHALEM,U.S. House,5,Undervotes,,15
+Tillamook,NESKOWIN,U.S. House,5,Undervotes,,16
+Tillamook,NETARTS,U.S. House,5,Undervotes,,19
+Tillamook,OCEANSIDE,U.S. House,5,Undervotes,,5
+Tillamook,PINE GROVE,U.S. House,5,Undervotes,,36
+Tillamook,ROCKAWAY,U.S. House,5,Undervotes,,32
+Tillamook,SOUTH PRAIRIE WEST,U.S. House,5,Undervotes,,14
+Tillamook,SOUTH PRAIRIE EAST,U.S. House,5,Undervotes,,19
+Tillamook,TRASK,U.S. House,5,Undervotes,,6
+Tillamook,UNION,U.S. House,5,Undervotes,,23
+Tillamook,WESTSIDE,U.S. House,5,Undervotes,,5
+Tillamook,WHEELER,U.S. House,5,Undervotes,,12
+Tillamook,TILLAMOOK #1,U.S. House,5,Undervotes,,12
+Tillamook,TILLAMOOK #2,U.S. House,5,Undervotes,,5
+Tillamook,TILLAMOOK #3,U.S. House,5,Undervotes,,12
+Tillamook,TILLAMOOK #4,U.S. House,5,Undervotes,,8
+Tillamook,TILLAMOOK #5,U.S. House,5,Undervotes,,17
+Tillamook,TILLAMOOK #6,U.S. House,5,Undervotes,,11
+Tillamook,Total,U.S. House,5,Undervotes,,430
+Tillamook,BAY,Governor,,Aaron Auer,CON,7
+Tillamook,BEAVER,Governor,,Aaron Auer,CON,21
+Tillamook,CARNAHAN,Governor,,Aaron Auer,CON,8
+Tillamook,CLOVERDALE,Governor,,Aaron Auer,CON,8
+Tillamook,EASTSIDE,Governor,,Aaron Auer,CON,6
+Tillamook,FAIRVIEW,Governor,,Aaron Auer,CON,23
+Tillamook,FOLEY,Governor,,Aaron Auer,CON,3
+Tillamook,GARIBALDI,Governor,,Aaron Auer,CON,5
+Tillamook,HEBO,Governor,,Aaron Auer,CON,3
+Tillamook,KILCHIS,Governor,,Aaron Auer,CON,2
+Tillamook,MAPLELEAF,Governor,,Aaron Auer,CON,4
+Tillamook,NEHALEM,Governor,,Aaron Auer,CON,0
+Tillamook,NESKOWIN,Governor,,Aaron Auer,CON,1
+Tillamook,NETARTS,Governor,,Aaron Auer,CON,9
+Tillamook,OCEANSIDE,Governor,,Aaron Auer,CON,0
+Tillamook,PINE GROVE,Governor,,Aaron Auer,CON,8
+Tillamook,ROCKAWAY,Governor,,Aaron Auer,CON,8
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Aaron Auer,CON,7
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Aaron Auer,CON,11
+Tillamook,TRASK,Governor,,Aaron Auer,CON,2
+Tillamook,UNION,Governor,,Aaron Auer,CON,13
+Tillamook,WESTSIDE,Governor,,Aaron Auer,CON,1
+Tillamook,WHEELER,Governor,,Aaron Auer,CON,6
+Tillamook,TILLAMOOK #1,Governor,,Aaron Auer,CON,10
+Tillamook,TILLAMOOK #2,Governor,,Aaron Auer,CON,7
+Tillamook,TILLAMOOK #3,Governor,,Aaron Auer,CON,6
+Tillamook,TILLAMOOK #4,Governor,,Aaron Auer,CON,5
+Tillamook,TILLAMOOK #5,Governor,,Aaron Auer,CON,7
+Tillamook,TILLAMOOK #6,Governor,,Aaron Auer,CON,11
+Tillamook,Total,Governor,,Aaron Auer,CON,202
+Tillamook,BAY,Governor,,Nick Chen,LBT,6
+Tillamook,BEAVER,Governor,,Nick Chen,LBT,3
+Tillamook,CARNAHAN,Governor,,Nick Chen,LBT,5
+Tillamook,CLOVERDALE,Governor,,Nick Chen,LBT,3
+Tillamook,EASTSIDE,Governor,,Nick Chen,LBT,1
+Tillamook,FAIRVIEW,Governor,,Nick Chen,LBT,17
+Tillamook,FOLEY,Governor,,Nick Chen,LBT,7
+Tillamook,GARIBALDI,Governor,,Nick Chen,LBT,4
+Tillamook,HEBO,Governor,,Nick Chen,LBT,1
+Tillamook,KILCHIS,Governor,,Nick Chen,LBT,8
+Tillamook,MAPLELEAF,Governor,,Nick Chen,LBT,0
+Tillamook,NEHALEM,Governor,,Nick Chen,LBT,3
+Tillamook,NESKOWIN,Governor,,Nick Chen,LBT,8
+Tillamook,NETARTS,Governor,,Nick Chen,LBT,9
+Tillamook,OCEANSIDE,Governor,,Nick Chen,LBT,1
+Tillamook,PINE GROVE,Governor,,Nick Chen,LBT,10
+Tillamook,ROCKAWAY,Governor,,Nick Chen,LBT,15
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Nick Chen,LBT,0
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Nick Chen,LBT,2
+Tillamook,TRASK,Governor,,Nick Chen,LBT,4
+Tillamook,UNION,Governor,,Nick Chen,LBT,9
+Tillamook,WESTSIDE,Governor,,Nick Chen,LBT,1
+Tillamook,WHEELER,Governor,,Nick Chen,LBT,3
+Tillamook,TILLAMOOK #1,Governor,,Nick Chen,LBT,3
+Tillamook,TILLAMOOK #2,Governor,,Nick Chen,LBT,9
+Tillamook,TILLAMOOK #3,Governor,,Nick Chen,LBT,5
+Tillamook,TILLAMOOK #4,Governor,,Nick Chen,LBT,9
+Tillamook,TILLAMOOK #5,Governor,,Nick Chen,LBT,4
+Tillamook,TILLAMOOK #6,Governor,,Nick Chen,LBT,8
+Tillamook,Total,Governor,,Nick Chen,LBT,158
+Tillamook,BAY,Governor,,Kate Brown,DEM,325
+Tillamook,BEAVER,Governor,,Kate Brown,DEM,164
+Tillamook,CARNAHAN,Governor,,Kate Brown,DEM,73
+Tillamook,CLOVERDALE,Governor,,Kate Brown,DEM,89
+Tillamook,EASTSIDE,Governor,,Kate Brown,DEM,42
+Tillamook,FAIRVIEW,Governor,,Kate Brown,DEM,305
+Tillamook,FOLEY,Governor,,Kate Brown,DEM,174
+Tillamook,GARIBALDI,Governor,,Kate Brown,DEM,288
+Tillamook,HEBO,Governor,,Kate Brown,DEM,102
+Tillamook,KILCHIS,Governor,,Kate Brown,DEM,141
+Tillamook,MAPLELEAF,Governor,,Kate Brown,DEM,85
+Tillamook,NEHALEM,Governor,,Kate Brown,DEM,229
+Tillamook,NESKOWIN,Governor,,Kate Brown,DEM,259
+Tillamook,NETARTS,Governor,,Kate Brown,DEM,327
+Tillamook,OCEANSIDE,Governor,,Kate Brown,DEM,147
+Tillamook,PINE GROVE,Governor,,Kate Brown,DEM,777
+Tillamook,ROCKAWAY,Governor,,Kate Brown,DEM,472
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Kate Brown,DEM,76
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Kate Brown,DEM,73
+Tillamook,TRASK,Governor,,Kate Brown,DEM,58
+Tillamook,UNION,Governor,,Kate Brown,DEM,424
+Tillamook,WESTSIDE,Governor,,Kate Brown,DEM,102
+Tillamook,WHEELER,Governor,,Kate Brown,DEM,218
+Tillamook,TILLAMOOK #1,Governor,,Kate Brown,DEM,115
+Tillamook,TILLAMOOK #2,Governor,,Kate Brown,DEM,116
+Tillamook,TILLAMOOK #3,Governor,,Kate Brown,DEM,101
+Tillamook,TILLAMOOK #4,Governor,,Kate Brown,DEM,102
+Tillamook,TILLAMOOK #5,Governor,,Kate Brown,DEM,120
+Tillamook,TILLAMOOK #6,Governor,,Kate Brown,DEM,112
+Tillamook,Total,Governor,,Kate Brown,DEM,5616
+Tillamook,BAY,Governor,,Knute Buehler,REP,432
+Tillamook,BEAVER,Governor,,Knute Buehler,REP,333
+Tillamook,CARNAHAN,Governor,,Knute Buehler,REP,200
+Tillamook,CLOVERDALE,Governor,,Knute Buehler,REP,166
+Tillamook,EASTSIDE,Governor,,Knute Buehler,REP,63
+Tillamook,FAIRVIEW,Governor,,Knute Buehler,REP,622
+Tillamook,FOLEY,Governor,,Knute Buehler,REP,157
+Tillamook,GARIBALDI,Governor,,Knute Buehler,REP,292
+Tillamook,HEBO,Governor,,Knute Buehler,REP,169
+Tillamook,KILCHIS,Governor,,Knute Buehler,REP,250
+Tillamook,MAPLELEAF,Governor,,Knute Buehler,REP,272
+Tillamook,NEHALEM,Governor,,Knute Buehler,REP,143
+Tillamook,NESKOWIN,Governor,,Knute Buehler,REP,230
+Tillamook,NETARTS,Governor,,Knute Buehler,REP,297
+Tillamook,OCEANSIDE,Governor,,Knute Buehler,REP,90
+Tillamook,PINE GROVE,Governor,,Knute Buehler,REP,416
+Tillamook,ROCKAWAY,Governor,,Knute Buehler,REP,437
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Knute Buehler,REP,255
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Knute Buehler,REP,247
+Tillamook,TRASK,Governor,,Knute Buehler,REP,109
+Tillamook,UNION,Governor,,Knute Buehler,REP,398
+Tillamook,WESTSIDE,Governor,,Knute Buehler,REP,106
+Tillamook,WHEELER,Governor,,Knute Buehler,REP,104
+Tillamook,TILLAMOOK #1,Governor,,Knute Buehler,REP,125
+Tillamook,TILLAMOOK #2,Governor,,Knute Buehler,REP,115
+Tillamook,TILLAMOOK #3,Governor,,Knute Buehler,REP,149
+Tillamook,TILLAMOOK #4,Governor,,Knute Buehler,REP,145
+Tillamook,TILLAMOOK #5,Governor,,Knute Buehler,REP,137
+Tillamook,TILLAMOOK #6,Governor,,Knute Buehler,REP,147
+Tillamook,Total,Governor,,Knute Buehler,REP,6606
+Tillamook,BAY,Governor,,Patrick Starnes,IND,33
+Tillamook,BEAVER,Governor,,Patrick Starnes,IND,30
+Tillamook,CARNAHAN,Governor,,Patrick Starnes,IND,8
+Tillamook,CLOVERDALE,Governor,,Patrick Starnes,IND,9
+Tillamook,EASTSIDE,Governor,,Patrick Starnes,IND,6
+Tillamook,FAIRVIEW,Governor,,Patrick Starnes,IND,23
+Tillamook,FOLEY,Governor,,Patrick Starnes,IND,23
+Tillamook,GARIBALDI,Governor,,Patrick Starnes,IND,35
+Tillamook,HEBO,Governor,,Patrick Starnes,IND,6
+Tillamook,KILCHIS,Governor,,Patrick Starnes,IND,15
+Tillamook,MAPLELEAF,Governor,,Patrick Starnes,IND,9
+Tillamook,NEHALEM,Governor,,Patrick Starnes,IND,11
+Tillamook,NESKOWIN,Governor,,Patrick Starnes,IND,9
+Tillamook,NETARTS,Governor,,Patrick Starnes,IND,11
+Tillamook,OCEANSIDE,Governor,,Patrick Starnes,IND,3
+Tillamook,PINE GROVE,Governor,,Patrick Starnes,IND,27
+Tillamook,ROCKAWAY,Governor,,Patrick Starnes,IND,34
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Patrick Starnes,IND,12
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Patrick Starnes,IND,11
+Tillamook,TRASK,Governor,,Patrick Starnes,IND,7
+Tillamook,UNION,Governor,,Patrick Starnes,IND,31
+Tillamook,WESTSIDE,Governor,,Patrick Starnes,IND,6
+Tillamook,WHEELER,Governor,,Patrick Starnes,IND,9
+Tillamook,TILLAMOOK #1,Governor,,Patrick Starnes,IND,26
+Tillamook,TILLAMOOK #2,Governor,,Patrick Starnes,IND,20
+Tillamook,TILLAMOOK #3,Governor,,Patrick Starnes,IND,19
+Tillamook,TILLAMOOK #4,Governor,,Patrick Starnes,IND,9
+Tillamook,TILLAMOOK #5,Governor,,Patrick Starnes,IND,11
+Tillamook,TILLAMOOK #6,Governor,,Patrick Starnes,IND,11
+Tillamook,Total,Governor,,Patrick Starnes,IND,464
+Tillamook,BAY,Governor,,Chris Henry,PRO,11
+Tillamook,BEAVER,Governor,,Chris Henry,PRO,2
+Tillamook,CARNAHAN,Governor,,Chris Henry,PRO,2
+Tillamook,CLOVERDALE,Governor,,Chris Henry,PRO,0
+Tillamook,EASTSIDE,Governor,,Chris Henry,PRO,1
+Tillamook,FAIRVIEW,Governor,,Chris Henry,PRO,5
+Tillamook,FOLEY,Governor,,Chris Henry,PRO,3
+Tillamook,GARIBALDI,Governor,,Chris Henry,PRO,6
+Tillamook,HEBO,Governor,,Chris Henry,PRO,1
+Tillamook,KILCHIS,Governor,,Chris Henry,PRO,1
+Tillamook,MAPLELEAF,Governor,,Chris Henry,PRO,2
+Tillamook,NEHALEM,Governor,,Chris Henry,PRO,1
+Tillamook,NESKOWIN,Governor,,Chris Henry,PRO,1
+Tillamook,NETARTS,Governor,,Chris Henry,PRO,2
+Tillamook,OCEANSIDE,Governor,,Chris Henry,PRO,0
+Tillamook,PINE GROVE,Governor,,Chris Henry,PRO,7
+Tillamook,ROCKAWAY,Governor,,Chris Henry,PRO,14
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Chris Henry,PRO,0
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Chris Henry,PRO,2
+Tillamook,TRASK,Governor,,Chris Henry,PRO,1
+Tillamook,UNION,Governor,,Chris Henry,PRO,2
+Tillamook,WESTSIDE,Governor,,Chris Henry,PRO,1
+Tillamook,WHEELER,Governor,,Chris Henry,PRO,3
+Tillamook,TILLAMOOK #1,Governor,,Chris Henry,PRO,2
+Tillamook,TILLAMOOK #2,Governor,,Chris Henry,PRO,0
+Tillamook,TILLAMOOK #3,Governor,,Chris Henry,PRO,1
+Tillamook,TILLAMOOK #4,Governor,,Chris Henry,PRO,1
+Tillamook,TILLAMOOK #5,Governor,,Chris Henry,PRO,3
+Tillamook,TILLAMOOK #6,Governor,,Chris Henry,PRO,2
+Tillamook,Total,Governor,,Chris Henry,PRO,77
+Tillamook,BAY,Governor,,Write-In Totals,,0
+Tillamook,BEAVER,Governor,,Write-In Totals,,0
+Tillamook,CARNAHAN,Governor,,Write-In Totals,,0
+Tillamook,CLOVERDALE,Governor,,Write-In Totals,,0
+Tillamook,EASTSIDE,Governor,,Write-In Totals,,0
+Tillamook,FAIRVIEW,Governor,,Write-In Totals,,4
+Tillamook,FOLEY,Governor,,Write-In Totals,,1
+Tillamook,GARIBALDI,Governor,,Write-In Totals,,0
+Tillamook,HEBO,Governor,,Write-In Totals,,1
+Tillamook,KILCHIS,Governor,,Write-In Totals,,0
+Tillamook,MAPLELEAF,Governor,,Write-In Totals,,0
+Tillamook,NEHALEM,Governor,,Write-In Totals,,0
+Tillamook,NESKOWIN,Governor,,Write-In Totals,,1
+Tillamook,NETARTS,Governor,,Write-In Totals,,1
+Tillamook,OCEANSIDE,Governor,,Write-In Totals,,0
+Tillamook,PINE GROVE,Governor,,Write-In Totals,,1
+Tillamook,ROCKAWAY,Governor,,Write-In Totals,,3
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Write-In Totals,,1
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Write-In Totals,,0
+Tillamook,TRASK,Governor,,Write-In Totals,,2
+Tillamook,UNION,Governor,,Write-In Totals,,0
+Tillamook,WESTSIDE,Governor,,Write-In Totals,,0
+Tillamook,WHEELER,Governor,,Write-In Totals,,0
+Tillamook,TILLAMOOK #1,Governor,,Write-In Totals,,0
+Tillamook,TILLAMOOK #2,Governor,,Write-In Totals,,0
+Tillamook,TILLAMOOK #3,Governor,,Write-In Totals,,1
+Tillamook,TILLAMOOK #4,Governor,,Write-In Totals,,2
+Tillamook,TILLAMOOK #5,Governor,,Write-In Totals,,1
+Tillamook,TILLAMOOK #6,Governor,,Write-In Totals,,0
+Tillamook,Total,Governor,,Write-In Totals,,19
+Tillamook,BAY,Governor,,Overvotes,,0
+Tillamook,BEAVER,Governor,,Overvotes,,0
+Tillamook,CARNAHAN,Governor,,Overvotes,,0
+Tillamook,CLOVERDALE,Governor,,Overvotes,,0
+Tillamook,EASTSIDE,Governor,,Overvotes,,0
+Tillamook,FAIRVIEW,Governor,,Overvotes,,1
+Tillamook,FOLEY,Governor,,Overvotes,,0
+Tillamook,GARIBALDI,Governor,,Overvotes,,0
+Tillamook,HEBO,Governor,,Overvotes,,0
+Tillamook,KILCHIS,Governor,,Overvotes,,0
+Tillamook,MAPLELEAF,Governor,,Overvotes,,0
+Tillamook,NEHALEM,Governor,,Overvotes,,0
+Tillamook,NESKOWIN,Governor,,Overvotes,,0
+Tillamook,NETARTS,Governor,,Overvotes,,0
+Tillamook,OCEANSIDE,Governor,,Overvotes,,0
+Tillamook,PINE GROVE,Governor,,Overvotes,,0
+Tillamook,ROCKAWAY,Governor,,Overvotes,,0
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Overvotes,,0
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Overvotes,,0
+Tillamook,TRASK,Governor,,Overvotes,,0
+Tillamook,UNION,Governor,,Overvotes,,0
+Tillamook,WESTSIDE,Governor,,Overvotes,,0
+Tillamook,WHEELER,Governor,,Overvotes,,0
+Tillamook,TILLAMOOK #1,Governor,,Overvotes,,1
+Tillamook,TILLAMOOK #2,Governor,,Overvotes,,0
+Tillamook,TILLAMOOK #3,Governor,,Overvotes,,0
+Tillamook,TILLAMOOK #4,Governor,,Overvotes,,0
+Tillamook,TILLAMOOK #5,Governor,,Overvotes,,1
+Tillamook,TILLAMOOK #6,Governor,,Overvotes,,0
+Tillamook,Total,Governor,,Overvotes,,3
+Tillamook,BAY,Governor,,Undervotes,,17
+Tillamook,BEAVER,Governor,,Undervotes,,9
+Tillamook,CARNAHAN,Governor,,Undervotes,,7
+Tillamook,CLOVERDALE,Governor,,Undervotes,,5
+Tillamook,EASTSIDE,Governor,,Undervotes,,6
+Tillamook,FAIRVIEW,Governor,,Undervotes,,13
+Tillamook,FOLEY,Governor,,Undervotes,,5
+Tillamook,GARIBALDI,Governor,,Undervotes,,8
+Tillamook,HEBO,Governor,,Undervotes,,0
+Tillamook,KILCHIS,Governor,,Undervotes,,6
+Tillamook,MAPLELEAF,Governor,,Undervotes,,9
+Tillamook,NEHALEM,Governor,,Undervotes,,9
+Tillamook,NESKOWIN,Governor,,Undervotes,,5
+Tillamook,NETARTS,Governor,,Undervotes,,12
+Tillamook,OCEANSIDE,Governor,,Undervotes,,7
+Tillamook,PINE GROVE,Governor,,Undervotes,,24
+Tillamook,ROCKAWAY,Governor,,Undervotes,,13
+Tillamook,SOUTH PRAIRIE WEST,Governor,,Undervotes,,4
+Tillamook,SOUTH PRAIRIE EAST,Governor,,Undervotes,,6
+Tillamook,TRASK,Governor,,Undervotes,,2
+Tillamook,UNION,Governor,,Undervotes,,18
+Tillamook,WESTSIDE,Governor,,Undervotes,,4
+Tillamook,WHEELER,Governor,,Undervotes,,5
+Tillamook,TILLAMOOK #1,Governor,,Undervotes,,8
+Tillamook,TILLAMOOK #2,Governor,,Undervotes,,2
+Tillamook,TILLAMOOK #3,Governor,,Undervotes,,5
+Tillamook,TILLAMOOK #4,Governor,,Undervotes,,4
+Tillamook,TILLAMOOK #5,Governor,,Undervotes,,6
+Tillamook,TILLAMOOK #6,Governor,,Undervotes,,3
+Tillamook,Total,Governor,,Undervotes,,222
+Tillamook,BAY,State Senate,16,Betsy Johnson,DEM,630
+Tillamook,EASTSIDE,State Senate,16,Betsy Johnson,DEM,96
+Tillamook,FAIRVIEW,State Senate,16,Betsy Johnson,DEM,776
+Tillamook,FOLEY,State Senate,16,Betsy Johnson,DEM,298
+Tillamook,GARIBALDI,State Senate,16,Betsy Johnson,DEM,474
+Tillamook,KILCHIS,State Senate,16,Betsy Johnson,DEM,321
+Tillamook,MAPLELEAF,State Senate,16,Betsy Johnson,DEM,306
+Tillamook,NEHALEM,State Senate,16,Betsy Johnson,DEM,307
+Tillamook,PINE GROVE,State Senate,16,Betsy Johnson,DEM,"1,013"
+Tillamook,ROCKAWAY,State Senate,16,Betsy Johnson,DEM,721
+Tillamook,SOUTH PRAIRIE EAST,State Senate,16,Betsy Johnson,DEM,276
+Tillamook,WHEELER,State Senate,16,Betsy Johnson,DEM,253
+Tillamook,TILLAMOOK #1,State Senate,16,Betsy Johnson,DEM,225
+Tillamook,TILLAMOOK #2,State Senate,16,Betsy Johnson,DEM,207
+Tillamook,TILLAMOOK #3,State Senate,16,Betsy Johnson,DEM,203
+Tillamook,TILLAMOOK #4,State Senate,16,Betsy Johnson,DEM,216
+Tillamook,TILLAMOOK #5,State Senate,16,Betsy Johnson,DEM,212
+Tillamook,TILLAMOOK #6,State Senate,16,Betsy Johnson,DEM,213
+Tillamook,Total,State Senate,16,Betsy Johnson,DEM,6747
+Tillamook,BAY,State Senate,16,Ray Biggs,CON,139
+Tillamook,EASTSIDE,State Senate,16,Ray Biggs,CON,21
+Tillamook,FAIRVIEW,State Senate,16,Ray Biggs,CON,141
+Tillamook,FOLEY,State Senate,16,Ray Biggs,CON,48
+Tillamook,GARIBALDI,State Senate,16,Ray Biggs,CON,101
+Tillamook,KILCHIS,State Senate,16,Ray Biggs,CON,72
+Tillamook,MAPLELEAF,State Senate,16,Ray Biggs,CON,48
+Tillamook,NEHALEM,State Senate,16,Ray Biggs,CON,44
+Tillamook,PINE GROVE,State Senate,16,Ray Biggs,CON,124
+Tillamook,ROCKAWAY,State Senate,16,Ray Biggs,CON,175
+Tillamook,SOUTH PRAIRIE EAST,State Senate,16,Ray Biggs,CON,53
+Tillamook,WHEELER,State Senate,16,Ray Biggs,CON,53
+Tillamook,TILLAMOOK #1,State Senate,16,Ray Biggs,CON,47
+Tillamook,TILLAMOOK #2,State Senate,16,Ray Biggs,CON,46
+Tillamook,TILLAMOOK #3,State Senate,16,Ray Biggs,CON,50
+Tillamook,TILLAMOOK #4,State Senate,16,Ray Biggs,CON,45
+Tillamook,TILLAMOOK #5,State Senate,16,Ray Biggs,CON,54
+Tillamook,TILLAMOOK #6,State Senate,16,Ray Biggs,CON,53
+Tillamook,Total,State Senate,16,Ray Biggs,CON,1314
+Tillamook,BAY,State Senate,16,Write-In Totals,,4
+Tillamook,EASTSIDE,State Senate,16,Write-In Totals,,0
+Tillamook,FAIRVIEW,State Senate,16,Write-In Totals,,4
+Tillamook,FOLEY,State Senate,16,Write-In Totals,,5
+Tillamook,GARIBALDI,State Senate,16,Write-In Totals,,4
+Tillamook,KILCHIS,State Senate,16,Write-In Totals,,3
+Tillamook,MAPLELEAF,State Senate,16,Write-In Totals,,4
+Tillamook,NEHALEM,State Senate,16,Write-In Totals,,3
+Tillamook,PINE GROVE,State Senate,16,Write-In Totals,,7
+Tillamook,ROCKAWAY,State Senate,16,Write-In Totals,,7
+Tillamook,SOUTH PRAIRIE EAST,State Senate,16,Write-In Totals,,0
+Tillamook,WHEELER,State Senate,16,Write-In Totals,,2
+Tillamook,TILLAMOOK #1,State Senate,16,Write-In Totals,,3
+Tillamook,TILLAMOOK #2,State Senate,16,Write-In Totals,,0
+Tillamook,TILLAMOOK #3,State Senate,16,Write-In Totals,,1
+Tillamook,TILLAMOOK #4,State Senate,16,Write-In Totals,,0
+Tillamook,TILLAMOOK #5,State Senate,16,Write-In Totals,,1
+Tillamook,TILLAMOOK #6,State Senate,16,Write-In Totals,,3
+Tillamook,Total,State Senate,16,Write-In Totals,,51
+Tillamook,BAY,State Senate,16,Overvotes,,0
+Tillamook,EASTSIDE,State Senate,16,Overvotes,,0
+Tillamook,FAIRVIEW,State Senate,16,Overvotes,,0
+Tillamook,FOLEY,State Senate,16,Overvotes,,0
+Tillamook,GARIBALDI,State Senate,16,Overvotes,,0
+Tillamook,KILCHIS,State Senate,16,Overvotes,,0
+Tillamook,MAPLELEAF,State Senate,16,Overvotes,,1
+Tillamook,NEHALEM,State Senate,16,Overvotes,,0
+Tillamook,PINE GROVE,State Senate,16,Overvotes,,0
+Tillamook,ROCKAWAY,State Senate,16,Overvotes,,0
+Tillamook,SOUTH PRAIRIE EAST,State Senate,16,Overvotes,,0
+Tillamook,WHEELER,State Senate,16,Overvotes,,0
+Tillamook,TILLAMOOK #1,State Senate,16,Overvotes,,1
+Tillamook,TILLAMOOK #2,State Senate,16,Overvotes,,0
+Tillamook,TILLAMOOK #3,State Senate,16,Overvotes,,0
+Tillamook,TILLAMOOK #4,State Senate,16,Overvotes,,0
+Tillamook,TILLAMOOK #5,State Senate,16,Overvotes,,0
+Tillamook,TILLAMOOK #6,State Senate,16,Overvotes,,0
+Tillamook,Total,State Senate,16,Overvotes,,2
+Tillamook,BAY,State Senate,16,Undervotes,,58
+Tillamook,EASTSIDE,State Senate,16,Undervotes,,8
+Tillamook,FAIRVIEW,State Senate,16,Undervotes,,92
+Tillamook,FOLEY,State Senate,16,Undervotes,,22
+Tillamook,GARIBALDI,State Senate,16,Undervotes,,59
+Tillamook,KILCHIS,State Senate,16,Undervotes,,27
+Tillamook,MAPLELEAF,State Senate,16,Undervotes,,22
+Tillamook,NEHALEM,State Senate,16,Undervotes,,42
+Tillamook,PINE GROVE,State Senate,16,Undervotes,,126
+Tillamook,ROCKAWAY,State Senate,16,Undervotes,,93
+Tillamook,SOUTH PRAIRIE EAST,State Senate,16,Undervotes,,23
+Tillamook,WHEELER,State Senate,16,Undervotes,,40
+Tillamook,TILLAMOOK #1,State Senate,16,Undervotes,,14
+Tillamook,TILLAMOOK #2,State Senate,16,Undervotes,,16
+Tillamook,TILLAMOOK #3,State Senate,16,Undervotes,,33
+Tillamook,TILLAMOOK #4,State Senate,16,Undervotes,,16
+Tillamook,TILLAMOOK #5,State Senate,16,Undervotes,,23
+Tillamook,TILLAMOOK #6,State Senate,16,Undervotes,,25
+Tillamook,Total,State Senate,16,Undervotes,,739
+Tillamook,BAY,State House,32,Vineeta Lower,REP,380
+Tillamook,EASTSIDE,State House,32,Vineeta Lower,REP,55
+Tillamook,FAIRVIEW,State House,32,Vineeta Lower,REP,562
+Tillamook,FOLEY,State House,32,Vineeta Lower,REP,139
+Tillamook,GARIBALDI,State House,32,Vineeta Lower,REP,253
+Tillamook,KILCHIS,State House,32,Vineeta Lower,REP,227
+Tillamook,MAPLELEAF,State House,32,Vineeta Lower,REP,247
+Tillamook,NEHALEM,State House,32,Vineeta Lower,REP,119
+Tillamook,PINE GROVE,State House,32,Vineeta Lower,REP,339
+Tillamook,ROCKAWAY,State House,32,Vineeta Lower,REP,368
+Tillamook,SOUTH PRAIRIE EAST,State House,32,Vineeta Lower,REP,217
+Tillamook,WHEELER,State House,32,Vineeta Lower,REP,96
+Tillamook,TILLAMOOK #1,State House,32,Vineeta Lower,REP,103
+Tillamook,TILLAMOOK #2,State House,32,Vineeta Lower,REP,116
+Tillamook,TILLAMOOK #3,State House,32,Vineeta Lower,REP,116
+Tillamook,TILLAMOOK #4,State House,32,Vineeta Lower,REP,142
+Tillamook,TILLAMOOK #5,State House,32,Vineeta Lower,REP,112
+Tillamook,TILLAMOOK #6,State House,32,Vineeta Lower,REP,129
+Tillamook,Total,State House,32,Vineeta Lower,REP,3720
+Tillamook,BAY,State House,32,Randell Carlson,LBT,30
+Tillamook,EASTSIDE,State House,32,Randell Carlson,LBT,2
+Tillamook,FAIRVIEW,State House,32,Randell Carlson,LBT,25
+Tillamook,FOLEY,State House,32,Randell Carlson,LBT,14
+Tillamook,GARIBALDI,State House,32,Randell Carlson,LBT,23
+Tillamook,KILCHIS,State House,32,Randell Carlson,LBT,9
+Tillamook,MAPLELEAF,State House,32,Randell Carlson,LBT,8
+Tillamook,NEHALEM,State House,32,Randell Carlson,LBT,6
+Tillamook,PINE GROVE,State House,32,Randell Carlson,LBT,34
+Tillamook,ROCKAWAY,State House,32,Randell Carlson,LBT,23
+Tillamook,SOUTH PRAIRIE EAST,State House,32,Randell Carlson,LBT,8
+Tillamook,WHEELER,State House,32,Randell Carlson,LBT,3
+Tillamook,TILLAMOOK #1,State House,32,Randell Carlson,LBT,13
+Tillamook,TILLAMOOK #2,State House,32,Randell Carlson,LBT,10
+Tillamook,TILLAMOOK #3,State House,32,Randell Carlson,LBT,13
+Tillamook,TILLAMOOK #4,State House,32,Randell Carlson,LBT,6
+Tillamook,TILLAMOOK #5,State House,32,Randell Carlson,LBT,11
+Tillamook,TILLAMOOK #6,State House,32,Randell Carlson,LBT,11
+Tillamook,Total,State House,32,Randell Carlson,LBT,249
+Tillamook,BAY,State House,32,Tiffiny K Mitchell,DEM,336
+Tillamook,EASTSIDE,State House,32,Tiffiny K Mitchell,DEM,45
+Tillamook,FAIRVIEW,State House,32,Tiffiny K Mitchell,DEM,304
+Tillamook,FOLEY,State House,32,Tiffiny K Mitchell,DEM,181
+Tillamook,GARIBALDI,State House,32,Tiffiny K Mitchell,DEM,293
+Tillamook,KILCHIS,State House,32,Tiffiny K Mitchell,DEM,143
+Tillamook,MAPLELEAF,State House,32,Tiffiny K Mitchell,DEM,89
+Tillamook,NEHALEM,State House,32,Tiffiny K Mitchell,DEM,226
+Tillamook,PINE GROVE,State House,32,Tiffiny K Mitchell,DEM,802
+Tillamook,ROCKAWAY,State House,32,Tiffiny K Mitchell,DEM,502
+Tillamook,SOUTH PRAIRIE EAST,State House,32,Tiffiny K Mitchell,DEM,83
+Tillamook,WHEELER,State House,32,Tiffiny K Mitchell,DEM,208
+Tillamook,TILLAMOOK #1,State House,32,Tiffiny K Mitchell,DEM,137
+Tillamook,TILLAMOOK #2,State House,32,Tiffiny K Mitchell,DEM,118
+Tillamook,TILLAMOOK #3,State House,32,Tiffiny K Mitchell,DEM,112
+Tillamook,TILLAMOOK #4,State House,32,Tiffiny K Mitchell,DEM,103
+Tillamook,TILLAMOOK #5,State House,32,Tiffiny K Mitchell,DEM,138
+Tillamook,TILLAMOOK #6,State House,32,Tiffiny K Mitchell,DEM,117
+Tillamook,Total,State House,32,Tiffiny K Mitchell,DEM,3937
+Tillamook,BAY,State House,32,Brian P Halvorsen,IND,40
+Tillamook,EASTSIDE,State House,32,Brian P Halvorsen,IND,11
+Tillamook,FAIRVIEW,State House,32,Brian P Halvorsen,IND,39
+Tillamook,FOLEY,State House,32,Brian P Halvorsen,IND,26
+Tillamook,GARIBALDI,State House,32,Brian P Halvorsen,IND,28
+Tillamook,KILCHIS,State House,32,Brian P Halvorsen,IND,18
+Tillamook,MAPLELEAF,State House,32,Brian P Halvorsen,IND,15
+Tillamook,NEHALEM,State House,32,Brian P Halvorsen,IND,24
+Tillamook,PINE GROVE,State House,32,Brian P Halvorsen,IND,37
+Tillamook,ROCKAWAY,State House,32,Brian P Halvorsen,IND,58
+Tillamook,SOUTH PRAIRIE EAST,State House,32,Brian P Halvorsen,IND,13
+Tillamook,WHEELER,State House,32,Brian P Halvorsen,IND,20
+Tillamook,TILLAMOOK #1,State House,32,Brian P Halvorsen,IND,23
+Tillamook,TILLAMOOK #2,State House,32,Brian P Halvorsen,IND,16
+Tillamook,TILLAMOOK #3,State House,32,Brian P Halvorsen,IND,26
+Tillamook,TILLAMOOK #4,State House,32,Brian P Halvorsen,IND,15
+Tillamook,TILLAMOOK #5,State House,32,Brian P Halvorsen,IND,13
+Tillamook,TILLAMOOK #6,State House,32,Brian P Halvorsen,IND,15
+Tillamook,Total,State House,32,Brian P Halvorsen,IND,437
+Tillamook,BAY,State House,32,Write-In Totals,,0
+Tillamook,EASTSIDE,State House,32,Write-In Totals,,0
+Tillamook,FAIRVIEW,State House,32,Write-In Totals,,5
+Tillamook,FOLEY,State House,32,Write-In Totals,,0
+Tillamook,GARIBALDI,State House,32,Write-In Totals,,0
+Tillamook,KILCHIS,State House,32,Write-In Totals,,0
+Tillamook,MAPLELEAF,State House,32,Write-In Totals,,0
+Tillamook,NEHALEM,State House,32,Write-In Totals,,0
+Tillamook,PINE GROVE,State House,32,Write-In Totals,,2
+Tillamook,ROCKAWAY,State House,32,Write-In Totals,,2
+Tillamook,SOUTH PRAIRIE EAST,State House,32,Write-In Totals,,0
+Tillamook,WHEELER,State House,32,Write-In Totals,,0
+Tillamook,TILLAMOOK #1,State House,32,Write-In Totals,,0
+Tillamook,TILLAMOOK #2,State House,32,Write-In Totals,,0
+Tillamook,TILLAMOOK #3,State House,32,Write-In Totals,,1
+Tillamook,TILLAMOOK #4,State House,32,Write-In Totals,,0
+Tillamook,TILLAMOOK #5,State House,32,Write-In Totals,,0
+Tillamook,TILLAMOOK #6,State House,32,Write-In Totals,,2
+Tillamook,Total,State House,32,Write-In Totals,,12
+Tillamook,BAY,State House,32,Overvotes,,0
+Tillamook,EASTSIDE,State House,32,Overvotes,,0
+Tillamook,FAIRVIEW,State House,32,Overvotes,,0
+Tillamook,FOLEY,State House,32,Overvotes,,0
+Tillamook,GARIBALDI,State House,32,Overvotes,,0
+Tillamook,KILCHIS,State House,32,Overvotes,,0
+Tillamook,MAPLELEAF,State House,32,Overvotes,,0
+Tillamook,NEHALEM,State House,32,Overvotes,,0
+Tillamook,PINE GROVE,State House,32,Overvotes,,0
+Tillamook,ROCKAWAY,State House,32,Overvotes,,0
+Tillamook,SOUTH PRAIRIE EAST,State House,32,Overvotes,,0
+Tillamook,WHEELER,State House,32,Overvotes,,0
+Tillamook,TILLAMOOK #1,State House,32,Overvotes,,1
+Tillamook,TILLAMOOK #2,State House,32,Overvotes,,0
+Tillamook,TILLAMOOK #3,State House,32,Overvotes,,0
+Tillamook,TILLAMOOK #4,State House,32,Overvotes,,0
+Tillamook,TILLAMOOK #5,State House,32,Overvotes,,0
+Tillamook,TILLAMOOK #6,State House,32,Overvotes,,0
+Tillamook,Total,State House,32,Overvotes,,1
+Tillamook,BAY,State House,32,Undervotes,,45
+Tillamook,EASTSIDE,State House,32,Undervotes,,12
+Tillamook,FAIRVIEW,State House,32,Undervotes,,78
+Tillamook,FOLEY,State House,32,Undervotes,,13
+Tillamook,GARIBALDI,State House,32,Undervotes,,41
+Tillamook,KILCHIS,State House,32,Undervotes,,26
+Tillamook,MAPLELEAF,State House,32,Undervotes,,22
+Tillamook,NEHALEM,State House,32,Undervotes,,21
+Tillamook,PINE GROVE,State House,32,Undervotes,,56
+Tillamook,ROCKAWAY,State House,32,Undervotes,,43
+Tillamook,SOUTH PRAIRIE EAST,State House,32,Undervotes,,31
+Tillamook,WHEELER,State House,32,Undervotes,,21
+Tillamook,TILLAMOOK #1,State House,32,Undervotes,,13
+Tillamook,TILLAMOOK #2,State House,32,Undervotes,,9
+Tillamook,TILLAMOOK #3,State House,32,Undervotes,,19
+Tillamook,TILLAMOOK #4,State House,32,Undervotes,,11
+Tillamook,TILLAMOOK #5,State House,32,Undervotes,,16
+Tillamook,TILLAMOOK #6,State House,32,Undervotes,,20
+Tillamook,Total,State House,32,Undervotes,,497
+Tillamook,BEAVER,State House,10,Thomas M Donohue,REP,339
+Tillamook,CARNAHAN,State House,10,Thomas M Donohue,REP,198
+Tillamook,CLOVERDALE,State House,10,Thomas M Donohue,REP,165
+Tillamook,HEBO,State House,10,Thomas M Donohue,REP,154
+Tillamook,NESKOWIN,State House,10,Thomas M Donohue,REP,191
+Tillamook,NETARTS,State House,10,Thomas M Donohue,REP,276
+Tillamook,OCEANSIDE,State House,10,Thomas M Donohue,REP,68
+Tillamook,SOUTH PRAIRIE WEST,State House,10,Thomas M Donohue,REP,233
+Tillamook,TRASK,State House,10,Thomas M Donohue,REP,104
+Tillamook,UNION,State House,10,Thomas M Donohue,REP,363
+Tillamook,WESTSIDE,State House,10,Thomas M Donohue,REP,95
+Tillamook,Total,State House,10,Thomas M Donohue,REP,2186
+Tillamook,BEAVER,State House,10,Write-In Totals,,0
+Tillamook,CARNAHAN,State House,10,Write-In Totals,,0
+Tillamook,CLOVERDALE,State House,10,Write-In Totals,,0
+Tillamook,HEBO,State House,10,Write-In Totals,,0
+Tillamook,NESKOWIN,State House,10,Write-In Totals,,3
+Tillamook,NETARTS,State House,10,Write-In Totals,,1
+Tillamook,OCEANSIDE,State House,10,Write-In Totals,,0
+Tillamook,SOUTH PRAIRIE WEST,State House,10,Write-In Totals,,0
+Tillamook,TRASK,State House,10,Write-In Totals,,2
+Tillamook,UNION,State House,10,Write-In Totals,,0
+Tillamook,WESTSIDE,State House,10,Write-In Totals,,1
+Tillamook,Total,State House,10,Write-In Totals,,7
+Tillamook,BEAVER,State House,10,Overvotes,,0
+Tillamook,CARNAHAN,State House,10,Overvotes,,0
+Tillamook,CLOVERDALE,State House,10,Overvotes,,0
+Tillamook,HEBO,State House,10,Overvotes,,0
+Tillamook,NESKOWIN,State House,10,Overvotes,,0
+Tillamook,NETARTS,State House,10,Overvotes,,0
+Tillamook,OCEANSIDE,State House,10,Overvotes,,0
+Tillamook,SOUTH PRAIRIE WEST,State House,10,Overvotes,,0
+Tillamook,TRASK,State House,10,Overvotes,,0
+Tillamook,UNION,State House,10,Overvotes,,1
+Tillamook,WESTSIDE,State House,10,Overvotes,,1
+Tillamook,Total,State House,10,Overvotes,,2
+Tillamook,BEAVER,State House,10,Undervotes,,20
+Tillamook,CARNAHAN,State House,10,Undervotes,,15
+Tillamook,CLOVERDALE,State House,10,Undervotes,,7
+Tillamook,HEBO,State House,10,Undervotes,,11
+Tillamook,NESKOWIN,State House,10,Undervotes,,20
+Tillamook,NETARTS,State House,10,Undervotes,,28
+Tillamook,OCEANSIDE,State House,10,Undervotes,,12
+Tillamook,SOUTH PRAIRIE WEST,State House,10,Undervotes,,25
+Tillamook,TRASK,State House,10,Undervotes,,10
+Tillamook,UNION,State House,10,Undervotes,,33
+Tillamook,WESTSIDE,State House,10,Undervotes,,12
+Tillamook,Total,State House,10,Undervotes,,193
