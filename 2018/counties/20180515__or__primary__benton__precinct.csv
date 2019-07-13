@@ -1,0 +1,1763 @@
+county,precinct,office,district,candidate,party,votes
+Benton,0001 01 - Corvallis ONE,Registered Voters,,,,4038
+Benton,0002 02 - Corvallis TWO,Registered Voters,,,,2861
+Benton,0003 03 - Corvallis THREE,Registered Voters,,,,3898
+Benton,0004 04 - Corvallis FOUR,Registered Voters,,,,1923
+Benton,0005 05 - Corvallis FIVE,Registered Voters,,,,2772
+Benton,0006 06 - Corvallis SIX,Registered Voters,,,,3726
+Benton,0007 07 - Corvallis SEVEN,Registered Voters,,,,4154
+Benton,0008 08 - Corvallis EIGHT,Registered Voters,,,,4465
+Benton,0009 09 - Corvallis NINE,Registered Voters,,,,3912
+Benton,0010 10 - Philomath,Registered Voters,,,,3164
+Benton,0012 12 - Adair Village,Registered Voters,,,,556
+Benton,0013 13 - Monroe,Registered Voters,,,,358
+Benton,0014 14 - Alsea School,Registered Voters,,,,673
+Benton,0015 15 - Northwest,Registered Voters,,,,2817
+Benton,0016 16 - Corvallis Rural,Registered Voters,,,,3167
+Benton,0017 17 - North 509J,Registered Voters,,,,1526
+Benton,0018 18 - Albany Rural,Registered Voters,,,,1634
+Benton,0019 19 - South 509J,Registered Voters,,,,1243
+Benton,0020 20 - Monroe Rural,Registered Voters,,,,1791
+Benton,0021 21 - Philomath Rural,Registered Voters,,,,423
+Benton,0022 22 - Adair Rural,Registered Voters,,,,516
+Benton,0023 23 - Highway 20,Registered Voters,,,,770
+Benton,0024 24 - N Albany N,Registered Voters,,,,3455
+Benton,0025 25 - N Albany S,Registered Voters,,,,2640
+Benton,Total,Registered Voters,,,,56482
+Benton,0001 01 - Corvallis ONE,Ballots Cast,,,DEM,1130
+Benton,0002 02 - Corvallis TWO,Ballots Cast,,,DEM,569
+Benton,0003 03 - Corvallis THREE,Ballots Cast,,,DEM,1044
+Benton,0004 04 - Corvallis FOUR,Ballots Cast,,,DEM,409
+Benton,0005 05 - Corvallis FIVE,Ballots Cast,,,DEM,566
+Benton,0006 06 - Corvallis SIX,Ballots Cast,,,DEM,963
+Benton,0007 07 - Corvallis SEVEN,Ballots Cast,,,DEM,1567
+Benton,0008 08 - Corvallis EIGHT,Ballots Cast,,,DEM,1457
+Benton,0009 09 - Corvallis NINE,Ballots Cast,,,DEM,867
+Benton,0010 10 - Philomath,Ballots Cast,,,DEM,593
+Benton,0012 12 - Adair Village,Ballots Cast,,,DEM,66
+Benton,0013 13 - Monroe,Ballots Cast,,,DEM,47
+Benton,0014 14 - Alsea School,Ballots Cast,,,DEM,79
+Benton,0015 15 - Northwest,Ballots Cast,,,DEM,605
+Benton,0016 16 - Corvallis Rural,Ballots Cast,,,DEM,928
+Benton,0017 17 - North 509J,Ballots Cast,,,DEM,463
+Benton,0018 18 - Albany Rural,Ballots Cast,,,DEM,250
+Benton,0019 19 - South 509J,Ballots Cast,,,DEM,321
+Benton,0020 20 - Monroe Rural,Ballots Cast,,,DEM,254
+Benton,0021 21 - Philomath Rural,Ballots Cast,,,DEM,93
+Benton,0022 22 - Adair Rural,Ballots Cast,,,DEM,107
+Benton,0023 23 - Highway 20,Ballots Cast,,,DEM,136
+Benton,0024 24 - N Albany N,Ballots Cast,,,DEM,577
+Benton,0025 25 - N Albany S,Ballots Cast,,,DEM,476
+Benton,Total,Ballots Cast,,,DEM,13567
+Benton,0001 01 - Corvallis ONE,Ballots Cast,,,IND,54
+Benton,0002 02 - Corvallis TWO,Ballots Cast,,,IND,20
+Benton,0003 03 - Corvallis THREE,Ballots Cast,,,IND,61
+Benton,0004 04 - Corvallis FOUR,Ballots Cast,,,IND,16
+Benton,0005 05 - Corvallis FIVE,Ballots Cast,,,IND,18
+Benton,0006 06 - Corvallis SIX,Ballots Cast,,,IND,51
+Benton,0007 07 - Corvallis SEVEN,Ballots Cast,,,IND,45
+Benton,0008 08 - Corvallis EIGHT,Ballots Cast,,,IND,77
+Benton,0009 09 - Corvallis NINE,Ballots Cast,,,IND,42
+Benton,0010 10 - Philomath,Ballots Cast,,,IND,59
+Benton,0012 12 - Adair Village,Ballots Cast,,,IND,3
+Benton,0013 13 - Monroe,Ballots Cast,,,IND,5
+Benton,0014 14 - Alsea School,Ballots Cast,,,IND,9
+Benton,0015 15 - Northwest,Ballots Cast,,,IND,39
+Benton,0016 16 - Corvallis Rural,Ballots Cast,,,IND,51
+Benton,0017 17 - North 509J,Ballots Cast,,,IND,16
+Benton,0018 18 - Albany Rural,Ballots Cast,,,IND,18
+Benton,0019 19 - South 509J,Ballots Cast,,,IND,14
+Benton,0020 20 - Monroe Rural,Ballots Cast,,,IND,19
+Benton,0021 21 - Philomath Rural,Ballots Cast,,,IND,3
+Benton,0022 22 - Adair Rural,Ballots Cast,,,IND,10
+Benton,0023 23 - Highway 20,Ballots Cast,,,IND,4
+Benton,0024 24 - N Albany N,Ballots Cast,,,IND,49
+Benton,0025 25 - N Albany S,Ballots Cast,,,IND,36
+Benton,Total,Ballots Cast,,,IND,719
+Benton,0001 01 - Corvallis ONE,Ballots Cast,,,REP,450
+Benton,0002 02 - Corvallis TWO,Ballots Cast,,,REP,96
+Benton,0003 03 - Corvallis THREE,Ballots Cast,,,REP,279
+Benton,0004 04 - Corvallis FOUR,Ballots Cast,,,REP,75
+Benton,0005 05 - Corvallis FIVE,Ballots Cast,,,REP,71
+Benton,0006 06 - Corvallis SIX,Ballots Cast,,,REP,249
+Benton,0007 07 - Corvallis SEVEN,Ballots Cast,,,REP,332
+Benton,0008 08 - Corvallis EIGHT,Ballots Cast,,,REP,517
+Benton,0009 09 - Corvallis NINE,Ballots Cast,,,REP,394
+Benton,0010 10 - Philomath,Ballots Cast,,,REP,382
+Benton,0012 12 - Adair Village,Ballots Cast,,,REP,87
+Benton,0013 13 - Monroe,Ballots Cast,,,REP,44
+Benton,0014 14 - Alsea School,Ballots Cast,,,REP,98
+Benton,0015 15 - Northwest,Ballots Cast,,,REP,491
+Benton,0016 16 - Corvallis Rural,Ballots Cast,,,REP,485
+Benton,0017 17 - North 509J,Ballots Cast,,,REP,221
+Benton,0018 18 - Albany Rural,Ballots Cast,,,REP,354
+Benton,0019 19 - South 509J,Ballots Cast,,,REP,204
+Benton,0020 20 - Monroe Rural,Ballots Cast,,,REP,314
+Benton,0021 21 - Philomath Rural,Ballots Cast,,,REP,67
+Benton,0022 22 - Adair Rural,Ballots Cast,,,REP,83
+Benton,0023 23 - Highway 20,Ballots Cast,,,REP,110
+Benton,0024 24 - N Albany N,Ballots Cast,,,REP,676
+Benton,0025 25 - N Albany S,Ballots Cast,,,REP,535
+Benton,Total,Ballots Cast,,,REP,6614
+Benton,0012 12 - Adair Village,U.S. House,5,Peter Wright,DEM,15
+Benton,0018 18 - Albany Rural,U.S. House,5,Peter Wright,DEM,41
+Benton,0022 22 - Adair Rural,U.S. House,5,Peter Wright,DEM,9
+Benton,0024 24 - N Albany N,U.S. House,5,Peter Wright,DEM,60
+Benton,0025 25 - N Albany S,U.S. House,5,Peter Wright,DEM,66
+Benton,Total,U.S. House,5,Peter Wright,DEM,191
+Benton,0012 12 - Adair Village,U.S. House,5,Kurt Schrader,DEM,45
+Benton,0018 18 - Albany Rural,U.S. House,5,Kurt Schrader,DEM,182
+Benton,0022 22 - Adair Rural,U.S. House,5,Kurt Schrader,DEM,84
+Benton,0024 24 - N Albany N,U.S. House,5,Kurt Schrader,DEM,445
+Benton,0025 25 - N Albany S,U.S. House,5,Kurt Schrader,DEM,344
+Benton,Total,U.S. House,5,Kurt Schrader,DEM,1100
+Benton,0012 12 - Adair Village,U.S. House,5,WRITE-IN,DEM,0
+Benton,0018 18 - Albany Rural,U.S. House,5,WRITE-IN,DEM,4
+Benton,0022 22 - Adair Rural,U.S. House,5,WRITE-IN,DEM,1
+Benton,0024 24 - N Albany N,U.S. House,5,WRITE-IN,DEM,4
+Benton,0025 25 - N Albany S,U.S. House,5,WRITE-IN,DEM,0
+Benton,Total,U.S. House,5,WRITE-IN,DEM,9
+Benton,0012 12 - Adair Village,U.S. House,5,OVER VOTES,DEM,0
+Benton,0018 18 - Albany Rural,U.S. House,5,OVER VOTES,DEM,0
+Benton,0022 22 - Adair Rural,U.S. House,5,OVER VOTES,DEM,0
+Benton,0024 24 - N Albany N,U.S. House,5,OVER VOTES,DEM,0
+Benton,0025 25 - N Albany S,U.S. House,5,OVER VOTES,DEM,0
+Benton,Total,U.S. House,5,OVER VOTES,DEM,0
+Benton,0012 12 - Adair Village,U.S. House,5,UNDER VOTES,DEM,6
+Benton,0018 18 - Albany Rural,U.S. House,5,UNDER VOTES,DEM,23
+Benton,0022 22 - Adair Rural,U.S. House,5,UNDER VOTES,DEM,13
+Benton,0024 24 - N Albany N,U.S. House,5,UNDER VOTES,DEM,68
+Benton,0025 25 - N Albany S,U.S. House,5,UNDER VOTES,DEM,66
+Benton,Total,U.S. House,5,UNDER VOTES,DEM,176
+Benton,0012 12 - Adair Village,U.S. House,5,No Candidate Filed,IND,0
+Benton,0018 18 - Albany Rural,U.S. House,5,No Candidate Filed,IND,0
+Benton,0022 22 - Adair Rural,U.S. House,5,No Candidate Filed,IND,0
+Benton,0024 24 - N Albany N,U.S. House,5,No Candidate Filed,IND,0
+Benton,0025 25 - N Albany S,U.S. House,5,No Candidate Filed,IND,0
+Benton,Total,U.S. House,5,No Candidate Filed,IND,0
+Benton,0012 12 - Adair Village,U.S. House,5,WRITE-IN,IND,2
+Benton,0018 18 - Albany Rural,U.S. House,5,WRITE-IN,IND,6
+Benton,0022 22 - Adair Rural,U.S. House,5,WRITE-IN,IND,2
+Benton,0024 24 - N Albany N,U.S. House,5,WRITE-IN,IND,10
+Benton,0025 25 - N Albany S,U.S. House,5,WRITE-IN,IND,7
+Benton,Total,U.S. House,5,WRITE-IN,IND,27
+Benton,0012 12 - Adair Village,U.S. House,5,OVER VOTES,IND,0
+Benton,0018 18 - Albany Rural,U.S. House,5,OVER VOTES,IND,0
+Benton,0022 22 - Adair Rural,U.S. House,5,OVER VOTES,IND,0
+Benton,0024 24 - N Albany N,U.S. House,5,OVER VOTES,IND,0
+Benton,0025 25 - N Albany S,U.S. House,5,OVER VOTES,IND,0
+Benton,Total,U.S. House,5,OVER VOTES,IND,0
+Benton,0012 12 - Adair Village,U.S. House,5,UNDER VOTES,IND,1
+Benton,0018 18 - Albany Rural,U.S. House,5,UNDER VOTES,IND,12
+Benton,0022 22 - Adair Rural,U.S. House,5,UNDER VOTES,IND,8
+Benton,0024 24 - N Albany N,U.S. House,5,UNDER VOTES,IND,39
+Benton,0025 25 - N Albany S,U.S. House,5,UNDER VOTES,IND,29
+Benton,Total,U.S. House,5,UNDER VOTES,IND,89
+Benton,0012 12 - Adair Village,U.S. House,5,Robert L Reynolds,REP,10
+Benton,0018 18 - Albany Rural,U.S. House,5,Robert L Reynolds,REP,38
+Benton,0022 22 - Adair Rural,U.S. House,5,Robert L Reynolds,REP,10
+Benton,0024 24 - N Albany N,U.S. House,5,Robert L Reynolds,REP,77
+Benton,0025 25 - N Albany S,U.S. House,5,Robert L Reynolds,REP,70
+Benton,Total,U.S. House,5,Robert L Reynolds,REP,205
+Benton,0012 12 - Adair Village,U.S. House,5,Mark Callahan,REP,44
+Benton,0018 18 - Albany Rural,U.S. House,5,Mark Callahan,REP,209
+Benton,0022 22 - Adair Rural,U.S. House,5,Mark Callahan,REP,40
+Benton,0024 24 - N Albany N,U.S. House,5,Mark Callahan,REP,332
+Benton,0025 25 - N Albany S,U.S. House,5,Mark Callahan,REP,245
+Benton,Total,U.S. House,5,Mark Callahan,REP,870
+Benton,0012 12 - Adair Village,U.S. House,5,Joey Nations,REP,14
+Benton,0018 18 - Albany Rural,U.S. House,5,Joey Nations,REP,40
+Benton,0022 22 - Adair Rural,U.S. House,5,Joey Nations,REP,10
+Benton,0024 24 - N Albany N,U.S. House,5,Joey Nations,REP,95
+Benton,0025 25 - N Albany S,U.S. House,5,Joey Nations,REP,77
+Benton,Total,U.S. House,5,Joey Nations,REP,236
+Benton,0012 12 - Adair Village,U.S. House,5,WRITE-IN,REP,0
+Benton,0018 18 - Albany Rural,U.S. House,5,WRITE-IN,REP,1
+Benton,0022 22 - Adair Rural,U.S. House,5,WRITE-IN,REP,0
+Benton,0024 24 - N Albany N,U.S. House,5,WRITE-IN,REP,0
+Benton,0025 25 - N Albany S,U.S. House,5,WRITE-IN,REP,1
+Benton,Total,U.S. House,5,WRITE-IN,REP,2
+Benton,0012 12 - Adair Village,U.S. House,5,OVER VOTES,REP,0
+Benton,0018 18 - Albany Rural,U.S. House,5,OVER VOTES,REP,0
+Benton,0022 22 - Adair Rural,U.S. House,5,OVER VOTES,REP,0
+Benton,0024 24 - N Albany N,U.S. House,5,OVER VOTES,REP,0
+Benton,0025 25 - N Albany S,U.S. House,5,OVER VOTES,REP,0
+Benton,Total,U.S. House,5,OVER VOTES,REP,0
+Benton,0012 12 - Adair Village,U.S. House,5,UNDER VOTES,REP,19
+Benton,0018 18 - Albany Rural,U.S. House,5,UNDER VOTES,REP,66
+Benton,0022 22 - Adair Rural,U.S. House,5,UNDER VOTES,REP,23
+Benton,0024 24 - N Albany N,U.S. House,5,UNDER VOTES,REP,172
+Benton,0025 25 - N Albany S,U.S. House,5,UNDER VOTES,REP,142
+Benton,Total,U.S. House,5,UNDER VOTES,REP,422
+Benton,0001 01 - Corvallis ONE,U.S. House,4,Daniel R Arcangel,DEM,34
+Benton,0002 02 - Corvallis TWO,U.S. House,4,Daniel R Arcangel,DEM,34
+Benton,0003 03 - Corvallis THREE,U.S. House,4,Daniel R Arcangel,DEM,42
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,Daniel R Arcangel,DEM,31
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,Daniel R Arcangel,DEM,24
+Benton,0006 06 - Corvallis SIX,U.S. House,4,Daniel R Arcangel,DEM,41
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,Daniel R Arcangel,DEM,61
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,Daniel R Arcangel,DEM,55
+Benton,0009 09 - Corvallis NINE,U.S. House,4,Daniel R Arcangel,DEM,53
+Benton,0010 10 - Philomath,U.S. House,4,Daniel R Arcangel,DEM,32
+Benton,0013 13 - Monroe,U.S. House,4,Daniel R Arcangel,DEM,6
+Benton,0014 14 - Alsea School,U.S. House,4,Daniel R Arcangel,DEM,6
+Benton,0015 15 - Northwest,U.S. House,4,Daniel R Arcangel,DEM,45
+Benton,0016 16 - Corvallis Rural,U.S. House,4,Daniel R Arcangel,DEM,53
+Benton,0017 17 - North,U.S. House,4,Daniel R Arcangel,DEM,13
+Benton,0019 19 - South 509J,U.S. House,4,Daniel R Arcangel,DEM,19
+Benton,0020 20 - Monroe Rural,U.S. House,4,Daniel R Arcangel,DEM,30
+Benton,0021 21 - Philomath Rural,U.S. House,4,Daniel R Arcangel,DEM,9
+Benton,0023 23 - Highway,U.S. House,4,Daniel R Arcangel,DEM,13
+Benton,Total,U.S. House,4,Daniel R Arcangel,DEM,601
+Benton,0001 01 - Corvallis ONE,U.S. House,4,Peter A DeFazio,DEM,1032
+Benton,0002 02 - Corvallis TWO,U.S. House,4,Peter A DeFazio,DEM,513
+Benton,0003 03 - Corvallis THREE,U.S. House,4,Peter A DeFazio,DEM,964
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,Peter A DeFazio,DEM,360
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,Peter A DeFazio,DEM,520
+Benton,0006 06 - Corvallis SIX,U.S. House,4,Peter A DeFazio,DEM,888
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,Peter A DeFazio,DEM,1452
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,Peter A DeFazio,DEM,1323
+Benton,0009 09 - Corvallis NINE,U.S. House,4,Peter A DeFazio,DEM,766
+Benton,0010 10 - Philomath,U.S. House,4,Peter A DeFazio,DEM,534
+Benton,0013 13 - Monroe,U.S. House,4,Peter A DeFazio,DEM,41
+Benton,0014 14 - Alsea School,U.S. House,4,Peter A DeFazio,DEM,69
+Benton,0015 15 - Northwest,U.S. House,4,Peter A DeFazio,DEM,535
+Benton,0016 16 - Corvallis Rural,U.S. House,4,Peter A DeFazio,DEM,835
+Benton,0017 17 - North,U.S. House,4,Peter A DeFazio,DEM,428
+Benton,0019 19 - South 509J,U.S. House,4,Peter A DeFazio,DEM,293
+Benton,0020 20 - Monroe Rural,U.S. House,4,Peter A DeFazio,DEM,219
+Benton,0021 21 - Philomath Rural,U.S. House,4,Peter A DeFazio,DEM,81
+Benton,0023 23 - Highway,U.S. House,4,Peter A DeFazio,DEM,119
+Benton,Total,U.S. House,4,Peter A DeFazio,DEM,10972
+Benton,0001 01 - Corvallis ONE,U.S. House,4,WRITE-IN,DEM,3
+Benton,0002 02 - Corvallis TWO,U.S. House,4,WRITE-IN,DEM,2
+Benton,0003 03 - Corvallis THREE,U.S. House,4,WRITE-IN,DEM,2
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,WRITE-IN,DEM,2
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,WRITE-IN,DEM,1
+Benton,0006 06 - Corvallis SIX,U.S. House,4,WRITE-IN,DEM,0
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,WRITE-IN,DEM,1
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,WRITE-IN,DEM,2
+Benton,0009 09 - Corvallis NINE,U.S. House,4,WRITE-IN,DEM,3
+Benton,0010 10 - Philomath,U.S. House,4,WRITE-IN,DEM,2
+Benton,0013 13 - Monroe,U.S. House,4,WRITE-IN,DEM,0
+Benton,0014 14 - Alsea School,U.S. House,4,WRITE-IN,DEM,1
+Benton,0015 15 - Northwest,U.S. House,4,WRITE-IN,DEM,4
+Benton,0016 16 - Corvallis Rural,U.S. House,4,WRITE-IN,DEM,4
+Benton,0017 17 - North,U.S. House,4,WRITE-IN,DEM,0
+Benton,0019 19 - South 509J,U.S. House,4,WRITE-IN,DEM,2
+Benton,0020 20 - Monroe Rural,U.S. House,4,WRITE-IN,DEM,4
+Benton,0021 21 - Philomath Rural,U.S. House,4,WRITE-IN,DEM,0
+Benton,0023 23 - Highway,U.S. House,4,WRITE-IN,DEM,1
+Benton,Total,U.S. House,4,WRITE-IN,DEM,34
+Benton,0001 01 - Corvallis ONE,U.S. House,4,OVER VOTES,DEM,0
+Benton,0002 02 - Corvallis TWO,U.S. House,4,OVER VOTES,DEM,0
+Benton,0003 03 - Corvallis THREE,U.S. House,4,OVER VOTES,DEM,1
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,OVER VOTES,DEM,0
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,OVER VOTES,DEM,0
+Benton,0006 06 - Corvallis SIX,U.S. House,4,OVER VOTES,DEM,2
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,OVER VOTES,DEM,0
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,OVER VOTES,DEM,0
+Benton,0009 09 - Corvallis NINE,U.S. House,4,OVER VOTES,DEM,0
+Benton,0010 10 - Philomath,U.S. House,4,OVER VOTES,DEM,0
+Benton,0013 13 - Monroe,U.S. House,4,OVER VOTES,DEM,0
+Benton,0014 14 - Alsea School,U.S. House,4,OVER VOTES,DEM,0
+Benton,0015 15 - Northwest,U.S. House,4,OVER VOTES,DEM,0
+Benton,0016 16 - Corvallis Rural,U.S. House,4,OVER VOTES,DEM,0
+Benton,0017 17 - North,U.S. House,4,OVER VOTES,DEM,0
+Benton,0019 19 - South 509J,U.S. House,4,OVER VOTES,DEM,0
+Benton,0020 20 - Monroe Rural,U.S. House,4,OVER VOTES,DEM,0
+Benton,0021 21 - Philomath Rural,U.S. House,4,OVER VOTES,DEM,0
+Benton,0023 23 - Highway,U.S. House,4,OVER VOTES,DEM,0
+Benton,Total,U.S. House,4,OVER VOTES,DEM,3
+Benton,0001 01 - Corvallis ONE,U.S. House,4,UNDER VOTES,DEM,61
+Benton,0002 02 - Corvallis TWO,U.S. House,4,UNDER VOTES,DEM,20
+Benton,0003 03 - Corvallis THREE,U.S. House,4,UNDER VOTES,DEM,35
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,UNDER VOTES,DEM,16
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,UNDER VOTES,DEM,21
+Benton,0006 06 - Corvallis SIX,U.S. House,4,UNDER VOTES,DEM,32
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,UNDER VOTES,DEM,53
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,UNDER VOTES,DEM,77
+Benton,0009 09 - Corvallis NINE,U.S. House,4,UNDER VOTES,DEM,45
+Benton,0010 10 - Philomath,U.S. House,4,UNDER VOTES,DEM,25
+Benton,0013 13 - Monroe,U.S. House,4,UNDER VOTES,DEM,0
+Benton,0014 14 - Alsea School,U.S. House,4,UNDER VOTES,DEM,3
+Benton,0015 15 - Northwest,U.S. House,4,UNDER VOTES,DEM,21
+Benton,0016 16 - Corvallis Rural,U.S. House,4,UNDER VOTES,DEM,36
+Benton,0017 17 - North,U.S. House,4,UNDER VOTES,DEM,22
+Benton,0019 19 - South 509J,U.S. House,4,UNDER VOTES,DEM,7
+Benton,0020 20 - Monroe Rural,U.S. House,4,UNDER VOTES,DEM,1
+Benton,0021 21 - Philomath Rural,U.S. House,4,UNDER VOTES,DEM,3
+Benton,0023 23 - Highway,U.S. House,4,UNDER VOTES,DEM,3
+Benton,Total,U.S. House,4,UNDER VOTES,DEM,481
+Benton,0001 01 - Corvallis ONE,U.S. House,4,No Candidate Filed,IND,0
+Benton,0002 02 - Corvallis TWO,U.S. House,4,No Candidate Filed,IND,0
+Benton,0003 03 - Corvallis THREE,U.S. House,4,No Candidate Filed,IND,0
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,No Candidate Filed,IND,0
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,No Candidate Filed,IND,0
+Benton,0006 06 - Corvallis SIX,U.S. House,4,No Candidate Filed,IND,0
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,No Candidate Filed,IND,0
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,No Candidate Filed,IND,0
+Benton,0009 09 - Corvallis NINE,U.S. House,4,No Candidate Filed,IND,0
+Benton,0010 10 - Philomath,U.S. House,4,No Candidate Filed,IND,0
+Benton,0013 13 - Monroe,U.S. House,4,No Candidate Filed,IND,0
+Benton,0014 14 - Alsea School,U.S. House,4,No Candidate Filed,IND,0
+Benton,0015 15 - Northwest,U.S. House,4,No Candidate Filed,IND,0
+Benton,0016 16 - Corvallis Rural,U.S. House,4,No Candidate Filed,IND,0
+Benton,0017 17 - North,U.S. House,4,No Candidate Filed,IND,0
+Benton,0019 19 - South 509J,U.S. House,4,No Candidate Filed,IND,0
+Benton,0020 20 - Monroe Rural,U.S. House,4,No Candidate Filed,IND,0
+Benton,0021 21 - Philomath Rural,U.S. House,4,No Candidate Filed,IND,0
+Benton,0023 23 - Highway,U.S. House,4,No Candidate Filed,IND,0
+Benton,Total,U.S. House,4,No Candidate Filed,IND,0
+Benton,0001 01 - Corvallis ONE,U.S. House,4,WRITE-IN,IND,10
+Benton,0002 02 - Corvallis TWO,U.S. House,4,WRITE-IN,IND,4
+Benton,0003 03 - Corvallis THREE,U.S. House,4,WRITE-IN,IND,16
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,WRITE-IN,IND,7
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,WRITE-IN,IND,4
+Benton,0006 06 - Corvallis SIX,U.S. House,4,WRITE-IN,IND,15
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,WRITE-IN,IND,13
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,WRITE-IN,IND,20
+Benton,0009 09 - Corvallis NINE,U.S. House,4,WRITE-IN,IND,11
+Benton,0010 10 - Philomath,U.S. House,4,WRITE-IN,IND,14
+Benton,0013 13 - Monroe,U.S. House,4,WRITE-IN,IND,1
+Benton,0014 14 - Alsea School,U.S. House,4,WRITE-IN,IND,5
+Benton,0015 15 - Northwest,U.S. House,4,WRITE-IN,IND,19
+Benton,0016 16 - Corvallis Rural,U.S. House,4,WRITE-IN,IND,20
+Benton,0017 17 - North,U.S. House,4,WRITE-IN,IND,8
+Benton,0019 19 - South 509J,U.S. House,4,WRITE-IN,IND,4
+Benton,0020 20 - Monroe Rural,U.S. House,4,WRITE-IN,IND,10
+Benton,0021 21 - Philomath Rural,U.S. House,4,WRITE-IN,IND,0
+Benton,0023 23 - Highway,U.S. House,4,WRITE-IN,IND,1
+Benton,Total,U.S. House,4,WRITE-IN,IND,182
+Benton,0001 01 - Corvallis ONE,U.S. House,4,OVER VOTES,IND,0
+Benton,0002 02 - Corvallis TWO,U.S. House,4,OVER VOTES,IND,0
+Benton,0003 03 - Corvallis THREE,U.S. House,4,OVER VOTES,IND,0
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,OVER VOTES,IND,0
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,OVER VOTES,IND,0
+Benton,0006 06 - Corvallis SIX,U.S. House,4,OVER VOTES,IND,0
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,OVER VOTES,IND,0
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,OVER VOTES,IND,0
+Benton,0009 09 - Corvallis NINE,U.S. House,4,OVER VOTES,IND,0
+Benton,0010 10 - Philomath,U.S. House,4,OVER VOTES,IND,0
+Benton,0013 13 - Monroe,U.S. House,4,OVER VOTES,IND,0
+Benton,0014 14 - Alsea School,U.S. House,4,OVER VOTES,IND,0
+Benton,0015 15 - Northwest,U.S. House,4,OVER VOTES,IND,0
+Benton,0016 16 - Corvallis Rural,U.S. House,4,OVER VOTES,IND,0
+Benton,0017 17 - North,U.S. House,4,OVER VOTES,IND,0
+Benton,0019 19 - South 509J,U.S. House,4,OVER VOTES,IND,0
+Benton,0020 20 - Monroe Rural,U.S. House,4,OVER VOTES,IND,0
+Benton,0021 21 - Philomath Rural,U.S. House,4,OVER VOTES,IND,0
+Benton,0023 23 - Highway,U.S. House,4,OVER VOTES,IND,0
+Benton,Total,U.S. House,4,OVER VOTES,IND,0
+Benton,0001 01 - Corvallis ONE,U.S. House,4,UNDER VOTES,IND,44
+Benton,0002 02 - Corvallis TWO,U.S. House,4,UNDER VOTES,IND,16
+Benton,0003 03 - Corvallis THREE,U.S. House,4,UNDER VOTES,IND,45
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,UNDER VOTES,IND,9
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,UNDER VOTES,IND,14
+Benton,0006 06 - Corvallis SIX,U.S. House,4,UNDER VOTES,IND,36
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,UNDER VOTES,IND,32
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,UNDER VOTES,IND,57
+Benton,0009 09 - Corvallis NINE,U.S. House,4,UNDER VOTES,IND,31
+Benton,0010 10 - Philomath,U.S. House,4,UNDER VOTES,IND,45
+Benton,0013 13 - Monroe,U.S. House,4,UNDER VOTES,IND,4
+Benton,0014 14 - Alsea School,U.S. House,4,UNDER VOTES,IND,4
+Benton,0015 15 - Northwest,U.S. House,4,UNDER VOTES,IND,20
+Benton,0016 16 - Corvallis Rural,U.S. House,4,UNDER VOTES,IND,31
+Benton,0017 17 - North,U.S. House,4,UNDER VOTES,IND,8
+Benton,0019 19 - South 509J,U.S. House,4,UNDER VOTES,IND,10
+Benton,0020 20 - Monroe Rural,U.S. House,4,UNDER VOTES,IND,9
+Benton,0021 21 - Philomath Rural,U.S. House,4,UNDER VOTES,IND,3
+Benton,0023 23 - Highway,U.S. House,4,UNDER VOTES,IND,3
+Benton,Total,U.S. House,4,UNDER VOTES,IND,421
+Benton,0001 01 - Corvallis ONE,U.S. House,4,Michael Polen,REP,9
+Benton,0002 02 - Corvallis TWO,U.S. House,4,Michael Polen,REP,7
+Benton,0003 03 - Corvallis THREE,U.S. House,4,Michael Polen,REP,13
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,Michael Polen,REP,7
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,Michael Polen,REP,1
+Benton,0006 06 - Corvallis SIX,U.S. House,4,Michael Polen,REP,24
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,Michael Polen,REP,10
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,Michael Polen,REP,29
+Benton,0009 09 - Corvallis NINE,U.S. House,4,Michael Polen,REP,20
+Benton,0010 10 - Philomath,U.S. House,4,Michael Polen,REP,16
+Benton,0013 13 - Monroe,U.S. House,4,Michael Polen,REP,5
+Benton,0014 14 - Alsea School,U.S. House,4,Michael Polen,REP,6
+Benton,0015 15 - Northwest,U.S. House,4,Michael Polen,REP,21
+Benton,0016 16 - Corvallis Rural,U.S. House,4,Michael Polen,REP,16
+Benton,0017 17 - North,U.S. House,4,Michael Polen,REP,5
+Benton,0019 19 - South 509J,U.S. House,4,Michael Polen,REP,16
+Benton,0020 20 - Monroe Rural,U.S. House,4,Michael Polen,REP,14
+Benton,0021 21 - Philomath Rural,U.S. House,4,Michael Polen,REP,3
+Benton,0023 23 - Highway,U.S. House,4,Michael Polen,REP,3
+Benton,Total,U.S. House,4,Michael Polen,REP,225
+Benton,0001 01 - Corvallis ONE,U.S. House,4,Jo Rae Perkins,REP,124
+Benton,0002 02 - Corvallis TWO,U.S. House,4,Jo Rae Perkins,REP,16
+Benton,0003 03 - Corvallis THREE,U.S. House,4,Jo Rae Perkins,REP,63
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,Jo Rae Perkins,REP,17
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,Jo Rae Perkins,REP,16
+Benton,0006 06 - Corvallis SIX,U.S. House,4,Jo Rae Perkins,REP,62
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,Jo Rae Perkins,REP,63
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,Jo Rae Perkins,REP,126
+Benton,0009 09 - Corvallis NINE,U.S. House,4,Jo Rae Perkins,REP,89
+Benton,0010 10 - Philomath,U.S. House,4,Jo Rae Perkins,REP,76
+Benton,0013 13 - Monroe,U.S. House,4,Jo Rae Perkins,REP,8
+Benton,0014 14 - Alsea School,U.S. House,4,Jo Rae Perkins,REP,14
+Benton,0015 15 - Northwest,U.S. House,4,Jo Rae Perkins,REP,98
+Benton,0016 16 - Corvallis Rural,U.S. House,4,Jo Rae Perkins,REP,107
+Benton,0017 17 - North,U.S. House,4,Jo Rae Perkins,REP,57
+Benton,0019 19 - South 509J,U.S. House,4,Jo Rae Perkins,REP,52
+Benton,0020 20 - Monroe Rural,U.S. House,4,Jo Rae Perkins,REP,54
+Benton,0021 21 - Philomath Rural,U.S. House,4,Jo Rae Perkins,REP,16
+Benton,0023 23 - Highway,U.S. House,4,Jo Rae Perkins,REP,27
+Benton,Total,U.S. House,4,Jo Rae Perkins,REP,1085
+Benton,0001 01 - Corvallis ONE,U.S. House,4,Court Boice,REP,57
+Benton,0002 02 - Corvallis TWO,U.S. House,4,Court Boice,REP,17
+Benton,0003 03 - Corvallis THREE,U.S. House,4,Court Boice,REP,42
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,Court Boice,REP,11
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,Court Boice,REP,11
+Benton,0006 06 - Corvallis SIX,U.S. House,4,Court Boice,REP,24
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,Court Boice,REP,48
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,Court Boice,REP,70
+Benton,0009 09 - Corvallis NINE,U.S. House,4,Court Boice,REP,55
+Benton,0010 10 - Philomath,U.S. House,4,Court Boice,REP,46
+Benton,0013 13 - Monroe,U.S. House,4,Court Boice,REP,8
+Benton,0014 14 - Alsea School,U.S. House,4,Court Boice,REP,16
+Benton,0015 15 - Northwest,U.S. House,4,Court Boice,REP,60
+Benton,0016 16 - Corvallis Rural,U.S. House,4,Court Boice,REP,66
+Benton,0017 17 - North,U.S. House,4,Court Boice,REP,29
+Benton,0019 19 - South 509J,U.S. House,4,Court Boice,REP,29
+Benton,0020 20 - Monroe Rural,U.S. House,4,Court Boice,REP,65
+Benton,0021 21 - Philomath Rural,U.S. House,4,Court Boice,REP,6
+Benton,0023 23 - Highway,U.S. House,4,Court Boice,REP,11
+Benton,Total,U.S. House,4,Court Boice,REP,671
+Benton,0001 01 - Corvallis ONE,U.S. House,4,Stefan G Strek,REP,6
+Benton,0002 02 - Corvallis TWO,U.S. House,4,Stefan G Strek,REP,4
+Benton,0003 03 - Corvallis THREE,U.S. House,4,Stefan G Strek,REP,8
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,Stefan G Strek,REP,2
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,Stefan G Strek,REP,5
+Benton,0006 06 - Corvallis SIX,U.S. House,4,Stefan G Strek,REP,15
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,Stefan G Strek,REP,9
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,Stefan G Strek,REP,7
+Benton,0009 09 - Corvallis NINE,U.S. House,4,Stefan G Strek,REP,10
+Benton,0010 10 - Philomath,U.S. House,4,Stefan G Strek,REP,9
+Benton,0013 13 - Monroe,U.S. House,4,Stefan G Strek,REP,1
+Benton,0014 14 - Alsea School,U.S. House,4,Stefan G Strek,REP,4
+Benton,0015 15 - Northwest,U.S. House,4,Stefan G Strek,REP,18
+Benton,0016 16 - Corvallis Rural,U.S. House,4,Stefan G Strek,REP,13
+Benton,0017 17 - North,U.S. House,4,Stefan G Strek,REP,7
+Benton,0019 19 - South 509J,U.S. House,4,Stefan G Strek,REP,7
+Benton,0020 20 - Monroe Rural,U.S. House,4,Stefan G Strek,REP,8
+Benton,0021 21 - Philomath Rural,U.S. House,4,Stefan G Strek,REP,1
+Benton,0023 23 - Highway,U.S. House,4,Stefan G Strek,REP,3
+Benton,Total,U.S. House,4,Stefan G Strek,REP,137
+Benton,0001 01 - Corvallis ONE,U.S. House,4,Arthur B Robinson,REP,148
+Benton,0002 02 - Corvallis TWO,U.S. House,4,Arthur B Robinson,REP,33
+Benton,0003 03 - Corvallis THREE,U.S. House,4,Arthur B Robinson,REP,113
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,Arthur B Robinson,REP,16
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,Arthur B Robinson,REP,22
+Benton,0006 06 - Corvallis SIX,U.S. House,4,Arthur B Robinson,REP,78
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,Arthur B Robinson,REP,117
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,Arthur B Robinson,REP,159
+Benton,0009 09 - Corvallis NINE,U.S. House,4,Arthur B Robinson,REP,159
+Benton,0010 10 - Philomath,U.S. House,4,Arthur B Robinson,REP,172
+Benton,0013 13 - Monroe,U.S. House,4,Arthur B Robinson,REP,20
+Benton,0014 14 - Alsea School,U.S. House,4,Arthur B Robinson,REP,49
+Benton,0015 15 - Northwest,U.S. House,4,Arthur B Robinson,REP,222
+Benton,0016 16 - Corvallis Rural,U.S. House,4,Arthur B Robinson,REP,178
+Benton,0017 17 - North,U.S. House,4,Arthur B Robinson,REP,90
+Benton,0019 19 - South 509J,U.S. House,4,Arthur B Robinson,REP,69
+Benton,0020 20 - Monroe Rural,U.S. House,4,Arthur B Robinson,REP,157
+Benton,0021 21 - Philomath Rural,U.S. House,4,Arthur B Robinson,REP,31
+Benton,0023 23 - Highway,U.S. House,4,Arthur B Robinson,REP,51
+Benton,Total,U.S. House,4,Arthur B Robinson,REP,1884
+Benton,0001 01 - Corvallis ONE,U.S. House,4,WRITE-IN,REP,2
+Benton,0002 02 - Corvallis TWO,U.S. House,4,WRITE-IN,REP,3
+Benton,0003 03 - Corvallis THREE,U.S. House,4,WRITE-IN,REP,3
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,WRITE-IN,REP,0
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,WRITE-IN,REP,3
+Benton,0006 06 - Corvallis SIX,U.S. House,4,WRITE-IN,REP,2
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,WRITE-IN,REP,4
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,WRITE-IN,REP,6
+Benton,0009 09 - Corvallis NINE,U.S. House,4,WRITE-IN,REP,0
+Benton,0010 10 - Philomath,U.S. House,4,WRITE-IN,REP,5
+Benton,0013 13 - Monroe,U.S. House,4,WRITE-IN,REP,0
+Benton,0014 14 - Alsea School,U.S. House,4,WRITE-IN,REP,2
+Benton,0015 15 - Northwest,U.S. House,4,WRITE-IN,REP,3
+Benton,0016 16 - Corvallis Rural,U.S. House,4,WRITE-IN,REP,0
+Benton,0017 17 - North,U.S. House,4,WRITE-IN,REP,1
+Benton,0019 19 - South 509J,U.S. House,4,WRITE-IN,REP,2
+Benton,0020 20 - Monroe Rural,U.S. House,4,WRITE-IN,REP,1
+Benton,0021 21 - Philomath Rural,U.S. House,4,WRITE-IN,REP,1
+Benton,0023 23 - Highway,U.S. House,4,WRITE-IN,REP,0
+Benton,Total,U.S. House,4,WRITE-IN,REP,38
+Benton,0001 01 - Corvallis ONE,U.S. House,4,OVER VOTES,REP,0
+Benton,0002 02 - Corvallis TWO,U.S. House,4,OVER VOTES,REP,0
+Benton,0003 03 - Corvallis THREE,U.S. House,4,OVER VOTES,REP,0
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,OVER VOTES,REP,0
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,OVER VOTES,REP,0
+Benton,0006 06 - Corvallis SIX,U.S. House,4,OVER VOTES,REP,0
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,OVER VOTES,REP,0
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,OVER VOTES,REP,0
+Benton,0009 09 - Corvallis NINE,U.S. House,4,OVER VOTES,REP,0
+Benton,0010 10 - Philomath,U.S. House,4,OVER VOTES,REP,0
+Benton,0013 13 - Monroe,U.S. House,4,OVER VOTES,REP,0
+Benton,0014 14 - Alsea School,U.S. House,4,OVER VOTES,REP,0
+Benton,0015 15 - Northwest,U.S. House,4,OVER VOTES,REP,0
+Benton,0016 16 - Corvallis Rural,U.S. House,4,OVER VOTES,REP,0
+Benton,0017 17 - North,U.S. House,4,OVER VOTES,REP,0
+Benton,0019 19 - South 509J,U.S. House,4,OVER VOTES,REP,0
+Benton,0020 20 - Monroe Rural,U.S. House,4,OVER VOTES,REP,0
+Benton,0021 21 - Philomath Rural,U.S. House,4,OVER VOTES,REP,0
+Benton,0023 23 - Highway,U.S. House,4,OVER VOTES,REP,0
+Benton,Total,U.S. House,4,OVER VOTES,REP,0
+Benton,0001 01 - Corvallis ONE,U.S. House,4,UNDER VOTES,REP,104
+Benton,0002 02 - Corvallis TWO,U.S. House,4,UNDER VOTES,REP,16
+Benton,0003 03 - Corvallis THREE,U.S. House,4,UNDER VOTES,REP,37
+Benton,0004 04 - Corvallis FOUR,U.S. House,4,UNDER VOTES,REP,22
+Benton,0005 05 - Corvallis FIVE,U.S. House,4,UNDER VOTES,REP,13
+Benton,0006 06 - Corvallis SIX,U.S. House,4,UNDER VOTES,REP,44
+Benton,0007 07 - Corvallis SEVEN,U.S. House,4,UNDER VOTES,REP,80
+Benton,0008 08 - Corvallis EIGHT,U.S. House,4,UNDER VOTES,REP,120
+Benton,0009 09 - Corvallis NINE,U.S. House,4,UNDER VOTES,REP,61
+Benton,0010 10 - Philomath,U.S. House,4,UNDER VOTES,REP,58
+Benton,0013 13 - Monroe,U.S. House,4,UNDER VOTES,REP,2
+Benton,0014 14 - Alsea School,U.S. House,4,UNDER VOTES,REP,7
+Benton,0015 15 - Northwest,U.S. House,4,UNDER VOTES,REP,69
+Benton,0016 16 - Corvallis Rural,U.S. House,4,UNDER VOTES,REP,105
+Benton,0017 17 - North,U.S. House,4,UNDER VOTES,REP,32
+Benton,0019 19 - South 509J,U.S. House,4,UNDER VOTES,REP,29
+Benton,0020 20 - Monroe Rural,U.S. House,4,UNDER VOTES,REP,15
+Benton,0021 21 - Philomath Rural,U.S. House,4,UNDER VOTES,REP,9
+Benton,0023 23 - Highway,U.S. House,4,UNDER VOTES,REP,15
+Benton,Total,U.S. House,4,UNDER VOTES,REP,838
+Benton,0001 01 - Corvallis ONE,Governor,,Ed Jones,DEM,24
+Benton,0002 02 - Corvallis TWO,Governor,,Ed Jones,DEM,19
+Benton,0003 03 - Corvallis THREE,Governor,,Ed Jones,DEM,27
+Benton,0004 04 - Corvallis FOUR,Governor,,Ed Jones,DEM,7
+Benton,0005 05 - Corvallis FIVE,Governor,,Ed Jones,DEM,8
+Benton,0006 06 - Corvallis SIX,Governor,,Ed Jones,DEM,34
+Benton,0007 07 - Corvallis SEVEN,Governor,,Ed Jones,DEM,30
+Benton,0008 08 - Corvallis EIGHT,Governor,,Ed Jones,DEM,39
+Benton,0009 09 - Corvallis NINE,Governor,,Ed Jones,DEM,46
+Benton,0010 10 - Philomath,Governor,,Ed Jones,DEM,35
+Benton,0012 12 - Adair Village,Governor,,Ed Jones,DEM,5
+Benton,0013 13 - Monroe,Governor,,Ed Jones,DEM,9
+Benton,0014 14 - Alsea School,Governor,,Ed Jones,DEM,13
+Benton,0015 15 - Northwest,Governor,,Ed Jones,DEM,55
+Benton,0016 16 - Corvallis Rural,Governor,,Ed Jones,DEM,40
+Benton,0017 17 - North 509J,Governor,,Ed Jones,DEM,13
+Benton,0018 18 - Albany Rural,Governor,,Ed Jones,DEM,30
+Benton,0019 19 - South 509J,Governor,,Ed Jones,DEM,29
+Benton,0020 20 - Monroe Rural,Governor,,Ed Jones,DEM,31
+Benton,0021 21 - Philomath Rural,Governor,,Ed Jones,DEM,6
+Benton,0022 22 - Adair Rural,Governor,,Ed Jones,DEM,6
+Benton,0023 23 - Highway 20,Governor,,Ed Jones,DEM,11
+Benton,0024 24 - N Albany N,Governor,,Ed Jones,DEM,61
+Benton,0025 25 - N Albany S,Governor,,Ed Jones,DEM,45
+Benton,Total,Governor,,Ed Jones,DEM,623
+Benton,0001 01 - Corvallis ONE,Governor,,Kate Brown,DEM,993
+Benton,0002 02 - Corvallis TWO,Governor,,Kate Brown,DEM,485
+Benton,0003 03 - Corvallis THREE,Governor,,Kate Brown,DEM,907
+Benton,0004 04 - Corvallis FOUR,Governor,,Kate Brown,DEM,351
+Benton,0005 05 - Corvallis FIVE,Governor,,Kate Brown,DEM,510
+Benton,0006 06 - Corvallis SIX,Governor,,Kate Brown,DEM,840
+Benton,0007 07 - Corvallis SEVEN,Governor,,Kate Brown,DEM,1426
+Benton,0008 08 - Corvallis EIGHT,Governor,,Kate Brown,DEM,1284
+Benton,0009 09 - Corvallis NINE,Governor,,Kate Brown,DEM,715
+Benton,0010 10 - Philomath,Governor,,Kate Brown,DEM,461
+Benton,0012 12 - Adair Village,Governor,,Kate Brown,DEM,55
+Benton,0013 13 - Monroe,Governor,,Kate Brown,DEM,27
+Benton,0014 14 - Alsea School,Governor,,Kate Brown,DEM,54
+Benton,0015 15 - Northwest,Governor,,Kate Brown,DEM,462
+Benton,0016 16 - Corvallis Rural,Governor,,Kate Brown,DEM,783
+Benton,0017 17 - North 509J,Governor,,Kate Brown,DEM,399
+Benton,0018 18 - Albany Rural,Governor,,Kate Brown,DEM,185
+Benton,0019 19 - South 509J,Governor,,Kate Brown,DEM,264
+Benton,0020 20 - Monroe Rural,Governor,,Kate Brown,DEM,104
+Benton,0021 21 - Philomath Rural,Governor,,Kate Brown,DEM,72
+Benton,0022 22 - Adair Rural,Governor,,Kate Brown,DEM,82
+Benton,0023 23 - Highway 20,Governor,,Kate Brown,DEM,112
+Benton,0024 24 - N Albany N,Governor,,Kate Brown,DEM,445
+Benton,0025 25 - N Albany S,Governor,,Kate Brown,DEM,341
+Benton,Total,Governor,,Kate Brown,DEM,11357
+Benton,0001 01 - Corvallis ONE,Governor,,Candace Neville,DEM,47
+Benton,0002 02 - Corvallis TWO,Governor,,Candace Neville,DEM,37
+Benton,0003 03 - Corvallis THREE,Governor,,Candace Neville,DEM,48
+Benton,0004 04 - Corvallis FOUR,Governor,,Candace Neville,DEM,26
+Benton,0005 05 - Corvallis FIVE,Governor,,Candace Neville,DEM,16
+Benton,0006 06 - Corvallis SIX,Governor,,Candace Neville,DEM,43
+Benton,0007 07 - Corvallis SEVEN,Governor,,Candace Neville,DEM,49
+Benton,0008 08 - Corvallis EIGHT,Governor,,Candace Neville,DEM,46
+Benton,0009 09 - Corvallis NINE,Governor,,Candace Neville,DEM,42
+Benton,0010 10 - Philomath,Governor,,Candace Neville,DEM,45
+Benton,0012 12 - Adair Village,Governor,,Candace Neville,DEM,5
+Benton,0013 13 - Monroe,Governor,,Candace Neville,DEM,6
+Benton,0014 14 - Alsea School,Governor,,Candace Neville,DEM,7
+Benton,0015 15 - Northwest,Governor,,Candace Neville,DEM,50
+Benton,0016 16 - Corvallis Rural,Governor,,Candace Neville,DEM,58
+Benton,0017 17 - North 509J,Governor,,Candace Neville,DEM,22
+Benton,0018 18 - Albany Rural,Governor,,Candace Neville,DEM,19
+Benton,0019 19 - South 509J,Governor,,Candace Neville,DEM,12
+Benton,0020 20 - Monroe Rural,Governor,,Candace Neville,DEM,28
+Benton,0021 21 - Philomath Rural,Governor,,Candace Neville,DEM,8
+Benton,0022 22 - Adair Rural,Governor,,Candace Neville,DEM,7
+Benton,0023 23 - Highway 20,Governor,,Candace Neville,DEM,8
+Benton,0024 24 - N Albany N,Governor,,Candace Neville,DEM,40
+Benton,0025 25 - N Albany S,Governor,,Candace Neville,DEM,53
+Benton,Total,Governor,,Candace Neville,DEM,722
+Benton,0001 01 - Corvallis ONE,Governor,,WRITE-IN,DEM,5
+Benton,0002 02 - Corvallis TWO,Governor,,WRITE-IN,DEM,3
+Benton,0003 03 - Corvallis THREE,Governor,,WRITE-IN,DEM,14
+Benton,0004 04 - Corvallis FOUR,Governor,,WRITE-IN,DEM,2
+Benton,0005 05 - Corvallis FIVE,Governor,,WRITE-IN,DEM,1
+Benton,0006 06 - Corvallis SIX,Governor,,WRITE-IN,DEM,3
+Benton,0007 07 - Corvallis SEVEN,Governor,,WRITE-IN,DEM,3
+Benton,0008 08 - Corvallis EIGHT,Governor,,WRITE-IN,DEM,6
+Benton,0009 09 - Corvallis NINE,Governor,,WRITE-IN,DEM,8
+Benton,0010 10 - Philomath,Governor,,WRITE-IN,DEM,10
+Benton,0012 12 - Adair Village,Governor,,WRITE-IN,DEM,0
+Benton,0013 13 - Monroe,Governor,,WRITE-IN,DEM,3
+Benton,0014 14 - Alsea School,Governor,,WRITE-IN,DEM,2
+Benton,0015 15 - Northwest,Governor,,WRITE-IN,DEM,6
+Benton,0016 16 - Corvallis Rural,Governor,,WRITE-IN,DEM,3
+Benton,0017 17 - North 509J,Governor,,WRITE-IN,DEM,4
+Benton,0018 18 - Albany Rural,Governor,,WRITE-IN,DEM,7
+Benton,0019 19 - South 509J,Governor,,WRITE-IN,DEM,2
+Benton,0020 20 - Monroe Rural,Governor,,WRITE-IN,DEM,6
+Benton,0021 21 - Philomath Rural,Governor,,WRITE-IN,DEM,4
+Benton,0022 22 - Adair Rural,Governor,,WRITE-IN,DEM,4
+Benton,0023 23 - Highway 20,Governor,,WRITE-IN,DEM,2
+Benton,0024 24 - N Albany N,Governor,,WRITE-IN,DEM,9
+Benton,0025 25 - N Albany S,Governor,,WRITE-IN,DEM,6
+Benton,Total,Governor,,WRITE-IN,DEM,113
+Benton,0001 01 - Corvallis ONE,Governor,,OVER VOTES,DEM,0
+Benton,0002 02 - Corvallis TWO,Governor,,OVER VOTES,DEM,0
+Benton,0003 03 - Corvallis THREE,Governor,,OVER VOTES,DEM,0
+Benton,0004 04 - Corvallis FOUR,Governor,,OVER VOTES,DEM,0
+Benton,0005 05 - Corvallis FIVE,Governor,,OVER VOTES,DEM,0
+Benton,0006 06 - Corvallis SIX,Governor,,OVER VOTES,DEM,0
+Benton,0007 07 - Corvallis SEVEN,Governor,,OVER VOTES,DEM,0
+Benton,0008 08 - Corvallis EIGHT,Governor,,OVER VOTES,DEM,0
+Benton,0009 09 - Corvallis NINE,Governor,,OVER VOTES,DEM,1
+Benton,0010 10 - Philomath,Governor,,OVER VOTES,DEM,0
+Benton,0012 12 - Adair Village,Governor,,OVER VOTES,DEM,0
+Benton,0013 13 - Monroe,Governor,,OVER VOTES,DEM,0
+Benton,0014 14 - Alsea School,Governor,,OVER VOTES,DEM,0
+Benton,0015 15 - Northwest,Governor,,OVER VOTES,DEM,0
+Benton,0016 16 - Corvallis Rural,Governor,,OVER VOTES,DEM,0
+Benton,0017 17 - North 509J,Governor,,OVER VOTES,DEM,0
+Benton,0018 18 - Albany Rural,Governor,,OVER VOTES,DEM,0
+Benton,0019 19 - South 509J,Governor,,OVER VOTES,DEM,0
+Benton,0020 20 - Monroe Rural,Governor,,OVER VOTES,DEM,0
+Benton,0021 21 - Philomath Rural,Governor,,OVER VOTES,DEM,0
+Benton,0022 22 - Adair Rural,Governor,,OVER VOTES,DEM,0
+Benton,0023 23 - Highway 20,Governor,,OVER VOTES,DEM,0
+Benton,0024 24 - N Albany N,Governor,,OVER VOTES,DEM,0
+Benton,0025 25 - N Albany S,Governor,,OVER VOTES,DEM,0
+Benton,Total,Governor,,OVER VOTES,DEM,1
+Benton,0001 01 - Corvallis ONE,Governor,,UNDER VOTES,DEM,57
+Benton,0002 02 - Corvallis TWO,Governor,,UNDER VOTES,DEM,20
+Benton,0003 03 - Corvallis THREE,Governor,,UNDER VOTES,DEM,46
+Benton,0004 04 - Corvallis FOUR,Governor,,UNDER VOTES,DEM,20
+Benton,0005 05 - Corvallis FIVE,Governor,,UNDER VOTES,DEM,30
+Benton,0006 06 - Corvallis SIX,Governor,,UNDER VOTES,DEM,38
+Benton,0007 07 - Corvallis SEVEN,Governor,,UNDER VOTES,DEM,54
+Benton,0008 08 - Corvallis EIGHT,Governor,,UNDER VOTES,DEM,79
+Benton,0009 09 - Corvallis NINE,Governor,,UNDER VOTES,DEM,51
+Benton,0010 10 - Philomath,Governor,,UNDER VOTES,DEM,41
+Benton,0012 12 - Adair Village,Governor,,UNDER VOTES,DEM,1
+Benton,0013 13 - Monroe,Governor,,UNDER VOTES,DEM,2
+Benton,0014 14 - Alsea School,Governor,,UNDER VOTES,DEM,3
+Benton,0015 15 - Northwest,Governor,,UNDER VOTES,DEM,31
+Benton,0016 16 - Corvallis Rural,Governor,,UNDER VOTES,DEM,39
+Benton,0017 17 - North 509J,Governor,,UNDER VOTES,DEM,22
+Benton,0018 18 - Albany Rural,Governor,,UNDER VOTES,DEM,8
+Benton,0019 19 - South 509J,Governor,,UNDER VOTES,DEM,13
+Benton,0020 20 - Monroe Rural,Governor,,UNDER VOTES,DEM,5
+Benton,0021 21 - Philomath Rural,Governor,,UNDER VOTES,DEM,3
+Benton,0022 22 - Adair Rural,Governor,,UNDER VOTES,DEM,5
+Benton,0023 23 - Highway 20,Governor,,UNDER VOTES,DEM,3
+Benton,0024 24 - N Albany N,Governor,,UNDER VOTES,DEM,21
+Benton,0025 25 - N Albany S,Governor,,UNDER VOTES,DEM,31
+Benton,Total,Governor,,UNDER VOTES,DEM,623
+Benton,0001 01 - Corvallis ONE,Governor,,Dan (Mr P) Pistoresi,IND,3
+Benton,0002 02 - Corvallis TWO,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0003 03 - Corvallis THREE,Governor,,Dan (Mr P) Pistoresi,IND,2
+Benton,0004 04 - Corvallis FOUR,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0005 05 - Corvallis FIVE,Governor,,Dan (Mr P) Pistoresi,IND,2
+Benton,0006 06 - Corvallis SIX,Governor,,Dan (Mr P) Pistoresi,IND,5
+Benton,0007 07 - Corvallis SEVEN,Governor,,Dan (Mr P) Pistoresi,IND,3
+Benton,0008 08 - Corvallis EIGHT,Governor,,Dan (Mr P) Pistoresi,IND,6
+Benton,0009 09 - Corvallis NINE,Governor,,Dan (Mr P) Pistoresi,IND,3
+Benton,0010 10 - Philomath,Governor,,Dan (Mr P) Pistoresi,IND,5
+Benton,0012 12 - Adair Village,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0013 13 - Monroe,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0014 14 - Alsea School,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0015 15 - Northwest,Governor,,Dan (Mr P) Pistoresi,IND,3
+Benton,0016 16 - Corvallis Rural,Governor,,Dan (Mr P) Pistoresi,IND,3
+Benton,0017 17 - North 509J,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0018 18 - Albany Rural,Governor,,Dan (Mr P) Pistoresi,IND,1
+Benton,0019 19 - South 509J,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0020 20 - Monroe Rural,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0021 21 - Philomath Rural,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0022 22 - Adair Rural,Governor,,Dan (Mr P) Pistoresi,IND,0
+Benton,0023 23 - Highway 20,Governor,,Dan (Mr P) Pistoresi,IND,1
+Benton,0024 24 - N Albany N,Governor,,Dan (Mr P) Pistoresi,IND,2
+Benton,0025 25 - N Albany S,Governor,,Dan (Mr P) Pistoresi,IND,3
+Benton,Total,Governor,,Dan (Mr P) Pistoresi,IND,42
+Benton,0001 01 - Corvallis ONE,Governor,,Skye J Allen,IND,5
+Benton,0002 02 - Corvallis TWO,Governor,,Skye J Allen,IND,2
+Benton,0003 03 - Corvallis THREE,Governor,,Skye J Allen,IND,2
+Benton,0004 04 - Corvallis FOUR,Governor,,Skye J Allen,IND,2
+Benton,0005 05 - Corvallis FIVE,Governor,,Skye J Allen,IND,1
+Benton,0006 06 - Corvallis SIX,Governor,,Skye J Allen,IND,2
+Benton,0007 07 - Corvallis SEVEN,Governor,,Skye J Allen,IND,5
+Benton,0008 08 - Corvallis EIGHT,Governor,,Skye J Allen,IND,4
+Benton,0009 09 - Corvallis NINE,Governor,,Skye J Allen,IND,3
+Benton,0010 10 - Philomath,Governor,,Skye J Allen,IND,7
+Benton,0012 12 - Adair Village,Governor,,Skye J Allen,IND,1
+Benton,0013 13 - Monroe,Governor,,Skye J Allen,IND,0
+Benton,0014 14 - Alsea School,Governor,,Skye J Allen,IND,1
+Benton,0015 15 - Northwest,Governor,,Skye J Allen,IND,2
+Benton,0016 16 - Corvallis Rural,Governor,,Skye J Allen,IND,2
+Benton,0017 17 - North 509J,Governor,,Skye J Allen,IND,0
+Benton,0018 18 - Albany Rural,Governor,,Skye J Allen,IND,1
+Benton,0019 19 - South 509J,Governor,,Skye J Allen,IND,1
+Benton,0020 20 - Monroe Rural,Governor,,Skye J Allen,IND,0
+Benton,0021 21 - Philomath Rural,Governor,,Skye J Allen,IND,0
+Benton,0022 22 - Adair Rural,Governor,,Skye J Allen,IND,0
+Benton,0023 23 - Highway 20,Governor,,Skye J Allen,IND,0
+Benton,0024 24 - N Albany N,Governor,,Skye J Allen,IND,1
+Benton,0025 25 - N Albany S,Governor,,Skye J Allen,IND,1
+Benton,Total,Governor,,Skye J Allen,IND,43
+Benton,0001 01 - Corvallis ONE,Governor,,Patrick Starnes,IND,7
+Benton,0002 02 - Corvallis TWO,Governor,,Patrick Starnes,IND,5
+Benton,0003 03 - Corvallis THREE,Governor,,Patrick Starnes,IND,10
+Benton,0004 04 - Corvallis FOUR,Governor,,Patrick Starnes,IND,5
+Benton,0005 05 - Corvallis FIVE,Governor,,Patrick Starnes,IND,4
+Benton,0006 06 - Corvallis SIX,Governor,,Patrick Starnes,IND,10
+Benton,0007 07 - Corvallis SEVEN,Governor,,Patrick Starnes,IND,7
+Benton,0008 08 - Corvallis EIGHT,Governor,,Patrick Starnes,IND,10
+Benton,0009 09 - Corvallis NINE,Governor,,Patrick Starnes,IND,6
+Benton,0010 10 - Philomath,Governor,,Patrick Starnes,IND,11
+Benton,0012 12 - Adair Village,Governor,,Patrick Starnes,IND,0
+Benton,0013 13 - Monroe,Governor,,Patrick Starnes,IND,3
+Benton,0014 14 - Alsea School,Governor,,Patrick Starnes,IND,3
+Benton,0015 15 - Northwest,Governor,,Patrick Starnes,IND,7
+Benton,0016 16 - Corvallis Rural,Governor,,Patrick Starnes,IND,9
+Benton,0017 17 - North 509J,Governor,,Patrick Starnes,IND,2
+Benton,0018 18 - Albany Rural,Governor,,Patrick Starnes,IND,1
+Benton,0019 19 - South 509J,Governor,,Patrick Starnes,IND,4
+Benton,0020 20 - Monroe Rural,Governor,,Patrick Starnes,IND,2
+Benton,0021 21 - Philomath Rural,Governor,,Patrick Starnes,IND,1
+Benton,0022 22 - Adair Rural,Governor,,Patrick Starnes,IND,2
+Benton,0023 23 - Highway 20,Governor,,Patrick Starnes,IND,0
+Benton,0024 24 - N Albany N,Governor,,Patrick Starnes,IND,7
+Benton,0025 25 - N Albany S,Governor,,Patrick Starnes,IND,5
+Benton,Total,Governor,,Patrick Starnes,IND,121
+Benton,0001 01 - Corvallis ONE,Governor,,WRITE-IN,IND,18
+Benton,0002 02 - Corvallis TWO,Governor,,WRITE-IN,IND,4
+Benton,0003 03 - Corvallis THREE,Governor,,WRITE-IN,IND,22
+Benton,0004 04 - Corvallis FOUR,Governor,,WRITE-IN,IND,5
+Benton,0005 05 - Corvallis FIVE,Governor,,WRITE-IN,IND,4
+Benton,0006 06 - Corvallis SIX,Governor,,WRITE-IN,IND,18
+Benton,0007 07 - Corvallis SEVEN,Governor,,WRITE-IN,IND,10
+Benton,0008 08 - Corvallis EIGHT,Governor,,WRITE-IN,IND,24
+Benton,0009 09 - Corvallis NINE,Governor,,WRITE-IN,IND,8
+Benton,0010 10 - Philomath,Governor,,WRITE-IN,IND,13
+Benton,0012 12 - Adair Village,Governor,,WRITE-IN,IND,1
+Benton,0013 13 - Monroe,Governor,,WRITE-IN,IND,2
+Benton,0014 14 - Alsea School,Governor,,WRITE-IN,IND,5
+Benton,0015 15 - Northwest,Governor,,WRITE-IN,IND,15
+Benton,0016 16 - Corvallis Rural,Governor,,WRITE-IN,IND,18
+Benton,0017 17 - North 509J,Governor,,WRITE-IN,IND,7
+Benton,0018 18 - Albany Rural,Governor,,WRITE-IN,IND,12
+Benton,0019 19 - South 509J,Governor,,WRITE-IN,IND,6
+Benton,0020 20 - Monroe Rural,Governor,,WRITE-IN,IND,13
+Benton,0021 21 - Philomath Rural,Governor,,WRITE-IN,IND,0
+Benton,0022 22 - Adair Rural,Governor,,WRITE-IN,IND,2
+Benton,0023 23 - Highway 20,Governor,,WRITE-IN,IND,2
+Benton,0024 24 - N Albany N,Governor,,WRITE-IN,IND,15
+Benton,0025 25 - N Albany S,Governor,,WRITE-IN,IND,17
+Benton,Total,Governor,,WRITE-IN,IND,241
+Benton,0001 01 - Corvallis ONE,Governor,,OVER VOTES,IND,0
+Benton,0002 02 - Corvallis TWO,Governor,,OVER VOTES,IND,0
+Benton,0003 03 - Corvallis THREE,Governor,,OVER VOTES,IND,0
+Benton,0004 04 - Corvallis FOUR,Governor,,OVER VOTES,IND,0
+Benton,0005 05 - Corvallis FIVE,Governor,,OVER VOTES,IND,0
+Benton,0006 06 - Corvallis SIX,Governor,,OVER VOTES,IND,0
+Benton,0007 07 - Corvallis SEVEN,Governor,,OVER VOTES,IND,0
+Benton,0008 08 - Corvallis EIGHT,Governor,,OVER VOTES,IND,0
+Benton,0009 09 - Corvallis NINE,Governor,,OVER VOTES,IND,0
+Benton,0010 10 - Philomath,Governor,,OVER VOTES,IND,0
+Benton,0012 12 - Adair Village,Governor,,OVER VOTES,IND,0
+Benton,0013 13 - Monroe,Governor,,OVER VOTES,IND,0
+Benton,0014 14 - Alsea School,Governor,,OVER VOTES,IND,0
+Benton,0015 15 - Northwest,Governor,,OVER VOTES,IND,0
+Benton,0016 16 - Corvallis Rural,Governor,,OVER VOTES,IND,0
+Benton,0017 17 - North 509J,Governor,,OVER VOTES,IND,0
+Benton,0018 18 - Albany Rural,Governor,,OVER VOTES,IND,0
+Benton,0019 19 - South 509J,Governor,,OVER VOTES,IND,0
+Benton,0020 20 - Monroe Rural,Governor,,OVER VOTES,IND,0
+Benton,0021 21 - Philomath Rural,Governor,,OVER VOTES,IND,0
+Benton,0022 22 - Adair Rural,Governor,,OVER VOTES,IND,0
+Benton,0023 23 - Highway 20,Governor,,OVER VOTES,IND,0
+Benton,0024 24 - N Albany N,Governor,,OVER VOTES,IND,0
+Benton,0025 25 - N Albany S,Governor,,OVER VOTES,IND,0
+Benton,Total,Governor,,OVER VOTES,IND,0
+Benton,0001 01 - Corvallis ONE,Governor,,UNDER VOTES,IND,21
+Benton,0002 02 - Corvallis TWO,Governor,,UNDER VOTES,IND,9
+Benton,0003 03 - Corvallis THREE,Governor,,UNDER VOTES,IND,25
+Benton,0004 04 - Corvallis FOUR,Governor,,UNDER VOTES,IND,4
+Benton,0005 05 - Corvallis FIVE,Governor,,UNDER VOTES,IND,7
+Benton,0006 06 - Corvallis SIX,Governor,,UNDER VOTES,IND,16
+Benton,0007 07 - Corvallis SEVEN,Governor,,UNDER VOTES,IND,20
+Benton,0008 08 - Corvallis EIGHT,Governor,,UNDER VOTES,IND,33
+Benton,0009 09 - Corvallis NINE,Governor,,UNDER VOTES,IND,22
+Benton,0010 10 - Philomath,Governor,,UNDER VOTES,IND,23
+Benton,0012 12 - Adair Village,Governor,,UNDER VOTES,IND,1
+Benton,0013 13 - Monroe,Governor,,UNDER VOTES,IND,0
+Benton,0014 14 - Alsea School,Governor,,UNDER VOTES,IND,0
+Benton,0015 15 - Northwest,Governor,,UNDER VOTES,IND,12
+Benton,0016 16 - Corvallis Rural,Governor,,UNDER VOTES,IND,19
+Benton,0017 17 - North 509J,Governor,,UNDER VOTES,IND,7
+Benton,0018 18 - Albany Rural,Governor,,UNDER VOTES,IND,3
+Benton,0019 19 - South 509J,Governor,,UNDER VOTES,IND,3
+Benton,0020 20 - Monroe Rural,Governor,,UNDER VOTES,IND,4
+Benton,0021 21 - Philomath Rural,Governor,,UNDER VOTES,IND,2
+Benton,0022 22 - Adair Rural,Governor,,UNDER VOTES,IND,6
+Benton,0023 23 - Highway 20,Governor,,UNDER VOTES,IND,1
+Benton,0024 24 - N Albany N,Governor,,UNDER VOTES,IND,24
+Benton,0025 25 - N Albany S,Governor,,UNDER VOTES,IND,10
+Benton,Total,Governor,,UNDER VOTES,IND,272
+Benton,0001 01 - Corvallis ONE,Governor,,Knute Buehler,REP,264
+Benton,0002 02 - Corvallis TWO,Governor,,Knute Buehler,REP,35
+Benton,0003 03 - Corvallis THREE,Governor,,Knute Buehler,REP,130
+Benton,0004 04 - Corvallis FOUR,Governor,,Knute Buehler,REP,38
+Benton,0005 05 - Corvallis FIVE,Governor,,Knute Buehler,REP,28
+Benton,0006 06 - Corvallis SIX,Governor,,Knute Buehler,REP,118
+Benton,0007 07 - Corvallis SEVEN,Governor,,Knute Buehler,REP,176
+Benton,0008 08 - Corvallis EIGHT,Governor,,Knute Buehler,REP,285
+Benton,0009 09 - Corvallis NINE,Governor,,Knute Buehler,REP,168
+Benton,0010 10 - Philomath,Governor,,Knute Buehler,REP,158
+Benton,0012 12 - Adair Village,Governor,,Knute Buehler,REP,29
+Benton,0013 13 - Monroe,Governor,,Knute Buehler,REP,16
+Benton,0014 14 - Alsea School,Governor,,Knute Buehler,REP,29
+Benton,0015 15 - Northwest,Governor,,Knute Buehler,REP,202
+Benton,0016 16 - Corvallis Rural,Governor,,Knute Buehler,REP,241
+Benton,0017 17 - North 509J,Governor,,Knute Buehler,REP,100
+Benton,0018 18 - Albany Rural,Governor,,Knute Buehler,REP,160
+Benton,0019 19 - South 509J,Governor,,Knute Buehler,REP,97
+Benton,0020 20 - Monroe Rural,Governor,,Knute Buehler,REP,120
+Benton,0021 21 - Philomath Rural,Governor,,Knute Buehler,REP,27
+Benton,0022 22 - Adair Rural,Governor,,Knute Buehler,REP,42
+Benton,0023 23 - Highway 20,Governor,,Knute Buehler,REP,51
+Benton,0024 24 - N Albany N,Governor,,Knute Buehler,REP,333
+Benton,0025 25 - N Albany S,Governor,,Knute Buehler,REP,267
+Benton,Total,Governor,,Knute Buehler,REP,3114
+Benton,0001 01 - Corvallis ONE,Governor,,Keenan N Bohach,REP,3
+Benton,0002 02 - Corvallis TWO,Governor,,Keenan N Bohach,REP,1
+Benton,0003 03 - Corvallis THREE,Governor,,Keenan N Bohach,REP,0
+Benton,0004 04 - Corvallis FOUR,Governor,,Keenan N Bohach,REP,0
+Benton,0005 05 - Corvallis FIVE,Governor,,Keenan N Bohach,REP,0
+Benton,0006 06 - Corvallis SIX,Governor,,Keenan N Bohach,REP,1
+Benton,0007 07 - Corvallis SEVEN,Governor,,Keenan N Bohach,REP,0
+Benton,0008 08 - Corvallis EIGHT,Governor,,Keenan N Bohach,REP,2
+Benton,0009 09 - Corvallis NINE,Governor,,Keenan N Bohach,REP,2
+Benton,0010 10 - Philomath,Governor,,Keenan N Bohach,REP,1
+Benton,0012 12 - Adair Village,Governor,,Keenan N Bohach,REP,0
+Benton,0013 13 - Monroe,Governor,,Keenan N Bohach,REP,0
+Benton,0014 14 - Alsea School,Governor,,Keenan N Bohach,REP,0
+Benton,0015 15 - Northwest,Governor,,Keenan N Bohach,REP,0
+Benton,0016 16 - Corvallis Rural,Governor,,Keenan N Bohach,REP,2
+Benton,0017 17 - North 509J,Governor,,Keenan N Bohach,REP,1
+Benton,0018 18 - Albany Rural,Governor,,Keenan N Bohach,REP,0
+Benton,0019 19 - South 509J,Governor,,Keenan N Bohach,REP,1
+Benton,0020 20 - Monroe Rural,Governor,,Keenan N Bohach,REP,1
+Benton,0021 21 - Philomath Rural,Governor,,Keenan N Bohach,REP,0
+Benton,0022 22 - Adair Rural,Governor,,Keenan N Bohach,REP,0
+Benton,0023 23 - Highway 20,Governor,,Keenan N Bohach,REP,0
+Benton,0024 24 - N Albany N,Governor,,Keenan N Bohach,REP,2
+Benton,0025 25 - N Albany S,Governor,,Keenan N Bohach,REP,1
+Benton,Total,Governor,,Keenan N Bohach,REP,18
+Benton,0001 01 - Corvallis ONE,Governor,,Greg C Wooldridge,REP,71
+Benton,0002 02 - Corvallis TWO,Governor,,Greg C Wooldridge,REP,15
+Benton,0003 03 - Corvallis THREE,Governor,,Greg C Wooldridge,REP,51
+Benton,0004 04 - Corvallis FOUR,Governor,,Greg C Wooldridge,REP,10
+Benton,0005 05 - Corvallis FIVE,Governor,,Greg C Wooldridge,REP,12
+Benton,0006 06 - Corvallis SIX,Governor,,Greg C Wooldridge,REP,37
+Benton,0007 07 - Corvallis SEVEN,Governor,,Greg C Wooldridge,REP,52
+Benton,0008 08 - Corvallis EIGHT,Governor,,Greg C Wooldridge,REP,67
+Benton,0009 09 - Corvallis NINE,Governor,,Greg C Wooldridge,REP,93
+Benton,0010 10 - Philomath,Governor,,Greg C Wooldridge,REP,72
+Benton,0012 12 - Adair Village,Governor,,Greg C Wooldridge,REP,30
+Benton,0013 13 - Monroe,Governor,,Greg C Wooldridge,REP,7
+Benton,0014 14 - Alsea School,Governor,,Greg C Wooldridge,REP,29
+Benton,0015 15 - Northwest,Governor,,Greg C Wooldridge,REP,91
+Benton,0016 16 - Corvallis Rural,Governor,,Greg C Wooldridge,REP,90
+Benton,0017 17 - North 509J,Governor,,Greg C Wooldridge,REP,52
+Benton,0018 18 - Albany Rural,Governor,,Greg C Wooldridge,REP,71
+Benton,0019 19 - South 509J,Governor,,Greg C Wooldridge,REP,37
+Benton,0020 20 - Monroe Rural,Governor,,Greg C Wooldridge,REP,61
+Benton,0021 21 - Philomath Rural,Governor,,Greg C Wooldridge,REP,14
+Benton,0022 22 - Adair Rural,Governor,,Greg C Wooldridge,REP,8
+Benton,0023 23 - Highway 20,Governor,,Greg C Wooldridge,REP,9
+Benton,0024 24 - N Albany N,Governor,,Greg C Wooldridge,REP,123
+Benton,0025 25 - N Albany S,Governor,,Greg C Wooldridge,REP,97
+Benton,Total,Governor,,Greg C Wooldridge,REP,1199
+Benton,0001 01 - Corvallis ONE,Governor,,Jonathan I Edwards III,REP,0
+Benton,0002 02 - Corvallis TWO,Governor,,Jonathan I Edwards III,REP,0
+Benton,0003 03 - Corvallis THREE,Governor,,Jonathan I Edwards III,REP,0
+Benton,0004 04 - Corvallis FOUR,Governor,,Jonathan I Edwards III,REP,1
+Benton,0005 05 - Corvallis FIVE,Governor,,Jonathan I Edwards III,REP,0
+Benton,0006 06 - Corvallis SIX,Governor,,Jonathan I Edwards III,REP,0
+Benton,0007 07 - Corvallis SEVEN,Governor,,Jonathan I Edwards III,REP,1
+Benton,0008 08 - Corvallis EIGHT,Governor,,Jonathan I Edwards III,REP,2
+Benton,0009 09 - Corvallis NINE,Governor,,Jonathan I Edwards III,REP,1
+Benton,0010 10 - Philomath,Governor,,Jonathan I Edwards III,REP,1
+Benton,0012 12 - Adair Village,Governor,,Jonathan I Edwards III,REP,1
+Benton,0013 13 - Monroe,Governor,,Jonathan I Edwards III,REP,0
+Benton,0014 14 - Alsea School,Governor,,Jonathan I Edwards III,REP,0
+Benton,0015 15 - Northwest,Governor,,Jonathan I Edwards III,REP,0
+Benton,0016 16 - Corvallis Rural,Governor,,Jonathan I Edwards III,REP,1
+Benton,0017 17 - North 509J,Governor,,Jonathan I Edwards III,REP,1
+Benton,0018 18 - Albany Rural,Governor,,Jonathan I Edwards III,REP,0
+Benton,0019 19 - South 509J,Governor,,Jonathan I Edwards III,REP,1
+Benton,0020 20 - Monroe Rural,Governor,,Jonathan I Edwards III,REP,0
+Benton,0021 21 - Philomath Rural,Governor,,Jonathan I Edwards III,REP,1
+Benton,0022 22 - Adair Rural,Governor,,Jonathan I Edwards III,REP,0
+Benton,0023 23 - Highway 20,Governor,,Jonathan I Edwards III,REP,0
+Benton,0024 24 - N Albany N,Governor,,Jonathan I Edwards III,REP,2
+Benton,0025 25 - N Albany S,Governor,,Jonathan I Edwards III,REP,0
+Benton,Total,Governor,,Jonathan I Edwards III,REP,13
+Benton,0001 01 - Corvallis ONE,Governor,,David W Stauffer,REP,3
+Benton,0002 02 - Corvallis TWO,Governor,,David W Stauffer,REP,2
+Benton,0003 03 - Corvallis THREE,Governor,,David W Stauffer,REP,1
+Benton,0004 04 - Corvallis FOUR,Governor,,David W Stauffer,REP,2
+Benton,0005 05 - Corvallis FIVE,Governor,,David W Stauffer,REP,2
+Benton,0006 06 - Corvallis SIX,Governor,,David W Stauffer,REP,5
+Benton,0007 07 - Corvallis SEVEN,Governor,,David W Stauffer,REP,5
+Benton,0008 08 - Corvallis EIGHT,Governor,,David W Stauffer,REP,10
+Benton,0009 09 - Corvallis NINE,Governor,,David W Stauffer,REP,4
+Benton,0010 10 - Philomath,Governor,,David W Stauffer,REP,3
+Benton,0012 12 - Adair Village,Governor,,David W Stauffer,REP,0
+Benton,0013 13 - Monroe,Governor,,David W Stauffer,REP,0
+Benton,0014 14 - Alsea School,Governor,,David W Stauffer,REP,0
+Benton,0015 15 - Northwest,Governor,,David W Stauffer,REP,5
+Benton,0016 16 - Corvallis Rural,Governor,,David W Stauffer,REP,7
+Benton,0017 17 - North 509J,Governor,,David W Stauffer,REP,3
+Benton,0018 18 - Albany Rural,Governor,,David W Stauffer,REP,0
+Benton,0019 19 - South 509J,Governor,,David W Stauffer,REP,0
+Benton,0020 20 - Monroe Rural,Governor,,David W Stauffer,REP,1
+Benton,0021 21 - Philomath Rural,Governor,,David W Stauffer,REP,0
+Benton,0022 22 - Adair Rural,Governor,,David W Stauffer,REP,0
+Benton,0023 23 - Highway 20,Governor,,David W Stauffer,REP,3
+Benton,0024 24 - N Albany N,Governor,,David W Stauffer,REP,4
+Benton,0025 25 - N Albany S,Governor,,David W Stauffer,REP,6
+Benton,Total,Governor,,David W Stauffer,REP,66
+Benton,0001 01 - Corvallis ONE,Governor,,Jeff Smith,REP,9
+Benton,0002 02 - Corvallis TWO,Governor,,Jeff Smith,REP,4
+Benton,0003 03 - Corvallis THREE,Governor,,Jeff Smith,REP,7
+Benton,0004 04 - Corvallis FOUR,Governor,,Jeff Smith,REP,1
+Benton,0005 05 - Corvallis FIVE,Governor,,Jeff Smith,REP,6
+Benton,0006 06 - Corvallis SIX,Governor,,Jeff Smith,REP,7
+Benton,0007 07 - Corvallis SEVEN,Governor,,Jeff Smith,REP,6
+Benton,0008 08 - Corvallis EIGHT,Governor,,Jeff Smith,REP,15
+Benton,0009 09 - Corvallis NINE,Governor,,Jeff Smith,REP,11
+Benton,0010 10 - Philomath,Governor,,Jeff Smith,REP,6
+Benton,0012 12 - Adair Village,Governor,,Jeff Smith,REP,1
+Benton,0013 13 - Monroe,Governor,,Jeff Smith,REP,0
+Benton,0014 14 - Alsea School,Governor,,Jeff Smith,REP,3
+Benton,0015 15 - Northwest,Governor,,Jeff Smith,REP,9
+Benton,0016 16 - Corvallis Rural,Governor,,Jeff Smith,REP,9
+Benton,0017 17 - North 509J,Governor,,Jeff Smith,REP,3
+Benton,0018 18 - Albany Rural,Governor,,Jeff Smith,REP,3
+Benton,0019 19 - South 509J,Governor,,Jeff Smith,REP,3
+Benton,0020 20 - Monroe Rural,Governor,,Jeff Smith,REP,5
+Benton,0021 21 - Philomath Rural,Governor,,Jeff Smith,REP,0
+Benton,0022 22 - Adair Rural,Governor,,Jeff Smith,REP,5
+Benton,0023 23 - Highway 20,Governor,,Jeff Smith,REP,1
+Benton,0024 24 - N Albany N,Governor,,Jeff Smith,REP,6
+Benton,0025 25 - N Albany S,Governor,,Jeff Smith,REP,6
+Benton,Total,Governor,,Jeff Smith,REP,126
+Benton,0001 01 - Corvallis ONE,Governor,,Jack N Tacy,REP,0
+Benton,0002 02 - Corvallis TWO,Governor,,Jack N Tacy,REP,0
+Benton,0003 03 - Corvallis THREE,Governor,,Jack N Tacy,REP,0
+Benton,0004 04 - Corvallis FOUR,Governor,,Jack N Tacy,REP,0
+Benton,0005 05 - Corvallis FIVE,Governor,,Jack N Tacy,REP,1
+Benton,0006 06 - Corvallis SIX,Governor,,Jack N Tacy,REP,0
+Benton,0007 07 - Corvallis SEVEN,Governor,,Jack N Tacy,REP,0
+Benton,0008 08 - Corvallis EIGHT,Governor,,Jack N Tacy,REP,0
+Benton,0009 09 - Corvallis NINE,Governor,,Jack N Tacy,REP,1
+Benton,0010 10 - Philomath,Governor,,Jack N Tacy,REP,0
+Benton,0012 12 - Adair Village,Governor,,Jack N Tacy,REP,1
+Benton,0013 13 - Monroe,Governor,,Jack N Tacy,REP,1
+Benton,0014 14 - Alsea School,Governor,,Jack N Tacy,REP,0
+Benton,0015 15 - Northwest,Governor,,Jack N Tacy,REP,1
+Benton,0016 16 - Corvallis Rural,Governor,,Jack N Tacy,REP,4
+Benton,0017 17 - North 509J,Governor,,Jack N Tacy,REP,1
+Benton,0018 18 - Albany Rural,Governor,,Jack N Tacy,REP,0
+Benton,0019 19 - South 509J,Governor,,Jack N Tacy,REP,0
+Benton,0020 20 - Monroe Rural,Governor,,Jack N Tacy,REP,0
+Benton,0021 21 - Philomath Rural,Governor,,Jack N Tacy,REP,0
+Benton,0022 22 - Adair Rural,Governor,,Jack N Tacy,REP,0
+Benton,0023 23 - Highway 20,Governor,,Jack N Tacy,REP,0
+Benton,0024 24 - N Albany N,Governor,,Jack N Tacy,REP,1
+Benton,0025 25 - N Albany S,Governor,,Jack N Tacy,REP,1
+Benton,Total,Governor,,Jack N Tacy,REP,12
+Benton,0001 01 - Corvallis ONE,Governor,,Brett Hyland,REP,3
+Benton,0002 02 - Corvallis TWO,Governor,,Brett Hyland,REP,0
+Benton,0003 03 - Corvallis THREE,Governor,,Brett Hyland,REP,0
+Benton,0004 04 - Corvallis FOUR,Governor,,Brett Hyland,REP,0
+Benton,0005 05 - Corvallis FIVE,Governor,,Brett Hyland,REP,0
+Benton,0006 06 - Corvallis SIX,Governor,,Brett Hyland,REP,0
+Benton,0007 07 - Corvallis SEVEN,Governor,,Brett Hyland,REP,0
+Benton,0008 08 - Corvallis EIGHT,Governor,,Brett Hyland,REP,1
+Benton,0009 09 - Corvallis NINE,Governor,,Brett Hyland,REP,1
+Benton,0010 10 - Philomath,Governor,,Brett Hyland,REP,1
+Benton,0012 12 - Adair Village,Governor,,Brett Hyland,REP,0
+Benton,0013 13 - Monroe,Governor,,Brett Hyland,REP,0
+Benton,0014 14 - Alsea School,Governor,,Brett Hyland,REP,0
+Benton,0015 15 - Northwest,Governor,,Brett Hyland,REP,2
+Benton,0016 16 - Corvallis Rural,Governor,,Brett Hyland,REP,1
+Benton,0017 17 - North 509J,Governor,,Brett Hyland,REP,0
+Benton,0018 18 - Albany Rural,Governor,,Brett Hyland,REP,0
+Benton,0019 19 - South 509J,Governor,,Brett Hyland,REP,0
+Benton,0020 20 - Monroe Rural,Governor,,Brett Hyland,REP,0
+Benton,0021 21 - Philomath Rural,Governor,,Brett Hyland,REP,0
+Benton,0022 22 - Adair Rural,Governor,,Brett Hyland,REP,0
+Benton,0023 23 - Highway 20,Governor,,Brett Hyland,REP,1
+Benton,0024 24 - N Albany N,Governor,,Brett Hyland,REP,0
+Benton,0025 25 - N Albany S,Governor,,Brett Hyland,REP,0
+Benton,Total,Governor,,Brett Hyland,REP,10
+Benton,0001 01 - Corvallis ONE,Governor,,Bruce Cuff,REP,5
+Benton,0002 02 - Corvallis TWO,Governor,,Bruce Cuff,REP,3
+Benton,0003 03 - Corvallis THREE,Governor,,Bruce Cuff,REP,5
+Benton,0004 04 - Corvallis FOUR,Governor,,Bruce Cuff,REP,1
+Benton,0005 05 - Corvallis FIVE,Governor,,Bruce Cuff,REP,2
+Benton,0006 06 - Corvallis SIX,Governor,,Bruce Cuff,REP,4
+Benton,0007 07 - Corvallis SEVEN,Governor,,Bruce Cuff,REP,8
+Benton,0008 08 - Corvallis EIGHT,Governor,,Bruce Cuff,REP,1
+Benton,0009 09 - Corvallis NINE,Governor,,Bruce Cuff,REP,11
+Benton,0010 10 - Philomath,Governor,,Bruce Cuff,REP,8
+Benton,0012 12 - Adair Village,Governor,,Bruce Cuff,REP,2
+Benton,0013 13 - Monroe,Governor,,Bruce Cuff,REP,0
+Benton,0014 14 - Alsea School,Governor,,Bruce Cuff,REP,2
+Benton,0015 15 - Northwest,Governor,,Bruce Cuff,REP,15
+Benton,0016 16 - Corvallis Rural,Governor,,Bruce Cuff,REP,1
+Benton,0017 17 - North 509J,Governor,,Bruce Cuff,REP,6
+Benton,0018 18 - Albany Rural,Governor,,Bruce Cuff,REP,6
+Benton,0019 19 - South 509J,Governor,,Bruce Cuff,REP,6
+Benton,0020 20 - Monroe Rural,Governor,,Bruce Cuff,REP,4
+Benton,0021 21 - Philomath Rural,Governor,,Bruce Cuff,REP,3
+Benton,0022 22 - Adair Rural,Governor,,Bruce Cuff,REP,0
+Benton,0023 23 - Highway 20,Governor,,Bruce Cuff,REP,2
+Benton,0024 24 - N Albany N,Governor,,Bruce Cuff,REP,11
+Benton,0025 25 - N Albany S,Governor,,Bruce Cuff,REP,8
+Benton,Total,Governor,,Bruce Cuff,REP,114
+Benton,0001 01 - Corvallis ONE,Governor,,Sam Carpenter,REP,48
+Benton,0002 02 - Corvallis TWO,Governor,,Sam Carpenter,REP,22
+Benton,0003 03 - Corvallis THREE,Governor,,Sam Carpenter,REP,57
+Benton,0004 04 - Corvallis FOUR,Governor,,Sam Carpenter,REP,12
+Benton,0005 05 - Corvallis FIVE,Governor,,Sam Carpenter,REP,12
+Benton,0006 06 - Corvallis SIX,Governor,,Sam Carpenter,REP,55
+Benton,0007 07 - Corvallis SEVEN,Governor,,Sam Carpenter,REP,34
+Benton,0008 08 - Corvallis EIGHT,Governor,,Sam Carpenter,REP,61
+Benton,0009 09 - Corvallis NINE,Governor,,Sam Carpenter,REP,74
+Benton,0010 10 - Philomath,Governor,,Sam Carpenter,REP,98
+Benton,0016 16 - Corvallis Rural,Governor,,Sam Carpenter,REP,9
+Benton,0018 18 - Albany Rural,Governor,,Sam Carpenter,REP,20
+Benton,0021 21 - Philomath Rural,Governor,,Sam Carpenter,REP,31
+Benton,0023 23 - Highway 20,Governor,,Sam Carpenter,REP,144
+Benton,0024 24 - N Albany N,Governor,,Sam Carpenter,REP,88
+Benton,0025 25 - N Albany S,Governor,,Sam Carpenter,REP,41
+Benton,Total,Governor,,Sam Carpenter,REP,1432
+Benton,0001 01 - Corvallis ONE,Governor,,WRITE-IN,REP,3
+Benton,0002 02 - Corvallis TWO,Governor,,WRITE-IN,REP,1
+Benton,0003 03 - Corvallis THREE,Governor,,WRITE-IN,REP,6
+Benton,0004 04 - Corvallis FOUR,Governor,,WRITE-IN,REP,1
+Benton,0005 05 - Corvallis FIVE,Governor,,WRITE-IN,REP,0
+Benton,0006 06 - Corvallis SIX,Governor,,WRITE-IN,REP,2
+Benton,0007 07 - Corvallis SEVEN,Governor,,WRITE-IN,REP,4
+Benton,0008 08 - Corvallis EIGHT,Governor,,WRITE-IN,REP,4
+Benton,0009 09 - Corvallis NINE,Governor,,WRITE-IN,REP,2
+Benton,0010 10 - Philomath,Governor,,WRITE-IN,REP,5
+Benton,0016 16 - Corvallis Rural,Governor,,WRITE-IN,REP,2
+Benton,0018 18 - Albany Rural,Governor,,WRITE-IN,REP,0
+Benton,0021 21 - Philomath Rural,Governor,,WRITE-IN,REP,1
+Benton,0023 23 - Highway 20,Governor,,WRITE-IN,REP,3
+Benton,0024 24 - N Albany N,Governor,,WRITE-IN,REP,1
+Benton,0025 25 - N Albany S,Governor,,WRITE-IN,REP,0
+Benton,Total,Governor,,WRITE-IN,REP,42
+Benton,0001 01 - Corvallis ONE,Governor,,OVER VOTES,REP,0
+Benton,0002 02 - Corvallis TWO,Governor,,OVER VOTES,REP,0
+Benton,0003 03 - Corvallis THREE,Governor,,OVER VOTES,REP,0
+Benton,0004 04 - Corvallis FOUR,Governor,,OVER VOTES,REP,0
+Benton,0005 05 - Corvallis FIVE,Governor,,OVER VOTES,REP,0
+Benton,0006 06 - Corvallis SIX,Governor,,OVER VOTES,REP,0
+Benton,0007 07 - Corvallis SEVEN,Governor,,OVER VOTES,REP,0
+Benton,0008 08 - Corvallis EIGHT,Governor,,OVER VOTES,REP,1
+Benton,0009 09 - Corvallis NINE,Governor,,OVER VOTES,REP,0
+Benton,0010 10 - Philomath,Governor,,OVER VOTES,REP,2
+Benton,0016 16 - Corvallis Rural,Governor,,OVER VOTES,REP,1
+Benton,0018 18 - Albany Rural,Governor,,OVER VOTES,REP,0
+Benton,0021 21 - Philomath Rural,Governor,,OVER VOTES,REP,0
+Benton,0023 23 - Highway 20,Governor,,OVER VOTES,REP,1
+Benton,0024 24 - N Albany N,Governor,,OVER VOTES,REP,0
+Benton,0025 25 - N Albany S,Governor,,OVER VOTES,REP,0
+Benton,Total,Governor,,OVER VOTES,REP,7
+Benton,0001 01 - Corvallis ONE,Governor,,UNDER VOTES,REP,41
+Benton,0002 02 - Corvallis TWO,Governor,,UNDER VOTES,REP,12
+Benton,0003 03 - Corvallis THREE,Governor,,UNDER VOTES,REP,22
+Benton,0004 04 - Corvallis FOUR,Governor,,UNDER VOTES,REP,9
+Benton,0005 05 - Corvallis FIVE,Governor,,UNDER VOTES,REP,8
+Benton,0006 06 - Corvallis SIX,Governor,,UNDER VOTES,REP,20
+Benton,0007 07 - Corvallis SEVEN,Governor,,UNDER VOTES,REP,43
+Benton,0008 08 - Corvallis EIGHT,Governor,,UNDER VOTES,REP,68
+Benton,0009 09 - Corvallis NINE,Governor,,UNDER VOTES,REP,26
+Benton,0010 10 - Philomath,Governor,,UNDER VOTES,REP,27
+Benton,0016 16 - Corvallis Rural,Governor,,UNDER VOTES,REP,11
+Benton,0018 18 - Albany Rural,Governor,,UNDER VOTES,REP,0
+Benton,0021 21 - Philomath Rural,Governor,,UNDER VOTES,REP,3
+Benton,0023 23 - Highway 20,Governor,,UNDER VOTES,REP,18
+Benton,0024 24 - N Albany N,Governor,,UNDER VOTES,REP,40
+Benton,0025 25 - N Albany S,Governor,,UNDER VOTES,REP,13
+Benton,Total,Governor,,UNDER VOTES,REP,457
+Benton,0001 01 - Corvallis ONE,State Senator,8,Sara A Geiser,DEM,999
+Benton,0002 02 - Corvallis TWO,State Senator,8,Sara A Geiser,DEM,489
+Benton,0003 03 - Corvallis THREE,State Senator,8,Sara A Geiser,DEM,904
+Benton,0004 04 - Corvallis FOUR,State Senator,8,Sara A Geiser,DEM,351
+Benton,0005 05 - Corvallis FIVE,State Senator,8,Sara A Geiser,DEM,488
+Benton,0006 06 - Corvallis SIX,State Senator,8,Sara A Geiser,DEM,869
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,Sara A Geiser,DEM,1412
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,Sara A Geiser,DEM,1298
+Benton,0009 09 - Corvallis NINE,State Senator,8,Sara A Geiser,DEM,751
+Benton,0010 10 - Philomath,State Senator,8,Sara A Geiser,DEM,498
+Benton,0016 16 - Corvallis Rural,State Senator,8,Sara A Geiser,DEM,806
+Benton,0018 18 - Albany Rural,State Senator,8,Sara A Geiser,DEM,192
+Benton,0021 21 - Philomath Rural,State Senator,8,Sara A Geiser,DEM,73
+Benton,0023 23 - Highway 20,State Senator,8,Sara A Geiser,DEM,116
+Benton,0024 24 - N Albany N,State Senator,8,Sara A Geiser,DEM,467
+Benton,0025 25 - N Albany S,State Senator,8,Sara A Geiser,DEM,381
+Benton,Total,State Senator,8,Sara A Geiser,DEM,10094
+Benton,0001 01 - Corvallis ONE,State Senator,8,WRITE-IN,DEM,3
+Benton,0002 02 - Corvallis TWO,State Senator,8,WRITE-IN,DEM,5
+Benton,0003 03 - Corvallis THREE,State Senator,8,WRITE-IN,DEM,3
+Benton,0004 04 - Corvallis FOUR,State Senator,8,WRITE-IN,DEM,4
+Benton,0005 05 - Corvallis FIVE,State Senator,8,WRITE-IN,DEM,3
+Benton,0006 06 - Corvallis SIX,State Senator,8,WRITE-IN,DEM,3
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,WRITE-IN,DEM,5
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,WRITE-IN,DEM,4
+Benton,0009 09 - Corvallis NINE,State Senator,8,WRITE-IN,DEM,3
+Benton,0010 10 - Philomath,State Senator,8,WRITE-IN,DEM,4
+Benton,0016 16 - Corvallis Rural,State Senator,8,WRITE-IN,DEM,5
+Benton,0018 18 - Albany Rural,State Senator,8,WRITE-IN,DEM,7
+Benton,0021 21 - Philomath Rural,State Senator,8,WRITE-IN,DEM,2
+Benton,0023 23 - Highway 20,State Senator,8,WRITE-IN,DEM,1
+Benton,0024 24 - N Albany N,State Senator,8,WRITE-IN,DEM,9
+Benton,0025 25 - N Albany S,State Senator,8,WRITE-IN,DEM,3
+Benton,Total,State Senator,8,WRITE-IN,DEM,64
+Benton,0001 01 - Corvallis ONE,State Senator,8,OVER VOTES,DEM,0
+Benton,0002 02 - Corvallis TWO,State Senator,8,OVER VOTES,DEM,0
+Benton,0003 03 - Corvallis THREE,State Senator,8,OVER VOTES,DEM,0
+Benton,0004 04 - Corvallis FOUR,State Senator,8,OVER VOTES,DEM,0
+Benton,0005 05 - Corvallis FIVE,State Senator,8,OVER VOTES,DEM,0
+Benton,0006 06 - Corvallis SIX,State Senator,8,OVER VOTES,DEM,0
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,OVER VOTES,DEM,1
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,OVER VOTES,DEM,0
+Benton,0009 09 - Corvallis NINE,State Senator,8,OVER VOTES,DEM,0
+Benton,0010 10 - Philomath,State Senator,8,OVER VOTES,DEM,0
+Benton,0016 16 - Corvallis Rural,State Senator,8,OVER VOTES,DEM,0
+Benton,0018 18 - Albany Rural,State Senator,8,OVER VOTES,DEM,0
+Benton,0021 21 - Philomath Rural,State Senator,8,OVER VOTES,DEM,0
+Benton,0023 23 - Highway 20,State Senator,8,OVER VOTES,DEM,0
+Benton,0024 24 - N Albany N,State Senator,8,OVER VOTES,DEM,0
+Benton,0025 25 - N Albany S,State Senator,8,OVER VOTES,DEM,0
+Benton,Total,State Senator,8,OVER VOTES,DEM,1
+Benton,0001 01 - Corvallis ONE,State Senator,8,UNDER VOTES,DEM,124
+Benton,0002 02 - Corvallis TWO,State Senator,8,UNDER VOTES,DEM,10
+Benton,0003 03 - Corvallis THREE,State Senator,8,UNDER VOTES,DEM,135
+Benton,0004 04 - Corvallis FOUR,State Senator,8,UNDER VOTES,DEM,51
+Benton,0005 05 - Corvallis FIVE,State Senator,8,UNDER VOTES,DEM,74
+Benton,0006 06 - Corvallis SIX,State Senator,8,UNDER VOTES,DEM,86
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,UNDER VOTES,DEM,144
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,UNDER VOTES,DEM,152
+Benton,0009 09 - Corvallis NINE,State Senator,8,UNDER VOTES,DEM,109
+Benton,0010 10 - Philomath,State Senator,8,UNDER VOTES,DEM,90
+Benton,0016 16 - Corvallis Rural,State Senator,8,UNDER VOTES,DEM,112
+Benton,0018 18 - Albany Rural,State Senator,8,UNDER VOTES,DEM,50
+Benton,0021 21 - Philomath Rural,State Senator,8,UNDER VOTES,DEM,18
+Benton,0023 23 - Highway 20,State Senator,8,UNDER VOTES,DEM,19
+Benton,0024 24 - N Albany N,State Senator,8,UNDER VOTES,DEM,100
+Benton,0025 25 - N Albany S,State Senator,8,UNDER VOTES,DEM,92
+Benton,Total,State Senator,8,UNDER VOTES,DEM,1366
+Benton,0001 01 - Corvallis ONE,State Senator,8,No Candidate Filed,IND,0
+Benton,0002 02 - Corvallis TWO,State Senator,8,No Candidate Filed,IND,0
+Benton,0003 03 - Corvallis THREE,State Senator,8,No Candidate Filed,IND,0
+Benton,0004 04 - Corvallis FOUR,State Senator,8,No Candidate Filed,IND,0
+Benton,0005 05 - Corvallis FIVE,State Senator,8,No Candidate Filed,IND,0
+Benton,0006 06 - Corvallis SIX,State Senator,8,No Candidate Filed,IND,0
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,No Candidate Filed,IND,0
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,No Candidate Filed,IND,0
+Benton,0009 09 - Corvallis NINE,State Senator,8,No Candidate Filed,IND,0
+Benton,0010 10 - Philomath,State Senator,8,No Candidate Filed,IND,0
+Benton,0016 16 - Corvallis Rural,State Senator,8,No Candidate Filed,IND,0
+Benton,0018 18 - Albany Rural,State Senator,8,No Candidate Filed,IND,0
+Benton,0021 21 - Philomath Rural,State Senator,8,No Candidate Filed,IND,0
+Benton,0023 23 - Highway 20,State Senator,8,No Candidate Filed,IND,0
+Benton,0024 24 - N Albany N,State Senator,8,No Candidate Filed,IND,0
+Benton,0025 25 - N Albany S,State Senator,8,No Candidate Filed,IND,0
+Benton,Total,State Senator,8,No Candidate Filed,IND,0
+Benton,0001 01 - Corvallis ONE,State Senator,8,WRITE-IN,IND,7
+Benton,0002 02 - Corvallis TWO,State Senator,8,WRITE-IN,IND,4
+Benton,0003 03 - Corvallis THREE,State Senator,8,WRITE-IN,IND,13
+Benton,0004 04 - Corvallis FOUR,State Senator,8,WRITE-IN,IND,6
+Benton,0005 05 - Corvallis FIVE,State Senator,8,WRITE-IN,IND,5
+Benton,0006 06 - Corvallis SIX,State Senator,8,WRITE-IN,IND,8
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,WRITE-IN,IND,10
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,WRITE-IN,IND,16
+Benton,0009 09 - Corvallis NINE,State Senator,8,WRITE-IN,IND,10
+Benton,0010 10 - Philomath,State Senator,8,WRITE-IN,IND,12
+Benton,0016 16 - Corvallis Rural,State Senator,8,WRITE-IN,IND,13
+Benton,0018 18 - Albany Rural,State Senator,8,WRITE-IN,IND,3
+Benton,0021 21 - Philomath Rural,State Senator,8,WRITE-IN,IND,0
+Benton,0023 23 - Highway 20,State Senator,8,WRITE-IN,IND,1
+Benton,0024 24 - N Albany N,State Senator,8,WRITE-IN,IND,8
+Benton,0025 25 - N Albany S,State Senator,8,WRITE-IN,IND,7
+Benton,Total,State Senator,8,WRITE-IN,IND,123
+Benton,0001 01 - Corvallis ONE,State Senator,8,OVER VOTES,IND,0
+Benton,0002 02 - Corvallis TWO,State Senator,8,OVER VOTES,IND,0
+Benton,0003 03 - Corvallis THREE,State Senator,8,OVER VOTES,IND,0
+Benton,0004 04 - Corvallis FOUR,State Senator,8,OVER VOTES,IND,0
+Benton,0005 05 - Corvallis FIVE,State Senator,8,OVER VOTES,IND,0
+Benton,0006 06 - Corvallis SIX,State Senator,8,OVER VOTES,IND,0
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,OVER VOTES,IND,0
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,OVER VOTES,IND,0
+Benton,0009 09 - Corvallis NINE,State Senator,8,OVER VOTES,IND,0
+Benton,0010 10 - Philomath,State Senator,8,OVER VOTES,IND,0
+Benton,0016 16 - Corvallis Rural,State Senator,8,OVER VOTES,IND,0
+Benton,0018 18 - Albany Rural,State Senator,8,OVER VOTES,IND,0
+Benton,0021 21 - Philomath Rural,State Senator,8,OVER VOTES,IND,0
+Benton,0023 23 - Highway 20,State Senator,8,OVER VOTES,IND,0
+Benton,0024 24 - N Albany N,State Senator,8,OVER VOTES,IND,0
+Benton,0025 25 - N Albany S,State Senator,8,OVER VOTES,IND,0
+Benton,Total,State Senator,8,OVER VOTES,IND,0
+Benton,0001 01 - Corvallis ONE,State Senator,8,UNDER VOTES,IND,47
+Benton,0002 02 - Corvallis TWO,State Senator,8,UNDER VOTES,IND,16
+Benton,0003 03 - Corvallis THREE,State Senator,8,UNDER VOTES,IND,48
+Benton,0004 04 - Corvallis FOUR,State Senator,8,UNDER VOTES,IND,10
+Benton,0005 05 - Corvallis FIVE,State Senator,8,UNDER VOTES,IND,13
+Benton,0006 06 - Corvallis SIX,State Senator,8,UNDER VOTES,IND,43
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,UNDER VOTES,IND,35
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,UNDER VOTES,IND,61
+Benton,0009 09 - Corvallis NINE,State Senator,8,UNDER VOTES,IND,32
+Benton,0010 10 - Philomath,State Senator,8,UNDER VOTES,IND,47
+Benton,0016 16 - Corvallis Rural,State Senator,8,UNDER VOTES,IND,38
+Benton,0018 18 - Albany Rural,State Senator,8,UNDER VOTES,IND,15
+Benton,0021 21 - Philomath Rural,State Senator,8,UNDER VOTES,IND,3
+Benton,0023 23 - Highway 20,State Senator,8,UNDER VOTES,IND,3
+Benton,0024 24 - N Albany N,State Senator,8,UNDER VOTES,IND,41
+Benton,0025 25 - N Albany S,State Senator,8,UNDER VOTES,IND,29
+Benton,Total,State Senator,8,UNDER VOTES,IND,481
+Benton,0001 01 - Corvallis ONE,State Senator,8,Erik S Parks,REP,250
+Benton,0002 02 - Corvallis TWO,State Senator,8,Erik S Parks,REP,50
+Benton,0003 03 - Corvallis THREE,State Senator,8,Erik S Parks,REP,155
+Benton,0004 04 - Corvallis FOUR,State Senator,8,Erik S Parks,REP,38
+Benton,0005 05 - Corvallis FIVE,State Senator,8,Erik S Parks,REP,30
+Benton,0006 06 - Corvallis SIX,State Senator,8,Erik S Parks,REP,137
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,Erik S Parks,REP,162
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,Erik S Parks,REP,255
+Benton,0009 09 - Corvallis NINE,State Senator,8,Erik S Parks,REP,230
+Benton,0010 10 - Philomath,State Senator,8,Erik S Parks,REP,224
+Benton,0016 16 - Corvallis Rural,State Senator,8,Erik S Parks,REP,258
+Benton,0021 21 - Philomath Rural,State Senator,8,Erik S Parks,REP,215
+Benton,Total,State Senator,8,Erik S Parks,REP,2754
+Benton,0001 01 - Corvallis ONE,State Senator,8,WRITE-IN,REP,5
+Benton,0002 02 - Corvallis TWO,State Senator,8,WRITE-IN,REP,5
+Benton,0003 03 - Corvallis THREE,State Senator,8,WRITE-IN,REP,7
+Benton,0004 04 - Corvallis FOUR,State Senator,8,WRITE-IN,REP,0
+Benton,0005 05 - Corvallis FIVE,State Senator,8,WRITE-IN,REP,5
+Benton,0006 06 - Corvallis SIX,State Senator,8,WRITE-IN,REP,4
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,WRITE-IN,REP,6
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,WRITE-IN,REP,5
+Benton,0009 09 - Corvallis NINE,State Senator,8,WRITE-IN,REP,7
+Benton,0010 10 - Philomath,State Senator,8,WRITE-IN,REP,3
+Benton,0016 16 - Corvallis Rural,State Senator,8,WRITE-IN,REP,5
+Benton,0021 21 - Philomath Rural,State Senator,8,WRITE-IN,REP,5
+Benton,Total,State Senator,8,WRITE-IN,REP,67
+Benton,0001 01 - Corvallis ONE,State Senator,8,OVER VOTES,REP,0
+Benton,0002 02 - Corvallis TWO,State Senator,8,OVER VOTES,REP,0
+Benton,0003 03 - Corvallis THREE,State Senator,8,OVER VOTES,REP,0
+Benton,0004 04 - Corvallis FOUR,State Senator,8,OVER VOTES,REP,0
+Benton,0005 05 - Corvallis FIVE,State Senator,8,OVER VOTES,REP,0
+Benton,0006 06 - Corvallis SIX,State Senator,8,OVER VOTES,REP,0
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,OVER VOTES,REP,0
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,OVER VOTES,REP,0
+Benton,0009 09 - Corvallis NINE,State Senator,8,OVER VOTES,REP,0
+Benton,0010 10 - Philomath,State Senator,8,OVER VOTES,REP,0
+Benton,0016 16 - Corvallis Rural,State Senator,8,OVER VOTES,REP,0
+Benton,0021 21 - Philomath Rural,State Senator,8,OVER VOTES,REP,0
+Benton,Total,State Senator,8,OVER VOTES,REP,0
+Benton,0001 01 - Corvallis ONE,State Senator,8,UNDER VOTES,REP,195
+Benton,0002 02 - Corvallis TWO,State Senator,8,UNDER VOTES,REP,40
+Benton,0003 03 - Corvallis THREE,State Senator,8,UNDER VOTES,REP,117
+Benton,0004 04 - Corvallis FOUR,State Senator,8,UNDER VOTES,REP,37
+Benton,0005 05 - Corvallis FIVE,State Senator,8,UNDER VOTES,REP,36
+Benton,0006 06 - Corvallis SIX,State Senator,8,UNDER VOTES,REP,108
+Benton,0007 07 - Corvallis SEVEN,State Senator,8,UNDER VOTES,REP,161
+Benton,0008 08 - Corvallis EIGHT,State Senator,8,UNDER VOTES,REP,257
+Benton,0009 09 - Corvallis NINE,State Senator,8,UNDER VOTES,REP,157
+Benton,0010 10 - Philomath,State Senator,8,UNDER VOTES,REP,155
+Benton,0016 16 - Corvallis Rural,State Senator,8,UNDER VOTES,REP,222
+Benton,0021 21 - Philomath Rural,State Senator,8,UNDER VOTES,REP,134
+Benton,Total,State Senator,8,UNDER VOTES,REP,2247
+Benton,0001 01 - Corvallis ONE,State Representative,16,Dan Rayfield,DEM,933
+Benton,0002 02 - Corvallis TWO,State Representative,16,Dan Rayfield,DEM,451
+Benton,0003 03 - Corvallis THREE,State Representative,16,Dan Rayfield,DEM,817
+Benton,0004 04 - Corvallis FOUR,State Representative,16,Dan Rayfield,DEM,332
+Benton,0005 05 - Corvallis FIVE,State Representative,16,Dan Rayfield,DEM,454
+Benton,0006 06 - Corvallis SIX,State Representative,16,Dan Rayfield,DEM,804
+Benton,0007 07 - Corvallis SEVEN,State Representative,16,Dan Rayfield,DEM,1331
+Benton,0008 08 - Corvallis EIGHT,State Representative,16,Dan Rayfield,DEM,1197
+Benton,0009 09 - Corvallis NINE,State Representative,16,Dan Rayfield,DEM,707
+Benton,0010 10 - Philomath,State Representative,16,Dan Rayfield,DEM,454
+Benton,0016 16 - Corvallis Rural,State Representative,16,Dan Rayfield,DEM,728
+Benton,0021 21 - Philomath Rural,State Representative,16,Dan Rayfield,DEM,76
+Benton,Total,State Representative,16,Dan Rayfield,DEM,8284
+Benton,0001 01 - Corvallis ONE,State Representative,16,WRITE-IN,DEM,3
+Benton,0002 02 - Corvallis TWO,State Representative,16,WRITE-IN,DEM,4
+Benton,0003 03 - Corvallis THREE,State Representative,16,WRITE-IN,DEM,5
+Benton,0004 04 - Corvallis FOUR,State Representative,16,WRITE-IN,DEM,6
+Benton,0005 05 - Corvallis FIVE,State Representative,16,WRITE-IN,DEM,3
+Benton,0006 06 - Corvallis SIX,State Representative,16,WRITE-IN,DEM,4
+Benton,0007 07 - Corvallis SEVEN,State Representative,16,WRITE-IN,DEM,3
+Benton,0008 08 - Corvallis EIGHT,State Representative,16,WRITE-IN,DEM,2
+Benton,0009 09 - Corvallis NINE,State Representative,16,WRITE-IN,DEM,3
+Benton,0010 10 - Philomath,State Representative,16,WRITE-IN,DEM,3
+Benton,0016 16 - Corvallis Rural,State Representative,16,WRITE-IN,DEM,3
+Benton,0021 21 - Philomath Rural,State Representative,16,WRITE-IN,DEM,1
+Benton,Total,State Representative,16,WRITE-IN,DEM,40
+Benton,0001 01 - Corvallis ONE,State Representative,16,OVER VOTES,DEM,1
+Benton,0002 02 - Corvallis TWO,State Representative,16,OVER VOTES,DEM,0
+Benton,0003 03 - Corvallis THREE,State Representative,16,OVER VOTES,DEM,0
+Benton,0004 04 - Corvallis FOUR,State Representative,16,OVER VOTES,DEM,0
+Benton,0005 05 - Corvallis FIVE,State Representative,16,OVER VOTES,DEM,0
+Benton,0006 06 - Corvallis SIX,State Representative,16,OVER VOTES,DEM,0
+Benton,0007 07 - Corvallis SEVEN,State Representative,16,OVER VOTES,DEM,0
+Benton,0008 08 - Corvallis EIGHT,State Representative,16,OVER VOTES,DEM,0
+Benton,0009 09 - Corvallis NINE,State Representative,16,OVER VOTES,DEM,0
+Benton,0010 10 - Philomath,State Representative,16,OVER VOTES,DEM,0
+Benton,0016 16 - Corvallis Rural,State Representative,16,OVER VOTES,DEM,0
+Benton,0021 21 - Philomath Rural,State Representative,16,OVER VOTES,DEM,0
+Benton,Total,State Representative,16,OVER VOTES,DEM,1
+Benton,0001 01 - Corvallis ONE,State Representative,16,UNDER VOTES,DEM,189
+Benton,0002 02 - Corvallis TWO,State Representative,16,UNDER VOTES,DEM,109
+Benton,0003 03 - Corvallis THREE,State Representative,16,UNDER VOTES,DEM,220
+Benton,0004 04 - Corvallis FOUR,State Representative,16,UNDER VOTES,DEM,68
+Benton,0005 05 - Corvallis FIVE,State Representative,16,UNDER VOTES,DEM,108
+Benton,0006 06 - Corvallis SIX,State Representative,16,UNDER VOTES,DEM,150
+Benton,0007 07 - Corvallis SEVEN,State Representative,16,UNDER VOTES,DEM,228
+Benton,0008 08 - Corvallis EIGHT,State Representative,16,UNDER VOTES,DEM,255
+Benton,0009 09 - Corvallis NINE,State Representative,16,UNDER VOTES,DEM,153
+Benton,0010 10 - Philomath,State Representative,16,UNDER VOTES,DEM,135
+Benton,0016 16 - Corvallis Rural,State Representative,16,UNDER VOTES,DEM,192
+Benton,0021 21 - Philomath Rural,State Representative,16,UNDER VOTES,DEM,16
+Benton,Total,State Representative,16,UNDER VOTES,DEM,1823
+Benton,0001 01 - Corvallis ONE,State Representative,16,No Candidate Filed,IND,0
+Benton,0002 02 - Corvallis TWO,State Representative,16,No Candidate Filed,IND,0
+Benton,0003 03 - Corvallis THREE,State Representative,16,No Candidate Filed,IND,0
+Benton,0004 04 - Corvallis FOUR,State Representative,16,No Candidate Filed,IND,0
+Benton,0005 05 - Corvallis FIVE,State Representative,16,No Candidate Filed,IND,0
+Benton,0006 06 - Corvallis SIX,State Representative,16,No Candidate Filed,IND,0
+Benton,0007 07 - Corvallis SEVEN,State Representative,16,No Candidate Filed,IND,0
+Benton,0008 08 - Corvallis EIGHT,State Representative,16,No Candidate Filed,IND,0
+Benton,0009 09 - Corvallis NINE,State Representative,16,No Candidate Filed,IND,0
+Benton,0010 10 - Philomath,State Representative,16,No Candidate Filed,IND,0
+Benton,0016 16 - Corvallis Rural,State Representative,16,No Candidate Filed,IND,0
+Benton,0021 21 - Philomath Rural,State Representative,16,No Candidate Filed,IND,0
+Benton,Total,State Representative,16,No Candidate Filed,IND,0
+Benton,0001 01 - Corvallis ONE,State Representative,16,WRITE-IN,IND,9
+Benton,0002 02 - Corvallis TWO,State Representative,16,WRITE-IN,IND,4
+Benton,0003 03 - Corvallis THREE,State Representative,16,WRITE-IN,IND,11
+Benton,0004 04 - Corvallis FOUR,State Representative,16,WRITE-IN,IND,6
+Benton,0005 05 - Corvallis FIVE,State Representative,16,WRITE-IN,IND,2
+Benton,0006 06 - Corvallis SIX,State Representative,16,WRITE-IN,IND,8
+Benton,0007 07 - Corvallis SEVEN,State Representative,16,WRITE-IN,IND,6
+Benton,0008 08 - Corvallis EIGHT,State Representative,16,WRITE-IN,IND,12
+Benton,0009 09 - Corvallis NINE,State Representative,16,WRITE-IN,IND,6
+Benton,0010 10 - Philomath,State Representative,16,WRITE-IN,IND,8
+Benton,0016 16 - Corvallis Rural,State Representative,16,WRITE-IN,IND,13
+Benton,0021 21 - Philomath Rural,State Representative,16,WRITE-IN,IND,0
+Benton,Total,State Representative,16,WRITE-IN,IND,85
+Benton,0001 01 - Corvallis ONE,State Representative,16,OVER VOTES,IND,0
+Benton,0002 02 - Corvallis TWO,State Representative,16,OVER VOTES,IND,0
+Benton,0003 03 - Corvallis THREE,State Representative,16,OVER VOTES,IND,0
+Benton,0004 04 - Corvallis FOUR,State Representative,16,OVER VOTES,IND,0
+Benton,0005 05 - Corvallis FIVE,State Representative,16,OVER VOTES,IND,0
+Benton,0006 06 - Corvallis SIX,State Representative,16,OVER VOTES,IND,0
+Benton,0007 07 - Corvallis SEVEN,State Representative,16,OVER VOTES,IND,0
+Benton,0008 08 - Corvallis EIGHT,State Representative,16,OVER VOTES,IND,0
+Benton,0009 09 - Corvallis NINE,State Representative,16,OVER VOTES,IND,0
+Benton,0010 10 - Philomath,State Representative,16,OVER VOTES,IND,0
+Benton,0016 16 - Corvallis Rural,State Representative,16,OVER VOTES,IND,0
+Benton,0021 21 - Philomath Rural,State Representative,16,OVER VOTES,IND,0
+Benton,Total,State Representative,16,OVER VOTES,IND,0
+Benton,0001 01 - Corvallis ONE,State Representative,16,UNDER VOTES,IND,45
+Benton,0002 02 - Corvallis TWO,State Representative,16,UNDER VOTES,IND,16
+Benton,0003 03 - Corvallis THREE,State Representative,16,UNDER VOTES,IND,50
+Benton,0004 04 - Corvallis FOUR,State Representative,16,UNDER VOTES,IND,10
+Benton,0005 05 - Corvallis FIVE,State Representative,16,UNDER VOTES,IND,16
+Benton,0006 06 - Corvallis SIX,State Representative,16,UNDER VOTES,IND,43
+Benton,0007 07 - Corvallis SEVEN,State Representative,16,UNDER VOTES,IND,39
+Benton,0008 08 - Corvallis EIGHT,State Representative,16,UNDER VOTES,IND,65
+Benton,0009 09 - Corvallis NINE,State Representative,16,UNDER VOTES,IND,36
+Benton,0010 10 - Philomath,State Representative,16,UNDER VOTES,IND,51
+Benton,0016 16 - Corvallis Rural,State Representative,16,UNDER VOTES,IND,38
+Benton,0021 21 - Philomath Rural,State Representative,16,UNDER VOTES,IND,3
+Benton,Total,State Representative,16,UNDER VOTES,IND,412
+Benton,0018 18 - Albany Rural,State Representative,16,No Candidate Filed,REP,0
+Benton,0023 23 - Highway 20,State Representative,16,No Candidate Filed,REP,0
+Benton,0024 24 - N Albany N,State Representative,16,No Candidate Filed,REP,0
+Benton,0025 25 - N Albany S,State Representative,16,No Candidate Filed,REP,0
+Benton,Total,State Representative,16,No Candidate Filed,REP,0
+Benton,0018 18 - Albany Rural,State Representative,16,WRITE-IN,REP,13
+Benton,0023 23 - Highway 20,State Representative,16,WRITE-IN,REP,5
+Benton,0024 24 - N Albany N,State Representative,16,WRITE-IN,REP,13
+Benton,0025 25 - N Albany S,State Representative,16,WRITE-IN,REP,2
+Benton,Total,State Representative,16,WRITE-IN,REP,134
+Benton,0018 18 - Albany Rural,State Representative,16,OVER VOTES,REP,0
+Benton,0023 23 - Highway 20,State Representative,16,OVER VOTES,REP,0
+Benton,0024 24 - N Albany N,State Representative,16,OVER VOTES,REP,0
+Benton,0025 25 - N Albany S,State Representative,16,OVER VOTES,REP,0
+Benton,Total,State Representative,16,OVER VOTES,REP,0
+Benton,0018 18 - Albany Rural,State Representative,16,UNDER VOTES,REP,437
+Benton,0023 23 - Highway 20,State Representative,16,UNDER VOTES,REP,90
+Benton,0024 24 - N Albany N,State Representative,16,UNDER VOTES,REP,266
+Benton,0025 25 - N Albany S,State Representative,16,UNDER VOTES,REP,73
+Benton,Total,State Representative,16,UNDER VOTES,REP,3259
+Benton,0018 18 - Albany Rural,State Representative,15,Jarred Taylor,DEM,166
+Benton,0023 23 - Highway 20,State Representative,15,Jarred Taylor,DEM,97
+Benton,0024 24 - N Albany N,State Representative,15,Jarred Taylor,DEM,427
+Benton,0025 25 - N Albany S,State Representative,15,Jarred Taylor,DEM,328
+Benton,Total,State Representative,15,Jarred Taylor,DEM,1018
+Benton,0018 18 - Albany Rural,State Representative,15,WRITE-IN,DEM,5
+Benton,0023 23 - Highway 20,State Representative,15,WRITE-IN,DEM,1
+Benton,0024 24 - N Albany N,State Representative,15,WRITE-IN,DEM,3
+Benton,0025 25 - N Albany S,State Representative,15,WRITE-IN,DEM,2
+Benton,Total,State Representative,15,WRITE-IN,DEM,11
+Benton,0018 18 - Albany Rural,State Representative,15,OVER VOTES,DEM,0
+Benton,0023 23 - Highway 20,State Representative,15,OVER VOTES,DEM,0
+Benton,0024 24 - N Albany N,State Representative,15,OVER VOTES,DEM,0
+Benton,0025 25 - N Albany S,State Representative,15,OVER VOTES,DEM,0
+Benton,Total,State Representative,15,OVER VOTES,DEM,0
+Benton,0018 18 - Albany Rural,State Representative,15,UNDER VOTES,DEM,78
+Benton,0023 23 - Highway 20,State Representative,15,UNDER VOTES,DEM,38
+Benton,0024 24 - N Albany N,State Representative,15,UNDER VOTES,DEM,146
+Benton,0025 25 - N Albany S,State Representative,15,UNDER VOTES,DEM,146
+Benton,Total,State Representative,15,UNDER VOTES,DEM,408
+Benton,0018 18 - Albany Rural,State Representative,15,Cynthia K Hyatt,IND,8
+Benton,0023 23 - Highway 20,State Representative,15,Cynthia K Hyatt,IND,4
+Benton,0024 24 - N Albany N,State Representative,15,Cynthia K Hyatt,IND,15
+Benton,0025 25 - N Albany S,State Representative,15,Cynthia K Hyatt,IND,14
+Benton,Total,State Representative,15,Cynthia K Hyatt,IND,41
+Benton,0018 18 - Albany Rural,State Representative,15,WRITE-IN,IND,3
+Benton,0023 23 - Highway 20,State Representative,15,WRITE-IN,IND,0
+Benton,0024 24 - N Albany N,State Representative,15,WRITE-IN,IND,7
+Benton,0025 25 - N Albany S,State Representative,15,WRITE-IN,IND,6
+Benton,Total,State Representative,15,WRITE-IN,IND,16
+Benton,0018 18 - Albany Rural,State Representative,15,OVER VOTES,IND,0
+Benton,0023 23 - Highway 20,State Representative,15,OVER VOTES,IND,0
+Benton,0024 24 - N Albany N,State Representative,15,OVER VOTES,IND,0
+Benton,0025 25 - N Albany S,State Representative,15,OVER VOTES,IND,0
+Benton,Total,State Representative,15,OVER VOTES,IND,0
+Benton,0018 18 - Albany Rural,State Representative,15,UNDER VOTES,IND,7
+Benton,0023 23 - Highway 20,State Representative,15,UNDER VOTES,IND,0
+Benton,0024 24 - N Albany N,State Representative,15,UNDER VOTES,IND,27
+Benton,0025 25 - N Albany S,State Representative,15,UNDER VOTES,IND,16
+Benton,Total,State Representative,15,UNDER VOTES,IND,50
+Benton,0018 18 - Albany Rural,State Representative,15,Shelly Boshart Davis,REP,296
+Benton,0023 23 - Highway 20,State Representative,15,Shelly Boshart Davis,REP,84
+Benton,0024 24 - N Albany N,State Representative,15,Shelly Boshart Davis,REP,530
+Benton,0025 25 - N Albany S,State Representative,15,Shelly Boshart Davis,REP,400
+Benton,Total,State Representative,15,Shelly Boshart Davis,REP,1310
+Benton,0018 18 - Albany Rural,State Representative,15,WRITE-IN,REP,4
+Benton,0023 23 - Highway 20,State Representative,15,WRITE-IN,REP,0
+Benton,0024 24 - N Albany N,State Representative,15,WRITE-IN,REP,2
+Benton,0025 25 - N Albany S,State Representative,15,WRITE-IN,REP,0
+Benton,Total,State Representative,15,WRITE-IN,REP,6
+Benton,0018 18 - Albany Rural,State Representative,15,OVER VOTES,REP,0
+Benton,0023 23 - Highway 20,State Representative,15,OVER VOTES,REP,0
+Benton,0024 24 - N Albany N,State Representative,15,OVER VOTES,REP,0
+Benton,0025 25 - N Albany S,State Representative,15,OVER VOTES,REP,0
+Benton,Total,State Representative,15,OVER VOTES,REP,0
+Benton,0018 18 - Albany Rural,State Representative,15,UNDER VOTES,REP,54
+Benton,0023 23 - Highway 20,State Representative,15,UNDER VOTES,REP,26
+Benton,0024 24 - N Albany N,State Representative,15,UNDER VOTES,REP,144
+Benton,0025 25 - N Albany S,State Representative,15,UNDER VOTES,REP,135
+Benton,Total,State Representative,15,UNDER VOTES,REP,359
+Benton,0012 12 - Adair Village,State Representative,23,Danny Jaffer,DEM,48
+Benton,0013 13 - Monroe,State Representative,23,Danny Jaffer,DEM,30
+Benton,0014 14 - Alsea School,State Representative,23,Danny Jaffer,DEM,67
+Benton,0015 15 - Northwest,State Representative,23,Danny Jaffer,DEM,371
+Benton,0017 17 - North 509J,State Representative,23,Danny Jaffer,DEM,308
+Benton,0019 19 - South 509J,State Representative,23,Danny Jaffer,DEM,228
+Benton,0020 20 - Monroe Rural,State Representative,23,Danny Jaffer,DEM,192
+Benton,0022 22 - Adair Rural,State Representative,23,Danny Jaffer,DEM,76
+Benton,Total,State Representative,23,Danny Jaffer,DEM,1320
+Benton,0012 12 - Adair Village,State Representative,23,WRITE-IN,DEM,0
+Benton,0013 13 - Monroe,State Representative,23,WRITE-IN,DEM,0
+Benton,0014 14 - Alsea School,State Representative,23,WRITE-IN,DEM,1
+Benton,0015 15 - Northwest,State Representative,23,WRITE-IN,DEM,5
+Benton,0017 17 - North 509J,State Representative,23,WRITE-IN,DEM,3
+Benton,0019 19 - South 509J,State Representative,23,WRITE-IN,DEM,3
+Benton,0020 20 - Monroe Rural,State Representative,23,WRITE-IN,DEM,2
+Benton,0022 22 - Adair Rural,State Representative,23,WRITE-IN,DEM,1
+Benton,Total,State Representative,23,WRITE-IN,DEM,15
+Benton,0012 12 - Adair Village,State Representative,23,OVER VOTES,DEM,0
+Benton,0013 13 - Monroe,State Representative,23,OVER VOTES,DEM,0
+Benton,0014 14 - Alsea School,State Representative,23,OVER VOTES,DEM,0
+Benton,0015 15 - Northwest,State Representative,23,OVER VOTES,DEM,0
+Benton,0017 17 - North 509J,State Representative,23,OVER VOTES,DEM,0
+Benton,0019 19 - South 509J,State Representative,23,OVER VOTES,DEM,0
+Benton,0020 20 - Monroe Rural,State Representative,23,OVER VOTES,DEM,0
+Benton,0022 22 - Adair Rural,State Representative,23,OVER VOTES,DEM,0
+Benton,Total,State Representative,23,OVER VOTES,DEM,0
+Benton,0012 12 - Adair Village,State Representative,23,UNDER VOTES,DEM,18
+Benton,0013 13 - Monroe,State Representative,23,UNDER VOTES,DEM,17
+Benton,0014 14 - Alsea School,State Representative,23,UNDER VOTES,DEM,11
+Benton,0015 15 - Northwest,State Representative,23,UNDER VOTES,DEM,228
+Benton,0017 17 - North 509J,State Representative,23,UNDER VOTES,DEM,149
+Benton,0019 19 - South 509J,State Representative,23,UNDER VOTES,DEM,89
+Benton,0020 20 - Monroe Rural,State Representative,23,UNDER VOTES,DEM,60
+Benton,0022 22 - Adair Rural,State Representative,23,UNDER VOTES,DEM,27
+Benton,Total,State Representative,23,UNDER VOTES,DEM,599
+Benton,0012 12 - Adair Village,State Representative,23,No Candidate Filed,IND,0
+Benton,0013 13 - Monroe,State Representative,23,No Candidate Filed,IND,0
+Benton,0014 14 - Alsea School,State Representative,23,No Candidate Filed,IND,0
+Benton,0015 15 - Northwest,State Representative,23,No Candidate Filed,IND,0
+Benton,0017 17 - North 509J,State Representative,23,No Candidate Filed,IND,0
+Benton,0019 19 - South 509J,State Representative,23,No Candidate Filed,IND,0
+Benton,0020 20 - Monroe Rural,State Representative,23,No Candidate Filed,IND,0
+Benton,0022 22 - Adair Rural,State Representative,23,No Candidate Filed,IND,0
+Benton,Total,State Representative,23,No Candidate Filed,IND,0
+Benton,0012 12 - Adair Village,State Representative,23,WRITE-IN,IND,2
+Benton,0013 13 - Monroe,State Representative,23,WRITE-IN,IND,2
+Benton,0014 14 - Alsea School,State Representative,23,WRITE-IN,IND,5
+Benton,0015 15 - Northwest,State Representative,23,WRITE-IN,IND,17
+Benton,0017 17 - North 509J,State Representative,23,WRITE-IN,IND,7
+Benton,0019 19 - South 509J,State Representative,23,WRITE-IN,IND,3
+Benton,0020 20 - Monroe Rural,State Representative,23,WRITE-IN,IND,11
+Benton,0022 22 - Adair Rural,State Representative,23,WRITE-IN,IND,2
+Benton,Total,State Representative,23,WRITE-IN,IND,49
+Benton,0012 12 - Adair Village,State Representative,23,OVER VOTES,IND,0
+Benton,0013 13 - Monroe,State Representative,23,OVER VOTES,IND,0
+Benton,0014 14 - Alsea School,State Representative,23,OVER VOTES,IND,0
+Benton,0015 15 - Northwest,State Representative,23,OVER VOTES,IND,0
+Benton,0017 17 - North 509J,State Representative,23,OVER VOTES,IND,0
+Benton,0019 19 - South 509J,State Representative,23,OVER VOTES,IND,0
+Benton,0020 20 - Monroe Rural,State Representative,23,OVER VOTES,IND,0
+Benton,0022 22 - Adair Rural,State Representative,23,OVER VOTES,IND,0
+Benton,Total,State Representative,23,OVER VOTES,IND,0
+Benton,0012 12 - Adair Village,State Representative,23,UNDER VOTES,IND,1
+Benton,0013 13 - Monroe,State Representative,23,UNDER VOTES,IND,3
+Benton,0014 14 - Alsea School,State Representative,23,UNDER VOTES,IND,4
+Benton,0015 15 - Northwest,State Representative,23,UNDER VOTES,IND,22
+Benton,0017 17 - North 509J,State Representative,23,UNDER VOTES,IND,9
+Benton,0019 19 - South 509J,State Representative,23,UNDER VOTES,IND,11
+Benton,0020 20 - Monroe Rural,State Representative,23,UNDER VOTES,IND,8
+Benton,0022 22 - Adair Rural,State Representative,23,UNDER VOTES,IND,8
+Benton,Total,State Representative,23,UNDER VOTES,IND,66
+Benton,0012 12 - Adair Village,State Representative,23,Kris Morse Bledsoe,REP,13
+Benton,0013 13 - Monroe,State Representative,23,Kris Morse Bledsoe,REP,11
+Benton,0014 14 - Alsea School,State Representative,23,Kris Morse Bledsoe,REP,19
+Benton,0015 15 - Northwest,State Representative,23,Kris Morse Bledsoe,REP,98
+Benton,0017 17 - North 509J,State Representative,23,Kris Morse Bledsoe,REP,47
+Benton,0019 19 - South 509J,State Representative,23,Kris Morse Bledsoe,REP,44
+Benton,0020 20 - Monroe Rural,State Representative,23,Kris Morse Bledsoe,REP,68
+Benton,0022 22 - Adair Rural,State Representative,23,Kris Morse Bledsoe,REP,18
+Benton,Total,State Representative,23,Kris Morse Bledsoe,REP,318
+Benton,0012 12 - Adair Village,State Representative,23,Mike Nearman,REP,60
+Benton,0013 13 - Monroe,State Representative,23,Mike Nearman,REP,29
+Benton,0014 14 - Alsea School,State Representative,23,Mike Nearman,REP,67
+Benton,0015 15 - Northwest,State Representative,23,Mike Nearman,REP,321
+Benton,0017 17 - North 509J,State Representative,23,Mike Nearman,REP,144
+Benton,0019 19 - South 509J,State Representative,23,Mike Nearman,REP,133
+Benton,0020 20 - Monroe Rural,State Representative,23,Mike Nearman,REP,215
+Benton,0022 22 - Adair Rural,State Representative,23,Mike Nearman,REP,49
+Benton,Total,State Representative,23,Mike Nearman,REP,1018
+Benton,0012 12 - Adair Village,State Representative,23,WRITE-IN,REP,1
+Benton,0013 13 - Monroe,State Representative,23,WRITE-IN,REP,1
+Benton,0014 14 - Alsea School,State Representative,23,WRITE-IN,REP,1
+Benton,0015 15 - Northwest,State Representative,23,WRITE-IN,REP,1
+Benton,0017 17 - North 509J,State Representative,23,WRITE-IN,REP,0
+Benton,0019 19 - South 509J,State Representative,23,WRITE-IN,REP,0
+Benton,0020 20 - Monroe Rural,State Representative,23,WRITE-IN,REP,1
+Benton,0022 22 - Adair Rural,State Representative,23,WRITE-IN,REP,0
+Benton,Total,State Representative,23,WRITE-IN,REP,5
+Benton,0012 12 - Adair Village,State Representative,23,OVER VOTES,REP,0
+Benton,0013 13 - Monroe,State Representative,23,OVER VOTES,REP,0
+Benton,0014 14 - Alsea School,State Representative,23,OVER VOTES,REP,0
+Benton,0015 15 - Northwest,State Representative,23,OVER VOTES,REP,0
+Benton,0017 17 - North 509J,State Representative,23,OVER VOTES,REP,0
+Benton,0019 19 - South 509J,State Representative,23,OVER VOTES,REP,0
+Benton,0020 20 - Monroe Rural,State Representative,23,OVER VOTES,REP,0
+Benton,0022 22 - Adair Rural,State Representative,23,OVER VOTES,REP,0
+Benton,Total,State Representative,23,OVER VOTES,REP,0
+Benton,0012 12 - Adair Village,State Representative,23,UNDER VOTES,REP,13
+Benton,0013 13 - Monroe,State Representative,23,UNDER VOTES,REP,3
+Benton,0014 14 - Alsea School,State Representative,23,UNDER VOTES,REP,11
+Benton,0015 15 - Northwest,State Representative,23,UNDER VOTES,REP,71
+Benton,0017 17 - North 509J,State Representative,23,UNDER VOTES,REP,30
+Benton,0019 19 - South 509J,State Representative,23,UNDER VOTES,REP,27
+Benton,0020 20 - Monroe Rural,State Representative,23,UNDER VOTES,REP,30
+Benton,0022 22 - Adair Rural,State Representative,23,UNDER VOTES,REP,16
+Benton,Total,State Representative,23,UNDER VOTES,REP,201
+Benton,0001 01 - Corvallis ONE,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,367
+Benton,0002 02 - Corvallis TWO,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,120
+Benton,0003 03 - Corvallis THREE,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,297
+Benton,0004 04 - Corvallis FOUR,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,95
+Benton,0005 05 - Corvallis FIVE,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,88
+Benton,0006 06 - Corvallis SIX,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,252
+Benton,0007 07 - Corvallis SEVEN,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,326
+Benton,0008 08 - Corvallis EIGHT,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,480
+Benton,0009 09 - Corvallis NINE,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,346
+Benton,0010 10 - Philonath,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,335
+Benton,0012 12 - Adair Village,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,61
+Benton,0013 13 - Monroe,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,29
+Benton,0014 14 - Alsea School,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,73
+Benton,0015 15 - Northwest,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,362
+Benton,0016 16 - Corvallis Rural,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,360
+Benton,0017 17 - North 509J,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,174
+Benton,0018 18 - Albany Rural,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,291
+Benton,0019 19 - South 509J,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,160
+Benton,0020 20 - Monroe Rural,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,242
+Benton,0021 21 - Philomath Rural,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,49
+Benton,0022 22 - Adair Rural,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,62
+Benton,0023 23 - Highway 20,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,69
+Benton,0024 24 - N Albany N,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,517
+Benton,0025 25 - N Albany S,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,398
+Benton,Total,Commissioner of the Bureau of Labour and Industries,,Lou Ogden,NonPartison,5553
+Benton,0001 01 - Corvallis ONE,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,960
+Benton,0002 02 - Corvallis TWO,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,477
+Benton,0003 03 - Corvallis THREE,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,915
+Benton,0004 04 - Corvallis FOUR,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,335
+Benton,0005 05 - Corvallis FIVE,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,483
+Benton,0006 06 - Corvallis SIX,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,846
+Benton,0007 07 - Corvallis SEVEN,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,1351
+Benton,0008 08 - Corvallis EIGHT,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,1204
+Benton,0009 09 - Corvallis NINE,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,706
+Benton,0010 10 - Philonath,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,466
+Benton,0012 12 - Adair Village,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,61
+Benton,0013 13 - Monroe,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,47
+Benton,0014 14 - Alsea School,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,84
+Benton,0015 15 - Northwest,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,533
+Benton,0016 16 - Corvallis Rural,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,785
+Benton,0017 17 - North 509J,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,414
+Benton,0018 18 - Albany Rural,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,208
+Benton,0019 19 - South 509J,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,263
+Benton,0020 20 - Monroe Rural,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,248
+Benton,0021 21 - Philomath Rural,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,81
+Benton,0022 22 - Adair Rural,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,90
+Benton,0023 23 - Highway 20,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,127
+Benton,0024 24 - N Albany N,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,519
+Benton,0025 25 - N Albany S,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,404
+Benton,Total,Commissioner of the Bureau of Labour and Industries,,Val Hoyle,NonPartison,11607
+Benton,0001 01 - Corvallis ONE,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,96
+Benton,0002 02 - Corvallis TWO,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,46
+Benton,0003 03 - Corvallis THREE,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,90
+Benton,0004 04 - Corvallis FOUR,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,25
+Benton,0005 05 - Corvallis FIVE,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,33
+Benton,0006 06 - Corvallis SIX,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,89
+Benton,0007 07 - Corvallis SEVEN,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,74
+Benton,0008 08 - Corvallis EIGHT,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,116
+Benton,0009 09 - Corvallis NINE,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,92
+Benton,0010 10 - Philonath,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,106
+Benton,0012 12 - Adair Village,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,17
+Benton,0013 13 - Monroe,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,15
+Benton,0014 14 - Alsea School,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,27
+Benton,0015 15 - Northwest,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,127
+Benton,0016 16 - Corvallis Rural,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,93
+Benton,0017 17 - North 509J,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,41
+Benton,0018 18 - Albany Rural,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,51
+Benton,0019 19 - South 509J,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,51
+Benton,0020 20 - Monroe Rural,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,66
+Benton,0021 21 - Philomath Rural,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,11
+Benton,0022 22 - Adair Rural,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,17
+Benton,0023 23 - Highway 20,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,41
+Benton,0024 24 - N Albany N,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,123
+Benton,0025 25 - N Albany S,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,113
+Benton,Total,Commissioner of the Bureau of Labour and Industries,,Jack Howard,NonPartison,1560
+Benton,0001 01 - Corvallis ONE,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,1
+Benton,0002 02 - Corvallis TWO,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,4
+Benton,0003 03 - Corvallis THREE,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,3
+Benton,0004 04 - Corvallis FOUR,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,2
+Benton,0005 05 - Corvallis FIVE,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,5
+Benton,0006 06 - Corvallis SIX,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,5
+Benton,0007 07 - Corvallis SEVEN,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,9
+Benton,0008 08 - Corvallis EIGHT,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,4
+Benton,0009 09 - Corvallis NINE,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,6
+Benton,0010 10 - Philonath,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,6
+Benton,0012 12 - Adair Village,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,1
+Benton,0013 13 - Monroe,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,0
+Benton,0014 14 - Alsea School,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,3
+Benton,0015 15 - Northwest,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,7
+Benton,0016 16 - Corvallis Rural,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,3
+Benton,0017 17 - North 509J,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,0
+Benton,0018 18 - Albany Rural,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,1
+Benton,0019 19 - South 509J,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,3
+Benton,0020 20 - Monroe Rural,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,2
+Benton,0021 21 - Philomath Rural,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,0
+Benton,0022 22 - Adair Rural,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,1
+Benton,0023 23 - Highway 20,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,1
+Benton,0024 24 - N Albany N,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,4
+Benton,0025 25 - N Albany S,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,2
+Benton,Total,Commissioner of the Bureau of Labour and Industries,,WRITE-IN,NonPartison,73
+Benton,0001 01 - Corvallis ONE,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0002 02 - Corvallis TWO,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0003 03 - Corvallis THREE,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0004 04 - Corvallis FOUR,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0005 05 - Corvallis FIVE,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0006 06 - Corvallis SIX,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0007 07 - Corvallis SEVEN,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0008 08 - Corvallis EIGHT,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0009 09 - Corvallis NINE,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0010 10 - Philonath,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0012 12 - Adair Village,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0013 13 - Monroe,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0014 14 - Alsea School,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0015 15 - Northwest,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0016 16 - Corvallis Rural,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0017 17 - North 509J,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0018 18 - Albany Rural,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0019 19 - South 509J,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0020 20 - Monroe Rural,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0021 21 - Philomath Rural,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0022 22 - Adair Rural,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0023 23 - Highway 20,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0024 24 - N Albany N,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0025 25 - N Albany S,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,Total,Commissioner of the Bureau of Labour and Industries,,OVER VOTES,NonPartison,0
+Benton,0001 01 - Corvallis ONE,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,539
+Benton,0002 02 - Corvallis TWO,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,199
+Benton,0003 03 - Corvallis THREE,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,442
+Benton,0004 04 - Corvallis FOUR,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,155
+Benton,0005 05 - Corvallis FIVE,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,178
+Benton,0006 06 - Corvallis SIX,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,345
+Benton,0007 07 - Corvallis SEVEN,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,578
+Benton,0008 08 - Corvallis EIGHT,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,743
+Benton,0009 09 - Corvallis NINE,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,400
+Benton,0010 10 - Philonath,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,365
+Benton,0012 12 - Adair Village,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,46
+Benton,0013 13 - Monroe,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,13
+Benton,0014 14 - Alsea School,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,34
+Benton,0015 15 - Northwest,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,333
+Benton,0016 16 - Corvallis Rural,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,458
+Benton,0017 17 - North 509J,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,202
+Benton,0018 18 - Albany Rural,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,122
+Benton,0019 19 - South 509J,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,143
+Benton,0020 20 - Monroe Rural,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,92
+Benton,0021 21 - Philomath Rural,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,58
+Benton,0022 22 - Adair Rural,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,62
+Benton,0023 23 - Highway 20,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,63
+Benton,0024 24 - N Albany N,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,395
+Benton,0025 25 - N Albany S,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,295
+Benton,Total,Commissioner of the Bureau of Labour and Industries,,UNDER VOTES,NonPartison,295
