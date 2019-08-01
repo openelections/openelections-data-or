@@ -1,0 +1,346 @@
+county,precinct,office,district,party,candidate,votes
+Grant,3,U.S. House,2,DEM,Eric Burnette,19
+Grant,3,U.S. House,2,DEM,Michael Byrne,20
+Grant,3,U.S. House,2,DEM,Tim S. White,28
+Grant,3,U.S. House,2,DEM,Raz Mason,22
+Grant,3,U.S. House,2,DEM,Jamie McLeod Skinner,97
+Grant,3,U.S. House,2,DEM,James (Jim) Crary,67
+Grant,3,U.S. House,2,DEM,Jen (Jenni) Neahring,61
+Grant,3,U.S. House,2,DEM,Write-ins,29
+Grant,3,U.S. House,2,DEM,Over Votes,0
+Grant,3,U.S. House,2,DEM,Under Votes,120
+Grant,4,U.S. House,2,DEM,Eric Burnette,3
+Grant,4,U.S. House,2,DEM,Michael Byrne,8
+Grant,4,U.S. House,2,DEM,Tim S. White,3
+Grant,4,U.S. House,2,DEM,Raz Mason,5
+Grant,4,U.S. House,2,DEM,Jamie McLeod Skinner,21
+Grant,4,U.S. House,2,DEM,James (Jim) Crary,20
+Grant,4,U.S. House,2,DEM,Jen (Jenni) Neahring,18
+Grant,4,U.S. House,2,DEM,Write-ins,6
+Grant,4,U.S. House,2,DEM,Over Votes,0
+Grant,4,U.S. House,2,DEM,Under Votes,26
+Grant,8,U.S. House,2,DEM,Eric Burnette,1
+Grant,8,U.S. House,2,DEM,Michael Byrne,2
+Grant,8,U.S. House,2,DEM,Tim S. White,0
+Grant,8,U.S. House,2,DEM,Raz Mason,4
+Grant,8,U.S. House,2,DEM,Jamie McLeod Skinner,11
+Grant,8,U.S. House,2,DEM,James (Jim) Crary,8
+Grant,8,U.S. House,2,DEM,Jen (Jenni) Neahring,10
+Grant,8,U.S. House,2,DEM,Write-ins,2
+Grant,8,U.S. House,2,DEM,Over Votes,0
+Grant,8,U.S. House,2,DEM,Under Votes,15
+Grant,16,U.S. House,2,DEM,Eric Burnette,2
+Grant,16,U.S. House,2,DEM,Michael Byrne,3
+Grant,16,U.S. House,2,DEM,Tim S. White,0
+Grant,16,U.S. House,2,DEM,Raz Mason,0
+Grant,16,U.S. House,2,DEM,Jamie McLeod Skinner,3
+Grant,16,U.S. House,2,DEM,James (Jim) Crary,4
+Grant,16,U.S. House,2,DEM,Jen (Jenni) Neahring,2
+Grant,16,U.S. House,2,DEM,Write-ins,1
+Grant,16,U.S. House,2,DEM,Over Votes,0
+Grant,16,U.S. House,2,DEM,Under Votes,11
+Grant,17,U.S. House,2,DEM,Eric Burnette,3
+Grant,17,U.S. House,2,DEM,Michael Byrne,0
+Grant,17,U.S. House,2,DEM,Tim S. White,2
+Grant,17,U.S. House,2,DEM,Raz Mason,1
+Grant,17,U.S. House,2,DEM,Jamie McLeod Skinner,3
+Grant,17,U.S. House,2,DEM,James (Jim) Crary,8
+Grant,17,U.S. House,2,DEM,Jen (Jenni) Neahring,6
+Grant,17,U.S. House,2,DEM,Write-ins,1
+Grant,17,U.S. House,2,DEM,Over Votes,0
+Grant,17,U.S. House,2,DEM,Under Votes,8
+Grant,3,Governor,,DEM,Ed Jones,8
+Grant,3,Governor,,DEM,Kate Brown,216
+Grant,3,Governor,,DEM,Canace Neville,37
+Grant,3,Governor,,DEM,Write-ins,67
+Grant,3,Governor,,DEM,Over Votes,0
+Grant,3,Governor,,DEM,Under Votes,62
+Grant,4,Governor,,DEM,Ed Jones,26
+Grant,4,Governor,,DEM,Kate Brown,41
+Grant,4,Governor,,DEM,Canace Neville,16
+Grant,4,Governor,,DEM,Write-ins,11
+Grant,4,Governor,,DEM,Over Votes,0
+Grant,4,Governor,,DEM,Under Votes,16
+Grant,8,Governor,,DEM,Ed Jones,8
+Grant,8,Governor,,DEM,Kate Brown,23
+Grant,8,Governor,,DEM,Canace Neville,7
+Grant,8,Governor,,DEM,Write-ins,9
+Grant,8,Governor,,DEM,Over Votes,0
+Grant,8,Governor,,DEM,Under Votes,6
+Grant,16,Governor,,DEM,Ed Jones,8
+Grant,16,Governor,,DEM,Kate Brown,10
+Grant,16,Governor,,DEM,Canace Neville,0
+Grant,16,Governor,,DEM,Write-ins,6
+Grant,16,Governor,,DEM,Over Votes,0
+Grant,16,Governor,,DEM,Under Votes,2
+Grant,17,Governor,,DEM,Ed Jones,12
+Grant,17,Governor,,DEM,Kate Brown,7
+Grant,17,Governor,,DEM,Canace Neville,4
+Grant,17,Governor,,DEM,Write-ins,3
+Grant,17,Governor,,DEM,Over Votes,0
+Grant,17,Governor,,DEM,Under Votes,6
+Grant,3,State Senate,30,DEM,Solea Kabakov,233
+Grant,3,State Senate,30,DEM,Write-ins,21
+Grant,3,State Senate,30,DEM,Over Votes,0
+Grant,3,State Senate,30,DEM,Under Votes,209
+Grant,4,State Senate,30,DEM,Solea Kabakov,58
+Grant,4,State Senate,30,DEM,Write-ins,4
+Grant,4,State Senate,30,DEM,Over Votes,0
+Grant,4,State Senate,30,DEM,Under Votes,48
+Grant,8,State Senate,30,DEM,Solea Kabakov,29
+Grant,8,State Senate,30,DEM,Write-ins,1
+Grant,8,State Senate,30,DEM,Over Votes,0
+Grant,8,State Senate,30,DEM,Under Votes,23
+Grant,16,State Senate,30,DEM,Solea Kabakov,10
+Grant,16,State Senate,30,DEM,Write-ins,1
+Grant,16,State Senate,30,DEM,Over Votes,0
+Grant,16,State Senate,30,DEM,Under Votes,15
+Grant,17,State Senate,30,DEM,Solea Kabakov,14
+Grant,17,State Senate,30,DEM,Write-ins,2
+Grant,17,State Senate,30,DEM,Over Votes,0
+Grant,17,State Senate,30,DEM,Under Votes,16
+Grant,3,State Representative,60,DEM,Write-ins,44
+Grant,3,State Representative,60,DEM,Over Votes,0
+Grant,3,State Representative,60,DEM,Under Votes,419
+Grant,4,State Representative,60,DEM,Write-ins,3
+Grant,4,State Representative,60,DEM,Over Votes,0
+Grant,4,State Representative,60,DEM,Under Votes,107
+Grant,8,State Representative,60,DEM,Write-ins,2
+Grant,8,State Representative,60,DEM,Over Votes,0
+Grant,8,State Representative,60,DEM,Under Votes,51
+Grant,16,State Representative,60,DEM,Write-ins,2
+Grant,16,State Representative,60,DEM,Over Votes,0
+Grant,16,State Representative,60,DEM,Under Votes,24
+Grant,17,State Representative,60,DEM,Write-ins,2
+Grant,17,State Representative,60,DEM,Over Votes,0
+Grant,17,State Representative,60,DEM,Under Votes,30
+Grant,3,U.S. House,2,IND,Mark R. Roberts,47
+Grant,3,U.S. House,2,IND,Write-ins,24
+Grant,3,U.S. House,2,IND,Over Votes,0
+Grant,3,U.S. House,2,IND,Under Votes,67
+Grant,4,U.S. House,2,IND,Mark R. Roberts,4
+Grant,4,U.S. House,2,IND,Write-ins,6
+Grant,4,U.S. House,2,IND,Over Votes,0
+Grant,4,U.S. House,2,IND,Under Votes,10
+Grant,8,U.S. House,2,IND,Mark R. Roberts,2
+Grant,8,U.S. House,2,IND,Write-ins,4
+Grant,8,U.S. House,2,IND,Over Votes,0
+Grant,8,U.S. House,2,IND,Under Votes,7
+Grant,16,U.S. House,2,IND,Mark R. Roberts,3
+Grant,16,U.S. House,2,IND,Write-ins,1
+Grant,16,U.S. House,2,IND,Over Votes,0
+Grant,16,U.S. House,2,IND,Under Votes,5
+Grant,17,U.S. House,2,IND,Mark R. Roberts,5
+Grant,17,U.S. House,2,IND,Write-ins,4
+Grant,17,U.S. House,2,IND,Over Votes,0
+Grant,17,U.S. House,2,IND,Under Votes,1
+Grant,3,Governor,,IND,Dan (Mr. P) Pistoresi,9
+Grant,3,Governor,,IND,Skye J. Allen,10
+Grant,3,Governor,,IND,Patrick Starnes,18
+Grant,3,Governor,,IND,Write-ins,49
+Grant,3,Governor,,IND,Over Votes,1
+Grant,3,Governor,,IND,Under Votes,51
+Grant,4,Governor,,IND,Dan (Mr. P) Pistoresi,2
+Grant,4,Governor,,IND,Skye J. Allen,0
+Grant,4,Governor,,IND,Patrick Starnes,2
+Grant,4,Governor,,IND,Write-ins,6
+Grant,4,Governor,,IND,Over Votes,0
+Grant,4,Governor,,IND,Under Votes,10
+Grant,8,Governor,,IND,Dan (Mr. P) Pistoresi,1
+Grant,8,Governor,,IND,Skye J. Allen,0
+Grant,8,Governor,,IND,Patrick Starnes,1
+Grant,8,Governor,,IND,Write-ins,6
+Grant,8,Governor,,IND,Over Votes,0
+Grant,8,Governor,,IND,Under Votes,5
+Grant,16,Governor,,IND,Dan (Mr. P) Pistoresi,1
+Grant,16,Governor,,IND,Skye J. Allen,0
+Grant,16,Governor,,IND,Patrick Starnes,0
+Grant,16,Governor,,IND,Write-ins,4
+Grant,16,Governor,,IND,Over Votes,0
+Grant,16,Governor,,IND,Under Votes,4
+Grant,17,Governor,,IND,Dan (Mr. P) Pistoresi,0
+Grant,17,Governor,,IND,Skye J. Allen,1
+Grant,17,Governor,,IND,Patrick Starnes,2
+Grant,17,Governor,,IND,Write-ins,5
+Grant,17,Governor,,IND,Over Votes,0
+Grant,17,Governor,,IND,Under Votes,2
+Grant,3,State Representative,60,IND,Write-ins,19
+Grant,3,State Representative,60,IND,Over Votes,0
+Grant,3,State Representative,60,IND,Under Votes,119
+Grant,4,State Representative,60,IND,Write-ins,4
+Grant,4,State Representative,60,IND,Over Votes,0
+Grant,4,State Representative,60,IND,Under Votes,16
+Grant,8,State Representative,60,IND,Write-ins,2
+Grant,8,State Representative,60,IND,Over Votes,0
+Grant,8,State Representative,60,IND,Under Votes,11
+Grant,16,State Representative,60,IND,Write-ins,1
+Grant,16,State Representative,60,IND,Over Votes,0
+Grant,16,State Representative,60,IND,Under Votes,8
+Grant,17,State Representative,60,IND,Write-ins,3
+Grant,17,State Representative,60,IND,Over Votes,0
+Grant,17,State Representative,60,IND,Under Votes,7
+Grant,3,U.S. House,2,REP,Randy Pollock,54
+Grant,3,U.S. House,2,REP,Greg Walden,951
+Grant,3,U.S. House,2,REP,Paul J. Romero Jr.,162
+Grant,3,U.S. House,2,REP,Write-ins,3
+Grant,3,U.S. House,2,REP,Over Votes,1
+Grant,3,U.S. House,2,REP,Under Votes,106
+Grant,4,U.S. House,2,REP,Randy Pollock,18
+Grant,4,U.S. House,2,REP,Greg Walden,240
+Grant,4,U.S. House,2,REP,Paul J. Romero Jr.,50
+Grant,4,U.S. House,2,REP,Write-ins,1
+Grant,4,U.S. House,2,REP,Over Votes,0
+Grant,4,U.S. House,2,REP,Under Votes,18
+Grant,8,U.S. House,2,REP,Randy Pollock,7
+Grant,8,U.S. House,2,REP,Greg Walden,53
+Grant,8,U.S. House,2,REP,Paul J. Romero Jr.,30
+Grant,8,U.S. House,2,REP,Write-ins,0
+Grant,8,U.S. House,2,REP,Over Votes,0
+Grant,8,U.S. House,2,REP,Under Votes,6
+Grant,16,U.S. House,2,REP,Randy Pollock,5
+Grant,16,U.S. House,2,REP,Greg Walden,75
+Grant,16,U.S. House,2,REP,Paul J. Romero Jr.,11
+Grant,16,U.S. House,2,REP,Write-ins,0
+Grant,16,U.S. House,2,REP,Over Votes,0
+Grant,16,U.S. House,2,REP,Under Votes,7
+Grant,17,U.S. House,2,REP,Randy Pollock,8
+Grant,17,U.S. House,2,REP,Greg Walden,82
+Grant,17,U.S. House,2,REP,Paul J. Romero Jr.,25
+Grant,17,U.S. House,2,REP,Write-ins,0
+Grant,17,U.S. House,2,REP,Over Votes,0
+Grant,17,U.S. House,2,REP,Under Votes,13
+Grant,3,Governor,,REP,Knute Buehler,395
+Grant,3,Governor,,REP,Keenan W. Bohach,3
+Grant,3,Governor,,REP,Greg C. Wooldridge,93
+Grant,3,Governor,,REP,Jon I. Edwards III,1
+Grant,3,Governor,,REP,David W. Stauffer,3
+Grant,3,Governor,,REP,Jeff Smith,18
+Grant,3,Governor,,REP,Jack W. Tracy,0
+Grant,3,Governor,,REP,Brett Hyland,2
+Grant,3,Governor,,REP,Bruce Cuff,12
+Grant,3,Governor,,REP,Sam Carpenter,668
+Grant,3,Governor,,REP,Write-ins,5
+Grant,3,Governor,,REP,Over Votes,3
+Grant,3,Governor,,REP,Under Votes,74
+Grant,4,Governor,,REP,Knute Buehler,102
+Grant,4,Governor,,REP,Keenan W. Bohach,2
+Grant,4,Governor,,REP,Greg C. Wooldridge,22
+Grant,4,Governor,,REP,Jon I. Edwards III,0
+Grant,4,Governor,,REP,David W. Stauffer,1
+Grant,4,Governor,,REP,Jeff Smith,4
+Grant,4,Governor,,REP,Jack W. Tracy,0
+Grant,4,Governor,,REP,Brett Hyland,0
+Grant,4,Governor,,REP,Bruce Cuff,3
+Grant,4,Governor,,REP,Sam Carpenter,174
+Grant,4,Governor,,REP,Write-ins,3
+Grant,4,Governor,,REP,Over Votes,0
+Grant,4,Governor,,REP,Under Votes,16
+Grant,8,Governor,,REP,Knute Buehler,30
+Grant,8,Governor,,REP,Keenan W. Bohach,0
+Grant,8,Governor,,REP,Greg C. Wooldridge,16
+Grant,8,Governor,,REP,Jon I. Edwards III,0
+Grant,8,Governor,,REP,David W. Stauffer,0
+Grant,8,Governor,,REP,Jeff Smith,0
+Grant,8,Governor,,REP,Jack W. Tracy,0
+Grant,8,Governor,,REP,Brett Hyland,0
+Grant,8,Governor,,REP,Bruce Cuff,4
+Grant,8,Governor,,REP,Sam Carpenter,44
+Grant,8,Governor,,REP,Write-ins,0
+Grant,8,Governor,,REP,Over Votes,0
+Grant,8,Governor,,REP,Under Votes,2
+Grant,16,Governor,,REP,Knute Buehler,34
+Grant,16,Governor,,REP,Keenan W. Bohach,1
+Grant,16,Governor,,REP,Greg C. Wooldridge,14
+Grant,16,Governor,,REP,Jon I. Edwards III,0
+Grant,16,Governor,,REP,David W. Stauffer,0
+Grant,16,Governor,,REP,Jeff Smith,0
+Grant,16,Governor,,REP,Jack W. Tracy,0
+Grant,16,Governor,,REP,Brett Hyland,0
+Grant,16,Governor,,REP,Bruce Cuff,0
+Grant,16,Governor,,REP,Sam Carpenter,45
+Grant,16,Governor,,REP,Write-ins,0
+Grant,16,Governor,,REP,Over Votes,0
+Grant,16,Governor,,REP,Under Votes,4
+Grant,17,Governor,,REP,Knute Buehler,34
+Grant,17,Governor,,REP,Keenan W. Bohach,1
+Grant,17,Governor,,REP,Greg C. Wooldridge,9
+Grant,17,Governor,,REP,Jon I. Edwards III,0
+Grant,17,Governor,,REP,David W. Stauffer,0
+Grant,17,Governor,,REP,Jeff Smith,2
+Grant,17,Governor,,REP,Jack W. Tracy,0
+Grant,17,Governor,,REP,Brett Hyland,0
+Grant,17,Governor,,REP,Bruce Cuff,1
+Grant,17,Governor,,REP,Sam Carpenter,74
+Grant,17,Governor,,REP,Write-ins,0
+Grant,17,Governor,,REP,Over Votes,1
+Grant,17,Governor,,REP,Under Votes,6
+Grant,3,State Senate,30,REP,Cliff Bentz,1050
+Grant,3,State Senate,30,REP,Write-ins,10
+Grant,3,State Senate,30,REP,Over Votes,0
+Grant,3,State Senate,30,REP,Under Votes,217
+Grant,4,State Senate,30,REP,Cliff Bentz,250
+Grant,4,State Senate,30,REP,Write-ins,9
+Grant,4,State Senate,30,REP,Over Votes,0
+Grant,4,State Senate,30,REP,Under Votes,68
+Grant,8,State Senate,30,REP,Cliff Bentz,64
+Grant,8,State Senate,30,REP,Write-ins,1
+Grant,8,State Senate,30,REP,Over Votes,0
+Grant,8,State Senate,30,REP,Under Votes,31
+Grant,16,State Senate,30,REP,Cliff Bentz,80
+Grant,16,State Senate,30,REP,Write-ins,2
+Grant,16,State Senate,30,REP,Over Votes,0
+Grant,16,State Senate,30,REP,Under Votes,16
+Grant,17,State Senate,30,REP,Cliff Bentz,94
+Grant,17,State Senate,30,REP,Write-ins,0
+Grant,17,State Senate,30,REP,Over Votes,0
+Grant,17,State Senate,30,REP,Under Votes,34
+Grant,3,State Representative,60,REP,Lynn P. Findley,841
+Grant,3,State Representative,60,REP,Write-ins,12
+Grant,3,State Representative,60,REP,Over Votes,1
+Grant,3,State Representative,60,REP,Under Votes,423
+Grant,4,State Representative,60,REP,Lynn P. Findley,204
+Grant,4,State Representative,60,REP,Write-ins,7
+Grant,4,State Representative,60,REP,Over Votes,0
+Grant,4,State Representative,60,REP,Under Votes,116
+Grant,8,State Representative,60,REP,Lynn P. Findley,54
+Grant,8,State Representative,60,REP,Write-ins,0
+Grant,8,State Representative,60,REP,Over Votes,0
+Grant,8,State Representative,60,REP,Under Votes,42
+Grant,16,State Representative,60,REP,Lynn P. Findley,60
+Grant,16,State Representative,60,REP,Write-ins,0
+Grant,16,State Representative,60,REP,Over Votes,0
+Grant,16,State Representative,60,REP,Under Votes,38
+Grant,17,State Representative,60,REP,Lynn P. Findley,68
+Grant,17,State Representative,60,REP,Write-ins,1
+Grant,17,State Representative,60,REP,Over Votes,0
+Grant,17,State Representative,60,REP,Under Votes,59
+Grant,3,Commissioner of the Bureau of Labor and Industries,,,Lou Ogden,599
+Grant,3,Commissioner of the Bureau of Labor and Industries,,,Val Hoyle,409
+Grant,3,Commissioner of the Bureau of Labor and Industries,,,Jack Howard,402
+Grant,3,Commissioner of the Bureau of Labor and Industries,,,Write-ins,13
+Grant,3,Commissioner of the Bureau of Labor and Industries,,,Over Votes,5
+Grant,3,Commissioner of the Bureau of Labor and Industries,,,Under Votes,876
+Grant,4,Commissioner of the Bureau of Labor and Industries,,,Lou Ogden,138
+Grant,4,Commissioner of the Bureau of Labor and Industries,,,Val Hoyle,100
+Grant,4,Commissioner of the Bureau of Labor and Industries,,,Jack Howard,105
+Grant,4,Commissioner of the Bureau of Labor and Industries,,,Write-ins,4
+Grant,4,Commissioner of the Bureau of Labor and Industries,,,Over Votes,2
+Grant,4,Commissioner of the Bureau of Labor and Industries,,,Under Votes,207
+Grant,8,Commissioner of the Bureau of Labor and Industries,,,Lou Ogden,60
+Grant,8,Commissioner of the Bureau of Labor and Industries,,,Val Hoyle,48
+Grant,8,Commissioner of the Bureau of Labor and Industries,,,Jack Howard,30
+Grant,8,Commissioner of the Bureau of Labor and Industries,,,Write-ins,0
+Grant,8,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Grant,8,Commissioner of the Bureau of Labor and Industries,,,Under Votes,58
+Grant,16,Commissioner of the Bureau of Labor and Industries,,,Lou Ogden,47
+Grant,16,Commissioner of the Bureau of Labor and Industries,,,Val Hoyle,21
+Grant,16,Commissioner of the Bureau of Labor and Industries,,,Jack Howard,25
+Grant,16,Commissioner of the Bureau of Labor and Industries,,,Write-ins,0
+Grant,16,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Grant,16,Commissioner of the Bureau of Labor and Industries,,,Under Votes,82
+Grant,17,Commissioner of the Bureau of Labor and Industries,,,Lou Ogden,57
+Grant,17,Commissioner of the Bureau of Labor and Industries,,,Val Hoyle,32
+Grant,17,Commissioner of the Bureau of Labor and Industries,,,Jack Howard,36
+Grant,17,Commissioner of the Bureau of Labor and Industries,,,Write-ins,0
+Grant,17,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Grant,17,Commissioner of the Bureau of Labor and Industries,,,Under Votes,66
