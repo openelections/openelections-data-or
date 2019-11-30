@@ -1,327 +1,850 @@
-county,office,district,party,candidate,votes,,
-Clatsop,U.S. House,1,LIB,Drew A. Layda,700,,
-Columbia,U.S. House,1,LIB,Drew A. Layda,1257,,
-Multnomah,U.S. House,1,LIB,Drew A. Layda,1007,,
-Washington,U.S. House,1,LIB,Drew A. Layda,10020,,
-Yamhill,U.S. House,1,LIB,Drew A. Layda,2137,,
-Clatsop,U.S. House,1,DEM,Suzanne Bonamici,11101,,
-Columbia,U.S. House,1,DEM,Suzanne Bonamici,12130,,
-Multnomah,U.S. House,1,DEM,Suzanne Bonamici,27710,,
-Washington,U.S. House,1,DEM,Suzanne Bonamici,158464,,
-Yamhill,U.S. House,1,DEM,Suzanne Bonamici,21793,,
-Clatsop,U.S. House,1,REP,John Verbeek,6526,,
-Columbia,U.S. House,1,REP,John Verbeek,10642,,
-Multnomah,U.S. House,1,REP,John Verbeek,4183,,
-Washington,U.S. House,1,REP,John Verbeek,75189,,
-Yamhill,U.S. House,1,REP,John Verbeek,19906,,
-Clatsop,U.S. House,1,,Write-ins,26,,
-Columbia,U.S. House,1,,Write-ins,31,,
-Multnomah,U.S. House,1,,Write-ins,28,,
-Washington,U.S. House,1,,Write-ins,356,,
-Yamhill,U.S. House,1,,Write-ins,43,,
-Baker,U.S. House,2,IND,Mark Roberts,403,,
-Crook,U.S. House,2,IND,Mark Roberts,508,,
-Deschutes,U.S. House,2,IND,Mark Roberts,3003,,
-Gilliam,U.S. House,2,IND,Mark Roberts,39,,
-Grant,U.S. House,2,IND,Mark Roberts,217,,
-Harney,U.S. House,2,IND,Mark Roberts,185,,
-Hood River,U.S. House,2,IND,Mark Roberts,270,,
-Jackson,U.S. House,2,IND,Mark Roberts,4284,,
-Jefferson,U.S. House,2,IND,Mark Roberts,456,,
-Josephine,U.S. House,2,IND,Mark Roberts,1256,,
-Klamath,U.S. House,2,IND,Mark Roberts,1556,,
-Lake,U.S. House,2,IND,Mark Roberts,228,,
-Malheur,U.S. House,2,IND,Mark Roberts,479,,
-Morrow,U.S. House,2,IND,Mark Roberts,191,,
-Sherman,U.S. House,2,IND,Mark Roberts,34,,
-Umatilla,U.S. House,2,IND,Mark Roberts,1156,,
-Union,U.S. House,2,IND,Mark Roberts,568,,
-Wallowa,U.S. House,2,IND,Mark Roberts,175,,
-Wasco,U.S. House,2,IND,Mark Roberts,480,,
-Wheeler,U.S. House,2,IND,Mark Roberts,48,,
-Baker,U.S. House,2,REP,Greg Walden,6004,,
-Crook,U.S. House,2,REP,Greg Walden,8335,,
-Deschutes,U.S. House,2,REP,Greg Walden,45939,,
-Gilliam,U.S. House,2,REP,Greg Walden,707,,
-Grant,U.S. House,2,REP,Greg Walden,2845,,
-Harney,U.S. House,2,REP,Greg Walden,2681,,
-Hood River,U.S. House,2,REP,Greg Walden,3578,,
-Jackson,U.S. House,2,REP,Greg Walden,51835,,
-Jefferson,U.S. House,2,REP,Greg Walden,5394,,
-Josephine,U.S. House,2,REP,Greg Walden,15721,,
-Klamath,U.S. House,2,REP,Greg Walden,19665,,
-Lake,U.S. House,2,REP,Greg Walden,2768,,
-Malheur,U.S. House,2,REP,Greg Walden,6359,,
-Morrow,U.S. House,2,REP,Greg Walden,2611,,
-Sherman,U.S. House,2,REP,Greg Walden,755,,
-Umatilla,U.S. House,2,REP,Greg Walden,15332,,
-Union,U.S. House,2,REP,Greg Walden,7926,,
-Wallowa,U.S. House,2,REP,Greg Walden,2692,,
-Wasco,U.S. House,2,REP,Greg Walden,5858,,
-Wheeler,U.S. House,2,REP,Greg Walden,592,,
-Baker,U.S. House,2,DEM,Jamie McLeod-Skinner,1894,,
-Crook,U.S. House,2,DEM,Jamie McLeod-Skinner,2698,,
-Deschutes,U.S. House,2,DEM,Jamie McLeod-Skinner,46924,,
-Gilliam,U.S. House,2,DEM,Jamie McLeod-Skinner,256,,
-Grant,U.S. House,2,DEM,Jamie McLeod-Skinner,770,,
-Harney,U.S. House,2,DEM,Jamie McLeod-Skinner,672,,
-Hood River,U.S. House,2,DEM,Jamie McLeod-Skinner,6735,,
-Jackson,U.S. House,2,DEM,Jamie McLeod-Skinner,46142,,
-Jefferson,U.S. House,2,DEM,Jamie McLeod-Skinner,3006,,
-Josephine,U.S. House,2,DEM,Jamie McLeod-Skinner,8137,,
-Klamath,U.S. House,2,DEM,Jamie McLeod-Skinner,7126,,
-Lake,U.S. House,2,DEM,Jamie McLeod-Skinner,571,,
-Malheur,U.S. House,2,DEM,Jamie McLeod-Skinner,2121,,
-Morrow,U.S. House,2,DEM,Jamie McLeod-Skinner,934,,
-Sherman,U.S. House,2,DEM,Jamie McLeod-Skinner,200,,
-Umatilla,U.S. House,2,DEM,Jamie McLeod-Skinner,7596,,
-Union,U.S. House,2,DEM,Jamie McLeod-Skinner,3281,,
-Wallowa,U.S. House,2,DEM,Jamie McLeod-Skinner,1212,,
-Wasco,U.S. House,2,DEM,Jamie McLeod-Skinner,4846,,
-Wheeler,U.S. House,2,DEM,Jamie McLeod-Skinner,177,,
-Baker,U.S. House,2,,Write-ins,6,,
-Crook,U.S. House,2,,Write-ins,9,,
-Deschutes,U.S. House,2,,Write-ins,47,,
-Gilliam,U.S. House,2,,Write-ins,0,,
-Grant,U.S. House,2,,Write-ins,7,,
-Harney,U.S. House,2,,Write-ins,2,,
-Hood River,U.S. House,2,,Write-ins,4,,
-Jackson,U.S. House,2,,Write-ins,78,,
-Jefferson,U.S. House,2,,Write-ins,2,,
-Josephine,U.S. House,2,,Write-ins,34,,
-Klamath,U.S. House,2,,Write-ins,25,,
-Lake,U.S. House,2,,Write-ins,8,,
-Malheur,U.S. House,2,,Write-ins,6,,
-Morrow,U.S. House,2,,Write-ins,1,,
-Sherman,U.S. House,2,,Write-ins,0,,
-Umatilla,U.S. House,2,,Write-ins,19,,
-Union,U.S. House,2,,Write-ins,18,,
-Wallowa,U.S. House,2,,Write-ins,3,,
-Wasco,U.S. House,2,,Write-ins,9,,
-Wheeler,U.S. House,2,,Write-ins,0,,
-Clackamas,U.S. House,3,IND,Marc W. Koller,1798,,
-Multnomah,U.S. House,3,IND,Marc W. Koller,19554,,
-Clackamas,U.S. House,3,DEM,Earl Blumenauer,21225,,
-Multnomah,U.S. House,3,DEM,Earl Blumenauer,257794,,
-Clackamas,U.S. House,3,LIB,Gary Lyndon Dye,977,,
-Multnomah,U.S. House,3,LIB,Gary Lyndon Dye,4790,,
-Clackamas,U.S. House,3,CON,Michael Marsh,332,,
-Multnomah,U.S. House,3,CON,Michael Marsh,1155,,
-Clackamas,U.S. House,3,REP,Tom Harrison,24109,,
-Multnomah,U.S. House,3,REP,Tom Harrison,52078,,
-Clackamas,U.S. House,3,,Write-ins,93,,
-Multnomah,U.S. House,3,,Write-ins,421,,
-Benton,U.S. House,4,REP,Art Robinson,8741,,
-Coos,U.S. House,4,REP,Art Robinson,14804,,
-Curry,U.S. House,4,REP,Art Robinson,6172,,
-Douglas,U.S. House,4,REP,Art Robinson,28379,,
-Josephine,U.S. House,4,REP,Art Robinson,8569,,
-Lane,U.S. House,4,REP,Art Robinson,55535,,
-Linn,U.S. House,4,REP,Art Robinson,30214,,
-Benton,U.S. House,4,LIB,Richard R. Jacobson,520,,
-Coos,U.S. House,4,LIB,Richard R. Jacobson,432,,
-Curry,U.S. House,4,LIB,Richard R. Jacobson,155,,
-Douglas,U.S. House,4,LIB,Richard R. Jacobson,823,,
-Josephine,U.S. House,4,LIB,Richard R. Jacobson,243,,
-Lane,U.S. House,4,LIB,Richard R. Jacobson,2386,,
-Linn,U.S. House,4,LIB,Richard R. Jacobson,811,,
-Benton,U.S. House,4,PAC,Mike Beilstein,1017,,
-Coos,U.S. House,4,PAC,Mike Beilstein,381,,
-Curry,U.S. House,4,PAC,Mike Beilstein,134,,
-Douglas,U.S. House,4,PAC,Mike Beilstein,595,,
-Josephine,U.S. House,4,PAC,Mike Beilstein,281,,
-Lane,U.S. House,4,PAC,Mike Beilstein,2718,,
-Linn,U.S. House,4,PAC,Mike Beilstein,830,,
-Benton,U.S. House,4,DEM,Peter DeFazio,26770,,
-Coos,U.S. House,4,DEM,Peter DeFazio,13116,,
-Curry,U.S. House,4,DEM,Peter DeFazio,5070,,
-Douglas,U.S. House,4,DEM,Peter DeFazio,18824,,
-Josephine,U.S. House,4,DEM,Peter DeFazio,5853,,
-Lane,U.S. House,4,DEM,Peter DeFazio,116561,,
-Linn,U.S. House,4,DEM,Peter DeFazio,22516,,
-Benton,U.S. House,4,,Write-ins,47,,
-Coos,U.S. House,4,,Write-ins,20,,
-Curry,U.S. House,4,,Write-ins,7,,
-Douglas,U.S. House,4,,Write-ins,54,,
-Josephine,U.S. House,4,,Write-ins,30,,
-Lane,U.S. House,4,,Write-ins,204,,
-Linn,U.S. House,4,,Write-ins,81,,
-Benton,U.S. House,5,REP,Mark Callahan,3313,,
-Clackamas,U.S. House,5,REP,Mark Callahan,56763,,
-Lincoln,U.S. House,5,REP,Mark Callahan,8857,,
-Marion,U.S. House,5,REP,Mark Callahan,57074,,
-Multnomah,U.S. House,5,REP,Mark Callahan,921,,
-Polk,U.S. House,5,REP,Mark Callahan,17241,,
-Tillamook,U.S. House,5,REP,Mark Callahan,5718,,
-Benton,U.S. House,5,LIB,Dan Souza,120,,
-Clackamas,U.S. House,5,LIB,Dan Souza,2384,,
-Lincoln,U.S. House,5,LIB,Dan Souza,455,,
-Marion,U.S. House,5,LIB,Dan Souza,2194,,
-Multnomah,U.S. House,5,LIB,Dan Souza,76,,
-Polk,U.S. House,5,LIB,Dan Souza,625,,
-Tillamook,U.S. House,5,LIB,Dan Souza,200,,
-Benton,U.S. House,5,PAC,Marvin Sandnes,77,,
-Clackamas,U.S. House,5,PAC,Marvin Sandnes,1747,,
-Lincoln,U.S. House,5,PAC,Marvin Sandnes,466,,
-Marion,U.S. House,5,PAC,Marvin Sandnes,1707,,
-Multnomah,U.S. House,5,PAC,Marvin Sandnes,57,,
-Polk,U.S. House,5,PAC,Marvin Sandnes,548,,
-Tillamook,U.S. House,5,PAC,Marvin Sandnes,200,,
-Benton,U.S. House,5,DEM,Kurt Schrader,3450,,
-Clackamas,U.S. House,5,DEM,Kurt Schrader,87424,,
-Lincoln,U.S. House,5,DEM,Kurt Schrader,14223,,
-Marion,U.S. House,5,DEM,Kurt Schrader,63916,,
-Multnomah,U.S. House,5,DEM,Kurt Schrader,3005,,
-Polk,U.S. House,5,DEM,Kurt Schrader,18367,,
-Tillamook,U.S. House,5,DEM,Kurt Schrader,6802,,
-Benton,U.S. House,5,,Write-ins,4,,
-Clackamas,U.S. House,5,,Write-ins,267,,
-Lincoln,U.S. House,5,,Write-ins,19,,
-Marion,U.S. House,5,,Write-ins,186,,
-Multnomah,U.S. House,5,,Write-ins,2,,
-Polk,U.S. House,5,,Write-ins,46,,
-Tillamook,U.S. House,5,,Write-ins,15,,
-Baker,Governor,,CON,Aaron Auer,126,,
-Benton,Governor,,CON,Aaron Auer,357,,
-Clackamas,Governor,,CON,Aaron Auer,1853,,
-Clatsop,Governor,,CON,Aaron Auer,259,,
-Columbia,Governor,,CON,Aaron Auer,481,,
-Coos,Governor,,CON,Aaron Auer,510,,
-Crook,Governor,,CON,Aaron Auer,140,,
-Curry,Governor,,CON,Aaron Auer,199,,
-Deschutes,Governor,,CON,Aaron Auer,766,,
-Douglas,Governor,,CON,Aaron Auer,1326,,
-Gilliam,Governor,,CON,Aaron Auer,14,,
-Grant,Governor,,CON,Aaron Auer,56,,
-Harney,Governor,,CON,Aaron Auer,63,,
-Hood River,Governor,,CON,Aaron Auer,81,,
-Jackson,Governor,,CON,Aaron Auer,1313,,
-Jefferson,Governor,,CON,Aaron Auer,145,,
-Josephine,Governor,,CON,Aaron Auer,881,,
-Klamath,Governor,,CON,Aaron Auer,564,,
-Lake,Governor,,CON,Aaron Auer,81,,
-Lane,Governor,,CON,Aaron Auer,2173,,
-Lincoln,Governor,,CON,Aaron Auer,302,,
-Linn,Governor,,CON,Aaron Auer,1204,,
-Malheur,Governor,,CON,Aaron Auer,227,,
-Marion,Governor,,CON,Aaron Auer,1831,,
-Morrow,Governor,,CON,Aaron Auer,111,,
-Multnomah,Governor,,CON,Aaron Auer,1793,,
-Polk,Governor,,CON,Aaron Auer,491,,
-Sherman,Governor,,CON,Aaron Auer,15,,
-Tillamook,Governor,,CON,Aaron Auer,202,,
-Umatilla,Governor,,CON,Aaron Auer,393,,
-Union,Governor,,CON,Aaron Auer,209,,
-Wallowa,Governor,,CON,Aaron Auer,61,,
-Wasco,Governor,,CON,Aaron Auer,177,,
-Washington,Governor,,CON,Aaron Auer,2010,,
-Wheeler,Governor,,CON,Aaron Auer,10,,
-Yamhill,Governor,,CON,Aaron Auer,721,,
-Baker,Governor,,LIB,Nick Chen,132,,
-Benton,Governor,,LIB,Nick Chen,721,,
-Clackamas,Governor,,LIB,Nick Chen,2827,,
-Clatsop,Governor,,LIB,Nick Chen,305,,
-Columbia,Governor,,LIB,Nick Chen,480,,
-Coos,Governor,,LIB,Nick Chen,505,,
-Crook,Governor,,LIB,Nick Chen,110,,
-Curry,Governor,,LIB,Nick Chen,188,,
-Deschutes,Governor,,LIB,Nick Chen,1353,,
-Douglas,Governor,,LIB,Nick Chen,738,,
-Gilliam,Governor,,LIB,Nick Chen,19,,
-Grant,Governor,,LIB,Nick Chen,48,,
-Harney,Governor,,LIB,Nick Chen,29,,
-Hood River,Governor,,LIB,Nick Chen,136,,
-Jackson,Governor,,LIB,Nick Chen,1720,,
-Jefferson,Governor,,LIB,Nick Chen,111,,
-Josephine,Governor,,LIB,Nick Chen,767,,
-Klamath,Governor,,LIB,Nick Chen,643,,
-Lake,Governor,,LIB,Nick Chen,52,,
-Lane,Governor,,LIB,Nick Chen,3106,,
-Lincoln,Governor,,LIB,Nick Chen,391,,
-Linn,Governor,,LIB,Nick Chen,1061,,
-Malheur,Governor,,LIB,Nick Chen,156,,
-Marion,Governor,,LIB,Nick Chen,2100,,
-Morrow,Governor,,LIB,Nick Chen,68,,
-Multnomah,Governor,,LIB,Nick Chen,4447,,
-Polk,Governor,,LIB,Nick Chen,589,,
-Sherman,Governor,,LIB,Nick Chen,7,,
-Tillamook,Governor,,LIB,Nick Chen,158,,
-Umatilla,Governor,,LIB,Nick Chen,419,,
-Union,Governor,,LIB,Nick Chen,162,,
-Wallowa,Governor,,LIB,Nick Chen,47,,
-Wasco,Governor,,LIB,Nick Chen,203,,
-Washington,Governor,,LIB,Nick Chen,4229,,
-Wheeler,Governor,,LIB,Nick Chen,15,,
-Yamhill,Governor,,LIB,Nick Chen,885,,
-Baker,Governor,,DEM,Kate Brown,1572,,
-Benton,Governor,,DEM,Kate Brown,26592,,
-Clackamas,Governor,,DEM,Kate Brown,91088,,
-Clatsop,Governor,,DEM,Kate Brown,8909,,
-Columbia,Governor,,DEM,Kate Brown,9519,,
-Coos,Governor,,DEM,Kate Brown,9622,,
-Crook,Governor,,DEM,Kate Brown,2285,,
-Curry,Governor,,DEM,Kate Brown,4141,,
-Deschutes,Governor,,DEM,Kate Brown,40676,,
-Douglas,Governor,,DEM,Kate Brown,11824,,
-Gilliam,Governor,,DEM,Kate Brown,218,,
-Grant,Governor,,DEM,Kate Brown,649,,
-Harney,Governor,,DEM,Kate Brown,584,,
-Hood River,Governor,,DEM,Kate Brown,6485,,
-Jackson,Governor,,DEM,Kate Brown,42207,,
-Jefferson,Governor,,DEM,Kate Brown,2635,,
-Josephine,Governor,,DEM,Kate Brown,12214,,
-Klamath,Governor,,DEM,Kate Brown,6301,,
-Lake,Governor,,DEM,Kate Brown,476,,
-Lane,Governor,,DEM,Kate Brown,96841,,
-Lincoln,Governor,,DEM,Kate Brown,12610,,
-Linn,Governor,,DEM,Kate Brown,16461,,
-Malheur,Governor,,DEM,Kate Brown,2159,,
-Marion,Governor,,DEM,Kate Brown,55238,,
-Morrow,Governor,,DEM,Kate Brown,844,,
-Multnomah,Governor,,DEM,Kate Brown,279384,,
-Polk,Governor,,DEM,Kate Brown,15529,,
-Sherman,Governor,,DEM,Kate Brown,190,,
-Tillamook,Governor,,DEM,Kate Brown,5616,,
-Umatilla,Governor,,DEM,Kate Brown,7085,,
-Union,Governor,,DEM,Kate Brown,2877,,
-Wallowa,Governor,,DEM,Kate Brown,1088,,
-Wasco,Governor,,DEM,Kate Brown,4604,,
-Washington,Governor,,DEM,Kate Brown,137886,,
-Wheeler,Governor,,DEM,Kate Brown,158,,
-Yamhill,Governor,,DEM,Kate Brown,17931,,
-Baker,Governor,,REP,Knute Buehler,6023,,
-Benton,Governor,,REP,Knute Buehler,14990,,
-Clackamas,Governor,,REP,Knute Buehler,98468,,
-Clatsop,Governor,,REP,Knute Buehler,8294,,
-Columbia,Governor,,REP,Knute Buehler,12953,,
-Coos,Governor,,REP,Knute Buehler,16520,,
-Crook,Governor,,REP,Knute Buehler,8516,,
-Curry,Governor,,REP,Knute Buehler,6474,,
-Deschutes,Governor,,REP,Knute Buehler,49983,,
-Douglas,Governor,,REP,Knute Buehler,32413,,
-Gilliam,Governor,,REP,Knute Buehler,691,,
-Grant,Governor,,REP,Knute Buehler,2923,,
-Harney,Governor,,REP,Knute Buehler,2722,,
-Hood River,Governor,,REP,Knute Buehler,3789,,
-Jackson,Governor,,REP,Knute Buehler,51623,,
-Jefferson,Governor,,REP,Knute Buehler,5518,,
-Josephine,Governor,,REP,Knute Buehler,24499,,
-Klamath,Governor,,REP,Knute Buehler,19134,,
-Lake,Governor,,REP,Knute Buehler,2774,,
-Lane,Governor,,REP,Knute Buehler,67737,,
-Lincoln,Governor,,REP,Knute Buehler,9884,,
-Linn,Governor,,REP,Knute Buehler,33051,,
-Malheur,Governor,,REP,Knute Buehler,6000,,
-Marion,Governor,,REP,Knute Buehler,63323,,
-Morrow,Governor,,REP,Knute Buehler,2534,,
-Multnomah,Governor,,REP,Knute Buehler,83507,,
-Polk,Governor,,REP,Knute Buehler,19341,,
-Sherman,Governor,,REP,Knute Buehler,736,,
-Tillamook,Governor,,REP,Knute Buehler,6606,,
-Umatilla,Governor,,REP,Knute Buehler,15178,,
-Union,Governor,,REP,Knute Buehler,7983,,
-Wallowa,Governor,,REP,Knute Buehler,2668,,
-Wasco,Governor,,REP,Knute Buehler,5841,,
-Washington,Governor,,REP,Knute Buehler,97286,,
-Wheeler,Governor,,REP,Knute Buehler,594,,
-Yamhill,Governor,,REP,Knute Buehler,24412,,
+county,office,district,party,candidate,votes
+Clatsop,U.S. House,1,LIB,Drew A. Layda,700
+Columbia,U.S. House,1,LIB,Drew A. Layda,1257
+Multnomah,U.S. House,1,LIB,Drew A. Layda,1007
+Washington,U.S. House,1,LIB,Drew A. Layda,10020
+Yamhill,U.S. House,1,LIB,Drew A. Layda,2137
+Clatsop,U.S. House,1,DEM,Suzanne Bonamici,11101
+Columbia,U.S. House,1,DEM,Suzanne Bonamici,12130
+Multnomah,U.S. House,1,DEM,Suzanne Bonamici,27710
+Washington,U.S. House,1,DEM,Suzanne Bonamici,158464
+Yamhill,U.S. House,1,DEM,Suzanne Bonamici,21793
+Clatsop,U.S. House,1,REP,John Verbeek,6526
+Columbia,U.S. House,1,REP,John Verbeek,10642
+Multnomah,U.S. House,1,REP,John Verbeek,4183
+Washington,U.S. House,1,REP,John Verbeek,75189
+Yamhill,U.S. House,1,REP,John Verbeek,19906
+Clatsop,U.S. House,1,,Write-ins,26
+Columbia,U.S. House,1,,Write-ins,31
+Multnomah,U.S. House,1,,Write-ins,28
+Washington,U.S. House,1,,Write-ins,356
+Yamhill,U.S. House,1,,Write-ins,43
+Baker,U.S. House,2,IND,Mark Roberts,403
+Crook,U.S. House,2,IND,Mark Roberts,508
+Deschutes,U.S. House,2,IND,Mark Roberts,3003
+Gilliam,U.S. House,2,IND,Mark Roberts,39
+Grant,U.S. House,2,IND,Mark Roberts,217
+Harney,U.S. House,2,IND,Mark Roberts,185
+Hood River,U.S. House,2,IND,Mark Roberts,270
+Jackson,U.S. House,2,IND,Mark Roberts,4284
+Jefferson,U.S. House,2,IND,Mark Roberts,456
+Josephine,U.S. House,2,IND,Mark Roberts,1256
+Klamath,U.S. House,2,IND,Mark Roberts,1556
+Lake,U.S. House,2,IND,Mark Roberts,228
+Malheur,U.S. House,2,IND,Mark Roberts,479
+Morrow,U.S. House,2,IND,Mark Roberts,191
+Sherman,U.S. House,2,IND,Mark Roberts,34
+Umatilla,U.S. House,2,IND,Mark Roberts,1156
+Union,U.S. House,2,IND,Mark Roberts,568
+Wallowa,U.S. House,2,IND,Mark Roberts,175
+Wasco,U.S. House,2,IND,Mark Roberts,480
+Wheeler,U.S. House,2,IND,Mark Roberts,48
+Baker,U.S. House,2,REP,Greg Walden,6004
+Crook,U.S. House,2,REP,Greg Walden,8335
+Deschutes,U.S. House,2,REP,Greg Walden,45939
+Gilliam,U.S. House,2,REP,Greg Walden,707
+Grant,U.S. House,2,REP,Greg Walden,2845
+Harney,U.S. House,2,REP,Greg Walden,2681
+Hood River,U.S. House,2,REP,Greg Walden,3578
+Jackson,U.S. House,2,REP,Greg Walden,51835
+Jefferson,U.S. House,2,REP,Greg Walden,5394
+Josephine,U.S. House,2,REP,Greg Walden,15721
+Klamath,U.S. House,2,REP,Greg Walden,19665
+Lake,U.S. House,2,REP,Greg Walden,2768
+Malheur,U.S. House,2,REP,Greg Walden,6359
+Morrow,U.S. House,2,REP,Greg Walden,2611
+Sherman,U.S. House,2,REP,Greg Walden,755
+Umatilla,U.S. House,2,REP,Greg Walden,15332
+Union,U.S. House,2,REP,Greg Walden,7926
+Wallowa,U.S. House,2,REP,Greg Walden,2692
+Wasco,U.S. House,2,REP,Greg Walden,5858
+Wheeler,U.S. House,2,REP,Greg Walden,592
+Baker,U.S. House,2,DEM,Jamie McLeod-Skinner,1894
+Crook,U.S. House,2,DEM,Jamie McLeod-Skinner,2698
+Deschutes,U.S. House,2,DEM,Jamie McLeod-Skinner,46924
+Gilliam,U.S. House,2,DEM,Jamie McLeod-Skinner,256
+Grant,U.S. House,2,DEM,Jamie McLeod-Skinner,770
+Harney,U.S. House,2,DEM,Jamie McLeod-Skinner,672
+Hood River,U.S. House,2,DEM,Jamie McLeod-Skinner,6735
+Jackson,U.S. House,2,DEM,Jamie McLeod-Skinner,46142
+Jefferson,U.S. House,2,DEM,Jamie McLeod-Skinner,3006
+Josephine,U.S. House,2,DEM,Jamie McLeod-Skinner,8137
+Klamath,U.S. House,2,DEM,Jamie McLeod-Skinner,7126
+Lake,U.S. House,2,DEM,Jamie McLeod-Skinner,571
+Malheur,U.S. House,2,DEM,Jamie McLeod-Skinner,2121
+Morrow,U.S. House,2,DEM,Jamie McLeod-Skinner,934
+Sherman,U.S. House,2,DEM,Jamie McLeod-Skinner,200
+Umatilla,U.S. House,2,DEM,Jamie McLeod-Skinner,7596
+Union,U.S. House,2,DEM,Jamie McLeod-Skinner,3281
+Wallowa,U.S. House,2,DEM,Jamie McLeod-Skinner,1212
+Wasco,U.S. House,2,DEM,Jamie McLeod-Skinner,4846
+Wheeler,U.S. House,2,DEM,Jamie McLeod-Skinner,177
+Baker,U.S. House,2,,Write-ins,6
+Crook,U.S. House,2,,Write-ins,9
+Deschutes,U.S. House,2,,Write-ins,47
+Gilliam,U.S. House,2,,Write-ins,0
+Grant,U.S. House,2,,Write-ins,7
+Harney,U.S. House,2,,Write-ins,2
+Hood River,U.S. House,2,,Write-ins,4
+Jackson,U.S. House,2,,Write-ins,78
+Jefferson,U.S. House,2,,Write-ins,2
+Josephine,U.S. House,2,,Write-ins,34
+Klamath,U.S. House,2,,Write-ins,25
+Lake,U.S. House,2,,Write-ins,8
+Malheur,U.S. House,2,,Write-ins,6
+Morrow,U.S. House,2,,Write-ins,1
+Sherman,U.S. House,2,,Write-ins,0
+Umatilla,U.S. House,2,,Write-ins,19
+Union,U.S. House,2,,Write-ins,18
+Wallowa,U.S. House,2,,Write-ins,3
+Wasco,U.S. House,2,,Write-ins,9
+Wheeler,U.S. House,2,,Write-ins,0
+Clackamas,U.S. House,3,IND,Marc W. Koller,1798
+Multnomah,U.S. House,3,IND,Marc W. Koller,19554
+Clackamas,U.S. House,3,DEM,Earl Blumenauer,21225
+Multnomah,U.S. House,3,DEM,Earl Blumenauer,257794
+Clackamas,U.S. House,3,LIB,Gary Lyndon Dye,977
+Multnomah,U.S. House,3,LIB,Gary Lyndon Dye,4790
+Clackamas,U.S. House,3,CON,Michael Marsh,332
+Multnomah,U.S. House,3,CON,Michael Marsh,1155
+Clackamas,U.S. House,3,REP,Tom Harrison,24109
+Multnomah,U.S. House,3,REP,Tom Harrison,52078
+Clackamas,U.S. House,3,,Write-ins,93
+Multnomah,U.S. House,3,,Write-ins,421
+Benton,U.S. House,4,REP,Art Robinson,8741
+Coos,U.S. House,4,REP,Art Robinson,14804
+Curry,U.S. House,4,REP,Art Robinson,6172
+Douglas,U.S. House,4,REP,Art Robinson,28379
+Josephine,U.S. House,4,REP,Art Robinson,8569
+Lane,U.S. House,4,REP,Art Robinson,55535
+Linn,U.S. House,4,REP,Art Robinson,30214
+Benton,U.S. House,4,LIB,Richard R. Jacobson,520
+Coos,U.S. House,4,LIB,Richard R. Jacobson,432
+Curry,U.S. House,4,LIB,Richard R. Jacobson,155
+Douglas,U.S. House,4,LIB,Richard R. Jacobson,823
+Josephine,U.S. House,4,LIB,Richard R. Jacobson,243
+Lane,U.S. House,4,LIB,Richard R. Jacobson,2386
+Linn,U.S. House,4,LIB,Richard R. Jacobson,811
+Benton,U.S. House,4,PAC,Mike Beilstein,1017
+Coos,U.S. House,4,PAC,Mike Beilstein,381
+Curry,U.S. House,4,PAC,Mike Beilstein,134
+Douglas,U.S. House,4,PAC,Mike Beilstein,595
+Josephine,U.S. House,4,PAC,Mike Beilstein,281
+Lane,U.S. House,4,PAC,Mike Beilstein,2718
+Linn,U.S. House,4,PAC,Mike Beilstein,830
+Benton,U.S. House,4,DEM,Peter DeFazio,26770
+Coos,U.S. House,4,DEM,Peter DeFazio,13116
+Curry,U.S. House,4,DEM,Peter DeFazio,5070
+Douglas,U.S. House,4,DEM,Peter DeFazio,18824
+Josephine,U.S. House,4,DEM,Peter DeFazio,5853
+Lane,U.S. House,4,DEM,Peter DeFazio,116561
+Linn,U.S. House,4,DEM,Peter DeFazio,22516
+Benton,U.S. House,4,,Write-ins,47
+Coos,U.S. House,4,,Write-ins,20
+Curry,U.S. House,4,,Write-ins,7
+Douglas,U.S. House,4,,Write-ins,54
+Josephine,U.S. House,4,,Write-ins,30
+Lane,U.S. House,4,,Write-ins,204
+Linn,U.S. House,4,,Write-ins,81
+Benton,U.S. House,5,REP,Mark Callahan,3313
+Clackamas,U.S. House,5,REP,Mark Callahan,56763
+Lincoln,U.S. House,5,REP,Mark Callahan,8857
+Marion,U.S. House,5,REP,Mark Callahan,57074
+Multnomah,U.S. House,5,REP,Mark Callahan,921
+Polk,U.S. House,5,REP,Mark Callahan,17241
+Tillamook,U.S. House,5,REP,Mark Callahan,5718
+Benton,U.S. House,5,LIB,Dan Souza,120
+Clackamas,U.S. House,5,LIB,Dan Souza,2384
+Lincoln,U.S. House,5,LIB,Dan Souza,455
+Marion,U.S. House,5,LIB,Dan Souza,2194
+Multnomah,U.S. House,5,LIB,Dan Souza,76
+Polk,U.S. House,5,LIB,Dan Souza,625
+Tillamook,U.S. House,5,LIB,Dan Souza,200
+Benton,U.S. House,5,PAC,Marvin Sandnes,77
+Clackamas,U.S. House,5,PAC,Marvin Sandnes,1747
+Lincoln,U.S. House,5,PAC,Marvin Sandnes,466
+Marion,U.S. House,5,PAC,Marvin Sandnes,1707
+Multnomah,U.S. House,5,PAC,Marvin Sandnes,57
+Polk,U.S. House,5,PAC,Marvin Sandnes,548
+Tillamook,U.S. House,5,PAC,Marvin Sandnes,200
+Benton,U.S. House,5,DEM,Kurt Schrader,3450
+Clackamas,U.S. House,5,DEM,Kurt Schrader,87424
+Lincoln,U.S. House,5,DEM,Kurt Schrader,14223
+Marion,U.S. House,5,DEM,Kurt Schrader,63916
+Multnomah,U.S. House,5,DEM,Kurt Schrader,3005
+Polk,U.S. House,5,DEM,Kurt Schrader,18367
+Tillamook,U.S. House,5,DEM,Kurt Schrader,6802
+Benton,U.S. House,5,,Write-ins,4
+Clackamas,U.S. House,5,,Write-ins,267
+Lincoln,U.S. House,5,,Write-ins,19
+Marion,U.S. House,5,,Write-ins,186
+Multnomah,U.S. House,5,,Write-ins,2
+Polk,U.S. House,5,,Write-ins,46
+Tillamook,U.S. House,5,,Write-ins,15
+Baker,Governor,,CON,Aaron Auer,126
+Benton,Governor,,CON,Aaron Auer,357
+Clackamas,Governor,,CON,Aaron Auer,1853
+Clatsop,Governor,,CON,Aaron Auer,259
+Columbia,Governor,,CON,Aaron Auer,481
+Coos,Governor,,CON,Aaron Auer,510
+Crook,Governor,,CON,Aaron Auer,140
+Curry,Governor,,CON,Aaron Auer,199
+Deschutes,Governor,,CON,Aaron Auer,766
+Douglas,Governor,,CON,Aaron Auer,1326
+Gilliam,Governor,,CON,Aaron Auer,14
+Grant,Governor,,CON,Aaron Auer,56
+Harney,Governor,,CON,Aaron Auer,63
+Hood River,Governor,,CON,Aaron Auer,81
+Jackson,Governor,,CON,Aaron Auer,1313
+Jefferson,Governor,,CON,Aaron Auer,145
+Josephine,Governor,,CON,Aaron Auer,881
+Klamath,Governor,,CON,Aaron Auer,564
+Lake,Governor,,CON,Aaron Auer,81
+Lane,Governor,,CON,Aaron Auer,2173
+Lincoln,Governor,,CON,Aaron Auer,302
+Linn,Governor,,CON,Aaron Auer,1204
+Malheur,Governor,,CON,Aaron Auer,227
+Marion,Governor,,CON,Aaron Auer,1831
+Morrow,Governor,,CON,Aaron Auer,111
+Multnomah,Governor,,CON,Aaron Auer,1793
+Polk,Governor,,CON,Aaron Auer,491
+Sherman,Governor,,CON,Aaron Auer,15
+Tillamook,Governor,,CON,Aaron Auer,202
+Umatilla,Governor,,CON,Aaron Auer,393
+Union,Governor,,CON,Aaron Auer,209
+Wallowa,Governor,,CON,Aaron Auer,61
+Wasco,Governor,,CON,Aaron Auer,177
+Washington,Governor,,CON,Aaron Auer,2010
+Wheeler,Governor,,CON,Aaron Auer,10
+Yamhill,Governor,,CON,Aaron Auer,721
+Baker,Governor,,LIB,Nick Chen,132
+Benton,Governor,,LIB,Nick Chen,721
+Clackamas,Governor,,LIB,Nick Chen,2827
+Clatsop,Governor,,LIB,Nick Chen,305
+Columbia,Governor,,LIB,Nick Chen,480
+Coos,Governor,,LIB,Nick Chen,505
+Crook,Governor,,LIB,Nick Chen,110
+Curry,Governor,,LIB,Nick Chen,188
+Deschutes,Governor,,LIB,Nick Chen,1353
+Douglas,Governor,,LIB,Nick Chen,738
+Gilliam,Governor,,LIB,Nick Chen,19
+Grant,Governor,,LIB,Nick Chen,48
+Harney,Governor,,LIB,Nick Chen,29
+Hood River,Governor,,LIB,Nick Chen,136
+Jackson,Governor,,LIB,Nick Chen,1720
+Jefferson,Governor,,LIB,Nick Chen,111
+Josephine,Governor,,LIB,Nick Chen,767
+Klamath,Governor,,LIB,Nick Chen,643
+Lake,Governor,,LIB,Nick Chen,52
+Lane,Governor,,LIB,Nick Chen,3106
+Lincoln,Governor,,LIB,Nick Chen,391
+Linn,Governor,,LIB,Nick Chen,1061
+Malheur,Governor,,LIB,Nick Chen,156
+Marion,Governor,,LIB,Nick Chen,2100
+Morrow,Governor,,LIB,Nick Chen,68
+Multnomah,Governor,,LIB,Nick Chen,4447
+Polk,Governor,,LIB,Nick Chen,589
+Sherman,Governor,,LIB,Nick Chen,7
+Tillamook,Governor,,LIB,Nick Chen,158
+Umatilla,Governor,,LIB,Nick Chen,419
+Union,Governor,,LIB,Nick Chen,162
+Wallowa,Governor,,LIB,Nick Chen,47
+Wasco,Governor,,LIB,Nick Chen,203
+Washington,Governor,,LIB,Nick Chen,4229
+Wheeler,Governor,,LIB,Nick Chen,15
+Yamhill,Governor,,LIB,Nick Chen,885
+Baker,Governor,,DEM,Kate Brown,1572
+Benton,Governor,,DEM,Kate Brown,26592
+Clackamas,Governor,,DEM,Kate Brown,91088
+Clatsop,Governor,,DEM,Kate Brown,8909
+Columbia,Governor,,DEM,Kate Brown,9519
+Coos,Governor,,DEM,Kate Brown,9622
+Crook,Governor,,DEM,Kate Brown,2285
+Curry,Governor,,DEM,Kate Brown,4141
+Deschutes,Governor,,DEM,Kate Brown,40676
+Douglas,Governor,,DEM,Kate Brown,11824
+Gilliam,Governor,,DEM,Kate Brown,218
+Grant,Governor,,DEM,Kate Brown,649
+Harney,Governor,,DEM,Kate Brown,584
+Hood River,Governor,,DEM,Kate Brown,6485
+Jackson,Governor,,DEM,Kate Brown,42207
+Jefferson,Governor,,DEM,Kate Brown,2635
+Josephine,Governor,,DEM,Kate Brown,12214
+Klamath,Governor,,DEM,Kate Brown,6301
+Lake,Governor,,DEM,Kate Brown,476
+Lane,Governor,,DEM,Kate Brown,96841
+Lincoln,Governor,,DEM,Kate Brown,12610
+Linn,Governor,,DEM,Kate Brown,16461
+Malheur,Governor,,DEM,Kate Brown,2159
+Marion,Governor,,DEM,Kate Brown,55238
+Morrow,Governor,,DEM,Kate Brown,844
+Multnomah,Governor,,DEM,Kate Brown,279384
+Polk,Governor,,DEM,Kate Brown,15529
+Sherman,Governor,,DEM,Kate Brown,190
+Tillamook,Governor,,DEM,Kate Brown,5616
+Umatilla,Governor,,DEM,Kate Brown,7085
+Union,Governor,,DEM,Kate Brown,2877
+Wallowa,Governor,,DEM,Kate Brown,1088
+Wasco,Governor,,DEM,Kate Brown,4604
+Washington,Governor,,DEM,Kate Brown,137886
+Wheeler,Governor,,DEM,Kate Brown,158
+Yamhill,Governor,,DEM,Kate Brown,17931
+Baker,Governor,,REP,Knute Buehler,6023
+Benton,Governor,,REP,Knute Buehler,14990
+Clackamas,Governor,,REP,Knute Buehler,98468
+Clatsop,Governor,,REP,Knute Buehler,8294
+Columbia,Governor,,REP,Knute Buehler,12953
+Coos,Governor,,REP,Knute Buehler,16520
+Crook,Governor,,REP,Knute Buehler,8516
+Curry,Governor,,REP,Knute Buehler,6474
+Deschutes,Governor,,REP,Knute Buehler,49983
+Douglas,Governor,,REP,Knute Buehler,32413
+Gilliam,Governor,,REP,Knute Buehler,691
+Grant,Governor,,REP,Knute Buehler,2923
+Harney,Governor,,REP,Knute Buehler,2722
+Hood River,Governor,,REP,Knute Buehler,3789
+Jackson,Governor,,REP,Knute Buehler,51623
+Jefferson,Governor,,REP,Knute Buehler,5518
+Josephine,Governor,,REP,Knute Buehler,24499
+Klamath,Governor,,REP,Knute Buehler,19134
+Lake,Governor,,REP,Knute Buehler,2774
+Lane,Governor,,REP,Knute Buehler,67737
+Lincoln,Governor,,REP,Knute Buehler,9884
+Linn,Governor,,REP,Knute Buehler,33051
+Malheur,Governor,,REP,Knute Buehler,6000
+Marion,Governor,,REP,Knute Buehler,63323
+Morrow,Governor,,REP,Knute Buehler,2534
+Multnomah,Governor,,REP,Knute Buehler,83507
+Polk,Governor,,REP,Knute Buehler,19341
+Sherman,Governor,,REP,Knute Buehler,736
+Tillamook,Governor,,REP,Knute Buehler,6606
+Umatilla,Governor,,REP,Knute Buehler,15178
+Union,Governor,,REP,Knute Buehler,7983
+Wallowa,Governor,,REP,Knute Buehler,2668
+Wasco,Governor,,REP,Knute Buehler,5841
+Washington,Governor,,REP,Knute Buehler,97286
+Wheeler,Governor,,REP,Knute Buehler,594
+Yamhill,Governor,,REP,Knute Buehler,24412
+Coos,State Senate,1,DEM,Shannon Souza,4562
+Curry,State Senate,1,DEM,Shannon Souza,4894
+Douglas,State Senate,1,DEM,Shannon Souza,9681
+Jackson,State Senate,1,DEM,Shannon Souza,249
+Josephine,State Senate,1,DEM,Shannon Souza,1626
+Coos,State Senate,1,REP,Dallas Heard,7440
+Curry,State Senate,1,REP,Dallas Heard,6436
+Douglas,State Senate,1,REP,Dallas Heard,20448
+Jackson,State Senate,1,REP,Dallas Heard,483
+Josephine,State Senate,1,REP,Dallas Heard,3094
+Coos,State Senate,1,,Write-ins ,16
+Curry,State Senate,1,,Write-ins ,18
+Douglas,State Senate,1,,Write-ins ,52
+Jackson,State Senate,1,,Write-ins ,3
+Josephine,State Senate,1,,Write-ins ,8
+Jackson,State Senate,3,DEM,Jeff Golden,35834
+Klamath,State Senate,3,DEM,Jeff Golden,0
+Jackson,State Senate,3,REP,Jessica Gomez,29065
+Klamath,State Senate,3,REP,Jessica Gomez,0
+Jackson,State Senate,3,,Write-ins ,75
+Klamath,State Senate,3,,Write-ins ,0
+Douglas,State Senate,4,REP,Scott Rohter,9305
+Lane,State Senate,4,REP,Scott Rohter,15726
+Douglas,State Senate,4,LIB,Frank L Lengele Jr,386
+Lane,State Senate,4,LIB,Frank L Lengele Jr,1144
+Douglas,State Senate,4,DEM,Floyd Prozanski,4968
+Lane,State Senate,4,DEM,Floyd Prozanski,33655
+Douglas,State Senate,4,,Write-ins ,39
+Lane,State Senate,4,,Write-ins ,78
+Lane,State Senate,6,DEM,Lee L Beyer,30640
+Linn,State Senate,6,DEM,Lee L Beyer,2285
+Lane,State Senate,6,REP,Robert Schwartz,17768
+Linn,State Senate,6,REP,Robert Schwartz,4903
+Lane,State Senate,6,,Write-ins ,113
+Linn,State Senate,6,,Write-ins ,8
+Lane,State Senate,7,DEM,James I Manning Jr,38262
+Lane,State Senate,7,,Write-ins ,2146
+Benton,State Senate,8,DEM,Sara A Gelser,26397
+Linn,State Senate,8,DEM,Sara A Gelser,11722
+Benton,State Senate,8,LIB,Bryan Eggiman,737
+Linn,State Senate,8,LIB,Bryan Eggiman,614
+Benton,State Senate,8,REP,Erik S Parks,9200
+Linn,State Senate,8,REP,Erik S Parks,11759
+Benton,State Senate,8,,Write-ins ,43
+Linn,State Senate,8,,Write-ins ,47
+Marion,State Senate,10,REP,Jackie F Winters,22574
+Polk,State Senate,10,REP,Jackie F Winters,10571
+Marion,State Senate,10,DEM,Deb Patterson,18321
+Polk,State Senate,10,DEM,Deb Patterson,9889
+Marion,State Senate,10,,Write-ins ,64
+Polk,State Senate,10,,Write-ins ,71
+Marion,State Senate,11,REP,Greg Warnock,14760
+Marion,State Senate,11,DEM,Peter Courtney,22772
+Marion,State Senate,11,,Write-ins ,119
+Clackamas,State Senate,13,DEM,Sarah Grider,4767
+Marion,State Senate,13,DEM,Sarah Grider,6543
+Washington,State Senate,13,DEM,Sarah Grider,11588
+Yamhill,State Senate,13,DEM,Sarah Grider,4517
+Clackamas,State Senate,13,REP,Kim Thatcher,4900
+Marion,State Senate,13,REP,Kim Thatcher,10653
+Washington,State Senate,13,REP,Kim Thatcher,12165
+Yamhill,State Senate,13,REP,Kim Thatcher,7170
+Clackamas,State Senate,13,,Write-ins ,14
+Marion,State Senate,13,,Write-ins ,26
+Washington,State Senate,13,,Write-ins ,36
+Yamhill,State Senate,13,,Write-ins ,13
+Washington,State Senate,15,DEM,Chuck Riley,30770
+Washington,State Senate,15,REP,Alexander Flores,21037
+Washington,State Senate,15,,Write-ins ,114
+Clatsop,State Senate,16,DEM,Betsy Johnson,15276
+Columbia,State Senate,16,DEM,Betsy Johnson,18412
+Multnomah,State Senate,16,DEM,Betsy Johnson,2683
+Tillamook,State Senate,16,DEM,Betsy Johnson,6747
+Washington,State Senate,16,DEM,Betsy Johnson,7280
+Yamhill,State Senate,16,DEM,Betsy Johnson,0
+Clatsop,State Senate,16,CON,Ray Biggs,2213
+Columbia,State Senate,16,CON,Ray Biggs,4894
+Multnomah,State Senate,16,CON,Ray Biggs,322
+Tillamook,State Senate,16,CON,Ray Biggs,1314
+Washington,State Senate,16,CON,Ray Biggs,1894
+Yamhill,State Senate,16,CON,Ray Biggs,0
+Clatsop,State Senate,16,,Write-ins ,126
+Columbia,State Senate,16,,Write-ins ,127
+Multnomah,State Senate,16,,Write-ins ,31
+Tillamook,State Senate,16,,Write-ins ,51
+Washington,State Senate,16,,Write-ins ,65
+Yamhill,State Senate,16,,Write-ins ,0
+Multnomah,State Senate,17,DEM,Elizabeth Steiner Hayward,9743
+Washington,State Senate,17,DEM,Elizabeth Steiner Hayward,37041
+Multnomah,State Senate,17,,Write-ins ,153
+Washington,State Senate,17,,Write-ins ,941
+Clackamas,State Senate,19,DEM,Rob Wagner,26223
+Multnomah,State Senate,19,DEM,Rob Wagner,14001
+Washington,State Senate,19,DEM,Rob Wagner,7297
+Clackamas,State Senate,19,REP,David C Poulson,16424
+Multnomah,State Senate,19,REP,David C Poulson,3406
+Washington,State Senate,19,REP,David C Poulson,5083
+Clackamas,State Senate,19,,Write-ins ,83
+Multnomah,State Senate,19,,Write-ins ,16
+Washington,State Senate,19,,Write-ins ,17
+Clackamas,State Senate,20,REP,Alan R Olsen,33665
+Marion,State Senate,20,REP,Alan R Olsen,20
+Clackamas,State Senate,20,DEM,Charles Gallia,29914
+Marion,State Senate,20,DEM,Charles Gallia,13
+Clackamas,State Senate,20,LIB,Kenny Sernach,1245
+Marion,State Senate,20,LIB,Kenny Sernach,0
+Clackamas,State Senate,20,,Write-ins ,111
+Marion,State Senate,20,,Write-ins ,0
+Clackamas,State Senate,24,DEM,Shemia Fagan,7686
+Multnomah,State Senate,24,DEM,Shemia Fagan,23201
+Clackamas,State Senate,24,,Write-ins ,526
+Multnomah,State Senate,24,,Write-ins ,1080
+Clackamas,State Senate,26,DEM,Chrissy Reitz,13695
+Hood River,State Senate,26,DEM,Chrissy Reitz,6583
+Multnomah,State Senate,26,DEM,Chrissy Reitz,8985
+Clackamas,State Senate,26,REP,Chuck Thomsen,17037
+Hood River,State Senate,26,REP,Chuck Thomsen,4218
+Multnomah,State Senate,26,REP,Chuck Thomsen,8217
+Clackamas,State Senate,26,,Write-ins ,54
+Hood River,State Senate,26,,Write-ins ,7
+Multnomah,State Senate,26,,Write-ins ,18
+Baker,State Senate,30,DEM,Solea Kabakov,1461
+Clackamas,State Senate,30,DEM,Solea Kabakov,0
+Deschutes,State Senate,30,DEM,Solea Kabakov,4090
+Grant,State Senate,30,DEM,Solea Kabakov,590
+Harney,State Senate,30,DEM,Solea Kabakov,507
+Jefferson,State Senate,30,DEM,Solea Kabakov,2799
+Lake,State Senate,30,DEM,Solea Kabakov,41
+Malheur,State Senate,30,DEM,Solea Kabakov,1654
+Marion,State Senate,30,DEM,Solea Kabakov,0
+Wasco,State Senate,30,DEM,Solea Kabakov,4237
+Wheeler,State Senate,30,DEM,Solea Kabakov,146
+Baker,State Senate,30,REP,Cliff Bentz,6573
+Clackamas,State Senate,30,REP,Cliff Bentz,0
+Deschutes,State Senate,30,REP,Cliff Bentz,7769
+Grant,State Senate,30,REP,Cliff Bentz,3125
+Harney,State Senate,30,REP,Cliff Bentz,2975
+Jefferson,State Senate,30,REP,Cliff Bentz,5612
+Lake,State Senate,30,REP,Cliff Bentz,301
+Malheur,State Senate,30,REP,Cliff Bentz,7217
+Marion,State Senate,30,REP,Cliff Bentz,0
+Wasco,State Senate,30,REP,Cliff Bentz,5345
+Wheeler,State Senate,30,REP,Cliff Bentz,619
+Baker,State Senate,30,,Write-ins ,15
+Clackamas,State Senate,30,,Write-ins ,0
+Deschutes,State Senate,30,,Write-ins ,13
+Grant,State Senate,30,,Write-ins ,12
+Harney,State Senate,30,,Write-ins ,8
+Jefferson,State Senate,30,,Write-ins ,9
+Lake,State Senate,30,,Write-ins ,0
+Malheur,State Senate,30,,Write-ins ,17
+Marion,State Senate,30,,Write-ins ,0
+Wasco,State Senate,30,,Write-ins ,13
+Wheeler,State Senate,30,,Write-ins ,0
+Coos,State House,1,DEM,Eldon Rollins,3804
+Curry,State House,1,DEM,Eldon Rollins,3998
+Douglas,State House,1,DEM,Eldon Rollins,1642
+Josephine,State House,1,DEM,Eldon Rollins,627
+Coos,State House,1,REP,David Brock Smith,8000
+Curry,State House,1,REP,David Brock Smith,7144
+Douglas,State House,1,REP,David Brock Smith,5637
+Josephine,State House,1,REP,David Brock Smith,1296
+Coos,State House,1,,Write-ins,30
+Curry,State House,1,,Write-ins,38
+Douglas,State House,1,,Write-ins,22
+Josephine,State House,1,,Write-ins,10
+Douglas,State House,2,REP,Gary Leif,14817
+Jackson,State House,2,REP,Gary Leif,468
+Josephine,State House,2,REP,Gary Leif,1819
+Douglas,State House,2,DEM,Megan Salter,7564
+Jackson,State House,2,DEM,Megan Salter,245
+Josephine,State House,2,DEM,Megan Salter,891
+Douglas,State House,2,,Write-ins,50
+Jackson,State House,2,,Write-ins,3
+Josephine,State House,2,,Write-ins,16
+Josephine,State House,3,REP,Carl Wilson,20568
+Josephine,State House,3,DEM,Jerry Morgan,9100
+Josephine,State House,3,,Write-ins,76
+Jackson,State House,4,REP,Duane A Stark,17440
+Josephine,State House,4,REP,Duane A Stark,3311
+Jackson,State House,4,,Write-ins,318
+Josephine,State House,4,,Write-ins,85
+Jackson,State House,5,REP,Sandra A Abercrombie,11580
+Klamath,State House,5,REP,Sandra A Abercrombie,0
+Jackson,State House,5,DEM,Pam Marsh,24643
+Klamath,State House,5,DEM,Pam Marsh,0
+Jackson,State House,5,,Write-ins,28
+Klamath,State House,5,,Write-ins,0
+Jackson,State House,6,REP,Kim Wallan,14681
+Jackson,State House,6,DEM,Michelle Blum Atkinson,12530
+Jackson,State House,6,,Write-ins,32
+Douglas,State House,7,DEM,Christy Inskip,4663
+Lane,State House,7,DEM,Christy Inskip,6771
+Douglas,State House,7,REP,Cedric Hayden,10102
+Lane,State House,7,REP,Cedric Hayden,7784
+Douglas,State House,7,,Write-ins,23
+Lane,State House,7,,Write-ins,60
+Lane,State House,8,LIB,Martha Sherwood,6310
+Lane,State House,8,DEM,Paul R Holvey,25835
+Lane,State House,8,,Write-ins,210
+Coos,State House,9,REP,Teri Grier,7581
+Douglas,State House,9,REP,Teri Grier,1316
+Lane,State House,9,REP,Teri Grier,4580
+Lincoln,State House,9,REP,Teri Grier,133
+Coos,State House,9,DEM,Caddy McKeown,8687
+Douglas,State House,9,DEM,Caddy McKeown,1298
+Lane,State House,9,DEM,Caddy McKeown,5749
+Lincoln,State House,9,DEM,Caddy McKeown,447
+Coos,State House,9,,Write-ins,68
+Douglas,State House,9,,Write-ins,15
+Lane,State House,9,,Write-ins,35
+Lincoln,State House,9,,Write-ins,0
+Lincoln,State House,10,DEM,David Gomberg,14165
+Polk,State House,10,DEM,David Gomberg,478
+Tillamook,State House,10,DEM,David Gomberg,2126
+Yamhill,State House,10,DEM,David Gomberg,944
+Lincoln,State House,10,REP,Thomas M Donohue,9002
+Polk,State House,10,REP,Thomas M Donohue,627
+Tillamook,State House,10,REP,Thomas M Donohue,2186
+Yamhill,State House,10,REP,Thomas M Donohue,1417
+Lincoln,State House,10,,Write-ins,25
+Polk,State House,10,,Write-ins,5
+Tillamook,State House,10,,Write-ins,7
+Yamhill,State House,10,,Write-ins,7
+Lane,State House,11,DEM,Marty Wilde,15939
+Linn,State House,11,DEM,Marty Wilde,2193
+Lane,State House,11,REP,Mark F Herbert,8618
+Linn,State House,11,REP,Mark F Herbert,5072
+Lane,State House,11,,Write-ins,24
+Linn,State House,11,,Write-ins,10
+Lane,State House,12,DEM,John Lively,16388
+Lane,State House,12,,Write-ins,820
+Lane,State House,13,DEM,Nancy Nathanson,21387
+Lane,State House,13,,Write-ins,725
+Lane,State House,14,REP,Rich Cunningham,10969
+Lane,State House,14,DEM,Julie Fahey,17264
+Lane,State House,14,,Write-ins,64
+Benton,State House,15,DEM,Jerred Taylor,2754
+Linn,State House,15,DEM,Jerred Taylor,9237
+Benton,State House,15,REP,Shelly Boshart Davis,3718
+Linn,State House,15,REP,Shelly Boshart Davis,13762
+Benton,State House,15,IND,Cynthia Hyatt,256
+Linn,State House,15,IND,Cynthia Hyatt,1283
+Benton,State House,15,,Write-ins,11
+Linn,State House,15,,Write-ins,29
+Benton,State House,16,DEM,Dan Rayfield,23158
+Benton,State House,16,,Write-ins,609
+Linn,State House,17,DEM,Renee Windsor-White,6160
+Marion,State House,17,DEM,Renee Windsor-White,2224
+Linn,State House,17,REP,Sherrie Sprenger,15619
+Marion,State House,17,REP,Sherrie Sprenger,5261
+Linn,State House,17,,Write-ins,51
+Marion,State House,17,,Write-ins,18
+Clackamas,State House,18,REP,Rick Lewis,8353
+Marion,State House,18,REP,Rick Lewis,10597
+Clackamas,State House,18,DEM,Barry Shapiro,3734
+Marion,State House,18,DEM,Barry Shapiro,5997
+Clackamas,State House,18,,Write-ins,34
+Marion,State House,18,,Write-ins,23
+Marion,State House,19,DEM,Mike Ellison,13795
+Marion,State House,19,REP,Denyc Nicole Boles,15778
+Marion,State House,19,,Write-ins,55
+Marion,State House,20,DEM,Paul Evans,5962
+Polk,State House,20,DEM,Paul Evans,10945
+Marion,State House,20,REP,Selma Pierce,5029
+Polk,State House,20,REP,Selma Pierce,9623
+Marion,State House,20,,Write-ins,23
+Polk,State House,20,,Write-ins,61
+Marion,State House,21,REP,Jack L Esp,7632
+Marion,State House,21,DEM,Brian Clem,13440
+Marion,State House,21,,Write-ins,92
+Marion,State House,22,DEM,Teresa Alonso Leon,9630
+Marion,State House,22,REP,Marty Heyen,6486
+Marion,State House,22,,Write-ins,33
+Benton,State House,23,DEM,Danny Jaffer,3850
+Marion,State House,23,DEM,Danny Jaffer,1476
+Polk,State House,23,DEM,Danny Jaffer,6307
+Yamhill,State House,23,DEM,Danny Jaffer,2684
+Benton,State House,23,LIB,Mark Karnowski,141
+Marion,State House,23,LIB,Mark Karnowski,121
+Polk,State House,23,LIB,Mark Karnowski,285
+Yamhill,State House,23,LIB,Mark Karnowski,191
+Benton,State House,23,REP,Mike Nearman,3130
+Marion,State House,23,REP,Mike Nearman,2736
+Polk,State House,23,REP,Mike Nearman,8449
+Yamhill,State House,23,REP,Mike Nearman,3656
+Benton,State House,23,,Write-ins,3
+Marion,State House,23,,Write-ins,5
+Polk,State House,23,,Write-ins,13
+Yamhill,State House,23,,Write-ins,16
+Washington,State House,24,REP,Ron Noble,3199
+Yamhill,State House,24,REP,Ron Noble,13563
+Washington,State House,24,DEM,Ken Moore,2916
+Yamhill,State House,24,DEM,Ken Moore,10454
+Washington,State House,24,,Write-ins,6
+Yamhill,State House,24,,Write-ins,26
+Marion,State House,25,REP,Bill Post,10120
+Washington,State House,25,REP,Bill Post,0
+Yamhill,State House,25,REP,Bill Post,6616
+Marion,State House,25,DEM,Dave McCall,6954
+Washington,State House,25,DEM,Dave McCall,1
+Yamhill,State House,25,DEM,Dave McCall,4971
+Marion,State House,25,,Write-ins,26
+Washington,State House,25,,Write-ins,0
+Yamhill,State House,25,,Write-ins,10
+Clackamas,State House,26,DEM,Courtney Neron,5059
+Washington,State House,26,DEM,Courtney Neron,12152
+Clackamas,State House,26,LIB,Tim E Nelson,204
+Washington,State House,26,LIB,Tim E Nelson,479
+Clackamas,State House,26,REP,Rich Vial,4466
+Washington,State House,26,REP,Rich Vial,11462
+Clackamas,State House,26,,Write-ins,21
+Washington,State House,26,,Write-ins,25
+Multnomah,State House,27,IND,Brian Pierson,378
+Washington,State House,27,IND,Brian Pierson,8983
+Multnomah,State House,27,LIB,Katy Brumbelow,27
+Washington,State House,27,LIB,Katy Brumbelow,897
+Multnomah,State House,27,DEM,Sheri Malstrom,794
+Washington,State House,27,DEM,Sheri Malstrom,19492
+Multnomah,State House,27,,Write-ins,0
+Washington,State House,27,,Write-ins,36
+Washington,State House,28,DEM,Jeff Barker,20789
+Washington,State House,28,LIB,Lars D H Hedbor,3680
+Washington,State House,28,,Write-ins,213
+Washington,State House,29,LIB,William A Namestnik,442
+Washington,State House,29,REP,David Molina,9166
+Washington,State House,29,DEM,Susan McLain,13652
+Washington,State House,29,,Write-ins,28
+Washington,State House,30,DEM,Janeen Sollman,17459
+Washington,State House,30,LIB,Kyle Markley,2188
+Washington,State House,30,REP,Dorothy Merritt,8630
+Washington,State House,30,,Write-ins,34
+Columbia,State House,31,DEM,Brad Witt,12319
+Multnomah,State House,31,DEM,Brad Witt,2299
+Washington,State House,31,DEM,Brad Witt,2873
+Columbia,State House,31,REP,Brian G Stout,11785
+Multnomah,State House,31,REP,Brian G Stout,938
+Washington,State House,31,REP,Brian G Stout,2147
+Columbia,State House,31,,Write-ins,54
+Multnomah,State House,31,,Write-ins,4
+Washington,State House,31,,Write-ins,15
+Clatsop,State House,32,REP,Vineeta Lower,7319
+Tillamook,State House,32,REP,Vineeta Lower,3720
+Washington,State House,32,REP,Vineeta Lower,2579
+Yamhill,State House,32,REP,Vineeta Lower,0
+Clatsop,State House,32,LIB,Randell Carlson,543
+Tillamook,State House,32,LIB,Randell Carlson,249
+Washington,State House,32,LIB,Randell Carlson,269
+Yamhill,State House,32,LIB,Randell Carlson,0
+Clatsop,State House,32,DEM,Tiffiny K Mitchell,9493
+Tillamook,State House,32,DEM,Tiffiny K Mitchell,3937
+Washington,State House,32,DEM,Tiffiny K Mitchell,2012
+Yamhill,State House,32,DEM,Tiffiny K Mitchell,0
+Clatsop,State House,32,IND,Brian P Halvorsen,697
+Tillamook,State House,32,IND,Brian P Halvorsen,437
+Washington,State House,32,IND,Brian P Halvorsen,191
+Yamhill,State House,32,IND,Brian P Halvorsen,0
+Clatsop,State House,32,,Write-ins,27
+Tillamook,State House,32,,Write-ins,12
+Washington,State House,32,,Write-ins,8
+Yamhill,State House,32,,Write-ins,0
+Multnomah,State House,33,REP,Elizabeth Reye,1765
+Washington,State House,33,REP,Elizabeth Reye,6735
+Multnomah,State House,33,DEM,Mitch Greenlick,11027
+Washington,State House,33,DEM,Mitch Greenlick,15874
+Multnomah,State House,33,,Write-ins,22
+Washington,State House,33,,Write-ins,39
+Washington,State House,34,LIB,Joshua Ryan Johnston,1558
+Washington,State House,34,REP,Michael Ngo,7041
+Washington,State House,34,DEM,Ken Helm,19470
+Washington,State House,34,,Write-ins,49
+Clackamas,State House,35,DEM,Margaret Doherty,261
+Multnomah,State House,35,DEM,Margaret Doherty,4045
+Washington,State House,35,DEM,Margaret Doherty,17830
+Clackamas,State House,35,REP,Bob Niemeyer,148
+Multnomah,State House,35,REP,Bob Niemeyer,1020
+Washington,State House,35,REP,Bob Niemeyer,9536
+Clackamas,State House,35,,Write-ins,1
+Multnomah,State House,35,,Write-ins,8
+Washington,State House,35,,Write-ins,46
+Multnomah,State House,36,DEM,Jennifer Williamson,28081
+Multnomah,State House,36,,Write-ins,559
+Clackamas,State House,37,DEM,Rachel Prusak,11496
+Washington,State House,37,DEM,Rachel Prusak,6861
+Clackamas,State House,37,REP,Julie Parrish,10707
+Washington,State House,37,REP,Julie Parrish,5727
+Clackamas,State House,37,,Write-ins,28
+Washington,State House,37,,Write-ins,23
+Clackamas,State House,38,DEM,Andrea Salinas,13363
+Multnomah,State House,38,DEM,Andrea Salinas,12611
+Washington,State House,38,DEM,Andrea Salinas,0
+Clackamas,State House,38,,Write-ins,366
+Multnomah,State House,38,,Write-ins,265
+Washington,State House,38,,Write-ins,0
+Clackamas,State House,39,DEM,Elizabeth Graser-Lindsey,13598
+Marion,State House,39,DEM,Elizabeth Graser-Lindsey,13
+Clackamas,State House,39,REP,Christine Drazan,19712
+Marion,State House,39,REP,Christine Drazan,20
+Clackamas,State House,39,,Write-ins,63
+Marion,State House,39,,Write-ins,0
+Clackamas,State House,40,DEM,Mark Meek,17428
+Clackamas,State House,40,REP,Josh Hill,13833
+Clackamas,State House,40,,Write-ins,72
+Clackamas,State House,41,DEM,Karin Power,13326
+Multnomah,State House,41,DEM,Karin Power,10312
+Clackamas,State House,41,,Write-ins,523
+Multnomah,State House,41,,Write-ins,173
+Multnomah,State House,42,LIB,Bruce Alexander Knight,2400
+Multnomah,State House,42,DEM,Rob Nosse,37222
+Multnomah,State House,42,,Write-ins,110
+Multnomah,State House,43,DEM,Tawna Sanchez,31885
+Multnomah,State House,43,,Write-ins,425
+Multnomah,State House,44,LIB,Manny Guerra,3181
+Multnomah,State House,44,DEM,Tina Kotek,27194
+Multnomah,State House,44,,Write-ins,155
+Multnomah,State House,45,DEM,Barbara Smith Warner,25695
+Multnomah,State House,45,,Write-ins,598
+Multnomah,State House,46,DEM,Alissa Keny-Guyer,24573
+Multnomah,State House,46,,Write-ins,581
+Multnomah,State House,47,DEM,Diego Hernandez,14741
+Multnomah,State House,47,,Write-ins,618
+Clackamas,State House,48,DEM,Jeff Reardon,7684
+Multnomah,State House,48,DEM,Jeff Reardon,8566
+Clackamas,State House,48,REP,Sonny Yellott,4541
+Multnomah,State House,48,REP,Sonny Yellott,2538
+Clackamas,State House,48,,Write-ins,52
+Multnomah,State House,48,,Write-ins,46
+Multnomah,State House,49,LIB,Heather Ricks,826
+Multnomah,State House,49,DEM,Chris Gorsek,11045
+Multnomah,State House,49,REP,Justin Hwang,9658
+Multnomah,State House,49,,Write-ins,21
+Multnomah,State House,50,DEM,Carla C Piluso,14595
+Multnomah,State House,50,,Write-ins,960
+Clackamas,State House,51,REP,Lori Chavez-DeRemer,8251
+Multnomah,State House,51,REP,Lori Chavez-DeRemer,4369
+Clackamas,State House,51,DEM,Janelle S Bynum,8277
+Multnomah,State House,51,DEM,Janelle S Bynum,6566
+Clackamas,State House,51,,Write-ins,35
+Multnomah,State House,51,,Write-ins,28
+Clackamas,State House,52,DEM,Anna Williams,6259
+Hood River,State House,52,DEM,Anna Williams,6989
+Multnomah,State House,52,DEM,Anna Williams,2887
+Clackamas,State House,52,REP,Jeff Helfrich,8109
+Hood River,State House,52,REP,Jeff Helfrich,3687
+Multnomah,State House,52,REP,Jeff Helfrich,3442
+Clackamas,State House,52,,Write-ins,29
+Hood River,State House,52,,Write-ins,8
+Multnomah,State House,52,,Write-ins,4
+Deschutes,State House,53,REP,Jack Zika,21063
+Deschutes,State House,53,DEM,Eileen Kiely,16207
+Deschutes,State House,53,,Write-ins,52
+Deschutes,State House,54,WFP,Amanda La Bell,5560
+Deschutes,State House,54,DEM,Nathan K Boddie,9000
+Deschutes,State House,54,REP,Cheri Helt,21134
+Deschutes,State House,54,,Write-ins,670
+Crook,State House,55,DEM,Karen Rippberger,2517
+Deschutes,State House,55,DEM,Karen Rippberger,2144
+Jackson,State House,55,DEM,Karen Rippberger,2754
+Klamath,State House,55,DEM,Karen Rippberger,1061
+Lake,State House,55,DEM,Karen Rippberger,218
+Crook,State House,55,REP,Mike McLane,8803
+Deschutes,State House,55,REP,Mike McLane,4431
+Jackson,State House,55,REP,Mike McLane,7017
+Klamath,State House,55,REP,Mike McLane,2636
+Lake,State House,55,REP,Mike McLane,945
+Crook,State House,55,,Write-ins,7
+Deschutes,State House,55,,Write-ins,9
+Jackson,State House,55,,Write-ins,13
+Klamath,State House,55,,Write-ins,6
+Lake,State House,55,,Write-ins,2
+Klamath,State House,56,REP,E Werner Reschke,16746
+Lake,State House,56,REP,E Werner Reschke,1566
+Klamath,State House,56,DEM,Taylor Tupper,6793
+Lake,State House,56,DEM,Taylor Tupper,337
+Klamath,State House,56,,Write-ins,64
+Lake,State House,56,,Write-ins,4
+Gilliam,State House,57,REP,Greg Smith,847
+Morrow,State House,57,REP,Greg Smith,3213
+Sherman,State House,57,REP,Greg Smith,794
+Umatilla,State House,57,REP,Greg Smith,10089
+Wasco,State House,57,REP,Greg Smith,851
+Gilliam,State House,57,,Write-ins,8
+Morrow,State House,57,,Write-ins,50
+Sherman,State House,57,,Write-ins,12
+Umatilla,State House,57,,Write-ins,203
+Wasco,State House,57,,Write-ins,16
+Umatilla,State House,58,IND,Skye Farnam,2837
+Union,State House,58,IND,Skye Farnam,2571
+Wallowa,State House,58,IND,Skye Farnam,974
+Umatilla,State House,58,REP,Greg Barreto,8016
+Union,State House,58,REP,Greg Barreto,8909
+Wallowa,State House,58,REP,Greg Barreto,2903
+Umatilla,State House,58,,Write-ins,42
+Union,State House,58,,Write-ins,33
+Wallowa,State House,58,,Write-ins,19
+Clackamas,State House,59,DEM,Darcy Long Curtiss,0
+Deschutes,State House,59,DEM,Darcy Long Curtiss,4248
+Jefferson,State House,59,DEM,Darcy Long Curtiss,2932
+Marion,State House,59,DEM,Darcy Long Curtiss,0
+Wasco,State House,59,DEM,Darcy Long Curtiss,4320
+Wheeler,State House,59,DEM,Darcy Long Curtiss,155
+Clackamas,State House,59,REP,Daniel G Bonham,0
+Deschutes,State House,59,REP,Daniel G Bonham,7655
+Jefferson,State House,59,REP,Daniel G Bonham,5512
+Marion,State House,59,REP,Daniel G Bonham,0
+Wasco,State House,59,REP,Daniel G Bonham,5476
+Wheeler,State House,59,REP,Daniel G Bonham,593
+Clackamas,State House,59,,Write-ins,0
+Deschutes,State House,59,,Write-ins,6
+Jefferson,State House,59,,Write-ins,9
+Marion,State House,59,,Write-ins,0
+Wasco,State House,59,,Write-ins,11
+Wheeler,State House,59,,Write-ins,1
+Baker,State House,60,REP,Lynn P Findley,5575
+Grant,State House,60,REP,Lynn P Findley,2709
+Harney,State House,60,REP,Lynn P Findley,2449
+Lake,State House,60,REP,Lynn P Findley,227
+Malheur,State House,60,REP,Lynn P Findley,7234
+Baker,State House,60,,Write-ins,91
+Grant,State House,60,,Write-ins,56
+Harney,State House,60,,Write-ins,27
+Lake,State House,60,,Write-ins,1
+Malheur,State House,60,,Write-ins,124
