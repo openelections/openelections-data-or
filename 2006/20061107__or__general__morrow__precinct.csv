@@ -1,0 +1,99 @@
+county,precinct,office,district,party,candidate,votes
+Morrow,1,U.S. House,2,CON,Jack Alan Brown Jr,29
+Morrow,2,U.S. House,2,CON,Jack Alan Brown Jr,34
+Morrow,3,U.S. House,2,CON,Jack Alan Brown Jr,5
+Morrow,4,U.S. House,2,CON,Jack Alan Brown Jr,8
+Morrow,5,U.S. House,2,CON,Jack Alan Brown Jr,31
+Morrow,Total,U.S. House,2,CON,Jack Alan Brown Jr,107
+Morrow,1,U.S. House,2,DEM,Carol Voisin,171
+Morrow,2,U.S. House,2,DEM,Carol Voisin,267
+Morrow,3,U.S. House,2,DEM,Carol Voisin,26
+Morrow,4,U.S. House,2,DEM,Carol Voisin,44
+Morrow,5,U.S. House,2,DEM,Carol Voisin,156
+Morrow,Total,U.S. House,2,DEM,Carol Voisin,664
+Morrow,1,U.S. House,2,REP,Greg Walden,495
+Morrow,2,U.S. House,2,REP,Greg Walden,582
+Morrow,3,U.S. House,2,REP,Greg Walden,207
+Morrow,4,U.S. House,2,REP,Greg Walden,270
+Morrow,5,U.S. House,2,REP,Greg Walden,710
+Morrow,Total,U.S. House,2,REP,Greg Walden,2264
+Morrow,1,U.S. House,2,,Write-ins,0
+Morrow,2,U.S. House,2,,Write-ins,2
+Morrow,3,U.S. House,2,,Write-ins,0
+Morrow,4,U.S. House,2,,Write-ins,0
+Morrow,5,U.S. House,2,,Write-ins,1
+Morrow,Total,U.S. House,2,,Write-ins,3
+Morrow,1,U.S. House,2,,Over Votes,1
+Morrow,2,U.S. House,2,,Over Votes,0
+Morrow,3,U.S. House,2,,Over Votes,0
+Morrow,4,U.S. House,2,,Over Votes,0
+Morrow,5,U.S. House,2,,Over Votes,2
+Morrow,Total,U.S. House,2,,Over Votes,3
+Morrow,1,U.S. House,2,,Under Votes,11
+Morrow,2,U.S. House,2,,Under Votes,19
+Morrow,3,U.S. House,2,,Under Votes,13
+Morrow,4,U.S. House,2,,Under Votes,8
+Morrow,5,U.S. House,2,,Under Votes,32
+Morrow,Total,U.S. House,2,,Under Votes,83
+Morrow,Total,U.S. House,2,,Total,3124
+Morrow,1,Governor,,PAC,Joe Keating,5
+Morrow,2,Governor,,PAC,Joe Keating,10
+Morrow,3,Governor,,PAC,Joe Keating,0
+Morrow,4,Governor,,PAC,Joe Keating,2
+Morrow,5,Governor,,PAC,Joe Keating,6
+Morrow,Total,Governor,,PAC,Joe Keating,23
+Morrow,1,Governor,,DEM,Ted Kulongoski,261
+Morrow,2,Governor,,DEM,Ted Kulongoski,342
+Morrow,3,Governor,,DEM,Ted Kulongoski,50
+Morrow,4,Governor,,DEM,Ted Kulongoski,74
+Morrow,5,Governor,,DEM,Ted Kulongoski,316
+Morrow,Total,Governor,,DEM,Ted Kulongoski,1043
+Morrow,1,Governor,,LIB,Richard Morley,13
+Morrow,2,Governor,,LIB,Richard Morley,15
+Morrow,3,Governor,,LIB,Richard Morley,1
+Morrow,4,Governor,,LIB,Richard Morley,2
+Morrow,5,Governor,,LIB,Richard Morley,2
+Morrow,Total,Governor,,LIB,Richard Morley,33
+Morrow,1,Governor,,CON,Mary Starrett,26
+Morrow,2,Governor,,CON,Mary Starrett,61
+Morrow,3,Governor,,CON,Mary Starrett,17
+Morrow,4,Governor,,CON,Mary Starrett,15
+Morrow,5,Governor,,CON,Mary Starrett,59
+Morrow,Total,Governor,,CON,Mary Starrett,178
+Morrow,1,Governor,,REP,Ron Saxton,394
+Morrow,2,Governor,,REP,Ron Saxton,464
+Morrow,3,Governor,,REP,Ron Saxton,179
+Morrow,4,Governor,,REP,Ron Saxton,233
+Morrow,5,Governor,,REP,Ron Saxton,527
+Morrow,Total,Governor,,REP,Ron Saxton,1797
+Morrow,1,Governor,,,Write-ins,2
+Morrow,2,Governor,,,Write-ins,0
+Morrow,3,Governor,,,Write-ins,0
+Morrow,4,Governor,,,Write-ins,0
+Morrow,5,Governor,,,Write-ins,3
+Morrow,Total,Governor,,,Write-ins,5
+Morrow,1,Governor,,,Over Votes,1
+Morrow,2,Governor,,,Over Votes,1
+Morrow,3,Governor,,,Over Votes,0
+Morrow,4,Governor,,,Over Votes,1
+Morrow,5,Governor,,,Over Votes,2
+Morrow,Total,Governor,,,Over Votes,5
+Morrow,1,Governor,,,Under Votes,5
+Morrow,2,Governor,,,Under Votes,11
+Morrow,3,Governor,,,Under Votes,4
+Morrow,4,Governor,,,Under Votes,3
+Morrow,5,Governor,,,Under Votes,17
+Morrow,Total,Governor,,,Under Votes,40
+Morrow,Total,Governor,,,Total,3124
+Morrow,1,State House,57,DEM,Tonia P St Germain,194
+Morrow,2,State House,57,DEM,Tonia P St Germain,302
+Morrow,3,State House,57,DEM,Tonia P St Germain,36
+Morrow,4,State House,57,DEM,Tonia P St Germain,57
+Morrow,5,State House,57,DEM,Tonia P St Germain,208
+Morrow,Total,State House,57,DEM,Tonia P St Germain,797
+Morrow,1,State House,57,REP,Greg Smith,490
+Morrow,2,State House,57,REP,Greg Smith,572
+Morrow,3,State House,57,REP,Greg Smith,206
+Morrow,4,State House,57,REP,Greg Smith,257
+Morrow,5,State House,57,REP,Greg Smith,690
+Morrow,Total,State House,57,REP,Greg Smith,2215
