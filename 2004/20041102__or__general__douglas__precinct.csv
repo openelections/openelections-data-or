@@ -1,0 +1,3895 @@
+county,precinct,office,district,party,candidate,votes
+Douglas,1,President,,DEM ,John F Kerry,151
+Douglas,2,President,,DEM ,John F Kerry,13
+Douglas,3,President,,DEM ,John F Kerry,398
+Douglas,4,President,,DEM ,John F Kerry,346
+Douglas,5,President,,DEM ,John F Kerry,360
+Douglas,6,President,,DEM ,John F Kerry,89
+Douglas,7,President,,DEM ,John F Kerry,136
+Douglas,8,President,,DEM ,John F Kerry,22
+Douglas,9,President,,DEM ,John F Kerry,240
+Douglas,10,President,,DEM ,John F Kerry,33
+Douglas,11,President,,DEM ,John F Kerry,179
+Douglas,12,President,,DEM ,John F Kerry,291
+Douglas,13,President,,DEM ,John F Kerry,316
+Douglas,14,President,,DEM ,John F Kerry,143
+Douglas,15,President,,DEM ,John F Kerry,189
+Douglas,16,President,,DEM ,John F Kerry,351
+Douglas,17,President,,DEM ,John F Kerry,876
+Douglas,18,President,,DEM ,John F Kerry,414
+Douglas,19,President,,DEM ,John F Kerry,313
+Douglas,20,President,,DEM ,John F Kerry,206
+Douglas,21,President,,DEM ,John F Kerry,198
+Douglas,22,President,,DEM ,John F Kerry,189
+Douglas,23,President,,DEM ,John F Kerry,282
+Douglas,24,President,,DEM ,John F Kerry,456
+Douglas,25,President,,DEM ,John F Kerry,397
+Douglas,26,President,,DEM ,John F Kerry,5
+Douglas,27,President,,DEM ,John F Kerry,134
+Douglas,28,President,,DEM ,John F Kerry,51
+Douglas,29,President,,DEM ,John F Kerry,534
+Douglas,30,President,,DEM ,John F Kerry,330
+Douglas,31,President,,DEM ,John F Kerry,249
+Douglas,32,President,,DEM ,John F Kerry,34
+Douglas,33,President,,DEM ,John F Kerry,185
+Douglas,34,President,,DEM ,John F Kerry,135
+Douglas,35,President,,DEM ,John F Kerry,192
+Douglas,36,President,,DEM ,John F Kerry,442
+Douglas,37,President,,DEM ,John F Kerry,488
+Douglas,38,President,,DEM ,John F Kerry,401
+Douglas,39,President,,DEM ,John F Kerry,279
+Douglas,40,President,,DEM ,John F Kerry,185
+Douglas,41,President,,DEM ,John F Kerry,307
+Douglas,42,President,,DEM ,John F Kerry,263
+Douglas,43,President,,DEM ,John F Kerry,316
+Douglas,44,President,,DEM ,John F Kerry,173
+Douglas,45,President,,DEM ,John F Kerry,155
+Douglas,46,President,,DEM ,John F Kerry,357
+Douglas,47,President,,DEM ,John F Kerry,264
+Douglas,48,President,,DEM ,John F Kerry,76
+Douglas,49,President,,DEM ,John F Kerry,254
+Douglas,50,President,,DEM ,John F Kerry,825
+Douglas,51,President,,DEM ,John F Kerry,155
+Douglas,52,President,,DEM ,John F Kerry,88
+Douglas,53,President,,DEM ,John F Kerry,362
+Douglas,54,President,,DEM ,John F Kerry,371
+Douglas,55,President,,DEM ,John F Kerry,232
+Douglas,56,President,,DEM ,John F Kerry,428
+Douglas,57,President,,DEM ,John F Kerry,213
+Douglas,58,President,,DEM ,John F Kerry,267
+Douglas,59,President,,DEM ,John F Kerry,72
+Douglas,60,President,,DEM ,John F Kerry,234
+Douglas,61,President,,DEM ,John F Kerry,240
+Douglas,62,President,,DEM ,John F Kerry,291
+Douglas,63,President,,DEM ,John F Kerry,599
+Douglas,64,President,,DEM ,John F Kerry,113
+Douglas,65,President,,DEM ,John F Kerry,161
+Douglas,66,President,,DEM ,John F Kerry,265
+Douglas,67,President,,DEM ,John F Kerry,142
+Douglas,68,President,,DEM ,John F Kerry,133
+Douglas,69,President,,DEM ,John F Kerry,87
+Douglas,70,President,,DEM ,John F Kerry,309
+Douglas,71,President,,DEM ,John F Kerry,92
+Douglas,72,President,,DEM ,John F Kerry,13
+Douglas,Total,President,,DEM ,John F Kerry,18089
+Douglas,1,President,,GRN ,David Cobb,1
+Douglas,2,President,,GRN ,David Cobb,0
+Douglas,3,President,,GRN ,David Cobb,1
+Douglas,4,President,,GRN ,David Cobb,3
+Douglas,5,President,,GRN ,David Cobb,1
+Douglas,6,President,,GRN ,David Cobb,1
+Douglas,7,President,,GRN ,David Cobb,0
+Douglas,8,President,,GRN ,David Cobb,0
+Douglas,9,President,,GRN ,David Cobb,2
+Douglas,10,President,,GRN ,David Cobb,0
+Douglas,11,President,,GRN ,David Cobb,3
+Douglas,12,President,,GRN ,David Cobb,6
+Douglas,13,President,,GRN ,David Cobb,4
+Douglas,14,President,,GRN ,David Cobb,2
+Douglas,15,President,,GRN ,David Cobb,1
+Douglas,16,President,,GRN ,David Cobb,8
+Douglas,17,President,,GRN ,David Cobb,8
+Douglas,18,President,,GRN ,David Cobb,9
+Douglas,19,President,,GRN ,David Cobb,2
+Douglas,20,President,,GRN ,David Cobb,1
+Douglas,21,President,,GRN ,David Cobb,1
+Douglas,22,President,,GRN ,David Cobb,3
+Douglas,23,President,,GRN ,David Cobb,3
+Douglas,24,President,,GRN ,David Cobb,7
+Douglas,25,President,,GRN ,David Cobb,5
+Douglas,26,President,,GRN ,David Cobb,0
+Douglas,27,President,,GRN ,David Cobb,1
+Douglas,28,President,,GRN ,David Cobb,0
+Douglas,29,President,,GRN ,David Cobb,2
+Douglas,30,President,,GRN ,David Cobb,5
+Douglas,31,President,,GRN ,David Cobb,4
+Douglas,32,President,,GRN ,David Cobb,1
+Douglas,33,President,,GRN ,David Cobb,6
+Douglas,34,President,,GRN ,David Cobb,0
+Douglas,35,President,,GRN ,David Cobb,0
+Douglas,36,President,,GRN ,David Cobb,1
+Douglas,37,President,,GRN ,David Cobb,4
+Douglas,38,President,,GRN ,David Cobb,4
+Douglas,39,President,,GRN ,David Cobb,5
+Douglas,40,President,,GRN ,David Cobb,2
+Douglas,41,President,,GRN ,David Cobb,1
+Douglas,42,President,,GRN ,David Cobb,5
+Douglas,43,President,,GRN ,David Cobb,2
+Douglas,44,President,,GRN ,David Cobb,0
+Douglas,45,President,,GRN ,David Cobb,0
+Douglas,46,President,,GRN ,David Cobb,6
+Douglas,47,President,,GRN ,David Cobb,3
+Douglas,48,President,,GRN ,David Cobb,0
+Douglas,49,President,,GRN ,David Cobb,3
+Douglas,50,President,,GRN ,David Cobb,11
+Douglas,51,President,,GRN ,David Cobb,1
+Douglas,52,President,,GRN ,David Cobb,3
+Douglas,53,President,,GRN ,David Cobb,2
+Douglas,54,President,,GRN ,David Cobb,6
+Douglas,55,President,,GRN ,David Cobb,3
+Douglas,56,President,,GRN ,David Cobb,3
+Douglas,57,President,,GRN ,David Cobb,1
+Douglas,58,President,,GRN ,David Cobb,2
+Douglas,59,President,,GRN ,David Cobb,2
+Douglas,60,President,,GRN ,David Cobb,2
+Douglas,61,President,,GRN ,David Cobb,2
+Douglas,62,President,,GRN ,David Cobb,4
+Douglas,63,President,,GRN ,David Cobb,12
+Douglas,64,President,,GRN ,David Cobb,2
+Douglas,65,President,,GRN ,David Cobb,0
+Douglas,66,President,,GRN ,David Cobb,3
+Douglas,67,President,,GRN ,David Cobb,3
+Douglas,68,President,,GRN ,David Cobb,3
+Douglas,69,President,,GRN ,David Cobb,3
+Douglas,70,President,,GRN ,David Cobb,5
+Douglas,71,President,,GRN ,David Cobb,1
+Douglas,72,President,,GRN ,David Cobb,0
+Douglas,Total,President,,GRN ,David Cobb,201
+Douglas,1,President,,CON ,Michael Anthony Peroutka,4
+Douglas,2,President,,CON ,Michael Anthony Peroutka,0
+Douglas,3,President,,CON ,Michael Anthony Peroutka,6
+Douglas,4,President,,CON ,Michael Anthony Peroutka,11
+Douglas,5,President,,CON ,Michael Anthony Peroutka,4
+Douglas,6,President,,CON ,Michael Anthony Peroutka,1
+Douglas,7,President,,CON ,Michael Anthony Peroutka,2
+Douglas,8,President,,CON ,Michael Anthony Peroutka,1
+Douglas,9,President,,CON ,Michael Anthony Peroutka,13
+Douglas,10,President,,CON ,Michael Anthony Peroutka,0
+Douglas,11,President,,CON ,Michael Anthony Peroutka,2
+Douglas,12,President,,CON ,Michael Anthony Peroutka,9
+Douglas,13,President,,CON ,Michael Anthony Peroutka,2
+Douglas,14,President,,CON ,Michael Anthony Peroutka,3
+Douglas,15,President,,CON ,Michael Anthony Peroutka,0
+Douglas,16,President,,CON ,Michael Anthony Peroutka,4
+Douglas,17,President,,CON ,Michael Anthony Peroutka,7
+Douglas,18,President,,CON ,Michael Anthony Peroutka,3
+Douglas,19,President,,CON ,Michael Anthony Peroutka,8
+Douglas,20,President,,CON ,Michael Anthony Peroutka,7
+Douglas,21,President,,CON ,Michael Anthony Peroutka,2
+Douglas,22,President,,CON ,Michael Anthony Peroutka,1
+Douglas,23,President,,CON ,Michael Anthony Peroutka,3
+Douglas,24,President,,CON ,Michael Anthony Peroutka,5
+Douglas,25,President,,CON ,Michael Anthony Peroutka,5
+Douglas,26,President,,CON ,Michael Anthony Peroutka,0
+Douglas,27,President,,CON ,Michael Anthony Peroutka,1
+Douglas,28,President,,CON ,Michael Anthony Peroutka,2
+Douglas,29,President,,CON ,Michael Anthony Peroutka,4
+Douglas,30,President,,CON ,Michael Anthony Peroutka,1
+Douglas,31,President,,CON ,Michael Anthony Peroutka,5
+Douglas,32,President,,CON ,Michael Anthony Peroutka,2
+Douglas,33,President,,CON ,Michael Anthony Peroutka,5
+Douglas,34,President,,CON ,Michael Anthony Peroutka,0
+Douglas,35,President,,CON ,Michael Anthony Peroutka,1
+Douglas,36,President,,CON ,Michael Anthony Peroutka,4
+Douglas,37,President,,CON ,Michael Anthony Peroutka,3
+Douglas,38,President,,CON ,Michael Anthony Peroutka,4
+Douglas,39,President,,CON ,Michael Anthony Peroutka,2
+Douglas,40,President,,CON ,Michael Anthony Peroutka,2
+Douglas,41,President,,CON ,Michael Anthony Peroutka,0
+Douglas,42,President,,CON ,Michael Anthony Peroutka,5
+Douglas,43,President,,CON ,Michael Anthony Peroutka,5
+Douglas,44,President,,CON ,Michael Anthony Peroutka,0
+Douglas,45,President,,CON ,Michael Anthony Peroutka,6
+Douglas,46,President,,CON ,Michael Anthony Peroutka,4
+Douglas,47,President,,CON ,Michael Anthony Peroutka,3
+Douglas,48,President,,CON ,Michael Anthony Peroutka,2
+Douglas,49,President,,CON ,Michael Anthony Peroutka,2
+Douglas,50,President,,CON ,Michael Anthony Peroutka,11
+Douglas,51,President,,CON ,Michael Anthony Peroutka,0
+Douglas,52,President,,CON ,Michael Anthony Peroutka,1
+Douglas,53,President,,CON ,Michael Anthony Peroutka,4
+Douglas,54,President,,CON ,Michael Anthony Peroutka,1
+Douglas,55,President,,CON ,Michael Anthony Peroutka,5
+Douglas,56,President,,CON ,Michael Anthony Peroutka,6
+Douglas,57,President,,CON ,Michael Anthony Peroutka,4
+Douglas,58,President,,CON ,Michael Anthony Peroutka,10
+Douglas,59,President,,CON ,Michael Anthony Peroutka,3
+Douglas,60,President,,CON ,Michael Anthony Peroutka,2
+Douglas,61,President,,CON ,Michael Anthony Peroutka,0
+Douglas,62,President,,CON ,Michael Anthony Peroutka,9
+Douglas,63,President,,CON ,Michael Anthony Peroutka,8
+Douglas,64,President,,CON ,Michael Anthony Peroutka,1
+Douglas,65,President,,CON ,Michael Anthony Peroutka,0
+Douglas,66,President,,CON ,Michael Anthony Peroutka,3
+Douglas,67,President,,CON ,Michael Anthony Peroutka,1
+Douglas,68,President,,CON ,Michael Anthony Peroutka,4
+Douglas,69,President,,CON ,Michael Anthony Peroutka,1
+Douglas,70,President,,CON ,Michael Anthony Peroutka,11
+Douglas,71,President,,CON ,Michael Anthony Peroutka,1
+Douglas,72,President,,CON ,Michael Anthony Peroutka,0
+Douglas,Total,President,,CON ,Michael Anthony Peroutka,252
+Douglas,1,President,,LIB ,Michael Badnarik,1
+Douglas,2,President,,LIB ,Michael Badnarik,1
+Douglas,3,President,,LIB ,Michael Badnarik,1
+Douglas,4,President,,LIB ,Michael Badnarik,3
+Douglas,5,President,,LIB ,Michael Badnarik,4
+Douglas,6,President,,LIB ,Michael Badnarik,1
+Douglas,7,President,,LIB ,Michael Badnarik,2
+Douglas,8,President,,LIB ,Michael Badnarik,0
+Douglas,9,President,,LIB ,Michael Badnarik,4
+Douglas,10,President,,LIB ,Michael Badnarik,2
+Douglas,11,President,,LIB ,Michael Badnarik,0
+Douglas,12,President,,LIB ,Michael Badnarik,2
+Douglas,13,President,,LIB ,Michael Badnarik,9
+Douglas,14,President,,LIB ,Michael Badnarik,2
+Douglas,15,President,,LIB ,Michael Badnarik,2
+Douglas,16,President,,LIB ,Michael Badnarik,11
+Douglas,17,President,,LIB ,Michael Badnarik,9
+Douglas,18,President,,LIB ,Michael Badnarik,4
+Douglas,19,President,,LIB ,Michael Badnarik,4
+Douglas,20,President,,LIB ,Michael Badnarik,1
+Douglas,21,President,,LIB ,Michael Badnarik,2
+Douglas,22,President,,LIB ,Michael Badnarik,0
+Douglas,23,President,,LIB ,Michael Badnarik,2
+Douglas,24,President,,LIB ,Michael Badnarik,8
+Douglas,25,President,,LIB ,Michael Badnarik,8
+Douglas,26,President,,LIB ,Michael Badnarik,1
+Douglas,27,President,,LIB ,Michael Badnarik,1
+Douglas,28,President,,LIB ,Michael Badnarik,2
+Douglas,29,President,,LIB ,Michael Badnarik,5
+Douglas,30,President,,LIB ,Michael Badnarik,0
+Douglas,31,President,,LIB ,Michael Badnarik,5
+Douglas,32,President,,LIB ,Michael Badnarik,0
+Douglas,33,President,,LIB ,Michael Badnarik,0
+Douglas,34,President,,LIB ,Michael Badnarik,1
+Douglas,35,President,,LIB ,Michael Badnarik,0
+Douglas,36,President,,LIB ,Michael Badnarik,1
+Douglas,37,President,,LIB ,Michael Badnarik,4
+Douglas,38,President,,LIB ,Michael Badnarik,6
+Douglas,39,President,,LIB ,Michael Badnarik,2
+Douglas,40,President,,LIB ,Michael Badnarik,0
+Douglas,41,President,,LIB ,Michael Badnarik,2
+Douglas,42,President,,LIB ,Michael Badnarik,4
+Douglas,43,President,,LIB ,Michael Badnarik,2
+Douglas,44,President,,LIB ,Michael Badnarik,2
+Douglas,45,President,,LIB ,Michael Badnarik,1
+Douglas,46,President,,LIB ,Michael Badnarik,2
+Douglas,47,President,,LIB ,Michael Badnarik,2
+Douglas,48,President,,LIB ,Michael Badnarik,0
+Douglas,49,President,,LIB ,Michael Badnarik,5
+Douglas,50,President,,LIB ,Michael Badnarik,8
+Douglas,51,President,,LIB ,Michael Badnarik,1
+Douglas,52,President,,LIB ,Michael Badnarik,2
+Douglas,53,President,,LIB ,Michael Badnarik,4
+Douglas,54,President,,LIB ,Michael Badnarik,6
+Douglas,55,President,,LIB ,Michael Badnarik,2
+Douglas,56,President,,LIB ,Michael Badnarik,5
+Douglas,57,President,,LIB ,Michael Badnarik,1
+Douglas,58,President,,LIB ,Michael Badnarik,5
+Douglas,59,President,,LIB ,Michael Badnarik,5
+Douglas,60,President,,LIB ,Michael Badnarik,2
+Douglas,61,President,,LIB ,Michael Badnarik,4
+Douglas,62,President,,LIB ,Michael Badnarik,4
+Douglas,63,President,,LIB ,Michael Badnarik,7
+Douglas,64,President,,LIB ,Michael Badnarik,3
+Douglas,65,President,,LIB ,Michael Badnarik,3
+Douglas,66,President,,LIB ,Michael Badnarik,1
+Douglas,67,President,,LIB ,Michael Badnarik,6
+Douglas,68,President,,LIB ,Michael Badnarik,6
+Douglas,69,President,,LIB ,Michael Badnarik,4
+Douglas,70,President,,LIB ,Michael Badnarik,5
+Douglas,71,President,,LIB ,Michael Badnarik,1
+Douglas,72,President,,LIB ,Michael Badnarik,1
+Douglas,Total,President,,LIB ,Michael Badnarik,217
+Douglas,1,President,,REP ,George W Bush,174
+Douglas,2,President,,REP ,George W Bush,29
+Douglas,3,President,,REP ,George W Bush,326
+Douglas,4,President,,REP ,George W Bush,362
+Douglas,5,President,,REP ,George W Bush,432
+Douglas,6,President,,REP ,George W Bush,139
+Douglas,7,President,,REP ,George W Bush,197
+Douglas,8,President,,REP ,George W Bush,27
+Douglas,9,President,,REP ,George W Bush,487
+Douglas,10,President,,REP ,George W Bush,66
+Douglas,11,President,,REP ,George W Bush,313
+Douglas,12,President,,REP ,George W Bush,441
+Douglas,13,President,,REP ,George W Bush,605
+Douglas,14,President,,REP ,George W Bush,319
+Douglas,15,President,,REP ,George W Bush,301
+Douglas,16,President,,REP ,George W Bush,714
+Douglas,17,President,,REP ,George W Bush,1528
+Douglas,18,President,,REP ,George W Bush,786
+Douglas,19,President,,REP ,George W Bush,756
+Douglas,20,President,,REP ,George W Bush,559
+Douglas,21,President,,REP ,George W Bush,500
+Douglas,22,President,,REP ,George W Bush,424
+Douglas,23,President,,REP ,George W Bush,632
+Douglas,24,President,,REP ,George W Bush,1003
+Douglas,25,President,,REP ,George W Bush,631
+Douglas,26,President,,REP ,George W Bush,26
+Douglas,27,President,,REP ,George W Bush,457
+Douglas,28,President,,REP ,George W Bush,168
+Douglas,29,President,,REP ,George W Bush,1065
+Douglas,30,President,,REP ,George W Bush,556
+Douglas,31,President,,REP ,George W Bush,404
+Douglas,32,President,,REP ,George W Bush,85
+Douglas,33,President,,REP ,George W Bush,343
+Douglas,34,President,,REP ,George W Bush,341
+Douglas,35,President,,REP ,George W Bush,688
+Douglas,36,President,,REP ,George W Bush,1052
+Douglas,37,President,,REP ,George W Bush,851
+Douglas,38,President,,REP ,George W Bush,670
+Douglas,39,President,,REP ,George W Bush,407
+Douglas,40,President,,REP ,George W Bush,305
+Douglas,41,President,,REP ,George W Bush,478
+Douglas,42,President,,REP ,George W Bush,404
+Douglas,43,President,,REP ,George W Bush,379
+Douglas,44,President,,REP ,George W Bush,232
+Douglas,45,President,,REP ,George W Bush,233
+Douglas,46,President,,REP ,George W Bush,693
+Douglas,47,President,,REP ,George W Bush,490
+Douglas,48,President,,REP ,George W Bush,222
+Douglas,49,President,,REP ,George W Bush,674
+Douglas,50,President,,REP ,George W Bush,1856
+Douglas,51,President,,REP ,George W Bush,341
+Douglas,52,President,,REP ,George W Bush,252
+Douglas,53,President,,REP ,George W Bush,737
+Douglas,54,President,,REP ,George W Bush,730
+Douglas,55,President,,REP ,George W Bush,499
+Douglas,56,President,,REP ,George W Bush,1123
+Douglas,57,President,,REP ,George W Bush,626
+Douglas,58,President,,REP ,George W Bush,634
+Douglas,59,President,,REP ,George W Bush,325
+Douglas,60,President,,REP ,George W Bush,415
+Douglas,61,President,,REP ,George W Bush,548
+Douglas,62,President,,REP ,George W Bush,830
+Douglas,63,President,,REP ,George W Bush,1142
+Douglas,64,President,,REP ,George W Bush,313
+Douglas,65,President,,REP ,George W Bush,366
+Douglas,66,President,,REP ,George W Bush,458
+Douglas,67,President,,REP ,George W Bush,353
+Douglas,68,President,,REP ,George W Bush,288
+Douglas,69,President,,REP ,George W Bush,199
+Douglas,70,President,,REP ,George W Bush,679
+Douglas,71,President,,REP ,George W Bush,236
+Douglas,72,President,,REP ,George W Bush,32
+Douglas,Total,President,,REP ,George W Bush,35956
+Douglas,1,President,,,Under Votes,0
+Douglas,2,President,,,Under Votes,0
+Douglas,3,President,,,Under Votes,5
+Douglas,4,President,,,Under Votes,7
+Douglas,5,President,,,Under Votes,5
+Douglas,6,President,,,Under Votes,3
+Douglas,7,President,,,Under Votes,1
+Douglas,8,President,,,Under Votes,0
+Douglas,9,President,,,Under Votes,6
+Douglas,10,President,,,Under Votes,0
+Douglas,11,President,,,Under Votes,3
+Douglas,12,President,,,Under Votes,7
+Douglas,13,President,,,Under Votes,7
+Douglas,14,President,,,Under Votes,5
+Douglas,15,President,,,Under Votes,5
+Douglas,16,President,,,Under Votes,9
+Douglas,17,President,,,Under Votes,10
+Douglas,18,President,,,Under Votes,12
+Douglas,19,President,,,Under Votes,17
+Douglas,20,President,,,Under Votes,9
+Douglas,21,President,,,Under Votes,3
+Douglas,22,President,,,Under Votes,3
+Douglas,23,President,,,Under Votes,4
+Douglas,24,President,,,Under Votes,17
+Douglas,25,President,,,Under Votes,12
+Douglas,26,President,,,Under Votes,0
+Douglas,27,President,,,Under Votes,11
+Douglas,28,President,,,Under Votes,1
+Douglas,29,President,,,Under Votes,13
+Douglas,30,President,,,Under Votes,5
+Douglas,31,President,,,Under Votes,10
+Douglas,32,President,,,Under Votes,1
+Douglas,33,President,,,Under Votes,2
+Douglas,34,President,,,Under Votes,5
+Douglas,35,President,,,Under Votes,11
+Douglas,36,President,,,Under Votes,13
+Douglas,37,President,,,Under Votes,13
+Douglas,38,President,,,Under Votes,14
+Douglas,39,President,,,Under Votes,6
+Douglas,40,President,,,Under Votes,2
+Douglas,41,President,,,Under Votes,0
+Douglas,42,President,,,Under Votes,5
+Douglas,43,President,,,Under Votes,6
+Douglas,44,President,,,Under Votes,2
+Douglas,45,President,,,Under Votes,6
+Douglas,46,President,,,Under Votes,9
+Douglas,47,President,,,Under Votes,8
+Douglas,48,President,,,Under Votes,1
+Douglas,49,President,,,Under Votes,17
+Douglas,50,President,,,Under Votes,16
+Douglas,51,President,,,Under Votes,3
+Douglas,52,President,,,Under Votes,6
+Douglas,53,President,,,Under Votes,10
+Douglas,54,President,,,Under Votes,7
+Douglas,55,President,,,Under Votes,7
+Douglas,56,President,,,Under Votes,14
+Douglas,57,President,,,Under Votes,4
+Douglas,58,President,,,Under Votes,8
+Douglas,59,President,,,Under Votes,3
+Douglas,60,President,,,Under Votes,13
+Douglas,61,President,,,Under Votes,7
+Douglas,62,President,,,Under Votes,8
+Douglas,63,President,,,Under Votes,21
+Douglas,64,President,,,Under Votes,1
+Douglas,65,President,,,Under Votes,10
+Douglas,66,President,,,Under Votes,13
+Douglas,67,President,,,Under Votes,3
+Douglas,68,President,,,Under Votes,7
+Douglas,69,President,,,Under Votes,4
+Douglas,70,President,,,Under Votes,8
+Douglas,71,President,,,Under Votes,2
+Douglas,72,President,,,Under Votes,1
+Douglas,Total,President,,,Under Votes,487
+Douglas,1,President,,,Over Votes,0
+Douglas,2,President,,,Over Votes,0
+Douglas,3,President,,,Over Votes,3
+Douglas,4,President,,,Over Votes,2
+Douglas,5,President,,,Over Votes,0
+Douglas,6,President,,,Over Votes,0
+Douglas,7,President,,,Over Votes,0
+Douglas,8,President,,,Over Votes,0
+Douglas,9,President,,,Over Votes,0
+Douglas,10,President,,,Over Votes,2
+Douglas,11,President,,,Over Votes,0
+Douglas,12,President,,,Over Votes,0
+Douglas,13,President,,,Over Votes,0
+Douglas,14,President,,,Over Votes,0
+Douglas,15,President,,,Over Votes,2
+Douglas,16,President,,,Over Votes,3
+Douglas,17,President,,,Over Votes,4
+Douglas,18,President,,,Over Votes,6
+Douglas,19,President,,,Over Votes,1
+Douglas,20,President,,,Over Votes,0
+Douglas,21,President,,,Over Votes,0
+Douglas,22,President,,,Over Votes,0
+Douglas,23,President,,,Over Votes,1
+Douglas,24,President,,,Over Votes,0
+Douglas,25,President,,,Over Votes,3
+Douglas,26,President,,,Over Votes,0
+Douglas,27,President,,,Over Votes,1
+Douglas,28,President,,,Over Votes,0
+Douglas,29,President,,,Over Votes,2
+Douglas,30,President,,,Over Votes,6
+Douglas,31,President,,,Over Votes,2
+Douglas,32,President,,,Over Votes,0
+Douglas,33,President,,,Over Votes,2
+Douglas,34,President,,,Over Votes,0
+Douglas,35,President,,,Over Votes,0
+Douglas,36,President,,,Over Votes,5
+Douglas,37,President,,,Over Votes,2
+Douglas,38,President,,,Over Votes,6
+Douglas,39,President,,,Over Votes,0
+Douglas,40,President,,,Over Votes,2
+Douglas,41,President,,,Over Votes,1
+Douglas,42,President,,,Over Votes,2
+Douglas,43,President,,,Over Votes,1
+Douglas,44,President,,,Over Votes,0
+Douglas,45,President,,,Over Votes,0
+Douglas,46,President,,,Over Votes,2
+Douglas,47,President,,,Over Votes,2
+Douglas,48,President,,,Over Votes,1
+Douglas,49,President,,,Over Votes,2
+Douglas,50,President,,,Over Votes,5
+Douglas,51,President,,,Over Votes,1
+Douglas,52,President,,,Over Votes,0
+Douglas,53,President,,,Over Votes,2
+Douglas,54,President,,,Over Votes,1
+Douglas,55,President,,,Over Votes,2
+Douglas,56,President,,,Over Votes,3
+Douglas,57,President,,,Over Votes,2
+Douglas,58,President,,,Over Votes,0
+Douglas,59,President,,,Over Votes,0
+Douglas,60,President,,,Over Votes,3
+Douglas,61,President,,,Over Votes,6
+Douglas,62,President,,,Over Votes,0
+Douglas,63,President,,,Over Votes,5
+Douglas,64,President,,,Over Votes,1
+Douglas,65,President,,,Over Votes,1
+Douglas,66,President,,,Over Votes,1
+Douglas,67,President,,,Over Votes,0
+Douglas,68,President,,,Over Votes,0
+Douglas,69,President,,,Over Votes,0
+Douglas,70,President,,,Over Votes,3
+Douglas,71,President,,,Over Votes,1
+Douglas,72,President,,,Over Votes,0
+Douglas,Total,President,,,Over Votes,103
+Douglas,1,President,,,Write-ins,2
+Douglas,2,President,,,Write-ins,0
+Douglas,3,President,,,Write-ins,3
+Douglas,4,President,,,Write-ins,2
+Douglas,5,President,,,Write-ins,3
+Douglas,6,President,,,Write-ins,2
+Douglas,7,President,,,Write-ins,4
+Douglas,8,President,,,Write-ins,0
+Douglas,9,President,,,Write-ins,6
+Douglas,10,President,,,Write-ins,0
+Douglas,11,President,,,Write-ins,0
+Douglas,12,President,,,Write-ins,3
+Douglas,13,President,,,Write-ins,2
+Douglas,14,President,,,Write-ins,2
+Douglas,15,President,,,Write-ins,0
+Douglas,16,President,,,Write-ins,4
+Douglas,17,President,,,Write-ins,10
+Douglas,18,President,,,Write-ins,7
+Douglas,19,President,,,Write-ins,7
+Douglas,20,President,,,Write-ins,3
+Douglas,21,President,,,Write-ins,2
+Douglas,22,President,,,Write-ins,3
+Douglas,23,President,,,Write-ins,2
+Douglas,24,President,,,Write-ins,16
+Douglas,25,President,,,Write-ins,7
+Douglas,26,President,,,Write-ins,0
+Douglas,27,President,,,Write-ins,3
+Douglas,28,President,,,Write-ins,0
+Douglas,29,President,,,Write-ins,2
+Douglas,30,President,,,Write-ins,3
+Douglas,31,President,,,Write-ins,1
+Douglas,32,President,,,Write-ins,0
+Douglas,33,President,,,Write-ins,2
+Douglas,34,President,,,Write-ins,1
+Douglas,35,President,,,Write-ins,1
+Douglas,36,President,,,Write-ins,9
+Douglas,37,President,,,Write-ins,10
+Douglas,38,President,,,Write-ins,8
+Douglas,39,President,,,Write-ins,1
+Douglas,40,President,,,Write-ins,1
+Douglas,41,President,,,Write-ins,5
+Douglas,42,President,,,Write-ins,4
+Douglas,43,President,,,Write-ins,3
+Douglas,44,President,,,Write-ins,3
+Douglas,45,President,,,Write-ins,1
+Douglas,46,President,,,Write-ins,6
+Douglas,47,President,,,Write-ins,1
+Douglas,48,President,,,Write-ins,2
+Douglas,49,President,,,Write-ins,5
+Douglas,50,President,,,Write-ins,20
+Douglas,51,President,,,Write-ins,0
+Douglas,52,President,,,Write-ins,2
+Douglas,53,President,,,Write-ins,7
+Douglas,54,President,,,Write-ins,6
+Douglas,55,President,,,Write-ins,7
+Douglas,56,President,,,Write-ins,4
+Douglas,57,President,,,Write-ins,2
+Douglas,58,President,,,Write-ins,2
+Douglas,59,President,,,Write-ins,9
+Douglas,60,President,,,Write-ins,3
+Douglas,61,President,,,Write-ins,1
+Douglas,62,President,,,Write-ins,7
+Douglas,63,President,,,Write-ins,7
+Douglas,64,President,,,Write-ins,2
+Douglas,65,President,,,Write-ins,7
+Douglas,66,President,,,Write-ins,3
+Douglas,67,President,,,Write-ins,3
+Douglas,68,President,,,Write-ins,3
+Douglas,69,President,,,Write-ins,1
+Douglas,70,President,,,Write-ins,6
+Douglas,71,President,,,Write-ins,4
+Douglas,72,President,,,Write-ins,1
+Douglas,Total,President,,,Write-ins,269
+Douglas,1,Senate,,PGP ,Theresa Keane,6
+Douglas,2,Senate,,PGP ,Theresa Keane,0
+Douglas,3,Senate,,PGP ,Theresa Keane,9
+Douglas,4,Senate,,PGP ,Theresa Keane,13
+Douglas,5,Senate,,PGP ,Theresa Keane,9
+Douglas,6,Senate,,PGP ,Theresa Keane,2
+Douglas,7,Senate,,PGP ,Theresa Keane,8
+Douglas,8,Senate,,PGP ,Theresa Keane,1
+Douglas,9,Senate,,PGP ,Theresa Keane,15
+Douglas,10,Senate,,PGP ,Theresa Keane,5
+Douglas,11,Senate,,PGP ,Theresa Keane,7
+Douglas,12,Senate,,PGP ,Theresa Keane,12
+Douglas,13,Senate,,PGP ,Theresa Keane,23
+Douglas,14,Senate,,PGP ,Theresa Keane,5
+Douglas,15,Senate,,PGP ,Theresa Keane,11
+Douglas,16,Senate,,PGP ,Theresa Keane,29
+Douglas,17,Senate,,PGP ,Theresa Keane,49
+Douglas,18,Senate,,PGP ,Theresa Keane,12
+Douglas,19,Senate,,PGP ,Theresa Keane,16
+Douglas,20,Senate,,PGP ,Theresa Keane,9
+Douglas,21,Senate,,PGP ,Theresa Keane,8
+Douglas,22,Senate,,PGP ,Theresa Keane,11
+Douglas,23,Senate,,PGP ,Theresa Keane,13
+Douglas,24,Senate,,PGP ,Theresa Keane,38
+Douglas,25,Senate,,PGP ,Theresa Keane,28
+Douglas,26,Senate,,PGP ,Theresa Keane,0
+Douglas,27,Senate,,PGP ,Theresa Keane,7
+Douglas,28,Senate,,PGP ,Theresa Keane,5
+Douglas,29,Senate,,PGP ,Theresa Keane,29
+Douglas,30,Senate,,PGP ,Theresa Keane,13
+Douglas,31,Senate,,PGP ,Theresa Keane,12
+Douglas,32,Senate,,PGP ,Theresa Keane,3
+Douglas,33,Senate,,PGP ,Theresa Keane,13
+Douglas,34,Senate,,PGP ,Theresa Keane,3
+Douglas,35,Senate,,PGP ,Theresa Keane,6
+Douglas,36,Senate,,PGP ,Theresa Keane,14
+Douglas,37,Senate,,PGP ,Theresa Keane,19
+Douglas,38,Senate,,PGP ,Theresa Keane,21
+Douglas,39,Senate,,PGP ,Theresa Keane,20
+Douglas,40,Senate,,PGP ,Theresa Keane,10
+Douglas,41,Senate,,PGP ,Theresa Keane,10
+Douglas,42,Senate,,PGP ,Theresa Keane,19
+Douglas,43,Senate,,PGP ,Theresa Keane,25
+Douglas,44,Senate,,PGP ,Theresa Keane,4
+Douglas,45,Senate,,PGP ,Theresa Keane,3
+Douglas,46,Senate,,PGP ,Theresa Keane,20
+Douglas,47,Senate,,PGP ,Theresa Keane,10
+Douglas,48,Senate,,PGP ,Theresa Keane,2
+Douglas,49,Senate,,PGP ,Theresa Keane,19
+Douglas,50,Senate,,PGP ,Theresa Keane,30
+Douglas,51,Senate,,PGP ,Theresa Keane,4
+Douglas,52,Senate,,PGP ,Theresa Keane,3
+Douglas,53,Senate,,PGP ,Theresa Keane,14
+Douglas,54,Senate,,PGP ,Theresa Keane,21
+Douglas,55,Senate,,PGP ,Theresa Keane,18
+Douglas,56,Senate,,PGP ,Theresa Keane,23
+Douglas,57,Senate,,PGP ,Theresa Keane,15
+Douglas,58,Senate,,PGP ,Theresa Keane,13
+Douglas,59,Senate,,PGP ,Theresa Keane,11
+Douglas,60,Senate,,PGP ,Theresa Keane,8
+Douglas,61,Senate,,PGP ,Theresa Keane,10
+Douglas,62,Senate,,PGP ,Theresa Keane,23
+Douglas,63,Senate,,PGP ,Theresa Keane,34
+Douglas,64,Senate,,PGP ,Theresa Keane,16
+Douglas,65,Senate,,PGP ,Theresa Keane,8
+Douglas,66,Senate,,PGP ,Theresa Keane,8
+Douglas,67,Senate,,PGP ,Theresa Keane,3
+Douglas,68,Senate,,PGP ,Theresa Keane,6
+Douglas,69,Senate,,PGP ,Theresa Keane,10
+Douglas,70,Senate,,PGP ,Theresa Keane,20
+Douglas,71,Senate,,PGP ,Theresa Keane,9
+Douglas,72,Senate,,PGP ,Theresa Keane,0
+Douglas,Total,Senate,,PGP ,Theresa Keane,933
+Douglas,1,Senate,,REP ,Al King,124
+Douglas,2,Senate,,REP ,Al King,21
+Douglas,3,Senate,,REP ,Al King,237
+Douglas,4,Senate,,REP ,Al King,255
+Douglas,5,Senate,,REP ,Al King,301
+Douglas,6,Senate,,REP ,Al King,112
+Douglas,7,Senate,,REP ,Al King,136
+Douglas,8,Senate,,REP ,Al King,22
+Douglas,9,Senate,,REP ,Al King,374
+Douglas,10,Senate,,REP ,Al King,45
+Douglas,11,Senate,,REP ,Al King,215
+Douglas,12,Senate,,REP ,Al King,353
+Douglas,13,Senate,,REP ,Al King,469
+Douglas,14,Senate,,REP ,Al King,235
+Douglas,15,Senate,,REP ,Al King,211
+Douglas,16,Senate,,REP ,Al King,505
+Douglas,17,Senate,,REP ,Al King,1013
+Douglas,18,Senate,,REP ,Al King,529
+Douglas,19,Senate,,REP ,Al King,517
+Douglas,20,Senate,,REP ,Al King,404
+Douglas,21,Senate,,REP ,Al King,346
+Douglas,22,Senate,,REP ,Al King,302
+Douglas,23,Senate,,REP ,Al King,480
+Douglas,24,Senate,,REP ,Al King,696
+Douglas,25,Senate,,REP ,Al King,430
+Douglas,26,Senate,,REP ,Al King,23
+Douglas,27,Senate,,REP ,Al King,326
+Douglas,28,Senate,,REP ,Al King,123
+Douglas,29,Senate,,REP ,Al King,659
+Douglas,30,Senate,,REP ,Al King,367
+Douglas,31,Senate,,REP ,Al King,262
+Douglas,32,Senate,,REP ,Al King,47
+Douglas,33,Senate,,REP ,Al King,240
+Douglas,34,Senate,,REP ,Al King,241
+Douglas,35,Senate,,REP ,Al King,494
+Douglas,36,Senate,,REP ,Al King,728
+Douglas,37,Senate,,REP ,Al King,591
+Douglas,38,Senate,,REP ,Al King,431
+Douglas,39,Senate,,REP ,Al King,247
+Douglas,40,Senate,,REP ,Al King,176
+Douglas,41,Senate,,REP ,Al King,298
+Douglas,42,Senate,,REP ,Al King,269
+Douglas,43,Senate,,REP ,Al King,237
+Douglas,44,Senate,,REP ,Al King,142
+Douglas,45,Senate,,REP ,Al King,167
+Douglas,46,Senate,,REP ,Al King,469
+Douglas,47,Senate,,REP ,Al King,316
+Douglas,48,Senate,,REP ,Al King,164
+Douglas,49,Senate,,REP ,Al King,424
+Douglas,50,Senate,,REP ,Al King,1178
+Douglas,51,Senate,,REP ,Al King,245
+Douglas,52,Senate,,REP ,Al King,170
+Douglas,53,Senate,,REP ,Al King,480
+Douglas,54,Senate,,REP ,Al King,469
+Douglas,55,Senate,,REP ,Al King,299
+Douglas,56,Senate,,REP ,Al King,807
+Douglas,57,Senate,,REP ,Al King,457
+Douglas,58,Senate,,REP ,Al King,388
+Douglas,59,Senate,,REP ,Al King,221
+Douglas,60,Senate,,REP ,Al King,274
+Douglas,61,Senate,,REP ,Al King,324
+Douglas,62,Senate,,REP ,Al King,566
+Douglas,63,Senate,,REP ,Al King,720
+Douglas,64,Senate,,REP ,Al King,185
+Douglas,65,Senate,,REP ,Al King,246
+Douglas,66,Senate,,REP ,Al King,304
+Douglas,67,Senate,,REP ,Al King,224
+Douglas,68,Senate,,REP ,Al King,203
+Douglas,69,Senate,,REP ,Al King,143
+Douglas,70,Senate,,REP ,Al King,490
+Douglas,71,Senate,,REP ,Al King,160
+Douglas,72,Senate,,REP ,Al King,26
+Douglas,Total,Senate,,REP ,Al King,24352
+Douglas,1,Senate,,LIB ,Dan Fitzgerald,8
+Douglas,2,Senate,,LIB ,Dan Fitzgerald,1
+Douglas,3,Senate,,LIB ,Dan Fitzgerald,9
+Douglas,4,Senate,,LIB ,Dan Fitzgerald,12
+Douglas,5,Senate,,LIB ,Dan Fitzgerald,10
+Douglas,6,Senate,,LIB ,Dan Fitzgerald,3
+Douglas,7,Senate,,LIB ,Dan Fitzgerald,2
+Douglas,8,Senate,,LIB ,Dan Fitzgerald,1
+Douglas,9,Senate,,LIB ,Dan Fitzgerald,12
+Douglas,10,Senate,,LIB ,Dan Fitzgerald,2
+Douglas,11,Senate,,LIB ,Dan Fitzgerald,9
+Douglas,12,Senate,,LIB ,Dan Fitzgerald,19
+Douglas,13,Senate,,LIB ,Dan Fitzgerald,26
+Douglas,14,Senate,,LIB ,Dan Fitzgerald,11
+Douglas,15,Senate,,LIB ,Dan Fitzgerald,12
+Douglas,16,Senate,,LIB ,Dan Fitzgerald,24
+Douglas,17,Senate,,LIB ,Dan Fitzgerald,47
+Douglas,18,Senate,,LIB ,Dan Fitzgerald,24
+Douglas,19,Senate,,LIB ,Dan Fitzgerald,19
+Douglas,20,Senate,,LIB ,Dan Fitzgerald,8
+Douglas,21,Senate,,LIB ,Dan Fitzgerald,18
+Douglas,22,Senate,,LIB ,Dan Fitzgerald,12
+Douglas,23,Senate,,LIB ,Dan Fitzgerald,10
+Douglas,24,Senate,,LIB ,Dan Fitzgerald,30
+Douglas,25,Senate,,LIB ,Dan Fitzgerald,20
+Douglas,26,Senate,,LIB ,Dan Fitzgerald,0
+Douglas,27,Senate,,LIB ,Dan Fitzgerald,8
+Douglas,28,Senate,,LIB ,Dan Fitzgerald,7
+Douglas,29,Senate,,LIB ,Dan Fitzgerald,18
+Douglas,30,Senate,,LIB ,Dan Fitzgerald,13
+Douglas,31,Senate,,LIB ,Dan Fitzgerald,17
+Douglas,32,Senate,,LIB ,Dan Fitzgerald,3
+Douglas,33,Senate,,LIB ,Dan Fitzgerald,9
+Douglas,34,Senate,,LIB ,Dan Fitzgerald,3
+Douglas,35,Senate,,LIB ,Dan Fitzgerald,6
+Douglas,36,Senate,,LIB ,Dan Fitzgerald,17
+Douglas,37,Senate,,LIB ,Dan Fitzgerald,20
+Douglas,38,Senate,,LIB ,Dan Fitzgerald,19
+Douglas,39,Senate,,LIB ,Dan Fitzgerald,17
+Douglas,40,Senate,,LIB ,Dan Fitzgerald,13
+Douglas,41,Senate,,LIB ,Dan Fitzgerald,9
+Douglas,42,Senate,,LIB ,Dan Fitzgerald,13
+Douglas,43,Senate,,LIB ,Dan Fitzgerald,15
+Douglas,44,Senate,,LIB ,Dan Fitzgerald,10
+Douglas,45,Senate,,LIB ,Dan Fitzgerald,5
+Douglas,46,Senate,,LIB ,Dan Fitzgerald,13
+Douglas,47,Senate,,LIB ,Dan Fitzgerald,5
+Douglas,48,Senate,,LIB ,Dan Fitzgerald,2
+Douglas,49,Senate,,LIB ,Dan Fitzgerald,20
+Douglas,50,Senate,,LIB ,Dan Fitzgerald,64
+Douglas,51,Senate,,LIB ,Dan Fitzgerald,7
+Douglas,52,Senate,,LIB ,Dan Fitzgerald,9
+Douglas,53,Senate,,LIB ,Dan Fitzgerald,34
+Douglas,54,Senate,,LIB ,Dan Fitzgerald,23
+Douglas,55,Senate,,LIB ,Dan Fitzgerald,20
+Douglas,56,Senate,,LIB ,Dan Fitzgerald,21
+Douglas,57,Senate,,LIB ,Dan Fitzgerald,22
+Douglas,58,Senate,,LIB ,Dan Fitzgerald,23
+Douglas,59,Senate,,LIB ,Dan Fitzgerald,12
+Douglas,60,Senate,,LIB ,Dan Fitzgerald,16
+Douglas,61,Senate,,LIB ,Dan Fitzgerald,15
+Douglas,62,Senate,,LIB ,Dan Fitzgerald,19
+Douglas,63,Senate,,LIB ,Dan Fitzgerald,40
+Douglas,64,Senate,,LIB ,Dan Fitzgerald,16
+Douglas,65,Senate,,LIB ,Dan Fitzgerald,18
+Douglas,66,Senate,,LIB ,Dan Fitzgerald,12
+Douglas,67,Senate,,LIB ,Dan Fitzgerald,15
+Douglas,68,Senate,,LIB ,Dan Fitzgerald,16
+Douglas,69,Senate,,LIB ,Dan Fitzgerald,3
+Douglas,70,Senate,,LIB ,Dan Fitzgerald,31
+Douglas,71,Senate,,LIB ,Dan Fitzgerald,4
+Douglas,72,Senate,,LIB ,Dan Fitzgerald,1
+Douglas,Total,Senate,,LIB ,Dan Fitzgerald,1052
+Douglas,1,Senate,,DEM ,Ron Wyden,175
+Douglas,2,Senate,,DEM ,Ron Wyden,18
+Douglas,3,Senate,,DEM ,Ron Wyden,462
+Douglas,4,Senate,,DEM ,Ron Wyden,428
+Douglas,5,Senate,,DEM ,Ron Wyden,454
+Douglas,6,Senate,,DEM ,Ron Wyden,108
+Douglas,7,Senate,,DEM ,Ron Wyden,186
+Douglas,8,Senate,,DEM ,Ron Wyden,23
+Douglas,9,Senate,,DEM ,Ron Wyden,327
+Douglas,10,Senate,,DEM ,Ron Wyden,46
+Douglas,11,Senate,,DEM ,Ron Wyden,247
+Douglas,12,Senate,,DEM ,Ron Wyden,336
+Douglas,13,Senate,,DEM ,Ron Wyden,377
+Douglas,14,Senate,,DEM ,Ron Wyden,204
+Douglas,15,Senate,,DEM ,Ron Wyden,235
+Douglas,16,Senate,,DEM ,Ron Wyden,488
+Douglas,17,Senate,,DEM ,Ron Wyden,1222
+Douglas,18,Senate,,DEM ,Ron Wyden,598
+Douglas,19,Senate,,DEM ,Ron Wyden,491
+Douglas,20,Senate,,DEM ,Ron Wyden,314
+Douglas,21,Senate,,DEM ,Ron Wyden,304
+Douglas,22,Senate,,DEM ,Ron Wyden,268
+Douglas,23,Senate,,DEM ,Ron Wyden,386
+Douglas,24,Senate,,DEM ,Ron Wyden,658
+Douglas,25,Senate,,DEM ,Ron Wyden,535
+Douglas,26,Senate,,DEM ,Ron Wyden,8
+Douglas,27,Senate,,DEM ,Ron Wyden,236
+Douglas,28,Senate,,DEM ,Ron Wyden,77
+Douglas,29,Senate,,DEM ,Ron Wyden,842
+Douglas,30,Senate,,DEM ,Ron Wyden,485
+Douglas,31,Senate,,DEM ,Ron Wyden,347
+Douglas,32,Senate,,DEM ,Ron Wyden,55
+Douglas,33,Senate,,DEM ,Ron Wyden,262
+Douglas,34,Senate,,DEM ,Ron Wyden,219
+Douglas,35,Senate,,DEM ,Ron Wyden,359
+Douglas,36,Senate,,DEM ,Ron Wyden,682
+Douglas,37,Senate,,DEM ,Ron Wyden,688
+Douglas,38,Senate,,DEM ,Ron Wyden,592
+Douglas,39,Senate,,DEM ,Ron Wyden,373
+Douglas,40,Senate,,DEM ,Ron Wyden,277
+Douglas,41,Senate,,DEM ,Ron Wyden,440
+Douglas,42,Senate,,DEM ,Ron Wyden,360
+Douglas,43,Senate,,DEM ,Ron Wyden,386
+Douglas,44,Senate,,DEM ,Ron Wyden,238
+Douglas,45,Senate,,DEM ,Ron Wyden,204
+Douglas,46,Senate,,DEM ,Ron Wyden,531
+Douglas,47,Senate,,DEM ,Ron Wyden,401
+Douglas,48,Senate,,DEM ,Ron Wyden,124
+Douglas,49,Senate,,DEM ,Ron Wyden,453
+Douglas,50,Senate,,DEM ,Ron Wyden,1348
+Douglas,51,Senate,,DEM ,Ron Wyden,222
+Douglas,52,Senate,,DEM ,Ron Wyden,153
+Douglas,53,Senate,,DEM ,Ron Wyden,536
+Douglas,54,Senate,,DEM ,Ron Wyden,562
+Douglas,55,Senate,,DEM ,Ron Wyden,367
+Douglas,56,Senate,,DEM ,Ron Wyden,655
+Douglas,57,Senate,,DEM ,Ron Wyden,324
+Douglas,58,Senate,,DEM ,Ron Wyden,441
+Douglas,59,Senate,,DEM ,Ron Wyden,144
+Douglas,60,Senate,,DEM ,Ron Wyden,341
+Douglas,61,Senate,,DEM ,Ron Wyden,418
+Douglas,62,Senate,,DEM ,Ron Wyden,478
+Douglas,63,Senate,,DEM ,Ron Wyden,914
+Douglas,64,Senate,,DEM ,Ron Wyden,200
+Douglas,65,Senate,,DEM ,Ron Wyden,249
+Douglas,66,Senate,,DEM ,Ron Wyden,371
+Douglas,67,Senate,,DEM ,Ron Wyden,239
+Douglas,68,Senate,,DEM ,Ron Wyden,204
+Douglas,69,Senate,,DEM ,Ron Wyden,120
+Douglas,70,Senate,,DEM ,Ron Wyden,422
+Douglas,71,Senate,,DEM ,Ron Wyden,140
+Douglas,72,Senate,,DEM ,Ron Wyden,19
+Douglas,Total,Senate,,DEM ,Ron Wyden,26396
+Douglas,1,Senate,,CON ,David Brownlow,5
+Douglas,2,Senate,,CON ,David Brownlow,0
+Douglas,3,Senate,,CON ,David Brownlow,10
+Douglas,4,Senate,,CON ,David Brownlow,11
+Douglas,5,Senate,,CON ,David Brownlow,12
+Douglas,6,Senate,,CON ,David Brownlow,2
+Douglas,7,Senate,,CON ,David Brownlow,2
+Douglas,8,Senate,,CON ,David Brownlow,1
+Douglas,9,Senate,,CON ,David Brownlow,7
+Douglas,10,Senate,,CON ,David Brownlow,1
+Douglas,11,Senate,,CON ,David Brownlow,5
+Douglas,12,Senate,,CON ,David Brownlow,12
+Douglas,13,Senate,,CON ,David Brownlow,9
+Douglas,14,Senate,,CON ,David Brownlow,5
+Douglas,15,Senate,,CON ,David Brownlow,3
+Douglas,16,Senate,,CON ,David Brownlow,11
+Douglas,17,Senate,,CON ,David Brownlow,22
+Douglas,18,Senate,,CON ,David Brownlow,11
+Douglas,19,Senate,,CON ,David Brownlow,13
+Douglas,20,Senate,,CON ,David Brownlow,12
+Douglas,21,Senate,,CON ,David Brownlow,4
+Douglas,22,Senate,,CON ,David Brownlow,2
+Douglas,23,Senate,,CON ,David Brownlow,4
+Douglas,24,Senate,,CON ,David Brownlow,7
+Douglas,25,Senate,,CON ,David Brownlow,7
+Douglas,26,Senate,,CON ,David Brownlow,0
+Douglas,27,Senate,,CON ,David Brownlow,8
+Douglas,28,Senate,,CON ,David Brownlow,2
+Douglas,29,Senate,,CON ,David Brownlow,11
+Douglas,30,Senate,,CON ,David Brownlow,2
+Douglas,31,Senate,,CON ,David Brownlow,11
+Douglas,32,Senate,,CON ,David Brownlow,6
+Douglas,33,Senate,,CON ,David Brownlow,5
+Douglas,34,Senate,,CON ,David Brownlow,0
+Douglas,35,Senate,,CON ,David Brownlow,3
+Douglas,36,Senate,,CON ,David Brownlow,8
+Douglas,37,Senate,,CON ,David Brownlow,5
+Douglas,38,Senate,,CON ,David Brownlow,11
+Douglas,39,Senate,,CON ,David Brownlow,7
+Douglas,40,Senate,,CON ,David Brownlow,6
+Douglas,41,Senate,,CON ,David Brownlow,2
+Douglas,42,Senate,,CON ,David Brownlow,8
+Douglas,43,Senate,,CON ,David Brownlow,6
+Douglas,44,Senate,,CON ,David Brownlow,3
+Douglas,45,Senate,,CON ,David Brownlow,4
+Douglas,46,Senate,,CON ,David Brownlow,5
+Douglas,47,Senate,,CON ,David Brownlow,4
+Douglas,48,Senate,,CON ,David Brownlow,5
+Douglas,49,Senate,,CON ,David Brownlow,6
+Douglas,50,Senate,,CON ,David Brownlow,16
+Douglas,51,Senate,,CON ,David Brownlow,1
+Douglas,52,Senate,,CON ,David Brownlow,6
+Douglas,53,Senate,,CON ,David Brownlow,17
+Douglas,54,Senate,,CON ,David Brownlow,5
+Douglas,55,Senate,,CON ,David Brownlow,11
+Douglas,56,Senate,,CON ,David Brownlow,11
+Douglas,57,Senate,,CON ,David Brownlow,6
+Douglas,58,Senate,,CON ,David Brownlow,14
+Douglas,59,Senate,,CON ,David Brownlow,10
+Douglas,60,Senate,,CON ,David Brownlow,5
+Douglas,61,Senate,,CON ,David Brownlow,4
+Douglas,62,Senate,,CON ,David Brownlow,15
+Douglas,63,Senate,,CON ,David Brownlow,14
+Douglas,64,Senate,,CON ,David Brownlow,2
+Douglas,65,Senate,,CON ,David Brownlow,3
+Douglas,66,Senate,,CON ,David Brownlow,6
+Douglas,67,Senate,,CON ,David Brownlow,6
+Douglas,68,Senate,,CON ,David Brownlow,2
+Douglas,69,Senate,,CON ,David Brownlow,2
+Douglas,70,Senate,,CON ,David Brownlow,13
+Douglas,71,Senate,,CON ,David Brownlow,2
+Douglas,72,Senate,,CON ,David Brownlow,0
+Douglas,Total,Senate,,CON ,David Brownlow,477
+Douglas,1,Senate,,,Under Votes,15
+Douglas,2,Senate,,,Under Votes,3
+Douglas,3,Senate,,,Under Votes,15
+Douglas,4,Senate,,,Under Votes,17
+Douglas,5,Senate,,,Under Votes,23
+Douglas,6,Senate,,,Under Votes,7
+Douglas,7,Senate,,,Under Votes,8
+Douglas,8,Senate,,,Under Votes,2
+Douglas,9,Senate,,,Under Votes,22
+Douglas,10,Senate,,,Under Votes,4
+Douglas,11,Senate,,,Under Votes,16
+Douglas,12,Senate,,,Under Votes,27
+Douglas,13,Senate,,,Under Votes,41
+Douglas,14,Senate,,,Under Votes,14
+Douglas,15,Senate,,,Under Votes,28
+Douglas,16,Senate,,,Under Votes,45
+Douglas,17,Senate,,,Under Votes,97
+Douglas,18,Senate,,,Under Votes,66
+Douglas,19,Senate,,,Under Votes,50
+Douglas,20,Senate,,,Under Votes,39
+Douglas,21,Senate,,,Under Votes,28
+Douglas,22,Senate,,,Under Votes,25
+Douglas,23,Senate,,,Under Votes,36
+Douglas,24,Senate,,,Under Votes,83
+Douglas,25,Senate,,,Under Votes,47
+Douglas,26,Senate,,,Under Votes,1
+Douglas,27,Senate,,,Under Votes,24
+Douglas,28,Senate,,,Under Votes,10
+Douglas,29,Senate,,,Under Votes,68
+Douglas,30,Senate,,,Under Votes,26
+Douglas,31,Senate,,,Under Votes,30
+Douglas,32,Senate,,,Under Votes,8
+Douglas,33,Senate,,,Under Votes,14
+Douglas,34,Senate,,,Under Votes,17
+Douglas,35,Senate,,,Under Votes,25
+Douglas,36,Senate,,,Under Votes,74
+Douglas,37,Senate,,,Under Votes,51
+Douglas,38,Senate,,,Under Votes,38
+Douglas,39,Senate,,,Under Votes,36
+Douglas,40,Senate,,,Under Votes,17
+Douglas,41,Senate,,,Under Votes,35
+Douglas,42,Senate,,,Under Votes,23
+Douglas,43,Senate,,,Under Votes,45
+Douglas,44,Senate,,,Under Votes,14
+Douglas,45,Senate,,,Under Votes,19
+Douglas,46,Senate,,,Under Votes,41
+Douglas,47,Senate,,,Under Votes,36
+Douglas,48,Senate,,,Under Votes,7
+Douglas,49,Senate,,,Under Votes,39
+Douglas,50,Senate,,,Under Votes,113
+Douglas,51,Senate,,,Under Votes,22
+Douglas,52,Senate,,,Under Votes,13
+Douglas,53,Senate,,,Under Votes,46
+Douglas,54,Senate,,,Under Votes,48
+Douglas,55,Senate,,,Under Votes,38
+Douglas,56,Senate,,,Under Votes,67
+Douglas,57,Senate,,,Under Votes,26
+Douglas,58,Senate,,,Under Votes,48
+Douglas,59,Senate,,,Under Votes,21
+Douglas,60,Senate,,,Under Votes,29
+Douglas,61,Senate,,,Under Votes,37
+Douglas,62,Senate,,,Under Votes,52
+Douglas,63,Senate,,,Under Votes,77
+Douglas,64,Senate,,,Under Votes,17
+Douglas,65,Senate,,,Under Votes,24
+Douglas,66,Senate,,,Under Votes,46
+Douglas,67,Senate,,,Under Votes,22
+Douglas,68,Senate,,,Under Votes,13
+Douglas,69,Senate,,,Under Votes,21
+Douglas,70,Senate,,,Under Votes,49
+Douglas,71,Senate,,,Under Votes,23
+Douglas,72,Senate,,,Under Votes,2
+Douglas,Total,Senate,,,Under Votes,2310
+Douglas,1,Senate,,,Over Votes,0
+Douglas,2,Senate,,,Over Votes,0
+Douglas,3,Senate,,,Over Votes,0
+Douglas,4,Senate,,,Over Votes,0
+Douglas,5,Senate,,,Over Votes,0
+Douglas,6,Senate,,,Over Votes,2
+Douglas,7,Senate,,,Over Votes,0
+Douglas,8,Senate,,,Over Votes,0
+Douglas,9,Senate,,,Over Votes,0
+Douglas,10,Senate,,,Over Votes,0
+Douglas,11,Senate,,,Over Votes,1
+Douglas,12,Senate,,,Over Votes,0
+Douglas,13,Senate,,,Over Votes,0
+Douglas,14,Senate,,,Over Votes,1
+Douglas,15,Senate,,,Over Votes,0
+Douglas,16,Senate,,,Over Votes,2
+Douglas,17,Senate,,,Over Votes,2
+Douglas,18,Senate,,,Over Votes,0
+Douglas,19,Senate,,,Over Votes,0
+Douglas,20,Senate,,,Over Votes,0
+Douglas,21,Senate,,,Over Votes,0
+Douglas,22,Senate,,,Over Votes,0
+Douglas,23,Senate,,,Over Votes,0
+Douglas,24,Senate,,,Over Votes,0
+Douglas,25,Senate,,,Over Votes,1
+Douglas,26,Senate,,,Over Votes,0
+Douglas,27,Senate,,,Over Votes,0
+Douglas,28,Senate,,,Over Votes,0
+Douglas,29,Senate,,,Over Votes,0
+Douglas,30,Senate,,,Over Votes,0
+Douglas,31,Senate,,,Over Votes,1
+Douglas,32,Senate,,,Over Votes,0
+Douglas,33,Senate,,,Over Votes,2
+Douglas,34,Senate,,,Over Votes,0
+Douglas,35,Senate,,,Over Votes,0
+Douglas,36,Senate,,,Over Votes,3
+Douglas,37,Senate,,,Over Votes,0
+Douglas,38,Senate,,,Over Votes,0
+Douglas,39,Senate,,,Over Votes,1
+Douglas,40,Senate,,,Over Votes,0
+Douglas,41,Senate,,,Over Votes,0
+Douglas,42,Senate,,,Over Votes,0
+Douglas,43,Senate,,,Over Votes,0
+Douglas,44,Senate,,,Over Votes,1
+Douglas,45,Senate,,,Over Votes,0
+Douglas,46,Senate,,,Over Votes,0
+Douglas,47,Senate,,,Over Votes,0
+Douglas,48,Senate,,,Over Votes,0
+Douglas,49,Senate,,,Over Votes,1
+Douglas,50,Senate,,,Over Votes,1
+Douglas,51,Senate,,,Over Votes,0
+Douglas,52,Senate,,,Over Votes,0
+Douglas,53,Senate,,,Over Votes,0
+Douglas,54,Senate,,,Over Votes,0
+Douglas,55,Senate,,,Over Votes,2
+Douglas,56,Senate,,,Over Votes,0
+Douglas,57,Senate,,,Over Votes,3
+Douglas,58,Senate,,,Over Votes,1
+Douglas,59,Senate,,,Over Votes,0
+Douglas,60,Senate,,,Over Votes,0
+Douglas,61,Senate,,,Over Votes,0
+Douglas,62,Senate,,,Over Votes,0
+Douglas,63,Senate,,,Over Votes,0
+Douglas,64,Senate,,,Over Votes,0
+Douglas,65,Senate,,,Over Votes,0
+Douglas,66,Senate,,,Over Votes,0
+Douglas,67,Senate,,,Over Votes,2
+Douglas,68,Senate,,,Over Votes,0
+Douglas,69,Senate,,,Over Votes,0
+Douglas,70,Senate,,,Over Votes,0
+Douglas,71,Senate,,,Over Votes,0
+Douglas,72,Senate,,,Over Votes,0
+Douglas,Total,Senate,,,Over Votes,27
+Douglas,1,Senate,,,Write-ins,0
+Douglas,2,Senate,,,Write-ins,0
+Douglas,3,Senate,,,Write-ins,1
+Douglas,4,Senate,,,Write-ins,0
+Douglas,5,Senate,,,Write-ins,0
+Douglas,6,Senate,,,Write-ins,0
+Douglas,7,Senate,,,Write-ins,0
+Douglas,8,Senate,,,Write-ins,0
+Douglas,9,Senate,,,Write-ins,1
+Douglas,10,Senate,,,Write-ins,0
+Douglas,11,Senate,,,Write-ins,0
+Douglas,12,Senate,,,Write-ins,0
+Douglas,13,Senate,,,Write-ins,0
+Douglas,14,Senate,,,Write-ins,1
+Douglas,15,Senate,,,Write-ins,0
+Douglas,16,Senate,,,Write-ins,0
+Douglas,17,Senate,,,Write-ins,0
+Douglas,18,Senate,,,Write-ins,1
+Douglas,19,Senate,,,Write-ins,2
+Douglas,20,Senate,,,Write-ins,0
+Douglas,21,Senate,,,Write-ins,0
+Douglas,22,Senate,,,Write-ins,3
+Douglas,23,Senate,,,Write-ins,0
+Douglas,24,Senate,,,Write-ins,0
+Douglas,25,Senate,,,Write-ins,0
+Douglas,26,Senate,,,Write-ins,0
+Douglas,27,Senate,,,Write-ins,0
+Douglas,28,Senate,,,Write-ins,0
+Douglas,29,Senate,,,Write-ins,0
+Douglas,30,Senate,,,Write-ins,0
+Douglas,31,Senate,,,Write-ins,0
+Douglas,32,Senate,,,Write-ins,1
+Douglas,33,Senate,,,Write-ins,0
+Douglas,34,Senate,,,Write-ins,0
+Douglas,35,Senate,,,Write-ins,0
+Douglas,36,Senate,,,Write-ins,1
+Douglas,37,Senate,,,Write-ins,1
+Douglas,38,Senate,,,Write-ins,1
+Douglas,39,Senate,,,Write-ins,1
+Douglas,40,Senate,,,Write-ins,0
+Douglas,41,Senate,,,Write-ins,0
+Douglas,42,Senate,,,Write-ins,0
+Douglas,43,Senate,,,Write-ins,0
+Douglas,44,Senate,,,Write-ins,0
+Douglas,45,Senate,,,Write-ins,0
+Douglas,46,Senate,,,Write-ins,0
+Douglas,47,Senate,,,Write-ins,1
+Douglas,48,Senate,,,Write-ins,0
+Douglas,49,Senate,,,Write-ins,0
+Douglas,50,Senate,,,Write-ins,2
+Douglas,51,Senate,,,Write-ins,1
+Douglas,52,Senate,,,Write-ins,0
+Douglas,53,Senate,,,Write-ins,1
+Douglas,54,Senate,,,Write-ins,0
+Douglas,55,Senate,,,Write-ins,2
+Douglas,56,Senate,,,Write-ins,2
+Douglas,57,Senate,,,Write-ins,0
+Douglas,58,Senate,,,Write-ins,0
+Douglas,59,Senate,,,Write-ins,0
+Douglas,60,Senate,,,Write-ins,1
+Douglas,61,Senate,,,Write-ins,0
+Douglas,62,Senate,,,Write-ins,0
+Douglas,63,Senate,,,Write-ins,2
+Douglas,64,Senate,,,Write-ins,0
+Douglas,65,Senate,,,Write-ins,0
+Douglas,66,Senate,,,Write-ins,0
+Douglas,67,Senate,,,Write-ins,0
+Douglas,68,Senate,,,Write-ins,0
+Douglas,69,Senate,,,Write-ins,0
+Douglas,70,Senate,,,Write-ins,1
+Douglas,71,Senate,,,Write-ins,0
+Douglas,72,Senate,,,Write-ins,0
+Douglas,Total,Senate,,,Write-ins,27
+Douglas,1,U.S. House,4,DEM ,Peter A DeFazio,195
+Douglas,2,U.S. House,4,DEM ,Peter A DeFazio,19
+Douglas,3,U.S. House,4,DEM ,Peter A DeFazio,485
+Douglas,4,U.S. House,4,DEM ,Peter A DeFazio,444
+Douglas,5,U.S. House,4,DEM ,Peter A DeFazio,460
+Douglas,6,U.S. House,4,DEM ,Peter A DeFazio,108
+Douglas,7,U.S. House,4,DEM ,Peter A DeFazio,190
+Douglas,8,U.S. House,4,DEM ,Peter A DeFazio,28
+Douglas,9,U.S. House,4,DEM ,Peter A DeFazio,355
+Douglas,10,U.S. House,4,DEM ,Peter A DeFazio,54
+Douglas,11,U.S. House,4,DEM ,Peter A DeFazio,251
+Douglas,12,U.S. House,4,DEM ,Peter A DeFazio,379
+Douglas,13,U.S. House,4,DEM ,Peter A DeFazio,400
+Douglas,14,U.S. House,4,DEM ,Peter A DeFazio,227
+Douglas,15,U.S. House,4,DEM ,Peter A DeFazio,263
+Douglas,16,U.S. House,4,DEM ,Peter A DeFazio,523
+Douglas,17,U.S. House,4,DEM ,Peter A DeFazio,1276
+Douglas,18,U.S. House,4,DEM ,Peter A DeFazio,598
+Douglas,19,U.S. House,4,DEM ,Peter A DeFazio,507
+Douglas,20,U.S. House,4,DEM ,Peter A DeFazio,315
+Douglas,21,U.S. House,4,DEM ,Peter A DeFazio,290
+Douglas,22,U.S. House,4,DEM ,Peter A DeFazio,269
+Douglas,23,U.S. House,4,DEM ,Peter A DeFazio,373
+Douglas,24,U.S. House,4,DEM ,Peter A DeFazio,696
+Douglas,25,U.S. House,4,DEM ,Peter A DeFazio,556
+Douglas,26,U.S. House,4,DEM ,Peter A DeFazio,9
+Douglas,27,U.S. House,4,DEM ,Peter A DeFazio,236
+Douglas,28,U.S. House,4,DEM ,Peter A DeFazio,79
+Douglas,29,U.S. House,4,DEM ,Peter A DeFazio,790
+Douglas,30,U.S. House,4,DEM ,Peter A DeFazio,484
+Douglas,31,U.S. House,4,DEM ,Peter A DeFazio,361
+Douglas,32,U.S. House,4,DEM ,Peter A DeFazio,59
+Douglas,33,U.S. House,4,DEM ,Peter A DeFazio,274
+Douglas,34,U.S. House,4,DEM ,Peter A DeFazio,200
+Douglas,35,U.S. House,4,DEM ,Peter A DeFazio,305
+Douglas,36,U.S. House,4,DEM ,Peter A DeFazio,618
+Douglas,37,U.S. House,4,DEM ,Peter A DeFazio,621
+Douglas,38,U.S. House,4,DEM ,Peter A DeFazio,596
+Douglas,39,U.S. House,4,DEM ,Peter A DeFazio,383
+Douglas,40,U.S. House,4,DEM ,Peter A DeFazio,269
+Douglas,41,U.S. House,4,DEM ,Peter A DeFazio,402
+Douglas,42,U.S. House,4,DEM ,Peter A DeFazio,380
+Douglas,43,U.S. House,4,DEM ,Peter A DeFazio,423
+Douglas,44,U.S. House,4,DEM ,Peter A DeFazio,215
+Douglas,45,U.S. House,4,DEM ,Peter A DeFazio,201
+Douglas,46,U.S. House,4,DEM ,Peter A DeFazio,503
+Douglas,47,U.S. House,4,DEM ,Peter A DeFazio,362
+Douglas,48,U.S. House,4,DEM ,Peter A DeFazio,128
+Douglas,49,U.S. House,4,DEM ,Peter A DeFazio,454
+Douglas,50,U.S. House,4,DEM ,Peter A DeFazio,1333
+Douglas,51,U.S. House,4,DEM ,Peter A DeFazio,224
+Douglas,52,U.S. House,4,DEM ,Peter A DeFazio,142
+Douglas,53,U.S. House,4,DEM ,Peter A DeFazio,550
+Douglas,54,U.S. House,4,DEM ,Peter A DeFazio,588
+Douglas,55,U.S. House,4,DEM ,Peter A DeFazio,384
+Douglas,56,U.S. House,4,DEM ,Peter A DeFazio,638
+Douglas,57,U.S. House,4,DEM ,Peter A DeFazio,330
+Douglas,58,U.S. House,4,DEM ,Peter A DeFazio,469
+Douglas,59,U.S. House,4,DEM ,Peter A DeFazio,155
+Douglas,60,U.S. House,4,DEM ,Peter A DeFazio,333
+Douglas,61,U.S. House,4,DEM ,Peter A DeFazio,390
+Douglas,62,U.S. House,4,DEM ,Peter A DeFazio,481
+Douglas,63,U.S. House,4,DEM ,Peter A DeFazio,941
+Douglas,64,U.S. House,4,DEM ,Peter A DeFazio,219
+Douglas,65,U.S. House,4,DEM ,Peter A DeFazio,265
+Douglas,66,U.S. House,4,DEM ,Peter A DeFazio,361
+Douglas,67,U.S. House,4,DEM ,Peter A DeFazio,252
+Douglas,68,U.S. House,4,DEM ,Peter A DeFazio,222
+Douglas,69,U.S. House,4,DEM ,Peter A DeFazio,136
+Douglas,70,U.S. House,4,DEM ,Peter A DeFazio,455
+Douglas,71,U.S. House,4,DEM ,Peter A DeFazio,136
+Douglas,72,U.S. House,4,DEM ,Peter A DeFazio,24
+Douglas,Total,U.S. House,4,DEM ,Peter A DeFazio,26641
+Douglas,1,U.S. House,4,REP ,Jim Feldkamp,114
+Douglas,2,U.S. House,4,REP ,Jim Feldkamp,22
+Douglas,3,U.S. House,4,REP ,Jim Feldkamp,238
+Douglas,4,U.S. House,4,REP ,Jim Feldkamp,270
+Douglas,5,U.S. House,4,REP ,Jim Feldkamp,325
+Douglas,6,U.S. House,4,REP ,Jim Feldkamp,120
+Douglas,7,U.S. House,4,REP ,Jim Feldkamp,139
+Douglas,8,U.S. House,4,REP ,Jim Feldkamp,21
+Douglas,9,U.S. House,4,REP ,Jim Feldkamp,378
+Douglas,10,U.S. House,4,REP ,Jim Feldkamp,44
+Douglas,11,U.S. House,4,REP ,Jim Feldkamp,228
+Douglas,12,U.S. House,4,REP ,Jim Feldkamp,344
+Douglas,13,U.S. House,4,REP ,Jim Feldkamp,491
+Douglas,14,U.S. House,4,REP ,Jim Feldkamp,232
+Douglas,15,U.S. House,4,REP ,Jim Feldkamp,217
+Douglas,16,U.S. House,4,REP ,Jim Feldkamp,535
+Douglas,17,U.S. House,4,REP ,Jim Feldkamp,1091
+Douglas,18,U.S. House,4,REP ,Jim Feldkamp,577
+Douglas,19,U.S. House,4,REP ,Jim Feldkamp,559
+Douglas,20,U.S. House,4,REP ,Jim Feldkamp,446
+Douglas,21,U.S. House,4,REP ,Jim Feldkamp,391
+Douglas,22,U.S. House,4,REP ,Jim Feldkamp,328
+Douglas,23,U.S. House,4,REP ,Jim Feldkamp,530
+Douglas,24,U.S. House,4,REP ,Jim Feldkamp,741
+Douglas,25,U.S. House,4,REP ,Jim Feldkamp,463
+Douglas,26,U.S. House,4,REP ,Jim Feldkamp,18
+Douglas,27,U.S. House,4,REP ,Jim Feldkamp,351
+Douglas,28,U.S. House,4,REP ,Jim Feldkamp,136
+Douglas,29,U.S. House,4,REP ,Jim Feldkamp,792
+Douglas,30,U.S. House,4,REP ,Jim Feldkamp,401
+Douglas,31,U.S. House,4,REP ,Jim Feldkamp,290
+Douglas,32,U.S. House,4,REP ,Jim Feldkamp,52
+Douglas,33,U.S. House,4,REP ,Jim Feldkamp,255
+Douglas,34,U.S. House,4,REP ,Jim Feldkamp,267
+Douglas,35,U.S. House,4,REP ,Jim Feldkamp,568
+Douglas,36,U.S. House,4,REP ,Jim Feldkamp,867
+Douglas,37,U.S. House,4,REP ,Jim Feldkamp,721
+Douglas,38,U.S. House,4,REP ,Jim Feldkamp,486
+Douglas,39,U.S. House,4,REP ,Jim Feldkamp,285
+Douglas,40,U.S. House,4,REP ,Jim Feldkamp,211
+Douglas,41,U.S. House,4,REP ,Jim Feldkamp,365
+Douglas,42,U.S. House,4,REP ,Jim Feldkamp,282
+Douglas,43,U.S. House,4,REP ,Jim Feldkamp,262
+Douglas,44,U.S. House,4,REP ,Jim Feldkamp,188
+Douglas,45,U.S. House,4,REP ,Jim Feldkamp,182
+Douglas,46,U.S. House,4,REP ,Jim Feldkamp,547
+Douglas,47,U.S. House,4,REP ,Jim Feldkamp,392
+Douglas,48,U.S. House,4,REP ,Jim Feldkamp,170
+Douglas,49,U.S. House,4,REP ,Jim Feldkamp,466
+Douglas,50,U.S. House,4,REP ,Jim Feldkamp,1330
+Douglas,51,U.S. House,4,REP ,Jim Feldkamp,267
+Douglas,52,U.S. House,4,REP ,Jim Feldkamp,199
+Douglas,53,U.S. House,4,REP ,Jim Feldkamp,532
+Douglas,54,U.S. House,4,REP ,Jim Feldkamp,500
+Douglas,55,U.S. House,4,REP ,Jim Feldkamp,333
+Douglas,56,U.S. House,4,REP ,Jim Feldkamp,901
+Douglas,57,U.S. House,4,REP ,Jim Feldkamp,496
+Douglas,58,U.S. House,4,REP ,Jim Feldkamp,418
+Douglas,59,U.S. House,4,REP ,Jim Feldkamp,229
+Douglas,60,U.S. House,4,REP ,Jim Feldkamp,312
+Douglas,61,U.S. House,4,REP ,Jim Feldkamp,388
+Douglas,62,U.S. House,4,REP ,Jim Feldkamp,619
+Douglas,63,U.S. House,4,REP ,Jim Feldkamp,791
+Douglas,64,U.S. House,4,REP ,Jim Feldkamp,202
+Douglas,65,U.S. House,4,REP ,Jim Feldkamp,259
+Douglas,66,U.S. House,4,REP ,Jim Feldkamp,345
+Douglas,67,U.S. House,4,REP ,Jim Feldkamp,242
+Douglas,68,U.S. House,4,REP ,Jim Feldkamp,209
+Douglas,69,U.S. House,4,REP ,Jim Feldkamp,140
+Douglas,70,U.S. House,4,REP ,Jim Feldkamp,503
+Douglas,71,U.S. House,4,REP ,Jim Feldkamp,185
+Douglas,72,U.S. House,4,REP ,Jim Feldkamp,22
+Douglas,Total,U.S. House,4,REP ,Jim Feldkamp,26820
+Douglas,1,U.S. House,4,CON ,Michael Paul Marsh,3
+Douglas,2,U.S. House,4,CON ,Michael Paul Marsh,0
+Douglas,3,U.S. House,4,CON ,Michael Paul Marsh,6
+Douglas,4,U.S. House,4,CON ,Michael Paul Marsh,7
+Douglas,5,U.S. House,4,CON ,Michael Paul Marsh,6
+Douglas,6,U.S. House,4,CON ,Michael Paul Marsh,0
+Douglas,7,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,8,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,9,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,10,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,11,U.S. House,4,CON ,Michael Paul Marsh,6
+Douglas,12,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,13,U.S. House,4,CON ,Michael Paul Marsh,6
+Douglas,14,U.S. House,4,CON ,Michael Paul Marsh,4
+Douglas,15,U.S. House,4,CON ,Michael Paul Marsh,0
+Douglas,16,U.S. House,4,CON ,Michael Paul Marsh,9
+Douglas,17,U.S. House,4,CON ,Michael Paul Marsh,12
+Douglas,18,U.S. House,4,CON ,Michael Paul Marsh,7
+Douglas,19,U.S. House,4,CON ,Michael Paul Marsh,4
+Douglas,20,U.S. House,4,CON ,Michael Paul Marsh,9
+Douglas,21,U.S. House,4,CON ,Michael Paul Marsh,4
+Douglas,22,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,23,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,24,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,25,U.S. House,4,CON ,Michael Paul Marsh,8
+Douglas,26,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,27,U.S. House,4,CON ,Michael Paul Marsh,3
+Douglas,28,U.S. House,4,CON ,Michael Paul Marsh,0
+Douglas,29,U.S. House,4,CON ,Michael Paul Marsh,3
+Douglas,30,U.S. House,4,CON ,Michael Paul Marsh,4
+Douglas,31,U.S. House,4,CON ,Michael Paul Marsh,7
+Douglas,32,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,33,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,34,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,35,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,36,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,37,U.S. House,4,CON ,Michael Paul Marsh,3
+Douglas,38,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,39,U.S. House,4,CON ,Michael Paul Marsh,8
+Douglas,40,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,41,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,42,U.S. House,4,CON ,Michael Paul Marsh,7
+Douglas,43,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,44,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,45,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,46,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,47,U.S. House,4,CON ,Michael Paul Marsh,2
+Douglas,48,U.S. House,4,CON ,Michael Paul Marsh,3
+Douglas,49,U.S. House,4,CON ,Michael Paul Marsh,7
+Douglas,50,U.S. House,4,CON ,Michael Paul Marsh,14
+Douglas,51,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,52,U.S. House,4,CON ,Michael Paul Marsh,3
+Douglas,53,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,54,U.S. House,4,CON ,Michael Paul Marsh,6
+Douglas,55,U.S. House,4,CON ,Michael Paul Marsh,0
+Douglas,56,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,57,U.S. House,4,CON ,Michael Paul Marsh,5
+Douglas,58,U.S. House,4,CON ,Michael Paul Marsh,6
+Douglas,59,U.S. House,4,CON ,Michael Paul Marsh,9
+Douglas,60,U.S. House,4,CON ,Michael Paul Marsh,4
+Douglas,61,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,62,U.S. House,4,CON ,Michael Paul Marsh,11
+Douglas,63,U.S. House,4,CON ,Michael Paul Marsh,17
+Douglas,64,U.S. House,4,CON ,Michael Paul Marsh,0
+Douglas,65,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,66,U.S. House,4,CON ,Michael Paul Marsh,7
+Douglas,67,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,68,U.S. House,4,CON ,Michael Paul Marsh,0
+Douglas,69,U.S. House,4,CON ,Michael Paul Marsh,1
+Douglas,70,U.S. House,4,CON ,Michael Paul Marsh,10
+Douglas,71,U.S. House,4,CON ,Michael Paul Marsh,3
+Douglas,72,U.S. House,4,CON ,Michael Paul Marsh,0
+Douglas,Total,U.S. House,4,CON ,Michael Paul Marsh,305
+Douglas,1,U.S. House,4,LIB ,Jacob Boone,9
+Douglas,2,U.S. House,4,LIB ,Jacob Boone,2
+Douglas,3,U.S. House,4,LIB ,Jacob Boone,3
+Douglas,4,U.S. House,4,LIB ,Jacob Boone,7
+Douglas,5,U.S. House,4,LIB ,Jacob Boone,6
+Douglas,6,U.S. House,4,LIB ,Jacob Boone,1
+Douglas,7,U.S. House,4,LIB ,Jacob Boone,4
+Douglas,8,U.S. House,4,LIB ,Jacob Boone,0
+Douglas,9,U.S. House,4,LIB ,Jacob Boone,5
+Douglas,10,U.S. House,4,LIB ,Jacob Boone,2
+Douglas,11,U.S. House,4,LIB ,Jacob Boone,4
+Douglas,12,U.S. House,4,LIB ,Jacob Boone,11
+Douglas,13,U.S. House,4,LIB ,Jacob Boone,14
+Douglas,14,U.S. House,4,LIB ,Jacob Boone,3
+Douglas,15,U.S. House,4,LIB ,Jacob Boone,4
+Douglas,16,U.S. House,4,LIB ,Jacob Boone,12
+Douglas,17,U.S. House,4,LIB ,Jacob Boone,14
+Douglas,18,U.S. House,4,LIB ,Jacob Boone,11
+Douglas,19,U.S. House,4,LIB ,Jacob Boone,6
+Douglas,20,U.S. House,4,LIB ,Jacob Boone,2
+Douglas,21,U.S. House,4,LIB ,Jacob Boone,1
+Douglas,22,U.S. House,4,LIB ,Jacob Boone,2
+Douglas,23,U.S. House,4,LIB ,Jacob Boone,1
+Douglas,24,U.S. House,4,LIB ,Jacob Boone,10
+Douglas,25,U.S. House,4,LIB ,Jacob Boone,8
+Douglas,26,U.S. House,4,LIB ,Jacob Boone,0
+Douglas,27,U.S. House,4,LIB ,Jacob Boone,3
+Douglas,28,U.S. House,4,LIB ,Jacob Boone,3
+Douglas,29,U.S. House,4,LIB ,Jacob Boone,10
+Douglas,30,U.S. House,4,LIB ,Jacob Boone,4
+Douglas,31,U.S. House,4,LIB ,Jacob Boone,9
+Douglas,32,U.S. House,4,LIB ,Jacob Boone,0
+Douglas,33,U.S. House,4,LIB ,Jacob Boone,2
+Douglas,34,U.S. House,4,LIB ,Jacob Boone,0
+Douglas,35,U.S. House,4,LIB ,Jacob Boone,2
+Douglas,36,U.S. House,4,LIB ,Jacob Boone,0
+Douglas,37,U.S. House,4,LIB ,Jacob Boone,5
+Douglas,38,U.S. House,4,LIB ,Jacob Boone,7
+Douglas,39,U.S. House,4,LIB ,Jacob Boone,3
+Douglas,40,U.S. House,4,LIB ,Jacob Boone,4
+Douglas,41,U.S. House,4,LIB ,Jacob Boone,5
+Douglas,42,U.S. House,4,LIB ,Jacob Boone,9
+Douglas,43,U.S. House,4,LIB ,Jacob Boone,7
+Douglas,44,U.S. House,4,LIB ,Jacob Boone,3
+Douglas,45,U.S. House,4,LIB ,Jacob Boone,6
+Douglas,46,U.S. House,4,LIB ,Jacob Boone,1
+Douglas,47,U.S. House,4,LIB ,Jacob Boone,2
+Douglas,48,U.S. House,4,LIB ,Jacob Boone,1
+Douglas,49,U.S. House,4,LIB ,Jacob Boone,7
+Douglas,50,U.S. House,4,LIB ,Jacob Boone,16
+Douglas,51,U.S. House,4,LIB ,Jacob Boone,2
+Douglas,52,U.S. House,4,LIB ,Jacob Boone,1
+Douglas,53,U.S. House,4,LIB ,Jacob Boone,13
+Douglas,54,U.S. House,4,LIB ,Jacob Boone,9
+Douglas,55,U.S. House,4,LIB ,Jacob Boone,7
+Douglas,56,U.S. House,4,LIB ,Jacob Boone,7
+Douglas,57,U.S. House,4,LIB ,Jacob Boone,3
+Douglas,58,U.S. House,4,LIB ,Jacob Boone,8
+Douglas,59,U.S. House,4,LIB ,Jacob Boone,6
+Douglas,60,U.S. House,4,LIB ,Jacob Boone,6
+Douglas,61,U.S. House,4,LIB ,Jacob Boone,5
+Douglas,62,U.S. House,4,LIB ,Jacob Boone,8
+Douglas,63,U.S. House,4,LIB ,Jacob Boone,12
+Douglas,64,U.S. House,4,LIB ,Jacob Boone,5
+Douglas,65,U.S. House,4,LIB ,Jacob Boone,1
+Douglas,66,U.S. House,4,LIB ,Jacob Boone,4
+Douglas,67,U.S. House,4,LIB ,Jacob Boone,4
+Douglas,68,U.S. House,4,LIB ,Jacob Boone,3
+Douglas,69,U.S. House,4,LIB ,Jacob Boone,5
+Douglas,70,U.S. House,4,LIB ,Jacob Boone,19
+Douglas,71,U.S. House,4,LIB ,Jacob Boone,1
+Douglas,72,U.S. House,4,LIB ,Jacob Boone,0
+Douglas,Total,U.S. House,4,LIB ,Jacob Boone,380
+Douglas,1,U.S. House,4,,Under Votes,12
+Douglas,2,U.S. House,4,,Under Votes,0
+Douglas,3,U.S. House,4,,Under Votes,10
+Douglas,4,U.S. House,4,,Under Votes,8
+Douglas,5,U.S. House,4,,Under Votes,12
+Douglas,6,U.S. House,4,,Under Votes,5
+Douglas,7,U.S. House,4,,Under Votes,6
+Douglas,8,U.S. House,4,,Under Votes,0
+Douglas,9,U.S. House,4,,Under Votes,15
+Douglas,10,U.S. House,4,,Under Votes,2
+Douglas,11,U.S. House,4,,Under Votes,11
+Douglas,12,U.S. House,4,,Under Votes,19
+Douglas,13,U.S. House,4,,Under Votes,33
+Douglas,14,U.S. House,4,,Under Votes,10
+Douglas,15,U.S. House,4,,Under Votes,14
+Douglas,16,U.S. House,4,,Under Votes,24
+Douglas,17,U.S. House,4,,Under Votes,56
+Douglas,18,U.S. House,4,,Under Votes,46
+Douglas,19,U.S. House,4,,Under Votes,29
+Douglas,20,U.S. House,4,,Under Votes,14
+Douglas,21,U.S. House,4,,Under Votes,22
+Douglas,22,U.S. House,4,,Under Votes,22
+Douglas,23,U.S. House,4,,Under Votes,20
+Douglas,24,U.S. House,4,,Under Votes,59
+Douglas,25,U.S. House,4,,Under Votes,32
+Douglas,26,U.S. House,4,,Under Votes,3
+Douglas,27,U.S. House,4,,Under Votes,16
+Douglas,28,U.S. House,4,,Under Votes,6
+Douglas,29,U.S. House,4,,Under Votes,30
+Douglas,30,U.S. House,4,,Under Votes,10
+Douglas,31,U.S. House,4,,Under Votes,12
+Douglas,32,U.S. House,4,,Under Votes,7
+Douglas,33,U.S. House,4,,Under Votes,13
+Douglas,34,U.S. House,4,,Under Votes,12
+Douglas,35,U.S. House,4,,Under Votes,16
+Douglas,36,U.S. House,4,,Under Votes,39
+Douglas,37,U.S. House,4,,Under Votes,23
+Douglas,38,U.S. House,4,,Under Votes,12
+Douglas,39,U.S. House,4,,Under Votes,23
+Douglas,40,U.S. House,4,,Under Votes,10
+Douglas,41,U.S. House,4,,Under Votes,19
+Douglas,42,U.S. House,4,,Under Votes,12
+Douglas,43,U.S. House,4,,Under Votes,20
+Douglas,44,U.S. House,4,,Under Votes,4
+Douglas,45,U.S. House,4,,Under Votes,11
+Douglas,46,U.S. House,4,,Under Votes,26
+Douglas,47,U.S. House,4,,Under Votes,15
+Douglas,48,U.S. House,4,,Under Votes,2
+Douglas,49,U.S. House,4,,Under Votes,27
+Douglas,50,U.S. House,4,,Under Votes,55
+Douglas,51,U.S. House,4,,Under Votes,8
+Douglas,52,U.S. House,4,,Under Votes,7
+Douglas,53,U.S. House,4,,Under Votes,24
+Douglas,54,U.S. House,4,,Under Votes,24
+Douglas,55,U.S. House,4,,Under Votes,29
+Douglas,56,U.S. House,4,,Under Votes,34
+Douglas,57,U.S. House,4,,Under Votes,18
+Douglas,58,U.S. House,4,,Under Votes,27
+Douglas,59,U.S. House,4,,Under Votes,15
+Douglas,60,U.S. House,4,,Under Votes,17
+Douglas,61,U.S. House,4,,Under Votes,20
+Douglas,62,U.S. House,4,,Under Votes,33
+Douglas,63,U.S. House,4,,Under Votes,38
+Douglas,64,U.S. House,4,,Under Votes,10
+Douglas,65,U.S. House,4,,Under Votes,22
+Douglas,66,U.S. House,4,,Under Votes,29
+Douglas,67,U.S. House,4,,Under Votes,11
+Douglas,68,U.S. House,4,,Under Votes,10
+Douglas,69,U.S. House,4,,Under Votes,17
+Douglas,70,U.S. House,4,,Under Votes,38
+Douglas,71,U.S. House,4,,Under Votes,12
+Douglas,72,U.S. House,4,,Under Votes,2
+Douglas,Total,U.S. House,4,,Under Votes,1349
+Douglas,1,U.S. House,4,,Over Votes,0
+Douglas,2,U.S. House,4,,Over Votes,0
+Douglas,3,U.S. House,4,,Over Votes,0
+Douglas,4,U.S. House,4,,Over Votes,0
+Douglas,5,U.S. House,4,,Over Votes,0
+Douglas,6,U.S. House,4,,Over Votes,2
+Douglas,7,U.S. House,4,,Over Votes,0
+Douglas,8,U.S. House,4,,Over Votes,0
+Douglas,9,U.S. House,4,,Over Votes,0
+Douglas,10,U.S. House,4,,Over Votes,0
+Douglas,11,U.S. House,4,,Over Votes,0
+Douglas,12,U.S. House,4,,Over Votes,1
+Douglas,13,U.S. House,4,,Over Votes,1
+Douglas,14,U.S. House,4,,Over Votes,0
+Douglas,15,U.S. House,4,,Over Votes,0
+Douglas,16,U.S. House,4,,Over Votes,1
+Douglas,17,U.S. House,4,,Over Votes,0
+Douglas,18,U.S. House,4,,Over Votes,0
+Douglas,19,U.S. House,4,,Over Votes,0
+Douglas,20,U.S. House,4,,Over Votes,0
+Douglas,21,U.S. House,4,,Over Votes,0
+Douglas,22,U.S. House,4,,Over Votes,1
+Douglas,23,U.S. House,4,,Over Votes,0
+Douglas,24,U.S. House,4,,Over Votes,0
+Douglas,25,U.S. House,4,,Over Votes,0
+Douglas,26,U.S. House,4,,Over Votes,0
+Douglas,27,U.S. House,4,,Over Votes,0
+Douglas,28,U.S. House,4,,Over Votes,0
+Douglas,29,U.S. House,4,,Over Votes,1
+Douglas,30,U.S. House,4,,Over Votes,0
+Douglas,31,U.S. House,4,,Over Votes,1
+Douglas,32,U.S. House,4,,Over Votes,0
+Douglas,33,U.S. House,4,,Over Votes,0
+Douglas,34,U.S. House,4,,Over Votes,0
+Douglas,35,U.S. House,4,,Over Votes,0
+Douglas,36,U.S. House,4,,Over Votes,1
+Douglas,37,U.S. House,4,,Over Votes,0
+Douglas,38,U.S. House,4,,Over Votes,1
+Douglas,39,U.S. House,4,,Over Votes,0
+Douglas,40,U.S. House,4,,Over Votes,0
+Douglas,41,U.S. House,4,,Over Votes,0
+Douglas,42,U.S. House,4,,Over Votes,0
+Douglas,43,U.S. House,4,,Over Votes,0
+Douglas,44,U.S. House,4,,Over Votes,0
+Douglas,45,U.S. House,4,,Over Votes,0
+Douglas,46,U.S. House,4,,Over Votes,0
+Douglas,47,U.S. House,4,,Over Votes,0
+Douglas,48,U.S. House,4,,Over Votes,0
+Douglas,49,U.S. House,4,,Over Votes,0
+Douglas,50,U.S. House,4,,Over Votes,1
+Douglas,51,U.S. House,4,,Over Votes,0
+Douglas,52,U.S. House,4,,Over Votes,0
+Douglas,53,U.S. House,4,,Over Votes,0
+Douglas,54,U.S. House,4,,Over Votes,1
+Douglas,55,U.S. House,4,,Over Votes,1
+Douglas,56,U.S. House,4,,Over Votes,0
+Douglas,57,U.S. House,4,,Over Votes,1
+Douglas,58,U.S. House,4,,Over Votes,0
+Douglas,59,U.S. House,4,,Over Votes,0
+Douglas,60,U.S. House,4,,Over Votes,0
+Douglas,61,U.S. House,4,,Over Votes,0
+Douglas,62,U.S. House,4,,Over Votes,0
+Douglas,63,U.S. House,4,,Over Votes,2
+Douglas,64,U.S. House,4,,Over Votes,0
+Douglas,65,U.S. House,4,,Over Votes,0
+Douglas,66,U.S. House,4,,Over Votes,1
+Douglas,67,U.S. House,4,,Over Votes,1
+Douglas,68,U.S. House,4,,Over Votes,0
+Douglas,69,U.S. House,4,,Over Votes,0
+Douglas,70,U.S. House,4,,Over Votes,0
+Douglas,71,U.S. House,4,,Over Votes,1
+Douglas,72,U.S. House,4,,Over Votes,0
+Douglas,Total,U.S. House,4,,Over Votes,19
+Douglas,1,U.S. House,4,,Write-ins,0
+Douglas,2,U.S. House,4,,Write-ins,0
+Douglas,3,U.S. House,4,,Write-ins,1
+Douglas,4,U.S. House,4,,Write-ins,0
+Douglas,5,U.S. House,4,,Write-ins,0
+Douglas,6,U.S. House,4,,Write-ins,0
+Douglas,7,U.S. House,4,,Write-ins,1
+Douglas,8,U.S. House,4,,Write-ins,0
+Douglas,9,U.S. House,4,,Write-ins,0
+Douglas,10,U.S. House,4,,Write-ins,0
+Douglas,11,U.S. House,4,,Write-ins,0
+Douglas,12,U.S. House,4,,Write-ins,0
+Douglas,13,U.S. House,4,,Write-ins,0
+Douglas,14,U.S. House,4,,Write-ins,0
+Douglas,15,U.S. House,4,,Write-ins,2
+Douglas,16,U.S. House,4,,Write-ins,0
+Douglas,17,U.S. House,4,,Write-ins,3
+Douglas,18,U.S. House,4,,Write-ins,2
+Douglas,19,U.S. House,4,,Write-ins,3
+Douglas,20,U.S. House,4,,Write-ins,0
+Douglas,21,U.S. House,4,,Write-ins,0
+Douglas,22,U.S. House,4,,Write-ins,0
+Douglas,23,U.S. House,4,,Write-ins,0
+Douglas,24,U.S. House,4,,Write-ins,1
+Douglas,25,U.S. House,4,,Write-ins,1
+Douglas,26,U.S. House,4,,Write-ins,0
+Douglas,27,U.S. House,4,,Write-ins,0
+Douglas,28,U.S. House,4,,Write-ins,0
+Douglas,29,U.S. House,4,,Write-ins,1
+Douglas,30,U.S. House,4,,Write-ins,3
+Douglas,31,U.S. House,4,,Write-ins,0
+Douglas,32,U.S. House,4,,Write-ins,0
+Douglas,33,U.S. House,4,,Write-ins,0
+Douglas,34,U.S. House,4,,Write-ins,2
+Douglas,35,U.S. House,4,,Write-ins,0
+Douglas,36,U.S. House,4,,Write-ins,0
+Douglas,37,U.S. House,4,,Write-ins,2
+Douglas,38,U.S. House,4,,Write-ins,6
+Douglas,39,U.S. House,4,,Write-ins,0
+Douglas,40,U.S. House,4,,Write-ins,0
+Douglas,41,U.S. House,4,,Write-ins,2
+Douglas,42,U.S. House,4,,Write-ins,2
+Douglas,43,U.S. House,4,,Write-ins,0
+Douglas,44,U.S. House,4,,Write-ins,1
+Douglas,45,U.S. House,4,,Write-ins,0
+Douglas,46,U.S. House,4,,Write-ins,0
+Douglas,47,U.S. House,4,,Write-ins,0
+Douglas,48,U.S. House,4,,Write-ins,0
+Douglas,49,U.S. House,4,,Write-ins,1
+Douglas,50,U.S. House,4,,Write-ins,3
+Douglas,51,U.S. House,4,,Write-ins,0
+Douglas,52,U.S. House,4,,Write-ins,2
+Douglas,53,U.S. House,4,,Write-ins,4
+Douglas,54,U.S. House,4,,Write-ins,0
+Douglas,55,U.S. House,4,,Write-ins,3
+Douglas,56,U.S. House,4,,Write-ins,1
+Douglas,57,U.S. House,4,,Write-ins,0
+Douglas,58,U.S. House,4,,Write-ins,0
+Douglas,59,U.S. House,4,,Write-ins,5
+Douglas,60,U.S. House,4,,Write-ins,2
+Douglas,61,U.S. House,4,,Write-ins,4
+Douglas,62,U.S. House,4,,Write-ins,1
+Douglas,63,U.S. House,4,,Write-ins,0
+Douglas,64,U.S. House,4,,Write-ins,0
+Douglas,65,U.S. House,4,,Write-ins,0
+Douglas,66,U.S. House,4,,Write-ins,0
+Douglas,67,U.S. House,4,,Write-ins,0
+Douglas,68,U.S. House,4,,Write-ins,0
+Douglas,69,U.S. House,4,,Write-ins,0
+Douglas,70,U.S. House,4,,Write-ins,1
+Douglas,71,U.S. House,4,,Write-ins,0
+Douglas,72,U.S. House,4,,Write-ins,0
+Douglas,Total,U.S. House,4,,Write-ins,60
+Douglas,1,Secretary of State,,REP ,Betsy L Close,137
+Douglas,2,Secretary of State,,REP ,Betsy L Close,28
+Douglas,3,Secretary of State,,REP ,Betsy L Close,263
+Douglas,4,Secretary of State,,REP ,Betsy L Close,289
+Douglas,5,Secretary of State,,REP ,Betsy L Close,324
+Douglas,6,Secretary of State,,REP ,Betsy L Close,112
+Douglas,7,Secretary of State,,REP ,Betsy L Close,159
+Douglas,8,Secretary of State,,REP ,Betsy L Close,24
+Douglas,9,Secretary of State,,REP ,Betsy L Close,415
+Douglas,10,Secretary of State,,REP ,Betsy L Close,50
+Douglas,11,Secretary of State,,REP ,Betsy L Close,246
+Douglas,12,Secretary of State,,REP ,Betsy L Close,371
+Douglas,13,Secretary of State,,REP ,Betsy L Close,503
+Douglas,14,Secretary of State,,REP ,Betsy L Close,238
+Douglas,15,Secretary of State,,REP ,Betsy L Close,241
+Douglas,16,Secretary of State,,REP ,Betsy L Close,586
+Douglas,17,Secretary of State,,REP ,Betsy L Close,1195
+Douglas,18,Secretary of State,,REP ,Betsy L Close,622
+Douglas,19,Secretary of State,,REP ,Betsy L Close,597
+Douglas,20,Secretary of State,,REP ,Betsy L Close,462
+Douglas,21,Secretary of State,,REP ,Betsy L Close,402
+Douglas,22,Secretary of State,,REP ,Betsy L Close,343
+Douglas,23,Secretary of State,,REP ,Betsy L Close,540
+Douglas,24,Secretary of State,,REP ,Betsy L Close,799
+Douglas,25,Secretary of State,,REP ,Betsy L Close,474
+Douglas,26,Secretary of State,,REP ,Betsy L Close,21
+Douglas,27,Secretary of State,,REP ,Betsy L Close,367
+Douglas,28,Secretary of State,,REP ,Betsy L Close,126
+Douglas,29,Secretary of State,,REP ,Betsy L Close,804
+Douglas,30,Secretary of State,,REP ,Betsy L Close,406
+Douglas,31,Secretary of State,,REP ,Betsy L Close,303
+Douglas,32,Secretary of State,,REP ,Betsy L Close,64
+Douglas,33,Secretary of State,,REP ,Betsy L Close,268
+Douglas,34,Secretary of State,,REP ,Betsy L Close,283
+Douglas,35,Secretary of State,,REP ,Betsy L Close,585
+Douglas,36,Secretary of State,,REP ,Betsy L Close,862
+Douglas,37,Secretary of State,,REP ,Betsy L Close,693
+Douglas,38,Secretary of State,,REP ,Betsy L Close,531
+Douglas,39,Secretary of State,,REP ,Betsy L Close,291
+Douglas,40,Secretary of State,,REP ,Betsy L Close,233
+Douglas,41,Secretary of State,,REP ,Betsy L Close,366
+Douglas,42,Secretary of State,,REP ,Betsy L Close,313
+Douglas,43,Secretary of State,,REP ,Betsy L Close,277
+Douglas,44,Secretary of State,,REP ,Betsy L Close,188
+Douglas,45,Secretary of State,,REP ,Betsy L Close,176
+Douglas,46,Secretary of State,,REP ,Betsy L Close,544
+Douglas,47,Secretary of State,,REP ,Betsy L Close,382
+Douglas,48,Secretary of State,,REP ,Betsy L Close,189
+Douglas,49,Secretary of State,,REP ,Betsy L Close,478
+Douglas,50,Secretary of State,,REP ,Betsy L Close,1403
+Douglas,51,Secretary of State,,REP ,Betsy L Close,280
+Douglas,52,Secretary of State,,REP ,Betsy L Close,207
+Douglas,53,Secretary of State,,REP ,Betsy L Close,542
+Douglas,54,Secretary of State,,REP ,Betsy L Close,536
+Douglas,55,Secretary of State,,REP ,Betsy L Close,354
+Douglas,56,Secretary of State,,REP ,Betsy L Close,895
+Douglas,57,Secretary of State,,REP ,Betsy L Close,512
+Douglas,58,Secretary of State,,REP ,Betsy L Close,468
+Douglas,59,Secretary of State,,REP ,Betsy L Close,241
+Douglas,60,Secretary of State,,REP ,Betsy L Close,322
+Douglas,61,Secretary of State,,REP ,Betsy L Close,392
+Douglas,62,Secretary of State,,REP ,Betsy L Close,651
+Douglas,63,Secretary of State,,REP ,Betsy L Close,822
+Douglas,64,Secretary of State,,REP ,Betsy L Close,220
+Douglas,65,Secretary of State,,REP ,Betsy L Close,276
+Douglas,66,Secretary of State,,REP ,Betsy L Close,349
+Douglas,67,Secretary of State,,REP ,Betsy L Close,268
+Douglas,68,Secretary of State,,REP ,Betsy L Close,234
+Douglas,69,Secretary of State,,REP ,Betsy L Close,158
+Douglas,70,Secretary of State,,REP ,Betsy L Close,546
+Douglas,71,Secretary of State,,REP ,Betsy L Close,175
+Douglas,72,Secretary of State,,REP ,Betsy L Close,22
+Douglas,Total,Secretary of State,,REP ,Betsy L Close,28043
+Douglas,1,Secretary of State,,LBL ,Richard Morley,21
+Douglas,2,Secretary of State,,LBL ,Richard Morley,2
+Douglas,3,Secretary of State,,LBL ,Richard Morley,19
+Douglas,4,Secretary of State,,LBL ,Richard Morley,21
+Douglas,5,Secretary of State,,LBL ,Richard Morley,20
+Douglas,6,Secretary of State,,LBL ,Richard Morley,5
+Douglas,7,Secretary of State,,LBL ,Richard Morley,9
+Douglas,8,Secretary of State,,LBL ,Richard Morley,0
+Douglas,9,Secretary of State,,LBL ,Richard Morley,26
+Douglas,10,Secretary of State,,LBL ,Richard Morley,2
+Douglas,11,Secretary of State,,LBL ,Richard Morley,19
+Douglas,12,Secretary of State,,LBL ,Richard Morley,38
+Douglas,13,Secretary of State,,LBL ,Richard Morley,32
+Douglas,14,Secretary of State,,LBL ,Richard Morley,16
+Douglas,15,Secretary of State,,LBL ,Richard Morley,18
+Douglas,16,Secretary of State,,LBL ,Richard Morley,47
+Douglas,17,Secretary of State,,LBL ,Richard Morley,79
+Douglas,18,Secretary of State,,LBL ,Richard Morley,26
+Douglas,19,Secretary of State,,LBL ,Richard Morley,37
+Douglas,20,Secretary of State,,LBL ,Richard Morley,17
+Douglas,21,Secretary of State,,LBL ,Richard Morley,18
+Douglas,22,Secretary of State,,LBL ,Richard Morley,17
+Douglas,23,Secretary of State,,LBL ,Richard Morley,20
+Douglas,24,Secretary of State,,LBL ,Richard Morley,53
+Douglas,25,Secretary of State,,LBL ,Richard Morley,36
+Douglas,26,Secretary of State,,LBL ,Richard Morley,0
+Douglas,27,Secretary of State,,LBL ,Richard Morley,12
+Douglas,28,Secretary of State,,LBL ,Richard Morley,10
+Douglas,29,Secretary of State,,LBL ,Richard Morley,46
+Douglas,30,Secretary of State,,LBL ,Richard Morley,27
+Douglas,31,Secretary of State,,LBL ,Richard Morley,30
+Douglas,32,Secretary of State,,LBL ,Richard Morley,6
+Douglas,33,Secretary of State,,LBL ,Richard Morley,15
+Douglas,34,Secretary of State,,LBL ,Richard Morley,8
+Douglas,35,Secretary of State,,LBL ,Richard Morley,13
+Douglas,36,Secretary of State,,LBL ,Richard Morley,27
+Douglas,37,Secretary of State,,LBL ,Richard Morley,43
+Douglas,38,Secretary of State,,LBL ,Richard Morley,35
+Douglas,39,Secretary of State,,LBL ,Richard Morley,23
+Douglas,40,Secretary of State,,LBL ,Richard Morley,10
+Douglas,41,Secretary of State,,LBL ,Richard Morley,18
+Douglas,42,Secretary of State,,LBL ,Richard Morley,29
+Douglas,43,Secretary of State,,LBL ,Richard Morley,28
+Douglas,44,Secretary of State,,LBL ,Richard Morley,9
+Douglas,45,Secretary of State,,LBL ,Richard Morley,15
+Douglas,46,Secretary of State,,LBL ,Richard Morley,19
+Douglas,47,Secretary of State,,LBL ,Richard Morley,8
+Douglas,48,Secretary of State,,LBL ,Richard Morley,9
+Douglas,49,Secretary of State,,LBL ,Richard Morley,40
+Douglas,50,Secretary of State,,LBL ,Richard Morley,68
+Douglas,51,Secretary of State,,LBL ,Richard Morley,6
+Douglas,52,Secretary of State,,LBL ,Richard Morley,14
+Douglas,53,Secretary of State,,LBL ,Richard Morley,37
+Douglas,54,Secretary of State,,LBL ,Richard Morley,29
+Douglas,55,Secretary of State,,LBL ,Richard Morley,32
+Douglas,56,Secretary of State,,LBL ,Richard Morley,42
+Douglas,57,Secretary of State,,LBL ,Richard Morley,24
+Douglas,58,Secretary of State,,LBL ,Richard Morley,37
+Douglas,59,Secretary of State,,LBL ,Richard Morley,17
+Douglas,60,Secretary of State,,LBL ,Richard Morley,21
+Douglas,61,Secretary of State,,LBL ,Richard Morley,20
+Douglas,62,Secretary of State,,LBL ,Richard Morley,36
+Douglas,63,Secretary of State,,LBL ,Richard Morley,58
+Douglas,64,Secretary of State,,LBL ,Richard Morley,17
+Douglas,65,Secretary of State,,LBL ,Richard Morley,26
+Douglas,66,Secretary of State,,LBL ,Richard Morley,22
+Douglas,67,Secretary of State,,LBL ,Richard Morley,15
+Douglas,68,Secretary of State,,LBL ,Richard Morley,17
+Douglas,69,Secretary of State,,LBL ,Richard Morley,7
+Douglas,70,Secretary of State,,LBL ,Richard Morley,37
+Douglas,71,Secretary of State,,LBL ,Richard Morley,10
+Douglas,72,Secretary of State,,LBL ,Richard Morley,5
+Douglas,Total,Secretary of State,,LBL ,Richard Morley,1675
+Douglas,1,Secretary of State,,DEM ,Bill Bradbury,162
+Douglas,2,Secretary of State,,DEM ,Bill Bradbury,10
+Douglas,3,Secretary of State,,DEM ,Bill Bradbury,434
+Douglas,4,Secretary of State,,DEM ,Bill Bradbury,407
+Douglas,5,Secretary of State,,DEM ,Bill Bradbury,432
+Douglas,6,Secretary of State,,DEM ,Bill Bradbury,112
+Douglas,7,Secretary of State,,DEM ,Bill Bradbury,159
+Douglas,8,Secretary of State,,DEM ,Bill Bradbury,23
+Douglas,9,Secretary of State,,DEM ,Bill Bradbury,275
+Douglas,10,Secretary of State,,DEM ,Bill Bradbury,48
+Douglas,11,Secretary of State,,DEM ,Bill Bradbury,212
+Douglas,12,Secretary of State,,DEM ,Bill Bradbury,318
+Douglas,13,Secretary of State,,DEM ,Bill Bradbury,358
+Douglas,14,Secretary of State,,DEM ,Bill Bradbury,196
+Douglas,15,Secretary of State,,DEM ,Bill Bradbury,212
+Douglas,16,Secretary of State,,DEM ,Bill Bradbury,415
+Douglas,17,Secretary of State,,DEM ,Bill Bradbury,1050
+Douglas,18,Secretary of State,,DEM ,Bill Bradbury,505
+Douglas,19,Secretary of State,,DEM ,Bill Bradbury,407
+Douglas,20,Secretary of State,,DEM ,Bill Bradbury,267
+Douglas,21,Secretary of State,,DEM ,Bill Bradbury,254
+Douglas,22,Secretary of State,,DEM ,Bill Bradbury,228
+Douglas,23,Secretary of State,,DEM ,Bill Bradbury,327
+Douglas,24,Secretary of State,,DEM ,Bill Bradbury,558
+Douglas,25,Secretary of State,,DEM ,Bill Bradbury,501
+Douglas,26,Secretary of State,,DEM ,Bill Bradbury,9
+Douglas,27,Secretary of State,,DEM ,Bill Bradbury,194
+Douglas,28,Secretary of State,,DEM ,Bill Bradbury,72
+Douglas,29,Secretary of State,,DEM ,Bill Bradbury,700
+Douglas,30,Secretary of State,,DEM ,Bill Bradbury,440
+Douglas,31,Secretary of State,,DEM ,Bill Bradbury,312
+Douglas,32,Secretary of State,,DEM ,Bill Bradbury,43
+Douglas,33,Secretary of State,,DEM ,Bill Bradbury,231
+Douglas,34,Secretary of State,,DEM ,Bill Bradbury,164
+Douglas,35,Secretary of State,,DEM ,Bill Bradbury,260
+Douglas,36,Secretary of State,,DEM ,Bill Bradbury,562
+Douglas,37,Secretary of State,,DEM ,Bill Bradbury,565
+Douglas,38,Secretary of State,,DEM ,Bill Bradbury,500
+Douglas,39,Secretary of State,,DEM ,Bill Bradbury,350
+Douglas,40,Secretary of State,,DEM ,Bill Bradbury,235
+Douglas,41,Secretary of State,,DEM ,Bill Bradbury,373
+Douglas,42,Secretary of State,,DEM ,Bill Bradbury,318
+Douglas,43,Secretary of State,,DEM ,Bill Bradbury,361
+Douglas,44,Secretary of State,,DEM ,Bill Bradbury,198
+Douglas,45,Secretary of State,,DEM ,Bill Bradbury,184
+Douglas,46,Secretary of State,,DEM ,Bill Bradbury,463
+Douglas,47,Secretary of State,,DEM ,Bill Bradbury,334
+Douglas,48,Secretary of State,,DEM ,Bill Bradbury,99
+Douglas,49,Secretary of State,,DEM ,Bill Bradbury,387
+Douglas,50,Secretary of State,,DEM ,Bill Bradbury,1130
+Douglas,51,Secretary of State,,DEM ,Bill Bradbury,195
+Douglas,52,Secretary of State,,DEM ,Bill Bradbury,124
+Douglas,53,Secretary of State,,DEM ,Bill Bradbury,490
+Douglas,54,Secretary of State,,DEM ,Bill Bradbury,509
+Douglas,55,Secretary of State,,DEM ,Bill Bradbury,327
+Douglas,56,Secretary of State,,DEM ,Bill Bradbury,553
+Douglas,57,Secretary of State,,DEM ,Bill Bradbury,274
+Douglas,58,Secretary of State,,DEM ,Bill Bradbury,367
+Douglas,59,Secretary of State,,DEM ,Bill Bradbury,129
+Douglas,60,Secretary of State,,DEM ,Bill Bradbury,299
+Douglas,61,Secretary of State,,DEM ,Bill Bradbury,352
+Douglas,62,Secretary of State,,DEM ,Bill Bradbury,396
+Douglas,63,Secretary of State,,DEM ,Bill Bradbury,809
+Douglas,64,Secretary of State,,DEM ,Bill Bradbury,172
+Douglas,65,Secretary of State,,DEM ,Bill Bradbury,214
+Douglas,66,Secretary of State,,DEM ,Bill Bradbury,325
+Douglas,67,Secretary of State,,DEM ,Bill Bradbury,205
+Douglas,68,Secretary of State,,DEM ,Bill Bradbury,173
+Douglas,69,Secretary of State,,DEM ,Bill Bradbury,107
+Douglas,70,Secretary of State,,DEM ,Bill Bradbury,380
+Douglas,71,Secretary of State,,DEM ,Bill Bradbury,124
+Douglas,72,Secretary of State,,DEM ,Bill Bradbury,17
+Douglas,Total,Secretary of State,,DEM ,Bill Bradbury,22895
+Douglas,1,Secretary of State,,,Under Votes,12
+Douglas,2,Secretary of State,,,Under Votes,3
+Douglas,3,Secretary of State,,,Under Votes,27
+Douglas,4,Secretary of State,,,Under Votes,18
+Douglas,5,Secretary of State,,,Under Votes,32
+Douglas,6,Secretary of State,,,Under Votes,5
+Douglas,7,Secretary of State,,,Under Votes,15
+Douglas,8,Secretary of State,,,Under Votes,3
+Douglas,9,Secretary of State,,,Under Votes,40
+Douglas,10,Secretary of State,,,Under Votes,3
+Douglas,11,Secretary of State,,,Under Votes,23
+Douglas,12,Secretary of State,,,Under Votes,32
+Douglas,13,Secretary of State,,,Under Votes,51
+Douglas,14,Secretary of State,,,Under Votes,23
+Douglas,15,Secretary of State,,,Under Votes,29
+Douglas,16,Secretary of State,,,Under Votes,55
+Douglas,17,Secretary of State,,,Under Votes,126
+Douglas,18,Secretary of State,,,Under Votes,88
+Douglas,19,Secretary of State,,,Under Votes,65
+Douglas,20,Secretary of State,,,Under Votes,39
+Douglas,21,Secretary of State,,,Under Votes,33
+Douglas,22,Secretary of State,,,Under Votes,35
+Douglas,23,Secretary of State,,,Under Votes,42
+Douglas,24,Secretary of State,,,Under Votes,96
+Douglas,25,Secretary of State,,,Under Votes,57
+Douglas,26,Secretary of State,,,Under Votes,2
+Douglas,27,Secretary of State,,,Under Votes,34
+Douglas,28,Secretary of State,,,Under Votes,15
+Douglas,29,Secretary of State,,,Under Votes,77
+Douglas,30,Secretary of State,,,Under Votes,32
+Douglas,31,Secretary of State,,,Under Votes,34
+Douglas,32,Secretary of State,,,Under Votes,10
+Douglas,33,Secretary of State,,,Under Votes,31
+Douglas,34,Secretary of State,,,Under Votes,28
+Douglas,35,Secretary of State,,,Under Votes,34
+Douglas,36,Secretary of State,,,Under Votes,74
+Douglas,37,Secretary of State,,,Under Votes,70
+Douglas,38,Secretary of State,,,Under Votes,45
+Douglas,39,Secretary of State,,,Under Votes,37
+Douglas,40,Secretary of State,,,Under Votes,21
+Douglas,41,Secretary of State,,,Under Votes,35
+Douglas,42,Secretary of State,,,Under Votes,28
+Douglas,43,Secretary of State,,,Under Votes,48
+Douglas,44,Secretary of State,,,Under Votes,17
+Douglas,45,Secretary of State,,,Under Votes,26
+Douglas,46,Secretary of State,,,Under Votes,50
+Douglas,47,Secretary of State,,,Under Votes,49
+Douglas,48,Secretary of State,,,Under Votes,7
+Douglas,49,Secretary of State,,,Under Votes,57
+Douglas,50,Secretary of State,,,Under Votes,145
+Douglas,51,Secretary of State,,,Under Votes,21
+Douglas,52,Secretary of State,,,Under Votes,9
+Douglas,53,Secretary of State,,,Under Votes,59
+Douglas,54,Secretary of State,,,Under Votes,54
+Douglas,55,Secretary of State,,,Under Votes,40
+Douglas,56,Secretary of State,,,Under Votes,95
+Douglas,57,Secretary of State,,,Under Votes,40
+Douglas,58,Secretary of State,,,Under Votes,56
+Douglas,59,Secretary of State,,,Under Votes,31
+Douglas,60,Secretary of State,,,Under Votes,32
+Douglas,61,Secretary of State,,,Under Votes,43
+Douglas,62,Secretary of State,,,Under Votes,69
+Douglas,63,Secretary of State,,,Under Votes,109
+Douglas,64,Secretary of State,,,Under Votes,27
+Douglas,65,Secretary of State,,,Under Votes,31
+Douglas,66,Secretary of State,,,Under Votes,51
+Douglas,67,Secretary of State,,,Under Votes,23
+Douglas,68,Secretary of State,,,Under Votes,19
+Douglas,69,Secretary of State,,,Under Votes,27
+Douglas,70,Secretary of State,,,Under Votes,62
+Douglas,71,Secretary of State,,,Under Votes,29
+Douglas,72,Secretary of State,,,Under Votes,4
+Douglas,Total,Secretary of State,,,Under Votes,2889
+Douglas,1,Secretary of State,,,Over Votes,0
+Douglas,2,Secretary of State,,,Over Votes,0
+Douglas,3,Secretary of State,,,Over Votes,0
+Douglas,4,Secretary of State,,,Over Votes,0
+Douglas,5,Secretary of State,,,Over Votes,0
+Douglas,6,Secretary of State,,,Over Votes,2
+Douglas,7,Secretary of State,,,Over Votes,0
+Douglas,8,Secretary of State,,,Over Votes,0
+Douglas,9,Secretary of State,,,Over Votes,1
+Douglas,10,Secretary of State,,,Over Votes,0
+Douglas,11,Secretary of State,,,Over Votes,0
+Douglas,12,Secretary of State,,,Over Votes,0
+Douglas,13,Secretary of State,,,Over Votes,0
+Douglas,14,Secretary of State,,,Over Votes,2
+Douglas,15,Secretary of State,,,Over Votes,0
+Douglas,16,Secretary of State,,,Over Votes,0
+Douglas,17,Secretary of State,,,Over Votes,0
+Douglas,18,Secretary of State,,,Over Votes,0
+Douglas,19,Secretary of State,,,Over Votes,0
+Douglas,20,Secretary of State,,,Over Votes,1
+Douglas,21,Secretary of State,,,Over Votes,0
+Douglas,22,Secretary of State,,,Over Votes,0
+Douglas,23,Secretary of State,,,Over Votes,0
+Douglas,24,Secretary of State,,,Over Votes,0
+Douglas,25,Secretary of State,,,Over Votes,0
+Douglas,26,Secretary of State,,,Over Votes,0
+Douglas,27,Secretary of State,,,Over Votes,2
+Douglas,28,Secretary of State,,,Over Votes,0
+Douglas,29,Secretary of State,,,Over Votes,0
+Douglas,30,Secretary of State,,,Over Votes,0
+Douglas,31,Secretary of State,,,Over Votes,0
+Douglas,32,Secretary of State,,,Over Votes,0
+Douglas,33,Secretary of State,,,Over Votes,0
+Douglas,34,Secretary of State,,,Over Votes,0
+Douglas,35,Secretary of State,,,Over Votes,0
+Douglas,36,Secretary of State,,,Over Votes,1
+Douglas,37,Secretary of State,,,Over Votes,0
+Douglas,38,Secretary of State,,,Over Votes,1
+Douglas,39,Secretary of State,,,Over Votes,0
+Douglas,40,Secretary of State,,,Over Votes,0
+Douglas,41,Secretary of State,,,Over Votes,0
+Douglas,42,Secretary of State,,,Over Votes,0
+Douglas,43,Secretary of State,,,Over Votes,0
+Douglas,44,Secretary of State,,,Over Votes,0
+Douglas,45,Secretary of State,,,Over Votes,0
+Douglas,46,Secretary of State,,,Over Votes,1
+Douglas,47,Secretary of State,,,Over Votes,0
+Douglas,48,Secretary of State,,,Over Votes,0
+Douglas,49,Secretary of State,,,Over Votes,0
+Douglas,50,Secretary of State,,,Over Votes,2
+Douglas,51,Secretary of State,,,Over Votes,0
+Douglas,52,Secretary of State,,,Over Votes,0
+Douglas,53,Secretary of State,,,Over Votes,0
+Douglas,54,Secretary of State,,,Over Votes,0
+Douglas,55,Secretary of State,,,Over Votes,1
+Douglas,56,Secretary of State,,,Over Votes,0
+Douglas,57,Secretary of State,,,Over Votes,2
+Douglas,58,Secretary of State,,,Over Votes,0
+Douglas,59,Secretary of State,,,Over Votes,0
+Douglas,60,Secretary of State,,,Over Votes,0
+Douglas,61,Secretary of State,,,Over Votes,0
+Douglas,62,Secretary of State,,,Over Votes,0
+Douglas,63,Secretary of State,,,Over Votes,0
+Douglas,64,Secretary of State,,,Over Votes,0
+Douglas,65,Secretary of State,,,Over Votes,0
+Douglas,66,Secretary of State,,,Over Votes,0
+Douglas,67,Secretary of State,,,Over Votes,0
+Douglas,68,Secretary of State,,,Over Votes,0
+Douglas,69,Secretary of State,,,Over Votes,0
+Douglas,70,Secretary of State,,,Over Votes,0
+Douglas,71,Secretary of State,,,Over Votes,0
+Douglas,72,Secretary of State,,,Over Votes,0
+Douglas,Total,Secretary of State,,,Over Votes,16
+Douglas,1,Secretary of State,,,Write-ins,1
+Douglas,2,Secretary of State,,,Write-ins,0
+Douglas,3,Secretary of State,,,Write-ins,0
+Douglas,4,Secretary of State,,,Write-ins,1
+Douglas,5,Secretary of State,,,Write-ins,1
+Douglas,6,Secretary of State,,,Write-ins,0
+Douglas,7,Secretary of State,,,Write-ins,0
+Douglas,8,Secretary of State,,,Write-ins,0
+Douglas,9,Secretary of State,,,Write-ins,1
+Douglas,10,Secretary of State,,,Write-ins,0
+Douglas,11,Secretary of State,,,Write-ins,0
+Douglas,12,Secretary of State,,,Write-ins,0
+Douglas,13,Secretary of State,,,Write-ins,1
+Douglas,14,Secretary of State,,,Write-ins,1
+Douglas,15,Secretary of State,,,Write-ins,0
+Douglas,16,Secretary of State,,,Write-ins,1
+Douglas,17,Secretary of State,,,Write-ins,2
+Douglas,18,Secretary of State,,,Write-ins,0
+Douglas,19,Secretary of State,,,Write-ins,2
+Douglas,20,Secretary of State,,,Write-ins,0
+Douglas,21,Secretary of State,,,Write-ins,1
+Douglas,22,Secretary of State,,,Write-ins,0
+Douglas,23,Secretary of State,,,Write-ins,0
+Douglas,24,Secretary of State,,,Write-ins,6
+Douglas,25,Secretary of State,,,Write-ins,0
+Douglas,26,Secretary of State,,,Write-ins,0
+Douglas,27,Secretary of State,,,Write-ins,0
+Douglas,28,Secretary of State,,,Write-ins,1
+Douglas,29,Secretary of State,,,Write-ins,0
+Douglas,30,Secretary of State,,,Write-ins,1
+Douglas,31,Secretary of State,,,Write-ins,1
+Douglas,32,Secretary of State,,,Write-ins,0
+Douglas,33,Secretary of State,,,Write-ins,0
+Douglas,34,Secretary of State,,,Write-ins,0
+Douglas,35,Secretary of State,,,Write-ins,1
+Douglas,36,Secretary of State,,,Write-ins,1
+Douglas,37,Secretary of State,,,Write-ins,4
+Douglas,38,Secretary of State,,,Write-ins,1
+Douglas,39,Secretary of State,,,Write-ins,1
+Douglas,40,Secretary of State,,,Write-ins,0
+Douglas,41,Secretary of State,,,Write-ins,2
+Douglas,42,Secretary of State,,,Write-ins,4
+Douglas,43,Secretary of State,,,Write-ins,0
+Douglas,44,Secretary of State,,,Write-ins,0
+Douglas,45,Secretary of State,,,Write-ins,1
+Douglas,46,Secretary of State,,,Write-ins,2
+Douglas,47,Secretary of State,,,Write-ins,0
+Douglas,48,Secretary of State,,,Write-ins,0
+Douglas,49,Secretary of State,,,Write-ins,0
+Douglas,50,Secretary of State,,,Write-ins,4
+Douglas,51,Secretary of State,,,Write-ins,0
+Douglas,52,Secretary of State,,,Write-ins,0
+Douglas,53,Secretary of State,,,Write-ins,0
+Douglas,54,Secretary of State,,,Write-ins,0
+Douglas,55,Secretary of State,,,Write-ins,3
+Douglas,56,Secretary of State,,,Write-ins,1
+Douglas,57,Secretary of State,,,Write-ins,1
+Douglas,58,Secretary of State,,,Write-ins,0
+Douglas,59,Secretary of State,,,Write-ins,1
+Douglas,60,Secretary of State,,,Write-ins,0
+Douglas,61,Secretary of State,,,Write-ins,1
+Douglas,62,Secretary of State,,,Write-ins,1
+Douglas,63,Secretary of State,,,Write-ins,3
+Douglas,64,Secretary of State,,,Write-ins,0
+Douglas,65,Secretary of State,,,Write-ins,1
+Douglas,66,Secretary of State,,,Write-ins,0
+Douglas,67,Secretary of State,,,Write-ins,0
+Douglas,68,Secretary of State,,,Write-ins,1
+Douglas,69,Secretary of State,,,Write-ins,0
+Douglas,70,Secretary of State,,,Write-ins,1
+Douglas,71,Secretary of State,,,Write-ins,0
+Douglas,72,Secretary of State,,,Write-ins,0
+Douglas,Total,Secretary of State,,,Write-ins,56
+Douglas,1,State Treasurer,,DEM ,Randall Edwards,142
+Douglas,2,State Treasurer,,DEM ,Randall Edwards,10
+Douglas,3,State Treasurer,,DEM ,Randall Edwards,390
+Douglas,4,State Treasurer,,DEM ,Randall Edwards,358
+Douglas,5,State Treasurer,,DEM ,Randall Edwards,379
+Douglas,6,State Treasurer,,DEM ,Randall Edwards,88
+Douglas,7,State Treasurer,,DEM ,Randall Edwards,137
+Douglas,8,State Treasurer,,DEM ,Randall Edwards,19
+Douglas,9,State Treasurer,,DEM ,Randall Edwards,262
+Douglas,10,State Treasurer,,DEM ,Randall Edwards,41
+Douglas,11,State Treasurer,,DEM ,Randall Edwards,181
+Douglas,12,State Treasurer,,DEM ,Randall Edwards,278
+Douglas,13,State Treasurer,,DEM ,Randall Edwards,312
+Douglas,14,State Treasurer,,DEM ,Randall Edwards,150
+Douglas,15,State Treasurer,,DEM ,Randall Edwards,178
+Douglas,16,State Treasurer,,DEM ,Randall Edwards,350
+Douglas,17,State Treasurer,,DEM ,Randall Edwards,939
+Douglas,18,State Treasurer,,DEM ,Randall Edwards,451
+Douglas,19,State Treasurer,,DEM ,Randall Edwards,351
+Douglas,20,State Treasurer,,DEM ,Randall Edwards,225
+Douglas,21,State Treasurer,,DEM ,Randall Edwards,218
+Douglas,22,State Treasurer,,DEM ,Randall Edwards,214
+Douglas,23,State Treasurer,,DEM ,Randall Edwards,284
+Douglas,24,State Treasurer,,DEM ,Randall Edwards,504
+Douglas,25,State Treasurer,,DEM ,Randall Edwards,417
+Douglas,26,State Treasurer,,DEM ,Randall Edwards,7
+Douglas,27,State Treasurer,,DEM ,Randall Edwards,151
+Douglas,28,State Treasurer,,DEM ,Randall Edwards,67
+Douglas,29,State Treasurer,,DEM ,Randall Edwards,597
+Douglas,30,State Treasurer,,DEM ,Randall Edwards,380
+Douglas,31,State Treasurer,,DEM ,Randall Edwards,241
+Douglas,32,State Treasurer,,DEM ,Randall Edwards,36
+Douglas,33,State Treasurer,,DEM ,Randall Edwards,198
+Douglas,34,State Treasurer,,DEM ,Randall Edwards,153
+Douglas,35,State Treasurer,,DEM ,Randall Edwards,223
+Douglas,36,State Treasurer,,DEM ,Randall Edwards,466
+Douglas,37,State Treasurer,,DEM ,Randall Edwards,518
+Douglas,38,State Treasurer,,DEM ,Randall Edwards,434
+Douglas,39,State Treasurer,,DEM ,Randall Edwards,270
+Douglas,40,State Treasurer,,DEM ,Randall Edwards,193
+Douglas,41,State Treasurer,,DEM ,Randall Edwards,321
+Douglas,42,State Treasurer,,DEM ,Randall Edwards,269
+Douglas,43,State Treasurer,,DEM ,Randall Edwards,296
+Douglas,44,State Treasurer,,DEM ,Randall Edwards,186
+Douglas,45,State Treasurer,,DEM ,Randall Edwards,153
+Douglas,46,State Treasurer,,DEM ,Randall Edwards,393
+Douglas,47,State Treasurer,,DEM ,Randall Edwards,286
+Douglas,48,State Treasurer,,DEM ,Randall Edwards,88
+Douglas,49,State Treasurer,,DEM ,Randall Edwards,313
+Douglas,50,State Treasurer,,DEM ,Randall Edwards,967
+Douglas,51,State Treasurer,,DEM ,Randall Edwards,182
+Douglas,52,State Treasurer,,DEM ,Randall Edwards,111
+Douglas,53,State Treasurer,,DEM ,Randall Edwards,396
+Douglas,54,State Treasurer,,DEM ,Randall Edwards,441
+Douglas,55,State Treasurer,,DEM ,Randall Edwards,278
+Douglas,56,State Treasurer,,DEM ,Randall Edwards,474
+Douglas,57,State Treasurer,,DEM ,Randall Edwards,236
+Douglas,58,State Treasurer,,DEM ,Randall Edwards,336
+Douglas,59,State Treasurer,,DEM ,Randall Edwards,106
+Douglas,60,State Treasurer,,DEM ,Randall Edwards,262
+Douglas,61,State Treasurer,,DEM ,Randall Edwards,282
+Douglas,62,State Treasurer,,DEM ,Randall Edwards,345
+Douglas,63,State Treasurer,,DEM ,Randall Edwards,666
+Douglas,64,State Treasurer,,DEM ,Randall Edwards,146
+Douglas,65,State Treasurer,,DEM ,Randall Edwards,179
+Douglas,66,State Treasurer,,DEM ,Randall Edwards,273
+Douglas,67,State Treasurer,,DEM ,Randall Edwards,189
+Douglas,68,State Treasurer,,DEM ,Randall Edwards,158
+Douglas,69,State Treasurer,,DEM ,Randall Edwards,88
+Douglas,70,State Treasurer,,DEM ,Randall Edwards,320
+Douglas,71,State Treasurer,,DEM ,Randall Edwards,116
+Douglas,72,State Treasurer,,DEM ,Randall Edwards,12
+Douglas,Total,State Treasurer,,DEM ,Randall Edwards,19680
+Douglas,1,State Treasurer,,REP ,Jeff Caton,136
+Douglas,2,State Treasurer,,REP ,Jeff Caton,23
+Douglas,3,State Treasurer,,REP ,Jeff Caton,258
+Douglas,4,State Treasurer,,REP ,Jeff Caton,273
+Douglas,5,State Treasurer,,REP ,Jeff Caton,321
+Douglas,6,State Treasurer,,REP ,Jeff Caton,118
+Douglas,7,State Treasurer,,REP ,Jeff Caton,154
+Douglas,8,State Treasurer,,REP ,Jeff Caton,25
+Douglas,9,State Treasurer,,REP ,Jeff Caton,397
+Douglas,10,State Treasurer,,REP ,Jeff Caton,53
+Douglas,11,State Treasurer,,REP ,Jeff Caton,250
+Douglas,12,State Treasurer,,REP ,Jeff Caton,380
+Douglas,13,State Treasurer,,REP ,Jeff Caton,487
+Douglas,14,State Treasurer,,REP ,Jeff Caton,248
+Douglas,15,State Treasurer,,REP ,Jeff Caton,228
+Douglas,16,State Treasurer,,REP ,Jeff Caton,582
+Douglas,17,State Treasurer,,REP ,Jeff Caton,1190
+Douglas,18,State Treasurer,,REP ,Jeff Caton,613
+Douglas,19,State Treasurer,,REP ,Jeff Caton,592
+Douglas,20,State Treasurer,,REP ,Jeff Caton,446
+Douglas,21,State Treasurer,,REP ,Jeff Caton,398
+Douglas,22,State Treasurer,,REP ,Jeff Caton,332
+Douglas,23,State Treasurer,,REP ,Jeff Caton,524
+Douglas,24,State Treasurer,,REP ,Jeff Caton,766
+Douglas,25,State Treasurer,,REP ,Jeff Caton,496
+Douglas,26,State Treasurer,,REP ,Jeff Caton,21
+Douglas,27,State Treasurer,,REP ,Jeff Caton,371
+Douglas,28,State Treasurer,,REP ,Jeff Caton,119
+Douglas,29,State Treasurer,,REP ,Jeff Caton,808
+Douglas,30,State Treasurer,,REP ,Jeff Caton,411
+Douglas,31,State Treasurer,,REP ,Jeff Caton,332
+Douglas,32,State Treasurer,,REP ,Jeff Caton,64
+Douglas,33,State Treasurer,,REP ,Jeff Caton,259
+Douglas,34,State Treasurer,,REP ,Jeff Caton,269
+Douglas,35,State Treasurer,,REP ,Jeff Caton,579
+Douglas,36,State Treasurer,,REP ,Jeff Caton,858
+Douglas,37,State Treasurer,,REP ,Jeff Caton,695
+Douglas,38,State Treasurer,,REP ,Jeff Caton,509
+Douglas,39,State Treasurer,,REP ,Jeff Caton,304
+Douglas,40,State Treasurer,,REP ,Jeff Caton,234
+Douglas,41,State Treasurer,,REP ,Jeff Caton,350
+Douglas,42,State Treasurer,,REP ,Jeff Caton,308
+Douglas,43,State Treasurer,,REP ,Jeff Caton,283
+Douglas,44,State Treasurer,,REP ,Jeff Caton,175
+Douglas,45,State Treasurer,,REP ,Jeff Caton,182
+Douglas,46,State Treasurer,,REP ,Jeff Caton,552
+Douglas,47,State Treasurer,,REP ,Jeff Caton,381
+Douglas,48,State Treasurer,,REP ,Jeff Caton,181
+Douglas,49,State Treasurer,,REP ,Jeff Caton,487
+Douglas,50,State Treasurer,,REP ,Jeff Caton,1366
+Douglas,51,State Treasurer,,REP ,Jeff Caton,263
+Douglas,52,State Treasurer,,REP ,Jeff Caton,201
+Douglas,53,State Treasurer,,REP ,Jeff Caton,549
+Douglas,54,State Treasurer,,REP ,Jeff Caton,505
+Douglas,55,State Treasurer,,REP ,Jeff Caton,349
+Douglas,56,State Treasurer,,REP ,Jeff Caton,883
+Douglas,57,State Treasurer,,REP ,Jeff Caton,496
+Douglas,58,State Treasurer,,REP ,Jeff Caton,434
+Douglas,59,State Treasurer,,REP ,Jeff Caton,235
+Douglas,60,State Treasurer,,REP ,Jeff Caton,331
+Douglas,61,State Treasurer,,REP ,Jeff Caton,414
+Douglas,62,State Treasurer,,REP ,Jeff Caton,648
+Douglas,63,State Treasurer,,REP ,Jeff Caton,841
+Douglas,64,State Treasurer,,REP ,Jeff Caton,213
+Douglas,65,State Treasurer,,REP ,Jeff Caton,283
+Douglas,66,State Treasurer,,REP ,Jeff Caton,364
+Douglas,67,State Treasurer,,REP ,Jeff Caton,259
+Douglas,68,State Treasurer,,REP ,Jeff Caton,219
+Douglas,69,State Treasurer,,REP ,Jeff Caton,159
+Douglas,70,State Treasurer,,REP ,Jeff Caton,537
+Douglas,71,State Treasurer,,REP ,Jeff Caton,168
+Douglas,72,State Treasurer,,REP ,Jeff Caton,21
+Douglas,Total,State Treasurer,,REP ,Jeff Caton,27760
+Douglas,1,State Treasurer,,CON ,Carole D Winegarden,12
+Douglas,2,State Treasurer,,CON ,Carole D Winegarden,3
+Douglas,3,State Treasurer,,CON ,Carole D Winegarden,39
+Douglas,4,State Treasurer,,CON ,Carole D Winegarden,40
+Douglas,5,State Treasurer,,CON ,Carole D Winegarden,25
+Douglas,6,State Treasurer,,CON ,Carole D Winegarden,6
+Douglas,7,State Treasurer,,CON ,Carole D Winegarden,14
+Douglas,8,State Treasurer,,CON ,Carole D Winegarden,0
+Douglas,9,State Treasurer,,CON ,Carole D Winegarden,26
+Douglas,10,State Treasurer,,CON ,Carole D Winegarden,2
+Douglas,11,State Treasurer,,CON ,Carole D Winegarden,20
+Douglas,12,State Treasurer,,CON ,Carole D Winegarden,26
+Douglas,13,State Treasurer,,CON ,Carole D Winegarden,31
+Douglas,14,State Treasurer,,CON ,Carole D Winegarden,22
+Douglas,15,State Treasurer,,CON ,Carole D Winegarden,18
+Douglas,16,State Treasurer,,CON ,Carole D Winegarden,51
+Douglas,17,State Treasurer,,CON ,Carole D Winegarden,89
+Douglas,18,State Treasurer,,CON ,Carole D Winegarden,40
+Douglas,19,State Treasurer,,CON ,Carole D Winegarden,55
+Douglas,20,State Treasurer,,CON ,Carole D Winegarden,30
+Douglas,21,State Treasurer,,CON ,Carole D Winegarden,17
+Douglas,22,State Treasurer,,CON ,Carole D Winegarden,11
+Douglas,23,State Treasurer,,CON ,Carole D Winegarden,21
+Douglas,24,State Treasurer,,CON ,Carole D Winegarden,39
+Douglas,25,State Treasurer,,CON ,Carole D Winegarden,31
+Douglas,26,State Treasurer,,CON ,Carole D Winegarden,0
+Douglas,27,State Treasurer,,CON ,Carole D Winegarden,16
+Douglas,28,State Treasurer,,CON ,Carole D Winegarden,11
+Douglas,29,State Treasurer,,CON ,Carole D Winegarden,62
+Douglas,30,State Treasurer,,CON ,Carole D Winegarden,39
+Douglas,31,State Treasurer,,CON ,Carole D Winegarden,42
+Douglas,32,State Treasurer,,CON ,Carole D Winegarden,5
+Douglas,33,State Treasurer,,CON ,Carole D Winegarden,29
+Douglas,34,State Treasurer,,CON ,Carole D Winegarden,10
+Douglas,35,State Treasurer,,CON ,Carole D Winegarden,13
+Douglas,36,State Treasurer,,CON ,Carole D Winegarden,36
+Douglas,37,State Treasurer,,CON ,Carole D Winegarden,32
+Douglas,38,State Treasurer,,CON ,Carole D Winegarden,41
+Douglas,39,State Treasurer,,CON ,Carole D Winegarden,40
+Douglas,40,State Treasurer,,CON ,Carole D Winegarden,16
+Douglas,41,State Treasurer,,CON ,Carole D Winegarden,28
+Douglas,42,State Treasurer,,CON ,Carole D Winegarden,33
+Douglas,43,State Treasurer,,CON ,Carole D Winegarden,39
+Douglas,44,State Treasurer,,CON ,Carole D Winegarden,11
+Douglas,45,State Treasurer,,CON ,Carole D Winegarden,18
+Douglas,46,State Treasurer,,CON ,Carole D Winegarden,23
+Douglas,47,State Treasurer,,CON ,Carole D Winegarden,20
+Douglas,48,State Treasurer,,CON ,Carole D Winegarden,11
+Douglas,49,State Treasurer,,CON ,Carole D Winegarden,51
+Douglas,50,State Treasurer,,CON ,Carole D Winegarden,121
+Douglas,51,State Treasurer,,CON ,Carole D Winegarden,17
+Douglas,52,State Treasurer,,CON ,Carole D Winegarden,12
+Douglas,53,State Treasurer,,CON ,Carole D Winegarden,59
+Douglas,54,State Treasurer,,CON ,Carole D Winegarden,65
+Douglas,55,State Treasurer,,CON ,Carole D Winegarden,46
+Douglas,56,State Treasurer,,CON ,Carole D Winegarden,47
+Douglas,57,State Treasurer,,CON ,Carole D Winegarden,32
+Douglas,58,State Treasurer,,CON ,Carole D Winegarden,37
+Douglas,59,State Treasurer,,CON ,Carole D Winegarden,27
+Douglas,60,State Treasurer,,CON ,Carole D Winegarden,14
+Douglas,61,State Treasurer,,CON ,Carole D Winegarden,23
+Douglas,62,State Treasurer,,CON ,Carole D Winegarden,35
+Douglas,63,State Treasurer,,CON ,Carole D Winegarden,79
+Douglas,64,State Treasurer,,CON ,Carole D Winegarden,22
+Douglas,65,State Treasurer,,CON ,Carole D Winegarden,21
+Douglas,66,State Treasurer,,CON ,Carole D Winegarden,23
+Douglas,67,State Treasurer,,CON ,Carole D Winegarden,15
+Douglas,68,State Treasurer,,CON ,Carole D Winegarden,16
+Douglas,69,State Treasurer,,CON ,Carole D Winegarden,12
+Douglas,70,State Treasurer,,CON ,Carole D Winegarden,45
+Douglas,71,State Treasurer,,CON ,Carole D Winegarden,19
+Douglas,72,State Treasurer,,CON ,Carole D Winegarden,1
+Douglas,Total,State Treasurer,,CON ,Carole D Winegarden,2082
+Douglas,1,State Treasurer,,LIB ,Mitch Shults,12
+Douglas,2,State Treasurer,,LIB ,Mitch Shults,2
+Douglas,3,State Treasurer,,LIB ,Mitch Shults,12
+Douglas,4,State Treasurer,,LIB ,Mitch Shults,21
+Douglas,5,State Treasurer,,LIB ,Mitch Shults,10
+Douglas,6,State Treasurer,,LIB ,Mitch Shults,7
+Douglas,7,State Treasurer,,LIB ,Mitch Shults,10
+Douglas,8,State Treasurer,,LIB ,Mitch Shults,2
+Douglas,9,State Treasurer,,LIB ,Mitch Shults,17
+Douglas,10,State Treasurer,,LIB ,Mitch Shults,2
+Douglas,11,State Treasurer,,LIB ,Mitch Shults,14
+Douglas,12,State Treasurer,,LIB ,Mitch Shults,30
+Douglas,13,State Treasurer,,LIB ,Mitch Shults,35
+Douglas,14,State Treasurer,,LIB ,Mitch Shults,17
+Douglas,15,State Treasurer,,LIB ,Mitch Shults,26
+Douglas,16,State Treasurer,,LIB ,Mitch Shults,31
+Douglas,17,State Treasurer,,LIB ,Mitch Shults,39
+Douglas,18,State Treasurer,,LIB ,Mitch Shults,27
+Douglas,19,State Treasurer,,LIB ,Mitch Shults,23
+Douglas,20,State Treasurer,,LIB ,Mitch Shults,20
+Douglas,21,State Treasurer,,LIB ,Mitch Shults,14
+Douglas,22,State Treasurer,,LIB ,Mitch Shults,11
+Douglas,23,State Treasurer,,LIB ,Mitch Shults,16
+Douglas,24,State Treasurer,,LIB ,Mitch Shults,51
+Douglas,25,State Treasurer,,LIB ,Mitch Shults,30
+Douglas,26,State Treasurer,,LIB ,Mitch Shults,0
+Douglas,27,State Treasurer,,LIB ,Mitch Shults,7
+Douglas,28,State Treasurer,,LIB ,Mitch Shults,2
+Douglas,29,State Treasurer,,LIB ,Mitch Shults,40
+Douglas,30,State Treasurer,,LIB ,Mitch Shults,14
+Douglas,31,State Treasurer,,LIB ,Mitch Shults,13
+Douglas,32,State Treasurer,,LIB ,Mitch Shults,2
+Douglas,33,State Treasurer,,LIB ,Mitch Shults,9
+Douglas,34,State Treasurer,,LIB ,Mitch Shults,5
+Douglas,35,State Treasurer,,LIB ,Mitch Shults,9
+Douglas,36,State Treasurer,,LIB ,Mitch Shults,20
+Douglas,37,State Treasurer,,LIB ,Mitch Shults,21
+Douglas,38,State Treasurer,,LIB ,Mitch Shults,41
+Douglas,39,State Treasurer,,LIB ,Mitch Shults,18
+Douglas,40,State Treasurer,,LIB ,Mitch Shults,14
+Douglas,41,State Treasurer,,LIB ,Mitch Shults,25
+Douglas,42,State Treasurer,,LIB ,Mitch Shults,27
+Douglas,43,State Treasurer,,LIB ,Mitch Shults,28
+Douglas,44,State Treasurer,,LIB ,Mitch Shults,12
+Douglas,45,State Treasurer,,LIB ,Mitch Shults,9
+Douglas,46,State Treasurer,,LIB ,Mitch Shults,16
+Douglas,47,State Treasurer,,LIB ,Mitch Shults,12
+Douglas,48,State Treasurer,,LIB ,Mitch Shults,4
+Douglas,49,State Treasurer,,LIB ,Mitch Shults,24
+Douglas,50,State Treasurer,,LIB ,Mitch Shults,53
+Douglas,51,State Treasurer,,LIB ,Mitch Shults,4
+Douglas,52,State Treasurer,,LIB ,Mitch Shults,10
+Douglas,53,State Treasurer,,LIB ,Mitch Shults,33
+Douglas,54,State Treasurer,,LIB ,Mitch Shults,26
+Douglas,55,State Treasurer,,LIB ,Mitch Shults,21
+Douglas,56,State Treasurer,,LIB ,Mitch Shults,39
+Douglas,57,State Treasurer,,LIB ,Mitch Shults,17
+Douglas,58,State Treasurer,,LIB ,Mitch Shults,29
+Douglas,59,State Treasurer,,LIB ,Mitch Shults,13
+Douglas,60,State Treasurer,,LIB ,Mitch Shults,15
+Douglas,61,State Treasurer,,LIB ,Mitch Shults,12
+Douglas,62,State Treasurer,,LIB ,Mitch Shults,28
+Douglas,63,State Treasurer,,LIB ,Mitch Shults,57
+Douglas,64,State Treasurer,,LIB ,Mitch Shults,11
+Douglas,65,State Treasurer,,LIB ,Mitch Shults,11
+Douglas,66,State Treasurer,,LIB ,Mitch Shults,17
+Douglas,67,State Treasurer,,LIB ,Mitch Shults,9
+Douglas,68,State Treasurer,,LIB ,Mitch Shults,18
+Douglas,69,State Treasurer,,LIB ,Mitch Shults,6
+Douglas,70,State Treasurer,,LIB ,Mitch Shults,34
+Douglas,71,State Treasurer,,LIB ,Mitch Shults,2
+Douglas,72,State Treasurer,,LIB ,Mitch Shults,7
+Douglas,Total,State Treasurer,,LIB ,Mitch Shults,1323
+Douglas,1,State Treasurer,,,Under Votes,31
+Douglas,2,State Treasurer,,,Under Votes,5
+Douglas,3,State Treasurer,,,Under Votes,44
+Douglas,4,State Treasurer,,,Under Votes,43
+Douglas,5,State Treasurer,,,Under Votes,74
+Douglas,6,State Treasurer,,,Under Votes,15
+Douglas,7,State Treasurer,,,Under Votes,27
+Douglas,8,State Treasurer,,,Under Votes,4
+Douglas,9,State Treasurer,,,Under Votes,56
+Douglas,10,State Treasurer,,,Under Votes,5
+Douglas,11,State Treasurer,,,Under Votes,35
+Douglas,12,State Treasurer,,,Under Votes,45
+Douglas,13,State Treasurer,,,Under Votes,79
+Douglas,14,State Treasurer,,,Under Votes,38
+Douglas,15,State Treasurer,,,Under Votes,50
+Douglas,16,State Treasurer,,,Under Votes,90
+Douglas,17,State Treasurer,,,Under Votes,194
+Douglas,18,State Treasurer,,,Under Votes,109
+Douglas,19,State Treasurer,,,Under Votes,85
+Douglas,20,State Treasurer,,,Under Votes,64
+Douglas,21,State Treasurer,,,Under Votes,60
+Douglas,22,State Treasurer,,,Under Votes,55
+Douglas,23,State Treasurer,,,Under Votes,84
+Douglas,24,State Treasurer,,,Under Votes,149
+Douglas,25,State Treasurer,,,Under Votes,93
+Douglas,26,State Treasurer,,,Under Votes,4
+Douglas,27,State Treasurer,,,Under Votes,64
+Douglas,28,State Treasurer,,,Under Votes,25
+Douglas,29,State Treasurer,,,Under Votes,120
+Douglas,30,State Treasurer,,,Under Votes,61
+Douglas,31,State Treasurer,,,Under Votes,50
+Douglas,32,State Treasurer,,,Under Votes,16
+Douglas,33,State Treasurer,,,Under Votes,50
+Douglas,34,State Treasurer,,,Under Votes,46
+Douglas,35,State Treasurer,,,Under Votes,69
+Douglas,36,State Treasurer,,,Under Votes,146
+Douglas,37,State Treasurer,,,Under Votes,108
+Douglas,38,State Treasurer,,,Under Votes,86
+Douglas,39,State Treasurer,,,Under Votes,69
+Douglas,40,State Treasurer,,,Under Votes,42
+Douglas,41,State Treasurer,,,Under Votes,68
+Douglas,42,State Treasurer,,,Under Votes,54
+Douglas,43,State Treasurer,,,Under Votes,68
+Douglas,44,State Treasurer,,,Under Votes,28
+Douglas,45,State Treasurer,,,Under Votes,40
+Douglas,46,State Treasurer,,,Under Votes,95
+Douglas,47,State Treasurer,,,Under Votes,74
+Douglas,48,State Treasurer,,,Under Votes,20
+Douglas,49,State Treasurer,,,Under Votes,86
+Douglas,50,State Treasurer,,,Under Votes,239
+Douglas,51,State Treasurer,,,Under Votes,36
+Douglas,52,State Treasurer,,,Under Votes,20
+Douglas,53,State Treasurer,,,Under Votes,91
+Douglas,54,State Treasurer,,,Under Votes,91
+Douglas,55,State Treasurer,,,Under Votes,60
+Douglas,56,State Treasurer,,,Under Votes,143
+Douglas,57,State Treasurer,,,Under Votes,68
+Douglas,58,State Treasurer,,,Under Votes,92
+Douglas,59,State Treasurer,,,Under Votes,38
+Douglas,60,State Treasurer,,,Under Votes,52
+Douglas,61,State Treasurer,,,Under Votes,77
+Douglas,62,State Treasurer,,,Under Votes,97
+Douglas,63,State Treasurer,,,Under Votes,156
+Douglas,64,State Treasurer,,,Under Votes,44
+Douglas,65,State Treasurer,,,Under Votes,53
+Douglas,66,State Treasurer,,,Under Votes,70
+Douglas,67,State Treasurer,,,Under Votes,39
+Douglas,68,State Treasurer,,,Under Votes,33
+Douglas,69,State Treasurer,,,Under Votes,33
+Douglas,70,State Treasurer,,,Under Votes,90
+Douglas,71,State Treasurer,,,Under Votes,33
+Douglas,72,State Treasurer,,,Under Votes,7
+Douglas,Total,State Treasurer,,,Under Votes,4685
+Douglas,1,State Treasurer,,,Over Votes,0
+Douglas,2,State Treasurer,,,Over Votes,0
+Douglas,3,State Treasurer,,,Over Votes,0
+Douglas,4,State Treasurer,,,Over Votes,0
+Douglas,5,State Treasurer,,,Over Votes,0
+Douglas,6,State Treasurer,,,Over Votes,2
+Douglas,7,State Treasurer,,,Over Votes,0
+Douglas,8,State Treasurer,,,Over Votes,0
+Douglas,9,State Treasurer,,,Over Votes,0
+Douglas,10,State Treasurer,,,Over Votes,0
+Douglas,11,State Treasurer,,,Over Votes,0
+Douglas,12,State Treasurer,,,Over Votes,0
+Douglas,13,State Treasurer,,,Over Votes,0
+Douglas,14,State Treasurer,,,Over Votes,0
+Douglas,15,State Treasurer,,,Over Votes,0
+Douglas,16,State Treasurer,,,Over Votes,0
+Douglas,17,State Treasurer,,,Over Votes,0
+Douglas,18,State Treasurer,,,Over Votes,0
+Douglas,19,State Treasurer,,,Over Votes,1
+Douglas,20,State Treasurer,,,Over Votes,0
+Douglas,21,State Treasurer,,,Over Votes,0
+Douglas,22,State Treasurer,,,Over Votes,0
+Douglas,23,State Treasurer,,,Over Votes,0
+Douglas,24,State Treasurer,,,Over Votes,1
+Douglas,25,State Treasurer,,,Over Votes,0
+Douglas,26,State Treasurer,,,Over Votes,0
+Douglas,27,State Treasurer,,,Over Votes,0
+Douglas,28,State Treasurer,,,Over Votes,0
+Douglas,29,State Treasurer,,,Over Votes,0
+Douglas,30,State Treasurer,,,Over Votes,0
+Douglas,31,State Treasurer,,,Over Votes,0
+Douglas,32,State Treasurer,,,Over Votes,0
+Douglas,33,State Treasurer,,,Over Votes,0
+Douglas,34,State Treasurer,,,Over Votes,0
+Douglas,35,State Treasurer,,,Over Votes,0
+Douglas,36,State Treasurer,,,Over Votes,1
+Douglas,37,State Treasurer,,,Over Votes,0
+Douglas,38,State Treasurer,,,Over Votes,1
+Douglas,39,State Treasurer,,,Over Votes,0
+Douglas,40,State Treasurer,,,Over Votes,0
+Douglas,41,State Treasurer,,,Over Votes,0
+Douglas,42,State Treasurer,,,Over Votes,0
+Douglas,43,State Treasurer,,,Over Votes,0
+Douglas,44,State Treasurer,,,Over Votes,0
+Douglas,45,State Treasurer,,,Over Votes,0
+Douglas,46,State Treasurer,,,Over Votes,0
+Douglas,47,State Treasurer,,,Over Votes,0
+Douglas,48,State Treasurer,,,Over Votes,0
+Douglas,49,State Treasurer,,,Over Votes,0
+Douglas,50,State Treasurer,,,Over Votes,1
+Douglas,51,State Treasurer,,,Over Votes,0
+Douglas,52,State Treasurer,,,Over Votes,0
+Douglas,53,State Treasurer,,,Over Votes,0
+Douglas,54,State Treasurer,,,Over Votes,0
+Douglas,55,State Treasurer,,,Over Votes,1
+Douglas,56,State Treasurer,,,Over Votes,0
+Douglas,57,State Treasurer,,,Over Votes,2
+Douglas,58,State Treasurer,,,Over Votes,0
+Douglas,59,State Treasurer,,,Over Votes,0
+Douglas,60,State Treasurer,,,Over Votes,0
+Douglas,61,State Treasurer,,,Over Votes,0
+Douglas,62,State Treasurer,,,Over Votes,0
+Douglas,63,State Treasurer,,,Over Votes,0
+Douglas,64,State Treasurer,,,Over Votes,0
+Douglas,65,State Treasurer,,,Over Votes,0
+Douglas,66,State Treasurer,,,Over Votes,0
+Douglas,67,State Treasurer,,,Over Votes,0
+Douglas,68,State Treasurer,,,Over Votes,0
+Douglas,69,State Treasurer,,,Over Votes,1
+Douglas,70,State Treasurer,,,Over Votes,0
+Douglas,71,State Treasurer,,,Over Votes,0
+Douglas,72,State Treasurer,,,Over Votes,0
+Douglas,Total,State Treasurer,,,Over Votes,11
+Douglas,1,State Treasurer,,,Write-ins,0
+Douglas,2,State Treasurer,,,Write-ins,0
+Douglas,3,State Treasurer,,,Write-ins,0
+Douglas,4,State Treasurer,,,Write-ins,1
+Douglas,5,State Treasurer,,,Write-ins,0
+Douglas,6,State Treasurer,,,Write-ins,0
+Douglas,7,State Treasurer,,,Write-ins,0
+Douglas,8,State Treasurer,,,Write-ins,0
+Douglas,9,State Treasurer,,,Write-ins,0
+Douglas,10,State Treasurer,,,Write-ins,0
+Douglas,11,State Treasurer,,,Write-ins,0
+Douglas,12,State Treasurer,,,Write-ins,0
+Douglas,13,State Treasurer,,,Write-ins,1
+Douglas,14,State Treasurer,,,Write-ins,1
+Douglas,15,State Treasurer,,,Write-ins,0
+Douglas,16,State Treasurer,,,Write-ins,0
+Douglas,17,State Treasurer,,,Write-ins,1
+Douglas,18,State Treasurer,,,Write-ins,1
+Douglas,19,State Treasurer,,,Write-ins,1
+Douglas,20,State Treasurer,,,Write-ins,1
+Douglas,21,State Treasurer,,,Write-ins,1
+Douglas,22,State Treasurer,,,Write-ins,0
+Douglas,23,State Treasurer,,,Write-ins,0
+Douglas,24,State Treasurer,,,Write-ins,2
+Douglas,25,State Treasurer,,,Write-ins,1
+Douglas,26,State Treasurer,,,Write-ins,0
+Douglas,27,State Treasurer,,,Write-ins,0
+Douglas,28,State Treasurer,,,Write-ins,0
+Douglas,29,State Treasurer,,,Write-ins,0
+Douglas,30,State Treasurer,,,Write-ins,1
+Douglas,31,State Treasurer,,,Write-ins,2
+Douglas,32,State Treasurer,,,Write-ins,0
+Douglas,33,State Treasurer,,,Write-ins,0
+Douglas,34,State Treasurer,,,Write-ins,0
+Douglas,35,State Treasurer,,,Write-ins,0
+Douglas,36,State Treasurer,,,Write-ins,0
+Douglas,37,State Treasurer,,,Write-ins,1
+Douglas,38,State Treasurer,,,Write-ins,1
+Douglas,39,State Treasurer,,,Write-ins,1
+Douglas,40,State Treasurer,,,Write-ins,0
+Douglas,41,State Treasurer,,,Write-ins,2
+Douglas,42,State Treasurer,,,Write-ins,1
+Douglas,43,State Treasurer,,,Write-ins,0
+Douglas,44,State Treasurer,,,Write-ins,0
+Douglas,45,State Treasurer,,,Write-ins,0
+Douglas,46,State Treasurer,,,Write-ins,0
+Douglas,47,State Treasurer,,,Write-ins,0
+Douglas,48,State Treasurer,,,Write-ins,0
+Douglas,49,State Treasurer,,,Write-ins,1
+Douglas,50,State Treasurer,,,Write-ins,5
+Douglas,51,State Treasurer,,,Write-ins,0
+Douglas,52,State Treasurer,,,Write-ins,0
+Douglas,53,State Treasurer,,,Write-ins,0
+Douglas,54,State Treasurer,,,Write-ins,0
+Douglas,55,State Treasurer,,,Write-ins,2
+Douglas,56,State Treasurer,,,Write-ins,0
+Douglas,57,State Treasurer,,,Write-ins,2
+Douglas,58,State Treasurer,,,Write-ins,0
+Douglas,59,State Treasurer,,,Write-ins,0
+Douglas,60,State Treasurer,,,Write-ins,0
+Douglas,61,State Treasurer,,,Write-ins,0
+Douglas,62,State Treasurer,,,Write-ins,0
+Douglas,63,State Treasurer,,,Write-ins,2
+Douglas,64,State Treasurer,,,Write-ins,0
+Douglas,65,State Treasurer,,,Write-ins,1
+Douglas,66,State Treasurer,,,Write-ins,0
+Douglas,67,State Treasurer,,,Write-ins,0
+Douglas,68,State Treasurer,,,Write-ins,0
+Douglas,69,State Treasurer,,,Write-ins,0
+Douglas,70,State Treasurer,,,Write-ins,0
+Douglas,71,State Treasurer,,,Write-ins,0
+Douglas,72,State Treasurer,,,Write-ins,0
+Douglas,Total,State Treasurer,,,Write-ins,33
+Douglas,1,Attorney General,,CON ,Richard D Hake,2
+Douglas,2,Attorney General,,CON ,Richard D Hake,2
+Douglas,3,Attorney General,,CON ,Richard D Hake,12
+Douglas,4,Attorney General,,CON ,Richard D Hake,11
+Douglas,5,Attorney General,,CON ,Richard D Hake,10
+Douglas,6,Attorney General,,CON ,Richard D Hake,2
+Douglas,7,Attorney General,,CON ,Richard D Hake,1
+Douglas,8,Attorney General,,CON ,Richard D Hake,1
+Douglas,9,Attorney General,,CON ,Richard D Hake,6
+Douglas,10,Attorney General,,CON ,Richard D Hake,0
+Douglas,11,Attorney General,,CON ,Richard D Hake,5
+Douglas,12,Attorney General,,CON ,Richard D Hake,8
+Douglas,13,Attorney General,,CON ,Richard D Hake,8
+Douglas,14,Attorney General,,CON ,Richard D Hake,6
+Douglas,15,Attorney General,,CON ,Richard D Hake,3
+Douglas,16,Attorney General,,CON ,Richard D Hake,16
+Douglas,17,Attorney General,,CON ,Richard D Hake,14
+Douglas,18,Attorney General,,CON ,Richard D Hake,26
+Douglas,19,Attorney General,,CON ,Richard D Hake,13
+Douglas,20,Attorney General,,CON ,Richard D Hake,12
+Douglas,21,Attorney General,,CON ,Richard D Hake,4
+Douglas,22,Attorney General,,CON ,Richard D Hake,3
+Douglas,23,Attorney General,,CON ,Richard D Hake,8
+Douglas,24,Attorney General,,CON ,Richard D Hake,12
+Douglas,25,Attorney General,,CON ,Richard D Hake,7
+Douglas,26,Attorney General,,CON ,Richard D Hake,0
+Douglas,27,Attorney General,,CON ,Richard D Hake,7
+Douglas,28,Attorney General,,CON ,Richard D Hake,2
+Douglas,29,Attorney General,,CON ,Richard D Hake,16
+Douglas,30,Attorney General,,CON ,Richard D Hake,12
+Douglas,31,Attorney General,,CON ,Richard D Hake,7
+Douglas,32,Attorney General,,CON ,Richard D Hake,3
+Douglas,33,Attorney General,,CON ,Richard D Hake,8
+Douglas,34,Attorney General,,CON ,Richard D Hake,3
+Douglas,35,Attorney General,,CON ,Richard D Hake,5
+Douglas,36,Attorney General,,CON ,Richard D Hake,14
+Douglas,37,Attorney General,,CON ,Richard D Hake,12
+Douglas,38,Attorney General,,CON ,Richard D Hake,22
+Douglas,39,Attorney General,,CON ,Richard D Hake,14
+Douglas,40,Attorney General,,CON ,Richard D Hake,5
+Douglas,41,Attorney General,,CON ,Richard D Hake,3
+Douglas,42,Attorney General,,CON ,Richard D Hake,20
+Douglas,43,Attorney General,,CON ,Richard D Hake,13
+Douglas,44,Attorney General,,CON ,Richard D Hake,1
+Douglas,45,Attorney General,,CON ,Richard D Hake,5
+Douglas,46,Attorney General,,CON ,Richard D Hake,10
+Douglas,47,Attorney General,,CON ,Richard D Hake,6
+Douglas,48,Attorney General,,CON ,Richard D Hake,0
+Douglas,49,Attorney General,,CON ,Richard D Hake,14
+Douglas,50,Attorney General,,CON ,Richard D Hake,30
+Douglas,51,Attorney General,,CON ,Richard D Hake,7
+Douglas,52,Attorney General,,CON ,Richard D Hake,3
+Douglas,53,Attorney General,,CON ,Richard D Hake,18
+Douglas,54,Attorney General,,CON ,Richard D Hake,9
+Douglas,55,Attorney General,,CON ,Richard D Hake,17
+Douglas,56,Attorney General,,CON ,Richard D Hake,19
+Douglas,57,Attorney General,,CON ,Richard D Hake,9
+Douglas,58,Attorney General,,CON ,Richard D Hake,10
+Douglas,59,Attorney General,,CON ,Richard D Hake,7
+Douglas,60,Attorney General,,CON ,Richard D Hake,6
+Douglas,61,Attorney General,,CON ,Richard D Hake,6
+Douglas,62,Attorney General,,CON ,Richard D Hake,12
+Douglas,63,Attorney General,,CON ,Richard D Hake,28
+Douglas,64,Attorney General,,CON ,Richard D Hake,3
+Douglas,65,Attorney General,,CON ,Richard D Hake,5
+Douglas,66,Attorney General,,CON ,Richard D Hake,9
+Douglas,67,Attorney General,,CON ,Richard D Hake,6
+Douglas,68,Attorney General,,CON ,Richard D Hake,6
+Douglas,69,Attorney General,,CON ,Richard D Hake,5
+Douglas,70,Attorney General,,CON ,Richard D Hake,10
+Douglas,71,Attorney General,,CON ,Richard D Hake,3
+Douglas,72,Attorney General,,CON ,Richard D Hake,1
+Douglas,Total,Attorney General,,CON ,Richard D Hake,623
+Douglas,1,Attorney General,,REP ,Paul Connolly,140
+Douglas,2,Attorney General,,REP ,Paul Connolly,21
+Douglas,3,Attorney General,,REP ,Paul Connolly,265
+Douglas,4,Attorney General,,REP ,Paul Connolly,288
+Douglas,5,Attorney General,,REP ,Paul Connolly,331
+Douglas,6,Attorney General,,REP ,Paul Connolly,126
+Douglas,7,Attorney General,,REP ,Paul Connolly,160
+Douglas,8,Attorney General,,REP ,Paul Connolly,25
+Douglas,9,Attorney General,,REP ,Paul Connolly,403
+Douglas,10,Attorney General,,REP ,Paul Connolly,51
+Douglas,11,Attorney General,,REP ,Paul Connolly,259
+Douglas,12,Attorney General,,REP ,Paul Connolly,373
+Douglas,13,Attorney General,,REP ,Paul Connolly,508
+Douglas,14,Attorney General,,REP ,Paul Connolly,262
+Douglas,15,Attorney General,,REP ,Paul Connolly,238
+Douglas,16,Attorney General,,REP ,Paul Connolly,612
+Douglas,17,Attorney General,,REP ,Paul Connolly,1251
+Douglas,18,Attorney General,,REP ,Paul Connolly,636
+Douglas,19,Attorney General,,REP ,Paul Connolly,623
+Douglas,20,Attorney General,,REP ,Paul Connolly,465
+Douglas,21,Attorney General,,REP ,Paul Connolly,425
+Douglas,22,Attorney General,,REP ,Paul Connolly,349
+Douglas,23,Attorney General,,REP ,Paul Connolly,551
+Douglas,24,Attorney General,,REP ,Paul Connolly,804
+Douglas,25,Attorney General,,REP ,Paul Connolly,512
+Douglas,26,Attorney General,,REP ,Paul Connolly,21
+Douglas,27,Attorney General,,REP ,Paul Connolly,390
+Douglas,28,Attorney General,,REP ,Paul Connolly,121
+Douglas,29,Attorney General,,REP ,Paul Connolly,840
+Douglas,30,Attorney General,,REP ,Paul Connolly,439
+Douglas,31,Attorney General,,REP ,Paul Connolly,323
+Douglas,32,Attorney General,,REP ,Paul Connolly,64
+Douglas,33,Attorney General,,REP ,Paul Connolly,275
+Douglas,34,Attorney General,,REP ,Paul Connolly,274
+Douglas,35,Attorney General,,REP ,Paul Connolly,591
+Douglas,36,Attorney General,,REP ,Paul Connolly,866
+Douglas,37,Attorney General,,REP ,Paul Connolly,703
+Douglas,38,Attorney General,,REP ,Paul Connolly,528
+Douglas,39,Attorney General,,REP ,Paul Connolly,300
+Douglas,40,Attorney General,,REP ,Paul Connolly,246
+Douglas,41,Attorney General,,REP ,Paul Connolly,359
+Douglas,42,Attorney General,,REP ,Paul Connolly,321
+Douglas,43,Attorney General,,REP ,Paul Connolly,287
+Douglas,44,Attorney General,,REP ,Paul Connolly,191
+Douglas,45,Attorney General,,REP ,Paul Connolly,189
+Douglas,46,Attorney General,,REP ,Paul Connolly,548
+Douglas,47,Attorney General,,REP ,Paul Connolly,382
+Douglas,48,Attorney General,,REP ,Paul Connolly,189
+Douglas,49,Attorney General,,REP ,Paul Connolly,507
+Douglas,50,Attorney General,,REP ,Paul Connolly,1449
+Douglas,51,Attorney General,,REP ,Paul Connolly,280
+Douglas,52,Attorney General,,REP ,Paul Connolly,203
+Douglas,53,Attorney General,,REP ,Paul Connolly,569
+Douglas,54,Attorney General,,REP ,Paul Connolly,538
+Douglas,55,Attorney General,,REP ,Paul Connolly,360
+Douglas,56,Attorney General,,REP ,Paul Connolly,931
+Douglas,57,Attorney General,,REP ,Paul Connolly,510
+Douglas,58,Attorney General,,REP ,Paul Connolly,474
+Douglas,59,Attorney General,,REP ,Paul Connolly,259
+Douglas,60,Attorney General,,REP ,Paul Connolly,335
+Douglas,61,Attorney General,,REP ,Paul Connolly,417
+Douglas,62,Attorney General,,REP ,Paul Connolly,662
+Douglas,63,Attorney General,,REP ,Paul Connolly,881
+Douglas,64,Attorney General,,REP ,Paul Connolly,216
+Douglas,65,Attorney General,,REP ,Paul Connolly,287
+Douglas,66,Attorney General,,REP ,Paul Connolly,363
+Douglas,67,Attorney General,,REP ,Paul Connolly,268
+Douglas,68,Attorney General,,REP ,Paul Connolly,232
+Douglas,69,Attorney General,,REP ,Paul Connolly,163
+Douglas,70,Attorney General,,REP ,Paul Connolly,565
+Douglas,71,Attorney General,,REP ,Paul Connolly,190
+Douglas,72,Attorney General,,REP ,Paul Connolly,24
+Douglas,Total,Attorney General,,REP ,Paul Connolly,28808
+Douglas,1,Attorney General,,DEM ,Hardy Myers,143
+Douglas,2,Attorney General,,DEM ,Hardy Myers,11
+Douglas,3,Attorney General,,DEM ,Hardy Myers,398
+Douglas,4,Attorney General,,DEM ,Hardy Myers,361
+Douglas,5,Attorney General,,DEM ,Hardy Myers,383
+Douglas,6,Attorney General,,DEM ,Hardy Myers,88
+Douglas,7,Attorney General,,DEM ,Hardy Myers,145
+Douglas,8,Attorney General,,DEM ,Hardy Myers,18
+Douglas,9,Attorney General,,DEM ,Hardy Myers,263
+Douglas,10,Attorney General,,DEM ,Hardy Myers,45
+Douglas,11,Attorney General,,DEM ,Hardy Myers,185
+Douglas,12,Attorney General,,DEM ,Hardy Myers,284
+Douglas,13,Attorney General,,DEM ,Hardy Myers,321
+Douglas,14,Attorney General,,DEM ,Hardy Myers,149
+Douglas,15,Attorney General,,DEM ,Hardy Myers,188
+Douglas,16,Attorney General,,DEM ,Hardy Myers,349
+Douglas,17,Attorney General,,DEM ,Hardy Myers,925
+Douglas,18,Attorney General,,DEM ,Hardy Myers,431
+Douglas,19,Attorney General,,DEM ,Hardy Myers,353
+Douglas,20,Attorney General,,DEM ,Hardy Myers,217
+Douglas,21,Attorney General,,DEM ,Hardy Myers,204
+Douglas,22,Attorney General,,DEM ,Hardy Myers,209
+Douglas,23,Attorney General,,DEM ,Hardy Myers,282
+Douglas,24,Attorney General,,DEM ,Hardy Myers,490
+Douglas,25,Attorney General,,DEM ,Hardy Myers,419
+Douglas,26,Attorney General,,DEM ,Hardy Myers,7
+Douglas,27,Attorney General,,DEM ,Hardy Myers,154
+Douglas,28,Attorney General,,DEM ,Hardy Myers,71
+Douglas,29,Attorney General,,DEM ,Hardy Myers,605
+Douglas,30,Attorney General,,DEM ,Hardy Myers,382
+Douglas,31,Attorney General,,DEM ,Hardy Myers,263
+Douglas,32,Attorney General,,DEM ,Hardy Myers,31
+Douglas,33,Attorney General,,DEM ,Hardy Myers,197
+Douglas,34,Attorney General,,DEM ,Hardy Myers,147
+Douglas,35,Attorney General,,DEM ,Hardy Myers,236
+Douglas,36,Attorney General,,DEM ,Hardy Myers,486
+Douglas,37,Attorney General,,DEM ,Hardy Myers,519
+Douglas,38,Attorney General,,DEM ,Hardy Myers,449
+Douglas,39,Attorney General,,DEM ,Hardy Myers,306
+Douglas,40,Attorney General,,DEM ,Hardy Myers,201
+Douglas,41,Attorney General,,DEM ,Hardy Myers,342
+Douglas,42,Attorney General,,DEM ,Hardy Myers,279
+Douglas,43,Attorney General,,DEM ,Hardy Myers,311
+Douglas,44,Attorney General,,DEM ,Hardy Myers,178
+Douglas,45,Attorney General,,DEM ,Hardy Myers,165
+Douglas,46,Attorney General,,DEM ,Hardy Myers,411
+Douglas,47,Attorney General,,DEM ,Hardy Myers,309
+Douglas,48,Attorney General,,DEM ,Hardy Myers,90
+Douglas,49,Attorney General,,DEM ,Hardy Myers,324
+Douglas,50,Attorney General,,DEM ,Hardy Myers,955
+Douglas,51,Attorney General,,DEM ,Hardy Myers,177
+Douglas,52,Attorney General,,DEM ,Hardy Myers,117
+Douglas,53,Attorney General,,DEM ,Hardy Myers,403
+Douglas,54,Attorney General,,DEM ,Hardy Myers,455
+Douglas,55,Attorney General,,DEM ,Hardy Myers,270
+Douglas,56,Attorney General,,DEM ,Hardy Myers,452
+Douglas,57,Attorney General,,DEM ,Hardy Myers,237
+Douglas,58,Attorney General,,DEM ,Hardy Myers,309
+Douglas,59,Attorney General,,DEM ,Hardy Myers,102
+Douglas,60,Attorney General,,DEM ,Hardy Myers,253
+Douglas,61,Attorney General,,DEM ,Hardy Myers,305
+Douglas,62,Attorney General,,DEM ,Hardy Myers,350
+Douglas,63,Attorney General,,DEM ,Hardy Myers,668
+Douglas,64,Attorney General,,DEM ,Hardy Myers,148
+Douglas,65,Attorney General,,DEM ,Hardy Myers,175
+Douglas,66,Attorney General,,DEM ,Hardy Myers,284
+Douglas,67,Attorney General,,DEM ,Hardy Myers,188
+Douglas,68,Attorney General,,DEM ,Hardy Myers,148
+Douglas,69,Attorney General,,DEM ,Hardy Myers,92
+Douglas,70,Attorney General,,DEM ,Hardy Myers,317
+Douglas,71,Attorney General,,DEM ,Hardy Myers,101
+Douglas,72,Attorney General,,DEM ,Hardy Myers,10
+Douglas,Total,Attorney General,,DEM ,Hardy Myers,19840
+Douglas,1,Attorney General,,LIB ,Donald G Smith Jr,17
+Douglas,2,Attorney General,,LIB ,Donald G Smith Jr,2
+Douglas,3,Attorney General,,LIB ,Donald G Smith Jr,25
+Douglas,4,Attorney General,,LIB ,Donald G Smith Jr,34
+Douglas,5,Attorney General,,LIB ,Donald G Smith Jr,17
+Douglas,6,Attorney General,,LIB ,Donald G Smith Jr,3
+Douglas,7,Attorney General,,LIB ,Donald G Smith Jr,13
+Douglas,8,Attorney General,,LIB ,Donald G Smith Jr,3
+Douglas,9,Attorney General,,LIB ,Donald G Smith Jr,32
+Douglas,10,Attorney General,,LIB ,Donald G Smith Jr,3
+Douglas,11,Attorney General,,LIB ,Donald G Smith Jr,20
+Douglas,12,Attorney General,,LIB ,Donald G Smith Jr,45
+Douglas,13,Attorney General,,LIB ,Donald G Smith Jr,36
+Douglas,14,Attorney General,,LIB ,Donald G Smith Jr,22
+Douglas,15,Attorney General,,LIB ,Donald G Smith Jr,23
+Douglas,16,Attorney General,,LIB ,Donald G Smith Jr,40
+Douglas,17,Attorney General,,LIB ,Donald G Smith Jr,69
+Douglas,18,Attorney General,,LIB ,Donald G Smith Jr,36
+Douglas,19,Attorney General,,LIB ,Donald G Smith Jr,39
+Douglas,20,Attorney General,,LIB ,Donald G Smith Jr,25
+Douglas,21,Attorney General,,LIB ,Donald G Smith Jr,17
+Douglas,22,Attorney General,,LIB ,Donald G Smith Jr,15
+Douglas,23,Attorney General,,LIB ,Donald G Smith Jr,21
+Douglas,24,Attorney General,,LIB ,Donald G Smith Jr,51
+Douglas,25,Attorney General,,LIB ,Donald G Smith Jr,47
+Douglas,26,Attorney General,,LIB ,Donald G Smith Jr,0
+Douglas,27,Attorney General,,LIB ,Donald G Smith Jr,6
+Douglas,28,Attorney General,,LIB ,Donald G Smith Jr,8
+Douglas,29,Attorney General,,LIB ,Donald G Smith Jr,49
+Douglas,30,Attorney General,,LIB ,Donald G Smith Jr,18
+Douglas,31,Attorney General,,LIB ,Donald G Smith Jr,43
+Douglas,32,Attorney General,,LIB ,Donald G Smith Jr,8
+Douglas,33,Attorney General,,LIB ,Donald G Smith Jr,17
+Douglas,34,Attorney General,,LIB ,Donald G Smith Jr,9
+Douglas,35,Attorney General,,LIB ,Donald G Smith Jr,4
+Douglas,36,Attorney General,,LIB ,Donald G Smith Jr,25
+Douglas,37,Attorney General,,LIB ,Donald G Smith Jr,34
+Douglas,38,Attorney General,,LIB ,Donald G Smith Jr,38
+Douglas,39,Attorney General,,LIB ,Donald G Smith Jr,22
+Douglas,40,Attorney General,,LIB ,Donald G Smith Jr,20
+Douglas,41,Attorney General,,LIB ,Donald G Smith Jr,27
+Douglas,42,Attorney General,,LIB ,Donald G Smith Jr,25
+Douglas,43,Attorney General,,LIB ,Donald G Smith Jr,31
+Douglas,44,Attorney General,,LIB ,Donald G Smith Jr,11
+Douglas,45,Attorney General,,LIB ,Donald G Smith Jr,6
+Douglas,46,Attorney General,,LIB ,Donald G Smith Jr,24
+Douglas,47,Attorney General,,LIB ,Donald G Smith Jr,11
+Douglas,48,Attorney General,,LIB ,Donald G Smith Jr,8
+Douglas,49,Attorney General,,LIB ,Donald G Smith Jr,34
+Douglas,50,Attorney General,,LIB ,Donald G Smith Jr,85
+Douglas,51,Attorney General,,LIB ,Donald G Smith Jr,7
+Douglas,52,Attorney General,,LIB ,Donald G Smith Jr,15
+Douglas,53,Attorney General,,LIB ,Donald G Smith Jr,43
+Douglas,54,Attorney General,,LIB ,Donald G Smith Jr,43
+Douglas,55,Attorney General,,LIB ,Donald G Smith Jr,44
+Douglas,56,Attorney General,,LIB ,Donald G Smith Jr,46
+Douglas,57,Attorney General,,LIB ,Donald G Smith Jr,25
+Douglas,58,Attorney General,,LIB ,Donald G Smith Jr,43
+Douglas,59,Attorney General,,LIB ,Donald G Smith Jr,17
+Douglas,60,Attorney General,,LIB ,Donald G Smith Jr,26
+Douglas,61,Attorney General,,LIB ,Donald G Smith Jr,16
+Douglas,62,Attorney General,,LIB ,Donald G Smith Jr,37
+Douglas,63,Attorney General,,LIB ,Donald G Smith Jr,68
+Douglas,64,Attorney General,,LIB ,Donald G Smith Jr,25
+Douglas,65,Attorney General,,LIB ,Donald G Smith Jr,24
+Douglas,66,Attorney General,,LIB ,Donald G Smith Jr,19
+Douglas,67,Attorney General,,LIB ,Donald G Smith Jr,18
+Douglas,68,Attorney General,,LIB ,Donald G Smith Jr,28
+Douglas,69,Attorney General,,LIB ,Donald G Smith Jr,8
+Douglas,70,Attorney General,,LIB ,Donald G Smith Jr,57
+Douglas,71,Attorney General,,LIB ,Donald G Smith Jr,7
+Douglas,72,Attorney General,,LIB ,Donald G Smith Jr,7
+Douglas,Total,Attorney General,,LIB ,Donald G Smith Jr,1841
+Douglas,1,Attorney General,,,Under Votes,31
+Douglas,2,Attorney General,,,Under Votes,6
+Douglas,3,Attorney General,,,Under Votes,43
+Douglas,4,Attorney General,,,Under Votes,41
+Douglas,5,Attorney General,,,Under Votes,68
+Douglas,6,Attorney General,,,Under Votes,15
+Douglas,7,Attorney General,,,Under Votes,23
+Douglas,8,Attorney General,,,Under Votes,3
+Douglas,9,Attorney General,,,Under Votes,54
+Douglas,10,Attorney General,,,Under Votes,3
+Douglas,11,Attorney General,,,Under Votes,31
+Douglas,12,Attorney General,,,Under Votes,49
+Douglas,13,Attorney General,,,Under Votes,72
+Douglas,14,Attorney General,,,Under Votes,36
+Douglas,15,Attorney General,,,Under Votes,48
+Douglas,16,Attorney General,,,Under Votes,87
+Douglas,17,Attorney General,,,Under Votes,191
+Douglas,18,Attorney General,,,Under Votes,111
+Douglas,19,Attorney General,,,Under Votes,79
+Douglas,20,Attorney General,,,Under Votes,66
+Douglas,21,Attorney General,,,Under Votes,58
+Douglas,22,Attorney General,,,Under Votes,47
+Douglas,23,Attorney General,,,Under Votes,67
+Douglas,24,Attorney General,,,Under Votes,153
+Douglas,25,Attorney General,,,Under Votes,82
+Douglas,26,Attorney General,,,Under Votes,4
+Douglas,27,Attorney General,,,Under Votes,51
+Douglas,28,Attorney General,,,Under Votes,22
+Douglas,29,Attorney General,,,Under Votes,117
+Douglas,30,Attorney General,,,Under Votes,55
+Douglas,31,Attorney General,,,Under Votes,44
+Douglas,32,Attorney General,,,Under Votes,17
+Douglas,33,Attorney General,,,Under Votes,48
+Douglas,34,Attorney General,,,Under Votes,50
+Douglas,35,Attorney General,,,Under Votes,57
+Douglas,36,Attorney General,,,Under Votes,135
+Douglas,37,Attorney General,,,Under Votes,106
+Douglas,38,Attorney General,,,Under Votes,76
+Douglas,39,Attorney General,,,Under Votes,59
+Douglas,40,Attorney General,,,Under Votes,27
+Douglas,41,Attorney General,,,Under Votes,63
+Douglas,42,Attorney General,,,Under Votes,46
+Douglas,43,Attorney General,,,Under Votes,72
+Douglas,44,Attorney General,,,Under Votes,31
+Douglas,45,Attorney General,,,Under Votes,37
+Douglas,46,Attorney General,,,Under Votes,84
+Douglas,47,Attorney General,,,Under Votes,65
+Douglas,48,Attorney General,,,Under Votes,17
+Douglas,49,Attorney General,,,Under Votes,83
+Douglas,50,Attorney General,,,Under Votes,230
+Douglas,51,Attorney General,,,Under Votes,31
+Douglas,52,Attorney General,,,Under Votes,16
+Douglas,53,Attorney General,,,Under Votes,95
+Douglas,54,Attorney General,,,Under Votes,83
+Douglas,55,Attorney General,,,Under Votes,64
+Douglas,56,Attorney General,,,Under Votes,135
+Douglas,57,Attorney General,,,Under Votes,70
+Douglas,58,Attorney General,,,Under Votes,91
+Douglas,59,Attorney General,,,Under Votes,34
+Douglas,60,Attorney General,,,Under Votes,54
+Douglas,61,Attorney General,,,Under Votes,64
+Douglas,62,Attorney General,,,Under Votes,92
+Douglas,63,Attorney General,,,Under Votes,153
+Douglas,64,Attorney General,,,Under Votes,44
+Douglas,65,Attorney General,,,Under Votes,56
+Douglas,66,Attorney General,,,Under Votes,72
+Douglas,67,Attorney General,,,Under Votes,31
+Douglas,68,Attorney General,,,Under Votes,30
+Douglas,69,Attorney General,,,Under Votes,31
+Douglas,70,Attorney General,,,Under Votes,77
+Douglas,71,Attorney General,,,Under Votes,37
+Douglas,72,Attorney General,,,Under Votes,6
+Douglas,Total,Attorney General,,,Under Votes,4426
+Douglas,1,Attorney General,,,Over Votes,0
+Douglas,2,Attorney General,,,Over Votes,0
+Douglas,3,Attorney General,,,Over Votes,0
+Douglas,4,Attorney General,,,Over Votes,0
+Douglas,5,Attorney General,,,Over Votes,0
+Douglas,6,Attorney General,,,Over Votes,2
+Douglas,7,Attorney General,,,Over Votes,0
+Douglas,8,Attorney General,,,Over Votes,0
+Douglas,9,Attorney General,,,Over Votes,0
+Douglas,10,Attorney General,,,Over Votes,0
+Douglas,11,Attorney General,,,Over Votes,0
+Douglas,12,Attorney General,,,Over Votes,0
+Douglas,13,Attorney General,,,Over Votes,0
+Douglas,14,Attorney General,,,Over Votes,0
+Douglas,15,Attorney General,,,Over Votes,0
+Douglas,16,Attorney General,,,Over Votes,0
+Douglas,17,Attorney General,,,Over Votes,0
+Douglas,18,Attorney General,,,Over Votes,0
+Douglas,19,Attorney General,,,Over Votes,0
+Douglas,20,Attorney General,,,Over Votes,0
+Douglas,21,Attorney General,,,Over Votes,0
+Douglas,22,Attorney General,,,Over Votes,0
+Douglas,23,Attorney General,,,Over Votes,0
+Douglas,24,Attorney General,,,Over Votes,0
+Douglas,25,Attorney General,,,Over Votes,0
+Douglas,26,Attorney General,,,Over Votes,0
+Douglas,27,Attorney General,,,Over Votes,1
+Douglas,28,Attorney General,,,Over Votes,0
+Douglas,29,Attorney General,,,Over Votes,0
+Douglas,30,Attorney General,,,Over Votes,0
+Douglas,31,Attorney General,,,Over Votes,0
+Douglas,32,Attorney General,,,Over Votes,0
+Douglas,33,Attorney General,,,Over Votes,0
+Douglas,34,Attorney General,,,Over Votes,0
+Douglas,35,Attorney General,,,Over Votes,0
+Douglas,36,Attorney General,,,Over Votes,1
+Douglas,37,Attorney General,,,Over Votes,0
+Douglas,38,Attorney General,,,Over Votes,0
+Douglas,39,Attorney General,,,Over Votes,0
+Douglas,40,Attorney General,,,Over Votes,0
+Douglas,41,Attorney General,,,Over Votes,0
+Douglas,42,Attorney General,,,Over Votes,0
+Douglas,43,Attorney General,,,Over Votes,0
+Douglas,44,Attorney General,,,Over Votes,0
+Douglas,45,Attorney General,,,Over Votes,0
+Douglas,46,Attorney General,,,Over Votes,0
+Douglas,47,Attorney General,,,Over Votes,0
+Douglas,48,Attorney General,,,Over Votes,0
+Douglas,49,Attorney General,,,Over Votes,0
+Douglas,50,Attorney General,,,Over Votes,1
+Douglas,51,Attorney General,,,Over Votes,0
+Douglas,52,Attorney General,,,Over Votes,0
+Douglas,53,Attorney General,,,Over Votes,0
+Douglas,54,Attorney General,,,Over Votes,0
+Douglas,55,Attorney General,,,Over Votes,1
+Douglas,56,Attorney General,,,Over Votes,0
+Douglas,57,Attorney General,,,Over Votes,2
+Douglas,58,Attorney General,,,Over Votes,0
+Douglas,59,Attorney General,,,Over Votes,0
+Douglas,60,Attorney General,,,Over Votes,0
+Douglas,61,Attorney General,,,Over Votes,0
+Douglas,62,Attorney General,,,Over Votes,0
+Douglas,63,Attorney General,,,Over Votes,0
+Douglas,64,Attorney General,,,Over Votes,0
+Douglas,65,Attorney General,,,Over Votes,0
+Douglas,66,Attorney General,,,Over Votes,0
+Douglas,67,Attorney General,,,Over Votes,0
+Douglas,68,Attorney General,,,Over Votes,0
+Douglas,69,Attorney General,,,Over Votes,0
+Douglas,70,Attorney General,,,Over Votes,0
+Douglas,71,Attorney General,,,Over Votes,0
+Douglas,72,Attorney General,,,Over Votes,0
+Douglas,Total,Attorney General,,,Over Votes,8
+Douglas,1,Attorney General,,,Write-ins,0
+Douglas,2,Attorney General,,,Write-ins,1
+Douglas,3,Attorney General,,,Write-ins,0
+Douglas,4,Attorney General,,,Write-ins,1
+Douglas,5,Attorney General,,,Write-ins,0
+Douglas,6,Attorney General,,,Write-ins,0
+Douglas,7,Attorney General,,,Write-ins,0
+Douglas,8,Attorney General,,,Write-ins,0
+Douglas,9,Attorney General,,,Write-ins,0
+Douglas,10,Attorney General,,,Write-ins,1
+Douglas,11,Attorney General,,,Write-ins,0
+Douglas,12,Attorney General,,,Write-ins,0
+Douglas,13,Attorney General,,,Write-ins,0
+Douglas,14,Attorney General,,,Write-ins,1
+Douglas,15,Attorney General,,,Write-ins,0
+Douglas,16,Attorney General,,,Write-ins,0
+Douglas,17,Attorney General,,,Write-ins,2
+Douglas,18,Attorney General,,,Write-ins,1
+Douglas,19,Attorney General,,,Write-ins,1
+Douglas,20,Attorney General,,,Write-ins,1
+Douglas,21,Attorney General,,,Write-ins,0
+Douglas,22,Attorney General,,,Write-ins,0
+Douglas,23,Attorney General,,,Write-ins,0
+Douglas,24,Attorney General,,,Write-ins,2
+Douglas,25,Attorney General,,,Write-ins,1
+Douglas,26,Attorney General,,,Write-ins,0
+Douglas,27,Attorney General,,,Write-ins,0
+Douglas,28,Attorney General,,,Write-ins,0
+Douglas,29,Attorney General,,,Write-ins,0
+Douglas,30,Attorney General,,,Write-ins,0
+Douglas,31,Attorney General,,,Write-ins,0
+Douglas,32,Attorney General,,,Write-ins,0
+Douglas,33,Attorney General,,,Write-ins,0
+Douglas,34,Attorney General,,,Write-ins,0
+Douglas,35,Attorney General,,,Write-ins,0
+Douglas,36,Attorney General,,,Write-ins,0
+Douglas,37,Attorney General,,,Write-ins,1
+Douglas,38,Attorney General,,,Write-ins,0
+Douglas,39,Attorney General,,,Write-ins,1
+Douglas,40,Attorney General,,,Write-ins,0
+Douglas,41,Attorney General,,,Write-ins,0
+Douglas,42,Attorney General,,,Write-ins,1
+Douglas,43,Attorney General,,,Write-ins,0
+Douglas,44,Attorney General,,,Write-ins,0
+Douglas,45,Attorney General,,,Write-ins,0
+Douglas,46,Attorney General,,,Write-ins,2
+Douglas,47,Attorney General,,,Write-ins,0
+Douglas,48,Attorney General,,,Write-ins,0
+Douglas,49,Attorney General,,,Write-ins,0
+Douglas,50,Attorney General,,,Write-ins,2
+Douglas,51,Attorney General,,,Write-ins,0
+Douglas,52,Attorney General,,,Write-ins,0
+Douglas,53,Attorney General,,,Write-ins,0
+Douglas,54,Attorney General,,,Write-ins,0
+Douglas,55,Attorney General,,,Write-ins,1
+Douglas,56,Attorney General,,,Write-ins,3
+Douglas,57,Attorney General,,,Write-ins,0
+Douglas,58,Attorney General,,,Write-ins,1
+Douglas,59,Attorney General,,,Write-ins,0
+Douglas,60,Attorney General,,,Write-ins,0
+Douglas,61,Attorney General,,,Write-ins,0
+Douglas,62,Attorney General,,,Write-ins,0
+Douglas,63,Attorney General,,,Write-ins,3
+Douglas,64,Attorney General,,,Write-ins,0
+Douglas,65,Attorney General,,,Write-ins,1
+Douglas,66,Attorney General,,,Write-ins,0
+Douglas,67,Attorney General,,,Write-ins,0
+Douglas,68,Attorney General,,,Write-ins,0
+Douglas,69,Attorney General,,,Write-ins,0
+Douglas,70,Attorney General,,,Write-ins,0
+Douglas,71,Attorney General,,,Write-ins,0
+Douglas,72,Attorney General,,,Write-ins,0
+Douglas,Total,Attorney General,,,Write-ins,28
+Douglas,20,State Senate,1,REP ,Jeff Kruse,586
+Douglas,26,State Senate,1,REP ,Jeff Kruse,29
+Douglas,27,State Senate,1,REP ,Jeff Kruse,470
+Douglas,28,State Senate,1,REP ,Jeff Kruse,158
+Douglas,29,State Senate,1,REP ,Jeff Kruse,1115
+Douglas,30,State Senate,1,REP ,Jeff Kruse,570
+Douglas,31,State Senate,1,REP ,Jeff Kruse,423
+Douglas,32,State Senate,1,REP ,Jeff Kruse,78
+Douglas,33,State Senate,1,REP ,Jeff Kruse,351
+Douglas,34,State Senate,1,REP ,Jeff Kruse,355
+Douglas,35,State Senate,1,REP ,Jeff Kruse,706
+Douglas,36,State Senate,1,REP ,Jeff Kruse,1080
+Douglas,37,State Senate,1,REP ,Jeff Kruse,913
+Douglas,38,State Senate,1,REP ,Jeff Kruse,729
+Douglas,39,State Senate,1,REP ,Jeff Kruse,405
+Douglas,40,State Senate,1,REP ,Jeff Kruse,311
+Douglas,41,State Senate,1,REP ,Jeff Kruse,483
+Douglas,42,State Senate,1,REP ,Jeff Kruse,421
+Douglas,43,State Senate,1,REP ,Jeff Kruse,413
+Douglas,44,State Senate,1,REP ,Jeff Kruse,244
+Douglas,45,State Senate,1,REP ,Jeff Kruse,250
+Douglas,46,State Senate,1,REP ,Jeff Kruse,713
+Douglas,47,State Senate,1,REP ,Jeff Kruse,520
+Douglas,48,State Senate,1,REP ,Jeff Kruse,225
+Douglas,49,State Senate,1,REP ,Jeff Kruse,655
+Douglas,50,State Senate,1,REP ,Jeff Kruse,1854
+Douglas,51,State Senate,1,REP ,Jeff Kruse,333
+Douglas,52,State Senate,1,REP ,Jeff Kruse,255
+Douglas,53,State Senate,1,REP ,Jeff Kruse,749
+Douglas,54,State Senate,1,REP ,Jeff Kruse,720
+Douglas,55,State Senate,1,REP ,Jeff Kruse,460
+Douglas,57,State Senate,1,REP ,Jeff Kruse,611
+Douglas,58,State Senate,1,REP ,Jeff Kruse,616
+Douglas,59,State Senate,1,REP ,Jeff Kruse,309
+Douglas,60,State Senate,1,REP ,Jeff Kruse,425
+Douglas,61,State Senate,1,REP ,Jeff Kruse,529
+Douglas,62,State Senate,1,REP ,Jeff Kruse,799
+Douglas,63,State Senate,1,REP ,Jeff Kruse,1113
+Douglas,64,State Senate,1,REP ,Jeff Kruse,288
+Douglas,65,State Senate,1,REP ,Jeff Kruse,371
+Douglas,66,State Senate,1,REP ,Jeff Kruse,453
+Douglas,67,State Senate,1,REP ,Jeff Kruse,343
+Douglas,68,State Senate,1,REP ,Jeff Kruse,297
+Douglas,70,State Senate,1,REP ,Jeff Kruse,627
+Douglas,71,State Senate,1,REP ,Jeff Kruse,204
+Douglas,72,State Senate,1,REP ,Jeff Kruse,30
+Douglas,Total,State Senate,1,REP ,Jeff Kruse,23589
+Douglas,20,State Senate,1,DEM ,Bruce W Cronk,174
+Douglas,26,State Senate,1,DEM ,Bruce W Cronk,2
+Douglas,27,State Senate,1,DEM ,Bruce W Cronk,104
+Douglas,28,State Senate,1,DEM ,Bruce W Cronk,46
+Douglas,29,State Senate,1,DEM ,Bruce W Cronk,429
+Douglas,30,State Senate,1,DEM ,Bruce W Cronk,300
+Douglas,31,State Senate,1,DEM ,Bruce W Cronk,213
+Douglas,32,State Senate,1,DEM ,Bruce W Cronk,35
+Douglas,33,State Senate,1,DEM ,Bruce W Cronk,171
+Douglas,34,State Senate,1,DEM ,Bruce W Cronk,110
+Douglas,35,State Senate,1,DEM ,Bruce W Cronk,151
+Douglas,36,State Senate,1,DEM ,Bruce W Cronk,367
+Douglas,37,State Senate,1,DEM ,Bruce W Cronk,394
+Douglas,38,State Senate,1,DEM ,Bruce W Cronk,333
+Douglas,39,State Senate,1,DEM ,Bruce W Cronk,253
+Douglas,40,State Senate,1,DEM ,Bruce W Cronk,165
+Douglas,41,State Senate,1,DEM ,Bruce W Cronk,265
+Douglas,42,State Senate,1,DEM ,Bruce W Cronk,246
+Douglas,43,State Senate,1,DEM ,Bruce W Cronk,249
+Douglas,44,State Senate,1,DEM ,Bruce W Cronk,142
+Douglas,45,State Senate,1,DEM ,Bruce W Cronk,124
+Douglas,46,State Senate,1,DEM ,Bruce W Cronk,307
+Douglas,47,State Senate,1,DEM ,Bruce W Cronk,204
+Douglas,48,State Senate,1,DEM ,Bruce W Cronk,70
+Douglas,49,State Senate,1,DEM ,Bruce W Cronk,252
+Douglas,50,State Senate,1,DEM ,Bruce W Cronk,749
+Douglas,51,State Senate,1,DEM ,Bruce W Cronk,146
+Douglas,52,State Senate,1,DEM ,Bruce W Cronk,85
+Douglas,53,State Senate,1,DEM ,Bruce W Cronk,315
+Douglas,54,State Senate,1,DEM ,Bruce W Cronk,340
+Douglas,55,State Senate,1,DEM ,Bruce W Cronk,246
+Douglas,57,State Senate,1,DEM ,Bruce W Cronk,196
+Douglas,58,State Senate,1,DEM ,Bruce W Cronk,245
+Douglas,59,State Senate,1,DEM ,Bruce W Cronk,82
+Douglas,60,State Senate,1,DEM ,Bruce W Cronk,205
+Douglas,61,State Senate,1,DEM ,Bruce W Cronk,219
+Douglas,62,State Senate,1,DEM ,Bruce W Cronk,280
+Douglas,63,State Senate,1,DEM ,Bruce W Cronk,559
+Douglas,64,State Senate,1,DEM ,Bruce W Cronk,122
+Douglas,65,State Senate,1,DEM ,Bruce W Cronk,133
+Douglas,66,State Senate,1,DEM ,Bruce W Cronk,228
+Douglas,67,State Senate,1,DEM ,Bruce W Cronk,144
+Douglas,68,State Senate,1,DEM ,Bruce W Cronk,122
+Douglas,70,State Senate,1,DEM ,Bruce W Cronk,304
+Douglas,71,State Senate,1,DEM ,Bruce W Cronk,95
+Douglas,72,State Senate,1,DEM ,Bruce W Cronk,12
+Douglas,Total,State Senate,1,DEM ,Bruce W Cronk,9933
+Douglas,20,State Senate,1,,Under Votes,25
+Douglas,26,State Senate,1,,Under Votes,1
+Douglas,27,State Senate,1,,Under Votes,35
+Douglas,28,State Senate,1,,Under Votes,20
+Douglas,29,State Senate,1,,Under Votes,82
+Douglas,30,State Senate,1,,Under Votes,36
+Douglas,31,State Senate,1,,Under Votes,43
+Douglas,32,State Senate,1,,Under Votes,10
+Douglas,33,State Senate,1,,Under Votes,22
+Douglas,34,State Senate,1,,Under Votes,18
+Douglas,35,State Senate,1,,Under Votes,35
+Douglas,36,State Senate,1,,Under Votes,79
+Douglas,37,State Senate,1,,Under Votes,66
+Douglas,38,State Senate,1,,Under Votes,51
+Douglas,39,State Senate,1,,Under Votes,43
+Douglas,40,State Senate,1,,Under Votes,21
+Douglas,41,State Senate,1,,Under Votes,44
+Douglas,42,State Senate,1,,Under Votes,22
+Douglas,43,State Senate,1,,Under Votes,51
+Douglas,44,State Senate,1,,Under Votes,26
+Douglas,45,State Senate,1,,Under Votes,27
+Douglas,46,State Senate,1,,Under Votes,56
+Douglas,47,State Senate,1,,Under Votes,47
+Douglas,48,State Senate,1,,Under Votes,9
+Douglas,49,State Senate,1,,Under Votes,51
+Douglas,50,State Senate,1,,Under Votes,147
+Douglas,51,State Senate,1,,Under Votes,23
+Douglas,52,State Senate,1,,Under Votes,14
+Douglas,53,State Senate,1,,Under Votes,64
+Douglas,54,State Senate,1,,Under Votes,66
+Douglas,55,State Senate,1,,Under Votes,48
+Douglas,57,State Senate,1,,Under Votes,44
+Douglas,58,State Senate,1,,Under Votes,67
+Douglas,59,State Senate,1,,Under Votes,28
+Douglas,60,State Senate,1,,Under Votes,43
+Douglas,61,State Senate,1,,Under Votes,59
+Douglas,62,State Senate,1,,Under Votes,74
+Douglas,63,State Senate,1,,Under Votes,123
+Douglas,64,State Senate,1,,Under Votes,26
+Douglas,65,State Senate,1,,Under Votes,43
+Douglas,66,State Senate,1,,Under Votes,66
+Douglas,67,State Senate,1,,Under Votes,24
+Douglas,68,State Senate,1,,Under Votes,25
+Douglas,70,State Senate,1,,Under Votes,95
+Douglas,71,State Senate,1,,Under Votes,39
+Douglas,72,State Senate,1,,Under Votes,6
+Douglas,Total,State Senate,1,,Under Votes,2044
+Douglas,20,State Senate,1,,Over Votes,0
+Douglas,26,State Senate,1,,Over Votes,0
+Douglas,27,State Senate,1,,Over Votes,0
+Douglas,28,State Senate,1,,Over Votes,0
+Douglas,29,State Senate,1,,Over Votes,0
+Douglas,30,State Senate,1,,Over Votes,0
+Douglas,31,State Senate,1,,Over Votes,0
+Douglas,32,State Senate,1,,Over Votes,0
+Douglas,33,State Senate,1,,Over Votes,0
+Douglas,34,State Senate,1,,Over Votes,0
+Douglas,35,State Senate,1,,Over Votes,0
+Douglas,36,State Senate,1,,Over Votes,1
+Douglas,37,State Senate,1,,Over Votes,0
+Douglas,38,State Senate,1,,Over Votes,0
+Douglas,39,State Senate,1,,Over Votes,0
+Douglas,40,State Senate,1,,Over Votes,0
+Douglas,41,State Senate,1,,Over Votes,0
+Douglas,42,State Senate,1,,Over Votes,1
+Douglas,43,State Senate,1,,Over Votes,0
+Douglas,44,State Senate,1,,Over Votes,0
+Douglas,45,State Senate,1,,Over Votes,0
+Douglas,46,State Senate,1,,Over Votes,0
+Douglas,47,State Senate,1,,Over Votes,0
+Douglas,48,State Senate,1,,Over Votes,0
+Douglas,49,State Senate,1,,Over Votes,0
+Douglas,50,State Senate,1,,Over Votes,1
+Douglas,51,State Senate,1,,Over Votes,0
+Douglas,52,State Senate,1,,Over Votes,0
+Douglas,53,State Senate,1,,Over Votes,0
+Douglas,54,State Senate,1,,Over Votes,0
+Douglas,55,State Senate,1,,Over Votes,1
+Douglas,57,State Senate,1,,Over Votes,2
+Douglas,58,State Senate,1,,Over Votes,0
+Douglas,59,State Senate,1,,Over Votes,0
+Douglas,60,State Senate,1,,Over Votes,0
+Douglas,61,State Senate,1,,Over Votes,0
+Douglas,62,State Senate,1,,Over Votes,0
+Douglas,63,State Senate,1,,Over Votes,1
+Douglas,64,State Senate,1,,Over Votes,0
+Douglas,65,State Senate,1,,Over Votes,0
+Douglas,66,State Senate,1,,Over Votes,0
+Douglas,67,State Senate,1,,Over Votes,0
+Douglas,68,State Senate,1,,Over Votes,0
+Douglas,70,State Senate,1,,Over Votes,0
+Douglas,71,State Senate,1,,Over Votes,0
+Douglas,72,State Senate,1,,Over Votes,0
+Douglas,Total,State Senate,1,,Over Votes,7
+Douglas,20,State Senate,1,,Write-ins,1
+Douglas,26,State Senate,1,,Write-ins,0
+Douglas,27,State Senate,1,,Write-ins,0
+Douglas,28,State Senate,1,,Write-ins,0
+Douglas,29,State Senate,1,,Write-ins,1
+Douglas,30,State Senate,1,,Write-ins,0
+Douglas,31,State Senate,1,,Write-ins,1
+Douglas,32,State Senate,1,,Write-ins,0
+Douglas,33,State Senate,1,,Write-ins,1
+Douglas,34,State Senate,1,,Write-ins,0
+Douglas,35,State Senate,1,,Write-ins,1
+Douglas,36,State Senate,1,,Write-ins,0
+Douglas,37,State Senate,1,,Write-ins,2
+Douglas,38,State Senate,1,,Write-ins,0
+Douglas,39,State Senate,1,,Write-ins,1
+Douglas,40,State Senate,1,,Write-ins,2
+Douglas,41,State Senate,1,,Write-ins,2
+Douglas,42,State Senate,1,,Write-ins,2
+Douglas,43,State Senate,1,,Write-ins,1
+Douglas,44,State Senate,1,,Write-ins,0
+Douglas,45,State Senate,1,,Write-ins,1
+Douglas,46,State Senate,1,,Write-ins,3
+Douglas,47,State Senate,1,,Write-ins,2
+Douglas,48,State Senate,1,,Write-ins,0
+Douglas,49,State Senate,1,,Write-ins,4
+Douglas,50,State Senate,1,,Write-ins,1
+Douglas,51,State Senate,1,,Write-ins,0
+Douglas,52,State Senate,1,,Write-ins,0
+Douglas,53,State Senate,1,,Write-ins,0
+Douglas,54,State Senate,1,,Write-ins,2
+Douglas,55,State Senate,1,,Write-ins,2
+Douglas,57,State Senate,1,,Write-ins,0
+Douglas,58,State Senate,1,,Write-ins,0
+Douglas,59,State Senate,1,,Write-ins,0
+Douglas,60,State Senate,1,,Write-ins,1
+Douglas,61,State Senate,1,,Write-ins,1
+Douglas,62,State Senate,1,,Write-ins,0
+Douglas,63,State Senate,1,,Write-ins,5
+Douglas,64,State Senate,1,,Write-ins,0
+Douglas,65,State Senate,1,,Write-ins,1
+Douglas,66,State Senate,1,,Write-ins,0
+Douglas,67,State Senate,1,,Write-ins,0
+Douglas,68,State Senate,1,,Write-ins,0
+Douglas,70,State Senate,1,,Write-ins,0
+Douglas,71,State Senate,1,,Write-ins,0
+Douglas,72,State Senate,1,,Write-ins,0
+Douglas,Total,State Senate,1,,Write-ins,38
+Douglas,2, State,4,REP ,Norm Thomas,23
+Douglas,8, State,4,REP ,Norm Thomas,24
+Douglas,9, State,4,REP ,Norm Thomas,424
+Douglas,10, State,4,REP ,Norm Thomas,55
+Douglas,11, State,4,REP ,Norm Thomas,260
+Douglas,12, State,4,REP ,Norm Thomas,404
+Douglas,13, State,4,REP ,Norm Thomas,540
+Douglas,14, State,4,REP ,Norm Thomas,274
+Douglas,15, State,4,REP ,Norm Thomas,254
+Douglas,16, State,4,REP ,Norm Thomas,621
+Douglas,17, State,4,REP ,Norm Thomas,1265
+Douglas,18, State,4,REP ,Norm Thomas,657
+Douglas,19, State,4,REP ,Norm Thomas,632
+Douglas,21, State,4,REP ,Norm Thomas,424
+Douglas,22, State,4,REP ,Norm Thomas,359
+Douglas,23, State,4,REP ,Norm Thomas,553
+Douglas,24, State,4,REP ,Norm Thomas,819
+Douglas,25, State,4,REP ,Norm Thomas,527
+Douglas,56, State,4,REP ,Norm Thomas,965
+Douglas,69, State,4,REP ,Norm Thomas,169
+Douglas,Total, State,4,REP ,Norm Thomas,9249
+Douglas,2, State,4,DEM ,Floyd Prozanski,11
+Douglas,8, State,4,DEM ,Floyd Prozanski,21
+Douglas,9, State,4,DEM ,Floyd Prozanski,276
+Douglas,10, State,4,DEM ,Floyd Prozanski,41
+Douglas,11, State,4,DEM ,Floyd Prozanski,202
+Douglas,12, State,4,DEM ,Floyd Prozanski,311
+Douglas,13, State,4,DEM ,Floyd Prozanski,337
+Douglas,14, State,4,DEM ,Floyd Prozanski,159
+Douglas,15, State,4,DEM ,Floyd Prozanski,200
+Douglas,16, State,4,DEM ,Floyd Prozanski,391
+Douglas,17, State,4,DEM ,Floyd Prozanski,994
+Douglas,18, State,4,DEM ,Floyd Prozanski,456
+Douglas,19, State,4,DEM ,Floyd Prozanski,374
+Douglas,21, State,4,DEM ,Floyd Prozanski,224
+Douglas,22, State,4,DEM ,Floyd Prozanski,214
+Douglas,23, State,4,DEM ,Floyd Prozanski,296
+Douglas,24, State,4,DEM ,Floyd Prozanski,531
+Douglas,25, State,4,DEM ,Floyd Prozanski,434
+Douglas,56, State,4,DEM ,Floyd Prozanski,486
+Douglas,69, State,4,DEM ,Floyd Prozanski,96
+Douglas,Total, State,4,DEM ,Floyd Prozanski,6054
+Douglas,2, State,4,,Under Votes,8
+Douglas,8, State,4,,Under Votes,5
+Douglas,9, State,4,,Under Votes,54
+Douglas,10, State,4,,Under Votes,6
+Douglas,11, State,4,,Under Votes,35
+Douglas,12, State,4,,Under Votes,44
+Douglas,13, State,4,,Under Votes,66
+Douglas,14, State,4,,Under Votes,42
+Douglas,15, State,4,,Under Votes,45
+Douglas,16, State,4,,Under Votes,90
+Douglas,17, State,4,,Under Votes,186
+Douglas,18, State,4,,Under Votes,126
+Douglas,19, State,4,,Under Votes,95
+Douglas,21, State,4,,Under Votes,59
+Douglas,22, State,4,,Under Votes,50
+Douglas,23, State,4,,Under Votes,80
+Douglas,24, State,4,,Under Votes,159
+Douglas,25, State,4,,Under Votes,105
+Douglas,56, State,4,,Under Votes,133
+Douglas,69, State,4,,Under Votes,34
+Douglas,Total, State,4,,Under Votes,1422
+Douglas,2, State,4,,Over Votes,0
+Douglas,8, State,4,,Over Votes,0
+Douglas,9, State,4,,Over Votes,1
+Douglas,10, State,4,,Over Votes,0
+Douglas,11, State,4,,Over Votes,0
+Douglas,12, State,4,,Over Votes,0
+Douglas,13, State,4,,Over Votes,0
+Douglas,14, State,4,,Over Votes,0
+Douglas,15, State,4,,Over Votes,0
+Douglas,16, State,4,,Over Votes,0
+Douglas,17, State,4,,Over Votes,0
+Douglas,18, State,4,,Over Votes,0
+Douglas,19, State,4,,Over Votes,0
+Douglas,21, State,4,,Over Votes,0
+Douglas,22, State,4,,Over Votes,0
+Douglas,23, State,4,,Over Votes,0
+Douglas,24, State,4,,Over Votes,0
+Douglas,25, State,4,,Over Votes,0
+Douglas,56, State,4,,Over Votes,0
+Douglas,69, State,4,,Over Votes,0
+Douglas,Total, State,4,,Over Votes,1
+Douglas,2, State,4,,Write-ins,1
+Douglas,8, State,4,,Write-ins,0
+Douglas,9, State,4,,Write-ins,3
+Douglas,10, State,4,,Write-ins,1
+Douglas,11, State,4,,Write-ins,3
+Douglas,12, State,4,,Write-ins,0
+Douglas,13, State,4,,Write-ins,2
+Douglas,14, State,4,,Write-ins,1
+Douglas,15, State,4,,Write-ins,1
+Douglas,16, State,4,,Write-ins,2
+Douglas,17, State,4,,Write-ins,7
+Douglas,18, State,4,,Write-ins,2
+Douglas,19, State,4,,Write-ins,7
+Douglas,21, State,4,,Write-ins,1
+Douglas,22, State,4,,Write-ins,0
+Douglas,23, State,4,,Write-ins,0
+Douglas,24, State,4,,Write-ins,3
+Douglas,25, State,4,,Write-ins,2
+Douglas,56, State,4,,Write-ins,2
+Douglas,69, State,4,,Write-ins,0
+Douglas,Total, State,4,,Write-ins,38
+Douglas,1,State Senate,5,DEM ,Joanne Verger,137
+Douglas,3,State Senate,5,DEM ,Joanne Verger,372
+Douglas,4,State Senate,5,DEM ,Joanne Verger,329
+Douglas,5,State Senate,5,DEM ,Joanne Verger,361
+Douglas,6,State Senate,5,DEM ,Joanne Verger,80
+Douglas,7,State Senate,5,DEM ,Joanne Verger,138
+Douglas,Total,State Senate,5,DEM ,Joanne Verger,1417
+Douglas,1,State Senate,5,REP ,Al Pearn,180
+Douglas,3,State Senate,5,REP ,Al Pearn,336
+Douglas,4,State Senate,5,REP ,Al Pearn,377
+Douglas,5,State Senate,5,REP ,Al Pearn,411
+Douglas,6,State Senate,5,REP ,Al Pearn,148
+Douglas,7,State Senate,5,REP ,Al Pearn,187
+Douglas,Total,State Senate,5,REP ,Al Pearn,1639
+Douglas,1,State Senate,5,,Under Votes,16
+Douglas,3,State Senate,5,,Under Votes,34
+Douglas,4,State Senate,5,,Under Votes,30
+Douglas,5,State Senate,5,,Under Votes,37
+Douglas,6,State Senate,5,,Under Votes,6
+Douglas,7,State Senate,5,,Under Votes,17
+Douglas,Total,State Senate,5,,Under Votes,140
+Douglas,1,State Senate,5,,Over Votes,0
+Douglas,3,State Senate,5,,Over Votes,0
+Douglas,4,State Senate,5,,Over Votes,0
+Douglas,5,State Senate,5,,Over Votes,0
+Douglas,6,State Senate,5,,Over Votes,2
+Douglas,7,State Senate,5,,Over Votes,0
+Douglas,Total,State Senate,5,,Over Votes,2
+Douglas,1,State Senate,5,,Write-ins,0
+Douglas,3,State Senate,5,,Write-ins,1
+Douglas,4,State Senate,5,,Write-ins,0
+Douglas,5,State Senate,5,,Write-ins,0
+Douglas,6,State Senate,5,,Write-ins,0
+Douglas,7,State Senate,5,,Write-ins,0
+Douglas,Total,State Senate,5,,Write-ins,1
+Douglas,20,State House,1,REP ,Wayne Krieger,524
+Douglas,26,State House,1,REP ,Wayne Krieger,26
+Douglas,32,State House,1,REP ,Wayne Krieger,70
+Douglas,34,State House,1,REP ,Wayne Krieger,303
+Douglas,51,State House,1,REP ,Wayne Krieger,310
+Douglas,52,State House,1,REP ,Wayne Krieger,231
+Douglas,53,State House,1,REP ,Wayne Krieger,673
+Douglas,54,State House,1,REP ,Wayne Krieger,648
+Douglas,55,State House,1,REP ,Wayne Krieger,425
+Douglas,57,State House,1,REP ,Wayne Krieger,573
+Douglas,58,State House,1,REP ,Wayne Krieger,545
+Douglas,59,State House,1,REP ,Wayne Krieger,306
+Douglas,72,State House,1,REP ,Wayne Krieger,30
+Douglas,Total,State House,1,REP ,Wayne Krieger,4664
+Douglas,20,State House,1,DEM ,Charles Hochberg,173
+Douglas,26,State House,1,DEM ,Charles Hochberg,3
+Douglas,32,State House,1,DEM ,Charles Hochberg,34
+Douglas,34,State House,1,DEM ,Charles Hochberg,118
+Douglas,51,State House,1,DEM ,Charles Hochberg,149
+Douglas,52,State House,1,DEM ,Charles Hochberg,96
+Douglas,53,State House,1,DEM ,Charles Hochberg,323
+Douglas,54,State House,1,DEM ,Charles Hochberg,355
+Douglas,55,State House,1,DEM ,Charles Hochberg,241
+Douglas,57,State House,1,DEM ,Charles Hochberg,198
+Douglas,58,State House,1,DEM ,Charles Hochberg,271
+Douglas,59,State House,1,DEM ,Charles Hochberg,71
+Douglas,72,State House,1,DEM ,Charles Hochberg,10
+Douglas,Total,State House,1,DEM ,Charles Hochberg,2042
+Douglas,20,State House,1,,Under Votes,87
+Douglas,26,State House,1,,Under Votes,3
+Douglas,32,State House,1,,Under Votes,18
+Douglas,34,State House,1,,Under Votes,61
+Douglas,51,State House,1,,Under Votes,43
+Douglas,52,State House,1,,Under Votes,27
+Douglas,53,State House,1,,Under Votes,130
+Douglas,54,State House,1,,Under Votes,124
+Douglas,55,State House,1,,Under Votes,87
+Douglas,57,State House,1,,Under Votes,80
+Douglas,58,State House,1,,Under Votes,111
+Douglas,59,State House,1,,Under Votes,42
+Douglas,72,State House,1,,Under Votes,8
+Douglas,Total,State House,1,,Under Votes,821
+Douglas,20,State House,1,,Over Votes,0
+Douglas,26,State House,1,,Over Votes,0
+Douglas,32,State House,1,,Over Votes,0
+Douglas,34,State House,1,,Over Votes,0
+Douglas,51,State House,1,,Over Votes,0
+Douglas,52,State House,1,,Over Votes,0
+Douglas,53,State House,1,,Over Votes,0
+Douglas,54,State House,1,,Over Votes,0
+Douglas,55,State House,1,,Over Votes,2
+Douglas,57,State House,1,,Over Votes,2
+Douglas,58,State House,1,,Over Votes,0
+Douglas,59,State House,1,,Over Votes,0
+Douglas,72,State House,1,,Over Votes,0
+Douglas,Total,State House,1,,Over Votes,4
+Douglas,20,State House,1,,Write-ins,2
+Douglas,26,State House,1,,Write-ins,0
+Douglas,32,State House,1,,Write-ins,1
+Douglas,34,State House,1,,Write-ins,1
+Douglas,51,State House,1,,Write-ins,0
+Douglas,52,State House,1,,Write-ins,0
+Douglas,53,State House,1,,Write-ins,2
+Douglas,54,State House,1,,Write-ins,1
+Douglas,55,State House,1,,Write-ins,2
+Douglas,57,State House,1,,Write-ins,0
+Douglas,58,State House,1,,Write-ins,1
+Douglas,59,State House,1,,Write-ins,0
+Douglas,72,State House,1,,Write-ins,0
+Douglas,Total,State House,1,,Write-ins,10
+Douglas,27,State House,2,REP ,Susan Morgan,441
+Douglas,28,State House,2,REP ,Susan Morgan,162
+Douglas,29,State House,2,REP ,Susan Morgan,1103
+Douglas,30,State House,2,REP ,Susan Morgan,563
+Douglas,31,State House,2,REP ,Susan Morgan,400
+Douglas,33,State House,2,REP ,Susan Morgan,355
+Douglas,35,State House,2,REP ,Susan Morgan,679
+Douglas,36,State House,2,REP ,Susan Morgan,1099
+Douglas,37,State House,2,REP ,Susan Morgan,938
+Douglas,38,State House,2,REP ,Susan Morgan,705
+Douglas,39,State House,2,REP ,Susan Morgan,416
+Douglas,40,State House,2,REP ,Susan Morgan,311
+Douglas,41,State House,2,REP ,Susan Morgan,537
+Douglas,42,State House,2,REP ,Susan Morgan,433
+Douglas,43,State House,2,REP ,Susan Morgan,400
+Douglas,44,State House,2,REP ,Susan Morgan,268
+Douglas,45,State House,2,REP ,Susan Morgan,246
+Douglas,46,State House,2,REP ,Susan Morgan,716
+Douglas,47,State House,2,REP ,Susan Morgan,540
+Douglas,48,State House,2,REP ,Susan Morgan,221
+Douglas,49,State House,2,REP ,Susan Morgan,650
+Douglas,50,State House,2,REP ,Susan Morgan,1857
+Douglas,60,State House,2,REP ,Susan Morgan,432
+Douglas,61,State House,2,REP ,Susan Morgan,573
+Douglas,62,State House,2,REP ,Susan Morgan,797
+Douglas,63,State House,2,REP ,Susan Morgan,1152
+Douglas,64,State House,2,REP ,Susan Morgan,314
+Douglas,65,State House,2,REP ,Susan Morgan,384
+Douglas,66,State House,2,REP ,Susan Morgan,481
+Douglas,67,State House,2,REP ,Susan Morgan,354
+Douglas,68,State House,2,REP ,Susan Morgan,324
+Douglas,70,State House,2,REP ,Susan Morgan,691
+Douglas,71,State House,2,REP ,Susan Morgan,221
+Douglas,Total,State House,2,REP ,Susan Morgan,18763
+Douglas,27,State House,2,DEM ,Linda Mongkeya,115
+Douglas,28,State House,2,DEM ,Linda Mongkeya,45
+Douglas,29,State House,2,DEM ,Linda Mongkeya,437
+Douglas,30,State House,2,DEM ,Linda Mongkeya,281
+Douglas,31,State House,2,DEM ,Linda Mongkeya,222
+Douglas,33,State House,2,DEM ,Linda Mongkeya,153
+Douglas,35,State House,2,DEM ,Linda Mongkeya,166
+Douglas,36,State House,2,DEM ,Linda Mongkeya,321
+Douglas,37,State House,2,DEM ,Linda Mongkeya,334
+Douglas,38,State House,2,DEM ,Linda Mongkeya,331
+Douglas,39,State House,2,DEM ,Linda Mongkeya,229
+Douglas,40,State House,2,DEM ,Linda Mongkeya,151
+Douglas,41,State House,2,DEM ,Linda Mongkeya,194
+Douglas,42,State House,2,DEM ,Linda Mongkeya,227
+Douglas,43,State House,2,DEM ,Linda Mongkeya,252
+Douglas,44,State House,2,DEM ,Linda Mongkeya,121
+Douglas,45,State House,2,DEM ,Linda Mongkeya,124
+Douglas,46,State House,2,DEM ,Linda Mongkeya,281
+Douglas,47,State House,2,DEM ,Linda Mongkeya,185
+Douglas,48,State House,2,DEM ,Linda Mongkeya,63
+Douglas,49,State House,2,DEM ,Linda Mongkeya,253
+Douglas,50,State House,2,DEM ,Linda Mongkeya,698
+Douglas,60,State House,2,DEM ,Linda Mongkeya,199
+Douglas,61,State House,2,DEM ,Linda Mongkeya,192
+Douglas,62,State House,2,DEM ,Linda Mongkeya,285
+Douglas,63,State House,2,DEM ,Linda Mongkeya,549
+Douglas,64,State House,2,DEM ,Linda Mongkeya,98
+Douglas,65,State House,2,DEM ,Linda Mongkeya,125
+Douglas,66,State House,2,DEM ,Linda Mongkeya,211
+Douglas,67,State House,2,DEM ,Linda Mongkeya,132
+Douglas,68,State House,2,DEM ,Linda Mongkeya,104
+Douglas,70,State House,2,DEM ,Linda Mongkeya,270
+Douglas,71,State House,2,DEM ,Linda Mongkeya,95
+Douglas,Total,State House,2,DEM ,Linda Mongkeya,7443
+Douglas,27,State House,2,,Under Votes,49
+Douglas,28,State House,2,,Under Votes,16
+Douglas,29,State House,2,,Under Votes,84
+Douglas,30,State House,2,,Under Votes,62
+Douglas,31,State House,2,,Under Votes,56
+Douglas,33,State House,2,,Under Votes,36
+Douglas,35,State House,2,,Under Votes,45
+Douglas,36,State House,2,,Under Votes,106
+Douglas,37,State House,2,,Under Votes,97
+Douglas,38,State House,2,,Under Votes,72
+Douglas,39,State House,2,,Under Votes,54
+Douglas,40,State House,2,,Under Votes,35
+Douglas,41,State House,2,,Under Votes,58
+Douglas,42,State House,2,,Under Votes,32
+Douglas,43,State House,2,,Under Votes,60
+Douglas,44,State House,2,,Under Votes,23
+Douglas,45,State House,2,,Under Votes,32
+Douglas,46,State House,2,,Under Votes,81
+Douglas,47,State House,2,,Under Votes,44
+Douglas,48,State House,2,,Under Votes,20
+Douglas,49,State House,2,,Under Votes,55
+Douglas,50,State House,2,,Under Votes,190
+Douglas,60,State House,2,,Under Votes,41
+Douglas,61,State House,2,,Under Votes,37
+Douglas,62,State House,2,,Under Votes,71
+Douglas,63,State House,2,,Under Votes,96
+Douglas,64,State House,2,,Under Votes,22
+Douglas,65,State House,2,,Under Votes,38
+Douglas,66,State House,2,,Under Votes,55
+Douglas,67,State House,2,,Under Votes,22
+Douglas,68,State House,2,,Under Votes,16
+Douglas,70,State House,2,,Under Votes,64
+Douglas,71,State House,2,,Under Votes,22
+Douglas,Total,State House,2,,Under Votes,1791
+Douglas,27,State House,2,,Over Votes,0
+Douglas,28,State House,2,,Over Votes,0
+Douglas,29,State House,2,,Over Votes,1
+Douglas,30,State House,2,,Over Votes,0
+Douglas,31,State House,2,,Over Votes,0
+Douglas,33,State House,2,,Over Votes,0
+Douglas,35,State House,2,,Over Votes,0
+Douglas,36,State House,2,,Over Votes,1
+Douglas,37,State House,2,,Over Votes,0
+Douglas,38,State House,2,,Over Votes,0
+Douglas,39,State House,2,,Over Votes,0
+Douglas,40,State House,2,,Over Votes,0
+Douglas,41,State House,2,,Over Votes,0
+Douglas,42,State House,2,,Over Votes,0
+Douglas,43,State House,2,,Over Votes,0
+Douglas,44,State House,2,,Over Votes,0
+Douglas,45,State House,2,,Over Votes,0
+Douglas,46,State House,2,,Over Votes,0
+Douglas,47,State House,2,,Over Votes,0
+Douglas,48,State House,2,,Over Votes,0
+Douglas,49,State House,2,,Over Votes,0
+Douglas,50,State House,2,,Over Votes,0
+Douglas,60,State House,2,,Over Votes,0
+Douglas,61,State House,2,,Over Votes,0
+Douglas,62,State House,2,,Over Votes,0
+Douglas,63,State House,2,,Over Votes,0
+Douglas,64,State House,2,,Over Votes,0
+Douglas,65,State House,2,,Over Votes,0
+Douglas,66,State House,2,,Over Votes,0
+Douglas,67,State House,2,,Over Votes,0
+Douglas,68,State House,2,,Over Votes,0
+Douglas,70,State House,2,,Over Votes,0
+Douglas,71,State House,2,,Over Votes,0
+Douglas,Total,State House,2,,Over Votes,2
+Douglas,27,State House,2,,Write-ins,4
+Douglas,28,State House,2,,Write-ins,1
+Douglas,29,State House,2,,Write-ins,2
+Douglas,30,State House,2,,Write-ins,0
+Douglas,31,State House,2,,Write-ins,2
+Douglas,33,State House,2,,Write-ins,1
+Douglas,35,State House,2,,Write-ins,3
+Douglas,36,State House,2,,Write-ins,0
+Douglas,37,State House,2,,Write-ins,6
+Douglas,38,State House,2,,Write-ins,5
+Douglas,39,State House,2,,Write-ins,3
+Douglas,40,State House,2,,Write-ins,2
+Douglas,41,State House,2,,Write-ins,5
+Douglas,42,State House,2,,Write-ins,0
+Douglas,43,State House,2,,Write-ins,2
+Douglas,44,State House,2,,Write-ins,0
+Douglas,45,State House,2,,Write-ins,0
+Douglas,46,State House,2,,Write-ins,1
+Douglas,47,State House,2,,Write-ins,4
+Douglas,48,State House,2,,Write-ins,0
+Douglas,49,State House,2,,Write-ins,4
+Douglas,50,State House,2,,Write-ins,7
+Douglas,60,State House,2,,Write-ins,2
+Douglas,61,State House,2,,Write-ins,6
+Douglas,62,State House,2,,Write-ins,0
+Douglas,63,State House,2,,Write-ins,4
+Douglas,64,State House,2,,Write-ins,2
+Douglas,65,State House,2,,Write-ins,1
+Douglas,66,State House,2,,Write-ins,0
+Douglas,67,State House,2,,Write-ins,3
+Douglas,68,State House,2,,Write-ins,0
+Douglas,70,State House,2,,Write-ins,1
+Douglas,71,State House,2,,Write-ins,0
+Douglas,Total,State House,2,,Write-ins,71
+Douglas,2,State House,7,REP ,Bruce L Hanna,24
+Douglas,8,State House,7,REP ,Bruce L Hanna,25
+Douglas,9,State House,7,REP ,Bruce L Hanna,468
+Douglas,10,State House,7,REP ,Bruce L Hanna,56
+Douglas,11,State House,7,REP ,Bruce L Hanna,305
+Douglas,12,State House,7,REP ,Bruce L Hanna,434
+Douglas,13,State House,7,REP ,Bruce L Hanna,597
+Douglas,14,State House,7,REP ,Bruce L Hanna,302
+Douglas,15,State House,7,REP ,Bruce L Hanna,297
+Douglas,16,State House,7,REP ,Bruce L Hanna,706
+Douglas,17,State House,7,REP ,Bruce L Hanna,1486
+Douglas,18,State House,7,REP ,Bruce L Hanna,746
+Douglas,19,State House,7,REP ,Bruce L Hanna,720
+Douglas,21,State House,7,REP ,Bruce L Hanna,517
+Douglas,22,State House,7,REP ,Bruce L Hanna,404
+Douglas,23,State House,7,REP ,Bruce L Hanna,672
+Douglas,24,State House,7,REP ,Bruce L Hanna,965
+Douglas,25,State House,7,REP ,Bruce L Hanna,607
+Douglas,56,State House,7,REP ,Bruce L Hanna,1110
+Douglas,69,State House,7,REP ,Bruce L Hanna,180
+Douglas,Total,State House,7,REP ,Bruce L Hanna,10621
+Douglas,2,State House,7,DEM ,Shirley A Cairns,14
+Douglas,8,State House,7,DEM ,Shirley A Cairns,19
+Douglas,9,State House,7,DEM ,Shirley A Cairns,242
+Douglas,10,State House,7,DEM ,Shirley A Cairns,43
+Douglas,11,State House,7,DEM ,Shirley A Cairns,155
+Douglas,12,State House,7,DEM ,Shirley A Cairns,278
+Douglas,13,State House,7,DEM ,Shirley A Cairns,292
+Douglas,14,State House,7,DEM ,Shirley A Cairns,142
+Douglas,15,State House,7,DEM ,Shirley A Cairns,168
+Douglas,16,State House,7,DEM ,Shirley A Cairns,323
+Douglas,17,State House,7,DEM ,Shirley A Cairns,822
+Douglas,18,State House,7,DEM ,Shirley A Cairns,398
+Douglas,19,State House,7,DEM ,Shirley A Cairns,318
+Douglas,21,State House,7,DEM ,Shirley A Cairns,147
+Douglas,22,State House,7,DEM ,Shirley A Cairns,183
+Douglas,23,State House,7,DEM ,Shirley A Cairns,198
+Douglas,24,State House,7,DEM ,Shirley A Cairns,409
+Douglas,25,State House,7,DEM ,Shirley A Cairns,374
+Douglas,56,State House,7,DEM ,Shirley A Cairns,372
+Douglas,69,State House,7,DEM ,Shirley A Cairns,78
+Douglas,Total,State House,7,DEM ,Shirley A Cairns,4975
+Douglas,2,State House,7,,Under Votes,5
+Douglas,8,State House,7,,Under Votes,6
+Douglas,9,State House,7,,Under Votes,46
+Douglas,10,State House,7,,Under Votes,4
+Douglas,11,State House,7,,Under Votes,38
+Douglas,12,State House,7,,Under Votes,46
+Douglas,13,State House,7,,Under Votes,54
+Douglas,14,State House,7,,Under Votes,31
+Douglas,15,State House,7,,Under Votes,35
+Douglas,16,State House,7,,Under Votes,74
+Douglas,17,State House,7,,Under Votes,144
+Douglas,18,State House,7,,Under Votes,94
+Douglas,19,State House,7,,Under Votes,69
+Douglas,21,State House,7,,Under Votes,43
+Douglas,22,State House,7,,Under Votes,36
+Douglas,23,State House,7,,Under Votes,57
+Douglas,24,State House,7,,Under Votes,135
+Douglas,25,State House,7,,Under Votes,84
+Douglas,56,State House,7,,Under Votes,103
+Douglas,69,State House,7,,Under Votes,41
+Douglas,Total,State House,7,,Under Votes,1145
+Douglas,2,State House,7,,Over Votes,0
+Douglas,8,State House,7,,Over Votes,0
+Douglas,9,State House,7,,Over Votes,0
+Douglas,10,State House,7,,Over Votes,0
+Douglas,11,State House,7,,Over Votes,0
+Douglas,12,State House,7,,Over Votes,0
+Douglas,13,State House,7,,Over Votes,0
+Douglas,14,State House,7,,Over Votes,0
+Douglas,15,State House,7,,Over Votes,0
+Douglas,16,State House,7,,Over Votes,0
+Douglas,17,State House,7,,Over Votes,0
+Douglas,18,State House,7,,Over Votes,0
+Douglas,19,State House,7,,Over Votes,0
+Douglas,21,State House,7,,Over Votes,0
+Douglas,22,State House,7,,Over Votes,0
+Douglas,23,State House,7,,Over Votes,0
+Douglas,24,State House,7,,Over Votes,0
+Douglas,25,State House,7,,Over Votes,0
+Douglas,56,State House,7,,Over Votes,0
+Douglas,69,State House,7,,Over Votes,0
+Douglas,Total,State House,7,,Over Votes,0
+Douglas,2,State House,7,,Write-ins,0
+Douglas,8,State House,7,,Write-ins,0
+Douglas,9,State House,7,,Write-ins,2
+Douglas,10,State House,7,,Write-ins,0
+Douglas,11,State House,7,,Write-ins,2
+Douglas,12,State House,7,,Write-ins,1
+Douglas,13,State House,7,,Write-ins,2
+Douglas,14,State House,7,,Write-ins,1
+Douglas,15,State House,7,,Write-ins,0
+Douglas,16,State House,7,,Write-ins,1
+Douglas,17,State House,7,,Write-ins,0
+Douglas,18,State House,7,,Write-ins,3
+Douglas,19,State House,7,,Write-ins,1
+Douglas,21,State House,7,,Write-ins,1
+Douglas,22,State House,7,,Write-ins,0
+Douglas,23,State House,7,,Write-ins,2
+Douglas,24,State House,7,,Write-ins,3
+Douglas,25,State House,7,,Write-ins,3
+Douglas,56,State House,7,,Write-ins,1
+Douglas,69,State House,7,,Write-ins,0
+Douglas,Total,State House,7,,Write-ins,23
+Douglas,1,State House,9,REP ,Susan Massey,174
+Douglas,3,State House,9,REP ,Susan Massey,323
+Douglas,4,State House,9,REP ,Susan Massey,357
+Douglas,5,State House,9,REP ,Susan Massey,396
+Douglas,6,State House,9,REP ,Susan Massey,143
+Douglas,7,State House,9,REP ,Susan Massey,190
+Douglas,Total,State House,9,REP ,Susan Massey,1583
+Douglas,1,State House,9,DEM ,Arnie Roblan,134
+Douglas,3,State House,9,DEM ,Arnie Roblan,368
+Douglas,4,State House,9,DEM ,Arnie Roblan,329
+Douglas,5,State House,9,DEM ,Arnie Roblan,343
+Douglas,6,State House,9,DEM ,Arnie Roblan,77
+Douglas,7,State House,9,DEM ,Arnie Roblan,127
+Douglas,Total,State House,9,DEM ,Arnie Roblan,1378
+Douglas,1,State House,9,,Under Votes,24
+Douglas,3,State House,9,,Under Votes,51
+Douglas,4,State House,9,,Under Votes,50
+Douglas,5,State House,9,,Under Votes,68
+Douglas,6,State House,9,,Under Votes,14
+Douglas,7,State House,9,,Under Votes,25
+Douglas,Total,State House,9,,Under Votes,232
+Douglas,1,State House,9,,Over Votes,0
+Douglas,3,State House,9,,Over Votes,0
+Douglas,4,State House,9,,Over Votes,0
+Douglas,5,State House,9,,Over Votes,0
+Douglas,6,State House,9,,Over Votes,2
+Douglas,7,State House,9,,Over Votes,0
+Douglas,Total,State House,9,,Over Votes,2
+Douglas,1,State House,9,,Write-ins,1
+Douglas,3,State House,9,,Write-ins,1
+Douglas,4,State House,9,,Write-ins,0
+Douglas,5,State House,9,,Write-ins,2
+Douglas,6,State House,9,,Write-ins,0
+Douglas,7,State House,9,,Write-ins,0
+Douglas,Total,State House,9,,Write-ins,4
