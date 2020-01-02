@@ -1,0 +1,862 @@
+county,precinct,office,district,party,candidate,votes
+Yamhill,1,President,,LIB,Harry Browne,5
+Yamhill,2,President,,LIB,Harry Browne,7
+Yamhill,3,President,,LIB,Harry Browne,15
+Yamhill,4,President,,LIB,Harry Browne,13
+Yamhill,7,President,,LIB,Harry Browne,5
+Yamhill,9,President,,LIB,Harry Browne,11
+Yamhill,10,President,,LIB,Harry Browne,9
+Yamhill,12,President,,LIB,Harry Browne,21
+Yamhill,13,President,,LIB,Harry Browne,5
+Yamhill,15,President,,LIB,Harry Browne,7
+Yamhill,18,President,,LIB,Harry Browne,22
+Yamhill,19,President,,LIB,Harry Browne,25
+Yamhill,20,President,,LIB,Harry Browne,9
+Yamhill,21,President,,LIB,Harry Browne,13
+Yamhill,24,President,,LIB,Harry Browne,11
+Yamhill,26,President,,LIB,Harry Browne,6
+Yamhill,28,President,,LIB,Harry Browne,10
+Yamhill,Total,President,,LIB,Harry Browne,194
+Yamhill,1,President,,IND,Patrick J. Buchanan,1
+Yamhill,2,President,,IND,Patrick J. Buchanan,9
+Yamhill,3,President,,IND,Patrick J. Buchanan,7
+Yamhill,4,President,,IND,Patrick J. Buchanan,10
+Yamhill,7,President,,IND,Patrick J. Buchanan,7
+Yamhill,9,President,,IND,Patrick J. Buchanan,6
+Yamhill,10,President,,IND,Patrick J. Buchanan,5
+Yamhill,12,President,,IND,Patrick J. Buchanan,13
+Yamhill,13,President,,IND,Patrick J. Buchanan,7
+Yamhill,15,President,,IND,Patrick J. Buchanan,26
+Yamhill,18,President,,IND,Patrick J. Buchanan,7
+Yamhill,19,President,,IND,Patrick J. Buchanan,15
+Yamhill,20,President,,IND,Patrick J. Buchanan,4
+Yamhill,21,President,,IND,Patrick J. Buchanan,9
+Yamhill,24,President,,IND,Patrick J. Buchanan,21
+Yamhill,26,President,,IND,Patrick J. Buchanan,13
+Yamhill,28,President,,IND,Patrick J. Buchanan,16
+Yamhill,Total,President,,IND,Patrick J. Buchanan,176
+Yamhill,1,President,,REP,George W. Bush,909
+Yamhill,2,President,,REP,George W. Bush,1317
+Yamhill,3,President,,REP,George W. Bush,1537
+Yamhill,4,President,,REP,George W. Bush,1046
+Yamhill,7,President,,REP,George W. Bush,735
+Yamhill,9,President,,REP,George W. Bush,1473
+Yamhill,10,President,,REP,George W. Bush,721
+Yamhill,12,President,,REP,George W. Bush,1183
+Yamhill,13,President,,REP,George W. Bush,647
+Yamhill,15,President,,REP,George W. Bush,1597
+Yamhill,18,President,,REP,George W. Bush,1971
+Yamhill,19,President,,REP,George W. Bush,1412
+Yamhill,20,President,,REP,George W. Bush,964
+Yamhill,21,President,,REP,George W. Bush,1090
+Yamhill,24,President,,REP,George W. Bush,1172
+Yamhill,26,President,,REP,George W. Bush,841
+Yamhill,28,President,,REP,George W. Bush,578
+Yamhill,Total,President,,REP,George W. Bush,19193
+Yamhill,1,President,,PCG,Ralph Nader,52
+Yamhill,2,President,,PCG,Ralph Nader,65
+Yamhill,3,President,,PCG,Ralph Nader,122
+Yamhill,4,President,,PCG,Ralph Nader,90
+Yamhill,7,President,,PCG,Ralph Nader,57
+Yamhill,9,President,,PCG,Ralph Nader,114
+Yamhill,10,President,,PCG,Ralph Nader,41
+Yamhill,12,President,,PCG,Ralph Nader,102
+Yamhill,13,President,,PCG,Ralph Nader,48
+Yamhill,15,President,,PCG,Ralph Nader,144
+Yamhill,18,President,,PCG,Ralph Nader,135
+Yamhill,19,President,,PCG,Ralph Nader,153
+Yamhill,20,President,,PCG,Ralph Nader,87
+Yamhill,21,President,,PCG,Ralph Nader,73
+Yamhill,24,President,,PCG,Ralph Nader,89
+Yamhill,26,President,,PCG,Ralph Nader,61
+Yamhill,28,President,,PCG,Ralph Nader,53
+Yamhill,Total,President,,PCG,Ralph Nader,1486
+Yamhill,1,President,,REF,John Hagelin,5
+Yamhill,2,President,,REF,John Hagelin,7
+Yamhill,3,President,,REF,John Hagelin,7
+Yamhill,4,President,,REF,John Hagelin,5
+Yamhill,7,President,,REF,John Hagelin,2
+Yamhill,9,President,,REF,John Hagelin,7
+Yamhill,10,President,,REF,John Hagelin,0
+Yamhill,12,President,,REF,John Hagelin,3
+Yamhill,13,President,,REF,John Hagelin,1
+Yamhill,15,President,,REF,John Hagelin,5
+Yamhill,18,President,,REF,John Hagelin,3
+Yamhill,19,President,,REF,John Hagelin,3
+Yamhill,20,President,,REF,John Hagelin,2
+Yamhill,21,President,,REF,John Hagelin,6
+Yamhill,24,President,,REF,John Hagelin,2
+Yamhill,26,President,,REF,John Hagelin,2
+Yamhill,28,President,,REF,John Hagelin,2
+Yamhill,Total,President,,REF,John Hagelin,62
+Yamhill,1,President,,CON,Howard Phillips,4
+Yamhill,2,President,,CON,Howard Phillips,2
+Yamhill,3,President,,CON,Howard Phillips,11
+Yamhill,4,President,,CON,Howard Phillips,12
+Yamhill,7,President,,CON,Howard Phillips,1
+Yamhill,9,President,,CON,Howard Phillips,5
+Yamhill,10,President,,CON,Howard Phillips,6
+Yamhill,12,President,,CON,Howard Phillips,2
+Yamhill,13,President,,CON,Howard Phillips,3
+Yamhill,15,President,,CON,Howard Phillips,3
+Yamhill,18,President,,CON,Howard Phillips,5
+Yamhill,19,President,,CON,Howard Phillips,4
+Yamhill,20,President,,CON,Howard Phillips,2
+Yamhill,21,President,,CON,Howard Phillips,2
+Yamhill,24,President,,CON,Howard Phillips,5
+Yamhill,26,President,,CON,Howard Phillips,6
+Yamhill,28,President,,CON,Howard Phillips,2
+Yamhill,Total,President,,CON,Howard Phillips,75
+Yamhill,1,President,,DEM,Al Gore,624
+Yamhill,2,President,,DEM,Al Gore,655
+Yamhill,3,President,,DEM,Al Gore,1018
+Yamhill,4,President,,DEM,Al Gore,842
+Yamhill,7,President,,DEM,Al Gore,592
+Yamhill,9,President,,DEM,Al Gore,1088
+Yamhill,10,President,,DEM,Al Gore,458
+Yamhill,12,President,,DEM,Al Gore,803
+Yamhill,13,President,,DEM,Al Gore,402
+Yamhill,15,President,,DEM,Al Gore,1484
+Yamhill,18,President,,DEM,Al Gore,1747
+Yamhill,19,President,,DEM,Al Gore,1533
+Yamhill,20,President,,DEM,Al Gore,614
+Yamhill,21,President,,DEM,Al Gore,756
+Yamhill,24,President,,DEM,Al Gore,734
+Yamhill,26,President,,DEM,Al Gore,561
+Yamhill,28,President,,DEM,Al Gore,343
+Yamhill,Total,President,,DEM,Al Gore,14254
+Yamhill,1,President,,,Write-in,1
+Yamhill,2,President,,,Write-in,7
+Yamhill,3,President,,,Write-in,5
+Yamhill,4,President,,,Write-in,3
+Yamhill,7,President,,,Write-in,3
+Yamhill,9,President,,,Write-in,5
+Yamhill,10,President,,,Write-in,3
+Yamhill,12,President,,,Write-in,6
+Yamhill,13,President,,,Write-in,1
+Yamhill,15,President,,,Write-in,13
+Yamhill,18,President,,,Write-in,11
+Yamhill,19,President,,,Write-in,12
+Yamhill,20,President,,,Write-in,4
+Yamhill,21,President,,,Write-in,9
+Yamhill,24,President,,,Write-in,8
+Yamhill,26,President,,,Write-in,6
+Yamhill,28,President,,,Write-in,2
+Yamhill,Total,President,,,Write-in,99
+Yamhill,1,President,,,Over Votes,6
+Yamhill,2,President,,,Over Votes,2
+Yamhill,3,President,,,Over Votes,4
+Yamhill,4,President,,,Over Votes,11
+Yamhill,7,President,,,Over Votes,2
+Yamhill,9,President,,,Over Votes,4
+Yamhill,10,President,,,Over Votes,2
+Yamhill,12,President,,,Over Votes,7
+Yamhill,13,President,,,Over Votes,6
+Yamhill,15,President,,,Over Votes,12
+Yamhill,18,President,,,Over Votes,5
+Yamhill,19,President,,,Over Votes,7
+Yamhill,20,President,,,Over Votes,2
+Yamhill,21,President,,,Over Votes,5
+Yamhill,24,President,,,Over Votes,3
+Yamhill,26,President,,,Over Votes,12
+Yamhill,28,President,,,Over Votes,5
+Yamhill,Total,President,,,Over Votes,95
+Yamhill,1,President,,,Under Votes,14
+Yamhill,2,President,,,Under Votes,21
+Yamhill,3,President,,,Under Votes,17
+Yamhill,4,President,,,Under Votes,11
+Yamhill,7,President,,,Under Votes,16
+Yamhill,9,President,,,Under Votes,17
+Yamhill,10,President,,,Under Votes,6
+Yamhill,12,President,,,Under Votes,24
+Yamhill,13,President,,,Under Votes,15
+Yamhill,15,President,,,Under Votes,26
+Yamhill,18,President,,,Under Votes,29
+Yamhill,19,President,,,Under Votes,27
+Yamhill,20,President,,,Under Votes,19
+Yamhill,21,President,,,Under Votes,21
+Yamhill,24,President,,,Under Votes,23
+Yamhill,26,President,,,Under Votes,14
+Yamhill,28,President,,,Under Votes,11
+Yamhill,Total,President,,,Under Votes,311
+Yamhill,1,U.S. House,1,LIB,Beth A. King,44
+Yamhill,2,U.S. House,1,LIB,Beth A. King,55
+Yamhill,3,U.S. House,1,LIB,Beth A. King,97
+Yamhill,4,U.S. House,1,LIB,Beth A. King,91
+Yamhill,7,U.S. House,1,LIB,Beth A. King,49
+Yamhill,9,U.S. House,1,LIB,Beth A. King,97
+Yamhill,10,U.S. House,1,LIB,Beth A. King,41
+Yamhill,12,U.S. House,1,LIB,Beth A. King,87
+Yamhill,13,U.S. House,1,LIB,Beth A. King,28
+Yamhill,15,U.S. House,1,LIB,Beth A. King,106
+Yamhill,13,U.S. House,1,LIB,Beth A. King,111
+Yamhill,19,U.S. House,1,LIB,Beth A. King,105
+Yamhill,20,U.S. House,1,LIB,Beth A. King,81
+Yamhill,21,U.S. House,1,LIB,Beth A. King,71
+Yamhill,24,U.S. House,1,LIB,Beth A. King,73
+Yamhill,26,U.S. House,1,LIB,Beth A. King,73
+Yamhill,23,U.S. House,1,LIB,Beth A. King,54
+Yamhill,Total,U.S. House,1,LIB,Beth A. King,1263
+Yamhill,1,U.S. House,1,DEM,David Wu,712
+Yamhill,2,U.S. House,1,DEM,David Wu,873
+Yamhill,3,U.S. House,1,DEM,David Wu,1198
+Yamhill,4,U.S. House,1,DEM,David Wu,974
+Yamhill,7,U.S. House,1,DEM,David Wu,725
+Yamhill,9,U.S. House,1,DEM,David Wu,1239
+Yamhill,10,U.S. House,1,DEM,David Wu,591
+Yamhill,12,U.S. House,1,DEM,David Wu,981
+Yamhill,13,U.S. House,1,DEM,David Wu,524
+Yamhill,15,U.S. House,1,DEM,David Wu,1810
+Yamhill,13,U.S. House,1,DEM,David Wu,2136
+Yamhill,19,U.S. House,1,DEM,David Wu,1838
+Yamhill,20,U.S. House,1,DEM,David Wu,746
+Yamhill,21,U.S. House,1,DEM,David Wu,933
+Yamhill,24,U.S. House,1,DEM,David Wu,905
+Yamhill,26,U.S. House,1,DEM,David Wu,710
+Yamhill,23,U.S. House,1,DEM,David Wu,472
+Yamhill,Total,U.S. House,1,DEM,David Wu,17367
+Yamhill,1,U.S. House,1,REP,Charles Starr,797
+Yamhill,2,U.S. House,1,REP,Charles Starr,1066
+Yamhill,3,U.S. House,1,REP,Charles Starr,1287
+Yamhill,4,U.S. House,1,REP,Charles Starr,892
+Yamhill,7,U.S. House,1,REP,Charles Starr,582
+Yamhill,9,U.S. House,1,REP,Charles Starr,1279
+Yamhill,10,U.S. House,1,REP,Charles Starr,556
+Yamhill,12,U.S. House,1,REP,Charles Starr,967
+Yamhill,13,U.S. House,1,REP,Charles Starr,524
+Yamhill,15,U.S. House,1,REP,Charles Starr,1243
+Yamhill,13,U.S. House,1,REP,Charles Starr,1510
+Yamhill,19,U.S. House,1,REP,Charles Starr,1107
+Yamhill,20,U.S. House,1,REP,Charles Starr,802
+Yamhill,21,U.S. House,1,REP,Charles Starr,876
+Yamhill,24,U.S. House,1,REP,Charles Starr,990
+Yamhill,26,U.S. House,1,REP,Charles Starr,655
+Yamhill,23,U.S. House,1,REP,Charles Starr,449
+Yamhill,Total,U.S. House,1,REP,Charles Starr,15582
+Yamhill,1,U.S. House,1,,Write-in,12
+Yamhill,2,U.S. House,1,,Write-in,20
+Yamhill,3,U.S. House,1,,Write-in,20
+Yamhill,4,U.S. House,1,,Write-in,7
+Yamhill,7,U.S. House,1,,Write-in,9
+Yamhill,9,U.S. House,1,,Write-in,30
+Yamhill,10,U.S. House,1,,Write-in,10
+Yamhill,12,U.S. House,1,,Write-in,16
+Yamhill,13,U.S. House,1,,Write-in,6
+Yamhill,15,U.S. House,1,,Write-in,25
+Yamhill,13,U.S. House,1,,Write-in,27
+Yamhill,19,U.S. House,1,,Write-in,22
+Yamhill,20,U.S. House,1,,Write-in,10
+Yamhill,21,U.S. House,1,,Write-in,14
+Yamhill,24,U.S. House,1,,Write-in,21
+Yamhill,26,U.S. House,1,,Write-in,12
+Yamhill,23,U.S. House,1,,Write-in,16
+Yamhill,Total,U.S. House,1,,Write-in,277
+Yamhill,1,U.S. House,1,,Over Votes,1
+Yamhill,2,U.S. House,1,,Over Votes,0
+Yamhill,3,U.S. House,1,,Over Votes,0
+Yamhill,4,U.S. House,1,,Over Votes,0
+Yamhill,7,U.S. House,1,,Over Votes,0
+Yamhill,9,U.S. House,1,,Over Votes,1
+Yamhill,10,U.S. House,1,,Over Votes,0
+Yamhill,12,U.S. House,1,,Over Votes,0
+Yamhill,13,U.S. House,1,,Over Votes,0
+Yamhill,15,U.S. House,1,,Over Votes,2
+Yamhill,13,U.S. House,1,,Over Votes,1
+Yamhill,19,U.S. House,1,,Over Votes,3
+Yamhill,20,U.S. House,1,,Over Votes,0
+Yamhill,21,U.S. House,1,,Over Votes,1
+Yamhill,24,U.S. House,1,,Over Votes,0
+Yamhill,26,U.S. House,1,,Over Votes,1
+Yamhill,23,U.S. House,1,,Over Votes,0
+Yamhill,Total,U.S. House,1,,Over Votes,10
+Yamhill,1,U.S. House,1,,Under Votes,55
+Yamhill,2,U.S. House,1,,Under Votes,78
+Yamhill,3,U.S. House,1,,Under Votes,141
+Yamhill,4,U.S. House,1,,Under Votes,79
+Yamhill,7,U.S. House,1,,Under Votes,55
+Yamhill,9,U.S. House,1,,Under Votes,84
+Yamhill,10,U.S. House,1,,Under Votes,53
+Yamhill,12,U.S. House,1,,Under Votes,113
+Yamhill,13,U.S. House,1,,Under Votes,53
+Yamhill,15,U.S. House,1,,Under Votes,131
+Yamhill,13,U.S. House,1,,Under Votes,150
+Yamhill,19,U.S. House,1,,Under Votes,116
+Yamhill,20,U.S. House,1,,Under Votes,68
+Yamhill,21,U.S. House,1,,Under Votes,89
+Yamhill,24,U.S. House,1,,Under Votes,79
+Yamhill,26,U.S. House,1,,Under Votes,71
+Yamhill,23,U.S. House,1,,Under Votes,31
+Yamhill,Total,U.S. House,1,,Under Votes,1446
+Yamhill,1,Secretary of State,,DEM,Bill Bradbury,638
+Yamhill,2,Secretary of State,,DEM,Bill Bradbury,701
+Yamhill,3,Secretary of State,,DEM,Bill Bradbury,1045
+Yamhill,4,Secretary of State,,DEM,Bill Bradbury,831
+Yamhill,7,Secretary of State,,DEM,Bill Bradbury,623
+Yamhill,9,Secretary of State,,DEM,Bill Bradbury,1129
+Yamhill,10,Secretary of State,,DEM,Bill Bradbury,490
+Yamhill,12,Secretary of State,,DEM,Bill Bradbury,872
+Yamhill,13,Secretary of State,,DEM,Bill Bradbury,445
+Yamhill,15,Secretary of State,,DEM,Bill Bradbury,1537
+Yamhill,18,Secretary of State,,DEM,Bill Bradbury,1811
+Yamhill,19,Secretary of State,,DEM,Bill Bradbury,1587
+Yamhill,20,Secretary of State,,DEM,Bill Bradbury,648
+Yamhill,21,Secretary of State,,DEM,Bill Bradbury,811
+Yamhill,24,Secretary of State,,DEM,Bill Bradbury,758
+Yamhill,28,Secretary of State,,DEM,Bill Bradbury,598
+Yamhill,28,Secretary of State,,DEM,Bill Bradbury,386
+Yamhill,Total,Secretary of State,,DEM,Bill Bradbury,14910
+Yamhill,1,Secretary of State,,PCG,Lloyd Marbet,52
+Yamhill,2,Secretary of State,,PCG,Lloyd Marbet,49
+Yamhill,3,Secretary of State,,PCG,Lloyd Marbet,83
+Yamhill,4,Secretary of State,,PCG,Lloyd Marbet,86
+Yamhill,7,Secretary of State,,PCG,Lloyd Marbet,36
+Yamhill,9,Secretary of State,,PCG,Lloyd Marbet,85
+Yamhill,10,Secretary of State,,PCG,Lloyd Marbet,38
+Yamhill,12,Secretary of State,,PCG,Lloyd Marbet,79
+Yamhill,13,Secretary of State,,PCG,Lloyd Marbet,33
+Yamhill,15,Secretary of State,,PCG,Lloyd Marbet,96
+Yamhill,18,Secretary of State,,PCG,Lloyd Marbet,92
+Yamhill,19,Secretary of State,,PCG,Lloyd Marbet,115
+Yamhill,20,Secretary of State,,PCG,Lloyd Marbet,76
+Yamhill,21,Secretary of State,,PCG,Lloyd Marbet,61
+Yamhill,24,Secretary of State,,PCG,Lloyd Marbet,65
+Yamhill,28,Secretary of State,,PCG,Lloyd Marbet,50
+Yamhill,28,Secretary of State,,PCG,Lloyd Marbet,39
+Yamhill,Total,Secretary of State,,PCG,Lloyd Marbet,1135
+Yamhill,1,Secretary of State,,REP,Lynn Snodgrass,851
+Yamhill,2,Secretary of State,,REP,Lynn Snodgrass,1227
+Yamhill,3,Secretary of State,,REP,Lynn Snodgrass,1434
+Yamhill,4,Secretary of State,,REP,Lynn Snodgrass,999
+Yamhill,7,Secretary of State,,REP,Lynn Snodgrass,673
+Yamhill,9,Secretary of State,,REP,Lynn Snodgrass,1359
+Yamhill,10,Secretary of State,,REP,Lynn Snodgrass,631
+Yamhill,12,Secretary of State,,REP,Lynn Snodgrass,1074
+Yamhill,13,Secretary of State,,REP,Lynn Snodgrass,591
+Yamhill,15,Secretary of State,,REP,Lynn Snodgrass,1490
+Yamhill,18,Secretary of State,,REP,Lynn Snodgrass,1820
+Yamhill,19,Secretary of State,,REP,Lynn Snodgrass,1319
+Yamhill,20,Secretary of State,,REP,Lynn Snodgrass,867
+Yamhill,21,Secretary of State,,REP,Lynn Snodgrass,976
+Yamhill,24,Secretary of State,,REP,Lynn Snodgrass,1099
+Yamhill,28,Secretary of State,,REP,Lynn Snodgrass,768
+Yamhill,28,Secretary of State,,REP,Lynn Snodgrass,526
+Yamhill,Total,Secretary of State,,REP,Lynn Snodgrass,17704
+Yamhill,1,Secretary of State,,LIB,"E.J. (Ed) Pole, II",23
+Yamhill,2,Secretary of State,,LIB,"E.J. (Ed) Pole, II",24
+Yamhill,3,Secretary of State,,LIB,"E.J. (Ed) Pole, II",46
+Yamhill,4,Secretary of State,,LIB,"E.J. (Ed) Pole, II",52
+Yamhill,7,Secretary of State,,LIB,"E.J. (Ed) Pole, II",22
+Yamhill,9,Secretary of State,,LIB,"E.J. (Ed) Pole, II",46
+Yamhill,10,Secretary of State,,LIB,"E.J. (Ed) Pole, II",39
+Yamhill,12,Secretary of State,,LIB,"E.J. (Ed) Pole, II",46
+Yamhill,13,Secretary of State,,LIB,"E.J. (Ed) Pole, II",17
+Yamhill,15,Secretary of State,,LIB,"E.J. (Ed) Pole, II",40
+Yamhill,18,Secretary of State,,LIB,"E.J. (Ed) Pole, II",47
+Yamhill,19,Secretary of State,,LIB,"E.J. (Ed) Pole, II",49
+Yamhill,20,Secretary of State,,LIB,"E.J. (Ed) Pole, II",29
+Yamhill,21,Secretary of State,,LIB,"E.J. (Ed) Pole, II",46
+Yamhill,24,Secretary of State,,LIB,"E.J. (Ed) Pole, II",56
+Yamhill,28,Secretary of State,,LIB,"E.J. (Ed) Pole, II",38
+Yamhill,28,Secretary of State,,LIB,"E.J. (Ed) Pole, II",30
+Yamhill,Total,Secretary of State,,LIB,"E.J. (Ed) Pole, II",650
+Yamhill,1,Secretary of State,,,Write-in,0
+Yamhill,2,Secretary of State,,,Write-in,2
+Yamhill,3,Secretary of State,,,Write-in,2
+Yamhill,4,Secretary of State,,,Write-in,1
+Yamhill,7,Secretary of State,,,Write-in,0
+Yamhill,9,Secretary of State,,,Write-in,2
+Yamhill,10,Secretary of State,,,Write-in,0
+Yamhill,12,Secretary of State,,,Write-in,1
+Yamhill,13,Secretary of State,,,Write-in,1
+Yamhill,15,Secretary of State,,,Write-in,4
+Yamhill,18,Secretary of State,,,Write-in,3
+Yamhill,19,Secretary of State,,,Write-in,1
+Yamhill,20,Secretary of State,,,Write-in,3
+Yamhill,21,Secretary of State,,,Write-in,5
+Yamhill,24,Secretary of State,,,Write-in,3
+Yamhill,28,Secretary of State,,,Write-in,1
+Yamhill,28,Secretary of State,,,Write-in,0
+Yamhill,Total,Secretary of State,,,Write-in,29
+Yamhill,1,Secretary of State,,,Over Votes,5
+Yamhill,2,Secretary of State,,,Over Votes,0
+Yamhill,3,Secretary of State,,,Over Votes,2
+Yamhill,4,Secretary of State,,,Over Votes,0
+Yamhill,7,Secretary of State,,,Over Votes,0
+Yamhill,9,Secretary of State,,,Over Votes,0
+Yamhill,10,Secretary of State,,,Over Votes,1
+Yamhill,12,Secretary of State,,,Over Votes,1
+Yamhill,13,Secretary of State,,,Over Votes,0
+Yamhill,15,Secretary of State,,,Over Votes,3
+Yamhill,18,Secretary of State,,,Over Votes,2
+Yamhill,19,Secretary of State,,,Over Votes,2
+Yamhill,20,Secretary of State,,,Over Votes,1
+Yamhill,21,Secretary of State,,,Over Votes,1
+Yamhill,24,Secretary of State,,,Over Votes,0
+Yamhill,28,Secretary of State,,,Over Votes,1
+Yamhill,28,Secretary of State,,,Over Votes,1
+Yamhill,Total,Secretary of State,,,Over Votes,20
+Yamhill,1,Secretary of State,,,Under Votes,52
+Yamhill,2,Secretary of State,,,Under Votes,89
+Yamhill,3,Secretary of State,,,Under Votes,131
+Yamhill,4,Secretary of State,,,Under Votes,74
+Yamhill,7,Secretary of State,,,Under Votes,66
+Yamhill,9,Secretary of State,,,Under Votes,109
+Yamhill,10,Secretary of State,,,Under Votes,52
+Yamhill,12,Secretary of State,,,Under Votes,91
+Yamhill,13,Secretary of State,,,Under Votes,48
+Yamhill,15,Secretary of State,,,Under Votes,147
+Yamhill,18,Secretary of State,,,Under Votes,160
+Yamhill,19,Secretary of State,,,Under Votes,118
+Yamhill,20,Secretary of State,,,Under Votes,83
+Yamhill,21,Secretary of State,,,Under Votes,84
+Yamhill,24,Secretary of State,,,Under Votes,87
+Yamhill,28,Secretary of State,,,Under Votes,66
+Yamhill,28,Secretary of State,,,Under Votes,40
+Yamhill,Total,Secretary of State,,,Under Votes,1497
+Yamhill,1,State Treasurer,,REF,Leonard Zack,20
+Yamhill,2,State Treasurer,,REF,Leonard Zack,21
+Yamhill,3,State Treasurer,,REF,Leonard Zack,42
+Yamhill,4,State Treasurer,,REF,Leonard Zack,43
+Yamhill,7,State Treasurer,,REF,Leonard Zack,22
+Yamhill,9,State Treasurer,,REF,Leonard Zack,47
+Yamhill,10,State Treasurer,,REF,Leonard Zack,21
+Yamhill,12,State Treasurer,,REF,Leonard Zack,47
+Yamhill,13,State Treasurer,,REF,Leonard Zack,31
+Yamhill,15,State Treasurer,,REF,Leonard Zack,67
+Yamhill,18,State Treasurer,,REF,Leonard Zack,57
+Yamhill,19,State Treasurer,,REF,Leonard Zack,50
+Yamhill,20,State Treasurer,,REF,Leonard Zack,26
+Yamhill,21,State Treasurer,,REF,Leonard Zack,41
+Yamhill,24,State Treasurer,,REF,Leonard Zack,37
+Yamhill,26,State Treasurer,,REF,Leonard Zack,33
+Yamhill,28,State Treasurer,,REF,Leonard Zack,24
+Yamhill,Total,State Treasurer,,REF,Leonard Zack,629
+Yamhill,1,State Treasurer,,DEM,Randall Edwards,615
+Yamhill,2,State Treasurer,,DEM,Randall Edwards,690
+Yamhill,3,State Treasurer,,DEM,Randall Edwards,1001
+Yamhill,4,State Treasurer,,DEM,Randall Edwards,832
+Yamhill,7,State Treasurer,,DEM,Randall Edwards,586
+Yamhill,9,State Treasurer,,DEM,Randall Edwards,1072
+Yamhill,10,State Treasurer,,DEM,Randall Edwards,481
+Yamhill,12,State Treasurer,,DEM,Randall Edwards,810
+Yamhill,13,State Treasurer,,DEM,Randall Edwards,444
+Yamhill,15,State Treasurer,,DEM,Randall Edwards,1467
+Yamhill,18,State Treasurer,,DEM,Randall Edwards,1753
+Yamhill,19,State Treasurer,,DEM,Randall Edwards,1560
+Yamhill,20,State Treasurer,,DEM,Randall Edwards,642
+Yamhill,21,State Treasurer,,DEM,Randall Edwards,766
+Yamhill,24,State Treasurer,,DEM,Randall Edwards,734
+Yamhill,26,State Treasurer,,DEM,Randall Edwards,601
+Yamhill,28,State Treasurer,,DEM,Randall Edwards,391
+Yamhill,Total,State Treasurer,,DEM,Randall Edwards,14445
+Yamhill,1,State Treasurer,,CON,Carlos F. Lucero,28
+Yamhill,2,State Treasurer,,CON,Carlos F. Lucero,23
+Yamhill,3,State Treasurer,,CON,Carlos F. Lucero,57
+Yamhill,4,State Treasurer,,CON,Carlos F. Lucero,38
+Yamhill,7,State Treasurer,,CON,Carlos F. Lucero,19
+Yamhill,9,State Treasurer,,CON,Carlos F. Lucero,30
+Yamhill,10,State Treasurer,,CON,Carlos F. Lucero,19
+Yamhill,12,State Treasurer,,CON,Carlos F. Lucero,30
+Yamhill,13,State Treasurer,,CON,Carlos F. Lucero,17
+Yamhill,15,State Treasurer,,CON,Carlos F. Lucero,48
+Yamhill,18,State Treasurer,,CON,Carlos F. Lucero,36
+Yamhill,19,State Treasurer,,CON,Carlos F. Lucero,43
+Yamhill,20,State Treasurer,,CON,Carlos F. Lucero,20
+Yamhill,21,State Treasurer,,CON,Carlos F. Lucero,34
+Yamhill,24,State Treasurer,,CON,Carlos F. Lucero,23
+Yamhill,26,State Treasurer,,CON,Carlos F. Lucero,31
+Yamhill,28,State Treasurer,,CON,Carlos F. Lucero,21
+Yamhill,Total,State Treasurer,,CON,Carlos F. Lucero,517
+Yamhill,1,State Treasurer,,REP,Jon Kvistad,784
+Yamhill,2,State Treasurer,,REP,Jon Kvistad,1113
+Yamhill,3,State Treasurer,,REP,Jon Kvistad,1316
+Yamhill,4,State Treasurer,,REP,Jon Kvistad,910
+Yamhill,7,State Treasurer,,REP,Jon Kvistad,627
+Yamhill,9,State Treasurer,,REP,Jon Kvistad,1288
+Yamhill,10,State Treasurer,,REP,Jon Kvistad,581
+Yamhill,12,State Treasurer,,REP,Jon Kvistad,1007
+Yamhill,13,State Treasurer,,REP,Jon Kvistad,512
+Yamhill,15,State Treasurer,,REP,Jon Kvistad,1354
+Yamhill,18,State Treasurer,,REP,Jon Kvistad,1660
+Yamhill,19,State Treasurer,,REP,Jon Kvistad,1186
+Yamhill,20,State Treasurer,,REP,Jon Kvistad,794
+Yamhill,21,State Treasurer,,REP,Jon Kvistad,893
+Yamhill,24,State Treasurer,,REP,Jon Kvistad,993
+Yamhill,26,State Treasurer,,REP,Jon Kvistad,637
+Yamhill,28,State Treasurer,,REP,Jon Kvistad,462
+Yamhill,Total,State Treasurer,,REP,Jon Kvistad,16117
+Yamhill,1,State Treasurer,,LIB,Mitchell T. Shults,58
+Yamhill,2,State Treasurer,,LIB,Mitchell T. Shults,70
+Yamhill,3,State Treasurer,,LIB,Mitchell T. Shults,84
+Yamhill,4,State Treasurer,,LIB,Mitchell T. Shults,77
+Yamhill,7,State Treasurer,,LIB,Mitchell T. Shults,52
+Yamhill,9,State Treasurer,,LIB,Mitchell T. Shults,100
+Yamhill,10,State Treasurer,,LIB,Mitchell T. Shults,50
+Yamhill,12,State Treasurer,,LIB,Mitchell T. Shults,103
+Yamhill,13,State Treasurer,,LIB,Mitchell T. Shults,29
+Yamhill,15,State Treasurer,,LIB,Mitchell T. Shults,97
+Yamhill,18,State Treasurer,,LIB,Mitchell T. Shults,114
+Yamhill,19,State Treasurer,,LIB,Mitchell T. Shults,123
+Yamhill,20,State Treasurer,,LIB,Mitchell T. Shults,89
+Yamhill,21,State Treasurer,,LIB,Mitchell T. Shults,88
+Yamhill,24,State Treasurer,,LIB,Mitchell T. Shults,112
+Yamhill,26,State Treasurer,,LIB,Mitchell T. Shults,89
+Yamhill,28,State Treasurer,,LIB,Mitchell T. Shults,56
+Yamhill,Total,State Treasurer,,LIB,Mitchell T. Shults,1391
+Yamhill,1,State Treasurer,,,Write-in,0
+Yamhill,2,State Treasurer,,,Write-in,2
+Yamhill,3,State Treasurer,,,Write-in,2
+Yamhill,4,State Treasurer,,,Write-in,0
+Yamhill,7,State Treasurer,,,Write-in,0
+Yamhill,9,State Treasurer,,,Write-in,3
+Yamhill,10,State Treasurer,,,Write-in,0
+Yamhill,12,State Treasurer,,,Write-in,4
+Yamhill,13,State Treasurer,,,Write-in,1
+Yamhill,15,State Treasurer,,,Write-in,6
+Yamhill,18,State Treasurer,,,Write-in,6
+Yamhill,19,State Treasurer,,,Write-in,6
+Yamhill,20,State Treasurer,,,Write-in,3
+Yamhill,21,State Treasurer,,,Write-in,3
+Yamhill,24,State Treasurer,,,Write-in,3
+Yamhill,26,State Treasurer,,,Write-in,3
+Yamhill,28,State Treasurer,,,Write-in,1
+Yamhill,Total,State Treasurer,,,Write-in,43
+Yamhill,1,State Treasurer,,,Over Votes,1
+Yamhill,2,State Treasurer,,,Over Votes,0
+Yamhill,3,State Treasurer,,,Over Votes,0
+Yamhill,4,State Treasurer,,,Over Votes,0
+Yamhill,7,State Treasurer,,,Over Votes,0
+Yamhill,9,State Treasurer,,,Over Votes,0
+Yamhill,10,State Treasurer,,,Over Votes,0
+Yamhill,12,State Treasurer,,,Over Votes,1
+Yamhill,13,State Treasurer,,,Over Votes,0
+Yamhill,15,State Treasurer,,,Over Votes,0
+Yamhill,18,State Treasurer,,,Over Votes,0
+Yamhill,19,State Treasurer,,,Over Votes,2
+Yamhill,20,State Treasurer,,,Over Votes,0
+Yamhill,21,State Treasurer,,,Over Votes,0
+Yamhill,24,State Treasurer,,,Over Votes,0
+Yamhill,26,State Treasurer,,,Over Votes,0
+Yamhill,28,State Treasurer,,,Over Votes,0
+Yamhill,Total,State Treasurer,,,Over Votes,4
+Yamhill,1,State Treasurer,,,Under Votes,115
+Yamhill,2,State Treasurer,,,Under Votes,173
+Yamhill,3,State Treasurer,,,Under Votes,241
+Yamhill,4,State Treasurer,,,Under Votes,143
+Yamhill,7,State Treasurer,,,Under Votes,114
+Yamhill,9,State Treasurer,,,Under Votes,190
+Yamhill,10,State Treasurer,,,Under Votes,99
+Yamhill,12,State Treasurer,,,Under Votes,162
+Yamhill,13,State Treasurer,,,Under Votes,101
+Yamhill,15,State Treasurer,,,Under Votes,278
+Yamhill,18,State Treasurer,,,Under Votes,309
+Yamhill,19,State Treasurer,,,Under Votes,221
+Yamhill,20,State Treasurer,,,Under Votes,133
+Yamhill,21,State Treasurer,,,Under Votes,159
+Yamhill,24,State Treasurer,,,Under Votes,166
+Yamhill,26,State Treasurer,,,Under Votes,128
+Yamhill,28,State Treasurer,,,Under Votes,67
+Yamhill,Total,State Treasurer,,,Under Votes,2799
+Yamhill,1,Attorney General,,DEM,Hardy Myers,643
+Yamhill,2,Attorney General,,DEM,Hardy Myers,631
+Yamhill,3,Attorney General,,DEM,Hardy Myers,974
+Yamhill,4,Attorney General,,DEM,Hardy Myers,785
+Yamhill,7,Attorney General,,DEM,Hardy Myers,548
+Yamhill,9,Attorney General,,DEM,Hardy Myers,1059
+Yamhill,10,Attorney General,,DEM,Hardy Myers,448
+Yamhill,12,Attorney General,,DEM,Hardy Myers,816
+Yamhill,13,Attorney General,,DEM,Hardy Myers,431
+Yamhill,15,Attorney General,,DEM,Hardy Myers,1430
+Yamhill,18,Attorney General,,DEM,Hardy Myers,1747
+Yamhill,19,Attorney General,,DEM,Hardy Myers,1489
+Yamhill,20,Attorney General,,DEM,Hardy Myers,664
+Yamhill,21,Attorney General,,DEM,Hardy Myers,745
+Yamhill,24,Attorney General,,DEM,Hardy Myers,757
+Yamhill,26,Attorney General,,DEM,Hardy Myers,596
+Yamhill,28,Attorney General,,DEM,Hardy Myers,390
+Yamhill,Total,Attorney General,,DEM,Hardy Myers,14153
+Yamhill,1,Attorney General,,REP,Kevin L. Mannix,858
+Yamhill,2,Attorney General,,REP,Kevin L. Mannix,1270
+Yamhill,3,Attorney General,,REP,Kevin L. Mannix,1489
+Yamhill,4,Attorney General,,REP,Kevin L. Mannix,1039
+Yamhill,7,Attorney General,,REP,Kevin L. Mannix,721
+Yamhill,9,Attorney General,,REP,Kevin L. Mannix,1442
+Yamhill,10,Attorney General,,REP,Kevin L. Mannix,685
+Yamhill,12,Attorney General,,REP,Kevin L. Mannix,1151
+Yamhill,13,Attorney General,,REP,Kevin L. Mannix,603
+Yamhill,15,Attorney General,,REP,Kevin L. Mannix,1615
+Yamhill,18,Attorney General,,REP,Kevin L. Mannix,1886
+Yamhill,19,Attorney General,,REP,Kevin L. Mannix,1437
+Yamhill,20,Attorney General,,REP,Kevin L. Mannix,869
+Yamhill,21,Attorney General,,REP,Kevin L. Mannix,1029
+Yamhill,24,Attorney General,,REP,Kevin L. Mannix,1096
+Yamhill,26,Attorney General,,REP,Kevin L. Mannix,764
+Yamhill,28,Attorney General,,REP,Kevin L. Mannix,532
+Yamhill,Total,Attorney General,,REP,Kevin L. Mannix,18486
+Yamhill,1,Attorney General,,LIB,Thomas B. Cox,42
+Yamhill,2,Attorney General,,LIB,Thomas B. Cox,62
+Yamhill,3,Attorney General,,LIB,Thomas B. Cox,97
+Yamhill,4,Attorney General,,LIB,Thomas B. Cox,114
+Yamhill,7,Attorney General,,LIB,Thomas B. Cox,48
+Yamhill,9,Attorney General,,LIB,Thomas B. Cox,89
+Yamhill,10,Attorney General,,LIB,Thomas B. Cox,47
+Yamhill,12,Attorney General,,LIB,Thomas B. Cox,98
+Yamhill,13,Attorney General,,LIB,Thomas B. Cox,37
+Yamhill,15,Attorney General,,LIB,Thomas B. Cox,90
+Yamhill,18,Attorney General,,LIB,Thomas B. Cox,90
+Yamhill,19,Attorney General,,LIB,Thomas B. Cox,105
+Yamhill,20,Attorney General,,LIB,Thomas B. Cox,71
+Yamhill,21,Attorney General,,LIB,Thomas B. Cox,89
+Yamhill,24,Attorney General,,LIB,Thomas B. Cox,88
+Yamhill,26,Attorney General,,LIB,Thomas B. Cox,74
+Yamhill,28,Attorney General,,LIB,Thomas B. Cox,55
+Yamhill,Total,Attorney General,,LIB,Thomas B. Cox,1296
+Yamhill,1,Attorney General,,,Write-in,0
+Yamhill,2,Attorney General,,,Write-in,2
+Yamhill,3,Attorney General,,,Write-in,1
+Yamhill,4,Attorney General,,,Write-in,0
+Yamhill,7,Attorney General,,,Write-in,2
+Yamhill,9,Attorney General,,,Write-in,1
+Yamhill,10,Attorney General,,,Write-in,1
+Yamhill,12,Attorney General,,,Write-in,2
+Yamhill,13,Attorney General,,,Write-in,2
+Yamhill,15,Attorney General,,,Write-in,4
+Yamhill,18,Attorney General,,,Write-in,6
+Yamhill,19,Attorney General,,,Write-in,3
+Yamhill,20,Attorney General,,,Write-in,2
+Yamhill,21,Attorney General,,,Write-in,4
+Yamhill,24,Attorney General,,,Write-in,3
+Yamhill,26,Attorney General,,,Write-in,1
+Yamhill,28,Attorney General,,,Write-in,0
+Yamhill,Total,Attorney General,,,Write-in,34
+Yamhill,1,Attorney General,,,Over Votes,2
+Yamhill,2,Attorney General,,,Over Votes,0
+Yamhill,3,Attorney General,,,Over Votes,1
+Yamhill,4,Attorney General,,,Over Votes,0
+Yamhill,7,Attorney General,,,Over Votes,1
+Yamhill,9,Attorney General,,,Over Votes,0
+Yamhill,10,Attorney General,,,Over Votes,0
+Yamhill,12,Attorney General,,,Over Votes,1
+Yamhill,13,Attorney General,,,Over Votes,0
+Yamhill,15,Attorney General,,,Over Votes,0
+Yamhill,18,Attorney General,,,Over Votes,0
+Yamhill,19,Attorney General,,,Over Votes,1
+Yamhill,20,Attorney General,,,Over Votes,0
+Yamhill,21,Attorney General,,,Over Votes,1
+Yamhill,24,Attorney General,,,Over Votes,1
+Yamhill,26,Attorney General,,,Over Votes,0
+Yamhill,28,Attorney General,,,Over Votes,0
+Yamhill,Total,Attorney General,,,Over Votes,8
+Yamhill,1,Attorney General,,,Under Votes,76
+Yamhill,2,Attorney General,,,Under Votes,127
+Yamhill,3,Attorney General,,,Under Votes,181
+Yamhill,4,Attorney General,,,Under Votes,105
+Yamhill,7,Attorney General,,,Under Votes,100
+Yamhill,9,Attorney General,,,Under Votes,139
+Yamhill,10,Attorney General,,,Under Votes,70
+Yamhill,12,Attorney General,,,Under Votes,96
+Yamhill,13,Attorney General,,,Under Votes,62
+Yamhill,15,Attorney General,,,Under Votes,178
+Yamhill,18,Attorney General,,,Under Votes,206
+Yamhill,19,Attorney General,,,Under Votes,156
+Yamhill,20,Attorney General,,,Under Votes,101
+Yamhill,21,Attorney General,,,Under Votes,116
+Yamhill,24,Attorney General,,,Under Votes,123
+Yamhill,26,Attorney General,,,Under Votes,87
+Yamhill,28,Attorney General,,,Under Votes,45
+Yamhill,Total,Attorney General,,,Under Votes,1968
+Yamhill,1,State Senate,2,DEM,Terry Thompson,574
+Yamhill,2,State Senate,2,DEM,Terry Thompson,671
+Yamhill,3,State Senate,2,DEM,Terry Thompson,1005
+Yamhill,4,State Senate,2,DEM,Terry Thompson,808
+Yamhill,9,State Senate,2,DEM,Terry Thompson,962
+Yamhill,13,State Senate,2,DEM,Terry Thompson,418
+Yamhill,15,State Senate,2,DEM,Terry Thompson,1543
+Yamhill,18,State Senate,2,DEM,Terry Thompson,1822
+Yamhill,19,State Senate,2,DEM,Terry Thompson,1587
+Yamhill,20,State Senate,2,DEM,Terry Thompson,679
+Yamhill,21,State Senate,2,DEM,Terry Thompson,726
+Yamhill,24,State Senate,2,DEM,Terry Thompson,691
+Yamhill,28,State Senate,2,DEM,Terry Thompson,412
+Yamhill,Total,State Senate,2,DEM,Terry Thompson,11898
+Yamhill,1,State Senate,2,REP,Gary George,950
+Yamhill,2,State Senate,2,REP,Gary George,1302
+Yamhill,3,State Senate,2,REP,Gary George,1568
+Yamhill,4,State Senate,2,REP,Gary George,1129
+Yamhill,9,State Senate,2,REP,Gary George,1616
+Yamhill,13,State Senate,2,REP,Gary George,660
+Yamhill,15,State Senate,2,REP,Gary George,1577
+Yamhill,18,State Senate,2,REP,Gary George,1882
+Yamhill,19,State Senate,2,REP,Gary George,1427
+Yamhill,20,State Senate,2,REP,Gary George,928
+Yamhill,21,State Senate,2,REP,Gary George,1121
+Yamhill,24,State Senate,2,REP,Gary George,1247
+Yamhill,28,State Senate,2,REP,Gary George,562
+Yamhill,Total,State Senate,2,REP,Gary George,15969
+Yamhill,1,State Senate,2,,Write-in,1
+Yamhill,2,State Senate,2,,Write-in,3
+Yamhill,3,State Senate,2,,Write-in,4
+Yamhill,4,State Senate,2,,Write-in,7
+Yamhill,9,State Senate,2,,Write-in,8
+Yamhill,13,State Senate,2,,Write-in,1
+Yamhill,15,State Senate,2,,Write-in,4
+Yamhill,18,State Senate,2,,Write-in,10
+Yamhill,19,State Senate,2,,Write-in,6
+Yamhill,20,State Senate,2,,Write-in,5
+Yamhill,21,State Senate,2,,Write-in,9
+Yamhill,24,State Senate,2,,Write-in,3
+Yamhill,28,State Senate,2,,Write-in,3
+Yamhill,Total,State Senate,2,,Write-in,64
+Yamhill,1,State Senate,2,,Over Votes,1
+Yamhill,2,State Senate,2,,Over Votes,0
+Yamhill,3,State Senate,2,,Over Votes,0
+Yamhill,4,State Senate,2,,Over Votes,1
+Yamhill,9,State Senate,2,,Over Votes,0
+Yamhill,13,State Senate,2,,Over Votes,0
+Yamhill,15,State Senate,2,,Over Votes,0
+Yamhill,18,State Senate,2,,Over Votes,0
+Yamhill,19,State Senate,2,,Over Votes,1
+Yamhill,20,State Senate,2,,Over Votes,0
+Yamhill,21,State Senate,2,,Over Votes,2
+Yamhill,24,State Senate,2,,Over Votes,0
+Yamhill,28,State Senate,2,,Over Votes,0
+Yamhill,Total,State Senate,2,,Over Votes,5
+Yamhill,1,State Senate,2,,Under Votes,95
+Yamhill,2,State Senate,2,,Under Votes,116
+Yamhill,3,State Senate,2,,Under Votes,166
+Yamhill,4,State Senate,2,,Under Votes,98
+Yamhill,9,State Senate,2,,Under Votes,144
+Yamhill,13,State Senate,2,,Under Votes,56
+Yamhill,15,State Senate,2,,Under Votes,193
+Yamhill,18,State Senate,2,,Under Votes,221
+Yamhill,19,State Senate,2,,Under Votes,170
+Yamhill,20,State Senate,2,,Under Votes,95
+Yamhill,21,State Senate,2,,Under Votes,126
+Yamhill,24,State Senate,2,,Under Votes,127
+Yamhill,28,State Senate,2,,Under Votes,45
+Yamhill,Total,State Senate,2,,Under Votes,1652
+Yamhill,7,State Senate,15,REP,Roger Beyer,760
+Yamhill,10,State Senate,15,REP,Roger Beyer,703
+Yamhill,12,State Senate,15,REP,Roger Beyer,1222
+Yamhill,26,State Senate,15,REP,Roger Beyer,842
+Yamhill,Total,State Senate,15,REP,Roger Beyer,3527
+Yamhill,7,State Senate,15,DEM,Roger Pike,491
+Yamhill,10,State Senate,15,DEM,Roger Pike,408
+Yamhill,12,State Senate,15,DEM,Roger Pike,693
+Yamhill,26,State Senate,15,DEM,Roger Pike,503
+Yamhill,Total,State Senate,15,DEM,Roger Pike,2095
+Yamhill,7,State Senate,15,,Write-in,3
+Yamhill,10,State Senate,15,,Write-in,5
+Yamhill,12,State Senate,15,,Write-in,7
+Yamhill,26,State Senate,15,,Write-in,4
+Yamhill,Total,State Senate,15,,Write-in,19
+Yamhill,7,State Senate,15,,Over Votes,0
+Yamhill,10,State Senate,15,,Over Votes,0
+Yamhill,12,State Senate,15,,Over Votes,0
+Yamhill,26,State Senate,15,,Over Votes,0
+Yamhill,Total,State Senate,15,,Over Votes,0
+Yamhill,7,State Senate,15,,Under Votes,166
+Yamhill,10,State Senate,15,,Under Votes,135
+Yamhill,12,State Senate,15,,Under Votes,242
+Yamhill,26,State Senate,15,,Under Votes,173
+Yamhill,Total,State Senate,15,,Under Votes,716
+Yamhill,20,State House,4,REP,Alan Brown,930
+Yamhill,28,State House,4,REP,Alan Brown,557
+Yamhill,Total,State House,4,REP,Alan Brown,1487
+Yamhill,20,State House,4,DEM,Sharon Branstiter,616
+Yamhill,28,State House,4,DEM,Sharon Branstiter,397
+Yamhill,Total,State House,4,DEM,Sharon Branstiter,1013
+Yamhill,20,State House,4,,Write-in,11
+Yamhill,28,State House,4,,Write-in,4
+Yamhill,Total,State House,4,,Write-in,15
+Yamhill,20,State House,4,,Over Votes,0
+Yamhill,28,State House,4,,Over Votes,0
+Yamhill,Total,State House,4,,Over Votes,0
+Yamhill,20,State House,4,,Under Votes,150
+Yamhill,28,State House,4,,Under Votes,64
+Yamhill,Total,State House,4,,Under Votes,214
+Yamhill,1,State House,29,REP,Donna G. Nelson,892
+Yamhill,2,State House,29,REP,Donna G. Nelson,1238
+Yamhill,3,State House,29,REP,Donna G. Nelson,1483
+Yamhill,4,State House,29,REP,Donna G. Nelson,1091
+Yamhill,9,State House,29,REP,Donna G. Nelson,1420
+Yamhill,13,State House,29,REP,Donna G. Nelson,626
+Yamhill,15,State House,29,REP,Donna G. Nelson,1532
+Yamhill,18,State House,29,REP,Donna G. Nelson,1852
+Yamhill,19,State House,29,REP,Donna G. Nelson,1437
+Yamhill,21,State House,29,REP,Donna G. Nelson,1083
+Yamhill,24,State House,29,REP,Donna G. Nelson,1128
+Yamhill,Total,State House,29,REP,Donna G. Nelson,13782
+Yamhill,1,State House,29,DEM,Frank G. Nelson,587
+Yamhill,2,State House,29,DEM,Frank G. Nelson,691
+Yamhill,3,State House,29,DEM,Frank G. Nelson,1029
+Yamhill,4,State House,29,DEM,Frank G. Nelson,810
+Yamhill,9,State House,29,DEM,Frank G. Nelson,1073
+Yamhill,13,State House,29,DEM,Frank G. Nelson,445
+Yamhill,15,State House,29,DEM,Frank G. Nelson,1599
+Yamhill,18,State House,29,DEM,Frank G. Nelson,1861
+Yamhill,19,State House,29,DEM,Frank G. Nelson,1571
+Yamhill,21,State House,29,DEM,Frank G. Nelson,771
+Yamhill,24,State House,29,DEM,Frank G. Nelson,756
+Yamhill,Total,State House,29,DEM,Frank G. Nelson,11193
+Yamhill,1,State House,29,,Write-in,7
+Yamhill,2,State House,29,,Write-in,6
+Yamhill,3,State House,29,,Write-in,11
+Yamhill,4,State House,29,,Write-in,3
+Yamhill,9,State House,29,,Write-in,15
+Yamhill,13,State House,29,,Write-in,8
+Yamhill,15,State House,29,,Write-in,18
+Yamhill,18,State House,29,,Write-in,25
+Yamhill,19,State House,29,,Write-in,25
+Yamhill,21,State House,29,,Write-in,9
+Yamhill,24,State House,29,,Write-in,10
+Yamhill,Total,State House,29,,Write-in,137
+Yamhill,1,State House,29,,Over Votes,1
+Yamhill,2,State House,29,,Over Votes,0
+Yamhill,3,State House,29,,Over Votes,0
+Yamhill,4,State House,29,,Over Votes,0
+Yamhill,9,State House,29,,Over Votes,0
+Yamhill,13,State House,29,,Over Votes,0
+Yamhill,15,State House,29,,Over Votes,1
+Yamhill,18,State House,29,,Over Votes,0
+Yamhill,19,State House,29,,Over Votes,0
+Yamhill,21,State House,29,,Over Votes,1
+Yamhill,24,State House,29,,Over Votes,1
+Yamhill,Total,State House,29,,Over Votes,4
+Yamhill,1,State House,29,,Under Votes,134
+Yamhill,2,State House,29,,Under Votes,157
+Yamhill,3,State House,29,,Under Votes,220
+Yamhill,4,State House,29,,Under Votes,139
+Yamhill,9,State House,29,,Under Votes,222
+Yamhill,13,State House,29,,Under Votes,56
+Yamhill,15,State House,29,,Under Votes,167
+Yamhill,18,State House,29,,Under Votes,197
+Yamhill,19,State House,29,,Under Votes,158
+Yamhill,21,State House,29,,Under Votes,120
+Yamhill,24,State House,29,,Under Votes,173
+Yamhill,Total,State House,29,,Under Votes,1743
+Yamhill,7,State House,38,REP,Cliff Zauner,702
+Yamhill,10,State House,38,REP,Cliff Zauner,632
+Yamhill,12,State House,38,REP,Cliff Zauner,1094
+Yamhill,26,State House,38,REP,Cliff Zauner,724
+Yamhill,Total,State House,38,REP,Cliff Zauner,3152
+Yamhill,7,State House,38,DEM,Irv Fletcher,570
+Yamhill,10,State House,38,DEM,Irv Fletcher,493
+Yamhill,12,State House,38,DEM,Irv Fletcher,844
+Yamhill,26,State House,38,DEM,Irv Fletcher,654
+Yamhill,Total,State House,38,DEM,Irv Fletcher,2561
+Yamhill,7,State House,38,,Write-in,3
+Yamhill,10,State House,38,,Write-in,8
+Yamhill,12,State House,38,,Write-in,11
+Yamhill,26,State House,38,,Write-in,4
+Yamhill,Total,State House,38,,Write-in,26
+Yamhill,7,State House,38,,Over Votes,0
+Yamhill,10,State House,38,,Over Votes,0
+Yamhill,12,State House,38,,Over Votes,0
+Yamhill,26,State House,38,,Over Votes,1
+Yamhill,Total,State House,38,,Over Votes,1
+Yamhill,7,State House,38,,Under Votes,145
+Yamhill,10,State House,38,,Under Votes,118
+Yamhill,12,State House,38,,Under Votes,215
+Yamhill,26,State House,38,,Under Votes,139
+Yamhill,Total,State House,38,,Under Votes,617
