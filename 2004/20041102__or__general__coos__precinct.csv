@@ -1,0 +1,671 @@
+county,precinct,office,district,party,candidate,votes
+Coos,1,President,,DEM,John F. Kerry,545
+Coos,2,President,,DEM,John F. Kerry,1027
+Coos,3,President,,DEM,John F. Kerry,1272
+Coos,4,President,,DEM,John F. Kerry,1101
+Coos,5,President,,DEM,John F. Kerry,1533
+Coos,6,President,,DEM,John F. Kerry,982
+Coos,7,President,,DEM,John F. Kerry,1147
+Coos,8,President,,DEM,John F. Kerry,1219
+Coos,9,President,,DEM,John F. Kerry,751
+Coos,10,President,,DEM,John F. Kerry,588
+Coos,11,President,,DEM,John F. Kerry,587
+Coos,12,President,,DEM,John F. Kerry,786
+Coos,13,President,,DEM,John F. Kerry,420
+Coos,14,President,,DEM,John F. Kerry,411
+Coos,15,President,,DEM,John F. Kerry,178
+Coos,16,President,,DEM,John F. Kerry,873
+Coos,17,President,,DEM,John F. Kerry,136
+Coos,18,President,,DEM,John F. Kerry,727
+Coos,19,President,,DEM,John F. Kerry,110
+Coos,Total,President,,DEM,John F. Kerry,14393
+Coos,1,President,,GRE,David Cobb,6
+Coos,2,President,,GRE,David Cobb,9
+Coos,3,President,,GRE,David Cobb,17
+Coos,4,President,,GRE,David Cobb,13
+Coos,5,President,,GRE,David Cobb,16
+Coos,6,President,,GRE,David Cobb,6
+Coos,7,President,,GRE,David Cobb,7
+Coos,8,President,,GRE,David Cobb,10
+Coos,9,President,,GRE,David Cobb,6
+Coos,10,President,,GRE,David Cobb,6
+Coos,11,President,,GRE,David Cobb,6
+Coos,12,President,,GRE,David Cobb,7
+Coos,13,President,,GRE,David Cobb,5
+Coos,14,President,,GRE,David Cobb,1
+Coos,15,President,,GRE,David Cobb,3
+Coos,16,President,,GRE,David Cobb,6
+Coos,17,President,,GRE,David Cobb,0
+Coos,18,President,,GRE,David Cobb,4
+Coos,19,President,,GRE,David Cobb,3
+Coos,Total,President,,GRE,David Cobb,131
+Coos,1,President,,CON,Michael A. Peroutka,6
+Coos,2,President,,CON,Michael A. Peroutka,9
+Coos,3,President,,CON,Michael A. Peroutka,19
+Coos,4,President,,CON,Michael A. Peroutka,10
+Coos,5,President,,CON,Michael A. Peroutka,18
+Coos,6,President,,CON,Michael A. Peroutka,8
+Coos,7,President,,CON,Michael A. Peroutka,8
+Coos,8,President,,CON,Michael A. Peroutka,14
+Coos,9,President,,CON,Michael A. Peroutka,12
+Coos,10,President,,CON,Michael A. Peroutka,7
+Coos,11,President,,CON,Michael A. Peroutka,14
+Coos,12,President,,CON,Michael A. Peroutka,4
+Coos,13,President,,CON,Michael A. Peroutka,1
+Coos,14,President,,CON,Michael A. Peroutka,9
+Coos,15,President,,CON,Michael A. Peroutka,5
+Coos,16,President,,CON,Michael A. Peroutka,9
+Coos,17,President,,CON,Michael A. Peroutka,0
+Coos,18,President,,CON,Michael A. Peroutka,2
+Coos,19,President,,CON,Michael A. Peroutka,7
+Coos,Total,President,,CON,Michael A. Peroutka,162
+Coos,1,President,,LIB,Michael Badnarik,8
+Coos,2,President,,LIB,Michael Badnarik,6
+Coos,3,President,,LIB,Michael Badnarik,11
+Coos,4,President,,LIB,Michael Badnarik,11
+Coos,5,President,,LIB,Michael Badnarik,25
+Coos,6,President,,LIB,Michael Badnarik,5
+Coos,7,President,,LIB,Michael Badnarik,12
+Coos,8,President,,LIB,Michael Badnarik,20
+Coos,9,President,,LIB,Michael Badnarik,10
+Coos,10,President,,LIB,Michael Badnarik,5
+Coos,11,President,,LIB,Michael Badnarik,5
+Coos,12,President,,LIB,Michael Badnarik,7
+Coos,13,President,,LIB,Michael Badnarik,3
+Coos,14,President,,LIB,Michael Badnarik,10
+Coos,15,President,,LIB,Michael Badnarik,2
+Coos,16,President,,LIB,Michael Badnarik,7
+Coos,17,President,,LIB,Michael Badnarik,1
+Coos,18,President,,LIB,Michael Badnarik,7
+Coos,19,President,,LIB,Michael Badnarik,0
+Coos,Total,President,,LIB,Michael Badnarik,155
+Coos,1,President,,REP,George W. Bush,689
+Coos,2,President,,REP,George W. Bush,1357
+Coos,3,President,,REP,George W. Bush,1610
+Coos,4,President,,REP,George W. Bush,1099
+Coos,5,President,,REP,George W. Bush,1513
+Coos,6,President,,REP,George W. Bush,1079
+Coos,7,President,,REP,George W. Bush,1195
+Coos,8,President,,REP,George W. Bush,1192
+Coos,9,President,,REP,George W. Bush,1013
+Coos,10,President,,REP,George W. Bush,794
+Coos,11,President,,REP,George W. Bush,1228
+Coos,12,President,,REP,George W. Bush,1242
+Coos,13,President,,REP,George W. Bush,793
+Coos,14,President,,REP,George W. Bush,1083
+Coos,15,President,,REP,George W. Bush,288
+Coos,16,President,,REP,George W. Bush,749
+Coos,17,President,,REP,George W. Bush,107
+Coos,18,President,,REP,George W. Bush,1061
+Coos,19,President,,REP,George W. Bush,199
+Coos,Total,President,,REP,George W. Bush,18291
+Coos,1,President,,,Write-in,5
+Coos,2,President,,,Write-in,19
+Coos,3,President,,,Write-in,27
+Coos,4,President,,,Write-in,17
+Coos,5,President,,,Write-in,16
+Coos,6,President,,,Write-in,8
+Coos,7,President,,,Write-in,13
+Coos,8,President,,,Write-in,34
+Coos,9,President,,,Write-in,11
+Coos,10,President,,,Write-in,14
+Coos,11,President,,,Write-in,14
+Coos,12,President,,,Write-in,17
+Coos,13,President,,,Write-in,6
+Coos,14,President,,,Write-in,4
+Coos,15,President,,,Write-in,2
+Coos,16,President,,,Write-in,12
+Coos,17,President,,,Write-in,1
+Coos,18,President,,,Write-in,10
+Coos,19,President,,,Write-in,0
+Coos,Total,President,,,Write-in,230
+Coos,1,President,,,Over Votes,1
+Coos,2,President,,,Over Votes,0
+Coos,3,President,,,Over Votes,2
+Coos,4,President,,,Over Votes,1
+Coos,5,President,,,Over Votes,5
+Coos,6,President,,,Over Votes,1
+Coos,7,President,,,Over Votes,1
+Coos,8,President,,,Over Votes,1
+Coos,9,President,,,Over Votes,1
+Coos,10,President,,,Over Votes,3
+Coos,11,President,,,Over Votes,1
+Coos,12,President,,,Over Votes,1
+Coos,13,President,,,Over Votes,0
+Coos,14,President,,,Over Votes,5
+Coos,15,President,,,Over Votes,0
+Coos,16,President,,,Over Votes,2
+Coos,17,President,,,Over Votes,0
+Coos,18,President,,,Over Votes,0
+Coos,19,President,,,Over Votes,0
+Coos,Total,President,,,Over Votes,25
+Coos,1,President,,,Under Votes,4
+Coos,2,President,,,Under Votes,12
+Coos,3,President,,,Under Votes,19
+Coos,4,President,,,Under Votes,21
+Coos,5,President,,,Under Votes,17
+Coos,6,President,,,Under Votes,18
+Coos,7,President,,,Under Votes,12
+Coos,8,President,,,Under Votes,13
+Coos,9,President,,,Under Votes,9
+Coos,10,President,,,Under Votes,12
+Coos,11,President,,,Under Votes,10
+Coos,12,President,,,Under Votes,14
+Coos,13,President,,,Under Votes,8
+Coos,14,President,,,Under Votes,13
+Coos,15,President,,,Under Votes,2
+Coos,16,President,,,Under Votes,10
+Coos,17,President,,,Under Votes,1
+Coos,18,President,,,Under Votes,5
+Coos,19,President,,,Under Votes,0
+Coos,Total,President,,,Under Votes,200
+Coos,1,U.S. House,4,DEM,Peter A. DeFazio,697
+Coos,2,U.S. House,4,DEM,Peter A. DeFazio,1335
+Coos,3,U.S. House,4,DEM,Peter A. DeFazio,1659
+Coos,4,U.S. House,4,DEM,Peter A. DeFazio,1338
+Coos,5,U.S. House,4,DEM,Peter A. DeFazio,1892
+Coos,6,U.S. House,4,DEM,Peter A. DeFazio,1212
+Coos,7,U.S. House,4,DEM,Peter A. DeFazio,1404
+Coos,8,U.S. House,4,DEM,Peter A. DeFazio,1472
+Coos,9,U.S. House,4,DEM,Peter A. DeFazio,1033
+Coos,10,U.S. House,4,DEM,Peter A. DeFazio,741
+Coos,11,U.S. House,4,DEM,Peter A. DeFazio,816
+Coos,12,U.S. House,4,DEM,Peter A. DeFazio,1037
+Coos,13,U.S. House,4,DEM,Peter A. DeFazio,613
+Coos,14,U.S. House,4,DEM,Peter A. DeFazio,590
+Coos,15,U.S. House,4,DEM,Peter A. DeFazio,270
+Coos,16,U.S. House,4,DEM,Peter A. DeFazio,1039
+Coos,17,U.S. House,4,DEM,Peter A. DeFazio,146
+Coos,18,U.S. House,4,DEM,Peter A. DeFazio,934
+Coos,19,U.S. House,4,DEM,Peter A. DeFazio,150
+Coos,Total,U.S. House,4,DEM,Peter A. DeFazio,18378
+Coos,1,U.S. House,4,REP,Jim Feldkamp,527
+Coos,2,U.S. House,4,REP,Jim Feldkamp,1020
+Coos,3,U.S. House,4,REP,Jim Feldkamp,1210
+Coos,4,U.S. House,4,REP,Jim Feldkamp,851
+Coos,5,U.S. House,4,REP,Jim Feldkamp,1128
+Coos,6,U.S. House,4,REP,Jim Feldkamp,824
+Coos,7,U.S. House,4,REP,Jim Feldkamp,895
+Coos,8,U.S. House,4,REP,Jim Feldkamp,923
+Coos,9,U.S. House,4,REP,Jim Feldkamp,716
+Coos,10,U.S. House,4,REP,Jim Feldkamp,635
+Coos,11,U.S. House,4,REP,Jim Feldkamp,985
+Coos,12,U.S. House,4,REP,Jim Feldkamp,955
+Coos,13,U.S. House,4,REP,Jim Feldkamp,582
+Coos,14,U.S. House,4,REP,Jim Feldkamp,876
+Coos,15,U.S. House,4,REP,Jim Feldkamp,192
+Coos,16,U.S. House,4,REP,Jim Feldkamp,567
+Coos,17,U.S. House,4,REP,Jim Feldkamp,89
+Coos,18,U.S. House,4,REP,Jim Feldkamp,819
+Coos,19,U.S. House,4,REP,Jim Feldkamp,154
+Coos,Total,U.S. House,4,REP,Jim Feldkamp,13948
+Coos,1,U.S. House,4,CON,Michael Paul Marsh,8
+Coos,2,U.S. House,4,CON,Michael Paul Marsh,15
+Coos,3,U.S. House,4,CON,Michael Paul Marsh,24
+Coos,4,U.S. House,4,CON,Michael Paul Marsh,8
+Coos,5,U.S. House,4,CON,Michael Paul Marsh,19
+Coos,6,U.S. House,4,CON,Michael Paul Marsh,12
+Coos,7,U.S. House,4,CON,Michael Paul Marsh,10
+Coos,8,U.S. House,4,CON,Michael Paul Marsh,23
+Coos,9,U.S. House,4,CON,Michael Paul Marsh,14
+Coos,10,U.S. House,4,CON,Michael Paul Marsh,5
+Coos,11,U.S. House,4,CON,Michael Paul Marsh,15
+Coos,12,U.S. House,4,CON,Michael Paul Marsh,14
+Coos,13,U.S. House,4,CON,Michael Paul Marsh,4
+Coos,14,U.S. House,4,CON,Michael Paul Marsh,7
+Coos,15,U.S. House,4,CON,Michael Paul Marsh,9
+Coos,16,U.S. House,4,CON,Michael Paul Marsh,7
+Coos,17,U.S. House,4,CON,Michael Paul Marsh,2
+Coos,18,U.S. House,4,CON,Michael Paul Marsh,5
+Coos,19,U.S. House,4,CON,Michael Paul Marsh,6
+Coos,Total,U.S. House,4,CON,Michael Paul Marsh,207
+Coos,1,U.S. House,4,LIB,Jacob Boone,10
+Coos,2,U.S. House,4,LIB,Jacob Boone,15
+Coos,3,U.S. House,4,LIB,Jacob Boone,29
+Coos,4,U.S. House,4,LIB,Jacob Boone,24
+Coos,5,U.S. House,4,LIB,Jacob Boone,35
+Coos,6,U.S. House,4,LIB,Jacob Boone,13
+Coos,7,U.S. House,4,LIB,Jacob Boone,30
+Coos,8,U.S. House,4,LIB,Jacob Boone,27
+Coos,9,U.S. House,4,LIB,Jacob Boone,18
+Coos,10,U.S. House,4,LIB,Jacob Boone,16
+Coos,11,U.S. House,4,LIB,Jacob Boone,17
+Coos,12,U.S. House,4,LIB,Jacob Boone,22
+Coos,13,U.S. House,4,LIB,Jacob Boone,14
+Coos,14,U.S. House,4,LIB,Jacob Boone,15
+Coos,15,U.S. House,4,LIB,Jacob Boone,1
+Coos,16,U.S. House,4,LIB,Jacob Boone,14
+Coos,17,U.S. House,4,LIB,Jacob Boone,5
+Coos,18,U.S. House,4,LIB,Jacob Boone,14
+Coos,19,U.S. House,4,LIB,Jacob Boone,2
+Coos,Total,U.S. House,4,LIB,Jacob Boone,321
+Coos,1,U.S. House,4,,Write-in,0
+Coos,2,U.S. House,4,,Write-in,1
+Coos,3,U.S. House,4,,Write-in,3
+Coos,4,U.S. House,4,,Write-in,3
+Coos,5,U.S. House,4,,Write-in,9
+Coos,6,U.S. House,4,,Write-in,3
+Coos,7,U.S. House,4,,Write-in,3
+Coos,8,U.S. House,4,,Write-in,3
+Coos,9,U.S. House,4,,Write-in,2
+Coos,10,U.S. House,4,,Write-in,6
+Coos,11,U.S. House,4,,Write-in,3
+Coos,12,U.S. House,4,,Write-in,6
+Coos,13,U.S. House,4,,Write-in,0
+Coos,14,U.S. House,4,,Write-in,2
+Coos,15,U.S. House,4,,Write-in,0
+Coos,16,U.S. House,4,,Write-in,0
+Coos,17,U.S. House,4,,Write-in,0
+Coos,18,U.S. House,4,,Write-in,6
+Coos,19,U.S. House,4,,Write-in,0
+Coos,Total,U.S. House,4,,Write-in,50
+Coos,1,U.S. House,4,,Over Votes,1
+Coos,2,U.S. House,4,,Over Votes,1
+Coos,3,U.S. House,4,,Over Votes,0
+Coos,4,U.S. House,4,,Over Votes,0
+Coos,5,U.S. House,4,,Over Votes,1
+Coos,6,U.S. House,4,,Over Votes,2
+Coos,7,U.S. House,4,,Over Votes,2
+Coos,8,U.S. House,4,,Over Votes,0
+Coos,9,U.S. House,4,,Over Votes,1
+Coos,10,U.S. House,4,,Over Votes,0
+Coos,11,U.S. House,4,,Over Votes,1
+Coos,12,U.S. House,4,,Over Votes,0
+Coos,13,U.S. House,4,,Over Votes,0
+Coos,14,U.S. House,4,,Over Votes,0
+Coos,15,U.S. House,4,,Over Votes,0
+Coos,16,U.S. House,4,,Over Votes,0
+Coos,17,U.S. House,4,,Over Votes,0
+Coos,18,U.S. House,4,,Over Votes,0
+Coos,19,U.S. House,4,,Over Votes,0
+Coos,Total,U.S. House,4,,Over Votes,9
+Coos,1,U.S. House,4,,Under Votes,21
+Coos,2,U.S. House,4,,Under Votes,52
+Coos,3,U.S. House,4,,Under Votes,52
+Coos,4,U.S. House,4,,Under Votes,49
+Coos,5,U.S. House,4,,Under Votes,59
+Coos,6,U.S. House,4,,Under Votes,41
+Coos,7,U.S. House,4,,Under Votes,51
+Coos,8,U.S. House,4,,Under Votes,55
+Coos,9,U.S. House,4,,Under Votes,29
+Coos,10,U.S. House,4,,Under Votes,26
+Coos,11,U.S. House,4,,Under Votes,28
+Coos,12,U.S. House,4,,Under Votes,44
+Coos,13,U.S. House,4,,Under Votes,23
+Coos,14,U.S. House,4,,Under Votes,46
+Coos,15,U.S. House,4,,Under Votes,8
+Coos,16,U.S. House,4,,Under Votes,41
+Coos,17,U.S. House,4,,Under Votes,4
+Coos,18,U.S. House,4,,Under Votes,38
+Coos,19,U.S. House,4,,Under Votes,7
+Coos,Total,U.S. House,4,,Under Votes,674
+Coos,10,State House,1,REP,Wayne Krieger,808
+Coos,11,State House,1,REP,Wayne Krieger,1222
+Coos,12,State House,1,REP,Wayne Krieger,1287
+Coos,13,State House,1,REP,Wayne Krieger,756
+Coos,14,State House,1,REP,Wayne Krieger,1070
+Coos,15,State House,1,REP,Wayne Krieger,287
+Coos,16,State House,1,REP,Wayne Krieger,802
+Coos,18,State House,1,REP,Wayne Krieger,1087
+Coos,19,State House,1,REP,Wayne Krieger,208
+Coos,Total,State House,1,REP,Wayne Krieger,7527
+Coos,10,State House,1,DEM,Charles Hochberg,529
+Coos,11,State House,1,DEM,Charles Hochberg,545
+Coos,12,State House,1,DEM,Charles Hochberg,670
+Coos,13,State House,1,DEM,Charles Hochberg,404
+Coos,14,State House,1,DEM,Charles Hochberg,388
+Coos,15,State House,1,DEM,Charles Hochberg,167
+Coos,16,State House,1,DEM,Charles Hochberg,774
+Coos,18,State House,1,DEM,Charles Hochberg,636
+Coos,19,State House,1,DEM,Charles Hochberg,102
+Coos,Total,State House,1,DEM,Charles Hochberg,4215
+Coos,10,State House,1,,Write-in,6
+Coos,11,State House,1,,Write-in,5
+Coos,12,State House,1,,Write-in,9
+Coos,13,State House,1,,Write-in,3
+Coos,14,State House,1,,Write-in,4
+Coos,15,State House,1,,Write-in,0
+Coos,16,State House,1,,Write-in,2
+Coos,18,State House,1,,Write-in,8
+Coos,19,State House,1,,Write-in,0
+Coos,Total,State House,1,,Write-in,37
+Coos,10,State House,1,,Over Votes,0
+Coos,11,State House,1,,Over Votes,0
+Coos,12,State House,1,,Over Votes,0
+Coos,13,State House,1,,Over Votes,2
+Coos,14,State House,1,,Over Votes,0
+Coos,15,State House,1,,Over Votes,0
+Coos,16,State House,1,,Over Votes,0
+Coos,18,State House,1,,Over Votes,1
+Coos,19,State House,1,,Over Votes,0
+Coos,Total,State House,1,,Over Votes,3
+Coos,10,State House,1,,Under Votes,86
+Coos,11,State House,1,,Under Votes,93
+Coos,12,State House,1,,Under Votes,112
+Coos,13,State House,1,,Under Votes,71
+Coos,14,State House,1,,Under Votes,74
+Coos,15,State House,1,,Under Votes,26
+Coos,16,State House,1,,Under Votes,90
+Coos,18,State House,1,,Under Votes,84
+Coos,19,State House,1,,Under Votes,9
+Coos,Total,State House,1,,Under Votes,645
+Coos,1,State House,9,REP,Susan Massey,634
+Coos,2,State House,9,REP,Susan Massey,1318
+Coos,3,State House,9,REP,Susan Massey,1475
+Coos,4,State House,9,REP,Susan Massey,1088
+Coos,5,State House,9,REP,Susan Massey,1327
+Coos,6,State House,9,REP,Susan Massey,881
+Coos,7,State House,9,REP,Susan Massey,974
+Coos,8,State House,9,REP,Susan Massey,1061
+Coos,9,State House,9,REP,Susan Massey,840
+Coos,17,State House,9,REP,Susan Massey,105
+Coos,Total,State House,9,REP,Susan Massey,9703
+Coos,1,State House,9,DEM,Arnie Roblan,553
+Coos,2,State House,9,DEM,Arnie Roblan,1025
+Coos,3,State House,9,DEM,Arnie Roblan,1358
+Coos,4,State House,9,DEM,Arnie Roblan,1081
+Coos,5,State House,9,DEM,Arnie Roblan,1679
+Coos,6,State House,9,DEM,Arnie Roblan,1160
+Coos,7,State House,9,DEM,Arnie Roblan,1312
+Coos,8,State House,9,DEM,Arnie Roblan,1345
+Coos,9,State House,9,DEM,Arnie Roblan,920
+Coos,17,State House,9,DEM,Arnie Roblan,127
+Coos,Total,State House,9,DEM,Arnie Roblan,10560
+Coos,1,State House,9,,Write-in,2
+Coos,2,State House,9,,Write-in,1
+Coos,3,State House,9,,Write-in,9
+Coos,4,State House,9,,Write-in,7
+Coos,5,State House,9,,Write-in,9
+Coos,6,State House,9,,Write-in,2
+Coos,7,State House,9,,Write-in,9
+Coos,8,State House,9,,Write-in,9
+Coos,9,State House,9,,Write-in,2
+Coos,17,State House,9,,Write-in,0
+Coos,Total,State House,9,,Write-in,50
+Coos,1,State House,9,,Over Votes,2
+Coos,2,State House,9,,Over Votes,0
+Coos,3,State House,9,,Over Votes,2
+Coos,4,State House,9,,Over Votes,0
+Coos,5,State House,9,,Over Votes,2
+Coos,6,State House,9,,Over Votes,0
+Coos,7,State House,9,,Over Votes,2
+Coos,8,State House,9,,Over Votes,2
+Coos,9,State House,9,,Over Votes,0
+Coos,17,State House,9,,Over Votes,0
+Coos,Total,State House,9,,Over Votes,10
+Coos,1,State House,9,,Under Votes,73
+Coos,2,State House,9,,Under Votes,95
+Coos,3,State House,9,,Under Votes,133
+Coos,4,State House,9,,Under Votes,97
+Coos,5,State House,9,,Under Votes,126
+Coos,6,State House,9,,Under Votes,64
+Coos,7,State House,9,,Under Votes,98
+Coos,8,State House,9,,Under Votes,86
+Coos,9,State House,9,,Under Votes,51
+Coos,17,State House,9,,Under Votes,14
+Coos,Total,State House,9,,Under Votes,837
+Coos,10,State Senate,1,REP,Jeff Kruse,771
+Coos,11,State Senate,1,REP,Jeff Kruse,1131
+Coos,12,State Senate,1,REP,Jeff Kruse,1156
+Coos,13,State Senate,1,REP,Jeff Kruse,709
+Coos,14,State Senate,1,REP,Jeff Kruse,1005
+Coos,15,State Senate,1,REP,Jeff Kruse,251
+Coos,16,State Senate,1,REP,Jeff Kruse,736
+Coos,18,State Senate,1,REP,Jeff Kruse,1000
+Coos,19,State Senate,1,REP,Jeff Kruse,202
+Coos,Total,State Senate,1,REP,Jeff Kruse,6961
+Coos,10,State Senate,1,DEM,Bruce W. Cronk,539
+Coos,11,State Senate,1,DEM,Bruce W. Cronk,597
+Coos,12,State Senate,1,DEM,Bruce W. Cronk,752
+Coos,13,State Senate,1,DEM,Bruce W. Cronk,431
+Coos,14,State Senate,1,DEM,Bruce W. Cronk,409
+Coos,15,State Senate,1,DEM,Bruce W. Cronk,188
+Coos,16,State Senate,1,DEM,Bruce W. Cronk,794
+Coos,18,State Senate,1,DEM,Bruce W. Cronk,704
+Coos,19,State Senate,1,DEM,Bruce W. Cronk,97
+Coos,Total,State Senate,1,DEM,Bruce W. Cronk,4511
+Coos,10,State Senate,1,,Write-in,4
+Coos,11,State Senate,1,,Write-in,7
+Coos,12,State Senate,1,,Write-in,9
+Coos,13,State Senate,1,,Write-in,1
+Coos,14,State Senate,1,,Write-in,5
+Coos,15,State Senate,1,,Write-in,1
+Coos,16,State Senate,1,,Write-in,3
+Coos,18,State Senate,1,,Write-in,6
+Coos,19,State Senate,1,,Write-in,0
+Coos,Total,State Senate,1,,Write-in,36
+Coos,10,State Senate,1,,Over Votes,1
+Coos,11,State Senate,1,,Over Votes,0
+Coos,12,State Senate,1,,Over Votes,0
+Coos,13,State Senate,1,,Over Votes,2
+Coos,14,State Senate,1,,Over Votes,1
+Coos,15,State Senate,1,,Over Votes,0
+Coos,16,State Senate,1,,Over Votes,1
+Coos,18,State Senate,1,,Over Votes,0
+Coos,19,State Senate,1,,Over Votes,0
+Coos,Total,State Senate,1,,Over Votes,5
+Coos,10,State Senate,1,,Under Votes,114
+Coos,11,State Senate,1,,Under Votes,130
+Coos,12,State Senate,1,,Under Votes,161
+Coos,13,State Senate,1,,Under Votes,93
+Coos,14,State Senate,1,,Under Votes,116
+Coos,15,State Senate,1,,Under Votes,40
+Coos,16,State Senate,1,,Under Votes,134
+Coos,18,State Senate,1,,Under Votes,106
+Coos,19,State Senate,1,,Under Votes,20
+Coos,Total,State Senate,1,,Under Votes,914
+Coos,1,State Senate,5,DEM,Joanne Verger,545
+Coos,2,State Senate,5,DEM,Joanne Verger,1065
+Coos,3,State Senate,5,DEM,Joanne Verger,1323
+Coos,4,State Senate,5,DEM,Joanne Verger,1155
+Coos,5,State Senate,5,DEM,Joanne Verger,1589
+Coos,6,State Senate,5,DEM,Joanne Verger,1080
+Coos,7,State Senate,5,DEM,Joanne Verger,1224
+Coos,8,State Senate,5,DEM,Joanne Verger,1222
+Coos,9,State Senate,5,DEM,Joanne Verger,793
+Coos,17,State Senate,5,DEM,Joanne Verger,117
+Coos,Total,State Senate,5,DEM,Joanne Verger,10113
+Coos,1,State Senate,5,REP,Al Pearn,678
+Coos,2,State Senate,5,REP,Al Pearn,1300
+Coos,3,State Senate,5,REP,Al Pearn,1544
+Coos,4,State Senate,5,REP,Al Pearn,1034
+Coos,5,State Senate,5,REP,Al Pearn,1447
+Coos,6,State Senate,5,REP,Al Pearn,972
+Coos,7,State Senate,5,REP,Al Pearn,1088
+Coos,8,State Senate,5,REP,Al Pearn,1191
+Coos,9,State Senate,5,REP,Al Pearn,958
+Coos,17,State Senate,5,REP,Al Pearn,118
+Coos,Total,State Senate,5,REP,Al Pearn,10330
+Coos,1,State Senate,5,,Write-in,0
+Coos,2,State Senate,5,,Write-in,6
+Coos,3,State Senate,5,,Write-in,5
+Coos,4,State Senate,5,,Write-in,3
+Coos,5,State Senate,5,,Write-in,9
+Coos,6,State Senate,5,,Write-in,4
+Coos,7,State Senate,5,,Write-in,16
+Coos,8,State Senate,5,,Write-in,5
+Coos,9,State Senate,5,,Write-in,5
+Coos,17,State Senate,5,,Write-in,0
+Coos,Total,State Senate,5,,Write-in,53
+Coos,1,State Senate,5,,Over Votes,1
+Coos,2,State Senate,5,,Over Votes,0
+Coos,3,State Senate,5,,Over Votes,1
+Coos,4,State Senate,5,,Over Votes,2
+Coos,5,State Senate,5,,Over Votes,1
+Coos,6,State Senate,5,,Over Votes,0
+Coos,7,State Senate,5,,Over Votes,0
+Coos,8,State Senate,5,,Over Votes,1
+Coos,9,State Senate,5,,Over Votes,0
+Coos,17,State Senate,5,,Over Votes,0
+Coos,Total,State Senate,5,,Over Votes,6
+Coos,1,State Senate,5,,Under Votes,40
+Coos,2,State Senate,5,,Under Votes,68
+Coos,3,State Senate,5,,Under Votes,104
+Coos,4,State Senate,5,,Under Votes,79
+Coos,5,State Senate,5,,Under Votes,97
+Coos,6,State Senate,5,,Under Votes,51
+Coos,7,State Senate,5,,Under Votes,67
+Coos,8,State Senate,5,,Under Votes,84
+Coos,9,State Senate,5,,Under Votes,57
+Coos,17,State Senate,5,,Under Votes,11
+Coos,Total,State Senate,5,,Under Votes,658
+Coos,1,U.S. Senate,,GRE,Teresa Keane,15
+Coos,2,U.S. Senate,,GRE,Teresa Keane,40
+Coos,3,U.S. Senate,,GRE,Teresa Keane,54
+Coos,4,U.S. Senate,,GRE,Teresa Keane,62
+Coos,5,U.S. Senate,,GRE,Teresa Keane,67
+Coos,6,U.S. Senate,,GRE,Teresa Keane,55
+Coos,7,U.S. Senate,,GRE,Teresa Keane,60
+Coos,8,U.S. Senate,,GRE,Teresa Keane,63
+Coos,9,U.S. Senate,,GRE,Teresa Keane,38
+Coos,10,U.S. Senate,,GRE,Teresa Keane,23
+Coos,11,U.S. Senate,,GRE,Teresa Keane,26
+Coos,12,U.S. Senate,,GRE,Teresa Keane,34
+Coos,13,U.S. Senate,,GRE,Teresa Keane,19
+Coos,14,U.S. Senate,,GRE,Teresa Keane,23
+Coos,15,U.S. Senate,,GRE,Teresa Keane,11
+Coos,16,U.S. Senate,,GRE,Teresa Keane,42
+Coos,17,U.S. Senate,,GRE,Teresa Keane,8
+Coos,18,U.S. Senate,,GRE,Teresa Keane,39
+Coos,19,U.S. Senate,,GRE,Teresa Keane,7
+Coos,Total,U.S. Senate,,GRE,Teresa Keane,686
+Coos,1,U.S. Senate,,REP,Al King,515
+Coos,2,U.S. Senate,,REP,Al King,965
+Coos,3,U.S. Senate,,REP,Al King,1092
+Coos,4,U.S. Senate,,REP,Al King,751
+Coos,5,U.S. Senate,,REP,Al King,1077
+Coos,6,U.S. Senate,,REP,Al King,747
+Coos,7,U.S. Senate,,REP,Al King,804
+Coos,8,U.S. Senate,,REP,Al King,845
+Coos,9,U.S. Senate,,REP,Al King,692
+Coos,10,U.S. Senate,,REP,Al King,603
+Coos,11,U.S. Senate,,REP,Al King,896
+Coos,12,U.S. Senate,,REP,Al King,873
+Coos,13,U.S. Senate,,REP,Al King,527
+Coos,14,U.S. Senate,,REP,Al King,813
+Coos,15,U.S. Senate,,REP,Al King,179
+Coos,16,U.S. Senate,,REP,Al King,534
+Coos,17,U.S. Senate,,REP,Al King,79
+Coos,18,U.S. Senate,,REP,Al King,784
+Coos,19,U.S. Senate,,REP,Al King,154
+Coos,Total,U.S. Senate,,REP,Al King,12930
+Coos,1,U.S. Senate,,LIB,Dan Fitzgerald,18
+Coos,2,U.S. Senate,,LIB,Dan Fitzgerald,34
+Coos,3,U.S. Senate,,LIB,Dan Fitzgerald,35
+Coos,4,U.S. Senate,,LIB,Dan Fitzgerald,41
+Coos,5,U.S. Senate,,LIB,Dan Fitzgerald,64
+Coos,6,U.S. Senate,,LIB,Dan Fitzgerald,34
+Coos,7,U.S. Senate,,LIB,Dan Fitzgerald,39
+Coos,8,U.S. Senate,,LIB,Dan Fitzgerald,48
+Coos,9,U.S. Senate,,LIB,Dan Fitzgerald,35
+Coos,10,U.S. Senate,,LIB,Dan Fitzgerald,21
+Coos,11,U.S. Senate,,LIB,Dan Fitzgerald,28
+Coos,12,U.S. Senate,,LIB,Dan Fitzgerald,37
+Coos,13,U.S. Senate,,LIB,Dan Fitzgerald,16
+Coos,14,U.S. Senate,,LIB,Dan Fitzgerald,28
+Coos,15,U.S. Senate,,LIB,Dan Fitzgerald,9
+Coos,16,U.S. Senate,,LIB,Dan Fitzgerald,27
+Coos,17,U.S. Senate,,LIB,Dan Fitzgerald,8
+Coos,18,U.S. Senate,,LIB,Dan Fitzgerald,22
+Coos,19,U.S. Senate,,LIB,Dan Fitzgerald,5
+Coos,Total,U.S. Senate,,LIB,Dan Fitzgerald,549
+Coos,1,U.S. Senate,,DEM,Ron Wyden,678
+Coos,2,U.S. Senate,,DEM,Ron Wyden,1314
+Coos,3,U.S. Senate,,DEM,Ron Wyden,1678
+Coos,4,U.S. Senate,,DEM,Ron Wyden,1321
+Coos,5,U.S. Senate,,DEM,Ron Wyden,1830
+Coos,6,U.S. Senate,,DEM,Ron Wyden,1198
+Coos,7,U.S. Senate,,DEM,Ron Wyden,1397
+Coos,8,U.S. Senate,,DEM,Ron Wyden,1448
+Coos,9,U.S. Senate,,DEM,Ron Wyden,996
+Coos,10,U.S. Senate,,DEM,Ron Wyden,725
+Coos,11,U.S. Senate,,DEM,Ron Wyden,839
+Coos,12,U.S. Senate,,DEM,Ron Wyden,1041
+Coos,13,U.S. Senate,,DEM,Ron Wyden,622
+Coos,14,U.S. Senate,,DEM,Ron Wyden,601
+Coos,15,U.S. Senate,,DEM,Ron Wyden,259
+Coos,16,U.S. Senate,,DEM,Ron Wyden,1009
+Coos,17,U.S. Senate,,DEM,Ron Wyden,145
+Coos,18,U.S. Senate,,DEM,Ron Wyden,906
+Coos,19,U.S. Senate,,DEM,Ron Wyden,141
+Coos,Total,U.S. Senate,,DEM,Ron Wyden,18148
+Coos,1,U.S. Senate,,CON,David Brownlow,10
+Coos,2,U.S. Senate,,CON,David Brownlow,17
+Coos,3,U.S. Senate,,CON,David Brownlow,23
+Coos,4,U.S. Senate,,CON,David Brownlow,23
+Coos,5,U.S. Senate,,CON,David Brownlow,16
+Coos,6,U.S. Senate,,CON,David Brownlow,13
+Coos,7,U.S. Senate,,CON,David Brownlow,15
+Coos,8,U.S. Senate,,CON,David Brownlow,29
+Coos,9,U.S. Senate,,CON,David Brownlow,15
+Coos,10,U.S. Senate,,CON,David Brownlow,15
+Coos,11,U.S. Senate,,CON,David Brownlow,21
+Coos,12,U.S. Senate,,CON,David Brownlow,26
+Coos,13,U.S. Senate,,CON,David Brownlow,11
+Coos,14,U.S. Senate,,CON,David Brownlow,14
+Coos,15,U.S. Senate,,CON,David Brownlow,10
+Coos,16,U.S. Senate,,CON,David Brownlow,9
+Coos,17,U.S. Senate,,CON,David Brownlow,2
+Coos,18,U.S. Senate,,CON,David Brownlow,12
+Coos,19,U.S. Senate,,CON,David Brownlow,6
+Coos,Total,U.S. Senate,,CON,David Brownlow,287
+Coos,1,U.S. Senate,,,Write-in,0
+Coos,2,U.S. Senate,,,Write-in,3
+Coos,3,U.S. Senate,,,Write-in,2
+Coos,4,U.S. Senate,,,Write-in,5
+Coos,5,U.S. Senate,,,Write-in,3
+Coos,6,U.S. Senate,,,Write-in,4
+Coos,7,U.S. Senate,,,Write-in,4
+Coos,8,U.S. Senate,,,Write-in,4
+Coos,9,U.S. Senate,,,Write-in,0
+Coos,10,U.S. Senate,,,Write-in,2
+Coos,11,U.S. Senate,,,Write-in,1
+Coos,12,U.S. Senate,,,Write-in,5
+Coos,13,U.S. Senate,,,Write-in,1
+Coos,14,U.S. Senate,,,Write-in,0
+Coos,15,U.S. Senate,,,Write-in,0
+Coos,16,U.S. Senate,,,Write-in,0
+Coos,17,U.S. Senate,,,Write-in,0
+Coos,18,U.S. Senate,,,Write-in,2
+Coos,19,U.S. Senate,,,Write-in,0
+Coos,Total,U.S. Senate,,,Write-in,36
+Coos,1,U.S. Senate,,,Over Votes,1
+Coos,2,U.S. Senate,,,Over Votes,1
+Coos,3,U.S. Senate,,,Over Votes,1
+Coos,4,U.S. Senate,,,Over Votes,1
+Coos,5,U.S. Senate,,,Over Votes,0
+Coos,6,U.S. Senate,,,Over Votes,3
+Coos,7,U.S. Senate,,,Over Votes,0
+Coos,8,U.S. Senate,,,Over Votes,1
+Coos,9,U.S. Senate,,,Over Votes,1
+Coos,10,U.S. Senate,,,Over Votes,1
+Coos,11,U.S. Senate,,,Over Votes,0
+Coos,12,U.S. Senate,,,Over Votes,1
+Coos,13,U.S. Senate,,,Over Votes,0
+Coos,14,U.S. Senate,,,Over Votes,0
+Coos,15,U.S. Senate,,,Over Votes,0
+Coos,16,U.S. Senate,,,Over Votes,0
+Coos,17,U.S. Senate,,,Over Votes,0
+Coos,18,U.S. Senate,,,Over Votes,0
+Coos,19,U.S. Senate,,,Over Votes,0
+Coos,Total,U.S. Senate,,,Over Votes,11
+Coos,1,U.S. Senate,,,Under Votes,27
+Coos,2,U.S. Senate,,,Under Votes,65
+Coos,3,U.S. Senate,,,Under Votes,92
+Coos,4,U.S. Senate,,,Under Votes,69
+Coos,5,U.S. Senate,,,Under Votes,86
+Coos,6,U.S. Senate,,,Under Votes,53
+Coos,7,U.S. Senate,,,Under Votes,76
+Coos,8,U.S. Senate,,,Under Votes,65
+Coos,9,U.S. Senate,,,Under Votes,36
+Coos,10,U.S. Senate,,,Under Votes,39
+Coos,11,U.S. Senate,,,Under Votes,54
+Coos,12,U.S. Senate,,,Under Votes,61
+Coos,13,U.S. Senate,,,Under Votes,40
+Coos,14,U.S. Senate,,,Under Votes,57
+Coos,15,U.S. Senate,,,Under Votes,12
+Coos,16,U.S. Senate,,,Under Votes,47
+Coos,17,U.S. Senate,,,Under Votes,4
+Coos,18,U.S. Senate,,,Under Votes,51
+Coos,19,U.S. Senate,,,Under Votes,6
+Coos,Total,U.S. Senate,,,Under Votes,940
