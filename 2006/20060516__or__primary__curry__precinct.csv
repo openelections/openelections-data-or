@@ -1,0 +1,925 @@
+county,precinct,office,district,party,candidate,votes
+Curry,1,U.S. House,4,DEM,Peter A. DeFazio,16
+Curry,2,U.S. House,4,DEM,Peter A. DeFazio,60
+Curry,3,U.S. House,4,DEM,Peter A. DeFazio,84
+Curry,4,U.S. House,4,DEM,Peter A. DeFazio,35
+Curry,5,U.S. House,4,DEM,Peter A. DeFazio,121
+Curry,6,U.S. House,4,DEM,Peter A. DeFazio,88
+Curry,7,U.S. House,4,DEM,Peter A. DeFazio,62
+Curry,8,U.S. House,4,DEM,Peter A. DeFazio,83
+Curry,9,U.S. House,4,DEM,Peter A. DeFazio,125
+Curry,10,U.S. House,4,DEM,Peter A. DeFazio,82
+Curry,11,U.S. House,4,DEM,Peter A. DeFazio,123
+Curry,12,U.S. House,4,DEM,Peter A. DeFazio,39
+Curry,13,U.S. House,4,DEM,Peter A. DeFazio,38
+Curry,14,U.S. House,4,DEM,Peter A. DeFazio,42
+Curry,15,U.S. House,4,DEM,Peter A. DeFazio,55
+Curry,16,U.S. House,4,DEM,Peter A. DeFazio,161
+Curry,17,U.S. House,4,DEM,Peter A. DeFazio,217
+Curry,18,U.S. House,4,DEM,Peter A. DeFazio,57
+Curry,19,U.S. House,4,DEM,Peter A. DeFazio,101
+Curry,20,U.S. House,4,DEM,Peter A. DeFazio,61
+Curry,21,U.S. House,4,DEM,Peter A. DeFazio,41
+Curry,22,U.S. House,4,DEM,Peter A. DeFazio,81
+Curry,23,U.S. House,4,DEM,Peter A. DeFazio,74
+Curry,24,U.S. House,4,DEM,Peter A. DeFazio,94
+Curry,25,U.S. House,4,DEM,Peter A. DeFazio,66
+Curry,26,U.S. House,4,DEM,Peter A. DeFazio,94
+Curry,27,U.S. House,4,DEM,Peter A. DeFazio,47
+Curry,Total,U.S. House,4,DEM,Peter A. DeFazio,2147
+Curry,1,U.S. House,4,DEM,Write-in,0
+Curry,2,U.S. House,4,DEM,Write-in,2
+Curry,3,U.S. House,4,DEM,Write-in,2
+Curry,4,U.S. House,4,DEM,Write-in,1
+Curry,5,U.S. House,4,DEM,Write-in,0
+Curry,6,U.S. House,4,DEM,Write-in,0
+Curry,7,U.S. House,4,DEM,Write-in,2
+Curry,8,U.S. House,4,DEM,Write-in,1
+Curry,9,U.S. House,4,DEM,Write-in,2
+Curry,10,U.S. House,4,DEM,Write-in,1
+Curry,11,U.S. House,4,DEM,Write-in,2
+Curry,12,U.S. House,4,DEM,Write-in,0
+Curry,13,U.S. House,4,DEM,Write-in,0
+Curry,14,U.S. House,4,DEM,Write-in,1
+Curry,15,U.S. House,4,DEM,Write-in,2
+Curry,16,U.S. House,4,DEM,Write-in,3
+Curry,17,U.S. House,4,DEM,Write-in,1
+Curry,18,U.S. House,4,DEM,Write-in,0
+Curry,19,U.S. House,4,DEM,Write-in,2
+Curry,20,U.S. House,4,DEM,Write-in,0
+Curry,21,U.S. House,4,DEM,Write-in,0
+Curry,22,U.S. House,4,DEM,Write-in,0
+Curry,23,U.S. House,4,DEM,Write-in,1
+Curry,24,U.S. House,4,DEM,Write-in,0
+Curry,25,U.S. House,4,DEM,Write-in,1
+Curry,26,U.S. House,4,DEM,Write-in,1
+Curry,27,U.S. House,4,DEM,Write-in,0
+Curry,Total,U.S. House,4,DEM,Write-in,25
+Curry,1,U.S. House,4,DEM,Over Votes,0
+Curry,2,U.S. House,4,DEM,Over Votes,0
+Curry,3,U.S. House,4,DEM,Over Votes,0
+Curry,4,U.S. House,4,DEM,Over Votes,0
+Curry,5,U.S. House,4,DEM,Over Votes,0
+Curry,6,U.S. House,4,DEM,Over Votes,0
+Curry,7,U.S. House,4,DEM,Over Votes,0
+Curry,8,U.S. House,4,DEM,Over Votes,0
+Curry,9,U.S. House,4,DEM,Over Votes,0
+Curry,10,U.S. House,4,DEM,Over Votes,0
+Curry,11,U.S. House,4,DEM,Over Votes,0
+Curry,12,U.S. House,4,DEM,Over Votes,0
+Curry,13,U.S. House,4,DEM,Over Votes,0
+Curry,14,U.S. House,4,DEM,Over Votes,0
+Curry,15,U.S. House,4,DEM,Over Votes,0
+Curry,16,U.S. House,4,DEM,Over Votes,0
+Curry,17,U.S. House,4,DEM,Over Votes,0
+Curry,18,U.S. House,4,DEM,Over Votes,0
+Curry,19,U.S. House,4,DEM,Over Votes,0
+Curry,20,U.S. House,4,DEM,Over Votes,0
+Curry,21,U.S. House,4,DEM,Over Votes,0
+Curry,22,U.S. House,4,DEM,Over Votes,0
+Curry,23,U.S. House,4,DEM,Over Votes,0
+Curry,24,U.S. House,4,DEM,Over Votes,0
+Curry,25,U.S. House,4,DEM,Over Votes,0
+Curry,26,U.S. House,4,DEM,Over Votes,0
+Curry,27,U.S. House,4,DEM,Over Votes,0
+Curry,Total,U.S. House,4,DEM,Over Votes,0
+Curry,1,U.S. House,4,DEM,Under Votes,0
+Curry,2,U.S. House,4,DEM,Under Votes,4
+Curry,3,U.S. House,4,DEM,Under Votes,7
+Curry,4,U.S. House,4,DEM,Under Votes,1
+Curry,5,U.S. House,4,DEM,Under Votes,11
+Curry,6,U.S. House,4,DEM,Under Votes,1
+Curry,7,U.S. House,4,DEM,Under Votes,1
+Curry,8,U.S. House,4,DEM,Under Votes,8
+Curry,9,U.S. House,4,DEM,Under Votes,8
+Curry,10,U.S. House,4,DEM,Under Votes,7
+Curry,11,U.S. House,4,DEM,Under Votes,5
+Curry,12,U.S. House,4,DEM,Under Votes,5
+Curry,13,U.S. House,4,DEM,Under Votes,1
+Curry,14,U.S. House,4,DEM,Under Votes,6
+Curry,15,U.S. House,4,DEM,Under Votes,4
+Curry,16,U.S. House,4,DEM,Under Votes,10
+Curry,17,U.S. House,4,DEM,Under Votes,18
+Curry,18,U.S. House,4,DEM,Under Votes,7
+Curry,19,U.S. House,4,DEM,Under Votes,6
+Curry,20,U.S. House,4,DEM,Under Votes,5
+Curry,21,U.S. House,4,DEM,Under Votes,4
+Curry,22,U.S. House,4,DEM,Under Votes,2
+Curry,23,U.S. House,4,DEM,Under Votes,5
+Curry,24,U.S. House,4,DEM,Under Votes,4
+Curry,25,U.S. House,4,DEM,Under Votes,1
+Curry,26,U.S. House,4,DEM,Under Votes,7
+Curry,27,U.S. House,4,DEM,Under Votes,3
+Curry,Total,U.S. House,4,DEM,Under Votes,141
+Curry,1,Governor,,DEM,Pete Sorenson,1
+Curry,2,Governor,,DEM,Pete Sorenson,16
+Curry,3,Governor,,DEM,Pete Sorenson,15
+Curry,4,Governor,,DEM,Pete Sorenson,14
+Curry,5,Governor,,DEM,Pete Sorenson,24
+Curry,6,Governor,,DEM,Pete Sorenson,17
+Curry,7,Governor,,DEM,Pete Sorenson,14
+Curry,8,Governor,,DEM,Pete Sorenson,11
+Curry,9,Governor,,DEM,Pete Sorenson,25
+Curry,10,Governor,,DEM,Pete Sorenson,20
+Curry,11,Governor,,DEM,Pete Sorenson,20
+Curry,12,Governor,,DEM,Pete Sorenson,3
+Curry,13,Governor,,DEM,Pete Sorenson,6
+Curry,14,Governor,,DEM,Pete Sorenson,14
+Curry,15,Governor,,DEM,Pete Sorenson,8
+Curry,16,Governor,,DEM,Pete Sorenson,31
+Curry,17,Governor,,DEM,Pete Sorenson,42
+Curry,18,Governor,,DEM,Pete Sorenson,15
+Curry,19,Governor,,DEM,Pete Sorenson,20
+Curry,20,Governor,,DEM,Pete Sorenson,14
+Curry,21,Governor,,DEM,Pete Sorenson,5
+Curry,22,Governor,,DEM,Pete Sorenson,11
+Curry,23,Governor,,DEM,Pete Sorenson,19
+Curry,24,Governor,,DEM,Pete Sorenson,18
+Curry,25,Governor,,DEM,Pete Sorenson,18
+Curry,26,Governor,,DEM,Pete Sorenson,16
+Curry,27,Governor,,DEM,Pete Sorenson,10
+Curry,Total,Governor,,DEM,Pete Sorenson,427
+Curry,1,Governor,,DEM,Ted Kulongoski,13
+Curry,2,Governor,,DEM,Ted Kulongoski,39
+Curry,3,Governor,,DEM,Ted Kulongoski,50
+Curry,4,Governor,,DEM,Ted Kulongoski,18
+Curry,5,Governor,,DEM,Ted Kulongoski,85
+Curry,6,Governor,,DEM,Ted Kulongoski,54
+Curry,7,Governor,,DEM,Ted Kulongoski,34
+Curry,8,Governor,,DEM,Ted Kulongoski,57
+Curry,9,Governor,,DEM,Ted Kulongoski,67
+Curry,10,Governor,,DEM,Ted Kulongoski,50
+Curry,11,Governor,,DEM,Ted Kulongoski,71
+Curry,12,Governor,,DEM,Ted Kulongoski,23
+Curry,13,Governor,,DEM,Ted Kulongoski,24
+Curry,14,Governor,,DEM,Ted Kulongoski,25
+Curry,15,Governor,,DEM,Ted Kulongoski,46
+Curry,16,Governor,,DEM,Ted Kulongoski,112
+Curry,17,Governor,,DEM,Ted Kulongoski,149
+Curry,18,Governor,,DEM,Ted Kulongoski,43
+Curry,19,Governor,,DEM,Ted Kulongoski,77
+Curry,20,Governor,,DEM,Ted Kulongoski,34
+Curry,21,Governor,,DEM,Ted Kulongoski,30
+Curry,22,Governor,,DEM,Ted Kulongoski,62
+Curry,23,Governor,,DEM,Ted Kulongoski,48
+Curry,24,Governor,,DEM,Ted Kulongoski,59
+Curry,25,Governor,,DEM,Ted Kulongoski,40
+Curry,26,Governor,,DEM,Ted Kulongoski,62
+Curry,27,Governor,,DEM,Ted Kulongoski,29
+Curry,Total,Governor,,DEM,Ted Kulongoski,1401
+Curry,1,Governor,,DEM,Jim Hill,1
+Curry,2,Governor,,DEM,Jim Hill,8
+Curry,3,Governor,,DEM,Jim Hill,18
+Curry,4,Governor,,DEM,Jim Hill,3
+Curry,5,Governor,,DEM,Jim Hill,19
+Curry,6,Governor,,DEM,Jim Hill,16
+Curry,7,Governor,,DEM,Jim Hill,15
+Curry,8,Governor,,DEM,Jim Hill,18
+Curry,9,Governor,,DEM,Jim Hill,38
+Curry,10,Governor,,DEM,Jim Hill,17
+Curry,11,Governor,,DEM,Jim Hill,32
+Curry,12,Governor,,DEM,Jim Hill,11
+Curry,13,Governor,,DEM,Jim Hill,8
+Curry,14,Governor,,DEM,Jim Hill,7
+Curry,15,Governor,,DEM,Jim Hill,4
+Curry,16,Governor,,DEM,Jim Hill,20
+Curry,17,Governor,,DEM,Jim Hill,35
+Curry,18,Governor,,DEM,Jim Hill,6
+Curry,19,Governor,,DEM,Jim Hill,9
+Curry,20,Governor,,DEM,Jim Hill,16
+Curry,21,Governor,,DEM,Jim Hill,5
+Curry,22,Governor,,DEM,Jim Hill,7
+Curry,23,Governor,,DEM,Jim Hill,11
+Curry,24,Governor,,DEM,Jim Hill,14
+Curry,25,Governor,,DEM,Jim Hill,6
+Curry,26,Governor,,DEM,Jim Hill,22
+Curry,27,Governor,,DEM,Jim Hill,6
+Curry,Total,Governor,,DEM,Jim Hill,372
+Curry,1,Governor,,DEM,Write-in,0
+Curry,2,Governor,,DEM,Write-in,0
+Curry,3,Governor,,DEM,Write-in,5
+Curry,4,Governor,,DEM,Write-in,1
+Curry,5,Governor,,DEM,Write-in,0
+Curry,6,Governor,,DEM,Write-in,1
+Curry,7,Governor,,DEM,Write-in,1
+Curry,8,Governor,,DEM,Write-in,1
+Curry,9,Governor,,DEM,Write-in,2
+Curry,10,Governor,,DEM,Write-in,0
+Curry,11,Governor,,DEM,Write-in,1
+Curry,12,Governor,,DEM,Write-in,0
+Curry,13,Governor,,DEM,Write-in,0
+Curry,14,Governor,,DEM,Write-in,1
+Curry,15,Governor,,DEM,Write-in,2
+Curry,16,Governor,,DEM,Write-in,4
+Curry,17,Governor,,DEM,Write-in,0
+Curry,18,Governor,,DEM,Write-in,0
+Curry,19,Governor,,DEM,Write-in,1
+Curry,20,Governor,,DEM,Write-in,0
+Curry,21,Governor,,DEM,Write-in,0
+Curry,22,Governor,,DEM,Write-in,1
+Curry,23,Governor,,DEM,Write-in,0
+Curry,24,Governor,,DEM,Write-in,1
+Curry,25,Governor,,DEM,Write-in,2
+Curry,26,Governor,,DEM,Write-in,1
+Curry,27,Governor,,DEM,Write-in,0
+Curry,Total,Governor,,DEM,Write-in,25
+Curry,1,Governor,,DEM,Over Votes,0
+Curry,2,Governor,,DEM,Over Votes,0
+Curry,3,Governor,,DEM,Over Votes,0
+Curry,4,Governor,,DEM,Over Votes,0
+Curry,5,Governor,,DEM,Over Votes,0
+Curry,6,Governor,,DEM,Over Votes,0
+Curry,7,Governor,,DEM,Over Votes,0
+Curry,8,Governor,,DEM,Over Votes,0
+Curry,9,Governor,,DEM,Over Votes,0
+Curry,10,Governor,,DEM,Over Votes,0
+Curry,11,Governor,,DEM,Over Votes,0
+Curry,12,Governor,,DEM,Over Votes,0
+Curry,13,Governor,,DEM,Over Votes,0
+Curry,14,Governor,,DEM,Over Votes,0
+Curry,15,Governor,,DEM,Over Votes,0
+Curry,16,Governor,,DEM,Over Votes,0
+Curry,17,Governor,,DEM,Over Votes,0
+Curry,18,Governor,,DEM,Over Votes,0
+Curry,19,Governor,,DEM,Over Votes,0
+Curry,20,Governor,,DEM,Over Votes,0
+Curry,21,Governor,,DEM,Over Votes,0
+Curry,22,Governor,,DEM,Over Votes,0
+Curry,23,Governor,,DEM,Over Votes,0
+Curry,24,Governor,,DEM,Over Votes,1
+Curry,25,Governor,,DEM,Over Votes,0
+Curry,26,Governor,,DEM,Over Votes,0
+Curry,27,Governor,,DEM,Over Votes,0
+Curry,Total,Governor,,DEM,Over Votes,1
+Curry,1,Governor,,DEM,Under Votes,1
+Curry,2,Governor,,DEM,Under Votes,3
+Curry,3,Governor,,DEM,Under Votes,5
+Curry,4,Governor,,DEM,Under Votes,1
+Curry,5,Governor,,DEM,Under Votes,4
+Curry,6,Governor,,DEM,Under Votes,1
+Curry,7,Governor,,DEM,Under Votes,1
+Curry,8,Governor,,DEM,Under Votes,5
+Curry,9,Governor,,DEM,Under Votes,3
+Curry,10,Governor,,DEM,Under Votes,3
+Curry,11,Governor,,DEM,Under Votes,6
+Curry,12,Governor,,DEM,Under Votes,7
+Curry,13,Governor,,DEM,Under Votes,1
+Curry,14,Governor,,DEM,Under Votes,2
+Curry,15,Governor,,DEM,Under Votes,1
+Curry,16,Governor,,DEM,Under Votes,7
+Curry,17,Governor,,DEM,Under Votes,10
+Curry,18,Governor,,DEM,Under Votes,0
+Curry,19,Governor,,DEM,Under Votes,2
+Curry,20,Governor,,DEM,Under Votes,2
+Curry,21,Governor,,DEM,Under Votes,5
+Curry,22,Governor,,DEM,Under Votes,2
+Curry,23,Governor,,DEM,Under Votes,2
+Curry,24,Governor,,DEM,Under Votes,5
+Curry,25,Governor,,DEM,Under Votes,2
+Curry,26,Governor,,DEM,Under Votes,1
+Curry,27,Governor,,DEM,Under Votes,5
+Curry,Total,Governor,,DEM,Under Votes,87
+Curry,1,State House,1,DEM,Write-in,3
+Curry,2,State House,1,DEM,Write-in,0
+Curry,3,State House,1,DEM,Write-in,4
+Curry,4,State House,1,DEM,Write-in,5
+Curry,5,State House,1,DEM,Write-in,7
+Curry,6,State House,1,DEM,Write-in,5
+Curry,7,State House,1,DEM,Write-in,8
+Curry,8,State House,1,DEM,Write-in,7
+Curry,9,State House,1,DEM,Write-in,8
+Curry,10,State House,1,DEM,Write-in,3
+Curry,11,State House,1,DEM,Write-in,7
+Curry,12,State House,1,DEM,Write-in,3
+Curry,13,State House,1,DEM,Write-in,2
+Curry,14,State House,1,DEM,Write-in,4
+Curry,15,State House,1,DEM,Write-in,2
+Curry,16,State House,1,DEM,Write-in,7
+Curry,17,State House,1,DEM,Write-in,9
+Curry,18,State House,1,DEM,Write-in,3
+Curry,19,State House,1,DEM,Write-in,7
+Curry,20,State House,1,DEM,Write-in,5
+Curry,21,State House,1,DEM,Write-in,3
+Curry,22,State House,1,DEM,Write-in,6
+Curry,23,State House,1,DEM,Write-in,5
+Curry,24,State House,1,DEM,Write-in,1
+Curry,25,State House,1,DEM,Write-in,3
+Curry,26,State House,1,DEM,Write-in,9
+Curry,27,State House,1,DEM,Write-in,3
+Curry,Total,State House,1,DEM,Write-in,129
+Curry,1,State House,1,DEM,Over Votes,0
+Curry,2,State House,1,DEM,Over Votes,0
+Curry,3,State House,1,DEM,Over Votes,0
+Curry,4,State House,1,DEM,Over Votes,0
+Curry,5,State House,1,DEM,Over Votes,0
+Curry,6,State House,1,DEM,Over Votes,0
+Curry,7,State House,1,DEM,Over Votes,0
+Curry,8,State House,1,DEM,Over Votes,0
+Curry,9,State House,1,DEM,Over Votes,0
+Curry,10,State House,1,DEM,Over Votes,0
+Curry,11,State House,1,DEM,Over Votes,0
+Curry,12,State House,1,DEM,Over Votes,0
+Curry,13,State House,1,DEM,Over Votes,0
+Curry,14,State House,1,DEM,Over Votes,0
+Curry,15,State House,1,DEM,Over Votes,0
+Curry,16,State House,1,DEM,Over Votes,0
+Curry,17,State House,1,DEM,Over Votes,0
+Curry,18,State House,1,DEM,Over Votes,0
+Curry,19,State House,1,DEM,Over Votes,0
+Curry,20,State House,1,DEM,Over Votes,0
+Curry,21,State House,1,DEM,Over Votes,0
+Curry,22,State House,1,DEM,Over Votes,0
+Curry,23,State House,1,DEM,Over Votes,0
+Curry,24,State House,1,DEM,Over Votes,0
+Curry,25,State House,1,DEM,Over Votes,0
+Curry,26,State House,1,DEM,Over Votes,0
+Curry,27,State House,1,DEM,Over Votes,0
+Curry,Total,State House,1,DEM,Over Votes,0
+Curry,1,State House,1,DEM,Under Votes,13
+Curry,2,State House,1,DEM,Under Votes,66
+Curry,3,State House,1,DEM,Under Votes,89
+Curry,4,State House,1,DEM,Under Votes,32
+Curry,5,State House,1,DEM,Under Votes,125
+Curry,6,State House,1,DEM,Under Votes,84
+Curry,7,State House,1,DEM,Under Votes,57
+Curry,8,State House,1,DEM,Under Votes,85
+Curry,9,State House,1,DEM,Under Votes,127
+Curry,10,State House,1,DEM,Under Votes,87
+Curry,11,State House,1,DEM,Under Votes,123
+Curry,12,State House,1,DEM,Under Votes,41
+Curry,13,State House,1,DEM,Under Votes,37
+Curry,14,State House,1,DEM,Under Votes,45
+Curry,15,State House,1,DEM,Under Votes,59
+Curry,16,State House,1,DEM,Under Votes,167
+Curry,17,State House,1,DEM,Under Votes,227
+Curry,18,State House,1,DEM,Under Votes,61
+Curry,19,State House,1,DEM,Under Votes,102
+Curry,20,State House,1,DEM,Under Votes,61
+Curry,21,State House,1,DEM,Under Votes,42
+Curry,22,State House,1,DEM,Under Votes,77
+Curry,23,State House,1,DEM,Under Votes,75
+Curry,24,State House,1,DEM,Under Votes,97
+Curry,25,State House,1,DEM,Under Votes,65
+Curry,26,State House,1,DEM,Under Votes,93
+Curry,27,State House,1,DEM,Under Votes,47
+Curry,Total,State House,1,DEM,Under Votes,2184
+Curry,1,U.S. House,4,REP,Jim Feldkamp,8
+Curry,2,U.S. House,4,REP,Jim Feldkamp,67
+Curry,3,U.S. House,4,REP,Jim Feldkamp,53
+Curry,4,U.S. House,4,REP,Jim Feldkamp,30
+Curry,5,U.S. House,4,REP,Jim Feldkamp,75
+Curry,6,U.S. House,4,REP,Jim Feldkamp,67
+Curry,7,U.S. House,4,REP,Jim Feldkamp,23
+Curry,8,U.S. House,4,REP,Jim Feldkamp,78
+Curry,9,U.S. House,4,REP,Jim Feldkamp,130
+Curry,10,U.S. House,4,REP,Jim Feldkamp,81
+Curry,11,U.S. House,4,REP,Jim Feldkamp,97
+Curry,12,U.S. House,4,REP,Jim Feldkamp,28
+Curry,13,U.S. House,4,REP,Jim Feldkamp,39
+Curry,14,U.S. House,4,REP,Jim Feldkamp,54
+Curry,15,U.S. House,4,REP,Jim Feldkamp,66
+Curry,16,U.S. House,4,REP,Jim Feldkamp,148
+Curry,17,U.S. House,4,REP,Jim Feldkamp,201
+Curry,18,U.S. House,4,REP,Jim Feldkamp,72
+Curry,19,U.S. House,4,REP,Jim Feldkamp,111
+Curry,20,U.S. House,4,REP,Jim Feldkamp,60
+Curry,21,U.S. House,4,REP,Jim Feldkamp,28
+Curry,22,U.S. House,4,REP,Jim Feldkamp,75
+Curry,23,U.S. House,4,REP,Jim Feldkamp,77
+Curry,24,U.S. House,4,REP,Jim Feldkamp,81
+Curry,25,U.S. House,4,REP,Jim Feldkamp,66
+Curry,26,U.S. House,4,REP,Jim Feldkamp,111
+Curry,27,U.S. House,4,REP,Jim Feldkamp,42
+Curry,Total,U.S. House,4,REP,Jim Feldkamp,1968
+Curry,1,U.S. House,4,REP,Monica Johnson,0
+Curry,2,U.S. House,4,REP,Monica Johnson,14
+Curry,3,U.S. House,4,REP,Monica Johnson,20
+Curry,4,U.S. House,4,REP,Monica Johnson,5
+Curry,5,U.S. House,4,REP,Monica Johnson,20
+Curry,6,U.S. House,4,REP,Monica Johnson,9
+Curry,7,U.S. House,4,REP,Monica Johnson,4
+Curry,8,U.S. House,4,REP,Monica Johnson,19
+Curry,9,U.S. House,4,REP,Monica Johnson,19
+Curry,10,U.S. House,4,REP,Monica Johnson,19
+Curry,11,U.S. House,4,REP,Monica Johnson,25
+Curry,12,U.S. House,4,REP,Monica Johnson,6
+Curry,13,U.S. House,4,REP,Monica Johnson,9
+Curry,14,U.S. House,4,REP,Monica Johnson,14
+Curry,15,U.S. House,4,REP,Monica Johnson,16
+Curry,16,U.S. House,4,REP,Monica Johnson,30
+Curry,17,U.S. House,4,REP,Monica Johnson,34
+Curry,18,U.S. House,4,REP,Monica Johnson,4
+Curry,19,U.S. House,4,REP,Monica Johnson,28
+Curry,20,U.S. House,4,REP,Monica Johnson,8
+Curry,21,U.S. House,4,REP,Monica Johnson,13
+Curry,22,U.S. House,4,REP,Monica Johnson,14
+Curry,23,U.S. House,4,REP,Monica Johnson,24
+Curry,24,U.S. House,4,REP,Monica Johnson,32
+Curry,25,U.S. House,4,REP,Monica Johnson,14
+Curry,26,U.S. House,4,REP,Monica Johnson,31
+Curry,27,U.S. House,4,REP,Monica Johnson,9
+Curry,Total,U.S. House,4,REP,Monica Johnson,440
+Curry,1,U.S. House,4,REP,Write-in,0
+Curry,2,U.S. House,4,REP,Write-in,0
+Curry,3,U.S. House,4,REP,Write-in,0
+Curry,4,U.S. House,4,REP,Write-in,1
+Curry,5,U.S. House,4,REP,Write-in,4
+Curry,6,U.S. House,4,REP,Write-in,0
+Curry,7,U.S. House,4,REP,Write-in,0
+Curry,8,U.S. House,4,REP,Write-in,3
+Curry,9,U.S. House,4,REP,Write-in,0
+Curry,10,U.S. House,4,REP,Write-in,2
+Curry,11,U.S. House,4,REP,Write-in,3
+Curry,12,U.S. House,4,REP,Write-in,0
+Curry,13,U.S. House,4,REP,Write-in,2
+Curry,14,U.S. House,4,REP,Write-in,1
+Curry,15,U.S. House,4,REP,Write-in,5
+Curry,16,U.S. House,4,REP,Write-in,2
+Curry,17,U.S. House,4,REP,Write-in,3
+Curry,18,U.S. House,4,REP,Write-in,5
+Curry,19,U.S. House,4,REP,Write-in,1
+Curry,20,U.S. House,4,REP,Write-in,0
+Curry,21,U.S. House,4,REP,Write-in,0
+Curry,22,U.S. House,4,REP,Write-in,2
+Curry,23,U.S. House,4,REP,Write-in,1
+Curry,24,U.S. House,4,REP,Write-in,3
+Curry,25,U.S. House,4,REP,Write-in,2
+Curry,26,U.S. House,4,REP,Write-in,2
+Curry,27,U.S. House,4,REP,Write-in,0
+Curry,Total,U.S. House,4,REP,Write-in,42
+Curry,1,U.S. House,4,REP,Over Votes,0
+Curry,2,U.S. House,4,REP,Over Votes,0
+Curry,3,U.S. House,4,REP,Over Votes,0
+Curry,4,U.S. House,4,REP,Over Votes,0
+Curry,5,U.S. House,4,REP,Over Votes,0
+Curry,6,U.S. House,4,REP,Over Votes,1
+Curry,7,U.S. House,4,REP,Over Votes,0
+Curry,8,U.S. House,4,REP,Over Votes,0
+Curry,9,U.S. House,4,REP,Over Votes,0
+Curry,10,U.S. House,4,REP,Over Votes,0
+Curry,11,U.S. House,4,REP,Over Votes,0
+Curry,12,U.S. House,4,REP,Over Votes,0
+Curry,13,U.S. House,4,REP,Over Votes,0
+Curry,14,U.S. House,4,REP,Over Votes,0
+Curry,15,U.S. House,4,REP,Over Votes,0
+Curry,16,U.S. House,4,REP,Over Votes,0
+Curry,17,U.S. House,4,REP,Over Votes,0
+Curry,18,U.S. House,4,REP,Over Votes,0
+Curry,19,U.S. House,4,REP,Over Votes,0
+Curry,20,U.S. House,4,REP,Over Votes,0
+Curry,21,U.S. House,4,REP,Over Votes,0
+Curry,22,U.S. House,4,REP,Over Votes,0
+Curry,23,U.S. House,4,REP,Over Votes,0
+Curry,24,U.S. House,4,REP,Over Votes,0
+Curry,25,U.S. House,4,REP,Over Votes,0
+Curry,26,U.S. House,4,REP,Over Votes,0
+Curry,27,U.S. House,4,REP,Over Votes,0
+Curry,Total,U.S. House,4,REP,Over Votes,1
+Curry,1,U.S. House,4,REP,Under Votes,0
+Curry,2,U.S. House,4,REP,Under Votes,21
+Curry,3,U.S. House,4,REP,Under Votes,7
+Curry,4,U.S. House,4,REP,Under Votes,4
+Curry,5,U.S. House,4,REP,Under Votes,12
+Curry,6,U.S. House,4,REP,Under Votes,5
+Curry,7,U.S. House,4,REP,Under Votes,5
+Curry,8,U.S. House,4,REP,Under Votes,19
+Curry,9,U.S. House,4,REP,Under Votes,30
+Curry,10,U.S. House,4,REP,Under Votes,17
+Curry,11,U.S. House,4,REP,Under Votes,33
+Curry,12,U.S. House,4,REP,Under Votes,4
+Curry,13,U.S. House,4,REP,Under Votes,11
+Curry,14,U.S. House,4,REP,Under Votes,13
+Curry,15,U.S. House,4,REP,Under Votes,8
+Curry,16,U.S. House,4,REP,Under Votes,28
+Curry,17,U.S. House,4,REP,Under Votes,27
+Curry,18,U.S. House,4,REP,Under Votes,10
+Curry,19,U.S. House,4,REP,Under Votes,19
+Curry,20,U.S. House,4,REP,Under Votes,12
+Curry,21,U.S. House,4,REP,Under Votes,18
+Curry,22,U.S. House,4,REP,Under Votes,13
+Curry,23,U.S. House,4,REP,Under Votes,20
+Curry,24,U.S. House,4,REP,Under Votes,13
+Curry,25,U.S. House,4,REP,Under Votes,14
+Curry,26,U.S. House,4,REP,Under Votes,21
+Curry,27,U.S. House,4,REP,Under Votes,10
+Curry,Total,U.S. House,4,REP,Under Votes,394
+Curry,1,Governor,,REP,Kevin Mannix,2
+Curry,2,Governor,,REP,Kevin Mannix,25
+Curry,3,Governor,,REP,Kevin Mannix,23
+Curry,4,Governor,,REP,Kevin Mannix,11
+Curry,5,Governor,,REP,Kevin Mannix,21
+Curry,6,Governor,,REP,Kevin Mannix,24
+Curry,7,Governor,,REP,Kevin Mannix,10
+Curry,8,Governor,,REP,Kevin Mannix,42
+Curry,9,Governor,,REP,Kevin Mannix,79
+Curry,10,Governor,,REP,Kevin Mannix,42
+Curry,11,Governor,,REP,Kevin Mannix,58
+Curry,12,Governor,,REP,Kevin Mannix,18
+Curry,13,Governor,,REP,Kevin Mannix,22
+Curry,14,Governor,,REP,Kevin Mannix,35
+Curry,15,Governor,,REP,Kevin Mannix,31
+Curry,16,Governor,,REP,Kevin Mannix,57
+Curry,17,Governor,,REP,Kevin Mannix,85
+Curry,18,Governor,,REP,Kevin Mannix,30
+Curry,19,Governor,,REP,Kevin Mannix,71
+Curry,20,Governor,,REP,Kevin Mannix,31
+Curry,21,Governor,,REP,Kevin Mannix,13
+Curry,22,Governor,,REP,Kevin Mannix,31
+Curry,23,Governor,,REP,Kevin Mannix,30
+Curry,24,Governor,,REP,Kevin Mannix,44
+Curry,25,Governor,,REP,Kevin Mannix,22
+Curry,26,Governor,,REP,Kevin Mannix,53
+Curry,27,Governor,,REP,Kevin Mannix,19
+Curry,Total,Governor,,REP,Kevin Mannix,929
+Curry,1,Governor,,REP,W. Ames Curtright,1
+Curry,2,Governor,,REP,W. Ames Curtright,5
+Curry,3,Governor,,REP,W. Ames Curtright,6
+Curry,4,Governor,,REP,W. Ames Curtright,2
+Curry,5,Governor,,REP,W. Ames Curtright,8
+Curry,6,Governor,,REP,W. Ames Curtright,4
+Curry,7,Governor,,REP,W. Ames Curtright,1
+Curry,8,Governor,,REP,W. Ames Curtright,5
+Curry,9,Governor,,REP,W. Ames Curtright,11
+Curry,10,Governor,,REP,W. Ames Curtright,6
+Curry,11,Governor,,REP,W. Ames Curtright,8
+Curry,12,Governor,,REP,W. Ames Curtright,2
+Curry,13,Governor,,REP,W. Ames Curtright,0
+Curry,14,Governor,,REP,W. Ames Curtright,6
+Curry,15,Governor,,REP,W. Ames Curtright,6
+Curry,16,Governor,,REP,W. Ames Curtright,11
+Curry,17,Governor,,REP,W. Ames Curtright,13
+Curry,18,Governor,,REP,W. Ames Curtright,8
+Curry,19,Governor,,REP,W. Ames Curtright,11
+Curry,20,Governor,,REP,W. Ames Curtright,4
+Curry,21,Governor,,REP,W. Ames Curtright,3
+Curry,22,Governor,,REP,W. Ames Curtright,4
+Curry,23,Governor,,REP,W. Ames Curtright,10
+Curry,24,Governor,,REP,W. Ames Curtright,2
+Curry,25,Governor,,REP,W. Ames Curtright,4
+Curry,26,Governor,,REP,W. Ames Curtright,12
+Curry,27,Governor,,REP,W. Ames Curtright,2
+Curry,Total,Governor,,REP,W. Ames Curtright,155
+Curry,1,Governor,,REP,David W. Beem,0
+Curry,2,Governor,,REP,David W. Beem,0
+Curry,3,Governor,,REP,David W. Beem,0
+Curry,4,Governor,,REP,David W. Beem,0
+Curry,5,Governor,,REP,David W. Beem,0
+Curry,6,Governor,,REP,David W. Beem,1
+Curry,7,Governor,,REP,David W. Beem,0
+Curry,8,Governor,,REP,David W. Beem,0
+Curry,9,Governor,,REP,David W. Beem,3
+Curry,10,Governor,,REP,David W. Beem,0
+Curry,11,Governor,,REP,David W. Beem,1
+Curry,12,Governor,,REP,David W. Beem,1
+Curry,13,Governor,,REP,David W. Beem,1
+Curry,14,Governor,,REP,David W. Beem,0
+Curry,15,Governor,,REP,David W. Beem,1
+Curry,16,Governor,,REP,David W. Beem,3
+Curry,17,Governor,,REP,David W. Beem,4
+Curry,18,Governor,,REP,David W. Beem,1
+Curry,19,Governor,,REP,David W. Beem,3
+Curry,20,Governor,,REP,David W. Beem,0
+Curry,21,Governor,,REP,David W. Beem,1
+Curry,22,Governor,,REP,David W. Beem,2
+Curry,23,Governor,,REP,David W. Beem,4
+Curry,24,Governor,,REP,David W. Beem,2
+Curry,25,Governor,,REP,David W. Beem,0
+Curry,26,Governor,,REP,David W. Beem,2
+Curry,27,Governor,,REP,David W. Beem,0
+Curry,Total,Governor,,REP,David W. Beem,30
+Curry,1,Governor,,REP,Bob Leonard Forthan,0
+Curry,2,Governor,,REP,Bob Leonard Forthan,0
+Curry,3,Governor,,REP,Bob Leonard Forthan,0
+Curry,4,Governor,,REP,Bob Leonard Forthan,0
+Curry,5,Governor,,REP,Bob Leonard Forthan,1
+Curry,6,Governor,,REP,Bob Leonard Forthan,1
+Curry,7,Governor,,REP,Bob Leonard Forthan,0
+Curry,8,Governor,,REP,Bob Leonard Forthan,2
+Curry,9,Governor,,REP,Bob Leonard Forthan,1
+Curry,10,Governor,,REP,Bob Leonard Forthan,1
+Curry,11,Governor,,REP,Bob Leonard Forthan,0
+Curry,12,Governor,,REP,Bob Leonard Forthan,0
+Curry,13,Governor,,REP,Bob Leonard Forthan,0
+Curry,14,Governor,,REP,Bob Leonard Forthan,0
+Curry,15,Governor,,REP,Bob Leonard Forthan,0
+Curry,16,Governor,,REP,Bob Leonard Forthan,2
+Curry,17,Governor,,REP,Bob Leonard Forthan,2
+Curry,18,Governor,,REP,Bob Leonard Forthan,0
+Curry,19,Governor,,REP,Bob Leonard Forthan,1
+Curry,20,Governor,,REP,Bob Leonard Forthan,1
+Curry,21,Governor,,REP,Bob Leonard Forthan,0
+Curry,22,Governor,,REP,Bob Leonard Forthan,0
+Curry,23,Governor,,REP,Bob Leonard Forthan,0
+Curry,24,Governor,,REP,Bob Leonard Forthan,0
+Curry,25,Governor,,REP,Bob Leonard Forthan,1
+Curry,26,Governor,,REP,Bob Leonard Forthan,2
+Curry,27,Governor,,REP,Bob Leonard Forthan,1
+Curry,Total,Governor,,REP,Bob Leonard Forthan,16
+Curry,1,Governor,,REP,Jason A. Atkinson,0
+Curry,2,Governor,,REP,Jason A. Atkinson,27
+Curry,3,Governor,,REP,Jason A. Atkinson,10
+Curry,4,Governor,,REP,Jason A. Atkinson,14
+Curry,5,Governor,,REP,Jason A. Atkinson,15
+Curry,6,Governor,,REP,Jason A. Atkinson,13
+Curry,7,Governor,,REP,Jason A. Atkinson,10
+Curry,8,Governor,,REP,Jason A. Atkinson,21
+Curry,9,Governor,,REP,Jason A. Atkinson,28
+Curry,10,Governor,,REP,Jason A. Atkinson,25
+Curry,11,Governor,,REP,Jason A. Atkinson,28
+Curry,12,Governor,,REP,Jason A. Atkinson,9
+Curry,13,Governor,,REP,Jason A. Atkinson,8
+Curry,14,Governor,,REP,Jason A. Atkinson,16
+Curry,15,Governor,,REP,Jason A. Atkinson,14
+Curry,16,Governor,,REP,Jason A. Atkinson,35
+Curry,17,Governor,,REP,Jason A. Atkinson,52
+Curry,18,Governor,,REP,Jason A. Atkinson,11
+Curry,19,Governor,,REP,Jason A. Atkinson,27
+Curry,20,Governor,,REP,Jason A. Atkinson,18
+Curry,21,Governor,,REP,Jason A. Atkinson,10
+Curry,22,Governor,,REP,Jason A. Atkinson,16
+Curry,23,Governor,,REP,Jason A. Atkinson,19
+Curry,24,Governor,,REP,Jason A. Atkinson,22
+Curry,25,Governor,,REP,Jason A. Atkinson,25
+Curry,26,Governor,,REP,Jason A. Atkinson,33
+Curry,27,Governor,,REP,Jason A. Atkinson,13
+Curry,Total,Governor,,REP,Jason A. Atkinson,519
+Curry,1,Governor,,REP,Ron Saxton,5
+Curry,2,Governor,,REP,Ron Saxton,38
+Curry,3,Governor,,REP,Ron Saxton,36
+Curry,4,Governor,,REP,Ron Saxton,12
+Curry,5,Governor,,REP,Ron Saxton,57
+Curry,6,Governor,,REP,Ron Saxton,37
+Curry,7,Governor,,REP,Ron Saxton,7
+Curry,8,Governor,,REP,Ron Saxton,33
+Curry,9,Governor,,REP,Ron Saxton,38
+Curry,10,Governor,,REP,Ron Saxton,29
+Curry,11,Governor,,REP,Ron Saxton,41
+Curry,12,Governor,,REP,Ron Saxton,6
+Curry,13,Governor,,REP,Ron Saxton,24
+Curry,14,Governor,,REP,Ron Saxton,17
+Curry,15,Governor,,REP,Ron Saxton,38
+Curry,16,Governor,,REP,Ron Saxton,62
+Curry,17,Governor,,REP,Ron Saxton,86
+Curry,18,Governor,,REP,Ron Saxton,31
+Curry,19,Governor,,REP,Ron Saxton,31
+Curry,20,Governor,,REP,Ron Saxton,11
+Curry,21,Governor,,REP,Ron Saxton,25
+Curry,22,Governor,,REP,Ron Saxton,46
+Curry,23,Governor,,REP,Ron Saxton,43
+Curry,24,Governor,,REP,Ron Saxton,44
+Curry,25,Governor,,REP,Ron Saxton,34
+Curry,26,Governor,,REP,Ron Saxton,48
+Curry,27,Governor,,REP,Ron Saxton,21
+Curry,Total,Governor,,REP,Ron Saxton,900
+Curry,1,Governor,,REP,William E. Spidal,0
+Curry,2,Governor,,REP,William E. Spidal,0
+Curry,3,Governor,,REP,William E. Spidal,1
+Curry,4,Governor,,REP,William E. Spidal,0
+Curry,5,Governor,,REP,William E. Spidal,3
+Curry,6,Governor,,REP,William E. Spidal,0
+Curry,7,Governor,,REP,William E. Spidal,1
+Curry,8,Governor,,REP,William E. Spidal,3
+Curry,9,Governor,,REP,William E. Spidal,3
+Curry,10,Governor,,REP,William E. Spidal,4
+Curry,11,Governor,,REP,William E. Spidal,2
+Curry,12,Governor,,REP,William E. Spidal,0
+Curry,13,Governor,,REP,William E. Spidal,0
+Curry,14,Governor,,REP,William E. Spidal,1
+Curry,15,Governor,,REP,William E. Spidal,0
+Curry,16,Governor,,REP,William E. Spidal,7
+Curry,17,Governor,,REP,William E. Spidal,2
+Curry,18,Governor,,REP,William E. Spidal,3
+Curry,19,Governor,,REP,William E. Spidal,0
+Curry,20,Governor,,REP,William E. Spidal,0
+Curry,21,Governor,,REP,William E. Spidal,0
+Curry,22,Governor,,REP,William E. Spidal,0
+Curry,23,Governor,,REP,William E. Spidal,0
+Curry,24,Governor,,REP,William E. Spidal,3
+Curry,25,Governor,,REP,William E. Spidal,2
+Curry,26,Governor,,REP,William E. Spidal,2
+Curry,27,Governor,,REP,William E. Spidal,0
+Curry,Total,Governor,,REP,William E. Spidal,37
+Curry,1,Governor,,REP,Gordon Leitch,0
+Curry,2,Governor,,REP,Gordon Leitch,0
+Curry,3,Governor,,REP,Gordon Leitch,2
+Curry,4,Governor,,REP,Gordon Leitch,0
+Curry,5,Governor,,REP,Gordon Leitch,2
+Curry,6,Governor,,REP,Gordon Leitch,1
+Curry,7,Governor,,REP,Gordon Leitch,2
+Curry,8,Governor,,REP,Gordon Leitch,1
+Curry,9,Governor,,REP,Gordon Leitch,5
+Curry,10,Governor,,REP,Gordon Leitch,2
+Curry,11,Governor,,REP,Gordon Leitch,2
+Curry,12,Governor,,REP,Gordon Leitch,0
+Curry,13,Governor,,REP,Gordon Leitch,1
+Curry,14,Governor,,REP,Gordon Leitch,2
+Curry,15,Governor,,REP,Gordon Leitch,2
+Curry,16,Governor,,REP,Gordon Leitch,13
+Curry,17,Governor,,REP,Gordon Leitch,6
+Curry,18,Governor,,REP,Gordon Leitch,1
+Curry,19,Governor,,REP,Gordon Leitch,5
+Curry,20,Governor,,REP,Gordon Leitch,2
+Curry,21,Governor,,REP,Gordon Leitch,1
+Curry,22,Governor,,REP,Gordon Leitch,1
+Curry,23,Governor,,REP,Gordon Leitch,2
+Curry,24,Governor,,REP,Gordon Leitch,3
+Curry,25,Governor,,REP,Gordon Leitch,0
+Curry,26,Governor,,REP,Gordon Leitch,6
+Curry,27,Governor,,REP,Gordon Leitch,1
+Curry,Total,Governor,,REP,Gordon Leitch,63
+Curry,1,Governor,,REP,Write-in,0
+Curry,2,Governor,,REP,Write-in,0
+Curry,3,Governor,,REP,Write-in,0
+Curry,4,Governor,,REP,Write-in,0
+Curry,5,Governor,,REP,Write-in,1
+Curry,6,Governor,,REP,Write-in,0
+Curry,7,Governor,,REP,Write-in,0
+Curry,8,Governor,,REP,Write-in,2
+Curry,9,Governor,,REP,Write-in,0
+Curry,10,Governor,,REP,Write-in,3
+Curry,11,Governor,,REP,Write-in,2
+Curry,12,Governor,,REP,Write-in,0
+Curry,13,Governor,,REP,Write-in,2
+Curry,14,Governor,,REP,Write-in,1
+Curry,15,Governor,,REP,Write-in,0
+Curry,16,Governor,,REP,Write-in,2
+Curry,17,Governor,,REP,Write-in,2
+Curry,18,Governor,,REP,Write-in,4
+Curry,19,Governor,,REP,Write-in,2
+Curry,20,Governor,,REP,Write-in,0
+Curry,21,Governor,,REP,Write-in,1
+Curry,22,Governor,,REP,Write-in,2
+Curry,23,Governor,,REP,Write-in,1
+Curry,24,Governor,,REP,Write-in,2
+Curry,25,Governor,,REP,Write-in,1
+Curry,26,Governor,,REP,Write-in,3
+Curry,27,Governor,,REP,Write-in,0
+Curry,Total,Governor,,REP,Write-in,31
+Curry,1,Governor,,REP,Over Votes,0
+Curry,2,Governor,,REP,Over Votes,0
+Curry,3,Governor,,REP,Over Votes,0
+Curry,4,Governor,,REP,Over Votes,0
+Curry,5,Governor,,REP,Over Votes,0
+Curry,6,Governor,,REP,Over Votes,0
+Curry,7,Governor,,REP,Over Votes,0
+Curry,8,Governor,,REP,Over Votes,0
+Curry,9,Governor,,REP,Over Votes,0
+Curry,10,Governor,,REP,Over Votes,0
+Curry,11,Governor,,REP,Over Votes,1
+Curry,12,Governor,,REP,Over Votes,0
+Curry,13,Governor,,REP,Over Votes,0
+Curry,14,Governor,,REP,Over Votes,0
+Curry,15,Governor,,REP,Over Votes,0
+Curry,16,Governor,,REP,Over Votes,0
+Curry,17,Governor,,REP,Over Votes,0
+Curry,18,Governor,,REP,Over Votes,0
+Curry,19,Governor,,REP,Over Votes,0
+Curry,20,Governor,,REP,Over Votes,0
+Curry,21,Governor,,REP,Over Votes,0
+Curry,22,Governor,,REP,Over Votes,0
+Curry,23,Governor,,REP,Over Votes,0
+Curry,24,Governor,,REP,Over Votes,0
+Curry,25,Governor,,REP,Over Votes,0
+Curry,26,Governor,,REP,Over Votes,0
+Curry,27,Governor,,REP,Over Votes,0
+Curry,Total,Governor,,REP,Over Votes,1
+Curry,1,Governor,,REP,Under Votes,0
+Curry,2,Governor,,REP,Under Votes,7
+Curry,3,Governor,,REP,Under Votes,2
+Curry,4,Governor,,REP,Under Votes,1
+Curry,5,Governor,,REP,Under Votes,3
+Curry,6,Governor,,REP,Under Votes,1
+Curry,7,Governor,,REP,Under Votes,1
+Curry,8,Governor,,REP,Under Votes,10
+Curry,9,Governor,,REP,Under Votes,11
+Curry,10,Governor,,REP,Under Votes,7
+Curry,11,Governor,,REP,Under Votes,15
+Curry,12,Governor,,REP,Under Votes,2
+Curry,13,Governor,,REP,Under Votes,3
+Curry,14,Governor,,REP,Under Votes,4
+Curry,15,Governor,,REP,Under Votes,3
+Curry,16,Governor,,REP,Under Votes,16
+Curry,17,Governor,,REP,Under Votes,13
+Curry,18,Governor,,REP,Under Votes,2
+Curry,19,Governor,,REP,Under Votes,8
+Curry,20,Governor,,REP,Under Votes,13
+Curry,21,Governor,,REP,Under Votes,5
+Curry,22,Governor,,REP,Under Votes,2
+Curry,23,Governor,,REP,Under Votes,13
+Curry,24,Governor,,REP,Under Votes,7
+Curry,25,Governor,,REP,Under Votes,7
+Curry,26,Governor,,REP,Under Votes,4
+Curry,27,Governor,,REP,Under Votes,4
+Curry,Total,Governor,,REP,Under Votes,164
+Curry,1,State House,1,REP,Wayne Krieger,7
+Curry,2,State House,1,REP,Wayne Krieger,88
+Curry,3,State House,1,REP,Wayne Krieger,74
+Curry,4,State House,1,REP,Wayne Krieger,27
+Curry,5,State House,1,REP,Wayne Krieger,94
+Curry,6,State House,1,REP,Wayne Krieger,69
+Curry,7,State House,1,REP,Wayne Krieger,25
+Curry,8,State House,1,REP,Wayne Krieger,96
+Curry,9,State House,1,REP,Wayne Krieger,157
+Curry,10,State House,1,REP,Wayne Krieger,108
+Curry,11,State House,1,REP,Wayne Krieger,129
+Curry,12,State House,1,REP,Wayne Krieger,36
+Curry,13,State House,1,REP,Wayne Krieger,51
+Curry,14,State House,1,REP,Wayne Krieger,71
+Curry,15,State House,1,REP,Wayne Krieger,83
+Curry,16,State House,1,REP,Wayne Krieger,170
+Curry,17,State House,1,REP,Wayne Krieger,223
+Curry,18,State House,1,REP,Wayne Krieger,79
+Curry,19,State House,1,REP,Wayne Krieger,140
+Curry,20,State House,1,REP,Wayne Krieger,69
+Curry,21,State House,1,REP,Wayne Krieger,50
+Curry,22,State House,1,REP,Wayne Krieger,94
+Curry,23,State House,1,REP,Wayne Krieger,100
+Curry,24,State House,1,REP,Wayne Krieger,103
+Curry,25,State House,1,REP,Wayne Krieger,82
+Curry,26,State House,1,REP,Wayne Krieger,140
+Curry,27,State House,1,REP,Wayne Krieger,54
+Curry,Total,State House,1,REP,Wayne Krieger,2419
+Curry,1,State House,1,REP,Write-in,0
+Curry,2,State House,1,REP,Write-in,0
+Curry,3,State House,1,REP,Write-in,0
+Curry,4,State House,1,REP,Write-in,0
+Curry,5,State House,1,REP,Write-in,1
+Curry,6,State House,1,REP,Write-in,1
+Curry,7,State House,1,REP,Write-in,1
+Curry,8,State House,1,REP,Write-in,7
+Curry,9,State House,1,REP,Write-in,3
+Curry,10,State House,1,REP,Write-in,2
+Curry,11,State House,1,REP,Write-in,2
+Curry,12,State House,1,REP,Write-in,1
+Curry,13,State House,1,REP,Write-in,0
+Curry,14,State House,1,REP,Write-in,1
+Curry,15,State House,1,REP,Write-in,1
+Curry,16,State House,1,REP,Write-in,2
+Curry,17,State House,1,REP,Write-in,3
+Curry,18,State House,1,REP,Write-in,0
+Curry,19,State House,1,REP,Write-in,0
+Curry,20,State House,1,REP,Write-in,2
+Curry,21,State House,1,REP,Write-in,0
+Curry,22,State House,1,REP,Write-in,2
+Curry,23,State House,1,REP,Write-in,0
+Curry,24,State House,1,REP,Write-in,1
+Curry,25,State House,1,REP,Write-in,1
+Curry,26,State House,1,REP,Write-in,2
+Curry,27,State House,1,REP,Write-in,0
+Curry,Total,State House,1,REP,Write-in,33
+Curry,1,State House,1,REP,Over Votes,0
+Curry,2,State House,1,REP,Over Votes,0
+Curry,3,State House,1,REP,Over Votes,0
+Curry,4,State House,1,REP,Over Votes,0
+Curry,5,State House,1,REP,Over Votes,1
+Curry,6,State House,1,REP,Over Votes,0
+Curry,7,State House,1,REP,Over Votes,0
+Curry,8,State House,1,REP,Over Votes,0
+Curry,9,State House,1,REP,Over Votes,0
+Curry,10,State House,1,REP,Over Votes,0
+Curry,11,State House,1,REP,Over Votes,0
+Curry,12,State House,1,REP,Over Votes,0
+Curry,13,State House,1,REP,Over Votes,0
+Curry,14,State House,1,REP,Over Votes,0
+Curry,15,State House,1,REP,Over Votes,0
+Curry,16,State House,1,REP,Over Votes,0
+Curry,17,State House,1,REP,Over Votes,0
+Curry,18,State House,1,REP,Over Votes,0
+Curry,19,State House,1,REP,Over Votes,0
+Curry,20,State House,1,REP,Over Votes,0
+Curry,21,State House,1,REP,Over Votes,0
+Curry,22,State House,1,REP,Over Votes,0
+Curry,23,State House,1,REP,Over Votes,0
+Curry,24,State House,1,REP,Over Votes,0
+Curry,25,State House,1,REP,Over Votes,0
+Curry,26,State House,1,REP,Over Votes,0
+Curry,27,State House,1,REP,Over Votes,0
+Curry,Total,State House,1,REP,Over Votes,1
+Curry,1,State House,1,REP,Under Votes,1
+Curry,2,State House,1,REP,Under Votes,14
+Curry,3,State House,1,REP,Under Votes,6
+Curry,4,State House,1,REP,Under Votes,13
+Curry,5,State House,1,REP,Under Votes,15
+Curry,6,State House,1,REP,Under Votes,12
+Curry,7,State House,1,REP,Under Votes,6
+Curry,8,State House,1,REP,Under Votes,16
+Curry,9,State House,1,REP,Under Votes,19
+Curry,10,State House,1,REP,Under Votes,9
+Curry,11,State House,1,REP,Under Votes,27
+Curry,12,State House,1,REP,Under Votes,1
+Curry,13,State House,1,REP,Under Votes,10
+Curry,14,State House,1,REP,Under Votes,10
+Curry,15,State House,1,REP,Under Votes,11
+Curry,16,State House,1,REP,Under Votes,36
+Curry,17,State House,1,REP,Under Votes,39
+Curry,18,State House,1,REP,Under Votes,12
+Curry,19,State House,1,REP,Under Votes,19
+Curry,20,State House,1,REP,Under Votes,9
+Curry,21,State House,1,REP,Under Votes,9
+Curry,22,State House,1,REP,Under Votes,8
+Curry,23,State House,1,REP,Under Votes,22
+Curry,24,State House,1,REP,Under Votes,25
+Curry,25,State House,1,REP,Under Votes,13
+Curry,26,State House,1,REP,Under Votes,23
+Curry,27,State House,1,REP,Under Votes,7
+Curry,Total,State House,1,REP,Under Votes,392
