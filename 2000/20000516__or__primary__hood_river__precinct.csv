@@ -1,0 +1,309 @@
+county,precinct,office,district,party,candidate,votes
+HoodRiver,1,President,,DEM,"Lyndon H Larouche, Jr",15
+HoodRiver,2,President,,DEM,"Lyndon H Larouche, Jr",20
+HoodRiver,3,President,,DEM,"Lyndon H Larouche, Jr",5
+HoodRiver,4,President,,DEM,"Lyndon H Larouche, Jr",35
+HoodRiver,5,President,,DEM,"Lyndon H Larouche, Jr",17
+HoodRiver,6,President,,DEM,"Lyndon H Larouche, Jr",13
+HoodRiver,7,President,,DEM,"Lyndon H Larouche, Jr",16
+HoodRiver,8,President,,DEM,"Lyndon H Larouche, Jr",6
+HoodRiver,9,President,,DEM,"Lyndon H Larouche, Jr",4
+HoodRiver,10,President,,DEM,"Lyndon H Larouche, Jr",30
+HoodRiver,11,President,,DEM,"Lyndon H Larouche, Jr",35
+HoodRiver,12,President,,DEM,"Lyndon H Larouche, Jr",7
+HoodRiver,13,President,,DEM,"Lyndon H Larouche, Jr",31
+HoodRiver,Total,President,,DEM,"Lyndon H Larouche, Jr",234
+HoodRiver,1,President,,DEM,Al Gore,231
+HoodRiver,2,President,,DEM,Al Gore,273
+HoodRiver,3,President,,DEM,Al Gore,101
+HoodRiver,4,President,,DEM,Al Gore,296
+HoodRiver,5,President,,DEM,Al Gore,184
+HoodRiver,6,President,,DEM,Al Gore,136
+HoodRiver,7,President,,DEM,Al Gore,117
+HoodRiver,8,President,,DEM,Al Gore,87
+HoodRiver,9,President,,DEM,Al Gore,31
+HoodRiver,10,President,,DEM,Al Gore,136
+HoodRiver,11,President,,DEM,Al Gore,154
+HoodRiver,12,President,,DEM,Al Gore,77
+HoodRiver,13,President,,DEM,Al Gore,175
+HoodRiver,Total,President,,DEM,Al Gore,1998
+HoodRiver,1,President,,REP,George W Bush,135
+HoodRiver,2,President,,REP,George W Bush,207
+HoodRiver,3,President,,REP,George W Bush,74
+HoodRiver,4,President,,REP,George W Bush,266
+HoodRiver,5,President,,REP,George W Bush,194
+HoodRiver,6,President,,REP,George W Bush,152
+HoodRiver,7,President,,REP,George W Bush,124
+HoodRiver,8,President,,REP,George W Bush,158
+HoodRiver,9,President,,REP,George W Bush,31
+HoodRiver,10,President,,REP,George W Bush,87
+HoodRiver,11,President,,REP,George W Bush,179
+HoodRiver,12,President,,REP,George W Bush,60
+HoodRiver,13,President,,REP,George W Bush,173
+HoodRiver,Total,President,,REP,George W Bush,1840
+HoodRiver,1,President,,REP,Alan Keyes,23
+HoodRiver,2,President,,REP,Alan Keyes,33
+HoodRiver,3,President,,REP,Alan Keyes,17
+HoodRiver,4,President,,REP,Alan Keyes,47
+HoodRiver,5,President,,REP,Alan Keyes,29
+HoodRiver,6,President,,REP,Alan Keyes,36
+HoodRiver,7,President,,REP,Alan Keyes,13
+HoodRiver,8,President,,REP,Alan Keyes,20
+HoodRiver,9,President,,REP,Alan Keyes,4
+HoodRiver,10,President,,REP,Alan Keyes,19
+HoodRiver,11,President,,REP,Alan Keyes,28
+HoodRiver,12,President,,REP,Alan Keyes,11
+HoodRiver,13,President,,REP,Alan Keyes,35
+HoodRiver,Total,President,,REP,Alan Keyes,315
+HoodRiver,1,U.S. House,2,DEM,Walter Ponsford,165
+HoodRiver,2,U.S. House,2,DEM,Walter Ponsford,215
+HoodRiver,3,U.S. House,2,DEM,Walter Ponsford,68
+HoodRiver,4,U.S. House,2,DEM,Walter Ponsford,226
+HoodRiver,5,U.S. House,2,DEM,Walter Ponsford,131
+HoodRiver,6,U.S. House,2,DEM,Walter Ponsford,102
+HoodRiver,7,U.S. House,2,DEM,Walter Ponsford,92
+HoodRiver,8,U.S. House,2,DEM,Walter Ponsford,75
+HoodRiver,9,U.S. House,2,DEM,Walter Ponsford,25
+HoodRiver,10,U.S. House,2,DEM,Walter Ponsford,116
+HoodRiver,11,U.S. House,2,DEM,Walter Ponsford,134
+HoodRiver,12,U.S. House,2,DEM,Walter Ponsford,60
+HoodRiver,13,U.S. House,2,DEM,Walter Ponsford,163
+HoodRiver,Total,U.S. House,2,DEM,Walter Ponsford,1572
+HoodRiver,1,U.S. House,2,REP,Greg Walden,165
+HoodRiver,2,U.S. House,2,REP,Greg Walden,240
+HoodRiver,3,U.S. House,2,REP,Greg Walden,95
+HoodRiver,4,U.S. House,2,REP,Greg Walden,328
+HoodRiver,5,U.S. House,2,REP,Greg Walden,230
+HoodRiver,6,U.S. House,2,REP,Greg Walden,195
+HoodRiver,7,U.S. House,2,REP,Greg Walden,145
+HoodRiver,8,U.S. House,2,REP,Greg Walden,180
+HoodRiver,9,U.S. House,2,REP,Greg Walden,36
+HoodRiver,10,U.S. House,2,REP,Greg Walden,109
+HoodRiver,11,U.S. House,2,REP,Greg Walden,210
+HoodRiver,12,U.S. House,2,REP,Greg Walden,73
+HoodRiver,13,U.S. House,2,REP,Greg Walden,203
+HoodRiver,Total,U.S. House,2,REP,Greg Walden,2209
+HoodRiver,1,Secretary of State,,DEM,Bill Bradbury,199
+HoodRiver,2,Secretary of State,,DEM,Bill Bradbury,253
+HoodRiver,3,Secretary of State,,DEM,Bill Bradbury,88
+HoodRiver,4,Secretary of State,,DEM,Bill Bradbury,264
+HoodRiver,5,Secretary of State,,DEM,Bill Bradbury,163
+HoodRiver,6,Secretary of State,,DEM,Bill Bradbury,123
+HoodRiver,7,Secretary of State,,DEM,Bill Bradbury,114
+HoodRiver,8,Secretary of State,,DEM,Bill Bradbury,92
+HoodRiver,9,Secretary of State,,DEM,Bill Bradbury,30
+HoodRiver,10,Secretary of State,,DEM,Bill Bradbury,130
+HoodRiver,11,Secretary of State,,DEM,Bill Bradbury,153
+HoodRiver,12,Secretary of State,,DEM,Bill Bradbury,66
+HoodRiver,13,Secretary of State,,DEM,Bill Bradbury,185
+HoodRiver,Total,Secretary of State,,DEM,Bill Bradbury,1860
+HoodRiver,1,Secretary of State,,REP,Lynn Lundquist,78
+HoodRiver,2,Secretary of State,,REP,Lynn Lundquist,107
+HoodRiver,3,Secretary of State,,REP,Lynn Lundquist,48
+HoodRiver,4,Secretary of State,,REP,Lynn Lundquist,145
+HoodRiver,5,Secretary of State,,REP,Lynn Lundquist,95
+HoodRiver,6,Secretary of State,,REP,Lynn Lundquist,74
+HoodRiver,7,Secretary of State,,REP,Lynn Lundquist,61
+HoodRiver,8,Secretary of State,,REP,Lynn Lundquist,72
+HoodRiver,9,Secretary of State,,REP,Lynn Lundquist,17
+HoodRiver,10,Secretary of State,,REP,Lynn Lundquist,49
+HoodRiver,11,Secretary of State,,REP,Lynn Lundquist,94
+HoodRiver,12,Secretary of State,,REP,Lynn Lundquist,22
+HoodRiver,13,Secretary of State,,REP,Lynn Lundquist,99
+HoodRiver,Total,Secretary of State,,REP,Lynn Lundquist,961
+HoodRiver,1,Secretary of State,,REP,Paul Damian Wells,14
+HoodRiver,2,Secretary of State,,REP,Paul Damian Wells,26
+HoodRiver,3,Secretary of State,,REP,Paul Damian Wells,7
+HoodRiver,4,Secretary of State,,REP,Paul Damian Wells,26
+HoodRiver,5,Secretary of State,,REP,Paul Damian Wells,17
+HoodRiver,6,Secretary of State,,REP,Paul Damian Wells,11
+HoodRiver,7,Secretary of State,,REP,Paul Damian Wells,17
+HoodRiver,8,Secretary of State,,REP,Paul Damian Wells,12
+HoodRiver,9,Secretary of State,,REP,Paul Damian Wells,2
+HoodRiver,10,Secretary of State,,REP,Paul Damian Wells,11
+HoodRiver,11,Secretary of State,,REP,Paul Damian Wells,9
+HoodRiver,12,Secretary of State,,REP,Paul Damian Wells,8
+HoodRiver,13,Secretary of State,,REP,Paul Damian Wells,7
+HoodRiver,Total,Secretary of State,,REP,Paul Damian Wells,167
+HoodRiver,1,Secretary of State,,REP,Lynn Snodgrass,50
+HoodRiver,2,Secretary of State,,REP,Lynn Snodgrass,97
+HoodRiver,3,Secretary of State,,REP,Lynn Snodgrass,31
+HoodRiver,4,Secretary of State,,REP,Lynn Snodgrass,137
+HoodRiver,5,Secretary of State,,REP,Lynn Snodgrass,103
+HoodRiver,6,Secretary of State,,REP,Lynn Snodgrass,86
+HoodRiver,7,Secretary of State,,REP,Lynn Snodgrass,58
+HoodRiver,8,Secretary of State,,REP,Lynn Snodgrass,75
+HoodRiver,9,Secretary of State,,REP,Lynn Snodgrass,13
+HoodRiver,10,Secretary of State,,REP,Lynn Snodgrass,44
+HoodRiver,11,Secretary of State,,REP,Lynn Snodgrass,98
+HoodRiver,12,Secretary of State,,REP,Lynn Snodgrass,40
+HoodRiver,13,Secretary of State,,REP,Lynn Snodgrass,87
+HoodRiver,Total,Secretary of State,,REP,Lynn Snodgrass,919
+HoodRiver,1,State Treasurer,,DEM,Randall Edwards(,97
+HoodRiver,2,State Treasurer,,DEM,Randall Edwards(,129
+HoodRiver,3,State Treasurer,,DEM,Randall Edwards(,38
+HoodRiver,4,State Treasurer,,DEM,Randall Edwards(,122
+HoodRiver,5,State Treasurer,,DEM,Randall Edwards(,84
+HoodRiver,6,State Treasurer,,DEM,Randall Edwards(,53
+HoodRiver,7,State Treasurer,,DEM,Randall Edwards(,52
+HoodRiver,8,State Treasurer,,DEM,Randall Edwards(,45
+HoodRiver,9,State Treasurer,,DEM,Randall Edwards(,18
+HoodRiver,10,State Treasurer,,DEM,Randall Edwards(,62
+HoodRiver,11,State Treasurer,,DEM,Randall Edwards(,74
+HoodRiver,12,State Treasurer,,DEM,Randall Edwards(,39
+HoodRiver,13,State Treasurer,,DEM,Randall Edwards(,94
+HoodRiver,Total,State Treasurer,,DEM,Randall Edwards(,907
+HoodRiver,1,State Treasurer,,DEM,Gary Bruebaker,96
+HoodRiver,2,State Treasurer,,DEM,Gary Bruebaker,127
+HoodRiver,3,State Treasurer,,DEM,Gary Bruebaker,50
+HoodRiver,4,State Treasurer,,DEM,Gary Bruebaker,148
+HoodRiver,5,State Treasurer,,DEM,Gary Bruebaker,93
+HoodRiver,6,State Treasurer,,DEM,Gary Bruebaker,70
+HoodRiver,7,State Treasurer,,DEM,Gary Bruebaker,66
+HoodRiver,8,State Treasurer,,DEM,Gary Bruebaker,52
+HoodRiver,9,State Treasurer,,DEM,Gary Bruebaker,11
+HoodRiver,10,State Treasurer,,DEM,Gary Bruebaker,85
+HoodRiver,11,State Treasurer,,DEM,Gary Bruebaker,84
+HoodRiver,12,State Treasurer,,DEM,Gary Bruebaker,37
+HoodRiver,13,State Treasurer,,DEM,Gary Bruebaker,95
+HoodRiver,Total,State Treasurer,,DEM,Gary Bruebaker,1014
+HoodRiver,1,State Treasurer,,REP,Jon Kvistad,133
+HoodRiver,2,State Treasurer,,REP,Jon Kvistad,181
+HoodRiver,3,State Treasurer,,REP,Jon Kvistad,66
+HoodRiver,4,State Treasurer,,REP,Jon Kvistad,246
+HoodRiver,5,State Treasurer,,REP,Jon Kvistad,176
+HoodRiver,6,State Treasurer,,REP,Jon Kvistad,140
+HoodRiver,7,State Treasurer,,REP,Jon Kvistad,98
+HoodRiver,8,State Treasurer,,REP,Jon Kvistad,128
+HoodRiver,9,State Treasurer,,REP,Jon Kvistad,26
+HoodRiver,10,State Treasurer,,REP,Jon Kvistad,89
+HoodRiver,11,State Treasurer,,REP,Jon Kvistad,155
+HoodRiver,12,State Treasurer,,REP,Jon Kvistad,58
+HoodRiver,13,State Treasurer,,REP,Jon Kvistad,160
+HoodRiver,Total,State Treasurer,,REP,Jon Kvistad,1656
+HoodRiver,1,Attorney General,,DEM,Hardy Myers,190
+HoodRiver,2,Attorney General,,DEM,Hardy Myers,256
+HoodRiver,3,Attorney General,,DEM,Hardy Myers,85
+HoodRiver,4,Attorney General,,DEM,Hardy Myers,257
+HoodRiver,5,Attorney General,,DEM,Hardy Myers,156
+HoodRiver,6,Attorney General,,DEM,Hardy Myers,110
+HoodRiver,7,Attorney General,,DEM,Hardy Myers,108
+HoodRiver,8,Attorney General,,DEM,Hardy Myers,86
+HoodRiver,9,Attorney General,,DEM,Hardy Myers,28
+HoodRiver,10,Attorney General,,DEM,Hardy Myers,134
+HoodRiver,11,Attorney General,,DEM,Hardy Myers,145
+HoodRiver,12,Attorney General,,DEM,Hardy Myers,69
+HoodRiver,13,Attorney General,,DEM,Hardy Myers,179
+HoodRiver,Total,Attorney General,,DEM,Hardy Myers,1803
+HoodRiver,1,Attorney General,,REP,Kevin L Mannix,130
+HoodRiver,2,Attorney General,,REP,Kevin L Mannix,187
+HoodRiver,3,Attorney General,,REP,Kevin L Mannix,73
+HoodRiver,4,Attorney General,,REP,Kevin L Mannix,248
+HoodRiver,5,Attorney General,,REP,Kevin L Mannix,179
+HoodRiver,6,Attorney General,,REP,Kevin L Mannix,144
+HoodRiver,7,Attorney General,,REP,Kevin L Mannix,103
+HoodRiver,8,Attorney General,,REP,Kevin L Mannix,128
+HoodRiver,9,Attorney General,,REP,Kevin L Mannix,23
+HoodRiver,10,Attorney General,,REP,Kevin L Mannix,88
+HoodRiver,11,Attorney General,,REP,Kevin L Mannix,159
+HoodRiver,12,Attorney General,,REP,Kevin L Mannix,58
+HoodRiver,13,Attorney General,,REP,Kevin L Mannix,158
+HoodRiver,Total,Attorney General,,REP,Kevin L Mannix,1678
+HoodRiver,1,State Senate,28,DEM,Vern Cook,171
+HoodRiver,2,State Senate,28,DEM,Vern Cook,222
+HoodRiver,3,State Senate,28,DEM,Vern Cook,69
+HoodRiver,4,State Senate,28,DEM,Vern Cook,228
+HoodRiver,5,State Senate,28,DEM,Vern Cook,144
+HoodRiver,6,State Senate,28,DEM,Vern Cook,93
+HoodRiver,7,State Senate,28,DEM,Vern Cook,102
+HoodRiver,8,State Senate,28,DEM,Vern Cook,79
+HoodRiver,9,State Senate,28,DEM,Vern Cook,26
+HoodRiver,10,State Senate,28,DEM,Vern Cook,123
+HoodRiver,11,State Senate,28,DEM,Vern Cook,137
+HoodRiver,12,State Senate,28,DEM,Vern Cook,64
+HoodRiver,13,State Senate,28,DEM,Vern Cook,169
+HoodRiver,Total,State Senate,28,DEM,Vern Cook,1627
+HoodRiver,1,State Senate,28,REP,Ted Ferrioli,130
+HoodRiver,2,State Senate,28,REP,Ted Ferrioli,198
+HoodRiver,3,State Senate,28,REP,Ted Ferrioli,73
+HoodRiver,4,State Senate,28,REP,Ted Ferrioli,255
+HoodRiver,5,State Senate,28,REP,Ted Ferrioli,178
+HoodRiver,6,State Senate,28,REP,Ted Ferrioli,146
+HoodRiver,7,State Senate,28,REP,Ted Ferrioli,102
+HoodRiver,8,State Senate,28,REP,Ted Ferrioli,144
+HoodRiver,9,State Senate,28,REP,Ted Ferrioli,26
+HoodRiver,10,State Senate,28,REP,Ted Ferrioli,89
+HoodRiver,11,State Senate,28,REP,Ted Ferrioli,163
+HoodRiver,12,State Senate,28,REP,Ted Ferrioli,57
+HoodRiver,13,State Senate,28,REP,Ted Ferrioli,159
+HoodRiver,Total,State Senate,28,REP,Ted Ferrioli,1720
+HoodRiver,1,State House,56,DEM,Paul Zastrow,155
+HoodRiver,2,State House,56,DEM,Paul Zastrow,193
+HoodRiver,3,State House,56,DEM,Paul Zastrow,71
+HoodRiver,4,State House,56,DEM,Paul Zastrow,215
+HoodRiver,5,State House,56,DEM,Paul Zastrow,154
+HoodRiver,6,State House,56,DEM,Paul Zastrow,104
+HoodRiver,7,State House,56,DEM,Paul Zastrow,95
+HoodRiver,8,State House,56,DEM,Paul Zastrow,71
+HoodRiver,9,State House,56,DEM,Paul Zastrow,30
+HoodRiver,10,State House,56,DEM,Paul Zastrow,125
+HoodRiver,11,State House,56,DEM,Paul Zastrow,141
+HoodRiver,12,State House,56,DEM,Paul Zastrow,37
+HoodRiver,13,State House,56,DEM,Paul Zastrow,140
+HoodRiver,Total,State House,56,DEM,Paul Zastrow,1531
+HoodRiver,1,State House,56,DEM,Bill Bell,95
+HoodRiver,2,State House,56,DEM,Bill Bell,112
+HoodRiver,3,State House,56,DEM,Bill Bell,36
+HoodRiver,4,State House,56,DEM,Bill Bell,110
+HoodRiver,5,State House,56,DEM,Bill Bell,43
+HoodRiver,6,State House,56,DEM,Bill Bell,41
+HoodRiver,7,State House,56,DEM,Bill Bell,45
+HoodRiver,8,State House,56,DEM,Bill Bell,34
+HoodRiver,9,State House,56,DEM,Bill Bell,13
+HoodRiver,10,State House,56,DEM,Bill Bell,48
+HoodRiver,11,State House,56,DEM,Bill Bell,61
+HoodRiver,12,State House,56,DEM,Bill Bell,39
+HoodRiver,13,State House,56,DEM,Bill Bell,72
+HoodRiver,Total,State House,56,DEM,Bill Bell,749
+HoodRiver,1,State House,56,REP,Patti Smith,78
+HoodRiver,2,State House,56,REP,Patti Smith,134
+HoodRiver,3,State House,56,REP,Patti Smith,62
+HoodRiver,4,State House,56,REP,Patti Smith,194
+HoodRiver,5,State House,56,REP,Patti Smith,123
+HoodRiver,6,State House,56,REP,Patti Smith,111
+HoodRiver,7,State House,56,REP,Patti Smith,76
+HoodRiver,8,State House,56,REP,Patti Smith,120
+HoodRiver,9,State House,56,REP,Patti Smith,20
+HoodRiver,10,State House,56,REP,Patti Smith,67
+HoodRiver,11,State House,56,REP,Patti Smith,133
+HoodRiver,12,State House,56,REP,Patti Smith,35
+HoodRiver,13,State House,56,REP,Patti Smith,118
+HoodRiver,Total,State House,56,REP,Patti Smith,1271
+HoodRiver,1,State House,56,REP,Bob McFadden ,43
+HoodRiver,2,State House,56,REP,Bob McFadden ,57
+HoodRiver,3,State House,56,REP,Bob McFadden ,13
+HoodRiver,4,State House,56,REP,Bob McFadden ,64
+HoodRiver,5,State House,56,REP,Bob McFadden ,53
+HoodRiver,6,State House,56,REP,Bob McFadden ,49
+HoodRiver,7,State House,56,REP,Bob McFadden ,31
+HoodRiver,8,State House,56,REP,Bob McFadden ,15
+HoodRiver,9,State House,56,REP,Bob McFadden ,5
+HoodRiver,10,State House,56,REP,Bob McFadden ,19
+HoodRiver,11,State House,56,REP,Bob McFadden ,44
+HoodRiver,12,State House,56,REP,Bob McFadden ,22
+HoodRiver,13,State House,56,REP,Bob McFadden ,45
+HoodRiver,Total,State House,56,REP,Bob McFadden ,460
+HoodRiver,1,State House,56,REP,M D Van Valkenburgh,24
+HoodRiver,2,State House,56,REP,M D Van Valkenburgh,40
+HoodRiver,3,State House,56,REP,M D Van Valkenburgh,11
+HoodRiver,4,State House,56,REP,M D Van Valkenburgh,53
+HoodRiver,5,State House,56,REP,M D Van Valkenburgh,40
+HoodRiver,6,State House,56,REP,M D Van Valkenburgh,26
+HoodRiver,7,State House,56,REP,M D Van Valkenburgh,31
+HoodRiver,8,State House,56,REP,M D Van Valkenburgh,30
+HoodRiver,9,State House,56,REP,M D Van Valkenburgh,6
+HoodRiver,10,State House,56,REP,M D Van Valkenburgh,24
+HoodRiver,11,State House,56,REP,M D Van Valkenburgh,27
+HoodRiver,12,State House,56,REP,M D Van Valkenburgh,10
+HoodRiver,13,State House,56,REP,M D Van Valkenburgh,29
+HoodRiver,Total,State House,56,REP,M D Van Valkenburgh,351
