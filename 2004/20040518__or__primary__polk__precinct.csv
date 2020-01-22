@@ -1,0 +1,670 @@
+county,precinct,office,district,party,candidate,votes
+Polk,102,President,,DEM,"Lyndon H. LaRouche, Jr.",5
+Polk,106,President,,DEM,"Lyndon H. LaRouche, Jr.",3
+Polk,110,President,,DEM,"Lyndon H. LaRouche, Jr.",4
+Polk,118,President,,DEM,"Lyndon H. LaRouche, Jr.",10
+Polk,122,President,,DEM,"Lyndon H. LaRouche, Jr.",3
+Polk,134,President,,DEM,"Lyndon H. LaRouche, Jr.",11
+Polk,144,President,,DEM,"Lyndon H. LaRouche, Jr.",10
+Polk,146,President,,DEM,"Lyndon H. LaRouche, Jr.",6
+Polk,152,President,,DEM,"Lyndon H. LaRouche, Jr.",21
+Polk,154,President,,DEM,"Lyndon H. LaRouche, Jr.",10
+Polk,162,President,,DEM,"Lyndon H. LaRouche, Jr.",14
+Polk,166,President,,DEM,"Lyndon H. LaRouche, Jr.",4
+Polk,178,President,,DEM,"Lyndon H. LaRouche, Jr.",8
+Polk,182,President,,DEM,"Lyndon H. LaRouche, Jr.",7
+Polk,Total,President,,DEM,"Lyndon H. LaRouche, Jr.",116
+Polk,102,President,,DEM,John F. Kerry,84
+Polk,106,President,,DEM,John F. Kerry,148
+Polk,110,President,,DEM,John F. Kerry,67
+Polk,118,President,,DEM,John F. Kerry,463
+Polk,122,President,,DEM,John F. Kerry,86
+Polk,134,President,,DEM,John F. Kerry,586
+Polk,144,President,,DEM,John F. Kerry,539
+Polk,146,President,,DEM,John F. Kerry,411
+Polk,152,President,,DEM,John F. Kerry,419
+Polk,154,President,,DEM,John F. Kerry,358
+Polk,162,President,,DEM,John F. Kerry,540
+Polk,166,President,,DEM,John F. Kerry,73
+Polk,178,President,,DEM,John F. Kerry,438
+Polk,182,President,,DEM,John F. Kerry,273
+Polk,Total,President,,DEM,John F. Kerry,4485
+Polk,102,President,,DEM,Dennis J. Kucinich,19
+Polk,106,President,,DEM,Dennis J. Kucinich,35
+Polk,110,President,,DEM,Dennis J. Kucinich,11
+Polk,118,President,,DEM,Dennis J. Kucinich,94
+Polk,122,President,,DEM,Dennis J. Kucinich,17
+Polk,134,President,,DEM,Dennis J. Kucinich,84
+Polk,144,President,,DEM,Dennis J. Kucinich,110
+Polk,146,President,,DEM,Dennis J. Kucinich,94
+Polk,152,President,,DEM,Dennis J. Kucinich,69
+Polk,154,President,,DEM,Dennis J. Kucinich,56
+Polk,162,President,,DEM,Dennis J. Kucinich,83
+Polk,166,President,,DEM,Dennis J. Kucinich,17
+Polk,178,President,,DEM,Dennis J. Kucinich,106
+Polk,182,President,,DEM,Dennis J. Kucinich,53
+Polk,Total,President,,DEM,Dennis J. Kucinich,848
+Polk,102,President,,DEM,Write-in,3
+Polk,106,President,,DEM,Write-in,4
+Polk,110,President,,DEM,Write-in,2
+Polk,118,President,,DEM,Write-in,13
+Polk,122,President,,DEM,Write-in,6
+Polk,134,President,,DEM,Write-in,6
+Polk,144,President,,DEM,Write-in,15
+Polk,146,President,,DEM,Write-in,6
+Polk,152,President,,DEM,Write-in,25
+Polk,154,President,,DEM,Write-in,13
+Polk,162,President,,DEM,Write-in,25
+Polk,166,President,,DEM,Write-in,1
+Polk,178,President,,DEM,Write-in,16
+Polk,182,President,,DEM,Write-in,9
+Polk,Total,President,,DEM,Write-in,144
+Polk,102,U.S. Senate,,DEM,Ron Wyden,104
+Polk,106,U.S. Senate,,DEM,Ron Wyden,183
+Polk,110,U.S. Senate,,DEM,Ron Wyden,81
+Polk,118,U.S. Senate,,DEM,Ron Wyden,536
+Polk,122,U.S. Senate,,DEM,Ron Wyden,103
+Polk,134,U.S. Senate,,DEM,Ron Wyden,657
+Polk,144,U.S. Senate,,DEM,Ron Wyden,623
+Polk,146,U.S. Senate,,DEM,Ron Wyden,484
+Polk,152,U.S. Senate,,DEM,Ron Wyden,500
+Polk,154,U.S. Senate,,DEM,Ron Wyden,430
+Polk,162,U.S. Senate,,DEM,Ron Wyden,622
+Polk,166,U.S. Senate,,DEM,Ron Wyden,90
+Polk,178,U.S. Senate,,DEM,Ron Wyden,536
+Polk,182,U.S. Senate,,DEM,Ron Wyden,330
+Polk,Total,U.S. Senate,,DEM,Ron Wyden,5279
+Polk,102,U.S. Senate,,DEM,Write-in,1
+Polk,106,U.S. Senate,,DEM,Write-in,5
+Polk,110,U.S. Senate,,DEM,Write-in,1
+Polk,118,U.S. Senate,,DEM,Write-in,10
+Polk,122,U.S. Senate,,DEM,Write-in,5
+Polk,134,U.S. Senate,,DEM,Write-in,2
+Polk,144,U.S. Senate,,DEM,Write-in,2
+Polk,146,U.S. Senate,,DEM,Write-in,3
+Polk,152,U.S. Senate,,DEM,Write-in,9
+Polk,154,U.S. Senate,,DEM,Write-in,2
+Polk,162,U.S. Senate,,DEM,Write-in,7
+Polk,166,U.S. Senate,,DEM,Write-in,2
+Polk,178,U.S. Senate,,DEM,Write-in,3
+Polk,182,U.S. Senate,,DEM,Write-in,2
+Polk,Total,U.S. Senate,,DEM,Write-in,54
+Polk,102,U.S. House,5,DEM,Andrew Kaza,14
+Polk,106,U.S. House,5,DEM,Andrew Kaza,34
+Polk,110,U.S. House,5,DEM,Andrew Kaza,23
+Polk,118,U.S. House,5,DEM,Andrew Kaza,59
+Polk,122,U.S. House,5,DEM,Andrew Kaza,17
+Polk,134,U.S. House,5,DEM,Andrew Kaza,76
+Polk,144,U.S. House,5,DEM,Andrew Kaza,87
+Polk,146,U.S. House,5,DEM,Andrew Kaza,50
+Polk,152,U.S. House,5,DEM,Andrew Kaza,68
+Polk,154,U.S. House,5,DEM,Andrew Kaza,58
+Polk,162,U.S. House,5,DEM,Andrew Kaza,96
+Polk,166,U.S. House,5,DEM,Andrew Kaza,20
+Polk,178,U.S. House,5,DEM,Andrew Kaza,82
+Polk,182,U.S. House,5,DEM,Andrew Kaza,44
+Polk,Total,U.S. House,5,DEM,Andrew Kaza,728
+Polk,102,U.S. House,5,DEM,Darlene Hooley,96
+Polk,106,U.S. House,5,DEM,Darlene Hooley,169
+Polk,110,U.S. House,5,DEM,Darlene Hooley,60
+Polk,118,U.S. House,5,DEM,Darlene Hooley,521
+Polk,122,U.S. House,5,DEM,Darlene Hooley,93
+Polk,134,U.S. House,5,DEM,Darlene Hooley,618
+Polk,144,U.S. House,5,DEM,Darlene Hooley,583
+Polk,146,U.S. House,5,DEM,Darlene Hooley,460
+Polk,152,U.S. House,5,DEM,Darlene Hooley,466
+Polk,154,U.S. House,5,DEM,Darlene Hooley,395
+Polk,162,U.S. House,5,DEM,Darlene Hooley,559
+Polk,166,U.S. House,5,DEM,Darlene Hooley,75
+Polk,178,U.S. House,5,DEM,Darlene Hooley,476
+Polk,182,U.S. House,5,DEM,Darlene Hooley,302
+Polk,Total,U.S. House,5,DEM,Darlene Hooley,4873
+Polk,102,U.S. House,5,DEM,Write-in,0
+Polk,106,U.S. House,5,DEM,Write-in,0
+Polk,110,U.S. House,5,DEM,Write-in,0
+Polk,118,U.S. House,5,DEM,Write-in,3
+Polk,122,U.S. House,5,DEM,Write-in,4
+Polk,134,U.S. House,5,DEM,Write-in,0
+Polk,144,U.S. House,5,DEM,Write-in,4
+Polk,146,U.S. House,5,DEM,Write-in,1
+Polk,152,U.S. House,5,DEM,Write-in,9
+Polk,154,U.S. House,5,DEM,Write-in,1
+Polk,162,U.S. House,5,DEM,Write-in,6
+Polk,166,U.S. House,5,DEM,Write-in,1
+Polk,178,U.S. House,5,DEM,Write-in,1
+Polk,182,U.S. House,5,DEM,Write-in,1
+Polk,Total,U.S. House,5,DEM,Write-in,31
+Polk,102,Secretary of State,,DEM,Bill Bradbury,97
+Polk,106,Secretary of State,,DEM,Bill Bradbury,155
+Polk,110,Secretary of State,,DEM,Bill Bradbury,70
+Polk,118,Secretary of State,,DEM,Bill Bradbury,505
+Polk,122,Secretary of State,,DEM,Bill Bradbury,94
+Polk,134,Secretary of State,,DEM,Bill Bradbury,625
+Polk,144,Secretary of State,,DEM,Bill Bradbury,597
+Polk,146,Secretary of State,,DEM,Bill Bradbury,475
+Polk,152,Secretary of State,,DEM,Bill Bradbury,467
+Polk,154,Secretary of State,,DEM,Bill Bradbury,385
+Polk,162,Secretary of State,,DEM,Bill Bradbury,569
+Polk,166,Secretary of State,,DEM,Bill Bradbury,64
+Polk,178,Secretary of State,,DEM,Bill Bradbury,486
+Polk,182,Secretary of State,,DEM,Bill Bradbury,304
+Polk,Total,Secretary of State,,DEM,Bill Bradbury,4893
+Polk,102,Secretary of State,,DEM,Paul Damian Wells,14
+Polk,106,Secretary of State,,DEM,Paul Damian Wells,29
+Polk,110,Secretary of State,,DEM,Paul Damian Wells,16
+Polk,118,Secretary of State,,DEM,Paul Damian Wells,61
+Polk,122,Secretary of State,,DEM,Paul Damian Wells,12
+Polk,134,Secretary of State,,DEM,Paul Damian Wells,58
+Polk,144,Secretary of State,,DEM,Paul Damian Wells,65
+Polk,146,Secretary of State,,DEM,Paul Damian Wells,36
+Polk,152,Secretary of State,,DEM,Paul Damian Wells,59
+Polk,154,Secretary of State,,DEM,Paul Damian Wells,53
+Polk,162,Secretary of State,,DEM,Paul Damian Wells,85
+Polk,166,Secretary of State,,DEM,Paul Damian Wells,25
+Polk,178,Secretary of State,,DEM,Paul Damian Wells,52
+Polk,182,Secretary of State,,DEM,Paul Damian Wells,36
+Polk,Total,Secretary of State,,DEM,Paul Damian Wells,601
+Polk,102,Secretary of State,,DEM,Write-in,0
+Polk,106,Secretary of State,,DEM,Write-in,0
+Polk,110,Secretary of State,,DEM,Write-in,0
+Polk,118,Secretary of State,,DEM,Write-in,2
+Polk,122,Secretary of State,,DEM,Write-in,3
+Polk,134,Secretary of State,,DEM,Write-in,1
+Polk,144,Secretary of State,,DEM,Write-in,3
+Polk,146,Secretary of State,,DEM,Write-in,0
+Polk,152,Secretary of State,,DEM,Write-in,5
+Polk,154,Secretary of State,,DEM,Write-in,1
+Polk,162,Secretary of State,,DEM,Write-in,5
+Polk,166,Secretary of State,,DEM,Write-in,1
+Polk,178,Secretary of State,,DEM,Write-in,1
+Polk,182,Secretary of State,,DEM,Write-in,0
+Polk,Total,Secretary of State,,DEM,Write-in,22
+Polk,102,State Treasurer,,DEM,Randall Edwards,86
+Polk,106,State Treasurer,,DEM,Randall Edwards,147
+Polk,110,State Treasurer,,DEM,Randall Edwards,77
+Polk,118,State Treasurer,,DEM,Randall Edwards,448
+Polk,122,State Treasurer,,DEM,Randall Edwards,81
+Polk,134,State Treasurer,,DEM,Randall Edwards,572
+Polk,144,State Treasurer,,DEM,Randall Edwards,523
+Polk,146,State Treasurer,,DEM,Randall Edwards,423
+Polk,152,State Treasurer,,DEM,Randall Edwards,403
+Polk,154,State Treasurer,,DEM,Randall Edwards,362
+Polk,162,State Treasurer,,DEM,Randall Edwards,518
+Polk,166,State Treasurer,,DEM,Randall Edwards,71
+Polk,178,State Treasurer,,DEM,Randall Edwards,447
+Polk,182,State Treasurer,,DEM,Randall Edwards,274
+Polk,Total,State Treasurer,,DEM,Randall Edwards,4432
+Polk,102,State Treasurer,,DEM,Write-in,0
+Polk,106,State Treasurer,,DEM,Write-in,0
+Polk,110,State Treasurer,,DEM,Write-in,0
+Polk,118,State Treasurer,,DEM,Write-in,6
+Polk,122,State Treasurer,,DEM,Write-in,5
+Polk,134,State Treasurer,,DEM,Write-in,0
+Polk,144,State Treasurer,,DEM,Write-in,2
+Polk,146,State Treasurer,,DEM,Write-in,0
+Polk,152,State Treasurer,,DEM,Write-in,10
+Polk,154,State Treasurer,,DEM,Write-in,3
+Polk,162,State Treasurer,,DEM,Write-in,5
+Polk,166,State Treasurer,,DEM,Write-in,2
+Polk,178,State Treasurer,,DEM,Write-in,3
+Polk,182,State Treasurer,,DEM,Write-in,2
+Polk,Total,State Treasurer,,DEM,Write-in,38
+Polk,102,Attorney General,,DEM,Hardy Myers,89
+Polk,106,Attorney General,,DEM,Hardy Myers,153
+Polk,110,Attorney General,,DEM,Hardy Myers,78
+Polk,118,Attorney General,,DEM,Hardy Myers,475
+Polk,122,Attorney General,,DEM,Hardy Myers,92
+Polk,134,Attorney General,,DEM,Hardy Myers,584
+Polk,144,Attorney General,,DEM,Hardy Myers,553
+Polk,146,Attorney General,,DEM,Hardy Myers,441
+Polk,152,Attorney General,,DEM,Hardy Myers,438
+Polk,154,Attorney General,,DEM,Hardy Myers,378
+Polk,162,Attorney General,,DEM,Hardy Myers,543
+Polk,166,Attorney General,,DEM,Hardy Myers,73
+Polk,178,Attorney General,,DEM,Hardy Myers,472
+Polk,182,Attorney General,,DEM,Hardy Myers,292
+Polk,Total,Attorney General,,DEM,Hardy Myers,4661
+Polk,102,Attorney General,,DEM,Write-in,0
+Polk,106,Attorney General,,DEM,Write-in,1
+Polk,110,Attorney General,,DEM,Write-in,0
+Polk,118,Attorney General,,DEM,Write-in,6
+Polk,122,Attorney General,,DEM,Write-in,4
+Polk,134,Attorney General,,DEM,Write-in,2
+Polk,144,Attorney General,,DEM,Write-in,4
+Polk,146,Attorney General,,DEM,Write-in,0
+Polk,152,Attorney General,,DEM,Write-in,5
+Polk,154,Attorney General,,DEM,Write-in,2
+Polk,162,Attorney General,,DEM,Write-in,8
+Polk,166,Attorney General,,DEM,Write-in,3
+Polk,178,Attorney General,,DEM,Write-in,1
+Polk,182,Attorney General,,DEM,Write-in,1
+Polk,Total,Attorney General,,DEM,Write-in,37
+Polk,110,State Senate,5,DEM,Joanne Verger,66
+Polk,Total,State Senate,5,DEM,Joanne Verger,66
+Polk,110,State Senate,5,DEM,Write-in,1
+Polk,Total,State Senate,5,DEM,Write-in,1
+Polk,102,State Senate,12,DEM,Hank Franzoni,71
+Polk,106,State Senate,12,DEM,Hank Franzoni,128
+Polk,118,State Senate,12,DEM,Hank Franzoni,373
+Polk,152,State Senate,12,DEM,Hank Franzoni,342
+Polk,154,State Senate,12,DEM,Hank Franzoni,310
+Polk,162,State Senate,12,DEM,Hank Franzoni,453
+Polk,166,State Senate,12,DEM,Hank Franzoni,64
+Polk,Total,State Senate,12,DEM,Hank Franzoni,1741
+Polk,102,State Senate,12,DEM,Write-in,1
+Polk,106,State Senate,12,DEM,Write-in,0
+Polk,118,State Senate,12,DEM,Write-in,9
+Polk,152,State Senate,12,DEM,Write-in,12
+Polk,154,State Senate,12,DEM,Write-in,3
+Polk,162,State Senate,12,DEM,Write-in,3
+Polk,166,State Senate,12,DEM,Write-in,1
+Polk,Total,State Senate,12,DEM,Write-in,29
+Polk,110,State House,10,DEM,Jean Cowan,66
+Polk,Total,State House,10,DEM,Jean Cowan,66
+Polk,110,State House,10,DEM,Write-in,1
+Polk,Total,State House,10,DEM,Write-in,1
+Polk,122,State House,20,DEM,Jeanne E. Deane,71
+Polk,134,State House,20,DEM,Jeanne E. Deane,464
+Polk,144,State House,20,DEM,Jeanne E. Deane,443
+Polk,146,State House,20,DEM,Jeanne E. Deane,334
+Polk,178,State House,20,DEM,Jeanne E. Deane,416
+Polk,182,State House,20,DEM,Jeanne E. Deane,255
+Polk,Total,State House,20,DEM,Jeanne E. Deane,1983
+Polk,122,State House,20,DEM,Write-in,3
+Polk,134,State House,20,DEM,Write-in,7
+Polk,144,State House,20,DEM,Write-in,5
+Polk,146,State House,20,DEM,Write-in,4
+Polk,178,State House,20,DEM,Write-in,2
+Polk,182,State House,20,DEM,Write-in,2
+Polk,Total,State House,20,DEM,Write-in,23
+Polk,106,State House,23,DEM,Dick Reynolds,119
+Polk,118,State House,23,DEM,Dick Reynolds,357
+Polk,152,State House,23,DEM,Dick Reynolds,334
+Polk,154,State House,23,DEM,Dick Reynolds,306
+Polk,162,State House,23,DEM,Dick Reynolds,446
+Polk,166,State House,23,DEM,Dick Reynolds,59
+Polk,Total,State House,23,DEM,Dick Reynolds,1621
+Polk,106,State House,23,DEM,Write-in,0
+Polk,118,State House,23,DEM,Write-in,7
+Polk,152,State House,23,DEM,Write-in,12
+Polk,154,State House,23,DEM,Write-in,7
+Polk,162,State House,23,DEM,Write-in,8
+Polk,166,State House,23,DEM,Write-in,1
+Polk,Total,State House,23,DEM,Write-in,35
+Polk,102,State House,24,DEM,Tim Duerfeldt,73
+Polk,Total,State House,24,DEM,Tim Duerfeldt,73
+Polk,102,State House,24,DEM,Write-in,0
+Polk,Total,State House,24,DEM,Write-in,0
+Polk,102,President,,REP,George W. Bush,153
+Polk,106,President,,REP,George W. Bush,246
+Polk,110,President,,REP,George W. Bush,54
+Polk,118,President,,REP,George W. Bush,769
+Polk,122,President,,REP,George W. Bush,152
+Polk,134,President,,REP,George W. Bush,846
+Polk,144,President,,REP,George W. Bush,696
+Polk,146,President,,REP,George W. Bush,641
+Polk,152,President,,REP,George W. Bush,937
+Polk,154,President,,REP,George W. Bush,628
+Polk,162,President,,REP,George W. Bush,843
+Polk,166,President,,REP,George W. Bush,65
+Polk,178,President,,REP,George W. Bush,452
+Polk,182,President,,REP,George W. Bush,331
+Polk,Total,President,,REP,George W. Bush,6813
+Polk,102,President,,REP,Write-in,8
+Polk,106,President,,REP,Write-in,11
+Polk,110,President,,REP,Write-in,1
+Polk,118,President,,REP,Write-in,31
+Polk,122,President,,REP,Write-in,12
+Polk,134,President,,REP,Write-in,43
+Polk,144,President,,REP,Write-in,25
+Polk,146,President,,REP,Write-in,27
+Polk,152,President,,REP,Write-in,39
+Polk,154,President,,REP,Write-in,18
+Polk,162,President,,REP,Write-in,38
+Polk,166,President,,REP,Write-in,3
+Polk,178,President,,REP,Write-in,26
+Polk,182,President,,REP,Write-in,16
+Polk,Total,President,,REP,Write-in,298
+Polk,102,U.S. Senate,,REP,Pavel Goberman,9
+Polk,106,U.S. Senate,,REP,Pavel Goberman,11
+Polk,110,U.S. Senate,,REP,Pavel Goberman,4
+Polk,118,U.S. Senate,,REP,Pavel Goberman,24
+Polk,122,U.S. Senate,,REP,Pavel Goberman,6
+Polk,134,U.S. Senate,,REP,Pavel Goberman,33
+Polk,144,U.S. Senate,,REP,Pavel Goberman,24
+Polk,146,U.S. Senate,,REP,Pavel Goberman,17
+Polk,152,U.S. Senate,,REP,Pavel Goberman,28
+Polk,154,U.S. Senate,,REP,Pavel Goberman,22
+Polk,162,U.S. Senate,,REP,Pavel Goberman,25
+Polk,166,U.S. Senate,,REP,Pavel Goberman,1
+Polk,178,U.S. Senate,,REP,Pavel Goberman,15
+Polk,182,U.S. Senate,,REP,Pavel Goberman,15
+Polk,Total,U.S. Senate,,REP,Pavel Goberman,234
+Polk,102,U.S. Senate,,REP,Al King,41
+Polk,106,U.S. Senate,,REP,Al King,55
+Polk,110,U.S. Senate,,REP,Al King,15
+Polk,118,U.S. Senate,,REP,Al King,241
+Polk,122,U.S. Senate,,REP,Al King,37
+Polk,134,U.S. Senate,,REP,Al King,237
+Polk,144,U.S. Senate,,REP,Al King,179
+Polk,146,U.S. Senate,,REP,Al King,168
+Polk,152,U.S. Senate,,REP,Al King,234
+Polk,154,U.S. Senate,,REP,Al King,136
+Polk,162,U.S. Senate,,REP,Al King,197
+Polk,166,U.S. Senate,,REP,Al King,20
+Polk,178,U.S. Senate,,REP,Al King,121
+Polk,182,U.S. Senate,,REP,Al King,90
+Polk,Total,U.S. Senate,,REP,Al King,1771
+Polk,102,U.S. Senate,,REP,Bruce Broussard,29
+Polk,106,U.S. Senate,,REP,Bruce Broussard,52
+Polk,110,U.S. Senate,,REP,Bruce Broussard,15
+Polk,118,U.S. Senate,,REP,Bruce Broussard,139
+Polk,122,U.S. Senate,,REP,Bruce Broussard,23
+Polk,134,U.S. Senate,,REP,Bruce Broussard,142
+Polk,144,U.S. Senate,,REP,Bruce Broussard,132
+Polk,146,U.S. Senate,,REP,Bruce Broussard,98
+Polk,152,U.S. Senate,,REP,Bruce Broussard,152
+Polk,154,U.S. Senate,,REP,Bruce Broussard,127
+Polk,162,U.S. Senate,,REP,Bruce Broussard,169
+Polk,166,U.S. Senate,,REP,Bruce Broussard,13
+Polk,178,U.S. Senate,,REP,Bruce Broussard,77
+Polk,182,U.S. Senate,,REP,Bruce Broussard,64
+Polk,Total,U.S. Senate,,REP,Bruce Broussard,1232
+Polk,102,U.S. Senate,,REP,E. Bowerman,11
+Polk,106,U.S. Senate,,REP,E. Bowerman,10
+Polk,110,U.S. Senate,,REP,E. Bowerman,1
+Polk,118,U.S. Senate,,REP,E. Bowerman,42
+Polk,122,U.S. Senate,,REP,E. Bowerman,9
+Polk,134,U.S. Senate,,REP,E. Bowerman,43
+Polk,144,U.S. Senate,,REP,E. Bowerman,34
+Polk,146,U.S. Senate,,REP,E. Bowerman,35
+Polk,152,U.S. Senate,,REP,E. Bowerman,59
+Polk,154,U.S. Senate,,REP,E. Bowerman,56
+Polk,162,U.S. Senate,,REP,E. Bowerman,67
+Polk,166,U.S. Senate,,REP,E. Bowerman,4
+Polk,178,U.S. Senate,,REP,E. Bowerman,31
+Polk,182,U.S. Senate,,REP,E. Bowerman,20
+Polk,Total,U.S. Senate,,REP,E. Bowerman,422
+Polk,102,U.S. Senate,,REP,Philip Petrie,9
+Polk,106,U.S. Senate,,REP,Philip Petrie,15
+Polk,110,U.S. Senate,,REP,Philip Petrie,4
+Polk,118,U.S. Senate,,REP,Philip Petrie,39
+Polk,122,U.S. Senate,,REP,Philip Petrie,9
+Polk,134,U.S. Senate,,REP,Philip Petrie,40
+Polk,144,U.S. Senate,,REP,Philip Petrie,36
+Polk,146,U.S. Senate,,REP,Philip Petrie,28
+Polk,152,U.S. Senate,,REP,Philip Petrie,53
+Polk,154,U.S. Senate,,REP,Philip Petrie,31
+Polk,162,U.S. Senate,,REP,Philip Petrie,44
+Polk,166,U.S. Senate,,REP,Philip Petrie,2
+Polk,178,U.S. Senate,,REP,Philip Petrie,15
+Polk,182,U.S. Senate,,REP,Philip Petrie,15
+Polk,Total,U.S. Senate,,REP,Philip Petrie,340
+Polk,102,U.S. Senate,,REP,Thomas Lee Abshier,28
+Polk,106,U.S. Senate,,REP,Thomas Lee Abshier,47
+Polk,110,U.S. Senate,,REP,Thomas Lee Abshier,9
+Polk,118,U.S. Senate,,REP,Thomas Lee Abshier,129
+Polk,122,U.S. Senate,,REP,Thomas Lee Abshier,24
+Polk,134,U.S. Senate,,REP,Thomas Lee Abshier,159
+Polk,144,U.S. Senate,,REP,Thomas Lee Abshier,121
+Polk,146,U.S. Senate,,REP,Thomas Lee Abshier,132
+Polk,152,U.S. Senate,,REP,Thomas Lee Abshier,224
+Polk,154,U.S. Senate,,REP,Thomas Lee Abshier,135
+Polk,162,U.S. Senate,,REP,Thomas Lee Abshier,186
+Polk,166,U.S. Senate,,REP,Thomas Lee Abshier,25
+Polk,178,U.S. Senate,,REP,Thomas Lee Abshier,82
+Polk,182,U.S. Senate,,REP,Thomas Lee Abshier,80
+Polk,Total,U.S. Senate,,REP,Thomas Lee Abshier,1381
+Polk,102,U.S. Senate,,REP,Write-in,0
+Polk,106,U.S. Senate,,REP,Write-in,5
+Polk,110,U.S. Senate,,REP,Write-in,1
+Polk,118,U.S. Senate,,REP,Write-in,9
+Polk,122,U.S. Senate,,REP,Write-in,1
+Polk,134,U.S. Senate,,REP,Write-in,19
+Polk,144,U.S. Senate,,REP,Write-in,8
+Polk,146,U.S. Senate,,REP,Write-in,14
+Polk,152,U.S. Senate,,REP,Write-in,7
+Polk,154,U.S. Senate,,REP,Write-in,9
+Polk,162,U.S. Senate,,REP,Write-in,7
+Polk,166,U.S. Senate,,REP,Write-in,0
+Polk,178,U.S. Senate,,REP,Write-in,8
+Polk,182,U.S. Senate,,REP,Write-in,1
+Polk,Total,U.S. Senate,,REP,Write-in,89
+Polk,102,U.S. House,5,REP,Jim Zupancic,85
+Polk,106,U.S. House,5,REP,Jim Zupancic,139
+Polk,110,U.S. House,5,REP,Jim Zupancic,32
+Polk,118,U.S. House,5,REP,Jim Zupancic,352
+Polk,122,U.S. House,5,REP,Jim Zupancic,50
+Polk,134,U.S. House,5,REP,Jim Zupancic,390
+Polk,144,U.S. House,5,REP,Jim Zupancic,294
+Polk,146,U.S. House,5,REP,Jim Zupancic,239
+Polk,152,U.S. House,5,REP,Jim Zupancic,530
+Polk,154,U.S. House,5,REP,Jim Zupancic,322
+Polk,162,U.S. House,5,REP,Jim Zupancic,478
+Polk,166,U.S. House,5,REP,Jim Zupancic,43
+Polk,178,U.S. House,5,REP,Jim Zupancic,224
+Polk,182,U.S. House,5,REP,Jim Zupancic,152
+Polk,Total,U.S. House,5,REP,Jim Zupancic,3330
+Polk,102,U.S. House,5,REP,Jackie Winters,73
+Polk,106,U.S. House,5,REP,Jackie Winters,108
+Polk,110,U.S. House,5,REP,Jackie Winters,24
+Polk,118,U.S. House,5,REP,Jackie Winters,489
+Polk,122,U.S. House,5,REP,Jackie Winters,114
+Polk,134,U.S. House,5,REP,Jackie Winters,536
+Polk,144,U.S. House,5,REP,Jackie Winters,470
+Polk,146,U.S. House,5,REP,Jackie Winters,488
+Polk,152,U.S. House,5,REP,Jackie Winters,439
+Polk,154,U.S. House,5,REP,Jackie Winters,337
+Polk,162,U.S. House,5,REP,Jackie Winters,414
+Polk,166,U.S. House,5,REP,Jackie Winters,29
+Polk,178,U.S. House,5,REP,Jackie Winters,268
+Polk,182,U.S. House,5,REP,Jackie Winters,220
+Polk,Total,U.S. House,5,REP,Jackie Winters,4009
+Polk,102,U.S. House,5,REP,Write-in,0
+Polk,106,U.S. House,5,REP,Write-in,3
+Polk,110,U.S. House,5,REP,Write-in,0
+Polk,118,U.S. House,5,REP,Write-in,1
+Polk,122,U.S. House,5,REP,Write-in,0
+Polk,134,U.S. House,5,REP,Write-in,7
+Polk,144,U.S. House,5,REP,Write-in,2
+Polk,146,U.S. House,5,REP,Write-in,3
+Polk,152,U.S. House,5,REP,Write-in,5
+Polk,154,U.S. House,5,REP,Write-in,7
+Polk,162,U.S. House,5,REP,Write-in,5
+Polk,166,U.S. House,5,REP,Write-in,0
+Polk,178,U.S. House,5,REP,Write-in,1
+Polk,182,U.S. House,5,REP,Write-in,0
+Polk,Total,U.S. House,5,REP,Write-in,34
+Polk,102,Secretary of State,,REP,Fred Granum,62
+Polk,106,Secretary of State,,REP,Fred Granum,102
+Polk,110,Secretary of State,,REP,Fred Granum,22
+Polk,118,Secretary of State,,REP,Fred Granum,295
+Polk,122,Secretary of State,,REP,Fred Granum,51
+Polk,134,Secretary of State,,REP,Fred Granum,342
+Polk,144,Secretary of State,,REP,Fred Granum,289
+Polk,146,Secretary of State,,REP,Fred Granum,243
+Polk,152,Secretary of State,,REP,Fred Granum,346
+Polk,154,Secretary of State,,REP,Fred Granum,225
+Polk,162,Secretary of State,,REP,Fred Granum,315
+Polk,166,Secretary of State,,REP,Fred Granum,25
+Polk,178,Secretary of State,,REP,Fred Granum,181
+Polk,182,Secretary of State,,REP,Fred Granum,140
+Polk,Total,Secretary of State,,REP,Fred Granum,2638
+Polk,102,Secretary of State,,REP,Betsy L. Close,81
+Polk,106,Secretary of State,,REP,Betsy L. Close,126
+Polk,110,Secretary of State,,REP,Betsy L. Close,25
+Polk,118,Secretary of State,,REP,Betsy L. Close,446
+Polk,122,Secretary of State,,REP,Betsy L. Close,83
+Polk,134,Secretary of State,,REP,Betsy L. Close,444
+Polk,144,Secretary of State,,REP,Betsy L. Close,349
+Polk,146,Secretary of State,,REP,Betsy L. Close,342
+Polk,152,Secretary of State,,REP,Betsy L. Close,524
+Polk,154,Secretary of State,,REP,Betsy L. Close,347
+Polk,162,Secretary of State,,REP,Betsy L. Close,475
+Polk,166,Secretary of State,,REP,Betsy L. Close,43
+Polk,178,Secretary of State,,REP,Betsy L. Close,230
+Polk,182,Secretary of State,,REP,Betsy L. Close,186
+Polk,Total,Secretary of State,,REP,Betsy L. Close,3701
+Polk,102,Secretary of State,,REP,Write-in,0
+Polk,106,Secretary of State,,REP,Write-in,5
+Polk,110,Secretary of State,,REP,Write-in,1
+Polk,118,Secretary of State,,REP,Write-in,6
+Polk,122,Secretary of State,,REP,Write-in,0
+Polk,134,Secretary of State,,REP,Write-in,9
+Polk,144,Secretary of State,,REP,Write-in,5
+Polk,146,Secretary of State,,REP,Write-in,7
+Polk,152,Secretary of State,,REP,Write-in,5
+Polk,154,Secretary of State,,REP,Write-in,6
+Polk,162,Secretary of State,,REP,Write-in,3
+Polk,166,Secretary of State,,REP,Write-in,1
+Polk,178,Secretary of State,,REP,Write-in,1
+Polk,182,Secretary of State,,REP,Write-in,0
+Polk,Total,Secretary of State,,REP,Write-in,49
+Polk,102,State Treasurer,,REP,Jeff Caton,110
+Polk,106,State Treasurer,,REP,Jeff Caton,167
+Polk,110,State Treasurer,,REP,Jeff Caton,43
+Polk,118,State Treasurer,,REP,Jeff Caton,581
+Polk,122,State Treasurer,,REP,Jeff Caton,104
+Polk,134,State Treasurer,,REP,Jeff Caton,645
+Polk,144,State Treasurer,,REP,Jeff Caton,522
+Polk,146,State Treasurer,,REP,Jeff Caton,475
+Polk,152,State Treasurer,,REP,Jeff Caton,676
+Polk,154,State Treasurer,,REP,Jeff Caton,485
+Polk,162,State Treasurer,,REP,Jeff Caton,661
+Polk,166,State Treasurer,,REP,Jeff Caton,47
+Polk,178,State Treasurer,,REP,Jeff Caton,338
+Polk,182,State Treasurer,,REP,Jeff Caton,262
+Polk,Total,State Treasurer,,REP,Jeff Caton,5116
+Polk,102,State Treasurer,,REP,Write-in,1
+Polk,106,State Treasurer,,REP,Write-in,2
+Polk,110,State Treasurer,,REP,Write-in,0
+Polk,118,State Treasurer,,REP,Write-in,2
+Polk,122,State Treasurer,,REP,Write-in,0
+Polk,134,State Treasurer,,REP,Write-in,7
+Polk,144,State Treasurer,,REP,Write-in,7
+Polk,146,State Treasurer,,REP,Write-in,9
+Polk,152,State Treasurer,,REP,Write-in,4
+Polk,154,State Treasurer,,REP,Write-in,7
+Polk,162,State Treasurer,,REP,Write-in,1
+Polk,166,State Treasurer,,REP,Write-in,1
+Polk,178,State Treasurer,,REP,Write-in,3
+Polk,182,State Treasurer,,REP,Write-in,2
+Polk,Total,State Treasurer,,REP,Write-in,46
+Polk,102,Attorney General,,REP,Paul Connolly,108
+Polk,106,Attorney General,,REP,Paul Connolly,173
+Polk,110,Attorney General,,REP,Paul Connolly,42
+Polk,118,Attorney General,,REP,Paul Connolly,590
+Polk,122,Attorney General,,REP,Paul Connolly,102
+Polk,134,Attorney General,,REP,Paul Connolly,631
+Polk,144,Attorney General,,REP,Paul Connolly,538
+Polk,146,Attorney General,,REP,Paul Connolly,473
+Polk,152,Attorney General,,REP,Paul Connolly,670
+Polk,154,Attorney General,,REP,Paul Connolly,471
+Polk,162,Attorney General,,REP,Paul Connolly,655
+Polk,166,Attorney General,,REP,Paul Connolly,46
+Polk,178,Attorney General,,REP,Paul Connolly,342
+Polk,182,Attorney General,,REP,Paul Connolly,262
+Polk,Total,Attorney General,,REP,Paul Connolly,5103
+Polk,102,Attorney General,,REP,Write-in,0
+Polk,106,Attorney General,,REP,Write-in,1
+Polk,110,Attorney General,,REP,Write-in,0
+Polk,118,Attorney General,,REP,Write-in,3
+Polk,122,Attorney General,,REP,Write-in,1
+Polk,134,Attorney General,,REP,Write-in,12
+Polk,144,Attorney General,,REP,Write-in,9
+Polk,146,Attorney General,,REP,Write-in,9
+Polk,152,Attorney General,,REP,Write-in,5
+Polk,154,Attorney General,,REP,Write-in,8
+Polk,162,Attorney General,,REP,Write-in,0
+Polk,166,Attorney General,,REP,Write-in,1
+Polk,178,Attorney General,,REP,Write-in,7
+Polk,182,Attorney General,,REP,Write-in,3
+Polk,Total,Attorney General,,REP,Write-in,59
+Polk,110,State Senate,5,REP,Al Pearn,42
+Polk,Total,State Senate,5,REP,Al Pearn,42
+Polk,110,State Senate,5,REP,Write-in,0
+Polk,Total,State Senate,5,REP,Write-in,0
+Polk,102,State Senate,12,REP,Gary George,107
+Polk,106,State Senate,12,REP,Gary George,183
+Polk,118,State Senate,12,REP,Gary George,594
+Polk,152,State Senate,12,REP,Gary George,682
+Polk,154,State Senate,12,REP,Gary George,460
+Polk,162,State Senate,12,REP,Gary George,648
+Polk,166,State Senate,12,REP,Gary George,45
+Polk,Total,State Senate,12,REP,Gary George,2719
+Polk,102,State Senate,12,REP,Write-in,1
+Polk,106,State Senate,12,REP,Write-in,4
+Polk,118,State Senate,12,REP,Write-in,4
+Polk,152,State Senate,12,REP,Write-in,4
+Polk,154,State Senate,12,REP,Write-in,4
+Polk,162,State Senate,12,REP,Write-in,1
+Polk,166,State Senate,12,REP,Write-in,1
+Polk,Total,State Senate,12,REP,Write-in,19
+Polk,110,State House,10,REP,Alan Brown,44
+Polk,Total,State House,10,REP,Alan Brown,44
+Polk,110,State House,10,REP,Write-in,1
+Polk,Total,State House,10,REP,Write-in,1
+Polk,122,State House,20,REP,Vicki Berger,120
+Polk,134,State House,20,REP,Vicki Berger,685
+Polk,144,State House,20,REP,Vicki Berger,576
+Polk,146,State House,20,REP,Vicki Berger,538
+Polk,178,State House,20,REP,Vicki Berger,364
+Polk,182,State House,20,REP,Vicki Berger,289
+Polk,Total,State House,20,REP,Vicki Berger,2572
+Polk,122,State House,20,REP,Write-in,1
+Polk,134,State House,20,REP,Write-in,16
+Polk,144,State House,20,REP,Write-in,9
+Polk,146,State House,20,REP,Write-in,5
+Polk,178,State House,20,REP,Write-in,4
+Polk,182,State House,20,REP,Write-in,7
+Polk,Total,State House,20,REP,Write-in,42
+Polk,106,State House,23,REP,Jim Thompson,35
+Polk,118,State House,23,REP,Jim Thompson,137
+Polk,152,State House,23,REP,Jim Thompson,203
+Polk,154,State House,23,REP,Jim Thompson,135
+Polk,162,State House,23,REP,Jim Thompson,198
+Polk,166,State House,23,REP,Jim Thompson,10
+Polk,Total,State House,23,REP,Jim Thompson,718
+Polk,106,State House,23,REP,Cheryl Lentsch,9
+Polk,118,State House,23,REP,Cheryl Lentsch,19
+Polk,152,State House,23,REP,Cheryl Lentsch,37
+Polk,154,State House,23,REP,Cheryl Lentsch,11
+Polk,162,State House,23,REP,Cheryl Lentsch,18
+Polk,166,State House,23,REP,Cheryl Lentsch,2
+Polk,Total,State House,23,REP,Cheryl Lentsch,96
+Polk,106,State House,23,REP,Jackie Lawson,18
+Polk,118,State House,23,REP,Jackie Lawson,64
+Polk,152,State House,23,REP,Jackie Lawson,165
+Polk,154,State House,23,REP,Jackie Lawson,161
+Polk,162,State House,23,REP,Jackie Lawson,202
+Polk,166,State House,23,REP,Jackie Lawson,13
+Polk,Total,State House,23,REP,Jackie Lawson,623
+Polk,106,State House,23,REP,Brian Boquist,175
+Polk,118,State House,23,REP,Brian Boquist,506
+Polk,152,State House,23,REP,Brian Boquist,537
+Polk,154,State House,23,REP,Brian Boquist,304
+Polk,162,State House,23,REP,Brian Boquist,399
+Polk,166,State House,23,REP,Brian Boquist,37
+Polk,Total,State House,23,REP,Brian Boquist,1958
+Polk,106,State House,23,REP,Jim Welsh,13
+Polk,118,State House,23,REP,Jim Welsh,40
+Polk,152,State House,23,REP,Jim Welsh,35
+Polk,154,State House,23,REP,Jim Welsh,32
+Polk,162,State House,23,REP,Jim Welsh,58
+Polk,166,State House,23,REP,Jim Welsh,6
+Polk,Total,State House,23,REP,Jim Welsh,184
+Polk,106,State House,23,REP,Write-in,1
+Polk,118,State House,23,REP,Write-in,0
+Polk,152,State House,23,REP,Write-in,1
+Polk,154,State House,23,REP,Write-in,2
+Polk,162,State House,23,REP,Write-in,1
+Polk,166,State House,23,REP,Write-in,0
+Polk,Total,State House,23,REP,Write-in,5
+Polk,102,State House,24,REP,Charles P. Mitchell II,10
+Polk,Total,State House,24,REP,Charles P. Mitchell II,10
+Polk,102,State House,24,REP,Donna G. Nelson,79
+Polk,Total,State House,24,REP,Donna G. Nelson,79
+Polk,102,State House,24,REP,Frank A. Butler,46
+Polk,Total,State House,24,REP,Frank A. Butler,46
+Polk,102,State House,24,REP,Write-in,0
+Polk,Total,State House,24,REP,Write-in,0
