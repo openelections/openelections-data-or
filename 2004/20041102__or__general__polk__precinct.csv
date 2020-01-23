@@ -1,0 +1,797 @@
+county,precinct,office,district,party,candidate,votes
+Polk,102,President,,DEM,John F. Kerry,288
+Polk,106,President,,DEM,John F. Kerry,513
+Polk,110,President,,DEM,John F. Kerry,270
+Polk,118,President,,DEM,John F. Kerry,1438
+Polk,122,President,,DEM,John F. Kerry,225
+Polk,134,President,,DEM,John F. Kerry,1710
+Polk,144,President,,DEM,John F. Kerry,2016
+Polk,146,President,,DEM,John F. Kerry,1438
+Polk,152,President,,DEM,John F. Kerry,1336
+Polk,154,President,,DEM,John F. Kerry,1038
+Polk,162,President,,DEM,John F. Kerry,1671
+Polk,166,President,,DEM,John F. Kerry,294
+Polk,178,President,,DEM,John F. Kerry,1941
+Polk,182,President,,DEM,John F. Kerry,1306
+Polk,Total,President,,DEM,John F. Kerry,15484
+Polk,102,President,,PAC,David Cobb,4
+Polk,106,President,,PAC,David Cobb,4
+Polk,110,President,,PAC,David Cobb,4
+Polk,118,President,,PAC,David Cobb,11
+Polk,122,President,,PAC,David Cobb,1
+Polk,134,President,,PAC,David Cobb,2
+Polk,144,President,,PAC,David Cobb,12
+Polk,146,President,,PAC,David Cobb,6
+Polk,152,President,,PAC,David Cobb,9
+Polk,154,President,,PAC,David Cobb,7
+Polk,162,President,,PAC,David Cobb,10
+Polk,166,President,,PAC,David Cobb,3
+Polk,178,President,,PAC,David Cobb,18
+Polk,182,President,,PAC,David Cobb,12
+Polk,Total,President,,PAC,David Cobb,103
+Polk,102,President,,CON,Michael Anthony Peroutka,5
+Polk,106,President,,CON,Michael Anthony Peroutka,2
+Polk,110,President,,CON,Michael Anthony Peroutka,6
+Polk,118,President,,CON,Michael Anthony Peroutka,10
+Polk,122,President,,CON,Michael Anthony Peroutka,1
+Polk,134,President,,CON,Michael Anthony Peroutka,12
+Polk,144,President,,CON,Michael Anthony Peroutka,9
+Polk,146,President,,CON,Michael Anthony Peroutka,7
+Polk,152,President,,CON,Michael Anthony Peroutka,12
+Polk,154,President,,CON,Michael Anthony Peroutka,8
+Polk,162,President,,CON,Michael Anthony Peroutka,10
+Polk,166,President,,CON,Michael Anthony Peroutka,4
+Polk,178,President,,CON,Michael Anthony Peroutka,7
+Polk,182,President,,CON,Michael Anthony Peroutka,9
+Polk,Total,President,,CON,Michael Anthony Peroutka,102
+Polk,102,President,,LIB,Michael Badnarik,4
+Polk,106,President,,LIB,Michael Badnarik,7
+Polk,110,President,,LIB,Michael Badnarik,2
+Polk,118,President,,LIB,Michael Badnarik,13
+Polk,122,President,,LIB,Michael Badnarik,3
+Polk,134,President,,LIB,Michael Badnarik,15
+Polk,144,President,,LIB,Michael Badnarik,20
+Polk,146,President,,LIB,Michael Badnarik,10
+Polk,152,President,,LIB,Michael Badnarik,14
+Polk,154,President,,LIB,Michael Badnarik,6
+Polk,162,President,,LIB,Michael Badnarik,10
+Polk,166,President,,LIB,Michael Badnarik,2
+Polk,178,President,,LIB,Michael Badnarik,7
+Polk,182,President,,LIB,Michael Badnarik,10
+Polk,Total,President,,LIB,Michael Badnarik,123
+Polk,102,President,,REP,George W. Bush,434
+Polk,106,President,,REP,George W. Bush,823
+Polk,110,President,,REP,George W. Bush,277
+Polk,118,President,,REP,George W. Bush,1954
+Polk,122,President,,REP,George W. Bush,333
+Polk,134,President,,REP,George W. Bush,2109
+Polk,144,President,,REP,George W. Bush,2218
+Polk,146,President,,REP,George W. Bush,1667
+Polk,152,President,,REP,George W. Bush,2261
+Polk,154,President,,REP,George W. Bush,1475
+Polk,162,President,,REP,George W. Bush,2476
+Polk,166,President,,REP,George W. Bush,249
+Polk,178,President,,REP,George W. Bush,1860
+Polk,182,President,,REP,George W. Bush,1372
+Polk,Total,President,,REP,George W. Bush,19508
+Polk,102,President,,,Write-in,3
+Polk,106,President,,,Write-in,10
+Polk,110,President,,,Write-in,2
+Polk,118,President,,,Write-in,21
+Polk,122,President,,,Write-in,2
+Polk,134,President,,,Write-in,15
+Polk,144,President,,,Write-in,13
+Polk,146,President,,,Write-in,11
+Polk,152,President,,,Write-in,18
+Polk,154,President,,,Write-in,9
+Polk,162,President,,,Write-in,27
+Polk,166,President,,,Write-in,3
+Polk,178,President,,,Write-in,22
+Polk,182,President,,,Write-in,13
+Polk,Total,President,,,Write-in,169
+Polk,102,President,,,Over Votes,1
+Polk,106,President,,,Over Votes,3
+Polk,110,President,,,Over Votes,4
+Polk,118,President,,,Over Votes,8
+Polk,122,President,,,Over Votes,0
+Polk,134,President,,,Over Votes,10
+Polk,144,President,,,Over Votes,12
+Polk,146,President,,,Over Votes,3
+Polk,152,President,,,Over Votes,11
+Polk,154,President,,,Over Votes,4
+Polk,162,President,,,Over Votes,12
+Polk,166,President,,,Over Votes,4
+Polk,178,President,,,Over Votes,9
+Polk,182,President,,,Over Votes,8
+Polk,Total,President,,,Over Votes,89
+Polk,102,President,,,Under Votes,5
+Polk,106,President,,,Under Votes,9
+Polk,110,President,,,Under Votes,5
+Polk,118,President,,,Under Votes,20
+Polk,122,President,,,Under Votes,3
+Polk,134,President,,,Under Votes,19
+Polk,144,President,,,Under Votes,28
+Polk,146,President,,,Under Votes,13
+Polk,152,President,,,Under Votes,31
+Polk,154,President,,,Under Votes,20
+Polk,162,President,,,Under Votes,29
+Polk,166,President,,,Under Votes,9
+Polk,178,President,,,Under Votes,24
+Polk,182,President,,,Under Votes,16
+Polk,Total,President,,,Under Votes,231
+Polk,102,U.S. Senate,,PAC,Teresa Keane,17
+Polk,106,U.S. Senate,,PAC,Teresa Keane,16
+Polk,110,U.S. Senate,,PAC,Teresa Keane,12
+Polk,118,U.S. Senate,,PAC,Teresa Keane,50
+Polk,122,U.S. Senate,,PAC,Teresa Keane,6
+Polk,134,U.S. Senate,,PAC,Teresa Keane,36
+Polk,144,U.S. Senate,,PAC,Teresa Keane,83
+Polk,146,U.S. Senate,,PAC,Teresa Keane,47
+Polk,152,U.S. Senate,,PAC,Teresa Keane,45
+Polk,154,U.S. Senate,,PAC,Teresa Keane,44
+Polk,162,U.S. Senate,,PAC,Teresa Keane,75
+Polk,166,U.S. Senate,,PAC,Teresa Keane,16
+Polk,178,U.S. Senate,,PAC,Teresa Keane,89
+Polk,182,U.S. Senate,,PAC,Teresa Keane,65
+Polk,Total,U.S. Senate,,PAC,Teresa Keane,601
+Polk,102,U.S. Senate,,REP,Al King,305
+Polk,106,U.S. Senate,,REP,Al King,565
+Polk,110,U.S. Senate,,REP,Al King,191
+Polk,118,U.S. Senate,,REP,Al King,1378
+Polk,122,U.S. Senate,,REP,Al King,241
+Polk,134,U.S. Senate,,REP,Al King,1419
+Polk,144,U.S. Senate,,REP,Al King,1540
+Polk,146,U.S. Senate,,REP,Al King,1149
+Polk,152,U.S. Senate,,REP,Al King,1653
+Polk,154,U.S. Senate,,REP,Al King,978
+Polk,162,U.S. Senate,,REP,Al King,1736
+Polk,166,U.S. Senate,,REP,Al King,162
+Polk,178,U.S. Senate,,REP,Al King,1276
+Polk,182,U.S. Senate,,REP,Al King,910
+Polk,Total,U.S. Senate,,REP,Al King,13503
+Polk,102,U.S. Senate,,LIB,Dan Fitzgerald,10
+Polk,106,U.S. Senate,,LIB,Dan Fitzgerald,26
+Polk,110,U.S. Senate,,LIB,Dan Fitzgerald,12
+Polk,118,U.S. Senate,,LIB,Dan Fitzgerald,44
+Polk,122,U.S. Senate,,LIB,Dan Fitzgerald,11
+Polk,134,U.S. Senate,,LIB,Dan Fitzgerald,40
+Polk,144,U.S. Senate,,LIB,Dan Fitzgerald,78
+Polk,146,U.S. Senate,,LIB,Dan Fitzgerald,26
+Polk,152,U.S. Senate,,LIB,Dan Fitzgerald,59
+Polk,154,U.S. Senate,,LIB,Dan Fitzgerald,39
+Polk,162,U.S. Senate,,LIB,Dan Fitzgerald,48
+Polk,166,U.S. Senate,,LIB,Dan Fitzgerald,11
+Polk,178,U.S. Senate,,LIB,Dan Fitzgerald,54
+Polk,182,U.S. Senate,,LIB,Dan Fitzgerald,51
+Polk,Total,U.S. Senate,,LIB,Dan Fitzgerald,509
+Polk,102,U.S. Senate,,DEM,Ron Wyden,381
+Polk,106,U.S. Senate,,DEM,Ron Wyden,681
+Polk,110,U.S. Senate,,DEM,Ron Wyden,318
+Polk,118,U.S. Senate,,DEM,Ron Wyden,1865
+Polk,122,U.S. Senate,,DEM,Ron Wyden,290
+Polk,134,U.S. Senate,,DEM,Ron Wyden,2234
+Polk,144,U.S. Senate,,DEM,Ron Wyden,2429
+Polk,146,U.S. Senate,,DEM,Ron Wyden,1811
+Polk,152,U.S. Senate,,DEM,Ron Wyden,1758
+Polk,154,U.S. Senate,,DEM,Ron Wyden,1393
+Polk,162,U.S. Senate,,DEM,Ron Wyden,2168
+Polk,166,U.S. Senate,,DEM,Ron Wyden,349
+Polk,178,U.S. Senate,,DEM,Ron Wyden,2196
+Polk,182,U.S. Senate,,DEM,Ron Wyden,1601
+Polk,Total,U.S. Senate,,DEM,Ron Wyden,19474
+Polk,102,U.S. Senate,,CON,David Brownlow,4
+Polk,106,U.S. Senate,,CON,David Brownlow,12
+Polk,110,U.S. Senate,,CON,David Brownlow,10
+Polk,118,U.S. Senate,,CON,David Brownlow,13
+Polk,122,U.S. Senate,,CON,David Brownlow,4
+Polk,134,U.S. Senate,,CON,David Brownlow,31
+Polk,144,U.S. Senate,,CON,David Brownlow,26
+Polk,146,U.S. Senate,,CON,David Brownlow,13
+Polk,152,U.S. Senate,,CON,David Brownlow,37
+Polk,154,U.S. Senate,,CON,David Brownlow,20
+Polk,162,U.S. Senate,,CON,David Brownlow,42
+Polk,166,U.S. Senate,,CON,David Brownlow,9
+Polk,178,U.S. Senate,,CON,David Brownlow,20
+Polk,182,U.S. Senate,,CON,David Brownlow,22
+Polk,Total,U.S. Senate,,CON,David Brownlow,263
+Polk,102,U.S. Senate,,,Write-in,0
+Polk,106,U.S. Senate,,,Write-in,4
+Polk,110,U.S. Senate,,,Write-in,0
+Polk,118,U.S. Senate,,,Write-in,5
+Polk,122,U.S. Senate,,,Write-in,0
+Polk,134,U.S. Senate,,,Write-in,2
+Polk,144,U.S. Senate,,,Write-in,6
+Polk,146,U.S. Senate,,,Write-in,1
+Polk,152,U.S. Senate,,,Write-in,2
+Polk,154,U.S. Senate,,,Write-in,2
+Polk,162,U.S. Senate,,,Write-in,0
+Polk,166,U.S. Senate,,,Write-in,0
+Polk,178,U.S. Senate,,,Write-in,5
+Polk,182,U.S. Senate,,,Write-in,0
+Polk,Total,U.S. Senate,,,Write-in,27
+Polk,102,U.S. Senate,,,Over Votes,1
+Polk,106,U.S. Senate,,,Over Votes,2
+Polk,110,U.S. Senate,,,Over Votes,4
+Polk,118,U.S. Senate,,,Over Votes,13
+Polk,122,U.S. Senate,,,Over Votes,1
+Polk,134,U.S. Senate,,,Over Votes,6
+Polk,144,U.S. Senate,,,Over Votes,9
+Polk,146,U.S. Senate,,,Over Votes,9
+Polk,152,U.S. Senate,,,Over Votes,2
+Polk,154,U.S. Senate,,,Over Votes,6
+Polk,162,U.S. Senate,,,Over Votes,6
+Polk,166,U.S. Senate,,,Over Votes,2
+Polk,178,U.S. Senate,,,Over Votes,11
+Polk,182,U.S. Senate,,,Over Votes,4
+Polk,Total,U.S. Senate,,,Over Votes,76
+Polk,102,U.S. Senate,,,Under Votes,26
+Polk,106,U.S. Senate,,,Under Votes,65
+Polk,110,U.S. Senate,,,Under Votes,23
+Polk,118,U.S. Senate,,,Under Votes,107
+Polk,122,U.S. Senate,,,Under Votes,15
+Polk,134,U.S. Senate,,,Under Votes,124
+Polk,144,U.S. Senate,,,Under Votes,157
+Polk,146,U.S. Senate,,,Under Votes,99
+Polk,152,U.S. Senate,,,Under Votes,136
+Polk,154,U.S. Senate,,,Under Votes,85
+Polk,162,U.S. Senate,,,Under Votes,170
+Polk,166,U.S. Senate,,,Under Votes,19
+Polk,178,U.S. Senate,,,Under Votes,237
+Polk,182,U.S. Senate,,,Under Votes,93
+Polk,Total,U.S. Senate,,,Under Votes,1356
+Polk,102,U.S. House,5,LIB,Jerry Defoe,8
+Polk,106,U.S. House,5,LIB,Jerry Defoe,37
+Polk,110,U.S. House,5,LIB,Jerry Defoe,16
+Polk,118,U.S. House,5,LIB,Jerry Defoe,48
+Polk,122,U.S. House,5,LIB,Jerry Defoe,12
+Polk,134,U.S. House,5,LIB,Jerry Defoe,43
+Polk,144,U.S. House,5,LIB,Jerry Defoe,77
+Polk,146,U.S. House,5,LIB,Jerry Defoe,34
+Polk,152,U.S. House,5,LIB,Jerry Defoe,65
+Polk,154,U.S. House,5,LIB,Jerry Defoe,36
+Polk,162,U.S. House,5,LIB,Jerry Defoe,64
+Polk,166,U.S. House,5,LIB,Jerry Defoe,18
+Polk,178,U.S. House,5,LIB,Jerry Defoe,66
+Polk,182,U.S. House,5,LIB,Jerry Defoe,58
+Polk,Total,U.S. House,5,LIB,Jerry Defoe,582
+Polk,102,U.S. House,5,DEM,Darlene Hooley,316
+Polk,106,U.S. House,5,DEM,Darlene Hooley,592
+Polk,110,U.S. House,5,DEM,Darlene Hooley,274
+Polk,118,U.S. House,5,DEM,Darlene Hooley,1606
+Polk,122,U.S. House,5,DEM,Darlene Hooley,275
+Polk,134,U.S. House,5,DEM,Darlene Hooley,1942
+Polk,144,U.S. House,5,DEM,Darlene Hooley,2131
+Polk,146,U.S. House,5,DEM,Darlene Hooley,1581
+Polk,152,U.S. House,5,DEM,Darlene Hooley,1501
+Polk,154,U.S. House,5,DEM,Darlene Hooley,1225
+Polk,162,U.S. House,5,DEM,Darlene Hooley,1893
+Polk,166,U.S. House,5,DEM,Darlene Hooley,304
+Polk,178,U.S. House,5,DEM,Darlene Hooley,2028
+Polk,182,U.S. House,5,DEM,Darlene Hooley,1442
+Polk,Total,U.S. House,5,DEM,Darlene Hooley,17110
+Polk,102,U.S. House,5,REP,Jim Zupancic,382
+Polk,106,U.S. House,5,REP,Jim Zupancic,665
+Polk,110,U.S. House,5,REP,Jim Zupancic,245
+Polk,118,U.S. House,5,REP,Jim Zupancic,1673
+Polk,122,U.S. House,5,REP,Jim Zupancic,257
+Polk,134,U.S. House,5,REP,Jim Zupancic,1744
+Polk,144,U.S. House,5,REP,Jim Zupancic,1923
+Polk,146,U.S. House,5,REP,Jim Zupancic,1403
+Polk,152,U.S. House,5,REP,Jim Zupancic,1929
+Polk,154,U.S. House,5,REP,Jim Zupancic,1178
+Polk,162,U.S. House,5,REP,Jim Zupancic,2057
+Polk,166,U.S. House,5,REP,Jim Zupancic,210
+Polk,178,U.S. House,5,REP,Jim Zupancic,1450
+Polk,182,U.S. House,5,REP,Jim Zupancic,1098
+Polk,Total,U.S. House,5,REP,Jim Zupancic,16214
+Polk,102,U.S. House,5,CON,Joseph H. Bitz,7
+Polk,106,U.S. House,5,CON,Joseph H. Bitz,8
+Polk,110,U.S. House,5,CON,Joseph H. Bitz,8
+Polk,118,U.S. House,5,CON,Joseph H. Bitz,22
+Polk,122,U.S. House,5,CON,Joseph H. Bitz,4
+Polk,134,U.S. House,5,CON,Joseph H. Bitz,15
+Polk,144,U.S. House,5,CON,Joseph H. Bitz,38
+Polk,146,U.S. House,5,CON,Joseph H. Bitz,18
+Polk,152,U.S. House,5,CON,Joseph H. Bitz,45
+Polk,154,U.S. House,5,CON,Joseph H. Bitz,26
+Polk,162,U.S. House,5,CON,Joseph H. Bitz,44
+Polk,166,U.S. House,5,CON,Joseph H. Bitz,15
+Polk,178,U.S. House,5,CON,Joseph H. Bitz,36
+Polk,182,U.S. House,5,CON,Joseph H. Bitz,34
+Polk,Total,U.S. House,5,CON,Joseph H. Bitz,320
+Polk,102,U.S. House,5,,Write-in,0
+Polk,106,U.S. House,5,,Write-in,8
+Polk,110,U.S. House,5,,Write-in,0
+Polk,118,U.S. House,5,,Write-in,5
+Polk,122,U.S. House,5,,Write-in,1
+Polk,134,U.S. House,5,,Write-in,0
+Polk,144,U.S. House,5,,Write-in,6
+Polk,146,U.S. House,5,,Write-in,1
+Polk,152,U.S. House,5,,Write-in,7
+Polk,154,U.S. House,5,,Write-in,1
+Polk,162,U.S. House,5,,Write-in,0
+Polk,166,U.S. House,5,,Write-in,0
+Polk,178,U.S. House,5,,Write-in,6
+Polk,182,U.S. House,5,,Write-in,0
+Polk,Total,U.S. House,5,,Write-in,35
+Polk,102,U.S. House,5,,Over Votes,3
+Polk,106,U.S. House,5,,Over Votes,4
+Polk,110,U.S. House,5,,Over Votes,3
+Polk,118,U.S. House,5,,Over Votes,3
+Polk,122,U.S. House,5,,Over Votes,0
+Polk,134,U.S. House,5,,Over Votes,11
+Polk,144,U.S. House,5,,Over Votes,8
+Polk,146,U.S. House,5,,Over Votes,10
+Polk,152,U.S. House,5,,Over Votes,6
+Polk,154,U.S. House,5,,Over Votes,8
+Polk,162,U.S. House,5,,Over Votes,13
+Polk,166,U.S. House,5,,Over Votes,2
+Polk,178,U.S. House,5,,Over Votes,8
+Polk,182,U.S. House,5,,Over Votes,7
+Polk,Total,U.S. House,5,,Over Votes,86
+Polk,102,U.S. House,5,,Under Votes,28
+Polk,106,U.S. House,5,,Under Votes,57
+Polk,110,U.S. House,5,,Under Votes,24
+Polk,118,U.S. House,5,,Under Votes,118
+Polk,122,U.S. House,5,,Under Votes,19
+Polk,134,U.S. House,5,,Under Votes,137
+Polk,144,U.S. House,5,,Under Votes,145
+Polk,146,U.S. House,5,,Under Votes,108
+Polk,152,U.S. House,5,,Under Votes,139
+Polk,154,U.S. House,5,,Under Votes,93
+Polk,162,U.S. House,5,,Under Votes,174
+Polk,166,U.S. House,5,,Under Votes,19
+Polk,178,U.S. House,5,,Under Votes,294
+Polk,182,U.S. House,5,,Under Votes,107
+Polk,Total,U.S. House,5,,Under Votes,1462
+Polk,102,Secretary of State,,REP,Betsy L. Close,367
+Polk,106,Secretary of State,,REP,Betsy L. Close,645
+Polk,110,Secretary of State,,REP,Betsy L. Close,214
+Polk,118,Secretary of State,,REP,Betsy L. Close,1660
+Polk,122,Secretary of State,,REP,Betsy L. Close,280
+Polk,134,Secretary of State,,REP,Betsy L. Close,1721
+Polk,144,Secretary of State,,REP,Betsy L. Close,1823
+Polk,146,Secretary of State,,REP,Betsy L. Close,1328
+Polk,152,Secretary of State,,REP,Betsy L. Close,1906
+Polk,154,Secretary of State,,REP,Betsy L. Close,1167
+Polk,162,Secretary of State,,REP,Betsy L. Close,1960
+Polk,166,Secretary of State,,REP,Betsy L. Close,200
+Polk,178,Secretary of State,,REP,Betsy L. Close,1474
+Polk,182,Secretary of State,,REP,Betsy L. Close,1079
+Polk,Total,Secretary of State,,REP,Betsy L. Close,15824
+Polk,102,Secretary of State,,LIB,Richard Morley,11
+Polk,106,Secretary of State,,LIB,Richard Morley,43
+Polk,110,Secretary of State,,LIB,Richard Morley,21
+Polk,118,Secretary of State,,LIB,Richard Morley,92
+Polk,122,Secretary of State,,LIB,Richard Morley,18
+Polk,134,Secretary of State,,LIB,Richard Morley,87
+Polk,144,Secretary of State,,LIB,Richard Morley,125
+Polk,146,Secretary of State,,LIB,Richard Morley,61
+Polk,152,Secretary of State,,LIB,Richard Morley,93
+Polk,154,Secretary of State,,LIB,Richard Morley,53
+Polk,162,Secretary of State,,LIB,Richard Morley,122
+Polk,166,Secretary of State,,LIB,Richard Morley,28
+Polk,178,Secretary of State,,LIB,Richard Morley,99
+Polk,182,Secretary of State,,LIB,Richard Morley,92
+Polk,Total,Secretary of State,,LIB,Richard Morley,945
+Polk,102,Secretary of State,,DEM,Bill Bradbury,327
+Polk,106,Secretary of State,,DEM,Bill Bradbury,609
+Polk,110,Secretary of State,,DEM,Bill Bradbury,305
+Polk,118,Secretary of State,,DEM,Bill Bradbury,1568
+Polk,122,Secretary of State,,DEM,Bill Bradbury,247
+Polk,134,Secretary of State,,DEM,Bill Bradbury,1920
+Polk,144,Secretary of State,,DEM,Bill Bradbury,2177
+Polk,146,Secretary of State,,DEM,Bill Bradbury,1622
+Polk,152,Secretary of State,,DEM,Bill Bradbury,1526
+Polk,154,Secretary of State,,DEM,Bill Bradbury,1223
+Polk,162,Secretary of State,,DEM,Bill Bradbury,1904
+Polk,166,Secretary of State,,DEM,Bill Bradbury,318
+Polk,178,Secretary of State,,DEM,Bill Bradbury,1990
+Polk,182,Secretary of State,,DEM,Bill Bradbury,1455
+Polk,Total,Secretary of State,,DEM,Bill Bradbury,17191
+Polk,102,Secretary of State,,,Write-in,1
+Polk,106,Secretary of State,,,Write-in,3
+Polk,110,Secretary of State,,,Write-in,1
+Polk,118,Secretary of State,,,Write-in,4
+Polk,122,Secretary of State,,,Write-in,0
+Polk,134,Secretary of State,,,Write-in,1
+Polk,144,Secretary of State,,,Write-in,5
+Polk,146,Secretary of State,,,Write-in,8
+Polk,152,Secretary of State,,,Write-in,3
+Polk,154,Secretary of State,,,Write-in,3
+Polk,162,Secretary of State,,,Write-in,5
+Polk,166,Secretary of State,,,Write-in,0
+Polk,178,Secretary of State,,,Write-in,6
+Polk,182,Secretary of State,,,Write-in,4
+Polk,Total,Secretary of State,,,Write-in,44
+Polk,102,Secretary of State,,,Over Votes,3
+Polk,106,Secretary of State,,,Over Votes,0
+Polk,110,Secretary of State,,,Over Votes,1
+Polk,118,Secretary of State,,,Over Votes,5
+Polk,122,Secretary of State,,,Over Votes,0
+Polk,134,Secretary of State,,,Over Votes,7
+Polk,144,Secretary of State,,,Over Votes,6
+Polk,146,Secretary of State,,,Over Votes,9
+Polk,152,Secretary of State,,,Over Votes,4
+Polk,154,Secretary of State,,,Over Votes,3
+Polk,162,Secretary of State,,,Over Votes,11
+Polk,166,Secretary of State,,,Over Votes,1
+Polk,178,Secretary of State,,,Over Votes,10
+Polk,182,Secretary of State,,,Over Votes,1
+Polk,Total,Secretary of State,,,Over Votes,61
+Polk,102,Secretary of State,,,Under Votes,35
+Polk,106,Secretary of State,,,Under Votes,71
+Polk,110,Secretary of State,,,Under Votes,28
+Polk,118,Secretary of State,,,Under Votes,146
+Polk,122,Secretary of State,,,Under Votes,23
+Polk,134,Secretary of State,,,Under Votes,156
+Polk,144,Secretary of State,,,Under Votes,192
+Polk,146,Secretary of State,,,Under Votes,127
+Polk,152,Secretary of State,,,Under Votes,160
+Polk,154,Secretary of State,,,Under Votes,118
+Polk,162,Secretary of State,,,Under Votes,243
+Polk,166,Secretary of State,,,Under Votes,21
+Polk,178,Secretary of State,,,Under Votes,309
+Polk,182,Secretary of State,,,Under Votes,115
+Polk,Total,Secretary of State,,,Under Votes,1744
+Polk,102,State Treasurer,,DEM,Randall Edwards,301
+Polk,106,State Treasurer,,DEM,Randall Edwards,526
+Polk,110,State Treasurer,,DEM,Randall Edwards,273
+Polk,118,State Treasurer,,DEM,Randall Edwards,1487
+Polk,122,State Treasurer,,DEM,Randall Edwards,234
+Polk,134,State Treasurer,,DEM,Randall Edwards,1752
+Polk,144,State Treasurer,,DEM,Randall Edwards,1959
+Polk,146,State Treasurer,,DEM,Randall Edwards,1458
+Polk,152,State Treasurer,,DEM,Randall Edwards,1341
+Polk,154,State Treasurer,,DEM,Randall Edwards,1071
+Polk,162,State Treasurer,,DEM,Randall Edwards,1629
+Polk,166,State Treasurer,,DEM,Randall Edwards,269
+Polk,178,State Treasurer,,DEM,Randall Edwards,1747
+Polk,182,State Treasurer,,DEM,Randall Edwards,1295
+Polk,Total,State Treasurer,,DEM,Randall Edwards,15342
+Polk,102,State Treasurer,,REP,Jeff Caton,340
+Polk,106,State Treasurer,,REP,Jeff Caton,623
+Polk,110,State Treasurer,,REP,Jeff Caton,199
+Polk,118,State Treasurer,,REP,Jeff Caton,1574
+Polk,122,State Treasurer,,REP,Jeff Caton,255
+Polk,134,State Treasurer,,REP,Jeff Caton,1699
+Polk,144,State Treasurer,,REP,Jeff Caton,1779
+Polk,146,State Treasurer,,REP,Jeff Caton,1365
+Polk,152,State Treasurer,,REP,Jeff Caton,1854
+Polk,154,State Treasurer,,REP,Jeff Caton,1140
+Polk,162,State Treasurer,,REP,Jeff Caton,1957
+Polk,166,State Treasurer,,REP,Jeff Caton,188
+Polk,178,State Treasurer,,REP,Jeff Caton,1451
+Polk,182,State Treasurer,,REP,Jeff Caton,1051
+Polk,Total,State Treasurer,,REP,Jeff Caton,15475
+Polk,102,State Treasurer,,CON,Carole D. Winegarden,16
+Polk,106,State Treasurer,,CON,Carole D. Winegarden,40
+Polk,110,State Treasurer,,CON,Carole D. Winegarden,24
+Polk,118,State Treasurer,,CON,Carole D. Winegarden,67
+Polk,122,State Treasurer,,CON,Carole D. Winegarden,11
+Polk,134,State Treasurer,,CON,Carole D. Winegarden,67
+Polk,144,State Treasurer,,CON,Carole D. Winegarden,97
+Polk,146,State Treasurer,,CON,Carole D. Winegarden,37
+Polk,152,State Treasurer,,CON,Carole D. Winegarden,109
+Polk,154,State Treasurer,,CON,Carole D. Winegarden,90
+Polk,162,State Treasurer,,CON,Carole D. Winegarden,121
+Polk,166,State Treasurer,,CON,Carole D. Winegarden,34
+Polk,178,State Treasurer,,CON,Carole D. Winegarden,97
+Polk,182,State Treasurer,,CON,Carole D. Winegarden,109
+Polk,Total,State Treasurer,,CON,Carole D. Winegarden,919
+Polk,102,State Treasurer,,LIB,Mitch Shults,16
+Polk,106,State Treasurer,,LIB,Mitch Shults,38
+Polk,110,State Treasurer,,LIB,Mitch Shults,21
+Polk,118,State Treasurer,,LIB,Mitch Shults,64
+Polk,122,State Treasurer,,LIB,Mitch Shults,16
+Polk,134,State Treasurer,,LIB,Mitch Shults,56
+Polk,144,State Treasurer,,LIB,Mitch Shults,121
+Polk,146,State Treasurer,,LIB,Mitch Shults,53
+Polk,152,State Treasurer,,LIB,Mitch Shults,77
+Polk,154,State Treasurer,,LIB,Mitch Shults,53
+Polk,162,State Treasurer,,LIB,Mitch Shults,94
+Polk,166,State Treasurer,,LIB,Mitch Shults,30
+Polk,178,State Treasurer,,LIB,Mitch Shults,93
+Polk,182,State Treasurer,,LIB,Mitch Shults,73
+Polk,Total,State Treasurer,,LIB,Mitch Shults,805
+Polk,102,State Treasurer,,,Write-in,1
+Polk,106,State Treasurer,,,Write-in,3
+Polk,110,State Treasurer,,,Write-in,1
+Polk,118,State Treasurer,,,Write-in,2
+Polk,122,State Treasurer,,,Write-in,0
+Polk,134,State Treasurer,,,Write-in,2
+Polk,144,State Treasurer,,,Write-in,2
+Polk,146,State Treasurer,,,Write-in,3
+Polk,152,State Treasurer,,,Write-in,4
+Polk,154,State Treasurer,,,Write-in,0
+Polk,162,State Treasurer,,,Write-in,5
+Polk,166,State Treasurer,,,Write-in,1
+Polk,178,State Treasurer,,,Write-in,9
+Polk,182,State Treasurer,,,Write-in,1
+Polk,Total,State Treasurer,,,Write-in,34
+Polk,102,State Treasurer,,,Over Votes,2
+Polk,106,State Treasurer,,,Over Votes,2
+Polk,110,State Treasurer,,,Over Votes,0
+Polk,118,State Treasurer,,,Over Votes,6
+Polk,122,State Treasurer,,,Over Votes,0
+Polk,134,State Treasurer,,,Over Votes,4
+Polk,144,State Treasurer,,,Over Votes,5
+Polk,146,State Treasurer,,,Over Votes,3
+Polk,152,State Treasurer,,,Over Votes,2
+Polk,154,State Treasurer,,,Over Votes,0
+Polk,162,State Treasurer,,,Over Votes,9
+Polk,166,State Treasurer,,,Over Votes,1
+Polk,178,State Treasurer,,,Over Votes,4
+Polk,182,State Treasurer,,,Over Votes,3
+Polk,Total,State Treasurer,,,Over Votes,41
+Polk,102,State Treasurer,,,Under Votes,68
+Polk,106,State Treasurer,,,Under Votes,139
+Polk,110,State Treasurer,,,Under Votes,52
+Polk,118,State Treasurer,,,Under Votes,275
+Polk,122,State Treasurer,,,Under Votes,52
+Polk,134,State Treasurer,,,Under Votes,312
+Polk,144,State Treasurer,,,Under Votes,365
+Polk,146,State Treasurer,,,Under Votes,236
+Polk,152,State Treasurer,,,Under Votes,305
+Polk,154,State Treasurer,,,Under Votes,213
+Polk,162,State Treasurer,,,Under Votes,430
+Polk,166,State Treasurer,,,Under Votes,45
+Polk,178,State Treasurer,,,Under Votes,487
+Polk,182,State Treasurer,,,Under Votes,214
+Polk,Total,State Treasurer,,,Under Votes,3193
+Polk,102,Attorney General,,CON,Richard D. Hake,3
+Polk,106,Attorney General,,CON,Richard D. Hake,12
+Polk,110,Attorney General,,CON,Richard D. Hake,7
+Polk,118,Attorney General,,CON,Richard D. Hake,28
+Polk,122,Attorney General,,CON,Richard D. Hake,1
+Polk,134,Attorney General,,CON,Richard D. Hake,15
+Polk,144,Attorney General,,CON,Richard D. Hake,21
+Polk,146,Attorney General,,CON,Richard D. Hake,18
+Polk,152,Attorney General,,CON,Richard D. Hake,26
+Polk,154,Attorney General,,CON,Richard D. Hake,29
+Polk,162,Attorney General,,CON,Richard D. Hake,38
+Polk,166,Attorney General,,CON,Richard D. Hake,12
+Polk,178,Attorney General,,CON,Richard D. Hake,37
+Polk,182,Attorney General,,CON,Richard D. Hake,38
+Polk,Total,Attorney General,,CON,Richard D. Hake,285
+Polk,102,Attorney General,,REP,Paul Connolly,345
+Polk,106,Attorney General,,REP,Paul Connolly,652
+Polk,110,Attorney General,,REP,Paul Connolly,223
+Polk,118,Attorney General,,REP,Paul Connolly,1615
+Polk,122,Attorney General,,REP,Paul Connolly,256
+Polk,134,Attorney General,,REP,Paul Connolly,1726
+Polk,144,Attorney General,,REP,Paul Connolly,1816
+Polk,146,Attorney General,,REP,Paul Connolly,1314
+Polk,152,Attorney General,,REP,Paul Connolly,1867
+Polk,154,Attorney General,,REP,Paul Connolly,1165
+Polk,162,Attorney General,,REP,Paul Connolly,1972
+Polk,166,Attorney General,,REP,Paul Connolly,192
+Polk,178,Attorney General,,REP,Paul Connolly,1465
+Polk,182,Attorney General,,REP,Paul Connolly,1070
+Polk,Total,Attorney General,,REP,Paul Connolly,15678
+Polk,102,Attorney General,,DEM,Hardy Myers,327
+Polk,106,Attorney General,,DEM,Hardy Myers,546
+Polk,110,Attorney General,,DEM,Hardy Myers,273
+Polk,118,Attorney General,,DEM,Hardy Myers,1546
+Polk,122,Attorney General,,DEM,Hardy Myers,258
+Polk,134,Attorney General,,DEM,Hardy Myers,1846
+Polk,144,Attorney General,,DEM,Hardy Myers,2074
+Polk,146,Attorney General,,DEM,Hardy Myers,1579
+Polk,152,Attorney General,,DEM,Hardy Myers,1455
+Polk,154,Attorney General,,DEM,Hardy Myers,1157
+Polk,162,Attorney General,,DEM,Hardy Myers,1750
+Polk,166,Attorney General,,DEM,Hardy Myers,297
+Polk,178,Attorney General,,DEM,Hardy Myers,1863
+Polk,182,Attorney General,,DEM,Hardy Myers,1370
+Polk,Total,Attorney General,,DEM,Hardy Myers,16341
+Polk,102,Attorney General,,LIB,"Donald G. Smith, Jr.",15
+Polk,106,Attorney General,,LIB,"Donald G. Smith, Jr.",59
+Polk,110,Attorney General,,LIB,"Donald G. Smith, Jr.",23
+Polk,118,Attorney General,,LIB,"Donald G. Smith, Jr.",95
+Polk,122,Attorney General,,LIB,"Donald G. Smith, Jr.",15
+Polk,134,Attorney General,,LIB,"Donald G. Smith, Jr.",70
+Polk,144,Attorney General,,LIB,"Donald G. Smith, Jr.",140
+Polk,146,Attorney General,,LIB,"Donald G. Smith, Jr.",64
+Polk,152,Attorney General,,LIB,"Donald G. Smith, Jr.",109
+Polk,154,Attorney General,,LIB,"Donald G. Smith, Jr.",59
+Polk,162,Attorney General,,LIB,"Donald G. Smith, Jr.",148
+Polk,166,Attorney General,,LIB,"Donald G. Smith, Jr.",33
+Polk,178,Attorney General,,LIB,"Donald G. Smith, Jr.",115
+Polk,182,Attorney General,,LIB,"Donald G. Smith, Jr.",112
+Polk,Total,Attorney General,,LIB,"Donald G. Smith, Jr.",1057
+Polk,102,Attorney General,,,Write-in,1
+Polk,106,Attorney General,,,Write-in,3
+Polk,110,Attorney General,,,Write-in,1
+Polk,118,Attorney General,,,Write-in,2
+Polk,122,Attorney General,,,Write-in,0
+Polk,134,Attorney General,,,Write-in,2
+Polk,144,Attorney General,,,Write-in,2
+Polk,146,Attorney General,,,Write-in,3
+Polk,152,Attorney General,,,Write-in,2
+Polk,154,Attorney General,,,Write-in,0
+Polk,162,Attorney General,,,Write-in,3
+Polk,166,Attorney General,,,Write-in,1
+Polk,178,Attorney General,,,Write-in,5
+Polk,182,Attorney General,,,Write-in,0
+Polk,Total,Attorney General,,,Write-in,25
+Polk,102,Attorney General,,,Over Votes,0
+Polk,106,Attorney General,,,Over Votes,2
+Polk,110,Attorney General,,,Over Votes,1
+Polk,118,Attorney General,,,Over Votes,4
+Polk,122,Attorney General,,,Over Votes,0
+Polk,134,Attorney General,,,Over Votes,9
+Polk,144,Attorney General,,,Over Votes,14
+Polk,146,Attorney General,,,Over Votes,9
+Polk,152,Attorney General,,,Over Votes,5
+Polk,154,Attorney General,,,Over Votes,7
+Polk,162,Attorney General,,,Over Votes,6
+Polk,166,Attorney General,,,Over Votes,0
+Polk,178,Attorney General,,,Over Votes,9
+Polk,182,Attorney General,,,Over Votes,2
+Polk,Total,Attorney General,,,Over Votes,68
+Polk,102,Attorney General,,,Under Votes,53
+Polk,106,Attorney General,,,Under Votes,97
+Polk,110,Attorney General,,,Under Votes,42
+Polk,118,Attorney General,,,Under Votes,185
+Polk,122,Attorney General,,,Under Votes,38
+Polk,134,Attorney General,,,Under Votes,224
+Polk,144,Attorney General,,,Under Votes,261
+Polk,146,Attorney General,,,Under Votes,168
+Polk,152,Attorney General,,,Under Votes,228
+Polk,154,Attorney General,,,Under Votes,150
+Polk,162,Attorney General,,,Under Votes,328
+Polk,166,Attorney General,,,Under Votes,33
+Polk,178,Attorney General,,,Under Votes,394
+Polk,182,Attorney General,,,Under Votes,154
+Polk,Total,Attorney General,,,Under Votes,2355
+Polk,110,State Senate,5,DEM,Joanne Verger,259
+Polk,Total,State Senate,5,DEM,Joanne Verger,259
+Polk,110,State Senate,5,REP,Al Pearn,272
+Polk,Total,State Senate,5,REP,Al Pearn,272
+Polk,110,State Senate,5,,Write-in,0
+Polk,Total,State Senate,5,,Write-in,0
+Polk,110,State Senate,5,,Over Votes,0
+Polk,Total,State Senate,5,,Over Votes,0
+Polk,110,State Senate,5,,Under Votes,39
+Polk,Total,State Senate,5,,Under Votes,39
+Polk,102,State Senate,12,DEM,Hank Franzoni,236
+Polk,106,State Senate,12,DEM,Hank Franzoni,483
+Polk,118,State Senate,12,DEM,Hank Franzoni,1218
+Polk,152,State Senate,12,DEM,Hank Franzoni,1135
+Polk,154,State Senate,12,DEM,Hank Franzoni,970
+Polk,162,State Senate,12,DEM,Hank Franzoni,1436
+Polk,166,State Senate,12,DEM,Hank Franzoni,262
+Polk,Total,State Senate,12,DEM,Hank Franzoni,5740
+Polk,102,State Senate,12,REP,Gary George,432
+Polk,106,State Senate,12,REP,Gary George,754
+Polk,118,State Senate,12,REP,Gary George,1871
+Polk,152,State Senate,12,REP,Gary George,2160
+Polk,154,State Senate,12,REP,Gary George,1340
+Polk,162,State Senate,12,REP,Gary George,2285
+Polk,166,State Senate,12,REP,Gary George,246
+Polk,Total,State Senate,12,REP,Gary George,9088
+Polk,102,State Senate,12,,Write-in,2
+Polk,106,State Senate,12,,Write-in,3
+Polk,118,State Senate,12,,Write-in,2
+Polk,152,State Senate,12,,Write-in,4
+Polk,154,State Senate,12,,Write-in,3
+Polk,162,State Senate,12,,Write-in,8
+Polk,166,State Senate,12,,Write-in,2
+Polk,Total,State Senate,12,,Write-in,24
+Polk,102,State Senate,12,,Over Votes,2
+Polk,106,State Senate,12,,Over Votes,2
+Polk,118,State Senate,12,,Over Votes,2
+Polk,152,State Senate,12,,Over Votes,2
+Polk,154,State Senate,12,,Over Votes,1
+Polk,162,State Senate,12,,Over Votes,4
+Polk,166,State Senate,12,,Over Votes,0
+Polk,Total,State Senate,12,,Over Votes,13
+Polk,102,State Senate,12,,Under Votes,72
+Polk,106,State Senate,12,,Under Votes,129
+Polk,118,State Senate,12,,Under Votes,382
+Polk,152,State Senate,12,,Under Votes,391
+Polk,154,State Senate,12,,Under Votes,253
+Polk,162,State Senate,12,,Under Votes,512
+Polk,166,State Senate,12,,Under Votes,58
+Polk,Total,State Senate,12,,Under Votes,1797
+Polk,110,State House,10,DEM,Jean Cowan,1260
+Polk,Total,State House,10,DEM,Jean Cowan,1260
+Polk,110,State House,10,REP,Alan Brown,265
+Polk,Total,State House,10,REP,Alan Brown,265
+Polk,110,State House,10,,Write-in,4
+Polk,Total,State House,10,,Write-in,4
+Polk,110,State House,10,,Over Votes,0
+Polk,Total,State House,10,,Over Votes,0
+Polk,110,State House,10,,Under Votes,41
+Polk,Total,State House,10,,Under Votes,41
+Polk,122,State House,20,DEM,Jeanne E. Deane,168
+Polk,134,State House,20,DEM,Jeanne E. Deane,1179
+Polk,144,State House,20,DEM,Jeanne E. Deane,1428
+Polk,146,State House,20,DEM,Jeanne E. Deane,940
+Polk,178,State House,20,DEM,Jeanne E. Deane,1608
+Polk,182,State House,20,DEM,Jeanne E. Deane,1132
+Polk,Total,State House,20,DEM,Jeanne E. Deane,6455
+Polk,122,State House,20,REP,Vicki Berger,356
+Polk,134,State House,20,REP,Vicki Berger,2406
+Polk,144,State House,20,REP,Vicki Berger,2553
+Polk,146,State House,20,REP,Vicki Berger,1977
+Polk,178,State House,20,REP,Vicki Berger,1844
+Polk,182,State House,20,REP,Vicki Berger,1399
+Polk,Total,State House,20,REP,Vicki Berger,10535
+Polk,122,State House,20,,Write-in,1
+Polk,134,State House,20,,Write-in,8
+Polk,144,State House,20,,Write-in,12
+Polk,146,State House,20,,Write-in,3
+Polk,178,State House,20,,Write-in,8
+Polk,182,State House,20,,Write-in,16
+Polk,Total,State House,20,,Write-in,48
+Polk,122,State House,20,,Over Votes,0
+Polk,134,State House,20,,Over Votes,2
+Polk,144,State House,20,,Over Votes,4
+Polk,146,State House,20,,Over Votes,6
+Polk,178,State House,20,,Over Votes,8
+Polk,182,State House,20,,Over Votes,5
+Polk,Total,State House,20,,Over Votes,25
+Polk,122,State House,20,,Under Votes,43
+Polk,134,State House,20,,Under Votes,297
+Polk,144,State House,20,,Under Votes,331
+Polk,146,State House,20,,Under Votes,229
+Polk,178,State House,20,,Under Votes,420
+Polk,182,State House,20,,Under Votes,194
+Polk,Total,State House,20,,Under Votes,1514
+Polk,106,State House,23,LIB,Paul Delaney,59
+Polk,118,State House,23,LIB,Paul Delaney,95
+Polk,152,State House,23,LIB,Paul Delaney,101
+Polk,154,State House,23,LIB,Paul Delaney,77
+Polk,162,State House,23,LIB,Paul Delaney,120
+Polk,166,State House,23,LIB,Paul Delaney,40
+Polk,Total,State House,23,LIB,Paul Delaney,492
+Polk,106,State House,23,DEM,Dick Reynolds,416
+Polk,118,State House,23,DEM,Dick Reynolds,1073
+Polk,152,State House,23,DEM,Dick Reynolds,1032
+Polk,154,State House,23,DEM,Dick Reynolds,828
+Polk,162,State House,23,DEM,Dick Reynolds,1263
+Polk,166,State House,23,DEM,Dick Reynolds,226
+Polk,Total,State House,23,DEM,Dick Reynolds,4838
+Polk,106,State House,23,REP,Brian Boquist,789
+Polk,118,State House,23,REP,Brian Boquist,2003
+Polk,152,State House,23,REP,Brian Boquist,2272
+Polk,154,State House,23,REP,Brian Boquist,1478
+Polk,162,State House,23,REP,Brian Boquist,2461
+Polk,166,State House,23,REP,Brian Boquist,257
+Polk,Total,State House,23,REP,Brian Boquist,9260
+Polk,106,State House,23,,Write-in,3
+Polk,118,State House,23,,Write-in,6
+Polk,152,State House,23,,Write-in,5
+Polk,154,State House,23,,Write-in,1
+Polk,162,State House,23,,Write-in,6
+Polk,166,State House,23,,Write-in,1
+Polk,Total,State House,23,,Write-in,22
+Polk,106,State House,23,,Over Votes,2
+Polk,118,State House,23,,Over Votes,3
+Polk,152,State House,23,,Over Votes,3
+Polk,154,State House,23,,Over Votes,1
+Polk,162,State House,23,,Over Votes,3
+Polk,166,State House,23,,Over Votes,1
+Polk,Total,State House,23,,Over Votes,13
+Polk,106,State House,23,,Under Votes,102
+Polk,118,State House,23,,Under Votes,295
+Polk,152,State House,23,,Under Votes,279
+Polk,154,State House,23,,Under Votes,182
+Polk,162,State House,23,,Under Votes,392
+Polk,166,State House,23,,Under Votes,43
+Polk,Total,State House,23,,Under Votes,1293
+Polk,102,State House,24,LIB,Julie Dodge,15
+Polk,Total,State House,24,LIB,Julie Dodge,15
+Polk,102,State House,24,DEM,Tim Duerfeldt,253
+Polk,Total,State House,24,DEM,Tim Duerfeldt,253
+Polk,102,State House,24,REP,Donna G. Nelson,408
+Polk,Total,State House,24,REP,Donna G. Nelson,408
+Polk,102,State House,24,CON,Brenda Nyhart,7
+Polk,Total,State House,24,CON,Brenda Nyhart,7
+Polk,102,State House,24,,Write-in,1
+Polk,Total,State House,24,,Write-in,1
+Polk,102,State House,24,,Over Votes,0
+Polk,Total,State House,24,,Over Votes,0
+Polk,102,State House,24,,Under Votes,60
+Polk,Total,State House,24,,Under Votes,60
