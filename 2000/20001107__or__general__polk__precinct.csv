@@ -1,0 +1,733 @@
+county,precinct,office,district,party,candidate,votes
+Polk,102,President,,LIB,Harry Brown,4
+Polk,106,President,,LIB,Harry Brown,4
+Polk,108,President,,LIB,Harry Brown,1
+Polk,110,President,,LIB,Harry Brown,5
+Polk,112,President,,LIB,Harry Brown,4
+Polk,118,President,,LIB,Harry Brown,2
+Polk,120,President,,LIB,Harry Brown,1
+Polk,122,President,,LIB,Harry Brown,0
+Polk,134,President,,LIB,Harry Brown,6
+Polk,136,President,,LIB,Harry Brown,3
+Polk,138,President,,LIB,Harry Brown,1
+Polk,140,President,,LIB,Harry Brown,2
+Polk,142,President,,LIB,Harry Brown,7
+Polk,144,President,,LIB,Harry Brown,3
+Polk,146,President,,LIB,Harry Brown,5
+Polk,147,President,,LIB,Harry Brown,0
+Polk,148,President,,LIB,Harry Brown,2
+Polk,150,President,,LIB,Harry Brown,2
+Polk,152,President,,LIB,Harry Brown,12
+Polk,154,President,,LIB,Harry Brown,2
+Polk,156,President,,LIB,Harry Brown,4
+Polk,158,President,,LIB,Harry Brown,4
+Polk,160,President,,LIB,Harry Brown,5
+Polk,162,President,,LIB,Harry Brown,4
+Polk,166,President,,LIB,Harry Brown,4
+Polk,170,President,,LIB,Harry Brown,7
+Polk,172,President,,LIB,Harry Brown,1
+Polk,176,President,,LIB,Harry Brown,0
+Polk,178,President,,LIB,Harry Brown,2
+Polk,182,President,,LIB,Harry Brown,3
+Polk,184,President,,LIB,Harry Brown,8
+Polk,188,President,,LIB,Harry Brown,2
+Polk,190,President,,LIB,Harry Brown,2
+Polk,Total,President,,LIB,Harry Brown,112
+Polk,102,President,,IND,Patrick J. Buchanan,0
+Polk,106,President,,IND,Patrick J. Buchanan,1
+Polk,108,President,,IND,Patrick J. Buchanan,2
+Polk,110,President,,IND,Patrick J. Buchanan,0
+Polk,112,President,,IND,Patrick J. Buchanan,0
+Polk,118,President,,IND,Patrick J. Buchanan,0
+Polk,120,President,,IND,Patrick J. Buchanan,3
+Polk,122,President,,IND,Patrick J. Buchanan,1
+Polk,134,President,,IND,Patrick J. Buchanan,1
+Polk,136,President,,IND,Patrick J. Buchanan,2
+Polk,138,President,,IND,Patrick J. Buchanan,5
+Polk,140,President,,IND,Patrick J. Buchanan,8
+Polk,142,President,,IND,Patrick J. Buchanan,8
+Polk,144,President,,IND,Patrick J. Buchanan,1
+Polk,146,President,,IND,Patrick J. Buchanan,2
+Polk,147,President,,IND,Patrick J. Buchanan,1
+Polk,148,President,,IND,Patrick J. Buchanan,1
+Polk,150,President,,IND,Patrick J. Buchanan,1
+Polk,152,President,,IND,Patrick J. Buchanan,3
+Polk,154,President,,IND,Patrick J. Buchanan,6
+Polk,156,President,,IND,Patrick J. Buchanan,1
+Polk,158,President,,IND,Patrick J. Buchanan,4
+Polk,160,President,,IND,Patrick J. Buchanan,3
+Polk,162,President,,IND,Patrick J. Buchanan,7
+Polk,166,President,,IND,Patrick J. Buchanan,2
+Polk,170,President,,IND,Patrick J. Buchanan,3
+Polk,172,President,,IND,Patrick J. Buchanan,3
+Polk,176,President,,IND,Patrick J. Buchanan,2
+Polk,178,President,,IND,Patrick J. Buchanan,8
+Polk,182,President,,IND,Patrick J. Buchanan,3
+Polk,184,President,,IND,Patrick J. Buchanan,4
+Polk,188,President,,IND,Patrick J. Buchanan,2
+Polk,190,President,,IND,Patrick J. Buchanan,2
+Polk,Total,President,,IND,Patrick J. Buchanan,90
+Polk,102,President,,REP,George W. Bush,177
+Polk,106,President,,REP,George W. Bush,290
+Polk,108,President,,REP,George W. Bush,276
+Polk,110,President,,REP,George W. Bush,226
+Polk,112,President,,REP,George W. Bush,287
+Polk,118,President,,REP,George W. Bush,204
+Polk,120,President,,REP,George W. Bush,398
+Polk,122,President,,REP,George W. Bush,727
+Polk,134,President,,REP,George W. Bush,696
+Polk,136,President,,REP,George W. Bush,488
+Polk,138,President,,REP,George W. Bush,513
+Polk,140,President,,REP,George W. Bush,299
+Polk,142,President,,REP,George W. Bush,297
+Polk,144,President,,REP,George W. Bush,911
+Polk,146,President,,REP,George W. Bush,594
+Polk,147,President,,REP,George W. Bush,194
+Polk,148,President,,REP,George W. Bush,417
+Polk,150,President,,REP,George W. Bush,237
+Polk,152,President,,REP,George W. Bush,1429
+Polk,154,President,,REP,George W. Bush,818
+Polk,156,President,,REP,George W. Bush,451
+Polk,158,President,,REP,George W. Bush,456
+Polk,160,President,,REP,George W. Bush,459
+Polk,162,President,,REP,George W. Bush,811
+Polk,166,President,,REP,George W. Bush,201
+Polk,170,President,,REP,George W. Bush,348
+Polk,172,President,,REP,George W. Bush,439
+Polk,176,President,,REP,George W. Bush,424
+Polk,178,President,,REP,George W. Bush,498
+Polk,182,President,,REP,George W. Bush,487
+Polk,184,President,,REP,George W. Bush,389
+Polk,188,President,,REP,George W. Bush,445
+Polk,190,President,,REP,George W. Bush,102
+Polk,Total,President,,REP,George W. Bush,14988
+Polk,102,President,,PAC,Ralph Nader,13
+Polk,106,President,,PAC,Ralph Nader,24
+Polk,108,President,,PAC,Ralph Nader,22
+Polk,110,President,,PAC,Ralph Nader,21
+Polk,112,President,,PAC,Ralph Nader,20
+Polk,118,President,,PAC,Ralph Nader,27
+Polk,120,President,,PAC,Ralph Nader,26
+Polk,122,President,,PAC,Ralph Nader,50
+Polk,134,President,,PAC,Ralph Nader,44
+Polk,136,President,,PAC,Ralph Nader,28
+Polk,138,President,,PAC,Ralph Nader,36
+Polk,140,President,,PAC,Ralph Nader,23
+Polk,142,President,,PAC,Ralph Nader,50
+Polk,144,President,,PAC,Ralph Nader,50
+Polk,146,President,,PAC,Ralph Nader,40
+Polk,147,President,,PAC,Ralph Nader,8
+Polk,148,President,,PAC,Ralph Nader,25
+Polk,150,President,,PAC,Ralph Nader,24
+Polk,152,President,,PAC,Ralph Nader,98
+Polk,154,President,,PAC,Ralph Nader,46
+Polk,156,President,,PAC,Ralph Nader,31
+Polk,158,President,,PAC,Ralph Nader,29
+Polk,160,President,,PAC,Ralph Nader,35
+Polk,162,President,,PAC,Ralph Nader,45
+Polk,166,President,,PAC,Ralph Nader,32
+Polk,170,President,,PAC,Ralph Nader,36
+Polk,172,President,,PAC,Ralph Nader,69
+Polk,176,President,,PAC,Ralph Nader,51
+Polk,178,President,,PAC,Ralph Nader,32
+Polk,182,President,,PAC,Ralph Nader,45
+Polk,184,President,,PAC,Ralph Nader,62
+Polk,188,President,,PAC,Ralph Nader,47
+Polk,190,President,,PAC,Ralph Nader,12
+Polk,Total,President,,PAC,Ralph Nader,1201
+Polk,102,President,,REF,John Hagelin,3
+Polk,106,President,,REF,John Hagelin,1
+Polk,108,President,,REF,John Hagelin,0
+Polk,110,President,,REF,John Hagelin,1
+Polk,112,President,,REF,John Hagelin,1
+Polk,118,President,,REF,John Hagelin,0
+Polk,120,President,,REF,John Hagelin,1
+Polk,122,President,,REF,John Hagelin,3
+Polk,134,President,,REF,John Hagelin,3
+Polk,136,President,,REF,John Hagelin,1
+Polk,138,President,,REF,John Hagelin,0
+Polk,140,President,,REF,John Hagelin,2
+Polk,142,President,,REF,John Hagelin,1
+Polk,144,President,,REF,John Hagelin,0
+Polk,146,President,,REF,John Hagelin,1
+Polk,147,President,,REF,John Hagelin,0
+Polk,148,President,,REF,John Hagelin,0
+Polk,150,President,,REF,John Hagelin,1
+Polk,152,President,,REF,John Hagelin,6
+Polk,154,President,,REF,John Hagelin,2
+Polk,156,President,,REF,John Hagelin,3
+Polk,158,President,,REF,John Hagelin,0
+Polk,160,President,,REF,John Hagelin,5
+Polk,162,President,,REF,John Hagelin,1
+Polk,166,President,,REF,John Hagelin,0
+Polk,170,President,,REF,John Hagelin,0
+Polk,172,President,,REF,John Hagelin,4
+Polk,176,President,,REF,John Hagelin,4
+Polk,178,President,,REF,John Hagelin,2
+Polk,182,President,,REF,John Hagelin,2
+Polk,184,President,,REF,John Hagelin,1
+Polk,188,President,,REF,John Hagelin,0
+Polk,190,President,,REF,John Hagelin,0
+Polk,Total,President,,REF,John Hagelin,49
+Polk,102,President,,CON,Howard Phillips,2
+Polk,106,President,,CON,Howard Phillips,2
+Polk,108,President,,CON,Howard Phillips,0
+Polk,110,President,,CON,Howard Phillips,4
+Polk,112,President,,CON,Howard Phillips,4
+Polk,118,President,,CON,Howard Phillips,1
+Polk,120,President,,CON,Howard Phillips,2
+Polk,122,President,,CON,Howard Phillips,2
+Polk,134,President,,CON,Howard Phillips,0
+Polk,136,President,,CON,Howard Phillips,2
+Polk,138,President,,CON,Howard Phillips,0
+Polk,140,President,,CON,Howard Phillips,0
+Polk,142,President,,CON,Howard Phillips,0
+Polk,144,President,,CON,Howard Phillips,1
+Polk,146,President,,CON,Howard Phillips,1
+Polk,147,President,,CON,Howard Phillips,1
+Polk,148,President,,CON,Howard Phillips,1
+Polk,150,President,,CON,Howard Phillips,3
+Polk,152,President,,CON,Howard Phillips,3
+Polk,154,President,,CON,Howard Phillips,4
+Polk,156,President,,CON,Howard Phillips,4
+Polk,158,President,,CON,Howard Phillips,1
+Polk,160,President,,CON,Howard Phillips,1
+Polk,162,President,,CON,Howard Phillips,1
+Polk,166,President,,CON,Howard Phillips,8
+Polk,170,President,,CON,Howard Phillips,0
+Polk,172,President,,CON,Howard Phillips,1
+Polk,176,President,,CON,Howard Phillips,0
+Polk,178,President,,CON,Howard Phillips,1
+Polk,182,President,,CON,Howard Phillips,4
+Polk,184,President,,CON,Howard Phillips,2
+Polk,188,President,,CON,Howard Phillips,3
+Polk,190,President,,CON,Howard Phillips,0
+Polk,Total,President,,CON,Howard Phillips,59
+Polk,102,President,,DEM,Al Gore,145
+Polk,106,President,,DEM,Al Gore,131
+Polk,108,President,,DEM,Al Gore,141
+Polk,110,President,,DEM,Al Gore,181
+Polk,112,President,,DEM,Al Gore,188
+Polk,118,President,,DEM,Al Gore,142
+Polk,120,President,,DEM,Al Gore,275
+Polk,122,President,,DEM,Al Gore,537
+Polk,134,President,,DEM,Al Gore,613
+Polk,136,President,,DEM,Al Gore,406
+Polk,138,President,,DEM,Al Gore,424
+Polk,140,President,,DEM,Al Gore,358
+Polk,142,President,,DEM,Al Gore,424
+Polk,144,President,,DEM,Al Gore,694
+Polk,146,President,,DEM,Al Gore,534
+Polk,147,President,,DEM,Al Gore,146
+Polk,148,President,,DEM,Al Gore,342
+Polk,150,President,,DEM,Al Gore,230
+Polk,152,President,,DEM,Al Gore,781
+Polk,154,President,,DEM,Al Gore,608
+Polk,156,President,,DEM,Al Gore,269
+Polk,158,President,,DEM,Al Gore,367
+Polk,160,President,,DEM,Al Gore,345
+Polk,162,President,,DEM,Al Gore,591
+Polk,166,President,,DEM,Al Gore,211
+Polk,170,President,,DEM,Al Gore,234
+Polk,172,President,,DEM,Al Gore,407
+Polk,176,President,,DEM,Al Gore,432
+Polk,178,President,,DEM,Al Gore,459
+Polk,182,President,,DEM,Al Gore,491
+Polk,184,President,,DEM,Al Gore,425
+Polk,188,President,,DEM,Al Gore,323
+Polk,190,President,,DEM,Al Gore,67
+Polk,Total,President,,DEM,Al Gore,11921
+Polk,102,Secretary of State,,DEM,Bill Bradbury,138
+Polk,106,Secretary of State,,DEM,Bill Bradbury,155
+Polk,108,Secretary of State,,DEM,Bill Bradbury,152
+Polk,110,Secretary of State,,DEM,Bill Bradbury,217
+Polk,112,Secretary of State,,DEM,Bill Bradbury,208
+Polk,118,Secretary of State,,DEM,Bill Bradbury,156
+Polk,120,Secretary of State,,DEM,Bill Bradbury,284
+Polk,122,Secretary of State,,DEM,Bill Bradbury,577
+Polk,134,Secretary of State,,DEM,Bill Bradbury,610
+Polk,136,Secretary of State,,DEM,Bill Bradbury,406
+Polk,138,Secretary of State,,DEM,Bill Bradbury,453
+Polk,140,Secretary of State,,DEM,Bill Bradbury,367
+Polk,142,Secretary of State,,DEM,Bill Bradbury,386
+Polk,144,Secretary of State,,DEM,Bill Bradbury,740
+Polk,146,Secretary of State,,DEM,Bill Bradbury,571
+Polk,147,Secretary of State,,DEM,Bill Bradbury,174
+Polk,148,Secretary of State,,DEM,Bill Bradbury,351
+Polk,150,Secretary of State,,DEM,Bill Bradbury,238
+Polk,152,Secretary of State,,DEM,Bill Bradbury,869
+Polk,154,Secretary of State,,DEM,Bill Bradbury,643
+Polk,156,Secretary of State,,DEM,Bill Bradbury,293
+Polk,158,Secretary of State,,DEM,Bill Bradbury,363
+Polk,160,Secretary of State,,DEM,Bill Bradbury,362
+Polk,162,Secretary of State,,DEM,Bill Bradbury,608
+Polk,166,Secretary of State,,DEM,Bill Bradbury,210
+Polk,170,Secretary of State,,DEM,Bill Bradbury,243
+Polk,172,Secretary of State,,DEM,Bill Bradbury,418
+Polk,176,Secretary of State,,DEM,Bill Bradbury,444
+Polk,178,Secretary of State,,DEM,Bill Bradbury,468
+Polk,182,Secretary of State,,DEM,Bill Bradbury,494
+Polk,184,Secretary of State,,DEM,Bill Bradbury,430
+Polk,188,Secretary of State,,DEM,Bill Bradbury,344
+Polk,190,Secretary of State,,DEM,Bill Bradbury,84
+Polk,Total,Secretary of State,,DEM,Bill Bradbury,12456
+Polk,102,Secretary of State,,PAC,Lloyd Marbet,8
+Polk,106,Secretary of State,,PAC,Lloyd Marbet,17
+Polk,108,Secretary of State,,PAC,Lloyd Marbet,11
+Polk,110,Secretary of State,,PAC,Lloyd Marbet,11
+Polk,112,Secretary of State,,PAC,Lloyd Marbet,24
+Polk,118,Secretary of State,,PAC,Lloyd Marbet,19
+Polk,120,Secretary of State,,PAC,Lloyd Marbet,23
+Polk,122,Secretary of State,,PAC,Lloyd Marbet,24
+Polk,134,Secretary of State,,PAC,Lloyd Marbet,25
+Polk,136,Secretary of State,,PAC,Lloyd Marbet,18
+Polk,138,Secretary of State,,PAC,Lloyd Marbet,16
+Polk,140,Secretary of State,,PAC,Lloyd Marbet,13
+Polk,142,Secretary of State,,PAC,Lloyd Marbet,50
+Polk,144,Secretary of State,,PAC,Lloyd Marbet,29
+Polk,146,Secretary of State,,PAC,Lloyd Marbet,31
+Polk,147,Secretary of State,,PAC,Lloyd Marbet,2
+Polk,148,Secretary of State,,PAC,Lloyd Marbet,16
+Polk,150,Secretary of State,,PAC,Lloyd Marbet,20
+Polk,152,Secretary of State,,PAC,Lloyd Marbet,53
+Polk,154,Secretary of State,,PAC,Lloyd Marbet,32
+Polk,156,Secretary of State,,PAC,Lloyd Marbet,21
+Polk,158,Secretary of State,,PAC,Lloyd Marbet,21
+Polk,160,Secretary of State,,PAC,Lloyd Marbet,31
+Polk,162,Secretary of State,,PAC,Lloyd Marbet,26
+Polk,166,Secretary of State,,PAC,Lloyd Marbet,21
+Polk,170,Secretary of State,,PAC,Lloyd Marbet,25
+Polk,172,Secretary of State,,PAC,Lloyd Marbet,37
+Polk,176,Secretary of State,,PAC,Lloyd Marbet,27
+Polk,178,Secretary of State,,PAC,Lloyd Marbet,29
+Polk,182,Secretary of State,,PAC,Lloyd Marbet,28
+Polk,184,Secretary of State,,PAC,Lloyd Marbet,38
+Polk,188,Secretary of State,,PAC,Lloyd Marbet,32
+Polk,190,Secretary of State,,PAC,Lloyd Marbet,7
+Polk,Total,Secretary of State,,PAC,Lloyd Marbet,785
+Polk,102,Secretary of State,,REP,Lynn Snodgrass,175
+Polk,106,Secretary of State,,REP,Lynn Snodgrass,263
+Polk,108,Secretary of State,,REP,Lynn Snodgrass,254
+Polk,110,Secretary of State,,REP,Lynn Snodgrass,189
+Polk,112,Secretary of State,,REP,Lynn Snodgrass,230
+Polk,118,Secretary of State,,REP,Lynn Snodgrass,189
+Polk,120,Secretary of State,,REP,Lynn Snodgrass,351
+Polk,122,Secretary of State,,REP,Lynn Snodgrass,638
+Polk,134,Secretary of State,,REP,Lynn Snodgrass,657
+Polk,136,Secretary of State,,REP,Lynn Snodgrass,447
+Polk,138,Secretary of State,,REP,Lynn Snodgrass,454
+Polk,140,Secretary of State,,REP,Lynn Snodgrass,277
+Polk,142,Secretary of State,,REP,Lynn Snodgrass,300
+Polk,144,Secretary of State,,REP,Lynn Snodgrass,807
+Polk,146,Secretary of State,,REP,Lynn Snodgrass,524
+Polk,147,Secretary of State,,REP,Lynn Snodgrass,169
+Polk,148,Secretary of State,,REP,Lynn Snodgrass,381
+Polk,150,Secretary of State,,REP,Lynn Snodgrass,217
+Polk,152,Secretary of State,,REP,Lynn Snodgrass,1284
+Polk,154,Secretary of State,,REP,Lynn Snodgrass,739
+Polk,156,Secretary of State,,REP,Lynn Snodgrass,417
+Polk,158,Secretary of State,,REP,Lynn Snodgrass,430
+Polk,160,Secretary of State,,REP,Lynn Snodgrass,403
+Polk,162,Secretary of State,,REP,Lynn Snodgrass,749
+Polk,166,Secretary of State,,REP,Lynn Snodgrass,197
+Polk,170,Secretary of State,,REP,Lynn Snodgrass,313
+Polk,172,Secretary of State,,REP,Lynn Snodgrass,396
+Polk,176,Secretary of State,,REP,Lynn Snodgrass,371
+Polk,178,Secretary of State,,REP,Lynn Snodgrass,431
+Polk,182,Secretary of State,,REP,Lynn Snodgrass,455
+Polk,184,Secretary of State,,REP,Lynn Snodgrass,353
+Polk,188,Secretary of State,,REP,Lynn Snodgrass,404
+Polk,190,Secretary of State,,REP,Lynn Snodgrass,82
+Polk,Total,Secretary of State,,REP,Lynn Snodgrass,13546
+Polk,102,Secretary of State,,LIB,"E.J. (Ed) Pole, II",2
+Polk,106,Secretary of State,,LIB,"E.J. (Ed) Pole, II",6
+Polk,108,Secretary of State,,LIB,"E.J. (Ed) Pole, II",6
+Polk,110,Secretary of State,,LIB,"E.J. (Ed) Pole, II",7
+Polk,112,Secretary of State,,LIB,"E.J. (Ed) Pole, II",15
+Polk,118,Secretary of State,,LIB,"E.J. (Ed) Pole, II",3
+Polk,120,Secretary of State,,LIB,"E.J. (Ed) Pole, II",7
+Polk,122,Secretary of State,,LIB,"E.J. (Ed) Pole, II",13
+Polk,134,Secretary of State,,LIB,"E.J. (Ed) Pole, II",14
+Polk,136,Secretary of State,,LIB,"E.J. (Ed) Pole, II",6
+Polk,138,Secretary of State,,LIB,"E.J. (Ed) Pole, II",8
+Polk,140,Secretary of State,,LIB,"E.J. (Ed) Pole, II",9
+Polk,142,Secretary of State,,LIB,"E.J. (Ed) Pole, II",10
+Polk,144,Secretary of State,,LIB,"E.J. (Ed) Pole, II",16
+Polk,146,Secretary of State,,LIB,"E.J. (Ed) Pole, II",10
+Polk,147,Secretary of State,,LIB,"E.J. (Ed) Pole, II",1
+Polk,148,Secretary of State,,LIB,"E.J. (Ed) Pole, II",10
+Polk,150,Secretary of State,,LIB,"E.J. (Ed) Pole, II",1
+Polk,152,Secretary of State,,LIB,"E.J. (Ed) Pole, II",31
+Polk,154,Secretary of State,,LIB,"E.J. (Ed) Pole, II",10
+Polk,156,Secretary of State,,LIB,"E.J. (Ed) Pole, II",8
+Polk,158,Secretary of State,,LIB,"E.J. (Ed) Pole, II",15
+Polk,160,Secretary of State,,LIB,"E.J. (Ed) Pole, II",11
+Polk,162,Secretary of State,,LIB,"E.J. (Ed) Pole, II",8
+Polk,166,Secretary of State,,LIB,"E.J. (Ed) Pole, II",16
+Polk,170,Secretary of State,,LIB,"E.J. (Ed) Pole, II",16
+Polk,172,Secretary of State,,LIB,"E.J. (Ed) Pole, II",5
+Polk,176,Secretary of State,,LIB,"E.J. (Ed) Pole, II",8
+Polk,178,Secretary of State,,LIB,"E.J. (Ed) Pole, II",8
+Polk,182,Secretary of State,,LIB,"E.J. (Ed) Pole, II",15
+Polk,184,Secretary of State,,LIB,"E.J. (Ed) Pole, II",22
+Polk,188,Secretary of State,,LIB,"E.J. (Ed) Pole, II",11
+Polk,190,Secretary of State,,LIB,"E.J. (Ed) Pole, II",3
+Polk,Total,Secretary of State,,LIB,"E.J. (Ed) Pole, II",331
+Polk,102,State Treasurer,,REF,Leonard Zack,3
+Polk,106,State Treasurer,,REF,Leonard Zack,9
+Polk,108,State Treasurer,,REF,Leonard Zack,10
+Polk,110,State Treasurer,,REF,Leonard Zack,8
+Polk,112,State Treasurer,,REF,Leonard Zack,15
+Polk,118,State Treasurer,,REF,Leonard Zack,5
+Polk,120,State Treasurer,,REF,Leonard Zack,10
+Polk,122,State Treasurer,,REF,Leonard Zack,16
+Polk,134,State Treasurer,,REF,Leonard Zack,16
+Polk,136,State Treasurer,,REF,Leonard Zack,7
+Polk,138,State Treasurer,,REF,Leonard Zack,17
+Polk,140,State Treasurer,,REF,Leonard Zack,15
+Polk,142,State Treasurer,,REF,Leonard Zack,14
+Polk,144,State Treasurer,,REF,Leonard Zack,11
+Polk,146,State Treasurer,,REF,Leonard Zack,10
+Polk,147,State Treasurer,,REF,Leonard Zack,1
+Polk,148,State Treasurer,,REF,Leonard Zack,5
+Polk,150,State Treasurer,,REF,Leonard Zack,11
+Polk,152,State Treasurer,,REF,Leonard Zack,38
+Polk,154,State Treasurer,,REF,Leonard Zack,17
+Polk,156,State Treasurer,,REF,Leonard Zack,14
+Polk,158,State Treasurer,,REF,Leonard Zack,18
+Polk,160,State Treasurer,,REF,Leonard Zack,14
+Polk,162,State Treasurer,,REF,Leonard Zack,30
+Polk,166,State Treasurer,,REF,Leonard Zack,13
+Polk,170,State Treasurer,,REF,Leonard Zack,15
+Polk,172,State Treasurer,,REF,Leonard Zack,19
+Polk,176,State Treasurer,,REF,Leonard Zack,14
+Polk,178,State Treasurer,,REF,Leonard Zack,23
+Polk,182,State Treasurer,,REF,Leonard Zack,16
+Polk,184,State Treasurer,,REF,Leonard Zack,19
+Polk,188,State Treasurer,,REF,Leonard Zack,17
+Polk,190,State Treasurer,,REF,Leonard Zack,3
+Polk,Total,State Treasurer,,REF,Leonard Zack,453
+Polk,102,State Treasurer,,DEM,Randall Edwards,133
+Polk,106,State Treasurer,,DEM,Randall Edwards,140
+Polk,108,State Treasurer,,DEM,Randall Edwards,137
+Polk,110,State Treasurer,,DEM,Randall Edwards,207
+Polk,112,State Treasurer,,DEM,Randall Edwards,185
+Polk,118,State Treasurer,,DEM,Randall Edwards,153
+Polk,120,State Treasurer,,DEM,Randall Edwards,249
+Polk,122,State Treasurer,,DEM,Randall Edwards,504
+Polk,134,State Treasurer,,DEM,Randall Edwards,562
+Polk,136,State Treasurer,,DEM,Randall Edwards,384
+Polk,138,State Treasurer,,DEM,Randall Edwards,392
+Polk,140,State Treasurer,,DEM,Randall Edwards,328
+Polk,142,State Treasurer,,DEM,Randall Edwards,353
+Polk,144,State Treasurer,,DEM,Randall Edwards,653
+Polk,146,State Treasurer,,DEM,Randall Edwards,474
+Polk,147,State Treasurer,,DEM,Randall Edwards,128
+Polk,148,State Treasurer,,DEM,Randall Edwards,311
+Polk,150,State Treasurer,,DEM,Randall Edwards,200
+Polk,152,State Treasurer,,DEM,Randall Edwards,762
+Polk,154,State Treasurer,,DEM,Randall Edwards,611
+Polk,156,State Treasurer,,DEM,Randall Edwards,264
+Polk,158,State Treasurer,,DEM,Randall Edwards,350
+Polk,160,State Treasurer,,DEM,Randall Edwards,349
+Polk,162,State Treasurer,,DEM,Randall Edwards,549
+Polk,166,State Treasurer,,DEM,Randall Edwards,207
+Polk,170,State Treasurer,,DEM,Randall Edwards,232
+Polk,172,State Treasurer,,DEM,Randall Edwards,378
+Polk,176,State Treasurer,,DEM,Randall Edwards,423
+Polk,178,State Treasurer,,DEM,Randall Edwards,437
+Polk,182,State Treasurer,,DEM,Randall Edwards,460
+Polk,184,State Treasurer,,DEM,Randall Edwards,423
+Polk,188,State Treasurer,,DEM,Randall Edwards,319
+Polk,190,State Treasurer,,DEM,Randall Edwards,77
+Polk,Total,State Treasurer,,DEM,Randall Edwards,11334
+Polk,102,State Treasurer,,CON,Carlos F. Lucero,1
+Polk,106,State Treasurer,,CON,Carlos F. Lucero,12
+Polk,108,State Treasurer,,CON,Carlos F. Lucero,9
+Polk,110,State Treasurer,,CON,Carlos F. Lucero,9
+Polk,112,State Treasurer,,CON,Carlos F. Lucero,15
+Polk,118,State Treasurer,,CON,Carlos F. Lucero,3
+Polk,120,State Treasurer,,CON,Carlos F. Lucero,6
+Polk,122,State Treasurer,,CON,Carlos F. Lucero,7
+Polk,134,State Treasurer,,CON,Carlos F. Lucero,6
+Polk,136,State Treasurer,,CON,Carlos F. Lucero,13
+Polk,138,State Treasurer,,CON,Carlos F. Lucero,6
+Polk,140,State Treasurer,,CON,Carlos F. Lucero,6
+Polk,142,State Treasurer,,CON,Carlos F. Lucero,23
+Polk,144,State Treasurer,,CON,Carlos F. Lucero,8
+Polk,146,State Treasurer,,CON,Carlos F. Lucero,14
+Polk,147,State Treasurer,,CON,Carlos F. Lucero,1
+Polk,148,State Treasurer,,CON,Carlos F. Lucero,8
+Polk,150,State Treasurer,,CON,Carlos F. Lucero,8
+Polk,152,State Treasurer,,CON,Carlos F. Lucero,52
+Polk,154,State Treasurer,,CON,Carlos F. Lucero,24
+Polk,156,State Treasurer,,CON,Carlos F. Lucero,22
+Polk,158,State Treasurer,,CON,Carlos F. Lucero,23
+Polk,160,State Treasurer,,CON,Carlos F. Lucero,12
+Polk,162,State Treasurer,,CON,Carlos F. Lucero,16
+Polk,166,State Treasurer,,CON,Carlos F. Lucero,12
+Polk,170,State Treasurer,,CON,Carlos F. Lucero,17
+Polk,172,State Treasurer,,CON,Carlos F. Lucero,13
+Polk,176,State Treasurer,,CON,Carlos F. Lucero,8
+Polk,178,State Treasurer,,CON,Carlos F. Lucero,10
+Polk,182,State Treasurer,,CON,Carlos F. Lucero,19
+Polk,184,State Treasurer,,CON,Carlos F. Lucero,30
+Polk,188,State Treasurer,,CON,Carlos F. Lucero,15
+Polk,190,State Treasurer,,CON,Carlos F. Lucero,2
+Polk,Total,State Treasurer,,CON,Carlos F. Lucero,430
+Polk,102,State Treasurer,,REP,Jon Kvistad,138
+Polk,106,State Treasurer,,REP,Jon Kvistad,238
+Polk,108,State Treasurer,,REP,Jon Kvistad,209
+Polk,110,State Treasurer,,REP,Jon Kvistad,154
+Polk,112,State Treasurer,,REP,Jon Kvistad,214
+Polk,118,State Treasurer,,REP,Jon Kvistad,173
+Polk,120,State Treasurer,,REP,Jon Kvistad,322
+Polk,122,State Treasurer,,REP,Jon Kvistad,602
+Polk,134,State Treasurer,,REP,Jon Kvistad,554
+Polk,136,State Treasurer,,REP,Jon Kvistad,381
+Polk,138,State Treasurer,,REP,Jon Kvistad,408
+Polk,140,State Treasurer,,REP,Jon Kvistad,218
+Polk,142,State Treasurer,,REP,Jon Kvistad,230
+Polk,144,State Treasurer,,REP,Jon Kvistad,730
+Polk,146,State Treasurer,,REP,Jon Kvistad,488
+Polk,147,State Treasurer,,REP,Jon Kvistad,150
+Polk,148,State Treasurer,,REP,Jon Kvistad,326
+Polk,150,State Treasurer,,REP,Jon Kvistad,212
+Polk,152,State Treasurer,,REP,Jon Kvistad,1167
+Polk,154,State Treasurer,,REP,Jon Kvistad,647
+Polk,156,State Treasurer,,REP,Jon Kvistad,359
+Polk,158,State Treasurer,,REP,Jon Kvistad,352
+Polk,160,State Treasurer,,REP,Jon Kvistad,344
+Polk,162,State Treasurer,,REP,Jon Kvistad,646
+Polk,166,State Treasurer,,REP,Jon Kvistad,152
+Polk,170,State Treasurer,,REP,Jon Kvistad,273
+Polk,172,State Treasurer,,REP,Jon Kvistad,329
+Polk,176,State Treasurer,,REP,Jon Kvistad,325
+Polk,178,State Treasurer,,REP,Jon Kvistad,375
+Polk,182,State Treasurer,,REP,Jon Kvistad,384
+Polk,184,State Treasurer,,REP,Jon Kvistad,275
+Polk,188,State Treasurer,,REP,Jon Kvistad,362
+Polk,190,State Treasurer,,REP,Jon Kvistad,79
+Polk,Total,State Treasurer,,REP,Jon Kvistad,11816
+Polk,102,State Treasurer,,LIB,Mitchell T. Shults,27
+Polk,106,State Treasurer,,LIB,Mitchell T. Shults,20
+Polk,108,State Treasurer,,LIB,Mitchell T. Shults,15
+Polk,110,State Treasurer,,LIB,Mitchell T. Shults,25
+Polk,112,State Treasurer,,LIB,Mitchell T. Shults,35
+Polk,118,State Treasurer,,LIB,Mitchell T. Shults,10
+Polk,120,State Treasurer,,LIB,Mitchell T. Shults,47
+Polk,122,State Treasurer,,LIB,Mitchell T. Shults,68
+Polk,134,State Treasurer,,LIB,Mitchell T. Shults,82
+Polk,136,State Treasurer,,LIB,Mitchell T. Shults,38
+Polk,138,State Treasurer,,LIB,Mitchell T. Shults,47
+Polk,140,State Treasurer,,LIB,Mitchell T. Shults,46
+Polk,142,State Treasurer,,LIB,Mitchell T. Shults,56
+Polk,144,State Treasurer,,LIB,Mitchell T. Shults,85
+Polk,146,State Treasurer,,LIB,Mitchell T. Shults,66
+Polk,147,State Treasurer,,LIB,Mitchell T. Shults,35
+Polk,148,State Treasurer,,LIB,Mitchell T. Shults,50
+Polk,150,State Treasurer,,LIB,Mitchell T. Shults,17
+Polk,152,State Treasurer,,LIB,Mitchell T. Shults,85
+Polk,154,State Treasurer,,LIB,Mitchell T. Shults,36
+Polk,156,State Treasurer,,LIB,Mitchell T. Shults,33
+Polk,158,State Treasurer,,LIB,Mitchell T. Shults,39
+Polk,160,State Treasurer,,LIB,Mitchell T. Shults,38
+Polk,162,State Treasurer,,LIB,Mitchell T. Shults,51
+Polk,166,State Treasurer,,LIB,Mitchell T. Shults,30
+Polk,170,State Treasurer,,LIB,Mitchell T. Shults,34
+Polk,172,State Treasurer,,LIB,Mitchell T. Shults,34
+Polk,176,State Treasurer,,LIB,Mitchell T. Shults,33
+Polk,178,State Treasurer,,LIB,Mitchell T. Shults,45
+Polk,182,State Treasurer,,LIB,Mitchell T. Shults,45
+Polk,184,State Treasurer,,LIB,Mitchell T. Shults,49
+Polk,188,State Treasurer,,LIB,Mitchell T. Shults,38
+Polk,190,State Treasurer,,LIB,Mitchell T. Shults,8
+Polk,Total,State Treasurer,,LIB,Mitchell T. Shults,1367
+Polk,110,State Senate,2,DEM,Terry Thompson,190
+Polk,Total,State Senate,2,DEM,Terry Thompson,190
+Polk,110,State Senate,2,REP,Gary George,189
+Polk,Total,State Senate,2,REP,Gary George,189
+Polk,110,State House,4,REP,Alan Brown,181
+Polk,Total,State House,4,REP,Alan Brown,181
+Polk,110,State House,4,DEM,Sharon Branstiter,188
+Polk,Total,State House,4,DEM,Sharon Branstiter,188
+Polk,102,U.S. House,5,REP,Brian J. Boquist,132
+Polk,106,U.S. House,5,REP,Brian J. Boquist,231
+Polk,108,U.S. House,5,REP,Brian J. Boquist,224
+Polk,110,U.S. House,5,REP,Brian J. Boquist,127
+Polk,112,U.S. House,5,REP,Brian J. Boquist,199
+Polk,118,U.S. House,5,REP,Brian J. Boquist,141
+Polk,120,U.S. House,5,REP,Brian J. Boquist,288
+Polk,122,U.S. House,5,REP,Brian J. Boquist,522
+Polk,134,U.S. House,5,REP,Brian J. Boquist,491
+Polk,136,U.S. House,5,REP,Brian J. Boquist,361
+Polk,138,U.S. House,5,REP,Brian J. Boquist,383
+Polk,140,U.S. House,5,REP,Brian J. Boquist,221
+Polk,142,U.S. House,5,REP,Brian J. Boquist,214
+Polk,144,U.S. House,5,REP,Brian J. Boquist,649
+Polk,146,U.S. House,5,REP,Brian J. Boquist,429
+Polk,147,U.S. House,5,REP,Brian J. Boquist,133
+Polk,148,U.S. House,5,REP,Brian J. Boquist,309
+Polk,150,U.S. House,5,REP,Brian J. Boquist,164
+Polk,152,U.S. House,5,REP,Brian J. Boquist,1101
+Polk,154,U.S. House,5,REP,Brian J. Boquist,598
+Polk,156,U.S. House,5,REP,Brian J. Boquist,354
+Polk,158,U.S. House,5,REP,Brian J. Boquist,348
+Polk,160,U.S. House,5,REP,Brian J. Boquist,297
+Polk,162,U.S. House,5,REP,Brian J. Boquist,589
+Polk,166,U.S. House,5,REP,Brian J. Boquist,164
+Polk,170,U.S. House,5,REP,Brian J. Boquist,281
+Polk,172,U.S. House,5,REP,Brian J. Boquist,310
+Polk,176,U.S. House,5,REP,Brian J. Boquist,289
+Polk,178,U.S. House,5,REP,Brian J. Boquist,361
+Polk,182,U.S. House,5,REP,Brian J. Boquist,329
+Polk,184,U.S. House,5,REP,Brian J. Boquist,285
+Polk,188,U.S. House,5,REP,Brian J. Boquist,326
+Polk,190,U.S. House,5,REP,Brian J. Boquist,75
+Polk,Total,U.S. House,5,REP,Brian J. Boquist,10925
+Polk,102,U.S. House,5,DEM,Darlene Hooley,134
+Polk,106,U.S. House,5,DEM,Darlene Hooley,155
+Polk,108,U.S. House,5,DEM,Darlene Hooley,133
+Polk,110,U.S. House,5,DEM,Darlene Hooley,203
+Polk,112,U.S. House,5,DEM,Darlene Hooley,183
+Polk,118,U.S. House,5,DEM,Darlene Hooley,162
+Polk,120,U.S. House,5,DEM,Darlene Hooley,297
+Polk,122,U.S. House,5,DEM,Darlene Hooley,540
+Polk,134,U.S. House,5,DEM,Darlene Hooley,617
+Polk,136,U.S. House,5,DEM,Darlene Hooley,396
+Polk,138,U.S. House,5,DEM,Darlene Hooley,412
+Polk,140,U.S. House,5,DEM,Darlene Hooley,344
+Polk,142,U.S. House,5,DEM,Darlene Hooley,401
+Polk,144,U.S. House,5,DEM,Darlene Hooley,695
+Polk,146,U.S. House,5,DEM,Darlene Hooley,521
+Polk,147,U.S. House,5,DEM,Darlene Hooley,173
+Polk,148,U.S. House,5,DEM,Darlene Hooley,334
+Polk,150,U.S. House,5,DEM,Darlene Hooley,225
+Polk,152,U.S. House,5,DEM,Darlene Hooley,797
+Polk,154,U.S. House,5,DEM,Darlene Hooley,618
+Polk,156,U.S. House,5,DEM,Darlene Hooley,277
+Polk,158,U.S. House,5,DEM,Darlene Hooley,366
+Polk,160,U.S. House,5,DEM,Darlene Hooley,379
+Polk,162,U.S. House,5,DEM,Darlene Hooley,590
+Polk,166,U.S. House,5,DEM,Darlene Hooley,202
+Polk,170,U.S. House,5,DEM,Darlene Hooley,218
+Polk,172,U.S. House,5,DEM,Darlene Hooley,409
+Polk,176,U.S. House,5,DEM,Darlene Hooley,441
+Polk,178,U.S. House,5,DEM,Darlene Hooley,438
+Polk,182,U.S. House,5,DEM,Darlene Hooley,474
+Polk,184,U.S. House,5,DEM,Darlene Hooley,415
+Polk,188,U.S. House,5,DEM,Darlene Hooley,328
+Polk,190,U.S. House,5,DEM,Darlene Hooley,70
+Polk,Total,U.S. House,5,DEM,Darlene Hooley,11947
+Polk,102,State House,34,LIB,J.T. Barrie,6
+Polk,106,State House,34,LIB,J.T. Barrie,12
+Polk,108,State House,34,LIB,J.T. Barrie,8
+Polk,112,State House,34,LIB,J.T. Barrie,13
+Polk,118,State House,34,LIB,J.T. Barrie,8
+Polk,150,State House,34,LIB,J.T. Barrie,7
+Polk,152,State House,34,LIB,J.T. Barrie,30
+Polk,154,State House,34,LIB,J.T. Barrie,11
+Polk,156,State House,34,LIB,J.T. Barrie,11
+Polk,158,State House,34,LIB,J.T. Barrie,14
+Polk,160,State House,34,LIB,J.T. Barrie,13
+Polk,162,State House,34,LIB,J.T. Barrie,11
+Polk,166,State House,34,LIB,J.T. Barrie,10
+Polk,170,State House,34,LIB,J.T. Barrie,9
+Polk,172,State House,34,LIB,J.T. Barrie,12
+Polk,176,State House,34,LIB,J.T. Barrie,7
+Polk,178,State House,34,LIB,J.T. Barrie,13
+Polk,182,State House,34,LIB,J.T. Barrie,11
+Polk,184,State House,34,LIB,J.T. Barrie,31
+Polk,188,State House,34,LIB,J.T. Barrie,14
+Polk,190,State House,34,LIB,J.T. Barrie,3
+Polk,Total,State House,34,LIB,J.T. Barrie,254
+Polk,102,State House,34,CON,Steve Walker,7
+Polk,106,State House,34,CON,Steve Walker,29
+Polk,108,State House,34,CON,Steve Walker,23
+Polk,112,State House,34,CON,Steve Walker,33
+Polk,118,State House,34,CON,Steve Walker,14
+Polk,150,State House,34,CON,Steve Walker,34
+Polk,152,State House,34,CON,Steve Walker,242
+Polk,154,State House,34,CON,Steve Walker,112
+Polk,156,State House,34,CON,Steve Walker,73
+Polk,158,State House,34,CON,Steve Walker,54
+Polk,160,State House,34,CON,Steve Walker,67
+Polk,162,State House,34,CON,Steve Walker,81
+Polk,166,State House,34,CON,Steve Walker,37
+Polk,170,State House,34,CON,Steve Walker,40
+Polk,172,State House,34,CON,Steve Walker,15
+Polk,176,State House,34,CON,Steve Walker,35
+Polk,178,State House,34,CON,Steve Walker,18
+Polk,182,State House,34,CON,Steve Walker,31
+Polk,184,State House,34,CON,Steve Walker,44
+Polk,188,State House,34,CON,Steve Walker,55
+Polk,190,State House,34,CON,Steve Walker,5
+Polk,Total,State House,34,CON,Steve Walker,1049
+Polk,102,State House,34,DEM,Marilyn L. Slizeski,93
+Polk,106,State House,34,DEM,Marilyn L. Slizeski,101
+Polk,108,State House,34,DEM,Marilyn L. Slizeski,93
+Polk,112,State House,34,DEM,Marilyn L. Slizeski,140
+Polk,118,State House,34,DEM,Marilyn L. Slizeski,92
+Polk,150,State House,34,DEM,Marilyn L. Slizeski,139
+Polk,152,State House,34,DEM,Marilyn L. Slizeski,399
+Polk,154,State House,34,DEM,Marilyn L. Slizeski,314
+Polk,156,State House,34,DEM,Marilyn L. Slizeski,153
+Polk,158,State House,34,DEM,Marilyn L. Slizeski,191
+Polk,160,State House,34,DEM,Marilyn L. Slizeski,187
+Polk,162,State House,34,DEM,Marilyn L. Slizeski,298
+Polk,166,State House,34,DEM,Marilyn L. Slizeski,163
+Polk,170,State House,34,DEM,Marilyn L. Slizeski,135
+Polk,172,State House,34,DEM,Marilyn L. Slizeski,267
+Polk,176,State House,34,DEM,Marilyn L. Slizeski,242
+Polk,178,State House,34,DEM,Marilyn L. Slizeski,269
+Polk,182,State House,34,DEM,Marilyn L. Slizeski,313
+Polk,184,State House,34,DEM,Marilyn L. Slizeski,297
+Polk,188,State House,34,DEM,Marilyn L. Slizeski,230
+Polk,190,State House,34,DEM,Marilyn L. Slizeski,46
+Polk,Total,State House,34,DEM,Marilyn L. Slizeski,4162
+Polk,102,State House,34,REP,Lane Shetterly,194
+Polk,106,State House,34,REP,Lane Shetterly,279
+Polk,108,State House,34,REP,Lane Shetterly,276
+Polk,112,State House,34,REP,Lane Shetterly,245
+Polk,118,State House,34,REP,Lane Shetterly,229
+Polk,150,State House,34,REP,Lane Shetterly,275
+Polk,152,State House,34,REP,Lane Shetterly,1463
+Polk,154,State House,34,REP,Lane Shetterly,932
+Polk,156,State House,34,REP,Lane Shetterly,477
+Polk,158,State House,34,REP,Lane Shetterly,537
+Polk,160,State House,34,REP,Lane Shetterly,530
+Polk,162,State House,34,REP,Lane Shetterly,943
+Polk,166,State House,34,REP,Lane Shetterly,211
+Polk,170,State House,34,REP,Lane Shetterly,372
+Polk,172,State House,34,REP,Lane Shetterly,495
+Polk,176,State House,34,REP,Lane Shetterly,525
+Polk,178,State House,34,REP,Lane Shetterly,564
+Polk,182,State House,34,REP,Lane Shetterly,572
+Polk,184,State House,34,REP,Lane Shetterly,421
+Polk,188,State House,34,REP,Lane Shetterly,432
+Polk,190,State House,34,REP,Lane Shetterly,118
+Polk,Total,State House,34,REP,Lane Shetterly,10090
+Polk,120,State House,31,DEM,Lloyd Kumley,178
+Polk,122,State House,31,DEM,Lloyd Kumley,327
+Polk,134,State House,31,DEM,Lloyd Kumley,343
+Polk,136,State House,31,DEM,Lloyd Kumley,264
+Polk,138,State House,31,DEM,Lloyd Kumley,298
+Polk,140,State House,31,DEM,Lloyd Kumley,233
+Polk,142,State House,31,DEM,Lloyd Kumley,278
+Polk,144,State House,31,DEM,Lloyd Kumley,421
+Polk,146,State House,31,DEM,Lloyd Kumley,397
+Polk,147,State House,31,DEM,Lloyd Kumley,74
+Polk,148,State House,31,DEM,Lloyd Kumley,228
+Polk,Total,State House,31,DEM,Lloyd Kumley,3041
+Polk,120,State House,31,REP,Jackie Winters,413
+Polk,122,State House,31,REP,Jackie Winters,807
+Polk,134,State House,31,REP,Jackie Winters,805
+Polk,136,State House,31,REP,Jackie Winters,528
+Polk,138,State House,31,REP,Jackie Winters,540
+Polk,140,State House,31,REP,Jackie Winters,340
+Polk,142,State House,31,REP,Jackie Winters,378
+Polk,144,State House,31,REP,Jackie Winters,991
+Polk,146,State House,31,REP,Jackie Winters,624
+Polk,147,State House,31,REP,Jackie Winters,246
+Polk,148,State House,31,REP,Jackie Winters,420
+Polk,Total,State House,31,REP,Jackie Winters,6092
