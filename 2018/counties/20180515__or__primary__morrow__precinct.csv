@@ -1,14 +1,14 @@
 candidate,office,district,party,county,precinct,votes
-Eric Burnette,U S House,2,DEM,Morrow,Precinct 1,13
-Michael Byrne,U S House,2,DEM,Morrow,Precinct 1,6
-Tim S White,U S House,2,DEM,Morrow,Precinct 1,6
-Raz Mason,U S House,2,DEM,Morrow,Precinct 1,6
-Jamie McLeod Skinner,U S House,2,DEM,Morrow,Precinct 1,27
-James (Jim) Crary,U S House,2,DEM,Morrow,Precinct 1,6
-Jen (Jenni) Neahring,U S House,2,DEM,Morrow,Precinct 1,32
-Write In,U S House,2,DEM,Morrow,Precinct 1,4
-Overvote,U S House,2,DEM,Morrow,Precinct 1,1
-Undervote,U S House,2,DEM,Morrow,Precinct 1,25
+Eric Burnette,U.S. House,2,DEM,Morrow,Precinct 1,13
+Michael Byrne,U.S. House,2,DEM,Morrow,Precinct 1,6
+Tim S White,U.S. House,2,DEM,Morrow,Precinct 1,6
+Raz Mason,U.S. House,2,DEM,Morrow,Precinct 1,6
+Jamie McLeod Skinner,U.S. House,2,DEM,Morrow,Precinct 1,27
+James (Jim) Crary,U.S. House,2,DEM,Morrow,Precinct 1,6
+Jen (Jenni) Neahring,U.S. House,2,DEM,Morrow,Precinct 1,32
+Write In,U.S. House,2,DEM,Morrow,Precinct 1,4
+Overvote,U.S. House,2,DEM,Morrow,Precinct 1,1
+Undervote,U.S. House,2,DEM,Morrow,Precinct 1,25
 Ed Jones,Governor,,DEM,Morrow,Precinct 1,19
 Kate Brown,Governor,,DEM,Morrow,Precinct 1,65
 Candace Neville,Governor,,DEM,Morrow,Precinct 1,14
@@ -18,10 +18,10 @@ Undervote,Governor,,DEM,Morrow,Precinct 1,17
 Write In,State House,57,DEM,Morrow,Precinct 1,14
 Overvote,State House,57,DEM,Morrow,Precinct 1,0
 Undervote,State House,57,DEM,Morrow,Precinct 1,112
-Mark R Roberts,U S House,2,IND,Morrow,Precinct 1,8
-Write In,U S House,2,IND,Morrow,Precinct 1,6
-Overvote,U S House,2,IND,Morrow,Precinct 1,0
-Undervote,U S House,2,IND,Morrow,Precinct 1,6
+Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 1,8
+Write In,U.S. House,2,IND,Morrow,Precinct 1,6
+Overvote,U.S. House,2,IND,Morrow,Precinct 1,0
+Undervote,U.S. House,2,IND,Morrow,Precinct 1,6
 Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 1,2
 Skye J Allen,Governor,,IND,Morrow,Precinct 1,5
 Patrick Starnes,Governor,,IND,Morrow,Precinct 1,2
@@ -31,12 +31,12 @@ Undervote,Governor,,IND,Morrow,Precinct 1,2
 Write In,State House,57,IND,Morrow,Precinct 1,5
 Overvote,State House,57,IND,Morrow,Precinct 1,0
 Undervote,State House,57,IND,Morrow,Precinct 1,15
-Randy Pollock,U S House,2,REP,Morrow,Precinct 1,19
-Greg Walden,U S House,2,REP,Morrow,Precinct 1,135
-Paul J Romero Jr,U S House,2,REP,Morrow,Precinct 1,48
-Write In,U S House,2,REP,Morrow,Precinct 1,0
-Overvote,U S House,2,REP,Morrow,Precinct 1,0
-Undervote,U S House,2,REP,Morrow,Precinct 1,8
+Randy Pollock,U.S. House,2,REP,Morrow,Precinct 1,19
+Greg Walden,U.S. House,2,REP,Morrow,Precinct 1,135
+Paul J Romero Jr,U.S. House,2,REP,Morrow,Precinct 1,48
+Write In,U.S. House,2,REP,Morrow,Precinct 1,0
+Overvote,U.S. House,2,REP,Morrow,Precinct 1,0
+Undervote,U.S. House,2,REP,Morrow,Precinct 1,8
 Knute Buehler,Governor,,REP,Morrow,Precinct 1,49
 Keenen W Bohach,Governor,,REP,Morrow,Precinct 1,1
 Greg C Wooldridge,Governor,,REP,Morrow,Precinct 1,54
@@ -54,22 +54,22 @@ Greg Smith,State House,57,REP,Morrow,Precinct 1,171
 Write In,State House,57,REP,Morrow,Precinct 1,6
 Overvote,State House,57,REP,Morrow,Precinct 1,0
 Undervote,State House,57,REP,Morrow,Precinct 1,33
-Lou Ogden,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 1,136
-Val Hoyle,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 1,130
-Jack Howard,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 1,78
-Write In,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 1,2
-Overvote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 1,0
-Undervote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 1,102
-Eric Burnette,U S House,2,DEM,Morrow,Precinct 2,13
-Michael Byrne,U S House,2,DEM,Morrow,Precinct 2,6
-Tim S White,U S House,2,DEM,Morrow,Precinct 2,9
-Raz Mason,U S House,2,DEM,Morrow,Precinct 2,12
-Jamie McLeod Skinner,U S House,2,DEM,Morrow,Precinct 2,29
-James (Jim) Crary,U S House,2,DEM,Morrow,Precinct 2,15
-Jen (Jenni) Neahring,U S House,2,DEM,Morrow,Precinct 2,32
-Write In,U S House,2,DEM,Morrow,Precinct 2,8
-Overvote,U S House,2,DEM,Morrow,Precinct 2,0
-Undervote,U S House,2,DEM,Morrow,Precinct 2,12
+Lou Ogden,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 1,136
+Val Hoyle,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 1,130
+Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 1,78
+Write In,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 1,2
+Overvote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 1,0
+Undervote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 1,102
+Eric Burnette,U.S. House,2,DEM,Morrow,Precinct 2,13
+Michael Byrne,U.S. House,2,DEM,Morrow,Precinct 2,6
+Tim S White,U.S. House,2,DEM,Morrow,Precinct 2,9
+Raz Mason,U.S. House,2,DEM,Morrow,Precinct 2,12
+Jamie McLeod Skinner,U.S. House,2,DEM,Morrow,Precinct 2,29
+James (Jim) Crary,U.S. House,2,DEM,Morrow,Precinct 2,15
+Jen (Jenni) Neahring,U.S. House,2,DEM,Morrow,Precinct 2,32
+Write In,U.S. House,2,DEM,Morrow,Precinct 2,8
+Overvote,U.S. House,2,DEM,Morrow,Precinct 2,0
+Undervote,U.S. House,2,DEM,Morrow,Precinct 2,12
 Ed Jones,Governor,,DEM,Morrow,Precinct 2,33
 Kate Brown,Governor,,DEM,Morrow,Precinct 2,72
 Candace Neville,Governor,,DEM,Morrow,Precinct 2,19
@@ -79,10 +79,10 @@ Undervote,Governor,,DEM,Morrow,Precinct 2,4
 Write In,State House,57,DEM,Morrow,Precinct 2,18
 Overvote,State House,57,DEM,Morrow,Precinct 2,0
 Undervote,State House,57,DEM,Morrow,Precinct 2,118
-Mark R Roberts,U S House,2,IND,Morrow,Precinct 2,12
-Write In,U S House,2,IND,Morrow,Precinct 2,10
-Overvote,U S House,2,IND,Morrow,Precinct 2,0
-Undervote,U S House,2,IND,Morrow,Precinct 2,18
+Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 2,12
+Write In,U.S. House,2,IND,Morrow,Precinct 2,10
+Overvote,U.S. House,2,IND,Morrow,Precinct 2,0
+Undervote,U.S. House,2,IND,Morrow,Precinct 2,18
 Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 2,3
 Skye J Allen,Governor,,IND,Morrow,Precinct 2,6
 Patrick Starnes,Governor,,IND,Morrow,Precinct 2,5
@@ -92,12 +92,12 @@ Undervote,Governor,,IND,Morrow,Precinct 2,6
 Write In,State House,57,IND,Morrow,Precinct 2,14
 Overvote,State House,57,IND,Morrow,Precinct 2,0
 Undervote,State House,57,IND,Morrow,Precinct 2,26
-Randy Pollock,U S House,2,REP,Morrow,Precinct 2,25
-Greg Walden,U S House,2,REP,Morrow,Precinct 2,234
-Paul J Romero Jr,U S House,2,REP,Morrow,Precinct 2,48
-Write In,U S House,2,REP,Morrow,Precinct 2,0
-Overvote,U S House,2,REP,Morrow,Precinct 2,0
-Undervote,U S House,2,REP,Morrow,Precinct 2,12
+Randy Pollock,U.S. House,2,REP,Morrow,Precinct 2,25
+Greg Walden,U.S. House,2,REP,Morrow,Precinct 2,234
+Paul J Romero Jr,U.S. House,2,REP,Morrow,Precinct 2,48
+Write In,U.S. House,2,REP,Morrow,Precinct 2,0
+Overvote,U.S. House,2,REP,Morrow,Precinct 2,0
+Undervote,U.S. House,2,REP,Morrow,Precinct 2,12
 Knute Buehler,Governor,,REP,Morrow,Precinct 2,80
 Keenen W Bohach,Governor,,REP,Morrow,Precinct 2,2
 Greg C Wooldridge,Governor,,REP,Morrow,Precinct 2,97
@@ -115,22 +115,22 @@ Greg Smith,State House,57,REP,Morrow,Precinct 2,289
 Write In,State House,57,REP,Morrow,Precinct 2,1
 Overvote,State House,57,REP,Morrow,Precinct 2,0
 Undervote,State House,57,REP,Morrow,Precinct 2,29
-Lou Ogden,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 2,219
-Val Hoyle,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 2,163
-Jack Howard,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 2,119
-Write In,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 2,0
-Overvote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 2,0
-Undervote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 2,117
-Eric Burnette,U S House,2,DEM,Morrow,Precinct 3,0
-Michael Byrne,U S House,2,DEM,Morrow,Precinct 3,2
-Tim S White,U S House,2,DEM,Morrow,Precinct 3,3
-Raz Mason,U S House,2,DEM,Morrow,Precinct 3,3
-Jamie McLeod Skinner,U S House,2,DEM,Morrow,Precinct 3,6
-James (Jim) Crary,U S House,2,DEM,Morrow,Precinct 3,2
-Jen (Jenni) Neahring,U S House,2,DEM,Morrow,Precinct 3,9
-Write In,U S House,2,DEM,Morrow,Precinct 3,4
-Overvote,U S House,2,DEM,Morrow,Precinct 3,0
-Undervote,U S House,2,DEM,Morrow,Precinct 3,6
+Lou Ogden,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 2,219
+Val Hoyle,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 2,163
+Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 2,119
+Write In,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 2,0
+Overvote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 2,0
+Undervote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 2,117
+Eric Burnette,U.S. House,2,DEM,Morrow,Precinct 3,0
+Michael Byrne,U.S. House,2,DEM,Morrow,Precinct 3,2
+Tim S White,U.S. House,2,DEM,Morrow,Precinct 3,3
+Raz Mason,U.S. House,2,DEM,Morrow,Precinct 3,3
+Jamie McLeod Skinner,U.S. House,2,DEM,Morrow,Precinct 3,6
+James (Jim) Crary,U.S. House,2,DEM,Morrow,Precinct 3,2
+Jen (Jenni) Neahring,U.S. House,2,DEM,Morrow,Precinct 3,9
+Write In,U.S. House,2,DEM,Morrow,Precinct 3,4
+Overvote,U.S. House,2,DEM,Morrow,Precinct 3,0
+Undervote,U.S. House,2,DEM,Morrow,Precinct 3,6
 Ed Jones,Governor,,DEM,Morrow,Precinct 3,12
 Kate Brown,Governor,,DEM,Morrow,Precinct 3,11
 Candace Neville,Governor,,DEM,Morrow,Precinct 3,4
@@ -140,10 +140,10 @@ Undervote,Governor,,DEM,Morrow,Precinct 3,3
 Write In,State House,57,DEM,Morrow,Precinct 3,3
 Overvote,State House,57,DEM,Morrow,Precinct 3,0
 Undervote,State House,57,DEM,Morrow,Precinct 3,32
-Mark R Roberts,U S House,2,IND,Morrow,Precinct 3,4
-Write In,U S House,2,IND,Morrow,Precinct 3,3
-Overvote,U S House,2,IND,Morrow,Precinct 3,0
-Undervote,U S House,2,IND,Morrow,Precinct 3,3
+Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 3,4
+Write In,U.S. House,2,IND,Morrow,Precinct 3,3
+Overvote,U.S. House,2,IND,Morrow,Precinct 3,0
+Undervote,U.S. House,2,IND,Morrow,Precinct 3,3
 Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 3,0
 Skye J Allen,Governor,,IND,Morrow,Precinct 3,1
 Patrick Starnes,Governor,,IND,Morrow,Precinct 3,2
@@ -153,12 +153,12 @@ Undervote,Governor,,IND,Morrow,Precinct 3,5
 Write In,State House,57,IND,Morrow,Precinct 3,3
 Overvote,State House,57,IND,Morrow,Precinct 3,0
 Undervote,State House,57,IND,Morrow,Precinct 3,7
-Randy Pollock,U S House,2,REP,Morrow,Precinct 3,11
-Greg Walden,U S House,2,REP,Morrow,Precinct 3,104
-Paul J Romero Jr,U S House,2,REP,Morrow,Precinct 3,13
-Write In,U S House,2,REP,Morrow,Precinct 3,0
-Overvote,U S House,2,REP,Morrow,Precinct 3,0
-Undervote,U S House,2,REP,Morrow,Precinct 3,9
+Randy Pollock,U.S. House,2,REP,Morrow,Precinct 3,11
+Greg Walden,U.S. House,2,REP,Morrow,Precinct 3,104
+Paul J Romero Jr,U.S. House,2,REP,Morrow,Precinct 3,13
+Write In,U.S. House,2,REP,Morrow,Precinct 3,0
+Overvote,U.S. House,2,REP,Morrow,Precinct 3,0
+Undervote,U.S. House,2,REP,Morrow,Precinct 3,9
 Knute Buehler,Governor,,REP,Morrow,Precinct 3,40
 Keenen W Bohach,Governor,,REP,Morrow,Precinct 3,0
 Greg C Wooldridge,Governor,,REP,Morrow,Precinct 3,24
@@ -176,22 +176,22 @@ Greg Smith,State House,57,REP,Morrow,Precinct 3,108
 Write In,State House,57,REP,Morrow,Precinct 3,3
 Overvote,State House,57,REP,Morrow,Precinct 3,0
 Undervote,State House,57,REP,Morrow,Precinct 3,26
-Lou Ogden,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 3,71
-Val Hoyle,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 3,38
-Jack Howard,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 3,31
-Write In,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 3,0
-Overvote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 3,0
-Undervote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 3,58
-Eric Burnette,U S House,2,DEM,Morrow,Precinct 4,2
-Michael Byrne,U S House,2,DEM,Morrow,Precinct 4,2
-Tim S White,U S House,2,DEM,Morrow,Precinct 4,4
-Raz Mason,U S House,2,DEM,Morrow,Precinct 4,4
-Jamie McLeod Skinner,U S House,2,DEM,Morrow,Precinct 4,6
-James (Jim) Crary,U S House,2,DEM,Morrow,Precinct 4,3
-Jen (Jenni) Neahring,U S House,2,DEM,Morrow,Precinct 4,5
-Write In,U S House,2,DEM,Morrow,Precinct 4,3
-Overvote,U S House,2,DEM,Morrow,Precinct 4,0
-Undervote,U S House,2,DEM,Morrow,Precinct 4,13
+Lou Ogden,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 3,71
+Val Hoyle,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 3,38
+Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 3,31
+Write In,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 3,0
+Overvote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 3,0
+Undervote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 3,58
+Eric Burnette,U.S. House,2,DEM,Morrow,Precinct 4,2
+Michael Byrne,U.S. House,2,DEM,Morrow,Precinct 4,2
+Tim S White,U.S. House,2,DEM,Morrow,Precinct 4,4
+Raz Mason,U.S. House,2,DEM,Morrow,Precinct 4,4
+Jamie McLeod Skinner,U.S. House,2,DEM,Morrow,Precinct 4,6
+James (Jim) Crary,U.S. House,2,DEM,Morrow,Precinct 4,3
+Jen (Jenni) Neahring,U.S. House,2,DEM,Morrow,Precinct 4,5
+Write In,U.S. House,2,DEM,Morrow,Precinct 4,3
+Overvote,U.S. House,2,DEM,Morrow,Precinct 4,0
+Undervote,U.S. House,2,DEM,Morrow,Precinct 4,13
 Ed Jones,Governor,,DEM,Morrow,Precinct 4,17
 Kate Brown,Governor,,DEM,Morrow,Precinct 4,15
 Candace Neville,Governor,,DEM,Morrow,Precinct 4,3
@@ -201,10 +201,10 @@ Undervote,Governor,,DEM,Morrow,Precinct 4,4
 Write In,State House,57,DEM,Morrow,Precinct 4,4
 Overvote,State House,57,DEM,Morrow,Precinct 4,0
 Undervote,State House,57,DEM,Morrow,Precinct 4,38
-Mark R Roberts,U S House,2,IND,Morrow,Precinct 4,4
-Write In,U S House,2,IND,Morrow,Precinct 4,2
-Overvote,U S House,2,IND,Morrow,Precinct 4,0
-Undervote,U S House,2,IND,Morrow,Precinct 4,3
+Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 4,4
+Write In,U.S. House,2,IND,Morrow,Precinct 4,2
+Overvote,U.S. House,2,IND,Morrow,Precinct 4,0
+Undervote,U.S. House,2,IND,Morrow,Precinct 4,3
 Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 4,0
 Skye J Allen,Governor,,IND,Morrow,Precinct 4,0
 Patrick Starnes,Governor,,IND,Morrow,Precinct 4,1
@@ -214,12 +214,12 @@ Undervote,Governor,,IND,Morrow,Precinct 4,5
 Write In,State House,57,IND,Morrow,Precinct 4,1
 Overvote,State House,57,IND,Morrow,Precinct 4,0
 Undervote,State House,57,IND,Morrow,Precinct 4,8
-Randy Pollock,U S House,2,REP,Morrow,Precinct 4,5
-Greg Walden,U S House,2,REP,Morrow,Precinct 4,115
-Paul J Romero Jr,U S House,2,REP,Morrow,Precinct 4,16
-Write In,U S House,2,REP,Morrow,Precinct 4,0
-Overvote,U S House,2,REP,Morrow,Precinct 4,0
-Undervote,U S House,2,REP,Morrow,Precinct 4,4
+Randy Pollock,U.S. House,2,REP,Morrow,Precinct 4,5
+Greg Walden,U.S. House,2,REP,Morrow,Precinct 4,115
+Paul J Romero Jr,U.S. House,2,REP,Morrow,Precinct 4,16
+Write In,U.S. House,2,REP,Morrow,Precinct 4,0
+Overvote,U.S. House,2,REP,Morrow,Precinct 4,0
+Undervote,U.S. House,2,REP,Morrow,Precinct 4,4
 Knute Buehler,Governor,,REP,Morrow,Precinct 4,47
 Keenen W Bohach,Governor,,REP,Morrow,Precinct 4,0
 Greg C Wooldridge,Governor,,REP,Morrow,Precinct 4,33
@@ -237,22 +237,22 @@ Greg Smith,State House,57,REP,Morrow,Precinct 4,110
 Write In,State House,57,REP,Morrow,Precinct 4,4
 Overvote,State House,57,REP,Morrow,Precinct 4,0
 Undervote,State House,57,REP,Morrow,Precinct 4,26
-Lou Ogden,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 4,76
-Val Hoyle,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 4,35
-Jack Howard,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 4,33
-Write In,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 4,0
-Overvote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 4,0
-Undervote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 4,74
-Eric Burnette,U S House,2,DEM,Morrow,Precinct 5,4
-Michael Byrne,U S House,2,DEM,Morrow,Precinct 5,10
-Tim S White,U S House,2,DEM,Morrow,Precinct 5,7
-Raz Mason,U S House,2,DEM,Morrow,Precinct 5,2
-Jamie McLeod Skinner,U S House,2,DEM,Morrow,Precinct 5,19
-James (Jim) Crary,U S House,2,DEM,Morrow,Precinct 5,6
-Jen (Jenni) Neahring,U S House,2,DEM,Morrow,Precinct 5,29
-Write In,U S House,2,DEM,Morrow,Precinct 5,4
-Overvote,U S House,2,DEM,Morrow,Precinct 5,0
-Undervote,U S House,2,DEM,Morrow,Precinct 5,51
+Lou Ogden,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 4,76
+Val Hoyle,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 4,35
+Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 4,33
+Write In,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 4,0
+Overvote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 4,0
+Undervote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 4,74
+Eric Burnette,U.S. House,2,DEM,Morrow,Precinct 5,4
+Michael Byrne,U.S. House,2,DEM,Morrow,Precinct 5,10
+Tim S White,U.S. House,2,DEM,Morrow,Precinct 5,7
+Raz Mason,U.S. House,2,DEM,Morrow,Precinct 5,2
+Jamie McLeod Skinner,U.S. House,2,DEM,Morrow,Precinct 5,19
+James (Jim) Crary,U.S. House,2,DEM,Morrow,Precinct 5,6
+Jen (Jenni) Neahring,U.S. House,2,DEM,Morrow,Precinct 5,29
+Write In,U.S. House,2,DEM,Morrow,Precinct 5,4
+Overvote,U.S. House,2,DEM,Morrow,Precinct 5,0
+Undervote,U.S. House,2,DEM,Morrow,Precinct 5,51
 Ed Jones,Governor,,DEM,Morrow,Precinct 5,31
 Kate Brown,Governor,,DEM,Morrow,Precinct 5,49
 Candace Neville,Governor,,DEM,Morrow,Precinct 5,15
@@ -262,10 +262,10 @@ Undervote,Governor,,DEM,Morrow,Precinct 5,25
 Write In,State House,57,DEM,Morrow,Precinct 5,15
 Overvote,State House,57,DEM,Morrow,Precinct 5,0
 Undervote,State House,57,DEM,Morrow,Precinct 5,117
-Mark R Roberts,U S House,2,IND,Morrow,Precinct 5,9
-Write In,U S House,2,IND,Morrow,Precinct 5,6
-Overvote,U S House,2,IND,Morrow,Precinct 5,0
-Undervote,U S House,2,IND,Morrow,Precinct 5,13
+Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 5,9
+Write In,U.S. House,2,IND,Morrow,Precinct 5,6
+Overvote,U.S. House,2,IND,Morrow,Precinct 5,0
+Undervote,U.S. House,2,IND,Morrow,Precinct 5,13
 Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 5,0
 Skye J Allen,Governor,,IND,Morrow,Precinct 5,2
 Patrick Starnes,Governor,,IND,Morrow,Precinct 5,6
@@ -275,12 +275,12 @@ Undervote,Governor,,IND,Morrow,Precinct 5,5
 Write In,State House,57,IND,Morrow,Precinct 5,7
 Overvote,State House,57,IND,Morrow,Precinct 5,0
 Undervote,State House,57,IND,Morrow,Precinct 5,21
-Randy Pollock,U S House,2,REP,Morrow,Precinct 5,22
-Greg Walden,U S House,2,REP,Morrow,Precinct 5,262
-Paul J Romero Jr,U S House,2,REP,Morrow,Precinct 5,52
-Write In,U S House,2,REP,Morrow,Precinct 5,0
-Overvote,U S House,2,REP,Morrow,Precinct 5,0
-Undervote,U S House,2,REP,Morrow,Precinct 5,22
+Randy Pollock,U.S. House,2,REP,Morrow,Precinct 5,22
+Greg Walden,U.S. House,2,REP,Morrow,Precinct 5,262
+Paul J Romero Jr,U.S. House,2,REP,Morrow,Precinct 5,52
+Write In,U.S. House,2,REP,Morrow,Precinct 5,0
+Overvote,U.S. House,2,REP,Morrow,Precinct 5,0
+Undervote,U.S. House,2,REP,Morrow,Precinct 5,22
 Knute Buehler,Governor,,REP,Morrow,Precinct 5,151
 Keenen W Bohach,Governor,,REP,Morrow,Precinct 5,0
 Greg C Wooldridge,Governor,,REP,Morrow,Precinct 5,48
@@ -298,9 +298,9 @@ Greg Smith,State House,57,REP,Morrow,Precinct 5,308
 Write In,State House,57,REP,Morrow,Precinct 5,1
 Overvote,State House,57,REP,Morrow,Precinct 5,0
 Undervote,State House,57,REP,Morrow,Precinct 5,49
-Lou Ogden,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 5,199
-Val Hoyle,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 5,115
-Jack Howard,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 5,79
-Write In,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 5,2
-Overvote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 5,0
-Undervote,Commissioner of the Bureau of Labor and Industry,,,Morrow,Precinct 5,204
+Lou Ogden,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 5,199
+Val Hoyle,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 5,115
+Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 5,79
+Write In,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 5,2
+Overvote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 5,0
+Undervote,Commissioner of the Bureau of Labor and Industries,,,Morrow,Precinct 5,204

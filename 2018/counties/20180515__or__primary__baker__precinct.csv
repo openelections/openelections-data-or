@@ -23,8 +23,8 @@ Baker,0001 01,Governor,,DEM,Candace Neville  ,18
 Baker,0001 01,Governor,,DEM,Write-ins,13
 Baker,0001 01,State Senate,30,DEM,Solea Kabakov ,71
 Baker,0001 01,State Senate,30,DEM,Write-ins,3
-Baker,0001 01,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0001 01,State Representative,60,DEM,Write-ins,9
+Baker,0001 01,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0001 01,State House,60,DEM,Write-ins,9
 Baker,0001 01,U.S. House,2,REP,Randy Pollock ,20
 Baker,0001 01,U.S. House,2,REP,Greg Walden  ,206
 Baker,0001 01,U.S. House,2,REP,Paul J Romero Jr ,54
@@ -42,20 +42,20 @@ Baker,0001 01,Governor,,REP,Sam Carpenter ,89
 Baker,0001 01,Governor,,REP,Write-ins,2
 Baker,0001 01,State Senate,30,REP,Cliff Bentz  ,235
 Baker,0001 01,State Senate,30,REP,Write-ins,1
-Baker,0001 01,State Representative,60,REP,Lynn P Findley  ,190
-Baker,0001 01,State Representative,60,REP,Write-ins,0
+Baker,0001 01,State House,60,REP,Lynn P Findley  ,190
+Baker,0001 01,State House,60,REP,Write-ins,0
 Baker,0001 01,U.S. House,2,IND,Mark R Roberts  ,12
 Baker,0001 01,U.S. House,2,IND,Write-ins,7
 Baker,0001 01,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0001 01,Governor,,IND,Skye J Allen  ,2
 Baker,0001 01,Governor,,IND,Patrick Starnes  ,5
 Baker,0001 01,Governor,,IND,Write-ins,12
-Baker,0001 01,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0001 01,State Representative,60,IND,Write-ins,6
-Baker,0001 01,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,162
-Baker,0001 01,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,115
-Baker,0001 01,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,98
-Baker,0001 01,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0001 01,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0001 01,State House,60,IND,Write-ins,6
+Baker,0001 01,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,162
+Baker,0001 01,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,115
+Baker,0001 01,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,98
+Baker,0001 01,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0001 01,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,147
 Baker,0001 01,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,230
 Baker,0001 01,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -94,8 +94,8 @@ Baker,0002 02,Governor,,DEM,Candace Neville  ,9
 Baker,0002 02,Governor,,DEM,Write-ins,9
 Baker,0002 02,State Senate,30,DEM,Solea Kabakov ,65
 Baker,0002 02,State Senate,30,DEM,Write-ins,3
-Baker,0002 02,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0002 02,State Representative,60,DEM,Write-ins,11
+Baker,0002 02,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0002 02,State House,60,DEM,Write-ins,11
 Baker,0002 02,U.S. House,2,REP,Randy Pollock ,18
 Baker,0002 02,U.S. House,2,REP,Greg Walden  ,169
 Baker,0002 02,U.S. House,2,REP,Paul J Romero Jr ,30
@@ -113,20 +113,20 @@ Baker,0002 02,Governor,,REP,Sam Carpenter ,62
 Baker,0002 02,Governor,,REP,Write-ins,1
 Baker,0002 02,State Senate,30,REP,Cliff Bentz  ,190
 Baker,0002 02,State Senate,30,REP,Write-ins,1
-Baker,0002 02,State Representative,60,REP,Lynn P Findley  ,166
-Baker,0002 02,State Representative,60,REP,Write-ins,1
+Baker,0002 02,State House,60,REP,Lynn P Findley  ,166
+Baker,0002 02,State House,60,REP,Write-ins,1
 Baker,0002 02,U.S. House,2,IND,Mark R Roberts  ,11
 Baker,0002 02,U.S. House,2,IND,Write-ins,4
 Baker,0002 02,Governor,,IND,Dan (Mr P) Pistoresi  ,2
 Baker,0002 02,Governor,,IND,Skye J Allen  ,3
 Baker,0002 02,Governor,,IND,Patrick Starnes  ,3
 Baker,0002 02,Governor,,IND,Write-ins,11
-Baker,0002 02,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0002 02,State Representative,60,IND,Write-ins,3
-Baker,0002 02,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,124
-Baker,0002 02,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,137
-Baker,0002 02,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,70
-Baker,0002 02,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0002 02,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0002 02,State House,60,IND,Write-ins,3
+Baker,0002 02,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,124
+Baker,0002 02,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,137
+Baker,0002 02,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,70
+Baker,0002 02,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0002 02,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,101
 Baker,0002 02,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,229
 Baker,0002 02,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -165,8 +165,8 @@ Baker,0003 03,Governor,,DEM,Candace Neville  ,17
 Baker,0003 03,Governor,,DEM,Write-ins,8
 Baker,0003 03,State Senate,30,DEM,Solea Kabakov ,69
 Baker,0003 03,State Senate,30,DEM,Write-ins,6
-Baker,0003 03,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0003 03,State Representative,60,DEM,Write-ins,16
+Baker,0003 03,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0003 03,State House,60,DEM,Write-ins,16
 Baker,0003 03,U.S. House,2,REP,Randy Pollock ,21
 Baker,0003 03,U.S. House,2,REP,Greg Walden  ,208
 Baker,0003 03,U.S. House,2,REP,Paul J Romero Jr ,55
@@ -184,20 +184,20 @@ Baker,0003 03,Governor,,REP,Sam Carpenter ,120
 Baker,0003 03,Governor,,REP,Write-ins,1
 Baker,0003 03,State Senate,30,REP,Cliff Bentz  ,241
 Baker,0003 03,State Senate,30,REP,Write-ins,5
-Baker,0003 03,State Representative,60,REP,Lynn P Findley  ,201
-Baker,0003 03,State Representative,60,REP,Write-ins,3
+Baker,0003 03,State House,60,REP,Lynn P Findley  ,201
+Baker,0003 03,State House,60,REP,Write-ins,3
 Baker,0003 03,U.S. House,2,IND,Mark R Roberts  ,5
 Baker,0003 03,U.S. House,2,IND,Write-ins,4
 Baker,0003 03,Governor,,IND,Dan (Mr P) Pistoresi  ,1
 Baker,0003 03,Governor,,IND,Skye J Allen  ,1
 Baker,0003 03,Governor,,IND,Patrick Starnes  ,2
 Baker,0003 03,Governor,,IND,Write-ins,5
-Baker,0003 03,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0003 03,State Representative,60,IND,Write-ins,1
-Baker,0003 03,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,160
-Baker,0003 03,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,114
-Baker,0003 03,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,93
-Baker,0003 03,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,1
+Baker,0003 03,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0003 03,State House,60,IND,Write-ins,1
+Baker,0003 03,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,160
+Baker,0003 03,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,114
+Baker,0003 03,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,93
+Baker,0003 03,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,1
 Baker,0003 03,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,153
 Baker,0003 03,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,213
 Baker,0003 03,"Judge of the Supreme Court, Position 3",,NP,Write-ins,2
@@ -236,8 +236,8 @@ Baker,0004 04,Governor,,DEM,Candace Neville  ,16
 Baker,0004 04,Governor,,DEM,Write-ins,11
 Baker,0004 04,State Senate,30,DEM,Solea Kabakov ,84
 Baker,0004 04,State Senate,30,DEM,Write-ins,5
-Baker,0004 04,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0004 04,State Representative,60,DEM,Write-ins,8
+Baker,0004 04,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0004 04,State House,60,DEM,Write-ins,8
 Baker,0004 04,U.S. House,2,REP,Randy Pollock ,11
 Baker,0004 04,U.S. House,2,REP,Greg Walden  ,268
 Baker,0004 04,U.S. House,2,REP,Paul J Romero Jr ,51
@@ -255,20 +255,20 @@ Baker,0004 04,Governor,,REP,Sam Carpenter ,118
 Baker,0004 04,Governor,,REP,Write-ins,1
 Baker,0004 04,State Senate,30,REP,Cliff Bentz  ,293
 Baker,0004 04,State Senate,30,REP,Write-ins,2
-Baker,0004 04,State Representative,60,REP,Lynn P Findley  ,243
-Baker,0004 04,State Representative,60,REP,Write-ins,1
+Baker,0004 04,State House,60,REP,Lynn P Findley  ,243
+Baker,0004 04,State House,60,REP,Write-ins,1
 Baker,0004 04,U.S. House,2,IND,Mark R Roberts  ,19
 Baker,0004 04,U.S. House,2,IND,Write-ins,4
 Baker,0004 04,Governor,,IND,Dan (Mr P) Pistoresi  ,1
 Baker,0004 04,Governor,,IND,Skye J Allen  ,1
 Baker,0004 04,Governor,,IND,Patrick Starnes  ,13
 Baker,0004 04,Governor,,IND,Write-ins,8
-Baker,0004 04,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0004 04,State Representative,60,IND,Write-ins,4
-Baker,0004 04,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,189
-Baker,0004 04,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,151
-Baker,0004 04,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,116
-Baker,0004 04,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0004 04,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0004 04,State House,60,IND,Write-ins,4
+Baker,0004 04,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,189
+Baker,0004 04,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,151
+Baker,0004 04,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,116
+Baker,0004 04,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0004 04,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,169
 Baker,0004 04,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,290
 Baker,0004 04,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -307,8 +307,8 @@ Baker,0005 05,Governor,,DEM,Candace Neville  ,24
 Baker,0005 05,Governor,,DEM,Write-ins,16
 Baker,0005 05,State Senate,30,DEM,Solea Kabakov ,83
 Baker,0005 05,State Senate,30,DEM,Write-ins,6
-Baker,0005 05,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0005 05,State Representative,60,DEM,Write-ins,10
+Baker,0005 05,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0005 05,State House,60,DEM,Write-ins,10
 Baker,0005 05,U.S. House,2,REP,Randy Pollock ,30
 Baker,0005 05,U.S. House,2,REP,Greg Walden  ,305
 Baker,0005 05,U.S. House,2,REP,Paul J Romero Jr ,60
@@ -326,20 +326,20 @@ Baker,0005 05,Governor,,REP,Sam Carpenter ,154
 Baker,0005 05,Governor,,REP,Write-ins,1
 Baker,0005 05,State Senate,30,REP,Cliff Bentz  ,360
 Baker,0005 05,State Senate,30,REP,Write-ins,1
-Baker,0005 05,State Representative,60,REP,Lynn P Findley  ,280
-Baker,0005 05,State Representative,60,REP,Write-ins,3
+Baker,0005 05,State House,60,REP,Lynn P Findley  ,280
+Baker,0005 05,State House,60,REP,Write-ins,3
 Baker,0005 05,U.S. House,2,IND,Mark R Roberts  ,15
 Baker,0005 05,U.S. House,2,IND,Write-ins,4
 Baker,0005 05,Governor,,IND,Dan (Mr P) Pistoresi  ,2
 Baker,0005 05,Governor,,IND,Skye J Allen  ,1
 Baker,0005 05,Governor,,IND,Patrick Starnes  ,3
 Baker,0005 05,Governor,,IND,Write-ins,14
-Baker,0005 05,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0005 05,State Representative,60,IND,Write-ins,4
-Baker,0005 05,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,224
-Baker,0005 05,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,135
-Baker,0005 05,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,135
-Baker,0005 05,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0005 05,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0005 05,State House,60,IND,Write-ins,4
+Baker,0005 05,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,224
+Baker,0005 05,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,135
+Baker,0005 05,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,135
+Baker,0005 05,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0005 05,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,205
 Baker,0005 05,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,279
 Baker,0005 05,"Judge of the Supreme Court, Position 3",,NP,Write-ins,1
@@ -378,8 +378,8 @@ Baker,0006 13,Governor,,DEM,Candace Neville  ,4
 Baker,0006 13,Governor,,DEM,Write-ins,3
 Baker,0006 13,State Senate,30,DEM,Solea Kabakov ,20
 Baker,0006 13,State Senate,30,DEM,Write-ins,1
-Baker,0006 13,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0006 13,State Representative,60,DEM,Write-ins,0
+Baker,0006 13,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0006 13,State House,60,DEM,Write-ins,0
 Baker,0006 13,U.S. House,2,REP,Randy Pollock ,14
 Baker,0006 13,U.S. House,2,REP,Greg Walden  ,268
 Baker,0006 13,U.S. House,2,REP,Paul J Romero Jr ,43
@@ -397,20 +397,20 @@ Baker,0006 13,Governor,,REP,Sam Carpenter ,139
 Baker,0006 13,Governor,,REP,Write-ins,1
 Baker,0006 13,State Senate,30,REP,Cliff Bentz  ,293
 Baker,0006 13,State Senate,30,REP,Write-ins,2
-Baker,0006 13,State Representative,60,REP,Lynn P Findley  ,224
-Baker,0006 13,State Representative,60,REP,Write-ins,2
+Baker,0006 13,State House,60,REP,Lynn P Findley  ,224
+Baker,0006 13,State House,60,REP,Write-ins,2
 Baker,0006 13,U.S. House,2,IND,Mark R Roberts  ,7
 Baker,0006 13,U.S. House,2,IND,Write-ins,6
 Baker,0006 13,Governor,,IND,Dan (Mr P) Pistoresi  ,1
 Baker,0006 13,Governor,,IND,Skye J Allen  ,0
 Baker,0006 13,Governor,,IND,Patrick Starnes  ,5
 Baker,0006 13,Governor,,IND,Write-ins,7
-Baker,0006 13,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0006 13,State Representative,60,IND,Write-ins,1
-Baker,0006 13,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,160
-Baker,0006 13,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,72
-Baker,0006 13,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,78
-Baker,0006 13,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,1
+Baker,0006 13,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0006 13,State House,60,IND,Write-ins,1
+Baker,0006 13,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,160
+Baker,0006 13,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,72
+Baker,0006 13,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,78
+Baker,0006 13,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,1
 Baker,0006 13,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,128
 Baker,0006 13,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,174
 Baker,0006 13,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -459,8 +459,8 @@ Baker,0007 14,Governor,,DEM,Candace Neville  ,0
 Baker,0007 14,Governor,,DEM,Write-ins,2
 Baker,0007 14,State Senate,30,DEM,Solea Kabakov ,1
 Baker,0007 14,State Senate,30,DEM,Write-ins,2
-Baker,0007 14,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0007 14,State Representative,60,DEM,Write-ins,0
+Baker,0007 14,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0007 14,State House,60,DEM,Write-ins,0
 Baker,0007 14,U.S. House,2,REP,Randy Pollock ,1
 Baker,0007 14,U.S. House,2,REP,Greg Walden  ,37
 Baker,0007 14,U.S. House,2,REP,Paul J Romero Jr ,10
@@ -478,20 +478,20 @@ Baker,0007 14,Governor,,REP,Sam Carpenter ,20
 Baker,0007 14,Governor,,REP,Write-ins,0
 Baker,0007 14,State Senate,30,REP,Cliff Bentz  ,42
 Baker,0007 14,State Senate,30,REP,Write-ins,2
-Baker,0007 14,State Representative,60,REP,Lynn P Findley  ,37
-Baker,0007 14,State Representative,60,REP,Write-ins,0
+Baker,0007 14,State House,60,REP,Lynn P Findley  ,37
+Baker,0007 14,State House,60,REP,Write-ins,0
 Baker,0007 14,U.S. House,2,IND,Mark R Roberts  ,0
 Baker,0007 14,U.S. House,2,IND,Write-ins,0
 Baker,0007 14,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0007 14,Governor,,IND,Skye J Allen  ,0
 Baker,0007 14,Governor,,IND,Patrick Starnes  ,0
 Baker,0007 14,Governor,,IND,Write-ins,0
-Baker,0007 14,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0007 14,State Representative,60,IND,Write-ins,0
-Baker,0007 14,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,25
-Baker,0007 14,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,10
-Baker,0007 14,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,9
-Baker,0007 14,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0007 14,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0007 14,State House,60,IND,Write-ins,0
+Baker,0007 14,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,25
+Baker,0007 14,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,10
+Baker,0007 14,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,9
+Baker,0007 14,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0007 14,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,22
 Baker,0007 14,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,20
 Baker,0007 14,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -540,8 +540,8 @@ Baker,0008 15,Governor,,DEM,Candace Neville  ,10
 Baker,0008 15,Governor,,DEM,Write-ins,2
 Baker,0008 15,State Senate,30,DEM,Solea Kabakov ,33
 Baker,0008 15,State Senate,30,DEM,Write-ins,1
-Baker,0008 15,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0008 15,State Representative,60,DEM,Write-ins,1
+Baker,0008 15,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0008 15,State House,60,DEM,Write-ins,1
 Baker,0008 15,U.S. House,2,REP,Randy Pollock ,10
 Baker,0008 15,U.S. House,2,REP,Greg Walden  ,114
 Baker,0008 15,U.S. House,2,REP,Paul J Romero Jr ,30
@@ -559,20 +559,20 @@ Baker,0008 15,Governor,,REP,Sam Carpenter ,104
 Baker,0008 15,Governor,,REP,Write-ins,0
 Baker,0008 15,State Senate,30,REP,Cliff Bentz  ,145
 Baker,0008 15,State Senate,30,REP,Write-ins,3
-Baker,0008 15,State Representative,60,REP,Lynn P Findley  ,124
-Baker,0008 15,State Representative,60,REP,Write-ins,0
+Baker,0008 15,State House,60,REP,Lynn P Findley  ,124
+Baker,0008 15,State House,60,REP,Write-ins,0
 Baker,0008 15,U.S. House,2,IND,Mark R Roberts  ,4
 Baker,0008 15,U.S. House,2,IND,Write-ins,1
 Baker,0008 15,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0008 15,Governor,,IND,Skye J Allen  ,5
 Baker,0008 15,Governor,,IND,Patrick Starnes  ,2
 Baker,0008 15,Governor,,IND,Write-ins,1
-Baker,0008 15,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0008 15,State Representative,60,IND,Write-ins,0
-Baker,0008 15,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,83
-Baker,0008 15,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,57
-Baker,0008 15,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,46
-Baker,0008 15,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0008 15,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0008 15,State House,60,IND,Write-ins,0
+Baker,0008 15,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,83
+Baker,0008 15,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,57
+Baker,0008 15,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,46
+Baker,0008 15,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0008 15,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,72
 Baker,0008 15,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,123
 Baker,0008 15,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -621,8 +621,8 @@ Baker,0009 17,Governor,,DEM,Candace Neville  ,4
 Baker,0009 17,Governor,,DEM,Write-ins,3
 Baker,0009 17,State Senate,30,DEM,Solea Kabakov ,27
 Baker,0009 17,State Senate,30,DEM,Write-ins,2
-Baker,0009 17,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0009 17,State Representative,60,DEM,Write-ins,1
+Baker,0009 17,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0009 17,State House,60,DEM,Write-ins,1
 Baker,0009 17,U.S. House,2,REP,Randy Pollock ,22
 Baker,0009 17,U.S. House,2,REP,Greg Walden  ,183
 Baker,0009 17,U.S. House,2,REP,Paul J Romero Jr ,22
@@ -640,20 +640,20 @@ Baker,0009 17,Governor,,REP,Sam Carpenter ,81
 Baker,0009 17,Governor,,REP,Write-ins,0
 Baker,0009 17,State Senate,30,REP,Cliff Bentz  ,211
 Baker,0009 17,State Senate,30,REP,Write-ins,0
-Baker,0009 17,State Representative,60,REP,Lynn P Findley  ,167
-Baker,0009 17,State Representative,60,REP,Write-ins,0
+Baker,0009 17,State House,60,REP,Lynn P Findley  ,167
+Baker,0009 17,State House,60,REP,Write-ins,0
 Baker,0009 17,U.S. House,2,IND,Mark R Roberts  ,5
 Baker,0009 17,U.S. House,2,IND,Write-ins,0
 Baker,0009 17,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0009 17,Governor,,IND,Skye J Allen  ,1
 Baker,0009 17,Governor,,IND,Patrick Starnes  ,2
 Baker,0009 17,Governor,,IND,Write-ins,4
-Baker,0009 17,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0009 17,State Representative,60,IND,Write-ins,0
-Baker,0009 17,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,121
-Baker,0009 17,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,60
-Baker,0009 17,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,62
-Baker,0009 17,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0009 17,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0009 17,State House,60,IND,Write-ins,0
+Baker,0009 17,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,121
+Baker,0009 17,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,60
+Baker,0009 17,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,62
+Baker,0009 17,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0009 17,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,100
 Baker,0009 17,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,133
 Baker,0009 17,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -702,8 +702,8 @@ Baker,0010 18,Governor,,DEM,Candace Neville  ,0
 Baker,0010 18,Governor,,DEM,Write-ins,0
 Baker,0010 18,State Senate,30,DEM,Solea Kabakov ,0
 Baker,0010 18,State Senate,30,DEM,Write-ins,0
-Baker,0010 18,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0010 18,State Representative,60,DEM,Write-ins,0
+Baker,0010 18,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0010 18,State House,60,DEM,Write-ins,0
 Baker,0010 18,U.S. House,2,REP,Randy Pollock ,1
 Baker,0010 18,U.S. House,2,REP,Greg Walden  ,26
 Baker,0010 18,U.S. House,2,REP,Paul J Romero Jr ,13
@@ -721,20 +721,20 @@ Baker,0010 18,Governor,,REP,Sam Carpenter ,20
 Baker,0010 18,Governor,,REP,Write-ins,0
 Baker,0010 18,State Senate,30,REP,Cliff Bentz  ,31
 Baker,0010 18,State Senate,30,REP,Write-ins,2
-Baker,0010 18,State Representative,60,REP,Lynn P Findley  ,21
-Baker,0010 18,State Representative,60,REP,Write-ins,1
+Baker,0010 18,State House,60,REP,Lynn P Findley  ,21
+Baker,0010 18,State House,60,REP,Write-ins,1
 Baker,0010 18,U.S. House,2,IND,Mark R Roberts  ,0
 Baker,0010 18,U.S. House,2,IND,Write-ins,0
 Baker,0010 18,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0010 18,Governor,,IND,Skye J Allen  ,0
 Baker,0010 18,Governor,,IND,Patrick Starnes  ,0
 Baker,0010 18,Governor,,IND,Write-ins,0
-Baker,0010 18,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0010 18,State Representative,60,IND,Write-ins,0
-Baker,0010 18,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,18
-Baker,0010 18,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,4
-Baker,0010 18,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,1
-Baker,0010 18,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0010 18,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0010 18,State House,60,IND,Write-ins,0
+Baker,0010 18,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,18
+Baker,0010 18,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,4
+Baker,0010 18,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,1
+Baker,0010 18,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0010 18,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,16
 Baker,0010 18,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,5
 Baker,0010 18,"Judge of the Supreme Court, Position 3",,NP,Write-ins,1
@@ -783,8 +783,8 @@ Baker,0011 19,Governor,,DEM,Candace Neville  ,5
 Baker,0011 19,Governor,,DEM,Write-ins,1
 Baker,0011 19,State Senate,30,DEM,Solea Kabakov ,18
 Baker,0011 19,State Senate,30,DEM,Write-ins,0
-Baker,0011 19,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0011 19,State Representative,60,DEM,Write-ins,2
+Baker,0011 19,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0011 19,State House,60,DEM,Write-ins,2
 Baker,0011 19,U.S. House,2,REP,Randy Pollock ,5
 Baker,0011 19,U.S. House,2,REP,Greg Walden  ,24
 Baker,0011 19,U.S. House,2,REP,Paul J Romero Jr ,3
@@ -802,20 +802,20 @@ Baker,0011 19,Governor,,REP,Sam Carpenter ,19
 Baker,0011 19,Governor,,REP,Write-ins,0
 Baker,0011 19,State Senate,30,REP,Cliff Bentz  ,31
 Baker,0011 19,State Senate,30,REP,Write-ins,1
-Baker,0011 19,State Representative,60,REP,Lynn P Findley  ,28
-Baker,0011 19,State Representative,60,REP,Write-ins,0
+Baker,0011 19,State House,60,REP,Lynn P Findley  ,28
+Baker,0011 19,State House,60,REP,Write-ins,0
 Baker,0011 19,U.S. House,2,IND,Mark R Roberts  ,7
 Baker,0011 19,U.S. House,2,IND,Write-ins,2
 Baker,0011 19,Governor,,IND,Dan (Mr P) Pistoresi  ,2
 Baker,0011 19,Governor,,IND,Skye J Allen  ,1
 Baker,0011 19,Governor,,IND,Patrick Starnes  ,2
 Baker,0011 19,Governor,,IND,Write-ins,6
-Baker,0011 19,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0011 19,State Representative,60,IND,Write-ins,1
-Baker,0011 19,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,25
-Baker,0011 19,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,35
-Baker,0011 19,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,19
-Baker,0011 19,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0011 19,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0011 19,State House,60,IND,Write-ins,1
+Baker,0011 19,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,25
+Baker,0011 19,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,35
+Baker,0011 19,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,19
+Baker,0011 19,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0011 19,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,29
 Baker,0011 19,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,51
 Baker,0011 19,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -864,8 +864,8 @@ Baker,0012 20,Governor,,DEM,Candace Neville  ,1
 Baker,0012 20,Governor,,DEM,Write-ins,0
 Baker,0012 20,State Senate,30,DEM,Solea Kabakov ,4
 Baker,0012 20,State Senate,30,DEM,Write-ins,0
-Baker,0012 20,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0012 20,State Representative,60,DEM,Write-ins,0
+Baker,0012 20,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0012 20,State House,60,DEM,Write-ins,0
 Baker,0012 20,U.S. House,2,REP,Randy Pollock ,3
 Baker,0012 20,U.S. House,2,REP,Greg Walden  ,8
 Baker,0012 20,U.S. House,2,REP,Paul J Romero Jr ,0
@@ -883,20 +883,20 @@ Baker,0012 20,Governor,,REP,Sam Carpenter ,4
 Baker,0012 20,Governor,,REP,Write-ins,0
 Baker,0012 20,State Senate,30,REP,Cliff Bentz  ,9
 Baker,0012 20,State Senate,30,REP,Write-ins,0
-Baker,0012 20,State Representative,60,REP,Lynn P Findley  ,10
-Baker,0012 20,State Representative,60,REP,Write-ins,0
+Baker,0012 20,State House,60,REP,Lynn P Findley  ,10
+Baker,0012 20,State House,60,REP,Write-ins,0
 Baker,0012 20,U.S. House,2,IND,Mark R Roberts  ,1
 Baker,0012 20,U.S. House,2,IND,Write-ins,0
 Baker,0012 20,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0012 20,Governor,,IND,Skye J Allen  ,0
 Baker,0012 20,Governor,,IND,Patrick Starnes  ,0
 Baker,0012 20,Governor,,IND,Write-ins,0
-Baker,0012 20,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0012 20,State Representative,60,IND,Write-ins,0
-Baker,0012 20,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,4
-Baker,0012 20,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,9
-Baker,0012 20,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,0
-Baker,0012 20,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0012 20,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0012 20,State House,60,IND,Write-ins,0
+Baker,0012 20,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,4
+Baker,0012 20,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,9
+Baker,0012 20,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,0
+Baker,0012 20,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0012 20,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,4
 Baker,0012 20,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,13
 Baker,0012 20,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -945,8 +945,8 @@ Baker,0013 21,Governor,,DEM,Candace Neville  ,2
 Baker,0013 21,Governor,,DEM,Write-ins,0
 Baker,0013 21,State Senate,30,DEM,Solea Kabakov ,8
 Baker,0013 21,State Senate,30,DEM,Write-ins,0
-Baker,0013 21,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0013 21,State Representative,60,DEM,Write-ins,0
+Baker,0013 21,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0013 21,State House,60,DEM,Write-ins,0
 Baker,0013 21,U.S. House,2,REP,Randy Pollock ,9
 Baker,0013 21,U.S. House,2,REP,Greg Walden  ,55
 Baker,0013 21,U.S. House,2,REP,Paul J Romero Jr ,7
@@ -964,20 +964,20 @@ Baker,0013 21,Governor,,REP,Sam Carpenter ,36
 Baker,0013 21,Governor,,REP,Write-ins,0
 Baker,0013 21,State Senate,30,REP,Cliff Bentz  ,64
 Baker,0013 21,State Senate,30,REP,Write-ins,0
-Baker,0013 21,State Representative,60,REP,Lynn P Findley  ,47
-Baker,0013 21,State Representative,60,REP,Write-ins,0
+Baker,0013 21,State House,60,REP,Lynn P Findley  ,47
+Baker,0013 21,State House,60,REP,Write-ins,0
 Baker,0013 21,U.S. House,2,IND,Mark R Roberts  ,0
 Baker,0013 21,U.S. House,2,IND,Write-ins,1
 Baker,0013 21,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0013 21,Governor,,IND,Skye J Allen  ,0
 Baker,0013 21,Governor,,IND,Patrick Starnes  ,0
 Baker,0013 21,Governor,,IND,Write-ins,3
-Baker,0013 21,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0013 21,State Representative,60,IND,Write-ins,1
-Baker,0013 21,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,26
-Baker,0013 21,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,12
-Baker,0013 21,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,20
-Baker,0013 21,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0013 21,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0013 21,State House,60,IND,Write-ins,1
+Baker,0013 21,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,26
+Baker,0013 21,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,12
+Baker,0013 21,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,20
+Baker,0013 21,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0013 21,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,28
 Baker,0013 21,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,30
 Baker,0013 21,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -1026,8 +1026,8 @@ Baker,0014 22,Governor,,DEM,Candace Neville  ,7
 Baker,0014 22,Governor,,DEM,Write-ins,1
 Baker,0014 22,State Senate,30,DEM,Solea Kabakov ,64
 Baker,0014 22,State Senate,30,DEM,Write-ins,2
-Baker,0014 22,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0014 22,State Representative,60,DEM,Write-ins,6
+Baker,0014 22,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0014 22,State House,60,DEM,Write-ins,6
 Baker,0014 22,U.S. House,2,REP,Randy Pollock ,16
 Baker,0014 22,U.S. House,2,REP,Greg Walden  ,90
 Baker,0014 22,U.S. House,2,REP,Paul J Romero Jr ,41
@@ -1045,20 +1045,20 @@ Baker,0014 22,Governor,,REP,Sam Carpenter ,66
 Baker,0014 22,Governor,,REP,Write-ins,3
 Baker,0014 22,State Senate,30,REP,Cliff Bentz  ,122
 Baker,0014 22,State Senate,30,REP,Write-ins,6
-Baker,0014 22,State Representative,60,REP,Lynn P Findley  ,102
-Baker,0014 22,State Representative,60,REP,Write-ins,4
+Baker,0014 22,State House,60,REP,Lynn P Findley  ,102
+Baker,0014 22,State House,60,REP,Write-ins,4
 Baker,0014 22,U.S. House,2,IND,Mark R Roberts  ,6
 Baker,0014 22,U.S. House,2,IND,Write-ins,2
 Baker,0014 22,Governor,,IND,Dan (Mr P) Pistoresi  ,2
 Baker,0014 22,Governor,,IND,Skye J Allen  ,1
 Baker,0014 22,Governor,,IND,Patrick Starnes  ,4
 Baker,0014 22,Governor,,IND,Write-ins,5
-Baker,0014 22,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0014 22,State Representative,60,IND,Write-ins,1
-Baker,0014 22,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,94
-Baker,0014 22,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,108
-Baker,0014 22,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,31
-Baker,0014 22,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,1
+Baker,0014 22,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0014 22,State House,60,IND,Write-ins,1
+Baker,0014 22,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,94
+Baker,0014 22,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,108
+Baker,0014 22,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,31
+Baker,0014 22,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,1
 Baker,0014 22,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,78
 Baker,0014 22,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,158
 Baker,0014 22,"Judge of the Supreme Court, Position 3",,NP,Write-ins,1
@@ -1107,8 +1107,8 @@ Baker,0015 24,Governor,,DEM,Candace Neville  ,8
 Baker,0015 24,Governor,,DEM,Write-ins,2
 Baker,0015 24,State Senate,30,DEM,Solea Kabakov ,54
 Baker,0015 24,State Senate,30,DEM,Write-ins,1
-Baker,0015 24,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0015 24,State Representative,60,DEM,Write-ins,5
+Baker,0015 24,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0015 24,State House,60,DEM,Write-ins,5
 Baker,0015 24,U.S. House,2,REP,Randy Pollock ,13
 Baker,0015 24,U.S. House,2,REP,Greg Walden  ,275
 Baker,0015 24,U.S. House,2,REP,Paul J Romero Jr ,39
@@ -1126,20 +1126,20 @@ Baker,0015 24,Governor,,REP,Sam Carpenter ,102
 Baker,0015 24,Governor,,REP,Write-ins,4
 Baker,0015 24,State Senate,30,REP,Cliff Bentz  ,287
 Baker,0015 24,State Senate,30,REP,Write-ins,3
-Baker,0015 24,State Representative,60,REP,Lynn P Findley  ,232
-Baker,0015 24,State Representative,60,REP,Write-ins,3
+Baker,0015 24,State House,60,REP,Lynn P Findley  ,232
+Baker,0015 24,State House,60,REP,Write-ins,3
 Baker,0015 24,U.S. House,2,IND,Mark R Roberts  ,7
 Baker,0015 24,U.S. House,2,IND,Write-ins,1
 Baker,0015 24,Governor,,IND,Dan (Mr P) Pistoresi  ,1
 Baker,0015 24,Governor,,IND,Skye J Allen  ,0
 Baker,0015 24,Governor,,IND,Patrick Starnes  ,6
 Baker,0015 24,Governor,,IND,Write-ins,6
-Baker,0015 24,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0015 24,State Representative,60,IND,Write-ins,2
-Baker,0015 24,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,172
-Baker,0015 24,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,102
-Baker,0015 24,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,71
-Baker,0015 24,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,2
+Baker,0015 24,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0015 24,State House,60,IND,Write-ins,2
+Baker,0015 24,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,172
+Baker,0015 24,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,102
+Baker,0015 24,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,71
+Baker,0015 24,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,2
 Baker,0015 24,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,120
 Baker,0015 24,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,238
 Baker,0015 24,"Judge of the Supreme Court, Position 3",,NP,Write-ins,2
@@ -1188,8 +1188,8 @@ Baker,0016 25,Governor,,DEM,Candace Neville  ,4
 Baker,0016 25,Governor,,DEM,Write-ins,4
 Baker,0016 25,State Senate,30,DEM,Solea Kabakov ,17
 Baker,0016 25,State Senate,30,DEM,Write-ins,0
-Baker,0016 25,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0016 25,State Representative,60,DEM,Write-ins,2
+Baker,0016 25,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0016 25,State House,60,DEM,Write-ins,2
 Baker,0016 25,U.S. House,2,REP,Randy Pollock ,5
 Baker,0016 25,U.S. House,2,REP,Greg Walden  ,65
 Baker,0016 25,U.S. House,2,REP,Paul J Romero Jr ,18
@@ -1207,20 +1207,20 @@ Baker,0016 25,Governor,,REP,Sam Carpenter ,46
 Baker,0016 25,Governor,,REP,Write-ins,0
 Baker,0016 25,State Senate,30,REP,Cliff Bentz  ,76
 Baker,0016 25,State Senate,30,REP,Write-ins,1
-Baker,0016 25,State Representative,60,REP,Lynn P Findley  ,54
-Baker,0016 25,State Representative,60,REP,Write-ins,1
+Baker,0016 25,State House,60,REP,Lynn P Findley  ,54
+Baker,0016 25,State House,60,REP,Write-ins,1
 Baker,0016 25,U.S. House,2,IND,Mark R Roberts  ,4
 Baker,0016 25,U.S. House,2,IND,Write-ins,2
 Baker,0016 25,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0016 25,Governor,,IND,Skye J Allen  ,1
 Baker,0016 25,Governor,,IND,Patrick Starnes  ,1
 Baker,0016 25,Governor,,IND,Write-ins,5
-Baker,0016 25,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0016 25,State Representative,60,IND,Write-ins,1
-Baker,0016 25,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,54
-Baker,0016 25,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,20
-Baker,0016 25,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,22
-Baker,0016 25,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0016 25,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0016 25,State House,60,IND,Write-ins,1
+Baker,0016 25,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,54
+Baker,0016 25,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,20
+Baker,0016 25,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,22
+Baker,0016 25,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0016 25,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,42
 Baker,0016 25,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,61
 Baker,0016 25,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0
@@ -1269,8 +1269,8 @@ Baker,0017 26,Governor,,DEM,Candace Neville  ,1
 Baker,0017 26,Governor,,DEM,Write-ins,1
 Baker,0017 26,State Senate,30,DEM,Solea Kabakov ,1
 Baker,0017 26,State Senate,30,DEM,Write-ins,1
-Baker,0017 26,State Representative,60,DEM,NO CANDIDATE FILED   ,0
-Baker,0017 26,State Representative,60,DEM,Write-ins,1
+Baker,0017 26,State House,60,DEM,NO CANDIDATE FILED   ,0
+Baker,0017 26,State House,60,DEM,Write-ins,1
 Baker,0017 26,U.S. House,2,REP,Randy Pollock ,1
 Baker,0017 26,U.S. House,2,REP,Greg Walden  ,36
 Baker,0017 26,U.S. House,2,REP,Paul J Romero Jr ,4
@@ -1288,20 +1288,20 @@ Baker,0017 26,Governor,,REP,Sam Carpenter ,27
 Baker,0017 26,Governor,,REP,Write-ins,0
 Baker,0017 26,State Senate,30,REP,Cliff Bentz  ,41
 Baker,0017 26,State Senate,30,REP,Write-ins,0
-Baker,0017 26,State Representative,60,REP,Lynn P Findley  ,35
-Baker,0017 26,State Representative,60,REP,Write-ins,1
+Baker,0017 26,State House,60,REP,Lynn P Findley  ,35
+Baker,0017 26,State House,60,REP,Write-ins,1
 Baker,0017 26,U.S. House,2,IND,Mark R Roberts  ,0
 Baker,0017 26,U.S. House,2,IND,Write-ins,0
 Baker,0017 26,Governor,,IND,Dan (Mr P) Pistoresi  ,0
 Baker,0017 26,Governor,,IND,Skye J Allen  ,0
 Baker,0017 26,Governor,,IND,Patrick Starnes  ,0
 Baker,0017 26,Governor,,IND,Write-ins,0
-Baker,0017 26,State Representative,60,IND,NO CANDIDATE FILED   ,0
-Baker,0017 26,State Representative,60,IND,Write-ins,0
-Baker,0017 26,Comm. of the Bureau of Labor and Ind.,,NP,Lou Ogden    ,22
-Baker,0017 26,Comm. of the Bureau of Labor and Ind.,,NP,Val Hoyle    ,4
-Baker,0017 26,Comm. of the Bureau of Labor and Ind.,,NP,Jack Howard  ,7
-Baker,0017 26,Comm. of the Bureau of Labor and Ind.,,NP,Write-ins,0
+Baker,0017 26,State House,60,IND,NO CANDIDATE FILED   ,0
+Baker,0017 26,State House,60,IND,Write-ins,0
+Baker,0017 26,Commissioner of the Bureau of Labor and Industries,,NP,Lou Ogden    ,22
+Baker,0017 26,Commissioner of the Bureau of Labor and Industries,,NP,Val Hoyle    ,4
+Baker,0017 26,Commissioner of the Bureau of Labor and Industries,,NP,Jack Howard  ,7
+Baker,0017 26,Commissioner of the Bureau of Labor and Industries,,NP,Write-ins,0
 Baker,0017 26,"Judge of the Supreme Court, Position 3",,NP,Van Pounds   ,18
 Baker,0017 26,"Judge of the Supreme Court, Position 3",,NP,Meagan A Flynn  ,15
 Baker,0017 26,"Judge of the Supreme Court, Position 3",,NP,Write-ins,0

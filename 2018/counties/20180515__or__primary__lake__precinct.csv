@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,candidate,precinct,office,district,party,votes
 Lake,Eric Burnette,SILVER LAKE P-1,U.S. House,2,DEM,4
 Lake,Eric Burnette,SUMMER LAKE P-2,U.S. House,2,DEM,1
 Lake,Eric Burnette,PAISLEY P-3,U.S. House,2,DEM,2
@@ -319,138 +319,138 @@ Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,Governor,,DEM,0
 Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,Governor,,DEM,3
 Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,Governor,,DEM,4
 Lake,Under Votes,TOTAL,Governor,,DEM,35
-Lake,Solea Kabakov,CROOKED CREEK P-4,State Representative,30,DEM,3
-Lake,Solea Kabakov,NORTH WARNER P-5,State Representative,30,DEM,1
-Lake,Solea Kabakov,SOUTH WARNER P-6,State Representative,30,DEM,0
-Lake,Solea Kabakov,COGSWELL CREEK P-11,State Representative,30,DEM,3
-Lake,Solea Kabakov,NEW PINE CREEK P-16,State Representative,30,DEM,6
-Lake,Solea Kabakov,VALLEY FALLS PREC.  P-18 ,State Representative,30,DEM,0
-Lake,Solea Kabakov,TOTAL,State Representative,30,DEM,13
-Lake,Write-In,CROOKED CREEK P-4,State Representative,30,DEM,1
-Lake,Write-In,NORTH WARNER P-5,State Representative,30,DEM,0
-Lake,Write-In,SOUTH WARNER P-6,State Representative,30,DEM,0
-Lake,Write-In,COGSWELL CREEK P-11,State Representative,30,DEM,0
-Lake,Write-In,NEW PINE CREEK P-16,State Representative,30,DEM,0
-Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State Representative,30,DEM,0
-Lake,Write-In,TOTAL,State Representative,30,DEM,1
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,30,DEM,0
-Lake,Over Votes,NORTH WARNER P-5,State Representative,30,DEM,0
-Lake,Over Votes,SOUTH WARNER P-6,State Representative,30,DEM,0
-Lake,Over Votes,COGSWELL CREEK P-11,State Representative,30,DEM,0
-Lake,Over Votes,NEW PINE CREEK P-16,State Representative,30,DEM,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State Representative,30,DEM,0
-Lake,Over Votes,TOTAL,State Representative,30,DEM,0
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,30,DEM,6
-Lake,Under Votes,NORTH WARNER P-5,State Representative,30,DEM,0
-Lake,Under Votes,SOUTH WARNER P-6,State Representative,30,DEM,0
-Lake,Under Votes,COGSWELL CREEK P-11,State Representative,30,DEM,3
-Lake,Under Votes,NEW PINE CREEK P-16,State Representative,30,DEM,5
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State Representative,30,DEM,2
-Lake,Under Votes,TOTAL,State Representative,30,DEM,16
-Lake,Karen Rippberger,SILVER LAKE P-1,State Representative,55,DEM,8
-Lake,Karen Rippberger,SUMMER LAKE P-2,State Representative,55,DEM,4
-Lake,Karen Rippberger,PAISLEY P-3,State Representative,55,DEM,9
-Lake,Karen Rippberger,CROOKED CREEK P-4,State Representative,55,DEM,0
-Lake,Karen Rippberger,CHRISTMAS VALLEY P-13,State Representative,55,DEM,42
-Lake,Karen Rippberger,FORT ROCK P-14,State Representative,55,DEM,5
-Lake,Karen Rippberger,VALLEY FALLS PREC.  P-18 ,State Representative,55,DEM,0
-Lake,Karen Rippberger,TOTAL,State Representative,55,DEM,68
-Lake,Write-In,SILVER LAKE P-1,State Representative,55,DEM,0
-Lake,Write-In,SUMMER LAKE P-2,State Representative,55,DEM,0
-Lake,Write-In,PAISLEY P-3,State Representative,55,DEM,1
-Lake,Write-In,CROOKED CREEK P-4,State Representative,55,DEM,0
-Lake,Write-In,CHRISTMAS VALLEY P-13,State Representative,55,DEM,2
-Lake,Write-In,FORT ROCK P-14,State Representative,55,DEM,0
-Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State Representative,55,DEM,0
-Lake,Write-In,TOTAL,State Representative,55,DEM,3
-Lake,Over Votes,SILVER LAKE P-1,State Representative,55,DEM,0
-Lake,Over Votes,SUMMER LAKE P-2,State Representative,55,DEM,0
-Lake,Over Votes,PAISLEY P-3,State Representative,55,DEM,0
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,55,DEM,0
-Lake,Over Votes,CHRISTMAS VALLEY P-13,State Representative,55,DEM,0
-Lake,Over Votes,FORT ROCK P-14,State Representative,55,DEM,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State Representative,55,DEM,0
-Lake,Over Votes,TOTAL,State Representative,55,DEM,0
-Lake,Under Votes,SILVER LAKE P-1,State Representative,55,DEM,5
-Lake,Under Votes,SUMMER LAKE P-2,State Representative,55,DEM,8
-Lake,Under Votes,PAISLEY P-3,State Representative,55,DEM,8
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,55,DEM,2
-Lake,Under Votes,CHRISTMAS VALLEY P-13,State Representative,55,DEM,28
-Lake,Under Votes,FORT ROCK P-14,State Representative,55,DEM,9
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State Representative,55,DEM,0
-Lake,Under Votes,TOTAL,State Representative,55,DEM,60
-Lake,Taylor Tupper,CROOKED CREEK P-4,State Representative,56,DEM,1
-Lake,Taylor Tupper,NORTH LAKEVIEW P-7,State Representative,56,DEM,13
-Lake,Taylor Tupper,SOUTH LAKEVIEW P-8,State Representative,56,DEM,16
-Lake,Taylor Tupper,FREMONT P-9,State Representative,56,DEM,18
-Lake,Taylor Tupper,GOOSE LAKE P-10,State Representative,56,DEM,5
-Lake,Taylor Tupper,COGSWELL CREEK P-11,State Representative,56,DEM,21
-Lake,Taylor Tupper,THOM.CRK. WESTSIDE P-12 ,State Representative,56,DEM,31
-Lake,Taylor Tupper,WEST LAKEVIEW P-15,State Representative,56,DEM,10
-Lake,Taylor Tupper,NO. CENTRAL LKVW.  P-20 ,State Representative,56,DEM,14
-Lake,Taylor Tupper,SO. CENTRAL LKVW.   P-21 ,State Representative,56,DEM,21
-Lake,Taylor Tupper,TOTAL,State Representative,56,DEM,150
-Lake,Write-In,CROOKED CREEK P-4,State Representative,56,DEM,0
-Lake,Write-In,NORTH LAKEVIEW P-7,State Representative,56,DEM,1
-Lake,Write-In,SOUTH LAKEVIEW P-8,State Representative,56,DEM,0
-Lake,Write-In,FREMONT P-9,State Representative,56,DEM,1
-Lake,Write-In,GOOSE LAKE P-10,State Representative,56,DEM,0
-Lake,Write-In,COGSWELL CREEK P-11,State Representative,56,DEM,0
-Lake,Write-In,THOM.CRK. WESTSIDE P-12 ,State Representative,56,DEM,1
-Lake,Write-In,WEST LAKEVIEW P-15,State Representative,56,DEM,3
-Lake,Write-In,NO. CENTRAL LKVW.  P-20 ,State Representative,56,DEM,0
-Lake,Write-In,SO. CENTRAL LKVW.   P-21 ,State Representative,56,DEM,0
-Lake,Write-In,TOTAL,State Representative,56,DEM,6
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,56,DEM,0
-Lake,Over Votes,NORTH LAKEVIEW P-7,State Representative,56,DEM,0
-Lake,Over Votes,SOUTH LAKEVIEW P-8,State Representative,56,DEM,0
-Lake,Over Votes,FREMONT P-9,State Representative,56,DEM,0
-Lake,Over Votes,GOOSE LAKE P-10,State Representative,56,DEM,0
-Lake,Over Votes,COGSWELL CREEK P-11,State Representative,56,DEM,0
-Lake,Over Votes,THOM.CRK. WESTSIDE P-12 ,State Representative,56,DEM,0
-Lake,Over Votes,WEST LAKEVIEW P-15,State Representative,56,DEM,0
-Lake,Over Votes,NO. CENTRAL LKVW.  P-20 ,State Representative,56,DEM,0
-Lake,Over Votes,SO. CENTRAL LKVW.   P-21 ,State Representative,56,DEM,0
-Lake,Over Votes,TOTAL,State Representative,56,DEM,0
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,56,DEM,6
-Lake,Under Votes,NORTH LAKEVIEW P-7,State Representative,56,DEM,5
-Lake,Under Votes,SOUTH LAKEVIEW P-8,State Representative,56,DEM,13
-Lake,Under Votes,FREMONT P-9,State Representative,56,DEM,10
-Lake,Under Votes,GOOSE LAKE P-10,State Representative,56,DEM,5
-Lake,Under Votes,COGSWELL CREEK P-11,State Representative,56,DEM,8
-Lake,Under Votes,THOM.CRK. WESTSIDE P-12 ,State Representative,56,DEM,16
-Lake,Under Votes,WEST LAKEVIEW P-15,State Representative,56,DEM,3
-Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,State Representative,56,DEM,8
-Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,State Representative,56,DEM,10
-Lake,Under Votes,TOTAL,State Representative,56,DEM,84
-Lake,Lynn Findley-Write In,CROOKED CREEK P-4,State Representative,60,DEM,1
-Lake,Lynn Findley-Write In,NORTH WARNER P-5,State Representative,60,DEM,1
-Lake,Lynn Findley-Write In,SOUTH WARNER P-6,State Representative,60,DEM,0
-Lake,Lynn Findley-Write In,COGSWELL CREEK P-11,State Representative,60,DEM,0
-Lake,Lynn Findley-Write In,NEW PINE CREEK P-16,State Representative,60,DEM,0
-Lake,Lynn Findley-Write In,VALLEY FALLS PREC.  P-18 ,State Representative,60,DEM,0
-Lake,Lynn Findley-Write In,TOTAL,State Representative,60,DEM,2
-Lake,Write-In,CROOKED CREEK P-4,State Representative,60,DEM,0
-Lake,Write-In,NORTH WARNER P-5,State Representative,60,DEM,0
-Lake,Write-In,SOUTH WARNER P-6,State Representative,60,DEM,0
-Lake,Write-In,COGSWELL CREEK P-11,State Representative,60,DEM,0
-Lake,Write-In,NEW PINE CREEK P-16,State Representative,60,DEM,0
-Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State Representative,60,DEM,0
-Lake,Write-In,TOTAL,State Representative,60,DEM,0
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,60,DEM,0
-Lake,Over Votes,NORTH WARNER P-5,State Representative,60,DEM,0
-Lake,Over Votes,SOUTH WARNER P-6,State Representative,60,DEM,0
-Lake,Over Votes,COGSWELL CREEK P-11,State Representative,60,DEM,0
-Lake,Over Votes,NEW PINE CREEK P-16,State Representative,60,DEM,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State Representative,60,DEM,0
-Lake,Over Votes,TOTAL,State Representative,60,DEM,0
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,60,DEM,9
-Lake,Under Votes,NORTH WARNER P-5,State Representative,60,DEM,0
-Lake,Under Votes,SOUTH WARNER P-6,State Representative,60,DEM,0
-Lake,Under Votes,COGSWELL CREEK P-11,State Representative,60,DEM,6
-Lake,Under Votes,NEW PINE CREEK P-16,State Representative,60,DEM,11
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State Representative,60,DEM,2
-Lake,Under Votes,TOTAL,State Representative,60,DEM,28
+Lake,Solea Kabakov,CROOKED CREEK P-4,State House,30,DEM,3
+Lake,Solea Kabakov,NORTH WARNER P-5,State House,30,DEM,1
+Lake,Solea Kabakov,SOUTH WARNER P-6,State House,30,DEM,0
+Lake,Solea Kabakov,COGSWELL CREEK P-11,State House,30,DEM,3
+Lake,Solea Kabakov,NEW PINE CREEK P-16,State House,30,DEM,6
+Lake,Solea Kabakov,VALLEY FALLS PREC.  P-18 ,State House,30,DEM,0
+Lake,Solea Kabakov,TOTAL,State House,30,DEM,13
+Lake,Write-In,CROOKED CREEK P-4,State House,30,DEM,1
+Lake,Write-In,NORTH WARNER P-5,State House,30,DEM,0
+Lake,Write-In,SOUTH WARNER P-6,State House,30,DEM,0
+Lake,Write-In,COGSWELL CREEK P-11,State House,30,DEM,0
+Lake,Write-In,NEW PINE CREEK P-16,State House,30,DEM,0
+Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State House,30,DEM,0
+Lake,Write-In,TOTAL,State House,30,DEM,1
+Lake,Over Votes,CROOKED CREEK P-4,State House,30,DEM,0
+Lake,Over Votes,NORTH WARNER P-5,State House,30,DEM,0
+Lake,Over Votes,SOUTH WARNER P-6,State House,30,DEM,0
+Lake,Over Votes,COGSWELL CREEK P-11,State House,30,DEM,0
+Lake,Over Votes,NEW PINE CREEK P-16,State House,30,DEM,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State House,30,DEM,0
+Lake,Over Votes,TOTAL,State House,30,DEM,0
+Lake,Under Votes,CROOKED CREEK P-4,State House,30,DEM,6
+Lake,Under Votes,NORTH WARNER P-5,State House,30,DEM,0
+Lake,Under Votes,SOUTH WARNER P-6,State House,30,DEM,0
+Lake,Under Votes,COGSWELL CREEK P-11,State House,30,DEM,3
+Lake,Under Votes,NEW PINE CREEK P-16,State House,30,DEM,5
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State House,30,DEM,2
+Lake,Under Votes,TOTAL,State House,30,DEM,16
+Lake,Karen Rippberger,SILVER LAKE P-1,State House,55,DEM,8
+Lake,Karen Rippberger,SUMMER LAKE P-2,State House,55,DEM,4
+Lake,Karen Rippberger,PAISLEY P-3,State House,55,DEM,9
+Lake,Karen Rippberger,CROOKED CREEK P-4,State House,55,DEM,0
+Lake,Karen Rippberger,CHRISTMAS VALLEY P-13,State House,55,DEM,42
+Lake,Karen Rippberger,FORT ROCK P-14,State House,55,DEM,5
+Lake,Karen Rippberger,VALLEY FALLS PREC.  P-18 ,State House,55,DEM,0
+Lake,Karen Rippberger,TOTAL,State House,55,DEM,68
+Lake,Write-In,SILVER LAKE P-1,State House,55,DEM,0
+Lake,Write-In,SUMMER LAKE P-2,State House,55,DEM,0
+Lake,Write-In,PAISLEY P-3,State House,55,DEM,1
+Lake,Write-In,CROOKED CREEK P-4,State House,55,DEM,0
+Lake,Write-In,CHRISTMAS VALLEY P-13,State House,55,DEM,2
+Lake,Write-In,FORT ROCK P-14,State House,55,DEM,0
+Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State House,55,DEM,0
+Lake,Write-In,TOTAL,State House,55,DEM,3
+Lake,Over Votes,SILVER LAKE P-1,State House,55,DEM,0
+Lake,Over Votes,SUMMER LAKE P-2,State House,55,DEM,0
+Lake,Over Votes,PAISLEY P-3,State House,55,DEM,0
+Lake,Over Votes,CROOKED CREEK P-4,State House,55,DEM,0
+Lake,Over Votes,CHRISTMAS VALLEY P-13,State House,55,DEM,0
+Lake,Over Votes,FORT ROCK P-14,State House,55,DEM,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State House,55,DEM,0
+Lake,Over Votes,TOTAL,State House,55,DEM,0
+Lake,Under Votes,SILVER LAKE P-1,State House,55,DEM,5
+Lake,Under Votes,SUMMER LAKE P-2,State House,55,DEM,8
+Lake,Under Votes,PAISLEY P-3,State House,55,DEM,8
+Lake,Under Votes,CROOKED CREEK P-4,State House,55,DEM,2
+Lake,Under Votes,CHRISTMAS VALLEY P-13,State House,55,DEM,28
+Lake,Under Votes,FORT ROCK P-14,State House,55,DEM,9
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State House,55,DEM,0
+Lake,Under Votes,TOTAL,State House,55,DEM,60
+Lake,Taylor Tupper,CROOKED CREEK P-4,State House,56,DEM,1
+Lake,Taylor Tupper,NORTH LAKEVIEW P-7,State House,56,DEM,13
+Lake,Taylor Tupper,SOUTH LAKEVIEW P-8,State House,56,DEM,16
+Lake,Taylor Tupper,FREMONT P-9,State House,56,DEM,18
+Lake,Taylor Tupper,GOOSE LAKE P-10,State House,56,DEM,5
+Lake,Taylor Tupper,COGSWELL CREEK P-11,State House,56,DEM,21
+Lake,Taylor Tupper,THOM.CRK. WESTSIDE P-12 ,State House,56,DEM,31
+Lake,Taylor Tupper,WEST LAKEVIEW P-15,State House,56,DEM,10
+Lake,Taylor Tupper,NO. CENTRAL LKVW.  P-20 ,State House,56,DEM,14
+Lake,Taylor Tupper,SO. CENTRAL LKVW.   P-21 ,State House,56,DEM,21
+Lake,Taylor Tupper,TOTAL,State House,56,DEM,150
+Lake,Write-In,CROOKED CREEK P-4,State House,56,DEM,0
+Lake,Write-In,NORTH LAKEVIEW P-7,State House,56,DEM,1
+Lake,Write-In,SOUTH LAKEVIEW P-8,State House,56,DEM,0
+Lake,Write-In,FREMONT P-9,State House,56,DEM,1
+Lake,Write-In,GOOSE LAKE P-10,State House,56,DEM,0
+Lake,Write-In,COGSWELL CREEK P-11,State House,56,DEM,0
+Lake,Write-In,THOM.CRK. WESTSIDE P-12 ,State House,56,DEM,1
+Lake,Write-In,WEST LAKEVIEW P-15,State House,56,DEM,3
+Lake,Write-In,NO. CENTRAL LKVW.  P-20 ,State House,56,DEM,0
+Lake,Write-In,SO. CENTRAL LKVW.   P-21 ,State House,56,DEM,0
+Lake,Write-In,TOTAL,State House,56,DEM,6
+Lake,Over Votes,CROOKED CREEK P-4,State House,56,DEM,0
+Lake,Over Votes,NORTH LAKEVIEW P-7,State House,56,DEM,0
+Lake,Over Votes,SOUTH LAKEVIEW P-8,State House,56,DEM,0
+Lake,Over Votes,FREMONT P-9,State House,56,DEM,0
+Lake,Over Votes,GOOSE LAKE P-10,State House,56,DEM,0
+Lake,Over Votes,COGSWELL CREEK P-11,State House,56,DEM,0
+Lake,Over Votes,THOM.CRK. WESTSIDE P-12 ,State House,56,DEM,0
+Lake,Over Votes,WEST LAKEVIEW P-15,State House,56,DEM,0
+Lake,Over Votes,NO. CENTRAL LKVW.  P-20 ,State House,56,DEM,0
+Lake,Over Votes,SO. CENTRAL LKVW.   P-21 ,State House,56,DEM,0
+Lake,Over Votes,TOTAL,State House,56,DEM,0
+Lake,Under Votes,CROOKED CREEK P-4,State House,56,DEM,6
+Lake,Under Votes,NORTH LAKEVIEW P-7,State House,56,DEM,5
+Lake,Under Votes,SOUTH LAKEVIEW P-8,State House,56,DEM,13
+Lake,Under Votes,FREMONT P-9,State House,56,DEM,10
+Lake,Under Votes,GOOSE LAKE P-10,State House,56,DEM,5
+Lake,Under Votes,COGSWELL CREEK P-11,State House,56,DEM,8
+Lake,Under Votes,THOM.CRK. WESTSIDE P-12 ,State House,56,DEM,16
+Lake,Under Votes,WEST LAKEVIEW P-15,State House,56,DEM,3
+Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,State House,56,DEM,8
+Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,State House,56,DEM,10
+Lake,Under Votes,TOTAL,State House,56,DEM,84
+Lake,Lynn Findley-Write In,CROOKED CREEK P-4,State House,60,DEM,1
+Lake,Lynn Findley-Write In,NORTH WARNER P-5,State House,60,DEM,1
+Lake,Lynn Findley-Write In,SOUTH WARNER P-6,State House,60,DEM,0
+Lake,Lynn Findley-Write In,COGSWELL CREEK P-11,State House,60,DEM,0
+Lake,Lynn Findley-Write In,NEW PINE CREEK P-16,State House,60,DEM,0
+Lake,Lynn Findley-Write In,VALLEY FALLS PREC.  P-18 ,State House,60,DEM,0
+Lake,Lynn Findley-Write In,TOTAL,State House,60,DEM,2
+Lake,Write-In,CROOKED CREEK P-4,State House,60,DEM,0
+Lake,Write-In,NORTH WARNER P-5,State House,60,DEM,0
+Lake,Write-In,SOUTH WARNER P-6,State House,60,DEM,0
+Lake,Write-In,COGSWELL CREEK P-11,State House,60,DEM,0
+Lake,Write-In,NEW PINE CREEK P-16,State House,60,DEM,0
+Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State House,60,DEM,0
+Lake,Write-In,TOTAL,State House,60,DEM,0
+Lake,Over Votes,CROOKED CREEK P-4,State House,60,DEM,0
+Lake,Over Votes,NORTH WARNER P-5,State House,60,DEM,0
+Lake,Over Votes,SOUTH WARNER P-6,State House,60,DEM,0
+Lake,Over Votes,COGSWELL CREEK P-11,State House,60,DEM,0
+Lake,Over Votes,NEW PINE CREEK P-16,State House,60,DEM,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State House,60,DEM,0
+Lake,Over Votes,TOTAL,State House,60,DEM,0
+Lake,Under Votes,CROOKED CREEK P-4,State House,60,DEM,9
+Lake,Under Votes,NORTH WARNER P-5,State House,60,DEM,0
+Lake,Under Votes,SOUTH WARNER P-6,State House,60,DEM,0
+Lake,Under Votes,COGSWELL CREEK P-11,State House,60,DEM,6
+Lake,Under Votes,NEW PINE CREEK P-16,State House,60,DEM,11
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State House,60,DEM,2
+Lake,Under Votes,TOTAL,State House,60,DEM,28
 Lake,Randy Pollock,SILVER LAKE P-1,U.S. House,2,REP,6
 Lake,Randy Pollock,SUMMER LAKE P-2,U.S. House,2,REP,1
 Lake,Randy Pollock,PAISLEY P-3,U.S. House,2,REP,6
@@ -831,138 +831,138 @@ Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,Governor,,REP,0
 Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,Governor,,REP,1
 Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,Governor,,REP,3
 Lake,Under Votes,TOTAL,Governor,,REP,41
-Lake,Cliff Bentz,CROOKED CREEK P-4,State Representative,30,REP,40
-Lake,Cliff Bentz,NORTH WARNER P-5,State Representative,30,REP,20
-Lake,Cliff Bentz,SOUTH WARNER P-6,State Representative,30,REP,28
-Lake,Cliff Bentz,COGSWELL CREEK P-11,State Representative,30,REP,24
-Lake,Cliff Bentz,NEW PINE CREEK P-16,State Representative,30,REP,21
-Lake,Cliff Bentz,VALLEY FALLS PREC.  P-18 ,State Representative,30,REP,4
-Lake,Cliff Bentz,TOTAL,State Representative,30,REP,137
-Lake,Write-In,CROOKED CREEK P-4,State Representative,30,REP,0
-Lake,Write-In,NORTH WARNER P-5,State Representative,30,REP,1
-Lake,Write-In,SOUTH WARNER P-6,State Representative,30,REP,3
-Lake,Write-In,COGSWELL CREEK P-11,State Representative,30,REP,0
-Lake,Write-In,NEW PINE CREEK P-16,State Representative,30,REP,0
-Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State Representative,30,REP,0
-Lake,Write-In,TOTAL,State Representative,30,REP,4
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,30,REP,0
-Lake,Over Votes,NORTH WARNER P-5,State Representative,30,REP,0
-Lake,Over Votes,SOUTH WARNER P-6,State Representative,30,REP,0
-Lake,Over Votes,COGSWELL CREEK P-11,State Representative,30,REP,0
-Lake,Over Votes,NEW PINE CREEK P-16,State Representative,30,REP,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State Representative,30,REP,0
-Lake,Over Votes,TOTAL,State Representative,30,REP,0
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,30,REP,16
-Lake,Under Votes,NORTH WARNER P-5,State Representative,30,REP,7
-Lake,Under Votes,SOUTH WARNER P-6,State Representative,30,REP,2
-Lake,Under Votes,COGSWELL CREEK P-11,State Representative,30,REP,12
-Lake,Under Votes,NEW PINE CREEK P-16,State Representative,30,REP,6
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State Representative,30,REP,1
-Lake,Under Votes,TOTAL,State Representative,30,REP,44
-Lake,Mike Mclane,SILVER LAKE P-1,State Representative,55,REP,37
-Lake,Mike Mclane,SUMMER LAKE P-2,State Representative,55,REP,26
-Lake,Mike Mclane,PAISLEY P-3,State Representative,55,REP,63
-Lake,Mike Mclane,CROOKED CREEK P-4,State Representative,55,REP,7
-Lake,Mike Mclane,CHRISTMAS VALLEY P-13,State Representative,55,REP,187
-Lake,Mike Mclane,FORT ROCK P-14,State Representative,55,REP,42
-Lake,Mike Mclane,VALLEY FALLS PREC.  P-18 ,State Representative,55,REP,10
-Lake,Mike Mclane,TOTAL,State Representative,55,REP,372
-Lake,Write-In,SILVER LAKE P-1,State Representative,55,REP,0
-Lake,Write-In,SUMMER LAKE P-2,State Representative,55,REP,0
-Lake,Write-In,PAISLEY P-3,State Representative,55,REP,0
-Lake,Write-In,CROOKED CREEK P-4,State Representative,55,REP,0
-Lake,Write-In,CHRISTMAS VALLEY P-13,State Representative,55,REP,3
-Lake,Write-In,FORT ROCK P-14,State Representative,55,REP,0
-Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State Representative,55,REP,0
-Lake,Write-In,TOTAL,State Representative,55,REP,3
-Lake,Over Votes,SILVER LAKE P-1,State Representative,55,REP,0
-Lake,Over Votes,SUMMER LAKE P-2,State Representative,55,REP,0
-Lake,Over Votes,PAISLEY P-3,State Representative,55,REP,0
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,55,REP,0
-Lake,Over Votes,CHRISTMAS VALLEY P-13,State Representative,55,REP,0
-Lake,Over Votes,FORT ROCK P-14,State Representative,55,REP,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State Representative,55,REP,0
-Lake,Over Votes,TOTAL,State Representative,55,REP,0
-Lake,Under Votes,SILVER LAKE P-1,State Representative,55,REP,11
-Lake,Under Votes,SUMMER LAKE P-2,State Representative,55,REP,9
-Lake,Under Votes,PAISLEY P-3,State Representative,55,REP,42
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,55,REP,1
-Lake,Under Votes,CHRISTMAS VALLEY P-13,State Representative,55,REP,58
-Lake,Under Votes,FORT ROCK P-14,State Representative,55,REP,11
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State Representative,55,REP,5
-Lake,Under Votes,TOTAL,State Representative,55,REP,137
-Lake,E Werener Reschke,CROOKED CREEK P-4,State Representative,56,REP,32
-Lake,E Werener Reschke,NORTH LAKEVIEW P-7,State Representative,56,REP,56
-Lake,E Werener Reschke,SOUTH LAKEVIEW P-8,State Representative,56,REP,56
-Lake,E Werener Reschke,FREMONT P-9,State Representative,56,REP,84
-Lake,E Werener Reschke,GOOSE LAKE P-10,State Representative,56,REP,69
-Lake,E Werener Reschke,COGSWELL CREEK P-11,State Representative,56,REP,45
-Lake,E Werener Reschke,THOM.CRK. WESTSIDE P-12 ,State Representative,56,REP,131
-Lake,E Werener Reschke,WEST LAKEVIEW P-15,State Representative,56,REP,44
-Lake,E Werener Reschke,NO. CENTRAL LKVW.  P-20 ,State Representative,56,REP,47
-Lake,E Werener Reschke,SO. CENTRAL LKVW.   P-21 ,State Representative,56,REP,57
-Lake,E Werener Reschke,TOTAL,State Representative,56,REP,621
-Lake,Write-In,CROOKED CREEK P-4,State Representative,56,REP,0
-Lake,Write-In,NORTH LAKEVIEW P-7,State Representative,56,REP,1
-Lake,Write-In,SOUTH LAKEVIEW P-8,State Representative,56,REP,1
-Lake,Write-In,FREMONT P-9,State Representative,56,REP,0
-Lake,Write-In,GOOSE LAKE P-10,State Representative,56,REP,1
-Lake,Write-In,COGSWELL CREEK P-11,State Representative,56,REP,3
-Lake,Write-In,THOM.CRK. WESTSIDE P-12 ,State Representative,56,REP,1
-Lake,Write-In,WEST LAKEVIEW P-15,State Representative,56,REP,1
-Lake,Write-In,NO. CENTRAL LKVW.  P-20 ,State Representative,56,REP,0
-Lake,Write-In,SO. CENTRAL LKVW.   P-21 ,State Representative,56,REP,2
-Lake,Write-In,TOTAL,State Representative,56,REP,10
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,56,REP,0
-Lake,Over Votes,NORTH LAKEVIEW P-7,State Representative,56,REP,0
-Lake,Over Votes,SOUTH LAKEVIEW P-8,State Representative,56,REP,0
-Lake,Over Votes,FREMONT P-9,State Representative,56,REP,0
-Lake,Over Votes,GOOSE LAKE P-10,State Representative,56,REP,0
-Lake,Over Votes,COGSWELL CREEK P-11,State Representative,56,REP,0
-Lake,Over Votes,THOM.CRK. WESTSIDE P-12 ,State Representative,56,REP,0
-Lake,Over Votes,WEST LAKEVIEW P-15,State Representative,56,REP,0
-Lake,Over Votes,NO. CENTRAL LKVW.  P-20 ,State Representative,56,REP,0
-Lake,Over Votes,SO. CENTRAL LKVW.   P-21 ,State Representative,56,REP,0
-Lake,Over Votes,TOTAL,State Representative,56,REP,0
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,56,REP,24
-Lake,Under Votes,NORTH LAKEVIEW P-7,State Representative,56,REP,30
-Lake,Under Votes,SOUTH LAKEVIEW P-8,State Representative,56,REP,35
-Lake,Under Votes,FREMONT P-9,State Representative,56,REP,44
-Lake,Under Votes,GOOSE LAKE P-10,State Representative,56,REP,29
-Lake,Under Votes,COGSWELL CREEK P-11,State Representative,56,REP,18
-Lake,Under Votes,THOM.CRK. WESTSIDE P-12 ,State Representative,56,REP,79
-Lake,Under Votes,WEST LAKEVIEW P-15,State Representative,56,REP,12
-Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,State Representative,56,REP,16
-Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,State Representative,56,REP,34
-Lake,Under Votes,TOTAL,State Representative,56,REP,321
-Lake,Lynn P Findley,CROOKED CREEK P-4,State Representative,60,REP,33
-Lake,Lynn P Findley,NORTH WARNER P-5,State Representative,60,REP,17
-Lake,Lynn P Findley,SOUTH WARNER P-6,State Representative,60,REP,26
-Lake,Lynn P Findley,COGSWELL CREEK P-11,State Representative,60,REP,24
-Lake,Lynn P Findley,NEW PINE CREEK P-16,State Representative,60,REP,21
-Lake,Lynn P Findley,VALLEY FALLS PREC.  P-18 ,State Representative,60,REP,4
-Lake,Lynn P Findley,TOTAL,State Representative,60,REP,125
-Lake,Write-In,CROOKED CREEK P-4,State Representative,60,REP,0
-Lake,Write-In,NORTH WARNER P-5,State Representative,60,REP,0
-Lake,Write-In,SOUTH WARNER P-6,State Representative,60,REP,0
-Lake,Write-In,COGSWELL CREEK P-11,State Representative,60,REP,0
-Lake,Write-In,NEW PINE CREEK P-16,State Representative,60,REP,0
-Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State Representative,60,REP,0
-Lake,Write-In,TOTAL,State Representative,60,REP,0
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,60,REP,0
-Lake,Over Votes,NORTH WARNER P-5,State Representative,60,REP,0
-Lake,Over Votes,SOUTH WARNER P-6,State Representative,60,REP,0
-Lake,Over Votes,COGSWELL CREEK P-11,State Representative,60,REP,0
-Lake,Over Votes,NEW PINE CREEK P-16,State Representative,60,REP,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State Representative,60,REP,0
-Lake,Over Votes,TOTAL,State Representative,60,REP,0
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,60,REP,23
-Lake,Under Votes,NORTH WARNER P-5,State Representative,60,REP,11
-Lake,Under Votes,SOUTH WARNER P-6,State Representative,60,REP,7
-Lake,Under Votes,COGSWELL CREEK P-11,State Representative,60,REP,12
-Lake,Under Votes,NEW PINE CREEK P-16,State Representative,60,REP,6
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State Representative,60,REP,1
-Lake,Under Votes,TOTAL,State Representative,60,REP,60
+Lake,Cliff Bentz,CROOKED CREEK P-4,State House,30,REP,40
+Lake,Cliff Bentz,NORTH WARNER P-5,State House,30,REP,20
+Lake,Cliff Bentz,SOUTH WARNER P-6,State House,30,REP,28
+Lake,Cliff Bentz,COGSWELL CREEK P-11,State House,30,REP,24
+Lake,Cliff Bentz,NEW PINE CREEK P-16,State House,30,REP,21
+Lake,Cliff Bentz,VALLEY FALLS PREC.  P-18 ,State House,30,REP,4
+Lake,Cliff Bentz,TOTAL,State House,30,REP,137
+Lake,Write-In,CROOKED CREEK P-4,State House,30,REP,0
+Lake,Write-In,NORTH WARNER P-5,State House,30,REP,1
+Lake,Write-In,SOUTH WARNER P-6,State House,30,REP,3
+Lake,Write-In,COGSWELL CREEK P-11,State House,30,REP,0
+Lake,Write-In,NEW PINE CREEK P-16,State House,30,REP,0
+Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State House,30,REP,0
+Lake,Write-In,TOTAL,State House,30,REP,4
+Lake,Over Votes,CROOKED CREEK P-4,State House,30,REP,0
+Lake,Over Votes,NORTH WARNER P-5,State House,30,REP,0
+Lake,Over Votes,SOUTH WARNER P-6,State House,30,REP,0
+Lake,Over Votes,COGSWELL CREEK P-11,State House,30,REP,0
+Lake,Over Votes,NEW PINE CREEK P-16,State House,30,REP,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State House,30,REP,0
+Lake,Over Votes,TOTAL,State House,30,REP,0
+Lake,Under Votes,CROOKED CREEK P-4,State House,30,REP,16
+Lake,Under Votes,NORTH WARNER P-5,State House,30,REP,7
+Lake,Under Votes,SOUTH WARNER P-6,State House,30,REP,2
+Lake,Under Votes,COGSWELL CREEK P-11,State House,30,REP,12
+Lake,Under Votes,NEW PINE CREEK P-16,State House,30,REP,6
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State House,30,REP,1
+Lake,Under Votes,TOTAL,State House,30,REP,44
+Lake,Mike Mclane,SILVER LAKE P-1,State House,55,REP,37
+Lake,Mike Mclane,SUMMER LAKE P-2,State House,55,REP,26
+Lake,Mike Mclane,PAISLEY P-3,State House,55,REP,63
+Lake,Mike Mclane,CROOKED CREEK P-4,State House,55,REP,7
+Lake,Mike Mclane,CHRISTMAS VALLEY P-13,State House,55,REP,187
+Lake,Mike Mclane,FORT ROCK P-14,State House,55,REP,42
+Lake,Mike Mclane,VALLEY FALLS PREC.  P-18 ,State House,55,REP,10
+Lake,Mike Mclane,TOTAL,State House,55,REP,372
+Lake,Write-In,SILVER LAKE P-1,State House,55,REP,0
+Lake,Write-In,SUMMER LAKE P-2,State House,55,REP,0
+Lake,Write-In,PAISLEY P-3,State House,55,REP,0
+Lake,Write-In,CROOKED CREEK P-4,State House,55,REP,0
+Lake,Write-In,CHRISTMAS VALLEY P-13,State House,55,REP,3
+Lake,Write-In,FORT ROCK P-14,State House,55,REP,0
+Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State House,55,REP,0
+Lake,Write-In,TOTAL,State House,55,REP,3
+Lake,Over Votes,SILVER LAKE P-1,State House,55,REP,0
+Lake,Over Votes,SUMMER LAKE P-2,State House,55,REP,0
+Lake,Over Votes,PAISLEY P-3,State House,55,REP,0
+Lake,Over Votes,CROOKED CREEK P-4,State House,55,REP,0
+Lake,Over Votes,CHRISTMAS VALLEY P-13,State House,55,REP,0
+Lake,Over Votes,FORT ROCK P-14,State House,55,REP,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State House,55,REP,0
+Lake,Over Votes,TOTAL,State House,55,REP,0
+Lake,Under Votes,SILVER LAKE P-1,State House,55,REP,11
+Lake,Under Votes,SUMMER LAKE P-2,State House,55,REP,9
+Lake,Under Votes,PAISLEY P-3,State House,55,REP,42
+Lake,Under Votes,CROOKED CREEK P-4,State House,55,REP,1
+Lake,Under Votes,CHRISTMAS VALLEY P-13,State House,55,REP,58
+Lake,Under Votes,FORT ROCK P-14,State House,55,REP,11
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State House,55,REP,5
+Lake,Under Votes,TOTAL,State House,55,REP,137
+Lake,E Werener Reschke,CROOKED CREEK P-4,State House,56,REP,32
+Lake,E Werener Reschke,NORTH LAKEVIEW P-7,State House,56,REP,56
+Lake,E Werener Reschke,SOUTH LAKEVIEW P-8,State House,56,REP,56
+Lake,E Werener Reschke,FREMONT P-9,State House,56,REP,84
+Lake,E Werener Reschke,GOOSE LAKE P-10,State House,56,REP,69
+Lake,E Werener Reschke,COGSWELL CREEK P-11,State House,56,REP,45
+Lake,E Werener Reschke,THOM.CRK. WESTSIDE P-12 ,State House,56,REP,131
+Lake,E Werener Reschke,WEST LAKEVIEW P-15,State House,56,REP,44
+Lake,E Werener Reschke,NO. CENTRAL LKVW.  P-20 ,State House,56,REP,47
+Lake,E Werener Reschke,SO. CENTRAL LKVW.   P-21 ,State House,56,REP,57
+Lake,E Werener Reschke,TOTAL,State House,56,REP,621
+Lake,Write-In,CROOKED CREEK P-4,State House,56,REP,0
+Lake,Write-In,NORTH LAKEVIEW P-7,State House,56,REP,1
+Lake,Write-In,SOUTH LAKEVIEW P-8,State House,56,REP,1
+Lake,Write-In,FREMONT P-9,State House,56,REP,0
+Lake,Write-In,GOOSE LAKE P-10,State House,56,REP,1
+Lake,Write-In,COGSWELL CREEK P-11,State House,56,REP,3
+Lake,Write-In,THOM.CRK. WESTSIDE P-12 ,State House,56,REP,1
+Lake,Write-In,WEST LAKEVIEW P-15,State House,56,REP,1
+Lake,Write-In,NO. CENTRAL LKVW.  P-20 ,State House,56,REP,0
+Lake,Write-In,SO. CENTRAL LKVW.   P-21 ,State House,56,REP,2
+Lake,Write-In,TOTAL,State House,56,REP,10
+Lake,Over Votes,CROOKED CREEK P-4,State House,56,REP,0
+Lake,Over Votes,NORTH LAKEVIEW P-7,State House,56,REP,0
+Lake,Over Votes,SOUTH LAKEVIEW P-8,State House,56,REP,0
+Lake,Over Votes,FREMONT P-9,State House,56,REP,0
+Lake,Over Votes,GOOSE LAKE P-10,State House,56,REP,0
+Lake,Over Votes,COGSWELL CREEK P-11,State House,56,REP,0
+Lake,Over Votes,THOM.CRK. WESTSIDE P-12 ,State House,56,REP,0
+Lake,Over Votes,WEST LAKEVIEW P-15,State House,56,REP,0
+Lake,Over Votes,NO. CENTRAL LKVW.  P-20 ,State House,56,REP,0
+Lake,Over Votes,SO. CENTRAL LKVW.   P-21 ,State House,56,REP,0
+Lake,Over Votes,TOTAL,State House,56,REP,0
+Lake,Under Votes,CROOKED CREEK P-4,State House,56,REP,24
+Lake,Under Votes,NORTH LAKEVIEW P-7,State House,56,REP,30
+Lake,Under Votes,SOUTH LAKEVIEW P-8,State House,56,REP,35
+Lake,Under Votes,FREMONT P-9,State House,56,REP,44
+Lake,Under Votes,GOOSE LAKE P-10,State House,56,REP,29
+Lake,Under Votes,COGSWELL CREEK P-11,State House,56,REP,18
+Lake,Under Votes,THOM.CRK. WESTSIDE P-12 ,State House,56,REP,79
+Lake,Under Votes,WEST LAKEVIEW P-15,State House,56,REP,12
+Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,State House,56,REP,16
+Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,State House,56,REP,34
+Lake,Under Votes,TOTAL,State House,56,REP,321
+Lake,Lynn P Findley,CROOKED CREEK P-4,State House,60,REP,33
+Lake,Lynn P Findley,NORTH WARNER P-5,State House,60,REP,17
+Lake,Lynn P Findley,SOUTH WARNER P-6,State House,60,REP,26
+Lake,Lynn P Findley,COGSWELL CREEK P-11,State House,60,REP,24
+Lake,Lynn P Findley,NEW PINE CREEK P-16,State House,60,REP,21
+Lake,Lynn P Findley,VALLEY FALLS PREC.  P-18 ,State House,60,REP,4
+Lake,Lynn P Findley,TOTAL,State House,60,REP,125
+Lake,Write-In,CROOKED CREEK P-4,State House,60,REP,0
+Lake,Write-In,NORTH WARNER P-5,State House,60,REP,0
+Lake,Write-In,SOUTH WARNER P-6,State House,60,REP,0
+Lake,Write-In,COGSWELL CREEK P-11,State House,60,REP,0
+Lake,Write-In,NEW PINE CREEK P-16,State House,60,REP,0
+Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State House,60,REP,0
+Lake,Write-In,TOTAL,State House,60,REP,0
+Lake,Over Votes,CROOKED CREEK P-4,State House,60,REP,0
+Lake,Over Votes,NORTH WARNER P-5,State House,60,REP,0
+Lake,Over Votes,SOUTH WARNER P-6,State House,60,REP,0
+Lake,Over Votes,COGSWELL CREEK P-11,State House,60,REP,0
+Lake,Over Votes,NEW PINE CREEK P-16,State House,60,REP,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State House,60,REP,0
+Lake,Over Votes,TOTAL,State House,60,REP,0
+Lake,Under Votes,CROOKED CREEK P-4,State House,60,REP,23
+Lake,Under Votes,NORTH WARNER P-5,State House,60,REP,11
+Lake,Under Votes,SOUTH WARNER P-6,State House,60,REP,7
+Lake,Under Votes,COGSWELL CREEK P-11,State House,60,REP,12
+Lake,Under Votes,NEW PINE CREEK P-16,State House,60,REP,6
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State House,60,REP,1
+Lake,Under Votes,TOTAL,State House,60,REP,60
 Lake,Mark P Roberts,SILVER LAKE P-1,U.S. House,2,IND,2
 Lake,Mark P Roberts,SUMMER LAKE P-2,U.S. House,2,IND,2
 Lake,Mark P Roberts,PAISLEY P-3,U.S. House,2,IND,2
@@ -1243,254 +1243,254 @@ Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,Governor,,IND,0
 Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,Governor,,IND,1
 Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,Governor,,IND,0
 Lake,Under Votes,TOTAL,Governor,,IND,18
-Lake,Kate Brown,SILVER LAKE P-1,State Representative,55,IND,0
-Lake,Kate Brown,SUMMER LAKE P-2,State Representative,55,IND,0
-Lake,Kate Brown,PAISLEY P-3,State Representative,55,IND,0
-Lake,Kate Brown,CROOKED CREEK P-4,State Representative,55,IND,0
-Lake,Kate Brown,NORTH WARNER P-5,State Representative,55,IND,0
-Lake,Kate Brown,SOUTH WARNER P-6,State Representative,55,IND,0
-Lake,Kate Brown,NORTH LAKEVIEW P-7,State Representative,55,IND,0
-Lake,Kate Brown,SOUTH LAKEVIEW P-8,State Representative,55,IND,1
-Lake,Kate Brown,FREMONT P-9,State Representative,55,IND,0
-Lake,Kate Brown,GOOSE LAKE P-10,State Representative,55,IND,0
-Lake,Kate Brown,COGSWELL CREEK P-11,State Representative,55,IND,0
-Lake,Kate Brown,THOM.CRK. WESTSIDE P-12 ,State Representative,55,IND,0
-Lake,Kate Brown,CHRISTMAS VALLEY P-13,State Representative,55,IND,1
-Lake,Kate Brown,FORT ROCK P-14,State Representative,55,IND,0
-Lake,Kate Brown,WEST LAKEVIEW P-15,State Representative,55,IND,0
-Lake,Kate Brown,NEW PINE CREEK P-16,State Representative,55,IND,0
-Lake,Kate Brown,VALLEY FALLS PREC.  P-18 ,State Representative,55,IND,0
-Lake,Kate Brown,NO. CENTRAL LKVW.  P-20 ,State Representative,55,IND,0
-Lake,Kate Brown,SO. CENTRAL LKVW.   P-21 ,State Representative,55,IND,1
-Lake,Kate Brown,TOTAL,State Representative,55,IND,3
-Lake,Mike Mclane,SILVER LAKE P-1,State Representative,55,IND,0
-Lake,Mike Mclane,SUMMER LAKE P-2,State Representative,55,IND,3
-Lake,Mike Mclane,PAISLEY P-3,State Representative,55,IND,1
-Lake,Mike Mclane,CROOKED CREEK P-4,State Representative,55,IND,1
-Lake,Mike Mclane,CHRISTMAS VALLEY P-13,State Representative,55,IND,3
-Lake,Mike Mclane,FORT ROCK P-14,State Representative,55,IND,2
-Lake,Mike Mclane,VALLEY FALLS PREC.  P-18 ,State Representative,55,IND,0
-Lake,Mike Mclane,TOTAL,State Representative,55,IND,10
-Lake,Over Votes,SILVER LAKE P-1,State Representative,55,IND,0
-Lake,Over Votes,SUMMER LAKE P-2,State Representative,55,IND,0
-Lake,Over Votes,PAISLEY P-3,State Representative,55,IND,0
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,55,IND,0
-Lake,Over Votes,CHRISTMAS VALLEY P-13,State Representative,55,IND,0
-Lake,Over Votes,FORT ROCK P-14,State Representative,55,IND,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State Representative,55,IND,0
-Lake,Over Votes,TOTAL,State Representative,55,IND,0
-Lake,Under Votes,SILVER LAKE P-1,State Representative,55,IND,4
-Lake,Under Votes,SUMMER LAKE P-2,State Representative,55,IND,2
-Lake,Under Votes,PAISLEY P-3,State Representative,55,IND,2
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,55,IND,0
-Lake,Under Votes,CHRISTMAS VALLEY P-13,State Representative,55,IND,17
-Lake,Under Votes,FORT ROCK P-14,State Representative,55,IND,2
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State Representative,55,IND,0
-Lake,Under Votes,TOTAL,State Representative,55,IND,27
-Lake,Taylor Tupper,CROOKED CREEK P-4,State Representative,56,IND,1
-Lake,Taylor Tupper,NORTH LAKEVIEW P-7,State Representative,56,IND,0
-Lake,Taylor Tupper,SOUTH LAKEVIEW P-8,State Representative,56,IND,2
-Lake,Taylor Tupper,FREMONT P-9,State Representative,56,IND,2
-Lake,Taylor Tupper,GOOSE LAKE P-10,State Representative,56,IND,0
-Lake,Taylor Tupper,COGSWELL CREEK P-11,State Representative,56,IND,0
-Lake,Taylor Tupper,THOM.CRK. WESTSIDE P-12 ,State Representative,56,IND,2
-Lake,Taylor Tupper,WEST LAKEVIEW P-15,State Representative,56,IND,0
-Lake,Taylor Tupper,NO. CENTRAL LKVW.  P-20 ,State Representative,56,IND,0
-Lake,Taylor Tupper,SO. CENTRAL LKVW.   P-21 ,State Representative,56,IND,0
-Lake,Taylor Tupper,TOTAL,State Representative,56,IND,7
-Lake,Elmer Ribblet,CROOKED CREEK P-4,State Representative,56,IND,0
-Lake,Elmer Ribblet,NORTH LAKEVIEW P-7,State Representative,56,IND,0
-Lake,Elmer Ribblet,SOUTH LAKEVIEW P-8,State Representative,56,IND,2
-Lake,Elmer Ribblet,FREMONT P-9,State Representative,56,IND,0
-Lake,Elmer Ribblet,GOOSE LAKE P-10,State Representative,56,IND,0
-Lake,Elmer Ribblet,COGSWELL CREEK P-11,State Representative,56,IND,0
-Lake,Elmer Ribblet,THOM.CRK. WESTSIDE P-12 ,State Representative,56,IND,0
-Lake,Elmer Ribblet,WEST LAKEVIEW P-15,State Representative,56,IND,0
-Lake,Elmer Ribblet,NO. CENTRAL LKVW.  P-20 ,State Representative,56,IND,0
-Lake,Elmer Ribblet,SO. CENTRAL LKVW.   P-21 ,State Representative,56,IND,0
-Lake,Elmer Ribblet,TOTAL,State Representative,56,IND,2
-Lake,E Werner Reschke,CROOKED CREEK P-4,State Representative,56,IND,0
-Lake,E Werner Reschke,NORTH LAKEVIEW P-7,State Representative,56,IND,0
-Lake,E Werner Reschke,SOUTH LAKEVIEW P-8,State Representative,56,IND,1
-Lake,E Werner Reschke,FREMONT P-9,State Representative,56,IND,0
-Lake,E Werner Reschke,GOOSE LAKE P-10,State Representative,56,IND,1
-Lake,E Werner Reschke,COGSWELL CREEK P-11,State Representative,56,IND,0
-Lake,E Werner Reschke,THOM.CRK. WESTSIDE P-12 ,State Representative,56,IND,0
-Lake,E Werner Reschke,WEST LAKEVIEW P-15,State Representative,56,IND,1
-Lake,E Werner Reschke,NO. CENTRAL LKVW.  P-20 ,State Representative,56,IND,0
-Lake,E Werner Reschke,SO. CENTRAL LKVW.   P-21 ,State Representative,56,IND,0
-Lake,E Werner Reschke,TOTAL,State Representative,56,IND,3
-Lake,Ken Hinckle,CROOKED CREEK P-4,State Representative,56,IND,0
-Lake,Ken Hinckle,NORTH LAKEVIEW P-7,State Representative,56,IND,0
-Lake,Ken Hinckle,SOUTH LAKEVIEW P-8,State Representative,56,IND,0
-Lake,Ken Hinckle,FREMONT P-9,State Representative,56,IND,0
-Lake,Ken Hinckle,GOOSE LAKE P-10,State Representative,56,IND,1
-Lake,Ken Hinckle,COGSWELL CREEK P-11,State Representative,56,IND,0
-Lake,Ken Hinckle,THOM.CRK. WESTSIDE P-12 ,State Representative,56,IND,0
-Lake,Ken Hinckle,WEST LAKEVIEW P-15,State Representative,56,IND,0
-Lake,Ken Hinckle,NO. CENTRAL LKVW.  P-20 ,State Representative,56,IND,0
-Lake,Ken Hinckle,SO. CENTRAL LKVW.   P-21 ,State Representative,56,IND,0
-Lake,Ken Hinckle,TOTAL,State Representative,56,IND,1
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,56,IND,0
-Lake,Over Votes,NORTH LAKEVIEW P-7,State Representative,56,IND,0
-Lake,Over Votes,SOUTH LAKEVIEW P-8,State Representative,56,IND,0
-Lake,Over Votes,FREMONT P-9,State Representative,56,IND,0
-Lake,Over Votes,GOOSE LAKE P-10,State Representative,56,IND,0
-Lake,Over Votes,COGSWELL CREEK P-11,State Representative,56,IND,0
-Lake,Over Votes,THOM.CRK. WESTSIDE P-12 ,State Representative,56,IND,0
-Lake,Over Votes,WEST LAKEVIEW P-15,State Representative,56,IND,0
-Lake,Over Votes,NO. CENTRAL LKVW.  P-20 ,State Representative,56,IND,0
-Lake,Over Votes,SO. CENTRAL LKVW.   P-21 ,State Representative,56,IND,0
-Lake,Over Votes,TOTAL,State Representative,56,IND,0
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,56,IND,2
-Lake,Under Votes,NORTH LAKEVIEW P-7,State Representative,56,IND,7
-Lake,Under Votes,SOUTH LAKEVIEW P-8,State Representative,56,IND,1
-Lake,Under Votes,FREMONT P-9,State Representative,56,IND,5
-Lake,Under Votes,GOOSE LAKE P-10,State Representative,56,IND,1
-Lake,Under Votes,COGSWELL CREEK P-11,State Representative,56,IND,4
-Lake,Under Votes,THOM.CRK. WESTSIDE P-12 ,State Representative,56,IND,11
-Lake,Under Votes,WEST LAKEVIEW P-15,State Representative,56,IND,3
-Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,State Representative,56,IND,3
-Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,State Representative,56,IND,5
-Lake,Under Votes,TOTAL,State Representative,56,IND,42
-Lake,Write-In,CROOKED CREEK P-4,State Representative,60,IND,0
-Lake,Write-In,NORTH WARNER P-5,State Representative,60,IND,0
-Lake,Write-In,SOUTH WARNER P-6,State Representative,60,IND,0
-Lake,Write-In,COGSWELL CREEK P-11,State Representative,60,IND,0
-Lake,Write-In,NEW PINE CREEK P-16,State Representative,60,IND,0
-Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State Representative,60,IND,0
-Lake,Write-In,TOTAL,State Representative,60,IND,0
-Lake,Over Votes,CROOKED CREEK P-4,State Representative,60,IND,0
-Lake,Over Votes,NORTH WARNER P-5,State Representative,60,IND,0
-Lake,Over Votes,SOUTH WARNER P-6,State Representative,60,IND,0
-Lake,Over Votes,COGSWELL CREEK P-11,State Representative,60,IND,0
-Lake,Over Votes,NEW PINE CREEK P-16,State Representative,60,IND,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State Representative,60,IND,0
-Lake,Over Votes,TOTAL,State Representative,60,IND,0
-Lake,Under Votes,CROOKED CREEK P-4,State Representative,60,IND,1
-Lake,Under Votes,NORTH WARNER P-5,State Representative,60,IND,2
-Lake,Under Votes,SOUTH WARNER P-6,State Representative,60,IND,2
-Lake,Under Votes,COGSWELL CREEK P-11,State Representative,60,IND,1
-Lake,Under Votes,NEW PINE CREEK P-16,State Representative,60,IND,1
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State Representative,60,IND,1
-Lake,Under Votes,TOTAL,State Representative,60,IND,8
-Lake,Lou Ogden,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industry,,,19
-Lake,Lou Ogden,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industry,,,22
-Lake,Lou Ogden,PAISLEY P-3,Commissioner of the Bureau of Labor and Industry,,,53
-Lake,Lou Ogden,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industry,,,42
-Lake,Lou Ogden,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industry,,,16
-Lake,Lou Ogden,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industry,,,16
-Lake,Lou Ogden,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industry,,,37
-Lake,Lou Ogden,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industry,,,34
-Lake,Lou Ogden,FREMONT P-9,Commissioner of the Bureau of Labor and Industry,,,58
-Lake,Lou Ogden,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industry,,,46
-Lake,Lou Ogden,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industry,,,40
-Lake,Lou Ogden,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industry,,,99
-Lake,Lou Ogden,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industry,,,147
-Lake,Lou Ogden,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industry,,,17
-Lake,Lou Ogden,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industry,,,34
-Lake,Lou Ogden,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industry,,,15
-Lake,Lou Ogden,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industry,,,8
-Lake,Lou Ogden,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industry,,,33
-Lake,Lou Ogden,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industry,,,38
-Lake,Lou Ogden,TOTAL,Commissioner of the Bureau of Labor and Industry,,,774
-Lake,Val Hoyle,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industry,,,15
-Lake,Val Hoyle,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industry,,,19
-Lake,Val Hoyle,PAISLEY P-3,Commissioner of the Bureau of Labor and Industry,,,17
-Lake,Val Hoyle,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industry,,,20
-Lake,Val Hoyle,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industry,,,1
-Lake,Val Hoyle,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industry,,,6
-Lake,Val Hoyle,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industry,,,17
-Lake,Val Hoyle,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industry,,,27
-Lake,Val Hoyle,FREMONT P-9,Commissioner of the Bureau of Labor and Industry,,,28
-Lake,Val Hoyle,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industry,,,13
-Lake,Val Hoyle,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industry,,,28
-Lake,Val Hoyle,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industry,,,62
-Lake,Val Hoyle,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industry,,,68
-Lake,Val Hoyle,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industry,,,11
-Lake,Val Hoyle,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industry,,,6
-Lake,Val Hoyle,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industry,,,4
-Lake,Val Hoyle,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Val Hoyle,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industry,,,15
-Lake,Val Hoyle,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industry,,,32
-Lake,Val Hoyle,TOTAL,Commissioner of the Bureau of Labor and Industry,,,389
-Lake,Jack Howard,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industry,,,19
-Lake,Jack Howard,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industry,,,11
-Lake,Jack Howard,PAISLEY P-3,Commissioner of the Bureau of Labor and Industry,,,28
-Lake,Jack Howard,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industry,,,33
-Lake,Jack Howard,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industry,,,2
-Lake,Jack Howard,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industry,,,5
-Lake,Jack Howard,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industry,,,35
-Lake,Jack Howard,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industry,,,29
-Lake,Jack Howard,FREMONT P-9,Commissioner of the Bureau of Labor and Industry,,,43
-Lake,Jack Howard,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industry,,,17
-Lake,Jack Howard,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industry,,,46
-Lake,Jack Howard,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industry,,,39
-Lake,Jack Howard,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industry,,,97
-Lake,Jack Howard,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industry,,,23
-Lake,Jack Howard,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industry,,,23
-Lake,Jack Howard,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industry,,,17
-Lake,Jack Howard,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industry,,,7
-Lake,Jack Howard,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industry,,,21
-Lake,Jack Howard,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industry,,,31
-Lake,Jack Howard,TOTAL,Commissioner of the Bureau of Labor and Industry,,,526
-Lake,Write-In,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,PAISLEY P-3,Commissioner of the Bureau of Labor and Industry,,,1
-Lake,Write-In,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industry,,,1
-Lake,Write-In,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industry,,,3
-Lake,Write-In,FREMONT P-9,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industry,,,1
-Lake,Write-In,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industry,,,2
-Lake,Write-In,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industry,,,4
-Lake,Write-In,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Write-In,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industry,,,2
-Lake,Write-In,TOTAL,Commissioner of the Bureau of Labor and Industry,,,14
-Lake,Over Votes,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,PAISLEY P-3,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,FREMONT P-9,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Over Votes,TOTAL,Commissioner of the Bureau of Labor and Industry,,,0
-Lake,Under Votes,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industry,,,23
-Lake,Under Votes,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industry,,,14
-Lake,Under Votes,PAISLEY P-3,Commissioner of the Bureau of Labor and Industry,,,54
-Lake,Under Votes,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industry,,,69
-Lake,Under Votes,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industry,,,16
-Lake,Under Votes,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industry,,,13
-Lake,Under Votes,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industry,,,40
-Lake,Under Votes,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industry,,,48
-Lake,Under Votes,FREMONT P-9,Commissioner of the Bureau of Labor and Industry,,,50
-Lake,Under Votes,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industry,,,44
-Lake,Under Votes,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industry,,,42
-Lake,Under Votes,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industry,,,108
-Lake,Under Votes,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industry,,,81
-Lake,Under Votes,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industry,,,28
-Lake,Under Votes,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industry,,,22
-Lake,Under Votes,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industry,,,12
-Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industry,,,8
-Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industry,,,29
-Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industry,,,54
-Lake,Under Votes,TOTAL,Commissioner of the Bureau of Labor and Industry,,,755
+Lake,Kate Brown,SILVER LAKE P-1,State House,55,IND,0
+Lake,Kate Brown,SUMMER LAKE P-2,State House,55,IND,0
+Lake,Kate Brown,PAISLEY P-3,State House,55,IND,0
+Lake,Kate Brown,CROOKED CREEK P-4,State House,55,IND,0
+Lake,Kate Brown,NORTH WARNER P-5,State House,55,IND,0
+Lake,Kate Brown,SOUTH WARNER P-6,State House,55,IND,0
+Lake,Kate Brown,NORTH LAKEVIEW P-7,State House,55,IND,0
+Lake,Kate Brown,SOUTH LAKEVIEW P-8,State House,55,IND,1
+Lake,Kate Brown,FREMONT P-9,State House,55,IND,0
+Lake,Kate Brown,GOOSE LAKE P-10,State House,55,IND,0
+Lake,Kate Brown,COGSWELL CREEK P-11,State House,55,IND,0
+Lake,Kate Brown,THOM.CRK. WESTSIDE P-12 ,State House,55,IND,0
+Lake,Kate Brown,CHRISTMAS VALLEY P-13,State House,55,IND,1
+Lake,Kate Brown,FORT ROCK P-14,State House,55,IND,0
+Lake,Kate Brown,WEST LAKEVIEW P-15,State House,55,IND,0
+Lake,Kate Brown,NEW PINE CREEK P-16,State House,55,IND,0
+Lake,Kate Brown,VALLEY FALLS PREC.  P-18 ,State House,55,IND,0
+Lake,Kate Brown,NO. CENTRAL LKVW.  P-20 ,State House,55,IND,0
+Lake,Kate Brown,SO. CENTRAL LKVW.   P-21 ,State House,55,IND,1
+Lake,Kate Brown,TOTAL,State House,55,IND,3
+Lake,Mike Mclane,SILVER LAKE P-1,State House,55,IND,0
+Lake,Mike Mclane,SUMMER LAKE P-2,State House,55,IND,3
+Lake,Mike Mclane,PAISLEY P-3,State House,55,IND,1
+Lake,Mike Mclane,CROOKED CREEK P-4,State House,55,IND,1
+Lake,Mike Mclane,CHRISTMAS VALLEY P-13,State House,55,IND,3
+Lake,Mike Mclane,FORT ROCK P-14,State House,55,IND,2
+Lake,Mike Mclane,VALLEY FALLS PREC.  P-18 ,State House,55,IND,0
+Lake,Mike Mclane,TOTAL,State House,55,IND,10
+Lake,Over Votes,SILVER LAKE P-1,State House,55,IND,0
+Lake,Over Votes,SUMMER LAKE P-2,State House,55,IND,0
+Lake,Over Votes,PAISLEY P-3,State House,55,IND,0
+Lake,Over Votes,CROOKED CREEK P-4,State House,55,IND,0
+Lake,Over Votes,CHRISTMAS VALLEY P-13,State House,55,IND,0
+Lake,Over Votes,FORT ROCK P-14,State House,55,IND,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State House,55,IND,0
+Lake,Over Votes,TOTAL,State House,55,IND,0
+Lake,Under Votes,SILVER LAKE P-1,State House,55,IND,4
+Lake,Under Votes,SUMMER LAKE P-2,State House,55,IND,2
+Lake,Under Votes,PAISLEY P-3,State House,55,IND,2
+Lake,Under Votes,CROOKED CREEK P-4,State House,55,IND,0
+Lake,Under Votes,CHRISTMAS VALLEY P-13,State House,55,IND,17
+Lake,Under Votes,FORT ROCK P-14,State House,55,IND,2
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State House,55,IND,0
+Lake,Under Votes,TOTAL,State House,55,IND,27
+Lake,Taylor Tupper,CROOKED CREEK P-4,State House,56,IND,1
+Lake,Taylor Tupper,NORTH LAKEVIEW P-7,State House,56,IND,0
+Lake,Taylor Tupper,SOUTH LAKEVIEW P-8,State House,56,IND,2
+Lake,Taylor Tupper,FREMONT P-9,State House,56,IND,2
+Lake,Taylor Tupper,GOOSE LAKE P-10,State House,56,IND,0
+Lake,Taylor Tupper,COGSWELL CREEK P-11,State House,56,IND,0
+Lake,Taylor Tupper,THOM.CRK. WESTSIDE P-12 ,State House,56,IND,2
+Lake,Taylor Tupper,WEST LAKEVIEW P-15,State House,56,IND,0
+Lake,Taylor Tupper,NO. CENTRAL LKVW.  P-20 ,State House,56,IND,0
+Lake,Taylor Tupper,SO. CENTRAL LKVW.   P-21 ,State House,56,IND,0
+Lake,Taylor Tupper,TOTAL,State House,56,IND,7
+Lake,Elmer Ribblet,CROOKED CREEK P-4,State House,56,IND,0
+Lake,Elmer Ribblet,NORTH LAKEVIEW P-7,State House,56,IND,0
+Lake,Elmer Ribblet,SOUTH LAKEVIEW P-8,State House,56,IND,2
+Lake,Elmer Ribblet,FREMONT P-9,State House,56,IND,0
+Lake,Elmer Ribblet,GOOSE LAKE P-10,State House,56,IND,0
+Lake,Elmer Ribblet,COGSWELL CREEK P-11,State House,56,IND,0
+Lake,Elmer Ribblet,THOM.CRK. WESTSIDE P-12 ,State House,56,IND,0
+Lake,Elmer Ribblet,WEST LAKEVIEW P-15,State House,56,IND,0
+Lake,Elmer Ribblet,NO. CENTRAL LKVW.  P-20 ,State House,56,IND,0
+Lake,Elmer Ribblet,SO. CENTRAL LKVW.   P-21 ,State House,56,IND,0
+Lake,Elmer Ribblet,TOTAL,State House,56,IND,2
+Lake,E Werner Reschke,CROOKED CREEK P-4,State House,56,IND,0
+Lake,E Werner Reschke,NORTH LAKEVIEW P-7,State House,56,IND,0
+Lake,E Werner Reschke,SOUTH LAKEVIEW P-8,State House,56,IND,1
+Lake,E Werner Reschke,FREMONT P-9,State House,56,IND,0
+Lake,E Werner Reschke,GOOSE LAKE P-10,State House,56,IND,1
+Lake,E Werner Reschke,COGSWELL CREEK P-11,State House,56,IND,0
+Lake,E Werner Reschke,THOM.CRK. WESTSIDE P-12 ,State House,56,IND,0
+Lake,E Werner Reschke,WEST LAKEVIEW P-15,State House,56,IND,1
+Lake,E Werner Reschke,NO. CENTRAL LKVW.  P-20 ,State House,56,IND,0
+Lake,E Werner Reschke,SO. CENTRAL LKVW.   P-21 ,State House,56,IND,0
+Lake,E Werner Reschke,TOTAL,State House,56,IND,3
+Lake,Ken Hinckle,CROOKED CREEK P-4,State House,56,IND,0
+Lake,Ken Hinckle,NORTH LAKEVIEW P-7,State House,56,IND,0
+Lake,Ken Hinckle,SOUTH LAKEVIEW P-8,State House,56,IND,0
+Lake,Ken Hinckle,FREMONT P-9,State House,56,IND,0
+Lake,Ken Hinckle,GOOSE LAKE P-10,State House,56,IND,1
+Lake,Ken Hinckle,COGSWELL CREEK P-11,State House,56,IND,0
+Lake,Ken Hinckle,THOM.CRK. WESTSIDE P-12 ,State House,56,IND,0
+Lake,Ken Hinckle,WEST LAKEVIEW P-15,State House,56,IND,0
+Lake,Ken Hinckle,NO. CENTRAL LKVW.  P-20 ,State House,56,IND,0
+Lake,Ken Hinckle,SO. CENTRAL LKVW.   P-21 ,State House,56,IND,0
+Lake,Ken Hinckle,TOTAL,State House,56,IND,1
+Lake,Over Votes,CROOKED CREEK P-4,State House,56,IND,0
+Lake,Over Votes,NORTH LAKEVIEW P-7,State House,56,IND,0
+Lake,Over Votes,SOUTH LAKEVIEW P-8,State House,56,IND,0
+Lake,Over Votes,FREMONT P-9,State House,56,IND,0
+Lake,Over Votes,GOOSE LAKE P-10,State House,56,IND,0
+Lake,Over Votes,COGSWELL CREEK P-11,State House,56,IND,0
+Lake,Over Votes,THOM.CRK. WESTSIDE P-12 ,State House,56,IND,0
+Lake,Over Votes,WEST LAKEVIEW P-15,State House,56,IND,0
+Lake,Over Votes,NO. CENTRAL LKVW.  P-20 ,State House,56,IND,0
+Lake,Over Votes,SO. CENTRAL LKVW.   P-21 ,State House,56,IND,0
+Lake,Over Votes,TOTAL,State House,56,IND,0
+Lake,Under Votes,CROOKED CREEK P-4,State House,56,IND,2
+Lake,Under Votes,NORTH LAKEVIEW P-7,State House,56,IND,7
+Lake,Under Votes,SOUTH LAKEVIEW P-8,State House,56,IND,1
+Lake,Under Votes,FREMONT P-9,State House,56,IND,5
+Lake,Under Votes,GOOSE LAKE P-10,State House,56,IND,1
+Lake,Under Votes,COGSWELL CREEK P-11,State House,56,IND,4
+Lake,Under Votes,THOM.CRK. WESTSIDE P-12 ,State House,56,IND,11
+Lake,Under Votes,WEST LAKEVIEW P-15,State House,56,IND,3
+Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,State House,56,IND,3
+Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,State House,56,IND,5
+Lake,Under Votes,TOTAL,State House,56,IND,42
+Lake,Write-In,CROOKED CREEK P-4,State House,60,IND,0
+Lake,Write-In,NORTH WARNER P-5,State House,60,IND,0
+Lake,Write-In,SOUTH WARNER P-6,State House,60,IND,0
+Lake,Write-In,COGSWELL CREEK P-11,State House,60,IND,0
+Lake,Write-In,NEW PINE CREEK P-16,State House,60,IND,0
+Lake,Write-In,VALLEY FALLS PREC.  P-18 ,State House,60,IND,0
+Lake,Write-In,TOTAL,State House,60,IND,0
+Lake,Over Votes,CROOKED CREEK P-4,State House,60,IND,0
+Lake,Over Votes,NORTH WARNER P-5,State House,60,IND,0
+Lake,Over Votes,SOUTH WARNER P-6,State House,60,IND,0
+Lake,Over Votes,COGSWELL CREEK P-11,State House,60,IND,0
+Lake,Over Votes,NEW PINE CREEK P-16,State House,60,IND,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,State House,60,IND,0
+Lake,Over Votes,TOTAL,State House,60,IND,0
+Lake,Under Votes,CROOKED CREEK P-4,State House,60,IND,1
+Lake,Under Votes,NORTH WARNER P-5,State House,60,IND,2
+Lake,Under Votes,SOUTH WARNER P-6,State House,60,IND,2
+Lake,Under Votes,COGSWELL CREEK P-11,State House,60,IND,1
+Lake,Under Votes,NEW PINE CREEK P-16,State House,60,IND,1
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,State House,60,IND,1
+Lake,Under Votes,TOTAL,State House,60,IND,8
+Lake,Lou Ogden,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industries,,,19
+Lake,Lou Ogden,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industries,,,22
+Lake,Lou Ogden,PAISLEY P-3,Commissioner of the Bureau of Labor and Industries,,,53
+Lake,Lou Ogden,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industries,,,42
+Lake,Lou Ogden,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industries,,,16
+Lake,Lou Ogden,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industries,,,16
+Lake,Lou Ogden,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industries,,,37
+Lake,Lou Ogden,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industries,,,34
+Lake,Lou Ogden,FREMONT P-9,Commissioner of the Bureau of Labor and Industries,,,58
+Lake,Lou Ogden,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industries,,,46
+Lake,Lou Ogden,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industries,,,40
+Lake,Lou Ogden,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industries,,,99
+Lake,Lou Ogden,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industries,,,147
+Lake,Lou Ogden,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industries,,,17
+Lake,Lou Ogden,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industries,,,34
+Lake,Lou Ogden,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industries,,,15
+Lake,Lou Ogden,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industries,,,8
+Lake,Lou Ogden,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industries,,,33
+Lake,Lou Ogden,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industries,,,38
+Lake,Lou Ogden,TOTAL,Commissioner of the Bureau of Labor and Industries,,,774
+Lake,Val Hoyle,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industries,,,15
+Lake,Val Hoyle,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industries,,,19
+Lake,Val Hoyle,PAISLEY P-3,Commissioner of the Bureau of Labor and Industries,,,17
+Lake,Val Hoyle,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industries,,,20
+Lake,Val Hoyle,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industries,,,1
+Lake,Val Hoyle,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industries,,,6
+Lake,Val Hoyle,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industries,,,17
+Lake,Val Hoyle,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industries,,,27
+Lake,Val Hoyle,FREMONT P-9,Commissioner of the Bureau of Labor and Industries,,,28
+Lake,Val Hoyle,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industries,,,13
+Lake,Val Hoyle,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industries,,,28
+Lake,Val Hoyle,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industries,,,62
+Lake,Val Hoyle,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industries,,,68
+Lake,Val Hoyle,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industries,,,11
+Lake,Val Hoyle,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industries,,,6
+Lake,Val Hoyle,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industries,,,4
+Lake,Val Hoyle,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Val Hoyle,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industries,,,15
+Lake,Val Hoyle,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industries,,,32
+Lake,Val Hoyle,TOTAL,Commissioner of the Bureau of Labor and Industries,,,389
+Lake,Jack Howard,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industries,,,19
+Lake,Jack Howard,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industries,,,11
+Lake,Jack Howard,PAISLEY P-3,Commissioner of the Bureau of Labor and Industries,,,28
+Lake,Jack Howard,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industries,,,33
+Lake,Jack Howard,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industries,,,2
+Lake,Jack Howard,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industries,,,5
+Lake,Jack Howard,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industries,,,35
+Lake,Jack Howard,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industries,,,29
+Lake,Jack Howard,FREMONT P-9,Commissioner of the Bureau of Labor and Industries,,,43
+Lake,Jack Howard,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industries,,,17
+Lake,Jack Howard,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industries,,,46
+Lake,Jack Howard,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industries,,,39
+Lake,Jack Howard,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industries,,,97
+Lake,Jack Howard,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industries,,,23
+Lake,Jack Howard,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industries,,,23
+Lake,Jack Howard,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industries,,,17
+Lake,Jack Howard,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industries,,,7
+Lake,Jack Howard,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industries,,,21
+Lake,Jack Howard,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industries,,,31
+Lake,Jack Howard,TOTAL,Commissioner of the Bureau of Labor and Industries,,,526
+Lake,Write-In,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,PAISLEY P-3,Commissioner of the Bureau of Labor and Industries,,,1
+Lake,Write-In,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industries,,,1
+Lake,Write-In,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industries,,,3
+Lake,Write-In,FREMONT P-9,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industries,,,1
+Lake,Write-In,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industries,,,2
+Lake,Write-In,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industries,,,4
+Lake,Write-In,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Write-In,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industries,,,2
+Lake,Write-In,TOTAL,Commissioner of the Bureau of Labor and Industries,,,14
+Lake,Over Votes,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,PAISLEY P-3,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,FREMONT P-9,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Over Votes,TOTAL,Commissioner of the Bureau of Labor and Industries,,,0
+Lake,Under Votes,SILVER LAKE P-1,Commissioner of the Bureau of Labor and Industries,,,23
+Lake,Under Votes,SUMMER LAKE P-2,Commissioner of the Bureau of Labor and Industries,,,14
+Lake,Under Votes,PAISLEY P-3,Commissioner of the Bureau of Labor and Industries,,,54
+Lake,Under Votes,CROOKED CREEK P-4,Commissioner of the Bureau of Labor and Industries,,,69
+Lake,Under Votes,NORTH WARNER P-5,Commissioner of the Bureau of Labor and Industries,,,16
+Lake,Under Votes,SOUTH WARNER P-6,Commissioner of the Bureau of Labor and Industries,,,13
+Lake,Under Votes,NORTH LAKEVIEW P-7,Commissioner of the Bureau of Labor and Industries,,,40
+Lake,Under Votes,SOUTH LAKEVIEW P-8,Commissioner of the Bureau of Labor and Industries,,,48
+Lake,Under Votes,FREMONT P-9,Commissioner of the Bureau of Labor and Industries,,,50
+Lake,Under Votes,GOOSE LAKE P-10,Commissioner of the Bureau of Labor and Industries,,,44
+Lake,Under Votes,COGSWELL CREEK P-11,Commissioner of the Bureau of Labor and Industries,,,42
+Lake,Under Votes,THOM.CRK. WESTSIDE P-12 ,Commissioner of the Bureau of Labor and Industries,,,108
+Lake,Under Votes,CHRISTMAS VALLEY P-13,Commissioner of the Bureau of Labor and Industries,,,81
+Lake,Under Votes,FORT ROCK P-14,Commissioner of the Bureau of Labor and Industries,,,28
+Lake,Under Votes,WEST LAKEVIEW P-15,Commissioner of the Bureau of Labor and Industries,,,22
+Lake,Under Votes,NEW PINE CREEK P-16,Commissioner of the Bureau of Labor and Industries,,,12
+Lake,Under Votes,VALLEY FALLS PREC.  P-18 ,Commissioner of the Bureau of Labor and Industries,,,8
+Lake,Under Votes,NO. CENTRAL LKVW.  P-20 ,Commissioner of the Bureau of Labor and Industries,,,29
+Lake,Under Votes,SO. CENTRAL LKVW.   P-21 ,Commissioner of the Bureau of Labor and Industries,,,54
+Lake,Under Votes,TOTAL,Commissioner of the Bureau of Labor and Industries,,,755
