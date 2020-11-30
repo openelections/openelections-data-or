@@ -1,0 +1,945 @@
+county,precinct,office,district,candidate,party,votes
+Coos,Precinct 01,Registered Voters,,,,1991
+Coos,Precinct 01,Ballots Cast,,,,1609
+Coos,Precinct 01,President,,Donald J. Trump / Michael R. Pence,,1035
+Coos,Precinct 01,President,,Joseph R. Biden / Kamala D. Harris,,518
+Coos,Precinct 01,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,23
+Coos,Precinct 01,President,,Howie Hawkins / Angela Walker,,11
+Coos,Precinct 01,President,,Dario Hunter / Dawn Neptune Adams,,1
+Coos,Precinct 01,President,,Write-in,,6
+Coos,Precinct 01,President,,Over Votes,,1
+Coos,Precinct 01,President,,Under Votes,,14
+Coos,Precinct 01,U.S. Senate,,Jo Rae Perkins,,954
+Coos,Precinct 01,U.S. Senate,,Jeff Merkley,,564
+Coos,Precinct 01,U.S. Senate,,Ibrahim A. Taher,,20
+Coos,Precinct 01,U.S. Senate,,Gary Dye,,30
+Coos,Precinct 01,U.S. Senate,,Write-in,,0
+Coos,Precinct 01,U.S. Senate,,Over Votes,,0
+Coos,Precinct 01,U.S. Senate,,Under Votes,,41
+Coos,Precinct 01,U.S. House,4,Daniel Hoffay,,43
+Coos,Precinct 01,U.S. House,4,Peter DeFazio,,562
+Coos,Precinct 01,U.S. House,4,Alek Skarlatos,,980
+Coos,Precinct 01,U.S. House,4,Write-in,,0
+Coos,Precinct 01,U.S. House,4,Over Votes,,0
+Coos,Precinct 01,U.S. House,4,Under Votes,,24
+Coos,Precinct 01,Secretary of State,,Kyle Markley,,37
+Coos,Precinct 01,Secretary of State,,Kim Thatcher,,1003
+Coos,Precinct 01,Secretary of State,,Shemia Fagan,,453
+Coos,Precinct 01,Secretary of State,,Write-in,,0
+Coos,Precinct 01,Secretary of State,,Over Votes,,0
+Coos,Precinct 01,Secretary of State,,Under Votes,,71
+Coos,Precinct 01,State Treasurer,,Michael P. Marsh,,39
+Coos,Precinct 01,State Treasurer,,Tobias Read,,475
+Coos,Precinct 01,State Treasurer,,Chris Henry,,60
+Coos,Precinct 01,State Treasurer,,Jeff Gudman,,948
+Coos,Precinct 01,State Treasurer,,Write-in,,0
+Coos,Precinct 01,State Treasurer,,Over Votes,,0
+Coos,Precinct 01,State Treasurer,,Under Votes,,86
+Coos,Precinct 01,Attorney General,,Ellen Rosenblum,,479
+Coos,Precinct 01,Attorney General,,Lars D.H. Hedbor,,37
+Coos,Precinct 01,Attorney General,,Michael Cross,,987
+Coos,Precinct 01,Attorney General,,Write-in,,1
+Coos,Precinct 01,Attorney General,,Over Votes,,0
+Coos,Precinct 01,Attorney General,,Under Votes,,104
+Coos,Precinct 01,State Senate,5,Dick Anderson,,980
+Coos,Precinct 01,State Senate,5,Shauleen Higgins,,75
+Coos,Precinct 01,State Senate,5,Melissa T. Cribbins,,479
+Coos,Precinct 01,State Senate,5,Write-in,,0
+Coos,Precinct 01,State Senate,5,Over Votes,,0
+Coos,Precinct 01,State Senate,5,Under Votes,,74
+Coos,Precinct 01,State House,9,Cal Mukumoto,,471
+Coos,Precinct 01,State House,9,Boomer Wright,,1050
+Coos,Precinct 01,State House,9,Write-in,,1
+Coos,Precinct 01,State House,9,Over Votes,,0
+Coos,Precinct 01,State House,9,Under Votes,,86
+Coos,Precinct 02,Registered Voters,,,,3273
+Coos,Precinct 02,Ballots Cast,,,,2726
+Coos,Precinct 02,President,,Donald J. Trump / Michael R. Pence,,1665
+Coos,Precinct 02,President,,Joseph R. Biden / Kamala D. Harris,,991
+Coos,Precinct 02,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,27
+Coos,Precinct 02,President,,Howie Hawkins / Angela Walker,,9
+Coos,Precinct 02,President,,Dario Hunter / Dawn Neptune Adams,,4
+Coos,Precinct 02,President,,Write-in,,12
+Coos,Precinct 02,President,,Over Votes,,1
+Coos,Precinct 02,President,,Under Votes,,17
+Coos,Precinct 02,U.S. Senate,,Jo Rae Perkins,,1559
+Coos,Precinct 02,U.S. Senate,,Jeff Merkley,,1023
+Coos,Precinct 02,U.S. Senate,,Ibrahim A. Taher,,23
+Coos,Precinct 02,U.S. Senate,,Gary Dye,,35
+Coos,Precinct 02,U.S. Senate,,Write-in,,0
+Coos,Precinct 02,U.S. Senate,,Over Votes,,1
+Coos,Precinct 02,U.S. Senate,,Under Votes,,85
+Coos,Precinct 02,U.S. House,4,Daniel Hoffay,,32
+Coos,Precinct 02,U.S. House,4,Peter DeFazio,,1023
+Coos,Precinct 02,U.S. House,4,Alek Skarlatos,,1630
+Coos,Precinct 02,U.S. House,4,Write-in,,0
+Coos,Precinct 02,U.S. House,4,Over Votes,,0
+Coos,Precinct 02,U.S. House,4,Under Votes,,41
+Coos,Precinct 02,Secretary of State,,Kyle Markley,,67
+Coos,Precinct 02,Secretary of State,,Kim Thatcher,,1630
+Coos,Precinct 02,Secretary of State,,Shemia Fagan,,866
+Coos,Precinct 02,Secretary of State,,Write-in,,0
+Coos,Precinct 02,Secretary of State,,Over Votes,,0
+Coos,Precinct 02,Secretary of State,,Under Votes,,108
+Coos,Precinct 02,State Treasurer,,Michael P. Marsh,,66
+Coos,Precinct 02,State Treasurer,,Tobias Read,,931
+Coos,Precinct 02,State Treasurer,,Chris Henry,,76
+Coos,Precinct 02,State Treasurer,,Jeff Gudman,,1516
+Coos,Precinct 02,State Treasurer,,Write-in,,0
+Coos,Precinct 02,State Treasurer,,Over Votes,,1
+Coos,Precinct 02,State Treasurer,,Under Votes,,128
+Coos,Precinct 02,Attorney General,,Ellen Rosenblum,,943
+Coos,Precinct 02,Attorney General,,Lars D.H. Hedbor,,43
+Coos,Precinct 02,Attorney General,,Michael Cross,,1588
+Coos,Precinct 02,Attorney General,,Write-in,,3
+Coos,Precinct 02,Attorney General,,Over Votes,,0
+Coos,Precinct 02,Attorney General,,Under Votes,,141
+Coos,Precinct 02,State Senate,5,Dick Anderson,,1609
+Coos,Precinct 02,State Senate,5,Shauleen Higgins,,103
+Coos,Precinct 02,State Senate,5,Melissa T. Cribbins,,918
+Coos,Precinct 02,State Senate,5,Write-in,,0
+Coos,Precinct 02,State Senate,5,Over Votes,,0
+Coos,Precinct 02,State Senate,5,Under Votes,,88
+Coos,Precinct 02,State House,9,Cal Mukumoto,,928
+Coos,Precinct 02,State House,9,Boomer Wright,,1700
+Coos,Precinct 02,State House,9,Write-in,,1
+Coos,Precinct 02,State House,9,Over Votes,,0
+Coos,Precinct 02,State House,9,Under Votes,,89
+Coos,Precinct 03,Registered Voters,,,,4006
+Coos,Precinct 03,Ballots Cast,,,,3118
+Coos,Precinct 03,President,,Donald J. Trump / Michael R. Pence,,1760
+Coos,Precinct 03,President,,Joseph R. Biden / Kamala D. Harris,,1236
+Coos,Precinct 03,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,59
+Coos,Precinct 03,President,,Howie Hawkins / Angela Walker,,8
+Coos,Precinct 03,President,,Dario Hunter / Dawn Neptune Adams,,8
+Coos,Precinct 03,President,,Write-in,,12
+Coos,Precinct 03,President,,Over Votes,,0
+Coos,Precinct 03,President,,Under Votes,,35
+Coos,Precinct 03,U.S. Senate,,Jo Rae Perkins,,1554
+Coos,Precinct 03,U.S. Senate,,Jeff Merkley,,1343
+Coos,Precinct 03,U.S. Senate,,Ibrahim A. Taher,,43
+Coos,Precinct 03,U.S. Senate,,Gary Dye,,51
+Coos,Precinct 03,U.S. Senate,,Write-in,,2
+Coos,Precinct 03,U.S. Senate,,Over Votes,,0
+Coos,Precinct 03,U.S. Senate,,Under Votes,,125
+Coos,Precinct 03,U.S. House,4,Daniel Hoffay,,70
+Coos,Precinct 03,U.S. House,4,Peter DeFazio,,1298
+Coos,Precinct 03,U.S. House,4,Alek Skarlatos,,1670
+Coos,Precinct 03,U.S. House,4,Write-in,,4
+Coos,Precinct 03,U.S. House,4,Over Votes,,0
+Coos,Precinct 03,U.S. House,4,Under Votes,,76
+Coos,Precinct 03,Secretary of State,,Kyle Markley,,100
+Coos,Precinct 03,Secretary of State,,Kim Thatcher,,1690
+Coos,Precinct 03,Secretary of State,,Shemia Fagan,,1046
+Coos,Precinct 03,Secretary of State,,Write-in,,1
+Coos,Precinct 03,Secretary of State,,Over Votes,,0
+Coos,Precinct 03,Secretary of State,,Under Votes,,195
+Coos,Precinct 03,State Treasurer,,Michael P. Marsh,,93
+Coos,Precinct 03,State Treasurer,,Tobias Read,,1152
+Coos,Precinct 03,State Treasurer,,Chris Henry,,121
+Coos,Precinct 03,State Treasurer,,Jeff Gudman,,1549
+Coos,Precinct 03,State Treasurer,,Write-in,,1
+Coos,Precinct 03,State Treasurer,,Over Votes,,0
+Coos,Precinct 03,State Treasurer,,Under Votes,,197
+Coos,Precinct 03,Attorney General,,Ellen Rosenblum,,1200
+Coos,Precinct 03,Attorney General,,Lars D.H. Hedbor,,69
+Coos,Precinct 03,Attorney General,,Michael Cross,,1617
+Coos,Precinct 03,Attorney General,,Write-in,,7
+Coos,Precinct 03,Attorney General,,Over Votes,,0
+Coos,Precinct 03,Attorney General,,Under Votes,,220
+Coos,Precinct 03,State Senate,5,Dick Anderson,,1664
+Coos,Precinct 03,State Senate,5,Shauleen Higgins,,112
+Coos,Precinct 03,State Senate,5,Melissa T. Cribbins,,1197
+Coos,Precinct 03,State Senate,5,Write-in,,4
+Coos,Precinct 03,State Senate,5,Over Votes,,0
+Coos,Precinct 03,State Senate,5,Under Votes,,136
+Coos,Precinct 03,State House,9,Cal Mukumoto,,1192
+Coos,Precinct 03,State House,9,Boomer Wright,,1771
+Coos,Precinct 03,State House,9,Write-in,,6
+Coos,Precinct 03,State House,9,Over Votes,,0
+Coos,Precinct 03,State House,9,Under Votes,,144
+Coos,Precinct 04,Registered Voters,,,,3003
+Coos,Precinct 04,Ballots Cast,,,,2317
+Coos,Precinct 04,President,,Donald J. Trump / Michael R. Pence,,1132
+Coos,Precinct 04,President,,Joseph R. Biden / Kamala D. Harris,,1109
+Coos,Precinct 04,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,35
+Coos,Precinct 04,President,,Howie Hawkins / Angela Walker,,10
+Coos,Precinct 04,President,,Dario Hunter / Dawn Neptune Adams,,3
+Coos,Precinct 04,President,,Write-in,,15
+Coos,Precinct 04,President,,Over Votes,,0
+Coos,Precinct 04,President,,Under Votes,,13
+Coos,Precinct 04,U.S. Senate,,Jo Rae Perkins,,1035
+Coos,Precinct 04,U.S. Senate,,Jeff Merkley,,1120
+Coos,Precinct 04,U.S. Senate,,Ibrahim A. Taher,,40
+Coos,Precinct 04,U.S. Senate,,Gary Dye,,44
+Coos,Precinct 04,U.S. Senate,,Write-in,,1
+Coos,Precinct 04,U.S. Senate,,Over Votes,,0
+Coos,Precinct 04,U.S. Senate,,Under Votes,,77
+Coos,Precinct 04,U.S. House,4,Daniel Hoffay,,46
+Coos,Precinct 04,U.S. House,4,Peter DeFazio,,1138
+Coos,Precinct 04,U.S. House,4,Alek Skarlatos,,1069
+Coos,Precinct 04,U.S. House,4,Write-in,,3
+Coos,Precinct 04,U.S. House,4,Over Votes,,0
+Coos,Precinct 04,U.S. House,4,Under Votes,,61
+Coos,Precinct 04,Secretary of State,,Kyle Markley,,74
+Coos,Precinct 04,Secretary of State,,Kim Thatcher,,1102
+Coos,Precinct 04,Secretary of State,,Shemia Fagan,,949
+Coos,Precinct 04,Secretary of State,,Write-in,,1
+Coos,Precinct 04,Secretary of State,,Over Votes,,0
+Coos,Precinct 04,Secretary of State,,Under Votes,,135
+Coos,Precinct 04,State Treasurer,,Michael P. Marsh,,58
+Coos,Precinct 04,State Treasurer,,Tobias Read,,987
+Coos,Precinct 04,State Treasurer,,Chris Henry,,108
+Coos,Precinct 04,State Treasurer,,Jeff Gudman,,1019
+Coos,Precinct 04,State Treasurer,,Write-in,,1
+Coos,Precinct 04,State Treasurer,,Over Votes,,0
+Coos,Precinct 04,State Treasurer,,Under Votes,,143
+Coos,Precinct 04,Attorney General,,Ellen Rosenblum,,1056
+Coos,Precinct 04,Attorney General,,Lars D.H. Hedbor,,56
+Coos,Precinct 04,Attorney General,,Michael Cross,,1050
+Coos,Precinct 04,Attorney General,,Write-in,,1
+Coos,Precinct 04,Attorney General,,Over Votes,,0
+Coos,Precinct 04,Attorney General,,Under Votes,,153
+Coos,Precinct 04,State Senate,5,Dick Anderson,,1085
+Coos,Precinct 04,State Senate,5,Shauleen Higgins,,107
+Coos,Precinct 04,State Senate,5,Melissa T. Cribbins,,1015
+Coos,Precinct 04,State Senate,5,Write-in,,2
+Coos,Precinct 04,State Senate,5,Over Votes,,0
+Coos,Precinct 04,State Senate,5,Under Votes,,107
+Coos,Precinct 04,State House,9,Cal Mukumoto,,1041
+Coos,Precinct 04,State House,9,Boomer Wright,,1162
+Coos,Precinct 04,State House,9,Write-in,,1
+Coos,Precinct 04,State House,9,Over Votes,,0
+Coos,Precinct 04,State House,9,Under Votes,,112
+Coos,Precinct 05,Registered Voters,,,,4981
+Coos,Precinct 05,Ballots Cast,,,,3636
+Coos,Precinct 05,President,,Donald J. Trump / Michael R. Pence,,1930
+Coos,Precinct 05,President,,Joseph R. Biden / Kamala D. Harris,,1560
+Coos,Precinct 05,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,66
+Coos,Precinct 05,President,,Howie Hawkins / Angela Walker,,17
+Coos,Precinct 05,President,,Dario Hunter / Dawn Neptune Adams,,9
+Coos,Precinct 05,President,,Write-in,,22
+Coos,Precinct 05,President,,Over Votes,,0
+Coos,Precinct 05,President,,Under Votes,,32
+Coos,Precinct 05,U.S. Senate,,Jo Rae Perkins,,1751
+Coos,Precinct 05,U.S. Senate,,Jeff Merkley,,1618
+Coos,Precinct 05,U.S. Senate,,Ibrahim A. Taher,,59
+Coos,Precinct 05,U.S. Senate,,Gary Dye,,82
+Coos,Precinct 05,U.S. Senate,,Write-in,,4
+Coos,Precinct 05,U.S. Senate,,Over Votes,,0
+Coos,Precinct 05,U.S. Senate,,Under Votes,,122
+Coos,Precinct 05,U.S. House,4,Daniel Hoffay,,108
+Coos,Precinct 05,U.S. House,4,Peter DeFazio,,1606
+Coos,Precinct 05,U.S. House,4,Alek Skarlatos,,1815
+Coos,Precinct 05,U.S. House,4,Write-in,,4
+Coos,Precinct 05,U.S. House,4,Over Votes,,0
+Coos,Precinct 05,U.S. House,4,Under Votes,,103
+Coos,Precinct 05,Secretary of State,,Kyle Markley,,133
+Coos,Precinct 05,Secretary of State,,Kim Thatcher,,1851
+Coos,Precinct 05,Secretary of State,,Shemia Fagan,,1336
+Coos,Precinct 05,Secretary of State,,Write-in,,3
+Coos,Precinct 05,Secretary of State,,Over Votes,,0
+Coos,Precinct 05,Secretary of State,,Under Votes,,198
+Coos,Precinct 05,State Treasurer,,Michael P. Marsh,,93
+Coos,Precinct 05,State Treasurer,,Tobias Read,,1408
+Coos,Precinct 05,State Treasurer,,Chris Henry,,180
+Coos,Precinct 05,State Treasurer,,Jeff Gudman,,1727
+Coos,Precinct 05,State Treasurer,,Write-in,,5
+Coos,Precinct 05,State Treasurer,,Over Votes,,1
+Coos,Precinct 05,State Treasurer,,Under Votes,,214
+Coos,Precinct 05,Attorney General,,Ellen Rosenblum,,1493
+Coos,Precinct 05,Attorney General,,Lars D.H. Hedbor,,110
+Coos,Precinct 05,Attorney General,,Michael Cross,,1781
+Coos,Precinct 05,Attorney General,,Write-in,,9
+Coos,Precinct 05,Attorney General,,Over Votes,,1
+Coos,Precinct 05,Attorney General,,Under Votes,,234
+Coos,Precinct 05,State Senate,5,Dick Anderson,,1837
+Coos,Precinct 05,State Senate,5,Shauleen Higgins,,169
+Coos,Precinct 05,State Senate,5,Melissa T. Cribbins,,1451
+Coos,Precinct 05,State Senate,5,Write-in,,3
+Coos,Precinct 05,State Senate,5,Over Votes,,0
+Coos,Precinct 05,State Senate,5,Under Votes,,168
+Coos,Precinct 05,State House,9,Cal Mukumoto,,1487
+Coos,Precinct 05,State House,9,Boomer Wright,,1966
+Coos,Precinct 05,State House,9,Write-in,,3
+Coos,Precinct 05,State House,9,Over Votes,,0
+Coos,Precinct 05,State House,9,Under Votes,,172
+Coos,Precinct 06,Registered Voters,,,,2687
+Coos,Precinct 06,Ballots Cast,,,,2155
+Coos,Precinct 06,President,,Donald J. Trump / Michael R. Pence,,1012
+Coos,Precinct 06,President,,Joseph R. Biden / Kamala D. Harris,,1040
+Coos,Precinct 06,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,46
+Coos,Precinct 06,President,,Howie Hawkins / Angela Walker,,13
+Coos,Precinct 06,President,,Dario Hunter / Dawn Neptune Adams,,15
+Coos,Precinct 06,President,,Write-in,,11
+Coos,Precinct 06,President,,Over Votes,,1
+Coos,Precinct 06,President,,Under Votes,,17
+Coos,Precinct 06,U.S. Senate,,Jo Rae Perkins,,931
+Coos,Precinct 06,U.S. Senate,,Jeff Merkley,,1069
+Coos,Precinct 06,U.S. Senate,,Ibrahim A. Taher,,33
+Coos,Precinct 06,U.S. Senate,,Gary Dye,,40
+Coos,Precinct 06,U.S. Senate,,Write-in,,2
+Coos,Precinct 06,U.S. Senate,,Over Votes,,0
+Coos,Precinct 06,U.S. Senate,,Under Votes,,80
+Coos,Precinct 06,U.S. House,4,Daniel Hoffay,,49
+Coos,Precinct 06,U.S. House,4,Peter DeFazio,,1052
+Coos,Precinct 06,U.S. House,4,Alek Skarlatos,,998
+Coos,Precinct 06,U.S. House,4,Write-in,,2
+Coos,Precinct 06,U.S. House,4,Over Votes,,0
+Coos,Precinct 06,U.S. House,4,Under Votes,,54
+Coos,Precinct 06,Secretary of State,,Kyle Markley,,61
+Coos,Precinct 06,Secretary of State,,Kim Thatcher,,1017
+Coos,Precinct 06,Secretary of State,,Shemia Fagan,,873
+Coos,Precinct 06,Secretary of State,,Write-in,,3
+Coos,Precinct 06,Secretary of State,,Over Votes,,1
+Coos,Precinct 06,Secretary of State,,Under Votes,,130
+Coos,Precinct 06,State Treasurer,,Michael P. Marsh,,43
+Coos,Precinct 06,State Treasurer,,Tobias Read,,928
+Coos,Precinct 06,State Treasurer,,Chris Henry,,85
+Coos,Precinct 06,State Treasurer,,Jeff Gudman,,946
+Coos,Precinct 06,State Treasurer,,Write-in,,3
+Coos,Precinct 06,State Treasurer,,Over Votes,,0
+Coos,Precinct 06,State Treasurer,,Under Votes,,145
+Coos,Precinct 06,Attorney General,,Ellen Rosenblum,,990
+Coos,Precinct 06,Attorney General,,Lars D.H. Hedbor,,49
+Coos,Precinct 06,Attorney General,,Michael Cross,,963
+Coos,Precinct 06,Attorney General,,Write-in,,3
+Coos,Precinct 06,Attorney General,,Over Votes,,0
+Coos,Precinct 06,Attorney General,,Under Votes,,145
+Coos,Precinct 06,State Senate,5,Dick Anderson,,953
+Coos,Precinct 06,State Senate,5,Shauleen Higgins,,103
+Coos,Precinct 06,State Senate,5,Melissa T. Cribbins,,986
+Coos,Precinct 06,State Senate,5,Write-in,,1
+Coos,Precinct 06,State Senate,5,Over Votes,,0
+Coos,Precinct 06,State Senate,5,Under Votes,,107
+Coos,Precinct 06,State House,9,Cal Mukumoto,,983
+Coos,Precinct 06,State House,9,Boomer Wright,,1072
+Coos,Precinct 06,State House,9,Write-in,,1
+Coos,Precinct 06,State House,9,Over Votes,,0
+Coos,Precinct 06,State House,9,Under Votes,,94
+Coos,Precinct 07,Registered Voters,,,,3361
+Coos,Precinct 07,Ballots Cast,,,,2556
+Coos,Precinct 07,President,,Donald J. Trump / Michael R. Pence,,1289
+Coos,Precinct 07,President,,Joseph R. Biden / Kamala D. Harris,,1145
+Coos,Precinct 07,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,67
+Coos,Precinct 07,President,,Howie Hawkins / Angela Walker,,19
+Coos,Precinct 07,President,,Dario Hunter / Dawn Neptune Adams,,6
+Coos,Precinct 07,President,,Write-in,,12
+Coos,Precinct 07,President,,Over Votes,,0
+Coos,Precinct 07,President,,Under Votes,,18
+Coos,Precinct 07,U.S. Senate,,Jo Rae Perkins,,1154
+Coos,Precinct 07,U.S. Senate,,Jeff Merkley,,1194
+Coos,Precinct 07,U.S. Senate,,Ibrahim A. Taher,,47
+Coos,Precinct 07,U.S. Senate,,Gary Dye,,71
+Coos,Precinct 07,U.S. Senate,,Write-in,,2
+Coos,Precinct 07,U.S. Senate,,Over Votes,,0
+Coos,Precinct 07,U.S. Senate,,Under Votes,,88
+Coos,Precinct 07,U.S. House,4,Daniel Hoffay,,72
+Coos,Precinct 07,U.S. House,4,Peter DeFazio,,1185
+Coos,Precinct 07,U.S. House,4,Alek Skarlatos,,1243
+Coos,Precinct 07,U.S. House,4,Write-in,,1
+Coos,Precinct 07,U.S. House,4,Over Votes,,0
+Coos,Precinct 07,U.S. House,4,Under Votes,,55
+Coos,Precinct 07,Secretary of State,,Kyle Markley,,80
+Coos,Precinct 07,Secretary of State,,Kim Thatcher,,1252
+Coos,Precinct 07,Secretary of State,,Shemia Fagan,,976
+Coos,Precinct 07,Secretary of State,,Write-in,,3
+Coos,Precinct 07,Secretary of State,,Over Votes,,0
+Coos,Precinct 07,Secretary of State,,Under Votes,,142
+Coos,Precinct 07,State Treasurer,,Michael P. Marsh,,100
+Coos,Precinct 07,State Treasurer,,Tobias Read,,1060
+Coos,Precinct 07,State Treasurer,,Chris Henry,,127
+Coos,Precinct 07,State Treasurer,,Jeff Gudman,,1127
+Coos,Precinct 07,State Treasurer,,Write-in,,0
+Coos,Precinct 07,State Treasurer,,Over Votes,,0
+Coos,Precinct 07,State Treasurer,,Under Votes,,140
+Coos,Precinct 07,Attorney General,,Ellen Rosenblum,,1127
+Coos,Precinct 07,Attorney General,,Lars D.H. Hedbor,,70
+Coos,Precinct 07,Attorney General,,Michael Cross,,1202
+Coos,Precinct 07,Attorney General,,Write-in,,5
+Coos,Precinct 07,Attorney General,,Over Votes,,0
+Coos,Precinct 07,Attorney General,,Under Votes,,150
+Coos,Precinct 07,State Senate,5,Dick Anderson,,1220
+Coos,Precinct 07,State Senate,5,Shauleen Higgins,,128
+Coos,Precinct 07,State Senate,5,Melissa T. Cribbins,,1107
+Coos,Precinct 07,State Senate,5,Write-in,,1
+Coos,Precinct 07,State Senate,5,Over Votes,,0
+Coos,Precinct 07,State Senate,5,Under Votes,,98
+Coos,Precinct 07,State House,9,Cal Mukumoto,,1126
+Coos,Precinct 07,State House,9,Boomer Wright,,1315
+Coos,Precinct 07,State House,9,Write-in,,7
+Coos,Precinct 07,State House,9,Over Votes,,0
+Coos,Precinct 07,State House,9,Under Votes,,106
+Coos,Precinct 08,Registered Voters,,,,4838
+Coos,Precinct 08,Ballots Cast,,,,3483
+Coos,Precinct 08,President,,Donald J. Trump / Michael R. Pence,,2078
+Coos,Precinct 08,President,,Joseph R. Biden / Kamala D. Harris,,1273
+Coos,Precinct 08,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,64
+Coos,Precinct 08,President,,Howie Hawkins / Angela Walker,,20
+Coos,Precinct 08,President,,Dario Hunter / Dawn Neptune Adams,,10
+Coos,Precinct 08,President,,Write-in,,15
+Coos,Precinct 08,President,,Over Votes,,1
+Coos,Precinct 08,President,,Under Votes,,22
+Coos,Precinct 08,U.S. Senate,,Jo Rae Perkins,,1882
+Coos,Precinct 08,U.S. Senate,,Jeff Merkley,,1340
+Coos,Precinct 08,U.S. Senate,,Ibrahim A. Taher,,50
+Coos,Precinct 08,U.S. Senate,,Gary Dye,,72
+Coos,Precinct 08,U.S. Senate,,Write-in,,3
+Coos,Precinct 08,U.S. Senate,,Over Votes,,0
+Coos,Precinct 08,U.S. Senate,,Under Votes,,136
+Coos,Precinct 08,U.S. House,4,Daniel Hoffay,,107
+Coos,Precinct 08,U.S. House,4,Peter DeFazio,,1342
+Coos,Precinct 08,U.S. House,4,Alek Skarlatos,,1944
+Coos,Precinct 08,U.S. House,4,Write-in,,2
+Coos,Precinct 08,U.S. House,4,Over Votes,,0
+Coos,Precinct 08,U.S. House,4,Under Votes,,88
+Coos,Precinct 08,Secretary of State,,Kyle Markley,,104
+Coos,Precinct 08,Secretary of State,,Kim Thatcher,,1993
+Coos,Precinct 08,Secretary of State,,Shemia Fagan,,1104
+Coos,Precinct 08,Secretary of State,,Write-in,,4
+Coos,Precinct 08,Secretary of State,,Over Votes,,0
+Coos,Precinct 08,Secretary of State,,Under Votes,,174
+Coos,Precinct 08,State Treasurer,,Michael P. Marsh,,119
+Coos,Precinct 08,State Treasurer,,Tobias Read,,1206
+Coos,Precinct 08,State Treasurer,,Chris Henry,,141
+Coos,Precinct 08,State Treasurer,,Jeff Gudman,,1823
+Coos,Precinct 08,State Treasurer,,Write-in,,2
+Coos,Precinct 08,State Treasurer,,Over Votes,,0
+Coos,Precinct 08,State Treasurer,,Under Votes,,185
+Coos,Precinct 08,Attorney General,,Ellen Rosenblum,,1268
+Coos,Precinct 08,Attorney General,,Lars D.H. Hedbor,,85
+Coos,Precinct 08,Attorney General,,Michael Cross,,1898
+Coos,Precinct 08,Attorney General,,Write-in,,12
+Coos,Precinct 08,Attorney General,,Over Votes,,0
+Coos,Precinct 08,Attorney General,,Under Votes,,213
+Coos,Precinct 08,State Senate,5,Dick Anderson,,1915
+Coos,Precinct 08,State Senate,5,Shauleen Higgins,,174
+Coos,Precinct 08,State Senate,5,Melissa T. Cribbins,,1214
+Coos,Precinct 08,State Senate,5,Write-in,,3
+Coos,Precinct 08,State Senate,5,Over Votes,,0
+Coos,Precinct 08,State Senate,5,Under Votes,,170
+Coos,Precinct 08,State House,9,Cal Mukumoto,,1237
+Coos,Precinct 08,State House,9,Boomer Wright,,2071
+Coos,Precinct 08,State House,9,Write-in,,3
+Coos,Precinct 08,State House,9,Over Votes,,0
+Coos,Precinct 08,State House,9,Under Votes,,165
+Coos,Precinct 09,Registered Voters,,,,496
+Coos,Precinct 09,Ballots Cast,,,,384
+Coos,Precinct 09,President,,Donald J. Trump / Michael R. Pence,,184
+Coos,Precinct 09,President,,Joseph R. Biden / Kamala D. Harris,,183
+Coos,Precinct 09,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,9
+Coos,Precinct 09,President,,Howie Hawkins / Angela Walker,,4
+Coos,Precinct 09,President,,Dario Hunter / Dawn Neptune Adams,,0
+Coos,Precinct 09,President,,Write-in,,3
+Coos,Precinct 09,President,,Over Votes,,0
+Coos,Precinct 09,President,,Under Votes,,1
+Coos,Precinct 09,U.S. Senate,,Jo Rae Perkins,,171
+Coos,Precinct 09,U.S. Senate,,Jeff Merkley,,178
+Coos,Precinct 09,U.S. Senate,,Ibrahim A. Taher,,10
+Coos,Precinct 09,U.S. Senate,,Gary Dye,,11
+Coos,Precinct 09,U.S. Senate,,Write-in,,0
+Coos,Precinct 09,U.S. Senate,,Over Votes,,0
+Coos,Precinct 09,U.S. Senate,,Under Votes,,14
+Coos,Precinct 09,U.S. House,4,Daniel Hoffay,,14
+Coos,Precinct 09,U.S. House,4,Peter DeFazio,,186
+Coos,Precinct 09,U.S. House,4,Alek Skarlatos,,175
+Coos,Precinct 09,U.S. House,4,Write-in,,0
+Coos,Precinct 09,U.S. House,4,Over Votes,,0
+Coos,Precinct 09,U.S. House,4,Under Votes,,9
+Coos,Precinct 09,Secretary of State,,Kyle Markley,,19
+Coos,Precinct 09,Secretary of State,,Kim Thatcher,,180
+Coos,Precinct 09,Secretary of State,,Shemia Fagan,,142
+Coos,Precinct 09,Secretary of State,,Write-in,,1
+Coos,Precinct 09,Secretary of State,,Over Votes,,0
+Coos,Precinct 09,Secretary of State,,Under Votes,,21
+Coos,Precinct 09,State Treasurer,,Michael P. Marsh,,12
+Coos,Precinct 09,State Treasurer,,Tobias Read,,159
+Coos,Precinct 09,State Treasurer,,Chris Henry,,22
+Coos,Precinct 09,State Treasurer,,Jeff Gudman,,167
+Coos,Precinct 09,State Treasurer,,Write-in,,0
+Coos,Precinct 09,State Treasurer,,Over Votes,,0
+Coos,Precinct 09,State Treasurer,,Under Votes,,22
+Coos,Precinct 09,Attorney General,,Ellen Rosenblum,,169
+Coos,Precinct 09,Attorney General,,Lars D.H. Hedbor,,13
+Coos,Precinct 09,Attorney General,,Michael Cross,,174
+Coos,Precinct 09,Attorney General,,Write-in,,1
+Coos,Precinct 09,Attorney General,,Over Votes,,0
+Coos,Precinct 09,Attorney General,,Under Votes,,25
+Coos,Precinct 09,State Senate,1,Dallas Heard,,197
+Coos,Precinct 09,State Senate,1,Kat Stone,,155
+Coos,Precinct 09,State Senate,1,Write-in,,1
+Coos,Precinct 09,State Senate,1,Over Votes,,0
+Coos,Precinct 09,State Senate,1,Under Votes,,29
+Coos,Precinct 09,State House,1,Calla Felicity,,146
+Coos,Precinct 09,State House,1,David Brock Smith,,202
+Coos,Precinct 09,State House,1,Write-in,,0
+Coos,Precinct 09,State House,1,Over Votes,,0
+Coos,Precinct 09,State House,1,Under Votes,,34
+Coos,Precinct 10,Registered Voters,,,,3204
+Coos,Precinct 10,Ballots Cast,,,,2641
+Coos,Precinct 10,President,,Donald J. Trump / Michael R. Pence,,1748
+Coos,Precinct 10,President,,Joseph R. Biden / Kamala D. Harris,,835
+Coos,Precinct 10,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,14
+Coos,Precinct 10,President,,Howie Hawkins / Angela Walker,,8
+Coos,Precinct 10,President,,Dario Hunter / Dawn Neptune Adams,,4
+Coos,Precinct 10,President,,Write-in,,14
+Coos,Precinct 10,President,,Over Votes,,1
+Coos,Precinct 10,President,,Under Votes,,17
+Coos,Precinct 10,U.S. Senate,,Jo Rae Perkins,,1608
+Coos,Precinct 10,U.S. Senate,,Jeff Merkley,,903
+Coos,Precinct 10,U.S. Senate,,Ibrahim A. Taher,,15
+Coos,Precinct 10,U.S. Senate,,Gary Dye,,28
+Coos,Precinct 10,U.S. Senate,,Write-in,,4
+Coos,Precinct 10,U.S. Senate,,Over Votes,,1
+Coos,Precinct 10,U.S. Senate,,Under Votes,,82
+Coos,Precinct 10,U.S. House,4,Daniel Hoffay,,30
+Coos,Precinct 10,U.S. House,4,Peter DeFazio,,880
+Coos,Precinct 10,U.S. House,4,Alek Skarlatos,,1675
+Coos,Precinct 10,U.S. House,4,Write-in,,3
+Coos,Precinct 10,U.S. House,4,Over Votes,,0
+Coos,Precinct 10,U.S. House,4,Under Votes,,53
+Coos,Precinct 10,Secretary of State,,Kyle Markley,,43
+Coos,Precinct 10,Secretary of State,,Kim Thatcher,,1700
+Coos,Precinct 10,Secretary of State,,Shemia Fagan,,739
+Coos,Precinct 10,Secretary of State,,Write-in,,3
+Coos,Precinct 10,Secretary of State,,Over Votes,,1
+Coos,Precinct 10,Secretary of State,,Under Votes,,113
+Coos,Precinct 10,State Treasurer,,Michael P. Marsh,,64
+Coos,Precinct 10,State Treasurer,,Tobias Read,,798
+Coos,Precinct 10,State Treasurer,,Chris Henry,,83
+Coos,Precinct 10,State Treasurer,,Jeff Gudman,,1561
+Coos,Precinct 10,State Treasurer,,Write-in,,2
+Coos,Precinct 10,State Treasurer,,Over Votes,,0
+Coos,Precinct 10,State Treasurer,,Under Votes,,129
+Coos,Precinct 10,Attorney General,,Ellen Rosenblum,,847
+Coos,Precinct 10,Attorney General,,Lars D.H. Hedbor,,37
+Coos,Precinct 10,Attorney General,,Michael Cross,,1618
+Coos,Precinct 10,Attorney General,,Write-in,,10
+Coos,Precinct 10,Attorney General,,Over Votes,,0
+Coos,Precinct 10,Attorney General,,Under Votes,,125
+Coos,Precinct 10,State Senate,1,Dallas Heard,,1736
+Coos,Precinct 10,State Senate,1,Kat Stone,,753
+Coos,Precinct 10,State Senate,1,Write-in,,4
+Coos,Precinct 10,State Senate,1,Over Votes,,0
+Coos,Precinct 10,State Senate,1,Under Votes,,144
+Coos,Precinct 10,State House,1,Calla Felicity,,700
+Coos,Precinct 10,State House,1,David Brock Smith,,1770
+Coos,Precinct 10,State House,1,Write-in,,5
+Coos,Precinct 10,State House,1,Over Votes,,0
+Coos,Precinct 10,State House,1,Under Votes,,162
+Coos,Precinct 11,Registered Voters,,,,2401
+Coos,Precinct 11,Ballots Cast,,,,1965
+Coos,Precinct 11,President,,Donald J. Trump / Michael R. Pence,,1349
+Coos,Precinct 11,President,,Joseph R. Biden / Kamala D. Harris,,557
+Coos,Precinct 11,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,27
+Coos,Precinct 11,President,,Howie Hawkins / Angela Walker,,8
+Coos,Precinct 11,President,,Dario Hunter / Dawn Neptune Adams,,4
+Coos,Precinct 11,President,,Write-in,,4
+Coos,Precinct 11,President,,Over Votes,,0
+Coos,Precinct 11,President,,Under Votes,,16
+Coos,Precinct 11,U.S. Senate,,Jo Rae Perkins,,1260
+Coos,Precinct 11,U.S. Senate,,Jeff Merkley,,608
+Coos,Precinct 11,U.S. Senate,,Ibrahim A. Taher,,21
+Coos,Precinct 11,U.S. Senate,,Gary Dye,,26
+Coos,Precinct 11,U.S. Senate,,Write-in,,1
+Coos,Precinct 11,U.S. Senate,,Over Votes,,0
+Coos,Precinct 11,U.S. Senate,,Under Votes,,49
+Coos,Precinct 11,U.S. House,4,Daniel Hoffay,,31
+Coos,Precinct 11,U.S. House,4,Peter DeFazio,,580
+Coos,Precinct 11,U.S. House,4,Alek Skarlatos,,1323
+Coos,Precinct 11,U.S. House,4,Write-in,,0
+Coos,Precinct 11,U.S. House,4,Over Votes,,0
+Coos,Precinct 11,U.S. House,4,Under Votes,,31
+Coos,Precinct 11,Secretary of State,,Kyle Markley,,35
+Coos,Precinct 11,Secretary of State,,Kim Thatcher,,1331
+Coos,Precinct 11,Secretary of State,,Shemia Fagan,,490
+Coos,Precinct 11,Secretary of State,,Write-in,,1
+Coos,Precinct 11,Secretary of State,,Over Votes,,0
+Coos,Precinct 11,Secretary of State,,Under Votes,,71
+Coos,Precinct 11,State Treasurer,,Michael P. Marsh,,56
+Coos,Precinct 11,State Treasurer,,Tobias Read,,518
+Coos,Precinct 11,State Treasurer,,Chris Henry,,60
+Coos,Precinct 11,State Treasurer,,Jeff Gudman,,1243
+Coos,Precinct 11,State Treasurer,,Write-in,,1
+Coos,Precinct 11,State Treasurer,,Over Votes,,0
+Coos,Precinct 11,State Treasurer,,Under Votes,,84
+Coos,Precinct 11,Attorney General,,Ellen Rosenblum,,562
+Coos,Precinct 11,Attorney General,,Lars D.H. Hedbor,,28
+Coos,Precinct 11,Attorney General,,Michael Cross,,1280
+Coos,Precinct 11,Attorney General,,Write-in,,7
+Coos,Precinct 11,Attorney General,,Over Votes,,0
+Coos,Precinct 11,Attorney General,,Under Votes,,85
+Coos,Precinct 11,State Senate,1,Dallas Heard,,1348
+Coos,Precinct 11,State Senate,1,Kat Stone,,514
+Coos,Precinct 11,State Senate,1,Write-in,,0
+Coos,Precinct 11,State Senate,1,Over Votes,,0
+Coos,Precinct 11,State Senate,1,Under Votes,,100
+Coos,Precinct 11,State House,1,Calla Felicity,,473
+Coos,Precinct 11,State House,1,David Brock Smith,,1381
+Coos,Precinct 11,State House,1,Write-in,,1
+Coos,Precinct 11,State House,1,Over Votes,,0
+Coos,Precinct 11,State House,1,Under Votes,,107
+Coos,Precinct 12,Registered Voters,,,,2868
+Coos,Precinct 12,Ballots Cast,,,,2220
+Coos,Precinct 12,President,,Donald J. Trump / Michael R. Pence,,1387
+Coos,Precinct 12,President,,Joseph R. Biden / Kamala D. Harris,,749
+Coos,Precinct 12,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,31
+Coos,Precinct 12,President,,Howie Hawkins / Angela Walker,,12
+Coos,Precinct 12,President,,Dario Hunter / Dawn Neptune Adams,,7
+Coos,Precinct 12,President,,Write-in,,16
+Coos,Precinct 12,President,,Over Votes,,0
+Coos,Precinct 12,President,,Under Votes,,18
+Coos,Precinct 12,U.S. Senate,,Jo Rae Perkins,,1288
+Coos,Precinct 12,U.S. Senate,,Jeff Merkley,,775
+Coos,Precinct 12,U.S. Senate,,Ibrahim A. Taher,,28
+Coos,Precinct 12,U.S. Senate,,Gary Dye,,48
+Coos,Precinct 12,U.S. Senate,,Write-in,,1
+Coos,Precinct 12,U.S. Senate,,Over Votes,,0
+Coos,Precinct 12,U.S. Senate,,Under Votes,,80
+Coos,Precinct 12,U.S. House,4,Daniel Hoffay,,51
+Coos,Precinct 12,U.S. House,4,Peter DeFazio,,760
+Coos,Precinct 12,U.S. House,4,Alek Skarlatos,,1353
+Coos,Precinct 12,U.S. House,4,Write-in,,0
+Coos,Precinct 12,U.S. House,4,Over Votes,,0
+Coos,Precinct 12,U.S. House,4,Under Votes,,56
+Coos,Precinct 12,Secretary of State,,Kyle Markley,,69
+Coos,Precinct 12,Secretary of State,,Kim Thatcher,,1335
+Coos,Precinct 12,Secretary of State,,Shemia Fagan,,648
+Coos,Precinct 12,Secretary of State,,Write-in,,0
+Coos,Precinct 12,Secretary of State,,Over Votes,,0
+Coos,Precinct 12,Secretary of State,,Under Votes,,115
+Coos,Precinct 12,State Treasurer,,Michael P. Marsh,,73
+Coos,Precinct 12,State Treasurer,,Tobias Read,,696
+Coos,Precinct 12,State Treasurer,,Chris Henry,,87
+Coos,Precinct 12,State Treasurer,,Jeff Gudman,,1250
+Coos,Precinct 12,State Treasurer,,Write-in,,0
+Coos,Precinct 12,State Treasurer,,Over Votes,,0
+Coos,Precinct 12,State Treasurer,,Under Votes,,110
+Coos,Precinct 12,Attorney General,,Ellen Rosenblum,,736
+Coos,Precinct 12,Attorney General,,Lars D.H. Hedbor,,54
+Coos,Precinct 12,Attorney General,,Michael Cross,,1285
+Coos,Precinct 12,Attorney General,,Write-in,,19
+Coos,Precinct 12,Attorney General,,Over Votes,,2
+Coos,Precinct 12,Attorney General,,Under Votes,,120
+Coos,Precinct 12,State Senate,1,Dallas Heard,,1387
+Coos,Precinct 12,State Senate,1,Kat Stone,,692
+Coos,Precinct 12,State Senate,1,Write-in,,2
+Coos,Precinct 12,State Senate,1,Over Votes,,0
+Coos,Precinct 12,State Senate,1,Under Votes,,135
+Coos,Precinct 12,State House,1,Calla Felicity,,651
+Coos,Precinct 12,State House,1,David Brock Smith,,1416
+Coos,Precinct 12,State House,1,Write-in,,2
+Coos,Precinct 12,State House,1,Over Votes,,0
+Coos,Precinct 12,State House,1,Under Votes,,147
+Coos,Precinct 13,Registered Voters,,,,1782
+Coos,Precinct 13,Ballots Cast,,,,1337
+Coos,Precinct 13,President,,Donald J. Trump / Michael R. Pence,,917
+Coos,Precinct 13,President,,Joseph R. Biden / Kamala D. Harris,,365
+Coos,Precinct 13,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,24
+Coos,Precinct 13,President,,Howie Hawkins / Angela Walker,,5
+Coos,Precinct 13,President,,Dario Hunter / Dawn Neptune Adams,,2
+Coos,Precinct 13,President,,Write-in,,7
+Coos,Precinct 13,President,,Over Votes,,0
+Coos,Precinct 13,President,,Under Votes,,17
+Coos,Precinct 13,U.S. Senate,,Jo Rae Perkins,,830
+Coos,Precinct 13,U.S. Senate,,Jeff Merkley,,410
+Coos,Precinct 13,U.S. Senate,,Ibrahim A. Taher,,13
+Coos,Precinct 13,U.S. Senate,,Gary Dye,,43
+Coos,Precinct 13,U.S. Senate,,Write-in,,0
+Coos,Precinct 13,U.S. Senate,,Over Votes,,0
+Coos,Precinct 13,U.S. Senate,,Under Votes,,41
+Coos,Precinct 13,U.S. House,4,Daniel Hoffay,,27
+Coos,Precinct 13,U.S. House,4,Peter DeFazio,,405
+Coos,Precinct 13,U.S. House,4,Alek Skarlatos,,872
+Coos,Precinct 13,U.S. House,4,Write-in,,0
+Coos,Precinct 13,U.S. House,4,Over Votes,,0
+Coos,Precinct 13,U.S. House,4,Under Votes,,33
+Coos,Precinct 13,Secretary of State,,Kyle Markley,,46
+Coos,Precinct 13,Secretary of State,,Kim Thatcher,,875
+Coos,Precinct 13,Secretary of State,,Shemia Fagan,,345
+Coos,Precinct 13,Secretary of State,,Write-in,,0
+Coos,Precinct 13,Secretary of State,,Over Votes,,0
+Coos,Precinct 13,Secretary of State,,Under Votes,,49
+Coos,Precinct 13,State Treasurer,,Michael P. Marsh,,58
+Coos,Precinct 13,State Treasurer,,Tobias Read,,357
+Coos,Precinct 13,State Treasurer,,Chris Henry,,46
+Coos,Precinct 13,State Treasurer,,Jeff Gudman,,820
+Coos,Precinct 13,State Treasurer,,Write-in,,0
+Coos,Precinct 13,State Treasurer,,Over Votes,,0
+Coos,Precinct 13,State Treasurer,,Under Votes,,56
+Coos,Precinct 13,Attorney General,,Ellen Rosenblum,,387
+Coos,Precinct 13,Attorney General,,Lars D.H. Hedbor,,32
+Coos,Precinct 13,Attorney General,,Michael Cross,,854
+Coos,Precinct 13,Attorney General,,Write-in,,4
+Coos,Precinct 13,Attorney General,,Over Votes,,0
+Coos,Precinct 13,Attorney General,,Under Votes,,60
+Coos,Precinct 13,State Senate,1,Dallas Heard,,914
+Coos,Precinct 13,State Senate,1,Kat Stone,,355
+Coos,Precinct 13,State Senate,1,Write-in,,1
+Coos,Precinct 13,State Senate,1,Over Votes,,0
+Coos,Precinct 13,State Senate,1,Under Votes,,67
+Coos,Precinct 13,State House,1,Calla Felicity,,321
+Coos,Precinct 13,State House,1,David Brock Smith,,938
+Coos,Precinct 13,State House,1,Write-in,,1
+Coos,Precinct 13,State House,1,Over Votes,,0
+Coos,Precinct 13,State House,1,Under Votes,,77
+Coos,Precinct 14,Registered Voters,,,,1995
+Coos,Precinct 14,Ballots Cast,,,,1651
+Coos,Precinct 14,President,,Donald J. Trump / Michael R. Pence,,1274
+Coos,Precinct 14,President,,Joseph R. Biden / Kamala D. Harris,,346
+Coos,Precinct 14,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,10
+Coos,Precinct 14,President,,Howie Hawkins / Angela Walker,,3
+Coos,Precinct 14,President,,Dario Hunter / Dawn Neptune Adams,,3
+Coos,Precinct 14,President,,Write-in,,5
+Coos,Precinct 14,President,,Over Votes,,1
+Coos,Precinct 14,President,,Under Votes,,9
+Coos,Precinct 14,U.S. Senate,,Jo Rae Perkins,,1194
+Coos,Precinct 14,U.S. Senate,,Jeff Merkley,,380
+Coos,Precinct 14,U.S. Senate,,Ibrahim A. Taher,,10
+Coos,Precinct 14,U.S. Senate,,Gary Dye,,19
+Coos,Precinct 14,U.S. Senate,,Write-in,,0
+Coos,Precinct 14,U.S. Senate,,Over Votes,,0
+Coos,Precinct 14,U.S. Senate,,Under Votes,,48
+Coos,Precinct 14,U.S. House,4,Daniel Hoffay,,29
+Coos,Precinct 14,U.S. House,4,Peter DeFazio,,363
+Coos,Precinct 14,U.S. House,4,Alek Skarlatos,,1228
+Coos,Precinct 14,U.S. House,4,Write-in,,1
+Coos,Precinct 14,U.S. House,4,Over Votes,,1
+Coos,Precinct 14,U.S. House,4,Under Votes,,29
+Coos,Precinct 14,Secretary of State,,Kyle Markley,,23
+Coos,Precinct 14,Secretary of State,,Kim Thatcher,,1232
+Coos,Precinct 14,Secretary of State,,Shemia Fagan,,324
+Coos,Precinct 14,Secretary of State,,Write-in,,0
+Coos,Precinct 14,Secretary of State,,Over Votes,,1
+Coos,Precinct 14,Secretary of State,,Under Votes,,49
+Coos,Precinct 14,State Treasurer,,Michael P. Marsh,,60
+Coos,Precinct 14,State Treasurer,,Tobias Read,,352
+Coos,Precinct 14,State Treasurer,,Chris Henry,,26
+Coos,Precinct 14,State Treasurer,,Jeff Gudman,,1152
+Coos,Precinct 14,State Treasurer,,Write-in,,0
+Coos,Precinct 14,State Treasurer,,Over Votes,,1
+Coos,Precinct 14,State Treasurer,,Under Votes,,60
+Coos,Precinct 14,Attorney General,,Ellen Rosenblum,,355
+Coos,Precinct 14,Attorney General,,Lars D.H. Hedbor,,24
+Coos,Precinct 14,Attorney General,,Michael Cross,,1181
+Coos,Precinct 14,Attorney General,,Write-in,,16
+Coos,Precinct 14,Attorney General,,Over Votes,,0
+Coos,Precinct 14,Attorney General,,Under Votes,,75
+Coos,Precinct 14,State Senate,1,Dallas Heard,,1256
+Coos,Precinct 14,State Senate,1,Kat Stone,,321
+Coos,Precinct 14,State Senate,1,Write-in,,4
+Coos,Precinct 14,State Senate,1,Over Votes,,0
+Coos,Precinct 14,State Senate,1,Under Votes,,70
+Coos,Precinct 14,State House,1,Calla Felicity,,291
+Coos,Precinct 14,State House,1,David Brock Smith,,1275
+Coos,Precinct 14,State House,1,Write-in,,2
+Coos,Precinct 14,State House,1,Over Votes,,0
+Coos,Precinct 14,State House,1,Under Votes,,83
+Coos,Precinct 15,Registered Voters,,,,616
+Coos,Precinct 15,Ballots Cast,,,,515
+Coos,Precinct 15,President,,Donald J. Trump / Michael R. Pence,,373
+Coos,Precinct 15,President,,Joseph R. Biden / Kamala D. Harris,,123
+Coos,Precinct 15,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,12
+Coos,Precinct 15,President,,Howie Hawkins / Angela Walker,,2
+Coos,Precinct 15,President,,Dario Hunter / Dawn Neptune Adams,,0
+Coos,Precinct 15,President,,Write-in,,0
+Coos,Precinct 15,President,,Over Votes,,0
+Coos,Precinct 15,President,,Under Votes,,5
+Coos,Precinct 15,U.S. Senate,,Jo Rae Perkins,,342
+Coos,Precinct 15,U.S. Senate,,Jeff Merkley,,128
+Coos,Precinct 15,U.S. Senate,,Ibrahim A. Taher,,10
+Coos,Precinct 15,U.S. Senate,,Gary Dye,,12
+Coos,Precinct 15,U.S. Senate,,Write-in,,0
+Coos,Precinct 15,U.S. Senate,,Over Votes,,0
+Coos,Precinct 15,U.S. Senate,,Under Votes,,23
+Coos,Precinct 15,U.S. House,4,Daniel Hoffay,,15
+Coos,Precinct 15,U.S. House,4,Peter DeFazio,,127
+Coos,Precinct 15,U.S. House,4,Alek Skarlatos,,356
+Coos,Precinct 15,U.S. House,4,Write-in,,1
+Coos,Precinct 15,U.S. House,4,Over Votes,,0
+Coos,Precinct 15,U.S. House,4,Under Votes,,16
+Coos,Precinct 15,Secretary of State,,Kyle Markley,,23
+Coos,Precinct 15,Secretary of State,,Kim Thatcher,,353
+Coos,Precinct 15,Secretary of State,,Shemia Fagan,,105
+Coos,Precinct 15,Secretary of State,,Write-in,,0
+Coos,Precinct 15,Secretary of State,,Over Votes,,0
+Coos,Precinct 15,Secretary of State,,Under Votes,,25
+Coos,Precinct 15,State Treasurer,,Michael P. Marsh,,24
+Coos,Precinct 15,State Treasurer,,Tobias Read,,111
+Coos,Precinct 15,State Treasurer,,Chris Henry,,22
+Coos,Precinct 15,State Treasurer,,Jeff Gudman,,321
+Coos,Precinct 15,State Treasurer,,Write-in,,1
+Coos,Precinct 15,State Treasurer,,Over Votes,,0
+Coos,Precinct 15,State Treasurer,,Under Votes,,36
+Coos,Precinct 15,Attorney General,,Ellen Rosenblum,,118
+Coos,Precinct 15,Attorney General,,Lars D.H. Hedbor,,19
+Coos,Precinct 15,Attorney General,,Michael Cross,,346
+Coos,Precinct 15,Attorney General,,Write-in,,1
+Coos,Precinct 15,Attorney General,,Over Votes,,0
+Coos,Precinct 15,Attorney General,,Under Votes,,31
+Coos,Precinct 15,State Senate,1,Dallas Heard,,359
+Coos,Precinct 15,State Senate,1,Kat Stone,,113
+Coos,Precinct 15,State Senate,1,Write-in,,2
+Coos,Precinct 15,State Senate,1,Over Votes,,0
+Coos,Precinct 15,State Senate,1,Under Votes,,41
+Coos,Precinct 15,State House,1,Calla Felicity,,99
+Coos,Precinct 15,State House,1,David Brock Smith,,369
+Coos,Precinct 15,State House,1,Write-in,,1
+Coos,Precinct 15,State House,1,Over Votes,,0
+Coos,Precinct 15,State House,1,Under Votes,,46
+Coos,Precinct 16,Registered Voters,,,,2538
+Coos,Precinct 16,Ballots Cast,,,,2093
+Coos,Precinct 16,President,,Donald J. Trump / Michael R. Pence,,985
+Coos,Precinct 16,President,,Joseph R. Biden / Kamala D. Harris,,1049
+Coos,Precinct 16,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,21
+Coos,Precinct 16,President,,Howie Hawkins / Angela Walker,,10
+Coos,Precinct 16,President,,Dario Hunter / Dawn Neptune Adams,,2
+Coos,Precinct 16,President,,Write-in,,11
+Coos,Precinct 16,President,,Over Votes,,0
+Coos,Precinct 16,President,,Under Votes,,15
+Coos,Precinct 16,U.S. Senate,,Jo Rae Perkins,,925
+Coos,Precinct 16,U.S. Senate,,Jeff Merkley,,1054
+Coos,Precinct 16,U.S. Senate,,Ibrahim A. Taher,,19
+Coos,Precinct 16,U.S. Senate,,Gary Dye,,21
+Coos,Precinct 16,U.S. Senate,,Write-in,,1
+Coos,Precinct 16,U.S. Senate,,Over Votes,,0
+Coos,Precinct 16,U.S. Senate,,Under Votes,,73
+Coos,Precinct 16,U.S. House,4,Daniel Hoffay,,37
+Coos,Precinct 16,U.S. House,4,Peter DeFazio,,1069
+Coos,Precinct 16,U.S. House,4,Alek Skarlatos,,935
+Coos,Precinct 16,U.S. House,4,Write-in,,2
+Coos,Precinct 16,U.S. House,4,Over Votes,,0
+Coos,Precinct 16,U.S. House,4,Under Votes,,50
+Coos,Precinct 16,Secretary of State,,Kyle Markley,,41
+Coos,Precinct 16,Secretary of State,,Kim Thatcher,,985
+Coos,Precinct 16,Secretary of State,,Shemia Fagan,,895
+Coos,Precinct 16,Secretary of State,,Write-in,,1
+Coos,Precinct 16,Secretary of State,,Over Votes,,0
+Coos,Precinct 16,Secretary of State,,Under Votes,,109
+Coos,Precinct 16,State Treasurer,,Michael P. Marsh,,43
+Coos,Precinct 16,State Treasurer,,Tobias Read,,946
+Coos,Precinct 16,State Treasurer,,Chris Henry,,61
+Coos,Precinct 16,State Treasurer,,Jeff Gudman,,919
+Coos,Precinct 16,State Treasurer,,Write-in,,3
+Coos,Precinct 16,State Treasurer,,Over Votes,,0
+Coos,Precinct 16,State Treasurer,,Under Votes,,118
+Coos,Precinct 16,Attorney General,,Ellen Rosenblum,,1002
+Coos,Precinct 16,Attorney General,,Lars D.H. Hedbor,,33
+Coos,Precinct 16,Attorney General,,Michael Cross,,943
+Coos,Precinct 16,Attorney General,,Write-in,,3
+Coos,Precinct 16,Attorney General,,Over Votes,,0
+Coos,Precinct 16,Attorney General,,Under Votes,,109
+Coos,Precinct 16,State Senate,1,Dallas Heard,,1010
+Coos,Precinct 16,State Senate,1,Kat Stone,,934
+Coos,Precinct 16,State Senate,1,Write-in,,4
+Coos,Precinct 16,State Senate,1,Over Votes,,0
+Coos,Precinct 16,State Senate,1,Under Votes,,142
+Coos,Precinct 16,State House,1,Calla Felicity,,910
+Coos,Precinct 16,State House,1,David Brock Smith,,1033
+Coos,Precinct 16,State House,1,Write-in,,1
+Coos,Precinct 16,State House,1,Over Votes,,0
+Coos,Precinct 16,State House,1,Under Votes,,146
+Coos,Precinct 17,Registered Voters,,,,3195
+Coos,Precinct 17,Ballots Cast,,,,2584
+Coos,Precinct 17,President,,Donald J. Trump / Michael R. Pence,,1469
+Coos,Precinct 17,President,,Joseph R. Biden / Kamala D. Harris,,1041
+Coos,Precinct 17,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,31
+Coos,Precinct 17,President,,Howie Hawkins / Angela Walker,,9
+Coos,Precinct 17,President,,Dario Hunter / Dawn Neptune Adams,,3
+Coos,Precinct 17,President,,Write-in,,13
+Coos,Precinct 17,President,,Over Votes,,0
+Coos,Precinct 17,President,,Under Votes,,18
+Coos,Precinct 17,U.S. Senate,,Jo Rae Perkins,,1393
+Coos,Precinct 17,U.S. Senate,,Jeff Merkley,,1045
+Coos,Precinct 17,U.S. Senate,,Ibrahim A. Taher,,26
+Coos,Precinct 17,U.S. Senate,,Gary Dye,,34
+Coos,Precinct 17,U.S. Senate,,Write-in,,3
+Coos,Precinct 17,U.S. Senate,,Over Votes,,0
+Coos,Precinct 17,U.S. Senate,,Under Votes,,83
+Coos,Precinct 17,U.S. House,4,Daniel Hoffay,,46
+Coos,Precinct 17,U.S. House,4,Peter DeFazio,,1037
+Coos,Precinct 17,U.S. House,4,Alek Skarlatos,,1439
+Coos,Precinct 17,U.S. House,4,Write-in,,3
+Coos,Precinct 17,U.S. House,4,Over Votes,,0
+Coos,Precinct 17,U.S. House,4,Under Votes,,59
+Coos,Precinct 17,Secretary of State,,Kyle Markley,,71
+Coos,Precinct 17,Secretary of State,,Kim Thatcher,,1430
+Coos,Precinct 17,Secretary of State,,Shemia Fagan,,879
+Coos,Precinct 17,Secretary of State,,Write-in,,1
+Coos,Precinct 17,Secretary of State,,Over Votes,,0
+Coos,Precinct 17,Secretary of State,,Under Votes,,124
+Coos,Precinct 17,State Treasurer,,Michael P. Marsh,,63
+Coos,Precinct 17,State Treasurer,,Tobias Read,,926
+Coos,Precinct 17,State Treasurer,,Chris Henry,,101
+Coos,Precinct 17,State Treasurer,,Jeff Gudman,,1359
+Coos,Precinct 17,State Treasurer,,Write-in,,2
+Coos,Precinct 17,State Treasurer,,Over Votes,,0
+Coos,Precinct 17,State Treasurer,,Under Votes,,130
+Coos,Precinct 17,Attorney General,,Ellen Rosenblum,,963
+Coos,Precinct 17,Attorney General,,Lars D.H. Hedbor,,52
+Coos,Precinct 17,Attorney General,,Michael Cross,,1412
+Coos,Precinct 17,Attorney General,,Write-in,,8
+Coos,Precinct 17,Attorney General,,Over Votes,,0
+Coos,Precinct 17,Attorney General,,Under Votes,,146
+Coos,Precinct 17,State Senate,1,Dallas Heard,,1486
+Coos,Precinct 17,State Senate,1,Kat Stone,,915
+Coos,Precinct 17,State Senate,1,Write-in,,6
+Coos,Precinct 17,State Senate,1,Over Votes,,1
+Coos,Precinct 17,State Senate,1,Under Votes,,173
+Coos,Precinct 17,State House,1,Calla Felicity,,873
+Coos,Precinct 17,State House,1,David Brock Smith,,1533
+Coos,Precinct 17,State House,1,Write-in,,3
+Coos,Precinct 17,State House,1,Over Votes,,0
+Coos,Precinct 17,State House,1,Under Votes,,172
+Coos,Precinct 18,Registered Voters,,,,446
+Coos,Precinct 18,Ballots Cast,,,,377
+Coos,Precinct 18,President,,Donald J. Trump / Michael R. Pence,,242
+Coos,Precinct 18,President,,Joseph R. Biden / Kamala D. Harris,,123
+Coos,Precinct 18,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,6
+Coos,Precinct 18,President,,Howie Hawkins / Angela Walker,,3
+Coos,Precinct 18,President,,Dario Hunter / Dawn Neptune Adams,,0
+Coos,Precinct 18,President,,Write-in,,1
+Coos,Precinct 18,President,,Over Votes,,0
+Coos,Precinct 18,President,,Under Votes,,2
+Coos,Precinct 18,U.S. Senate,,Jo Rae Perkins,,220
+Coos,Precinct 18,U.S. Senate,,Jeff Merkley,,133
+Coos,Precinct 18,U.S. Senate,,Ibrahim A. Taher,,3
+Coos,Precinct 18,U.S. Senate,,Gary Dye,,9
+Coos,Precinct 18,U.S. Senate,,Write-in,,0
+Coos,Precinct 18,U.S. Senate,,Over Votes,,0
+Coos,Precinct 18,U.S. Senate,,Under Votes,,12
+Coos,Precinct 18,U.S. House,4,Daniel Hoffay,,11
+Coos,Precinct 18,U.S. House,4,Peter DeFazio,,132
+Coos,Precinct 18,U.S. House,4,Alek Skarlatos,,228
+Coos,Precinct 18,U.S. House,4,Write-in,,0
+Coos,Precinct 18,U.S. House,4,Over Votes,,0
+Coos,Precinct 18,U.S. House,4,Under Votes,,6
+Coos,Precinct 18,Secretary of State,,Kyle Markley,,8
+Coos,Precinct 18,Secretary of State,,Kim Thatcher,,235
+Coos,Precinct 18,Secretary of State,,Shemia Fagan,,117
+Coos,Precinct 18,Secretary of State,,Write-in,,0
+Coos,Precinct 18,Secretary of State,,Over Votes,,0
+Coos,Precinct 18,Secretary of State,,Under Votes,,13
+Coos,Precinct 18,State Treasurer,,Michael P. Marsh,,9
+Coos,Precinct 18,State Treasurer,,Tobias Read,,120
+Coos,Precinct 18,State Treasurer,,Chris Henry,,13
+Coos,Precinct 18,State Treasurer,,Jeff Gudman,,222
+Coos,Precinct 18,State Treasurer,,Write-in,,0
+Coos,Precinct 18,State Treasurer,,Over Votes,,0
+Coos,Precinct 18,State Treasurer,,Under Votes,,13
+Coos,Precinct 18,Attorney General,,Ellen Rosenblum,,121
+Coos,Precinct 18,Attorney General,,Lars D.H. Hedbor,,4
+Coos,Precinct 18,Attorney General,,Michael Cross,,234
+Coos,Precinct 18,Attorney General,,Write-in,,0
+Coos,Precinct 18,Attorney General,,Over Votes,,0
+Coos,Precinct 18,Attorney General,,Under Votes,,18
+Coos,Precinct 18,State Senate,1,Dallas Heard,,238
+Coos,Precinct 18,State Senate,1,Kat Stone,,124
+Coos,Precinct 18,State Senate,1,Write-in,,0
+Coos,Precinct 18,State Senate,1,Over Votes,,0
+Coos,Precinct 18,State Senate,1,Under Votes,,15
+Coos,Precinct 18,State House,1,Calla Felicity,,109
+Coos,Precinct 18,State House,1,David Brock Smith,,246
+Coos,Precinct 18,State House,1,Write-in,,1
+Coos,Precinct 18,State House,1,Over Votes,,0
+Coos,Precinct 18,State House,1,Under Votes,,21
