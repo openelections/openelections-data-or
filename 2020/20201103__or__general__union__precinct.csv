@@ -1,0 +1,1027 @@
+﻿county,precinct,office,district,party,candidate,votes
+Union,01 LG City,Registered Voters,,,,2972
+Union,02-LG City,Registered Voters,,,,2846
+Union,03-LG City,Registered Voters,,,,2991
+Union,04-LG Rural,Registered Voters,,,,470
+Union,05-LG Rural,Registered Voters,,,,1560
+Union,06-Cove City,Registered Voters,,,,513
+Union,07-Cove Rural,Registered Voters,,,,754
+Union,08-Elgin City,Registered Voters,,,,1204
+Union,09-Elgin Rural,Registered Voters,,,,811
+Union,10-Imb City,Registered Voters,,,,230
+Union,11-Imb/Sum Rural,Registered Voters,,,,858
+Union,12-Sum City,Registered Voters,,,,102
+Union,13-NP Rural,Registered Voters,,,,121
+Union,14-NP City,Registered Voters,,,,363
+Union,15-Union Rural,Registered Voters,,,,346
+Union,16-Union City,Registered Voters,,,,1626
+Union,17-Ant/BC,Registered Voters,,,,64
+Union,18-IC City,Registered Voters,,,,878
+Union,19-IC Rural,Registered Voters,,,,353
+Union,01 LG City,Ballots Cast,,,,2367
+Union,02-LG City,Ballots Cast,,,,2087
+Union,03-LG City,Ballots Cast,,,,2104
+Union,04-LG Rural,Ballots Cast,,,,399
+Union,05-LG Rural,Ballots Cast,,,,1270
+Union,06-Cove City,Ballots Cast,,,,428
+Union,07-Cove Rural,Ballots Cast,,,,657
+Union,08-Elgin City,Ballots Cast,,,,916
+Union,09-Elgin Rural,Ballots Cast,,,,700
+Union,10-Imb City,Ballots Cast,,,,201
+Union,11-Imb/Sum Rural,Ballots Cast,,,,754
+Union,12-Sum City,Ballots Cast,,,,80
+Union,13-NP Rural,Ballots Cast,,,,102
+Union,14-NP City,Ballots Cast,,,,281
+Union,15-Union Rural,Ballots Cast,,,,307
+Union,16-Union City,Ballots Cast,,,,1348
+Union,17-Ant/BC,Ballots Cast,,,,55
+Union,18-IC City,Ballots Cast,,,,735
+Union,19-IC Rural,Ballots Cast,,,,311
+Union,01 LG City,Ballots Cast Blank,,,,0
+Union,02-LG City,Ballots Cast Blank,,,,0
+Union,03-LG City,Ballots Cast Blank,,,,1
+Union,04-LG Rural,Ballots Cast Blank,,,,0
+Union,05-LG Rural,Ballots Cast Blank,,,,0
+Union,06-Cove City,Ballots Cast Blank,,,,0
+Union,07-Cove Rural,Ballots Cast Blank,,,,0
+Union,08-Elgin City,Ballots Cast Blank,,,,0
+Union,09-Elgin Rural,Ballots Cast Blank,,,,0
+Union,10-Imb City,Ballots Cast Blank,,,,0
+Union,11-Imb/Sum Rural,Ballots Cast Blank,,,,0
+Union,12-Sum City,Ballots Cast Blank,,,,0
+Union,13-NP Rural,Ballots Cast Blank,,,,0
+Union,14-NP City,Ballots Cast Blank,,,,0
+Union,15-Union Rural,Ballots Cast Blank,,,,0
+Union,16-Union City,Ballots Cast Blank,,,,0
+Union,17-Ant/BC,Ballots Cast Blank,,,,0
+Union,18-IC City,Ballots Cast Blank,,,,0
+Union,19-IC Rural,Ballots Cast Blank,,,,0
+Union,01 LG City,President,,REP,Donald J. Trump,1130
+Union,02-LG City,President,,REP,Donald J. Trump,1264
+Union,03-LG City,President,,REP,Donald J. Trump,1414
+Union,04-LG Rural,President,,REP,Donald J. Trump,271
+Union,05-LG Rural,President,,REP,Donald J. Trump,937
+Union,06-Cove City,President,,REP,Donald J. Trump,314
+Union,07-Cove Rural,President,,REP,Donald J. Trump,457
+Union,08-Elgin City,President,,REP,Donald J. Trump,752
+Union,09-Elgin Rural,President,,REP,Donald J. Trump,605
+Union,10-Imb City,President,,REP,Donald J. Trump,153
+Union,11-Imb/Sum Rural,President,,REP,Donald J. Trump,593
+Union,12-Sum City,President,,REP,Donald J. Trump,65
+Union,13-NP Rural,President,,REP,Donald J. Trump,84
+Union,14-NP City,President,,REP,Donald J. Trump,217
+Union,15-Union Rural,President,,REP,Donald J. Trump,241
+Union,16-Union City,President,,REP,Donald J. Trump,996
+Union,17-Ant/BC,President,,REP,Donald J. Trump,46
+Union,18-IC City,President,,REP,Donald J. Trump,517
+Union,19-IC Rural,President,,REP,Donald J. Trump,242
+Union,01 LG City,President,,DEM,Joseph R. Biden,1129
+Union,02-LG City,President,,DEM,Joseph R. Biden,730
+Union,03-LG City,President,,DEM,Joseph R. Biden,602
+Union,04-LG Rural,President,,DEM,Joseph R. Biden,113
+Union,05-LG Rural,President,,DEM,Joseph R. Biden,292
+Union,06-Cove City,President,,DEM,Joseph R. Biden,95
+Union,07-Cove Rural,President,,DEM,Joseph R. Biden,176
+Union,08-Elgin City,President,,DEM,Joseph R. Biden,138
+Union,09-Elgin Rural,President,,DEM,Joseph R. Biden,81
+Union,10-Imb City,President,,DEM,Joseph R. Biden,42
+Union,11-Imb/Sum Rural,President,,DEM,Joseph R. Biden,141
+Union,12-Sum City,President,,DEM,Joseph R. Biden,10
+Union,13-NP Rural,President,,DEM,Joseph R. Biden,15
+Union,14-NP City,President,,DEM,Joseph R. Biden,53
+Union,15-Union Rural,President,,DEM,Joseph R. Biden,63
+Union,16-Union City,President,,DEM,Joseph R. Biden,314
+Union,17-Ant/BC,President,,DEM,Joseph R. Biden,6
+Union,18-IC City,President,,DEM,Joseph R. Biden,189
+Union,19-IC Rural,President,,DEM,Joseph R. Biden,65
+Union,01 LG City,President,,LBT,Jo Jorgensen,47
+Union,02-LG City,President,,LBT,Jo Jorgensen,46
+Union,03-LG City,President,,LBT,Jo Jorgensen,35
+Union,04-LG Rural,President,,LBT,Jo Jorgensen,7
+Union,05-LG Rural,President,,LBT,Jo Jorgensen,20
+Union,06-Cove City,President,,LBT,Jo Jorgensen,4
+Union,07-Cove Rural,President,,LBT,Jo Jorgensen,17
+Union,08-Elgin City,President,,LBT,Jo Jorgensen,9
+Union,09-Elgin Rural,President,,LBT,Jo Jorgensen,2
+Union,10-Imb City,President,,LBT,Jo Jorgensen,2
+Union,11-Imb/Sum Rural,President,,LBT,Jo Jorgensen,6
+Union,12-Sum City,President,,LBT,Jo Jorgensen,3
+Union,13-NP Rural,President,,LBT,Jo Jorgensen,1
+Union,14-NP City,President,,LBT,Jo Jorgensen,7
+Union,15-Union Rural,President,,LBT,Jo Jorgensen,2
+Union,16-Union City,President,,LBT,Jo Jorgensen,17
+Union,17-Ant/BC,President,,LBT,Jo Jorgensen,0
+Union,18-IC City,President,,LBT,Jo Jorgensen,12
+Union,19-IC Rural,President,,LBT,Jo Jorgensen,4
+Union,01 LG City,President,,PGP,Howie Hawkins,10
+Union,02-LG City,President,,PGP,Howie Hawkins,12
+Union,03-LG City,President,,PGP,Howie Hawkins,8
+Union,04-LG Rural,President,,PGP,Howie Hawkins,1
+Union,05-LG Rural,President,,PGP,Howie Hawkins,2
+Union,06-Cove City,President,,PGP,Howie Hawkins,0
+Union,07-Cove Rural,President,,PGP,Howie Hawkins,1
+Union,08-Elgin City,President,,PGP,Howie Hawkins,3
+Union,09-Elgin Rural,President,,PGP,Howie Hawkins,0
+Union,10-Imb City,President,,PGP,Howie Hawkins,0
+Union,11-Imb/Sum Rural,President,,PGP,Howie Hawkins,3
+Union,12-Sum City,President,,PGP,Howie Hawkins,0
+Union,13-NP Rural,President,,PGP,Howie Hawkins,0
+Union,14-NP City,President,,PGP,Howie Hawkins,0
+Union,15-Union Rural,President,,PGP,Howie Hawkins,0
+Union,16-Union City,President,,PGP,Howie Hawkins,4
+Union,17-Ant/BC,President,,PGP,Howie Hawkins,0
+Union,18-IC City,President,,PGP,Howie Hawkins,2
+Union,19-IC Rural,President,,PGP,Howie Hawkins,0
+Union,01 LG City,President,,PRO,Dario Hunter,4
+Union,02-LG City,President,,PRO,Dario Hunter,4
+Union,03-LG City,President,,PRO,Dario Hunter,9
+Union,04-LG Rural,President,,PRO,Dario Hunter,0
+Union,05-LG Rural,President,,PRO,Dario Hunter,2
+Union,06-Cove City,President,,PRO,Dario Hunter,1
+Union,07-Cove Rural,President,,PRO,Dario Hunter,0
+Union,08-Elgin City,President,,PRO,Dario Hunter,4
+Union,09-Elgin Rural,President,,PRO,Dario Hunter,3
+Union,10-Imb City,President,,PRO,Dario Hunter,0
+Union,11-Imb/Sum Rural,President,,PRO,Dario Hunter,0
+Union,12-Sum City,President,,PRO,Dario Hunter,1
+Union,13-NP Rural,President,,PRO,Dario Hunter,0
+Union,14-NP City,President,,PRO,Dario Hunter,0
+Union,15-Union Rural,President,,PRO,Dario Hunter,0
+Union,16-Union City,President,,PRO,Dario Hunter,0
+Union,17-Ant/BC,President,,PRO,Dario Hunter,0
+Union,18-IC City,President,,PRO,Dario Hunter,3
+Union,19-IC Rural,President,,PRO,Dario Hunter,0
+Union,01 LG City,President,,,Write-ins,21
+Union,02-LG City,President,,,Write-ins,13
+Union,03-LG City,President,,,Write-ins,8
+Union,04-LG Rural,President,,,Write-ins,2
+Union,05-LG Rural,President,,,Write-ins,3
+Union,06-Cove City,President,,,Write-ins,4
+Union,07-Cove Rural,President,,,Write-ins,1
+Union,08-Elgin City,President,,,Write-ins,4
+Union,09-Elgin Rural,President,,,Write-ins,0
+Union,10-Imb City,President,,,Write-ins,2
+Union,11-Imb/Sum Rural,President,,,Write-ins,3
+Union,12-Sum City,President,,,Write-ins,1
+Union,13-NP Rural,President,,,Write-ins,0
+Union,14-NP City,President,,,Write-ins,0
+Union,15-Union Rural,President,,,Write-ins,0
+Union,16-Union City,President,,,Write-ins,5
+Union,17-Ant/BC,President,,,Write-ins,2
+Union,18-IC City,President,,,Write-ins,5
+Union,19-IC Rural,President,,,Write-ins,0
+Union,01 LG City,President,,,Over Votes,3
+Union,02-LG City,President,,,Over Votes,2
+Union,03-LG City,President,,,Over Votes,4
+Union,04-LG Rural,President,,,Over Votes,1
+Union,05-LG Rural,President,,,Over Votes,1
+Union,06-Cove City,President,,,Over Votes,0
+Union,07-Cove Rural,President,,,Over Votes,0
+Union,08-Elgin City,President,,,Over Votes,0
+Union,09-Elgin Rural,President,,,Over Votes,1
+Union,10-Imb City,President,,,Over Votes,0
+Union,11-Imb/Sum Rural,President,,,Over Votes,0
+Union,12-Sum City,President,,,Over Votes,0
+Union,13-NP Rural,President,,,Over Votes,0
+Union,14-NP City,President,,,Over Votes,0
+Union,15-Union Rural,President,,,Over Votes,0
+Union,16-Union City,President,,,Over Votes,0
+Union,17-Ant/BC,President,,,Over Votes,0
+Union,18-IC City,President,,,Over Votes,1
+Union,19-IC Rural,President,,,Over Votes,0
+Union,01 LG City,President,,,Under Votes,23
+Union,02-LG City,President,,,Under Votes,16
+Union,03-LG City,President,,,Under Votes,24
+Union,04-LG Rural,President,,,Under Votes,4
+Union,05-LG Rural,President,,,Under Votes,13
+Union,06-Cove City,President,,,Under Votes,10
+Union,07-Cove Rural,President,,,Under Votes,5
+Union,08-Elgin City,President,,,Under Votes,6
+Union,09-Elgin Rural,President,,,Under Votes,8
+Union,10-Imb City,President,,,Under Votes,2
+Union,11-Imb/Sum Rural,President,,,Under Votes,8
+Union,12-Sum City,President,,,Under Votes,0
+Union,13-NP Rural,President,,,Under Votes,2
+Union,14-NP City,President,,,Under Votes,4
+Union,15-Union Rural,President,,,Under Votes,1
+Union,16-Union City,President,,,Under Votes,12
+Union,17-Ant/BC,President,,,Under Votes,1
+Union,18-IC City,President,,,Under Votes,6
+Union,19-IC Rural,President,,,Under Votes,0
+Union,01 LG City,U.S. Senate,,REP,Jo Rae Perkins,1066
+Union,02-LG City,U.S. Senate,,REP,Jo Rae Perkins,1157
+Union,03-LG City,U.S. Senate,,REP,Jo Rae Perkins,1259
+Union,04-LG Rural,U.S. Senate,,REP,Jo Rae Perkins,268
+Union,05-LG Rural,U.S. Senate,,REP,Jo Rae Perkins,914
+Union,06-Cove City,U.S. Senate,,REP,Jo Rae Perkins,303
+Union,07-Cove Rural,U.S. Senate,,REP,Jo Rae Perkins,457
+Union,08-Elgin City,U.S. Senate,,REP,Jo Rae Perkins,701
+Union,09-Elgin Rural,U.S. Senate,,REP,Jo Rae Perkins,584
+Union,10-Imb City,U.S. Senate,,REP,Jo Rae Perkins,149
+Union,11-Imb/Sum Rural,U.S. Senate,,REP,Jo Rae Perkins,569
+Union,12-Sum City,U.S. Senate,,REP,Jo Rae Perkins,62
+Union,13-NP Rural,U.S. Senate,,REP,Jo Rae Perkins,84
+Union,14-NP City,U.S. Senate,,REP,Jo Rae Perkins,199
+Union,15-Union Rural,U.S. Senate,,REP,Jo Rae Perkins,232
+Union,16-Union City,U.S. Senate,,REP,Jo Rae Perkins,923
+Union,17-Ant/BC,U.S. Senate,,REP,Jo Rae Perkins,46
+Union,18-IC City,U.S. Senate,,REP,Jo Rae Perkins,470
+Union,19-IC Rural,U.S. Senate,,REP,Jo Rae Perkins,231
+Union,01 LG City,U.S. Senate,,DEM,Jeff Merkley,1119
+Union,02-LG City,U.S. Senate,,DEM,Jeff Merkley,784
+Union,03-LG City,U.S. Senate,,DEM,Jeff Merkley,702
+Union,04-LG Rural,U.S. Senate,,DEM,Jeff Merkley,108
+Union,05-LG Rural,U.S. Senate,,DEM,Jeff Merkley,307
+Union,06-Cove City,U.S. Senate,,DEM,Jeff Merkley,101
+Union,07-Cove Rural,U.S. Senate,,DEM,Jeff Merkley,179
+Union,08-Elgin City,U.S. Senate,,DEM,Jeff Merkley,169
+Union,09-Elgin Rural,U.S. Senate,,DEM,Jeff Merkley,96
+Union,10-Imb City,U.S. Senate,,DEM,Jeff Merkley,45
+Union,11-Imb/Sum Rural,U.S. Senate,,DEM,Jeff Merkley,147
+Union,12-Sum City,U.S. Senate,,DEM,Jeff Merkley,12
+Union,13-NP Rural,U.S. Senate,,DEM,Jeff Merkley,15
+Union,14-NP City,U.S. Senate,,DEM,Jeff Merkley,65
+Union,15-Union Rural,U.S. Senate,,DEM,Jeff Merkley,67
+Union,16-Union City,U.S. Senate,,DEM,Jeff Merkley,347
+Union,17-Ant/BC,U.S. Senate,,DEM,Jeff Merkley,7
+Union,18-IC City,U.S. Senate,,DEM,Jeff Merkley,209
+Union,19-IC Rural,U.S. Senate,,DEM,Jeff Merkley,66
+Union,01 LG City,U.S. Senate,,PGP,Ibrahim A. Taher,34
+Union,02-LG City,U.S. Senate,,PGP,Ibrahim A. Taher,30
+Union,03-LG City,U.S. Senate,,PGP,Ibrahim A. Taher,24
+Union,04-LG Rural,U.S. Senate,,PGP,Ibrahim A. Taher,5
+Union,05-LG Rural,U.S. Senate,,PGP,Ibrahim A. Taher,8
+Union,06-Cove City,U.S. Senate,,PGP,Ibrahim A. Taher,2
+Union,07-Cove Rural,U.S. Senate,,PGP,Ibrahim A. Taher,1
+Union,08-Elgin City,U.S. Senate,,PGP,Ibrahim A. Taher,11
+Union,09-Elgin Rural,U.S. Senate,,PGP,Ibrahim A. Taher,1
+Union,10-Imb City,U.S. Senate,,PGP,Ibrahim A. Taher,0
+Union,11-Imb/Sum Rural,U.S. Senate,,PGP,Ibrahim A. Taher,5
+Union,12-Sum City,U.S. Senate,,PGP,Ibrahim A. Taher,3
+Union,13-NP Rural,U.S. Senate,,PGP,Ibrahim A. Taher,0
+Union,14-NP City,U.S. Senate,,PGP,Ibrahim A. Taher,3
+Union,15-Union Rural,U.S. Senate,,PGP,Ibrahim A. Taher,0
+Union,16-Union City,U.S. Senate,,PGP,Ibrahim A. Taher,7
+Union,17-Ant/BC,U.S. Senate,,PGP,Ibrahim A. Taher,0
+Union,18-IC City,U.S. Senate,,PGP,Ibrahim A. Taher,10
+Union,19-IC Rural,U.S. Senate,,PGP,Ibrahim A. Taher,1
+Union,01 LG City,U.S. Senate,,LBT,Gary Dye,50
+Union,02-LG City,U.S. Senate,,LBT,Gary Dye,38
+Union,03-LG City,U.S. Senate,,LBT,Gary Dye,36
+Union,04-LG Rural,U.S. Senate,,LBT,Gary Dye,7
+Union,05-LG Rural,U.S. Senate,,LBT,Gary Dye,15
+Union,06-Cove City,U.S. Senate,,LBT,Gary Dye,9
+Union,07-Cove Rural,U.S. Senate,,LBT,Gary Dye,8
+Union,08-Elgin City,U.S. Senate,,LBT,Gary Dye,9
+Union,09-Elgin Rural,U.S. Senate,,LBT,Gary Dye,9
+Union,10-Imb City,U.S. Senate,,LBT,Gary Dye,3
+Union,11-Imb/Sum Rural,U.S. Senate,,LBT,Gary Dye,5
+Union,12-Sum City,U.S. Senate,,LBT,Gary Dye,0
+Union,13-NP Rural,U.S. Senate,,LBT,Gary Dye,1
+Union,14-NP City,U.S. Senate,,LBT,Gary Dye,5
+Union,15-Union Rural,U.S. Senate,,LBT,Gary Dye,2
+Union,16-Union City,U.S. Senate,,LBT,Gary Dye,18
+Union,17-Ant/BC,U.S. Senate,,LBT,Gary Dye,0
+Union,18-IC City,U.S. Senate,,LBT,Gary Dye,10
+Union,19-IC Rural,U.S. Senate,,LBT,Gary Dye,5
+Union,01 LG City,U.S. Senate,,,Write-ins,6
+Union,02-LG City,U.S. Senate,,,Write-ins,2
+Union,03-LG City,U.S. Senate,,,Write-ins,0
+Union,04-LG Rural,U.S. Senate,,,Write-ins,1
+Union,05-LG Rural,U.S. Senate,,,Write-ins,0
+Union,06-Cove City,U.S. Senate,,,Write-ins,0
+Union,07-Cove Rural,U.S. Senate,,,Write-ins,0
+Union,08-Elgin City,U.S. Senate,,,Write-ins,0
+Union,09-Elgin Rural,U.S. Senate,,,Write-ins,0
+Union,10-Imb City,U.S. Senate,,,Write-ins,1
+Union,11-Imb/Sum Rural,U.S. Senate,,,Write-ins,0
+Union,12-Sum City,U.S. Senate,,,Write-ins,1
+Union,13-NP Rural,U.S. Senate,,,Write-ins,0
+Union,14-NP City,U.S. Senate,,,Write-ins,0
+Union,15-Union Rural,U.S. Senate,,,Write-ins,0
+Union,16-Union City,U.S. Senate,,,Write-ins,0
+Union,17-Ant/BC,U.S. Senate,,,Write-ins,0
+Union,18-IC City,U.S. Senate,,,Write-ins,0
+Union,19-IC Rural,U.S. Senate,,,Write-ins,0
+Union,01 LG City,U.S. Senate,,,Over Votes,0
+Union,02-LG City,U.S. Senate,,,Over Votes,2
+Union,03-LG City,U.S. Senate,,,Over Votes,2
+Union,04-LG Rural,U.S. Senate,,,Over Votes,1
+Union,05-LG Rural,U.S. Senate,,,Over Votes,0
+Union,06-Cove City,U.S. Senate,,,Over Votes,0
+Union,07-Cove Rural,U.S. Senate,,,Over Votes,0
+Union,08-Elgin City,U.S. Senate,,,Over Votes,0
+Union,09-Elgin Rural,U.S. Senate,,,Over Votes,0
+Union,10-Imb City,U.S. Senate,,,Over Votes,0
+Union,11-Imb/Sum Rural,U.S. Senate,,,Over Votes,1
+Union,12-Sum City,U.S. Senate,,,Over Votes,0
+Union,13-NP Rural,U.S. Senate,,,Over Votes,0
+Union,14-NP City,U.S. Senate,,,Over Votes,0
+Union,15-Union Rural,U.S. Senate,,,Over Votes,0
+Union,16-Union City,U.S. Senate,,,Over Votes,1
+Union,17-Ant/BC,U.S. Senate,,,Over Votes,0
+Union,18-IC City,U.S. Senate,,,Over Votes,0
+Union,19-IC Rural,U.S. Senate,,,Over Votes,0
+Union,01 LG City,U.S. Senate,,,Under Votes,92
+Union,02-LG City,U.S. Senate,,,Under Votes,74
+Union,03-LG City,U.S. Senate,,,Under Votes,81
+Union,04-LG Rural,U.S. Senate,,,Under Votes,9
+Union,05-LG Rural,U.S. Senate,,,Under Votes,26
+Union,06-Cove City,U.S. Senate,,,Under Votes,13
+Union,07-Cove Rural,U.S. Senate,,,Under Votes,12
+Union,08-Elgin City,U.S. Senate,,,Under Votes,26
+Union,09-Elgin Rural,U.S. Senate,,,Under Votes,10
+Union,10-Imb City,U.S. Senate,,,Under Votes,3
+Union,11-Imb/Sum Rural,U.S. Senate,,,Under Votes,27
+Union,12-Sum City,U.S. Senate,,,Under Votes,2
+Union,13-NP Rural,U.S. Senate,,,Under Votes,2
+Union,14-NP City,U.S. Senate,,,Under Votes,9
+Union,15-Union Rural,U.S. Senate,,,Under Votes,6
+Union,16-Union City,U.S. Senate,,,Under Votes,52
+Union,17-Ant/BC,U.S. Senate,,,Under Votes,2
+Union,18-IC City,U.S. Senate,,,Under Votes,36
+Union,19-IC Rural,U.S. Senate,,,Under Votes,8
+Union,01 LG City,U.S. House,2,LBT,Robert Werch,70
+Union,02-LG City,U.S. House,2,LBT,Robert Werch,59
+Union,03-LG City,U.S. House,2,LBT,Robert Werch,69
+Union,04-LG Rural,U.S. House,2,LBT,Robert Werch,6
+Union,05-LG Rural,U.S. House,2,LBT,Robert Werch,25
+Union,06-Cove City,U.S. House,2,LBT,Robert Werch,9
+Union,07-Cove Rural,U.S. House,2,LBT,Robert Werch,10
+Union,08-Elgin City,U.S. House,2,LBT,Robert Werch,31
+Union,09-Elgin Rural,U.S. House,2,LBT,Robert Werch,6
+Union,10-Imb City,U.S. House,2,LBT,Robert Werch,5
+Union,11-Imb/Sum Rural,U.S. House,2,LBT,Robert Werch,15
+Union,12-Sum City,U.S. House,2,LBT,Robert Werch,1
+Union,13-NP Rural,U.S. House,2,LBT,Robert Werch,1
+Union,14-NP City,U.S. House,2,LBT,Robert Werch,10
+Union,15-Union Rural,U.S. House,2,LBT,Robert Werch,3
+Union,16-Union City,U.S. House,2,LBT,Robert Werch,28
+Union,17-Ant/BC,U.S. House,2,LBT,Robert Werch,0
+Union,18-IC City,U.S. House,2,LBT,Robert Werch,17
+Union,19-IC Rural,U.S. House,2,LBT,Robert Werch,10
+Union,01 LG City,U.S. House,2,REP,Cliff Bentz,1207
+Union,02-LG City,U.S. House,2,REP,Cliff Bentz,1291
+Union,03-LG City,U.S. House,2,REP,Cliff Bentz,1379
+Union,04-LG Rural,U.S. House,2,REP,Cliff Bentz,300
+Union,05-LG Rural,U.S. House,2,REP,Cliff Bentz,959
+Union,06-Cove City,U.S. House,2,REP,Cliff Bentz,324
+Union,07-Cove Rural,U.S. House,2,REP,Cliff Bentz,493
+Union,08-Elgin City,U.S. House,2,REP,Cliff Bentz,739
+Union,09-Elgin Rural,U.S. House,2,REP,Cliff Bentz,614
+Union,10-Imb City,U.S. House,2,REP,Cliff Bentz,157
+Union,11-Imb/Sum Rural,U.S. House,2,REP,Cliff Bentz,614
+Union,12-Sum City,U.S. House,2,REP,Cliff Bentz,65
+Union,13-NP Rural,U.S. House,2,REP,Cliff Bentz,92
+Union,14-NP City,U.S. House,2,REP,Cliff Bentz,219
+Union,15-Union Rural,U.S. House,2,REP,Cliff Bentz,247
+Union,16-Union City,U.S. House,2,REP,Cliff Bentz,1000
+Union,17-Ant/BC,U.S. House,2,REP,Cliff Bentz,47
+Union,18-IC City,U.S. House,2,REP,Cliff Bentz,519
+Union,19-IC Rural,U.S. House,2,REP,Cliff Bentz,233
+Union,01 LG City,U.S. House,2,DEM,Alex Spenser,953
+Union,02-LG City,U.S. House,2,DEM,Alex Spenser,634
+Union,03-LG City,U.S. House,2,DEM,Alex Spenser,531
+Union,04-LG Rural,U.S. House,2,DEM,Alex Spenser,80
+Union,05-LG Rural,U.S. House,2,DEM,Alex Spenser,243
+Union,06-Cove City,U.S. House,2,DEM,Alex Spenser,77
+Union,07-Cove Rural,U.S. House,2,DEM,Alex Spenser,140
+Union,08-Elgin City,U.S. House,2,DEM,Alex Spenser,112
+Union,09-Elgin Rural,U.S. House,2,DEM,Alex Spenser,62
+Union,10-Imb City,U.S. House,2,DEM,Alex Spenser,26
+Union,11-Imb/Sum Rural,U.S. House,2,DEM,Alex Spenser,99
+Union,12-Sum City,U.S. House,2,DEM,Alex Spenser,11
+Union,13-NP Rural,U.S. House,2,DEM,Alex Spenser,8
+Union,14-NP City,U.S. House,2,DEM,Alex Spenser,39
+Union,15-Union Rural,U.S. House,2,DEM,Alex Spenser,50
+Union,16-Union City,U.S. House,2,DEM,Alex Spenser,262
+Union,17-Ant/BC,U.S. House,2,DEM,Alex Spenser,6
+Union,18-IC City,U.S. House,2,DEM,Alex Spenser,152
+Union,19-IC Rural,U.S. House,2,DEM,Alex Spenser,52
+Union,01 LG City,U.S. House,2,,Write-ins,2
+Union,02-LG City,U.S. House,2,,Write-ins,3
+Union,03-LG City,U.S. House,2,,Write-ins,1
+Union,04-LG Rural,U.S. House,2,,Write-ins,2
+Union,05-LG Rural,U.S. House,2,,Write-ins,0
+Union,06-Cove City,U.S. House,2,,Write-ins,0
+Union,07-Cove Rural,U.S. House,2,,Write-ins,1
+Union,08-Elgin City,U.S. House,2,,Write-ins,0
+Union,09-Elgin Rural,U.S. House,2,,Write-ins,0
+Union,10-Imb City,U.S. House,2,,Write-ins,0
+Union,11-Imb/Sum Rural,U.S. House,2,,Write-ins,0
+Union,12-Sum City,U.S. House,2,,Write-ins,1
+Union,13-NP Rural,U.S. House,2,,Write-ins,0
+Union,14-NP City,U.S. House,2,,Write-ins,0
+Union,15-Union Rural,U.S. House,2,,Write-ins,0
+Union,16-Union City,U.S. House,2,,Write-ins,0
+Union,17-Ant/BC,U.S. House,2,,Write-ins,0
+Union,18-IC City,U.S. House,2,,Write-ins,0
+Union,19-IC Rural,U.S. House,2,,Write-ins,4
+Union,01 LG City,U.S. House,2,,Over Votes,0
+Union,02-LG City,U.S. House,2,,Over Votes,1
+Union,03-LG City,U.S. House,2,,Over Votes,1
+Union,04-LG Rural,U.S. House,2,,Over Votes,1
+Union,05-LG Rural,U.S. House,2,,Over Votes,0
+Union,06-Cove City,U.S. House,2,,Over Votes,0
+Union,07-Cove Rural,U.S. House,2,,Over Votes,0
+Union,08-Elgin City,U.S. House,2,,Over Votes,1
+Union,09-Elgin Rural,U.S. House,2,,Over Votes,0
+Union,10-Imb City,U.S. House,2,,Over Votes,0
+Union,11-Imb/Sum Rural,U.S. House,2,,Over Votes,0
+Union,12-Sum City,U.S. House,2,,Over Votes,0
+Union,13-NP Rural,U.S. House,2,,Over Votes,0
+Union,14-NP City,U.S. House,2,,Over Votes,0
+Union,15-Union Rural,U.S. House,2,,Over Votes,0
+Union,16-Union City,U.S. House,2,,Over Votes,0
+Union,17-Ant/BC,U.S. House,2,,Over Votes,0
+Union,18-IC City,U.S. House,2,,Over Votes,0
+Union,19-IC Rural,U.S. House,2,,Over Votes,0
+Union,01 LG City,U.S. House,2,,Under Votes,135
+Union,02-LG City,U.S. House,2,,Under Votes,99
+Union,03-LG City,U.S. House,2,,Under Votes,123
+Union,04-LG Rural,U.S. House,2,,Under Votes,10
+Union,05-LG Rural,U.S. House,2,,Under Votes,43
+Union,06-Cove City,U.S. House,2,,Under Votes,18
+Union,07-Cove Rural,U.S. House,2,,Under Votes,13
+Union,08-Elgin City,U.S. House,2,,Under Votes,33
+Union,09-Elgin Rural,U.S. House,2,,Under Votes,18
+Union,10-Imb City,U.S. House,2,,Under Votes,13
+Union,11-Imb/Sum Rural,U.S. House,2,,Under Votes,26
+Union,12-Sum City,U.S. House,2,,Under Votes,2
+Union,13-NP Rural,U.S. House,2,,Under Votes,1
+Union,14-NP City,U.S. House,2,,Under Votes,13
+Union,15-Union Rural,U.S. House,2,,Under Votes,7
+Union,16-Union City,U.S. House,2,,Under Votes,58
+Union,17-Ant/BC,U.S. House,2,,Under Votes,2
+Union,18-IC City,U.S. House,2,,Under Votes,47
+Union,19-IC Rural,U.S. House,2,,Under Votes,12
+Union,01 LG City,Secretary of State,,PGP,Nathalie Paravicini,74
+Union,02-LG City,Secretary of State,,PGP,Nathalie Paravicini,49
+Union,03-LG City,Secretary of State,,PGP,Nathalie Paravicini,48
+Union,04-LG Rural,Secretary of State,,PGP,Nathalie Paravicini,8
+Union,05-LG Rural,Secretary of State,,PGP,Nathalie Paravicini,12
+Union,06-Cove City,Secretary of State,,PGP,Nathalie Paravicini,6
+Union,07-Cove Rural,Secretary of State,,PGP,Nathalie Paravicini,4
+Union,08-Elgin City,Secretary of State,,PGP,Nathalie Paravicini,14
+Union,09-Elgin Rural,Secretary of State,,PGP,Nathalie Paravicini,1
+Union,10-Imb City,Secretary of State,,PGP,Nathalie Paravicini,2
+Union,11-Imb/Sum Rural,Secretary of State,,PGP,Nathalie Paravicini,9
+Union,12-Sum City,Secretary of State,,PGP,Nathalie Paravicini,3
+Union,13-NP Rural,Secretary of State,,PGP,Nathalie Paravicini,0
+Union,14-NP City,Secretary of State,,PGP,Nathalie Paravicini,1
+Union,15-Union Rural,Secretary of State,,PGP,Nathalie Paravicini,1
+Union,16-Union City,Secretary of State,,PGP,Nathalie Paravicini,20
+Union,17-Ant/BC,Secretary of State,,PGP,Nathalie Paravicini,0
+Union,18-IC City,Secretary of State,,PGP,Nathalie Paravicini,7
+Union,19-IC Rural,Secretary of State,,PGP,Nathalie Paravicini,2
+Union,01 LG City,Secretary of State,,LBT,Kyle Markley,49
+Union,02-LG City,Secretary of State,,LBT,Kyle Markley,56
+Union,03-LG City,Secretary of State,,LBT,Kyle Markley,66
+Union,04-LG Rural,Secretary of State,,LBT,Kyle Markley,9
+Union,05-LG Rural,Secretary of State,,LBT,Kyle Markley,26
+Union,06-Cove City,Secretary of State,,LBT,Kyle Markley,10
+Union,07-Cove Rural,Secretary of State,,LBT,Kyle Markley,9
+Union,08-Elgin City,Secretary of State,,LBT,Kyle Markley,22
+Union,09-Elgin Rural,Secretary of State,,LBT,Kyle Markley,8
+Union,10-Imb City,Secretary of State,,LBT,Kyle Markley,3
+Union,11-Imb/Sum Rural,Secretary of State,,LBT,Kyle Markley,10
+Union,12-Sum City,Secretary of State,,LBT,Kyle Markley,1
+Union,13-NP Rural,Secretary of State,,LBT,Kyle Markley,2
+Union,14-NP City,Secretary of State,,LBT,Kyle Markley,9
+Union,15-Union Rural,Secretary of State,,LBT,Kyle Markley,3
+Union,16-Union City,Secretary of State,,LBT,Kyle Markley,32
+Union,17-Ant/BC,Secretary of State,,LBT,Kyle Markley,0
+Union,18-IC City,Secretary of State,,LBT,Kyle Markley,13
+Union,19-IC Rural,Secretary of State,,LBT,Kyle Markley,5
+Union,01 LG City,Secretary of State,,REP,Kim Thatcher,1133
+Union,02-LG City,Secretary of State,,REP,Kim Thatcher,1220
+Union,03-LG City,Secretary of State,,REP,Kim Thatcher,1323
+Union,04-LG Rural,Secretary of State,,REP,Kim Thatcher,277
+Union,05-LG Rural,Secretary of State,,REP,Kim Thatcher,927
+Union,06-Cove City,Secretary of State,,REP,Kim Thatcher,305
+Union,07-Cove Rural,Secretary of State,,REP,Kim Thatcher,471
+Union,08-Elgin City,Secretary of State,,REP,Kim Thatcher,706
+Union,09-Elgin Rural,Secretary of State,,REP,Kim Thatcher,596
+Union,10-Imb City,Secretary of State,,REP,Kim Thatcher,153
+Union,11-Imb/Sum Rural,Secretary of State,,REP,Kim Thatcher,594
+Union,12-Sum City,Secretary of State,,REP,Kim Thatcher,62
+Union,13-NP Rural,Secretary of State,,REP,Kim Thatcher,88
+Union,14-NP City,Secretary of State,,REP,Kim Thatcher,202
+Union,15-Union Rural,Secretary of State,,REP,Kim Thatcher,240
+Union,16-Union City,Secretary of State,,REP,Kim Thatcher,963
+Union,17-Ant/BC,Secretary of State,,REP,Kim Thatcher,46
+Union,18-IC City,Secretary of State,,REP,Kim Thatcher,503
+Union,19-IC Rural,Secretary of State,,REP,Kim Thatcher,235
+Union,01 LG City,Secretary of State,,DEM,Shemia Fagan,964
+Union,02-LG City,Secretary of State,,DEM,Shemia Fagan,659
+Union,03-LG City,Secretary of State,,DEM,Shemia Fagan,537
+Union,04-LG Rural,Secretary of State,,DEM,Shemia Fagan,94
+Union,05-LG Rural,Secretary of State,,DEM,Shemia Fagan,268
+Union,06-Cove City,Secretary of State,,DEM,Shemia Fagan,84
+Union,07-Cove Rural,Secretary of State,,DEM,Shemia Fagan,155
+Union,08-Elgin City,Secretary of State,,DEM,Shemia Fagan,137
+Union,09-Elgin Rural,Secretary of State,,DEM,Shemia Fagan,78
+Union,10-Imb City,Secretary of State,,DEM,Shemia Fagan,36
+Union,11-Imb/Sum Rural,Secretary of State,,DEM,Shemia Fagan,109
+Union,12-Sum City,Secretary of State,,DEM,Shemia Fagan,11
+Union,13-NP Rural,Secretary of State,,DEM,Shemia Fagan,10
+Union,14-NP City,Secretary of State,,DEM,Shemia Fagan,58
+Union,15-Union Rural,Secretary of State,,DEM,Shemia Fagan,54
+Union,16-Union City,Secretary of State,,DEM,Shemia Fagan,276
+Union,17-Ant/BC,Secretary of State,,DEM,Shemia Fagan,7
+Union,18-IC City,Secretary of State,,DEM,Shemia Fagan,169
+Union,19-IC Rural,Secretary of State,,DEM,Shemia Fagan,59
+Union,01 LG City,Secretary of State,,,Write-ins,1
+Union,02-LG City,Secretary of State,,,Write-ins,2
+Union,03-LG City,Secretary of State,,,Write-ins,0
+Union,04-LG Rural,Secretary of State,,,Write-ins,0
+Union,05-LG Rural,Secretary of State,,,Write-ins,0
+Union,06-Cove City,Secretary of State,,,Write-ins,0
+Union,07-Cove Rural,Secretary of State,,,Write-ins,1
+Union,08-Elgin City,Secretary of State,,,Write-ins,0
+Union,09-Elgin Rural,Secretary of State,,,Write-ins,0
+Union,10-Imb City,Secretary of State,,,Write-ins,0
+Union,11-Imb/Sum Rural,Secretary of State,,,Write-ins,0
+Union,12-Sum City,Secretary of State,,,Write-ins,1
+Union,13-NP Rural,Secretary of State,,,Write-ins,0
+Union,14-NP City,Secretary of State,,,Write-ins,1
+Union,15-Union Rural,Secretary of State,,,Write-ins,0
+Union,16-Union City,Secretary of State,,,Write-ins,0
+Union,17-Ant/BC,Secretary of State,,,Write-ins,0
+Union,18-IC City,Secretary of State,,,Write-ins,0
+Union,19-IC Rural,Secretary of State,,,Write-ins,2
+Union,01 LG City,Secretary of State,,,Over Votes,0
+Union,02-LG City,Secretary of State,,,Over Votes,3
+Union,03-LG City,Secretary of State,,,Over Votes,1
+Union,04-LG Rural,Secretary of State,,,Over Votes,1
+Union,05-LG Rural,Secretary of State,,,Over Votes,0
+Union,06-Cove City,Secretary of State,,,Over Votes,0
+Union,07-Cove Rural,Secretary of State,,,Over Votes,0
+Union,08-Elgin City,Secretary of State,,,Over Votes,0
+Union,09-Elgin Rural,Secretary of State,,,Over Votes,1
+Union,10-Imb City,Secretary of State,,,Over Votes,0
+Union,11-Imb/Sum Rural,Secretary of State,,,Over Votes,0
+Union,12-Sum City,Secretary of State,,,Over Votes,0
+Union,13-NP Rural,Secretary of State,,,Over Votes,0
+Union,14-NP City,Secretary of State,,,Over Votes,0
+Union,15-Union Rural,Secretary of State,,,Over Votes,0
+Union,16-Union City,Secretary of State,,,Over Votes,0
+Union,17-Ant/BC,Secretary of State,,,Over Votes,0
+Union,18-IC City,Secretary of State,,,Over Votes,1
+Union,19-IC Rural,Secretary of State,,,Over Votes,0
+Union,01 LG City,Secretary of State,,,Under Votes,143
+Union,02-LG City,Secretary of State,,,Under Votes,97
+Union,03-LG City,Secretary of State,,,Under Votes,128
+Union,04-LG Rural,Secretary of State,,,Under Votes,10
+Union,05-LG Rural,Secretary of State,,,Under Votes,37
+Union,06-Cove City,Secretary of State,,,Under Votes,23
+Union,07-Cove Rural,Secretary of State,,,Under Votes,15
+Union,08-Elgin City,Secretary of State,,,Under Votes,37
+Union,09-Elgin Rural,Secretary of State,,,Under Votes,16
+Union,10-Imb City,Secretary of State,,,Under Votes,7
+Union,11-Imb/Sum Rural,Secretary of State,,,Under Votes,32
+Union,12-Sum City,Secretary of State,,,Under Votes,2
+Union,13-NP Rural,Secretary of State,,,Under Votes,2
+Union,14-NP City,Secretary of State,,,Under Votes,10
+Union,15-Union Rural,Secretary of State,,,Under Votes,9
+Union,16-Union City,Secretary of State,,,Under Votes,57
+Union,17-Ant/BC,Secretary of State,,,Under Votes,2
+Union,18-IC City,Secretary of State,,,Under Votes,42
+Union,19-IC Rural,Secretary of State,,,Under Votes,8
+Union,01 LG City,State Treasurer,,CON,Michael P. Marsh,65
+Union,02-LG City,State Treasurer,,CON,Michael P. Marsh,62
+Union,03-LG City,State Treasurer,,CON,Michael P. Marsh,86
+Union,04-LG Rural,State Treasurer,,CON,Michael P. Marsh,14
+Union,05-LG Rural,State Treasurer,,CON,Michael P. Marsh,35
+Union,06-Cove City,State Treasurer,,CON,Michael P. Marsh,9
+Union,07-Cove Rural,State Treasurer,,CON,Michael P. Marsh,17
+Union,08-Elgin City,State Treasurer,,CON,Michael P. Marsh,46
+Union,09-Elgin Rural,State Treasurer,,CON,Michael P. Marsh,25
+Union,10-Imb City,State Treasurer,,CON,Michael P. Marsh,7
+Union,11-Imb/Sum Rural,State Treasurer,,CON,Michael P. Marsh,27
+Union,12-Sum City,State Treasurer,,CON,Michael P. Marsh,2
+Union,13-NP Rural,State Treasurer,,CON,Michael P. Marsh,1
+Union,14-NP City,State Treasurer,,CON,Michael P. Marsh,12
+Union,15-Union Rural,State Treasurer,,CON,Michael P. Marsh,10
+Union,16-Union City,State Treasurer,,CON,Michael P. Marsh,35
+Union,17-Ant/BC,State Treasurer,,CON,Michael P. Marsh,3
+Union,18-IC City,State Treasurer,,CON,Michael P. Marsh,15
+Union,19-IC Rural,State Treasurer,,CON,Michael P. Marsh,11
+Union,01 LG City,State Treasurer,,DEM,Tobias Read,968
+Union,02-LG City,State Treasurer,,DEM,Tobias Read,669
+Union,03-LG City,State Treasurer,,DEM,Tobias Read,574
+Union,04-LG Rural,State Treasurer,,DEM,Tobias Read,94
+Union,05-LG Rural,State Treasurer,,DEM,Tobias Read,290
+Union,06-Cove City,State Treasurer,,DEM,Tobias Read,88
+Union,07-Cove Rural,State Treasurer,,DEM,Tobias Read,160
+Union,08-Elgin City,State Treasurer,,DEM,Tobias Read,143
+Union,09-Elgin Rural,State Treasurer,,DEM,Tobias Read,83
+Union,10-Imb City,State Treasurer,,DEM,Tobias Read,35
+Union,11-Imb/Sum Rural,State Treasurer,,DEM,Tobias Read,114
+Union,12-Sum City,State Treasurer,,DEM,Tobias Read,12
+Union,13-NP Rural,State Treasurer,,DEM,Tobias Read,12
+Union,14-NP City,State Treasurer,,DEM,Tobias Read,60
+Union,15-Union Rural,State Treasurer,,DEM,Tobias Read,56
+Union,16-Union City,State Treasurer,,DEM,Tobias Read,289
+Union,17-Ant/BC,State Treasurer,,DEM,Tobias Read,5
+Union,18-IC City,State Treasurer,,DEM,Tobias Read,178
+Union,19-IC Rural,State Treasurer,,DEM,Tobias Read,53
+Union,01 LG City,State Treasurer,,IND,Chris Henry,103
+Union,02-LG City,State Treasurer,,IND,Chris Henry,70
+Union,03-LG City,State Treasurer,,IND,Chris Henry,70
+Union,04-LG Rural,State Treasurer,,IND,Chris Henry,14
+Union,05-LG Rural,State Treasurer,,IND,Chris Henry,18
+Union,06-Cove City,State Treasurer,,IND,Chris Henry,10
+Union,07-Cove Rural,State Treasurer,,IND,Chris Henry,4
+Union,08-Elgin City,State Treasurer,,IND,Chris Henry,30
+Union,09-Elgin Rural,State Treasurer,,IND,Chris Henry,9
+Union,10-Imb City,State Treasurer,,IND,Chris Henry,6
+Union,11-Imb/Sum Rural,State Treasurer,,IND,Chris Henry,15
+Union,12-Sum City,State Treasurer,,IND,Chris Henry,3
+Union,13-NP Rural,State Treasurer,,IND,Chris Henry,0
+Union,14-NP City,State Treasurer,,IND,Chris Henry,8
+Union,15-Union Rural,State Treasurer,,IND,Chris Henry,2
+Union,16-Union City,State Treasurer,,IND,Chris Henry,36
+Union,17-Ant/BC,State Treasurer,,IND,Chris Henry,0
+Union,18-IC City,State Treasurer,,IND,Chris Henry,18
+Union,19-IC Rural,State Treasurer,,IND,Chris Henry,9
+Union,01 LG City,State Treasurer,,REP,Jeff Gudman,1061
+Union,02-LG City,State Treasurer,,REP,Jeff Gudman,1160
+Union,03-LG City,State Treasurer,,REP,Jeff Gudman,1225
+Union,04-LG Rural,State Treasurer,,REP,Jeff Gudman,260
+Union,05-LG Rural,State Treasurer,,REP,Jeff Gudman,880
+Union,06-Cove City,State Treasurer,,REP,Jeff Gudman,300
+Union,07-Cove Rural,State Treasurer,,REP,Jeff Gudman,450
+Union,08-Elgin City,State Treasurer,,REP,Jeff Gudman,651
+Union,09-Elgin Rural,State Treasurer,,REP,Jeff Gudman,563
+Union,10-Imb City,State Treasurer,,REP,Jeff Gudman,144
+Union,11-Imb/Sum Rural,State Treasurer,,REP,Jeff Gudman,556
+Union,12-Sum City,State Treasurer,,REP,Jeff Gudman,60
+Union,13-NP Rural,State Treasurer,,REP,Jeff Gudman,87
+Union,14-NP City,State Treasurer,,REP,Jeff Gudman,189
+Union,15-Union Rural,State Treasurer,,REP,Jeff Gudman,230
+Union,16-Union City,State Treasurer,,REP,Jeff Gudman,915
+Union,17-Ant/BC,State Treasurer,,REP,Jeff Gudman,45
+Union,18-IC City,State Treasurer,,REP,Jeff Gudman,471
+Union,19-IC Rural,State Treasurer,,REP,Jeff Gudman,222
+Union,01 LG City,State Treasurer,,,Write-ins,0
+Union,02-LG City,State Treasurer,,,Write-ins,2
+Union,03-LG City,State Treasurer,,,Write-ins,1
+Union,04-LG Rural,State Treasurer,,,Write-ins,0
+Union,05-LG Rural,State Treasurer,,,Write-ins,0
+Union,06-Cove City,State Treasurer,,,Write-ins,0
+Union,07-Cove Rural,State Treasurer,,,Write-ins,1
+Union,08-Elgin City,State Treasurer,,,Write-ins,0
+Union,09-Elgin Rural,State Treasurer,,,Write-ins,0
+Union,10-Imb City,State Treasurer,,,Write-ins,0
+Union,11-Imb/Sum Rural,State Treasurer,,,Write-ins,0
+Union,12-Sum City,State Treasurer,,,Write-ins,1
+Union,13-NP Rural,State Treasurer,,,Write-ins,0
+Union,14-NP City,State Treasurer,,,Write-ins,0
+Union,15-Union Rural,State Treasurer,,,Write-ins,0
+Union,16-Union City,State Treasurer,,,Write-ins,0
+Union,17-Ant/BC,State Treasurer,,,Write-ins,0
+Union,18-IC City,State Treasurer,,,Write-ins,0
+Union,19-IC Rural,State Treasurer,,,Write-ins,1
+Union,01 LG City,State Treasurer,,,Over Votes,1
+Union,02-LG City,State Treasurer,,,Over Votes,1
+Union,03-LG City,State Treasurer,,,Over Votes,0
+Union,04-LG Rural,State Treasurer,,,Over Votes,1
+Union,05-LG Rural,State Treasurer,,,Over Votes,0
+Union,06-Cove City,State Treasurer,,,Over Votes,0
+Union,07-Cove Rural,State Treasurer,,,Over Votes,0
+Union,08-Elgin City,State Treasurer,,,Over Votes,0
+Union,09-Elgin Rural,State Treasurer,,,Over Votes,0
+Union,10-Imb City,State Treasurer,,,Over Votes,0
+Union,11-Imb/Sum Rural,State Treasurer,,,Over Votes,1
+Union,12-Sum City,State Treasurer,,,Over Votes,0
+Union,13-NP Rural,State Treasurer,,,Over Votes,0
+Union,14-NP City,State Treasurer,,,Over Votes,1
+Union,15-Union Rural,State Treasurer,,,Over Votes,0
+Union,16-Union City,State Treasurer,,,Over Votes,0
+Union,17-Ant/BC,State Treasurer,,,Over Votes,0
+Union,18-IC City,State Treasurer,,,Over Votes,1
+Union,19-IC Rural,State Treasurer,,,Over Votes,0
+Union,01 LG City,State Treasurer,,,Under Votes,166
+Union,02-LG City,State Treasurer,,,Under Votes,122
+Union,03-LG City,State Treasurer,,,Under Votes,147
+Union,04-LG Rural,State Treasurer,,,Under Votes,16
+Union,05-LG Rural,State Treasurer,,,Under Votes,47
+Union,06-Cove City,State Treasurer,,,Under Votes,21
+Union,07-Cove Rural,State Treasurer,,,Under Votes,23
+Union,08-Elgin City,State Treasurer,,,Under Votes,46
+Union,09-Elgin Rural,State Treasurer,,,Under Votes,20
+Union,10-Imb City,State Treasurer,,,Under Votes,9
+Union,11-Imb/Sum Rural,State Treasurer,,,Under Votes,41
+Union,12-Sum City,State Treasurer,,,Under Votes,2
+Union,13-NP Rural,State Treasurer,,,Under Votes,2
+Union,14-NP City,State Treasurer,,,Under Votes,11
+Union,15-Union Rural,State Treasurer,,,Under Votes,9
+Union,16-Union City,State Treasurer,,,Under Votes,73
+Union,17-Ant/BC,State Treasurer,,,Under Votes,2
+Union,18-IC City,State Treasurer,,,Under Votes,52
+Union,19-IC Rural,State Treasurer,,,Under Votes,15
+Union,01 LG City,Attorney General,,DEM,Ellen Rosenblum,1084
+Union,02-LG City,Attorney General,,DEM,Ellen Rosenblum,711
+Union,03-LG City,Attorney General,,DEM,Ellen Rosenblum,636
+Union,04-LG Rural,Attorney General,,DEM,Ellen Rosenblum,96
+Union,05-LG Rural,Attorney General,,DEM,Ellen Rosenblum,300
+Union,06-Cove City,Attorney General,,DEM,Ellen Rosenblum,91
+Union,07-Cove Rural,Attorney General,,DEM,Ellen Rosenblum,164
+Union,08-Elgin City,Attorney General,,DEM,Ellen Rosenblum,148
+Union,09-Elgin Rural,Attorney General,,DEM,Ellen Rosenblum,80
+Union,10-Imb City,Attorney General,,DEM,Ellen Rosenblum,36
+Union,11-Imb/Sum Rural,Attorney General,,DEM,Ellen Rosenblum,123
+Union,12-Sum City,Attorney General,,DEM,Ellen Rosenblum,13
+Union,13-NP Rural,Attorney General,,DEM,Ellen Rosenblum,13
+Union,14-NP City,Attorney General,,DEM,Ellen Rosenblum,57
+Union,15-Union Rural,Attorney General,,DEM,Ellen Rosenblum,62
+Union,16-Union City,Attorney General,,DEM,Ellen Rosenblum,303
+Union,17-Ant/BC,Attorney General,,DEM,Ellen Rosenblum,8
+Union,18-IC City,Attorney General,,DEM,Ellen Rosenblum,184
+Union,19-IC Rural,Attorney General,,DEM,Ellen Rosenblum,64
+Union,01 LG City,Attorney General,,LBT,Lars D.H. Hedbor,39
+Union,02-LG City,Attorney General,,LBT,Lars D.H. Hedbor,47
+Union,03-LG City,Attorney General,,LBT,Lars D.H. Hedbor,54
+Union,04-LG Rural,Attorney General,,LBT,Lars D.H. Hedbor,7
+Union,05-LG Rural,Attorney General,,LBT,Lars D.H. Hedbor,20
+Union,06-Cove City,Attorney General,,LBT,Lars D.H. Hedbor,11
+Union,07-Cove Rural,Attorney General,,LBT,Lars D.H. Hedbor,9
+Union,08-Elgin City,Attorney General,,LBT,Lars D.H. Hedbor,19
+Union,09-Elgin Rural,Attorney General,,LBT,Lars D.H. Hedbor,11
+Union,10-Imb City,Attorney General,,LBT,Lars D.H. Hedbor,5
+Union,11-Imb/Sum Rural,Attorney General,,LBT,Lars D.H. Hedbor,7
+Union,12-Sum City,Attorney General,,LBT,Lars D.H. Hedbor,3
+Union,13-NP Rural,Attorney General,,LBT,Lars D.H. Hedbor,2
+Union,14-NP City,Attorney General,,LBT,Lars D.H. Hedbor,11
+Union,15-Union Rural,Attorney General,,LBT,Lars D.H. Hedbor,3
+Union,16-Union City,Attorney General,,LBT,Lars D.H. Hedbor,28
+Union,17-Ant/BC,Attorney General,,LBT,Lars D.H. Hedbor,1
+Union,18-IC City,Attorney General,,LBT,Lars D.H. Hedbor,10
+Union,19-IC Rural,Attorney General,,LBT,Lars D.H. Hedbor,8
+Union,01 LG City,Attorney General,,REP,Michael Cross,1083
+Union,02-LG City,Attorney General,,REP,Michael Cross,1194
+Union,03-LG City,Attorney General,,REP,Michael Cross,1260
+Union,04-LG Rural,Attorney General,,REP,Michael Cross,279
+Union,05-LG Rural,Attorney General,,REP,Michael Cross,899
+Union,06-Cove City,Attorney General,,REP,Michael Cross,300
+Union,07-Cove Rural,Attorney General,,REP,Michael Cross,457
+Union,08-Elgin City,Attorney General,,REP,Michael Cross,699
+Union,09-Elgin Rural,Attorney General,,REP,Michael Cross,584
+Union,10-Imb City,Attorney General,,REP,Michael Cross,149
+Union,11-Imb/Sum Rural,Attorney General,,REP,Michael Cross,574
+Union,12-Sum City,Attorney General,,REP,Michael Cross,60
+Union,13-NP Rural,Attorney General,,REP,Michael Cross,84
+Union,14-NP City,Attorney General,,REP,Michael Cross,200
+Union,15-Union Rural,Attorney General,,REP,Michael Cross,229
+Union,16-Union City,Attorney General,,REP,Michael Cross,942
+Union,17-Ant/BC,Attorney General,,REP,Michael Cross,43
+Union,18-IC City,Attorney General,,REP,Michael Cross,490
+Union,19-IC Rural,Attorney General,,REP,Michael Cross,225
+Union,01 LG City,Attorney General,,,Write-ins,4
+Union,02-LG City,Attorney General,,,Write-ins,7
+Union,03-LG City,Attorney General,,,Write-ins,11
+Union,04-LG Rural,Attorney General,,,Write-ins,0
+Union,05-LG Rural,Attorney General,,,Write-ins,3
+Union,06-Cove City,Attorney General,,,Write-ins,5
+Union,07-Cove Rural,Attorney General,,,Write-ins,1
+Union,08-Elgin City,Attorney General,,,Write-ins,1
+Union,09-Elgin Rural,Attorney General,,,Write-ins,2
+Union,10-Imb City,Attorney General,,,Write-ins,0
+Union,11-Imb/Sum Rural,Attorney General,,,Write-ins,4
+Union,12-Sum City,Attorney General,,,Write-ins,1
+Union,13-NP Rural,Attorney General,,,Write-ins,1
+Union,14-NP City,Attorney General,,,Write-ins,0
+Union,15-Union Rural,Attorney General,,,Write-ins,3
+Union,16-Union City,Attorney General,,,Write-ins,6
+Union,17-Ant/BC,Attorney General,,,Write-ins,0
+Union,18-IC City,Attorney General,,,Write-ins,4
+Union,19-IC Rural,Attorney General,,,Write-ins,0
+Union,01 LG City,Attorney General,,,Over Votes,0
+Union,02-LG City,Attorney General,,,Over Votes,1
+Union,03-LG City,Attorney General,,,Over Votes,0
+Union,04-LG Rural,Attorney General,,,Over Votes,1
+Union,05-LG Rural,Attorney General,,,Over Votes,0
+Union,06-Cove City,Attorney General,,,Over Votes,0
+Union,07-Cove Rural,Attorney General,,,Over Votes,0
+Union,08-Elgin City,Attorney General,,,Over Votes,1
+Union,09-Elgin Rural,Attorney General,,,Over Votes,0
+Union,10-Imb City,Attorney General,,,Over Votes,0
+Union,11-Imb/Sum Rural,Attorney General,,,Over Votes,0
+Union,12-Sum City,Attorney General,,,Over Votes,0
+Union,13-NP Rural,Attorney General,,,Over Votes,0
+Union,14-NP City,Attorney General,,,Over Votes,0
+Union,15-Union Rural,Attorney General,,,Over Votes,0
+Union,16-Union City,Attorney General,,,Over Votes,0
+Union,17-Ant/BC,Attorney General,,,Over Votes,0
+Union,18-IC City,Attorney General,,,Over Votes,0
+Union,19-IC Rural,Attorney General,,,Over Votes,0
+Union,01 LG City,Attorney General,,,Under Votes,154
+Union,02-LG City,Attorney General,,,Under Votes,126
+Union,03-LG City,Attorney General,,,Under Votes,142
+Union,04-LG Rural,Attorney General,,,Under Votes,16
+Union,05-LG Rural,Attorney General,,,Under Votes,48
+Union,06-Cove City,Attorney General,,,Under Votes,21
+Union,07-Cove Rural,Attorney General,,,Under Votes,24
+Union,08-Elgin City,Attorney General,,,Under Votes,48
+Union,09-Elgin Rural,Attorney General,,,Under Votes,23
+Union,10-Imb City,Attorney General,,,Under Votes,11
+Union,11-Imb/Sum Rural,Attorney General,,,Under Votes,46
+Union,12-Sum City,Attorney General,,,Under Votes,3
+Union,13-NP Rural,Attorney General,,,Under Votes,2
+Union,14-NP City,Attorney General,,,Under Votes,13
+Union,15-Union Rural,Attorney General,,,Under Votes,10
+Union,16-Union City,Attorney General,,,Under Votes,69
+Union,17-Ant/BC,Attorney General,,,Under Votes,3
+Union,18-IC City,Attorney General,,,Under Votes,47
+Union,19-IC Rural,Attorney General,,,Under Votes,14
+Union,01 LG City,State Senate,29,REP,Bill Hansell,1307
+Union,02-LG City,State Senate,29,REP,Bill Hansell,1353
+Union,03-LG City,State Senate,29,REP,Bill Hansell,1453
+Union,04-LG Rural,State Senate,29,REP,Bill Hansell,300
+Union,05-LG Rural,State Senate,29,REP,Bill Hansell,986
+Union,06-Cove City,State Senate,29,REP,Bill Hansell,330
+Union,07-Cove Rural,State Senate,29,REP,Bill Hansell,508
+Union,08-Elgin City,State Senate,29,REP,Bill Hansell,754
+Union,09-Elgin Rural,State Senate,29,REP,Bill Hansell,612
+Union,10-Imb City,State Senate,29,REP,Bill Hansell,160
+Union,11-Imb/Sum Rural,State Senate,29,REP,Bill Hansell,626
+Union,12-Sum City,State Senate,29,REP,Bill Hansell,63
+Union,13-NP Rural,State Senate,29,REP,Bill Hansell,93
+Union,14-NP City,State Senate,29,REP,Bill Hansell,220
+Union,15-Union Rural,State Senate,29,REP,Bill Hansell,249
+Union,16-Union City,State Senate,29,REP,Bill Hansell,1022
+Union,17-Ant/BC,State Senate,29,REP,Bill Hansell,47
+Union,18-IC City,State Senate,29,REP,Bill Hansell,553
+Union,19-IC Rural,State Senate,29,REP,Bill Hansell,246
+Union,01 LG City,State Senate,29,DEM,Mildred A. O'Callaghan,872
+Union,02-LG City,State Senate,29,DEM,Mildred A. O'Callaghan,589
+Union,03-LG City,State Senate,29,DEM,Mildred A. O'Callaghan,491
+Union,04-LG Rural,State Senate,29,DEM,Mildred A. O'Callaghan,73
+Union,05-LG Rural,State Senate,29,DEM,Mildred A. O'Callaghan,228
+Union,06-Cove City,State Senate,29,DEM,Mildred A. O'Callaghan,70
+Union,07-Cove Rural,State Senate,29,DEM,Mildred A. O'Callaghan,125
+Union,08-Elgin City,State Senate,29,DEM,Mildred A. O'Callaghan,115
+Union,09-Elgin Rural,State Senate,29,DEM,Mildred A. O'Callaghan,68
+Union,10-Imb City,State Senate,29,DEM,Mildred A. O'Callaghan,28
+Union,11-Imb/Sum Rural,State Senate,29,DEM,Mildred A. O'Callaghan,89
+Union,12-Sum City,State Senate,29,DEM,Mildred A. O'Callaghan,10
+Union,13-NP Rural,State Senate,29,DEM,Mildred A. O'Callaghan,6
+Union,14-NP City,State Senate,29,DEM,Mildred A. O'Callaghan,47
+Union,15-Union Rural,State Senate,29,DEM,Mildred A. O'Callaghan,45
+Union,16-Union City,State Senate,29,DEM,Mildred A. O'Callaghan,245
+Union,17-Ant/BC,State Senate,29,DEM,Mildred A. O'Callaghan,5
+Union,18-IC City,State Senate,29,DEM,Mildred A. O'Callaghan,138
+Union,19-IC Rural,State Senate,29,DEM,Mildred A. O'Callaghan,46
+Union,01 LG City,State Senate,29,,Write-ins,2
+Union,02-LG City,State Senate,29,,Write-ins,4
+Union,03-LG City,State Senate,29,,Write-ins,3
+Union,04-LG Rural,State Senate,29,,Write-ins,0
+Union,05-LG Rural,State Senate,29,,Write-ins,0
+Union,06-Cove City,State Senate,29,,Write-ins,0
+Union,07-Cove Rural,State Senate,29,,Write-ins,1
+Union,08-Elgin City,State Senate,29,,Write-ins,0
+Union,09-Elgin Rural,State Senate,29,,Write-ins,0
+Union,10-Imb City,State Senate,29,,Write-ins,0
+Union,11-Imb/Sum Rural,State Senate,29,,Write-ins,1
+Union,12-Sum City,State Senate,29,,Write-ins,1
+Union,13-NP Rural,State Senate,29,,Write-ins,1
+Union,14-NP City,State Senate,29,,Write-ins,2
+Union,15-Union Rural,State Senate,29,,Write-ins,0
+Union,16-Union City,State Senate,29,,Write-ins,1
+Union,17-Ant/BC,State Senate,29,,Write-ins,0
+Union,18-IC City,State Senate,29,,Write-ins,0
+Union,19-IC Rural,State Senate,29,,Write-ins,0
+Union,01 LG City,State Senate,29,,Over Votes,0
+Union,02-LG City,State Senate,29,,Over Votes,0
+Union,03-LG City,State Senate,29,,Over Votes,0
+Union,04-LG Rural,State Senate,29,,Over Votes,0
+Union,05-LG Rural,State Senate,29,,Over Votes,0
+Union,06-Cove City,State Senate,29,,Over Votes,0
+Union,07-Cove Rural,State Senate,29,,Over Votes,0
+Union,08-Elgin City,State Senate,29,,Over Votes,1
+Union,09-Elgin Rural,State Senate,29,,Over Votes,0
+Union,10-Imb City,State Senate,29,,Over Votes,0
+Union,11-Imb/Sum Rural,State Senate,29,,Over Votes,1
+Union,12-Sum City,State Senate,29,,Over Votes,0
+Union,13-NP Rural,State Senate,29,,Over Votes,0
+Union,14-NP City,State Senate,29,,Over Votes,0
+Union,15-Union Rural,State Senate,29,,Over Votes,0
+Union,16-Union City,State Senate,29,,Over Votes,0
+Union,17-Ant/BC,State Senate,29,,Over Votes,0
+Union,18-IC City,State Senate,29,,Over Votes,0
+Union,19-IC Rural,State Senate,29,,Over Votes,0
+Union,01 LG City,State Senate,29,,Under Votes,183
+Union,02-LG City,State Senate,29,,Under Votes,140
+Union,03-LG City,State Senate,29,,Under Votes,156
+Union,04-LG Rural,State Senate,29,,Under Votes,26
+Union,05-LG Rural,State Senate,29,,Under Votes,56
+Union,06-Cove City,State Senate,29,,Under Votes,28
+Union,07-Cove Rural,State Senate,29,,Under Votes,21
+Union,08-Elgin City,State Senate,29,,Under Votes,46
+Union,09-Elgin Rural,State Senate,29,,Under Votes,20
+Union,10-Imb City,State Senate,29,,Under Votes,13
+Union,11-Imb/Sum Rural,State Senate,29,,Under Votes,37
+Union,12-Sum City,State Senate,29,,Under Votes,6
+Union,13-NP Rural,State Senate,29,,Under Votes,2
+Union,14-NP City,State Senate,29,,Under Votes,12
+Union,15-Union Rural,State Senate,29,,Under Votes,13
+Union,16-Union City,State Senate,29,,Under Votes,80
+Union,17-Ant/BC,State Senate,29,,Under Votes,3
+Union,18-IC City,State Senate,29,,Under Votes,44
+Union,19-IC Rural,State Senate,29,,Under Votes,19
+Union,01 LG City,State House,58,DEM,Nolan E. Bylenga,964
+Union,02-LG City,State House,58,DEM,Nolan E. Bylenga,636
+Union,03-LG City,State House,58,DEM,Nolan E. Bylenga,529
+Union,04-LG Rural,State House,58,DEM,Nolan E. Bylenga,83
+Union,05-LG Rural,State House,58,DEM,Nolan E. Bylenga,240
+Union,06-Cove City,State House,58,DEM,Nolan E. Bylenga,74
+Union,07-Cove Rural,State House,58,DEM,Nolan E. Bylenga,134
+Union,08-Elgin City,State House,58,DEM,Nolan E. Bylenga,118
+Union,09-Elgin Rural,State House,58,DEM,Nolan E. Bylenga,64
+Union,10-Imb City,State House,58,DEM,Nolan E. Bylenga,28
+Union,11-Imb/Sum Rural,State House,58,DEM,Nolan E. Bylenga,108
+Union,12-Sum City,State House,58,DEM,Nolan E. Bylenga,11
+Union,13-NP Rural,State House,58,DEM,Nolan E. Bylenga,5
+Union,14-NP City,State House,58,DEM,Nolan E. Bylenga,50
+Union,15-Union Rural,State House,58,DEM,Nolan E. Bylenga,55
+Union,16-Union City,State House,58,DEM,Nolan E. Bylenga,269
+Union,17-Ant/BC,State House,58,DEM,Nolan E. Bylenga,5
+Union,18-IC City,State House,58,DEM,Nolan E. Bylenga,149
+Union,19-IC Rural,State House,58,DEM,Nolan E. Bylenga,48
+Union,01 LG City,State House,58,REP,Bobby Levy,1234
+Union,02-LG City,State House,58,REP,Bobby Levy,1305
+Union,03-LG City,State House,58,REP,Bobby Levy,1441
+Union,04-LG Rural,State House,58,REP,Bobby Levy,296
+Union,05-LG Rural,State House,58,REP,Bobby Levy,976
+Union,06-Cove City,State House,58,REP,Bobby Levy,331
+Union,07-Cove Rural,State House,58,REP,Bobby Levy,498
+Union,08-Elgin City,State House,58,REP,Bobby Levy,747
+Union,09-Elgin Rural,State House,58,REP,Bobby Levy,617
+Union,10-Imb City,State House,58,REP,Bobby Levy,162
+Union,11-Imb/Sum Rural,State House,58,REP,Bobby Levy,620
+Union,12-Sum City,State House,58,REP,Bobby Levy,64
+Union,13-NP Rural,State House,58,REP,Bobby Levy,92
+Union,14-NP City,State House,58,REP,Bobby Levy,217
+Union,15-Union Rural,State House,58,REP,Bobby Levy,244
+Union,16-Union City,State House,58,REP,Bobby Levy,1005
+Union,17-Ant/BC,State House,58,REP,Bobby Levy,48
+Union,18-IC City,State House,58,REP,Bobby Levy,536
+Union,19-IC Rural,State House,58,REP,Bobby Levy,247
+Union,01 LG City,State House,58,,Write-ins,2
+Union,02-LG City,State House,58,,Write-ins,6
+Union,03-LG City,State House,58,,Write-ins,2
+Union,04-LG Rural,State House,58,,Write-ins,0
+Union,05-LG Rural,State House,58,,Write-ins,1
+Union,06-Cove City,State House,58,,Write-ins,1
+Union,07-Cove Rural,State House,58,,Write-ins,1
+Union,08-Elgin City,State House,58,,Write-ins,1
+Union,09-Elgin Rural,State House,58,,Write-ins,0
+Union,10-Imb City,State House,58,,Write-ins,0
+Union,11-Imb/Sum Rural,State House,58,,Write-ins,1
+Union,12-Sum City,State House,58,,Write-ins,1
+Union,13-NP Rural,State House,58,,Write-ins,1
+Union,14-NP City,State House,58,,Write-ins,3
+Union,15-Union Rural,State House,58,,Write-ins,1
+Union,16-Union City,State House,58,,Write-ins,2
+Union,17-Ant/BC,State House,58,,Write-ins,0
+Union,18-IC City,State House,58,,Write-ins,1
+Union,19-IC Rural,State House,58,,Write-ins,0
+Union,01 LG City,State House,58,,Over Votes,0
+Union,02-LG City,State House,58,,Over Votes,0
+Union,03-LG City,State House,58,,Over Votes,0
+Union,04-LG Rural,State House,58,,Over Votes,1
+Union,05-LG Rural,State House,58,,Over Votes,0
+Union,06-Cove City,State House,58,,Over Votes,0
+Union,07-Cove Rural,State House,58,,Over Votes,0
+Union,08-Elgin City,State House,58,,Over Votes,2
+Union,09-Elgin Rural,State House,58,,Over Votes,0
+Union,10-Imb City,State House,58,,Over Votes,0
+Union,11-Imb/Sum Rural,State House,58,,Over Votes,0
+Union,12-Sum City,State House,58,,Over Votes,0
+Union,13-NP Rural,State House,58,,Over Votes,0
+Union,14-NP City,State House,58,,Over Votes,0
+Union,15-Union Rural,State House,58,,Over Votes,0
+Union,16-Union City,State House,58,,Over Votes,0
+Union,17-Ant/BC,State House,58,,Over Votes,0
+Union,18-IC City,State House,58,,Over Votes,0
+Union,19-IC Rural,State House,58,,Over Votes,0
+Union,01 LG City,State House,58,,Under Votes,164
+Union,02-LG City,State House,58,,Under Votes,139
+Union,03-LG City,State House,58,,Under Votes,131
+Union,04-LG Rural,State House,58,,Under Votes,19
+Union,05-LG Rural,State House,58,,Under Votes,53
+Union,06-Cove City,State House,58,,Under Votes,22
+Union,07-Cove Rural,State House,58,,Under Votes,22
+Union,08-Elgin City,State House,58,,Under Votes,48
+Union,09-Elgin Rural,State House,58,,Under Votes,19
+Union,10-Imb City,State House,58,,Under Votes,11
+Union,11-Imb/Sum Rural,State House,58,,Under Votes,25
+Union,12-Sum City,State House,58,,Under Votes,4
+Union,13-NP Rural,State House,58,,Under Votes,4
+Union,14-NP City,State House,58,,Under Votes,11
+Union,15-Union Rural,State House,58,,Under Votes,7
+Union,16-Union City,State House,58,,Under Votes,72
+Union,17-Ant/BC,State House,58,,Under Votes,2
+Union,18-IC City,State House,58,,Under Votes,49
+Union,19-IC Rural,State House,58,,Under Votes,16
