@@ -3,7 +3,7 @@ library(here)
 
 columbia_folder <- here("..", "columbia")
 
-columbia_files <- list.files(path = here("..", "columbia"), 
+columbia_files <- list.files(path = columbia_folder, 
                              pattern = ".csv",
                              full.names = TRUE)
 
@@ -63,4 +63,4 @@ columbia <- lapply(columbia_files, read_csv) %>%
             candidate,
             votes = str_remove_all(votes, "[^\\d]") %>% as.numeric())
 
-write_csv(columbia, here('2020', '20201103__or_general__columbia__precinct.csv'))
+write_csv(columbia, here('2020', '20201103__or__general__columbia__precinct.csv'))
