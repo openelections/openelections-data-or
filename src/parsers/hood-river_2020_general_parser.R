@@ -33,7 +33,7 @@ hoodriver <- lapply(hoodriver_files, read_csv, col_names = c('candidate', 'votes
          candidate = fct_recode(candidate,
                                 "Write-ins" = "Write-in",
                                 "Over Votes" = "Overvotes",
-                                "Under Votes" = "Undervotes"),
+                                "Under Votes" = "Undervotes") %>% as.character(),
          party = fct_collapse(candidate,
                               "DEM" = c("Joseph R Biden / Kamala D Harris",
                                         "Ellen Rosenblum",
