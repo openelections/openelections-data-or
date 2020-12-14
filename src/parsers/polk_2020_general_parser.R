@@ -27,22 +27,28 @@ polk <- lapply(polk_files, read_csv, col_names = c('candidate', 'votes'), col_ty
            candidate == "Ballots Cast - Total" ~ "Ballots Cast",
            TRUE ~ office
          ),
-         candidate = fct_recode(candidate,
+         candidate = fct_collapse(candidate,
                                 "Write-ins" = "Write-In Totals",
                                 "Over Votes" = "Overvotes",
                                 "Under Votes" = "Undervotes",
                                 "LBT Jo Jorgensen / Jeremy (Spike) Cohen" = "LBT Jo Jorgensen / Jeremy (Spike)",
                                 "DEM Joseph R Biden / Kamala D Harris" = "DEM Joseph R Biden / Kamala D",
-                                "REP Donald J Trump / Michael R Pence" = "REP Donald J Trump / Michael R") %>% as.character(),
+                                "REP Donald J Trump / Michael R Pence" = "REP Donald J Trump / Michael R",
+                                NULL = c("Ballots Cast - Total", "Registered Voters - Total")) %>% as.character(),
          party = str_extract(candidate, "^[A-Z]{3}"),
-         candidate = str_remove(candidate, "^[A-Z]{3} ")) %>%
-  filter(candidate != "Total Votes Cast" & candidate != "Contest Totals") %>%
+         candidate = str_remove(candidate, "^[A-Z]{3} "),
+         district = case_when(
+           !is.na(district) ~ district,
+           office == "U.S. House" ~ "5"
+         ) %>% as.numeric()) %>%
+  filter(!(candidate %in% c("Total Votes Cast", "Contest Totals")),
+         !(office %in% "Turnout")) %>%
   transmute(county = "Polk",
             precinct,
             office,
             district,
             party,
             candidate,
-            votes)
+            votes = str_remove_all(votes, "[^\\d]") %>% as.numeric())
 
 write_csv(polk, here('2020', '20201103__or__general__polk__precinct.csv'))

@@ -47,7 +47,7 @@ columbia <- lapply(columbia_files, read_csv) %>%
            TRUE ~ candidate
          ),
          party = case_when(
-           party == "" ~ NA_character_,
+           party %in% c("", "Registered Voters", "Ballots Cast") ~ NA_character_,
            office == "Turnout" ~ NA_character_,
            TRUE ~ party
          )) %>%

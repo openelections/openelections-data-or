@@ -30,10 +30,12 @@ hoodriver <- lapply(hoodriver_files, read_csv, col_names = c('candidate', 'votes
            office == "State Representative" ~ 52,
            office == "U.S. House" ~ 2
          ),
-         candidate = fct_recode(candidate,
+         candidate = fct_collapse(candidate,
                                 "Write-ins" = "Write-in",
                                 "Over Votes" = "Overvotes",
-                                "Under Votes" = "Undervotes") %>% as.character(),
+                                "Under Votes" = "Undervotes",
+                                NULL = c("Ballots Cast", "Registered Voters")
+                                ) %>% as.character(),
          party = fct_collapse(candidate,
                               "DEM" = c("Joseph R Biden / Kamala D Harris",
                                         "Ellen Rosenblum",
@@ -64,7 +66,7 @@ hoodriver <- lapply(hoodriver_files, read_csv, col_names = c('candidate', 'votes
                               NULL = c("Write-ins",
                                        "Over Votes",
                                        "Under Votes")) %>% as.character()) %>%
-  filter(candidate != "Total") %>%
+  filter(!(candidate %in% "Total")) %>%
   transmute(county = "Hood River",
             precinct,
             office,
