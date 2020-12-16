@@ -61,6 +61,10 @@ columbia <- lapply(columbia_files, read_csv) %>%
             ),
             party,
             candidate,
-            votes = str_remove_all(votes, "[^\\d]") %>% as.numeric())
+            votes = str_remove_all(votes, "[^\\d]") %>% as.numeric()) %>%
+  mutate(votes = case_when(
+    precinct == "18 E Rainier" & candidate == "Christopher C Christensen" ~ 102,
+    TRUE ~ votes
+  ))
 
 write_csv(columbia, here('2020', '20201103__or__general__columbia__precinct.csv'))
