@@ -1,0 +1,160 @@
+﻿county,precinct,office,district,candidate,party,votes
+Gilliam,Precinct 1,Registered Voters,,,,612
+Gilliam,Precinct 6,Registered Voters,,,,338
+Gilliam,Precinct 7,Registered Voters,,,,451
+Gilliam,Precinct 1,Ballots Cast,,,,495
+Gilliam,Precinct 6,Ballots Cast,,,,305
+Gilliam,Precinct 7,Ballots Cast,,,,394
+Gilliam,Precinct 1,President,,Donald J. Trump,REP,365
+Gilliam,Precinct 1,President,,Joseph R. Biden,DEM,119
+Gilliam,Precinct 1,President,,Jo Jorgensen,LIB,5
+Gilliam,Precinct 1,President,,Howie Hawkins,GRE,1
+Gilliam,Precinct 1,President,,Dario Hunter,PRO,0
+Gilliam,Precinct 1,President,,Write-ins,,1
+Gilliam,Precinct 1,President,,Over Votes,,0
+Gilliam,Precinct 1,President,,Under Votes,,4
+Gilliam,Precinct 6,President,,Donald J. Trump,REP,206
+Gilliam,Precinct 6,President,,Joseph R. Biden,DEM,88
+Gilliam,Precinct 6,President,,Jo Jorgensen,LIB,6
+Gilliam,Precinct 6,President,,Howie Hawkins,GRE,0
+Gilliam,Precinct 6,President,,Dario Hunter,PRO,0
+Gilliam,Precinct 6,President,,Write-ins,,1
+Gilliam,Precinct 6,President,,Over Votes,,0
+Gilliam,Precinct 6,President,,Under Votes,,4
+Gilliam,Precinct 7,President,,Donald J. Trump,REP,263
+Gilliam,Precinct 7,President,,Joseph R. Biden,DEM,117
+Gilliam,Precinct 7,President,,Jo Jorgensen,LIB,6
+Gilliam,Precinct 7,President,,Howie Hawkins,GRE,0
+Gilliam,Precinct 7,President,,Dario Hunter,PRO,0
+Gilliam,Precinct 7,President,,Write-ins,,0
+Gilliam,Precinct 7,President,,Over Votes,,1
+Gilliam,Precinct 7,President,,Under Votes,,7
+Gilliam,Precinct 1,U.S. Senate,,Jo Rae Perkins,REP,340
+Gilliam,Precinct 1,U.S. Senate,,Jeff Merkley,DEM,132
+Gilliam,Precinct 1,U.S. Senate,,Ibrahim A. Taher,PGP,4
+Gilliam,Precinct 1,U.S. Senate,,Gary Dye,LIB,11
+Gilliam,Precinct 1,U.S. Senate,,Write-ins,,0
+Gilliam,Precinct 1,U.S. Senate,,Over Votes,,0
+Gilliam,Precinct 1,U.S. Senate,,Under Votes,,8
+Gilliam,Precinct 6,U.S. Senate,,Jo Rae Perkins,REP,190
+Gilliam,Precinct 6,U.S. Senate,,Jeff Merkley,DEM,101
+Gilliam,Precinct 6,U.S. Senate,,Ibrahim A. Taher,PGP,2
+Gilliam,Precinct 6,U.S. Senate,,Gary Dye,LIB,3
+Gilliam,Precinct 6,U.S. Senate,,Write-ins,,0
+Gilliam,Precinct 6,U.S. Senate,,Over Votes,,0
+Gilliam,Precinct 6,U.S. Senate,,Under Votes,,9
+Gilliam,Precinct 7,U.S. Senate,,Jo Rae Perkins,REP,235
+Gilliam,Precinct 7,U.S. Senate,,Jeff Merkley,DEM,140
+Gilliam,Precinct 7,U.S. Senate,,Ibrahim A. Taher,PGP,2
+Gilliam,Precinct 7,U.S. Senate,,Gary Dye,LIB,4
+Gilliam,Precinct 7,U.S. Senate,,Write-ins,,3
+Gilliam,Precinct 7,U.S. Senate,,Over Votes,,1
+Gilliam,Precinct 7,U.S. Senate,,Under Votes,,9
+Gilliam,Precinct 1,U.S. House,2,Robert Werch,LIB,12
+Gilliam,Precinct 1,U.S. House,2,Cliff Bentz,REP,383
+Gilliam,Precinct 1,U.S. House,2,Alex Spenser,DEM,91
+Gilliam,Precinct 1,U.S. House,2,Write-ins,,0
+Gilliam,Precinct 1,U.S. House,2,Over Votes,,1
+Gilliam,Precinct 1,U.S. House,2,Under Votes,,8
+Gilliam,Precinct 6,U.S. House,2,Robert Werch,LIB,6
+Gilliam,Precinct 6,U.S. House,2,Cliff Bentz,REP,223
+Gilliam,Precinct 6,U.S. House,2,Alex Spenser,DEM,61
+Gilliam,Precinct 6,U.S. House,2,Write-ins,,0
+Gilliam,Precinct 6,U.S. House,2,Over Votes,,0
+Gilliam,Precinct 6,U.S. House,2,Under Votes,,15
+Gilliam,Precinct 7,U.S. House,2,Robert Werch,LIB,3
+Gilliam,Precinct 7,U.S. House,2,Cliff Bentz,REP,278
+Gilliam,Precinct 7,U.S. House,2,Alex Spenser,DEM,94
+Gilliam,Precinct 7,U.S. House,2,Write-ins,,3
+Gilliam,Precinct 7,U.S. House,2,Over Votes,,0
+Gilliam,Precinct 7,U.S. House,2,Under Votes,,16
+Gilliam,Precinct 1,Secretary of State,,Nathalie Paravicini,PGP,7
+Gilliam,Precinct 1,Secretary of State,,Kyle Markley,LIB,15
+Gilliam,Precinct 1,Secretary of State,,Kim Thatcher,REP,352
+Gilliam,Precinct 1,Secretary of State,,Shemia Fagan,DEM,104
+Gilliam,Precinct 1,Secretary of State,,Write-ins,,1
+Gilliam,Precinct 1,Secretary of State,,Over Votes,,0
+Gilliam,Precinct 1,Secretary of State,,Under Votes,,16
+Gilliam,Precinct 6,Secretary of State,,Nathalie Paravicini,PGP,0
+Gilliam,Precinct 6,Secretary of State,,Kyle Markley,LIB,5
+Gilliam,Precinct 6,Secretary of State,,Kim Thatcher,REP,206
+Gilliam,Precinct 6,Secretary of State,,Shemia Fagan,DEM,74
+Gilliam,Precinct 6,Secretary of State,,Write-ins,,1
+Gilliam,Precinct 6,Secretary of State,,Over Votes,,0
+Gilliam,Precinct 6,Secretary of State,,Under Votes,,19
+Gilliam,Precinct 7,Secretary of State,,Nathalie Paravicini,PGP,8
+Gilliam,Precinct 7,Secretary of State,,Kyle Markley,LIB,16
+Gilliam,Precinct 7,Secretary of State,,Kim Thatcher,REP,254
+Gilliam,Precinct 7,Secretary of State,,Shemia Fagan,DEM,100
+Gilliam,Precinct 7,Secretary of State,,Write-ins,,1
+Gilliam,Precinct 7,Secretary of State,,Over Votes,,0
+Gilliam,Precinct 7,Secretary of State,,Under Votes,,15
+Gilliam,Precinct 1,State Treasurer,,Michael P. Marsch,CON,27
+Gilliam,Precinct 1,State Treasurer,,Tobias Read,DEM,105
+Gilliam,Precinct 1,State Treasurer,,Chris Henry,IND,11
+Gilliam,Precinct 1,State Treasurer,,Jeff Gudman,REP,336
+Gilliam,Precinct 1,State Treasurer,,Write-ins,,0
+Gilliam,Precinct 1,State Treasurer,,Over Votes,,1
+Gilliam,Precinct 1,State Treasurer,,Under Votes,,15
+Gilliam,Precinct 6,State Treasurer,,Michael P. Marsch,CON,9
+Gilliam,Precinct 6,State Treasurer,,Tobias Read,DEM,80
+Gilliam,Precinct 6,State Treasurer,,Chris Henry,IND,8
+Gilliam,Precinct 6,State Treasurer,,Jeff Gudman,REP,188
+Gilliam,Precinct 6,State Treasurer,,Write-ins,,0
+Gilliam,Precinct 6,State Treasurer,,Over Votes,,0
+Gilliam,Precinct 6,State Treasurer,,Under Votes,,20
+Gilliam,Precinct 7,State Treasurer,,Michael P. Marsch,CON,18
+Gilliam,Precinct 7,State Treasurer,,Tobias Read,DEM,112
+Gilliam,Precinct 7,State Treasurer,,Chris Henry,IND,8
+Gilliam,Precinct 7,State Treasurer,,Jeff Gudman,REP,233
+Gilliam,Precinct 7,State Treasurer,,Write-ins,,2
+Gilliam,Precinct 7,State Treasurer,,Over Votes,,0
+Gilliam,Precinct 7,State Treasurer,,Under Votes,,21
+Gilliam,Precinct 1,Attorney General,,Ellen Rosenblum,DEM,114
+Gilliam,Precinct 1,Attorney General,,Lars D.H. Hedbor,LIB,13
+Gilliam,Precinct 1,Attorney General,,Michael Cross,REP,350
+Gilliam,Precinct 1,Attorney General,,Write-ins,,1
+Gilliam,Precinct 1,Attorney General,,Over Votes,,0
+Gilliam,Precinct 1,Attorney General,,Under Votes,,17
+Gilliam,Precinct 6,Attorney General,,Ellen Rosenblum,DEM,90
+Gilliam,Precinct 6,Attorney General,,Lars D.H. Hedbor,LIB,2
+Gilliam,Precinct 6,Attorney General,,Michael Cross,REP,195
+Gilliam,Precinct 6,Attorney General,,Write-ins,,0
+Gilliam,Precinct 6,Attorney General,,Over Votes,,0
+Gilliam,Precinct 6,Attorney General,,Under Votes,,18
+Gilliam,Precinct 7,Attorney General,,Ellen Rosenblum,DEM,120
+Gilliam,Precinct 7,Attorney General,,Lars D.H. Hedbor,LIB,8
+Gilliam,Precinct 7,Attorney General,,Michael Cross,REP,238
+Gilliam,Precinct 7,Attorney General,,Write-ins,,3
+Gilliam,Precinct 7,Attorney General,,Over Votes,,0
+Gilliam,Precinct 7,Attorney General,,Under Votes,,25
+Gilliam,Precinct 1,State Senate,29,Bill Hansell,REP,396
+Gilliam,Precinct 1,State Senate,29,Mildred A. O'Callaghan,DEM,84
+Gilliam,Precinct 1,State Senate,29,Write-ins,,1
+Gilliam,Precinct 1,State Senate,29,Over Votes,,0
+Gilliam,Precinct 1,State Senate,29,Under Votes,,14
+Gilliam,Precinct 6,State Senate,29,Bill Hansell,REP,235
+Gilliam,Precinct 6,State Senate,29,Mildred A. O'Callaghan,DEM,52
+Gilliam,Precinct 6,State Senate,29,Write-ins,,0
+Gilliam,Precinct 6,State Senate,29,Over Votes,,1
+Gilliam,Precinct 6,State Senate,29,Under Votes,,17
+Gilliam,Precinct 7,State Senate,29,Bill Hansell,REP,291
+Gilliam,Precinct 7,State Senate,29,Mildred A. O'Callaghan,DEM,80
+Gilliam,Precinct 7,State Senate,29,Write-ins,,2
+Gilliam,Precinct 7,State Senate,29,Over Votes,,0
+Gilliam,Precinct 7,State Senate,29,Under Votes,,21
+Gilliam,Precinct 1,State House,57,Roland Ruhe,DEM,78
+Gilliam,Precinct 1,State House,57,Greg Smith,REP,405
+Gilliam,Precinct 1,State House,57,Write-ins,,0
+Gilliam,Precinct 1,State House,57,Over Votes,,0
+Gilliam,Precinct 1,State House,57,Under Votes,,12
+Gilliam,Precinct 6,State House,57,Roland Ruhe,DEM,55
+Gilliam,Precinct 6,State House,57,Greg Smith,REP,236
+Gilliam,Precinct 6,State House,57,Write-ins,,0
+Gilliam,Precinct 6,State House,57,Over Votes,,0
+Gilliam,Precinct 6,State House,57,Under Votes,,14
+Gilliam,Precinct 7,State House,57,Roland Ruhe,DEM,73
+Gilliam,Precinct 7,State House,57,Greg Smith,REP,306
+Gilliam,Precinct 7,State House,57,Write-ins,,0
+Gilliam,Precinct 7,State House,57,Over Votes,,0
+Gilliam,Precinct 7,State House,57,Under Votes,,15
