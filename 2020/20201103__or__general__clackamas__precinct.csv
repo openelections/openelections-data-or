@@ -1,32 +1,32 @@
 county,precinct,office,district,party,candidate,votes
-Clackamas,2,Registered Voters,,,,6618
-Clackamas,3,Registered Voters,,,,8411
-Clackamas,4,Registered Voters,,,,303
-Clackamas,5,Registered Voters,,,,3248
-Clackamas,6,Registered Voters,,,,5719
+Clackamas,002,Registered Voters,,,,6618
+Clackamas,003,Registered Voters,,,,8411
+Clackamas,004,Registered Voters,,,,303
+Clackamas,005,Registered Voters,,,,3248
+Clackamas,006,Registered Voters,,,,5719
 Clackamas,007 & 010,Registered Voters,,,,2075
-Clackamas,010-C3,Registered Voters,,,,26
-Clackamas,007-C5,Registered Voters,,,,2049
-Clackamas,31,Registered Voters,,,,3315
-Clackamas,32,Registered Voters,,,,4916
-Clackamas,33,Registered Voters,,,,735
-Clackamas,40,Registered Voters,,,,372
-Clackamas,51,Registered Voters,,,,132
-Clackamas,52,Registered Voters,,,,836
-Clackamas,53,Registered Voters,,,,8278
-Clackamas,55,Registered Voters,,,,7038
+Clackamas,007-C5,Registered Voters,,,,26
+Clackamas,010-C3,Registered Voters,,,,2049
+Clackamas,031,Registered Voters,,,,3315
+Clackamas,032,Registered Voters,,,,4916
+Clackamas,033,Registered Voters,,,,735
+Clackamas,040,Registered Voters,,,,372
+Clackamas,051,Registered Voters,,,,132
+Clackamas,052,Registered Voters,,,,836
+Clackamas,053,Registered Voters,,,,8278
+Clackamas,055,Registered Voters,,,,7038
 Clackamas,071-C5,Registered Voters,,,,169
-Clackamas,72,Registered Voters,,,,124
-Clackamas,73,Registered Voters,,,,240
-Clackamas,74,Registered Voters,,,,64
+Clackamas,072-C5,Registered Voters,,,,124
+Clackamas,073,Registered Voters,,,,240
+Clackamas,074,Registered Voters,,,,64
 Clackamas,099 & 100,Registered Voters,,,,484
-Clackamas,099-C3,Registered Voters,,,,483
-Clackamas,100-C5,Registered Voters,,,,1
+Clackamas,100-C3,Registered Voters,,,,483
+Clackamas,099-C5,Registered Voters,,,,1
 Clackamas,101,Registered Voters,,,,8776
 Clackamas,102,Registered Voters,,,,873
 Clackamas,103 & 104,Registered Voters,,,,4323
-Clackamas,103-C3,Registered Voters,,,,4
-Clackamas,104-C5,Registered Voters,,,,4319
+Clackamas,104-C3,Registered Voters,,,,4
+Clackamas,103-C5,Registered Voters,,,,4319
 Clackamas,105,Registered Voters,,,,1334
 Clackamas,106,Registered Voters,,,,3030
 Clackamas,107,Registered Voters,,,,2176
@@ -73,8 +73,8 @@ Clackamas,352,Registered Voters,,,,3433
 Clackamas,359,Registered Voters,,,,0
 Clackamas,360,Registered Voters,,,,3517
 Clackamas,361 & 362,Registered Voters,,,,1934
-Clackamas,361-C3,Registered Voters,,,,1889
-Clackamas,362-C5,Registered Voters,,,,45
+Clackamas,361-C5,Registered Voters,,,,1889
+Clackamas,362-C3,Registered Voters,,,,45
 Clackamas,363,Registered Voters,,,,921
 Clackamas,364,Registered Voters,,,,1041
 Clackamas,370,Registered Voters,,,,3813
@@ -117,34 +117,34 @@ Clackamas,516,Registered Voters,,,,1134
 Clackamas,517,Registered Voters,,,,2181
 Clackamas,518,Registered Voters,,,,855
 Clackamas,519,Registered Voters,,,,969
-Clackamas,2,Ballots Cast,,,,5278
-Clackamas,3,Ballots Cast,,,,6825
-Clackamas,4,Ballots Cast,,,,277
-Clackamas,5,Ballots Cast,,,,2625
-Clackamas,6,Ballots Cast,,,,5008
+Clackamas,002,Ballots Cast,,,,5278
+Clackamas,003,Ballots Cast,,,,6825
+Clackamas,004,Ballots Cast,,,,277
+Clackamas,005,Ballots Cast,,,,2625
+Clackamas,006,Ballots Cast,,,,5008
 Clackamas,007 & 010,Ballots Cast,,,,1597
 Clackamas,010-C3,Ballots Cast,,,,25
 Clackamas,007-C5,Ballots Cast,,,,1572
-Clackamas,31,Ballots Cast,,,,2628
-Clackamas,32,Ballots Cast,,,,4062
-Clackamas,33,Ballots Cast,,,,596
-Clackamas,40,Ballots Cast,,,,288
-Clackamas,51,Ballots Cast,,,,83
-Clackamas,52,Ballots Cast,,,,722
-Clackamas,53,Ballots Cast,,,,7032
-Clackamas,55,Ballots Cast,,,,5978
+Clackamas,031,Ballots Cast,,,,2628
+Clackamas,032,Ballots Cast,,,,4062
+Clackamas,033,Ballots Cast,,,,596
+Clackamas,040,Ballots Cast,,,,288
+Clackamas,051,Ballots Cast,,,,83
+Clackamas,052,Ballots Cast,,,,722
+Clackamas,053,Ballots Cast,,,,7032
+Clackamas,055,Ballots Cast,,,,5978
 Clackamas,071 C5,Ballots Cast,,,,160
-Clackamas,72,Ballots Cast,,,,107
-Clackamas,73,Ballots Cast,,,,204
-Clackamas,74,Ballots Cast,,,,58
+Clackamas,072,Ballots Cast,,,,107
+Clackamas,073,Ballots Cast,,,,204
+Clackamas,074,Ballots Cast,,,,58
 Clackamas,099 & 100,Ballots Cast,,,,435
 Clackamas,099-C3,Ballots Cast,,,,434
 Clackamas,100-C5,Ballots Cast,,,,1
 Clackamas,101,Ballots Cast,,,,7362
 Clackamas,102,Ballots Cast,,,,738
 Clackamas,103 & 104,Ballots Cast,,,,3723
-Clackamas,103-C3,Ballots Cast,,,,4
-Clackamas,104-C5,Ballots Cast,,,,3719
+Clackamas,103-C5,Ballots Cast,,,,4
+Clackamas,104-C3,Ballots Cast,,,,3719
 Clackamas,105,Ballots Cast,,,,1147
 Clackamas,106,Ballots Cast,,,,2396
 Clackamas,107,Ballots Cast,,,,1772
@@ -191,8 +191,8 @@ Clackamas,352,Ballots Cast,,,,2854
 Clackamas,359,Ballots Cast,,,,0
 Clackamas,360,Ballots Cast,,,,2816
 Clackamas,361 & 362,Ballots Cast,,,,1591
-Clackamas,361-C3,Ballots Cast,,,,1571
-Clackamas,362-C5,Ballots Cast,,,,20
+Clackamas,361-C5,Ballots Cast,,,,1571
+Clackamas,362-C3,Ballots Cast,,,,20
 Clackamas,363,Ballots Cast,,,,724
 Clackamas,364,Ballots Cast,,,,871
 Clackamas,370,Ballots Cast,,,,3096
@@ -235,24 +235,24 @@ Clackamas,516,Ballots Cast,,,,961
 Clackamas,517,Ballots Cast,,,,1889
 Clackamas,518,Ballots Cast,,,,729
 Clackamas,519,Ballots Cast,,,,826
-Clackamas,2,President,,REP,Donald Trump,2007
-Clackamas,3,President,,REP,Donald Trump,2937
-Clackamas,4,President,,REP,Donald Trump,124
-Clackamas,5,President,,REP,Donald Trump,1209
-Clackamas,6,President,,REP,Donald Trump,2442
+Clackamas,002,President,,REP,Donald Trump,2007
+Clackamas,003,President,,REP,Donald Trump,2937
+Clackamas,004,President,,REP,Donald Trump,124
+Clackamas,005,President,,REP,Donald Trump,1209
+Clackamas,006,President,,REP,Donald Trump,2442
 Clackamas,007 & 010,President,,REP,Donald Trump,673
-Clackamas,31,President,,REP,Donald Trump,1047
-Clackamas,32,President,,REP,Donald Trump,1638
-Clackamas,33,President,,REP,Donald Trump,204
-Clackamas,40,President,,REP,Donald Trump,126
-Clackamas,51,President,,REP,Donald Trump,23
-Clackamas,52,President,,REP,Donald Trump,201
-Clackamas,53,President,,REP,Donald Trump,1785
-Clackamas,55,President,,REP,Donald Trump,1816
+Clackamas,031,President,,REP,Donald Trump,1047
+Clackamas,032,President,,REP,Donald Trump,1638
+Clackamas,033,President,,REP,Donald Trump,204
+Clackamas,040,President,,REP,Donald Trump,126
+Clackamas,051,President,,REP,Donald Trump,23
+Clackamas,052,President,,REP,Donald Trump,201
+Clackamas,053,President,,REP,Donald Trump,1785
+Clackamas,055,President,,REP,Donald Trump,1816
 Clackamas,070 & 071,President,,REP,Donald Trump,22
-Clackamas,72,President,,REP,Donald Trump,30
-Clackamas,73,President,,REP,Donald Trump,80
-Clackamas,74,President,,REP,Donald Trump,27
+Clackamas,072,President,,REP,Donald Trump,30
+Clackamas,073,President,,REP,Donald Trump,80
+Clackamas,074,President,,REP,Donald Trump,27
 Clackamas,099 & 100,President,,REP,Donald Trump,217
 Clackamas,101,President,,REP,Donald Trump,3044
 Clackamas,102,President,,REP,Donald Trump,309
@@ -345,24 +345,24 @@ Clackamas,516,President,,REP,Donald Trump,579
 Clackamas,517,President,,REP,Donald Trump,1196
 Clackamas,518,President,,REP,Donald Trump,422
 Clackamas,519,President,,REP,Donald Trump,481
-Clackamas,2,President,,DEM,Joe Biden,3045
-Clackamas,3,President,,DEM,Joe Biden,3562
-Clackamas,4,President,,DEM,Joe Biden,148
-Clackamas,5,President,,DEM,Joe Biden,1286
-Clackamas,6,President,,DEM,Joe Biden,2374
+Clackamas,002,President,,DEM,Joe Biden,3045
+Clackamas,003,President,,DEM,Joe Biden,3562
+Clackamas,004,President,,DEM,Joe Biden,148
+Clackamas,005,President,,DEM,Joe Biden,1286
+Clackamas,006,President,,DEM,Joe Biden,2374
 Clackamas,007 & 010,President,,DEM,Joe Biden,838
-Clackamas,31,President,,DEM,Joe Biden,1458
-Clackamas,32,President,,DEM,Joe Biden,2255
-Clackamas,33,President,,DEM,Joe Biden,355
-Clackamas,40,President,,DEM,Joe Biden,154
-Clackamas,51,President,,DEM,Joe Biden,56
-Clackamas,52,President,,DEM,Joe Biden,496
-Clackamas,53,President,,DEM,Joe Biden,4935
-Clackamas,55,President,,DEM,Joe Biden,3929
+Clackamas,031,President,,DEM,Joe Biden,1458
+Clackamas,032,President,,DEM,Joe Biden,2255
+Clackamas,033,President,,DEM,Joe Biden,355
+Clackamas,040,President,,DEM,Joe Biden,154
+Clackamas,051,President,,DEM,Joe Biden,56
+Clackamas,052,President,,DEM,Joe Biden,496
+Clackamas,053,President,,DEM,Joe Biden,4935
+Clackamas,055,President,,DEM,Joe Biden,3929
 Clackamas,070 & 071,President,,DEM,Joe Biden,126
-Clackamas,72,President,,DEM,Joe Biden,68
-Clackamas,73,President,,DEM,Joe Biden,118
-Clackamas,74,President,,DEM,Joe Biden,26
+Clackamas,072,President,,DEM,Joe Biden,68
+Clackamas,073,President,,DEM,Joe Biden,118
+Clackamas,074,President,,DEM,Joe Biden,26
 Clackamas,099 & 100,President,,DEM,Joe Biden,209
 Clackamas,101,President,,DEM,Joe Biden,4062
 Clackamas,102,President,,DEM,Joe Biden,406
@@ -455,24 +455,24 @@ Clackamas,516,President,,DEM,Joe Biden,360
 Clackamas,517,President,,DEM,Joe Biden,648
 Clackamas,518,President,,DEM,Joe Biden,267
 Clackamas,519,President,,DEM,Joe Biden,313
-Clackamas,2,President,,LIB,Jo Jorgensen,94
-Clackamas,3,President,,LIB,Jo Jorgensen,158
-Clackamas,4,President,,LIB,Jo Jorgensen,2
-Clackamas,5,President,,LIB,Jo Jorgensen,64
-Clackamas,6,President,,LIB,Jo Jorgensen,94
+Clackamas,002,President,,LIB,Jo Jorgensen,94
+Clackamas,003,President,,LIB,Jo Jorgensen,158
+Clackamas,004,President,,LIB,Jo Jorgensen,2
+Clackamas,005,President,,LIB,Jo Jorgensen,64
+Clackamas,006,President,,LIB,Jo Jorgensen,94
 Clackamas,007 & 010,President,,LIB,Jo Jorgensen,42
-Clackamas,31,President,,LIB,Jo Jorgensen,57
-Clackamas,32,President,,LIB,Jo Jorgensen,87
-Clackamas,33,President,,LIB,Jo Jorgensen,19
-Clackamas,40,President,,LIB,Jo Jorgensen,4
-Clackamas,51,President,,LIB,Jo Jorgensen,3
-Clackamas,52,President,,LIB,Jo Jorgensen,9
-Clackamas,53,President,,LIB,Jo Jorgensen,123
-Clackamas,55,President,,LIB,Jo Jorgensen,103
+Clackamas,031,President,,LIB,Jo Jorgensen,57
+Clackamas,032,President,,LIB,Jo Jorgensen,87
+Clackamas,033,President,,LIB,Jo Jorgensen,19
+Clackamas,040,President,,LIB,Jo Jorgensen,4
+Clackamas,051,President,,LIB,Jo Jorgensen,3
+Clackamas,052,President,,LIB,Jo Jorgensen,9
+Clackamas,053,President,,LIB,Jo Jorgensen,123
+Clackamas,055,President,,LIB,Jo Jorgensen,103
 Clackamas,070 & 071,President,,LIB,Jo Jorgensen,9
-Clackamas,72,President,,LIB,Jo Jorgensen,5
-Clackamas,73,President,,LIB,Jo Jorgensen,4
-Clackamas,74,President,,LIB,Jo Jorgensen,2
+Clackamas,072,President,,LIB,Jo Jorgensen,5
+Clackamas,073,President,,LIB,Jo Jorgensen,4
+Clackamas,074,President,,LIB,Jo Jorgensen,2
 Clackamas,099 & 100,President,,LIB,Jo Jorgensen,2
 Clackamas,101,President,,LIB,Jo Jorgensen,117
 Clackamas,102,President,,LIB,Jo Jorgensen,9
@@ -565,24 +565,24 @@ Clackamas,516,President,,LIB,Jo Jorgensen,12
 Clackamas,517,President,,LIB,Jo Jorgensen,18
 Clackamas,518,President,,LIB,Jo Jorgensen,16
 Clackamas,519,President,,LIB,Jo Jorgensen,11
-Clackamas,2,President,,PAC,Howie Hawkins,29
-Clackamas,3,President,,PAC,Howie Hawkins,31
-Clackamas,4,President,,PAC,Howie Hawkins,0
-Clackamas,5,President,,PAC,Howie Hawkins,12
-Clackamas,6,President,,PAC,Howie Hawkins,14
+Clackamas,002,President,,PAC,Howie Hawkins,29
+Clackamas,003,President,,PAC,Howie Hawkins,31
+Clackamas,004,President,,PAC,Howie Hawkins,0
+Clackamas,005,President,,PAC,Howie Hawkins,12
+Clackamas,006,President,,PAC,Howie Hawkins,14
 Clackamas,007 & 010,President,,PAC,Howie Hawkins,13
-Clackamas,31,President,,PAC,Howie Hawkins,14
-Clackamas,32,President,,PAC,Howie Hawkins,12
-Clackamas,33,President,,PAC,Howie Hawkins,3
-Clackamas,40,President,,PAC,Howie Hawkins,2
-Clackamas,51,President,,PAC,Howie Hawkins,1
-Clackamas,52,President,,PAC,Howie Hawkins,5
-Clackamas,53,President,,PAC,Howie Hawkins,51
-Clackamas,55,President,,PAC,Howie Hawkins,24
+Clackamas,031,President,,PAC,Howie Hawkins,14
+Clackamas,032,President,,PAC,Howie Hawkins,12
+Clackamas,033,President,,PAC,Howie Hawkins,3
+Clackamas,040,President,,PAC,Howie Hawkins,2
+Clackamas,051,President,,PAC,Howie Hawkins,1
+Clackamas,052,President,,PAC,Howie Hawkins,5
+Clackamas,053,President,,PAC,Howie Hawkins,51
+Clackamas,055,President,,PAC,Howie Hawkins,24
 Clackamas,070 & 071,President,,PAC,Howie Hawkins,0
-Clackamas,72,President,,PAC,Howie Hawkins,1
-Clackamas,73,President,,PAC,Howie Hawkins,1
-Clackamas,74,President,,PAC,Howie Hawkins,1
+Clackamas,072,President,,PAC,Howie Hawkins,1
+Clackamas,073,President,,PAC,Howie Hawkins,1
+Clackamas,074,President,,PAC,Howie Hawkins,1
 Clackamas,099 & 100,President,,PAC,Howie Hawkins,1
 Clackamas,101,President,,PAC,Howie Hawkins,26
 Clackamas,102,President,,PAC,Howie Hawkins,4
@@ -675,24 +675,24 @@ Clackamas,516,President,,PAC,Howie Hawkins,3
 Clackamas,517,President,,PAC,Howie Hawkins,9
 Clackamas,518,President,,PAC,Howie Hawkins,5
 Clackamas,519,President,,PAC,Howie Hawkins,2
-Clackamas,2,President,,PRO,Dario Hunter,7
-Clackamas,3,President,,PRO,Dario Hunter,18
-Clackamas,4,President,,PRO,Dario Hunter,0
-Clackamas,5,President,,PRO,Dario Hunter,7
-Clackamas,6,President,,PRO,Dario Hunter,8
+Clackamas,002,President,,PRO,Dario Hunter,7
+Clackamas,003,President,,PRO,Dario Hunter,18
+Clackamas,004,President,,PRO,Dario Hunter,0
+Clackamas,005,President,,PRO,Dario Hunter,7
+Clackamas,006,President,,PRO,Dario Hunter,8
 Clackamas,007 & 010,President,,PRO,Dario Hunter,1
-Clackamas,31,President,,PRO,Dario Hunter,6
-Clackamas,32,President,,PRO,Dario Hunter,11
-Clackamas,33,President,,PRO,Dario Hunter,4
-Clackamas,40,President,,PRO,Dario Hunter,1
-Clackamas,51,President,,PRO,Dario Hunter,0
-Clackamas,52,President,,PRO,Dario Hunter,1
-Clackamas,53,President,,PRO,Dario Hunter,23
-Clackamas,55,President,,PRO,Dario Hunter,11
+Clackamas,031,President,,PRO,Dario Hunter,6
+Clackamas,032,President,,PRO,Dario Hunter,11
+Clackamas,033,President,,PRO,Dario Hunter,4
+Clackamas,040,President,,PRO,Dario Hunter,1
+Clackamas,051,President,,PRO,Dario Hunter,0
+Clackamas,052,President,,PRO,Dario Hunter,1
+Clackamas,053,President,,PRO,Dario Hunter,23
+Clackamas,055,President,,PRO,Dario Hunter,11
 Clackamas,070 & 071,President,,PRO,Dario Hunter,0
-Clackamas,72,President,,PRO,Dario Hunter,0
-Clackamas,73,President,,PRO,Dario Hunter,0
-Clackamas,74,President,,PRO,Dario Hunter,0
+Clackamas,072,President,,PRO,Dario Hunter,0
+Clackamas,073,President,,PRO,Dario Hunter,0
+Clackamas,074,President,,PRO,Dario Hunter,0
 Clackamas,099 & 100,President,,PRO,Dario Hunter,0
 Clackamas,101,President,,PRO,Dario Hunter,6
 Clackamas,102,President,,PRO,Dario Hunter,1
@@ -785,134 +785,134 @@ Clackamas,516,President,,PRO,Dario Hunter,0
 Clackamas,517,President,,PRO,Dario Hunter,0
 Clackamas,518,President,,PRO,Dario Hunter,1
 Clackamas,519,President,,PRO,Dario Hunter,1
-Clackamas,2,President,,WRI,Write-in,42
-Clackamas,3,President,,WRI,Write-in,58
-Clackamas,4,President,,WRI,Write-in,0
-Clackamas,5,President,,WRI,Write-in,17
-Clackamas,6,President,,WRI,Write-in,33
-Clackamas,007 & 010,President,,WRI,Write-in,7
-Clackamas,31,President,,WRI,Write-in,19
-Clackamas,32,President,,WRI,Write-in,32
-Clackamas,33,President,,WRI,Write-in,4
-Clackamas,40,President,,WRI,Write-in,0
-Clackamas,51,President,,WRI,Write-in,0
-Clackamas,52,President,,WRI,Write-in,4
-Clackamas,53,President,,WRI,Write-in,60
-Clackamas,55,President,,WRI,Write-in,45
-Clackamas,070 & 071,President,,WRI,Write-in,2
-Clackamas,72,President,,WRI,Write-in,2
-Clackamas,73,President,,WRI,Write-in,0
-Clackamas,74,President,,WRI,Write-in,1
-Clackamas,099 & 100,President,,WRI,Write-in,1
-Clackamas,101,President,,WRI,Write-in,41
-Clackamas,102,President,,WRI,Write-in,7
-Clackamas,103 & 104,President,,WRI,Write-in,26
-Clackamas,105,President,,WRI,Write-in,16
-Clackamas,106,President,,WRI,Write-in,23
-Clackamas,107,President,,WRI,Write-in,10
-Clackamas,108,President,,WRI,Write-in,41
-Clackamas,111,President,,WRI,Write-in,25
-Clackamas,122,President,,WRI,Write-in,44
-Clackamas,124,President,,WRI,Write-in,29
-Clackamas,125,President,,WRI,Write-in,11
-Clackamas,127,President,,WRI,Write-in,0
-Clackamas,131,President,,WRI,Write-in,54
-Clackamas,132,President,,WRI,Write-in,41
-Clackamas,133,President,,WRI,Write-in,19
-Clackamas,134,President,,WRI,Write-in,0
-Clackamas,135,President,,WRI,Write-in,57
-Clackamas,151,President,,WRI,Write-in,32
-Clackamas,153,President,,WRI,Write-in,59
-Clackamas,154,President,,WRI,Write-in,4
-Clackamas,155,President,,WRI,Write-in,4
-Clackamas,156,President,,WRI,Write-in,55
-Clackamas,157,President,,WRI,Write-in,3
-Clackamas,159,President,,WRI,Write-in,75
-Clackamas,160,President,,WRI,Write-in,3
-Clackamas,201,President,,WRI,Write-in,35
-Clackamas,202,President,,WRI,Write-in,44
-Clackamas,203,President,,WRI,Write-in,11
-Clackamas,204,President,,WRI,Write-in,32
-Clackamas,251 & 252,President,,WRI,Write-in,36
-Clackamas,280,President,,WRI,Write-in,6
-Clackamas,281,President,,WRI,Write-in,6
-Clackamas,282,President,,WRI,Write-in,4
-Clackamas,283,President,,WRI,Write-in,6
-Clackamas,284,President,,WRI,Write-in,5
-Clackamas,320,President,,WRI,Write-in,11
-Clackamas,321,President,,WRI,Write-in,22
-Clackamas,322,President,,WRI,Write-in,13
-Clackamas,323,President,,WRI,Write-in,12
-Clackamas,330,President,,WRI,Write-in,23
-Clackamas,331,President,,WRI,Write-in,3
-Clackamas,332,President,,WRI,Write-in,3
-Clackamas,333,President,,WRI,Write-in,8
-Clackamas,350,President,,WRI,Write-in,11
-Clackamas,351,President,,WRI,Write-in,18
-Clackamas,352,President,,WRI,Write-in,15
-Clackamas,359,President,,WRI,Write-in,0
-Clackamas,360,President,,WRI,Write-in,18
-Clackamas,361 & 362,President,,WRI,Write-in,10
-Clackamas,363,President,,WRI,Write-in,3
-Clackamas,364,President,,WRI,Write-in,4
-Clackamas,370,President,,WRI,Write-in,12
-Clackamas,371,President,,WRI,Write-in,4
-Clackamas,372,President,,WRI,Write-in,2
-Clackamas,373,President,,WRI,Write-in,28
-Clackamas,400,President,,WRI,Write-in,12
-Clackamas,401,President,,WRI,Write-in,8
-Clackamas,402,President,,WRI,Write-in,10
-Clackamas,403,President,,WRI,Write-in,11
-Clackamas,404,President,,WRI,Write-in,28
-Clackamas,405,President,,WRI,Write-in,13
-Clackamas,406,President,,WRI,Write-in,0
-Clackamas,410,President,,WRI,Write-in,15
-Clackamas,411,President,,WRI,Write-in,16
-Clackamas,412,President,,WRI,Write-in,18
-Clackamas,413,President,,WRI,Write-in,19
-Clackamas,414,President,,WRI,Write-in,4
-Clackamas,415,President,,WRI,Write-in,0
-Clackamas,416,President,,WRI,Write-in,36
-Clackamas,417 & 418,President,,WRI,Write-in,11
-Clackamas,419,President,,WRI,Write-in,0
-Clackamas,420,President,,WRI,Write-in,8
-Clackamas,421,President,,WRI,Write-in,21
-Clackamas,422,President,,WRI,Write-in,47
-Clackamas,500,President,,WRI,Write-in,3
-Clackamas,501,President,,WRI,Write-in,17
-Clackamas,502,President,,WRI,Write-in,48
-Clackamas,503,President,,WRI,Write-in,30
-Clackamas,504,President,,WRI,Write-in,36
-Clackamas,505,President,,WRI,Write-in,1
-Clackamas,506,President,,WRI,Write-in,3
-Clackamas,510,President,,WRI,Write-in,7
-Clackamas,511,President,,WRI,Write-in,16
-Clackamas,512,President,,WRI,Write-in,12
-Clackamas,513,President,,WRI,Write-in,16
-Clackamas,514,President,,WRI,Write-in,50
-Clackamas,515,President,,WRI,Write-in,7
-Clackamas,516,President,,WRI,Write-in,3
-Clackamas,517,President,,WRI,Write-in,5
-Clackamas,518,President,,WRI,Write-in,5
-Clackamas,519,President,,WRI,Write-in,4
-Clackamas,2,President,,,Under Votes,51
-Clackamas,3,President,,,Under Votes,59
-Clackamas,4,President,,,Under Votes,3
-Clackamas,5,President,,,Under Votes,30
-Clackamas,6,President,,,Under Votes,43
+Clackamas,002,President,,WRI,Write-ins,42
+Clackamas,003,President,,WRI,Write-ins,58
+Clackamas,004,President,,WRI,Write-ins,0
+Clackamas,005,President,,WRI,Write-ins,17
+Clackamas,006,President,,WRI,Write-ins,33
+Clackamas,007 & 010,President,,WRI,Write-ins,7
+Clackamas,031,President,,WRI,Write-ins,19
+Clackamas,032,President,,WRI,Write-ins,32
+Clackamas,033,President,,WRI,Write-ins,4
+Clackamas,040,President,,WRI,Write-ins,0
+Clackamas,051,President,,WRI,Write-ins,0
+Clackamas,052,President,,WRI,Write-ins,4
+Clackamas,053,President,,WRI,Write-ins,60
+Clackamas,055,President,,WRI,Write-ins,45
+Clackamas,070 & 071,President,,WRI,Write-ins,2
+Clackamas,072,President,,WRI,Write-ins,2
+Clackamas,073,President,,WRI,Write-ins,0
+Clackamas,074,President,,WRI,Write-ins,1
+Clackamas,099 & 100,President,,WRI,Write-ins,1
+Clackamas,101,President,,WRI,Write-ins,41
+Clackamas,102,President,,WRI,Write-ins,7
+Clackamas,103 & 104,President,,WRI,Write-ins,26
+Clackamas,105,President,,WRI,Write-ins,16
+Clackamas,106,President,,WRI,Write-ins,23
+Clackamas,107,President,,WRI,Write-ins,10
+Clackamas,108,President,,WRI,Write-ins,41
+Clackamas,111,President,,WRI,Write-ins,25
+Clackamas,122,President,,WRI,Write-ins,44
+Clackamas,124,President,,WRI,Write-ins,29
+Clackamas,125,President,,WRI,Write-ins,11
+Clackamas,127,President,,WRI,Write-ins,0
+Clackamas,131,President,,WRI,Write-ins,54
+Clackamas,132,President,,WRI,Write-ins,41
+Clackamas,133,President,,WRI,Write-ins,19
+Clackamas,134,President,,WRI,Write-ins,0
+Clackamas,135,President,,WRI,Write-ins,57
+Clackamas,151,President,,WRI,Write-ins,32
+Clackamas,153,President,,WRI,Write-ins,59
+Clackamas,154,President,,WRI,Write-ins,4
+Clackamas,155,President,,WRI,Write-ins,4
+Clackamas,156,President,,WRI,Write-ins,55
+Clackamas,157,President,,WRI,Write-ins,3
+Clackamas,159,President,,WRI,Write-ins,75
+Clackamas,160,President,,WRI,Write-ins,3
+Clackamas,201,President,,WRI,Write-ins,35
+Clackamas,202,President,,WRI,Write-ins,44
+Clackamas,203,President,,WRI,Write-ins,11
+Clackamas,204,President,,WRI,Write-ins,32
+Clackamas,251 & 252,President,,WRI,Write-ins,36
+Clackamas,280,President,,WRI,Write-ins,6
+Clackamas,281,President,,WRI,Write-ins,6
+Clackamas,282,President,,WRI,Write-ins,4
+Clackamas,283,President,,WRI,Write-ins,6
+Clackamas,284,President,,WRI,Write-ins,5
+Clackamas,320,President,,WRI,Write-ins,11
+Clackamas,321,President,,WRI,Write-ins,22
+Clackamas,322,President,,WRI,Write-ins,13
+Clackamas,323,President,,WRI,Write-ins,12
+Clackamas,330,President,,WRI,Write-ins,23
+Clackamas,331,President,,WRI,Write-ins,3
+Clackamas,332,President,,WRI,Write-ins,3
+Clackamas,333,President,,WRI,Write-ins,8
+Clackamas,350,President,,WRI,Write-ins,11
+Clackamas,351,President,,WRI,Write-ins,18
+Clackamas,352,President,,WRI,Write-ins,15
+Clackamas,359,President,,WRI,Write-ins,0
+Clackamas,360,President,,WRI,Write-ins,18
+Clackamas,361 & 362,President,,WRI,Write-ins,10
+Clackamas,363,President,,WRI,Write-ins,3
+Clackamas,364,President,,WRI,Write-ins,4
+Clackamas,370,President,,WRI,Write-ins,12
+Clackamas,371,President,,WRI,Write-ins,4
+Clackamas,372,President,,WRI,Write-ins,2
+Clackamas,373,President,,WRI,Write-ins,28
+Clackamas,400,President,,WRI,Write-ins,12
+Clackamas,401,President,,WRI,Write-ins,8
+Clackamas,402,President,,WRI,Write-ins,10
+Clackamas,403,President,,WRI,Write-ins,11
+Clackamas,404,President,,WRI,Write-ins,28
+Clackamas,405,President,,WRI,Write-ins,13
+Clackamas,406,President,,WRI,Write-ins,0
+Clackamas,410,President,,WRI,Write-ins,15
+Clackamas,411,President,,WRI,Write-ins,16
+Clackamas,412,President,,WRI,Write-ins,18
+Clackamas,413,President,,WRI,Write-ins,19
+Clackamas,414,President,,WRI,Write-ins,4
+Clackamas,415,President,,WRI,Write-ins,0
+Clackamas,416,President,,WRI,Write-ins,36
+Clackamas,417 & 418,President,,WRI,Write-ins,11
+Clackamas,419,President,,WRI,Write-ins,0
+Clackamas,420,President,,WRI,Write-ins,8
+Clackamas,421,President,,WRI,Write-ins,21
+Clackamas,422,President,,WRI,Write-ins,47
+Clackamas,500,President,,WRI,Write-ins,3
+Clackamas,501,President,,WRI,Write-ins,17
+Clackamas,502,President,,WRI,Write-ins,48
+Clackamas,503,President,,WRI,Write-ins,30
+Clackamas,504,President,,WRI,Write-ins,36
+Clackamas,505,President,,WRI,Write-ins,1
+Clackamas,506,President,,WRI,Write-ins,3
+Clackamas,510,President,,WRI,Write-ins,7
+Clackamas,511,President,,WRI,Write-ins,16
+Clackamas,512,President,,WRI,Write-ins,12
+Clackamas,513,President,,WRI,Write-ins,16
+Clackamas,514,President,,WRI,Write-ins,50
+Clackamas,515,President,,WRI,Write-ins,7
+Clackamas,516,President,,WRI,Write-ins,3
+Clackamas,517,President,,WRI,Write-ins,5
+Clackamas,518,President,,WRI,Write-ins,5
+Clackamas,519,President,,WRI,Write-ins,4
+Clackamas,002,President,,,Under Votes,51
+Clackamas,003,President,,,Under Votes,59
+Clackamas,004,President,,,Under Votes,3
+Clackamas,005,President,,,Under Votes,30
+Clackamas,006,President,,,Under Votes,43
 Clackamas,007 & 010,President,,,Under Votes,23
-Clackamas,31,President,,,Under Votes,24
-Clackamas,32,President,,,Under Votes,24
-Clackamas,33,President,,,Under Votes,7
-Clackamas,40,President,,,Under Votes,1
-Clackamas,51,President,,,Under Votes,0
-Clackamas,52,President,,,Under Votes,6
-Clackamas,53,President,,,Under Votes,51
-Clackamas,55,President,,,Under Votes,48
+Clackamas,031,President,,,Under Votes,24
+Clackamas,032,President,,,Under Votes,24
+Clackamas,033,President,,,Under Votes,7
+Clackamas,040,President,,,Under Votes,1
+Clackamas,051,President,,,Under Votes,0
+Clackamas,052,President,,,Under Votes,6
+Clackamas,053,President,,,Under Votes,51
+Clackamas,055,President,,,Under Votes,48
 Clackamas,070 & 071,President,,,Under Votes,1
-Clackamas,72,President,,,Under Votes,1
-Clackamas,73,President,,,Under Votes,1
-Clackamas,74,President,,,Under Votes,1
+Clackamas,072,President,,,Under Votes,1
+Clackamas,073,President,,,Under Votes,1
+Clackamas,074,President,,,Under Votes,1
 Clackamas,099 & 100,President,,,Under Votes,4
 Clackamas,101,President,,,Under Votes,64
 Clackamas,102,President,,,Under Votes,1
@@ -1005,24 +1005,24 @@ Clackamas,516,President,,,Under Votes,4
 Clackamas,517,President,,,Under Votes,12
 Clackamas,518,President,,,Under Votes,13
 Clackamas,519,President,,,Under Votes,14
-Clackamas,2,President,,,Over Votes,3
-Clackamas,3,President,,,Over Votes,2
-Clackamas,4,President,,,Over Votes,0
-Clackamas,5,President,,,Over Votes,0
-Clackamas,6,President,,,Over Votes,0
+Clackamas,002,President,,,Over Votes,3
+Clackamas,003,President,,,Over Votes,2
+Clackamas,004,President,,,Over Votes,0
+Clackamas,005,President,,,Over Votes,0
+Clackamas,006,President,,,Over Votes,0
 Clackamas,007 & 010,President,,,Over Votes,0
-Clackamas,31,President,,,Over Votes,3
-Clackamas,32,President,,,Over Votes,3
-Clackamas,33,President,,,Over Votes,0
-Clackamas,40,President,,,Over Votes,0
-Clackamas,51,President,,,Over Votes,0
-Clackamas,52,President,,,Over Votes,0
-Clackamas,53,President,,,Over Votes,4
-Clackamas,55,President,,,Over Votes,2
+Clackamas,031,President,,,Over Votes,3
+Clackamas,032,President,,,Over Votes,3
+Clackamas,033,President,,,Over Votes,0
+Clackamas,040,President,,,Over Votes,0
+Clackamas,051,President,,,Over Votes,0
+Clackamas,052,President,,,Over Votes,0
+Clackamas,053,President,,,Over Votes,4
+Clackamas,055,President,,,Over Votes,2
 Clackamas,070 & 071,President,,,Over Votes,0
-Clackamas,72,President,,,Over Votes,0
-Clackamas,73,President,,,Over Votes,0
-Clackamas,74,President,,,Over Votes,0
+Clackamas,072,President,,,Over Votes,0
+Clackamas,073,President,,,Over Votes,0
+Clackamas,074,President,,,Over Votes,0
 Clackamas,099 & 100,President,,,Over Votes,1
 Clackamas,101,President,,,Over Votes,2
 Clackamas,102,President,,,Over Votes,1
@@ -1115,24 +1115,24 @@ Clackamas,516,President,,,Over Votes,0
 Clackamas,517,President,,,Over Votes,1
 Clackamas,518,President,,,Over Votes,0
 Clackamas,519,President,,,Over Votes,0
-Clackamas,2,U.S. Senate,,REP,Jo Rae Perkins,1854
-Clackamas,3,U.S. Senate,,REP,Jo Rae Perkins,2760
-Clackamas,4,U.S. Senate,,REP,Jo Rae Perkins,115
-Clackamas,5,U.S. Senate,,REP,Jo Rae Perkins,1154
-Clackamas,6,U.S. Senate,,REP,Jo Rae Perkins,2363
+Clackamas,002,U.S. Senate,,REP,Jo Rae Perkins,1854
+Clackamas,003,U.S. Senate,,REP,Jo Rae Perkins,2760
+Clackamas,004,U.S. Senate,,REP,Jo Rae Perkins,115
+Clackamas,005,U.S. Senate,,REP,Jo Rae Perkins,1154
+Clackamas,006,U.S. Senate,,REP,Jo Rae Perkins,2363
 Clackamas,007 & 010,U.S. Senate,,REP,Jo Rae Perkins,633
-Clackamas,31,U.S. Senate,,REP,Jo Rae Perkins,962
-Clackamas,32,U.S. Senate,,REP,Jo Rae Perkins,1511
-Clackamas,33,U.S. Senate,,REP,Jo Rae Perkins,211
-Clackamas,40,U.S. Senate,,REP,Jo Rae Perkins,123
-Clackamas,51,U.S. Senate,,REP,Jo Rae Perkins,17
-Clackamas,52,U.S. Senate,,REP,Jo Rae Perkins,194
-Clackamas,53,U.S. Senate,,REP,Jo Rae Perkins,1655
-Clackamas,55,U.S. Senate,,REP,Jo Rae Perkins,1724
+Clackamas,031,U.S. Senate,,REP,Jo Rae Perkins,962
+Clackamas,032,U.S. Senate,,REP,Jo Rae Perkins,1511
+Clackamas,033,U.S. Senate,,REP,Jo Rae Perkins,211
+Clackamas,040,U.S. Senate,,REP,Jo Rae Perkins,123
+Clackamas,051,U.S. Senate,,REP,Jo Rae Perkins,17
+Clackamas,052,U.S. Senate,,REP,Jo Rae Perkins,194
+Clackamas,053,U.S. Senate,,REP,Jo Rae Perkins,1655
+Clackamas,055,U.S. Senate,,REP,Jo Rae Perkins,1724
 Clackamas,070 & 071,U.S. Senate,,REP,Jo Rae Perkins,31
-Clackamas,72,U.S. Senate,,REP,Jo Rae Perkins,35
-Clackamas,73,U.S. Senate,,REP,Jo Rae Perkins,75
-Clackamas,74,U.S. Senate,,REP,Jo Rae Perkins,29
+Clackamas,072,U.S. Senate,,REP,Jo Rae Perkins,35
+Clackamas,073,U.S. Senate,,REP,Jo Rae Perkins,75
+Clackamas,074,U.S. Senate,,REP,Jo Rae Perkins,29
 Clackamas,099 & 100,U.S. Senate,,REP,Jo Rae Perkins,202
 Clackamas,101,U.S. Senate,,REP,Jo Rae Perkins,2983
 Clackamas,102,U.S. Senate,,REP,Jo Rae Perkins,295
@@ -1225,24 +1225,24 @@ Clackamas,516,U.S. Senate,,REP,Jo Rae Perkins,561
 Clackamas,517,U.S. Senate,,REP,Jo Rae Perkins,1142
 Clackamas,518,U.S. Senate,,REP,Jo Rae Perkins,402
 Clackamas,519,U.S. Senate,,REP,Jo Rae Perkins,455
-Clackamas,2,U.S. Senate,,DEM,Jeff Merkley,2990
-Clackamas,3,U.S. Senate,,DEM,Jeff Merkley,3512
-Clackamas,4,U.S. Senate,,DEM,Jeff Merkley,138
-Clackamas,5,U.S. Senate,,DEM,Jeff Merkley,1261
-Clackamas,6,U.S. Senate,,DEM,Jeff Merkley,2300
+Clackamas,002,U.S. Senate,,DEM,Jeff Merkley,2990
+Clackamas,003,U.S. Senate,,DEM,Jeff Merkley,3512
+Clackamas,004,U.S. Senate,,DEM,Jeff Merkley,138
+Clackamas,005,U.S. Senate,,DEM,Jeff Merkley,1261
+Clackamas,006,U.S. Senate,,DEM,Jeff Merkley,2300
 Clackamas,007 & 010,U.S. Senate,,DEM,Jeff Merkley,816
-Clackamas,31,U.S. Senate,,DEM,Jeff Merkley,1455
-Clackamas,32,U.S. Senate,,DEM,Jeff Merkley,2202
-Clackamas,33,U.S. Senate,,DEM,Jeff Merkley,336
-Clackamas,40,U.S. Senate,,DEM,Jeff Merkley,142
-Clackamas,51,U.S. Senate,,DEM,Jeff Merkley,55
-Clackamas,52,U.S. Senate,,DEM,Jeff Merkley,460
-Clackamas,53,U.S. Senate,,DEM,Jeff Merkley,4818
-Clackamas,55,U.S. Senate,,DEM,Jeff Merkley,3828
+Clackamas,031,U.S. Senate,,DEM,Jeff Merkley,1455
+Clackamas,032,U.S. Senate,,DEM,Jeff Merkley,2202
+Clackamas,033,U.S. Senate,,DEM,Jeff Merkley,336
+Clackamas,040,U.S. Senate,,DEM,Jeff Merkley,142
+Clackamas,051,U.S. Senate,,DEM,Jeff Merkley,55
+Clackamas,052,U.S. Senate,,DEM,Jeff Merkley,460
+Clackamas,053,U.S. Senate,,DEM,Jeff Merkley,4818
+Clackamas,055,U.S. Senate,,DEM,Jeff Merkley,3828
 Clackamas,070 & 071,U.S. Senate,,DEM,Jeff Merkley,121
-Clackamas,72,U.S. Senate,,DEM,Jeff Merkley,69
-Clackamas,73,U.S. Senate,,DEM,Jeff Merkley,116
-Clackamas,74,U.S. Senate,,DEM,Jeff Merkley,22
+Clackamas,072,U.S. Senate,,DEM,Jeff Merkley,69
+Clackamas,073,U.S. Senate,,DEM,Jeff Merkley,116
+Clackamas,074,U.S. Senate,,DEM,Jeff Merkley,22
 Clackamas,099 & 100,U.S. Senate,,DEM,Jeff Merkley,206
 Clackamas,101,U.S. Senate,,DEM,Jeff Merkley,3861
 Clackamas,102,U.S. Senate,,DEM,Jeff Merkley,387
@@ -1335,24 +1335,24 @@ Clackamas,516,U.S. Senate,,DEM,Jeff Merkley,352
 Clackamas,517,U.S. Senate,,DEM,Jeff Merkley,648
 Clackamas,518,U.S. Senate,,DEM,Jeff Merkley,284
 Clackamas,519,U.S. Senate,,DEM,Jeff Merkley,320
-Clackamas,2,U.S. Senate,,PAC,Ibraham Taher,126
-Clackamas,3,U.S. Senate,,PAC,Ibraham Taher,122
-Clackamas,4,U.S. Senate,,PAC,Ibraham Taher,2
-Clackamas,5,U.S. Senate,,PAC,Ibraham Taher,38
-Clackamas,6,U.S. Senate,,PAC,Ibraham Taher,57
+Clackamas,002,U.S. Senate,,PAC,Ibraham Taher,126
+Clackamas,003,U.S. Senate,,PAC,Ibraham Taher,122
+Clackamas,004,U.S. Senate,,PAC,Ibraham Taher,2
+Clackamas,005,U.S. Senate,,PAC,Ibraham Taher,38
+Clackamas,006,U.S. Senate,,PAC,Ibraham Taher,57
 Clackamas,007 & 010,U.S. Senate,,PAC,Ibraham Taher,33
-Clackamas,31,U.S. Senate,,PAC,Ibraham Taher,31
-Clackamas,32,U.S. Senate,,PAC,Ibraham Taher,66
-Clackamas,33,U.S. Senate,,PAC,Ibraham Taher,13
-Clackamas,40,U.S. Senate,,PAC,Ibraham Taher,9
-Clackamas,51,U.S. Senate,,PAC,Ibraham Taher,7
-Clackamas,52,U.S. Senate,,PAC,Ibraham Taher,27
-Clackamas,53,U.S. Senate,,PAC,Ibraham Taher,185
-Clackamas,55,U.S. Senate,,PAC,Ibraham Taher,135
+Clackamas,031,U.S. Senate,,PAC,Ibraham Taher,31
+Clackamas,032,U.S. Senate,,PAC,Ibraham Taher,66
+Clackamas,033,U.S. Senate,,PAC,Ibraham Taher,13
+Clackamas,040,U.S. Senate,,PAC,Ibraham Taher,9
+Clackamas,051,U.S. Senate,,PAC,Ibraham Taher,7
+Clackamas,052,U.S. Senate,,PAC,Ibraham Taher,27
+Clackamas,053,U.S. Senate,,PAC,Ibraham Taher,185
+Clackamas,055,U.S. Senate,,PAC,Ibraham Taher,135
 Clackamas,070 & 071,U.S. Senate,,PAC,Ibraham Taher,1
-Clackamas,72,U.S. Senate,,PAC,Ibraham Taher,0
-Clackamas,73,U.S. Senate,,PAC,Ibraham Taher,3
-Clackamas,74,U.S. Senate,,PAC,Ibraham Taher,1
+Clackamas,072,U.S. Senate,,PAC,Ibraham Taher,0
+Clackamas,073,U.S. Senate,,PAC,Ibraham Taher,3
+Clackamas,074,U.S. Senate,,PAC,Ibraham Taher,1
 Clackamas,099 & 100,U.S. Senate,,PAC,Ibraham Taher,6
 Clackamas,101,U.S. Senate,,PAC,Ibraham Taher,86
 Clackamas,102,U.S. Senate,,PAC,Ibraham Taher,7
@@ -1445,24 +1445,24 @@ Clackamas,516,U.S. Senate,,PAC,Ibraham Taher,8
 Clackamas,517,U.S. Senate,,PAC,Ibraham Taher,20
 Clackamas,518,U.S. Senate,,PAC,Ibraham Taher,7
 Clackamas,519,U.S. Senate,,PAC,Ibraham Taher,15
-Clackamas,2,U.S. Senate,,LIB,Gary Dye,113
-Clackamas,3,U.S. Senate,,LIB,Gary Dye,146
-Clackamas,4,U.S. Senate,,LIB,Gary Dye,7
-Clackamas,5,U.S. Senate,,LIB,Gary Dye,54
-Clackamas,6,U.S. Senate,,LIB,Gary Dye,81
+Clackamas,002,U.S. Senate,,LIB,Gary Dye,113
+Clackamas,003,U.S. Senate,,LIB,Gary Dye,146
+Clackamas,004,U.S. Senate,,LIB,Gary Dye,7
+Clackamas,005,U.S. Senate,,LIB,Gary Dye,54
+Clackamas,006,U.S. Senate,,LIB,Gary Dye,81
 Clackamas,007 & 010,U.S. Senate,,LIB,Gary Dye,45
-Clackamas,31,U.S. Senate,,LIB,Gary Dye,63
-Clackamas,32,U.S. Senate,,LIB,Gary Dye,84
-Clackamas,33,U.S. Senate,,LIB,Gary Dye,21
-Clackamas,40,U.S. Senate,,LIB,Gary Dye,3
-Clackamas,51,U.S. Senate,,LIB,Gary Dye,4
-Clackamas,52,U.S. Senate,,LIB,Gary Dye,17
-Clackamas,53,U.S. Senate,,LIB,Gary Dye,130
-Clackamas,55,U.S. Senate,,LIB,Gary Dye,98
+Clackamas,031,U.S. Senate,,LIB,Gary Dye,63
+Clackamas,032,U.S. Senate,,LIB,Gary Dye,84
+Clackamas,033,U.S. Senate,,LIB,Gary Dye,21
+Clackamas,040,U.S. Senate,,LIB,Gary Dye,3
+Clackamas,051,U.S. Senate,,LIB,Gary Dye,4
+Clackamas,052,U.S. Senate,,LIB,Gary Dye,17
+Clackamas,053,U.S. Senate,,LIB,Gary Dye,130
+Clackamas,055,U.S. Senate,,LIB,Gary Dye,98
 Clackamas,070 & 071,U.S. Senate,,LIB,Gary Dye,3
-Clackamas,72,U.S. Senate,,LIB,Gary Dye,1
-Clackamas,73,U.S. Senate,,LIB,Gary Dye,6
-Clackamas,74,U.S. Senate,,LIB,Gary Dye,3
+Clackamas,072,U.S. Senate,,LIB,Gary Dye,1
+Clackamas,073,U.S. Senate,,LIB,Gary Dye,6
+Clackamas,074,U.S. Senate,,LIB,Gary Dye,3
 Clackamas,099 & 100,U.S. Senate,,LIB,Gary Dye,2
 Clackamas,101,U.S. Senate,,LIB,Gary Dye,107
 Clackamas,102,U.S. Senate,,LIB,Gary Dye,14
@@ -1555,134 +1555,134 @@ Clackamas,516,U.S. Senate,,LIB,Gary Dye,10
 Clackamas,517,U.S. Senate,,LIB,Gary Dye,28
 Clackamas,518,U.S. Senate,,LIB,Gary Dye,16
 Clackamas,519,U.S. Senate,,LIB,Gary Dye,13
-Clackamas,2,U.S. Senate,,,write-in,6
-Clackamas,3,U.S. Senate,,,write-in,4
-Clackamas,4,U.S. Senate,,,write-in,0
-Clackamas,5,U.S. Senate,,,write-in,2
-Clackamas,6,U.S. Senate,,,write-in,2
-Clackamas,007 & 010,U.S. Senate,,,write-in,0
-Clackamas,31,U.S. Senate,,,write-in,1
-Clackamas,32,U.S. Senate,,,write-in,6
-Clackamas,33,U.S. Senate,,,write-in,0
-Clackamas,40,U.S. Senate,,,write-in,0
-Clackamas,51,U.S. Senate,,,write-in,0
-Clackamas,52,U.S. Senate,,,write-in,0
-Clackamas,53,U.S. Senate,,,write-in,5
-Clackamas,55,U.S. Senate,,,write-in,1
-Clackamas,070 & 071,U.S. Senate,,,write-in,0
-Clackamas,72,U.S. Senate,,,write-in,1
-Clackamas,73,U.S. Senate,,,write-in,0
-Clackamas,74,U.S. Senate,,,write-in,0
-Clackamas,099 & 100,U.S. Senate,,,write-in,0
-Clackamas,101,U.S. Senate,,,write-in,5
-Clackamas,102,U.S. Senate,,,write-in,0
-Clackamas,103 & 104,U.S. Senate,,,write-in,3
-Clackamas,105,U.S. Senate,,,write-in,1
-Clackamas,106,U.S. Senate,,,write-in,0
-Clackamas,107,U.S. Senate,,,write-in,2
-Clackamas,108,U.S. Senate,,,write-in,3
-Clackamas,111,U.S. Senate,,,write-in,5
-Clackamas,122,U.S. Senate,,,write-in,2
-Clackamas,124,U.S. Senate,,,write-in,2
-Clackamas,125,U.S. Senate,,,write-in,0
-Clackamas,127,U.S. Senate,,,write-in,0
-Clackamas,131,U.S. Senate,,,write-in,6
-Clackamas,132,U.S. Senate,,,write-in,6
-Clackamas,133,U.S. Senate,,,write-in,0
-Clackamas,134,U.S. Senate,,,write-in,0
-Clackamas,135,U.S. Senate,,,write-in,6
-Clackamas,151,U.S. Senate,,,write-in,7
-Clackamas,153,U.S. Senate,,,write-in,11
-Clackamas,154,U.S. Senate,,,write-in,0
-Clackamas,155,U.S. Senate,,,write-in,2
-Clackamas,156,U.S. Senate,,,write-in,14
-Clackamas,157,U.S. Senate,,,write-in,1
-Clackamas,159,U.S. Senate,,,write-in,3
-Clackamas,160,U.S. Senate,,,write-in,1
-Clackamas,201,U.S. Senate,,,write-in,6
-Clackamas,202,U.S. Senate,,,write-in,4
-Clackamas,203,U.S. Senate,,,write-in,1
-Clackamas,204,U.S. Senate,,,write-in,3
-Clackamas,251 & 252,U.S. Senate,,,write-in,1
-Clackamas,280,U.S. Senate,,,write-in,0
-Clackamas,281,U.S. Senate,,,write-in,1
-Clackamas,282,U.S. Senate,,,write-in,2
-Clackamas,283,U.S. Senate,,,write-in,1
-Clackamas,284,U.S. Senate,,,write-in,0
-Clackamas,320,U.S. Senate,,,write-in,0
-Clackamas,321,U.S. Senate,,,write-in,3
-Clackamas,322,U.S. Senate,,,write-in,2
-Clackamas,323,U.S. Senate,,,write-in,1
-Clackamas,330,U.S. Senate,,,write-in,6
-Clackamas,331,U.S. Senate,,,write-in,0
-Clackamas,332,U.S. Senate,,,write-in,0
-Clackamas,333,U.S. Senate,,,write-in,1
-Clackamas,350,U.S. Senate,,,write-in,2
-Clackamas,351,U.S. Senate,,,write-in,3
-Clackamas,352,U.S. Senate,,,write-in,6
-Clackamas,359,U.S. Senate,,,write-in,0
-Clackamas,360,U.S. Senate,,,write-in,3
-Clackamas,361 & 362,U.S. Senate,,,write-in,1
-Clackamas,363,U.S. Senate,,,write-in,1
-Clackamas,364,U.S. Senate,,,write-in,1
-Clackamas,370,U.S. Senate,,,write-in,1
-Clackamas,371,U.S. Senate,,,write-in,0
-Clackamas,372,U.S. Senate,,,write-in,0
-Clackamas,373,U.S. Senate,,,write-in,2
-Clackamas,400,U.S. Senate,,,write-in,0
-Clackamas,401,U.S. Senate,,,write-in,0
-Clackamas,402,U.S. Senate,,,write-in,0
-Clackamas,403,U.S. Senate,,,write-in,2
-Clackamas,404,U.S. Senate,,,write-in,4
-Clackamas,405,U.S. Senate,,,write-in,1
-Clackamas,406,U.S. Senate,,,write-in,0
-Clackamas,410,U.S. Senate,,,write-in,2
-Clackamas,411,U.S. Senate,,,write-in,3
-Clackamas,412,U.S. Senate,,,write-in,2
-Clackamas,413,U.S. Senate,,,write-in,1
-Clackamas,414,U.S. Senate,,,write-in,0
-Clackamas,415,U.S. Senate,,,write-in,0
-Clackamas,416,U.S. Senate,,,write-in,1
-Clackamas,417 & 418,U.S. Senate,,,write-in,0
-Clackamas,419,U.S. Senate,,,write-in,0
-Clackamas,420,U.S. Senate,,,write-in,0
-Clackamas,421,U.S. Senate,,,write-in,3
-Clackamas,422,U.S. Senate,,,write-in,8
-Clackamas,500,U.S. Senate,,,write-in,0
-Clackamas,501,U.S. Senate,,,write-in,3
-Clackamas,502,U.S. Senate,,,write-in,9
-Clackamas,503,U.S. Senate,,,write-in,5
-Clackamas,504,U.S. Senate,,,write-in,5
-Clackamas,505,U.S. Senate,,,write-in,0
-Clackamas,506,U.S. Senate,,,write-in,0
-Clackamas,510,U.S. Senate,,,write-in,0
-Clackamas,511,U.S. Senate,,,write-in,2
-Clackamas,512,U.S. Senate,,,write-in,5
-Clackamas,513,U.S. Senate,,,write-in,1
-Clackamas,514,U.S. Senate,,,write-in,6
-Clackamas,515,U.S. Senate,,,write-in,2
-Clackamas,516,U.S. Senate,,,write-in,0
-Clackamas,517,U.S. Senate,,,write-in,2
-Clackamas,518,U.S. Senate,,,write-in,0
-Clackamas,519,U.S. Senate,,,write-in,0
-Clackamas,2,U.S. Senate,,,Under Votes,188
-Clackamas,3,U.S. Senate,,,Under Votes,281
-Clackamas,4,U.S. Senate,,,Under Votes,15
-Clackamas,5,U.S. Senate,,,Under Votes,116
-Clackamas,6,U.S. Senate,,,Under Votes,205
+Clackamas,002,U.S. Senate,,,Write-ins,6
+Clackamas,003,U.S. Senate,,,Write-ins,4
+Clackamas,004,U.S. Senate,,,Write-ins,0
+Clackamas,005,U.S. Senate,,,Write-ins,2
+Clackamas,006,U.S. Senate,,,Write-ins,2
+Clackamas,007 & 010,U.S. Senate,,,Write-ins,0
+Clackamas,031,U.S. Senate,,,Write-ins,1
+Clackamas,032,U.S. Senate,,,Write-ins,6
+Clackamas,033,U.S. Senate,,,Write-ins,0
+Clackamas,040,U.S. Senate,,,Write-ins,0
+Clackamas,051,U.S. Senate,,,Write-ins,0
+Clackamas,052,U.S. Senate,,,Write-ins,0
+Clackamas,053,U.S. Senate,,,Write-ins,5
+Clackamas,055,U.S. Senate,,,Write-ins,1
+Clackamas,070 & 071,U.S. Senate,,,Write-ins,0
+Clackamas,072,U.S. Senate,,,Write-ins,1
+Clackamas,073,U.S. Senate,,,Write-ins,0
+Clackamas,074,U.S. Senate,,,Write-ins,0
+Clackamas,099 & 100,U.S. Senate,,,Write-ins,0
+Clackamas,101,U.S. Senate,,,Write-ins,5
+Clackamas,102,U.S. Senate,,,Write-ins,0
+Clackamas,103 & 104,U.S. Senate,,,Write-ins,3
+Clackamas,105,U.S. Senate,,,Write-ins,1
+Clackamas,106,U.S. Senate,,,Write-ins,0
+Clackamas,107,U.S. Senate,,,Write-ins,2
+Clackamas,108,U.S. Senate,,,Write-ins,3
+Clackamas,111,U.S. Senate,,,Write-ins,5
+Clackamas,122,U.S. Senate,,,Write-ins,2
+Clackamas,124,U.S. Senate,,,Write-ins,2
+Clackamas,125,U.S. Senate,,,Write-ins,0
+Clackamas,127,U.S. Senate,,,Write-ins,0
+Clackamas,131,U.S. Senate,,,Write-ins,6
+Clackamas,132,U.S. Senate,,,Write-ins,6
+Clackamas,133,U.S. Senate,,,Write-ins,0
+Clackamas,134,U.S. Senate,,,Write-ins,0
+Clackamas,135,U.S. Senate,,,Write-ins,6
+Clackamas,151,U.S. Senate,,,Write-ins,7
+Clackamas,153,U.S. Senate,,,Write-ins,11
+Clackamas,154,U.S. Senate,,,Write-ins,0
+Clackamas,155,U.S. Senate,,,Write-ins,2
+Clackamas,156,U.S. Senate,,,Write-ins,14
+Clackamas,157,U.S. Senate,,,Write-ins,1
+Clackamas,159,U.S. Senate,,,Write-ins,3
+Clackamas,160,U.S. Senate,,,Write-ins,1
+Clackamas,201,U.S. Senate,,,Write-ins,6
+Clackamas,202,U.S. Senate,,,Write-ins,4
+Clackamas,203,U.S. Senate,,,Write-ins,1
+Clackamas,204,U.S. Senate,,,Write-ins,3
+Clackamas,251 & 252,U.S. Senate,,,Write-ins,1
+Clackamas,280,U.S. Senate,,,Write-ins,0
+Clackamas,281,U.S. Senate,,,Write-ins,1
+Clackamas,282,U.S. Senate,,,Write-ins,2
+Clackamas,283,U.S. Senate,,,Write-ins,1
+Clackamas,284,U.S. Senate,,,Write-ins,0
+Clackamas,320,U.S. Senate,,,Write-ins,0
+Clackamas,321,U.S. Senate,,,Write-ins,3
+Clackamas,322,U.S. Senate,,,Write-ins,2
+Clackamas,323,U.S. Senate,,,Write-ins,1
+Clackamas,330,U.S. Senate,,,Write-ins,6
+Clackamas,331,U.S. Senate,,,Write-ins,0
+Clackamas,332,U.S. Senate,,,Write-ins,0
+Clackamas,333,U.S. Senate,,,Write-ins,1
+Clackamas,350,U.S. Senate,,,Write-ins,2
+Clackamas,351,U.S. Senate,,,Write-ins,3
+Clackamas,352,U.S. Senate,,,Write-ins,6
+Clackamas,359,U.S. Senate,,,Write-ins,0
+Clackamas,360,U.S. Senate,,,Write-ins,3
+Clackamas,361 & 362,U.S. Senate,,,Write-ins,1
+Clackamas,363,U.S. Senate,,,Write-ins,1
+Clackamas,364,U.S. Senate,,,Write-ins,1
+Clackamas,370,U.S. Senate,,,Write-ins,1
+Clackamas,371,U.S. Senate,,,Write-ins,0
+Clackamas,372,U.S. Senate,,,Write-ins,0
+Clackamas,373,U.S. Senate,,,Write-ins,2
+Clackamas,400,U.S. Senate,,,Write-ins,0
+Clackamas,401,U.S. Senate,,,Write-ins,0
+Clackamas,402,U.S. Senate,,,Write-ins,0
+Clackamas,403,U.S. Senate,,,Write-ins,2
+Clackamas,404,U.S. Senate,,,Write-ins,4
+Clackamas,405,U.S. Senate,,,Write-ins,1
+Clackamas,406,U.S. Senate,,,Write-ins,0
+Clackamas,410,U.S. Senate,,,Write-ins,2
+Clackamas,411,U.S. Senate,,,Write-ins,3
+Clackamas,412,U.S. Senate,,,Write-ins,2
+Clackamas,413,U.S. Senate,,,Write-ins,1
+Clackamas,414,U.S. Senate,,,Write-ins,0
+Clackamas,415,U.S. Senate,,,Write-ins,0
+Clackamas,416,U.S. Senate,,,Write-ins,1
+Clackamas,417 & 418,U.S. Senate,,,Write-ins,0
+Clackamas,419,U.S. Senate,,,Write-ins,0
+Clackamas,420,U.S. Senate,,,Write-ins,0
+Clackamas,421,U.S. Senate,,,Write-ins,3
+Clackamas,422,U.S. Senate,,,Write-ins,8
+Clackamas,500,U.S. Senate,,,Write-ins,0
+Clackamas,501,U.S. Senate,,,Write-ins,3
+Clackamas,502,U.S. Senate,,,Write-ins,9
+Clackamas,503,U.S. Senate,,,Write-ins,5
+Clackamas,504,U.S. Senate,,,Write-ins,5
+Clackamas,505,U.S. Senate,,,Write-ins,0
+Clackamas,506,U.S. Senate,,,Write-ins,0
+Clackamas,510,U.S. Senate,,,Write-ins,0
+Clackamas,511,U.S. Senate,,,Write-ins,2
+Clackamas,512,U.S. Senate,,,Write-ins,5
+Clackamas,513,U.S. Senate,,,Write-ins,1
+Clackamas,514,U.S. Senate,,,Write-ins,6
+Clackamas,515,U.S. Senate,,,Write-ins,2
+Clackamas,516,U.S. Senate,,,Write-ins,0
+Clackamas,517,U.S. Senate,,,Write-ins,2
+Clackamas,518,U.S. Senate,,,Write-ins,0
+Clackamas,519,U.S. Senate,,,Write-ins,0
+Clackamas,002,U.S. Senate,,,Under Votes,188
+Clackamas,003,U.S. Senate,,,Under Votes,281
+Clackamas,004,U.S. Senate,,,Under Votes,15
+Clackamas,005,U.S. Senate,,,Under Votes,116
+Clackamas,006,U.S. Senate,,,Under Votes,205
 Clackamas,007 & 010,U.S. Senate,,,Under Votes,69
-Clackamas,31,U.S. Senate,,,Under Votes,113
-Clackamas,32,U.S. Senate,,,Under Votes,190
-Clackamas,33,U.S. Senate,,,Under Votes,15
-Clackamas,40,U.S. Senate,,,Under Votes,11
-Clackamas,51,U.S. Senate,,,Under Votes,0
-Clackamas,52,U.S. Senate,,,Under Votes,24
-Clackamas,53,U.S. Senate,,,Under Votes,236
-Clackamas,55,U.S. Senate,,,Under Votes,191
+Clackamas,031,U.S. Senate,,,Under Votes,113
+Clackamas,032,U.S. Senate,,,Under Votes,190
+Clackamas,033,U.S. Senate,,,Under Votes,15
+Clackamas,040,U.S. Senate,,,Under Votes,11
+Clackamas,051,U.S. Senate,,,Under Votes,0
+Clackamas,052,U.S. Senate,,,Under Votes,24
+Clackamas,053,U.S. Senate,,,Under Votes,236
+Clackamas,055,U.S. Senate,,,Under Votes,191
 Clackamas,070 & 071,U.S. Senate,,,Under Votes,4
-Clackamas,72,U.S. Senate,,,Under Votes,1
-Clackamas,73,U.S. Senate,,,Under Votes,4
-Clackamas,74,U.S. Senate,,,Under Votes,3
+Clackamas,072,U.S. Senate,,,Under Votes,1
+Clackamas,073,U.S. Senate,,,Under Votes,4
+Clackamas,074,U.S. Senate,,,Under Votes,3
 Clackamas,099 & 100,U.S. Senate,,,Under Votes,18
 Clackamas,101,U.S. Senate,,,Under Votes,319
 Clackamas,102,U.S. Senate,,,Under Votes,35
@@ -1775,24 +1775,24 @@ Clackamas,516,U.S. Senate,,,Under Votes,30
 Clackamas,517,U.S. Senate,,,Under Votes,49
 Clackamas,518,U.S. Senate,,,Under Votes,20
 Clackamas,519,U.S. Senate,,,Under Votes,23
-Clackamas,2,U.S. Senate,,,Over Votes,1
-Clackamas,3,U.S. Senate,,,Over Votes,0
-Clackamas,4,U.S. Senate,,,Over Votes,0
-Clackamas,5,U.S. Senate,,,Over Votes,0
-Clackamas,6,U.S. Senate,,,Over Votes,0
+Clackamas,002,U.S. Senate,,,Over Votes,1
+Clackamas,003,U.S. Senate,,,Over Votes,0
+Clackamas,004,U.S. Senate,,,Over Votes,0
+Clackamas,005,U.S. Senate,,,Over Votes,0
+Clackamas,006,U.S. Senate,,,Over Votes,0
 Clackamas,007 & 010,U.S. Senate,,,Over Votes,1
-Clackamas,31,U.S. Senate,,,Over Votes,3
-Clackamas,32,U.S. Senate,,,Over Votes,3
-Clackamas,33,U.S. Senate,,,Over Votes,0
-Clackamas,40,U.S. Senate,,,Over Votes,0
-Clackamas,51,U.S. Senate,,,Over Votes,0
-Clackamas,52,U.S. Senate,,,Over Votes,0
-Clackamas,53,U.S. Senate,,,Over Votes,3
-Clackamas,55,U.S. Senate,,,Over Votes,1
+Clackamas,031,U.S. Senate,,,Over Votes,3
+Clackamas,032,U.S. Senate,,,Over Votes,3
+Clackamas,033,U.S. Senate,,,Over Votes,0
+Clackamas,040,U.S. Senate,,,Over Votes,0
+Clackamas,051,U.S. Senate,,,Over Votes,0
+Clackamas,052,U.S. Senate,,,Over Votes,0
+Clackamas,053,U.S. Senate,,,Over Votes,3
+Clackamas,055,U.S. Senate,,,Over Votes,1
 Clackamas,070 & 071,U.S. Senate,,,Over Votes,0
-Clackamas,72,U.S. Senate,,,Over Votes,0
-Clackamas,73,U.S. Senate,,,Over Votes,0
-Clackamas,74,U.S. Senate,,,Over Votes,0
+Clackamas,072,U.S. Senate,,,Over Votes,0
+Clackamas,073,U.S. Senate,,,Over Votes,0
+Clackamas,074,U.S. Senate,,,Over Votes,0
 Clackamas,099 & 100,U.S. Senate,,,Over Votes,1
 Clackamas,101,U.S. Senate,,,Over Votes,1
 Clackamas,102,U.S. Senate,,,Over Votes,0
@@ -2021,40 +2021,40 @@ Clackamas,515,U.S. House,3,LIB,Josh Solomon,14
 Clackamas,516,U.S. House,3,LIB,Josh Solomon,13
 Clackamas,517,U.S. House,3,LIB,Josh Solomon,25
 Clackamas,518,U.S. House,3,LIB,Josh Solomon,18
-Clackamas,007 & 010,U.S. House,3,,write-in,0
-Clackamas,099 & 100,U.S. House,3,,write-in,0
-Clackamas,101,U.S. House,3,,write-in,8
-Clackamas,102,U.S. House,3,,write-in,0
-Clackamas,103 & 104,U.S. House,3,,write-in,0
-Clackamas,106,U.S. House,3,,write-in,3
-Clackamas,107,U.S. House,3,,write-in,2
-Clackamas,108,U.S. House,3,,write-in,4
-Clackamas,350,U.S. House,3,,write-in,2
-Clackamas,360,U.S. House,3,,write-in,3
-Clackamas,361 & 362,U.S. House,3,,write-in,4
-Clackamas,363,U.S. House,3,,write-in,0
-Clackamas,364,U.S. House,3,,write-in,1
-Clackamas,370,U.S. House,3,,write-in,5
-Clackamas,371,U.S. House,3,,write-in,1
-Clackamas,372,U.S. House,3,,write-in,0
-Clackamas,373,U.S. House,3,,write-in,3
-Clackamas,400,U.S. House,3,,write-in,0
-Clackamas,401,U.S. House,3,,write-in,0
-Clackamas,402,U.S. House,3,,write-in,0
-Clackamas,403,U.S. House,3,,write-in,1
-Clackamas,404,U.S. House,3,,write-in,4
-Clackamas,405,U.S. House,3,,write-in,2
-Clackamas,406,U.S. House,3,,write-in,1
-Clackamas,412,U.S. House,3,,write-in,1
-Clackamas,414,U.S. House,3,,write-in,0
-Clackamas,415,U.S. House,3,,write-in,0
-Clackamas,416,U.S. House,3,,write-in,2
-Clackamas,513,U.S. House,3,,write-in,3
-Clackamas,514,U.S. House,3,,write-in,7
-Clackamas,515,U.S. House,3,,write-in,1
-Clackamas,516,U.S. House,3,,write-in,1
-Clackamas,517,U.S. House,3,,write-in,1
-Clackamas,518,U.S. House,3,,write-in,0
+Clackamas,007 & 010,U.S. House,3,,Write-ins,0
+Clackamas,099 & 100,U.S. House,3,,Write-ins,0
+Clackamas,101,U.S. House,3,,Write-ins,8
+Clackamas,102,U.S. House,3,,Write-ins,0
+Clackamas,103 & 104,U.S. House,3,,Write-ins,0
+Clackamas,106,U.S. House,3,,Write-ins,3
+Clackamas,107,U.S. House,3,,Write-ins,2
+Clackamas,108,U.S. House,3,,Write-ins,4
+Clackamas,350,U.S. House,3,,Write-ins,2
+Clackamas,360,U.S. House,3,,Write-ins,3
+Clackamas,361 & 362,U.S. House,3,,Write-ins,4
+Clackamas,363,U.S. House,3,,Write-ins,0
+Clackamas,364,U.S. House,3,,Write-ins,1
+Clackamas,370,U.S. House,3,,Write-ins,5
+Clackamas,371,U.S. House,3,,Write-ins,1
+Clackamas,372,U.S. House,3,,Write-ins,0
+Clackamas,373,U.S. House,3,,Write-ins,3
+Clackamas,400,U.S. House,3,,Write-ins,0
+Clackamas,401,U.S. House,3,,Write-ins,0
+Clackamas,402,U.S. House,3,,Write-ins,0
+Clackamas,403,U.S. House,3,,Write-ins,1
+Clackamas,404,U.S. House,3,,Write-ins,4
+Clackamas,405,U.S. House,3,,Write-ins,2
+Clackamas,406,U.S. House,3,,Write-ins,1
+Clackamas,412,U.S. House,3,,Write-ins,1
+Clackamas,414,U.S. House,3,,Write-ins,0
+Clackamas,415,U.S. House,3,,Write-ins,0
+Clackamas,416,U.S. House,3,,Write-ins,2
+Clackamas,513,U.S. House,3,,Write-ins,3
+Clackamas,514,U.S. House,3,,Write-ins,7
+Clackamas,515,U.S. House,3,,Write-ins,1
+Clackamas,516,U.S. House,3,,Write-ins,1
+Clackamas,517,U.S. House,3,,Write-ins,1
+Clackamas,518,U.S. House,3,,Write-ins,0
 Clackamas,007 & 010,U.S. House,3,,Under Votes,0
 Clackamas,099 & 100,U.S. House,3,,Under Votes,20
 Clackamas,101,U.S. House,3,,Under Votes,383
@@ -2123,24 +2123,24 @@ Clackamas,515,U.S. House,3,,Over Votes,0
 Clackamas,516,U.S. House,3,,Over Votes,0
 Clackamas,517,U.S. House,3,,Over Votes,0
 Clackamas,518,U.S. House,3,,Over Votes,0
-Clackamas,2,U.S. House,5,LIB,Matthew Rix,168
-Clackamas,3,U.S. House,5,LIB,Matthew Rix,215
-Clackamas,4,U.S. House,5,LIB,Matthew Rix,5
-Clackamas,5,U.S. House,5,LIB,Matthew Rix,82
-Clackamas,6,U.S. House,5,LIB,Matthew Rix,105
+Clackamas,002,U.S. House,5,LIB,Matthew Rix,168
+Clackamas,003,U.S. House,5,LIB,Matthew Rix,215
+Clackamas,004,U.S. House,5,LIB,Matthew Rix,5
+Clackamas,005,U.S. House,5,LIB,Matthew Rix,82
+Clackamas,006,U.S. House,5,LIB,Matthew Rix,105
 Clackamas,007 & 010,U.S. House,5,LIB,Matthew Rix,58
-Clackamas,31,U.S. House,5,LIB,Matthew Rix,93
-Clackamas,32,U.S. House,5,LIB,Matthew Rix,134
-Clackamas,33,U.S. House,5,LIB,Matthew Rix,25
-Clackamas,40,U.S. House,5,LIB,Matthew Rix,12
-Clackamas,51,U.S. House,5,LIB,Matthew Rix,8
-Clackamas,52,U.S. House,5,LIB,Matthew Rix,32
-Clackamas,53,U.S. House,5,LIB,Matthew Rix,228
-Clackamas,55,U.S. House,5,LIB,Matthew Rix,190
+Clackamas,031,U.S. House,5,LIB,Matthew Rix,93
+Clackamas,032,U.S. House,5,LIB,Matthew Rix,134
+Clackamas,033,U.S. House,5,LIB,Matthew Rix,25
+Clackamas,040,U.S. House,5,LIB,Matthew Rix,12
+Clackamas,051,U.S. House,5,LIB,Matthew Rix,8
+Clackamas,052,U.S. House,5,LIB,Matthew Rix,32
+Clackamas,053,U.S. House,5,LIB,Matthew Rix,228
+Clackamas,055,U.S. House,5,LIB,Matthew Rix,190
 Clackamas,070 & 071,U.S. House,5,LIB,Matthew Rix,2
-Clackamas,72,U.S. House,5,LIB,Matthew Rix,0
-Clackamas,73,U.S. House,5,LIB,Matthew Rix,6
-Clackamas,74,U.S. House,5,LIB,Matthew Rix,3
+Clackamas,072,U.S. House,5,LIB,Matthew Rix,0
+Clackamas,073,U.S. House,5,LIB,Matthew Rix,6
+Clackamas,074,U.S. House,5,LIB,Matthew Rix,3
 Clackamas,099 & 100,U.S. House,5,LIB,Matthew Rix,0
 Clackamas,103 & 104,U.S. House,5,LIB,Matthew Rix,66
 Clackamas,105,U.S. House,5,LIB,Matthew Rix,23
@@ -2203,24 +2203,24 @@ Clackamas,510,U.S. House,5,LIB,Matthew Rix,35
 Clackamas,511,U.S. House,5,LIB,Matthew Rix,69
 Clackamas,512,U.S. House,5,LIB,Matthew Rix,42
 Clackamas,519,U.S. House,5,LIB,Matthew Rix,17
-Clackamas,2,U.S. House,5,REP,Amy Ryan Courser,1941
-Clackamas,3,U.S. House,5,REP,Amy Ryan Courser,2841
-Clackamas,4,U.S. House,5,REP,Amy Ryan Courser,120
-Clackamas,5,U.S. House,5,REP,Amy Ryan Courser,1201
-Clackamas,6,U.S. House,5,REP,Amy Ryan Courser,2431
+Clackamas,002,U.S. House,5,REP,Amy Ryan Courser,1941
+Clackamas,003,U.S. House,5,REP,Amy Ryan Courser,2841
+Clackamas,004,U.S. House,5,REP,Amy Ryan Courser,120
+Clackamas,005,U.S. House,5,REP,Amy Ryan Courser,1201
+Clackamas,006,U.S. House,5,REP,Amy Ryan Courser,2431
 Clackamas,007 & 010,U.S. House,5,REP,Amy Ryan Courser,650
-Clackamas,31,U.S. House,5,REP,Amy Ryan Courser,996
-Clackamas,32,U.S. House,5,REP,Amy Ryan Courser,1576
-Clackamas,33,U.S. House,5,REP,Amy Ryan Courser,222
-Clackamas,40,U.S. House,5,REP,Amy Ryan Courser,123
-Clackamas,51,U.S. House,5,REP,Amy Ryan Courser,18
-Clackamas,52,U.S. House,5,REP,Amy Ryan Courser,190
-Clackamas,53,U.S. House,5,REP,Amy Ryan Courser,1764
-Clackamas,55,U.S. House,5,REP,Amy Ryan Courser,1834
+Clackamas,031,U.S. House,5,REP,Amy Ryan Courser,996
+Clackamas,032,U.S. House,5,REP,Amy Ryan Courser,1576
+Clackamas,033,U.S. House,5,REP,Amy Ryan Courser,222
+Clackamas,040,U.S. House,5,REP,Amy Ryan Courser,123
+Clackamas,051,U.S. House,5,REP,Amy Ryan Courser,18
+Clackamas,052,U.S. House,5,REP,Amy Ryan Courser,190
+Clackamas,053,U.S. House,5,REP,Amy Ryan Courser,1764
+Clackamas,055,U.S. House,5,REP,Amy Ryan Courser,1834
 Clackamas,070 & 071,U.S. House,5,REP,Amy Ryan Courser,35
-Clackamas,72,U.S. House,5,REP,Amy Ryan Courser,39
-Clackamas,73,U.S. House,5,REP,Amy Ryan Courser,75
-Clackamas,74,U.S. House,5,REP,Amy Ryan Courser,31
+Clackamas,072,U.S. House,5,REP,Amy Ryan Courser,39
+Clackamas,073,U.S. House,5,REP,Amy Ryan Courser,75
+Clackamas,074,U.S. House,5,REP,Amy Ryan Courser,31
 Clackamas,099 & 100,U.S. House,5,REP,Amy Ryan Courser,1
 Clackamas,103 & 104,U.S. House,5,REP,Amy Ryan Courser,1656
 Clackamas,105,U.S. House,5,REP,Amy Ryan Courser,499
@@ -2283,24 +2283,24 @@ Clackamas,510,U.S. House,5,REP,Amy Ryan Courser,493
 Clackamas,511,U.S. House,5,REP,Amy Ryan Courser,1513
 Clackamas,512,U.S. House,5,REP,Amy Ryan Courser,719
 Clackamas,519,U.S. House,5,REP,Amy Ryan Courser,480
-Clackamas,2,U.S. House,5,DEM,Kurt Schrader,2895
-Clackamas,3,U.S. House,5,DEM,Kurt Schrader,3410
-Clackamas,4,U.S. House,5,DEM,Kurt Schrader,135
-Clackamas,5,U.S. House,5,DEM,Kurt Schrader,1198
-Clackamas,6,U.S. House,5,DEM,Kurt Schrader,2223
+Clackamas,002,U.S. House,5,DEM,Kurt Schrader,2895
+Clackamas,003,U.S. House,5,DEM,Kurt Schrader,3410
+Clackamas,004,U.S. House,5,DEM,Kurt Schrader,135
+Clackamas,005,U.S. House,5,DEM,Kurt Schrader,1198
+Clackamas,006,U.S. House,5,DEM,Kurt Schrader,2223
 Clackamas,007 & 010,U.S. House,5,DEM,Kurt Schrader,763
-Clackamas,31,U.S. House,5,DEM,Kurt Schrader,1389
-Clackamas,32,U.S. House,5,DEM,Kurt Schrader,2092
-Clackamas,33,U.S. House,5,DEM,Kurt Schrader,328
-Clackamas,40,U.S. House,5,DEM,Kurt Schrader,142
-Clackamas,51,U.S. House,5,DEM,Kurt Schrader,55
-Clackamas,52,U.S. House,5,DEM,Kurt Schrader,469
-Clackamas,53,U.S. House,5,DEM,Kurt Schrader,4651
-Clackamas,55,U.S. House,5,DEM,Kurt Schrader,3665
+Clackamas,031,U.S. House,5,DEM,Kurt Schrader,1389
+Clackamas,032,U.S. House,5,DEM,Kurt Schrader,2092
+Clackamas,033,U.S. House,5,DEM,Kurt Schrader,328
+Clackamas,040,U.S. House,5,DEM,Kurt Schrader,142
+Clackamas,051,U.S. House,5,DEM,Kurt Schrader,55
+Clackamas,052,U.S. House,5,DEM,Kurt Schrader,469
+Clackamas,053,U.S. House,5,DEM,Kurt Schrader,4651
+Clackamas,055,U.S. House,5,DEM,Kurt Schrader,3665
 Clackamas,070 & 071,U.S. House,5,DEM,Kurt Schrader,119
-Clackamas,72,U.S. House,5,DEM,Kurt Schrader,65
-Clackamas,73,U.S. House,5,DEM,Kurt Schrader,114
-Clackamas,74,U.S. House,5,DEM,Kurt Schrader,17
+Clackamas,072,U.S. House,5,DEM,Kurt Schrader,65
+Clackamas,073,U.S. House,5,DEM,Kurt Schrader,114
+Clackamas,074,U.S. House,5,DEM,Kurt Schrader,17
 Clackamas,099 & 100,U.S. House,5,DEM,Kurt Schrader,0
 Clackamas,103 & 104,U.S. House,5,DEM,Kurt Schrader,1780
 Clackamas,105,U.S. House,5,DEM,Kurt Schrader,560
@@ -2363,104 +2363,104 @@ Clackamas,510,U.S. House,5,DEM,Kurt Schrader,423
 Clackamas,511,U.S. House,5,DEM,Kurt Schrader,928
 Clackamas,512,U.S. House,5,DEM,Kurt Schrader,708
 Clackamas,519,U.S. House,5,DEM,Kurt Schrader,300
-Clackamas,2,U.S. House,5,WRI,write-in,10
-Clackamas,3,U.S. House,5,WRI,write-in,14
-Clackamas,4,U.S. House,5,WRI,write-in,0
-Clackamas,5,U.S. House,5,WRI,write-in,3
-Clackamas,6,U.S. House,5,WRI,write-in,3
-Clackamas,007 & 010,U.S. House,5,WRI,write-in,2
-Clackamas,31,U.S. House,5,WRI,write-in,2
-Clackamas,32,U.S. House,5,WRI,write-in,12
-Clackamas,33,U.S. House,5,WRI,write-in,0
-Clackamas,40,U.S. House,5,WRI,write-in,0
-Clackamas,51,U.S. House,5,WRI,write-in,0
-Clackamas,52,U.S. House,5,WRI,write-in,2
-Clackamas,53,U.S. House,5,WRI,write-in,33
-Clackamas,55,U.S. House,5,WRI,write-in,8
-Clackamas,070 & 071,U.S. House,5,WRI,write-in,0
-Clackamas,72,U.S. House,5,WRI,write-in,0
-Clackamas,73,U.S. House,5,WRI,write-in,0
-Clackamas,74,U.S. House,5,WRI,write-in,0
-Clackamas,099 & 100,U.S. House,5,WRI,write-in,0
-Clackamas,103 & 104,U.S. House,5,WRI,write-in,5
-Clackamas,105,U.S. House,5,WRI,write-in,3
-Clackamas,111,U.S. House,5,WRI,write-in,10
-Clackamas,122,U.S. House,5,WRI,write-in,4
-Clackamas,124,U.S. House,5,WRI,write-in,5
-Clackamas,125,U.S. House,5,WRI,write-in,1
-Clackamas,127,U.S. House,5,WRI,write-in,0
-Clackamas,131,U.S. House,5,WRI,write-in,11
-Clackamas,132,U.S. House,5,WRI,write-in,3
-Clackamas,133,U.S. House,5,WRI,write-in,5
-Clackamas,134,U.S. House,5,WRI,write-in,0
-Clackamas,135,U.S. House,5,WRI,write-in,5
-Clackamas,151,U.S. House,5,WRI,write-in,3
-Clackamas,153,U.S. House,5,WRI,write-in,12
-Clackamas,154,U.S. House,5,WRI,write-in,0
-Clackamas,155,U.S. House,5,WRI,write-in,0
-Clackamas,156,U.S. House,5,WRI,write-in,14
-Clackamas,157,U.S. House,5,WRI,write-in,1
-Clackamas,159,U.S. House,5,WRI,write-in,13
-Clackamas,160,U.S. House,5,WRI,write-in,0
-Clackamas,201,U.S. House,5,WRI,write-in,3
-Clackamas,202,U.S. House,5,WRI,write-in,9
-Clackamas,203,U.S. House,5,WRI,write-in,0
-Clackamas,204,U.S. House,5,WRI,write-in,2
-Clackamas,251 & 252,U.S. House,5,WRI,write-in,2
-Clackamas,280,U.S. House,5,WRI,write-in,2
-Clackamas,281,U.S. House,5,WRI,write-in,1
-Clackamas,282,U.S. House,5,WRI,write-in,1
-Clackamas,283,U.S. House,5,WRI,write-in,0
-Clackamas,284,U.S. House,5,WRI,write-in,0
-Clackamas,320,U.S. House,5,WRI,write-in,0
-Clackamas,321,U.S. House,5,WRI,write-in,4
-Clackamas,322,U.S. House,5,WRI,write-in,2
-Clackamas,323,U.S. House,5,WRI,write-in,1
-Clackamas,330,U.S. House,5,WRI,write-in,8
-Clackamas,331,U.S. House,5,WRI,write-in,0
-Clackamas,332,U.S. House,5,WRI,write-in,0
-Clackamas,333,U.S. House,5,WRI,write-in,1
-Clackamas,351,U.S. House,5,WRI,write-in,5
-Clackamas,352,U.S. House,5,WRI,write-in,5
-Clackamas,359,U.S. House,5,WRI,write-in,0
-Clackamas,361 & 362,U.S. House,5,WRI,write-in,0
-Clackamas,410,U.S. House,5,WRI,write-in,1
-Clackamas,411,U.S. House,5,WRI,write-in,3
-Clackamas,413,U.S. House,5,WRI,write-in,3
-Clackamas,417 & 418,U.S. House,5,WRI,write-in,1
-Clackamas,419,U.S. House,5,WRI,write-in,1
-Clackamas,420,U.S. House,5,WRI,write-in,1
-Clackamas,421,U.S. House,5,WRI,write-in,4
-Clackamas,422,U.S. House,5,WRI,write-in,20
-Clackamas,500,U.S. House,5,WRI,write-in,0
-Clackamas,501,U.S. House,5,WRI,write-in,14
-Clackamas,502,U.S. House,5,WRI,write-in,17
-Clackamas,503,U.S. House,5,WRI,write-in,4
-Clackamas,504,U.S. House,5,WRI,write-in,13
-Clackamas,505,U.S. House,5,WRI,write-in,0
-Clackamas,506,U.S. House,5,WRI,write-in,3
-Clackamas,510,U.S. House,5,WRI,write-in,2
-Clackamas,511,U.S. House,5,WRI,write-in,2
-Clackamas,512,U.S. House,5,WRI,write-in,4
-Clackamas,519,U.S. House,5,WRI,write-in,0
-Clackamas,2,U.S. House,5,,Under Votes,264
-Clackamas,3,U.S. House,5,,Under Votes,345
-Clackamas,4,U.S. House,5,,Under Votes,17
-Clackamas,5,U.S. House,5,,Under Votes,141
-Clackamas,6,U.S. House,5,,Under Votes,246
+Clackamas,002,U.S. House,5,WRI,Write-ins,10
+Clackamas,003,U.S. House,5,WRI,Write-ins,14
+Clackamas,004,U.S. House,5,WRI,Write-ins,0
+Clackamas,005,U.S. House,5,WRI,Write-ins,3
+Clackamas,006,U.S. House,5,WRI,Write-ins,3
+Clackamas,007 & 010,U.S. House,5,WRI,Write-ins,2
+Clackamas,031,U.S. House,5,WRI,Write-ins,2
+Clackamas,032,U.S. House,5,WRI,Write-ins,12
+Clackamas,033,U.S. House,5,WRI,Write-ins,0
+Clackamas,040,U.S. House,5,WRI,Write-ins,0
+Clackamas,051,U.S. House,5,WRI,Write-ins,0
+Clackamas,052,U.S. House,5,WRI,Write-ins,2
+Clackamas,053,U.S. House,5,WRI,Write-ins,33
+Clackamas,055,U.S. House,5,WRI,Write-ins,8
+Clackamas,070 & 071,U.S. House,5,WRI,Write-ins,0
+Clackamas,072,U.S. House,5,WRI,Write-ins,0
+Clackamas,073,U.S. House,5,WRI,Write-ins,0
+Clackamas,074,U.S. House,5,WRI,Write-ins,0
+Clackamas,099 & 100,U.S. House,5,WRI,Write-ins,0
+Clackamas,103 & 104,U.S. House,5,WRI,Write-ins,5
+Clackamas,105,U.S. House,5,WRI,Write-ins,3
+Clackamas,111,U.S. House,5,WRI,Write-ins,10
+Clackamas,122,U.S. House,5,WRI,Write-ins,4
+Clackamas,124,U.S. House,5,WRI,Write-ins,5
+Clackamas,125,U.S. House,5,WRI,Write-ins,1
+Clackamas,127,U.S. House,5,WRI,Write-ins,0
+Clackamas,131,U.S. House,5,WRI,Write-ins,11
+Clackamas,132,U.S. House,5,WRI,Write-ins,3
+Clackamas,133,U.S. House,5,WRI,Write-ins,5
+Clackamas,134,U.S. House,5,WRI,Write-ins,0
+Clackamas,135,U.S. House,5,WRI,Write-ins,5
+Clackamas,151,U.S. House,5,WRI,Write-ins,3
+Clackamas,153,U.S. House,5,WRI,Write-ins,12
+Clackamas,154,U.S. House,5,WRI,Write-ins,0
+Clackamas,155,U.S. House,5,WRI,Write-ins,0
+Clackamas,156,U.S. House,5,WRI,Write-ins,14
+Clackamas,157,U.S. House,5,WRI,Write-ins,1
+Clackamas,159,U.S. House,5,WRI,Write-ins,13
+Clackamas,160,U.S. House,5,WRI,Write-ins,0
+Clackamas,201,U.S. House,5,WRI,Write-ins,3
+Clackamas,202,U.S. House,5,WRI,Write-ins,9
+Clackamas,203,U.S. House,5,WRI,Write-ins,0
+Clackamas,204,U.S. House,5,WRI,Write-ins,2
+Clackamas,251 & 252,U.S. House,5,WRI,Write-ins,2
+Clackamas,280,U.S. House,5,WRI,Write-ins,2
+Clackamas,281,U.S. House,5,WRI,Write-ins,1
+Clackamas,282,U.S. House,5,WRI,Write-ins,1
+Clackamas,283,U.S. House,5,WRI,Write-ins,0
+Clackamas,284,U.S. House,5,WRI,Write-ins,0
+Clackamas,320,U.S. House,5,WRI,Write-ins,0
+Clackamas,321,U.S. House,5,WRI,Write-ins,4
+Clackamas,322,U.S. House,5,WRI,Write-ins,2
+Clackamas,323,U.S. House,5,WRI,Write-ins,1
+Clackamas,330,U.S. House,5,WRI,Write-ins,8
+Clackamas,331,U.S. House,5,WRI,Write-ins,0
+Clackamas,332,U.S. House,5,WRI,Write-ins,0
+Clackamas,333,U.S. House,5,WRI,Write-ins,1
+Clackamas,351,U.S. House,5,WRI,Write-ins,5
+Clackamas,352,U.S. House,5,WRI,Write-ins,5
+Clackamas,359,U.S. House,5,WRI,Write-ins,0
+Clackamas,361 & 362,U.S. House,5,WRI,Write-ins,0
+Clackamas,410,U.S. House,5,WRI,Write-ins,1
+Clackamas,411,U.S. House,5,WRI,Write-ins,3
+Clackamas,413,U.S. House,5,WRI,Write-ins,3
+Clackamas,417 & 418,U.S. House,5,WRI,Write-ins,1
+Clackamas,419,U.S. House,5,WRI,Write-ins,1
+Clackamas,420,U.S. House,5,WRI,Write-ins,1
+Clackamas,421,U.S. House,5,WRI,Write-ins,4
+Clackamas,422,U.S. House,5,WRI,Write-ins,20
+Clackamas,500,U.S. House,5,WRI,Write-ins,0
+Clackamas,501,U.S. House,5,WRI,Write-ins,14
+Clackamas,502,U.S. House,5,WRI,Write-ins,17
+Clackamas,503,U.S. House,5,WRI,Write-ins,4
+Clackamas,504,U.S. House,5,WRI,Write-ins,13
+Clackamas,505,U.S. House,5,WRI,Write-ins,0
+Clackamas,506,U.S. House,5,WRI,Write-ins,3
+Clackamas,510,U.S. House,5,WRI,Write-ins,2
+Clackamas,511,U.S. House,5,WRI,Write-ins,2
+Clackamas,512,U.S. House,5,WRI,Write-ins,4
+Clackamas,519,U.S. House,5,WRI,Write-ins,0
+Clackamas,002,U.S. House,5,,Under Votes,264
+Clackamas,003,U.S. House,5,,Under Votes,345
+Clackamas,004,U.S. House,5,,Under Votes,17
+Clackamas,005,U.S. House,5,,Under Votes,141
+Clackamas,006,U.S. House,5,,Under Votes,246
 Clackamas,007 & 010,U.S. House,5,,Under Votes,98
-Clackamas,31,U.S. House,5,,Under Votes,145
-Clackamas,32,U.S. House,5,,Under Votes,244
-Clackamas,33,U.S. House,5,,Under Votes,21
-Clackamas,40,U.S. House,5,,Under Votes,11
-Clackamas,51,U.S. House,5,,Under Votes,2
-Clackamas,52,U.S. House,5,,Under Votes,29
-Clackamas,53,U.S. House,5,,Under Votes,354
-Clackamas,55,U.S. House,5,,Under Votes,281
+Clackamas,031,U.S. House,5,,Under Votes,145
+Clackamas,032,U.S. House,5,,Under Votes,244
+Clackamas,033,U.S. House,5,,Under Votes,21
+Clackamas,040,U.S. House,5,,Under Votes,11
+Clackamas,051,U.S. House,5,,Under Votes,2
+Clackamas,052,U.S. House,5,,Under Votes,29
+Clackamas,053,U.S. House,5,,Under Votes,354
+Clackamas,055,U.S. House,5,,Under Votes,281
 Clackamas,070 & 071,U.S. House,5,,Under Votes,4
-Clackamas,72,U.S. House,5,,Under Votes,3
-Clackamas,73,U.S. House,5,,Under Votes,9
-Clackamas,74,U.S. House,5,,Under Votes,7
+Clackamas,072,U.S. House,5,,Under Votes,3
+Clackamas,073,U.S. House,5,,Under Votes,9
+Clackamas,074,U.S. House,5,,Under Votes,7
 Clackamas,099 & 100,U.S. House,5,,Under Votes,0
 Clackamas,103 & 104,U.S. House,5,,Under Votes,211
 Clackamas,105,U.S. House,5,,Under Votes,62
@@ -2523,24 +2523,24 @@ Clackamas,510,U.S. House,5,,Under Votes,41
 Clackamas,511,U.S. House,5,,Under Votes,107
 Clackamas,512,U.S. House,5,,Under Votes,69
 Clackamas,519,U.S. House,5,,Under Votes,29
-Clackamas,2,U.S. House,,,Over Votes,0
-Clackamas,3,U.S. House,,,Over Votes,0
-Clackamas,4,U.S. House,,,Over Votes,0
-Clackamas,5,U.S. House,,,Over Votes,0
-Clackamas,6,U.S. House,,,Over Votes,0
+Clackamas,002,U.S. House,,,Over Votes,0
+Clackamas,003,U.S. House,,,Over Votes,0
+Clackamas,004,U.S. House,,,Over Votes,0
+Clackamas,005,U.S. House,,,Over Votes,0
+Clackamas,006,U.S. House,,,Over Votes,0
 Clackamas,007 & 010,U.S. House,,,Over Votes,1
-Clackamas,31,U.S. House,,,Over Votes,3
-Clackamas,32,U.S. House,,,Over Votes,4
-Clackamas,33,U.S. House,,,Over Votes,0
-Clackamas,40,U.S. House,,,Over Votes,0
-Clackamas,51,U.S. House,,,Over Votes,0
-Clackamas,52,U.S. House,,,Over Votes,0
-Clackamas,53,U.S. House,,,Over Votes,2
-Clackamas,55,U.S. House,,,Over Votes,0
+Clackamas,031,U.S. House,,,Over Votes,3
+Clackamas,032,U.S. House,,,Over Votes,4
+Clackamas,033,U.S. House,,,Over Votes,0
+Clackamas,040,U.S. House,,,Over Votes,0
+Clackamas,051,U.S. House,,,Over Votes,0
+Clackamas,052,U.S. House,,,Over Votes,0
+Clackamas,053,U.S. House,,,Over Votes,2
+Clackamas,055,U.S. House,,,Over Votes,0
 Clackamas,070 & 071,U.S. House,,,Over Votes,0
-Clackamas,72,U.S. House,,,Over Votes,0
-Clackamas,73,U.S. House,,,Over Votes,0
-Clackamas,74,U.S. House,,,Over Votes,0
+Clackamas,072,U.S. House,,,Over Votes,0
+Clackamas,073,U.S. House,,,Over Votes,0
+Clackamas,074,U.S. House,,,Over Votes,0
 Clackamas,099 & 100,U.S. House,,,Over Votes,0
 Clackamas,103 & 104,U.S. House,,,Over Votes,1
 Clackamas,105,U.S. House,,,Over Votes,0
@@ -2603,24 +2603,24 @@ Clackamas,510,U.S. House,,,Over Votes,0
 Clackamas,511,U.S. House,,,Over Votes,1
 Clackamas,512,U.S. House,,,Over Votes,0
 Clackamas,519,U.S. House,,,Over Votes,0
-Clackamas,2,Secretary of State,,PAC,Nathalie Paravacini,226
-Clackamas,3,Secretary of State,,PAC,Nathalie Paravacini,215
-Clackamas,4,Secretary of State,,PAC,Nathalie Paravacini,9
-Clackamas,5,Secretary of State,,PAC,Nathalie Paravacini,96
-Clackamas,6,Secretary of State,,PAC,Nathalie Paravacini,103
+Clackamas,002,Secretary of State,,PAC,Nathalie Paravacini,226
+Clackamas,003,Secretary of State,,PAC,Nathalie Paravacini,215
+Clackamas,004,Secretary of State,,PAC,Nathalie Paravacini,9
+Clackamas,005,Secretary of State,,PAC,Nathalie Paravacini,96
+Clackamas,006,Secretary of State,,PAC,Nathalie Paravacini,103
 Clackamas,007 & 010,Secretary of State,,PAC,Nathalie Paravacini,63
-Clackamas,31,Secretary of State,,PAC,Nathalie Paravacini,94
-Clackamas,32,Secretary of State,,PAC,Nathalie Paravacini,151
-Clackamas,33,Secretary of State,,PAC,Nathalie Paravacini,21
-Clackamas,40,Secretary of State,,PAC,Nathalie Paravacini,12
-Clackamas,51,Secretary of State,,PAC,Nathalie Paravacini,12
-Clackamas,52,Secretary of State,,PAC,Nathalie Paravacini,39
-Clackamas,53,Secretary of State,,PAC,Nathalie Paravacini,359
-Clackamas,55,Secretary of State,,PAC,Nathalie Paravacini,260
+Clackamas,031,Secretary of State,,PAC,Nathalie Paravacini,94
+Clackamas,032,Secretary of State,,PAC,Nathalie Paravacini,151
+Clackamas,033,Secretary of State,,PAC,Nathalie Paravacini,21
+Clackamas,040,Secretary of State,,PAC,Nathalie Paravacini,12
+Clackamas,051,Secretary of State,,PAC,Nathalie Paravacini,12
+Clackamas,052,Secretary of State,,PAC,Nathalie Paravacini,39
+Clackamas,053,Secretary of State,,PAC,Nathalie Paravacini,359
+Clackamas,055,Secretary of State,,PAC,Nathalie Paravacini,260
 Clackamas,070 & 071,Secretary of State,,PAC,Nathalie Paravacini,1
-Clackamas,72,Secretary of State,,PAC,Nathalie Paravacini,2
-Clackamas,73,Secretary of State,,PAC,Nathalie Paravacini,7
-Clackamas,74,Secretary of State,,PAC,Nathalie Paravacini,0
+Clackamas,072,Secretary of State,,PAC,Nathalie Paravacini,2
+Clackamas,073,Secretary of State,,PAC,Nathalie Paravacini,7
+Clackamas,074,Secretary of State,,PAC,Nathalie Paravacini,0
 Clackamas,099 & 100,Secretary of State,,PAC,Nathalie Paravacini,6
 Clackamas,101,Secretary of State,,PAC,Nathalie Paravacini,187
 Clackamas,102,Secretary of State,,PAC,Nathalie Paravacini,15
@@ -2713,24 +2713,24 @@ Clackamas,516,Secretary of State,,PAC,Nathalie Paravacini,27
 Clackamas,517,Secretary of State,,PAC,Nathalie Paravacini,54
 Clackamas,518,Secretary of State,,PAC,Nathalie Paravacini,20
 Clackamas,519,Secretary of State,,PAC,Nathalie Paravacini,28
-Clackamas,2,Secretary of State,,LIB,Kyle Markley,164
-Clackamas,3,Secretary of State,,LIB,Kyle Markley,232
-Clackamas,4,Secretary of State,,LIB,Kyle Markley,5
-Clackamas,5,Secretary of State,,LIB,Kyle Markley,75
-Clackamas,6,Secretary of State,,LIB,Kyle Markley,122
+Clackamas,002,Secretary of State,,LIB,Kyle Markley,164
+Clackamas,003,Secretary of State,,LIB,Kyle Markley,232
+Clackamas,004,Secretary of State,,LIB,Kyle Markley,5
+Clackamas,005,Secretary of State,,LIB,Kyle Markley,75
+Clackamas,006,Secretary of State,,LIB,Kyle Markley,122
 Clackamas,007 & 010,Secretary of State,,LIB,Kyle Markley,60
-Clackamas,31,Secretary of State,,LIB,Kyle Markley,102
-Clackamas,32,Secretary of State,,LIB,Kyle Markley,129
-Clackamas,33,Secretary of State,,LIB,Kyle Markley,25
-Clackamas,40,Secretary of State,,LIB,Kyle Markley,7
-Clackamas,51,Secretary of State,,LIB,Kyle Markley,7
-Clackamas,52,Secretary of State,,LIB,Kyle Markley,17
-Clackamas,53,Secretary of State,,LIB,Kyle Markley,195
-Clackamas,55,Secretary of State,,LIB,Kyle Markley,157
+Clackamas,031,Secretary of State,,LIB,Kyle Markley,102
+Clackamas,032,Secretary of State,,LIB,Kyle Markley,129
+Clackamas,033,Secretary of State,,LIB,Kyle Markley,25
+Clackamas,040,Secretary of State,,LIB,Kyle Markley,7
+Clackamas,051,Secretary of State,,LIB,Kyle Markley,7
+Clackamas,052,Secretary of State,,LIB,Kyle Markley,17
+Clackamas,053,Secretary of State,,LIB,Kyle Markley,195
+Clackamas,055,Secretary of State,,LIB,Kyle Markley,157
 Clackamas,070 & 071,Secretary of State,,LIB,Kyle Markley,3
-Clackamas,72,Secretary of State,,LIB,Kyle Markley,5
-Clackamas,73,Secretary of State,,LIB,Kyle Markley,4
-Clackamas,74,Secretary of State,,LIB,Kyle Markley,1
+Clackamas,072,Secretary of State,,LIB,Kyle Markley,5
+Clackamas,073,Secretary of State,,LIB,Kyle Markley,4
+Clackamas,074,Secretary of State,,LIB,Kyle Markley,1
 Clackamas,099 & 100,Secretary of State,,LIB,Kyle Markley,13
 Clackamas,101,Secretary of State,,LIB,Kyle Markley,153
 Clackamas,102,Secretary of State,,LIB,Kyle Markley,20
@@ -2823,24 +2823,24 @@ Clackamas,516,Secretary of State,,LIB,Kyle Markley,10
 Clackamas,517,Secretary of State,,LIB,Kyle Markley,30
 Clackamas,518,Secretary of State,,LIB,Kyle Markley,29
 Clackamas,519,Secretary of State,,LIB,Kyle Markley,16
-Clackamas,2,Secretary of State,,REP,Kim Thatcher,2014
-Clackamas,3,Secretary of State,,REP,Kim Thatcher,2935
-Clackamas,4,Secretary of State,,REP,Kim Thatcher,125
-Clackamas,5,Secretary of State,,REP,Kim Thatcher,1218
-Clackamas,6,Secretary of State,,REP,Kim Thatcher,2508
+Clackamas,002,Secretary of State,,REP,Kim Thatcher,2014
+Clackamas,003,Secretary of State,,REP,Kim Thatcher,2935
+Clackamas,004,Secretary of State,,REP,Kim Thatcher,125
+Clackamas,005,Secretary of State,,REP,Kim Thatcher,1218
+Clackamas,006,Secretary of State,,REP,Kim Thatcher,2508
 Clackamas,007 & 010,Secretary of State,,REP,Kim Thatcher,663
-Clackamas,31,Secretary of State,,REP,Kim Thatcher,1049
-Clackamas,32,Secretary of State,,REP,Kim Thatcher,1625
-Clackamas,33,Secretary of State,,REP,Kim Thatcher,222
-Clackamas,40,Secretary of State,,REP,Kim Thatcher,127
-Clackamas,51,Secretary of State,,REP,Kim Thatcher,16
-Clackamas,52,Secretary of State,,REP,Kim Thatcher,204
-Clackamas,53,Secretary of State,,REP,Kim Thatcher,1803
-Clackamas,55,Secretary of State,,REP,Kim Thatcher,1889
+Clackamas,031,Secretary of State,,REP,Kim Thatcher,1049
+Clackamas,032,Secretary of State,,REP,Kim Thatcher,1625
+Clackamas,033,Secretary of State,,REP,Kim Thatcher,222
+Clackamas,040,Secretary of State,,REP,Kim Thatcher,127
+Clackamas,051,Secretary of State,,REP,Kim Thatcher,16
+Clackamas,052,Secretary of State,,REP,Kim Thatcher,204
+Clackamas,053,Secretary of State,,REP,Kim Thatcher,1803
+Clackamas,055,Secretary of State,,REP,Kim Thatcher,1889
 Clackamas,070 & 071,Secretary of State,,REP,Kim Thatcher,51
-Clackamas,72,Secretary of State,,REP,Kim Thatcher,34
-Clackamas,73,Secretary of State,,REP,Kim Thatcher,83
-Clackamas,74,Secretary of State,,REP,Kim Thatcher,35
+Clackamas,072,Secretary of State,,REP,Kim Thatcher,34
+Clackamas,073,Secretary of State,,REP,Kim Thatcher,83
+Clackamas,074,Secretary of State,,REP,Kim Thatcher,35
 Clackamas,099 & 100,Secretary of State,,REP,Kim Thatcher,214
 Clackamas,101,Secretary of State,,REP,Kim Thatcher,3279
 Clackamas,102,Secretary of State,,REP,Kim Thatcher,315
@@ -2933,24 +2933,24 @@ Clackamas,516,Secretary of State,,REP,Kim Thatcher,567
 Clackamas,517,Secretary of State,,REP,Kim Thatcher,1171
 Clackamas,518,Secretary of State,,REP,Kim Thatcher,421
 Clackamas,519,Secretary of State,,REP,Kim Thatcher,489
-Clackamas,2,Secretary of State,,DEM,Shemia Fagan,2579
-Clackamas,3,Secretary of State,,DEM,Shemia Fagan,3026
-Clackamas,4,Secretary of State,,DEM,Shemia Fagan,120
-Clackamas,5,Secretary of State,,DEM,Shemia Fagan,1077
-Clackamas,6,Secretary of State,,DEM,Shemia Fagan,1981
+Clackamas,002,Secretary of State,,DEM,Shemia Fagan,2579
+Clackamas,003,Secretary of State,,DEM,Shemia Fagan,3026
+Clackamas,004,Secretary of State,,DEM,Shemia Fagan,120
+Clackamas,005,Secretary of State,,DEM,Shemia Fagan,1077
+Clackamas,006,Secretary of State,,DEM,Shemia Fagan,1981
 Clackamas,007 & 010,Secretary of State,,DEM,Shemia Fagan,703
-Clackamas,31,Secretary of State,,DEM,Shemia Fagan,1214
-Clackamas,32,Secretary of State,,DEM,Shemia Fagan,1874
-Clackamas,33,Secretary of State,,DEM,Shemia Fagan,297
-Clackamas,40,Secretary of State,,DEM,Shemia Fagan,131
-Clackamas,51,Secretary of State,,DEM,Shemia Fagan,46
-Clackamas,52,Secretary of State,,DEM,Shemia Fagan,429
-Clackamas,53,Secretary of State,,DEM,Shemia Fagan,4272
-Clackamas,55,Secretary of State,,DEM,Shemia Fagan,3368
+Clackamas,031,Secretary of State,,DEM,Shemia Fagan,1214
+Clackamas,032,Secretary of State,,DEM,Shemia Fagan,1874
+Clackamas,033,Secretary of State,,DEM,Shemia Fagan,297
+Clackamas,040,Secretary of State,,DEM,Shemia Fagan,131
+Clackamas,051,Secretary of State,,DEM,Shemia Fagan,46
+Clackamas,052,Secretary of State,,DEM,Shemia Fagan,429
+Clackamas,053,Secretary of State,,DEM,Shemia Fagan,4272
+Clackamas,055,Secretary of State,,DEM,Shemia Fagan,3368
 Clackamas,070 & 071,Secretary of State,,DEM,Shemia Fagan,101
-Clackamas,72,Secretary of State,,DEM,Shemia Fagan,62
-Clackamas,73,Secretary of State,,DEM,Shemia Fagan,97
-Clackamas,74,Secretary of State,,DEM,Shemia Fagan,16
+Clackamas,072,Secretary of State,,DEM,Shemia Fagan,62
+Clackamas,073,Secretary of State,,DEM,Shemia Fagan,97
+Clackamas,074,Secretary of State,,DEM,Shemia Fagan,16
 Clackamas,099 & 100,Secretary of State,,DEM,Shemia Fagan,172
 Clackamas,101,Secretary of State,,DEM,Shemia Fagan,3284
 Clackamas,102,Secretary of State,,DEM,Shemia Fagan,335
@@ -3043,134 +3043,134 @@ Clackamas,516,Secretary of State,,DEM,Shemia Fagan,309
 Clackamas,517,Secretary of State,,DEM,Shemia Fagan,540
 Clackamas,518,Secretary of State,,DEM,Shemia Fagan,226
 Clackamas,519,Secretary of State,,DEM,Shemia Fagan,252
-Clackamas,2,Secretary of State,,WRI,Write-in,7
-Clackamas,3,Secretary of State,,WRI,Write-in,7
-Clackamas,4,Secretary of State,,WRI,Write-in,0
-Clackamas,5,Secretary of State,,WRI,Write-in,1
-Clackamas,6,Secretary of State,,WRI,Write-in,2
-Clackamas,007 & 010,Secretary of State,,WRI,Write-in,0
-Clackamas,31,Secretary of State,,WRI,Write-in,2
-Clackamas,32,Secretary of State,,WRI,Write-in,3
-Clackamas,33,Secretary of State,,WRI,Write-in,0
-Clackamas,40,Secretary of State,,WRI,Write-in,0
-Clackamas,51,Secretary of State,,WRI,Write-in,0
-Clackamas,52,Secretary of State,,WRI,Write-in,0
-Clackamas,53,Secretary of State,,WRI,Write-in,6
-Clackamas,55,Secretary of State,,WRI,Write-in,6
-Clackamas,070 & 071,Secretary of State,,WRI,Write-in,0
-Clackamas,72,Secretary of State,,WRI,Write-in,0
-Clackamas,73,Secretary of State,,WRI,Write-in,0
-Clackamas,74,Secretary of State,,WRI,Write-in,0
-Clackamas,099 & 100,Secretary of State,,WRI,Write-in,0
-Clackamas,101,Secretary of State,,WRI,Write-in,3
-Clackamas,102,Secretary of State,,WRI,Write-in,0
-Clackamas,103 & 104,Secretary of State,,WRI,Write-in,0
-Clackamas,105,Secretary of State,,WRI,Write-in,1
-Clackamas,106,Secretary of State,,WRI,Write-in,1
-Clackamas,107,Secretary of State,,WRI,Write-in,1
-Clackamas,108,Secretary of State,,WRI,Write-in,3
-Clackamas,111,Secretary of State,,WRI,Write-in,8
-Clackamas,122,Secretary of State,,WRI,Write-in,1
-Clackamas,124,Secretary of State,,WRI,Write-in,1
-Clackamas,125,Secretary of State,,WRI,Write-in,1
-Clackamas,127,Secretary of State,,WRI,Write-in,0
-Clackamas,131,Secretary of State,,WRI,Write-in,8
-Clackamas,132,Secretary of State,,WRI,Write-in,3
-Clackamas,133,Secretary of State,,WRI,Write-in,1
-Clackamas,134,Secretary of State,,WRI,Write-in,0
-Clackamas,135,Secretary of State,,WRI,Write-in,1
-Clackamas,151,Secretary of State,,WRI,Write-in,1
-Clackamas,153,Secretary of State,,WRI,Write-in,5
-Clackamas,154,Secretary of State,,WRI,Write-in,0
-Clackamas,155,Secretary of State,,WRI,Write-in,0
-Clackamas,156,Secretary of State,,WRI,Write-in,7
-Clackamas,157,Secretary of State,,WRI,Write-in,0
-Clackamas,159,Secretary of State,,WRI,Write-in,8
-Clackamas,160,Secretary of State,,WRI,Write-in,3
-Clackamas,201,Secretary of State,,WRI,Write-in,2
-Clackamas,202,Secretary of State,,WRI,Write-in,6
-Clackamas,203,Secretary of State,,WRI,Write-in,0
-Clackamas,204,Secretary of State,,WRI,Write-in,1
-Clackamas,251 & 252,Secretary of State,,WRI,Write-in,0
-Clackamas,280,Secretary of State,,WRI,Write-in,0
-Clackamas,281,Secretary of State,,WRI,Write-in,1
-Clackamas,282,Secretary of State,,WRI,Write-in,1
-Clackamas,283,Secretary of State,,WRI,Write-in,0
-Clackamas,284,Secretary of State,,WRI,Write-in,0
-Clackamas,320,Secretary of State,,WRI,Write-in,0
-Clackamas,321,Secretary of State,,WRI,Write-in,0
-Clackamas,322,Secretary of State,,WRI,Write-in,0
-Clackamas,323,Secretary of State,,WRI,Write-in,0
-Clackamas,330,Secretary of State,,WRI,Write-in,4
-Clackamas,331,Secretary of State,,WRI,Write-in,0
-Clackamas,332,Secretary of State,,WRI,Write-in,0
-Clackamas,333,Secretary of State,,WRI,Write-in,0
-Clackamas,350,Secretary of State,,WRI,Write-in,1
-Clackamas,351,Secretary of State,,WRI,Write-in,0
-Clackamas,352,Secretary of State,,WRI,Write-in,2
-Clackamas,359,Secretary of State,,WRI,Write-in,0
-Clackamas,360,Secretary of State,,WRI,Write-in,2
-Clackamas,361 & 362,Secretary of State,,WRI,Write-in,1
-Clackamas,363,Secretary of State,,WRI,Write-in,1
-Clackamas,364,Secretary of State,,WRI,Write-in,2
-Clackamas,370,Secretary of State,,WRI,Write-in,1
-Clackamas,371,Secretary of State,,WRI,Write-in,1
-Clackamas,372,Secretary of State,,WRI,Write-in,2
-Clackamas,373,Secretary of State,,WRI,Write-in,2
-Clackamas,400,Secretary of State,,WRI,Write-in,0
-Clackamas,401,Secretary of State,,WRI,Write-in,0
-Clackamas,402,Secretary of State,,WRI,Write-in,0
-Clackamas,403,Secretary of State,,WRI,Write-in,0
-Clackamas,404,Secretary of State,,WRI,Write-in,3
-Clackamas,405,Secretary of State,,WRI,Write-in,1
-Clackamas,406,Secretary of State,,WRI,Write-in,0
-Clackamas,410,Secretary of State,,WRI,Write-in,3
-Clackamas,411,Secretary of State,,WRI,Write-in,5
-Clackamas,412,Secretary of State,,WRI,Write-in,1
-Clackamas,413,Secretary of State,,WRI,Write-in,2
-Clackamas,414,Secretary of State,,WRI,Write-in,0
-Clackamas,415,Secretary of State,,WRI,Write-in,0
-Clackamas,416,Secretary of State,,WRI,Write-in,2
-Clackamas,417 & 418,Secretary of State,,WRI,Write-in,3
-Clackamas,419,Secretary of State,,WRI,Write-in,1
-Clackamas,420,Secretary of State,,WRI,Write-in,0
-Clackamas,421,Secretary of State,,WRI,Write-in,1
-Clackamas,422,Secretary of State,,WRI,Write-in,12
-Clackamas,500,Secretary of State,,WRI,Write-in,0
-Clackamas,501,Secretary of State,,WRI,Write-in,3
-Clackamas,502,Secretary of State,,WRI,Write-in,9
-Clackamas,503,Secretary of State,,WRI,Write-in,2
-Clackamas,504,Secretary of State,,WRI,Write-in,7
-Clackamas,505,Secretary of State,,WRI,Write-in,0
-Clackamas,506,Secretary of State,,WRI,Write-in,2
-Clackamas,510,Secretary of State,,WRI,Write-in,0
-Clackamas,511,Secretary of State,,WRI,Write-in,4
-Clackamas,512,Secretary of State,,WRI,Write-in,4
-Clackamas,513,Secretary of State,,WRI,Write-in,0
-Clackamas,514,Secretary of State,,WRI,Write-in,8
-Clackamas,515,Secretary of State,,WRI,Write-in,0
-Clackamas,516,Secretary of State,,WRI,Write-in,1
-Clackamas,517,Secretary of State,,WRI,Write-in,3
-Clackamas,518,Secretary of State,,WRI,Write-in,1
-Clackamas,519,Secretary of State,,WRI,Write-in,1
-Clackamas,2,Secretary of State,,,Under Votes,285
-Clackamas,3,Secretary of State,,,Under Votes,400
-Clackamas,4,Secretary of State,,,Under Votes,18
-Clackamas,5,Secretary of State,,,Under Votes,152
-Clackamas,6,Secretary of State,,,Under Votes,290
+Clackamas,002,Secretary of State,,WRI,Write-ins,7
+Clackamas,003,Secretary of State,,WRI,Write-ins,7
+Clackamas,004,Secretary of State,,WRI,Write-ins,0
+Clackamas,005,Secretary of State,,WRI,Write-ins,1
+Clackamas,006,Secretary of State,,WRI,Write-ins,2
+Clackamas,007 & 010,Secretary of State,,WRI,Write-ins,0
+Clackamas,031,Secretary of State,,WRI,Write-ins,2
+Clackamas,032,Secretary of State,,WRI,Write-ins,3
+Clackamas,033,Secretary of State,,WRI,Write-ins,0
+Clackamas,040,Secretary of State,,WRI,Write-ins,0
+Clackamas,051,Secretary of State,,WRI,Write-ins,0
+Clackamas,052,Secretary of State,,WRI,Write-ins,0
+Clackamas,053,Secretary of State,,WRI,Write-ins,6
+Clackamas,055,Secretary of State,,WRI,Write-ins,6
+Clackamas,070 & 071,Secretary of State,,WRI,Write-ins,0
+Clackamas,072,Secretary of State,,WRI,Write-ins,0
+Clackamas,073,Secretary of State,,WRI,Write-ins,0
+Clackamas,074,Secretary of State,,WRI,Write-ins,0
+Clackamas,099 & 100,Secretary of State,,WRI,Write-ins,0
+Clackamas,101,Secretary of State,,WRI,Write-ins,3
+Clackamas,102,Secretary of State,,WRI,Write-ins,0
+Clackamas,103 & 104,Secretary of State,,WRI,Write-ins,0
+Clackamas,105,Secretary of State,,WRI,Write-ins,1
+Clackamas,106,Secretary of State,,WRI,Write-ins,1
+Clackamas,107,Secretary of State,,WRI,Write-ins,1
+Clackamas,108,Secretary of State,,WRI,Write-ins,3
+Clackamas,111,Secretary of State,,WRI,Write-ins,8
+Clackamas,122,Secretary of State,,WRI,Write-ins,1
+Clackamas,124,Secretary of State,,WRI,Write-ins,1
+Clackamas,125,Secretary of State,,WRI,Write-ins,1
+Clackamas,127,Secretary of State,,WRI,Write-ins,0
+Clackamas,131,Secretary of State,,WRI,Write-ins,8
+Clackamas,132,Secretary of State,,WRI,Write-ins,3
+Clackamas,133,Secretary of State,,WRI,Write-ins,1
+Clackamas,134,Secretary of State,,WRI,Write-ins,0
+Clackamas,135,Secretary of State,,WRI,Write-ins,1
+Clackamas,151,Secretary of State,,WRI,Write-ins,1
+Clackamas,153,Secretary of State,,WRI,Write-ins,5
+Clackamas,154,Secretary of State,,WRI,Write-ins,0
+Clackamas,155,Secretary of State,,WRI,Write-ins,0
+Clackamas,156,Secretary of State,,WRI,Write-ins,7
+Clackamas,157,Secretary of State,,WRI,Write-ins,0
+Clackamas,159,Secretary of State,,WRI,Write-ins,8
+Clackamas,160,Secretary of State,,WRI,Write-ins,3
+Clackamas,201,Secretary of State,,WRI,Write-ins,2
+Clackamas,202,Secretary of State,,WRI,Write-ins,6
+Clackamas,203,Secretary of State,,WRI,Write-ins,0
+Clackamas,204,Secretary of State,,WRI,Write-ins,1
+Clackamas,251 & 252,Secretary of State,,WRI,Write-ins,0
+Clackamas,280,Secretary of State,,WRI,Write-ins,0
+Clackamas,281,Secretary of State,,WRI,Write-ins,1
+Clackamas,282,Secretary of State,,WRI,Write-ins,1
+Clackamas,283,Secretary of State,,WRI,Write-ins,0
+Clackamas,284,Secretary of State,,WRI,Write-ins,0
+Clackamas,320,Secretary of State,,WRI,Write-ins,0
+Clackamas,321,Secretary of State,,WRI,Write-ins,0
+Clackamas,322,Secretary of State,,WRI,Write-ins,0
+Clackamas,323,Secretary of State,,WRI,Write-ins,0
+Clackamas,330,Secretary of State,,WRI,Write-ins,4
+Clackamas,331,Secretary of State,,WRI,Write-ins,0
+Clackamas,332,Secretary of State,,WRI,Write-ins,0
+Clackamas,333,Secretary of State,,WRI,Write-ins,0
+Clackamas,350,Secretary of State,,WRI,Write-ins,1
+Clackamas,351,Secretary of State,,WRI,Write-ins,0
+Clackamas,352,Secretary of State,,WRI,Write-ins,2
+Clackamas,359,Secretary of State,,WRI,Write-ins,0
+Clackamas,360,Secretary of State,,WRI,Write-ins,2
+Clackamas,361 & 362,Secretary of State,,WRI,Write-ins,1
+Clackamas,363,Secretary of State,,WRI,Write-ins,1
+Clackamas,364,Secretary of State,,WRI,Write-ins,2
+Clackamas,370,Secretary of State,,WRI,Write-ins,1
+Clackamas,371,Secretary of State,,WRI,Write-ins,1
+Clackamas,372,Secretary of State,,WRI,Write-ins,2
+Clackamas,373,Secretary of State,,WRI,Write-ins,2
+Clackamas,400,Secretary of State,,WRI,Write-ins,0
+Clackamas,401,Secretary of State,,WRI,Write-ins,0
+Clackamas,402,Secretary of State,,WRI,Write-ins,0
+Clackamas,403,Secretary of State,,WRI,Write-ins,0
+Clackamas,404,Secretary of State,,WRI,Write-ins,3
+Clackamas,405,Secretary of State,,WRI,Write-ins,1
+Clackamas,406,Secretary of State,,WRI,Write-ins,0
+Clackamas,410,Secretary of State,,WRI,Write-ins,3
+Clackamas,411,Secretary of State,,WRI,Write-ins,5
+Clackamas,412,Secretary of State,,WRI,Write-ins,1
+Clackamas,413,Secretary of State,,WRI,Write-ins,2
+Clackamas,414,Secretary of State,,WRI,Write-ins,0
+Clackamas,415,Secretary of State,,WRI,Write-ins,0
+Clackamas,416,Secretary of State,,WRI,Write-ins,2
+Clackamas,417 & 418,Secretary of State,,WRI,Write-ins,3
+Clackamas,419,Secretary of State,,WRI,Write-ins,1
+Clackamas,420,Secretary of State,,WRI,Write-ins,0
+Clackamas,421,Secretary of State,,WRI,Write-ins,1
+Clackamas,422,Secretary of State,,WRI,Write-ins,12
+Clackamas,500,Secretary of State,,WRI,Write-ins,0
+Clackamas,501,Secretary of State,,WRI,Write-ins,3
+Clackamas,502,Secretary of State,,WRI,Write-ins,9
+Clackamas,503,Secretary of State,,WRI,Write-ins,2
+Clackamas,504,Secretary of State,,WRI,Write-ins,7
+Clackamas,505,Secretary of State,,WRI,Write-ins,0
+Clackamas,506,Secretary of State,,WRI,Write-ins,2
+Clackamas,510,Secretary of State,,WRI,Write-ins,0
+Clackamas,511,Secretary of State,,WRI,Write-ins,4
+Clackamas,512,Secretary of State,,WRI,Write-ins,4
+Clackamas,513,Secretary of State,,WRI,Write-ins,0
+Clackamas,514,Secretary of State,,WRI,Write-ins,8
+Clackamas,515,Secretary of State,,WRI,Write-ins,0
+Clackamas,516,Secretary of State,,WRI,Write-ins,1
+Clackamas,517,Secretary of State,,WRI,Write-ins,3
+Clackamas,518,Secretary of State,,WRI,Write-ins,1
+Clackamas,519,Secretary of State,,WRI,Write-ins,1
+Clackamas,002,Secretary of State,,,Under Votes,285
+Clackamas,003,Secretary of State,,,Under Votes,400
+Clackamas,004,Secretary of State,,,Under Votes,18
+Clackamas,005,Secretary of State,,,Under Votes,152
+Clackamas,006,Secretary of State,,,Under Votes,290
 Clackamas,007 & 010,Secretary of State,,,Under Votes,107
-Clackamas,31,Secretary of State,,,Under Votes,164
-Clackamas,32,Secretary of State,,,Under Votes,275
-Clackamas,33,Secretary of State,,,Under Votes,29
-Clackamas,40,Secretary of State,,,Under Votes,11
-Clackamas,51,Secretary of State,,,Under Votes,2
-Clackamas,52,Secretary of State,,,Under Votes,33
-Clackamas,53,Secretary of State,,,Under Votes,378
-Clackamas,55,Secretary of State,,,Under Votes,292
+Clackamas,031,Secretary of State,,,Under Votes,164
+Clackamas,032,Secretary of State,,,Under Votes,275
+Clackamas,033,Secretary of State,,,Under Votes,29
+Clackamas,040,Secretary of State,,,Under Votes,11
+Clackamas,051,Secretary of State,,,Under Votes,2
+Clackamas,052,Secretary of State,,,Under Votes,33
+Clackamas,053,Secretary of State,,,Under Votes,378
+Clackamas,055,Secretary of State,,,Under Votes,292
 Clackamas,070 & 071,Secretary of State,,,Under Votes,4
-Clackamas,72,Secretary of State,,,Under Votes,4
-Clackamas,73,Secretary of State,,,Under Votes,13
-Clackamas,74,Secretary of State,,,Under Votes,6
+Clackamas,072,Secretary of State,,,Under Votes,4
+Clackamas,073,Secretary of State,,,Under Votes,13
+Clackamas,074,Secretary of State,,,Under Votes,6
 Clackamas,099 & 100,Secretary of State,,,Under Votes,28
 Clackamas,101,Secretary of State,,,Under Votes,444
 Clackamas,102,Secretary of State,,,Under Votes,52
@@ -3263,24 +3263,24 @@ Clackamas,516,Secretary of State,,,Under Votes,44
 Clackamas,517,Secretary of State,,,Under Votes,83
 Clackamas,518,Secretary of State,,,Under Votes,31
 Clackamas,519,Secretary of State,,,Under Votes,40
-Clackamas,2,Secretary of State,,,Over Votes,0
-Clackamas,3,Secretary of State,,,Over Votes,1
-Clackamas,4,Secretary of State,,,Over Votes,0
-Clackamas,5,Secretary of State,,,Over Votes,1
-Clackamas,6,Secretary of State,,,Over Votes,0
+Clackamas,002,Secretary of State,,,Over Votes,0
+Clackamas,003,Secretary of State,,,Over Votes,1
+Clackamas,004,Secretary of State,,,Over Votes,0
+Clackamas,005,Secretary of State,,,Over Votes,1
+Clackamas,006,Secretary of State,,,Over Votes,0
 Clackamas,007 & 010,Secretary of State,,,Over Votes,0
-Clackamas,31,Secretary of State,,,Over Votes,0
-Clackamas,32,Secretary of State,,,Over Votes,0
-Clackamas,33,Secretary of State,,,Over Votes,0
-Clackamas,40,Secretary of State,,,Over Votes,0
-Clackamas,51,Secretary of State,,,Over Votes,0
-Clackamas,52,Secretary of State,,,Over Votes,0
-Clackamas,53,Secretary of State,,,Over Votes,1
-Clackamas,55,Secretary of State,,,Over Votes,0
+Clackamas,031,Secretary of State,,,Over Votes,0
+Clackamas,032,Secretary of State,,,Over Votes,0
+Clackamas,033,Secretary of State,,,Over Votes,0
+Clackamas,040,Secretary of State,,,Over Votes,0
+Clackamas,051,Secretary of State,,,Over Votes,0
+Clackamas,052,Secretary of State,,,Over Votes,0
+Clackamas,053,Secretary of State,,,Over Votes,1
+Clackamas,055,Secretary of State,,,Over Votes,0
 Clackamas,070 & 071,Secretary of State,,,Over Votes,0
-Clackamas,72,Secretary of State,,,Over Votes,0
-Clackamas,73,Secretary of State,,,Over Votes,0
-Clackamas,74,Secretary of State,,,Over Votes,0
+Clackamas,072,Secretary of State,,,Over Votes,0
+Clackamas,073,Secretary of State,,,Over Votes,0
+Clackamas,074,Secretary of State,,,Over Votes,0
 Clackamas,099 & 100,Secretary of State,,,Over Votes,1
 Clackamas,101,Secretary of State,,,Over Votes,0
 Clackamas,102,Secretary of State,,,Over Votes,0
@@ -3373,24 +3373,24 @@ Clackamas,516,Secretary of State,,,Over Votes,0
 Clackamas,517,Secretary of State,,,Over Votes,0
 Clackamas,518,Secretary of State,,,Over Votes,0
 Clackamas,519,Secretary of State,,,Over Votes,0
-Clackamas,2,State Treasurer,,CON,Michael Marsh,132
-Clackamas,3,State Treasurer,,CON,Michael Marsh,152
-Clackamas,4,State Treasurer,,CON,Michael Marsh,3
-Clackamas,5,State Treasurer,,CON,Michael Marsh,63
-Clackamas,6,State Treasurer,,CON,Michael Marsh,108
+Clackamas,002,State Treasurer,,CON,Michael Marsh,132
+Clackamas,003,State Treasurer,,CON,Michael Marsh,152
+Clackamas,004,State Treasurer,,CON,Michael Marsh,3
+Clackamas,005,State Treasurer,,CON,Michael Marsh,63
+Clackamas,006,State Treasurer,,CON,Michael Marsh,108
 Clackamas,007 & 010,State Treasurer,,CON,Michael Marsh,36
-Clackamas,31,State Treasurer,,CON,Michael Marsh,78
-Clackamas,32,State Treasurer,,CON,Michael Marsh,112
-Clackamas,33,State Treasurer,,CON,Michael Marsh,12
-Clackamas,40,State Treasurer,,CON,Michael Marsh,5
-Clackamas,51,State Treasurer,,CON,Michael Marsh,2
-Clackamas,52,State Treasurer,,CON,Michael Marsh,11
-Clackamas,53,State Treasurer,,CON,Michael Marsh,113
-Clackamas,55,State Treasurer,,CON,Michael Marsh,98
+Clackamas,031,State Treasurer,,CON,Michael Marsh,78
+Clackamas,032,State Treasurer,,CON,Michael Marsh,112
+Clackamas,033,State Treasurer,,CON,Michael Marsh,12
+Clackamas,040,State Treasurer,,CON,Michael Marsh,5
+Clackamas,051,State Treasurer,,CON,Michael Marsh,2
+Clackamas,052,State Treasurer,,CON,Michael Marsh,11
+Clackamas,053,State Treasurer,,CON,Michael Marsh,113
+Clackamas,055,State Treasurer,,CON,Michael Marsh,98
 Clackamas,070 & 071,State Treasurer,,CON,Michael Marsh,0
-Clackamas,72,State Treasurer,,CON,Michael Marsh,3
-Clackamas,73,State Treasurer,,CON,Michael Marsh,2
-Clackamas,74,State Treasurer,,CON,Michael Marsh,0
+Clackamas,072,State Treasurer,,CON,Michael Marsh,3
+Clackamas,073,State Treasurer,,CON,Michael Marsh,2
+Clackamas,074,State Treasurer,,CON,Michael Marsh,0
 Clackamas,099 & 100,State Treasurer,,CON,Michael Marsh,7
 Clackamas,101,State Treasurer,,CON,Michael Marsh,131
 Clackamas,102,State Treasurer,,CON,Michael Marsh,18
@@ -3483,24 +3483,24 @@ Clackamas,516,State Treasurer,,CON,Michael Marsh,26
 Clackamas,517,State Treasurer,,CON,Michael Marsh,54
 Clackamas,518,State Treasurer,,CON,Michael Marsh,28
 Clackamas,519,State Treasurer,,CON,Michael Marsh,30
-Clackamas,2,State Treasurer,,DEM,Tobias Reed,2591
-Clackamas,3,State Treasurer,,DEM,Tobias Reed,3071
-Clackamas,4,State Treasurer,,DEM,Tobias Reed,122
-Clackamas,5,State Treasurer,,DEM,Tobias Reed,1105
-Clackamas,6,State Treasurer,,DEM,Tobias Reed,2025
+Clackamas,002,State Treasurer,,DEM,Tobias Reed,2591
+Clackamas,003,State Treasurer,,DEM,Tobias Reed,3071
+Clackamas,004,State Treasurer,,DEM,Tobias Reed,122
+Clackamas,005,State Treasurer,,DEM,Tobias Reed,1105
+Clackamas,006,State Treasurer,,DEM,Tobias Reed,2025
 Clackamas,007 & 010,State Treasurer,,DEM,Tobias Reed,726
-Clackamas,31,State Treasurer,,DEM,Tobias Reed,1253
-Clackamas,32,State Treasurer,,DEM,Tobias Reed,1923
-Clackamas,33,State Treasurer,,DEM,Tobias Reed,302
-Clackamas,40,State Treasurer,,DEM,Tobias Reed,137
-Clackamas,51,State Treasurer,,DEM,Tobias Reed,51
-Clackamas,52,State Treasurer,,DEM,Tobias Reed,414
-Clackamas,53,State Treasurer,,DEM,Tobias Reed,4273
-Clackamas,55,State Treasurer,,DEM,Tobias Reed,3376
+Clackamas,031,State Treasurer,,DEM,Tobias Reed,1253
+Clackamas,032,State Treasurer,,DEM,Tobias Reed,1923
+Clackamas,033,State Treasurer,,DEM,Tobias Reed,302
+Clackamas,040,State Treasurer,,DEM,Tobias Reed,137
+Clackamas,051,State Treasurer,,DEM,Tobias Reed,51
+Clackamas,052,State Treasurer,,DEM,Tobias Reed,414
+Clackamas,053,State Treasurer,,DEM,Tobias Reed,4273
+Clackamas,055,State Treasurer,,DEM,Tobias Reed,3376
 Clackamas,070 & 071,State Treasurer,,DEM,Tobias Reed,102
-Clackamas,72,State Treasurer,,DEM,Tobias Reed,61
-Clackamas,73,State Treasurer,,DEM,Tobias Reed,97
-Clackamas,74,State Treasurer,,DEM,Tobias Reed,14
+Clackamas,072,State Treasurer,,DEM,Tobias Reed,61
+Clackamas,073,State Treasurer,,DEM,Tobias Reed,97
+Clackamas,074,State Treasurer,,DEM,Tobias Reed,14
 Clackamas,099 & 100,State Treasurer,,DEM,Tobias Reed,179
 Clackamas,101,State Treasurer,,DEM,Tobias Reed,3279
 Clackamas,102,State Treasurer,,DEM,Tobias Reed,339
@@ -3593,24 +3593,24 @@ Clackamas,516,State Treasurer,,DEM,Tobias Reed,323
 Clackamas,517,State Treasurer,,DEM,Tobias Reed,555
 Clackamas,518,State Treasurer,,DEM,Tobias Reed,237
 Clackamas,519,State Treasurer,,DEM,Tobias Reed,263
-Clackamas,2,State Treasurer,,IND,Chris Henry,271
-Clackamas,3,State Treasurer,,IND,Chris Henry,301
-Clackamas,4,State Treasurer,,IND,Chris Henry,8
-Clackamas,5,State Treasurer,,IND,Chris Henry,117
-Clackamas,6,State Treasurer,,IND,Chris Henry,136
+Clackamas,002,State Treasurer,,IND,Chris Henry,271
+Clackamas,003,State Treasurer,,IND,Chris Henry,301
+Clackamas,004,State Treasurer,,IND,Chris Henry,8
+Clackamas,005,State Treasurer,,IND,Chris Henry,117
+Clackamas,006,State Treasurer,,IND,Chris Henry,136
 Clackamas,007 & 010,State Treasurer,,IND,Chris Henry,74
-Clackamas,31,State Treasurer,,IND,Chris Henry,137
-Clackamas,32,State Treasurer,,IND,Chris Henry,168
-Clackamas,33,State Treasurer,,IND,Chris Henry,28
-Clackamas,40,State Treasurer,,IND,Chris Henry,7
-Clackamas,51,State Treasurer,,IND,Chris Henry,10
-Clackamas,52,State Treasurer,,IND,Chris Henry,45
-Clackamas,53,State Treasurer,,IND,Chris Henry,409
-Clackamas,55,State Treasurer,,IND,Chris Henry,314
+Clackamas,031,State Treasurer,,IND,Chris Henry,137
+Clackamas,032,State Treasurer,,IND,Chris Henry,168
+Clackamas,033,State Treasurer,,IND,Chris Henry,28
+Clackamas,040,State Treasurer,,IND,Chris Henry,7
+Clackamas,051,State Treasurer,,IND,Chris Henry,10
+Clackamas,052,State Treasurer,,IND,Chris Henry,45
+Clackamas,053,State Treasurer,,IND,Chris Henry,409
+Clackamas,055,State Treasurer,,IND,Chris Henry,314
 Clackamas,070 & 071,State Treasurer,,IND,Chris Henry,5
-Clackamas,72,State Treasurer,,IND,Chris Henry,3
-Clackamas,73,State Treasurer,,IND,Chris Henry,11
-Clackamas,74,State Treasurer,,IND,Chris Henry,1
+Clackamas,072,State Treasurer,,IND,Chris Henry,3
+Clackamas,073,State Treasurer,,IND,Chris Henry,11
+Clackamas,074,State Treasurer,,IND,Chris Henry,1
 Clackamas,099 & 100,State Treasurer,,IND,Chris Henry,7
 Clackamas,101,State Treasurer,,IND,Chris Henry,211
 Clackamas,102,State Treasurer,,IND,Chris Henry,26
@@ -3703,24 +3703,24 @@ Clackamas,516,State Treasurer,,IND,Chris Henry,26
 Clackamas,517,State Treasurer,,IND,Chris Henry,71
 Clackamas,518,State Treasurer,,IND,Chris Henry,30
 Clackamas,519,State Treasurer,,IND,Chris Henry,25
-Clackamas,2,State Treasurer,,REP,Jeff Gudman,1922
-Clackamas,3,State Treasurer,,REP,Jeff Gudman,2796
-Clackamas,4,State Treasurer,,REP,Jeff Gudman,122
-Clackamas,5,State Treasurer,,REP,Jeff Gudman,1158
-Clackamas,6,State Treasurer,,REP,Jeff Gudman,2403
+Clackamas,002,State Treasurer,,REP,Jeff Gudman,1922
+Clackamas,003,State Treasurer,,REP,Jeff Gudman,2796
+Clackamas,004,State Treasurer,,REP,Jeff Gudman,122
+Clackamas,005,State Treasurer,,REP,Jeff Gudman,1158
+Clackamas,006,State Treasurer,,REP,Jeff Gudman,2403
 Clackamas,007 & 010,State Treasurer,,REP,Jeff Gudman,637
-Clackamas,31,State Treasurer,,REP,Jeff Gudman,960
-Clackamas,32,State Treasurer,,REP,Jeff Gudman,1532
-Clackamas,33,State Treasurer,,REP,Jeff Gudman,226
-Clackamas,40,State Treasurer,,REP,Jeff Gudman,123
-Clackamas,51,State Treasurer,,REP,Jeff Gudman,15
-Clackamas,52,State Treasurer,,REP,Jeff Gudman,207
-Clackamas,53,State Treasurer,,REP,Jeff Gudman,1758
-Clackamas,55,State Treasurer,,REP,Jeff Gudman,1826
+Clackamas,031,State Treasurer,,REP,Jeff Gudman,960
+Clackamas,032,State Treasurer,,REP,Jeff Gudman,1532
+Clackamas,033,State Treasurer,,REP,Jeff Gudman,226
+Clackamas,040,State Treasurer,,REP,Jeff Gudman,123
+Clackamas,051,State Treasurer,,REP,Jeff Gudman,15
+Clackamas,052,State Treasurer,,REP,Jeff Gudman,207
+Clackamas,053,State Treasurer,,REP,Jeff Gudman,1758
+Clackamas,055,State Treasurer,,REP,Jeff Gudman,1826
 Clackamas,070 & 071,State Treasurer,,REP,Jeff Gudman,49
-Clackamas,72,State Treasurer,,REP,Jeff Gudman,34
-Clackamas,73,State Treasurer,,REP,Jeff Gudman,80
-Clackamas,74,State Treasurer,,REP,Jeff Gudman,34
+Clackamas,072,State Treasurer,,REP,Jeff Gudman,34
+Clackamas,073,State Treasurer,,REP,Jeff Gudman,80
+Clackamas,074,State Treasurer,,REP,Jeff Gudman,34
 Clackamas,099 & 100,State Treasurer,,REP,Jeff Gudman,215
 Clackamas,101,State Treasurer,,REP,Jeff Gudman,3193
 Clackamas,102,State Treasurer,,REP,Jeff Gudman,288
@@ -3813,134 +3813,134 @@ Clackamas,516,State Treasurer,,REP,Jeff Gudman,538
 Clackamas,517,State Treasurer,,REP,Jeff Gudman,1099
 Clackamas,518,State Treasurer,,REP,Jeff Gudman,402
 Clackamas,519,State Treasurer,,REP,Jeff Gudman,457
-Clackamas,2,State Treasurer,,WRI,Write-in,3
-Clackamas,3,State Treasurer,,WRI,Write-in,5
-Clackamas,4,State Treasurer,,WRI,Write-in,0
-Clackamas,5,State Treasurer,,WRI,Write-in,1
-Clackamas,6,State Treasurer,,WRI,Write-in,3
-Clackamas,007 & 010,State Treasurer,,WRI,Write-in,1
-Clackamas,31,State Treasurer,,WRI,Write-in,2
-Clackamas,32,State Treasurer,,WRI,Write-in,3
-Clackamas,33,State Treasurer,,WRI,Write-in,0
-Clackamas,40,State Treasurer,,WRI,Write-in,0
-Clackamas,51,State Treasurer,,WRI,Write-in,0
-Clackamas,52,State Treasurer,,WRI,Write-in,0
-Clackamas,53,State Treasurer,,WRI,Write-in,4
-Clackamas,55,State Treasurer,,WRI,Write-in,4
-Clackamas,070 & 071,State Treasurer,,WRI,Write-in,0
-Clackamas,72,State Treasurer,,WRI,Write-in,0
-Clackamas,73,State Treasurer,,WRI,Write-in,0
-Clackamas,74,State Treasurer,,WRI,Write-in,1
-Clackamas,099 & 100,State Treasurer,,WRI,Write-in,0
-Clackamas,101,State Treasurer,,WRI,Write-in,3
-Clackamas,102,State Treasurer,,WRI,Write-in,0
-Clackamas,103 & 104,State Treasurer,,WRI,Write-in,0
-Clackamas,105,State Treasurer,,WRI,Write-in,0
-Clackamas,106,State Treasurer,,WRI,Write-in,0
-Clackamas,107,State Treasurer,,WRI,Write-in,3
-Clackamas,108,State Treasurer,,WRI,Write-in,5
-Clackamas,111,State Treasurer,,WRI,Write-in,7
-Clackamas,122,State Treasurer,,WRI,Write-in,1
-Clackamas,124,State Treasurer,,WRI,Write-in,1
-Clackamas,125,State Treasurer,,WRI,Write-in,1
-Clackamas,127,State Treasurer,,WRI,Write-in,0
-Clackamas,131,State Treasurer,,WRI,Write-in,6
-Clackamas,132,State Treasurer,,WRI,Write-in,2
-Clackamas,133,State Treasurer,,WRI,Write-in,1
-Clackamas,134,State Treasurer,,WRI,Write-in,0
-Clackamas,135,State Treasurer,,WRI,Write-in,1
-Clackamas,151,State Treasurer,,WRI,Write-in,0
-Clackamas,153,State Treasurer,,WRI,Write-in,2
-Clackamas,154,State Treasurer,,WRI,Write-in,0
-Clackamas,155,State Treasurer,,WRI,Write-in,0
-Clackamas,156,State Treasurer,,WRI,Write-in,1
-Clackamas,157,State Treasurer,,WRI,Write-in,0
-Clackamas,159,State Treasurer,,WRI,Write-in,5
-Clackamas,160,State Treasurer,,WRI,Write-in,1
-Clackamas,201,State Treasurer,,WRI,Write-in,0
-Clackamas,202,State Treasurer,,WRI,Write-in,3
-Clackamas,203,State Treasurer,,WRI,Write-in,1
-Clackamas,204,State Treasurer,,WRI,Write-in,0
-Clackamas,251 & 252,State Treasurer,,WRI,Write-in,0
-Clackamas,280,State Treasurer,,WRI,Write-in,1
-Clackamas,281,State Treasurer,,WRI,Write-in,0
-Clackamas,282,State Treasurer,,WRI,Write-in,1
-Clackamas,283,State Treasurer,,WRI,Write-in,0
-Clackamas,284,State Treasurer,,WRI,Write-in,0
-Clackamas,320,State Treasurer,,WRI,Write-in,0
-Clackamas,321,State Treasurer,,WRI,Write-in,1
-Clackamas,322,State Treasurer,,WRI,Write-in,0
-Clackamas,323,State Treasurer,,WRI,Write-in,0
-Clackamas,330,State Treasurer,,WRI,Write-in,3
-Clackamas,331,State Treasurer,,WRI,Write-in,0
-Clackamas,332,State Treasurer,,WRI,Write-in,0
-Clackamas,333,State Treasurer,,WRI,Write-in,0
-Clackamas,350,State Treasurer,,WRI,Write-in,1
-Clackamas,351,State Treasurer,,WRI,Write-in,2
-Clackamas,352,State Treasurer,,WRI,Write-in,3
-Clackamas,359,State Treasurer,,WRI,Write-in,0
-Clackamas,360,State Treasurer,,WRI,Write-in,5
-Clackamas,361 & 362,State Treasurer,,WRI,Write-in,0
-Clackamas,363,State Treasurer,,WRI,Write-in,0
-Clackamas,364,State Treasurer,,WRI,Write-in,1
-Clackamas,370,State Treasurer,,WRI,Write-in,3
-Clackamas,371,State Treasurer,,WRI,Write-in,0
-Clackamas,372,State Treasurer,,WRI,Write-in,0
-Clackamas,373,State Treasurer,,WRI,Write-in,0
-Clackamas,400,State Treasurer,,WRI,Write-in,0
-Clackamas,401,State Treasurer,,WRI,Write-in,2
-Clackamas,402,State Treasurer,,WRI,Write-in,0
-Clackamas,403,State Treasurer,,WRI,Write-in,0
-Clackamas,404,State Treasurer,,WRI,Write-in,1
-Clackamas,405,State Treasurer,,WRI,Write-in,1
-Clackamas,406,State Treasurer,,WRI,Write-in,0
-Clackamas,410,State Treasurer,,WRI,Write-in,1
-Clackamas,411,State Treasurer,,WRI,Write-in,4
-Clackamas,412,State Treasurer,,WRI,Write-in,1
-Clackamas,413,State Treasurer,,WRI,Write-in,3
-Clackamas,414,State Treasurer,,WRI,Write-in,2
-Clackamas,415,State Treasurer,,WRI,Write-in,0
-Clackamas,416,State Treasurer,,WRI,Write-in,2
-Clackamas,417 & 418,State Treasurer,,WRI,Write-in,0
-Clackamas,419,State Treasurer,,WRI,Write-in,0
-Clackamas,420,State Treasurer,,WRI,Write-in,0
-Clackamas,421,State Treasurer,,WRI,Write-in,1
-Clackamas,422,State Treasurer,,WRI,Write-in,9
-Clackamas,500,State Treasurer,,WRI,Write-in,0
-Clackamas,501,State Treasurer,,WRI,Write-in,1
-Clackamas,502,State Treasurer,,WRI,Write-in,11
-Clackamas,503,State Treasurer,,WRI,Write-in,2
-Clackamas,504,State Treasurer,,WRI,Write-in,5
-Clackamas,505,State Treasurer,,WRI,Write-in,0
-Clackamas,506,State Treasurer,,WRI,Write-in,1
-Clackamas,510,State Treasurer,,WRI,Write-in,0
-Clackamas,511,State Treasurer,,WRI,Write-in,1
-Clackamas,512,State Treasurer,,WRI,Write-in,2
-Clackamas,513,State Treasurer,,WRI,Write-in,0
-Clackamas,514,State Treasurer,,WRI,Write-in,5
-Clackamas,515,State Treasurer,,WRI,Write-in,0
-Clackamas,516,State Treasurer,,WRI,Write-in,0
-Clackamas,517,State Treasurer,,WRI,Write-in,1
-Clackamas,518,State Treasurer,,WRI,Write-in,0
-Clackamas,519,State Treasurer,,WRI,Write-in,0
-Clackamas,2,State Treasurer,,,Under Votes,356
-Clackamas,3,State Treasurer,,,Under Votes,490
-Clackamas,4,State Treasurer,,,Under Votes,22
-Clackamas,5,State Treasurer,,,Under Votes,176
-Clackamas,6,State Treasurer,,,Under Votes,331
+Clackamas,002,State Treasurer,,WRI,Write-ins,3
+Clackamas,003,State Treasurer,,WRI,Write-ins,5
+Clackamas,004,State Treasurer,,WRI,Write-ins,0
+Clackamas,005,State Treasurer,,WRI,Write-ins,1
+Clackamas,006,State Treasurer,,WRI,Write-ins,3
+Clackamas,007 & 010,State Treasurer,,WRI,Write-ins,1
+Clackamas,031,State Treasurer,,WRI,Write-ins,2
+Clackamas,032,State Treasurer,,WRI,Write-ins,3
+Clackamas,033,State Treasurer,,WRI,Write-ins,0
+Clackamas,040,State Treasurer,,WRI,Write-ins,0
+Clackamas,051,State Treasurer,,WRI,Write-ins,0
+Clackamas,052,State Treasurer,,WRI,Write-ins,0
+Clackamas,053,State Treasurer,,WRI,Write-ins,4
+Clackamas,055,State Treasurer,,WRI,Write-ins,4
+Clackamas,070 & 071,State Treasurer,,WRI,Write-ins,0
+Clackamas,072,State Treasurer,,WRI,Write-ins,0
+Clackamas,073,State Treasurer,,WRI,Write-ins,0
+Clackamas,074,State Treasurer,,WRI,Write-ins,1
+Clackamas,099 & 100,State Treasurer,,WRI,Write-ins,0
+Clackamas,101,State Treasurer,,WRI,Write-ins,3
+Clackamas,102,State Treasurer,,WRI,Write-ins,0
+Clackamas,103 & 104,State Treasurer,,WRI,Write-ins,0
+Clackamas,105,State Treasurer,,WRI,Write-ins,0
+Clackamas,106,State Treasurer,,WRI,Write-ins,0
+Clackamas,107,State Treasurer,,WRI,Write-ins,3
+Clackamas,108,State Treasurer,,WRI,Write-ins,5
+Clackamas,111,State Treasurer,,WRI,Write-ins,7
+Clackamas,122,State Treasurer,,WRI,Write-ins,1
+Clackamas,124,State Treasurer,,WRI,Write-ins,1
+Clackamas,125,State Treasurer,,WRI,Write-ins,1
+Clackamas,127,State Treasurer,,WRI,Write-ins,0
+Clackamas,131,State Treasurer,,WRI,Write-ins,6
+Clackamas,132,State Treasurer,,WRI,Write-ins,2
+Clackamas,133,State Treasurer,,WRI,Write-ins,1
+Clackamas,134,State Treasurer,,WRI,Write-ins,0
+Clackamas,135,State Treasurer,,WRI,Write-ins,1
+Clackamas,151,State Treasurer,,WRI,Write-ins,0
+Clackamas,153,State Treasurer,,WRI,Write-ins,2
+Clackamas,154,State Treasurer,,WRI,Write-ins,0
+Clackamas,155,State Treasurer,,WRI,Write-ins,0
+Clackamas,156,State Treasurer,,WRI,Write-ins,1
+Clackamas,157,State Treasurer,,WRI,Write-ins,0
+Clackamas,159,State Treasurer,,WRI,Write-ins,5
+Clackamas,160,State Treasurer,,WRI,Write-ins,1
+Clackamas,201,State Treasurer,,WRI,Write-ins,0
+Clackamas,202,State Treasurer,,WRI,Write-ins,3
+Clackamas,203,State Treasurer,,WRI,Write-ins,1
+Clackamas,204,State Treasurer,,WRI,Write-ins,0
+Clackamas,251 & 252,State Treasurer,,WRI,Write-ins,0
+Clackamas,280,State Treasurer,,WRI,Write-ins,1
+Clackamas,281,State Treasurer,,WRI,Write-ins,0
+Clackamas,282,State Treasurer,,WRI,Write-ins,1
+Clackamas,283,State Treasurer,,WRI,Write-ins,0
+Clackamas,284,State Treasurer,,WRI,Write-ins,0
+Clackamas,320,State Treasurer,,WRI,Write-ins,0
+Clackamas,321,State Treasurer,,WRI,Write-ins,1
+Clackamas,322,State Treasurer,,WRI,Write-ins,0
+Clackamas,323,State Treasurer,,WRI,Write-ins,0
+Clackamas,330,State Treasurer,,WRI,Write-ins,3
+Clackamas,331,State Treasurer,,WRI,Write-ins,0
+Clackamas,332,State Treasurer,,WRI,Write-ins,0
+Clackamas,333,State Treasurer,,WRI,Write-ins,0
+Clackamas,350,State Treasurer,,WRI,Write-ins,1
+Clackamas,351,State Treasurer,,WRI,Write-ins,2
+Clackamas,352,State Treasurer,,WRI,Write-ins,3
+Clackamas,359,State Treasurer,,WRI,Write-ins,0
+Clackamas,360,State Treasurer,,WRI,Write-ins,5
+Clackamas,361 & 362,State Treasurer,,WRI,Write-ins,0
+Clackamas,363,State Treasurer,,WRI,Write-ins,0
+Clackamas,364,State Treasurer,,WRI,Write-ins,1
+Clackamas,370,State Treasurer,,WRI,Write-ins,3
+Clackamas,371,State Treasurer,,WRI,Write-ins,0
+Clackamas,372,State Treasurer,,WRI,Write-ins,0
+Clackamas,373,State Treasurer,,WRI,Write-ins,0
+Clackamas,400,State Treasurer,,WRI,Write-ins,0
+Clackamas,401,State Treasurer,,WRI,Write-ins,2
+Clackamas,402,State Treasurer,,WRI,Write-ins,0
+Clackamas,403,State Treasurer,,WRI,Write-ins,0
+Clackamas,404,State Treasurer,,WRI,Write-ins,1
+Clackamas,405,State Treasurer,,WRI,Write-ins,1
+Clackamas,406,State Treasurer,,WRI,Write-ins,0
+Clackamas,410,State Treasurer,,WRI,Write-ins,1
+Clackamas,411,State Treasurer,,WRI,Write-ins,4
+Clackamas,412,State Treasurer,,WRI,Write-ins,1
+Clackamas,413,State Treasurer,,WRI,Write-ins,3
+Clackamas,414,State Treasurer,,WRI,Write-ins,2
+Clackamas,415,State Treasurer,,WRI,Write-ins,0
+Clackamas,416,State Treasurer,,WRI,Write-ins,2
+Clackamas,417 & 418,State Treasurer,,WRI,Write-ins,0
+Clackamas,419,State Treasurer,,WRI,Write-ins,0
+Clackamas,420,State Treasurer,,WRI,Write-ins,0
+Clackamas,421,State Treasurer,,WRI,Write-ins,1
+Clackamas,422,State Treasurer,,WRI,Write-ins,9
+Clackamas,500,State Treasurer,,WRI,Write-ins,0
+Clackamas,501,State Treasurer,,WRI,Write-ins,1
+Clackamas,502,State Treasurer,,WRI,Write-ins,11
+Clackamas,503,State Treasurer,,WRI,Write-ins,2
+Clackamas,504,State Treasurer,,WRI,Write-ins,5
+Clackamas,505,State Treasurer,,WRI,Write-ins,0
+Clackamas,506,State Treasurer,,WRI,Write-ins,1
+Clackamas,510,State Treasurer,,WRI,Write-ins,0
+Clackamas,511,State Treasurer,,WRI,Write-ins,1
+Clackamas,512,State Treasurer,,WRI,Write-ins,2
+Clackamas,513,State Treasurer,,WRI,Write-ins,0
+Clackamas,514,State Treasurer,,WRI,Write-ins,5
+Clackamas,515,State Treasurer,,WRI,Write-ins,0
+Clackamas,516,State Treasurer,,WRI,Write-ins,0
+Clackamas,517,State Treasurer,,WRI,Write-ins,1
+Clackamas,518,State Treasurer,,WRI,Write-ins,0
+Clackamas,519,State Treasurer,,WRI,Write-ins,0
+Clackamas,002,State Treasurer,,,Under Votes,356
+Clackamas,003,State Treasurer,,,Under Votes,490
+Clackamas,004,State Treasurer,,,Under Votes,22
+Clackamas,005,State Treasurer,,,Under Votes,176
+Clackamas,006,State Treasurer,,,Under Votes,331
 Clackamas,007 & 010,State Treasurer,,,Under Votes,122
-Clackamas,31,State Treasurer,,,Under Votes,195
-Clackamas,32,State Treasurer,,,Under Votes,319
-Clackamas,33,State Treasurer,,,Under Votes,26
-Clackamas,40,State Treasurer,,,Under Votes,16
-Clackamas,51,State Treasurer,,,Under Votes,5
-Clackamas,52,State Treasurer,,,Under Votes,45
-Clackamas,53,State Treasurer,,,Under Votes,456
-Clackamas,55,State Treasurer,,,Under Votes,353
+Clackamas,031,State Treasurer,,,Under Votes,195
+Clackamas,032,State Treasurer,,,Under Votes,319
+Clackamas,033,State Treasurer,,,Under Votes,26
+Clackamas,040,State Treasurer,,,Under Votes,16
+Clackamas,051,State Treasurer,,,Under Votes,5
+Clackamas,052,State Treasurer,,,Under Votes,45
+Clackamas,053,State Treasurer,,,Under Votes,456
+Clackamas,055,State Treasurer,,,Under Votes,353
 Clackamas,070 & 071,State Treasurer,,,Under Votes,4
-Clackamas,72,State Treasurer,,,Under Votes,6
-Clackamas,73,State Treasurer,,,Under Votes,14
-Clackamas,74,State Treasurer,,,Under Votes,8
+Clackamas,072,State Treasurer,,,Under Votes,6
+Clackamas,073,State Treasurer,,,Under Votes,14
+Clackamas,074,State Treasurer,,,Under Votes,8
 Clackamas,099 & 100,State Treasurer,,,Under Votes,26
 Clackamas,101,State Treasurer,,,Under Votes,533
 Clackamas,102,State Treasurer,,,Under Votes,66
@@ -4033,24 +4033,24 @@ Clackamas,516,State Treasurer,,,Under Votes,45
 Clackamas,517,State Treasurer,,,Under Votes,101
 Clackamas,518,State Treasurer,,,Under Votes,31
 Clackamas,519,State Treasurer,,,Under Votes,51
-Clackamas,2,State Treasurer,,,Over Votes,0
-Clackamas,3,State Treasurer,,,Over Votes,1
-Clackamas,4,State Treasurer,,,Over Votes,0
-Clackamas,5,State Treasurer,,,Over Votes,0
-Clackamas,6,State Treasurer,,,Over Votes,0
+Clackamas,002,State Treasurer,,,Over Votes,0
+Clackamas,003,State Treasurer,,,Over Votes,1
+Clackamas,004,State Treasurer,,,Over Votes,0
+Clackamas,005,State Treasurer,,,Over Votes,0
+Clackamas,006,State Treasurer,,,Over Votes,0
 Clackamas,007 & 010,State Treasurer,,,Over Votes,0
-Clackamas,31,State Treasurer,,,Over Votes,0
-Clackamas,32,State Treasurer,,,Over Votes,0
-Clackamas,33,State Treasurer,,,Over Votes,0
-Clackamas,40,State Treasurer,,,Over Votes,0
-Clackamas,51,State Treasurer,,,Over Votes,0
-Clackamas,52,State Treasurer,,,Over Votes,0
-Clackamas,53,State Treasurer,,,Over Votes,1
-Clackamas,55,State Treasurer,,,Over Votes,1
+Clackamas,031,State Treasurer,,,Over Votes,0
+Clackamas,032,State Treasurer,,,Over Votes,0
+Clackamas,033,State Treasurer,,,Over Votes,0
+Clackamas,040,State Treasurer,,,Over Votes,0
+Clackamas,051,State Treasurer,,,Over Votes,0
+Clackamas,052,State Treasurer,,,Over Votes,0
+Clackamas,053,State Treasurer,,,Over Votes,1
+Clackamas,055,State Treasurer,,,Over Votes,1
 Clackamas,070 & 071,State Treasurer,,,Over Votes,0
-Clackamas,72,State Treasurer,,,Over Votes,0
-Clackamas,73,State Treasurer,,,Over Votes,0
-Clackamas,74,State Treasurer,,,Over Votes,0
+Clackamas,072,State Treasurer,,,Over Votes,0
+Clackamas,073,State Treasurer,,,Over Votes,0
+Clackamas,074,State Treasurer,,,Over Votes,0
 Clackamas,099 & 100,State Treasurer,,,Over Votes,0
 Clackamas,101,State Treasurer,,,Over Votes,0
 Clackamas,102,State Treasurer,,,Over Votes,0
@@ -4143,24 +4143,24 @@ Clackamas,516,State Treasurer,,,Over Votes,0
 Clackamas,517,State Treasurer,,,Over Votes,0
 Clackamas,518,State Treasurer,,,Over Votes,0
 Clackamas,519,State Treasurer,,,Over Votes,0
-Clackamas,2,Attorney General,,DEM,Ellen Rosenblum,2859
-Clackamas,3,Attorney General,,DEM,Ellen Rosenblum,3300
-Clackamas,4,Attorney General,,DEM,Ellen Rosenblum,128
-Clackamas,5,Attorney General,,DEM,Ellen Rosenblum,1177
-Clackamas,6,Attorney General,,DEM,Ellen Rosenblum,2170
+Clackamas,002,Attorney General,,DEM,Ellen Rosenblum,2859
+Clackamas,003,Attorney General,,DEM,Ellen Rosenblum,3300
+Clackamas,004,Attorney General,,DEM,Ellen Rosenblum,128
+Clackamas,005,Attorney General,,DEM,Ellen Rosenblum,1177
+Clackamas,006,Attorney General,,DEM,Ellen Rosenblum,2170
 Clackamas,007 & 010,Attorney General,,DEM,Ellen Rosenblum,774
-Clackamas,31,Attorney General,,DEM,Ellen Rosenblum,1372
-Clackamas,32,Attorney General,,DEM,Ellen Rosenblum,2081
-Clackamas,33,Attorney General,,DEM,Ellen Rosenblum,330
-Clackamas,40,Attorney General,,DEM,Ellen Rosenblum,136
-Clackamas,51,Attorney General,,DEM,Ellen Rosenblum,52
-Clackamas,52,Attorney General,,DEM,Ellen Rosenblum,458
-Clackamas,53,Attorney General,,DEM,Ellen Rosenblum,4662
-Clackamas,55,Attorney General,,DEM,Ellen Rosenblum,3690
+Clackamas,031,Attorney General,,DEM,Ellen Rosenblum,1372
+Clackamas,032,Attorney General,,DEM,Ellen Rosenblum,2081
+Clackamas,033,Attorney General,,DEM,Ellen Rosenblum,330
+Clackamas,040,Attorney General,,DEM,Ellen Rosenblum,136
+Clackamas,051,Attorney General,,DEM,Ellen Rosenblum,52
+Clackamas,052,Attorney General,,DEM,Ellen Rosenblum,458
+Clackamas,053,Attorney General,,DEM,Ellen Rosenblum,4662
+Clackamas,055,Attorney General,,DEM,Ellen Rosenblum,3690
 Clackamas,070 & 071,Attorney General,,DEM,Ellen Rosenblum,117
-Clackamas,72,Attorney General,,DEM,Ellen Rosenblum,66
-Clackamas,73,Attorney General,,DEM,Ellen Rosenblum,109
-Clackamas,74,Attorney General,,DEM,Ellen Rosenblum,18
+Clackamas,072,Attorney General,,DEM,Ellen Rosenblum,66
+Clackamas,073,Attorney General,,DEM,Ellen Rosenblum,109
+Clackamas,074,Attorney General,,DEM,Ellen Rosenblum,18
 Clackamas,099 & 100,Attorney General,,DEM,Ellen Rosenblum,193
 Clackamas,101,Attorney General,,DEM,Ellen Rosenblum,3560
 Clackamas,102,Attorney General,,DEM,Ellen Rosenblum,350
@@ -4253,24 +4253,24 @@ Clackamas,516,Attorney General,,DEM,Ellen Rosenblum,335
 Clackamas,517,Attorney General,,DEM,Ellen Rosenblum,583
 Clackamas,518,Attorney General,,DEM,Ellen Rosenblum,249
 Clackamas,519,Attorney General,,DEM,Ellen Rosenblum,291
-Clackamas,2,Attorney General,,LIB,Lars Hedbor,135
-Clackamas,3,Attorney General,,LIB,Lars Hedbor,165
-Clackamas,4,Attorney General,,LIB,Lars Hedbor,4
-Clackamas,5,Attorney General,,LIB,Lars Hedbor,62
-Clackamas,6,Attorney General,,LIB,Lars Hedbor,78
+Clackamas,002,Attorney General,,LIB,Lars Hedbor,135
+Clackamas,003,Attorney General,,LIB,Lars Hedbor,165
+Clackamas,004,Attorney General,,LIB,Lars Hedbor,4
+Clackamas,005,Attorney General,,LIB,Lars Hedbor,62
+Clackamas,006,Attorney General,,LIB,Lars Hedbor,78
 Clackamas,007 & 010,Attorney General,,LIB,Lars Hedbor,35
-Clackamas,31,Attorney General,,LIB,Lars Hedbor,66
-Clackamas,32,Attorney General,,LIB,Lars Hedbor,109
-Clackamas,33,Attorney General,,LIB,Lars Hedbor,12
-Clackamas,40,Attorney General,,LIB,Lars Hedbor,8
-Clackamas,51,Attorney General,,LIB,Lars Hedbor,10
-Clackamas,52,Attorney General,,LIB,Lars Hedbor,19
-Clackamas,53,Attorney General,,LIB,Lars Hedbor,138
-Clackamas,55,Attorney General,,LIB,Lars Hedbor,114
+Clackamas,031,Attorney General,,LIB,Lars Hedbor,66
+Clackamas,032,Attorney General,,LIB,Lars Hedbor,109
+Clackamas,033,Attorney General,,LIB,Lars Hedbor,12
+Clackamas,040,Attorney General,,LIB,Lars Hedbor,8
+Clackamas,051,Attorney General,,LIB,Lars Hedbor,10
+Clackamas,052,Attorney General,,LIB,Lars Hedbor,19
+Clackamas,053,Attorney General,,LIB,Lars Hedbor,138
+Clackamas,055,Attorney General,,LIB,Lars Hedbor,114
 Clackamas,070 & 071,Attorney General,,LIB,Lars Hedbor,1
-Clackamas,72,Attorney General,,LIB,Lars Hedbor,5
-Clackamas,73,Attorney General,,LIB,Lars Hedbor,3
-Clackamas,74,Attorney General,,LIB,Lars Hedbor,2
+Clackamas,072,Attorney General,,LIB,Lars Hedbor,5
+Clackamas,073,Attorney General,,LIB,Lars Hedbor,3
+Clackamas,074,Attorney General,,LIB,Lars Hedbor,2
 Clackamas,099 & 100,Attorney General,,LIB,Lars Hedbor,3
 Clackamas,101,Attorney General,,LIB,Lars Hedbor,110
 Clackamas,102,Attorney General,,LIB,Lars Hedbor,9
@@ -4363,24 +4363,24 @@ Clackamas,516,Attorney General,,LIB,Lars Hedbor,15
 Clackamas,517,Attorney General,,LIB,Lars Hedbor,31
 Clackamas,518,Attorney General,,LIB,Lars Hedbor,22
 Clackamas,519,Attorney General,,LIB,Lars Hedbor,17
-Clackamas,2,Attorney General,,REP,Michael Cross,1909
-Clackamas,3,Attorney General,,REP,Michael Cross,2824
-Clackamas,4,Attorney General,,REP,Michael Cross,122
-Clackamas,5,Attorney General,,REP,Michael Cross,1184
-Clackamas,6,Attorney General,,REP,Michael Cross,2397
+Clackamas,002,Attorney General,,REP,Michael Cross,1909
+Clackamas,003,Attorney General,,REP,Michael Cross,2824
+Clackamas,004,Attorney General,,REP,Michael Cross,122
+Clackamas,005,Attorney General,,REP,Michael Cross,1184
+Clackamas,006,Attorney General,,REP,Michael Cross,2397
 Clackamas,007 & 010,Attorney General,,REP,Michael Cross,644
-Clackamas,31,Attorney General,,REP,Michael Cross,989
-Clackamas,32,Attorney General,,REP,Michael Cross,1514
-Clackamas,33,Attorney General,,REP,Michael Cross,218
-Clackamas,40,Attorney General,,REP,Michael Cross,120
-Clackamas,51,Attorney General,,REP,Michael Cross,18
-Clackamas,52,Attorney General,,REP,Michael Cross,202
-Clackamas,53,Attorney General,,REP,Michael Cross,1753
-Clackamas,55,Attorney General,,REP,Michael Cross,1813
+Clackamas,031,Attorney General,,REP,Michael Cross,989
+Clackamas,032,Attorney General,,REP,Michael Cross,1514
+Clackamas,033,Attorney General,,REP,Michael Cross,218
+Clackamas,040,Attorney General,,REP,Michael Cross,120
+Clackamas,051,Attorney General,,REP,Michael Cross,18
+Clackamas,052,Attorney General,,REP,Michael Cross,202
+Clackamas,053,Attorney General,,REP,Michael Cross,1753
+Clackamas,055,Attorney General,,REP,Michael Cross,1813
 Clackamas,070 & 071,Attorney General,,REP,Michael Cross,38
-Clackamas,72,Attorney General,,REP,Michael Cross,29
-Clackamas,73,Attorney General,,REP,Michael Cross,81
-Clackamas,74,Attorney General,,REP,Michael Cross,26
+Clackamas,072,Attorney General,,REP,Michael Cross,29
+Clackamas,073,Attorney General,,REP,Michael Cross,81
+Clackamas,074,Attorney General,,REP,Michael Cross,26
 Clackamas,099 & 100,Attorney General,,REP,Michael Cross,210
 Clackamas,101,Attorney General,,REP,Michael Cross,3122
 Clackamas,102,Attorney General,,REP,Michael Cross,298
@@ -4473,134 +4473,134 @@ Clackamas,516,Attorney General,,REP,Michael Cross,557
 Clackamas,517,Attorney General,,REP,Michael Cross,1137
 Clackamas,518,Attorney General,,REP,Michael Cross,423
 Clackamas,519,Attorney General,,REP,Michael Cross,459
-Clackamas,2,Attorney General,,WRI,Write-in,17
-Clackamas,3,Attorney General,,WRI,Write-in,22
-Clackamas,4,Attorney General,,WRI,Write-in,0
-Clackamas,5,Attorney General,,WRI,Write-in,6
-Clackamas,6,Attorney General,,WRI,Write-in,25
-Clackamas,007 & 010,Attorney General,,WRI,Write-in,8
-Clackamas,31,Attorney General,,WRI,Write-in,4
-Clackamas,32,Attorney General,,WRI,Write-in,21
-Clackamas,33,Attorney General,,WRI,Write-in,2
-Clackamas,40,Attorney General,,WRI,Write-in,0
-Clackamas,51,Attorney General,,WRI,Write-in,0
-Clackamas,52,Attorney General,,WRI,Write-in,0
-Clackamas,53,Attorney General,,WRI,Write-in,23
-Clackamas,55,Attorney General,,WRI,Write-in,20
-Clackamas,070 & 071,Attorney General,,WRI,Write-in,0
-Clackamas,72,Attorney General,,WRI,Write-in,1
-Clackamas,73,Attorney General,,WRI,Write-in,0
-Clackamas,74,Attorney General,,WRI,Write-in,3
-Clackamas,099 & 100,Attorney General,,WRI,Write-in,2
-Clackamas,101,Attorney General,,WRI,Write-in,29
-Clackamas,102,Attorney General,,WRI,Write-in,9
-Clackamas,103 & 104,Attorney General,,WRI,Write-in,17
-Clackamas,105,Attorney General,,WRI,Write-in,6
-Clackamas,106,Attorney General,,WRI,Write-in,12
-Clackamas,107,Attorney General,,WRI,Write-in,9
-Clackamas,108,Attorney General,,WRI,Write-in,29
-Clackamas,111,Attorney General,,WRI,Write-in,43
-Clackamas,122,Attorney General,,WRI,Write-in,24
-Clackamas,124,Attorney General,,WRI,Write-in,16
-Clackamas,125,Attorney General,,WRI,Write-in,4
-Clackamas,127,Attorney General,,WRI,Write-in,0
-Clackamas,131,Attorney General,,WRI,Write-in,21
-Clackamas,132,Attorney General,,WRI,Write-in,18
-Clackamas,133,Attorney General,,WRI,Write-in,5
-Clackamas,134,Attorney General,,WRI,Write-in,0
-Clackamas,135,Attorney General,,WRI,Write-in,14
-Clackamas,151,Attorney General,,WRI,Write-in,3
-Clackamas,153,Attorney General,,WRI,Write-in,14
-Clackamas,154,Attorney General,,WRI,Write-in,1
-Clackamas,155,Attorney General,,WRI,Write-in,0
-Clackamas,156,Attorney General,,WRI,Write-in,13
-Clackamas,157,Attorney General,,WRI,Write-in,1
-Clackamas,159,Attorney General,,WRI,Write-in,15
-Clackamas,160,Attorney General,,WRI,Write-in,2
-Clackamas,201,Attorney General,,WRI,Write-in,15
-Clackamas,202,Attorney General,,WRI,Write-in,25
-Clackamas,203,Attorney General,,WRI,Write-in,6
-Clackamas,204,Attorney General,,WRI,Write-in,3
-Clackamas,251 & 252,Attorney General,,WRI,Write-in,8
-Clackamas,280,Attorney General,,WRI,Write-in,1
-Clackamas,281,Attorney General,,WRI,Write-in,6
-Clackamas,282,Attorney General,,WRI,Write-in,4
-Clackamas,283,Attorney General,,WRI,Write-in,2
-Clackamas,284,Attorney General,,WRI,Write-in,2
-Clackamas,320,Attorney General,,WRI,Write-in,1
-Clackamas,321,Attorney General,,WRI,Write-in,14
-Clackamas,322,Attorney General,,WRI,Write-in,1
-Clackamas,323,Attorney General,,WRI,Write-in,9
-Clackamas,330,Attorney General,,WRI,Write-in,38
-Clackamas,331,Attorney General,,WRI,Write-in,9
-Clackamas,332,Attorney General,,WRI,Write-in,8
-Clackamas,333,Attorney General,,WRI,Write-in,7
-Clackamas,350,Attorney General,,WRI,Write-in,17
-Clackamas,351,Attorney General,,WRI,Write-in,45
-Clackamas,352,Attorney General,,WRI,Write-in,45
-Clackamas,359,Attorney General,,WRI,Write-in,0
-Clackamas,360,Attorney General,,WRI,Write-in,12
-Clackamas,361 & 362,Attorney General,,WRI,Write-in,7
-Clackamas,363,Attorney General,,WRI,Write-in,2
-Clackamas,364,Attorney General,,WRI,Write-in,7
-Clackamas,370,Attorney General,,WRI,Write-in,14
-Clackamas,371,Attorney General,,WRI,Write-in,6
-Clackamas,372,Attorney General,,WRI,Write-in,4
-Clackamas,373,Attorney General,,WRI,Write-in,14
-Clackamas,400,Attorney General,,WRI,Write-in,10
-Clackamas,401,Attorney General,,WRI,Write-in,8
-Clackamas,402,Attorney General,,WRI,Write-in,8
-Clackamas,403,Attorney General,,WRI,Write-in,8
-Clackamas,404,Attorney General,,WRI,Write-in,15
-Clackamas,405,Attorney General,,WRI,Write-in,12
-Clackamas,406,Attorney General,,WRI,Write-in,3
-Clackamas,410,Attorney General,,WRI,Write-in,2
-Clackamas,411,Attorney General,,WRI,Write-in,10
-Clackamas,412,Attorney General,,WRI,Write-in,11
-Clackamas,413,Attorney General,,WRI,Write-in,4
-Clackamas,414,Attorney General,,WRI,Write-in,5
-Clackamas,415,Attorney General,,WRI,Write-in,2
-Clackamas,416,Attorney General,,WRI,Write-in,9
-Clackamas,417 & 418,Attorney General,,WRI,Write-in,11
-Clackamas,419,Attorney General,,WRI,Write-in,0
-Clackamas,420,Attorney General,,WRI,Write-in,2
-Clackamas,421,Attorney General,,WRI,Write-in,11
-Clackamas,422,Attorney General,,WRI,Write-in,19
-Clackamas,500,Attorney General,,WRI,Write-in,0
-Clackamas,501,Attorney General,,WRI,Write-in,15
-Clackamas,502,Attorney General,,WRI,Write-in,26
-Clackamas,503,Attorney General,,WRI,Write-in,12
-Clackamas,504,Attorney General,,WRI,Write-in,19
-Clackamas,505,Attorney General,,WRI,Write-in,3
-Clackamas,506,Attorney General,,WRI,Write-in,9
-Clackamas,510,Attorney General,,WRI,Write-in,1
-Clackamas,511,Attorney General,,WRI,Write-in,17
-Clackamas,512,Attorney General,,WRI,Write-in,6
-Clackamas,513,Attorney General,,WRI,Write-in,6
-Clackamas,514,Attorney General,,WRI,Write-in,52
-Clackamas,515,Attorney General,,WRI,Write-in,0
-Clackamas,516,Attorney General,,WRI,Write-in,2
-Clackamas,517,Attorney General,,WRI,Write-in,15
-Clackamas,518,Attorney General,,WRI,Write-in,3
-Clackamas,519,Attorney General,,WRI,Write-in,6
-Clackamas,2,Attorney General,,,Under Votes,355
-Clackamas,3,Attorney General,,,Under Votes,505
-Clackamas,4,Attorney General,,,Under Votes,23
-Clackamas,5,Attorney General,,,Under Votes,191
-Clackamas,6,Attorney General,,,Under Votes,336
+Clackamas,002,Attorney General,,WRI,Write-ins,17
+Clackamas,003,Attorney General,,WRI,Write-ins,22
+Clackamas,004,Attorney General,,WRI,Write-ins,0
+Clackamas,005,Attorney General,,WRI,Write-ins,6
+Clackamas,006,Attorney General,,WRI,Write-ins,25
+Clackamas,007 & 010,Attorney General,,WRI,Write-ins,8
+Clackamas,031,Attorney General,,WRI,Write-ins,4
+Clackamas,032,Attorney General,,WRI,Write-ins,21
+Clackamas,033,Attorney General,,WRI,Write-ins,2
+Clackamas,040,Attorney General,,WRI,Write-ins,0
+Clackamas,051,Attorney General,,WRI,Write-ins,0
+Clackamas,052,Attorney General,,WRI,Write-ins,0
+Clackamas,053,Attorney General,,WRI,Write-ins,23
+Clackamas,055,Attorney General,,WRI,Write-ins,20
+Clackamas,070 & 071,Attorney General,,WRI,Write-ins,0
+Clackamas,072,Attorney General,,WRI,Write-ins,1
+Clackamas,073,Attorney General,,WRI,Write-ins,0
+Clackamas,074,Attorney General,,WRI,Write-ins,3
+Clackamas,099 & 100,Attorney General,,WRI,Write-ins,2
+Clackamas,101,Attorney General,,WRI,Write-ins,29
+Clackamas,102,Attorney General,,WRI,Write-ins,9
+Clackamas,103 & 104,Attorney General,,WRI,Write-ins,17
+Clackamas,105,Attorney General,,WRI,Write-ins,6
+Clackamas,106,Attorney General,,WRI,Write-ins,12
+Clackamas,107,Attorney General,,WRI,Write-ins,9
+Clackamas,108,Attorney General,,WRI,Write-ins,29
+Clackamas,111,Attorney General,,WRI,Write-ins,43
+Clackamas,122,Attorney General,,WRI,Write-ins,24
+Clackamas,124,Attorney General,,WRI,Write-ins,16
+Clackamas,125,Attorney General,,WRI,Write-ins,4
+Clackamas,127,Attorney General,,WRI,Write-ins,0
+Clackamas,131,Attorney General,,WRI,Write-ins,21
+Clackamas,132,Attorney General,,WRI,Write-ins,18
+Clackamas,133,Attorney General,,WRI,Write-ins,5
+Clackamas,134,Attorney General,,WRI,Write-ins,0
+Clackamas,135,Attorney General,,WRI,Write-ins,14
+Clackamas,151,Attorney General,,WRI,Write-ins,3
+Clackamas,153,Attorney General,,WRI,Write-ins,14
+Clackamas,154,Attorney General,,WRI,Write-ins,1
+Clackamas,155,Attorney General,,WRI,Write-ins,0
+Clackamas,156,Attorney General,,WRI,Write-ins,13
+Clackamas,157,Attorney General,,WRI,Write-ins,1
+Clackamas,159,Attorney General,,WRI,Write-ins,15
+Clackamas,160,Attorney General,,WRI,Write-ins,2
+Clackamas,201,Attorney General,,WRI,Write-ins,15
+Clackamas,202,Attorney General,,WRI,Write-ins,25
+Clackamas,203,Attorney General,,WRI,Write-ins,6
+Clackamas,204,Attorney General,,WRI,Write-ins,3
+Clackamas,251 & 252,Attorney General,,WRI,Write-ins,8
+Clackamas,280,Attorney General,,WRI,Write-ins,1
+Clackamas,281,Attorney General,,WRI,Write-ins,6
+Clackamas,282,Attorney General,,WRI,Write-ins,4
+Clackamas,283,Attorney General,,WRI,Write-ins,2
+Clackamas,284,Attorney General,,WRI,Write-ins,2
+Clackamas,320,Attorney General,,WRI,Write-ins,1
+Clackamas,321,Attorney General,,WRI,Write-ins,14
+Clackamas,322,Attorney General,,WRI,Write-ins,1
+Clackamas,323,Attorney General,,WRI,Write-ins,9
+Clackamas,330,Attorney General,,WRI,Write-ins,38
+Clackamas,331,Attorney General,,WRI,Write-ins,9
+Clackamas,332,Attorney General,,WRI,Write-ins,8
+Clackamas,333,Attorney General,,WRI,Write-ins,7
+Clackamas,350,Attorney General,,WRI,Write-ins,17
+Clackamas,351,Attorney General,,WRI,Write-ins,45
+Clackamas,352,Attorney General,,WRI,Write-ins,45
+Clackamas,359,Attorney General,,WRI,Write-ins,0
+Clackamas,360,Attorney General,,WRI,Write-ins,12
+Clackamas,361 & 362,Attorney General,,WRI,Write-ins,7
+Clackamas,363,Attorney General,,WRI,Write-ins,2
+Clackamas,364,Attorney General,,WRI,Write-ins,7
+Clackamas,370,Attorney General,,WRI,Write-ins,14
+Clackamas,371,Attorney General,,WRI,Write-ins,6
+Clackamas,372,Attorney General,,WRI,Write-ins,4
+Clackamas,373,Attorney General,,WRI,Write-ins,14
+Clackamas,400,Attorney General,,WRI,Write-ins,10
+Clackamas,401,Attorney General,,WRI,Write-ins,8
+Clackamas,402,Attorney General,,WRI,Write-ins,8
+Clackamas,403,Attorney General,,WRI,Write-ins,8
+Clackamas,404,Attorney General,,WRI,Write-ins,15
+Clackamas,405,Attorney General,,WRI,Write-ins,12
+Clackamas,406,Attorney General,,WRI,Write-ins,3
+Clackamas,410,Attorney General,,WRI,Write-ins,2
+Clackamas,411,Attorney General,,WRI,Write-ins,10
+Clackamas,412,Attorney General,,WRI,Write-ins,11
+Clackamas,413,Attorney General,,WRI,Write-ins,4
+Clackamas,414,Attorney General,,WRI,Write-ins,5
+Clackamas,415,Attorney General,,WRI,Write-ins,2
+Clackamas,416,Attorney General,,WRI,Write-ins,9
+Clackamas,417 & 418,Attorney General,,WRI,Write-ins,11
+Clackamas,419,Attorney General,,WRI,Write-ins,0
+Clackamas,420,Attorney General,,WRI,Write-ins,2
+Clackamas,421,Attorney General,,WRI,Write-ins,11
+Clackamas,422,Attorney General,,WRI,Write-ins,19
+Clackamas,500,Attorney General,,WRI,Write-ins,0
+Clackamas,501,Attorney General,,WRI,Write-ins,15
+Clackamas,502,Attorney General,,WRI,Write-ins,26
+Clackamas,503,Attorney General,,WRI,Write-ins,12
+Clackamas,504,Attorney General,,WRI,Write-ins,19
+Clackamas,505,Attorney General,,WRI,Write-ins,3
+Clackamas,506,Attorney General,,WRI,Write-ins,9
+Clackamas,510,Attorney General,,WRI,Write-ins,1
+Clackamas,511,Attorney General,,WRI,Write-ins,17
+Clackamas,512,Attorney General,,WRI,Write-ins,6
+Clackamas,513,Attorney General,,WRI,Write-ins,6
+Clackamas,514,Attorney General,,WRI,Write-ins,52
+Clackamas,515,Attorney General,,WRI,Write-ins,0
+Clackamas,516,Attorney General,,WRI,Write-ins,2
+Clackamas,517,Attorney General,,WRI,Write-ins,15
+Clackamas,518,Attorney General,,WRI,Write-ins,3
+Clackamas,519,Attorney General,,WRI,Write-ins,6
+Clackamas,002,Attorney General,,,Under Votes,355
+Clackamas,003,Attorney General,,,Under Votes,505
+Clackamas,004,Attorney General,,,Under Votes,23
+Clackamas,005,Attorney General,,,Under Votes,191
+Clackamas,006,Attorney General,,,Under Votes,336
 Clackamas,007 & 010,Attorney General,,,Under Votes,135
-Clackamas,31,Attorney General,,,Under Votes,194
-Clackamas,32,Attorney General,,,Under Votes,332
-Clackamas,33,Attorney General,,,Under Votes,32
-Clackamas,40,Attorney General,,,Under Votes,23
-Clackamas,51,Attorney General,,,Under Votes,3
-Clackamas,52,Attorney General,,,Under Votes,43
-Clackamas,53,Attorney General,,,Under Votes,436
-Clackamas,55,Attorney General,,,Under Votes,335
+Clackamas,031,Attorney General,,,Under Votes,194
+Clackamas,032,Attorney General,,,Under Votes,332
+Clackamas,033,Attorney General,,,Under Votes,32
+Clackamas,040,Attorney General,,,Under Votes,23
+Clackamas,051,Attorney General,,,Under Votes,3
+Clackamas,052,Attorney General,,,Under Votes,43
+Clackamas,053,Attorney General,,,Under Votes,436
+Clackamas,055,Attorney General,,,Under Votes,335
 Clackamas,070 & 071,Attorney General,,,Under Votes,4
-Clackamas,72,Attorney General,,,Under Votes,6
-Clackamas,73,Attorney General,,,Under Votes,11
-Clackamas,74,Attorney General,,,Under Votes,9
+Clackamas,072,Attorney General,,,Under Votes,6
+Clackamas,073,Attorney General,,,Under Votes,11
+Clackamas,074,Attorney General,,,Under Votes,9
 Clackamas,099 & 100,Attorney General,,,Under Votes,26
 Clackamas,101,Attorney General,,,Under Votes,529
 Clackamas,102,Attorney General,,,Under Votes,71
@@ -4693,24 +4693,24 @@ Clackamas,516,Attorney General,,,Under Votes,49
 Clackamas,517,Attorney General,,,Under Votes,114
 Clackamas,518,Attorney General,,,Under Votes,31
 Clackamas,519,Attorney General,,,Under Votes,53
-Clackamas,2,Attorney General,,,Over Votes,0
-Clackamas,3,Attorney General,,,Over Votes,0
-Clackamas,4,Attorney General,,,Over Votes,0
-Clackamas,5,Attorney General,,,Over Votes,0
-Clackamas,6,Attorney General,,,Over Votes,0
+Clackamas,002,Attorney General,,,Over Votes,0
+Clackamas,003,Attorney General,,,Over Votes,0
+Clackamas,004,Attorney General,,,Over Votes,0
+Clackamas,005,Attorney General,,,Over Votes,0
+Clackamas,006,Attorney General,,,Over Votes,0
 Clackamas,007 & 010,Attorney General,,,Over Votes,0
-Clackamas,31,Attorney General,,,Over Votes,0
-Clackamas,32,Attorney General,,,Over Votes,0
-Clackamas,33,Attorney General,,,Over Votes,0
-Clackamas,40,Attorney General,,,Over Votes,1
-Clackamas,51,Attorney General,,,Over Votes,0
-Clackamas,52,Attorney General,,,Over Votes,0
-Clackamas,53,Attorney General,,,Over Votes,2
-Clackamas,55,Attorney General,,,Over Votes,0
+Clackamas,031,Attorney General,,,Over Votes,0
+Clackamas,032,Attorney General,,,Over Votes,0
+Clackamas,033,Attorney General,,,Over Votes,0
+Clackamas,040,Attorney General,,,Over Votes,1
+Clackamas,051,Attorney General,,,Over Votes,0
+Clackamas,052,Attorney General,,,Over Votes,0
+Clackamas,053,Attorney General,,,Over Votes,2
+Clackamas,055,Attorney General,,,Over Votes,0
 Clackamas,070 & 071,Attorney General,,,Over Votes,0
-Clackamas,72,Attorney General,,,Over Votes,0
-Clackamas,73,Attorney General,,,Over Votes,0
-Clackamas,74,Attorney General,,,Over Votes,0
+Clackamas,072,Attorney General,,,Over Votes,0
+Clackamas,073,Attorney General,,,Over Votes,0
+Clackamas,074,Attorney General,,,Over Votes,0
 Clackamas,099 & 100,Attorney General,,,Over Votes,0
 Clackamas,101,Attorney General,,,Over Votes,0
 Clackamas,102,Attorney General,,,Over Votes,0
@@ -4827,14 +4827,14 @@ Clackamas,351,State Senate,09,REP,Fred Girod,2237
 Clackamas,352,State Senate,09,REP,Fred Girod,1923
 Clackamas,361 & 362,State Senate,09,REP,Fred Girod,8
 Clackamas,363,State Senate,09,REP,Fred Girod,440
-Clackamas,111,State Senate,09,WRI,Write-in,6
-Clackamas,330,State Senate,09,WRI,Write-in,5
-Clackamas,332,State Senate,09,WRI,Write-in,0
-Clackamas,350,State Senate,09,WRI,Write-in,3
-Clackamas,351,State Senate,09,WRI,Write-in,3
-Clackamas,352,State Senate,09,WRI,Write-in,2
-Clackamas,361 & 362,State Senate,09,WRI,Write-in,0
-Clackamas,363,State Senate,09,WRI,Write-in,0
+Clackamas,111,State Senate,09,WRI,Write-ins,6
+Clackamas,330,State Senate,09,WRI,Write-ins,5
+Clackamas,332,State Senate,09,WRI,Write-ins,0
+Clackamas,350,State Senate,09,WRI,Write-ins,3
+Clackamas,351,State Senate,09,WRI,Write-ins,3
+Clackamas,352,State Senate,09,WRI,Write-ins,2
+Clackamas,361 & 362,State Senate,09,WRI,Write-ins,0
+Clackamas,363,State Senate,09,WRI,Write-ins,0
 Clackamas,111,State Senate,09,,Under Votes,440
 Clackamas,330,State Senate,09,,Under Votes,179
 Clackamas,332,State Senate,09,,Under Votes,23
@@ -4852,48 +4852,48 @@ Clackamas,352,State Senate,09,,Over Votes,1
 Clackamas,361 & 362,State Senate,09,,Over Votes,0
 Clackamas,363,State Senate,09,,Over Votes,0
 Clackamas,282,State Senate,18,DEM,Ginny Burdick,316
-Clackamas,282,State Senate,18,WRI,Write-in,31
+Clackamas,282,State Senate,18,WRI,Write-ins,31
 Clackamas,282,State Senate,18,,Under Votes,166
 Clackamas,282,State Senate,18,,Over Votes,0
-Clackamas,51,State Senate,21,DEM,Kathleen Taylor,64
-Clackamas,52,State Senate,21,DEM,Kathleen Taylor,466
-Clackamas,53,State Senate,21,DEM,Kathleen Taylor,4740
-Clackamas,55,State Senate,21,DEM,Kathleen Taylor,3808
+Clackamas,051,State Senate,21,DEM,Kathleen Taylor,64
+Clackamas,052,State Senate,21,DEM,Kathleen Taylor,466
+Clackamas,053,State Senate,21,DEM,Kathleen Taylor,4740
+Clackamas,055,State Senate,21,DEM,Kathleen Taylor,3808
 Clackamas,070 & 071,State Senate,21,DEM,Kathleen Taylor,108
-Clackamas,72,State Senate,21,DEM,Kathleen Taylor,69
+Clackamas,072,State Senate,21,DEM,Kathleen Taylor,69
 Clackamas,419,State Senate,21,DEM,Kathleen Taylor,186
 Clackamas,420,State Senate,21,DEM,Kathleen Taylor,759
 Clackamas,500,State Senate,21,DEM,Kathleen Taylor,178
 Clackamas,501,State Senate,21,DEM,Kathleen Taylor,2746
 Clackamas,502,State Senate,21,DEM,Kathleen Taylor,4216
-Clackamas,51,State Senate,21,WRI,Write-in,1
-Clackamas,52,State Senate,21,WRI,Write-in,22
-Clackamas,53,State Senate,21,WRI,Write-in,173
-Clackamas,55,State Senate,21,WRI,Write-in,186
-Clackamas,070 & 071,State Senate,21,WRI,Write-in,3
-Clackamas,72,State Senate,21,WRI,Write-in,3
-Clackamas,419,State Senate,21,WRI,Write-in,8
-Clackamas,420,State Senate,21,WRI,Write-in,56
-Clackamas,500,State Senate,21,WRI,Write-in,17
-Clackamas,501,State Senate,21,WRI,Write-in,90
-Clackamas,502,State Senate,21,WRI,Write-in,190
-Clackamas,51,State Senate,21,,Under Votes,18
-Clackamas,52,State Senate,21,,Under Votes,234
-Clackamas,53,State Senate,21,,Under Votes,2100
-Clackamas,55,State Senate,21,,Under Votes,1978
+Clackamas,051,State Senate,21,WRI,Write-ins,1
+Clackamas,052,State Senate,21,WRI,Write-ins,22
+Clackamas,053,State Senate,21,WRI,Write-ins,173
+Clackamas,055,State Senate,21,WRI,Write-ins,186
+Clackamas,070 & 071,State Senate,21,WRI,Write-ins,3
+Clackamas,072,State Senate,21,WRI,Write-ins,3
+Clackamas,419,State Senate,21,WRI,Write-ins,8
+Clackamas,420,State Senate,21,WRI,Write-ins,56
+Clackamas,500,State Senate,21,WRI,Write-ins,17
+Clackamas,501,State Senate,21,WRI,Write-ins,90
+Clackamas,502,State Senate,21,WRI,Write-ins,190
+Clackamas,051,State Senate,21,,Under Votes,18
+Clackamas,052,State Senate,21,,Under Votes,234
+Clackamas,053,State Senate,21,,Under Votes,2100
+Clackamas,055,State Senate,21,,Under Votes,1978
 Clackamas,070 & 071,State Senate,21,,Under Votes,44
-Clackamas,72,State Senate,21,,Under Votes,35
+Clackamas,072,State Senate,21,,Under Votes,35
 Clackamas,419,State Senate,21,,Under Votes,134
 Clackamas,420,State Senate,21,,Under Votes,386
 Clackamas,500,State Senate,21,,Under Votes,130
 Clackamas,501,State Senate,21,,Under Votes,1304
 Clackamas,502,State Senate,21,,Under Votes,2272
-Clackamas,51,State Senate,21,,Over Votes,0
-Clackamas,52,State Senate,21,,Over Votes,0
-Clackamas,53,State Senate,21,,Over Votes,1
-Clackamas,55,State Senate,21,,Over Votes,0
+Clackamas,051,State Senate,21,,Over Votes,0
+Clackamas,052,State Senate,21,,Over Votes,0
+Clackamas,053,State Senate,21,,Over Votes,1
+Clackamas,055,State Senate,21,,Over Votes,0
 Clackamas,070 & 071,State Senate,21,,Over Votes,0
-Clackamas,72,State Senate,21,,Over Votes,0
+Clackamas,072,State Senate,21,,Over Votes,0
 Clackamas,419,State Senate,21,,Over Votes,0
 Clackamas,420,State Senate,21,,Over Votes,0
 Clackamas,500,State Senate,21,,Over Votes,0
@@ -4915,14 +4915,14 @@ Clackamas,351,State House,18,REP,Rick Lewis,2349
 Clackamas,352,State House,18,REP,Rick Lewis,2036
 Clackamas,361 & 362,State House,18,REP,Rick Lewis,10
 Clackamas,363,State House,18,REP,Rick Lewis,462
-Clackamas,111,State House,18,WRI,Write-in,13
-Clackamas,330,State House,18,WRI,Write-in,14
-Clackamas,332,State House,18,WRI,Write-in,2
-Clackamas,350,State House,18,WRI,Write-in,2
-Clackamas,351,State House,18,WRI,Write-in,7
-Clackamas,352,State House,18,WRI,Write-in,5
-Clackamas,361 & 362,State House,18,WRI,Write-in,0
-Clackamas,363,State House,18,WRI,Write-in,0
+Clackamas,111,State House,18,WRI,Write-ins,13
+Clackamas,330,State House,18,WRI,Write-ins,14
+Clackamas,332,State House,18,WRI,Write-ins,2
+Clackamas,350,State House,18,WRI,Write-ins,2
+Clackamas,351,State House,18,WRI,Write-ins,7
+Clackamas,352,State House,18,WRI,Write-ins,5
+Clackamas,361 & 362,State House,18,WRI,Write-ins,0
+Clackamas,363,State House,18,WRI,Write-ins,0
 Clackamas,111,State House,18,,Under Votes,456
 Clackamas,330,State House,18,,Under Votes,189
 Clackamas,332,State House,18,,Under Votes,22
@@ -4951,10 +4951,10 @@ Clackamas,201,State House,26,REP,Peggy Stevens,1622
 Clackamas,202,State House,26,REP,Peggy Stevens,1863
 Clackamas,204,State House,26,REP,Peggy Stevens,1118
 Clackamas,323,State House,26,REP,Peggy Stevens,872
-Clackamas,201,State House,26,WRI,Write-in,1
-Clackamas,202,State House,26,WRI,Write-in,10
-Clackamas,204,State House,26,WRI,Write-in,3
-Clackamas,323,State House,26,WRI,Write-in,0
+Clackamas,201,State House,26,WRI,Write-ins,1
+Clackamas,202,State House,26,WRI,Write-ins,10
+Clackamas,204,State House,26,WRI,Write-ins,3
+Clackamas,323,State House,26,WRI,Write-ins,0
 Clackamas,201,State House,26,,Under Votes,245
 Clackamas,202,State House,26,,Under Votes,339
 Clackamas,204,State House,26,,Under Votes,186
@@ -4965,7 +4965,7 @@ Clackamas,204,State House,26,,Over Votes,0
 Clackamas,323,State House,26,,Over Votes,0
 Clackamas,282,State House,35,DEM,Dacia Grayber,306
 Clackamas,282,State House,35,REP,Bob Niemeier,162
-Clackamas,282,State House,35,WRI,Write-in,1
+Clackamas,282,State House,35,WRI,Write-ins,1
 Clackamas,282,State House,35,,Under Votes,4
 Clackamas,131,State House,37,DEM,Rachel Prusak,3372
 Clackamas,132,State House,37,DEM,Rachel Prusak,2535
@@ -4993,19 +4993,19 @@ Clackamas,284,State House,37,REP,Kelly Sloop,115
 Clackamas,320,State House,37,REP,Kelly Sloop,195
 Clackamas,321,State House,37,REP,Kelly Sloop,1385
 Clackamas,322,State House,37,REP,Kelly Sloop,717
-Clackamas,131,State House,37,WRI,Write-in,7
-Clackamas,132,State House,37,WRI,Write-in,4
-Clackamas,133,State House,37,WRI,Write-in,0
-Clackamas,134,State House,37,WRI,Write-in,0
-Clackamas,135,State House,37,WRI,Write-in,4
-Clackamas,154,State House,37,WRI,Write-in,0
-Clackamas,160,State House,37,WRI,Write-in,3
-Clackamas,251 & 252,State House,37,WRI,Write-in,0
-Clackamas,281,State House,37,WRI,Write-in,1
-Clackamas,284,State House,37,WRI,Write-in,0
-Clackamas,320,State House,37,WRI,Write-in,0
-Clackamas,321,State House,37,WRI,Write-in,4
-Clackamas,322,State House,37,WRI,Write-in,3
+Clackamas,131,State House,37,WRI,Write-ins,7
+Clackamas,132,State House,37,WRI,Write-ins,4
+Clackamas,133,State House,37,WRI,Write-ins,0
+Clackamas,134,State House,37,WRI,Write-ins,0
+Clackamas,135,State House,37,WRI,Write-ins,4
+Clackamas,154,State House,37,WRI,Write-ins,0
+Clackamas,160,State House,37,WRI,Write-ins,3
+Clackamas,251 & 252,State House,37,WRI,Write-ins,0
+Clackamas,281,State House,37,WRI,Write-ins,1
+Clackamas,284,State House,37,WRI,Write-ins,0
+Clackamas,320,State House,37,WRI,Write-ins,0
+Clackamas,321,State House,37,WRI,Write-ins,4
+Clackamas,322,State House,37,WRI,Write-ins,3
 Clackamas,131,State House,37,,Under Votes,318
 Clackamas,132,State House,37,,Under Votes,227
 Clackamas,133,State House,37,,Under Votes,102
@@ -5052,16 +5052,16 @@ Clackamas,159,State House,38,REP,Patrick Castles,2236
 Clackamas,251 & 252,State House,38,REP,Patrick Castles,0
 Clackamas,280,State House,38,REP,Patrick Castles,470
 Clackamas,283,State House,38,REP,Patrick Castles,168
-Clackamas,070 & 071,State House,38,WRI,Write-in,0
-Clackamas,151,State House,38,WRI,Write-in,2
-Clackamas,153,State House,38,WRI,Write-in,3
-Clackamas,155,State House,38,WRI,Write-in,0
-Clackamas,156,State House,38,WRI,Write-in,3
-Clackamas,157,State House,38,WRI,Write-in,0
-Clackamas,159,State House,38,WRI,Write-in,9
-Clackamas,251 & 252,State House,38,WRI,Write-in,0
-Clackamas,280,State House,38,WRI,Write-in,0
-Clackamas,283,State House,38,WRI,Write-in,1
+Clackamas,070 & 071,State House,38,WRI,Write-ins,0
+Clackamas,151,State House,38,WRI,Write-ins,2
+Clackamas,153,State House,38,WRI,Write-ins,3
+Clackamas,155,State House,38,WRI,Write-ins,0
+Clackamas,156,State House,38,WRI,Write-ins,3
+Clackamas,157,State House,38,WRI,Write-ins,0
+Clackamas,159,State House,38,WRI,Write-ins,9
+Clackamas,251 & 252,State House,38,WRI,Write-ins,0
+Clackamas,280,State House,38,WRI,Write-ins,0
+Clackamas,283,State House,38,WRI,Write-ins,1
 Clackamas,070 & 071,State House,38,,Under Votes,1
 Clackamas,151,State House,38,,Under Votes,166
 Clackamas,153,State House,38,,Under Votes,530
@@ -5072,7 +5072,7 @@ Clackamas,159,State House,38,,Under Votes,500
 Clackamas,251 & 252,State House,38,,Under Votes,0
 Clackamas,280,State House,38,,Under Votes,125
 Clackamas,283,State House,38,,Under Votes,33
-Clackamas,4,State House,39,DEM,Tessa Danel,106
+Clackamas,004,State House,39,DEM,Tessa Danel,106
 Clackamas,099 & 100,State House,39,DEM,Tessa Danel,0
 Clackamas,102,State House,39,DEM,Tessa Danel,314
 Clackamas,106,State House,39,DEM,Tessa Danel,740
@@ -5098,7 +5098,7 @@ Clackamas,516,State House,39,DEM,Tessa Danel,277
 Clackamas,517,State House,39,DEM,Tessa Danel,535
 Clackamas,518,State House,39,DEM,Tessa Danel,227
 Clackamas,519,State House,39,DEM,Tessa Danel,242
-Clackamas,4,State House,39,REP,Christine Drazan,142
+Clackamas,004,State House,39,REP,Christine Drazan,142
 Clackamas,099 & 100,State House,39,REP,Christine Drazan,1
 Clackamas,102,State House,39,REP,Christine Drazan,335
 Clackamas,106,State House,39,REP,Christine Drazan,1385
@@ -5124,7 +5124,7 @@ Clackamas,516,State House,39,REP,Christine Drazan,591
 Clackamas,517,State House,39,REP,Christine Drazan,1171
 Clackamas,518,State House,39,REP,Christine Drazan,442
 Clackamas,519,State House,39,REP,Christine Drazan,501
-Clackamas,4,State House,39,LIB,Kenny Sernach,5
+Clackamas,004,State House,39,LIB,Kenny Sernach,5
 Clackamas,099 & 100,State House,39,LIB,Kenny Sernach,0
 Clackamas,102,State House,39,LIB,Kenny Sernach,10
 Clackamas,106,State House,39,LIB,Kenny Sernach,78
@@ -5150,33 +5150,33 @@ Clackamas,516,State House,39,LIB,Kenny Sernach,17
 Clackamas,517,State House,39,LIB,Kenny Sernach,27
 Clackamas,518,State House,39,LIB,Kenny Sernach,16
 Clackamas,519,State House,39,LIB,Kenny Sernach,16
-Clackamas,4,State House,39,WRI,Write-in,0
-Clackamas,099 & 100,State House,39,WRI,Write-in,0
-Clackamas,102,State House,39,WRI,Write-in,1
-Clackamas,106,State House,39,WRI,Write-in,2
-Clackamas,122,State House,39,WRI,Write-in,2
-Clackamas,124,State House,39,WRI,Write-in,3
-Clackamas,125,State House,39,WRI,Write-in,0
-Clackamas,127,State House,39,WRI,Write-in,0
-Clackamas,203,State House,39,WRI,Write-in,0
-Clackamas,331,State House,39,WRI,Write-in,2
-Clackamas,333,State House,39,WRI,Write-in,2
-Clackamas,360,State House,39,WRI,Write-in,8
-Clackamas,361 & 362,State House,39,WRI,Write-in,1
-Clackamas,401,State House,39,WRI,Write-in,1
-Clackamas,405,State House,39,WRI,Write-in,2
-Clackamas,406,State House,39,WRI,Write-in,1
-Clackamas,412,State House,39,WRI,Write-in,4
-Clackamas,417 & 418,State House,39,WRI,Write-in,0
-Clackamas,511,State House,39,WRI,Write-in,2
-Clackamas,513,State House,39,WRI,Write-in,4
-Clackamas,514,State House,39,WRI,Write-in,15
-Clackamas,515,State House,39,WRI,Write-in,1
-Clackamas,516,State House,39,WRI,Write-in,1
-Clackamas,517,State House,39,WRI,Write-in,4
-Clackamas,518,State House,39,WRI,Write-in,0
-Clackamas,519,State House,39,WRI,Write-in,1
-Clackamas,4,State House,39,,Under Votes,24
+Clackamas,004,State House,39,WRI,Write-ins,0
+Clackamas,099 & 100,State House,39,WRI,Write-ins,0
+Clackamas,102,State House,39,WRI,Write-ins,1
+Clackamas,106,State House,39,WRI,Write-ins,2
+Clackamas,122,State House,39,WRI,Write-ins,2
+Clackamas,124,State House,39,WRI,Write-ins,3
+Clackamas,125,State House,39,WRI,Write-ins,0
+Clackamas,127,State House,39,WRI,Write-ins,0
+Clackamas,203,State House,39,WRI,Write-ins,0
+Clackamas,331,State House,39,WRI,Write-ins,2
+Clackamas,333,State House,39,WRI,Write-ins,2
+Clackamas,360,State House,39,WRI,Write-ins,8
+Clackamas,361 & 362,State House,39,WRI,Write-ins,1
+Clackamas,401,State House,39,WRI,Write-ins,1
+Clackamas,405,State House,39,WRI,Write-ins,2
+Clackamas,406,State House,39,WRI,Write-ins,1
+Clackamas,412,State House,39,WRI,Write-ins,4
+Clackamas,417 & 418,State House,39,WRI,Write-ins,0
+Clackamas,511,State House,39,WRI,Write-ins,2
+Clackamas,513,State House,39,WRI,Write-ins,4
+Clackamas,514,State House,39,WRI,Write-ins,15
+Clackamas,515,State House,39,WRI,Write-ins,1
+Clackamas,516,State House,39,WRI,Write-ins,1
+Clackamas,517,State House,39,WRI,Write-ins,4
+Clackamas,518,State House,39,WRI,Write-ins,0
+Clackamas,519,State House,39,WRI,Write-ins,1
+Clackamas,004,State House,39,,Under Votes,24
 Clackamas,099 & 100,State House,39,,Under Votes,0
 Clackamas,102,State House,39,,Under Votes,77
 Clackamas,106,State House,39,,Under Votes,189
@@ -5202,7 +5202,7 @@ Clackamas,516,State House,39,,Under Votes,72
 Clackamas,517,State House,39,,Under Votes,144
 Clackamas,518,State House,39,,Under Votes,43
 Clackamas,519,State House,39,,Under Votes,66
-Clackamas,4,State House,39,,Over Votes,0
+Clackamas,004,State House,39,,Over Votes,0
 Clackamas,099 & 100,State House,39,,Over Votes,0
 Clackamas,102,State House,39,,Over Votes,0
 Clackamas,106,State House,39,,Over Votes,0
@@ -5228,172 +5228,172 @@ Clackamas,516,State House,39,,Over Votes,0
 Clackamas,517,State House,39,,Over Votes,0
 Clackamas,518,State House,39,,Over Votes,0
 Clackamas,519,State House,39,,Over Votes,0
-Clackamas,2,State House,40,DEM,Mark Meek,2861
-Clackamas,3,State House,40,DEM,Mark Meek,3360
-Clackamas,5,State House,40,DEM,Mark Meek,1184
-Clackamas,6,State House,40,DEM,Mark Meek,2182
+Clackamas,002,State House,40,DEM,Mark Meek,2861
+Clackamas,003,State House,40,DEM,Mark Meek,3360
+Clackamas,005,State House,40,DEM,Mark Meek,1184
+Clackamas,006,State House,40,DEM,Mark Meek,2182
 Clackamas,007 & 010,State House,40,DEM,Mark Meek,784
-Clackamas,31,State House,40,DEM,Mark Meek,1398
-Clackamas,32,State House,40,DEM,Mark Meek,2102
-Clackamas,33,State House,40,DEM,Mark Meek,320
-Clackamas,40,State House,40,DEM,Mark Meek,143
+Clackamas,031,State House,40,DEM,Mark Meek,1398
+Clackamas,032,State House,40,DEM,Mark Meek,2102
+Clackamas,033,State House,40,DEM,Mark Meek,320
+Clackamas,040,State House,40,DEM,Mark Meek,143
 Clackamas,503,State House,40,DEM,Mark Meek,1557
 Clackamas,504,State House,40,DEM,Mark Meek,2945
 Clackamas,505,State House,40,DEM,Mark Meek,75
 Clackamas,506,State House,40,DEM,Mark Meek,1179
 Clackamas,510,State House,40,DEM,Mark Meek,394
 Clackamas,512,State House,40,DEM,Mark Meek,684
-Clackamas,2,State House,40,REP,Josh Howard,2027
-Clackamas,3,State House,40,REP,Josh Howard,2915
-Clackamas,5,State House,40,REP,Josh Howard,1202
-Clackamas,6,State House,40,REP,Josh Howard,2445
+Clackamas,002,State House,40,REP,Josh Howard,2027
+Clackamas,003,State House,40,REP,Josh Howard,2915
+Clackamas,005,State House,40,REP,Josh Howard,1202
+Clackamas,006,State House,40,REP,Josh Howard,2445
 Clackamas,007 & 010,State House,40,REP,Josh Howard,657
-Clackamas,31,State House,40,REP,Josh Howard,1016
-Clackamas,32,State House,40,REP,Josh Howard,1608
-Clackamas,33,State House,40,REP,Josh Howard,240
-Clackamas,40,State House,40,REP,Josh Howard,126
+Clackamas,031,State House,40,REP,Josh Howard,1016
+Clackamas,032,State House,40,REP,Josh Howard,1608
+Clackamas,033,State House,40,REP,Josh Howard,240
+Clackamas,040,State House,40,REP,Josh Howard,126
 Clackamas,503,State House,40,REP,Josh Howard,1110
 Clackamas,504,State House,40,REP,Josh Howard,1926
 Clackamas,505,State House,40,REP,Josh Howard,54
 Clackamas,506,State House,40,REP,Josh Howard,958
 Clackamas,510,State House,40,REP,Josh Howard,520
 Clackamas,512,State House,40,REP,Josh Howard,731
-Clackamas,2,State House,40,WRI,Write-in,5
-Clackamas,3,State House,40,WRI,Write-in,9
-Clackamas,5,State House,40,WRI,Write-in,8
-Clackamas,6,State House,40,WRI,Write-in,4
-Clackamas,007 & 010,State House,40,WRI,Write-in,0
-Clackamas,31,State House,40,WRI,Write-in,7
-Clackamas,32,State House,40,WRI,Write-in,9
-Clackamas,33,State House,40,WRI,Write-in,0
-Clackamas,40,State House,40,WRI,Write-in,0
-Clackamas,503,State House,40,WRI,Write-in,4
-Clackamas,504,State House,40,WRI,Write-in,10
-Clackamas,505,State House,40,WRI,Write-in,0
-Clackamas,506,State House,40,WRI,Write-in,3
-Clackamas,510,State House,40,WRI,Write-in,1
-Clackamas,512,State House,40,WRI,Write-in,3
-Clackamas,2,State House,40,,Under Votes,382
-Clackamas,3,State House,40,,Under Votes,531
-Clackamas,5,State House,40,,Under Votes,226
-Clackamas,6,State House,40,,Under Votes,375
+Clackamas,002,State House,40,WRI,Write-ins,5
+Clackamas,003,State House,40,WRI,Write-ins,9
+Clackamas,005,State House,40,WRI,Write-ins,8
+Clackamas,006,State House,40,WRI,Write-ins,4
+Clackamas,007 & 010,State House,40,WRI,Write-ins,0
+Clackamas,031,State House,40,WRI,Write-ins,7
+Clackamas,032,State House,40,WRI,Write-ins,9
+Clackamas,033,State House,40,WRI,Write-ins,0
+Clackamas,040,State House,40,WRI,Write-ins,0
+Clackamas,503,State House,40,WRI,Write-ins,4
+Clackamas,504,State House,40,WRI,Write-ins,10
+Clackamas,505,State House,40,WRI,Write-ins,0
+Clackamas,506,State House,40,WRI,Write-ins,3
+Clackamas,510,State House,40,WRI,Write-ins,1
+Clackamas,512,State House,40,WRI,Write-ins,3
+Clackamas,002,State House,40,,Under Votes,382
+Clackamas,003,State House,40,,Under Votes,531
+Clackamas,005,State House,40,,Under Votes,226
+Clackamas,006,State House,40,,Under Votes,375
 Clackamas,007 & 010,State House,40,,Under Votes,155
-Clackamas,31,State House,40,,Under Votes,204
-Clackamas,32,State House,40,,Under Votes,338
-Clackamas,33,State House,40,,Under Votes,33
-Clackamas,40,State House,40,,Under Votes,19
+Clackamas,031,State House,40,,Under Votes,204
+Clackamas,032,State House,40,,Under Votes,338
+Clackamas,033,State House,40,,Under Votes,33
+Clackamas,040,State House,40,,Under Votes,19
 Clackamas,503,State House,40,,Under Votes,173
 Clackamas,504,State House,40,,Under Votes,405
 Clackamas,505,State House,40,,Under Votes,13
 Clackamas,506,State House,40,,Under Votes,171
 Clackamas,510,State House,40,,Under Votes,76
 Clackamas,512,State House,40,,Under Votes,121
-Clackamas,2,State House,40,,Over Votes,0
-Clackamas,3,State House,40,,Over Votes,1
-Clackamas,5,State House,40,,Over Votes,0
-Clackamas,6,State House,40,,Over Votes,0
+Clackamas,002,State House,40,,Over Votes,0
+Clackamas,003,State House,40,,Over Votes,1
+Clackamas,005,State House,40,,Over Votes,0
+Clackamas,006,State House,40,,Over Votes,0
 Clackamas,007 & 010,State House,40,,Over Votes,0
-Clackamas,31,State House,40,,Over Votes,0
-Clackamas,32,State House,40,,Over Votes,0
-Clackamas,33,State House,40,,Over Votes,1
-Clackamas,40,State House,40,,Over Votes,0
+Clackamas,031,State House,40,,Over Votes,0
+Clackamas,032,State House,40,,Over Votes,0
+Clackamas,033,State House,40,,Over Votes,1
+Clackamas,040,State House,40,,Over Votes,0
 Clackamas,503,State House,40,,Over Votes,1
 Clackamas,504,State House,40,,Over Votes,0
 Clackamas,505,State House,40,,Over Votes,0
 Clackamas,506,State House,40,,Over Votes,0
 Clackamas,510,State House,40,,Over Votes,0
 Clackamas,512,State House,40,,Over Votes,0
-Clackamas,51,State House,41,DEM,Karin Power,54
-Clackamas,52,State House,41,DEM,Karin Power,443
-Clackamas,53,State House,41,DEM,Karin Power,4528
-Clackamas,55,State House,41,DEM,Karin Power,3559
+Clackamas,051,State House,41,DEM,Karin Power,54
+Clackamas,052,State House,41,DEM,Karin Power,443
+Clackamas,053,State House,41,DEM,Karin Power,4528
+Clackamas,055,State House,41,DEM,Karin Power,3559
 Clackamas,070 & 071,State House,41,DEM,Karin Power,97
-Clackamas,72,State House,41,DEM,Karin Power,65
+Clackamas,072,State House,41,DEM,Karin Power,65
 Clackamas,419,State House,41,DEM,Karin Power,170
 Clackamas,420,State House,41,DEM,Karin Power,723
 Clackamas,500,State House,41,DEM,Karin Power,159
 Clackamas,501,State House,41,DEM,Karin Power,2661
 Clackamas,502,State House,41,DEM,Karin Power,3869
-Clackamas,51,State House,41,REP,Michael Newgard,22
-Clackamas,52,State House,41,REP,Michael Newgard,224
-Clackamas,53,State House,41,REP,Michael Newgard,1928
-Clackamas,55,State House,41,REP,Michael Newgard,1978
+Clackamas,051,State House,41,REP,Michael Newgard,22
+Clackamas,052,State House,41,REP,Michael Newgard,224
+Clackamas,053,State House,41,REP,Michael Newgard,1928
+Clackamas,055,State House,41,REP,Michael Newgard,1978
 Clackamas,070 & 071,State House,41,REP,Michael Newgard,46
-Clackamas,72,State House,41,REP,Michael Newgard,34
+Clackamas,072,State House,41,REP,Michael Newgard,34
 Clackamas,419,State House,41,REP,Michael Newgard,134
 Clackamas,420,State House,41,REP,Michael Newgard,377
 Clackamas,500,State House,41,REP,Michael Newgard,135
 Clackamas,501,State House,41,REP,Michael Newgard,1178
 Clackamas,502,State House,41,REP,Michael Newgard,2264
-Clackamas,51,State House,41,WRI,Write-in,0
-Clackamas,52,State House,41,WRI,Write-in,3
-Clackamas,53,State House,41,WRI,Write-in,9
-Clackamas,55,State House,41,WRI,Write-in,7
-Clackamas,070 & 071,State House,41,WRI,Write-in,0
-Clackamas,72,State House,41,WRI,Write-in,0
-Clackamas,419,State House,41,WRI,Write-in,0
-Clackamas,420,State House,41,WRI,Write-in,1
-Clackamas,500,State House,41,WRI,Write-in,0
-Clackamas,501,State House,41,WRI,Write-in,7
-Clackamas,502,State House,41,WRI,Write-in,9
-Clackamas,51,State House,41,,Under Votes,7
-Clackamas,52,State House,41,,Under Votes,52
-Clackamas,53,State House,41,,Under Votes,549
-Clackamas,55,State House,41,,Under Votes,427
+Clackamas,051,State House,41,WRI,Write-ins,0
+Clackamas,052,State House,41,WRI,Write-ins,3
+Clackamas,053,State House,41,WRI,Write-ins,9
+Clackamas,055,State House,41,WRI,Write-ins,7
+Clackamas,070 & 071,State House,41,WRI,Write-ins,0
+Clackamas,072,State House,41,WRI,Write-ins,0
+Clackamas,419,State House,41,WRI,Write-ins,0
+Clackamas,420,State House,41,WRI,Write-ins,1
+Clackamas,500,State House,41,WRI,Write-ins,0
+Clackamas,501,State House,41,WRI,Write-ins,7
+Clackamas,502,State House,41,WRI,Write-ins,9
+Clackamas,051,State House,41,,Under Votes,7
+Clackamas,052,State House,41,,Under Votes,52
+Clackamas,053,State House,41,,Under Votes,549
+Clackamas,055,State House,41,,Under Votes,427
 Clackamas,070 & 071,State House,41,,Under Votes,12
-Clackamas,72,State House,41,,Under Votes,8
+Clackamas,072,State House,41,,Under Votes,8
 Clackamas,419,State House,41,,Under Votes,24
 Clackamas,420,State House,41,,Under Votes,100
 Clackamas,500,State House,41,,Under Votes,31
 Clackamas,501,State House,41,,Under Votes,294
 Clackamas,502,State House,41,,Under Votes,536
-Clackamas,51,State House,41,,Over Votes,0
-Clackamas,52,State House,41,,Over Votes,0
-Clackamas,53,State House,41,,Over Votes,0
-Clackamas,55,State House,41,,Over Votes,1
+Clackamas,051,State House,41,,Over Votes,0
+Clackamas,052,State House,41,,Over Votes,0
+Clackamas,053,State House,41,,Over Votes,0
+Clackamas,055,State House,41,,Over Votes,1
 Clackamas,070 & 071,State House,41,,Over Votes,0
-Clackamas,72,State House,41,,Over Votes,0
+Clackamas,072,State House,41,,Over Votes,0
 Clackamas,419,State House,41,,Over Votes,0
 Clackamas,420,State House,41,,Over Votes,0
 Clackamas,500,State House,41,,Over Votes,0
 Clackamas,501,State House,41,,Over Votes,0
 Clackamas,502,State House,41,,Over Votes,0
-Clackamas,73,State House,48,DEM,Jeff Reardon,113
+Clackamas,073,State House,48,DEM,Jeff Reardon,113
 Clackamas,099 & 100,State House,48,DEM,Jeff Reardon,220
 Clackamas,103 & 104,State House,48,DEM,Jeff Reardon,1942
 Clackamas,410,State House,48,DEM,Jeff Reardon,1023
 Clackamas,417 & 418,State House,48,DEM,Jeff Reardon,1329
 Clackamas,421,State House,48,DEM,Jeff Reardon,1715
 Clackamas,422,State House,48,DEM,Jeff Reardon,3940
-Clackamas,73,State House,48,LIB,Edward Marihart,48
+Clackamas,073,State House,48,LIB,Edward Marihart,48
 Clackamas,099 & 100,State House,48,LIB,Edward Marihart,106
 Clackamas,103 & 104,State House,48,LIB,Edward Marihart,841
 Clackamas,410,State House,48,LIB,Edward Marihart,335
 Clackamas,417 & 418,State House,48,LIB,Edward Marihart,525
 Clackamas,421,State House,48,LIB,Edward Marihart,558
 Clackamas,422,State House,48,LIB,Edward Marihart,1143
-Clackamas,73,State House,48,WRI,Write-in,1
-Clackamas,099 & 100,State House,48,WRI,Write-in,4
-Clackamas,103 & 104,State House,48,WRI,Write-in,45
-Clackamas,410,State House,48,WRI,Write-in,29
-Clackamas,417 & 418,State House,48,WRI,Write-in,28
-Clackamas,421,State House,48,WRI,Write-in,31
-Clackamas,422,State House,48,WRI,Write-in,95
-Clackamas,73,State House,48,,Under Votes,42
+Clackamas,073,State House,48,WRI,Write-ins,1
+Clackamas,099 & 100,State House,48,WRI,Write-ins,4
+Clackamas,103 & 104,State House,48,WRI,Write-ins,45
+Clackamas,410,State House,48,WRI,Write-ins,29
+Clackamas,417 & 418,State House,48,WRI,Write-ins,28
+Clackamas,421,State House,48,WRI,Write-ins,31
+Clackamas,422,State House,48,WRI,Write-ins,95
+Clackamas,073,State House,48,,Under Votes,42
 Clackamas,099 & 100,State House,48,,Under Votes,103
 Clackamas,103 & 104,State House,48,,Under Votes,883
 Clackamas,410,State House,48,,Under Votes,409
 Clackamas,417 & 418,State House,48,,Under Votes,582
 Clackamas,421,State House,48,,Under Votes,607
 Clackamas,422,State House,48,,Under Votes,1158
-Clackamas,73,State House,48,,Over Votes,0
+Clackamas,073,State House,48,,Over Votes,0
 Clackamas,099 & 100,State House,48,,Over Votes,0
 Clackamas,103 & 104,State House,48,,Over Votes,0
 Clackamas,410,State House,48,,Over Votes,1
 Clackamas,417 & 418,State House,48,,Over Votes,0
 Clackamas,421,State House,48,,Over Votes,0
 Clackamas,422,State House,48,,Over Votes,4
-Clackamas,74,State House,51,DEM,Janelle Bynum,16
+Clackamas,074,State House,51,DEM,Janelle Bynum,16
 Clackamas,101,State House,51,DEM,Janelle Bynum,3565
 Clackamas,103 & 104,State House,51,DEM,Janelle Bynum,2
 Clackamas,105,State House,51,DEM,Janelle Bynum,562
@@ -5405,7 +5405,7 @@ Clackamas,413,State House,51,DEM,Janelle Bynum,1115
 Clackamas,414,State House,51,DEM,Janelle Bynum,123
 Clackamas,415,State House,51,DEM,Janelle Bynum,47
 Clackamas,416,State House,51,DEM,Janelle Bynum,2128
-Clackamas,74,State House,51,REP,Jane Hays,28
+Clackamas,074,State House,51,REP,Jane Hays,28
 Clackamas,101,State House,51,REP,Jane Hays,2988
 Clackamas,103 & 104,State House,51,REP,Jane Hays,0
 Clackamas,105,State House,51,REP,Jane Hays,475
@@ -5417,7 +5417,7 @@ Clackamas,413,State House,51,REP,Jane Hays,846
 Clackamas,414,State House,51,REP,Jane Hays,212
 Clackamas,415,State House,51,REP,Jane Hays,70
 Clackamas,416,State House,51,REP,Jane Hays,1676
-Clackamas,74,State House,51,LIB,Donald Crawford,8
+Clackamas,074,State House,51,LIB,Donald Crawford,8
 Clackamas,101,State House,51,LIB,Donald Crawford,239
 Clackamas,103 & 104,State House,51,LIB,Donald Crawford,1
 Clackamas,105,State House,51,LIB,Donald Crawford,39
@@ -5429,19 +5429,19 @@ Clackamas,413,State House,51,LIB,Donald Crawford,115
 Clackamas,414,State House,51,LIB,Donald Crawford,19
 Clackamas,415,State House,51,LIB,Donald Crawford,2
 Clackamas,416,State House,51,LIB,Donald Crawford,118
-Clackamas,74,State House,51,WRI,Write-in,0
-Clackamas,101,State House,51,WRI,Write-in,8
-Clackamas,103 & 104,State House,51,WRI,Write-in,0
-Clackamas,105,State House,51,WRI,Write-in,1
-Clackamas,400,State House,51,WRI,Write-in,1
-Clackamas,402,State House,51,WRI,Write-in,0
-Clackamas,403,State House,51,WRI,Write-in,1
-Clackamas,411,State House,51,WRI,Write-in,6
-Clackamas,413,State House,51,WRI,Write-in,3
-Clackamas,414,State House,51,WRI,Write-in,0
-Clackamas,415,State House,51,WRI,Write-in,0
-Clackamas,416,State House,51,WRI,Write-in,7
-Clackamas,74,State House,51,,Under Votes,6
+Clackamas,074,State House,51,WRI,Write-ins,0
+Clackamas,101,State House,51,WRI,Write-ins,8
+Clackamas,103 & 104,State House,51,WRI,Write-ins,0
+Clackamas,105,State House,51,WRI,Write-ins,1
+Clackamas,400,State House,51,WRI,Write-ins,1
+Clackamas,402,State House,51,WRI,Write-ins,0
+Clackamas,403,State House,51,WRI,Write-ins,1
+Clackamas,411,State House,51,WRI,Write-ins,6
+Clackamas,413,State House,51,WRI,Write-ins,3
+Clackamas,414,State House,51,WRI,Write-ins,0
+Clackamas,415,State House,51,WRI,Write-ins,0
+Clackamas,416,State House,51,WRI,Write-ins,7
+Clackamas,074,State House,51,,Under Votes,6
 Clackamas,101,State House,51,,Under Votes,549
 Clackamas,103 & 104,State House,51,,Under Votes,1
 Clackamas,105,State House,51,,Under Votes,70
@@ -5453,7 +5453,7 @@ Clackamas,413,State House,51,,Under Votes,170
 Clackamas,414,State House,51,,Under Votes,17
 Clackamas,415,State House,51,,Under Votes,9
 Clackamas,416,State House,51,,Under Votes,311
-Clackamas,74,State House,51,,Over Votes,0
+Clackamas,074,State House,51,,Over Votes,0
 Clackamas,101,State House,51,,Over Votes,1
 Clackamas,103 & 104,State House,51,,Over Votes,0
 Clackamas,105,State House,51,,Over Votes,0
@@ -5489,14 +5489,14 @@ Clackamas,371,State House,52,REP,Jeff Helfrich,426
 Clackamas,372,State House,52,REP,Jeff Helfrich,307
 Clackamas,373,State House,52,REP,Jeff Helfrich,1654
 Clackamas,404,State House,52,REP,Jeff Helfrich,2459
-Clackamas,107,State House,52,WRI,Write-in,1
-Clackamas,108,State House,52,WRI,Write-in,4
-Clackamas,364,State House,52,WRI,Write-in,3
-Clackamas,370,State House,52,WRI,Write-in,0
-Clackamas,371,State House,52,WRI,Write-in,0
-Clackamas,372,State House,52,WRI,Write-in,2
-Clackamas,373,State House,52,WRI,Write-in,1
-Clackamas,404,State House,52,WRI,Write-in,2
+Clackamas,107,State House,52,WRI,Write-ins,1
+Clackamas,108,State House,52,WRI,Write-ins,4
+Clackamas,364,State House,52,WRI,Write-ins,3
+Clackamas,370,State House,52,WRI,Write-ins,0
+Clackamas,371,State House,52,WRI,Write-ins,0
+Clackamas,372,State House,52,WRI,Write-ins,2
+Clackamas,373,State House,52,WRI,Write-ins,1
+Clackamas,404,State House,52,WRI,Write-ins,2
 Clackamas,107,State House,52,,Under Votes,117
 Clackamas,108,State House,52,,Under Votes,292
 Clackamas,364,State House,52,,Under Votes,47
