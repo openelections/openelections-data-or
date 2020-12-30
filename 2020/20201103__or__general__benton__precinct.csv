@@ -1,0 +1,1146 @@
+county,precinct,office,district,party,candidate,votes
+Benton,01 - Corvallis ONE C4S8H16,Voter Registration,,,,4485
+Benton,02 - Corvallis TWO C4S8H16,Voter Registration,,,,2972
+Benton,03 - Corvallis THREE C4S8H16,Voter Registration,,,,4209
+Benton,04 - Corvallis FOUR C4S8H16,Voter Registration,,,,1613
+Benton,05 - Corvallis FIVE C4S8H16,Voter Registration,,,,2776
+Benton,06 - Corvallis SIX C4S8H16,Voter Registration,,,,3963
+Benton,07 - Corvallis SEVEN C4S8H16,Voter Registration,,,,4535
+Benton,08 - Corvallis EIGHT C4S8H16,Voter Registration,,,,4602
+Benton,09 - Corvallis NINE C4S8H16,Voter Registration,,,,4158
+Benton,10 - Philomath C4S8H16,Voter Registration,,,,3814
+Benton,11 - N Albany C5S8H15,Voter Registration,,,,6817
+Benton,12 - Adair Village C5S12H23,Voter Registration,,,,748
+Benton,13 - Monroe C4S12H23,Voter Registration,,,,459
+Benton,14 - Alsea School C4S12H23,Voter Registration,,,,721
+Benton,15 - Northwest C4S12H23,Voter Registration,,,,2896
+Benton,16 - Corvallis Rural C4S8H16,Voter Registration,,,,3389
+Benton,17 - North 509J C4S12H23,Voter Registration,,,,1601
+Benton,18 - Albany Rural C5S8H15,Voter Registration,,,,1746
+Benton,19 - South 509J C4S12H23,Voter Registration,,,,1281
+Benton,20 - Monroe Rural C4S12H23,Voter Registration,,,,1969
+Benton,21 - Philomath Rural C4S8H16,Voter Registration,,,,434
+Benton,22 - Adair Rural C5S12H23,Voter Registration,,,,556
+Benton,23 - Highway 20 C4S8H15,Voter Registration,,,,799
+Benton,01 - Corvallis ONE C4S8H16,Ballots Cast,,,,4065
+Benton,02 - Corvallis TWO C4S8H16,Ballots Cast,,,,2406
+Benton,03 - Corvallis THREE C4S8H16,Ballots Cast,,,,3643
+Benton,04 - Corvallis FOUR C4S8H16,Ballots Cast,,,,1368
+Benton,05 - Corvallis FIVE C4S8H16,Ballots Cast,,,,2372
+Benton,06 - Corvallis SIX C4S8H16,Ballots Cast,,,,3384
+Benton,07 - Corvallis SEVEN C4S8H16,Ballots Cast,,,,4160
+Benton,08 - Corvallis EIGHT C4S8H16,Ballots Cast,,,,4295
+Benton,09 - Corvallis NINE C4S8H16,Ballots Cast,,,,3591
+Benton,10 - Philomath C4S8H16,Ballots Cast,,,,3175
+Benton,11 - N Albany C5S8H15,Ballots Cast,,,,6100
+Benton,12 - Adair Village C5S12H23,Ballots Cast,,,,646
+Benton,13 - Monroe C4S12H23,Ballots Cast,,,,357
+Benton,14 - Alsea School C4S12H23,Ballots Cast,,,,608
+Benton,15 - Northwest C4S12H23,Ballots Cast,,,,2548
+Benton,16 - Corvallis Rural C4S8H16,Ballots Cast,,,,3106
+Benton,17 - North 509J C4S12H23,Ballots Cast,,,,1474
+Benton,18 - Albany Rural C5S8H15,Ballots Cast,,,,1581
+Benton,19 - South 509J C4S12H23,Ballots Cast,,,,1141
+Benton,20 - Monroe Rural C4S12H23,Ballots Cast,,,,1633
+Benton,21 - Philomath Rural C4S8H16,Ballots Cast,,,,395
+Benton,22 - Adair Rural C5S12H23,Ballots Cast,,,,503
+Benton,23 - Highway 20 C4S8H15,Ballots Cast,,,,684
+Benton,01 - Corvallis ONE C4S8H16,President,,REP,Donald Trump,841
+Benton,01 - Corvallis ONE C4S8H16,President,,DEM,Joe Biden,3038
+Benton,01 - Corvallis ONE C4S8H16,President,,LIB,Jo Jorgensen,75
+Benton,01 - Corvallis ONE C4S8H16,President,,PAC,Howie Hawkins,32
+Benton,01 - Corvallis ONE C4S8H16,President,,PRO,Dario Hunter,9
+Benton,01 - Corvallis ONE C4S8H16,President,,,Write-ins,33
+Benton,01 - Corvallis ONE C4S8H16,President,,,Over Votes,1
+Benton,01 - Corvallis ONE C4S8H16,President,,,Under Votes,36
+Benton,01 - Corvallis ONE C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,876
+Benton,01 - Corvallis ONE C4S8H16,U.S. Senate,,DEM,Jeff Merkley,2935
+Benton,01 - Corvallis ONE C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,86
+Benton,01 - Corvallis ONE C4S8H16,U.S. Senate,,LIB,Gary Dye,63
+Benton,01 - Corvallis ONE C4S8H16,U.S. Senate,,,Write-ins,4
+Benton,01 - Corvallis ONE C4S8H16,U.S. Senate,,,Over Votes,0
+Benton,01 - Corvallis ONE C4S8H16,U.S. Senate,,,Under Votes,101
+Benton,01 - Corvallis ONE C4S8H16,U.S. House,4,PAC,Daniel Hoffay,67
+Benton,01 - Corvallis ONE C4S8H16,U.S. House,4,DEM,Peter DeFazio,2904
+Benton,01 - Corvallis ONE C4S8H16,U.S. House,4,REP,Alex Skarlatos,1001
+Benton,01 - Corvallis ONE C4S8H16,U.S. House,4,,Write-ins,4
+Benton,01 - Corvallis ONE C4S8H16,U.S. House,4,,Over Votes,0
+Benton,01 - Corvallis ONE C4S8H16,U.S. House,4,,Under Votes,89
+Benton,01 - Corvallis ONE C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,156
+Benton,01 - Corvallis ONE C4S8H16,Secretary of State,,LIB,Kyle Markley,105
+Benton,01 - Corvallis ONE C4S8H16,Secretary of State,,REP,Kim Thatcher,1063
+Benton,01 - Corvallis ONE C4S8H16,Secretary of State,,DEM,Shemia Fagan,2536
+Benton,01 - Corvallis ONE C4S8H16,Secretary of State,,,Write-ins,5
+Benton,01 - Corvallis ONE C4S8H16,Secretary of State,,,Over Votes,0
+Benton,01 - Corvallis ONE C4S8H16,Secretary of State,,,Under Votes,174
+Benton,01 - Corvallis ONE C4S8H16,State Treasurer,,CON,Michael Marsh,39
+Benton,01 - Corvallis ONE C4S8H16,State Treasurer,,DEM,Tobias Reed,2623
+Benton,01 - Corvallis ONE C4S8H16,State Treasurer,,IND,Chris Henry,170
+Benton,01 - Corvallis ONE C4S8H16,State Treasurer,,REP,Jeff Gudman,1018
+Benton,01 - Corvallis ONE C4S8H16,State Treasurer,,,Write-ins,4
+Benton,01 - Corvallis ONE C4S8H16,State Treasurer,,,Over Votes,0
+Benton,01 - Corvallis ONE C4S8H16,State Treasurer,,,Under Votes,185
+Benton,01 - Corvallis ONE C4S8H16,Attorney General,,DEM,Ellen Roseblum,2852
+Benton,01 - Corvallis ONE C4S8H16,Attorney General,,LIB,Lars Hedbor,71
+Benton,01 - Corvallis ONE C4S8H16,Attorney General,,REP,Michael Cross,932
+Benton,01 - Corvallis ONE C4S8H16,Attorney General,,,Write-ins,6
+Benton,01 - Corvallis ONE C4S8H16,Attorney General,,,Over Votes,1
+Benton,01 - Corvallis ONE C4S8H16,Attorney General,,,Under Votes,177
+Benton,01 - Corvallis ONE C4S8H16,State House,16,DEM,Dan Rayfield,2834
+Benton,01 - Corvallis ONE C4S8H16,State House,16,REP,Jason Hughes,982
+Benton,01 - Corvallis ONE C4S8H16,State House,16,,Write-ins,6
+Benton,01 - Corvallis ONE C4S8H16,State House,16,,Over Votes,0
+Benton,01 - Corvallis ONE C4S8H16,State House,16,,Under Votes,217
+Benton,02 - Corvallis TWO C4S8H16,President,,REP,Donald Trump,340
+Benton,02 - Corvallis TWO C4S8H16,President,,DEM,Joe Biden,1923
+Benton,02 - Corvallis TWO C4S8H16,President,,LIB,Jo Jorgensen,66
+Benton,02 - Corvallis TWO C4S8H16,President,,PAC,Howie Hawkins,25
+Benton,02 - Corvallis TWO C4S8H16,President,,PRO,Dario Hunter,11
+Benton,02 - Corvallis TWO C4S8H16,President,,,Write-ins,25
+Benton,02 - Corvallis TWO C4S8H16,President,,,Over Votes,1
+Benton,02 - Corvallis TWO C4S8H16,President,,,Under Votes,15
+Benton,02 - Corvallis TWO C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,316
+Benton,02 - Corvallis TWO C4S8H16,U.S. Senate,,DEM,Jeff Merkley,1853
+Benton,02 - Corvallis TWO C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,116
+Benton,02 - Corvallis TWO C4S8H16,U.S. Senate,,LIB,Gary Dye,69
+Benton,02 - Corvallis TWO C4S8H16,U.S. Senate,,,Write-ins,2
+Benton,02 - Corvallis TWO C4S8H16,U.S. Senate,,,Over Votes,0
+Benton,02 - Corvallis TWO C4S8H16,U.S. Senate,,,Under Votes,50
+Benton,02 - Corvallis TWO C4S8H16,U.S. House,4,PAC,Daniel Hoffay,97
+Benton,02 - Corvallis TWO C4S8H16,U.S. House,4,DEM,Peter DeFazio,1871
+Benton,02 - Corvallis TWO C4S8H16,U.S. House,4,REP,Alex Skarlatos,374
+Benton,02 - Corvallis TWO C4S8H16,U.S. House,4,,Write-ins,5
+Benton,02 - Corvallis TWO C4S8H16,U.S. House,4,,Over Votes,0
+Benton,02 - Corvallis TWO C4S8H16,U.S. House,4,,Under Votes,59
+Benton,02 - Corvallis TWO C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,266
+Benton,02 - Corvallis TWO C4S8H16,Secretary of State,,LIB,Kyle Markley,86
+Benton,02 - Corvallis TWO C4S8H16,Secretary of State,,REP,Kim Thatcher,369
+Benton,02 - Corvallis TWO C4S8H16,Secretary of State,,DEM,Shemia Fagan,1569
+Benton,02 - Corvallis TWO C4S8H16,Secretary of State,,,Write-ins,2
+Benton,02 - Corvallis TWO C4S8H16,Secretary of State,,,Over Votes,1
+Benton,02 - Corvallis TWO C4S8H16,Secretary of State,,,Under Votes,88
+Benton,02 - Corvallis TWO C4S8H16,State Treasurer,,CON,Michael Marsh,40
+Benton,02 - Corvallis TWO C4S8H16,State Treasurer,,DEM,Tobias Reed,1625
+Benton,02 - Corvallis TWO C4S8H16,State Treasurer,,IND,Chris Henry,236
+Benton,02 - Corvallis TWO C4S8H16,State Treasurer,,REP,Jeff Gudman,372
+Benton,02 - Corvallis TWO C4S8H16,State Treasurer,,,Write-ins,3
+Benton,02 - Corvallis TWO C4S8H16,State Treasurer,,,Over Votes,0
+Benton,02 - Corvallis TWO C4S8H16,State Treasurer,,,Under Votes,105
+Benton,02 - Corvallis TWO C4S8H16,Attorney General,,DEM,Ellen Roseblum,1859
+Benton,02 - Corvallis TWO C4S8H16,Attorney General,,LIB,Lars Hedbor,73
+Benton,02 - Corvallis TWO C4S8H16,Attorney General,,REP,Michael Cross,337
+Benton,02 - Corvallis TWO C4S8H16,Attorney General,,,Write-ins,10
+Benton,02 - Corvallis TWO C4S8H16,Attorney General,,,Over Votes,0
+Benton,02 - Corvallis TWO C4S8H16,Attorney General,,,Under Votes,102
+Benton,02 - Corvallis TWO C4S8H16,State House,16,DEM,Dan Rayfield,1862
+Benton,02 - Corvallis TWO C4S8H16,State House,16,REP,Jason Hughes,384
+Benton,02 - Corvallis TWO C4S8H16,State House,16,,Write-ins,11
+Benton,02 - Corvallis TWO C4S8H16,State House,16,,Over Votes,0
+Benton,02 - Corvallis TWO C4S8H16,State House,16,,Under Votes,124
+Benton,03 - Corvallis THREE C4S8H16,President,,REP,Donald Trump,684
+Benton,03 - Corvallis THREE C4S8H16,President,,DEM,Joe Biden,2753
+Benton,03 - Corvallis THREE C4S8H16,President,,LIB,Jo Jorgensen,87
+Benton,03 - Corvallis THREE C4S8H16,President,,PAC,Howie Hawkins,36
+Benton,03 - Corvallis THREE C4S8H16,President,,PRO,Dario Hunter,17
+Benton,03 - Corvallis THREE C4S8H16,President,,,Write-ins,39
+Benton,03 - Corvallis THREE C4S8H16,President,,,Over Votes,0
+Benton,03 - Corvallis THREE C4S8H16,President,,,Under Votes,27
+Benton,03 - Corvallis THREE C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,698
+Benton,03 - Corvallis THREE C4S8H16,U.S. Senate,,DEM,Jeff Merkley,2697
+Benton,03 - Corvallis THREE C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,102
+Benton,03 - Corvallis THREE C4S8H16,U.S. Senate,,LIB,Gary Dye,77
+Benton,03 - Corvallis THREE C4S8H16,U.S. Senate,,,Write-ins,3
+Benton,03 - Corvallis THREE C4S8H16,U.S. Senate,,,Over Votes,0
+Benton,03 - Corvallis THREE C4S8H16,U.S. Senate,,,Under Votes,66
+Benton,03 - Corvallis THREE C4S8H16,U.S. House,4,PAC,Daniel Hoffay,104
+Benton,03 - Corvallis THREE C4S8H16,U.S. House,4,DEM,Peter DeFazio,2699
+Benton,03 - Corvallis THREE C4S8H16,U.S. House,4,REP,Alex Skarlatos,773
+Benton,03 - Corvallis THREE C4S8H16,U.S. House,4,,Write-ins,3
+Benton,03 - Corvallis THREE C4S8H16,U.S. House,4,,Over Votes,0
+Benton,03 - Corvallis THREE C4S8H16,U.S. House,4,,Under Votes,64
+Benton,03 - Corvallis THREE C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,267
+Benton,03 - Corvallis THREE C4S8H16,Secretary of State,,LIB,Kyle Markley,98
+Benton,03 - Corvallis THREE C4S8H16,Secretary of State,,REP,Kim Thatcher,803
+Benton,03 - Corvallis THREE C4S8H16,Secretary of State,,DEM,Shemia Fagan,2344
+Benton,03 - Corvallis THREE C4S8H16,Secretary of State,,,Write-ins,1
+Benton,03 - Corvallis THREE C4S8H16,Secretary of State,,,Over Votes,0
+Benton,03 - Corvallis THREE C4S8H16,Secretary of State,,,Under Votes,117
+Benton,03 - Corvallis THREE C4S8H16,State Treasurer,,CON,Michael Marsh,64
+Benton,03 - Corvallis THREE C4S8H16,State Treasurer,,DEM,Tobias Reed,2378
+Benton,03 - Corvallis THREE C4S8H16,State Treasurer,,IND,Chris Henry,261
+Benton,03 - Corvallis THREE C4S8H16,State Treasurer,,REP,Jeff Gudman,775
+Benton,03 - Corvallis THREE C4S8H16,State Treasurer,,,Write-ins,2
+Benton,03 - Corvallis THREE C4S8H16,State Treasurer,,,Over Votes,0
+Benton,03 - Corvallis THREE C4S8H16,State Treasurer,,,Under Votes,150
+Benton,03 - Corvallis THREE C4S8H16,Attorney General,,DEM,Ellen Roseblum,2646
+Benton,03 - Corvallis THREE C4S8H16,Attorney General,,LIB,Lars Hedbor,98
+Benton,03 - Corvallis THREE C4S8H16,Attorney General,,REP,Michael Cross,726
+Benton,03 - Corvallis THREE C4S8H16,Attorney General,,,Write-ins,7
+Benton,03 - Corvallis THREE C4S8H16,Attorney General,,,Over Votes,0
+Benton,03 - Corvallis THREE C4S8H16,Attorney General,,,Under Votes,153
+Benton,03 - Corvallis THREE C4S8H16,State House,16,DEM,Dan Rayfield,2642
+Benton,03 - Corvallis THREE C4S8H16,State House,16,REP,Jason Hughes,809
+Benton,03 - Corvallis THREE C4S8H16,State House,16,,Write-ins,12
+Benton,03 - Corvallis THREE C4S8H16,State House,16,,Over Votes,0
+Benton,03 - Corvallis THREE C4S8H16,State House,16,,Under Votes,167
+Benton,04 - Corvallis FOUR C4S8H16,President,,REP,Donald Trump,182
+Benton,04 - Corvallis FOUR C4S8H16,President,,DEM,Joe Biden,1118
+Benton,04 - Corvallis FOUR C4S8H16,President,,LIB,Jo Jorgensen,25
+Benton,04 - Corvallis FOUR C4S8H16,President,,PAC,Howie Hawkins,15
+Benton,04 - Corvallis FOUR C4S8H16,President,,PRO,Dario Hunter,4
+Benton,04 - Corvallis FOUR C4S8H16,President,,,Write-ins,12
+Benton,04 - Corvallis FOUR C4S8H16,President,,,Under Votes,12
+Benton,04 - Corvallis FOUR C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,183
+Benton,04 - Corvallis FOUR C4S8H16,U.S. Senate,,DEM,Jeff Merkley,1084
+Benton,04 - Corvallis FOUR C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,50
+Benton,04 - Corvallis FOUR C4S8H16,U.S. Senate,,LIB,Gary Dye,24
+Benton,04 - Corvallis FOUR C4S8H16,U.S. Senate,,,Write-ins,2
+Benton,04 - Corvallis FOUR C4S8H16,U.S. Senate,,,Under Votes,25
+Benton,04 - Corvallis FOUR C4S8H16,U.S. House,4,PAC,Daniel Hoffay,47
+Benton,04 - Corvallis FOUR C4S8H16,U.S. House,4,DEM,Peter DeFazio,1078
+Benton,04 - Corvallis FOUR C4S8H16,U.S. House,4,REP,Alex Skarlatos,213
+Benton,04 - Corvallis FOUR C4S8H16,U.S. House,4,,Write-ins,2
+Benton,04 - Corvallis FOUR C4S8H16,U.S. House,4,,Over Votes,1
+Benton,04 - Corvallis FOUR C4S8H16,U.S. House,4,,Under Votes,27
+Benton,04 - Corvallis FOUR C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,98
+Benton,04 - Corvallis FOUR C4S8H16,Secretary of State,,LIB,Kyle Markley,33
+Benton,04 - Corvallis FOUR C4S8H16,Secretary of State,,REP,Kim Thatcher,236
+Benton,04 - Corvallis FOUR C4S8H16,Secretary of State,,DEM,Shemia Fagan,929
+Benton,04 - Corvallis FOUR C4S8H16,Secretary of State,,,Write-ins,3
+Benton,04 - Corvallis FOUR C4S8H16,Secretary of State,,,Under Votes,48
+Benton,04 - Corvallis FOUR C4S8H16,State Treasurer,,CON,Michael Marsh,27
+Benton,04 - Corvallis FOUR C4S8H16,State Treasurer,,DEM,Tobias Reed,939
+Benton,04 - Corvallis FOUR C4S8H16,State Treasurer,,IND,Chris Henry,103
+Benton,04 - Corvallis FOUR C4S8H16,State Treasurer,,REP,Jeff Gudman,206
+Benton,04 - Corvallis FOUR C4S8H16,State Treasurer,,,Write-ins,1
+Benton,04 - Corvallis FOUR C4S8H16,State Treasurer,,,Under Votes,71
+Benton,04 - Corvallis FOUR C4S8H16,Attorney General,,DEM,Ellen Roseblum,1050
+Benton,04 - Corvallis FOUR C4S8H16,Attorney General,,LIB,Lars Hedbor,30
+Benton,04 - Corvallis FOUR C4S8H16,Attorney General,,REP,Michael Cross,207
+Benton,04 - Corvallis FOUR C4S8H16,Attorney General,,,Write-ins,2
+Benton,04 - Corvallis FOUR C4S8H16,Attorney General,,,Under Votes,58
+Benton,04 - Corvallis FOUR C4S8H16,State House,16,DEM,Dan Rayfield,1065
+Benton,04 - Corvallis FOUR C4S8H16,State House,16,REP,Jason Hughes,212
+Benton,04 - Corvallis FOUR C4S8H16,State House,16,,Write-ins,4
+Benton,04 - Corvallis FOUR C4S8H16,State House,16,,Over Votes,66
+Benton,04 - Corvallis FOUR C4S8H16,State House,16,,Under Votes,331
+Benton,05 - Corvallis FIVE C4S8H16,President,,REP,Donald Trump,245
+Benton,05 - Corvallis FIVE C4S8H16,President,,DEM,Joe Biden,1991
+Benton,05 - Corvallis FIVE C4S8H16,President,,LIB,Jo Jorgensen,65
+Benton,05 - Corvallis FIVE C4S8H16,President,,PAC,Howie Hawkins,21
+Benton,05 - Corvallis FIVE C4S8H16,President,,PRO,Dario Hunter,12
+Benton,05 - Corvallis FIVE C4S8H16,President,,,Write-ins,22
+Benton,05 - Corvallis FIVE C4S8H16,President,,,Over Votes,2
+Benton,05 - Corvallis FIVE C4S8H16,President,,,Under Votes,14
+Benton,05 - Corvallis FIVE C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,248
+Benton,05 - Corvallis FIVE C4S8H16,U.S. Senate,,DEM,Jeff Merkley,1910
+Benton,05 - Corvallis FIVE C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,95
+Benton,05 - Corvallis FIVE C4S8H16,U.S. Senate,,LIB,Gary Dye,54
+Benton,05 - Corvallis FIVE C4S8H16,U.S. Senate,,,Write-ins,1
+Benton,05 - Corvallis FIVE C4S8H16,U.S. Senate,,,Under Votes,64
+Benton,05 - Corvallis FIVE C4S8H16,U.S. House,4,PAC,Daniel Hoffay,80
+Benton,05 - Corvallis FIVE C4S8H16,U.S. House,4,DEM,Peter DeFazio,1890
+Benton,05 - Corvallis FIVE C4S8H16,U.S. House,4,REP,Alex Skarlatos,324
+Benton,05 - Corvallis FIVE C4S8H16,U.S. House,4,,Write-ins,5
+Benton,05 - Corvallis FIVE C4S8H16,U.S. House,4,,Over Votes,1
+Benton,05 - Corvallis FIVE C4S8H16,U.S. House,4,,Under Votes,72
+Benton,05 - Corvallis FIVE C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,214
+Benton,05 - Corvallis FIVE C4S8H16,Secretary of State,,LIB,Kyle Markley,72
+Benton,05 - Corvallis FIVE C4S8H16,Secretary of State,,REP,Kim Thatcher,314
+Benton,05 - Corvallis FIVE C4S8H16,Secretary of State,,DEM,Shemia Fagan,1629
+Benton,05 - Corvallis FIVE C4S8H16,Secretary of State,,,Write-ins,5
+Benton,05 - Corvallis FIVE C4S8H16,Secretary of State,,,Under Votes,113
+Benton,05 - Corvallis FIVE C4S8H16,State Treasurer,,CON,Michael Marsh,37
+Benton,05 - Corvallis FIVE C4S8H16,State Treasurer,,DEM,Tobias Reed,1663
+Benton,05 - Corvallis FIVE C4S8H16,State Treasurer,,IND,Chris Henry,188
+Benton,05 - Corvallis FIVE C4S8H16,State Treasurer,,REP,Jeff Gudman,320
+Benton,05 - Corvallis FIVE C4S8H16,State Treasurer,,,Write-ins,3
+Benton,05 - Corvallis FIVE C4S8H16,State Treasurer,,,Under Votes,136
+Benton,05 - Corvallis FIVE C4S8H16,Attorney General,,DEM,Ellen Roseblum,1884
+Benton,05 - Corvallis FIVE C4S8H16,Attorney General,,LIB,Lars Hedbor,52
+Benton,05 - Corvallis FIVE C4S8H16,Attorney General,,REP,Michael Cross,284
+Benton,05 - Corvallis FIVE C4S8H16,Attorney General,,,Write-ins,6
+Benton,05 - Corvallis FIVE C4S8H16,Attorney General,,,Under Votes,121
+Benton,05 - Corvallis FIVE C4S8H16,State House,16,DEM,Dan Rayfield,1890
+Benton,05 - Corvallis FIVE C4S8H16,State House,16,REP,Jason Hughes,303
+Benton,05 - Corvallis FIVE C4S8H16,State House,16,,Write-ins,6
+Benton,05 - Corvallis FIVE C4S8H16,State House,16,,Under Votes,148
+Benton,06 - Corvallis SIX C4S8H16,President,,REP,Donald Trump,577
+Benton,06 - Corvallis SIX C4S8H16,President,,DEM,Joe Biden,2647
+Benton,06 - Corvallis SIX C4S8H16,President,,LIB,Jo Jorgensen,67
+Benton,06 - Corvallis SIX C4S8H16,President,,PAC,Howie Hawkins,25
+Benton,06 - Corvallis SIX C4S8H16,President,,PRO,Dario Hunter,6
+Benton,06 - Corvallis SIX C4S8H16,President,,,Write-ins,38
+Benton,06 - Corvallis SIX C4S8H16,President,,,Over Votes,1
+Benton,06 - Corvallis SIX C4S8H16,President,,,Under Votes,23
+Benton,06 - Corvallis SIX C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,545
+Benton,06 - Corvallis SIX C4S8H16,U.S. Senate,,DEM,Jeff Merkley,2619
+Benton,06 - Corvallis SIX C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,108
+Benton,06 - Corvallis SIX C4S8H16,U.S. Senate,,LIB,Gary Dye,54
+Benton,06 - Corvallis SIX C4S8H16,U.S. Senate,,,Write-ins,2
+Benton,06 - Corvallis SIX C4S8H16,U.S. Senate,,,Under Votes,56
+Benton,06 - Corvallis SIX C4S8H16,U.S. House,4,PAC,Daniel Hoffay,98
+Benton,06 - Corvallis SIX C4S8H16,U.S. House,4,DEM,Peter DeFazio,2605
+Benton,06 - Corvallis SIX C4S8H16,U.S. House,4,REP,Alex Skarlatos,628
+Benton,06 - Corvallis SIX C4S8H16,U.S. House,4,,Write-ins,6
+Benton,06 - Corvallis SIX C4S8H16,U.S. House,4,,Under Votes,47
+Benton,06 - Corvallis SIX C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,246
+Benton,06 - Corvallis SIX C4S8H16,Secretary of State,,LIB,Kyle Markley,91
+Benton,06 - Corvallis SIX C4S8H16,Secretary of State,,REP,Kim Thatcher,643
+Benton,06 - Corvallis SIX C4S8H16,Secretary of State,,DEM,Shemia Fagan,2257
+Benton,06 - Corvallis SIX C4S8H16,Secretary of State,,,Write-ins,6
+Benton,06 - Corvallis SIX C4S8H16,Secretary of State,,,Over Votes,1
+Benton,06 - Corvallis SIX C4S8H16,Secretary of State,,,Under Votes,124
+Benton,06 - Corvallis SIX C4S8H16,State Treasurer,,CON,Michael Marsh,39
+Benton,06 - Corvallis SIX C4S8H16,State Treasurer,,DEM,Tobias Reed,2327
+Benton,06 - Corvallis SIX C4S8H16,State Treasurer,,IND,Chris Henry,235
+Benton,06 - Corvallis SIX C4S8H16,State Treasurer,,REP,Jeff Gudman,620
+Benton,06 - Corvallis SIX C4S8H16,State Treasurer,,,Write-ins,3
+Benton,06 - Corvallis SIX C4S8H16,State Treasurer,,,Over Votes,1
+Benton,06 - Corvallis SIX C4S8H16,State Treasurer,,,Under Votes,143
+Benton,06 - Corvallis SIX C4S8H16,Attorney General,,DEM,Ellen Roseblum,2582
+Benton,06 - Corvallis SIX C4S8H16,Attorney General,,LIB,Lars Hedbor,71
+Benton,06 - Corvallis SIX C4S8H16,Attorney General,,REP,Michael Cross,573
+Benton,06 - Corvallis SIX C4S8H16,Attorney General,,,Write-ins,8
+Benton,06 - Corvallis SIX C4S8H16,Attorney General,,,Over Votes,2
+Benton,06 - Corvallis SIX C4S8H16,Attorney General,,,Under Votes,132
+Benton,06 - Corvallis SIX C4S8H16,State House,16,DEM,Dan Rayfield,2583
+Benton,06 - Corvallis SIX C4S8H16,State House,16,REP,Jason Hughes,613
+Benton,06 - Corvallis SIX C4S8H16,State House,16,,Write-ins,5
+Benton,06 - Corvallis SIX C4S8H16,State House,16,,Over Votes,1
+Benton,06 - Corvallis SIX C4S8H16,State House,16,,Under Votes,166
+Benton,07 - Corvallis SEVEN C4S8H16,President,,REP,Donald Trump,509
+Benton,07 - Corvallis SEVEN C4S8H16,President,,DEM,Joe Biden,3500
+Benton,07 - Corvallis SEVEN C4S8H16,President,,LIB,Jo Jorgensen,67
+Benton,07 - Corvallis SEVEN C4S8H16,President,,PAC,Howie Hawkins,24
+Benton,07 - Corvallis SEVEN C4S8H16,President,,PRO,Dario Hunter,15
+Benton,07 - Corvallis SEVEN C4S8H16,President,,,Write-ins,21
+Benton,07 - Corvallis SEVEN C4S8H16,President,,,Over Votes,0
+Benton,07 - Corvallis SEVEN C4S8H16,President,,,Under Votes,24
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,508
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. Senate,,DEM,Jeff Merkley,3415
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,89
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. Senate,,LIB,Gary Dye,63
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. Senate,,,Write-ins,5
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. Senate,,,Over Votes,0
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. Senate,,,Under Votes,80
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. House,4,PAC,Daniel Hoffay,69
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. House,4,DEM,Peter DeFazio,3431
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. House,4,REP,Alex Skarlatos,585
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. House,4,,Write-ins,4
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. House,4,,Over Votes,0
+Benton,07 - Corvallis SEVEN C4S8H16,U.S. House,4,,Under Votes,71
+Benton,07 - Corvallis SEVEN C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,210
+Benton,07 - Corvallis SEVEN C4S8H16,Secretary of State,,LIB,Kyle Markley,79
+Benton,07 - Corvallis SEVEN C4S8H16,Secretary of State,,REP,Kim Thatcher,645
+Benton,07 - Corvallis SEVEN C4S8H16,Secretary of State,,DEM,Shemia Fagan,3051
+Benton,07 - Corvallis SEVEN C4S8H16,Secretary of State,,,Write-ins,9
+Benton,07 - Corvallis SEVEN C4S8H16,Secretary of State,,,Over Votes,1
+Benton,07 - Corvallis SEVEN C4S8H16,Secretary of State,,,Under Votes,126
+Benton,07 - Corvallis SEVEN C4S8H16,State Treasurer,,CON,Michael Marsh,45
+Benton,07 - Corvallis SEVEN C4S8H16,State Treasurer,,DEM,Tobias Reed,3094
+Benton,07 - Corvallis SEVEN C4S8H16,State Treasurer,,IND,Chris Henry,221
+Benton,07 - Corvallis SEVEN C4S8H16,State Treasurer,,REP,Jeff Gudman,611
+Benton,07 - Corvallis SEVEN C4S8H16,State Treasurer,,,Write-ins,5
+Benton,07 - Corvallis SEVEN C4S8H16,State Treasurer,,,Over Votes,0
+Benton,07 - Corvallis SEVEN C4S8H16,State Treasurer,,,Under Votes,145
+Benton,07 - Corvallis SEVEN C4S8H16,Attorney General,,DEM,Ellen Roseblum,3328
+Benton,07 - Corvallis SEVEN C4S8H16,Attorney General,,LIB,Lars Hedbor,65
+Benton,07 - Corvallis SEVEN C4S8H16,Attorney General,,REP,Michael Cross,568
+Benton,07 - Corvallis SEVEN C4S8H16,Attorney General,,,Write-ins,12
+Benton,07 - Corvallis SEVEN C4S8H16,Attorney General,,,Over Votes,0
+Benton,07 - Corvallis SEVEN C4S8H16,Attorney General,,,Under Votes,148
+Benton,07 - Corvallis SEVEN C4S8H16,State House,16,DEM,Dan Rayfield,3345
+Benton,07 - Corvallis SEVEN C4S8H16,State House,16,REP,Jason Hughes,591
+Benton,07 - Corvallis SEVEN C4S8H16,State House,16,,Write-ins,9
+Benton,07 - Corvallis SEVEN C4S8H16,State House,16,,Over Votes,0
+Benton,07 - Corvallis SEVEN C4S8H16,State House,16,,Under Votes,176
+Benton,08 - Corvallis EIGHT C4S8H16,President,,REP,Donald Trump,757
+Benton,08 - Corvallis EIGHT C4S8H16,President,,DEM,Joe Biden,3380
+Benton,08 - Corvallis EIGHT C4S8H16,President,,LIB,Jo Jorgensen,60
+Benton,08 - Corvallis EIGHT C4S8H16,President,,PAC,Howie Hawkins,20
+Benton,08 - Corvallis EIGHT C4S8H16,President,,PRO,Dario Hunter,8
+Benton,08 - Corvallis EIGHT C4S8H16,President,,,Write-ins,33
+Benton,08 - Corvallis EIGHT C4S8H16,President,,,Over Votes,1
+Benton,08 - Corvallis EIGHT C4S8H16,President,,,Under Votes,36
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,786
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. Senate,,DEM,Jeff Merkley,3282
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,53
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. Senate,,LIB,Gary Dye,71
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. Senate,,,Write-ins,3
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. Senate,,,Over Votes,1
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. Senate,,,Under Votes,99
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. House,4,PAC,Daniel Hoffay,70
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. House,4,DEM,Peter DeFazio,3258
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. House,4,REP,Alex Skarlatos,882
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. House,4,,Write-ins,4
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. House,4,,Over Votes,1
+Benton,08 - Corvallis EIGHT C4S8H16,U.S. House,4,,Under Votes,80
+Benton,08 - Corvallis EIGHT C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,158
+Benton,08 - Corvallis EIGHT C4S8H16,Secretary of State,,LIB,Kyle Markley,82
+Benton,08 - Corvallis EIGHT C4S8H16,Secretary of State,,REP,Kim Thatcher,1016
+Benton,08 - Corvallis EIGHT C4S8H16,Secretary of State,,DEM,Shemia Fagan,2850
+Benton,08 - Corvallis EIGHT C4S8H16,Secretary of State,,,Write-ins,4
+Benton,08 - Corvallis EIGHT C4S8H16,Secretary of State,,,Over Votes,0
+Benton,08 - Corvallis EIGHT C4S8H16,Secretary of State,,,Under Votes,152
+Benton,08 - Corvallis EIGHT C4S8H16,State Treasurer,,CON,Michael Marsh,34
+Benton,08 - Corvallis EIGHT C4S8H16,State Treasurer,,DEM,Tobias Reed,2951
+Benton,08 - Corvallis EIGHT C4S8H16,State Treasurer,,IND,Chris Henry,149
+Benton,08 - Corvallis EIGHT C4S8H16,State Treasurer,,REP,Jeff Gudman,955
+Benton,08 - Corvallis EIGHT C4S8H16,State Treasurer,,,Write-ins,6
+Benton,08 - Corvallis EIGHT C4S8H16,State Treasurer,,,Over Votes,0
+Benton,08 - Corvallis EIGHT C4S8H16,State Treasurer,,,Under Votes,167
+Benton,08 - Corvallis EIGHT C4S8H16,Attorney General,,DEM,Ellen Roseblum,3171
+Benton,08 - Corvallis EIGHT C4S8H16,Attorney General,,LIB,Lars Hedbor,57
+Benton,08 - Corvallis EIGHT C4S8H16,Attorney General,,REP,Michael Cross,848
+Benton,08 - Corvallis EIGHT C4S8H16,Attorney General,,,Write-ins,9
+Benton,08 - Corvallis EIGHT C4S8H16,Attorney General,,,Over Votes,0
+Benton,08 - Corvallis EIGHT C4S8H16,Attorney General,,,Under Votes,177
+Benton,08 - Corvallis EIGHT C4S8H16,State House,16,DEM,Dan Rayfield,3163
+Benton,08 - Corvallis EIGHT C4S8H16,State House,16,REP,Jason Hughes,883
+Benton,08 - Corvallis EIGHT C4S8H16,State House,16,,Write-ins,10
+Benton,08 - Corvallis EIGHT C4S8H16,State House,16,,Over Votes,1
+Benton,08 - Corvallis EIGHT C4S8H16,State House,16,,Under Votes,205
+Benton,09 - Corvallis NINE C4S8H16,President,,REP,Donald Trump,859
+Benton,09 - Corvallis NINE C4S8H16,President,,DEM,Joe Biden,2528
+Benton,09 - Corvallis NINE C4S8H16,President,,LIB,Jo Jorgensen,92
+Benton,09 - Corvallis NINE C4S8H16,President,,PAC,Howie Hawkins,22
+Benton,09 - Corvallis NINE C4S8H16,President,,PRO,Dario Hunter,15
+Benton,09 - Corvallis NINE C4S8H16,President,,,Write-ins,37
+Benton,09 - Corvallis NINE C4S8H16,President,,,Over Votes,2
+Benton,09 - Corvallis NINE C4S8H16,President,,,Under Votes,36
+Benton,09 - Corvallis NINE C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,870
+Benton,09 - Corvallis NINE C4S8H16,U.S. Senate,,DEM,Jeff Merkley,2456
+Benton,09 - Corvallis NINE C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,82
+Benton,09 - Corvallis NINE C4S8H16,U.S. Senate,,LIB,Gary Dye,75
+Benton,09 - Corvallis NINE C4S8H16,U.S. Senate,,,Write-ins,3
+Benton,09 - Corvallis NINE C4S8H16,U.S. Senate,,,Over Votes,2
+Benton,09 - Corvallis NINE C4S8H16,U.S. Senate,,,Under Votes,103
+Benton,09 - Corvallis NINE C4S8H16,U.S. House,4,PAC,Daniel Hoffay,96
+Benton,09 - Corvallis NINE C4S8H16,U.S. House,4,DEM,Peter DeFazio,2437
+Benton,09 - Corvallis NINE C4S8H16,U.S. House,4,REP,Alex Skarlatos,974
+Benton,09 - Corvallis NINE C4S8H16,U.S. House,4,,Write-ins,6
+Benton,09 - Corvallis NINE C4S8H16,U.S. House,4,,Over Votes,1
+Benton,09 - Corvallis NINE C4S8H16,U.S. House,4,,Under Votes,77
+Benton,09 - Corvallis NINE C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,201
+Benton,09 - Corvallis NINE C4S8H16,Secretary of State,,LIB,Kyle Markley,96
+Benton,09 - Corvallis NINE C4S8H16,Secretary of State,,REP,Kim Thatcher,1029
+Benton,09 - Corvallis NINE C4S8H16,Secretary of State,,DEM,Shemia Fagan,2098
+Benton,09 - Corvallis NINE C4S8H16,Secretary of State,,,Write-ins,0
+Benton,09 - Corvallis NINE C4S8H16,Secretary of State,,,Over Votes,2
+Benton,09 - Corvallis NINE C4S8H16,Secretary of State,,,Under Votes,157
+Benton,09 - Corvallis NINE C4S8H16,State Treasurer,,CON,Michael Marsh,61
+Benton,09 - Corvallis NINE C4S8H16,State Treasurer,,DEM,Tobias Reed,2161
+Benton,09 - Corvallis NINE C4S8H16,State Treasurer,,IND,Chris Henry,227
+Benton,09 - Corvallis NINE C4S8H16,State Treasurer,,REP,Jeff Gudman,954
+Benton,09 - Corvallis NINE C4S8H16,State Treasurer,,,Write-ins,2
+Benton,09 - Corvallis NINE C4S8H16,State Treasurer,,,Over Votes,0
+Benton,09 - Corvallis NINE C4S8H16,State Treasurer,,,Under Votes,178
+Benton,09 - Corvallis NINE C4S8H16,Attorney General,,DEM,Ellen Roseblum,2391
+Benton,09 - Corvallis NINE C4S8H16,Attorney General,,LIB,Lars Hedbor,100
+Benton,09 - Corvallis NINE C4S8H16,Attorney General,,REP,Michael Cross,912
+Benton,09 - Corvallis NINE C4S8H16,Attorney General,,,Write-ins,4
+Benton,09 - Corvallis NINE C4S8H16,Attorney General,,,Over Votes,0
+Benton,09 - Corvallis NINE C4S8H16,Attorney General,,,Under Votes,176
+Benton,09 - Corvallis NINE C4S8H16,State House,16,DEM,Dan Rayfield,2390
+Benton,09 - Corvallis NINE C4S8H16,State House,16,REP,Jason Hughes,983
+Benton,09 - Corvallis NINE C4S8H16,State House,16,,Write-ins,11
+Benton,09 - Corvallis NINE C4S8H16,State House,16,,Over Votes,0
+Benton,09 - Corvallis NINE C4S8H16,State House,16,,Under Votes,199
+Benton,10 - Philomath C4S8H16,President,,REP,Donald Trump,1106
+Benton,10 - Philomath C4S8H16,President,,DEM,Joe Biden,1887
+Benton,10 - Philomath C4S8H16,President,,LIB,Jo Jorgensen,104
+Benton,10 - Philomath C4S8H16,President,,PAC,Howie Hawkins,25
+Benton,10 - Philomath C4S8H16,President,,PRO,Dario Hunter,9
+Benton,10 - Philomath C4S8H16,President,,,Write-ins,22
+Benton,10 - Philomath C4S8H16,President,,,Over Votes,0
+Benton,10 - Philomath C4S8H16,President,,,Under Votes,22
+Benton,10 - Philomath C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,1099
+Benton,10 - Philomath C4S8H16,U.S. Senate,,DEM,Jeff Merkley,1840
+Benton,10 - Philomath C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,69
+Benton,10 - Philomath C4S8H16,U.S. Senate,,LIB,Gary Dye,88
+Benton,10 - Philomath C4S8H16,U.S. Senate,,,Write-ins,2
+Benton,10 - Philomath C4S8H16,U.S. Senate,,,Over Votes,0
+Benton,10 - Philomath C4S8H16,U.S. Senate,,,Under Votes,77
+Benton,10 - Philomath C4S8H16,U.S. House,4,PAC,Daniel Hoffay,80
+Benton,10 - Philomath C4S8H16,U.S. House,4,DEM,Peter DeFazio,1827
+Benton,10 - Philomath C4S8H16,U.S. House,4,REP,Alex Skarlatos,1209
+Benton,10 - Philomath C4S8H16,U.S. House,4,,Write-ins,3
+Benton,10 - Philomath C4S8H16,U.S. House,4,,Over Votes,0
+Benton,10 - Philomath C4S8H16,U.S. House,4,,Under Votes,56
+Benton,10 - Philomath C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,149
+Benton,10 - Philomath C4S8H16,Secretary of State,,LIB,Kyle Markley,101
+Benton,10 - Philomath C4S8H16,Secretary of State,,REP,Kim Thatcher,1222
+Benton,10 - Philomath C4S8H16,Secretary of State,,DEM,Shemia Fagan,1577
+Benton,10 - Philomath C4S8H16,Secretary of State,,,Write-ins,3
+Benton,10 - Philomath C4S8H16,Secretary of State,,,Over Votes,0
+Benton,10 - Philomath C4S8H16,Secretary of State,,,Under Votes,119
+Benton,10 - Philomath C4S8H16,State Treasurer,,CON,Michael Marsh,85
+Benton,10 - Philomath C4S8H16,State Treasurer,,DEM,Tobias Reed,1625
+Benton,10 - Philomath C4S8H16,State Treasurer,,IND,Chris Henry,178
+Benton,10 - Philomath C4S8H16,State Treasurer,,REP,Jeff Gudman,1140
+Benton,10 - Philomath C4S8H16,State Treasurer,,,Write-ins,3
+Benton,10 - Philomath C4S8H16,State Treasurer,,,Over Votes,1
+Benton,10 - Philomath C4S8H16,State Treasurer,,,Under Votes,139
+Benton,10 - Philomath C4S8H16,Attorney General,,DEM,Ellen Roseblum,1780
+Benton,10 - Philomath C4S8H16,Attorney General,,LIB,Lars Hedbor,101
+Benton,10 - Philomath C4S8H16,Attorney General,,REP,Michael Cross,1152
+Benton,10 - Philomath C4S8H16,Attorney General,,,Write-ins,10
+Benton,10 - Philomath C4S8H16,Attorney General,,,Over Votes,0
+Benton,10 - Philomath C4S8H16,Attorney General,,,Under Votes,128
+Benton,10 - Philomath C4S8H16,State House,16,DEM,Dan Rayfield,1787
+Benton,10 - Philomath C4S8H16,State House,16,REP,Jason Hughes,1218
+Benton,10 - Philomath C4S8H16,State House,16,,Write-ins,6
+Benton,10 - Philomath C4S8H16,State House,16,,Over Votes,0
+Benton,10 - Philomath C4S8H16,State House,16,,Under Votes,160
+Benton,11 - N Albany C5S8H15,President,,REP,Donald Trump,2684
+Benton,11 - N Albany C5S8H15,President,,DEM,Joe Biden,3118
+Benton,11 - N Albany C5S8H15,President,,LIB,Jo Jorgensen,135
+Benton,11 - N Albany C5S8H15,President,,PAC,Howie Hawkins,19
+Benton,11 - N Albany C5S8H15,President,,PRO,Dario Hunter,5
+Benton,11 - N Albany C5S8H15,President,,,Write-ins,67
+Benton,11 - N Albany C5S8H15,President,,,Over Votes,0
+Benton,11 - N Albany C5S8H15,President,,,Under Votes,72
+Benton,11 - N Albany C5S8H15,U.S. Senate,,REP,Jo Rae Perkins,2646
+Benton,11 - N Albany C5S8H15,U.S. Senate,,DEM,Jeff Merkley,3076
+Benton,11 - N Albany C5S8H15,U.S. Senate,,PAC,Ibrahim Taher,68
+Benton,11 - N Albany C5S8H15,U.S. Senate,,LIB,Gary Dye,134
+Benton,11 - N Albany C5S8H15,U.S. Senate,,,Write-ins,7
+Benton,11 - N Albany C5S8H15,U.S. Senate,,,Over Votes,0
+Benton,11 - N Albany C5S8H15,U.S. Senate,,,Under Votes,169
+Benton,11 - N Albany C5S8H15,U.S. House,4,PAC,Daniel Hoffay,154
+Benton,11 - N Albany C5S8H15,U.S. House,4,DEM,Peter DeFazio,2823
+Benton,11 - N Albany C5S8H15,U.S. House,4,REP,Alex Skarlatos,2895
+Benton,11 - N Albany C5S8H15,U.S. House,4,,Write-ins,16
+Benton,11 - N Albany C5S8H15,U.S. House,4,,Over Votes,0
+Benton,11 - N Albany C5S8H15,U.S. House,4,,Under Votes,212
+Benton,11 - N Albany C5S8H15,Secretary of State,,PAC,Nathalie Paracivini,170
+Benton,11 - N Albany C5S8H15,Secretary of State,,LIB,Kyle Markley,179
+Benton,11 - N Albany C5S8H15,Secretary of State,,REP,Kim Thatcher,2956
+Benton,11 - N Albany C5S8H15,Secretary of State,,DEM,Shemia Fagan,2540
+Benton,11 - N Albany C5S8H15,Secretary of State,,,Write-ins,5
+Benton,11 - N Albany C5S8H15,Secretary of State,,,Over Votes,0
+Benton,11 - N Albany C5S8H15,Secretary of State,,,Under Votes,231
+Benton,11 - N Albany C5S8H15,State Treasurer,,CON,Michael Marsh,133
+Benton,11 - N Albany C5S8H15,State Treasurer,,DEM,Tobias Reed,2695
+Benton,11 - N Albany C5S8H15,State Treasurer,,IND,Chris Henry,214
+Benton,11 - N Albany C5S8H15,State Treasurer,,REP,Jeff Gudman,2767
+Benton,11 - N Albany C5S8H15,State Treasurer,,,Write-ins,5
+Benton,11 - N Albany C5S8H15,State Treasurer,,,Over Votes,1
+Benton,11 - N Albany C5S8H15,State Treasurer,,,Under Votes,266
+Benton,11 - N Albany C5S8H15,Attorney General,,DEM,Ellen Roseblum,2918
+Benton,11 - N Albany C5S8H15,Attorney General,,LIB,Lars Hedbor,125
+Benton,11 - N Albany C5S8H15,Attorney General,,REP,Michael Cross,2748
+Benton,11 - N Albany C5S8H15,Attorney General,,,Write-ins,26
+Benton,11 - N Albany C5S8H15,Attorney General,,,Over Votes,0
+Benton,11 - N Albany C5S8H15,Attorney General,,,Under Votes,264
+Benton,11 - N Albany C5S8H15,State House,HD15,DEM,Miriam Cummins,2552
+Benton,11 - N Albany C5S8H15,State House,HD15,REP,Shelly Boshart Davis,3263
+Benton,11 - N Albany C5S8H15,State House,HD15,,Write-ins,8
+Benton,11 - N Albany C5S8H15,State House,HD15,,Over Votes,0
+Benton,11 - N Albany C5S8H15,State House,HD15,,Under Votes,258
+Benton,12 - Adair Village C5S12H23,President,,REP,Donald Trump,242
+Benton,12 - Adair Village C5S12H23,President,,DEM,Joe Biden,360
+Benton,12 - Adair Village C5S12H23,President,,LIB,Jo Jorgensen,24
+Benton,12 - Adair Village C5S12H23,President,,PAC,Howie Hawkins,3
+Benton,12 - Adair Village C5S12H23,President,,PRO,Dario Hunter,1
+Benton,12 - Adair Village C5S12H23,President,,,Write-ins,7
+Benton,12 - Adair Village C5S12H23,President,,,Over Votes,0
+Benton,12 - Adair Village C5S12H23,President,,,Under Votes,9
+Benton,12 - Adair Village C5S12H23,U.S. Senate,,REP,Jo Rae Perkins,243
+Benton,12 - Adair Village C5S12H23,U.S. Senate,,DEM,Jeff Merkley,352
+Benton,12 - Adair Village C5S12H23,U.S. Senate,,PAC,Ibrahim Taher,19
+Benton,12 - Adair Village C5S12H23,U.S. Senate,,LIB,Gary Dye,15
+Benton,12 - Adair Village C5S12H23,U.S. Senate,,,Write-ins,2
+Benton,12 - Adair Village C5S12H23,U.S. Senate,,,Over Votes,0
+Benton,12 - Adair Village C5S12H23,U.S. Senate,,,Under Votes,15
+Benton,12 - Adair Village C5S12H23,U.S. House,4,PAC,Daniel Hoffay,26
+Benton,12 - Adair Village C5S12H23,U.S. House,4,DEM,Peter DeFazio,281
+Benton,12 - Adair Village C5S12H23,U.S. House,4,REP,Alex Skarlatos,324
+Benton,12 - Adair Village C5S12H23,U.S. House,4,,Write-ins,2
+Benton,12 - Adair Village C5S12H23,U.S. House,4,,Over Votes,0
+Benton,12 - Adair Village C5S12H23,U.S. House,4,,Under Votes,13
+Benton,12 - Adair Village C5S12H23,Secretary of State,,PAC,Nathalie Paracivini,37
+Benton,12 - Adair Village C5S12H23,Secretary of State,,LIB,Kyle Markley,25
+Benton,12 - Adair Village C5S12H23,Secretary of State,,REP,Kim Thatcher,272
+Benton,12 - Adair Village C5S12H23,Secretary of State,,DEM,Shemia Fagan,294
+Benton,12 - Adair Village C5S12H23,Secretary of State,,,Write-ins,1
+Benton,12 - Adair Village C5S12H23,Secretary of State,,,Over Votes,0
+Benton,12 - Adair Village C5S12H23,Secretary of State,,,Under Votes,16
+Benton,12 - Adair Village C5S12H23,State Treasurer,,CON,Michael Marsh,13
+Benton,12 - Adair Village C5S12H23,State Treasurer,,DEM,Tobias Reed,312
+Benton,12 - Adair Village C5S12H23,State Treasurer,,IND,Chris Henry,30
+Benton,12 - Adair Village C5S12H23,State Treasurer,,REP,Jeff Gudman,268
+Benton,12 - Adair Village C5S12H23,State Treasurer,,,Write-ins,1
+Benton,12 - Adair Village C5S12H23,State Treasurer,,,Over Votes,0
+Benton,12 - Adair Village C5S12H23,State Treasurer,,,Under Votes,21
+Benton,12 - Adair Village C5S12H23,Attorney General,,DEM,Ellen Roseblum,331
+Benton,12 - Adair Village C5S12H23,Attorney General,,LIB,Lars Hedbor,28
+Benton,12 - Adair Village C5S12H23,Attorney General,,REP,Michael Cross,260
+Benton,12 - Adair Village C5S12H23,Attorney General,,,Write-ins,4
+Benton,12 - Adair Village C5S12H23,Attorney General,,,Over Votes,0
+Benton,12 - Adair Village C5S12H23,Attorney General,,,Under Votes,22
+Benton,12 - Adair Village C5S12H23,State Senate,12,REP,Brian Boquist,292
+Benton,12 - Adair Village C5S12H23,State Senate,12,DEM,Bernadette Hansen,330
+Benton,12 - Adair Village C5S12H23,State Senate,12,,Write-ins,2
+Benton,12 - Adair Village C5S12H23,State Senate,12,,Over Votes,0
+Benton,12 - Adair Village C5S12H23,State Senate,12,,Under Votes,21
+Benton,12 - Adair Village C5S12H23,State House,23,PAC,Alex Polikoff,54
+Benton,12 - Adair Village C5S12H23,State House,23,LIB,Scott Clawson,20
+Benton,12 - Adair Village C5S12H23,State House,23,REP,Mike Nearman,248
+Benton,12 - Adair Village C5S12H23,State House,23,DEM,Sean Scorvo,277
+Benton,12 - Adair Village C5S12H23,State House,23,,Write-ins,1
+Benton,12 - Adair Village C5S12H23,State House,23,,Over Votes,0
+Benton,12 - Adair Village C5S12H23,State House,23,,Under Votes,45
+Benton,13 - Monroe C4S12H23,President,,REP,Donald Trump,199
+Benton,13 - Monroe C4S12H23,President,,DEM,Joe Biden,148
+Benton,13 - Monroe C4S12H23,President,,LIB,Jo Jorgensen,6
+Benton,13 - Monroe C4S12H23,President,,PAC,Howie Hawkins,1
+Benton,13 - Monroe C4S12H23,President,,PRO,Dario Hunter,0
+Benton,13 - Monroe C4S12H23,President,,,Write-ins,0
+Benton,13 - Monroe C4S12H23,President,,,Over Votes,0
+Benton,13 - Monroe C4S12H23,President,,,Under Votes,3
+Benton,13 - Monroe C4S12H23,U.S. Senate,,REP,Jo Rae Perkins,184
+Benton,13 - Monroe C4S12H23,U.S. Senate,,DEM,Jeff Merkley,154
+Benton,13 - Monroe C4S12H23,U.S. Senate,,PAC,Ibrahim Taher,4
+Benton,13 - Monroe C4S12H23,U.S. Senate,,LIB,Gary Dye,8
+Benton,13 - Monroe C4S12H23,U.S. Senate,,,Write-ins,0
+Benton,13 - Monroe C4S12H23,U.S. Senate,,,Over Votes,0
+Benton,13 - Monroe C4S12H23,U.S. Senate,,,Under Votes,7
+Benton,13 - Monroe C4S12H23,U.S. House,4,PAC,Daniel Hoffay,5
+Benton,13 - Monroe C4S12H23,U.S. House,4,DEM,Peter DeFazio,145
+Benton,13 - Monroe C4S12H23,U.S. House,4,REP,Alex Skarlatos,198
+Benton,13 - Monroe C4S12H23,U.S. House,4,,Write-ins,1
+Benton,13 - Monroe C4S12H23,U.S. House,4,,Over Votes,0
+Benton,13 - Monroe C4S12H23,U.S. House,4,,Under Votes,8
+Benton,13 - Monroe C4S12H23,Secretary of State,,PAC,Nathalie Paracivini,8
+Benton,13 - Monroe C4S12H23,Secretary of State,,LIB,Kyle Markley,9
+Benton,13 - Monroe C4S12H23,Secretary of State,,REP,Kim Thatcher,195
+Benton,13 - Monroe C4S12H23,Secretary of State,,DEM,Shemia Fagan,132
+Benton,13 - Monroe C4S12H23,Secretary of State,,,Write-ins,1
+Benton,13 - Monroe C4S12H23,Secretary of State,,,Over Votes,0
+Benton,13 - Monroe C4S12H23,Secretary of State,,,Under Votes,12
+Benton,13 - Monroe C4S12H23,State Treasurer,,CON,Michael Marsh,9
+Benton,13 - Monroe C4S12H23,State Treasurer,,DEM,Tobias Reed,136
+Benton,13 - Monroe C4S12H23,State Treasurer,,IND,Chris Henry,10
+Benton,13 - Monroe C4S12H23,State Treasurer,,REP,Jeff Gudman,185
+Benton,13 - Monroe C4S12H23,State Treasurer,,,Write-ins,1
+Benton,13 - Monroe C4S12H23,State Treasurer,,,Over Votes,0
+Benton,13 - Monroe C4S12H23,State Treasurer,,,Under Votes,16
+Benton,13 - Monroe C4S12H23,Attorney General,,DEM,Ellen Roseblum,145
+Benton,13 - Monroe C4S12H23,Attorney General,,LIB,Lars Hedbor,11
+Benton,13 - Monroe C4S12H23,Attorney General,,REP,Michael Cross,182
+Benton,13 - Monroe C4S12H23,Attorney General,,,Write-ins,1
+Benton,13 - Monroe C4S12H23,Attorney General,,,Over Votes,0
+Benton,13 - Monroe C4S12H23,Attorney General,,,Under Votes,18
+Benton,13 - Monroe C4S12H23,State Senate,12,REP,Brian Boquist,197
+Benton,13 - Monroe C4S12H23,State Senate,12,DEM,Bernadette Hansen,138
+Benton,13 - Monroe C4S12H23,State Senate,12,,Write-ins,1
+Benton,13 - Monroe C4S12H23,State Senate,12,,Over Votes,0
+Benton,13 - Monroe C4S12H23,State Senate,12,,Under Votes,21
+Benton,13 - Monroe C4S12H23,State House,23,PAC,Alex Polikoff,19
+Benton,13 - Monroe C4S12H23,State House,23,LIB,Scott Clawson,6
+Benton,13 - Monroe C4S12H23,State House,23,REP,Mike Nearman,183
+Benton,13 - Monroe C4S12H23,State House,23,DEM,Sean Scorvo,119
+Benton,13 - Monroe C4S12H23,State House,23,,Write-ins,0
+Benton,13 - Monroe C4S12H23,State House,23,,Over Votes,0
+Benton,13 - Monroe C4S12H23,State House,23,,Under Votes,30
+Benton,14 - Alsea School C4S12H23,President,,REP,Donald Trump,357
+Benton,14 - Alsea School C4S12H23,President,,DEM,Joe Biden,229
+Benton,14 - Alsea School C4S12H23,President,,LIB,Jo Jorgensen,6
+Benton,14 - Alsea School C4S12H23,President,,PAC,Howie Hawkins,7
+Benton,14 - Alsea School C4S12H23,President,,PRO,Dario Hunter,2
+Benton,14 - Alsea School C4S12H23,President,,,Write-ins,3
+Benton,14 - Alsea School C4S12H23,President,,,Over Votes,0
+Benton,14 - Alsea School C4S12H23,President,,,Under Votes,4
+Benton,14 - Alsea School C4S12H23,U.S. Senate,,REP,Jo Rae Perkins,342
+Benton,14 - Alsea School C4S12H23,U.S. Senate,,DEM,Jeff Merkley,227
+Benton,14 - Alsea School C4S12H23,U.S. Senate,,PAC,Ibrahim Taher,13
+Benton,14 - Alsea School C4S12H23,U.S. Senate,,LIB,Gary Dye,10
+Benton,14 - Alsea School C4S12H23,U.S. Senate,,,Write-ins,0
+Benton,14 - Alsea School C4S12H23,U.S. Senate,,,Over Votes,0
+Benton,14 - Alsea School C4S12H23,U.S. Senate,,,Under Votes,16
+Benton,14 - Alsea School C4S12H23,U.S. House,4,PAC,Daniel Hoffay,16
+Benton,14 - Alsea School C4S12H23,U.S. House,4,DEM,Peter DeFazio,221
+Benton,14 - Alsea School C4S12H23,U.S. House,4,REP,Alex Skarlatos,360
+Benton,14 - Alsea School C4S12H23,U.S. House,4,,Write-ins,1
+Benton,14 - Alsea School C4S12H23,U.S. House,4,,Over Votes,0
+Benton,14 - Alsea School C4S12H23,U.S. House,4,,Under Votes,10
+Benton,14 - Alsea School C4S12H23,Secretary of State,,PAC,Nathalie Paracivini,27
+Benton,14 - Alsea School C4S12H23,Secretary of State,,LIB,Kyle Markley,16
+Benton,14 - Alsea School C4S12H23,Secretary of State,,REP,Kim Thatcher,360
+Benton,14 - Alsea School C4S12H23,Secretary of State,,DEM,Shemia Fagan,186
+Benton,14 - Alsea School C4S12H23,Secretary of State,,,Write-ins,1
+Benton,14 - Alsea School C4S12H23,Secretary of State,,,Over Votes,0
+Benton,14 - Alsea School C4S12H23,Secretary of State,,,Under Votes,18
+Benton,14 - Alsea School C4S12H23,State Treasurer,,CON,Michael Marsh,15
+Benton,14 - Alsea School C4S12H23,State Treasurer,,DEM,Tobias Reed,201
+Benton,14 - Alsea School C4S12H23,State Treasurer,,IND,Chris Henry,32
+Benton,14 - Alsea School C4S12H23,State Treasurer,,REP,Jeff Gudman,335
+Benton,14 - Alsea School C4S12H23,State Treasurer,,,Write-ins,2
+Benton,14 - Alsea School C4S12H23,State Treasurer,,,Over Votes,0
+Benton,14 - Alsea School C4S12H23,State Treasurer,,,Under Votes,23
+Benton,14 - Alsea School C4S12H23,Attorney General,,DEM,Ellen Roseblum,217
+Benton,14 - Alsea School C4S12H23,Attorney General,,LIB,Lars Hedbor,15
+Benton,14 - Alsea School C4S12H23,Attorney General,,REP,Michael Cross,350
+Benton,14 - Alsea School C4S12H23,Attorney General,,,Write-ins,5
+Benton,14 - Alsea School C4S12H23,Attorney General,,,Over Votes,0
+Benton,14 - Alsea School C4S12H23,Attorney General,,,Under Votes,21
+Benton,14 - Alsea School C4S12H23,State Senate,12,REP,Brian Boquist,378
+Benton,14 - Alsea School C4S12H23,State Senate,12,DEM,Bernadette Hansen,202
+Benton,14 - Alsea School C4S12H23,State Senate,12,,Write-ins,2
+Benton,14 - Alsea School C4S12H23,State Senate,12,,Over Votes,0
+Benton,14 - Alsea School C4S12H23,State Senate,12,,Under Votes,26
+Benton,14 - Alsea School C4S12H23,State House,23,PAC,Alex Polikoff,30
+Benton,14 - Alsea School C4S12H23,State House,23,LIB,Scott Clawson,12
+Benton,14 - Alsea School C4S12H23,State House,23,REP,Mike Nearman,350
+Benton,14 - Alsea School C4S12H23,State House,23,DEM,Sean Scorvo,186
+Benton,14 - Alsea School C4S12H23,State House,23,,Write-ins,0
+Benton,14 - Alsea School C4S12H23,State House,23,,Over Votes,0
+Benton,14 - Alsea School C4S12H23,State House,23,,Under Votes,30
+Benton,15 - Northwest C4S12H23,President,,REP,Donald Trump,1158
+Benton,15 - Northwest C4S12H23,President,,DEM,Joe Biden,1266
+Benton,15 - Northwest C4S12H23,President,,LIB,Jo Jorgensen,57
+Benton,15 - Northwest C4S12H23,President,,PAC,Howie Hawkins,10
+Benton,15 - Northwest C4S12H23,President,,PRO,Dario Hunter,11
+Benton,15 - Northwest C4S12H23,President,,,Write-ins,23
+Benton,15 - Northwest C4S12H23,President,,,Over Votes,0
+Benton,15 - Northwest C4S12H23,President,,,Under Votes,23
+Benton,15 - Northwest C4S12H23,U.S. Senate,,REP,Jo Rae Perkins,1147
+Benton,15 - Northwest C4S12H23,U.S. Senate,,DEM,Jeff Merkley,1283
+Benton,15 - Northwest C4S12H23,U.S. Senate,,PAC,Ibrahim Taher,21
+Benton,15 - Northwest C4S12H23,U.S. Senate,,LIB,Gary Dye,41
+Benton,15 - Northwest C4S12H23,U.S. Senate,,,Write-ins,3
+,,U.S. Senate,,,Over Votes,1
+Benton,15 - Northwest C4S12H23,U.S. Senate,,,Under Votes,52
+Benton,15 - Northwest C4S12H23,U.S. House,4,PAC,Daniel Hoffay,36
+Benton,15 - Northwest C4S12H23,U.S. House,4,DEM,Peter DeFazio,1257
+Benton,15 - Northwest C4S12H23,U.S. House,4,REP,Alex Skarlatos,1212
+Benton,15 - Northwest C4S12H23,U.S. House,4,,Write-ins,2
+Benton,15 - Northwest C4S12H23,U.S. House,4,,Over Votes,0
+Benton,15 - Northwest C4S12H23,U.S. House,4,,Under Votes,41
+Benton,15 - Northwest C4S12H23,Secretary of State,,PAC,Nathalie Paracivini,92
+Benton,15 - Northwest C4S12H23,Secretary of State,,LIB,Kyle Markley,52
+Benton,15 - Northwest C4S12H23,Secretary of State,,REP,Kim Thatcher,1241
+Benton,15 - Northwest C4S12H23,Secretary of State,,DEM,Shemia Fagan,1083
+Benton,15 - Northwest C4S12H23,Secretary of State,,,Write-ins,5
+Benton,15 - Northwest C4S12H23,Secretary of State,,,Over Votes,0
+Benton,15 - Northwest C4S12H23,Secretary of State,,,Under Votes,70
+Benton,15 - Northwest C4S12H23,State Treasurer,,CON,Michael Marsh,63
+Benton,15 - Northwest C4S12H23,State Treasurer,,DEM,Tobias Reed,1112
+Benton,15 - Northwest C4S12H23,State Treasurer,,IND,Chris Henry,104
+Benton,15 - Northwest C4S12H23,State Treasurer,,REP,Jeff Gudman,1153
+Benton,15 - Northwest C4S12H23,State Treasurer,,,Write-ins,9
+Benton,15 - Northwest C4S12H23,State Treasurer,,,Over Votes,0
+Benton,15 - Northwest C4S12H23,State Treasurer,,,Under Votes,102
+Benton,15 - Northwest C4S12H23,Attorney General,,DEM,Ellen Roseblum,1211
+Benton,15 - Northwest C4S12H23,Attorney General,,LIB,Lars Hedbor,54
+Benton,15 - Northwest C4S12H23,Attorney General,,REP,Michael Cross,1155
+Benton,15 - Northwest C4S12H23,Attorney General,,,Write-ins,23
+Benton,15 - Northwest C4S12H23,Attorney General,,,Over Votes,0
+Benton,15 - Northwest C4S12H23,Attorney General,,,Under Votes,100
+Benton,15 - Northwest C4S12H23,State Senate,12,REP,Brian Boquist,1268
+Benton,15 - Northwest C4S12H23,State Senate,12,DEM,Bernadette Hansen,1152
+Benton,15 - Northwest C4S12H23,State Senate,12,,Write-ins,3
+Benton,15 - Northwest C4S12H23,State Senate,12,,Over Votes,0
+Benton,15 - Northwest C4S12H23,State Senate,12,,Under Votes,120
+Benton,15 - Northwest C4S12H23,State House,23,PAC,Alex Polikoff,166
+Benton,15 - Northwest C4S12H23,State House,23,LIB,Scott Clawson,53
+Benton,15 - Northwest C4S12H23,State House,23,REP,Mike Nearman,1157
+Benton,15 - Northwest C4S12H23,State House,23,DEM,Sean Scorvo,1013
+Benton,15 - Northwest C4S12H23,State House,23,,Write-ins,5
+Benton,15 - Northwest C4S12H23,State House,23,,Over Votes,0
+Benton,15 - Northwest C4S12H23,State House,23,,Under Votes,149
+Benton,16 - Corvallis Rural C4S8H16,President,,REP,Donald Trump,867
+Benton,16 - Corvallis Rural C4S8H16,President,,DEM,Joe Biden,2115
+Benton,16 - Corvallis Rural C4S8H16,President,,LIB,Jo Jorgensen,43
+Benton,16 - Corvallis Rural C4S8H16,President,,PAC,Howie Hawkins,19
+Benton,16 - Corvallis Rural C4S8H16,President,,PRO,Dario Hunter,6
+Benton,16 - Corvallis Rural C4S8H16,President,,,Write-ins,35
+Benton,16 - Corvallis Rural C4S8H16,President,,,Over Votes,1
+Benton,16 - Corvallis Rural C4S8H16,President,,,Under Votes,20
+Benton,16 - Corvallis Rural C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,897
+Benton,16 - Corvallis Rural C4S8H16,U.S. Senate,,DEM,Jeff Merkley,2044
+Benton,16 - Corvallis Rural C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,55
+Benton,16 - Corvallis Rural C4S8H16,U.S. Senate,,LIB,Gary Dye,50
+Benton,16 - Corvallis Rural C4S8H16,U.S. Senate,,,Write-ins,4
+Benton,16 - Corvallis Rural C4S8H16,U.S. Senate,,,Under Votes,56
+Benton,16 - Corvallis Rural C4S8H16,U.S. House,4,PAC,Daniel Hoffay,59
+Benton,16 - Corvallis Rural C4S8H16,U.S. House,4,DEM,Peter DeFazio,2042
+Benton,16 - Corvallis Rural C4S8H16,U.S. House,4,REP,Alex Skarlatos,954
+Benton,16 - Corvallis Rural C4S8H16,U.S. House,4,,Write-ins,4
+Benton,16 - Corvallis Rural C4S8H16,U.S. House,4,,Under Votes,47
+Benton,16 - Corvallis Rural C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,113
+Benton,16 - Corvallis Rural C4S8H16,Secretary of State,,LIB,Kyle Markley,68
+Benton,16 - Corvallis Rural C4S8H16,Secretary of State,,REP,Kim Thatcher,1012
+Benton,16 - Corvallis Rural C4S8H16,Secretary of State,,DEM,Shemia Fagan,1800
+Benton,16 - Corvallis Rural C4S8H16,Secretary of State,,,Write-ins,2
+Benton,16 - Corvallis Rural C4S8H16,Secretary of State,,,Over Votes,0
+Benton,16 - Corvallis Rural C4S8H16,Secretary of State,,,Under Votes,91
+Benton,16 - Corvallis Rural C4S8H16,State Treasurer,,CON,Michael Marsh,45
+Benton,16 - Corvallis Rural C4S8H16,State Treasurer,,DEM,Tobias Reed,1841
+Benton,16 - Corvallis Rural C4S8H16,State Treasurer,,IND,Chris Henry,119
+Benton,16 - Corvallis Rural C4S8H16,State Treasurer,,REP,Jeff Gudman,964
+Benton,16 - Corvallis Rural C4S8H16,State Treasurer,,,Write-ins,3
+Benton,16 - Corvallis Rural C4S8H16,State Treasurer,,,Over Votes,0
+Benton,16 - Corvallis Rural C4S8H16,State Treasurer,,,Under Votes,114
+Benton,16 - Corvallis Rural C4S8H16,Attorney General,,DEM,Ellen Roseblum,1974
+Benton,16 - Corvallis Rural C4S8H16,Attorney General,,LIB,Lars Hedbor,73
+Benton,16 - Corvallis Rural C4S8H16,Attorney General,,REP,Michael Cross,928
+Benton,16 - Corvallis Rural C4S8H16,Attorney General,,,Write-ins,6
+Benton,16 - Corvallis Rural C4S8H16,Attorney General,,,Over Votes,1
+Benton,16 - Corvallis Rural C4S8H16,Attorney General,,,Under Votes,104
+Benton,16 - Corvallis Rural C4S8H16,State House,16,DEM,Dan Rayfield,1990
+Benton,16 - Corvallis Rural C4S8H16,State House,16,REP,Jason Hughes,946
+Benton,16 - Corvallis Rural C4S8H16,State House,16,,Write-ins,11
+Benton,16 - Corvallis Rural C4S8H16,State House,16,,Over Votes,0
+Benton,16 - Corvallis Rural C4S8H16,State House,16,,Under Votes,139
+Benton,17 - North 509J C4S12H23,President,,REP,Donald Trump,395
+Benton,17 - North 509J C4S12H23,President,,DEM,Joe Biden,1015
+Benton,17 - North 509J C4S12H23,President,,LIB,Jo Jorgensen,28
+Benton,17 - North 509J C4S12H23,President,,PAC,Howie Hawkins,7
+Benton,17 - North 509J C4S12H23,President,,PRO,Dario Hunter,4
+Benton,17 - North 509J C4S12H23,President,,,Write-ins,12
+Benton,17 - North 509J C4S12H23,President,,,Over Votes,0
+Benton,17 - North 509J C4S12H23,President,,,Under Votes,13
+Benton,17 - North 509J C4S12H23,U.S. Senate,,REP,Jo Rae Perkins,408
+Benton,17 - North 509J C4S12H23,U.S. Senate,,DEM,Jeff Merkley,992
+Benton,17 - North 509J C4S12H23,U.S. Senate,,PAC,Ibrahim Taher,22
+Benton,17 - North 509J C4S12H23,U.S. Senate,,LIB,Gary Dye,22
+Benton,17 - North 509J C4S12H23,U.S. Senate,,,Write-ins,0
+Benton,17 - North 509J C4S12H23,U.S. Senate,,,Over Votes,0
+Benton,17 - North 509J C4S12H23,U.S. Senate,,,Under Votes,30
+Benton,17 - North 509J C4S12H23,U.S. House,4,PAC,Daniel Hoffay,20
+Benton,17 - North 509J C4S12H23,U.S. House,4,DEM,Peter DeFazio,996
+Benton,17 - North 509J C4S12H23,U.S. House,4,REP,Alex Skarlatos,439
+Benton,17 - North 509J C4S12H23,U.S. House,4,,Write-ins,1
+Benton,17 - North 509J C4S12H23,U.S. House,4,,Over Votes,0
+Benton,17 - North 509J C4S12H23,U.S. House,4,,Under Votes,18
+Benton,17 - North 509J C4S12H23,Secretary of State,,PAC,Nathalie Paracivini,42
+Benton,17 - North 509J C4S12H23,Secretary of State,,LIB,Kyle Markley,37
+Benton,17 - North 509J C4S12H23,Secretary of State,,REP,Kim Thatcher,461
+Benton,17 - North 509J C4S12H23,Secretary of State,,DEM,Shemia Fagan,872
+Benton,17 - North 509J C4S12H23,Secretary of State,,,Write-ins,0
+Benton,17 - North 509J C4S12H23,Secretary of State,,,Over Votes,0
+Benton,17 - North 509J C4S12H23,Secretary of State,,,Under Votes,53
+Benton,17 - North 509J C4S12H23,State Treasurer,,CON,Michael Marsh,17
+Benton,17 - North 509J C4S12H23,State Treasurer,,DEM,Tobias Reed,893
+Benton,17 - North 509J C4S12H23,State Treasurer,,IND,Chris Henry,53
+Benton,17 - North 509J C4S12H23,State Treasurer,,REP,Jeff Gudman,448
+Benton,17 - North 509J C4S12H23,State Treasurer,,,Write-ins,1
+Benton,17 - North 509J C4S12H23,State Treasurer,,,Over Votes,0
+Benton,17 - North 509J C4S12H23,State Treasurer,,,Under Votes,53
+Benton,17 - North 509J C4S12H23,Attorney General,,DEM,Ellen Roseblum,954
+Benton,17 - North 509J C4S12H23,Attorney General,,LIB,Lars Hedbor,32
+Benton,17 - North 509J C4S12H23,Attorney General,,REP,Michael Cross,416
+Benton,17 - North 509J C4S12H23,Attorney General,,,Write-ins,8
+Benton,17 - North 509J C4S12H23,Attorney General,,,Over Votes,0
+Benton,17 - North 509J C4S12H23,Attorney General,,,Under Votes,55
+Benton,17 - North 509J C4S12H23,State Senate,12,REP,Brian Boquist,497
+Benton,17 - North 509J C4S12H23,State Senate,12,DEM,Bernadette Hansen,908
+Benton,17 - North 509J C4S12H23,State Senate,12,,Write-ins,2
+Benton,17 - North 509J C4S12H23,State Senate,12,,Over Votes,0
+Benton,17 - North 509J C4S12H23,State Senate,12,,Under Votes,58
+Benton,17 - North 509J C4S12H23,State House,23,PAC,Alex Polikoff,119
+Benton,17 - North 509J C4S12H23,State House,23,LIB,Scott Clawson,26
+Benton,17 - North 509J C4S12H23,State House,23,REP,Mike Nearman,427
+Benton,17 - North 509J C4S12H23,State House,23,DEM,Sean Scorvo,809
+Benton,17 - North 509J C4S12H23,State House,23,,Write-ins,0
+Benton,17 - North 509J C4S12H23,State House,23,,Over Votes,0
+Benton,17 - North 509J C4S12H23,State House,23,,Under Votes,84
+Benton,18 - Albany Rural C5S8H15,President,,REP,Donald Trump,835
+Benton,18 - Albany Rural C5S8H15,President,,DEM,Joe Biden,674
+Benton,18 - Albany Rural C5S8H15,President,,LIB,Jo Jorgensen,35
+Benton,18 - Albany Rural C5S8H15,President,,PAC,Howie Hawkins,7
+Benton,18 - Albany Rural C5S8H15,President,,PRO,Dario Hunter,0
+Benton,18 - Albany Rural C5S8H15,President,,,Write-ins,16
+Benton,18 - Albany Rural C5S8H15,President,,,Over Votes,0
+Benton,18 - Albany Rural C5S8H15,President,,,Under Votes,14
+Benton,18 - Albany Rural C5S8H15,U.S. Senate,,REP,Jo Rae Perkins,835
+Benton,18 - Albany Rural C5S8H15,U.S. Senate,,DEM,Jeff Merkley,656
+Benton,18 - Albany Rural C5S8H15,U.S. Senate,,PAC,Ibrahim Taher,9
+Benton,18 - Albany Rural C5S8H15,U.S. Senate,,LIB,Gary Dye,29
+Benton,18 - Albany Rural C5S8H15,U.S. Senate,,,Write-ins,5
+Benton,18 - Albany Rural C5S8H15,U.S. Senate,,,Over Votes,0
+Benton,18 - Albany Rural C5S8H15,U.S. Senate,,,Under Votes,47
+Benton,18 - Albany Rural C5S8H15,U.S. House,4,PAC,Daniel Hoffay,34
+Benton,18 - Albany Rural C5S8H15,U.S. House,4,DEM,Peter DeFazio,869
+Benton,18 - Albany Rural C5S8H15,U.S. House,4,REP,Alex Skarlatos,621
+Benton,18 - Albany Rural C5S8H15,U.S. House,4,,Write-ins,4
+Benton,18 - Albany Rural C5S8H15,U.S. House,4,,Over Votes,0
+Benton,18 - Albany Rural C5S8H15,U.S. House,4,,Under Votes,53
+Benton,18 - Albany Rural C5S8H15,Secretary of State,,PAC,Nathalie Paracivini,37
+Benton,18 - Albany Rural C5S8H15,Secretary of State,,LIB,Kyle Markley,32
+Benton,18 - Albany Rural C5S8H15,Secretary of State,,REP,Kim Thatcher,906
+Benton,18 - Albany Rural C5S8H15,Secretary of State,,DEM,Shemia Fagan,526
+Benton,18 - Albany Rural C5S8H15,Secretary of State,,,Write-ins,4
+Benton,18 - Albany Rural C5S8H15,Secretary of State,,,Over Votes,0
+Benton,18 - Albany Rural C5S8H15,Secretary of State,,,Under Votes,71
+Benton,18 - Albany Rural C5S8H15,State Treasurer,,CON,Michael Marsh,33
+Benton,18 - Albany Rural C5S8H15,State Treasurer,,DEM,Tobias Reed,555
+Benton,18 - Albany Rural C5S8H15,State Treasurer,,IND,Chris Henry,47
+Benton,18 - Albany Rural C5S8H15,State Treasurer,,REP,Jeff Gudman,866
+Benton,18 - Albany Rural C5S8H15,State Treasurer,,,Write-ins,3
+Benton,18 - Albany Rural C5S8H15,State Treasurer,,,Under Votes,0
+Benton,18 - Albany Rural C5S8H15,Attorney General,,DEM,Ellen Roseblum,619
+Benton,18 - Albany Rural C5S8H15,Attorney General,,LIB,Lars Hedbor,35
+Benton,18 - Albany Rural C5S8H15,Attorney General,,REP,Michael Cross,847
+Benton,18 - Albany Rural C5S8H15,Attorney General,,,Write-ins,4
+Benton,18 - Albany Rural C5S8H15,Attorney General,,,Over Votes,1
+Benton,18 - Albany Rural C5S8H15,Attorney General,,,Under Votes,70
+Benton,18 - Albany Rural C5S8H15,State House,HD15,DEM,Miriam Cummins,507
+Benton,18 - Albany Rural C5S8H15,State House,16,REP,Shelly Boshart Davis,1003
+Benton,18 - Albany Rural C5S8H15,State House,16,,Write-ins,2
+Benton,18 - Albany Rural C5S8H15,State House,16,,Over Votes,1
+Benton,18 - Albany Rural C5S8H15,State House,16,,Under Votes,63
+Benton,19 - South 509J C4S12H23,President,,REP,Donald Trump,455
+Benton,19 - South 509J C4S12H23,President,,DEM,Joe Biden,640
+Benton,19 - South 509J C4S12H23,President,,LIB,Jo Jorgensen,18
+Benton,19 - South 509J C4S12H23,President,,PAC,Howie Hawkins,8
+Benton,19 - South 509J C4S12H23,President,,PRO,Dario Hunter,1
+Benton,19 - South 509J C4S12H23,President,,,Write-ins,8
+Benton,19 - South 509J C4S12H23,President,,,Over Votes,0
+Benton,19 - South 509J C4S12H23,President,,,Under Votes,11
+Benton,19 - South 509J C4S12H23,U.S. Senate,,REP,Jo Rae Perkins,441
+Benton,19 - South 509J C4S12H23,U.S. Senate,,DEM,Jeff Merkley,640
+Benton,19 - South 509J C4S12H23,U.S. Senate,,PAC,Ibrahim Taher,15
+Benton,19 - South 509J C4S12H23,U.S. Senate,,LIB,Gary Dye,27
+Benton,19 - South 509J C4S12H23,U.S. Senate,,,Write-ins,1
+Benton,19 - South 509J C4S12H23,U.S. Senate,,,Over Votes,0
+Benton,19 - South 509J C4S12H23,U.S. Senate,,,Under Votes,17
+Benton,19 - South 509J C4S12H23,U.S. House,4,PAC,Daniel Hoffay,11
+Benton,19 - South 509J C4S12H23,U.S. House,4,DEM,Peter DeFazio,653
+Benton,19 - South 509J C4S12H23,U.S. House,4,REP,Alex Skarlatos,469
+Benton,19 - South 509J C4S12H23,U.S. House,4,,Write-ins,2
+Benton,19 - South 509J C4S12H23,U.S. House,4,,Over Votes,0
+Benton,19 - South 509J C4S12H23,U.S. House,4,,Under Votes,6
+Benton,19 - South 509J C4S12H23,Secretary of State,,PAC,Nathalie Paracivini,31
+Benton,19 - South 509J C4S12H23,Secretary of State,,LIB,Kyle Markley,25
+Benton,19 - South 509J C4S12H23,Secretary of State,,REP,Kim Thatcher,483
+Benton,19 - South 509J C4S12H23,Secretary of State,,DEM,Shemia Fagan,570
+Benton,19 - South 509J C4S12H23,Secretary of State,,,Write-ins,1
+Benton,19 - South 509J C4S12H23,Secretary of State,,,Over Votes,0
+Benton,19 - South 509J C4S12H23,Secretary of State,,,Under Votes,26
+Benton,19 - South 509J C4S12H23,State Treasurer,,CON,Michael Marsh,16
+Benton,19 - South 509J C4S12H23,State Treasurer,,DEM,Tobias Reed,582
+Benton,19 - South 509J C4S12H23,State Treasurer,,IND,Chris Henry,37
+Benton,19 - South 509J C4S12H23,State Treasurer,,REP,Jeff Gudman,461
+Benton,19 - South 509J C4S12H23,State Treasurer,,,Write-ins,1
+Benton,19 - South 509J C4S12H23,State Treasurer,,,Over Votes,0
+Benton,19 - South 509J C4S12H23,State Treasurer,,,Under Votes,39
+Benton,19 - South 509J C4S12H23,Attorney General,,DEM,Ellen Roseblum,619
+Benton,19 - South 509J C4S12H23,Attorney General,,LIB,Lars Hedbor,20
+Benton,19 - South 509J C4S12H23,Attorney General,,REP,Michael Cross,458
+Benton,19 - South 509J C4S12H23,Attorney General,,,Write-ins,3
+Benton,19 - South 509J C4S12H23,Attorney General,,,Over Votes,3
+Benton,19 - South 509J C4S12H23,Attorney General,,,Under Votes,36
+Benton,19 - South 509J C4S12H23,State Senate,12,REP,Brian Boquist,501
+Benton,19 - South 509J C4S12H23,State Senate,12,DEM,Bernadette Hansen,601
+Benton,19 - South 509J C4S12H23,State Senate,12,,Write-ins,1
+Benton,19 - South 509J C4S12H23,State Senate,12,,Over Votes,0
+Benton,19 - South 509J C4S12H23,State Senate,12,,Under Votes,33
+Benton,19 - South 509J C4S12H23,State House,23,PAC,Alex Polikoff,67
+Benton,19 - South 509J C4S12H23,State House,23,LIB,Scott Clawson,21
+Benton,19 - South 509J C4S12H23,State House,23,REP,Mike Nearman,443
+Benton,19 - South 509J C4S12H23,State House,23,DEM,Sean Scorvo,536
+Benton,19 - South 509J C4S12H23,State House,23,,Write-ins,1
+Benton,19 - South 509J C4S12H23,State House,23,,Over Votes,1
+Benton,19 - South 509J C4S12H23,State House,23,,Under Votes,67
+Benton,20 - Monroe Rural C4S12H23,President,,REP,Donald Trump,963
+Benton,20 - Monroe Rural C4S12H23,President,,DEM,Joe Biden,613
+Benton,20 - Monroe Rural C4S12H23,President,,LIB,Jo Jorgensen,38
+Benton,20 - Monroe Rural C4S12H23,President,,PAC,Howie Hawkins,3
+Benton,20 - Monroe Rural C4S12H23,President,,PRO,Dario Hunter,5
+Benton,20 - Monroe Rural C4S12H23,President,,,Write-ins,5
+Benton,20 - Monroe Rural C4S12H23,President,,,Over Votes,0
+Benton,20 - Monroe Rural C4S12H23,President,,,Under Votes,6
+Benton,20 - Monroe Rural C4S12H23,U.S. Senate,,REP,Jo Rae Perkins,920
+Benton,20 - Monroe Rural C4S12H23,U.S. Senate,,DEM,Jeff Merkley,642
+Benton,20 - Monroe Rural C4S12H23,U.S. Senate,,PAC,Ibrahim Taher,18
+Benton,20 - Monroe Rural C4S12H23,U.S. Senate,,LIB,Gary Dye,25
+Benton,20 - Monroe Rural C4S12H23,U.S. Senate,,,Write-ins,2
+Benton,20 - Monroe Rural C4S12H23,U.S. Senate,,,Over Votes,0
+Benton,20 - Monroe Rural C4S12H23,U.S. Senate,,,Under Votes,26
+Benton,20 - Monroe Rural C4S12H23,U.S. House,4,PAC,Daniel Hoffay,18
+Benton,20 - Monroe Rural C4S12H23,U.S. House,4,DEM,Peter DeFazio,628
+Benton,20 - Monroe Rural C4S12H23,U.S. House,4,REP,Alex Skarlatos,974
+Benton,20 - Monroe Rural C4S12H23,U.S. House,4,,Write-ins,1
+Benton,20 - Monroe Rural C4S12H23,U.S. House,4,,Over Votes,0
+Benton,20 - Monroe Rural C4S12H23,U.S. House,4,,Under Votes,12
+Benton,20 - Monroe Rural C4S12H23,Secretary of State,,PAC,Nathalie Paracivini,31
+Benton,20 - Monroe Rural C4S12H23,Secretary of State,,LIB,Kyle Markley,38
+Benton,20 - Monroe Rural C4S12H23,Secretary of State,,REP,Kim Thatcher,972
+Benton,20 - Monroe Rural C4S12H23,Secretary of State,,DEM,Shemia Fagan,550
+Benton,20 - Monroe Rural C4S12H23,Secretary of State,,,Write-ins,1
+Benton,20 - Monroe Rural C4S12H23,Secretary of State,,,Over Votes,0
+Benton,20 - Monroe Rural C4S12H23,Secretary of State,,,Under Votes,39
+Benton,20 - Monroe Rural C4S12H23,State Treasurer,,CON,Michael Marsh,27
+Benton,20 - Monroe Rural C4S12H23,State Treasurer,,DEM,Tobias Reed,577
+Benton,20 - Monroe Rural C4S12H23,State Treasurer,,IND,Chris Henry,56
+Benton,20 - Monroe Rural C4S12H23,State Treasurer,,REP,Jeff Gudman,907
+Benton,20 - Monroe Rural C4S12H23,State Treasurer,,,Write-ins,2
+Benton,20 - Monroe Rural C4S12H23,State Treasurer,,,Over Votes,0
+Benton,20 - Monroe Rural C4S12H23,State Treasurer,,,Under Votes,62
+Benton,20 - Monroe Rural C4S12H23,Attorney General,,DEM,Ellen Roseblum,598
+Benton,20 - Monroe Rural C4S12H23,Attorney General,,LIB,Lars Hedbor,44
+Benton,20 - Monroe Rural C4S12H23,Attorney General,,REP,Michael Cross,926
+Benton,20 - Monroe Rural C4S12H23,Attorney General,,,Write-ins,6
+Benton,20 - Monroe Rural C4S12H23,Attorney General,,,Over Votes,0
+Benton,20 - Monroe Rural C4S12H23,Attorney General,,,Under Votes,57
+Benton,20 - Monroe Rural C4S12H23,State Senate,12,REP,Brian Boquist,980
+Benton,20 - Monroe Rural C4S12H23,State Senate,12,DEM,Bernadette Hansen,582
+Benton,20 - Monroe Rural C4S12H23,State Senate,12,,Write-ins,2
+Benton,20 - Monroe Rural C4S12H23,State Senate,12,,Over Votes,0
+Benton,20 - Monroe Rural C4S12H23,State Senate,12,,Under Votes,67
+Benton,20 - Monroe Rural C4S12H23,State House,23,PAC,Alex Polikoff,52
+Benton,20 - Monroe Rural C4S12H23,State House,23,LIB,Scott Clawson,32
+Benton,20 - Monroe Rural C4S12H23,State House,23,REP,Mike Nearman,923
+Benton,20 - Monroe Rural C4S12H23,State House,23,DEM,Sean Scorvo,545
+Benton,20 - Monroe Rural C4S12H23,State House,23,,Write-ins,0
+Benton,20 - Monroe Rural C4S12H23,State House,23,,Over Votes,0
+Benton,20 - Monroe Rural C4S12H23,State House,23,,Under Votes,79
+Benton,21 - Philomath Rural C4S8H16,President,,REP,Donald Trump,166
+Benton,21 - Philomath Rural C4S8H16,President,,DEM,Joe Biden,206
+Benton,21 - Philomath Rural C4S8H16,President,,LIB,Jo Jorgensen,14
+Benton,21 - Philomath Rural C4S8H16,President,,PAC,Howie Hawkins,1
+Benton,21 - Philomath Rural C4S8H16,President,,PRO,Dario Hunter,1
+Benton,21 - Philomath Rural C4S8H16,President,,,Write-ins,6
+Benton,21 - Philomath Rural C4S8H16,President,,,Over Votes,0
+Benton,21 - Philomath Rural C4S8H16,President,,,Under Votes,1
+Benton,21 - Philomath Rural C4S8H16,U.S. Senate,,REP,Jo Rae Perkins,158
+Benton,21 - Philomath Rural C4S8H16,U.S. Senate,,DEM,Jeff Merkley,209
+Benton,21 - Philomath Rural C4S8H16,U.S. Senate,,PAC,Ibrahim Taher,5
+Benton,21 - Philomath Rural C4S8H16,U.S. Senate,,LIB,Gary Dye,15
+Benton,21 - Philomath Rural C4S8H16,U.S. Senate,,,Write-ins,0
+Benton,21 - Philomath Rural C4S8H16,U.S. Senate,,,Over Votes,0
+Benton,21 - Philomath Rural C4S8H16,U.S. Senate,,,Under Votes,8
+Benton,21 - Philomath Rural C4S8H16,U.S. House,4,PAC,Daniel Hoffay,9
+Benton,21 - Philomath Rural C4S8H16,U.S. House,4,DEM,Peter DeFazio,200
+Benton,21 - Philomath Rural C4S8H16,U.S. House,4,REP,Alex Skarlatos,182
+Benton,21 - Philomath Rural C4S8H16,U.S. House,4,,Write-ins,0
+Benton,21 - Philomath Rural C4S8H16,U.S. House,4,,Over Votes,0
+Benton,21 - Philomath Rural C4S8H16,U.S. House,4,,Under Votes,4
+Benton,21 - Philomath Rural C4S8H16,Secretary of State,,PAC,Nathalie Paracivini,12
+Benton,21 - Philomath Rural C4S8H16,Secretary of State,,LIB,Kyle Markley,12
+Benton,21 - Philomath Rural C4S8H16,Secretary of State,,REP,Kim Thatcher,184
+Benton,21 - Philomath Rural C4S8H16,Secretary of State,,DEM,Shemia Fagan,173
+Benton,21 - Philomath Rural C4S8H16,Secretary of State,,,Write-ins,0
+Benton,21 - Philomath Rural C4S8H16,Secretary of State,,,Over Votes,0
+Benton,21 - Philomath Rural C4S8H16,Secretary of State,,,Under Votes,14
+Benton,21 - Philomath Rural C4S8H16,State Treasurer,,CON,Michael Marsh,17
+Benton,21 - Philomath Rural C4S8H16,State Treasurer,,DEM,Tobias Reed,179
+Benton,21 - Philomath Rural C4S8H16,State Treasurer,,IND,Chris Henry,13
+Benton,21 - Philomath Rural C4S8H16,State Treasurer,,REP,Jeff Gudman,169
+Benton,21 - Philomath Rural C4S8H16,State Treasurer,,,Write-ins,0
+Benton,21 - Philomath Rural C4S8H16,State Treasurer,,,Over Votes,0
+Benton,21 - Philomath Rural C4S8H16,State Treasurer,,,Under Votes,17
+Benton,21 - Philomath Rural C4S8H16,Attorney General,,DEM,Ellen Roseblum,193
+Benton,21 - Philomath Rural C4S8H16,Attorney General,,LIB,Lars Hedbor,12
+Benton,21 - Philomath Rural C4S8H16,Attorney General,,REP,Michael Cross,164
+Benton,21 - Philomath Rural C4S8H16,Attorney General,,,Write-ins,3
+Benton,21 - Philomath Rural C4S8H16,Attorney General,,,Over Votes,0
+Benton,21 - Philomath Rural C4S8H16,Attorney General,,,Under Votes,23
+Benton,21 - Philomath Rural C4S8H16,State House,HD15,DEM,Miriam Cummins,191
+Benton,21 - Philomath Rural C4S8H16,State House,16,REP,Shelly Boshart Davis,175
+Benton,21 - Philomath Rural C4S8H16,State House,16,,Write-ins,0
+Benton,21 - Philomath Rural C4S8H16,State House,16,,Over Votes,0
+Benton,21 - Philomath Rural C4S8H16,State House,16,,Under Votes,29
+Benton,22 - Adair Rural C5S12H23,President,,REP,Donald Trump,190
+Benton,22 - Adair Rural C5S12H23,President,,DEM,Joe Biden,293
+Benton,22 - Adair Rural C5S12H23,President,,LIB,Jo Jorgensen,12
+Benton,22 - Adair Rural C5S12H23,President,,PAC,Howie Hawkins,1
+Benton,22 - Adair Rural C5S12H23,President,,PRO,Dario Hunter,0
+Benton,22 - Adair Rural C5S12H23,President,,,Write-ins,5
+Benton,22 - Adair Rural C5S12H23,President,,,Over Votes,0
+Benton,22 - Adair Rural C5S12H23,President,,,Under Votes,2
+Benton,22 - Adair Rural C5S12H23,U.S. Senate,,REP,Jo Rae Perkins,194
+Benton,22 - Adair Rural C5S12H23,U.S. Senate,,DEM,Jeff Merkley,282
+Benton,22 - Adair Rural C5S12H23,U.S. Senate,,PAC,Ibrahim Taher,2
+Benton,22 - Adair Rural C5S12H23,U.S. Senate,,LIB,Gary Dye,11
+Benton,22 - Adair Rural C5S12H23,U.S. Senate,,,Write-ins,1
+Benton,22 - Adair Rural C5S12H23,U.S. Senate,,,Over Votes,0
+Benton,22 - Adair Rural C5S12H23,U.S. Senate,,,Under Votes,13
+Benton,22 - Adair Rural C5S12H23,U.S. House,4,PAC,Daniel Hoffay,11
+Benton,22 - Adair Rural C5S12H23,U.S. House,4,DEM,Peter DeFazio,209
+Benton,22 - Adair Rural C5S12H23,U.S. House,4,REP,Alex Skarlatos,264
+Benton,22 - Adair Rural C5S12H23,U.S. House,4,,Write-ins,4
+Benton,22 - Adair Rural C5S12H23,U.S. House,4,,Over Votes,0
+Benton,22 - Adair Rural C5S12H23,U.S. House,4,,Under Votes,15
+Benton,22 - Adair Rural C5S12H23,Secretary of State,,PAC,Nathalie Paracivini,15
+Benton,22 - Adair Rural C5S12H23,Secretary of State,,LIB,Kyle Markley,13
+Benton,22 - Adair Rural C5S12H23,Secretary of State,,REP,Kim Thatcher,217
+Benton,22 - Adair Rural C5S12H23,Secretary of State,,DEM,Shemia Fagan,240
+Benton,22 - Adair Rural C5S12H23,Secretary of State,,,Write-ins,0
+Benton,22 - Adair Rural C5S12H23,Secretary of State,,,Over Votes,0
+Benton,22 - Adair Rural C5S12H23,Secretary of State,,,Under Votes,16
+Benton,22 - Adair Rural C5S12H23,State Treasurer,,CON,Michael Marsh,10
+Benton,22 - Adair Rural C5S12H23,State Treasurer,,DEM,Tobias Reed,247
+Benton,22 - Adair Rural C5S12H23,State Treasurer,,IND,Chris Henry,13
+Benton,22 - Adair Rural C5S12H23,State Treasurer,,REP,Jeff Gudman,207
+Benton,22 - Adair Rural C5S12H23,State Treasurer,,,Write-ins,0
+Benton,22 - Adair Rural C5S12H23,State Treasurer,,,Over Votes,0
+Benton,22 - Adair Rural C5S12H23,State Treasurer,,,Under Votes,24
+Benton,22 - Adair Rural C5S12H23,Attorney General,,DEM,Ellen Roseblum,268
+Benton,22 - Adair Rural C5S12H23,Attorney General,,LIB,Lars Hedbor,12
+Benton,22 - Adair Rural C5S12H23,Attorney General,,REP,Michael Cross,204
+Benton,22 - Adair Rural C5S12H23,Attorney General,,,Write-ins,0
+Benton,22 - Adair Rural C5S12H23,Attorney General,,,Over Votes,0
+Benton,22 - Adair Rural C5S12H23,Attorney General,,,Under Votes,17
+Benton,22 - Adair Rural C5S12H23,State Senate,12,REP,Brian Boquist,229
+Benton,22 - Adair Rural C5S12H23,State Senate,12,DEM,Bernadette Hansen,250
+Benton,22 - Adair Rural C5S12H23,State Senate,12,,Write-ins,0
+Benton,22 - Adair Rural C5S12H23,State Senate,12,,Over Votes,0
+Benton,22 - Adair Rural C5S12H23,State Senate,12,,Under Votes,22
+Benton,22 - Adair Rural C5S12H23,State House,23,PAC,Alex Polikoff,31
+Benton,22 - Adair Rural C5S12H23,State House,23,LIB,Scott Clawson,13
+Benton,22 - Adair Rural C5S12H23,State House,23,REP,Mike Nearman,204
+Benton,22 - Adair Rural C5S12H23,State House,23,DEM,Sean Scorvo,223
+Benton,22 - Adair Rural C5S12H23,State House,23,,Write-ins,1
+Benton,22 - Adair Rural C5S12H23,State House,23,,Over Votes,0
+Benton,22 - Adair Rural C5S12H23,State House,23,,Under Votes,29
+Benton,23 - Highway 20 C4S8H15,President,,REP,Donald Trump,267
+Benton,23 - Highway 20 C4S8H15,President,,DEM,Joe Biden,385
+Benton,23 - Highway 20 C4S8H15,President,,LIB,Jo Jorgensen,18
+Benton,23 - Highway 20 C4S8H15,President,,PAC,Howie Hawkins,4
+Benton,23 - Highway 20 C4S8H15,President,,PRO,Dario Hunter,1
+Benton,23 - Highway 20 C4S8H15,President,,,Write-ins,5
+Benton,23 - Highway 20 C4S8H15,President,,,Over Votes,0
+Benton,23 - Highway 20 C4S8H15,President,,,Under Votes,4
+Benton,23 - Highway 20 C4S8H15,U.S. Senate,,REP,Jo Rae Perkins,267
+Benton,23 - Highway 20 C4S8H15,U.S. Senate,,DEM,Jeff Merkley,373
+Benton,23 - Highway 20 C4S8H15,U.S. Senate,,PAC,Ibrahim Taher,17
+Benton,23 - Highway 20 C4S8H15,U.S. Senate,,LIB,Gary Dye,16
+Benton,23 - Highway 20 C4S8H15,U.S. Senate,,,Write-ins,0
+Benton,23 - Highway 20 C4S8H15,U.S. Senate,,,Over Votes,0
+Benton,23 - Highway 20 C4S8H15,U.S. Senate,,,Under Votes,11
+Benton,23 - Highway 20 C4S8H15,U.S. House,4,PAC,Daniel Hoffay,20
+Benton,23 - Highway 20 C4S8H15,U.S. House,4,DEM,Peter DeFazio,374
+Benton,23 - Highway 20 C4S8H15,U.S. House,4,REP,Alex Skarlatos,275
+Benton,23 - Highway 20 C4S8H15,U.S. House,4,,Write-ins,0
+Benton,23 - Highway 20 C4S8H15,U.S. House,4,,Over Votes,0
+Benton,23 - Highway 20 C4S8H15,U.S. House,4,,Under Votes,15
+Benton,23 - Highway 20 C4S8H15,Secretary of State,,PAC,Nathalie Paracivini,34
+Benton,23 - Highway 20 C4S8H15,Secretary of State,,LIB,Kyle Markley,17
+Benton,23 - Highway 20 C4S8H15,Secretary of State,,REP,Kim Thatcher,290
+Benton,23 - Highway 20 C4S8H15,Secretary of State,,DEM,Shemia Fagan,312
+Benton,23 - Highway 20 C4S8H15,Secretary of State,,,Write-ins,1
+Benton,23 - Highway 20 C4S8H15,Secretary of State,,,Over Votes,0
+Benton,23 - Highway 20 C4S8H15,Secretary of State,,,Under Votes,27
+Benton,23 - Highway 20 C4S8H15,State Treasurer,,CON,Michael Marsh,25
+Benton,23 - Highway 20 C4S8H15,State Treasurer,,DEM,Tobias Reed,325
+Benton,23 - Highway 20 C4S8H15,State Treasurer,,IND,Chris Henry,38
+Benton,23 - Highway 20 C4S8H15,State Treasurer,,REP,Jeff Gudman,265
+Benton,23 - Highway 20 C4S8H15,State Treasurer,,,Write-ins,0
+Benton,23 - Highway 20 C4S8H15,State Treasurer,,,Over Votes,0
+Benton,23 - Highway 20 C4S8H15,State Treasurer,,,Under Votes,28
+Benton,23 - Highway 20 C4S8H15,Attorney General,,DEM,Ellen Roseblum,360
+Benton,23 - Highway 20 C4S8H15,Attorney General,,LIB,Lars Hedbor,20
+Benton,23 - Highway 20 C4S8H15,Attorney General,,REP,Michael Cross,275
+Benton,23 - Highway 20 C4S8H15,Attorney General,,,Write-ins,0
+Benton,23 - Highway 20 C4S8H15,Attorney General,,,Over Votes,0
+Benton,23 - Highway 20 C4S8H15,Attorney General,,,Under Votes,26
+Benton,23 - Highway 20 C4S8H15,State House,HD15,DEM,Miriam Cummins,337
+Benton,23 - Highway 20 C4S8H15,State House,16,REP,Shelly Boshart Davis,308
+Benton,23 - Highway 20 C4S8H15,State House,16,,Write-ins,0
+Benton,23 - Highway 20 C4S8H15,State House,16,,Over Votes,0
+Benton,23 - Highway 20 C4S8H15,State House,16,,Under Votes,36
