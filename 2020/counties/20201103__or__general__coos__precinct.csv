@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,votes
 Coos,Precinct 01,Registered Voters,,,,1991
 Coos,Precinct 01,Ballots Cast,,,,1609
-Coos,Precinct 01,President,,Donald J. Trump / Michael R. Pence,,1035
-Coos,Precinct 01,President,,Joseph R. Biden / Kamala D. Harris,,518
-Coos,Precinct 01,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,23
-Coos,Precinct 01,President,,Howie Hawkins / Angela Walker,,11
-Coos,Precinct 01,President,,Dario Hunter / Dawn Neptune Adams,,1
+Coos,Precinct 01,President,,Donald J. Trump,,1035
+Coos,Precinct 01,President,,Joseph R. Biden,,518
+Coos,Precinct 01,President,,Jo Jorgensen,,23
+Coos,Precinct 01,President,,Howie Hawkins,,11
+Coos,Precinct 01,President,,Dario Hunter,,1
 Coos,Precinct 01,President,,Write-in,,6
 Coos,Precinct 01,President,,Over Votes,,1
 Coos,Precinct 01,President,,Under Votes,,14
@@ -54,11 +54,11 @@ Coos,Precinct 01,State House,9,Over Votes,,0
 Coos,Precinct 01,State House,9,Under Votes,,86
 Coos,Precinct 02,Registered Voters,,,,3273
 Coos,Precinct 02,Ballots Cast,,,,2726
-Coos,Precinct 02,President,,Donald J. Trump / Michael R. Pence,,1665
-Coos,Precinct 02,President,,Joseph R. Biden / Kamala D. Harris,,991
-Coos,Precinct 02,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,27
-Coos,Precinct 02,President,,Howie Hawkins / Angela Walker,,9
-Coos,Precinct 02,President,,Dario Hunter / Dawn Neptune Adams,,4
+Coos,Precinct 02,President,,Donald J. Trump,,1665
+Coos,Precinct 02,President,,Joseph R. Biden,,991
+Coos,Precinct 02,President,,Jo Jorgensen,,27
+Coos,Precinct 02,President,,Howie Hawkins,,9
+Coos,Precinct 02,President,,Dario Hunter,,4
 Coos,Precinct 02,President,,Write-in,,12
 Coos,Precinct 02,President,,Over Votes,,1
 Coos,Precinct 02,President,,Under Votes,,17
@@ -107,11 +107,11 @@ Coos,Precinct 02,State House,9,Over Votes,,0
 Coos,Precinct 02,State House,9,Under Votes,,89
 Coos,Precinct 03,Registered Voters,,,,4006
 Coos,Precinct 03,Ballots Cast,,,,3118
-Coos,Precinct 03,President,,Donald J. Trump / Michael R. Pence,,1760
-Coos,Precinct 03,President,,Joseph R. Biden / Kamala D. Harris,,1236
-Coos,Precinct 03,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,59
-Coos,Precinct 03,President,,Howie Hawkins / Angela Walker,,8
-Coos,Precinct 03,President,,Dario Hunter / Dawn Neptune Adams,,8
+Coos,Precinct 03,President,,Donald J. Trump,,1760
+Coos,Precinct 03,President,,Joseph R. Biden,,1236
+Coos,Precinct 03,President,,Jo Jorgensen,,59
+Coos,Precinct 03,President,,Howie Hawkins,,8
+Coos,Precinct 03,President,,Dario Hunter,,8
 Coos,Precinct 03,President,,Write-in,,12
 Coos,Precinct 03,President,,Over Votes,,0
 Coos,Precinct 03,President,,Under Votes,,35
@@ -160,11 +160,11 @@ Coos,Precinct 03,State House,9,Over Votes,,0
 Coos,Precinct 03,State House,9,Under Votes,,144
 Coos,Precinct 04,Registered Voters,,,,3003
 Coos,Precinct 04,Ballots Cast,,,,2317
-Coos,Precinct 04,President,,Donald J. Trump / Michael R. Pence,,1132
-Coos,Precinct 04,President,,Joseph R. Biden / Kamala D. Harris,,1109
-Coos,Precinct 04,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,35
-Coos,Precinct 04,President,,Howie Hawkins / Angela Walker,,10
-Coos,Precinct 04,President,,Dario Hunter / Dawn Neptune Adams,,3
+Coos,Precinct 04,President,,Donald J. Trump,,1132
+Coos,Precinct 04,President,,Joseph R. Biden,,1109
+Coos,Precinct 04,President,,Jo Jorgensen,,35
+Coos,Precinct 04,President,,Howie Hawkins,,10
+Coos,Precinct 04,President,,Dario Hunter,,3
 Coos,Precinct 04,President,,Write-in,,15
 Coos,Precinct 04,President,,Over Votes,,0
 Coos,Precinct 04,President,,Under Votes,,13
@@ -213,11 +213,11 @@ Coos,Precinct 04,State House,9,Over Votes,,0
 Coos,Precinct 04,State House,9,Under Votes,,112
 Coos,Precinct 05,Registered Voters,,,,4981
 Coos,Precinct 05,Ballots Cast,,,,3636
-Coos,Precinct 05,President,,Donald J. Trump / Michael R. Pence,,1930
-Coos,Precinct 05,President,,Joseph R. Biden / Kamala D. Harris,,1560
-Coos,Precinct 05,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,66
-Coos,Precinct 05,President,,Howie Hawkins / Angela Walker,,17
-Coos,Precinct 05,President,,Dario Hunter / Dawn Neptune Adams,,9
+Coos,Precinct 05,President,,Donald J. Trump,,1930
+Coos,Precinct 05,President,,Joseph R. Biden,,1560
+Coos,Precinct 05,President,,Jo Jorgensen,,66
+Coos,Precinct 05,President,,Howie Hawkins,,17
+Coos,Precinct 05,President,,Dario Hunter,,9
 Coos,Precinct 05,President,,Write-in,,22
 Coos,Precinct 05,President,,Over Votes,,0
 Coos,Precinct 05,President,,Under Votes,,32
@@ -266,11 +266,11 @@ Coos,Precinct 05,State House,9,Over Votes,,0
 Coos,Precinct 05,State House,9,Under Votes,,172
 Coos,Precinct 06,Registered Voters,,,,2687
 Coos,Precinct 06,Ballots Cast,,,,2155
-Coos,Precinct 06,President,,Donald J. Trump / Michael R. Pence,,1012
-Coos,Precinct 06,President,,Joseph R. Biden / Kamala D. Harris,,1040
-Coos,Precinct 06,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,46
-Coos,Precinct 06,President,,Howie Hawkins / Angela Walker,,13
-Coos,Precinct 06,President,,Dario Hunter / Dawn Neptune Adams,,15
+Coos,Precinct 06,President,,Donald J. Trump,,1012
+Coos,Precinct 06,President,,Joseph R. Biden,,1040
+Coos,Precinct 06,President,,Jo Jorgensen,,46
+Coos,Precinct 06,President,,Howie Hawkins,,13
+Coos,Precinct 06,President,,Dario Hunter,,15
 Coos,Precinct 06,President,,Write-in,,11
 Coos,Precinct 06,President,,Over Votes,,1
 Coos,Precinct 06,President,,Under Votes,,17
@@ -319,11 +319,11 @@ Coos,Precinct 06,State House,9,Over Votes,,0
 Coos,Precinct 06,State House,9,Under Votes,,94
 Coos,Precinct 07,Registered Voters,,,,3361
 Coos,Precinct 07,Ballots Cast,,,,2556
-Coos,Precinct 07,President,,Donald J. Trump / Michael R. Pence,,1289
-Coos,Precinct 07,President,,Joseph R. Biden / Kamala D. Harris,,1145
-Coos,Precinct 07,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,67
-Coos,Precinct 07,President,,Howie Hawkins / Angela Walker,,19
-Coos,Precinct 07,President,,Dario Hunter / Dawn Neptune Adams,,6
+Coos,Precinct 07,President,,Donald J. Trump,,1289
+Coos,Precinct 07,President,,Joseph R. Biden,,1145
+Coos,Precinct 07,President,,Jo Jorgensen,,67
+Coos,Precinct 07,President,,Howie Hawkins,,19
+Coos,Precinct 07,President,,Dario Hunter,,6
 Coos,Precinct 07,President,,Write-in,,12
 Coos,Precinct 07,President,,Over Votes,,0
 Coos,Precinct 07,President,,Under Votes,,18
@@ -372,11 +372,11 @@ Coos,Precinct 07,State House,9,Over Votes,,0
 Coos,Precinct 07,State House,9,Under Votes,,106
 Coos,Precinct 08,Registered Voters,,,,4838
 Coos,Precinct 08,Ballots Cast,,,,3483
-Coos,Precinct 08,President,,Donald J. Trump / Michael R. Pence,,2078
-Coos,Precinct 08,President,,Joseph R. Biden / Kamala D. Harris,,1273
-Coos,Precinct 08,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,64
-Coos,Precinct 08,President,,Howie Hawkins / Angela Walker,,20
-Coos,Precinct 08,President,,Dario Hunter / Dawn Neptune Adams,,10
+Coos,Precinct 08,President,,Donald J. Trump,,2078
+Coos,Precinct 08,President,,Joseph R. Biden,,1273
+Coos,Precinct 08,President,,Jo Jorgensen,,64
+Coos,Precinct 08,President,,Howie Hawkins,,20
+Coos,Precinct 08,President,,Dario Hunter,,10
 Coos,Precinct 08,President,,Write-in,,15
 Coos,Precinct 08,President,,Over Votes,,1
 Coos,Precinct 08,President,,Under Votes,,22
@@ -425,11 +425,11 @@ Coos,Precinct 08,State House,9,Over Votes,,0
 Coos,Precinct 08,State House,9,Under Votes,,165
 Coos,Precinct 09,Registered Voters,,,,496
 Coos,Precinct 09,Ballots Cast,,,,384
-Coos,Precinct 09,President,,Donald J. Trump / Michael R. Pence,,184
-Coos,Precinct 09,President,,Joseph R. Biden / Kamala D. Harris,,183
-Coos,Precinct 09,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,9
-Coos,Precinct 09,President,,Howie Hawkins / Angela Walker,,4
-Coos,Precinct 09,President,,Dario Hunter / Dawn Neptune Adams,,0
+Coos,Precinct 09,President,,Donald J. Trump,,184
+Coos,Precinct 09,President,,Joseph R. Biden,,183
+Coos,Precinct 09,President,,Jo Jorgensen,,9
+Coos,Precinct 09,President,,Howie Hawkins,,4
+Coos,Precinct 09,President,,Dario Hunter,,0
 Coos,Precinct 09,President,,Write-in,,3
 Coos,Precinct 09,President,,Over Votes,,0
 Coos,Precinct 09,President,,Under Votes,,1
@@ -477,11 +477,11 @@ Coos,Precinct 09,State House,1,Over Votes,,0
 Coos,Precinct 09,State House,1,Under Votes,,34
 Coos,Precinct 10,Registered Voters,,,,3204
 Coos,Precinct 10,Ballots Cast,,,,2641
-Coos,Precinct 10,President,,Donald J. Trump / Michael R. Pence,,1748
-Coos,Precinct 10,President,,Joseph R. Biden / Kamala D. Harris,,835
-Coos,Precinct 10,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,14
-Coos,Precinct 10,President,,Howie Hawkins / Angela Walker,,8
-Coos,Precinct 10,President,,Dario Hunter / Dawn Neptune Adams,,4
+Coos,Precinct 10,President,,Donald J. Trump,,1748
+Coos,Precinct 10,President,,Joseph R. Biden,,835
+Coos,Precinct 10,President,,Jo Jorgensen,,14
+Coos,Precinct 10,President,,Howie Hawkins,,8
+Coos,Precinct 10,President,,Dario Hunter,,4
 Coos,Precinct 10,President,,Write-in,,14
 Coos,Precinct 10,President,,Over Votes,,1
 Coos,Precinct 10,President,,Under Votes,,17
@@ -529,11 +529,11 @@ Coos,Precinct 10,State House,1,Over Votes,,0
 Coos,Precinct 10,State House,1,Under Votes,,162
 Coos,Precinct 11,Registered Voters,,,,2401
 Coos,Precinct 11,Ballots Cast,,,,1965
-Coos,Precinct 11,President,,Donald J. Trump / Michael R. Pence,,1349
-Coos,Precinct 11,President,,Joseph R. Biden / Kamala D. Harris,,557
-Coos,Precinct 11,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,27
-Coos,Precinct 11,President,,Howie Hawkins / Angela Walker,,8
-Coos,Precinct 11,President,,Dario Hunter / Dawn Neptune Adams,,4
+Coos,Precinct 11,President,,Donald J. Trump,,1349
+Coos,Precinct 11,President,,Joseph R. Biden,,557
+Coos,Precinct 11,President,,Jo Jorgensen,,27
+Coos,Precinct 11,President,,Howie Hawkins,,8
+Coos,Precinct 11,President,,Dario Hunter,,4
 Coos,Precinct 11,President,,Write-in,,4
 Coos,Precinct 11,President,,Over Votes,,0
 Coos,Precinct 11,President,,Under Votes,,16
@@ -581,11 +581,11 @@ Coos,Precinct 11,State House,1,Over Votes,,0
 Coos,Precinct 11,State House,1,Under Votes,,107
 Coos,Precinct 12,Registered Voters,,,,2868
 Coos,Precinct 12,Ballots Cast,,,,2220
-Coos,Precinct 12,President,,Donald J. Trump / Michael R. Pence,,1387
-Coos,Precinct 12,President,,Joseph R. Biden / Kamala D. Harris,,749
-Coos,Precinct 12,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,31
-Coos,Precinct 12,President,,Howie Hawkins / Angela Walker,,12
-Coos,Precinct 12,President,,Dario Hunter / Dawn Neptune Adams,,7
+Coos,Precinct 12,President,,Donald J. Trump,,1387
+Coos,Precinct 12,President,,Joseph R. Biden,,749
+Coos,Precinct 12,President,,Jo Jorgensen,,31
+Coos,Precinct 12,President,,Howie Hawkins,,12
+Coos,Precinct 12,President,,Dario Hunter,,7
 Coos,Precinct 12,President,,Write-in,,16
 Coos,Precinct 12,President,,Over Votes,,0
 Coos,Precinct 12,President,,Under Votes,,18
@@ -633,11 +633,11 @@ Coos,Precinct 12,State House,1,Over Votes,,0
 Coos,Precinct 12,State House,1,Under Votes,,147
 Coos,Precinct 13,Registered Voters,,,,1782
 Coos,Precinct 13,Ballots Cast,,,,1337
-Coos,Precinct 13,President,,Donald J. Trump / Michael R. Pence,,917
-Coos,Precinct 13,President,,Joseph R. Biden / Kamala D. Harris,,365
-Coos,Precinct 13,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,24
-Coos,Precinct 13,President,,Howie Hawkins / Angela Walker,,5
-Coos,Precinct 13,President,,Dario Hunter / Dawn Neptune Adams,,2
+Coos,Precinct 13,President,,Donald J. Trump,,917
+Coos,Precinct 13,President,,Joseph R. Biden,,365
+Coos,Precinct 13,President,,Jo Jorgensen,,24
+Coos,Precinct 13,President,,Howie Hawkins,,5
+Coos,Precinct 13,President,,Dario Hunter,,2
 Coos,Precinct 13,President,,Write-in,,7
 Coos,Precinct 13,President,,Over Votes,,0
 Coos,Precinct 13,President,,Under Votes,,17
@@ -685,11 +685,11 @@ Coos,Precinct 13,State House,1,Over Votes,,0
 Coos,Precinct 13,State House,1,Under Votes,,77
 Coos,Precinct 14,Registered Voters,,,,1995
 Coos,Precinct 14,Ballots Cast,,,,1651
-Coos,Precinct 14,President,,Donald J. Trump / Michael R. Pence,,1274
-Coos,Precinct 14,President,,Joseph R. Biden / Kamala D. Harris,,346
-Coos,Precinct 14,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,10
-Coos,Precinct 14,President,,Howie Hawkins / Angela Walker,,3
-Coos,Precinct 14,President,,Dario Hunter / Dawn Neptune Adams,,3
+Coos,Precinct 14,President,,Donald J. Trump,,1274
+Coos,Precinct 14,President,,Joseph R. Biden,,346
+Coos,Precinct 14,President,,Jo Jorgensen,,10
+Coos,Precinct 14,President,,Howie Hawkins,,3
+Coos,Precinct 14,President,,Dario Hunter,,3
 Coos,Precinct 14,President,,Write-in,,5
 Coos,Precinct 14,President,,Over Votes,,1
 Coos,Precinct 14,President,,Under Votes,,9
@@ -737,11 +737,11 @@ Coos,Precinct 14,State House,1,Over Votes,,0
 Coos,Precinct 14,State House,1,Under Votes,,83
 Coos,Precinct 15,Registered Voters,,,,616
 Coos,Precinct 15,Ballots Cast,,,,515
-Coos,Precinct 15,President,,Donald J. Trump / Michael R. Pence,,373
-Coos,Precinct 15,President,,Joseph R. Biden / Kamala D. Harris,,123
-Coos,Precinct 15,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,12
-Coos,Precinct 15,President,,Howie Hawkins / Angela Walker,,2
-Coos,Precinct 15,President,,Dario Hunter / Dawn Neptune Adams,,0
+Coos,Precinct 15,President,,Donald J. Trump,,373
+Coos,Precinct 15,President,,Joseph R. Biden,,123
+Coos,Precinct 15,President,,Jo Jorgensen,,12
+Coos,Precinct 15,President,,Howie Hawkins,,2
+Coos,Precinct 15,President,,Dario Hunter,,0
 Coos,Precinct 15,President,,Write-in,,0
 Coos,Precinct 15,President,,Over Votes,,0
 Coos,Precinct 15,President,,Under Votes,,5
@@ -789,11 +789,11 @@ Coos,Precinct 15,State House,1,Over Votes,,0
 Coos,Precinct 15,State House,1,Under Votes,,46
 Coos,Precinct 16,Registered Voters,,,,2538
 Coos,Precinct 16,Ballots Cast,,,,2093
-Coos,Precinct 16,President,,Donald J. Trump / Michael R. Pence,,985
-Coos,Precinct 16,President,,Joseph R. Biden / Kamala D. Harris,,1049
-Coos,Precinct 16,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,21
-Coos,Precinct 16,President,,Howie Hawkins / Angela Walker,,10
-Coos,Precinct 16,President,,Dario Hunter / Dawn Neptune Adams,,2
+Coos,Precinct 16,President,,Donald J. Trump,,985
+Coos,Precinct 16,President,,Joseph R. Biden,,1049
+Coos,Precinct 16,President,,Jo Jorgensen,,21
+Coos,Precinct 16,President,,Howie Hawkins,,10
+Coos,Precinct 16,President,,Dario Hunter,,2
 Coos,Precinct 16,President,,Write-in,,11
 Coos,Precinct 16,President,,Over Votes,,0
 Coos,Precinct 16,President,,Under Votes,,15
@@ -841,11 +841,11 @@ Coos,Precinct 16,State House,1,Over Votes,,0
 Coos,Precinct 16,State House,1,Under Votes,,146
 Coos,Precinct 17,Registered Voters,,,,3195
 Coos,Precinct 17,Ballots Cast,,,,2584
-Coos,Precinct 17,President,,Donald J. Trump / Michael R. Pence,,1469
-Coos,Precinct 17,President,,Joseph R. Biden / Kamala D. Harris,,1041
-Coos,Precinct 17,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,31
-Coos,Precinct 17,President,,Howie Hawkins / Angela Walker,,9
-Coos,Precinct 17,President,,Dario Hunter / Dawn Neptune Adams,,3
+Coos,Precinct 17,President,,Donald J. Trump,,1469
+Coos,Precinct 17,President,,Joseph R. Biden,,1041
+Coos,Precinct 17,President,,Jo Jorgensen,,31
+Coos,Precinct 17,President,,Howie Hawkins,,9
+Coos,Precinct 17,President,,Dario Hunter,,3
 Coos,Precinct 17,President,,Write-in,,13
 Coos,Precinct 17,President,,Over Votes,,0
 Coos,Precinct 17,President,,Under Votes,,18
@@ -893,11 +893,11 @@ Coos,Precinct 17,State House,1,Over Votes,,0
 Coos,Precinct 17,State House,1,Under Votes,,172
 Coos,Precinct 18,Registered Voters,,,,446
 Coos,Precinct 18,Ballots Cast,,,,377
-Coos,Precinct 18,President,,Donald J. Trump / Michael R. Pence,,242
-Coos,Precinct 18,President,,Joseph R. Biden / Kamala D. Harris,,123
-Coos,Precinct 18,President,,Jo Jorgensen / Jeremy (Spike) Cohen,,6
-Coos,Precinct 18,President,,Howie Hawkins / Angela Walker,,3
-Coos,Precinct 18,President,,Dario Hunter / Dawn Neptune Adams,,0
+Coos,Precinct 18,President,,Donald J. Trump,,242
+Coos,Precinct 18,President,,Joseph R. Biden,,123
+Coos,Precinct 18,President,,Jo Jorgensen,,6
+Coos,Precinct 18,President,,Howie Hawkins,,3
+Coos,Precinct 18,President,,Dario Hunter,,0
 Coos,Precinct 18,President,,Write-in,,1
 Coos,Precinct 18,President,,Over Votes,,0
 Coos,Precinct 18,President,,Under Votes,,2

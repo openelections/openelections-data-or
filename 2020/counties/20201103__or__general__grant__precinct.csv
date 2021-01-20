@@ -1,10 +1,10 @@
 county,precinct,office,district,candidate,party,votes
 Grant,Precinct 3 - John Day Valley,Ballots Cast,,,,3067
-Grant,Precinct 3 - John Day Valley,President,,Donald J Trump / Michael R Pence,REP,2308
-Grant,Precinct 3 - John Day Valley,President,,Joseph R Biden  Kamala D Harris,DEM,657
+Grant,Precinct 3 - John Day Valley,President,,Donald J. Trump,REP,2308
+Grant,Precinct 3 - John Day Valley,President,,Joseph R. Biden,DEM,657
 Grant,Precinct 3 - John Day Valley,President,,Jo Jorgensen  / Jeremy (Spike) Cohen,LBT,48
 Grant,Precinct 3 - John Day Valley,President,,Howie Hawkins / Angela  Walker,PGP,0
-Grant,Precinct 3 - John Day Valley,President,,Dario Hunter / Dawn Neptune Adams,PRO,7
+Grant,Precinct 3 - John Day Valley,President,,Dario Hunter,PRO,7
 Grant,Precinct 3 - John Day Valley,President,,Write-in,,14
 Grant,Precinct 3 - John Day Valley,President,,Over Votes,,1
 Grant,Precinct 3 - John Day Valley,President,,Under Votes,,24
@@ -52,11 +52,11 @@ Grant,Precinct 3 - John Day Valley,State House,60,Write-in,,4
 Grant,Precinct 3 - John Day Valley,State House,60,Over Votes,,1
 Grant,Precinct 3 - John Day Valley,State House,60,Under Votes,,80
 Grant,Precinct 4 - Union,Ballots Cast,,,,767
-Grant,Precinct 4 - Union,President,,Donald J Trump / Michael R Pence,REP,617
-Grant,Precinct 4 - Union,President,,Joseph R Biden / Kamala D  Harris,DEM,120
+Grant,Precinct 4 - Union,President,,Donald J. Trump,REP,617
+Grant,Precinct 4 - Union,President,,Joseph R. Biden / Kamala D  Harris,DEM,120
 Grant,Precinct 4 - Union,President,, Jo Jorgensen / Jeremy. (Spike) Cohen,LBT,17
-Grant,Precinct 4 - Union,President,,Howie Hawkins / Angela Walker,PGP,2
-Grant,Precinct 4 - Union,President,,Dario Hunter / Dawn Neptune Adams,PRO,1
+Grant,Precinct 4 - Union,President,,Howie Hawkins,PGP,2
+Grant,Precinct 4 - Union,President,,Dario Hunter,PRO,1
 Grant,Precinct 4 - Union,President,,Write-in,,4
 Grant,Precinct 4 - Union,President,,Over Votes,,1
 Grant,Precinct 4 - Union,President,,Under Votes,,5
@@ -104,11 +104,11 @@ Grant,Precinct 4 - Union,State House,60,Write-in,,1
 Grant,Precinct 4 - Union,State House,60,Over Votes,,1
 Grant,Precinct 4 - Union,State House,60,Under Votes,,11
 Grant,Precinct 8 - North Fork,Ballots Cast,,,,273
-Grant,Precinct 8 - North Fork,President,,Donald J Trump / Michael R Pence,REP,200
-Grant,Precinct 8 - North Fork,President,,Joseph R Biden  Kamala D Harris,DEM,60
+Grant,Precinct 8 - North Fork,President,,Donald J. Trump,REP,200
+Grant,Precinct 8 - North Fork,President,,Joseph R. Biden,DEM,60
 Grant,Precinct 8 - North Fork,President,,Jo Jorgensen / Jeremy Spike) Cohen,LBT,6
-Grant,Precinct 8 - North Fork,President,,Howie Hawkins / Angela Walker,PGP,2
-Grant,Precinct 8 - North Fork,President,,Dario Hunter / Dawn Neptune Adams,PRO,1
+Grant,Precinct 8 - North Fork,President,,Howie Hawkins,PGP,2
+Grant,Precinct 8 - North Fork,President,,Dario Hunter,PRO,1
 Grant,Precinct 8 - North Fork,President,,Write-in,,1
 Grant,Precinct 8 - North Fork,President,,Over Votes,,0
 Grant,Precinct 8 - North Fork,President,,Under Votes,,3
@@ -156,11 +156,11 @@ Grant,Precinct 8 - North Fork,State House,60,Write-in,,0
 Grant,Precinct 8 - North Fork,State House,60,Over Votes,,0
 Grant,Precinct 8 - North Fork,State House,60,Under Votes,,15
 Grant,Precinct 16 - South Fork,Ballots Cast,,,,254
-Grant,Precinct 16 - South Fork,President,,Donald J Trump / Michael R Pence,REP,194
-Grant,Precinct 16 - South Fork,President,,Joseph R Biden  Kamala D Harris,DEM,48
+Grant,Precinct 16 - South Fork,President,,Donald J. Trump,REP,194
+Grant,Precinct 16 - South Fork,President,,Joseph R. Biden,DEM,48
 Grant,Precinct 16 - South Fork,President,,Jo Jorgensen /Jeremy (Spike) Cohen,LBT,3
-Grant,Precinct 16 - South Fork,President,,Howie Hawkins / Angela Walker,PGP,0
-Grant,Precinct 16 - South Fork,President,,Dario Hunter / Dawn Neptune Adams,PRO,1
+Grant,Precinct 16 - South Fork,President,,Howie Hawkins,PGP,0
+Grant,Precinct 16 - South Fork,President,,Dario Hunter,PRO,1
 Grant,Precinct 16 - South Fork,President,,Write-in,,3
 Grant,Precinct 16 - South Fork,President,,Over Votes,,0
 Grant,Precinct 16 - South Fork,President,,Under Votes,,5
@@ -208,10 +208,10 @@ Grant,Precinct 16 - South Fork,State House,60,Write-in,,2
 Grant,Precinct 16 - South Fork,State House,60,Over Votes,,0
 Grant,Precinct 16 - South Fork,State House,60,Under Votes,,13
 Grant,Precinct 17 - Long Creek Valley,Ballots Cast,,,,278
-Grant,Precinct 17 - Long Creek Valley,President,,Donald J Trump / Michael R Pence,REP,226
-Grant,Precinct 17 - Long Creek Valley,President,,Joseph R Biden / Kamala D Harris,DEM,44
+Grant,Precinct 17 - Long Creek Valley,President,,Donald J. Trump,REP,226
+Grant,Precinct 17 - Long Creek Valley,President,,Joseph R. Biden,DEM,44
 Grant,Precinct 17 - Long Creek Valley,President,,Jo Jorgensen / JeremyjSpike) Cohen,LBT,3
-Grant,Precinct 17 - Long Creek Valley,President,,Howie Hawkins / Angela Walker,PGP,0
+Grant,Precinct 17 - Long Creek Valley,President,,Howie Hawkins,PGP,0
 Grant,Precinct 17 - Long Creek Valley,President,,Jo Jorgensen / JeremyjSpike) Cohen,LBT,1
 Grant,Precinct 17 - Long Creek Valley,President,,Write-in,,0
 Grant,Precinct 17 - Long Creek Valley,President,,Over Votes,,0

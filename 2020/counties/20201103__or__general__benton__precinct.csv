@@ -1,27 +1,27 @@
 county,precinct,office,district,party,candidate,votes
-Benton,01 - Corvallis ONE C4S8H16,Voter Registration,,,,4485
-Benton,02 - Corvallis TWO C4S8H16,Voter Registration,,,,2972
-Benton,03 - Corvallis THREE C4S8H16,Voter Registration,,,,4209
-Benton,04 - Corvallis FOUR C4S8H16,Voter Registration,,,,1613
-Benton,05 - Corvallis FIVE C4S8H16,Voter Registration,,,,2776
-Benton,06 - Corvallis SIX C4S8H16,Voter Registration,,,,3963
-Benton,07 - Corvallis SEVEN C4S8H16,Voter Registration,,,,4535
-Benton,08 - Corvallis EIGHT C4S8H16,Voter Registration,,,,4602
-Benton,09 - Corvallis NINE C4S8H16,Voter Registration,,,,4158
-Benton,10 - Philomath C4S8H16,Voter Registration,,,,3814
-Benton,11 - N Albany C5S8H15,Voter Registration,,,,6817
-Benton,12 - Adair Village C5S12H23,Voter Registration,,,,748
-Benton,13 - Monroe C4S12H23,Voter Registration,,,,459
-Benton,14 - Alsea School C4S12H23,Voter Registration,,,,721
-Benton,15 - Northwest C4S12H23,Voter Registration,,,,2896
-Benton,16 - Corvallis Rural C4S8H16,Voter Registration,,,,3389
-Benton,17 - North 509J C4S12H23,Voter Registration,,,,1601
-Benton,18 - Albany Rural C5S8H15,Voter Registration,,,,1746
-Benton,19 - South 509J C4S12H23,Voter Registration,,,,1281
-Benton,20 - Monroe Rural C4S12H23,Voter Registration,,,,1969
-Benton,21 - Philomath Rural C4S8H16,Voter Registration,,,,434
-Benton,22 - Adair Rural C5S12H23,Voter Registration,,,,556
-Benton,23 - Highway 20 C4S8H15,Voter Registration,,,,799
+Benton,01 - Corvallis ONE C4S8H16,Registered Voters,,,,4485
+Benton,02 - Corvallis TWO C4S8H16,Registered Voters,,,,2972
+Benton,03 - Corvallis THREE C4S8H16,Registered Voters,,,,4209
+Benton,04 - Corvallis FOUR C4S8H16,Registered Voters,,,,1613
+Benton,05 - Corvallis FIVE C4S8H16,Registered Voters,,,,2776
+Benton,06 - Corvallis SIX C4S8H16,Registered Voters,,,,3963
+Benton,07 - Corvallis SEVEN C4S8H16,Registered Voters,,,,4535
+Benton,08 - Corvallis EIGHT C4S8H16,Registered Voters,,,,4602
+Benton,09 - Corvallis NINE C4S8H16,Registered Voters,,,,4158
+Benton,10 - Philomath C4S8H16,Registered Voters,,,,3814
+Benton,11 - N Albany C5S8H15,Registered Voters,,,,6817
+Benton,12 - Adair Village C5S12H23,Registered Voters,,,,748
+Benton,13 - Monroe C4S12H23,Registered Voters,,,,459
+Benton,14 - Alsea School C4S12H23,Registered Voters,,,,721
+Benton,15 - Northwest C4S12H23,Registered Voters,,,,2896
+Benton,16 - Corvallis Rural C4S8H16,Registered Voters,,,,3389
+Benton,17 - North 509J C4S12H23,Registered Voters,,,,1601
+Benton,18 - Albany Rural C5S8H15,Registered Voters,,,,1746
+Benton,19 - South 509J C4S12H23,Registered Voters,,,,1281
+Benton,20 - Monroe Rural C4S12H23,Registered Voters,,,,1969
+Benton,21 - Philomath Rural C4S8H16,Registered Voters,,,,434
+Benton,22 - Adair Rural C5S12H23,Registered Voters,,,,556
+Benton,23 - Highway 20 C4S8H15,Registered Voters,,,,799
 Benton,01 - Corvallis ONE C4S8H16,Ballots Cast,,,,4065
 Benton,02 - Corvallis TWO C4S8H16,Ballots Cast,,,,2406
 Benton,03 - Corvallis THREE C4S8H16,Ballots Cast,,,,3643
@@ -45,8 +45,8 @@ Benton,20 - Monroe Rural C4S12H23,Ballots Cast,,,,1633
 Benton,21 - Philomath Rural C4S8H16,Ballots Cast,,,,395
 Benton,22 - Adair Rural C5S12H23,Ballots Cast,,,,503
 Benton,23 - Highway 20 C4S8H15,Ballots Cast,,,,684
-Benton,01 - Corvallis ONE C4S8H16,President,,REP,Donald Trump,841
-Benton,01 - Corvallis ONE C4S8H16,President,,DEM,Joe Biden,3038
+Benton,01 - Corvallis ONE C4S8H16,President,,REP,Donald J. Trump,841
+Benton,01 - Corvallis ONE C4S8H16,President,,DEM,Joseph R. Biden,3038
 Benton,01 - Corvallis ONE C4S8H16,President,,LIB,Jo Jorgensen,75
 Benton,01 - Corvallis ONE C4S8H16,President,,PAC,Howie Hawkins,32
 Benton,01 - Corvallis ONE C4S8H16,President,,PRO,Dario Hunter,9
@@ -91,8 +91,8 @@ Benton,01 - Corvallis ONE C4S8H16,State House,16,REP,Jason Hughes,982
 Benton,01 - Corvallis ONE C4S8H16,State House,16,,Write-ins,6
 Benton,01 - Corvallis ONE C4S8H16,State House,16,,Over Votes,0
 Benton,01 - Corvallis ONE C4S8H16,State House,16,,Under Votes,217
-Benton,02 - Corvallis TWO C4S8H16,President,,REP,Donald Trump,340
-Benton,02 - Corvallis TWO C4S8H16,President,,DEM,Joe Biden,1923
+Benton,02 - Corvallis TWO C4S8H16,President,,REP,Donald J. Trump,340
+Benton,02 - Corvallis TWO C4S8H16,President,,DEM,Joseph R. Biden,1923
 Benton,02 - Corvallis TWO C4S8H16,President,,LIB,Jo Jorgensen,66
 Benton,02 - Corvallis TWO C4S8H16,President,,PAC,Howie Hawkins,25
 Benton,02 - Corvallis TWO C4S8H16,President,,PRO,Dario Hunter,11
@@ -137,8 +137,8 @@ Benton,02 - Corvallis TWO C4S8H16,State House,16,REP,Jason Hughes,384
 Benton,02 - Corvallis TWO C4S8H16,State House,16,,Write-ins,11
 Benton,02 - Corvallis TWO C4S8H16,State House,16,,Over Votes,0
 Benton,02 - Corvallis TWO C4S8H16,State House,16,,Under Votes,124
-Benton,03 - Corvallis THREE C4S8H16,President,,REP,Donald Trump,684
-Benton,03 - Corvallis THREE C4S8H16,President,,DEM,Joe Biden,2753
+Benton,03 - Corvallis THREE C4S8H16,President,,REP,Donald J. Trump,684
+Benton,03 - Corvallis THREE C4S8H16,President,,DEM,Joseph R. Biden,2753
 Benton,03 - Corvallis THREE C4S8H16,President,,LIB,Jo Jorgensen,87
 Benton,03 - Corvallis THREE C4S8H16,President,,PAC,Howie Hawkins,36
 Benton,03 - Corvallis THREE C4S8H16,President,,PRO,Dario Hunter,17
@@ -183,8 +183,8 @@ Benton,03 - Corvallis THREE C4S8H16,State House,16,REP,Jason Hughes,809
 Benton,03 - Corvallis THREE C4S8H16,State House,16,,Write-ins,12
 Benton,03 - Corvallis THREE C4S8H16,State House,16,,Over Votes,0
 Benton,03 - Corvallis THREE C4S8H16,State House,16,,Under Votes,167
-Benton,04 - Corvallis FOUR C4S8H16,President,,REP,Donald Trump,182
-Benton,04 - Corvallis FOUR C4S8H16,President,,DEM,Joe Biden,1118
+Benton,04 - Corvallis FOUR C4S8H16,President,,REP,Donald J. Trump,182
+Benton,04 - Corvallis FOUR C4S8H16,President,,DEM,Joseph R. Biden,1118
 Benton,04 - Corvallis FOUR C4S8H16,President,,LIB,Jo Jorgensen,25
 Benton,04 - Corvallis FOUR C4S8H16,President,,PAC,Howie Hawkins,15
 Benton,04 - Corvallis FOUR C4S8H16,President,,PRO,Dario Hunter,4
@@ -224,8 +224,8 @@ Benton,04 - Corvallis FOUR C4S8H16,State House,16,REP,Jason Hughes,212
 Benton,04 - Corvallis FOUR C4S8H16,State House,16,,Write-ins,4
 Benton,04 - Corvallis FOUR C4S8H16,State House,16,,Over Votes,66
 Benton,04 - Corvallis FOUR C4S8H16,State House,16,,Under Votes,331
-Benton,05 - Corvallis FIVE C4S8H16,President,,REP,Donald Trump,245
-Benton,05 - Corvallis FIVE C4S8H16,President,,DEM,Joe Biden,1991
+Benton,05 - Corvallis FIVE C4S8H16,President,,REP,Donald J. Trump,245
+Benton,05 - Corvallis FIVE C4S8H16,President,,DEM,Joseph R. Biden,1991
 Benton,05 - Corvallis FIVE C4S8H16,President,,LIB,Jo Jorgensen,65
 Benton,05 - Corvallis FIVE C4S8H16,President,,PAC,Howie Hawkins,21
 Benton,05 - Corvallis FIVE C4S8H16,President,,PRO,Dario Hunter,12
@@ -265,8 +265,8 @@ Benton,05 - Corvallis FIVE C4S8H16,State House,16,DEM,Dan Rayfield,1890
 Benton,05 - Corvallis FIVE C4S8H16,State House,16,REP,Jason Hughes,303
 Benton,05 - Corvallis FIVE C4S8H16,State House,16,,Write-ins,6
 Benton,05 - Corvallis FIVE C4S8H16,State House,16,,Under Votes,148
-Benton,06 - Corvallis SIX C4S8H16,President,,REP,Donald Trump,577
-Benton,06 - Corvallis SIX C4S8H16,President,,DEM,Joe Biden,2647
+Benton,06 - Corvallis SIX C4S8H16,President,,REP,Donald J. Trump,577
+Benton,06 - Corvallis SIX C4S8H16,President,,DEM,Joseph R. Biden,2647
 Benton,06 - Corvallis SIX C4S8H16,President,,LIB,Jo Jorgensen,67
 Benton,06 - Corvallis SIX C4S8H16,President,,PAC,Howie Hawkins,25
 Benton,06 - Corvallis SIX C4S8H16,President,,PRO,Dario Hunter,6
@@ -309,8 +309,8 @@ Benton,06 - Corvallis SIX C4S8H16,State House,16,REP,Jason Hughes,613
 Benton,06 - Corvallis SIX C4S8H16,State House,16,,Write-ins,5
 Benton,06 - Corvallis SIX C4S8H16,State House,16,,Over Votes,1
 Benton,06 - Corvallis SIX C4S8H16,State House,16,,Under Votes,166
-Benton,07 - Corvallis SEVEN C4S8H16,President,,REP,Donald Trump,509
-Benton,07 - Corvallis SEVEN C4S8H16,President,,DEM,Joe Biden,3500
+Benton,07 - Corvallis SEVEN C4S8H16,President,,REP,Donald J. Trump,509
+Benton,07 - Corvallis SEVEN C4S8H16,President,,DEM,Joseph R. Biden,3500
 Benton,07 - Corvallis SEVEN C4S8H16,President,,LIB,Jo Jorgensen,67
 Benton,07 - Corvallis SEVEN C4S8H16,President,,PAC,Howie Hawkins,24
 Benton,07 - Corvallis SEVEN C4S8H16,President,,PRO,Dario Hunter,15
@@ -355,8 +355,8 @@ Benton,07 - Corvallis SEVEN C4S8H16,State House,16,REP,Jason Hughes,591
 Benton,07 - Corvallis SEVEN C4S8H16,State House,16,,Write-ins,9
 Benton,07 - Corvallis SEVEN C4S8H16,State House,16,,Over Votes,0
 Benton,07 - Corvallis SEVEN C4S8H16,State House,16,,Under Votes,176
-Benton,08 - Corvallis EIGHT C4S8H16,President,,REP,Donald Trump,757
-Benton,08 - Corvallis EIGHT C4S8H16,President,,DEM,Joe Biden,3380
+Benton,08 - Corvallis EIGHT C4S8H16,President,,REP,Donald J. Trump,757
+Benton,08 - Corvallis EIGHT C4S8H16,President,,DEM,Joseph R. Biden,3380
 Benton,08 - Corvallis EIGHT C4S8H16,President,,LIB,Jo Jorgensen,60
 Benton,08 - Corvallis EIGHT C4S8H16,President,,PAC,Howie Hawkins,20
 Benton,08 - Corvallis EIGHT C4S8H16,President,,PRO,Dario Hunter,8
@@ -401,8 +401,8 @@ Benton,08 - Corvallis EIGHT C4S8H16,State House,16,REP,Jason Hughes,883
 Benton,08 - Corvallis EIGHT C4S8H16,State House,16,,Write-ins,10
 Benton,08 - Corvallis EIGHT C4S8H16,State House,16,,Over Votes,1
 Benton,08 - Corvallis EIGHT C4S8H16,State House,16,,Under Votes,205
-Benton,09 - Corvallis NINE C4S8H16,President,,REP,Donald Trump,859
-Benton,09 - Corvallis NINE C4S8H16,President,,DEM,Joe Biden,2528
+Benton,09 - Corvallis NINE C4S8H16,President,,REP,Donald J. Trump,859
+Benton,09 - Corvallis NINE C4S8H16,President,,DEM,Joseph R. Biden,2528
 Benton,09 - Corvallis NINE C4S8H16,President,,LIB,Jo Jorgensen,92
 Benton,09 - Corvallis NINE C4S8H16,President,,PAC,Howie Hawkins,22
 Benton,09 - Corvallis NINE C4S8H16,President,,PRO,Dario Hunter,15
@@ -447,8 +447,8 @@ Benton,09 - Corvallis NINE C4S8H16,State House,16,REP,Jason Hughes,983
 Benton,09 - Corvallis NINE C4S8H16,State House,16,,Write-ins,11
 Benton,09 - Corvallis NINE C4S8H16,State House,16,,Over Votes,0
 Benton,09 - Corvallis NINE C4S8H16,State House,16,,Under Votes,199
-Benton,10 - Philomath C4S8H16,President,,REP,Donald Trump,1106
-Benton,10 - Philomath C4S8H16,President,,DEM,Joe Biden,1887
+Benton,10 - Philomath C4S8H16,President,,REP,Donald J. Trump,1106
+Benton,10 - Philomath C4S8H16,President,,DEM,Joseph R. Biden,1887
 Benton,10 - Philomath C4S8H16,President,,LIB,Jo Jorgensen,104
 Benton,10 - Philomath C4S8H16,President,,PAC,Howie Hawkins,25
 Benton,10 - Philomath C4S8H16,President,,PRO,Dario Hunter,9
@@ -493,8 +493,8 @@ Benton,10 - Philomath C4S8H16,State House,16,REP,Jason Hughes,1218
 Benton,10 - Philomath C4S8H16,State House,16,,Write-ins,6
 Benton,10 - Philomath C4S8H16,State House,16,,Over Votes,0
 Benton,10 - Philomath C4S8H16,State House,16,,Under Votes,160
-Benton,11 - N Albany C5S8H15,President,,REP,Donald Trump,2684
-Benton,11 - N Albany C5S8H15,President,,DEM,Joe Biden,3118
+Benton,11 - N Albany C5S8H15,President,,REP,Donald J. Trump,2684
+Benton,11 - N Albany C5S8H15,President,,DEM,Joseph R. Biden,3118
 Benton,11 - N Albany C5S8H15,President,,LIB,Jo Jorgensen,135
 Benton,11 - N Albany C5S8H15,President,,PAC,Howie Hawkins,19
 Benton,11 - N Albany C5S8H15,President,,PRO,Dario Hunter,5
@@ -539,8 +539,8 @@ Benton,11 - N Albany C5S8H15,State House,HD15,REP,Shelly Boshart Davis,3263
 Benton,11 - N Albany C5S8H15,State House,HD15,,Write-ins,8
 Benton,11 - N Albany C5S8H15,State House,HD15,,Over Votes,0
 Benton,11 - N Albany C5S8H15,State House,HD15,,Under Votes,258
-Benton,12 - Adair Village C5S12H23,President,,REP,Donald Trump,242
-Benton,12 - Adair Village C5S12H23,President,,DEM,Joe Biden,360
+Benton,12 - Adair Village C5S12H23,President,,REP,Donald J. Trump,242
+Benton,12 - Adair Village C5S12H23,President,,DEM,Joseph R. Biden,360
 Benton,12 - Adair Village C5S12H23,President,,LIB,Jo Jorgensen,24
 Benton,12 - Adair Village C5S12H23,President,,PAC,Howie Hawkins,3
 Benton,12 - Adair Village C5S12H23,President,,PRO,Dario Hunter,1
@@ -592,8 +592,8 @@ Benton,12 - Adair Village C5S12H23,State House,23,DEM,Sean Scorvo,277
 Benton,12 - Adair Village C5S12H23,State House,23,,Write-ins,1
 Benton,12 - Adair Village C5S12H23,State House,23,,Over Votes,0
 Benton,12 - Adair Village C5S12H23,State House,23,,Under Votes,45
-Benton,13 - Monroe C4S12H23,President,,REP,Donald Trump,199
-Benton,13 - Monroe C4S12H23,President,,DEM,Joe Biden,148
+Benton,13 - Monroe C4S12H23,President,,REP,Donald J. Trump,199
+Benton,13 - Monroe C4S12H23,President,,DEM,Joseph R. Biden,148
 Benton,13 - Monroe C4S12H23,President,,LIB,Jo Jorgensen,6
 Benton,13 - Monroe C4S12H23,President,,PAC,Howie Hawkins,1
 Benton,13 - Monroe C4S12H23,President,,PRO,Dario Hunter,0
@@ -645,8 +645,8 @@ Benton,13 - Monroe C4S12H23,State House,23,DEM,Sean Scorvo,119
 Benton,13 - Monroe C4S12H23,State House,23,,Write-ins,0
 Benton,13 - Monroe C4S12H23,State House,23,,Over Votes,0
 Benton,13 - Monroe C4S12H23,State House,23,,Under Votes,30
-Benton,14 - Alsea School C4S12H23,President,,REP,Donald Trump,357
-Benton,14 - Alsea School C4S12H23,President,,DEM,Joe Biden,229
+Benton,14 - Alsea School C4S12H23,President,,REP,Donald J. Trump,357
+Benton,14 - Alsea School C4S12H23,President,,DEM,Joseph R. Biden,229
 Benton,14 - Alsea School C4S12H23,President,,LIB,Jo Jorgensen,6
 Benton,14 - Alsea School C4S12H23,President,,PAC,Howie Hawkins,7
 Benton,14 - Alsea School C4S12H23,President,,PRO,Dario Hunter,2
@@ -698,8 +698,8 @@ Benton,14 - Alsea School C4S12H23,State House,23,DEM,Sean Scorvo,186
 Benton,14 - Alsea School C4S12H23,State House,23,,Write-ins,0
 Benton,14 - Alsea School C4S12H23,State House,23,,Over Votes,0
 Benton,14 - Alsea School C4S12H23,State House,23,,Under Votes,30
-Benton,15 - Northwest C4S12H23,President,,REP,Donald Trump,1158
-Benton,15 - Northwest C4S12H23,President,,DEM,Joe Biden,1266
+Benton,15 - Northwest C4S12H23,President,,REP,Donald J. Trump,1158
+Benton,15 - Northwest C4S12H23,President,,DEM,Joseph R. Biden,1266
 Benton,15 - Northwest C4S12H23,President,,LIB,Jo Jorgensen,57
 Benton,15 - Northwest C4S12H23,President,,PAC,Howie Hawkins,10
 Benton,15 - Northwest C4S12H23,President,,PRO,Dario Hunter,11
@@ -751,8 +751,8 @@ Benton,15 - Northwest C4S12H23,State House,23,DEM,Sean Scorvo,1013
 Benton,15 - Northwest C4S12H23,State House,23,,Write-ins,5
 Benton,15 - Northwest C4S12H23,State House,23,,Over Votes,0
 Benton,15 - Northwest C4S12H23,State House,23,,Under Votes,149
-Benton,16 - Corvallis Rural C4S8H16,President,,REP,Donald Trump,867
-Benton,16 - Corvallis Rural C4S8H16,President,,DEM,Joe Biden,2115
+Benton,16 - Corvallis Rural C4S8H16,President,,REP,Donald J. Trump,867
+Benton,16 - Corvallis Rural C4S8H16,President,,DEM,Joseph R. Biden,2115
 Benton,16 - Corvallis Rural C4S8H16,President,,LIB,Jo Jorgensen,43
 Benton,16 - Corvallis Rural C4S8H16,President,,PAC,Howie Hawkins,19
 Benton,16 - Corvallis Rural C4S8H16,President,,PRO,Dario Hunter,6
@@ -795,8 +795,8 @@ Benton,16 - Corvallis Rural C4S8H16,State House,16,REP,Jason Hughes,946
 Benton,16 - Corvallis Rural C4S8H16,State House,16,,Write-ins,11
 Benton,16 - Corvallis Rural C4S8H16,State House,16,,Over Votes,0
 Benton,16 - Corvallis Rural C4S8H16,State House,16,,Under Votes,139
-Benton,17 - North 509J C4S12H23,President,,REP,Donald Trump,395
-Benton,17 - North 509J C4S12H23,President,,DEM,Joe Biden,1015
+Benton,17 - North 509J C4S12H23,President,,REP,Donald J. Trump,395
+Benton,17 - North 509J C4S12H23,President,,DEM,Joseph R. Biden,1015
 Benton,17 - North 509J C4S12H23,President,,LIB,Jo Jorgensen,28
 Benton,17 - North 509J C4S12H23,President,,PAC,Howie Hawkins,7
 Benton,17 - North 509J C4S12H23,President,,PRO,Dario Hunter,4
@@ -848,8 +848,8 @@ Benton,17 - North 509J C4S12H23,State House,23,DEM,Sean Scorvo,809
 Benton,17 - North 509J C4S12H23,State House,23,,Write-ins,0
 Benton,17 - North 509J C4S12H23,State House,23,,Over Votes,0
 Benton,17 - North 509J C4S12H23,State House,23,,Under Votes,84
-Benton,18 - Albany Rural C5S8H15,President,,REP,Donald Trump,835
-Benton,18 - Albany Rural C5S8H15,President,,DEM,Joe Biden,674
+Benton,18 - Albany Rural C5S8H15,President,,REP,Donald J. Trump,835
+Benton,18 - Albany Rural C5S8H15,President,,DEM,Joseph R. Biden,674
 Benton,18 - Albany Rural C5S8H15,President,,LIB,Jo Jorgensen,35
 Benton,18 - Albany Rural C5S8H15,President,,PAC,Howie Hawkins,7
 Benton,18 - Albany Rural C5S8H15,President,,PRO,Dario Hunter,0
@@ -893,8 +893,8 @@ Benton,18 - Albany Rural C5S8H15,State House,16,REP,Shelly Boshart Davis,1003
 Benton,18 - Albany Rural C5S8H15,State House,16,,Write-ins,2
 Benton,18 - Albany Rural C5S8H15,State House,16,,Over Votes,1
 Benton,18 - Albany Rural C5S8H15,State House,16,,Under Votes,63
-Benton,19 - South 509J C4S12H23,President,,REP,Donald Trump,455
-Benton,19 - South 509J C4S12H23,President,,DEM,Joe Biden,640
+Benton,19 - South 509J C4S12H23,President,,REP,Donald J. Trump,455
+Benton,19 - South 509J C4S12H23,President,,DEM,Joseph R. Biden,640
 Benton,19 - South 509J C4S12H23,President,,LIB,Jo Jorgensen,18
 Benton,19 - South 509J C4S12H23,President,,PAC,Howie Hawkins,8
 Benton,19 - South 509J C4S12H23,President,,PRO,Dario Hunter,1
@@ -946,8 +946,8 @@ Benton,19 - South 509J C4S12H23,State House,23,DEM,Sean Scorvo,536
 Benton,19 - South 509J C4S12H23,State House,23,,Write-ins,1
 Benton,19 - South 509J C4S12H23,State House,23,,Over Votes,1
 Benton,19 - South 509J C4S12H23,State House,23,,Under Votes,67
-Benton,20 - Monroe Rural C4S12H23,President,,REP,Donald Trump,963
-Benton,20 - Monroe Rural C4S12H23,President,,DEM,Joe Biden,613
+Benton,20 - Monroe Rural C4S12H23,President,,REP,Donald J. Trump,963
+Benton,20 - Monroe Rural C4S12H23,President,,DEM,Joseph R. Biden,613
 Benton,20 - Monroe Rural C4S12H23,President,,LIB,Jo Jorgensen,38
 Benton,20 - Monroe Rural C4S12H23,President,,PAC,Howie Hawkins,3
 Benton,20 - Monroe Rural C4S12H23,President,,PRO,Dario Hunter,5
@@ -999,8 +999,8 @@ Benton,20 - Monroe Rural C4S12H23,State House,23,DEM,Sean Scorvo,545
 Benton,20 - Monroe Rural C4S12H23,State House,23,,Write-ins,0
 Benton,20 - Monroe Rural C4S12H23,State House,23,,Over Votes,0
 Benton,20 - Monroe Rural C4S12H23,State House,23,,Under Votes,79
-Benton,21 - Philomath Rural C4S8H16,President,,REP,Donald Trump,166
-Benton,21 - Philomath Rural C4S8H16,President,,DEM,Joe Biden,206
+Benton,21 - Philomath Rural C4S8H16,President,,REP,Donald J. Trump,166
+Benton,21 - Philomath Rural C4S8H16,President,,DEM,Joseph R. Biden,206
 Benton,21 - Philomath Rural C4S8H16,President,,LIB,Jo Jorgensen,14
 Benton,21 - Philomath Rural C4S8H16,President,,PAC,Howie Hawkins,1
 Benton,21 - Philomath Rural C4S8H16,President,,PRO,Dario Hunter,1
@@ -1045,8 +1045,8 @@ Benton,21 - Philomath Rural C4S8H16,State House,16,REP,Shelly Boshart Davis,175
 Benton,21 - Philomath Rural C4S8H16,State House,16,,Write-ins,0
 Benton,21 - Philomath Rural C4S8H16,State House,16,,Over Votes,0
 Benton,21 - Philomath Rural C4S8H16,State House,16,,Under Votes,29
-Benton,22 - Adair Rural C5S12H23,President,,REP,Donald Trump,190
-Benton,22 - Adair Rural C5S12H23,President,,DEM,Joe Biden,293
+Benton,22 - Adair Rural C5S12H23,President,,REP,Donald J. Trump,190
+Benton,22 - Adair Rural C5S12H23,President,,DEM,Joseph R. Biden,293
 Benton,22 - Adair Rural C5S12H23,President,,LIB,Jo Jorgensen,12
 Benton,22 - Adair Rural C5S12H23,President,,PAC,Howie Hawkins,1
 Benton,22 - Adair Rural C5S12H23,President,,PRO,Dario Hunter,0
@@ -1098,8 +1098,8 @@ Benton,22 - Adair Rural C5S12H23,State House,23,DEM,Sean Scorvo,223
 Benton,22 - Adair Rural C5S12H23,State House,23,,Write-ins,1
 Benton,22 - Adair Rural C5S12H23,State House,23,,Over Votes,0
 Benton,22 - Adair Rural C5S12H23,State House,23,,Under Votes,29
-Benton,23 - Highway 20 C4S8H15,President,,REP,Donald Trump,267
-Benton,23 - Highway 20 C4S8H15,President,,DEM,Joe Biden,385
+Benton,23 - Highway 20 C4S8H15,President,,REP,Donald J. Trump,267
+Benton,23 - Highway 20 C4S8H15,President,,DEM,Joseph R. Biden,385
 Benton,23 - Highway 20 C4S8H15,President,,LIB,Jo Jorgensen,18
 Benton,23 - Highway 20 C4S8H15,President,,PAC,Howie Hawkins,4
 Benton,23 - Highway 20 C4S8H15,President,,PRO,Dario Hunter,1
