@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes
-Yamhill,Prec 1  BS 01,President,,PCE,Ralph Nader,15
+Yamhill,Prec 1 BS 01,President,,PCE,Ralph Nader,15
 Yamhill,Prec 1 BS 02,President,,PCE,Ralph Nader,1
 Yamhill,Prec 2 BS 03,President,,PCE,Ralph Nader,35
 Yamhill,Prec 3 BS 03,President,,PCE,Ralph Nader,30
@@ -53,7 +53,7 @@ Yamhill,Prec 27 BS 27a,President,,PCE,Ralph Nader,9
 Yamhill,Prec 27 BS 26,President,,PCE,Ralph Nader,0
 Yamhill,Prec 28 BS 28a,President,,PCE,Ralph Nader,4
 Yamhill,Prec 28 BS 29,President,,PCE,Ralph Nader,0
-Yamhill,Prec 1  BS 01,President,,PAC,Cynthia McKinney,1
+Yamhill,Prec 1 BS 01,President,,PAC,Cynthia McKinney,1
 Yamhill,Prec 1 BS 02,President,,PAC,Cynthia McKinney,0
 Yamhill,Prec 2 BS 03,President,,PAC,Cynthia McKinney,2
 Yamhill,Prec 3 BS 03,President,,PAC,Cynthia McKinney,9
@@ -107,7 +107,7 @@ Yamhill,Prec 27 BS 27a,President,,PAC,Cynthia McKinney,3
 Yamhill,Prec 27 BS 26,President,,PAC,Cynthia McKinney,0
 Yamhill,Prec 28 BS 28a,President,,PAC,Cynthia McKinney,3
 Yamhill,Prec 28 BS 29,President,,PAC,Cynthia McKinney,0
-Yamhill,Prec 1  BS 01,President,,REP,John McCain,1259
+Yamhill,Prec 1 BS 01,President,,REP,John McCain,1259
 Yamhill,Prec 1 BS 02,President,,REP,John McCain,4
 Yamhill,Prec 2 BS 03,President,,REP,John McCain,1800
 Yamhill,Prec 3 BS 03,President,,REP,John McCain,1865
@@ -161,7 +161,7 @@ Yamhill,Prec 27 BS 27a,President,,REP,John McCain,219
 Yamhill,Prec 27 BS 26,President,,REP,John McCain,13
 Yamhill,Prec 28 BS 28a,President,,REP,John McCain,330
 Yamhill,Prec 28 BS 29,President,,REP,John McCain,0
-Yamhill,Prec 1  BS 01,President,,LBT,Bob Barr,11
+Yamhill,Prec 1 BS 01,President,,LBT,Bob Barr,11
 Yamhill,Prec 1 BS 02,President,,LBT,Bob Barr,0
 Yamhill,Prec 2 BS 03,President,,LBT,Bob Barr,12
 Yamhill,Prec 3 BS 03,President,,LBT,Bob Barr,17
@@ -215,7 +215,7 @@ Yamhill,Prec 27 BS 27a,President,,LBT,Bob Barr,4
 Yamhill,Prec 27 BS 26,President,,LBT,Bob Barr,0
 Yamhill,Prec 28 BS 28a,President,,LBT,Bob Barr,3
 Yamhill,Prec 28 BS 29,President,,LBT,Bob Barr,0
-Yamhill,Prec 1  BS 01,President,,CON,Chuck Baldwin,20
+Yamhill,Prec 1 BS 01,President,,CON,Chuck Baldwin,20
 Yamhill,Prec 1 BS 02,President,,CON,Chuck Baldwin,0
 Yamhill,Prec 2 BS 03,President,,CON,Chuck Baldwin,19
 Yamhill,Prec 3 BS 03,President,,CON,Chuck Baldwin,23
@@ -269,7 +269,7 @@ Yamhill,Prec 27 BS 27a,President,,CON,Chuck Baldwin,8
 Yamhill,Prec 27 BS 26,President,,CON,Chuck Baldwin,0
 Yamhill,Prec 28 BS 28a,President,,CON,Chuck Baldwin,9
 Yamhill,Prec 28 BS 29,President,,CON,Chuck Baldwin,0
-Yamhill,Prec 1  BS 01,President,,DEM,Barack Obama,1015
+Yamhill,Prec 1 BS 01,President,,DEM,Barack Obama,1015
 Yamhill,Prec 1 BS 02,President,,DEM,Barack Obama,13
 Yamhill,Prec 2 BS 03,President,,DEM,Barack Obama,1371
 Yamhill,Prec 3 BS 03,President,,DEM,Barack Obama,1685
@@ -323,7 +323,7 @@ Yamhill,Prec 27 BS 27a,President,,DEM,Barack Obama,183
 Yamhill,Prec 27 BS 26,President,,DEM,Barack Obama,17
 Yamhill,Prec 28 BS 28a,President,,DEM,Barack Obama,222
 Yamhill,Prec 28 BS 29,President,,DEM,Barack Obama,0
-Yamhill,Prec 1  BS 01,President,,,Write-ins,21
+Yamhill,Prec 1 BS 01,President,,,Write-ins,21
 Yamhill,Prec 1 BS 02,President,,,Write-ins,0
 Yamhill,Prec 2 BS 03,President,,,Write-ins,23
 Yamhill,Prec 3 BS 03,President,,,Write-ins,26
@@ -377,7 +377,7 @@ Yamhill,Prec 27 BS 27a,President,,,Write-ins,3
 Yamhill,Prec 27 BS 26,President,,,Write-ins,0
 Yamhill,Prec 28 BS 28a,President,,,Write-ins,6
 Yamhill,Prec 28 BS 29,President,,,Write-ins,0
-Yamhill,Prec 1  BS 01,U.S. Senate,,REP,Gordon H Smith,1369
+Yamhill,Prec 1 BS 01,U.S. Senate,,REP,Gordon H Smith,1369
 Yamhill,Prec 1 BS 02,U.S. Senate,,REP,Gordon H Smith,6
 Yamhill,Prec 2 BS 03,U.S. Senate,,REP,Gordon H Smith,1894
 Yamhill,Prec 3 BS 03,U.S. Senate,,REP,Gordon H Smith,1961
@@ -431,7 +431,7 @@ Yamhill,Prec 27 BS 27a,U.S. Senate,,REP,Gordon H Smith,206
 Yamhill,Prec 27 BS 26,U.S. Senate,,REP,Gordon H Smith,14
 Yamhill,Prec 28 BS 28a,U.S. Senate,,REP,Gordon H Smith,319
 Yamhill,Prec 28 BS 29,U.S. Senate,,REP,Gordon H Smith,0
-Yamhill,Prec 1  BS 01,U.S. Senate,,DEM,Jeff Merkley,784
+Yamhill,Prec 1 BS 01,U.S. Senate,,DEM,Jeff Merkley,784
 Yamhill,Prec 1 BS 02,U.S. Senate,,DEM,Jeff Merkley,10
 Yamhill,Prec 2 BS 03,U.S. Senate,,DEM,Jeff Merkley,1026
 Yamhill,Prec 3 BS 03,U.S. Senate,,DEM,Jeff Merkley,1348
@@ -485,7 +485,7 @@ Yamhill,Prec 27 BS 27a,U.S. Senate,,DEM,Jeff Merkley,168
 Yamhill,Prec 27 BS 26,U.S. Senate,,DEM,Jeff Merkley,12
 Yamhill,Prec 28 BS 28a,U.S. Senate,,DEM,Jeff Merkley,184
 Yamhill,Prec 28 BS 29,U.S. Senate,,DEM,Jeff Merkley,0
-Yamhill,Prec 1  BS 01,U.S. Senate,,CON,Dave Brownlow,123
+Yamhill,Prec 1 BS 01,U.S. Senate,,CON,Dave Brownlow,123
 Yamhill,Prec 1 BS 02,U.S. Senate,,CON,Dave Brownlow,1
 Yamhill,Prec 2 BS 03,U.S. Senate,,CON,Dave Brownlow,207
 Yamhill,Prec 3 BS 03,U.S. Senate,,CON,Dave Brownlow,228
@@ -539,7 +539,7 @@ Yamhill,Prec 27 BS 27a,U.S. Senate,,CON,Dave Brownlow,44
 Yamhill,Prec 27 BS 26,U.S. Senate,,CON,Dave Brownlow,2
 Yamhill,Prec 28 BS 28a,U.S. Senate,,CON,Dave Brownlow,54
 Yamhill,Prec 28 BS 29,U.S. Senate,,CON,Dave Brownlow,0
-Yamhill,Prec 1  BS 01,U.S. House,1,IND,Joel Haugen,542
+Yamhill,Prec 1 BS 01,U.S. House,1,IND,Joel Haugen,542
 Yamhill,Prec 1 BS 02,U.S. House,1,IND,Joel Haugen,5
 Yamhill,Prec 2 BS 03,U.S. House,1,IND,Joel Haugen,817
 Yamhill,Prec 3 BS 03,U.S. House,1,IND,Joel Haugen,861
@@ -593,7 +593,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,IND,Joel Haugen,104
 Yamhill,Prec 27 BS 26,U.S. House,1,IND,Joel Haugen,8
 Yamhill,Prec 28 BS 28a,U.S. House,1,IND,Joel Haugen,150
 Yamhill,Prec 28 BS 29,U.S. House,1,IND,Joel Haugen,0
-Yamhill,Prec 1  BS 01,U.S. House,1,PAC,Chris Henry,28
+Yamhill,Prec 1 BS 01,U.S. House,1,PAC,Chris Henry,28
 Yamhill,Prec 1 BS 02,U.S. House,1,PAC,Chris Henry,0
 Yamhill,Prec 2 BS 03,U.S. House,1,PAC,Chris Henry,53
 Yamhill,Prec 3 BS 03,U.S. House,1,PAC,Chris Henry,45
@@ -647,7 +647,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,PAC,Chris Henry,7
 Yamhill,Prec 27 BS 26,U.S. House,1,PAC,Chris Henry,1
 Yamhill,Prec 28 BS 28a,U.S. House,1,PAC,Chris Henry,11
 Yamhill,Prec 28 BS 29,U.S. House,1,PAC,Chris Henry,0
-Yamhill,Prec 1  BS 01,U.S. House,1,CON,Scott Semrau,163
+Yamhill,Prec 1 BS 01,U.S. House,1,CON,Scott Semrau,163
 Yamhill,Prec 1 BS 02,U.S. House,1,CON,Scott Semrau,0
 Yamhill,Prec 2 BS 03,U.S. House,1,CON,Scott Semrau,178
 Yamhill,Prec 3 BS 03,U.S. House,1,CON,Scott Semrau,197
@@ -701,7 +701,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,CON,Scott Semrau,19
 Yamhill,Prec 27 BS 26,U.S. House,1,CON,Scott Semrau,0
 Yamhill,Prec 28 BS 28a,U.S. House,1,CON,Scott Semrau,38
 Yamhill,Prec 28 BS 29,U.S. House,1,CON,Scott Semrau,0
-Yamhill,Prec 1  BS 01,U.S. House,1,DEM,David Wu,1210
+Yamhill,Prec 1 BS 01,U.S. House,1,DEM,David Wu,1210
 Yamhill,Prec 1 BS 02,U.S. House,1,DEM,David Wu,10
 Yamhill,Prec 2 BS 03,U.S. House,1,DEM,David Wu,1669
 Yamhill,Prec 3 BS 03,U.S. House,1,DEM,David Wu,1966
@@ -755,7 +755,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,DEM,David Wu,247
 Yamhill,Prec 27 BS 26,U.S. House,1,DEM,David Wu,14
 Yamhill,Prec 28 BS 28a,U.S. House,1,DEM,David Wu,286
 Yamhill,Prec 28 BS 29,U.S. House,1,DEM,David Wu,0
-Yamhill,Prec 1  BS 01,U.S. House,1,LBT,H Joe Tabor,71
+Yamhill,Prec 1 BS 01,U.S. House,1,LBT,H Joe Tabor,71
 Yamhill,Prec 1 BS 02,U.S. House,1,LBT,H Joe Tabor,0
 Yamhill,Prec 2 BS 03,U.S. House,1,LBT,H Joe Tabor,78
 Yamhill,Prec 3 BS 03,U.S. House,1,LBT,H Joe Tabor,95
@@ -809,7 +809,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,LBT,H Joe Tabor,17
 Yamhill,Prec 27 BS 26,U.S. House,1,LBT,H Joe Tabor,1
 Yamhill,Prec 28 BS 28a,U.S. House,1,LBT,H Joe Tabor,17
 Yamhill,Prec 28 BS 29,U.S. House,1,LBT,H Joe Tabor,0
-Yamhill,Prec 1  BS 01,Secretary of State,,DEM,Kate Brown,878
+Yamhill,Prec 1 BS 01,Secretary of State,,DEM,Kate Brown,878
 Yamhill,Prec 1 BS 02,Secretary of State,,DEM,Kate Brown,8
 Yamhill,Prec 2 BS 03,Secretary of State,,DEM,Kate Brown,1182
 Yamhill,Prec 3 BS 03,Secretary of State,,DEM,Kate Brown,1459
@@ -863,7 +863,7 @@ Yamhill,Prec 27 BS 27a,Secretary of State,,DEM,Kate Brown,167
 Yamhill,Prec 27 BS 26,Secretary of State,,DEM,Kate Brown,14
 Yamhill,Prec 28 BS 28a,Secretary of State,,DEM,Kate Brown,196
 Yamhill,Prec 28 BS 29,Secretary of State,,DEM,Kate Brown,0
-Yamhill,Prec 1  BS 01,Secretary of State,,PAC,Seth Alan Woolley,41
+Yamhill,Prec 1 BS 01,Secretary of State,,PAC,Seth Alan Woolley,41
 Yamhill,Prec 1 BS 02,Secretary of State,,PAC,Seth Alan Woolley,1
 Yamhill,Prec 2 BS 03,Secretary of State,,PAC,Seth Alan Woolley,58
 Yamhill,Prec 3 BS 03,Secretary of State,,PAC,Seth Alan Woolley,68
@@ -917,7 +917,7 @@ Yamhill,Prec 27 BS 27a,Secretary of State,,PAC,Seth Alan Woolley,17
 Yamhill,Prec 27 BS 26,Secretary of State,,PAC,Seth Alan Woolley,1
 Yamhill,Prec 28 BS 28a,Secretary of State,,PAC,Seth Alan Woolley,17
 Yamhill,Prec 28 BS 29,Secretary of State,,PAC,Seth Alan Woolley,0
-Yamhill,Prec 1  BS 01,Secretary of State,,REP,Rick Dancer,1272
+Yamhill,Prec 1 BS 01,Secretary of State,,REP,Rick Dancer,1272
 Yamhill,Prec 1 BS 02,Secretary of State,,REP,Rick Dancer,6
 Yamhill,Prec 2 BS 03,Secretary of State,,REP,Rick Dancer,1772
 Yamhill,Prec 3 BS 03,Secretary of State,,REP,Rick Dancer,1845
@@ -971,7 +971,7 @@ Yamhill,Prec 27 BS 27a,Secretary of State,,REP,Rick Dancer,230
 Yamhill,Prec 27 BS 26,Secretary of State,,REP,Rick Dancer,13
 Yamhill,Prec 28 BS 28a,Secretary of State,,REP,Rick Dancer,323
 Yamhill,Prec 28 BS 29,Secretary of State,,REP,Rick Dancer,0
-Yamhill,Prec 1  BS 01,State Treasurer,,REP,Allen Alley,1297
+Yamhill,Prec 1 BS 01,State Treasurer,,REP,Allen Alley,1297
 Yamhill,Prec 1 BS 02,State Treasurer,,REP,Allen Alley,7
 Yamhill,Prec 2 BS 03,State Treasurer,,REP,Allen Alley,1770
 Yamhill,Prec 3 BS 03,State Treasurer,,REP,Allen Alley,1783
@@ -1025,7 +1025,7 @@ Yamhill,Prec 27 BS 27a,State Treasurer,,REP,Allen Alley,208
 Yamhill,Prec 27 BS 26,State Treasurer,,REP,Allen Alley,13
 Yamhill,Prec 28 BS 28a,State Treasurer,,REP,Allen Alley,278
 Yamhill,Prec 28 BS 29,State Treasurer,,REP,Allen Alley,0
-Yamhill,Prec 1  BS 01,State Treasurer,,CON,Michael Marsh,71
+Yamhill,Prec 1 BS 01,State Treasurer,,CON,Michael Marsh,71
 Yamhill,Prec 1 BS 02,State Treasurer,,CON,Michael Marsh,1
 Yamhill,Prec 2 BS 03,State Treasurer,,CON,Michael Marsh,82
 Yamhill,Prec 3 BS 03,State Treasurer,,CON,Michael Marsh,115
@@ -1079,7 +1079,7 @@ Yamhill,Prec 27 BS 27a,State Treasurer,,CON,Michael Marsh,32
 Yamhill,Prec 27 BS 26,State Treasurer,,CON,Michael Marsh,1
 Yamhill,Prec 28 BS 28a,State Treasurer,,CON,Michael Marsh,31
 Yamhill,Prec 28 BS 29,State Treasurer,,CON,Michael Marsh,0
-Yamhill,Prec 1  BS 01,State Treasurer,,DEM,Ben Westlund,788
+Yamhill,Prec 1 BS 01,State Treasurer,,DEM,Ben Westlund,788
 Yamhill,Prec 1 BS 02,State Treasurer,,DEM,Ben Westlund,8
 Yamhill,Prec 2 BS 03,State Treasurer,,DEM,Ben Westlund,1118
 Yamhill,Prec 3 BS 03,State Treasurer,,DEM,Ben Westlund,1385
@@ -1133,7 +1133,7 @@ Yamhill,Prec 27 BS 27a,State Treasurer,,DEM,Ben Westlund,170
 Yamhill,Prec 27 BS 26,State Treasurer,,DEM,Ben Westlund,14
 Yamhill,Prec 28 BS 28a,State Treasurer,,DEM,Ben Westlund,211
 Yamhill,Prec 28 BS 29,State Treasurer,,DEM,Ben Westlund,0
-Yamhill,Prec 1  BS 01,Attorney General,,DEM,John R Kroger,1282
+Yamhill,Prec 1 BS 01,Attorney General,,DEM,John R Kroger,1282
 Yamhill,Prec 1 BS 02,Attorney General,,DEM,John R Kroger,8
 Yamhill,Prec 2 BS 03,Attorney General,,DEM,John R Kroger,1743
 Yamhill,Prec 3 BS 03,Attorney General,,DEM,John R Kroger,1933
@@ -1187,7 +1187,7 @@ Yamhill,Prec 27 BS 27a,Attorney General,,DEM,John R Kroger,228
 Yamhill,Prec 27 BS 26,Attorney General,,DEM,John R Kroger,16
 Yamhill,Prec 28 BS 28a,Attorney General,,DEM,John R Kroger,294
 Yamhill,Prec 28 BS 29,Attorney General,,DEM,John R Kroger,0
-Yamhill,Prec 1  BS 01,Attorney General,,WFP,J Ashlee Albies,172
+Yamhill,Prec 1 BS 01,Attorney General,,WFP,J Ashlee Albies,172
 Yamhill,Prec 1 BS 02,Attorney General,,WFP,J Ashlee Albies,2
 Yamhill,Prec 2 BS 03,Attorney General,,WFP,J Ashlee Albies,347
 Yamhill,Prec 3 BS 03,Attorney General,,WFP,J Ashlee Albies,403
@@ -1241,7 +1241,7 @@ Yamhill,Prec 27 BS 27a,Attorney General,,WFP,J Ashlee Albies,70
 Yamhill,Prec 27 BS 26,Attorney General,,WFP,J Ashlee Albies,4
 Yamhill,Prec 28 BS 28a,Attorney General,,WFP,J Ashlee Albies,74
 Yamhill,Prec 28 BS 29,Attorney General,,WFP,J Ashlee Albies,0
-Yamhill,Prec 1  BS 01,Attorney General,,PAC,Walter F (Walt) Brown,100
+Yamhill,Prec 1 BS 01,Attorney General,,PAC,Walter F (Walt) Brown,100
 Yamhill,Prec 1 BS 02,Attorney General,,PAC,Walter F (Walt) Brown,1
 Yamhill,Prec 2 BS 03,Attorney General,,PAC,Walter F (Walt) Brown,140
 Yamhill,Prec 3 BS 03,Attorney General,,PAC,Walter F (Walt) Brown,150
@@ -1295,7 +1295,7 @@ Yamhill,Prec 27 BS 27a,Attorney General,,PAC,Walter F (Walt) Brown,26
 Yamhill,Prec 27 BS 26,Attorney General,,PAC,Walter F (Walt) Brown,0
 Yamhill,Prec 28 BS 28a,Attorney General,,PAC,Walter F (Walt) Brown,17
 Yamhill,Prec 28 BS 29,Attorney General,,PAC,Walter F (Walt) Brown,0
-Yamhill,Prec 1  BS 01,Attorney General,,CON,James E Leuenberger,354
+Yamhill,Prec 1 BS 01,Attorney General,,CON,James E Leuenberger,354
 Yamhill,Prec 1 BS 02,Attorney General,,CON,James E Leuenberger,4
 Yamhill,Prec 2 BS 03,Attorney General,,CON,James E Leuenberger,476
 Yamhill,Prec 3 BS 03,Attorney General,,CON,James E Leuenberger,509
@@ -1541,7 +1541,7 @@ Yamhill,Prec 24 BS 05,State House,24,REP,Jim Weidner,45
 Yamhill,Prec 24 BS 08,State House,24,REP,Jim Weidner,100
 Yamhill,Prec 24 BS 10,State House,24,REP,Jim Weidner,73
 Yamhill,Prec 24 BS 06,State House,24,REP,Jim Weidner,84
-Yamhill,Prec 1  BS 01,State House,25,REP,Kim Thatcher,1643
+Yamhill,Prec 1 BS 01,State House,25,REP,Kim Thatcher,1643
 Yamhill,Prec 1 BS 02,State House,25,REP,Kim Thatcher,7
 Yamhill,Prec 2 BS 03,State House,25,REP,Kim Thatcher,2416
 Yamhill,Prec 3 BS 03,State House,25,REP,Kim Thatcher,2573
