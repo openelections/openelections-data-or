@@ -1,1 +1,998 @@
-county,precinct,office,district,party,candidates,votesKlamath,1,President,,DEM,Lyndon H. LaRouche,30Klamath,2,President,,DEM,Lyndon H. LaRouche,18Klamath,3,President,,DEM,Lyndon H. LaRouche,20Klamath,4,President,,DEM,Lyndon H. LaRouche,1Klamath,5,President,,DEM,Lyndon H. LaRouche,10Klamath,6,President,,DEM,Lyndon H. LaRouche,12Klamath,7,President,,DEM,Lyndon H. LaRouche,9Klamath,8,President,,DEM,Lyndon H. LaRouche,21Klamath,9,President,,DEM,Lyndon H. LaRouche,23Klamath,10,President,,DEM,Lyndon H. LaRouche,16Klamath,11,President,,DEM,Lyndon H. LaRouche,13Klamath,12,President,,DEM,Lyndon H. LaRouche,11Klamath,13,President,,DEM,Lyndon H. LaRouche,12Klamath,14,President,,DEM,Lyndon H. LaRouche,19Klamath,15,President,,DEM,Lyndon H. LaRouche,22Klamath,16,President,,DEM,Lyndon H. LaRouche,23Klamath,17,President,,DEM,Lyndon H. LaRouche,12Klamath,Altamont - 18,President,,DEM,Lyndon H. LaRouche,24Klamath,Beatty - 19,President,,DEM,Lyndon H. LaRouche,2Klamath,Bly - 20,President,,DEM,Lyndon H. LaRouche,22Klamath,Bonanza - 21,President,,DEM,Lyndon H. LaRouche,6Klamath,Bryant - 22,President,,DEM,Lyndon H. LaRouche,35Klamath,Canal - 23,President,,DEM,Lyndon H. LaRouche,20Klamath,Chemult - 24,President,,DEM,Lyndon H. LaRouche,3Klamath,Chiloquin - 25,President,,DEM,Lyndon H. LaRouche,7Klamath,Dairy - 26,President,,DEM,Lyndon H. LaRouche,12Klamath,Elmwood - 27,President,,DEM,Lyndon H. LaRouche,16Klamath,Enterprise - 28,President,,DEM,Lyndon H. LaRouche,25Klamath,Etna - 29,President,,DEM,Lyndon H. LaRouche,22Klamath,Ferguson - 30,President,,DEM,Lyndon H. LaRouche,19Klamath,Gilchrist - 31,President,,DEM,Lyndon H. LaRouche,34Klamath,Hager - 32,President,,DEM,Lyndon H. LaRouche,14Klamath,Henley - 33,President,,DEM,Lyndon H. LaRouche,50Klamath,Hilyard - 34,President,,DEM,Lyndon H. LaRouche,27Klamath,Homecrest - 35,President,,DEM,Lyndon H. LaRouche,13Klamath,Homedale - 36,President,,DEM,Lyndon H. LaRouche,23Klamath,Keno - 37,President,,DEM,Lyndon H. LaRouche,62Klamath,Klamath Lake - 38,President,,DEM,Lyndon H. LaRouche,8Klamath,Lakeshore - 39,President,,DEM,Lyndon H. LaRouche,4Klamath,Langell Valley - 40,President,,DEM,Lyndon H. LaRouche,10Klamath,Lost River - 41,President,,DEM,Lyndon H. LaRouche,11Klamath,Malin - 42,President,,DEM,Lyndon H. LaRouche,10Klamath,Mazama - 43,President,,DEM,Lyndon H. LaRouche,22Klamath,Menill - 44,President,,DEM,Lyndon H. LaRouche,18Klamath,Midland - 45,President,,DEM,Lyndon H. LaRouche,61Klamath,Moyina - 46,President,,DEM,Lyndon H. LaRouche,44Klamath,Odell - 47,President,,DEM,Lyndon H. LaRouche,10Klamath,Odessa - 48,President,,DEM,Lyndon H. LaRouche,2Klamath,Orindale - 49,President,,DEM,Lyndon H. LaRouche,54Klamath,Pine Grove - 50,President,,DEM,Lyndon H. LaRouche,15Klamath,Poe Valley - 51,President,,DEM,Lyndon H. LaRouche,7Klamath,Shasta - 52,President,,DEM,Lyndon H. LaRouche,13Klamath,Sprague River - 53,President,,DEM,Lyndon H. LaRouche,7Klamath,Steams - 54,President,,DEM,Lyndon H. LaRouche,35Klamath,St. Francis - 55,President,,DEM,Lyndon H. LaRouche,16Klamath,Stukel - 56,President,,DEM,Lyndon H. LaRouche,19Klamath,Sunset - 57,President,,DEM,Lyndon H. LaRouche,26Klamath,Tonatee - 58,President,,DEM,Lyndon H. LaRouche,16Klamath,Villa - 59,President,,DEM,Lyndon H. LaRouche,25Klamath,Williamson - 60,President,,DEM,Lyndon H. LaRouche,13Klamath,Winema - 61,President,,DEM,Lyndon H. LaRouche,26Klamath,Wocus - 62,President,,DEM,Lyndon H. LaRouche,19Klamath,Wood River - 63,President,,DEM,Lyndon H. LaRouche,26Klamath,,President,,DEM,Lyndon H. LaRouche,1225Klamath,1,President,,DEM,Al Gore,92Klamath,2,President,,DEM,Al Gore,44Klamath,3,President,,DEM,Al Gore,89Klamath,4,President,,DEM,Al Gore,34Klamath,5,President,,DEM,Al Gore,87Klamath,6,President,,DEM,Al Gore,99Klamath,7,President,,DEM,Al Gore,65Klamath,8,President,,DEM,Al Gore,98Klamath,9,President,,DEM,Al Gore,92Klamath,10,President,,DEM,Al Gore,52Klamath,11,President,,DEM,Al Gore,110Klamath,12,President,,DEM,Al Gore,47Klamath,13,President,,DEM,Al Gore,79Klamath,14,President,,DEM,Al Gore,76Klamath,15,President,,DEM,Al Gore,86Klamath,16,President,,DEM,Al Gore,66Klamath,17,President,,DEM,Al Gore,33Klamath,Altamont - 18,President,,DEM,Al Gore,115Klamath,Beatty - 19,President,,DEM,Al Gore,25Klamath,Bly - 20,President,,DEM,Al Gore,26Klamath,Bonanza - 21,President,,DEM,Al Gore,21Klamath,Bryant - 22,President,,DEM,Al Gore,20Klamath,Canal - 23,President,,DEM,Al Gore,61Klamath,Chemult - 24,President,,DEM,Al Gore,17Klamath,Chiloquin - 25,President,,DEM,Al Gore,24Klamath,Dairy - 26,President,,DEM,Al Gore,27Klamath,Elmwood - 27,President,,DEM,Al Gore,37Klamath,Enterprise - 28,President,,DEM,Al Gore,75Klamath,Etna - 29,President,,DEM,Al Gore,71Klamath,Ferguson - 30,President,,DEM,Al Gore,105Klamath,Gilchrist - 31,President,,DEM,Al Gore,151Klamath,Hager - 32,President,,DEM,Al Gore,70Klamath,Henley - 33,President,,DEM,Al Gore,103Klamath,Hilyard - 34,President,,DEM,Al Gore,54Klamath,Homecrest - 35,President,,DEM,Al Gore,30Klamath,Homedale - 36,President,,DEM,Al Gore,59Klamath,Keno - 37,President,,DEM,Al Gore,201Klamath,Klamath Lake - 38,President,,DEM,Al Gore,18Klamath,Lakeshore - 39,President,,DEM,Al Gore,20Klamath,Langell Valley - 40,President,,DEM,Al Gore,14Klamath,Lost River - 41,President,,DEM,Al Gore,39Klamath,Malin - 42,President,,DEM,Al Gore,9Klamath,Mazama - 43,President,,DEM,Al Gore,96Klamath,Menill - 44,President,,DEM,Al Gore,35Klamath,Midland - 45,President,,DEM,Al Gore,94Klamath,Moyina - 46,President,,DEM,Al Gore,152Klamath,Odell - 47,President,,DEM,Al Gore,49Klamath,Odessa - 48,President,,DEM,Al Gore,6Klamath,Orindale - 49,President,,DEM,Al Gore,114Klamath,Pine Grove - 50,President,,DEM,Al Gore,60Klamath,Poe Valley - 51,President,,DEM,Al Gore,2Klamath,Shasta - 52,President,,DEM,Al Gore,75Klamath,Sprague River - 53,President,,DEM,Al Gore,74Klamath,Steams - 54,President,,DEM,Al Gore,122Klamath,St. Francis - 55,President,,DEM,Al Gore,45Klamath,Stukel - 56,President,,DEM,Al Gore,33Klamath,Sunset - 57,President,,DEM,Al Gore,86Klamath,Tonatee - 58,President,,DEM,Al Gore,98Klamath,Villa - 59,President,,DEM,Al Gore,60Klamath,Williamson - 60,President,,DEM,Al Gore,55Klamath,Winema - 61,President,,DEM,Al Gore,109Klamath,Wocus - 62,President,,DEM,Al Gore,62Klamath,Wood River - 63,President,,DEM,Al Gore,144Klamath,,President,,DEM,Al Gore,4212Klamath,1,President,,DEM,Write-ins,22Klamath,2,President,,DEM,Write-ins,4Klamath,3,President,,DEM,Write-ins,6Klamath,4,President,,DEM,Write-ins,3Klamath,5,President,,DEM,Write-ins,11Klamath,6,President,,DEM,Write-ins,11Klamath,7,President,,DEM,Write-ins,7Klamath,8,President,,DEM,Write-ins,13Klamath,9,President,,DEM,Write-ins,7Klamath,10,President,,DEM,Write-ins,6Klamath,11,President,,DEM,Write-ins,12Klamath,12,President,,DEM,Write-ins,4Klamath,13,President,,DEM,Write-ins,9Klamath,14,President,,DEM,Write-ins,7Klamath,15,President,,DEM,Write-ins,5Klamath,16,President,,DEM,Write-ins,2Klamath,17,President,,DEM,Write-ins,3Klamath,Altamont - 18,President,,DEM,Write-ins,8Klamath,Beatty - 19,President,,DEM,Write-ins,1Klamath,Bly - 20,President,,DEM,Write-ins,4Klamath,Bonanza - 21,President,,DEM,Write-ins,4Klamath,Bryant - 22,President,,DEM,Write-ins,3Klamath,Canal - 23,President,,DEM,Write-ins,5Klamath,Chemult - 24,President,,DEM,Write-ins,7Klamath,Chiloquin - 25,President,,DEM,Write-ins,Klamath,Dairy - 26,President,,DEM,Write-ins,3Klamath,Elmwood - 27,President,,DEM,Write-ins,6Klamath,Enterprise - 28,President,,DEM,Write-ins,12Klamath,Etna - 29,President,,DEM,Write-ins,9Klamath,Ferguson - 30,President,,DEM,Write-ins,16Klamath,Gilchrist - 31,President,,DEM,Write-ins,19Klamath,Hager - 32,President,,DEM,Write-ins,5Klamath,Henley - 33,President,,DEM,Write-ins,10Klamath,Hilyard - 34,President,,DEM,Write-ins,10Klamath,Homecrest - 35,President,,DEM,Write-ins,4Klamath,Homedale - 36,President,,DEM,Write-ins,5Klamath,Keno - 37,President,,DEM,Write-ins,36Klamath,Klamath Lake - 38,President,,DEM,Write-ins,Klamath,Lakeshore - 39,President,,DEM,Write-ins,1Klamath,Langell Valley - 40,President,,DEM,Write-ins,1Klamath,Lost River - 41,President,,DEM,Write-ins,11Klamath,Malin - 42,President,,DEM,Write-ins,Klamath,Mazama - 43,President,,DEM,Write-ins,8Klamath,Menill - 44,President,,DEM,Write-ins,5Klamath,Midland - 45,President,,DEM,Write-ins,13Klamath,Moyina - 46,President,,DEM,Write-ins,15Klamath,Odell - 47,President,,DEM,Write-ins,3Klamath,Odessa - 48,President,,DEM,Write-ins,3Klamath,Orindale - 49,President,,DEM,Write-ins,8Klamath,Pine Grove - 50,President,,DEM,Write-ins,13Klamath,Poe Valley - 51,President,,DEM,Write-ins,2Klamath,Shasta - 52,President,,DEM,Write-ins,10Klamath,Sprague River - 53,President,,DEM,Write-ins,8Klamath,Steams - 54,President,,DEM,Write-ins,12Klamath,St. Francis - 55,President,,DEM,Write-ins,4Klamath,Stukel - 56,President,,DEM,Write-ins,3Klamath,Sunset - 57,President,,DEM,Write-ins,5Klamath,Tonatee - 58,President,,DEM,Write-ins,6Klamath,Villa - 59,President,,DEM,Write-ins,7Klamath,Williamson - 60,President,,DEM,Write-ins,3Klamath,Winema - 61,President,,DEM,Write-ins,20Klamath,Wocus - 62,President,,DEM,Write-ins,9Klamath,Wood River - 63,President,,DEM,Write-ins,15Klamath,,President,,DEM,Write-ins,484Klamath,1,U.S. House,2,DEM,Walter Ponsford,115Klamath,2,U.S. House,2,DEM,Walter Ponsford,58Klamath,3,U.S. House,2,DEM,Walter Ponsford,80Klamath,4,U.S. House,2,DEM,Walter Ponsford,22Klamath,5,U.S. House,2,DEM,Walter Ponsford,78Klamath,6,U.S. House,2,DEM,Walter Ponsford,97Klamath,7,U.S. House,2,DEM,Walter Ponsford,49Klamath,8,U.S. House,2,DEM,Walter Ponsford,108Klamath,9,U.S. House,2,DEM,Walter Ponsford,90Klamath,10,U.S. House,2,DEM,Walter Ponsford,62Klamath,11,U.S. House,2,DEM,Walter Ponsford,96Klamath,12,U.S. House,2,DEM,Walter Ponsford,62Klamath,13,U.S. House,2,DEM,Walter Ponsford,65Klamath,14,U.S. House,2,DEM,Walter Ponsford,78Klamath,15,U.S. House,2,DEM,Walter Ponsford,90Klamath,16,U.S. House,2,DEM,Walter Ponsford,74Klamath,17,U.S. House,2,DEM,Walter Ponsford,43Klamath,Altamont - 18,U.S. House,2,DEM,Walter Ponsford,122Klamath,Beatty - 19,U.S. House,2,DEM,Walter Ponsford,28Klamath,Bly - 20,U.S. House,2,DEM,Walter Ponsford,38Klamath,Bonanza - 21,U.S. House,2,DEM,Walter Ponsford,22Klamath,Bryant - 22,U.S. House,2,DEM,Walter Ponsford,51Klamath,Canal - 23,U.S. House,2,DEM,Walter Ponsford,78Klamath,Chemult - 24,U.S. House,2,DEM,Walter Ponsford,21Klamath,Chiloquin - 25,U.S. House,2,DEM,Walter Ponsford,31Klamath,Dairy - 26,U.S. House,2,DEM,Walter Ponsford,37Klamath,Elmwood - 27,U.S. House,2,DEM,Walter Ponsford,41Klamath,Enterprise - 28,U.S. House,2,DEM,Walter Ponsford,92Klamath,Etna - 29,U.S. House,2,DEM,Walter Ponsford,73Klamath,Ferguson - 30,U.S. House,2,DEM,Walter Ponsford,114Klamath,Gilchrist - 31,U.S. House,2,DEM,Walter Ponsford,165Klamath,Hager - 32,U.S. House,2,DEM,Walter Ponsford,74Klamath,Henley - 33,U.S. House,2,DEM,Walter Ponsford,119Klamath,Hilyard - 34,U.S. House,2,DEM,Walter Ponsford,59Klamath,Homecrest - 35,U.S. House,2,DEM,Walter Ponsford,37Klamath,Homedale - 36,U.S. House,2,DEM,Walter Ponsford,64Klamath,Keno - 37,U.S. House,2,DEM,Walter Ponsford,224Klamath,Klamath Lake - 38,U.S. House,2,DEM,Walter Ponsford,19Klamath,Lakeshore - 39,U.S. House,2,DEM,Walter Ponsford,17Klamath,Langell Valley - 40,U.S. House,2,DEM,Walter Ponsford,20Klamath,Lost River - 41,U.S. House,2,DEM,Walter Ponsford,45Klamath,Malin - 42,U.S. House,2,DEM,Walter Ponsford,19Klamath,Mazama - 43,U.S. House,2,DEM,Walter Ponsford,108Klamath,Menill - 44,U.S. House,2,DEM,Walter Ponsford,47Klamath,Midland - 45,U.S. House,2,DEM,Walter Ponsford,120Klamath,Moyina - 46,U.S. House,2,DEM,Walter Ponsford,165Klamath,Odell - 47,U.S. House,2,DEM,Walter Ponsford,42Klamath,Odessa - 48,U.S. House,2,DEM,Walter Ponsford,8Klamath,Orindale - 49,U.S. House,2,DEM,Walter Ponsford,123Klamath,Pine Grove - 50,U.S. House,2,DEM,Walter Ponsford,55Klamath,Poe Valley - 51,U.S. House,2,DEM,Walter Ponsford,6Klamath,Shasta - 52,U.S. House,2,DEM,Walter Ponsford,75Klamath,Sprague River - 53,U.S. House,2,DEM,Walter Ponsford,67Klamath,Steams - 54,U.S. House,2,DEM,Walter Ponsford,118Klamath,St. Francis - 55,U.S. House,2,DEM,Walter Ponsford,50Klamath,Stukel - 56,U.S. House,2,DEM,Walter Ponsford,36Klamath,Sunset - 57,U.S. House,2,DEM,Walter Ponsford,97Klamath,Tonatee - 58,U.S. House,2,DEM,Walter Ponsford,97Klamath,Villa - 59,U.S. House,2,DEM,Walter Ponsford,86Klamath,Williamson - 60,U.S. House,2,DEM,Walter Ponsford,58Klamath,Winema - 61,U.S. House,2,DEM,Walter Ponsford,114Klamath,Wocus - 62,U.S. House,2,DEM,Walter Ponsford,52Klamath,Wood River - 63,U.S. House,2,DEM,Walter Ponsford,135Klamath,,U.S. House,2,DEM,Walter Ponsford,4536Klamath,1,Secretary of State,,DEM,Bill Bradbury,133Klamath,2,Secretary of State,,DEM,Bill Bradbury,62Klamath,3,Secretary of State,,DEM,Bill Bradbury,95Klamath,4,Secretary of State,,DEM,Bill Bradbury,26Klamath,5,Secretary of State,,DEM,Bill Bradbury,92Klamath,6,Secretary of State,,DEM,Bill Bradbury,116Klamath,7,Secretary of State,,DEM,Bill Bradbury,63Klamath,8,Secretary of State,,DEM,Bill Bradbury,116Klamath,9,Secretary of State,,DEM,Bill Bradbury,107Klamath,10,Secretary of State,,DEM,Bill Bradbury,66Klamath,11,Secretary of State,,DEM,Bill Bradbury,112Klamath,12,Secretary of State,,DEM,Bill Bradbury,62Klamath,13,Secretary of State,,DEM,Bill Bradbury,86Klamath,14,Secretary of State,,DEM,Bill Bradbury,88Klamath,15,Secretary of State,,DEM,Bill Bradbury,98Klamath,16,Secretary of State,,DEM,Bill Bradbury,83Klamath,17,Secretary of State,,DEM,Bill Bradbury,45Klamath,Altamont - 18,Secretary of State,,DEM,Bill Bradbury,139Klamath,Beatty - 19,Secretary of State,,DEM,Bill Bradbury,28Klamath,Bly - 20,Secretary of State,,DEM,Bill Bradbury,42Klamath,Bonanza - 21,Secretary of State,,DEM,Bill Bradbury,27Klamath,Bryant - 22,Secretary of State,,DEM,Bill Bradbury,54Klamath,Canal - 23,Secretary of State,,DEM,Bill Bradbury,87Klamath,Chemult - 24,Secretary of State,,DEM,Bill Bradbury,23Klamath,Chiloquin - 25,Secretary of State,,DEM,Bill Bradbury,32Klamath,Dairy - 26,Secretary of State,,DEM,Bill Bradbury,37Klamath,Elmwood - 27,Secretary of State,,DEM,Bill Bradbury,58Klamath,Enterprise - 28,Secretary of State,,DEM,Bill Bradbury,105Klamath,Etna - 29,Secretary of State,,DEM,Bill Bradbury,75Klamath,Ferguson - 30,Secretary of State,,DEM,Bill Bradbury,131Klamath,Gilchrist - 31,Secretary of State,,DEM,Bill Bradbury,184Klamath,Hager - 32,Secretary of State,,DEM,Bill Bradbury,82Klamath,Henley - 33,Secretary of State,,DEM,Bill Bradbury,144Klamath,Hilyard - 34,Secretary of State,,DEM,Bill Bradbury,83Klamath,Homecrest - 35,Secretary of State,,DEM,Bill Bradbury,47Klamath,Homedale - 36,Secretary of State,,DEM,Bill Bradbury,72Klamath,Keno - 37,Secretary of State,,DEM,Bill Bradbury,249Klamath,Klamath Lake - 38,Secretary of State,,DEM,Bill Bradbury,22Klamath,Lakeshore - 39,Secretary of State,,DEM,Bill Bradbury,18Klamath,Langell Valley - 40,Secretary of State,,DEM,Bill Bradbury,24Klamath,Lost River - 41,Secretary of State,,DEM,Bill Bradbury,56Klamath,Malin - 42,Secretary of State,,DEM,Bill Bradbury,22Klamath,Mazama - 43,Secretary of State,,DEM,Bill Bradbury,118Klamath,Menill - 44,Secretary of State,,DEM,Bill Bradbury,55Klamath,Midland - 45,Secretary of State,,DEM,Bill Bradbury,142Klamath,Moyina - 46,Secretary of State,,DEM,Bill Bradbury,192Klamath,Odell - 47,Secretary of State,,DEM,Bill Bradbury,48Klamath,Odessa - 48,Secretary of State,,DEM,Bill Bradbury,10Klamath,Orindale - 49,Secretary of State,,DEM,Bill Bradbury,136Klamath,Pine Grove - 50,Secretary of State,,DEM,Bill Bradbury,66Klamath,Poe Valley - 51,Secretary of State,,DEM,Bill Bradbury,8Klamath,Shasta - 52,Secretary of State,,DEM,Bill Bradbury,85Klamath,Sprague River - 53,Secretary of State,,DEM,Bill Bradbury,72Klamath,Steams - 54,Secretary of State,,DEM,Bill Bradbury,133Klamath,St. Francis - 55,Secretary of State,,DEM,Bill Bradbury,61Klamath,Stukel - 56,Secretary of State,,DEM,Bill Bradbury,47Klamath,Sunset - 57,Secretary of State,,DEM,Bill Bradbury,118Klamath,Tonatee - 58,Secretary of State,,DEM,Bill Bradbury,109Klamath,Villa - 59,Secretary of State,,DEM,Bill Bradbury,93Klamath,Williamson - 60,Secretary of State,,DEM,Bill Bradbury,65Klamath,Winema - 61,Secretary of State,,DEM,Bill Bradbury,131Klamath,Wocus - 62,Secretary of State,,DEM,Bill Bradbury,65Klamath,Wood River - 63,Secretary of State,,DEM,Bill Bradbury,159Klamath,,Secretary of State,,DEM,Bill Bradbury,5204Klamath,1 & 11,State Treasurer,,DEM,Randall Edwards,111Klamath,2,State Treasurer,,DEM,Randall Edwards,28Klamath,3,State Treasurer,,DEM,Randall Edwards,55Klamath,4,State Treasurer,,DEM,Randall Edwards,14Klamath,5,State Treasurer,,DEM,Randall Edwards,34Klamath,6,State Treasurer,,DEM,Randall Edwards,57Klamath,7,State Treasurer,,DEM,Randall Edwards,30Klamath,8,State Treasurer,,DEM,Randall Edwards,45Klamath,9,State Treasurer,,DEM,Randall Edwards,49Klamath,10,State Treasurer,,DEM,Randall Edwards,24Klamath,12,State Treasurer,,DEM,Randall Edwards,33Klamath,13,State Treasurer,,DEM,Randall Edwards,42Klamath,14,State Treasurer,,DEM,Randall Edwards,35Klamath,15,State Treasurer,,DEM,Randall Edwards,42Klamath,16,State Treasurer,,DEM,Randall Edwards,41Klamath,17,State Treasurer,,DEM,Randall Edwards,18Klamath,Altamont - 18,State Treasurer,,DEM,Randall Edwards,54Klamath,Beatty - 19,State Treasurer,,DEM,Randall Edwards,14Klamath,Bly - 20,State Treasurer,,DEM,Randall Edwards,22Klamath,Bonanza - 21,State Treasurer,,DEM,Randall Edwards,9Klamath,Bryant - 22,State Treasurer,,DEM,Randall Edwards,25Klamath,Canal - 23,State Treasurer,,DEM,Randall Edwards,32Klamath,Chemult - 24,State Treasurer,,DEM,Randall Edwards,13Klamath,Chiloquin - 25,State Treasurer,,DEM,Randall Edwards,19Klamath,Dairy - 26,State Treasurer,,DEM,Randall Edwards,20Klamath,Elmwood - 27,State Treasurer,,DEM,Randall Edwards,27Klamath,Enterprise - 28,State Treasurer,,DEM,Randall Edwards,55Klamath,Etna - 29,State Treasurer,,DEM,Randall Edwards,43Klamath,Ferguson - 30,State Treasurer,,DEM,Randall Edwards,55Klamath,Gilchrist - 31,State Treasurer,,DEM,Randall Edwards,83Klamath,Hager - 32,State Treasurer,,DEM,Randall Edwards,35Klamath,Henley - 33,State Treasurer,,DEM,Randall Edwards,72Klamath,Hilyard - 34,State Treasurer,,DEM,Randall Edwards,38Klamath,Homecrest - 35,State Treasurer,,DEM,Randall Edwards,18Klamath,Homedale - 36,State Treasurer,,DEM,Randall Edwards,32Klamath,Keno - 37,State Treasurer,,DEM,Randall Edwards,115Klamath,Klamath Lake - 38,State Treasurer,,DEM,Randall Edwards,13Klamath,Lakeshore - 39,State Treasurer,,DEM,Randall Edwards,9Klamath,Langell Valley - 40,State Treasurer,,DEM,Randall Edwards,13Klamath,Lost River - 41,State Treasurer,,DEM,Randall Edwards,28Klamath,Malin - 42,State Treasurer,,DEM,Randall Edwards,14Klamath,Mazama - 43,State Treasurer,,DEM,Randall Edwards,58Klamath,Menill - 44,State Treasurer,,DEM,Randall Edwards,28Klamath,Midland - 45,State Treasurer,,DEM,Randall Edwards,62Klamath,Moyina - 46,State Treasurer,,DEM,Randall Edwards,103Klamath,Odell - 47,State Treasurer,,DEM,Randall Edwards,24Klamath,Odessa - 48,State Treasurer,,DEM,Randall Edwards,4Klamath,Orindale - 49,State Treasurer,,DEM,Randall Edwards,67Klamath,Pine Grove - 50,State Treasurer,,DEM,Randall Edwards,27Klamath,Poe Valley - 51,State Treasurer,,DEM,Randall Edwards,6Klamath,Shasta - 52,State Treasurer,,DEM,Randall Edwards,47Klamath,Sprague River - 53,State Treasurer,,DEM,Randall Edwards,32Klamath,Steams - 54,State Treasurer,,DEM,Randall Edwards,58Klamath,St. Francis - 55,State Treasurer,,DEM,Randall Edwards,25Klamath,Stukel - 56,State Treasurer,,DEM,Randall Edwards,24Klamath,Sunset - 57,State Treasurer,,DEM,Randall Edwards,55Klamath,Tonatee - 58,State Treasurer,,DEM,Randall Edwards,68Klamath,Villa - 59,State Treasurer,,DEM,Randall Edwards,47Klamath,Williamson - 60,State Treasurer,,DEM,Randall Edwards,29Klamath,Winema - 61,State Treasurer,,DEM,Randall Edwards,60Klamath,Wocus - 62,State Treasurer,,DEM,Randall Edwards,38Klamath,Wood River - 63,State Treasurer,,DEM,Randall Edwards,87Klamath,,State Treasurer,,DEM,Randall Edwards,2465Klamath,1 & 11,State Treasurer,,DEM,Gary Bruebaker,146Klamath,2,State Treasurer,,DEM,Gary Bruebaker,32Klamath,3,State Treasurer,,DEM,Gary Bruebaker,42Klamath,4,State Treasurer,,DEM,Gary Bruebaker,11Klamath,5,State Treasurer,,DEM,Gary Bruebaker,53Klamath,6,State Treasurer,,DEM,Gary Bruebaker,63Klamath,7,State Treasurer,,DEM,Gary Bruebaker,29Klamath,8,State Treasurer,,DEM,Gary Bruebaker,69Klamath,9,State Treasurer,,DEM,Gary Bruebaker,69Klamath,10,State Treasurer,,DEM,Gary Bruebaker,47Klamath,12,State Treasurer,,DEM,Gary Bruebaker,36Klamath,13,State Treasurer,,DEM,Gary Bruebaker,36Klamath,14,State Treasurer,,DEM,Gary Bruebaker,60Klamath,15,State Treasurer,,DEM,Gary Bruebaker,58Klamath,16,State Treasurer,,DEM,Gary Bruebaker,47Klamath,17,State Treasurer,,DEM,Gary Bruebaker,27Klamath,Altamont - 18,State Treasurer,,DEM,Gary Bruebaker,86Klamath,Beatty - 19,State Treasurer,,DEM,Gary Bruebaker,15Klamath,Bly - 20,State Treasurer,,DEM,Gary Bruebaker,27Klamath,Bonanza - 21,State Treasurer,,DEM,Gary Bruebaker,14Klamath,Bryant - 22,State Treasurer,,DEM,Gary Bruebaker,37Klamath,Canal - 23,State Treasurer,,DEM,Gary Bruebaker,61Klamath,Chemult - 24,State Treasurer,,DEM,Gary Bruebaker,14Klamath,Chiloquin - 25,State Treasurer,,DEM,Gary Bruebaker,19Klamath,Dairy - 26,State Treasurer,,DEM,Gary Bruebaker,30Klamath,Elmwood - 27,State Treasurer,,DEM,Gary Bruebaker,37Klamath,Enterprise - 28,State Treasurer,,DEM,Gary Bruebaker,60Klamath,Etna - 29,State Treasurer,,DEM,Gary Bruebaker,38Klamath,Ferguson - 30,State Treasurer,,DEM,Gary Bruebaker,83Klamath,Gilchrist - 31,State Treasurer,,DEM,Gary Bruebaker,101Klamath,Hager - 32,State Treasurer,,DEM,Gary Bruebaker,47Klamath,Henley - 33,State Treasurer,,DEM,Gary Bruebaker,71Klamath,Hilyard - 34,State Treasurer,,DEM,Gary Bruebaker,45Klamath,Homecrest - 35,State Treasurer,,DEM,Gary Bruebaker,30Klamath,Homedale - 36,State Treasurer,,DEM,Gary Bruebaker,42Klamath,Keno - 37,State Treasurer,,DEM,Gary Bruebaker,149Klamath,Klamath Lake - 38,State Treasurer,,DEM,Gary Bruebaker,11Klamath,Lakeshore - 39,State Treasurer,,DEM,Gary Bruebaker,10Klamath,Langell Valley - 40,State Treasurer,,DEM,Gary Bruebaker,11Klamath,Lost River - 41,State Treasurer,,DEM,Gary Bruebaker,30Klamath,Malin - 42,State Treasurer,,DEM,Gary Bruebaker,9Klamath,Mazama - 43,State Treasurer,,DEM,Gary Bruebaker,61Klamath,Menill - 44,State Treasurer,,DEM,Gary Bruebaker,31Klamath,Midland - 45,State Treasurer,,DEM,Gary Bruebaker,86Klamath,Moyina - 46,State Treasurer,,DEM,Gary Bruebaker,96Klamath,Odell - 47,State Treasurer,,DEM,Gary Bruebaker,29Klamath,Odessa - 48,State Treasurer,,DEM,Gary Bruebaker,7Klamath,Orindale - 49,State Treasurer,,DEM,Gary Bruebaker,92Klamath,Pine Grove - 50,State Treasurer,,DEM,Gary Bruebaker,47Klamath,Poe Valley - 51,State Treasurer,,DEM,Gary Bruebaker,3Klamath,Shasta - 52,State Treasurer,,DEM,Gary Bruebaker,40Klamath,Sprague River - 53,State Treasurer,,DEM,Gary Bruebaker,44Klamath,Steams - 54,State Treasurer,,DEM,Gary Bruebaker,93Klamath,St. Francis - 55,State Treasurer,,DEM,Gary Bruebaker,38Klamath,Stukel - 56,State Treasurer,,DEM,Gary Bruebaker,18Klamath,Sunset - 57,State Treasurer,,DEM,Gary Bruebaker,81Klamath,Tonatee - 58,State Treasurer,,DEM,Gary Bruebaker,46Klamath,Villa - 59,State Treasurer,,DEM,Gary Bruebaker,51Klamath,Williamson - 60,State Treasurer,,DEM,Gary Bruebaker,39Klamath,Winema - 61,State Treasurer,,DEM,Gary Bruebaker,77Klamath,Wocus - 62,State Treasurer,,DEM,Gary Bruebaker,39Klamath,Wood River - 63,State Treasurer,,DEM,Gary Bruebaker,79Klamath,,State Treasurer,,DEM,Gary Bruebaker,2999Klamath,1,Attorney General,,DEM,Hardy Myers,133Klamath,2,Attorney General,,DEM,Hardy Myers,62Klamath,3,Attorney General,,DEM,Hardy Myers,96Klamath,4,Attorney General,,DEM,Hardy Myers,24Klamath,5,Attorney General,,DEM,Hardy Myers,89Klamath,6,Attorney General,,DEM,Hardy Myers,111Klamath,7,Attorney General,,DEM,Hardy Myers,58Klamath,8,Attorney General,,DEM,Hardy Myers,109Klamath,9,Attorney General,,DEM,Hardy Myers,105Klamath,10,Attorney General,,DEM,Hardy Myers,67Klamath,11,Attorney General,,DEM,Hardy Myers,111Klamath,12,Attorney General,,DEM,Hardy Myers,63Klamath,13,Attorney General,,DEM,Hardy Myers,84Klamath,14,Attorney General,,DEM,Hardy Myers,84Klamath,15,Attorney General,,DEM,Hardy Myers,99Klamath,16,Attorney General,,DEM,Hardy Myers,86Klamath,17,Attorney General,,DEM,Hardy Myers,45Klamath,Altamont - 18,Attorney General,,DEM,Hardy Myers,137Klamath,Beatty - 19,Attorney General,,DEM,Hardy Myers,29Klamath,Bly - 20,Attorney General,,DEM,Hardy Myers,42Klamath,Bonanza - 21,Attorney General,,DEM,Hardy Myers,22Klamath,Bryant - 22,Attorney General,,DEM,Hardy Myers,53Klamath,Canal - 23,Attorney General,,DEM,Hardy Myers,86Klamath,Chemult - 24,Attorney General,,DEM,Hardy Myers,21Klamath,Chiloquin - 25,Attorney General,,DEM,Hardy Myers,31Klamath,Dairy - 26,Attorney General,,DEM,Hardy Myers,37Klamath,Elmwood - 27,Attorney General,,DEM,Hardy Myers,55Klamath,Enterprise - 28,Attorney General,,DEM,Hardy Myers,98Klamath,Etna - 29,Attorney General,,DEM,Hardy Myers,77Klamath,Ferguson - 30,Attorney General,,DEM,Hardy Myers,125Klamath,Gilchrist - 31,Attorney General,,DEM,Hardy Myers,185Klamath,Hager - 32,Attorney General,,DEM,Hardy Myers,80Klamath,Henley - 33,Attorney General,,DEM,Hardy Myers,139Klamath,Hilyard - 34,Attorney General,,DEM,Hardy Myers,83Klamath,Homecrest - 35,Attorney General,,DEM,Hardy Myers,42Klamath,Homedale - 36,Attorney General,,DEM,Hardy Myers,69Klamath,Keno - 37,Attorney General,,DEM,Hardy Myers,238Klamath,Klamath Lake - 38,Attorney General,,DEM,Hardy Myers,19Klamath,Lakeshore - 39,Attorney General,,DEM,Hardy Myers,19Klamath,Langell Valley - 40,Attorney General,,DEM,Hardy Myers,22Klamath,Lost River - 41,Attorney General,,DEM,Hardy Myers,56Klamath,Malin - 42,Attorney General,,DEM,Hardy Myers,20Klamath,Mazama - 43,Attorney General,,DEM,Hardy Myers,113Klamath,Menill - 44,Attorney General,,DEM,Hardy Myers,56Klamath,Midland - 45,Attorney General,,DEM,Hardy Myers,133Klamath,Moyina - 46,Attorney General,,DEM,Hardy Myers,187Klamath,Odell - 47,Attorney General,,DEM,Hardy Myers,48Klamath,Odessa - 48,Attorney General,,DEM,Hardy Myers,10Klamath,Orindale - 49,Attorney General,,DEM,Hardy Myers,134Klamath,Pine Grove - 50,Attorney General,,DEM,Hardy Myers,68Klamath,Poe Valley - 51,Attorney General,,DEM,Hardy Myers,8Klamath,Shasta - 52,Attorney General,,DEM,Hardy Myers,86Klamath,Sprague River - 53,Attorney General,,DEM,Hardy Myers,67Klamath,Steams - 54,Attorney General,,DEM,Hardy Myers,129Klamath,St. Francis - 55,Attorney General,,DEM,Hardy Myers,60Klamath,Stukel - 56,Attorney General,,DEM,Hardy Myers,45Klamath,Sunset - 57,Attorney General,,DEM,Hardy Myers,112Klamath,Tonatee - 58,Attorney General,,DEM,Hardy Myers,105Klamath,Villa - 59,Attorney General,,DEM,Hardy Myers,92Klamath,Williamson - 60,Attorney General,,DEM,Hardy Myers,62Klamath,Winema - 61,Attorney General,,DEM,Hardy Myers,128Klamath,Wocus - 62,Attorney General,,DEM,Hardy Myers,61Klamath,Wood River - 63,Attorney General,,DEM,Hardy Myers,152Klamath,,Attorney General,,DEM,Hardy Myers,5067Klamath,1 & 11,State Treasurer,,DEM,Write-ins,1Klamath,2,State Treasurer,,DEM,Write-ins,Klamath,3,State Treasurer,,DEM,Write-ins,Klamath,4,State Treasurer,,DEM,Write-ins,Klamath,5,State Treasurer,,DEM,Write-ins,Klamath,6,State Treasurer,,DEM,Write-ins,3Klamath,7,State Treasurer,,DEM,Write-ins,Klamath,8,State Treasurer,,DEM,Write-ins,1Klamath,9,State Treasurer,,DEM,Write-ins,Klamath,10,State Treasurer,,DEM,Write-ins,Klamath,12,State Treasurer,,DEM,Write-ins,1Klamath,13,State Treasurer,,DEM,Write-ins,1Klamath,14,State Treasurer,,DEM,Write-ins,Klamath,15,State Treasurer,,DEM,Write-ins,1Klamath,16,State Treasurer,,DEM,Write-ins,2Klamath,17,State Treasurer,,DEM,Write-ins,Klamath,Altamont - 18,State Treasurer,,DEM,Write-ins,1Klamath,Beatty - 19,State Treasurer,,DEM,Write-ins,Klamath,Bly - 20,State Treasurer,,DEM,Write-ins,Klamath,Bonanza - 21,State Treasurer,,DEM,Write-ins,Klamath,Bryant - 22,State Treasurer,,DEM,Write-ins,Klamath,Canal - 23,State Treasurer,,DEM,Write-ins,Klamath,Chemult - 24,State Treasurer,,DEM,Write-ins,2Klamath,Chiloquin - 25,State Treasurer,,DEM,Write-ins,Klamath,Dairy - 26,State Treasurer,,DEM,Write-ins,3Klamath,Elmwood - 27,State Treasurer,,DEM,Write-ins,Klamath,Enterprise - 28,State Treasurer,,DEM,Write-ins,1Klamath,Etna - 29,State Treasurer,,DEM,Write-ins,Klamath,Ferguson - 30,State Treasurer,,DEM,Write-ins,Klamath,Gilchrist - 31,State Treasurer,,DEM,Write-ins,1Klamath,Hager - 32,State Treasurer,,DEM,Write-ins,Klamath,Henley - 33,State Treasurer,,DEM,Write-ins,1Klamath,Hilyard - 34,State Treasurer,,DEM,Write-ins,Klamath,Homecrest - 35,State Treasurer,,DEM,Write-ins,Klamath,Homedale - 36,State Treasurer,,DEM,Write-ins,Klamath,Keno - 37,State Treasurer,,DEM,Write-ins,1Klamath,Klamath Lake - 38,State Treasurer,,DEM,Write-ins,Klamath,Lakeshore - 39,State Treasurer,,DEM,Write-ins,Klamath,Langell Valley - 40,State Treasurer,,DEM,Write-ins,1Klamath,Lost River - 41,State Treasurer,,DEM,Write-ins,1Klamath,Malin - 42,State Treasurer,,DEM,Write-ins,Klamath,Mazama - 43,State Treasurer,,DEM,Write-ins,Klamath,Menill - 44,State Treasurer,,DEM,Write-ins,Klamath,Midland - 45,State Treasurer,,DEM,Write-ins,2Klamath,Moyina - 46,State Treasurer,,DEM,Write-ins,1Klamath,Odell - 47,State Treasurer,,DEM,Write-ins,Klamath,Odessa - 48,State Treasurer,,DEM,Write-ins,Klamath,Orindale - 49,State Treasurer,,DEM,Write-ins,1Klamath,Pine Grove - 50,State Treasurer,,DEM,Write-ins,Klamath,Poe Valley - 51,State Treasurer,,DEM,Write-ins,Klamath,Shasta - 52,State Treasurer,,DEM,Write-ins,Klamath,Sprague River - 53,State Treasurer,,DEM,Write-ins,1Klamath,Steams - 54,State Treasurer,,DEM,Write-ins,1Klamath,St. Francis - 55,State Treasurer,,DEM,Write-ins,Klamath,Stukel - 56,State Treasurer,,DEM,Write-ins,Klamath,Sunset - 57,State Treasurer,,DEM,Write-ins,1Klamath,Tonatee - 58,State Treasurer,,DEM,Write-ins,1Klamath,Villa - 59,State Treasurer,,DEM,Write-ins,Klamath,Williamson - 60,State Treasurer,,DEM,Write-ins,Klamath,Winema - 61,State Treasurer,,DEM,Write-ins,1Klamath,Wocus - 62,State Treasurer,,DEM,Write-ins,Klamath,Wood River - 63,State Treasurer,,DEM,Write-ins,1Klamath,,State Treasurer,,DEM,Write-ins,32Klamath,1,U.S. House,2,DEM,Write-ins,6Klamath,2,U.S. House,2,DEM,Write-ins,1Klamath,3,U.S. House,2,DEM,Write-ins,3Klamath,4,U.S. House,2,DEM,Write-ins,Klamath,5,U.S. House,2,DEM,Write-ins,4Klamath,6,U.S. House,2,DEM,Write-ins,3Klamath,7,U.S. House,2,DEM,Write-ins,Klamath,8,U.S. House,2,DEM,Write-ins,2Klamath,9,U.S. House,2,DEM,Write-ins,1Klamath,10,U.S. House,2,DEM,Write-ins,1Klamath,11,U.S. House,2,DEM,Write-ins,3Klamath,12,U.S. House,2,DEM,Write-ins,1Klamath,13,U.S. House,2,DEM,Write-ins,3Klamath,14,U.S. House,2,DEM,Write-ins,1Klamath,15,U.S. House,2,DEM,Write-ins,4Klamath,16,U.S. House,2,DEM,Write-ins,3Klamath,17,U.S. House,2,DEM,Write-ins,Klamath,Altamont - 18,U.S. House,2,DEM,Write-ins,4Klamath,Beatty - 19,U.S. House,2,DEM,Write-ins,2Klamath,Bly - 20,U.S. House,2,DEM,Write-ins,2Klamath,Bonanza - 21,U.S. House,2,DEM,Write-ins,Klamath,Bryant - 22,U.S. House,2,DEM,Write-ins,Klamath,Canal - 23,U.S. House,2,DEM,Write-ins,3Klamath,Chemult - 24,U.S. House,2,DEM,Write-ins,2Klamath,Chiloquin - 25,U.S. House,2,DEM,Write-ins,Klamath,Dairy - 26,U.S. House,2,DEM,Write-ins,5Klamath,Elmwood - 27,U.S. House,2,DEM,Write-ins,3Klamath,Enterprise - 28,U.S. House,2,DEM,Write-ins,2Klamath,Etna - 29,U.S. House,2,DEM,Write-ins,1Klamath,Ferguson - 30,U.S. House,2,DEM,Write-ins,2Klamath,Gilchrist - 31,U.S. House,2,DEM,Write-ins,3Klamath,Hager - 32,U.S. House,2,DEM,Write-ins,1Klamath,Henley - 33,U.S. House,2,DEM,Write-ins,2Klamath,Hilyard - 34,U.S. House,2,DEM,Write-ins,Klamath,Homecrest - 35,U.S. House,2,DEM,Write-ins,Klamath,Homedale - 36,U.S. House,2,DEM,Write-ins,2Klamath,Keno - 37,U.S. House,2,DEM,Write-ins,10Klamath,Klamath Lake - 38,U.S. House,2,DEM,Write-ins,Klamath,Lakeshore - 39,U.S. House,2,DEM,Write-ins,Klamath,Langell Valley - 40,U.S. House,2,DEM,Write-ins,2Klamath,Lost River - 41,U.S. House,2,DEM,Write-ins,6Klamath,Malin - 42,U.S. House,2,DEM,Write-ins,1Klamath,Mazama - 43,U.S. House,2,DEM,Write-ins,4Klamath,Menill - 44,U.S. House,2,DEM,Write-ins,Klamath,Midland - 45,U.S. House,2,DEM,Write-ins,3Klamath,Moyina - 46,U.S. House,2,DEM,Write-ins,2Klamath,Odell - 47,U.S. House,2,DEM,Write-ins,Klamath,Odessa - 48,U.S. House,2,DEM,Write-ins,Klamath,Orindale - 49,U.S. House,2,DEM,Write-ins,4Klamath,Pine Grove - 50,U.S. House,2,DEM,Write-ins,2Klamath,Poe Valley - 51,U.S. House,2,DEM,Write-ins,Klamath,Shasta - 52,U.S. House,2,DEM,Write-ins,4Klamath,Sprague River - 53,U.S. House,2,DEM,Write-ins,2Klamath,Steams - 54,U.S. House,2,DEM,Write-ins,2Klamath,St. Francis - 55,U.S. House,2,DEM,Write-ins,1Klamath,Stukel - 56,U.S. House,2,DEM,Write-ins,Klamath,Sunset - 57,U.S. House,2,DEM,Write-ins,1Klamath,Tonatee - 58,U.S. House,2,DEM,Write-ins,1Klamath,Villa - 59,U.S. House,2,DEM,Write-ins,1Klamath,Williamson - 60,U.S. House,2,DEM,Write-ins,3Klamath,Winema - 61,U.S. House,2,DEM,Write-ins,1Klamath,Wocus - 62,U.S. House,2,DEM,Write-ins,2Klamath,Wood River - 63,U.S. House,2,DEM,Write-ins,5Klamath,,U.S. House,2,DEM,Write-ins,127Klamath,1,Secretary of State,,DEM,Write-ins,2Klamath,2,Secretary of State,,DEM,Write-ins,2Klamath,3,Secretary of State,,DEM,Write-ins,Klamath,4,Secretary of State,,DEM,Write-ins,1Klamath,5,Secretary of State,,DEM,Write-ins,3Klamath,6,Secretary of State,,DEM,Write-ins,2Klamath,7,Secretary of State,,DEM,Write-ins,Klamath,8,Secretary of State,,DEM,Write-ins,2Klamath,9,Secretary of State,,DEM,Write-ins,Klamath,10,Secretary of State,,DEM,Write-ins,1Klamath,11,Secretary of State,,DEM,Write-ins,3Klamath,12,Secretary of State,,DEM,Write-ins,2Klamath,13,Secretary of State,,DEM,Write-ins,Klamath,14,Secretary of State,,DEM,Write-ins,1Klamath,15,Secretary of State,,DEM,Write-ins,3Klamath,16,Secretary of State,,DEM,Write-ins,3Klamath,17,Secretary of State,,DEM,Write-ins,Klamath,Altamont - 18,Secretary of State,,DEM,Write-ins,4Klamath,Beatty - 19,Secretary of State,,DEM,Write-ins,Klamath,Bly - 20,Secretary of State,,DEM,Write-ins,4Klamath,Bonanza - 21,Secretary of State,,DEM,Write-ins,Klamath,Bryant - 22,Secretary of State,,DEM,Write-ins,1Klamath,Canal - 23,Secretary of State,,DEM,Write-ins,Klamath,Chemult - 24,Secretary of State,,DEM,Write-ins,2Klamath,Chiloquin - 25,Secretary of State,,DEM,Write-ins,Klamath,Dairy - 26,Secretary of State,,DEM,Write-ins,4Klamath,Elmwood - 27,Secretary of State,,DEM,Write-ins,Klamath,Enterprise - 28,Secretary of State,,DEM,Write-ins,1Klamath,Etna - 29,Secretary of State,,DEM,Write-ins,3Klamath,Ferguson - 30,Secretary of State,,DEM,Write-ins,4Klamath,Gilchrist - 31,Secretary of State,,DEM,Write-ins,1Klamath,Hager - 32,Secretary of State,,DEM,Write-ins,1Klamath,Henley - 33,Secretary of State,,DEM,Write-ins,1Klamath,Hilyard - 34,Secretary of State,,DEM,Write-ins,Klamath,Homecrest - 35,Secretary of State,,DEM,Write-ins,1Klamath,Homedale - 36,Secretary of State,,DEM,Write-ins,1Klamath,Keno - 37,Secretary of State,,DEM,Write-ins,11Klamath,Klamath Lake - 38,Secretary of State,,DEM,Write-ins,Klamath,Lakeshore - 39,Secretary of State,,DEM,Write-ins,Klamath,Langell Valley - 40,Secretary of State,,DEM,Write-ins,1Klamath,Lost River - 41,Secretary of State,,DEM,Write-ins,1Klamath,Malin - 42,Secretary of State,,DEM,Write-ins,1Klamath,Mazama - 43,Secretary of State,,DEM,Write-ins,3Klamath,Menill - 44,Secretary of State,,DEM,Write-ins,1Klamath,Midland - 45,Secretary of State,,DEM,Write-ins,1Klamath,Moyina - 46,Secretary of State,,DEM,Write-ins,1Klamath,Odell - 47,Secretary of State,,DEM,Write-ins,Klamath,Odessa - 48,Secretary of State,,DEM,Write-ins,Klamath,Orindale - 49,Secretary of State,,DEM,Write-ins,4Klamath,Pine Grove - 50,Secretary of State,,DEM,Write-ins,2Klamath,Poe Valley - 51,Secretary of State,,DEM,Write-ins,Klamath,Shasta - 52,Secretary of State,,DEM,Write-ins,4Klamath,Sprague River - 53,Secretary of State,,DEM,Write-ins,1Klamath,Steams - 54,Secretary of State,,DEM,Write-ins,2Klamath,St. Francis - 55,Secretary of State,,DEM,Write-ins,1Klamath,Stukel - 56,Secretary of State,,DEM,Write-ins,Klamath,Sunset - 57,Secretary of State,,DEM,Write-ins,1Klamath,Tonatee - 58,Secretary of State,,DEM,Write-ins,3Klamath,Villa - 59,Secretary of State,,DEM,Write-ins,1Klamath,Williamson - 60,Secretary of State,,DEM,Write-ins,3Klamath,Winema - 61,Secretary of State,,DEM,Write-ins,2Klamath,Wocus - 62,Secretary of State,,DEM,Write-ins,3Klamath,Wood River - 63,Secretary of State,,DEM,Write-ins,5Klamath,,Secretary of State,,DEM,Write-ins,105Klamath,1,Attorney General,,DEM,Write-ins,1Klamath,2,Attorney General,,DEM,Write-ins,Klamath,3,Attorney General,,DEM,Write-ins,Klamath,4,Attorney General,,DEM,Write-ins,Klamath,5,Attorney General,,DEM,Write-ins,1Klamath,6,Attorney General,,DEM,Write-ins,Klamath,7,Attorney General,,DEM,Write-ins,Klamath,8,Attorney General,,DEM,Write-ins,1Klamath,9,Attorney General,,DEM,Write-ins,Klamath,10,Attorney General,,DEM,Write-ins,1Klamath,11,Attorney General,,DEM,Write-ins,Klamath,12,Attorney General,,DEM,Write-ins,1Klamath,13,Attorney General,,DEM,Write-ins,Klamath,14,Attorney General,,DEM,Write-ins,Klamath,15,Attorney General,,DEM,Write-ins,1Klamath,16,Attorney General,,DEM,Write-ins,1Klamath,17,Attorney General,,DEM,Write-ins,Klamath,Altamont - 18,Attorney General,,DEM,Write-ins,3Klamath,Beatty - 19,Attorney General,,DEM,Write-ins,1Klamath,Bly - 20,Attorney General,,DEM,Write-ins,2Klamath,Bonanza - 21,Attorney General,,DEM,Write-ins,Klamath,Bryant - 22,Attorney General,,DEM,Write-ins,1Klamath,Canal - 23,Attorney General,,DEM,Write-ins,Klamath,Chemult - 24,Attorney General,,DEM,Write-ins,2Klamath,Chiloquin - 25,Attorney General,,DEM,Write-ins,Klamath,Dairy - 26,Attorney General,,DEM,Write-ins,3Klamath,Elmwood - 27,Attorney General,,DEM,Write-ins,2Klamath,Enterprise - 28,Attorney General,,DEM,Write-ins,3Klamath,Etna - 29,Attorney General,,DEM,Write-ins,Klamath,Ferguson - 30,Attorney General,,DEM,Write-ins,2Klamath,Gilchrist - 31,Attorney General,,DEM,Write-ins,1Klamath,Hager - 32,Attorney General,,DEM,Write-ins,Klamath,Henley - 33,Attorney General,,DEM,Write-ins,1Klamath,Hilyard - 34,Attorney General,,DEM,Write-ins,Klamath,Homecrest - 35,Attorney General,,DEM,Write-ins,Klamath,Homedale - 36,Attorney General,,DEM,Write-ins,2Klamath,Keno - 37,Attorney General,,DEM,Write-ins,4Klamath,Klamath Lake - 38,Attorney General,,DEM,Write-ins,Klamath,Lakeshore - 39,Attorney General,,DEM,Write-ins,Klamath,Langell Valley - 40,Attorney General,,DEM,Write-ins,1Klamath,Lost River - 41,Attorney General,,DEM,Write-ins,Klamath,Malin - 42,Attorney General,,DEM,Write-ins,Klamath,Mazama - 43,Attorney General,,DEM,Write-ins,3Klamath,Menill - 44,Attorney General,,DEM,Write-ins,Klamath,Midland - 45,Attorney General,,DEM,Write-ins,3Klamath,Moyina - 46,Attorney General,,DEM,Write-ins,1Klamath,Odell - 47,Attorney General,,DEM,Write-ins,Klamath,Odessa - 48,Attorney General,,DEM,Write-ins,Klamath,Orindale - 49,Attorney General,,DEM,Write-ins,1Klamath,Pine Grove - 50,Attorney General,,DEM,Write-ins,Klamath,Poe Valley - 51,Attorney General,,DEM,Write-ins,Klamath,Shasta - 52,Attorney General,,DEM,Write-ins,2Klamath,Sprague River - 53,Attorney General,,DEM,Write-ins,1Klamath,Steams - 54,Attorney General,,DEM,Write-ins,2Klamath,St. Francis - 55,Attorney General,,DEM,Write-ins,2Klamath,Stukel - 56,Attorney General,,DEM,Write-ins,Klamath,Sunset - 57,Attorney General,,DEM,Write-ins,1Klamath,Tonatee - 58,Attorney General,,DEM,Write-ins,1Klamath,Villa - 59,Attorney General,,DEM,Write-ins,Klamath,Williamson - 60,Attorney General,,DEM,Write-ins,1Klamath,Winema - 61,Attorney General,,DEM,Write-ins,Klamath,Wocus - 62,Attorney General,,DEM,Write-ins,Klamath,Wood River - 63,Attorney General,,DEM,Write-ins,2Klamath,,Attorney General,,DEM,Write-ins,55Klamath,1,State House,53,DEM,Wayne P. Snoozy,145Klamath,2,State House,53,DEM,Wayne P. Snoozy,85Klamath,3,State House,53,DEM,Wayne P. Snoozy,104Klamath,4,State House,53,DEM,Wayne P. Snoozy,29Klamath,5,State House,53,DEM,Wayne P. Snoozy,91Klamath,6,State House,53,DEM,Wayne P. Snoozy,118Klamath,7,State House,53,DEM,Wayne P. Snoozy,62Klamath,8,State House,53,DEM,Wayne P. Snoozy,115Klamath,9,State House,53,DEM,Wayne P. Snoozy,104Klamath,10,State House,53,DEM,Wayne P. Snoozy,67Klamath,11,State House,53,DEM,Wayne P. Snoozy,115Klamath,12,State House,53,DEM,Wayne P. Snoozy,63Klamath,13,State House,53,DEM,Wayne P. Snoozy,89Klamath,14,State House,53,DEM,Wayne P. Snoozy,85Klamath,15,State House,53,DEM,Wayne P. Snoozy,107Klamath,16,State House,53,DEM,Wayne P. Snoozy,91Klamath,17,State House,53,DEM,Wayne P. Snoozy,48Klamath,Altamont - 18,State House,53,DEM,Wayne P. Snoozy,146Klamath,Bryant - 22,State House,53,DEM,Wayne P. Snoozy,63Klamath,Canal - 23,State House,53,DEM,Wayne P. Snoozy,95Klamath,Elmwood - 27,State House,53,DEM,Wayne P. Snoozy,63Klamath,Enterprise - 28,State House,53,DEM,Wayne P. Snoozy,110Klamath,Etna - 29,State House,53,DEM,Wayne P. Snoozy,90Klamath,Ferguson - 30,State House,53,DEM,Wayne P. Snoozy,139Klamath,Hager - 32,State House,53,DEM,Wayne P. Snoozy,81Klamath,Henley - 33,State House,53,DEM,Wayne P. Snoozy,159Klamath,Hilyard - 34,State House,53,DEM,Wayne P. Snoozy,87Klamath,Homecrest - 35,State House,53,DEM,Wayne P. Snoozy,41Klamath,Homedale - 36,State House,53,DEM,Wayne P. Snoozy,76Klamath,Keno - 37,State House,53,DEM,Wayne P. Snoozy,262Klamath,Lakeshore - 39,State House,53,DEM,Wayne P. Snoozy,18Klamath,Malin - 42,State House,53,DEM,Wayne P. Snoozy,23Klamath,Mazama - 43,State House,53,DEM,Wayne P. Snoozy,122Klamath,Menill - 44,State House,53,DEM,Wayne P. Snoozy,149Klamath,Midland - 45,State House,53,DEM,Wayne P. Snoozy,204Klamath,Odessa - 48,State House,53,DEM,Wayne P. Snoozy,10Klamath,Orindale - 49,State House,53,DEM,Wayne P. Snoozy,161Klamath,Poe Valley - 51,State House,53,DEM,Wayne P. Snoozy,9Klamath,Shasta - 52,State House,53,DEM,Wayne P. Snoozy,89Klamath,Steams - 54,State House,53,DEM,Wayne P. Snoozy,147Klamath,St. Francis - 55,State House,53,DEM,Wayne P. Snoozy,57Klamath,Stukel - 56,State House,53,DEM,Wayne P. Snoozy,50Klamath,Sunset - 57,State House,53,DEM,Wayne P. Snoozy,126Klamath,Tonatee - 58,State House,53,DEM,Wayne P. Snoozy,109Klamath,Villa - 59,State House,53,DEM,Wayne P. Snoozy,102Klamath,Winema - 61,State House,53,DEM,Wayne P. Snoozy,142Klamath,,State House,53,DEM,Wayne P. Snoozy,4481Klamath,1,State House,53,DEM,Write-ins,Klamath,2,State House,53,DEM,Write-ins,Klamath,3,State House,53,DEM,Write-ins,1Klamath,4,State House,53,DEM,Write-ins,Klamath,5,State House,53,DEM,Write-ins,2Klamath,6,State House,53,DEM,Write-ins,2Klamath,7,State House,53,DEM,Write-ins,Klamath,8,State House,53,DEM,Write-ins,1Klamath,9,State House,53,DEM,Write-ins,1Klamath,10,State House,53,DEM,Write-ins,1Klamath,11,State House,53,DEM,Write-ins,1Klamath,12,State House,53,DEM,Write-ins,Klamath,13,State House,53,DEM,Write-ins,3Klamath,14,State House,53,DEM,Write-ins,`Klamath,15,State House,53,DEM,Write-ins,2Klamath,16,State House,53,DEM,Write-ins,1Klamath,17,State House,53,DEM,Write-ins,Klamath,Altamont - 18,State House,53,DEM,Write-ins,1Klamath,Bryant - 22,State House,53,DEM,Write-ins,Klamath,Canal - 23,State House,53,DEM,Write-ins,Klamath,Elmwood - 27,State House,53,DEM,Write-ins,2Klamath,Enterprise - 28,State House,53,DEM,Write-ins,1Klamath,Etna - 29,State House,53,DEM,Write-ins,2Klamath,Ferguson - 30,State House,53,DEM,Write-ins,Klamath,Hager - 32,State House,53,DEM,Write-ins,2Klamath,Henley - 33,State House,53,DEM,Write-ins,Klamath,Hilyard - 34,State House,53,DEM,Write-ins,2Klamath,Homecrest - 35,State House,53,DEM,Write-ins,1Klamath,Homedale - 36,State House,53,DEM,Write-ins,2Klamath,Keno - 37,State House,53,DEM,Write-ins,2Klamath,Lakeshore - 39,State House,53,DEM,Write-ins,Klamath,Malin - 42,State House,53,DEM,Write-ins,Klamath,Mazama - 43,State House,53,DEM,Write-ins,2Klamath,Menill - 44,State House,53,DEM,Write-ins,3Klamath,Midland - 45,State House,53,DEM,Write-ins,2Klamath,Odessa - 48,State House,53,DEM,Write-ins,Klamath,Orindale - 49,State House,53,DEM,Write-ins,2Klamath,Poe Valley - 51,State House,53,DEM,Write-ins,Klamath,Shasta - 52,State House,53,DEM,Write-ins,2Klamath,Steams - 54,State House,53,DEM,Write-ins,Klamath,St. Francis - 55,State House,53,DEM,Write-ins,2Klamath,Stukel - 56,State House,53,DEM,Write-ins,Klamath,Sunset - 57,State House,53,DEM,Write-ins,2Klamath,Tonatee - 58,State House,53,DEM,Write-ins,4Klamath,Villa - 59,State House,53,DEM,Write-ins,Klamath,Winema - 61,State House,53,DEM,Write-ins,1Klamath,,State House,53,DEM,Write-ins,51Klamath,Gilchrist - 31,State House,54,DEM,Ken Cooper,169Klamath,Klamath Lake - 38,State House,54,DEM,Ken Cooper,18Klamath,Wood River - 63,State House,54,DEM,Ken Cooper,135Klamath,,State House,54,DEM,Ken Cooper,322Klamath,Gilchrist - 31,State House,54,DEM,Write-ins,5Klamath,Klamath Lake - 38,State House,54,DEM,Write-ins,0Klamath,Wood River - 63,State House,54,DEM,Write-ins,1Klamath,,State House,54,DEM,Write-ins,6Klamath,Gilchrist - 31,State Senate,27,DEM,Anne N. Phillben,165Klamath,Klamath Lake - 38,State Senate,27,DEM,Anne N. Phillben,19Klamath,Wood River - 63,State Senate,27,DEM,Anne N. Phillben,136Klamath,,State Senate,27,DEM,Anne N. Phillben,320Klamath,Gilchrist - 31,State Senate,27,DEM,Write-ins,5Klamath,Klamath Lake - 38,State Senate,27,DEM,Write-ins,0Klamath,Wood River - 63,State Senate,27,DEM,Write-ins,4Klamath,,State Senate,27,DEM,Write-ins,9Klamath,1,State Senate,30,DEM,Debra M. James,118Klamath,2,State Senate,30,DEM,Debra M. James,57Klamath,3,State Senate,30,DEM,Debra M. James,84Klamath,4,State Senate,30,DEM,Debra M. James,23Klamath,5,State Senate,30,DEM,Debra M. James,80Klamath,6,State Senate,30,DEM,Debra M. James,97Klamath,7,State Senate,30,DEM,Debra M. James,48Klamath,8,State Senate,30,DEM,Debra M. James,107Klamath,9,State Senate,30,DEM,Debra M. James,95Klamath,10,State Senate,30,DEM,Debra M. James,59Klamath,11,State Senate,30,DEM,Debra M. James,97Klamath,12,State Senate,30,DEM,Debra M. James,54Klamath,13,State Senate,30,DEM,Debra M. James,72Klamath,14,State Senate,30,DEM,Debra M. James,71Klamath,15,State Senate,30,DEM,Debra M. James,92Klamath,16,State Senate,30,DEM,Debra M. James,74Klamath,17,State Senate,30,DEM,Debra M. James,42Klamath,Altamont - 18,State Senate,30,DEM,Debra M. James,125Klamath,Beatty - 19,State Senate,30,DEM,Debra M. James,25Klamath,Bly - 20,State Senate,30,DEM,Debra M. James,36Klamath,Bonanza - 21,State Senate,30,DEM,Debra M. James,19Klamath,Bryant - 22,State Senate,30,DEM,Debra M. James,50Klamath,Canal - 23,State Senate,30,DEM,Debra M. James,83Klamath,Chemult - 24,State Senate,30,DEM,Debra M. James,20Klamath,Chiloquin - 25,State Senate,30,DEM,Debra M. James,29Klamath,Dairy - 26,State Senate,30,DEM,Debra M. James,33Klamath,Elmwood - 27,State Senate,30,DEM,Debra M. James,43Klamath,Enterprise - 28,State Senate,30,DEM,Debra M. James,90Klamath,Etna - 29,State Senate,30,DEM,Debra M. James,74Klamath,Ferguson - 30,State Senate,30,DEM,Debra M. James,123Klamath,Hager - 32,State Senate,30,DEM,Debra M. James,69Klamath,Henley - 33,State Senate,30,DEM,Debra M. James,118Klamath,Hilyard - 34,State Senate,30,DEM,Debra M. James,67Klamath,Homecrest - 35,State Senate,30,DEM,Debra M. James,41Klamath,Homedale - 36,State Senate,30,DEM,Debra M. James,67Klamath,Keno - 37,State Senate,30,DEM,Debra M. James,216Klamath,Lakeshore - 39,State Senate,30,DEM,Debra M. James,14Klamath,Langell Valley - 40,State Senate,30,DEM,Debra M. James,19Klamath,Lost River - 41,State Senate,30,DEM,Debra M. James,47Klamath,Malin - 42,State Senate,30,DEM,Debra M. James,21Klamath,Mazama - 43,State Senate,30,DEM,Debra M. James,109Klamath,Menill - 44,State Senate,30,DEM,Debra M. James,48Klamath,Midland - 45,State Senate,30,DEM,Debra M. James,123Klamath,Moyina - 46,State Senate,30,DEM,Debra M. James,177Klamath,Odell - 47,State Senate,30,DEM,Debra M. James,44Klamath,Odessa - 48,State Senate,30,DEM,Debra M. James,10Klamath,Orindale - 49,State Senate,30,DEM,Debra M. James,123Klamath,Pine Grove - 50,State Senate,30,DEM,Debra M. James,57Klamath,Poe Valley - 51,State Senate,30,DEM,Debra M. James,6Klamath,Shasta - 52,State Senate,30,DEM,Debra M. James,76Klamath,Sprague River - 53,State Senate,30,DEM,Debra M. James,65Klamath,Steams - 54,State Senate,30,DEM,Debra M. James,119Klamath,St. Francis - 55,State Senate,30,DEM,Debra M. James,55Klamath,Stukel - 56,State Senate,30,DEM,Debra M. James,38Klamath,Sunset - 57,State Senate,30,DEM,Debra M. James,101Klamath,Tonatee - 58,State Senate,30,DEM,Debra M. James,91Klamath,Villa - 59,State Senate,30,DEM,Debra M. James,89Klamath,Williamson - 60,State Senate,30,DEM,Debra M. James,59Klamath,Winema - 61,State Senate,30,DEM,Debra M. James,115Klamath,Wocus - 62,State Senate,30,DEM,Debra M. James,52Klamath,,State Senate,30,DEM,Debra M. James,4256Klamath,1,State Senate,30,DEM,Write-ins,6Klamath,2,State Senate,30,DEM,Write-ins,Klamath,3,State Senate,30,DEM,Write-ins,2Klamath,4,State Senate,30,DEM,Write-ins,Klamath,5,State Senate,30,DEM,Write-ins,3Klamath,6,State Senate,30,DEM,Write-ins,3Klamath,7,State Senate,30,DEM,Write-ins,1Klamath,8,State Senate,30,DEM,Write-ins,1Klamath,9,State Senate,30,DEM,Write-ins,1Klamath,10,State Senate,30,DEM,Write-ins,2Klamath,11,State Senate,30,DEM,Write-ins,3Klamath,12,State Senate,30,DEM,Write-ins,Klamath,13,State Senate,30,DEM,Write-ins,4Klamath,14,State Senate,30,DEM,Write-ins,1Klamath,15,State Senate,30,DEM,Write-ins,Klamath,16,State Senate,30,DEM,Write-ins,4Klamath,17,State Senate,30,DEM,Write-ins,Klamath,Altamont - 18,State Senate,30,DEM,Write-ins,4Klamath,Beatty - 19,State Senate,30,DEM,Write-ins,1Klamath,Bly - 20,State Senate,30,DEM,Write-ins,2Klamath,Bonanza - 21,State Senate,30,DEM,Write-ins,Klamath,Bryant - 22,State Senate,30,DEM,Write-ins,Klamath,Canal - 23,State Senate,30,DEM,Write-ins,1Klamath,Chemult - 24,State Senate,30,DEM,Write-ins,2Klamath,Chiloquin - 25,State Senate,30,DEM,Write-ins,Klamath,Dairy - 26,State Senate,30,DEM,Write-ins,6Klamath,Elmwood - 27,State Senate,30,DEM,Write-ins,4Klamath,Enterprise - 28,State Senate,30,DEM,Write-ins,4Klamath,Etna - 29,State Senate,30,DEM,Write-ins,2Klamath,Ferguson - 30,State Senate,30,DEM,Write-ins,1Klamath,Hager - 32,State Senate,30,DEM,Write-ins,2Klamath,Henley - 33,State Senate,30,DEM,Write-ins,1Klamath,Hilyard - 34,State Senate,30,DEM,Write-ins,2Klamath,Homecrest - 35,State Senate,30,DEM,Write-ins,1Klamath,Homedale - 36,State Senate,30,DEM,Write-ins,4Klamath,Keno - 37,State Senate,30,DEM,Write-ins,17Klamath,Lakeshore - 39,State Senate,30,DEM,Write-ins,Klamath,Langell Valley - 40,State Senate,30,DEM,Write-ins,1Klamath,Lost River - 41,State Senate,30,DEM,Write-ins,3Klamath,Malin - 42,State Senate,30,DEM,Write-ins,Klamath,Mazama - 43,State Senate,30,DEM,Write-ins,5Klamath,Menill - 44,State Senate,30,DEM,Write-ins,2Klamath,Midland - 45,State Senate,30,DEM,Write-ins,3Klamath,Moyina - 46,State Senate,30,DEM,Write-ins,1Klamath,Odell - 47,State Senate,30,DEM,Write-ins,Klamath,Odessa - 48,State Senate,30,DEM,Write-ins,Klamath,Orindale - 49,State Senate,30,DEM,Write-ins,4Klamath,Pine Grove - 50,State Senate,30,DEM,Write-ins,2Klamath,Poe Valley - 51,State Senate,30,DEM,Write-ins,Klamath,Shasta - 52,State Senate,30,DEM,Write-ins,4Klamath,Sprague River - 53,State Senate,30,DEM,Write-ins,1Klamath,Steams - 54,State Senate,30,DEM,Write-ins,2Klamath,St. Francis - 55,State Senate,30,DEM,Write-ins,3Klamath,Stukel - 56,State Senate,30,DEM,Write-ins,1Klamath,Sunset - 57,State Senate,30,DEM,Write-ins,2Klamath,Tonatee - 58,State Senate,30,DEM,Write-ins,Klamath,Villa - 59,State Senate,30,DEM,Write-ins,Klamath,Williamson - 60,State Senate,30,DEM,Write-ins,2Klamath,Winema - 61,State Senate,30,DEM,Write-ins,2Klamath,Wocus - 62,State Senate,30,DEM,Write-ins,3Klamath,,State Senate,30,DEM,Write-ins,126
+county,precinct,office,district,party,candidates,votes
+Klamath,1,President,,DEM,Lyndon H. LaRouche,30
+Klamath,2,President,,DEM,Lyndon H. LaRouche,18
+Klamath,3,President,,DEM,Lyndon H. LaRouche,20
+Klamath,4,President,,DEM,Lyndon H. LaRouche,1
+Klamath,5,President,,DEM,Lyndon H. LaRouche,10
+Klamath,6,President,,DEM,Lyndon H. LaRouche,12
+Klamath,7,President,,DEM,Lyndon H. LaRouche,9
+Klamath,8,President,,DEM,Lyndon H. LaRouche,21
+Klamath,9,President,,DEM,Lyndon H. LaRouche,23
+Klamath,10,President,,DEM,Lyndon H. LaRouche,16
+Klamath,11,President,,DEM,Lyndon H. LaRouche,13
+Klamath,12,President,,DEM,Lyndon H. LaRouche,11
+Klamath,13,President,,DEM,Lyndon H. LaRouche,12
+Klamath,14,President,,DEM,Lyndon H. LaRouche,19
+Klamath,15,President,,DEM,Lyndon H. LaRouche,22
+Klamath,16,President,,DEM,Lyndon H. LaRouche,23
+Klamath,17,President,,DEM,Lyndon H. LaRouche,12
+Klamath,Altamont - 18,President,,DEM,Lyndon H. LaRouche,24
+Klamath,Beatty - 19,President,,DEM,Lyndon H. LaRouche,2
+Klamath,Bly - 20,President,,DEM,Lyndon H. LaRouche,22
+Klamath,Bonanza - 21,President,,DEM,Lyndon H. LaRouche,6
+Klamath,Bryant - 22,President,,DEM,Lyndon H. LaRouche,35
+Klamath,Canal - 23,President,,DEM,Lyndon H. LaRouche,20
+Klamath,Chemult - 24,President,,DEM,Lyndon H. LaRouche,3
+Klamath,Chiloquin - 25,President,,DEM,Lyndon H. LaRouche,7
+Klamath,Dairy - 26,President,,DEM,Lyndon H. LaRouche,12
+Klamath,Elmwood - 27,President,,DEM,Lyndon H. LaRouche,16
+Klamath,Enterprise - 28,President,,DEM,Lyndon H. LaRouche,25
+Klamath,Etna - 29,President,,DEM,Lyndon H. LaRouche,22
+Klamath,Ferguson - 30,President,,DEM,Lyndon H. LaRouche,19
+Klamath,Gilchrist - 31,President,,DEM,Lyndon H. LaRouche,34
+Klamath,Hager - 32,President,,DEM,Lyndon H. LaRouche,14
+Klamath,Henley - 33,President,,DEM,Lyndon H. LaRouche,50
+Klamath,Hilyard - 34,President,,DEM,Lyndon H. LaRouche,27
+Klamath,Homecrest - 35,President,,DEM,Lyndon H. LaRouche,13
+Klamath,Homedale - 36,President,,DEM,Lyndon H. LaRouche,23
+Klamath,Keno - 37,President,,DEM,Lyndon H. LaRouche,62
+Klamath,Klamath Lake - 38,President,,DEM,Lyndon H. LaRouche,8
+Klamath,Lakeshore - 39,President,,DEM,Lyndon H. LaRouche,4
+Klamath,Langell Valley - 40,President,,DEM,Lyndon H. LaRouche,10
+Klamath,Lost River - 41,President,,DEM,Lyndon H. LaRouche,11
+Klamath,Malin - 42,President,,DEM,Lyndon H. LaRouche,10
+Klamath,Mazama - 43,President,,DEM,Lyndon H. LaRouche,22
+Klamath,Menill - 44,President,,DEM,Lyndon H. LaRouche,18
+Klamath,Midland - 45,President,,DEM,Lyndon H. LaRouche,61
+Klamath,Moyina - 46,President,,DEM,Lyndon H. LaRouche,44
+Klamath,Odell - 47,President,,DEM,Lyndon H. LaRouche,10
+Klamath,Odessa - 48,President,,DEM,Lyndon H. LaRouche,2
+Klamath,Orindale - 49,President,,DEM,Lyndon H. LaRouche,54
+Klamath,Pine Grove - 50,President,,DEM,Lyndon H. LaRouche,15
+Klamath,Poe Valley - 51,President,,DEM,Lyndon H. LaRouche,7
+Klamath,Shasta - 52,President,,DEM,Lyndon H. LaRouche,13
+Klamath,Sprague River - 53,President,,DEM,Lyndon H. LaRouche,7
+Klamath,Steams - 54,President,,DEM,Lyndon H. LaRouche,35
+Klamath,St. Francis - 55,President,,DEM,Lyndon H. LaRouche,16
+Klamath,Stukel - 56,President,,DEM,Lyndon H. LaRouche,19
+Klamath,Sunset - 57,President,,DEM,Lyndon H. LaRouche,26
+Klamath,Tonatee - 58,President,,DEM,Lyndon H. LaRouche,16
+Klamath,Villa - 59,President,,DEM,Lyndon H. LaRouche,25
+Klamath,Williamson - 60,President,,DEM,Lyndon H. LaRouche,13
+Klamath,Winema - 61,President,,DEM,Lyndon H. LaRouche,26
+Klamath,Wocus - 62,President,,DEM,Lyndon H. LaRouche,19
+Klamath,Wood River - 63,President,,DEM,Lyndon H. LaRouche,26
+Klamath,,President,,DEM,Lyndon H. LaRouche,1225
+Klamath,1,President,,DEM,Al Gore,92
+Klamath,2,President,,DEM,Al Gore,44
+Klamath,3,President,,DEM,Al Gore,89
+Klamath,4,President,,DEM,Al Gore,34
+Klamath,5,President,,DEM,Al Gore,87
+Klamath,6,President,,DEM,Al Gore,99
+Klamath,7,President,,DEM,Al Gore,65
+Klamath,8,President,,DEM,Al Gore,98
+Klamath,9,President,,DEM,Al Gore,92
+Klamath,10,President,,DEM,Al Gore,52
+Klamath,11,President,,DEM,Al Gore,110
+Klamath,12,President,,DEM,Al Gore,47
+Klamath,13,President,,DEM,Al Gore,79
+Klamath,14,President,,DEM,Al Gore,76
+Klamath,15,President,,DEM,Al Gore,86
+Klamath,16,President,,DEM,Al Gore,66
+Klamath,17,President,,DEM,Al Gore,33
+Klamath,Altamont - 18,President,,DEM,Al Gore,115
+Klamath,Beatty - 19,President,,DEM,Al Gore,25
+Klamath,Bly - 20,President,,DEM,Al Gore,26
+Klamath,Bonanza - 21,President,,DEM,Al Gore,21
+Klamath,Bryant - 22,President,,DEM,Al Gore,20
+Klamath,Canal - 23,President,,DEM,Al Gore,61
+Klamath,Chemult - 24,President,,DEM,Al Gore,17
+Klamath,Chiloquin - 25,President,,DEM,Al Gore,24
+Klamath,Dairy - 26,President,,DEM,Al Gore,27
+Klamath,Elmwood - 27,President,,DEM,Al Gore,37
+Klamath,Enterprise - 28,President,,DEM,Al Gore,75
+Klamath,Etna - 29,President,,DEM,Al Gore,71
+Klamath,Ferguson - 30,President,,DEM,Al Gore,105
+Klamath,Gilchrist - 31,President,,DEM,Al Gore,151
+Klamath,Hager - 32,President,,DEM,Al Gore,70
+Klamath,Henley - 33,President,,DEM,Al Gore,103
+Klamath,Hilyard - 34,President,,DEM,Al Gore,54
+Klamath,Homecrest - 35,President,,DEM,Al Gore,30
+Klamath,Homedale - 36,President,,DEM,Al Gore,59
+Klamath,Keno - 37,President,,DEM,Al Gore,201
+Klamath,Klamath Lake - 38,President,,DEM,Al Gore,18
+Klamath,Lakeshore - 39,President,,DEM,Al Gore,20
+Klamath,Langell Valley - 40,President,,DEM,Al Gore,14
+Klamath,Lost River - 41,President,,DEM,Al Gore,39
+Klamath,Malin - 42,President,,DEM,Al Gore,9
+Klamath,Mazama - 43,President,,DEM,Al Gore,96
+Klamath,Menill - 44,President,,DEM,Al Gore,35
+Klamath,Midland - 45,President,,DEM,Al Gore,94
+Klamath,Moyina - 46,President,,DEM,Al Gore,152
+Klamath,Odell - 47,President,,DEM,Al Gore,49
+Klamath,Odessa - 48,President,,DEM,Al Gore,6
+Klamath,Orindale - 49,President,,DEM,Al Gore,114
+Klamath,Pine Grove - 50,President,,DEM,Al Gore,60
+Klamath,Poe Valley - 51,President,,DEM,Al Gore,2
+Klamath,Shasta - 52,President,,DEM,Al Gore,75
+Klamath,Sprague River - 53,President,,DEM,Al Gore,74
+Klamath,Steams - 54,President,,DEM,Al Gore,122
+Klamath,St. Francis - 55,President,,DEM,Al Gore,45
+Klamath,Stukel - 56,President,,DEM,Al Gore,33
+Klamath,Sunset - 57,President,,DEM,Al Gore,86
+Klamath,Tonatee - 58,President,,DEM,Al Gore,98
+Klamath,Villa - 59,President,,DEM,Al Gore,60
+Klamath,Williamson - 60,President,,DEM,Al Gore,55
+Klamath,Winema - 61,President,,DEM,Al Gore,109
+Klamath,Wocus - 62,President,,DEM,Al Gore,62
+Klamath,Wood River - 63,President,,DEM,Al Gore,144
+Klamath,,President,,DEM,Al Gore,4212
+Klamath,1,President,,DEM,Write-ins,22
+Klamath,2,President,,DEM,Write-ins,4
+Klamath,3,President,,DEM,Write-ins,6
+Klamath,4,President,,DEM,Write-ins,3
+Klamath,5,President,,DEM,Write-ins,11
+Klamath,6,President,,DEM,Write-ins,11
+Klamath,7,President,,DEM,Write-ins,7
+Klamath,8,President,,DEM,Write-ins,13
+Klamath,9,President,,DEM,Write-ins,7
+Klamath,10,President,,DEM,Write-ins,6
+Klamath,11,President,,DEM,Write-ins,12
+Klamath,12,President,,DEM,Write-ins,4
+Klamath,13,President,,DEM,Write-ins,9
+Klamath,14,President,,DEM,Write-ins,7
+Klamath,15,President,,DEM,Write-ins,5
+Klamath,16,President,,DEM,Write-ins,2
+Klamath,17,President,,DEM,Write-ins,3
+Klamath,Altamont - 18,President,,DEM,Write-ins,8
+Klamath,Beatty - 19,President,,DEM,Write-ins,1
+Klamath,Bly - 20,President,,DEM,Write-ins,4
+Klamath,Bonanza - 21,President,,DEM,Write-ins,4
+Klamath,Bryant - 22,President,,DEM,Write-ins,3
+Klamath,Canal - 23,President,,DEM,Write-ins,5
+Klamath,Chemult - 24,President,,DEM,Write-ins,7
+Klamath,Chiloquin - 25,President,,DEM,Write-ins,
+Klamath,Dairy - 26,President,,DEM,Write-ins,3
+Klamath,Elmwood - 27,President,,DEM,Write-ins,6
+Klamath,Enterprise - 28,President,,DEM,Write-ins,12
+Klamath,Etna - 29,President,,DEM,Write-ins,9
+Klamath,Ferguson - 30,President,,DEM,Write-ins,16
+Klamath,Gilchrist - 31,President,,DEM,Write-ins,19
+Klamath,Hager - 32,President,,DEM,Write-ins,5
+Klamath,Henley - 33,President,,DEM,Write-ins,10
+Klamath,Hilyard - 34,President,,DEM,Write-ins,10
+Klamath,Homecrest - 35,President,,DEM,Write-ins,4
+Klamath,Homedale - 36,President,,DEM,Write-ins,5
+Klamath,Keno - 37,President,,DEM,Write-ins,36
+Klamath,Klamath Lake - 38,President,,DEM,Write-ins,
+Klamath,Lakeshore - 39,President,,DEM,Write-ins,1
+Klamath,Langell Valley - 40,President,,DEM,Write-ins,1
+Klamath,Lost River - 41,President,,DEM,Write-ins,11
+Klamath,Malin - 42,President,,DEM,Write-ins,
+Klamath,Mazama - 43,President,,DEM,Write-ins,8
+Klamath,Menill - 44,President,,DEM,Write-ins,5
+Klamath,Midland - 45,President,,DEM,Write-ins,13
+Klamath,Moyina - 46,President,,DEM,Write-ins,15
+Klamath,Odell - 47,President,,DEM,Write-ins,3
+Klamath,Odessa - 48,President,,DEM,Write-ins,3
+Klamath,Orindale - 49,President,,DEM,Write-ins,8
+Klamath,Pine Grove - 50,President,,DEM,Write-ins,13
+Klamath,Poe Valley - 51,President,,DEM,Write-ins,2
+Klamath,Shasta - 52,President,,DEM,Write-ins,10
+Klamath,Sprague River - 53,President,,DEM,Write-ins,8
+Klamath,Steams - 54,President,,DEM,Write-ins,12
+Klamath,St. Francis - 55,President,,DEM,Write-ins,4
+Klamath,Stukel - 56,President,,DEM,Write-ins,3
+Klamath,Sunset - 57,President,,DEM,Write-ins,5
+Klamath,Tonatee - 58,President,,DEM,Write-ins,6
+Klamath,Villa - 59,President,,DEM,Write-ins,7
+Klamath,Williamson - 60,President,,DEM,Write-ins,3
+Klamath,Winema - 61,President,,DEM,Write-ins,20
+Klamath,Wocus - 62,President,,DEM,Write-ins,9
+Klamath,Wood River - 63,President,,DEM,Write-ins,15
+Klamath,,President,,DEM,Write-ins,484
+Klamath,1,U.S. House,2,DEM,Walter Ponsford,115
+Klamath,2,U.S. House,2,DEM,Walter Ponsford,58
+Klamath,3,U.S. House,2,DEM,Walter Ponsford,80
+Klamath,4,U.S. House,2,DEM,Walter Ponsford,22
+Klamath,5,U.S. House,2,DEM,Walter Ponsford,78
+Klamath,6,U.S. House,2,DEM,Walter Ponsford,97
+Klamath,7,U.S. House,2,DEM,Walter Ponsford,49
+Klamath,8,U.S. House,2,DEM,Walter Ponsford,108
+Klamath,9,U.S. House,2,DEM,Walter Ponsford,90
+Klamath,10,U.S. House,2,DEM,Walter Ponsford,62
+Klamath,11,U.S. House,2,DEM,Walter Ponsford,96
+Klamath,12,U.S. House,2,DEM,Walter Ponsford,62
+Klamath,13,U.S. House,2,DEM,Walter Ponsford,65
+Klamath,14,U.S. House,2,DEM,Walter Ponsford,78
+Klamath,15,U.S. House,2,DEM,Walter Ponsford,90
+Klamath,16,U.S. House,2,DEM,Walter Ponsford,74
+Klamath,17,U.S. House,2,DEM,Walter Ponsford,43
+Klamath,Altamont - 18,U.S. House,2,DEM,Walter Ponsford,122
+Klamath,Beatty - 19,U.S. House,2,DEM,Walter Ponsford,28
+Klamath,Bly - 20,U.S. House,2,DEM,Walter Ponsford,38
+Klamath,Bonanza - 21,U.S. House,2,DEM,Walter Ponsford,22
+Klamath,Bryant - 22,U.S. House,2,DEM,Walter Ponsford,51
+Klamath,Canal - 23,U.S. House,2,DEM,Walter Ponsford,78
+Klamath,Chemult - 24,U.S. House,2,DEM,Walter Ponsford,21
+Klamath,Chiloquin - 25,U.S. House,2,DEM,Walter Ponsford,31
+Klamath,Dairy - 26,U.S. House,2,DEM,Walter Ponsford,37
+Klamath,Elmwood - 27,U.S. House,2,DEM,Walter Ponsford,41
+Klamath,Enterprise - 28,U.S. House,2,DEM,Walter Ponsford,92
+Klamath,Etna - 29,U.S. House,2,DEM,Walter Ponsford,73
+Klamath,Ferguson - 30,U.S. House,2,DEM,Walter Ponsford,114
+Klamath,Gilchrist - 31,U.S. House,2,DEM,Walter Ponsford,165
+Klamath,Hager - 32,U.S. House,2,DEM,Walter Ponsford,74
+Klamath,Henley - 33,U.S. House,2,DEM,Walter Ponsford,119
+Klamath,Hilyard - 34,U.S. House,2,DEM,Walter Ponsford,59
+Klamath,Homecrest - 35,U.S. House,2,DEM,Walter Ponsford,37
+Klamath,Homedale - 36,U.S. House,2,DEM,Walter Ponsford,64
+Klamath,Keno - 37,U.S. House,2,DEM,Walter Ponsford,224
+Klamath,Klamath Lake - 38,U.S. House,2,DEM,Walter Ponsford,19
+Klamath,Lakeshore - 39,U.S. House,2,DEM,Walter Ponsford,17
+Klamath,Langell Valley - 40,U.S. House,2,DEM,Walter Ponsford,20
+Klamath,Lost River - 41,U.S. House,2,DEM,Walter Ponsford,45
+Klamath,Malin - 42,U.S. House,2,DEM,Walter Ponsford,19
+Klamath,Mazama - 43,U.S. House,2,DEM,Walter Ponsford,108
+Klamath,Menill - 44,U.S. House,2,DEM,Walter Ponsford,47
+Klamath,Midland - 45,U.S. House,2,DEM,Walter Ponsford,120
+Klamath,Moyina - 46,U.S. House,2,DEM,Walter Ponsford,165
+Klamath,Odell - 47,U.S. House,2,DEM,Walter Ponsford,42
+Klamath,Odessa - 48,U.S. House,2,DEM,Walter Ponsford,8
+Klamath,Orindale - 49,U.S. House,2,DEM,Walter Ponsford,123
+Klamath,Pine Grove - 50,U.S. House,2,DEM,Walter Ponsford,55
+Klamath,Poe Valley - 51,U.S. House,2,DEM,Walter Ponsford,6
+Klamath,Shasta - 52,U.S. House,2,DEM,Walter Ponsford,75
+Klamath,Sprague River - 53,U.S. House,2,DEM,Walter Ponsford,67
+Klamath,Steams - 54,U.S. House,2,DEM,Walter Ponsford,118
+Klamath,St. Francis - 55,U.S. House,2,DEM,Walter Ponsford,50
+Klamath,Stukel - 56,U.S. House,2,DEM,Walter Ponsford,36
+Klamath,Sunset - 57,U.S. House,2,DEM,Walter Ponsford,97
+Klamath,Tonatee - 58,U.S. House,2,DEM,Walter Ponsford,97
+Klamath,Villa - 59,U.S. House,2,DEM,Walter Ponsford,86
+Klamath,Williamson - 60,U.S. House,2,DEM,Walter Ponsford,58
+Klamath,Winema - 61,U.S. House,2,DEM,Walter Ponsford,114
+Klamath,Wocus - 62,U.S. House,2,DEM,Walter Ponsford,52
+Klamath,Wood River - 63,U.S. House,2,DEM,Walter Ponsford,135
+Klamath,,U.S. House,2,DEM,Walter Ponsford,4536
+Klamath,1,Secretary of State,,DEM,Bill Bradbury,133
+Klamath,2,Secretary of State,,DEM,Bill Bradbury,62
+Klamath,3,Secretary of State,,DEM,Bill Bradbury,95
+Klamath,4,Secretary of State,,DEM,Bill Bradbury,26
+Klamath,5,Secretary of State,,DEM,Bill Bradbury,92
+Klamath,6,Secretary of State,,DEM,Bill Bradbury,116
+Klamath,7,Secretary of State,,DEM,Bill Bradbury,63
+Klamath,8,Secretary of State,,DEM,Bill Bradbury,116
+Klamath,9,Secretary of State,,DEM,Bill Bradbury,107
+Klamath,10,Secretary of State,,DEM,Bill Bradbury,66
+Klamath,11,Secretary of State,,DEM,Bill Bradbury,112
+Klamath,12,Secretary of State,,DEM,Bill Bradbury,62
+Klamath,13,Secretary of State,,DEM,Bill Bradbury,86
+Klamath,14,Secretary of State,,DEM,Bill Bradbury,88
+Klamath,15,Secretary of State,,DEM,Bill Bradbury,98
+Klamath,16,Secretary of State,,DEM,Bill Bradbury,83
+Klamath,17,Secretary of State,,DEM,Bill Bradbury,45
+Klamath,Altamont - 18,Secretary of State,,DEM,Bill Bradbury,139
+Klamath,Beatty - 19,Secretary of State,,DEM,Bill Bradbury,28
+Klamath,Bly - 20,Secretary of State,,DEM,Bill Bradbury,42
+Klamath,Bonanza - 21,Secretary of State,,DEM,Bill Bradbury,27
+Klamath,Bryant - 22,Secretary of State,,DEM,Bill Bradbury,54
+Klamath,Canal - 23,Secretary of State,,DEM,Bill Bradbury,87
+Klamath,Chemult - 24,Secretary of State,,DEM,Bill Bradbury,23
+Klamath,Chiloquin - 25,Secretary of State,,DEM,Bill Bradbury,32
+Klamath,Dairy - 26,Secretary of State,,DEM,Bill Bradbury,37
+Klamath,Elmwood - 27,Secretary of State,,DEM,Bill Bradbury,58
+Klamath,Enterprise - 28,Secretary of State,,DEM,Bill Bradbury,105
+Klamath,Etna - 29,Secretary of State,,DEM,Bill Bradbury,75
+Klamath,Ferguson - 30,Secretary of State,,DEM,Bill Bradbury,131
+Klamath,Gilchrist - 31,Secretary of State,,DEM,Bill Bradbury,184
+Klamath,Hager - 32,Secretary of State,,DEM,Bill Bradbury,82
+Klamath,Henley - 33,Secretary of State,,DEM,Bill Bradbury,144
+Klamath,Hilyard - 34,Secretary of State,,DEM,Bill Bradbury,83
+Klamath,Homecrest - 35,Secretary of State,,DEM,Bill Bradbury,47
+Klamath,Homedale - 36,Secretary of State,,DEM,Bill Bradbury,72
+Klamath,Keno - 37,Secretary of State,,DEM,Bill Bradbury,249
+Klamath,Klamath Lake - 38,Secretary of State,,DEM,Bill Bradbury,22
+Klamath,Lakeshore - 39,Secretary of State,,DEM,Bill Bradbury,18
+Klamath,Langell Valley - 40,Secretary of State,,DEM,Bill Bradbury,24
+Klamath,Lost River - 41,Secretary of State,,DEM,Bill Bradbury,56
+Klamath,Malin - 42,Secretary of State,,DEM,Bill Bradbury,22
+Klamath,Mazama - 43,Secretary of State,,DEM,Bill Bradbury,118
+Klamath,Menill - 44,Secretary of State,,DEM,Bill Bradbury,55
+Klamath,Midland - 45,Secretary of State,,DEM,Bill Bradbury,142
+Klamath,Moyina - 46,Secretary of State,,DEM,Bill Bradbury,192
+Klamath,Odell - 47,Secretary of State,,DEM,Bill Bradbury,48
+Klamath,Odessa - 48,Secretary of State,,DEM,Bill Bradbury,10
+Klamath,Orindale - 49,Secretary of State,,DEM,Bill Bradbury,136
+Klamath,Pine Grove - 50,Secretary of State,,DEM,Bill Bradbury,66
+Klamath,Poe Valley - 51,Secretary of State,,DEM,Bill Bradbury,8
+Klamath,Shasta - 52,Secretary of State,,DEM,Bill Bradbury,85
+Klamath,Sprague River - 53,Secretary of State,,DEM,Bill Bradbury,72
+Klamath,Steams - 54,Secretary of State,,DEM,Bill Bradbury,133
+Klamath,St. Francis - 55,Secretary of State,,DEM,Bill Bradbury,61
+Klamath,Stukel - 56,Secretary of State,,DEM,Bill Bradbury,47
+Klamath,Sunset - 57,Secretary of State,,DEM,Bill Bradbury,118
+Klamath,Tonatee - 58,Secretary of State,,DEM,Bill Bradbury,109
+Klamath,Villa - 59,Secretary of State,,DEM,Bill Bradbury,93
+Klamath,Williamson - 60,Secretary of State,,DEM,Bill Bradbury,65
+Klamath,Winema - 61,Secretary of State,,DEM,Bill Bradbury,131
+Klamath,Wocus - 62,Secretary of State,,DEM,Bill Bradbury,65
+Klamath,Wood River - 63,Secretary of State,,DEM,Bill Bradbury,159
+Klamath,,Secretary of State,,DEM,Bill Bradbury,5204
+Klamath,1 & 11,State Treasurer,,DEM,Randall Edwards,111
+Klamath,2,State Treasurer,,DEM,Randall Edwards,28
+Klamath,3,State Treasurer,,DEM,Randall Edwards,55
+Klamath,4,State Treasurer,,DEM,Randall Edwards,14
+Klamath,5,State Treasurer,,DEM,Randall Edwards,34
+Klamath,6,State Treasurer,,DEM,Randall Edwards,57
+Klamath,7,State Treasurer,,DEM,Randall Edwards,30
+Klamath,8,State Treasurer,,DEM,Randall Edwards,45
+Klamath,9,State Treasurer,,DEM,Randall Edwards,49
+Klamath,10,State Treasurer,,DEM,Randall Edwards,24
+Klamath,12,State Treasurer,,DEM,Randall Edwards,33
+Klamath,13,State Treasurer,,DEM,Randall Edwards,42
+Klamath,14,State Treasurer,,DEM,Randall Edwards,35
+Klamath,15,State Treasurer,,DEM,Randall Edwards,42
+Klamath,16,State Treasurer,,DEM,Randall Edwards,41
+Klamath,17,State Treasurer,,DEM,Randall Edwards,18
+Klamath,Altamont - 18,State Treasurer,,DEM,Randall Edwards,54
+Klamath,Beatty - 19,State Treasurer,,DEM,Randall Edwards,14
+Klamath,Bly - 20,State Treasurer,,DEM,Randall Edwards,22
+Klamath,Bonanza - 21,State Treasurer,,DEM,Randall Edwards,9
+Klamath,Bryant - 22,State Treasurer,,DEM,Randall Edwards,25
+Klamath,Canal - 23,State Treasurer,,DEM,Randall Edwards,32
+Klamath,Chemult - 24,State Treasurer,,DEM,Randall Edwards,13
+Klamath,Chiloquin - 25,State Treasurer,,DEM,Randall Edwards,19
+Klamath,Dairy - 26,State Treasurer,,DEM,Randall Edwards,20
+Klamath,Elmwood - 27,State Treasurer,,DEM,Randall Edwards,27
+Klamath,Enterprise - 28,State Treasurer,,DEM,Randall Edwards,55
+Klamath,Etna - 29,State Treasurer,,DEM,Randall Edwards,43
+Klamath,Ferguson - 30,State Treasurer,,DEM,Randall Edwards,55
+Klamath,Gilchrist - 31,State Treasurer,,DEM,Randall Edwards,83
+Klamath,Hager - 32,State Treasurer,,DEM,Randall Edwards,35
+Klamath,Henley - 33,State Treasurer,,DEM,Randall Edwards,72
+Klamath,Hilyard - 34,State Treasurer,,DEM,Randall Edwards,38
+Klamath,Homecrest - 35,State Treasurer,,DEM,Randall Edwards,18
+Klamath,Homedale - 36,State Treasurer,,DEM,Randall Edwards,32
+Klamath,Keno - 37,State Treasurer,,DEM,Randall Edwards,115
+Klamath,Klamath Lake - 38,State Treasurer,,DEM,Randall Edwards,13
+Klamath,Lakeshore - 39,State Treasurer,,DEM,Randall Edwards,9
+Klamath,Langell Valley - 40,State Treasurer,,DEM,Randall Edwards,13
+Klamath,Lost River - 41,State Treasurer,,DEM,Randall Edwards,28
+Klamath,Malin - 42,State Treasurer,,DEM,Randall Edwards,14
+Klamath,Mazama - 43,State Treasurer,,DEM,Randall Edwards,58
+Klamath,Menill - 44,State Treasurer,,DEM,Randall Edwards,28
+Klamath,Midland - 45,State Treasurer,,DEM,Randall Edwards,62
+Klamath,Moyina - 46,State Treasurer,,DEM,Randall Edwards,103
+Klamath,Odell - 47,State Treasurer,,DEM,Randall Edwards,24
+Klamath,Odessa - 48,State Treasurer,,DEM,Randall Edwards,4
+Klamath,Orindale - 49,State Treasurer,,DEM,Randall Edwards,67
+Klamath,Pine Grove - 50,State Treasurer,,DEM,Randall Edwards,27
+Klamath,Poe Valley - 51,State Treasurer,,DEM,Randall Edwards,6
+Klamath,Shasta - 52,State Treasurer,,DEM,Randall Edwards,47
+Klamath,Sprague River - 53,State Treasurer,,DEM,Randall Edwards,32
+Klamath,Steams - 54,State Treasurer,,DEM,Randall Edwards,58
+Klamath,St. Francis - 55,State Treasurer,,DEM,Randall Edwards,25
+Klamath,Stukel - 56,State Treasurer,,DEM,Randall Edwards,24
+Klamath,Sunset - 57,State Treasurer,,DEM,Randall Edwards,55
+Klamath,Tonatee - 58,State Treasurer,,DEM,Randall Edwards,68
+Klamath,Villa - 59,State Treasurer,,DEM,Randall Edwards,47
+Klamath,Williamson - 60,State Treasurer,,DEM,Randall Edwards,29
+Klamath,Winema - 61,State Treasurer,,DEM,Randall Edwards,60
+Klamath,Wocus - 62,State Treasurer,,DEM,Randall Edwards,38
+Klamath,Wood River - 63,State Treasurer,,DEM,Randall Edwards,87
+Klamath,,State Treasurer,,DEM,Randall Edwards,2465
+Klamath,1 & 11,State Treasurer,,DEM,Gary Bruebaker,146
+Klamath,2,State Treasurer,,DEM,Gary Bruebaker,32
+Klamath,3,State Treasurer,,DEM,Gary Bruebaker,42
+Klamath,4,State Treasurer,,DEM,Gary Bruebaker,11
+Klamath,5,State Treasurer,,DEM,Gary Bruebaker,53
+Klamath,6,State Treasurer,,DEM,Gary Bruebaker,63
+Klamath,7,State Treasurer,,DEM,Gary Bruebaker,29
+Klamath,8,State Treasurer,,DEM,Gary Bruebaker,69
+Klamath,9,State Treasurer,,DEM,Gary Bruebaker,69
+Klamath,10,State Treasurer,,DEM,Gary Bruebaker,47
+Klamath,12,State Treasurer,,DEM,Gary Bruebaker,36
+Klamath,13,State Treasurer,,DEM,Gary Bruebaker,36
+Klamath,14,State Treasurer,,DEM,Gary Bruebaker,60
+Klamath,15,State Treasurer,,DEM,Gary Bruebaker,58
+Klamath,16,State Treasurer,,DEM,Gary Bruebaker,47
+Klamath,17,State Treasurer,,DEM,Gary Bruebaker,27
+Klamath,Altamont - 18,State Treasurer,,DEM,Gary Bruebaker,86
+Klamath,Beatty - 19,State Treasurer,,DEM,Gary Bruebaker,15
+Klamath,Bly - 20,State Treasurer,,DEM,Gary Bruebaker,27
+Klamath,Bonanza - 21,State Treasurer,,DEM,Gary Bruebaker,14
+Klamath,Bryant - 22,State Treasurer,,DEM,Gary Bruebaker,37
+Klamath,Canal - 23,State Treasurer,,DEM,Gary Bruebaker,61
+Klamath,Chemult - 24,State Treasurer,,DEM,Gary Bruebaker,14
+Klamath,Chiloquin - 25,State Treasurer,,DEM,Gary Bruebaker,19
+Klamath,Dairy - 26,State Treasurer,,DEM,Gary Bruebaker,30
+Klamath,Elmwood - 27,State Treasurer,,DEM,Gary Bruebaker,37
+Klamath,Enterprise - 28,State Treasurer,,DEM,Gary Bruebaker,60
+Klamath,Etna - 29,State Treasurer,,DEM,Gary Bruebaker,38
+Klamath,Ferguson - 30,State Treasurer,,DEM,Gary Bruebaker,83
+Klamath,Gilchrist - 31,State Treasurer,,DEM,Gary Bruebaker,101
+Klamath,Hager - 32,State Treasurer,,DEM,Gary Bruebaker,47
+Klamath,Henley - 33,State Treasurer,,DEM,Gary Bruebaker,71
+Klamath,Hilyard - 34,State Treasurer,,DEM,Gary Bruebaker,45
+Klamath,Homecrest - 35,State Treasurer,,DEM,Gary Bruebaker,30
+Klamath,Homedale - 36,State Treasurer,,DEM,Gary Bruebaker,42
+Klamath,Keno - 37,State Treasurer,,DEM,Gary Bruebaker,149
+Klamath,Klamath Lake - 38,State Treasurer,,DEM,Gary Bruebaker,11
+Klamath,Lakeshore - 39,State Treasurer,,DEM,Gary Bruebaker,10
+Klamath,Langell Valley - 40,State Treasurer,,DEM,Gary Bruebaker,11
+Klamath,Lost River - 41,State Treasurer,,DEM,Gary Bruebaker,30
+Klamath,Malin - 42,State Treasurer,,DEM,Gary Bruebaker,9
+Klamath,Mazama - 43,State Treasurer,,DEM,Gary Bruebaker,61
+Klamath,Menill - 44,State Treasurer,,DEM,Gary Bruebaker,31
+Klamath,Midland - 45,State Treasurer,,DEM,Gary Bruebaker,86
+Klamath,Moyina - 46,State Treasurer,,DEM,Gary Bruebaker,96
+Klamath,Odell - 47,State Treasurer,,DEM,Gary Bruebaker,29
+Klamath,Odessa - 48,State Treasurer,,DEM,Gary Bruebaker,7
+Klamath,Orindale - 49,State Treasurer,,DEM,Gary Bruebaker,92
+Klamath,Pine Grove - 50,State Treasurer,,DEM,Gary Bruebaker,47
+Klamath,Poe Valley - 51,State Treasurer,,DEM,Gary Bruebaker,3
+Klamath,Shasta - 52,State Treasurer,,DEM,Gary Bruebaker,40
+Klamath,Sprague River - 53,State Treasurer,,DEM,Gary Bruebaker,44
+Klamath,Steams - 54,State Treasurer,,DEM,Gary Bruebaker,93
+Klamath,St. Francis - 55,State Treasurer,,DEM,Gary Bruebaker,38
+Klamath,Stukel - 56,State Treasurer,,DEM,Gary Bruebaker,18
+Klamath,Sunset - 57,State Treasurer,,DEM,Gary Bruebaker,81
+Klamath,Tonatee - 58,State Treasurer,,DEM,Gary Bruebaker,46
+Klamath,Villa - 59,State Treasurer,,DEM,Gary Bruebaker,51
+Klamath,Williamson - 60,State Treasurer,,DEM,Gary Bruebaker,39
+Klamath,Winema - 61,State Treasurer,,DEM,Gary Bruebaker,77
+Klamath,Wocus - 62,State Treasurer,,DEM,Gary Bruebaker,39
+Klamath,Wood River - 63,State Treasurer,,DEM,Gary Bruebaker,79
+Klamath,,State Treasurer,,DEM,Gary Bruebaker,2999
+Klamath,1,Attorney General,,DEM,Hardy Myers,133
+Klamath,2,Attorney General,,DEM,Hardy Myers,62
+Klamath,3,Attorney General,,DEM,Hardy Myers,96
+Klamath,4,Attorney General,,DEM,Hardy Myers,24
+Klamath,5,Attorney General,,DEM,Hardy Myers,89
+Klamath,6,Attorney General,,DEM,Hardy Myers,111
+Klamath,7,Attorney General,,DEM,Hardy Myers,58
+Klamath,8,Attorney General,,DEM,Hardy Myers,109
+Klamath,9,Attorney General,,DEM,Hardy Myers,105
+Klamath,10,Attorney General,,DEM,Hardy Myers,67
+Klamath,11,Attorney General,,DEM,Hardy Myers,111
+Klamath,12,Attorney General,,DEM,Hardy Myers,63
+Klamath,13,Attorney General,,DEM,Hardy Myers,84
+Klamath,14,Attorney General,,DEM,Hardy Myers,84
+Klamath,15,Attorney General,,DEM,Hardy Myers,99
+Klamath,16,Attorney General,,DEM,Hardy Myers,86
+Klamath,17,Attorney General,,DEM,Hardy Myers,45
+Klamath,Altamont - 18,Attorney General,,DEM,Hardy Myers,137
+Klamath,Beatty - 19,Attorney General,,DEM,Hardy Myers,29
+Klamath,Bly - 20,Attorney General,,DEM,Hardy Myers,42
+Klamath,Bonanza - 21,Attorney General,,DEM,Hardy Myers,22
+Klamath,Bryant - 22,Attorney General,,DEM,Hardy Myers,53
+Klamath,Canal - 23,Attorney General,,DEM,Hardy Myers,86
+Klamath,Chemult - 24,Attorney General,,DEM,Hardy Myers,21
+Klamath,Chiloquin - 25,Attorney General,,DEM,Hardy Myers,31
+Klamath,Dairy - 26,Attorney General,,DEM,Hardy Myers,37
+Klamath,Elmwood - 27,Attorney General,,DEM,Hardy Myers,55
+Klamath,Enterprise - 28,Attorney General,,DEM,Hardy Myers,98
+Klamath,Etna - 29,Attorney General,,DEM,Hardy Myers,77
+Klamath,Ferguson - 30,Attorney General,,DEM,Hardy Myers,125
+Klamath,Gilchrist - 31,Attorney General,,DEM,Hardy Myers,185
+Klamath,Hager - 32,Attorney General,,DEM,Hardy Myers,80
+Klamath,Henley - 33,Attorney General,,DEM,Hardy Myers,139
+Klamath,Hilyard - 34,Attorney General,,DEM,Hardy Myers,83
+Klamath,Homecrest - 35,Attorney General,,DEM,Hardy Myers,42
+Klamath,Homedale - 36,Attorney General,,DEM,Hardy Myers,69
+Klamath,Keno - 37,Attorney General,,DEM,Hardy Myers,238
+Klamath,Klamath Lake - 38,Attorney General,,DEM,Hardy Myers,19
+Klamath,Lakeshore - 39,Attorney General,,DEM,Hardy Myers,19
+Klamath,Langell Valley - 40,Attorney General,,DEM,Hardy Myers,22
+Klamath,Lost River - 41,Attorney General,,DEM,Hardy Myers,56
+Klamath,Malin - 42,Attorney General,,DEM,Hardy Myers,20
+Klamath,Mazama - 43,Attorney General,,DEM,Hardy Myers,113
+Klamath,Menill - 44,Attorney General,,DEM,Hardy Myers,56
+Klamath,Midland - 45,Attorney General,,DEM,Hardy Myers,133
+Klamath,Moyina - 46,Attorney General,,DEM,Hardy Myers,187
+Klamath,Odell - 47,Attorney General,,DEM,Hardy Myers,48
+Klamath,Odessa - 48,Attorney General,,DEM,Hardy Myers,10
+Klamath,Orindale - 49,Attorney General,,DEM,Hardy Myers,134
+Klamath,Pine Grove - 50,Attorney General,,DEM,Hardy Myers,68
+Klamath,Poe Valley - 51,Attorney General,,DEM,Hardy Myers,8
+Klamath,Shasta - 52,Attorney General,,DEM,Hardy Myers,86
+Klamath,Sprague River - 53,Attorney General,,DEM,Hardy Myers,67
+Klamath,Steams - 54,Attorney General,,DEM,Hardy Myers,129
+Klamath,St. Francis - 55,Attorney General,,DEM,Hardy Myers,60
+Klamath,Stukel - 56,Attorney General,,DEM,Hardy Myers,45
+Klamath,Sunset - 57,Attorney General,,DEM,Hardy Myers,112
+Klamath,Tonatee - 58,Attorney General,,DEM,Hardy Myers,105
+Klamath,Villa - 59,Attorney General,,DEM,Hardy Myers,92
+Klamath,Williamson - 60,Attorney General,,DEM,Hardy Myers,62
+Klamath,Winema - 61,Attorney General,,DEM,Hardy Myers,128
+Klamath,Wocus - 62,Attorney General,,DEM,Hardy Myers,61
+Klamath,Wood River - 63,Attorney General,,DEM,Hardy Myers,152
+Klamath,,Attorney General,,DEM,Hardy Myers,5067
+Klamath,1 & 11,State Treasurer,,DEM,Write-ins,1
+Klamath,2,State Treasurer,,DEM,Write-ins,
+Klamath,3,State Treasurer,,DEM,Write-ins,
+Klamath,4,State Treasurer,,DEM,Write-ins,
+Klamath,5,State Treasurer,,DEM,Write-ins,
+Klamath,6,State Treasurer,,DEM,Write-ins,3
+Klamath,7,State Treasurer,,DEM,Write-ins,
+Klamath,8,State Treasurer,,DEM,Write-ins,1
+Klamath,9,State Treasurer,,DEM,Write-ins,
+Klamath,10,State Treasurer,,DEM,Write-ins,
+Klamath,12,State Treasurer,,DEM,Write-ins,1
+Klamath,13,State Treasurer,,DEM,Write-ins,1
+Klamath,14,State Treasurer,,DEM,Write-ins,
+Klamath,15,State Treasurer,,DEM,Write-ins,1
+Klamath,16,State Treasurer,,DEM,Write-ins,2
+Klamath,17,State Treasurer,,DEM,Write-ins,
+Klamath,Altamont - 18,State Treasurer,,DEM,Write-ins,1
+Klamath,Beatty - 19,State Treasurer,,DEM,Write-ins,
+Klamath,Bly - 20,State Treasurer,,DEM,Write-ins,
+Klamath,Bonanza - 21,State Treasurer,,DEM,Write-ins,
+Klamath,Bryant - 22,State Treasurer,,DEM,Write-ins,
+Klamath,Canal - 23,State Treasurer,,DEM,Write-ins,
+Klamath,Chemult - 24,State Treasurer,,DEM,Write-ins,2
+Klamath,Chiloquin - 25,State Treasurer,,DEM,Write-ins,
+Klamath,Dairy - 26,State Treasurer,,DEM,Write-ins,3
+Klamath,Elmwood - 27,State Treasurer,,DEM,Write-ins,
+Klamath,Enterprise - 28,State Treasurer,,DEM,Write-ins,1
+Klamath,Etna - 29,State Treasurer,,DEM,Write-ins,
+Klamath,Ferguson - 30,State Treasurer,,DEM,Write-ins,
+Klamath,Gilchrist - 31,State Treasurer,,DEM,Write-ins,1
+Klamath,Hager - 32,State Treasurer,,DEM,Write-ins,
+Klamath,Henley - 33,State Treasurer,,DEM,Write-ins,1
+Klamath,Hilyard - 34,State Treasurer,,DEM,Write-ins,
+Klamath,Homecrest - 35,State Treasurer,,DEM,Write-ins,
+Klamath,Homedale - 36,State Treasurer,,DEM,Write-ins,
+Klamath,Keno - 37,State Treasurer,,DEM,Write-ins,1
+Klamath,Klamath Lake - 38,State Treasurer,,DEM,Write-ins,
+Klamath,Lakeshore - 39,State Treasurer,,DEM,Write-ins,
+Klamath,Langell Valley - 40,State Treasurer,,DEM,Write-ins,1
+Klamath,Lost River - 41,State Treasurer,,DEM,Write-ins,1
+Klamath,Malin - 42,State Treasurer,,DEM,Write-ins,
+Klamath,Mazama - 43,State Treasurer,,DEM,Write-ins,
+Klamath,Menill - 44,State Treasurer,,DEM,Write-ins,
+Klamath,Midland - 45,State Treasurer,,DEM,Write-ins,2
+Klamath,Moyina - 46,State Treasurer,,DEM,Write-ins,1
+Klamath,Odell - 47,State Treasurer,,DEM,Write-ins,
+Klamath,Odessa - 48,State Treasurer,,DEM,Write-ins,
+Klamath,Orindale - 49,State Treasurer,,DEM,Write-ins,1
+Klamath,Pine Grove - 50,State Treasurer,,DEM,Write-ins,
+Klamath,Poe Valley - 51,State Treasurer,,DEM,Write-ins,
+Klamath,Shasta - 52,State Treasurer,,DEM,Write-ins,
+Klamath,Sprague River - 53,State Treasurer,,DEM,Write-ins,1
+Klamath,Steams - 54,State Treasurer,,DEM,Write-ins,1
+Klamath,St. Francis - 55,State Treasurer,,DEM,Write-ins,
+Klamath,Stukel - 56,State Treasurer,,DEM,Write-ins,
+Klamath,Sunset - 57,State Treasurer,,DEM,Write-ins,1
+Klamath,Tonatee - 58,State Treasurer,,DEM,Write-ins,1
+Klamath,Villa - 59,State Treasurer,,DEM,Write-ins,
+Klamath,Williamson - 60,State Treasurer,,DEM,Write-ins,
+Klamath,Winema - 61,State Treasurer,,DEM,Write-ins,1
+Klamath,Wocus - 62,State Treasurer,,DEM,Write-ins,
+Klamath,Wood River - 63,State Treasurer,,DEM,Write-ins,1
+Klamath,,State Treasurer,,DEM,Write-ins,32
+Klamath,1,U.S. House,2,DEM,Write-ins,6
+Klamath,2,U.S. House,2,DEM,Write-ins,1
+Klamath,3,U.S. House,2,DEM,Write-ins,3
+Klamath,4,U.S. House,2,DEM,Write-ins,
+Klamath,5,U.S. House,2,DEM,Write-ins,4
+Klamath,6,U.S. House,2,DEM,Write-ins,3
+Klamath,7,U.S. House,2,DEM,Write-ins,
+Klamath,8,U.S. House,2,DEM,Write-ins,2
+Klamath,9,U.S. House,2,DEM,Write-ins,1
+Klamath,10,U.S. House,2,DEM,Write-ins,1
+Klamath,11,U.S. House,2,DEM,Write-ins,3
+Klamath,12,U.S. House,2,DEM,Write-ins,1
+Klamath,13,U.S. House,2,DEM,Write-ins,3
+Klamath,14,U.S. House,2,DEM,Write-ins,1
+Klamath,15,U.S. House,2,DEM,Write-ins,4
+Klamath,16,U.S. House,2,DEM,Write-ins,3
+Klamath,17,U.S. House,2,DEM,Write-ins,
+Klamath,Altamont - 18,U.S. House,2,DEM,Write-ins,4
+Klamath,Beatty - 19,U.S. House,2,DEM,Write-ins,2
+Klamath,Bly - 20,U.S. House,2,DEM,Write-ins,2
+Klamath,Bonanza - 21,U.S. House,2,DEM,Write-ins,
+Klamath,Bryant - 22,U.S. House,2,DEM,Write-ins,
+Klamath,Canal - 23,U.S. House,2,DEM,Write-ins,3
+Klamath,Chemult - 24,U.S. House,2,DEM,Write-ins,2
+Klamath,Chiloquin - 25,U.S. House,2,DEM,Write-ins,
+Klamath,Dairy - 26,U.S. House,2,DEM,Write-ins,5
+Klamath,Elmwood - 27,U.S. House,2,DEM,Write-ins,3
+Klamath,Enterprise - 28,U.S. House,2,DEM,Write-ins,2
+Klamath,Etna - 29,U.S. House,2,DEM,Write-ins,1
+Klamath,Ferguson - 30,U.S. House,2,DEM,Write-ins,2
+Klamath,Gilchrist - 31,U.S. House,2,DEM,Write-ins,3
+Klamath,Hager - 32,U.S. House,2,DEM,Write-ins,1
+Klamath,Henley - 33,U.S. House,2,DEM,Write-ins,2
+Klamath,Hilyard - 34,U.S. House,2,DEM,Write-ins,
+Klamath,Homecrest - 35,U.S. House,2,DEM,Write-ins,
+Klamath,Homedale - 36,U.S. House,2,DEM,Write-ins,2
+Klamath,Keno - 37,U.S. House,2,DEM,Write-ins,10
+Klamath,Klamath Lake - 38,U.S. House,2,DEM,Write-ins,
+Klamath,Lakeshore - 39,U.S. House,2,DEM,Write-ins,
+Klamath,Langell Valley - 40,U.S. House,2,DEM,Write-ins,2
+Klamath,Lost River - 41,U.S. House,2,DEM,Write-ins,6
+Klamath,Malin - 42,U.S. House,2,DEM,Write-ins,1
+Klamath,Mazama - 43,U.S. House,2,DEM,Write-ins,4
+Klamath,Menill - 44,U.S. House,2,DEM,Write-ins,
+Klamath,Midland - 45,U.S. House,2,DEM,Write-ins,3
+Klamath,Moyina - 46,U.S. House,2,DEM,Write-ins,2
+Klamath,Odell - 47,U.S. House,2,DEM,Write-ins,
+Klamath,Odessa - 48,U.S. House,2,DEM,Write-ins,
+Klamath,Orindale - 49,U.S. House,2,DEM,Write-ins,4
+Klamath,Pine Grove - 50,U.S. House,2,DEM,Write-ins,2
+Klamath,Poe Valley - 51,U.S. House,2,DEM,Write-ins,
+Klamath,Shasta - 52,U.S. House,2,DEM,Write-ins,4
+Klamath,Sprague River - 53,U.S. House,2,DEM,Write-ins,2
+Klamath,Steams - 54,U.S. House,2,DEM,Write-ins,2
+Klamath,St. Francis - 55,U.S. House,2,DEM,Write-ins,1
+Klamath,Stukel - 56,U.S. House,2,DEM,Write-ins,
+Klamath,Sunset - 57,U.S. House,2,DEM,Write-ins,1
+Klamath,Tonatee - 58,U.S. House,2,DEM,Write-ins,1
+Klamath,Villa - 59,U.S. House,2,DEM,Write-ins,1
+Klamath,Williamson - 60,U.S. House,2,DEM,Write-ins,3
+Klamath,Winema - 61,U.S. House,2,DEM,Write-ins,1
+Klamath,Wocus - 62,U.S. House,2,DEM,Write-ins,2
+Klamath,Wood River - 63,U.S. House,2,DEM,Write-ins,5
+Klamath,,U.S. House,2,DEM,Write-ins,127
+Klamath,1,Secretary of State,,DEM,Write-ins,2
+Klamath,2,Secretary of State,,DEM,Write-ins,2
+Klamath,3,Secretary of State,,DEM,Write-ins,
+Klamath,4,Secretary of State,,DEM,Write-ins,1
+Klamath,5,Secretary of State,,DEM,Write-ins,3
+Klamath,6,Secretary of State,,DEM,Write-ins,2
+Klamath,7,Secretary of State,,DEM,Write-ins,
+Klamath,8,Secretary of State,,DEM,Write-ins,2
+Klamath,9,Secretary of State,,DEM,Write-ins,
+Klamath,10,Secretary of State,,DEM,Write-ins,1
+Klamath,11,Secretary of State,,DEM,Write-ins,3
+Klamath,12,Secretary of State,,DEM,Write-ins,2
+Klamath,13,Secretary of State,,DEM,Write-ins,
+Klamath,14,Secretary of State,,DEM,Write-ins,1
+Klamath,15,Secretary of State,,DEM,Write-ins,3
+Klamath,16,Secretary of State,,DEM,Write-ins,3
+Klamath,17,Secretary of State,,DEM,Write-ins,
+Klamath,Altamont - 18,Secretary of State,,DEM,Write-ins,4
+Klamath,Beatty - 19,Secretary of State,,DEM,Write-ins,
+Klamath,Bly - 20,Secretary of State,,DEM,Write-ins,4
+Klamath,Bonanza - 21,Secretary of State,,DEM,Write-ins,
+Klamath,Bryant - 22,Secretary of State,,DEM,Write-ins,1
+Klamath,Canal - 23,Secretary of State,,DEM,Write-ins,
+Klamath,Chemult - 24,Secretary of State,,DEM,Write-ins,2
+Klamath,Chiloquin - 25,Secretary of State,,DEM,Write-ins,
+Klamath,Dairy - 26,Secretary of State,,DEM,Write-ins,4
+Klamath,Elmwood - 27,Secretary of State,,DEM,Write-ins,
+Klamath,Enterprise - 28,Secretary of State,,DEM,Write-ins,1
+Klamath,Etna - 29,Secretary of State,,DEM,Write-ins,3
+Klamath,Ferguson - 30,Secretary of State,,DEM,Write-ins,4
+Klamath,Gilchrist - 31,Secretary of State,,DEM,Write-ins,1
+Klamath,Hager - 32,Secretary of State,,DEM,Write-ins,1
+Klamath,Henley - 33,Secretary of State,,DEM,Write-ins,1
+Klamath,Hilyard - 34,Secretary of State,,DEM,Write-ins,
+Klamath,Homecrest - 35,Secretary of State,,DEM,Write-ins,1
+Klamath,Homedale - 36,Secretary of State,,DEM,Write-ins,1
+Klamath,Keno - 37,Secretary of State,,DEM,Write-ins,11
+Klamath,Klamath Lake - 38,Secretary of State,,DEM,Write-ins,
+Klamath,Lakeshore - 39,Secretary of State,,DEM,Write-ins,
+Klamath,Langell Valley - 40,Secretary of State,,DEM,Write-ins,1
+Klamath,Lost River - 41,Secretary of State,,DEM,Write-ins,1
+Klamath,Malin - 42,Secretary of State,,DEM,Write-ins,1
+Klamath,Mazama - 43,Secretary of State,,DEM,Write-ins,3
+Klamath,Menill - 44,Secretary of State,,DEM,Write-ins,1
+Klamath,Midland - 45,Secretary of State,,DEM,Write-ins,1
+Klamath,Moyina - 46,Secretary of State,,DEM,Write-ins,1
+Klamath,Odell - 47,Secretary of State,,DEM,Write-ins,
+Klamath,Odessa - 48,Secretary of State,,DEM,Write-ins,
+Klamath,Orindale - 49,Secretary of State,,DEM,Write-ins,4
+Klamath,Pine Grove - 50,Secretary of State,,DEM,Write-ins,2
+Klamath,Poe Valley - 51,Secretary of State,,DEM,Write-ins,
+Klamath,Shasta - 52,Secretary of State,,DEM,Write-ins,4
+Klamath,Sprague River - 53,Secretary of State,,DEM,Write-ins,1
+Klamath,Steams - 54,Secretary of State,,DEM,Write-ins,2
+Klamath,St. Francis - 55,Secretary of State,,DEM,Write-ins,1
+Klamath,Stukel - 56,Secretary of State,,DEM,Write-ins,
+Klamath,Sunset - 57,Secretary of State,,DEM,Write-ins,1
+Klamath,Tonatee - 58,Secretary of State,,DEM,Write-ins,3
+Klamath,Villa - 59,Secretary of State,,DEM,Write-ins,1
+Klamath,Williamson - 60,Secretary of State,,DEM,Write-ins,3
+Klamath,Winema - 61,Secretary of State,,DEM,Write-ins,2
+Klamath,Wocus - 62,Secretary of State,,DEM,Write-ins,3
+Klamath,Wood River - 63,Secretary of State,,DEM,Write-ins,5
+Klamath,,Secretary of State,,DEM,Write-ins,105
+Klamath,1,Attorney General,,DEM,Write-ins,1
+Klamath,2,Attorney General,,DEM,Write-ins,
+Klamath,3,Attorney General,,DEM,Write-ins,
+Klamath,4,Attorney General,,DEM,Write-ins,
+Klamath,5,Attorney General,,DEM,Write-ins,1
+Klamath,6,Attorney General,,DEM,Write-ins,
+Klamath,7,Attorney General,,DEM,Write-ins,
+Klamath,8,Attorney General,,DEM,Write-ins,1
+Klamath,9,Attorney General,,DEM,Write-ins,
+Klamath,10,Attorney General,,DEM,Write-ins,1
+Klamath,11,Attorney General,,DEM,Write-ins,
+Klamath,12,Attorney General,,DEM,Write-ins,1
+Klamath,13,Attorney General,,DEM,Write-ins,
+Klamath,14,Attorney General,,DEM,Write-ins,
+Klamath,15,Attorney General,,DEM,Write-ins,1
+Klamath,16,Attorney General,,DEM,Write-ins,1
+Klamath,17,Attorney General,,DEM,Write-ins,
+Klamath,Altamont - 18,Attorney General,,DEM,Write-ins,3
+Klamath,Beatty - 19,Attorney General,,DEM,Write-ins,1
+Klamath,Bly - 20,Attorney General,,DEM,Write-ins,2
+Klamath,Bonanza - 21,Attorney General,,DEM,Write-ins,
+Klamath,Bryant - 22,Attorney General,,DEM,Write-ins,1
+Klamath,Canal - 23,Attorney General,,DEM,Write-ins,
+Klamath,Chemult - 24,Attorney General,,DEM,Write-ins,2
+Klamath,Chiloquin - 25,Attorney General,,DEM,Write-ins,
+Klamath,Dairy - 26,Attorney General,,DEM,Write-ins,3
+Klamath,Elmwood - 27,Attorney General,,DEM,Write-ins,2
+Klamath,Enterprise - 28,Attorney General,,DEM,Write-ins,3
+Klamath,Etna - 29,Attorney General,,DEM,Write-ins,
+Klamath,Ferguson - 30,Attorney General,,DEM,Write-ins,2
+Klamath,Gilchrist - 31,Attorney General,,DEM,Write-ins,1
+Klamath,Hager - 32,Attorney General,,DEM,Write-ins,
+Klamath,Henley - 33,Attorney General,,DEM,Write-ins,1
+Klamath,Hilyard - 34,Attorney General,,DEM,Write-ins,
+Klamath,Homecrest - 35,Attorney General,,DEM,Write-ins,
+Klamath,Homedale - 36,Attorney General,,DEM,Write-ins,2
+Klamath,Keno - 37,Attorney General,,DEM,Write-ins,4
+Klamath,Klamath Lake - 38,Attorney General,,DEM,Write-ins,
+Klamath,Lakeshore - 39,Attorney General,,DEM,Write-ins,
+Klamath,Langell Valley - 40,Attorney General,,DEM,Write-ins,1
+Klamath,Lost River - 41,Attorney General,,DEM,Write-ins,
+Klamath,Malin - 42,Attorney General,,DEM,Write-ins,
+Klamath,Mazama - 43,Attorney General,,DEM,Write-ins,3
+Klamath,Menill - 44,Attorney General,,DEM,Write-ins,
+Klamath,Midland - 45,Attorney General,,DEM,Write-ins,3
+Klamath,Moyina - 46,Attorney General,,DEM,Write-ins,1
+Klamath,Odell - 47,Attorney General,,DEM,Write-ins,
+Klamath,Odessa - 48,Attorney General,,DEM,Write-ins,
+Klamath,Orindale - 49,Attorney General,,DEM,Write-ins,1
+Klamath,Pine Grove - 50,Attorney General,,DEM,Write-ins,
+Klamath,Poe Valley - 51,Attorney General,,DEM,Write-ins,
+Klamath,Shasta - 52,Attorney General,,DEM,Write-ins,2
+Klamath,Sprague River - 53,Attorney General,,DEM,Write-ins,1
+Klamath,Steams - 54,Attorney General,,DEM,Write-ins,2
+Klamath,St. Francis - 55,Attorney General,,DEM,Write-ins,2
+Klamath,Stukel - 56,Attorney General,,DEM,Write-ins,
+Klamath,Sunset - 57,Attorney General,,DEM,Write-ins,1
+Klamath,Tonatee - 58,Attorney General,,DEM,Write-ins,1
+Klamath,Villa - 59,Attorney General,,DEM,Write-ins,
+Klamath,Williamson - 60,Attorney General,,DEM,Write-ins,1
+Klamath,Winema - 61,Attorney General,,DEM,Write-ins,
+Klamath,Wocus - 62,Attorney General,,DEM,Write-ins,
+Klamath,Wood River - 63,Attorney General,,DEM,Write-ins,2
+Klamath,,Attorney General,,DEM,Write-ins,55
+Klamath,1,State House,53,DEM,Wayne P. Snoozy,145
+Klamath,2,State House,53,DEM,Wayne P. Snoozy,85
+Klamath,3,State House,53,DEM,Wayne P. Snoozy,104
+Klamath,4,State House,53,DEM,Wayne P. Snoozy,29
+Klamath,5,State House,53,DEM,Wayne P. Snoozy,91
+Klamath,6,State House,53,DEM,Wayne P. Snoozy,118
+Klamath,7,State House,53,DEM,Wayne P. Snoozy,62
+Klamath,8,State House,53,DEM,Wayne P. Snoozy,115
+Klamath,9,State House,53,DEM,Wayne P. Snoozy,104
+Klamath,10,State House,53,DEM,Wayne P. Snoozy,67
+Klamath,11,State House,53,DEM,Wayne P. Snoozy,115
+Klamath,12,State House,53,DEM,Wayne P. Snoozy,63
+Klamath,13,State House,53,DEM,Wayne P. Snoozy,89
+Klamath,14,State House,53,DEM,Wayne P. Snoozy,85
+Klamath,15,State House,53,DEM,Wayne P. Snoozy,107
+Klamath,16,State House,53,DEM,Wayne P. Snoozy,91
+Klamath,17,State House,53,DEM,Wayne P. Snoozy,48
+Klamath,Altamont - 18,State House,53,DEM,Wayne P. Snoozy,146
+Klamath,Bryant - 22,State House,53,DEM,Wayne P. Snoozy,63
+Klamath,Canal - 23,State House,53,DEM,Wayne P. Snoozy,95
+Klamath,Elmwood - 27,State House,53,DEM,Wayne P. Snoozy,63
+Klamath,Enterprise - 28,State House,53,DEM,Wayne P. Snoozy,110
+Klamath,Etna - 29,State House,53,DEM,Wayne P. Snoozy,90
+Klamath,Ferguson - 30,State House,53,DEM,Wayne P. Snoozy,139
+Klamath,Hager - 32,State House,53,DEM,Wayne P. Snoozy,81
+Klamath,Henley - 33,State House,53,DEM,Wayne P. Snoozy,159
+Klamath,Hilyard - 34,State House,53,DEM,Wayne P. Snoozy,87
+Klamath,Homecrest - 35,State House,53,DEM,Wayne P. Snoozy,41
+Klamath,Homedale - 36,State House,53,DEM,Wayne P. Snoozy,76
+Klamath,Keno - 37,State House,53,DEM,Wayne P. Snoozy,262
+Klamath,Lakeshore - 39,State House,53,DEM,Wayne P. Snoozy,18
+Klamath,Malin - 42,State House,53,DEM,Wayne P. Snoozy,23
+Klamath,Mazama - 43,State House,53,DEM,Wayne P. Snoozy,122
+Klamath,Menill - 44,State House,53,DEM,Wayne P. Snoozy,149
+Klamath,Midland - 45,State House,53,DEM,Wayne P. Snoozy,204
+Klamath,Odessa - 48,State House,53,DEM,Wayne P. Snoozy,10
+Klamath,Orindale - 49,State House,53,DEM,Wayne P. Snoozy,161
+Klamath,Poe Valley - 51,State House,53,DEM,Wayne P. Snoozy,9
+Klamath,Shasta - 52,State House,53,DEM,Wayne P. Snoozy,89
+Klamath,Steams - 54,State House,53,DEM,Wayne P. Snoozy,147
+Klamath,St. Francis - 55,State House,53,DEM,Wayne P. Snoozy,57
+Klamath,Stukel - 56,State House,53,DEM,Wayne P. Snoozy,50
+Klamath,Sunset - 57,State House,53,DEM,Wayne P. Snoozy,126
+Klamath,Tonatee - 58,State House,53,DEM,Wayne P. Snoozy,109
+Klamath,Villa - 59,State House,53,DEM,Wayne P. Snoozy,102
+Klamath,Winema - 61,State House,53,DEM,Wayne P. Snoozy,142
+Klamath,,State House,53,DEM,Wayne P. Snoozy,4481
+Klamath,1,State House,53,DEM,Write-ins,
+Klamath,2,State House,53,DEM,Write-ins,
+Klamath,3,State House,53,DEM,Write-ins,1
+Klamath,4,State House,53,DEM,Write-ins,
+Klamath,5,State House,53,DEM,Write-ins,2
+Klamath,6,State House,53,DEM,Write-ins,2
+Klamath,7,State House,53,DEM,Write-ins,
+Klamath,8,State House,53,DEM,Write-ins,1
+Klamath,9,State House,53,DEM,Write-ins,1
+Klamath,10,State House,53,DEM,Write-ins,1
+Klamath,11,State House,53,DEM,Write-ins,1
+Klamath,12,State House,53,DEM,Write-ins,
+Klamath,13,State House,53,DEM,Write-ins,3
+Klamath,14,State House,53,DEM,Write-ins,`
+Klamath,15,State House,53,DEM,Write-ins,2
+Klamath,16,State House,53,DEM,Write-ins,1
+Klamath,17,State House,53,DEM,Write-ins,
+Klamath,Altamont - 18,State House,53,DEM,Write-ins,1
+Klamath,Bryant - 22,State House,53,DEM,Write-ins,
+Klamath,Canal - 23,State House,53,DEM,Write-ins,
+Klamath,Elmwood - 27,State House,53,DEM,Write-ins,2
+Klamath,Enterprise - 28,State House,53,DEM,Write-ins,1
+Klamath,Etna - 29,State House,53,DEM,Write-ins,2
+Klamath,Ferguson - 30,State House,53,DEM,Write-ins,
+Klamath,Hager - 32,State House,53,DEM,Write-ins,2
+Klamath,Henley - 33,State House,53,DEM,Write-ins,
+Klamath,Hilyard - 34,State House,53,DEM,Write-ins,2
+Klamath,Homecrest - 35,State House,53,DEM,Write-ins,1
+Klamath,Homedale - 36,State House,53,DEM,Write-ins,2
+Klamath,Keno - 37,State House,53,DEM,Write-ins,2
+Klamath,Lakeshore - 39,State House,53,DEM,Write-ins,
+Klamath,Malin - 42,State House,53,DEM,Write-ins,
+Klamath,Mazama - 43,State House,53,DEM,Write-ins,2
+Klamath,Menill - 44,State House,53,DEM,Write-ins,3
+Klamath,Midland - 45,State House,53,DEM,Write-ins,2
+Klamath,Odessa - 48,State House,53,DEM,Write-ins,
+Klamath,Orindale - 49,State House,53,DEM,Write-ins,2
+Klamath,Poe Valley - 51,State House,53,DEM,Write-ins,
+Klamath,Shasta - 52,State House,53,DEM,Write-ins,2
+Klamath,Steams - 54,State House,53,DEM,Write-ins,
+Klamath,St. Francis - 55,State House,53,DEM,Write-ins,2
+Klamath,Stukel - 56,State House,53,DEM,Write-ins,
+Klamath,Sunset - 57,State House,53,DEM,Write-ins,2
+Klamath,Tonatee - 58,State House,53,DEM,Write-ins,4
+Klamath,Villa - 59,State House,53,DEM,Write-ins,
+Klamath,Winema - 61,State House,53,DEM,Write-ins,1
+Klamath,,State House,53,DEM,Write-ins,51
+Klamath,Gilchrist - 31,State House,54,DEM,Ken Cooper,169
+Klamath,Klamath Lake - 38,State House,54,DEM,Ken Cooper,18
+Klamath,Wood River - 63,State House,54,DEM,Ken Cooper,135
+Klamath,,State House,54,DEM,Ken Cooper,322
+Klamath,Gilchrist - 31,State House,54,DEM,Write-ins,5
+Klamath,Klamath Lake - 38,State House,54,DEM,Write-ins,0
+Klamath,Wood River - 63,State House,54,DEM,Write-ins,1
+Klamath,,State House,54,DEM,Write-ins,6
+Klamath,Gilchrist - 31,State Senate,27,DEM,Anne N. Phillben,165
+Klamath,Klamath Lake - 38,State Senate,27,DEM,Anne N. Phillben,19
+Klamath,Wood River - 63,State Senate,27,DEM,Anne N. Phillben,136
+Klamath,,State Senate,27,DEM,Anne N. Phillben,320
+Klamath,Gilchrist - 31,State Senate,27,DEM,Write-ins,5
+Klamath,Klamath Lake - 38,State Senate,27,DEM,Write-ins,0
+Klamath,Wood River - 63,State Senate,27,DEM,Write-ins,4
+Klamath,,State Senate,27,DEM,Write-ins,9
+Klamath,1,State Senate,30,DEM,Debra M. James,118
+Klamath,2,State Senate,30,DEM,Debra M. James,57
+Klamath,3,State Senate,30,DEM,Debra M. James,84
+Klamath,4,State Senate,30,DEM,Debra M. James,23
+Klamath,5,State Senate,30,DEM,Debra M. James,80
+Klamath,6,State Senate,30,DEM,Debra M. James,97
+Klamath,7,State Senate,30,DEM,Debra M. James,48
+Klamath,8,State Senate,30,DEM,Debra M. James,107
+Klamath,9,State Senate,30,DEM,Debra M. James,95
+Klamath,10,State Senate,30,DEM,Debra M. James,59
+Klamath,11,State Senate,30,DEM,Debra M. James,97
+Klamath,12,State Senate,30,DEM,Debra M. James,54
+Klamath,13,State Senate,30,DEM,Debra M. James,72
+Klamath,14,State Senate,30,DEM,Debra M. James,71
+Klamath,15,State Senate,30,DEM,Debra M. James,92
+Klamath,16,State Senate,30,DEM,Debra M. James,74
+Klamath,17,State Senate,30,DEM,Debra M. James,42
+Klamath,Altamont - 18,State Senate,30,DEM,Debra M. James,125
+Klamath,Beatty - 19,State Senate,30,DEM,Debra M. James,25
+Klamath,Bly - 20,State Senate,30,DEM,Debra M. James,36
+Klamath,Bonanza - 21,State Senate,30,DEM,Debra M. James,19
+Klamath,Bryant - 22,State Senate,30,DEM,Debra M. James,50
+Klamath,Canal - 23,State Senate,30,DEM,Debra M. James,83
+Klamath,Chemult - 24,State Senate,30,DEM,Debra M. James,20
+Klamath,Chiloquin - 25,State Senate,30,DEM,Debra M. James,29
+Klamath,Dairy - 26,State Senate,30,DEM,Debra M. James,33
+Klamath,Elmwood - 27,State Senate,30,DEM,Debra M. James,43
+Klamath,Enterprise - 28,State Senate,30,DEM,Debra M. James,90
+Klamath,Etna - 29,State Senate,30,DEM,Debra M. James,74
+Klamath,Ferguson - 30,State Senate,30,DEM,Debra M. James,123
+Klamath,Hager - 32,State Senate,30,DEM,Debra M. James,69
+Klamath,Henley - 33,State Senate,30,DEM,Debra M. James,118
+Klamath,Hilyard - 34,State Senate,30,DEM,Debra M. James,67
+Klamath,Homecrest - 35,State Senate,30,DEM,Debra M. James,41
+Klamath,Homedale - 36,State Senate,30,DEM,Debra M. James,67
+Klamath,Keno - 37,State Senate,30,DEM,Debra M. James,216
+Klamath,Lakeshore - 39,State Senate,30,DEM,Debra M. James,14
+Klamath,Langell Valley - 40,State Senate,30,DEM,Debra M. James,19
+Klamath,Lost River - 41,State Senate,30,DEM,Debra M. James,47
+Klamath,Malin - 42,State Senate,30,DEM,Debra M. James,21
+Klamath,Mazama - 43,State Senate,30,DEM,Debra M. James,109
+Klamath,Menill - 44,State Senate,30,DEM,Debra M. James,48
+Klamath,Midland - 45,State Senate,30,DEM,Debra M. James,123
+Klamath,Moyina - 46,State Senate,30,DEM,Debra M. James,177
+Klamath,Odell - 47,State Senate,30,DEM,Debra M. James,44
+Klamath,Odessa - 48,State Senate,30,DEM,Debra M. James,10
+Klamath,Orindale - 49,State Senate,30,DEM,Debra M. James,123
+Klamath,Pine Grove - 50,State Senate,30,DEM,Debra M. James,57
+Klamath,Poe Valley - 51,State Senate,30,DEM,Debra M. James,6
+Klamath,Shasta - 52,State Senate,30,DEM,Debra M. James,76
+Klamath,Sprague River - 53,State Senate,30,DEM,Debra M. James,65
+Klamath,Steams - 54,State Senate,30,DEM,Debra M. James,119
+Klamath,St. Francis - 55,State Senate,30,DEM,Debra M. James,55
+Klamath,Stukel - 56,State Senate,30,DEM,Debra M. James,38
+Klamath,Sunset - 57,State Senate,30,DEM,Debra M. James,101
+Klamath,Tonatee - 58,State Senate,30,DEM,Debra M. James,91
+Klamath,Villa - 59,State Senate,30,DEM,Debra M. James,89
+Klamath,Williamson - 60,State Senate,30,DEM,Debra M. James,59
+Klamath,Winema - 61,State Senate,30,DEM,Debra M. James,115
+Klamath,Wocus - 62,State Senate,30,DEM,Debra M. James,52
+Klamath,,State Senate,30,DEM,Debra M. James,4256
+Klamath,1,State Senate,30,DEM,Write-ins,6
+Klamath,2,State Senate,30,DEM,Write-ins,
+Klamath,3,State Senate,30,DEM,Write-ins,2
+Klamath,4,State Senate,30,DEM,Write-ins,
+Klamath,5,State Senate,30,DEM,Write-ins,3
+Klamath,6,State Senate,30,DEM,Write-ins,3
+Klamath,7,State Senate,30,DEM,Write-ins,1
+Klamath,8,State Senate,30,DEM,Write-ins,1
+Klamath,9,State Senate,30,DEM,Write-ins,1
+Klamath,10,State Senate,30,DEM,Write-ins,2
+Klamath,11,State Senate,30,DEM,Write-ins,3
+Klamath,12,State Senate,30,DEM,Write-ins,
+Klamath,13,State Senate,30,DEM,Write-ins,4
+Klamath,14,State Senate,30,DEM,Write-ins,1
+Klamath,15,State Senate,30,DEM,Write-ins,
+Klamath,16,State Senate,30,DEM,Write-ins,4
+Klamath,17,State Senate,30,DEM,Write-ins,
+Klamath,Altamont - 18,State Senate,30,DEM,Write-ins,4
+Klamath,Beatty - 19,State Senate,30,DEM,Write-ins,1
+Klamath,Bly - 20,State Senate,30,DEM,Write-ins,2
+Klamath,Bonanza - 21,State Senate,30,DEM,Write-ins,
+Klamath,Bryant - 22,State Senate,30,DEM,Write-ins,
+Klamath,Canal - 23,State Senate,30,DEM,Write-ins,1
+Klamath,Chemult - 24,State Senate,30,DEM,Write-ins,2
+Klamath,Chiloquin - 25,State Senate,30,DEM,Write-ins,
+Klamath,Dairy - 26,State Senate,30,DEM,Write-ins,6
+Klamath,Elmwood - 27,State Senate,30,DEM,Write-ins,4
+Klamath,Enterprise - 28,State Senate,30,DEM,Write-ins,4
+Klamath,Etna - 29,State Senate,30,DEM,Write-ins,2
+Klamath,Ferguson - 30,State Senate,30,DEM,Write-ins,1
+Klamath,Hager - 32,State Senate,30,DEM,Write-ins,2
+Klamath,Henley - 33,State Senate,30,DEM,Write-ins,1
+Klamath,Hilyard - 34,State Senate,30,DEM,Write-ins,2
+Klamath,Homecrest - 35,State Senate,30,DEM,Write-ins,1
+Klamath,Homedale - 36,State Senate,30,DEM,Write-ins,4
+Klamath,Keno - 37,State Senate,30,DEM,Write-ins,17
+Klamath,Lakeshore - 39,State Senate,30,DEM,Write-ins,
+Klamath,Langell Valley - 40,State Senate,30,DEM,Write-ins,1
+Klamath,Lost River - 41,State Senate,30,DEM,Write-ins,3
+Klamath,Malin - 42,State Senate,30,DEM,Write-ins,
+Klamath,Mazama - 43,State Senate,30,DEM,Write-ins,5
+Klamath,Menill - 44,State Senate,30,DEM,Write-ins,2
+Klamath,Midland - 45,State Senate,30,DEM,Write-ins,3
+Klamath,Moyina - 46,State Senate,30,DEM,Write-ins,1
+Klamath,Odell - 47,State Senate,30,DEM,Write-ins,
+Klamath,Odessa - 48,State Senate,30,DEM,Write-ins,
+Klamath,Orindale - 49,State Senate,30,DEM,Write-ins,4
+Klamath,Pine Grove - 50,State Senate,30,DEM,Write-ins,2
+Klamath,Poe Valley - 51,State Senate,30,DEM,Write-ins,
+Klamath,Shasta - 52,State Senate,30,DEM,Write-ins,4
+Klamath,Sprague River - 53,State Senate,30,DEM,Write-ins,1
+Klamath,Steams - 54,State Senate,30,DEM,Write-ins,2
+Klamath,St. Francis - 55,State Senate,30,DEM,Write-ins,3
+Klamath,Stukel - 56,State Senate,30,DEM,Write-ins,1
+Klamath,Sunset - 57,State Senate,30,DEM,Write-ins,2
+Klamath,Tonatee - 58,State Senate,30,DEM,Write-ins,
+Klamath,Villa - 59,State Senate,30,DEM,Write-ins,
+Klamath,Williamson - 60,State Senate,30,DEM,Write-ins,2
+Klamath,Winema - 61,State Senate,30,DEM,Write-ins,2
+Klamath,Wocus - 62,State Senate,30,DEM,Write-ins,3
+Klamath,,State Senate,30,DEM,Write-ins,126
