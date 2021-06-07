@@ -75,25 +75,25 @@ Yamhill,26,U.S. Senate,,REP,Under Votes,31
 Yamhill,27,U.S. Senate,,REP,Under Votes,7
 Yamhill,23,U.S. Senate,,REP,Under Votes,16
 Yamhill,Total,U.S. Senate,,REP,Under Votes,1111
-Yamhill,1,U.S. House,1,REP ,Jim Greenfield,490
-Yamhill,2,U.S. House,1,REP ,Jim Greenfield,507
-Yamhill,3,U.S. House,1,REP ,Jim Greenfield,557
-Yamhill,4,U.S. House,1,REP ,Jim Greenfield,361
-Yamhill,7,U.S. House,1,REP ,Jim Greenfield,292
-Yamhill,9,U.S. House,1,REP ,Jim Greenfield,460
-Yamhill,10,U.S. House,1,REP ,Jim Greenfield,259
-Yamhill,12,U.S. House,1,REP ,Jim Greenfield,414
-Yamhill,13,U.S. House,1,REP ,Jim Greenfield,255
-Yamhill,15,U.S. House,1,REP ,Jim Greenfield,587
-Yamhill,18,U.S. House,1,REP ,Jim Greenfield,966
-Yamhill,19,U.S. House,1,REP ,Jim Greenfield,545
-Yamhill,20,U.S. House,1,REP ,Jim Greenfield,413
-Yamhill,21,U.S. House,1,REP ,Jim Greenfield,393
-Yamhill,24,U.S. House,1,REP ,Jim Greenfield,405
-Yamhill,26,U.S. House,1,REP ,Jim Greenfield,250
-Yamhill,27,U.S. House,1,REP ,Jim Greenfield,50
-Yamhill,28,U.S. House,1,REP ,Jim Greenfield,94
-Yamhill,Total,U.S. House,1,REP ,Jim Greenfield,7298
+Yamhill,1,U.S. House,1,REP,Jim Greenfield,490
+Yamhill,2,U.S. House,1,REP,Jim Greenfield,507
+Yamhill,3,U.S. House,1,REP,Jim Greenfield,557
+Yamhill,4,U.S. House,1,REP,Jim Greenfield,361
+Yamhill,7,U.S. House,1,REP,Jim Greenfield,292
+Yamhill,9,U.S. House,1,REP,Jim Greenfield,460
+Yamhill,10,U.S. House,1,REP,Jim Greenfield,259
+Yamhill,12,U.S. House,1,REP,Jim Greenfield,414
+Yamhill,13,U.S. House,1,REP,Jim Greenfield,255
+Yamhill,15,U.S. House,1,REP,Jim Greenfield,587
+Yamhill,18,U.S. House,1,REP,Jim Greenfield,966
+Yamhill,19,U.S. House,1,REP,Jim Greenfield,545
+Yamhill,20,U.S. House,1,REP,Jim Greenfield,413
+Yamhill,21,U.S. House,1,REP,Jim Greenfield,393
+Yamhill,24,U.S. House,1,REP,Jim Greenfield,405
+Yamhill,26,U.S. House,1,REP,Jim Greenfield,250
+Yamhill,27,U.S. House,1,REP,Jim Greenfield,50
+Yamhill,28,U.S. House,1,REP,Jim Greenfield,94
+Yamhill,Total,U.S. House,1,REP,Jim Greenfield,7298
 Yamhill,1,U.S. House,1,REP,Write-in,6
 Yamhill,2,U.S. House,1,REP,Write-in,6
 Yamhill,3,U.S. House,1,REP,Write-in,12
@@ -373,7 +373,7 @@ Yamhill,19,State House,24,REP,Donna G. Nelson,643
 Yamhill,20,State House,24,REP,Donna G. Nelson,452
 Yamhill,21,State House,24,REP,Donna G. Nelson,446
 Yamhill,24,State House,24,REP,Donna G. Nelson,432
-Yamhill,Total ,State House,24,REP,Donna G. Nelson,5454
+Yamhill,Total,State House,24,REP,Donna G. Nelson,5454
 Yamhill,7,State House,24,REP,Write-in,7
 Yamhill,9,State House,24,REP,Write-in,4
 Yamhill,10,State House,24,REP,Write-in,4
@@ -385,7 +385,7 @@ Yamhill,19,State House,24,REP,Write-in,15
 Yamhill,20,State House,24,REP,Write-in,4
 Yamhill,21,State House,24,REP,Write-in,8
 Yamhill,24,State House,24,REP,Write-in,10
-Yamhill,Total ,State House,24,REP,Write-in,120
+Yamhill,Total,State House,24,REP,Write-in,120
 Yamhill,7,State House,24,REP,Over Votes,0
 Yamhill,9,State House,24,REP,Over Votes,0
 Yamhill,10,State House,24,REP,Over Votes,0
@@ -397,7 +397,7 @@ Yamhill,19,State House,24,REP,Over Votes,0
 Yamhill,20,State House,24,REP,Over Votes,0
 Yamhill,21,State House,24,REP,Over Votes,0
 Yamhill,24,State House,24,REP,Over Votes,0
-Yamhill,Total ,State House,24,REP,Over Votes,0
+Yamhill,Total,State House,24,REP,Over Votes,0
 Yamhill,7,State House,24,REP,Under Votes,103
 Yamhill,9,State House,24,REP,Under Votes,147
 Yamhill,10,State House,24,REP,Under Votes,71
@@ -409,7 +409,7 @@ Yamhill,19,State House,24,REP,Under Votes,103
 Yamhill,20,State House,24,REP,Under Votes,144
 Yamhill,21,State House,24,REP,Under Votes,90
 Yamhill,24,State House,24,REP,Under Votes,112
-Yamhill,Total ,State House,24,REP,Under Votes,1408
+Yamhill,Total,State House,24,REP,Under Votes,1408
 Yamhill,1,State House,25,REP,Vic Backlund,484
 Yamhill,2,State House,25,REP,Vic Backlund,535
 Yamhill,3,State House,25,REP,Vic Backlund,574

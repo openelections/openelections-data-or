@@ -5,13 +5,13 @@ candidate,office,district,party,county,precinct,votes
 ,Registered Voters,,IND,Polk,102,36
 ,Registered Voters,,REP,Polk,102,364
 ,Ballots Cast,,,Polk,102,355
-,Ballots Cast ,,NonPartisan,Polk,102,41
-,Ballots Cast ,,DEM,Polk,102,131
-,Ballots Cast ,,IND,Polk,102,10
-,Ballots Cast ,,REP,Polk,102,173
+,Ballots Cast,,NonPartisan,Polk,102,41
+,Ballots Cast,,DEM,Polk,102,131
+,Ballots Cast,,IND,Polk,102,10
+,Ballots Cast,,REP,Polk,102,173
 Peter Wright,U.S. House,5,DEM,Polk,102,28
 Kurt Schrader,U.S. House,5,DEM,Polk,102,94
-Write In ,U.S. House,5,DEM,Polk,102,0
+Write In,U.S. House,5,DEM,Polk,102,0
 Over Votes,U.S. House,5,DEM,Polk,102,0
 Under votes,U.S. House,5,DEM,Polk,102,9
 Ed Jones,Governor,,DEM,Polk,102,25
@@ -40,7 +40,7 @@ Under votes,State House,23,DEM,Polk,102,34
 Write In,U.S. House,5,IND,Polk,102,1
 Over votes,U.S. House,5,IND,Polk,102,0
 Under votes,U.S. House,5,IND,Polk,102,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,102,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,102,0
 Skye J Allen,Governor,,IND,Polk,102,2
 Patrick Starnes,Governor,,IND,Polk,102,0
 Write In,Governor,,IND,Polk,102,5
@@ -70,7 +70,7 @@ Greg C Wooldridge,Governor,,REP,Polk,102,40
 Jonathan I Edwards III,Governor,,REP,Polk,102,0
 David W Stauffer,Governor,,REP,Polk,102,2
 Jeff Smith,Governor,,REP,Polk,102,8
-Jack W Tacy ,Governor,,REP,Polk,102,0
+Jack W Tacy,Governor,,REP,Polk,102,0
 Brett Hyland,Governor,,REP,Polk,102,0
 Bruce Cuff,Governor,,REP,Polk,102,4
 Sam Carpenter,Governor,,REP,Polk,102,46
@@ -107,13 +107,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,106,78
 ,Registered Voters,,REP,Polk,106,725
 ,Ballots Cast,,,Polk,106,621
-,Ballots Cast ,,NonPartisan,Polk,106,67
-,Ballots Cast ,,DEM,Polk,106,206
-,Ballots Cast ,,IND,Polk,106,16
-,Ballots Cast ,,REP,Polk,106,332
+,Ballots Cast,,NonPartisan,Polk,106,67
+,Ballots Cast,,DEM,Polk,106,206
+,Ballots Cast,,IND,Polk,106,16
+,Ballots Cast,,REP,Polk,106,332
 Peter Wright,U.S. House,5,DEM,Polk,106,28
 Kurt Schrader,U.S. House,5,DEM,Polk,106,161
-Write In ,U.S. House,5,DEM,Polk,106,1
+Write In,U.S. House,5,DEM,Polk,106,1
 Over Votes,U.S. House,5,DEM,Polk,106,0
 Under votes,U.S. House,5,DEM,Polk,106,16
 Ed Jones,Governor,,DEM,Polk,106,32
@@ -142,7 +142,7 @@ Under votes,State House,23,DEM,Polk,106,59
 Write In,U.S. House,5,IND,Polk,106,3
 Over votes,U.S. House,5,IND,Polk,106,0
 Under votes,U.S. House,5,IND,Polk,106,13
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,106,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,106,0
 Skye J Allen,Governor,,IND,Polk,106,2
 Patrick Starnes,Governor,,IND,Polk,106,2
 Write In,Governor,,IND,Polk,106,8
@@ -172,7 +172,7 @@ Greg C Wooldridge,Governor,,REP,Polk,106,78
 Jonathan I Edwards III,Governor,,REP,Polk,106,0
 David W Stauffer,Governor,,REP,Polk,106,3
 Jeff Smith,Governor,,REP,Polk,106,1
-Jack W Tacy ,Governor,,REP,Polk,106,1
+Jack W Tacy,Governor,,REP,Polk,106,1
 Brett Hyland,Governor,,REP,Polk,106,2
 Bruce Cuff,Governor,,REP,Polk,106,9
 Sam Carpenter,Governor,,REP,Polk,106,110
@@ -209,13 +209,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,110,49
 ,Registered Voters,,REP,Polk,110,237
 ,Ballots Cast,,,Polk,110,245
-,Ballots Cast ,,NonPartisan,Polk,110,49
-,Ballots Cast ,,DEM,Polk,110,92
-,Ballots Cast ,,IND,Polk,110,8
-,Ballots Cast ,,REP,Polk,110,96
+,Ballots Cast,,NonPartisan,Polk,110,49
+,Ballots Cast,,DEM,Polk,110,92
+,Ballots Cast,,IND,Polk,110,8
+,Ballots Cast,,REP,Polk,110,96
 Peter Wright,U.S. House,5,DEM,Polk,110,22
 Kurt Schrader,U.S. House,5,DEM,Polk,110,62
-Write In ,U.S. House,5,DEM,Polk,110,1
+Write In,U.S. House,5,DEM,Polk,110,1
 Over Votes,U.S. House,5,DEM,Polk,110,0
 Under votes,U.S. House,5,DEM,Polk,110,7
 Ed Jones,Governor,,DEM,Polk,110,18
@@ -244,7 +244,7 @@ Under votes,State House,23,DEM,Polk,110,
 Write In,U.S. House,5,IND,Polk,110,4
 Over votes,U.S. House,5,IND,Polk,110,0
 Under votes,U.S. House,5,IND,Polk,110,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,110,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,110,1
 Skye J Allen,Governor,,IND,Polk,110,1
 Patrick Starnes,Governor,,IND,Polk,110,2
 Write In,Governor,,IND,Polk,110,4
@@ -274,7 +274,7 @@ Greg C Wooldridge,Governor,,REP,Polk,110,20
 Jonathan I Edwards III,Governor,,REP,Polk,110,0
 David W Stauffer,Governor,,REP,Polk,110,2
 Jeff Smith,Governor,,REP,Polk,110,0
-Jack W Tacy ,Governor,,REP,Polk,110,0
+Jack W Tacy,Governor,,REP,Polk,110,0
 Brett Hyland,Governor,,REP,Polk,110,0
 Bruce Cuff,Governor,,REP,Polk,110,2
 Sam Carpenter,Governor,,REP,Polk,110,37
@@ -311,13 +311,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,118,135
 ,Registered Voters,,REP,Polk,118,1300
 ,Ballots Cast,,,Polk,118,1392
-,Ballots Cast ,,NonPartisan,Polk,118,145
-,Ballots Cast ,,DEM,Polk,118,493
-,Ballots Cast ,,IND,Polk,118,40
-,Ballots Cast ,,REP,Polk,118,714
+,Ballots Cast,,NonPartisan,Polk,118,145
+,Ballots Cast,,DEM,Polk,118,493
+,Ballots Cast,,IND,Polk,118,40
+,Ballots Cast,,REP,Polk,118,714
 Peter Wright,U.S. House,5,DEM,Polk,118,48
 Kurt Schrader,U.S. House,5,DEM,Polk,118,404
-Write In ,U.S. House,5,DEM,Polk,118,5
+Write In,U.S. House,5,DEM,Polk,118,5
 Over Votes,U.S. House,5,DEM,Polk,118,0
 Under votes,U.S. House,5,DEM,Polk,118,36
 Ed Jones,Governor,,DEM,Polk,118,45
@@ -346,7 +346,7 @@ Under votes,State House,23,DEM,Polk,118,114
 Write In,U.S. House,5,IND,Polk,118,6
 Over votes,U.S. House,5,IND,Polk,118,0
 Under votes,U.S. House,5,IND,Polk,118,34
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,118,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,118,1
 Skye J Allen,Governor,,IND,Polk,118,2
 Patrick Starnes,Governor,,IND,Polk,118,7
 Write In,Governor,,IND,Polk,118,14
@@ -376,7 +376,7 @@ Greg C Wooldridge,Governor,,REP,Polk,118,155
 Jonathan I Edwards III,Governor,,REP,Polk,118,0
 David W Stauffer,Governor,,REP,Polk,118,6
 Jeff Smith,Governor,,REP,Polk,118,9
-Jack W Tacy ,Governor,,REP,Polk,118,1
+Jack W Tacy,Governor,,REP,Polk,118,1
 Brett Hyland,Governor,,REP,Polk,118,1
 Bruce Cuff,Governor,,REP,Polk,118,11
 Sam Carpenter,Governor,,REP,Polk,118,181
@@ -413,13 +413,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,122,84
 ,Registered Voters,,REP,Polk,122,615
 ,Ballots Cast,,,Polk,122,680
-,Ballots Cast ,,NonPartisan,Polk,122,99
-,Ballots Cast ,,DEM,Polk,122,245
-,Ballots Cast ,,IND,Polk,122,24
-,Ballots Cast ,,REP,Polk,122,312
+,Ballots Cast,,NonPartisan,Polk,122,99
+,Ballots Cast,,DEM,Polk,122,245
+,Ballots Cast,,IND,Polk,122,24
+,Ballots Cast,,REP,Polk,122,312
 Peter Wright,U.S. House,5,DEM,Polk,122,34
 Kurt Schrader,U.S. House,5,DEM,Polk,122,199
-Write In ,U.S. House,5,DEM,Polk,122,1
+Write In,U.S. House,5,DEM,Polk,122,1
 Over Votes,U.S. House,5,DEM,Polk,122,0
 Under votes,U.S. House,5,DEM,Polk,122,11
 Ed Jones,Governor,,DEM,Polk,122,25
@@ -448,7 +448,7 @@ Under votes,State House,23,DEM,Polk,122,
 Write In,U.S. House,5,IND,Polk,122,2
 Over votes,U.S. House,5,IND,Polk,122,0
 Under votes,U.S. House,5,IND,Polk,122,22
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,122,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,122,2
 Skye J Allen,Governor,,IND,Polk,122,1
 Patrick Starnes,Governor,,IND,Polk,122,3
 Write In,Governor,,IND,Polk,122,9
@@ -478,7 +478,7 @@ Greg C Wooldridge,Governor,,REP,Polk,122,98
 Jonathan I Edwards III,Governor,,REP,Polk,122,0
 David W Stauffer,Governor,,REP,Polk,122,1
 Jeff Smith,Governor,,REP,Polk,122,2
-Jack W Tacy ,Governor,,REP,Polk,122,2
+Jack W Tacy,Governor,,REP,Polk,122,2
 Brett Hyland,Governor,,REP,Polk,122,1
 Bruce Cuff,Governor,,REP,Polk,122,4
 Sam Carpenter,Governor,,REP,Polk,122,72
@@ -515,13 +515,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,134,290
 ,Registered Voters,,REP,Polk,134,2131
 ,Ballots Cast,,,Polk,134,2637
-,Ballots Cast ,,NonPartisan,Polk,134,355
-,Ballots Cast ,,DEM,Polk,134,1048
-,Ballots Cast ,,IND,Polk,134,84
-,Ballots Cast ,,REP,Polk,134,1150
+,Ballots Cast,,NonPartisan,Polk,134,355
+,Ballots Cast,,DEM,Polk,134,1048
+,Ballots Cast,,IND,Polk,134,84
+,Ballots Cast,,REP,Polk,134,1150
 Peter Wright,U.S. House,5,DEM,Polk,134,101
 Kurt Schrader,U.S. House,5,DEM,Polk,134,859
-Write In ,U.S. House,5,DEM,Polk,134,4
+Write In,U.S. House,5,DEM,Polk,134,4
 Over Votes,U.S. House,5,DEM,Polk,134,1
 Under votes,U.S. House,5,DEM,Polk,134,83
 Ed Jones,Governor,,DEM,Polk,134,85
@@ -550,7 +550,7 @@ Under votes,State House,23,DEM,Polk,134,
 Write In,U.S. House,5,IND,Polk,134,19
 Over votes,U.S. House,5,IND,Polk,134,0
 Under votes,U.S. House,5,IND,Polk,134,65
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,134,3
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,134,3
 Skye J Allen,Governor,,IND,Polk,134,8
 Patrick Starnes,Governor,,IND,Polk,134,7
 Write In,Governor,,IND,Polk,134,43
@@ -580,7 +580,7 @@ Greg C Wooldridge,Governor,,REP,Polk,134,304
 Jonathan I Edwards III,Governor,,REP,Polk,134,2
 David W Stauffer,Governor,,REP,Polk,134,6
 Jeff Smith,Governor,,REP,Polk,134,19
-Jack W Tacy ,Governor,,REP,Polk,134,5
+Jack W Tacy,Governor,,REP,Polk,134,5
 Brett Hyland,Governor,,REP,Polk,134,5
 Bruce Cuff,Governor,,REP,Polk,134,23
 Sam Carpenter,Governor,,REP,Polk,134,266
@@ -617,13 +617,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,136,217
 ,Registered Voters,,REP,Polk,136,1444
 ,Ballots Cast,,,Polk,136,1723
-,Ballots Cast ,,NonPartisan,Polk,136,216
-,Ballots Cast ,,DEM,Polk,136,697
-,Ballots Cast ,,IND,Polk,136,84
-,Ballots Cast ,,REP,Polk,136,726
+,Ballots Cast,,NonPartisan,Polk,136,216
+,Ballots Cast,,DEM,Polk,136,697
+,Ballots Cast,,IND,Polk,136,84
+,Ballots Cast,,REP,Polk,136,726
 Peter Wright,U.S. House,5,DEM,Polk,136,60
 Kurt Schrader,U.S. House,5,DEM,Polk,136,574
-Write In ,U.S. House,5,DEM,Polk,136,9
+Write In,U.S. House,5,DEM,Polk,136,9
 Over Votes,U.S. House,5,DEM,Polk,136,1
 Under votes,U.S. House,5,DEM,Polk,136,53
 Ed Jones,Governor,,DEM,Polk,136,29
@@ -652,7 +652,7 @@ Under votes,State House,23,DEM,Polk,136,
 Write In,U.S. House,5,IND,Polk,136,20
 Over votes,U.S. House,5,IND,Polk,136,0
 Under votes,U.S. House,5,IND,Polk,136,64
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,136,6
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,136,6
 Skye J Allen,Governor,,IND,Polk,136,4
 Patrick Starnes,Governor,,IND,Polk,136,8
 Write In,Governor,,IND,Polk,136,28
@@ -682,7 +682,7 @@ Greg C Wooldridge,Governor,,REP,Polk,136,193
 Jonathan I Edwards III,Governor,,REP,Polk,136,2
 David W Stauffer,Governor,,REP,Polk,136,7
 Jeff Smith,Governor,,REP,Polk,136,10
-Jack W Tacy ,Governor,,REP,Polk,136,0
+Jack W Tacy,Governor,,REP,Polk,136,0
 Brett Hyland,Governor,,REP,Polk,136,3
 Bruce Cuff,Governor,,REP,Polk,136,9
 Sam Carpenter,Governor,,REP,Polk,136,154
@@ -719,13 +719,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,140,139
 ,Registered Voters,,REP,Polk,140,593
 ,Ballots Cast,,,Polk,140,690
-,Ballots Cast ,,NonPartisan,Polk,140,113
-,Ballots Cast ,,DEM,Polk,140,325
-,Ballots Cast ,,IND,Polk,140,28
-,Ballots Cast ,,REP,Polk,140,224
+,Ballots Cast,,NonPartisan,Polk,140,113
+,Ballots Cast,,DEM,Polk,140,325
+,Ballots Cast,,IND,Polk,140,28
+,Ballots Cast,,REP,Polk,140,224
 Peter Wright,U.S. House,5,DEM,Polk,140,42
 Kurt Schrader,U.S. House,5,DEM,Polk,140,257
-Write In ,U.S. House,5,DEM,Polk,140,2
+Write In,U.S. House,5,DEM,Polk,140,2
 Over Votes,U.S. House,5,DEM,Polk,140,1
 Under votes,U.S. House,5,DEM,Polk,140,23
 Ed Jones,Governor,,DEM,Polk,140,33
@@ -754,7 +754,7 @@ Under votes,State House,23,DEM,Polk,140,
 Write In,U.S. House,5,IND,Polk,140,4
 Over votes,U.S. House,5,IND,Polk,140,0
 Under votes,U.S. House,5,IND,Polk,140,24
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,140,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,140,2
 Skye J Allen,Governor,,IND,Polk,140,2
 Patrick Starnes,Governor,,IND,Polk,140,9
 Write In,Governor,,IND,Polk,140,7
@@ -784,7 +784,7 @@ Greg C Wooldridge,Governor,,REP,Polk,140,63
 Jonathan I Edwards III,Governor,,REP,Polk,140,0
 David W Stauffer,Governor,,REP,Polk,140,2
 Jeff Smith,Governor,,REP,Polk,140,2
-Jack W Tacy ,Governor,,REP,Polk,140,0
+Jack W Tacy,Governor,,REP,Polk,140,0
 Brett Hyland,Governor,,REP,Polk,140,1
 Bruce Cuff,Governor,,REP,Polk,140,6
 Sam Carpenter,Governor,,REP,Polk,140,69
@@ -821,13 +821,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,146,246
 ,Registered Voters,,REP,Polk,146,1639
 ,Ballots Cast,,,Polk,146,2105
-,Ballots Cast ,,NonPartisan,Polk,146,294
-,Ballots Cast ,,DEM,Polk,146,885
-,Ballots Cast ,,IND,Polk,146,89
-,Ballots Cast ,,REP,Polk,146,837
+,Ballots Cast,,NonPartisan,Polk,146,294
+,Ballots Cast,,DEM,Polk,146,885
+,Ballots Cast,,IND,Polk,146,89
+,Ballots Cast,,REP,Polk,146,837
 Peter Wright,U.S. House,5,DEM,Polk,146,97
 Kurt Schrader,U.S. House,5,DEM,Polk,146,709
-Write In ,U.S. House,5,DEM,Polk,146,7
+Write In,U.S. House,5,DEM,Polk,146,7
 Over Votes,U.S. House,5,DEM,Polk,146,0
 Under votes,U.S. House,5,DEM,Polk,146,72
 Ed Jones,Governor,,DEM,Polk,146,68
@@ -856,7 +856,7 @@ Under votes,State House,23,DEM,Polk,146,
 Write In,U.S. House,5,IND,Polk,146,21
 Over votes,U.S. House,5,IND,Polk,146,0
 Under votes,U.S. House,5,IND,Polk,146,68
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,146,5
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,146,5
 Skye J Allen,Governor,,IND,Polk,146,9
 Patrick Starnes,Governor,,IND,Polk,146,11
 Write In,Governor,,IND,Polk,146,32
@@ -886,7 +886,7 @@ Greg C Wooldridge,Governor,,REP,Polk,146,207
 Jonathan I Edwards III,Governor,,REP,Polk,146,3
 David W Stauffer,Governor,,REP,Polk,146,11
 Jeff Smith,Governor,,REP,Polk,146,18
-Jack W Tacy ,Governor,,REP,Polk,146,2
+Jack W Tacy,Governor,,REP,Polk,146,2
 Brett Hyland,Governor,,REP,Polk,146,2
 Bruce Cuff,Governor,,REP,Polk,146,22
 Sam Carpenter,Governor,,REP,Polk,146,189
@@ -923,13 +923,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,152,222
 ,Registered Voters,,REP,Polk,152,2046
 ,Ballots Cast,,,Polk,152,2032
-,Ballots Cast ,,NonPartisan,Polk,152,231
-,Ballots Cast ,,DEM,Polk,152,601
-,Ballots Cast ,,IND,Polk,152,80
-,Ballots Cast ,,REP,Polk,152,1120
+,Ballots Cast,,NonPartisan,Polk,152,231
+,Ballots Cast,,DEM,Polk,152,601
+,Ballots Cast,,IND,Polk,152,80
+,Ballots Cast,,REP,Polk,152,1120
 Peter Wright,U.S. House,5,DEM,Polk,152,90
 Kurt Schrader,U.S. House,5,DEM,Polk,152,451
-Write In ,U.S. House,5,DEM,Polk,152,9
+Write In,U.S. House,5,DEM,Polk,152,9
 Over Votes,U.S. House,5,DEM,Polk,152,0
 Under votes,U.S. House,5,DEM,Polk,152,51
 Ed Jones,Governor,,DEM,Polk,152,97
@@ -958,7 +958,7 @@ Under votes,State House,23,DEM,Polk,152,142
 Write In,U.S. House,5,IND,Polk,152,13
 Over votes,U.S. House,5,IND,Polk,152,0
 Under votes,U.S. House,5,IND,Polk,152,67
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,152,4
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,152,4
 Skye J Allen,Governor,,IND,Polk,152,5
 Patrick Starnes,Governor,,IND,Polk,152,15
 Write In,Governor,,IND,Polk,152,33
@@ -988,7 +988,7 @@ Greg C Wooldridge,Governor,,REP,Polk,152,316
 Jonathan I Edwards III,Governor,,REP,Polk,152,2
 David W Stauffer,Governor,,REP,Polk,152,7
 Jeff Smith,Governor,,REP,Polk,152,5
-Jack W Tacy ,Governor,,REP,Polk,152,0
+Jack W Tacy,Governor,,REP,Polk,152,0
 Brett Hyland,Governor,,REP,Polk,152,1
 Bruce Cuff,Governor,,REP,Polk,152,15
 Sam Carpenter,Governor,,REP,Polk,152,397
@@ -1025,13 +1025,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,154,236
 ,Registered Voters,,REP,Polk,154,1703
 ,Ballots Cast,,,Polk,154,1761
-,Ballots Cast ,,NonPartisan,Polk,154,231
-,Ballots Cast ,,DEM,Polk,154,564
-,Ballots Cast ,,IND,Polk,154,72
-,Ballots Cast ,,REP,Polk,154,894
+,Ballots Cast,,NonPartisan,Polk,154,231
+,Ballots Cast,,DEM,Polk,154,564
+,Ballots Cast,,IND,Polk,154,72
+,Ballots Cast,,REP,Polk,154,894
 Peter Wright,U.S. House,5,DEM,Polk,154,66
 Kurt Schrader,U.S. House,5,DEM,Polk,154,460
-Write In ,U.S. House,5,DEM,Polk,154,5
+Write In,U.S. House,5,DEM,Polk,154,5
 Over Votes,U.S. House,5,DEM,Polk,154,0
 Under votes,U.S. House,5,DEM,Polk,154,33
 Ed Jones,Governor,,DEM,Polk,154,74
@@ -1060,7 +1060,7 @@ Under votes,State House,23,DEM,Polk,154,130
 Write In,U.S. House,5,IND,Polk,154,15
 Over votes,U.S. House,5,IND,Polk,154,0
 Under votes,U.S. House,5,IND,Polk,154,57
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,154,4
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,154,4
 Skye J Allen,Governor,,IND,Polk,154,3
 Patrick Starnes,Governor,,IND,Polk,154,13
 Write In,Governor,,IND,Polk,154,29
@@ -1090,7 +1090,7 @@ Greg C Wooldridge,Governor,,REP,Polk,154,234
 Jonathan I Edwards III,Governor,,REP,Polk,154,3
 David W Stauffer,Governor,,REP,Polk,154,11
 Jeff Smith,Governor,,REP,Polk,154,9
-Jack W Tacy ,Governor,,REP,Polk,154,0
+Jack W Tacy,Governor,,REP,Polk,154,0
 Brett Hyland,Governor,,REP,Polk,154,2
 Bruce Cuff,Governor,,REP,Polk,154,17
 Sam Carpenter,Governor,,REP,Polk,154,252
@@ -1127,13 +1127,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,156,183
 ,Registered Voters,,REP,Polk,156,1029
 ,Ballots Cast,,,Polk,156,1018
-,Ballots Cast ,,NonPartisan,Polk,156,147
-,Ballots Cast ,,DEM,Polk,156,355
-,Ballots Cast ,,IND,Polk,156,58
-,Ballots Cast ,,REP,Polk,156,458
+,Ballots Cast,,NonPartisan,Polk,156,147
+,Ballots Cast,,DEM,Polk,156,355
+,Ballots Cast,,IND,Polk,156,58
+,Ballots Cast,,REP,Polk,156,458
 Peter Wright,U.S. House,5,DEM,Polk,156,39
 Kurt Schrader,U.S. House,5,DEM,Polk,156,289
-Write In ,U.S. House,5,DEM,Polk,156,6
+Write In,U.S. House,5,DEM,Polk,156,6
 Over Votes,U.S. House,5,DEM,Polk,156,0
 Under votes,U.S. House,5,DEM,Polk,156,21
 Ed Jones,Governor,,DEM,Polk,156,52
@@ -1162,7 +1162,7 @@ Under votes,State House,23,DEM,Polk,156,73
 Write In,U.S. House,5,IND,Polk,156,15
 Over votes,U.S. House,5,IND,Polk,156,0
 Under votes,U.S. House,5,IND,Polk,156,43
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,156,5
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,156,5
 Skye J Allen,Governor,,IND,Polk,156,5
 Patrick Starnes,Governor,,IND,Polk,156,9
 Write In,Governor,,IND,Polk,156,24
@@ -1192,7 +1192,7 @@ Greg C Wooldridge,Governor,,REP,Polk,156,121
 Jonathan I Edwards III,Governor,,REP,Polk,156,0
 David W Stauffer,Governor,,REP,Polk,156,3
 Jeff Smith,Governor,,REP,Polk,156,7
-Jack W Tacy ,Governor,,REP,Polk,156,0
+Jack W Tacy,Governor,,REP,Polk,156,0
 Brett Hyland,Governor,,REP,Polk,156,1
 Bruce Cuff,Governor,,REP,Polk,156,12
 Sam Carpenter,Governor,,REP,Polk,156,143
@@ -1229,13 +1229,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,162,136
 ,Registered Voters,,REP,Polk,162,1181
 ,Ballots Cast,,,Polk,162,1187
-,Ballots Cast ,,NonPartisan,Polk,162,145
-,Ballots Cast ,,DEM,Polk,162,378
-,Ballots Cast ,,IND,Polk,162,39
-,Ballots Cast ,,REP,Polk,162,625
+,Ballots Cast,,NonPartisan,Polk,162,145
+,Ballots Cast,,DEM,Polk,162,378
+,Ballots Cast,,IND,Polk,162,39
+,Ballots Cast,,REP,Polk,162,625
 Peter Wright,U.S. House,5,DEM,Polk,162,42
 Kurt Schrader,U.S. House,5,DEM,Polk,162,309
-Write In ,U.S. House,5,DEM,Polk,162,1
+Write In,U.S. House,5,DEM,Polk,162,1
 Over Votes,U.S. House,5,DEM,Polk,162,0
 Under votes,U.S. House,5,DEM,Polk,162,26
 Ed Jones,Governor,,DEM,Polk,162,40
@@ -1264,7 +1264,7 @@ Under votes,State House,23,DEM,Polk,162,109
 Write In,U.S. House,5,IND,Polk,162,7
 Over votes,U.S. House,5,IND,Polk,162,0
 Under votes,U.S. House,5,IND,Polk,162,32
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,162,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,162,2
 Skye J Allen,Governor,,IND,Polk,162,2
 Patrick Starnes,Governor,,IND,Polk,162,10
 Write In,Governor,,IND,Polk,162,14
@@ -1294,7 +1294,7 @@ Greg C Wooldridge,Governor,,REP,Polk,162,191
 Jonathan I Edwards III,Governor,,REP,Polk,162,0
 David W Stauffer,Governor,,REP,Polk,162,2
 Jeff Smith,Governor,,REP,Polk,162,2
-Jack W Tacy ,Governor,,REP,Polk,162,0
+Jack W Tacy,Governor,,REP,Polk,162,0
 Brett Hyland,Governor,,REP,Polk,162,0
 Bruce Cuff,Governor,,REP,Polk,162,23
 Sam Carpenter,Governor,,REP,Polk,162,190
@@ -1331,13 +1331,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,166,64
 ,Registered Voters,,REP,Polk,166,268
 ,Ballots Cast,,,Polk,166,342
-,Ballots Cast ,,NonPartisan,Polk,166,65
-,Ballots Cast ,,DEM,Polk,166,130
-,Ballots Cast ,,IND,Polk,166,15
-,Ballots Cast ,,REP,Polk,166,132
+,Ballots Cast,,NonPartisan,Polk,166,65
+,Ballots Cast,,DEM,Polk,166,130
+,Ballots Cast,,IND,Polk,166,15
+,Ballots Cast,,REP,Polk,166,132
 Peter Wright,U.S. House,5,DEM,Polk,166,26
 Kurt Schrader,U.S. House,5,DEM,Polk,166,91
-Write In ,U.S. House,5,DEM,Polk,166,2
+Write In,U.S. House,5,DEM,Polk,166,2
 Over Votes,U.S. House,5,DEM,Polk,166,0
 Under votes,U.S. House,5,DEM,Polk,166,11
 Ed Jones,Governor,,DEM,Polk,166,30
@@ -1366,7 +1366,7 @@ Under votes,State House,23,DEM,Polk,166,
 Write In,U.S. House,5,IND,Polk,166,2
 Over votes,U.S. House,5,IND,Polk,166,0
 Under votes,U.S. House,5,IND,Polk,166,13
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,166,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,166,1
 Skye J Allen,Governor,,IND,Polk,166,1
 Patrick Starnes,Governor,,IND,Polk,166,2
 Write In,Governor,,IND,Polk,166,7
@@ -1396,7 +1396,7 @@ Greg C Wooldridge,Governor,,REP,Polk,166,33
 Jonathan I Edwards III,Governor,,REP,Polk,166,2
 David W Stauffer,Governor,,REP,Polk,166,1
 Jeff Smith,Governor,,REP,Polk,166,2
-Jack W Tacy ,Governor,,REP,Polk,166,1
+Jack W Tacy,Governor,,REP,Polk,166,1
 Brett Hyland,Governor,,REP,Polk,166,0
 Bruce Cuff,Governor,,REP,Polk,166,0
 Sam Carpenter,Governor,,REP,Polk,166,55
@@ -1433,13 +1433,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,178,286
 ,Registered Voters,,REP,Polk,178,1376
 ,Ballots Cast,,,Polk,178,1708
-,Ballots Cast ,,NonPartisan,Polk,178,302
-,Ballots Cast ,,DEM,Polk,178,743
-,Ballots Cast ,,IND,Polk,178,72
-,Ballots Cast ,,REP,Polk,178,591
+,Ballots Cast,,NonPartisan,Polk,178,302
+,Ballots Cast,,DEM,Polk,178,743
+,Ballots Cast,,IND,Polk,178,72
+,Ballots Cast,,REP,Polk,178,591
 Peter Wright,U.S. House,5,DEM,Polk,178,75
 Kurt Schrader,U.S. House,5,DEM,Polk,178,618
-Write In ,U.S. House,5,DEM,Polk,178,6
+Write In,U.S. House,5,DEM,Polk,178,6
 Over Votes,U.S. House,5,DEM,Polk,178,0
 Under votes,U.S. House,5,DEM,Polk,178,44
 Ed Jones,Governor,,DEM,Polk,178,68
@@ -1468,7 +1468,7 @@ Under votes,State House,23,DEM,Polk,178,
 Write In,U.S. House,5,IND,Polk,178,15
 Over votes,U.S. House,5,IND,Polk,178,0
 Under votes,U.S. House,5,IND,Polk,178,57
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,178,6
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,178,6
 Skye J Allen,Governor,,IND,Polk,178,6
 Patrick Starnes,Governor,,IND,Polk,178,18
 Write In,Governor,,IND,Polk,178,19
@@ -1498,7 +1498,7 @@ Greg C Wooldridge,Governor,,REP,Polk,178,158
 Jonathan I Edwards III,Governor,,REP,Polk,178,0
 David W Stauffer,Governor,,REP,Polk,178,7
 Jeff Smith,Governor,,REP,Polk,178,9
-Jack W Tacy ,Governor,,REP,Polk,178,1
+Jack W Tacy,Governor,,REP,Polk,178,1
 Brett Hyland,Governor,,REP,Polk,178,1
 Bruce Cuff,Governor,,REP,Polk,178,7
 Sam Carpenter,Governor,,REP,Polk,178,149
@@ -1535,13 +1535,13 @@ Under votes,Commissioner of the Bureau of Labor and Industries,,NonPartisan,Polk
 ,Registered Voters,,IND,Polk,182,270
 ,Registered Voters,,REP,Polk,182,1210
 ,Ballots Cast,,,Polk,182,1402
-,Ballots Cast ,,NonPartisan,Polk,182,214
-,Ballots Cast ,,DEM,Polk,182,581
-,Ballots Cast ,,IND,Polk,182,74
-,Ballots Cast ,,REP,Polk,182,533
+,Ballots Cast,,NonPartisan,Polk,182,214
+,Ballots Cast,,DEM,Polk,182,581
+,Ballots Cast,,IND,Polk,182,74
+,Ballots Cast,,REP,Polk,182,533
 Peter Wright,U.S. House,5,DEM,Polk,182,76
 Kurt Schrader,U.S. House,5,DEM,Polk,182,469
-Write In ,U.S. House,5,DEM,Polk,182,7
+Write In,U.S. House,5,DEM,Polk,182,7
 Over Votes,U.S. House,5,DEM,Polk,182,0
 Under votes,U.S. House,5,DEM,Polk,182,29
 Ed Jones,Governor,,DEM,Polk,182,58
@@ -1570,7 +1570,7 @@ Under votes,State House,23,DEM,Polk,182,
 Write In,U.S. House,5,IND,Polk,182,20
 Over votes,U.S. House,5,IND,Polk,182,0
 Under votes,U.S. House,5,IND,Polk,182,54
-Dan (Mr. P) Pistoresi ,Governor,,IND,Polk,182,4
+Dan (Mr. P) Pistoresi,Governor,,IND,Polk,182,4
 Skye J Allen,Governor,,IND,Polk,182,9
 Patrick Starnes,Governor,,IND,Polk,182,8
 Write In,Governor,,IND,Polk,182,32
@@ -1600,7 +1600,7 @@ Greg C Wooldridge,Governor,,REP,Polk,182,145
 Jonathan I Edwards III,Governor,,REP,Polk,182,4
 David W Stauffer,Governor,,REP,Polk,182,4
 Jeff Smith,Governor,,REP,Polk,182,7
-Jack W Tacy ,Governor,,REP,Polk,182,2
+Jack W Tacy,Governor,,REP,Polk,182,2
 Brett Hyland,Governor,,REP,Polk,182,2
 Bruce Cuff,Governor,,REP,Polk,182,9
 Sam Carpenter,Governor,,REP,Polk,182,169

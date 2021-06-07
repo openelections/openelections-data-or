@@ -22,7 +22,7 @@ Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 1,8
 Write In,U.S. House,2,IND,Morrow,Precinct 1,6
 Overvote,U.S. House,2,IND,Morrow,Precinct 1,0
 Undervote,U.S. House,2,IND,Morrow,Precinct 1,6
-Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 1,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Morrow,Precinct 1,2
 Skye J Allen,Governor,,IND,Morrow,Precinct 1,5
 Patrick Starnes,Governor,,IND,Morrow,Precinct 1,2
 Write In,Governor,,IND,Morrow,Precinct 1,9
@@ -43,7 +43,7 @@ Greg C Wooldridge,Governor,,REP,Morrow,Precinct 1,54
 Jonathan I Edwards III,Governor,,REP,Morrow,Precinct 1,0
 David W Stauffer,Governor,,REP,Morrow,Precinct 1,1
 Jeff Smith,Governor,,REP,Morrow,Precinct 1,12
-Jack W Tacy ,Governor,,REP,Morrow,Precinct 1,2
+Jack W Tacy,Governor,,REP,Morrow,Precinct 1,2
 Brett Hyland,Governor,,REP,Morrow,Precinct 1,0
 Bruce Cuff,Governor,,REP,Morrow,Precinct 1,5
 Sam Carpenter,Governor,,REP,Morrow,Precinct 1,78
@@ -83,7 +83,7 @@ Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 2,12
 Write In,U.S. House,2,IND,Morrow,Precinct 2,10
 Overvote,U.S. House,2,IND,Morrow,Precinct 2,0
 Undervote,U.S. House,2,IND,Morrow,Precinct 2,18
-Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 2,3
+Dan (Mr. P) Pistoresi,Governor,,IND,Morrow,Precinct 2,3
 Skye J Allen,Governor,,IND,Morrow,Precinct 2,6
 Patrick Starnes,Governor,,IND,Morrow,Precinct 2,5
 Write In,Governor,,IND,Morrow,Precinct 2,20
@@ -104,7 +104,7 @@ Greg C Wooldridge,Governor,,REP,Morrow,Precinct 2,97
 Jonathan I Edwards III,Governor,,REP,Morrow,Precinct 2,1
 David W Stauffer,Governor,,REP,Morrow,Precinct 2,2
 Jeff Smith,Governor,,REP,Morrow,Precinct 2,13
-Jack W Tacy ,Governor,,REP,Morrow,Precinct 2,0
+Jack W Tacy,Governor,,REP,Morrow,Precinct 2,0
 Brett Hyland,Governor,,REP,Morrow,Precinct 2,0
 Bruce Cuff,Governor,,REP,Morrow,Precinct 2,3
 Sam Carpenter,Governor,,REP,Morrow,Precinct 2,109
@@ -144,7 +144,7 @@ Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 3,4
 Write In,U.S. House,2,IND,Morrow,Precinct 3,3
 Overvote,U.S. House,2,IND,Morrow,Precinct 3,0
 Undervote,U.S. House,2,IND,Morrow,Precinct 3,3
-Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 3,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Morrow,Precinct 3,0
 Skye J Allen,Governor,,IND,Morrow,Precinct 3,1
 Patrick Starnes,Governor,,IND,Morrow,Precinct 3,2
 Write In,Governor,,IND,Morrow,Precinct 3,2
@@ -165,7 +165,7 @@ Greg C Wooldridge,Governor,,REP,Morrow,Precinct 3,24
 Jonathan I Edwards III,Governor,,REP,Morrow,Precinct 3,1
 David W Stauffer,Governor,,REP,Morrow,Precinct 3,0
 Jeff Smith,Governor,,REP,Morrow,Precinct 3,3
-Jack W Tacy ,Governor,,REP,Morrow,Precinct 3,1
+Jack W Tacy,Governor,,REP,Morrow,Precinct 3,1
 Brett Hyland,Governor,,REP,Morrow,Precinct 3,0
 Bruce Cuff,Governor,,REP,Morrow,Precinct 3,0
 Sam Carpenter,Governor,,REP,Morrow,Precinct 3,58
@@ -205,7 +205,7 @@ Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 4,4
 Write In,U.S. House,2,IND,Morrow,Precinct 4,2
 Overvote,U.S. House,2,IND,Morrow,Precinct 4,0
 Undervote,U.S. House,2,IND,Morrow,Precinct 4,3
-Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 4,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Morrow,Precinct 4,0
 Skye J Allen,Governor,,IND,Morrow,Precinct 4,0
 Patrick Starnes,Governor,,IND,Morrow,Precinct 4,1
 Write In,Governor,,IND,Morrow,Precinct 4,3
@@ -226,7 +226,7 @@ Greg C Wooldridge,Governor,,REP,Morrow,Precinct 4,33
 Jonathan I Edwards III,Governor,,REP,Morrow,Precinct 4,0
 David W Stauffer,Governor,,REP,Morrow,Precinct 4,1
 Jeff Smith,Governor,,REP,Morrow,Precinct 4,2
-Jack W Tacy ,Governor,,REP,Morrow,Precinct 4,0
+Jack W Tacy,Governor,,REP,Morrow,Precinct 4,0
 Brett Hyland,Governor,,REP,Morrow,Precinct 4,0
 Bruce Cuff,Governor,,REP,Morrow,Precinct 4,1
 Sam Carpenter,Governor,,REP,Morrow,Precinct 4,49
@@ -266,7 +266,7 @@ Mark R Roberts,U.S. House,2,IND,Morrow,Precinct 5,9
 Write In,U.S. House,2,IND,Morrow,Precinct 5,6
 Overvote,U.S. House,2,IND,Morrow,Precinct 5,0
 Undervote,U.S. House,2,IND,Morrow,Precinct 5,13
-Dan (Mr. P) Pistoresi ,Governor,,IND,Morrow,Precinct 5,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Morrow,Precinct 5,0
 Skye J Allen,Governor,,IND,Morrow,Precinct 5,2
 Patrick Starnes,Governor,,IND,Morrow,Precinct 5,6
 Write In,Governor,,IND,Morrow,Precinct 5,15
@@ -287,7 +287,7 @@ Greg C Wooldridge,Governor,,REP,Morrow,Precinct 5,48
 Jonathan I Edwards III,Governor,,REP,Morrow,Precinct 5,0
 David W Stauffer,Governor,,REP,Morrow,Precinct 5,2
 Jeff Smith,Governor,,REP,Morrow,Precinct 5,4
-Jack W Tacy ,Governor,,REP,Morrow,Precinct 5,0
+Jack W Tacy,Governor,,REP,Morrow,Precinct 5,0
 Brett Hyland,Governor,,REP,Morrow,Precinct 5,0
 Bruce Cuff,Governor,,REP,Morrow,Precinct 5,3
 Sam Carpenter,Governor,,REP,Morrow,Precinct 5,129
