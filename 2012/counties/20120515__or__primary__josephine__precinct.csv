@@ -24,7 +24,7 @@ Josephine,0022 22,President,,D,Barack Obama,108
 Josephine,0023 23,President,,D,Barack Obama,42
 Josephine,0024 24,President,,D,Barack Obama,49
 Josephine,0025 25,President,,D,Barack Obama,110
-Josephine,0026  26,President,,D,Barack Obama,83
+Josephine,0026 26,President,,D,Barack Obama,83
 Josephine,0027 27,President,,D,Barack Obama,74
 Josephine,0028 28,President,,D,Barack Obama,72
 Josephine,0029 29,President,,D,Barack Obama,1
@@ -70,7 +70,7 @@ Josephine,0022 22,President,,D,Write-ins,15
 Josephine,0023 23,President,,D,Write-ins,8
 Josephine,0024 24,President,,D,Write-ins,1
 Josephine,0025 25,President,,D,Write-ins,17
-Josephine,0026  26,President,,D,Write-ins,16
+Josephine,0026 26,President,,D,Write-ins,16
 Josephine,0027 27,President,,D,Write-ins,15
 Josephine,0028 28,President,,D,Write-ins,15
 Josephine,0029 29,President,,D,Write-ins,0
@@ -116,7 +116,7 @@ Josephine,0022 22,President,,D,Over Votes,0
 Josephine,0023 23,President,,D,Over Votes,0
 Josephine,0024 24,President,,D,Over Votes,0
 Josephine,0025 25,President,,D,Over Votes,0
-Josephine,0026  26,President,,D,Over Votes,0
+Josephine,0026 26,President,,D,Over Votes,0
 Josephine,0027 27,President,,D,Over Votes,0
 Josephine,0028 28,President,,D,Over Votes,0
 Josephine,0029 29,President,,D,Over Votes,0
@@ -162,7 +162,7 @@ Josephine,0022 22,President,,D,Under Votes,30
 Josephine,0023 23,President,,D,Under Votes,13
 Josephine,0024 24,President,,D,Under Votes,7
 Josephine,0025 25,President,,D,Under Votes,19
-Josephine,0026  26,President,,D,Under Votes,15
+Josephine,0026 26,President,,D,Under Votes,15
 Josephine,0027 27,President,,D,Under Votes,13
 Josephine,0028 28,President,,D,Under Votes,11
 Josephine,0029 29,President,,D,Under Votes,0
@@ -300,7 +300,7 @@ Josephine,0024 24,U.S. House,2,D,Under Votes,12
 Josephine,0025 25,U.S. House,2,D,Under Votes,43
 Josephine,0014 14,U.S. House,4,D,Peter A. DeFazio,10
 Josephine,0020 20,U.S. House,4,D,Peter A. DeFazio,34
-Josephine,0026  26,U.S. House,4,D,Peter A. DeFazio,64
+Josephine,0026 26,U.S. House,4,D,Peter A. DeFazio,64
 Josephine,0027 27,U.S. House,4,D,Peter A. DeFazio,74
 Josephine,0028 28,U.S. House,4,D,Peter A. DeFazio,69
 Josephine,0029 29,U.S. House,4,D,Peter A. DeFazio,0
@@ -323,7 +323,7 @@ Josephine,0045 45,U.S. House,4,D,Peter A. DeFazio,13
 Josephine,0046 46,U.S. House,4,D,Peter A. DeFazio,26
 Josephine,0014 14,U.S. House,4,D,Matthew L. Robinson,6
 Josephine,0020 20,U.S. House,4,D,Matthew L. Robinson,12
-Josephine,0026  26,U.S. House,4,D,Matthew L. Robinson,30
+Josephine,0026 26,U.S. House,4,D,Matthew L. Robinson,30
 Josephine,0027 27,U.S. House,4,D,Matthew L. Robinson,23
 Josephine,0028 28,U.S. House,4,D,Matthew L. Robinson,18
 Josephine,0029 29,U.S. House,4,D,Matthew L. Robinson,0
@@ -346,7 +346,7 @@ Josephine,0045 45,U.S. House,4,D,Matthew L. Robinson,9
 Josephine,0046 46,U.S. House,4,D,Matthew L. Robinson,8
 Josephine,0014 14,U.S. House,4,D,Write-ins,0
 Josephine,0020 20,U.S. House,4,D,Write-ins,1
-Josephine,0026  26,U.S. House,4,D,Write-ins,1
+Josephine,0026 26,U.S. House,4,D,Write-ins,1
 Josephine,0027 27,U.S. House,4,D,Write-ins,0
 Josephine,0028 28,U.S. House,4,D,Write-ins,5
 Josephine,0029 29,U.S. House,4,D,Write-ins,0
@@ -369,7 +369,7 @@ Josephine,0045 45,U.S. House,4,D,Write-ins,0
 Josephine,0046 46,U.S. House,4,D,Write-ins,1
 Josephine,0014 14,U.S. House,4,D,Over Votes,0
 Josephine,0020 20,U.S. House,4,D,Over Votes,0
-Josephine,0026  26,U.S. House,4,D,Over Votes,0
+Josephine,0026 26,U.S. House,4,D,Over Votes,0
 Josephine,0027 27,U.S. House,4,D,Over Votes,0
 Josephine,0028 28,U.S. House,4,D,Over Votes,0
 Josephine,0029 29,U.S. House,4,D,Over Votes,0
@@ -392,7 +392,7 @@ Josephine,0045 45,U.S. House,4,D,Over Votes,0
 Josephine,0046 46,U.S. House,4,D,Over Votes,0
 Josephine,0014 14,U.S. House,4,D,Under Votes,3
 Josephine,0020 20,U.S. House,4,D,Under Votes,0
-Josephine,0026  26,U.S. House,4,D,Under Votes,19
+Josephine,0026 26,U.S. House,4,D,Under Votes,19
 Josephine,0027 27,U.S. House,4,D,Under Votes,5
 Josephine,0028 28,U.S. House,4,D,Under Votes,6
 Josephine,0029 29,U.S. House,4,D,Under Votes,1
@@ -438,7 +438,7 @@ Josephine,0022 22,Secretary of State,,D,Kate Brown,112
 Josephine,0023 23,Secretary of State,,D,Kate Brown,32
 Josephine,0024 24,Secretary of State,,D,Kate Brown,45
 Josephine,0025 25,Secretary of State,,D,Kate Brown,96
-Josephine,0026  26,Secretary of State,,D,Kate Brown,78
+Josephine,0026 26,Secretary of State,,D,Kate Brown,78
 Josephine,0027 27,Secretary of State,,D,Kate Brown,68
 Josephine,0028 28,Secretary of State,,D,Kate Brown,71
 Josephine,0029 29,Secretary of State,,D,Kate Brown,0
@@ -484,7 +484,7 @@ Josephine,0022 22,Secretary of State,,D,Paul Damian Wells,12
 Josephine,0023 23,Secretary of State,,D,Paul Damian Wells,7
 Josephine,0024 24,Secretary of State,,D,Paul Damian Wells,2
 Josephine,0025 25,Secretary of State,,D,Paul Damian Wells,16
-Josephine,0026  26,Secretary of State,,D,Paul Damian Wells,7
+Josephine,0026 26,Secretary of State,,D,Paul Damian Wells,7
 Josephine,0027 27,Secretary of State,,D,Paul Damian Wells,13
 Josephine,0028 28,Secretary of State,,D,Paul Damian Wells,8
 Josephine,0029 29,Secretary of State,,D,Paul Damian Wells,0
@@ -530,7 +530,7 @@ Josephine,0022 22,Secretary of State,,D,Write-ins,0
 Josephine,0023 23,Secretary of State,,D,Write-ins,0
 Josephine,0024 24,Secretary of State,,D,Write-ins,1
 Josephine,0025 25,Secretary of State,,D,Write-ins,0
-Josephine,0026  26,Secretary of State,,D,Write-ins,1
+Josephine,0026 26,Secretary of State,,D,Write-ins,1
 Josephine,0027 27,Secretary of State,,D,Write-ins,1
 Josephine,0028 28,Secretary of State,,D,Write-ins,5
 Josephine,0029 29,Secretary of State,,D,Write-ins,0
@@ -576,7 +576,7 @@ Josephine,0022 22,Secretary of State,,D,Over Votes,0
 Josephine,0023 23,Secretary of State,,D,Over Votes,0
 Josephine,0024 24,Secretary of State,,D,Over Votes,0
 Josephine,0025 25,Secretary of State,,D,Over Votes,0
-Josephine,0026  26,Secretary of State,,D,Over Votes,0
+Josephine,0026 26,Secretary of State,,D,Over Votes,0
 Josephine,0027 27,Secretary of State,,D,Over Votes,0
 Josephine,0028 28,Secretary of State,,D,Over Votes,0
 Josephine,0029 29,Secretary of State,,D,Over Votes,0
@@ -622,7 +622,7 @@ Josephine,0022 22,Secretary of State,,D,Under Votes,29
 Josephine,0023 23,Secretary of State,,D,Under Votes,24
 Josephine,0024 24,Secretary of State,,D,Under Votes,9
 Josephine,0025 25,Secretary of State,,D,Under Votes,34
-Josephine,0026  26,Secretary of State,,D,Under Votes,28
+Josephine,0026 26,Secretary of State,,D,Under Votes,28
 Josephine,0027 27,Secretary of State,,D,Under Votes,20
 Josephine,0028 28,Secretary of State,,D,Under Votes,14
 Josephine,0029 29,Secretary of State,,D,Under Votes,1
@@ -668,7 +668,7 @@ Josephine,0022 22,State Treasurer,,D,Ted Wheeler,111
 Josephine,0023 23,State Treasurer,,D,Ted Wheeler,39
 Josephine,0024 24,State Treasurer,,D,Ted Wheeler,38
 Josephine,0025 25,State Treasurer,,D,Ted Wheeler,88
-Josephine,0026  26,State Treasurer,,D,Ted Wheeler,65
+Josephine,0026 26,State Treasurer,,D,Ted Wheeler,65
 Josephine,0027 27,State Treasurer,,D,Ted Wheeler,73
 Josephine,0028 28,State Treasurer,,D,Ted Wheeler,70
 Josephine,0029 29,State Treasurer,,D,Ted Wheeler,0
@@ -714,7 +714,7 @@ Josephine,0022 22,State Treasurer,,D,Write-ins,0
 Josephine,0023 23,State Treasurer,,D,Write-ins,0
 Josephine,0024 24,State Treasurer,,D,Write-ins,1
 Josephine,0025 25,State Treasurer,,D,Write-ins,0
-Josephine,0026  26,State Treasurer,,D,Write-ins,1
+Josephine,0026 26,State Treasurer,,D,Write-ins,1
 Josephine,0027 27,State Treasurer,,D,Write-ins,1
 Josephine,0028 28,State Treasurer,,D,Write-ins,4
 Josephine,0029 29,State Treasurer,,D,Write-ins,0
@@ -760,7 +760,7 @@ Josephine,0022 22,State Treasurer,,D,Over Votes,0
 Josephine,0023 23,State Treasurer,,D,Over Votes,0
 Josephine,0024 24,State Treasurer,,D,Over Votes,0
 Josephine,0025 25,State Treasurer,,D,Over Votes,0
-Josephine,0026  26,State Treasurer,,D,Over Votes,0
+Josephine,0026 26,State Treasurer,,D,Over Votes,0
 Josephine,0027 27,State Treasurer,,D,Over Votes,0
 Josephine,0028 28,State Treasurer,,D,Over Votes,0
 Josephine,0029 29,State Treasurer,,D,Over Votes,0
@@ -806,7 +806,7 @@ Josephine,0022 22,State Treasurer,,D,Under Votes,42
 Josephine,0023 23,State Treasurer,,D,Under Votes,24
 Josephine,0024 24,State Treasurer,,D,Under Votes,18
 Josephine,0025 25,State Treasurer,,D,Under Votes,58
-Josephine,0026  26,State Treasurer,,D,Under Votes,48
+Josephine,0026 26,State Treasurer,,D,Under Votes,48
 Josephine,0027 27,State Treasurer,,D,Under Votes,28
 Josephine,0028 28,State Treasurer,,D,Under Votes,24
 Josephine,0029 29,State Treasurer,,D,Under Votes,1
@@ -852,7 +852,7 @@ Josephine,0022 22,Attorney General,,D,Dwight Holton,53
 Josephine,0023 23,Attorney General,,D,Dwight Holton,20
 Josephine,0024 24,Attorney General,,D,Dwight Holton,10
 Josephine,0025 25,Attorney General,,D,Dwight Holton,39
-Josephine,0026  26,Attorney General,,D,Dwight Holton,28
+Josephine,0026 26,Attorney General,,D,Dwight Holton,28
 Josephine,0027 27,Attorney General,,D,Dwight Holton,33
 Josephine,0028 28,Attorney General,,D,Dwight Holton,34
 Josephine,0029 29,Attorney General,,D,Dwight Holton,1
@@ -898,7 +898,7 @@ Josephine,0022 22,Attorney General,,D,Ellen Rosenblum,70
 Josephine,0023 23,Attorney General,,D,Ellen Rosenblum,26
 Josephine,0024 24,Attorney General,,D,Ellen Rosenblum,35
 Josephine,0025 25,Attorney General,,D,Ellen Rosenblum,70
-Josephine,0026  26,Attorney General,,D,Ellen Rosenblum,61
+Josephine,0026 26,Attorney General,,D,Ellen Rosenblum,61
 Josephine,0027 27,Attorney General,,D,Ellen Rosenblum,50
 Josephine,0028 28,Attorney General,,D,Ellen Rosenblum,46
 Josephine,0029 29,Attorney General,,D,Ellen Rosenblum,0
@@ -944,7 +944,7 @@ Josephine,0022 22,Attorney General,,D,Write-ins,0
 Josephine,0023 23,Attorney General,,D,Write-ins,0
 Josephine,0024 24,Attorney General,,D,Write-ins,0
 Josephine,0025 25,Attorney General,,D,Write-ins,0
-Josephine,0026  26,Attorney General,,D,Write-ins,1
+Josephine,0026 26,Attorney General,,D,Write-ins,1
 Josephine,0027 27,Attorney General,,D,Write-ins,0
 Josephine,0028 28,Attorney General,,D,Write-ins,2
 Josephine,0029 29,Attorney General,,D,Write-ins,0
@@ -990,7 +990,7 @@ Josephine,0022 22,Attorney General,,D,Over Votes,0
 Josephine,0023 23,Attorney General,,D,Over Votes,0
 Josephine,0024 24,Attorney General,,D,Over Votes,0
 Josephine,0025 25,Attorney General,,D,Over Votes,0
-Josephine,0026  26,Attorney General,,D,Over Votes,0
+Josephine,0026 26,Attorney General,,D,Over Votes,0
 Josephine,0027 27,Attorney General,,D,Over Votes,0
 Josephine,0028 28,Attorney General,,D,Over Votes,0
 Josephine,0029 29,Attorney General,,D,Over Votes,0
@@ -1036,7 +1036,7 @@ Josephine,0022 22,Attorney General,,D,Under Votes,30
 Josephine,0023 23,Attorney General,,D,Under Votes,17
 Josephine,0024 24,Attorney General,,D,Under Votes,12
 Josephine,0025 25,Attorney General,,D,Under Votes,37
-Josephine,0026  26,Attorney General,,D,Under Votes,24
+Josephine,0026 26,Attorney General,,D,Under Votes,24
 Josephine,0027 27,Attorney General,,D,Under Votes,19
 Josephine,0028 28,Attorney General,,D,Under Votes,16
 Josephine,0029 29,Attorney General,,D,Under Votes,0
@@ -1121,7 +1121,7 @@ Josephine,0022 22,State Senate,2,D,Jim Diefenderfer,101
 Josephine,0023 23,State Senate,2,D,Jim Diefenderfer,29
 Josephine,0024 24,State Senate,2,D,Jim Diefenderfer,35
 Josephine,0025 25,State Senate,2,D,Jim Diefenderfer,86
-Josephine,0026  26,State Senate,2,D,Jim Diefenderfer,47
+Josephine,0026 26,State Senate,2,D,Jim Diefenderfer,47
 Josephine,0028 28,State Senate,2,D,Jim Diefenderfer,61
 Josephine,0029 29,State Senate,2,D,Jim Diefenderfer,0
 Josephine,0030 30,State Senate,2,D,Jim Diefenderfer,102
@@ -1157,7 +1157,7 @@ Josephine,0022 22,State Senate,2,D,Write-ins,1
 Josephine,0023 23,State Senate,2,D,Write-ins,3
 Josephine,0024 24,State Senate,2,D,Write-ins,0
 Josephine,0025 25,State Senate,2,D,Write-ins,2
-Josephine,0026  26,State Senate,2,D,Write-ins,4
+Josephine,0026 26,State Senate,2,D,Write-ins,4
 Josephine,0028 28,State Senate,2,D,Write-ins,3
 Josephine,0029 29,State Senate,2,D,Write-ins,0
 Josephine,0030 30,State Senate,2,D,Write-ins,4
@@ -1193,7 +1193,7 @@ Josephine,0022 22,State Senate,2,D,Over Votes,0
 Josephine,0023 23,State Senate,2,D,Over Votes,0
 Josephine,0024 24,State Senate,2,D,Over Votes,0
 Josephine,0025 25,State Senate,2,D,Over Votes,0
-Josephine,0026  26,State Senate,2,D,Over Votes,0
+Josephine,0026 26,State Senate,2,D,Over Votes,0
 Josephine,0028 28,State Senate,2,D,Over Votes,0
 Josephine,0029 29,State Senate,2,D,Over Votes,0
 Josephine,0030 30,State Senate,2,D,Over Votes,0
@@ -1229,7 +1229,7 @@ Josephine,0022 22,State Senate,2,D,Under Votes,51
 Josephine,0023 23,State Senate,2,D,Under Votes,31
 Josephine,0024 24,State Senate,2,D,Under Votes,22
 Josephine,0025 25,State Senate,2,D,Under Votes,58
-Josephine,0026  26,State Senate,2,D,Under Votes,63
+Josephine,0026 26,State Senate,2,D,Under Votes,63
 Josephine,0028 28,State Senate,2,D,Under Votes,34
 Josephine,0029 29,State Senate,2,D,Under Votes,1
 Josephine,0030 30,State Senate,2,D,Under Votes,60
@@ -1295,7 +1295,7 @@ Josephine,0017 17,State House,3,D,Write-ins,7
 Josephine,0018 18,State House,3,D,Write-ins,9
 Josephine,0019 19,State House,3,D,Write-ins,12
 Josephine,0024 24,State House,3,D,Write-ins,1
-Josephine,0026  26,State House,3,D,Write-ins,5
+Josephine,0026 26,State House,3,D,Write-ins,5
 Josephine,0028 28,State House,3,D,Write-ins,5
 Josephine,0029 29,State House,3,D,Write-ins,0
 Josephine,0030 30,State House,3,D,Write-ins,7
@@ -1323,7 +1323,7 @@ Josephine,0017 17,State House,3,D,Over Votes,0
 Josephine,0018 18,State House,3,D,Over Votes,0
 Josephine,0019 19,State House,3,D,Over Votes,0
 Josephine,0024 24,State House,3,D,Over Votes,0
-Josephine,0026  26,State House,3,D,Over Votes,0
+Josephine,0026 26,State House,3,D,Over Votes,0
 Josephine,0028 28,State House,3,D,Over Votes,0
 Josephine,0029 29,State House,3,D,Over Votes,0
 Josephine,0030 30,State House,3,D,Over Votes,0
@@ -1351,7 +1351,7 @@ Josephine,0017 17,State House,3,D,Under Votes,229
 Josephine,0018 18,State House,3,D,Under Votes,195
 Josephine,0019 19,State House,3,D,Under Votes,244
 Josephine,0024 24,State House,3,D,Under Votes,56
-Josephine,0026  26,State House,3,D,Under Votes,109
+Josephine,0026 26,State House,3,D,Under Votes,109
 Josephine,0028 28,State House,3,D,Under Votes,93
 Josephine,0029 29,State House,3,D,Under Votes,1
 Josephine,0030 30,State House,3,D,Under Votes,159
@@ -1410,7 +1410,7 @@ Josephine,0022 22,President,,R,Rick Santorum,33
 Josephine,0023 23,President,,R,Rick Santorum,12
 Josephine,0024 24,President,,R,Rick Santorum,11
 Josephine,0025 25,President,,R,Rick Santorum,30
-Josephine,0026  26,President,,R,Rick Santorum,27
+Josephine,0026 26,President,,R,Rick Santorum,27
 Josephine,0027 27,President,,R,Rick Santorum,3
 Josephine,0028 28,President,,R,Rick Santorum,5
 Josephine,0029 29,President,,R,Rick Santorum,1
@@ -1456,7 +1456,7 @@ Josephine,0022 22,President,,R,Ron Paul,52
 Josephine,0023 23,President,,R,Ron Paul,12
 Josephine,0024 24,President,,R,Ron Paul,22
 Josephine,0025 25,President,,R,Ron Paul,39
-Josephine,0026  26,President,,R,Ron Paul,53
+Josephine,0026 26,President,,R,Ron Paul,53
 Josephine,0027 27,President,,R,Ron Paul,19
 Josephine,0028 28,President,,R,Ron Paul,24
 Josephine,0029 29,President,,R,Ron Paul,0
@@ -1502,7 +1502,7 @@ Josephine,0022 22,President,,R,Newt Gingrich,27
 Josephine,0023 23,President,,R,Newt Gingrich,11
 Josephine,0024 24,President,,R,Newt Gingrich,10
 Josephine,0025 25,President,,R,Newt Gingrich,18
-Josephine,0026  26,President,,R,Newt Gingrich,14
+Josephine,0026 26,President,,R,Newt Gingrich,14
 Josephine,0027 27,President,,R,Newt Gingrich,3
 Josephine,0028 28,President,,R,Newt Gingrich,6
 Josephine,0029 29,President,,R,Newt Gingrich,0
@@ -1548,7 +1548,7 @@ Josephine,0022 22,President,,R,Mitt Romney,176
 Josephine,0023 23,President,,R,Mitt Romney,85
 Josephine,0024 24,President,,R,Mitt Romney,129
 Josephine,0025 25,President,,R,Mitt Romney,208
-Josephine,0026  26,President,,R,Mitt Romney,146
+Josephine,0026 26,President,,R,Mitt Romney,146
 Josephine,0027 27,President,,R,Mitt Romney,62
 Josephine,0028 28,President,,R,Mitt Romney,69
 Josephine,0029 29,President,,R,Mitt Romney,3
@@ -1594,7 +1594,7 @@ Josephine,0022 22,President,,R,Write-ins,3
 Josephine,0023 23,President,,R,Write-ins,1
 Josephine,0024 24,President,,R,Write-ins,1
 Josephine,0025 25,President,,R,Write-ins,4
-Josephine,0026  26,President,,R,Write-ins,3
+Josephine,0026 26,President,,R,Write-ins,3
 Josephine,0027 27,President,,R,Write-ins,3
 Josephine,0028 28,President,,R,Write-ins,2
 Josephine,0029 29,President,,R,Write-ins,0
@@ -1640,7 +1640,7 @@ Josephine,0022 22,President,,R,Over Votes,0
 Josephine,0023 23,President,,R,Over Votes,0
 Josephine,0024 24,President,,R,Over Votes,0
 Josephine,0025 25,President,,R,Over Votes,0
-Josephine,0026  26,President,,R,Over Votes,0
+Josephine,0026 26,President,,R,Over Votes,0
 Josephine,0027 27,President,,R,Over Votes,0
 Josephine,0028 28,President,,R,Over Votes,0
 Josephine,0029 29,President,,R,Over Votes,0
@@ -1686,7 +1686,7 @@ Josephine,0022 22,President,,R,Under Votes,8
 Josephine,0023 23,President,,R,Under Votes,4
 Josephine,0024 24,President,,R,Under Votes,7
 Josephine,0025 25,President,,R,Under Votes,21
-Josephine,0026  26,President,,R,Under Votes,20
+Josephine,0026 26,President,,R,Under Votes,20
 Josephine,0027 27,President,,R,Under Votes,5
 Josephine,0028 28,President,,R,Under Votes,7
 Josephine,0029 29,President,,R,Under Votes,0
@@ -1801,7 +1801,7 @@ Josephine,0024 24,U.S. House,2,R,Under Votes,33
 Josephine,0025 25,U.S. House,2,R,Under Votes,59
 Josephine,0014 14,U.S. House,4,R,Art Robinson,26
 Josephine,0020 20,U.S. House,4,R,Art Robinson,41
-Josephine,0026  26,U.S. House,4,R,Art Robinson,201
+Josephine,0026 26,U.S. House,4,R,Art Robinson,201
 Josephine,0027 27,U.S. House,4,R,Art Robinson,80
 Josephine,0028 28,U.S. House,4,R,Art Robinson,84
 Josephine,0029 29,U.S. House,4,R,Art Robinson,3
@@ -1824,7 +1824,7 @@ Josephine,0045 45,U.S. House,4,R,Art Robinson,35
 Josephine,0046 46,U.S. House,4,R,Art Robinson,53
 Josephine,0014 14,U.S. House,4,R,Write-ins,0
 Josephine,0020 20,U.S. House,4,R,Write-ins,1
-Josephine,0026  26,U.S. House,4,R,Write-ins,4
+Josephine,0026 26,U.S. House,4,R,Write-ins,4
 Josephine,0027 27,U.S. House,4,R,Write-ins,3
 Josephine,0028 28,U.S. House,4,R,Write-ins,2
 Josephine,0029 29,U.S. House,4,R,Write-ins,0
@@ -1847,7 +1847,7 @@ Josephine,0045 45,U.S. House,4,R,Write-ins,0
 Josephine,0046 46,U.S. House,4,R,Write-ins,0
 Josephine,0014 14,U.S. House,4,R,Over Votes,0
 Josephine,0020 20,U.S. House,4,R,Over Votes,0
-Josephine,0026  26,U.S. House,4,R,Over Votes,0
+Josephine,0026 26,U.S. House,4,R,Over Votes,0
 Josephine,0027 27,U.S. House,4,R,Over Votes,0
 Josephine,0028 28,U.S. House,4,R,Over Votes,0
 Josephine,0029 29,U.S. House,4,R,Over Votes,0
@@ -1870,7 +1870,7 @@ Josephine,0045 45,U.S. House,4,R,Over Votes,0
 Josephine,0046 46,U.S. House,4,R,Over Votes,0
 Josephine,0014 14,U.S. House,4,R,Under Votes,11
 Josephine,0020 20,U.S. House,4,R,Under Votes,13
-Josephine,0026  26,U.S. House,4,R,Under Votes,58
+Josephine,0026 26,U.S. House,4,R,Under Votes,58
 Josephine,0027 27,U.S. House,4,R,Under Votes,12
 Josephine,0028 28,U.S. House,4,R,Under Votes,27
 Josephine,0029 29,U.S. House,4,R,Under Votes,1
@@ -1916,7 +1916,7 @@ Josephine,0022 22,Secretary of State,,R,Knute Buehler,194
 Josephine,0023 23,Secretary of State,,R,Knute Buehler,69
 Josephine,0024 24,Secretary of State,,R,Knute Buehler,117
 Josephine,0025 25,Secretary of State,,R,Knute Buehler,212
-Josephine,0026  26,Secretary of State,,R,Knute Buehler,162
+Josephine,0026 26,Secretary of State,,R,Knute Buehler,162
 Josephine,0027 27,Secretary of State,,R,Knute Buehler,75
 Josephine,0028 28,Secretary of State,,R,Knute Buehler,72
 Josephine,0029 29,Secretary of State,,R,Knute Buehler,4
@@ -1962,7 +1962,7 @@ Josephine,0022 22,Secretary of State,,R,Write-ins,4
 Josephine,0023 23,Secretary of State,,R,Write-ins,0
 Josephine,0024 24,Secretary of State,,R,Write-ins,1
 Josephine,0025 25,Secretary of State,,R,Write-ins,3
-Josephine,0026  26,Secretary of State,,R,Write-ins,3
+Josephine,0026 26,Secretary of State,,R,Write-ins,3
 Josephine,0027 27,Secretary of State,,R,Write-ins,2
 Josephine,0028 28,Secretary of State,,R,Write-ins,3
 Josephine,0029 29,Secretary of State,,R,Write-ins,0
@@ -2008,7 +2008,7 @@ Josephine,0022 22,Secretary of State,,R,Over Votes,1
 Josephine,0023 23,Secretary of State,,R,Over Votes,0
 Josephine,0024 24,Secretary of State,,R,Over Votes,0
 Josephine,0025 25,Secretary of State,,R,Over Votes,0
-Josephine,0026  26,Secretary of State,,R,Over Votes,0
+Josephine,0026 26,Secretary of State,,R,Over Votes,0
 Josephine,0027 27,Secretary of State,,R,Over Votes,0
 Josephine,0028 28,Secretary of State,,R,Over Votes,0
 Josephine,0029 29,Secretary of State,,R,Over Votes,0
@@ -2054,7 +2054,7 @@ Josephine,0022 22,Secretary of State,,R,Under Votes,101
 Josephine,0023 23,Secretary of State,,R,Under Votes,56
 Josephine,0024 24,Secretary of State,,R,Under Votes,65
 Josephine,0025 25,Secretary of State,,R,Under Votes,116
-Josephine,0026  26,Secretary of State,,R,Under Votes,99
+Josephine,0026 26,Secretary of State,,R,Under Votes,99
 Josephine,0027 27,Secretary of State,,R,Under Votes,23
 Josephine,0028 28,Secretary of State,,R,Under Votes,39
 Josephine,0029 29,Secretary of State,,R,Under Votes,0
@@ -2100,7 +2100,7 @@ Josephine,0022 22,State Treasurer,,R,Write-ins,25
 Josephine,0023 23,State Treasurer,,R,Write-ins,5
 Josephine,0024 24,State Treasurer,,R,Write-ins,8
 Josephine,0025 25,State Treasurer,,R,Write-ins,28
-Josephine,0026  26,State Treasurer,,R,Write-ins,14
+Josephine,0026 26,State Treasurer,,R,Write-ins,14
 Josephine,0027 27,State Treasurer,,R,Write-ins,11
 Josephine,0028 28,State Treasurer,,R,Write-ins,7
 Josephine,0029 29,State Treasurer,,R,Write-ins,0
@@ -2146,7 +2146,7 @@ Josephine,0022 22,State Treasurer,,R,Over Votes,0
 Josephine,0023 23,State Treasurer,,R,Over Votes,0
 Josephine,0024 24,State Treasurer,,R,Over Votes,0
 Josephine,0025 25,State Treasurer,,R,Over Votes,0
-Josephine,0026  26,State Treasurer,,R,Over Votes,0
+Josephine,0026 26,State Treasurer,,R,Over Votes,0
 Josephine,0027 27,State Treasurer,,R,Over Votes,0
 Josephine,0028 28,State Treasurer,,R,Over Votes,0
 Josephine,0029 29,State Treasurer,,R,Over Votes,0
@@ -2192,7 +2192,7 @@ Josephine,0022 22,State Treasurer,,R,Under Votes,274
 Josephine,0023 23,State Treasurer,,R,Under Votes,120
 Josephine,0024 24,State Treasurer,,R,Under Votes,172
 Josephine,0025 25,State Treasurer,,R,Under Votes,292
-Josephine,0026  26,State Treasurer,,R,Under Votes,249
+Josephine,0026 26,State Treasurer,,R,Under Votes,249
 Josephine,0027 27,State Treasurer,,R,Under Votes,84
 Josephine,0028 28,State Treasurer,,R,Under Votes,106
 Josephine,0029 29,State Treasurer,,R,Under Votes,4
@@ -2238,7 +2238,7 @@ Josephine,0022 22,Attorney General,,R,Write-ins,26
 Josephine,0023 23,Attorney General,,R,Write-ins,4
 Josephine,0024 24,Attorney General,,R,Write-ins,8
 Josephine,0025 25,Attorney General,,R,Write-ins,33
-Josephine,0026  26,Attorney General,,R,Write-ins,19
+Josephine,0026 26,Attorney General,,R,Write-ins,19
 Josephine,0027 27,Attorney General,,R,Write-ins,9
 Josephine,0028 28,Attorney General,,R,Write-ins,9
 Josephine,0029 29,Attorney General,,R,Write-ins,0
@@ -2284,7 +2284,7 @@ Josephine,0022 22,Attorney General,,R,Over Votes,0
 Josephine,0023 23,Attorney General,,R,Over Votes,0
 Josephine,0024 24,Attorney General,,R,Over Votes,0
 Josephine,0025 25,Attorney General,,R,Over Votes,0
-Josephine,0026  26,Attorney General,,R,Over Votes,0
+Josephine,0026 26,Attorney General,,R,Over Votes,0
 Josephine,0027 27,Attorney General,,R,Over Votes,0
 Josephine,0028 28,Attorney General,,R,Over Votes,0
 Josephine,0029 29,Attorney General,,R,Over Votes,0
@@ -2330,7 +2330,7 @@ Josephine,0022 22,Attorney General,,R,Under Votes,273
 Josephine,0023 23,Attorney General,,R,Under Votes,121
 Josephine,0024 24,Attorney General,,R,Under Votes,172
 Josephine,0025 25,Attorney General,,R,Under Votes,287
-Josephine,0026  26,Attorney General,,R,Under Votes,244
+Josephine,0026 26,Attorney General,,R,Under Votes,244
 Josephine,0027 27,Attorney General,,R,Under Votes,86
 Josephine,0028 28,Attorney General,,R,Under Votes,104
 Josephine,0029 29,Attorney General,,R,Under Votes,4
@@ -2415,7 +2415,7 @@ Josephine,0022 22,State Senate,2,R,Herman Baertschiger Jr.,198
 Josephine,0023 23,State Senate,2,R,Herman Baertschiger Jr.,70
 Josephine,0024 24,State Senate,2,R,Herman Baertschiger Jr.,113
 Josephine,0025 25,State Senate,2,R,Herman Baertschiger Jr.,199
-Josephine,0026  26,State Senate,2,R,Herman Baertschiger Jr.,169
+Josephine,0026 26,State Senate,2,R,Herman Baertschiger Jr.,169
 Josephine,0028 28,State Senate,2,R,Herman Baertschiger Jr.,71
 Josephine,0029 29,State Senate,2,R,Herman Baertschiger Jr.,3
 Josephine,0030 30,State Senate,2,R,Herman Baertschiger Jr.,113
@@ -2451,7 +2451,7 @@ Josephine,0022 22,State Senate,2,R,Write-ins,3
 Josephine,0023 23,State Senate,2,R,Write-ins,0
 Josephine,0024 24,State Senate,2,R,Write-ins,1
 Josephine,0025 25,State Senate,2,R,Write-ins,3
-Josephine,0026  26,State Senate,2,R,Write-ins,2
+Josephine,0026 26,State Senate,2,R,Write-ins,2
 Josephine,0028 28,State Senate,2,R,Write-ins,1
 Josephine,0029 29,State Senate,2,R,Write-ins,0
 Josephine,0030 30,State Senate,2,R,Write-ins,5
@@ -2487,7 +2487,7 @@ Josephine,0022 22,State Senate,2,R,Over Votes,0
 Josephine,0023 23,State Senate,2,R,Over Votes,0
 Josephine,0024 24,State Senate,2,R,Over Votes,0
 Josephine,0025 25,State Senate,2,R,Over Votes,0
-Josephine,0026  26,State Senate,2,R,Over Votes,0
+Josephine,0026 26,State Senate,2,R,Over Votes,0
 Josephine,0028 28,State Senate,2,R,Over Votes,0
 Josephine,0029 29,State Senate,2,R,Over Votes,0
 Josephine,0030 30,State Senate,2,R,Over Votes,0
@@ -2523,7 +2523,7 @@ Josephine,0022 22,State Senate,2,R,Under Votes,98
 Josephine,0023 23,State Senate,2,R,Under Votes,55
 Josephine,0024 24,State Senate,2,R,Under Votes,66
 Josephine,0025 25,State Senate,2,R,Under Votes,118
-Josephine,0026  26,State Senate,2,R,Under Votes,92
+Josephine,0026 26,State Senate,2,R,Under Votes,92
 Josephine,0028 28,State Senate,2,R,Under Votes,41
 Josephine,0029 29,State Senate,2,R,Under Votes,1
 Josephine,0030 30,State Senate,2,R,Under Votes,61
@@ -2593,7 +2593,7 @@ Josephine,0017 17,State House,3,R,Wally Hicks,263
 Josephine,0018 18,State House,3,R,Wally Hicks,284
 Josephine,0019 19,State House,3,R,Wally Hicks,327
 Josephine,0024 24,State House,3,R,Wally Hicks,124
-Josephine,0026  26,State House,3,R,Wally Hicks,172
+Josephine,0026 26,State House,3,R,Wally Hicks,172
 Josephine,0028 28,State House,3,R,Wally Hicks,74
 Josephine,0029 29,State House,3,R,Wally Hicks,4
 Josephine,0030 30,State House,3,R,Wally Hicks,122
@@ -2621,7 +2621,7 @@ Josephine,0017 17,State House,3,R,Write-ins,3
 Josephine,0018 18,State House,3,R,Write-ins,2
 Josephine,0019 19,State House,3,R,Write-ins,2
 Josephine,0024 24,State House,3,R,Write-ins,1
-Josephine,0026  26,State House,3,R,Write-ins,0
+Josephine,0026 26,State House,3,R,Write-ins,0
 Josephine,0028 28,State House,3,R,Write-ins,1
 Josephine,0029 29,State House,3,R,Write-ins,0
 Josephine,0030 30,State House,3,R,Write-ins,4
@@ -2649,7 +2649,7 @@ Josephine,0017 17,State House,3,R,Over Votes,0
 Josephine,0018 18,State House,3,R,Over Votes,0
 Josephine,0019 19,State House,3,R,Over Votes,0
 Josephine,0024 24,State House,3,R,Over Votes,0
-Josephine,0026  26,State House,3,R,Over Votes,0
+Josephine,0026 26,State House,3,R,Over Votes,0
 Josephine,0028 28,State House,3,R,Over Votes,0
 Josephine,0029 29,State House,3,R,Over Votes,0
 Josephine,0030 30,State House,3,R,Over Votes,0
@@ -2677,7 +2677,7 @@ Josephine,0017 17,State House,3,R,Under Votes,122
 Josephine,0018 18,State House,3,R,Under Votes,161
 Josephine,0019 19,State House,3,R,Under Votes,180
 Josephine,0024 24,State House,3,R,Under Votes,55
-Josephine,0026  26,State House,3,R,Under Votes,91
+Josephine,0026 26,State House,3,R,Under Votes,91
 Josephine,0028 28,State House,3,R,Under Votes,38
 Josephine,0029 29,State House,3,R,Under Votes,0
 Josephine,0030 30,State House,3,R,Under Votes,53
