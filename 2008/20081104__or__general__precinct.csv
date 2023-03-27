@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes,vtd
+county,precinct,office,district,candidate,party,votes
 Coos,0001 LAKESIDE CITY & RURAL,Attorney General,,John R Kroger,DEM,707
 Coos,0002 RURAL NORTH BEND,Attorney General,,John R Kroger,DEM,1380
 Coos,0003 NORTH BEND CITY WEST,Attorney General,,John R Kroger,DEM,1565
@@ -12852,7 +12852,7 @@ Curry,25,State House,1,Write-ins,,2
 Curry,26,State House,1,Write-ins,,3
 Curry,27,State House,1,Write-ins,,0
 Curry,,State House,1,Write-ins,,26
-Yamhill,Prec 1  BS 01,President,,Ralph Nader,PCE,15
+Yamhill,Prec 1 BS 01,President,,Ralph Nader,PCE,15
 Yamhill,Prec 1 BS 02,President,,Ralph Nader,PCE,1
 Yamhill,Prec 2 BS 03,President,,Ralph Nader,PCE,35
 Yamhill,Prec 3 BS 03,President,,Ralph Nader,PCE,30
@@ -12906,7 +12906,7 @@ Yamhill,Prec 27 BS 27a,President,,Ralph Nader,PCE,9
 Yamhill,Prec 27 BS 26,President,,Ralph Nader,PCE,0
 Yamhill,Prec 28 BS 28a,President,,Ralph Nader,PCE,4
 Yamhill,Prec 28 BS 29,President,,Ralph Nader,PCE,0
-Yamhill,Prec 1  BS 01,President,,Cynthia McKinney,PAC,1
+Yamhill,Prec 1 BS 01,President,,Cynthia McKinney,PAC,1
 Yamhill,Prec 1 BS 02,President,,Cynthia McKinney,PAC,0
 Yamhill,Prec 2 BS 03,President,,Cynthia McKinney,PAC,2
 Yamhill,Prec 3 BS 03,President,,Cynthia McKinney,PAC,9
@@ -12960,7 +12960,7 @@ Yamhill,Prec 27 BS 27a,President,,Cynthia McKinney,PAC,3
 Yamhill,Prec 27 BS 26,President,,Cynthia McKinney,PAC,0
 Yamhill,Prec 28 BS 28a,President,,Cynthia McKinney,PAC,3
 Yamhill,Prec 28 BS 29,President,,Cynthia McKinney,PAC,0
-Yamhill,Prec 1  BS 01,President,,John McCain,REP,1259
+Yamhill,Prec 1 BS 01,President,,John McCain,REP,1259
 Yamhill,Prec 1 BS 02,President,,John McCain,REP,4
 Yamhill,Prec 2 BS 03,President,,John McCain,REP,1800
 Yamhill,Prec 3 BS 03,President,,John McCain,REP,1865
@@ -13014,7 +13014,7 @@ Yamhill,Prec 27 BS 27a,President,,John McCain,REP,219
 Yamhill,Prec 27 BS 26,President,,John McCain,REP,13
 Yamhill,Prec 28 BS 28a,President,,John McCain,REP,330
 Yamhill,Prec 28 BS 29,President,,John McCain,REP,0
-Yamhill,Prec 1  BS 01,President,,Bob Barr,LBT,11
+Yamhill,Prec 1 BS 01,President,,Bob Barr,LBT,11
 Yamhill,Prec 1 BS 02,President,,Bob Barr,LBT,0
 Yamhill,Prec 2 BS 03,President,,Bob Barr,LBT,12
 Yamhill,Prec 3 BS 03,President,,Bob Barr,LBT,17
@@ -13068,7 +13068,7 @@ Yamhill,Prec 27 BS 27a,President,,Bob Barr,LBT,4
 Yamhill,Prec 27 BS 26,President,,Bob Barr,LBT,0
 Yamhill,Prec 28 BS 28a,President,,Bob Barr,LBT,3
 Yamhill,Prec 28 BS 29,President,,Bob Barr,LBT,0
-Yamhill,Prec 1  BS 01,President,,Chuck Baldwin,CON,20
+Yamhill,Prec 1 BS 01,President,,Chuck Baldwin,CON,20
 Yamhill,Prec 1 BS 02,President,,Chuck Baldwin,CON,0
 Yamhill,Prec 2 BS 03,President,,Chuck Baldwin,CON,19
 Yamhill,Prec 3 BS 03,President,,Chuck Baldwin,CON,23
@@ -13122,7 +13122,7 @@ Yamhill,Prec 27 BS 27a,President,,Chuck Baldwin,CON,8
 Yamhill,Prec 27 BS 26,President,,Chuck Baldwin,CON,0
 Yamhill,Prec 28 BS 28a,President,,Chuck Baldwin,CON,9
 Yamhill,Prec 28 BS 29,President,,Chuck Baldwin,CON,0
-Yamhill,Prec 1  BS 01,President,,Barack Obama,DEM,1015
+Yamhill,Prec 1 BS 01,President,,Barack Obama,DEM,1015
 Yamhill,Prec 1 BS 02,President,,Barack Obama,DEM,13
 Yamhill,Prec 2 BS 03,President,,Barack Obama,DEM,1371
 Yamhill,Prec 3 BS 03,President,,Barack Obama,DEM,1685
@@ -13176,7 +13176,7 @@ Yamhill,Prec 27 BS 27a,President,,Barack Obama,DEM,183
 Yamhill,Prec 27 BS 26,President,,Barack Obama,DEM,17
 Yamhill,Prec 28 BS 28a,President,,Barack Obama,DEM,222
 Yamhill,Prec 28 BS 29,President,,Barack Obama,DEM,0
-Yamhill,Prec 1  BS 01,President,,Write-ins,,21
+Yamhill,Prec 1 BS 01,President,,Write-ins,,21
 Yamhill,Prec 1 BS 02,President,,Write-ins,,0
 Yamhill,Prec 2 BS 03,President,,Write-ins,,23
 Yamhill,Prec 3 BS 03,President,,Write-ins,,26
@@ -13230,7 +13230,7 @@ Yamhill,Prec 27 BS 27a,President,,Write-ins,,3
 Yamhill,Prec 27 BS 26,President,,Write-ins,,0
 Yamhill,Prec 28 BS 28a,President,,Write-ins,,6
 Yamhill,Prec 28 BS 29,President,,Write-ins,,0
-Yamhill,Prec 1  BS 01,U.S. Senate,,Gordon H Smith,REP,1369
+Yamhill,Prec 1 BS 01,U.S. Senate,,Gordon H Smith,REP,1369
 Yamhill,Prec 1 BS 02,U.S. Senate,,Gordon H Smith,REP,6
 Yamhill,Prec 2 BS 03,U.S. Senate,,Gordon H Smith,REP,1894
 Yamhill,Prec 3 BS 03,U.S. Senate,,Gordon H Smith,REP,1961
@@ -13284,7 +13284,7 @@ Yamhill,Prec 27 BS 27a,U.S. Senate,,Gordon H Smith,REP,206
 Yamhill,Prec 27 BS 26,U.S. Senate,,Gordon H Smith,REP,14
 Yamhill,Prec 28 BS 28a,U.S. Senate,,Gordon H Smith,REP,319
 Yamhill,Prec 28 BS 29,U.S. Senate,,Gordon H Smith,REP,0
-Yamhill,Prec 1  BS 01,U.S. Senate,,Jeff Merkley,DEM,784
+Yamhill,Prec 1 BS 01,U.S. Senate,,Jeff Merkley,DEM,784
 Yamhill,Prec 1 BS 02,U.S. Senate,,Jeff Merkley,DEM,10
 Yamhill,Prec 2 BS 03,U.S. Senate,,Jeff Merkley,DEM,1026
 Yamhill,Prec 3 BS 03,U.S. Senate,,Jeff Merkley,DEM,1348
@@ -13338,7 +13338,7 @@ Yamhill,Prec 27 BS 27a,U.S. Senate,,Jeff Merkley,DEM,168
 Yamhill,Prec 27 BS 26,U.S. Senate,,Jeff Merkley,DEM,12
 Yamhill,Prec 28 BS 28a,U.S. Senate,,Jeff Merkley,DEM,184
 Yamhill,Prec 28 BS 29,U.S. Senate,,Jeff Merkley,DEM,0
-Yamhill,Prec 1  BS 01,U.S. Senate,,Dave Brownlow,CON,123
+Yamhill,Prec 1 BS 01,U.S. Senate,,Dave Brownlow,CON,123
 Yamhill,Prec 1 BS 02,U.S. Senate,,Dave Brownlow,CON,1
 Yamhill,Prec 2 BS 03,U.S. Senate,,Dave Brownlow,CON,207
 Yamhill,Prec 3 BS 03,U.S. Senate,,Dave Brownlow,CON,228
@@ -13392,7 +13392,7 @@ Yamhill,Prec 27 BS 27a,U.S. Senate,,Dave Brownlow,CON,44
 Yamhill,Prec 27 BS 26,U.S. Senate,,Dave Brownlow,CON,2
 Yamhill,Prec 28 BS 28a,U.S. Senate,,Dave Brownlow,CON,54
 Yamhill,Prec 28 BS 29,U.S. Senate,,Dave Brownlow,CON,0
-Yamhill,Prec 1  BS 01,U.S. House,1,Joel Haugen,IND,542
+Yamhill,Prec 1 BS 01,U.S. House,1,Joel Haugen,IND,542
 Yamhill,Prec 1 BS 02,U.S. House,1,Joel Haugen,IND,5
 Yamhill,Prec 2 BS 03,U.S. House,1,Joel Haugen,IND,817
 Yamhill,Prec 3 BS 03,U.S. House,1,Joel Haugen,IND,861
@@ -13446,7 +13446,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,Joel Haugen,IND,104
 Yamhill,Prec 27 BS 26,U.S. House,1,Joel Haugen,IND,8
 Yamhill,Prec 28 BS 28a,U.S. House,1,Joel Haugen,IND,150
 Yamhill,Prec 28 BS 29,U.S. House,1,Joel Haugen,IND,0
-Yamhill,Prec 1  BS 01,U.S. House,1,Chris Henry,PAC,28
+Yamhill,Prec 1 BS 01,U.S. House,1,Chris Henry,PAC,28
 Yamhill,Prec 1 BS 02,U.S. House,1,Chris Henry,PAC,0
 Yamhill,Prec 2 BS 03,U.S. House,1,Chris Henry,PAC,53
 Yamhill,Prec 3 BS 03,U.S. House,1,Chris Henry,PAC,45
@@ -13500,7 +13500,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,Chris Henry,PAC,7
 Yamhill,Prec 27 BS 26,U.S. House,1,Chris Henry,PAC,1
 Yamhill,Prec 28 BS 28a,U.S. House,1,Chris Henry,PAC,11
 Yamhill,Prec 28 BS 29,U.S. House,1,Chris Henry,PAC,0
-Yamhill,Prec 1  BS 01,U.S. House,1,Scott Semrau,CON,163
+Yamhill,Prec 1 BS 01,U.S. House,1,Scott Semrau,CON,163
 Yamhill,Prec 1 BS 02,U.S. House,1,Scott Semrau,CON,0
 Yamhill,Prec 2 BS 03,U.S. House,1,Scott Semrau,CON,178
 Yamhill,Prec 3 BS 03,U.S. House,1,Scott Semrau,CON,197
@@ -13554,7 +13554,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,Scott Semrau,CON,19
 Yamhill,Prec 27 BS 26,U.S. House,1,Scott Semrau,CON,0
 Yamhill,Prec 28 BS 28a,U.S. House,1,Scott Semrau,CON,38
 Yamhill,Prec 28 BS 29,U.S. House,1,Scott Semrau,CON,0
-Yamhill,Prec 1  BS 01,U.S. House,1,David Wu,DEM,1210
+Yamhill,Prec 1 BS 01,U.S. House,1,David Wu,DEM,1210
 Yamhill,Prec 1 BS 02,U.S. House,1,David Wu,DEM,10
 Yamhill,Prec 2 BS 03,U.S. House,1,David Wu,DEM,1669
 Yamhill,Prec 3 BS 03,U.S. House,1,David Wu,DEM,1966
@@ -13608,7 +13608,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,David Wu,DEM,247
 Yamhill,Prec 27 BS 26,U.S. House,1,David Wu,DEM,14
 Yamhill,Prec 28 BS 28a,U.S. House,1,David Wu,DEM,286
 Yamhill,Prec 28 BS 29,U.S. House,1,David Wu,DEM,0
-Yamhill,Prec 1  BS 01,U.S. House,1,H Joe Tabor,LBT,71
+Yamhill,Prec 1 BS 01,U.S. House,1,H Joe Tabor,LBT,71
 Yamhill,Prec 1 BS 02,U.S. House,1,H Joe Tabor,LBT,0
 Yamhill,Prec 2 BS 03,U.S. House,1,H Joe Tabor,LBT,78
 Yamhill,Prec 3 BS 03,U.S. House,1,H Joe Tabor,LBT,95
@@ -13662,7 +13662,7 @@ Yamhill,Prec 27 BS 27a,U.S. House,1,H Joe Tabor,LBT,17
 Yamhill,Prec 27 BS 26,U.S. House,1,H Joe Tabor,LBT,1
 Yamhill,Prec 28 BS 28a,U.S. House,1,H Joe Tabor,LBT,17
 Yamhill,Prec 28 BS 29,U.S. House,1,H Joe Tabor,LBT,0
-Yamhill,Prec 1  BS 01,Secretary of State,,Kate Brown,DEM,878
+Yamhill,Prec 1 BS 01,Secretary of State,,Kate Brown,DEM,878
 Yamhill,Prec 1 BS 02,Secretary of State,,Kate Brown,DEM,8
 Yamhill,Prec 2 BS 03,Secretary of State,,Kate Brown,DEM,1182
 Yamhill,Prec 3 BS 03,Secretary of State,,Kate Brown,DEM,1459
@@ -13716,7 +13716,7 @@ Yamhill,Prec 27 BS 27a,Secretary of State,,Kate Brown,DEM,167
 Yamhill,Prec 27 BS 26,Secretary of State,,Kate Brown,DEM,14
 Yamhill,Prec 28 BS 28a,Secretary of State,,Kate Brown,DEM,196
 Yamhill,Prec 28 BS 29,Secretary of State,,Kate Brown,DEM,0
-Yamhill,Prec 1  BS 01,Secretary of State,,Seth Alan Woolley,PAC,41
+Yamhill,Prec 1 BS 01,Secretary of State,,Seth Alan Woolley,PAC,41
 Yamhill,Prec 1 BS 02,Secretary of State,,Seth Alan Woolley,PAC,1
 Yamhill,Prec 2 BS 03,Secretary of State,,Seth Alan Woolley,PAC,58
 Yamhill,Prec 3 BS 03,Secretary of State,,Seth Alan Woolley,PAC,68
@@ -13770,7 +13770,7 @@ Yamhill,Prec 27 BS 27a,Secretary of State,,Seth Alan Woolley,PAC,17
 Yamhill,Prec 27 BS 26,Secretary of State,,Seth Alan Woolley,PAC,1
 Yamhill,Prec 28 BS 28a,Secretary of State,,Seth Alan Woolley,PAC,17
 Yamhill,Prec 28 BS 29,Secretary of State,,Seth Alan Woolley,PAC,0
-Yamhill,Prec 1  BS 01,Secretary of State,,Rick Dancer,REP,1272
+Yamhill,Prec 1 BS 01,Secretary of State,,Rick Dancer,REP,1272
 Yamhill,Prec 1 BS 02,Secretary of State,,Rick Dancer,REP,6
 Yamhill,Prec 2 BS 03,Secretary of State,,Rick Dancer,REP,1772
 Yamhill,Prec 3 BS 03,Secretary of State,,Rick Dancer,REP,1845
@@ -13824,7 +13824,7 @@ Yamhill,Prec 27 BS 27a,Secretary of State,,Rick Dancer,REP,230
 Yamhill,Prec 27 BS 26,Secretary of State,,Rick Dancer,REP,13
 Yamhill,Prec 28 BS 28a,Secretary of State,,Rick Dancer,REP,323
 Yamhill,Prec 28 BS 29,Secretary of State,,Rick Dancer,REP,0
-Yamhill,Prec 1  BS 01,State Treasurer,,Allen Alley,REP,1297
+Yamhill,Prec 1 BS 01,State Treasurer,,Allen Alley,REP,1297
 Yamhill,Prec 1 BS 02,State Treasurer,,Allen Alley,REP,7
 Yamhill,Prec 2 BS 03,State Treasurer,,Allen Alley,REP,1770
 Yamhill,Prec 3 BS 03,State Treasurer,,Allen Alley,REP,1783
@@ -13878,7 +13878,7 @@ Yamhill,Prec 27 BS 27a,State Treasurer,,Allen Alley,REP,208
 Yamhill,Prec 27 BS 26,State Treasurer,,Allen Alley,REP,13
 Yamhill,Prec 28 BS 28a,State Treasurer,,Allen Alley,REP,278
 Yamhill,Prec 28 BS 29,State Treasurer,,Allen Alley,REP,0
-Yamhill,Prec 1  BS 01,State Treasurer,,Michael Marsh,CON,71
+Yamhill,Prec 1 BS 01,State Treasurer,,Michael Marsh,CON,71
 Yamhill,Prec 1 BS 02,State Treasurer,,Michael Marsh,CON,1
 Yamhill,Prec 2 BS 03,State Treasurer,,Michael Marsh,CON,82
 Yamhill,Prec 3 BS 03,State Treasurer,,Michael Marsh,CON,115
@@ -13932,7 +13932,7 @@ Yamhill,Prec 27 BS 27a,State Treasurer,,Michael Marsh,CON,32
 Yamhill,Prec 27 BS 26,State Treasurer,,Michael Marsh,CON,1
 Yamhill,Prec 28 BS 28a,State Treasurer,,Michael Marsh,CON,31
 Yamhill,Prec 28 BS 29,State Treasurer,,Michael Marsh,CON,0
-Yamhill,Prec 1  BS 01,State Treasurer,,Ben Westlund,DEM,788
+Yamhill,Prec 1 BS 01,State Treasurer,,Ben Westlund,DEM,788
 Yamhill,Prec 1 BS 02,State Treasurer,,Ben Westlund,DEM,8
 Yamhill,Prec 2 BS 03,State Treasurer,,Ben Westlund,DEM,1118
 Yamhill,Prec 3 BS 03,State Treasurer,,Ben Westlund,DEM,1385
@@ -13986,7 +13986,7 @@ Yamhill,Prec 27 BS 27a,State Treasurer,,Ben Westlund,DEM,170
 Yamhill,Prec 27 BS 26,State Treasurer,,Ben Westlund,DEM,14
 Yamhill,Prec 28 BS 28a,State Treasurer,,Ben Westlund,DEM,211
 Yamhill,Prec 28 BS 29,State Treasurer,,Ben Westlund,DEM,0
-Yamhill,Prec 1  BS 01,Attorney General,,John R Kroger,DEM,1282
+Yamhill,Prec 1 BS 01,Attorney General,,John R Kroger,DEM,1282
 Yamhill,Prec 1 BS 02,Attorney General,,John R Kroger,DEM,8
 Yamhill,Prec 2 BS 03,Attorney General,,John R Kroger,DEM,1743
 Yamhill,Prec 3 BS 03,Attorney General,,John R Kroger,DEM,1933
@@ -14040,7 +14040,7 @@ Yamhill,Prec 27 BS 27a,Attorney General,,John R Kroger,DEM,228
 Yamhill,Prec 27 BS 26,Attorney General,,John R Kroger,DEM,16
 Yamhill,Prec 28 BS 28a,Attorney General,,John R Kroger,DEM,294
 Yamhill,Prec 28 BS 29,Attorney General,,John R Kroger,DEM,0
-Yamhill,Prec 1  BS 01,Attorney General,,J Ashlee Albies,WFP,172
+Yamhill,Prec 1 BS 01,Attorney General,,J Ashlee Albies,WFP,172
 Yamhill,Prec 1 BS 02,Attorney General,,J Ashlee Albies,WFP,2
 Yamhill,Prec 2 BS 03,Attorney General,,J Ashlee Albies,WFP,347
 Yamhill,Prec 3 BS 03,Attorney General,,J Ashlee Albies,WFP,403
@@ -14094,7 +14094,7 @@ Yamhill,Prec 27 BS 27a,Attorney General,,J Ashlee Albies,WFP,70
 Yamhill,Prec 27 BS 26,Attorney General,,J Ashlee Albies,WFP,4
 Yamhill,Prec 28 BS 28a,Attorney General,,J Ashlee Albies,WFP,74
 Yamhill,Prec 28 BS 29,Attorney General,,J Ashlee Albies,WFP,0
-Yamhill,Prec 1  BS 01,Attorney General,,Walter F (Walt) Brown,PAC,100
+Yamhill,Prec 1 BS 01,Attorney General,,Walter F (Walt) Brown,PAC,100
 Yamhill,Prec 1 BS 02,Attorney General,,Walter F (Walt) Brown,PAC,1
 Yamhill,Prec 2 BS 03,Attorney General,,Walter F (Walt) Brown,PAC,140
 Yamhill,Prec 3 BS 03,Attorney General,,Walter F (Walt) Brown,PAC,150
@@ -14148,7 +14148,7 @@ Yamhill,Prec 27 BS 27a,Attorney General,,Walter F (Walt) Brown,PAC,26
 Yamhill,Prec 27 BS 26,Attorney General,,Walter F (Walt) Brown,PAC,0
 Yamhill,Prec 28 BS 28a,Attorney General,,Walter F (Walt) Brown,PAC,17
 Yamhill,Prec 28 BS 29,Attorney General,,Walter F (Walt) Brown,PAC,0
-Yamhill,Prec 1  BS 01,Attorney General,,James E Leuenberger,CON,354
+Yamhill,Prec 1 BS 01,Attorney General,,James E Leuenberger,CON,354
 Yamhill,Prec 1 BS 02,Attorney General,,James E Leuenberger,CON,4
 Yamhill,Prec 2 BS 03,Attorney General,,James E Leuenberger,CON,476
 Yamhill,Prec 3 BS 03,Attorney General,,James E Leuenberger,CON,509
@@ -14394,7 +14394,7 @@ Yamhill,Prec 24 BS 05,State House,24,Jim Weidner,REP,45
 Yamhill,Prec 24 BS 08,State House,24,Jim Weidner,REP,100
 Yamhill,Prec 24 BS 10,State House,24,Jim Weidner,REP,73
 Yamhill,Prec 24 BS 06,State House,24,Jim Weidner,REP,84
-Yamhill,Prec 1  BS 01,State House,25,Kim Thatcher,REP,1643
+Yamhill,Prec 1 BS 01,State House,25,Kim Thatcher,REP,1643
 Yamhill,Prec 1 BS 02,State House,25,Kim Thatcher,REP,7
 Yamhill,Prec 2 BS 03,State House,25,Kim Thatcher,REP,2416
 Yamhill,Prec 3 BS 03,State House,25,Kim Thatcher,REP,2573
@@ -19071,264 +19071,264 @@ Columbia,Total,State House,32,Over Votes,,0
 Columbia,Total,State House,32,Write-ins,,6
 Columbia,Total,State House,32,Deborah Boone,DEM,328
 Columbia,Total,State House,32,Tim Bero,REP,257
-Grant,JOHN DAY VALLEY ,President,,Chuck Baldwin,CON,25
-Grant,UNION ,President,,Chuck Baldwin,CON,7
-Grant,NORTH FORK ,President,,Chuck Baldwin,CON,3
-Grant,SOUTHFORK ,President,,Chuck Baldwin,CON,1
-Grant,LONG CREEK VALLEY ,President,,Chuck Baldwin,CON,3
-Grant,JOHN DAY VALLEY ,President,,Bob Barr,LBT,11
-Grant,UNION ,President,,Bob Barr,LBT,1
-Grant,NORTH FORK ,President,,Bob Barr,LBT,2
-Grant,SOUTHFORK ,President,,Bob Barr,LBT,1
-Grant,LONG CREEK VALLEY ,President,,Bob Barr,LBT,0
-Grant,JOHN DAY VALLEY ,President,,John McCain,REP,1879
-Grant,UNION ,President,,John McCain,REP,431
-Grant,NORTH FORK ,President,,John McCain,REP,142
-Grant,SOUTHFORK ,President,,John McCain,REP,145
-Grant,LONG CREEK VALLEY ,President,,John McCain,REP,188
-Grant,JOHN DAY VALLEY ,President,,Cynthia McKinney,PGP,0
-Grant,UNION ,President,,Cynthia McKinney,PGP,1
-Grant,NORTH FORK ,President,,Cynthia McKinney,PGP,0
-Grant,SOUTHFORK ,President,,Cynthia McKinney,PGP,0
-Grant,LONG CREEK VALLEY ,President,,Cynthia McKinney,PGP,1
-Grant,JOHN DAY VALLEY ,President,,Ralph Nader,PCE,19
-Grant,UNION ,President,,Ralph Nader,PCE,7
-Grant,NORTH FORK ,President,,Ralph Nader,PCE,0
-Grant,SOUTHFORK ,President,,Ralph Nader,PCE,1
-Grant,LONG CREEK VALLEY ,President,,Ralph Nader,PCE,3
-Grant,JOHN DAY VALLEY ,President,,Barack Obama,DEM,681
-Grant,UNION ,President,,Barack Obama,DEM,163
-Grant,NORTH FORK ,President,,Barack Obama,DEM,64
-Grant,SOUTHFORK ,President,,Barack Obama,DEM,47
-Grant,LONG CREEK VALLEY ,President,,Barack Obama,DEM,51
-Grant,JOHN DAY VALLEY ,President,,Write-ins,,21
-Grant,UNION ,President,,Write-ins,,8
-Grant,NORTH FORK ,President,,Write-ins,,2
-Grant,SOUTHFORK ,President,,Write-ins,,0
-Grant,LONG CREEK VALLEY ,President,,Write-ins,,1
-Grant,JOHN DAY VALLEY ,President,,Over Votes,,11
-Grant,UNION ,President,,Over Votes,,2
-Grant,NORTH FORK ,President,,Over Votes,,1
-Grant,SOUTHFORK ,President,,Over Votes,,0
-Grant,LONG CREEK VALLEY ,President,,Over Votes,,0
-Grant,JOHN DAY VALLEY ,President,,Under Votes,,35
-Grant,UNION ,President,,Under Votes,,9
-Grant,NORTH FORK ,President,,Under Votes,,3
-Grant,SOUTHFORK ,President,,Under Votes,,3
-Grant,LONG CREEK VALLEY ,President,,Under Votes,,2
-Grant,JOHN DAY VALLEY ,U.S. Senate,,Dave Brownlow,CON,147
-Grant,UNION ,U.S. Senate,,Dave Brownlow,CON,39
-Grant,NORTH FORK ,U.S. Senate,,Dave Brownlow,CON,20
-Grant,SOUTHFORK ,U.S. Senate,,Dave Brownlow,CON,16
-Grant,LONG CREEK VALLEY ,U.S. Senate,,Dave Brownlow,CON,10
-Grant,JOHN DAY VALLEY ,U.S. Senate,,Jeff Merkley,DEM,502
-Grant,UNION ,U.S. Senate,,Jeff Merkley,DEM,136
-Grant,NORTH FORK ,U.S. Senate,,Jeff Merkley,DEM,44
-Grant,SOUTHFORK ,U.S. Senate,,Jeff Merkley,DEM,28
-Grant,LONG CREEK VALLEY ,U.S. Senate,,Jeff Merkley,DEM,38
-Grant,JOHN DAY VALLEY ,U.S. Senate,,Gordon H Smith,REP,1918
-Grant,UNION ,U.S. Senate,,Gordon H Smith,REP,426
-Grant,NORTH FORK ,U.S. Senate,,Gordon H Smith,REP,139
-Grant,SOUTHFORK ,U.S. Senate,,Gordon H Smith,REP,145
-Grant,LONG CREEK VALLEY ,U.S. Senate,,Gordon H Smith,REP,193
-Grant,JOHN DAY VALLEY ,U.S. Senate,,Write-ins,,3
-Grant,UNION ,U.S. Senate,,Write-ins,,1
-Grant,NORTH FORK ,U.S. Senate,,Write-ins,,1
-Grant,SOUTHFORK ,U.S. Senate,,Write-ins,,0
-Grant,LONG CREEK VALLEY ,U.S. Senate,,Write-ins,,0
-Grant,JOHN DAY VALLEY ,U.S. Senate,,Over Votes,,5
-Grant,UNION ,U.S. Senate,,Over Votes,,0
-Grant,NORTH FORK ,U.S. Senate,,Over Votes,,1
-Grant,SOUTHFORK ,U.S. Senate,,Over Votes,,0
-Grant,LONG CREEK VALLEY ,U.S. Senate,,Over Votes,,0
-Grant,JOHN DAY VALLEY ,U.S. Senate,,Under Votes,,107
-Grant,UNION ,U.S. Senate,,Under Votes,,27
-Grant,NORTH FORK ,U.S. Senate,,Under Votes,,12
-Grant,SOUTHFORK ,U.S. Senate,,Under Votes,,9
-Grant,LONG CREEK VALLEY ,U.S. Senate,,Under Votes,,8
-Grant,JOHN DAY VALLEY ,U.S. House,2,Richard D Hake,CON,51
-Grant,UNION ,U.S. House,2,Richard D Hake,CON,10
-Grant,NORTH FORK ,U.S. House,2,Richard D Hake,CON,7
-Grant,SOUTHFORK ,U.S. House,2,Richard D Hake,CON,2
-Grant,LONG CREEK VALLEY ,U.S. House,2,Richard D Hake,CON,8
-Grant,JOHN DAY VALLEY ,U.S. House,2,Noah Lemas,DEM,329
-Grant,UNION ,U.S. House,2,Noah Lemas,DEM,93
-Grant,NORTH FORK ,U.S. House,2,Noah Lemas,DEM,30
-Grant,SOUTHFORK ,U.S. House,2,Noah Lemas,DEM,17
-Grant,LONG CREEK VALLEY ,U.S. House,2,Noah Lemas,DEM,24
-Grant,JOHN DAY VALLEY ,U.S. House,2,Tristin Mock,PGP,28
-Grant,UNION ,U.S. House,2,Tristin Mock,PGP,5
-Grant,NORTH FORK ,U.S. House,2,Tristin Mock,PGP,4
-Grant,SOUTHFORK ,U.S. House,2,Tristin Mock,PGP,5
-Grant,LONG CREEK VALLEY ,U.S. House,2,Tristin Mock,PGP,4
-Grant,JOHN DAY VALLEY ,U.S. House,2,Greg Walden,REP,2118
-Grant,UNION ,U.S. House,2,Greg Walden,REP,486
-Grant,NORTH FORK ,U.S. House,2,Greg Walden,REP,161
-Grant,SOUTHFORK ,U.S. House,2,Greg Walden,REP,162
-Grant,LONG CREEK VALLEY ,U.S. House,2,Greg Walden,REP,202
-Grant,JOHN DAY VALLEY ,U.S. House,2,Write-ins,,6
-Grant,UNION ,U.S. House,2,Write-ins,,1
-Grant,NORTH FORK ,U.S. House,2,Write-ins,,2
-Grant,SOUTHFORK ,U.S. House,2,Write-ins,,0
-Grant,LONG CREEK VALLEY ,U.S. House,2,Write-ins,,1
-Grant,JOHN DAY VALLEY ,U.S. House,2,Over Votes,,1
-Grant,UNION ,U.S. House,2,Over Votes,,1
-Grant,NORTH FORK ,U.S. House,2,Over Votes,,0
-Grant,SOUTHFORK ,U.S. House,2,Over Votes,,0
-Grant,LONG CREEK VALLEY ,U.S. House,2,Over Votes,,1
-Grant,JOHN DAY VALLEY ,U.S. House,2,Under Votes,,149
-Grant,UNION ,U.S. House,2,Under Votes,,33
-Grant,NORTH FORK ,U.S. House,2,Under Votes,,13
-Grant,SOUTHFORK ,U.S. House,2,Under Votes,,12
-Grant,LONG CREEK VALLEY ,U.S. House,2,Under Votes,,9
-Grant,JOHN DAY VALLEY ,Secretary of State,,Kate Brown,DEM,635
-Grant,UNION ,Secretary of State,,Kate Brown,DEM,162
-Grant,NORTH FORK ,Secretary of State,,Kate Brown,DEM,55
-Grant,SOUTHFORK ,Secretary of State,,Kate Brown,DEM,34
-Grant,LONG CREEK VALLEY ,Secretary of State,,Kate Brown,DEM,48
-Grant,JOHN DAY VALLEY ,Secretary of State,,Rick Dancer,REP,1761
-Grant,UNION ,Secretary of State,,Rick Dancer,REP,397
-Grant,NORTH FORK ,Secretary of State,,Rick Dancer,REP,137
-Grant,SOUTHFORK ,Secretary of State,,Rick Dancer,REP,142
-Grant,LONG CREEK VALLEY ,Secretary of State,,Rick Dancer,REP,171
-Grant,JOHN DAY VALLEY ,Secretary of State,,Seth Alan Woolley,PGP,50
-Grant,UNION ,Secretary of State,,Seth Alan Woolley,PGP,12
-Grant,NORTH FORK ,Secretary of State,,Seth Alan Woolley,PGP,7
-Grant,SOUTHFORK ,Secretary of State,,Seth Alan Woolley,PGP,2
-Grant,LONG CREEK VALLEY ,Secretary of State,,Seth Alan Woolley,PGP,4
-Grant,JOHN DAY VALLEY ,Secretary of State,,Write-ins,,1
-Grant,UNION ,Secretary of State,,Write-ins,,2
-Grant,NORTH FORK ,Secretary of State,,Write-ins,,0
-Grant,SOUTHFORK ,Secretary of State,,Write-ins,,0
-Grant,LONG CREEK VALLEY ,Secretary of State,,Write-ins,,0
-Grant,JOHN DAY VALLEY ,Secretary of State,,Over Votes,,2
-Grant,UNION ,Secretary of State,,Over Votes,,0
-Grant,NORTH FORK ,Secretary of State,,Over Votes,,0
-Grant,SOUTHFORK ,Secretary of State,,Over Votes,,1
-Grant,LONG CREEK VALLEY ,Secretary of State,,Over Votes,,0
-Grant,JOHN DAY VALLEY ,Secretary of State,,Under Votes,,233
-Grant,UNION ,Secretary of State,,Under Votes,,56
-Grant,NORTH FORK ,Secretary of State,,Under Votes,,18
-Grant,SOUTHFORK ,Secretary of State,,Under Votes,,19
-Grant,LONG CREEK VALLEY ,Secretary of State,,Under Votes,,26
-Grant,JOHN DAY VALLEY ,State Treasurer,,Allen Alley,REP,1639
-Grant,UNION ,State Treasurer,,Allen Alley,REP,371
-Grant,NORTH FORK ,State Treasurer,,Allen Alley,REP,120
-Grant,SOUTHFORK ,State Treasurer,,Allen Alley,REP,119
-Grant,LONG CREEK VALLEY ,State Treasurer,,Allen Alley,REP,162
-Grant,JOHN DAY VALLEY ,State Treasurer,,Michael Marsh,CON,92
-Grant,UNION ,State Treasurer,,Michael Marsh,CON,14
-Grant,NORTH FORK ,State Treasurer,,Michael Marsh,CON,10
-Grant,SOUTHFORK ,State Treasurer,,Michael Marsh,CON,12
-Grant,LONG CREEK VALLEY ,State Treasurer,,Michael Marsh,CON,6
-Grant,JOHN DAY VALLEY ,State Treasurer,,Ben Westlund,DEM,672
-Grant,UNION ,State Treasurer,,Ben Westlund,DEM,173
-Grant,NORTH FORK ,State Treasurer,,Ben Westlund,DEM,62
-Grant,SOUTHFORK ,State Treasurer,,Ben Westlund,DEM,47
-Grant,LONG CREEK VALLEY ,State Treasurer,,Ben Westlund,DEM,48
-Grant,JOHN DAY VALLEY ,State Treasurer,,Write-ins,,3
-Grant,UNION ,State Treasurer,,Write-ins,,1
-Grant,NORTH FORK ,State Treasurer,,Write-ins,,0
-Grant,SOUTHFORK ,State Treasurer,,Write-ins,,0
-Grant,LONG CREEK VALLEY ,State Treasurer,,Write-ins,,0
-Grant,JOHN DAY VALLEY ,State Treasurer,,Over Votes,,2
-Grant,UNION ,State Treasurer,,Over Votes,,0
-Grant,NORTH FORK ,State Treasurer,,Over Votes,,0
-Grant,SOUTHFORK ,State Treasurer,,Over Votes,,0
-Grant,LONG CREEK VALLEY ,State Treasurer,,Over Votes,,0
-Grant,JOHN DAY VALLEY ,State Treasurer,,Under Votes,,274
-Grant,UNION ,State Treasurer,,Under Votes,,70
-Grant,NORTH FORK ,State Treasurer,,Under Votes,,25
-Grant,SOUTHFORK ,State Treasurer,,Under Votes,,20
-Grant,LONG CREEK VALLEY ,State Treasurer,,Under Votes,,33
-Grant,JOHN DAY VALLEY ,Attorney General,,J Ashlee Albies,WFP,341
-Grant,UNION ,Attorney General,,J Ashlee Albies,WFP,78
-Grant,NORTH FORK ,Attorney General,,J Ashlee Albies,WFP,21
-Grant,SOUTHFORK ,Attorney General,,J Ashlee Albies,WFP,24
-Grant,LONG CREEK VALLEY ,Attorney General,,J Ashlee Albies,WFP,31
-Grant,JOHN DAY VALLEY ,Attorney General,,Walter F (Walt) Brown,PGP,78
-Grant,UNION ,Attorney General,,Walter F (Walt) Brown,PGP,13
-Grant,NORTH FORK ,Attorney General,,Walter F (Walt) Brown,PGP,3
-Grant,SOUTHFORK ,Attorney General,,Walter F (Walt) Brown,PGP,9
-Grant,LONG CREEK VALLEY ,Attorney General,,Walter F (Walt) Brown,PGP,7
-Grant,JOHN DAY VALLEY ,Attorney General,,John R Kroger,DEM,1160
-Grant,UNION ,Attorney General,,John R Kroger,DEM,279
-Grant,NORTH FORK ,Attorney General,,John R Kroger,DEM,101
-Grant,SOUTHFORK ,Attorney General,,John R Kroger,DEM,73
-Grant,LONG CREEK VALLEY ,Attorney General,,John R Kroger,DEM,102
-Grant,JOHN DAY VALLEY ,Attorney General,,James E Leuenberger,CON,329
-Grant,UNION ,Attorney General,,James E Leuenberger,CON,77
-Grant,NORTH FORK ,Attorney General,,James E Leuenberger,CON,38
-Grant,SOUTHFORK ,Attorney General,,James E Leuenberger,CON,17
-Grant,LONG CREEK VALLEY ,Attorney General,,James E Leuenberger,CON,35
-Grant,JOHN DAY VALLEY ,Attorney General,,Write-ins,,16
-Grant,UNION ,Attorney General,,Write-ins,,4
-Grant,NORTH FORK ,Attorney General,,Write-ins,,2
-Grant,SOUTHFORK ,Attorney General,,Write-ins,,4
-Grant,LONG CREEK VALLEY ,Attorney General,,Write-ins,,0
-Grant,JOHN DAY VALLEY ,Attorney General,,Over Votes,,1
-Grant,UNION ,Attorney General,,Over Votes,,1
-Grant,NORTH FORK ,Attorney General,,Over Votes,,0
-Grant,SOUTHFORK ,Attorney General,,Over Votes,,0
-Grant,LONG CREEK VALLEY ,Attorney General,,Over Votes,,0
-Grant,JOHN DAY VALLEY ,Attorney General,,Under Votes,,757
-Grant,UNION ,Attorney General,,Under Votes,,177
-Grant,NORTH FORK ,Attorney General,,Under Votes,,52
-Grant,SOUTHFORK ,Attorney General,,Under Votes,,71
-Grant,LONG CREEK VALLEY ,Attorney General,,Under Votes,,74
-Grant,JOHN DAY VALLEY ,State Senate,30,Ted Ferrioli,REP,2154
-Grant,UNION ,State Senate,30,Ted Ferrioli,REP,502
-Grant,NORTH FORK ,State Senate,30,Ted Ferrioli,REP,181
-Grant,SOUTHFORK ,State Senate,30,Ted Ferrioli,REP,159
-Grant,LONG CREEK VALLEY ,State Senate,30,Ted Ferrioli,REP,200
-Grant,JOHN DAY VALLEY ,State Senate,30,Write-ins,,45
-Grant,UNION ,State Senate,30,Write-ins,,13
-Grant,NORTH FORK ,State Senate,30,Write-ins,,2
-Grant,SOUTHFORK ,State Senate,30,Write-ins,,2
-Grant,LONG CREEK VALLEY ,State Senate,30,Write-ins,,3
-Grant,JOHN DAY VALLEY ,State Senate,30,Over Votes,,1
-Grant,UNION ,State Senate,30,Over Votes,,0
-Grant,NORTH FORK ,State Senate,30,Over Votes,,0
-Grant,SOUTHFORK ,State Senate,30,Over Votes,,0
-Grant,LONG CREEK VALLEY ,State Senate,30,Over Votes,,0
-Grant,JOHN DAY VALLEY ,State Senate,30,Under Votes,,482
-Grant,UNION ,State Senate,30,Under Votes,,114
-Grant,NORTH FORK ,State Senate,30,Under Votes,,34
-Grant,SOUTHFORK ,State Senate,30,Under Votes,,37
-Grant,LONG CREEK VALLEY ,State Senate,30,Under Votes,,46
-Grant,JOHN DAY VALLEY ,State House,59,Mike Ahern,DEM,505
-Grant,UNION ,State House,59,Mike Ahern,DEM,124
-Grant,NORTH FORK ,State House,59,Mike Ahern,DEM,46
-Grant,SOUTHFORK ,State House,59,Mike Ahern,DEM,31
-Grant,LONG CREEK VALLEY ,State House,59,Mike Ahern,DEM,40
-Grant,JOHN DAY VALLEY ,State House,59,John E Huffman,REP,1605
-Grant,UNION ,State House,59,John E Huffman,REP,349
-Grant,NORTH FORK ,State House,59,John E Huffman,REP,146
-Grant,SOUTHFORK ,State House,59,John E Huffman,REP,140
-Grant,LONG CREEK VALLEY ,State House,59,John E Huffman,REP,180
-Grant,JOHN DAY VALLEY ,State House,59,Write-ins,,5
-Grant,UNION ,State House,59,Write-ins,,0
-Grant,NORTH FORK ,State House,59,Write-ins,,0
-Grant,SOUTHFORK ,State House,59,Write-ins,,0
-Grant,LONG CREEK VALLEY ,State House,59,Write-ins,,0
-Grant,JOHN DAY VALLEY ,State House,59,Over Votes,,0
-Grant,UNION ,State House,59,Over Votes,,0
-Grant,NORTH FORK ,State House,59,Over Votes,,0
-Grant,SOUTHFORK ,State House,59,Over Votes,,1
-Grant,LONG CREEK VALLEY ,State House,59,Over Votes,,0
-Grant,JOHN DAY VALLEY ,State House,59,Under Votes,,275
-Grant,UNION ,State House,59,Under Votes,,77
-Grant,NORTH FORK ,State House,59,Under Votes,,25
-Grant,SOUTHFORK ,State House,59,Under Votes,,26
-Grant,LONG CREEK VALLEY ,State House,59,Under Votes,,29
-Grant,JOHN DAY VALLEY ,State House,60,Cliff Bentz,REP,183
-Grant,UNION ,State House,60,Cliff Bentz,REP,56
-Grant,JOHN DAY VALLEY ,State House,60,Write-ins,,5
-Grant,UNION ,State House,60,Write-ins,,0
-Grant,JOHN DAY VALLEY ,State House,60,Over Votes,,0
-Grant,UNION ,State House,60,Over Votes,,0
-Grant,JOHN DAY VALLEY ,State House,60,Under Votes,,104
-Grant,UNION ,State House,60,Under Votes,,23
+Grant,JOHN DAY VALLEY,President,,Chuck Baldwin,CON,25
+Grant,UNION,President,,Chuck Baldwin,CON,7
+Grant,NORTH FORK,President,,Chuck Baldwin,CON,3
+Grant,SOUTHFORK,President,,Chuck Baldwin,CON,1
+Grant,LONG CREEK VALLEY,President,,Chuck Baldwin,CON,3
+Grant,JOHN DAY VALLEY,President,,Bob Barr,LBT,11
+Grant,UNION,President,,Bob Barr,LBT,1
+Grant,NORTH FORK,President,,Bob Barr,LBT,2
+Grant,SOUTHFORK,President,,Bob Barr,LBT,1
+Grant,LONG CREEK VALLEY,President,,Bob Barr,LBT,0
+Grant,JOHN DAY VALLEY,President,,John McCain,REP,1879
+Grant,UNION,President,,John McCain,REP,431
+Grant,NORTH FORK,President,,John McCain,REP,142
+Grant,SOUTHFORK,President,,John McCain,REP,145
+Grant,LONG CREEK VALLEY,President,,John McCain,REP,188
+Grant,JOHN DAY VALLEY,President,,Cynthia McKinney,PGP,0
+Grant,UNION,President,,Cynthia McKinney,PGP,1
+Grant,NORTH FORK,President,,Cynthia McKinney,PGP,0
+Grant,SOUTHFORK,President,,Cynthia McKinney,PGP,0
+Grant,LONG CREEK VALLEY,President,,Cynthia McKinney,PGP,1
+Grant,JOHN DAY VALLEY,President,,Ralph Nader,PCE,19
+Grant,UNION,President,,Ralph Nader,PCE,7
+Grant,NORTH FORK,President,,Ralph Nader,PCE,0
+Grant,SOUTHFORK,President,,Ralph Nader,PCE,1
+Grant,LONG CREEK VALLEY,President,,Ralph Nader,PCE,3
+Grant,JOHN DAY VALLEY,President,,Barack Obama,DEM,681
+Grant,UNION,President,,Barack Obama,DEM,163
+Grant,NORTH FORK,President,,Barack Obama,DEM,64
+Grant,SOUTHFORK,President,,Barack Obama,DEM,47
+Grant,LONG CREEK VALLEY,President,,Barack Obama,DEM,51
+Grant,JOHN DAY VALLEY,President,,Write-ins,,21
+Grant,UNION,President,,Write-ins,,8
+Grant,NORTH FORK,President,,Write-ins,,2
+Grant,SOUTHFORK,President,,Write-ins,,0
+Grant,LONG CREEK VALLEY,President,,Write-ins,,1
+Grant,JOHN DAY VALLEY,President,,Over Votes,,11
+Grant,UNION,President,,Over Votes,,2
+Grant,NORTH FORK,President,,Over Votes,,1
+Grant,SOUTHFORK,President,,Over Votes,,0
+Grant,LONG CREEK VALLEY,President,,Over Votes,,0
+Grant,JOHN DAY VALLEY,President,,Under Votes,,35
+Grant,UNION,President,,Under Votes,,9
+Grant,NORTH FORK,President,,Under Votes,,3
+Grant,SOUTHFORK,President,,Under Votes,,3
+Grant,LONG CREEK VALLEY,President,,Under Votes,,2
+Grant,JOHN DAY VALLEY,U.S. Senate,,Dave Brownlow,CON,147
+Grant,UNION,U.S. Senate,,Dave Brownlow,CON,39
+Grant,NORTH FORK,U.S. Senate,,Dave Brownlow,CON,20
+Grant,SOUTHFORK,U.S. Senate,,Dave Brownlow,CON,16
+Grant,LONG CREEK VALLEY,U.S. Senate,,Dave Brownlow,CON,10
+Grant,JOHN DAY VALLEY,U.S. Senate,,Jeff Merkley,DEM,502
+Grant,UNION,U.S. Senate,,Jeff Merkley,DEM,136
+Grant,NORTH FORK,U.S. Senate,,Jeff Merkley,DEM,44
+Grant,SOUTHFORK,U.S. Senate,,Jeff Merkley,DEM,28
+Grant,LONG CREEK VALLEY,U.S. Senate,,Jeff Merkley,DEM,38
+Grant,JOHN DAY VALLEY,U.S. Senate,,Gordon H Smith,REP,1918
+Grant,UNION,U.S. Senate,,Gordon H Smith,REP,426
+Grant,NORTH FORK,U.S. Senate,,Gordon H Smith,REP,139
+Grant,SOUTHFORK,U.S. Senate,,Gordon H Smith,REP,145
+Grant,LONG CREEK VALLEY,U.S. Senate,,Gordon H Smith,REP,193
+Grant,JOHN DAY VALLEY,U.S. Senate,,Write-ins,,3
+Grant,UNION,U.S. Senate,,Write-ins,,1
+Grant,NORTH FORK,U.S. Senate,,Write-ins,,1
+Grant,SOUTHFORK,U.S. Senate,,Write-ins,,0
+Grant,LONG CREEK VALLEY,U.S. Senate,,Write-ins,,0
+Grant,JOHN DAY VALLEY,U.S. Senate,,Over Votes,,5
+Grant,UNION,U.S. Senate,,Over Votes,,0
+Grant,NORTH FORK,U.S. Senate,,Over Votes,,1
+Grant,SOUTHFORK,U.S. Senate,,Over Votes,,0
+Grant,LONG CREEK VALLEY,U.S. Senate,,Over Votes,,0
+Grant,JOHN DAY VALLEY,U.S. Senate,,Under Votes,,107
+Grant,UNION,U.S. Senate,,Under Votes,,27
+Grant,NORTH FORK,U.S. Senate,,Under Votes,,12
+Grant,SOUTHFORK,U.S. Senate,,Under Votes,,9
+Grant,LONG CREEK VALLEY,U.S. Senate,,Under Votes,,8
+Grant,JOHN DAY VALLEY,U.S. House,2,Richard D Hake,CON,51
+Grant,UNION,U.S. House,2,Richard D Hake,CON,10
+Grant,NORTH FORK,U.S. House,2,Richard D Hake,CON,7
+Grant,SOUTHFORK,U.S. House,2,Richard D Hake,CON,2
+Grant,LONG CREEK VALLEY,U.S. House,2,Richard D Hake,CON,8
+Grant,JOHN DAY VALLEY,U.S. House,2,Noah Lemas,DEM,329
+Grant,UNION,U.S. House,2,Noah Lemas,DEM,93
+Grant,NORTH FORK,U.S. House,2,Noah Lemas,DEM,30
+Grant,SOUTHFORK,U.S. House,2,Noah Lemas,DEM,17
+Grant,LONG CREEK VALLEY,U.S. House,2,Noah Lemas,DEM,24
+Grant,JOHN DAY VALLEY,U.S. House,2,Tristin Mock,PGP,28
+Grant,UNION,U.S. House,2,Tristin Mock,PGP,5
+Grant,NORTH FORK,U.S. House,2,Tristin Mock,PGP,4
+Grant,SOUTHFORK,U.S. House,2,Tristin Mock,PGP,5
+Grant,LONG CREEK VALLEY,U.S. House,2,Tristin Mock,PGP,4
+Grant,JOHN DAY VALLEY,U.S. House,2,Greg Walden,REP,2118
+Grant,UNION,U.S. House,2,Greg Walden,REP,486
+Grant,NORTH FORK,U.S. House,2,Greg Walden,REP,161
+Grant,SOUTHFORK,U.S. House,2,Greg Walden,REP,162
+Grant,LONG CREEK VALLEY,U.S. House,2,Greg Walden,REP,202
+Grant,JOHN DAY VALLEY,U.S. House,2,Write-ins,,6
+Grant,UNION,U.S. House,2,Write-ins,,1
+Grant,NORTH FORK,U.S. House,2,Write-ins,,2
+Grant,SOUTHFORK,U.S. House,2,Write-ins,,0
+Grant,LONG CREEK VALLEY,U.S. House,2,Write-ins,,1
+Grant,JOHN DAY VALLEY,U.S. House,2,Over Votes,,1
+Grant,UNION,U.S. House,2,Over Votes,,1
+Grant,NORTH FORK,U.S. House,2,Over Votes,,0
+Grant,SOUTHFORK,U.S. House,2,Over Votes,,0
+Grant,LONG CREEK VALLEY,U.S. House,2,Over Votes,,1
+Grant,JOHN DAY VALLEY,U.S. House,2,Under Votes,,149
+Grant,UNION,U.S. House,2,Under Votes,,33
+Grant,NORTH FORK,U.S. House,2,Under Votes,,13
+Grant,SOUTHFORK,U.S. House,2,Under Votes,,12
+Grant,LONG CREEK VALLEY,U.S. House,2,Under Votes,,9
+Grant,JOHN DAY VALLEY,Secretary of State,,Kate Brown,DEM,635
+Grant,UNION,Secretary of State,,Kate Brown,DEM,162
+Grant,NORTH FORK,Secretary of State,,Kate Brown,DEM,55
+Grant,SOUTHFORK,Secretary of State,,Kate Brown,DEM,34
+Grant,LONG CREEK VALLEY,Secretary of State,,Kate Brown,DEM,48
+Grant,JOHN DAY VALLEY,Secretary of State,,Rick Dancer,REP,1761
+Grant,UNION,Secretary of State,,Rick Dancer,REP,397
+Grant,NORTH FORK,Secretary of State,,Rick Dancer,REP,137
+Grant,SOUTHFORK,Secretary of State,,Rick Dancer,REP,142
+Grant,LONG CREEK VALLEY,Secretary of State,,Rick Dancer,REP,171
+Grant,JOHN DAY VALLEY,Secretary of State,,Seth Alan Woolley,PGP,50
+Grant,UNION,Secretary of State,,Seth Alan Woolley,PGP,12
+Grant,NORTH FORK,Secretary of State,,Seth Alan Woolley,PGP,7
+Grant,SOUTHFORK,Secretary of State,,Seth Alan Woolley,PGP,2
+Grant,LONG CREEK VALLEY,Secretary of State,,Seth Alan Woolley,PGP,4
+Grant,JOHN DAY VALLEY,Secretary of State,,Write-ins,,1
+Grant,UNION,Secretary of State,,Write-ins,,2
+Grant,NORTH FORK,Secretary of State,,Write-ins,,0
+Grant,SOUTHFORK,Secretary of State,,Write-ins,,0
+Grant,LONG CREEK VALLEY,Secretary of State,,Write-ins,,0
+Grant,JOHN DAY VALLEY,Secretary of State,,Over Votes,,2
+Grant,UNION,Secretary of State,,Over Votes,,0
+Grant,NORTH FORK,Secretary of State,,Over Votes,,0
+Grant,SOUTHFORK,Secretary of State,,Over Votes,,1
+Grant,LONG CREEK VALLEY,Secretary of State,,Over Votes,,0
+Grant,JOHN DAY VALLEY,Secretary of State,,Under Votes,,233
+Grant,UNION,Secretary of State,,Under Votes,,56
+Grant,NORTH FORK,Secretary of State,,Under Votes,,18
+Grant,SOUTHFORK,Secretary of State,,Under Votes,,19
+Grant,LONG CREEK VALLEY,Secretary of State,,Under Votes,,26
+Grant,JOHN DAY VALLEY,State Treasurer,,Allen Alley,REP,1639
+Grant,UNION,State Treasurer,,Allen Alley,REP,371
+Grant,NORTH FORK,State Treasurer,,Allen Alley,REP,120
+Grant,SOUTHFORK,State Treasurer,,Allen Alley,REP,119
+Grant,LONG CREEK VALLEY,State Treasurer,,Allen Alley,REP,162
+Grant,JOHN DAY VALLEY,State Treasurer,,Michael Marsh,CON,92
+Grant,UNION,State Treasurer,,Michael Marsh,CON,14
+Grant,NORTH FORK,State Treasurer,,Michael Marsh,CON,10
+Grant,SOUTHFORK,State Treasurer,,Michael Marsh,CON,12
+Grant,LONG CREEK VALLEY,State Treasurer,,Michael Marsh,CON,6
+Grant,JOHN DAY VALLEY,State Treasurer,,Ben Westlund,DEM,672
+Grant,UNION,State Treasurer,,Ben Westlund,DEM,173
+Grant,NORTH FORK,State Treasurer,,Ben Westlund,DEM,62
+Grant,SOUTHFORK,State Treasurer,,Ben Westlund,DEM,47
+Grant,LONG CREEK VALLEY,State Treasurer,,Ben Westlund,DEM,48
+Grant,JOHN DAY VALLEY,State Treasurer,,Write-ins,,3
+Grant,UNION,State Treasurer,,Write-ins,,1
+Grant,NORTH FORK,State Treasurer,,Write-ins,,0
+Grant,SOUTHFORK,State Treasurer,,Write-ins,,0
+Grant,LONG CREEK VALLEY,State Treasurer,,Write-ins,,0
+Grant,JOHN DAY VALLEY,State Treasurer,,Over Votes,,2
+Grant,UNION,State Treasurer,,Over Votes,,0
+Grant,NORTH FORK,State Treasurer,,Over Votes,,0
+Grant,SOUTHFORK,State Treasurer,,Over Votes,,0
+Grant,LONG CREEK VALLEY,State Treasurer,,Over Votes,,0
+Grant,JOHN DAY VALLEY,State Treasurer,,Under Votes,,274
+Grant,UNION,State Treasurer,,Under Votes,,70
+Grant,NORTH FORK,State Treasurer,,Under Votes,,25
+Grant,SOUTHFORK,State Treasurer,,Under Votes,,20
+Grant,LONG CREEK VALLEY,State Treasurer,,Under Votes,,33
+Grant,JOHN DAY VALLEY,Attorney General,,J Ashlee Albies,WFP,341
+Grant,UNION,Attorney General,,J Ashlee Albies,WFP,78
+Grant,NORTH FORK,Attorney General,,J Ashlee Albies,WFP,21
+Grant,SOUTHFORK,Attorney General,,J Ashlee Albies,WFP,24
+Grant,LONG CREEK VALLEY,Attorney General,,J Ashlee Albies,WFP,31
+Grant,JOHN DAY VALLEY,Attorney General,,Walter F (Walt) Brown,PGP,78
+Grant,UNION,Attorney General,,Walter F (Walt) Brown,PGP,13
+Grant,NORTH FORK,Attorney General,,Walter F (Walt) Brown,PGP,3
+Grant,SOUTHFORK,Attorney General,,Walter F (Walt) Brown,PGP,9
+Grant,LONG CREEK VALLEY,Attorney General,,Walter F (Walt) Brown,PGP,7
+Grant,JOHN DAY VALLEY,Attorney General,,John R Kroger,DEM,1160
+Grant,UNION,Attorney General,,John R Kroger,DEM,279
+Grant,NORTH FORK,Attorney General,,John R Kroger,DEM,101
+Grant,SOUTHFORK,Attorney General,,John R Kroger,DEM,73
+Grant,LONG CREEK VALLEY,Attorney General,,John R Kroger,DEM,102
+Grant,JOHN DAY VALLEY,Attorney General,,James E Leuenberger,CON,329
+Grant,UNION,Attorney General,,James E Leuenberger,CON,77
+Grant,NORTH FORK,Attorney General,,James E Leuenberger,CON,38
+Grant,SOUTHFORK,Attorney General,,James E Leuenberger,CON,17
+Grant,LONG CREEK VALLEY,Attorney General,,James E Leuenberger,CON,35
+Grant,JOHN DAY VALLEY,Attorney General,,Write-ins,,16
+Grant,UNION,Attorney General,,Write-ins,,4
+Grant,NORTH FORK,Attorney General,,Write-ins,,2
+Grant,SOUTHFORK,Attorney General,,Write-ins,,4
+Grant,LONG CREEK VALLEY,Attorney General,,Write-ins,,0
+Grant,JOHN DAY VALLEY,Attorney General,,Over Votes,,1
+Grant,UNION,Attorney General,,Over Votes,,1
+Grant,NORTH FORK,Attorney General,,Over Votes,,0
+Grant,SOUTHFORK,Attorney General,,Over Votes,,0
+Grant,LONG CREEK VALLEY,Attorney General,,Over Votes,,0
+Grant,JOHN DAY VALLEY,Attorney General,,Under Votes,,757
+Grant,UNION,Attorney General,,Under Votes,,177
+Grant,NORTH FORK,Attorney General,,Under Votes,,52
+Grant,SOUTHFORK,Attorney General,,Under Votes,,71
+Grant,LONG CREEK VALLEY,Attorney General,,Under Votes,,74
+Grant,JOHN DAY VALLEY,State Senate,30,Ted Ferrioli,REP,2154
+Grant,UNION,State Senate,30,Ted Ferrioli,REP,502
+Grant,NORTH FORK,State Senate,30,Ted Ferrioli,REP,181
+Grant,SOUTHFORK,State Senate,30,Ted Ferrioli,REP,159
+Grant,LONG CREEK VALLEY,State Senate,30,Ted Ferrioli,REP,200
+Grant,JOHN DAY VALLEY,State Senate,30,Write-ins,,45
+Grant,UNION,State Senate,30,Write-ins,,13
+Grant,NORTH FORK,State Senate,30,Write-ins,,2
+Grant,SOUTHFORK,State Senate,30,Write-ins,,2
+Grant,LONG CREEK VALLEY,State Senate,30,Write-ins,,3
+Grant,JOHN DAY VALLEY,State Senate,30,Over Votes,,1
+Grant,UNION,State Senate,30,Over Votes,,0
+Grant,NORTH FORK,State Senate,30,Over Votes,,0
+Grant,SOUTHFORK,State Senate,30,Over Votes,,0
+Grant,LONG CREEK VALLEY,State Senate,30,Over Votes,,0
+Grant,JOHN DAY VALLEY,State Senate,30,Under Votes,,482
+Grant,UNION,State Senate,30,Under Votes,,114
+Grant,NORTH FORK,State Senate,30,Under Votes,,34
+Grant,SOUTHFORK,State Senate,30,Under Votes,,37
+Grant,LONG CREEK VALLEY,State Senate,30,Under Votes,,46
+Grant,JOHN DAY VALLEY,State House,59,Mike Ahern,DEM,505
+Grant,UNION,State House,59,Mike Ahern,DEM,124
+Grant,NORTH FORK,State House,59,Mike Ahern,DEM,46
+Grant,SOUTHFORK,State House,59,Mike Ahern,DEM,31
+Grant,LONG CREEK VALLEY,State House,59,Mike Ahern,DEM,40
+Grant,JOHN DAY VALLEY,State House,59,John E Huffman,REP,1605
+Grant,UNION,State House,59,John E Huffman,REP,349
+Grant,NORTH FORK,State House,59,John E Huffman,REP,146
+Grant,SOUTHFORK,State House,59,John E Huffman,REP,140
+Grant,LONG CREEK VALLEY,State House,59,John E Huffman,REP,180
+Grant,JOHN DAY VALLEY,State House,59,Write-ins,,5
+Grant,UNION,State House,59,Write-ins,,0
+Grant,NORTH FORK,State House,59,Write-ins,,0
+Grant,SOUTHFORK,State House,59,Write-ins,,0
+Grant,LONG CREEK VALLEY,State House,59,Write-ins,,0
+Grant,JOHN DAY VALLEY,State House,59,Over Votes,,0
+Grant,UNION,State House,59,Over Votes,,0
+Grant,NORTH FORK,State House,59,Over Votes,,0
+Grant,SOUTHFORK,State House,59,Over Votes,,1
+Grant,LONG CREEK VALLEY,State House,59,Over Votes,,0
+Grant,JOHN DAY VALLEY,State House,59,Under Votes,,275
+Grant,UNION,State House,59,Under Votes,,77
+Grant,NORTH FORK,State House,59,Under Votes,,25
+Grant,SOUTHFORK,State House,59,Under Votes,,26
+Grant,LONG CREEK VALLEY,State House,59,Under Votes,,29
+Grant,JOHN DAY VALLEY,State House,60,Cliff Bentz,REP,183
+Grant,UNION,State House,60,Cliff Bentz,REP,56
+Grant,JOHN DAY VALLEY,State House,60,Write-ins,,5
+Grant,UNION,State House,60,Write-ins,,0
+Grant,JOHN DAY VALLEY,State House,60,Over Votes,,0
+Grant,UNION,State House,60,Over Votes,,0
+Grant,JOHN DAY VALLEY,State House,60,Under Votes,,104
+Grant,UNION,State House,60,Under Votes,,23
 Lane,0001 100001 Alvadore,President,,Ralph Nader,PCE,15
 Lane,0002 100003 Armitage,President,,Ralph Nader,PCE,3
 Lane,0003 100004 Bailey,President,,Ralph Nader,PCE,19
@@ -26793,83 +26793,83 @@ Washington,373 CORNELIUS PASS,Secretary of State,,Kate Brown,DEM,137
 Washington,374 JACOBSON RD,Secretary of State,,Kate Brown,DEM,4
 Washington,375 PORTLAND CITY,Secretary of State,,Kate Brown,DEM,158
 Washington,376 WESTVIEW,Secretary of State,,Kate Brown,DEM,832
-Washington, 377 BETHANY EAST,Secretary of State,,Kate Brown,DEM,1267
-Washington, 378 CANYON LN,Secretary of State,,Kate Brown,DEM,639
-Washington, 379 HALL BLVD,Secretary of State,,Kate Brown,DEM,1657
-Washington, 380 HIGHLAND PARK,Secretary of State,,Kate Brown,DEM,1054
-Washington, 381 BEAVERTON/CENTER ST,Secretary of State,,Kate Brown,DEM,1024
-Washington, 382 GREENWAY,Secretary of State,,Kate Brown,DEM,1495
-Washington, 383 BEAVERTON-HILLSDALE,Secretary of State,,Kate Brown,DEM,733
-Washington, 384 GARDEN HOME,Secretary of State,,Kate Brown,DEM,1278
-Washington, 385 PORTLAND GOLF CLUB,Secretary of State,,Kate Brown,DEM,1514
-Washington, 386 RALEIGH PARK,Secretary of State,,Kate Brown,DEM,1923
-Washington, 387 SUNSET CORRIDOR,Secretary of State,,Kate Brown,DEM,380
-Washington, 388 WHITFORD,Secretary of State,,Kate Brown,DEM,104
-Washington, 389 SEXTON MOUNTAIN,Secretary of State,,Kate Brown,DEM,1690
-Washington, 390 SOUTHRIDGE,Secretary of State,,Kate Brown,DEM,1579
-Washington, 391 PORTLAND CITY,Secretary of State,,Kate Brown,DEM,172
-Washington, 392 PORTLAND CITY COM 2,Secretary of State,,Kate Brown,DEM,124
-Washington, 393 MONTCLAIR,Secretary of State,,Kate Brown,DEM,366
-Washington, 394 CORNELIUS EAST,Secretary of State,,Kate Brown,DEM,15
-Washington, 395 MURRAY HILL,Secretary of State,,Kate Brown,DEM,1090
-Washington, 396 DURHAM,Secretary of State,,Kate Brown,DEM,334
-Washington, 397 BULL MOUNTAIN,Secretary of State,,Kate Brown,DEM,993
-Washington, 398 COOPER MOUNTAIN,Secretary of State,,Kate Brown,DEM,284
-Washington, 399 METZGER,Secretary of State,,Kate Brown,DEM,1012
-Washington, 400 WASHINGTON SQUARE,Secretary of State,,Kate Brown,DEM,1273
-Washington, 401 MAYO STREET,Secretary of State,,Kate Brown,DEM,984
-Washington, 402 TIGARD/WALNUT ST,Secretary of State,,Kate Brown,DEM,446
-Washington, 403 TIGARD/GAARDE ST,Secretary of State,,Kate Brown,DEM,1520
-Washington, 404 FOWLER SCHOOL,Secretary of State,,Kate Brown,DEM,1108
-Washington, 405 TWALITY SCHOOL,Secretary of State,,Kate Brown,DEM,1756
-Washington, 406 TIGARD CITY HALL,Secretary of State,,Kate Brown,DEM,1454
-Washington, 407 NORTH BARNES,Secretary of State,,Kate Brown,DEM,405
-Washington, 408 SUMMERFIELD,Secretary of State,,Kate Brown,DEM,2075
-Washington, 409 SUMMERLAKE-WEST,Secretary of State,,Kate Brown,DEM,1100
-Washington, 410 BEEF BEND RD,Secretary of State,,Kate Brown,DEM,705
-Washington, 411 SCHOLLS HEIGHTS,Secretary of State,,Kate Brown,DEM,1036
-Washington, 412 COOPER MT SCHOOL,Secretary of State,,Kate Brown,DEM,819
-Washington, 413 FISCHER/PACIFIC HWY,Secretary of State,,Kate Brown,DEM,200
-Washington, 414 BARROWS RD,Secretary of State,,Kate Brown,DEM,556
-Washington, 415 BEEF BEND/131ST,Secretary of State,,Kate Brown,DEM,192
-Washington, 416 SUMMERLAKE-EAST,Secretary of State,,Kate Brown,DEM,707
-Washington, 417 ELDORADO,Secretary of State,,Kate Brown,DEM,633
-Washington, 418 HART ROAD,Secretary of State,,Kate Brown,DEM,171
-Washington, 419 KING CITY,Secretary of State,,Kate Brown,DEM,841
-Washington, 420 TUALATIN CITY,Secretary of State,,Kate Brown,DEM,1398
-Washington, 421 TRI-CITIES,Secretary of State,,Kate Brown,DEM,14
-Washington, 422 FG NORTH/UNINCORP,Secretary of State,,Kate Brown,DEM,45
-Washington, 423 TUALATIN-NORTH,Secretary of State,,Kate Brown,DEM,1250
-Washington, 424 CENTRAL SHERWOOD CITY,Secretary of State,,Kate Brown,DEM,1443
-Washington, 425 SHERWOOD-UNINCORP,Secretary of State,,Kate Brown,DEM,231
-Washington, 426 GRONER,Secretary of State,,Kate Brown,DEM,102
-Washington, 427 SCHOLLS,Secretary of State,,Kate Brown,DEM,449
-Washington, 428 TUALATIN-WEST,Secretary of State,,Kate Brown,DEM,483
-Washington, 429 MILLER HILL,Secretary of State,,Kate Brown,DEM,785
-Washington, 430 BALD PEAK,Secretary of State,,Kate Brown,DEM,167
-Washington, 431 MOUNTAIN HOME,Secretary of State,,Kate Brown,DEM,535
-Washington, 432 WILSONVILLE,Secretary of State,,Kate Brown,DEM,111
-Washington, 433 ED BYROM SCHOOL,Secretary of State,,Kate Brown,DEM,1031
-Washington, 434 ERROL HASSELL,Secretary of State,,Kate Brown,DEM,1415
-Washington, 435 SE SHERWOOD CITY,Secretary of State,,Kate Brown,DEM,1270
-Washington, 436 TUALATIN CITY,Secretary of State,,Kate Brown,DEM,694
-Washington, 437 HAZELBROOK,Secretary of State,,Kate Brown,DEM,24
-Washington, 438 SE COUNTY,Secretary of State,,Kate Brown,DEM,138
-Washington, 439 PCC,Secretary of State,,Kate Brown,DEM,92
-Washington, 440 HILLSBORO-SOUTH,Secretary of State,,Kate Brown,DEM,383
-Washington, 441 PORTLAND CITY SOUTH,Secretary of State,,Kate Brown,DEM,38
-Washington, 442 KEMMER RD,Secretary of State,,Kate Brown,DEM,315
-Washington, 443 MCEWAN RD,Secretary of State,,Kate Brown,DEM,0
-Washington, 444 SPRINGVILLE,Secretary of State,,Kate Brown,DEM,994
-Washington, 445 SCHOLLS HTS N,Secretary of State,,Kate Brown,DEM,234
-Washington, 446 LOMBARD,Secretary of State,,Kate Brown,DEM,606
-Washington, 447 BETHANY WEST,Secretary of State,,Kate Brown,DEM,909
-Washington, 448 CEDAR HILLS,Secretary of State,,Kate Brown,DEM,220
-Washington, 449 CANYON/217,Secretary of State,,Kate Brown,DEM,26
-Washington, 450 COOPER MTN-BEAVERTON,Secretary of State,,Kate Brown,DEM,0
-Washington, 451 GRABHORN,Secretary of State,,Kate Brown,DEM,285
-Washington, 452 JOHNSON/185TH,Secretary of State,,Kate Brown,DEM,1133
-Washington, 453 BASELINE/185TH,Secretary of State,,Kate Brown,DEM,12
+Washington,377 BETHANY EAST,Secretary of State,,Kate Brown,DEM,1267
+Washington,378 CANYON LN,Secretary of State,,Kate Brown,DEM,639
+Washington,379 HALL BLVD,Secretary of State,,Kate Brown,DEM,1657
+Washington,380 HIGHLAND PARK,Secretary of State,,Kate Brown,DEM,1054
+Washington,381 BEAVERTON/CENTER ST,Secretary of State,,Kate Brown,DEM,1024
+Washington,382 GREENWAY,Secretary of State,,Kate Brown,DEM,1495
+Washington,383 BEAVERTON-HILLSDALE,Secretary of State,,Kate Brown,DEM,733
+Washington,384 GARDEN HOME,Secretary of State,,Kate Brown,DEM,1278
+Washington,385 PORTLAND GOLF CLUB,Secretary of State,,Kate Brown,DEM,1514
+Washington,386 RALEIGH PARK,Secretary of State,,Kate Brown,DEM,1923
+Washington,387 SUNSET CORRIDOR,Secretary of State,,Kate Brown,DEM,380
+Washington,388 WHITFORD,Secretary of State,,Kate Brown,DEM,104
+Washington,389 SEXTON MOUNTAIN,Secretary of State,,Kate Brown,DEM,1690
+Washington,390 SOUTHRIDGE,Secretary of State,,Kate Brown,DEM,1579
+Washington,391 PORTLAND CITY,Secretary of State,,Kate Brown,DEM,172
+Washington,392 PORTLAND CITY COM 2,Secretary of State,,Kate Brown,DEM,124
+Washington,393 MONTCLAIR,Secretary of State,,Kate Brown,DEM,366
+Washington,394 CORNELIUS EAST,Secretary of State,,Kate Brown,DEM,15
+Washington,395 MURRAY HILL,Secretary of State,,Kate Brown,DEM,1090
+Washington,396 DURHAM,Secretary of State,,Kate Brown,DEM,334
+Washington,397 BULL MOUNTAIN,Secretary of State,,Kate Brown,DEM,993
+Washington,398 COOPER MOUNTAIN,Secretary of State,,Kate Brown,DEM,284
+Washington,399 METZGER,Secretary of State,,Kate Brown,DEM,1012
+Washington,400 WASHINGTON SQUARE,Secretary of State,,Kate Brown,DEM,1273
+Washington,401 MAYO STREET,Secretary of State,,Kate Brown,DEM,984
+Washington,402 TIGARD/WALNUT ST,Secretary of State,,Kate Brown,DEM,446
+Washington,403 TIGARD/GAARDE ST,Secretary of State,,Kate Brown,DEM,1520
+Washington,404 FOWLER SCHOOL,Secretary of State,,Kate Brown,DEM,1108
+Washington,405 TWALITY SCHOOL,Secretary of State,,Kate Brown,DEM,1756
+Washington,406 TIGARD CITY HALL,Secretary of State,,Kate Brown,DEM,1454
+Washington,407 NORTH BARNES,Secretary of State,,Kate Brown,DEM,405
+Washington,408 SUMMERFIELD,Secretary of State,,Kate Brown,DEM,2075
+Washington,409 SUMMERLAKE-WEST,Secretary of State,,Kate Brown,DEM,1100
+Washington,410 BEEF BEND RD,Secretary of State,,Kate Brown,DEM,705
+Washington,411 SCHOLLS HEIGHTS,Secretary of State,,Kate Brown,DEM,1036
+Washington,412 COOPER MT SCHOOL,Secretary of State,,Kate Brown,DEM,819
+Washington,413 FISCHER/PACIFIC HWY,Secretary of State,,Kate Brown,DEM,200
+Washington,414 BARROWS RD,Secretary of State,,Kate Brown,DEM,556
+Washington,415 BEEF BEND/131ST,Secretary of State,,Kate Brown,DEM,192
+Washington,416 SUMMERLAKE-EAST,Secretary of State,,Kate Brown,DEM,707
+Washington,417 ELDORADO,Secretary of State,,Kate Brown,DEM,633
+Washington,418 HART ROAD,Secretary of State,,Kate Brown,DEM,171
+Washington,419 KING CITY,Secretary of State,,Kate Brown,DEM,841
+Washington,420 TUALATIN CITY,Secretary of State,,Kate Brown,DEM,1398
+Washington,421 TRI-CITIES,Secretary of State,,Kate Brown,DEM,14
+Washington,422 FG NORTH/UNINCORP,Secretary of State,,Kate Brown,DEM,45
+Washington,423 TUALATIN-NORTH,Secretary of State,,Kate Brown,DEM,1250
+Washington,424 CENTRAL SHERWOOD CITY,Secretary of State,,Kate Brown,DEM,1443
+Washington,425 SHERWOOD-UNINCORP,Secretary of State,,Kate Brown,DEM,231
+Washington,426 GRONER,Secretary of State,,Kate Brown,DEM,102
+Washington,427 SCHOLLS,Secretary of State,,Kate Brown,DEM,449
+Washington,428 TUALATIN-WEST,Secretary of State,,Kate Brown,DEM,483
+Washington,429 MILLER HILL,Secretary of State,,Kate Brown,DEM,785
+Washington,430 BALD PEAK,Secretary of State,,Kate Brown,DEM,167
+Washington,431 MOUNTAIN HOME,Secretary of State,,Kate Brown,DEM,535
+Washington,432 WILSONVILLE,Secretary of State,,Kate Brown,DEM,111
+Washington,433 ED BYROM SCHOOL,Secretary of State,,Kate Brown,DEM,1031
+Washington,434 ERROL HASSELL,Secretary of State,,Kate Brown,DEM,1415
+Washington,435 SE SHERWOOD CITY,Secretary of State,,Kate Brown,DEM,1270
+Washington,436 TUALATIN CITY,Secretary of State,,Kate Brown,DEM,694
+Washington,437 HAZELBROOK,Secretary of State,,Kate Brown,DEM,24
+Washington,438 SE COUNTY,Secretary of State,,Kate Brown,DEM,138
+Washington,439 PCC,Secretary of State,,Kate Brown,DEM,92
+Washington,440 HILLSBORO-SOUTH,Secretary of State,,Kate Brown,DEM,383
+Washington,441 PORTLAND CITY SOUTH,Secretary of State,,Kate Brown,DEM,38
+Washington,442 KEMMER RD,Secretary of State,,Kate Brown,DEM,315
+Washington,443 MCEWAN RD,Secretary of State,,Kate Brown,DEM,0
+Washington,444 SPRINGVILLE,Secretary of State,,Kate Brown,DEM,994
+Washington,445 SCHOLLS HTS N,Secretary of State,,Kate Brown,DEM,234
+Washington,446 LOMBARD,Secretary of State,,Kate Brown,DEM,606
+Washington,447 BETHANY WEST,Secretary of State,,Kate Brown,DEM,909
+Washington,448 CEDAR HILLS,Secretary of State,,Kate Brown,DEM,220
+Washington,449 CANYON/217,Secretary of State,,Kate Brown,DEM,26
+Washington,450 COOPER MTN-BEAVERTON,Secretary of State,,Kate Brown,DEM,0
+Washington,451 GRABHORN,Secretary of State,,Kate Brown,DEM,285
+Washington,452 JOHNSON/185TH,Secretary of State,,Kate Brown,DEM,1133
+Washington,453 BASELINE/185TH,Secretary of State,,Kate Brown,DEM,12
 Washington,454 BULL MT SPLIT,Secretary of State,,Kate Brown,DEM,144
 Washington,455 S TIGARD/PACIFIC HWY,Secretary of State,,Kate Brown,DEM,3
 Washington,456 FOREST GROVE-NORTH,Secretary of State,,Kate Brown,DEM,21
@@ -26952,83 +26952,83 @@ Washington,373 CORNELIUS PASS,Secretary of State,,Seth Alan Woolley,PAC,9
 Washington,374 JACOBSON RD,Secretary of State,,Seth Alan Woolley,PAC,0
 Washington,375 PORTLAND CITY,Secretary of State,,Seth Alan Woolley,PAC,8
 Washington,376 WESTVIEW,Secretary of State,,Seth Alan Woolley,PAC,39
-Washington, 377 BETHANY EAST,Secretary of State,,Seth Alan Woolley,PAC,34
-Washington, 378 CANYON LN,Secretary of State,,Seth Alan Woolley,PAC,17
-Washington, 379 HALL BLVD,Secretary of State,,Seth Alan Woolley,PAC,87
-Washington, 380 HIGHLAND PARK,Secretary of State,,Seth Alan Woolley,PAC,36
-Washington, 381 BEAVERTON/CENTER ST,Secretary of State,,Seth Alan Woolley,PAC,62
-Washington, 382 GREENWAY,Secretary of State,,Seth Alan Woolley,PAC,84
-Washington, 383 BEAVERTON-HILLSDALE,Secretary of State,,Seth Alan Woolley,PAC,29
-Washington, 384 GARDEN HOME,Secretary of State,,Seth Alan Woolley,PAC,53
-Washington, 385 PORTLAND GOLF CLUB,Secretary of State,,Seth Alan Woolley,PAC,50
-Washington, 386 RALEIGH PARK,Secretary of State,,Seth Alan Woolley,PAC,60
-Washington, 387 SUNSET CORRIDOR,Secretary of State,,Seth Alan Woolley,PAC,11
-Washington, 388 WHITFORD,Secretary of State,,Seth Alan Woolley,PAC,5
-Washington, 389 SEXTON MOUNTAIN,Secretary of State,,Seth Alan Woolley,PAC,50
-Washington, 390 SOUTHRIDGE,Secretary of State,,Seth Alan Woolley,PAC,63
-Washington, 391 PORTLAND CITY,Secretary of State,,Seth Alan Woolley,PAC,11
-Washington, 392 PORTLAND CITY COM 2,Secretary of State,,Seth Alan Woolley,PAC,8
-Washington, 393 MONTCLAIR,Secretary of State,,Seth Alan Woolley,PAC,3
-Washington, 394 CORNELIUS EAST,Secretary of State,,Seth Alan Woolley,PAC,0
-Washington, 395 MURRAY HILL,Secretary of State,,Seth Alan Woolley,PAC,41
-Washington, 396 DURHAM,Secretary of State,,Seth Alan Woolley,PAC,13
-Washington, 397 BULL MOUNTAIN,Secretary of State,,Seth Alan Woolley,PAC,38
-Washington, 398 COOPER MOUNTAIN,Secretary of State,,Seth Alan Woolley,PAC,6
-Washington, 399 METZGER,Secretary of State,,Seth Alan Woolley,PAC,48
-Washington, 400 WASHINGTON SQUARE,Secretary of State,,Seth Alan Woolley,PAC,78
-Washington, 401 MAYO STREET,Secretary of State,,Seth Alan Woolley,PAC,38
-Washington, 402 TIGARD/WALNUT ST,Secretary of State,,Seth Alan Woolley,PAC,22
-Washington, 403 TIGARD/GAARDE ST,Secretary of State,,Seth Alan Woolley,PAC,52
-Washington, 404 FOWLER SCHOOL,Secretary of State,,Seth Alan Woolley,PAC,51
-Washington, 405 TWALITY SCHOOL,Secretary of State,,Seth Alan Woolley,PAC,74
-Washington, 406 TIGARD CITY HALL,Secretary of State,,Seth Alan Woolley,PAC,72
-Washington, 407 NORTH BARNES,Secretary of State,,Seth Alan Woolley,PAC,13
-Washington, 408 SUMMERFIELD,Secretary of State,,Seth Alan Woolley,PAC,80
-Washington, 409 SUMMERLAKE-WEST,Secretary of State,,Seth Alan Woolley,PAC,40
-Washington, 410 BEEF BEND RD,Secretary of State,,Seth Alan Woolley,PAC,24
-Washington, 411 SCHOLLS HEIGHTS,Secretary of State,,Seth Alan Woolley,PAC,54
-Washington, 412 COOPER MT SCHOOL,Secretary of State,,Seth Alan Woolley,PAC,35
-Washington, 413 FISCHER/PACIFIC HWY,Secretary of State,,Seth Alan Woolley,PAC,10
-Washington, 414 BARROWS RD,Secretary of State,,Seth Alan Woolley,PAC,22
-Washington, 415 BEEF BEND/131ST,Secretary of State,,Seth Alan Woolley,PAC,2
-Washington, 416 SUMMERLAKE-EAST,Secretary of State,,Seth Alan Woolley,PAC,50
-Washington, 417 ELDORADO,Secretary of State,,Seth Alan Woolley,PAC,21
-Washington, 418 HART ROAD,Secretary of State,,Seth Alan Woolley,PAC,6
-Washington, 419 KING CITY,Secretary of State,,Seth Alan Woolley,PAC,19
-Washington, 420 TUALATIN CITY,Secretary of State,,Seth Alan Woolley,PAC,62
-Washington, 421 TRI-CITIES,Secretary of State,,Seth Alan Woolley,PAC,0
-Washington, 422 FG NORTH/UNINCORP,Secretary of State,,Seth Alan Woolley,PAC,2
-Washington, 423 TUALATIN-NORTH,Secretary of State,,Seth Alan Woolley,PAC,73
-Washington, 424 CENTRAL SHERWOOD CITY,Secretary of State,,Seth Alan Woolley,PAC,62
-Washington, 425 SHERWOOD-UNINCORP,Secretary of State,,Seth Alan Woolley,PAC,14
-Washington, 426 GRONER,Secretary of State,,Seth Alan Woolley,PAC,3
-Washington, 427 SCHOLLS,Secretary of State,,Seth Alan Woolley,PAC,36
-Washington, 428 TUALATIN-WEST,Secretary of State,,Seth Alan Woolley,PAC,17
-Washington, 429 MILLER HILL,Secretary of State,,Seth Alan Woolley,PAC,41
-Washington, 430 BALD PEAK,Secretary of State,,Seth Alan Woolley,PAC,9
-Washington, 431 MOUNTAIN HOME,Secretary of State,,Seth Alan Woolley,PAC,24
-Washington, 432 WILSONVILLE,Secretary of State,,Seth Alan Woolley,PAC,5
-Washington, 433 ED BYROM SCHOOL,Secretary of State,,Seth Alan Woolley,PAC,32
-Washington, 434 ERROL HASSELL,Secretary of State,,Seth Alan Woolley,PAC,72
-Washington, 435 SE SHERWOOD CITY,Secretary of State,,Seth Alan Woolley,PAC,67
-Washington, 436 TUALATIN CITY,Secretary of State,,Seth Alan Woolley,PAC,12
-Washington, 437 HAZELBROOK,Secretary of State,,Seth Alan Woolley,PAC,5
-Washington, 438 SE COUNTY,Secretary of State,,Seth Alan Woolley,PAC,4
-Washington, 439 PCC,Secretary of State,,Seth Alan Woolley,PAC,3
-Washington, 440 HILLSBORO-SOUTH,Secretary of State,,Seth Alan Woolley,PAC,17
-Washington, 441 PORTLAND CITY SOUTH,Secretary of State,,Seth Alan Woolley,PAC,1
-Washington, 442 KEMMER RD,Secretary of State,,Seth Alan Woolley,PAC,19
-Washington, 443 MCEWAN RD,Secretary of State,,Seth Alan Woolley,PAC,0
-Washington, 444 SPRINGVILLE,Secretary of State,,Seth Alan Woolley,PAC,30
-Washington, 445 SCHOLLS HTS N,Secretary of State,,Seth Alan Woolley,PAC,10
-Washington, 446 LOMBARD,Secretary of State,,Seth Alan Woolley,PAC,39
-Washington, 447 BETHANY WEST,Secretary of State,,Seth Alan Woolley,PAC,34
-Washington, 448 CEDAR HILLS,Secretary of State,,Seth Alan Woolley,PAC,17
-Washington, 449 CANYON/217,Secretary of State,,Seth Alan Woolley,PAC,0
-Washington, 450 COOPER MTN-BEAVERTON,Secretary of State,,Seth Alan Woolley,PAC,0
-Washington, 451 GRABHORN,Secretary of State,,Seth Alan Woolley,PAC,13
-Washington, 452 JOHNSON/185TH,Secretary of State,,Seth Alan Woolley,PAC,83
-Washington, 453 BASELINE/185TH,Secretary of State,,Seth Alan Woolley,PAC,2
+Washington,377 BETHANY EAST,Secretary of State,,Seth Alan Woolley,PAC,34
+Washington,378 CANYON LN,Secretary of State,,Seth Alan Woolley,PAC,17
+Washington,379 HALL BLVD,Secretary of State,,Seth Alan Woolley,PAC,87
+Washington,380 HIGHLAND PARK,Secretary of State,,Seth Alan Woolley,PAC,36
+Washington,381 BEAVERTON/CENTER ST,Secretary of State,,Seth Alan Woolley,PAC,62
+Washington,382 GREENWAY,Secretary of State,,Seth Alan Woolley,PAC,84
+Washington,383 BEAVERTON-HILLSDALE,Secretary of State,,Seth Alan Woolley,PAC,29
+Washington,384 GARDEN HOME,Secretary of State,,Seth Alan Woolley,PAC,53
+Washington,385 PORTLAND GOLF CLUB,Secretary of State,,Seth Alan Woolley,PAC,50
+Washington,386 RALEIGH PARK,Secretary of State,,Seth Alan Woolley,PAC,60
+Washington,387 SUNSET CORRIDOR,Secretary of State,,Seth Alan Woolley,PAC,11
+Washington,388 WHITFORD,Secretary of State,,Seth Alan Woolley,PAC,5
+Washington,389 SEXTON MOUNTAIN,Secretary of State,,Seth Alan Woolley,PAC,50
+Washington,390 SOUTHRIDGE,Secretary of State,,Seth Alan Woolley,PAC,63
+Washington,391 PORTLAND CITY,Secretary of State,,Seth Alan Woolley,PAC,11
+Washington,392 PORTLAND CITY COM 2,Secretary of State,,Seth Alan Woolley,PAC,8
+Washington,393 MONTCLAIR,Secretary of State,,Seth Alan Woolley,PAC,3
+Washington,394 CORNELIUS EAST,Secretary of State,,Seth Alan Woolley,PAC,0
+Washington,395 MURRAY HILL,Secretary of State,,Seth Alan Woolley,PAC,41
+Washington,396 DURHAM,Secretary of State,,Seth Alan Woolley,PAC,13
+Washington,397 BULL MOUNTAIN,Secretary of State,,Seth Alan Woolley,PAC,38
+Washington,398 COOPER MOUNTAIN,Secretary of State,,Seth Alan Woolley,PAC,6
+Washington,399 METZGER,Secretary of State,,Seth Alan Woolley,PAC,48
+Washington,400 WASHINGTON SQUARE,Secretary of State,,Seth Alan Woolley,PAC,78
+Washington,401 MAYO STREET,Secretary of State,,Seth Alan Woolley,PAC,38
+Washington,402 TIGARD/WALNUT ST,Secretary of State,,Seth Alan Woolley,PAC,22
+Washington,403 TIGARD/GAARDE ST,Secretary of State,,Seth Alan Woolley,PAC,52
+Washington,404 FOWLER SCHOOL,Secretary of State,,Seth Alan Woolley,PAC,51
+Washington,405 TWALITY SCHOOL,Secretary of State,,Seth Alan Woolley,PAC,74
+Washington,406 TIGARD CITY HALL,Secretary of State,,Seth Alan Woolley,PAC,72
+Washington,407 NORTH BARNES,Secretary of State,,Seth Alan Woolley,PAC,13
+Washington,408 SUMMERFIELD,Secretary of State,,Seth Alan Woolley,PAC,80
+Washington,409 SUMMERLAKE-WEST,Secretary of State,,Seth Alan Woolley,PAC,40
+Washington,410 BEEF BEND RD,Secretary of State,,Seth Alan Woolley,PAC,24
+Washington,411 SCHOLLS HEIGHTS,Secretary of State,,Seth Alan Woolley,PAC,54
+Washington,412 COOPER MT SCHOOL,Secretary of State,,Seth Alan Woolley,PAC,35
+Washington,413 FISCHER/PACIFIC HWY,Secretary of State,,Seth Alan Woolley,PAC,10
+Washington,414 BARROWS RD,Secretary of State,,Seth Alan Woolley,PAC,22
+Washington,415 BEEF BEND/131ST,Secretary of State,,Seth Alan Woolley,PAC,2
+Washington,416 SUMMERLAKE-EAST,Secretary of State,,Seth Alan Woolley,PAC,50
+Washington,417 ELDORADO,Secretary of State,,Seth Alan Woolley,PAC,21
+Washington,418 HART ROAD,Secretary of State,,Seth Alan Woolley,PAC,6
+Washington,419 KING CITY,Secretary of State,,Seth Alan Woolley,PAC,19
+Washington,420 TUALATIN CITY,Secretary of State,,Seth Alan Woolley,PAC,62
+Washington,421 TRI-CITIES,Secretary of State,,Seth Alan Woolley,PAC,0
+Washington,422 FG NORTH/UNINCORP,Secretary of State,,Seth Alan Woolley,PAC,2
+Washington,423 TUALATIN-NORTH,Secretary of State,,Seth Alan Woolley,PAC,73
+Washington,424 CENTRAL SHERWOOD CITY,Secretary of State,,Seth Alan Woolley,PAC,62
+Washington,425 SHERWOOD-UNINCORP,Secretary of State,,Seth Alan Woolley,PAC,14
+Washington,426 GRONER,Secretary of State,,Seth Alan Woolley,PAC,3
+Washington,427 SCHOLLS,Secretary of State,,Seth Alan Woolley,PAC,36
+Washington,428 TUALATIN-WEST,Secretary of State,,Seth Alan Woolley,PAC,17
+Washington,429 MILLER HILL,Secretary of State,,Seth Alan Woolley,PAC,41
+Washington,430 BALD PEAK,Secretary of State,,Seth Alan Woolley,PAC,9
+Washington,431 MOUNTAIN HOME,Secretary of State,,Seth Alan Woolley,PAC,24
+Washington,432 WILSONVILLE,Secretary of State,,Seth Alan Woolley,PAC,5
+Washington,433 ED BYROM SCHOOL,Secretary of State,,Seth Alan Woolley,PAC,32
+Washington,434 ERROL HASSELL,Secretary of State,,Seth Alan Woolley,PAC,72
+Washington,435 SE SHERWOOD CITY,Secretary of State,,Seth Alan Woolley,PAC,67
+Washington,436 TUALATIN CITY,Secretary of State,,Seth Alan Woolley,PAC,12
+Washington,437 HAZELBROOK,Secretary of State,,Seth Alan Woolley,PAC,5
+Washington,438 SE COUNTY,Secretary of State,,Seth Alan Woolley,PAC,4
+Washington,439 PCC,Secretary of State,,Seth Alan Woolley,PAC,3
+Washington,440 HILLSBORO-SOUTH,Secretary of State,,Seth Alan Woolley,PAC,17
+Washington,441 PORTLAND CITY SOUTH,Secretary of State,,Seth Alan Woolley,PAC,1
+Washington,442 KEMMER RD,Secretary of State,,Seth Alan Woolley,PAC,19
+Washington,443 MCEWAN RD,Secretary of State,,Seth Alan Woolley,PAC,0
+Washington,444 SPRINGVILLE,Secretary of State,,Seth Alan Woolley,PAC,30
+Washington,445 SCHOLLS HTS N,Secretary of State,,Seth Alan Woolley,PAC,10
+Washington,446 LOMBARD,Secretary of State,,Seth Alan Woolley,PAC,39
+Washington,447 BETHANY WEST,Secretary of State,,Seth Alan Woolley,PAC,34
+Washington,448 CEDAR HILLS,Secretary of State,,Seth Alan Woolley,PAC,17
+Washington,449 CANYON/217,Secretary of State,,Seth Alan Woolley,PAC,0
+Washington,450 COOPER MTN-BEAVERTON,Secretary of State,,Seth Alan Woolley,PAC,0
+Washington,451 GRABHORN,Secretary of State,,Seth Alan Woolley,PAC,13
+Washington,452 JOHNSON/185TH,Secretary of State,,Seth Alan Woolley,PAC,83
+Washington,453 BASELINE/185TH,Secretary of State,,Seth Alan Woolley,PAC,2
 Washington,454 BULL MT SPLIT,Secretary of State,,Seth Alan Woolley,PAC,9
 Washington,455 S TIGARD/PACIFIC HWY,Secretary of State,,Seth Alan Woolley,PAC,0
 Washington,456 FOREST GROVE-NORTH,Secretary of State,,Seth Alan Woolley,PAC,1
@@ -27111,83 +27111,83 @@ Washington,373 CORNELIUS PASS,Secretary of State,,Rick Dancer,REP,173
 Washington,374 JACOBSON RD,Secretary of State,,Rick Dancer,REP,2
 Washington,375 PORTLAND CITY,Secretary of State,,Rick Dancer,REP,67
 Washington,376 WESTVIEW,Secretary of State,,Rick Dancer,REP,680
-Washington, 377 BETHANY EAST,Secretary of State,,Rick Dancer,REP,1043
-Washington, 378 CANYON LN,Secretary of State,,Rick Dancer,REP,278
-Washington, 379 HALL BLVD,Secretary of State,,Rick Dancer,REP,1014
-Washington, 380 HIGHLAND PARK,Secretary of State,,Rick Dancer,REP,785
-Washington, 381 BEAVERTON/CENTER ST,Secretary of State,,Rick Dancer,REP,558
-Washington, 382 GREENWAY,Secretary of State,,Rick Dancer,REP,791
-Washington, 383 BEAVERTON-HILLSDALE,Secretary of State,,Rick Dancer,REP,361
-Washington, 384 GARDEN HOME,Secretary of State,,Rick Dancer,REP,595
-Washington, 385 PORTLAND GOLF CLUB,Secretary of State,,Rick Dancer,REP,849
-Washington, 386 RALEIGH PARK,Secretary of State,,Rick Dancer,REP,917
-Washington, 387 SUNSET CORRIDOR,Secretary of State,,Rick Dancer,REP,146
-Washington, 388 WHITFORD,Secretary of State,,Rick Dancer,REP,40
-Washington, 389 SEXTON MOUNTAIN,Secretary of State,,Rick Dancer,REP,1187
-Washington, 390 SOUTHRIDGE,Secretary of State,,Rick Dancer,REP,1271
-Washington, 391 PORTLAND CITY,Secretary of State,,Rick Dancer,REP,79
-Washington, 392 PORTLAND CITY COM 2,Secretary of State,,Rick Dancer,REP,54
-Washington, 393 MONTCLAIR,Secretary of State,,Rick Dancer,REP,151
-Washington, 394 CORNELIUS EAST,Secretary of State,,Rick Dancer,REP,30
-Washington, 395 MURRAY HILL,Secretary of State,,Rick Dancer,REP,876
-Washington, 396 DURHAM,Secretary of State,,Rick Dancer,REP,261
-Washington, 397 BULL MOUNTAIN,Secretary of State,,Rick Dancer,REP,1135
-Washington, 398 COOPER MOUNTAIN,Secretary of State,,Rick Dancer,REP,363
-Washington, 399 METZGER,Secretary of State,,Rick Dancer,REP,605
-Washington, 400 WASHINGTON SQUARE,Secretary of State,,Rick Dancer,REP,784
-Washington, 401 MAYO STREET,Secretary of State,,Rick Dancer,REP,414
-Washington, 402 TIGARD/WALNUT ST,Secretary of State,,Rick Dancer,REP,379
-Washington, 403 TIGARD/GAARDE ST,Secretary of State,,Rick Dancer,REP,1581
-Washington, 404 FOWLER SCHOOL,Secretary of State,,Rick Dancer,REP,879
-Washington, 405 TWALITY SCHOOL,Secretary of State,,Rick Dancer,REP,1388
-Washington, 406 TIGARD CITY HALL,Secretary of State,,Rick Dancer,REP,870
-Washington, 407 NORTH BARNES,Secretary of State,,Rick Dancer,REP,250
-Washington, 408 SUMMERFIELD,Secretary of State,,Rick Dancer,REP,1619
-Washington, 409 SUMMERLAKE-WEST,Secretary of State,,Rick Dancer,REP,833
-Washington, 410 BEEF BEND RD,Secretary of State,,Rick Dancer,REP,809
-Washington, 411 SCHOLLS HEIGHTS,Secretary of State,,Rick Dancer,REP,665
-Washington, 412 COOPER MT SCHOOL,Secretary of State,,Rick Dancer,REP,743
-Washington, 413 FISCHER/PACIFIC HWY,Secretary of State,,Rick Dancer,REP,185
-Washington, 414 BARROWS RD,Secretary of State,,Rick Dancer,REP,435
-Washington, 415 BEEF BEND/131ST,Secretary of State,,Rick Dancer,REP,180
-Washington, 416 SUMMERLAKE-EAST,Secretary of State,,Rick Dancer,REP,559
-Washington, 417 ELDORADO,Secretary of State,,Rick Dancer,REP,404
-Washington, 418 HART ROAD,Secretary of State,,Rick Dancer,REP,150
-Washington, 419 KING CITY,Secretary of State,,Rick Dancer,REP,620
-Washington, 420 TUALATIN CITY,Secretary of State,,Rick Dancer,REP,1180
-Washington, 421 TRI-CITIES,Secretary of State,,Rick Dancer,REP,9
-Washington, 422 FG NORTH/UNINCORP,Secretary of State,,Rick Dancer,REP,50
-Washington, 423 TUALATIN-NORTH,Secretary of State,,Rick Dancer,REP,908
-Washington, 424 CENTRAL SHERWOOD CITY,Secretary of State,,Rick Dancer,REP,1668
-Washington, 425 SHERWOOD-UNINCORP,Secretary of State,,Rick Dancer,REP,305
-Washington, 426 GRONER,Secretary of State,,Rick Dancer,REP,145
-Washington, 427 SCHOLLS,Secretary of State,,Rick Dancer,REP,624
-Washington, 428 TUALATIN-WEST,Secretary of State,,Rick Dancer,REP,502
-Washington, 429 MILLER HILL,Secretary of State,,Rick Dancer,REP,637
-Washington, 430 BALD PEAK,Secretary of State,,Rick Dancer,REP,188
-Washington, 431 MOUNTAIN HOME,Secretary of State,,Rick Dancer,REP,759
-Washington, 432 WILSONVILLE,Secretary of State,,Rick Dancer,REP,81
-Washington, 433 ED BYROM SCHOOL,Secretary of State,,Rick Dancer,REP,787
-Washington, 434 ERROL HASSELL,Secretary of State,,Rick Dancer,REP,1152
-Washington, 435 SE SHERWOOD CITY,Secretary of State,,Rick Dancer,REP,1544
-Washington, 436 TUALATIN CITY,Secretary of State,,Rick Dancer,REP,837
-Washington, 437 HAZELBROOK,Secretary of State,,Rick Dancer,REP,20
-Washington, 438 SE COUNTY,Secretary of State,,Rick Dancer,REP,259
-Washington, 439 PCC,Secretary of State,,Rick Dancer,REP,101
-Washington, 440 HILLSBORO-SOUTH,Secretary of State,,Rick Dancer,REP,248
-Washington, 441 PORTLAND CITY SOUTH,Secretary of State,,Rick Dancer,REP,20
-Washington, 442 KEMMER RD,Secretary of State,,Rick Dancer,REP,390
-Washington, 443 MCEWAN RD,Secretary of State,,Rick Dancer,REP,2
-Washington, 444 SPRINGVILLE,Secretary of State,,Rick Dancer,REP,744
-Washington, 445 SCHOLLS HTS N,Secretary of State,,Rick Dancer,REP,223
-Washington, 446 LOMBARD,Secretary of State,,Rick Dancer,REP,290
-Washington, 447 BETHANY WEST,Secretary of State,,Rick Dancer,REP,865
-Washington, 448 CEDAR HILLS,Secretary of State,,Rick Dancer,REP,64
-Washington, 449 CANYON/217,Secretary of State,,Rick Dancer,REP,13
-Washington, 450 COOPER MTN-BEAVERTON,Secretary of State,,Rick Dancer,REP,0
-Washington, 451 GRABHORN,Secretary of State,,Rick Dancer,REP,228
-Washington, 452 JOHNSON/185TH,Secretary of State,,Rick Dancer,REP,810
-Washington, 453 BASELINE/185TH,Secretary of State,,Rick Dancer,REP,12
+Washington,377 BETHANY EAST,Secretary of State,,Rick Dancer,REP,1043
+Washington,378 CANYON LN,Secretary of State,,Rick Dancer,REP,278
+Washington,379 HALL BLVD,Secretary of State,,Rick Dancer,REP,1014
+Washington,380 HIGHLAND PARK,Secretary of State,,Rick Dancer,REP,785
+Washington,381 BEAVERTON/CENTER ST,Secretary of State,,Rick Dancer,REP,558
+Washington,382 GREENWAY,Secretary of State,,Rick Dancer,REP,791
+Washington,383 BEAVERTON-HILLSDALE,Secretary of State,,Rick Dancer,REP,361
+Washington,384 GARDEN HOME,Secretary of State,,Rick Dancer,REP,595
+Washington,385 PORTLAND GOLF CLUB,Secretary of State,,Rick Dancer,REP,849
+Washington,386 RALEIGH PARK,Secretary of State,,Rick Dancer,REP,917
+Washington,387 SUNSET CORRIDOR,Secretary of State,,Rick Dancer,REP,146
+Washington,388 WHITFORD,Secretary of State,,Rick Dancer,REP,40
+Washington,389 SEXTON MOUNTAIN,Secretary of State,,Rick Dancer,REP,1187
+Washington,390 SOUTHRIDGE,Secretary of State,,Rick Dancer,REP,1271
+Washington,391 PORTLAND CITY,Secretary of State,,Rick Dancer,REP,79
+Washington,392 PORTLAND CITY COM 2,Secretary of State,,Rick Dancer,REP,54
+Washington,393 MONTCLAIR,Secretary of State,,Rick Dancer,REP,151
+Washington,394 CORNELIUS EAST,Secretary of State,,Rick Dancer,REP,30
+Washington,395 MURRAY HILL,Secretary of State,,Rick Dancer,REP,876
+Washington,396 DURHAM,Secretary of State,,Rick Dancer,REP,261
+Washington,397 BULL MOUNTAIN,Secretary of State,,Rick Dancer,REP,1135
+Washington,398 COOPER MOUNTAIN,Secretary of State,,Rick Dancer,REP,363
+Washington,399 METZGER,Secretary of State,,Rick Dancer,REP,605
+Washington,400 WASHINGTON SQUARE,Secretary of State,,Rick Dancer,REP,784
+Washington,401 MAYO STREET,Secretary of State,,Rick Dancer,REP,414
+Washington,402 TIGARD/WALNUT ST,Secretary of State,,Rick Dancer,REP,379
+Washington,403 TIGARD/GAARDE ST,Secretary of State,,Rick Dancer,REP,1581
+Washington,404 FOWLER SCHOOL,Secretary of State,,Rick Dancer,REP,879
+Washington,405 TWALITY SCHOOL,Secretary of State,,Rick Dancer,REP,1388
+Washington,406 TIGARD CITY HALL,Secretary of State,,Rick Dancer,REP,870
+Washington,407 NORTH BARNES,Secretary of State,,Rick Dancer,REP,250
+Washington,408 SUMMERFIELD,Secretary of State,,Rick Dancer,REP,1619
+Washington,409 SUMMERLAKE-WEST,Secretary of State,,Rick Dancer,REP,833
+Washington,410 BEEF BEND RD,Secretary of State,,Rick Dancer,REP,809
+Washington,411 SCHOLLS HEIGHTS,Secretary of State,,Rick Dancer,REP,665
+Washington,412 COOPER MT SCHOOL,Secretary of State,,Rick Dancer,REP,743
+Washington,413 FISCHER/PACIFIC HWY,Secretary of State,,Rick Dancer,REP,185
+Washington,414 BARROWS RD,Secretary of State,,Rick Dancer,REP,435
+Washington,415 BEEF BEND/131ST,Secretary of State,,Rick Dancer,REP,180
+Washington,416 SUMMERLAKE-EAST,Secretary of State,,Rick Dancer,REP,559
+Washington,417 ELDORADO,Secretary of State,,Rick Dancer,REP,404
+Washington,418 HART ROAD,Secretary of State,,Rick Dancer,REP,150
+Washington,419 KING CITY,Secretary of State,,Rick Dancer,REP,620
+Washington,420 TUALATIN CITY,Secretary of State,,Rick Dancer,REP,1180
+Washington,421 TRI-CITIES,Secretary of State,,Rick Dancer,REP,9
+Washington,422 FG NORTH/UNINCORP,Secretary of State,,Rick Dancer,REP,50
+Washington,423 TUALATIN-NORTH,Secretary of State,,Rick Dancer,REP,908
+Washington,424 CENTRAL SHERWOOD CITY,Secretary of State,,Rick Dancer,REP,1668
+Washington,425 SHERWOOD-UNINCORP,Secretary of State,,Rick Dancer,REP,305
+Washington,426 GRONER,Secretary of State,,Rick Dancer,REP,145
+Washington,427 SCHOLLS,Secretary of State,,Rick Dancer,REP,624
+Washington,428 TUALATIN-WEST,Secretary of State,,Rick Dancer,REP,502
+Washington,429 MILLER HILL,Secretary of State,,Rick Dancer,REP,637
+Washington,430 BALD PEAK,Secretary of State,,Rick Dancer,REP,188
+Washington,431 MOUNTAIN HOME,Secretary of State,,Rick Dancer,REP,759
+Washington,432 WILSONVILLE,Secretary of State,,Rick Dancer,REP,81
+Washington,433 ED BYROM SCHOOL,Secretary of State,,Rick Dancer,REP,787
+Washington,434 ERROL HASSELL,Secretary of State,,Rick Dancer,REP,1152
+Washington,435 SE SHERWOOD CITY,Secretary of State,,Rick Dancer,REP,1544
+Washington,436 TUALATIN CITY,Secretary of State,,Rick Dancer,REP,837
+Washington,437 HAZELBROOK,Secretary of State,,Rick Dancer,REP,20
+Washington,438 SE COUNTY,Secretary of State,,Rick Dancer,REP,259
+Washington,439 PCC,Secretary of State,,Rick Dancer,REP,101
+Washington,440 HILLSBORO-SOUTH,Secretary of State,,Rick Dancer,REP,248
+Washington,441 PORTLAND CITY SOUTH,Secretary of State,,Rick Dancer,REP,20
+Washington,442 KEMMER RD,Secretary of State,,Rick Dancer,REP,390
+Washington,443 MCEWAN RD,Secretary of State,,Rick Dancer,REP,2
+Washington,444 SPRINGVILLE,Secretary of State,,Rick Dancer,REP,744
+Washington,445 SCHOLLS HTS N,Secretary of State,,Rick Dancer,REP,223
+Washington,446 LOMBARD,Secretary of State,,Rick Dancer,REP,290
+Washington,447 BETHANY WEST,Secretary of State,,Rick Dancer,REP,865
+Washington,448 CEDAR HILLS,Secretary of State,,Rick Dancer,REP,64
+Washington,449 CANYON/217,Secretary of State,,Rick Dancer,REP,13
+Washington,450 COOPER MTN-BEAVERTON,Secretary of State,,Rick Dancer,REP,0
+Washington,451 GRABHORN,Secretary of State,,Rick Dancer,REP,228
+Washington,452 JOHNSON/185TH,Secretary of State,,Rick Dancer,REP,810
+Washington,453 BASELINE/185TH,Secretary of State,,Rick Dancer,REP,12
 Washington,454 BULL MT SPLIT,Secretary of State,,Rick Dancer,REP,182
 Washington,455 S TIGARD/PACIFIC HWY,Secretary of State,,Rick Dancer,REP,7
 Washington,456 FOREST GROVE-NORTH,Secretary of State,,Rick Dancer,REP,23
@@ -27270,83 +27270,83 @@ Washington,373 CORNELIUS PASS,Secretary of State,,Write-ins,,1
 Washington,374 JACOBSON RD,Secretary of State,,Write-ins,,0
 Washington,375 PORTLAND CITY,Secretary of State,,Write-ins,,0
 Washington,376 WESTVIEW,Secretary of State,,Write-ins,,2
-Washington, 377 BETHANY EAST,Secretary of State,,Write-ins,,2
-Washington, 378 CANYON LN,Secretary of State,,Write-ins,,0
-Washington, 379 HALL BLVD,Secretary of State,,Write-ins,,4
-Washington, 380 HIGHLAND PARK,Secretary of State,,Write-ins,,0
-Washington, 381 BEAVERTON/CENTER ST,Secretary of State,,Write-ins,,4
-Washington, 382 GREENWAY,Secretary of State,,Write-ins,,3
-Washington, 383 BEAVERTON-HILLSDALE,Secretary of State,,Write-ins,,1
-Washington, 384 GARDEN HOME,Secretary of State,,Write-ins,,2
-Washington, 385 PORTLAND GOLF CLUB,Secretary of State,,Write-ins,,1
-Washington, 386 RALEIGH PARK,Secretary of State,,Write-ins,,4
-Washington, 387 SUNSET CORRIDOR,Secretary of State,,Write-ins,,2
-Washington, 388 WHITFORD,Secretary of State,,Write-ins,,0
-Washington, 389 SEXTON MOUNTAIN,Secretary of State,,Write-ins,,10
-Washington, 390 SOUTHRIDGE,Secretary of State,,Write-ins,,7
-Washington, 391 PORTLAND CITY,Secretary of State,,Write-ins,,2
-Washington, 392 PORTLAND CITY COM 2,Secretary of State,,Write-ins,,1
-Washington, 393 MONTCLAIR,Secretary of State,,Write-ins,,0
-Washington, 394 CORNELIUS EAST,Secretary of State,,Write-ins,,0
-Washington, 395 MURRAY HILL,Secretary of State,,Write-ins,,2
-Washington, 396 DURHAM,Secretary of State,,Write-ins,,0
-Washington, 397 BULL MOUNTAIN,Secretary of State,,Write-ins,,3
-Washington, 398 COOPER MOUNTAIN,Secretary of State,,Write-ins,,1
-Washington, 399 METZGER,Secretary of State,,Write-ins,,1
-Washington, 400 WASHINGTON SQUARE,Secretary of State,,Write-ins,,2
-Washington, 401 MAYO STREET,Secretary of State,,Write-ins,,2
-Washington, 402 TIGARD/WALNUT ST,Secretary of State,,Write-ins,,3
-Washington, 403 TIGARD/GAARDE ST,Secretary of State,,Write-ins,,0
-Washington, 404 FOWLER SCHOOL,Secretary of State,,Write-ins,,2
-Washington, 405 TWALITY SCHOOL,Secretary of State,,Write-ins,,4
-Washington, 406 TIGARD CITY HALL,Secretary of State,,Write-ins,,5
-Washington, 407 NORTH BARNES,Secretary of State,,Write-ins,,0
-Washington, 408 SUMMERFIELD,Secretary of State,,Write-ins,,3
-Washington, 409 SUMMERLAKE-WEST,Secretary of State,,Write-ins,,1
-Washington, 410 BEEF BEND RD,Secretary of State,,Write-ins,,1
-Washington, 411 SCHOLLS HEIGHTS,Secretary of State,,Write-ins,,3
-Washington, 412 COOPER MT SCHOOL,Secretary of State,,Write-ins,,1
-Washington, 413 FISCHER/PACIFIC HWY,Secretary of State,,Write-ins,,2
-Washington, 414 BARROWS RD,Secretary of State,,Write-ins,,2
-Washington, 415 BEEF BEND/131ST,Secretary of State,,Write-ins,,0
-Washington, 416 SUMMERLAKE-EAST,Secretary of State,,Write-ins,,2
-Washington, 417 ELDORADO,Secretary of State,,Write-ins,,4
-Washington, 418 HART ROAD,Secretary of State,,Write-ins,,0
-Washington, 419 KING CITY,Secretary of State,,Write-ins,,1
-Washington, 420 TUALATIN CITY,Secretary of State,,Write-ins,,2
-Washington, 421 TRI-CITIES,Secretary of State,,Write-ins,,0
-Washington, 422 FG NORTH/UNINCORP,Secretary of State,,Write-ins,,0
-Washington, 423 TUALATIN-NORTH,Secretary of State,,Write-ins,,3
-Washington, 424 CENTRAL SHERWOOD CITY,Secretary of State,,Write-ins,,4
-Washington, 425 SHERWOOD-UNINCORP,Secretary of State,,Write-ins,,2
-Washington, 426 GRONER,Secretary of State,,Write-ins,,0
-Washington, 427 SCHOLLS,Secretary of State,,Write-ins,,2
-Washington, 428 TUALATIN-WEST,Secretary of State,,Write-ins,,2
-Washington, 429 MILLER HILL,Secretary of State,,Write-ins,,3
-Washington, 430 BALD PEAK,Secretary of State,,Write-ins,,0
-Washington, 431 MOUNTAIN HOME,Secretary of State,,Write-ins,,2
-Washington, 432 WILSONVILLE,Secretary of State,,Write-ins,,1
-Washington, 433 ED BYROM SCHOOL,Secretary of State,,Write-ins,,1
-Washington, 434 ERROL HASSELL,Secretary of State,,Write-ins,,3
-Washington, 435 SE SHERWOOD CITY,Secretary of State,,Write-ins,,6
-Washington, 436 TUALATIN CITY,Secretary of State,,Write-ins,,1
-Washington, 437 HAZELBROOK,Secretary of State,,Write-ins,,0
-Washington, 438 SE COUNTY,Secretary of State,,Write-ins,,1
-Washington, 439 PCC,Secretary of State,,Write-ins,,0
-Washington, 440 HILLSBORO-SOUTH,Secretary of State,,Write-ins,,1
-Washington, 441 PORTLAND CITY SOUTH,Secretary of State,,Write-ins,,0
-Washington, 442 KEMMER RD,Secretary of State,,Write-ins,,2
-Washington, 443 MCEWAN RD,Secretary of State,,Write-ins,,0
-Washington, 444 SPRINGVILLE,Secretary of State,,Write-ins,,5
-Washington, 445 SCHOLLS HTS N,Secretary of State,,Write-ins,,2
-Washington, 446 LOMBARD,Secretary of State,,Write-ins,,2
-Washington, 447 BETHANY WEST,Secretary of State,,Write-ins,,3
-Washington, 448 CEDAR HILLS,Secretary of State,,Write-ins,,2
-Washington, 449 CANYON/217,Secretary of State,,Write-ins,,0
-Washington, 450 COOPER MTN-BEAVERTON,Secretary of State,,Write-ins,,0
-Washington, 451 GRABHORN,Secretary of State,,Write-ins,,0
-Washington, 452 JOHNSON/185TH,Secretary of State,,Write-ins,,4
-Washington, 453 BASELINE/185TH,Secretary of State,,Write-ins,,0
+Washington,377 BETHANY EAST,Secretary of State,,Write-ins,,2
+Washington,378 CANYON LN,Secretary of State,,Write-ins,,0
+Washington,379 HALL BLVD,Secretary of State,,Write-ins,,4
+Washington,380 HIGHLAND PARK,Secretary of State,,Write-ins,,0
+Washington,381 BEAVERTON/CENTER ST,Secretary of State,,Write-ins,,4
+Washington,382 GREENWAY,Secretary of State,,Write-ins,,3
+Washington,383 BEAVERTON-HILLSDALE,Secretary of State,,Write-ins,,1
+Washington,384 GARDEN HOME,Secretary of State,,Write-ins,,2
+Washington,385 PORTLAND GOLF CLUB,Secretary of State,,Write-ins,,1
+Washington,386 RALEIGH PARK,Secretary of State,,Write-ins,,4
+Washington,387 SUNSET CORRIDOR,Secretary of State,,Write-ins,,2
+Washington,388 WHITFORD,Secretary of State,,Write-ins,,0
+Washington,389 SEXTON MOUNTAIN,Secretary of State,,Write-ins,,10
+Washington,390 SOUTHRIDGE,Secretary of State,,Write-ins,,7
+Washington,391 PORTLAND CITY,Secretary of State,,Write-ins,,2
+Washington,392 PORTLAND CITY COM 2,Secretary of State,,Write-ins,,1
+Washington,393 MONTCLAIR,Secretary of State,,Write-ins,,0
+Washington,394 CORNELIUS EAST,Secretary of State,,Write-ins,,0
+Washington,395 MURRAY HILL,Secretary of State,,Write-ins,,2
+Washington,396 DURHAM,Secretary of State,,Write-ins,,0
+Washington,397 BULL MOUNTAIN,Secretary of State,,Write-ins,,3
+Washington,398 COOPER MOUNTAIN,Secretary of State,,Write-ins,,1
+Washington,399 METZGER,Secretary of State,,Write-ins,,1
+Washington,400 WASHINGTON SQUARE,Secretary of State,,Write-ins,,2
+Washington,401 MAYO STREET,Secretary of State,,Write-ins,,2
+Washington,402 TIGARD/WALNUT ST,Secretary of State,,Write-ins,,3
+Washington,403 TIGARD/GAARDE ST,Secretary of State,,Write-ins,,0
+Washington,404 FOWLER SCHOOL,Secretary of State,,Write-ins,,2
+Washington,405 TWALITY SCHOOL,Secretary of State,,Write-ins,,4
+Washington,406 TIGARD CITY HALL,Secretary of State,,Write-ins,,5
+Washington,407 NORTH BARNES,Secretary of State,,Write-ins,,0
+Washington,408 SUMMERFIELD,Secretary of State,,Write-ins,,3
+Washington,409 SUMMERLAKE-WEST,Secretary of State,,Write-ins,,1
+Washington,410 BEEF BEND RD,Secretary of State,,Write-ins,,1
+Washington,411 SCHOLLS HEIGHTS,Secretary of State,,Write-ins,,3
+Washington,412 COOPER MT SCHOOL,Secretary of State,,Write-ins,,1
+Washington,413 FISCHER/PACIFIC HWY,Secretary of State,,Write-ins,,2
+Washington,414 BARROWS RD,Secretary of State,,Write-ins,,2
+Washington,415 BEEF BEND/131ST,Secretary of State,,Write-ins,,0
+Washington,416 SUMMERLAKE-EAST,Secretary of State,,Write-ins,,2
+Washington,417 ELDORADO,Secretary of State,,Write-ins,,4
+Washington,418 HART ROAD,Secretary of State,,Write-ins,,0
+Washington,419 KING CITY,Secretary of State,,Write-ins,,1
+Washington,420 TUALATIN CITY,Secretary of State,,Write-ins,,2
+Washington,421 TRI-CITIES,Secretary of State,,Write-ins,,0
+Washington,422 FG NORTH/UNINCORP,Secretary of State,,Write-ins,,0
+Washington,423 TUALATIN-NORTH,Secretary of State,,Write-ins,,3
+Washington,424 CENTRAL SHERWOOD CITY,Secretary of State,,Write-ins,,4
+Washington,425 SHERWOOD-UNINCORP,Secretary of State,,Write-ins,,2
+Washington,426 GRONER,Secretary of State,,Write-ins,,0
+Washington,427 SCHOLLS,Secretary of State,,Write-ins,,2
+Washington,428 TUALATIN-WEST,Secretary of State,,Write-ins,,2
+Washington,429 MILLER HILL,Secretary of State,,Write-ins,,3
+Washington,430 BALD PEAK,Secretary of State,,Write-ins,,0
+Washington,431 MOUNTAIN HOME,Secretary of State,,Write-ins,,2
+Washington,432 WILSONVILLE,Secretary of State,,Write-ins,,1
+Washington,433 ED BYROM SCHOOL,Secretary of State,,Write-ins,,1
+Washington,434 ERROL HASSELL,Secretary of State,,Write-ins,,3
+Washington,435 SE SHERWOOD CITY,Secretary of State,,Write-ins,,6
+Washington,436 TUALATIN CITY,Secretary of State,,Write-ins,,1
+Washington,437 HAZELBROOK,Secretary of State,,Write-ins,,0
+Washington,438 SE COUNTY,Secretary of State,,Write-ins,,1
+Washington,439 PCC,Secretary of State,,Write-ins,,0
+Washington,440 HILLSBORO-SOUTH,Secretary of State,,Write-ins,,1
+Washington,441 PORTLAND CITY SOUTH,Secretary of State,,Write-ins,,0
+Washington,442 KEMMER RD,Secretary of State,,Write-ins,,2
+Washington,443 MCEWAN RD,Secretary of State,,Write-ins,,0
+Washington,444 SPRINGVILLE,Secretary of State,,Write-ins,,5
+Washington,445 SCHOLLS HTS N,Secretary of State,,Write-ins,,2
+Washington,446 LOMBARD,Secretary of State,,Write-ins,,2
+Washington,447 BETHANY WEST,Secretary of State,,Write-ins,,3
+Washington,448 CEDAR HILLS,Secretary of State,,Write-ins,,2
+Washington,449 CANYON/217,Secretary of State,,Write-ins,,0
+Washington,450 COOPER MTN-BEAVERTON,Secretary of State,,Write-ins,,0
+Washington,451 GRABHORN,Secretary of State,,Write-ins,,0
+Washington,452 JOHNSON/185TH,Secretary of State,,Write-ins,,4
+Washington,453 BASELINE/185TH,Secretary of State,,Write-ins,,0
 Washington,454 BULL MT SPLIT,Secretary of State,,Write-ins,,0
 Washington,455 S TIGARD/PACIFIC HWY,Secretary of State,,Write-ins,,0
 Washington,456 FOREST GROVE-NORTH,Secretary of State,,Write-ins,,0
@@ -27429,83 +27429,83 @@ Washington,373 CORNELIUS PASS,Secretary of State,,Over Votes,,0
 Washington,374 JACOBSON RD,Secretary of State,,Over Votes,,0
 Washington,375 PORTLAND CITY,Secretary of State,,Over Votes,,0
 Washington,376 WESTVIEW,Secretary of State,,Over Votes,,0
-Washington, 377 BETHANY EAST,Secretary of State,,Over Votes,,0
-Washington, 378 CANYON LN,Secretary of State,,Over Votes,,0
-Washington, 379 HALL BLVD,Secretary of State,,Over Votes,,0
-Washington, 380 HIGHLAND PARK,Secretary of State,,Over Votes,,0
-Washington, 381 BEAVERTON/CENTER ST,Secretary of State,,Over Votes,,0
-Washington, 382 GREENWAY,Secretary of State,,Over Votes,,0
-Washington, 383 BEAVERTON-HILLSDALE,Secretary of State,,Over Votes,,0
-Washington, 384 GARDEN HOME,Secretary of State,,Over Votes,,2
-Washington, 385 PORTLAND GOLF CLUB,Secretary of State,,Over Votes,,0
-Washington, 386 RALEIGH PARK,Secretary of State,,Over Votes,,0
-Washington, 387 SUNSET CORRIDOR,Secretary of State,,Over Votes,,0
-Washington, 388 WHITFORD,Secretary of State,,Over Votes,,0
-Washington, 389 SEXTON MOUNTAIN,Secretary of State,,Over Votes,,0
-Washington, 390 SOUTHRIDGE,Secretary of State,,Over Votes,,1
-Washington, 391 PORTLAND CITY,Secretary of State,,Over Votes,,0
-Washington, 392 PORTLAND CITY COM 2,Secretary of State,,Over Votes,,0
-Washington, 393 MONTCLAIR,Secretary of State,,Over Votes,,0
-Washington, 394 CORNELIUS EAST,Secretary of State,,Over Votes,,0
-Washington, 395 MURRAY HILL,Secretary of State,,Over Votes,,1
-Washington, 396 DURHAM,Secretary of State,,Over Votes,,0
-Washington, 397 BULL MOUNTAIN,Secretary of State,,Over Votes,,1
-Washington, 398 COOPER MOUNTAIN,Secretary of State,,Over Votes,,0
-Washington, 399 METZGER,Secretary of State,,Over Votes,,0
-Washington, 400 WASHINGTON SQUARE,Secretary of State,,Over Votes,,1
-Washington, 401 MAYO STREET,Secretary of State,,Over Votes,,0
-Washington, 402 TIGARD/WALNUT ST,Secretary of State,,Over Votes,,0
-Washington, 403 TIGARD/GAARDE ST,Secretary of State,,Over Votes,,0
-Washington, 404 FOWLER SCHOOL,Secretary of State,,Over Votes,,0
-Washington, 405 TWALITY SCHOOL,Secretary of State,,Over Votes,,0
-Washington, 406 TIGARD CITY HALL,Secretary of State,,Over Votes,,0
-Washington, 407 NORTH BARNES,Secretary of State,,Over Votes,,0
-Washington, 408 SUMMERFIELD,Secretary of State,,Over Votes,,1
-Washington, 409 SUMMERLAKE-WEST,Secretary of State,,Over Votes,,1
-Washington, 410 BEEF BEND RD,Secretary of State,,Over Votes,,0
-Washington, 411 SCHOLLS HEIGHTS,Secretary of State,,Over Votes,,0
-Washington, 412 COOPER MT SCHOOL,Secretary of State,,Over Votes,,0
-Washington, 413 FISCHER/PACIFIC HWY,Secretary of State,,Over Votes,,0
-Washington, 414 BARROWS RD,Secretary of State,,Over Votes,,0
-Washington, 415 BEEF BEND/131ST,Secretary of State,,Over Votes,,0
-Washington, 416 SUMMERLAKE-EAST,Secretary of State,,Over Votes,,0
-Washington, 417 ELDORADO,Secretary of State,,Over Votes,,0
-Washington, 418 HART ROAD,Secretary of State,,Over Votes,,0
-Washington, 419 KING CITY,Secretary of State,,Over Votes,,0
-Washington, 420 TUALATIN CITY,Secretary of State,,Over Votes,,0
-Washington, 421 TRI-CITIES,Secretary of State,,Over Votes,,0
-Washington, 422 FG NORTH/UNINCORP,Secretary of State,,Over Votes,,0
-Washington, 423 TUALATIN-NORTH,Secretary of State,,Over Votes,,2
-Washington, 424 CENTRAL SHERWOOD CITY,Secretary of State,,Over Votes,,1
-Washington, 425 SHERWOOD-UNINCORP,Secretary of State,,Over Votes,,0
-Washington, 426 GRONER,Secretary of State,,Over Votes,,0
-Washington, 427 SCHOLLS,Secretary of State,,Over Votes,,0
-Washington, 428 TUALATIN-WEST,Secretary of State,,Over Votes,,0
-Washington, 429 MILLER HILL,Secretary of State,,Over Votes,,0
-Washington, 430 BALD PEAK,Secretary of State,,Over Votes,,0
-Washington, 431 MOUNTAIN HOME,Secretary of State,,Over Votes,,0
-Washington, 432 WILSONVILLE,Secretary of State,,Over Votes,,0
-Washington, 433 ED BYROM SCHOOL,Secretary of State,,Over Votes,,0
-Washington, 434 ERROL HASSELL,Secretary of State,,Over Votes,,0
-Washington, 435 SE SHERWOOD CITY,Secretary of State,,Over Votes,,0
-Washington, 436 TUALATIN CITY,Secretary of State,,Over Votes,,0
-Washington, 437 HAZELBROOK,Secretary of State,,Over Votes,,0
-Washington, 438 SE COUNTY,Secretary of State,,Over Votes,,0
-Washington, 439 PCC,Secretary of State,,Over Votes,,0
-Washington, 440 HILLSBORO-SOUTH,Secretary of State,,Over Votes,,1
-Washington, 441 PORTLAND CITY SOUTH,Secretary of State,,Over Votes,,0
-Washington, 442 KEMMER RD,Secretary of State,,Over Votes,,0
-Washington, 443 MCEWAN RD,Secretary of State,,Over Votes,,0
-Washington, 444 SPRINGVILLE,Secretary of State,,Over Votes,,1
-Washington, 445 SCHOLLS HTS N,Secretary of State,,Over Votes,,1
-Washington, 446 LOMBARD,Secretary of State,,Over Votes,,0
-Washington, 447 BETHANY WEST,Secretary of State,,Over Votes,,0
-Washington, 448 CEDAR HILLS,Secretary of State,,Over Votes,,1
-Washington, 449 CANYON/217,Secretary of State,,Over Votes,,0
-Washington, 450 COOPER MTN-BEAVERTON,Secretary of State,,Over Votes,,0
-Washington, 451 GRABHORN,Secretary of State,,Over Votes,,0
-Washington, 452 JOHNSON/185TH,Secretary of State,,Over Votes,,0
-Washington, 453 BASELINE/185TH,Secretary of State,,Over Votes,,0
+Washington,377 BETHANY EAST,Secretary of State,,Over Votes,,0
+Washington,378 CANYON LN,Secretary of State,,Over Votes,,0
+Washington,379 HALL BLVD,Secretary of State,,Over Votes,,0
+Washington,380 HIGHLAND PARK,Secretary of State,,Over Votes,,0
+Washington,381 BEAVERTON/CENTER ST,Secretary of State,,Over Votes,,0
+Washington,382 GREENWAY,Secretary of State,,Over Votes,,0
+Washington,383 BEAVERTON-HILLSDALE,Secretary of State,,Over Votes,,0
+Washington,384 GARDEN HOME,Secretary of State,,Over Votes,,2
+Washington,385 PORTLAND GOLF CLUB,Secretary of State,,Over Votes,,0
+Washington,386 RALEIGH PARK,Secretary of State,,Over Votes,,0
+Washington,387 SUNSET CORRIDOR,Secretary of State,,Over Votes,,0
+Washington,388 WHITFORD,Secretary of State,,Over Votes,,0
+Washington,389 SEXTON MOUNTAIN,Secretary of State,,Over Votes,,0
+Washington,390 SOUTHRIDGE,Secretary of State,,Over Votes,,1
+Washington,391 PORTLAND CITY,Secretary of State,,Over Votes,,0
+Washington,392 PORTLAND CITY COM 2,Secretary of State,,Over Votes,,0
+Washington,393 MONTCLAIR,Secretary of State,,Over Votes,,0
+Washington,394 CORNELIUS EAST,Secretary of State,,Over Votes,,0
+Washington,395 MURRAY HILL,Secretary of State,,Over Votes,,1
+Washington,396 DURHAM,Secretary of State,,Over Votes,,0
+Washington,397 BULL MOUNTAIN,Secretary of State,,Over Votes,,1
+Washington,398 COOPER MOUNTAIN,Secretary of State,,Over Votes,,0
+Washington,399 METZGER,Secretary of State,,Over Votes,,0
+Washington,400 WASHINGTON SQUARE,Secretary of State,,Over Votes,,1
+Washington,401 MAYO STREET,Secretary of State,,Over Votes,,0
+Washington,402 TIGARD/WALNUT ST,Secretary of State,,Over Votes,,0
+Washington,403 TIGARD/GAARDE ST,Secretary of State,,Over Votes,,0
+Washington,404 FOWLER SCHOOL,Secretary of State,,Over Votes,,0
+Washington,405 TWALITY SCHOOL,Secretary of State,,Over Votes,,0
+Washington,406 TIGARD CITY HALL,Secretary of State,,Over Votes,,0
+Washington,407 NORTH BARNES,Secretary of State,,Over Votes,,0
+Washington,408 SUMMERFIELD,Secretary of State,,Over Votes,,1
+Washington,409 SUMMERLAKE-WEST,Secretary of State,,Over Votes,,1
+Washington,410 BEEF BEND RD,Secretary of State,,Over Votes,,0
+Washington,411 SCHOLLS HEIGHTS,Secretary of State,,Over Votes,,0
+Washington,412 COOPER MT SCHOOL,Secretary of State,,Over Votes,,0
+Washington,413 FISCHER/PACIFIC HWY,Secretary of State,,Over Votes,,0
+Washington,414 BARROWS RD,Secretary of State,,Over Votes,,0
+Washington,415 BEEF BEND/131ST,Secretary of State,,Over Votes,,0
+Washington,416 SUMMERLAKE-EAST,Secretary of State,,Over Votes,,0
+Washington,417 ELDORADO,Secretary of State,,Over Votes,,0
+Washington,418 HART ROAD,Secretary of State,,Over Votes,,0
+Washington,419 KING CITY,Secretary of State,,Over Votes,,0
+Washington,420 TUALATIN CITY,Secretary of State,,Over Votes,,0
+Washington,421 TRI-CITIES,Secretary of State,,Over Votes,,0
+Washington,422 FG NORTH/UNINCORP,Secretary of State,,Over Votes,,0
+Washington,423 TUALATIN-NORTH,Secretary of State,,Over Votes,,2
+Washington,424 CENTRAL SHERWOOD CITY,Secretary of State,,Over Votes,,1
+Washington,425 SHERWOOD-UNINCORP,Secretary of State,,Over Votes,,0
+Washington,426 GRONER,Secretary of State,,Over Votes,,0
+Washington,427 SCHOLLS,Secretary of State,,Over Votes,,0
+Washington,428 TUALATIN-WEST,Secretary of State,,Over Votes,,0
+Washington,429 MILLER HILL,Secretary of State,,Over Votes,,0
+Washington,430 BALD PEAK,Secretary of State,,Over Votes,,0
+Washington,431 MOUNTAIN HOME,Secretary of State,,Over Votes,,0
+Washington,432 WILSONVILLE,Secretary of State,,Over Votes,,0
+Washington,433 ED BYROM SCHOOL,Secretary of State,,Over Votes,,0
+Washington,434 ERROL HASSELL,Secretary of State,,Over Votes,,0
+Washington,435 SE SHERWOOD CITY,Secretary of State,,Over Votes,,0
+Washington,436 TUALATIN CITY,Secretary of State,,Over Votes,,0
+Washington,437 HAZELBROOK,Secretary of State,,Over Votes,,0
+Washington,438 SE COUNTY,Secretary of State,,Over Votes,,0
+Washington,439 PCC,Secretary of State,,Over Votes,,0
+Washington,440 HILLSBORO-SOUTH,Secretary of State,,Over Votes,,1
+Washington,441 PORTLAND CITY SOUTH,Secretary of State,,Over Votes,,0
+Washington,442 KEMMER RD,Secretary of State,,Over Votes,,0
+Washington,443 MCEWAN RD,Secretary of State,,Over Votes,,0
+Washington,444 SPRINGVILLE,Secretary of State,,Over Votes,,1
+Washington,445 SCHOLLS HTS N,Secretary of State,,Over Votes,,1
+Washington,446 LOMBARD,Secretary of State,,Over Votes,,0
+Washington,447 BETHANY WEST,Secretary of State,,Over Votes,,0
+Washington,448 CEDAR HILLS,Secretary of State,,Over Votes,,1
+Washington,449 CANYON/217,Secretary of State,,Over Votes,,0
+Washington,450 COOPER MTN-BEAVERTON,Secretary of State,,Over Votes,,0
+Washington,451 GRABHORN,Secretary of State,,Over Votes,,0
+Washington,452 JOHNSON/185TH,Secretary of State,,Over Votes,,0
+Washington,453 BASELINE/185TH,Secretary of State,,Over Votes,,0
 Washington,454 BULL MT SPLIT,Secretary of State,,Over Votes,,0
 Washington,455 S TIGARD/PACIFIC HWY,Secretary of State,,Over Votes,,0
 Washington,456 FOREST GROVE-NORTH,Secretary of State,,Over Votes,,0
@@ -27588,83 +27588,83 @@ Washington,373 CORNELIUS PASS,Secretary of State,,Under Votes,,20
 Washington,374 JACOBSON RD,Secretary of State,,Under Votes,,0
 Washington,375 PORTLAND CITY,Secretary of State,,Under Votes,,19
 Washington,376 WESTVIEW,Secretary of State,,Under Votes,,157
-Washington, 377 BETHANY EAST,Secretary of State,,Under Votes,,226
-Washington, 378 CANYON LN,Secretary of State,,Under Votes,,70
-Washington, 379 HALL BLVD,Secretary of State,,Under Votes,,246
-Washington, 380 HIGHLAND PARK,Secretary of State,,Under Votes,,177
-Washington, 381 BEAVERTON/CENTER ST,Secretary of State,,Under Votes,,155
-Washington, 382 GREENWAY,Secretary of State,,Under Votes,,205
-Washington, 383 BEAVERTON-HILLSDALE,Secretary of State,,Under Votes,,96
-Washington, 384 GARDEN HOME,Secretary of State,,Under Votes,,158
-Washington, 385 PORTLAND GOLF CLUB,Secretary of State,,Under Votes,,219
-Washington, 386 RALEIGH PARK,Secretary of State,,Under Votes,,217
-Washington, 387 SUNSET CORRIDOR,Secretary of State,,Under Votes,,70
-Washington, 388 WHITFORD,Secretary of State,,Under Votes,,21
-Washington, 389 SEXTON MOUNTAIN,Secretary of State,,Under Votes,,365
-Washington, 390 SOUTHRIDGE,Secretary of State,,Under Votes,,286
-Washington, 391 PORTLAND CITY,Secretary of State,,Under Votes,,24
-Washington, 392 PORTLAND CITY COM 2,Secretary of State,,Under Votes,,12
-Washington, 393 MONTCLAIR,Secretary of State,,Under Votes,,38
-Washington, 394 CORNELIUS EAST,Secretary of State,,Under Votes,,4
-Washington, 395 MURRAY HILL,Secretary of State,,Under Votes,,187
-Washington, 396 DURHAM,Secretary of State,,Under Votes,,52
-Washington, 397 BULL MOUNTAIN,Secretary of State,,Under Votes,,206
-Washington, 398 COOPER MOUNTAIN,Secretary of State,,Under Votes,,56
-Washington, 399 METZGER,Secretary of State,,Under Votes,,184
-Washington, 400 WASHINGTON SQUARE,Secretary of State,,Under Votes,,193
-Washington, 401 MAYO STREET,Secretary of State,,Under Votes,,110
-Washington, 402 TIGARD/WALNUT ST,Secretary of State,,Under Votes,,52
-Washington, 403 TIGARD/GAARDE ST,Secretary of State,,Under Votes,,267
-Washington, 404 FOWLER SCHOOL,Secretary of State,,Under Votes,,175
-Washington, 405 TWALITY SCHOOL,Secretary of State,,Under Votes,,320
-Washington, 406 TIGARD CITY HALL,Secretary of State,,Under Votes,,224
-Washington, 407 NORTH BARNES,Secretary of State,,Under Votes,,58
-Washington, 408 SUMMERFIELD,Secretary of State,,Under Votes,,294
-Washington, 409 SUMMERLAKE-WEST,Secretary of State,,Under Votes,,180
-Washington, 410 BEEF BEND RD,Secretary of State,,Under Votes,,139
-Washington, 411 SCHOLLS HEIGHTS,Secretary of State,,Under Votes,,234
-Washington, 412 COOPER MT SCHOOL,Secretary of State,,Under Votes,,136
-Washington, 413 FISCHER/PACIFIC HWY,Secretary of State,,Under Votes,,40
-Washington, 414 BARROWS RD,Secretary of State,,Under Votes,,122
-Washington, 415 BEEF BEND/131ST,Secretary of State,,Under Votes,,18
-Washington, 416 SUMMERLAKE-EAST,Secretary of State,,Under Votes,,158
-Washington, 417 ELDORADO,Secretary of State,,Under Votes,,94
-Washington, 418 HART ROAD,Secretary of State,,Under Votes,,31
-Washington, 419 KING CITY,Secretary of State,,Under Votes,,79
-Washington, 420 TUALATIN CITY,Secretary of State,,Under Votes,,226
-Washington, 421 TRI-CITIES,Secretary of State,,Under Votes,,1
-Washington, 422 FG NORTH/UNINCORP,Secretary of State,,Under Votes,,10
-Washington, 423 TUALATIN-NORTH,Secretary of State,,Under Votes,,208
-Washington, 424 CENTRAL SHERWOOD CITY,Secretary of State,,Under Votes,,314
-Washington, 425 SHERWOOD-UNINCORP,Secretary of State,,Under Votes,,48
-Washington, 426 GRONER,Secretary of State,,Under Votes,,25
-Washington, 427 SCHOLLS,Secretary of State,,Under Votes,,100
-Washington, 428 TUALATIN-WEST,Secretary of State,,Under Votes,,104
-Washington, 429 MILLER HILL,Secretary of State,,Under Votes,,121
-Washington, 430 BALD PEAK,Secretary of State,,Under Votes,,32
-Washington, 431 MOUNTAIN HOME,Secretary of State,,Under Votes,,87
-Washington, 432 WILSONVILLE,Secretary of State,,Under Votes,,26
-Washington, 433 ED BYROM SCHOOL,Secretary of State,,Under Votes,,158
-Washington, 434 ERROL HASSELL,Secretary of State,,Under Votes,,262
-Washington, 435 SE SHERWOOD CITY,Secretary of State,,Under Votes,,251
-Washington, 436 TUALATIN CITY,Secretary of State,,Under Votes,,114
-Washington, 437 HAZELBROOK,Secretary of State,,Under Votes,,1
-Washington, 438 SE COUNTY,Secretary of State,,Under Votes,,31
-Washington, 439 PCC,Secretary of State,,Under Votes,,17
-Washington, 440 HILLSBORO-SOUTH,Secretary of State,,Under Votes,,81
-Washington, 441 PORTLAND CITY SOUTH,Secretary of State,,Under Votes,,2
-Washington, 442 KEMMER RD,Secretary of State,,Under Votes,,66
-Washington, 443 MCEWAN RD,Secretary of State,,Under Votes,,0
-Washington, 444 SPRINGVILLE,Secretary of State,,Under Votes,,175
-Washington, 445 SCHOLLS HTS N,Secretary of State,,Under Votes,,69
-Washington, 446 LOMBARD,Secretary of State,,Under Votes,,91
-Washington, 447 BETHANY WEST,Secretary of State,,Under Votes,,177
-Washington, 448 CEDAR HILLS,Secretary of State,,Under Votes,,43
-Washington, 449 CANYON/217,Secretary of State,,Under Votes,,7
-Washington, 450 COOPER MTN-BEAVERTON,Secretary of State,,Under Votes,,0
-Washington, 451 GRABHORN,Secretary of State,,Under Votes,,28
-Washington, 452 JOHNSON/185TH,Secretary of State,,Under Votes,,216
-Washington, 453 BASELINE/185TH,Secretary of State,,Under Votes,,0
+Washington,377 BETHANY EAST,Secretary of State,,Under Votes,,226
+Washington,378 CANYON LN,Secretary of State,,Under Votes,,70
+Washington,379 HALL BLVD,Secretary of State,,Under Votes,,246
+Washington,380 HIGHLAND PARK,Secretary of State,,Under Votes,,177
+Washington,381 BEAVERTON/CENTER ST,Secretary of State,,Under Votes,,155
+Washington,382 GREENWAY,Secretary of State,,Under Votes,,205
+Washington,383 BEAVERTON-HILLSDALE,Secretary of State,,Under Votes,,96
+Washington,384 GARDEN HOME,Secretary of State,,Under Votes,,158
+Washington,385 PORTLAND GOLF CLUB,Secretary of State,,Under Votes,,219
+Washington,386 RALEIGH PARK,Secretary of State,,Under Votes,,217
+Washington,387 SUNSET CORRIDOR,Secretary of State,,Under Votes,,70
+Washington,388 WHITFORD,Secretary of State,,Under Votes,,21
+Washington,389 SEXTON MOUNTAIN,Secretary of State,,Under Votes,,365
+Washington,390 SOUTHRIDGE,Secretary of State,,Under Votes,,286
+Washington,391 PORTLAND CITY,Secretary of State,,Under Votes,,24
+Washington,392 PORTLAND CITY COM 2,Secretary of State,,Under Votes,,12
+Washington,393 MONTCLAIR,Secretary of State,,Under Votes,,38
+Washington,394 CORNELIUS EAST,Secretary of State,,Under Votes,,4
+Washington,395 MURRAY HILL,Secretary of State,,Under Votes,,187
+Washington,396 DURHAM,Secretary of State,,Under Votes,,52
+Washington,397 BULL MOUNTAIN,Secretary of State,,Under Votes,,206
+Washington,398 COOPER MOUNTAIN,Secretary of State,,Under Votes,,56
+Washington,399 METZGER,Secretary of State,,Under Votes,,184
+Washington,400 WASHINGTON SQUARE,Secretary of State,,Under Votes,,193
+Washington,401 MAYO STREET,Secretary of State,,Under Votes,,110
+Washington,402 TIGARD/WALNUT ST,Secretary of State,,Under Votes,,52
+Washington,403 TIGARD/GAARDE ST,Secretary of State,,Under Votes,,267
+Washington,404 FOWLER SCHOOL,Secretary of State,,Under Votes,,175
+Washington,405 TWALITY SCHOOL,Secretary of State,,Under Votes,,320
+Washington,406 TIGARD CITY HALL,Secretary of State,,Under Votes,,224
+Washington,407 NORTH BARNES,Secretary of State,,Under Votes,,58
+Washington,408 SUMMERFIELD,Secretary of State,,Under Votes,,294
+Washington,409 SUMMERLAKE-WEST,Secretary of State,,Under Votes,,180
+Washington,410 BEEF BEND RD,Secretary of State,,Under Votes,,139
+Washington,411 SCHOLLS HEIGHTS,Secretary of State,,Under Votes,,234
+Washington,412 COOPER MT SCHOOL,Secretary of State,,Under Votes,,136
+Washington,413 FISCHER/PACIFIC HWY,Secretary of State,,Under Votes,,40
+Washington,414 BARROWS RD,Secretary of State,,Under Votes,,122
+Washington,415 BEEF BEND/131ST,Secretary of State,,Under Votes,,18
+Washington,416 SUMMERLAKE-EAST,Secretary of State,,Under Votes,,158
+Washington,417 ELDORADO,Secretary of State,,Under Votes,,94
+Washington,418 HART ROAD,Secretary of State,,Under Votes,,31
+Washington,419 KING CITY,Secretary of State,,Under Votes,,79
+Washington,420 TUALATIN CITY,Secretary of State,,Under Votes,,226
+Washington,421 TRI-CITIES,Secretary of State,,Under Votes,,1
+Washington,422 FG NORTH/UNINCORP,Secretary of State,,Under Votes,,10
+Washington,423 TUALATIN-NORTH,Secretary of State,,Under Votes,,208
+Washington,424 CENTRAL SHERWOOD CITY,Secretary of State,,Under Votes,,314
+Washington,425 SHERWOOD-UNINCORP,Secretary of State,,Under Votes,,48
+Washington,426 GRONER,Secretary of State,,Under Votes,,25
+Washington,427 SCHOLLS,Secretary of State,,Under Votes,,100
+Washington,428 TUALATIN-WEST,Secretary of State,,Under Votes,,104
+Washington,429 MILLER HILL,Secretary of State,,Under Votes,,121
+Washington,430 BALD PEAK,Secretary of State,,Under Votes,,32
+Washington,431 MOUNTAIN HOME,Secretary of State,,Under Votes,,87
+Washington,432 WILSONVILLE,Secretary of State,,Under Votes,,26
+Washington,433 ED BYROM SCHOOL,Secretary of State,,Under Votes,,158
+Washington,434 ERROL HASSELL,Secretary of State,,Under Votes,,262
+Washington,435 SE SHERWOOD CITY,Secretary of State,,Under Votes,,251
+Washington,436 TUALATIN CITY,Secretary of State,,Under Votes,,114
+Washington,437 HAZELBROOK,Secretary of State,,Under Votes,,1
+Washington,438 SE COUNTY,Secretary of State,,Under Votes,,31
+Washington,439 PCC,Secretary of State,,Under Votes,,17
+Washington,440 HILLSBORO-SOUTH,Secretary of State,,Under Votes,,81
+Washington,441 PORTLAND CITY SOUTH,Secretary of State,,Under Votes,,2
+Washington,442 KEMMER RD,Secretary of State,,Under Votes,,66
+Washington,443 MCEWAN RD,Secretary of State,,Under Votes,,0
+Washington,444 SPRINGVILLE,Secretary of State,,Under Votes,,175
+Washington,445 SCHOLLS HTS N,Secretary of State,,Under Votes,,69
+Washington,446 LOMBARD,Secretary of State,,Under Votes,,91
+Washington,447 BETHANY WEST,Secretary of State,,Under Votes,,177
+Washington,448 CEDAR HILLS,Secretary of State,,Under Votes,,43
+Washington,449 CANYON/217,Secretary of State,,Under Votes,,7
+Washington,450 COOPER MTN-BEAVERTON,Secretary of State,,Under Votes,,0
+Washington,451 GRABHORN,Secretary of State,,Under Votes,,28
+Washington,452 JOHNSON/185TH,Secretary of State,,Under Votes,,216
+Washington,453 BASELINE/185TH,Secretary of State,,Under Votes,,0
 Washington,454 BULL MT SPLIT,Secretary of State,,Under Votes,,44
 Washington,455 S TIGARD/PACIFIC HWY,Secretary of State,,Under Votes,,2
 Washington,456 FOREST GROVE-NORTH,Secretary of State,,Under Votes,,2
@@ -34152,12 +34152,12 @@ Lincoln,09 Nye Creek,U.S. Senate,,Write-ins,,2
 Lincoln,09 Nye Creek,U.S. Senate,,Dave Brownlow,CON,56
 Lincoln,09 Nye Creek,U.S. Senate,,Jeff Merkley,DEM,493
 Lincoln,09 Nye Creek,U.S. Senate,,Gordon H Smith,REP,253
-Lincoln,1O  Newport Bay,U.S. Senate,,Under Votes,,23
-Lincoln,1O  Newport Bay,U.S. Senate,,Over Votes,,0
-Lincoln,1O  Newport Bay,U.S. Senate,,Write-ins,,0
-Lincoln,1O  Newport Bay,U.S. Senate,,Dave Brownlow,CON,30
-Lincoln,1O  Newport Bay,U.S. Senate,,Jeff Merkley,DEM,325
-Lincoln,1O  Newport Bay,U.S. Senate,,Gordon H Smith,REP,213
+Lincoln,1O Newport Bay,U.S. Senate,,Under Votes,,23
+Lincoln,1O Newport Bay,U.S. Senate,,Over Votes,,0
+Lincoln,1O Newport Bay,U.S. Senate,,Write-ins,,0
+Lincoln,1O Newport Bay,U.S. Senate,,Dave Brownlow,CON,30
+Lincoln,1O Newport Bay,U.S. Senate,,Jeff Merkley,DEM,325
+Lincoln,1O Newport Bay,U.S. Senate,,Gordon H Smith,REP,213
 Lincoln,11 Oceanview,U.S. Senate,,Under Votes,,20
 Lincoln,11 Oceanview,U.S. Senate,,Over Votes,,0
 Lincoln,11 Oceanview,U.S. Senate,,Write-ins,,1
@@ -34647,12 +34647,12 @@ Lincoln,09 Nye Creek,Secretary of State,,Write-ins,,1
 Lincoln,09 Nye Creek,Secretary of State,,Rick Dancer,REP,261
 Lincoln,09 Nye Creek,Secretary of State,,Seth Alan Woolley,PGP,39
 Lincoln,09 Nye Creek,Secretary of State,,Kate Brown,DEM,483
-Lincoln,1O  Newport Bay,Secretary of State,,Under Votes,,47
-Lincoln,1O  Newport Bay,Secretary of State,,Over Votes,,0
-Lincoln,1O  Newport Bay,Secretary of State,,Write-ins,,1
-Lincoln,1O  Newport Bay,Secretary of State,,Rick Dancer,REP,193
-Lincoln,1O  Newport Bay,Secretary of State,,Seth Alan Woolley,PGP,25
-Lincoln,1O  Newport Bay,Secretary of State,,Kate Brown,DEM,325
+Lincoln,1O Newport Bay,Secretary of State,,Under Votes,,47
+Lincoln,1O Newport Bay,Secretary of State,,Over Votes,,0
+Lincoln,1O Newport Bay,Secretary of State,,Write-ins,,1
+Lincoln,1O Newport Bay,Secretary of State,,Rick Dancer,REP,193
+Lincoln,1O Newport Bay,Secretary of State,,Seth Alan Woolley,PGP,25
+Lincoln,1O Newport Bay,Secretary of State,,Kate Brown,DEM,325
 Lincoln,11 Oceanview,Secretary of State,,Under Votes,,46
 Lincoln,11 Oceanview,Secretary of State,,Over Votes,,0
 Lincoln,11 Oceanview,Secretary of State,,Write-ins,,1
@@ -55307,835 +55307,835 @@ Baker,1 BAKER #1,Attorney General,,John R. Kroger,DEM,480
 Baker,2 BAKER #2,Attorney General,,John R. Kroger,DEM,432
 Baker,3 BAKER #3,Attorney General,,John R. Kroger,DEM,448
 Baker,4 BAKER #4,Attorney General,,John R. Kroger,DEM,516
-Baker,5  BAKER #5,Attorney General,,John R. Kroger,DEM,545
-Baker,13  BAKER COUNTRY,Attorney General,,John R. Kroger,DEM,285
-Baker,14  DURKEE,Attorney General,,John R. Kroger,DEM,28
-Baker,15  EAGLE VA,Attorney General,,John R. Kroger,DEM,208
-Baker,17  HAINES,Attorney General,,John R. Kroger,DEM,259
-Baker,18  HEREFORD,Attorney General,,John R. Kroger,DEM,33
-Baker,19  HUNTINGTON,Attorney General,,John R. Kroger,DEM,153
+Baker,5 BAKER #5,Attorney General,,John R. Kroger,DEM,545
+Baker,13 BAKER COUNTRY,Attorney General,,John R. Kroger,DEM,285
+Baker,14 DURKEE,Attorney General,,John R. Kroger,DEM,28
+Baker,15 EAGLE VA,Attorney General,,John R. Kroger,DEM,208
+Baker,17 HAINES,Attorney General,,John R. Kroger,DEM,259
+Baker,18 HEREFORD,Attorney General,,John R. Kroger,DEM,33
+Baker,19 HUNTINGTON,Attorney General,,John R. Kroger,DEM,153
 Baker,20 IRONDYKE,Attorney General,,John R. Kroger,DEM,24
-Baker,21  KEATING,Attorney General,,John R. Kroger,DEM,59
-Baker,22  PINE VALLEY,Attorney General,,John R. Kroger,DEM,320
-Baker,24  POCA-WING,Attorney General,,John R. Kroger,DEM,342
+Baker,21 KEATING,Attorney General,,John R. Kroger,DEM,59
+Baker,22 PINE VALLEY,Attorney General,,John R. Kroger,DEM,320
+Baker,24 POCA-WING,Attorney General,,John R. Kroger,DEM,342
 Baker,25 SUMPTER,Attorney General,,John R. Kroger,DEM,116
-Baker,26  UNITY,Attorney General,,John R. Kroger,DEM,53
+Baker,26 UNITY,Attorney General,,John R. Kroger,DEM,53
 Baker,1 BAKER #1,Attorney General,,J. Ashlee Albies,WFP,85
 Baker,2 BAKER #2,Attorney General,,J. Ashlee Albies,WFP,105
 Baker,3 BAKER #3,Attorney General,,J. Ashlee Albies,WFP,154
 Baker,4 BAKER #4,Attorney General,,J. Ashlee Albies,WFP,129
-Baker,5  BAKER #5,Attorney General,,J. Ashlee Albies,WFP,109
-Baker,13  BAKER COUNTRY,Attorney General,,J. Ashlee Albies,WFP,69
-Baker,14  DURKEE,Attorney General,,J. Ashlee Albies,WFP,14
-Baker,15  EAGLE VA,Attorney General,,J. Ashlee Albies,WFP,55
-Baker,17  HAINES,Attorney General,,J. Ashlee Albies,WFP,71
-Baker,18  HEREFORD,Attorney General,,J. Ashlee Albies,WFP,10
-Baker,19  HUNTINGTON,Attorney General,,J. Ashlee Albies,WFP,33
+Baker,5 BAKER #5,Attorney General,,J. Ashlee Albies,WFP,109
+Baker,13 BAKER COUNTRY,Attorney General,,J. Ashlee Albies,WFP,69
+Baker,14 DURKEE,Attorney General,,J. Ashlee Albies,WFP,14
+Baker,15 EAGLE VA,Attorney General,,J. Ashlee Albies,WFP,55
+Baker,17 HAINES,Attorney General,,J. Ashlee Albies,WFP,71
+Baker,18 HEREFORD,Attorney General,,J. Ashlee Albies,WFP,10
+Baker,19 HUNTINGTON,Attorney General,,J. Ashlee Albies,WFP,33
 Baker,20 IRONDYKE,Attorney General,,J. Ashlee Albies,WFP,4
-Baker,21  KEATING,Attorney General,,J. Ashlee Albies,WFP,20
-Baker,22  PINE VALLEY,Attorney General,,J. Ashlee Albies,WFP,70
-Baker,24  POCA-WING,Attorney General,,J. Ashlee Albies,WFP,63
+Baker,21 KEATING,Attorney General,,J. Ashlee Albies,WFP,20
+Baker,22 PINE VALLEY,Attorney General,,J. Ashlee Albies,WFP,70
+Baker,24 POCA-WING,Attorney General,,J. Ashlee Albies,WFP,63
 Baker,25 SUMPTER,Attorney General,,J. Ashlee Albies,WFP,36
-Baker,26  UNITY,Attorney General,,J. Ashlee Albies,WFP,14
+Baker,26 UNITY,Attorney General,,J. Ashlee Albies,WFP,14
 Baker,1 BAKER #1,Attorney General,,Walter F (Walt) Brown,PAC,16
 Baker,2 BAKER #2,Attorney General,,Walter F (Walt) Brown,PAC,36
 Baker,3 BAKER #3,Attorney General,,Walter F (Walt) Brown,PAC,33
 Baker,4 BAKER #4,Attorney General,,Walter F (Walt) Brown,PAC,36
-Baker,5  BAKER #5,Attorney General,,Walter F (Walt) Brown,PAC,21
-Baker,13  BAKER COUNTRY,Attorney General,,Walter F (Walt) Brown,PAC,20
-Baker,14  DURKEE,Attorney General,,Walter F (Walt) Brown,PAC,2
-Baker,15  EAGLE VA,Attorney General,,Walter F (Walt) Brown,PAC,18
-Baker,17  HAINES,Attorney General,,Walter F (Walt) Brown,PAC,23
-Baker,18  HEREFORD,Attorney General,,Walter F (Walt) Brown,PAC,1
-Baker,19  HUNTINGTON,Attorney General,,Walter F (Walt) Brown,PAC,7
+Baker,5 BAKER #5,Attorney General,,Walter F (Walt) Brown,PAC,21
+Baker,13 BAKER COUNTRY,Attorney General,,Walter F (Walt) Brown,PAC,20
+Baker,14 DURKEE,Attorney General,,Walter F (Walt) Brown,PAC,2
+Baker,15 EAGLE VA,Attorney General,,Walter F (Walt) Brown,PAC,18
+Baker,17 HAINES,Attorney General,,Walter F (Walt) Brown,PAC,23
+Baker,18 HEREFORD,Attorney General,,Walter F (Walt) Brown,PAC,1
+Baker,19 HUNTINGTON,Attorney General,,Walter F (Walt) Brown,PAC,7
 Baker,20 IRONDYKE,Attorney General,,Walter F (Walt) Brown,PAC,5
-Baker,21  KEATING,Attorney General,,Walter F (Walt) Brown,PAC,4
-Baker,22  PINE VALLEY,Attorney General,,Walter F (Walt) Brown,PAC,20
-Baker,24  POCA-WING,Attorney General,,Walter F (Walt) Brown,PAC,18
+Baker,21 KEATING,Attorney General,,Walter F (Walt) Brown,PAC,4
+Baker,22 PINE VALLEY,Attorney General,,Walter F (Walt) Brown,PAC,20
+Baker,24 POCA-WING,Attorney General,,Walter F (Walt) Brown,PAC,18
 Baker,25 SUMPTER,Attorney General,,Walter F (Walt) Brown,PAC,5
-Baker,26  UNITY,Attorney General,,Walter F (Walt) Brown,PAC,0
+Baker,26 UNITY,Attorney General,,Walter F (Walt) Brown,PAC,0
 Baker,1 BAKER #1,Attorney General,,James E. Leuenberger,CON,125
 Baker,2 BAKER #2,Attorney General,,James E. Leuenberger,CON,132
 Baker,3 BAKER #3,Attorney General,,James E. Leuenberger,CON,142
 Baker,4 BAKER #4,Attorney General,,James E. Leuenberger,CON,168
-Baker,5  BAKER #5,Attorney General,,James E. Leuenberger,CON,167
-Baker,13  BAKER COUNTRY,Attorney General,,James E. Leuenberger,CON,118
-Baker,14  DURKEE,Attorney General,,James E. Leuenberger,CON,21
-Baker,15  EAGLE VA,Attorney General,,James E. Leuenberger,CON,46
-Baker,17  HAINES,Attorney General,,James E. Leuenberger,CON,94
-Baker,18  HEREFORD,Attorney General,,James E. Leuenberger,CON,18
-Baker,19  HUNTINGTON,Attorney General,,James E. Leuenberger,CON,30
+Baker,5 BAKER #5,Attorney General,,James E. Leuenberger,CON,167
+Baker,13 BAKER COUNTRY,Attorney General,,James E. Leuenberger,CON,118
+Baker,14 DURKEE,Attorney General,,James E. Leuenberger,CON,21
+Baker,15 EAGLE VA,Attorney General,,James E. Leuenberger,CON,46
+Baker,17 HAINES,Attorney General,,James E. Leuenberger,CON,94
+Baker,18 HEREFORD,Attorney General,,James E. Leuenberger,CON,18
+Baker,19 HUNTINGTON,Attorney General,,James E. Leuenberger,CON,30
 Baker,20 IRONDYKE,Attorney General,,James E. Leuenberger,CON,14
-Baker,21  KEATING,Attorney General,,James E. Leuenberger,CON,29
-Baker,22  PINE VALLEY,Attorney General,,James E. Leuenberger,CON,80
-Baker,24  POCA-WING,Attorney General,,James E. Leuenberger,CON,124
+Baker,21 KEATING,Attorney General,,James E. Leuenberger,CON,29
+Baker,22 PINE VALLEY,Attorney General,,James E. Leuenberger,CON,80
+Baker,24 POCA-WING,Attorney General,,James E. Leuenberger,CON,124
 Baker,25 SUMPTER,Attorney General,,James E. Leuenberger,CON,48
-Baker,26  UNITY,Attorney General,,James E. Leuenberger,CON,5
+Baker,26 UNITY,Attorney General,,James E. Leuenberger,CON,5
 Baker,1 BAKER #1,Attorney General,,Write-ins,,4
 Baker,2 BAKER #2,Attorney General,,Write-ins,,1
 Baker,3 BAKER #3,Attorney General,,Write-ins,,4
 Baker,4 BAKER #4,Attorney General,,Write-ins,,5
-Baker,5  BAKER #5,Attorney General,,Write-ins,,4
-Baker,13  BAKER COUNTRY,Attorney General,,Write-ins,,5
-Baker,14  DURKEE,Attorney General,,Write-ins,,1
-Baker,15  EAGLE VA,Attorney General,,Write-ins,,1
-Baker,17  HAINES,Attorney General,,Write-ins,,0
-Baker,18  HEREFORD,Attorney General,,Write-ins,,0
-Baker,19  HUNTINGTON,Attorney General,,Write-ins,,1
+Baker,5 BAKER #5,Attorney General,,Write-ins,,4
+Baker,13 BAKER COUNTRY,Attorney General,,Write-ins,,5
+Baker,14 DURKEE,Attorney General,,Write-ins,,1
+Baker,15 EAGLE VA,Attorney General,,Write-ins,,1
+Baker,17 HAINES,Attorney General,,Write-ins,,0
+Baker,18 HEREFORD,Attorney General,,Write-ins,,0
+Baker,19 HUNTINGTON,Attorney General,,Write-ins,,1
 Baker,20 IRONDYKE,Attorney General,,Write-ins,,0
-Baker,21  KEATING,Attorney General,,Write-ins,,1
-Baker,22  PINE VALLEY,Attorney General,,Write-ins,,1
-Baker,24  POCA-WING,Attorney General,,Write-ins,,1
+Baker,21 KEATING,Attorney General,,Write-ins,,1
+Baker,22 PINE VALLEY,Attorney General,,Write-ins,,1
+Baker,24 POCA-WING,Attorney General,,Write-ins,,1
 Baker,25 SUMPTER,Attorney General,,Write-ins,,2
-Baker,26  UNITY,Attorney General,,Write-ins,,0
+Baker,26 UNITY,Attorney General,,Write-ins,,0
 Baker,1 BAKER #1,Attorney General,,Over Votes,,0
 Baker,2 BAKER #2,Attorney General,,Over Votes,,0
 Baker,3 BAKER #3,Attorney General,,Over Votes,,0
 Baker,4 BAKER #4,Attorney General,,Over Votes,,0
-Baker,5  BAKER #5,Attorney General,,Over Votes,,0
-Baker,13  BAKER COUNTRY,Attorney General,,Over Votes,,0
-Baker,14  DURKEE,Attorney General,,Over Votes,,0
-Baker,15  EAGLE VA,Attorney General,,Over Votes,,0
-Baker,17  HAINES,Attorney General,,Over Votes,,0
-Baker,18  HEREFORD,Attorney General,,Over Votes,,0
-Baker,19  HUNTINGTON,Attorney General,,Over Votes,,0
+Baker,5 BAKER #5,Attorney General,,Over Votes,,0
+Baker,13 BAKER COUNTRY,Attorney General,,Over Votes,,0
+Baker,14 DURKEE,Attorney General,,Over Votes,,0
+Baker,15 EAGLE VA,Attorney General,,Over Votes,,0
+Baker,17 HAINES,Attorney General,,Over Votes,,0
+Baker,18 HEREFORD,Attorney General,,Over Votes,,0
+Baker,19 HUNTINGTON,Attorney General,,Over Votes,,0
 Baker,20 IRONDYKE,Attorney General,,Over Votes,,0
-Baker,21  KEATING,Attorney General,,Over Votes,,0
-Baker,22  PINE VALLEY,Attorney General,,Over Votes,,0
-Baker,24  POCA-WING,Attorney General,,Over Votes,,0
+Baker,21 KEATING,Attorney General,,Over Votes,,0
+Baker,22 PINE VALLEY,Attorney General,,Over Votes,,0
+Baker,24 POCA-WING,Attorney General,,Over Votes,,0
 Baker,25 SUMPTER,Attorney General,,Over Votes,,0
-Baker,26  UNITY,Attorney General,,Over Votes,,0
+Baker,26 UNITY,Attorney General,,Over Votes,,0
 Baker,1 BAKER #1,Attorney General,,Under Votes,,202
 Baker,2 BAKER #2,Attorney General,,Under Votes,,172
 Baker,3 BAKER #3,Attorney General,,Under Votes,,161
 Baker,4 BAKER #4,Attorney General,,Under Votes,,203
-Baker,5  BAKER #5,Attorney General,,Under Votes,,228
-Baker,13  BAKER COUNTRY,Attorney General,,Under Votes,,163
-Baker,14  DURKEE,Attorney General,,Under Votes,,27
-Baker,15  EAGLE VA,Attorney General,,Under Votes,,93
-Baker,17  HAINES,Attorney General,,Under Votes,,132
-Baker,18  HEREFORD,Attorney General,,Under Votes,,36
-Baker,19  HUNTINGTON,Attorney General,,Under Votes,,42
+Baker,5 BAKER #5,Attorney General,,Under Votes,,228
+Baker,13 BAKER COUNTRY,Attorney General,,Under Votes,,163
+Baker,14 DURKEE,Attorney General,,Under Votes,,27
+Baker,15 EAGLE VA,Attorney General,,Under Votes,,93
+Baker,17 HAINES,Attorney General,,Under Votes,,132
+Baker,18 HEREFORD,Attorney General,,Under Votes,,36
+Baker,19 HUNTINGTON,Attorney General,,Under Votes,,42
 Baker,20 IRONDYKE,Attorney General,,Under Votes,,10
-Baker,21  KEATING,Attorney General,,Under Votes,,43
-Baker,22  PINE VALLEY,Attorney General,,Under Votes,,118
-Baker,24  POCA-WING,Attorney General,,Under Votes,,174
+Baker,21 KEATING,Attorney General,,Under Votes,,43
+Baker,22 PINE VALLEY,Attorney General,,Under Votes,,118
+Baker,24 POCA-WING,Attorney General,,Under Votes,,174
 Baker,25 SUMPTER,Attorney General,,Under Votes,,44
-Baker,26  UNITY,Attorney General,,Under Votes,,22
+Baker,26 UNITY,Attorney General,,Under Votes,,22
 Baker,1 BAKER #1,President,,Ralph Nader,Peace,15
 Baker,2 BAKER #2,President,,Ralph Nader,Peace,15
 Baker,3 BAKER #3,President,,Ralph Nader,Peace,15
 Baker,4 BAKER #4,President,,Ralph Nader,Peace,14
-Baker,5  BAKER #5,President,,Ralph Nader,Peace,11
-Baker,13  BAKER COUNTRY,President,,Ralph Nader,Peace,8
-Baker,14  DURKEE,President,,Ralph Nader,Peace,0
-Baker,15  EAGLE VA,President,,Ralph Nader,Peace,7
-Baker,17  HAINES,President,,Ralph Nader,Peace,4
-Baker,18  HEREFORD,President,,Ralph Nader,Peace,0
-Baker,19  HUNTINGTON,President,,Ralph Nader,Peace,4
+Baker,5 BAKER #5,President,,Ralph Nader,Peace,11
+Baker,13 BAKER COUNTRY,President,,Ralph Nader,Peace,8
+Baker,14 DURKEE,President,,Ralph Nader,Peace,0
+Baker,15 EAGLE VA,President,,Ralph Nader,Peace,7
+Baker,17 HAINES,President,,Ralph Nader,Peace,4
+Baker,18 HEREFORD,President,,Ralph Nader,Peace,0
+Baker,19 HUNTINGTON,President,,Ralph Nader,Peace,4
 Baker,20 IRONDYKE,President,,Ralph Nader,Peace,1
-Baker,21  KEATING,President,,Ralph Nader,Peace,3
-Baker,22  PINE VALLEY,President,,Ralph Nader,Peace,3
-Baker,24  POCA-WING,President,,Ralph Nader,Peace,4
+Baker,21 KEATING,President,,Ralph Nader,Peace,3
+Baker,22 PINE VALLEY,President,,Ralph Nader,Peace,3
+Baker,24 POCA-WING,President,,Ralph Nader,Peace,4
 Baker,25 SUMPTER,President,,Ralph Nader,Peace,1
-Baker,26  UNITY,President,,Ralph Nader,Peace,1
+Baker,26 UNITY,President,,Ralph Nader,Peace,1
 Baker,1 BAKER #1,President,,Cynthia McKinney,PG,4
 Baker,2 BAKER #2,President,,Cynthia McKinney,PG,4
 Baker,3 BAKER #3,President,,Cynthia McKinney,PG,1
 Baker,4 BAKER #4,President,,Cynthia McKinney,PG,2
-Baker,5  BAKER #5,President,,Cynthia McKinney,PG,1
-Baker,13  BAKER COUNTRY,President,,Cynthia McKinney,PG,1
-Baker,14  DURKEE,President,,Cynthia McKinney,PG,0
-Baker,15  EAGLE VA,President,,Cynthia McKinney,PG,1
-Baker,17  HAINES,President,,Cynthia McKinney,PG,2
-Baker,18  HEREFORD,President,,Cynthia McKinney,PG,0
-Baker,19  HUNTINGTON,President,,Cynthia McKinney,PG,1
+Baker,5 BAKER #5,President,,Cynthia McKinney,PG,1
+Baker,13 BAKER COUNTRY,President,,Cynthia McKinney,PG,1
+Baker,14 DURKEE,President,,Cynthia McKinney,PG,0
+Baker,15 EAGLE VA,President,,Cynthia McKinney,PG,1
+Baker,17 HAINES,President,,Cynthia McKinney,PG,2
+Baker,18 HEREFORD,President,,Cynthia McKinney,PG,0
+Baker,19 HUNTINGTON,President,,Cynthia McKinney,PG,1
 Baker,20 IRONDYKE,President,,Cynthia McKinney,PG,0
-Baker,21  KEATING,President,,Cynthia McKinney,PG,0
-Baker,22  PINE VALLEY,President,,Cynthia McKinney,PG,1
-Baker,24  POCA-WING,President,,Cynthia McKinney,PG,5
+Baker,21 KEATING,President,,Cynthia McKinney,PG,0
+Baker,22 PINE VALLEY,President,,Cynthia McKinney,PG,1
+Baker,24 POCA-WING,President,,Cynthia McKinney,PG,5
 Baker,25 SUMPTER,President,,Cynthia McKinney,PG,0
-Baker,26  UNITY,President,,Cynthia McKinney,PG,0
+Baker,26 UNITY,President,,Cynthia McKinney,PG,0
 Baker,1 BAKER #1,President,,John McCain,REP,535
 Baker,2 BAKER #2,President,,John McCain,REP,501
 Baker,3 BAKER #3,President,,John McCain,REP,577
 Baker,4 BAKER #4,President,,John McCain,REP,673
-Baker,5  BAKER #5,President,,John McCain,REP,689
-Baker,13  BAKER COUNTRY,President,,John McCain,REP,488
-Baker,14  DURKEE,President,,John McCain,REP,83
-Baker,15  EAGLE VA,President,,John McCain,REP,270
-Baker,17  HAINES,President,,John McCain,REP,405
-Baker,18  HEREFORD,President,,John McCain,REP,84
-Baker,19  HUNTINGTON,President,,John McCain,REP,118
+Baker,5 BAKER #5,President,,John McCain,REP,689
+Baker,13 BAKER COUNTRY,President,,John McCain,REP,488
+Baker,14 DURKEE,President,,John McCain,REP,83
+Baker,15 EAGLE VA,President,,John McCain,REP,270
+Baker,17 HAINES,President,,John McCain,REP,405
+Baker,18 HEREFORD,President,,John McCain,REP,84
+Baker,19 HUNTINGTON,President,,John McCain,REP,118
 Baker,20 IRONDYKE,President,,John McCain,REP,33
-Baker,21  KEATING,President,,John McCain,REP,129
-Baker,22  PINE VALLEY,President,,John McCain,REP,355
-Baker,24  POCA-WING,President,,John McCain,REP,476
+Baker,21 KEATING,President,,John McCain,REP,129
+Baker,22 PINE VALLEY,President,,John McCain,REP,355
+Baker,24 POCA-WING,President,,John McCain,REP,476
 Baker,25 SUMPTER,President,,John McCain,REP,163
-Baker,26  UNITY,President,,John McCain,REP,71
+Baker,26 UNITY,President,,John McCain,REP,71
 Baker,1 BAKER #1,President,,Bob Barr,LBT,7
 Baker,2 BAKER #2,President,,Bob Barr,LBT,6
 Baker,3 BAKER #3,President,,Bob Barr,LBT,4
 Baker,4 BAKER #4,President,,Bob Barr,LBT,4
-Baker,5  BAKER #5,President,,Bob Barr,LBT,1
-Baker,13  BAKER COUNTRY,President,,Bob Barr,LBT,2
-Baker,14  DURKEE,President,,Bob Barr,LBT,0
-Baker,15  EAGLE VA,President,,Bob Barr,LBT,6
-Baker,17  HAINES,President,,Bob Barr,LBT,2
-Baker,18  HEREFORD,President,,Bob Barr,LBT,3
-Baker,19  HUNTINGTON,President,,Bob Barr,LBT,4
+Baker,5 BAKER #5,President,,Bob Barr,LBT,1
+Baker,13 BAKER COUNTRY,President,,Bob Barr,LBT,2
+Baker,14 DURKEE,President,,Bob Barr,LBT,0
+Baker,15 EAGLE VA,President,,Bob Barr,LBT,6
+Baker,17 HAINES,President,,Bob Barr,LBT,2
+Baker,18 HEREFORD,President,,Bob Barr,LBT,3
+Baker,19 HUNTINGTON,President,,Bob Barr,LBT,4
 Baker,20 IRONDYKE,President,,Bob Barr,LBT,2
-Baker,21  KEATING,President,,Bob Barr,LBT,0
-Baker,22  PINE VALLEY,President,,Bob Barr,LBT,1
-Baker,24  POCA-WING,President,,Bob Barr,LBT,7
+Baker,21 KEATING,President,,Bob Barr,LBT,0
+Baker,22 PINE VALLEY,President,,Bob Barr,LBT,1
+Baker,24 POCA-WING,President,,Bob Barr,LBT,7
 Baker,25 SUMPTER,President,,Bob Barr,LBT,2
-Baker,26  UNITY,President,,Bob Barr,LBT,0
+Baker,26 UNITY,President,,Bob Barr,LBT,0
 Baker,1 BAKER #1,President,,Chuck Baldwin,CON,4
 Baker,2 BAKER #2,President,,Chuck Baldwin,CON,13
 Baker,3 BAKER #3,President,,Chuck Baldwin,CON,3
 Baker,4 BAKER #4,President,,Chuck Baldwin,CON,6
-Baker,5  BAKER #5,President,,Chuck Baldwin,CON,5
-Baker,13  BAKER COUNTRY,President,,Chuck Baldwin,CON,4
-Baker,14  DURKEE,President,,Chuck Baldwin,CON,1
-Baker,15  EAGLE VA,President,,Chuck Baldwin,CON,2
-Baker,17  HAINES,President,,Chuck Baldwin,CON,4
-Baker,18  HEREFORD,President,,Chuck Baldwin,CON,1
-Baker,19  HUNTINGTON,President,,Chuck Baldwin,CON,6
+Baker,5 BAKER #5,President,,Chuck Baldwin,CON,5
+Baker,13 BAKER COUNTRY,President,,Chuck Baldwin,CON,4
+Baker,14 DURKEE,President,,Chuck Baldwin,CON,1
+Baker,15 EAGLE VA,President,,Chuck Baldwin,CON,2
+Baker,17 HAINES,President,,Chuck Baldwin,CON,4
+Baker,18 HEREFORD,President,,Chuck Baldwin,CON,1
+Baker,19 HUNTINGTON,President,,Chuck Baldwin,CON,6
 Baker,20 IRONDYKE,President,,Chuck Baldwin,CON,1
-Baker,21  KEATING,President,,Chuck Baldwin,CON,0
-Baker,22  PINE VALLEY,President,,Chuck Baldwin,CON,2
-Baker,24  POCA-WING,President,,Chuck Baldwin,CON,2
+Baker,21 KEATING,President,,Chuck Baldwin,CON,0
+Baker,22 PINE VALLEY,President,,Chuck Baldwin,CON,2
+Baker,24 POCA-WING,President,,Chuck Baldwin,CON,2
 Baker,25 SUMPTER,President,,Chuck Baldwin,CON,1
-Baker,26  UNITY,President,,Chuck Baldwin,CON,0
+Baker,26 UNITY,President,,Chuck Baldwin,CON,0
 Baker,1 BAKER #1,President,,Barack Obama,DEM,323
 Baker,2 BAKER #2,President,,Barack Obama,DEM,323
 Baker,3 BAKER #3,President,,Barack Obama,DEM,325
 Baker,4 BAKER #4,President,,Barack Obama,DEM,347
-Baker,5  BAKER #5,President,,Barack Obama,DEM,335
-Baker,13  BAKER COUNTRY,President,,Barack Obama,DEM,142
-Baker,14  DURKEE,President,,Barack Obama,DEM,8
-Baker,15  EAGLE VA,President,,Barack Obama,DEM,122
-Baker,17  HAINES,President,,Barack Obama,DEM,158
-Baker,18  HEREFORD,President,,Barack Obama,DEM,10
-Baker,19  HUNTINGTON,President,,Barack Obama,DEM,120
+Baker,5 BAKER #5,President,,Barack Obama,DEM,335
+Baker,13 BAKER COUNTRY,President,,Barack Obama,DEM,142
+Baker,14 DURKEE,President,,Barack Obama,DEM,8
+Baker,15 EAGLE VA,President,,Barack Obama,DEM,122
+Baker,17 HAINES,President,,Barack Obama,DEM,158
+Baker,18 HEREFORD,President,,Barack Obama,DEM,10
+Baker,19 HUNTINGTON,President,,Barack Obama,DEM,120
 Baker,20 IRONDYKE,President,,Barack Obama,DEM,18
-Baker,21  KEATING,President,,Barack Obama,DEM,23
-Baker,22  PINE VALLEY,President,,Barack Obama,DEM,231
-Baker,24  POCA-WING,President,,Barack Obama,DEM,219
+Baker,21 KEATING,President,,Barack Obama,DEM,23
+Baker,22 PINE VALLEY,President,,Barack Obama,DEM,231
+Baker,24 POCA-WING,President,,Barack Obama,DEM,219
 Baker,25 SUMPTER,President,,Barack Obama,DEM,79
-Baker,26  UNITY,President,,Barack Obama,DEM,22
+Baker,26 UNITY,President,,Barack Obama,DEM,22
 Baker,1 BAKER #1,President,,Write-ins,,9
 Baker,2 BAKER #2,President,,Write-ins,,7
 Baker,3 BAKER #3,President,,Write-ins,,9
 Baker,4 BAKER #4,President,,Write-ins,,8
-Baker,5  BAKER #5,President,,Write-ins,,16
-Baker,13  BAKER COUNTRY,President,,Write-ins,,8
-Baker,14  DURKEE,President,,Write-ins,,1
-Baker,15  EAGLE VA,President,,Write-ins,,6
-Baker,17  HAINES,President,,Write-ins,,4
-Baker,18  HEREFORD,President,,Write-ins,,0
-Baker,19  HUNTINGTON,President,,Write-ins,,5
+Baker,5 BAKER #5,President,,Write-ins,,16
+Baker,13 BAKER COUNTRY,President,,Write-ins,,8
+Baker,14 DURKEE,President,,Write-ins,,1
+Baker,15 EAGLE VA,President,,Write-ins,,6
+Baker,17 HAINES,President,,Write-ins,,4
+Baker,18 HEREFORD,President,,Write-ins,,0
+Baker,19 HUNTINGTON,President,,Write-ins,,5
 Baker,20 IRONDYKE,President,,Write-ins,,0
-Baker,21  KEATING,President,,Write-ins,,0
-Baker,22  PINE VALLEY,President,,Write-ins,,7
-Baker,24  POCA-WING,President,,Write-ins,,4
+Baker,21 KEATING,President,,Write-ins,,0
+Baker,22 PINE VALLEY,President,,Write-ins,,7
+Baker,24 POCA-WING,President,,Write-ins,,4
 Baker,25 SUMPTER,President,,Write-ins,,3
-Baker,26  UNITY,President,,Write-ins,,0
+Baker,26 UNITY,President,,Write-ins,,0
 Baker,1 BAKER #1,President,,Over Votes,,2
 Baker,2 BAKER #2,President,,Over Votes,,0
 Baker,3 BAKER #3,President,,Over Votes,,0
 Baker,4 BAKER #4,President,,Over Votes,,0
-Baker,5  BAKER #5,President,,Over Votes,,3
-Baker,13  BAKER COUNTRY,President,,Over Votes,,0
-Baker,14  DURKEE,President,,Over Votes,,0
-Baker,15  EAGLE VA,President,,Over Votes,,0
-Baker,17  HAINES,President,,Over Votes,,0
-Baker,18  HEREFORD,President,,Over Votes,,0
-Baker,19  HUNTINGTON,President,,Over Votes,,1
+Baker,5 BAKER #5,President,,Over Votes,,3
+Baker,13 BAKER COUNTRY,President,,Over Votes,,0
+Baker,14 DURKEE,President,,Over Votes,,0
+Baker,15 EAGLE VA,President,,Over Votes,,0
+Baker,17 HAINES,President,,Over Votes,,0
+Baker,18 HEREFORD,President,,Over Votes,,0
+Baker,19 HUNTINGTON,President,,Over Votes,,1
 Baker,20 IRONDYKE,President,,Over Votes,,0
-Baker,21  KEATING,President,,Over Votes,,0
-Baker,22  PINE VALLEY,President,,Over Votes,,0
-Baker,24  POCA-WING,President,,Over Votes,,1
+Baker,21 KEATING,President,,Over Votes,,0
+Baker,22 PINE VALLEY,President,,Over Votes,,0
+Baker,24 POCA-WING,President,,Over Votes,,1
 Baker,25 SUMPTER,President,,Over Votes,,0
-Baker,26  UNITY,President,,Over Votes,,0
+Baker,26 UNITY,President,,Over Votes,,0
 Baker,1 BAKER #1,President,,Under Votes,,13
 Baker,2 BAKER #2,President,,Under Votes,,9
 Baker,3 BAKER #3,President,,Under Votes,,8
 Baker,4 BAKER #4,President,,Under Votes,,3
-Baker,5  BAKER #5,President,,Under Votes,,13
-Baker,13  BAKER COUNTRY,President,,Under Votes,,7
-Baker,14  DURKEE,President,,Under Votes,,0
-Baker,15  EAGLE VA,President,,Under Votes,,7
-Baker,17  HAINES,President,,Under Votes,,0
-Baker,18  HEREFORD,President,,Under Votes,,0
-Baker,19  HUNTINGTON,President,,Under Votes,,7
+Baker,5 BAKER #5,President,,Under Votes,,13
+Baker,13 BAKER COUNTRY,President,,Under Votes,,7
+Baker,14 DURKEE,President,,Under Votes,,0
+Baker,15 EAGLE VA,President,,Under Votes,,7
+Baker,17 HAINES,President,,Under Votes,,0
+Baker,18 HEREFORD,President,,Under Votes,,0
+Baker,19 HUNTINGTON,President,,Under Votes,,7
 Baker,20 IRONDYKE,President,,Under Votes,,2
-Baker,21  KEATING,President,,Under Votes,,1
-Baker,22  PINE VALLEY,President,,Under Votes,,9
-Baker,24  POCA-WING,President,,Under Votes,,4
+Baker,21 KEATING,President,,Under Votes,,1
+Baker,22 PINE VALLEY,President,,Under Votes,,9
+Baker,24 POCA-WING,President,,Under Votes,,4
 Baker,25 SUMPTER,President,,Under Votes,,2
-Baker,26  UNITY,President,,Under Votes,,0
+Baker,26 UNITY,President,,Under Votes,,0
 Baker,1 BAKER #1,U.S. Senate,,Gordon H. Smith,REP,555
 Baker,2 BAKER #2,U.S. Senate,,Gordon H. Smith,REP,518
 Baker,3 BAKER #3,U.S. Senate,,Gordon H. Smith,REP,556
 Baker,4 BAKER #4,U.S. Senate,,Gordon H. Smith,REP,677
-Baker,5  BAKER #5,U.S. Senate,,Gordon H. Smith,REP,687
-Baker,13  BAKER COUNTRY,U.S. Senate,,Gordon H. Smith,REP,473
-Baker,14  DURKEE,U.S. Senate,,Gordon H. Smith,REP,69
-Baker,15  EAGLE VA,U.S. Senate,,Gordon H. Smith,REP,271
-Baker,17  HAINES,U.S. Senate,,Gordon H. Smith,REP,422
-Baker,18  HEREFORD,U.S. Senate,,Gordon H. Smith,REP,73
-Baker,19  HUNTINGTON,U.S. Senate,,Gordon H. Smith,REP,122
+Baker,5 BAKER #5,U.S. Senate,,Gordon H. Smith,REP,687
+Baker,13 BAKER COUNTRY,U.S. Senate,,Gordon H. Smith,REP,473
+Baker,14 DURKEE,U.S. Senate,,Gordon H. Smith,REP,69
+Baker,15 EAGLE VA,U.S. Senate,,Gordon H. Smith,REP,271
+Baker,17 HAINES,U.S. Senate,,Gordon H. Smith,REP,422
+Baker,18 HEREFORD,U.S. Senate,,Gordon H. Smith,REP,73
+Baker,19 HUNTINGTON,U.S. Senate,,Gordon H. Smith,REP,122
 Baker,20 IRONDYKE,U.S. Senate,,Gordon H. Smith,REP,33
-Baker,21  KEATING,U.S. Senate,,Gordon H. Smith,REP,138
-Baker,22  PINE VALLEY,U.S. Senate,,Gordon H. Smith,REP,334
-Baker,24  POCA-WING,U.S. Senate,,Gordon H. Smith,REP,516
+Baker,21 KEATING,U.S. Senate,,Gordon H. Smith,REP,138
+Baker,22 PINE VALLEY,U.S. Senate,,Gordon H. Smith,REP,334
+Baker,24 POCA-WING,U.S. Senate,,Gordon H. Smith,REP,516
 Baker,25 SUMPTER,U.S. Senate,,Gordon H. Smith,REP,145
-Baker,26  UNITY,U.S. Senate,,Gordon H. Smith,REP,73
+Baker,26 UNITY,U.S. Senate,,Gordon H. Smith,REP,73
 Baker,1 BAKER #1,U.S. Senate,,Jeff Merkley,DEM,255
 Baker,2 BAKER #2,U.S. Senate,,Jeff Merkley,DEM,250
 Baker,3 BAKER #3,U.S. Senate,,Jeff Merkley,DEM,271
 Baker,4 BAKER #4,U.S. Senate,,Jeff Merkley,DEM,255
-Baker,5  BAKER #5,U.S. Senate,,Jeff Merkley,DEM,253
-Baker,13  BAKER COUNTRY,U.S. Senate,,Jeff Merkley,DEM,108
-Baker,14  DURKEE,U.S. Senate,,Jeff Merkley,DEM,12
-Baker,15  EAGLE VA,U.S. Senate,,Jeff Merkley,DEM,104
-Baker,17  HAINES,U.S. Senate,,Jeff Merkley,DEM,107
-Baker,18  HEREFORD,U.S. Senate,,Jeff Merkley,DEM,11
-Baker,19  HUNTINGTON,U.S. Senate,,Jeff Merkley,DEM,102
+Baker,5 BAKER #5,U.S. Senate,,Jeff Merkley,DEM,253
+Baker,13 BAKER COUNTRY,U.S. Senate,,Jeff Merkley,DEM,108
+Baker,14 DURKEE,U.S. Senate,,Jeff Merkley,DEM,12
+Baker,15 EAGLE VA,U.S. Senate,,Jeff Merkley,DEM,104
+Baker,17 HAINES,U.S. Senate,,Jeff Merkley,DEM,107
+Baker,18 HEREFORD,U.S. Senate,,Jeff Merkley,DEM,11
+Baker,19 HUNTINGTON,U.S. Senate,,Jeff Merkley,DEM,102
 Baker,20 IRONDYKE,U.S. Senate,,Jeff Merkley,DEM,14
-Baker,21  KEATING,U.S. Senate,,Jeff Merkley,DEM,13
-Baker,22  PINE VALLEY,U.S. Senate,,Jeff Merkley,DEM,205
-Baker,24  POCA-WING,U.S. Senate,,Jeff Merkley,DEM,152
+Baker,21 KEATING,U.S. Senate,,Jeff Merkley,DEM,13
+Baker,22 PINE VALLEY,U.S. Senate,,Jeff Merkley,DEM,205
+Baker,24 POCA-WING,U.S. Senate,,Jeff Merkley,DEM,152
 Baker,25 SUMPTER,U.S. Senate,,Jeff Merkley,DEM,76
-Baker,26  UNITY,U.S. Senate,,Jeff Merkley,DEM,15
+Baker,26 UNITY,U.S. Senate,,Jeff Merkley,DEM,15
 Baker,1 BAKER #1,U.S. Senate,,Dave Brownlow,CON,68
 Baker,2 BAKER #2,U.S. Senate,,Dave Brownlow,CON,83
 Baker,3 BAKER #3,U.S. Senate,,Dave Brownlow,CON,80
 Baker,4 BAKER #4,U.S. Senate,,Dave Brownlow,CON,89
-Baker,5  BAKER #5,U.S. Senate,,Dave Brownlow,CON,77
-Baker,13  BAKER COUNTRY,U.S. Senate,,Dave Brownlow,CON,45
-Baker,14  DURKEE,U.S. Senate,,Dave Brownlow,CON,9
-Baker,15  EAGLE VA,U.S. Senate,,Dave Brownlow,CON,30
-Baker,17  HAINES,U.S. Senate,,Dave Brownlow,CON,28
-Baker,18  HEREFORD,U.S. Senate,,Dave Brownlow,CON,11
-Baker,19  HUNTINGTON,U.S. Senate,,Dave Brownlow,CON,26
+Baker,5 BAKER #5,U.S. Senate,,Dave Brownlow,CON,77
+Baker,13 BAKER COUNTRY,U.S. Senate,,Dave Brownlow,CON,45
+Baker,14 DURKEE,U.S. Senate,,Dave Brownlow,CON,9
+Baker,15 EAGLE VA,U.S. Senate,,Dave Brownlow,CON,30
+Baker,17 HAINES,U.S. Senate,,Dave Brownlow,CON,28
+Baker,18 HEREFORD,U.S. Senate,,Dave Brownlow,CON,11
+Baker,19 HUNTINGTON,U.S. Senate,,Dave Brownlow,CON,26
 Baker,20 IRONDYKE,U.S. Senate,,Dave Brownlow,CON,9
-Baker,21  KEATING,U.S. Senate,,Dave Brownlow,CON,2
-Baker,22  PINE VALLEY,U.S. Senate,,Dave Brownlow,CON,39
-Baker,24  POCA-WING,U.S. Senate,,Dave Brownlow,CON,31
+Baker,21 KEATING,U.S. Senate,,Dave Brownlow,CON,2
+Baker,22 PINE VALLEY,U.S. Senate,,Dave Brownlow,CON,39
+Baker,24 POCA-WING,U.S. Senate,,Dave Brownlow,CON,31
 Baker,25 SUMPTER,U.S. Senate,,Dave Brownlow,CON,24
-Baker,26  UNITY,U.S. Senate,,Dave Brownlow,CON,1
+Baker,26 UNITY,U.S. Senate,,Dave Brownlow,CON,1
 Baker,1 BAKER #1,U.S. Senate,,Write-ins,,1
 Baker,2 BAKER #2,U.S. Senate,,Write-ins,,2
 Baker,3 BAKER #3,U.S. Senate,,Write-ins,,1
 Baker,4 BAKER #4,U.S. Senate,,Write-ins,,3
-Baker,5  BAKER #5,U.S. Senate,,Write-ins,,1
-Baker,13  BAKER COUNTRY,U.S. Senate,,Write-ins,,1
-Baker,14  DURKEE,U.S. Senate,,Write-ins,,0
-Baker,15  EAGLE VA,U.S. Senate,,Write-ins,,0
-Baker,17  HAINES,U.S. Senate,,Write-ins,,1
-Baker,18  HEREFORD,U.S. Senate,,Write-ins,,0
-Baker,19  HUNTINGTON,U.S. Senate,,Write-ins,,1
+Baker,5 BAKER #5,U.S. Senate,,Write-ins,,1
+Baker,13 BAKER COUNTRY,U.S. Senate,,Write-ins,,1
+Baker,14 DURKEE,U.S. Senate,,Write-ins,,0
+Baker,15 EAGLE VA,U.S. Senate,,Write-ins,,0
+Baker,17 HAINES,U.S. Senate,,Write-ins,,1
+Baker,18 HEREFORD,U.S. Senate,,Write-ins,,0
+Baker,19 HUNTINGTON,U.S. Senate,,Write-ins,,1
 Baker,20 IRONDYKE,U.S. Senate,,Write-ins,,0
-Baker,21  KEATING,U.S. Senate,,Write-ins,,0
-Baker,22  PINE VALLEY,U.S. Senate,,Write-ins,,1
-Baker,24  POCA-WING,U.S. Senate,,Write-ins,,2
+Baker,21 KEATING,U.S. Senate,,Write-ins,,0
+Baker,22 PINE VALLEY,U.S. Senate,,Write-ins,,1
+Baker,24 POCA-WING,U.S. Senate,,Write-ins,,2
 Baker,25 SUMPTER,U.S. Senate,,Write-ins,,0
-Baker,26  UNITY,U.S. Senate,,Write-ins,,0
+Baker,26 UNITY,U.S. Senate,,Write-ins,,0
 Baker,1 BAKER #1,U.S. Senate,,Over Votes,,0
 Baker,2 BAKER #2,U.S. Senate,,Over Votes,,0
 Baker,3 BAKER #3,U.S. Senate,,Over Votes,,0
 Baker,4 BAKER #4,U.S. Senate,,Over Votes,,0
-Baker,5  BAKER #5,U.S. Senate,,Over Votes,,0
-Baker,13  BAKER COUNTRY,U.S. Senate,,Over Votes,,0
-Baker,14  DURKEE,U.S. Senate,,Over Votes,,0
-Baker,15  EAGLE VA,U.S. Senate,,Over Votes,,0
-Baker,17  HAINES,U.S. Senate,,Over Votes,,0
-Baker,18  HEREFORD,U.S. Senate,,Over Votes,,0
-Baker,19  HUNTINGTON,U.S. Senate,,Over Votes,,0
+Baker,5 BAKER #5,U.S. Senate,,Over Votes,,0
+Baker,13 BAKER COUNTRY,U.S. Senate,,Over Votes,,0
+Baker,14 DURKEE,U.S. Senate,,Over Votes,,0
+Baker,15 EAGLE VA,U.S. Senate,,Over Votes,,0
+Baker,17 HAINES,U.S. Senate,,Over Votes,,0
+Baker,18 HEREFORD,U.S. Senate,,Over Votes,,0
+Baker,19 HUNTINGTON,U.S. Senate,,Over Votes,,0
 Baker,20 IRONDYKE,U.S. Senate,,Over Votes,,0
-Baker,21  KEATING,U.S. Senate,,Over Votes,,0
-Baker,22  PINE VALLEY,U.S. Senate,,Over Votes,,0
-Baker,24  POCA-WING,U.S. Senate,,Over Votes,,1
+Baker,21 KEATING,U.S. Senate,,Over Votes,,0
+Baker,22 PINE VALLEY,U.S. Senate,,Over Votes,,0
+Baker,24 POCA-WING,U.S. Senate,,Over Votes,,1
 Baker,25 SUMPTER,U.S. Senate,,Over Votes,,0
-Baker,26  UNITY,U.S. Senate,,Over Votes,,0
+Baker,26 UNITY,U.S. Senate,,Over Votes,,0
 Baker,1 BAKER #1,U.S. Senate,,Under Votes,,33
 Baker,2 BAKER #2,U.S. Senate,,Under Votes,,25
 Baker,3 BAKER #3,U.S. Senate,,Under Votes,,34
 Baker,4 BAKER #4,U.S. Senate,,Under Votes,,33
-Baker,5  BAKER #5,U.S. Senate,,Under Votes,,56
-Baker,13  BAKER COUNTRY,U.S. Senate,,Under Votes,,33
-Baker,14  DURKEE,U.S. Senate,,Under Votes,,3
-Baker,15  EAGLE VA,U.S. Senate,,Under Votes,,16
-Baker,17  HAINES,U.S. Senate,,Under Votes,,21
-Baker,18  HEREFORD,U.S. Senate,,Under Votes,,3
-Baker,19  HUNTINGTON,U.S. Senate,,Under Votes,,15
+Baker,5 BAKER #5,U.S. Senate,,Under Votes,,56
+Baker,13 BAKER COUNTRY,U.S. Senate,,Under Votes,,33
+Baker,14 DURKEE,U.S. Senate,,Under Votes,,3
+Baker,15 EAGLE VA,U.S. Senate,,Under Votes,,16
+Baker,17 HAINES,U.S. Senate,,Under Votes,,21
+Baker,18 HEREFORD,U.S. Senate,,Under Votes,,3
+Baker,19 HUNTINGTON,U.S. Senate,,Under Votes,,15
 Baker,20 IRONDYKE,U.S. Senate,,Under Votes,,1
-Baker,21  KEATING,U.S. Senate,,Under Votes,,3
-Baker,22  PINE VALLEY,U.S. Senate,,Under Votes,,30
-Baker,24  POCA-WING,U.S. Senate,,Under Votes,,20
+Baker,21 KEATING,U.S. Senate,,Under Votes,,3
+Baker,22 PINE VALLEY,U.S. Senate,,Under Votes,,30
+Baker,24 POCA-WING,U.S. Senate,,Under Votes,,20
 Baker,25 SUMPTER,U.S. Senate,,Under Votes,,6
-Baker,26  UNITY,U.S. Senate,,Under Votes,,5
+Baker,26 UNITY,U.S. Senate,,Under Votes,,5
 Baker,1 BAKER #1,Secretary of State,,Kate Brown,DEM,319
 Baker,2 BAKER #2,Secretary of State,,Kate Brown,DEM,310
 Baker,3 BAKER #3,Secretary of State,,Kate Brown,DEM,337
 Baker,4 BAKER #4,Secretary of State,,Kate Brown,DEM,310
-Baker,5  BAKER #5,Secretary of State,,Kate Brown,DEM,343
-Baker,13  BAKER COUNTRY,Secretary of State,,Kate Brown,DEM,141
-Baker,14  DURKEE,Secretary of State,,Kate Brown,DEM,9
-Baker,15  EAGLE VA,Secretary of State,,Kate Brown,DEM,128
-Baker,17  HAINES,Secretary of State,,Kate Brown,DEM,143
-Baker,18  HEREFORD,Secretary of State,,Kate Brown,DEM,15
-Baker,19  HUNTINGTON,Secretary of State,,Kate Brown,DEM,121
+Baker,5 BAKER #5,Secretary of State,,Kate Brown,DEM,343
+Baker,13 BAKER COUNTRY,Secretary of State,,Kate Brown,DEM,141
+Baker,14 DURKEE,Secretary of State,,Kate Brown,DEM,9
+Baker,15 EAGLE VA,Secretary of State,,Kate Brown,DEM,128
+Baker,17 HAINES,Secretary of State,,Kate Brown,DEM,143
+Baker,18 HEREFORD,Secretary of State,,Kate Brown,DEM,15
+Baker,19 HUNTINGTON,Secretary of State,,Kate Brown,DEM,121
 Baker,20 IRONDYKE,Secretary of State,,Kate Brown,DEM,17
-Baker,21  KEATING,Secretary of State,,Kate Brown,DEM,23
-Baker,22  PINE VALLEY,Secretary of State,,Kate Brown,DEM,230
-Baker,24  POCA-WING,Secretary of State,,Kate Brown,DEM,203
+Baker,21 KEATING,Secretary of State,,Kate Brown,DEM,23
+Baker,22 PINE VALLEY,Secretary of State,,Kate Brown,DEM,230
+Baker,24 POCA-WING,Secretary of State,,Kate Brown,DEM,203
 Baker,25 SUMPTER,Secretary of State,,Kate Brown,DEM,69
-Baker,26  UNITY,Secretary of State,,Kate Brown,DEM,15
+Baker,26 UNITY,Secretary of State,,Kate Brown,DEM,15
 Baker,1 BAKER #1,Secretary of State,,Seth Alan Woolley,PAC,20
 Baker,2 BAKER #2,Secretary of State,,Seth Alan Woolley,PAC,24
 Baker,3 BAKER #3,Secretary of State,,Seth Alan Woolley,PAC,31
 Baker,4 BAKER #4,Secretary of State,,Seth Alan Woolley,PAC,30
-Baker,5  BAKER #5,Secretary of State,,Seth Alan Woolley,PAC,11
-Baker,13  BAKER COUNTRY,Secretary of State,,Seth Alan Woolley,PAC,4
-Baker,14  DURKEE,Secretary of State,,Seth Alan Woolley,PAC,2
-Baker,15  EAGLE VA,Secretary of State,,Seth Alan Woolley,PAC,10
-Baker,17  HAINES,Secretary of State,,Seth Alan Woolley,PAC,11
-Baker,18  HEREFORD,Secretary of State,,Seth Alan Woolley,PAC,1
-Baker,19  HUNTINGTON,Secretary of State,,Seth Alan Woolley,PAC,7
+Baker,5 BAKER #5,Secretary of State,,Seth Alan Woolley,PAC,11
+Baker,13 BAKER COUNTRY,Secretary of State,,Seth Alan Woolley,PAC,4
+Baker,14 DURKEE,Secretary of State,,Seth Alan Woolley,PAC,2
+Baker,15 EAGLE VA,Secretary of State,,Seth Alan Woolley,PAC,10
+Baker,17 HAINES,Secretary of State,,Seth Alan Woolley,PAC,11
+Baker,18 HEREFORD,Secretary of State,,Seth Alan Woolley,PAC,1
+Baker,19 HUNTINGTON,Secretary of State,,Seth Alan Woolley,PAC,7
 Baker,20 IRONDYKE,Secretary of State,,Seth Alan Woolley,PAC,4
-Baker,21  KEATING,Secretary of State,,Seth Alan Woolley,PAC,2
-Baker,22  PINE VALLEY,Secretary of State,,Seth Alan Woolley,PAC,14
-Baker,24  POCA-WING,Secretary of State,,Seth Alan Woolley,PAC,11
+Baker,21 KEATING,Secretary of State,,Seth Alan Woolley,PAC,2
+Baker,22 PINE VALLEY,Secretary of State,,Seth Alan Woolley,PAC,14
+Baker,24 POCA-WING,Secretary of State,,Seth Alan Woolley,PAC,11
 Baker,25 SUMPTER,Secretary of State,,Seth Alan Woolley,PAC,2
-Baker,26  UNITY,Secretary of State,,Seth Alan Woolley,PAC,0
+Baker,26 UNITY,Secretary of State,,Seth Alan Woolley,PAC,0
 Baker,1 BAKER #1,Secretary of State,,Rick Dancer,REP,506
 Baker,2 BAKER #2,Secretary of State,,Rick Dancer,REP,493
 Baker,3 BAKER #3,Secretary of State,,Rick Dancer,REP,522
 Baker,4 BAKER #4,Secretary of State,,Rick Dancer,REP,644
-Baker,5  BAKER #5,Secretary of State,,Rick Dancer,REP,624
-Baker,13  BAKER COUNTRY,Secretary of State,,Rick Dancer,REP,455
-Baker,14  DURKEE,Secretary of State,,Rick Dancer,REP,73
-Baker,15  EAGLE VA,Secretary of State,,Rick Dancer,REP,247
-Baker,17  HAINES,Secretary of State,,Rick Dancer,REP,391
-Baker,18  HEREFORD,Secretary of State,,Rick Dancer,REP,77
-Baker,19  HUNTINGTON,Secretary of State,,Rick Dancer,REP,112
+Baker,5 BAKER #5,Secretary of State,,Rick Dancer,REP,624
+Baker,13 BAKER COUNTRY,Secretary of State,,Rick Dancer,REP,455
+Baker,14 DURKEE,Secretary of State,,Rick Dancer,REP,73
+Baker,15 EAGLE VA,Secretary of State,,Rick Dancer,REP,247
+Baker,17 HAINES,Secretary of State,,Rick Dancer,REP,391
+Baker,18 HEREFORD,Secretary of State,,Rick Dancer,REP,77
+Baker,19 HUNTINGTON,Secretary of State,,Rick Dancer,REP,112
 Baker,20 IRONDYKE,Secretary of State,,Rick Dancer,REP,35
-Baker,21  KEATING,Secretary of State,,Rick Dancer,REP,122
-Baker,22  PINE VALLEY,Secretary of State,,Rick Dancer,REP,312
-Baker,24  POCA-WING,Secretary of State,,Rick Dancer,REP,469
+Baker,21 KEATING,Secretary of State,,Rick Dancer,REP,122
+Baker,22 PINE VALLEY,Secretary of State,,Rick Dancer,REP,312
+Baker,24 POCA-WING,Secretary of State,,Rick Dancer,REP,469
 Baker,25 SUMPTER,Secretary of State,,Rick Dancer,REP,164
-Baker,26  UNITY,Secretary of State,,Rick Dancer,REP,71
+Baker,26 UNITY,Secretary of State,,Rick Dancer,REP,71
 Baker,1 BAKER #1,Secretary of State,,Write-ins,,2
 Baker,2 BAKER #2,Secretary of State,,Write-ins,,3
 Baker,3 BAKER #3,Secretary of State,,Write-ins,,1
 Baker,4 BAKER #4,Secretary of State,,Write-ins,,1
-Baker,5  BAKER #5,Secretary of State,,Write-ins,,2
-Baker,13  BAKER COUNTRY,Secretary of State,,Write-ins,,0
-Baker,14  DURKEE,Secretary of State,,Write-ins,,1
-Baker,15  EAGLE VA,Secretary of State,,Write-ins,,1
-Baker,17  HAINES,Secretary of State,,Write-ins,,0
-Baker,18  HEREFORD,Secretary of State,,Write-ins,,0
-Baker,19  HUNTINGTON,Secretary of State,,Write-ins,,1
+Baker,5 BAKER #5,Secretary of State,,Write-ins,,2
+Baker,13 BAKER COUNTRY,Secretary of State,,Write-ins,,0
+Baker,14 DURKEE,Secretary of State,,Write-ins,,1
+Baker,15 EAGLE VA,Secretary of State,,Write-ins,,1
+Baker,17 HAINES,Secretary of State,,Write-ins,,0
+Baker,18 HEREFORD,Secretary of State,,Write-ins,,0
+Baker,19 HUNTINGTON,Secretary of State,,Write-ins,,1
 Baker,20 IRONDYKE,Secretary of State,,Write-ins,,0
-Baker,21  KEATING,Secretary of State,,Write-ins,,0
-Baker,22  PINE VALLEY,Secretary of State,,Write-ins,,0
-Baker,24  POCA-WING,Secretary of State,,Write-ins,,0
+Baker,21 KEATING,Secretary of State,,Write-ins,,0
+Baker,22 PINE VALLEY,Secretary of State,,Write-ins,,0
+Baker,24 POCA-WING,Secretary of State,,Write-ins,,0
 Baker,25 SUMPTER,Secretary of State,,Write-ins,,0
-Baker,26  UNITY,Secretary of State,,Write-ins,,0
+Baker,26 UNITY,Secretary of State,,Write-ins,,0
 Baker,1 BAKER #1,Secretary of State,,Over Votes,,0
 Baker,2 BAKER #2,Secretary of State,,Over Votes,,0
 Baker,3 BAKER #3,Secretary of State,,Over Votes,,0
 Baker,4 BAKER #4,Secretary of State,,Over Votes,,0
-Baker,5  BAKER #5,Secretary of State,,Over Votes,,0
-Baker,13  BAKER COUNTRY,Secretary of State,,Over Votes,,1
-Baker,14  DURKEE,Secretary of State,,Over Votes,,0
-Baker,15  EAGLE VA,Secretary of State,,Over Votes,,0
-Baker,17  HAINES,Secretary of State,,Over Votes,,0
-Baker,18  HEREFORD,Secretary of State,,Over Votes,,1
-Baker,19  HUNTINGTON,Secretary of State,,Over Votes,,0
+Baker,5 BAKER #5,Secretary of State,,Over Votes,,0
+Baker,13 BAKER COUNTRY,Secretary of State,,Over Votes,,1
+Baker,14 DURKEE,Secretary of State,,Over Votes,,0
+Baker,15 EAGLE VA,Secretary of State,,Over Votes,,0
+Baker,17 HAINES,Secretary of State,,Over Votes,,0
+Baker,18 HEREFORD,Secretary of State,,Over Votes,,1
+Baker,19 HUNTINGTON,Secretary of State,,Over Votes,,0
 Baker,20 IRONDYKE,Secretary of State,,Over Votes,,0
-Baker,21  KEATING,Secretary of State,,Over Votes,,0
-Baker,22  PINE VALLEY,Secretary of State,,Over Votes,,0
-Baker,24  POCA-WING,Secretary of State,,Over Votes,,0
+Baker,21 KEATING,Secretary of State,,Over Votes,,0
+Baker,22 PINE VALLEY,Secretary of State,,Over Votes,,0
+Baker,24 POCA-WING,Secretary of State,,Over Votes,,0
 Baker,25 SUMPTER,Secretary of State,,Over Votes,,0
-Baker,26  UNITY,Secretary of State,,Over Votes,,0
+Baker,26 UNITY,Secretary of State,,Over Votes,,0
 Baker,1 BAKER #1,Secretary of State,,Under Votes,,65
 Baker,2 BAKER #2,Secretary of State,,Under Votes,,48
 Baker,3 BAKER #3,Secretary of State,,Under Votes,,51
 Baker,4 BAKER #4,Secretary of State,,Under Votes,,72
-Baker,5  BAKER #5,Secretary of State,,Under Votes,,94
-Baker,13  BAKER COUNTRY,Secretary of State,,Under Votes,,59
-Baker,14  DURKEE,Secretary of State,,Under Votes,,8
-Baker,15  EAGLE VA,Secretary of State,,Under Votes,,35
-Baker,17  HAINES,Secretary of State,,Under Votes,,34
-Baker,18  HEREFORD,Secretary of State,,Under Votes,,4
-Baker,19  HUNTINGTON,Secretary of State,,Under Votes,,25
+Baker,5 BAKER #5,Secretary of State,,Under Votes,,94
+Baker,13 BAKER COUNTRY,Secretary of State,,Under Votes,,59
+Baker,14 DURKEE,Secretary of State,,Under Votes,,8
+Baker,15 EAGLE VA,Secretary of State,,Under Votes,,35
+Baker,17 HAINES,Secretary of State,,Under Votes,,34
+Baker,18 HEREFORD,Secretary of State,,Under Votes,,4
+Baker,19 HUNTINGTON,Secretary of State,,Under Votes,,25
 Baker,20 IRONDYKE,Secretary of State,,Under Votes,,1
-Baker,21  KEATING,Secretary of State,,Under Votes,,9
-Baker,22  PINE VALLEY,Secretary of State,,Under Votes,,53
-Baker,24  POCA-WING,Secretary of State,,Under Votes,,39
+Baker,21 KEATING,Secretary of State,,Under Votes,,9
+Baker,22 PINE VALLEY,Secretary of State,,Under Votes,,53
+Baker,24 POCA-WING,Secretary of State,,Under Votes,,39
 Baker,25 SUMPTER,Secretary of State,,Under Votes,,16
-Baker,26  UNITY,Secretary of State,,Under Votes,,8
+Baker,26 UNITY,Secretary of State,,Under Votes,,8
 Baker,1 BAKER #1,State Senate,30,Ted Ferrioll,REP,660
 Baker,2 BAKER #2,State Senate,30,Ted Ferrioll,REP,617
 Baker,3 BAKER #3,State Senate,30,Ted Ferrioll,REP,663
 Baker,4 BAKER #4,State Senate,30,Ted Ferrioll,REP,778
-Baker,5  BAKER #5,State Senate,30,Ted Ferrioll,REP,771
-Baker,13  BAKER COUNTRY,State Senate,30,Ted Ferrioll,REP,514
-Baker,14  DURKEE,State Senate,30,Ted Ferrioll,REP,72
-Baker,15  EAGLE VA,State Senate,30,Ted Ferrioll,REP,316
-Baker,17  HAINES,State Senate,30,Ted Ferrioll,REP,444
-Baker,18  HEREFORD,State Senate,30,Ted Ferrioll,REP,80
-Baker,19  HUNTINGTON,State Senate,30,Ted Ferrioll,REP,155
+Baker,5 BAKER #5,State Senate,30,Ted Ferrioll,REP,771
+Baker,13 BAKER COUNTRY,State Senate,30,Ted Ferrioll,REP,514
+Baker,14 DURKEE,State Senate,30,Ted Ferrioll,REP,72
+Baker,15 EAGLE VA,State Senate,30,Ted Ferrioll,REP,316
+Baker,17 HAINES,State Senate,30,Ted Ferrioll,REP,444
+Baker,18 HEREFORD,State Senate,30,Ted Ferrioll,REP,80
+Baker,19 HUNTINGTON,State Senate,30,Ted Ferrioll,REP,155
 Baker,20 IRONDYKE,State Senate,30,Ted Ferrioll,REP,39
-Baker,21  KEATING,State Senate,30,Ted Ferrioll,REP,135
-Baker,22  PINE VALLEY,State Senate,30,Ted Ferrioll,REP,401
-Baker,24  POCA-WING,State Senate,30,Ted Ferrioll,REP,555
+Baker,21 KEATING,State Senate,30,Ted Ferrioll,REP,135
+Baker,22 PINE VALLEY,State Senate,30,Ted Ferrioll,REP,401
+Baker,24 POCA-WING,State Senate,30,Ted Ferrioll,REP,555
 Baker,25 SUMPTER,State Senate,30,Ted Ferrioll,REP,173
-Baker,26  UNITY,State Senate,30,Ted Ferrioll,REP,79
+Baker,26 UNITY,State Senate,30,Ted Ferrioll,REP,79
 Baker,1 BAKER #1,State Senate,30,Write-ins,,11
 Baker,2 BAKER #2,State Senate,30,Write-ins,,17
 Baker,3 BAKER #3,State Senate,30,Write-ins,,13
 Baker,4 BAKER #4,State Senate,30,Write-ins,,19
-Baker,5  BAKER #5,State Senate,30,Write-ins,,16
-Baker,13  BAKER COUNTRY,State Senate,30,Write-ins,,8
-Baker,14  DURKEE,State Senate,30,Write-ins,,3
-Baker,15  EAGLE VA,State Senate,30,Write-ins,,1
-Baker,17  HAINES,State Senate,30,Write-ins,,7
-Baker,18  HEREFORD,State Senate,30,Write-ins,,0
-Baker,19  HUNTINGTON,State Senate,30,Write-ins,,5
+Baker,5 BAKER #5,State Senate,30,Write-ins,,16
+Baker,13 BAKER COUNTRY,State Senate,30,Write-ins,,8
+Baker,14 DURKEE,State Senate,30,Write-ins,,3
+Baker,15 EAGLE VA,State Senate,30,Write-ins,,1
+Baker,17 HAINES,State Senate,30,Write-ins,,7
+Baker,18 HEREFORD,State Senate,30,Write-ins,,0
+Baker,19 HUNTINGTON,State Senate,30,Write-ins,,5
 Baker,20 IRONDYKE,State Senate,30,Write-ins,,2
-Baker,21  KEATING,State Senate,30,Write-ins,,0
-Baker,22  PINE VALLEY,State Senate,30,Write-ins,,7
-Baker,24  POCA-WING,State Senate,30,Write-ins,,14
+Baker,21 KEATING,State Senate,30,Write-ins,,0
+Baker,22 PINE VALLEY,State Senate,30,Write-ins,,7
+Baker,24 POCA-WING,State Senate,30,Write-ins,,14
 Baker,25 SUMPTER,State Senate,30,Write-ins,,4
-Baker,26  UNITY,State Senate,30,Write-ins,,0
+Baker,26 UNITY,State Senate,30,Write-ins,,0
 Baker,1 BAKER #1,State Senate,30,Over Votes,,0
 Baker,2 BAKER #2,State Senate,30,Over Votes,,0
 Baker,3 BAKER #3,State Senate,30,Over Votes,,0
 Baker,4 BAKER #4,State Senate,30,Over Votes,,0
-Baker,5  BAKER #5,State Senate,30,Over Votes,,0
-Baker,13  BAKER COUNTRY,State Senate,30,Over Votes,,0
-Baker,14  DURKEE,State Senate,30,Over Votes,,0
-Baker,15  EAGLE VA,State Senate,30,Over Votes,,0
-Baker,17  HAINES,State Senate,30,Over Votes,,0
-Baker,18  HEREFORD,State Senate,30,Over Votes,,0
-Baker,19  HUNTINGTON,State Senate,30,Over Votes,,0
+Baker,5 BAKER #5,State Senate,30,Over Votes,,0
+Baker,13 BAKER COUNTRY,State Senate,30,Over Votes,,0
+Baker,14 DURKEE,State Senate,30,Over Votes,,0
+Baker,15 EAGLE VA,State Senate,30,Over Votes,,0
+Baker,17 HAINES,State Senate,30,Over Votes,,0
+Baker,18 HEREFORD,State Senate,30,Over Votes,,0
+Baker,19 HUNTINGTON,State Senate,30,Over Votes,,0
 Baker,20 IRONDYKE,State Senate,30,Over Votes,,0
-Baker,21  KEATING,State Senate,30,Over Votes,,0
-Baker,22  PINE VALLEY,State Senate,30,Over Votes,,0
-Baker,24  POCA-WING,State Senate,30,Over Votes,,0
+Baker,21 KEATING,State Senate,30,Over Votes,,0
+Baker,22 PINE VALLEY,State Senate,30,Over Votes,,0
+Baker,24 POCA-WING,State Senate,30,Over Votes,,0
 Baker,25 SUMPTER,State Senate,30,Over Votes,,0
-Baker,26  UNITY,State Senate,30,Over Votes,,0
+Baker,26 UNITY,State Senate,30,Over Votes,,0
 Baker,1 BAKER #1,State Senate,30,Under Votes,,241
 Baker,2 BAKER #2,State Senate,30,Under Votes,,244
 Baker,3 BAKER #3,State Senate,30,Under Votes,,266
 Baker,4 BAKER #4,State Senate,30,Under Votes,,260
-Baker,5  BAKER #5,State Senate,30,Under Votes,,287
-Baker,13  BAKER COUNTRY,State Senate,30,Under Votes,,138
-Baker,14  DURKEE,State Senate,30,Under Votes,,18
-Baker,15  EAGLE VA,State Senate,30,Under Votes,,104
-Baker,17  HAINES,State Senate,30,Under Votes,,128
-Baker,18  HEREFORD,State Senate,30,Under Votes,,18
-Baker,19  HUNTINGTON,State Senate,30,Under Votes,,106
+Baker,5 BAKER #5,State Senate,30,Under Votes,,287
+Baker,13 BAKER COUNTRY,State Senate,30,Under Votes,,138
+Baker,14 DURKEE,State Senate,30,Under Votes,,18
+Baker,15 EAGLE VA,State Senate,30,Under Votes,,104
+Baker,17 HAINES,State Senate,30,Under Votes,,128
+Baker,18 HEREFORD,State Senate,30,Under Votes,,18
+Baker,19 HUNTINGTON,State Senate,30,Under Votes,,106
 Baker,20 IRONDYKE,State Senate,30,Under Votes,,16
-Baker,21  KEATING,State Senate,30,Under Votes,,21
-Baker,22  PINE VALLEY,State Senate,30,Under Votes,,201
-Baker,24  POCA-WING,State Senate,30,Under Votes,,153
+Baker,21 KEATING,State Senate,30,Under Votes,,21
+Baker,22 PINE VALLEY,State Senate,30,Under Votes,,201
+Baker,24 POCA-WING,State Senate,30,Under Votes,,153
 Baker,25 SUMPTER,State Senate,30,Under Votes,,74
-Baker,26  UNITY,State Senate,30,Under Votes,,15
+Baker,26 UNITY,State Senate,30,Under Votes,,15
 Baker,1 BAKER #1,State House,60,Cliff Bentz,REP,605
 Baker,2 BAKER #2,State House,60,Cliff Bentz,REP,574
 Baker,3 BAKER #3,State House,60,Cliff Bentz,REP,637
 Baker,4 BAKER #4,State House,60,Cliff Bentz,REP,741
-Baker,5  BAKER #5,State House,60,Cliff Bentz,REP,728
-Baker,13  BAKER COUNTRY,State House,60,Cliff Bentz,REP,477
-Baker,14  DURKEE,State House,60,Cliff Bentz,REP,68
-Baker,15  EAGLE VA,State House,60,Cliff Bentz,REP,297
-Baker,17  HAINES,State House,60,Cliff Bentz,REP,433
-Baker,18  HEREFORD,State House,60,Cliff Bentz,REP,82
-Baker,19  HUNTINGTON,State House,60,Cliff Bentz,REP,162
+Baker,5 BAKER #5,State House,60,Cliff Bentz,REP,728
+Baker,13 BAKER COUNTRY,State House,60,Cliff Bentz,REP,477
+Baker,14 DURKEE,State House,60,Cliff Bentz,REP,68
+Baker,15 EAGLE VA,State House,60,Cliff Bentz,REP,297
+Baker,17 HAINES,State House,60,Cliff Bentz,REP,433
+Baker,18 HEREFORD,State House,60,Cliff Bentz,REP,82
+Baker,19 HUNTINGTON,State House,60,Cliff Bentz,REP,162
 Baker,20 IRONDYKE,State House,60,Cliff Bentz,REP,36
-Baker,21  KEATING,State House,60,Cliff Bentz,REP,132
-Baker,22  PINE VALLEY,State House,60,Cliff Bentz,REP,373
-Baker,24  POCA-WING,State House,60,Cliff Bentz,REP,530
+Baker,21 KEATING,State House,60,Cliff Bentz,REP,132
+Baker,22 PINE VALLEY,State House,60,Cliff Bentz,REP,373
+Baker,24 POCA-WING,State House,60,Cliff Bentz,REP,530
 Baker,25 SUMPTER,State House,60,Cliff Bentz,REP,162
-Baker,26  UNITY,State House,60,Cliff Bentz,REP,73
+Baker,26 UNITY,State House,60,Cliff Bentz,REP,73
 Baker,1 BAKER #1,State House,60,Write-ins,,10
 Baker,2 BAKER #2,State House,60,Write-ins,,19
 Baker,3 BAKER #3,State House,60,Write-ins,,9
 Baker,4 BAKER #4,State House,60,Write-ins,,10
-Baker,5  BAKER #5,State House,60,Write-ins,,12
-Baker,13  BAKER COUNTRY,State House,60,Write-ins,,1
-Baker,14  DURKEE,State House,60,Write-ins,,4
-Baker,15  EAGLE VA,State House,60,Write-ins,,5
-Baker,17  HAINES,State House,60,Write-ins,,5
-Baker,18  HEREFORD,State House,60,Write-ins,,0
-Baker,19  HUNTINGTON,State House,60,Write-ins,,2
+Baker,5 BAKER #5,State House,60,Write-ins,,12
+Baker,13 BAKER COUNTRY,State House,60,Write-ins,,1
+Baker,14 DURKEE,State House,60,Write-ins,,4
+Baker,15 EAGLE VA,State House,60,Write-ins,,5
+Baker,17 HAINES,State House,60,Write-ins,,5
+Baker,18 HEREFORD,State House,60,Write-ins,,0
+Baker,19 HUNTINGTON,State House,60,Write-ins,,2
 Baker,20 IRONDYKE,State House,60,Write-ins,,1
-Baker,21  KEATING,State House,60,Write-ins,,0
-Baker,22  PINE VALLEY,State House,60,Write-ins,,7
-Baker,24  POCA-WING,State House,60,Write-ins,,11
+Baker,21 KEATING,State House,60,Write-ins,,0
+Baker,22 PINE VALLEY,State House,60,Write-ins,,7
+Baker,24 POCA-WING,State House,60,Write-ins,,11
 Baker,25 SUMPTER,State House,60,Write-ins,,5
-Baker,26  UNITY,State House,60,Write-ins,,0
+Baker,26 UNITY,State House,60,Write-ins,,0
 Baker,1 BAKER #1,State House,60,Over Votes,,0
 Baker,2 BAKER #2,State House,60,Over Votes,,0
 Baker,3 BAKER #3,State House,60,Over Votes,,0
 Baker,4 BAKER #4,State House,60,Over Votes,,0
-Baker,5  BAKER #5,State House,60,Over Votes,,0
-Baker,13  BAKER COUNTRY,State House,60,Over Votes,,0
-Baker,14  DURKEE,State House,60,Over Votes,,0
-Baker,15  EAGLE VA,State House,60,Over Votes,,0
-Baker,17  HAINES,State House,60,Over Votes,,0
-Baker,18  HEREFORD,State House,60,Over Votes,,0
-Baker,19  HUNTINGTON,State House,60,Over Votes,,0
+Baker,5 BAKER #5,State House,60,Over Votes,,0
+Baker,13 BAKER COUNTRY,State House,60,Over Votes,,0
+Baker,14 DURKEE,State House,60,Over Votes,,0
+Baker,15 EAGLE VA,State House,60,Over Votes,,0
+Baker,17 HAINES,State House,60,Over Votes,,0
+Baker,18 HEREFORD,State House,60,Over Votes,,0
+Baker,19 HUNTINGTON,State House,60,Over Votes,,0
 Baker,20 IRONDYKE,State House,60,Over Votes,,0
-Baker,21  KEATING,State House,60,Over Votes,,0
-Baker,22  PINE VALLEY,State House,60,Over Votes,,0
-Baker,24  POCA-WING,State House,60,Over Votes,,0
+Baker,21 KEATING,State House,60,Over Votes,,0
+Baker,22 PINE VALLEY,State House,60,Over Votes,,0
+Baker,24 POCA-WING,State House,60,Over Votes,,0
 Baker,25 SUMPTER,State House,60,Over Votes,,0
-Baker,26  UNITY,State House,60,Over Votes,,0
+Baker,26 UNITY,State House,60,Over Votes,,0
 Baker,1 BAKER #1,State House,60,Under Votes,,297
 Baker,2 BAKER #2,State House,60,Under Votes,,285
 Baker,3 BAKER #3,State House,60,Under Votes,,296
 Baker,4 BAKER #4,State House,60,Under Votes,,306
-Baker,5  BAKER #5,State House,60,Under Votes,,334
-Baker,13  BAKER COUNTRY,State House,60,Under Votes,,182
-Baker,14  DURKEE,State House,60,Under Votes,,21
-Baker,15  EAGLE VA,State House,60,Under Votes,,119
-Baker,17  HAINES,State House,60,Under Votes,,141
-Baker,18  HEREFORD,State House,60,Under Votes,,16
-Baker,19  HUNTINGTON,State House,60,Under Votes,,102
+Baker,5 BAKER #5,State House,60,Under Votes,,334
+Baker,13 BAKER COUNTRY,State House,60,Under Votes,,182
+Baker,14 DURKEE,State House,60,Under Votes,,21
+Baker,15 EAGLE VA,State House,60,Under Votes,,119
+Baker,17 HAINES,State House,60,Under Votes,,141
+Baker,18 HEREFORD,State House,60,Under Votes,,16
+Baker,19 HUNTINGTON,State House,60,Under Votes,,102
 Baker,20 IRONDYKE,State House,60,Under Votes,,20
-Baker,21  KEATING,State House,60,Under Votes,,24
-Baker,22  PINE VALLEY,State House,60,Under Votes,,229
-Baker,24  POCA-WING,State House,60,Under Votes,,181
+Baker,21 KEATING,State House,60,Under Votes,,24
+Baker,22 PINE VALLEY,State House,60,Under Votes,,229
+Baker,24 POCA-WING,State House,60,Under Votes,,181
 Baker,25 SUMPTER,State House,60,Under Votes,,84
-Baker,26  UNITY,State House,60,Under Votes,,21
+Baker,26 UNITY,State House,60,Under Votes,,21
 Baker,1 BAKER #1,State Treasurer,,Allen Alley,REP,491
 Baker,2 BAKER #2,State Treasurer,,Allen Alley,REP,439
 Baker,3 BAKER #3,State Treasurer,,Allen Alley,REP,485
 Baker,4 BAKER #4,State Treasurer,,Allen Alley,REP,581
-Baker,5  BAKER #5,State Treasurer,,Allen Alley,REP,582
-Baker,13  BAKER COUNTRY,State Treasurer,,Allen Alley,REP,449
-Baker,14  DURKEE,State Treasurer,,Allen Alley,REP,61
-Baker,15  EAGLE VA,State Treasurer,,Allen Alley,REP,244
-Baker,17  HAINES,State Treasurer,,Allen Alley,REP,363
-Baker,18  HEREFORD,State Treasurer,,Allen Alley,REP,70
-Baker,19  HUNTINGTON,State Treasurer,,Allen Alley,REP,95
+Baker,5 BAKER #5,State Treasurer,,Allen Alley,REP,582
+Baker,13 BAKER COUNTRY,State Treasurer,,Allen Alley,REP,449
+Baker,14 DURKEE,State Treasurer,,Allen Alley,REP,61
+Baker,15 EAGLE VA,State Treasurer,,Allen Alley,REP,244
+Baker,17 HAINES,State Treasurer,,Allen Alley,REP,363
+Baker,18 HEREFORD,State Treasurer,,Allen Alley,REP,70
+Baker,19 HUNTINGTON,State Treasurer,,Allen Alley,REP,95
 Baker,20 IRONDYKE,State Treasurer,,Allen Alley,REP,30
-Baker,21  KEATING,State Treasurer,,Allen Alley,REP,119
-Baker,22  PINE VALLEY,State Treasurer,,Allen Alley,REP,295
-Baker,24  POCA-WING,State Treasurer,,Allen Alley,REP,466
+Baker,21 KEATING,State Treasurer,,Allen Alley,REP,119
+Baker,22 PINE VALLEY,State Treasurer,,Allen Alley,REP,295
+Baker,24 POCA-WING,State Treasurer,,Allen Alley,REP,466
 Baker,25 SUMPTER,State Treasurer,,Allen Alley,REP,141
-Baker,26  UNITY,State Treasurer,,Allen Alley,REP,62
+Baker,26 UNITY,State Treasurer,,Allen Alley,REP,62
 Baker,1 BAKER #1,State Treasurer,,Michael Marsh,CON,34
 Baker,2 BAKER #2,State Treasurer,,Michael Marsh,CON,46
 Baker,3 BAKER #3,State Treasurer,,Michael Marsh,CON,57
 Baker,4 BAKER #4,State Treasurer,,Michael Marsh,CON,54
-Baker,5  BAKER #5,State Treasurer,,Michael Marsh,CON,45
-Baker,13  BAKER COUNTRY,State Treasurer,,Michael Marsh,CON,21
-Baker,14  DURKEE,State Treasurer,,Michael Marsh,CON,4
-Baker,15  EAGLE VA,State Treasurer,,Michael Marsh,CON,13
-Baker,17  HAINES,State Treasurer,,Michael Marsh,CON,17
-Baker,18  HEREFORD,State Treasurer,,Michael Marsh,CON,9
-Baker,19  HUNTINGTON,State Treasurer,,Michael Marsh,CON,13
+Baker,5 BAKER #5,State Treasurer,,Michael Marsh,CON,45
+Baker,13 BAKER COUNTRY,State Treasurer,,Michael Marsh,CON,21
+Baker,14 DURKEE,State Treasurer,,Michael Marsh,CON,4
+Baker,15 EAGLE VA,State Treasurer,,Michael Marsh,CON,13
+Baker,17 HAINES,State Treasurer,,Michael Marsh,CON,17
+Baker,18 HEREFORD,State Treasurer,,Michael Marsh,CON,9
+Baker,19 HUNTINGTON,State Treasurer,,Michael Marsh,CON,13
 Baker,20 IRONDYKE,State Treasurer,,Michael Marsh,CON,6
-Baker,21  KEATING,State Treasurer,,Michael Marsh,CON,0
-Baker,22  PINE VALLEY,State Treasurer,,Michael Marsh,CON,28
-Baker,24  POCA-WING,State Treasurer,,Michael Marsh,CON,20
+Baker,21 KEATING,State Treasurer,,Michael Marsh,CON,0
+Baker,22 PINE VALLEY,State Treasurer,,Michael Marsh,CON,28
+Baker,24 POCA-WING,State Treasurer,,Michael Marsh,CON,20
 Baker,25 SUMPTER,State Treasurer,,Michael Marsh,CON,15
-Baker,26  UNITY,State Treasurer,,Michael Marsh,CON,0
+Baker,26 UNITY,State Treasurer,,Michael Marsh,CON,0
 Baker,1 BAKER #1,State Treasurer,,Ben Westlund,DEM,311
 Baker,2 BAKER #2,State Treasurer,,Ben Westlund,DEM,307
 Baker,3 BAKER #3,State Treasurer,,Ben Westlund,DEM,331
 Baker,4 BAKER #4,State Treasurer,,Ben Westlund,DEM,330
-Baker,5  BAKER #5,State Treasurer,,Ben Westlund,DEM,337
-Baker,13  BAKER COUNTRY,State Treasurer,,Ben Westlund,DEM,126
-Baker,14  DURKEE,State Treasurer,,Ben Westlund,DEM,17
-Baker,15  EAGLE VA,State Treasurer,,Ben Westlund,DEM,128
-Baker,17  HAINES,State Treasurer,,Ben Westlund,DEM,159
-Baker,18  HEREFORD,State Treasurer,,Ben Westlund,DEM,10
-Baker,19  HUNTINGTON,State Treasurer,,Ben Westlund,DEM,131
+Baker,5 BAKER #5,State Treasurer,,Ben Westlund,DEM,337
+Baker,13 BAKER COUNTRY,State Treasurer,,Ben Westlund,DEM,126
+Baker,14 DURKEE,State Treasurer,,Ben Westlund,DEM,17
+Baker,15 EAGLE VA,State Treasurer,,Ben Westlund,DEM,128
+Baker,17 HAINES,State Treasurer,,Ben Westlund,DEM,159
+Baker,18 HEREFORD,State Treasurer,,Ben Westlund,DEM,10
+Baker,19 HUNTINGTON,State Treasurer,,Ben Westlund,DEM,131
 Baker,20 IRONDYKE,State Treasurer,,Ben Westlund,DEM,20
-Baker,21  KEATING,State Treasurer,,Ben Westlund,DEM,28
-Baker,22  PINE VALLEY,State Treasurer,,Ben Westlund,DEM,218
-Baker,24  POCA-WING,State Treasurer,,Ben Westlund,DEM,189
+Baker,21 KEATING,State Treasurer,,Ben Westlund,DEM,28
+Baker,22 PINE VALLEY,State Treasurer,,Ben Westlund,DEM,218
+Baker,24 POCA-WING,State Treasurer,,Ben Westlund,DEM,189
 Baker,25 SUMPTER,State Treasurer,,Ben Westlund,DEM,76
-Baker,26  UNITY,State Treasurer,,Ben Westlund,DEM,20
+Baker,26 UNITY,State Treasurer,,Ben Westlund,DEM,20
 Baker,1 BAKER #1,State Treasurer,,Write-ins,,2
 Baker,2 BAKER #2,State Treasurer,,Write-ins,,2
 Baker,3 BAKER #3,State Treasurer,,Write-ins,,1
 Baker,4 BAKER #4,State Treasurer,,Write-ins,,1
-Baker,5  BAKER #5,State Treasurer,,Write-ins,,2
-Baker,13  BAKER COUNTRY,State Treasurer,,Write-ins,,0
-Baker,14  DURKEE,State Treasurer,,Write-ins,,1
-Baker,15  EAGLE VA,State Treasurer,,Write-ins,,0
-Baker,17  HAINES,State Treasurer,,Write-ins,,0
-Baker,18  HEREFORD,State Treasurer,,Write-ins,,0
-Baker,19  HUNTINGTON,State Treasurer,,Write-ins,,1
+Baker,5 BAKER #5,State Treasurer,,Write-ins,,2
+Baker,13 BAKER COUNTRY,State Treasurer,,Write-ins,,0
+Baker,14 DURKEE,State Treasurer,,Write-ins,,1
+Baker,15 EAGLE VA,State Treasurer,,Write-ins,,0
+Baker,17 HAINES,State Treasurer,,Write-ins,,0
+Baker,18 HEREFORD,State Treasurer,,Write-ins,,0
+Baker,19 HUNTINGTON,State Treasurer,,Write-ins,,1
 Baker,20 IRONDYKE,State Treasurer,,Write-ins,,0
-Baker,21  KEATING,State Treasurer,,Write-ins,,0
-Baker,22  PINE VALLEY,State Treasurer,,Write-ins,,0
-Baker,24  POCA-WING,State Treasurer,,Write-ins,,0
+Baker,21 KEATING,State Treasurer,,Write-ins,,0
+Baker,22 PINE VALLEY,State Treasurer,,Write-ins,,0
+Baker,24 POCA-WING,State Treasurer,,Write-ins,,0
 Baker,25 SUMPTER,State Treasurer,,Write-ins,,0
-Baker,26  UNITY,State Treasurer,,Write-ins,,0
+Baker,26 UNITY,State Treasurer,,Write-ins,,0
 Baker,1 BAKER #1,State Treasurer,,Over Votes,,1
 Baker,2 BAKER #2,State Treasurer,,Over Votes,,0
 Baker,3 BAKER #3,State Treasurer,,Over Votes,,0
 Baker,4 BAKER #4,State Treasurer,,Over Votes,,0
-Baker,5  BAKER #5,State Treasurer,,Over Votes,,0
-Baker,13  BAKER COUNTRY,State Treasurer,,Over Votes,,0
-Baker,14  DURKEE,State Treasurer,,Over Votes,,0
-Baker,15  EAGLE VA,State Treasurer,,Over Votes,,0
-Baker,17  HAINES,State Treasurer,,Over Votes,,0
-Baker,18  HEREFORD,State Treasurer,,Over Votes,,0
-Baker,19  HUNTINGTON,State Treasurer,,Over Votes,,0
+Baker,5 BAKER #5,State Treasurer,,Over Votes,,0
+Baker,13 BAKER COUNTRY,State Treasurer,,Over Votes,,0
+Baker,14 DURKEE,State Treasurer,,Over Votes,,0
+Baker,15 EAGLE VA,State Treasurer,,Over Votes,,0
+Baker,17 HAINES,State Treasurer,,Over Votes,,0
+Baker,18 HEREFORD,State Treasurer,,Over Votes,,0
+Baker,19 HUNTINGTON,State Treasurer,,Over Votes,,0
 Baker,20 IRONDYKE,State Treasurer,,Over Votes,,0
-Baker,21  KEATING,State Treasurer,,Over Votes,,0
-Baker,22  PINE VALLEY,State Treasurer,,Over Votes,,0
-Baker,24  POCA-WING,State Treasurer,,Over Votes,,0
+Baker,21 KEATING,State Treasurer,,Over Votes,,0
+Baker,22 PINE VALLEY,State Treasurer,,Over Votes,,0
+Baker,24 POCA-WING,State Treasurer,,Over Votes,,0
 Baker,25 SUMPTER,State Treasurer,,Over Votes,,0
-Baker,26  UNITY,State Treasurer,,Over Votes,,0
+Baker,26 UNITY,State Treasurer,,Over Votes,,0
 Baker,1 BAKER #1,State Treasurer,,Under Votes,,73
 Baker,2 BAKER #2,State Treasurer,,Under Votes,,84
 Baker,3 BAKER #3,State Treasurer,,Under Votes,,68
 Baker,4 BAKER #4,State Treasurer,,Under Votes,,91
-Baker,5  BAKER #5,State Treasurer,,Under Votes,,108
-Baker,13  BAKER COUNTRY,State Treasurer,,Under Votes,,64
-Baker,14  DURKEE,State Treasurer,,Under Votes,,10
-Baker,15  EAGLE VA,State Treasurer,,Under Votes,,36
-Baker,17  HAINES,State Treasurer,,Under Votes,,40
-Baker,18  HEREFORD,State Treasurer,,Under Votes,,9
-Baker,19  HUNTINGTON,State Treasurer,,Under Votes,,26
+Baker,5 BAKER #5,State Treasurer,,Under Votes,,108
+Baker,13 BAKER COUNTRY,State Treasurer,,Under Votes,,64
+Baker,14 DURKEE,State Treasurer,,Under Votes,,10
+Baker,15 EAGLE VA,State Treasurer,,Under Votes,,36
+Baker,17 HAINES,State Treasurer,,Under Votes,,40
+Baker,18 HEREFORD,State Treasurer,,Under Votes,,9
+Baker,19 HUNTINGTON,State Treasurer,,Under Votes,,26
 Baker,20 IRONDYKE,State Treasurer,,Under Votes,,1
-Baker,21  KEATING,State Treasurer,,Under Votes,,9
-Baker,22  PINE VALLEY,State Treasurer,,Under Votes,,68
-Baker,24  POCA-WING,State Treasurer,,Under Votes,,47
+Baker,21 KEATING,State Treasurer,,Under Votes,,9
+Baker,22 PINE VALLEY,State Treasurer,,Under Votes,,68
+Baker,24 POCA-WING,State Treasurer,,Under Votes,,47
 Baker,25 SUMPTER,State Treasurer,,Under Votes,,19
-Baker,26  UNITY,State Treasurer,,Under Votes,,12
+Baker,26 UNITY,State Treasurer,,Under Votes,,12
 Baker,1 BAKER #1,U.S. House,2,Richard D. Hake,CON,13
 Baker,2 BAKER #2,U.S. House,2,Richard D. Hake,CON,24
 Baker,3 BAKER #3,U.S. House,2,Richard D. Hake,CON,28
 Baker,4 BAKER #4,U.S. House,2,Richard D. Hake,CON,20
-Baker,5  BAKER #5,U.S. House,2,Richard D. Hake,CON,15
-Baker,13  BAKER COUNTRY,U.S. House,2,Richard D. Hake,CON,10
-Baker,14  DURKEE,U.S. House,2,Richard D. Hake,CON,0
-Baker,15  EAGLE VA,U.S. House,2,Richard D. Hake,CON,13
-Baker,17  HAINES,U.S. House,2,Richard D. Hake,CON,10
-Baker,18  HEREFORD,U.S. House,2,Richard D. Hake,CON,3
-Baker,19  HUNTINGTON,U.S. House,2,Richard D. Hake,CON,15
+Baker,5 BAKER #5,U.S. House,2,Richard D. Hake,CON,15
+Baker,13 BAKER COUNTRY,U.S. House,2,Richard D. Hake,CON,10
+Baker,14 DURKEE,U.S. House,2,Richard D. Hake,CON,0
+Baker,15 EAGLE VA,U.S. House,2,Richard D. Hake,CON,13
+Baker,17 HAINES,U.S. House,2,Richard D. Hake,CON,10
+Baker,18 HEREFORD,U.S. House,2,Richard D. Hake,CON,3
+Baker,19 HUNTINGTON,U.S. House,2,Richard D. Hake,CON,15
 Baker,20 IRONDYKE,U.S. House,2,Richard D. Hake,CON,6
-Baker,21  KEATING,U.S. House,2,Richard D. Hake,CON,0
-Baker,22  PINE VALLEY,U.S. House,2,Richard D. Hake,CON,14
-Baker,24  POCA-WING,U.S. House,2,Richard D. Hake,CON,10
+Baker,21 KEATING,U.S. House,2,Richard D. Hake,CON,0
+Baker,22 PINE VALLEY,U.S. House,2,Richard D. Hake,CON,14
+Baker,24 POCA-WING,U.S. House,2,Richard D. Hake,CON,10
 Baker,25 SUMPTER,U.S. House,2,Richard D. Hake,CON,8
-Baker,26  UNITY,U.S. House,2,Richard D. Hake,CON,0
+Baker,26 UNITY,U.S. House,2,Richard D. Hake,CON,0
 Baker,1 BAKER #1,U.S. House,2,Tristin Mock,PAC,16
 Baker,2 BAKER #2,U.S. House,2,Tristin Mock,PAC,30
 Baker,3 BAKER #3,U.S. House,2,Tristin Mock,PAC,26
 Baker,4 BAKER #4,U.S. House,2,Tristin Mock,PAC,28
-Baker,5  BAKER #5,U.S. House,2,Tristin Mock,PAC,17
-Baker,13  BAKER COUNTRY,U.S. House,2,Tristin Mock,PAC,5
-Baker,14  DURKEE,U.S. House,2,Tristin Mock,PAC,3
-Baker,15  EAGLE VA,U.S. House,2,Tristin Mock,PAC,6
-Baker,17  HAINES,U.S. House,2,Tristin Mock,PAC,11
-Baker,18  HEREFORD,U.S. House,2,Tristin Mock,PAC,1
-Baker,19  HUNTINGTON,U.S. House,2,Tristin Mock,PAC,7
+Baker,5 BAKER #5,U.S. House,2,Tristin Mock,PAC,17
+Baker,13 BAKER COUNTRY,U.S. House,2,Tristin Mock,PAC,5
+Baker,14 DURKEE,U.S. House,2,Tristin Mock,PAC,3
+Baker,15 EAGLE VA,U.S. House,2,Tristin Mock,PAC,6
+Baker,17 HAINES,U.S. House,2,Tristin Mock,PAC,11
+Baker,18 HEREFORD,U.S. House,2,Tristin Mock,PAC,1
+Baker,19 HUNTINGTON,U.S. House,2,Tristin Mock,PAC,7
 Baker,20 IRONDYKE,U.S. House,2,Tristin Mock,PAC,1
-Baker,21  KEATING,U.S. House,2,Tristin Mock,PAC,1
-Baker,22  PINE VALLEY,U.S. House,2,Tristin Mock,PAC,20
-Baker,24  POCA-WING,U.S. House,2,Tristin Mock,PAC,6
+Baker,21 KEATING,U.S. House,2,Tristin Mock,PAC,1
+Baker,22 PINE VALLEY,U.S. House,2,Tristin Mock,PAC,20
+Baker,24 POCA-WING,U.S. House,2,Tristin Mock,PAC,6
 Baker,25 SUMPTER,U.S. House,2,Tristin Mock,PAC,4
-Baker,26  UNITY,U.S. House,2,Tristin Mock,PAC,1
+Baker,26 UNITY,U.S. House,2,Tristin Mock,PAC,1
 Baker,1 BAKER #1,U.S. House,2,Greg Walden,REP,660
 Baker,2 BAKER #2,U.S. House,2,Greg Walden,REP,603
 Baker,3 BAKER #3,U.S. House,2,Greg Walden,REP,628
 Baker,4 BAKER #4,U.S. House,2,Greg Walden,REP,782
-Baker,5  BAKER #5,U.S. House,2,Greg Walden,REP,772
-Baker,13  BAKER COUNTRY,U.S. House,2,Greg Walden,REP,533
-Baker,14  DURKEE,U.S. House,2,Greg Walden,REP,78
-Baker,15  EAGLE VA,U.S. House,2,Greg Walden,REP,305
-Baker,17  HAINES,U.S. House,2,Greg Walden,REP,449
-Baker,18  HEREFORD,U.S. House,2,Greg Walden,REP,82
-Baker,19  HUNTINGTON,U.S. House,2,Greg Walden,REP,143
+Baker,5 BAKER #5,U.S. House,2,Greg Walden,REP,772
+Baker,13 BAKER COUNTRY,U.S. House,2,Greg Walden,REP,533
+Baker,14 DURKEE,U.S. House,2,Greg Walden,REP,78
+Baker,15 EAGLE VA,U.S. House,2,Greg Walden,REP,305
+Baker,17 HAINES,U.S. House,2,Greg Walden,REP,449
+Baker,18 HEREFORD,U.S. House,2,Greg Walden,REP,82
+Baker,19 HUNTINGTON,U.S. House,2,Greg Walden,REP,143
 Baker,20 IRONDYKE,U.S. House,2,Greg Walden,REP,32
-Baker,21  KEATING,U.S. House,2,Greg Walden,REP,139
-Baker,22  PINE VALLEY,U.S. House,2,Greg Walden,REP,375
-Baker,24  POCA-WING,U.S. House,2,Greg Walden,REP,570
+Baker,21 KEATING,U.S. House,2,Greg Walden,REP,139
+Baker,22 PINE VALLEY,U.S. House,2,Greg Walden,REP,375
+Baker,24 POCA-WING,U.S. House,2,Greg Walden,REP,570
 Baker,25 SUMPTER,U.S. House,2,Greg Walden,REP,180
-Baker,26  UNITY,U.S. House,2,Greg Walden,REP,76
+Baker,26 UNITY,U.S. House,2,Greg Walden,REP,76
 Baker,1 BAKER #1,U.S. House,2,Noah Lemas,DEM,179
 Baker,2 BAKER #2,U.S. House,2,Noah Lemas,DEM,184
 Baker,3 BAKER #3,U.S. House,2,Noah Lemas,DEM,221
 Baker,4 BAKER #4,U.S. House,2,Noah Lemas,DEM,186
-Baker,5  BAKER #5,U.S. House,2,Noah Lemas,DEM,206
-Baker,13  BAKER COUNTRY,U.S. House,2,Noah Lemas,DEM,77
-Baker,14  DURKEE,U.S. House,2,Noah Lemas,DEM,7
-Baker,15  EAGLE VA,U.S. House,2,Noah Lemas,DEM,79
-Baker,17  HAINES,U.S. House,2,Noah Lemas,DEM,78
-Baker,18  HEREFORD,U.S. House,2,Noah Lemas,DEM,6
-Baker,19  HUNTINGTON,U.S. House,2,Noah Lemas,DEM,84
+Baker,5 BAKER #5,U.S. House,2,Noah Lemas,DEM,206
+Baker,13 BAKER COUNTRY,U.S. House,2,Noah Lemas,DEM,77
+Baker,14 DURKEE,U.S. House,2,Noah Lemas,DEM,7
+Baker,15 EAGLE VA,U.S. House,2,Noah Lemas,DEM,79
+Baker,17 HAINES,U.S. House,2,Noah Lemas,DEM,78
+Baker,18 HEREFORD,U.S. House,2,Noah Lemas,DEM,6
+Baker,19 HUNTINGTON,U.S. House,2,Noah Lemas,DEM,84
 Baker,20 IRONDYKE,U.S. House,2,Noah Lemas,DEM,17
-Baker,21  KEATING,U.S. House,2,Noah Lemas,DEM,13
-Baker,22  PINE VALLEY,U.S. House,2,Noah Lemas,DEM,160
-Baker,24  POCA-WING,U.S. House,2,Noah Lemas,DEM,113
+Baker,21 KEATING,U.S. House,2,Noah Lemas,DEM,13
+Baker,22 PINE VALLEY,U.S. House,2,Noah Lemas,DEM,160
+Baker,24 POCA-WING,U.S. House,2,Noah Lemas,DEM,113
 Baker,25 SUMPTER,U.S. House,2,Noah Lemas,DEM,49
-Baker,26  UNITY,U.S. House,2,Noah Lemas,DEM,13
+Baker,26 UNITY,U.S. House,2,Noah Lemas,DEM,13
 Baker,1 BAKER #1,U.S. House,2,Write-ins,,3
 Baker,2 BAKER #2,U.S. House,2,Write-ins,,1
 Baker,3 BAKER #3,U.S. House,2,Write-ins,,0
 Baker,4 BAKER #4,U.S. House,2,Write-ins,,3
-Baker,5  BAKER #5,U.S. House,2,Write-ins,,0
-Baker,13  BAKER COUNTRY,U.S. House,2,Write-ins,,4
-Baker,14  DURKEE,U.S. House,2,Write-ins,,1
-Baker,15  EAGLE VA,U.S. House,2,Write-ins,,0
-Baker,17  HAINES,U.S. House,2,Write-ins,,0
-Baker,18  HEREFORD,U.S. House,2,Write-ins,,0
-Baker,19  HUNTINGTON,U.S. House,2,Write-ins,,1
+Baker,5 BAKER #5,U.S. House,2,Write-ins,,0
+Baker,13 BAKER COUNTRY,U.S. House,2,Write-ins,,4
+Baker,14 DURKEE,U.S. House,2,Write-ins,,1
+Baker,15 EAGLE VA,U.S. House,2,Write-ins,,0
+Baker,17 HAINES,U.S. House,2,Write-ins,,0
+Baker,18 HEREFORD,U.S. House,2,Write-ins,,0
+Baker,19 HUNTINGTON,U.S. House,2,Write-ins,,1
 Baker,20 IRONDYKE,U.S. House,2,Write-ins,,0
-Baker,21  KEATING,U.S. House,2,Write-ins,,0
-Baker,22  PINE VALLEY,U.S. House,2,Write-ins,,0
-Baker,24  POCA-WING,U.S. House,2,Write-ins,,2
+Baker,21 KEATING,U.S. House,2,Write-ins,,0
+Baker,22 PINE VALLEY,U.S. House,2,Write-ins,,0
+Baker,24 POCA-WING,U.S. House,2,Write-ins,,2
 Baker,25 SUMPTER,U.S. House,2,Write-ins,,0
-Baker,26  UNITY,U.S. House,2,Write-ins,,0
+Baker,26 UNITY,U.S. House,2,Write-ins,,0
 Baker,1 BAKER #1,U.S. House,2,Over Votes,,0
 Baker,2 BAKER #2,U.S. House,2,Over Votes,,0
 Baker,3 BAKER #3,U.S. House,2,Over Votes,,0
 Baker,4 BAKER #4,U.S. House,2,Over Votes,,2
-Baker,5  BAKER #5,U.S. House,2,Over Votes,,0
-Baker,13  BAKER COUNTRY,U.S. House,2,Over Votes,,0
-Baker,14  DURKEE,U.S. House,2,Over Votes,,0
-Baker,15  EAGLE VA,U.S. House,2,Over Votes,,0
-Baker,17  HAINES,U.S. House,2,Over Votes,,0
-Baker,18  HEREFORD,U.S. House,2,Over Votes,,0
-Baker,19  HUNTINGTON,U.S. House,2,Over Votes,,0
+Baker,5 BAKER #5,U.S. House,2,Over Votes,,0
+Baker,13 BAKER COUNTRY,U.S. House,2,Over Votes,,0
+Baker,14 DURKEE,U.S. House,2,Over Votes,,0
+Baker,15 EAGLE VA,U.S. House,2,Over Votes,,0
+Baker,17 HAINES,U.S. House,2,Over Votes,,0
+Baker,18 HEREFORD,U.S. House,2,Over Votes,,0
+Baker,19 HUNTINGTON,U.S. House,2,Over Votes,,0
 Baker,20 IRONDYKE,U.S. House,2,Over Votes,,0
-Baker,21  KEATING,U.S. House,2,Over Votes,,0
-Baker,22  PINE VALLEY,U.S. House,2,Over Votes,,0
-Baker,24  POCA-WING,U.S. House,2,Over Votes,,0
+Baker,21 KEATING,U.S. House,2,Over Votes,,0
+Baker,22 PINE VALLEY,U.S. House,2,Over Votes,,0
+Baker,24 POCA-WING,U.S. House,2,Over Votes,,0
 Baker,25 SUMPTER,U.S. House,2,Over Votes,,0
-Baker,26  UNITY,U.S. House,2,Over Votes,,0
+Baker,26 UNITY,U.S. House,2,Over Votes,,0
 Baker,1 BAKER #1,U.S. House,2,Under Votes,,41
 Baker,2 BAKER #2,U.S. House,2,Under Votes,,36
 Baker,3 BAKER #3,U.S. House,2,Under Votes,,39
 Baker,4 BAKER #4,U.S. House,2,Under Votes,,36
-Baker,5  BAKER #5,U.S. House,2,Under Votes,,64
-Baker,13  BAKER COUNTRY,U.S. House,2,Under Votes,,31
-Baker,14  DURKEE,U.S. House,2,Under Votes,,4
-Baker,15  EAGLE VA,U.S. House,2,Under Votes,,18
-Baker,17  HAINES,U.S. House,2,Under Votes,,31
-Baker,18  HEREFORD,U.S. House,2,Under Votes,,6
-Baker,19  HUNTINGTON,U.S. House,2,Under Votes,,16
+Baker,5 BAKER #5,U.S. House,2,Under Votes,,64
+Baker,13 BAKER COUNTRY,U.S. House,2,Under Votes,,31
+Baker,14 DURKEE,U.S. House,2,Under Votes,,4
+Baker,15 EAGLE VA,U.S. House,2,Under Votes,,18
+Baker,17 HAINES,U.S. House,2,Under Votes,,31
+Baker,18 HEREFORD,U.S. House,2,Under Votes,,6
+Baker,19 HUNTINGTON,U.S. House,2,Under Votes,,16
 Baker,20 IRONDYKE,U.S. House,2,Under Votes,,1
-Baker,21  KEATING,U.S. House,2,Under Votes,,3
-Baker,22  PINE VALLEY,U.S. House,2,Under Votes,,40
-Baker,24  POCA-WING,U.S. House,2,Under Votes,,21
+Baker,21 KEATING,U.S. House,2,Under Votes,,3
+Baker,22 PINE VALLEY,U.S. House,2,Under Votes,,40
+Baker,24 POCA-WING,U.S. House,2,Under Votes,,21
 Baker,25 SUMPTER,U.S. House,2,Under Votes,,10
-Baker,26  UNITY,U.S. House,2,Under Votes,,4
+Baker,26 UNITY,U.S. House,2,Under Votes,,4
 Benton,0001 01A,President,,Ralph Nader,PCE,2
 Benton,0001 01A,President,,Cynthia McKinney,Pacific Green,0
 Benton,0001 01A,President,,John McCain,Republican,94

@@ -4,7 +4,7 @@ candidate,office,district,party,county,precinct,votes
 Write In,U.S. House,4,IND,Linn,Precinct 001,3
 Overvote,U.S. House,4,IND,Linn,Precinct 001,0
 Undervote,U.S. House,4,IND,Linn,Precinct 001,5
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 001,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 001,0
 Skye J Allen,Governor,,IND,Linn,Precinct 001,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 001,0
 Write In,Governor,,IND,Linn,Precinct 001,3
@@ -28,7 +28,7 @@ Overvote,State House,17,IND,Linn,Precinct 001,
 Undervote,State House,17,IND,Linn,Precinct 001,
 ,Registered Voters,,,Linn,Precinct 001,311
 ,Ballots Cast,,,Linn,Precinct 001,178
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 001,10
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 001,10
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 001,162
 Write In,U.S. House,4,DEM,Linn,Precinct 001,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 001,0
@@ -76,7 +76,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 001,16
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 001,0
 David W Stauffer,Governor,,REP,Linn,Precinct 001,0
 Jeff Smith,Governor,,REP,Linn,Precinct 001,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 001,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 001,1
 Brett Hyland,Governor,,REP,Linn,Precinct 001,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 001,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 001,21
@@ -116,7 +116,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 001
 Write In,U.S. House,4,IND,Linn,Precinct 003,5
 Overvote,U.S. House,4,IND,Linn,Precinct 003,0
 Undervote,U.S. House,4,IND,Linn,Precinct 003,5
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 003,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 003,1
 Skye J Allen,Governor,,IND,Linn,Precinct 003,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 003,1
 Write In,Governor,,IND,Linn,Precinct 003,7
@@ -140,7 +140,7 @@ Overvote,State House,17,IND,Linn,Precinct 003,
 Undervote,State House,17,IND,Linn,Precinct 003,
 ,Registered Voters,,,Linn,Precinct 003,252
 ,Ballots Cast,,,Linn,Precinct 003,135
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 003,5
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 003,5
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 003,127
 Write In,U.S. House,4,DEM,Linn,Precinct 003,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 003,0
@@ -188,7 +188,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 003,26
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 003,0
 David W Stauffer,Governor,,REP,Linn,Precinct 003,1
 Jeff Smith,Governor,,REP,Linn,Precinct 003,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 003,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 003,0
 Brett Hyland,Governor,,REP,Linn,Precinct 003,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 003,1
 Sam Carpenter,Governor,,REP,Linn,Precinct 003,18
@@ -228,7 +228,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 003
 Write In,U.S. House,4,IND,Linn,Precinct 005,2
 Overvote,U.S. House,4,IND,Linn,Precinct 005,0
 Undervote,U.S. House,4,IND,Linn,Precinct 005,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 005,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 005,2
 Skye J Allen,Governor,,IND,Linn,Precinct 005,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 005,4
 Write In,Governor,,IND,Linn,Precinct 005,2
@@ -252,7 +252,7 @@ Overvote,State House,17,IND,Linn,Precinct 005,
 Undervote,State House,17,IND,Linn,Precinct 005,
 ,Registered Voters,,,Linn,Precinct 005,340
 ,Ballots Cast,,,Linn,Precinct 005,119
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 005,10
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 005,10
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 005,104
 Write In,U.S. House,4,DEM,Linn,Precinct 005,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 005,0
@@ -300,7 +300,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 005,18
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 005,0
 David W Stauffer,Governor,,REP,Linn,Precinct 005,1
 Jeff Smith,Governor,,REP,Linn,Precinct 005,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 005,2
+Jack W Tacy,Governor,,REP,Linn,Precinct 005,2
 Brett Hyland,Governor,,REP,Linn,Precinct 005,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 005,1
 Sam Carpenter,Governor,,REP,Linn,Precinct 005,22
@@ -340,7 +340,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 005
 Write In,U.S. House,4,IND,Linn,Precinct 008,8
 Overvote,U.S. House,4,IND,Linn,Precinct 008,0
 Undervote,U.S. House,4,IND,Linn,Precinct 008,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 008,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 008,1
 Skye J Allen,Governor,,IND,Linn,Precinct 008,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 008,2
 Write In,Governor,,IND,Linn,Precinct 008,10
@@ -364,7 +364,7 @@ Overvote,State House,17,IND,Linn,Precinct 008,
 Undervote,State House,17,IND,Linn,Precinct 008,
 ,Registered Voters,,,Linn,Precinct 008,424
 ,Ballots Cast,,,Linn,Precinct 008,142
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 008,16
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 008,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 008,111
 Write In,U.S. House,4,DEM,Linn,Precinct 008,6
 Overvote,U.S. House,4,DEM,Linn,Precinct 008,0
@@ -412,7 +412,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 008,26
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 008,0
 David W Stauffer,Governor,,REP,Linn,Precinct 008,0
 Jeff Smith,Governor,,REP,Linn,Precinct 008,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 008,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 008,0
 Brett Hyland,Governor,,REP,Linn,Precinct 008,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 008,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 008,55
@@ -452,7 +452,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 008
 Write In,U.S. House,4,IND,Linn,Precinct 011,5
 Overvote,U.S. House,4,IND,Linn,Precinct 011,0
 Undervote,U.S. House,4,IND,Linn,Precinct 011,7
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 011,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 011,1
 Skye J Allen,Governor,,IND,Linn,Precinct 011,3
 Patrick Starnes,Governor,,IND,Linn,Precinct 011,1
 Write In,Governor,,IND,Linn,Precinct 011,5
@@ -476,7 +476,7 @@ Overvote,State House,17,IND,Linn,Precinct 011,
 Undervote,State House,17,IND,Linn,Precinct 011,
 ,Registered Voters,,,Linn,Precinct 011,249
 ,Ballots Cast,,,Linn,Precinct 011,111
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 011,14
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 011,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 011,93
 Write In,U.S. House,4,DEM,Linn,Precinct 011,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 011,0
@@ -524,7 +524,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 011,17
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 011,0
 David W Stauffer,Governor,,REP,Linn,Precinct 011,0
 Jeff Smith,Governor,,REP,Linn,Precinct 011,4
-Jack W Tacy ,Governor,,REP,Linn,Precinct 011,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 011,1
 Brett Hyland,Governor,,REP,Linn,Precinct 011,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 011,1
 Sam Carpenter,Governor,,REP,Linn,Precinct 011,27
@@ -564,7 +564,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 011
 Write In,U.S. House,4,IND,Linn,Precinct 014,5
 Overvote,U.S. House,4,IND,Linn,Precinct 014,0
 Undervote,U.S. House,4,IND,Linn,Precinct 014,10
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 014,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 014,2
 Skye J Allen,Governor,,IND,Linn,Precinct 014,5
 Patrick Starnes,Governor,,IND,Linn,Precinct 014,1
 Write In,Governor,,IND,Linn,Precinct 014,7
@@ -588,7 +588,7 @@ Overvote,State House,17,IND,Linn,Precinct 014,
 Undervote,State House,17,IND,Linn,Precinct 014,
 ,Registered Voters,,,Linn,Precinct 014,339
 ,Ballots Cast,,,Linn,Precinct 014,111
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 014,16
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 014,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 014,90
 Write In,U.S. House,4,DEM,Linn,Precinct 014,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 014,0
@@ -636,7 +636,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 014,10
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 014,0
 David W Stauffer,Governor,,REP,Linn,Precinct 014,0
 Jeff Smith,Governor,,REP,Linn,Precinct 014,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 014,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 014,1
 Brett Hyland,Governor,,REP,Linn,Precinct 014,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 014,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 014,32
@@ -676,7 +676,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 014
 Write In,U.S. House,4,IND,Linn,Precinct 015,1
 Overvote,U.S. House,4,IND,Linn,Precinct 015,0
 Undervote,U.S. House,4,IND,Linn,Precinct 015,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 015,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 015,0
 Skye J Allen,Governor,,IND,Linn,Precinct 015,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 015,2
 Write In,Governor,,IND,Linn,Precinct 015,1
@@ -700,7 +700,7 @@ Overvote,State House,17,IND,Linn,Precinct 015,
 Undervote,State House,17,IND,Linn,Precinct 015,
 ,Registered Voters,,,Linn,Precinct 015,110
 ,Ballots Cast,,,Linn,Precinct 015,30
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 015,1
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 015,1
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 015,27
 Write In,U.S. House,4,DEM,Linn,Precinct 015,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 015,0
@@ -748,7 +748,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 015,12
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 015,0
 David W Stauffer,Governor,,REP,Linn,Precinct 015,0
 Jeff Smith,Governor,,REP,Linn,Precinct 015,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 015,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 015,1
 Brett Hyland,Governor,,REP,Linn,Precinct 015,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 015,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 015,5
@@ -788,7 +788,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 015
 Write In,U.S. House,4,IND,Linn,Precinct 016,5
 Overvote,U.S. House,4,IND,Linn,Precinct 016,0
 Undervote,U.S. House,4,IND,Linn,Precinct 016,8
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 016,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 016,1
 Skye J Allen,Governor,,IND,Linn,Precinct 016,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 016,3
 Write In,Governor,,IND,Linn,Precinct 016,4
@@ -812,7 +812,7 @@ Overvote,State House,17,IND,Linn,Precinct 016,
 Undervote,State House,17,IND,Linn,Precinct 016,
 ,Registered Voters,,,Linn,Precinct 016,307
 ,Ballots Cast,,,Linn,Precinct 016,150
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 016,13
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 016,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 016,135
 Write In,U.S. House,4,DEM,Linn,Precinct 016,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 016,0
@@ -860,7 +860,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 016,26
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 016,1
 David W Stauffer,Governor,,REP,Linn,Precinct 016,1
 Jeff Smith,Governor,,REP,Linn,Precinct 016,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 016,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 016,0
 Brett Hyland,Governor,,REP,Linn,Precinct 016,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 016,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 016,25
@@ -900,7 +900,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 016
 Write In,U.S. House,4,IND,Linn,Precinct 018,12
 Overvote,U.S. House,4,IND,Linn,Precinct 018,0
 Undervote,U.S. House,4,IND,Linn,Precinct 018,34
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 018,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 018,0
 Skye J Allen,Governor,,IND,Linn,Precinct 018,4
 Patrick Starnes,Governor,,IND,Linn,Precinct 018,13
 Write In,Governor,,IND,Linn,Precinct 018,16
@@ -924,7 +924,7 @@ Overvote,State House,17,IND,Linn,Precinct 018,
 Undervote,State House,17,IND,Linn,Precinct 018,
 ,Registered Voters,,,Linn,Precinct 018,843
 ,Ballots Cast,,,Linn,Precinct 018,357
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 018,36
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 018,36
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 018,302
 Write In,U.S. House,4,DEM,Linn,Precinct 018,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 018,0
@@ -972,7 +972,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 018,91
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 018,1
 David W Stauffer,Governor,,REP,Linn,Precinct 018,2
 Jeff Smith,Governor,,REP,Linn,Precinct 018,6
-Jack W Tacy ,Governor,,REP,Linn,Precinct 018,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 018,1
 Brett Hyland,Governor,,REP,Linn,Precinct 018,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 018,10
 Sam Carpenter,Governor,,REP,Linn,Precinct 018,116
@@ -1012,7 +1012,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 018
 Write In,U.S. House,4,IND,Linn,Precinct 019,8
 Overvote,U.S. House,4,IND,Linn,Precinct 019,0
 Undervote,U.S. House,4,IND,Linn,Precinct 019,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 019,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 019,0
 Skye J Allen,Governor,,IND,Linn,Precinct 019,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 019,1
 Write In,Governor,,IND,Linn,Precinct 019,12
@@ -1036,7 +1036,7 @@ Overvote,State House,17,IND,Linn,Precinct 019,
 Undervote,State House,17,IND,Linn,Precinct 019,
 ,Registered Voters,,,Linn,Precinct 019,276
 ,Ballots Cast,,,Linn,Precinct 019,155
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 019,18
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 019,18
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 019,127
 Write In,U.S. House,4,DEM,Linn,Precinct 019,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 019,0
@@ -1084,7 +1084,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 019,52
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 019,2
 David W Stauffer,Governor,,REP,Linn,Precinct 019,2
 Jeff Smith,Governor,,REP,Linn,Precinct 019,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 019,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 019,1
 Brett Hyland,Governor,,REP,Linn,Precinct 019,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 019,5
 Sam Carpenter,Governor,,REP,Linn,Precinct 019,58
@@ -1124,7 +1124,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 019
 Write In,U.S. House,4,IND,Linn,Precinct 020,2
 Overvote,U.S. House,4,IND,Linn,Precinct 020,0
 Undervote,U.S. House,4,IND,Linn,Precinct 020,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 020,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 020,1
 Skye J Allen,Governor,,IND,Linn,Precinct 020,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 020,6
 Write In,Governor,,IND,Linn,Precinct 020,2
@@ -1148,7 +1148,7 @@ Overvote,State House,17,IND,Linn,Precinct 020,0
 Undervote,State House,17,IND,Linn,Precinct 020,8
 ,Registered Voters,,,Linn,Precinct 020,178
 ,Ballots Cast,,,Linn,Precinct 020,82
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 020,16
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 020,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 020,59
 Write In,U.S. House,4,DEM,Linn,Precinct 020,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 020,0
@@ -1196,7 +1196,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 020,39
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 020,0
 David W Stauffer,Governor,,REP,Linn,Precinct 020,2
 Jeff Smith,Governor,,REP,Linn,Precinct 020,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 020,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 020,0
 Brett Hyland,Governor,,REP,Linn,Precinct 020,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 020,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 020,58
@@ -1236,7 +1236,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 020
 Write In,U.S. House,4,IND,Linn,Precinct 021,3
 Overvote,U.S. House,4,IND,Linn,Precinct 021,0
 Undervote,U.S. House,4,IND,Linn,Precinct 021,2
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 021,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 021,0
 Skye J Allen,Governor,,IND,Linn,Precinct 021,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 021,0
 Write In,Governor,,IND,Linn,Precinct 021,3
@@ -1260,7 +1260,7 @@ Overvote,State House,17,IND,Linn,Precinct 021,
 Undervote,State House,17,IND,Linn,Precinct 021,
 ,Registered Voters,,,Linn,Precinct 021,64
 ,Ballots Cast,,,Linn,Precinct 021,36
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 021,8
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 021,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 021,27
 Write In,U.S. House,4,DEM,Linn,Precinct 021,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 021,0
@@ -1308,7 +1308,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 021,14
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 021,0
 David W Stauffer,Governor,,REP,Linn,Precinct 021,1
 Jeff Smith,Governor,,REP,Linn,Precinct 021,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 021,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 021,0
 Brett Hyland,Governor,,REP,Linn,Precinct 021,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 021,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 021,35
@@ -1348,7 +1348,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 021
 Write In,U.S. House,4,IND,Linn,Precinct 022,2
 Overvote,U.S. House,4,IND,Linn,Precinct 022,0
 Undervote,U.S. House,4,IND,Linn,Precinct 022,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 022,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 022,0
 Skye J Allen,Governor,,IND,Linn,Precinct 022,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 022,0
 Write In,Governor,,IND,Linn,Precinct 022,1
@@ -1372,7 +1372,7 @@ Overvote,State House,17,IND,Linn,Precinct 022,
 Undervote,State House,17,IND,Linn,Precinct 022,
 ,Registered Voters,,,Linn,Precinct 022,19
 ,Ballots Cast,,,Linn,Precinct 022,7
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 022,2
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 022,2
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 022,5
 Write In,U.S. House,4,DEM,Linn,Precinct 022,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 022,0
@@ -1420,7 +1420,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 022,8
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 022,0
 David W Stauffer,Governor,,REP,Linn,Precinct 022,0
 Jeff Smith,Governor,,REP,Linn,Precinct 022,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 022,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 022,0
 Brett Hyland,Governor,,REP,Linn,Precinct 022,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 022,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 022,11
@@ -1460,7 +1460,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 022
 Write In,U.S. House,4,IND,Linn,Precinct 023,4
 Overvote,U.S. House,4,IND,Linn,Precinct 023,0
 Undervote,U.S. House,4,IND,Linn,Precinct 023,5
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 023,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 023,0
 Skye J Allen,Governor,,IND,Linn,Precinct 023,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 023,1
 Write In,Governor,,IND,Linn,Precinct 023,8
@@ -1484,7 +1484,7 @@ Overvote,State House,17,IND,Linn,Precinct 023,
 Undervote,State House,17,IND,Linn,Precinct 023,
 ,Registered Voters,,,Linn,Precinct 023,197
 ,Ballots Cast,,,Linn,Precinct 023,85
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 023,17
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 023,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 023,68
 Write In,U.S. House,4,DEM,Linn,Precinct 023,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 023,0
@@ -1532,7 +1532,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 023,50
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 023,0
 David W Stauffer,Governor,,REP,Linn,Precinct 023,0
 Jeff Smith,Governor,,REP,Linn,Precinct 023,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 023,5
+Jack W Tacy,Governor,,REP,Linn,Precinct 023,5
 Brett Hyland,Governor,,REP,Linn,Precinct 023,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 023,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 023,64
@@ -1572,7 +1572,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 023
 Write In,U.S. House,4,IND,Linn,Precinct 025,5
 Overvote,U.S. House,4,IND,Linn,Precinct 025,0
 Undervote,U.S. House,4,IND,Linn,Precinct 025,14
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 025,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 025,1
 Skye J Allen,Governor,,IND,Linn,Precinct 025,5
 Patrick Starnes,Governor,,IND,Linn,Precinct 025,3
 Write In,Governor,,IND,Linn,Precinct 025,6
@@ -1596,7 +1596,7 @@ Overvote,State House,17,IND,Linn,Precinct 025,0
 Undervote,State House,17,IND,Linn,Precinct 025,16
 ,Registered Voters,,,Linn,Precinct 025,291
 ,Ballots Cast,,,Linn,Precinct 025,111
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 025,11
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 025,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 025,97
 Write In,U.S. House,4,DEM,Linn,Precinct 025,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 025,0
@@ -1644,7 +1644,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 025,36
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 025,0
 David W Stauffer,Governor,,REP,Linn,Precinct 025,0
 Jeff Smith,Governor,,REP,Linn,Precinct 025,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 025,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 025,0
 Brett Hyland,Governor,,REP,Linn,Precinct 025,4
 Bruce Cuff,Governor,,REP,Linn,Precinct 025,11
 Sam Carpenter,Governor,,REP,Linn,Precinct 025,53
@@ -1684,7 +1684,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 025
 Write In,U.S. House,4,IND,Linn,Precinct 026,0
 Overvote,U.S. House,4,IND,Linn,Precinct 026,0
 Undervote,U.S. House,4,IND,Linn,Precinct 026,2
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 026,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 026,0
 Skye J Allen,Governor,,IND,Linn,Precinct 026,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 026,0
 Write In,Governor,,IND,Linn,Precinct 026,1
@@ -1708,7 +1708,7 @@ Overvote,State House,17,IND,Linn,Precinct 026,
 Undervote,State House,17,IND,Linn,Precinct 026,
 ,Registered Voters,,,Linn,Precinct 026,65
 ,Ballots Cast,,,Linn,Precinct 026,43
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 026,6
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 026,6
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 026,33
 Write In,U.S. House,4,DEM,Linn,Precinct 026,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 026,0
@@ -1756,7 +1756,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 026,12
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 026,0
 David W Stauffer,Governor,,REP,Linn,Precinct 026,0
 Jeff Smith,Governor,,REP,Linn,Precinct 026,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 026,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 026,0
 Brett Hyland,Governor,,REP,Linn,Precinct 026,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 026,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 026,19
@@ -1796,7 +1796,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 026
 Write In,U.S. House,4,IND,Linn,Precinct 027,1
 Overvote,U.S. House,4,IND,Linn,Precinct 027,0
 Undervote,U.S. House,4,IND,Linn,Precinct 027,7
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 027,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 027,0
 Skye J Allen,Governor,,IND,Linn,Precinct 027,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 027,3
 Write In,Governor,,IND,Linn,Precinct 027,4
@@ -1820,7 +1820,7 @@ Overvote,State House,17,IND,Linn,Precinct 027,
 Undervote,State House,17,IND,Linn,Precinct 027,
 ,Registered Voters,,,Linn,Precinct 027,169
 ,Ballots Cast,,,Linn,Precinct 027,95
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 027,11
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 027,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 027,78
 Write In,U.S. House,4,DEM,Linn,Precinct 027,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 027,0
@@ -1868,7 +1868,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 027,28
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 027,0
 David W Stauffer,Governor,,REP,Linn,Precinct 027,1
 Jeff Smith,Governor,,REP,Linn,Precinct 027,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 027,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 027,1
 Brett Hyland,Governor,,REP,Linn,Precinct 027,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 027,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 027,41
@@ -1908,7 +1908,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 027
 Write In,U.S. House,4,IND,Linn,Precinct 028,3
 Overvote,U.S. House,4,IND,Linn,Precinct 028,0
 Undervote,U.S. House,4,IND,Linn,Precinct 028,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 028,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 028,0
 Skye J Allen,Governor,,IND,Linn,Precinct 028,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 028,0
 Write In,Governor,,IND,Linn,Precinct 028,1
@@ -1932,7 +1932,7 @@ Overvote,State House,17,IND,Linn,Precinct 028,
 Undervote,State House,17,IND,Linn,Precinct 028,
 ,Registered Voters,,,Linn,Precinct 028,38
 ,Ballots Cast,,,Linn,Precinct 028,19
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 028,1
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 028,1
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 028,17
 Write In,U.S. House,4,DEM,Linn,Precinct 028,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 028,0
@@ -1980,7 +1980,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 028,8
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 028,0
 David W Stauffer,Governor,,REP,Linn,Precinct 028,0
 Jeff Smith,Governor,,REP,Linn,Precinct 028,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 028,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 028,0
 Brett Hyland,Governor,,REP,Linn,Precinct 028,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 028,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 028,25
@@ -2020,7 +2020,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 028
 Write In,U.S. House,4,IND,Linn,Precinct 029,23
 Overvote,U.S. House,4,IND,Linn,Precinct 029,4
 Undervote,U.S. House,4,IND,Linn,Precinct 029,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 029,4
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 029,4
 Skye J Allen,Governor,,IND,Linn,Precinct 029,4
 Patrick Starnes,Governor,,IND,Linn,Precinct 029,7
 Write In,Governor,,IND,Linn,Precinct 029,10
@@ -2044,7 +2044,7 @@ Overvote,State House,17,IND,Linn,Precinct 029,
 Undervote,State House,17,IND,Linn,Precinct 029,
 ,Registered Voters,,,Linn,Precinct 029,453
 ,Ballots Cast,,,Linn,Precinct 029,213
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 029,29
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 029,29
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 029,166
 Write In,U.S. House,4,DEM,Linn,Precinct 029,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 029,0
@@ -2092,7 +2092,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 029,83
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 029,7
 David W Stauffer,Governor,,REP,Linn,Precinct 029,3
 Jeff Smith,Governor,,REP,Linn,Precinct 029,8
-Jack W Tacy ,Governor,,REP,Linn,Precinct 029,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 029,1
 Brett Hyland,Governor,,REP,Linn,Precinct 029,4
 Bruce Cuff,Governor,,REP,Linn,Precinct 029,7
 Sam Carpenter,Governor,,REP,Linn,Precinct 029,150
@@ -2132,7 +2132,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 029
 Write In,U.S. House,4,IND,Linn,Precinct 030,11
 Overvote,U.S. House,4,IND,Linn,Precinct 030,0
 Undervote,U.S. House,4,IND,Linn,Precinct 030,1
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 030,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 030,0
 Skye J Allen,Governor,,IND,Linn,Precinct 030,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 030,1
 Write In,Governor,,IND,Linn,Precinct 030,10
@@ -2156,7 +2156,7 @@ Overvote,State House,17,IND,Linn,Precinct 030,
 Undervote,State House,17,IND,Linn,Precinct 030,
 ,Registered Voters,,,Linn,Precinct 030,31
 ,Ballots Cast,,,Linn,Precinct 030,16
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 030,3
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 030,3
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 030,12
 Write In,U.S. House,4,DEM,Linn,Precinct 030,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 030,0
@@ -2204,7 +2204,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 030,13
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 030,0
 David W Stauffer,Governor,,REP,Linn,Precinct 030,0
 Jeff Smith,Governor,,REP,Linn,Precinct 030,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 030,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 030,0
 Brett Hyland,Governor,,REP,Linn,Precinct 030,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 030,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 030,24
@@ -2244,7 +2244,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 030
 Write In,U.S. House,4,IND,Linn,Precinct 031,6
 Overvote,U.S. House,4,IND,Linn,Precinct 031,0
 Undervote,U.S. House,4,IND,Linn,Precinct 031,7
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 031,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 031,0
 Skye J Allen,Governor,,IND,Linn,Precinct 031,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 031,4
 Write In,Governor,,IND,Linn,Precinct 031,6
@@ -2268,7 +2268,7 @@ Overvote,State House,17,IND,Linn,Precinct 031,
 Undervote,State House,17,IND,Linn,Precinct 031,
 ,Registered Voters,,,Linn,Precinct 031,158
 ,Ballots Cast,,,Linn,Precinct 031,51
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 031,8
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 031,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 031,37
 Write In,U.S. House,4,DEM,Linn,Precinct 031,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 031,0
@@ -2316,7 +2316,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 031,21
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 031,0
 David W Stauffer,Governor,,REP,Linn,Precinct 031,1
 Jeff Smith,Governor,,REP,Linn,Precinct 031,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 031,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 031,0
 Brett Hyland,Governor,,REP,Linn,Precinct 031,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 031,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 031,63
@@ -2356,7 +2356,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 031
 Write In,U.S. House,4,IND,Linn,Precinct 032,1
 Overvote,U.S. House,4,IND,Linn,Precinct 032,0
 Undervote,U.S. House,4,IND,Linn,Precinct 032,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 032,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 032,1
 Skye J Allen,Governor,,IND,Linn,Precinct 032,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 032,6
 Write In,Governor,,IND,Linn,Precinct 032,2
@@ -2380,7 +2380,7 @@ Overvote,State House,17,IND,Linn,Precinct 032,0
 Undervote,State House,17,IND,Linn,Precinct 032,10
 ,Registered Voters,,,Linn,Precinct 032,162
 ,Ballots Cast,,,Linn,Precinct 032,79
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 032,13
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 032,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 032,61
 Write In,U.S. House,4,DEM,Linn,Precinct 032,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 032,0
@@ -2428,7 +2428,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 032,47
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 032,0
 David W Stauffer,Governor,,REP,Linn,Precinct 032,1
 Jeff Smith,Governor,,REP,Linn,Precinct 032,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 032,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 032,0
 Brett Hyland,Governor,,REP,Linn,Precinct 032,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 032,22
 Sam Carpenter,Governor,,REP,Linn,Precinct 032,59
@@ -2468,7 +2468,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 032
 Write In,U.S. House,4,IND,Linn,Precinct 033,0
 Overvote,U.S. House,4,IND,Linn,Precinct 033,0
 Undervote,U.S. House,4,IND,Linn,Precinct 033,2
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 033,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 033,0
 Skye J Allen,Governor,,IND,Linn,Precinct 033,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 033,0
 Write In,Governor,,IND,Linn,Precinct 033,0
@@ -2492,7 +2492,7 @@ Overvote,State House,17,IND,Linn,Precinct 033,0
 Undervote,State House,17,IND,Linn,Precinct 033,2
 ,Registered Voters,,,Linn,Precinct 033,17
 ,Ballots Cast,,,Linn,Precinct 033,6
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 033,2
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 033,2
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 033,4
 Write In,U.S. House,4,DEM,Linn,Precinct 033,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 033,0
@@ -2540,7 +2540,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 033,4
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 033,0
 David W Stauffer,Governor,,REP,Linn,Precinct 033,0
 Jeff Smith,Governor,,REP,Linn,Precinct 033,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 033,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 033,0
 Brett Hyland,Governor,,REP,Linn,Precinct 033,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 033,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 033,5
@@ -2580,7 +2580,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 033
 Write In,U.S. House,4,IND,Linn,Precinct 034,2
 Overvote,U.S. House,4,IND,Linn,Precinct 034,0
 Undervote,U.S. House,4,IND,Linn,Precinct 034,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 034,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 034,1
 Skye J Allen,Governor,,IND,Linn,Precinct 034,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 034,2
 Write In,Governor,,IND,Linn,Precinct 034,2
@@ -2604,7 +2604,7 @@ Overvote,State House,17,IND,Linn,Precinct 034,
 Undervote,State House,17,IND,Linn,Precinct 034,
 ,Registered Voters,,,Linn,Precinct 034,91
 ,Ballots Cast,,,Linn,Precinct 034,36
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 034,13
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 034,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 034,21
 Write In,U.S. House,4,DEM,Linn,Precinct 034,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 034,0
@@ -2652,7 +2652,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 034,30
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 034,1
 David W Stauffer,Governor,,REP,Linn,Precinct 034,0
 Jeff Smith,Governor,,REP,Linn,Precinct 034,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 034,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 034,1
 Brett Hyland,Governor,,REP,Linn,Precinct 034,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 034,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 034,33
@@ -2692,7 +2692,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 034
 Write In,U.S. House,4,IND,Linn,Precinct 035,13
 Overvote,U.S. House,4,IND,Linn,Precinct 035,0
 Undervote,U.S. House,4,IND,Linn,Precinct 035,16
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 035,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 035,1
 Skye J Allen,Governor,,IND,Linn,Precinct 035,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 035,5
 Write In,Governor,,IND,Linn,Precinct 035,16
@@ -2716,7 +2716,7 @@ Overvote,State House,17,IND,Linn,Precinct 035,
 Undervote,State House,17,IND,Linn,Precinct 035,
 ,Registered Voters,,,Linn,Precinct 035,401
 ,Ballots Cast,,,Linn,Precinct 035,189
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 035,26
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 035,26
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 035,151
 Write In,U.S. House,4,DEM,Linn,Precinct 035,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 035,0
@@ -2764,7 +2764,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 035,89
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 035,1
 David W Stauffer,Governor,,REP,Linn,Precinct 035,1
 Jeff Smith,Governor,,REP,Linn,Precinct 035,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 035,2
+Jack W Tacy,Governor,,REP,Linn,Precinct 035,2
 Brett Hyland,Governor,,REP,Linn,Precinct 035,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 035,7
 Sam Carpenter,Governor,,REP,Linn,Precinct 035,100
@@ -2804,7 +2804,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 035
 Write In,U.S. House,4,IND,Linn,Precinct 036,9
 Overvote,U.S. House,4,IND,Linn,Precinct 036,0
 Undervote,U.S. House,4,IND,Linn,Precinct 036,7
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 036,3
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 036,3
 Skye J Allen,Governor,,IND,Linn,Precinct 036,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 036,3
 Write In,Governor,,IND,Linn,Precinct 036,5
@@ -2828,7 +2828,7 @@ Overvote,State House,17,IND,Linn,Precinct 036,
 Undervote,State House,17,IND,Linn,Precinct 036,
 ,Registered Voters,,,Linn,Precinct 036,383
 ,Ballots Cast,,,Linn,Precinct 036,156
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 036,17
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 036,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 036,134
 Write In,U.S. House,4,DEM,Linn,Precinct 036,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 036,0
@@ -2876,7 +2876,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 036,39
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 036,0
 David W Stauffer,Governor,,REP,Linn,Precinct 036,0
 Jeff Smith,Governor,,REP,Linn,Precinct 036,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 036,2
+Jack W Tacy,Governor,,REP,Linn,Precinct 036,2
 Brett Hyland,Governor,,REP,Linn,Precinct 036,2
 Bruce Cuff,Governor,,REP,Linn,Precinct 036,5
 Sam Carpenter,Governor,,REP,Linn,Precinct 036,71
@@ -2916,7 +2916,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 036
 Write In,U.S. House,4,IND,Linn,Precinct 037,5
 Overvote,U.S. House,4,IND,Linn,Precinct 037,0
 Undervote,U.S. House,4,IND,Linn,Precinct 037,8
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 037,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 037,1
 Skye J Allen,Governor,,IND,Linn,Precinct 037,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 037,5
 Write In,Governor,,IND,Linn,Precinct 037,3
@@ -2940,7 +2940,7 @@ Overvote,State House,17,IND,Linn,Precinct 037,0
 Undervote,State House,17,IND,Linn,Precinct 037,10
 ,Registered Voters,,,Linn,Precinct 037,384
 ,Ballots Cast,,,Linn,Precinct 037,114
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 037,14
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 037,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 037,94
 Write In,U.S. House,4,DEM,Linn,Precinct 037,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 037,0
@@ -2988,7 +2988,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 037,42
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 037,1
 David W Stauffer,Governor,,REP,Linn,Precinct 037,1
 Jeff Smith,Governor,,REP,Linn,Precinct 037,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 037,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 037,0
 Brett Hyland,Governor,,REP,Linn,Precinct 037,2
 Bruce Cuff,Governor,,REP,Linn,Precinct 037,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 037,44
@@ -3028,7 +3028,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 037
 Write In,U.S. House,4,IND,Linn,Precinct 038,7
 Overvote,U.S. House,4,IND,Linn,Precinct 038,0
 Undervote,U.S. House,4,IND,Linn,Precinct 038,6
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 038,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 038,2
 Skye J Allen,Governor,,IND,Linn,Precinct 038,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 038,1
 Write In,Governor,,IND,Linn,Precinct 038,7
@@ -3052,7 +3052,7 @@ Overvote,State House,17,IND,Linn,Precinct 038,0
 Undervote,State House,17,IND,Linn,Precinct 038,7
 ,Registered Voters,,,Linn,Precinct 038,385
 ,Ballots Cast,,,Linn,Precinct 038,109
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 038,14
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 038,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 038,91
 Write In,U.S. House,4,DEM,Linn,Precinct 038,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 038,0
@@ -3100,7 +3100,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 038,37
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 038,0
 David W Stauffer,Governor,,REP,Linn,Precinct 038,0
 Jeff Smith,Governor,,REP,Linn,Precinct 038,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 038,2
+Jack W Tacy,Governor,,REP,Linn,Precinct 038,2
 Brett Hyland,Governor,,REP,Linn,Precinct 038,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 038,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 038,51
@@ -3140,7 +3140,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 038
 Write In,U.S. House,4,IND,Linn,Precinct 039,4
 Overvote,U.S. House,4,IND,Linn,Precinct 039,0
 Undervote,U.S. House,4,IND,Linn,Precinct 039,7
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 039,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 039,1
 Skye J Allen,Governor,,IND,Linn,Precinct 039,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 039,3
 Write In,Governor,,IND,Linn,Precinct 039,2
@@ -3164,7 +3164,7 @@ Overvote,State House,17,IND,Linn,Precinct 039,0
 Undervote,State House,17,IND,Linn,Precinct 039,9
 ,Registered Voters,,,Linn,Precinct 039,246
 ,Ballots Cast,,,Linn,Precinct 039,97
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 039,8
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 039,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 039,87
 Write In,U.S. House,4,DEM,Linn,Precinct 039,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 039,0
@@ -3212,7 +3212,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 039,20
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 039,0
 David W Stauffer,Governor,,REP,Linn,Precinct 039,1
 Jeff Smith,Governor,,REP,Linn,Precinct 039,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 039,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 039,0
 Brett Hyland,Governor,,REP,Linn,Precinct 039,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 039,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 039,36
@@ -3252,7 +3252,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 039
 Write In,U.S. House,4,IND,Linn,Precinct 041,5
 Overvote,U.S. House,4,IND,Linn,Precinct 041,0
 Undervote,U.S. House,4,IND,Linn,Precinct 041,7
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 041,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 041,1
 Skye J Allen,Governor,,IND,Linn,Precinct 041,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 041,2
 Write In,Governor,,IND,Linn,Precinct 041,5
@@ -3276,7 +3276,7 @@ Overvote,State House,17,IND,Linn,Precinct 041,0
 Undervote,State House,17,IND,Linn,Precinct 041,7
 ,Registered Voters,,,Linn,Precinct 041,210
 ,Ballots Cast,,,Linn,Precinct 041,81
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 041,17
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 041,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 041,60
 Write In,U.S. House,4,DEM,Linn,Precinct 041,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 041,0
@@ -3324,7 +3324,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 041,22
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 041,0
 David W Stauffer,Governor,,REP,Linn,Precinct 041,0
 Jeff Smith,Governor,,REP,Linn,Precinct 041,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 041,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 041,1
 Brett Hyland,Governor,,REP,Linn,Precinct 041,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 041,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 041,24
@@ -3364,7 +3364,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 041
 Write In,U.S. House,4,IND,Linn,Precinct 042,10
 Overvote,U.S. House,4,IND,Linn,Precinct 042,0
 Undervote,U.S. House,4,IND,Linn,Precinct 042,12
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 042,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 042,1
 Skye J Allen,Governor,,IND,Linn,Precinct 042,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 042,4
 Write In,Governor,,IND,Linn,Precinct 042,6
@@ -3388,7 +3388,7 @@ Overvote,State House,17,IND,Linn,Precinct 042,0
 Undervote,State House,17,IND,Linn,Precinct 042,14
 ,Registered Voters,,,Linn,Precinct 042,168
 ,Ballots Cast,,,Linn,Precinct 042,68
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 042,17
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 042,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 042,46
 Write In,U.S. House,4,DEM,Linn,Precinct 042,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 042,0
@@ -3436,7 +3436,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 042,46
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 042,1
 David W Stauffer,Governor,,REP,Linn,Precinct 042,0
 Jeff Smith,Governor,,REP,Linn,Precinct 042,6
-Jack W Tacy ,Governor,,REP,Linn,Precinct 042,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 042,0
 Brett Hyland,Governor,,REP,Linn,Precinct 042,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 042,9
 Sam Carpenter,Governor,,REP,Linn,Precinct 042,35
@@ -3476,7 +3476,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 042
 Write In,U.S. House,4,IND,Linn,Precinct 043,6
 Overvote,U.S. House,4,IND,Linn,Precinct 043,0
 Undervote,U.S. House,4,IND,Linn,Precinct 043,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 043,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 043,1
 Skye J Allen,Governor,,IND,Linn,Precinct 043,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 043,2
 Write In,Governor,,IND,Linn,Precinct 043,10
@@ -3500,7 +3500,7 @@ Overvote,State House,17,IND,Linn,Precinct 043,0
 Undervote,State House,17,IND,Linn,Precinct 043,8
 ,Registered Voters,,,Linn,Precinct 043,245
 ,Ballots Cast,,,Linn,Precinct 043,89
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 043,18
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 043,18
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 043,69
 Write In,U.S. House,4,DEM,Linn,Precinct 043,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 043,0
@@ -3548,7 +3548,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 043,39
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 043,0
 David W Stauffer,Governor,,REP,Linn,Precinct 043,0
 Jeff Smith,Governor,,REP,Linn,Precinct 043,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 043,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 043,0
 Brett Hyland,Governor,,REP,Linn,Precinct 043,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 043,12
 Sam Carpenter,Governor,,REP,Linn,Precinct 043,31
@@ -3588,7 +3588,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 043
 Write In,U.S. House,4,IND,Linn,Precinct 044,4
 Overvote,U.S. House,4,IND,Linn,Precinct 044,0
 Undervote,U.S. House,4,IND,Linn,Precinct 044,11
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 044,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 044,1
 Skye J Allen,Governor,,IND,Linn,Precinct 044,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 044,0
 Write In,Governor,,IND,Linn,Precinct 044,5
@@ -3612,7 +3612,7 @@ Overvote,State House,17,IND,Linn,Precinct 044,
 Undervote,State House,17,IND,Linn,Precinct 044,
 ,Registered Voters,,,Linn,Precinct 044,361
 ,Ballots Cast,,,Linn,Precinct 044,201
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 044,20
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 044,20
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 044,177
 Write In,U.S. House,4,DEM,Linn,Precinct 044,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 044,0
@@ -3660,7 +3660,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 044,42
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 044,1
 David W Stauffer,Governor,,REP,Linn,Precinct 044,1
 Jeff Smith,Governor,,REP,Linn,Precinct 044,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 044,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 044,0
 Brett Hyland,Governor,,REP,Linn,Precinct 044,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 044,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 044,29
@@ -3700,7 +3700,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 044
 Write In,U.S. House,4,IND,Linn,Precinct 045,3
 Overvote,U.S. House,4,IND,Linn,Precinct 045,0
 Undervote,U.S. House,4,IND,Linn,Precinct 045,10
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 045,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 045,1
 Skye J Allen,Governor,,IND,Linn,Precinct 045,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 045,3
 Write In,Governor,,IND,Linn,Precinct 045,8
@@ -3724,7 +3724,7 @@ Overvote,State House,17,IND,Linn,Precinct 045,0
 Undervote,State House,17,IND,Linn,Precinct 045,9
 ,Registered Voters,,,Linn,Precinct 045,226
 ,Ballots Cast,,,Linn,Precinct 045,99
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 045,25
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 045,25
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 045,61
 Write In,U.S. House,4,DEM,Linn,Precinct 045,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 045,0
@@ -3772,7 +3772,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 045,46
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 045,0
 David W Stauffer,Governor,,REP,Linn,Precinct 045,0
 Jeff Smith,Governor,,REP,Linn,Precinct 045,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 045,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 045,0
 Brett Hyland,Governor,,REP,Linn,Precinct 045,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 045,6
 Sam Carpenter,Governor,,REP,Linn,Precinct 045,85
@@ -3812,7 +3812,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 045
 Write In,U.S. House,4,IND,Linn,Precinct 046,9
 Overvote,U.S. House,4,IND,Linn,Precinct 046,0
 Undervote,U.S. House,4,IND,Linn,Precinct 046,24
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 046,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 046,0
 Skye J Allen,Governor,,IND,Linn,Precinct 046,4
 Patrick Starnes,Governor,,IND,Linn,Precinct 046,4
 Write In,Governor,,IND,Linn,Precinct 046,12
@@ -3836,7 +3836,7 @@ Overvote,State House,17,IND,Linn,Precinct 046,0
 Undervote,State House,17,IND,Linn,Precinct 046,25
 ,Registered Voters,,,Linn,Precinct 046,315
 ,Ballots Cast,,,Linn,Precinct 046,141
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 046,25
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 046,25
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 046,107
 Write In,U.S. House,4,DEM,Linn,Precinct 046,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 046,0
@@ -3884,7 +3884,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 046,48
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 046,0
 David W Stauffer,Governor,,REP,Linn,Precinct 046,1
 Jeff Smith,Governor,,REP,Linn,Precinct 046,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 046,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 046,0
 Brett Hyland,Governor,,REP,Linn,Precinct 046,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 046,14
 Sam Carpenter,Governor,,REP,Linn,Precinct 046,88
@@ -3924,7 +3924,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 046
 Write In,U.S. House,4,IND,Linn,Precinct 047,3
 Overvote,U.S. House,4,IND,Linn,Precinct 047,0
 Undervote,U.S. House,4,IND,Linn,Precinct 047,3
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 047,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 047,0
 Skye J Allen,Governor,,IND,Linn,Precinct 047,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 047,2
 Write In,Governor,,IND,Linn,Precinct 047,2
@@ -3948,7 +3948,7 @@ Overvote,State House,17,IND,Linn,Precinct 047,
 Undervote,State House,17,IND,Linn,Precinct 047,
 ,Registered Voters,,,Linn,Precinct 047,86
 ,Ballots Cast,,,Linn,Precinct 047,47
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 047,3
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 047,3
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 047,43
 Write In,U.S. House,4,DEM,Linn,Precinct 047,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 047,0
@@ -3996,7 +3996,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 047,10
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 047,0
 David W Stauffer,Governor,,REP,Linn,Precinct 047,0
 Jeff Smith,Governor,,REP,Linn,Precinct 047,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 047,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 047,1
 Brett Hyland,Governor,,REP,Linn,Precinct 047,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 047,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 047,11
@@ -4036,7 +4036,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 047
 Write In,U.S. House,4,IND,Linn,Precinct 048,16
 Overvote,U.S. House,4,IND,Linn,Precinct 048,0
 Undervote,U.S. House,4,IND,Linn,Precinct 048,18
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 048,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 048,2
 Skye J Allen,Governor,,IND,Linn,Precinct 048,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 048,3
 Write In,Governor,,IND,Linn,Precinct 048,21
@@ -4060,7 +4060,7 @@ Overvote,State House,17,IND,Linn,Precinct 048,
 Undervote,State House,17,IND,Linn,Precinct 048,
 ,Registered Voters,,,Linn,Precinct 048,416
 ,Ballots Cast,,,Linn,Precinct 048,236
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 048,28
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 048,28
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 048,195
 Write In,U.S. House,4,DEM,Linn,Precinct 048,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 048,0
@@ -4108,7 +4108,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 048,37
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 048,0
 David W Stauffer,Governor,,REP,Linn,Precinct 048,1
 Jeff Smith,Governor,,REP,Linn,Precinct 048,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 048,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 048,0
 Brett Hyland,Governor,,REP,Linn,Precinct 048,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 048,8
 Sam Carpenter,Governor,,REP,Linn,Precinct 048,75
@@ -4148,7 +4148,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 048
 Write In,U.S. House,4,IND,Linn,Precinct 049,0
 Overvote,U.S. House,4,IND,Linn,Precinct 049,0
 Undervote,U.S. House,4,IND,Linn,Precinct 049,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 049,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 049,0
 Skye J Allen,Governor,,IND,Linn,Precinct 049,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 049,0
 Write In,Governor,,IND,Linn,Precinct 049,0
@@ -4172,7 +4172,7 @@ Overvote,State House,17,IND,Linn,Precinct 049,0
 Undervote,State House,17,IND,Linn,Precinct 049,0
 ,Registered Voters,,,Linn,Precinct 049,1
 ,Ballots Cast,,,Linn,Precinct 049,0
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 049,0
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 049,0
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 049,0
 Write In,U.S. House,4,DEM,Linn,Precinct 049,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 049,0
@@ -4220,7 +4220,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 049,0
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 049,0
 David W Stauffer,Governor,,REP,Linn,Precinct 049,0
 Jeff Smith,Governor,,REP,Linn,Precinct 049,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 049,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 049,0
 Brett Hyland,Governor,,REP,Linn,Precinct 049,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 049,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 049,0
@@ -4260,7 +4260,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 049
 Write In,U.S. House,4,IND,Linn,Precinct 050,5
 Overvote,U.S. House,4,IND,Linn,Precinct 050,0
 Undervote,U.S. House,4,IND,Linn,Precinct 050,5
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 050,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 050,2
 Skye J Allen,Governor,,IND,Linn,Precinct 050,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 050,2
 Write In,Governor,,IND,Linn,Precinct 050,4
@@ -4284,7 +4284,7 @@ Overvote,State House,17,IND,Linn,Precinct 050,0
 Undervote,State House,17,IND,Linn,Precinct 050,4
 ,Registered Voters,,,Linn,Precinct 050,122
 ,Ballots Cast,,,Linn,Precinct 050,48
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 050,11
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 050,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 050,31
 Write In,U.S. House,4,DEM,Linn,Precinct 050,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 050,0
@@ -4332,7 +4332,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 050,29
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 050,1
 David W Stauffer,Governor,,REP,Linn,Precinct 050,0
 Jeff Smith,Governor,,REP,Linn,Precinct 050,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 050,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 050,0
 Brett Hyland,Governor,,REP,Linn,Precinct 050,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 050,1
 Sam Carpenter,Governor,,REP,Linn,Precinct 050,38
@@ -4372,7 +4372,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 050
 Write In,U.S. House,4,IND,Linn,Precinct 051,1
 Overvote,U.S. House,4,IND,Linn,Precinct 051,0
 Undervote,U.S. House,4,IND,Linn,Precinct 051,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 051,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 051,0
 Skye J Allen,Governor,,IND,Linn,Precinct 051,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 051,0
 Write In,Governor,,IND,Linn,Precinct 051,1
@@ -4396,7 +4396,7 @@ Overvote,State House,17,IND,Linn,Precinct 051,
 Undervote,State House,17,IND,Linn,Precinct 051,
 ,Registered Voters,,,Linn,Precinct 051,34
 ,Ballots Cast,,,Linn,Precinct 051,11
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 051,4
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 051,4
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 051,6
 Write In,U.S. House,4,DEM,Linn,Precinct 051,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 051,0
@@ -4444,7 +4444,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 051,17
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 051,0
 David W Stauffer,Governor,,REP,Linn,Precinct 051,0
 Jeff Smith,Governor,,REP,Linn,Precinct 051,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 051,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 051,1
 Brett Hyland,Governor,,REP,Linn,Precinct 051,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 051,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 051,26
@@ -4484,7 +4484,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 051
 Write In,U.S. House,4,IND,Linn,Precinct 052,1
 Overvote,U.S. House,4,IND,Linn,Precinct 052,0
 Undervote,U.S. House,4,IND,Linn,Precinct 052,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 052,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 052,0
 Skye J Allen,Governor,,IND,Linn,Precinct 052,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 052,0
 Write In,Governor,,IND,Linn,Precinct 052,4
@@ -4508,7 +4508,7 @@ Overvote,State House,17,IND,Linn,Precinct 052,0
 Undervote,State House,17,IND,Linn,Precinct 052,4
 ,Registered Voters,,,Linn,Precinct 052,136
 ,Ballots Cast,,,Linn,Precinct 052,52
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 052,11
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 052,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 052,38
 Write In,U.S. House,4,DEM,Linn,Precinct 052,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 052,0
@@ -4556,7 +4556,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 052,13
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 052,0
 David W Stauffer,Governor,,REP,Linn,Precinct 052,0
 Jeff Smith,Governor,,REP,Linn,Precinct 052,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 052,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 052,0
 Brett Hyland,Governor,,REP,Linn,Precinct 052,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 052,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 052,36
@@ -4596,7 +4596,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 052
 Write In,U.S. House,4,IND,Linn,Precinct 053,3
 Overvote,U.S. House,4,IND,Linn,Precinct 053,0
 Undervote,U.S. House,4,IND,Linn,Precinct 053,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 053,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 053,0
 Skye J Allen,Governor,,IND,Linn,Precinct 053,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 053,1
 Write In,Governor,,IND,Linn,Precinct 053,4
@@ -4620,7 +4620,7 @@ Overvote,State House,17,IND,Linn,Precinct 053,0
 Undervote,State House,17,IND,Linn,Precinct 053,3
 ,Registered Voters,,,Linn,Precinct 053,211
 ,Ballots Cast,,,Linn,Precinct 053,106
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 053,26
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 053,26
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 053,74
 Write In,U.S. House,4,DEM,Linn,Precinct 053,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 053,0
@@ -4668,7 +4668,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 053,47
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 053,2
 David W Stauffer,Governor,,REP,Linn,Precinct 053,0
 Jeff Smith,Governor,,REP,Linn,Precinct 053,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 053,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 053,0
 Brett Hyland,Governor,,REP,Linn,Precinct 053,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 053,6
 Sam Carpenter,Governor,,REP,Linn,Precinct 053,63
@@ -4708,7 +4708,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 053
 Write In,U.S. House,4,IND,Linn,Precinct 054,1
 Overvote,U.S. House,4,IND,Linn,Precinct 054,0
 Undervote,U.S. House,4,IND,Linn,Precinct 054,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 054,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 054,0
 Skye J Allen,Governor,,IND,Linn,Precinct 054,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 054,2
 Write In,Governor,,IND,Linn,Precinct 054,1
@@ -4732,7 +4732,7 @@ Overvote,State House,17,IND,Linn,Precinct 054,
 Undervote,State House,17,IND,Linn,Precinct 054,
 ,Registered Voters,,,Linn,Precinct 054,86
 ,Ballots Cast,,,Linn,Precinct 054,46
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 054,7
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 054,7
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 054,35
 Write In,U.S. House,4,DEM,Linn,Precinct 054,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 054,0
@@ -4780,7 +4780,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 054,17
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 054,0
 David W Stauffer,Governor,,REP,Linn,Precinct 054,0
 Jeff Smith,Governor,,REP,Linn,Precinct 054,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 054,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 054,0
 Brett Hyland,Governor,,REP,Linn,Precinct 054,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 054,8
 Sam Carpenter,Governor,,REP,Linn,Precinct 054,47
@@ -4820,7 +4820,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 054
 Write In,U.S. House,4,IND,Linn,Precinct 055,2
 Overvote,U.S. House,4,IND,Linn,Precinct 055,0
 Undervote,U.S. House,4,IND,Linn,Precinct 055,5
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 055,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 055,0
 Skye J Allen,Governor,,IND,Linn,Precinct 055,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 055,2
 Write In,Governor,,IND,Linn,Precinct 055,3
@@ -4844,7 +4844,7 @@ Overvote,State House,17,IND,Linn,Precinct 055,0
 Undervote,State House,17,IND,Linn,Precinct 055,6
 ,Registered Voters,,,Linn,Precinct 055,148
 ,Ballots Cast,,,Linn,Precinct 055,61
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 055,8
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 055,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 055,47
 Write In,U.S. House,4,DEM,Linn,Precinct 055,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 055,0
@@ -4892,7 +4892,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 055,38
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 055,0
 David W Stauffer,Governor,,REP,Linn,Precinct 055,0
 Jeff Smith,Governor,,REP,Linn,Precinct 055,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 055,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 055,0
 Brett Hyland,Governor,,REP,Linn,Precinct 055,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 055,10
 Sam Carpenter,Governor,,REP,Linn,Precinct 055,45
@@ -4932,7 +4932,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 055
 Write In,U.S. House,4,IND,Linn,Precinct 056,1
 Overvote,U.S. House,4,IND,Linn,Precinct 056,0
 Undervote,U.S. House,4,IND,Linn,Precinct 056,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 056,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 056,0
 Skye J Allen,Governor,,IND,Linn,Precinct 056,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 056,1
 Write In,Governor,,IND,Linn,Precinct 056,3
@@ -4956,7 +4956,7 @@ Overvote,State House,17,IND,Linn,Precinct 056,0
 Undervote,State House,17,IND,Linn,Precinct 056,9
 ,Registered Voters,,,Linn,Precinct 056,223
 ,Ballots Cast,,,Linn,Precinct 056,92
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 056,13
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 056,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 056,75
 Write In,U.S. House,4,DEM,Linn,Precinct 056,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 056,0
@@ -5004,7 +5004,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 056,44
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 056,2
 David W Stauffer,Governor,,REP,Linn,Precinct 056,3
 Jeff Smith,Governor,,REP,Linn,Precinct 056,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 056,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 056,1
 Brett Hyland,Governor,,REP,Linn,Precinct 056,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 056,10
 Sam Carpenter,Governor,,REP,Linn,Precinct 056,64
@@ -5044,7 +5044,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 056
 Write In,U.S. House,4,IND,Linn,Precinct 057,0
 Overvote,U.S. House,4,IND,Linn,Precinct 057,0
 Undervote,U.S. House,4,IND,Linn,Precinct 057,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 057,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 057,0
 Skye J Allen,Governor,,IND,Linn,Precinct 057,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 057,0
 Write In,Governor,,IND,Linn,Precinct 057,0
@@ -5068,7 +5068,7 @@ Overvote,State House,17,IND,Linn,Precinct 057,
 Undervote,State House,17,IND,Linn,Precinct 057,
 ,Registered Voters,,,Linn,Precinct 057,16
 ,Ballots Cast,,,Linn,Precinct 057,3
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 057,0
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 057,0
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 057,3
 Write In,U.S. House,4,DEM,Linn,Precinct 057,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 057,0
@@ -5116,7 +5116,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 057,11
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 057,0
 David W Stauffer,Governor,,REP,Linn,Precinct 057,0
 Jeff Smith,Governor,,REP,Linn,Precinct 057,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 057,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 057,1
 Brett Hyland,Governor,,REP,Linn,Precinct 057,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 057,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 057,5
@@ -5156,7 +5156,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 057
 Write In,U.S. House,4,IND,Linn,Precinct 058,0
 Overvote,U.S. House,4,IND,Linn,Precinct 058,0
 Undervote,U.S. House,4,IND,Linn,Precinct 058,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 058,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 058,0
 Skye J Allen,Governor,,IND,Linn,Precinct 058,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 058,0
 Write In,Governor,,IND,Linn,Precinct 058,0
@@ -5180,7 +5180,7 @@ Overvote,State House,17,IND,Linn,Precinct 058,
 Undervote,State House,17,IND,Linn,Precinct 058,
 ,Registered Voters,,,Linn,Precinct 058,17
 ,Ballots Cast,,,Linn,Precinct 058,10
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 058,1
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 058,1
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 058,8
 Write In,U.S. House,4,DEM,Linn,Precinct 058,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 058,0
@@ -5228,7 +5228,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 058,4
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 058,0
 David W Stauffer,Governor,,REP,Linn,Precinct 058,0
 Jeff Smith,Governor,,REP,Linn,Precinct 058,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 058,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 058,0
 Brett Hyland,Governor,,REP,Linn,Precinct 058,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 058,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 058,3
@@ -5268,7 +5268,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 058
 Write In,U.S. House,4,IND,Linn,Precinct 059,2
 Overvote,U.S. House,4,IND,Linn,Precinct 059,0
 Undervote,U.S. House,4,IND,Linn,Precinct 059,6
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 059,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 059,0
 Skye J Allen,Governor,,IND,Linn,Precinct 059,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 059,0
 Write In,Governor,,IND,Linn,Precinct 059,5
@@ -5292,7 +5292,7 @@ Overvote,State House,17,IND,Linn,Precinct 059,0
 Undervote,State House,17,IND,Linn,Precinct 059,5
 ,Registered Voters,,,Linn,Precinct 059,157
 ,Ballots Cast,,,Linn,Precinct 059,63
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 059,5
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 059,5
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 059,54
 Write In,U.S. House,4,DEM,Linn,Precinct 059,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 059,0
@@ -5340,7 +5340,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 059,11
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 059,0
 David W Stauffer,Governor,,REP,Linn,Precinct 059,3
 Jeff Smith,Governor,,REP,Linn,Precinct 059,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 059,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 059,0
 Brett Hyland,Governor,,REP,Linn,Precinct 059,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 059,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 059,58
@@ -5380,7 +5380,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 059
 Write In,U.S. House,4,IND,Linn,Precinct 060,4
 Overvote,U.S. House,4,IND,Linn,Precinct 060,0
 Undervote,U.S. House,4,IND,Linn,Precinct 060,11
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 060,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 060,1
 Skye J Allen,Governor,,IND,Linn,Precinct 060,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 060,6
 Write In,Governor,,IND,Linn,Precinct 060,4
@@ -5404,7 +5404,7 @@ Overvote,State House,17,IND,Linn,Precinct 060,
 Undervote,State House,17,IND,Linn,Precinct 060,
 ,Registered Voters,,,Linn,Precinct 060,209
 ,Ballots Cast,,,Linn,Precinct 060,88
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 060,12
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 060,12
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 060,73
 Write In,U.S. House,4,DEM,Linn,Precinct 060,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 060,0
@@ -5452,7 +5452,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 060,30
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 060,1
 David W Stauffer,Governor,,REP,Linn,Precinct 060,0
 Jeff Smith,Governor,,REP,Linn,Precinct 060,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 060,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 060,0
 Brett Hyland,Governor,,REP,Linn,Precinct 060,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 060,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 060,46
@@ -5492,7 +5492,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 060
 Write In,U.S. House,4,IND,Linn,Precinct 061,1
 Overvote,U.S. House,4,IND,Linn,Precinct 061,0
 Undervote,U.S. House,4,IND,Linn,Precinct 061,2
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 061,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 061,0
 Skye J Allen,Governor,,IND,Linn,Precinct 061,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 061,1
 Write In,Governor,,IND,Linn,Precinct 061,0
@@ -5516,7 +5516,7 @@ Overvote,State House,17,IND,Linn,Precinct 061,0
 Undervote,State House,17,IND,Linn,Precinct 061,3
 ,Registered Voters,,,Linn,Precinct 061,110
 ,Ballots Cast,,,Linn,Precinct 061,49
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 061,2
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 061,2
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 061,43
 Write In,U.S. House,4,DEM,Linn,Precinct 061,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 061,0
@@ -5564,7 +5564,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 061,20
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 061,0
 David W Stauffer,Governor,,REP,Linn,Precinct 061,0
 Jeff Smith,Governor,,REP,Linn,Precinct 061,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 061,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 061,0
 Brett Hyland,Governor,,REP,Linn,Precinct 061,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 061,8
 Sam Carpenter,Governor,,REP,Linn,Precinct 061,25
@@ -5604,7 +5604,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 061
 Write In,U.S. House,4,IND,Linn,Precinct 062,8
 Overvote,U.S. House,4,IND,Linn,Precinct 062,0
 Undervote,U.S. House,4,IND,Linn,Precinct 062,15
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 062,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 062,2
 Skye J Allen,Governor,,IND,Linn,Precinct 062,4
 Patrick Starnes,Governor,,IND,Linn,Precinct 062,7
 Write In,Governor,,IND,Linn,Precinct 062,6
@@ -5628,7 +5628,7 @@ Overvote,State House,17,IND,Linn,Precinct 062,0
 Undervote,State House,17,IND,Linn,Precinct 062,15
 ,Registered Voters,,,Linn,Precinct 062,361
 ,Ballots Cast,,,Linn,Precinct 062,112
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 062,9
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 062,9
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 062,96
 Write In,U.S. House,4,DEM,Linn,Precinct 062,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 062,0
@@ -5676,7 +5676,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 062,34
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 062,1
 David W Stauffer,Governor,,REP,Linn,Precinct 062,0
 Jeff Smith,Governor,,REP,Linn,Precinct 062,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 062,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 062,1
 Brett Hyland,Governor,,REP,Linn,Precinct 062,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 062,9
 Sam Carpenter,Governor,,REP,Linn,Precinct 062,69
@@ -5716,7 +5716,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 062
 Write In,U.S. House,4,IND,Linn,Precinct 063,2
 Overvote,U.S. House,4,IND,Linn,Precinct 063,0
 Undervote,U.S. House,4,IND,Linn,Precinct 063,12
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 063,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 063,1
 Skye J Allen,Governor,,IND,Linn,Precinct 063,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 063,2
 Write In,Governor,,IND,Linn,Precinct 063,7
@@ -5740,7 +5740,7 @@ Overvote,State House,17,IND,Linn,Precinct 063,
 Undervote,State House,17,IND,Linn,Precinct 063,
 ,Registered Voters,,,Linn,Precinct 063,378
 ,Ballots Cast,,,Linn,Precinct 063,164
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 063,38
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 063,38
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 063,118
 Write In,U.S. House,4,DEM,Linn,Precinct 063,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 063,0
@@ -5788,7 +5788,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 063,77
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 063,0
 David W Stauffer,Governor,,REP,Linn,Precinct 063,2
 Jeff Smith,Governor,,REP,Linn,Precinct 063,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 063,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 063,0
 Brett Hyland,Governor,,REP,Linn,Precinct 063,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 063,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 063,89
@@ -5828,7 +5828,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 063
 Write In,U.S. House,4,IND,Linn,Precinct 065,0
 Overvote,U.S. House,4,IND,Linn,Precinct 065,0
 Undervote,U.S. House,4,IND,Linn,Precinct 065,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 065,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 065,0
 Skye J Allen,Governor,,IND,Linn,Precinct 065,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 065,0
 Write In,Governor,,IND,Linn,Precinct 065,0
@@ -5852,7 +5852,7 @@ Overvote,State House,17,IND,Linn,Precinct 065,
 Undervote,State House,17,IND,Linn,Precinct 065,
 ,Registered Voters,,,Linn,Precinct 065,9
 ,Ballots Cast,,,Linn,Precinct 065,4
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 065,0
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 065,0
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 065,2
 Write In,U.S. House,4,DEM,Linn,Precinct 065,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 065,0
@@ -5900,7 +5900,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 065,0
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 065,0
 David W Stauffer,Governor,,REP,Linn,Precinct 065,0
 Jeff Smith,Governor,,REP,Linn,Precinct 065,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 065,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 065,0
 Brett Hyland,Governor,,REP,Linn,Precinct 065,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 065,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 065,10
@@ -5940,7 +5940,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 065
 Write In,U.S. House,4,IND,Linn,Precinct 066,1
 Overvote,U.S. House,4,IND,Linn,Precinct 066,0
 Undervote,U.S. House,4,IND,Linn,Precinct 066,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 066,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 066,0
 Skye J Allen,Governor,,IND,Linn,Precinct 066,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 066,0
 Write In,Governor,,IND,Linn,Precinct 066,1
@@ -5964,7 +5964,7 @@ Overvote,State House,17,IND,Linn,Precinct 066,0
 Undervote,State House,17,IND,Linn,Precinct 066,0
 ,Registered Voters,,,Linn,Precinct 066,76
 ,Ballots Cast,,,Linn,Precinct 066,35
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 066,3
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 066,3
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 066,30
 Write In,U.S. House,4,DEM,Linn,Precinct 066,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 066,0
@@ -6012,7 +6012,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 066,6
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 066,0
 David W Stauffer,Governor,,REP,Linn,Precinct 066,0
 Jeff Smith,Governor,,REP,Linn,Precinct 066,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 066,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 066,0
 Brett Hyland,Governor,,REP,Linn,Precinct 066,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 066,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 066,15
@@ -6052,7 +6052,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 066
 Write In,U.S. House,4,IND,Linn,Precinct 067,3
 Overvote,U.S. House,4,IND,Linn,Precinct 067,0
 Undervote,U.S. House,4,IND,Linn,Precinct 067,5
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 067,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 067,2
 Skye J Allen,Governor,,IND,Linn,Precinct 067,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 067,1
 Write In,Governor,,IND,Linn,Precinct 067,2
@@ -6076,7 +6076,7 @@ Overvote,State House,17,IND,Linn,Precinct 067,0
 Undervote,State House,17,IND,Linn,Precinct 067,5
 ,Registered Voters,,,Linn,Precinct 067,152
 ,Ballots Cast,,,Linn,Precinct 067,60
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 067,8
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 067,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 067,6
 Write In,U.S. House,4,DEM,Linn,Precinct 067,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 067,0
@@ -6124,7 +6124,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 067,31
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 067,0
 David W Stauffer,Governor,,REP,Linn,Precinct 067,0
 Jeff Smith,Governor,,REP,Linn,Precinct 067,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 067,2
+Jack W Tacy,Governor,,REP,Linn,Precinct 067,2
 Brett Hyland,Governor,,REP,Linn,Precinct 067,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 067,7
 Sam Carpenter,Governor,,REP,Linn,Precinct 067,55
@@ -6164,7 +6164,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 067
 Write In,U.S. House,4,IND,Linn,Precinct 068,2
 Overvote,U.S. House,4,IND,Linn,Precinct 068,0
 Undervote,U.S. House,4,IND,Linn,Precinct 068,3
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 068,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 068,0
 Skye J Allen,Governor,,IND,Linn,Precinct 068,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 068,0
 Write In,Governor,,IND,Linn,Precinct 068,4
@@ -6188,7 +6188,7 @@ Overvote,State House,17,IND,Linn,Precinct 068,
 Undervote,State House,17,IND,Linn,Precinct 068,
 ,Registered Voters,,,Linn,Precinct 068,43
 ,Ballots Cast,,,Linn,Precinct 068,17
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 068,5
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 068,5
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 068,11
 Write In,U.S. House,4,DEM,Linn,Precinct 068,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 068,0
@@ -6236,7 +6236,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 068,9
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 068,0
 David W Stauffer,Governor,,REP,Linn,Precinct 068,0
 Jeff Smith,Governor,,REP,Linn,Precinct 068,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 068,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 068,0
 Brett Hyland,Governor,,REP,Linn,Precinct 068,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 068,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 068,12
@@ -6276,7 +6276,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 068
 Write In,U.S. House,4,IND,Linn,Precinct 070,3
 Overvote,U.S. House,4,IND,Linn,Precinct 070,0
 Undervote,U.S. House,4,IND,Linn,Precinct 070,8
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 070,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 070,0
 Skye J Allen,Governor,,IND,Linn,Precinct 070,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 070,2
 Write In,Governor,,IND,Linn,Precinct 070,7
@@ -6300,7 +6300,7 @@ Overvote,State House,17,IND,Linn,Precinct 070,
 Undervote,State House,17,IND,Linn,Precinct 070,
 ,Registered Voters,,,Linn,Precinct 070,172
 ,Ballots Cast,,,Linn,Precinct 070,86
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 070,13
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 070,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 070,70
 Write In,U.S. House,4,DEM,Linn,Precinct 070,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 070,0
@@ -6348,7 +6348,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 070,41
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 070,0
 David W Stauffer,Governor,,REP,Linn,Precinct 070,0
 Jeff Smith,Governor,,REP,Linn,Precinct 070,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 070,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 070,0
 Brett Hyland,Governor,,REP,Linn,Precinct 070,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 070,7
 Sam Carpenter,Governor,,REP,Linn,Precinct 070,63
@@ -6388,7 +6388,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 070
 Write In,U.S. House,4,IND,Linn,Precinct 071,0
 Overvote,U.S. House,4,IND,Linn,Precinct 071,0
 Undervote,U.S. House,4,IND,Linn,Precinct 071,1
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 071,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 071,0
 Skye J Allen,Governor,,IND,Linn,Precinct 071,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 071,1
 Write In,Governor,,IND,Linn,Precinct 071,0
@@ -6412,7 +6412,7 @@ Overvote,State House,17,IND,Linn,Precinct 071,0
 Undervote,State House,17,IND,Linn,Precinct 071,1
 ,Registered Voters,,,Linn,Precinct 071,43
 ,Ballots Cast,,,Linn,Precinct 071,12
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 071,7
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 071,7
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 071,3
 Write In,U.S. House,4,DEM,Linn,Precinct 071,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 071,0
@@ -6460,7 +6460,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 071,9
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 071,0
 David W Stauffer,Governor,,REP,Linn,Precinct 071,0
 Jeff Smith,Governor,,REP,Linn,Precinct 071,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 071,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 071,0
 Brett Hyland,Governor,,REP,Linn,Precinct 071,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 071,1
 Sam Carpenter,Governor,,REP,Linn,Precinct 071,8
@@ -6500,7 +6500,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 071
 Write In,U.S. House,4,IND,Linn,Precinct 073,5
 Overvote,U.S. House,4,IND,Linn,Precinct 073,0
 Undervote,U.S. House,4,IND,Linn,Precinct 073,10
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 073,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 073,1
 Skye J Allen,Governor,,IND,Linn,Precinct 073,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 073,4
 Write In,Governor,,IND,Linn,Precinct 073,6
@@ -6524,7 +6524,7 @@ Overvote,State House,17,IND,Linn,Precinct 073,
 Undervote,State House,17,IND,Linn,Precinct 073,
 ,Registered Voters,,,Linn,Precinct 073,322
 ,Ballots Cast,,,Linn,Precinct 073,151
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 073,14
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 073,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 073,130
 Write In,U.S. House,4,DEM,Linn,Precinct 073,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 073,0
@@ -6572,7 +6572,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 073,43
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 073,1
 David W Stauffer,Governor,,REP,Linn,Precinct 073,1
 Jeff Smith,Governor,,REP,Linn,Precinct 073,4
-Jack W Tacy ,Governor,,REP,Linn,Precinct 073,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 073,1
 Brett Hyland,Governor,,REP,Linn,Precinct 073,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 073,11
 Sam Carpenter,Governor,,REP,Linn,Precinct 073,70
@@ -6612,7 +6612,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 073
 Write In,U.S. House,4,IND,Linn,Precinct 074,1
 Overvote,U.S. House,4,IND,Linn,Precinct 074,0
 Undervote,U.S. House,4,IND,Linn,Precinct 074,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 074,3
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 074,3
 Skye J Allen,Governor,,IND,Linn,Precinct 074,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 074,1
 Write In,Governor,,IND,Linn,Precinct 074,2
@@ -6636,7 +6636,7 @@ Overvote,State House,17,IND,Linn,Precinct 074,0
 Undervote,State House,17,IND,Linn,Precinct 074,10
 ,Registered Voters,,,Linn,Precinct 074,255
 ,Ballots Cast,,,Linn,Precinct 074,104
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 074,9
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 074,9
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 074,84
 Write In,U.S. House,4,DEM,Linn,Precinct 074,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 074,0
@@ -6684,7 +6684,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 074,39
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 074,0
 David W Stauffer,Governor,,REP,Linn,Precinct 074,0
 Jeff Smith,Governor,,REP,Linn,Precinct 074,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 074,5
+Jack W Tacy,Governor,,REP,Linn,Precinct 074,5
 Brett Hyland,Governor,,REP,Linn,Precinct 074,2
 Bruce Cuff,Governor,,REP,Linn,Precinct 074,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 074,62
@@ -6724,7 +6724,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 074
 Write In,U.S. House,4,IND,Linn,Precinct 075,5
 Overvote,U.S. House,4,IND,Linn,Precinct 075,0
 Undervote,U.S. House,4,IND,Linn,Precinct 075,12
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 075,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 075,0
 Skye J Allen,Governor,,IND,Linn,Precinct 075,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 075,3
 Write In,Governor,,IND,Linn,Precinct 075,10
@@ -6748,7 +6748,7 @@ Overvote,State House,17,IND,Linn,Precinct 075,
 Undervote,State House,17,IND,Linn,Precinct 075,
 ,Registered Voters,,,Linn,Precinct 075,246
 ,Ballots Cast,,,Linn,Precinct 075,145
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 075,24
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 075,24
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 075,110
 Write In,U.S. House,4,DEM,Linn,Precinct 075,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 075,0
@@ -6796,7 +6796,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 075,60
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 075,0
 David W Stauffer,Governor,,REP,Linn,Precinct 075,2
 Jeff Smith,Governor,,REP,Linn,Precinct 075,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 075,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 075,0
 Brett Hyland,Governor,,REP,Linn,Precinct 075,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 075,6
 Sam Carpenter,Governor,,REP,Linn,Precinct 075,87
@@ -6836,7 +6836,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 075
 Write In,U.S. House,4,IND,Linn,Precinct 076,8
 Overvote,U.S. House,4,IND,Linn,Precinct 076,0
 Undervote,U.S. House,4,IND,Linn,Precinct 076,26
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 076,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 076,0
 Skye J Allen,Governor,,IND,Linn,Precinct 076,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 076,7
 Write In,Governor,,IND,Linn,Precinct 076,14
@@ -6860,7 +6860,7 @@ Overvote,State House,17,IND,Linn,Precinct 076,
 Undervote,State House,17,IND,Linn,Precinct 076,
 ,Registered Voters,,,Linn,Precinct 076,395
 ,Ballots Cast,,,Linn,Precinct 076,177
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 076,14
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 076,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 076,144
 Write In,U.S. House,4,DEM,Linn,Precinct 076,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 076,0
@@ -6908,7 +6908,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 076,61
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 076,0
 David W Stauffer,Governor,,REP,Linn,Precinct 076,1
 Jeff Smith,Governor,,REP,Linn,Precinct 076,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 076,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 076,1
 Brett Hyland,Governor,,REP,Linn,Precinct 076,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 076,7
 Sam Carpenter,Governor,,REP,Linn,Precinct 076,130
@@ -6948,7 +6948,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 076
 Write In,U.S. House,4,IND,Linn,Precinct 077,4
 Overvote,U.S. House,4,IND,Linn,Precinct 077,0
 Undervote,U.S. House,4,IND,Linn,Precinct 077,1
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 077,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 077,0
 Skye J Allen,Governor,,IND,Linn,Precinct 077,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 077,1
 Write In,Governor,,IND,Linn,Precinct 077,4
@@ -6972,7 +6972,7 @@ Overvote,State House,17,IND,Linn,Precinct 077,
 Undervote,State House,17,IND,Linn,Precinct 077,
 ,Registered Voters,,,Linn,Precinct 077,140
 ,Ballots Cast,,,Linn,Precinct 077,54
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 077,9
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 077,9
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 077,40
 Write In,U.S. House,4,DEM,Linn,Precinct 077,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 077,0
@@ -7020,7 +7020,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 077,19
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 077,0
 David W Stauffer,Governor,,REP,Linn,Precinct 077,0
 Jeff Smith,Governor,,REP,Linn,Precinct 077,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 077,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 077,0
 Brett Hyland,Governor,,REP,Linn,Precinct 077,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 077,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 077,42
@@ -7060,7 +7060,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 077
 Write In,U.S. House,4,IND,Linn,Precinct 078,1
 Overvote,U.S. House,4,IND,Linn,Precinct 078,0
 Undervote,U.S. House,4,IND,Linn,Precinct 078,8
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 078,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 078,0
 Skye J Allen,Governor,,IND,Linn,Precinct 078,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 078,2
 Write In,Governor,,IND,Linn,Precinct 078,3
@@ -7084,7 +7084,7 @@ Overvote,State House,17,IND,Linn,Precinct 078,0
 Undervote,State House,17,IND,Linn,Precinct 078,9
 ,Registered Voters,,,Linn,Precinct 078,244
 ,Ballots Cast,,,Linn,Precinct 078,93
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 078,15
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 078,15
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 078,74
 Write In,U.S. House,4,DEM,Linn,Precinct 078,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 078,0
@@ -7132,7 +7132,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 078,30
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 078,0
 David W Stauffer,Governor,,REP,Linn,Precinct 078,1
 Jeff Smith,Governor,,REP,Linn,Precinct 078,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 078,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 078,1
 Brett Hyland,Governor,,REP,Linn,Precinct 078,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 078,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 078,48
@@ -7172,7 +7172,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 078
 Write In,U.S. House,4,IND,Linn,Precinct 079,10
 Overvote,U.S. House,4,IND,Linn,Precinct 079,0
 Undervote,U.S. House,4,IND,Linn,Precinct 079,10
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 079,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 079,1
 Skye J Allen,Governor,,IND,Linn,Precinct 079,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 079,2
 Write In,Governor,,IND,Linn,Precinct 079,12
@@ -7196,7 +7196,7 @@ Overvote,State House,17,IND,Linn,Precinct 079,0
 Undervote,State House,17,IND,Linn,Precinct 079,13
 ,Registered Voters,,,Linn,Precinct 079,479
 ,Ballots Cast,,,Linn,Precinct 079,183
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 079,20
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 079,20
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 079,155
 Write In,U.S. House,4,DEM,Linn,Precinct 079,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 079,0
@@ -7244,7 +7244,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 079,0
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 079,0
 David W Stauffer,Governor,,REP,Linn,Precinct 079,0
 Jeff Smith,Governor,,REP,Linn,Precinct 079,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 079,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 079,0
 Brett Hyland,Governor,,REP,Linn,Precinct 079,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 079,7
 Sam Carpenter,Governor,,REP,Linn,Precinct 079,63
@@ -7284,7 +7284,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 079
 Write In,U.S. House,4,IND,Linn,Precinct 080,7
 Overvote,U.S. House,4,IND,Linn,Precinct 080,0
 Undervote,U.S. House,4,IND,Linn,Precinct 080,16
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 080,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 080,0
 Skye J Allen,Governor,,IND,Linn,Precinct 080,4
 Patrick Starnes,Governor,,IND,Linn,Precinct 080,4
 Write In,Governor,,IND,Linn,Precinct 080,12
@@ -7308,7 +7308,7 @@ Overvote,State House,17,IND,Linn,Precinct 080,0
 Undervote,State House,17,IND,Linn,Precinct 080,15
 ,Registered Voters,,,Linn,Precinct 080,320
 ,Ballots Cast,,,Linn,Precinct 080,143
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 080,25
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 080,25
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 080,110
 Write In,U.S. House,4,DEM,Linn,Precinct 080,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 080,0
@@ -7356,7 +7356,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 080,34
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 080,1
 David W Stauffer,Governor,,REP,Linn,Precinct 080,1
 Jeff Smith,Governor,,REP,Linn,Precinct 080,6
-Jack W Tacy ,Governor,,REP,Linn,Precinct 080,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 080,1
 Brett Hyland,Governor,,REP,Linn,Precinct 080,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 080,11
 Sam Carpenter,Governor,,REP,Linn,Precinct 080,85
@@ -7396,7 +7396,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 080
 Write In,U.S. House,4,IND,Linn,Precinct 082,5
 Overvote,U.S. House,4,IND,Linn,Precinct 082,0
 Undervote,U.S. House,4,IND,Linn,Precinct 082,5
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 082,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 082,1
 Skye J Allen,Governor,,IND,Linn,Precinct 082,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 082,0
 Write In,Governor,,IND,Linn,Precinct 082,4
@@ -7420,7 +7420,7 @@ Overvote,State House,17,IND,Linn,Precinct 082,0
 Undervote,State House,17,IND,Linn,Precinct 082,8
 ,Registered Voters,,,Linn,Precinct 082,152
 ,Ballots Cast,,,Linn,Precinct 082,58
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 082,13
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 082,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 082,40
 Write In,U.S. House,4,DEM,Linn,Precinct 082,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 082,0
@@ -7468,7 +7468,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 082,21
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 082,0
 David W Stauffer,Governor,,REP,Linn,Precinct 082,2
 Jeff Smith,Governor,,REP,Linn,Precinct 082,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 082,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 082,0
 Brett Hyland,Governor,,REP,Linn,Precinct 082,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 082,8
 Sam Carpenter,Governor,,REP,Linn,Precinct 082,24
@@ -7508,7 +7508,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 082
 Write In,U.S. House,4,IND,Linn,Precinct 083,0
 Overvote,U.S. House,4,IND,Linn,Precinct 083,0
 Undervote,U.S. House,4,IND,Linn,Precinct 083,0
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 083,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 083,0
 Skye J Allen,Governor,,IND,Linn,Precinct 083,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 083,0
 Write In,Governor,,IND,Linn,Precinct 083,0
@@ -7532,7 +7532,7 @@ Overvote,State House,17,IND,Linn,Precinct 083,0
 Undervote,State House,17,IND,Linn,Precinct 083,0
 ,Registered Voters,,,Linn,Precinct 083,8
 ,Ballots Cast,,,Linn,Precinct 083,6
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 083,0
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 083,0
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 083,6
 Write In,U.S. House,4,DEM,Linn,Precinct 083,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 083,0
@@ -7580,7 +7580,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 083,2
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 083,0
 David W Stauffer,Governor,,REP,Linn,Precinct 083,0
 Jeff Smith,Governor,,REP,Linn,Precinct 083,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 083,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 083,0
 Brett Hyland,Governor,,REP,Linn,Precinct 083,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 083,0
 Sam Carpenter,Governor,,REP,Linn,Precinct 083,4
@@ -7620,7 +7620,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 083
 Write In,U.S. House,4,IND,Linn,Precinct 084,5
 Overvote,U.S. House,4,IND,Linn,Precinct 084,0
 Undervote,U.S. House,4,IND,Linn,Precinct 084,6
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 084,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 084,0
 Skye J Allen,Governor,,IND,Linn,Precinct 084,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 084,3
 Write In,Governor,,IND,Linn,Precinct 084,6
@@ -7644,7 +7644,7 @@ Overvote,State House,17,IND,Linn,Precinct 084,
 Undervote,State House,17,IND,Linn,Precinct 084,
 ,Registered Voters,,,Linn,Precinct 084,376
 ,Ballots Cast,,,Linn,Precinct 084,119
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 084,15
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 084,15
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 084,98
 Write In,U.S. House,4,DEM,Linn,Precinct 084,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 084,0
@@ -7692,7 +7692,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 084,18
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 084,1
 David W Stauffer,Governor,,REP,Linn,Precinct 084,0
 Jeff Smith,Governor,,REP,Linn,Precinct 084,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 084,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 084,1
 Brett Hyland,Governor,,REP,Linn,Precinct 084,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 084,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 084,28
@@ -7732,7 +7732,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 084
 Write In,U.S. House,4,IND,Linn,Precinct 086,2
 Overvote,U.S. House,4,IND,Linn,Precinct 086,0
 Undervote,U.S. House,4,IND,Linn,Precinct 086,13
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 086,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 086,0
 Skye J Allen,Governor,,IND,Linn,Precinct 086,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 086,4
 Write In,Governor,,IND,Linn,Precinct 086,6
@@ -7756,7 +7756,7 @@ Overvote,State House,17,IND,Linn,Precinct 086,0
 Undervote,State House,17,IND,Linn,Precinct 086,12
 ,Registered Voters,,,Linn,Precinct 086,
 ,Ballots Cast,,,Linn,Precinct 086,335
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 086,145
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 086,145
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 086,115
 Write In,U.S. House,4,DEM,Linn,Precinct 086,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 086,0
@@ -7804,7 +7804,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 086,10
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 086,2
 David W Stauffer,Governor,,REP,Linn,Precinct 086,1
 Jeff Smith,Governor,,REP,Linn,Precinct 086,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 086,2
+Jack W Tacy,Governor,,REP,Linn,Precinct 086,2
 Brett Hyland,Governor,,REP,Linn,Precinct 086,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 086,12
 Sam Carpenter,Governor,,REP,Linn,Precinct 086,105
@@ -7844,7 +7844,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 086
 Write In,U.S. House,4,IND,Linn,Precinct 087,2
 Overvote,U.S. House,4,IND,Linn,Precinct 087,0
 Undervote,U.S. House,4,IND,Linn,Precinct 087,6
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 087,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 087,1
 Skye J Allen,Governor,,IND,Linn,Precinct 087,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 087,3
 Write In,Governor,,IND,Linn,Precinct 087,4
@@ -7868,7 +7868,7 @@ Overvote,State House,17,IND,Linn,Precinct 087,
 Undervote,State House,17,IND,Linn,Precinct 087,
 ,Registered Voters,,,Linn,Precinct 087,141
 ,Ballots Cast,,,Linn,Precinct 087,57
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 087,8
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 087,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 087,47
 Write In,U.S. House,4,DEM,Linn,Precinct 087,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 087,0
@@ -7916,7 +7916,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 087,31
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 087,1
 David W Stauffer,Governor,,REP,Linn,Precinct 087,0
 Jeff Smith,Governor,,REP,Linn,Precinct 087,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 087,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 087,0
 Brett Hyland,Governor,,REP,Linn,Precinct 087,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 087,7
 Sam Carpenter,Governor,,REP,Linn,Precinct 087,28
@@ -7956,7 +7956,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 087
 Write In,U.S. House,4,IND,Linn,Precinct 088,2
 Overvote,U.S. House,4,IND,Linn,Precinct 088,0
 Undervote,U.S. House,4,IND,Linn,Precinct 088,9
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 088,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 088,0
 Skye J Allen,Governor,,IND,Linn,Precinct 088,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 088,6
 Write In,Governor,,IND,Linn,Precinct 088,3
@@ -7980,7 +7980,7 @@ Overvote,State House,17,IND,Linn,Precinct 088,0
 Undervote,State House,17,IND,Linn,Precinct 088,9
 ,Registered Voters,,,Linn,Precinct 088,297
 ,Ballots Cast,,,Linn,Precinct 088,95
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 088,16
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 088,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 088,75
 Write In,U.S. House,4,DEM,Linn,Precinct 088,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 088,0
@@ -8028,7 +8028,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 088,51
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 088,0
 David W Stauffer,Governor,,REP,Linn,Precinct 088,4
 Jeff Smith,Governor,,REP,Linn,Precinct 088,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 088,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 088,0
 Brett Hyland,Governor,,REP,Linn,Precinct 088,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 088,11
 Sam Carpenter,Governor,,REP,Linn,Precinct 088,65
@@ -8068,7 +8068,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 088
 Write In,U.S. House,4,IND,Linn,Precinct 089,6
 Overvote,U.S. House,4,IND,Linn,Precinct 089,0
 Undervote,U.S. House,4,IND,Linn,Precinct 089,7
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 089,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 089,2
 Skye J Allen,Governor,,IND,Linn,Precinct 089,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 089,0
 Write In,Governor,,IND,Linn,Precinct 089,7
@@ -8092,7 +8092,7 @@ Overvote,State House,17,IND,Linn,Precinct 089,
 Undervote,State House,17,IND,Linn,Precinct 089,
 ,Registered Voters,,,Linn,Precinct 089,291
 ,Ballots Cast,,,Linn,Precinct 089,150
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 089,17
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 089,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 089,120
 Write In,U.S. House,4,DEM,Linn,Precinct 089,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 089,0
@@ -8140,7 +8140,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 089,26
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 089,1
 David W Stauffer,Governor,,REP,Linn,Precinct 089,2
 Jeff Smith,Governor,,REP,Linn,Precinct 089,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 089,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 089,1
 Brett Hyland,Governor,,REP,Linn,Precinct 089,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 089,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 089,57
@@ -8180,7 +8180,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 089
 Write In,U.S. House,4,IND,Linn,Precinct 091,7
 Overvote,U.S. House,4,IND,Linn,Precinct 091,0
 Undervote,U.S. House,4,IND,Linn,Precinct 091,16
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 091,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 091,1
 Skye J Allen,Governor,,IND,Linn,Precinct 091,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 091,1
 Write In,Governor,,IND,Linn,Precinct 091,15
@@ -8204,7 +8204,7 @@ Overvote,State House,17,IND,Linn,Precinct 091,
 Undervote,State House,17,IND,Linn,Precinct 091,
 ,Registered Voters,,,Linn,Precinct 091,439
 ,Ballots Cast,,,Linn,Precinct 091,147
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 091,18
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 091,18
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 091,125
 Write In,U.S. House,4,DEM,Linn,Precinct 091,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 091,0
@@ -8252,7 +8252,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 091,28
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 091,0
 David W Stauffer,Governor,,REP,Linn,Precinct 091,0
 Jeff Smith,Governor,,REP,Linn,Precinct 091,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 091,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 091,0
 Brett Hyland,Governor,,REP,Linn,Precinct 091,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 091,9
 Sam Carpenter,Governor,,REP,Linn,Precinct 091,57
@@ -8292,7 +8292,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 091
 Write In,U.S. House,4,IND,Linn,Precinct 092,14
 Overvote,U.S. House,4,IND,Linn,Precinct 092,0
 Undervote,U.S. House,4,IND,Linn,Precinct 092,16
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 092,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 092,1
 Skye J Allen,Governor,,IND,Linn,Precinct 092,3
 Patrick Starnes,Governor,,IND,Linn,Precinct 092,6
 Write In,Governor,,IND,Linn,Precinct 092,13
@@ -8316,7 +8316,7 @@ Overvote,State House,17,IND,Linn,Precinct 092,
 Undervote,State House,17,IND,Linn,Precinct 092,
 ,Registered Voters,,,Linn,Precinct 092,691
 ,Ballots Cast,,,Linn,Precinct 092,280
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 092,33
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 092,33
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 092,229
 Write In,U.S. House,4,DEM,Linn,Precinct 092,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 092,0
@@ -8364,7 +8364,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 092,49
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 092,0
 David W Stauffer,Governor,,REP,Linn,Precinct 092,2
 Jeff Smith,Governor,,REP,Linn,Precinct 092,11
-Jack W Tacy ,Governor,,REP,Linn,Precinct 092,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 092,1
 Brett Hyland,Governor,,REP,Linn,Precinct 092,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 092,12
 Sam Carpenter,Governor,,REP,Linn,Precinct 092,93
@@ -8404,7 +8404,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 092
 Write In,U.S. House,4,IND,Linn,Precinct 093,13
 Overvote,U.S. House,4,IND,Linn,Precinct 093,0
 Undervote,U.S. House,4,IND,Linn,Precinct 093,25
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 093,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 093,1
 Skye J Allen,Governor,,IND,Linn,Precinct 093,5
 Patrick Starnes,Governor,,IND,Linn,Precinct 093,11
 Write In,Governor,,IND,Linn,Precinct 093,8
@@ -8428,7 +8428,7 @@ Overvote,State House,17,IND,Linn,Precinct 093,
 Undervote,State House,17,IND,Linn,Precinct 093,
 ,Registered Voters,,,Linn,Precinct 093,661
 ,Ballots Cast,,,Linn,Precinct 093,247
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 093,27
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 093,27
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 093,199
 Write In,U.S. House,4,DEM,Linn,Precinct 093,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 093,0
@@ -8476,7 +8476,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 093,64
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 093,1
 David W Stauffer,Governor,,REP,Linn,Precinct 093,1
 Jeff Smith,Governor,,REP,Linn,Precinct 093,8
-Jack W Tacy ,Governor,,REP,Linn,Precinct 093,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 093,1
 Brett Hyland,Governor,,REP,Linn,Precinct 093,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 093,5
 Sam Carpenter,Governor,,REP,Linn,Precinct 093,80
@@ -8516,7 +8516,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 093
 Write In,U.S. House,4,IND,Linn,Precinct 094,5
 Overvote,U.S. House,4,IND,Linn,Precinct 094,0
 Undervote,U.S. House,4,IND,Linn,Precinct 094,6
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 094,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 094,0
 Skye J Allen,Governor,,IND,Linn,Precinct 094,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 094,4
 Write In,Governor,,IND,Linn,Precinct 094,3
@@ -8540,7 +8540,7 @@ Overvote,State House,17,IND,Linn,Precinct 094,
 Undervote,State House,17,IND,Linn,Precinct 094,
 ,Registered Voters,,,Linn,Precinct 094,313
 ,Ballots Cast,,,Linn,Precinct 094,119
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 094,16
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 094,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 094,100
 Write In,U.S. House,4,DEM,Linn,Precinct 094,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 094,0
@@ -8588,7 +8588,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 094,27
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 094,0
 David W Stauffer,Governor,,REP,Linn,Precinct 094,1
 Jeff Smith,Governor,,REP,Linn,Precinct 094,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 094,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 094,1
 Brett Hyland,Governor,,REP,Linn,Precinct 094,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 094,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 094,62
@@ -8628,7 +8628,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 094
 Write In,U.S. House,4,IND,Linn,Precinct 095,9
 Overvote,U.S. House,4,IND,Linn,Precinct 095,0
 Undervote,U.S. House,4,IND,Linn,Precinct 095,10
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 095,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 095,2
 Skye J Allen,Governor,,IND,Linn,Precinct 095,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 095,1
 Write In,Governor,,IND,Linn,Precinct 095,12
@@ -8652,7 +8652,7 @@ Overvote,State House,17,IND,Linn,Precinct 095,
 Undervote,State House,17,IND,Linn,Precinct 095,
 ,Registered Voters,,,Linn,Precinct 095,388
 ,Ballots Cast,,,Linn,Precinct 095,147
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 095,28
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 095,28
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 095,117
 Write In,U.S. House,4,DEM,Linn,Precinct 095,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 095,0
@@ -8700,7 +8700,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 095,46
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 095,0
 David W Stauffer,Governor,,REP,Linn,Precinct 095,2
 Jeff Smith,Governor,,REP,Linn,Precinct 095,11
-Jack W Tacy ,Governor,,REP,Linn,Precinct 095,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 095,0
 Brett Hyland,Governor,,REP,Linn,Precinct 095,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 095,3
 Sam Carpenter,Governor,,REP,Linn,Precinct 095,83
@@ -8740,7 +8740,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 095
 Write In,U.S. House,4,IND,Linn,Precinct 096,7
 Overvote,U.S. House,4,IND,Linn,Precinct 096,0
 Undervote,U.S. House,4,IND,Linn,Precinct 096,11
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 096,3
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 096,3
 Skye J Allen,Governor,,IND,Linn,Precinct 096,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 096,2
 Write In,Governor,,IND,Linn,Precinct 096,8
@@ -8764,7 +8764,7 @@ Overvote,State House,17,IND,Linn,Precinct 096,
 Undervote,State House,17,IND,Linn,Precinct 096,
 ,Registered Voters,,,Linn,Precinct 096,338
 ,Ballots Cast,,,Linn,Precinct 096,184
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 096,11
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 096,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 096,159
 Write In,U.S. House,4,DEM,Linn,Precinct 096,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 096,0
@@ -8812,7 +8812,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 096,36
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 096,1
 David W Stauffer,Governor,,REP,Linn,Precinct 096,2
 Jeff Smith,Governor,,REP,Linn,Precinct 096,7
-Jack W Tacy ,Governor,,REP,Linn,Precinct 096,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 096,0
 Brett Hyland,Governor,,REP,Linn,Precinct 096,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 096,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 096,36
@@ -8852,7 +8852,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 096
 Write In,U.S. House,4,IND,Linn,Precinct 097,2
 Overvote,U.S. House,4,IND,Linn,Precinct 097,0
 Undervote,U.S. House,4,IND,Linn,Precinct 097,14
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 097,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 097,1
 Skye J Allen,Governor,,IND,Linn,Precinct 097,4
 Patrick Starnes,Governor,,IND,Linn,Precinct 097,2
 Write In,Governor,,IND,Linn,Precinct 097,5
@@ -8876,7 +8876,7 @@ Overvote,State House,17,IND,Linn,Precinct 097,
 Undervote,State House,17,IND,Linn,Precinct 097,
 ,Registered Voters,,,Linn,Precinct 097,243
 ,Ballots Cast,,,Linn,Precinct 097,107
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 097,14
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 097,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 097,86
 Write In,U.S. House,4,DEM,Linn,Precinct 097,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 097,0
@@ -8924,7 +8924,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 097,35
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 097,1
 David W Stauffer,Governor,,REP,Linn,Precinct 097,2
 Jeff Smith,Governor,,REP,Linn,Precinct 097,4
-Jack W Tacy ,Governor,,REP,Linn,Precinct 097,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 097,0
 Brett Hyland,Governor,,REP,Linn,Precinct 097,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 097,8
 Sam Carpenter,Governor,,REP,Linn,Precinct 097,67
@@ -8964,7 +8964,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 097
 Write In,U.S. House,4,IND,Linn,Precinct 099,1
 Overvote,U.S. House,4,IND,Linn,Precinct 099,0
 Undervote,U.S. House,4,IND,Linn,Precinct 099,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 099,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 099,1
 Skye J Allen,Governor,,IND,Linn,Precinct 099,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 099,1
 Write In,Governor,,IND,Linn,Precinct 099,1
@@ -8988,7 +8988,7 @@ Overvote,State House,17,IND,Linn,Precinct 099,
 Undervote,State House,17,IND,Linn,Precinct 099,
 ,Registered Voters,,,Linn,Precinct 099,109
 ,Ballots Cast,,,Linn,Precinct 099,49
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 099,11
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 099,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 099,36
 Write In,U.S. House,4,DEM,Linn,Precinct 099,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 099,0
@@ -9036,7 +9036,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 099,20
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 099,0
 David W Stauffer,Governor,,REP,Linn,Precinct 099,2
 Jeff Smith,Governor,,REP,Linn,Precinct 099,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 099,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 099,0
 Brett Hyland,Governor,,REP,Linn,Precinct 099,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 099,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 099,35
@@ -9076,7 +9076,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 099
 Write In,U.S. House,4,IND,Linn,Precinct 100,10
 Overvote,U.S. House,4,IND,Linn,Precinct 100,0
 Undervote,U.S. House,4,IND,Linn,Precinct 100,16
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 100,2
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 100,2
 Skye J Allen,Governor,,IND,Linn,Precinct 100,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 100,3
 Write In,Governor,,IND,Linn,Precinct 100,14
@@ -9100,7 +9100,7 @@ Overvote,State House,17,IND,Linn,Precinct 100,
 Undervote,State House,17,IND,Linn,Precinct 100,
 ,Registered Voters,,,Linn,Precinct 100,492
 ,Ballots Cast,,,Linn,Precinct 100,239
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 100,32
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 100,32
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 100,191
 Write In,U.S. House,4,DEM,Linn,Precinct 100,1
 Overvote,U.S. House,4,DEM,Linn,Precinct 100,0
@@ -9148,7 +9148,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 100,48
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 100,1
 David W Stauffer,Governor,,REP,Linn,Precinct 100,1
 Jeff Smith,Governor,,REP,Linn,Precinct 100,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 100,5
+Jack W Tacy,Governor,,REP,Linn,Precinct 100,5
 Brett Hyland,Governor,,REP,Linn,Precinct 100,1
 Bruce Cuff,Governor,,REP,Linn,Precinct 100,5
 Sam Carpenter,Governor,,REP,Linn,Precinct 100,90
@@ -9188,7 +9188,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 100
 Write In,U.S. House,4,IND,Linn,Precinct 101,4
 Overvote,U.S. House,4,IND,Linn,Precinct 101,0
 Undervote,U.S. House,4,IND,Linn,Precinct 101,7
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 101,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 101,0
 Skye J Allen,Governor,,IND,Linn,Precinct 101,1
 Patrick Starnes,Governor,,IND,Linn,Precinct 101,2
 Write In,Governor,,IND,Linn,Precinct 101,6
@@ -9212,7 +9212,7 @@ Overvote,State House,17,IND,Linn,Precinct 101,0
 Undervote,State House,17,IND,Linn,Precinct 101,8
 ,Registered Voters,,,Linn,Precinct 101,124
 ,Ballots Cast,,,Linn,Precinct 101,52
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 101,6
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 101,6
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 101,44
 Write In,U.S. House,4,DEM,Linn,Precinct 101,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 101,0
@@ -9260,7 +9260,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 101,25
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 101,0
 David W Stauffer,Governor,,REP,Linn,Precinct 101,0
 Jeff Smith,Governor,,REP,Linn,Precinct 101,0
-Jack W Tacy ,Governor,,REP,Linn,Precinct 101,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 101,0
 Brett Hyland,Governor,,REP,Linn,Precinct 101,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 101,15
 Sam Carpenter,Governor,,REP,Linn,Precinct 101,31
@@ -9300,7 +9300,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 101
 Write In,U.S. House,4,IND,Linn,Precinct 102,6
 Overvote,U.S. House,4,IND,Linn,Precinct 102,0
 Undervote,U.S. House,4,IND,Linn,Precinct 102,13
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 102,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 102,0
 Skye J Allen,Governor,,IND,Linn,Precinct 102,2
 Patrick Starnes,Governor,,IND,Linn,Precinct 102,5
 Write In,Governor,,IND,Linn,Precinct 102,8
@@ -9324,7 +9324,7 @@ Overvote,State House,17,IND,Linn,Precinct 102,
 Undervote,State House,17,IND,Linn,Precinct 102,
 ,Registered Voters,,,Linn,Precinct 102,493
 ,Ballots Cast,,,Linn,Precinct 102,217
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 102,30
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 102,30
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 102,171
 Write In,U.S. House,4,DEM,Linn,Precinct 102,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 102,0
@@ -9372,7 +9372,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 102,43
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 102,1
 David W Stauffer,Governor,,REP,Linn,Precinct 102,0
 Jeff Smith,Governor,,REP,Linn,Precinct 102,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 102,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 102,0
 Brett Hyland,Governor,,REP,Linn,Precinct 102,2
 Bruce Cuff,Governor,,REP,Linn,Precinct 102,6
 Sam Carpenter,Governor,,REP,Linn,Precinct 102,55
@@ -9412,7 +9412,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 102
 Write In,U.S. House,4,IND,Linn,Precinct 103,4
 Overvote,U.S. House,4,IND,Linn,Precinct 103,0
 Undervote,U.S. House,4,IND,Linn,Precinct 103,3
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 103,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 103,0
 Skye J Allen,Governor,,IND,Linn,Precinct 103,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 103,1
 Write In,Governor,,IND,Linn,Precinct 103,3
@@ -9436,7 +9436,7 @@ Overvote,State House,17,IND,Linn,Precinct 103,0
 Undervote,State House,17,IND,Linn,Precinct 103,5
 ,Registered Voters,,,Linn,Precinct 103,124
 ,Ballots Cast,,,Linn,Precinct 103,60
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 103,11
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 103,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 103,44
 Write In,U.S. House,4,DEM,Linn,Precinct 103,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 103,0
@@ -9484,7 +9484,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 103,43
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 103,0
 David W Stauffer,Governor,,REP,Linn,Precinct 103,0
 Jeff Smith,Governor,,REP,Linn,Precinct 103,1
-Jack W Tacy ,Governor,,REP,Linn,Precinct 103,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 103,0
 Brett Hyland,Governor,,REP,Linn,Precinct 103,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 103,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 103,33
@@ -9524,7 +9524,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 103
 Write In,U.S. House,4,IND,Linn,Precinct 104,4
 Overvote,U.S. House,4,IND,Linn,Precinct 104,0
 Undervote,U.S. House,4,IND,Linn,Precinct 104,4
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 104,3
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 104,3
 Skye J Allen,Governor,,IND,Linn,Precinct 104,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 104,3
 Write In,Governor,,IND,Linn,Precinct 104,2
@@ -9548,7 +9548,7 @@ Overvote,State House,17,IND,Linn,Precinct 104,0
 Undervote,State House,17,IND,Linn,Precinct 104,6
 ,Registered Voters,,,Linn,Precinct 104,182
 ,Ballots Cast,,,Linn,Precinct 104,75
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 104,12
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 104,12
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 104,55
 Write In,U.S. House,4,DEM,Linn,Precinct 104,3
 Overvote,U.S. House,4,DEM,Linn,Precinct 104,0
@@ -9596,7 +9596,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 104,41
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 104,0
 David W Stauffer,Governor,,REP,Linn,Precinct 104,1
 Jeff Smith,Governor,,REP,Linn,Precinct 104,2
-Jack W Tacy ,Governor,,REP,Linn,Precinct 104,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 104,1
 Brett Hyland,Governor,,REP,Linn,Precinct 104,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 104,8
 Sam Carpenter,Governor,,REP,Linn,Precinct 104,54
@@ -9636,7 +9636,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 104
 Write In,U.S. House,4,IND,Linn,Precinct 105,6
 Overvote,U.S. House,4,IND,Linn,Precinct 105,0
 Undervote,U.S. House,4,IND,Linn,Precinct 105,12
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 105,0
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 105,0
 Skye J Allen,Governor,,IND,Linn,Precinct 105,3
 Patrick Starnes,Governor,,IND,Linn,Precinct 105,5
 Write In,Governor,,IND,Linn,Precinct 105,8
@@ -9660,7 +9660,7 @@ Overvote,State House,17,IND,Linn,Precinct 105,
 Undervote,State House,17,IND,Linn,Precinct 105,
 ,Registered Voters,,,Linn,Precinct 105,286
 ,Ballots Cast,,,Linn,Precinct 105,84
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 105,6
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 105,6
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 105,74
 Write In,U.S. House,4,DEM,Linn,Precinct 105,2
 Overvote,U.S. House,4,DEM,Linn,Precinct 105,0
@@ -9708,7 +9708,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 105,19
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 105,0
 David W Stauffer,Governor,,REP,Linn,Precinct 105,0
 Jeff Smith,Governor,,REP,Linn,Precinct 105,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 105,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 105,0
 Brett Hyland,Governor,,REP,Linn,Precinct 105,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 105,4
 Sam Carpenter,Governor,,REP,Linn,Precinct 105,23
@@ -9748,7 +9748,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 105
 Write In,U.S. House,4,IND,Linn,Precinct 106,10
 Overvote,U.S. House,4,IND,Linn,Precinct 106,0
 Undervote,U.S. House,4,IND,Linn,Precinct 106,11
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 106,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 106,1
 Skye J Allen,Governor,,IND,Linn,Precinct 106,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 106,3
 Write In,Governor,,IND,Linn,Precinct 106,10
@@ -9772,7 +9772,7 @@ Overvote,State House,17,IND,Linn,Precinct 106,
 Undervote,State House,17,IND,Linn,Precinct 106,
 ,Registered Voters,,,Linn,Precinct 106,242
 ,Ballots Cast,,,Linn,Precinct 106,98
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 106,12
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 106,12
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 106,82
 Write In,U.S. House,4,DEM,Linn,Precinct 106,0
 Overvote,U.S. House,4,DEM,Linn,Precinct 106,0
@@ -9820,7 +9820,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 106,21
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 106,0
 David W Stauffer,Governor,,REP,Linn,Precinct 106,0
 Jeff Smith,Governor,,REP,Linn,Precinct 106,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 106,1
+Jack W Tacy,Governor,,REP,Linn,Precinct 106,1
 Brett Hyland,Governor,,REP,Linn,Precinct 106,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 106,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 106,45
@@ -9860,7 +9860,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 106
 Write In,U.S. House,4,IND,Linn,Precinct 107,3
 Overvote,U.S. House,4,IND,Linn,Precinct 107,0
 Undervote,U.S. House,4,IND,Linn,Precinct 107,10
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 107,1
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 107,1
 Skye J Allen,Governor,,IND,Linn,Precinct 107,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 107,5
 Write In,Governor,,IND,Linn,Precinct 107,5
@@ -9884,7 +9884,7 @@ Overvote,State House,17,IND,Linn,Precinct 107,
 Undervote,State House,17,IND,Linn,Precinct 107,
 ,Registered Voters,,,Linn,Precinct 107,396
 ,Ballots Cast,,,Linn,Precinct 107,159
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 107,13
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 107,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 107,132
 Write In,U.S. House,4,DEM,Linn,Precinct 107,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 107,0
@@ -9932,7 +9932,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 107,53
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 107,0
 David W Stauffer,Governor,,REP,Linn,Precinct 107,4
 Jeff Smith,Governor,,REP,Linn,Precinct 107,3
-Jack W Tacy ,Governor,,REP,Linn,Precinct 107,0
+Jack W Tacy,Governor,,REP,Linn,Precinct 107,0
 Brett Hyland,Governor,,REP,Linn,Precinct 107,2
 Bruce Cuff,Governor,,REP,Linn,Precinct 107,2
 Sam Carpenter,Governor,,REP,Linn,Precinct 107,53
@@ -9972,7 +9972,7 @@ Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 107
 Write In,U.S. House,4,IND,Linn,Precinct 108,16
 Overvote,U.S. House,4,IND,Linn,Precinct 108,0
 Undervote,U.S. House,4,IND,Linn,Precinct 108,22
-Dan (Mr. P) Pistoresi ,Governor,,IND,Linn,Precinct 108,4
+Dan (Mr. P) Pistoresi,Governor,,IND,Linn,Precinct 108,4
 Skye J Allen,Governor,,IND,Linn,Precinct 108,0
 Patrick Starnes,Governor,,IND,Linn,Precinct 108,10
 Write In,Governor,,IND,Linn,Precinct 108,19
@@ -9996,7 +9996,7 @@ Overvote,State House,17,IND,Linn,Precinct 108,0
 Undervote,State House,17,IND,Linn,Precinct 108,28
 ,Registered Voters,,,Linn,Precinct 108,676
 ,Ballots Cast,,,Linn,Precinct 108,226
-Daniel R Arcangel ,U.S. House,4,DEM,Linn,Precinct 108,27
+Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 108,27
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 108,186
 Write In,U.S. House,4,DEM,Linn,Precinct 108,4
 Overvote,U.S. House,4,DEM,Linn,Precinct 108,0
@@ -10044,7 +10044,7 @@ Greg C Wooldridge,Governor,,REP,Linn,Precinct 108,68
 Jonathan I Edwards III,Governor,,REP,Linn,Precinct 108,2
 David W Stauffer,Governor,,REP,Linn,Precinct 108,2
 Jeff Smith,Governor,,REP,Linn,Precinct 108,5
-Jack W Tacy ,Governor,,REP,Linn,Precinct 108,2
+Jack W Tacy,Governor,,REP,Linn,Precinct 108,2
 Brett Hyland,Governor,,REP,Linn,Precinct 108,0
 Bruce Cuff,Governor,,REP,Linn,Precinct 108,9
 Sam Carpenter,Governor,,REP,Linn,Precinct 108,81
@@ -10079,339 +10079,3 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 108,5
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 108,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 108,138
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,

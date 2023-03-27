@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/openelections/openelections-data-or/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-or/actions/workflows/data_tests.yml?query=branch%3Amaster)
+
 # OpenElections Data Oregon
 
 This repository contains pre-processed election results from Oregon, formatted to be ingested into the OpenElections [processing pipeline](http://docs.openelections.net/guide/). It contains mostly CSV files converted from PDF tables. Interested in contributing? We have a bunch of [easy tasks](https://github.com/openelections/openelections-data-or/labels/easy%20task) for you to tackle.
