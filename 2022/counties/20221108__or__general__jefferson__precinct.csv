@@ -1,0 +1,543 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson,Haystack 1,Ballots Cast,,,,1031
+Jefferson,Crooked River Ranch 2,Ballots Cast,,,,3012
+Jefferson,Ashwood 5,Ballots Cast,,,,40
+Jefferson,Kutcher 6,Ballots Cast,,,,101
+Jefferson,Lyle Gap 8,Ballots Cast,,,,12
+Jefferson,Metolius 11,Ballots Cast,,,,351
+Jefferson,East Madras 13,Ballots Cast,,,,1304
+Jefferson,Warm Springs 14,Ballots Cast,,,,417
+Jefferson,Suttle Lake 15,Ballots Cast,,,,3
+Jefferson,Camp Sherman 16,Ballots Cast,,,,222
+Jefferson,Culver 17,Ballots Cast,,,,591
+Jefferson,Round Butte 18,Ballots Cast,,,,392
+Jefferson,West Madras 19,Ballots Cast,,,,809
+Jefferson,Circle M 20,Ballots Cast,,,,123
+Jefferson,Central 21,Ballots Cast,,,,780
+Jefferson,Sunset 22,Ballots Cast,,,,536
+Jefferson,Agency Plains 23,Ballots Cast,,,,358
+Jefferson,Haystack 1,Ballots Cast Blank,,,,0
+Jefferson,Crooked River Ranch 2,Ballots Cast Blank,,,,1
+Jefferson,Ashwood 5,Ballots Cast Blank,,,,0
+Jefferson,Kutcher 6,Ballots Cast Blank,,,,0
+Jefferson,Lyle Gap 8,Ballots Cast Blank,,,,0
+Jefferson,Metolius 11,Ballots Cast Blank,,,,0
+Jefferson,East Madras 13,Ballots Cast Blank,,,,0
+Jefferson,Warm Springs 14,Ballots Cast Blank,,,,0
+Jefferson,Suttle Lake 15,Ballots Cast Blank,,,,0
+Jefferson,Camp Sherman 16,Ballots Cast Blank,,,,0
+Jefferson,Culver 17,Ballots Cast Blank,,,,1
+Jefferson,Round Butte 18,Ballots Cast Blank,,,,1
+Jefferson,West Madras 19,Ballots Cast Blank,,,,2
+Jefferson,Circle M 20,Ballots Cast Blank,,,,0
+Jefferson,Central 21,Ballots Cast Blank,,,,0
+Jefferson,Sunset 22,Ballots Cast Blank,,,,0
+Jefferson,Agency Plains 23,Ballots Cast Blank,,,,0
+Jefferson,Haystack 1,U.S. Senate,,REP,Jo Rae Perkins,733
+Jefferson,Crooked River Ranch 2,U.S. Senate,,REP,Jo Rae Perkins,1924
+Jefferson,Ashwood 5,U.S. Senate,,REP,Jo Rae Perkins,28
+Jefferson,Kutcher 6,U.S. Senate,,REP,Jo Rae Perkins,78
+Jefferson,Lyle Gap 8,U.S. Senate,,REP,Jo Rae Perkins,7
+Jefferson,Metolius 11,U.S. Senate,,REP,Jo Rae Perkins,206
+Jefferson,East Madras 13,U.S. Senate,,REP,Jo Rae Perkins,740
+Jefferson,Warm Springs 14,U.S. Senate,,REP,Jo Rae Perkins,62
+Jefferson,Suttle Lake 15,U.S. Senate,,REP,Jo Rae Perkins,0
+Jefferson,Camp Sherman 16,U.S. Senate,,REP,Jo Rae Perkins,73
+Jefferson,Culver 17,U.S. Senate,,REP,Jo Rae Perkins,379
+Jefferson,Round Butte 18,U.S. Senate,,REP,Jo Rae Perkins,266
+Jefferson,West Madras 19,U.S. Senate,,REP,Jo Rae Perkins,427
+Jefferson,Circle M 20,U.S. Senate,,REP,Jo Rae Perkins,82
+Jefferson,Central 21,U.S. Senate,,REP,Jo Rae Perkins,493
+Jefferson,Sunset 22,U.S. Senate,,REP,Jo Rae Perkins,344
+Jefferson,Agency Plains 23,U.S. Senate,,REP,Jo Rae Perkins,241
+Jefferson,Haystack 1,U.S. Senate,,PGP,Dan Pulju,7
+Jefferson,Crooked River Ranch 2,U.S. Senate,,PGP,Dan Pulju,26
+Jefferson,Ashwood 5,U.S. Senate,,PGP,Dan Pulju,0
+Jefferson,Kutcher 6,U.S. Senate,,PGP,Dan Pulju,2
+Jefferson,Lyle Gap 8,U.S. Senate,,PGP,Dan Pulju,0
+Jefferson,Metolius 11,U.S. Senate,,PGP,Dan Pulju,1
+Jefferson,East Madras 13,U.S. Senate,,PGP,Dan Pulju,14
+Jefferson,Warm Springs 14,U.S. Senate,,PGP,Dan Pulju,6
+Jefferson,Suttle Lake 15,U.S. Senate,,PGP,Dan Pulju,0
+Jefferson,Camp Sherman 16,U.S. Senate,,PGP,Dan Pulju,2
+Jefferson,Culver 17,U.S. Senate,,PGP,Dan Pulju,6
+Jefferson,Round Butte 18,U.S. Senate,,PGP,Dan Pulju,5
+Jefferson,West Madras 19,U.S. Senate,,PGP,Dan Pulju,7
+Jefferson,Circle M 20,U.S. Senate,,PGP,Dan Pulju,1
+Jefferson,Central 21,U.S. Senate,,PGP,Dan Pulju,4
+Jefferson,Sunset 22,U.S. Senate,,PGP,Dan Pulju,2
+Jefferson,Agency Plains 23,U.S. Senate,,PGP,Dan Pulju,1
+Jefferson,Haystack 1,U.S. Senate,,DEM,Ron Wyden,265
+Jefferson,Crooked River Ranch 2,U.S. Senate,,DEM,Ron Wyden,984
+Jefferson,Ashwood 5,U.S. Senate,,DEM,Ron Wyden,11
+Jefferson,Kutcher 6,U.S. Senate,,DEM,Ron Wyden,19
+Jefferson,Lyle Gap 8,U.S. Senate,,DEM,Ron Wyden,3
+Jefferson,Metolius 11,U.S. Senate,,DEM,Ron Wyden,129
+Jefferson,East Madras 13,U.S. Senate,,DEM,Ron Wyden,502
+Jefferson,Warm Springs 14,U.S. Senate,,DEM,Ron Wyden,335
+Jefferson,Suttle Lake 15,U.S. Senate,,DEM,Ron Wyden,3
+Jefferson,Camp Sherman 16,U.S. Senate,,DEM,Ron Wyden,142
+Jefferson,Culver 17,U.S. Senate,,DEM,Ron Wyden,178
+Jefferson,Round Butte 18,U.S. Senate,,DEM,Ron Wyden,107
+Jefferson,West Madras 19,U.S. Senate,,DEM,Ron Wyden,336
+Jefferson,Circle M 20,U.S. Senate,,DEM,Ron Wyden,39
+Jefferson,Central 21,U.S. Senate,,DEM,Ron Wyden,262
+Jefferson,Sunset 22,U.S. Senate,,DEM,Ron Wyden,174
+Jefferson,Agency Plains 23,U.S. Senate,,DEM,Ron Wyden,108
+Jefferson,Haystack 1,U.S. Senate,,PRO,Chris Henry,9
+Jefferson,Crooked River Ranch 2,U.S. Senate,,PRO,Chris Henry,18
+Jefferson,Ashwood 5,U.S. Senate,,PRO,Chris Henry,0
+Jefferson,Kutcher 6,U.S. Senate,,PRO,Chris Henry,0
+Jefferson,Lyle Gap 8,U.S. Senate,,PRO,Chris Henry,0
+Jefferson,Metolius 11,U.S. Senate,,PRO,Chris Henry,8
+Jefferson,East Madras 13,U.S. Senate,,PRO,Chris Henry,24
+Jefferson,Warm Springs 14,U.S. Senate,,PRO,Chris Henry,9
+Jefferson,Suttle Lake 15,U.S. Senate,,PRO,Chris Henry,0
+Jefferson,Camp Sherman 16,U.S. Senate,,PRO,Chris Henry,1
+Jefferson,Culver 17,U.S. Senate,,PRO,Chris Henry,11
+Jefferson,Round Butte 18,U.S. Senate,,PRO,Chris Henry,6
+Jefferson,West Madras 19,U.S. Senate,,PRO,Chris Henry,24
+Jefferson,Circle M 20,U.S. Senate,,PRO,Chris Henry,0
+Jefferson,Central 21,U.S. Senate,,PRO,Chris Henry,6
+Jefferson,Sunset 22,U.S. Senate,,PRO,Chris Henry,6
+Jefferson,Agency Plains 23,U.S. Senate,,PRO,Chris Henry,2
+Jefferson,Haystack 1,U.S. Senate,,,Write-ins,2
+Jefferson,Crooked River Ranch 2,U.S. Senate,,,Write-ins,5
+Jefferson,Ashwood 5,U.S. Senate,,,Write-ins,0
+Jefferson,Kutcher 6,U.S. Senate,,,Write-ins,0
+Jefferson,Lyle Gap 8,U.S. Senate,,,Write-ins,0
+Jefferson,Metolius 11,U.S. Senate,,,Write-ins,0
+Jefferson,East Madras 13,U.S. Senate,,,Write-ins,3
+Jefferson,Warm Springs 14,U.S. Senate,,,Write-ins,1
+Jefferson,Suttle Lake 15,U.S. Senate,,,Write-ins,0
+Jefferson,Camp Sherman 16,U.S. Senate,,,Write-ins,0
+Jefferson,Culver 17,U.S. Senate,,,Write-ins,0
+Jefferson,Round Butte 18,U.S. Senate,,,Write-ins,0
+Jefferson,West Madras 19,U.S. Senate,,,Write-ins,1
+Jefferson,Circle M 20,U.S. Senate,,,Write-ins,0
+Jefferson,Central 21,U.S. Senate,,,Write-ins,0
+Jefferson,Sunset 22,U.S. Senate,,,Write-ins,0
+Jefferson,Agency Plains 23,U.S. Senate,,,Write-ins,0
+Jefferson,Haystack 1,U.S. Senate,,,Over Votes,0
+Jefferson,Crooked River Ranch 2,U.S. Senate,,,Over Votes,0
+Jefferson,Ashwood 5,U.S. Senate,,,Over Votes,0
+Jefferson,Kutcher 6,U.S. Senate,,,Over Votes,0
+Jefferson,Lyle Gap 8,U.S. Senate,,,Over Votes,0
+Jefferson,Metolius 11,U.S. Senate,,,Over Votes,0
+Jefferson,East Madras 13,U.S. Senate,,,Over Votes,0
+Jefferson,Warm Springs 14,U.S. Senate,,,Over Votes,0
+Jefferson,Suttle Lake 15,U.S. Senate,,,Over Votes,0
+Jefferson,Camp Sherman 16,U.S. Senate,,,Over Votes,0
+Jefferson,Culver 17,U.S. Senate,,,Over Votes,0
+Jefferson,Round Butte 18,U.S. Senate,,,Over Votes,1
+Jefferson,West Madras 19,U.S. Senate,,,Over Votes,0
+Jefferson,Circle M 20,U.S. Senate,,,Over Votes,0
+Jefferson,Central 21,U.S. Senate,,,Over Votes,0
+Jefferson,Sunset 22,U.S. Senate,,,Over Votes,0
+Jefferson,Agency Plains 23,U.S. Senate,,,Over Votes,0
+Jefferson,Haystack 1,U.S. Senate,,,Under Votes,15
+Jefferson,Crooked River Ranch 2,U.S. Senate,,,Under Votes,55
+Jefferson,Ashwood 5,U.S. Senate,,,Under Votes,1
+Jefferson,Kutcher 6,U.S. Senate,,,Under Votes,2
+Jefferson,Lyle Gap 8,U.S. Senate,,,Under Votes,2
+Jefferson,Metolius 11,U.S. Senate,,,Under Votes,7
+Jefferson,East Madras 13,U.S. Senate,,,Under Votes,21
+Jefferson,Warm Springs 14,U.S. Senate,,,Under Votes,4
+Jefferson,Suttle Lake 15,U.S. Senate,,,Under Votes,0
+Jefferson,Camp Sherman 16,U.S. Senate,,,Under Votes,4
+Jefferson,Culver 17,U.S. Senate,,,Under Votes,17
+Jefferson,Round Butte 18,U.S. Senate,,,Under Votes,7
+Jefferson,West Madras 19,U.S. Senate,,,Under Votes,14
+Jefferson,Circle M 20,U.S. Senate,,,Under Votes,1
+Jefferson,Central 21,U.S. Senate,,,Under Votes,15
+Jefferson,Sunset 22,U.S. Senate,,,Under Votes,10
+Jefferson,Agency Plains 23,U.S. Senate,,,Under Votes,6
+Jefferson,Haystack 1,U.S. House,2,DEM,Joe Yetter,187
+Jefferson,Crooked River Ranch 2,U.S. House,2,DEM,Joe Yetter,515
+Jefferson,Ashwood 5,U.S. House,2,DEM,Joe Yetter,10
+Jefferson,Kutcher 6,U.S. House,2,DEM,Joe Yetter,13
+Jefferson,Lyle Gap 8,U.S. House,2,DEM,Joe Yetter,2
+Jefferson,Metolius 11,U.S. House,2,DEM,Joe Yetter,102
+Jefferson,East Madras 13,U.S. House,2,DEM,Joe Yetter,423
+Jefferson,Warm Springs 14,U.S. House,2,DEM,Joe Yetter,298
+Jefferson,Camp Sherman 16,U.S. House,2,DEM,Joe Yetter,133
+Jefferson,Culver 17,U.S. House,2,DEM,Joe Yetter,153
+Jefferson,Round Butte 18,U.S. House,2,DEM,Joe Yetter,85
+Jefferson,West Madras 19,U.S. House,2,DEM,Joe Yetter,291
+Jefferson,Circle M 20,U.S. House,2,DEM,Joe Yetter,28
+Jefferson,Central 21,U.S. House,2,DEM,Joe Yetter,197
+Jefferson,Sunset 22,U.S. House,2,DEM,Joe Yetter,134
+Jefferson,Agency Plains 23,U.S. House,2,DEM,Joe Yetter,65
+Jefferson,Haystack 1,U.S. House,2,REP,Cliff S Bentz,811
+Jefferson,Crooked River Ranch 2,U.S. House,2,REP,Cliff S Bentz,2065
+Jefferson,Ashwood 5,U.S. House,2,REP,Cliff S Bentz,28
+Jefferson,Kutcher 6,U.S. House,2,REP,Cliff S Bentz,84
+Jefferson,Lyle Gap 8,U.S. House,2,REP,Cliff S Bentz,9
+Jefferson,Metolius 11,U.S. House,2,REP,Cliff S Bentz,225
+Jefferson,East Madras 13,U.S. House,2,REP,Cliff S Bentz,808
+Jefferson,Warm Springs 14,U.S. House,2,REP,Cliff S Bentz,90
+Jefferson,Camp Sherman 16,U.S. House,2,REP,Cliff S Bentz,80
+Jefferson,Culver 17,U.S. House,2,REP,Cliff S Bentz,404
+Jefferson,Round Butte 18,U.S. House,2,REP,Cliff S Bentz,296
+Jefferson,West Madras 19,U.S. House,2,REP,Cliff S Bentz,478
+Jefferson,Circle M 20,U.S. House,2,REP,Cliff S Bentz,88
+Jefferson,Central 21,U.S. House,2,REP,Cliff S Bentz,552
+Jefferson,Sunset 22,U.S. House,2,REP,Cliff S Bentz,374
+Jefferson,Agency Plains 23,U.S. House,2,REP,Cliff S Bentz,287
+Jefferson,Haystack 1,U.S. House,2,,Write-ins,1
+Jefferson,Crooked River Ranch 2,U.S. House,2,,Write-ins,2
+Jefferson,Ashwood 5,U.S. House,2,,Write-ins,0
+Jefferson,Kutcher 6,U.S. House,2,,Write-ins,0
+Jefferson,Lyle Gap 8,U.S. House,2,,Write-ins,0
+Jefferson,Metolius 11,U.S. House,2,,Write-ins,1
+Jefferson,East Madras 13,U.S. House,2,,Write-ins,6
+Jefferson,Warm Springs 14,U.S. House,2,,Write-ins,2
+Jefferson,Camp Sherman 16,U.S. House,2,,Write-ins,0
+Jefferson,Culver 17,U.S. House,2,,Write-ins,3
+Jefferson,Round Butte 18,U.S. House,2,,Write-ins,0
+Jefferson,West Madras 19,U.S. House,2,,Write-ins,0
+Jefferson,Circle M 20,U.S. House,2,,Write-ins,0
+Jefferson,Central 21,U.S. House,2,,Write-ins,1
+Jefferson,Sunset 22,U.S. House,2,,Write-ins,0
+Jefferson,Agency Plains 23,U.S. House,2,,Write-ins,0
+Jefferson,Haystack 1,U.S. House,2,,Over Votes,0
+Jefferson,Crooked River Ranch 2,U.S. House,2,,Over Votes,0
+Jefferson,Ashwood 5,U.S. House,2,,Over Votes,0
+Jefferson,Kutcher 6,U.S. House,2,,Over Votes,0
+Jefferson,Lyle Gap 8,U.S. House,2,,Over Votes,0
+Jefferson,Metolius 11,U.S. House,2,,Over Votes,0
+Jefferson,East Madras 13,U.S. House,2,,Over Votes,0
+Jefferson,Warm Springs 14,U.S. House,2,,Over Votes,0
+Jefferson,Camp Sherman 16,U.S. House,2,,Over Votes,0
+Jefferson,Culver 17,U.S. House,2,,Over Votes,0
+Jefferson,Round Butte 18,U.S. House,2,,Over Votes,0
+Jefferson,West Madras 19,U.S. House,2,,Over Votes,0
+Jefferson,Circle M 20,U.S. House,2,,Over Votes,0
+Jefferson,Central 21,U.S. House,2,,Over Votes,0
+Jefferson,Sunset 22,U.S. House,2,,Over Votes,0
+Jefferson,Agency Plains 23,U.S. House,2,,Over Votes,0
+Jefferson,Haystack 1,U.S. House,2,,Under Votes,32
+Jefferson,Crooked River Ranch 2,U.S. House,2,,Under Votes,130
+Jefferson,Ashwood 5,U.S. House,2,,Under Votes,2
+Jefferson,Kutcher 6,U.S. House,2,,Under Votes,4
+Jefferson,Lyle Gap 8,U.S. House,2,,Under Votes,1
+Jefferson,Metolius 11,U.S. House,2,,Under Votes,23
+Jefferson,East Madras 13,U.S. House,2,,Under Votes,67
+Jefferson,Warm Springs 14,U.S. House,2,,Under Votes,27
+Jefferson,Camp Sherman 16,U.S. House,2,,Under Votes,9
+Jefferson,Culver 17,U.S. House,2,,Under Votes,31
+Jefferson,Round Butte 18,U.S. House,2,,Under Votes,11
+Jefferson,West Madras 19,U.S. House,2,,Under Votes,40
+Jefferson,Circle M 20,U.S. House,2,,Under Votes,7
+Jefferson,Central 21,U.S. House,2,,Under Votes,30
+Jefferson,Sunset 22,U.S. House,2,,Under Votes,28
+Jefferson,Agency Plains 23,U.S. House,2,,Under Votes,6
+Jefferson,Suttle Lake 15,U.S. House,5,REP,Lori Chavez-DeRemer,0
+Jefferson,Suttle Lake 15,U.S. House,5,DEM,Jamie McLeod-Skinner,3
+Jefferson,Suttle Lake 15,U.S. House,5,,Write-ins,0
+Jefferson,Suttle Lake 15,U.S. House,5,,Over Votes,0
+Jefferson,Suttle Lake 15,U.S. House,5,,Under Votes,0
+Jefferson,Haystack 1,Governor,,DEM,Tina Kotek,132
+Jefferson,Crooked River Ranch 2,Governor,,DEM,Tina Kotek,642
+Jefferson,Ashwood 5,Governor,,DEM,Tina Kotek,4
+Jefferson,Kutcher 6,Governor,,DEM,Tina Kotek,11
+Jefferson,Lyle Gap 8,Governor,,DEM,Tina Kotek,0
+Jefferson,Metolius 11,Governor,,DEM,Tina Kotek,81
+Jefferson,East Madras 13,Governor,,DEM,Tina Kotek,364
+Jefferson,Warm Springs 14,Governor,,DEM,Tina Kotek,280
+Jefferson,Suttle Lake 15,Governor,,DEM,Tina Kotek,2
+Jefferson,Camp Sherman 16,Governor,,DEM,Tina Kotek,109
+Jefferson,Culver 17,Governor,,DEM,Tina Kotek,130
+Jefferson,Round Butte 18,Governor,,DEM,Tina Kotek,49
+Jefferson,West Madras 19,Governor,,DEM,Tina Kotek,234
+Jefferson,Circle M 20,Governor,,DEM,Tina Kotek,24
+Jefferson,Central 21,Governor,,DEM,Tina Kotek,151
+Jefferson,Sunset 22,Governor,,DEM,Tina Kotek,110
+Jefferson,Agency Plains 23,Governor,,DEM,Tina Kotek,53
+Jefferson,Haystack 1,Governor,,CON,Donice Noelle Smith,3
+Jefferson,Crooked River Ranch 2,Governor,,CON,Donice Noelle Smith,19
+Jefferson,Ashwood 5,Governor,,CON,Donice Noelle Smith,2
+Jefferson,Kutcher 6,Governor,,CON,Donice Noelle Smith,0
+Jefferson,Lyle Gap 8,Governor,,CON,Donice Noelle Smith,0
+Jefferson,Metolius 11,Governor,,CON,Donice Noelle Smith,1
+Jefferson,East Madras 13,Governor,,CON,Donice Noelle Smith,18
+Jefferson,Warm Springs 14,Governor,,CON,Donice Noelle Smith,6
+Jefferson,Suttle Lake 15,Governor,,CON,Donice Noelle Smith,0
+Jefferson,Camp Sherman 16,Governor,,CON,Donice Noelle Smith,0
+Jefferson,Culver 17,Governor,,CON,Donice Noelle Smith,5
+Jefferson,Round Butte 18,Governor,,CON,Donice Noelle Smith,3
+Jefferson,West Madras 19,Governor,,CON,Donice Noelle Smith,9
+Jefferson,Circle M 20,Governor,,CON,Donice Noelle Smith,0
+Jefferson,Central 21,Governor,,CON,Donice Noelle Smith,6
+Jefferson,Sunset 22,Governor,,CON,Donice Noelle Smith,2
+Jefferson,Agency Plains 23,Governor,,CON,Donice Noelle Smith,0
+Jefferson,Haystack 1,Governor,,LBT,R Leon Noble,9
+Jefferson,Crooked River Ranch 2,Governor,,LBT,R Leon Noble,8
+Jefferson,Ashwood 5,Governor,,LBT,R Leon Noble,0
+Jefferson,Kutcher 6,Governor,,LBT,R Leon Noble,1
+Jefferson,Lyle Gap 8,Governor,,LBT,R Leon Noble,0
+Jefferson,Metolius 11,Governor,,LBT,R Leon Noble,1
+Jefferson,East Madras 13,Governor,,LBT,R Leon Noble,3
+Jefferson,Warm Springs 14,Governor,,LBT,R Leon Noble,4
+Jefferson,Suttle Lake 15,Governor,,LBT,R Leon Noble,0
+Jefferson,Camp Sherman 16,Governor,,LBT,R Leon Noble,2
+Jefferson,Culver 17,Governor,,LBT,R Leon Noble,1
+Jefferson,Round Butte 18,Governor,,LBT,R Leon Noble,2
+Jefferson,West Madras 19,Governor,,LBT,R Leon Noble,7
+Jefferson,Circle M 20,Governor,,LBT,R Leon Noble,5
+Jefferson,Central 21,Governor,,LBT,R Leon Noble,1
+Jefferson,Sunset 22,Governor,,LBT,R Leon Noble,1
+Jefferson,Agency Plains 23,Governor,,LBT,R Leon Noble,0
+Jefferson,Haystack 1,Governor,,NAV,Betsy Johnson,111
+Jefferson,Crooked River Ranch 2,Governor,,NAV,Betsy Johnson,344
+Jefferson,Ashwood 5,Governor,,NAV,Betsy Johnson,7
+Jefferson,Kutcher 6,Governor,,NAV,Betsy Johnson,13
+Jefferson,Lyle Gap 8,Governor,,NAV,Betsy Johnson,1
+Jefferson,Metolius 11,Governor,,NAV,Betsy Johnson,53
+Jefferson,East Madras 13,Governor,,NAV,Betsy Johnson,157
+Jefferson,Warm Springs 14,Governor,,NAV,Betsy Johnson,51
+Jefferson,Suttle Lake 15,Governor,,NAV,Betsy Johnson,1
+Jefferson,Camp Sherman 16,Governor,,NAV,Betsy Johnson,39
+Jefferson,Culver 17,Governor,,NAV,Betsy Johnson,54
+Jefferson,Round Butte 18,Governor,,NAV,Betsy Johnson,51
+Jefferson,West Madras 19,Governor,,NAV,Betsy Johnson,105
+Jefferson,Circle M 20,Governor,,NAV,Betsy Johnson,9
+Jefferson,Central 21,Governor,,NAV,Betsy Johnson,104
+Jefferson,Sunset 22,Governor,,NAV,Betsy Johnson,70
+Jefferson,Agency Plains 23,Governor,,NAV,Betsy Johnson,42
+Jefferson,Haystack 1,Governor,,REP,Christine Drazan,767
+Jefferson,Crooked River Ranch 2,Governor,,REP,Christine Drazan,1963
+Jefferson,Ashwood 5,Governor,,REP,Christine Drazan,26
+Jefferson,Kutcher 6,Governor,,REP,Christine Drazan,76
+Jefferson,Lyle Gap 8,Governor,,REP,Christine Drazan,10
+Jefferson,Metolius 11,Governor,,REP,Christine Drazan,211
+Jefferson,East Madras 13,Governor,,REP,Christine Drazan,745
+Jefferson,Warm Springs 14,Governor,,REP,Christine Drazan,70
+Jefferson,Suttle Lake 15,Governor,,REP,Christine Drazan,0
+Jefferson,Camp Sherman 16,Governor,,REP,Christine Drazan,71
+Jefferson,Culver 17,Governor,,REP,Christine Drazan,392
+Jefferson,Round Butte 18,Governor,,REP,Christine Drazan,280
+Jefferson,West Madras 19,Governor,,REP,Christine Drazan,436
+Jefferson,Circle M 20,Governor,,REP,Christine Drazan,84
+Jefferson,Central 21,Governor,,REP,Christine Drazan,513
+Jefferson,Sunset 22,Governor,,REP,Christine Drazan,347
+Jefferson,Agency Plains 23,Governor,,REP,Christine Drazan,260
+Jefferson,Haystack 1,Governor,,,Write-ins,3
+Jefferson,Crooked River Ranch 2,Governor,,,Write-ins,6
+Jefferson,Ashwood 5,Governor,,,Write-ins,0
+Jefferson,Kutcher 6,Governor,,,Write-ins,0
+Jefferson,Lyle Gap 8,Governor,,,Write-ins,0
+Jefferson,Metolius 11,Governor,,,Write-ins,0
+Jefferson,East Madras 13,Governor,,,Write-ins,2
+Jefferson,Warm Springs 14,Governor,,,Write-ins,2
+Jefferson,Suttle Lake 15,Governor,,,Write-ins,0
+Jefferson,Camp Sherman 16,Governor,,,Write-ins,0
+Jefferson,Culver 17,Governor,,,Write-ins,1
+Jefferson,Round Butte 18,Governor,,,Write-ins,0
+Jefferson,West Madras 19,Governor,,,Write-ins,4
+Jefferson,Circle M 20,Governor,,,Write-ins,1
+Jefferson,Central 21,Governor,,,Write-ins,0
+Jefferson,Sunset 22,Governor,,,Write-ins,0
+Jefferson,Agency Plains 23,Governor,,,Write-ins,0
+Jefferson,Haystack 1,Governor,,,Over Votes,0
+Jefferson,Crooked River Ranch 2,Governor,,,Over Votes,0
+Jefferson,Ashwood 5,Governor,,,Over Votes,0
+Jefferson,Kutcher 6,Governor,,,Over Votes,0
+Jefferson,Lyle Gap 8,Governor,,,Over Votes,0
+Jefferson,Metolius 11,Governor,,,Over Votes,0
+Jefferson,East Madras 13,Governor,,,Over Votes,0
+Jefferson,Warm Springs 14,Governor,,,Over Votes,0
+Jefferson,Suttle Lake 15,Governor,,,Over Votes,0
+Jefferson,Camp Sherman 16,Governor,,,Over Votes,0
+Jefferson,Culver 17,Governor,,,Over Votes,0
+Jefferson,Round Butte 18,Governor,,,Over Votes,1
+Jefferson,West Madras 19,Governor,,,Over Votes,0
+Jefferson,Circle M 20,Governor,,,Over Votes,0
+Jefferson,Central 21,Governor,,,Over Votes,0
+Jefferson,Sunset 22,Governor,,,Over Votes,0
+Jefferson,Agency Plains 23,Governor,,,Over Votes,0
+Jefferson,Haystack 1,Governor,,,Under Votes,6
+Jefferson,Crooked River Ranch 2,Governor,,,Under Votes,30
+Jefferson,Ashwood 5,Governor,,,Under Votes,1
+Jefferson,Kutcher 6,Governor,,,Under Votes,0
+Jefferson,Lyle Gap 8,Governor,,,Under Votes,1
+Jefferson,Metolius 11,Governor,,,Under Votes,4
+Jefferson,East Madras 13,Governor,,,Under Votes,15
+Jefferson,Warm Springs 14,Governor,,,Under Votes,4
+Jefferson,Suttle Lake 15,Governor,,,Under Votes,0
+Jefferson,Camp Sherman 16,Governor,,,Under Votes,1
+Jefferson,Culver 17,Governor,,,Under Votes,8
+Jefferson,Round Butte 18,Governor,,,Under Votes,6
+Jefferson,West Madras 19,Governor,,,Under Votes,14
+Jefferson,Circle M 20,Governor,,,Under Votes,0
+Jefferson,Central 21,Governor,,,Under Votes,5
+Jefferson,Sunset 22,Governor,,,Under Votes,6
+Jefferson,Agency Plains 23,Governor,,,Under Votes,3
+Jefferson,Warm Springs 14,State House,57,REP,Greg Smith,299
+Jefferson,Warm Springs 14,State House,57,,Write-ins,19
+Jefferson,Warm Springs 14,State House,57,,Over Votes,0
+Jefferson,Warm Springs 14,State House,57,,Under Votes,99
+Jefferson,Agency Plains 23,State House,57,REP,Greg Smith,279
+Jefferson,Agency Plains 23,State House,57,,Write-ins,4
+Jefferson,Agency Plains 23,State House,57,,Over Votes,0
+Jefferson,Agency Plains 23,State House,57,,Under Votes,75
+Jefferson,Haystack 1,State House,59,REP,Vikki Breese-Iverson,801
+Jefferson,Crooked River Ranch 2,State House,59,REP,Vikki Breese-Iverson,2075
+Jefferson,Ashwood 5,State House,59,REP,Vikki Breese-Iverson,32
+Jefferson,Kutcher 6,State House,59,REP,Vikki Breese-Iverson,79
+Jefferson,Lyle Gap 8,State House,59,REP,Vikki Breese-Iverson,9
+Jefferson,Metolius 11,State House,59,REP,Vikki Breese-Iverson,219
+Jefferson,East Madras 13,State House,59,REP,Vikki Breese-Iverson,799
+Jefferson,Suttle Lake 15,State House,59,REP,Vikki Breese-Iverson,0
+Jefferson,Camp Sherman 16,State House,59,REP,Vikki Breese-Iverson,81
+Jefferson,Culver 17,State House,59,REP,Vikki Breese-Iverson,410
+Jefferson,Round Butte 18,State House,59,REP,Vikki Breese-Iverson,295
+Jefferson,West Madras 19,State House,59,REP,Vikki Breese-Iverson,485
+Jefferson,Circle M 20,State House,59,REP,Vikki Breese-Iverson,95
+Jefferson,Central 21,State House,59,REP,Vikki Breese-Iverson,557
+Jefferson,Sunset 22,State House,59,REP,Vikki Breese-Iverson,377
+Jefferson,Haystack 1,State House,59,DEM,Lawrence Jones,194
+Jefferson,Crooked River Ranch 2,State House,59,DEM,Lawrence Jones,808
+Jefferson,Ashwood 5,State House,59,DEM,Lawrence Jones,8
+Jefferson,Kutcher 6,State House,59,DEM,Lawrence Jones,19
+Jefferson,Lyle Gap 8,State House,59,DEM,Lawrence Jones,0
+Jefferson,Metolius 11,State House,59,DEM,Lawrence Jones,107
+Jefferson,East Madras 13,State House,59,DEM,Lawrence Jones,430
+Jefferson,Suttle Lake 15,State House,59,DEM,Lawrence Jones,3
+Jefferson,Camp Sherman 16,State House,59,DEM,Lawrence Jones,136
+Jefferson,Culver 17,State House,59,DEM,Lawrence Jones,156
+Jefferson,Round Butte 18,State House,59,DEM,Lawrence Jones,81
+Jefferson,West Madras 19,State House,59,DEM,Lawrence Jones,283
+Jefferson,Circle M 20,State House,59,DEM,Lawrence Jones,24
+Jefferson,Central 21,State House,59,DEM,Lawrence Jones,190
+Jefferson,Sunset 22,State House,59,DEM,Lawrence Jones,136
+Jefferson,Haystack 1,State House,59,,Write-ins,0
+Jefferson,Crooked River Ranch 2,State House,59,,Write-ins,3
+Jefferson,Ashwood 5,State House,59,,Write-ins,0
+Jefferson,Kutcher 6,State House,59,,Write-ins,0
+Jefferson,Lyle Gap 8,State House,59,,Write-ins,0
+Jefferson,Metolius 11,State House,59,,Write-ins,0
+Jefferson,East Madras 13,State House,59,,Write-ins,3
+Jefferson,Suttle Lake 15,State House,59,,Write-ins,0
+Jefferson,Camp Sherman 16,State House,59,,Write-ins,0
+Jefferson,Culver 17,State House,59,,Write-ins,2
+Jefferson,Round Butte 18,State House,59,,Write-ins,1
+Jefferson,West Madras 19,State House,59,,Write-ins,1
+Jefferson,Circle M 20,State House,59,,Write-ins,0
+Jefferson,Central 21,State House,59,,Write-ins,2
+Jefferson,Sunset 22,State House,59,,Write-ins,0
+Jefferson,Haystack 1,State House,59,,Over Votes,0
+Jefferson,Crooked River Ranch 2,State House,59,,Over Votes,0
+Jefferson,Ashwood 5,State House,59,,Over Votes,0
+Jefferson,Kutcher 6,State House,59,,Over Votes,0
+Jefferson,Lyle Gap 8,State House,59,,Over Votes,0
+Jefferson,Metolius 11,State House,59,,Over Votes,0
+Jefferson,East Madras 13,State House,59,,Over Votes,0
+Jefferson,Suttle Lake 15,State House,59,,Over Votes,0
+Jefferson,Camp Sherman 16,State House,59,,Over Votes,0
+Jefferson,Culver 17,State House,59,,Over Votes,0
+Jefferson,Round Butte 18,State House,59,,Over Votes,0
+Jefferson,West Madras 19,State House,59,,Over Votes,0
+Jefferson,Circle M 20,State House,59,,Over Votes,0
+Jefferson,Central 21,State House,59,,Over Votes,0
+Jefferson,Sunset 22,State House,59,,Over Votes,0
+Jefferson,Haystack 1,State House,59,,Under Votes,36
+Jefferson,Crooked River Ranch 2,State House,59,,Under Votes,126
+Jefferson,Ashwood 5,State House,59,,Under Votes,0
+Jefferson,Kutcher 6,State House,59,,Under Votes,3
+Jefferson,Lyle Gap 8,State House,59,,Under Votes,3
+Jefferson,Metolius 11,State House,59,,Under Votes,25
+Jefferson,East Madras 13,State House,59,,Under Votes,72
+Jefferson,Suttle Lake 15,State House,59,,Under Votes,0
+Jefferson,Camp Sherman 16,State House,59,,Under Votes,5
+Jefferson,Culver 17,State House,59,,Under Votes,23
+Jefferson,Round Butte 18,State House,59,,Under Votes,15
+Jefferson,West Madras 19,State House,59,,Under Votes,40
+Jefferson,Circle M 20,State House,59,,Under Votes,4
+Jefferson,Central 21,State House,59,,Under Votes,31
+Jefferson,Sunset 22,State House,59,,Under Votes,23
+Jefferson,Haystack 1,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,277
+Jefferson,Crooked River Ranch 2,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,919
+Jefferson,Ashwood 5,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,7
+Jefferson,Kutcher 6,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,22
+Jefferson,Lyle Gap 8,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,1
+Jefferson,Metolius 11,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,135
+Jefferson,East Madras 13,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,518
+Jefferson,Warm Springs 14,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,231
+Jefferson,Suttle Lake 15,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,1
+Jefferson,Camp Sherman 16,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,105
+Jefferson,Culver 17,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,230
+Jefferson,Round Butte 18,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,105
+Jefferson,West Madras 19,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,326
+Jefferson,Circle M 20,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,35
+Jefferson,Central 21,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,237
+Jefferson,Sunset 22,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,155
+Jefferson,Agency Plains 23,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,106
+Jefferson,Haystack 1,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,512
+Jefferson,Crooked River Ranch 2,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,1439
+Jefferson,Ashwood 5,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,27
+Jefferson,Kutcher 6,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,52
+Jefferson,Lyle Gap 8,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,3
+Jefferson,Metolius 11,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,132
+Jefferson,East Madras 13,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,506
+Jefferson,Warm Springs 14,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,118
+Jefferson,Suttle Lake 15,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,1
+Jefferson,Camp Sherman 16,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,68
+Jefferson,Culver 17,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,249
+Jefferson,Round Butte 18,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,196
+Jefferson,West Madras 19,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,318
+Jefferson,Circle M 20,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,59
+Jefferson,Central 21,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,368
+Jefferson,Sunset 22,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,247
+Jefferson,Agency Plains 23,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,163
+Jefferson,Haystack 1,Commissioner of the Bureau of Labor and Industries,,,Write-ins,4
+Jefferson,Crooked River Ranch 2,Commissioner of the Bureau of Labor and Industries,,,Write-ins,16
+Jefferson,Ashwood 5,Commissioner of the Bureau of Labor and Industries,,,Write-ins,0
+Jefferson,Kutcher 6,Commissioner of the Bureau of Labor and Industries,,,Write-ins,2
+Jefferson,Lyle Gap 8,Commissioner of the Bureau of Labor and Industries,,,Write-ins,0
+Jefferson,Metolius 11,Commissioner of the Bureau of Labor and Industries,,,Write-ins,5
+Jefferson,East Madras 13,Commissioner of the Bureau of Labor and Industries,,,Write-ins,7
+Jefferson,Warm Springs 14,Commissioner of the Bureau of Labor and Industries,,,Write-ins,2
+Jefferson,Suttle Lake 15,Commissioner of the Bureau of Labor and Industries,,,Write-ins,0
+Jefferson,Camp Sherman 16,Commissioner of the Bureau of Labor and Industries,,,Write-ins,1
+Jefferson,Culver 17,Commissioner of the Bureau of Labor and Industries,,,Write-ins,4
+Jefferson,Round Butte 18,Commissioner of the Bureau of Labor and Industries,,,Write-ins,0
+Jefferson,West Madras 19,Commissioner of the Bureau of Labor and Industries,,,Write-ins,8
+Jefferson,Circle M 20,Commissioner of the Bureau of Labor and Industries,,,Write-ins,1
+Jefferson,Central 21,Commissioner of the Bureau of Labor and Industries,,,Write-ins,5
+Jefferson,Sunset 22,Commissioner of the Bureau of Labor and Industries,,,Write-ins,4
+Jefferson,Agency Plains 23,Commissioner of the Bureau of Labor and Industries,,,Write-ins,3
+Jefferson,Haystack 1,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Crooked River Ranch 2,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Ashwood 5,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Kutcher 6,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Lyle Gap 8,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Metolius 11,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,East Madras 13,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Warm Springs 14,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Suttle Lake 15,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Camp Sherman 16,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Culver 17,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Round Butte 18,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,West Madras 19,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Circle M 20,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Central 21,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Sunset 22,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Agency Plains 23,Commissioner of the Bureau of Labor and Industries,,,Over Votes,0
+Jefferson,Haystack 1,Commissioner of the Bureau of Labor and Industries,,,Under Votes,238
+Jefferson,Crooked River Ranch 2,Commissioner of the Bureau of Labor and Industries,,,Under Votes,638
+Jefferson,Ashwood 5,Commissioner of the Bureau of Labor and Industries,,,Under Votes,6
+Jefferson,Kutcher 6,Commissioner of the Bureau of Labor and Industries,,,Under Votes,25
+Jefferson,Lyle Gap 8,Commissioner of the Bureau of Labor and Industries,,,Under Votes,8
+Jefferson,Metolius 11,Commissioner of the Bureau of Labor and Industries,,,Under Votes,79
+Jefferson,East Madras 13,Commissioner of the Bureau of Labor and Industries,,,Under Votes,273
+Jefferson,Warm Springs 14,Commissioner of the Bureau of Labor and Industries,,,Under Votes,66
+Jefferson,Suttle Lake 15,Commissioner of the Bureau of Labor and Industries,,,Under Votes,1
+Jefferson,Camp Sherman 16,Commissioner of the Bureau of Labor and Industries,,,Under Votes,48
+Jefferson,Culver 17,Commissioner of the Bureau of Labor and Industries,,,Under Votes,108
+Jefferson,Round Butte 18,Commissioner of the Bureau of Labor and Industries,,,Under Votes,91
+Jefferson,West Madras 19,Commissioner of the Bureau of Labor and Industries,,,Under Votes,157
+Jefferson,Circle M 20,Commissioner of the Bureau of Labor and Industries,,,Under Votes,28
+Jefferson,Central 21,Commissioner of the Bureau of Labor and Industries,,,Under Votes,170
+Jefferson,Sunset 22,Commissioner of the Bureau of Labor and Industries,,,Under Votes,130
+Jefferson,Agency Plains 23,Commissioner of the Bureau of Labor and Industries,,,Under Votes,86
