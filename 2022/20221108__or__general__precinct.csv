@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,votes,vtd
 Columbia,01 City of Clatskanie,Registered Voters,,,,1297
 Columbia,04 N Clatskanie-Marshl,Registered Voters,,,,803
 Columbia,05 S Clatskanie,Registered Voters,,,,759
@@ -2175,516 +2175,516 @@ Lincoln,29 Siletz,Commissioner of the Bureau of Labor and Industries,,Under Vote
 Lincoln,30 Rock Creek,Commissioner of the Bureau of Labor and Industries,,Under Votes,,56
 Lincoln,31 East Toledo,Commissioner of the Bureau of Labor and Industries,,Under Votes,,256
 Lincoln,32 South Toledo,Commissioner of the Bureau of Labor and Industries,,Under Votes,,183
-Crook,Precinct 01,U.S. Senate,,REP,Jo Rae Perkins,267
-Crook,Precinct 01,U.S. Senate,,PGP,Dan Pulju,7
-Crook,Precinct 01,U.S. Senate,,DEM,Ron Wyden,137
-Crook,Precinct 01,U.S. Senate,,PRO,Chris Henry,4
-Crook,Precinct 01,U.S. Senate,,,Write-in,1
-Crook,Precinct 01,U.S. Senate,,,Overvotes,0
-Crook,Precinct 01,U.S. Senate,,,Undervotes,11
-Crook,Precinct 01,U.S. House,2,DEM,Joe Yetter,103
-Crook,Precinct 01,U.S. House,2,REP,Cliff S Bentz,306
-Crook,Precinct 01,U.S. House,2,,Write-in,1
-Crook,Precinct 01,U.S. House,2,,Overvotes,0
-Crook,Precinct 01,U.S. House,2,,Undervotes,17
-Crook,Precinct 01,Governor,,DEM,Tina Kotek,77
-Crook,Precinct 01,Governor,,CON,Donice Noelle Smith,1
-Crook,Precinct 01,Governor,,LBT,R Leon Noble,3
-Crook,Precinct 01,Governor,,NAV,Betsy Johnson,57
-Crook,Precinct 01,Governor,,REP,Christine Drazan,281
-Crook,Precinct 01,Governor,,,Write-in,0
-Crook,Precinct 01,Governor,,,Overvotes,0
-Crook,Precinct 01,Governor,,,Undervotes,8
-Crook,Precinct 01,State House,59,REP,Vikki Breese-Iverson,305
-Crook,Precinct 01,State House,59,DEM,Lawrence Jones,107
-Crook,Precinct 01,State House,59,,Write-in,0
-Crook,Precinct 01,State House,59,,Overvotes,0
-Crook,Precinct 01,State House,59,,Undervotes,15
-Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,139
-Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,202
-Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,,Write-in,3
-Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,,Undervotes,83
-Crook,Precinct 02,U.S. Senate,,REP,Jo Rae Perkins,263
-Crook,Precinct 02,U.S. Senate,,PGP,Dan Pulju,1
-Crook,Precinct 02,U.S. Senate,,DEM,Ron Wyden,101
-Crook,Precinct 02,U.S. Senate,,PRO,Chris Henry,4
-Crook,Precinct 02,U.S. Senate,,,Write-in,0
-Crook,Precinct 02,U.S. Senate,,,Overvotes,0
-Crook,Precinct 02,U.S. Senate,,,Undervotes,2
-Crook,Precinct 02,U.S. House,2,DEM,Joe Yetter,82
-Crook,Precinct 02,U.S. House,2,REP,Cliff S Bentz,279
-Crook,Precinct 02,U.S. House,2,,Write-in,0
-Crook,Precinct 02,U.S. House,2,,Overvotes,0
-Crook,Precinct 02,U.S. House,2,,Undervotes,10
-Crook,Precinct 02,Governor,,DEM,Tina Kotek,64
-Crook,Precinct 02,Governor,,CON,Donice Noelle Smith,1
-Crook,Precinct 02,Governor,,LBT,R Leon Noble,3
-Crook,Precinct 02,Governor,,NAV,Betsy Johnson,31
-Crook,Precinct 02,Governor,,REP,Christine Drazan,266
-Crook,Precinct 02,Governor,,,Write-in,3
-Crook,Precinct 02,Governor,,,Overvotes,0
-Crook,Precinct 02,Governor,,,Undervotes,3
-Crook,Precinct 02,State House,59,REP,Vikki Breese-Iverson,289
-Crook,Precinct 02,State House,59,DEM,Lawrence Jones,70
-Crook,Precinct 02,State House,59,,Write-in,0
-Crook,Precinct 02,State House,59,,Overvotes,0
-Crook,Precinct 02,State House,59,,Undervotes,12
-Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,126
-Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,157
-Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,,Write-in,6
-Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,,Undervotes,82
-Crook,Precinct 03,U.S. Senate,,REP,Jo Rae Perkins,115
-Crook,Precinct 03,U.S. Senate,,PGP,Dan Pulju,3
-Crook,Precinct 03,U.S. Senate,,DEM,Ron Wyden,73
-Crook,Precinct 03,U.S. Senate,,PRO,Chris Henry,2
-Crook,Precinct 03,U.S. Senate,,,Write-in,0
-Crook,Precinct 03,U.S. Senate,,,Overvotes,0
-Crook,Precinct 03,U.S. Senate,,,Undervotes,9
-Crook,Precinct 03,U.S. House,2,DEM,Joe Yetter,58
-Crook,Precinct 03,U.S. House,2,REP,Cliff S Bentz,132
-Crook,Precinct 03,U.S. House,2,,Write-in,0
-Crook,Precinct 03,U.S. House,2,,Overvotes,0
-Crook,Precinct 03,U.S. House,2,,Undervotes,12
-Crook,Precinct 03,Governor,,DEM,Tina Kotek,49
-Crook,Precinct 03,Governor,,CON,Donice Noelle Smith,1
-Crook,Precinct 03,Governor,,LBT,R Leon Noble,2
-Crook,Precinct 03,Governor,,NAV,Betsy Johnson,19
-Crook,Precinct 03,Governor,,REP,Christine Drazan,126
-Crook,Precinct 03,Governor,,,Write-in,0
-Crook,Precinct 03,Governor,,,Overvotes,0
-Crook,Precinct 03,Governor,,,Undervotes,4
-Crook,Precinct 03,State House,59,REP,Vikki Breese-Iverson,137
-Crook,Precinct 03,State House,59,DEM,Lawrence Jones,55
-Crook,Precinct 03,State House,59,,Write-in,0
-Crook,Precinct 03,State House,59,,Overvotes,0
-Crook,Precinct 03,State House,59,,Undervotes,9
-Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,68
-Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,79
-Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,,Write-in,1
-Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,,Undervotes,53
-Crook,Precinct 04,U.S. Senate,,REP,Jo Rae Perkins,847
-Crook,Precinct 04,U.S. Senate,,PGP,Dan Pulju,12
-Crook,Precinct 04,U.S. Senate,,DEM,Ron Wyden,236
-Crook,Precinct 04,U.S. Senate,,PRO,Chris Henry,10
-Crook,Precinct 04,U.S. Senate,,,Write-in,4
-Crook,Precinct 04,U.S. Senate,,,Overvotes,0
-Crook,Precinct 04,U.S. Senate,,,Undervotes,18
-Crook,Precinct 04,U.S. House,2,DEM,Joe Yetter,168
-Crook,Precinct 04,U.S. House,2,REP,Cliff S Bentz,927
-Crook,Precinct 04,U.S. House,2,,Write-in,0
-Crook,Precinct 04,U.S. House,2,,Overvotes,0
-Crook,Precinct 04,U.S. House,2,,Undervotes,32
-Crook,Precinct 04,Governor,,DEM,Tina Kotek,123
-Crook,Precinct 04,Governor,,CON,Donice Noelle Smith,5
-Crook,Precinct 04,Governor,,LBT,R Leon Noble,3
-Crook,Precinct 04,Governor,,NAV,Betsy Johnson,98
-Crook,Precinct 04,Governor,,REP,Christine Drazan,889
-Crook,Precinct 04,Governor,,,Write-in,2
-Crook,Precinct 04,Governor,,,Overvotes,0
-Crook,Precinct 04,Governor,,,Undervotes,7
-Crook,Precinct 04,State House,59,REP,Vikki Breese-Iverson,946
-Crook,Precinct 04,State House,59,DEM,Lawrence Jones,153
-Crook,Precinct 04,State House,59,,Write-in,1
-Crook,Precinct 04,State House,59,,Overvotes,0
-Crook,Precinct 04,State House,59,,Undervotes,27
-Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,279
-Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,602
-Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,,Write-in,6
-Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,,Undervotes,240
-Crook,Precinct 05,U.S. Senate,,REP,Jo Rae Perkins,1347
-Crook,Precinct 05,U.S. Senate,,PGP,Dan Pulju,9
-Crook,Precinct 05,U.S. Senate,,DEM,Ron Wyden,515
-Crook,Precinct 05,U.S. Senate,,PRO,Chris Henry,26
-Crook,Precinct 05,U.S. Senate,,,Write-in,2
-Crook,Precinct 05,U.S. Senate,,,Overvotes,0
-Crook,Precinct 05,U.S. Senate,,,Undervotes,40
-Crook,Precinct 05,U.S. House,2,DEM,Joe Yetter,390
-Crook,Precinct 05,U.S. House,2,REP,Cliff S Bentz,1478
-Crook,Precinct 05,U.S. House,2,,Write-in,2
-Crook,Precinct 05,U.S. House,2,,Overvotes,0
-Crook,Precinct 05,U.S. House,2,,Undervotes,69
-Crook,Precinct 05,Governor,,DEM,Tina Kotek,307
-Crook,Precinct 05,Governor,,CON,Donice Noelle Smith,15
-Crook,Precinct 05,Governor,,LBT,R Leon Noble,6
-Crook,Precinct 05,Governor,,NAV,Betsy Johnson,193
-Crook,Precinct 05,Governor,,REP,Christine Drazan,1393
-Crook,Precinct 05,Governor,,,Write-in,5
-Crook,Precinct 05,Governor,,,Overvotes,0
-Crook,Precinct 05,Governor,,,Undervotes,19
-Crook,Precinct 05,State House,59,REP,Vikki Breese-Iverson,1488
-Crook,Precinct 05,State House,59,DEM,Lawrence Jones,380
-Crook,Precinct 05,State House,59,,Write-in,4
-Crook,Precinct 05,State House,59,,Overvotes,0
-Crook,Precinct 05,State House,59,,Undervotes,66
-Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,552
-Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,918
-Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,,Write-in,15
-Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,,Undervotes,453
-Crook,Precinct 06,U.S. Senate,,REP,Jo Rae Perkins,452
-Crook,Precinct 06,U.S. Senate,,PGP,Dan Pulju,7
-Crook,Precinct 06,U.S. Senate,,DEM,Ron Wyden,259
-Crook,Precinct 06,U.S. Senate,,PRO,Chris Henry,10
-Crook,Precinct 06,U.S. Senate,,,Write-in,0
-Crook,Precinct 06,U.S. Senate,,,Overvotes,0
-Crook,Precinct 06,U.S. Senate,,,Undervotes,17
-Crook,Precinct 06,U.S. House,2,DEM,Joe Yetter,213
-Crook,Precinct 06,U.S. House,2,REP,Cliff S Bentz,508
-Crook,Precinct 06,U.S. House,2,,Write-in,0
-Crook,Precinct 06,U.S. House,2,,Overvotes,0
-Crook,Precinct 06,U.S. House,2,,Undervotes,24
-Crook,Precinct 06,Governor,,DEM,Tina Kotek,174
-Crook,Precinct 06,Governor,,CON,Donice Noelle Smith,2
-Crook,Precinct 06,Governor,,LBT,R Leon Noble,3
-Crook,Precinct 06,Governor,,NAV,Betsy Johnson,70
-Crook,Precinct 06,Governor,,REP,Christine Drazan,492
-Crook,Precinct 06,Governor,,,Write-in,1
-Crook,Precinct 06,Governor,,,Overvotes,0
-Crook,Precinct 06,Governor,,,Undervotes,3
-Crook,Precinct 06,State House,59,REP,Vikki Breese-Iverson,526
-Crook,Precinct 06,State House,59,DEM,Lawrence Jones,204
-Crook,Precinct 06,State House,59,,Write-in,1
-Crook,Precinct 06,State House,59,,Overvotes,0
-Crook,Precinct 06,State House,59,,Undervotes,14
-Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,250
-Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,316
-Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,,Write-in,3
-Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,,Overvotes,1
-Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,,Undervotes,175
-Crook,Precinct 07,U.S. Senate,,REP,Jo Rae Perkins,237
-Crook,Precinct 07,U.S. Senate,,PGP,Dan Pulju,1
-Crook,Precinct 07,U.S. Senate,,DEM,Ron Wyden,42
-Crook,Precinct 07,U.S. Senate,,PRO,Chris Henry,1
-Crook,Precinct 07,U.S. Senate,,,Write-in,0
-Crook,Precinct 07,U.S. Senate,,,Overvotes,0
-Crook,Precinct 07,U.S. Senate,,,Undervotes,4
-Crook,Precinct 07,U.S. House,2,DEM,Joe Yetter,32
-Crook,Precinct 07,U.S. House,2,REP,Cliff S Bentz,247
-Crook,Precinct 07,U.S. House,2,,Write-in,0
-Crook,Precinct 07,U.S. House,2,,Overvotes,0
-Crook,Precinct 07,U.S. House,2,,Undervotes,6
-Crook,Precinct 07,Governor,,DEM,Tina Kotek,25
-Crook,Precinct 07,Governor,,CON,Donice Noelle Smith,5
-Crook,Precinct 07,Governor,,LBT,R Leon Noble,1
-Crook,Precinct 07,Governor,,NAV,Betsy Johnson,17
-Crook,Precinct 07,Governor,,REP,Christine Drazan,235
-Crook,Precinct 07,Governor,,,Write-in,0
-Crook,Precinct 07,Governor,,,Overvotes,0
-Crook,Precinct 07,Governor,,,Undervotes,1
-Crook,Precinct 07,State House,59,REP,Vikki Breese-Iverson,252
-Crook,Precinct 07,State House,59,DEM,Lawrence Jones,29
-Crook,Precinct 07,State House,59,,Write-in,0
-Crook,Precinct 07,State House,59,,Overvotes,0
-Crook,Precinct 07,State House,59,,Undervotes,3
-Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,41
-Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,151
-Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,,Write-in,3
-Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,,Undervotes,89
-Crook,Precinct 08,U.S. Senate,,REP,Jo Rae Perkins,356
-Crook,Precinct 08,U.S. Senate,,PGP,Dan Pulju,4
-Crook,Precinct 08,U.S. Senate,,DEM,Ron Wyden,143
-Crook,Precinct 08,U.S. Senate,,PRO,Chris Henry,11
-Crook,Precinct 08,U.S. Senate,,,Write-in,0
-Crook,Precinct 08,U.S. Senate,,,Overvotes,1
-Crook,Precinct 08,U.S. Senate,,,Undervotes,10
-Crook,Precinct 08,U.S. House,2,DEM,Joe Yetter,104
-Crook,Precinct 08,U.S. House,2,REP,Cliff S Bentz,404
-Crook,Precinct 08,U.S. House,2,,Write-in,0
-Crook,Precinct 08,U.S. House,2,,Overvotes,0
-Crook,Precinct 08,U.S. House,2,,Undervotes,17
-Crook,Precinct 08,Governor,,DEM,Tina Kotek,87
-Crook,Precinct 08,Governor,,CON,Donice Noelle Smith,4
-Crook,Precinct 08,Governor,,LBT,R Leon Noble,3
-Crook,Precinct 08,Governor,,NAV,Betsy Johnson,51
-Crook,Precinct 08,Governor,,REP,Christine Drazan,376
-Crook,Precinct 08,Governor,,,Write-in,0
-Crook,Precinct 08,Governor,,,Overvotes,0
-Crook,Precinct 08,Governor,,,Undervotes,4
-Crook,Precinct 08,State House,59,REP,Vikki Breese-Iverson,411
-Crook,Precinct 08,State House,59,DEM,Lawrence Jones,99
-Crook,Precinct 08,State House,59,,Write-in,0
-Crook,Precinct 08,State House,59,,Overvotes,0
-Crook,Precinct 08,State House,59,,Undervotes,15
-Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,162
-Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,239
-Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,,Write-in,5
-Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,,Undervotes,119
-Crook,Precinct 09,U.S. Senate,,REP,Jo Rae Perkins,144
-Crook,Precinct 09,U.S. Senate,,PGP,Dan Pulju,4
-Crook,Precinct 09,U.S. Senate,,DEM,Ron Wyden,33
-Crook,Precinct 09,U.S. Senate,,PRO,Chris Henry,0
-Crook,Precinct 09,U.S. Senate,,,Write-in,0
-Crook,Precinct 09,U.S. Senate,,,Overvotes,0
-Crook,Precinct 09,U.S. Senate,,,Undervotes,0
-Crook,Precinct 09,U.S. House,2,DEM,Joe Yetter,26
-Crook,Precinct 09,U.S. House,2,REP,Cliff S Bentz,152
-Crook,Precinct 09,U.S. House,2,,Write-in,0
-Crook,Precinct 09,U.S. House,2,,Overvotes,0
-Crook,Precinct 09,U.S. House,2,,Undervotes,3
-Crook,Precinct 09,Governor,,DEM,Tina Kotek,21
-Crook,Precinct 09,Governor,,CON,Donice Noelle Smith,0
-Crook,Precinct 09,Governor,,LBT,R Leon Noble,0
-Crook,Precinct 09,Governor,,NAV,Betsy Johnson,6
-Crook,Precinct 09,Governor,,REP,Christine Drazan,153
-Crook,Precinct 09,Governor,,,Write-in,0
-Crook,Precinct 09,Governor,,,Overvotes,0
-Crook,Precinct 09,Governor,,,Undervotes,0
-Crook,Precinct 09,State House,59,REP,Vikki Breese-Iverson,154
-Crook,Precinct 09,State House,59,DEM,Lawrence Jones,23
-Crook,Precinct 09,State House,59,,Write-in,0
-Crook,Precinct 09,State House,59,,Overvotes,0
-Crook,Precinct 09,State House,59,,Undervotes,3
-Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,46
-Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,89
-Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,,Write-in,1
-Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,,Undervotes,44
-Crook,Precinct 10,U.S. Senate,,REP,Jo Rae Perkins,224
-Crook,Precinct 10,U.S. Senate,,PGP,Dan Pulju,1
-Crook,Precinct 10,U.S. Senate,,DEM,Ron Wyden,135
-Crook,Precinct 10,U.S. Senate,,PRO,Chris Henry,6
-Crook,Precinct 10,U.S. Senate,,,Write-in,0
-Crook,Precinct 10,U.S. Senate,,,Overvotes,0
-Crook,Precinct 10,U.S. Senate,,,Undervotes,14
-Crook,Precinct 10,U.S. House,2,DEM,Joe Yetter,101
-Crook,Precinct 10,U.S. House,2,REP,Cliff S Bentz,255
-Crook,Precinct 10,U.S. House,2,,Write-in,1
-Crook,Precinct 10,U.S. House,2,,Overvotes,0
-Crook,Precinct 10,U.S. House,2,,Undervotes,23
-Crook,Precinct 10,Governor,,DEM,Tina Kotek,79
-Crook,Precinct 10,Governor,,CON,Donice Noelle Smith,0
-Crook,Precinct 10,Governor,,LBT,R Leon Noble,1
-Crook,Precinct 10,Governor,,NAV,Betsy Johnson,55
-Crook,Precinct 10,Governor,,REP,Christine Drazan,240
-Crook,Precinct 10,Governor,,,Write-in,1
-Crook,Precinct 10,Governor,,,Overvotes,0
-Crook,Precinct 10,Governor,,,Undervotes,4
-Crook,Precinct 10,State House,59,REP,Vikki Breese-Iverson,273
-Crook,Precinct 10,State House,59,DEM,Lawrence Jones,93
-Crook,Precinct 10,State House,59,,Write-in,0
-Crook,Precinct 10,State House,59,,Overvotes,0
-Crook,Precinct 10,State House,59,,Undervotes,14
-Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,140
-Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,147
-Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,,Write-in,2
-Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,,Undervotes,91
-Crook,Precinct 11,U.S. Senate,,REP,Jo Rae Perkins,1526
-Crook,Precinct 11,U.S. Senate,,PGP,Dan Pulju,22
-Crook,Precinct 11,U.S. Senate,,DEM,Ron Wyden,615
-Crook,Precinct 11,U.S. Senate,,PRO,Chris Henry,10
-Crook,Precinct 11,U.S. Senate,,,Write-in,4
-Crook,Precinct 11,U.S. Senate,,,Overvotes,0
-Crook,Precinct 11,U.S. Senate,,,Undervotes,45
-Crook,Precinct 11,U.S. House,2,DEM,Joe Yetter,479
-Crook,Precinct 11,U.S. House,2,REP,Cliff S Bentz,1688
-Crook,Precinct 11,U.S. House,2,,Write-in,1
-Crook,Precinct 11,U.S. House,2,,Overvotes,0
-Crook,Precinct 11,U.S. House,2,,Undervotes,54
-Crook,Precinct 11,Governor,,DEM,Tina Kotek,368
-Crook,Precinct 11,Governor,,CON,Donice Noelle Smith,7
-Crook,Precinct 11,Governor,,LBT,R Leon Noble,3
-Crook,Precinct 11,Governor,,NAV,Betsy Johnson,214
-Crook,Precinct 11,Governor,,REP,Christine Drazan,1620
-Crook,Precinct 11,Governor,,,Write-in,0
-Crook,Precinct 11,Governor,,,Overvotes,0
-Crook,Precinct 11,Governor,,,Undervotes,9
-Crook,Precinct 11,State House,59,REP,Vikki Breese-Iverson,1702
-Crook,Precinct 11,State House,59,DEM,Lawrence Jones,461
-Crook,Precinct 11,State House,59,,Write-in,6
-Crook,Precinct 11,State House,59,,Overvotes,0
-Crook,Precinct 11,State House,59,,Undervotes,52
-Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,525
-Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,1219
-Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,,Write-in,11
-Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,,Undervotes,466
-Crook,Precinct 12,U.S. Senate,,REP,Jo Rae Perkins,122
-Crook,Precinct 12,U.S. Senate,,PGP,Dan Pulju,4
-Crook,Precinct 12,U.S. Senate,,DEM,Ron Wyden,29
-Crook,Precinct 12,U.S. Senate,,PRO,Chris Henry,2
-Crook,Precinct 12,U.S. Senate,,,Write-in,0
-Crook,Precinct 12,U.S. Senate,,,Overvotes,0
-Crook,Precinct 12,U.S. Senate,,,Undervotes,4
-Crook,Precinct 12,U.S. House,2,DEM,Joe Yetter,23
-Crook,Precinct 12,U.S. House,2,REP,Cliff S Bentz,135
-Crook,Precinct 12,U.S. House,2,,Write-in,0
-Crook,Precinct 12,U.S. House,2,,Overvotes,0
-Crook,Precinct 12,U.S. House,2,,Undervotes,3
-Crook,Precinct 12,Governor,,DEM,Tina Kotek,16
-Crook,Precinct 12,Governor,,CON,Donice Noelle Smith,0
-Crook,Precinct 12,Governor,,LBT,R Leon Noble,1
-Crook,Precinct 12,Governor,,NAV,Betsy Johnson,22
-Crook,Precinct 12,Governor,,REP,Christine Drazan,121
-Crook,Precinct 12,Governor,,,Write-in,0
-Crook,Precinct 12,Governor,,,Overvotes,0
-Crook,Precinct 12,Governor,,,Undervotes,1
-Crook,Precinct 12,State House,59,REP,Vikki Breese-Iverson,133
-Crook,Precinct 12,State House,59,DEM,Lawrence Jones,25
-Crook,Precinct 12,State House,59,,Write-in,0
-Crook,Precinct 12,State House,59,,Overvotes,0
-Crook,Precinct 12,State House,59,,Undervotes,3
-Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,32
-Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,95
-Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,,Write-in,1
-Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,,Undervotes,33
-Crook,Precinct 13,U.S. Senate,,REP,Jo Rae Perkins,533
-Crook,Precinct 13,U.S. Senate,,PGP,Dan Pulju,5
-Crook,Precinct 13,U.S. Senate,,DEM,Ron Wyden,180
-Crook,Precinct 13,U.S. Senate,,PRO,Chris Henry,7
-Crook,Precinct 13,U.S. Senate,,,Write-in,0
-Crook,Precinct 13,U.S. Senate,,,Overvotes,0
-Crook,Precinct 13,U.S. Senate,,,Undervotes,4
-Crook,Precinct 13,U.S. House,2,DEM,Joe Yetter,128
-Crook,Precinct 13,U.S. House,2,REP,Cliff S Bentz,585
-Crook,Precinct 13,U.S. House,2,,Write-in,2
-Crook,Precinct 13,U.S. House,2,,Overvotes,0
-Crook,Precinct 13,U.S. House,2,,Undervotes,14
-Crook,Precinct 13,Governor,,DEM,Tina Kotek,87
-Crook,Precinct 13,Governor,,CON,Donice Noelle Smith,3
-Crook,Precinct 13,Governor,,LBT,R Leon Noble,3
-Crook,Precinct 13,Governor,,NAV,Betsy Johnson,78
-Crook,Precinct 13,Governor,,REP,Christine Drazan,557
-Crook,Precinct 13,Governor,,,Write-in,0
-Crook,Precinct 13,Governor,,,Overvotes,0
-Crook,Precinct 13,Governor,,,Undervotes,1
-Crook,Precinct 13,State House,59,REP,Vikki Breese-Iverson,602
-Crook,Precinct 13,State House,59,DEM,Lawrence Jones,117
-Crook,Precinct 13,State House,59,,Write-in,1
-Crook,Precinct 13,State House,59,,Overvotes,0
-Crook,Precinct 13,State House,59,,Undervotes,9
-Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,192
-Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,369
-Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,,Write-in,7
-Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,,Undervotes,161
-Crook,Precinct 14,U.S. Senate,,REP,Jo Rae Perkins,271
-Crook,Precinct 14,U.S. Senate,,PGP,Dan Pulju,4
-Crook,Precinct 14,U.S. Senate,,DEM,Ron Wyden,127
-Crook,Precinct 14,U.S. Senate,,PRO,Chris Henry,9
-Crook,Precinct 14,U.S. Senate,,,Write-in,2
-Crook,Precinct 14,U.S. Senate,,,Overvotes,0
-Crook,Precinct 14,U.S. Senate,,,Undervotes,5
-Crook,Precinct 14,U.S. House,2,DEM,Joe Yetter,100
-Crook,Precinct 14,U.S. House,2,REP,Cliff S Bentz,302
-Crook,Precinct 14,U.S. House,2,,Write-in,1
-Crook,Precinct 14,U.S. House,2,,Overvotes,0
-Crook,Precinct 14,U.S. House,2,,Undervotes,15
-Crook,Precinct 14,Governor,,DEM,Tina Kotek,86
-Crook,Precinct 14,Governor,,CON,Donice Noelle Smith,2
-Crook,Precinct 14,Governor,,LBT,R Leon Noble,2
-Crook,Precinct 14,Governor,,NAV,Betsy Johnson,38
-Crook,Precinct 14,Governor,,REP,Christine Drazan,288
-Crook,Precinct 14,Governor,,,Write-in,1
-Crook,Precinct 14,Governor,,,Overvotes,0
-Crook,Precinct 14,Governor,,,Undervotes,1
-Crook,Precinct 14,State House,59,REP,Vikki Breese-Iverson,307
-Crook,Precinct 14,State House,59,DEM,Lawrence Jones,99
-Crook,Precinct 14,State House,59,,Write-in,1
-Crook,Precinct 14,State House,59,,Overvotes,0
-Crook,Precinct 14,State House,59,,Undervotes,11
-Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,151
-Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,169
-Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,,Write-in,10
-Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,,Undervotes,88
-Crook,Precinct 15,U.S. Senate,,REP,Jo Rae Perkins,836
-Crook,Precinct 15,U.S. Senate,,PGP,Dan Pulju,11
-Crook,Precinct 15,U.S. Senate,,DEM,Ron Wyden,266
-Crook,Precinct 15,U.S. Senate,,PRO,Chris Henry,11
-Crook,Precinct 15,U.S. Senate,,,Write-in,0
-Crook,Precinct 15,U.S. Senate,,,Overvotes,0
-Crook,Precinct 15,U.S. Senate,,,Undervotes,22
-Crook,Precinct 15,U.S. House,2,DEM,Joe Yetter,203
-Crook,Precinct 15,U.S. House,2,REP,Cliff S Bentz,892
-Crook,Precinct 15,U.S. House,2,,Write-in,3
-Crook,Precinct 15,U.S. House,2,,Overvotes,0
-Crook,Precinct 15,U.S. House,2,,Undervotes,48
-Crook,Precinct 15,Governor,,DEM,Tina Kotek,146
-Crook,Precinct 15,Governor,,CON,Donice Noelle Smith,5
-Crook,Precinct 15,Governor,,LBT,R Leon Noble,5
-Crook,Precinct 15,Governor,,NAV,Betsy Johnson,122
-Crook,Precinct 15,Governor,,REP,Christine Drazan,860
-Crook,Precinct 15,Governor,,,Write-in,0
-Crook,Precinct 15,Governor,,,Overvotes,0
-Crook,Precinct 15,Governor,,,Undervotes,8
-Crook,Precinct 15,State House,59,REP,Vikki Breese-Iverson,917
-Crook,Precinct 15,State House,59,DEM,Lawrence Jones,191
-Crook,Precinct 15,State House,59,,Write-in,1
-Crook,Precinct 15,State House,59,,Overvotes,1
-Crook,Precinct 15,State House,59,,Undervotes,36
-Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,301
-Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,535
-Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,,Write-in,10
-Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,,Undervotes,300
-Crook,Precinct 16,U.S. Senate,,REP,Jo Rae Perkins,485
-Crook,Precinct 16,U.S. Senate,,PGP,Dan Pulju,4
-Crook,Precinct 16,U.S. Senate,,DEM,Ron Wyden,142
-Crook,Precinct 16,U.S. Senate,,PRO,Chris Henry,2
-Crook,Precinct 16,U.S. Senate,,,Write-in,2
-Crook,Precinct 16,U.S. Senate,,,Overvotes,0
-Crook,Precinct 16,U.S. Senate,,,Undervotes,11
-Crook,Precinct 16,U.S. House,2,DEM,Joe Yetter,107
-Crook,Precinct 16,U.S. House,2,REP,Cliff S Bentz,519
-Crook,Precinct 16,U.S. House,2,,Write-in,3
-Crook,Precinct 16,U.S. House,2,,Overvotes,0
-Crook,Precinct 16,U.S. House,2,,Undervotes,24
-Crook,Precinct 16,Governor,,DEM,Tina Kotek,82
-Crook,Precinct 16,Governor,,CON,Donice Noelle Smith,7
-Crook,Precinct 16,Governor,,LBT,R Leon Noble,4
-Crook,Precinct 16,Governor,,NAV,Betsy Johnson,71
-Crook,Precinct 16,Governor,,REP,Christine Drazan,484
-Crook,Precinct 16,Governor,,,Write-in,1
-Crook,Precinct 16,Governor,,,Overvotes,0
-Crook,Precinct 16,Governor,,,Undervotes,4
-Crook,Precinct 16,State House,59,REP,Vikki Breese-Iverson,515
-Crook,Precinct 16,State House,59,DEM,Lawrence Jones,106
-Crook,Precinct 16,State House,59,,Write-in,5
-Crook,Precinct 16,State House,59,,Overvotes,0
-Crook,Precinct 16,State House,59,,Undervotes,17
-Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,171
-Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,355
-Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,,Write-in,4
-Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,,Undervotes,123
-Crook,Precinct 17,U.S. Senate,,REP,Jo Rae Perkins,1874
-Crook,Precinct 17,U.S. Senate,,PGP,Dan Pulju,11
-Crook,Precinct 17,U.S. Senate,,DEM,Ron Wyden,697
-Crook,Precinct 17,U.S. Senate,,PRO,Chris Henry,22
-Crook,Precinct 17,U.S. Senate,,,Write-in,4
-Crook,Precinct 17,U.S. Senate,,,Overvotes,0
-Crook,Precinct 17,U.S. Senate,,,Undervotes,44
-Crook,Precinct 17,U.S. House,2,DEM,Joe Yetter,532
-Crook,Precinct 17,U.S. House,2,REP,Cliff S Bentz,2038
-Crook,Precinct 17,U.S. House,2,,Write-in,3
-Crook,Precinct 17,U.S. House,2,,Overvotes,0
-Crook,Precinct 17,U.S. House,2,,Undervotes,79
-Crook,Precinct 17,Governor,,DEM,Tina Kotek,418
-Crook,Precinct 17,Governor,,CON,Donice Noelle Smith,10
-Crook,Precinct 17,Governor,,LBT,R Leon Noble,7
-Crook,Precinct 17,Governor,,NAV,Betsy Johnson,219
-Crook,Precinct 17,Governor,,REP,Christine Drazan,1981
-Crook,Precinct 17,Governor,,,Write-in,1
-Crook,Precinct 17,Governor,,,Overvotes,0
-Crook,Precinct 17,Governor,,,Undervotes,16
-Crook,Precinct 17,State House,59,REP,Vikki Breese-Iverson,2053
-Crook,Precinct 17,State House,59,DEM,Lawrence Jones,519
-Crook,Precinct 17,State House,59,,Write-in,3
-Crook,Precinct 17,State House,59,,Overvotes,0
-Crook,Precinct 17,State House,59,,Undervotes,77
-Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,,Christina E Stephenson,727
-Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,,Cheri Helt,1293
-Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,,Write-in,28
-Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,,Overvotes,0
-Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,,Undervotes,604
+Crook,Precinct 01,U.S. Senate,,Jo Rae Perkins,REP,267
+Crook,Precinct 01,U.S. Senate,,Dan Pulju,PGP,7
+Crook,Precinct 01,U.S. Senate,,Ron Wyden,DEM,137
+Crook,Precinct 01,U.S. Senate,,Chris Henry,PRO,4
+Crook,Precinct 01,U.S. Senate,,Write-in,,1
+Crook,Precinct 01,U.S. Senate,,Overvotes,,0
+Crook,Precinct 01,U.S. Senate,,Undervotes,,11
+Crook,Precinct 01,U.S. House,2,Joe Yetter,DEM,103
+Crook,Precinct 01,U.S. House,2,Cliff S Bentz,REP,306
+Crook,Precinct 01,U.S. House,2,Write-in,,1
+Crook,Precinct 01,U.S. House,2,Overvotes,,0
+Crook,Precinct 01,U.S. House,2,Undervotes,,17
+Crook,Precinct 01,Governor,,Tina Kotek,DEM,77
+Crook,Precinct 01,Governor,,Donice Noelle Smith,CON,1
+Crook,Precinct 01,Governor,,R Leon Noble,LBT,3
+Crook,Precinct 01,Governor,,Betsy Johnson,NAV,57
+Crook,Precinct 01,Governor,,Christine Drazan,REP,281
+Crook,Precinct 01,Governor,,Write-in,,0
+Crook,Precinct 01,Governor,,Overvotes,,0
+Crook,Precinct 01,Governor,,Undervotes,,8
+Crook,Precinct 01,State House,59,Vikki Breese-Iverson,REP,305
+Crook,Precinct 01,State House,59,Lawrence Jones,DEM,107
+Crook,Precinct 01,State House,59,Write-in,,0
+Crook,Precinct 01,State House,59,Overvotes,,0
+Crook,Precinct 01,State House,59,Undervotes,,15
+Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,139
+Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,202
+Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,Write-in,,3
+Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 01,Commissioner of the Bureau of Labor and Industries,,Undervotes,,83
+Crook,Precinct 02,U.S. Senate,,Jo Rae Perkins,REP,263
+Crook,Precinct 02,U.S. Senate,,Dan Pulju,PGP,1
+Crook,Precinct 02,U.S. Senate,,Ron Wyden,DEM,101
+Crook,Precinct 02,U.S. Senate,,Chris Henry,PRO,4
+Crook,Precinct 02,U.S. Senate,,Write-in,,0
+Crook,Precinct 02,U.S. Senate,,Overvotes,,0
+Crook,Precinct 02,U.S. Senate,,Undervotes,,2
+Crook,Precinct 02,U.S. House,2,Joe Yetter,DEM,82
+Crook,Precinct 02,U.S. House,2,Cliff S Bentz,REP,279
+Crook,Precinct 02,U.S. House,2,Write-in,,0
+Crook,Precinct 02,U.S. House,2,Overvotes,,0
+Crook,Precinct 02,U.S. House,2,Undervotes,,10
+Crook,Precinct 02,Governor,,Tina Kotek,DEM,64
+Crook,Precinct 02,Governor,,Donice Noelle Smith,CON,1
+Crook,Precinct 02,Governor,,R Leon Noble,LBT,3
+Crook,Precinct 02,Governor,,Betsy Johnson,NAV,31
+Crook,Precinct 02,Governor,,Christine Drazan,REP,266
+Crook,Precinct 02,Governor,,Write-in,,3
+Crook,Precinct 02,Governor,,Overvotes,,0
+Crook,Precinct 02,Governor,,Undervotes,,3
+Crook,Precinct 02,State House,59,Vikki Breese-Iverson,REP,289
+Crook,Precinct 02,State House,59,Lawrence Jones,DEM,70
+Crook,Precinct 02,State House,59,Write-in,,0
+Crook,Precinct 02,State House,59,Overvotes,,0
+Crook,Precinct 02,State House,59,Undervotes,,12
+Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,126
+Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,157
+Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,Write-in,,6
+Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 02,Commissioner of the Bureau of Labor and Industries,,Undervotes,,82
+Crook,Precinct 03,U.S. Senate,,Jo Rae Perkins,REP,115
+Crook,Precinct 03,U.S. Senate,,Dan Pulju,PGP,3
+Crook,Precinct 03,U.S. Senate,,Ron Wyden,DEM,73
+Crook,Precinct 03,U.S. Senate,,Chris Henry,PRO,2
+Crook,Precinct 03,U.S. Senate,,Write-in,,0
+Crook,Precinct 03,U.S. Senate,,Overvotes,,0
+Crook,Precinct 03,U.S. Senate,,Undervotes,,9
+Crook,Precinct 03,U.S. House,2,Joe Yetter,DEM,58
+Crook,Precinct 03,U.S. House,2,Cliff S Bentz,REP,132
+Crook,Precinct 03,U.S. House,2,Write-in,,0
+Crook,Precinct 03,U.S. House,2,Overvotes,,0
+Crook,Precinct 03,U.S. House,2,Undervotes,,12
+Crook,Precinct 03,Governor,,Tina Kotek,DEM,49
+Crook,Precinct 03,Governor,,Donice Noelle Smith,CON,1
+Crook,Precinct 03,Governor,,R Leon Noble,LBT,2
+Crook,Precinct 03,Governor,,Betsy Johnson,NAV,19
+Crook,Precinct 03,Governor,,Christine Drazan,REP,126
+Crook,Precinct 03,Governor,,Write-in,,0
+Crook,Precinct 03,Governor,,Overvotes,,0
+Crook,Precinct 03,Governor,,Undervotes,,4
+Crook,Precinct 03,State House,59,Vikki Breese-Iverson,REP,137
+Crook,Precinct 03,State House,59,Lawrence Jones,DEM,55
+Crook,Precinct 03,State House,59,Write-in,,0
+Crook,Precinct 03,State House,59,Overvotes,,0
+Crook,Precinct 03,State House,59,Undervotes,,9
+Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,68
+Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,79
+Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,Write-in,,1
+Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 03,Commissioner of the Bureau of Labor and Industries,,Undervotes,,53
+Crook,Precinct 04,U.S. Senate,,Jo Rae Perkins,REP,847
+Crook,Precinct 04,U.S. Senate,,Dan Pulju,PGP,12
+Crook,Precinct 04,U.S. Senate,,Ron Wyden,DEM,236
+Crook,Precinct 04,U.S. Senate,,Chris Henry,PRO,10
+Crook,Precinct 04,U.S. Senate,,Write-in,,4
+Crook,Precinct 04,U.S. Senate,,Overvotes,,0
+Crook,Precinct 04,U.S. Senate,,Undervotes,,18
+Crook,Precinct 04,U.S. House,2,Joe Yetter,DEM,168
+Crook,Precinct 04,U.S. House,2,Cliff S Bentz,REP,927
+Crook,Precinct 04,U.S. House,2,Write-in,,0
+Crook,Precinct 04,U.S. House,2,Overvotes,,0
+Crook,Precinct 04,U.S. House,2,Undervotes,,32
+Crook,Precinct 04,Governor,,Tina Kotek,DEM,123
+Crook,Precinct 04,Governor,,Donice Noelle Smith,CON,5
+Crook,Precinct 04,Governor,,R Leon Noble,LBT,3
+Crook,Precinct 04,Governor,,Betsy Johnson,NAV,98
+Crook,Precinct 04,Governor,,Christine Drazan,REP,889
+Crook,Precinct 04,Governor,,Write-in,,2
+Crook,Precinct 04,Governor,,Overvotes,,0
+Crook,Precinct 04,Governor,,Undervotes,,7
+Crook,Precinct 04,State House,59,Vikki Breese-Iverson,REP,946
+Crook,Precinct 04,State House,59,Lawrence Jones,DEM,153
+Crook,Precinct 04,State House,59,Write-in,,1
+Crook,Precinct 04,State House,59,Overvotes,,0
+Crook,Precinct 04,State House,59,Undervotes,,27
+Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,279
+Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,602
+Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,Write-in,,6
+Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 04,Commissioner of the Bureau of Labor and Industries,,Undervotes,,240
+Crook,Precinct 05,U.S. Senate,,Jo Rae Perkins,REP,1347
+Crook,Precinct 05,U.S. Senate,,Dan Pulju,PGP,9
+Crook,Precinct 05,U.S. Senate,,Ron Wyden,DEM,515
+Crook,Precinct 05,U.S. Senate,,Chris Henry,PRO,26
+Crook,Precinct 05,U.S. Senate,,Write-in,,2
+Crook,Precinct 05,U.S. Senate,,Overvotes,,0
+Crook,Precinct 05,U.S. Senate,,Undervotes,,40
+Crook,Precinct 05,U.S. House,2,Joe Yetter,DEM,390
+Crook,Precinct 05,U.S. House,2,Cliff S Bentz,REP,1478
+Crook,Precinct 05,U.S. House,2,Write-in,,2
+Crook,Precinct 05,U.S. House,2,Overvotes,,0
+Crook,Precinct 05,U.S. House,2,Undervotes,,69
+Crook,Precinct 05,Governor,,Tina Kotek,DEM,307
+Crook,Precinct 05,Governor,,Donice Noelle Smith,CON,15
+Crook,Precinct 05,Governor,,R Leon Noble,LBT,6
+Crook,Precinct 05,Governor,,Betsy Johnson,NAV,193
+Crook,Precinct 05,Governor,,Christine Drazan,REP,1393
+Crook,Precinct 05,Governor,,Write-in,,5
+Crook,Precinct 05,Governor,,Overvotes,,0
+Crook,Precinct 05,Governor,,Undervotes,,19
+Crook,Precinct 05,State House,59,Vikki Breese-Iverson,REP,1488
+Crook,Precinct 05,State House,59,Lawrence Jones,DEM,380
+Crook,Precinct 05,State House,59,Write-in,,4
+Crook,Precinct 05,State House,59,Overvotes,,0
+Crook,Precinct 05,State House,59,Undervotes,,66
+Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,552
+Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,918
+Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,Write-in,,15
+Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 05,Commissioner of the Bureau of Labor and Industries,,Undervotes,,453
+Crook,Precinct 06,U.S. Senate,,Jo Rae Perkins,REP,452
+Crook,Precinct 06,U.S. Senate,,Dan Pulju,PGP,7
+Crook,Precinct 06,U.S. Senate,,Ron Wyden,DEM,259
+Crook,Precinct 06,U.S. Senate,,Chris Henry,PRO,10
+Crook,Precinct 06,U.S. Senate,,Write-in,,0
+Crook,Precinct 06,U.S. Senate,,Overvotes,,0
+Crook,Precinct 06,U.S. Senate,,Undervotes,,17
+Crook,Precinct 06,U.S. House,2,Joe Yetter,DEM,213
+Crook,Precinct 06,U.S. House,2,Cliff S Bentz,REP,508
+Crook,Precinct 06,U.S. House,2,Write-in,,0
+Crook,Precinct 06,U.S. House,2,Overvotes,,0
+Crook,Precinct 06,U.S. House,2,Undervotes,,24
+Crook,Precinct 06,Governor,,Tina Kotek,DEM,174
+Crook,Precinct 06,Governor,,Donice Noelle Smith,CON,2
+Crook,Precinct 06,Governor,,R Leon Noble,LBT,3
+Crook,Precinct 06,Governor,,Betsy Johnson,NAV,70
+Crook,Precinct 06,Governor,,Christine Drazan,REP,492
+Crook,Precinct 06,Governor,,Write-in,,1
+Crook,Precinct 06,Governor,,Overvotes,,0
+Crook,Precinct 06,Governor,,Undervotes,,3
+Crook,Precinct 06,State House,59,Vikki Breese-Iverson,REP,526
+Crook,Precinct 06,State House,59,Lawrence Jones,DEM,204
+Crook,Precinct 06,State House,59,Write-in,,1
+Crook,Precinct 06,State House,59,Overvotes,,0
+Crook,Precinct 06,State House,59,Undervotes,,14
+Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,250
+Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,316
+Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,Write-in,,3
+Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,Overvotes,,1
+Crook,Precinct 06,Commissioner of the Bureau of Labor and Industries,,Undervotes,,175
+Crook,Precinct 07,U.S. Senate,,Jo Rae Perkins,REP,237
+Crook,Precinct 07,U.S. Senate,,Dan Pulju,PGP,1
+Crook,Precinct 07,U.S. Senate,,Ron Wyden,DEM,42
+Crook,Precinct 07,U.S. Senate,,Chris Henry,PRO,1
+Crook,Precinct 07,U.S. Senate,,Write-in,,0
+Crook,Precinct 07,U.S. Senate,,Overvotes,,0
+Crook,Precinct 07,U.S. Senate,,Undervotes,,4
+Crook,Precinct 07,U.S. House,2,Joe Yetter,DEM,32
+Crook,Precinct 07,U.S. House,2,Cliff S Bentz,REP,247
+Crook,Precinct 07,U.S. House,2,Write-in,,0
+Crook,Precinct 07,U.S. House,2,Overvotes,,0
+Crook,Precinct 07,U.S. House,2,Undervotes,,6
+Crook,Precinct 07,Governor,,Tina Kotek,DEM,25
+Crook,Precinct 07,Governor,,Donice Noelle Smith,CON,5
+Crook,Precinct 07,Governor,,R Leon Noble,LBT,1
+Crook,Precinct 07,Governor,,Betsy Johnson,NAV,17
+Crook,Precinct 07,Governor,,Christine Drazan,REP,235
+Crook,Precinct 07,Governor,,Write-in,,0
+Crook,Precinct 07,Governor,,Overvotes,,0
+Crook,Precinct 07,Governor,,Undervotes,,1
+Crook,Precinct 07,State House,59,Vikki Breese-Iverson,REP,252
+Crook,Precinct 07,State House,59,Lawrence Jones,DEM,29
+Crook,Precinct 07,State House,59,Write-in,,0
+Crook,Precinct 07,State House,59,Overvotes,,0
+Crook,Precinct 07,State House,59,Undervotes,,3
+Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,41
+Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,151
+Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,Write-in,,3
+Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 07,Commissioner of the Bureau of Labor and Industries,,Undervotes,,89
+Crook,Precinct 08,U.S. Senate,,Jo Rae Perkins,REP,356
+Crook,Precinct 08,U.S. Senate,,Dan Pulju,PGP,4
+Crook,Precinct 08,U.S. Senate,,Ron Wyden,DEM,143
+Crook,Precinct 08,U.S. Senate,,Chris Henry,PRO,11
+Crook,Precinct 08,U.S. Senate,,Write-in,,0
+Crook,Precinct 08,U.S. Senate,,Overvotes,,1
+Crook,Precinct 08,U.S. Senate,,Undervotes,,10
+Crook,Precinct 08,U.S. House,2,Joe Yetter,DEM,104
+Crook,Precinct 08,U.S. House,2,Cliff S Bentz,REP,404
+Crook,Precinct 08,U.S. House,2,Write-in,,0
+Crook,Precinct 08,U.S. House,2,Overvotes,,0
+Crook,Precinct 08,U.S. House,2,Undervotes,,17
+Crook,Precinct 08,Governor,,Tina Kotek,DEM,87
+Crook,Precinct 08,Governor,,Donice Noelle Smith,CON,4
+Crook,Precinct 08,Governor,,R Leon Noble,LBT,3
+Crook,Precinct 08,Governor,,Betsy Johnson,NAV,51
+Crook,Precinct 08,Governor,,Christine Drazan,REP,376
+Crook,Precinct 08,Governor,,Write-in,,0
+Crook,Precinct 08,Governor,,Overvotes,,0
+Crook,Precinct 08,Governor,,Undervotes,,4
+Crook,Precinct 08,State House,59,Vikki Breese-Iverson,REP,411
+Crook,Precinct 08,State House,59,Lawrence Jones,DEM,99
+Crook,Precinct 08,State House,59,Write-in,,0
+Crook,Precinct 08,State House,59,Overvotes,,0
+Crook,Precinct 08,State House,59,Undervotes,,15
+Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,162
+Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,239
+Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,Write-in,,5
+Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 08,Commissioner of the Bureau of Labor and Industries,,Undervotes,,119
+Crook,Precinct 09,U.S. Senate,,Jo Rae Perkins,REP,144
+Crook,Precinct 09,U.S. Senate,,Dan Pulju,PGP,4
+Crook,Precinct 09,U.S. Senate,,Ron Wyden,DEM,33
+Crook,Precinct 09,U.S. Senate,,Chris Henry,PRO,0
+Crook,Precinct 09,U.S. Senate,,Write-in,,0
+Crook,Precinct 09,U.S. Senate,,Overvotes,,0
+Crook,Precinct 09,U.S. Senate,,Undervotes,,0
+Crook,Precinct 09,U.S. House,2,Joe Yetter,DEM,26
+Crook,Precinct 09,U.S. House,2,Cliff S Bentz,REP,152
+Crook,Precinct 09,U.S. House,2,Write-in,,0
+Crook,Precinct 09,U.S. House,2,Overvotes,,0
+Crook,Precinct 09,U.S. House,2,Undervotes,,3
+Crook,Precinct 09,Governor,,Tina Kotek,DEM,21
+Crook,Precinct 09,Governor,,Donice Noelle Smith,CON,0
+Crook,Precinct 09,Governor,,R Leon Noble,LBT,0
+Crook,Precinct 09,Governor,,Betsy Johnson,NAV,6
+Crook,Precinct 09,Governor,,Christine Drazan,REP,153
+Crook,Precinct 09,Governor,,Write-in,,0
+Crook,Precinct 09,Governor,,Overvotes,,0
+Crook,Precinct 09,Governor,,Undervotes,,0
+Crook,Precinct 09,State House,59,Vikki Breese-Iverson,REP,154
+Crook,Precinct 09,State House,59,Lawrence Jones,DEM,23
+Crook,Precinct 09,State House,59,Write-in,,0
+Crook,Precinct 09,State House,59,Overvotes,,0
+Crook,Precinct 09,State House,59,Undervotes,,3
+Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,46
+Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,89
+Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,Write-in,,1
+Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 09,Commissioner of the Bureau of Labor and Industries,,Undervotes,,44
+Crook,Precinct 10,U.S. Senate,,Jo Rae Perkins,REP,224
+Crook,Precinct 10,U.S. Senate,,Dan Pulju,PGP,1
+Crook,Precinct 10,U.S. Senate,,Ron Wyden,DEM,135
+Crook,Precinct 10,U.S. Senate,,Chris Henry,PRO,6
+Crook,Precinct 10,U.S. Senate,,Write-in,,0
+Crook,Precinct 10,U.S. Senate,,Overvotes,,0
+Crook,Precinct 10,U.S. Senate,,Undervotes,,14
+Crook,Precinct 10,U.S. House,2,Joe Yetter,DEM,101
+Crook,Precinct 10,U.S. House,2,Cliff S Bentz,REP,255
+Crook,Precinct 10,U.S. House,2,Write-in,,1
+Crook,Precinct 10,U.S. House,2,Overvotes,,0
+Crook,Precinct 10,U.S. House,2,Undervotes,,23
+Crook,Precinct 10,Governor,,Tina Kotek,DEM,79
+Crook,Precinct 10,Governor,,Donice Noelle Smith,CON,0
+Crook,Precinct 10,Governor,,R Leon Noble,LBT,1
+Crook,Precinct 10,Governor,,Betsy Johnson,NAV,55
+Crook,Precinct 10,Governor,,Christine Drazan,REP,240
+Crook,Precinct 10,Governor,,Write-in,,1
+Crook,Precinct 10,Governor,,Overvotes,,0
+Crook,Precinct 10,Governor,,Undervotes,,4
+Crook,Precinct 10,State House,59,Vikki Breese-Iverson,REP,273
+Crook,Precinct 10,State House,59,Lawrence Jones,DEM,93
+Crook,Precinct 10,State House,59,Write-in,,0
+Crook,Precinct 10,State House,59,Overvotes,,0
+Crook,Precinct 10,State House,59,Undervotes,,14
+Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,140
+Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,147
+Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,Write-in,,2
+Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 10,Commissioner of the Bureau of Labor and Industries,,Undervotes,,91
+Crook,Precinct 11,U.S. Senate,,Jo Rae Perkins,REP,1526
+Crook,Precinct 11,U.S. Senate,,Dan Pulju,PGP,22
+Crook,Precinct 11,U.S. Senate,,Ron Wyden,DEM,615
+Crook,Precinct 11,U.S. Senate,,Chris Henry,PRO,10
+Crook,Precinct 11,U.S. Senate,,Write-in,,4
+Crook,Precinct 11,U.S. Senate,,Overvotes,,0
+Crook,Precinct 11,U.S. Senate,,Undervotes,,45
+Crook,Precinct 11,U.S. House,2,Joe Yetter,DEM,479
+Crook,Precinct 11,U.S. House,2,Cliff S Bentz,REP,1688
+Crook,Precinct 11,U.S. House,2,Write-in,,1
+Crook,Precinct 11,U.S. House,2,Overvotes,,0
+Crook,Precinct 11,U.S. House,2,Undervotes,,54
+Crook,Precinct 11,Governor,,Tina Kotek,DEM,368
+Crook,Precinct 11,Governor,,Donice Noelle Smith,CON,7
+Crook,Precinct 11,Governor,,R Leon Noble,LBT,3
+Crook,Precinct 11,Governor,,Betsy Johnson,NAV,214
+Crook,Precinct 11,Governor,,Christine Drazan,REP,1620
+Crook,Precinct 11,Governor,,Write-in,,0
+Crook,Precinct 11,Governor,,Overvotes,,0
+Crook,Precinct 11,Governor,,Undervotes,,9
+Crook,Precinct 11,State House,59,Vikki Breese-Iverson,REP,1702
+Crook,Precinct 11,State House,59,Lawrence Jones,DEM,461
+Crook,Precinct 11,State House,59,Write-in,,6
+Crook,Precinct 11,State House,59,Overvotes,,0
+Crook,Precinct 11,State House,59,Undervotes,,52
+Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,525
+Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,1219
+Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,Write-in,,11
+Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 11,Commissioner of the Bureau of Labor and Industries,,Undervotes,,466
+Crook,Precinct 12,U.S. Senate,,Jo Rae Perkins,REP,122
+Crook,Precinct 12,U.S. Senate,,Dan Pulju,PGP,4
+Crook,Precinct 12,U.S. Senate,,Ron Wyden,DEM,29
+Crook,Precinct 12,U.S. Senate,,Chris Henry,PRO,2
+Crook,Precinct 12,U.S. Senate,,Write-in,,0
+Crook,Precinct 12,U.S. Senate,,Overvotes,,0
+Crook,Precinct 12,U.S. Senate,,Undervotes,,4
+Crook,Precinct 12,U.S. House,2,Joe Yetter,DEM,23
+Crook,Precinct 12,U.S. House,2,Cliff S Bentz,REP,135
+Crook,Precinct 12,U.S. House,2,Write-in,,0
+Crook,Precinct 12,U.S. House,2,Overvotes,,0
+Crook,Precinct 12,U.S. House,2,Undervotes,,3
+Crook,Precinct 12,Governor,,Tina Kotek,DEM,16
+Crook,Precinct 12,Governor,,Donice Noelle Smith,CON,0
+Crook,Precinct 12,Governor,,R Leon Noble,LBT,1
+Crook,Precinct 12,Governor,,Betsy Johnson,NAV,22
+Crook,Precinct 12,Governor,,Christine Drazan,REP,121
+Crook,Precinct 12,Governor,,Write-in,,0
+Crook,Precinct 12,Governor,,Overvotes,,0
+Crook,Precinct 12,Governor,,Undervotes,,1
+Crook,Precinct 12,State House,59,Vikki Breese-Iverson,REP,133
+Crook,Precinct 12,State House,59,Lawrence Jones,DEM,25
+Crook,Precinct 12,State House,59,Write-in,,0
+Crook,Precinct 12,State House,59,Overvotes,,0
+Crook,Precinct 12,State House,59,Undervotes,,3
+Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,32
+Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,95
+Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,Write-in,,1
+Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 12,Commissioner of the Bureau of Labor and Industries,,Undervotes,,33
+Crook,Precinct 13,U.S. Senate,,Jo Rae Perkins,REP,533
+Crook,Precinct 13,U.S. Senate,,Dan Pulju,PGP,5
+Crook,Precinct 13,U.S. Senate,,Ron Wyden,DEM,180
+Crook,Precinct 13,U.S. Senate,,Chris Henry,PRO,7
+Crook,Precinct 13,U.S. Senate,,Write-in,,0
+Crook,Precinct 13,U.S. Senate,,Overvotes,,0
+Crook,Precinct 13,U.S. Senate,,Undervotes,,4
+Crook,Precinct 13,U.S. House,2,Joe Yetter,DEM,128
+Crook,Precinct 13,U.S. House,2,Cliff S Bentz,REP,585
+Crook,Precinct 13,U.S. House,2,Write-in,,2
+Crook,Precinct 13,U.S. House,2,Overvotes,,0
+Crook,Precinct 13,U.S. House,2,Undervotes,,14
+Crook,Precinct 13,Governor,,Tina Kotek,DEM,87
+Crook,Precinct 13,Governor,,Donice Noelle Smith,CON,3
+Crook,Precinct 13,Governor,,R Leon Noble,LBT,3
+Crook,Precinct 13,Governor,,Betsy Johnson,NAV,78
+Crook,Precinct 13,Governor,,Christine Drazan,REP,557
+Crook,Precinct 13,Governor,,Write-in,,0
+Crook,Precinct 13,Governor,,Overvotes,,0
+Crook,Precinct 13,Governor,,Undervotes,,1
+Crook,Precinct 13,State House,59,Vikki Breese-Iverson,REP,602
+Crook,Precinct 13,State House,59,Lawrence Jones,DEM,117
+Crook,Precinct 13,State House,59,Write-in,,1
+Crook,Precinct 13,State House,59,Overvotes,,0
+Crook,Precinct 13,State House,59,Undervotes,,9
+Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,192
+Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,369
+Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,Write-in,,7
+Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 13,Commissioner of the Bureau of Labor and Industries,,Undervotes,,161
+Crook,Precinct 14,U.S. Senate,,Jo Rae Perkins,REP,271
+Crook,Precinct 14,U.S. Senate,,Dan Pulju,PGP,4
+Crook,Precinct 14,U.S. Senate,,Ron Wyden,DEM,127
+Crook,Precinct 14,U.S. Senate,,Chris Henry,PRO,9
+Crook,Precinct 14,U.S. Senate,,Write-in,,2
+Crook,Precinct 14,U.S. Senate,,Overvotes,,0
+Crook,Precinct 14,U.S. Senate,,Undervotes,,5
+Crook,Precinct 14,U.S. House,2,Joe Yetter,DEM,100
+Crook,Precinct 14,U.S. House,2,Cliff S Bentz,REP,302
+Crook,Precinct 14,U.S. House,2,Write-in,,1
+Crook,Precinct 14,U.S. House,2,Overvotes,,0
+Crook,Precinct 14,U.S. House,2,Undervotes,,15
+Crook,Precinct 14,Governor,,Tina Kotek,DEM,86
+Crook,Precinct 14,Governor,,Donice Noelle Smith,CON,2
+Crook,Precinct 14,Governor,,R Leon Noble,LBT,2
+Crook,Precinct 14,Governor,,Betsy Johnson,NAV,38
+Crook,Precinct 14,Governor,,Christine Drazan,REP,288
+Crook,Precinct 14,Governor,,Write-in,,1
+Crook,Precinct 14,Governor,,Overvotes,,0
+Crook,Precinct 14,Governor,,Undervotes,,1
+Crook,Precinct 14,State House,59,Vikki Breese-Iverson,REP,307
+Crook,Precinct 14,State House,59,Lawrence Jones,DEM,99
+Crook,Precinct 14,State House,59,Write-in,,1
+Crook,Precinct 14,State House,59,Overvotes,,0
+Crook,Precinct 14,State House,59,Undervotes,,11
+Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,151
+Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,169
+Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,Write-in,,10
+Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 14,Commissioner of the Bureau of Labor and Industries,,Undervotes,,88
+Crook,Precinct 15,U.S. Senate,,Jo Rae Perkins,REP,836
+Crook,Precinct 15,U.S. Senate,,Dan Pulju,PGP,11
+Crook,Precinct 15,U.S. Senate,,Ron Wyden,DEM,266
+Crook,Precinct 15,U.S. Senate,,Chris Henry,PRO,11
+Crook,Precinct 15,U.S. Senate,,Write-in,,0
+Crook,Precinct 15,U.S. Senate,,Overvotes,,0
+Crook,Precinct 15,U.S. Senate,,Undervotes,,22
+Crook,Precinct 15,U.S. House,2,Joe Yetter,DEM,203
+Crook,Precinct 15,U.S. House,2,Cliff S Bentz,REP,892
+Crook,Precinct 15,U.S. House,2,Write-in,,3
+Crook,Precinct 15,U.S. House,2,Overvotes,,0
+Crook,Precinct 15,U.S. House,2,Undervotes,,48
+Crook,Precinct 15,Governor,,Tina Kotek,DEM,146
+Crook,Precinct 15,Governor,,Donice Noelle Smith,CON,5
+Crook,Precinct 15,Governor,,R Leon Noble,LBT,5
+Crook,Precinct 15,Governor,,Betsy Johnson,NAV,122
+Crook,Precinct 15,Governor,,Christine Drazan,REP,860
+Crook,Precinct 15,Governor,,Write-in,,0
+Crook,Precinct 15,Governor,,Overvotes,,0
+Crook,Precinct 15,Governor,,Undervotes,,8
+Crook,Precinct 15,State House,59,Vikki Breese-Iverson,REP,917
+Crook,Precinct 15,State House,59,Lawrence Jones,DEM,191
+Crook,Precinct 15,State House,59,Write-in,,1
+Crook,Precinct 15,State House,59,Overvotes,,1
+Crook,Precinct 15,State House,59,Undervotes,,36
+Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,301
+Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,535
+Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,Write-in,,10
+Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 15,Commissioner of the Bureau of Labor and Industries,,Undervotes,,300
+Crook,Precinct 16,U.S. Senate,,Jo Rae Perkins,REP,485
+Crook,Precinct 16,U.S. Senate,,Dan Pulju,PGP,4
+Crook,Precinct 16,U.S. Senate,,Ron Wyden,DEM,142
+Crook,Precinct 16,U.S. Senate,,Chris Henry,PRO,2
+Crook,Precinct 16,U.S. Senate,,Write-in,,2
+Crook,Precinct 16,U.S. Senate,,Overvotes,,0
+Crook,Precinct 16,U.S. Senate,,Undervotes,,11
+Crook,Precinct 16,U.S. House,2,Joe Yetter,DEM,107
+Crook,Precinct 16,U.S. House,2,Cliff S Bentz,REP,519
+Crook,Precinct 16,U.S. House,2,Write-in,,3
+Crook,Precinct 16,U.S. House,2,Overvotes,,0
+Crook,Precinct 16,U.S. House,2,Undervotes,,24
+Crook,Precinct 16,Governor,,Tina Kotek,DEM,82
+Crook,Precinct 16,Governor,,Donice Noelle Smith,CON,7
+Crook,Precinct 16,Governor,,R Leon Noble,LBT,4
+Crook,Precinct 16,Governor,,Betsy Johnson,NAV,71
+Crook,Precinct 16,Governor,,Christine Drazan,REP,484
+Crook,Precinct 16,Governor,,Write-in,,1
+Crook,Precinct 16,Governor,,Overvotes,,0
+Crook,Precinct 16,Governor,,Undervotes,,4
+Crook,Precinct 16,State House,59,Vikki Breese-Iverson,REP,515
+Crook,Precinct 16,State House,59,Lawrence Jones,DEM,106
+Crook,Precinct 16,State House,59,Write-in,,5
+Crook,Precinct 16,State House,59,Overvotes,,0
+Crook,Precinct 16,State House,59,Undervotes,,17
+Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,171
+Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,355
+Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,Write-in,,4
+Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 16,Commissioner of the Bureau of Labor and Industries,,Undervotes,,123
+Crook,Precinct 17,U.S. Senate,,Jo Rae Perkins,REP,1874
+Crook,Precinct 17,U.S. Senate,,Dan Pulju,PGP,11
+Crook,Precinct 17,U.S. Senate,,Ron Wyden,DEM,697
+Crook,Precinct 17,U.S. Senate,,Chris Henry,PRO,22
+Crook,Precinct 17,U.S. Senate,,Write-in,,4
+Crook,Precinct 17,U.S. Senate,,Overvotes,,0
+Crook,Precinct 17,U.S. Senate,,Undervotes,,44
+Crook,Precinct 17,U.S. House,2,Joe Yetter,DEM,532
+Crook,Precinct 17,U.S. House,2,Cliff S Bentz,REP,2038
+Crook,Precinct 17,U.S. House,2,Write-in,,3
+Crook,Precinct 17,U.S. House,2,Overvotes,,0
+Crook,Precinct 17,U.S. House,2,Undervotes,,79
+Crook,Precinct 17,Governor,,Tina Kotek,DEM,418
+Crook,Precinct 17,Governor,,Donice Noelle Smith,CON,10
+Crook,Precinct 17,Governor,,R Leon Noble,LBT,7
+Crook,Precinct 17,Governor,,Betsy Johnson,NAV,219
+Crook,Precinct 17,Governor,,Christine Drazan,REP,1981
+Crook,Precinct 17,Governor,,Write-in,,1
+Crook,Precinct 17,Governor,,Overvotes,,0
+Crook,Precinct 17,Governor,,Undervotes,,16
+Crook,Precinct 17,State House,59,Vikki Breese-Iverson,REP,2053
+Crook,Precinct 17,State House,59,Lawrence Jones,DEM,519
+Crook,Precinct 17,State House,59,Write-in,,3
+Crook,Precinct 17,State House,59,Overvotes,,0
+Crook,Precinct 17,State House,59,Undervotes,,77
+Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,Christina E Stephenson,,727
+Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,Cheri Helt,,1293
+Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,Write-in,,28
+Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,Overvotes,,0
+Crook,Precinct 17,Commissioner of the Bureau of Labor and Industries,,Undervotes,,604
 Wallowa,1,Ballots Cast,,,,694
 Wallowa,1,U.S. Senate,,Jo Rae Perkins,REP,430
 Wallowa,1,U.S. Senate,,Dan Pulju,PGP,6
