@@ -1,0 +1,2880 @@
+county,precinct,office,district,party,candidate,votes
+Lane,Precinct 1120,President,,WTP,Robert F. Kennedy Jr.,27
+Lane,Precinct 1122,President,,WTP,Robert F. Kennedy Jr.,32
+Lane,Precinct 1124,President,,WTP,Robert F. Kennedy Jr.,13
+Lane,Precinct 1126,President,,WTP,Robert F. Kennedy Jr.,46
+Lane,Precinct 1230,President,,WTP,Robert F. Kennedy Jr.,54
+Lane,Precinct 1232,President,,WTP,Robert F. Kennedy Jr.,55
+Lane,Precinct 1234,President,,WTP,Robert F. Kennedy Jr.,39
+Lane,Precinct 1340,President,,WTP,Robert F. Kennedy Jr.,39
+Lane,Precinct 1342,President,,WTP,Robert F. Kennedy Jr.,17
+Lane,Precinct 1450,President,,WTP,Robert F. Kennedy Jr.,74
+Lane,Precinct 1452,President,,WTP,Robert F. Kennedy Jr.,54
+Lane,Precinct 1454,President,,WTP,Robert F. Kennedy Jr.,18
+Lane,Precinct 1560,President,,WTP,Robert F. Kennedy Jr.,30
+Lane,Precinct 1562,President,,WTP,Robert F. Kennedy Jr.,57
+Lane,Precinct 1564,President,,WTP,Robert F. Kennedy Jr.,72
+Lane,Precinct 1670,President,,WTP,Robert F. Kennedy Jr.,122
+Lane,Precinct 1672,President,,WTP,Robert F. Kennedy Jr.,80
+Lane,Precinct 1780,President,,WTP,Robert F. Kennedy Jr.,26
+Lane,Precinct 1782,President,,WTP,Robert F. Kennedy Jr.,24
+Lane,Precinct 1784,President,,WTP,Robert F. Kennedy Jr.,62
+Lane,Precinct 1786,President,,WTP,Robert F. Kennedy Jr.,43
+Lane,Precinct 1890,President,,WTP,Robert F. Kennedy Jr.,71
+Lane,Precinct 1892,President,,WTP,Robert F. Kennedy Jr.,69
+Lane,Precinct 1894,President,,WTP,Robert F. Kennedy Jr.,36
+Lane,Precinct 2122,President,,WTP,Robert F. Kennedy Jr.,81
+Lane,Precinct 2238,President,,WTP,Robert F. Kennedy Jr.,77
+Lane,Precinct 2340,President,,WTP,Robert F. Kennedy Jr.,106
+Lane,Precinct 2456,President,,WTP,Robert F. Kennedy Jr.,73
+Lane,Precinct 2562,President,,WTP,Robert F. Kennedy Jr.,94
+Lane,Precinct 2676,President,,WTP,Robert F. Kennedy Jr.,102
+Lane,Precinct 4200,President,,WTP,Robert F. Kennedy Jr.,19
+Lane,Precinct 4300,President,,WTP,Robert F. Kennedy Jr.,99
+Lane,Precinct 4400,President,,WTP,Robert F. Kennedy Jr.,54
+Lane,Precinct 4500,President,,WTP,Robert F. Kennedy Jr.,15
+Lane,Precinct 4600,President,,WTP,Robert F. Kennedy Jr.,90
+Lane,Precinct 4700,President,,WTP,Robert F. Kennedy Jr.,61
+Lane,Precinct 4800,President,,WTP,Robert F. Kennedy Jr.,37
+Lane,Precinct 4900,President,,WTP,Robert F. Kennedy Jr.,53
+Lane,Precinct 701,President,,WTP,Robert F. Kennedy Jr.,20
+Lane,Precinct 703,President,,WTP,Robert F. Kennedy Jr.,*
+Lane,Precinct 705,President,,WTP,Robert F. Kennedy Jr.,30
+Lane,Precinct 707,President,,WTP,Robert F. Kennedy Jr.,17
+Lane,Precinct 709,President,,WTP,Robert F. Kennedy Jr.,16
+Lane,Precinct 711,President,,WTP,Robert F. Kennedy Jr.,61
+Lane,Precinct 713,President,,WTP,Robert F. Kennedy Jr.,11
+Lane,Precinct 715,President,,WTP,Robert F. Kennedy Jr.,24
+Lane,Precinct 717,President,,WTP,Robert F. Kennedy Jr.,46
+Lane,Precinct 719,President,,WTP,Robert F. Kennedy Jr., *
+Lane,Precinct 721,President,,WTP,Robert F. Kennedy Jr., *
+Lane,Precinct 723,President,,WTP,Robert F. Kennedy Jr.,38
+Lane,Precinct 725,President,,WTP,Robert F. Kennedy Jr.,34
+Lane,Precinct 727,President,,WTP,Robert F. Kennedy Jr.,24
+Lane,Precinct 729,President,,WTP,Robert F. Kennedy Jr., *
+Lane,Precinct 731,President,,WTP,Robert F. Kennedy Jr.,90
+Lane,Precinct 733,President,,WTP,Robert F. Kennedy Jr.,114
+Lane,Precinct 737,President,,WTP,Robert F. Kennedy Jr.,57
+Lane,Precinct 739,President,,WTP,Robert F. Kennedy Jr.,38
+Lane,Precinct 741,President,,WTP,Robert F. Kennedy Jr.,13
+Lane,Precinct 743,President,,WTP,Robert F. Kennedy Jr.,14
+Lane,Precinct 747,President,,WTP,Robert F. Kennedy Jr.,86
+Lane,Precinct 751,President,,WTP,Robert F. Kennedy Jr.,67
+Lane,Precinct 753,President,,WTP,Robert F. Kennedy Jr.,22
+Lane,Precinct 755,President,,WTP,Robert F. Kennedy Jr.,69
+Lane,Precinct 757,President,,WTP,Robert F. Kennedy Jr.,45
+Lane,Precinct 759,President,,WTP,Robert F. Kennedy Jr.,34
+Lane,Precinct 765,President,,WTP,Robert F. Kennedy Jr.,41
+Lane,Precinct 1120,President,,PRO,Cornel West,16
+Lane,Precinct 1122,President,,PRO,Cornel West,44
+Lane,Precinct 1124,President,,PRO,Cornel West, *
+Lane,Precinct 1126,President,,PRO,Cornel West,29
+Lane,Precinct 1230,President,,PRO,Cornel West,32
+Lane,Precinct 1232,President,,PRO,Cornel West,22
+Lane,Precinct 1234,President,,PRO,Cornel West,20
+Lane,Precinct 1340,President,,PRO,Cornel West,26
+Lane,Precinct 1342,President,,PRO,Cornel West, *
+Lane,Precinct 1450,President,,PRO,Cornel West,15
+Lane,Precinct 1452,President,,PRO,Cornel West,10
+Lane,Precinct 1454,President,,PRO,Cornel West,10
+Lane,Precinct 1560,President,,PRO,Cornel West, *
+Lane,Precinct 1562,President,,PRO,Cornel West,14
+Lane,Precinct 1564,President,,PRO,Cornel West,14
+Lane,Precinct 1670,President,,PRO,Cornel West,13
+Lane,Precinct 1672,President,,PRO,Cornel West,11
+Lane,Precinct 1780,President,,PRO,Cornel West,12
+Lane,Precinct 1782,President,,PRO,Cornel West,25
+Lane,Precinct 1784,President,,PRO,Cornel West, *
+Lane,Precinct 1786,President,,PRO,Cornel West, *
+Lane,Precinct 1890,President,,PRO,Cornel West, *
+Lane,Precinct 1892,President,,PRO,Cornel West,25
+Lane,Precinct 1894,President,,PRO,Cornel West, *
+Lane,Precinct 2122,President,,PRO,Cornel West, *
+Lane,Precinct 2238,President,,PRO,Cornel West,22
+Lane,Precinct 2340,President,,PRO,Cornel West,17
+Lane,Precinct 2456,President,,PRO,Cornel West,10
+Lane,Precinct 2562,President,,PRO,Cornel West, *
+Lane,Precinct 2676,President,,PRO,Cornel West,11
+Lane,Precinct 4200,President,,PRO,Cornel West,0
+Lane,Precinct 4300,President,,PRO,Cornel West,11
+Lane,Precinct 4400,President,,PRO,Cornel West, *
+Lane,Precinct 4500,President,,PRO,Cornel West, *
+Lane,Precinct 4600,President,,PRO,Cornel West, *
+Lane,Precinct 4700,President,,PRO,Cornel West, *
+Lane,Precinct 4800,President,,PRO,Cornel West, *
+Lane,Precinct 4900,President,,PRO,Cornel West, *
+Lane,Precinct 701,President,,PRO,Cornel West, *
+Lane,Precinct 703,President,,PRO,Cornel West,*
+Lane,Precinct 705,President,,PRO,Cornel West, *
+Lane,Precinct 707,President,,PRO,Cornel West,0
+Lane,Precinct 709,President,,PRO,Cornel West, *
+Lane,Precinct 711,President,,PRO,Cornel West, *
+Lane,Precinct 713,President,,PRO,Cornel West,0
+Lane,Precinct 715,President,,PRO,Cornel West, *
+Lane,Precinct 717,President,,PRO,Cornel West, *
+Lane,Precinct 719,President,,PRO,Cornel West,0
+Lane,Precinct 721,President,,PRO,Cornel West, *
+Lane,Precinct 723,President,,PRO,Cornel West, *
+Lane,Precinct 725,President,,PRO,Cornel West, *
+Lane,Precinct 727,President,,PRO,Cornel West, *
+Lane,Precinct 729,President,,PRO,Cornel West, *
+Lane,Precinct 731,President,,PRO,Cornel West,12
+Lane,Precinct 733,President,,PRO,Cornel West,20
+Lane,Precinct 737,President,,PRO,Cornel West, *
+Lane,Precinct 739,President,,PRO,Cornel West, *
+Lane,Precinct 741,President,,PRO,Cornel West, *
+Lane,Precinct 743,President,,PRO,Cornel West,*
+Lane,Precinct 747,President,,PRO,Cornel West,*
+Lane,Precinct 751,President,,PRO,Cornel West,*
+Lane,Precinct 753,President,,PRO,Cornel West,*
+Lane,Precinct 755,President,,PRO,Cornel West,*
+Lane,Precinct 757,President,,PRO,Cornel West,*
+Lane,Precinct 759,President,,PRO,Cornel West,*
+Lane,Precinct 765,President,,PRO,Cornel West,*
+Lane,Precinct 1120,President,,LBT,Chase Oliver,15
+Lane,Precinct 1122,President,,LBT,Chase Oliver,12
+Lane,Precinct 1124,President,,LBT,Chase Oliver,*
+Lane,Precinct 1126,President,,LBT,Chase Oliver,11
+Lane,Precinct 1230,President,,LBT,Chase Oliver,20
+Lane,Precinct 1232,President,,LBT,Chase Oliver,24
+Lane,Precinct 1234,President,,LBT,Chase Oliver,10
+Lane,Precinct 1340,President,,LBT,Chase Oliver,11
+Lane,Precinct 1342,President,,LBT,Chase Oliver,10
+Lane,Precinct 1450,President,,LBT,Chase Oliver,27
+Lane,Precinct 1452,President,,LBT,Chase Oliver,20
+Lane,Precinct 1454,President,,LBT,Chase Oliver,*
+Lane,Precinct 1560,President,,LBT,Chase Oliver,*
+Lane,Precinct 1562,President,,LBT,Chase Oliver,30
+Lane,Precinct 1564,President,,LBT,Chase Oliver,30
+Lane,Precinct 1670,President,,LBT,Chase Oliver,29
+Lane,Precinct 1672,President,,LBT,Chase Oliver,22
+Lane,Precinct 1780,President,,LBT,Chase Oliver,14
+Lane,Precinct 1782,President,,LBT,Chase Oliver,*
+Lane,Precinct 1784,President,,LBT,Chase Oliver,19
+Lane,Precinct 1786,President,,LBT,Chase Oliver,*
+Lane,Precinct 1890,President,,LBT,Chase Oliver,15
+Lane,Precinct 1892,President,,LBT,Chase Oliver,16
+Lane,Precinct 1894,President,,LBT,Chase Oliver,11
+Lane,Precinct 2122,President,,LBT,Chase Oliver,21
+Lane,Precinct 2238,President,,LBT,Chase Oliver,16
+Lane,Precinct 2340,President,,LBT,Chase Oliver,30
+Lane,Precinct 2456,President,,LBT,Chase Oliver,18
+Lane,Precinct 2562,President,,LBT,Chase Oliver,24
+Lane,Precinct 2676,President,,LBT,Chase Oliver,30
+Lane,Precinct 4200,President,,LBT,Chase Oliver,*
+Lane,Precinct 4300,President,,LBT,Chase Oliver,28
+Lane,Precinct 4400,President,,LBT,Chase Oliver,16
+Lane,Precinct 4500,President,,LBT,Chase Oliver,*
+Lane,Precinct 4600,President,,LBT,Chase Oliver,14
+Lane,Precinct 4700,President,,LBT,Chase Oliver,20
+Lane,Precinct 4800,President,,LBT,Chase Oliver,*
+Lane,Precinct 4900,President,,LBT,Chase Oliver,*
+Lane,Precinct 701,President,,LBT,Chase Oliver,*
+Lane,Precinct 703,President,,LBT,Chase Oliver,0
+Lane,Precinct 705,President,,LBT,Chase Oliver,*
+Lane,Precinct 707,President,,LBT,Chase Oliver,0
+Lane,Precinct 709,President,,LBT,Chase Oliver,*
+Lane,Precinct 711,President,,LBT,Chase Oliver,13
+Lane,Precinct 713,President,,LBT,Chase Oliver,*
+Lane,Precinct 715,President,,LBT,Chase Oliver,*
+Lane,Precinct 717,President,,LBT,Chase Oliver,11
+Lane,Precinct 719,President,,LBT,Chase Oliver,0
+Lane,Precinct 721,President,,LBT,Chase Oliver,*
+Lane,Precinct 723,President,,LBT,Chase Oliver,15
+Lane,Precinct 725,President,,LBT,Chase Oliver,10
+Lane,Precinct 727,President,,LBT,Chase Oliver,*
+Lane,Precinct 729,President,,LBT,Chase Oliver,*
+Lane,Precinct 731,President,,LBT,Chase Oliver,17
+Lane,Precinct 733,President,,LBT,Chase Oliver,23
+Lane,Precinct 737,President,,LBT,Chase Oliver,10
+Lane,Precinct 739,President,,LBT,Chase Oliver,*
+Lane,Precinct 741,President,,LBT,Chase Oliver,*
+Lane,Precinct 743,President,,LBT,Chase Oliver,*
+Lane,Precinct 747,President,,LBT,Chase Oliver,17
+Lane,Precinct 751,President,,LBT,Chase Oliver,20
+Lane,Precinct 753,President,,LBT,Chase Oliver,*
+Lane,Precinct 755,President,,LBT,Chase Oliver,10
+Lane,Precinct 757,President,,LBT,Chase Oliver,11
+Lane,Precinct 759,President,,LBT,Chase Oliver,10
+Lane,Precinct 765,President,,LBT,Chase Oliver,*
+Lane,Precinct 1120,President,,CON,Randall Terry,*
+Lane,Precinct 1122,President,,CON,Randall Terry,*
+Lane,Precinct 1124,President,,CON,Randall Terry,0
+Lane,Precinct 1126,President,,CON,Randall Terry,*
+Lane,Precinct 1230,President,,CON,Randall Terry,*
+Lane,Precinct 1232,President,,CON,Randall Terry,*
+Lane,Precinct 1234,President,,CON,Randall Terry,0
+Lane,Precinct 1340,President,,CON,Randall Terry,0
+Lane,Precinct 1342,President,,CON,Randall Terry,0
+Lane,Precinct 1450,President,,CON,Randall Terry,*
+Lane,Precinct 1452,President,,CON,Randall Terry,*
+Lane,Precinct 1454,President,,CON,Randall Terry,0
+Lane,Precinct 1560,President,,CON,Randall Terry,*
+Lane,Precinct 1562,President,,CON,Randall Terry,*
+Lane,Precinct 1564,President,,CON,Randall Terry,*
+Lane,Precinct 1670,President,,CON,Randall Terry,*
+Lane,Precinct 1672,President,,CON,Randall Terry,*
+Lane,Precinct 1780,President,,CON,Randall Terry,0
+Lane,Precinct 1782,President,,CON,Randall Terry,*
+Lane,Precinct 1784,President,,CON,Randall Terry,*
+Lane,Precinct 1786,President,,CON,Randall Terry,*
+Lane,Precinct 1890,President,,CON,Randall Terry,*
+Lane,Precinct 1892,President,,CON,Randall Terry,*
+Lane,Precinct 1894,President,,CON,Randall Terry,*
+Lane,Precinct 2122,President,,CON,Randall Terry,*
+Lane,Precinct 2238,President,,CON,Randall Terry,*
+Lane,Precinct 2340,President,,CON,Randall Terry,*
+Lane,Precinct 2456,President,,CON,Randall Terry,0
+Lane,Precinct 2562,President,,CON,Randall Terry,*
+Lane,Precinct 2676,President,,CON,Randall Terry,*
+Lane,Precinct 4200,President,,CON,Randall Terry,0
+Lane,Precinct 4300,President,,CON,Randall Terry,*
+Lane,Precinct 4400,President,,CON,Randall Terry,*
+Lane,Precinct 4500,President,,CON,Randall Terry,0
+Lane,Precinct 4600,President,,CON,Randall Terry,*
+Lane,Precinct 4700,President,,CON,Randall Terry,*
+Lane,Precinct 4800,President,,CON,Randall Terry,0
+Lane,Precinct 4900,President,,CON,Randall Terry,*
+Lane,Precinct 701,President,,CON,Randall Terry,0
+Lane,Precinct 703,President,,CON,Randall Terry,0
+Lane,Precinct 705,President,,CON,Randall Terry,*
+Lane,Precinct 707,President,,CON,Randall Terry,*
+Lane,Precinct 709,President,,CON,Randall Terry,*
+Lane,Precinct 711,President,,CON,Randall Terry,*
+Lane,Precinct 713,President,,CON,Randall Terry,0
+Lane,Precinct 715,President,,CON,Randall Terry,*
+Lane,Precinct 717,President,,CON,Randall Terry,*
+Lane,Precinct 719,President,,CON,Randall Terry,*
+Lane,Precinct 721,President,,CON,Randall Terry,*
+Lane,Precinct 723,President,,CON,Randall Terry,*
+Lane,Precinct 725,President,,CON,Randall Terry,*
+Lane,Precinct 727,President,,CON,Randall Terry,0
+Lane,Precinct 729,President,,CON,Randall Terry,0
+Lane,Precinct 731,President,,CON,Randall Terry,*
+Lane,Precinct 733,President,,CON,Randall Terry,*
+Lane,Precinct 737,President,,CON,Randall Terry,*
+Lane,Precinct 739,President,,CON,Randall Terry,*
+Lane,Precinct 741,President,,CON,Randall Terry,*
+Lane,Precinct 743,President,,CON,Randall Terry,*
+Lane,Precinct 747,President,,CON,Randall Terry,*
+Lane,Precinct 751,President,,CON,Randall Terry,*
+Lane,Precinct 753,President,,CON,Randall Terry,0
+Lane,Precinct 755,President,,CON,Randall Terry,*
+Lane,Precinct 757,President,,CON,Randall Terry,*
+Lane,Precinct 759,President,,CON,Randall Terry,*
+Lane,Precinct 765,President,,CON,Randall Terry,*
+Lane,Precinct 1120,President,,REP,Donald J. Trump,325
+Lane,Precinct 1122,President,,REP,Donald J. Trump,436
+Lane,Precinct 1124,President,,REP,Donald J. Trump,171
+Lane,Precinct 1126,President,,REP,Donald J. Trump,363
+Lane,Precinct 1230,President,,REP,Donald J. Trump,480
+Lane,Precinct 1232,President,,REP,Donald J. Trump,645
+Lane,Precinct 1234,President,,REP,Donald J. Trump,414
+Lane,Precinct 1340,President,,REP,Donald J. Trump,444
+Lane,Precinct 1342,President,,REP,Donald J. Trump,193
+Lane,Precinct 1450,President,,REP,Donald J. Trump,1686
+Lane,Precinct 1452,President,,REP,Donald J. Trump,1199
+Lane,Precinct 1454,President,,REP,Donald J. Trump,359
+Lane,Precinct 1560,President,,REP,Donald J. Trump,750
+Lane,Precinct 1562,President,,REP,Donald J. Trump,1930
+Lane,Precinct 1564,President,,REP,Donald J. Trump,1622
+Lane,Precinct 1670,President,,REP,Donald J. Trump,2630
+Lane,Precinct 1672,President,,REP,Donald J. Trump,1790
+Lane,Precinct 1780,President,,REP,Donald J. Trump,435
+Lane,Precinct 1782,President,,REP,Donald J. Trump,217
+Lane,Precinct 1784,President,,REP,Donald J. Trump,1235
+Lane,Precinct 1786,President,,REP,Donald J. Trump,1037
+Lane,Precinct 1890,President,,REP,Donald J. Trump,1162
+Lane,Precinct 1892,President,,REP,Donald J. Trump,1101
+Lane,Precinct 1894,President,,REP,Donald J. Trump,826
+Lane,Precinct 2122,President,,REP,Donald J. Trump,1670
+Lane,Precinct 2238,President,,REP,Donald J. Trump,1303
+Lane,Precinct 2340,President,,REP,Donald J. Trump,1989
+Lane,Precinct 2456,President,,REP,Donald J. Trump,2027
+Lane,Precinct 2562,President,,REP,Donald J. Trump,2510
+Lane,Precinct 2676,President,,REP,Donald J. Trump,3011
+Lane,Precinct 4200,President,,REP,Donald J. Trump,420
+Lane,Precinct 4300,President,,REP,Donald J. Trump,2665
+Lane,Precinct 4400,President,,REP,Donald J. Trump,1692
+Lane,Precinct 4500,President,,REP,Donald J. Trump,552
+Lane,Precinct 4600,President,,REP,Donald J. Trump,2493
+Lane,Precinct 4700,President,,REP,Donald J. Trump,2234
+Lane,Precinct 4800,President,,REP,Donald J. Trump,833
+Lane,Precinct 4900,President,,REP,Donald J. Trump,1451
+Lane,Precinct 701,President,,REP,Donald J. Trump,733
+Lane,Precinct 703,President,,REP,Donald J. Trump,111
+Lane,Precinct 705,President,,REP,Donald J. Trump,974
+Lane,Precinct 707,President,,REP,Donald J. Trump,390
+Lane,Precinct 709,President,,REP,Donald J. Trump,877
+Lane,Precinct 711,President,,REP,Donald J. Trump,2049
+Lane,Precinct 713,President,,REP,Donald J. Trump,739
+Lane,Precinct 715,President,,REP,Donald J. Trump,1057
+Lane,Precinct 717,President,,REP,Donald J. Trump,1670
+Lane,Precinct 719,President,,REP,Donald J. Trump,224
+Lane,Precinct 721,President,,REP,Donald J. Trump,302
+Lane,Precinct 723,President,,REP,Donald J. Trump,812
+Lane,Precinct 725,President,,REP,Donald J. Trump,1138
+Lane,Precinct 727,President,,REP,Donald J. Trump,970
+Lane,Precinct 729,President,,REP,Donald J. Trump,202
+Lane,Precinct 731,President,,REP,Donald J. Trump,1797
+Lane,Precinct 733,President,,REP,Donald J. Trump,1759
+Lane,Precinct 737,President,,REP,Donald J. Trump,1579
+Lane,Precinct 739,President,,REP,Donald J. Trump,860
+Lane,Precinct 741,President,,REP,Donald J. Trump,283
+Lane,Precinct 743,President,,REP,Donald J. Trump,293
+Lane,Precinct 747,President,,REP,Donald J. Trump,2952
+Lane,Precinct 751,President,,REP,Donald J. Trump,2485
+Lane,Precinct 753,President,,REP,Donald J. Trump,868
+Lane,Precinct 755,President,,REP,Donald J. Trump,1815
+Lane,Precinct 757,President,,REP,Donald J. Trump,1431
+Lane,Precinct 759,President,,REP,Donald J. Trump,1328
+Lane,Precinct 765,President,,REP,Donald J. Trump,1378
+Lane,Precinct 1120,President,,PGP,Jill Stein,32
+Lane,Precinct 1122,President,,PGP,Jill Stein,104
+Lane,Precinct 1124,President,,PGP,Jill Stein,18
+Lane,Precinct 1126,President,,PGP,Jill Stein,73
+Lane,Precinct 1230,President,,PGP,Jill Stein,92
+Lane,Precinct 1232,President,,PGP,Jill Stein,63
+Lane,Precinct 1234,President,,PGP,Jill Stein,44
+Lane,Precinct 1340,President,,PGP,Jill Stein,100
+Lane,Precinct 1342,President,,PGP,Jill Stein,13
+Lane,Precinct 1450,President,,PGP,Jill Stein,34
+Lane,Precinct 1452,President,,PGP,Jill Stein,35
+Lane,Precinct 1454,President,,PGP,Jill Stein,17
+Lane,Precinct 1560,President,,PGP,Jill Stein,20
+Lane,Precinct 1562,President,,PGP,Jill Stein,42
+Lane,Precinct 1564,President,,PGP,Jill Stein,54
+Lane,Precinct 1670,President,,PGP,Jill Stein,31
+Lane,Precinct 1672,President,,PGP,Jill Stein,26
+Lane,Precinct 1780,President,,PGP,Jill Stein,23
+Lane,Precinct 1782,President,,PGP,Jill Stein,38
+Lane,Precinct 1784,President,,PGP,Jill Stein,33
+Lane,Precinct 1786,President,,PGP,Jill Stein,*
+Lane,Precinct 1890,President,,PGP,Jill Stein,25
+Lane,Precinct 1892,President,,PGP,Jill Stein,73
+Lane,Precinct 1894,President,,PGP,Jill Stein,30
+Lane,Precinct 2122,President,,PGP,Jill Stein,40
+Lane,Precinct 2238,President,,PGP,Jill Stein,70
+Lane,Precinct 2340,President,,PGP,Jill Stein,40
+Lane,Precinct 2456,President,,PGP,Jill Stein,32
+Lane,Precinct 2562,President,,PGP,Jill Stein,37
+Lane,Precinct 2676,President,,PGP,Jill Stein,29
+Lane,Precinct 4200,President,,PGP,Jill Stein,*
+Lane,Precinct 4300,President,,PGP,Jill Stein,29
+Lane,Precinct 4400,President,,PGP,Jill Stein,16
+Lane,Precinct 4500,President,,PGP,Jill Stein,*
+Lane,Precinct 4600,President,,PGP,Jill Stein,33
+Lane,Precinct 4700,President,,PGP,Jill Stein,25
+Lane,Precinct 4800,President,,PGP,Jill Stein,*
+Lane,Precinct 4900,President,,PGP,Jill Stein,14
+Lane,Precinct 701,President,,PGP,Jill Stein,13
+Lane,Precinct 703,President,,PGP,Jill Stein,*
+Lane,Precinct 705,President,,PGP,Jill Stein,11
+Lane,Precinct 707,President,,PGP,Jill Stein,*
+Lane,Precinct 709,President,,PGP,Jill Stein,13
+Lane,Precinct 711,President,,PGP,Jill Stein,30
+Lane,Precinct 713,President,,PGP,Jill Stein,*
+Lane,Precinct 715,President,,PGP,Jill Stein,*
+Lane,Precinct 717,President,,PGP,Jill Stein,20
+Lane,Precinct 719,President,,PGP,Jill Stein,*
+Lane,Precinct 721,President,,PGP,Jill Stein,*
+Lane,Precinct 723,President,,PGP,Jill Stein,23
+Lane,Precinct 725,President,,PGP,Jill Stein,11
+Lane,Precinct 727,President,,PGP,Jill Stein,*
+Lane,Precinct 729,President,,PGP,Jill Stein,*
+Lane,Precinct 731,President,,PGP,Jill Stein,55
+Lane,Precinct 733,President,,PGP,Jill Stein,69
+Lane,Precinct 737,President,,PGP,Jill Stein,20
+Lane,Precinct 739,President,,PGP,Jill Stein,*
+Lane,Precinct 741,President,,PGP,Jill Stein,11
+Lane,Precinct 743,President,,PGP,Jill Stein,14
+Lane,Precinct 747,President,,PGP,Jill Stein,41
+Lane,Precinct 751,President,,PGP,Jill Stein,20
+Lane,Precinct 753,President,,PGP,Jill Stein,*
+Lane,Precinct 755,President,,PGP,Jill Stein,27
+Lane,Precinct 757,President,,PGP,Jill Stein,*
+Lane,Precinct 759,President,,PGP,Jill Stein,19
+Lane,Precinct 765,President,,PGP,Jill Stein,12
+Lane,Precinct 1120,President,,DEM,Kamala D. Harris,1577
+Lane,Precinct 1122,President,,DEM,Kamala D. Harris,3478
+Lane,Precinct 1124,President,,DEM,Kamala D. Harris,1010
+Lane,Precinct 1126,President,,DEM,Kamala D. Harris,4134
+Lane,Precinct 1230,President,,DEM,Kamala D. Harris,4670
+Lane,Precinct 1232,President,,DEM,Kamala D. Harris,4840
+Lane,Precinct 1234,President,,DEM,Kamala D. Harris,2803
+Lane,Precinct 1340,President,,DEM,Kamala D. Harris,4626
+Lane,Precinct 1342,President,,DEM,Kamala D. Harris,981
+Lane,Precinct 1450,President,,DEM,Kamala D. Harris,3975
+Lane,Precinct 1452,President,,DEM,Kamala D. Harris,3045
+Lane,Precinct 1454,President,,DEM,Kamala D. Harris,1364
+Lane,Precinct 1560,President,,DEM,Kamala D. Harris,1209
+Lane,Precinct 1562,President,,DEM,Kamala D. Harris,3773
+Lane,Precinct 1564,President,,DEM,Kamala D. Harris,4639
+Lane,Precinct 1670,President,,DEM,Kamala D. Harris,3630
+Lane,Precinct 1672,President,,DEM,Kamala D. Harris,2844
+Lane,Precinct 1780,President,,DEM,Kamala D. Harris,1057
+Lane,Precinct 1782,President,,DEM,Kamala D. Harris,1546
+Lane,Precinct 1784,President,,DEM,Kamala D. Harris,2692
+Lane,Precinct 1786,President,,DEM,Kamala D. Harris,1398
+Lane,Precinct 1890,President,,DEM,Kamala D. Harris,1683
+Lane,Precinct 1892,President,,DEM,Kamala D. Harris,3768
+Lane,Precinct 1894,President,,DEM,Kamala D. Harris,2827
+Lane,Precinct 2122,President,,DEM,Kamala D. Harris,2456
+Lane,Precinct 2238,President,,DEM,Kamala D. Harris,3098
+Lane,Precinct 2340,President,,DEM,Kamala D. Harris,2967
+Lane,Precinct 2456,President,,DEM,Kamala D. Harris,2387
+Lane,Precinct 2562,President,,DEM,Kamala D. Harris,2758
+Lane,Precinct 2676,President,,DEM,Kamala D. Harris,2780
+Lane,Precinct 4200,President,,DEM,Kamala D. Harris,495
+Lane,Precinct 4300,President,,DEM,Kamala D. Harris,2352
+Lane,Precinct 4400,President,,DEM,Kamala D. Harris,1237
+Lane,Precinct 4500,President,,DEM,Kamala D. Harris,522
+Lane,Precinct 4600,President,,DEM,Kamala D. Harris,3284
+Lane,Precinct 4700,President,,DEM,Kamala D. Harris,1502
+Lane,Precinct 4800,President,,DEM,Kamala D. Harris,657
+Lane,Precinct 4900,President,,DEM,Kamala D. Harris,1237
+Lane,Precinct 701,President,,DEM,Kamala D. Harris,777
+Lane,Precinct 703,President,,DEM,Kamala D. Harris,148
+Lane,Precinct 705,President,,DEM,Kamala D. Harris,1138
+Lane,Precinct 707,President,,DEM,Kamala D. Harris,281
+Lane,Precinct 709,President,,DEM,Kamala D. Harris,722
+Lane,Precinct 711,President,,DEM,Kamala D. Harris,1704
+Lane,Precinct 713,President,,DEM,Kamala D. Harris,389
+Lane,Precinct 715,President,,DEM,Kamala D. Harris,625
+Lane,Precinct 717,President,,DEM,Kamala D. Harris,1130
+Lane,Precinct 719,President,,DEM,Kamala D. Harris,210
+Lane,Precinct 721,President,,DEM,Kamala D. Harris,357
+Lane,Precinct 723,President,,DEM,Kamala D. Harris,1815
+Lane,Precinct 725,President,,DEM,Kamala D. Harris,717
+Lane,Precinct 727,President,,DEM,Kamala D. Harris,661
+Lane,Precinct 729,President,,DEM,Kamala D. Harris,318
+Lane,Precinct 731,President,,DEM,Kamala D. Harris,2926
+Lane,Precinct 733,President,,DEM,Kamala D. Harris,4077
+Lane,Precinct 737,President,,DEM,Kamala D. Harris,1743
+Lane,Precinct 739,President,,DEM,Kamala D. Harris,1005
+Lane,Precinct 741,President,,DEM,Kamala D. Harris,537
+Lane,Precinct 743,President,,DEM,Kamala D. Harris,383
+Lane,Precinct 747,President,,DEM,Kamala D. Harris,1877
+Lane,Precinct 751,President,,DEM,Kamala D. Harris,1873
+Lane,Precinct 753,President,,DEM,Kamala D. Harris,496
+Lane,Precinct 755,President,,DEM,Kamala D. Harris,1173
+Lane,Precinct 757,President,,DEM,Kamala D. Harris,1124
+Lane,Precinct 759,President,,DEM,Kamala D. Harris,1234
+Lane,Precinct 765,President,,DEM,Kamala D. Harris,1034
+Lane,Precinct 1120,President,,,Write-ins,14
+Lane,Precinct 1122,President,,,Write-ins,30
+Lane,Precinct 1124,President,,,Write-ins, *
+Lane,Precinct 1126,President,,,Write-ins,24
+Lane,Precinct 1230,President,,,Write-ins,44
+Lane,Precinct 1232,President,,,Write-ins,29
+Lane,Precinct 1234,President,,,Write-ins,33
+Lane,Precinct 1340,President,,,Write-ins,53
+Lane,Precinct 1342,President,,,Write-ins, *
+Lane,Precinct 1450,President,,,Write-ins,49
+Lane,Precinct 1452,President,,,Write-ins,40
+Lane,Precinct 1454,President,,,Write-ins, *
+Lane,Precinct 1560,President,,,Write-ins,15
+Lane,Precinct 1562,President,,,Write-ins,50
+Lane,Precinct 1564,President,,,Write-ins,48
+Lane,Precinct 1670,President,,,Write-ins,42
+Lane,Precinct 1672,President,,,Write-ins,31
+Lane,Precinct 1780,President,,,Write-ins,11
+Lane,Precinct 1782,President,,,Write-ins,22
+Lane,Precinct 1784,President,,,Write-ins,20
+Lane,Precinct 1786,President,,,Write-ins,24
+Lane,Precinct 1890,President,,,Write-ins,22
+Lane,Precinct 1892,President,,,Write-ins,32
+Lane,Precinct 1894,President,,,Write-ins,29
+Lane,Precinct 2122,President,,,Write-ins,35
+Lane,Precinct 2238,President,,,Write-ins,33
+Lane,Precinct 2340,President,,,Write-ins,41
+Lane,Precinct 2456,President,,,Write-ins,31
+Lane,Precinct 2562,President,,,Write-ins,32
+Lane,Precinct 2676,President,,,Write-ins,48
+Lane,Precinct 4200,President,,,Write-ins,10
+Lane,Precinct 4300,President,,,Write-ins,34
+Lane,Precinct 4400,President,,,Write-ins,11
+Lane,Precinct 4500,President,,,Write-ins, *
+Lane,Precinct 4600,President,,,Write-ins,40
+Lane,Precinct 4700,President,,,Write-ins,30
+Lane,Precinct 4800,President,,,Write-ins, *
+Lane,Precinct 4900,President,,,Write-ins,19
+Lane,Precinct 701,President,,,Write-ins, *
+Lane,Precinct 703,President,,,Write-ins, *
+Lane,Precinct 705,President,,,Write-ins, *
+Lane,Precinct 707,President,,,Write-ins, *
+Lane,Precinct 709,President,,,Write-ins, *
+Lane,Precinct 711,President,,,Write-ins,28
+Lane,Precinct 713,President,,,Write-ins, *
+Lane,Precinct 715,President,,,Write-ins,13
+Lane,Precinct 717,President,,,Write-ins,23
+Lane,Precinct 719,President,,,Write-ins, *
+Lane,Precinct 721,President,,,Write-ins,10
+Lane,Precinct 723,President,,,Write-ins,23
+Lane,Precinct 725,President,,,Write-ins,10
+Lane,Precinct 727,President,,,Write-ins,10
+Lane,Precinct 729,President,,,Write-ins, *
+Lane,Precinct 731,President,,,Write-ins,36
+Lane,Precinct 733,President,,,Write-ins,36
+Lane,Precinct 737,President,,,Write-ins,34
+Lane,Precinct 739,President,,,Write-ins,13
+Lane,Precinct 741,President,,,Write-ins, *
+Lane,Precinct 743,President,,,Write-ins, *
+Lane,Precinct 747,President,,,Write-ins,33
+Lane,Precinct 751,President,,,Write-ins,40
+Lane,Precinct 753,President,,,Write-ins, *
+Lane,Precinct 755,President,,,Write-ins,23
+Lane,Precinct 757,President,,,Write-ins,12
+Lane,Precinct 759,President,,,Write-ins,25
+Lane,Precinct 765,President,,,Write-ins,10
+Lane,Precinct 1120,President,,,Over Votes,0
+Lane,Precinct 1122,President,,,Over Votes,0
+Lane,Precinct 1124,President,,,Over Votes,0
+Lane,Precinct 1126,President,,,Over Votes,0
+Lane,Precinct 1230,President,,,Over Votes,2
+Lane,Precinct 1232,President,,,Over Votes,0
+Lane,Precinct 1234,President,,,Over Votes,0
+Lane,Precinct 1340,President,,,Over Votes,0
+Lane,Precinct 1342,President,,,Over Votes,0
+Lane,Precinct 1450,President,,,Over Votes,3
+Lane,Precinct 1452,President,,,Over Votes,2
+Lane,Precinct 1454,President,,,Over Votes,0
+Lane,Precinct 1560,President,,,Over Votes,1
+Lane,Precinct 1562,President,,,Over Votes,3
+Lane,Precinct 1564,President,,,Over Votes,1
+Lane,Precinct 1670,President,,,Over Votes,5
+Lane,Precinct 1672,President,,,Over Votes,3
+Lane,Precinct 1780,President,,,Over Votes,0
+Lane,Precinct 1782,President,,,Over Votes,1
+Lane,Precinct 1784,President,,,Over Votes,3
+Lane,Precinct 1786,President,,,Over Votes,0
+Lane,Precinct 1890,President,,,Over Votes,0
+Lane,Precinct 1892,President,,,Over Votes,1
+Lane,Precinct 1894,President,,,Over Votes,2
+Lane,Precinct 2122,President,,,Over Votes,2
+Lane,Precinct 2238,President,,,Over Votes,2
+Lane,Precinct 2340,President,,,Over Votes,2
+Lane,Precinct 2456,President,,,Over Votes,3
+Lane,Precinct 2562,President,,,Over Votes,0
+Lane,Precinct 2676,President,,,Over Votes,3
+Lane,Precinct 4200,President,,,Over Votes,0
+Lane,Precinct 4300,President,,,Over Votes,3
+Lane,Precinct 4400,President,,,Over Votes,2
+Lane,Precinct 4500,President,,,Over Votes,0
+Lane,Precinct 4600,President,,,Over Votes,7
+Lane,Precinct 4700,President,,,Over Votes,2
+Lane,Precinct 4800,President,,,Over Votes,0
+Lane,Precinct 4900,President,,,Over Votes,2
+Lane,Precinct 701,President,,,Over Votes,1
+Lane,Precinct 703,President,,,Over Votes,0
+Lane,Precinct 705,President,,,Over Votes,1
+Lane,Precinct 707,President,,,Over Votes,0
+Lane,Precinct 709,President,,,Over Votes,1
+Lane,Precinct 711,President,,,Over Votes,1
+Lane,Precinct 713,President,,,Over Votes,1
+Lane,Precinct 715,President,,,Over Votes,1
+Lane,Precinct 717,President,,,Over Votes,2
+Lane,Precinct 719,President,,,Over Votes,0
+Lane,Precinct 721,President,,,Over Votes,0
+Lane,Precinct 723,President,,,Over Votes,2
+Lane,Precinct 725,President,,,Over Votes,1
+Lane,Precinct 727,President,,,Over Votes,1
+Lane,Precinct 729,President,,,Over Votes,0
+Lane,Precinct 731,President,,,Over Votes,3
+Lane,Precinct 733,President,,,Over Votes,3
+Lane,Precinct 737,President,,,Over Votes,0
+Lane,Precinct 739,President,,,Over Votes,0
+Lane,Precinct 741,President,,,Over Votes,0
+Lane,Precinct 743,President,,,Over Votes,0
+Lane,Precinct 747,President,,,Over Votes,1
+Lane,Precinct 751,President,,,Over Votes,0
+Lane,Precinct 753,President,,,Over Votes,0
+Lane,Precinct 755,President,,,Over Votes,0
+Lane,Precinct 757,President,,,Over Votes,0
+Lane,Precinct 759,President,,,Over Votes,1
+Lane,Precinct 765,President,,,Over Votes,0
+Lane,Precinct 1120,President,,,Under Votes,14
+Lane,Precinct 1122,President,,,Under Votes,27
+Lane,Precinct 1124,President,,,Under Votes,9
+Lane,Precinct 1126,President,,,Under Votes,32
+Lane,Precinct 1230,President,,,Under Votes,29
+Lane,Precinct 1232,President,,,Under Votes,44
+Lane,Precinct 1234,President,,,Under Votes,20
+Lane,Precinct 1340,President,,,Under Votes,31
+Lane,Precinct 1342,President,,,Under Votes,6
+Lane,Precinct 1450,President,,,Under Votes,55
+Lane,Precinct 1452,President,,,Under Votes,34
+Lane,Precinct 1454,President,,,Under Votes,12
+Lane,Precinct 1560,President,,,Under Votes,29
+Lane,Precinct 1562,President,,,Under Votes,77
+Lane,Precinct 1564,President,,,Under Votes,65
+Lane,Precinct 1670,President,,,Under Votes,49
+Lane,Precinct 1672,President,,,Under Votes,34
+Lane,Precinct 1780,President,,,Under Votes,7
+Lane,Precinct 1782,President,,,Under Votes,14
+Lane,Precinct 1784,President,,,Under Votes,34
+Lane,Precinct 1786,President,,,Under Votes,17
+Lane,Precinct 1890,President,,,Under Votes,21
+Lane,Precinct 1892,President,,,Under Votes,38
+Lane,Precinct 1894,President,,,Under Votes,27
+Lane,Precinct 2122,President,,,Under Votes,34
+Lane,Precinct 2238,President,,,Under Votes,40
+Lane,Precinct 2340,President,,,Under Votes,48
+Lane,Precinct 2456,President,,,Under Votes,30
+Lane,Precinct 2562,President,,,Under Votes,32
+Lane,Precinct 2676,President,,,Under Votes,56
+Lane,Precinct 4200,President,,,Under Votes,7
+Lane,Precinct 4300,President,,,Under Votes,45
+Lane,Precinct 4400,President,,,Under Votes,29
+Lane,Precinct 4500,President,,,Under Votes,11
+Lane,Precinct 4600,President,,,Under Votes,45
+Lane,Precinct 4700,President,,,Under Votes,23
+Lane,Precinct 4800,President,,,Under Votes,9
+Lane,Precinct 4900,President,,,Under Votes,24
+Lane,Precinct 701,President,,,Under Votes,12
+Lane,Precinct 703,President,,,Under Votes,2
+Lane,Precinct 705,President,,,Under Votes,25
+Lane,Precinct 707,President,,,Under Votes,3
+Lane,Precinct 709,President,,,Under Votes,10
+Lane,Precinct 711,President,,,Under Votes,22
+Lane,Precinct 713,President,,,Under Votes,9
+Lane,Precinct 715,President,,,Under Votes,17
+Lane,Precinct 717,President,,,Under Votes,30
+Lane,Precinct 719,President,,,Under Votes,3
+Lane,Precinct 721,President,,,Under Votes,7
+Lane,Precinct 723,President,,,Under Votes,15
+Lane,Precinct 725,President,,,Under Votes,18
+Lane,Precinct 727,President,,,Under Votes,13
+Lane,Precinct 729,President,,,Under Votes,7
+Lane,Precinct 731,President,,,Under Votes,32
+Lane,Precinct 733,President,,,Under Votes,51
+Lane,Precinct 737,President,,,Under Votes,36
+Lane,Precinct 739,President,,,Under Votes,17
+Lane,Precinct 741,President,,,Under Votes,6
+Lane,Precinct 743,President,,,Under Votes,13
+Lane,Precinct 747,President,,,Under Votes,31
+Lane,Precinct 751,President,,,Under Votes,48
+Lane,Precinct 753,President,,,Under Votes,17
+Lane,Precinct 755,President,,,Under Votes,28
+Lane,Precinct 757,President,,,Under Votes,34
+Lane,Precinct 759,President,,,Under Votes,32
+Lane,Precinct 765,President,,,Under Votes,29
+Lane,Precinct 1120,U.S. House,4,LBT,Dan Bahlen,39
+Lane,Precinct 1122,U.S. House,4,LBT,Dan Bahlen,57
+Lane,Precinct 1124,U.S. House,4,LBT,Dan Bahlen,*
+Lane,Precinct 1126,U.S. House,4,LBT,Dan Bahlen,40
+Lane,Precinct 1230,U.S. House,4,LBT,Dan Bahlen,53
+Lane,Precinct 1232,U.S. House,4,LBT,Dan Bahlen,44
+Lane,Precinct 1234,U.S. House,4,LBT,Dan Bahlen,31
+Lane,Precinct 1340,U.S. House,4,LBT,Dan Bahlen,66
+Lane,Precinct 1342,U.S. House,4,LBT,Dan Bahlen,14
+Lane,Precinct 1450,U.S. House,4,LBT,Dan Bahlen,65
+Lane,Precinct 1452,U.S. House,4,LBT,Dan Bahlen,36
+Lane,Precinct 1454,U.S. House,4,LBT,Dan Bahlen,40
+Lane,Precinct 1560,U.S. House,4,LBT,Dan Bahlen,27
+Lane,Precinct 1562,U.S. House,4,LBT,Dan Bahlen,57
+Lane,Precinct 1564,U.S. House,4,LBT,Dan Bahlen,79
+Lane,Precinct 1670,U.S. House,4,LBT,Dan Bahlen,93
+Lane,Precinct 1672,U.S. House,4,LBT,Dan Bahlen,93
+Lane,Precinct 1780,U.S. House,4,LBT,Dan Bahlen,37
+Lane,Precinct 1782,U.S. House,4,LBT,Dan Bahlen,29
+Lane,Precinct 1784,U.S. House,4,LBT,Dan Bahlen,70
+Lane,Precinct 1786,U.S. House,4,LBT,Dan Bahlen,37
+Lane,Precinct 1890,U.S. House,4,LBT,Dan Bahlen,64
+Lane,Precinct 1892,U.S. House,4,LBT,Dan Bahlen,60
+Lane,Precinct 1894,U.S. House,4,LBT,Dan Bahlen,45
+Lane,Precinct 2122,U.S. House,4,LBT,Dan Bahlen,75
+Lane,Precinct 2238,U.S. House,4,LBT,Dan Bahlen,64
+Lane,Precinct 2340,U.S. House,4,LBT,Dan Bahlen,111
+Lane,Precinct 2456,U.S. House,4,LBT,Dan Bahlen,90
+Lane,Precinct 2562,U.S. House,4,LBT,Dan Bahlen,83
+Lane,Precinct 2676,U.S. House,4,LBT,Dan Bahlen,75
+Lane,Precinct 4200,U.S. House,4,LBT,Dan Bahlen,12
+Lane,Precinct 4300,U.S. House,4,LBT,Dan Bahlen,92
+Lane,Precinct 4400,U.S. House,4,LBT,Dan Bahlen,61
+Lane,Precinct 4500,U.S. House,4,LBT,Dan Bahlen,15
+Lane,Precinct 4600,U.S. House,4,LBT,Dan Bahlen,71
+Lane,Precinct 4700,U.S. House,4,LBT,Dan Bahlen,65
+Lane,Precinct 4800,U.S. House,4,LBT,Dan Bahlen,31
+Lane,Precinct 4900,U.S. House,4,LBT,Dan Bahlen,44
+Lane,Precinct 701,U.S. House,4,LBT,Dan Bahlen,20
+Lane,Precinct 703,U.S. House,4,LBT,Dan Bahlen, *
+Lane,Precinct 705,U.S. House,4,LBT,Dan Bahlen,11
+Lane,Precinct 707,U.S. House,4,LBT,Dan Bahlen,10
+Lane,Precinct 709,U.S. House,4,LBT,Dan Bahlen,20
+Lane,Precinct 711,U.S. House,4,LBT,Dan Bahlen,48
+Lane,Precinct 713,U.S. House,4,LBT,Dan Bahlen,14
+Lane,Precinct 715,U.S. House,4,LBT,Dan Bahlen,13
+Lane,Precinct 717,U.S. House,4,LBT,Dan Bahlen,37
+Lane,Precinct 719,U.S. House,4,LBT,Dan Bahlen, *
+Lane,Precinct 721,U.S. House,4,LBT,Dan Bahlen, *
+Lane,Precinct 723,U.S. House,4,LBT,Dan Bahlen,34
+Lane,Precinct 725,U.S. House,4,LBT,Dan Bahlen,28
+Lane,Precinct 727,U.S. House,4,LBT,Dan Bahlen,25
+Lane,Precinct 729,U.S. House,4,LBT,Dan Bahlen,13
+Lane,Precinct 731,U.S. House,4,LBT,Dan Bahlen,71
+Lane,Precinct 733,U.S. House,4,LBT,Dan Bahlen,76
+Lane,Precinct 737,U.S. House,4,LBT,Dan Bahlen,39
+Lane,Precinct 739,U.S. House,4,LBT,Dan Bahlen,37
+Lane,Precinct 741,U.S. House,4,LBT,Dan Bahlen, *
+Lane,Precinct 743,U.S. House,4,LBT,Dan Bahlen,11
+Lane,Precinct 747,U.S. House,4,LBT,Dan Bahlen,68
+Lane,Precinct 751,U.S. House,4,LBT,Dan Bahlen,62
+Lane,Precinct 753,U.S. House,4,LBT,Dan Bahlen,10
+Lane,Precinct 755,U.S. House,4,LBT,Dan Bahlen,45
+Lane,Precinct 757,U.S. House,4,LBT,Dan Bahlen,20
+Lane,Precinct 759,U.S. House,4,LBT,Dan Bahlen,46
+Lane,Precinct 765,U.S. House,4,LBT,Dan Bahlen,30
+Lane,Precinct 1120,U.S. House,4,PGP,Justin Filip,109
+Lane,Precinct 1122,U.S. House,4,PGP,Justin Filip,257
+Lane,Precinct 1124,U.S. House,4,PGP,Justin Filip,39
+Lane,Precinct 1126,U.S. House,4,PGP,Justin Filip,163
+Lane,Precinct 1230,U.S. House,4,PGP,Justin Filip,244
+Lane,Precinct 1232,U.S. House,4,PGP,Justin Filip,142
+Lane,Precinct 1234,U.S. House,4,PGP,Justin Filip,115
+Lane,Precinct 1340,U.S. House,4,PGP,Justin Filip,323
+Lane,Precinct 1342,U.S. House,4,PGP,Justin Filip,45
+Lane,Precinct 1450,U.S. House,4,PGP,Justin Filip,144
+Lane,Precinct 1452,U.S. House,4,PGP,Justin Filip,114
+Lane,Precinct 1454,U.S. House,4,PGP,Justin Filip,83
+Lane,Precinct 1560,U.S. House,4,PGP,Justin Filip,50
+Lane,Precinct 1562,U.S. House,4,PGP,Justin Filip,113
+Lane,Precinct 1564,U.S. House,4,PGP,Justin Filip,169
+Lane,Precinct 1670,U.S. House,4,PGP,Justin Filip,163
+Lane,Precinct 1672,U.S. House,4,PGP,Justin Filip,156
+Lane,Precinct 1780,U.S. House,4,PGP,Justin Filip,88
+Lane,Precinct 1782,U.S. House,4,PGP,Justin Filip,126
+Lane,Precinct 1784,U.S. House,4,PGP,Justin Filip,134
+Lane,Precinct 1786,U.S. House,4,PGP,Justin Filip,37
+Lane,Precinct 1890,U.S. House,4,PGP,Justin Filip,119
+Lane,Precinct 1892,U.S. House,4,PGP,Justin Filip,215
+Lane,Precinct 1894,U.S. House,4,PGP,Justin Filip,88
+Lane,Precinct 2122,U.S. House,4,PGP,Justin Filip,122
+Lane,Precinct 2238,U.S. House,4,PGP,Justin Filip,180
+Lane,Precinct 2340,U.S. House,4,PGP,Justin Filip,183
+Lane,Precinct 2456,U.S. House,4,PGP,Justin Filip,159
+Lane,Precinct 2562,U.S. House,4,PGP,Justin Filip,131
+Lane,Precinct 2676,U.S. House,4,PGP,Justin Filip,108
+Lane,Precinct 4200,U.S. House,4,PGP,Justin Filip,19
+Lane,Precinct 4300,U.S. House,4,PGP,Justin Filip,122
+Lane,Precinct 4400,U.S. House,4,PGP,Justin Filip,68
+Lane,Precinct 4500,U.S. House,4,PGP,Justin Filip,15
+Lane,Precinct 4600,U.S. House,4,PGP,Justin Filip,125
+Lane,Precinct 4700,U.S. House,4,PGP,Justin Filip,85
+Lane,Precinct 4800,U.S. House,4,PGP,Justin Filip,32
+Lane,Precinct 4900,U.S. House,4,PGP,Justin Filip,88
+Lane,Precinct 701,U.S. House,4,PGP,Justin Filip,27
+Lane,Precinct 703,U.S. House,4,PGP,Justin Filip,*
+Lane,Precinct 705,U.S. House,4,PGP,Justin Filip,37
+Lane,Precinct 707,U.S. House,4,PGP,Justin Filip,11
+Lane,Precinct 709,U.S. House,4,PGP,Justin Filip,38
+Lane,Precinct 711,U.S. House,4,PGP,Justin Filip,94
+Lane,Precinct 713,U.S. House,4,PGP,Justin Filip,17
+Lane,Precinct 715,U.S. House,4,PGP,Justin Filip,25
+Lane,Precinct 717,U.S. House,4,PGP,Justin Filip,57
+Lane,Precinct 719,U.S. House,4,PGP,Justin Filip,15
+Lane,Precinct 721,U.S. House,4,PGP,Justin Filip,21
+Lane,Precinct 723,U.S. House,4,PGP,Justin Filip,74
+Lane,Precinct 725,U.S. House,4,PGP,Justin Filip,27
+Lane,Precinct 727,U.S. House,4,PGP,Justin Filip,29
+Lane,Precinct 729,U.S. House,4,PGP,Justin Filip,14
+Lane,Precinct 731,U.S. House,4,PGP,Justin Filip,154
+Lane,Precinct 733,U.S. House,4,PGP,Justin Filip,188
+Lane,Precinct 737,U.S. House,4,PGP,Justin Filip,63
+Lane,Precinct 739,U.S. House,4,PGP,Justin Filip,61
+Lane,Precinct 741,U.S. House,4,PGP,Justin Filip,22
+Lane,Precinct 743,U.S. House,4,PGP,Justin Filip,25
+Lane,Precinct 747,U.S. House,4,PGP,Justin Filip,111
+Lane,Precinct 751,U.S. House,4,PGP,Justin Filip,60
+Lane,Precinct 753,U.S. House,4,PGP,Justin Filip,15
+Lane,Precinct 755,U.S. House,4,PGP,Justin Filip,50
+Lane,Precinct 757,U.S. House,4,PGP,Justin Filip,22
+Lane,Precinct 759,U.S. House,4,PGP,Justin Filip,47
+Lane,Precinct 765,U.S. House,4,PGP,Justin Filip,58
+Lane,Precinct 1120,U.S. House,4,DEM,Val Hoyle,1454
+Lane,Precinct 1122,U.S. House,4,DEM,Val Hoyle,3222
+Lane,Precinct 1124,U.S. House,4,DEM,Val Hoyle,953
+Lane,Precinct 1126,U.S. House,4,DEM,Val Hoyle,3964
+Lane,Precinct 1230,U.S. House,4,DEM,Val Hoyle,4420
+Lane,Precinct 1232,U.S. House,4,DEM,Val Hoyle,4593
+Lane,Precinct 1234,U.S. House,4,DEM,Val Hoyle,2606
+Lane,Precinct 1340,U.S. House,4,DEM,Val Hoyle,4227
+Lane,Precinct 1342,U.S. House,4,DEM,Val Hoyle,913
+Lane,Precinct 1450,U.S. House,4,DEM,Val Hoyle,3597
+Lane,Precinct 1452,U.S. House,4,DEM,Val Hoyle,2800
+Lane,Precinct 1454,U.S. House,4,DEM,Val Hoyle,1193
+Lane,Precinct 1560,U.S. House,4,DEM,Val Hoyle,1127
+Lane,Precinct 1562,U.S. House,4,DEM,Val Hoyle,3437
+Lane,Precinct 1564,U.S. House,4,DEM,Val Hoyle,4241
+Lane,Precinct 1670,U.S. House,4,DEM,Val Hoyle,3349
+Lane,Precinct 1672,U.S. House,4,DEM,Val Hoyle,2591
+Lane,Precinct 1780,U.S. House,4,DEM,Val Hoyle,942
+Lane,Precinct 1782,U.S. House,4,DEM,Val Hoyle,1425
+Lane,Precinct 1784,U.S. House,4,DEM,Val Hoyle,2439
+Lane,Precinct 1786,U.S. House,4,DEM,Val Hoyle,1307
+Lane,Precinct 1890,U.S. House,4,DEM,Val Hoyle,1513
+Lane,Precinct 1892,U.S. House,4,DEM,Val Hoyle,3459
+Lane,Precinct 1894,U.S. House,4,DEM,Val Hoyle,2608
+Lane,Precinct 2122,U.S. House,4,DEM,Val Hoyle,2257
+Lane,Precinct 2238,U.S. House,4,DEM,Val Hoyle,2890
+Lane,Precinct 2340,U.S. House,4,DEM,Val Hoyle,2701
+Lane,Precinct 2456,U.S. House,4,DEM,Val Hoyle,2172
+Lane,Precinct 2562,U.S. House,4,DEM,Val Hoyle,2528
+Lane,Precinct 2676,U.S. House,4,DEM,Val Hoyle,2458
+Lane,Precinct 4200,U.S. House,4,DEM,Val Hoyle,425
+Lane,Precinct 4300,U.S. House,4,DEM,Val Hoyle,2140
+Lane,Precinct 4400,U.S. House,4,DEM,Val Hoyle,1074
+Lane,Precinct 4500,U.S. House,4,DEM,Val Hoyle,480
+Lane,Precinct 4600,U.S. House,4,DEM,Val Hoyle,3094
+Lane,Precinct 4700,U.S. House,4,DEM,Val Hoyle,1349
+Lane,Precinct 4800,U.S. House,4,DEM,Val Hoyle,631
+Lane,Precinct 4900,U.S. House,4,DEM,Val Hoyle,1130
+Lane,Precinct 701,U.S. House,4,DEM,Val Hoyle,723
+Lane,Precinct 703,U.S. House,4,DEM,Val Hoyle,137
+Lane,Precinct 705,U.S. House,4,DEM,Val Hoyle,1061
+Lane,Precinct 707,U.S. House,4,DEM,Val Hoyle,266
+Lane,Precinct 709,U.S. House,4,DEM,Val Hoyle,625
+Lane,Precinct 711,U.S. House,4,DEM,Val Hoyle,1592
+Lane,Precinct 713,U.S. House,4,DEM,Val Hoyle,354
+Lane,Precinct 715,U.S. House,4,DEM,Val Hoyle,581
+Lane,Precinct 717,U.S. House,4,DEM,Val Hoyle,997
+Lane,Precinct 719,U.S. House,4,DEM,Val Hoyle,186
+Lane,Precinct 721,U.S. House,4,DEM,Val Hoyle,327
+Lane,Precinct 723,U.S. House,4,DEM,Val Hoyle,1662
+Lane,Precinct 725,U.S. House,4,DEM,Val Hoyle,644
+Lane,Precinct 727,U.S. House,4,DEM,Val Hoyle,595
+Lane,Precinct 729,U.S. House,4,DEM,Val Hoyle,283
+Lane,Precinct 731,U.S. House,4,DEM,Val Hoyle,2706
+Lane,Precinct 733,U.S. House,4,DEM,Val Hoyle,3770
+Lane,Precinct 737,U.S. House,4,DEM,Val Hoyle,1612
+Lane,Precinct 739,U.S. House,4,DEM,Val Hoyle,937
+Lane,Precinct 741,U.S. House,4,DEM,Val Hoyle,498
+Lane,Precinct 743,U.S. House,4,DEM,Val Hoyle,360
+Lane,Precinct 747,U.S. House,4,DEM,Val Hoyle,1743
+Lane,Precinct 751,U.S. House,4,DEM,Val Hoyle,1694
+Lane,Precinct 753,U.S. House,4,DEM,Val Hoyle,445
+Lane,Precinct 755,U.S. House,4,DEM,Val Hoyle,1080
+Lane,Precinct 757,U.S. House,4,DEM,Val Hoyle,1023
+Lane,Precinct 759,U.S. House,4,DEM,Val Hoyle,1150
+Lane,Precinct 765,U.S. House,4,DEM,Val Hoyle,956
+Lane,Precinct 1120,U.S. House,4,REP,Monique DeSpain,323
+Lane,Precinct 1122,U.S. House,4,REP,Monique DeSpain,433
+Lane,Precinct 1124,U.S. House,4,REP,Monique DeSpain,185
+Lane,Precinct 1126,U.S. House,4,REP,Monique DeSpain,423
+Lane,Precinct 1230,U.S. House,4,REP,Monique DeSpain,520
+Lane,Precinct 1232,U.S. House,4,REP,Monique DeSpain,768
+Lane,Precinct 1234,U.S. House,4,REP,Monique DeSpain,502
+Lane,Precinct 1340,U.S. House,4,REP,Monique DeSpain,483
+Lane,Precinct 1342,U.S. House,4,REP,Monique DeSpain,217
+Lane,Precinct 1450,U.S. House,4,REP,Monique DeSpain,1843
+Lane,Precinct 1452,U.S. House,4,REP,Monique DeSpain,1315
+Lane,Precinct 1454,U.S. House,4,REP,Monique DeSpain,374
+Lane,Precinct 1560,U.S. House,4,REP,Monique DeSpain,768
+Lane,Precinct 1562,U.S. House,4,REP,Monique DeSpain,2151
+Lane,Precinct 1564,U.S. House,4,REP,Monique DeSpain,1774
+Lane,Precinct 1670,U.S. House,4,REP,Monique DeSpain,2651
+Lane,Precinct 1672,U.S. House,4,REP,Monique DeSpain,1757
+Lane,Precinct 1780,U.S. House,4,REP,Monique DeSpain,427
+Lane,Precinct 1782,U.S. House,4,REP,Monique DeSpain,227
+Lane,Precinct 1784,U.S. House,4,REP,Monique DeSpain,1276
+Lane,Precinct 1786,U.S. House,4,REP,Monique DeSpain,1065
+Lane,Precinct 1890,U.S. House,4,REP,Monique DeSpain,1108
+Lane,Precinct 1892,U.S. House,4,REP,Monique DeSpain,1133
+Lane,Precinct 1894,U.S. House,4,REP,Monique DeSpain,923
+Lane,Precinct 2122,U.S. House,4,REP,Monique DeSpain,1678
+Lane,Precinct 2238,U.S. House,4,REP,Monique DeSpain,1320
+Lane,Precinct 2340,U.S. House,4,REP,Monique DeSpain,1997
+Lane,Precinct 2456,U.S. House,4,REP,Monique DeSpain,1957
+Lane,Precinct 2562,U.S. House,4,REP,Monique DeSpain,2476
+Lane,Precinct 2676,U.S. House,4,REP,Monique DeSpain,3121
+Lane,Precinct 4200,U.S. House,4,REP,Monique DeSpain,465
+Lane,Precinct 4300,U.S. House,4,REP,Monique DeSpain,2629
+Lane,Precinct 4400,U.S. House,4,REP,Monique DeSpain,1717
+Lane,Precinct 4500,U.S. House,4,REP,Monique DeSpain,575
+Lane,Precinct 4600,U.S. House,4,REP,Monique DeSpain,2501
+Lane,Precinct 4700,U.S. House,4,REP,Monique DeSpain,2233
+Lane,Precinct 4800,U.S. House,4,REP,Monique DeSpain,797
+Lane,Precinct 4900,U.S. House,4,REP,Monique DeSpain,1421
+Lane,Precinct 701,U.S. House,4,REP,Monique DeSpain,739
+Lane,Precinct 703,U.S. House,4,REP,Monique DeSpain,113
+Lane,Precinct 705,U.S. House,4,REP,Monique DeSpain,1004
+Lane,Precinct 707,U.S. House,4,REP,Monique DeSpain,380
+Lane,Precinct 709,U.S. House,4,REP,Monique DeSpain,905
+Lane,Precinct 711,U.S. House,4,REP,Monique DeSpain,2027
+Lane,Precinct 713,U.S. House,4,REP,Monique DeSpain,740
+Lane,Precinct 715,U.S. House,4,REP,Monique DeSpain,1057
+Lane,Precinct 717,U.S. House,4,REP,Monique DeSpain,1724
+Lane,Precinct 719,U.S. House,4,REP,Monique DeSpain,224
+Lane,Precinct 721,U.S. House,4,REP,Monique DeSpain,313
+Lane,Precinct 723,U.S. House,4,REP,Monique DeSpain,873
+Lane,Precinct 725,U.S. House,4,REP,Monique DeSpain,1147
+Lane,Precinct 727,U.S. House,4,REP,Monique DeSpain,984
+Lane,Precinct 729,U.S. House,4,REP,Monique DeSpain,211
+Lane,Precinct 731,U.S. House,4,REP,Monique DeSpain,1814
+Lane,Precinct 733,U.S. House,4,REP,Monique DeSpain,1825
+Lane,Precinct 737,U.S. House,4,REP,Monique DeSpain,1628
+Lane,Precinct 739,U.S. House,4,REP,Monique DeSpain,850
+Lane,Precinct 741,U.S. House,4,REP,Monique DeSpain,297
+Lane,Precinct 743,U.S. House,4,REP,Monique DeSpain,298
+Lane,Precinct 747,U.S. House,4,REP,Monique DeSpain,2923
+Lane,Precinct 751,U.S. House,4,REP,Monique DeSpain,2529
+Lane,Precinct 753,U.S. House,4,REP,Monique DeSpain,897
+Lane,Precinct 755,U.S. House,4,REP,Monique DeSpain,1838
+Lane,Precinct 757,U.S. House,4,REP,Monique DeSpain,1493
+Lane,Precinct 759,U.S. House,4,REP,Monique DeSpain,1337
+Lane,Precinct 765,U.S. House,4,REP,Monique DeSpain,1385
+Lane,Precinct 1120,U.S. House,4,,Write-ins, *
+Lane,Precinct 1122,U.S. House,4,,Write-ins, *
+Lane,Precinct 1124,U.S. House,4,,Write-ins, *
+Lane,Precinct 1126,U.S. House,4,,Write-ins, *
+Lane,Precinct 1230,U.S. House,4,,Write-ins, *
+Lane,Precinct 1232,U.S. House,4,,Write-ins, *
+Lane,Precinct 1234,U.S. House,4,,Write-ins, *
+Lane,Precinct 1340,U.S. House,4,,Write-ins, *
+Lane,Precinct 1342,U.S. House,4,,Write-ins, *
+Lane,Precinct 1450,U.S. House,4,,Write-ins,*
+Lane,Precinct 1452,U.S. House,4,,Write-ins,*
+Lane,Precinct 1454,U.S. House,4,,Write-ins, *
+Lane,Precinct 1560,U.S. House,4,,Write-ins, *
+Lane,Precinct 1562,U.S. House,4,,Write-ins,*
+Lane,Precinct 1564,U.S. House,4,,Write-ins,10
+Lane,Precinct 1670,U.S. House,4,,Write-ins,*
+Lane,Precinct 1672,U.S. House,4,,Write-ins,*
+Lane,Precinct 1780,U.S. House,4,,Write-ins, *
+Lane,Precinct 1782,U.S. House,4,,Write-ins, *
+Lane,Precinct 1784,U.S. House,4,,Write-ins,*
+Lane,Precinct 1786,U.S. House,4,,Write-ins,*
+Lane,Precinct 1890,U.S. House,4,,Write-ins,*
+Lane,Precinct 1892,U.S. House,4,,Write-ins,*
+Lane,Precinct 1894,U.S. House,4,,Write-ins, *
+Lane,Precinct 2122,U.S. House,4,,Write-ins,*
+Lane,Precinct 2238,U.S. House,4,,Write-ins,*
+Lane,Precinct 2340,U.S. House,4,,Write-ins,*
+Lane,Precinct 2456,U.S. House,4,,Write-ins,10
+Lane,Precinct 2562,U.S. House,4,,Write-ins,*
+Lane,Precinct 2676,U.S. House,4,,Write-ins,*
+Lane,Precinct 4200,U.S. House,4,,Write-ins, *
+Lane,Precinct 4300,U.S. House,4,,Write-ins,*
+Lane,Precinct 4400,U.S. House,4,,Write-ins,*
+Lane,Precinct 4500,U.S. House,4,,Write-ins,0
+Lane,Precinct 4600,U.S. House,4,,Write-ins,*
+Lane,Precinct 4700,U.S. House,4,,Write-ins,*
+Lane,Precinct 4800,U.S. House,4,,Write-ins, *
+Lane,Precinct 4900,U.S. House,4,,Write-ins,*
+Lane,Precinct 701,U.S. House,4,,Write-ins, *
+Lane,Precinct 703,U.S. House,4,,Write-ins,0
+Lane,Precinct 705,U.S. House,4,,Write-ins,0
+Lane,Precinct 707,U.S. House,4,,Write-ins,0
+Lane,Precinct 709,U.S. House,4,,Write-ins,0
+Lane,Precinct 711,U.S. House,4,,Write-ins,*
+Lane,Precinct 713,U.S. House,4,,Write-ins, *
+Lane,Precinct 715,U.S. House,4,,Write-ins,*
+Lane,Precinct 717,U.S. House,4,,Write-ins,*
+Lane,Precinct 719,U.S. House,4,,Write-ins,0
+Lane,Precinct 721,U.S. House,4,,Write-ins, *
+Lane,Precinct 723,U.S. House,4,,Write-ins, *
+Lane,Precinct 725,U.S. House,4,,Write-ins,*
+Lane,Precinct 727,U.S. House,4,,Write-ins, *
+Lane,Precinct 729,U.S. House,4,,Write-ins,0
+Lane,Precinct 731,U.S. House,4,,Write-ins,*
+Lane,Precinct 733,U.S. House,4,,Write-ins,*
+Lane,Precinct 737,U.S. House,4,,Write-ins,*
+Lane,Precinct 739,U.S. House,4,,Write-ins, *
+Lane,Precinct 741,U.S. House,4,,Write-ins, *
+Lane,Precinct 743,U.S. House,4,,Write-ins, *
+Lane,Precinct 747,U.S. House,4,,Write-ins,*
+Lane,Precinct 751,U.S. House,4,,Write-ins,*
+Lane,Precinct 753,U.S. House,4,,Write-ins, *
+Lane,Precinct 755,U.S. House,4,,Write-ins, *
+Lane,Precinct 757,U.S. House,4,,Write-ins, *
+Lane,Precinct 759,U.S. House,4,,Write-ins, *
+Lane,Precinct 765,U.S. House,4,,Write-ins, *
+Lane,Precinct 1120,U.S. House,4,,Over Votes,0
+Lane,Precinct 1122,U.S. House,4,,Over Votes,0
+Lane,Precinct 1124,U.S. House,4,,Over Votes,0
+Lane,Precinct 1126,U.S. House,4,,Over Votes,0
+Lane,Precinct 1230,U.S. House,4,,Over Votes,0
+Lane,Precinct 1232,U.S. House,4,,Over Votes,1
+Lane,Precinct 1234,U.S. House,4,,Over Votes,0
+Lane,Precinct 1340,U.S. House,4,,Over Votes,0
+Lane,Precinct 1342,U.S. House,4,,Over Votes,0
+Lane,Precinct 1450,U.S. House,4,,Over Votes,0
+Lane,Precinct 1452,U.S. House,4,,Over Votes,1
+Lane,Precinct 1454,U.S. House,4,,Over Votes,0
+Lane,Precinct 1560,U.S. House,4,,Over Votes,0
+Lane,Precinct 1562,U.S. House,4,,Over Votes,0
+Lane,Precinct 1564,U.S. House,4,,Over Votes,1
+Lane,Precinct 1670,U.S. House,4,,Over Votes,0
+Lane,Precinct 1672,U.S. House,4,,Over Votes,1
+Lane,Precinct 1780,U.S. House,4,,Over Votes,0
+Lane,Precinct 1782,U.S. House,4,,Over Votes,0
+Lane,Precinct 1784,U.S. House,4,,Over Votes,0
+Lane,Precinct 1786,U.S. House,4,,Over Votes,0
+Lane,Precinct 1890,U.S. House,4,,Over Votes,1
+Lane,Precinct 1892,U.S. House,4,,Over Votes,0
+Lane,Precinct 1894,U.S. House,4,,Over Votes,0
+Lane,Precinct 2122,U.S. House,4,,Over Votes,0
+Lane,Precinct 2238,U.S. House,4,,Over Votes,0
+Lane,Precinct 2340,U.S. House,4,,Over Votes,0
+Lane,Precinct 2456,U.S. House,4,,Over Votes,0
+Lane,Precinct 2562,U.S. House,4,,Over Votes,0
+Lane,Precinct 2676,U.S. House,4,,Over Votes,1
+Lane,Precinct 4200,U.S. House,4,,Over Votes,0
+Lane,Precinct 4300,U.S. House,4,,Over Votes,1
+Lane,Precinct 4400,U.S. House,4,,Over Votes,0
+Lane,Precinct 4500,U.S. House,4,,Over Votes,0
+Lane,Precinct 4600,U.S. House,4,,Over Votes,1
+Lane,Precinct 4700,U.S. House,4,,Over Votes,1
+Lane,Precinct 4800,U.S. House,4,,Over Votes,0
+Lane,Precinct 4900,U.S. House,4,,Over Votes,0
+Lane,Precinct 701,U.S. House,4,,Over Votes,0
+Lane,Precinct 703,U.S. House,4,,Over Votes,0
+Lane,Precinct 705,U.S. House,4,,Over Votes,0
+Lane,Precinct 707,U.S. House,4,,Over Votes,0
+Lane,Precinct 709,U.S. House,4,,Over Votes,0
+Lane,Precinct 711,U.S. House,4,,Over Votes,0
+Lane,Precinct 713,U.S. House,4,,Over Votes,0
+Lane,Precinct 715,U.S. House,4,,Over Votes,1
+Lane,Precinct 717,U.S. House,4,,Over Votes,0
+Lane,Precinct 719,U.S. House,4,,Over Votes,0
+Lane,Precinct 721,U.S. House,4,,Over Votes,1
+Lane,Precinct 723,U.S. House,4,,Over Votes,0
+Lane,Precinct 725,U.S. House,4,,Over Votes,1
+Lane,Precinct 727,U.S. House,4,,Over Votes,1
+Lane,Precinct 729,U.S. House,4,,Over Votes,0
+Lane,Precinct 731,U.S. House,4,,Over Votes,0
+Lane,Precinct 733,U.S. House,4,,Over Votes,1
+Lane,Precinct 737,U.S. House,4,,Over Votes,0
+Lane,Precinct 739,U.S. House,4,,Over Votes,0
+Lane,Precinct 741,U.S. House,4,,Over Votes,0
+Lane,Precinct 743,U.S. House,4,,Over Votes,0
+Lane,Precinct 747,U.S. House,4,,Over Votes,0
+Lane,Precinct 751,U.S. House,4,,Over Votes,0
+Lane,Precinct 753,U.S. House,4,,Over Votes,0
+Lane,Precinct 755,U.S. House,4,,Over Votes,0
+Lane,Precinct 757,U.S. House,4,,Over Votes,0
+Lane,Precinct 759,U.S. House,4,,Over Votes,0
+Lane,Precinct 765,U.S. House,4,,Over Votes,0
+Lane,Precinct 1120,U.S. House,4,,Under Votes,90
+Lane,Precinct 1122,U.S. House,4,,Under Votes,191
+Lane,Precinct 1124,U.S. House,4,,Under Votes,46
+Lane,Precinct 1126,U.S. House,4,,Under Votes,123
+Lane,Precinct 1230,U.S. House,4,,Under Votes,185
+Lane,Precinct 1232,U.S. House,4,,Under Votes,174
+Lane,Precinct 1234,U.S. House,4,,Under Votes,128
+Lane,Precinct 1340,U.S. House,4,,Under Votes,223
+Lane,Precinct 1342,U.S. House,4,,Under Votes,45
+Lane,Precinct 1450,U.S. House,4,,Under Votes,265
+Lane,Precinct 1452,U.S. House,4,,Under Votes,172
+Lane,Precinct 1454,U.S. House,4,,Under Votes,97
+Lane,Precinct 1560,U.S. House,4,,Under Votes,91
+Lane,Precinct 1562,U.S. House,4,,Under Votes,221
+Lane,Precinct 1564,U.S. House,4,,Under Votes,276
+Lane,Precinct 1670,U.S. House,4,,Under Votes,298
+Lane,Precinct 1672,U.S. House,4,,Under Votes,239
+Lane,Precinct 1780,U.S. House,4,,Under Votes,89
+Lane,Precinct 1782,U.S. House,4,,Under Votes,86
+Lane,Precinct 1784,U.S. House,4,,Under Votes,188
+Lane,Precinct 1786,U.S. House,4,,Under Votes,93
+Lane,Precinct 1890,U.S. House,4,,Under Votes,198
+Lane,Precinct 1892,U.S. House,4,,Under Votes,251
+Lane,Precinct 1894,U.S. House,4,,Under Votes,130
+Lane,Precinct 2122,U.S. House,4,,Under Votes,214
+Lane,Precinct 2238,U.S. House,4,,Under Votes,208
+Lane,Precinct 2340,U.S. House,4,,Under Votes,246
+Lane,Precinct 2456,U.S. House,4,,Under Votes,223
+Lane,Precinct 2562,U.S. House,4,,Under Votes,276
+Lane,Precinct 2676,U.S. House,4,,Under Votes,302
+Lane,Precinct 4200,U.S. House,4,,Under Votes,40
+Lane,Precinct 4300,U.S. House,4,,Under Votes,279
+Lane,Precinct 4400,U.S. House,4,,Under Votes,139
+Lane,Precinct 4500,U.S. House,4,,Under Votes,33
+Lane,Precinct 4600,U.S. House,4,,Under Votes,224
+Lane,Precinct 4700,U.S. House,4,,Under Votes,173
+Lane,Precinct 4800,U.S. House,4,,Under Votes,64
+Lane,Precinct 4900,U.S. House,4,,Under Votes,129
+Lane,Precinct 701,U.S. House,4,,Under Votes,57
+Lane,Precinct 703,U.S. House,4,,Under Votes,10
+Lane,Precinct 705,U.S. House,4,,Under Votes,81
+Lane,Precinct 707,U.S. House,4,,Under Votes,30
+Lane,Precinct 709,U.S. House,4,,Under Votes,69
+Lane,Precinct 711,U.S. House,4,,Under Votes,151
+Lane,Precinct 713,U.S. House,4,,Under Votes,35
+Lane,Precinct 715,U.S. House,4,,Under Votes,74
+Lane,Precinct 717,U.S. House,4,,Under Votes,118
+Lane,Precinct 719,U.S. House,4,,Under Votes,22
+Lane,Precinct 721,U.S. House,4,,Under Votes,27
+Lane,Precinct 723,U.S. House,4,,Under Votes,109
+Lane,Precinct 725,U.S. House,4,,Under Votes,88
+Lane,Precinct 727,U.S. House,4,,Under Votes,57
+Lane,Precinct 729,U.S. House,4,,Under Votes,22
+Lane,Precinct 731,U.S. House,4,,Under Votes,224
+Lane,Precinct 733,U.S. House,4,,Under Votes,291
+Lane,Precinct 737,U.S. House,4,,Under Votes,136
+Lane,Precinct 739,U.S. House,4,,Under Votes,74
+Lane,Precinct 741,U.S. House,4,,Under Votes,40
+Lane,Precinct 743,U.S. House,4,,Under Votes,32
+Lane,Precinct 747,U.S. House,4,,Under Votes,201
+Lane,Precinct 751,U.S. House,4,,Under Votes,216
+Lane,Precinct 753,U.S. House,4,,Under Votes,46
+Lane,Precinct 755,U.S. House,4,,Under Votes,135
+Lane,Precinct 757,U.S. House,4,,Under Votes,108
+Lane,Precinct 759,U.S. House,4,,Under Votes,105
+Lane,Precinct 765,U.S. House,4,,Under Votes,93
+Lane,Precinct 1120,Secretary of State,,PGP,Nathalie Paravicini,149
+Lane,Precinct 1122,Secretary of State,,PGP,Nathalie Paravicini,317
+Lane,Precinct 1124,Secretary of State,,PGP,Nathalie Paravicini,41
+Lane,Precinct 1126,Secretary of State,,PGP,Nathalie Paravicini,212
+Lane,Precinct 1230,Secretary of State,,PGP,Nathalie Paravicini,279
+Lane,Precinct 1232,Secretary of State,,PGP,Nathalie Paravicini,206
+Lane,Precinct 1234,Secretary of State,,PGP,Nathalie Paravicini,118
+Lane,Precinct 1340,Secretary of State,,PGP,Nathalie Paravicini,370
+Lane,Precinct 1342,Secretary of State,,PGP,Nathalie Paravicini,49
+Lane,Precinct 1450,Secretary of State,,PGP,Nathalie Paravicini,146
+Lane,Precinct 1452,Secretary of State,,PGP,Nathalie Paravicini,137
+Lane,Precinct 1454,Secretary of State,,PGP,Nathalie Paravicini,110
+Lane,Precinct 1560,Secretary of State,,PGP,Nathalie Paravicini,65
+Lane,Precinct 1562,Secretary of State,,PGP,Nathalie Paravicini,150
+Lane,Precinct 1564,Secretary of State,,PGP,Nathalie Paravicini,204
+Lane,Precinct 1670,Secretary of State,,PGP,Nathalie Paravicini,181
+Lane,Precinct 1672,Secretary of State,,PGP,Nathalie Paravicini,158
+Lane,Precinct 1780,Secretary of State,,PGP,Nathalie Paravicini,101
+Lane,Precinct 1782,Secretary of State,,PGP,Nathalie Paravicini,164
+Lane,Precinct 1784,Secretary of State,,PGP,Nathalie Paravicini,157
+Lane,Precinct 1786,Secretary of State,,PGP,Nathalie Paravicini,52
+Lane,Precinct 1890,Secretary of State,,PGP,Nathalie Paravicini,148
+Lane,Precinct 1892,Secretary of State,,PGP,Nathalie Paravicini,247
+Lane,Precinct 1894,Secretary of State,,PGP,Nathalie Paravicini,108
+Lane,Precinct 2122,Secretary of State,,PGP,Nathalie Paravicini,155
+Lane,Precinct 2238,Secretary of State,,PGP,Nathalie Paravicini,214
+Lane,Precinct 2340,Secretary of State,,PGP,Nathalie Paravicini,203
+Lane,Precinct 2456,Secretary of State,,PGP,Nathalie Paravicini,181
+Lane,Precinct 2562,Secretary of State,,PGP,Nathalie Paravicini,158
+Lane,Precinct 2676,Secretary of State,,PGP,Nathalie Paravicini,144
+Lane,Precinct 4200,Secretary of State,,PGP,Nathalie Paravicini,22
+Lane,Precinct 4300,Secretary of State,,PGP,Nathalie Paravicini,147
+Lane,Precinct 4400,Secretary of State,,PGP,Nathalie Paravicini,73
+Lane,Precinct 4500,Secretary of State,,PGP,Nathalie Paravicini,18
+Lane,Precinct 4600,Secretary of State,,PGP,Nathalie Paravicini,129
+Lane,Precinct 4700,Secretary of State,,PGP,Nathalie Paravicini,100
+Lane,Precinct 4800,Secretary of State,,PGP,Nathalie Paravicini,45
+Lane,Precinct 4900,Secretary of State,,PGP,Nathalie Paravicini,89
+Lane,Precinct 701,Secretary of State,,PGP,Nathalie Paravicini,45
+Lane,Precinct 703,Secretary of State,,PGP,Nathalie Paravicini,19
+Lane,Precinct 705,Secretary of State,,PGP,Nathalie Paravicini,44
+Lane,Precinct 707,Secretary of State,,PGP,Nathalie Paravicini,*
+Lane,Precinct 709,Secretary of State,,PGP,Nathalie Paravicini,39
+Lane,Precinct 711,Secretary of State,,PGP,Nathalie Paravicini,108
+Lane,Precinct 713,Secretary of State,,PGP,Nathalie Paravicini,17
+Lane,Precinct 715,Secretary of State,,PGP,Nathalie Paravicini,43
+Lane,Precinct 717,Secretary of State,,PGP,Nathalie Paravicini,69
+Lane,Precinct 719,Secretary of State,,PGP,Nathalie Paravicini,13
+Lane,Precinct 721,Secretary of State,,PGP,Nathalie Paravicini,16
+Lane,Precinct 723,Secretary of State,,PGP,Nathalie Paravicini,100
+Lane,Precinct 725,Secretary of State,,PGP,Nathalie Paravicini,36
+Lane,Precinct 727,Secretary of State,,PGP,Nathalie Paravicini,30
+Lane,Precinct 729,Secretary of State,,PGP,Nathalie Paravicini,17
+Lane,Precinct 731,Secretary of State,,PGP,Nathalie Paravicini,167
+Lane,Precinct 733,Secretary of State,,PGP,Nathalie Paravicini,243
+Lane,Precinct 737,Secretary of State,,PGP,Nathalie Paravicini,71
+Lane,Precinct 739,Secretary of State,,PGP,Nathalie Paravicini,55
+Lane,Precinct 741,Secretary of State,,PGP,Nathalie Paravicini,34
+Lane,Precinct 743,Secretary of State,,PGP,Nathalie Paravicini,33
+Lane,Precinct 747,Secretary of State,,PGP,Nathalie Paravicini,130
+Lane,Precinct 751,Secretary of State,,PGP,Nathalie Paravicini,81
+Lane,Precinct 753,Secretary of State,,PGP,Nathalie Paravicini,13
+Lane,Precinct 755,Secretary of State,,PGP,Nathalie Paravicini,80
+Lane,Precinct 757,Secretary of State,,PGP,Nathalie Paravicini,32
+Lane,Precinct 759,Secretary of State,,PGP,Nathalie Paravicini,63
+Lane,Precinct 765,Secretary of State,,PGP,Nathalie Paravicini,72
+Lane,Precinct 1120,Secretary of State,,REP,Dennis Linthicum,290
+Lane,Precinct 1122,Secretary of State,,REP,Dennis Linthicum,388
+Lane,Precinct 1124,Secretary of State,,REP,Dennis Linthicum,176
+Lane,Precinct 1126,Secretary of State,,REP,Dennis Linthicum,356
+Lane,Precinct 1230,Secretary of State,,REP,Dennis Linthicum,465
+Lane,Precinct 1232,Secretary of State,,REP,Dennis Linthicum,685
+Lane,Precinct 1234,Secretary of State,,REP,Dennis Linthicum,436
+Lane,Precinct 1340,Secretary of State,,REP,Dennis Linthicum,423
+Lane,Precinct 1342,Secretary of State,,REP,Dennis Linthicum,216
+Lane,Precinct 1450,Secretary of State,,REP,Dennis Linthicum,1721
+Lane,Precinct 1452,Secretary of State,,REP,Dennis Linthicum,1208
+Lane,Precinct 1454,Secretary of State,,REP,Dennis Linthicum,342
+Lane,Precinct 1560,Secretary of State,,REP,Dennis Linthicum,702
+Lane,Precinct 1562,Secretary of State,,REP,Dennis Linthicum,1962
+Lane,Precinct 1564,Secretary of State,,REP,Dennis Linthicum,1658
+Lane,Precinct 1670,Secretary of State,,REP,Dennis Linthicum,2501
+Lane,Precinct 1672,Secretary of State,,REP,Dennis Linthicum,1656
+Lane,Precinct 1780,Secretary of State,,REP,Dennis Linthicum,390
+Lane,Precinct 1782,Secretary of State,,REP,Dennis Linthicum,193
+Lane,Precinct 1784,Secretary of State,,REP,Dennis Linthicum,1168
+Lane,Precinct 1786,Secretary of State,,REP,Dennis Linthicum,1010
+Lane,Precinct 1890,Secretary of State,,REP,Dennis Linthicum,1055
+Lane,Precinct 1892,Secretary of State,,REP,Dennis Linthicum,1035
+Lane,Precinct 1894,Secretary of State,,REP,Dennis Linthicum,853
+Lane,Precinct 2122,Secretary of State,,REP,Dennis Linthicum,1560
+Lane,Precinct 2238,Secretary of State,,REP,Dennis Linthicum,1216
+Lane,Precinct 2340,Secretary of State,,REP,Dennis Linthicum,1850
+Lane,Precinct 2456,Secretary of State,,REP,Dennis Linthicum,1817
+Lane,Precinct 2562,Secretary of State,,REP,Dennis Linthicum,2299
+Lane,Precinct 2676,Secretary of State,,REP,Dennis Linthicum,2898
+Lane,Precinct 4200,Secretary of State,,REP,Dennis Linthicum,402
+Lane,Precinct 4300,Secretary of State,,REP,Dennis Linthicum,2489
+Lane,Precinct 4400,Secretary of State,,REP,Dennis Linthicum,1592
+Lane,Precinct 4500,Secretary of State,,REP,Dennis Linthicum,550
+Lane,Precinct 4600,Secretary of State,,REP,Dennis Linthicum,2402
+Lane,Precinct 4700,Secretary of State,,REP,Dennis Linthicum,2132
+Lane,Precinct 4800,Secretary of State,,REP,Dennis Linthicum,772
+Lane,Precinct 4900,Secretary of State,,REP,Dennis Linthicum,1356
+Lane,Precinct 701,Secretary of State,,REP,Dennis Linthicum,720
+Lane,Precinct 703,Secretary of State,,REP,Dennis Linthicum,103
+Lane,Precinct 705,Secretary of State,,REP,Dennis Linthicum,943
+Lane,Precinct 707,Secretary of State,,REP,Dennis Linthicum,380
+Lane,Precinct 709,Secretary of State,,REP,Dennis Linthicum,857
+Lane,Precinct 711,Secretary of State,,REP,Dennis Linthicum,1948
+Lane,Precinct 713,Secretary of State,,REP,Dennis Linthicum,717
+Lane,Precinct 715,Secretary of State,,REP,Dennis Linthicum,1023
+Lane,Precinct 717,Secretary of State,,REP,Dennis Linthicum,1625
+Lane,Precinct 719,Secretary of State,,REP,Dennis Linthicum,216
+Lane,Precinct 721,Secretary of State,,REP,Dennis Linthicum,299
+Lane,Precinct 723,Secretary of State,,REP,Dennis Linthicum,799
+Lane,Precinct 725,Secretary of State,,REP,Dennis Linthicum,1095
+Lane,Precinct 727,Secretary of State,,REP,Dennis Linthicum,920
+Lane,Precinct 729,Secretary of State,,REP,Dennis Linthicum,194
+Lane,Precinct 731,Secretary of State,,REP,Dennis Linthicum,1706
+Lane,Precinct 733,Secretary of State,,REP,Dennis Linthicum,1658
+Lane,Precinct 737,Secretary of State,,REP,Dennis Linthicum,1534
+Lane,Precinct 739,Secretary of State,,REP,Dennis Linthicum,817
+Lane,Precinct 741,Secretary of State,,REP,Dennis Linthicum,276
+Lane,Precinct 743,Secretary of State,,REP,Dennis Linthicum,278
+Lane,Precinct 747,Secretary of State,,REP,Dennis Linthicum,2830
+Lane,Precinct 751,Secretary of State,,REP,Dennis Linthicum,2438
+Lane,Precinct 753,Secretary of State,,REP,Dennis Linthicum,838
+Lane,Precinct 755,Secretary of State,,REP,Dennis Linthicum,1738
+Lane,Precinct 757,Secretary of State,,REP,Dennis Linthicum,1405
+Lane,Precinct 759,Secretary of State,,REP,Dennis Linthicum,1294
+Lane,Precinct 765,Secretary of State,,REP,Dennis Linthicum,1319
+Lane,Precinct 1120,Secretary of State,,DEM,Tobias Read,1433
+Lane,Precinct 1122,Secretary of State,,DEM,Tobias Read,3178
+Lane,Precinct 1124,Secretary of State,,DEM,Tobias Read,941
+Lane,Precinct 1126,Secretary of State,,DEM,Tobias Read,3917
+Lane,Precinct 1230,Secretary of State,,DEM,Tobias Read,4369
+Lane,Precinct 1232,Secretary of State,,DEM,Tobias Read,4520
+Lane,Precinct 1234,Secretary of State,,DEM,Tobias Read,2624
+Lane,Precinct 1340,Secretary of State,,DEM,Tobias Read,4172
+Lane,Precinct 1342,Secretary of State,,DEM,Tobias Read,912
+Lane,Precinct 1450,Secretary of State,,DEM,Tobias Read,3682
+Lane,Precinct 1452,Secretary of State,,DEM,Tobias Read,2835
+Lane,Precinct 1454,Secretary of State,,DEM,Tobias Read,1205
+Lane,Precinct 1560,Secretary of State,,DEM,Tobias Read,1165
+Lane,Precinct 1562,Secretary of State,,DEM,Tobias Read,3519
+Lane,Precinct 1564,Secretary of State,,DEM,Tobias Read,4283
+Lane,Precinct 1670,Secretary of State,,DEM,Tobias Read,3478
+Lane,Precinct 1672,Secretary of State,,DEM,Tobias Read,2689
+Lane,Precinct 1780,Secretary of State,,DEM,Tobias Read,970
+Lane,Precinct 1782,Secretary of State,,DEM,Tobias Read,1411
+Lane,Precinct 1784,Secretary of State,,DEM,Tobias Read,2526
+Lane,Precinct 1786,Secretary of State,,DEM,Tobias Read,1345
+Lane,Precinct 1890,Secretary of State,,DEM,Tobias Read,1571
+Lane,Precinct 1892,Secretary of State,,DEM,Tobias Read,3505
+Lane,Precinct 1894,Secretary of State,,DEM,Tobias Read,2632
+Lane,Precinct 2122,Secretary of State,,DEM,Tobias Read,2348
+Lane,Precinct 2238,Secretary of State,,DEM,Tobias Read,2927
+Lane,Precinct 2340,Secretary of State,,DEM,Tobias Read,2890
+Lane,Precinct 2456,Secretary of State,,DEM,Tobias Read,2307
+Lane,Precinct 2562,Secretary of State,,DEM,Tobias Read,2693
+Lane,Precinct 2676,Secretary of State,,DEM,Tobias Read,2662
+Lane,Precinct 4200,Secretary of State,,DEM,Tobias Read,475
+Lane,Precinct 4300,Secretary of State,,DEM,Tobias Read,2274
+Lane,Precinct 4400,Secretary of State,,DEM,Tobias Read,1190
+Lane,Precinct 4500,Secretary of State,,DEM,Tobias Read,497
+Lane,Precinct 4600,Secretary of State,,DEM,Tobias Read,3178
+Lane,Precinct 4700,Secretary of State,,DEM,Tobias Read,1444
+Lane,Precinct 4800,Secretary of State,,DEM,Tobias Read,647
+Lane,Precinct 4900,Secretary of State,,DEM,Tobias Read,1201
+Lane,Precinct 701,Secretary of State,,DEM,Tobias Read,730
+Lane,Precinct 703,Secretary of State,,DEM,Tobias Read,134
+Lane,Precinct 705,Secretary of State,,DEM,Tobias Read,1083
+Lane,Precinct 707,Secretary of State,,DEM,Tobias Read,280
+Lane,Precinct 709,Secretary of State,,DEM,Tobias Read,682
+Lane,Precinct 711,Secretary of State,,DEM,Tobias Read,1640
+Lane,Precinct 713,Secretary of State,,DEM,Tobias Read,381
+Lane,Precinct 715,Secretary of State,,DEM,Tobias Read,590
+Lane,Precinct 717,Secretary of State,,DEM,Tobias Read,1080
+Lane,Precinct 719,Secretary of State,,DEM,Tobias Read,197
+Lane,Precinct 721,Secretary of State,,DEM,Tobias Read,339
+Lane,Precinct 723,Secretary of State,,DEM,Tobias Read,1681
+Lane,Precinct 725,Secretary of State,,DEM,Tobias Read,692
+Lane,Precinct 727,Secretary of State,,DEM,Tobias Read,649
+Lane,Precinct 729,Secretary of State,,DEM,Tobias Read,302
+Lane,Precinct 731,Secretary of State,,DEM,Tobias Read,2801
+Lane,Precinct 733,Secretary of State,,DEM,Tobias Read,3835
+Lane,Precinct 737,Secretary of State,,DEM,Tobias Read,1662
+Lane,Precinct 739,Secretary of State,,DEM,Tobias Read,978
+Lane,Precinct 741,Secretary of State,,DEM,Tobias Read,502
+Lane,Precinct 743,Secretary of State,,DEM,Tobias Read,375
+Lane,Precinct 747,Secretary of State,,DEM,Tobias Read,1806
+Lane,Precinct 751,Secretary of State,,DEM,Tobias Read,1769
+Lane,Precinct 753,Secretary of State,,DEM,Tobias Read,486
+Lane,Precinct 755,Secretary of State,,DEM,Tobias Read,1144
+Lane,Precinct 757,Secretary of State,,DEM,Tobias Read,1087
+Lane,Precinct 759,Secretary of State,,DEM,Tobias Read,1187
+Lane,Precinct 765,Secretary of State,,DEM,Tobias Read,1000
+Lane,Precinct 1120,Secretary of State,,,Write-ins,*
+Lane,Precinct 1122,Secretary of State,,,Write-ins,*
+Lane,Precinct 1124,Secretary of State,,,Write-ins,*
+Lane,Precinct 1126,Secretary of State,,,Write-ins,*
+Lane,Precinct 1230,Secretary of State,,,Write-ins,*
+Lane,Precinct 1232,Secretary of State,,,Write-ins,*
+Lane,Precinct 1234,Secretary of State,,,Write-ins,0
+Lane,Precinct 1340,Secretary of State,,,Write-ins,*
+Lane,Precinct 1342,Secretary of State,,,Write-ins,*
+Lane,Precinct 1450,Secretary of State,,,Write-ins,*
+Lane,Precinct 1452,Secretary of State,,,Write-ins,*
+Lane,Precinct 1454,Secretary of State,,,Write-ins,*
+Lane,Precinct 1560,Secretary of State,,,Write-ins,*
+Lane,Precinct 1562,Secretary of State,,,Write-ins,*
+Lane,Precinct 1564,Secretary of State,,,Write-ins,*
+Lane,Precinct 1670,Secretary of State,,,Write-ins,*
+Lane,Precinct 1672,Secretary of State,,,Write-ins,15
+Lane,Precinct 1780,Secretary of State,,,Write-ins,*
+Lane,Precinct 1782,Secretary of State,,,Write-ins,*
+Lane,Precinct 1784,Secretary of State,,,Write-ins,*
+Lane,Precinct 1786,Secretary of State,,,Write-ins,*
+Lane,Precinct 1890,Secretary of State,,,Write-ins,10
+Lane,Precinct 1892,Secretary of State,,,Write-ins,*
+Lane,Precinct 1894,Secretary of State,,,Write-ins,*
+Lane,Precinct 2122,Secretary of State,,,Write-ins,*
+Lane,Precinct 2238,Secretary of State,,,Write-ins,*
+Lane,Precinct 2340,Secretary of State,,,Write-ins,*
+Lane,Precinct 2456,Secretary of State,,,Write-ins,*
+Lane,Precinct 2562,Secretary of State,,,Write-ins,*
+Lane,Precinct 2676,Secretary of State,,,Write-ins,*
+Lane,Precinct 4200,Secretary of State,,,Write-ins,*
+Lane,Precinct 4300,Secretary of State,,,Write-ins,*
+Lane,Precinct 4400,Secretary of State,,,Write-ins,*
+Lane,Precinct 4500,Secretary of State,,,Write-ins,0
+Lane,Precinct 4600,Secretary of State,,,Write-ins,12
+Lane,Precinct 4700,Secretary of State,,,Write-ins,*
+Lane,Precinct 4800,Secretary of State,,,Write-ins,0
+Lane,Precinct 4900,Secretary of State,,,Write-ins,*
+Lane,Precinct 701,Secretary of State,,,Write-ins,*
+Lane,Precinct 703,Secretary of State,,,Write-ins,0
+Lane,Precinct 705,Secretary of State,,,Write-ins,*
+Lane,Precinct 707,Secretary of State,,,Write-ins,0
+Lane,Precinct 709,Secretary of State,,,Write-ins,0
+Lane,Precinct 711,Secretary of State,,,Write-ins,*
+Lane,Precinct 713,Secretary of State,,,Write-ins,*
+Lane,Precinct 715,Secretary of State,,,Write-ins,0
+Lane,Precinct 717,Secretary of State,,,Write-ins,*
+Lane,Precinct 719,Secretary of State,,,Write-ins,*
+Lane,Precinct 721,Secretary of State,,,Write-ins,*
+Lane,Precinct 723,Secretary of State,,,Write-ins,*
+Lane,Precinct 725,Secretary of State,,,Write-ins,*
+Lane,Precinct 727,Secretary of State,,,Write-ins,*
+Lane,Precinct 729,Secretary of State,,,Write-ins,0
+Lane,Precinct 731,Secretary of State,,,Write-ins,10
+Lane,Precinct 733,Secretary of State,,,Write-ins,*
+Lane,Precinct 737,Secretary of State,,,Write-ins,*
+Lane,Precinct 739,Secretary of State,,,Write-ins,*
+Lane,Precinct 741,Secretary of State,,,Write-ins,*
+Lane,Precinct 743,Secretary of State,,,Write-ins,0
+Lane,Precinct 747,Secretary of State,,,Write-ins,*
+Lane,Precinct 751,Secretary of State,,,Write-ins,*
+Lane,Precinct 753,Secretary of State,,,Write-ins,*
+Lane,Precinct 755,Secretary of State,,,Write-ins, *
+Lane,Precinct 757,Secretary of State,,,Write-ins, *
+Lane,Precinct 759,Secretary of State,,,Write-ins, *
+Lane,Precinct 765,Secretary of State,,,Write-ins, *
+Lane,Precinct 1120,Secretary of State,,,Over Votes,0
+Lane,Precinct 1122,Secretary of State,,,Over Votes,3
+Lane,Precinct 1124,Secretary of State,,,Over Votes,0
+Lane,Precinct 1126,Secretary of State,,,Over Votes,0
+Lane,Precinct 1230,Secretary of State,,,Over Votes,0
+Lane,Precinct 1232,Secretary of State,,,Over Votes,0
+Lane,Precinct 1234,Secretary of State,,,Over Votes,0
+Lane,Precinct 1340,Secretary of State,,,Over Votes,0
+Lane,Precinct 1342,Secretary of State,,,Over Votes,0
+Lane,Precinct 1450,Secretary of State,,,Over Votes,0
+Lane,Precinct 1452,Secretary of State,,,Over Votes,0
+Lane,Precinct 1454,Secretary of State,,,Over Votes,0
+Lane,Precinct 1560,Secretary of State,,,Over Votes,0
+Lane,Precinct 1562,Secretary of State,,,Over Votes,0
+Lane,Precinct 1564,Secretary of State,,,Over Votes,0
+Lane,Precinct 1670,Secretary of State,,,Over Votes,0
+Lane,Precinct 1672,Secretary of State,,,Over Votes,0
+Lane,Precinct 1780,Secretary of State,,,Over Votes,0
+Lane,Precinct 1782,Secretary of State,,,Over Votes,0
+Lane,Precinct 1784,Secretary of State,,,Over Votes,0
+Lane,Precinct 1786,Secretary of State,,,Over Votes,0
+Lane,Precinct 1890,Secretary of State,,,Over Votes,0
+Lane,Precinct 1892,Secretary of State,,,Over Votes,0
+Lane,Precinct 1894,Secretary of State,,,Over Votes,0
+Lane,Precinct 2122,Secretary of State,,,Over Votes,0
+Lane,Precinct 2238,Secretary of State,,,Over Votes,0
+Lane,Precinct 2340,Secretary of State,,,Over Votes,0
+Lane,Precinct 2456,Secretary of State,,,Over Votes,0
+Lane,Precinct 2562,Secretary of State,,,Over Votes,1
+Lane,Precinct 2676,Secretary of State,,,Over Votes,0
+Lane,Precinct 4200,Secretary of State,,,Over Votes,0
+Lane,Precinct 4300,Secretary of State,,,Over Votes,0
+Lane,Precinct 4400,Secretary of State,,,Over Votes,0
+Lane,Precinct 4500,Secretary of State,,,Over Votes,0
+Lane,Precinct 4600,Secretary of State,,,Over Votes,0
+Lane,Precinct 4700,Secretary of State,,,Over Votes,1
+Lane,Precinct 4800,Secretary of State,,,Over Votes,0
+Lane,Precinct 4900,Secretary of State,,,Over Votes,0
+Lane,Precinct 701,Secretary of State,,,Over Votes,0
+Lane,Precinct 703,Secretary of State,,,Over Votes,0
+Lane,Precinct 705,Secretary of State,,,Over Votes,0
+Lane,Precinct 707,Secretary of State,,,Over Votes,0
+Lane,Precinct 709,Secretary of State,,,Over Votes,0
+Lane,Precinct 711,Secretary of State,,,Over Votes,0
+Lane,Precinct 713,Secretary of State,,,Over Votes,0
+Lane,Precinct 715,Secretary of State,,,Over Votes,0
+Lane,Precinct 717,Secretary of State,,,Over Votes,0
+Lane,Precinct 719,Secretary of State,,,Over Votes,0
+Lane,Precinct 721,Secretary of State,,,Over Votes,0
+Lane,Precinct 723,Secretary of State,,,Over Votes,0
+Lane,Precinct 725,Secretary of State,,,Over Votes,1
+Lane,Precinct 727,Secretary of State,,,Over Votes,0
+Lane,Precinct 729,Secretary of State,,,Over Votes,0
+Lane,Precinct 731,Secretary of State,,,Over Votes,0
+Lane,Precinct 733,Secretary of State,,,Over Votes,1
+Lane,Precinct 737,Secretary of State,,,Over Votes,0
+Lane,Precinct 739,Secretary of State,,,Over Votes,1
+Lane,Precinct 741,Secretary of State,,,Over Votes,0
+Lane,Precinct 743,Secretary of State,,,Over Votes,0
+Lane,Precinct 747,Secretary of State,,,Over Votes,0
+Lane,Precinct 751,Secretary of State,,,Over Votes,0
+Lane,Precinct 753,Secretary of State,,,Over Votes,0
+Lane,Precinct 755,Secretary of State,,,Over Votes,0
+Lane,Precinct 757,Secretary of State,,,Over Votes,1
+Lane,Precinct 759,Secretary of State,,,Over Votes,0
+Lane,Precinct 765,Secretary of State,,,Over Votes,1
+Lane,Precinct 1120,Secretary of State,,,Under Votes,108
+Lane,Precinct 1122,Secretary of State,,,Under Votes,236
+Lane,Precinct 1124,Secretary of State,,,Under Votes,63
+Lane,Precinct 1126,Secretary of State,,,Under Votes,169
+Lane,Precinct 1230,Secretary of State,,,Under Votes,239
+Lane,Precinct 1232,Secretary of State,,,Under Votes,247
+Lane,Precinct 1234,Secretary of State,,,Under Votes,171
+Lane,Precinct 1340,Secretary of State,,,Under Votes,256
+Lane,Precinct 1342,Secretary of State,,,Under Votes,43
+Lane,Precinct 1450,Secretary of State,,,Under Votes,341
+Lane,Precinct 1452,Secretary of State,,,Under Votes,231
+Lane,Precinct 1454,Secretary of State,,,Under Votes,120
+Lane,Precinct 1560,Secretary of State,,,Under Votes,127
+Lane,Precinct 1562,Secretary of State,,,Under Votes,326
+Lane,Precinct 1564,Secretary of State,,,Under Votes,363
+Lane,Precinct 1670,Secretary of State,,,Under Votes,387
+Lane,Precinct 1672,Secretary of State,,,Under Votes,317
+Lane,Precinct 1780,Secretary of State,,,Under Votes,112
+Lane,Precinct 1782,Secretary of State,,,Under Votes,115
+Lane,Precinct 1784,Secretary of State,,,Under Votes,247
+Lane,Precinct 1786,Secretary of State,,,Under Votes,130
+Lane,Precinct 1890,Secretary of State,,,Under Votes,219
+Lane,Precinct 1892,Secretary of State,,,Under Votes,305
+Lane,Precinct 1894,Secretary of State,,,Under Votes,180
+Lane,Precinct 2122,Secretary of State,,,Under Votes,273
+Lane,Precinct 2238,Secretary of State,,,Under Votes,288
+Lane,Precinct 2340,Secretary of State,,,Under Votes,291
+Lane,Precinct 2456,Secretary of State,,,Under Votes,288
+Lane,Precinct 2562,Secretary of State,,,Under Votes,337
+Lane,Precinct 2676,Secretary of State,,,Under Votes,357
+Lane,Precinct 4200,Secretary of State,,,Under Votes,60
+Lane,Precinct 4300,Secretary of State,,,Under Votes,339
+Lane,Precinct 4400,Secretary of State,,,Under Votes,194
+Lane,Precinct 4500,Secretary of State,,,Under Votes,49
+Lane,Precinct 4600,Secretary of State,,,Under Votes,282
+Lane,Precinct 4700,Secretary of State,,,Under Votes,224
+Lane,Precinct 4800,Secretary of State,,,Under Votes,88
+Lane,Precinct 4900,Secretary of State,,,Under Votes,161
+Lane,Precinct 701,Secretary of State,,,Under Votes,70
+Lane,Precinct 703,Secretary of State,,,Under Votes,17
+Lane,Precinct 705,Secretary of State,,,Under Votes,113
+Lane,Precinct 707,Secretary of State,,,Under Votes,30
+Lane,Precinct 709,Secretary of State,,,Under Votes,74
+Lane,Precinct 711,Secretary of State,,,Under Votes,204
+Lane,Precinct 713,Secretary of State,,,Under Votes,46
+Lane,Precinct 715,Secretary of State,,,Under Votes,94
+Lane,Precinct 717,Secretary of State,,,Under Votes,154
+Lane,Precinct 719,Secretary of State,,,Under Votes,23
+Lane,Precinct 721,Secretary of State,,,Under Votes,35
+Lane,Precinct 723,Secretary of State,,,Under Votes,136
+Lane,Precinct 725,Secretary of State,,,Under Votes,108
+Lane,Precinct 727,Secretary of State,,,Under Votes,91
+Lane,Precinct 729,Secretary of State,,,Under Votes,27
+Lane,Precinct 731,Secretary of State,,,Under Votes,279
+Lane,Precinct 733,Secretary of State,,,Under Votes,387
+Lane,Precinct 737,Secretary of State,,,Under Votes,198
+Lane,Precinct 739,Secretary of State,,,Under Votes,102
+Lane,Precinct 741,Secretary of State,,,Under Votes,48
+Lane,Precinct 743,Secretary of State,,,Under Votes,40
+Lane,Precinct 747,Secretary of State,,,Under Votes,265
+Lane,Precinct 751,Secretary of State,,,Under Votes,259
+Lane,Precinct 753,Secretary of State,,,Under Votes,73
+Lane,Precinct 755,Secretary of State,,,Under Votes,179
+Lane,Precinct 757,Secretary of State,,,Under Votes,129
+Lane,Precinct 759,Secretary of State,,,Under Votes,132
+Lane,Precinct 765,Secretary of State,,,Under Votes,122
+Lane,Precinct 1120,State Treasurer,,WFP,Mary King,247
+Lane,Precinct 1122,State Treasurer,,WFP,Mary King,540
+Lane,Precinct 1124,State Treasurer,,WFP,Mary King,97
+Lane,Precinct 1126,State Treasurer,,WFP,Mary King,419
+Lane,Precinct 1230,State Treasurer,,WFP,Mary King,529
+Lane,Precinct 1232,State Treasurer,,WFP,Mary King,370
+Lane,Precinct 1234,State Treasurer,,WFP,Mary King,239
+Lane,Precinct 1340,State Treasurer,,WFP,Mary King,659
+Lane,Precinct 1342,State Treasurer,,WFP,Mary King,90
+Lane,Precinct 1450,State Treasurer,,WFP,Mary King,377
+Lane,Precinct 1452,State Treasurer,,WFP,Mary King,290
+Lane,Precinct 1454,State Treasurer,,WFP,Mary King,219
+Lane,Precinct 1560,State Treasurer,,WFP,Mary King,140
+Lane,Precinct 1562,State Treasurer,,WFP,Mary King,311
+Lane,Precinct 1564,State Treasurer,,WFP,Mary King,409
+Lane,Precinct 1670,State Treasurer,,WFP,Mary King,461
+Lane,Precinct 1672,State Treasurer,,WFP,Mary King,390
+Lane,Precinct 1780,State Treasurer,,WFP,Mary King,211
+Lane,Precinct 1782,State Treasurer,,WFP,Mary King,276
+Lane,Precinct 1784,State Treasurer,,WFP,Mary King,327
+Lane,Precinct 1786,State Treasurer,,WFP,Mary King,127
+Lane,Precinct 1890,State Treasurer,,WFP,Mary King,297
+Lane,Precinct 1892,State Treasurer,,WFP,Mary King,520
+Lane,Precinct 1894,State Treasurer,,WFP,Mary King,208
+Lane,Precinct 2122,State Treasurer,,WFP,Mary King,384
+Lane,Precinct 2238,State Treasurer,,WFP,Mary King,441
+Lane,Precinct 2340,State Treasurer,,WFP,Mary King,484
+Lane,Precinct 2456,State Treasurer,,WFP,Mary King,417
+Lane,Precinct 2562,State Treasurer,,WFP,Mary King,413
+Lane,Precinct 2676,State Treasurer,,WFP,Mary King,334
+Lane,Precinct 4200,State Treasurer,,WFP,Mary King,47
+Lane,Precinct 4300,State Treasurer,,WFP,Mary King,365
+Lane,Precinct 4400,State Treasurer,,WFP,Mary King,168
+Lane,Precinct 4500,State Treasurer,,WFP,Mary King,41
+Lane,Precinct 4600,State Treasurer,,WFP,Mary King,336
+Lane,Precinct 4700,State Treasurer,,WFP,Mary King,235
+Lane,Precinct 4800,State Treasurer,,WFP,Mary King,112
+Lane,Precinct 4900,State Treasurer,,WFP,Mary King,186
+Lane,Precinct 701,State Treasurer,,WFP,Mary King,79
+Lane,Precinct 703,State Treasurer,,WFP,Mary King,32
+Lane,Precinct 705,State Treasurer,,WFP,Mary King,94
+Lane,Precinct 707,State Treasurer,,WFP,Mary King,24
+Lane,Precinct 709,State Treasurer,,WFP,Mary King,88
+Lane,Precinct 711,State Treasurer,,WFP,Mary King,234
+Lane,Precinct 713,State Treasurer,,WFP,Mary King,44
+Lane,Precinct 715,State Treasurer,,WFP,Mary King,61
+Lane,Precinct 717,State Treasurer,,WFP,Mary King,142
+Lane,Precinct 719,State Treasurer,,WFP,Mary King,22
+Lane,Precinct 721,State Treasurer,,WFP,Mary King,34
+Lane,Precinct 723,State Treasurer,,WFP,Mary King,163
+Lane,Precinct 725,State Treasurer,,WFP,Mary King,90
+Lane,Precinct 727,State Treasurer,,WFP,Mary King,86
+Lane,Precinct 729,State Treasurer,,WFP,Mary King,35
+Lane,Precinct 731,State Treasurer,,WFP,Mary King,356
+Lane,Precinct 733,State Treasurer,,WFP,Mary King,483
+Lane,Precinct 737,State Treasurer,,WFP,Mary King,179
+Lane,Precinct 739,State Treasurer,,WFP,Mary King,138
+Lane,Precinct 741,State Treasurer,,WFP,Mary King,65
+Lane,Precinct 743,State Treasurer,,WFP,Mary King,54
+Lane,Precinct 747,State Treasurer,,WFP,Mary King,267
+Lane,Precinct 751,State Treasurer,,WFP,Mary King,154
+Lane,Precinct 753,State Treasurer,,WFP,Mary King,36
+Lane,Precinct 755,State Treasurer,,WFP,Mary King,172
+Lane,Precinct 757,State Treasurer,,WFP,Mary King,115
+Lane,Precinct 759,State Treasurer,,WFP,Mary King,158
+Lane,Precinct 765,State Treasurer,,WFP,Mary King,150
+Lane,Precinct 1120,State Treasurer,,REP,Brian J. Boquist,309
+Lane,Precinct 1122,State Treasurer,,REP,Brian J. Boquist,419
+Lane,Precinct 1124,State Treasurer,,REP,Brian J. Boquist,171
+Lane,Precinct 1126,State Treasurer,,REP,Brian J. Boquist,401
+Lane,Precinct 1230,State Treasurer,,REP,Brian J. Boquist,504
+Lane,Precinct 1232,State Treasurer,,REP,Brian J. Boquist,715
+Lane,Precinct 1234,State Treasurer,,REP,Brian J. Boquist,443
+Lane,Precinct 1340,State Treasurer,,REP,Brian J. Boquist,453
+Lane,Precinct 1342,State Treasurer,,REP,Brian J. Boquist,210
+Lane,Precinct 1450,State Treasurer,,REP,Brian J. Boquist,1786
+Lane,Precinct 1452,State Treasurer,,REP,Brian J. Boquist,1256
+Lane,Precinct 1454,State Treasurer,,REP,Brian J. Boquist,358
+Lane,Precinct 1560,State Treasurer,,REP,Brian J. Boquist,720
+Lane,Precinct 1562,State Treasurer,,REP,Brian J. Boquist,2054
+Lane,Precinct 1564,State Treasurer,,REP,Brian J. Boquist,1744
+Lane,Precinct 1670,State Treasurer,,REP,Brian J. Boquist,2592
+Lane,Precinct 1672,State Treasurer,,REP,Brian J. Boquist,1715
+Lane,Precinct 1780,State Treasurer,,REP,Brian J. Boquist,401
+Lane,Precinct 1782,State Treasurer,,REP,Brian J. Boquist,204
+Lane,Precinct 1784,State Treasurer,,REP,Brian J. Boquist,1215
+Lane,Precinct 1786,State Treasurer,,REP,Brian J. Boquist,1054
+Lane,Precinct 1890,State Treasurer,,REP,Brian J. Boquist,1122
+Lane,Precinct 1892,State Treasurer,,REP,Brian J. Boquist,1090
+Lane,Precinct 1894,State Treasurer,,REP,Brian J. Boquist,903
+Lane,Precinct 2122,State Treasurer,,REP,Brian J. Boquist,1638
+Lane,Precinct 2238,State Treasurer,,REP,Brian J. Boquist,1277
+Lane,Precinct 2340,State Treasurer,,REP,Brian J. Boquist,1911
+Lane,Precinct 2456,State Treasurer,,REP,Brian J. Boquist,1888
+Lane,Precinct 2562,State Treasurer,,REP,Brian J. Boquist,2389
+Lane,Precinct 2676,State Treasurer,,REP,Brian J. Boquist,2998
+Lane,Precinct 4200,State Treasurer,,REP,Brian J. Boquist,428
+Lane,Precinct 4300,State Treasurer,,REP,Brian J. Boquist,2554
+Lane,Precinct 4400,State Treasurer,,REP,Brian J. Boquist,1660
+Lane,Precinct 4500,State Treasurer,,REP,Brian J. Boquist,574
+Lane,Precinct 4600,State Treasurer,,REP,Brian J. Boquist,2467
+Lane,Precinct 4700,State Treasurer,,REP,Brian J. Boquist,2179
+Lane,Precinct 4800,State Treasurer,,REP,Brian J. Boquist,797
+Lane,Precinct 4900,State Treasurer,,REP,Brian J. Boquist,1404
+Lane,Precinct 701,State Treasurer,,REP,Brian J. Boquist,744
+Lane,Precinct 703,State Treasurer,,REP,Brian J. Boquist,106
+Lane,Precinct 705,State Treasurer,,REP,Brian J. Boquist,985
+Lane,Precinct 707,State Treasurer,,REP,Brian J. Boquist,390
+Lane,Precinct 709,State Treasurer,,REP,Brian J. Boquist,880
+Lane,Precinct 711,State Treasurer,,REP,Brian J. Boquist,1994
+Lane,Precinct 713,State Treasurer,,REP,Brian J. Boquist,737
+Lane,Precinct 715,State Treasurer,,REP,Brian J. Boquist,1063
+Lane,Precinct 717,State Treasurer,,REP,Brian J. Boquist,1652
+Lane,Precinct 719,State Treasurer,,REP,Brian J. Boquist,219
+Lane,Precinct 721,State Treasurer,,REP,Brian J. Boquist,311
+Lane,Precinct 723,State Treasurer,,REP,Brian J. Boquist,820
+Lane,Precinct 725,State Treasurer,,REP,Brian J. Boquist,1136
+Lane,Precinct 727,State Treasurer,,REP,Brian J. Boquist,951
+Lane,Precinct 729,State Treasurer,,REP,Brian J. Boquist,210
+Lane,Precinct 731,State Treasurer,,REP,Brian J. Boquist,1802
+Lane,Precinct 733,State Treasurer,,REP,Brian J. Boquist,1743
+Lane,Precinct 737,State Treasurer,,REP,Brian J. Boquist,1604
+Lane,Precinct 739,State Treasurer,,REP,Brian J. Boquist,841
+Lane,Precinct 741,State Treasurer,,REP,Brian J. Boquist,283
+Lane,Precinct 743,State Treasurer,,REP,Brian J. Boquist,289
+Lane,Precinct 747,State Treasurer,,REP,Brian J. Boquist,2909
+Lane,Precinct 751,State Treasurer,,REP,Brian J. Boquist,2511
+Lane,Precinct 753,State Treasurer,,REP,Brian J. Boquist,876
+Lane,Precinct 755,State Treasurer,,REP,Brian J. Boquist,1783
+Lane,Precinct 757,State Treasurer,,REP,Brian J. Boquist,1431
+Lane,Precinct 759,State Treasurer,,REP,Brian J. Boquist,1340
+Lane,Precinct 765,State Treasurer,,REP,Brian J. Boquist,1368
+Lane,Precinct 1120,State Treasurer,,DEM,Elizabeth Steiner,1309
+Lane,Precinct 1122,State Treasurer,,DEM,Elizabeth Steiner,2938
+Lane,Precinct 1124,State Treasurer,,DEM,Elizabeth Steiner,883
+Lane,Precinct 1126,State Treasurer,,DEM,Elizabeth Steiner,3628
+Lane,Precinct 1230,State Treasurer,,DEM,Elizabeth Steiner,4063
+Lane,Precinct 1232,State Treasurer,,DEM,Elizabeth Steiner,4312
+Lane,Precinct 1234,State Treasurer,,DEM,Elizabeth Steiner,2487
+Lane,Precinct 1340,State Treasurer,,DEM,Elizabeth Steiner,3849
+Lane,Precinct 1342,State Treasurer,,DEM,Elizabeth Steiner,879
+Lane,Precinct 1450,State Treasurer,,DEM,Elizabeth Steiner,3339
+Lane,Precinct 1452,State Treasurer,,DEM,Elizabeth Steiner,2621
+Lane,Precinct 1454,State Treasurer,,DEM,Elizabeth Steiner,1082
+Lane,Precinct 1560,State Treasurer,,DEM,Elizabeth Steiner,1069
+Lane,Precinct 1562,State Treasurer,,DEM,Elizabeth Steiner,3222
+Lane,Precinct 1564,State Treasurer,,DEM,Elizabeth Steiner,3969
+Lane,Precinct 1670,State Treasurer,,DEM,Elizabeth Steiner,3107
+Lane,Precinct 1672,State Treasurer,,DEM,Elizabeth Steiner,2403
+Lane,Precinct 1780,State Treasurer,,DEM,Elizabeth Steiner,861
+Lane,Precinct 1782,State Treasurer,,DEM,Elizabeth Steiner,1291
+Lane,Precinct 1784,State Treasurer,,DEM,Elizabeth Steiner,2316
+Lane,Precinct 1786,State Treasurer,,DEM,Elizabeth Steiner,1218
+Lane,Precinct 1890,State Treasurer,,DEM,Elizabeth Steiner,1363
+Lane,Precinct 1892,State Treasurer,,DEM,Elizabeth Steiner,3177
+Lane,Precinct 1894,State Treasurer,,DEM,Elizabeth Steiner,2461
+Lane,Precinct 2122,State Treasurer,,DEM,Elizabeth Steiner,2044
+Lane,Precinct 2238,State Treasurer,,DEM,Elizabeth Steiner,2633
+Lane,Precinct 2340,State Treasurer,,DEM,Elizabeth Steiner,2527
+Lane,Precinct 2456,State Treasurer,,DEM,Elizabeth Steiner,1988
+Lane,Precinct 2562,State Treasurer,,DEM,Elizabeth Steiner,2354
+Lane,Precinct 2676,State Treasurer,,DEM,Elizabeth Steiner,2361
+Lane,Precinct 4200,State Treasurer,,DEM,Elizabeth Steiner,419
+Lane,Precinct 4300,State Treasurer,,DEM,Elizabeth Steiner,1995
+Lane,Precinct 4400,State Treasurer,,DEM,Elizabeth Steiner,1030
+Lane,Precinct 4500,State Treasurer,,DEM,Elizabeth Steiner,449
+Lane,Precinct 4600,State Treasurer,,DEM,Elizabeth Steiner,2912
+Lane,Precinct 4700,State Treasurer,,DEM,Elizabeth Steiner,1238
+Lane,Precinct 4800,State Treasurer,,DEM,Elizabeth Steiner,557
+Lane,Precinct 4900,State Treasurer,,DEM,Elizabeth Steiner,1045
+Lane,Precinct 701,State Treasurer,,DEM,Elizabeth Steiner,678
+Lane,Precinct 703,State Treasurer,,DEM,Elizabeth Steiner,119
+Lane,Precinct 705,State Treasurer,,DEM,Elizabeth Steiner,996
+Lane,Precinct 707,State Treasurer,,DEM,Elizabeth Steiner,246
+Lane,Precinct 709,State Treasurer,,DEM,Elizabeth Steiner,599
+Lane,Precinct 711,State Treasurer,,DEM,Elizabeth Steiner,1469
+Lane,Precinct 713,State Treasurer,,DEM,Elizabeth Steiner,327
+Lane,Precinct 715,State Treasurer,,DEM,Elizabeth Steiner,535
+Lane,Precinct 717,State Treasurer,,DEM,Elizabeth Steiner,955
+Lane,Precinct 719,State Treasurer,,DEM,Elizabeth Steiner,186
+Lane,Precinct 721,State Treasurer,,DEM,Elizabeth Steiner,309
+Lane,Precinct 723,State Treasurer,,DEM,Elizabeth Steiner,1583
+Lane,Precinct 725,State Treasurer,,DEM,Elizabeth Steiner,606
+Lane,Precinct 727,State Treasurer,,DEM,Elizabeth Steiner,562
+Lane,Precinct 729,State Treasurer,,DEM,Elizabeth Steiner,260
+Lane,Precinct 731,State Treasurer,,DEM,Elizabeth Steiner,2509
+Lane,Precinct 733,State Treasurer,,DEM,Elizabeth Steiner,3516
+Lane,Precinct 737,State Treasurer,,DEM,Elizabeth Steiner,1475
+Lane,Precinct 739,State Treasurer,,DEM,Elizabeth Steiner,869
+Lane,Precinct 741,State Treasurer,,DEM,Elizabeth Steiner,460
+Lane,Precinct 743,State Treasurer,,DEM,Elizabeth Steiner,342
+Lane,Precinct 747,State Treasurer,,DEM,Elizabeth Steiner,1583
+Lane,Precinct 751,State Treasurer,,DEM,Elizabeth Steiner,1605
+Lane,Precinct 753,State Treasurer,,DEM,Elizabeth Steiner,429
+Lane,Precinct 755,State Treasurer,,DEM,Elizabeth Steiner,1005
+Lane,Precinct 757,State Treasurer,,DEM,Elizabeth Steiner,968
+Lane,Precinct 759,State Treasurer,,DEM,Elizabeth Steiner,1051
+Lane,Precinct 765,State Treasurer,,DEM,Elizabeth Steiner,873
+Lane,Precinct 1120,State Treasurer,,,Write-ins, *
+Lane,Precinct 1122,State Treasurer,,,Write-ins, *
+Lane,Precinct 1124,State Treasurer,,,Write-ins, *
+Lane,Precinct 1126,State Treasurer,,,Write-ins, *
+Lane,Precinct 1230,State Treasurer,,,Write-ins, *
+Lane,Precinct 1232,State Treasurer,,,Write-ins, *
+Lane,Precinct 1234,State Treasurer,,,Write-ins, *
+Lane,Precinct 1340,State Treasurer,,,Write-ins, *
+Lane,Precinct 1342,State Treasurer,,,Write-ins, *
+Lane,Precinct 1450,State Treasurer,,,Write-ins, *
+Lane,Precinct 1452,State Treasurer,,,Write-ins, *
+Lane,Precinct 1454,State Treasurer,,,Write-ins, *
+Lane,Precinct 1560,State Treasurer,,,Write-ins, *
+Lane,Precinct 1562,State Treasurer,,,Write-ins, *
+Lane,Precinct 1564,State Treasurer,,,Write-ins, *
+Lane,Precinct 1670,State Treasurer,,,Write-ins, *
+Lane,Precinct 1672,State Treasurer,,,Write-ins,10
+Lane,Precinct 1780,State Treasurer,,,Write-ins, *
+Lane,Precinct 1782,State Treasurer,,,Write-ins, *
+Lane,Precinct 1784,State Treasurer,,,Write-ins, *
+Lane,Precinct 1786,State Treasurer,,,Write-ins, *
+Lane,Precinct 1890,State Treasurer,,,Write-ins,10
+Lane,Precinct 1892,State Treasurer,,,Write-ins, *
+Lane,Precinct 1894,State Treasurer,,,Write-ins, *
+Lane,Precinct 2122,State Treasurer,,,Write-ins, *
+Lane,Precinct 2238,State Treasurer,,,Write-ins, *
+Lane,Precinct 2340,State Treasurer,,,Write-ins,10
+Lane,Precinct 2456,State Treasurer,,,Write-ins, *
+Lane,Precinct 2562,State Treasurer,,,Write-ins, *
+Lane,Precinct 2676,State Treasurer,,,Write-ins, *
+Lane,Precinct 4200,State Treasurer,,,Write-ins, *
+Lane,Precinct 4300,State Treasurer,,,Write-ins, *
+Lane,Precinct 4400,State Treasurer,,,Write-ins,0
+Lane,Precinct 4500,State Treasurer,,,Write-ins,0
+Lane,Precinct 4600,State Treasurer,,,Write-ins, *
+Lane,Precinct 4700,State Treasurer,,,Write-ins, *
+Lane,Precinct 4800,State Treasurer,,,Write-ins,0
+Lane,Precinct 4900,State Treasurer,,,Write-ins, *
+Lane,Precinct 701,State Treasurer,,,Write-ins, *
+Lane,Precinct 703,State Treasurer,,,Write-ins,0
+Lane,Precinct 705,State Treasurer,,,Write-ins,0
+Lane,Precinct 707,State Treasurer,,,Write-ins,0
+Lane,Precinct 709,State Treasurer,,,Write-ins,0
+Lane,Precinct 711,State Treasurer,,,Write-ins, *
+Lane,Precinct 713,State Treasurer,,,Write-ins, *
+Lane,Precinct 715,State Treasurer,,,Write-ins, *
+Lane,Precinct 717,State Treasurer,,,Write-ins, *
+Lane,Precinct 719,State Treasurer,,,Write-ins,0
+Lane,Precinct 721,State Treasurer,,,Write-ins, *
+Lane,Precinct 723,State Treasurer,,,Write-ins, *
+Lane,Precinct 725,State Treasurer,,,Write-ins, *
+Lane,Precinct 727,State Treasurer,,,Write-ins, *
+Lane,Precinct 729,State Treasurer,,,Write-ins,0
+Lane,Precinct 731,State Treasurer,,,Write-ins, *
+Lane,Precinct 733,State Treasurer,,,Write-ins, *
+Lane,Precinct 737,State Treasurer,,,Write-ins, *
+Lane,Precinct 739,State Treasurer,,,Write-ins, *
+Lane,Precinct 741,State Treasurer,,,Write-ins, *
+Lane,Precinct 743,State Treasurer,,,Write-ins,0
+Lane,Precinct 747,State Treasurer,,,Write-ins, *
+Lane,Precinct 751,State Treasurer,,,Write-ins, *
+Lane,Precinct 753,State Treasurer,,,Write-ins, *
+Lane,Precinct 755,State Treasurer,,,Write-ins, *
+Lane,Precinct 757,State Treasurer,,,Write-ins, *
+Lane,Precinct 759,State Treasurer,,,Write-ins, *
+Lane,Precinct 765,State Treasurer,,,Write-ins,0
+Lane,Precinct 1120,State Treasurer,,,Over Votes,0
+Lane,Precinct 1122,State Treasurer,,,Over Votes,0
+Lane,Precinct 1124,State Treasurer,,,Over Votes,0
+Lane,Precinct 1126,State Treasurer,,,Over Votes,1
+Lane,Precinct 1230,State Treasurer,,,Over Votes,0
+Lane,Precinct 1232,State Treasurer,,,Over Votes,0
+Lane,Precinct 1234,State Treasurer,,,Over Votes,0
+Lane,Precinct 1340,State Treasurer,,,Over Votes,0
+Lane,Precinct 1342,State Treasurer,,,Over Votes,0
+Lane,Precinct 1450,State Treasurer,,,Over Votes,1
+Lane,Precinct 1452,State Treasurer,,,Over Votes,0
+Lane,Precinct 1454,State Treasurer,,,Over Votes,0
+Lane,Precinct 1560,State Treasurer,,,Over Votes,0
+Lane,Precinct 1562,State Treasurer,,,Over Votes,1
+Lane,Precinct 1564,State Treasurer,,,Over Votes,0
+Lane,Precinct 1670,State Treasurer,,,Over Votes,0
+Lane,Precinct 1672,State Treasurer,,,Over Votes,0
+Lane,Precinct 1780,State Treasurer,,,Over Votes,1
+Lane,Precinct 1782,State Treasurer,,,Over Votes,0
+Lane,Precinct 1784,State Treasurer,,,Over Votes,0
+Lane,Precinct 1786,State Treasurer,,,Over Votes,0
+Lane,Precinct 1890,State Treasurer,,,Over Votes,0
+Lane,Precinct 1892,State Treasurer,,,Over Votes,0
+Lane,Precinct 1894,State Treasurer,,,Over Votes,0
+Lane,Precinct 2122,State Treasurer,,,Over Votes,0
+Lane,Precinct 2238,State Treasurer,,,Over Votes,3
+Lane,Precinct 2340,State Treasurer,,,Over Votes,1
+Lane,Precinct 2456,State Treasurer,,,Over Votes,0
+Lane,Precinct 2562,State Treasurer,,,Over Votes,1
+Lane,Precinct 2676,State Treasurer,,,Over Votes,1
+Lane,Precinct 4200,State Treasurer,,,Over Votes,0
+Lane,Precinct 4300,State Treasurer,,,Over Votes,0
+Lane,Precinct 4400,State Treasurer,,,Over Votes,0
+Lane,Precinct 4500,State Treasurer,,,Over Votes,1
+Lane,Precinct 4600,State Treasurer,,,Over Votes,2
+Lane,Precinct 4700,State Treasurer,,,Over Votes,0
+Lane,Precinct 4800,State Treasurer,,,Over Votes,0
+Lane,Precinct 4900,State Treasurer,,,Over Votes,0
+Lane,Precinct 701,State Treasurer,,,Over Votes,0
+Lane,Precinct 703,State Treasurer,,,Over Votes,0
+Lane,Precinct 705,State Treasurer,,,Over Votes,0
+Lane,Precinct 707,State Treasurer,,,Over Votes,0
+Lane,Precinct 709,State Treasurer,,,Over Votes,0
+Lane,Precinct 711,State Treasurer,,,Over Votes,0
+Lane,Precinct 713,State Treasurer,,,Over Votes,0
+Lane,Precinct 715,State Treasurer,,,Over Votes,0
+Lane,Precinct 717,State Treasurer,,,Over Votes,1
+Lane,Precinct 719,State Treasurer,,,Over Votes,0
+Lane,Precinct 721,State Treasurer,,,Over Votes,0
+Lane,Precinct 723,State Treasurer,,,Over Votes,0
+Lane,Precinct 725,State Treasurer,,,Over Votes,1
+Lane,Precinct 727,State Treasurer,,,Over Votes,0
+Lane,Precinct 729,State Treasurer,,,Over Votes,0
+Lane,Precinct 731,State Treasurer,,,Over Votes,0
+Lane,Precinct 733,State Treasurer,,,Over Votes,1
+Lane,Precinct 737,State Treasurer,,,Over Votes,0
+Lane,Precinct 739,State Treasurer,,,Over Votes,0
+Lane,Precinct 741,State Treasurer,,,Over Votes,0
+Lane,Precinct 743,State Treasurer,,,Over Votes,1
+Lane,Precinct 747,State Treasurer,,,Over Votes,2
+Lane,Precinct 751,State Treasurer,,,Over Votes,0
+Lane,Precinct 753,State Treasurer,,,Over Votes,0
+Lane,Precinct 755,State Treasurer,,,Over Votes,0
+Lane,Precinct 757,State Treasurer,,,Over Votes,0
+Lane,Precinct 759,State Treasurer,,,Over Votes,0
+Lane,Precinct 765,State Treasurer,,,Over Votes,0
+Lane,Precinct 1120,State Treasurer,,,Under Votes,117
+Lane,Precinct 1122,State Treasurer,,,Under Votes,226
+Lane,Precinct 1124,State Treasurer,,,Under Votes,70
+Lane,Precinct 1126,State Treasurer,,,Under Votes,203
+Lane,Precinct 1230,State Treasurer,,,Under Votes,256
+Lane,Precinct 1232,State Treasurer,,,Under Votes,268
+Lane,Precinct 1234,State Treasurer,,,Under Votes,179
+Lane,Precinct 1340,State Treasurer,,,Under Votes,263
+Lane,Precinct 1342,State Treasurer,,,Under Votes,43
+Lane,Precinct 1450,State Treasurer,,,Under Votes,389
+Lane,Precinct 1452,State Treasurer,,,Under Votes,247
+Lane,Precinct 1454,State Treasurer,,,Under Votes,117
+Lane,Precinct 1560,State Treasurer,,,Under Votes,130
+Lane,Precinct 1562,State Treasurer,,,Under Votes,367
+Lane,Precinct 1564,State Treasurer,,,Under Votes,390
+Lane,Precinct 1670,State Treasurer,,,Under Votes,388
+Lane,Precinct 1672,State Treasurer,,,Under Votes,317
+Lane,Precinct 1780,State Treasurer,,,Under Votes,97
+Lane,Precinct 1782,State Treasurer,,,Under Votes,114
+Lane,Precinct 1784,State Treasurer,,,Under Votes,244
+Lane,Precinct 1786,State Treasurer,,,Under Votes,137
+Lane,Precinct 1890,State Treasurer,,,Under Votes,211
+Lane,Precinct 1892,State Treasurer,,,Under Votes,308
+Lane,Precinct 1894,State Treasurer,,,Under Votes,202
+Lane,Precinct 2122,State Treasurer,,,Under Votes,273
+Lane,Precinct 2238,State Treasurer,,,Under Votes,291
+Lane,Precinct 2340,State Treasurer,,,Under Votes,308
+Lane,Precinct 2456,State Treasurer,,,Under Votes,301
+Lane,Precinct 2562,State Treasurer,,,Under Votes,331
+Lane,Precinct 2676,State Treasurer,,,Under Votes,366
+Lane,Precinct 4200,State Treasurer,,,Under Votes,66
+Lane,Precinct 4300,State Treasurer,,,Under Votes,335
+Lane,Precinct 4400,State Treasurer,,,Under Votes,192
+Lane,Precinct 4500,State Treasurer,,,Under Votes,49
+Lane,Precinct 4600,State Treasurer,,,Under Votes,283
+Lane,Precinct 4700,State Treasurer,,,Under Votes,246
+Lane,Precinct 4800,State Treasurer,,,Under Votes,86
+Lane,Precinct 4900,State Treasurer,,,Under Votes,172
+Lane,Precinct 701,State Treasurer,,,Under Votes,68
+Lane,Precinct 703,State Treasurer,,,Under Votes,16
+Lane,Precinct 705,State Treasurer,,,Under Votes,109
+Lane,Precinct 707,State Treasurer,,,Under Votes,36
+Lane,Precinct 709,State Treasurer,,,Under Votes,85
+Lane,Precinct 711,State Treasurer,,,Under Votes,204
+Lane,Precinct 713,State Treasurer,,,Under Votes,53
+Lane,Precinct 715,State Treasurer,,,Under Votes,90
+Lane,Precinct 717,State Treasurer,,,Under Votes,180
+Lane,Precinct 719,State Treasurer,,,Under Votes,23
+Lane,Precinct 721,State Treasurer,,,Under Votes,35
+Lane,Precinct 723,State Treasurer,,,Under Votes,150
+Lane,Precinct 725,State Treasurer,,,Under Votes,101
+Lane,Precinct 727,State Treasurer,,,Under Votes,90
+Lane,Precinct 729,State Treasurer,,,Under Votes,35
+Lane,Precinct 731,State Treasurer,,,Under Votes,289
+Lane,Precinct 733,State Treasurer,,,Under Votes,382
+Lane,Precinct 737,State Treasurer,,,Under Votes,209
+Lane,Precinct 739,State Treasurer,,,Under Votes,105
+Lane,Precinct 741,State Treasurer,,,Under Votes,52
+Lane,Precinct 743,State Treasurer,,,Under Votes,40
+Lane,Precinct 747,State Treasurer,,,Under Votes,272
+Lane,Precinct 751,State Treasurer,,,Under Votes,276
+Lane,Precinct 753,State Treasurer,,,Under Votes,68
+Lane,Precinct 755,State Treasurer,,,Under Votes,181
+Lane,Precinct 757,State Treasurer,,,Under Votes,142
+Lane,Precinct 759,State Treasurer,,,Under Votes,126
+Lane,Precinct 765,State Treasurer,,,Under Votes,124
+Lane,Precinct 1120,Attorney General,,REP,Will Lathrop,347
+Lane,Precinct 1122,Attorney General,,REP,Will Lathrop,485
+Lane,Precinct 1124,Attorney General,,REP,Will Lathrop,214
+Lane,Precinct 1126,Attorney General,,REP,Will Lathrop,453
+Lane,Precinct 1230,Attorney General,,REP,Will Lathrop,594
+Lane,Precinct 1232,Attorney General,,REP,Will Lathrop,781
+Lane,Precinct 1234,Attorney General,,REP,Will Lathrop,538
+Lane,Precinct 1340,Attorney General,,REP,Will Lathrop,536
+Lane,Precinct 1342,Attorney General,,REP,Will Lathrop,235
+Lane,Precinct 1450,Attorney General,,REP,Will Lathrop,1933
+Lane,Precinct 1452,Attorney General,,REP,Will Lathrop,1362
+Lane,Precinct 1454,Attorney General,,REP,Will Lathrop,407
+Lane,Precinct 1560,Attorney General,,REP,Will Lathrop,798
+Lane,Precinct 1562,Attorney General,,REP,Will Lathrop,2183
+Lane,Precinct 1564,Attorney General,,REP,Will Lathrop,1873
+Lane,Precinct 1670,Attorney General,,REP,Will Lathrop,2718
+Lane,Precinct 1672,Attorney General,,REP,Will Lathrop,1837
+Lane,Precinct 1780,Attorney General,,REP,Will Lathrop,428
+Lane,Precinct 1782,Attorney General,,REP,Will Lathrop,237
+Lane,Precinct 1784,Attorney General,,REP,Will Lathrop,1313
+Lane,Precinct 1786,Attorney General,,REP,Will Lathrop,1089
+Lane,Precinct 1890,Attorney General,,REP,Will Lathrop,1168
+Lane,Precinct 1892,Attorney General,,REP,Will Lathrop,1188
+Lane,Precinct 1894,Attorney General,,REP,Will Lathrop,968
+Lane,Precinct 2122,Attorney General,,REP,Will Lathrop,1711
+Lane,Precinct 2238,Attorney General,,REP,Will Lathrop,1373
+Lane,Precinct 2340,Attorney General,,REP,Will Lathrop,2034
+Lane,Precinct 2456,Attorney General,,REP,Will Lathrop,1991
+Lane,Precinct 2562,Attorney General,,REP,Will Lathrop,2470
+Lane,Precinct 2676,Attorney General,,REP,Will Lathrop,3150
+Lane,Precinct 4200,Attorney General,,REP,Will Lathrop,443
+Lane,Precinct 4300,Attorney General,,REP,Will Lathrop,2681
+Lane,Precinct 4400,Attorney General,,REP,Will Lathrop,1711
+Lane,Precinct 4500,Attorney General,,REP,Will Lathrop,592
+Lane,Precinct 4600,Attorney General,,REP,Will Lathrop,2609
+Lane,Precinct 4700,Attorney General,,REP,Will Lathrop,2252
+Lane,Precinct 4800,Attorney General,,REP,Will Lathrop,807
+Lane,Precinct 4900,Attorney General,,REP,Will Lathrop,1449
+Lane,Precinct 701,Attorney General,,REP,Will Lathrop,769
+Lane,Precinct 703,Attorney General,,REP,Will Lathrop,111
+Lane,Precinct 705,Attorney General,,REP,Will Lathrop,1027
+Lane,Precinct 707,Attorney General,,REP,Will Lathrop,392
+Lane,Precinct 709,Attorney General,,REP,Will Lathrop,915
+Lane,Precinct 711,Attorney General,,REP,Will Lathrop,2058
+Lane,Precinct 713,Attorney General,,REP,Will Lathrop,759
+Lane,Precinct 715,Attorney General,,REP,Will Lathrop,1087
+Lane,Precinct 717,Attorney General,,REP,Will Lathrop,1690
+Lane,Precinct 719,Attorney General,,REP,Will Lathrop,226
+Lane,Precinct 721,Attorney General,,REP,Will Lathrop,327
+Lane,Precinct 723,Attorney General,,REP,Will Lathrop,889
+Lane,Precinct 725,Attorney General,,REP,Will Lathrop,1168
+Lane,Precinct 727,Attorney General,,REP,Will Lathrop,967
+Lane,Precinct 729,Attorney General,,REP,Will Lathrop,206
+Lane,Precinct 731,Attorney General,,REP,Will Lathrop,1884
+Lane,Precinct 733,Attorney General,,REP,Will Lathrop,1883
+Lane,Precinct 737,Attorney General,,REP,Will Lathrop,1646
+Lane,Precinct 739,Attorney General,,REP,Will Lathrop,885
+Lane,Precinct 741,Attorney General,,REP,Will Lathrop,303
+Lane,Precinct 743,Attorney General,,REP,Will Lathrop,314
+Lane,Precinct 747,Attorney General,,REP,Will Lathrop,2959
+Lane,Precinct 751,Attorney General,,REP,Will Lathrop,2609
+Lane,Precinct 753,Attorney General,,REP,Will Lathrop,887
+Lane,Precinct 755,Attorney General,,REP,Will Lathrop,1851
+Lane,Precinct 757,Attorney General,,REP,Will Lathrop,1494
+Lane,Precinct 759,Attorney General,,REP,Will Lathrop,1381
+Lane,Precinct 765,Attorney General,,REP,Will Lathrop,1398
+Lane,Precinct 1120,Attorney General,,DEM,Dan Rayfield,1514
+Lane,Precinct 1122,Attorney General,,DEM,Dan Rayfield,3376
+Lane,Precinct 1124,Attorney General,,DEM,Dan Rayfield,932
+Lane,Precinct 1126,Attorney General,,DEM,Dan Rayfield,3992
+Lane,Precinct 1230,Attorney General,,DEM,Dan Rayfield,4464
+Lane,Precinct 1232,Attorney General,,DEM,Dan Rayfield,4595
+Lane,Precinct 1234,Attorney General,,DEM,Dan Rayfield,2641
+Lane,Precinct 1340,Attorney General,,DEM,Dan Rayfield,4394
+Lane,Precinct 1342,Attorney General,,DEM,Dan Rayfield,932
+Lane,Precinct 1450,Attorney General,,DEM,Dan Rayfield,3604
+Lane,Precinct 1452,Attorney General,,DEM,Dan Rayfield,2796
+Lane,Precinct 1454,Attorney General,,DEM,Dan Rayfield,1248
+Lane,Precinct 1560,Attorney General,,DEM,Dan Rayfield,1125
+Lane,Precinct 1562,Attorney General,,DEM,Dan Rayfield,3417
+Lane,Precinct 1564,Attorney General,,DEM,Dan Rayfield,4234
+Lane,Precinct 1670,Attorney General,,DEM,Dan Rayfield,3421
+Lane,Precinct 1672,Attorney General,,DEM,Dan Rayfield,2679
+Lane,Precinct 1780,Attorney General,,DEM,Dan Rayfield,1037
+Lane,Precinct 1782,Attorney General,,DEM,Dan Rayfield,1519
+Lane,Precinct 1784,Attorney General,,DEM,Dan Rayfield,2541
+Lane,Precinct 1786,Attorney General,,DEM,Dan Rayfield,1303
+Lane,Precinct 1890,Attorney General,,DEM,Dan Rayfield,1606
+Lane,Precinct 1892,Attorney General,,DEM,Dan Rayfield,3590
+Lane,Precinct 1894,Attorney General,,DEM,Dan Rayfield,2604
+Lane,Precinct 2122,Attorney General,,DEM,Dan Rayfield,2341
+Lane,Precinct 2238,Attorney General,,DEM,Dan Rayfield,2958
+Lane,Precinct 2340,Attorney General,,DEM,Dan Rayfield,2864
+Lane,Precinct 2456,Attorney General,,DEM,Dan Rayfield,2296
+Lane,Precinct 2562,Attorney General,,DEM,Dan Rayfield,2666
+Lane,Precinct 2676,Attorney General,,DEM,Dan Rayfield,2525
+Lane,Precinct 4200,Attorney General,,DEM,Dan Rayfield,457
+Lane,Precinct 4300,Attorney General,,DEM,Dan Rayfield,2229
+Lane,Precinct 4400,Attorney General,,DEM,Dan Rayfield,1142
+Lane,Precinct 4500,Attorney General,,DEM,Dan Rayfield,474
+Lane,Precinct 4600,Attorney General,,DEM,Dan Rayfield,3100
+Lane,Precinct 4700,Attorney General,,DEM,Dan Rayfield,1410
+Lane,Precinct 4800,Attorney General,,DEM,Dan Rayfield,642
+Lane,Precinct 4900,Attorney General,,DEM,Dan Rayfield,1180
+Lane,Precinct 701,Attorney General,,DEM,Dan Rayfield,722
+Lane,Precinct 703,Attorney General,,DEM,Dan Rayfield,143
+Lane,Precinct 705,Attorney General,,DEM,Dan Rayfield,1057
+Lane,Precinct 707,Attorney General,,DEM,Dan Rayfield,265
+Lane,Precinct 709,Attorney General,,DEM,Dan Rayfield,659
+Lane,Precinct 711,Attorney General,,DEM,Dan Rayfield,1638
+Lane,Precinct 713,Attorney General,,DEM,Dan Rayfield,359
+Lane,Precinct 715,Attorney General,,DEM,Dan Rayfield,574
+Lane,Precinct 717,Attorney General,,DEM,Dan Rayfield,1041
+Lane,Precinct 719,Attorney General,,DEM,Dan Rayfield,199
+Lane,Precinct 721,Attorney General,,DEM,Dan Rayfield,330
+Lane,Precinct 723,Attorney General,,DEM,Dan Rayfield,1673
+Lane,Precinct 725,Attorney General,,DEM,Dan Rayfield,649
+Lane,Precinct 727,Attorney General,,DEM,Dan Rayfield,614
+Lane,Precinct 729,Attorney General,,DEM,Dan Rayfield,303
+Lane,Precinct 731,Attorney General,,DEM,Dan Rayfield,2757
+Lane,Precinct 733,Attorney General,,DEM,Dan Rayfield,3846
+Lane,Precinct 737,Attorney General,,DEM,Dan Rayfield,1606
+Lane,Precinct 739,Attorney General,,DEM,Dan Rayfield,958
+Lane,Precinct 741,Attorney General,,DEM,Dan Rayfield,511
+Lane,Precinct 743,Attorney General,,DEM,Dan Rayfield,368
+Lane,Precinct 747,Attorney General,,DEM,Dan Rayfield,1793
+Lane,Precinct 751,Attorney General,,DEM,Dan Rayfield,1675
+Lane,Precinct 753,Attorney General,,DEM,Dan Rayfield,457
+Lane,Precinct 755,Attorney General,,DEM,Dan Rayfield,1100
+Lane,Precinct 757,Attorney General,,DEM,Dan Rayfield,1031
+Lane,Precinct 759,Attorney General,,DEM,Dan Rayfield,1170
+Lane,Precinct 765,Attorney General,,DEM,Dan Rayfield,987
+Lane,Precinct 1120,Attorney General,,,Write-ins,*
+Lane,Precinct 1122,Attorney General,,,Write-ins,12
+Lane,Precinct 1124,Attorney General,,,Write-ins, *
+Lane,Precinct 1126,Attorney General,,,Write-ins,*
+Lane,Precinct 1230,Attorney General,,,Write-ins,15
+Lane,Precinct 1232,Attorney General,,,Write-ins,*
+Lane,Precinct 1234,Attorney General,,,Write-ins,*
+Lane,Precinct 1340,Attorney General,,,Write-ins,14
+Lane,Precinct 1342,Attorney General,,,Write-ins, *
+Lane,Precinct 1450,Attorney General,,,Write-ins,*
+Lane,Precinct 1452,Attorney General,,,Write-ins,*
+Lane,Precinct 1454,Attorney General,,,Write-ins,*
+Lane,Precinct 1560,Attorney General,,,Write-ins,*
+Lane,Precinct 1562,Attorney General,,,Write-ins,*
+Lane,Precinct 1564,Attorney General,,,Write-ins,*
+Lane,Precinct 1670,Attorney General,,,Write-ins,11
+Lane,Precinct 1672,Attorney General,,,Write-ins,12
+Lane,Precinct 1780,Attorney General,,,Write-ins,*
+Lane,Precinct 1782,Attorney General,,,Write-ins,*
+Lane,Precinct 1784,Attorney General,,,Write-ins,*
+Lane,Precinct 1786,Attorney General,,,Write-ins,*
+Lane,Precinct 1890,Attorney General,,,Write-ins,11
+Lane,Precinct 1892,Attorney General,,,Write-ins,10
+Lane,Precinct 1894,Attorney General,,,Write-ins,*
+Lane,Precinct 2122,Attorney General,,,Write-ins,*
+Lane,Precinct 2238,Attorney General,,,Write-ins,16
+Lane,Precinct 2340,Attorney General,,,Write-ins,14
+Lane,Precinct 2456,Attorney General,,,Write-ins,*
+Lane,Precinct 2562,Attorney General,,,Write-ins,*
+Lane,Precinct 2676,Attorney General,,,Write-ins,*
+Lane,Precinct 4200,Attorney General,,,Write-ins, *
+Lane,Precinct 4300,Attorney General,,,Write-ins,*
+Lane,Precinct 4400,Attorney General,,,Write-ins,0
+Lane,Precinct 4500,Attorney General,,,Write-ins,0
+Lane,Precinct 4600,Attorney General,,,Write-ins,15
+Lane,Precinct 4700,Attorney General,,,Write-ins,*
+Lane,Precinct 4800,Attorney General,,,Write-ins, *
+Lane,Precinct 4900,Attorney General,,,Write-ins,*
+Lane,Precinct 701,Attorney General,,,Write-ins, *
+Lane,Precinct 703,Attorney General,,,Write-ins,0
+Lane,Precinct 705,Attorney General,,,Write-ins,*
+Lane,Precinct 707,Attorney General,,,Write-ins,0
+Lane,Precinct 709,Attorney General,,,Write-ins, *
+Lane,Precinct 711,Attorney General,,,Write-ins,*
+Lane,Precinct 713,Attorney General,,,Write-ins, *
+Lane,Precinct 715,Attorney General,,,Write-ins,0
+Lane,Precinct 717,Attorney General,,,Write-ins,*
+Lane,Precinct 719,Attorney General,,,Write-ins,0
+Lane,Precinct 721,Attorney General,,,Write-ins, *
+Lane,Precinct 723,Attorney General,,,Write-ins,*
+Lane,Precinct 725,Attorney General,,,Write-ins, *
+Lane,Precinct 727,Attorney General,,,Write-ins, *
+Lane,Precinct 729,Attorney General,,,Write-ins,0
+Lane,Precinct 731,Attorney General,,,Write-ins,*
+Lane,Precinct 733,Attorney General,,,Write-ins,*
+Lane,Precinct 737,Attorney General,,,Write-ins,*
+Lane,Precinct 739,Attorney General,,,Write-ins, *
+Lane,Precinct 741,Attorney General,,,Write-ins, *
+Lane,Precinct 743,Attorney General,,,Write-ins, *
+Lane,Precinct 747,Attorney General,,,Write-ins,*
+Lane,Precinct 751,Attorney General,,,Write-ins,*
+Lane,Precinct 753,Attorney General,,,Write-ins, *
+Lane,Precinct 755,Attorney General,,,Write-ins,*
+Lane,Precinct 757,Attorney General,,,Write-ins,*
+Lane,Precinct 759,Attorney General,,,Write-ins,*
+Lane,Precinct 765,Attorney General,,,Write-ins, *
+Lane,Precinct 1120,Attorney General,,,Over Votes,0
+Lane,Precinct 1122,Attorney General,,,Over Votes,0
+Lane,Precinct 1124,Attorney General,,,Over Votes,0
+Lane,Precinct 1126,Attorney General,,,Over Votes,0
+Lane,Precinct 1230,Attorney General,,,Over Votes,0
+Lane,Precinct 1232,Attorney General,,,Over Votes,0
+Lane,Precinct 1234,Attorney General,,,Over Votes,0
+Lane,Precinct 1340,Attorney General,,,Over Votes,0
+Lane,Precinct 1342,Attorney General,,,Over Votes,0
+Lane,Precinct 1450,Attorney General,,,Over Votes,0
+Lane,Precinct 1452,Attorney General,,,Over Votes,0
+Lane,Precinct 1454,Attorney General,,,Over Votes,0
+Lane,Precinct 1560,Attorney General,,,Over Votes,0
+Lane,Precinct 1562,Attorney General,,,Over Votes,0
+Lane,Precinct 1564,Attorney General,,,Over Votes,0
+Lane,Precinct 1670,Attorney General,,,Over Votes,1
+Lane,Precinct 1672,Attorney General,,,Over Votes,0
+Lane,Precinct 1780,Attorney General,,,Over Votes,1
+Lane,Precinct 1782,Attorney General,,,Over Votes,0
+Lane,Precinct 1784,Attorney General,,,Over Votes,0
+Lane,Precinct 1786,Attorney General,,,Over Votes,0
+Lane,Precinct 1890,Attorney General,,,Over Votes,0
+Lane,Precinct 1892,Attorney General,,,Over Votes,0
+Lane,Precinct 1894,Attorney General,,,Over Votes,0
+Lane,Precinct 2122,Attorney General,,,Over Votes,0
+Lane,Precinct 2238,Attorney General,,,Over Votes,0
+Lane,Precinct 2340,Attorney General,,,Over Votes,0
+Lane,Precinct 2456,Attorney General,,,Over Votes,0
+Lane,Precinct 2562,Attorney General,,,Over Votes,0
+Lane,Precinct 2676,Attorney General,,,Over Votes,0
+Lane,Precinct 4200,Attorney General,,,Over Votes,0
+Lane,Precinct 4300,Attorney General,,,Over Votes,0
+Lane,Precinct 4400,Attorney General,,,Over Votes,0
+Lane,Precinct 4500,Attorney General,,,Over Votes,0
+Lane,Precinct 4600,Attorney General,,,Over Votes,0
+Lane,Precinct 4700,Attorney General,,,Over Votes,0
+Lane,Precinct 4800,Attorney General,,,Over Votes,0
+Lane,Precinct 4900,Attorney General,,,Over Votes,0
+Lane,Precinct 701,Attorney General,,,Over Votes,0
+Lane,Precinct 703,Attorney General,,,Over Votes,0
+Lane,Precinct 705,Attorney General,,,Over Votes,0
+Lane,Precinct 707,Attorney General,,,Over Votes,0
+Lane,Precinct 709,Attorney General,,,Over Votes,0
+Lane,Precinct 711,Attorney General,,,Over Votes,0
+Lane,Precinct 713,Attorney General,,,Over Votes,0
+Lane,Precinct 715,Attorney General,,,Over Votes,0
+Lane,Precinct 717,Attorney General,,,Over Votes,0
+Lane,Precinct 719,Attorney General,,,Over Votes,0
+Lane,Precinct 721,Attorney General,,,Over Votes,0
+Lane,Precinct 723,Attorney General,,,Over Votes,0
+Lane,Precinct 725,Attorney General,,,Over Votes,1
+Lane,Precinct 727,Attorney General,,,Over Votes,0
+Lane,Precinct 729,Attorney General,,,Over Votes,0
+Lane,Precinct 731,Attorney General,,,Over Votes,0
+Lane,Precinct 733,Attorney General,,,Over Votes,1
+Lane,Precinct 737,Attorney General,,,Over Votes,0
+Lane,Precinct 739,Attorney General,,,Over Votes,0
+Lane,Precinct 741,Attorney General,,,Over Votes,0
+Lane,Precinct 743,Attorney General,,,Over Votes,0
+Lane,Precinct 747,Attorney General,,,Over Votes,0
+Lane,Precinct 751,Attorney General,,,Over Votes,0
+Lane,Precinct 753,Attorney General,,,Over Votes,0
+Lane,Precinct 755,Attorney General,,,Over Votes,0
+Lane,Precinct 757,Attorney General,,,Over Votes,0
+Lane,Precinct 759,Attorney General,,,Over Votes,0
+Lane,Precinct 765,Attorney General,,,Over Votes,0
+Lane,Precinct 1120,Attorney General,,,Under Votes,117
+Lane,Precinct 1122,Attorney General,,,Under Votes,252
+Lane,Precinct 1124,Attorney General,,,Under Votes,73
+Lane,Precinct 1126,Attorney General,,,Under Votes,208
+Lane,Precinct 1230,Attorney General,,,Under Votes,285
+Lane,Precinct 1232,Attorney General,,,Under Votes,287
+Lane,Precinct 1234,Attorney General,,,Under Votes,168
+Lane,Precinct 1340,Attorney General,,,Under Votes,286
+Lane,Precinct 1342,Attorney General,,,Under Votes,55
+Lane,Precinct 1450,Attorney General,,,Under Votes,357
+Lane,Precinct 1452,Attorney General,,,Under Votes,250
+Lane,Precinct 1454,Attorney General,,,Under Votes,119
+Lane,Precinct 1560,Attorney General,,,Under Votes,136
+Lane,Precinct 1562,Attorney General,,,Under Votes,355
+Lane,Precinct 1564,Attorney General,,,Under Votes,402
+Lane,Precinct 1670,Attorney General,,,Under Votes,403
+Lane,Precinct 1672,Attorney General,,,Under Votes,307
+Lane,Precinct 1780,Attorney General,,,Under Votes,103
+Lane,Precinct 1782,Attorney General,,,Under Votes,130
+Lane,Precinct 1784,Attorney General,,,Under Votes,243
+Lane,Precinct 1786,Attorney General,,,Under Votes,145
+Lane,Precinct 1890,Attorney General,,,Under Votes,218
+Lane,Precinct 1892,Attorney General,,,Under Votes,313
+Lane,Precinct 1894,Attorney General,,,Under Votes,199
+Lane,Precinct 2122,Attorney General,,,Under Votes,286
+Lane,Precinct 2238,Attorney General,,,Under Votes,306
+Lane,Precinct 2340,Attorney General,,,Under Votes,329
+Lane,Precinct 2456,Attorney General,,,Under Votes,306
+Lane,Precinct 2562,Attorney General,,,Under Votes,351
+Lane,Precinct 2676,Attorney General,,,Under Votes,384
+Lane,Precinct 4200,Attorney General,,,Under Votes,60
+Lane,Precinct 4300,Attorney General,,,Under Votes,339
+Lane,Precinct 4400,Attorney General,,,Under Votes,197
+Lane,Precinct 4500,Attorney General,,,Under Votes,48
+Lane,Precinct 4600,Attorney General,,,Under Votes,279
+Lane,Precinct 4700,Attorney General,,,Under Votes,239
+Lane,Precinct 4800,Attorney General,,,Under Votes,101
+Lane,Precinct 4900,Attorney General,,,Under Votes,177
+Lane,Precinct 701,Attorney General,,,Under Votes,77
+Lane,Precinct 703,Attorney General,,,Under Votes,19
+Lane,Precinct 705,Attorney General,,,Under Votes,98
+Lane,Precinct 707,Attorney General,,,Under Votes,39
+Lane,Precinct 709,Attorney General,,,Under Votes,76
+Lane,Precinct 711,Attorney General,,,Under Votes,204
+Lane,Precinct 713,Attorney General,,,Under Votes,42
+Lane,Precinct 715,Attorney General,,,Under Votes,89
+Lane,Precinct 717,Attorney General,,,Under Votes,195
+Lane,Precinct 719,Attorney General,,,Under Votes,25
+Lane,Precinct 721,Attorney General,,,Under Votes,32
+Lane,Precinct 723,Attorney General,,,Under Votes,154
+Lane,Precinct 725,Attorney General,,,Under Votes,115
+Lane,Precinct 727,Attorney General,,,Under Votes,106
+Lane,Precinct 729,Attorney General,,,Under Votes,31
+Lane,Precinct 731,Attorney General,,,Under Votes,315
+Lane,Precinct 733,Attorney General,,,Under Votes,391
+Lane,Precinct 737,Attorney General,,,Under Votes,213
+Lane,Precinct 739,Attorney General,,,Under Votes,109
+Lane,Precinct 741,Attorney General,,,Under Votes,46
+Lane,Precinct 743,Attorney General,,,Under Votes,43
+Lane,Precinct 747,Attorney General,,,Under Votes,278
+Lane,Precinct 751,Attorney General,,,Under Votes,262
+Lane,Precinct 753,Attorney General,,,Under Votes,67
+Lane,Precinct 755,Attorney General,,,Under Votes,190
+Lane,Precinct 757,Attorney General,,,Under Votes,131
+Lane,Precinct 759,Attorney General,,,Under Votes,125
+Lane,Precinct 765,Attorney General,,,Under Votes,129
+Lane,Precinct 4500,State Senate,5,DEM,Jo Beaudreau,467
+Lane,Precinct 4600,State Senate,5,DEM,Jo Beaudreau,3000
+Lane,Precinct 701,State Senate,5,DEM,Jo Beaudreau,717
+Lane,Precinct 703,State Senate,5,DEM,Jo Beaudreau,143
+Lane,Precinct 705,State Senate,5,DEM,Jo Beaudreau,1033
+Lane,Precinct 707,State Senate,5,DEM,Jo Beaudreau,261
+Lane,Precinct 709,State Senate,5,DEM,Jo Beaudreau,605
+Lane,Precinct 711,State Senate,5,DEM,Jo Beaudreau,1544
+Lane,Precinct 713,State Senate,5,DEM,Jo Beaudreau,324
+Lane,Precinct 4500,State Senate,5,REP,Dick Anderson,616
+Lane,Precinct 4600,State Senate,5,REP,Dick Anderson,2758
+Lane,Precinct 701,State Senate,5,REP,Dick Anderson,788
+Lane,Precinct 703,State Senate,5,REP,Dick Anderson,117
+Lane,Precinct 705,State Senate,5,REP,Dick Anderson,1064
+Lane,Precinct 707,State Senate,5,REP,Dick Anderson,410
+Lane,Precinct 709,State Senate,5,REP,Dick Anderson,955
+Lane,Precinct 711,State Senate,5,REP,Dick Anderson,2130
+Lane,Precinct 713,State Senate,5,REP,Dick Anderson,784
+Lane,Precinct 4500,State Senate,5,,Write-ins, *
+Lane,Precinct 4600,State Senate,5,,Write-ins,*
+Lane,Precinct 701,State Senate,5,,Write-ins, *
+Lane,Precinct 703,State Senate,5,,Write-ins, *
+Lane,Precinct 705,State Senate,5,,Write-ins,0
+Lane,Precinct 707,State Senate,5,,Write-ins,0
+Lane,Precinct 709,State Senate,5,,Write-ins, *
+Lane,Precinct 711,State Senate,5,,Write-ins,*
+Lane,Precinct 713,State Senate,5,,Write-ins, *
+Lane,Precinct 4500,State Senate,5,,Over Votes,0
+Lane,Precinct 4600,State Senate,5,,Over Votes,1
+Lane,Precinct 701,State Senate,5,,Over Votes,0
+Lane,Precinct 703,State Senate,5,,Over Votes,0
+Lane,Precinct 705,State Senate,5,,Over Votes,0
+Lane,Precinct 707,State Senate,5,,Over Votes,0
+Lane,Precinct 709,State Senate,5,,Over Votes,0
+Lane,Precinct 711,State Senate,5,,Over Votes,1
+Lane,Precinct 713,State Senate,5,,Over Votes,0
+Lane,Precinct 4500,State Senate,5,,Under Votes,30
+Lane,Precinct 4600,State Senate,5,,Under Votes,235
+Lane,Precinct 701,State Senate,5,,Under Votes,62
+Lane,Precinct 703,State Senate,5,,Under Votes,12
+Lane,Precinct 705,State Senate,5,,Under Votes,87
+Lane,Precinct 707,State Senate,5,,Under Votes,25
+Lane,Precinct 709,State Senate,5,,Under Votes,90
+Lane,Precinct 711,State Senate,5,,Under Votes,226
+Lane,Precinct 713,State Senate,5,,Under Votes,53
+Lane,Precinct 2122,State House,7,REP,Cory Burket,1642
+Lane,Precinct 2238,State House,7,REP,Cory Burket,1296
+Lane,Precinct 2340,State House,7,REP,Cory Burket,2002
+Lane,Precinct 2456,State House,7,REP,Cory Burket,1954
+Lane,Precinct 2562,State House,7,REP,Cory Burket,2466
+Lane,Precinct 2676,State House,7,REP,Cory Burket,3068
+Lane,Precinct 737,State House,7,REP,Cory Burket,1616
+Lane,Precinct 739,State House,7,REP,Cory Burket,844
+Lane,Precinct 2122,State House,7,DEM,John Lively,2426
+Lane,Precinct 2238,State House,7,DEM,John Lively,3089
+Lane,Precinct 2340,State House,7,DEM,John Lively,2932
+Lane,Precinct 2456,State House,7,DEM,John Lively,2365
+Lane,Precinct 2562,State House,7,DEM,John Lively,2704
+Lane,Precinct 2676,State House,7,DEM,John Lively,2655
+Lane,Precinct 737,State House,7,DEM,John Lively,1699
+Lane,Precinct 739,State House,7,DEM,John Lively,998
+Lane,Precinct 2122,State House,7,,Write-ins, *
+Lane,Precinct 2238,State House,7,,Write-ins,16
+Lane,Precinct 2340,State House,7,,Write-ins, *
+Lane,Precinct 2456,State House,7,,Write-ins, *
+Lane,Precinct 2562,State House,7,,Write-ins, *
+Lane,Precinct 2676,State House,7,,Write-ins, *
+Lane,Precinct 737,State House,7,,Write-ins, *
+Lane,Precinct 739,State House,7,,Write-ins, *
+Lane,Precinct 2122,State House,7,,Over Votes,0
+Lane,Precinct 2238,State House,7,,Over Votes,1
+Lane,Precinct 2340,State House,7,,Over Votes,0
+Lane,Precinct 2456,State House,7,,Over Votes,0
+Lane,Precinct 2562,State House,7,,Over Votes,0
+Lane,Precinct 2676,State House,7,,Over Votes,0
+Lane,Precinct 737,State House,7,,Over Votes,0
+Lane,Precinct 739,State House,7,,Over Votes,0
+Lane,Precinct 2122,State House,7,,Under Votes,271
+Lane,Precinct 2238,State House,7,,Under Votes,251
+Lane,Precinct 2340,State House,7,,Under Votes,298
+Lane,Precinct 2456,State House,7,,Under Votes,275
+Lane,Precinct 2562,State House,7,,Under Votes,319
+Lane,Precinct 2676,State House,7,,Under Votes,335
+Lane,Precinct 737,State House,7,,Under Votes,150
+Lane,Precinct 739,State House,7,,Under Votes,108
+Lane,Precinct 1122,State House,8,DEM,Lisa Fragala,3010
+Lane,Precinct 1126,State House,8,DEM,Lisa Fragala,3589
+Lane,Precinct 1230,State House,8,DEM,Lisa Fragala,4056
+Lane,Precinct 1232,State House,8,DEM,Lisa Fragala,4175
+Lane,Precinct 1340,State House,8,DEM,Lisa Fragala,3994
+Lane,Precinct 1342,State House,8,DEM,Lisa Fragala,874
+Lane,Precinct 1454,State House,8,DEM,Lisa Fragala,1222
+Lane,Precinct 1782,State House,8,DEM,Lisa Fragala,1350
+Lane,Precinct 1894,State House,8,DEM,Lisa Fragala,74
+Lane,Precinct 723,State House,8,DEM,Lisa Fragala,1636
+Lane,Precinct 725,State House,8,DEM,Lisa Fragala,761
+Lane,Precinct 741,State House,8,DEM,Lisa Fragala,11
+Lane,Precinct 743,State House,8,DEM,Lisa Fragala,59
+Lane,Precinct 1122,State House,8,,Write-ins,78
+Lane,Precinct 1126,State House,8,,Write-ins,56
+Lane,Precinct 1230,State House,8,,Write-ins,90
+Lane,Precinct 1232,State House,8,,Write-ins,66
+Lane,Precinct 1340,State House,8,,Write-ins,77
+Lane,Precinct 1342,State House,8,,Write-ins,25
+Lane,Precinct 1454,State House,8,,Write-ins,55
+Lane,Precinct 1782,State House,8,,Write-ins,20
+Lane,Precinct 1894,State House,8,,Write-ins,*
+Lane,Precinct 723,State House,8,,Write-ins,84
+Lane,Precinct 725,State House,8,,Write-ins,116
+Lane,Precinct 741,State House,8,,Write-ins,0
+Lane,Precinct 743,State House,8,,Write-ins,*
+Lane,Precinct 1122,State House,8,,Over Votes,0
+Lane,Precinct 1126,State House,8,,Over Votes,0
+Lane,Precinct 1230,State House,8,,Over Votes,1
+Lane,Precinct 1232,State House,8,,Over Votes,0
+Lane,Precinct 1340,State House,8,,Over Votes,0
+Lane,Precinct 1342,State House,8,,Over Votes,0
+Lane,Precinct 1454,State House,8,,Over Votes,1
+Lane,Precinct 1782,State House,8,,Over Votes,1
+Lane,Precinct 1894,State House,8,,Over Votes,0
+Lane,Precinct 723,State House,8,,Over Votes,0
+Lane,Precinct 725,State House,8,,Over Votes,1
+Lane,Precinct 741,State House,8,,Over Votes,0
+Lane,Precinct 743,State House,8,,Over Votes,0
+Lane,Precinct 1122,State House,8,,Under Votes,1037
+Lane,Precinct 1126,State House,8,,Under Votes,1011
+Lane,Precinct 1230,State House,8,,Under Votes,1211
+Lane,Precinct 1232,State House,8,,Under Votes,1425
+Lane,Precinct 1340,State House,8,,Under Votes,1159
+Lane,Precinct 1342,State House,8,,Under Votes,324
+Lane,Precinct 1454,State House,8,,Under Votes,503
+Lane,Precinct 1782,State House,8,,Under Votes,517
+Lane,Precinct 1894,State House,8,,Under Votes,28
+Lane,Precinct 723,State House,8,,Under Votes,999
+Lane,Precinct 725,State House,8,,Under Votes,1058
+Lane,Precinct 741,State House,8,,Under Votes,12
+Lane,Precinct 743,State House,8,,Under Votes,49
+Lane,Precinct 4500,State House,9,REP,Boomer Wright,664
+Lane,Precinct 4600,State House,9,REP,Boomer Wright,3021
+Lane,Precinct 705,State House,9,REP,Boomer Wright,1149
+Lane,Precinct 707,State House,9,REP,Boomer Wright,439
+Lane,Precinct 709,State House,9,REP,Boomer Wright,972
+Lane,Precinct 711,State House,9,REP,Boomer Wright,2162
+Lane,Precinct 4500,State House,9,DEM,William (MRK) Mrkvicka,394
+Lane,Precinct 4600,State House,9,DEM,William (MRK) Mrkvicka,2619
+Lane,Precinct 705,State House,9,DEM,William (MRK) Mrkvicka,913
+Lane,Precinct 707,State House,9,DEM,William (MRK) Mrkvicka,223
+Lane,Precinct 709,State House,9,DEM,William (MRK) Mrkvicka,548
+Lane,Precinct 711,State House,9,DEM,William (MRK) Mrkvicka,1422
+Lane,Precinct 4500,State House,9,,Write-ins, *
+Lane,Precinct 4600,State House,9,,Write-ins,23
+Lane,Precinct 705,State House,9,,Write-ins, *
+Lane,Precinct 707,State House,9,,Write-ins,0
+Lane,Precinct 709,State House,9,,Write-ins, *
+Lane,Precinct 711,State House,9,,Write-ins,12
+Lane,Precinct 4500,State House,9,,Over Votes,0
+Lane,Precinct 4600,State House,9,,Over Votes,0
+Lane,Precinct 705,State House,9,,Over Votes,0
+Lane,Precinct 707,State House,9,,Over Votes,0
+Lane,Precinct 709,State House,9,,Over Votes,0
+Lane,Precinct 711,State House,9,,Over Votes,0
+Lane,Precinct 4500,State House,9,,Under Votes,55
+Lane,Precinct 4600,State House,9,,Under Votes,340
+Lane,Precinct 705,State House,9,,Under Votes,116
+Lane,Precinct 707,State House,9,,Under Votes,34
+Lane,Precinct 709,State House,9,,Under Votes,130
+Lane,Precinct 711,State House,9,,Under Votes,310
+Lane,Precinct 701,State House,10,DEM,David Gomberg,902
+Lane,Precinct 703,State House,10,DEM,David Gomberg,180
+Lane,Precinct 713,State House,10,DEM,David Gomberg,572
+Lane,Precinct 701,State House,10,,Write-ins,39
+Lane,Precinct 703,State House,10,,Write-ins,*
+Lane,Precinct 713,State House,10,,Write-ins,33
+Lane,Precinct 701,State House,10,,Over Votes,0
+Lane,Precinct 703,State House,10,,Over Votes,0
+Lane,Precinct 713,State House,10,,Over Votes,0
+Lane,Precinct 701,State House,10,,Under Votes,629
+Lane,Precinct 703,State House,10,,Under Votes,89
+Lane,Precinct 713,State House,10,,Under Votes,559
+Lane,Precinct 1234,State House,12,DEM,Michelle Emmons,2615
+Lane,Precinct 1560,State House,12,DEM,Michelle Emmons,78
+Lane,Precinct 1784,State House,12,DEM,Michelle Emmons,91
+Lane,Precinct 4200,State House,12,DEM,Michelle Emmons,429
+Lane,Precinct 4300,State House,12,DEM,Michelle Emmons,2117
+Lane,Precinct 4400,State House,12,DEM,Michelle Emmons,1081
+Lane,Precinct 4700,State House,12,DEM,Michelle Emmons,1320
+Lane,Precinct 4800,State House,12,DEM,Michelle Emmons,638
+Lane,Precinct 715,State House,12,DEM,Michelle Emmons,539
+Lane,Precinct 743,State House,12,DEM,Michelle Emmons,295
+Lane,Precinct 747,State House,12,DEM,Michelle Emmons,1685
+Lane,Precinct 751,State House,12,DEM,Michelle Emmons,1608
+Lane,Precinct 753,State House,12,DEM,Michelle Emmons,413
+Lane,Precinct 755,State House,12,DEM,Michelle Emmons,1043
+Lane,Precinct 757,State House,12,DEM,Michelle Emmons,991
+Lane,Precinct 759,State House,12,DEM,Michelle Emmons,1108
+Lane,Precinct 765,State House,12,DEM,Michelle Emmons,950
+Lane,Precinct 1234,State House,12,REP,Darin Harbick,522
+Lane,Precinct 1560,State House,12,REP,Darin Harbick,46
+Lane,Precinct 1784,State House,12,REP,Darin Harbick,60
+Lane,Precinct 4200,State House,12,REP,Darin Harbick,464
+Lane,Precinct 4300,State House,12,REP,Darin Harbick,2756
+Lane,Precinct 4400,State House,12,REP,Darin Harbick,1785
+Lane,Precinct 4700,State House,12,REP,Darin Harbick,2321
+Lane,Precinct 4800,State House,12,REP,Darin Harbick,833
+Lane,Precinct 715,State House,12,REP,Darin Harbick,1105
+Lane,Precinct 743,State House,12,REP,Darin Harbick,276
+Lane,Precinct 747,State House,12,REP,Darin Harbick,3049
+Lane,Precinct 751,State House,12,REP,Darin Harbick,2707
+Lane,Precinct 753,State House,12,REP,Darin Harbick,935
+Lane,Precinct 755,State House,12,REP,Darin Harbick,1903
+Lane,Precinct 757,State House,12,REP,Darin Harbick,1531
+Lane,Precinct 759,State House,12,REP,Darin Harbick,1497
+Lane,Precinct 765,State House,12,REP,Darin Harbick,1432
+Lane,Precinct 1234,State House,12,,Write-ins, *
+Lane,Precinct 1560,State House,12,,Write-ins,0
+Lane,Precinct 1784,State House,12,,Write-ins,0
+Lane,Precinct 4200,State House,12,,Write-ins, *
+Lane,Precinct 4300,State House,12,,Write-ins,10
+Lane,Precinct 4400,State House,12,,Write-ins, *
+Lane,Precinct 4700,State House,12,,Write-ins, *
+Lane,Precinct 4800,State House,12,,Write-ins, *
+Lane,Precinct 715,State House,12,,Write-ins, *
+Lane,Precinct 743,State House,12,,Write-ins, *
+Lane,Precinct 747,State House,12,,Write-ins, *
+Lane,Precinct 751,State House,12,,Write-ins, *
+Lane,Precinct 753,State House,12,,Write-ins, *
+Lane,Precinct 755,State House,12,,Write-ins, *
+Lane,Precinct 757,State House,12,,Write-ins, *
+Lane,Precinct 759,State House,12,,Write-ins, *
+Lane,Precinct 765,State House,12,,Write-ins, *
+Lane,Precinct 1234,State House,12,,Over Votes,0
+Lane,Precinct 1560,State House,12,,Over Votes,0
+Lane,Precinct 1784,State House,12,,Over Votes,0
+Lane,Precinct 4200,State House,12,,Over Votes,0
+Lane,Precinct 4300,State House,12,,Over Votes,0
+Lane,Precinct 4400,State House,12,,Over Votes,0
+Lane,Precinct 4700,State House,12,,Over Votes,0
+Lane,Precinct 4800,State House,12,,Over Votes,0
+Lane,Precinct 715,State House,12,,Over Votes,0
+Lane,Precinct 743,State House,12,,Over Votes,0
+Lane,Precinct 747,State House,12,,Over Votes,0
+Lane,Precinct 751,State House,12,,Over Votes,0
+Lane,Precinct 753,State House,12,,Over Votes,0
+Lane,Precinct 755,State House,12,,Over Votes,0
+Lane,Precinct 757,State House,12,,Over Votes,0
+Lane,Precinct 759,State House,12,,Over Votes,0
+Lane,Precinct 765,State House,12,,Over Votes,0
+Lane,Precinct 1234,State House,12,,Under Votes,207
+Lane,Precinct 1560,State House,12,,Under Votes,12
+Lane,Precinct 1784,State House,12,,Under Votes,10
+Lane,Precinct 4200,State House,12,,Under Votes,67
+Lane,Precinct 4300,State House,12,,Under Votes,375
+Lane,Precinct 4400,State House,12,,Under Votes,183
+Lane,Precinct 4700,State House,12,,Under Votes,259
+Lane,Precinct 4800,State House,12,,Under Votes,80
+Lane,Precinct 715,State House,12,,Under Votes,105
+Lane,Precinct 743,State House,12,,Under Votes,43
+Lane,Precinct 747,State House,12,,Under Votes,296
+Lane,Precinct 751,State House,12,,Under Votes,231
+Lane,Precinct 753,State House,12,,Under Votes,63
+Lane,Precinct 755,State House,12,,Under Votes,192
+Lane,Precinct 757,State House,12,,Under Votes,134
+Lane,Precinct 759,State House,12,,Under Votes,70
+Lane,Precinct 765,State House,12,,Under Votes,126
+Lane,Precinct 1450,State House,13,DEM,Nancy Nathanson,3740
+Lane,Precinct 1452,State House,13,DEM,Nancy Nathanson,2916
+Lane,Precinct 1560,State House,13,DEM,Nancy Nathanson,1103
+Lane,Precinct 1562,State House,13,DEM,Nancy Nathanson,3600
+Lane,Precinct 1564,State House,13,DEM,Nancy Nathanson,4443
+Lane,Precinct 1784,State House,13,DEM,Nancy Nathanson,2470
+Lane,Precinct 1786,State House,13,DEM,Nancy Nathanson,1325
+Lane,Precinct 729,State House,13,DEM,Nancy Nathanson,302
+Lane,Precinct 731,State House,13,DEM,Nancy Nathanson,2789
+Lane,Precinct 733,State House,13,DEM,Nancy Nathanson,3951
+Lane,Precinct 741,State House,13,DEM,Nancy Nathanson,504
+Lane,Precinct 1450,State House,13,REP,Timothy S. Sutherland,1745
+Lane,Precinct 1452,State House,13,REP,Timothy S. Sutherland,1247
+Lane,Precinct 1560,State House,13,REP,Timothy S. Sutherland,690
+Lane,Precinct 1562,State House,13,REP,Timothy S. Sutherland,1977
+Lane,Precinct 1564,State House,13,REP,Timothy S. Sutherland,1670
+Lane,Precinct 1784,State House,13,REP,Timothy S. Sutherland,1188
+Lane,Precinct 1786,State House,13,REP,Timothy S. Sutherland,1049
+Lane,Precinct 729,State House,13,REP,Timothy S. Sutherland,201
+Lane,Precinct 731,State House,13,REP,Timothy S. Sutherland,1819
+Lane,Precinct 733,State House,13,REP,Timothy S. Sutherland,1761
+Lane,Precinct 741,State House,13,REP,Timothy S. Sutherland,283
+Lane,Precinct 1450,State House,13,,Write-ins,*
+Lane,Precinct 1452,State House,13,,Write-ins,*
+Lane,Precinct 1560,State House,13,,Write-ins,*
+Lane,Precinct 1562,State House,13,,Write-ins,*
+Lane,Precinct 1564,State House,13,,Write-ins,*
+Lane,Precinct 1784,State House,13,,Write-ins,*
+Lane,Precinct 1786,State House,13,,Write-ins,*
+Lane,Precinct 729,State House,13,,Write-ins,0
+Lane,Precinct 731,State House,13,,Write-ins,*
+Lane,Precinct 733,State House,13,,Write-ins,*
+Lane,Precinct 741,State House,13,,Write-ins,*
+Lane,Precinct 1450,State House,13,,Over Votes,0
+Lane,Precinct 1452,State House,13,,Over Votes,0
+Lane,Precinct 1560,State House,13,,Over Votes,0
+Lane,Precinct 1562,State House,13,,Over Votes,0
+Lane,Precinct 1564,State House,13,,Over Votes,0
+Lane,Precinct 1784,State House,13,,Over Votes,0
+Lane,Precinct 1786,State House,13,,Over Votes,1
+Lane,Precinct 729,State House,13,,Over Votes,1
+Lane,Precinct 731,State House,13,,Over Votes,1
+Lane,Precinct 733,State House,13,,Over Votes,2
+Lane,Precinct 741,State House,13,,Over Votes,0
+Lane,Precinct 1450,State House,13,,Under Votes,406
+Lane,Precinct 1452,State House,13,,Under Votes,245
+Lane,Precinct 1560,State House,13,,Under Votes,129
+Lane,Precinct 1562,State House,13,,Under Votes,378
+Lane,Precinct 1564,State House,13,,Under Votes,396
+Lane,Precinct 1784,State House,13,,Under Votes,278
+Lane,Precinct 1786,State House,13,,Under Votes,160
+Lane,Precinct 729,State House,13,,Under Votes,36
+Lane,Precinct 731,State House,13,,Under Votes,348
+Lane,Precinct 733,State House,13,,Under Votes,411
+Lane,Precinct 741,State House,13,,Under Votes,50
+Lane,Precinct 1120,State House,14,DEM,Julie Fahey,1432
+Lane,Precinct 1124,State House,14,DEM,Julie Fahey,866
+Lane,Precinct 1670,State House,14,DEM,Julie Fahey,3842
+Lane,Precinct 1672,State House,14,DEM,Julie Fahey,2974
+Lane,Precinct 1780,State House,14,DEM,Julie Fahey,1022
+Lane,Precinct 1890,State House,14,DEM,Julie Fahey,1809
+Lane,Precinct 1892,State House,14,DEM,Julie Fahey,3598
+Lane,Precinct 1894,State House,14,DEM,Julie Fahey,2452
+Lane,Precinct 4900,State House,14,DEM,Julie Fahey,1499
+Lane,Precinct 717,State House,14,DEM,Julie Fahey,1344
+Lane,Precinct 719,State House,14,DEM,Julie Fahey,227
+Lane,Precinct 721,State House,14,DEM,Julie Fahey,365
+Lane,Precinct 727,State House,14,DEM,Julie Fahey,746
+Lane,Precinct 1120,State House,14,,Write-ins,43
+Lane,Precinct 1124,State House,14,,Write-ins,20
+Lane,Precinct 1670,State House,14,,Write-ins,277
+Lane,Precinct 1672,State House,14,,Write-ins,194
+Lane,Precinct 1780,State House,14,,Write-ins,78
+Lane,Precinct 1890,State House,14,,Write-ins,164
+Lane,Precinct 1892,State House,14,,Write-ins,124
+Lane,Precinct 1894,State House,14,,Write-ins,45
+Lane,Precinct 4900,State House,14,,Write-ins,155
+Lane,Precinct 717,State House,14,,Write-ins,160
+Lane,Precinct 719,State House,14,,Write-ins,23
+Lane,Precinct 721,State House,14,,Write-ins,22
+Lane,Precinct 727,State House,14,,Write-ins,87
+Lane,Precinct 1120,State House,14,,Over Votes,0
+Lane,Precinct 1124,State House,14,,Over Votes,0
+Lane,Precinct 1670,State House,14,,Over Votes,0
+Lane,Precinct 1672,State House,14,,Over Votes,0
+Lane,Precinct 1780,State House,14,,Over Votes,0
+Lane,Precinct 1890,State House,14,,Over Votes,0
+Lane,Precinct 1892,State House,14,,Over Votes,0
+Lane,Precinct 1894,State House,14,,Over Votes,0
+Lane,Precinct 4900,State House,14,,Over Votes,0
+Lane,Precinct 717,State House,14,,Over Votes,0
+Lane,Precinct 719,State House,14,,Over Votes,0
+Lane,Precinct 721,State House,14,,Over Votes,0
+Lane,Precinct 727,State House,14,,Over Votes,0
+Lane,Precinct 1120,State House,14,,Under Votes,512
+Lane,Precinct 1124,State House,14,,Under Votes,336
+Lane,Precinct 1670,State House,14,,Under Votes,2435
+Lane,Precinct 1672,State House,14,,Under Votes,1667
+Lane,Precinct 1780,State House,14,,Under Votes,476
+Lane,Precinct 1890,State House,14,,Under Votes,1030
+Lane,Precinct 1892,State House,14,,Under Votes,1379
+Lane,Precinct 1894,State House,14,,Under Votes,1175
+Lane,Precinct 4900,State House,14,,Under Votes,1157
+Lane,Precinct 717,State House,14,,Under Votes,1430
+Lane,Precinct 719,State House,14,,Under Votes,200
+Lane,Precinct 721,State House,14,,Under Votes,303
+Lane,Precinct 727,State House,14,,Under Votes,858
+Lane,Precinct 1120,Sheriff,,,Clifton G. Harrold,995
+Lane,Precinct 1122,Sheriff,,,Clifton G. Harrold,2001
+Lane,Precinct 1124,Sheriff,,,Clifton G. Harrold,622
+Lane,Precinct 1126,Sheriff,,,Clifton G. Harrold,2350
+Lane,Precinct 1230,Sheriff,,,Clifton G. Harrold,2686
+Lane,Precinct 1232,Sheriff,,,Clifton G. Harrold,2926
+Lane,Precinct 1234,Sheriff,,,Clifton G. Harrold,1587
+Lane,Precinct 1340,Sheriff,,,Clifton G. Harrold,2804
+Lane,Precinct 1342,Sheriff,,,Clifton G. Harrold,647
+Lane,Precinct 1450,Sheriff,,,Clifton G. Harrold,3228
+Lane,Precinct 1452,Sheriff,,,Clifton G. Harrold,2267
+Lane,Precinct 1454,Sheriff,,,Clifton G. Harrold,1051
+Lane,Precinct 1560,Sheriff,,,Clifton G. Harrold,1116
+Lane,Precinct 1562,Sheriff,,,Clifton G. Harrold,3242
+Lane,Precinct 1564,Sheriff,,,Clifton G. Harrold,3553
+Lane,Precinct 1670,Sheriff,,,Clifton G. Harrold,3589
+Lane,Precinct 1672,Sheriff,,,Clifton G. Harrold,2631
+Lane,Precinct 1780,Sheriff,,,Clifton G. Harrold,777
+Lane,Precinct 1782,Sheriff,,,Clifton G. Harrold,883
+Lane,Precinct 1784,Sheriff,,,Clifton G. Harrold,2168
+Lane,Precinct 1786,Sheriff,,,Clifton G. Harrold,1354
+Lane,Precinct 1890,Sheriff,,,Clifton G. Harrold,1639
+Lane,Precinct 1892,Sheriff,,,Clifton G. Harrold,2707
+Lane,Precinct 1894,Sheriff,,,Clifton G. Harrold,1998
+Lane,Precinct 2122,Sheriff,,,Clifton G. Harrold,2473
+Lane,Precinct 2238,Sheriff,,,Clifton G. Harrold,2512
+Lane,Precinct 2340,Sheriff,,,Clifton G. Harrold,2925
+Lane,Precinct 2456,Sheriff,,,Clifton G. Harrold,2568
+Lane,Precinct 2562,Sheriff,,,Clifton G. Harrold,3156
+Lane,Precinct 2676,Sheriff,,,Clifton G. Harrold,3342
+Lane,Precinct 4200,Sheriff,,,Clifton G. Harrold,548
+Lane,Precinct 4300,Sheriff,,,Clifton G. Harrold,2949
+Lane,Precinct 4400,Sheriff,,,Clifton G. Harrold,1987
+Lane,Precinct 4500,Sheriff,,,Clifton G. Harrold,620
+Lane,Precinct 4600,Sheriff,,,Clifton G. Harrold,3475
+Lane,Precinct 4700,Sheriff,,,Clifton G. Harrold,2257
+Lane,Precinct 4800,Sheriff,,,Clifton G. Harrold,871
+Lane,Precinct 4900,Sheriff,,,Clifton G. Harrold,1647
+Lane,Precinct 701,Sheriff,,,Clifton G. Harrold,829
+Lane,Precinct 703,Sheriff,,,Clifton G. Harrold,144
+Lane,Precinct 705,Sheriff,,,Clifton G. Harrold,1205
+Lane,Precinct 707,Sheriff,,,Clifton G. Harrold,361
+Lane,Precinct 709,Sheriff,,,Clifton G. Harrold,818
+Lane,Precinct 711,Sheriff,,,Clifton G. Harrold,1936
+Lane,Precinct 713,Sheriff,,,Clifton G. Harrold,573
+Lane,Precinct 715,Sheriff,,,Clifton G. Harrold,931
+Lane,Precinct 717,Sheriff,,,Clifton G. Harrold,1504
+Lane,Precinct 719,Sheriff,,,Clifton G. Harrold,222
+Lane,Precinct 721,Sheriff,,,Clifton G. Harrold,356
+Lane,Precinct 723,Sheriff,,,Clifton G. Harrold,1331
+Lane,Precinct 725,Sheriff,,,Clifton G. Harrold,1030
+Lane,Precinct 727,Sheriff,,,Clifton G. Harrold,826
+Lane,Precinct 729,Sheriff,,,Clifton G. Harrold,281
+Lane,Precinct 731,Sheriff,,,Clifton G. Harrold,2650
+Lane,Precinct 733,Sheriff,,,Clifton G. Harrold,3048
+Lane,Precinct 737,Sheriff,,,Clifton G. Harrold,1911
+Lane,Precinct 739,Sheriff,,,Clifton G. Harrold,1032
+Lane,Precinct 741,Sheriff,,,Clifton G. Harrold,441
+Lane,Precinct 743,Sheriff,,,Clifton G. Harrold,380
+Lane,Precinct 747,Sheriff,,,Clifton G. Harrold,2580
+Lane,Precinct 751,Sheriff,,,Clifton G. Harrold,2402
+Lane,Precinct 753,Sheriff,,,Clifton G. Harrold,707
+Lane,Precinct 755,Sheriff,,,Clifton G. Harrold,1768
+Lane,Precinct 757,Sheriff,,,Clifton G. Harrold,1443
+Lane,Precinct 759,Sheriff,,,Clifton G. Harrold,1453
+Lane,Precinct 765,Sheriff,,,Clifton G. Harrold,1303
+Lane,Precinct 1120,Sheriff,,,Write-ins,40
+Lane,Precinct 1122,Sheriff,,,Write-ins,75
+Lane,Precinct 1124,Sheriff,,,Write-ins,19
+Lane,Precinct 1126,Sheriff,,,Write-ins,53
+Lane,Precinct 1230,Sheriff,,,Write-ins,60
+Lane,Precinct 1232,Sheriff,,,Write-ins,54
+Lane,Precinct 1234,Sheriff,,,Write-ins,27
+Lane,Precinct 1340,Sheriff,,,Write-ins,85
+Lane,Precinct 1342,Sheriff,,,Write-ins,17
+Lane,Precinct 1450,Sheriff,,,Write-ins,51
+Lane,Precinct 1452,Sheriff,,,Write-ins,51
+Lane,Precinct 1454,Sheriff,,,Write-ins,29
+Lane,Precinct 1560,Sheriff,,,Write-ins,20
+Lane,Precinct 1562,Sheriff,,,Write-ins,55
+Lane,Precinct 1564,Sheriff,,,Write-ins,69
+Lane,Precinct 1670,Sheriff,,,Write-ins,86
+Lane,Precinct 1672,Sheriff,,,Write-ins,84
+Lane,Precinct 1780,Sheriff,,,Write-ins,42
+Lane,Precinct 1782,Sheriff,,,Write-ins,37
+Lane,Precinct 1784,Sheriff,,,Write-ins,66
+Lane,Precinct 1786,Sheriff,,,Write-ins,42
+Lane,Precinct 1890,Sheriff,,,Write-ins,68
+Lane,Precinct 1892,Sheriff,,,Write-ins,72
+Lane,Precinct 1894,Sheriff,,,Write-ins,35
+Lane,Precinct 2122,Sheriff,,,Write-ins,55
+Lane,Precinct 2238,Sheriff,,,Write-ins,49
+Lane,Precinct 2340,Sheriff,,,Write-ins,75
+Lane,Precinct 2456,Sheriff,,,Write-ins,69
+Lane,Precinct 2562,Sheriff,,,Write-ins,70
+Lane,Precinct 2676,Sheriff,,,Write-ins,64
+Lane,Precinct 4200,Sheriff,,,Write-ins, *
+Lane,Precinct 4300,Sheriff,,,Write-ins,71
+Lane,Precinct 4400,Sheriff,,,Write-ins,20
+Lane,Precinct 4500,Sheriff,,,Write-ins, *
+Lane,Precinct 4600,Sheriff,,,Write-ins,41
+Lane,Precinct 4700,Sheriff,,,Write-ins,39
+Lane,Precinct 4800,Sheriff,,,Write-ins,31
+Lane,Precinct 4900,Sheriff,,,Write-ins,46
+Lane,Precinct 701,Sheriff,,,Write-ins,12
+Lane,Precinct 703,Sheriff,,,Write-ins, *
+Lane,Precinct 705,Sheriff,,,Write-ins,23
+Lane,Precinct 707,Sheriff,,,Write-ins,12
+Lane,Precinct 709,Sheriff,,,Write-ins,20
+Lane,Precinct 711,Sheriff,,,Write-ins,42
+Lane,Precinct 713,Sheriff,,,Write-ins,21
+Lane,Precinct 715,Sheriff,,,Write-ins,20
+Lane,Precinct 717,Sheriff,,,Write-ins,59
+Lane,Precinct 719,Sheriff,,,Write-ins, *
+Lane,Precinct 721,Sheriff,,,Write-ins, *
+Lane,Precinct 723,Sheriff,,,Write-ins,26
+Lane,Precinct 725,Sheriff,,,Write-ins,30
+Lane,Precinct 727,Sheriff,,,Write-ins,23
+Lane,Precinct 729,Sheriff,,,Write-ins, *
+Lane,Precinct 731,Sheriff,,,Write-ins,73
+Lane,Precinct 733,Sheriff,,,Write-ins,81
+Lane,Precinct 737,Sheriff,,,Write-ins,51
+Lane,Precinct 739,Sheriff,,,Write-ins,28
+Lane,Precinct 741,Sheriff,,,Write-ins,12
+Lane,Precinct 743,Sheriff,,,Write-ins, *
+Lane,Precinct 747,Sheriff,,,Write-ins,67
+Lane,Precinct 751,Sheriff,,,Write-ins,29
+Lane,Precinct 753,Sheriff,,,Write-ins,17
+Lane,Precinct 755,Sheriff,,,Write-ins,52
+Lane,Precinct 757,Sheriff,,,Write-ins,32
+Lane,Precinct 759,Sheriff,,,Write-ins,32
+Lane,Precinct 765,Sheriff,,,Write-ins,46
+Lane,Precinct 1120,Sheriff,,,Over Votes,0
+Lane,Precinct 1122,Sheriff,,,Over Votes,0
+Lane,Precinct 1124,Sheriff,,,Over Votes,0
+Lane,Precinct 1126,Sheriff,,,Over Votes,0
+Lane,Precinct 1230,Sheriff,,,Over Votes,0
+Lane,Precinct 1232,Sheriff,,,Over Votes,0
+Lane,Precinct 1234,Sheriff,,,Over Votes,0
+Lane,Precinct 1340,Sheriff,,,Over Votes,0
+Lane,Precinct 1342,Sheriff,,,Over Votes,0
+Lane,Precinct 1450,Sheriff,,,Over Votes,0
+Lane,Precinct 1452,Sheriff,,,Over Votes,0
+Lane,Precinct 1454,Sheriff,,,Over Votes,0
+Lane,Precinct 1560,Sheriff,,,Over Votes,0
+Lane,Precinct 1562,Sheriff,,,Over Votes,0
+Lane,Precinct 1564,Sheriff,,,Over Votes,0
+Lane,Precinct 1670,Sheriff,,,Over Votes,1
+Lane,Precinct 1672,Sheriff,,,Over Votes,1
+Lane,Precinct 1780,Sheriff,,,Over Votes,0
+Lane,Precinct 1782,Sheriff,,,Over Votes,0
+Lane,Precinct 1784,Sheriff,,,Over Votes,0
+Lane,Precinct 1786,Sheriff,,,Over Votes,0
+Lane,Precinct 1890,Sheriff,,,Over Votes,0
+Lane,Precinct 1892,Sheriff,,,Over Votes,0
+Lane,Precinct 1894,Sheriff,,,Over Votes,0
+Lane,Precinct 2122,Sheriff,,,Over Votes,0
+Lane,Precinct 2238,Sheriff,,,Over Votes,0
+Lane,Precinct 2340,Sheriff,,,Over Votes,0
+Lane,Precinct 2456,Sheriff,,,Over Votes,0
+Lane,Precinct 2562,Sheriff,,,Over Votes,0
+Lane,Precinct 2676,Sheriff,,,Over Votes,0
+Lane,Precinct 4200,Sheriff,,,Over Votes,0
+Lane,Precinct 4300,Sheriff,,,Over Votes,0
+Lane,Precinct 4400,Sheriff,,,Over Votes,0
+Lane,Precinct 4500,Sheriff,,,Over Votes,0
+Lane,Precinct 4600,Sheriff,,,Over Votes,0
+Lane,Precinct 4700,Sheriff,,,Over Votes,0
+Lane,Precinct 4800,Sheriff,,,Over Votes,0
+Lane,Precinct 4900,Sheriff,,,Over Votes,0
+Lane,Precinct 701,Sheriff,,,Over Votes,0
+Lane,Precinct 703,Sheriff,,,Over Votes,0
+Lane,Precinct 705,Sheriff,,,Over Votes,0
+Lane,Precinct 707,Sheriff,,,Over Votes,0
+Lane,Precinct 709,Sheriff,,,Over Votes,0
+Lane,Precinct 711,Sheriff,,,Over Votes,0
+Lane,Precinct 713,Sheriff,,,Over Votes,0
+Lane,Precinct 715,Sheriff,,,Over Votes,0
+Lane,Precinct 717,Sheriff,,,Over Votes,0
+Lane,Precinct 719,Sheriff,,,Over Votes,0
+Lane,Precinct 721,Sheriff,,,Over Votes,0
+Lane,Precinct 723,Sheriff,,,Over Votes,0
+Lane,Precinct 725,Sheriff,,,Over Votes,0
+Lane,Precinct 727,Sheriff,,,Over Votes,0
+Lane,Precinct 729,Sheriff,,,Over Votes,0
+Lane,Precinct 731,Sheriff,,,Over Votes,0
+Lane,Precinct 733,Sheriff,,,Over Votes,0
+Lane,Precinct 737,Sheriff,,,Over Votes,0
+Lane,Precinct 739,Sheriff,,,Over Votes,0
+Lane,Precinct 741,Sheriff,,,Over Votes,0
+Lane,Precinct 743,Sheriff,,,Over Votes,0
+Lane,Precinct 747,Sheriff,,,Over Votes,0
+Lane,Precinct 751,Sheriff,,,Over Votes,0
+Lane,Precinct 753,Sheriff,,,Over Votes,0
+Lane,Precinct 755,Sheriff,,,Over Votes,0
+Lane,Precinct 757,Sheriff,,,Over Votes,0
+Lane,Precinct 759,Sheriff,,,Over Votes,0
+Lane,Precinct 765,Sheriff,,,Over Votes,0
+Lane,Precinct 1120,Sheriff,,,Under Votes,952
+Lane,Precinct 1122,Sheriff,,,Under Votes,2049
+Lane,Precinct 1124,Sheriff,,,Under Votes,581
+Lane,Precinct 1126,Sheriff,,,Under Votes,2253
+Lane,Precinct 1230,Sheriff,,,Under Votes,2612
+Lane,Precinct 1232,Sheriff,,,Under Votes,2686
+Lane,Precinct 1234,Sheriff,,,Under Votes,1735
+Lane,Precinct 1340,Sheriff,,,Under Votes,2341
+Lane,Precinct 1342,Sheriff,,,Under Votes,559
+Lane,Precinct 1450,Sheriff,,,Under Votes,2616
+Lane,Precinct 1452,Sheriff,,,Under Votes,2099
+Lane,Precinct 1454,Sheriff,,,Under Votes,701
+Lane,Precinct 1560,Sheriff,,,Under Votes,925
+Lane,Precinct 1562,Sheriff,,,Under Votes,2665
+Lane,Precinct 1564,Sheriff,,,Under Votes,2894
+Lane,Precinct 1670,Sheriff,,,Under Votes,2878
+Lane,Precinct 1672,Sheriff,,,Under Votes,2119
+Lane,Precinct 1780,Sheriff,,,Under Votes,757
+Lane,Precinct 1782,Sheriff,,,Under Votes,968
+Lane,Precinct 1784,Sheriff,,,Under Votes,1870
+Lane,Precinct 1786,Sheriff,,,Under Votes,1143
+Lane,Precinct 1890,Sheriff,,,Under Votes,1296
+Lane,Precinct 1892,Sheriff,,,Under Votes,2322
+Lane,Precinct 1894,Sheriff,,,Under Votes,1743
+Lane,Precinct 2122,Sheriff,,,Under Votes,1816
+Lane,Precinct 2238,Sheriff,,,Under Votes,2092
+Lane,Precinct 2340,Sheriff,,,Under Votes,2241
+Lane,Precinct 2456,Sheriff,,,Under Votes,1965
+Lane,Precinct 2562,Sheriff,,,Under Votes,2268
+Lane,Precinct 2676,Sheriff,,,Under Votes,2660
+Lane,Precinct 4200,Sheriff,,,Under Votes,409
+Lane,Precinct 4300,Sheriff,,,Under Votes,2238
+Lane,Precinct 4400,Sheriff,,,Under Votes,1043
+Lane,Precinct 4500,Sheriff,,,Under Votes,489
+Lane,Precinct 4600,Sheriff,,,Under Votes,2487
+Lane,Precinct 4700,Sheriff,,,Under Votes,1608
+Lane,Precinct 4800,Sheriff,,,Under Votes,650
+Lane,Precinct 4900,Sheriff,,,Under Votes,1118
+Lane,Precinct 701,Sheriff,,,Under Votes,729
+Lane,Precinct 703,Sheriff,,,Under Votes,125
+Lane,Precinct 705,Sheriff,,,Under Votes,956
+Lane,Precinct 707,Sheriff,,,Under Votes,323
+Lane,Precinct 709,Sheriff,,,Under Votes,814
+Lane,Precinct 711,Sheriff,,,Under Votes,1928
+Lane,Precinct 713,Sheriff,,,Under Votes,570
+Lane,Precinct 715,Sheriff,,,Under Votes,799
+Lane,Precinct 717,Sheriff,,,Under Votes,1371
+Lane,Precinct 719,Sheriff,,,Under Votes,223
+Lane,Precinct 721,Sheriff,,,Under Votes,326
+Lane,Precinct 723,Sheriff,,,Under Votes,1362
+Lane,Precinct 725,Sheriff,,,Under Votes,876
+Lane,Precinct 727,Sheriff,,,Under Votes,842
+Lane,Precinct 729,Sheriff,,,Under Votes,255
+Lane,Precinct 731,Sheriff,,,Under Votes,2240
+Lane,Precinct 733,Sheriff,,,Under Votes,3000
+Lane,Precinct 737,Sheriff,,,Under Votes,1506
+Lane,Precinct 739,Sheriff,,,Under Votes,895
+Lane,Precinct 741,Sheriff,,,Under Votes,408
+Lane,Precinct 743,Sheriff,,,Under Votes,341
+Lane,Precinct 747,Sheriff,,,Under Votes,2390
+Lane,Precinct 751,Sheriff,,,Under Votes,2121
+Lane,Precinct 753,Sheriff,,,Under Votes,690
+Lane,Precinct 755,Sheriff,,,Under Votes,1325
+Lane,Precinct 757,Sheriff,,,Under Votes,1183
+Lane,Precinct 759,Sheriff,,,Under Votes,1194
+Lane,Precinct 765,Sheriff,,,Under Votes,1166
