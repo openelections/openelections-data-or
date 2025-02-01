@@ -1,0 +1,3137 @@
+county,precinct,office,district,party,candidate,votes
+Douglas,Precinct 01,Registered Voters,,,,1425
+Douglas,Precinct 01,Ballots Cast,,,,968
+Douglas,Precinct 01,President,,WTP,Robert F. Kennedy Jr.,18
+Douglas,Precinct 01,President,,PRO,Cornel West,1
+Douglas,Precinct 01,President,,LBT,Chase Oliver,2
+Douglas,Precinct 01,President,,CON,Randall Terry,0
+Douglas,Precinct 01,President,,REP,Donald J. Trump,607
+Douglas,Precinct 01,President,,PGP,Jill Stein,10
+Douglas,Precinct 01,President,,DEM,Kamala D. Harris,309
+Douglas,Precinct 01,President,,,Write-ins,3
+Douglas,Precinct 01,President,,,Over Votes,2
+Douglas,Precinct 01,President,,,Under Votes,16
+Douglas,Precinct 01,U.S. House,4,LBT,Dan Bahlen,19
+Douglas,Precinct 01,U.S. House,4,PGP,Justin Filip,22
+Douglas,Precinct 01,U.S. House,4,DEM,Val Hoyle,314
+Douglas,Precinct 01,U.S. House,4,REP,Monique DeSpain,583
+Douglas,Precinct 01,U.S. House,4,,Write-ins,2
+Douglas,Precinct 01,U.S. House,4,,Over Votes,0
+Douglas,Precinct 01,U.S. House,4,,Under Votes,28
+Douglas,Precinct 01,Secretary of State,,PGP,Nathalie Paravicini,23
+Douglas,Precinct 01,Secretary of State,,,Dennis Linthicum,571
+Douglas,Precinct 01,Secretary of State,,DEM,Tobias Read,335
+Douglas,Precinct 01,Secretary of State,,,Write-ins,2
+Douglas,Precinct 01,Secretary of State,,,Over Votes,0
+Douglas,Precinct 01,Secretary of State,,,Under Votes,36
+Douglas,Precinct 01,State Treasurer,,WFP,Mary King,54
+Douglas,Precinct 01,State Treasurer,,REP,Brian J Boquist,580
+Douglas,Precinct 01,State Treasurer,,DEM,Elizabeth Steiner,288
+Douglas,Precinct 01,State Treasurer,,,Write-ins,2
+Douglas,Precinct 01,State Treasurer,,,Over Votes,0
+Douglas,Precinct 01,State Treasurer,,,Under Votes,43
+Douglas,Precinct 01,Attorney General,,REP,Will Lathrop,593
+Douglas,Precinct 01,Attorney General,,DEM,Dan Rayfield,329
+Douglas,Precinct 01,Attorney General,,,Write-ins,3
+Douglas,Precinct 01,Attorney General,,,Over Votes,0
+Douglas,Precinct 01,Attorney General,,,Under Votes,42
+Douglas,Precinct 01,State Senate,5,DEM,Jo Beaudreau,291
+Douglas,Precinct 01,State Senate,5,REP,Dick Anderson,633
+Douglas,Precinct 01,State Senate,5,,Write-ins,1
+Douglas,Precinct 01,State Senate,5,,Over Votes,0
+Douglas,Precinct 01,State Senate,5,,Under Votes,42
+Douglas,Precinct 01,State House,9,REP,Boomer Wright,658
+Douglas,Precinct 01,State House,9,DEM,William (Mrk) Mrkvicka,256
+Douglas,Precinct 01,State House,9,,Write-ins,4
+Douglas,Precinct 01,State House,9,,Over Votes,0
+Douglas,Precinct 01,State House,9,,Under Votes,49
+Douglas,Precinct 01,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,536
+Douglas,Precinct 01,"Judge of the Supreme Court, Position 1",,,Write-ins,19
+Douglas,Precinct 01,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 01,"Judge of the Supreme Court, Position 1",,,Under Votes,412
+Douglas,Precinct 01,"Judge of the Supreme Court, Position 7",,,Bronson D James,525
+Douglas,Precinct 01,"Judge of the Supreme Court, Position 7",,,Write-ins,13
+Douglas,Precinct 01,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 01,"Judge of the Supreme Court, Position 7",,,Under Votes,429
+Douglas,Precinct 01,Douglas County Sheriff,,,John W Hanlin,608
+Douglas,Precinct 01,Douglas County Sheriff,,,Write-ins,11
+Douglas,Precinct 01,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 01,Douglas County Sheriff,,,Under Votes,348
+Douglas,Precinct 01,Douglas County Clerk,,,Dan Loomis,397
+Douglas,Precinct 01,Douglas County Clerk,,,Samantha Frost,310
+Douglas,Precinct 01,Douglas County Clerk,,,Write-ins,6
+Douglas,Precinct 01,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 01,Douglas County Clerk,,,Under Votes,254
+Douglas,Precinct 01,Douglas County Treasurer,,,Samuel W Lee III,527
+Douglas,Precinct 01,Douglas County Treasurer,,,Write-ins,7
+Douglas,Precinct 01,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 01,Douglas County Treasurer,,,Under Votes,433
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 1",,,Thomas Black,581
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 1",,,Write-ins,12
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 1",,,Under Votes,374
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 2",,,Write-ins,49
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 2",,,Under Votes,918
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 3",,,Write-ins,45
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 01,"Umpqua SWCD, Director, Zone 3",,,Under Votes,922
+Douglas,Precinct 01,"Umpqua SWCD, Director, At Large 1",,,Nathan E Baumgartner,532
+Douglas,Precinct 01,"Umpqua SWCD, Director, At Large 1",,,Write-ins,10
+Douglas,Precinct 01,"Umpqua SWCD, Director, At Large 1",,,Over Votes,0
+Douglas,Precinct 01,"Umpqua SWCD, Director, At Large 1",,,Under Votes,425
+Douglas,Precinct 01,"Umpqua SWCD, Director, At Large 2",,,Kathryn E Baumgartner,528
+Douglas,Precinct 01,"Umpqua SWCD, Director, At Large 2",,,Write-ins,10
+Douglas,Precinct 01,"Umpqua SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 01,"Umpqua SWCD, Director, At Large 2",,,Under Votes,429
+Douglas,Precinct 01,Question 10-115,,,Yes,435
+Douglas,Precinct 01,Question 10-115,,,No,476
+Douglas,Precinct 01,Question 10-115,,,Over Votes,0
+Douglas,Precinct 01,Question 10-115,,,Under Votes,56
+Douglas,Precinct 01,Question 10-116,,,Yes,297
+Douglas,Precinct 01,Question 10-116,,,No,593
+Douglas,Precinct 01,Question 10-116,,,Over Votes,0
+Douglas,Precinct 01,Question 10-116,,,Under Votes,77
+Douglas,Precinct 01,Question 10-117,,,Yes,239
+Douglas,Precinct 01,Question 10-117,,,No,660
+Douglas,Precinct 01,Question 10-117,,,Over Votes,1
+Douglas,Precinct 01,Question 10-117,,,Under Votes,67
+Douglas,Precinct 01,Question 10-118,,,Yes,180
+Douglas,Precinct 01,Question 10-118,,,No,740
+Douglas,Precinct 01,Question 10-118,,,Over Votes,0
+Douglas,Precinct 01,Question 10-118,,,Under Votes,47
+Douglas,Precinct 01,Question 10-119,,,Yes,370
+Douglas,Precinct 01,Question 10-119,,,No,512
+Douglas,Precinct 01,Question 10-119,,,Over Votes,0
+Douglas,Precinct 01,Question 10-119,,,Under Votes,85
+Douglas,Precinct 02,Registered Voters,,,,1127
+Douglas,Precinct 02,Ballots Cast,,,,812
+Douglas,Precinct 02,President,,WTP,Robert F. Kennedy Jr.,16
+Douglas,Precinct 02,President,,PRO,Cornel West,3
+Douglas,Precinct 02,President,,LBT,Chase Oliver,7
+Douglas,Precinct 02,President,,CON,Randall Terry,1
+Douglas,Precinct 02,President,,REP,Donald J. Trump,506
+Douglas,Precinct 02,President,,PGP,Jill Stein,6
+Douglas,Precinct 02,President,,DEM,Kamala D. Harris,253
+Douglas,Precinct 02,President,,,Write-ins,6
+Douglas,Precinct 02,President,,,Over Votes,0
+Douglas,Precinct 02,President,,,Under Votes,14
+Douglas,Precinct 02,U.S. House,2,REP,Cliff Bentz,491
+Douglas,Precinct 02,U.S. House,2,CON,Michael Kurt Stettler,34
+Douglas,Precinct 02,U.S. House,2,DEM,Dan Ruby,243
+Douglas,Precinct 02,U.S. House,2,,Write-ins,5
+Douglas,Precinct 02,U.S. House,2,,Over Votes,0
+Douglas,Precinct 02,U.S. House,2,,Under Votes,39
+Douglas,Precinct 02,Secretary of State,,REP,Dennis Linthicum,499
+Douglas,Precinct 02,Secretary of State,,DEM,Tobias Read,238
+Douglas,Precinct 02,Secretary of State,,,Write-ins,0
+Douglas,Precinct 02,Secretary of State,,,Over Votes,0
+Douglas,Precinct 02,Secretary of State,,,Under Votes,40
+Douglas,Precinct 02,State Treasurer,,WFP,Mary King,52
+Douglas,Precinct 02,State Treasurer,,REP,Brian J Boquist,508
+Douglas,Precinct 02,State Treasurer,,DEM,Elizabeth Steiner,204
+Douglas,Precinct 02,State Treasurer,,,Write-ins,0
+Douglas,Precinct 02,State Treasurer,,,Over Votes,0
+Douglas,Precinct 02,State Treasurer,,,Under Votes,44
+Douglas,Precinct 02,Attorney General,,REP,Will Lathrop,520
+Douglas,Precinct 02,Attorney General,,DEM,Dan Rayfield,246
+Douglas,Precinct 02,Attorney General,,,Write-ins,0
+Douglas,Precinct 02,Attorney General,,,Over Votes,0
+Douglas,Precinct 02,Attorney General,,,Under Votes,42
+Douglas,Precinct 02,State Senate,1,DEM,Lupe Preciado-McAlister,219
+Douglas,Precinct 02,State Senate,1,REP,David Brock Smith,519
+Douglas,Precinct 02,State Senate,1,,Write-ins,14
+Douglas,Precinct 02,State Senate,1,,Over Votes,0
+Douglas,Precinct 02,State Senate,1,,Under Votes,56
+Douglas,Precinct 02,State House,2,DEM,August Warren,234
+Douglas,Precinct 02,State House,2,REP,Virgle J Osborne,521
+Douglas,Precinct 02,State House,2,,Write-ins,5
+Douglas,Precinct 02,State House,2,,Over Votes,0
+Douglas,Precinct 02,State House,2,,Under Votes,48
+Douglas,Precinct 02,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,385
+Douglas,Precinct 02,"Judge of the Supreme Court, Position 1",,,Write-ins,20
+Douglas,Precinct 02,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 02,"Judge of the Supreme Court, Position 1",,,Under Votes,403
+Douglas,Precinct 02,"Judge of the Supreme Court, Position 7",,,Bronson D James,381
+Douglas,Precinct 02,"Judge of the Supreme Court, Position 7",,,Write-ins,20
+Douglas,Precinct 02,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 02,"Judge of the Supreme Court, Position 7",,,Under Votes,407
+Douglas,Precinct 02,Douglas County Sheriff,,,John W Hanlin,554
+Douglas,Precinct 02,Douglas County Sheriff,,,Write-ins,21
+Douglas,Precinct 02,Douglas County Sheriff,,,Under Votes,233
+Douglas,Precinct 02,Douglas County Clerk,,,Dan Loomis,351
+Douglas,Precinct 02,Douglas County Clerk,,,Samantha Frost,262
+Douglas,Precinct 02,Douglas County Clerk,,,Write-ins,4
+Douglas,Precinct 02,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 02,Douglas County Clerk,,,Under Votes,191
+Douglas,Precinct 02,Douglas County Treasurer,,,Samuel W Lee III,401
+Douglas,Precinct 02,Douglas County Treasurer,,,Write-ins,13
+Douglas,Precinct 02,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 02,Douglas County Treasurer,,,Under Votes,394
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 1",,,Write-ins,52
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 1",,,Under Votes,756
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,427
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 2",,,Write-ins,8
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 2",,,Under Votes,373
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 3",,,David A Briggs,417
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 3",,,Write-ins,7
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 02,"Douglas SWCD, Director, Zone 3",,,Under Votes,384
+Douglas,Precinct 02,"Douglas SWCD, Director, At Large 2",,,Write-ins,50
+Douglas,Precinct 02,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 02,"Douglas SWCD, Director, At Large 2",,,Under Votes,758
+Douglas,Precinct 02,Question 10-115,,,Yes,375
+Douglas,Precinct 02,Question 10-115,,,No,388
+Douglas,Precinct 02,Question 10-115,,,Over Votes,0
+Douglas,Precinct 02,Question 10-115,,,Under Votes,45
+Douglas,Precinct 02,Question 10-116,,,Yes,303
+Douglas,Precinct 02,Question 10-116,,,No,443
+Douglas,Precinct 02,Question 10-116,,,Over Votes,0
+Douglas,Precinct 02,Question 10-116,,,Under Votes,62
+Douglas,Precinct 02,Question 10-117,,,No,535
+Douglas,Precinct 02,Question 10-117,,,Over Votes,0
+Douglas,Precinct 02,Question 10-117,,,Under Votes,48
+Douglas,Precinct 02,Question 10-118,,,Yes,146
+Douglas,Precinct 02,Question 10-118,,,No,615
+Douglas,Precinct 02,Question 10-118,,,Over Votes,0
+Douglas,Precinct 02,Question 10-118,,,Under Votes,47
+Douglas,Precinct 02,Question 10-119,,,Yes,294
+Douglas,Precinct 02,Question 10-119,,,No,449
+Douglas,Precinct 02,Question 10-119,,,Over Votes,0
+Douglas,Precinct 02,Question 10-119,,,Under Votes,65
+Douglas,Precinct 03,Registered Voters,,,,3477
+Douglas,Precinct 03,Ballots Cast,,,,2336
+Douglas,Precinct 03,President,,WTP,Robert F. Kennedy Jr.,32
+Douglas,Precinct 03,President,,PRO,Cornel West,2
+Douglas,Precinct 03,President,,LBT,Chase Oliver,11
+Douglas,Precinct 03,President,,CON,Randall Terry,2
+Douglas,Precinct 03,President,,REP,Donald J. Trump,1306
+Douglas,Precinct 03,President,,PGP,Jill Stein,16
+Douglas,Precinct 03,President,,DEM,Kamala D. Harris,919
+Douglas,Precinct 03,President,,,Write-ins,9
+Douglas,Precinct 03,President,,,Over Votes,0
+Douglas,Precinct 03,President,,,Under Votes,39
+Douglas,Precinct 03,U.S. House,4,LBT,Dan Bahlen,37
+Douglas,Precinct 03,U.S. House,4,PGP,Justin Filip,45
+Douglas,Precinct 03,U.S. House,4,DEM,Val Hoyle,888
+Douglas,Precinct 03,U.S. House,4,REP,Monique DeSpain,1295
+Douglas,Precinct 03,U.S. House,4,,Write-ins,4
+Douglas,Precinct 03,U.S. House,4,,Over Votes,0
+Douglas,Precinct 03,U.S. House,4,,Under Votes,67
+Douglas,Precinct 03,Secretary of State,,PGP,Nathalie Paravicini,57
+Douglas,Precinct 03,Secretary of State,,REP,Dennis Linthicum,1265
+Douglas,Precinct 03,Secretary of State,,DEM,Tobias Read,913
+Douglas,Precinct 03,Secretary of State,,,Write-ins,3
+Douglas,Precinct 03,Secretary of State,,,Over Votes,0
+Douglas,Precinct 03,Secretary of State,,,Under Votes,93
+Douglas,Precinct 03,State Treasurer,,WFP,Mary King,153
+Douglas,Precinct 03,State Treasurer,,REP,Brian J Boquist,1274
+Douglas,Precinct 03,State Treasurer,,DEM,Elizabeth Steiner,794
+Douglas,Precinct 03,State Treasurer,,,Write-ins,2
+Douglas,Precinct 03,State Treasurer,,,Over Votes,0
+Douglas,Precinct 03,State Treasurer,,,Under Votes,108
+Douglas,Precinct 03,Attorney General,,REP,Will Lathrop,1323
+Douglas,Precinct 03,Attorney General,,DEM,Dan Rayfield,896
+Douglas,Precinct 03,Attorney General,,,Write-ins,5
+Douglas,Precinct 03,Attorney General,,,Over Votes,0
+Douglas,Precinct 03,Attorney General,,,Under Votes,107
+Douglas,Precinct 03,State Senate,5,DEM,Jo Beaudreau,823
+Douglas,Precinct 03,State Senate,5,REP,Dick Anderson,1400
+Douglas,Precinct 03,State Senate,5,,Write-ins,5
+Douglas,Precinct 03,State Senate,5,,Over Votes,0
+Douglas,Precinct 03,State Senate,5,,Under Votes,103
+Douglas,Precinct 03,State House,9,REP,Boomer Wright,1475
+Douglas,Precinct 03,State House,9,DEM,William (Mrk) Mrkvicka,735
+Douglas,Precinct 03,State House,9,,Write-ins,4
+Douglas,Precinct 03,State House,9,,Over Votes,0
+Douglas,Precinct 03,State House,9,,Under Votes,117
+Douglas,Precinct 03,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1349
+Douglas,Precinct 03,"Judge of the Supreme Court, Position 1",,,Write-ins,29
+Douglas,Precinct 03,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 03,"Judge of the Supreme Court, Position 1",,,Under Votes,953
+Douglas,Precinct 03,"Judge of the Supreme Court, Position 7",,,Bronson D James,1333
+Douglas,Precinct 03,"Judge of the Supreme Court, Position 7",,,Write-ins,27
+Douglas,Precinct 03,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 03,"Judge of the Supreme Court, Position 7",,,Under Votes,971
+Douglas,Precinct 03,Douglas County Sheriff,,,John W Hanlin,1490
+Douglas,Precinct 03,Douglas County Sheriff,,,Write-ins,22
+Douglas,Precinct 03,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 03,Douglas County Sheriff,,,Under Votes,819
+Douglas,Precinct 03,Douglas County Clerk,,,Dan Loomis,905
+Douglas,Precinct 03,Douglas County Clerk,,,Samantha Frost,769
+Douglas,Precinct 03,Douglas County Clerk,,,Write-ins,6
+Douglas,Precinct 03,Douglas County Clerk,,,Over Votes,2
+Douglas,Precinct 03,Douglas County Clerk,,,Under Votes,649
+Douglas,Precinct 03,Douglas County Treasurer,,,Samuel W Lee III,1309
+Douglas,Precinct 03,Douglas County Treasurer,,,Write-ins,16
+Douglas,Precinct 03,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 03,Douglas County Treasurer,,,Under Votes,1006
+Douglas,Precinct 03,"City of Reedsport, Mayor",,,Linda McCollum,1394
+Douglas,Precinct 03,"City of Reedsport, Mayor",,,Write-ins,169
+Douglas,Precinct 03,"City of Reedsport, Mayor",,,Over Votes,0
+Douglas,Precinct 03,"City of Reedsport, Mayor",,,Under Votes,768
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 1",,,Rob Wright,1408
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 1",,,Write-ins,41
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 1",,,Over Votes,0
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 1",,,Under Votes,882
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 2",,,Clifton R Jackson Jr,1378
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 2",,,Write-ins,29
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 2",,,Over Votes,0
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 2",,,Under Votes,924
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 3",,,Sandra Rose Donnelly,1472
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 3",,,Write-ins,38
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 3",,,Over Votes,0
+Douglas,Precinct 03,"City of Reedsport, Councilor, Position 3",,,Under Votes,821
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 1",,,Thomas Black,1502
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 1",,,Write-ins,11
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 1",,,Under Votes,818
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 2",,,Write-ins,118
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 2",,,Under Votes,2213
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 3",,,Write-ins,106
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 03,"Umpqua SWCD, Director, Zone 3",,,Under Votes,2225
+Douglas,Precinct 03,"Umpqua SWCD, Director, At Large 1",,,Nathan E Baumgartner,1271
+Douglas,Precinct 03,"Umpqua SWCD, Director, At Large 1",,,Write-ins,14
+Douglas,Precinct 03,"Umpqua SWCD, Director, At Large 1",,,Over Votes,0
+Douglas,Precinct 03,"Umpqua SWCD, Director, At Large 1",,,Under Votes,1046
+Douglas,Precinct 03,"Umpqua SWCD, Director, At Large 2",,,Kathryn E Baumgartner,1257
+Douglas,Precinct 03,"Umpqua SWCD, Director, At Large 2",,,Write-ins,16
+Douglas,Precinct 03,"Umpqua SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 03,"Umpqua SWCD, Director, At Large 2",,,Under Votes,1058
+Douglas,Precinct 03,Question 10-115,,,Yes,1210
+Douglas,Precinct 03,Question 10-115,,,No,927
+Douglas,Precinct 03,Question 10-115,,,Over Votes,0
+Douglas,Precinct 03,Question 10-115,,,Under Votes,194
+Douglas,Precinct 03,Question 10-116,,,Yes,897
+Douglas,Precinct 03,Question 10-116,,,No,1226
+Douglas,Precinct 03,Question 10-116,,,Over Votes,0
+Douglas,Precinct 03,Question 10-116,,,Under Votes,208
+Douglas,Precinct 03,Question 10-117,,,Yes,644
+Douglas,Precinct 03,Question 10-117,,,No,1549
+Douglas,Precinct 03,Question 10-117,,,Over Votes,0
+Douglas,Precinct 03,Question 10-117,,,Under Votes,138
+Douglas,Precinct 03,Question 10-118,,,Yes,445
+Douglas,Precinct 03,Question 10-118,,,No,1771
+Douglas,Precinct 03,Question 10-118,,,Over Votes,0
+Douglas,Precinct 03,Question 10-118,,,Under Votes,115
+Douglas,Precinct 03,Question 10-119,,,Yes,999
+Douglas,Precinct 03,Question 10-119,,,No,1140
+Douglas,Precinct 03,Question 10-119,,,Over Votes,0
+Douglas,Precinct 03,Question 10-119,,,Under Votes,192
+Douglas,Precinct 04,Registered Voters,,,,5760
+Douglas,Precinct 04,Ballots Cast,,,,4296
+Douglas,Precinct 04,President,,WTP,Robert F. Kennedy Jr.,68
+Douglas,Precinct 04,President,,PRO,Cornel West,5
+Douglas,Precinct 04,President,,LBT,Chase Oliver,17
+Douglas,Precinct 04,President,,CON,Randall Terry,8
+Douglas,Precinct 04,President,,REP,Donald J. Trump,2897
+Douglas,Precinct 04,President,,PGP,Jill Stein,27
+Douglas,Precinct 04,President,,DEM,Kamala D. Harris,1171
+Douglas,Precinct 04,President,,,Write-ins,33
+Douglas,Precinct 04,President,,,Over Votes,2
+Douglas,Precinct 04,President,,,Under Votes,68
+Douglas,Precinct 04,U.S. House,4,LBT,Dan Bahlen,81
+Douglas,Precinct 04,U.S. House,4,PGP,Justin Filip,67
+Douglas,Precinct 04,U.S. House,4,DEM,Val Hoyle,1138
+Douglas,Precinct 04,U.S. House,4,REP,Monique DeSpain,2872
+Douglas,Precinct 04,U.S. House,4,,Write-ins,4
+Douglas,Precinct 04,U.S. House,4,,Over Votes,0
+Douglas,Precinct 04,U.S. House,4,,Under Votes,134
+Douglas,Precinct 04,Secretary of State,,PGP,Nathalie Paravicini,106
+Douglas,Precinct 04,Secretary of State,,REP,Dennis Linthicum,2826
+Douglas,Precinct 04,Secretary of State,,DEM,Tobias Read,1174
+Douglas,Precinct 04,Secretary of State,,,Write-ins,4
+Douglas,Precinct 04,Secretary of State,,,Over Votes,0
+Douglas,Precinct 04,Secretary of State,,,Under Votes,181
+Douglas,Precinct 04,State Treasurer,,WFP,Mary King,218
+Douglas,Precinct 04,State Treasurer,,REP,Brian J Boquist,2848
+Douglas,Precinct 04,State Treasurer,,DEM,Elizabeth Steiner,998
+Douglas,Precinct 04,State Treasurer,,,Write-ins,6
+Douglas,Precinct 04,State Treasurer,,,Over Votes,0
+Douglas,Precinct 04,State Treasurer,,,Under Votes,221
+Douglas,Precinct 04,Attorney General,,REP,Will Lathrop,2934
+Douglas,Precinct 04,Attorney General,,DEM,Dan Rayfield,1140
+Douglas,Precinct 04,Attorney General,,,Write-ins,4
+Douglas,Precinct 04,Attorney General,,,Under Votes,213
+Douglas,Precinct 04,State Senate,1,DEM,Lupe Preciado-McAlister,1025
+Douglas,Precinct 04,State Senate,1,REP,David Brock Smith,2986
+Douglas,Precinct 04,State Senate,1,,Write-ins,13
+Douglas,Precinct 04,State Senate,1,,Over Votes,0
+Douglas,Precinct 04,State Senate,1,,Under Votes,267
+Douglas,Precinct 04,State House,2,DEM,August Warren,1059
+Douglas,Precinct 04,State House,2,REP,Virgle J Osborne,2952
+Douglas,Precinct 04,State House,2,,Write-ins,7
+Douglas,Precinct 04,State House,2,,Over Votes,0
+Douglas,Precinct 04,State House,2,,Under Votes,273
+Douglas,Precinct 04,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,2113
+Douglas,Precinct 04,"Judge of the Supreme Court, Position 1",,,Write-ins,70
+Douglas,Precinct 04,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 04,"Judge of the Supreme Court, Position 1",,,Under Votes,2108
+Douglas,Precinct 04,"Judge of the Supreme Court, Position 7",,,Bronson D James,2110
+Douglas,Precinct 04,"Judge of the Supreme Court, Position 7",,,Write-ins,63
+Douglas,Precinct 04,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 04,"Judge of the Supreme Court, Position 7",,,Under Votes,2118
+Douglas,Precinct 04,Douglas County Sheriff,,,John W Hanlin,2986
+Douglas,Precinct 04,Douglas County Sheriff,,,Write-ins,86
+Douglas,Precinct 04,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 04,Douglas County Sheriff,,,Under Votes,1219
+Douglas,Precinct 04,Douglas County Clerk,,,Dan Loomis,1993
+Douglas,Precinct 04,Douglas County Clerk,,,Samantha Frost,1202
+Douglas,Precinct 04,Douglas County Clerk,,,Write-ins,10
+Douglas,Precinct 04,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 04,Douglas County Clerk,,,Under Votes,1086
+Douglas,Precinct 04,Douglas County Treasurer,,,Samuel W Lee III,2229
+Douglas,Precinct 04,Douglas County Treasurer,,,Write-ins,33
+Douglas,Precinct 04,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 04,Douglas County Treasurer,,,Under Votes,2029
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 1",,,Write-ins,222
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 1",,,Under Votes,3319
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1801
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 2",,,Write-ins,22
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 2",,,Under Votes,1718
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1768
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 3",,,Write-ins,22
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 04,"Douglas SWCD, Director, Zone 3",,,Under Votes,1751
+Douglas,Precinct 04,"Douglas SWCD, Director, At Large 2",,,Write-ins,194
+Douglas,Precinct 04,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 04,"Douglas SWCD, Director, At Large 2",,,Under Votes,3347
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 1",,,Thomas Black,375
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 1",,,Write-ins,6
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 1",,,Under Votes,369
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 2",,,Write-ins,39
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 2",,,Under Votes,711
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 3",,,Write-ins,34
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 04,"Umpqua SWCD, Director, Zone 3",,,Under Votes,716
+Douglas,Precinct 04,"Umpqua SWCD, Director, At Large 1",,,Nathan E Baumgartner,344
+Douglas,Precinct 04,"Umpqua SWCD, Director, At Large 1",,,Write-ins,7
+Douglas,Precinct 04,"Umpqua SWCD, Director, At Large 1",,,Over Votes,0
+Douglas,Precinct 04,"Umpqua SWCD, Director, At Large 1",,,Under Votes,399
+Douglas,Precinct 04,"Umpqua SWCD, Director, At Large 2",,,Kathryn E Baumgartner,348
+Douglas,Precinct 04,"Umpqua SWCD, Director, At Large 2",,,Write-ins,5
+Douglas,Precinct 04,"Umpqua SWCD, Director, At Large 2",,,Under Votes,397
+Douglas,Precinct 04,Question 10-115,,,Yes,1881
+Douglas,Precinct 04,Question 10-115,,,No,2137
+Douglas,Precinct 04,Question 10-115,,,Over Votes,0
+Douglas,Precinct 04,Question 10-115,,,Under Votes,273
+Douglas,Precinct 04,Question 10-116,,,Yes,1296
+Douglas,Precinct 04,Question 10-116,,,No,2652
+Douglas,Precinct 04,Question 10-116,,,Over Votes,2
+Douglas,Precinct 04,Question 10-116,,,Under Votes,341
+Douglas,Precinct 04,Question 10-117,,,Yes,975
+Douglas,Precinct 04,Question 10-117,,,No,3047
+Douglas,Precinct 04,Question 10-117,,,Over Votes,0
+Douglas,Precinct 04,Question 10-117,,,Under Votes,269
+Douglas,Precinct 04,Question 10-118,,,Yes,521
+Douglas,Precinct 04,Question 10-118,,,No,3564
+Douglas,Precinct 04,Question 10-118,,,Over Votes,1
+Douglas,Precinct 04,Question 10-118,,,Under Votes,205
+Douglas,Precinct 04,Question 10-119,,,Yes,1384
+Douglas,Precinct 04,Question 10-119,,,No,2548
+Douglas,Precinct 04,Question 10-119,,,Over Votes,1
+Douglas,Precinct 04,Question 10-119,,,Under Votes,358
+Douglas,Precinct 05,Registered Voters,,,,5445
+Douglas,Precinct 05,Ballots Cast,,,,4084
+Douglas,Precinct 05,President,,WTP,Robert F. Kennedy Jr.,47
+Douglas,Precinct 05,President,,PRO,Cornel West,0
+Douglas,Precinct 05,President,,LBT,Chase Oliver,9
+Douglas,Precinct 05,President,,CON,Randall Terry,4
+Douglas,Precinct 05,President,,REP,Donald J. Trump,2915
+Douglas,Precinct 05,President,,PGP,Jill Stein,14
+Douglas,Precinct 05,President,,DEM,Kamala D. Harris,1001
+Douglas,Precinct 05,President,,,Write-ins,25
+Douglas,Precinct 05,President,,,Over Votes,1
+Douglas,Precinct 05,President,,,Under Votes,68
+Douglas,Precinct 05,U.S. House,4,LBT,Dan Bahlen,49
+Douglas,Precinct 05,U.S. House,4,PGP,Justin Filip,57
+Douglas,Precinct 05,U.S. House,4,DEM,Val Hoyle,950
+Douglas,Precinct 05,U.S. House,4,REP,Monique DeSpain,2881
+Douglas,Precinct 05,U.S. House,4,,Write-ins,8
+Douglas,Precinct 05,U.S. House,4,,Over Votes,0
+Douglas,Precinct 05,U.S. House,4,,Under Votes,139
+Douglas,Precinct 05,Secretary of State,,PGP,Nathalie Paravicini,66
+Douglas,Precinct 05,Secretary of State,,REP,Dennis Linthicum,2808
+Douglas,Precinct 05,Secretary of State,,DEM,Tobias Read,1005
+Douglas,Precinct 05,Secretary of State,,,Write-ins,5
+Douglas,Precinct 05,Secretary of State,,,Over Votes,0
+Douglas,Precinct 05,Secretary of State,,,Under Votes,198
+Douglas,Precinct 05,State Treasurer,,WFP,Mary King,146
+Douglas,Precinct 05,State Treasurer,,REP,Brian J Boquist,2827
+Douglas,Precinct 05,State Treasurer,,DEM,Elizabeth Steiner,870
+Douglas,Precinct 05,State Treasurer,,,Write-ins,5
+Douglas,Precinct 05,State Treasurer,,,Over Votes,1
+Douglas,Precinct 05,State Treasurer,,,Under Votes,233
+Douglas,Precinct 05,Attorney General,,REP,Will Lathrop,2934
+Douglas,Precinct 05,Attorney General,,DEM,Dan Rayfield,942
+Douglas,Precinct 05,Attorney General,,,Write-ins,4
+Douglas,Precinct 05,Attorney General,,,Over Votes,0
+Douglas,Precinct 05,Attorney General,,,Under Votes,202
+Douglas,Precinct 05,State Senate,1,DEM,Lupe Preciado-McAlister,838
+Douglas,Precinct 05,State Senate,1,REP,David Brock Smith,2979
+Douglas,Precinct 05,State Senate,1,,Write-ins,13
+Douglas,Precinct 05,State Senate,1,,Over Votes,0
+Douglas,Precinct 05,State Senate,1,,Under Votes,252
+Douglas,Precinct 05,State House,2,DEM,August Warren,859
+Douglas,Precinct 05,State House,2,REP,Virgle J Osborne,2968
+Douglas,Precinct 05,State House,2,,Write-ins,13
+Douglas,Precinct 05,State House,2,,Under Votes,242
+Douglas,Precinct 05,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,2154
+Douglas,Precinct 05,"Judge of the Supreme Court, Position 1",,,Write-ins,58
+Douglas,Precinct 05,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 05,"Judge of the Supreme Court, Position 1",,,Under Votes,1870
+Douglas,Precinct 05,"Judge of the Supreme Court, Position 7",,,Bronson D James,2174
+Douglas,Precinct 05,"Judge of the Supreme Court, Position 7",,,Write-ins,43
+Douglas,Precinct 05,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 05,"Judge of the Supreme Court, Position 7",,,Under Votes,1865
+Douglas,Precinct 05,Douglas County Sheriff,,,John W Hanlin,3104
+Douglas,Precinct 05,Douglas County Sheriff,,,Write-ins,112
+Douglas,Precinct 05,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 05,Douglas County Sheriff,,,Under Votes,866
+Douglas,Precinct 05,Douglas County Clerk,,,Dan Loomis,2134
+Douglas,Precinct 05,Douglas County Clerk,,,Samantha Frost,1063
+Douglas,Precinct 05,Douglas County Clerk,,,Write-ins,19
+Douglas,Precinct 05,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 05,Douglas County Clerk,,,Under Votes,866
+Douglas,Precinct 05,Douglas County Treasurer,,,Samuel W Lee III,2347
+Douglas,Precinct 05,Douglas County Treasurer,,,Write-ins,31
+Douglas,Precinct 05,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 05,Douglas County Treasurer,,,Under Votes,1704
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 1",,,Write-ins,231
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 1",,,Under Votes,3851
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,2385
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 2",,,Write-ins,25
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 2",,,Under Votes,1672
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 3",,,David A Briggs,2223
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 3",,,Write-ins,27
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 05,"Douglas SWCD, Director, Zone 3",,,Under Votes,1832
+Douglas,Precinct 05,"Douglas SWCD, Director, At Large 2",,,Write-ins,213
+Douglas,Precinct 05,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 05,"Douglas SWCD, Director, At Large 2",,,Under Votes,3869
+Douglas,Precinct 05,Question 10-115,,,Yes,1728
+Douglas,Precinct 05,Question 10-115,,,No,2120
+Douglas,Precinct 05,Question 10-115,,,Over Votes,0
+Douglas,Precinct 05,Question 10-115,,,Under Votes,234
+Douglas,Precinct 05,Question 10-116,,,Yes,1170
+Douglas,Precinct 05,Question 10-116,,,No,2627
+Douglas,Precinct 05,Question 10-116,,,Over Votes,0
+Douglas,Precinct 05,Question 10-116,,,Under Votes,285
+Douglas,Precinct 05,Question 10-117,,,Yes,865
+Douglas,Precinct 05,Question 10-117,,,No,2981
+Douglas,Precinct 05,Question 10-117,,,Over Votes,1
+Douglas,Precinct 05,Question 10-117,,,Under Votes,235
+Douglas,Precinct 05,Question 10-118,,,Yes,415
+Douglas,Precinct 05,Question 10-118,,,No,3501
+Douglas,Precinct 05,Question 10-118,,,Over Votes,1
+Douglas,Precinct 05,Question 10-118,,,Under Votes,165
+Douglas,Precinct 05,Question 10-119,,,Yes,1280
+Douglas,Precinct 05,Question 10-119,,,No,2496
+Douglas,Precinct 05,Question 10-119,,,Over Votes,0
+Douglas,Precinct 05,Question 10-119,,,Under Votes,306
+Douglas,Precinct 06,Registered Voters,,,,4713
+Douglas,Precinct 06,Ballots Cast,,,,3405
+Douglas,Precinct 06,President,,WTP,Robert F. Kennedy Jr.,45
+Douglas,Precinct 06,President,,PRO,Cornel West,0
+Douglas,Precinct 06,President,,LBT,Chase Oliver,9
+Douglas,Precinct 06,President,,CON,Randall Terry,6
+Douglas,Precinct 06,President,,REP,Donald J. Trump,2256
+Douglas,Precinct 06,President,,PGP,Jill Stein,6
+Douglas,Precinct 06,President,,DEM,Kamala D. Harris,1002
+Douglas,Precinct 06,President,,,Write-ins,22
+Douglas,Precinct 06,President,,,Over Votes,0
+Douglas,Precinct 06,President,,,Under Votes,59
+Douglas,Precinct 06,U.S. House,4,LBT,Dan Bahlen,57
+Douglas,Precinct 06,U.S. House,4,PGP,Justin Filip,52
+Douglas,Precinct 06,U.S. House,4,DEM,Val Hoyle,967
+Douglas,Precinct 06,U.S. House,4,REP,Monique DeSpain,2222
+Douglas,Precinct 06,U.S. House,4,,Write-ins,4
+Douglas,Precinct 06,U.S. House,4,,Over Votes,0
+Douglas,Precinct 06,U.S. House,4,,Under Votes,103
+Douglas,Precinct 06,Secretary of State,,PGP,Nathalie Paravicini,53
+Douglas,Precinct 06,Secretary of State,,REP,Dennis Linthicum,2164
+Douglas,Precinct 06,Secretary of State,,DEM,Tobias Read,1045
+Douglas,Precinct 06,Secretary of State,,,Write-ins,2
+Douglas,Precinct 06,Secretary of State,,,Over Votes,0
+Douglas,Precinct 06,Secretary of State,,,Under Votes,135
+Douglas,Precinct 06,State Treasurer,,WFP,Mary King,135
+Douglas,Precinct 06,State Treasurer,,REP,Brian J Boquist,2237
+Douglas,Precinct 06,State Treasurer,,DEM,Elizabeth Steiner,847
+Douglas,Precinct 06,State Treasurer,,,Write-ins,4
+Douglas,Precinct 06,State Treasurer,,,Over Votes,0
+Douglas,Precinct 06,State Treasurer,,,Under Votes,176
+Douglas,Precinct 06,Attorney General,,REP,Will Lathrop,2288
+Douglas,Precinct 06,Attorney General,,DEM,Dan Rayfield,937
+Douglas,Precinct 06,Attorney General,,,Write-ins,3
+Douglas,Precinct 06,Attorney General,,,Over Votes,0
+Douglas,Precinct 06,Attorney General,,,Under Votes,171
+Douglas,Precinct 06,State Senate,1,DEM,Lupe Preciado-McAlister,831
+Douglas,Precinct 06,State Senate,1,REP,David Brock Smith,2354
+Douglas,Precinct 06,State Senate,1,,Write-ins,5
+Douglas,Precinct 06,State Senate,1,,Over Votes,0
+Douglas,Precinct 06,State Senate,1,,Under Votes,209
+Douglas,Precinct 06,State House,2,DEM,August Warren,859
+Douglas,Precinct 06,State House,2,REP,Virgle J Osborne,2326
+Douglas,Precinct 06,State House,2,,Write-ins,14
+Douglas,Precinct 06,State House,2,,Over Votes,1
+Douglas,Precinct 06,State House,2,,Under Votes,199
+Douglas,Precinct 06,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1857
+Douglas,Precinct 06,"Judge of the Supreme Court, Position 1",,,Write-ins,51
+Douglas,Precinct 06,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 06,"Judge of the Supreme Court, Position 1",,,Under Votes,1491
+Douglas,Precinct 06,"Judge of the Supreme Court, Position 7",,,Bronson D James,1863
+Douglas,Precinct 06,"Judge of the Supreme Court, Position 7",,,Write-ins,47
+Douglas,Precinct 06,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 06,"Judge of the Supreme Court, Position 7",,,Under Votes,1489
+Douglas,Precinct 06,Douglas County Sheriff,,,John W Hanlin,2542
+Douglas,Precinct 06,Douglas County Sheriff,,,Write-ins,77
+Douglas,Precinct 06,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 06,Douglas County Sheriff,,,Under Votes,780
+Douglas,Precinct 06,Douglas County Clerk,,,Dan Loomis,1771
+Douglas,Precinct 06,Douglas County Clerk,,,Samantha Frost,939
+Douglas,Precinct 06,Douglas County Clerk,,,Write-ins,8
+Douglas,Precinct 06,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 06,Douglas County Clerk,,,Under Votes,681
+Douglas,Precinct 06,Douglas County Treasurer,,,Samuel W Lee III,1984
+Douglas,Precinct 06,Douglas County Treasurer,,,Write-ins,36
+Douglas,Precinct 06,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 06,Douglas County Treasurer,,,Under Votes,1379
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 1",,,Write-ins,178
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 1",,,Under Votes,3221
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1939
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 2",,,Write-ins,31
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 2",,,Under Votes,1429
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1868
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 3",,,Write-ins,31
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 06,"Douglas SWCD, Director, Zone 3",,,Under Votes,1500
+Douglas,Precinct 06,"Douglas SWCD, Director, At Large 2",,,Write-ins,171
+Douglas,Precinct 06,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 06,"Douglas SWCD, Director, At Large 2",,,Under Votes,3228
+Douglas,Precinct 06,Question 10-115,,,Yes,1538
+Douglas,Precinct 06,Question 10-115,,,No,1640
+Douglas,Precinct 06,Question 10-115,,,Over Votes,0
+Douglas,Precinct 06,Question 10-115,,,Under Votes,221
+Douglas,Precinct 06,Question 10-116,,,Yes,1105
+Douglas,Precinct 06,Question 10-116,,,No,2036
+Douglas,Precinct 06,Question 10-116,,,Over Votes,0
+Douglas,Precinct 06,Question 10-116,,,Under Votes,258
+Douglas,Precinct 06,Question 10-117,,,Yes,784
+Douglas,Precinct 06,Question 10-117,,,No,2418
+Douglas,Precinct 06,Question 10-117,,,Over Votes,0
+Douglas,Precinct 06,Question 10-117,,,Under Votes,197
+Douglas,Precinct 06,Question 10-118,,,Yes,428
+Douglas,Precinct 06,Question 10-118,,,No,2810
+Douglas,Precinct 06,Question 10-118,,,Over Votes,0
+Douglas,Precinct 06,Question 10-118,,,Under Votes,161
+Douglas,Precinct 06,Question 10-119,,,Yes,1238
+Douglas,Precinct 06,Question 10-119,,,No,1889
+Douglas,Precinct 06,Question 10-119,,,Over Votes,0
+Douglas,Precinct 06,Question 10-119,,,Under Votes,272
+Douglas,Precinct 07,Registered Voters,,,,4063
+Douglas,Precinct 07,Ballots Cast,,,,3038
+Douglas,Precinct 07,President,,WTP,Robert F. Kennedy Jr.,40
+Douglas,Precinct 07,President,,PRO,Cornel West,3
+Douglas,Precinct 07,President,,LBT,Chase Oliver,9
+Douglas,Precinct 07,President,,CON,Randall Terry,7
+Douglas,Precinct 07,President,,REP,Donald J. Trump,1771
+Douglas,Precinct 07,President,,PGP,Jill Stein,6
+Douglas,Precinct 07,President,,DEM,Kamala D. Harris,1136
+Douglas,Precinct 07,President,,,Write-ins,17
+Douglas,Precinct 07,President,,,Over Votes,1
+Douglas,Precinct 07,President,,,Under Votes,48
+Douglas,Precinct 07,U.S. House,4,LBT,Dan Bahlen,40
+Douglas,Precinct 07,U.S. House,4,PGP,Justin Filip,36
+Douglas,Precinct 07,U.S. House,4,DEM,Val Hoyle,1061
+Douglas,Precinct 07,U.S. House,4,REP,Monique DeSpain,1777
+Douglas,Precinct 07,U.S. House,4,,Write-ins,2
+Douglas,Precinct 07,U.S. House,4,,Over Votes,0
+Douglas,Precinct 07,U.S. House,4,,Under Votes,122
+Douglas,Precinct 07,Secretary of State,,PGP,Nathalie Paravicini,44
+Douglas,Precinct 07,Secretary of State,,REP,Dennis Linthicum,1710
+Douglas,Precinct 07,Secretary of State,,DEM,Tobias Read,1114
+Douglas,Precinct 07,Secretary of State,,,Write-ins,4
+Douglas,Precinct 07,Secretary of State,,,Over Votes,1
+Douglas,Precinct 07,Secretary of State,,,Under Votes,160
+Douglas,Precinct 07,State Treasurer,,WFP,Mary King,115
+Douglas,Precinct 07,State Treasurer,,REP,Brian J Boquist,1739
+Douglas,Precinct 07,State Treasurer,,DEM,Elizabeth Steiner,981
+Douglas,Precinct 07,State Treasurer,,,Write-ins,3
+Douglas,Precinct 07,State Treasurer,,,Over Votes,0
+Douglas,Precinct 07,State Treasurer,,,Under Votes,195
+Douglas,Precinct 07,Attorney General,,REP,Will Lathrop,1800
+Douglas,Precinct 07,Attorney General,,DEM,Dan Rayfield,1048
+Douglas,Precinct 07,Attorney General,,,Write-ins,7
+Douglas,Precinct 07,Attorney General,,,Over Votes,0
+Douglas,Precinct 07,Attorney General,,,Under Votes,178
+Douglas,Precinct 07,State Senate,1,DEM,Lupe Preciado-McAlister,914
+Douglas,Precinct 07,State Senate,1,REP,David Brock Smith,1885
+Douglas,Precinct 07,State Senate,1,,Write-ins,16
+Douglas,Precinct 07,State Senate,1,,Over Votes,0
+Douglas,Precinct 07,State Senate,1,,Under Votes,218
+Douglas,Precinct 07,State House,2,DEM,August Warren,946
+Douglas,Precinct 07,State House,2,REP,Virgle J Osborne,1841
+Douglas,Precinct 07,State House,2,,Write-ins,9
+Douglas,Precinct 07,State House,2,,Over Votes,0
+Douglas,Precinct 07,State House,2,,Under Votes,237
+Douglas,Precinct 07,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1621
+Douglas,Precinct 07,"Judge of the Supreme Court, Position 1",,,Write-ins,55
+Douglas,Precinct 07,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 07,"Judge of the Supreme Court, Position 1",,,Under Votes,1357
+Douglas,Precinct 07,"Judge of the Supreme Court, Position 7",,,Bronson D James,1636
+Douglas,Precinct 07,"Judge of the Supreme Court, Position 7",,,Write-ins,41
+Douglas,Precinct 07,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 07,"Judge of the Supreme Court, Position 7",,,Under Votes,1356
+Douglas,Precinct 07,Douglas County Sheriff,,,John W Hanlin,2100
+Douglas,Precinct 07,Douglas County Sheriff,,,Write-ins,69
+Douglas,Precinct 07,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 07,Douglas County Sheriff,,,Under Votes,864
+Douglas,Precinct 07,Douglas County Clerk,,,Dan Loomis,1540
+Douglas,Precinct 07,Douglas County Clerk,,,Samantha Frost,826
+Douglas,Precinct 07,Douglas County Clerk,,,Write-ins,13
+Douglas,Precinct 07,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 07,Douglas County Clerk,,,Under Votes,654
+Douglas,Precinct 07,Douglas County Treasurer,,,Samuel W Lee III,1718
+Douglas,Precinct 07,Douglas County Treasurer,,,Write-ins,35
+Douglas,Precinct 07,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 07,Douglas County Treasurer,,,Under Votes,1280
+Douglas,Precinct 07,"City of Roseburg, Mayor",,,Larry Rich,1810
+Douglas,Precinct 07,"City of Roseburg, Mayor",,,Write-ins,96
+Douglas,Precinct 07,"City of Roseburg, Mayor",,,Over Votes,0
+Douglas,Precinct 07,"City of Roseburg, Mayor",,,Under Votes,1127
+Douglas,Precinct 07,"City of Roseburg, Councilor, Ward 2, Position 2",,,Steve Hammerson,714
+Douglas,Precinct 07,"City of Roseburg, Councilor, Ward 2, Position 2",,,Andrea Zielinski,1535
+Douglas,Precinct 07,"City of Roseburg, Councilor, Ward 2, Position 2",,,Write-ins,17
+Douglas,Precinct 07,"City of Roseburg, Councilor, Ward 2, Position 2",,,Over Votes,0
+Douglas,Precinct 07,"City of Roseburg, Councilor, Ward 2, Position 2",,,Under Votes,767
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 1",,,Write-ins,175
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 1",,,Under Votes,2858
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1715
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 2",,,Write-ins,31
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 07,Douglas County Clerk,,, Under Votes,1287
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1629
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 3",,,Write-ins,25
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 07,"Douglas SWCD, Director, Zone 3",,,Under Votes,1379
+Douglas,Precinct 07,"Douglas SWCD, Director, At Large 2",,,Write-ins,136
+Douglas,Precinct 07,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 07,"Douglas SWCD, Director, At Large 2",,,Under Votes,2897
+Douglas,Precinct 07,Question 10-115,,,Yes,1406
+Douglas,Precinct 07,Question 10-115,,,No,1374
+Douglas,Precinct 07,Question 10-115,,,Over Votes,0
+Douglas,Precinct 07,Question 10-115,,,Under Votes,253
+Douglas,Precinct 07,Question 10-116,,,Yes,1049
+Douglas,Precinct 07,Question 10-116,,,No,1711
+Douglas,Precinct 07,Question 10-116,,,Over Votes,1
+Douglas,Precinct 07,Question 10-116,,,Under Votes,272
+Douglas,Precinct 07,Question 10-117,,,Yes,798
+Douglas,Precinct 07,Question 10-117,,,No,2028
+Douglas,Precinct 07,Question 10-117,,,Over Votes,0
+Douglas,Precinct 07,Question 10-117,,,Under Votes,207
+Douglas,Precinct 07,Question 10-118,,,Yes,423
+Douglas,Precinct 07,Question 10-118,,,No,2450
+Douglas,Precinct 07,Question 10-118,,,Over Votes,0
+Douglas,Precinct 07,Question 10-118,,,Under Votes,160
+Douglas,Precinct 07,Question 10-119,,,Yes,1198
+Douglas,Precinct 07,Question 10-119,,,No,1524
+Douglas,Precinct 07,Question 10-119,,,Over Votes,0
+Douglas,Precinct 07,Question 10-119,,,Under Votes,311
+Douglas,Precinct 08,Registered Voters,,,,5452
+Douglas,Precinct 08,Ballots Cast,,,,3657
+Douglas,Precinct 08,President,,WTP,Robert F. Kennedy Jr.,50
+Douglas,Precinct 08,President,,PRO,Cornel West,2
+Douglas,Precinct 08,President,,LBT,Chase Oliver,6
+Douglas,Precinct 08,President,,CON,Randall Terry,1
+Douglas,Precinct 08,President,,REP,Donald J. Trump,2593
+Douglas,Precinct 08,President,,PGP,Jill Stein,20
+Douglas,Precinct 08,President,,DEM,Kamala D. Harris,927
+Douglas,Precinct 08,President,,,Write-ins,20
+Douglas,Precinct 08,President,,,Over Votes,0
+Douglas,Precinct 08,President,,,Under Votes,38
+Douglas,Precinct 08,U.S. House,4,LBT,Dan Bahlen,78
+Douglas,Precinct 08,U.S. House,4,PGP,Justin Filip,60
+Douglas,Precinct 08,U.S. House,4,DEM,Val Hoyle,899
+Douglas,Precinct 08,U.S. House,4,REP,Monique DeSpain,2455
+Douglas,Precinct 08,U.S. House,4,,Write-ins,3
+Douglas,Precinct 08,U.S. House,4,,Over Votes,0
+Douglas,Precinct 08,U.S. House,4,,Under Votes,162
+Douglas,Precinct 08,Secretary of State,,PGP,Nathalie Paravicini,63
+Douglas,Precinct 08,Secretary of State,,REP,Dennis Linthicum,2400
+Douglas,Precinct 08,Secretary of State,,DEM,Tobias Read,993
+Douglas,Precinct 08,Secretary of State,,,Write-ins,6
+Douglas,Precinct 08,Secretary of State,,,Over Votes,0
+Douglas,Precinct 08,Secretary of State,,,Under Votes,189
+Douglas,Precinct 08,State Treasurer,,WFP,Mary King,180
+Douglas,Precinct 08,State Treasurer,,REP,Brian J Boquist,2441
+Douglas,Precinct 08,State Treasurer,,DEM,Elizabeth Steiner,797
+Douglas,Precinct 08,State Treasurer,,,Write-ins,5
+Douglas,Precinct 08,State Treasurer,,,Over Votes,0
+Douglas,Precinct 08,State Treasurer,,,Under Votes,228
+Douglas,Precinct 08,Attorney General,,REP,Will Lathrop,2498
+Douglas,Precinct 08,Attorney General,,DEM,Dan Rayfield,928
+Douglas,Precinct 08,Attorney General,,,Write-ins,5
+Douglas,Precinct 08,Attorney General,,,Over Votes,0
+Douglas,Precinct 08,Attorney General,,,Under Votes,220
+Douglas,Precinct 08,State Senate,1,DEM,Lupe Preciado-McAlister,798
+Douglas,Precinct 08,State Senate,1,REP,David Brock Smith,2595
+Douglas,Precinct 08,State Senate,1,,Write-ins,10
+Douglas,Precinct 08,State Senate,1,,Over Votes,0
+Douglas,Precinct 08,State Senate,1,,Under Votes,248
+Douglas,Precinct 08,State House,1,REP,Court Boice,2491
+Douglas,Precinct 08,State House,1,DEM,Bret Cecil,891
+Douglas,Precinct 08,State House,1,,Write-ins,10
+Douglas,Precinct 08,State House,1,,Over Votes,0
+Douglas,Precinct 08,State House,1,,Under Votes,259
+Douglas,Precinct 08,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,2073
+Douglas,Precinct 08,"Judge of the Supreme Court, Position 1",,,Write-ins,44
+Douglas,Precinct 08,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 08,"Judge of the Supreme Court, Position 1",,,Under Votes,1534
+Douglas,Precinct 08,"Judge of the Supreme Court, Position 7",,,Bronson D James,2094
+Douglas,Precinct 08,"Judge of the Supreme Court, Position 7",,,Write-ins,45
+Douglas,Precinct 08,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 08,"Judge of the Supreme Court, Position 7",,,Under Votes,1512
+Douglas,Precinct 08,Douglas County Sheriff,,,John W Hanlin,2798
+Douglas,Precinct 08,Douglas County Sheriff,,,Write-ins,90
+Douglas,Precinct 08,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 08,Douglas County Sheriff,,,Under Votes,763
+Douglas,Precinct 08,Douglas County Clerk,,,Dan Loomis,1710
+Douglas,Precinct 08,Douglas County Clerk,,,Samantha Frost,1106
+Douglas,Precinct 08,Douglas County Clerk,,,Write-ins,11
+Douglas,Precinct 08,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 08,Douglas County Clerk,,,Under Votes,824
+Douglas,Precinct 08,Douglas County Treasurer,,,Samuel W Lee III,2168
+Douglas,Precinct 08,Douglas County Treasurer,,,Write-ins,33
+Douglas,Precinct 08,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 08,Douglas County Treasurer,,,Under Votes,1450
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 1",,,Write-ins,247
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 1",,,Under Votes,3404
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,2125
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 2",,,Write-ins,32
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 3",,, Under Votes,1494
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 3",,,David A Briggs,2106
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 3",,,Write-ins,33
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 08,"Douglas SWCD, Director, Zone 3",,,Under Votes,1512
+Douglas,Precinct 08,"Douglas SWCD, Director, At Large 2",,,Write-ins,229
+Douglas,Precinct 08,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 08,"Douglas SWCD, Director, At Large 2",,,Under Votes,3422
+Douglas,Precinct 08,Question 10-115,,,Yes,1686
+Douglas,Precinct 08,Question 10-115,,,No,1700
+Douglas,Precinct 08,Question 10-115,,,Over Votes,1
+Douglas,Precinct 08,Question 10-115,,,Under Votes,264
+Douglas,Precinct 08,Question 10-116,,,Yes,1132
+Douglas,Precinct 08,Question 10-116,,,No,2209
+Douglas,Precinct 08,Question 10-116,,,Over Votes,0
+Douglas,Precinct 08,Question 10-116,,,Under Votes,310
+Douglas,Precinct 08,Question 10-117,,,Yes,883
+Douglas,Precinct 08,Question 10-117,,,No,2517
+Douglas,Precinct 08,Question 10-117,,,Over Votes,0
+Douglas,Precinct 08,Question 10-117,,,Under Votes,251
+Douglas,Precinct 08,Question 10-118,,,Yes,501
+Douglas,Precinct 08,Question 10-118,,,No,2964
+Douglas,Precinct 08,Question 10-118,,,Over Votes,0
+Douglas,Precinct 08,Question 10-118,,,Under Votes,186
+Douglas,Precinct 08,Question 10-119,,,Yes,1306
+Douglas,Precinct 08,Question 10-119,,,No,2002
+Douglas,Precinct 08,Question 10-119,,,Over Votes,0
+Douglas,Precinct 08,Question 10-119,,,Under Votes,343
+Douglas,Precinct 09,President,,WTP,Robert F. Kennedy Jr.,42
+Douglas,Precinct 09,President,,PRO,Cornel West,1
+Douglas,Precinct 09,President,,LBT,Chase Oliver,11
+Douglas,Precinct 09,President,,CON,Randall Terry,0
+Douglas,Precinct 09,President,,REP,Donald J. Trump,1621
+Douglas,Precinct 09,President,,PGP,Jill Stein,16
+Douglas,Precinct 09,President,,DEM,Kamala D. Harris,1120
+Douglas,Precinct 09,President,,,Write-ins,14
+Douglas,Precinct 09,President,,,Over Votes,1
+Douglas,Precinct 09,President,,,Under Votes,44
+Douglas,Precinct 09,U.S. House,4,LBT,Dan Bahlen,49
+Douglas,Precinct 09,U.S. House,4,PGP,Justin Filip,62
+Douglas,Precinct 09,U.S. House,4,DEM,Val Hoyle,1036
+Douglas,Precinct 09,U.S. House,4,REP,Monique DeSpain,1611
+Douglas,Precinct 09,U.S. House,4,,Write-ins,5
+Douglas,Precinct 09,U.S. House,4,,Over Votes,1
+Douglas,Precinct 09,U.S. House,4,,Under Votes,106
+Douglas,Precinct 09,Secretary of State,,PGP,Nathalie Paravicini,79
+Douglas,Precinct 09,Secretary of State,,REP,Dennis Linthicum,1555
+Douglas,Precinct 09,Secretary of State,,DEM,Tobias Read,1089
+Douglas,Precinct 09,Secretary of State,,,Write-ins,3
+Douglas,Precinct 09,Secretary of State,,,Over Votes,0
+Douglas,Precinct 09,Secretary of State,,,Under Votes,137
+Douglas,Precinct 09,State Treasurer,,WFP,Mary King,169
+Douglas,Precinct 09,State Treasurer,,REP,Brian J Boquist,1606
+Douglas,Precinct 09,State Treasurer,,DEM,Elizabeth Steiner,922
+Douglas,Precinct 09,State Treasurer,,,Write-ins,1
+Douglas,Precinct 09,State Treasurer,,,Over Votes,0
+Douglas,Precinct 09,State Treasurer,,,Under Votes,165
+Douglas,Precinct 09,Attorney General,,REP,Will Lathrop,1669
+Douglas,Precinct 09,Attorney General,,DEM,Dan Rayfield,1041
+Douglas,Precinct 09,Attorney General,,,Write-ins,5
+Douglas,Precinct 09,Attorney General,,,Over Votes,0
+Douglas,Precinct 09,Attorney General,,,Under Votes,148
+Douglas,Precinct 09,State Senate,1,DEM,Lupe Preciado-McAlister,916
+Douglas,Precinct 09,State Senate,1,REP,David Brock Smith,1738
+Douglas,Precinct 09,State Senate,1,,Write-ins,15
+Douglas,Precinct 09,State Senate,1,,Under Votes,193
+Douglas,Precinct 09,State House,2,DEM,August Warren,957
+Douglas,Precinct 09,State House,2,REP,Virgle J Osborne,1699
+Douglas,Precinct 09,State House,2,,Write-ins,11
+Douglas,Precinct 09,State House,2,,Over Votes,1
+Douglas,Precinct 09,State House,2,,Under Votes,195
+Douglas,Precinct 09,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1571
+Douglas,Precinct 09,"Judge of the Supreme Court, Position 1",,,Write-ins,26
+Douglas,Precinct 09,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 09,"Judge of the Supreme Court, Position 1",,,Under Votes,1266
+Douglas,Precinct 09,"Judge of the Supreme Court, Position 7",,,Bronson D James,1566
+Douglas,Precinct 09,"Judge of the Supreme Court, Position 7",,,Write-ins,24
+Douglas,Precinct 09,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 09,"Judge of the Supreme Court, Position 7",,,Under Votes,1273
+Douglas,Precinct 09,Douglas County Sheriff,,,John W Hanlin,1980
+Douglas,Precinct 09,Douglas County Sheriff,,,Write-ins,95
+Douglas,Precinct 09,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 09,Douglas County Sheriff,,,Under Votes,788
+Douglas,Precinct 09,Douglas County Clerk,,,Dan Loomis,1467
+Douglas,Precinct 09,Douglas County Clerk,,,Samantha Frost,784
+Douglas,Precinct 09,Douglas County Clerk,,,Write-ins,5
+Douglas,Precinct 09,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 09,Douglas County Clerk,,,Under Votes,607
+Douglas,Precinct 09,Douglas County Treasurer,,,Samuel W Lee III,1619
+Douglas,Precinct 09,Douglas County Treasurer,,,Write-ins,26
+Douglas,Precinct 09,Douglas County Treasurer,,,Under Votes,1218
+Douglas,Precinct 09,"City of Roseburg, Mayor",,,Larry Rich,1672
+Douglas,Precinct 09,"City of Roseburg, Mayor",,,Write-ins,114
+Douglas,Precinct 09,"City of Roseburg, Mayor",,,Over Votes,0
+Douglas,Precinct 09,Douglas County Clerk,,, Under Votes,1077
+Douglas,Precinct 09,"City of Roseburg, Councilor, Ward 3, Position 2",,,Tom Michalek,1038
+Douglas,Precinct 09,"City of Roseburg, Councilor, Ward 3, Position 2",,,Sam Starns,919
+Douglas,Precinct 09,"City of Roseburg, Councilor, Ward 3, Position 2",,,Write-ins,20
+Douglas,Precinct 09,"City of Roseburg, Councilor, Ward 3, Position 2",,,Over Votes,0
+Douglas,Precinct 09,"City of Roseburg, Councilor, Ward 3, Position 2",,,Under Votes,886
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 1",,,Write-ins,202
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 1",,,Under Votes,2661
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1589
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 2",,,Write-ins,31
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 2",,,Under Votes,1243
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1524
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 3",,,Write-ins,25
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 09,"Douglas SWCD, Director, Zone 3",,,Under Votes,1314
+Douglas,Precinct 09,"Douglas SWCD, Director, At Large 2",,,Write-ins,165
+Douglas,Precinct 09,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 09,"Douglas SWCD, Director, At Large 2",,,Under Votes,2698
+Douglas,Precinct 09,Question 10-115,,,Yes,1426
+Douglas,Precinct 09,Question 10-115,,,No,1233
+Douglas,Precinct 09,Question 10-115,,,Over Votes,0
+Douglas,Precinct 09,Question 10-115,,,Under Votes,204
+Douglas,Precinct 09,Question 10-116,,,Yes,1113
+Douglas,Precinct 09,Question 10-116,,,No,1497
+Douglas,Precinct 09,Question 10-116,,,Over Votes,0
+Douglas,Precinct 09,Question 10-116,,,Under Votes,253
+Douglas,Precinct 09,Question 10-117,,,Yes,858
+Douglas,Precinct 09,Question 10-117,,,No,1837
+Douglas,Precinct 09,Question 10-117,,,Over Votes,1
+Douglas,Precinct 09,Question 10-117,,,Under Votes,167
+Douglas,Precinct 09,Question 10-118,,,Yes,441
+Douglas,Precinct 09,Question 10-118,,,No,2259
+Douglas,Precinct 09,Question 10-118,,,Over Votes,0
+Douglas,Precinct 09,Question 10-118,,,Under Votes,163
+Douglas,Precinct 09,Question 10-119,,,Yes,1285
+Douglas,Precinct 09,Question 10-119,,,No,1331
+Douglas,Precinct 09,Question 10-119,,,Over Votes,0
+Douglas,Precinct 09,Question 10-119,,,Under Votes,247
+Douglas,Precinct 10,Registered Voters,,,,160
+Douglas,Precinct 10,Ballots Cast,,,,132
+Douglas,Precinct 10,President,,WTP,Robert F. Kennedy Jr.,2
+Douglas,Precinct 10,President,,PRO,Cornel West,0
+Douglas,Precinct 10,President,,LBT,Chase Oliver,0
+Douglas,Precinct 10,President,,CON,Randall Terry,0
+Douglas,Precinct 10,President,,REP,Donald J. Trump,62
+Douglas,Precinct 10,President,,PGP,Jill Stein,1
+Douglas,Precinct 10,President,,DEM,Kamala D. Harris,63
+Douglas,Precinct 10,President,,,Write-ins,1
+Douglas,Precinct 10,President,,,Over Votes,0
+Douglas,Precinct 10,President,,,Under Votes,3
+Douglas,Precinct 10,U.S. House,4,LBT,Dan Bahlen,2
+Douglas,Precinct 10,U.S. House,4,PGP,Justin Filip,2
+Douglas,Precinct 10,U.S. House,4,DEM,Val Hoyle,60
+Douglas,Precinct 10,U.S. House,4,REP,Monique DeSpain,64
+Douglas,Precinct 10,U.S. House,4,,Write-ins,1
+Douglas,Precinct 10,U.S. House,4,,Over Votes,0
+Douglas,Precinct 10,U.S. House,4,,Under Votes,3
+Douglas,Precinct 10,Secretary of State,,PGP,Nathalie Paravicini,1
+Douglas,Precinct 10,Secretary of State,,REP,Dennis Linthicum,63
+Douglas,Precinct 10,Secretary of State,,DEM,Tobias Read,64
+Douglas,Precinct 10,Secretary of State,,,Write-ins,0
+Douglas,Precinct 10,Secretary of State,,,Over Votes,0
+Douglas,Precinct 10,Secretary of State,,,Under Votes,4
+Douglas,Precinct 10,State Treasurer,,WFP,Mary King,7
+Douglas,Precinct 10,State Treasurer,,REP,Brian J Boquist,61
+Douglas,Precinct 10,State Treasurer,,DEM,Elizabeth Steiner,58
+Douglas,Precinct 10,State Treasurer,,,Write-ins,0
+Douglas,Precinct 10,State Treasurer,,,Over Votes,0
+Douglas,Precinct 10,State Treasurer,,,Under Votes,6
+Douglas,Precinct 10,Attorney General,,REP,Will Lathrop,65
+Douglas,Precinct 10,Attorney General,,DEM,Dan Rayfield,62
+Douglas,Precinct 10,Attorney General,,,Write-ins,0
+Douglas,Precinct 10,Attorney General,,,Over Votes,0
+Douglas,Precinct 10,Attorney General,,,Under Votes,5
+Douglas,Precinct 10,State Senate,1,DEM,Lupe Preciado-McAlister,55
+Douglas,Precinct 10,State Senate,1,REP,David Brock Smith,73
+Douglas,Precinct 10,State Senate,1,,Write-ins,0
+Douglas,Precinct 10,State Senate,1,,Over Votes,0
+Douglas,Precinct 10,State Senate,1,,Under Votes,4
+Douglas,Precinct 10,State House,2,DEM,August Warren,60
+Douglas,Precinct 10,State House,2,REP,Virgle J Osborne,66
+Douglas,Precinct 10,State House,2,,Write-ins,0
+Douglas,Precinct 10,State House,2,,Over Votes,0
+Douglas,Precinct 10,State House,2,,Under Votes,6
+Douglas,Precinct 10,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,94
+Douglas,Precinct 10,"Judge of the Supreme Court, Position 1",,,Write-ins,1
+Douglas,Precinct 10,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 10,"Judge of the Supreme Court, Position 1",,,Under Votes,37
+Douglas,Precinct 10,"Judge of the Supreme Court, Position 7",,,Bronson D James,92
+Douglas,Precinct 10,"Judge of the Supreme Court, Position 7",,,Write-ins,0
+Douglas,Precinct 10,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 10,"Judge of the Supreme Court, Position 7",,,Under Votes,40
+Douglas,Precinct 10,Douglas County Sheriff,,,John W Hanlin,103
+Douglas,Precinct 10,Douglas County Sheriff,,,Write-ins,2
+Douglas,Precinct 10,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 10,Douglas County Sheriff,,,Under Votes,27
+Douglas,Precinct 10,Douglas County Clerk,,,Dan Loomis,58
+Douglas,Precinct 10,Douglas County Clerk,,,Samantha Frost,49
+Douglas,Precinct 10,Douglas County Clerk,,,Write-ins,0
+Douglas,Precinct 10,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 10,Douglas County Clerk,,,Under Votes,25
+Douglas,Precinct 10,Douglas County Treasurer,,,Samuel W Lee III,91
+Douglas,Precinct 10,Douglas County Treasurer,,,Write-ins,1
+Douglas,Precinct 10,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 10,Douglas County Treasurer,,,Under Votes,40
+Douglas,Precinct 10,"City of Elkton, Councilor",,,Daniel P Burke,100
+Douglas,Precinct 10,"City of Elkton, Councilor",,,Dan Shepherd,93
+Douglas,Precinct 10,"City of Elkton, Councilor",,,Over Votes,0
+Douglas,Precinct 10,"City of Elkton, Councilor",,,Under Votes,64
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 1",,,Thomas Black,96
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 1",,,Write-ins,1
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 1",,,Under Votes,35
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 2",,,Write-ins,9
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 2",,,Under Votes,123
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 3",,,Write-ins,8
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 10,"Umpqua SWCD, Director, Zone 3",,,Under Votes,124
+Douglas,Precinct 10,"Umpqua SWCD, Director, At Large 1",,,Nathan E Baumgartner,90
+Douglas,Precinct 10,"Umpqua SWCD, Director, At Large 1",,,Write-ins,1
+Douglas,Precinct 10,"Umpqua SWCD, Director, At Large 1",,,Over Votes,0
+Douglas,Precinct 10,"Umpqua SWCD, Director, At Large 1",,,Under Votes,41
+Douglas,Precinct 10,"Umpqua SWCD, Director, At Large 2",,,Kathryn E Baumgartner,89
+Douglas,Precinct 10,"Umpqua SWCD, Director, At Large 2",,,Write-ins,1
+Douglas,Precinct 10,"Umpqua SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 10,"Umpqua SWCD, Director, At Large 2",,,Under Votes,42
+Douglas,Precinct 10,Question 10-115,,,Yes,63
+Douglas,Precinct 10,Question 10-115,,,No,64
+Douglas,Precinct 10,Question 10-115,,,Over Votes,0
+Douglas,Precinct 10,Question 10-115,,,Under Votes,5
+Douglas,Precinct 10,Question 10-116,,,Yes,44
+Douglas,Precinct 10,Question 10-116,,,No,83
+Douglas,Precinct 10,Question 10-116,,,Over Votes,0
+Douglas,Precinct 10,Question 10-116,,,Under Votes,5
+Douglas,Precinct 10,Question 10-117,,,Yes,35
+Douglas,Precinct 10,Question 10-117,,,No,92
+Douglas,Precinct 10,Question 10-117,,,Over Votes,0
+Douglas,Precinct 10,Question 10-117,,,Under Votes,5
+Douglas,Precinct 10,Question 10-118,,,Yes,19
+Douglas,Precinct 10,Question 10-118,,,No,108
+Douglas,Precinct 10,Question 10-118,,,Over Votes,0
+Douglas,Precinct 10,Question 10-118,,,Under Votes,5
+Douglas,Precinct 10,Question 10-119,,,Yes,54
+Douglas,Precinct 10,Question 10-119,,,No,68
+Douglas,Precinct 10,Question 10-119,,,Over Votes,0
+Douglas,Precinct 10,Question 10-119,,,Under Votes,10
+Douglas,Precinct 11,Registered Voters,,,,808
+Douglas,Precinct 11,Ballots Cast,,,,503
+Douglas,Precinct 11,President,,WTP,Robert F. Kennedy Jr.,10
+Douglas,Precinct 11,President,,PRO,Cornel West,0
+Douglas,Precinct 11,President,,LBT,Chase Oliver,4
+Douglas,Precinct 11,President,,CON,Randall Terry,0
+Douglas,Precinct 11,President,,REP,Donald J. Trump,333
+Douglas,Precinct 11,President,,PGP,Jill Stein,2
+Douglas,Precinct 11,President,,DEM,Kamala D. Harris,150
+Douglas,Precinct 11,President,,,Write-ins,1
+Douglas,Precinct 11,President,,,Over Votes,0
+Douglas,Precinct 11,President,,,Under Votes,3
+Douglas,Precinct 11,U.S. House,4,LBT,Dan Bahlen,12
+Douglas,Precinct 11,U.S. House,4,PGP,Justin Filip,7
+Douglas,Precinct 11,U.S. House,4,DEM,Val Hoyle,144
+Douglas,Precinct 11,U.S. House,4,REP,Monique DeSpain,322
+Douglas,Precinct 11,U.S. House,4,,Write-ins,1
+Douglas,Precinct 11,U.S. House,4,,Over Votes,0
+Douglas,Precinct 11,U.S. House,4,,Under Votes,17
+Douglas,Precinct 11,Secretary of State,,PGP,Nathalie Paravicini,9
+Douglas,Precinct 11,Secretary of State,,REP,Dennis Linthicum,324
+Douglas,Precinct 11,Secretary of State,,DEM,Tobias Read,145
+Douglas,Precinct 11,Secretary of State,,,Write-ins,1
+Douglas,Precinct 11,Secretary of State,,,Over Votes,0
+Douglas,Precinct 11,Secretary of State,,,Under Votes,22
+Douglas,Precinct 11,State Treasurer,,WFP,Mary King,20
+Douglas,Precinct 11,State Treasurer,,REP,Brian J Boquist,321
+Douglas,Precinct 11,State Treasurer,,DEM,Elizabeth Steiner,131
+Douglas,Precinct 11,State Treasurer,,,Write-ins,1
+Douglas,Precinct 11,State Treasurer,,,Over Votes,0
+Douglas,Precinct 11,State Treasurer,,,Under Votes,28
+Douglas,Precinct 11,Attorney General,,REP,Will Lathrop,327
+Douglas,Precinct 11,Attorney General,,DEM,Dan Rayfield,151
+Douglas,Precinct 11,Attorney General,,,Write-ins,2
+Douglas,Precinct 11,Attorney General,,,Over Votes,0
+Douglas,Precinct 11,Attorney General,,,Under Votes,21
+Douglas,Precinct 11,State Senate,1,DEM,Lupe Preciado-McAlister,129
+Douglas,Precinct 11,State Senate,1,REP,David Brock Smith,338
+Douglas,Precinct 11,State Senate,1,,Write-ins,5
+Douglas,Precinct 11,State Senate,1,,Over Votes,0
+Douglas,Precinct 11,State Senate,1,,Under Votes,29
+Douglas,Precinct 11,State House,2,DEM,August Warren,139
+Douglas,Precinct 11,State House,2,REP,Virgle J Osborne,329
+Douglas,Precinct 11,State House,2,,Write-ins,2
+Douglas,Precinct 11,State House,2,,Over Votes,0
+Douglas,Precinct 11,State House,2,,Under Votes,31
+Douglas,Precinct 11,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,279
+Douglas,Precinct 11,"Judge of the Supreme Court, Position 1",,,Write-ins,6
+Douglas,Precinct 11,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 11,"Judge of the Supreme Court, Position 1",,,Under Votes,216
+Douglas,Precinct 11,"Judge of the Supreme Court, Position 7",,,Bronson D James,284
+Douglas,Precinct 11,"Judge of the Supreme Court, Position 7",,,Write-ins,5
+Douglas,Precinct 11,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 11,"Judge of the Supreme Court, Position 7",,,Under Votes,212
+Douglas,Precinct 11,Douglas County Sheriff,,,John W Hanlin,349
+Douglas,Precinct 11,Douglas County Sheriff,,,Write-ins,13
+Douglas,Precinct 11,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 11,Douglas County Sheriff,,,Under Votes,139
+Douglas,Precinct 11,Douglas County Clerk,,,Dan Loomis,210
+Douglas,Precinct 11,Douglas County Clerk,,,Samantha Frost,147
+Douglas,Precinct 11,Douglas County Clerk,,,Write-ins,3
+Douglas,Precinct 11,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 11,Douglas County Clerk,,,Under Votes,141
+Douglas,Precinct 11,Douglas County Treasurer,,,Samuel W Lee III,282
+Douglas,Precinct 11,Douglas County Treasurer,,,Write-ins,3
+Douglas,Precinct 11,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 11,Douglas County Treasurer,,,Under Votes,216
+Douglas,Precinct 11,"City of Drain, Mayor",,,Erin Sparhawk,303
+Douglas,Precinct 11,"City of Drain, Mayor",,,Write-ins,54
+Douglas,Precinct 11,"City of Drain, Mayor",,,Over Votes,0
+Douglas,Precinct 11,"City of Drain, Mayor",,,Under Votes,144
+Douglas,Precinct 11,"City of Drain, Councilor, Position 1",,,Melanie M Lymath,322
+Douglas,Precinct 11,"City of Drain, Councilor, Position 1",,,Write-ins,16
+Douglas,Precinct 11,"City of Drain, Councilor, Position 1",,,Over Votes,0
+Douglas,Precinct 11,"City of Drain, Councilor, Position 1",,,Under Votes,163
+Douglas,Precinct 11,"City of Drain, Councilor, Position 3",,,Katie Decker,306
+Douglas,Precinct 11,"City of Drain, Councilor, Position 3",,,Write-ins,31
+Douglas,Precinct 11,"City of Drain, Councilor, Position 3",,,Over Votes,0
+Douglas,Precinct 11,"City of Drain, Councilor, Position 3",,,Under Votes,164
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 1",,,Write-ins,44
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 1",,,Under Votes,457
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,292
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 2",,,Write-ins,4
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 2",,,Under Votes,205
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 3",,,David A Briggs,277
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 3",,,Write-ins,5
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 11,"Douglas SWCD, Director, Zone 3",,,Under Votes,219
+Douglas,Precinct 11,"Douglas SWCD, Director, At Large 2",,,Write-ins,28
+Douglas,Precinct 11,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 11,"Douglas SWCD, Director, At Large 2",,,Under Votes,473
+Douglas,Precinct 11,Question 10-115,,,Yes,223
+Douglas,Precinct 11,Question 10-115,,,No,231
+Douglas,Precinct 11,Question 10-115,,,Over Votes,0
+Douglas,Precinct 11,Question 10-115,,,Under Votes,47
+Douglas,Precinct 11,Question 10-116,,,Yes,169
+Douglas,Precinct 11,Question 10-116,,,No,280
+Douglas,Precinct 11,Question 10-116,,,Over Votes,0
+Douglas,Precinct 11,Question 10-116,,,Under Votes,52
+Douglas,Precinct 11,Question 10-117,,,Yes,128
+Douglas,Precinct 11,Question 10-117,,,No,334
+Douglas,Precinct 11,Question 10-117,,,Over Votes,0
+Douglas,Precinct 11,Question 10-117,,,Under Votes,39
+Douglas,Precinct 11,Question 10-118,,,Yes,68
+Douglas,Precinct 11,Question 10-118,,,No,402
+Douglas,Precinct 11,Question 10-118,,,Over Votes,0
+Douglas,Precinct 11,Question 10-118,,,Under Votes,31
+Douglas,Precinct 11,Question 10-119,,,Yes,199
+Douglas,Precinct 11,Question 10-119,,,No,253
+Douglas,Precinct 11,Question 10-119,,,Over Votes,0
+Douglas,Precinct 11,Question 10-119,,,Under Votes,49
+Douglas,Precinct 12,Registered Voters,,,,4808
+Douglas,Precinct 12,Ballots Cast,,,,3849
+Douglas,Precinct 12,President,,WTP,Robert F. Kennedy Jr.,44
+Douglas,Precinct 12,President,,PRO,Cornel West,3
+Douglas,Precinct 12,President,,LBT,Chase Oliver,11
+Douglas,Precinct 12,President,,CON,Randall Terry,2
+Douglas,Precinct 12,President,,REP,Donald J. Trump,2677
+Douglas,Precinct 12,President,,PGP,Jill Stein,12
+Douglas,Precinct 12,President,,DEM,Kamala D. Harris,1021
+Douglas,Precinct 12,President,,,Write-ins,19
+Douglas,Precinct 12,President,,,Over Votes,2
+Douglas,Precinct 12,President,,,Under Votes,58
+Douglas,Precinct 12,U.S. House,4,LBT,Dan Bahlen,42
+Douglas,Precinct 12,U.S. House,4,PGP,Justin Filip,31
+Douglas,Precinct 12,U.S. House,4,DEM,Val Hoyle,949
+Douglas,Precinct 12,U.S. House,4,REP,Monique DeSpain,2693
+Douglas,Precinct 12,U.S. House,4,,Write-ins,6
+Douglas,Precinct 12,U.S. House,4,,Over Votes,0
+Douglas,Precinct 12,U.S. House,4,,Under Votes,128
+Douglas,Precinct 12,Secretary of State,,PGP,Nathalie Paravicini,44
+Douglas,Precinct 12,Secretary of State,,REP,Dennis Linthicum,2629
+Douglas,Precinct 12,Secretary of State,,DEM,Tobias Read,980
+Douglas,Precinct 12,Secretary of State,,,Write-ins,2
+Douglas,Precinct 12,Secretary of State,,,Over Votes,0
+Douglas,Precinct 12,Secretary of State,,,Under Votes,185
+Douglas,Precinct 12,State Treasurer,,WFP,Mary King,109
+Douglas,Precinct 12,State Treasurer,,REP,Brian J Boquist,2656
+Douglas,Precinct 12,State Treasurer,,DEM,Elizabeth Steiner,857
+Douglas,Precinct 12,State Treasurer,,,Write-ins,1
+Douglas,Precinct 12,State Treasurer,,,Over Votes,1
+Douglas,Precinct 12,State Treasurer,,,Under Votes,216
+Douglas,Precinct 12,Attorney General,,REP,Will Lathrop,2720
+Douglas,Precinct 12,Attorney General,,DEM,Dan Rayfield,924
+Douglas,Precinct 12,Attorney General,,,Write-ins,2
+Douglas,Precinct 12,Attorney General,,,Over Votes,0
+Douglas,Precinct 12,Attorney General,,,Under Votes,194
+Douglas,Precinct 12,State Senate,1,DEM,Lupe Preciado-McAlister,816
+Douglas,Precinct 12,State Senate,1,REP,David Brock Smith,2807
+Douglas,Precinct 12,State Senate,1,,Write-ins,8
+Douglas,Precinct 12,State Senate,1,,Over Votes,0
+Douglas,Precinct 12,State Senate,1,,Under Votes,209
+Douglas,Precinct 12,State House,1,REP,Court Boice,2723
+Douglas,Precinct 12,State House,1,DEM,Bret Cecil,890
+Douglas,Precinct 12,State House,1,,Write-ins,3
+Douglas,Precinct 12,State House,1,,Over Votes,0
+Douglas,Precinct 12,State House,1,,Under Votes,224
+Douglas,Precinct 12,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1841
+Douglas,Precinct 12,"Judge of the Supreme Court, Position 1",,,Write-ins,29
+Douglas,Precinct 12,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 12,"Judge of the Supreme Court, Position 1",,,Under Votes,1970
+Douglas,Precinct 12,"Judge of the Supreme Court, Position 7",,,Bronson D James,1854
+Douglas,Precinct 12,"Judge of the Supreme Court, Position 7",,,Write-ins,28
+Douglas,Precinct 12,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 12,"Judge of the Supreme Court, Position 7",,,Under Votes,1958
+Douglas,Precinct 12,Douglas County Sheriff,,,John W Hanlin,2870
+Douglas,Precinct 12,Douglas County Sheriff,,,Write-ins,61
+Douglas,Precinct 12,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 12,Douglas County Sheriff,,,Under Votes,909
+Douglas,Precinct 12,Douglas County Clerk,,,Dan Loomis,1945
+Douglas,Precinct 12,Douglas County Clerk,,,Samantha Frost,974
+Douglas,Precinct 12,Douglas County Clerk,,,Write-ins,11
+Douglas,Precinct 12,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 12,Douglas County Clerk,,,Under Votes,910
+Douglas,Precinct 12,Douglas County Treasurer,,,Samuel W Lee III,2031
+Douglas,Precinct 12,Douglas County Treasurer,,,Write-ins,35
+Douglas,Precinct 12,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 12,Douglas County Treasurer,,,Under Votes,1774
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 1",,,Write-ins,184
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 1",,,Under Votes,3656
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1967
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 2",,,Write-ins,29
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 2",,,Under Votes,1844
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1853
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 3",,,Write-ins,18
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 12,"Douglas SWCD, Director, Zone 3",,,Under Votes,1969
+Douglas,Precinct 12,"Douglas SWCD, Director, At Large 2",,,Write-ins,164
+Douglas,Precinct 12,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 12,"Douglas SWCD, Director, At Large 2",,,Under Votes,3676
+Douglas,Precinct 12,Question 10-115,,,Yes,1543
+Douglas,Precinct 12,Question 10-115,,,No,2076
+Douglas,Precinct 12,Question 10-115,,,Over Votes,0
+Douglas,Precinct 12,Question 10-115,,,Under Votes,221
+Douglas,Precinct 12,Question 10-116,,,Yes,1046
+Douglas,Precinct 12,Question 10-116,,,No,2525
+Douglas,Precinct 12,Question 10-116,,,Over Votes,0
+Douglas,Precinct 12,Question 10-116,,,Under Votes,269
+Douglas,Precinct 12,Question 10-117,,,Yes,748
+Douglas,Precinct 12,Question 10-117,,,No,2871
+Douglas,Precinct 12,Question 10-117,,,Over Votes,0
+Douglas,Precinct 12,Question 10-117,,,Under Votes,221
+Douglas,Precinct 12,Question 10-118,,,Yes,378
+Douglas,Precinct 12,Question 10-118,,,No,3308
+Douglas,Precinct 12,Question 10-118,,,Over Votes,0
+Douglas,Precinct 12,Question 10-118,,,Under Votes,154
+Douglas,Precinct 12,Question 10-119,,,Yes,1185
+Douglas,Precinct 12,Question 10-119,,,No,2343
+Douglas,Precinct 12,Question 10-119,,,Over Votes,0
+Douglas,Precinct 12,Question 10-119,,,Under Votes,312
+Douglas,Precinct 12,Question 10-209,,,Yes,19
+Douglas,Precinct 12,Question 10-209,,,No,2
+Douglas,Precinct 12,Question 10-209,,,Over Votes,0
+Douglas,Precinct 12,Question 10-209,,,Under Votes,0
+Douglas,Precinct 13,Registered Voters,,,,4906
+Douglas,Precinct 13,Ballots Cast,,,,3931
+Douglas,Precinct 13,President,,WTP,Robert F. Kennedy Jr.,45
+Douglas,Precinct 13,President,,PRO,Cornel West,0
+Douglas,Precinct 13,President,,LBT,Chase Oliver,14
+Douglas,Precinct 13,President,,CON,Randall Terry,1
+Douglas,Precinct 13,President,,REP,Donald J. Trump,2672
+Douglas,Precinct 13,President,,PGP,Jill Stein,12
+Douglas,Precinct 13,President,,DEM,Kamala D. Harris,1093
+Douglas,Precinct 13,President,,,Write-ins,33
+Douglas,Precinct 13,President,,,Over Votes,1
+Douglas,Precinct 13,President,,,Under Votes,60
+Douglas,Precinct 13,U.S. House,4,LBT,Dan Bahlen,48
+Douglas,Precinct 13,U.S. House,4,PGP,Justin Filip,42
+Douglas,Precinct 13,U.S. House,4,DEM,Val Hoyle,986
+Douglas,Precinct 13,U.S. House,4,REP,Monique DeSpain,2738
+Douglas,Precinct 13,U.S. House,4,,Write-ins,2
+Douglas,Precinct 13,U.S. House,4,,Over Votes,1
+Douglas,Precinct 13,U.S. House,4,,Under Votes,114
+Douglas,Precinct 13,Secretary of State,,PGP,Nathalie Paravicini,39
+Douglas,Precinct 13,Secretary of State,,REP,Dennis Linthicum,2666
+Douglas,Precinct 13,Secretary of State,,DEM,Tobias Read,1056
+Douglas,Precinct 13,Secretary of State,,,Write-ins,2
+Douglas,Precinct 13,Secretary of State,,,Over Votes,1
+Douglas,Precinct 13,Secretary of State,,,Under Votes,156
+Douglas,Precinct 13,State Treasurer,,WFP,Mary King,133
+Douglas,Precinct 13,State Treasurer,,REP,Brian J Boquist,2678
+Douglas,Precinct 13,State Treasurer,,DEM,Elizabeth Steiner,916
+Douglas,Precinct 13,State Treasurer,,,Write-ins,1
+Douglas,Precinct 13,State Treasurer,,,Over Votes,0
+Douglas,Precinct 13,State Treasurer,,,Under Votes,192
+Douglas,Precinct 13,Attorney General,,REP,Will Lathrop,2744
+Douglas,Precinct 13,Attorney General,,DEM,Dan Rayfield,993
+Douglas,Precinct 13,Attorney General,,,Write-ins,2
+Douglas,Precinct 13,Attorney General,,,Over Votes,0
+Douglas,Precinct 13,Attorney General,,,Under Votes,181
+Douglas,Precinct 13,State Senate,1,DEM,Lupe Preciado-McAlister,869
+Douglas,Precinct 13,State Senate,1,REP,David Brock Smith,2834
+Douglas,Precinct 13,State Senate,1,,Write-ins,9
+Douglas,Precinct 13,State Senate,1,,Over Votes,0
+Douglas,Precinct 13,State Senate,1,,Under Votes,208
+Douglas,Precinct 13,State House,2,DEM,August Warren,883
+Douglas,Precinct 13,State House,2,REP,Virgle J Osborne,2812
+Douglas,Precinct 13,State House,2,,Write-ins,9
+Douglas,Precinct 13,State House,2,,Over Votes,0
+Douglas,Precinct 13,State House,2,,Under Votes,216
+Douglas,Precinct 13,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1954
+Douglas,Precinct 13,"Judge of the Supreme Court, Position 1",,,Write-ins,52
+Douglas,Precinct 13,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 13,"Judge of the Supreme Court, Position 1",,,Under Votes,1914
+Douglas,Precinct 13,"Judge of the Supreme Court, Position 7",,,Bronson D James,1963
+Douglas,Precinct 13,"Judge of the Supreme Court, Position 7",,,Write-ins,48
+Douglas,Precinct 13,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 13,"Judge of the Supreme Court, Position 7",,,Under Votes,1909
+Douglas,Precinct 13,Douglas County Sheriff,,,John W Hanlin,2890
+Douglas,Precinct 13,Douglas County Sheriff,,,Write-ins,73
+Douglas,Precinct 13,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 13,Douglas County Sheriff,,,Under Votes,957
+Douglas,Precinct 13,Douglas County Clerk,,,Dan Loomis,2094
+Douglas,Precinct 13,Douglas County Clerk,,,Samantha Frost,936
+Douglas,Precinct 13,Douglas County Clerk,,,Write-ins,10
+Douglas,Precinct 13,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 13,Douglas County Clerk,,,Under Votes,880
+Douglas,Precinct 13,Douglas County Treasurer,,,Samuel W Lee III,2175
+Douglas,Precinct 13,Douglas County Treasurer,,,Write-ins,25
+Douglas,Precinct 13,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 13,Douglas County Treasurer,,,Under Votes,1720
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 1",,,Write-ins,167
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 1",,,Under Votes,3753
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,2125
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 2",,,Write-ins,18
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 2",,,Over Votes,1
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 2",,,Under Votes,1776
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1984
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 3",,,Write-ins,14
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 3",,,Over Votes,1
+Douglas,Precinct 13,"Douglas SWCD, Director, Zone 3",,,Under Votes,1921
+Douglas,Precinct 13,"Douglas SWCD, Director, At Large 2",,,Write-ins,156
+Douglas,Precinct 13,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 13,"Douglas SWCD, Director, At Large 2",,,Under Votes,3764
+Douglas,Precinct 13,Question 10-115,,,Yes,1598
+Douglas,Precinct 13,Question 10-115,,,No,2107
+Douglas,Precinct 13,Question 10-115,,,Over Votes,0
+Douglas,Precinct 13,Question 10-115,,,Under Votes,215
+Douglas,Precinct 13,Question 10-116,,,Yes,1122
+Douglas,Precinct 13,Question 10-116,,,No,2523
+Douglas,Precinct 13,Question 10-116,,,Under Votes,275
+Douglas,Precinct 13,Question 10-117,,,Yes,763
+Douglas,Precinct 13,Question 10-117,,,No,2936
+Douglas,Precinct 13,Question 10-117,,,Over Votes,0
+Douglas,Precinct 13,Question 10-117,,,Under Votes,221
+Douglas,Precinct 13,Question 10-118,,,Yes,372
+Douglas,Precinct 13,Question 10-118,,,No,3377
+Douglas,Precinct 13,Question 10-118,,,Over Votes,1
+Douglas,Precinct 13,Question 10-118,,,Under Votes,170
+Douglas,Precinct 13,Question 10-119,,,Yes,1183
+Douglas,Precinct 13,Question 10-119,,,No,2382
+Douglas,Precinct 13,Question 10-119,,,Over Votes,1
+Douglas,Precinct 13,Question 10-119,,,Under Votes,354
+Douglas,Precinct 14,Registered Voters,,,,832
+Douglas,Precinct 14,Ballots Cast,,,,549
+Douglas,Precinct 14,President,,WTP,Robert F. Kennedy Jr.,17
+Douglas,Precinct 14,President,,PRO,Cornel West,0
+Douglas,Precinct 14,President,,LBT,Chase Oliver,2
+Douglas,Precinct 14,President,,CON,Randall Terry,0
+Douglas,Precinct 14,President,,REP,Donald J. Trump,380
+Douglas,Precinct 14,President,,PGP,Jill Stein,2
+Douglas,Precinct 14,President,,DEM,Kamala D. Harris,137
+Douglas,Precinct 14,President,,,Write-ins,3
+Douglas,Precinct 14,President,,,Over Votes,0
+Douglas,Precinct 14,President,,,Under Votes,8
+Douglas,Precinct 14,U.S. House,4,LBT,Dan Bahlen,8
+Douglas,Precinct 14,U.S. House,4,PGP,Justin Filip,6
+Douglas,Precinct 14,U.S. House,4,DEM,Val Hoyle,144
+Douglas,Precinct 14,U.S. House,4,REP,Monique DeSpain,371
+Douglas,Precinct 14,U.S. House,4,,Write-ins,2
+Douglas,Precinct 14,U.S. House,4,,Over Votes,0
+Douglas,Precinct 14,U.S. House,4,,Under Votes,18
+Douglas,Precinct 14,Secretary of State,,PGP,Nathalie Paravicini,5
+Douglas,Precinct 14,Secretary of State,,REP,Dennis Linthicum,357
+Douglas,Precinct 14,Secretary of State,,DEM,Tobias Read,163
+Douglas,Precinct 14,Secretary of State,,,Write-ins,2
+Douglas,Precinct 14,Secretary of State,,,Over Votes,0
+Douglas,Precinct 14,Secretary of State,,,Under Votes,21
+Douglas,Precinct 14,State Treasurer,,WFP,Mary King,29
+Douglas,Precinct 14,State Treasurer,,REP,Brian J Boquist,358
+Douglas,Precinct 14,State Treasurer,,DEM,Elizabeth Steiner,135
+Douglas,Precinct 14,State Treasurer,,,Write-ins,1
+Douglas,Precinct 14,State Treasurer,,,Under Votes,25
+Douglas,Precinct 14,Attorney General,,REP,Will Lathrop,366
+Douglas,Precinct 14,Attorney General,,DEM,Dan Rayfield,156
+Douglas,Precinct 14,Attorney General,,,Write-ins,3
+Douglas,Precinct 14,Attorney General,,,Over Votes,0
+Douglas,Precinct 14,Attorney General,,,Under Votes,23
+Douglas,Precinct 14,State Senate,1,DEM,Lupe Preciado-McAlister,129
+Douglas,Precinct 14,State Senate,1,REP,David Brock Smith,389
+Douglas,Precinct 14,State Senate,1,,Write-ins,2
+Douglas,Precinct 14,State Senate,1,,Over Votes,0
+Douglas,Precinct 14,State Senate,1,,Under Votes,28
+Douglas,Precinct 14,State House,2,DEM,August Warren,137
+Douglas,Precinct 14,State House,2,REP,Virgle J Osborne,375
+Douglas,Precinct 14,State House,2,,Write-ins,2
+Douglas,Precinct 14,State House,2,,Over Votes,0
+Douglas,Precinct 14,State House,2,,Under Votes,34
+Douglas,Precinct 14,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,340
+Douglas,Precinct 14,"Judge of the Supreme Court, Position 1",,,Write-ins,10
+Douglas,Precinct 14,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 14,"Judge of the Supreme Court, Position 1",,,Under Votes,198
+Douglas,Precinct 14,"Judge of the Supreme Court, Position 7",,,Bronson D James,328
+Douglas,Precinct 14,"Judge of the Supreme Court, Position 7",,,Write-ins,8
+Douglas,Precinct 14,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 14,"Judge of the Supreme Court, Position 7",,,Under Votes,212
+Douglas,Precinct 14,Douglas County Sheriff,,,John W Hanlin,402
+Douglas,Precinct 14,Douglas County Sheriff,,,Write-ins,5
+Douglas,Precinct 14,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 14,Douglas County Sheriff,,,Under Votes,141
+Douglas,Precinct 14,Douglas County Clerk,,,Dan Loomis,251
+Douglas,Precinct 14,Douglas County Clerk,,,Samantha Frost,169
+Douglas,Precinct 14,Douglas County Clerk,,,Write-ins,8
+Douglas,Precinct 14,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 14,Douglas County Clerk,,,Under Votes,120
+Douglas,Precinct 14,Douglas County Treasurer,,,Samuel W Lee III,325
+Douglas,Precinct 14,Douglas County Treasurer,,,Write-ins,8
+Douglas,Precinct 14,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 14,Douglas County Treasurer,,,Under Votes,215
+Douglas,Precinct 14,"City of Yoncalla, Mayor",,,Kat Wertz,343
+Douglas,Precinct 14,"City of Yoncalla, Mayor",,,Write-ins,39
+Douglas,Precinct 14,"City of Yoncalla, Mayor",,,Over Votes,0
+Douglas,Precinct 14,"City of Yoncalla, Mayor",,,Under Votes,166
+Douglas,Precinct 14,"City of Yoncalla, Councilor, Position 2",,,Bryce Wertz,342
+Douglas,Precinct 14,"City of Yoncalla, Councilor, Position 2",,,Write-ins,20
+Douglas,Precinct 14,"City of Yoncalla, Councilor, Position 2",,,Over Votes,0
+Douglas,Precinct 14,"City of Yoncalla, Councilor, Position 2",,,Under Votes,186
+Douglas,Precinct 14,"City of Yoncalla, Councilor, Position 4",,,Amelia Grabinski,345
+Douglas,Precinct 14,"City of Yoncalla, Councilor, Position 4",,,Write-ins,16
+Douglas,Precinct 14,"City of Yoncalla, Councilor, Position 4",,,Over Votes,0
+Douglas,Precinct 14,"City of Yoncalla, Councilor, Position 4",,,Under Votes,187
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 1",,,Write-ins,46
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 1",,,Under Votes,502
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,332
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 2",,,Write-ins,7
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 2",,,Under Votes,209
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 3",,,David A Briggs,326
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 3",,,Write-ins,8
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 14,"Douglas SWCD, Director, Zone 3",,,Under Votes,214
+Douglas,Precinct 14,"Douglas SWCD, Director, At Large 2",,,Write-ins,42
+Douglas,Precinct 14,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 14,"Douglas SWCD, Director, At Large 2",,,Under Votes,506
+Douglas,Precinct 14,Question 10-115,,,Yes,226
+Douglas,Precinct 14,Question 10-115,,,No,285
+Douglas,Precinct 14,Question 10-115,,,Over Votes,0
+Douglas,Precinct 14,Question 10-115,,,Under Votes,37
+Douglas,Precinct 14,Question 10-116,,,Yes,184
+Douglas,Precinct 14,Question 10-116,,,No,319
+Douglas,Precinct 14,Question 10-116,,,Over Votes,0
+Douglas,Precinct 14,Question 10-116,,,Under Votes,45
+Douglas,Precinct 14,Question 10-117,,,Yes,127
+Douglas,Precinct 14,Question 10-117,,,No,388
+Douglas,Precinct 14,Question 10-117,,,Over Votes,0
+Douglas,Precinct 14,Question 10-117,,,Under Votes,33
+Douglas,Precinct 14,Question 10-118,,,Yes,77
+Douglas,Precinct 14,Question 10-118,,,No,440
+Douglas,Precinct 14,Question 10-118,,,Over Votes,0
+Douglas,Precinct 14,Question 10-118,,,Under Votes,31
+Douglas,Precinct 14,Question 10-119,,,Yes,205
+Douglas,Precinct 14,Question 10-119,,,No,296
+Douglas,Precinct 14,Question 10-119,,,Over Votes,0
+Douglas,Precinct 14,Question 10-119,,,Under Votes,47
+Douglas,Precinct 15,Registered Voters,,,,714
+Douglas,Precinct 15,Ballots Cast,,,,522
+Douglas,Precinct 15,President,,WTP,Robert F. Kennedy Jr.,6
+Douglas,Precinct 15,President,,PRO,Cornel West,0
+Douglas,Precinct 15,President,,LBT,Chase Oliver,0
+Douglas,Precinct 15,President,,CON,Randall Terry,0
+Douglas,Precinct 15,President,,REP,Donald J. Trump,339
+Douglas,Precinct 15,President,,PGP,Jill Stein,4
+Douglas,Precinct 15,President,,DEM,Kamala D. Harris,168
+Douglas,Precinct 15,President,,,Write-ins,1
+Douglas,Precinct 15,President,,,Over Votes,0
+Douglas,Precinct 15,President,,,Under Votes,4
+Douglas,Precinct 15,U.S. House,4,LBT,Dan Bahlen,10
+Douglas,Precinct 15,U.S. House,4,PGP,Justin Filip,2
+Douglas,Precinct 15,U.S. House,4,DEM,Val Hoyle,160
+Douglas,Precinct 15,U.S. House,4,REP,Monique DeSpain,328
+Douglas,Precinct 15,U.S. House,4,,Write-ins,5
+Douglas,Precinct 15,U.S. House,4,,Over Votes,0
+Douglas,Precinct 15,U.S. House,4,,Under Votes,17
+Douglas,Precinct 15,Secretary of State,,PGP,Nathalie Paravicini,5
+Douglas,Precinct 15,Secretary of State,,REP,Dennis Linthicum,305
+Douglas,Precinct 15,Secretary of State,,DEM,Tobias Read,184
+Douglas,Precinct 15,Secretary of State,,,Write-ins,1
+Douglas,Precinct 15,Secretary of State,,,Over Votes,0
+Douglas,Precinct 15,Secretary of State,,,Under Votes,26
+Douglas,Precinct 15,State Treasurer,,WFP,Mary King,27
+Douglas,Precinct 15,State Treasurer,,REP,Brian J Boquist,314
+Douglas,Precinct 15,State Treasurer,,DEM,Elizabeth Steiner,151
+Douglas,Precinct 15,State Treasurer,,,Write-ins,0
+Douglas,Precinct 15,State Treasurer,,,Over Votes,0
+Douglas,Precinct 15,State Treasurer,,,Under Votes,29
+Douglas,Precinct 15,Attorney General,,REP,Will Lathrop,322
+Douglas,Precinct 15,Attorney General,,DEM,Dan Rayfield,171
+Douglas,Precinct 15,Attorney General,,,Write-ins,0
+Douglas,Precinct 15,Attorney General,,,Over Votes,0
+Douglas,Precinct 15,Attorney General,,,Under Votes,28
+Douglas,Precinct 15,State Senate,1,DEM,Lupe Preciado-McAlister,152
+Douglas,Precinct 15,State Senate,1,REP,David Brock Smith,338
+Douglas,Precinct 15,State Senate,1,,Write-ins,0
+Douglas,Precinct 15,State Senate,1,,Over Votes,0
+Douglas,Precinct 15,State Senate,1,,Under Votes,31
+Douglas,Precinct 15,State House,2,DEM,August Warren,156
+Douglas,Precinct 15,State House,2,REP,Virgle J Osborne,333
+Douglas,Precinct 15,State House,2,,Write-ins,2
+Douglas,Precinct 15,State House,2,,Over Votes,1
+Douglas,Precinct 15,State House,2,,Under Votes,29
+Douglas,Precinct 15,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,286
+Douglas,Precinct 15,"Judge of the Supreme Court, Position 1",,,Write-ins,8
+Douglas,Precinct 15,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 15,"Judge of the Supreme Court, Position 1",,,Under Votes,227
+Douglas,Precinct 15,"Judge of the Supreme Court, Position 7",,,Bronson D James,281
+Douglas,Precinct 15,"Judge of the Supreme Court, Position 7",,,Write-ins,9
+Douglas,Precinct 15,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 15,"Judge of the Supreme Court, Position 7",,,Under Votes,231
+Douglas,Precinct 15,Douglas County Sheriff,,,John W Hanlin,356
+Douglas,Precinct 15,Douglas County Sheriff,,,Write-ins,17
+Douglas,Precinct 15,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 15,Douglas County Sheriff,,,Under Votes,148
+Douglas,Precinct 15,Douglas County Clerk,,,Dan Loomis,259
+Douglas,Precinct 15,Douglas County Clerk,,,Samantha Frost,149
+Douglas,Precinct 15,Douglas County Clerk,,,Write-ins,1
+Douglas,Precinct 15,Douglas County Clerk,,,Over Votes,1
+Douglas,Precinct 15,Douglas County Clerk,,,Under Votes,111
+Douglas,Precinct 15,Douglas County Treasurer,,,Samuel W Lee III,292
+Douglas,Precinct 15,Douglas County Treasurer,,,Write-ins,1
+Douglas,Precinct 15,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 15,Douglas County Treasurer,,,Under Votes,228
+Douglas,Precinct 15,"City of Oakland, Mayor",,,Bette Keehley,305
+Douglas,Precinct 15,"City of Oakland, Mayor",,,Write-ins,58
+Douglas,Precinct 15,"City of Oakland, Mayor",,,Over Votes,0
+Douglas,Precinct 15,"City of Oakland, Mayor",,,Under Votes,158
+Douglas,Precinct 15,"City of Oakland, Councilor",,,Betty Tamm,264
+Douglas,Precinct 15,"City of Oakland, Councilor",,,Wayne S Harger,152
+Douglas,Precinct 15,"City of Oakland, Councilor",,,Kent Rochester,266
+Douglas,Precinct 15,"City of Oakland, Councilor",,,Over Votes,0
+Douglas,Precinct 15,"City of Oakland, Councilor",,,Under Votes,338
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 1",,,Write-ins,28
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 1",,,Under Votes,493
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,290
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 2",,,Write-ins,3
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 2",,,Under Votes,228
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 3",,,David A Briggs,278
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 3",,,Write-ins,3
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 15,"Douglas SWCD, Director, Zone 3",,,Under Votes,240
+Douglas,Precinct 15,"Douglas SWCD, Director, At Large 2",,,Write-ins,25
+Douglas,Precinct 15,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 15,"Douglas SWCD, Director, At Large 2",,,Under Votes,496
+Douglas,Precinct 15,Question 10-115,,,Yes,253
+Douglas,Precinct 15,Question 10-115,,,No,234
+Douglas,Precinct 15,Question 10-115,,,Over Votes,0
+Douglas,Precinct 15,Question 10-115,,,Under Votes,34
+Douglas,Precinct 15,Question 10-116,,,Yes,170
+Douglas,Precinct 15,Question 10-116,,,No,311
+Douglas,Precinct 15,Question 10-116,,,Over Votes,0
+Douglas,Precinct 15,Question 10-116,,,Under Votes,40
+Douglas,Precinct 15,Question 10-117,,,Yes,126
+Douglas,Precinct 15,Question 10-117,,,No,367
+Douglas,Precinct 15,Question 10-117,,,Over Votes,0
+Douglas,Precinct 15,Question 10-117,,,Under Votes,28
+Douglas,Precinct 15,Question 10-118,,,Yes,90
+Douglas,Precinct 15,Question 10-118,,,No,414
+Douglas,Precinct 15,Question 10-118,,,Over Votes,0
+Douglas,Precinct 15,Question 10-118,,,Under Votes,17
+Douglas,Precinct 15,Question 10-119,,,Yes,204
+Douglas,Precinct 15,Question 10-119,,,No,286
+Douglas,Precinct 15,Question 10-119,,,Over Votes,0
+Douglas,Precinct 15,Question 10-119,,,Under Votes,31
+Douglas,Precinct 16,Registered Voters,,,,4424
+Douglas,Precinct 16,Ballots Cast,,,,3038
+Douglas,Precinct 16,President,,WTP,Robert F. Kennedy Jr.,46
+Douglas,Precinct 16,President,,PRO,Cornel West,5
+Douglas,Precinct 16,President,,LBT,Chase Oliver,6
+Douglas,Precinct 16,President,,CON,Randall Terry,2
+Douglas,Precinct 16,President,,REP,Donald J. Trump,2215
+Douglas,Precinct 16,President,,PGP,Jill Stein,13
+Douglas,Precinct 16,President,,DEM,Kamala D. Harris,684
+Douglas,Precinct 16,President,,,Write-ins,15
+Douglas,Precinct 16,President,,,Over Votes,0
+Douglas,Precinct 16,President,,,Under Votes,52
+Douglas,Precinct 16,U.S. House,2,REP,Cliff Bentz,2109
+Douglas,Precinct 16,U.S. House,2,CON,Michael Kurt Stettler,111
+Douglas,Precinct 16,U.S. House,2,DEM,Dan Ruby,637
+Douglas,Precinct 16,U.S. House,2,,Write-ins,4
+Douglas,Precinct 16,U.S. House,2,,Over Votes,0
+Douglas,Precinct 16,U.S. House,2,,Under Votes,177
+Douglas,Precinct 16,Secretary of State,,PGP,Nathalie Paravicini,54
+Douglas,Precinct 16,Secretary of State,,REP,Dennis Linthicum,2124
+Douglas,Precinct 16,Secretary of State,,DEM,Tobias Read,691
+Douglas,Precinct 16,Secretary of State,,,Write-ins,8
+Douglas,Precinct 16,Secretary of State,,,Over Votes,0
+Douglas,Precinct 16,Secretary of State,,,Under Votes,160
+Douglas,Precinct 16,State Treasurer,,WFP,Mary King,127
+Douglas,Precinct 16,State Treasurer,,REP,Brian J Boquist,2127
+Douglas,Precinct 16,State Treasurer,,DEM,Elizabeth Steiner,590
+Douglas,Precinct 16,State Treasurer,,,Write-ins,9
+Douglas,Precinct 16,State Treasurer,,,Over Votes,0
+Douglas,Precinct 16,State Treasurer,,,Under Votes,184
+Douglas,Precinct 16,Attorney General,,REP,Will Lathrop,2192
+Douglas,Precinct 16,Attorney General,,DEM,Dan Rayfield,665
+Douglas,Precinct 16,Attorney General,,,Write-ins,5
+Douglas,Precinct 16,Attorney General,,,Over Votes,0
+Douglas,Precinct 16,Attorney General,,,Under Votes,175
+Douglas,Precinct 16,State Senate,1,DEM,Lupe Preciado-McAlister,0
+Douglas,Precinct 16,State Senate,1,REP,David Brock Smith,3
+Douglas,Precinct 16,State Senate,1,,Write-ins,0
+Douglas,Precinct 16,State Senate,1,,Over Votes,0
+Douglas,Precinct 16,State Senate,1,,Under Votes,0
+Douglas,Precinct 16,State Senate,2,DEM,Tracy Thompson,654
+Douglas,Precinct 16,State Senate,2,,Noah Robinson,2185
+Douglas,Precinct 16,State Senate,2,,Write-ins,7
+Douglas,Precinct 16,State Senate,2,,Over Votes,0
+Douglas,Precinct 16,State Senate,2,,Under Votes,188
+Douglas,Precinct 16,State House,1,REP,Court Boice,3
+Douglas,Precinct 16,State House,1,DEM,Bret Cecil,0
+Douglas,Precinct 16,State House,1,,Write-ins,0
+Douglas,Precinct 16,State House,1,,Over Votes,0
+Douglas,Precinct 16,State House,1,,Under Votes,0
+Douglas,Precinct 16,State House,4,DEM,Richard Chasm,732
+Douglas,Precinct 16,State House,4,REP,Alek Skarlatos,2132
+Douglas,Precinct 16,State House,4,,Write-ins,12
+Douglas,Precinct 16,State House,4,,Over Votes,0
+Douglas,Precinct 16,State House,4,,Under Votes,158
+Douglas,Precinct 16,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1546
+Douglas,Precinct 16,"Judge of the Supreme Court, Position 1",,,Write-ins,54
+Douglas,Precinct 16,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 16,"Judge of the Supreme Court, Position 1",,,Under Votes,1437
+Douglas,Precinct 16,"Judge of the Supreme Court, Position 7",,,Bronson D James,1534
+Douglas,Precinct 16,"Judge of the Supreme Court, Position 7",,,Write-ins,55
+Douglas,Precinct 16,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 16,"Judge of the Supreme Court, Position 7",,,Under Votes,1448
+Douglas,Precinct 16,Douglas County Sheriff,,,John W Hanlin,2145
+Douglas,Precinct 16,Douglas County Sheriff,,,Write-ins,71
+Douglas,Precinct 16,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 16,Douglas County Sheriff,,,Under Votes,821
+Douglas,Precinct 16,Douglas County Clerk,,,Dan Loomis,1315
+Douglas,Precinct 16,Douglas County Clerk,,,Samantha Frost,919
+Douglas,Precinct 16,Douglas County Clerk,,,Write-ins,18
+Douglas,Precinct 16,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 16,Douglas County Clerk,,,Under Votes,785
+Douglas,Precinct 16,Douglas County Treasurer,,,Samuel W Lee III,1607
+Douglas,Precinct 16,Douglas County Treasurer,,,Write-ins,35
+Douglas,Precinct 16,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 16,Douglas County Treasurer,,,Under Votes,1395
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 1",,,Write-ins,175
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 1",,,Under Votes,2862
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1534
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 2",,,Write-ins,42
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 2",,,Under Votes,1461
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1622
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 3",,,Write-ins,42
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 16,"Douglas SWCD, Director, Zone 3",,,Under Votes,1373
+Douglas,Precinct 16,"Douglas SWCD, Director, At Large 2",,,Write-ins,173
+Douglas,Precinct 16,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 16,"Douglas SWCD, Director, At Large 2",,,Under Votes,2864
+Douglas,Precinct 16,Question 10-115,,,Yes,1271
+Douglas,Precinct 16,Question 10-115,,,No,1555
+Douglas,Precinct 16,Question 10-115,,,Over Votes,0
+Douglas,Precinct 16,Question 10-115,,,Under Votes,211
+Douglas,Precinct 16,Question 10-116,,,Yes,892
+Douglas,Precinct 16,Question 10-116,,,No,1897
+Douglas,Precinct 16,Question 10-116,,,Over Votes,0
+Douglas,Precinct 16,Question 10-116,,,Under Votes,248
+Douglas,Precinct 16,Question 10-117,,,Yes,657
+Douglas,Precinct 16,Question 10-117,,,No,2187
+Douglas,Precinct 16,Question 10-117,,,Over Votes,0
+Douglas,Precinct 16,Question 10-117,,,Under Votes,193
+Douglas,Precinct 16,Question 10-118,,,Yes,419
+Douglas,Precinct 16,Question 10-118,,,No,2461
+Douglas,Precinct 16,Question 10-118,,,Over Votes,0
+Douglas,Precinct 16,Question 10-118,,,Under Votes,157
+Douglas,Precinct 16,Question 10-119,,,Yes,992
+Douglas,Precinct 16,Question 10-119,,,No,1780
+Douglas,Precinct 16,Question 10-119,,,Over Votes,0
+Douglas,Precinct 16,Question 10-119,,,Under Votes,265
+Douglas,Precinct 16,Question 10-209,,,Yes,322
+Douglas,Precinct 16,Question 10-209,,,No,142
+Douglas,Precinct 16,Question 10-209,,,Over Votes,0
+Douglas,Precinct 16,Question 10-209,,,Under Votes,14
+Douglas,Precinct 17,Registered Voters,,,,6832
+Douglas,Precinct 17,Ballots Cast,,,,4786
+Douglas,Precinct 17,President,,WTP,Robert F. Kennedy Jr.,73
+Douglas,Precinct 17,President,,PRO,Cornel West,1
+Douglas,Precinct 17,President,,LBT,Chase Oliver,15
+Douglas,Precinct 17,President,,CON,Randall Terry,3
+Douglas,Precinct 17,President,,REP,Donald J. Trump,3197
+Douglas,Precinct 17,President,,PGP,Jill Stein,10
+Douglas,Precinct 17,President,,DEM,Kamala D. Harris,1379
+Douglas,Precinct 17,President,,,Write-ins,23
+Douglas,Precinct 17,President,,,Over Votes,1
+Douglas,Precinct 17,President,,,Under Votes,84
+Douglas,Precinct 17,U.S. House,4,LBT,Dan Bahlen,83
+Douglas,Precinct 17,U.S. House,4,PGP,Justin Filip,69
+Douglas,Precinct 17,U.S. House,4,DEM,Val Hoyle,1304
+Douglas,Precinct 17,U.S. House,4,REP,Monique DeSpain,3133
+Douglas,Precinct 17,U.S. House,4,,Write-ins,12
+Douglas,Precinct 17,U.S. House,4,,Under Votes,185
+Douglas,Precinct 17,Secretary of State,,PGP,Nathalie Paravicini,85
+Douglas,Precinct 17,Secretary of State,,REP,Dennis Linthicum,3051
+Douglas,Precinct 17,Secretary of State,,DEM,Tobias Read,1411
+Douglas,Precinct 17,Secretary of State,,,Write-ins,3
+Douglas,Precinct 17,Secretary of State,,,Over Votes,0
+Douglas,Precinct 17,Secretary of State,,,Under Votes,234
+Douglas,Precinct 17,State Treasurer,,WFP,Mary King,241
+Douglas,Precinct 17,State Treasurer,,REP,Brian J Boquist,3095
+Douglas,Precinct 17,State Treasurer,,DEM,Elizabeth Steiner,1170
+Douglas,Precinct 17,State Treasurer,,,Write-ins,3
+Douglas,Precinct 17,State Treasurer,,,Over Votes,0
+Douglas,Precinct 17,State Treasurer,,,Under Votes,275
+Douglas,Precinct 17,Attorney General,,REP,Will Lathrop,3194
+Douglas,Precinct 17,Attorney General,,DEM,Dan Rayfield,1329
+Douglas,Precinct 17,Attorney General,,,Write-ins,5
+Douglas,Precinct 17,Attorney General,,,Over Votes,0
+Douglas,Precinct 17,Attorney General,,,Under Votes,256
+Douglas,Precinct 17,State Senate,1,DEM,Lupe Preciado-McAlister,1156
+Douglas,Precinct 17,State Senate,1,REP,David Brock Smith,3300
+Douglas,Precinct 17,State Senate,1,,Write-ins,8
+Douglas,Precinct 17,State Senate,1,,Over Votes,0
+Douglas,Precinct 17,State Senate,1,,Under Votes,320
+Douglas,Precinct 17,State House,2,DEM,August Warren,1171
+Douglas,Precinct 17,State House,2,REP,Virgle J Osborne,3279
+Douglas,Precinct 17,State House,2,,Write-ins,11
+Douglas,Precinct 17,State House,2,,Over Votes,0
+Douglas,Precinct 17,State House,2,,Under Votes,323
+Douglas,Precinct 17,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,2862
+Douglas,Precinct 17,"Judge of the Supreme Court, Position 1",,,Write-ins,48
+Douglas,Precinct 17,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 17,"Judge of the Supreme Court, Position 1",,,Under Votes,1874
+Douglas,Precinct 17,"Judge of the Supreme Court, Position 7",,,Bronson D James,2880
+Douglas,Precinct 17,"Judge of the Supreme Court, Position 7",,,Write-ins,42
+Douglas,Precinct 17,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 17,"Judge of the Supreme Court, Position 7",,,Under Votes,1862
+Douglas,Precinct 17,Douglas County Sheriff,,,John W Hanlin,3616
+Douglas,Precinct 17,Douglas County Sheriff,,,Write-ins,86
+Douglas,Precinct 17,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 17,Douglas County Sheriff,,,Under Votes,1082
+Douglas,Precinct 17,Douglas County Clerk,,,Dan Loomis,2234
+Douglas,Precinct 17,Douglas County Clerk,,,Samantha Frost,1441
+Douglas,Precinct 17,Douglas County Clerk,,,Write-ins,16
+Douglas,Precinct 17,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 17,Douglas County Clerk,,,Under Votes,1093
+Douglas,Precinct 17,Douglas County Treasurer,,,Samuel W Lee III,2962
+Douglas,Precinct 17,Douglas County Treasurer,,,Write-ins,32
+Douglas,Precinct 17,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 17,Douglas County Treasurer,,,Under Votes,1790
+Douglas,Precinct 17,"City of Sutherlin, Mayor",,,Michelle Sumner,3122
+Douglas,Precinct 17,"City of Sutherlin, Mayor",,,Write-ins,109
+Douglas,Precinct 17,"City of Sutherlin, Mayor",,,Over Votes,0
+Douglas,Precinct 17,"City of Sutherlin, Mayor",,,Under Votes,1553
+Douglas,Precinct 17,"City of Sutherlin, Councilor",,,Larry Whitaker,2699
+Douglas,Precinct 17,"City of Sutherlin, Councilor",,,Adam Sarnoski,2517
+Douglas,Precinct 17,"City of Sutherlin, Councilor",,,Shawn M Smalley,2781
+Douglas,Precinct 17,"City of Sutherlin, Councilor",,,Over Votes,0
+Douglas,Precinct 17,"City of Sutherlin, Councilor",,,Under Votes,6241
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 1",,,Write-ins,264
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 1",,,Under Votes,4520
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,2892
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 2",,,Write-ins,25
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 2",,,Over Votes,1
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 2",,,Under Votes,1866
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 3",,,David A Briggs,2832
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 3",,,Write-ins,16
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 17,"Douglas SWCD, Director, Zone 3",,,Under Votes,1936
+Douglas,Precinct 17,"Douglas SWCD, Director, At Large 2",,,Write-ins,239
+Douglas,Precinct 17,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 17,"Douglas SWCD, Director, At Large 2",,,Under Votes,4545
+Douglas,Precinct 17,Question 10-115,,,Yes,2213
+Douglas,Precinct 17,Question 10-115,,,No,2223
+Douglas,Precinct 17,Question 10-115,,,Over Votes,0
+Douglas,Precinct 17,Question 10-115,,,Under Votes,348
+Douglas,Precinct 17,Question 10-116,,,Yes,1540
+Douglas,Precinct 17,Question 10-116,,,No,2837
+Douglas,Precinct 17,Question 10-116,,,Over Votes,0
+Douglas,Precinct 17,Question 10-116,,,Under Votes,407
+Douglas,Precinct 17,Question 10-117,,,Yes,1165
+Douglas,Precinct 17,Question 10-117,,,No,3329
+Douglas,Precinct 17,Question 10-117,,,Over Votes,0
+Douglas,Precinct 17,Question 10-117,,,Under Votes,290
+Douglas,Precinct 17,Question 10-118,,,Yes,652
+Douglas,Precinct 17,Question 10-118,,,No,3884
+Douglas,Precinct 17,Question 10-118,,,Over Votes,0
+Douglas,Precinct 17,Question 10-118,,,Under Votes,248
+Douglas,Precinct 17,Question 10-119,,,Yes,1869
+Douglas,Precinct 17,Question 10-119,,,No,2469
+Douglas,Precinct 17,Question 10-119,,,Over Votes,1
+Douglas,Precinct 17,Question 10-119,,,Under Votes,445
+Douglas,Precinct 17,Question 10-210,,,Yes,2837
+Douglas,Precinct 17,Question 10-210,,,No,1658
+Douglas,Precinct 17,Question 10-210,,,Over Votes,1
+Douglas,Precinct 17,Question 10-210,,,Under Votes,288
+Douglas,Precinct 18,Registered Voters,,,,4719
+Douglas,Precinct 18,Ballots Cast,,,,2909
+Douglas,Precinct 18,President,,WTP,Robert F. Kennedy Jr.,62
+Douglas,Precinct 18,President,,PRO,Cornel West,1
+Douglas,Precinct 18,President,,LBT,Chase Oliver,11
+Douglas,Precinct 18,President,,CON,Randall Terry,2
+Douglas,Precinct 18,President,,REP,Donald J. Trump,1681
+Douglas,Precinct 18,President,,PGP,Jill Stein,17
+Douglas,Precinct 18,President,,DEM,Kamala D. Harris,1090
+Douglas,Precinct 18,President,,,Write-ins,12
+Douglas,Precinct 18,President,,,Over Votes,1
+Douglas,Precinct 18,President,,,Under Votes,32
+Douglas,Precinct 18,U.S. House,4,LBT,Dan Bahlen,79
+Douglas,Precinct 18,U.S. House,4,PGP,Justin Filip,73
+Douglas,Precinct 18,U.S. House,4,DEM,Val Hoyle,1014
+Douglas,Precinct 18,U.S. House,4,REP,Monique DeSpain,1598
+Douglas,Precinct 18,U.S. House,4,,Write-ins,9
+Douglas,Precinct 18,U.S. House,4,,Over Votes,1
+Douglas,Precinct 18,U.S. House,4,,Under Votes,135
+Douglas,Precinct 18,Secretary of State,,PGP,Nathalie Paravicini,94
+Douglas,Precinct 18,Secretary of State,,REP,Dennis Linthicum,1574
+Douglas,Precinct 18,Secretary of State,,DEM,Tobias Read,1075
+Douglas,Precinct 18,Secretary of State,,,Write-ins,2
+Douglas,Precinct 18,Secretary of State,,,Over Votes,0
+Douglas,Precinct 18,Secretary of State,,,Under Votes,161
+Douglas,Precinct 18,State Treasurer,,WFP,Mary King,209
+Douglas,Precinct 18,State Treasurer,,REP,Brian J Boquist,1593
+Douglas,Precinct 18,State Treasurer,,DEM,Elizabeth Steiner,893
+Douglas,Precinct 18,State Treasurer,,,Write-ins,6
+Douglas,Precinct 18,State Treasurer,,,Over Votes,0
+Douglas,Precinct 18,State Treasurer,,,Under Votes,205
+Douglas,Precinct 18,Attorney General,,REP,Will Lathrop,1653
+Douglas,Precinct 18,Attorney General,,DEM,Dan Rayfield,1055
+Douglas,Precinct 18,Attorney General,,,Write-ins,5
+Douglas,Precinct 18,Attorney General,,,Over Votes,0
+Douglas,Precinct 18,Attorney General,,,Under Votes,193
+Douglas,Precinct 18,State Senate,1,DEM,Lupe Preciado-McAlister,948
+Douglas,Precinct 18,State Senate,1,REP,David Brock Smith,1725
+Douglas,Precinct 18,State Senate,1,,Write-ins,9
+Douglas,Precinct 18,State Senate,1,,Over Votes,0
+Douglas,Precinct 18,State Senate,1,,Under Votes,224
+Douglas,Precinct 18,State House,2,DEM,August Warren,974
+Douglas,Precinct 18,State House,2,REP,Virgle J Osborne,1706
+Douglas,Precinct 18,State House,2,,Write-ins,8
+Douglas,Precinct 18,State House,2,,Over Votes,0
+Douglas,Precinct 18,State House,2,,Under Votes,218
+Douglas,Precinct 18,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1687
+Douglas,Precinct 18,"Judge of the Supreme Court, Position 1",,,Write-ins,38
+Douglas,Precinct 18,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 18,"Judge of the Supreme Court, Position 1",,,Under Votes,1181
+Douglas,Precinct 18,"Judge of the Supreme Court, Position 7",,,Bronson D James,1673
+Douglas,Precinct 18,"Judge of the Supreme Court, Position 7",,,Write-ins,40
+Douglas,Precinct 18,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 18,"Judge of the Supreme Court, Position 7",,,Under Votes,1193
+Douglas,Precinct 18,Douglas County Sheriff,,,John W Hanlin,2048
+Douglas,Precinct 18,Douglas County Sheriff,,,Write-ins,84
+Douglas,Precinct 18,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 18,Douglas County Sheriff,,,Under Votes,774
+Douglas,Precinct 18,Douglas County Clerk,,,Dan Loomis,1327
+Douglas,Precinct 18,Douglas County Clerk,,,Samantha Frost,930
+Douglas,Precinct 18,Douglas County Clerk,,,Write-ins,18
+Douglas,Precinct 18,Douglas County Clerk,,,Under Votes,630
+Douglas,Precinct 18,Douglas County Treasurer,,,Samuel W Lee III,1695
+Douglas,Precinct 18,Douglas County Treasurer,,,Write-ins,36
+Douglas,Precinct 18,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 18,Douglas County Treasurer,,,Under Votes,1175
+Douglas,Precinct 18,"City of Roseburg, Mayor",,,Larry Rich,1747
+Douglas,Precinct 18,"City of Roseburg, Mayor",,,Write-ins,93
+Douglas,Precinct 18,"City of Roseburg, Mayor",,,Over Votes,0
+Douglas,Precinct 18,"City of Roseburg, Mayor",,,Under Votes,1066
+Douglas,Precinct 18,"City of Roseburg, Councilor, Ward 1, Position 2",,,Katie Williams,988
+Douglas,Precinct 18,"City of Roseburg, Councilor, Ward 1, Position 2",,,David Mohr,960
+Douglas,Precinct 18,"City of Roseburg, Councilor, Ward 1, Position 2",,,Write-ins,24
+Douglas,Precinct 18,"City of Roseburg, Councilor, Ward 1, Position 2",,,Over Votes,0
+Douglas,Precinct 18,"City of Roseburg, Councilor, Ward 1, Position 2",,,Under Votes,934
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 1",,,Write-ins,204
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 1",,,Under Votes,2702
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1666
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 2",,,Write-ins,31
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 2",,,Under Votes,1209
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1598
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 3",,,Write-ins,28
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 18,"Douglas SWCD, Director, Zone 3",,,Under Votes,1280
+Douglas,Precinct 18,"Douglas SWCD, Director, At Large 2",,,Write-ins,160
+Douglas,Precinct 18,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 18,"Douglas SWCD, Director, At Large 2",,,Under Votes,2746
+Douglas,Precinct 18,Question 10-115,,,Yes,1446
+Douglas,Precinct 18,Question 10-115,,,No,1226
+Douglas,Precinct 18,Question 10-115,,,Over Votes,0
+Douglas,Precinct 18,Question 10-115,,,Under Votes,234
+Douglas,Precinct 18,Question 10-116,,,Yes,1107
+Douglas,Precinct 18,Question 10-116,,,No,1527
+Douglas,Precinct 18,Question 10-116,,,Over Votes,0
+Douglas,Precinct 18,Question 10-116,,,Under Votes,272
+Douglas,Precinct 18,Question 10-117,,,Yes,930
+Douglas,Precinct 18,Question 10-117,,,No,1790
+Douglas,Precinct 18,Question 10-117,,,Over Votes,0
+Douglas,Precinct 18,Question 10-117,,,Under Votes,186
+Douglas,Precinct 18,Question 10-118,,,Yes,608
+Douglas,Precinct 18,Question 10-118,,,No,2117
+Douglas,Precinct 18,Question 10-118,,,Over Votes,0
+Douglas,Precinct 18,Question 10-118,,,Under Votes,181
+Douglas,Precinct 18,Question 10-119,,,Yes,1279
+Douglas,Precinct 18,Question 10-119,,,No,1352
+Douglas,Precinct 18,Question 10-119,,,Over Votes,0
+Douglas,Precinct 18,Question 10-119,,,Under Votes,275
+Douglas,Precinct 19,Registered Voters,,,,3656
+Douglas,Precinct 19,Ballots Cast,,,,2371
+Douglas,Precinct 19,President,,WTP,Robert F. Kennedy Jr.,37
+Douglas,Precinct 19,President,,PRO,Cornel West,2
+Douglas,Precinct 19,President,,LBT,Chase Oliver,7
+Douglas,Precinct 19,President,,CON,Randall Terry,3
+Douglas,Precinct 19,President,,REP,Donald J. Trump,1716
+Douglas,Precinct 19,President,,PGP,Jill Stein,11
+Douglas,Precinct 19,President,,DEM,Kamala D. Harris,546
+Douglas,Precinct 19,President,,,Write-ins,13
+Douglas,Precinct 19,President,,,Over Votes,0
+Douglas,Precinct 19,President,,,Under Votes,36
+Douglas,Precinct 19,U.S. House,4,LBT,Dan Bahlen,55
+Douglas,Precinct 19,U.S. House,4,PGP,Justin Filip,63
+Douglas,Precinct 19,U.S. House,4,DEM,Val Hoyle,514
+Douglas,Precinct 19,U.S. House,4,REP,Monique DeSpain,1640
+Douglas,Precinct 19,U.S. House,4,,Write-ins,5
+Douglas,Precinct 19,U.S. House,4,,Over Votes,0
+Douglas,Precinct 19,U.S. House,4,,Under Votes,94
+Douglas,Precinct 19,Secretary of State,,PGP,Nathalie Paravicini,55
+Douglas,Precinct 19,Secretary of State,,REP,Dennis Linthicum,1630
+Douglas,Precinct 19,Secretary of State,,DEM,Tobias Read,574
+Douglas,Precinct 19,Secretary of State,,,Write-ins,1
+Douglas,Precinct 19,Secretary of State,,,Over Votes,0
+Douglas,Precinct 19,Secretary of State,,,Under Votes,110
+Douglas,Precinct 19,State Treasurer,,WFP,Mary King,95
+Douglas,Precinct 19,State Treasurer,,REP,Brian J Boquist,1657
+Douglas,Precinct 19,State Treasurer,,DEM,Elizabeth Steiner,484
+Douglas,Precinct 19,State Treasurer,,,Write-ins,3
+Douglas,Precinct 19,State Treasurer,,,Over Votes,0
+Douglas,Precinct 19,State Treasurer,,,Under Votes,131
+Douglas,Precinct 19,Attorney General,,REP,Will Lathrop,1679
+Douglas,Precinct 19,Attorney General,,DEM,Dan Rayfield,567
+Douglas,Precinct 19,Attorney General,,,Write-ins,3
+Douglas,Precinct 19,Attorney General,,,Over Votes,0
+Douglas,Precinct 19,Attorney General,,,Under Votes,121
+Douglas,Precinct 19,State Senate,1,DEM,Lupe Preciado-McAlister,472
+Douglas,Precinct 19,State Senate,1,REP,David Brock Smith,1734
+Douglas,Precinct 19,State Senate,1,,Write-ins,8
+Douglas,Precinct 19,State Senate,1,,Over Votes,0
+Douglas,Precinct 19,State Senate,1,,Under Votes,156
+Douglas,Precinct 19,State House,1,REP,Court Boice,1675
+Douglas,Precinct 19,State House,1,DEM,Bret Cecil,540
+Douglas,Precinct 19,State House,1,,Write-ins,5
+Douglas,Precinct 19,State House,1,,Over Votes,0
+Douglas,Precinct 19,State House,1,,Under Votes,150
+Douglas,Precinct 19,State House,2,DEM,August Warren,0
+Douglas,Precinct 19,State House,2,REP,Virgle J Osborne,0
+Douglas,Precinct 19,State House,2,,Write-ins,0
+Douglas,Precinct 19,State House,2,,Over Votes,0
+Douglas,Precinct 19,State House,2,,Under Votes,0
+Douglas,Precinct 19,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1287
+Douglas,Precinct 19,"Judge of the Supreme Court, Position 1",,,Write-ins,28
+Douglas,Precinct 19,"Judge of the Supreme Court, Position 1",,,Under Votes,1055
+Douglas,Precinct 19,"Judge of the Supreme Court, Position 7",,,Bronson D James,1277
+Douglas,Precinct 19,"Judge of the Supreme Court, Position 7",,,Write-ins,23
+Douglas,Precinct 19,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 19,Douglas County Clerk,,,Under Votes,1070
+Douglas,Precinct 19,Douglas County Sheriff,,,John W Hanlin,1776
+Douglas,Precinct 19,Douglas County Sheriff,,,Write-ins,41
+Douglas,Precinct 19,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 19,Douglas County Sheriff,,,Under Votes,553
+Douglas,Precinct 19,Douglas County Clerk,,,Dan Loomis,1099
+Douglas,Precinct 19,Douglas County Clerk,,,Samantha Frost,719
+Douglas,Precinct 19,Douglas County Clerk,,,Write-ins,7
+Douglas,Precinct 19,Douglas County Clerk,,,Over Votes,1
+Douglas,Precinct 19,Douglas County Clerk,,,Under Votes,544
+Douglas,Precinct 19,Douglas County Treasurer,,,Samuel W Lee III,1342
+Douglas,Precinct 19,Douglas County Treasurer,,,Write-ins,17
+Douglas,Precinct 19,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 19,Douglas County Treasurer,,,Under Votes,1011
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 1",,,Write-ins,134
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 1",,,Under Votes,2236
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1316
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 2",,,Write-ins,13
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 2",,,Under Votes,1041
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1282
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 3",,,Write-ins,12
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 19,"Douglas SWCD, Director, Zone 3",,,Under Votes,1076
+Douglas,Precinct 19,"Douglas SWCD, Director, At Large 2",,,Write-ins,113
+Douglas,Precinct 19,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 19,"Douglas SWCD, Director, At Large 2",,,Under Votes,2257
+Douglas,Precinct 19,Question 10-115,,,Yes,1030
+Douglas,Precinct 19,Question 10-115,,,No,1197
+Douglas,Precinct 19,Question 10-115,,,Over Votes,0
+Douglas,Precinct 19,Question 10-115,,,Under Votes,143
+Douglas,Precinct 19,Question 10-116,,,Yes,666
+Douglas,Precinct 19,Question 10-116,,,No,1531
+Douglas,Precinct 19,Question 10-116,,,Over Votes,0
+Douglas,Precinct 19,Question 10-116,,,Under Votes,173
+Douglas,Precinct 19,Question 10-117,,,Yes,529
+Douglas,Precinct 19,Question 10-117,,,No,1690
+Douglas,Precinct 19,Question 10-117,,,Over Votes,0
+Douglas,Precinct 19,Question 10-117,,,Under Votes,151
+Douglas,Precinct 19,Question 10-118,,,Yes,258
+Douglas,Precinct 19,Question 10-118,,,No,1983
+Douglas,Precinct 19,Question 10-118,,,Over Votes,0
+Douglas,Precinct 19,Question 10-118,,,Under Votes,129
+Douglas,Precinct 19,Question 10-119,,,Yes,797
+Douglas,Precinct 19,Question 10-119,,,No,1381
+Douglas,Precinct 19,Question 10-119,,,Over Votes,0
+Douglas,Precinct 19,Question 10-119,,,Under Votes,192
+Douglas,Precinct 19,Question 10-209,,,Yes,355
+Douglas,Precinct 19,Question 10-209,,,No,133
+Douglas,Precinct 19,Question 10-209,,,Over Votes,0
+Douglas,Precinct 19,Question 10-209,,,Under Votes,15
+Douglas,Precinct 20,Registered Voters,,,,5631
+Douglas,Precinct 20,Ballots Cast,,,,3784
+Douglas,Precinct 20,President,,WTP,Robert F. Kennedy Jr.,41
+Douglas,Precinct 20,President,,PRO,Cornel West,5
+Douglas,Precinct 20,President,,LBT,Chase Oliver,12
+Douglas,Precinct 20,President,,CON,Randall Terry,7
+Douglas,Precinct 20,President,,REP,Donald J. Trump,2688
+Douglas,Precinct 20,President,,PGP,Jill Stein,13
+Douglas,Precinct 20,President,,DEM,Kamala D. Harris,951
+Douglas,Precinct 20,President,,,Write-ins,11
+Douglas,Precinct 20,President,,,Over Votes,1
+Douglas,Precinct 20,President,,,Under Votes,55
+Douglas,Precinct 20,U.S. House,2,REP,Cliff Bentz,2553
+Douglas,Precinct 20,U.S. House,2,CON,Michael Kurt Stettler,152
+Douglas,Precinct 20,U.S. House,2,DEM,Dan Ruby,865
+Douglas,Precinct 20,U.S. House,2,,Write-ins,4
+Douglas,Precinct 20,U.S. House,2,,Over Votes,0
+Douglas,Precinct 20,U.S. House,2,,Under Votes,210
+Douglas,Precinct 20,Secretary of State,,PGP,Nathalie Paravicini,72
+Douglas,Precinct 20,Secretary of State,,REP,Dennis Linthicum,2555
+Douglas,Precinct 20,Secretary of State,,DEM,Tobias Read,964
+Douglas,Precinct 20,Secretary of State,,,Write-ins,1
+Douglas,Precinct 20,Secretary of State,,,Over Votes,0
+Douglas,Precinct 20,Secretary of State,,,Under Votes,191
+Douglas,Precinct 20,State Treasurer,,WFP,Mary King,182
+Douglas,Precinct 20,State Treasurer,,REP,Brian J Boquist,2578
+Douglas,Precinct 20,State Treasurer,,DEM,Elizabeth Steiner,793
+Douglas,Precinct 20,State Treasurer,,,Write-ins,3
+Douglas,Precinct 20,State Treasurer,,,Over Votes,0
+Douglas,Precinct 20,State Treasurer,,,Under Votes,227
+Douglas,Precinct 20,Attorney General,,REP,Will Lathrop,2647
+Douglas,Precinct 20,Attorney General,,DEM,Dan Rayfield,923
+Douglas,Precinct 20,Attorney General,,,Write-ins,2
+Douglas,Precinct 20,Attorney General,,,Over Votes,0
+Douglas,Precinct 20,Attorney General,,,Under Votes,211
+Douglas,Precinct 20,State Senate,1,DEM,Lupe Preciado-McAlister,794
+Douglas,Precinct 20,State Senate,1,REP,David Brock Smith,2749
+Douglas,Precinct 20,State Senate,1,,Write-ins,7
+Douglas,Precinct 20,State Senate,1,,Over Votes,0
+Douglas,Precinct 20,State Senate,1,,Under Votes,233
+Douglas,Precinct 20,State House,2,DEM,August Warren,836
+Douglas,Precinct 20,State House,2,REP,Virgle J Osborne,2710
+Douglas,Precinct 20,State House,2,,Write-ins,7
+Douglas,Precinct 20,State House,2,,Over Votes,0
+Douglas,Precinct 20,State House,2,,Under Votes,230
+Douglas,Precinct 20,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,2056
+Douglas,Precinct 20,"Judge of the Supreme Court, Position 1",,,Write-ins,49
+Douglas,Precinct 20,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 20,"Judge of the Supreme Court, Position 1",,,Under Votes,1678
+Douglas,Precinct 20,"Judge of the Supreme Court, Position 7",,,Bronson D James,2053
+Douglas,Precinct 20,"Judge of the Supreme Court, Position 7",,,Write-ins,51
+Douglas,Precinct 20,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 20,"Judge of the Supreme Court, Position 7",,,Under Votes,1679
+Douglas,Precinct 20,Douglas County Sheriff,,,John W Hanlin,2785
+Douglas,Precinct 20,Douglas County Sheriff,,,Write-ins,78
+Douglas,Precinct 20,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 20,Douglas County Sheriff,,,Under Votes,920
+Douglas,Precinct 20,Douglas County Clerk,,,Dan Loomis,1704
+Douglas,Precinct 20,Douglas County Clerk,,,Samantha Frost,1138
+Douglas,Precinct 20,Douglas County Clerk,,,Write-ins,9
+Douglas,Precinct 20,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 20,Douglas County Clerk,,,Under Votes,932
+Douglas,Precinct 20,Douglas County Treasurer,,,Samuel W Lee III,2148
+Douglas,Precinct 20,Douglas County Treasurer,,,Write-ins,27
+Douglas,Precinct 20,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 20,Douglas County Treasurer,,,Under Votes,1608
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 1",,,Write-ins,203
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 1",,,Under Votes,3580
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,2121
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 2",,,Write-ins,31
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 2",,,Under Votes,1631
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 3",,,David A Briggs,2189
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 3",,,Write-ins,26
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 20,"Douglas SWCD, Director, Zone 3",,,Under Votes,1568
+Douglas,Precinct 20,"Douglas SWCD, Director, At Large 2",,,Write-ins,188
+Douglas,Precinct 20,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 20,"Douglas SWCD, Director, At Large 2",,,Under Votes,3595
+Douglas,Precinct 20,Question 10-115,,,Yes,1604
+Douglas,Precinct 20,Question 10-115,,,No,1930
+Douglas,Precinct 20,Question 10-115,,,Over Votes,0
+Douglas,Precinct 20,Question 10-115,,,Under Votes,249
+Douglas,Precinct 20,Question 10-116,,,Yes,1062
+Douglas,Precinct 20,Question 10-116,,,No,2412
+Douglas,Precinct 20,Question 10-116,,,Over Votes,0
+Douglas,Precinct 20,Question 10-116,,,Under Votes,309
+Douglas,Precinct 20,Question 10-117,,,Yes,813
+Douglas,Precinct 20,Question 10-117,,,No,2713
+Douglas,Precinct 20,Question 10-117,,,Over Votes,0
+Douglas,Precinct 20,Question 10-117,,,Under Votes,257
+Douglas,Precinct 20,Question 10-118,,,Yes,473
+Douglas,Precinct 20,Question 10-118,,,No,3106
+Douglas,Precinct 20,Question 10-118,,,Over Votes,0
+Douglas,Precinct 20,Question 10-118,,,Under Votes,204
+Douglas,Precinct 20,Question 10-119,,,Yes,1253
+Douglas,Precinct 20,Question 10-119,,,No,2218
+Douglas,Precinct 20,Question 10-119,,,Over Votes,0
+Douglas,Precinct 20,Question 10-119,,,Under Votes,312
+Douglas,Precinct 21,President,,WTP,Robert F. Kennedy Jr.,13
+Douglas,Precinct 21,President,,PRO,Cornel West,0
+Douglas,Precinct 21,President,,LBT,Chase Oliver,6
+Douglas,Precinct 21,President,,CON,Randall Terry,0
+Douglas,Precinct 21,President,,REP,Donald J. Trump,746
+Douglas,Precinct 21,President,,PGP,Jill Stein,5
+Douglas,Precinct 21,President,,DEM,Kamala D. Harris,260
+Douglas,Precinct 21,President,,,Write-ins,7
+Douglas,Precinct 21,President,,,Over Votes,0
+Douglas,Precinct 21,President,,,Under Votes,11
+Douglas,Precinct 21,U.S. House,2,REP,Cliff Bentz,720
+Douglas,Precinct 21,U.S. House,2,CON,Michael Kurt Stettler,25
+Douglas,Precinct 21,U.S. House,2,DEM,Dan Ruby,242
+Douglas,Precinct 21,U.S. House,2,,Write-ins,0
+Douglas,Precinct 21,U.S. House,2,,Over Votes,0
+Douglas,Precinct 21,U.S. House,2,,Under Votes,61
+Douglas,Precinct 21,Secretary of State,,PGP,Nathalie Paravicini,18
+Douglas,Precinct 21,Secretary of State,,REP,Dennis Linthicum,713
+Douglas,Precinct 21,Secretary of State,,DEM,Tobias Read,272
+Douglas,Precinct 21,Secretary of State,,,Write-ins,1
+Douglas,Precinct 21,Secretary of State,,,Over Votes,0
+Douglas,Precinct 21,Secretary of State,,,Under Votes,41
+Douglas,Precinct 21,State Treasurer,,WFP,Mary King,42
+Douglas,Precinct 21,State Treasurer,,REP,Brian J Boquist,724
+Douglas,Precinct 21,State Treasurer,,DEM,Elizabeth Steiner,222
+Douglas,Precinct 21,State Treasurer,,,Write-ins,1
+Douglas,Precinct 21,State Treasurer,,,Over Votes,0
+Douglas,Precinct 21,State Treasurer,,,Under Votes,56
+Douglas,Precinct 21,Attorney General,,REP,Will Lathrop,729
+Douglas,Precinct 21,Attorney General,,DEM,Dan Rayfield,260
+Douglas,Precinct 21,Attorney General,,,Write-ins,0
+Douglas,Precinct 21,Attorney General,,,Over Votes,0
+Douglas,Precinct 21,Attorney General,,,Under Votes,56
+Douglas,Precinct 21,State Senate,2,DEM,Tracy Thompson,236
+Douglas,Precinct 21,State Senate,2,,Noah Robinson,747
+Douglas,Precinct 21,State Senate,2,,Write-ins,3
+Douglas,Precinct 21,State Senate,2,,Over Votes,0
+Douglas,Precinct 21,State Senate,2,,Under Votes,59
+Douglas,Precinct 21,State House,4,DEM,Richard Chasm,260
+Douglas,Precinct 21,State House,4,REP,Alek Skarlatos,721
+Douglas,Precinct 21,State House,4,,Write-ins,4
+Douglas,Precinct 21,State House,4,,Over Votes,0
+Douglas,Precinct 21,State House,4,,Under Votes,60
+Douglas,Precinct 21,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,514
+Douglas,Precinct 21,"Judge of the Supreme Court, Position 1",,,Write-ins,19
+Douglas,Precinct 21,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 21,"Judge of the Supreme Court, Position 1",,,Under Votes,512
+Douglas,Precinct 21,"Judge of the Supreme Court, Position 7",,,Bronson D James,511
+Douglas,Precinct 21,"Judge of the Supreme Court, Position 7",,,Write-ins,18
+Douglas,Precinct 21,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 21,"Judge of the Supreme Court, Position 7",,,Under Votes,516
+Douglas,Precinct 21,Douglas County Sheriff,,,John W Hanlin,759
+Douglas,Precinct 21,Douglas County Sheriff,,,Write-ins,19
+Douglas,Precinct 21,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 21,Douglas County Sheriff,,,Under Votes,267
+Douglas,Precinct 21,Douglas County Clerk,,,Dan Loomis,458
+Douglas,Precinct 21,Douglas County Clerk,,,Samantha Frost,294
+Douglas,Precinct 21,Douglas County Clerk,,,Write-ins,15
+Douglas,Precinct 21,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 21,Douglas County Clerk,,,Under Votes,278
+Douglas,Precinct 21,Douglas County Treasurer,,,Samuel W Lee III,545
+Douglas,Precinct 21,Douglas County Treasurer,,,Write-ins,14
+Douglas,Precinct 21,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 21,Douglas County Treasurer,,,Under Votes,486
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 1",,,Write-ins,58
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 1",,,Under Votes,987
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,532
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 2",,,Write-ins,13
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 2",,,Under Votes,500
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 3",,,David A Briggs,661
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 3",,,Write-ins,10
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 21,"Douglas SWCD, Director, Zone 3",,,Under Votes,374
+Douglas,Precinct 21,"Douglas SWCD, Director, At Large 2",,,Write-ins,61
+Douglas,Precinct 21,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 21,"Douglas SWCD, Director, At Large 2",,,Under Votes,984
+Douglas,Precinct 21,Question 10-115,,,Yes,426
+Douglas,Precinct 21,Question 10-115,,,No,550
+Douglas,Precinct 21,Question 10-115,,,Over Votes,0
+Douglas,Precinct 21,Question 10-115,,,Under Votes,69
+Douglas,Precinct 21,Question 10-116,,,Yes,301
+Douglas,Precinct 21,Question 10-116,,,No,659
+Douglas,Precinct 21,Question 10-116,,,Over Votes,0
+Douglas,Precinct 21,Question 10-116,,,Under Votes,85
+Douglas,Precinct 21,Question 10-117,,,Yes,205
+Douglas,Precinct 21,Question 10-117,,,No,773
+Douglas,Precinct 21,Question 10-117,,,Over Votes,0
+Douglas,Precinct 21,Question 10-117,,,Under Votes,67
+Douglas,Precinct 21,Question 10-118,,,Yes,116
+Douglas,Precinct 21,Question 10-118,,,No,878
+Douglas,Precinct 21,Question 10-118,,,Over Votes,0
+Douglas,Precinct 21,Question 10-118,,,Under Votes,51
+Douglas,Precinct 21,Question 10-119,,,Yes,330
+Douglas,Precinct 21,Question 10-119,,,No,636
+Douglas,Precinct 21,Question 10-119,,,Over Votes,0
+Douglas,Precinct 21,Question 10-119,,,Under Votes,79
+Douglas,Precinct 22,President,,WTP,Robert F. Kennedy Jr.,70
+Douglas,Precinct 22,President,,PRO,Cornel West,4
+Douglas,Precinct 22,President,,LBT,Chase Oliver,16
+Douglas,Precinct 22,President,,CON,Randall Terry,2
+Douglas,Precinct 22,President,,REP,Donald J. Trump,1575
+Douglas,Precinct 22,President,,PGP,Jill Stein,14
+Douglas,Precinct 22,President,,DEM,Kamala D. Harris,1154
+Douglas,Precinct 22,President,,,Write-ins,20
+Douglas,Precinct 22,President,,,Over Votes,2
+Douglas,Precinct 22,President,,,Under Votes,27
+Douglas,Precinct 22,U.S. House,4,LBT,Dan Bahlen,74
+Douglas,Precinct 22,U.S. House,4,PGP,Justin Filip,68
+Douglas,Precinct 22,U.S. House,4,DEM,Val Hoyle,1070
+Douglas,Precinct 22,U.S. House,4,REP,Monique DeSpain,1535
+Douglas,Precinct 22,U.S. House,4,,Write-ins,10
+Douglas,Precinct 22,U.S. House,4,,Over Votes,1
+Douglas,Precinct 22,U.S. House,4,,Under Votes,126
+Douglas,Precinct 22,Secretary of State,,PGP,Nathalie Paravicini,124
+Douglas,Precinct 22,Secretary of State,,REP,Dennis Linthicum,1485
+Douglas,Precinct 22,Secretary of State,,DEM,Tobias Read,1097
+Douglas,Precinct 22,Secretary of State,,,Write-ins,7
+Douglas,Precinct 22,Secretary of State,,,Over Votes,1
+Douglas,Precinct 22,Secretary of State,,,Under Votes,166
+Douglas,Precinct 22,State Treasurer,,WFP,Mary King,220
+Douglas,Precinct 22,State Treasurer,,REP,Brian J Boquist,1499
+Douglas,Precinct 22,State Treasurer,,DEM,Elizabeth Steiner,964
+Douglas,Precinct 22,State Treasurer,,,Write-ins,9
+Douglas,Precinct 22,State Treasurer,,,Over Votes,1
+Douglas,Precinct 22,State Treasurer,,,Under Votes,187
+Douglas,Precinct 22,Attorney General,,REP,Will Lathrop,1571
+Douglas,Precinct 22,Attorney General,,DEM,Dan Rayfield,1111
+Douglas,Precinct 22,Attorney General,,,Write-ins,9
+Douglas,Precinct 22,Attorney General,,,Over Votes,1
+Douglas,Precinct 22,Attorney General,,,Under Votes,188
+Douglas,Precinct 22,State Senate,1,DEM,Lupe Preciado-McAlister,1012
+Douglas,Precinct 22,State Senate,1,REP,David Brock Smith,1649
+Douglas,Precinct 22,State Senate,1,,Write-ins,11
+Douglas,Precinct 22,State Senate,1,,Over Votes,1
+Douglas,Precinct 22,State Senate,1,,Under Votes,207
+Douglas,Precinct 22,State House,2,DEM,August Warren,1044
+Douglas,Precinct 22,State House,2,REP,Virgle J Osborne,1621
+Douglas,Precinct 22,State House,2,,Write-ins,9
+Douglas,Precinct 22,State House,2,,Over Votes,1
+Douglas,Precinct 22,State House,2,,Under Votes,205
+Douglas,Precinct 22,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1587
+Douglas,Precinct 22,"Judge of the Supreme Court, Position 1",,,Write-ins,57
+Douglas,Precinct 22,"Judge of the Supreme Court, Position 1",,,Over Votes,1
+Douglas,Precinct 22,"Judge of the Supreme Court, Position 1",,,Under Votes,1235
+Douglas,Precinct 22,"Judge of the Supreme Court, Position 7",,,Bronson D James,1568
+Douglas,Precinct 22,"Judge of the Supreme Court, Position 7",,,Write-ins,49
+Douglas,Precinct 22,"Judge of the Supreme Court, Position 7",,,Over Votes,1
+Douglas,Precinct 22,"Judge of the Supreme Court, Position 7",,,Under Votes,1262
+Douglas,Precinct 22,Douglas County Sheriff,,,John W Hanlin,1901
+Douglas,Precinct 22,Douglas County Sheriff,,,Write-ins,117
+Douglas,Precinct 22,Douglas County Sheriff,,,Over Votes,1
+Douglas,Precinct 22,Douglas County Sheriff,,,Under Votes,861
+Douglas,Precinct 22,Douglas County Clerk,,,Dan Loomis,1351
+Douglas,Precinct 22,Douglas County Clerk,,,Samantha Frost,863
+Douglas,Precinct 22,Douglas County Clerk,,,Write-ins,21
+Douglas,Precinct 22,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 22,Douglas County Clerk,,,Under Votes,645
+Douglas,Precinct 22,Douglas County Treasurer,,,Samuel W Lee III,1566
+Douglas,Precinct 22,Douglas County Treasurer,,,Write-ins,45
+Douglas,Precinct 22,Douglas County Treasurer,,,Over Votes,1
+Douglas,Precinct 22,Douglas County Treasurer,,,Under Votes,1268
+Douglas,Precinct 22,"City of Roseburg, Mayor",,,Larry Rich,1641
+Douglas,Precinct 22,"City of Roseburg, Mayor",,,Write-ins,155
+Douglas,Precinct 22,"City of Roseburg, Mayor",,,Over Votes,1
+Douglas,Precinct 22,"City of Roseburg, Mayor",,,Under Votes,1083
+Douglas,Precinct 22,"City of Roseburg, Councilor, Ward 4, Position 2",,,Zack Weiss,1102
+Douglas,Precinct 22,"City of Roseburg, Councilor, Ward 4, Position 2",,,Blake Mecham,784
+Douglas,Precinct 22,"City of Roseburg, Councilor, Ward 4, Position 2",,,Write-ins,41
+Douglas,Precinct 22,"City of Roseburg, Councilor, Ward 4, Position 2",,,Over Votes,2
+Douglas,Precinct 22,"City of Roseburg, Councilor, Ward 4, Position 2",,,Under Votes,951
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 1",,,Write-ins,217
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 1",,,Under Votes,2663
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1545
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 2",,,Write-ins,45
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 2",,,Over Votes,1
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 2",,,Under Votes,1289
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1493
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 3",,,Write-ins,31
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 3",,,Over Votes,2
+Douglas,Precinct 22,"Douglas SWCD, Director, Zone 3",,,Under Votes,1354
+Douglas,Precinct 22,"Douglas SWCD, Director, At Large 2",,,Write-ins,180
+Douglas,Precinct 22,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 22,"Douglas SWCD, Director, At Large 2",,,Under Votes,2700
+Douglas,Precinct 22,Question 10-115,,,Yes,1464
+Douglas,Precinct 22,Question 10-115,,,No,1214
+Douglas,Precinct 22,Question 10-115,,,Over Votes,0
+Douglas,Precinct 22,Question 10-115,,,Under Votes,202
+Douglas,Precinct 22,Question 10-116,,,Yes,1154
+Douglas,Precinct 22,Question 10-116,,,No,1471
+Douglas,Precinct 22,Question 10-116,,,Over Votes,1
+Douglas,Precinct 22,Question 10-116,,,Under Votes,254
+Douglas,Precinct 22,Question 10-117,,,Yes,950
+Douglas,Precinct 22,Question 10-117,,,No,1763
+Douglas,Precinct 22,Question 10-117,,,Over Votes,0
+Douglas,Precinct 22,Question 10-117,,,Under Votes,167
+Douglas,Precinct 22,Question 10-118,,,Yes,592
+Douglas,Precinct 22,Question 10-118,,,No,2119
+Douglas,Precinct 22,Question 10-118,,,Over Votes,0
+Douglas,Precinct 22,Question 10-118,,,Under Votes,169
+Douglas,Precinct 22,Question 10-119,,,Yes,1292
+Douglas,Precinct 22,Question 10-119,,,No,1343
+Douglas,Precinct 22,Question 10-119,,,Over Votes,0
+Douglas,Precinct 22,Question 10-119,,,Under Votes,245
+Douglas,Precinct 23,Registered Voters,,,,2184
+Douglas,Precinct 23,Ballots Cast,,,,1495
+Douglas,Precinct 23,President,,WTP,Robert F. Kennedy Jr.,23
+Douglas,Precinct 23,President,,PRO,Cornel West,1
+Douglas,Precinct 23,President,,LBT,Chase Oliver,4
+Douglas,Precinct 23,President,,CON,Randall Terry,2
+Douglas,Precinct 23,President,,REP,Donald J. Trump,1045
+Douglas,Precinct 23,President,,PGP,Jill Stein,6
+Douglas,Precinct 23,President,,DEM,Kamala D. Harris,391
+Douglas,Precinct 23,President,,,Write-ins,6
+Douglas,Precinct 23,President,,,Over Votes,1
+Douglas,Precinct 23,President,,,Under Votes,16
+Douglas,Precinct 23,U.S. House,4,LBT,Dan Bahlen,20
+Douglas,Precinct 23,U.S. House,4,PGP,Justin Filip,25
+Douglas,Precinct 23,U.S. House,4,DEM,Val Hoyle,372
+Douglas,Precinct 23,U.S. House,4,REP,Monique DeSpain,1017
+Douglas,Precinct 23,U.S. House,4,,Write-ins,3
+Douglas,Precinct 23,U.S. House,4,,Over Votes,1
+Douglas,Precinct 23,U.S. House,4,,Under Votes,57
+Douglas,Precinct 23,Secretary of State,,PGP,Nathalie Paravicini,30
+Douglas,Precinct 23,Secretary of State,,REP,Dennis Linthicum,1000
+Douglas,Precinct 23,Secretary of State,,DEM,Tobias Read,397
+Douglas,Precinct 23,Secretary of State,,,Write-ins,2
+Douglas,Precinct 23,Secretary of State,,,Over Votes,0
+Douglas,Precinct 23,Secretary of State,,,Under Votes,64
+Douglas,Precinct 23,State Treasurer,,WFP,Mary King,82
+Douglas,Precinct 23,State Treasurer,,REP,Brian J Boquist,1002
+Douglas,Precinct 23,State Treasurer,,DEM,Elizabeth Steiner,325
+Douglas,Precinct 23,State Treasurer,,,Write-ins,4
+Douglas,Precinct 23,State Treasurer,,,Over Votes,0
+Douglas,Precinct 23,State Treasurer,,,Under Votes,80
+Douglas,Precinct 23,Attorney General,,REP,Will Lathrop,1037
+Douglas,Precinct 23,Attorney General,,DEM,Dan Rayfield,380
+Douglas,Precinct 23,Attorney General,,,Write-ins,3
+Douglas,Precinct 23,Attorney General,,,Over Votes,0
+Douglas,Precinct 23,Attorney General,,,Under Votes,73
+Douglas,Precinct 23,State Senate,1,DEM,Lupe Preciado-McAlister,319
+Douglas,Precinct 23,State Senate,1,REP,David Brock Smith,1078
+Douglas,Precinct 23,State Senate,1,,Write-ins,6
+Douglas,Precinct 23,State Senate,1,,Over Votes,0
+Douglas,Precinct 23,State Senate,1,,Under Votes,90
+Douglas,Precinct 23,State House,1,REP,Court Boice,1033
+Douglas,Precinct 23,State House,1,DEM,Bret Cecil,355
+Douglas,Precinct 23,State House,1,,Write-ins,4
+Douglas,Precinct 23,State House,1,,Over Votes,1
+Douglas,Precinct 23,State House,1,,Under Votes,100
+Douglas,Precinct 23,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,886
+Douglas,Precinct 23,"Judge of the Supreme Court, Position 1",,,Write-ins,32
+Douglas,Precinct 23,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 23,"Judge of the Supreme Court, Position 1",,,Under Votes,575
+Douglas,Precinct 23,"Judge of the Supreme Court, Position 7",,,Bronson D James,874
+Douglas,Precinct 23,"Judge of the Supreme Court, Position 7",,,Write-ins,24
+Douglas,Precinct 23,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 23,"Judge of the Supreme Court, Position 7",,,Under Votes,595
+Douglas,Precinct 23,Douglas County Sheriff,,,John W Hanlin,1154
+Douglas,Precinct 23,Douglas County Sheriff,,,Write-ins,36
+Douglas,Precinct 23,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 23,Douglas County Sheriff,,,Under Votes,303
+Douglas,Precinct 23,Douglas County Clerk,,,Dan Loomis,717
+Douglas,Precinct 23,Douglas County Clerk,,,Samantha Frost,493
+Douglas,Precinct 23,Douglas County Clerk,,,Write-ins,11
+Douglas,Precinct 23,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 23,Douglas County Clerk,,,Under Votes,272
+Douglas,Precinct 23,Douglas County Treasurer,,,Samuel W Lee III,898
+Douglas,Precinct 23,Douglas County Treasurer,,,Write-ins,20
+Douglas,Precinct 23,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 23,Douglas County Treasurer,,,Under Votes,575
+Douglas,Precinct 23,"City of Winston, Mayor",,,Christie Glen-Knutson,601
+Douglas,Precinct 23,"City of Winston, Mayor",,,David (Scott) Rutter,624
+Douglas,Precinct 23,"City of Winston, Mayor",,,Write-ins,28
+Douglas,Precinct 23,"City of Winston, Mayor",,,Over Votes,0
+Douglas,Precinct 23,"City of Winston, Mayor",,,Under Votes,240
+Douglas,Precinct 23,"City of Winston, Councilor, Ward 1, Psn 1",,,Allen Hobson,915
+Douglas,Precinct 23,"City of Winston, Councilor, Ward 1, Psn 1",,,Write-ins,28
+Douglas,Precinct 23,"City of Winston, Councilor, Ward 1, Psn 1",,,Over Votes,0
+Douglas,Precinct 23,"City of Winston, Councilor, Ward 1, Psn 1",,,Under Votes,550
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 1",,,Write-ins,101
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 1",,,Under Votes,1392
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,886
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 2",,,Write-ins,17
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 2",,,Under Votes,590
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 3",,,David A Briggs,864
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 3",,,Write-ins,13
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 23,"Douglas SWCD, Director, Zone 3",,,Under Votes,616
+Douglas,Precinct 23,"Douglas SWCD, Director, At Large 2",,,Write-ins,87
+Douglas,Precinct 23,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 23,"Douglas SWCD, Director, At Large 2",,,Under Votes,1406
+Douglas,Precinct 23,Question 10-115,,,Yes,696
+Douglas,Precinct 23,Question 10-115,,,No,702
+Douglas,Precinct 23,Question 10-115,,,Over Votes,1
+Douglas,Precinct 23,Question 10-115,,,Under Votes,94
+Douglas,Precinct 23,Question 10-116,,,Yes,524
+Douglas,Precinct 23,Question 10-116,,,No,870
+Douglas,Precinct 23,Question 10-116,,,Over Votes,0
+Douglas,Precinct 23,Question 10-116,,,Under Votes,99
+Douglas,Precinct 23,Question 10-117,,,Yes,362
+Douglas,Precinct 23,Question 10-117,,,No,1054
+Douglas,Precinct 23,Question 10-117,,,Over Votes,0
+Douglas,Precinct 23,Question 10-117,,,Under Votes,77
+Douglas,Precinct 23,Question 10-118,,,Yes,224
+Douglas,Precinct 23,Question 10-118,,,No,1206
+Douglas,Precinct 23,Question 10-118,,,Over Votes,0
+Douglas,Precinct 23,Question 10-118,,,Under Votes,63
+Douglas,Precinct 23,Question 10-119,,,Yes,568
+Douglas,Precinct 23,Question 10-119,,,No,806
+Douglas,Precinct 23,Question 10-119,,,Over Votes,0
+Douglas,Precinct 23,Question 10-119,,,Under Votes,119
+Douglas,Precinct 24,Registered Voters,,,,2221
+Douglas,Precinct 24,Ballots Cast,,,,1442
+Douglas,Precinct 24,President,,WTP,Robert F. Kennedy Jr.,25
+Douglas,Precinct 24,President,,PRO,Cornel West,2
+Douglas,Precinct 24,President,,LBT,Chase Oliver,6
+Douglas,Precinct 24,President,,CON,Randall Terry,4
+Douglas,Precinct 24,President,,REP,Donald J. Trump,967
+Douglas,Precinct 24,President,,PGP,Jill Stein,10
+Douglas,Precinct 24,President,,DEM,Kamala D. Harris,398
+Douglas,Precinct 24,President,,,Write-ins,1
+Douglas,Precinct 24,President,,,Over Votes,0
+Douglas,Precinct 24,President,,,Under Votes,29
+Douglas,Precinct 24,U.S. House,4,LBT,Dan Bahlen,30
+Douglas,Precinct 24,U.S. House,4,PGP,Justin Filip,36
+Douglas,Precinct 24,U.S. House,4,DEM,Val Hoyle,377
+Douglas,Precinct 24,U.S. House,4,REP,Monique DeSpain,941
+Douglas,Precinct 24,U.S. House,4,,Write-ins,3
+Douglas,Precinct 24,U.S. House,4,,Over Votes,0
+Douglas,Precinct 24,U.S. House,4,,Under Votes,55
+Douglas,Precinct 24,Secretary of State,,PGP,Nathalie Paravicini,37
+Douglas,Precinct 24,Secretary of State,,REP,Dennis Linthicum,936
+Douglas,Precinct 24,Secretary of State,,DEM,Tobias Read,390
+Douglas,Precinct 24,Secretary of State,,,Write-ins,2
+Douglas,Precinct 24,Secretary of State,,,Over Votes,0
+Douglas,Precinct 24,Secretary of State,,,Under Votes,75
+Douglas,Precinct 24,State Treasurer,,WFP,Mary King,80
+Douglas,Precinct 24,State Treasurer,,REP,Brian J Boquist,948
+Douglas,Precinct 24,State Treasurer,,DEM,Elizabeth Steiner,329
+Douglas,Precinct 24,State Treasurer,,,Write-ins,1
+Douglas,Precinct 24,State Treasurer,,,Over Votes,0
+Douglas,Precinct 24,State Treasurer,,,Under Votes,82
+Douglas,Precinct 24,Attorney General,,REP,Will Lathrop,971
+Douglas,Precinct 24,Attorney General,,DEM,Dan Rayfield,390
+Douglas,Precinct 24,Attorney General,,,Write-ins,2
+Douglas,Precinct 24,Attorney General,,,Over Votes,0
+Douglas,Precinct 24,Attorney General,,,Under Votes,77
+Douglas,Precinct 24,State Senate,1,DEM,Lupe Preciado-McAlister,338
+Douglas,Precinct 24,State Senate,1,REP,David Brock Smith,1004
+Douglas,Precinct 24,State Senate,1,,Write-ins,3
+Douglas,Precinct 24,State Senate,1,,Over Votes,0
+Douglas,Precinct 24,State Senate,1,,Under Votes,95
+Douglas,Precinct 24,State House,1,REP,Court Boice,974
+Douglas,Precinct 24,State House,1,DEM,Bret Cecil,376
+Douglas,Precinct 24,State House,1,,Write-ins,4
+Douglas,Precinct 24,State House,1,,Over Votes,0
+Douglas,Precinct 24,State House,1,,Under Votes,86
+Douglas,Precinct 24,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,832
+Douglas,Precinct 24,"Judge of the Supreme Court, Position 1",,,Write-ins,17
+Douglas,Precinct 24,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 24,"Judge of the Supreme Court, Position 1",,,Under Votes,591
+Douglas,Precinct 24,"Judge of the Supreme Court, Position 7",,,Bronson D James,848
+Douglas,Precinct 24,"Judge of the Supreme Court, Position 7",,,Write-ins,11
+Douglas,Precinct 24,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 24,"Judge of the Supreme Court, Position 7",,,Under Votes,581
+Douglas,Precinct 24,Douglas County Sheriff,,,John W Hanlin,1073
+Douglas,Precinct 24,Douglas County Sheriff,,,Write-ins,18
+Douglas,Precinct 24,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 24,Douglas County Sheriff,,,Under Votes,349
+Douglas,Precinct 24,Douglas County Clerk,,,Dan Loomis,668
+Douglas,Precinct 24,Douglas County Clerk,,,Samantha Frost,459
+Douglas,Precinct 24,Douglas County Clerk,,,Write-ins,3
+Douglas,Precinct 24,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 24,Douglas County Clerk,,,Under Votes,310
+Douglas,Precinct 24,Douglas County Treasurer,,,Samuel W Lee III,858
+Douglas,Precinct 24,Douglas County Treasurer,,,Write-ins,5
+Douglas,Precinct 24,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 24,Douglas County Treasurer,,,Under Votes,577
+Douglas,Precinct 24,"City of Winston, Mayor",,,Christie Glen-Knutson,604
+Douglas,Precinct 24,"City of Winston, Mayor",,,David (Scott) Rutter,548
+Douglas,Precinct 24,"City of Winston, Mayor",,,Write-ins,9
+Douglas,Precinct 24,"City of Winston, Mayor",,,Over Votes,0
+Douglas,Precinct 24,"City of Winston, Mayor",,,Under Votes,279
+Douglas,Precinct 24,"City of Winston, Councilor, Ward 2, Psn 1",,,David W Cunningham,606
+Douglas,Precinct 24,"City of Winston, Councilor, Ward 2, Psn 1",,,Onikka Driscoll,438
+Douglas,Precinct 24,"City of Winston, Councilor, Ward 2, Psn 1",,,Write-ins,7
+Douglas,Precinct 24,"City of Winston, Councilor, Ward 2, Psn 1",,,Over Votes,0
+Douglas,Precinct 24,"City of Winston, Councilor, Ward 2, Psn 1",,,Under Votes,389
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 1",,,Write-ins,88
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 1",,,Under Votes,1352
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,847
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 2",,,Write-ins,9
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 2",,,Under Votes,584
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 3",,,David A Briggs,811
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 3",,,Write-ins,6
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 24,"Douglas SWCD, Director, Zone 3",,,Under Votes,623
+Douglas,Precinct 24,"Douglas SWCD, Director, At Large 2",,,Write-ins,59
+Douglas,Precinct 24,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 24,"Douglas SWCD, Director, At Large 2",,,Under Votes,1381
+Douglas,Precinct 24,Question 10-115,,,Yes,654
+Douglas,Precinct 24,Question 10-115,,,No,692
+Douglas,Precinct 24,Question 10-115,,,Over Votes,0
+Douglas,Precinct 24,Question 10-115,,,Under Votes,94
+Douglas,Precinct 24,Question 10-116,,,Yes,481
+Douglas,Precinct 24,Question 10-116,,,No,852
+Douglas,Precinct 24,Question 10-116,,,Over Votes,1
+Douglas,Precinct 24,Question 10-116,,,Under Votes,106
+Douglas,Precinct 24,Question 10-117,,,Yes,360
+Douglas,Precinct 24,Question 10-117,,,No,1005
+Douglas,Precinct 24,Question 10-117,,,Over Votes,0
+Douglas,Precinct 24,Question 10-117,,,Under Votes,75
+Douglas,Precinct 24,Question 10-118,,,Yes,189
+Douglas,Precinct 24,Question 10-118,,,No,1190
+Douglas,Precinct 24,Question 10-118,,,Over Votes,0
+Douglas,Precinct 24,Question 10-118,,,Under Votes,61
+Douglas,Precinct 24,Question 10-119,,,Yes,600
+Douglas,Precinct 24,Question 10-119,,,No,734
+Douglas,Precinct 24,Question 10-119,,,Over Votes,0
+Douglas,Precinct 24,Question 10-119,,,Under Votes,106
+Douglas,Precinct 25,Registered Voters,,,,1224
+Douglas,Precinct 25,Ballots Cast,,,,832
+Douglas,Precinct 25,President,,WTP,Robert F. Kennedy Jr.,16
+Douglas,Precinct 25,President,,PRO,Cornel West,0
+Douglas,Precinct 25,President,,LBT,Chase Oliver,2
+Douglas,Precinct 25,President,,CON,Randall Terry,0
+Douglas,Precinct 25,President,,REP,Donald J. Trump,557
+Douglas,Precinct 25,President,,PGP,Jill Stein,1
+Douglas,Precinct 25,President,,DEM,Kamala D. Harris,242
+Douglas,Precinct 25,President,,,Write-ins,1
+Douglas,Precinct 25,President,,,Over Votes,0
+Douglas,Precinct 25,President,,,Under Votes,13
+Douglas,Precinct 25,U.S. House,2,REP,Cliff Bentz,532
+Douglas,Precinct 25,U.S. House,2,CON,Michael Kurt Stettler,26
+Douglas,Precinct 25,U.S. House,2,DEM,Dan Ruby,228
+Douglas,Precinct 25,U.S. House,2,,Write-ins,0
+Douglas,Precinct 25,U.S. House,2,,Over Votes,0
+Douglas,Precinct 25,U.S. House,2,,Under Votes,46
+Douglas,Precinct 25,Secretary of State,,PGP,Nathalie Paravicini,17
+Douglas,Precinct 25,Secretary of State,,REP,Dennis Linthicum,532
+Douglas,Precinct 25,Secretary of State,,DEM,Tobias Read,234
+Douglas,Precinct 25,Secretary of State,,,Write-ins,0
+Douglas,Precinct 25,Secretary of State,,,Over Votes,0
+Douglas,Precinct 25,Secretary of State,,,Under Votes,47
+Douglas,Precinct 25,State Treasurer,,WFP,Mary King,42
+Douglas,Precinct 25,State Treasurer,,REP,Brian J Boquist,527
+Douglas,Precinct 25,State Treasurer,,DEM,Elizabeth Steiner,204
+Douglas,Precinct 25,State Treasurer,,,Write-ins,1
+Douglas,Precinct 25,State Treasurer,,,Over Votes,0
+Douglas,Precinct 25,State Treasurer,,,Under Votes,56
+Douglas,Precinct 25,Attorney General,,REP,Will Lathrop,548
+Douglas,Precinct 25,Attorney General,,DEM,Dan Rayfield,238
+Douglas,Precinct 25,Attorney General,,,Write-ins,0
+Douglas,Precinct 25,Attorney General,,,Over Votes,0
+Douglas,Precinct 25,Attorney General,,,Under Votes,44
+Douglas,Precinct 25,State Senate,2,DEM,Tracy Thompson,232
+Douglas,Precinct 25,State Senate,2,,Noah Robinson,545
+Douglas,Precinct 25,State Senate,2,,Write-ins,0
+Douglas,Precinct 25,State Senate,2,,Over Votes,0
+Douglas,Precinct 25,State Senate,2,,Under Votes,53
+Douglas,Precinct 25,State House,4,DEM,Richard Chasm,239
+Douglas,Precinct 25,State House,4,REP,Alek Skarlatos,548
+Douglas,Precinct 25,State House,4,,Write-ins,0
+Douglas,Precinct 25,State House,4,,Under Votes,43
+Douglas,Precinct 25,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,509
+Douglas,Precinct 25,"Judge of the Supreme Court, Position 1",,,Write-ins,6
+Douglas,Precinct 25,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 25,"Judge of the Supreme Court, Position 1",,,Under Votes,315
+Douglas,Precinct 25,"Judge of the Supreme Court, Position 7",,,Bronson D James,509
+Douglas,Precinct 25,"Judge of the Supreme Court, Position 7",,,Write-ins,6
+Douglas,Precinct 25,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 25,"Judge of the Supreme Court, Position 7",,,Under Votes,315
+Douglas,Precinct 25,Douglas County Sheriff,,,John W Hanlin,617
+Douglas,Precinct 25,Douglas County Sheriff,,,Write-ins,14
+Douglas,Precinct 25,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 25,Douglas County Sheriff,,,Under Votes,199
+Douglas,Precinct 25,Douglas County Clerk,,,Dan Loomis,370
+Douglas,Precinct 25,Douglas County Clerk,,,Samantha Frost,244
+Douglas,Precinct 25,Douglas County Clerk,,,Write-ins,4
+Douglas,Precinct 25,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 25,Douglas County Clerk,,,Under Votes,212
+Douglas,Precinct 25,Douglas County Treasurer,,,Samuel W Lee III,510
+Douglas,Precinct 25,Douglas County Treasurer,,,Write-ins,5
+Douglas,Precinct 25,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 25,Douglas County Treasurer,,,Under Votes,315
+Douglas,Precinct 25,"City of Canyonville, Mayor",,,Christine Morgan,590
+Douglas,Precinct 25,"City of Canyonville, Mayor",,,Write-ins,30
+Douglas,Precinct 25,"City of Canyonville, Mayor",,,Over Votes,0
+Douglas,Precinct 25,"City of Canyonville, Mayor",,,Under Votes,210
+Douglas,Precinct 25,"City of Canyonville, Councilor",,,Bruce Knowlton,245
+Douglas,Precinct 25,"City of Canyonville, Councilor",,,Louise P Barton,227
+Douglas,Precinct 25,"City of Canyonville, Councilor",,,Matthew L Briggs,459
+Douglas,Precinct 25,"City of Canyonville, Councilor",,,Jerry P O'Sullivan,252
+Douglas,Precinct 25,"City of Canyonville, Councilor",,,Michael C Graziano,239
+Douglas,Precinct 25,"City of Canyonville, Councilor",,,Alan Freeman,310
+Douglas,Precinct 25,"City of Canyonville, Councilor",,,Over Votes,9
+Douglas,Precinct 25,"City of Canyonville, Councilor",,,Under Votes,735
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 1",,,Write-ins,53
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 1",,,Under Votes,777
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,498
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 2",,,Write-ins,9
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 2",,,Under Votes,323
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 3",,,David A Briggs,536
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 3",,,Write-ins,8
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 25,"Douglas SWCD, Director, Zone 3",,,Under Votes,286
+Douglas,Precinct 25,"Douglas SWCD, Director, At Large 2",,,Write-ins,41
+Douglas,Precinct 25,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 25,"Douglas SWCD, Director, At Large 2",,,Under Votes,789
+Douglas,Precinct 25,Question 10-115,,,Yes,374
+Douglas,Precinct 25,Question 10-115,,,No,381
+Douglas,Precinct 25,Question 10-115,,,Over Votes,0
+Douglas,Precinct 25,Question 10-115,,,Under Votes,75
+Douglas,Precinct 25,Question 10-116,,,Yes,287
+Douglas,Precinct 25,Question 10-116,,,No,455
+Douglas,Precinct 25,Question 10-116,,,Over Votes,0
+Douglas,Precinct 25,Question 10-116,,,Under Votes,88
+Douglas,Precinct 25,Question 10-117,,,Yes,217
+Douglas,Precinct 25,Question 10-117,,,No,548
+Douglas,Precinct 25,Question 10-117,,,Over Votes,0
+Douglas,Precinct 25,Question 10-117,,,Under Votes,65
+Douglas,Precinct 25,Question 10-118,,,Yes,125
+Douglas,Precinct 25,Question 10-118,,,No,650
+Douglas,Precinct 25,Question 10-118,,,Over Votes,0
+Douglas,Precinct 25,Question 10-118,,,Under Votes,55
+Douglas,Precinct 25,Question 10-119,,,Yes,334
+Douglas,Precinct 25,Question 10-119,,,No,410
+Douglas,Precinct 25,Question 10-119,,,Over Votes,0
+Douglas,Precinct 25,Question 10-119,,,Under Votes,86
+Douglas,Precinct 26,Registered Voters,,,,2679
+Douglas,Precinct 26,Ballots Cast,,,,1788
+Douglas,Precinct 26,President,,WTP,Robert F. Kennedy Jr.,44
+Douglas,Precinct 26,President,,PRO,Cornel West,4
+Douglas,Precinct 26,President,,LBT,Chase Oliver,7
+Douglas,Precinct 26,President,,CON,Randall Terry,2
+Douglas,Precinct 26,President,,REP,Donald J. Trump,1208
+Douglas,Precinct 26,President,,PGP,Jill Stein,7
+Douglas,Precinct 26,President,,DEM,Kamala D. Harris,483
+Douglas,Precinct 26,President,,,Write-ins,3
+Douglas,Precinct 26,President,,,Over Votes,2
+Douglas,Precinct 26,President,,,Under Votes,28
+Douglas,Precinct 26,U.S. House,2,REP,Cliff Bentz,1148
+Douglas,Precinct 26,U.S. House,2,CON,Michael Kurt Stettler,72
+Douglas,Precinct 26,U.S. House,2,DEM,Dan Ruby,458
+Douglas,Precinct 26,U.S. House,2,,Write-ins,1
+Douglas,Precinct 26,U.S. House,2,,Over Votes,0
+Douglas,Precinct 26,U.S. House,2,,Under Votes,109
+Douglas,Precinct 26,Secretary of State,,PGP,Nathalie Paravicini,47
+Douglas,Precinct 26,Secretary of State,,REP,Dennis Linthicum,1148
+Douglas,Precinct 26,Secretary of State,,DEM,Tobias Read,485
+Douglas,Precinct 26,Secretary of State,,,Write-ins,2
+Douglas,Precinct 26,Secretary of State,,,Over Votes,0
+Douglas,Precinct 26,Secretary of State,,,Under Votes,103
+Douglas,Precinct 26,State Treasurer,,WFP,Mary King,96
+Douglas,Precinct 26,State Treasurer,,REP,Brian J Boquist,1161
+Douglas,Precinct 26,State Treasurer,,DEM,Elizabeth Steiner,411
+Douglas,Precinct 26,State Treasurer,,,Write-ins,0
+Douglas,Precinct 26,State Treasurer,,,Over Votes,0
+Douglas,Precinct 26,State Treasurer,,,Under Votes,117
+Douglas,Precinct 26,Attorney General,,REP,Will Lathrop,1212
+Douglas,Precinct 26,Attorney General,,DEM,Dan Rayfield,458
+Douglas,Precinct 26,Attorney General,,,Write-ins,1
+Douglas,Precinct 26,Attorney General,,,Over Votes,0
+Douglas,Precinct 26,Attorney General,,,Under Votes,114
+Douglas,Precinct 26,State Senate,1,DEM,Lupe Preciado-McAlister,400
+Douglas,Precinct 26,State Senate,1,REP,David Brock Smith,1256
+Douglas,Precinct 26,State Senate,1,,Write-ins,1
+Douglas,Precinct 26,State Senate,1,,Under Votes,128
+Douglas,Precinct 26,State House,2,DEM,August Warren,422
+Douglas,Precinct 26,State House,2,REP,Virgle J Osborne,1236
+Douglas,Precinct 26,State House,2,,Write-ins,2
+Douglas,Precinct 26,State House,2,,Over Votes,0
+Douglas,Precinct 26,State House,2,,Under Votes,125
+Douglas,Precinct 26,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,1043
+Douglas,Precinct 26,"Judge of the Supreme Court, Position 1",,,Write-ins,34
+Douglas,Precinct 26,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 26,"Judge of the Supreme Court, Position 1",,,Under Votes,708
+Douglas,Precinct 26,"Judge of the Supreme Court, Position 7",,,Bronson D James,1056
+Douglas,Precinct 26,"Judge of the Supreme Court, Position 7",,,Write-ins,27
+Douglas,Precinct 26,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 26,"Judge of the Supreme Court, Position 7",,,Under Votes,702
+Douglas,Precinct 26,Douglas County Sheriff,,,John W Hanlin,1338
+Douglas,Precinct 26,Douglas County Sheriff,,,Write-ins,37
+Douglas,Precinct 26,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 26,Douglas County Sheriff,,,Under Votes,410
+Douglas,Precinct 26,Douglas County Clerk,,,Dan Loomis,810
+Douglas,Precinct 26,Douglas County Clerk,,,Samantha Frost,520
+Douglas,Precinct 26,Douglas County Clerk,,,Write-ins,14
+Douglas,Precinct 26,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 26,Douglas County Clerk,,,Under Votes,441
+Douglas,Precinct 26,Douglas County Treasurer,,,Samuel W Lee III,1056
+Douglas,Precinct 26,Douglas County Treasurer,,,Write-ins,16
+Douglas,Precinct 26,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 26,Douglas County Treasurer,,,Under Votes,713
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 1",,,Bob Chaney Sr,1124
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 1",,,Write-ins,30
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 1",,,Over Votes,0
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 1",,,Under Votes,631
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 3",,,Cathey Wragg,1074
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 3",,,Write-ins,30
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 3",,,Over Votes,0
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 3",,,Under Votes,681
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 5",,,Rick Held,1146
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 5",,,Write-ins,30
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 5",,,Over Votes,0
+Douglas,Precinct 26,"City of Myrtle Creek, Councilor, Position 5",,,Under Votes,609
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 1",,,Write-ins,145
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 1",,,Under Votes,1640
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,1038
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 2",,,Write-ins,12
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 2",,,Under Votes,735
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 3",,,David A Briggs,1068
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 3",,,Write-ins,12
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 26,"Douglas SWCD, Director, Zone 3",,,Under Votes,705
+Douglas,Precinct 26,"Douglas SWCD, Director, At Large 2",,,Write-ins,127
+Douglas,Precinct 26,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 26,"Douglas SWCD, Director, At Large 2",,,Under Votes,1658
+Douglas,Precinct 26,Question 10-115,,,Yes,800
+Douglas,Precinct 26,Question 10-115,,,No,856
+Douglas,Precinct 26,Question 10-115,,,Over Votes,0
+Douglas,Precinct 26,Question 10-115,,,Under Votes,129
+Douglas,Precinct 26,Question 10-116,,,Yes,586
+Douglas,Precinct 26,Question 10-116,,,No,1049
+Douglas,Precinct 26,Question 10-116,,,Over Votes,0
+Douglas,Precinct 26,Question 10-116,,,Under Votes,150
+Douglas,Precinct 26,Question 10-117,,,Yes,463
+Douglas,Precinct 26,Question 10-117,,,No,1216
+Douglas,Precinct 26,Question 10-117,,,Over Votes,0
+Douglas,Precinct 26,Question 10-117,,,Under Votes,106
+Douglas,Precinct 26,Question 10-118,,,Yes,275
+Douglas,Precinct 26,Question 10-118,,,No,1419
+Douglas,Precinct 26,Question 10-118,,,Over Votes,0
+Douglas,Precinct 26,Question 10-118,,,Under Votes,91
+Douglas,Precinct 26,Question 10-119,,,Yes,655
+Douglas,Precinct 26,Question 10-119,,,No,961
+Douglas,Precinct 26,Question 10-119,,,Over Votes,0
+Douglas,Precinct 26,Question 10-119,,,Under Votes,169
+Douglas,Precinct 27,Registered Voters,,,,603
+Douglas,Precinct 27,Ballots Cast,,,,378
+Douglas,Precinct 27,President,,WTP,Robert F. Kennedy Jr.,10
+Douglas,Precinct 27,President,,PRO,Cornel West,1
+Douglas,Precinct 27,President,,LBT,Chase Oliver,2
+Douglas,Precinct 27,President,,CON,Randall Terry,0
+Douglas,Precinct 27,President,,REP,Donald J. Trump,275
+Douglas,Precinct 27,President,,PGP,Jill Stein,0
+Douglas,Precinct 27,President,,DEM,Kamala D. Harris,81
+Douglas,Precinct 27,President,,,Write-ins,3
+Douglas,Precinct 27,President,,,Over Votes,0
+Douglas,Precinct 27,President,,,Under Votes,6
+Douglas,Precinct 27,U.S. House,2,REP,Cliff Bentz,254
+Douglas,Precinct 27,U.S. House,2,CON,Michael Kurt Stettler,16
+Douglas,Precinct 27,U.S. House,2,DEM,Dan Ruby,80
+Douglas,Precinct 27,U.S. House,2,,Write-ins,1
+Douglas,Precinct 27,U.S. House,2,,Over Votes,0
+Douglas,Precinct 27,U.S. House,2,,Under Votes,27
+Douglas,Precinct 27,Secretary of State,,PGP,Nathalie Paravicini,12
+Douglas,Precinct 27,Secretary of State,,REP,Dennis Linthicum,257
+Douglas,Precinct 27,Secretary of State,,DEM,Tobias Read,82
+Douglas,Precinct 27,Secretary of State,,,Write-ins,1
+Douglas,Precinct 27,Secretary of State,,,Over Votes,0
+Douglas,Precinct 27,Secretary of State,,,Under Votes,26
+Douglas,Precinct 27,State Treasurer,,WFP,Mary King,26
+Douglas,Precinct 27,State Treasurer,,REP,Brian J Boquist,250
+Douglas,Precinct 27,State Treasurer,,DEM,Elizabeth Steiner,67
+Douglas,Precinct 27,State Treasurer,,,Write-ins,1
+Douglas,Precinct 27,State Treasurer,,,Over Votes,0
+Douglas,Precinct 27,State Treasurer,,,Under Votes,34
+Douglas,Precinct 27,Attorney General,,REP,Will Lathrop,263
+Douglas,Precinct 27,Attorney General,,DEM,Dan Rayfield,82
+Douglas,Precinct 27,Attorney General,,,Write-ins,2
+Douglas,Precinct 27,Attorney General,,,Over Votes,0
+Douglas,Precinct 27,Attorney General,,,Under Votes,31
+Douglas,Precinct 27,State Senate,2,DEM,Tracy Thompson,80
+Douglas,Precinct 27,State Senate,2,,Noah Robinson,263
+Douglas,Precinct 27,State Senate,2,,Write-ins,1
+Douglas,Precinct 27,State Senate,2,,Over Votes,0
+Douglas,Precinct 27,State Senate,2,,Under Votes,34
+Douglas,Precinct 27,State House,4,DEM,Richard Chasm,92
+Douglas,Precinct 27,State House,4,REP,Alek Skarlatos,258
+Douglas,Precinct 27,State House,4,,Write-ins,1
+Douglas,Precinct 27,State House,4,,Over Votes,0
+Douglas,Precinct 27,State House,4,,Under Votes,27
+Douglas,Precinct 27,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,226
+Douglas,Precinct 27,"Judge of the Supreme Court, Position 1",,,Write-ins,9
+Douglas,Precinct 27,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 27,"Judge of the Supreme Court, Position 1",,,Under Votes,143
+Douglas,Precinct 27,"Judge of the Supreme Court, Position 7",,,Bronson D James,233
+Douglas,Precinct 27,"Judge of the Supreme Court, Position 7",,,Write-ins,7
+Douglas,Precinct 27,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 27,"Judge of the Supreme Court, Position 7",,,Under Votes,138
+Douglas,Precinct 27,Douglas County Sheriff,,,John W Hanlin,264
+Douglas,Precinct 27,Douglas County Sheriff,,,Write-ins,7
+Douglas,Precinct 27,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 27,Douglas County Sheriff,,,Under Votes,107
+Douglas,Precinct 27,Douglas County Clerk,,,Dan Loomis,171
+Douglas,Precinct 27,Douglas County Clerk,,,Samantha Frost,98
+Douglas,Precinct 27,Douglas County Clerk,,,Write-ins,4
+Douglas,Precinct 27,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 27,Douglas County Clerk,,,Under Votes,105
+Douglas,Precinct 27,Douglas County Treasurer,,,Samuel W Lee III,225
+Douglas,Precinct 27,Douglas County Treasurer,,,Write-ins,8
+Douglas,Precinct 27,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 27,Douglas County Treasurer,,,Under Votes,145
+Douglas,Precinct 27,"City of Glendale, Mayor",,,Crystal Martin,250
+Douglas,Precinct 27,"City of Glendale, Mayor",,,Write-ins,38
+Douglas,Precinct 27,"City of Glendale, Mayor",,,Over Votes,0
+Douglas,Precinct 27,"City of Glendale, Mayor",,,Under Votes,90
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 1",,,Ronald D Loggins,191
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 1",,,Jim Standard,129
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 1",,,Write-ins,5
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 1",,,Over Votes,0
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 1",,,Under Votes,53
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 2",,,Lucille Leola Martin,241
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 2",,,Write-ins,23
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 2",,,Over Votes,0
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 2",,,Under Votes,114
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 5",,,Warren (Ted) Grissom,133
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 5",,,Tammy L Jones,162
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 5",,,Write-ins,10
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 5",,,Over Votes,1
+Douglas,Precinct 27,"City of Glendale, Councilor, Position 5",,,Under Votes,72
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 1",,,Write-ins,27
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 1",,,Under Votes,351
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,220
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 2",,,Write-ins,4
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 2",,,Under Votes,154
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 3",,,David A Briggs,218
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 3",,,Write-ins,5
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 27,"Douglas SWCD, Director, Zone 3",,,Under Votes,155
+Douglas,Precinct 27,"Douglas SWCD, Director, At Large 2",,,Write-ins,25
+Douglas,Precinct 27,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 27,"Douglas SWCD, Director, At Large 2",,,Under Votes,353
+Douglas,Precinct 27,Question 10-115,,,Yes,152
+Douglas,Precinct 27,Question 10-115,,,No,184
+Douglas,Precinct 27,Question 10-115,,,Over Votes,0
+Douglas,Precinct 27,Question 10-115,,,Under Votes,42
+Douglas,Precinct 27,Question 10-116,,,Yes,112
+Douglas,Precinct 27,Question 10-116,,,No,215
+Douglas,Precinct 27,Question 10-116,,,Over Votes,0
+Douglas,Precinct 27,Question 10-116,,,Under Votes,51
+Douglas,Precinct 27,Question 10-117,,,Yes,77
+Douglas,Precinct 27,Question 10-117,,,No,263
+Douglas,Precinct 27,Question 10-117,,,Over Votes,0
+Douglas,Precinct 27,Question 10-117,,,Under Votes,38
+Douglas,Precinct 27,Question 10-118,,,Yes,60
+Douglas,Precinct 27,Question 10-118,,,No,291
+Douglas,Precinct 27,Question 10-118,,,Over Votes,0
+Douglas,Precinct 27,Question 10-118,,,Under Votes,27
+Douglas,Precinct 27,Question 10-119,,,Yes,134
+Douglas,Precinct 27,Question 10-119,,,No,187
+Douglas,Precinct 27,Question 10-119,,,Over Votes,0
+Douglas,Precinct 27,Question 10-119,,,Under Votes,57
+Douglas,Precinct 28,Registered Voters,,,,831
+Douglas,Precinct 28,Ballots Cast,,,,467
+Douglas,Precinct 28,President,,WTP,Robert F. Kennedy Jr.,5
+Douglas,Precinct 28,President,,PRO,Cornel West,0
+Douglas,Precinct 28,President,,LBT,Chase Oliver,2
+Douglas,Precinct 28,President,,CON,Randall Terry,0
+Douglas,Precinct 28,President,,REP,Donald J. Trump,329
+Douglas,Precinct 28,President,,PGP,Jill Stein,3
+Douglas,Precinct 28,President,,DEM,Kamala D. Harris,118
+Douglas,Precinct 28,President,,,Write-ins,1
+Douglas,Precinct 28,President,,,Over Votes,0
+Douglas,Precinct 28,President,,,Under Votes,9
+Douglas,Precinct 28,U.S. House,2,REP,Cliff Bentz,318
+Douglas,Precinct 28,U.S. House,2,CON,Michael Kurt Stettler,21
+Douglas,Precinct 28,U.S. House,2,DEM,Dan Ruby,106
+Douglas,Precinct 28,U.S. House,2,,Write-ins,0
+Douglas,Precinct 28,U.S. House,2,,Over Votes,0
+Douglas,Precinct 28,U.S. House,2,,Under Votes,22
+Douglas,Precinct 28,Secretary of State,,PGP,Nathalie Paravicini,11
+Douglas,Precinct 28,Secretary of State,,REP,Dennis Linthicum,324
+Douglas,Precinct 28,Secretary of State,,DEM,Tobias Read,109
+Douglas,Precinct 28,Secretary of State,,,Write-ins,0
+Douglas,Precinct 28,Secretary of State,,,Over Votes,0
+Douglas,Precinct 28,Secretary of State,,,Under Votes,23
+Douglas,Precinct 28,State Treasurer,,WFP,Mary King,25
+Douglas,Precinct 28,State Treasurer,,REP,Brian J Boquist,321
+Douglas,Precinct 28,State Treasurer,,DEM,Elizabeth Steiner,90
+Douglas,Precinct 28,State Treasurer,,,Write-ins,0
+Douglas,Precinct 28,State Treasurer,,,Over Votes,0
+Douglas,Precinct 28,State Treasurer,,,Under Votes,31
+Douglas,Precinct 28,Attorney General,,REP,Will Lathrop,333
+Douglas,Precinct 28,Attorney General,,DEM,Dan Rayfield,113
+Douglas,Precinct 28,Attorney General,,,Write-ins,1
+Douglas,Precinct 28,Attorney General,,,Over Votes,0
+Douglas,Precinct 28,Attorney General,,,Under Votes,20
+Douglas,Precinct 28,State Senate,2,DEM,Tracy Thompson,118
+Douglas,Precinct 28,State Senate,2,,Noah Robinson,321
+Douglas,Precinct 28,State Senate,2,,Write-ins,1
+Douglas,Precinct 28,State Senate,2,,Over Votes,0
+Douglas,Precinct 28,State Senate,2,,Under Votes,27
+Douglas,Precinct 28,State House,4,DEM,Richard Chasm,112
+Douglas,Precinct 28,State House,4,REP,Alek Skarlatos,328
+Douglas,Precinct 28,State House,4,,Write-ins,4
+Douglas,Precinct 28,State House,4,,Over Votes,0
+Douglas,Precinct 28,State House,4,,Under Votes,23
+Douglas,Precinct 28,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,286
+Douglas,Precinct 28,"Judge of the Supreme Court, Position 1",,,Write-ins,5
+Douglas,Precinct 28,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 28,"Judge of the Supreme Court, Position 1",,,Under Votes,176
+Douglas,Precinct 28,"Judge of the Supreme Court, Position 7",,,Bronson D James,289
+Douglas,Precinct 28,"Judge of the Supreme Court, Position 7",,,Write-ins,6
+Douglas,Precinct 28,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 28,"Judge of the Supreme Court, Position 7",,,Under Votes,172
+Douglas,Precinct 28,Douglas County Sheriff,,,John W Hanlin,369
+Douglas,Precinct 28,Douglas County Sheriff,,,Write-ins,4
+Douglas,Precinct 28,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 28,Douglas County Sheriff,,,Under Votes,94
+Douglas,Precinct 28,Douglas County Clerk,,,Dan Loomis,220
+Douglas,Precinct 28,Douglas County Clerk,,,Samantha Frost,138
+Douglas,Precinct 28,Douglas County Clerk,,,Write-ins,2
+Douglas,Precinct 28,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 28,Douglas County Clerk,,,Under Votes,107
+Douglas,Precinct 28,Douglas County Treasurer,,,Samuel W Lee III,292
+Douglas,Precinct 28,Douglas County Treasurer,,,Write-ins,1
+Douglas,Precinct 28,Douglas County Treasurer,,,Over Votes,1
+Douglas,Precinct 28,Douglas County Treasurer,,,Under Votes,173
+Douglas,Precinct 28,"City of Riddle, Mayor",,,William (Bill) Duckett,303
+Douglas,Precinct 28,"City of Riddle, Mayor",,,Write-ins,46
+Douglas,Precinct 28,"City of Riddle, Mayor",,,Over Votes,1
+Douglas,Precinct 28,"City of Riddle, Mayor",,,Under Votes,117
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 2",,,Michael Randall,310
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 2",,,Write-ins,21
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 2",,,Over Votes,0
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 2",,,Under Votes,136
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 3",,,Sarah Hicks,326
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 3",,,Write-ins,4
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 3",,,Over Votes,0
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 3",,,Under Votes,137
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 6",,,Patricia Addis,180
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 6",,,Aaron W Christensen,188
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 6",,,Write-ins,2
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 6",,,Over Votes,0
+Douglas,Precinct 28,"City of Riddle, Councilor, Position 6",,,Under Votes,97
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 1",,,Write-ins,20
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 1",,,Under Votes,447
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,290
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 2",,,Write-ins,2
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 2",,,Under Votes,175
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 3",,,David A Briggs,308
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 3",,,Write-ins,1
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 28,"Douglas SWCD, Director, Zone 3",,,Under Votes,158
+Douglas,Precinct 28,"Douglas SWCD, Director, At Large 2",,,Write-ins,18
+Douglas,Precinct 28,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 28,"Douglas SWCD, Director, At Large 2",,,Under Votes,449
+Douglas,Precinct 28,Question 10-115,,,Yes,189
+Douglas,Precinct 28,Question 10-115,,,No,241
+Douglas,Precinct 28,Question 10-115,,,Over Votes,0
+Douglas,Precinct 28,Question 10-115,,,Under Votes,37
+Douglas,Precinct 28,Question 10-116,,,Yes,134
+Douglas,Precinct 28,Question 10-116,,,No,285
+Douglas,Precinct 28,Question 10-116,,,Over Votes,0
+Douglas,Precinct 28,Question 10-116,,,Under Votes,48
+Douglas,Precinct 28,Question 10-117,,,Yes,99
+Douglas,Precinct 28,Question 10-117,,,No,336
+Douglas,Precinct 28,Question 10-117,,,Over Votes,0
+Douglas,Precinct 28,Question 10-117,,,Under Votes,32
+Douglas,Precinct 28,Question 10-118,,,Yes,65
+Douglas,Precinct 28,Question 10-118,,,No,375
+Douglas,Precinct 28,Question 10-118,,,Over Votes,0
+Douglas,Precinct 28,Question 10-118,,,Under Votes,27
+Douglas,Precinct 28,Question 10-119,,,Yes,162
+Douglas,Precinct 28,Question 10-119,,,No,263
+Douglas,Precinct 28,Question 10-119,,,Over Votes,0
+Douglas,Precinct 28,Question 10-119,,,Under Votes,42
+Douglas,Precinct 29,Registered Voters,,,,807
+Douglas,Precinct 29,Ballots Cast,,,,581
+Douglas,Precinct 29,President,,WTP,Robert F. Kennedy Jr.,5
+Douglas,Precinct 29,President,,PRO,Cornel West,1
+Douglas,Precinct 29,President,,LBT,Chase Oliver,0
+Douglas,Precinct 29,President,,CON,Randall Terry,3
+Douglas,Precinct 29,President,,REP,Donald J. Trump,427
+Douglas,Precinct 29,President,,PGP,Jill Stein,2
+Douglas,Precinct 29,President,,DEM,Kamala D. Harris,139
+Douglas,Precinct 29,President,,,Write-ins,2
+Douglas,Precinct 29,President,,,Over Votes,2
+Douglas,Precinct 29,President,,,Under Votes,0
+Douglas,Precinct 29,U.S. House,2,REP,Cliff Bentz,411
+Douglas,Precinct 29,U.S. House,2,CON,Michael Kurt Stettler,27
+Douglas,Precinct 29,U.S. House,2,DEM,Dan Ruby,123
+Douglas,Precinct 29,U.S. House,2,,Write-ins,1
+Douglas,Precinct 29,U.S. House,2,,Over Votes,0
+Douglas,Precinct 29,U.S. House,2,,Under Votes,19
+Douglas,Precinct 29,Secretary of State,,PGP,Nathalie Paravicini,11
+Douglas,Precinct 29,Secretary of State,,REP,Dennis Linthicum,417
+Douglas,Precinct 29,Secretary of State,,DEM,Tobias Read,133
+Douglas,Precinct 29,Secretary of State,,,Write-ins,0
+Douglas,Precinct 29,Secretary of State,,,Over Votes,0
+Douglas,Precinct 29,Secretary of State,,,Under Votes,20
+Douglas,Precinct 29,State Treasurer,,WFP,Mary King,27
+Douglas,Precinct 29,State Treasurer,,REP,Brian J Boquist,423
+Douglas,Precinct 29,State Treasurer,,DEM,Elizabeth Steiner,104
+Douglas,Precinct 29,State Treasurer,,,Write-ins,0
+Douglas,Precinct 29,State Treasurer,,,Over Votes,0
+Douglas,Precinct 29,State Treasurer,,,Under Votes,27
+Douglas,Precinct 29,Attorney General,,REP,Will Lathrop,429
+Douglas,Precinct 29,Attorney General,,DEM,Dan Rayfield,129
+Douglas,Precinct 29,Attorney General,,,Write-ins,0
+Douglas,Precinct 29,Attorney General,,,Over Votes,0
+Douglas,Precinct 29,Attorney General,,,Under Votes,23
+Douglas,Precinct 29,State Senate,1,DEM,Lupe Preciado-McAlister,115
+Douglas,Precinct 29,State Senate,1,REP,David Brock Smith,441
+Douglas,Precinct 29,State Senate,1,,Write-ins,0
+Douglas,Precinct 29,State Senate,1,,Over Votes,0
+Douglas,Precinct 29,State Senate,1,,Under Votes,25
+Douglas,Precinct 29,State House,1,REP,Court Boice,429
+Douglas,Precinct 29,State House,1,DEM,Bret Cecil,124
+Douglas,Precinct 29,State House,1,,Write-ins,0
+Douglas,Precinct 29,State House,1,,Over Votes,0
+Douglas,Precinct 29,State House,1,,Under Votes,28
+Douglas,Precinct 29,"Judge of the Supreme Court, Position 1",,,Stephen K Bushong,358
+Douglas,Precinct 29,"Judge of the Supreme Court, Position 1",,,Write-ins,13
+Douglas,Precinct 29,"Judge of the Supreme Court, Position 1",,,Over Votes,0
+Douglas,Precinct 29,"Judge of the Supreme Court, Position 1",,,Under Votes,210
+Douglas,Precinct 29,"Judge of the Supreme Court, Position 7",,,Bronson D James,364
+Douglas,Precinct 29,"Judge of the Supreme Court, Position 7",,,Write-ins,11
+Douglas,Precinct 29,"Judge of the Supreme Court, Position 7",,,Over Votes,0
+Douglas,Precinct 29,"Judge of the Supreme Court, Position 7",,,Under Votes,206
+Douglas,Precinct 29,Douglas County Sheriff,,,John W Hanlin,472
+Douglas,Precinct 29,Douglas County Sheriff,,,Write-ins,9
+Douglas,Precinct 29,Douglas County Sheriff,,,Over Votes,0
+Douglas,Precinct 29,Douglas County Sheriff,,,Under Votes,100
+Douglas,Precinct 29,Douglas County Clerk,,,Dan Loomis,294
+Douglas,Precinct 29,Douglas County Clerk,,,Samantha Frost,165
+Douglas,Precinct 29,Douglas County Clerk,,,Write-ins,2
+Douglas,Precinct 29,Douglas County Clerk,,,Over Votes,0
+Douglas,Precinct 29,Douglas County Clerk,,,Under Votes,120
+Douglas,Precinct 29,Douglas County Treasurer,,,Samuel W Lee III,374
+Douglas,Precinct 29,Douglas County Treasurer,,,Write-ins,4
+Douglas,Precinct 29,Douglas County Treasurer,,,Over Votes,0
+Douglas,Precinct 29,Douglas County Treasurer,,,Under Votes,203
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 1",,,Write-ins,39
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 1",,,Over Votes,0
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 1",,,Under Votes,542
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 2",,,Scott G Hendy,372
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 2",,,Write-ins,4
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 2",,,Over Votes,0
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 2",,,Under Votes,205
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 3",,,David A Briggs,377
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 3",,,Write-ins,3
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 3",,,Over Votes,0
+Douglas,Precinct 29,"Douglas SWCD, Director, Zone 3",,,Under Votes,201
+Douglas,Precinct 29,"Douglas SWCD, Director, At Large 2",,,Write-ins,36
+Douglas,Precinct 29,"Douglas SWCD, Director, At Large 2",,,Over Votes,0
+Douglas,Precinct 29,"Douglas SWCD, Director, At Large 2",,,Under Votes,545
+Douglas,Precinct 29,Question 10-115,,,Yes,283
+Douglas,Precinct 29,Question 10-115,,,No,268
+Douglas,Precinct 29,Question 10-115,,,Over Votes,0
+Douglas,Precinct 29,Question 10-115,,,Under Votes,30
+Douglas,Precinct 29,Question 10-116,,,Yes,180
+Douglas,Precinct 29,Question 10-116,,,No,362
+Douglas,Precinct 29,Question 10-116,,,Over Votes,0
+Douglas,Precinct 29,Question 10-116,,,Under Votes,39
+Douglas,Precinct 29,Question 10-117,,,Yes,148
+Douglas,Precinct 29,Question 10-117,,,No,401
+Douglas,Precinct 29,Question 10-117,,,Over Votes,0
+Douglas,Precinct 29,Question 10-117,,,Under Votes,32
+Douglas,Precinct 29,Question 10-118,,,Yes,77
+Douglas,Precinct 29,Question 10-118,,,No,478
+Douglas,Precinct 29,Question 10-118,,,Over Votes,0
+Douglas,Precinct 29,Question 10-118,,,Under Votes,26
+Douglas,Precinct 29,Question 10-119,,,Yes,222
+Douglas,Precinct 29,Question 10-119,,,No,317
+Douglas,Precinct 29,Question 10-119,,,Over Votes,0
+Douglas,Precinct 29,Question 10-119,,,Under Votes,42
