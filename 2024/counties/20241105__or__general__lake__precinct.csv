@@ -1,0 +1,932 @@
+county,precinct,office,district,party,candidate,votes
+Lake,SILVER LAKE P-1,President,,WTP,Robert F. Kennedy Jr.,2
+Lake,SUMMER LAKE P-2,President,,WTP,Robert F. Kennedy Jr.,0
+Lake,PAISLEY P-3,President,,WTP,Robert F. Kennedy Jr.,3
+Lake,CROOKED CREEK P-4,President,,WTP,Robert F. Kennedy Jr.,2
+Lake,NORTH WARNER P-5,President,,WTP,Robert F. Kennedy Jr.,0
+Lake,SOUTH WARNER P-6,President,,WTP,Robert F. Kennedy Jr.,0
+Lake,NORTH LAKEVIEW P-7,President,,WTP,Robert F. Kennedy Jr.,7
+Lake,SOUTH LAKEVIEW P-8,President,,WTP,Robert F. Kennedy Jr.,5
+Lake,FREMONT P-9,President,,WTP,Robert F. Kennedy Jr.,4
+Lake,GOOSE LAKE P-10,President,,WTP,Robert F. Kennedy Jr.,1
+Lake,COGSWELL CREEK P-11,President,,WTP,Robert F. Kennedy Jr.,4
+Lake,THOM.CRK. WESTSIDE P-12,President,,WTP,Robert F. Kennedy Jr.,6
+Lake,CHRISTMAS VALLEY P-13,President,,WTP,Robert F. Kennedy Jr.,14
+Lake,FORT ROCK P-14,President,,WTP,Robert F. Kennedy Jr.,1
+Lake,WEST LAKEVIEW P-15,President,,WTP,Robert F. Kennedy Jr.,4
+Lake,NEW PINE CREEK P-16,President,,WTP,Robert F. Kennedy Jr.,0
+Lake,VALLEY FALLS PREC. P-18,President,,WTP,Robert F. Kennedy Jr.,0
+Lake,NO. CENTRAL LKVW. P-20,President,,WTP,Robert F. Kennedy Jr.,7
+Lake,SO. CENTRAL LKVW. P-21,President,,WTP,Robert F. Kennedy Jr.,8
+Lake,SILVER LAKE P-1,President,,PRO,Cornel West,0
+Lake,SUMMER LAKE P-2,President,,PRO,Cornel West,0
+Lake,PAISLEY P-3,President,,PRO,Cornel West,0
+Lake,CROOKED CREEK P-4,President,,PRO,Cornel West,0
+Lake,NORTH WARNER P-5,President,,PRO,Cornel West,0
+Lake,SOUTH WARNER P-6,President,,PRO,Cornel West,0
+Lake,NORTH LAKEVIEW P-7,President,,PRO,Cornel West,0
+Lake,SOUTH LAKEVIEW P-8,President,,PRO,Cornel West,0
+Lake,FREMONT P-9,President,,PRO,Cornel West,0
+Lake,GOOSE LAKE P-10,President,,PRO,Cornel West,0
+Lake,COGSWELL CREEK P-11,President,,PRO,Cornel West,0
+Lake,THOM.CRK. WESTSIDE P-12,President,,PRO,Cornel West,0
+Lake,CHRISTMAS VALLEY P-13,President,,PRO,Cornel West,0
+Lake,FORT ROCK P-14,President,,PRO,Cornel West,0
+Lake,WEST LAKEVIEW P-15,President,,PRO,Cornel West,0
+Lake,NEW PINE CREEK P-16,President,,PRO,Cornel West,0
+Lake,VALLEY FALLS PREC. P-18,President,,PRO,Cornel West,0
+Lake,NO. CENTRAL LKVW. P-20,President,,PRO,Cornel West,0
+Lake,SO. CENTRAL LKVW. P-21,President,,PRO,Cornel West,0
+Lake,SILVER LAKE P-1,President,,LBT,Chase Oliver,0
+Lake,SUMMER LAKE P-2,President,,LBT,Chase Oliver,0
+Lake,PAISLEY P-3,President,,LBT,Chase Oliver,1
+Lake,CROOKED CREEK P-4,President,,LBT,Chase Oliver,0
+Lake,NORTH WARNER P-5,President,,LBT,Chase Oliver,0
+Lake,SOUTH WARNER P-6,President,,LBT,Chase Oliver,1
+Lake,NORTH LAKEVIEW P-7,President,,LBT,Chase Oliver,0
+Lake,SOUTH LAKEVIEW P-8,President,,LBT,Chase Oliver,0
+Lake,FREMONT P-9,President,,LBT,Chase Oliver,0
+Lake,GOOSE LAKE P-10,President,,LBT,Chase Oliver,1
+Lake,COGSWELL CREEK P-11,President,,LBT,Chase Oliver,1
+Lake,THOM.CRK. WESTSIDE P-12,President,,LBT,Chase Oliver,1
+Lake,CHRISTMAS VALLEY P-13,President,,LBT,Chase Oliver,3
+Lake,FORT ROCK P-14,President,,LBT,Chase Oliver,0
+Lake,WEST LAKEVIEW P-15,President,,LBT,Chase Oliver,1
+Lake,NEW PINE CREEK P-16,President,,LBT,Chase Oliver,0
+Lake,VALLEY FALLS PREC. P-18,President,,LBT,Chase Oliver,0
+Lake,NO. CENTRAL LKVW. P-20,President,,LBT,Chase Oliver,0
+Lake,SO. CENTRAL LKVW. P-21,President,,LBT,Chase Oliver,2
+Lake,SILVER LAKE P-1,President,,CON,Randall Terry,0
+Lake,SUMMER LAKE P-2,President,,CON,Randall Terry,0
+Lake,PAISLEY P-3,President,,CON,Randall Terry,0
+Lake,CROOKED CREEK P-4,President,,CON,Randall Terry,0
+Lake,NORTH WARNER P-5,President,,CON,Randall Terry,0
+Lake,SOUTH WARNER P-6,President,,CON,Randall Terry,0
+Lake,NORTH LAKEVIEW P-7,President,,CON,Randall Terry,0
+Lake,SOUTH LAKEVIEW P-8,President,,CON,Randall Terry,1
+Lake,FREMONT P-9,President,,CON,Randall Terry,0
+Lake,GOOSE LAKE P-10,President,,CON,Randall Terry,0
+Lake,COGSWELL CREEK P-11,President,,CON,Randall Terry,0
+Lake,THOM.CRK. WESTSIDE P-12,President,,CON,Randall Terry,0
+Lake,CHRISTMAS VALLEY P-13,President,,CON,Randall Terry,1
+Lake,FORT ROCK P-14,President,,CON,Randall Terry,0
+Lake,WEST LAKEVIEW P-15,President,,CON,Randall Terry,1
+Lake,NEW PINE CREEK P-16,President,,CON,Randall Terry,0
+Lake,VALLEY FALLS PREC. P-18,President,,CON,Randall Terry,0
+Lake,NO. CENTRAL LKVW. P-20,President,,CON,Randall Terry,0
+Lake,SO. CENTRAL LKVW. P-21,President,,CON,Randall Terry,1
+Lake,SILVER LAKE P-1,President,,REP,Donald J. Trump,109
+Lake,SUMMER LAKE P-2,President,,REP,Donald J. Trump,61
+Lake,PAISLEY P-3,President,,REP,Donald J. Trump,156
+Lake,CROOKED CREEK P-4,President,,REP,Donald J. Trump,247
+Lake,NORTH WARNER P-5,President,,REP,Donald J. Trump,56
+Lake,SOUTH WARNER P-6,President,,REP,Donald J. Trump,62
+Lake,NORTH LAKEVIEW P-7,President,,REP,Donald J. Trump,169
+Lake,SOUTH LAKEVIEW P-8,President,,REP,Donald J. Trump,168
+Lake,FREMONT P-9,President,,REP,Donald J. Trump,162
+Lake,GOOSE LAKE P-10,President,,REP,Donald J. Trump,215
+Lake,COGSWELL CREEK P-11,President,,REP,Donald J. Trump,216
+Lake,THOM.CRK. WESTSIDE P-12,President,,REP,Donald J. Trump,461
+Lake,CHRISTMAS VALLEY P-13,President,,REP,Donald J. Trump,711
+Lake,FORT ROCK P-14,President,,REP,Donald J. Trump,124
+Lake,WEST LAKEVIEW P-15,President,,REP,Donald J. Trump,92
+Lake,NEW PINE CREEK P-16,President,,REP,Donald J. Trump,60
+Lake,VALLEY FALLS PREC. P-18,President,,REP,Donald J. Trump,35
+Lake,NO. CENTRAL LKVW. P-20,President,,REP,Donald J. Trump,153
+Lake,SO. CENTRAL LKVW. P-21,President,,REP,Donald J. Trump,164
+Lake,SILVER LAKE P-1,President,,PGP,Jill Stein,1
+Lake,SUMMER LAKE P-2,President,,PGP,Jill Stein,0
+Lake,PAISLEY P-3,President,,PGP,Jill Stein,2
+Lake,CROOKED CREEK P-4,President,,PGP,Jill Stein,3
+Lake,NORTH WARNER P-5,President,,PGP,Jill Stein,0
+Lake,SOUTH WARNER P-6,President,,PGP,Jill Stein,0
+Lake,NORTH LAKEVIEW P-7,President,,PGP,Jill Stein,0
+Lake,SOUTH LAKEVIEW P-8,President,,PGP,Jill Stein,1
+Lake,FREMONT P-9,President,,PGP,Jill Stein,1
+Lake,GOOSE LAKE P-10,President,,PGP,Jill Stein,1
+Lake,COGSWELL CREEK P-11,President,,PGP,Jill Stein,1
+Lake,THOM.CRK. WESTSIDE P-12,President,,PGP,Jill Stein,1
+Lake,CHRISTMAS VALLEY P-13,President,,PGP,Jill Stein,3
+Lake,FORT ROCK P-14,President,,PGP,Jill Stein,0
+Lake,WEST LAKEVIEW P-15,President,,PGP,Jill Stein,0
+Lake,NEW PINE CREEK P-16,President,,PGP,Jill Stein,0
+Lake,VALLEY FALLS PREC. P-18,President,,PGP,Jill Stein,0
+Lake,NO. CENTRAL LKVW. P-20,President,,PGP,Jill Stein,0
+Lake,SO. CENTRAL LKVW. P-21,President,,PGP,Jill Stein,0
+Lake,SILVER LAKE P-1,President,,DEM,Kamala D. Harris,28
+Lake,SUMMER LAKE P-2,President,,DEM,Kamala D. Harris,26
+Lake,PAISLEY P-3,President,,DEM,Kamala D. Harris,33
+Lake,CROOKED CREEK P-4,President,,DEM,Kamala D. Harris,25
+Lake,NORTH WARNER P-5,President,,DEM,Kamala D. Harris,5
+Lake,SOUTH WARNER P-6,President,,DEM,Kamala D. Harris,3
+Lake,NORTH LAKEVIEW P-7,President,,DEM,Kamala D. Harris,35
+Lake,SOUTH LAKEVIEW P-8,President,,DEM,Kamala D. Harris,54
+Lake,FREMONT P-9,President,,DEM,Kamala D. Harris,55
+Lake,GOOSE LAKE P-10,President,,DEM,Kamala D. Harris,20
+Lake,COGSWELL CREEK P-11,President,,DEM,Kamala D. Harris,37
+Lake,THOM.CRK. WESTSIDE P-12,President,,DEM,Kamala D. Harris,65
+Lake,CHRISTMAS VALLEY P-13,President,,DEM,Kamala D. Harris,157
+Lake,FORT ROCK P-14,President,,DEM,Kamala D. Harris,20
+Lake,WEST LAKEVIEW P-15,President,,DEM,Kamala D. Harris,25
+Lake,NEW PINE CREEK P-16,President,,DEM,Kamala D. Harris,14
+Lake,VALLEY FALLS PREC. P-18,President,,DEM,Kamala D. Harris,2
+Lake,NO. CENTRAL LKVW. P-20,President,,DEM,Kamala D. Harris,29
+Lake,SO. CENTRAL LKVW. P-21,President,,DEM,Kamala D. Harris,48
+Lake,SILVER LAKE P-1,President,,,Write-ins,0
+Lake,SUMMER LAKE P-2,President,,,Write-ins,0
+Lake,PAISLEY P-3,President,,,Write-ins,0
+Lake,CROOKED CREEK P-4,President,,,Write-ins,2
+Lake,NORTH WARNER P-5,President,,,Write-ins,0
+Lake,SOUTH WARNER P-6,President,,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,President,,,Write-ins,0
+Lake,SOUTH LAKEVIEW P-8,President,,,Write-ins,1
+Lake,FREMONT P-9,President,,,Write-ins,2
+Lake,GOOSE LAKE P-10,President,,,Write-ins,0
+Lake,COGSWELL CREEK P-11,President,,,Write-ins,0
+Lake,THOM.CRK. WESTSIDE P-12,President,,,Write-ins,2
+Lake,CHRISTMAS VALLEY P-13,President,,,Write-ins,3
+Lake,FORT ROCK P-14,President,,,Write-ins,1
+Lake,WEST LAKEVIEW P-15,President,,,Write-ins,0
+Lake,NEW PINE CREEK P-16,President,,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,President,,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,President,,,Write-ins,2
+Lake,SO. CENTRAL LKVW. P-21,President,,,Write-ins,1
+Lake,SILVER LAKE P-1,President,,,Over Votes,0
+Lake,SUMMER LAKE P-2,President,,,Over Votes,1
+Lake,PAISLEY P-3,President,,,Over Votes,0
+Lake,CROOKED CREEK P-4,President,,,Over Votes,0
+Lake,NORTH WARNER P-5,President,,,Over Votes,0
+Lake,SOUTH WARNER P-6,President,,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,President,,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,President,,,Over Votes,0
+Lake,FREMONT P-9,President,,,Over Votes,0
+Lake,GOOSE LAKE P-10,President,,,Over Votes,0
+Lake,COGSWELL CREEK P-11,President,,,Over Votes,1
+Lake,THOM.CRK. WESTSIDE P-12,President,,,Over Votes,1
+Lake,CHRISTMAS VALLEY P-13,President,,,Over Votes,2
+Lake,FORT ROCK P-14,President,,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,President,,,Over Votes,1
+Lake,NEW PINE CREEK P-16,President,,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,President,,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,President,,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,President,,,Over Votes,0
+Lake,SILVER LAKE P-1,President,,,Under Votes,5
+Lake,SUMMER LAKE P-2,President,,,Under Votes,1
+Lake,PAISLEY P-3,President,,,Under Votes,6
+Lake,CROOKED CREEK P-4,President,,,Under Votes,3
+Lake,NORTH WARNER P-5,President,,,Under Votes,0
+Lake,SOUTH WARNER P-6,President,,,Under Votes,0
+Lake,NORTH LAKEVIEW P-7,President,,,Under Votes,1
+Lake,SOUTH LAKEVIEW P-8,President,,,Under Votes,1
+Lake,FREMONT P-9,President,,,Under Votes,2
+Lake,GOOSE LAKE P-10,President,,,Under Votes,2
+Lake,COGSWELL CREEK P-11,President,,,Under Votes,2
+Lake,THOM.CRK. WESTSIDE P-12,President,,,Under Votes,8
+Lake,CHRISTMAS VALLEY P-13,President,,,Under Votes,8
+Lake,FORT ROCK P-14,President,,,Under Votes,2
+Lake,WEST LAKEVIEW P-15,President,,,Under Votes,3
+Lake,NEW PINE CREEK P-16,President,,,Under Votes,0
+Lake,VALLEY FALLS PREC. P-18,President,,,Under Votes,0
+Lake,NO. CENTRAL LKVW. P-20,President,,,Under Votes,1
+Lake,SO. CENTRAL LKVW. P-21,President,,,Under Votes,3
+Lake,SILVER LAKE P-1,U.S. House,2,REP,Cliff Bentz,107
+Lake,SUMMER LAKE P-2,U.S. House,2,REP,Cliff Bentz,57
+Lake,PAISLEY P-3,U.S. House,2,REP,Cliff Bentz,160
+Lake,CROOKED CREEK P-4,U.S. House,2,REP,Cliff Bentz,248
+Lake,NORTH WARNER P-5,U.S. House,2,REP,Cliff Bentz,53
+Lake,SOUTH WARNER P-6,U.S. House,2,REP,Cliff Bentz,64
+Lake,NORTH LAKEVIEW P-7,U.S. House,2,REP,Cliff Bentz,151
+Lake,SOUTH LAKEVIEW P-8,U.S. House,2,REP,Cliff Bentz,172
+Lake,FREMONT P-9,U.S. House,2,REP,Cliff Bentz,164
+Lake,GOOSE LAKE P-10,U.S. House,2,REP,Cliff Bentz,209
+Lake,COGSWELL CREEK P-11,U.S. House,2,REP,Cliff Bentz,213
+Lake,THOM.CRK. WESTSIDE P-12,U.S. House,2,REP,Cliff Bentz,478
+Lake,CHRISTMAS VALLEY P-13,U.S. House,2,REP,Cliff Bentz,658
+Lake,FORT ROCK P-14,U.S. House,2,REP,Cliff Bentz,120
+Lake,WEST LAKEVIEW P-15,U.S. House,2,REP,Cliff Bentz,98
+Lake,NEW PINE CREEK P-16,U.S. House,2,REP,Cliff Bentz,55
+Lake,VALLEY FALLS PREC. P-18,U.S. House,2,REP,Cliff Bentz,33
+Lake,NO. CENTRAL LKVW. P-20,U.S. House,2,REP,Cliff Bentz,155
+Lake,SO. CENTRAL LKVW. P-21,U.S. House,2,REP,Cliff Bentz,165
+Lake,SILVER LAKE P-1,U.S. House,2,CON,Michael Kurt Stettler,7
+Lake,SUMMER LAKE P-2,U.S. House,2,CON,Michael Kurt Stettler,5
+Lake,PAISLEY P-3,U.S. House,2,CON,Michael Kurt Stettler,8
+Lake,CROOKED CREEK P-4,U.S. House,2,CON,Michael Kurt Stettler,3
+Lake,NORTH WARNER P-5,U.S. House,2,CON,Michael Kurt Stettler,4
+Lake,SOUTH WARNER P-6,U.S. House,2,CON,Michael Kurt Stettler,0
+Lake,NORTH LAKEVIEW P-7,U.S. House,2,CON,Michael Kurt Stettler,15
+Lake,SOUTH LAKEVIEW P-8,U.S. House,2,CON,Michael Kurt Stettler,11
+Lake,FREMONT P-9,U.S. House,2,CON,Michael Kurt Stettler,6
+Lake,GOOSE LAKE P-10,U.S. House,2,CON,Michael Kurt Stettler,4
+Lake,COGSWELL CREEK P-11,U.S. House,2,CON,Michael Kurt Stettler,10
+Lake,THOM.CRK. WESTSIDE P-12,U.S. House,2,CON,Michael Kurt Stettler,8
+Lake,CHRISTMAS VALLEY P-13,U.S. House,2,CON,Michael Kurt Stettler,60
+Lake,FORT ROCK P-14,U.S. House,2,CON,Michael Kurt Stettler,5
+Lake,WEST LAKEVIEW P-15,U.S. House,2,CON,Michael Kurt Stettler,8
+Lake,NEW PINE CREEK P-16,U.S. House,2,CON,Michael Kurt Stettler,2
+Lake,VALLEY FALLS PREC. P-18,U.S. House,2,CON,Michael Kurt Stettler,1
+Lake,NO. CENTRAL LKVW. P-20,U.S. House,2,CON,Michael Kurt Stettler,9
+Lake,SO. CENTRAL LKVW. P-21,U.S. House,2,CON,Michael Kurt Stettler,11
+Lake,SILVER LAKE P-1,U.S. House,2,DEM,Dan Ruby,23
+Lake,SUMMER LAKE P-2,U.S. House,2,DEM,Dan Ruby,23
+Lake,PAISLEY P-3,U.S. House,2,DEM,Dan Ruby,24
+Lake,CROOKED CREEK P-4,U.S. House,2,DEM,Dan Ruby,20
+Lake,NORTH WARNER P-5,U.S. House,2,DEM,Dan Ruby,3
+Lake,SOUTH WARNER P-6,U.S. House,2,DEM,Dan Ruby,0
+Lake,NORTH LAKEVIEW P-7,U.S. House,2,DEM,Dan Ruby,33
+Lake,SOUTH LAKEVIEW P-8,U.S. House,2,DEM,Dan Ruby,41
+Lake,FREMONT P-9,U.S. House,2,DEM,Dan Ruby,45
+Lake,GOOSE LAKE P-10,U.S. House,2,DEM,Dan Ruby,17
+Lake,COGSWELL CREEK P-11,U.S. House,2,DEM,Dan Ruby,30
+Lake,THOM.CRK. WESTSIDE P-12,U.S. House,2,DEM,Dan Ruby,41
+Lake,CHRISTMAS VALLEY P-13,U.S. House,2,DEM,Dan Ruby,145
+Lake,FORT ROCK P-14,U.S. House,2,DEM,Dan Ruby,15
+Lake,WEST LAKEVIEW P-15,U.S. House,2,DEM,Dan Ruby,16
+Lake,NEW PINE CREEK P-16,U.S. House,2,DEM,Dan Ruby,11
+Lake,VALLEY FALLS PREC. P-18,U.S. House,2,DEM,Dan Ruby,2
+Lake,NO. CENTRAL LKVW. P-20,U.S. House,2,DEM,Dan Ruby,26
+Lake,SO. CENTRAL LKVW. P-21,U.S. House,2,DEM,Dan Ruby,43
+Lake,SILVER LAKE P-1,U.S. House,2,,Write-ins,0
+Lake,SUMMER LAKE P-2,U.S. House,2,,Write-ins,0
+Lake,PAISLEY P-3,U.S. House,2,,Write-ins,0
+Lake,CROOKED CREEK P-4,U.S. House,2,,Write-ins,0
+Lake,NORTH WARNER P-5,U.S. House,2,,Write-ins,0
+Lake,SOUTH WARNER P-6,U.S. House,2,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,U.S. House,2,,Write-ins,1
+Lake,SOUTH LAKEVIEW P-8,U.S. House,2,,Write-ins,0
+Lake,FREMONT P-9,U.S. House,2,,Write-ins,0
+Lake,GOOSE LAKE P-10,U.S. House,2,,Write-ins,0
+Lake,COGSWELL CREEK P-11,U.S. House,2,,Write-ins,0
+Lake,THOM.CRK. WESTSIDE P-12,U.S. House,2,,Write-ins,0
+Lake,CHRISTMAS VALLEY P-13,U.S. House,2,,Write-ins,0
+Lake,FORT ROCK P-14,U.S. House,2,,Write-ins,0
+Lake,WEST LAKEVIEW P-15,U.S. House,2,,Write-ins,0
+Lake,NEW PINE CREEK P-16,U.S. House,2,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,U.S. House,2,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,U.S. House,2,,Write-ins,0
+Lake,SO. CENTRAL LKVW. P-21,U.S. House,2,,Write-ins,1
+Lake,SILVER LAKE P-1,U.S. House,2,,Over Votes,0
+Lake,SUMMER LAKE P-2,U.S. House,2,,Over Votes,0
+Lake,PAISLEY P-3,U.S. House,2,,Over Votes,0
+Lake,CROOKED CREEK P-4,U.S. House,2,,Over Votes,0
+Lake,NORTH WARNER P-5,U.S. House,2,,Over Votes,0
+Lake,SOUTH WARNER P-6,U.S. House,2,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,U.S. House,2,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,U.S. House,2,,Over Votes,0
+Lake,FREMONT P-9,U.S. House,2,,Over Votes,0
+Lake,GOOSE LAKE P-10,U.S. House,2,,Over Votes,0
+Lake,COGSWELL CREEK P-11,U.S. House,2,,Over Votes,0
+Lake,THOM.CRK. WESTSIDE P-12,U.S. House,2,,Over Votes,0
+Lake,CHRISTMAS VALLEY P-13,U.S. House,2,,Over Votes,0
+Lake,FORT ROCK P-14,U.S. House,2,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,U.S. House,2,,Over Votes,0
+Lake,NEW PINE CREEK P-16,U.S. House,2,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,U.S. House,2,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,U.S. House,2,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,U.S. House,2,,Over Votes,0
+Lake,SILVER LAKE P-1,U.S. House,2,,Under Votes,8
+Lake,SUMMER LAKE P-2,U.S. House,2,,Under Votes,4
+Lake,PAISLEY P-3,U.S. House,2,,Under Votes,9
+Lake,CROOKED CREEK P-4,U.S. House,2,,Under Votes,11
+Lake,NORTH WARNER P-5,U.S. House,2,,Under Votes,1
+Lake,SOUTH WARNER P-6,U.S. House,2,,Under Votes,2
+Lake,NORTH LAKEVIEW P-7,U.S. House,2,,Under Votes,12
+Lake,SOUTH LAKEVIEW P-8,U.S. House,2,,Under Votes,7
+Lake,FREMONT P-9,U.S. House,2,,Under Votes,11
+Lake,GOOSE LAKE P-10,U.S. House,2,,Under Votes,10
+Lake,COGSWELL CREEK P-11,U.S. House,2,,Under Votes,9
+Lake,THOM.CRK. WESTSIDE P-12,U.S. House,2,,Under Votes,18
+Lake,CHRISTMAS VALLEY P-13,U.S. House,2,,Under Votes,39
+Lake,FORT ROCK P-14,U.S. House,2,,Under Votes,8
+Lake,WEST LAKEVIEW P-15,U.S. House,2,,Under Votes,5
+Lake,NEW PINE CREEK P-16,U.S. House,2,,Under Votes,6
+Lake,VALLEY FALLS PREC. P-18,U.S. House,2,,Under Votes,1
+Lake,NO. CENTRAL LKVW. P-20,U.S. House,2,,Under Votes,2
+Lake,SO. CENTRAL LKVW. P-21,U.S. House,2,,Under Votes,7
+Lake,SILVER LAKE P-1,Secretary of State,,PGP,Nathalie Paravicini,2
+Lake,SUMMER LAKE P-2,Secretary of State,,PGP,Nathalie Paravicini,0
+Lake,PAISLEY P-3,Secretary of State,,PGP,Nathalie Paravicini,5
+Lake,CROOKED CREEK P-4,Secretary of State,,PGP,Nathalie Paravicini,6
+Lake,NORTH WARNER P-5,Secretary of State,,PGP,Nathalie Paravicini,1
+Lake,SOUTH WARNER P-6,Secretary of State,,PGP,Nathalie Paravicini,1
+Lake,NORTH LAKEVIEW P-7,Secretary of State,,PGP,Nathalie Paravicini,4
+Lake,SOUTH LAKEVIEW P-8,Secretary of State,,PGP,Nathalie Paravicini,6
+Lake,FREMONT P-9,Secretary of State,,PGP,Nathalie Paravicini,1
+Lake,GOOSE LAKE P-10,Secretary of State,,PGP,Nathalie Paravicini,2
+Lake,COGSWELL CREEK P-11,Secretary of State,,PGP,Nathalie Paravicini,7
+Lake,THOM.CRK. WESTSIDE P-12,Secretary of State,,PGP,Nathalie Paravicini,3
+Lake,CHRISTMAS VALLEY P-13,Secretary of State,,PGP,Nathalie Paravicini,20
+Lake,FORT ROCK P-14,Secretary of State,,PGP,Nathalie Paravicini,1
+Lake,WEST LAKEVIEW P-15,Secretary of State,,PGP,Nathalie Paravicini,2
+Lake,NEW PINE CREEK P-16,Secretary of State,,PGP,Nathalie Paravicini,0
+Lake,VALLEY FALLS PREC. P-18,Secretary of State,,PGP,Nathalie Paravicini,0
+Lake,NO. CENTRAL LKVW. P-20,Secretary of State,,PGP,Nathalie Paravicini,6
+Lake,SO. CENTRAL LKVW. P-21,Secretary of State,,PGP,Nathalie Paravicini,7
+Lake,SILVER LAKE P-1,Secretary of State,,REP,Dennis Linthicum,112
+Lake,SUMMER LAKE P-2,Secretary of State,,REP,Dennis Linthicum,62
+Lake,PAISLEY P-3,Secretary of State,,REP,Dennis Linthicum,162
+Lake,CROOKED CREEK P-4,Secretary of State,,REP,Dennis Linthicum,243
+Lake,NORTH WARNER P-5,Secretary of State,,REP,Dennis Linthicum,50
+Lake,SOUTH WARNER P-6,Secretary of State,,REP,Dennis Linthicum,59
+Lake,NORTH LAKEVIEW P-7,Secretary of State,,REP,Dennis Linthicum,153
+Lake,SOUTH LAKEVIEW P-8,Secretary of State,,REP,Dennis Linthicum,167
+Lake,FREMONT P-9,Secretary of State,,REP,Dennis Linthicum,164
+Lake,GOOSE LAKE P-10,Secretary of State,,REP,Dennis Linthicum,208
+Lake,COGSWELL CREEK P-11,Secretary of State,,REP,Dennis Linthicum,207
+Lake,THOM.CRK. WESTSIDE P-12,Secretary of State,,REP,Dennis Linthicum,465
+Lake,CHRISTMAS VALLEY P-13,Secretary of State,,REP,Dennis Linthicum,683
+Lake,FORT ROCK P-14,Secretary of State,,REP,Dennis Linthicum,119
+Lake,WEST LAKEVIEW P-15,Secretary of State,,REP,Dennis Linthicum,94
+Lake,NEW PINE CREEK P-16,Secretary of State,,REP,Dennis Linthicum,56
+Lake,VALLEY FALLS PREC. P-18,Secretary of State,,REP,Dennis Linthicum,34
+Lake,NO. CENTRAL LKVW. P-20,Secretary of State,,REP,Dennis Linthicum,150
+Lake,SO. CENTRAL LKVW. P-21,Secretary of State,,REP,Dennis Linthicum,161
+Lake,SILVER LAKE P-1,Secretary of State,,DEM,Tobias Read,24
+Lake,SUMMER LAKE P-2,Secretary of State,,DEM,Tobias Read,24
+Lake,PAISLEY P-3,Secretary of State,,DEM,Tobias Read,27
+Lake,CROOKED CREEK P-4,Secretary of State,,DEM,Tobias Read,23
+Lake,NORTH WARNER P-5,Secretary of State,,DEM,Tobias Read,6
+Lake,SOUTH WARNER P-6,Secretary of State,,DEM,Tobias Read,3
+Lake,NORTH LAKEVIEW P-7,Secretary of State,,DEM,Tobias Read,38
+Lake,SOUTH LAKEVIEW P-8,Secretary of State,,DEM,Tobias Read,49
+Lake,FREMONT P-9,Secretary of State,,DEM,Tobias Read,52
+Lake,GOOSE LAKE P-10,Secretary of State,,DEM,Tobias Read,21
+Lake,COGSWELL CREEK P-11,Secretary of State,,DEM,Tobias Read,37
+Lake,THOM.CRK. WESTSIDE P-12,Secretary of State,,DEM,Tobias Read,58
+Lake,CHRISTMAS VALLEY P-13,Secretary of State,,DEM,Tobias Read,159
+Lake,FORT ROCK P-14,Secretary of State,,DEM,Tobias Read,19
+Lake,WEST LAKEVIEW P-15,Secretary of State,,DEM,Tobias Read,24
+Lake,NEW PINE CREEK P-16,Secretary of State,,DEM,Tobias Read,14
+Lake,VALLEY FALLS PREC. P-18,Secretary of State,,DEM,Tobias Read,2
+Lake,NO. CENTRAL LKVW. P-20,Secretary of State,,DEM,Tobias Read,35
+Lake,SO. CENTRAL LKVW. P-21,Secretary of State,,DEM,Tobias Read,53
+Lake,SILVER LAKE P-1,Secretary of State,,,Write-ins,0
+Lake,SUMMER LAKE P-2,Secretary of State,,,Write-ins,0
+Lake,PAISLEY P-3,Secretary of State,,,Write-ins,0
+Lake,CROOKED CREEK P-4,Secretary of State,,,Write-ins,0
+Lake,NORTH WARNER P-5,Secretary of State,,,Write-ins,0
+Lake,SOUTH WARNER P-6,Secretary of State,,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,Secretary of State,,,Write-ins,3
+Lake,SOUTH LAKEVIEW P-8,Secretary of State,,,Write-ins,0
+Lake,FREMONT P-9,Secretary of State,,,Write-ins,0
+Lake,GOOSE LAKE P-10,Secretary of State,,,Write-ins,0
+Lake,COGSWELL CREEK P-11,Secretary of State,,,Write-ins,0
+Lake,THOM.CRK. WESTSIDE P-12,Secretary of State,,,Write-ins,0
+Lake,CHRISTMAS VALLEY P-13,Secretary of State,,,Write-ins,3
+Lake,FORT ROCK P-14,Secretary of State,,,Write-ins,0
+Lake,WEST LAKEVIEW P-15,Secretary of State,,,Write-ins,0
+Lake,NEW PINE CREEK P-16,Secretary of State,,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,Secretary of State,,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,Secretary of State,,,Write-ins,0
+Lake,SO. CENTRAL LKVW. P-21,Secretary of State,,,Write-ins,1
+Lake,SILVER LAKE P-1,Secretary of State,,,Over Votes,0
+Lake,SUMMER LAKE P-2,Secretary of State,,,Over Votes,0
+Lake,PAISLEY P-3,Secretary of State,,,Over Votes,0
+Lake,CROOKED CREEK P-4,Secretary of State,,,Over Votes,0
+Lake,NORTH WARNER P-5,Secretary of State,,,Over Votes,0
+Lake,SOUTH WARNER P-6,Secretary of State,,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,Secretary of State,,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,Secretary of State,,,Over Votes,0
+Lake,FREMONT P-9,Secretary of State,,,Over Votes,0
+Lake,GOOSE LAKE P-10,Secretary of State,,,Over Votes,0
+Lake,COGSWELL CREEK P-11,Secretary of State,,,Over Votes,0
+Lake,THOM.CRK. WESTSIDE P-12,Secretary of State,,,Over Votes,0
+Lake,CHRISTMAS VALLEY P-13,Secretary of State,,,Over Votes,0
+Lake,FORT ROCK P-14,Secretary of State,,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,Secretary of State,,,Over Votes,0
+Lake,NEW PINE CREEK P-16,Secretary of State,,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,Secretary of State,,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,Secretary of State,,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,Secretary of State,,,Over Votes,0
+Lake,SILVER LAKE P-1,Secretary of State,,,Under Votes,7
+Lake,SUMMER LAKE P-2,Secretary of State,,,Under Votes,3
+Lake,PAISLEY P-3,Secretary of State,,,Under Votes,7
+Lake,CROOKED CREEK P-4,Secretary of State,,,Under Votes,10
+Lake,NORTH WARNER P-5,Secretary of State,,,Under Votes,4
+Lake,SOUTH WARNER P-6,Secretary of State,,,Under Votes,3
+Lake,NORTH LAKEVIEW P-7,Secretary of State,,,Under Votes,14
+Lake,SOUTH LAKEVIEW P-8,Secretary of State,,,Under Votes,9
+Lake,FREMONT P-9,Secretary of State,,,Under Votes,9
+Lake,GOOSE LAKE P-10,Secretary of State,,,Under Votes,9
+Lake,COGSWELL CREEK P-11,Secretary of State,,,Under Votes,11
+Lake,THOM.CRK. WESTSIDE P-12,Secretary of State,,,Under Votes,19
+Lake,CHRISTMAS VALLEY P-13,Secretary of State,,,Under Votes,37
+Lake,FORT ROCK P-14,Secretary of State,,,Under Votes,9
+Lake,WEST LAKEVIEW P-15,Secretary of State,,,Under Votes,7
+Lake,NEW PINE CREEK P-16,Secretary of State,,,Under Votes,4
+Lake,VALLEY FALLS PREC. P-18,Secretary of State,,,Under Votes,1
+Lake,NO. CENTRAL LKVW. P-20,Secretary of State,,,Under Votes,1
+Lake,SO. CENTRAL LKVW. P-21,Secretary of State,,,Under Votes,5
+Lake,SILVER LAKE P-1,State Treasurer,,WFP,Mary King,4
+Lake,SUMMER LAKE P-2,State Treasurer,,WFP,Mary King,0
+Lake,PAISLEY P-3,State Treasurer,,WFP,Mary King,9
+Lake,CROOKED CREEK P-4,State Treasurer,,WFP,Mary King,6
+Lake,NORTH WARNER P-5,State Treasurer,,WFP,Mary King,1
+Lake,SOUTH WARNER P-6,State Treasurer,,WFP,Mary King,1
+Lake,NORTH LAKEVIEW P-7,State Treasurer,,WFP,Mary King,11
+Lake,SOUTH LAKEVIEW P-8,State Treasurer,,WFP,Mary King,16
+Lake,FREMONT P-9,State Treasurer,,WFP,Mary King,8
+Lake,GOOSE LAKE P-10,State Treasurer,,WFP,Mary King,4
+Lake,COGSWELL CREEK P-11,State Treasurer,,WFP,Mary King,16
+Lake,THOM.CRK. WESTSIDE P-12,State Treasurer,,WFP,Mary King,13
+Lake,CHRISTMAS VALLEY P-13,State Treasurer,,WFP,Mary King,34
+Lake,FORT ROCK P-14,State Treasurer,,WFP,Mary King,1
+Lake,WEST LAKEVIEW P-15,State Treasurer,,WFP,Mary King,3
+Lake,NEW PINE CREEK P-16,State Treasurer,,WFP,Mary King,1
+Lake,VALLEY FALLS PREC. P-18,State Treasurer,,WFP,Mary King,0
+Lake,NO. CENTRAL LKVW. P-20,State Treasurer,,WFP,Mary King,14
+Lake,SO. CENTRAL LKVW. P-21,State Treasurer,,WFP,Mary King,16
+Lake,SILVER LAKE P-1,State Treasurer,,REP,Brian J. Boquist,105
+Lake,SUMMER LAKE P-2,State Treasurer,,REP,Brian J. Boquist,59
+Lake,PAISLEY P-3,State Treasurer,,REP,Brian J. Boquist,164
+Lake,CROOKED CREEK P-4,State Treasurer,,REP,Brian J. Boquist,240
+Lake,NORTH WARNER P-5,State Treasurer,,REP,Brian J. Boquist,52
+Lake,SOUTH WARNER P-6,State Treasurer,,REP,Brian J. Boquist,60
+Lake,NORTH LAKEVIEW P-7,State Treasurer,,REP,Brian J. Boquist,145
+Lake,SOUTH LAKEVIEW P-8,State Treasurer,,REP,Brian J. Boquist,158
+Lake,FREMONT P-9,State Treasurer,,REP,Brian J. Boquist,161
+Lake,GOOSE LAKE P-10,State Treasurer,,REP,Brian J. Boquist,206
+Lake,COGSWELL CREEK P-11,State Treasurer,,REP,Brian J. Boquist,199
+Lake,THOM.CRK. WESTSIDE P-12,State Treasurer,,REP,Brian J. Boquist,459
+Lake,CHRISTMAS VALLEY P-13,State Treasurer,,REP,Brian J. Boquist,684
+Lake,FORT ROCK P-14,State Treasurer,,REP,Brian J. Boquist,124
+Lake,WEST LAKEVIEW P-15,State Treasurer,,REP,Brian J. Boquist,95
+Lake,NEW PINE CREEK P-16,State Treasurer,,REP,Brian J. Boquist,57
+Lake,VALLEY FALLS PREC. P-18,State Treasurer,,REP,Brian J. Boquist,32
+Lake,NO. CENTRAL LKVW. P-20,State Treasurer,,REP,Brian J. Boquist,147
+Lake,SO. CENTRAL LKVW. P-21,State Treasurer,,REP,Brian J. Boquist,160
+Lake,SILVER LAKE P-1,State Treasurer,,DEM,Elizabeth Steiner,26
+Lake,SUMMER LAKE P-2,State Treasurer,,DEM,Elizabeth Steiner,23
+Lake,PAISLEY P-3,State Treasurer,,DEM,Elizabeth Steiner,21
+Lake,CROOKED CREEK P-4,State Treasurer,,DEM,Elizabeth Steiner,25
+Lake,NORTH WARNER P-5,State Treasurer,,DEM,Elizabeth Steiner,4
+Lake,SOUTH WARNER P-6,State Treasurer,,DEM,Elizabeth Steiner,1
+Lake,NORTH LAKEVIEW P-7,State Treasurer,,DEM,Elizabeth Steiner,36
+Lake,SOUTH LAKEVIEW P-8,State Treasurer,,DEM,Elizabeth Steiner,45
+Lake,FREMONT P-9,State Treasurer,,DEM,Elizabeth Steiner,45
+Lake,GOOSE LAKE P-10,State Treasurer,,DEM,Elizabeth Steiner,14
+Lake,COGSWELL CREEK P-11,State Treasurer,,DEM,Elizabeth Steiner,32
+Lake,THOM.CRK. WESTSIDE P-12,State Treasurer,,DEM,Elizabeth Steiner,45
+Lake,CHRISTMAS VALLEY P-13,State Treasurer,,DEM,Elizabeth Steiner,149
+Lake,FORT ROCK P-14,State Treasurer,,DEM,Elizabeth Steiner,13
+Lake,WEST LAKEVIEW P-15,State Treasurer,,DEM,Elizabeth Steiner,19
+Lake,NEW PINE CREEK P-16,State Treasurer,,DEM,Elizabeth Steiner,12
+Lake,VALLEY FALLS PREC. P-18,State Treasurer,,DEM,Elizabeth Steiner,4
+Lake,NO. CENTRAL LKVW. P-20,State Treasurer,,DEM,Elizabeth Steiner,27
+Lake,SO. CENTRAL LKVW. P-21,State Treasurer,,DEM,Elizabeth Steiner,39
+Lake,SILVER LAKE P-1,State Treasurer,,,Write-ins,0
+Lake,SUMMER LAKE P-2,State Treasurer,,,Write-ins,0
+Lake,PAISLEY P-3,State Treasurer,,,Write-ins,0
+Lake,CROOKED CREEK P-4,State Treasurer,,,Write-ins,0
+Lake,NORTH WARNER P-5,State Treasurer,,,Write-ins,0
+Lake,SOUTH WARNER P-6,State Treasurer,,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,State Treasurer,,,Write-ins,1
+Lake,SOUTH LAKEVIEW P-8,State Treasurer,,,Write-ins,0
+Lake,FREMONT P-9,State Treasurer,,,Write-ins,0
+Lake,GOOSE LAKE P-10,State Treasurer,,,Write-ins,0
+Lake,COGSWELL CREEK P-11,State Treasurer,,,Write-ins,1
+Lake,THOM.CRK. WESTSIDE P-12,State Treasurer,,,Write-ins,0
+Lake,CHRISTMAS VALLEY P-13,State Treasurer,,,Write-ins,2
+Lake,FORT ROCK P-14,State Treasurer,,,Write-ins,0
+Lake,WEST LAKEVIEW P-15,State Treasurer,,,Write-ins,0
+Lake,NEW PINE CREEK P-16,State Treasurer,,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,State Treasurer,,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,State Treasurer,,,Write-ins,0
+Lake,SO. CENTRAL LKVW. P-21,State Treasurer,,,Write-ins,1
+Lake,SILVER LAKE P-1,State Treasurer,,,Over Votes,0
+Lake,SUMMER LAKE P-2,State Treasurer,,,Over Votes,0
+Lake,PAISLEY P-3,State Treasurer,,,Over Votes,0
+Lake,CROOKED CREEK P-4,State Treasurer,,,Over Votes,0
+Lake,NORTH WARNER P-5,State Treasurer,,,Over Votes,0
+Lake,SOUTH WARNER P-6,State Treasurer,,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,State Treasurer,,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,State Treasurer,,,Over Votes,0
+Lake,FREMONT P-9,State Treasurer,,,Over Votes,0
+Lake,GOOSE LAKE P-10,State Treasurer,,,Over Votes,0
+Lake,COGSWELL CREEK P-11,State Treasurer,,,Over Votes,0
+Lake,THOM.CRK. WESTSIDE P-12,State Treasurer,,,Over Votes,0
+Lake,CHRISTMAS VALLEY P-13,State Treasurer,,,Over Votes,0
+Lake,FORT ROCK P-14,State Treasurer,,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,State Treasurer,,,Over Votes,0
+Lake,NEW PINE CREEK P-16,State Treasurer,,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,State Treasurer,,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,State Treasurer,,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,State Treasurer,,,Over Votes,0
+Lake,SILVER LAKE P-1,State Treasurer,,,Under Votes,10
+Lake,SUMMER LAKE P-2,State Treasurer,,,Under Votes,7
+Lake,PAISLEY P-3,State Treasurer,,,Under Votes,7
+Lake,CROOKED CREEK P-4,State Treasurer,,,Under Votes,11
+Lake,NORTH WARNER P-5,State Treasurer,,,Under Votes,4
+Lake,SOUTH WARNER P-6,State Treasurer,,,Under Votes,4
+Lake,NORTH LAKEVIEW P-7,State Treasurer,,,Under Votes,19
+Lake,SOUTH LAKEVIEW P-8,State Treasurer,,,Under Votes,12
+Lake,FREMONT P-9,State Treasurer,,,Under Votes,12
+Lake,GOOSE LAKE P-10,State Treasurer,,,Under Votes,16
+Lake,COGSWELL CREEK P-11,State Treasurer,,,Under Votes,14
+Lake,THOM.CRK. WESTSIDE P-12,State Treasurer,,,Under Votes,28
+Lake,CHRISTMAS VALLEY P-13,State Treasurer,,,Under Votes,33
+Lake,FORT ROCK P-14,State Treasurer,,,Under Votes,10
+Lake,WEST LAKEVIEW P-15,State Treasurer,,,Under Votes,10
+Lake,NEW PINE CREEK P-16,State Treasurer,,,Under Votes,4
+Lake,VALLEY FALLS PREC. P-18,State Treasurer,,,Under Votes,1
+Lake,NO. CENTRAL LKVW. P-20,State Treasurer,,,Under Votes,4
+Lake,SO. CENTRAL LKVW. P-21,State Treasurer,,,Under Votes,11
+Lake,SILVER LAKE P-1,Attorney General,,REP,Will Lathrop,110
+Lake,SUMMER LAKE P-2,Attorney General,,REP,Will Lathrop,61
+Lake,PAISLEY P-3,Attorney General,,REP,Will Lathrop,168
+Lake,CROOKED CREEK P-4,Attorney General,,REP,Will Lathrop,252
+Lake,NORTH WARNER P-5,Attorney General,,REP,Will Lathrop,50
+Lake,SOUTH WARNER P-6,Attorney General,,REP,Will Lathrop,61
+Lake,NORTH LAKEVIEW P-7,Attorney General,,REP,Will Lathrop,154
+Lake,SOUTH LAKEVIEW P-8,Attorney General,,REP,Will Lathrop,169
+Lake,FREMONT P-9,Attorney General,,REP,Will Lathrop,163
+Lake,GOOSE LAKE P-10,Attorney General,,REP,Will Lathrop,208
+Lake,COGSWELL CREEK P-11,Attorney General,,REP,Will Lathrop,204
+Lake,THOM.CRK. WESTSIDE P-12,Attorney General,,REP,Will Lathrop,462
+Lake,CHRISTMAS VALLEY P-13,Attorney General,,REP,Will Lathrop,693
+Lake,FORT ROCK P-14,Attorney General,,REP,Will Lathrop,124
+Lake,WEST LAKEVIEW P-15,Attorney General,,REP,Will Lathrop,93
+Lake,NEW PINE CREEK P-16,Attorney General,,REP,Will Lathrop,59
+Lake,VALLEY FALLS PREC. P-18,Attorney General,,REP,Will Lathrop,32
+Lake,NO. CENTRAL LKVW. P-20,Attorney General,,REP,Will Lathrop,155
+Lake,SO. CENTRAL LKVW. P-21,Attorney General,,REP,Will Lathrop,164
+Lake,SILVER LAKE P-1,Attorney General,,DEM,Dan Rayfield,27
+Lake,SUMMER LAKE P-2,Attorney General,,DEM,Dan Rayfield,23
+Lake,PAISLEY P-3,Attorney General,,DEM,Dan Rayfield,27
+Lake,CROOKED CREEK P-4,Attorney General,,DEM,Dan Rayfield,20
+Lake,NORTH WARNER P-5,Attorney General,,DEM,Dan Rayfield,6
+Lake,SOUTH WARNER P-6,Attorney General,,DEM,Dan Rayfield,3
+Lake,NORTH LAKEVIEW P-7,Attorney General,,DEM,Dan Rayfield,41
+Lake,SOUTH LAKEVIEW P-8,Attorney General,,DEM,Dan Rayfield,49
+Lake,FREMONT P-9,Attorney General,,DEM,Dan Rayfield,52
+Lake,GOOSE LAKE P-10,Attorney General,,DEM,Dan Rayfield,17
+Lake,COGSWELL CREEK P-11,Attorney General,,DEM,Dan Rayfield,44
+Lake,THOM.CRK. WESTSIDE P-12,Attorney General,,DEM,Dan Rayfield,54
+Lake,CHRISTMAS VALLEY P-13,Attorney General,,DEM,Dan Rayfield,167
+Lake,FORT ROCK P-14,Attorney General,,DEM,Dan Rayfield,14
+Lake,WEST LAKEVIEW P-15,Attorney General,,DEM,Dan Rayfield,25
+Lake,NEW PINE CREEK P-16,Attorney General,,DEM,Dan Rayfield,11
+Lake,VALLEY FALLS PREC. P-18,Attorney General,,DEM,Dan Rayfield,4
+Lake,NO. CENTRAL LKVW. P-20,Attorney General,,DEM,Dan Rayfield,34
+Lake,SO. CENTRAL LKVW. P-21,Attorney General,,DEM,Dan Rayfield,54
+Lake,SILVER LAKE P-1,Attorney General,,,Write-ins,0
+Lake,SUMMER LAKE P-2,Attorney General,,,Write-ins,0
+Lake,PAISLEY P-3,Attorney General,,,Write-ins,0
+Lake,CROOKED CREEK P-4,Attorney General,,,Write-ins,0
+Lake,NORTH WARNER P-5,Attorney General,,,Write-ins,0
+Lake,SOUTH WARNER P-6,Attorney General,,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,Attorney General,,,Write-ins,1
+Lake,SOUTH LAKEVIEW P-8,Attorney General,,,Write-ins,1
+Lake,FREMONT P-9,Attorney General,,,Write-ins,0
+Lake,GOOSE LAKE P-10,Attorney General,,,Write-ins,0
+Lake,COGSWELL CREEK P-11,Attorney General,,,Write-ins,0
+Lake,THOM.CRK. WESTSIDE P-12,Attorney General,,,Write-ins,0
+Lake,CHRISTMAS VALLEY P-13,Attorney General,,,Write-ins,3
+Lake,FORT ROCK P-14,Attorney General,,,Write-ins,0
+Lake,WEST LAKEVIEW P-15,Attorney General,,,Write-ins,0
+Lake,NEW PINE CREEK P-16,Attorney General,,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,Attorney General,,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,Attorney General,,,Write-ins,0
+Lake,SO. CENTRAL LKVW. P-21,Attorney General,,,Write-ins,1
+Lake,SILVER LAKE P-1,Attorney General,,,Over Votes,0
+Lake,SUMMER LAKE P-2,Attorney General,,,Over Votes,0
+Lake,PAISLEY P-3,Attorney General,,,Over Votes,0
+Lake,CROOKED CREEK P-4,Attorney General,,,Over Votes,0
+Lake,NORTH WARNER P-5,Attorney General,,,Over Votes,0
+Lake,SOUTH WARNER P-6,Attorney General,,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,Attorney General,,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,Attorney General,,,Over Votes,0
+Lake,FREMONT P-9,Attorney General,,,Over Votes,0
+Lake,GOOSE LAKE P-10,Attorney General,,,Over Votes,0
+Lake,COGSWELL CREEK P-11,Attorney General,,,Over Votes,0
+Lake,THOM.CRK. WESTSIDE P-12,Attorney General,,,Over Votes,0
+Lake,CHRISTMAS VALLEY P-13,Attorney General,,,Over Votes,0
+Lake,FORT ROCK P-14,Attorney General,,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,Attorney General,,,Over Votes,0
+Lake,NEW PINE CREEK P-16,Attorney General,,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,Attorney General,,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,Attorney General,,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,Attorney General,,,Over Votes,0
+Lake,SILVER LAKE P-1,Attorney General,,,Under Votes,8
+Lake,SUMMER LAKE P-2,Attorney General,,,Under Votes,5
+Lake,PAISLEY P-3,Attorney General,,,Under Votes,6
+Lake,CROOKED CREEK P-4,Attorney General,,,Under Votes,10
+Lake,NORTH WARNER P-5,Attorney General,,,Under Votes,5
+Lake,SOUTH WARNER P-6,Attorney General,,,Under Votes,2
+Lake,NORTH LAKEVIEW P-7,Attorney General,,,Under Votes,16
+Lake,SOUTH LAKEVIEW P-8,Attorney General,,,Under Votes,12
+Lake,FREMONT P-9,Attorney General,,,Under Votes,11
+Lake,GOOSE LAKE P-10,Attorney General,,,Under Votes,15
+Lake,COGSWELL CREEK P-11,Attorney General,,,Under Votes,14
+Lake,THOM.CRK. WESTSIDE P-12,Attorney General,,,Under Votes,29
+Lake,CHRISTMAS VALLEY P-13,Attorney General,,,Under Votes,39
+Lake,FORT ROCK P-14,Attorney General,,,Under Votes,10
+Lake,WEST LAKEVIEW P-15,Attorney General,,,Under Votes,9
+Lake,NEW PINE CREEK P-16,Attorney General,,,Under Votes,4
+Lake,VALLEY FALLS PREC. P-18,Attorney General,,,Under Votes,1
+Lake,NO. CENTRAL LKVW. P-20,Attorney General,,,Under Votes,3
+Lake,SO. CENTRAL LKVW. P-21,Attorney General,,,Under Votes,8
+Lake,SILVER LAKE P-1,State Senate,30,REP,Mike McLane,105
+Lake,SUMMER LAKE P-2,State Senate,30,REP,Mike McLane,62
+Lake,PAISLEY P-3,State Senate,30,REP,Mike McLane,162
+Lake,CROOKED CREEK P-4,State Senate,30,REP,Mike McLane,220
+Lake,NORTH WARNER P-5,State Senate,30,REP,Mike McLane,48
+Lake,SOUTH WARNER P-6,State Senate,30,REP,Mike McLane,59
+Lake,NORTH LAKEVIEW P-7,State Senate,30,REP,Mike McLane,168
+Lake,SOUTH LAKEVIEW P-8,State Senate,30,REP,Mike McLane,164
+Lake,FREMONT P-9,State Senate,30,REP,Mike McLane,175
+Lake,GOOSE LAKE P-10,State Senate,30,REP,Mike McLane,182
+Lake,COGSWELL CREEK P-11,State Senate,30,REP,Mike McLane,217
+Lake,THOM.CRK. WESTSIDE P-12,State Senate,30,REP,Mike McLane,422
+Lake,CHRISTMAS VALLEY P-13,State Senate,30,REP,Mike McLane,695
+Lake,FORT ROCK P-14,State Senate,30,REP,Mike McLane,104
+Lake,WEST LAKEVIEW P-15,State Senate,30,REP,Mike McLane,95
+Lake,NEW PINE CREEK P-16,State Senate,30,REP,Mike McLane,56
+Lake,VALLEY FALLS PREC. P-18,State Senate,30,REP,Mike McLane,33
+Lake,NO. CENTRAL LKVW. P-20,State Senate,30,REP,Mike McLane,160
+Lake,SO. CENTRAL LKVW. P-21,State Senate,30,REP,Mike McLane,177
+Lake,SILVER LAKE P-1,State Senate,30,,Write-ins,1
+Lake,SUMMER LAKE P-2,State Senate,30,,Write-ins,5
+Lake,PAISLEY P-3,State Senate,30,,Write-ins,0
+Lake,CROOKED CREEK P-4,State Senate,30,,Write-ins,3
+Lake,NORTH WARNER P-5,State Senate,30,,Write-ins,0
+Lake,SOUTH WARNER P-6,State Senate,30,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,State Senate,30,,Write-ins,3
+Lake,SOUTH LAKEVIEW P-8,State Senate,30,,Write-ins,0
+Lake,FREMONT P-9,State Senate,30,,Write-ins,1
+Lake,GOOSE LAKE P-10,State Senate,30,,Write-ins,1
+Lake,COGSWELL CREEK P-11,State Senate,30,,Write-ins,2
+Lake,THOM.CRK. WESTSIDE P-12,State Senate,30,,Write-ins,2
+Lake,CHRISTMAS VALLEY P-13,State Senate,30,,Write-ins,13
+Lake,FORT ROCK P-14,State Senate,30,,Write-ins,0
+Lake,WEST LAKEVIEW P-15,State Senate,30,,Write-ins,0
+Lake,NEW PINE CREEK P-16,State Senate,30,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,State Senate,30,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,State Senate,30,,Write-ins,4
+Lake,SO. CENTRAL LKVW. P-21,State Senate,30,,Write-ins,2
+Lake,SILVER LAKE P-1,State Senate,30,,Over Votes,0
+Lake,SUMMER LAKE P-2,State Senate,30,,Over Votes,0
+Lake,PAISLEY P-3,State Senate,30,,Over Votes,0
+Lake,CROOKED CREEK P-4,State Senate,30,,Over Votes,0
+Lake,NORTH WARNER P-5,State Senate,30,,Over Votes,0
+Lake,SOUTH WARNER P-6,State Senate,30,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,State Senate,30,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,State Senate,30,,Over Votes,0
+Lake,FREMONT P-9,State Senate,30,,Over Votes,0
+Lake,GOOSE LAKE P-10,State Senate,30,,Over Votes,0
+Lake,COGSWELL CREEK P-11,State Senate,30,,Over Votes,0
+Lake,THOM.CRK. WESTSIDE P-12,State Senate,30,,Over Votes,0
+Lake,CHRISTMAS VALLEY P-13,State Senate,30,,Over Votes,0
+Lake,FORT ROCK P-14,State Senate,30,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,State Senate,30,,Over Votes,0
+Lake,NEW PINE CREEK P-16,State Senate,30,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,State Senate,30,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,State Senate,30,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,State Senate,30,,Over Votes,0
+Lake,SILVER LAKE P-1,State Senate,30,,Under Votes,39
+Lake,SUMMER LAKE P-2,State Senate,30,,Under Votes,22
+Lake,PAISLEY P-3,State Senate,30,,Under Votes,39
+Lake,CROOKED CREEK P-4,State Senate,30,,Under Votes,59
+Lake,NORTH WARNER P-5,State Senate,30,,Under Votes,13
+Lake,SOUTH WARNER P-6,State Senate,30,,Under Votes,7
+Lake,NORTH LAKEVIEW P-7,State Senate,30,,Under Votes,41
+Lake,SOUTH LAKEVIEW P-8,State Senate,30,,Under Votes,67
+Lake,FREMONT P-9,State Senate,30,,Under Votes,50
+Lake,GOOSE LAKE P-10,State Senate,30,,Under Votes,57
+Lake,COGSWELL CREEK P-11,State Senate,30,,Under Votes,43
+Lake,THOM.CRK. WESTSIDE P-12,State Senate,30,,Under Votes,121
+Lake,CHRISTMAS VALLEY P-13,State Senate,30,,Under Votes,194
+Lake,FORT ROCK P-14,State Senate,30,,Under Votes,44
+Lake,WEST LAKEVIEW P-15,State Senate,30,,Under Votes,32
+Lake,NEW PINE CREEK P-16,State Senate,30,,Under Votes,18
+Lake,VALLEY FALLS PREC. P-18,State Senate,30,,Under Votes,4
+Lake,NO. CENTRAL LKVW. P-20,State Senate,30,,Under Votes,28
+Lake,SO. CENTRAL LKVW. P-21,State Senate,30,,Under Votes,48
+Lake,SILVER LAKE P-1,State House,60,REP,Mark Owens,102
+Lake,SUMMER LAKE P-2,State House,60,REP,Mark Owens,69
+Lake,PAISLEY P-3,State House,60,REP,Mark Owens,159
+Lake,CROOKED CREEK P-4,State House,60,REP,Mark Owens,205
+Lake,NORTH WARNER P-5,State House,60,REP,Mark Owens,48
+Lake,SOUTH WARNER P-6,State House,60,REP,Mark Owens,60
+Lake,NORTH LAKEVIEW P-7,State House,60,REP,Mark Owens,160
+Lake,SOUTH LAKEVIEW P-8,State House,60,REP,Mark Owens,167
+Lake,FREMONT P-9,State House,60,REP,Mark Owens,166
+Lake,GOOSE LAKE P-10,State House,60,REP,Mark Owens,178
+Lake,COGSWELL CREEK P-11,State House,60,REP,Mark Owens,216
+Lake,THOM.CRK. WESTSIDE P-12,State House,60,REP,Mark Owens,406
+Lake,CHRISTMAS VALLEY P-13,State House,60,REP,Mark Owens,685
+Lake,FORT ROCK P-14,State House,60,REP,Mark Owens,111
+Lake,WEST LAKEVIEW P-15,State House,60,REP,Mark Owens,97
+Lake,NEW PINE CREEK P-16,State House,60,REP,Mark Owens,54
+Lake,VALLEY FALLS PREC. P-18,State House,60,REP,Mark Owens,33
+Lake,NO. CENTRAL LKVW. P-20,State House,60,REP,Mark Owens,156
+Lake,SO. CENTRAL LKVW. P-21,State House,60,REP,Mark Owens,176
+Lake,SILVER LAKE P-1,State House,60,,Write-ins,1
+Lake,SUMMER LAKE P-2,State House,60,,Write-ins,3
+Lake,PAISLEY P-3,State House,60,,Write-ins,0
+Lake,CROOKED CREEK P-4,State House,60,,Write-ins,5
+Lake,NORTH WARNER P-5,State House,60,,Write-ins,0
+Lake,SOUTH WARNER P-6,State House,60,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,State House,60,,Write-ins,4
+Lake,SOUTH LAKEVIEW P-8,State House,60,,Write-ins,0
+Lake,FREMONT P-9,State House,60,,Write-ins,3
+Lake,GOOSE LAKE P-10,State House,60,,Write-ins,1
+Lake,COGSWELL CREEK P-11,State House,60,,Write-ins,3
+Lake,THOM.CRK. WESTSIDE P-12,State House,60,,Write-ins,2
+Lake,CHRISTMAS VALLEY P-13,State House,60,,Write-ins,8
+Lake,FORT ROCK P-14,State House,60,,Write-ins,0
+Lake,WEST LAKEVIEW P-15,State House,60,,Write-ins,0
+Lake,NEW PINE CREEK P-16,State House,60,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,State House,60,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,State House,60,,Write-ins,5
+Lake,SO. CENTRAL LKVW. P-21,State House,60,,Write-ins,4
+Lake,SILVER LAKE P-1,State House,60,,Over Votes,0
+Lake,SUMMER LAKE P-2,State House,60,,Over Votes,0
+Lake,PAISLEY P-3,State House,60,,Over Votes,0
+Lake,CROOKED CREEK P-4,State House,60,,Over Votes,0
+Lake,NORTH WARNER P-5,State House,60,,Over Votes,0
+Lake,SOUTH WARNER P-6,State House,60,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,State House,60,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,State House,60,,Over Votes,0
+Lake,FREMONT P-9,State House,60,,Over Votes,0
+Lake,GOOSE LAKE P-10,State House,60,,Over Votes,0
+Lake,COGSWELL CREEK P-11,State House,60,,Over Votes,0
+Lake,THOM.CRK. WESTSIDE P-12,State House,60,,Over Votes,0
+Lake,CHRISTMAS VALLEY P-13,State House,60,,Over Votes,0
+Lake,FORT ROCK P-14,State House,60,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,State House,60,,Over Votes,0
+Lake,NEW PINE CREEK P-16,State House,60,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,State House,60,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,State House,60,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,State House,60,,Over Votes,0
+Lake,SILVER LAKE P-1,State House,60,,Under Votes,42
+Lake,SUMMER LAKE P-2,State House,60,,Under Votes,17
+Lake,PAISLEY P-3,State House,60,,Under Votes,42
+Lake,CROOKED CREEK P-4,State House,60,,Under Votes,72
+Lake,NORTH WARNER P-5,State House,60,,Under Votes,13
+Lake,SOUTH WARNER P-6,State House,60,,Under Votes,6
+Lake,NORTH LAKEVIEW P-7,State House,60,,Under Votes,48
+Lake,SOUTH LAKEVIEW P-8,State House,60,,Under Votes,64
+Lake,FREMONT P-9,State House,60,,Under Votes,57
+Lake,GOOSE LAKE P-10,State House,60,,Under Votes,61
+Lake,COGSWELL CREEK P-11,State House,60,,Under Votes,43
+Lake,THOM.CRK. WESTSIDE P-12,State House,60,,Under Votes,137
+Lake,CHRISTMAS VALLEY P-13,State House,60,,Under Votes,209
+Lake,FORT ROCK P-14,State House,60,,Under Votes,37
+Lake,WEST LAKEVIEW P-15,State House,60,,Under Votes,30
+Lake,NEW PINE CREEK P-16,State House,60,,Under Votes,20
+Lake,VALLEY FALLS PREC. P-18,State House,60,,Under Votes,4
+Lake,NO. CENTRAL LKVW. P-20,State House,60,,Under Votes,31
+Lake,SO. CENTRAL LKVW. P-21,State House,60,,Under Votes,47
+Lake,SILVER LAKE P-1,County Clerk,,,Amy Hutchinson,86
+Lake,SUMMER LAKE P-2,County Clerk,,,Amy Hutchinson,60
+Lake,PAISLEY P-3,County Clerk,,,Amy Hutchinson,146
+Lake,CROOKED CREEK P-4,County Clerk,,,Amy Hutchinson,203
+Lake,NORTH WARNER P-5,County Clerk,,,Amy Hutchinson,44
+Lake,SOUTH WARNER P-6,County Clerk,,,Amy Hutchinson,53
+Lake,NORTH LAKEVIEW P-7,County Clerk,,,Amy Hutchinson,170
+Lake,SOUTH LAKEVIEW P-8,County Clerk,,,Amy Hutchinson,169
+Lake,FREMONT P-9,County Clerk,,,Amy Hutchinson,181
+Lake,GOOSE LAKE P-10,County Clerk,,,Amy Hutchinson,149
+Lake,COGSWELL CREEK P-11,County Clerk,,,Amy Hutchinson,211
+Lake,THOM.CRK. WESTSIDE P-12,County Clerk,,,Amy Hutchinson,384
+Lake,CHRISTMAS VALLEY P-13,County Clerk,,,Amy Hutchinson,597
+Lake,FORT ROCK P-14,County Clerk,,,Amy Hutchinson,85
+Lake,WEST LAKEVIEW P-15,County Clerk,,,Amy Hutchinson,97
+Lake,NEW PINE CREEK P-16,County Clerk,,,Amy Hutchinson,59
+Lake,VALLEY FALLS PREC. P-18,County Clerk,,,Amy Hutchinson,32
+Lake,NO. CENTRAL LKVW. P-20,County Clerk,,,Amy Hutchinson,153
+Lake,SO. CENTRAL LKVW. P-21,County Clerk,,,Amy Hutchinson,168
+Lake,SILVER LAKE P-1,County Clerk,,,Write-ins,0
+Lake,SUMMER LAKE P-2,County Clerk,,,Write-ins,1
+Lake,PAISLEY P-3,County Clerk,,,Write-ins,0
+Lake,CROOKED CREEK P-4,County Clerk,,,Write-ins,2
+Lake,NORTH WARNER P-5,County Clerk,,,Write-ins,0
+Lake,SOUTH WARNER P-6,County Clerk,,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,County Clerk,,,Write-ins,1
+Lake,SOUTH LAKEVIEW P-8,County Clerk,,,Write-ins,1
+Lake,FREMONT P-9,County Clerk,,,Write-ins,3
+Lake,GOOSE LAKE P-10,County Clerk,,,Write-ins,2
+Lake,COGSWELL CREEK P-11,County Clerk,,,Write-ins,5
+Lake,THOM.CRK. WESTSIDE P-12,County Clerk,,,Write-ins,2
+Lake,CHRISTMAS VALLEY P-13,County Clerk,,,Write-ins,7
+Lake,FORT ROCK P-14,County Clerk,,,Write-ins,1
+Lake,WEST LAKEVIEW P-15,County Clerk,,,Write-ins,2
+Lake,NEW PINE CREEK P-16,County Clerk,,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,County Clerk,,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,County Clerk,,,Write-ins,1
+Lake,SO. CENTRAL LKVW. P-21,County Clerk,,,Write-ins,2
+Lake,SILVER LAKE P-1,County Clerk,,,Over Votes,0
+Lake,SUMMER LAKE P-2,County Clerk,,,Over Votes,0
+Lake,PAISLEY P-3,County Clerk,,,Over Votes,0
+Lake,CROOKED CREEK P-4,County Clerk,,,Over Votes,0
+Lake,NORTH WARNER P-5,County Clerk,,,Over Votes,0
+Lake,SOUTH WARNER P-6,County Clerk,,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,County Clerk,,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,County Clerk,,,Over Votes,0
+Lake,FREMONT P-9,County Clerk,,,Over Votes,0
+Lake,GOOSE LAKE P-10,County Clerk,,,Over Votes,0
+Lake,COGSWELL CREEK P-11,County Clerk,,,Over Votes,0
+Lake,THOM.CRK. WESTSIDE P-12,County Clerk,,,Over Votes,0
+Lake,CHRISTMAS VALLEY P-13,County Clerk,,,Over Votes,0
+Lake,FORT ROCK P-14,County Clerk,,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,County Clerk,,,Over Votes,0
+Lake,NEW PINE CREEK P-16,County Clerk,,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,County Clerk,,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,County Clerk,,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,County Clerk,,,Over Votes,0
+Lake,SILVER LAKE P-1,County Clerk,,,Under Votes,59
+Lake,SUMMER LAKE P-2,County Clerk,,,Under Votes,28
+Lake,PAISLEY P-3,County Clerk,,,Under Votes,55
+Lake,CROOKED CREEK P-4,County Clerk,,,Under Votes,77
+Lake,NORTH WARNER P-5,County Clerk,,,Under Votes,17
+Lake,SOUTH WARNER P-6,County Clerk,,,Under Votes,13
+Lake,NORTH LAKEVIEW P-7,County Clerk,,,Under Votes,41
+Lake,SOUTH LAKEVIEW P-8,County Clerk,,,Under Votes,61
+Lake,FREMONT P-9,County Clerk,,,Under Votes,42
+Lake,GOOSE LAKE P-10,County Clerk,,,Under Votes,89
+Lake,COGSWELL CREEK P-11,County Clerk,,,Under Votes,46
+Lake,THOM.CRK. WESTSIDE P-12,County Clerk,,,Under Votes,159
+Lake,CHRISTMAS VALLEY P-13,County Clerk,,,Under Votes,298
+Lake,FORT ROCK P-14,County Clerk,,,Under Votes,62
+Lake,WEST LAKEVIEW P-15,County Clerk,,,Under Votes,28
+Lake,NEW PINE CREEK P-16,County Clerk,,,Under Votes,15
+Lake,VALLEY FALLS PREC. P-18,County Clerk,,,Under Votes,5
+Lake,NO. CENTRAL LKVW. P-20,County Clerk,,,Under Votes,38
+Lake,SO. CENTRAL LKVW. P-21,County Clerk,,,Under Votes,57
+Lake,SILVER LAKE P-1,County Treasurer,,,Melanie Lasley,86
+Lake,SUMMER LAKE P-2,County Treasurer,,,Melanie Lasley,54
+Lake,PAISLEY P-3,County Treasurer,,,Melanie Lasley,139
+Lake,CROOKED CREEK P-4,County Treasurer,,,Melanie Lasley,210
+Lake,NORTH WARNER P-5,County Treasurer,,,Melanie Lasley,44
+Lake,SOUTH WARNER P-6,County Treasurer,,,Melanie Lasley,52
+Lake,NORTH LAKEVIEW P-7,County Treasurer,,,Melanie Lasley,165
+Lake,SOUTH LAKEVIEW P-8,County Treasurer,,,Melanie Lasley,167
+Lake,FREMONT P-9,County Treasurer,,,Melanie Lasley,188
+Lake,GOOSE LAKE P-10,County Treasurer,,,Melanie Lasley,166
+Lake,COGSWELL CREEK P-11,County Treasurer,,,Melanie Lasley,205
+Lake,THOM.CRK. WESTSIDE P-12,County Treasurer,,,Melanie Lasley,405
+Lake,CHRISTMAS VALLEY P-13,County Treasurer,,,Melanie Lasley,594
+Lake,FORT ROCK P-14,County Treasurer,,,Melanie Lasley,86
+Lake,WEST LAKEVIEW P-15,County Treasurer,,,Melanie Lasley,96
+Lake,NEW PINE CREEK P-16,County Treasurer,,,Melanie Lasley,56
+Lake,VALLEY FALLS PREC. P-18,County Treasurer,,,Melanie Lasley,32
+Lake,NO. CENTRAL LKVW. P-20,County Treasurer,,,Melanie Lasley,155
+Lake,SO. CENTRAL LKVW. P-21,County Treasurer,,,Melanie Lasley,174
+Lake,SILVER LAKE P-1,County Treasurer,,,Write-ins,0
+Lake,SUMMER LAKE P-2,County Treasurer,,,Write-ins,2
+Lake,PAISLEY P-3,County Treasurer,,,Write-ins,1
+Lake,CROOKED CREEK P-4,County Treasurer,,,Write-ins,1
+Lake,NORTH WARNER P-5,County Treasurer,,,Write-ins,0
+Lake,SOUTH WARNER P-6,County Treasurer,,,Write-ins,0
+Lake,NORTH LAKEVIEW P-7,County Treasurer,,,Write-ins,1
+Lake,SOUTH LAKEVIEW P-8,County Treasurer,,,Write-ins,2
+Lake,FREMONT P-9,County Treasurer,,,Write-ins,3
+Lake,GOOSE LAKE P-10,County Treasurer,,,Write-ins,3
+Lake,COGSWELL CREEK P-11,County Treasurer,,,Write-ins,4
+Lake,THOM.CRK. WESTSIDE P-12,County Treasurer,,,Write-ins,1
+Lake,CHRISTMAS VALLEY P-13,County Treasurer,,,Write-ins,5
+Lake,FORT ROCK P-14,County Treasurer,,,Write-ins,1
+Lake,WEST LAKEVIEW P-15,County Treasurer,,,Write-ins,2
+Lake,NEW PINE CREEK P-16,County Treasurer,,,Write-ins,0
+Lake,VALLEY FALLS PREC. P-18,County Treasurer,,,Write-ins,0
+Lake,NO. CENTRAL LKVW. P-20,County Treasurer,,,Write-ins,1
+Lake,SO. CENTRAL LKVW. P-21,County Treasurer,,,Write-ins,3
+Lake,SILVER LAKE P-1,County Treasurer,,,Over Votes,0
+Lake,SUMMER LAKE P-2,County Treasurer,,,Over Votes,0
+Lake,PAISLEY P-3,County Treasurer,,,Over Votes,0
+Lake,CROOKED CREEK P-4,County Treasurer,,,Over Votes,0
+Lake,NORTH WARNER P-5,County Treasurer,,,Over Votes,0
+Lake,SOUTH WARNER P-6,County Treasurer,,,Over Votes,0
+Lake,NORTH LAKEVIEW P-7,County Treasurer,,,Over Votes,0
+Lake,SOUTH LAKEVIEW P-8,County Treasurer,,,Over Votes,0
+Lake,FREMONT P-9,County Treasurer,,,Over Votes,0
+Lake,GOOSE LAKE P-10,County Treasurer,,,Over Votes,0
+Lake,COGSWELL CREEK P-11,County Treasurer,,,Over Votes,0
+Lake,THOM.CRK. WESTSIDE P-12,County Treasurer,,,Over Votes,0
+Lake,CHRISTMAS VALLEY P-13,County Treasurer,,,Over Votes,0
+Lake,FORT ROCK P-14,County Treasurer,,,Over Votes,0
+Lake,WEST LAKEVIEW P-15,County Treasurer,,,Over Votes,0
+Lake,NEW PINE CREEK P-16,County Treasurer,,,Over Votes,0
+Lake,VALLEY FALLS PREC. P-18,County Treasurer,,,Over Votes,0
+Lake,NO. CENTRAL LKVW. P-20,County Treasurer,,,Over Votes,0
+Lake,SO. CENTRAL LKVW. P-21,County Treasurer,,,Over Votes,0
+Lake,SILVER LAKE P-1,County Treasurer,,,Under Votes,59
+Lake,SUMMER LAKE P-2,County Treasurer,,,Under Votes,33
+Lake,PAISLEY P-3,County Treasurer,,,Under Votes,61
+Lake,CROOKED CREEK P-4,County Treasurer,,,Under Votes,71
+Lake,NORTH WARNER P-5,County Treasurer,,,Under Votes,17
+Lake,SOUTH WARNER P-6,County Treasurer,,,Under Votes,14
+Lake,NORTH LAKEVIEW P-7,County Treasurer,,,Under Votes,46
+Lake,SOUTH LAKEVIEW P-8,County Treasurer,,,Under Votes,62
+Lake,FREMONT P-9,County Treasurer,,,Under Votes,35
+Lake,GOOSE LAKE P-10,County Treasurer,,,Under Votes,71
+Lake,COGSWELL CREEK P-11,County Treasurer,,,Under Votes,53
+Lake,THOM.CRK. WESTSIDE P-12,County Treasurer,,,Under Votes,139
+Lake,CHRISTMAS VALLEY P-13,County Treasurer,,,Under Votes,303
+Lake,FORT ROCK P-14,County Treasurer,,,Under Votes,61
+Lake,WEST LAKEVIEW P-15,County Treasurer,,,Under Votes,29
+Lake,NEW PINE CREEK P-16,County Treasurer,,,Under Votes,18
+Lake,VALLEY FALLS PREC. P-18,County Treasurer,,,Under Votes,5
+Lake,NO. CENTRAL LKVW. P-20,County Treasurer,,,Under Votes,36
+Lake,SO. CENTRAL LKVW. P-21,County Treasurer,,,Under Votes,50
