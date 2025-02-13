@@ -1,0 +1,396 @@
+county,precinct,office,district,party,candidate,votes
+Sherman,Rufus,President,,WTP,Robert F Kennedy Jr,6
+Sherman,Rufus,President,,PRO,Cornel West,0
+Sherman,Rufus,President,,LBT,Chase Oliver,0
+Sherman,Rufus,President,,CON,Randall Terry,0
+Sherman,Rufus,President,,REP,Donald J Trump,156
+Sherman,Rufus,President,,PGP,Jill Stein,0
+Sherman,Rufus,President,,DEM,Kamala D Harris,36
+Sherman,Rufus,President,,,Write-in,2
+Sherman,Rufus,President,,,Over Votes,0
+Sherman,Rufus,President,,,Under Votes,4
+Sherman,Rufus,U.S. House,2,REP,Cliff Bentz,150
+Sherman,Rufus,U.S. House,2,CON,Michael Kurt Stettler,9
+Sherman,Rufus,U.S. House,2,DEM,Dan Ruby,32
+Sherman,Rufus,U.S. House,2,,Write-in,1
+Sherman,Rufus,U.S. House,2,,Over Votes,0
+Sherman,Rufus,U.S. House,2,,Under Votes,12
+Sherman,Rufus,Secretary of State,,PGP,Nathalie Paravicini,4
+Sherman,Rufus,Secretary of State,,REP,Dennis Linthicum,147
+Sherman,Rufus,Secretary of State,,DEM,Tobias Read,38
+Sherman,Rufus,Secretary of State,,,Write-in,1
+Sherman,Rufus,Secretary of State,,,Over Votes,0
+Sherman,Rufus,Secretary of State,,,Under Votes,14
+Sherman,Rufus,State Treasurer,,WFP,Mary King,8
+Sherman,Rufus,State Treasurer,,REP,Brian J Boquist,146
+Sherman,Rufus,State Treasurer,,DEM,Elizabeth Steiner,33
+Sherman,Rufus,State Treasurer,,,Write-in,1
+Sherman,Rufus,State Treasurer,,,Over Votes,0
+Sherman,Rufus,State Treasurer,,,Under Votes,16
+Sherman,Rufus,Attorney General,,REP,Will Lathrop,153
+Sherman,Rufus,Attorney General,,DEM,Dan Rayfield,37
+Sherman,Rufus,Attorney General,,,Write-in,2
+Sherman,Rufus,Attorney General,,,Over Votes,0
+Sherman,Rufus,Attorney General,,,Under Votes,12
+Sherman,Rufus,State Senate,29,NAV,Tania Wildbill,13
+Sherman,Rufus,State Senate,29,REP,Todd Nash,151
+Sherman,Rufus,State Senate,29,,Write-in,1
+Sherman,Rufus,State Senate,29,,Over Votes,0
+Sherman,Rufus,State Senate,29,,Under Votes,39
+Sherman,Rufus,State Representative,57,REP,Greg Smith,148
+Sherman,Rufus,State Representative,57,,Write-in,7
+Sherman,Rufus,State Representative,57,,Over Votes,0
+Sherman,Rufus,State Representative,57,,Under Votes,49
+Sherman,Rufus,Sherman County Commissioner,Position 1,REP,Joan Bird,171
+Sherman,Rufus,Sherman County Commissioner,Position 1,,Write-in,5
+Sherman,Rufus,Sherman County Commissioner,Position 1,,Over Votes,0
+Sherman,Rufus,Sherman County Commissioner,Position 1,,Under Votes,28
+Sherman,Rufus,Judge of the Supreme Court,Position 1,,Stephen K Bushong,126
+Sherman,Rufus,Judge of the Supreme Court,Position 1,,Write-in,1
+Sherman,Rufus,Judge of the Supreme Court,Position 1,,Over Votes,0
+Sherman,Rufus,Judge of the Supreme Court,Position 1,,Under Votes,77
+Sherman,Rufus,Judge of the Supreme Court,Position 7,,Bronson D James,123
+Sherman,Rufus,Judge of the Supreme Court,Position 7,,Write-in,1
+Sherman,Rufus,Judge of the Supreme Court,Position 7,,Over Votes,0
+Sherman,Rufus,Judge of the Supreme Court,Position 7,,Under Votes,80
+Sherman,Rufus,Justice of the Peace,,,Shandie Johnson,142
+Sherman,Rufus,Justice of the Peace,,,Write-in,4
+Sherman,Rufus,Justice of the Peace,,,Over Votes,0
+Sherman,Rufus,Justice of the Peace,,,Under Votes,58
+Sherman,Rufus,City of Rufus Mayor,,,Amber S Baker,23
+Sherman,Rufus,City of Rufus Mayor,,,Austin Evans,84
+Sherman,Rufus,City of Rufus Mayor,,,Write-in,16
+Sherman,Rufus,City of Rufus Mayor,,,Over Votes,0
+Sherman,Rufus,City of Rufus Mayor,,,Under Votes,25
+Sherman,Rufus,City of Rufus Council Member,3,,Wendy Boyer,60
+Sherman,Rufus,City of Rufus Council Member,3,,Daniel Ruise,66
+Sherman,Rufus,City of Rufus Council Member,3,,Write-in,1
+Sherman,Rufus,City of Rufus Council Member,3,,Over Votes,1
+Sherman,Rufus,City of Rufus Council Member,3,,Under Votes,20
+Sherman,Rufus,City of Rufus Council Member,4,,Fred Fahrni,114
+Sherman,Rufus,City of Rufus Council Member,4,,Write-in,5
+Sherman,Rufus,City of Rufus Council Member,4,,Over Votes,0
+Sherman,Rufus,City of Rufus Council Member,4,,Under Votes,29
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Ryan Thompson,163
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Write-in,1
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Over Votes,0
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Under Votes,40
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Nicholas A von Borstel,161
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Write-in,2
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Over Votes,0
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Under Votes,41
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Brian Simantel,154
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Write-in,1
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Over Votes,0
+Sherman,Rufus,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Under Votes,49
+Sherman,Rufus,State Measure 115,,,Yes,117
+Sherman,Rufus,State Measure 115,,,No,73
+Sherman,Rufus,State Measure 115,,,Over Votes,0
+Sherman,Rufus,State Measure 115,,,Under Votes,14
+Sherman,Rufus,State Measure 116,,,Yes,52
+Sherman,Rufus,State Measure 116,,,No,145
+Sherman,Rufus,State Measure 116,,,Over Votes,0
+Sherman,Rufus,State Measure 116,,,Under Votes,7
+Sherman,Rufus,State Measure 117,,,Yes,33
+Sherman,Rufus,State Measure 117,,,No,160
+Sherman,Rufus,State Measure 117,,,Over Votes,1
+Sherman,Rufus,State Measure 117,,,Under Votes,10
+Sherman,Rufus,State Measure 118,,,Yes,21
+Sherman,Rufus,State Measure 118,,,No,174
+Sherman,Rufus,State Measure 118,,,Over Votes,0
+Sherman,Rufus,State Measure 118,,,Under Votes,9
+Sherman,Rufus,State Measure 119,,,Yes,65
+Sherman,Rufus,State Measure 119,,,No,131
+Sherman,Rufus,State Measure 119,,,Over Votes,0
+Sherman,Rufus,State Measure 119,,,Under Votes,8
+Sherman,Wasco,President,,WTP,Robert F Kennedy Jr,9
+Sherman,Wasco,President,,PRO,Cornel West,0
+Sherman,Wasco,President,,LBT,Chase Oliver,0
+Sherman,Wasco,President,,CON,Randall Terry,1
+Sherman,Wasco,President,,REP,Donald J Trump,298
+Sherman,Wasco,President,,PGP,Jill Stein,0
+Sherman,Wasco,President,,DEM,Kamala D Harris,71
+Sherman,Wasco,President,,,Write-in,3
+Sherman,Wasco,President,,,Over Votes,0
+Sherman,Wasco,President,,,Under Votes,6
+Sherman,Wasco,U.S. House,2,REP,Cliff Bentz,306
+Sherman,Wasco,U.S. House,2,CON,Michael Kurt Stettler,7
+Sherman,Wasco,U.S. House,2,DEM,Dan Ruby,54
+Sherman,Wasco,U.S. House,2,,Write-in,0
+Sherman,Wasco,U.S. House,2,,Over Votes,0
+Sherman,Wasco,U.S. House,2,,Under Votes,21
+Sherman,Wasco,Secretary of State,,PGP,Nathalie Paravicini,5
+Sherman,Wasco,Secretary of State,,REP,Dennis Linthicum,288
+Sherman,Wasco,Secretary of State,,DEM,Tobias Read,74
+Sherman,Wasco,Secretary of State,,,Write-in,0
+Sherman,Wasco,Secretary of State,,,Over Votes,0
+Sherman,Wasco,Secretary of State,,,Under Votes,21
+Sherman,Wasco,State Treasurer,,WFP,Mary King,10
+Sherman,Wasco,State Treasurer,,REP,Brian J Boquist,293
+Sherman,Wasco,State Treasurer,,DEM,Elizabeth Steiner,61
+Sherman,Wasco,State Treasurer,,,Write-in,1
+Sherman,Wasco,State Treasurer,,,Over Votes,0
+Sherman,Wasco,State Treasurer,,,Under Votes,23
+Sherman,Wasco,Attorney General,,REP,Will Lathrop,304
+Sherman,Wasco,Attorney General,,DEM,Dan Rayfield,60
+Sherman,Wasco,Attorney General,,,Write-in,0
+Sherman,Wasco,Attorney General,,,Over Votes,0
+Sherman,Wasco,Attorney General,,,Under Votes,24
+Sherman,Wasco,State Senate,29,NAV,Tania Wildbill,28
+Sherman,Wasco,State Senate,29,REP,Todd Nash,293
+Sherman,Wasco,State Senate,29,,Write-in,1
+Sherman,Wasco,State Senate,29,,Over Votes,0
+Sherman,Wasco,State Senate,29,,Under Votes,66
+Sherman,Wasco,State Representative,57,REP,Greg Smith,291
+Sherman,Wasco,State Representative,57,,Write-in,5
+Sherman,Wasco,State Representative,57,,Over Votes,0
+Sherman,Wasco,State Representative,57,,Under Votes,92
+Sherman,Wasco,Sherman County Commissioner,Position 1,REP,Joan Bird,336
+Sherman,Wasco,Sherman County Commissioner,Position 1,,Write-in,0
+Sherman,Wasco,Sherman County Commissioner,Position 1,,Over Votes,0
+Sherman,Wasco,Sherman County Commissioner,Position 1,,Under Votes,52
+Sherman,Wasco,Judge of the Supreme Court,Position 1,,Stephen K Bushong,214
+Sherman,Wasco,Judge of the Supreme Court,Position 1,,Write-in,1
+Sherman,Wasco,Judge of the Supreme Court,Position 1,,Over Votes,0
+Sherman,Wasco,Judge of the Supreme Court,Position 1,,Under Votes,173
+Sherman,Wasco,Judge of the Supreme Court,Position 7,,Bronson D James,211
+Sherman,Wasco,Judge of the Supreme Court,Position 7,,Write-in,1
+Sherman,Wasco,Judge of the Supreme Court,Position 7,,Over Votes,0
+Sherman,Wasco,Judge of the Supreme Court,Position 7,,Under Votes,176
+Sherman,Wasco,Justice of the Peace,,,Shandie Johnson,296
+Sherman,Wasco,Justice of the Peace,,,Write-in,3
+Sherman,Wasco,Justice of the Peace,,,Over Votes,0
+Sherman,Wasco,Justice of the Peace,,,Under Votes,89
+Sherman,Wasco,County Sheriff,,,James Burgett,341
+Sherman,Wasco,County Sheriff,,,Write-in,0
+Sherman,Wasco,County Sheriff,,,Over Votes,0
+Sherman,Wasco,County Sheriff,,,Under Votes,47
+Sherman,Wasco,County Clerk,,,Kristi Weis,312
+Sherman,Wasco,County Clerk,,,Write-in,1
+Sherman,Wasco,County Clerk,,,Over Votes,0
+Sherman,Wasco,County Clerk,,,Under Votes,75
+Sherman,Wasco,City of Wasco Mayor,,,Beth J McCurdy,156
+Sherman,Wasco,City of Wasco Mayor,,,Write-in,19
+Sherman,Wasco,City of Wasco Mayor,,,Over Votes,0
+Sherman,Wasco,City of Wasco Mayor,,,Under Votes,79
+Sherman,Wasco,City of Wasco Council Members,,,Ben Altman,140
+Sherman,Wasco,City of Wasco Council Members,,,Ken DeGrange,194
+Sherman,Wasco,City of Wasco Council Members,,,Write-in,6
+Sherman,Wasco,City of Wasco Council Members,,,Write-in,0
+Sherman,Wasco,City of Wasco Council Members,,,Over Votes,0
+Sherman,Wasco,City of Wasco Council Members,,,Under Votes,168
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Ryan Thompson,321
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Write-in,0
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Over Votes,0
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Under Votes,67
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Nicholas A von Borstel,313
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Write-in,3
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Over Votes,0
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Under Votes,72
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Brian Simantel,313
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Write-in,3
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Over Votes,0
+Sherman,Wasco,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Under Votes,72
+Sherman,Moro,President,,WTP,Robert F Kennedy Jr,10
+Sherman,Moro,President,,PRO,Cornel West,1
+Sherman,Moro,President,,LBT,Chase Oliver,3
+Sherman,Moro,President,,CON,Randall Terry,0
+Sherman,Moro,President,,REP,Donald J Trump,232
+Sherman,Moro,President,,PGP,Jill Stein,1
+Sherman,Moro,President,,DEM,Kamala D Harris,89
+Sherman,Moro,President,,,Write-in,1
+Sherman,Moro,President,,,Over Votes,1
+Sherman,Moro,President,,,Under Votes,5
+Sherman,Moro,U.S. House,2,REP,Cliff Bentz,246
+Sherman,Moro,U.S. House,2,CON,Michael Kurt Stettler,4
+Sherman,Moro,U.S. House,2,DEM,Dan Ruby,74
+Sherman,Moro,U.S. House,2,,Write-in,1
+Sherman,Moro,U.S. House,2,,Over Votes,0
+Sherman,Moro,U.S. House,2,,Under Votes,18
+Sherman,Moro,Secretary of State,,PGP,Nathalie Paravicini,6
+Sherman,Moro,Secretary of State,,REP,Dennis Linthicum,234
+Sherman,Moro,Secretary of State,,DEM,Tobias Read,83
+Sherman,Moro,Secretary of State,,,Write-in,1
+Sherman,Moro,Secretary of State,,,Over Votes,0
+Sherman,Moro,Secretary of State,,,Under Votes,19
+Sherman,Moro,State Treasurer,,WFP,Mary King,22
+Sherman,Moro,State Treasurer,,REP,Brian J Boquist,233
+Sherman,Moro,State Treasurer,,DEM,Elizabeth Steiner,64
+Sherman,Moro,State Treasurer,,,Write-in,0
+Sherman,Moro,State Treasurer,,,Over Votes,0
+Sherman,Moro,State Treasurer,,,Under Votes,24
+Sherman,Moro,Attorney General,,REP,Will Lathrop,244
+Sherman,Moro,Attorney General,,DEM,Dan Rayfield,73
+Sherman,Moro,Attorney General,,,Write-in,0
+Sherman,Moro,Attorney General,,,Over Votes,0
+Sherman,Moro,Attorney General,,,Under Votes,26
+Sherman,Moro,State Senate,29,NAV,Tania Wildbill,40
+Sherman,Moro,State Senate,29,REP,Todd Nash,240
+Sherman,Moro,State Senate,29,,Write-in,3
+Sherman,Moro,State Senate,29,,Over Votes,0
+Sherman,Moro,State Senate,29,,Under Votes,60
+Sherman,Moro,State Representative,57,REP,Greg Smith,258
+Sherman,Moro,State Representative,57,,Write-in,1
+Sherman,Moro,State Representative,57,,Over Votes,0
+Sherman,Moro,State Representative,57,,Under Votes,84
+Sherman,Moro,Sherman County Commissioner,Position 1,REP,Joan Bird,287
+Sherman,Moro,Sherman County Commissioner,Position 1,,Write-in,3
+Sherman,Moro,Sherman County Commissioner,Position 1,,Over Votes,0
+Sherman,Moro,Sherman County Commissioner,Position 1,,Under Votes,53
+Sherman,Moro,Judge of the Supreme Court,Position 1,,Stephen K Bushong,195
+Sherman,Moro,Judge of the Supreme Court,Position 1,,Write-in,4
+Sherman,Moro,Judge of the Supreme Court,Position 1,,Over Votes,0
+Sherman,Moro,Judge of the Supreme Court,Position 1,,Under Votes,144
+Sherman,Moro,Judge of the Supreme Court,Position 7,,Bronson D James,196
+Sherman,Moro,Judge of the Supreme Court,Position 7,,Write-in,4
+Sherman,Moro,Judge of the Supreme Court,Position 7,,Over Votes,0
+Sherman,Moro,Judge of the Supreme Court,Position 7,,Under Votes,143
+Sherman,Moro,Justice of the Peace,,,Shandie Johnson,270
+Sherman,Moro,Justice of the Peace,,,Write-in,3
+Sherman,Moro,Justice of the Peace,,,Over Votes,0
+Sherman,Moro,Justice of the Peace,,,Under Votes,70
+Sherman,Moro,County Sheriff,,,James Burgett,297
+Sherman,Moro,County Sheriff,,,Write-in,4
+Sherman,Moro,County Sheriff,,,Over Votes,0
+Sherman,Moro,County Sheriff,,,Under Votes,42
+Sherman,Moro,County Clerk,,,Kristi Weis,269
+Sherman,Moro,County Clerk,,,Write-in,0
+Sherman,Moro,County Clerk,,,Over Votes,0
+Sherman,Moro,County Clerk,,,Under Votes,74
+Sherman,Moro,City of Moro Mayor,,,Bert Perisho,148
+Sherman,Moro,City of Moro Mayor,,,Write-in,10
+Sherman,Moro,City of Moro Mayor,,,Over Votes,0
+Sherman,Moro,City of Moro Mayor,,,Under Votes,65
+Sherman,Moro,City of Moro City Council,2,,James D Alley,166
+Sherman,Moro,City of Moro City Council,2,,Write-in,3
+Sherman,Moro,City of Moro City Council,2,,Over Votes,0
+Sherman,Moro,City of Moro City Council,2,,Under Votes,54
+Sherman,Moro,City of Moro City Council,4,,Andy Anderson,139
+Sherman,Moro,City of Moro City Council,4,,Write-in,11
+Sherman,Moro,City of Moro City Council,4,,Over Votes,0
+Sherman,Moro,City of Moro City Council,4,,Under Votes,73
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Ryan Thompson,284
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Write-in,1
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Over Votes,0
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Under Votes,58
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Nicholas A von Borstel,278
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Write-in,0
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Over Votes,0
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Under Votes,65
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Brian Simantel,274
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Write-in,1
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Over Votes,0
+Sherman,Moro,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Under Votes,68
+Sherman,Grass Valley,President,,WTP,Robert F Kennedy Jr,1
+Sherman,Grass Valley,President,,PRO,Cornel West,0
+Sherman,Grass Valley,President,,LBT,Chase Oliver,0
+Sherman,Grass Valley,President,,CON,Randall Terry,0
+Sherman,Grass Valley,President,,REP,Donald J Trump,148
+Sherman,Grass Valley,President,,PGP,Jill Stein,0
+Sherman,Grass Valley,President,,DEM,Kamala D Harris,32
+Sherman,Grass Valley,President,,,Write-in,0
+Sherman,Grass Valley,President,,,Over Votes,0
+Sherman,Grass Valley,President,,,Under Votes,0
+Sherman,Grass Valley,U.S. House,2,REP,Cliff Bentz,150
+Sherman,Grass Valley,U.S. House,2,CON,Michael Kurt Stettler,5
+Sherman,Grass Valley,U.S. House,2,DEM,Dan Ruby,22
+Sherman,Grass Valley,U.S. House,2,,Write-in,0
+Sherman,Grass Valley,U.S. House,2,,Over Votes,0
+Sherman,Grass Valley,U.S. House,2,,Under Votes,4
+Sherman,Grass Valley,Secretary of State,,PGP,Nathalie Paravicini,1
+Sherman,Grass Valley,Secretary of State,,REP,Dennis Linthicum,144
+Sherman,Grass Valley,Secretary of State,,DEM,Tobias Read,31
+Sherman,Grass Valley,Secretary of State,,,Write-in,0
+Sherman,Grass Valley,Secretary of State,,,Over Votes,0
+Sherman,Grass Valley,Secretary of State,,,Under Votes,5
+Sherman,Grass Valley,State Treasurer,,WFP,Mary King,6
+Sherman,Grass Valley,State Treasurer,,REP,Brian J Boquist,144
+Sherman,Grass Valley,State Treasurer,,DEM,Elizabeth Steiner,25
+Sherman,Grass Valley,State Treasurer,,,Write-in,0
+Sherman,Grass Valley,State Treasurer,,,Over Votes,0
+Sherman,Grass Valley,State Treasurer,,,Under Votes,6
+Sherman,Grass Valley,Attorney General,,REP,Will Lathrop,147
+Sherman,Grass Valley,Attorney General,,DEM,Dan Rayfield,29
+Sherman,Grass Valley,Attorney General,,,Write-in,0
+Sherman,Grass Valley,Attorney General,,,Over Votes,0
+Sherman,Grass Valley,Attorney General,,,Under Votes,5
+Sherman,Grass Valley,State Senate,29,NAV,Tania Wildbill,12
+Sherman,Grass Valley,State Senate,29,REP,Todd Nash,147
+Sherman,Grass Valley,State Senate,29,,Write-in,1
+Sherman,Grass Valley,State Senate,29,,Over Votes,0
+Sherman,Grass Valley,State Senate,29,,Under Votes,21
+Sherman,Grass Valley,State Representative,57,REP,Greg Smith,137
+Sherman,Grass Valley,State Representative,57,,Write-in,1
+Sherman,Grass Valley,State Representative,57,,Over Votes,0
+Sherman,Grass Valley,State Representative,57,,Under Votes,43
+Sherman,Grass Valley,Sherman County Commissioner,Position 1,REP,Joan Bird,166
+Sherman,Grass Valley,Sherman County Commissioner,Position 1,,Write-in,2
+Sherman,Grass Valley,Sherman County Commissioner,Position 1,,Over Votes,0
+Sherman,Grass Valley,Sherman County Commissioner,Position 1,,Under Votes,13
+Sherman,Grass Valley,Judge of the Supreme Court,Position 1,,Stephen K Bushong,105
+Sherman,Grass Valley,Judge of the Supreme Court,Position 1,,Write-in,0
+Sherman,Grass Valley,Judge of the Supreme Court,Position 1,,Over Votes,0
+Sherman,Grass Valley,Judge of the Supreme Court,Position 1,,Under Votes,76
+Sherman,Grass Valley,Judge of the Supreme Court,Position 7,,Bronson D James,105
+Sherman,Grass Valley,Judge of the Supreme Court,Position 7,,Write-in,0
+Sherman,Grass Valley,Judge of the Supreme Court,Position 7,,Over Votes,0
+Sherman,Grass Valley,Judge of the Supreme Court,Position 7,,Under Votes,76
+Sherman,Grass Valley,Justice of the Peace,,,Shandie Johnson,147
+Sherman,Grass Valley,Justice of the Peace,,,Write-in,0
+Sherman,Grass Valley,Justice of the Peace,,,Over Votes,0
+Sherman,Grass Valley,Justice of the Peace,,,Under Votes,34
+Sherman,Grass Valley,County Sheriff,,,James Burgett,159
+Sherman,Grass Valley,County Sheriff,,,Write-in,1
+Sherman,Grass Valley,County Sheriff,,,Over Votes,0
+Sherman,Grass Valley,County Sheriff,,,Under Votes,21
+Sherman,Grass Valley,County Clerk,,,Kristi Weis,147
+Sherman,Grass Valley,County Clerk,,,Write-in,0
+Sherman,Grass Valley,County Clerk,,,Over Votes,0
+Sherman,Grass Valley,County Clerk,,,Under Votes,34
+Sherman,Grass Valley,City of Grass Valley Mayor,,,No Candidate Filed,0
+Sherman,Grass Valley,City of Grass Valley Mayor,,,Write-in,33
+Sherman,Grass Valley,City of Grass Valley Mayor,,,Over Votes,0
+Sherman,Grass Valley,City of Grass Valley Mayor,,,Under Votes,58
+Sherman,Grass Valley,City of Grass Valley Council Member,4,,Ree Ella von Borstel,71
+Sherman,Grass Valley,City of Grass Valley Council Member,4,,Write-in,2
+Sherman,Grass Valley,City of Grass Valley Council Member,4,,Over Votes,0
+Sherman,Grass Valley,City of Grass Valley Council Member,4,,Under Votes,18
+Sherman,Grass Valley,City of Grass Valley Council Member,5,,Rick Whitaker,69
+Sherman,Grass Valley,City of Grass Valley Council Member,5,,Write-in,0
+Sherman,Grass Valley,City of Grass Valley Council Member,5,,Over Votes,0
+Sherman,Grass Valley,City of Grass Valley Council Member,5,,Under Votes,22
+Sherman,Grass Valley,City of Grass Valley Council Member,6,,Bonne J Whitley,65
+Sherman,Grass Valley,City of Grass Valley Council Member,6,,Write-in,4
+Sherman,Grass Valley,City of Grass Valley Council Member,6,,Over Votes,0
+Sherman,Grass Valley,City of Grass Valley Council Member,6,,Under Votes,22
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Ryan Thompson,154
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Write-in,0
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Over Votes,0
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, Zone 2",,,Under Votes,27
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Nicholas A von Borstel,150
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Write-in,0
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Over Votes,0
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, Zone 3",,,Under Votes,31
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Brian Simantel,139
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Write-in,0
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Over Votes,0
+Sherman,Grass Valley,"Sherman Soil and Water Conservation District, Director, At Large",Position 1,,Under Votes,42
+Sherman,Grass Valley,State Measure 115,,,Yes,107
+Sherman,Grass Valley,State Measure 115,,,No,64
+Sherman,Grass Valley,State Measure 115,,,Over Votes,0
+Sherman,Grass Valley,State Measure 115,,,Under Votes,10
+Sherman,Grass Valley,State Measure 116,,,Yes,40
+Sherman,Grass Valley,State Measure 116,,,No,135
+Sherman,Grass Valley,State Measure 116,,,Over Votes,1
+Sherman,Grass Valley,State Measure 116,,,Under Votes,5
+Sherman,Grass Valley,State Measure 117,,,Yes,28
+Sherman,Grass Valley,State Measure 117,,,No,149
+Sherman,Grass Valley,State Measure 117,,,Over Votes,0
+Sherman,Grass Valley,State Measure 117,,,Under Votes,4
+Sherman,Grass Valley,State Measure 118,,,Yes,13
+Sherman,Grass Valley,State Measure 118,,,No,159
+Sherman,Grass Valley,State Measure 118,,,Over Votes,0
+Sherman,Grass Valley,State Measure 118,,,Under Votes,9
+Sherman,Grass Valley,State Measure 119,,,Yes,36
+Sherman,Grass Valley,State Measure 119,,,No,131
+Sherman,Grass Valley,State Measure 119,,,Over Votes,0
