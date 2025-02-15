@@ -1,0 +1,1223 @@
+county,precinct,office,district,party,candidate,votes
+Polk,102,Registered Voters,,,,1706
+Polk,106,Registered Voters,,,,1599
+Polk,110,Registered Voters,,,,1286
+Polk,118,Registered Voters,,,,3792
+Polk,122,Registered Voters,,,,1513
+Polk,134,Registered Voters,,,,6360
+Polk,136,Registered Voters,,,,4601
+Polk,140,Registered Voters,,,,5182
+Polk,146,Registered Voters,,,,5076
+Polk,152,Registered Voters,,,,5382
+Polk,154,Registered Voters,,,,6352
+Polk,156,Registered Voters,,,,3670
+Polk,162,Registered Voters,,,,3641
+Polk,166,Registered Voters,,,,1122
+Polk,178,Registered Voters,,,,6529
+Polk,182,Registered Voters,,,,6615
+Polk,102,Ballots Cast,,,,1369
+Polk,106,Ballots Cast,,,,1100
+Polk,110,Ballots Cast,,,,720
+Polk,118,Ballots Cast,,,,3114
+Polk,122,Ballots Cast,,,,1204
+Polk,134,Ballots Cast,,,,4987
+Polk,136,Ballots Cast,,,,3699
+Polk,140,Ballots Cast,,,,3398
+Polk,146,Ballots Cast,,,,4026
+Polk,152,Ballots Cast,,,,4373
+Polk,154,Ballots Cast,,,,4674
+Polk,156,Ballots Cast,,,,2654
+Polk,162,Ballots Cast,,,,2932
+Polk,166,Ballots Cast,,,,764
+Polk,178,Ballots Cast,,,,4620
+Polk,182,Ballots Cast,,,,4533
+Polk,102,Ballots Cast Blank,,,,0
+Polk,106,Ballots Cast Blank,,,,1
+Polk,110,Ballots Cast Blank,,,,0
+Polk,118,Ballots Cast Blank,,,,0
+Polk,122,Ballots Cast Blank,,,,1
+Polk,134,Ballots Cast Blank,,,,0
+Polk,136,Ballots Cast Blank,,,,0
+Polk,140,Ballots Cast Blank,,,,0
+Polk,146,Ballots Cast Blank,,,,1
+Polk,152,Ballots Cast Blank,,,,3
+Polk,154,Ballots Cast Blank,,,,1
+Polk,156,Ballots Cast Blank,,,,1
+Polk,162,Ballots Cast Blank,,,,1
+Polk,166,Ballots Cast Blank,,,,0
+Polk,178,Ballots Cast Blank,,,,1
+Polk,182,Ballots Cast Blank,,,,0
+Polk,102,President,,WTP,Robert F. Kennedy Jr.,21
+Polk,106,President,,WTP,Robert F. Kennedy Jr.,18
+Polk,110,President,,WTP,Robert F. Kennedy Jr.,15
+Polk,118,President,,WTP,Robert F. Kennedy Jr.,46
+Polk,122,President,,WTP,Robert F. Kennedy Jr.,12
+Polk,134,President,,WTP,Robert F. Kennedy Jr.,72
+Polk,136,President,,WTP,Robert F. Kennedy Jr.,48
+Polk,140,President,,WTP,Robert F. Kennedy Jr.,53
+Polk,146,President,,WTP,Robert F. Kennedy Jr.,56
+Polk,152,President,,WTP,Robert F. Kennedy Jr.,69
+Polk,154,President,,WTP,Robert F. Kennedy Jr.,83
+Polk,156,President,,WTP,Robert F. Kennedy Jr.,72
+Polk,162,President,,WTP,Robert F. Kennedy Jr.,61
+Polk,166,President,,WTP,Robert F. Kennedy Jr.,16
+Polk,178,President,,WTP,Robert F. Kennedy Jr.,94
+Polk,182,President,,WTP,Robert F. Kennedy Jr.,83
+Polk,102,President,,PRO,Cornel West,1
+Polk,106,President,,PRO,Cornel West,2
+Polk,110,President,,PRO,Cornel West,2
+Polk,118,President,,PRO,Cornel West,5
+Polk,122,President,,PRO,Cornel West,0
+Polk,134,President,,PRO,Cornel West,9
+Polk,136,President,,PRO,Cornel West,2
+Polk,140,President,,PRO,Cornel West,11
+Polk,146,President,,PRO,Cornel West,13
+Polk,152,President,,PRO,Cornel West,3
+Polk,154,President,,PRO,Cornel West,8
+Polk,156,President,,PRO,Cornel West,2
+Polk,162,President,,PRO,Cornel West,3
+Polk,166,President,,PRO,Cornel West,3
+Polk,178,President,,PRO,Cornel West,13
+Polk,182,President,,PRO,Cornel West,8
+Polk,102,President,,LBT,Chase Oliver,4
+Polk,106,President,,LBT,Chase Oliver,2
+Polk,110,President,,LBT,Chase Oliver,1
+Polk,118,President,,LBT,Chase Oliver,11
+Polk,122,President,,LBT,Chase Oliver,3
+Polk,134,President,,LBT,Chase Oliver,18
+Polk,136,President,,LBT,Chase Oliver,20
+Polk,140,President,,LBT,Chase Oliver,18
+Polk,146,President,,LBT,Chase Oliver,18
+Polk,152,President,,LBT,Chase Oliver,16
+Polk,154,President,,LBT,Chase Oliver,17
+Polk,156,President,,LBT,Chase Oliver,16
+Polk,162,President,,LBT,Chase Oliver,6
+Polk,166,President,,LBT,Chase Oliver,10
+Polk,178,President,,LBT,Chase Oliver,47
+Polk,182,President,,LBT,Chase Oliver,28
+Polk,102,President,,CON,Randall Terry,2
+Polk,106,President,,CON,Randall Terry,0
+Polk,110,President,,CON,Randall Terry,0
+Polk,118,President,,CON,Randall Terry,1
+Polk,122,President,,CON,Randall Terry,0
+Polk,134,President,,CON,Randall Terry,1
+Polk,136,President,,CON,Randall Terry,6
+Polk,140,President,,CON,Randall Terry,9
+Polk,146,President,,CON,Randall Terry,3
+Polk,152,President,,CON,Randall Terry,3
+Polk,154,President,,CON,Randall Terry,5
+Polk,156,President,,CON,Randall Terry,1
+Polk,162,President,,CON,Randall Terry,4
+Polk,166,President,,CON,Randall Terry,4
+Polk,178,President,,CON,Randall Terry,7
+Polk,182,President,,CON,Randall Terry,5
+Polk,102,President,,REP,Donald J. Trump,861
+Polk,106,President,,REP,Donald J. Trump,729
+Polk,110,President,,REP,Donald J. Trump,437
+Polk,118,President,,REP,Donald J. Trump,1706
+Polk,122,President,,REP,Donald J. Trump,615
+Polk,134,President,,REP,Donald J. Trump,2176
+Polk,136,President,,REP,Donald J. Trump,1552
+Polk,140,President,,REP,Donald J. Trump,1337
+Polk,146,President,,REP,Donald J. Trump,1577
+Polk,152,President,,REP,Donald J. Trump,2829
+Polk,154,President,,REP,Donald J. Trump,2654
+Polk,156,President,,REP,Donald J. Trump,1441
+Polk,162,President,,REP,Donald J. Trump,1708
+Polk,166,President,,REP,Donald J. Trump,434
+Polk,178,President,,REP,Donald J. Trump,1825
+Polk,182,President,,REP,Donald J. Trump,1887
+Polk,102,President,,PGP,Jill Stein,4
+Polk,106,President,,PGP,Jill Stein,1
+Polk,110,President,,PGP,Jill Stein,5
+Polk,118,President,,PGP,Jill Stein,20
+Polk,122,President,,PGP,Jill Stein,2
+Polk,134,President,,PGP,Jill Stein,37
+Polk,136,President,,PGP,Jill Stein,18
+Polk,140,President,,PGP,Jill Stein,30
+Polk,146,President,,PGP,Jill Stein,19
+Polk,152,President,,PGP,Jill Stein,13
+Polk,154,President,,PGP,Jill Stein,16
+Polk,156,President,,PGP,Jill Stein,13
+Polk,162,President,,PGP,Jill Stein,6
+Polk,166,President,,PGP,Jill Stein,5
+Polk,178,President,,PGP,Jill Stein,30
+Polk,182,President,,PGP,Jill Stein,22
+Polk,102,President,,DEM,Kamala D. Harris,446
+Polk,106,President,,DEM,Kamala D. Harris,328
+Polk,110,President,,DEM,Kamala D. Harris,249
+Polk,118,President,,DEM,Kamala D. Harris,1245
+Polk,122,President,,DEM,Kamala D. Harris,543
+Polk,134,President,,DEM,Kamala D. Harris,2577
+Polk,136,President,,DEM,Kamala D. Harris,1968
+Polk,140,President,,DEM,Kamala D. Harris,1885
+Polk,146,President,,DEM,Kamala D. Harris,2259
+Polk,152,President,,DEM,Kamala D. Harris,1357
+Polk,154,President,,DEM,Kamala D. Harris,1805
+Polk,156,President,,DEM,Kamala D. Harris,1056
+Polk,162,President,,DEM,Kamala D. Harris,1089
+Polk,166,President,,DEM,Kamala D. Harris,281
+Polk,178,President,,DEM,Kamala D. Harris,2512
+Polk,182,President,,DEM,Kamala D. Harris,2434
+Polk,102,President,,,Write-ins,8
+Polk,106,President,,,Write-ins,6
+Polk,110,President,,,Write-ins,4
+Polk,118,President,,,Write-ins,34
+Polk,122,President,,,Write-ins,10
+Polk,134,President,,,Write-ins,41
+Polk,136,President,,,Write-ins,35
+Polk,140,President,,,Write-ins,25
+Polk,146,President,,,Write-ins,32
+Polk,152,President,,,Write-ins,27
+Polk,154,President,,,Write-ins,29
+Polk,156,President,,,Write-ins,18
+Polk,162,President,,,Write-ins,20
+Polk,166,President,,,Write-ins,3
+Polk,178,President,,,Write-ins,41
+Polk,182,President,,,Write-ins,27
+Polk,102,President,,,Over Votes,1
+Polk,106,President,,,Over Votes,0
+Polk,110,President,,,Over Votes,0
+Polk,118,President,,,Over Votes,1
+Polk,122,President,,,Over Votes,0
+Polk,134,President,,,Over Votes,0
+Polk,136,President,,,Over Votes,1
+Polk,140,President,,,Over Votes,3
+Polk,146,President,,,Over Votes,2
+Polk,152,President,,,Over Votes,4
+Polk,154,President,,,Over Votes,0
+Polk,156,President,,,Over Votes,3
+Polk,162,President,,,Over Votes,2
+Polk,166,President,,,Over Votes,0
+Polk,178,President,,,Over Votes,4
+Polk,182,President,,,Over Votes,1
+Polk,102,President,,,Under Votes,21
+Polk,106,President,,,Under Votes,14
+Polk,110,President,,,Under Votes,7
+Polk,118,President,,,Under Votes,45
+Polk,122,President,,,Under Votes,19
+Polk,134,President,,,Under Votes,56
+Polk,136,President,,,Under Votes,49
+Polk,140,President,,,Under Votes,27
+Polk,146,President,,,Under Votes,47
+Polk,152,President,,,Under Votes,52
+Polk,154,President,,,Under Votes,57
+Polk,156,President,,,Under Votes,32
+Polk,162,President,,,Under Votes,33
+Polk,166,President,,,Under Votes,8
+Polk,178,President,,,Under Votes,47
+Polk,182,President,,,Under Votes,38
+Polk,102,U.S. House,6,REP,Mike Erickson,901
+Polk,106,U.S. House,6,REP,Mike Erickson,732
+Polk,110,U.S. House,6,REP,Mike Erickson,433
+Polk,118,U.S. House,6,REP,Mike Erickson,1812
+Polk,122,U.S. House,6,REP,Mike Erickson,665
+Polk,134,U.S. House,6,REP,Mike Erickson,2302
+Polk,136,U.S. House,6,REP,Mike Erickson,1710
+Polk,140,U.S. House,6,REP,Mike Erickson,1368
+Polk,146,U.S. House,6,REP,Mike Erickson,1707
+Polk,152,U.S. House,6,REP,Mike Erickson,2872
+Polk,154,U.S. House,6,REP,Mike Erickson,2710
+Polk,156,U.S. House,6,REP,Mike Erickson,1478
+Polk,162,U.S. House,6,REP,Mike Erickson,1745
+Polk,166,U.S. House,6,REP,Mike Erickson,430
+Polk,178,U.S. House,6,REP,Mike Erickson,1926
+Polk,182,U.S. House,6,REP,Mike Erickson,1918
+Polk,102,U.S. House,6,DEM,Andrea Salinas,423
+Polk,106,U.S. House,6,DEM,Andrea Salinas,311
+Polk,110,U.S. House,6,DEM,Andrea Salinas,248
+Polk,118,U.S. House,6,DEM,Andrea Salinas,1190
+Polk,122,U.S. House,6,DEM,Andrea Salinas,499
+Polk,134,U.S. House,6,DEM,Andrea Salinas,2463
+Polk,136,U.S. House,6,DEM,Andrea Salinas,1836
+Polk,140,U.S. House,6,DEM,Andrea Salinas,1832
+Polk,146,U.S. House,6,DEM,Andrea Salinas,2149
+Polk,152,U.S. House,6,DEM,Andrea Salinas,1329
+Polk,154,U.S. House,6,DEM,Andrea Salinas,1770
+Polk,156,U.S. House,6,DEM,Andrea Salinas,1053
+Polk,162,U.S. House,6,DEM,Andrea Salinas,1060
+Polk,166,U.S. House,6,DEM,Andrea Salinas,283
+Polk,178,U.S. House,6,DEM,Andrea Salinas,2481
+Polk,182,U.S. House,6,DEM,Andrea Salinas,2392
+Polk,102,U.S. House,6,,Write-ins,0
+Polk,106,U.S. House,6,,Write-ins,3
+Polk,110,U.S. House,6,,Write-ins,1
+Polk,118,U.S. House,6,,Write-ins,7
+Polk,122,U.S. House,6,,Write-ins,0
+Polk,134,U.S. House,6,,Write-ins,5
+Polk,136,U.S. House,6,,Write-ins,8
+Polk,140,U.S. House,6,,Write-ins,11
+Polk,146,U.S. House,6,,Write-ins,5
+Polk,152,U.S. House,6,,Write-ins,9
+Polk,154,U.S. House,6,,Write-ins,19
+Polk,156,U.S. House,6,,Write-ins,3
+Polk,162,U.S. House,6,,Write-ins,5
+Polk,166,U.S. House,6,,Write-ins,2
+Polk,178,U.S. House,6,,Write-ins,8
+Polk,182,U.S. House,6,,Write-ins,13
+Polk,102,U.S. House,6,,Over Votes,0
+Polk,106,U.S. House,6,,Over Votes,1
+Polk,110,U.S. House,6,,Over Votes,0
+Polk,118,U.S. House,6,,Over Votes,0
+Polk,122,U.S. House,6,,Over Votes,0
+Polk,134,U.S. House,6,,Over Votes,0
+Polk,136,U.S. House,6,,Over Votes,1
+Polk,140,U.S. House,6,,Over Votes,0
+Polk,146,U.S. House,6,,Over Votes,0
+Polk,152,U.S. House,6,,Over Votes,0
+Polk,154,U.S. House,6,,Over Votes,1
+Polk,156,U.S. House,6,,Over Votes,0
+Polk,162,U.S. House,6,,Over Votes,1
+Polk,166,U.S. House,6,,Over Votes,0
+Polk,178,U.S. House,6,,Over Votes,1
+Polk,182,U.S. House,6,,Over Votes,0
+Polk,102,U.S. House,6,,Under Votes,45
+Polk,106,U.S. House,6,,Under Votes,53
+Polk,110,U.S. House,6,,Under Votes,38
+Polk,118,U.S. House,6,,Under Votes,105
+Polk,122,U.S. House,6,,Under Votes,40
+Polk,134,U.S. House,6,,Under Votes,217
+Polk,136,U.S. House,6,,Under Votes,144
+Polk,140,U.S. House,6,,Under Votes,187
+Polk,146,U.S. House,6,,Under Votes,165
+Polk,152,U.S. House,6,,Under Votes,163
+Polk,154,U.S. House,6,,Under Votes,174
+Polk,156,U.S. House,6,,Under Votes,120
+Polk,162,U.S. House,6,,Under Votes,121
+Polk,166,U.S. House,6,,Under Votes,49
+Polk,178,U.S. House,6,,Under Votes,204
+Polk,182,U.S. House,6,,Under Votes,210
+Polk,102,Secretary of State,,PGP,Nathalie Paravicini,32
+Polk,106,Secretary of State,,PGP,Nathalie Paravicini,22
+Polk,110,Secretary of State,,PGP,Nathalie Paravicini,27
+Polk,118,Secretary of State,,PGP,Nathalie Paravicini,59
+Polk,122,Secretary of State,,PGP,Nathalie Paravicini,27
+Polk,134,Secretary of State,,PGP,Nathalie Paravicini,138
+Polk,136,Secretary of State,,PGP,Nathalie Paravicini,102
+Polk,140,Secretary of State,,PGP,Nathalie Paravicini,181
+Polk,146,Secretary of State,,PGP,Nathalie Paravicini,122
+Polk,152,Secretary of State,,PGP,Nathalie Paravicini,80
+Polk,154,Secretary of State,,PGP,Nathalie Paravicini,152
+Polk,156,Secretary of State,,PGP,Nathalie Paravicini,107
+Polk,162,Secretary of State,,PGP,Nathalie Paravicini,51
+Polk,166,Secretary of State,,PGP,Nathalie Paravicini,33
+Polk,178,Secretary of State,,PGP,Nathalie Paravicini,225
+Polk,182,Secretary of State,,PGP,Nathalie Paravicini,165
+Polk,102,Secretary of State,,REP,Dennis Linthicum,866
+Polk,106,Secretary of State,,REP,Dennis Linthicum,691
+Polk,110,Secretary of State,,REP,Dennis Linthicum,405
+Polk,118,Secretary of State,,REP,Dennis Linthicum,1727
+Polk,122,Secretary of State,,REP,Dennis Linthicum,627
+Polk,134,Secretary of State,,REP,Dennis Linthicum,2135
+Polk,136,Secretary of State,,REP,Dennis Linthicum,1589
+Polk,140,Secretary of State,,REP,Dennis Linthicum,1287
+Polk,146,Secretary of State,,REP,Dennis Linthicum,1579
+Polk,152,Secretary of State,,REP,Dennis Linthicum,2809
+Polk,154,Secretary of State,,REP,Dennis Linthicum,2568
+Polk,156,Secretary of State,,REP,Dennis Linthicum,1396
+Polk,162,Secretary of State,,REP,Dennis Linthicum,1688
+Polk,166,Secretary of State,,REP,Dennis Linthicum,414
+Polk,178,Secretary of State,,REP,Dennis Linthicum,1783
+Polk,182,Secretary of State,,REP,Dennis Linthicum,1767
+Polk,102,Secretary of State,,DEM,Tobias Read,423
+Polk,106,Secretary of State,,DEM,Tobias Read,319
+Polk,110,Secretary of State,,DEM,Tobias Read,238
+Polk,118,Secretary of State,,DEM,Tobias Read,1201
+Polk,122,Secretary of State,,DEM,Tobias Read,504
+Polk,134,Secretary of State,,DEM,Tobias Read,2483
+Polk,136,Secretary of State,,DEM,Tobias Read,1846
+Polk,140,Secretary of State,,DEM,Tobias Read,1733
+Polk,146,Secretary of State,,DEM,Tobias Read,2153
+Polk,152,Secretary of State,,DEM,Tobias Read,1306
+Polk,154,Secretary of State,,DEM,Tobias Read,1753
+Polk,156,Secretary of State,,DEM,Tobias Read,1027
+Polk,162,Secretary of State,,DEM,Tobias Read,1058
+Polk,166,Secretary of State,,DEM,Tobias Read,260
+Polk,178,Secretary of State,,DEM,Tobias Read,2359
+Polk,182,Secretary of State,,DEM,Tobias Read,2334
+Polk,102,Secretary of State,,,Write-ins,0
+Polk,106,Secretary of State,,,Write-ins,1
+Polk,110,Secretary of State,,,Write-ins,1
+Polk,118,Secretary of State,,,Write-ins,2
+Polk,122,Secretary of State,,,Write-ins,0
+Polk,134,Secretary of State,,,Write-ins,3
+Polk,136,Secretary of State,,,Write-ins,4
+Polk,140,Secretary of State,,,Write-ins,3
+Polk,146,Secretary of State,,,Write-ins,2
+Polk,152,Secretary of State,,,Write-ins,3
+Polk,154,Secretary of State,,,Write-ins,6
+Polk,156,Secretary of State,,,Write-ins,2
+Polk,162,Secretary of State,,,Write-ins,1
+Polk,166,Secretary of State,,,Write-ins,1
+Polk,178,Secretary of State,,,Write-ins,2
+Polk,182,Secretary of State,,,Write-ins,6
+Polk,102,Secretary of State,,,Over Votes,0
+Polk,106,Secretary of State,,,Over Votes,0
+Polk,110,Secretary of State,,,Over Votes,0
+Polk,118,Secretary of State,,,Over Votes,0
+Polk,122,Secretary of State,,,Over Votes,0
+Polk,134,Secretary of State,,,Over Votes,0
+Polk,136,Secretary of State,,,Over Votes,1
+Polk,140,Secretary of State,,,Over Votes,0
+Polk,146,Secretary of State,,,Over Votes,0
+Polk,152,Secretary of State,,,Over Votes,0
+Polk,154,Secretary of State,,,Over Votes,0
+Polk,156,Secretary of State,,,Over Votes,0
+Polk,162,Secretary of State,,,Over Votes,1
+Polk,166,Secretary of State,,,Over Votes,0
+Polk,178,Secretary of State,,,Over Votes,1
+Polk,182,Secretary of State,,,Over Votes,0
+Polk,102,Secretary of State,,,Under Votes,48
+Polk,106,Secretary of State,,,Under Votes,67
+Polk,110,Secretary of State,,,Under Votes,49
+Polk,118,Secretary of State,,,Under Votes,125
+Polk,122,Secretary of State,,,Under Votes,46
+Polk,134,Secretary of State,,,Under Votes,228
+Polk,136,Secretary of State,,,Under Votes,157
+Polk,140,Secretary of State,,,Under Votes,194
+Polk,146,Secretary of State,,,Under Votes,170
+Polk,152,Secretary of State,,,Under Votes,175
+Polk,154,Secretary of State,,,Under Votes,195
+Polk,156,Secretary of State,,,Under Votes,122
+Polk,162,Secretary of State,,,Under Votes,133
+Polk,166,Secretary of State,,,Under Votes,56
+Polk,178,Secretary of State,,,Under Votes,250
+Polk,182,Secretary of State,,,Under Votes,261
+Polk,102,State Treasurer,,WFP,Mary King,68
+Polk,106,State Treasurer,,WFP,Mary King,55
+Polk,110,State Treasurer,,WFP,Mary King,56
+Polk,118,State Treasurer,,WFP,Mary King,140
+Polk,122,State Treasurer,,WFP,Mary King,57
+Polk,134,State Treasurer,,WFP,Mary King,302
+Polk,136,State Treasurer,,WFP,Mary King,217
+Polk,140,State Treasurer,,WFP,Mary King,305
+Polk,146,State Treasurer,,WFP,Mary King,257
+Polk,152,State Treasurer,,WFP,Mary King,175
+Polk,154,State Treasurer,,WFP,Mary King,262
+Polk,156,State Treasurer,,WFP,Mary King,185
+Polk,162,State Treasurer,,WFP,Mary King,132
+Polk,166,State Treasurer,,WFP,Mary King,75
+Polk,178,State Treasurer,,WFP,Mary King,395
+Polk,182,State Treasurer,,WFP,Mary King,388
+Polk,102,State Treasurer,,REP,Brian J. Boquist,890
+Polk,106,State Treasurer,,REP,Brian J. Boquist,710
+Polk,110,State Treasurer,,REP,Brian J. Boquist,413
+Polk,118,State Treasurer,,REP,Brian J. Boquist,1786
+Polk,122,State Treasurer,,REP,Brian J. Boquist,643
+Polk,134,State Treasurer,,REP,Brian J. Boquist,2204
+Polk,136,State Treasurer,,REP,Brian J. Boquist,1649
+Polk,140,State Treasurer,,REP,Brian J. Boquist,1320
+Polk,146,State Treasurer,,REP,Brian J. Boquist,1655
+Polk,152,State Treasurer,,REP,Brian J. Boquist,2852
+Polk,154,State Treasurer,,REP,Brian J. Boquist,2658
+Polk,156,State Treasurer,,REP,Brian J. Boquist,1453
+Polk,162,State Treasurer,,REP,Brian J. Boquist,1742
+Polk,166,State Treasurer,,REP,Brian J. Boquist,417
+Polk,178,State Treasurer,,REP,Brian J. Boquist,1873
+Polk,182,State Treasurer,,REP,Brian J. Boquist,1854
+Polk,102,State Treasurer,,DEM,Elizabeth Steiner,361
+Polk,106,State Treasurer,,DEM,Elizabeth Steiner,265
+Polk,110,State Treasurer,,DEM,Elizabeth Steiner,205
+Polk,118,State Treasurer,,DEM,Elizabeth Steiner,1055
+Polk,122,State Treasurer,,DEM,Elizabeth Steiner,450
+Polk,134,State Treasurer,,DEM,Elizabeth Steiner,2206
+Polk,136,State Treasurer,,DEM,Elizabeth Steiner,1655
+Polk,140,State Treasurer,,DEM,Elizabeth Steiner,1550
+Polk,146,State Treasurer,,DEM,Elizabeth Steiner,1916
+Polk,152,State Treasurer,,DEM,Elizabeth Steiner,1156
+Polk,154,State Treasurer,,DEM,Elizabeth Steiner,1542
+Polk,156,State Treasurer,,DEM,Elizabeth Steiner,893
+Polk,162,State Treasurer,,DEM,Elizabeth Steiner,927
+Polk,166,State Treasurer,,DEM,Elizabeth Steiner,218
+Polk,178,State Treasurer,,DEM,Elizabeth Steiner,2076
+Polk,182,State Treasurer,,DEM,Elizabeth Steiner,1986
+Polk,102,State Treasurer,,,Write-ins,2
+Polk,106,State Treasurer,,,Write-ins,2
+Polk,110,State Treasurer,,,Write-ins,1
+Polk,118,State Treasurer,,,Write-ins,0
+Polk,122,State Treasurer,,,Write-ins,0
+Polk,134,State Treasurer,,,Write-ins,3
+Polk,136,State Treasurer,,,Write-ins,1
+Polk,140,State Treasurer,,,Write-ins,5
+Polk,146,State Treasurer,,,Write-ins,4
+Polk,152,State Treasurer,,,Write-ins,3
+Polk,154,State Treasurer,,,Write-ins,3
+Polk,156,State Treasurer,,,Write-ins,2
+Polk,162,State Treasurer,,,Write-ins,1
+Polk,166,State Treasurer,,,Write-ins,0
+Polk,178,State Treasurer,,,Write-ins,6
+Polk,182,State Treasurer,,,Write-ins,5
+Polk,102,State Treasurer,,,Over Votes,0
+Polk,106,State Treasurer,,,Over Votes,1
+Polk,110,State Treasurer,,,Over Votes,0
+Polk,118,State Treasurer,,,Over Votes,0
+Polk,122,State Treasurer,,,Over Votes,0
+Polk,134,State Treasurer,,,Over Votes,0
+Polk,136,State Treasurer,,,Over Votes,1
+Polk,140,State Treasurer,,,Over Votes,0
+Polk,146,State Treasurer,,,Over Votes,0
+Polk,152,State Treasurer,,,Over Votes,0
+Polk,154,State Treasurer,,,Over Votes,0
+Polk,156,State Treasurer,,,Over Votes,0
+Polk,162,State Treasurer,,,Over Votes,0
+Polk,166,State Treasurer,,,Over Votes,0
+Polk,178,State Treasurer,,,Over Votes,1
+Polk,182,State Treasurer,,,Over Votes,0
+Polk,102,State Treasurer,,,Under Votes,48
+Polk,106,State Treasurer,,,Under Votes,67
+Polk,110,State Treasurer,,,Under Votes,45
+Polk,118,State Treasurer,,,Under Votes,133
+Polk,122,State Treasurer,,,Under Votes,54
+Polk,134,State Treasurer,,,Under Votes,272
+Polk,136,State Treasurer,,,Under Votes,176
+Polk,140,State Treasurer,,,Under Votes,218
+Polk,146,State Treasurer,,,Under Votes,194
+Polk,152,State Treasurer,,,Under Votes,187
+Polk,154,State Treasurer,,,Under Votes,209
+Polk,156,State Treasurer,,,Under Votes,121
+Polk,162,State Treasurer,,,Under Votes,130
+Polk,166,State Treasurer,,,Under Votes,54
+Polk,178,State Treasurer,,,Under Votes,269
+Polk,182,State Treasurer,,,Under Votes,300
+Polk,102,Attorney General,,REP,Will Lathrop,928
+Polk,106,Attorney General,,REP,Will Lathrop,731
+Polk,110,Attorney General,,REP,Will Lathrop,428
+Polk,118,Attorney General,,REP,Will Lathrop,1839
+Polk,122,Attorney General,,REP,Will Lathrop,668
+Polk,134,Attorney General,,REP,Will Lathrop,2321
+Polk,136,Attorney General,,REP,Will Lathrop,1756
+Polk,140,Attorney General,,REP,Will Lathrop,1405
+Polk,146,Attorney General,,REP,Will Lathrop,1737
+Polk,152,Attorney General,,REP,Will Lathrop,2921
+Polk,154,Attorney General,,REP,Will Lathrop,2700
+Polk,156,Attorney General,,REP,Will Lathrop,1479
+Polk,162,Attorney General,,REP,Will Lathrop,1794
+Polk,166,Attorney General,,REP,Will Lathrop,419
+Polk,178,Attorney General,,REP,Will Lathrop,1928
+Polk,182,Attorney General,,REP,Will Lathrop,1926
+Polk,102,Attorney General,,DEM,Dan Rayfield,388
+Polk,106,Attorney General,,DEM,Dan Rayfield,294
+Polk,110,Attorney General,,DEM,Dan Rayfield,239
+Polk,118,Attorney General,,DEM,Dan Rayfield,1119
+Polk,122,Attorney General,,DEM,Dan Rayfield,477
+Polk,134,Attorney General,,DEM,Dan Rayfield,2397
+Polk,136,Attorney General,,DEM,Dan Rayfield,1766
+Polk,140,Attorney General,,DEM,Dan Rayfield,1764
+Polk,146,Attorney General,,DEM,Dan Rayfield,2081
+Polk,152,Attorney General,,DEM,Dan Rayfield,1238
+Polk,154,Attorney General,,DEM,Dan Rayfield,1727
+Polk,156,Attorney General,,DEM,Dan Rayfield,1038
+Polk,162,Attorney General,,DEM,Dan Rayfield,986
+Polk,166,Attorney General,,DEM,Dan Rayfield,281
+Polk,178,Attorney General,,DEM,Dan Rayfield,2391
+Polk,182,Attorney General,,DEM,Dan Rayfield,2283
+Polk,102,Attorney General,,,Write-ins,1
+Polk,106,Attorney General,,,Write-ins,1
+Polk,110,Attorney General,,,Write-ins,1
+Polk,118,Attorney General,,,Write-ins,2
+Polk,122,Attorney General,,,Write-ins,0
+Polk,134,Attorney General,,,Write-ins,5
+Polk,136,Attorney General,,,Write-ins,2
+Polk,140,Attorney General,,,Write-ins,5
+Polk,146,Attorney General,,,Write-ins,0
+Polk,152,Attorney General,,,Write-ins,2
+Polk,154,Attorney General,,,Write-ins,8
+Polk,156,Attorney General,,,Write-ins,4
+Polk,162,Attorney General,,,Write-ins,1
+Polk,166,Attorney General,,,Write-ins,1
+Polk,178,Attorney General,,,Write-ins,5
+Polk,182,Attorney General,,,Write-ins,6
+Polk,102,Attorney General,,,Over Votes,0
+Polk,106,Attorney General,,,Over Votes,0
+Polk,110,Attorney General,,,Over Votes,0
+Polk,118,Attorney General,,,Over Votes,0
+Polk,122,Attorney General,,,Over Votes,0
+Polk,134,Attorney General,,,Over Votes,0
+Polk,136,Attorney General,,,Over Votes,1
+Polk,140,Attorney General,,,Over Votes,0
+Polk,146,Attorney General,,,Over Votes,0
+Polk,152,Attorney General,,,Over Votes,0
+Polk,154,Attorney General,,,Over Votes,0
+Polk,156,Attorney General,,,Over Votes,0
+Polk,162,Attorney General,,,Over Votes,0
+Polk,166,Attorney General,,,Over Votes,0
+Polk,178,Attorney General,,,Over Votes,1
+Polk,182,Attorney General,,,Over Votes,1
+Polk,102,Attorney General,,,Under Votes,52
+Polk,106,Attorney General,,,Under Votes,74
+Polk,110,Attorney General,,,Under Votes,52
+Polk,118,Attorney General,,,Under Votes,154
+Polk,122,Attorney General,,,Under Votes,59
+Polk,134,Attorney General,,,Under Votes,264
+Polk,136,Attorney General,,,Under Votes,174
+Polk,140,Attorney General,,,Under Votes,224
+Polk,146,Attorney General,,,Under Votes,208
+Polk,152,Attorney General,,,Under Votes,212
+Polk,154,Attorney General,,,Under Votes,239
+Polk,156,Attorney General,,,Under Votes,133
+Polk,162,Attorney General,,,Under Votes,151
+Polk,166,Attorney General,,,Under Votes,63
+Polk,178,Attorney General,,,Under Votes,295
+Polk,182,Attorney General,,,Under Votes,317
+Polk,102,State Senate,12,IND,Andrea Kennedy-Smith,83
+Polk,106,State Senate,12,IND,Andrea Kennedy-Smith,74
+Polk,110,State Senate,12,IND,Andrea Kennedy-Smith,83
+Polk,118,State Senate,12,IND,Andrea Kennedy-Smith,207
+Polk,152,State Senate,12,IND,Andrea Kennedy-Smith,311
+Polk,154,State Senate,12,IND,Andrea Kennedy-Smith,485
+Polk,156,State Senate,12,IND,Andrea Kennedy-Smith,311
+Polk,162,State Senate,12,IND,Andrea Kennedy-Smith,233
+Polk,166,State Senate,12,IND,Andrea Kennedy-Smith,106
+Polk,102,State Senate,12,REP,Bruce W. Starr,888
+Polk,106,State Senate,12,REP,Bruce W. Starr,698
+Polk,110,State Senate,12,REP,Bruce W. Starr,400
+Polk,118,State Senate,12,REP,Bruce W. Starr,1774
+Polk,152,State Senate,12,REP,Bruce W. Starr,2799
+Polk,154,State Senate,12,REP,Bruce W. Starr,2569
+Polk,156,State Senate,12,REP,Bruce W. Starr,1379
+Polk,162,State Senate,12,REP,Bruce W. Starr,1707
+Polk,166,State Senate,12,REP,Bruce W. Starr,393
+Polk,102,State Senate,12,DEM,Scott Hooper,334
+Polk,106,State Senate,12,DEM,Scott Hooper,258
+Polk,110,State Senate,12,DEM,Scott Hooper,183
+Polk,118,State Senate,12,DEM,Scott Hooper,974
+Polk,152,State Senate,12,DEM,Scott Hooper,1042
+Polk,154,State Senate,12,DEM,Scott Hooper,1362
+Polk,156,State Senate,12,DEM,Scott Hooper,823
+Polk,162,State Senate,12,DEM,Scott Hooper,834
+Polk,166,State Senate,12,DEM,Scott Hooper,201
+Polk,102,State Senate,12,,Write-ins,0
+Polk,106,State Senate,12,,Write-ins,1
+Polk,110,State Senate,12,,Write-ins,1
+Polk,118,State Senate,12,,Write-ins,1
+Polk,152,State Senate,12,,Write-ins,3
+Polk,154,State Senate,12,,Write-ins,7
+Polk,156,State Senate,12,,Write-ins,3
+Polk,162,State Senate,12,,Write-ins,2
+Polk,166,State Senate,12,,Write-ins,1
+Polk,102,State Senate,12,,Over Votes,0
+Polk,106,State Senate,12,,Over Votes,0
+Polk,110,State Senate,12,,Over Votes,0
+Polk,118,State Senate,12,,Over Votes,0
+Polk,152,State Senate,12,,Over Votes,0
+Polk,154,State Senate,12,,Over Votes,0
+Polk,156,State Senate,12,,Over Votes,0
+Polk,162,State Senate,12,,Over Votes,0
+Polk,166,State Senate,12,,Over Votes,0
+Polk,102,State Senate,12,,Under Votes,64
+Polk,106,State Senate,12,,Under Votes,69
+Polk,110,State Senate,12,,Under Votes,53
+Polk,118,State Senate,12,,Under Votes,158
+Polk,152,State Senate,12,,Under Votes,218
+Polk,154,State Senate,12,,Under Votes,251
+Polk,156,State Senate,12,,Under Votes,138
+Polk,162,State Senate,12,,Under Votes,156
+Polk,166,State Senate,12,,Under Votes,63
+Polk,122,State House,20,DEM,Paul Evans,522
+Polk,134,State House,20,DEM,Paul Evans,2560
+Polk,136,State House,20,DEM,Paul Evans,1930
+Polk,140,State House,20,DEM,Paul Evans,1867
+Polk,146,State House,20,DEM,Paul Evans,2258
+Polk,178,State House,20,DEM,Paul Evans,2572
+Polk,182,State House,20,DEM,Paul Evans,2509
+Polk,122,State House,20,REP,Kevin S. Chambers,623
+Polk,134,State House,20,REP,Kevin S. Chambers,2113
+Polk,136,State House,20,REP,Kevin S. Chambers,1563
+Polk,140,State House,20,REP,Kevin S. Chambers,1291
+Polk,146,State House,20,REP,Kevin S. Chambers,1557
+Polk,178,State House,20,REP,Kevin S. Chambers,1769
+Polk,182,State House,20,REP,Kevin S. Chambers,1759
+Polk,122,State House,20,,Write-ins,4
+Polk,134,State House,20,,Write-ins,7
+Polk,136,State House,20,,Write-ins,7
+Polk,140,State House,20,,Write-ins,8
+Polk,146,State House,20,,Write-ins,12
+Polk,178,State House,20,,Write-ins,11
+Polk,182,State House,20,,Write-ins,13
+Polk,122,State House,20,,Over Votes,0
+Polk,134,State House,20,,Over Votes,0
+Polk,136,State House,20,,Over Votes,1
+Polk,140,State House,20,,Over Votes,1
+Polk,146,State House,20,,Over Votes,0
+Polk,178,State House,20,,Over Votes,1
+Polk,182,State House,20,,Over Votes,1
+Polk,122,State House,20,,Under Votes,55
+Polk,134,State House,20,,Under Votes,307
+Polk,136,State House,20,,Under Votes,198
+Polk,140,State House,20,,Under Votes,231
+Polk,146,State House,20,,Under Votes,199
+Polk,178,State House,20,,Under Votes,267
+Polk,182,State House,20,,Under Votes,251
+Polk,102,State House,23,DEM,Kriss Wright,378
+Polk,118,State House,23,DEM,Kriss Wright,1055
+Polk,152,State House,23,DEM,Kriss Wright,1140
+Polk,154,State House,23,DEM,Kriss Wright,1568
+Polk,156,State House,23,DEM,Kriss Wright,950
+Polk,162,State House,23,DEM,Kriss Wright,933
+Polk,166,State House,23,DEM,Kriss Wright,253
+Polk,102,State House,23,REP,Anna M. Scharf,944
+Polk,118,State House,23,REP,Anna M. Scharf,1885
+Polk,152,State House,23,REP,Anna M. Scharf,3009
+Polk,154,State House,23,REP,Anna M. Scharf,2828
+Polk,156,State House,23,REP,Anna M. Scharf,1537
+Polk,162,State House,23,REP,Anna M. Scharf,1846
+Polk,166,State House,23,REP,Anna M. Scharf,443
+Polk,102,State House,23,,Write-ins,0
+Polk,118,State House,23,,Write-ins,3
+Polk,152,State House,23,,Write-ins,5
+Polk,154,State House,23,,Write-ins,10
+Polk,156,State House,23,,Write-ins,8
+Polk,162,State House,23,,Write-ins,2
+Polk,166,State House,23,,Write-ins,1
+Polk,102,State House,23,,Over Votes,0
+Polk,118,State House,23,,Over Votes,0
+Polk,152,State House,23,,Over Votes,1
+Polk,154,State House,23,,Over Votes,0
+Polk,156,State House,23,,Over Votes,1
+Polk,162,State House,23,,Over Votes,0
+Polk,166,State House,23,,Over Votes,0
+Polk,102,State House,23,,Under Votes,47
+Polk,118,State House,23,,Under Votes,171
+Polk,152,State House,23,,Under Votes,218
+Polk,154,State House,23,,Under Votes,268
+Polk,156,State House,23,,Under Votes,158
+Polk,162,State House,23,,Under Votes,151
+Polk,166,State House,23,,Under Votes,67
+Polk,106,State House,24,REP,Lucetta A. Elmer,751
+Polk,110,State House,24,REP,Lucetta A. Elmer,452
+Polk,106,State House,24,DEM,Lisa Pool,276
+Polk,110,State House,24,DEM,Lisa Pool,219
+Polk,106,State House,24,,Write-ins,2
+Polk,110,State House,24,,Write-ins,1
+Polk,106,State House,24,,Over Votes,0
+Polk,110,State House,24,,Over Votes,0
+Polk,106,State House,24,,Under Votes,71
+Polk,110,State House,24,,Under Votes,48
+Polk,102,Sheriff,,,Mark Garton,848
+Polk,106,Sheriff,,,Mark Garton,497
+Polk,110,Sheriff,,,Mark Garton,276
+Polk,118,Sheriff,,,Mark Garton,1923
+Polk,122,Sheriff,,,Mark Garton,689
+Polk,134,Sheriff,,,Mark Garton,2614
+Polk,136,Sheriff,,,Mark Garton,1944
+Polk,140,Sheriff,,,Mark Garton,1468
+Polk,146,Sheriff,,,Mark Garton,2068
+Polk,152,Sheriff,,,Mark Garton,2938
+Polk,154,Sheriff,,,Mark Garton,2972
+Polk,156,Sheriff,,,Mark Garton,1617
+Polk,162,Sheriff,,,Mark Garton,1891
+Polk,166,Sheriff,,,Mark Garton,503
+Polk,178,Sheriff,,,Mark Garton,2475
+Polk,182,Sheriff,,,Mark Garton,2403
+Polk,102,Sheriff,,,Write-ins,2
+Polk,106,Sheriff,,,Write-ins,7
+Polk,110,Sheriff,,,Write-ins,8
+Polk,118,Sheriff,,,Write-ins,5
+Polk,122,Sheriff,,,Write-ins,1
+Polk,134,Sheriff,,,Write-ins,18
+Polk,136,Sheriff,,,Write-ins,23
+Polk,140,Sheriff,,,Write-ins,26
+Polk,146,Sheriff,,,Write-ins,16
+Polk,152,Sheriff,,,Write-ins,13
+Polk,154,Sheriff,,,Write-ins,15
+Polk,156,Sheriff,,,Write-ins,7
+Polk,162,Sheriff,,,Write-ins,9
+Polk,166,Sheriff,,,Write-ins,3
+Polk,178,Sheriff,,,Write-ins,21
+Polk,182,Sheriff,,,Write-ins,27
+Polk,102,Sheriff,,,Over Votes,0
+Polk,106,Sheriff,,,Over Votes,0
+Polk,110,Sheriff,,,Over Votes,0
+Polk,118,Sheriff,,,Over Votes,0
+Polk,122,Sheriff,,,Over Votes,0
+Polk,134,Sheriff,,,Over Votes,0
+Polk,136,Sheriff,,,Over Votes,1
+Polk,140,Sheriff,,,Over Votes,0
+Polk,146,Sheriff,,,Over Votes,0
+Polk,152,Sheriff,,,Over Votes,1
+Polk,154,Sheriff,,,Over Votes,1
+Polk,156,Sheriff,,,Over Votes,0
+Polk,162,Sheriff,,,Over Votes,0
+Polk,166,Sheriff,,,Over Votes,1
+Polk,178,Sheriff,,,Over Votes,1
+Polk,182,Sheriff,,,Over Votes,0
+Polk,102,Sheriff,,,Under Votes,193
+Polk,106,Sheriff,,,Under Votes,216
+Polk,110,Sheriff,,,Under Votes,128
+Polk,118,Sheriff,,,Under Votes,509
+Polk,122,Sheriff,,,Under Votes,234
+Polk,134,Sheriff,,,Under Votes,1001
+Polk,136,Sheriff,,,Under Votes,744
+Polk,140,Sheriff,,,Under Votes,758
+Polk,146,Sheriff,,,Under Votes,769
+Polk,152,Sheriff,,,Under Votes,440
+Polk,154,Sheriff,,,Under Votes,570
+Polk,156,Sheriff,,,Under Votes,339
+Polk,162,Sheriff,,,Under Votes,361
+Polk,166,Sheriff,,,Under Votes,115
+Polk,178,Sheriff,,,Under Votes,790
+Polk,182,Sheriff,,,Under Votes,733
+Polk,102,County Clerk,,,Kim Williams,841
+Polk,106,County Clerk,,,Kim Williams,677
+Polk,110,County Clerk,,,Kim Williams,447
+Polk,118,County Clerk,,,Kim Williams,1841
+Polk,122,County Clerk,,,Kim Williams,667
+Polk,134,County Clerk,,,Kim Williams,3143
+Polk,136,County Clerk,,,Kim Williams,2254
+Polk,140,County Clerk,,,Kim Williams,2125
+Polk,146,County Clerk,,,Kim Williams,2502
+Polk,152,County Clerk,,,Kim Williams,2669
+Polk,154,County Clerk,,,Kim Williams,3035
+Polk,156,County Clerk,,,Kim Williams,1733
+Polk,162,County Clerk,,,Kim Williams,1897
+Polk,166,County Clerk,,,Kim Williams,456
+Polk,178,County Clerk,,,Kim Williams,2990
+Polk,182,County Clerk,,,Kim Williams,2908
+Polk,102,County Clerk,,,Write-ins,9
+Polk,106,County Clerk,,,Write-ins,10
+Polk,110,County Clerk,,,Write-ins,2
+Polk,118,County Clerk,,,Write-ins,38
+Polk,122,County Clerk,,,Write-ins,10
+Polk,134,County Clerk,,,Write-ins,46
+Polk,136,County Clerk,,,Write-ins,42
+Polk,140,County Clerk,,,Write-ins,35
+Polk,146,County Clerk,,,Write-ins,46
+Polk,152,County Clerk,,,Write-ins,45
+Polk,154,County Clerk,,,Write-ins,48
+Polk,156,County Clerk,,,Write-ins,25
+Polk,162,County Clerk,,,Write-ins,37
+Polk,166,County Clerk,,,Write-ins,4
+Polk,178,County Clerk,,,Write-ins,29
+Polk,182,County Clerk,,,Write-ins,34
+Polk,102,County Clerk,,,Over Votes,0
+Polk,106,County Clerk,,,Over Votes,0
+Polk,110,County Clerk,,,Over Votes,0
+Polk,118,County Clerk,,,Over Votes,0
+Polk,122,County Clerk,,,Over Votes,0
+Polk,134,County Clerk,,,Over Votes,0
+Polk,136,County Clerk,,,Over Votes,1
+Polk,140,County Clerk,,,Over Votes,0
+Polk,146,County Clerk,,,Over Votes,0
+Polk,152,County Clerk,,,Over Votes,0
+Polk,154,County Clerk,,,Over Votes,0
+Polk,156,County Clerk,,,Over Votes,0
+Polk,162,County Clerk,,,Over Votes,0
+Polk,166,County Clerk,,,Over Votes,1
+Polk,178,County Clerk,,,Over Votes,1
+Polk,182,County Clerk,,,Over Votes,0
+Polk,102,County Clerk,,,Under Votes,519
+Polk,106,County Clerk,,,Under Votes,413
+Polk,110,County Clerk,,,Under Votes,271
+Polk,118,County Clerk,,,Under Votes,1235
+Polk,122,County Clerk,,,Under Votes,527
+Polk,134,County Clerk,,,Under Votes,1798
+Polk,136,County Clerk,,,Under Votes,1402
+Polk,140,County Clerk,,,Under Votes,1238
+Polk,146,County Clerk,,,Under Votes,1478
+Polk,152,County Clerk,,,Under Votes,1659
+Polk,154,County Clerk,,,Under Votes,1591
+Polk,156,County Clerk,,,Under Votes,896
+Polk,162,County Clerk,,,Under Votes,998
+Polk,166,County Clerk,,,Under Votes,303
+Polk,178,County Clerk,,,Under Votes,1600
+Polk,182,County Clerk,,,Under Votes,1591
+Polk,102,County Treasurer,,,Chris Patoine,443
+Polk,106,County Treasurer,,,Chris Patoine,305
+Polk,110,County Treasurer,,,Chris Patoine,188
+Polk,118,County Treasurer,,,Chris Patoine,1033
+Polk,122,County Treasurer,,,Chris Patoine,346
+Polk,134,County Treasurer,,,Chris Patoine,1399
+Polk,136,County Treasurer,,,Chris Patoine,1031
+Polk,140,County Treasurer,,,Chris Patoine,919
+Polk,146,County Treasurer,,,Chris Patoine,1031
+Polk,152,County Treasurer,,,Chris Patoine,1241
+Polk,154,County Treasurer,,,Chris Patoine,1414
+Polk,156,County Treasurer,,,Chris Patoine,771
+Polk,162,County Treasurer,,,Chris Patoine,831
+Polk,166,County Treasurer,,,Chris Patoine,207
+Polk,178,County Treasurer,,,Chris Patoine,1358
+Polk,182,County Treasurer,,,Chris Patoine,1419
+Polk,102,County Treasurer,,,Steve Milligan,576
+Polk,106,County Treasurer,,,Steve Milligan,474
+Polk,110,County Treasurer,,,Steve Milligan,320
+Polk,118,County Treasurer,,,Steve Milligan,1271
+Polk,122,County Treasurer,,,Steve Milligan,493
+Polk,134,County Treasurer,,,Steve Milligan,2097
+Polk,136,County Treasurer,,,Steve Milligan,1522
+Polk,140,County Treasurer,,,Steve Milligan,1444
+Polk,146,County Treasurer,,,Steve Milligan,1817
+Polk,152,County Treasurer,,,Steve Milligan,2051
+Polk,154,County Treasurer,,,Steve Milligan,2229
+Polk,156,County Treasurer,,,Steve Milligan,1234
+Polk,162,County Treasurer,,,Steve Milligan,1409
+Polk,166,County Treasurer,,,Steve Milligan,330
+Polk,178,County Treasurer,,,Steve Milligan,2072
+Polk,182,County Treasurer,,,Steve Milligan,1939
+Polk,102,County Treasurer,,,Write-ins,6
+Polk,106,County Treasurer,,,Write-ins,8
+Polk,110,County Treasurer,,,Write-ins,3
+Polk,118,County Treasurer,,,Write-ins,13
+Polk,122,County Treasurer,,,Write-ins,5
+Polk,134,County Treasurer,,,Write-ins,17
+Polk,136,County Treasurer,,,Write-ins,15
+Polk,140,County Treasurer,,,Write-ins,27
+Polk,146,County Treasurer,,,Write-ins,23
+Polk,152,County Treasurer,,,Write-ins,31
+Polk,154,County Treasurer,,,Write-ins,29
+Polk,156,County Treasurer,,,Write-ins,14
+Polk,162,County Treasurer,,,Write-ins,13
+Polk,166,County Treasurer,,,Write-ins,6
+Polk,178,County Treasurer,,,Write-ins,26
+Polk,182,County Treasurer,,,Write-ins,30
+Polk,102,County Treasurer,,,Over Votes,0
+Polk,106,County Treasurer,,,Over Votes,0
+Polk,110,County Treasurer,,,Over Votes,0
+Polk,118,County Treasurer,,,Over Votes,0
+Polk,122,County Treasurer,,,Over Votes,0
+Polk,134,County Treasurer,,,Over Votes,0
+Polk,136,County Treasurer,,,Over Votes,1
+Polk,140,County Treasurer,,,Over Votes,0
+Polk,146,County Treasurer,,,Over Votes,0
+Polk,152,County Treasurer,,,Over Votes,0
+Polk,154,County Treasurer,,,Over Votes,0
+Polk,156,County Treasurer,,,Over Votes,0
+Polk,162,County Treasurer,,,Over Votes,0
+Polk,166,County Treasurer,,,Over Votes,0
+Polk,178,County Treasurer,,,Over Votes,1
+Polk,182,County Treasurer,,,Over Votes,1
+Polk,102,County Treasurer,,,Under Votes,344
+Polk,106,County Treasurer,,,Under Votes,313
+Polk,110,County Treasurer,,,Under Votes,209
+Polk,118,County Treasurer,,,Under Votes,797
+Polk,122,County Treasurer,,,Under Votes,360
+Polk,134,County Treasurer,,,Under Votes,1474
+Polk,136,County Treasurer,,,Under Votes,1130
+Polk,140,County Treasurer,,,Under Votes,1008
+Polk,146,County Treasurer,,,Under Votes,1155
+Polk,152,County Treasurer,,,Under Votes,1050
+Polk,154,County Treasurer,,,Under Votes,1002
+Polk,156,County Treasurer,,,Under Votes,635
+Polk,162,County Treasurer,,,Under Votes,679
+Polk,166,County Treasurer,,,Under Votes,221
+Polk,178,County Treasurer,,,Under Votes,1163
+Polk,182,County Treasurer,,,Under Votes,1144
+Polk,102,State Measure 115,,,Yes,632
+Polk,106,State Measure 115,,,Yes,501
+Polk,110,State Measure 115,,,Yes,345
+Polk,118,State Measure 115,,,Yes,1524
+Polk,122,State Measure 115,,,Yes,592
+Polk,134,State Measure 115,,,Yes,2866
+Polk,136,State Measure 115,,,Yes,2102
+Polk,140,State Measure 115,,,Yes,1985
+Polk,146,State Measure 115,,,Yes,2346
+Polk,152,State Measure 115,,,Yes,1950
+Polk,154,State Measure 115,,,Yes,2382
+Polk,156,State Measure 115,,,Yes,1365
+Polk,162,State Measure 115,,,Yes,1396
+Polk,166,State Measure 115,,,Yes,373
+Polk,178,State Measure 115,,,Yes,2750
+Polk,182,State Measure 115,,,Yes,2626
+Polk,102,State Measure 115,,,No,655
+Polk,106,State Measure 115,,,No,521
+Polk,110,State Measure 115,,,No,324
+Polk,118,State Measure 115,,,No,1395
+Polk,122,State Measure 115,,,No,523
+Polk,134,State Measure 115,,,No,1775
+Polk,136,State Measure 115,,,No,1374
+Polk,140,State Measure 115,,,No,1124
+Polk,146,State Measure 115,,,No,1416
+Polk,152,State Measure 115,,,No,2191
+Polk,154,State Measure 115,,,No,1977
+Polk,156,State Measure 115,,,No,1101
+Polk,162,State Measure 115,,,No,1356
+Polk,166,State Measure 115,,,No,328
+Polk,178,State Measure 115,,,No,1532
+Polk,182,State Measure 115,,,No,1575
+Polk,102,State Measure 115,,,Over Votes,0
+Polk,106,State Measure 115,,,Over Votes,0
+Polk,110,State Measure 115,,,Over Votes,0
+Polk,118,State Measure 115,,,Over Votes,0
+Polk,122,State Measure 115,,,Over Votes,0
+Polk,134,State Measure 115,,,Over Votes,0
+Polk,136,State Measure 115,,,Over Votes,0
+Polk,140,State Measure 115,,,Over Votes,1
+Polk,146,State Measure 115,,,Over Votes,0
+Polk,152,State Measure 115,,,Over Votes,0
+Polk,154,State Measure 115,,,Over Votes,1
+Polk,156,State Measure 115,,,Over Votes,0
+Polk,162,State Measure 115,,,Over Votes,0
+Polk,166,State Measure 115,,,Over Votes,0
+Polk,178,State Measure 115,,,Over Votes,0
+Polk,182,State Measure 115,,,Over Votes,0
+Polk,102,State Measure 115,,,Under Votes,82
+Polk,106,State Measure 115,,,Under Votes,78
+Polk,110,State Measure 115,,,Under Votes,51
+Polk,118,State Measure 115,,,Under Votes,195
+Polk,122,State Measure 115,,,Under Votes,89
+Polk,134,State Measure 115,,,Under Votes,346
+Polk,136,State Measure 115,,,Under Votes,223
+Polk,140,State Measure 115,,,Under Votes,288
+Polk,146,State Measure 115,,,Under Votes,264
+Polk,152,State Measure 115,,,Under Votes,232
+Polk,154,State Measure 115,,,Under Votes,314
+Polk,156,State Measure 115,,,Under Votes,188
+Polk,162,State Measure 115,,,Under Votes,180
+Polk,166,State Measure 115,,,Under Votes,63
+Polk,178,State Measure 115,,,Under Votes,338
+Polk,182,State Measure 115,,,Under Votes,332
+Polk,102,State Measure 116,,,Yes,380
+Polk,106,State Measure 116,,,Yes,319
+Polk,110,State Measure 116,,,Yes,251
+Polk,118,State Measure 116,,,Yes,1115
+Polk,122,State Measure 116,,,Yes,463
+Polk,134,State Measure 116,,,Yes,2246
+Polk,136,State Measure 116,,,Yes,1647
+Polk,140,State Measure 116,,,Yes,1576
+Polk,146,State Measure 116,,,Yes,1846
+Polk,152,State Measure 116,,,Yes,1329
+Polk,154,State Measure 116,,,Yes,1702
+Polk,156,State Measure 116,,,Yes,1013
+Polk,162,State Measure 116,,,Yes,1018
+Polk,166,State Measure 116,,,Yes,256
+Polk,178,State Measure 116,,,Yes,2058
+Polk,182,State Measure 116,,,Yes,2101
+Polk,102,State Measure 116,,,No,896
+Polk,106,State Measure 116,,,No,692
+Polk,110,State Measure 116,,,No,401
+Polk,118,State Measure 116,,,No,1763
+Polk,122,State Measure 116,,,No,659
+Polk,134,State Measure 116,,,No,2338
+Polk,136,State Measure 116,,,No,1781
+Polk,140,State Measure 116,,,No,1451
+Polk,146,State Measure 116,,,No,1851
+Polk,152,State Measure 116,,,No,2745
+Polk,154,State Measure 116,,,No,2614
+Polk,156,State Measure 116,,,No,1443
+Polk,162,State Measure 116,,,No,1690
+Polk,166,State Measure 116,,,No,426
+Polk,178,State Measure 116,,,No,2131
+Polk,182,State Measure 116,,,No,2049
+Polk,102,State Measure 116,,,Over Votes,0
+Polk,106,State Measure 116,,,Over Votes,0
+Polk,110,State Measure 116,,,Over Votes,0
+Polk,118,State Measure 116,,,Over Votes,0
+Polk,122,State Measure 116,,,Over Votes,0
+Polk,134,State Measure 116,,,Over Votes,0
+Polk,136,State Measure 116,,,Over Votes,0
+Polk,140,State Measure 116,,,Over Votes,0
+Polk,146,State Measure 116,,,Over Votes,1
+Polk,152,State Measure 116,,,Over Votes,0
+Polk,154,State Measure 116,,,Over Votes,0
+Polk,156,State Measure 116,,,Over Votes,0
+Polk,162,State Measure 116,,,Over Votes,0
+Polk,166,State Measure 116,,,Over Votes,0
+Polk,178,State Measure 116,,,Over Votes,0
+Polk,182,State Measure 116,,,Over Votes,0
+Polk,102,State Measure 116,,,Under Votes,93
+Polk,106,State Measure 116,,,Under Votes,89
+Polk,110,State Measure 116,,,Under Votes,68
+Polk,118,State Measure 116,,,Under Votes,236
+Polk,122,State Measure 116,,,Under Votes,82
+Polk,134,State Measure 116,,,Under Votes,403
+Polk,136,State Measure 116,,,Under Votes,271
+Polk,140,State Measure 116,,,Under Votes,371
+Polk,146,State Measure 116,,,Under Votes,328
+Polk,152,State Measure 116,,,Under Votes,299
+Polk,154,State Measure 116,,,Under Votes,358
+Polk,156,State Measure 116,,,Under Votes,198
+Polk,162,State Measure 116,,,Under Votes,224
+Polk,166,State Measure 116,,,Under Votes,82
+Polk,178,State Measure 116,,,Under Votes,431
+Polk,182,State Measure 116,,,Under Votes,383
+Polk,102,State Measure 117,,,Yes,334
+Polk,106,State Measure 117,,,Yes,297
+Polk,110,State Measure 117,,,Yes,239
+Polk,118,State Measure 117,,,Yes,883
+Polk,122,State Measure 117,,,Yes,359
+Polk,134,State Measure 117,,,Yes,1828
+Polk,136,State Measure 117,,,Yes,1340
+Polk,140,State Measure 117,,,Yes,1383
+Polk,146,State Measure 117,,,Yes,1506
+Polk,152,State Measure 117,,,Yes,1020
+Polk,154,State Measure 117,,,Yes,1310
+Polk,156,State Measure 117,,,Yes,860
+Polk,162,State Measure 117,,,Yes,741
+Polk,166,State Measure 117,,,Yes,234
+Polk,178,State Measure 117,,,Yes,1850
+Polk,182,State Measure 117,,,Yes,1808
+Polk,102,State Measure 117,,,No,954
+Polk,106,State Measure 117,,,No,727
+Polk,110,State Measure 117,,,No,430
+Polk,118,State Measure 117,,,No,2046
+Polk,122,State Measure 117,,,No,777
+Polk,134,State Measure 117,,,No,2848
+Polk,136,State Measure 117,,,No,2150
+Polk,140,State Measure 117,,,No,1730
+Polk,146,State Measure 117,,,No,2250
+Polk,152,State Measure 117,,,No,3126
+Polk,154,State Measure 117,,,No,3089
+Polk,156,State Measure 117,,,No,1645
+Polk,162,State Measure 117,,,No,2031
+Polk,166,State Measure 117,,,No,463
+Polk,178,State Measure 117,,,No,2456
+Polk,182,State Measure 117,,,No,2416
+Polk,102,State Measure 117,,,Over Votes,0
+Polk,106,State Measure 117,,,Over Votes,0
+Polk,110,State Measure 117,,,Over Votes,0
+Polk,118,State Measure 117,,,Over Votes,0
+Polk,122,State Measure 117,,,Over Votes,0
+Polk,134,State Measure 117,,,Over Votes,0
+Polk,136,State Measure 117,,,Over Votes,0
+Polk,140,State Measure 117,,,Over Votes,1
+Polk,146,State Measure 117,,,Over Votes,0
+Polk,152,State Measure 117,,,Over Votes,0
+Polk,154,State Measure 117,,,Over Votes,0
+Polk,156,State Measure 117,,,Over Votes,0
+Polk,162,State Measure 117,,,Over Votes,0
+Polk,166,State Measure 117,,,Over Votes,0
+Polk,178,State Measure 117,,,Over Votes,0
+Polk,182,State Measure 117,,,Over Votes,1
+Polk,102,State Measure 117,,,Under Votes,81
+Polk,106,State Measure 117,,,Under Votes,76
+Polk,110,State Measure 117,,,Under Votes,51
+Polk,118,State Measure 117,,,Under Votes,185
+Polk,122,State Measure 117,,,Under Votes,68
+Polk,134,State Measure 117,,,Under Votes,311
+Polk,136,State Measure 117,,,Under Votes,209
+Polk,140,State Measure 117,,,Under Votes,284
+Polk,146,State Measure 117,,,Under Votes,270
+Polk,152,State Measure 117,,,Under Votes,227
+Polk,154,State Measure 117,,,Under Votes,275
+Polk,156,State Measure 117,,,Under Votes,149
+Polk,162,State Measure 117,,,Under Votes,160
+Polk,166,State Measure 117,,,Under Votes,67
+Polk,178,State Measure 117,,,Under Votes,314
+Polk,182,State Measure 117,,,Under Votes,308
+Polk,102,State Measure 118,,,Yes,181
+Polk,106,State Measure 118,,,Yes,147
+Polk,110,State Measure 118,,,Yes,130
+Polk,118,State Measure 118,,,Yes,461
+Polk,122,State Measure 118,,,Yes,182
+Polk,134,State Measure 118,,,Yes,1110
+Polk,136,State Measure 118,,,Yes,741
+Polk,140,State Measure 118,,,Yes,905
+Polk,146,State Measure 118,,,Yes,883
+Polk,152,State Measure 118,,,Yes,567
+Polk,154,State Measure 118,,,Yes,758
+Polk,156,State Measure 118,,,Yes,530
+Polk,162,State Measure 118,,,Yes,466
+Polk,166,State Measure 118,,,Yes,172
+Polk,178,State Measure 118,,,Yes,1114
+Polk,182,State Measure 118,,,Yes,1151
+Polk,102,State Measure 118,,,No,1117
+Polk,106,State Measure 118,,,No,891
+Polk,110,State Measure 118,,,No,540
+Polk,118,State Measure 118,,,No,2486
+Polk,122,State Measure 118,,,No,952
+Polk,134,State Measure 118,,,No,3557
+Polk,136,State Measure 118,,,No,2750
+Polk,140,State Measure 118,,,No,2225
+Polk,146,State Measure 118,,,No,2893
+Polk,152,State Measure 118,,,No,3605
+Polk,154,State Measure 118,,,No,3658
+Polk,156,State Measure 118,,,No,1974
+Polk,162,State Measure 118,,,No,2324
+Polk,166,State Measure 118,,,No,536
+Polk,178,State Measure 118,,,No,3174
+Polk,182,State Measure 118,,,No,3082
+Polk,102,State Measure 118,,,Over Votes,0
+Polk,106,State Measure 118,,,Over Votes,0
+Polk,110,State Measure 118,,,Over Votes,1
+Polk,118,State Measure 118,,,Over Votes,0
+Polk,122,State Measure 118,,,Over Votes,0
+Polk,134,State Measure 118,,,Over Votes,0
+Polk,136,State Measure 118,,,Over Votes,1
+Polk,140,State Measure 118,,,Over Votes,1
+Polk,146,State Measure 118,,,Over Votes,0
+Polk,152,State Measure 118,,,Over Votes,0
+Polk,154,State Measure 118,,,Over Votes,2
+Polk,156,State Measure 118,,,Over Votes,0
+Polk,162,State Measure 118,,,Over Votes,0
+Polk,166,State Measure 118,,,Over Votes,1
+Polk,178,State Measure 118,,,Over Votes,0
+Polk,182,State Measure 118,,,Over Votes,0
+Polk,102,State Measure 118,,,Under Votes,71
+Polk,106,State Measure 118,,,Under Votes,62
+Polk,110,State Measure 118,,,Under Votes,49
+Polk,118,State Measure 118,,,Under Votes,167
+Polk,122,State Measure 118,,,Under Votes,70
+Polk,134,State Measure 118,,,Under Votes,320
+Polk,136,State Measure 118,,,Under Votes,207
+Polk,140,State Measure 118,,,Under Votes,267
+Polk,146,State Measure 118,,,Under Votes,250
+Polk,152,State Measure 118,,,Under Votes,201
+Polk,154,State Measure 118,,,Under Votes,256
+Polk,156,State Measure 118,,,Under Votes,150
+Polk,162,State Measure 118,,,Under Votes,142
+Polk,166,State Measure 118,,,Under Votes,55
+Polk,178,State Measure 118,,,Under Votes,332
+Polk,182,State Measure 118,,,Under Votes,300
+Polk,102,State Measure 119,,,Yes,445
+Polk,106,State Measure 119,,,Yes,412
+Polk,110,State Measure 119,,,Yes,310
+Polk,118,State Measure 119,,,Yes,1166
+Polk,122,State Measure 119,,,Yes,501
+Polk,134,State Measure 119,,,Yes,2594
+Polk,136,State Measure 119,,,Yes,1824
+Polk,140,State Measure 119,,,Yes,1854
+Polk,146,State Measure 119,,,Yes,2118
+Polk,152,State Measure 119,,,Yes,1539
+Polk,154,State Measure 119,,,Yes,1970
+Polk,156,State Measure 119,,,Yes,1207
+Polk,162,State Measure 119,,,Yes,1136
+Polk,166,State Measure 119,,,Yes,295
+Polk,178,State Measure 119,,,Yes,2547
+Polk,182,State Measure 119,,,Yes,2428
+Polk,102,State Measure 119,,,No,819
+Polk,106,State Measure 119,,,No,588
+Polk,110,State Measure 119,,,No,341
+Polk,118,State Measure 119,,,No,1683
+Polk,122,State Measure 119,,,No,606
+Polk,134,State Measure 119,,,No,1942
+Polk,136,State Measure 119,,,No,1589
+Polk,140,State Measure 119,,,No,1190
+Polk,146,State Measure 119,,,No,1545
+Polk,152,State Measure 119,,,No,2486
+Polk,154,State Measure 119,,,No,2330
+Polk,156,State Measure 119,,,No,1238
+Polk,162,State Measure 119,,,No,1558
+Polk,166,State Measure 119,,,No,387
+Polk,178,State Measure 119,,,No,1646
+Polk,182,State Measure 119,,,No,1706
+Polk,102,State Measure 119,,,Over Votes,0
+Polk,106,State Measure 119,,,Over Votes,0
+Polk,110,State Measure 119,,,Over Votes,0
+Polk,118,State Measure 119,,,Over Votes,0
+Polk,122,State Measure 119,,,Over Votes,0
+Polk,134,State Measure 119,,,Over Votes,0
+Polk,136,State Measure 119,,,Over Votes,0
+Polk,140,State Measure 119,,,Over Votes,0
+Polk,146,State Measure 119,,,Over Votes,0
+Polk,152,State Measure 119,,,Over Votes,0
+Polk,154,State Measure 119,,,Over Votes,0
+Polk,156,State Measure 119,,,Over Votes,1
+Polk,162,State Measure 119,,,Over Votes,0
+Polk,166,State Measure 119,,,Over Votes,0
+Polk,178,State Measure 119,,,Over Votes,0
+Polk,182,State Measure 119,,,Over Votes,0
+Polk,102,State Measure 119,,,Under Votes,105
+Polk,106,State Measure 119,,,Under Votes,100
+Polk,110,State Measure 119,,,Under Votes,69
+Polk,118,State Measure 119,,,Under Votes,265
+Polk,122,State Measure 119,,,Under Votes,97
+Polk,134,State Measure 119,,,Under Votes,451
+Polk,136,State Measure 119,,,Under Votes,286
+Polk,140,State Measure 119,,,Under Votes,354
+Polk,146,State Measure 119,,,Under Votes,363
+Polk,152,State Measure 119,,,Under Votes,348
+Polk,154,State Measure 119,,,Under Votes,374
+Polk,156,State Measure 119,,,Under Votes,208
+Polk,162,State Measure 119,,,Under Votes,238
+Polk,166,State Measure 119,,,Under Votes,82
+Polk,178,State Measure 119,,,Under Votes,427
+Polk,182,State Measure 119,,,Under Votes,399
