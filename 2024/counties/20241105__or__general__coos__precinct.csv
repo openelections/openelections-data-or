@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Coos,Precinct 01,President,,We The People,Robert F. Kennedy Jr,15
 Coos,Precinct 02,President,,We The People,Robert F. Kennedy Jr,35
 Coos,Precinct 03,President,,We The People,Robert F. Kennedy Jr,69
@@ -125,42 +125,24 @@ Coos,Precinct 15,President,,Democrat,Kamala Harris,128
 Coos,Precinct 16,President,,Democrat,Kamala Harris,1056
 Coos,Precinct 17,President,,Democrat,Kamala Harris,1023
 Coos,Precinct 18,President,,Democrat,Kamala Harris,128
-Coos,Precinct 01,President,,,Write-In ,0
-Coos,Precinct 02,President,,,Write-In ,11
-Coos,Precinct 03,President,,,Write-In ,15
-Coos,Precinct 04,President,,,Write-In ,10
-Coos,Precinct 05,President,,,Write-In ,15
-Coos,Precinct 06,President,,,Write-In ,9
-Coos,Precinct 07,President,,,Write-In ,12
-Coos,Precinct 08,President,,,Write-In ,11
-Coos,Precinct 09,President,,,Write-In ,0
-Coos,Precinct 10,President,,,Write-In ,18
-Coos,Precinct 11,President,,,Write-In ,11
-Coos,Precinct 12,President,,,Write-In ,5
-Coos,Precinct 13,President,,,Write-In ,9
-Coos,Precinct 14,President,,,Write-In ,5
-Coos,Precinct 15,President,,,Write-In ,1
-Coos,Precinct 16,President,,,Write-In ,14
-Coos,Precinct 17,President,,,Write-In ,6
-Coos,Precinct 18,President,,,Write-In ,2
-Coos,Precinct 01,President,,,Total ,1493
-Coos,Precinct 02,President,,,Total ,2828
-Coos,Precinct 03,President,,,Total ,2977
-Coos,Precinct 04,President,,,Total ,2172
-Coos,Precinct 05,President,,,Total ,3459
-Coos,Precinct 06,President,,,Total ,2030
-Coos,Precinct 07,President,,,Total ,2347
-Coos,Precinct 08,President,,,Total ,3370
-Coos,Precinct 09,President,,,Total ,330
-Coos,Precinct 10,President,,,Total ,2356
-Coos,Precinct 11,President,,,Total ,1908
-Coos,Precinct 12,President,,,Total ,2068
-Coos,Precinct 13,President,,,Total ,1272
-Coos,Precinct 14,President,,,Total ,1657
-Coos,Precinct 15,President,,,Total ,487
-Coos,Precinct 16,President,,,Total ,2065
-Coos,Precinct 17,President,,,Total ,2559
-Coos,Precinct 18,President,,,Total ,357
+Coos,Precinct 01,President,,,Write-ins,0
+Coos,Precinct 02,President,,,Write-ins,11
+Coos,Precinct 03,President,,,Write-ins,15
+Coos,Precinct 04,President,,,Write-ins,10
+Coos,Precinct 05,President,,,Write-ins,15
+Coos,Precinct 06,President,,,Write-ins,9
+Coos,Precinct 07,President,,,Write-ins,12
+Coos,Precinct 08,President,,,Write-ins,11
+Coos,Precinct 09,President,,,Write-ins,0
+Coos,Precinct 10,President,,,Write-ins,18
+Coos,Precinct 11,President,,,Write-ins,11
+Coos,Precinct 12,President,,,Write-ins,5
+Coos,Precinct 13,President,,,Write-ins,9
+Coos,Precinct 14,President,,,Write-ins,5
+Coos,Precinct 15,President,,,Write-ins,1
+Coos,Precinct 16,President,,,Write-ins,14
+Coos,Precinct 17,President,,,Write-ins,6
+Coos,Precinct 18,President,,,Write-ins,2
 Coos,Precinct 01,Secretary of State,,Pacific Green,Nathalie Paravinci,32
 Coos,Precinct 02,Secretary of State,,Pacific Green,Nathalie Paravinci,53
 Coos,Precinct 03,Secretary of State,,Pacific Green,Nathalie Paravinci,71
@@ -215,42 +197,24 @@ Coos,Precinct 15,Secretary of State,,Democrat,Tobias Read,129
 Coos,Precinct 16,Secretary of State,,Democrat,Tobias Read,1035
 Coos,Precinct 17,Secretary of State,,Democrat,Tobias Read,977
 Coos,Precinct 18,Secretary of State,,Democrat,Tobias Read,117
-Coos,Precinct 01,Secretary of State,,,Write-In ,1
-Coos,Precinct 02,Secretary of State,,,Write-In ,1
-Coos,Precinct 03,Secretary of State,,,Write-In ,0
-Coos,Precinct 04,Secretary of State,,,Write-In ,1
-Coos,Precinct 05,Secretary of State,,,Write-In ,1
-Coos,Precinct 06,Secretary of State,,,Write-In ,1
-Coos,Precinct 07,Secretary of State,,,Write-In ,2
-Coos,Precinct 08,Secretary of State,,,Write-In ,1
-Coos,Precinct 09,Secretary of State,,,Write-In ,0
-Coos,Precinct 10,Secretary of State,,,Write-In ,2
-Coos,Precinct 11,Secretary of State,,,Write-In ,1
-Coos,Precinct 12,Secretary of State,,,Write-In ,1
-Coos,Precinct 13,Secretary of State,,,Write-In ,3
-Coos,Precinct 14,Secretary of State,,,Write-In ,2
-Coos,Precinct 15,Secretary of State,,,Write-In ,0
-Coos,Precinct 16,Secretary of State,,,Write-In ,0
-Coos,Precinct 17,Secretary of State,,,Write-In ,0
-Coos,Precinct 18,Secretary of State,,,Write-In ,0
-Coos,Precinct 01,Secretary of State,,,Total ,1441
-Coos,Precinct 02,Secretary of State,,,Total ,2739
-Coos,Precinct 03,Secretary of State,,,Total ,2859
-Coos,Precinct 04,Secretary of State,,,Total ,2062
-Coos,Precinct 05,Secretary of State,,,Total ,3294
-Coos,Precinct 06,Secretary of State,,,Total ,1951
-Coos,Precinct 07,Secretary of State,,,Total ,2234
-Coos,Precinct 08,Secretary of State,,,Total ,3222
-Coos,Precinct 09,Secretary of State,,,Total ,314
-Coos,Precinct 10,Secretary of State,,,Total ,2273
-Coos,Precinct 11,Secretary of State,,,Total ,1836
-Coos,Precinct 12,Secretary of State,,,Total ,1984
-Coos,Precinct 13,Secretary of State,,,Total ,1243
-Coos,Precinct 14,Secretary of State,,,Total ,1598
-Coos,Precinct 15,Secretary of State,,,Total ,469
-Coos,Precinct 16,Secretary of State,,,Total ,1985
-Coos,Precinct 17,Secretary of State,,,Total ,2460
-Coos,Precinct 18,Secretary of State,,,Total ,343
+Coos,Precinct 01,Secretary of State,,,Write-ins,1
+Coos,Precinct 02,Secretary of State,,,Write-ins,1
+Coos,Precinct 03,Secretary of State,,,Write-ins,0
+Coos,Precinct 04,Secretary of State,,,Write-ins,1
+Coos,Precinct 05,Secretary of State,,,Write-ins,1
+Coos,Precinct 06,Secretary of State,,,Write-ins,1
+Coos,Precinct 07,Secretary of State,,,Write-ins,2
+Coos,Precinct 08,Secretary of State,,,Write-ins,1
+Coos,Precinct 09,Secretary of State,,,Write-ins,0
+Coos,Precinct 10,Secretary of State,,,Write-ins,2
+Coos,Precinct 11,Secretary of State,,,Write-ins,1
+Coos,Precinct 12,Secretary of State,,,Write-ins,1
+Coos,Precinct 13,Secretary of State,,,Write-ins,3
+Coos,Precinct 14,Secretary of State,,,Write-ins,2
+Coos,Precinct 15,Secretary of State,,,Write-ins,0
+Coos,Precinct 16,Secretary of State,,,Write-ins,0
+Coos,Precinct 17,Secretary of State,,,Write-ins,0
+Coos,Precinct 18,Secretary of State,,,Write-ins,0
 Coos,Precinct 01,U.S. House,4,Libertarian,Dan Bahlen,24
 Coos,Precinct 02,U.S. House,4,Libertarian,Dan Bahlen,32
 Coos,Precinct 03,U.S. House,4,Libertarian,Dan Bahlen,45
@@ -323,42 +287,24 @@ Coos,Precinct 15,U.S. House,4,Republican,Monique DeSpain,341
 Coos,Precinct 16,U.S. House,4,Republican,Monique DeSpain,926
 Coos,Precinct 17,U.S. House,4,Republican,Monique DeSpain,1457
 Coos,Precinct 18,U.S. House,4,Republican,Monique DeSpain,218
-Coos,Precinct 01,U.S. House,4,,Write-In ,0
-Coos,Precinct 02,U.S. House,4,,Write-In ,1
-Coos,Precinct 03,U.S. House,4,,Write-In ,0
-Coos,Precinct 04,U.S. House,4,,Write-In ,0
-Coos,Precinct 05,U.S. House,4,,Write-In ,5
-Coos,Precinct 06,U.S. House,4,,Write-In ,2
-Coos,Precinct 07,U.S. House,4,,Write-In ,2
-Coos,Precinct 08,U.S. House,4,,Write-In ,5
-Coos,Precinct 09,U.S. House,4,,Write-In ,0
-Coos,Precinct 10,U.S. House,4,,Write-In ,3
-Coos,Precinct 11,U.S. House,4,,Write-In ,2
-Coos,Precinct 12,U.S. House,4,,Write-In ,1
-Coos,Precinct 13,U.S. House,4,,Write-In ,1
-Coos,Precinct 14,U.S. House,4,,Write-In ,2
-Coos,Precinct 15,U.S. House,4,,Write-In ,0
-Coos,Precinct 16,U.S. House,4,,Write-In ,0
-Coos,Precinct 17,U.S. House,4,,Write-In ,1
-Coos,Precinct 18,U.S. House,4,,Write-In ,2
-Coos,Precinct 01,U.S. House,4,,Total ,1450
-Coos,Precinct 02,U.S. House,4,,Total ,2759
-Coos,Precinct 03,U.S. House,4,,Total ,2877
-Coos,Precinct 04,U.S. House,4,,Total ,2076
-Coos,Precinct 05,U.S. House,4,,Total ,3317
-Coos,Precinct 06,U.S. House,4,,Total ,1960
-Coos,Precinct 07,U.S. House,4,,Total ,2263
-Coos,Precinct 08,U.S. House,4,,Total ,3259
-Coos,Precinct 09,U.S. House,4,,Total ,317
-Coos,Precinct 10,U.S. House,4,,Total ,2295
-Coos,Precinct 11,U.S. House,4,,Total ,1846
-Coos,Precinct 12,U.S. House,4,,Total ,2002
-Coos,Precinct 13,U.S. House,4,,Total ,1241
-Coos,Precinct 14,U.S. House,4,,Total ,1605
-Coos,Precinct 15,U.S. House,4,,Total ,461
-Coos,Precinct 16,U.S. House,4,,Total ,2000
-Coos,Precinct 17,U.S. House,4,,Total ,2481
-Coos,Precinct 18,U.S. House,4,,Total ,343
+Coos,Precinct 01,U.S. House,4,,Write-ins,0
+Coos,Precinct 02,U.S. House,4,,Write-ins,1
+Coos,Precinct 03,U.S. House,4,,Write-ins,0
+Coos,Precinct 04,U.S. House,4,,Write-ins,0
+Coos,Precinct 05,U.S. House,4,,Write-ins,5
+Coos,Precinct 06,U.S. House,4,,Write-ins,2
+Coos,Precinct 07,U.S. House,4,,Write-ins,2
+Coos,Precinct 08,U.S. House,4,,Write-ins,5
+Coos,Precinct 09,U.S. House,4,,Write-ins,0
+Coos,Precinct 10,U.S. House,4,,Write-ins,3
+Coos,Precinct 11,U.S. House,4,,Write-ins,2
+Coos,Precinct 12,U.S. House,4,,Write-ins,1
+Coos,Precinct 13,U.S. House,4,,Write-ins,1
+Coos,Precinct 14,U.S. House,4,,Write-ins,2
+Coos,Precinct 15,U.S. House,4,,Write-ins,0
+Coos,Precinct 16,U.S. House,4,,Write-ins,0
+Coos,Precinct 17,U.S. House,4,,Write-ins,1
+Coos,Precinct 18,U.S. House,4,,Write-ins,2
 Coos,Precinct 01,State Treasurer,,Working Families,Mary King,61
 Coos,Precinct 02,State Treasurer,,Working Families,Mary King,112
 Coos,Precinct 03,State Treasurer,,Working Families,Mary King,175
@@ -413,42 +359,24 @@ Coos,Precinct 15,State Treasurer,,Democrat,Elizabeth Steiner,110
 Coos,Precinct 16,State Treasurer,,Democrat,Elizabeth Steiner,925
 Coos,Precinct 17,State Treasurer,,Democrat,Elizabeth Steiner,856
 Coos,Precinct 18,State Treasurer,,Democrat,Elizabeth Steiner,99
-Coos,Precinct 01,State Treasurer,,,Write-In ,0
-Coos,Precinct 02,State Treasurer,,,Write-In ,2
-Coos,Precinct 03,State Treasurer,,,Write-In ,0
-Coos,Precinct 04,State Treasurer,,,Write-In ,1
-Coos,Precinct 05,State Treasurer,,,Write-In ,1
-Coos,Precinct 06,State Treasurer,,,Write-In ,1
-Coos,Precinct 07,State Treasurer,,,Write-In ,1
-Coos,Precinct 08,State Treasurer,,,Write-In ,1
-Coos,Precinct 09,State Treasurer,,,Write-In ,0
-Coos,Precinct 10,State Treasurer,,,Write-In ,2
-Coos,Precinct 11,State Treasurer,,,Write-In ,1
-Coos,Precinct 12,State Treasurer,,,Write-In ,1
-Coos,Precinct 13,State Treasurer,,,Write-In ,2
-Coos,Precinct 14,State Treasurer,,,Write-In ,2
-Coos,Precinct 15,State Treasurer,,,Write-In ,0
-Coos,Precinct 16,State Treasurer,,,Write-In ,0
-Coos,Precinct 17,State Treasurer,,,Write-In ,1
-Coos,Precinct 18,State Treasurer,,,Write-In ,0
-Coos,Precinct 01,State Treasurer,,,Total ,1428
-Coos,Precinct 02,State Treasurer,,,Total ,2703
-Coos,Precinct 03,State Treasurer,,,Total ,2828
-Coos,Precinct 04,State Treasurer,,,Total ,2035
-Coos,Precinct 05,State Treasurer,,,Total ,3276
-Coos,Precinct 06,State Treasurer,,,Total ,1932
-Coos,Precinct 07,State Treasurer,,,Total ,2226
-Coos,Precinct 08,State Treasurer,,,Total ,3197
-Coos,Precinct 09,State Treasurer,,,Total ,310
-Coos,Precinct 10,State Treasurer,,,Total ,2252
-Coos,Precinct 11,State Treasurer,,,Total ,1826
-Coos,Precinct 12,State Treasurer,,,Total ,1964
-Coos,Precinct 13,State Treasurer,,,Total ,1228
-Coos,Precinct 14,State Treasurer,,,Total ,1575
-Coos,Precinct 15,State Treasurer,,,Total ,460
-Coos,Precinct 16,State Treasurer,,,Total ,1966
-Coos,Precinct 17,State Treasurer,,,Total ,2449
-Coos,Precinct 18,State Treasurer,,,Total ,338
+Coos,Precinct 01,State Treasurer,,,Write-ins,0
+Coos,Precinct 02,State Treasurer,,,Write-ins,2
+Coos,Precinct 03,State Treasurer,,,Write-ins,0
+Coos,Precinct 04,State Treasurer,,,Write-ins,1
+Coos,Precinct 05,State Treasurer,,,Write-ins,1
+Coos,Precinct 06,State Treasurer,,,Write-ins,1
+Coos,Precinct 07,State Treasurer,,,Write-ins,1
+Coos,Precinct 08,State Treasurer,,,Write-ins,1
+Coos,Precinct 09,State Treasurer,,,Write-ins,0
+Coos,Precinct 10,State Treasurer,,,Write-ins,2
+Coos,Precinct 11,State Treasurer,,,Write-ins,1
+Coos,Precinct 12,State Treasurer,,,Write-ins,1
+Coos,Precinct 13,State Treasurer,,,Write-ins,2
+Coos,Precinct 14,State Treasurer,,,Write-ins,2
+Coos,Precinct 15,State Treasurer,,,Write-ins,0
+Coos,Precinct 16,State Treasurer,,,Write-ins,0
+Coos,Precinct 17,State Treasurer,,,Write-ins,1
+Coos,Precinct 18,State Treasurer,,,Write-ins,0
 Coos,Precinct 01,Attorney General,,Republican,Will Lathrop ,978
 Coos,Precinct 02,Attorney General,,Republican,Will Lathrop ,1749
 Coos,Precinct 03,Attorney General,,Republican,Will Lathrop ,1647
@@ -485,219 +413,165 @@ Coos,Precinct 15,Attorney General,,Democrat,Dan Rayfield,123
 Coos,Precinct 16,Attorney General,,Democrat,Dan Rayfield,998
 Coos,Precinct 17,Attorney General,,Democrat,Dan Rayfield,962
 Coos,Precinct 18,Attorney General,,Democrat,Dan Rayfield,113
-Coos,Precinct 01,Attorney General,,,Write-In ,0
-Coos,Precinct 02,Attorney General,,,Write-In ,2
-Coos,Precinct 03,Attorney General,,,Write-In ,1
-Coos,Precinct 04,Attorney General,,,Write-In ,1
-Coos,Precinct 05,Attorney General,,,Write-In ,2
-Coos,Precinct 06,Attorney General,,,Write-In ,3
-Coos,Precinct 07,Attorney General,,,Write-In ,4
-Coos,Precinct 08,Attorney General,,,Write-In ,3
-Coos,Precinct 09,Attorney General,,,Write-In ,0
-Coos,Precinct 10,Attorney General,,,Write-In ,4
-Coos,Precinct 11,Attorney General,,,Write-In ,2
-Coos,Precinct 12,Attorney General,,,Write-In ,3
-Coos,Precinct 13,Attorney General,,,Write-In ,1
-Coos,Precinct 14,Attorney General,,,Write-In ,3
-Coos,Precinct 15,Attorney General,,,Write-In ,0
-Coos,Precinct 16,Attorney General,,,Write-In ,3
-Coos,Precinct 17,Attorney General,,,Write-In ,1
-Coos,Precinct 18,Attorney General,,,Write-In ,1
-Coos,Precinct 01,Attorney General,,,Total ,1432
-Coos,Precinct 02,Attorney General,,,Total ,2704
-Coos,Precinct 03,Attorney General,,,Total ,2827
-Coos,Precinct 04,Attorney General,,,Total ,2056
-Coos,Precinct 05,Attorney General,,,Total ,3266
-Coos,Precinct 06,Attorney General,,,Total ,1943
-Coos,Precinct 07,Attorney General,,,Total ,2226
-Coos,Precinct 08,Attorney General,,,Total ,3182
-Coos,Precinct 09,Attorney General,,,Total ,314
-Coos,Precinct 10,Attorney General,,,Total ,2254
-Coos,Precinct 11,Attorney General,,,Total ,1826
-Coos,Precinct 12,Attorney General,,,Total ,1964
-Coos,Precinct 13,Attorney General,,,Total ,1225
-Coos,Precinct 14,Attorney General,,,Total ,1584
-Coos,Precinct 15,Attorney General,,,Total ,464
-Coos,Precinct 16,Attorney General,,,Total ,1966
-Coos,Precinct 17,Attorney General,,,Total ,2450
-Coos,Precinct 18,Attorney General,,,Total ,341
-Coos,Precinct 10,State Senator,1,Democrat,Lupe Preciado-McAlister,595
-Coos,Precinct 11,State Senator,1,Democrat,Lupe Preciado-McAlister,413
-Coos,Precinct 12,State Senator,1,Democrat,Lupe Preciado-McAlister,591
-Coos,Precinct 13,State Senator,1,Democrat,Lupe Preciado-McAlister,307
-Coos,Precinct 14,State Senator,1,Democrat,Lupe Preciado-McAlister,282
-Coos,Precinct 15,State Senator,1,Democrat,Lupe Preciado-McAlister,107
-Coos,Precinct 16,State Senator,1,Democrat,Lupe Preciado-McAlister,917
-Coos,Precinct 17,State Senator,1,Democrat,Lupe Preciado-McAlister,864
-Coos,Precinct 18,State Senator,1,Democrat,Lupe Preciado-McAlister,99
-Coos,Precinct 10,State Senator,1,Republican,David Brock Smith ,1623
-Coos,Precinct 11,State Senator,1,Republican,David Brock Smith ,1382
-Coos,Precinct 12,State Senator,1,Republican,David Brock Smith ,1345
-Coos,Precinct 13,State Senator,1,Republican,David Brock Smith ,902
-Coos,Precinct 14,State Senator,1,Republican,David Brock Smith ,1271
-Coos,Precinct 15,State Senator,1,Republican,David Brock Smith ,346
-Coos,Precinct 16,State Senator,1,Republican,David Brock Smith ,1030
-Coos,Precinct 17,State Senator,1,Republican,David Brock Smith ,1542
-Coos,Precinct 18,State Senator,1,Republican,David Brock Smith ,236
-Coos,Precinct 10,State Senator,1,,Write-In ,9
-Coos,Precinct 11,State Senator,1,,Write-In ,10
-Coos,Precinct 12,State Senator,1,,Write-In ,2
-Coos,Precinct 13,State Senator,1,,Write-In ,8
-Coos,Precinct 14,State Senator,1,,Write-In ,14
-Coos,Precinct 15,State Senator,1,,Write-In ,0
-Coos,Precinct 16,State Senator,1,,Write-In ,4
-Coos,Precinct 17,State Senator,1,,Write-In ,4
-Coos,Precinct 18,State Senator,1,,Write-In ,1
-Coos,Precinct 10,State Senator,1,,Total ,2227
-Coos,Precinct 11,State Senator,1,,Total ,1805
-Coos,Precinct 12,State Senator,1,,Total ,1938
-Coos,Precinct 13,State Senator,1,,Total ,1217
-Coos,Precinct 14,State Senator,1,,Total ,1567
-Coos,Precinct 15,State Senator,1,,Total ,453
-Coos,Precinct 16,State Senator,1,,Total ,1951
-Coos,Precinct 17,State Senator,1,,Total ,2410
-Coos,Precinct 18,State Senator,1,,Total ,336
-Coos,Precinct 01,State Senator,5,Democrat,Jo Beaudreau,401
-Coos,Precinct 02,State Senator,5,Democrat,Jo Beaudreau,842
-Coos,Precinct 03,State Senator,5,Democrat,Jo Beaudreau,1045
-Coos,Precinct 04,State Senator,5,Democrat,Jo Beaudreau,953
-Coos,Precinct 05,State Senator,5,Democrat,Jo Beaudreau,1344
-Coos,Precinct 06,State Senator,5,Democrat,Jo Beaudreau,862
-Coos,Precinct 07,State Senator,5,Democrat,Jo Beaudreau,968
-Coos,Precinct 08,State Senator,5,Democrat,Jo Beaudreau,1075
-Coos,Precinct 09,State Senator,5,Democrat,Jo Beaudreau,152
-Coos,Precinct 01,State Senator,5,Republican,Dick Anderson,1018
-Coos,Precinct 02,State Senator,5,Republican,Dick Anderson,1863
-Coos,Precinct 03,State Senator,5,Republican,Dick Anderson,1775
-Coos,Precinct 04,State Senator,5,Republican,Dick Anderson,1074
-Coos,Precinct 05,State Senator,5,Republican,Dick Anderson,1916
-Coos,Precinct 06,State Senator,5,Republican,Dick Anderson,1055
-Coos,Precinct 07,State Senator,5,Republican,Dick Anderson,1246
-Coos,Precinct 08,State Senator,5,Republican,Dick Anderson,2085
-Coos,Precinct 09,State Senator,5,Republican,Dick Anderson,158
-Coos,Precinct 01,State Representative,1,,Write-In ,0
-Coos,Precinct 02,State Representative,1,,Write-In ,2
-Coos,Precinct 03,State Representative,1,,Write-In ,0
-Coos,Precinct 04,State Representative,1,,Write-In ,3
-Coos,Precinct 05,State Representative,1,,Write-In ,5
-Coos,Precinct 06,State Representative,1,,Write-In ,7
-Coos,Precinct 07,State Representative,1,,Write-In ,2
-Coos,Precinct 08,State Representative,1,,Write-In ,5
-Coos,Precinct 09,State Representative,1,,Write-In ,0
-Coos,Precinct 01,State Representative,1,,Total ,1419
-Coos,Precinct 02,State Representative,1,,Total ,2707
-Coos,Precinct 03,State Representative,1,,Total ,2820
-Coos,Precinct 04,State Representative,1,,Total ,2030
-Coos,Precinct 05,State Representative,1,,Total ,3265
-Coos,Precinct 06,State Representative,1,,Total ,1924
-Coos,Precinct 07,State Representative,1,,Total ,2216
-Coos,Precinct 08,State Representative,1,,Total ,3165
-Coos,Precinct 09,State Representative,1,,Total ,310
-Coos,Precinct 10,State Representative,1,Republican,Court Boice,1592
-Coos,Precinct 11,State Representative,1,Republican,Court Boice,1328
-Coos,Precinct 12,State Representative,1,Republican,Court Boice,1292
-Coos,Precinct 13,State Representative,1,Republican,Court Boice,888
-Coos,Precinct 14,State Representative,1,Republican,Court Boice,1271
-Coos,Precinct 15,State Representative,1,Republican,Court Boice,349
-Coos,Precinct 16,State Representative,1,Republican,Court Boice,970
-Coos,Precinct 17,State Representative,1,Republican,Court Boice,1500
-Coos,Precinct 18,State Representative,1,Republican,Court Boice,223
-Coos,Precinct 10,State Representative,1,Democrat,Bret Cecil,646
-Coos,Precinct 11,State Representative,1,Democrat,Bret Cecil,473
-Coos,Precinct 12,State Representative,1,Democrat,Bret Cecil,651
-Coos,Precinct 13,State Representative,1,Democrat,Bret Cecil,336
-Coos,Precinct 14,State Representative,1,Democrat,Bret Cecil,304
-Coos,Precinct 15,State Representative,1,Democrat,Bret Cecil,111
-Coos,Precinct 16,State Representative,1,Democrat,Bret Cecil,979
-Coos,Precinct 17,State Representative,1,Democrat,Bret Cecil,917
-Coos,Precinct 18,State Representative,1,Democrat,Bret Cecil,109
-Coos,Precinct 10,State Representative,9,,Write-In ,3
-Coos,Precinct 11,State Representative,9,,Write-In ,5
-Coos,Precinct 12,State Representative,9,,Write-In ,1
-Coos,Precinct 13,State Representative,9,,Write-In ,1
-Coos,Precinct 14,State Representative,9,,Write-In ,3
-Coos,Precinct 15,State Representative,9,,Write-In ,0
-Coos,Precinct 16,State Representative,9,,Write-In ,1
-Coos,Precinct 17,State Representative,9,,Write-In ,2
-Coos,Precinct 18,State Representative,9,,Write-In ,0
-Coos,Precinct 10,State Representative,9,,Total ,2241
-Coos,Precinct 11,State Representative,9,,Total ,1806
-Coos,Precinct 12,State Representative,9,,Total ,1944
-Coos,Precinct 13,State Representative,9,,Total ,1225
-Coos,Precinct 14,State Representative,9,,Total ,1578
-Coos,Precinct 15,State Representative,9,,Total ,460
-Coos,Precinct 16,State Representative,9,,Total ,1950
-Coos,Precinct 17,State Representative,9,,Total ,2419
-Coos,Precinct 18,State Representative,9,,Total ,332
-Coos,Precinct 01,State Representative,9,Republican,Boomer Wright,1035
-Coos,Precinct 02,State Representative,9,Republican,Boomer Wright,1902
-Coos,Precinct 03,State Representative,9,Republican,Boomer Wright,1871
-Coos,Precinct 04,State Representative,9,Republican,Boomer Wright,1139
-Coos,Precinct 05,State Representative,9,Republican,Boomer Wright,1944
-Coos,Precinct 06,State Representative,9,Republican,Boomer Wright,1093
-Coos,Precinct 07,State Representative,9,Republican,Boomer Wright,1268
-Coos,Precinct 08,State Representative,9,Republican,Boomer Wright,2157
-Coos,Precinct 09,State Representative,9,Republican,Boomer Wright,166
-Coos,Precinct 01,State Senator,9,Democrat,William (Mrk) Mrkvicka,377
-Coos,Precinct 02,State Senator,9,Democrat,William (Mrk) Mrkvicka,765
-Coos,Precinct 03,State Senator,9,Democrat,William (Mrk) Mrkvicka,938
-Coos,Precinct 04,State Senator,9,Democrat,William (Mrk) Mrkvicka,870
-Coos,Precinct 05,State Senator,9,Democrat,William (Mrk) Mrkvicka,1273
-Coos,Precinct 06,State Senator,9,Democrat,William (Mrk) Mrkvicka,805
-Coos,Precinct 07,State Senator,9,Democrat,William (Mrk) Mrkvicka,908
-Coos,Precinct 08,State Senator,9,Democrat,William (Mrk) Mrkvicka,1009
-Coos,Precinct 09,State Senator,9,Democrat,William (Mrk) Mrkvicka,141
-Coos,Precinct 01,State Senator,9,,Write-In ,1
-Coos,Precinct 02,State Senator,9,,Write-In ,3
-Coos,Precinct 03,State Senator,9,,Write-In ,1
-Coos,Precinct 04,State Senator,9,,Write-In ,3
-Coos,Precinct 05,State Senator,9,,Write-In ,10
-Coos,Precinct 06,State Senator,9,,Write-In ,4
-Coos,Precinct 07,State Senator,9,,Write-In ,5
-Coos,Precinct 08,State Senator,9,,Write-In ,7
-Coos,Precinct 09,State Senator,9,,Write-In ,0
-Coos,Precinct 01,State Senator,9,,Total ,1413
-Coos,Precinct 02,State Senator,9,,Total ,2670
-Coos,Precinct 03,State Senator,9,,Total ,2810
-Coos,Precinct 04,State Senator,9,,Total ,2012
-Coos,Precinct 05,State Senator,9,,Total ,3227
-Coos,Precinct 06,State Senator,9,,Total ,1902
-Coos,Precinct 07,State Senator,9,,Total ,2181
-Coos,Precinct 08,State Senator,9,,Total ,3173
-Coos,Precinct 09,State Senator,9,,Total ,307
-Coos,Precinct 01,,,,Registered Voters,2040
-Coos,Precinct 02,,,,Registered Voters,3615
-Coos,Precinct 03,,,,Registered Voters,4309
-Coos,Precinct 04,,,,Registered Voters,3069
-Coos,Precinct 05,,,,Registered Voters,5343
-Coos,Precinct 06,,,,Registered Voters,2828
-Coos,Precinct 07,,,,Registered Voters,3452
-Coos,Precinct 08,,,,Registered Voters,5154
-Coos,Precinct 09,,,,Registered Voters,516
-Coos,Precinct 10,,,,Registered Voters,3054
-Coos,Precinct 11,,,,Registered Voters,2541
-Coos,Precinct 12,,,,Registered Voters,2934
-Coos,Precinct 13,,,,Registered Voters,1899
-Coos,Precinct 14,,,,Registered Voters,2133
-Coos,Precinct 15,,,,Registered Voters,640
-Coos,Precinct 16,,,,Registered Voters,2683
-Coos,Precinct 17,,,,Registered Voters,3410
-Coos,Precinct 18,,,,Registered Voters,502
-Coos,Precinct 01,,,,Ballots Cast,1507
-Coos,Precinct 02,,,,Ballots Cast,2857
-Coos,Precinct 03,,,,Ballots Cast,3020
-Coos,Precinct 04,,,,Ballots Cast,2198
-Coos,Precinct 05,,,,Ballots Cast,3507
-Coos,Precinct 06,,,,Ballots Cast,2062
-Coos,Precinct 07,,,,Ballots Cast,2384
-Coos,Precinct 08,,,,Ballots Cast,3401
-Coos,Precinct 09,,,,Ballots Cast,335
-Coos,Precinct 10,,,,Ballots Cast,2380
-Coos,Precinct 11,,,,Ballots Cast,1928
-Coos,Precinct 12,,,,Ballots Cast,2090
-Coos,Precinct 13,,,,Ballots Cast,1290
-Coos,Precinct 14,,,,Ballots Cast,1675
-Coos,Precinct 15,,,,Ballots Cast,492
-Coos,Precinct 16,,,,Ballots Cast,2104
-Coos,Precinct 17,,,,Ballots Cast,2588
-Coos,Precinct 18,,,,Ballots Cast,357
+Coos,Precinct 01,Attorney General,,,Write-ins,0
+Coos,Precinct 02,Attorney General,,,Write-ins,2
+Coos,Precinct 03,Attorney General,,,Write-ins,1
+Coos,Precinct 04,Attorney General,,,Write-ins,1
+Coos,Precinct 05,Attorney General,,,Write-ins,2
+Coos,Precinct 06,Attorney General,,,Write-ins,3
+Coos,Precinct 07,Attorney General,,,Write-ins,4
+Coos,Precinct 08,Attorney General,,,Write-ins,3
+Coos,Precinct 09,Attorney General,,,Write-ins,0
+Coos,Precinct 10,Attorney General,,,Write-ins,4
+Coos,Precinct 11,Attorney General,,,Write-ins,2
+Coos,Precinct 12,Attorney General,,,Write-ins,3
+Coos,Precinct 13,Attorney General,,,Write-ins,1
+Coos,Precinct 14,Attorney General,,,Write-ins,3
+Coos,Precinct 15,Attorney General,,,Write-ins,0
+Coos,Precinct 16,Attorney General,,,Write-ins,3
+Coos,Precinct 17,Attorney General,,,Write-ins,1
+Coos,Precinct 18,Attorney General,,,Write-ins,1
+Coos,Precinct 10,State Senate,1,Democrat,Lupe Preciado-McAlister,595
+Coos,Precinct 11,State Senate,1,Democrat,Lupe Preciado-McAlister,413
+Coos,Precinct 12,State Senate,1,Democrat,Lupe Preciado-McAlister,591
+Coos,Precinct 13,State Senate,1,Democrat,Lupe Preciado-McAlister,307
+Coos,Precinct 14,State Senate,1,Democrat,Lupe Preciado-McAlister,282
+Coos,Precinct 15,State Senate,1,Democrat,Lupe Preciado-McAlister,107
+Coos,Precinct 16,State Senate,1,Democrat,Lupe Preciado-McAlister,917
+Coos,Precinct 17,State Senate,1,Democrat,Lupe Preciado-McAlister,864
+Coos,Precinct 18,State Senate,1,Democrat,Lupe Preciado-McAlister,99
+Coos,Precinct 10,State Senate,1,Republican,David Brock Smith ,1623
+Coos,Precinct 11,State Senate,1,Republican,David Brock Smith ,1382
+Coos,Precinct 12,State Senate,1,Republican,David Brock Smith ,1345
+Coos,Precinct 13,State Senate,1,Republican,David Brock Smith ,902
+Coos,Precinct 14,State Senate,1,Republican,David Brock Smith ,1271
+Coos,Precinct 15,State Senate,1,Republican,David Brock Smith ,346
+Coos,Precinct 16,State Senate,1,Republican,David Brock Smith ,1030
+Coos,Precinct 17,State Senate,1,Republican,David Brock Smith ,1542
+Coos,Precinct 18,State Senate,1,Republican,David Brock Smith ,236
+Coos,Precinct 10,State Senate,1,,Write-ins,9
+Coos,Precinct 11,State Senate,1,,Write-ins,10
+Coos,Precinct 12,State Senate,1,,Write-ins,2
+Coos,Precinct 13,State Senate,1,,Write-ins,8
+Coos,Precinct 14,State Senate,1,,Write-ins,14
+Coos,Precinct 15,State Senate,1,,Write-ins,0
+Coos,Precinct 16,State Senate,1,,Write-ins,4
+Coos,Precinct 17,State Senate,1,,Write-ins,4
+Coos,Precinct 18,State Senate,1,,Write-ins,1
+Coos,Precinct 01,State Senate,5,Democrat,Jo Beaudreau,401
+Coos,Precinct 02,State Senate,5,Democrat,Jo Beaudreau,842
+Coos,Precinct 03,State Senate,5,Democrat,Jo Beaudreau,1045
+Coos,Precinct 04,State Senate,5,Democrat,Jo Beaudreau,953
+Coos,Precinct 05,State Senate,5,Democrat,Jo Beaudreau,1344
+Coos,Precinct 06,State Senate,5,Democrat,Jo Beaudreau,862
+Coos,Precinct 07,State Senate,5,Democrat,Jo Beaudreau,968
+Coos,Precinct 08,State Senate,5,Democrat,Jo Beaudreau,1075
+Coos,Precinct 09,State Senate,5,Democrat,Jo Beaudreau,152
+Coos,Precinct 01,State Senate,5,Republican,Dick Anderson,1018
+Coos,Precinct 02,State Senate,5,Republican,Dick Anderson,1863
+Coos,Precinct 03,State Senate,5,Republican,Dick Anderson,1775
+Coos,Precinct 04,State Senate,5,Republican,Dick Anderson,1074
+Coos,Precinct 05,State Senate,5,Republican,Dick Anderson,1916
+Coos,Precinct 06,State Senate,5,Republican,Dick Anderson,1055
+Coos,Precinct 07,State Senate,5,Republican,Dick Anderson,1246
+Coos,Precinct 08,State Senate,5,Republican,Dick Anderson,2085
+Coos,Precinct 09,State Senate,5,Republican,Dick Anderson,158
+Coos,Precinct 01,State House,1,,Write-ins,0
+Coos,Precinct 02,State House,1,,Write-ins,2
+Coos,Precinct 03,State House,1,,Write-ins,0
+Coos,Precinct 04,State House,1,,Write-ins,3
+Coos,Precinct 05,State House,1,,Write-ins,5
+Coos,Precinct 06,State House,1,,Write-ins,7
+Coos,Precinct 07,State House,1,,Write-ins,2
+Coos,Precinct 08,State House,1,,Write-ins,5
+Coos,Precinct 09,State House,1,,Write-ins,0
+Coos,Precinct 10,State House,1,Republican,Court Boice,1592
+Coos,Precinct 11,State House,1,Republican,Court Boice,1328
+Coos,Precinct 12,State House,1,Republican,Court Boice,1292
+Coos,Precinct 13,State House,1,Republican,Court Boice,888
+Coos,Precinct 14,State House,1,Republican,Court Boice,1271
+Coos,Precinct 15,State House,1,Republican,Court Boice,349
+Coos,Precinct 16,State House,1,Republican,Court Boice,970
+Coos,Precinct 17,State House,1,Republican,Court Boice,1500
+Coos,Precinct 18,State House,1,Republican,Court Boice,223
+Coos,Precinct 10,State House,1,Democrat,Bret Cecil,646
+Coos,Precinct 11,State House,1,Democrat,Bret Cecil,473
+Coos,Precinct 12,State House,1,Democrat,Bret Cecil,651
+Coos,Precinct 13,State House,1,Democrat,Bret Cecil,336
+Coos,Precinct 14,State House,1,Democrat,Bret Cecil,304
+Coos,Precinct 15,State House,1,Democrat,Bret Cecil,111
+Coos,Precinct 16,State House,1,Democrat,Bret Cecil,979
+Coos,Precinct 17,State House,1,Democrat,Bret Cecil,917
+Coos,Precinct 18,State House,1,Democrat,Bret Cecil,109
+Coos,Precinct 10,State House,9,,Write-ins,3
+Coos,Precinct 11,State House,9,,Write-ins,5
+Coos,Precinct 12,State House,9,,Write-ins,1
+Coos,Precinct 13,State House,9,,Write-ins,1
+Coos,Precinct 14,State House,9,,Write-ins,3
+Coos,Precinct 15,State House,9,,Write-ins,0
+Coos,Precinct 16,State House,9,,Write-ins,1
+Coos,Precinct 17,State House,9,,Write-ins,2
+Coos,Precinct 18,State House,9,,Write-ins,0
+Coos,Precinct 01,State House,9,Republican,Boomer Wright,1035
+Coos,Precinct 02,State House,9,Republican,Boomer Wright,1902
+Coos,Precinct 03,State House,9,Republican,Boomer Wright,1871
+Coos,Precinct 04,State House,9,Republican,Boomer Wright,1139
+Coos,Precinct 05,State House,9,Republican,Boomer Wright,1944
+Coos,Precinct 06,State House,9,Republican,Boomer Wright,1093
+Coos,Precinct 07,State House,9,Republican,Boomer Wright,1268
+Coos,Precinct 08,State House,9,Republican,Boomer Wright,2157
+Coos,Precinct 09,State House,9,Republican,Boomer Wright,166
+Coos,Precinct 01,State Senate,9,Democrat,William (Mrk) Mrkvicka,377
+Coos,Precinct 02,State Senate,9,Democrat,William (Mrk) Mrkvicka,765
+Coos,Precinct 03,State Senate,9,Democrat,William (Mrk) Mrkvicka,938
+Coos,Precinct 04,State Senate,9,Democrat,William (Mrk) Mrkvicka,870
+Coos,Precinct 05,State Senate,9,Democrat,William (Mrk) Mrkvicka,1273
+Coos,Precinct 06,State Senate,9,Democrat,William (Mrk) Mrkvicka,805
+Coos,Precinct 07,State Senate,9,Democrat,William (Mrk) Mrkvicka,908
+Coos,Precinct 08,State Senate,9,Democrat,William (Mrk) Mrkvicka,1009
+Coos,Precinct 09,State Senate,9,Democrat,William (Mrk) Mrkvicka,141
+Coos,Precinct 01,State Senate,9,,Write-ins,1
+Coos,Precinct 02,State Senate,9,,Write-ins,3
+Coos,Precinct 03,State Senate,9,,Write-ins,1
+Coos,Precinct 04,State Senate,9,,Write-ins,3
+Coos,Precinct 05,State Senate,9,,Write-ins,10
+Coos,Precinct 06,State Senate,9,,Write-ins,4
+Coos,Precinct 07,State Senate,9,,Write-ins,5
+Coos,Precinct 08,State Senate,9,,Write-ins,7
+Coos,Precinct 09,State Senate,9,,Write-ins,0
+Coos,Precinct 01,Registered Voters,,,,2040
+Coos,Precinct 02,Registered Voters,,,,3615
+Coos,Precinct 03,Registered Voters,,,,4309
+Coos,Precinct 04,Registered Voters,,,,3069
+Coos,Precinct 05,Registered Voters,,,,5343
+Coos,Precinct 06,Registered Voters,,,,2828
+Coos,Precinct 07,Registered Voters,,,,3452
+Coos,Precinct 08,Registered Voters,,,,5154
+Coos,Precinct 09,Registered Voters,,,,516
+Coos,Precinct 10,Registered Voters,,,,3054
+Coos,Precinct 11,Registered Voters,,,,2541
+Coos,Precinct 12,Registered Voters,,,,2934
+Coos,Precinct 13,Registered Voters,,,,1899
+Coos,Precinct 14,Registered Voters,,,,2133
+Coos,Precinct 15,Registered Voters,,,,640
+Coos,Precinct 16,Registered Voters,,,,2683
+Coos,Precinct 17,Registered Voters,,,,3410
+Coos,Precinct 18,Registered Voters,,,,502
+Coos,Precinct 01,Ballots Cast,,,,1507
+Coos,Precinct 02,Ballots Cast,,,,2857
+Coos,Precinct 03,Ballots Cast,,,,3020
+Coos,Precinct 04,Ballots Cast,,,,2198
+Coos,Precinct 05,Ballots Cast,,,,3507
+Coos,Precinct 06,Ballots Cast,,,,2062
+Coos,Precinct 07,Ballots Cast,,,,2384
+Coos,Precinct 08,Ballots Cast,,,,3401
+Coos,Precinct 09,Ballots Cast,,,,335
+Coos,Precinct 10,Ballots Cast,,,,2380
+Coos,Precinct 11,Ballots Cast,,,,1928
+Coos,Precinct 12,Ballots Cast,,,,2090
+Coos,Precinct 13,Ballots Cast,,,,1290
+Coos,Precinct 14,Ballots Cast,,,,1675
+Coos,Precinct 15,Ballots Cast,,,,492
+Coos,Precinct 16,Ballots Cast,,,,2104
+Coos,Precinct 17,Ballots Cast,,,,2588
+Coos,Precinct 18,Ballots Cast,,,,357
