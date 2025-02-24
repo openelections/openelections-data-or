@@ -1,0 +1,401 @@
+county,precinct,office,district,party,candidate,votes
+Grant,John Day Valley,President,,WTP,Robert F. Kennedy Jr.,58
+Grant,John Day Valley,President,,PRO,Cornel West,1
+Grant,John Day Valley,President,,LBT,Chase Oliver,12
+Grant,John Day Valley,President,,CON,Randall Terry,3
+Grant,John Day Valley,President,,REP,Donald J. Trump,2296
+Grant,John Day Valley,President,,PAC,Jill Stein,6
+Grant,John Day Valley,President,,DEM,Kamala D. Harris,574
+Grant,John Day Valley,President,,,Write-ins,19
+Grant,John Day Valley,President,,,Over Votes,3
+Grant,John Day Valley,President,,,Under Votes,23
+Grant,John Day Valley,U.S. House,2,REP ,Cliff Bentz,2302
+Grant,John Day Valley,U.S. House,2,CON ,Michael Kurt Stettler,107
+Grant,John Day Valley,U.S. House,2,DEM ,Dan Ruby,450
+Grant,John Day Valley,U.S. House,2,,Write-ins,4
+Grant,John Day Valley,U.S. House,2,,Over Votes,2
+Grant,John Day Valley,U.S. House,2,,Under Votes,130
+Grant,John Day Valley,Secretary of State,,PAC,Nathalie Paravicini,36
+Grant,John Day Valley,Secretary of State,,REP,Dennis Linthicum,2197
+Grant,John Day Valley,Secretary of State,,DEM,Tobias Read,567
+Grant,John Day Valley,Secretary of State,,,Write-ins,4
+Grant,John Day Valley,Secretary of State,,,Over Votes,1
+Grant,John Day Valley,Secretary of State,,,Under Votes,190
+Grant,John Day Valley,State Treasurer,,WFP,Mary King,121
+Grant,John Day Valley,State Treasurer,,REP,Brian J Boquist,2182
+Grant,John Day Valley,State Treasurer,,DEM,Elizabeth Steiner,478
+Grant,John Day Valley,State Treasurer,,,Write-ins,3
+Grant,John Day Valley,State Treasurer,,,Over Votes,0
+Grant,John Day Valley,State Treasurer,,,Under Votes,211
+Grant,John Day Valley,Attorney General,,REP,Will Lathrop,2276
+Grant,John Day Valley,Attorney General,,DEM,Dan Rayfield,537
+Grant,John Day Valley,Attorney General,,,Write-ins,3
+Grant,John Day Valley,Attorney General,,,Over Votes,0
+Grant,John Day Valley,Attorney General,,,Under Votes,179
+Grant,John Day Valley,State Senate,30,REP,Mike McLane,2183
+Grant,John Day Valley,State Senate,30,,Write-ins,27
+Grant,John Day Valley,State Senate,30,,Over Votes,1
+Grant,John Day Valley,State Senate,30,,Under Votes,784
+Grant,John Day Valley,State House,60,REP,Mark Owens,2232
+Grant,John Day Valley,State House,60,,Write-ins,29
+Grant,John Day Valley,State House,60,,Over Votes,0
+Grant,John Day Valley,State House,60,,Under Votes,734
+Grant,John Day Valley,County Judge,,,Mark Webb,1239
+Grant,John Day Valley,County Judge,,,Jim Hamsher,1569
+Grant,John Day Valley,County Judge,,,Write-ins,29
+Grant,John Day Valley,County Judge,,,Over Votes,0
+Grant,John Day Valley,County Judge,,,Under Votes,158
+Grant,John Day Valley,County Clerk,,,Laurie Cates,2200
+Grant,John Day Valley,County Clerk,,,Write-ins,21
+Grant,John Day Valley,County Clerk,,,Over Votes,1
+Grant,John Day Valley,County Clerk,,,Under Votes,773
+Grant,John Day Valley,County Sheriff,,,Scott Moore,907
+Grant,John Day Valley,County Sheriff,,,Todd McKinley,1969
+Grant,John Day Valley,County Sheriff,,,Write-ins,20
+Grant,John Day Valley,County Sheriff,,,Over Votes,2
+Grant,John Day Valley,County Sheriff,,,Under Votes,97
+Grant,John Day Valley,County Treasurer,,,Danielle Kimball,1131
+Grant,John Day Valley,County Treasurer,,,Julie Ellison,1508
+Grant,John Day Valley,County Treasurer,,,Write-ins,6
+Grant,John Day Valley,County Treasurer,,,Over Votes,1
+Grant,John Day Valley,County Treasurer,,,Under Votes,349
+Grant,John Day Valley,State Measure 115,,,Yes,1148
+Grant,John Day Valley,State Measure 115,,,No,1638
+Grant,John Day Valley,State Measure 115,,,Over Votes,1
+Grant,John Day Valley,State Measure 115,,,Under Votes,208
+Grant,John Day Valley,State Measure 116,,,Yes,851
+Grant,John Day Valley,State Measure 116,,,No,1905
+Grant,John Day Valley,State Measure 116,,,Over Votes,1
+Grant,John Day Valley,State Measure 116,,,Under Votes,238
+Grant,John Day Valley,State Measure 117,,,Yes,653
+Grant,John Day Valley,State Measure 117,,,No,2148
+Grant,John Day Valley,State Measure 117,,,Over Votes,3
+Grant,John Day Valley,State Measure 117,,,Under Votes,191
+Grant,John Day Valley,State Measure 118,,,Yes,375
+Grant,John Day Valley,State Measure 118,,,No,2442
+Grant,John Day Valley,State Measure 118,,,Over Votes,2
+Grant,John Day Valley,State Measure 118,,,Under Votes,176
+Grant,John Day Valley,State Measure 119,,,Yes,972
+Grant,John Day Valley,State Measure 119,,,No,1759
+Grant,John Day Valley,State Measure 119,,,Over Votes,1
+Grant,John Day Valley,State Measure 119,,,Under Votes,263
+Grant,Union,President,,WTP,Robert F. Kennedy Jr.,19
+Grant,Union,President,,PRO,Cornel West,1
+Grant,Union,President,,LBT,Chase Oliver,2
+Grant,Union,President,,CON,Randall Terry,1
+Grant,Union,President,,REP,Donald J. Trump,625
+Grant,Union,President,,PAC,Jill Stein,4
+Grant,Union,President,,DEM,Kamala D. Harris,94
+Grant,Union,President,,,Write-ins,4
+Grant,Union,President,,,Over Votes,1
+Grant,Union,President,,,Under Votes,4
+Grant,Union,U.S. House,2,REP ,Cliff Bentz,610
+Grant,Union,U.S. House,2,CON ,Michael Kurt Stettler,32
+Grant,Union,U.S. House,2,DEM ,Dan Ruby,79
+Grant,Union,U.S. House,2,,Write-ins,0
+Grant,Union,U.S. House,2,,Over Votes,0
+Grant,Union,U.S. House,2,,Under Votes,34
+Grant,Union,Secretary of State,,PAC,Nathalie Paravicini,6
+Grant,Union,Secretary of State,,REP,Dennis Linthicum,603
+Grant,Union,Secretary of State,,DEM,Tobias Read,108
+Grant,Union,Secretary of State,,,Write-ins,1
+Grant,Union,Secretary of State,,,Over Votes,1
+Grant,Union,Secretary of State,,,Under Votes,36
+Grant,Union,State Treasurer,,WFP,Mary King,33
+Grant,Union,State Treasurer,,REP,Brian J Boquist,590
+Grant,Union,State Treasurer,,DEM,Elizabeth Steiner,83
+Grant,Union,State Treasurer,,,Write-ins,0
+Grant,Union,State Treasurer,,,Over Votes,0
+Grant,Union,State Treasurer,,,Under Votes,49
+Grant,Union,Attorney General,,REP,Will Lathrop,607
+Grant,Union,Attorney General,,DEM,Dan Rayfield,105
+Grant,Union,Attorney General,,,Write-ins,2
+Grant,Union,Attorney General,,,Over Votes,1
+Grant,Union,Attorney General,,,Under Votes,40
+Grant,Union,State Senate,30,REP,Mike McLane,576
+Grant,Union,State Senate,30,,Write-ins,8
+Grant,Union,State Senate,30,,Over Votes,0
+Grant,Union,State Senate,30,,Under Votes,171
+Grant,Union,State House,60,REP,Mark Owens,597
+Grant,Union,State House,60,,Write-ins,6
+Grant,Union,State House,60,,Over Votes,0
+Grant,Union,State House,60,,Under Votes,152
+Grant,Union,County Judge,,,Mark Webb,261
+Grant,Union,County Judge,,,Jim Hamsher,440
+Grant,Union,County Judge,,,Write-ins,7
+Grant,Union,County Judge,,,Over Votes,0
+Grant,Union,County Judge,,,Under Votes,47
+Grant,Union,County Clerk,,,Laurie Cates,566
+Grant,Union,County Clerk,,,Write-ins,2
+Grant,Union,County Clerk,,,Over Votes,0
+Grant,Union,County Clerk,,,Under Votes,187
+Grant,Union,County Sheriff,,,Scott Moore,232
+Grant,Union,County Sheriff,,,Todd McKinley,468
+Grant,Union,County Sheriff,,,Write-ins,4
+Grant,Union,County Sheriff,,,Over Votes,0
+Grant,Union,County Sheriff,,,Under Votes,51
+Grant,Union,County Treasurer,,,Danielle Kimball,281
+Grant,Union,County Treasurer,,,Julie Ellison,355
+Grant,Union,County Treasurer,,,Write-ins,4
+Grant,Union,County Treasurer,,,Over Votes,0
+Grant,Union,County Treasurer,,,Under Votes,115
+Grant,Union,State Measure 115,,,Yes,306
+Grant,Union,State Measure 115,,,No,409
+Grant,Union,State Measure 115,,,Over Votes,0
+Grant,Union,State Measure 115,,,Under Votes,40
+Grant,Union,State Measure 116,,,Yes,214
+Grant,Union,State Measure 116,,,No,488
+Grant,Union,State Measure 116,,,Over Votes,0
+Grant,Union,State Measure 116,,,Under Votes,53
+Grant,Union,State Measure 117,,,Yes,171
+Grant,Union,State Measure 117,,,No,542
+Grant,Union,State Measure 117,,,Over Votes,1
+Grant,Union,State Measure 117,,,Under Votes,41
+Grant,Union,State Measure 118,,,Yes,66
+Grant,Union,State Measure 118,,,No,649
+Grant,Union,State Measure 118,,,Over Votes,1
+Grant,Union,State Measure 118,,,Under Votes,39
+Grant,Union,State Measure 119,,,Yes,207
+Grant,Union,State Measure 119,,,No,483
+Grant,Union,State Measure 119,,,Over Votes,0
+Grant,Union,State Measure 119,,,Under Votes,65
+Grant,North Fork,President,,WTP,Robert F. Kennedy Jr.,4
+Grant,North Fork,President,,PRO,Cornel West,0
+Grant,North Fork,President,,LBT,Chase Oliver,0
+Grant,North Fork,President,,CON,Randall Terry,0
+Grant,North Fork,President,,REP,Donald J. Trump,196
+Grant,North Fork,President,,PAC,Jill Stein,0
+Grant,North Fork,President,,DEM,Kamala D. Harris,51
+Grant,North Fork,President,,,Write-ins,0
+Grant,North Fork,President,,,Over Votes,0
+Grant,North Fork,President,,,Under Votes,3
+Grant,North Fork,U.S. House,2,REP ,Cliff Bentz,191
+Grant,North Fork,U.S. House,2,CON ,Michael Kurt Stettler,9
+Grant,North Fork,U.S. House,2,DEM ,Dan Ruby,42
+Grant,North Fork,U.S. House,2,,Write-ins,0
+Grant,North Fork,U.S. House,2,,Over Votes,0
+Grant,North Fork,U.S. House,2,,Under Votes,12
+Grant,North Fork,Secretary of State,,PAC,Nathalie Paravicini,3
+Grant,North Fork,Secretary of State,,REP,Dennis Linthicum,189
+Grant,North Fork,Secretary of State,,DEM,Tobias Read,48
+Grant,North Fork,Secretary of State,,,Write-ins,0
+Grant,North Fork,Secretary of State,,,Over Votes,1
+Grant,North Fork,Secretary of State,,,Under Votes,13
+Grant,North Fork,State Treasurer,,WFP,Mary King,4
+Grant,North Fork,State Treasurer,,REP,Brian J Boquist,192
+Grant,North Fork,State Treasurer,,DEM,Elizabeth Steiner,48
+Grant,North Fork,State Treasurer,,,Write-ins,0
+Grant,North Fork,State Treasurer,,,Over Votes,0
+Grant,North Fork,State Treasurer,,,Under Votes,10
+Grant,North Fork,Attorney General,,REP,Will Lathrop,189
+Grant,North Fork,Attorney General,,DEM,Dan Rayfield,53
+Grant,North Fork,Attorney General,,,Write-ins,0
+Grant,North Fork,Attorney General,,,Over Votes,0
+Grant,North Fork,Attorney General,,,Under Votes,12
+Grant,North Fork,State Senate,30,REP,Mike McLane,188
+Grant,North Fork,State Senate,30,,Write-ins,1
+Grant,North Fork,State Senate,30,,Over Votes,0
+Grant,North Fork,State Senate,30,,Under Votes,65
+Grant,North Fork,State House,60,REP,Mark Owens,189
+Grant,North Fork,State House,60,,Write-ins,1
+Grant,North Fork,State House,60,,Over Votes,0
+Grant,North Fork,State House,60,,Under Votes,64
+Grant,North Fork,County Judge,,,Mark Webb,101
+Grant,North Fork,County Judge,,,Jim Hamsher,132
+Grant,North Fork,County Judge,,,Write-ins,0
+Grant,North Fork,County Judge,,,Over Votes,0
+Grant,North Fork,County Judge,,,Under Votes,21
+Grant,North Fork,County Clerk,,,Laurie Cates,181
+Grant,North Fork,County Clerk,,,Write-ins,1
+Grant,North Fork,County Clerk,,,Over Votes,0
+Grant,North Fork,County Clerk,,,Under Votes,72
+Grant,North Fork,County Sheriff,,,Scott Moore,62
+Grant,North Fork,County Sheriff,,,Todd McKinley,180
+Grant,North Fork,County Sheriff,,,Write-ins,0
+Grant,North Fork,County Sheriff,,,Over Votes,0
+Grant,North Fork,County Sheriff,,,Under Votes,12
+Grant,North Fork,County Treasurer,,,Danielle Kimball,109
+Grant,North Fork,County Treasurer,,,Julie Ellison,79
+Grant,North Fork,County Treasurer,,,Write-ins,2
+Grant,North Fork,County Treasurer,,,Over Votes,0
+Grant,North Fork,County Treasurer,,,Under Votes,64
+Grant,North Fork,State Measure 115,,,Yes,98
+Grant,North Fork,State Measure 115,,,No,133
+Grant,North Fork,State Measure 115,,,Over Votes,0
+Grant,North Fork,State Measure 115,,,Under Votes,23
+Grant,North Fork,State Measure 116,,,Yes,54
+Grant,North Fork,State Measure 116,,,No,173
+Grant,North Fork,State Measure 116,,,Over Votes,0
+Grant,North Fork,State Measure 116,,,Under Votes,27
+Grant,North Fork,State Measure 117,,,Yes,60
+Grant,North Fork,State Measure 117,,,No,174
+Grant,North Fork,State Measure 117,,,Over Votes,0
+Grant,North Fork,State Measure 117,,,Under Votes,20
+Grant,North Fork,State Measure 118,,,Yes,32
+Grant,North Fork,State Measure 118,,,No,205
+Grant,North Fork,State Measure 118,,,Over Votes,0
+Grant,North Fork,State Measure 118,,,Under Votes,17
+Grant,North Fork,State Measure 119,,,Yes,75
+Grant,North Fork,State Measure 119,,,No,149
+Grant,North Fork,State Measure 119,,,Over Votes,0
+Grant,North Fork,State Measure 119,,,Under Votes,30
+Grant,South Fork,President,,WTP,Robert F. Kennedy Jr.,6
+Grant,South Fork,President,,PRO,Cornel West,1
+Grant,South Fork,President,,LBT,Chase Oliver,0
+Grant,South Fork,President,,CON,Randall Terry,0
+Grant,South Fork,President,,REP,Donald J. Trump,163
+Grant,South Fork,President,,PAC,Jill Stein,1
+Grant,South Fork,President,,DEM,Kamala D. Harris,51
+Grant,South Fork,President,,,Write-ins,0
+Grant,South Fork,President,,,Over Votes,0
+Grant,South Fork,President,,,Under Votes,10
+Grant,South Fork,U.S. House,2,REP ,Cliff Bentz,167
+Grant,South Fork,U.S. House,2,CON ,Michael Kurt Stettler,10
+Grant,South Fork,U.S. House,2,DEM ,Dan Ruby,39
+Grant,South Fork,U.S. House,2,,Write-ins,0
+Grant,South Fork,U.S. House,2,,Over Votes,0
+Grant,South Fork,U.S. House,2,,Under Votes,16
+Grant,South Fork,Secretary of State,,PAC,Nathalie Paravicini,4
+Grant,South Fork,Secretary of State,,REP,Dennis Linthicum,160
+Grant,South Fork,Secretary of State,,DEM,Tobias Read,47
+Grant,South Fork,Secretary of State,,,Write-ins,0
+Grant,South Fork,Secretary of State,,,Over Votes,0
+Grant,South Fork,Secretary of State,,,Under Votes,21
+Grant,South Fork,State Treasurer,,WFP,Mary King,14
+Grant,South Fork,State Treasurer,,REP,Brian J Boquist,151
+Grant,South Fork,State Treasurer,,DEM,Elizabeth Steiner,42
+Grant,South Fork,State Treasurer,,,Write-ins,0
+Grant,South Fork,State Treasurer,,,Over Votes,0
+Grant,South Fork,State Treasurer,,,Under Votes,25
+Grant,South Fork,Attorney General,,REP,Will Lathrop,165
+Grant,South Fork,Attorney General,,DEM,Dan Rayfield,48
+Grant,South Fork,Attorney General,,,Write-ins,0
+Grant,South Fork,Attorney General,,,Over Votes,0
+Grant,South Fork,Attorney General,,,Under Votes,19
+Grant,South Fork,State Senate,30,REP,Mike McLane,158
+Grant,South Fork,State Senate,30,,Write-ins,1
+Grant,South Fork,State Senate,30,,Over Votes,0
+Grant,South Fork,State Senate,30,,Under Votes,73
+Grant,South Fork,State House,60,REP,Mark Owens,161
+Grant,South Fork,State House,60,,Write-ins,2
+Grant,South Fork,State House,60,,Over Votes,0
+Grant,South Fork,State House,60,,Under Votes,69
+Grant,South Fork,County Judge,,,Mark Webb,99
+Grant,South Fork,County Judge,,,Jim Hamsher,110
+Grant,South Fork,County Judge,,,Write-ins,0
+Grant,South Fork,County Judge,,,Over Votes,0
+Grant,South Fork,County Judge,,,Under Votes,23
+Grant,South Fork,County Clerk,,,Laurie Cates,154
+Grant,South Fork,County Clerk,,,Write-ins,0
+Grant,South Fork,County Clerk,,,Over Votes,0
+Grant,South Fork,County Clerk,,,Under Votes,78
+Grant,South Fork,County Sheriff,,,Scott Moore,58
+Grant,South Fork,County Sheriff,,,Todd McKinley,153
+Grant,South Fork,County Sheriff,,,Write-ins,2
+Grant,South Fork,County Sheriff,,,Over Votes,1
+Grant,South Fork,County Sheriff,,,Under Votes,18
+Grant,South Fork,County Treasurer,,,Danielle Kimball,83
+Grant,South Fork,County Treasurer,,,Julie Ellison,104
+Grant,South Fork,County Treasurer,,,Write-ins,0
+Grant,South Fork,County Treasurer,,,Over Votes,0
+Grant,South Fork,County Treasurer,,,Under Votes,45
+Grant,South Fork,State Measure 115,,,Yes,77
+Grant,South Fork,State Measure 115,,,No,133
+Grant,South Fork,State Measure 115,,,Over Votes,0
+Grant,South Fork,State Measure 115,,,Under Votes,22
+Grant,South Fork,State Measure 116,,,Yes,46
+Grant,South Fork,State Measure 116,,,No,163
+Grant,South Fork,State Measure 116,,,Over Votes,0
+Grant,South Fork,State Measure 116,,,Under Votes,23
+Grant,South Fork,State Measure 117,,,Yes,45
+Grant,South Fork,State Measure 117,,,No,168
+Grant,South Fork,State Measure 117,,,Over Votes,0
+Grant,South Fork,State Measure 117,,,Under Votes,19
+Grant,South Fork,State Measure 118,,,Yes,24
+Grant,South Fork,State Measure 118,,,No,196
+Grant,South Fork,State Measure 118,,,Over Votes,0
+Grant,South Fork,State Measure 118,,,Under Votes,12
+Grant,South Fork,State Measure 119,,,Yes,58
+Grant,South Fork,State Measure 119,,,No,150
+Grant,South Fork,State Measure 119,,,Over Votes,0
+Grant,South Fork,State Measure 119,,,Under Votes,24
+Grant,Long Creek Valley,President,,WTP,Robert F. Kennedy Jr.,4
+Grant,Long Creek Valley,President,,PRO,Cornel West,0
+Grant,Long Creek Valley,President,,LBT,Chase Oliver,0
+Grant,Long Creek Valley,President,,CON,Randall Terry,0
+Grant,Long Creek Valley,President,,REP,Donald J. Trump,210
+Grant,Long Creek Valley,President,,PAC,Jill Stein,2
+Grant,Long Creek Valley,President,,DEM,Kamala D. Harris,46
+Grant,Long Creek Valley,President,,,Write-ins,2
+Grant,Long Creek Valley,President,,,Over Votes,0
+Grant,Long Creek Valley,President,,,Under Votes,1
+Grant,Long Creek Valley,U.S. House,2,REP ,Cliff Bentz,206
+Grant,Long Creek Valley,U.S. House,2,CON ,Michael Kurt Stettler,8
+Grant,Long Creek Valley,U.S. House,2,DEM ,Dan Ruby,38
+Grant,Long Creek Valley,U.S. House,2,,Write-ins,0
+Grant,Long Creek Valley,U.S. House,2,,Over Votes,0
+Grant,Long Creek Valley,U.S. House,2,,Under Votes,13
+Grant,Long Creek Valley,Secretary of State,,PAC,Nathalie Paravicini,4
+Grant,Long Creek Valley,Secretary of State,,REP,Dennis Linthicum,196
+Grant,Long Creek Valley,Secretary of State,,DEM,Tobias Read,51
+Grant,Long Creek Valley,Secretary of State,,,Write-ins,0
+Grant,Long Creek Valley,Secretary of State,,,Over Votes,0
+Grant,Long Creek Valley,Secretary of State,,,Under Votes,14
+Grant,Long Creek Valley,State Treasurer,,WFP,Mary King,8
+Grant,Long Creek Valley,State Treasurer,,REP,Brian J Boquist,202
+Grant,Long Creek Valley,State Treasurer,,DEM,Elizabeth Steiner,41
+Grant,Long Creek Valley,State Treasurer,,,Write-ins,0
+Grant,Long Creek Valley,State Treasurer,,,Over Votes,0
+Grant,Long Creek Valley,State Treasurer,,,Under Votes,14
+Grant,Long Creek Valley,Attorney General,,REP,Will Lathrop,204
+Grant,Long Creek Valley,Attorney General,,DEM,Dan Rayfield,49
+Grant,Long Creek Valley,Attorney General,,,Write-ins,0
+Grant,Long Creek Valley,Attorney General,,,Over Votes,0
+Grant,Long Creek Valley,Attorney General,,,Under Votes,12
+Grant,Long Creek Valley,State Senate,30,REP,Mike McLane,206
+Grant,Long Creek Valley,State Senate,30,,Write-ins,1
+Grant,Long Creek Valley,State Senate,30,,Over Votes,0
+Grant,Long Creek Valley,State Senate,30,,Under Votes,58
+Grant,Long Creek Valley,State House,60,REP,Mark Owens,198
+Grant,Long Creek Valley,State House,60,,Write-ins,1
+Grant,Long Creek Valley,State House,60,,Over Votes,0
+Grant,Long Creek Valley,State House,60,,Under Votes,66
+Grant,Long Creek Valley,County Judge,,,Mark Webb,106
+Grant,Long Creek Valley,County Judge,,,Jim Hamsher,134
+Grant,Long Creek Valley,County Judge,,,Write-ins,1
+Grant,Long Creek Valley,County Judge,,,Over Votes,1
+Grant,Long Creek Valley,County Judge,,,Under Votes,23
+Grant,Long Creek Valley,County Clerk,,,Laurie Cates,183
+Grant,Long Creek Valley,County Clerk,,,Write-ins,0
+Grant,Long Creek Valley,County Clerk,,,Over Votes,0
+Grant,Long Creek Valley,County Clerk,,,Under Votes,82
+Grant,Long Creek Valley,County Sheriff,,,Scott Moore,61
+Grant,Long Creek Valley,County Sheriff,,,Todd McKinley,199
+Grant,Long Creek Valley,County Sheriff,,,Write-ins,1
+Grant,Long Creek Valley,County Sheriff,,,Over Votes,0
+Grant,Long Creek Valley,County Sheriff,,,Under Votes,4
+Grant,Long Creek Valley,County Treasurer,,,Danielle Kimball,93
+Grant,Long Creek Valley,County Treasurer,,,Julie Ellison,106
+Grant,Long Creek Valley,County Treasurer,,,Write-ins,0
+Grant,Long Creek Valley,County Treasurer,,,Over Votes,0
+Grant,Long Creek Valley,County Treasurer,,,Under Votes,66
+Grant,Long Creek Valley,State Measure 115,,,Yes,66
+Grant,Long Creek Valley,State Measure 115,,,No,181
+Grant,Long Creek Valley,State Measure 115,,,Over Votes,0
+Grant,Long Creek Valley,State Measure 115,,,Under Votes,18
+Grant,Long Creek Valley,State Measure 116,,,Yes,49
+Grant,Long Creek Valley,State Measure 116,,,No,199
+Grant,Long Creek Valley,State Measure 116,,,Over Votes,0
+Grant,Long Creek Valley,State Measure 116,,,Under Votes,17
+Grant,Long Creek Valley,State Measure 117,,,Yes,50
+Grant,Long Creek Valley,State Measure 117,,,No,199
+Grant,Long Creek Valley,State Measure 117,,,Over Votes,0
+Grant,Long Creek Valley,State Measure 117,,,Under Votes,16
+Grant,Long Creek Valley,State Measure 118,,,Yes,18
+Grant,Long Creek Valley,State Measure 118,,,No,232
+Grant,Long Creek Valley,State Measure 118,,,Over Votes,0
+Grant,Long Creek Valley,State Measure 118,,,Under Votes,15
+Grant,Long Creek Valley,State Measure 119,,,Yes,57
+Grant,Long Creek Valley,State Measure 119,,,No,184
+Grant,Long Creek Valley,State Measure 119,,,Over Votes,1
+Grant,Long Creek Valley,State Measure 119,,,Under Votes,23
