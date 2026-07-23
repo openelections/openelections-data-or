@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,votes
-,Registered Voters,,,Linn,Precinct 001,30
-,Ballots Cast,,,Linn,Precinct 001,8
+,Registered Voters,,IND,Linn,Precinct 001,30
+,Ballots Cast,,IND,Linn,Precinct 001,8
 Write In,U.S. House,4,IND,Linn,Precinct 001,3
 Overvote,U.S. House,4,IND,Linn,Precinct 001,0
 Undervote,U.S. House,4,IND,Linn,Precinct 001,5
@@ -26,8 +26,8 @@ Undervote,State House,15,IND,Linn,Precinct 001,5
 Write In,State House,17,IND,Linn,Precinct 001,
 Overvote,State House,17,IND,Linn,Precinct 001,
 Undervote,State House,17,IND,Linn,Precinct 001,
-,Registered Voters,,,Linn,Precinct 001,311
-,Ballots Cast,,,Linn,Precinct 001,178
+,Registered Voters,,DEM,Linn,Precinct 001,311
+,Ballots Cast,,DEM,Linn,Precinct 001,178
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 001,10
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 001,162
 Write In,U.S. House,4,DEM,Linn,Precinct 001,0
@@ -60,8 +60,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 001,
 Write In,State House,17,DEM,Linn,Precinct 001,
 Overvote,State House,17,DEM,Linn,Precinct 001,
 Undervote,State House,17,DEM,Linn,Precinct 001,
-,Registered Voters,,,Linn,Precinct 001,169
-,Ballots Cast,,,Linn,Precinct 001,81
+,Registered Voters,,REP,Linn,Precinct 001,169
+,Ballots Cast,,REP,Linn,Precinct 001,81
 Michael Polen,U.S. House,4,REP,Linn,Precinct 001,3
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 001,27
 Court Boice,U.S. House,4,REP,Linn,Precinct 001,9
@@ -111,8 +111,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 001,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 001,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 001,68
-,Registered Voters,,,,Precinct 003,36
-,Ballots Cast,,,,Precinct 003,10
+,Registered Voters,,IND,,Precinct 003,36
+,Ballots Cast,,IND,,Precinct 003,10
 Write In,U.S. House,4,IND,Linn,Precinct 003,5
 Overvote,U.S. House,4,IND,Linn,Precinct 003,0
 Undervote,U.S. House,4,IND,Linn,Precinct 003,5
@@ -138,8 +138,8 @@ Undervote,State House,15,IND,Linn,Precinct 003,3
 Write In,State House,17,IND,Linn,Precinct 003,
 Overvote,State House,17,IND,Linn,Precinct 003,
 Undervote,State House,17,IND,Linn,Precinct 003,
-,Registered Voters,,,Linn,Precinct 003,252
-,Ballots Cast,,,Linn,Precinct 003,135
+,Registered Voters,,DEM,Linn,Precinct 003,252
+,Ballots Cast,,DEM,Linn,Precinct 003,135
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 003,5
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 003,127
 Write In,U.S. House,4,DEM,Linn,Precinct 003,0
@@ -172,8 +172,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 003,
 Write In,State House,17,DEM,Linn,Precinct 003,
 Overvote,State House,17,DEM,Linn,Precinct 003,
 Undervote,State House,17,DEM,Linn,Precinct 003,
-,Registered Voters,,,Linn,Precinct 003,155
-,Ballots Cast,,,Linn,Precinct 003,87
+,Registered Voters,,REP,Linn,Precinct 003,155
+,Ballots Cast,,REP,Linn,Precinct 003,87
 Michael Polen,U.S. House,4,REP,Linn,Precinct 003,7
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 003,27
 Court Boice,U.S. House,4,REP,Linn,Precinct 003,11
@@ -223,8 +223,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 003,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 003,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 003,62
-,Registered Voters,,,,Precinct 005,58
-,Ballots Cast,,,,Precinct 005,11
+,Registered Voters,,IND,,Precinct 005,58
+,Ballots Cast,,IND,,Precinct 005,11
 Write In,U.S. House,4,IND,Linn,Precinct 005,2
 Overvote,U.S. House,4,IND,Linn,Precinct 005,0
 Undervote,U.S. House,4,IND,Linn,Precinct 005,9
@@ -250,8 +250,8 @@ Undervote,State House,15,IND,Linn,Precinct 005,4
 Write In,State House,17,IND,Linn,Precinct 005,
 Overvote,State House,17,IND,Linn,Precinct 005,
 Undervote,State House,17,IND,Linn,Precinct 005,
-,Registered Voters,,,Linn,Precinct 005,340
-,Ballots Cast,,,Linn,Precinct 005,119
+,Registered Voters,,DEM,Linn,Precinct 005,340
+,Ballots Cast,,DEM,Linn,Precinct 005,119
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 005,10
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 005,104
 Write In,U.S. House,4,DEM,Linn,Precinct 005,0
@@ -284,8 +284,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 005,
 Write In,State House,17,DEM,Linn,Precinct 005,
 Overvote,State House,17,DEM,Linn,Precinct 005,
 Undervote,State House,17,DEM,Linn,Precinct 005,
-,Registered Voters,,,Linn,Precinct 005,243
-,Ballots Cast,,,Linn,Precinct 005,90
+,Registered Voters,,REP,Linn,Precinct 005,243
+,Ballots Cast,,REP,Linn,Precinct 005,90
 Michael Polen,U.S. House,4,REP,Linn,Precinct 005,6
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 005,27
 Court Boice,U.S. House,4,REP,Linn,Precinct 005,8
@@ -335,8 +335,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 005,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 005,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 005,53
-,Registered Voters,,,Linn,Precinct 008,75
-,Ballots Cast,,,Linn,Precinct 008,17
+,Registered Voters,,IND,Linn,Precinct 008,75
+,Ballots Cast,,IND,Linn,Precinct 008,17
 Write In,U.S. House,4,IND,Linn,Precinct 008,8
 Overvote,U.S. House,4,IND,Linn,Precinct 008,0
 Undervote,U.S. House,4,IND,Linn,Precinct 008,9
@@ -362,8 +362,8 @@ Undervote,State House,15,IND,Linn,Precinct 008,6
 Write In,State House,17,IND,Linn,Precinct 008,
 Overvote,State House,17,IND,Linn,Precinct 008,
 Undervote,State House,17,IND,Linn,Precinct 008,
-,Registered Voters,,,Linn,Precinct 008,424
-,Ballots Cast,,,Linn,Precinct 008,142
+,Registered Voters,,DEM,Linn,Precinct 008,424
+,Ballots Cast,,DEM,Linn,Precinct 008,142
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 008,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 008,111
 Write In,U.S. House,4,DEM,Linn,Precinct 008,6
@@ -396,8 +396,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 008,
 Write In,State House,17,DEM,Linn,Precinct 008,
 Overvote,State House,17,DEM,Linn,Precinct 008,
 Undervote,State House,17,DEM,Linn,Precinct 008,
-,Registered Voters,,,Linn,Precinct 008,304
-,Ballots Cast,,,Linn,Precinct 008,149
+,Registered Voters,,REP,Linn,Precinct 008,304
+,Ballots Cast,,REP,Linn,Precinct 008,149
 Michael Polen,U.S. House,4,REP,Linn,Precinct 008,16
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 008,41
 Court Boice,U.S. House,4,REP,Linn,Precinct 008,13
@@ -447,8 +447,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 008,7
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 008,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 008,98
-,Registered Voters,,,Linn,Precinct 011,39
-,Ballots Cast,,,Linn,Precinct 011,12
+,Registered Voters,,IND,Linn,Precinct 011,39
+,Ballots Cast,,IND,Linn,Precinct 011,12
 Write In,U.S. House,4,IND,Linn,Precinct 011,5
 Overvote,U.S. House,4,IND,Linn,Precinct 011,0
 Undervote,U.S. House,4,IND,Linn,Precinct 011,7
@@ -474,8 +474,8 @@ Undervote,State House,15,IND,Linn,Precinct 011,6
 Write In,State House,17,IND,Linn,Precinct 011,
 Overvote,State House,17,IND,Linn,Precinct 011,
 Undervote,State House,17,IND,Linn,Precinct 011,
-,Registered Voters,,,Linn,Precinct 011,249
-,Ballots Cast,,,Linn,Precinct 011,111
+,Registered Voters,,DEM,Linn,Precinct 011,249
+,Ballots Cast,,DEM,Linn,Precinct 011,111
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 011,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 011,93
 Write In,U.S. House,4,DEM,Linn,Precinct 011,0
@@ -508,8 +508,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 011,
 Write In,State House,17,DEM,Linn,Precinct 011,
 Overvote,State House,17,DEM,Linn,Precinct 011,
 Undervote,State House,17,DEM,Linn,Precinct 011,
-,Registered Voters,,,Linn,Precinct 011,174
-,Ballots Cast,,,Linn,Precinct 011,83
+,Registered Voters,,REP,Linn,Precinct 011,174
+,Ballots Cast,,REP,Linn,Precinct 011,83
 Michael Polen,U.S. House,4,REP,Linn,Precinct 011,6
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 011,30
 Court Boice,U.S. House,4,REP,Linn,Precinct 011,8
@@ -559,8 +559,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 011,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 011,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 011,67
-,Registered Voters,,,Linn,Precinct 014,47
-,Ballots Cast,,,Linn,Precinct 014,15
+,Registered Voters,,IND,Linn,Precinct 014,47
+,Ballots Cast,,IND,Linn,Precinct 014,15
 Write In,U.S. House,4,IND,Linn,Precinct 014,5
 Overvote,U.S. House,4,IND,Linn,Precinct 014,0
 Undervote,U.S. House,4,IND,Linn,Precinct 014,10
@@ -586,8 +586,8 @@ Undervote,State House,15,IND,Linn,Precinct 014,5
 Write In,State House,17,IND,Linn,Precinct 014,
 Overvote,State House,17,IND,Linn,Precinct 014,
 Undervote,State House,17,IND,Linn,Precinct 014,
-,Registered Voters,,,Linn,Precinct 014,339
-,Ballots Cast,,,Linn,Precinct 014,111
+,Registered Voters,,DEM,Linn,Precinct 014,339
+,Ballots Cast,,DEM,Linn,Precinct 014,111
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 014,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 014,90
 Write In,U.S. House,4,DEM,Linn,Precinct 014,3
@@ -620,8 +620,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 014,
 Write In,State House,17,DEM,Linn,Precinct 014,
 Overvote,State House,17,DEM,Linn,Precinct 014,
 Undervote,State House,17,DEM,Linn,Precinct 014,
-,Registered Voters,,,Linn,Precinct 014,235
-,Ballots Cast,,,Linn,Precinct 014,94
+,Registered Voters,,REP,Linn,Precinct 014,235
+,Ballots Cast,,REP,Linn,Precinct 014,94
 Michael Polen,U.S. House,4,REP,Linn,Precinct 014,1
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 014,26
 Court Boice,U.S. House,4,REP,Linn,Precinct 014,9
@@ -671,8 +671,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 014,4
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 014,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 014,61
-,Registered Voters,,,Linn,Precinct 015,22
-,Ballots Cast,,,Linn,Precinct 015,5
+,Registered Voters,,IND,Linn,Precinct 015,22
+,Ballots Cast,,IND,Linn,Precinct 015,5
 Write In,U.S. House,4,IND,Linn,Precinct 015,1
 Overvote,U.S. House,4,IND,Linn,Precinct 015,0
 Undervote,U.S. House,4,IND,Linn,Precinct 015,4
@@ -698,8 +698,8 @@ Undervote,State House,15,IND,Linn,Precinct 015,1
 Write In,State House,17,IND,Linn,Precinct 015,
 Overvote,State House,17,IND,Linn,Precinct 015,
 Undervote,State House,17,IND,Linn,Precinct 015,
-,Registered Voters,,,Linn,Precinct 015,110
-,Ballots Cast,,,Linn,Precinct 015,30
+,Registered Voters,,DEM,Linn,Precinct 015,110
+,Ballots Cast,,DEM,Linn,Precinct 015,30
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 015,1
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 015,27
 Write In,U.S. House,4,DEM,Linn,Precinct 015,2
@@ -732,8 +732,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 015,
 Write In,State House,17,DEM,Linn,Precinct 015,
 Overvote,State House,17,DEM,Linn,Precinct 015,
 Undervote,State House,17,DEM,Linn,Precinct 015,
-,Registered Voters,,,Linn,Precinct 015,85
-,Ballots Cast,,,Linn,Precinct 015,43
+,Registered Voters,,REP,Linn,Precinct 015,85
+,Ballots Cast,,REP,Linn,Precinct 015,43
 Michael Polen,U.S. House,4,REP,Linn,Precinct 015,4
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 015,19
 Court Boice,U.S. House,4,REP,Linn,Precinct 015,2
@@ -783,8 +783,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 015,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 015,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 015,19
-,Registered Voters,,,Linn,Precinct 016,55
-,Ballots Cast,,,Linn,Precinct 016,13
+,Registered Voters,,IND,Linn,Precinct 016,55
+,Ballots Cast,,IND,Linn,Precinct 016,13
 Write In,U.S. House,4,IND,Linn,Precinct 016,5
 Overvote,U.S. House,4,IND,Linn,Precinct 016,0
 Undervote,U.S. House,4,IND,Linn,Precinct 016,8
@@ -810,8 +810,8 @@ Undervote,State House,15,IND,Linn,Precinct 016,8
 Write In,State House,17,IND,Linn,Precinct 016,
 Overvote,State House,17,IND,Linn,Precinct 016,
 Undervote,State House,17,IND,Linn,Precinct 016,
-,Registered Voters,,,Linn,Precinct 016,307
-,Ballots Cast,,,Linn,Precinct 016,150
+,Registered Voters,,DEM,Linn,Precinct 016,307
+,Ballots Cast,,DEM,Linn,Precinct 016,150
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 016,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 016,135
 Write In,U.S. House,4,DEM,Linn,Precinct 016,0
@@ -844,8 +844,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 016,
 Write In,State House,17,DEM,Linn,Precinct 016,
 Overvote,State House,17,DEM,Linn,Precinct 016,
 Undervote,State House,17,DEM,Linn,Precinct 016,
-,Registered Voters,,,Linn,Precinct 016,239
-,Ballots Cast,,,Linn,Precinct 016,124
+,Registered Voters,,REP,Linn,Precinct 016,239
+,Ballots Cast,,REP,Linn,Precinct 016,124
 Michael Polen,U.S. House,4,REP,Linn,Precinct 016,8
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 016,44
 Court Boice,U.S. House,4,REP,Linn,Precinct 016,16
@@ -895,8 +895,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 016,4
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 016,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 016,82
-,Registered Voters,,,Linn,Precinct 018,138
-,Ballots Cast,,,Linn,Precinct 018,46
+,Registered Voters,,IND,Linn,Precinct 018,138
+,Ballots Cast,,IND,Linn,Precinct 018,46
 Write In,U.S. House,4,IND,Linn,Precinct 018,12
 Overvote,U.S. House,4,IND,Linn,Precinct 018,0
 Undervote,U.S. House,4,IND,Linn,Precinct 018,34
@@ -922,8 +922,8 @@ Undervote,State House,15,IND,Linn,Precinct 018,18
 Write In,State House,17,IND,Linn,Precinct 018,
 Overvote,State House,17,IND,Linn,Precinct 018,
 Undervote,State House,17,IND,Linn,Precinct 018,
-,Registered Voters,,,Linn,Precinct 018,843
-,Ballots Cast,,,Linn,Precinct 018,357
+,Registered Voters,,DEM,Linn,Precinct 018,843
+,Ballots Cast,,DEM,Linn,Precinct 018,357
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 018,36
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 018,302
 Write In,U.S. House,4,DEM,Linn,Precinct 018,4
@@ -956,8 +956,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 018,
 Write In,State House,17,DEM,Linn,Precinct 018,
 Overvote,State House,17,DEM,Linn,Precinct 018,
 Undervote,State House,17,DEM,Linn,Precinct 018,
-,Registered Voters,,,Linn,Precinct 018,891
-,Ballots Cast,,,Linn,Precinct 018,436
+,Registered Voters,,REP,Linn,Precinct 018,891
+,Ballots Cast,,REP,Linn,Precinct 018,436
 Michael Polen,U.S. House,4,REP,Linn,Precinct 018,18
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 018,135
 Court Boice,U.S. House,4,REP,Linn,Precinct 018,66
@@ -1007,8 +1007,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 018,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 018,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 018,266
-,Registered Voters,,,Linn,Precinct 019,47
-,Ballots Cast,,,Linn,Precinct 019,17
+,Registered Voters,,IND,Linn,Precinct 019,47
+,Ballots Cast,,IND,Linn,Precinct 019,17
 Write In,U.S. House,4,IND,Linn,Precinct 019,8
 Overvote,U.S. House,4,IND,Linn,Precinct 019,0
 Undervote,U.S. House,4,IND,Linn,Precinct 019,9
@@ -1034,8 +1034,8 @@ Undervote,State House,15,IND,Linn,Precinct 019,7
 Write In,State House,17,IND,Linn,Precinct 019,
 Overvote,State House,17,IND,Linn,Precinct 019,
 Undervote,State House,17,IND,Linn,Precinct 019,
-,Registered Voters,,,Linn,Precinct 019,276
-,Ballots Cast,,,Linn,Precinct 019,155
+,Registered Voters,,DEM,Linn,Precinct 019,276
+,Ballots Cast,,DEM,Linn,Precinct 019,155
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 019,18
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 019,127
 Write In,U.S. House,4,DEM,Linn,Precinct 019,3
@@ -1068,8 +1068,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 019,
 Write In,State House,17,DEM,Linn,Precinct 019,
 Overvote,State House,17,DEM,Linn,Precinct 019,
 Undervote,State House,17,DEM,Linn,Precinct 019,
-,Registered Voters,,,Linn,Precinct 019,351
-,Ballots Cast,,,Linn,Precinct 019,209
+,Registered Voters,,REP,Linn,Precinct 019,351
+,Ballots Cast,,REP,Linn,Precinct 019,209
 Michael Polen,U.S. House,4,REP,Linn,Precinct 019,8
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 019,66
 Court Boice,U.S. House,4,REP,Linn,Precinct 019,13
@@ -1119,8 +1119,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 019,5
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 019,1
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 019,106
-,Registered Voters,,,Linn,Precinct 020,31
-,Ballots Cast,,,Linn,Precinct 020,11
+,Registered Voters,,IND,Linn,Precinct 020,31
+,Ballots Cast,,IND,Linn,Precinct 020,11
 Write In,U.S. House,4,IND,Linn,Precinct 020,2
 Overvote,U.S. House,4,IND,Linn,Precinct 020,0
 Undervote,U.S. House,4,IND,Linn,Precinct 020,9
@@ -1146,8 +1146,8 @@ Undervote,State House,15,IND,Linn,Precinct 020,
 Write In,State House,17,IND,Linn,Precinct 020,3
 Overvote,State House,17,IND,Linn,Precinct 020,0
 Undervote,State House,17,IND,Linn,Precinct 020,8
-,Registered Voters,,,Linn,Precinct 020,178
-,Ballots Cast,,,Linn,Precinct 020,82
+,Registered Voters,,DEM,Linn,Precinct 020,178
+,Ballots Cast,,DEM,Linn,Precinct 020,82
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 020,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 020,59
 Write In,U.S. House,4,DEM,Linn,Precinct 020,2
@@ -1180,8 +1180,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 020,41
 Write In,State House,17,DEM,Linn,Precinct 020,2
 Overvote,State House,17,DEM,Linn,Precinct 020,0
 Undervote,State House,17,DEM,Linn,Precinct 020,39
-,Registered Voters,,,Linn,Precinct 020,298
-,Ballots Cast,,,Linn,Precinct 020,148
+,Registered Voters,,REP,Linn,Precinct 020,298
+,Ballots Cast,,REP,Linn,Precinct 020,148
 Michael Polen,U.S. House,4,REP,Linn,Precinct 020,5
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 020,26
 Court Boice,U.S. House,4,REP,Linn,Precinct 020,16
@@ -1231,8 +1231,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 020,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 020,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 020,77
-,Registered Voters,,,Linn,Precinct 021,14
-,Ballots Cast,,,Linn,Precinct 021,5
+,Registered Voters,,IND,Linn,Precinct 021,14
+,Ballots Cast,,IND,Linn,Precinct 021,5
 Write In,U.S. House,4,IND,Linn,Precinct 021,3
 Overvote,U.S. House,4,IND,Linn,Precinct 021,0
 Undervote,U.S. House,4,IND,Linn,Precinct 021,2
@@ -1258,8 +1258,8 @@ Undervote,State House,15,IND,Linn,Precinct 021,
 Write In,State House,17,IND,Linn,Precinct 021,
 Overvote,State House,17,IND,Linn,Precinct 021,
 Undervote,State House,17,IND,Linn,Precinct 021,
-,Registered Voters,,,Linn,Precinct 021,64
-,Ballots Cast,,,Linn,Precinct 021,36
+,Registered Voters,,DEM,Linn,Precinct 021,64
+,Ballots Cast,,DEM,Linn,Precinct 021,36
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 021,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 021,27
 Write In,U.S. House,4,DEM,Linn,Precinct 021,0
@@ -1292,8 +1292,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 021,
 Write In,State House,17,DEM,Linn,Precinct 021,
 Overvote,State House,17,DEM,Linn,Precinct 021,
 Undervote,State House,17,DEM,Linn,Precinct 021,
-,Registered Voters,,,Linn,Precinct 021,168
-,Ballots Cast,,,Linn,Precinct 021,97
+,Registered Voters,,REP,Linn,Precinct 021,168
+,Ballots Cast,,REP,Linn,Precinct 021,97
 Michael Polen,U.S. House,4,REP,Linn,Precinct 021,6
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 021,21
 Court Boice,U.S. House,4,REP,Linn,Precinct 021,19
@@ -1343,8 +1343,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 021,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 021,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 021,22
-,Registered Voters,,,Linn,Precinct 022,6
-,Ballots Cast,,,Linn,Precinct 022,2
+,Registered Voters,,IND,Linn,Precinct 022,6
+,Ballots Cast,,IND,Linn,Precinct 022,2
 Write In,U.S. House,4,IND,Linn,Precinct 022,2
 Overvote,U.S. House,4,IND,Linn,Precinct 022,0
 Undervote,U.S. House,4,IND,Linn,Precinct 022,0
@@ -1370,8 +1370,8 @@ Undervote,State House,15,IND,Linn,Precinct 022,0
 Write In,State House,17,IND,Linn,Precinct 022,
 Overvote,State House,17,IND,Linn,Precinct 022,
 Undervote,State House,17,IND,Linn,Precinct 022,
-,Registered Voters,,,Linn,Precinct 022,19
-,Ballots Cast,,,Linn,Precinct 022,7
+,Registered Voters,,DEM,Linn,Precinct 022,19
+,Ballots Cast,,DEM,Linn,Precinct 022,7
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 022,2
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 022,5
 Write In,U.S. House,4,DEM,Linn,Precinct 022,0
@@ -1404,8 +1404,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 022,
 Write In,State House,17,DEM,Linn,Precinct 022,
 Overvote,State House,17,DEM,Linn,Precinct 022,
 Undervote,State House,17,DEM,Linn,Precinct 022,
-,Registered Voters,,,Linn,Precinct 022,59
-,Ballots Cast,,,Linn,Precinct 022,31
+,Registered Voters,,REP,Linn,Precinct 022,59
+,Ballots Cast,,REP,Linn,Precinct 022,31
 Michael Polen,U.S. House,4,REP,Linn,Precinct 022,4
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 022,12
 Court Boice,U.S. House,4,REP,Linn,Precinct 022,1
@@ -1455,8 +1455,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 022,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 022,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 022,6
-,Registered Voters,,,Linn,Precinct 023,38
-,Ballots Cast,,,Linn,Precinct 023,9
+,Registered Voters,,IND,Linn,Precinct 023,38
+,Ballots Cast,,IND,Linn,Precinct 023,9
 Write In,U.S. House,4,IND,Linn,Precinct 023,4
 Overvote,U.S. House,4,IND,Linn,Precinct 023,0
 Undervote,U.S. House,4,IND,Linn,Precinct 023,5
@@ -1482,8 +1482,8 @@ Undervote,State House,15,IND,Linn,Precinct 023,
 Write In,State House,17,IND,Linn,Precinct 023,
 Overvote,State House,17,IND,Linn,Precinct 023,
 Undervote,State House,17,IND,Linn,Precinct 023,
-,Registered Voters,,,Linn,Precinct 023,197
-,Ballots Cast,,,Linn,Precinct 023,85
+,Registered Voters,,DEM,Linn,Precinct 023,197
+,Ballots Cast,,DEM,Linn,Precinct 023,85
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 023,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 023,68
 Write In,U.S. House,4,DEM,Linn,Precinct 023,0
@@ -1516,8 +1516,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 023,
 Write In,State House,17,DEM,Linn,Precinct 023,
 Overvote,State House,17,DEM,Linn,Precinct 023,
 Undervote,State House,17,DEM,Linn,Precinct 023,
-,Registered Voters,,,Linn,Precinct 023,390
-,Ballots Cast,,,Linn,Precinct 023,201
+,Registered Voters,,REP,Linn,Precinct 023,390
+,Ballots Cast,,REP,Linn,Precinct 023,201
 Michael Polen,U.S. House,4,REP,Linn,Precinct 023,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 023,36
 Court Boice,U.S. House,4,REP,Linn,Precinct 023,20
@@ -1567,8 +1567,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 023,5
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 023,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 023,66
-,Registered Voters,,,Linn,Precinct 025,65
-,Ballots Cast,,,Linn,Precinct 025,19
+,Registered Voters,,IND,Linn,Precinct 025,65
+,Ballots Cast,,IND,Linn,Precinct 025,19
 Write In,U.S. House,4,IND,Linn,Precinct 025,5
 Overvote,U.S. House,4,IND,Linn,Precinct 025,0
 Undervote,U.S. House,4,IND,Linn,Precinct 025,14
@@ -1594,8 +1594,8 @@ Undervote,State House,15,IND,Linn,Precinct 025,
 Write In,State House,17,IND,Linn,Precinct 025,3
 Overvote,State House,17,IND,Linn,Precinct 025,0
 Undervote,State House,17,IND,Linn,Precinct 025,16
-,Registered Voters,,,Linn,Precinct 025,291
-,Ballots Cast,,,Linn,Precinct 025,111
+,Registered Voters,,DEM,Linn,Precinct 025,291
+,Ballots Cast,,DEM,Linn,Precinct 025,111
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 025,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 025,97
 Write In,U.S. House,4,DEM,Linn,Precinct 025,0
@@ -1628,8 +1628,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 025,78
 Write In,State House,17,DEM,Linn,Precinct 025,1
 Overvote,State House,17,DEM,Linn,Precinct 025,0
 Undervote,State House,17,DEM,Linn,Precinct 025,32
-,Registered Voters,,,Linn,Precinct 025,371
-,Ballots Cast,,,Linn,Precinct 025,172
+,Registered Voters,,REP,Linn,Precinct 025,371
+,Ballots Cast,,REP,Linn,Precinct 025,172
 Michael Polen,U.S. House,4,REP,Linn,Precinct 025,17
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 025,44
 Court Boice,U.S. House,4,REP,Linn,Precinct 025,12
@@ -1679,8 +1679,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 025,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 025,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 025,51
-,Registered Voters,,,Linn,Precinct 026,12
-,Ballots Cast,,,Linn,Precinct 026,2
+,Registered Voters,,IND,Linn,Precinct 026,12
+,Ballots Cast,,IND,Linn,Precinct 026,2
 Write In,U.S. House,4,IND,Linn,Precinct 026,0
 Overvote,U.S. House,4,IND,Linn,Precinct 026,0
 Undervote,U.S. House,4,IND,Linn,Precinct 026,2
@@ -1706,8 +1706,8 @@ Undervote,State House,15,IND,Linn,Precinct 026,1
 Write In,State House,17,IND,Linn,Precinct 026,
 Overvote,State House,17,IND,Linn,Precinct 026,
 Undervote,State House,17,IND,Linn,Precinct 026,
-,Registered Voters,,,Linn,Precinct 026,65
-,Ballots Cast,,,Linn,Precinct 026,43
+,Registered Voters,,DEM,Linn,Precinct 026,65
+,Ballots Cast,,DEM,Linn,Precinct 026,43
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 026,6
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 026,33
 Write In,U.S. House,4,DEM,Linn,Precinct 026,1
@@ -1740,8 +1740,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 026,
 Write In,State House,17,DEM,Linn,Precinct 026,
 Overvote,State House,17,DEM,Linn,Precinct 026,
 Undervote,State House,17,DEM,Linn,Precinct 026,
-,Registered Voters,,,Linn,Precinct 026,117
-,Ballots Cast,,,Linn,Precinct 026,62
+,Registered Voters,,REP,Linn,Precinct 026,117
+,Ballots Cast,,REP,Linn,Precinct 026,62
 Michael Polen,U.S. House,4,REP,Linn,Precinct 026,4
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 026,17
 Court Boice,U.S. House,4,REP,Linn,Precinct 026,7
@@ -1791,8 +1791,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 026,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 026,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 026,40
-,Registered Voters,,,Linn,Precinct 027,33
-,Ballots Cast,,,Linn,Precinct 027,8
+,Registered Voters,,IND,Linn,Precinct 027,33
+,Ballots Cast,,IND,Linn,Precinct 027,8
 Write In,U.S. House,4,IND,Linn,Precinct 027,1
 Overvote,U.S. House,4,IND,Linn,Precinct 027,0
 Undervote,U.S. House,4,IND,Linn,Precinct 027,7
@@ -1818,8 +1818,8 @@ Undervote,State House,15,IND,Linn,Precinct 027,
 Write In,State House,17,IND,Linn,Precinct 027,
 Overvote,State House,17,IND,Linn,Precinct 027,
 Undervote,State House,17,IND,Linn,Precinct 027,
-,Registered Voters,,,Linn,Precinct 027,169
-,Ballots Cast,,,Linn,Precinct 027,95
+,Registered Voters,,DEM,Linn,Precinct 027,169
+,Ballots Cast,,DEM,Linn,Precinct 027,95
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 027,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 027,78
 Write In,U.S. House,4,DEM,Linn,Precinct 027,0
@@ -1852,8 +1852,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 027,
 Write In,State House,17,DEM,Linn,Precinct 027,
 Overvote,State House,17,DEM,Linn,Precinct 027,
 Undervote,State House,17,DEM,Linn,Precinct 027,
-,Registered Voters,,,Linn,Precinct 027,294
-,Ballots Cast,,,Linn,Precinct 027,157
+,Registered Voters,,REP,Linn,Precinct 027,294
+,Ballots Cast,,REP,Linn,Precinct 027,157
 Michael Polen,U.S. House,4,REP,Linn,Precinct 027,11
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 027,22
 Court Boice,U.S. House,4,REP,Linn,Precinct 027,32
@@ -1903,8 +1903,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 027,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 027,1
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 027,93
-,Registered Voters,,,Linn,Precinct 028,12
-,Ballots Cast,,,Linn,Precinct 028,3
+,Registered Voters,,IND,Linn,Precinct 028,12
+,Ballots Cast,,IND,Linn,Precinct 028,3
 Write In,U.S. House,4,IND,Linn,Precinct 028,3
 Overvote,U.S. House,4,IND,Linn,Precinct 028,0
 Undervote,U.S. House,4,IND,Linn,Precinct 028,0
@@ -1930,8 +1930,8 @@ Undervote,State House,15,IND,Linn,Precinct 028,
 Write In,State House,17,IND,Linn,Precinct 028,
 Overvote,State House,17,IND,Linn,Precinct 028,
 Undervote,State House,17,IND,Linn,Precinct 028,
-,Registered Voters,,,Linn,Precinct 028,38
-,Ballots Cast,,,Linn,Precinct 028,19
+,Registered Voters,,DEM,Linn,Precinct 028,38
+,Ballots Cast,,DEM,Linn,Precinct 028,19
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 028,1
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 028,17
 Write In,U.S. House,4,DEM,Linn,Precinct 028,0
@@ -1964,8 +1964,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 028,
 Write In,State House,17,DEM,Linn,Precinct 028,
 Overvote,State House,17,DEM,Linn,Precinct 028,
 Undervote,State House,17,DEM,Linn,Precinct 028,
-,Registered Voters,,,Linn,Precinct 028,127
-,Ballots Cast,,,Linn,Precinct 028,61
+,Registered Voters,,REP,Linn,Precinct 028,127
+,Ballots Cast,,REP,Linn,Precinct 028,61
 Michael Polen,U.S. House,4,REP,Linn,Precinct 028,0
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 028,9
 Court Boice,U.S. House,4,REP,Linn,Precinct 028,8
@@ -2015,8 +2015,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 028,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 028,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 028,28
-,Registered Voters,,,Linn,Precinct 029,12
-,Ballots Cast,,,Linn,Precinct 029,3
+,Registered Voters,,IND,Linn,Precinct 029,12
+,Ballots Cast,,IND,Linn,Precinct 029,3
 Write In,U.S. House,4,IND,Linn,Precinct 029,23
 Overvote,U.S. House,4,IND,Linn,Precinct 029,4
 Undervote,U.S. House,4,IND,Linn,Precinct 029,4
@@ -2042,8 +2042,8 @@ Undervote,State House,15,IND,Linn,Precinct 029,
 Write In,State House,17,IND,Linn,Precinct 029,
 Overvote,State House,17,IND,Linn,Precinct 029,
 Undervote,State House,17,IND,Linn,Precinct 029,
-,Registered Voters,,,Linn,Precinct 029,453
-,Ballots Cast,,,Linn,Precinct 029,213
+,Registered Voters,,DEM,Linn,Precinct 029,453
+,Ballots Cast,,DEM,Linn,Precinct 029,213
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 029,29
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 029,166
 Write In,U.S. House,4,DEM,Linn,Precinct 029,3
@@ -2076,8 +2076,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 029,
 Write In,State House,17,DEM,Linn,Precinct 029,
 Overvote,State House,17,DEM,Linn,Precinct 029,
 Undervote,State House,17,DEM,Linn,Precinct 029,
-,Registered Voters,,,Linn,Precinct 029,885
-,Ballots Cast,,,Linn,Precinct 029,488
+,Registered Voters,,REP,Linn,Precinct 029,885
+,Ballots Cast,,REP,Linn,Precinct 029,488
 Michael Polen,U.S. House,4,REP,Linn,Precinct 029,37
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 029,88
 Court Boice,U.S. House,4,REP,Linn,Precinct 029,59
@@ -2127,8 +2127,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 029,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 029,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 029,238
-,Registered Voters,,,Linn,Precinct 030,22
-,Ballots Cast,,,Linn,Precinct 030,12
+,Registered Voters,,IND,Linn,Precinct 030,22
+,Ballots Cast,,IND,Linn,Precinct 030,12
 Write In,U.S. House,4,IND,Linn,Precinct 030,11
 Overvote,U.S. House,4,IND,Linn,Precinct 030,0
 Undervote,U.S. House,4,IND,Linn,Precinct 030,1
@@ -2154,8 +2154,8 @@ Undervote,State House,15,IND,Linn,Precinct 030,
 Write In,State House,17,IND,Linn,Precinct 030,
 Overvote,State House,17,IND,Linn,Precinct 030,
 Undervote,State House,17,IND,Linn,Precinct 030,
-,Registered Voters,,,Linn,Precinct 030,31
-,Ballots Cast,,,Linn,Precinct 030,16
+,Registered Voters,,DEM,Linn,Precinct 030,31
+,Ballots Cast,,DEM,Linn,Precinct 030,16
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 030,3
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 030,12
 Write In,U.S. House,4,DEM,Linn,Precinct 030,0
@@ -2188,8 +2188,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 030,
 Write In,State House,17,DEM,Linn,Precinct 030,
 Overvote,State House,17,DEM,Linn,Precinct 030,
 Undervote,State House,17,DEM,Linn,Precinct 030,
-,Registered Voters,,,Linn,Precinct 030,122
-,Ballots Cast,,,Linn,Precinct 030,64
+,Registered Voters,,REP,Linn,Precinct 030,122
+,Ballots Cast,,REP,Linn,Precinct 030,64
 Michael Polen,U.S. House,4,REP,Linn,Precinct 030,2
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 030,14
 Court Boice,U.S. House,4,REP,Linn,Precinct 030,14
@@ -2239,8 +2239,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 030,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 030,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 030,26
-,Registered Voters,,,Linn,Precinct 031,27
-,Ballots Cast,,,Linn,Precinct 031,13
+,Registered Voters,,IND,Linn,Precinct 031,27
+,Ballots Cast,,IND,Linn,Precinct 031,13
 Write In,U.S. House,4,IND,Linn,Precinct 031,6
 Overvote,U.S. House,4,IND,Linn,Precinct 031,0
 Undervote,U.S. House,4,IND,Linn,Precinct 031,7
@@ -2266,8 +2266,8 @@ Undervote,State House,15,IND,Linn,Precinct 031,
 Write In,State House,17,IND,Linn,Precinct 031,
 Overvote,State House,17,IND,Linn,Precinct 031,
 Undervote,State House,17,IND,Linn,Precinct 031,
-,Registered Voters,,,Linn,Precinct 031,158
-,Ballots Cast,,,Linn,Precinct 031,51
+,Registered Voters,,DEM,Linn,Precinct 031,158
+,Ballots Cast,,DEM,Linn,Precinct 031,51
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 031,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 031,37
 Write In,U.S. House,4,DEM,Linn,Precinct 031,2
@@ -2300,8 +2300,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 031,
 Write In,State House,17,DEM,Linn,Precinct 031,
 Overvote,State House,17,DEM,Linn,Precinct 031,
 Undervote,State House,17,DEM,Linn,Precinct 031,
-,Registered Voters,,,Linn,Precinct 031,262
-,Ballots Cast,,,Linn,Precinct 031,143
+,Registered Voters,,REP,Linn,Precinct 031,262
+,Ballots Cast,,REP,Linn,Precinct 031,143
 Michael Polen,U.S. House,4,REP,Linn,Precinct 031,7
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 031,26
 Court Boice,U.S. House,4,REP,Linn,Precinct 031,20
@@ -2351,8 +2351,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 031,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 031,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 031,63
-,Registered Voters,,,Linn,Precinct 032,41
-,Ballots Cast,,,Linn,Precinct 032,10
+,Registered Voters,,IND,Linn,Precinct 032,41
+,Ballots Cast,,IND,Linn,Precinct 032,10
 Write In,U.S. House,4,IND,Linn,Precinct 032,1
 Overvote,U.S. House,4,IND,Linn,Precinct 032,0
 Undervote,U.S. House,4,IND,Linn,Precinct 032,9
@@ -2378,8 +2378,8 @@ Undervote,State House,15,IND,Linn,Precinct 032,
 Write In,State House,17,IND,Linn,Precinct 032,0
 Overvote,State House,17,IND,Linn,Precinct 032,0
 Undervote,State House,17,IND,Linn,Precinct 032,10
-,Registered Voters,,,Linn,Precinct 032,162
-,Ballots Cast,,,Linn,Precinct 032,79
+,Registered Voters,,DEM,Linn,Precinct 032,162
+,Ballots Cast,,DEM,Linn,Precinct 032,79
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 032,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 032,61
 Write In,U.S. House,4,DEM,Linn,Precinct 032,0
@@ -2412,8 +2412,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 032,45
 Write In,State House,17,DEM,Linn,Precinct 032,1
 Overvote,State House,17,DEM,Linn,Precinct 032,0
 Undervote,State House,17,DEM,Linn,Precinct 032,33
-,Registered Voters,,,Linn,Precinct 032,323
-,Ballots Cast,,,Linn,Precinct 032,177
+,Registered Voters,,REP,Linn,Precinct 032,323
+,Ballots Cast,,REP,Linn,Precinct 032,177
 Michael Polen,U.S. House,4,REP,Linn,Precinct 032,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 032,45
 Court Boice,U.S. House,4,REP,Linn,Precinct 032,11
@@ -2463,8 +2463,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 032,4
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 032,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 032,66
-,Registered Voters,,,Linn,Precinct 033,6
-,Ballots Cast,,,Linn,Precinct 033,2
+,Registered Voters,,IND,Linn,Precinct 033,6
+,Ballots Cast,,IND,Linn,Precinct 033,2
 Write In,U.S. House,4,IND,Linn,Precinct 033,0
 Overvote,U.S. House,4,IND,Linn,Precinct 033,0
 Undervote,U.S. House,4,IND,Linn,Precinct 033,2
@@ -2490,8 +2490,8 @@ Undervote,State House,15,IND,Linn,Precinct 033,
 Write In,State House,17,IND,Linn,Precinct 033,0
 Overvote,State House,17,IND,Linn,Precinct 033,0
 Undervote,State House,17,IND,Linn,Precinct 033,2
-,Registered Voters,,,Linn,Precinct 033,17
-,Ballots Cast,,,Linn,Precinct 033,6
+,Registered Voters,,DEM,Linn,Precinct 033,17
+,Ballots Cast,,DEM,Linn,Precinct 033,6
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 033,2
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 033,4
 Write In,U.S. House,4,DEM,Linn,Precinct 033,0
@@ -2524,8 +2524,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 033,4
 Write In,State House,17,DEM,Linn,Precinct 033,0
 Overvote,State House,17,DEM,Linn,Precinct 033,0
 Undervote,State House,17,DEM,Linn,Precinct 033,2
-,Registered Voters,,,Linn,Precinct 033,14
-,Ballots Cast,,,Linn,Precinct 033,9
+,Registered Voters,,REP,Linn,Precinct 033,14
+,Ballots Cast,,REP,Linn,Precinct 033,9
 Michael Polen,U.S. House,4,REP,Linn,Precinct 033,2
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 033,0
 Court Boice,U.S. House,4,REP,Linn,Precinct 033,0
@@ -2575,8 +2575,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 033,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 033,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 033,3
-,Registered Voters,,,Linn,Precinct 034,17
-,Ballots Cast,,,Linn,Precinct 034,6
+,Registered Voters,,IND,Linn,Precinct 034,17
+,Ballots Cast,,IND,Linn,Precinct 034,6
 Write In,U.S. House,4,IND,Linn,Precinct 034,2
 Overvote,U.S. House,4,IND,Linn,Precinct 034,0
 Undervote,U.S. House,4,IND,Linn,Precinct 034,4
@@ -2602,8 +2602,8 @@ Undervote,State House,15,IND,Linn,Precinct 034,2
 Write In,State House,17,IND,Linn,Precinct 034,
 Overvote,State House,17,IND,Linn,Precinct 034,
 Undervote,State House,17,IND,Linn,Precinct 034,
-,Registered Voters,,,Linn,Precinct 034,91
-,Ballots Cast,,,Linn,Precinct 034,36
+,Registered Voters,,DEM,Linn,Precinct 034,91
+,Ballots Cast,,DEM,Linn,Precinct 034,36
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 034,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 034,21
 Write In,U.S. House,4,DEM,Linn,Precinct 034,0
@@ -2636,8 +2636,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 034,
 Write In,State House,17,DEM,Linn,Precinct 034,
 Overvote,State House,17,DEM,Linn,Precinct 034,
 Undervote,State House,17,DEM,Linn,Precinct 034,
-,Registered Voters,,,Linn,Precinct 034,168
-,Ballots Cast,,,Linn,Precinct 034,104
+,Registered Voters,,REP,Linn,Precinct 034,168
+,Ballots Cast,,REP,Linn,Precinct 034,104
 Michael Polen,U.S. House,4,REP,Linn,Precinct 034,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 034,31
 Court Boice,U.S. House,4,REP,Linn,Precinct 034,9
@@ -2687,8 +2687,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 034,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 034,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 034,36
-,Registered Voters,,,Linn,Precinct 035,102
-,Ballots Cast,,,Linn,Precinct 035,29
+,Registered Voters,,IND,Linn,Precinct 035,102
+,Ballots Cast,,IND,Linn,Precinct 035,29
 Write In,U.S. House,4,IND,Linn,Precinct 035,13
 Overvote,U.S. House,4,IND,Linn,Precinct 035,0
 Undervote,U.S. House,4,IND,Linn,Precinct 035,16
@@ -2714,8 +2714,8 @@ Undervote,State House,15,IND,Linn,Precinct 035,
 Write In,State House,17,IND,Linn,Precinct 035,
 Overvote,State House,17,IND,Linn,Precinct 035,
 Undervote,State House,17,IND,Linn,Precinct 035,
-,Registered Voters,,,Linn,Precinct 035,401
-,Ballots Cast,,,Linn,Precinct 035,189
+,Registered Voters,,DEM,Linn,Precinct 035,401
+,Ballots Cast,,DEM,Linn,Precinct 035,189
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 035,26
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 035,151
 Write In,U.S. House,4,DEM,Linn,Precinct 035,4
@@ -2748,8 +2748,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 035,120
 Write In,State House,17,DEM,Linn,Precinct 035,7
 Overvote,State House,17,DEM,Linn,Precinct 035,0
 Undervote,State House,17,DEM,Linn,Precinct 035,62
-,Registered Voters,,,Linn,Precinct 035,563
-,Ballots Cast,,,Linn,Precinct 035,301
+,Registered Voters,,REP,Linn,Precinct 035,563
+,Ballots Cast,,REP,Linn,Precinct 035,301
 Michael Polen,U.S. House,4,REP,Linn,Precinct 035,19
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 035,76
 Court Boice,U.S. House,4,REP,Linn,Precinct 035,29
@@ -2799,8 +2799,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 035,4
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 035,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 035,119
-,Registered Voters,,,Linn,Precinct 036,72
-,Ballots Cast,,,Linn,Precinct 036,16
+,Registered Voters,,IND,Linn,Precinct 036,72
+,Ballots Cast,,IND,Linn,Precinct 036,16
 Write In,U.S. House,4,IND,Linn,Precinct 036,9
 Overvote,U.S. House,4,IND,Linn,Precinct 036,0
 Undervote,U.S. House,4,IND,Linn,Precinct 036,7
@@ -2826,8 +2826,8 @@ Undervote,State House,15,IND,Linn,Precinct 036,
 Write In,State House,17,IND,Linn,Precinct 036,
 Overvote,State House,17,IND,Linn,Precinct 036,
 Undervote,State House,17,IND,Linn,Precinct 036,
-,Registered Voters,,,Linn,Precinct 036,383
-,Ballots Cast,,,Linn,Precinct 036,156
+,Registered Voters,,DEM,Linn,Precinct 036,383
+,Ballots Cast,,DEM,Linn,Precinct 036,156
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 036,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 036,134
 Write In,U.S. House,4,DEM,Linn,Precinct 036,1
@@ -2860,8 +2860,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 036,109
 Write In,State House,17,DEM,Linn,Precinct 036,0
 Overvote,State House,17,DEM,Linn,Precinct 036,0
 Undervote,State House,17,DEM,Linn,Precinct 036,47
-,Registered Voters,,,Linn,Precinct 036,484
-,Ballots Cast,,,Linn,Precinct 036,213
+,Registered Voters,,REP,Linn,Precinct 036,484
+,Ballots Cast,,REP,Linn,Precinct 036,213
 Michael Polen,U.S. House,4,REP,Linn,Precinct 036,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 036,48
 Court Boice,U.S. House,4,REP,Linn,Precinct 036,25
@@ -2911,8 +2911,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 036,4
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 036,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 036,101
-,Registered Voters,,,Linn,Precinct 037,56
-,Ballots Cast,,,Linn,Precinct 037,13
+,Registered Voters,,IND,Linn,Precinct 037,56
+,Ballots Cast,,IND,Linn,Precinct 037,13
 Write In,U.S. House,4,IND,Linn,Precinct 037,5
 Overvote,U.S. House,4,IND,Linn,Precinct 037,0
 Undervote,U.S. House,4,IND,Linn,Precinct 037,8
@@ -2938,8 +2938,8 @@ Undervote,State House,15,IND,Linn,Precinct 037,
 Write In,State House,17,IND,Linn,Precinct 037,3
 Overvote,State House,17,IND,Linn,Precinct 037,0
 Undervote,State House,17,IND,Linn,Precinct 037,10
-,Registered Voters,,,Linn,Precinct 037,384
-,Ballots Cast,,,Linn,Precinct 037,114
+,Registered Voters,,DEM,Linn,Precinct 037,384
+,Ballots Cast,,DEM,Linn,Precinct 037,114
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 037,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 037,94
 Write In,U.S. House,4,DEM,Linn,Precinct 037,3
@@ -2972,8 +2972,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 037,62
 Write In,State House,17,DEM,Linn,Precinct 037,7
 Overvote,State House,17,DEM,Linn,Precinct 037,0
 Undervote,State House,17,DEM,Linn,Precinct 037,45
-,Registered Voters,,,Linn,Precinct 037,399
-,Ballots Cast,,,Linn,Precinct 037,150
+,Registered Voters,,REP,Linn,Precinct 037,399
+,Ballots Cast,,REP,Linn,Precinct 037,150
 Michael Polen,U.S. House,4,REP,Linn,Precinct 037,8
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 037,31
 Court Boice,U.S. House,4,REP,Linn,Precinct 037,22
@@ -3023,8 +3023,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 037,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 037,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 037,68
-,Registered Voters,,,Linn,Precinct 038,58
-,Ballots Cast,,,Linn,Precinct 038,13
+,Registered Voters,,IND,Linn,Precinct 038,58
+,Ballots Cast,,IND,Linn,Precinct 038,13
 Write In,U.S. House,4,IND,Linn,Precinct 038,7
 Overvote,U.S. House,4,IND,Linn,Precinct 038,0
 Undervote,U.S. House,4,IND,Linn,Precinct 038,6
@@ -3050,8 +3050,8 @@ Undervote,State House,15,IND,Linn,Precinct 038,
 Write In,State House,17,IND,Linn,Precinct 038,6
 Overvote,State House,17,IND,Linn,Precinct 038,0
 Undervote,State House,17,IND,Linn,Precinct 038,7
-,Registered Voters,,,Linn,Precinct 038,385
-,Ballots Cast,,,Linn,Precinct 038,109
+,Registered Voters,,DEM,Linn,Precinct 038,385
+,Ballots Cast,,DEM,Linn,Precinct 038,109
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 038,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 038,91
 Write In,U.S. House,4,DEM,Linn,Precinct 038,1
@@ -3084,8 +3084,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 038,59
 Write In,State House,17,DEM,Linn,Precinct 038,4
 Overvote,State House,17,DEM,Linn,Precinct 038,0
 Undervote,State House,17,DEM,Linn,Precinct 038,46
-,Registered Voters,,,Linn,Precinct 038,375
-,Ballots Cast,,,Linn,Precinct 038,140
+,Registered Voters,,REP,Linn,Precinct 038,375
+,Ballots Cast,,REP,Linn,Precinct 038,140
 Michael Polen,U.S. House,4,REP,Linn,Precinct 038,14
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 038,25
 Court Boice,U.S. House,4,REP,Linn,Precinct 038,15
@@ -3135,8 +3135,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 038,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 038,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 038,51
-,Registered Voters,,,Linn,Precinct 039,55
-,Ballots Cast,,,Linn,Precinct 039,11
+,Registered Voters,,IND,Linn,Precinct 039,55
+,Ballots Cast,,IND,Linn,Precinct 039,11
 Write In,U.S. House,4,IND,Linn,Precinct 039,4
 Overvote,U.S. House,4,IND,Linn,Precinct 039,0
 Undervote,U.S. House,4,IND,Linn,Precinct 039,7
@@ -3162,8 +3162,8 @@ Undervote,State House,15,IND,Linn,Precinct 039,
 Write In,State House,17,IND,Linn,Precinct 039,2
 Overvote,State House,17,IND,Linn,Precinct 039,0
 Undervote,State House,17,IND,Linn,Precinct 039,9
-,Registered Voters,,,Linn,Precinct 039,246
-,Ballots Cast,,,Linn,Precinct 039,97
+,Registered Voters,,DEM,Linn,Precinct 039,246
+,Ballots Cast,,DEM,Linn,Precinct 039,97
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 039,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 039,87
 Write In,U.S. House,4,DEM,Linn,Precinct 039,0
@@ -3196,8 +3196,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 039,62
 Write In,State House,17,DEM,Linn,Precinct 039,0
 Overvote,State House,17,DEM,Linn,Precinct 039,0
 Undervote,State House,17,DEM,Linn,Precinct 039,35
-,Registered Voters,,,Linn,Precinct 039,250
-,Ballots Cast,,,Linn,Precinct 039,95
+,Registered Voters,,REP,Linn,Precinct 039,250
+,Ballots Cast,,REP,Linn,Precinct 039,95
 Michael Polen,U.S. House,4,REP,Linn,Precinct 039,5
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 039,25
 Court Boice,U.S. House,4,REP,Linn,Precinct 039,9
@@ -3247,8 +3247,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 039,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 039,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 039,30
-,Registered Voters,,,Linn,Precinct 041,56
-,Ballots Cast,,,Linn,Precinct 041,12
+,Registered Voters,,IND,Linn,Precinct 041,56
+,Ballots Cast,,IND,Linn,Precinct 041,12
 Write In,U.S. House,4,IND,Linn,Precinct 041,5
 Overvote,U.S. House,4,IND,Linn,Precinct 041,0
 Undervote,U.S. House,4,IND,Linn,Precinct 041,7
@@ -3274,8 +3274,8 @@ Undervote,State House,15,IND,Linn,Precinct 041,
 Write In,State House,17,IND,Linn,Precinct 041,5
 Overvote,State House,17,IND,Linn,Precinct 041,0
 Undervote,State House,17,IND,Linn,Precinct 041,7
-,Registered Voters,,,Linn,Precinct 041,210
-,Ballots Cast,,,Linn,Precinct 041,81
+,Registered Voters,,DEM,Linn,Precinct 041,210
+,Ballots Cast,,DEM,Linn,Precinct 041,81
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 041,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 041,60
 Write In,U.S. House,4,DEM,Linn,Precinct 041,4
@@ -3308,8 +3308,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 041,50
 Write In,State House,17,DEM,Linn,Precinct 041,1
 Overvote,State House,17,DEM,Linn,Precinct 041,0
 Undervote,State House,17,DEM,Linn,Precinct 041,30
-,Registered Voters,,,Linn,Precinct 041,223
-,Ballots Cast,,,Linn,Precinct 041,93
+,Registered Voters,,REP,Linn,Precinct 041,223
+,Ballots Cast,,REP,Linn,Precinct 041,93
 Michael Polen,U.S. House,4,REP,Linn,Precinct 041,6
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 041,22
 Court Boice,U.S. House,4,REP,Linn,Precinct 041,16
@@ -3359,8 +3359,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 041,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 041,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 041,49
-,Registered Voters,,,Linn,Precinct 042,55
-,Ballots Cast,,,Linn,Precinct 042,22
+,Registered Voters,,IND,Linn,Precinct 042,55
+,Ballots Cast,,IND,Linn,Precinct 042,22
 Write In,U.S. House,4,IND,Linn,Precinct 042,10
 Overvote,U.S. House,4,IND,Linn,Precinct 042,0
 Undervote,U.S. House,4,IND,Linn,Precinct 042,12
@@ -3386,8 +3386,8 @@ Undervote,State House,15,IND,Linn,Precinct 042,
 Write In,State House,17,IND,Linn,Precinct 042,8
 Overvote,State House,17,IND,Linn,Precinct 042,0
 Undervote,State House,17,IND,Linn,Precinct 042,14
-,Registered Voters,,,Linn,Precinct 042,168
-,Ballots Cast,,,Linn,Precinct 042,68
+,Registered Voters,,DEM,Linn,Precinct 042,168
+,Ballots Cast,,DEM,Linn,Precinct 042,68
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 042,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 042,46
 Write In,U.S. House,4,DEM,Linn,Precinct 042,0
@@ -3420,8 +3420,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 042,43
 Write In,State House,17,DEM,Linn,Precinct 042,4
 Overvote,State House,17,DEM,Linn,Precinct 042,0
 Undervote,State House,17,DEM,Linn,Precinct 042,21
-,Registered Voters,,,Linn,Precinct 042,320
-,Ballots Cast,,,Linn,Precinct 042,147
+,Registered Voters,,REP,Linn,Precinct 042,320
+,Ballots Cast,,REP,Linn,Precinct 042,147
 Michael Polen,U.S. House,4,REP,Linn,Precinct 042,6
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 042,40
 Court Boice,U.S. House,4,REP,Linn,Precinct 042,14
@@ -3471,8 +3471,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 042,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 042,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 042,49
-,Registered Voters,,,Linn,Precinct 043,61
-,Ballots Cast,,,Linn,Precinct 043,15
+,Registered Voters,,IND,Linn,Precinct 043,61
+,Ballots Cast,,IND,Linn,Precinct 043,15
 Write In,U.S. House,4,IND,Linn,Precinct 043,6
 Overvote,U.S. House,4,IND,Linn,Precinct 043,0
 Undervote,U.S. House,4,IND,Linn,Precinct 043,9
@@ -3498,8 +3498,8 @@ Undervote,State House,15,IND,Linn,Precinct 043,
 Write In,State House,17,IND,Linn,Precinct 043,7
 Overvote,State House,17,IND,Linn,Precinct 043,0
 Undervote,State House,17,IND,Linn,Precinct 043,8
-,Registered Voters,,,Linn,Precinct 043,245
-,Ballots Cast,,,Linn,Precinct 043,89
+,Registered Voters,,DEM,Linn,Precinct 043,245
+,Ballots Cast,,DEM,Linn,Precinct 043,89
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 043,18
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 043,69
 Write In,U.S. House,4,DEM,Linn,Precinct 043,1
@@ -3532,8 +3532,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 043,54
 Write In,State House,17,DEM,Linn,Precinct 043,1
 Overvote,State House,17,DEM,Linn,Precinct 043,0
 Undervote,State House,17,DEM,Linn,Precinct 043,34
-,Registered Voters,,,Linn,Precinct 043,280
-,Ballots Cast,,,Linn,Precinct 043,128
+,Registered Voters,,REP,Linn,Precinct 043,280
+,Ballots Cast,,REP,Linn,Precinct 043,128
 Michael Polen,U.S. House,4,REP,Linn,Precinct 043,5
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 043,35
 Court Boice,U.S. House,4,REP,Linn,Precinct 043,13
@@ -3583,8 +3583,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 043,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 043,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 043,54
-,Registered Voters,,,Linn,Precinct 044,54
-,Ballots Cast,,,Linn,Precinct 044,15
+,Registered Voters,,IND,Linn,Precinct 044,54
+,Ballots Cast,,IND,Linn,Precinct 044,15
 Write In,U.S. House,4,IND,Linn,Precinct 044,4
 Overvote,U.S. House,4,IND,Linn,Precinct 044,0
 Undervote,U.S. House,4,IND,Linn,Precinct 044,11
@@ -3610,8 +3610,8 @@ Undervote,State House,15,IND,Linn,Precinct 044,6
 Write In,State House,17,IND,Linn,Precinct 044,
 Overvote,State House,17,IND,Linn,Precinct 044,
 Undervote,State House,17,IND,Linn,Precinct 044,
-,Registered Voters,,,Linn,Precinct 044,361
-,Ballots Cast,,,Linn,Precinct 044,201
+,Registered Voters,,DEM,Linn,Precinct 044,361
+,Ballots Cast,,DEM,Linn,Precinct 044,201
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 044,20
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 044,177
 Write In,U.S. House,4,DEM,Linn,Precinct 044,1
@@ -3644,8 +3644,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 044,
 Write In,State House,17,DEM,Linn,Precinct 044,
 Overvote,State House,17,DEM,Linn,Precinct 044,
 Undervote,State House,17,DEM,Linn,Precinct 044,
-,Registered Voters,,,Linn,Precinct 044,351
-,Ballots Cast,,,Linn,Precinct 044,178
+,Registered Voters,,REP,Linn,Precinct 044,351
+,Ballots Cast,,REP,Linn,Precinct 044,178
 Michael Polen,U.S. House,4,REP,Linn,Precinct 044,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 044,39
 Court Boice,U.S. House,4,REP,Linn,Precinct 044,231
@@ -3695,8 +3695,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 044,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 044,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 044,101
-,Registered Voters,,,Linn,Precinct 045,53
-,Ballots Cast,,,Linn,Precinct 045,13
+,Registered Voters,,IND,Linn,Precinct 045,53
+,Ballots Cast,,IND,Linn,Precinct 045,13
 Write In,U.S. House,4,IND,Linn,Precinct 045,3
 Overvote,U.S. House,4,IND,Linn,Precinct 045,0
 Undervote,U.S. House,4,IND,Linn,Precinct 045,10
@@ -3722,8 +3722,8 @@ Undervote,State House,15,IND,Linn,Precinct 045,
 Write In,State House,17,IND,Linn,Precinct 045,4
 Overvote,State House,17,IND,Linn,Precinct 045,0
 Undervote,State House,17,IND,Linn,Precinct 045,9
-,Registered Voters,,,Linn,Precinct 045,226
-,Ballots Cast,,,Linn,Precinct 045,99
+,Registered Voters,,DEM,Linn,Precinct 045,226
+,Ballots Cast,,DEM,Linn,Precinct 045,99
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 045,25
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 045,61
 Write In,U.S. House,4,DEM,Linn,Precinct 045,4
@@ -3756,8 +3756,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 045,57
 Write In,State House,17,DEM,Linn,Precinct 045,2
 Overvote,State House,17,DEM,Linn,Precinct 045,0
 Undervote,State House,17,DEM,Linn,Precinct 045,40
-,Registered Voters,,,Linn,Precinct 045,442
-,Ballots Cast,,,Linn,Precinct 045,222
+,Registered Voters,,REP,Linn,Precinct 045,442
+,Ballots Cast,,REP,Linn,Precinct 045,222
 Michael Polen,U.S. House,4,REP,Linn,Precinct 045,8
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 045,67
 Court Boice,U.S. House,4,REP,Linn,Precinct 045,27
@@ -3807,8 +3807,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 045,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 045,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 045,75
-,Registered Voters,,,Linn,Precinct 046,85
-,Ballots Cast,,,Linn,Precinct 046,33
+,Registered Voters,,IND,Linn,Precinct 046,85
+,Ballots Cast,,IND,Linn,Precinct 046,33
 Write In,U.S. House,4,IND,Linn,Precinct 046,9
 Overvote,U.S. House,4,IND,Linn,Precinct 046,0
 Undervote,U.S. House,4,IND,Linn,Precinct 046,24
@@ -3834,8 +3834,8 @@ Undervote,State House,15,IND,Linn,Precinct 046,
 Write In,State House,17,IND,Linn,Precinct 046,8
 Overvote,State House,17,IND,Linn,Precinct 046,0
 Undervote,State House,17,IND,Linn,Precinct 046,25
-,Registered Voters,,,Linn,Precinct 046,315
-,Ballots Cast,,,Linn,Precinct 046,141
+,Registered Voters,,DEM,Linn,Precinct 046,315
+,Ballots Cast,,DEM,Linn,Precinct 046,141
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 046,25
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 046,107
 Write In,U.S. House,4,DEM,Linn,Precinct 046,4
@@ -3868,8 +3868,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 046,67
 Write In,State House,17,DEM,Linn,Precinct 046,5
 Overvote,State House,17,DEM,Linn,Precinct 046,0
 Undervote,State House,17,DEM,Linn,Precinct 046,69
-,Registered Voters,,,Linn,Precinct 046,484
-,Ballots Cast,,,Linn,Precinct 046,270
+,Registered Voters,,REP,Linn,Precinct 046,484
+,Ballots Cast,,REP,Linn,Precinct 046,270
 Michael Polen,U.S. House,4,REP,Linn,Precinct 046,15
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 046,41
 Court Boice,U.S. House,4,REP,Linn,Precinct 046,28
@@ -3919,8 +3919,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 046,5
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 046,1
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 046,139
-,Registered Voters,,,Linn,Precinct 047,22
-,Ballots Cast,,,Linn,Precinct 047,6
+,Registered Voters,,IND,Linn,Precinct 047,22
+,Ballots Cast,,IND,Linn,Precinct 047,6
 Write In,U.S. House,4,IND,Linn,Precinct 047,3
 Overvote,U.S. House,4,IND,Linn,Precinct 047,0
 Undervote,U.S. House,4,IND,Linn,Precinct 047,3
@@ -3946,8 +3946,8 @@ Undervote,State House,15,IND,Linn,Precinct 047,1
 Write In,State House,17,IND,Linn,Precinct 047,
 Overvote,State House,17,IND,Linn,Precinct 047,
 Undervote,State House,17,IND,Linn,Precinct 047,
-,Registered Voters,,,Linn,Precinct 047,86
-,Ballots Cast,,,Linn,Precinct 047,47
+,Registered Voters,,DEM,Linn,Precinct 047,86
+,Ballots Cast,,DEM,Linn,Precinct 047,47
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 047,3
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 047,43
 Write In,U.S. House,4,DEM,Linn,Precinct 047,0
@@ -3980,8 +3980,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 047,
 Write In,State House,17,DEM,Linn,Precinct 047,
 Overvote,State House,17,DEM,Linn,Precinct 047,
 Undervote,State House,17,DEM,Linn,Precinct 047,
-,Registered Voters,,,Linn,Precinct 047,126
-,Ballots Cast,,,Linn,Precinct 047,46
+,Registered Voters,,REP,Linn,Precinct 047,126
+,Ballots Cast,,REP,Linn,Precinct 047,46
 Michael Polen,U.S. House,4,REP,Linn,Precinct 047,1
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 047,8
 Court Boice,U.S. House,4,REP,Linn,Precinct 047,10
@@ -4031,8 +4031,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 047,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 047,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 047,18
-,Registered Voters,,,Linn,Precinct 048,69
-,Ballots Cast,,,Linn,Precinct 048,34
+,Registered Voters,,IND,Linn,Precinct 048,69
+,Ballots Cast,,IND,Linn,Precinct 048,34
 Write In,U.S. House,4,IND,Linn,Precinct 048,16
 Overvote,U.S. House,4,IND,Linn,Precinct 048,0
 Undervote,U.S. House,4,IND,Linn,Precinct 048,18
@@ -4058,8 +4058,8 @@ Undervote,State House,15,IND,Linn,Precinct 048,7
 Write In,State House,17,IND,Linn,Precinct 048,
 Overvote,State House,17,IND,Linn,Precinct 048,
 Undervote,State House,17,IND,Linn,Precinct 048,
-,Registered Voters,,,Linn,Precinct 048,416
-,Ballots Cast,,,Linn,Precinct 048,236
+,Registered Voters,,DEM,Linn,Precinct 048,416
+,Ballots Cast,,DEM,Linn,Precinct 048,236
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 048,28
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 048,195
 Write In,U.S. House,4,DEM,Linn,Precinct 048,3
@@ -4092,8 +4092,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 048,
 Write In,State House,17,DEM,Linn,Precinct 048,
 Overvote,State House,17,DEM,Linn,Precinct 048,
 Undervote,State House,17,DEM,Linn,Precinct 048,
-,Registered Voters,,,Linn,Precinct 048,399
-,Ballots Cast,,,Linn,Precinct 048,236
+,Registered Voters,,REP,Linn,Precinct 048,399
+,Ballots Cast,,REP,Linn,Precinct 048,236
 Michael Polen,U.S. House,4,REP,Linn,Precinct 048,12
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 048,73
 Court Boice,U.S. House,4,REP,Linn,Precinct 048,23
@@ -4143,8 +4143,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 048,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 048,1
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 048,122
-,Registered Voters,,,Linn,Precinct 049,1
-,Ballots Cast,,,Linn,Precinct 049,0
+,Registered Voters,,IND,Linn,Precinct 049,1
+,Ballots Cast,,IND,Linn,Precinct 049,0
 Write In,U.S. House,4,IND,Linn,Precinct 049,0
 Overvote,U.S. House,4,IND,Linn,Precinct 049,0
 Undervote,U.S. House,4,IND,Linn,Precinct 049,0
@@ -4170,8 +4170,8 @@ Undervote,State House,15,IND,Linn,Precinct 049,
 Write In,State House,17,IND,Linn,Precinct 049,0
 Overvote,State House,17,IND,Linn,Precinct 049,0
 Undervote,State House,17,IND,Linn,Precinct 049,0
-,Registered Voters,,,Linn,Precinct 049,1
-,Ballots Cast,,,Linn,Precinct 049,0
+,Registered Voters,,DEM,Linn,Precinct 049,1
+,Ballots Cast,,DEM,Linn,Precinct 049,0
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 049,0
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 049,0
 Write In,U.S. House,4,DEM,Linn,Precinct 049,0
@@ -4204,8 +4204,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 049,0
 Write In,State House,17,DEM,Linn,Precinct 049,0
 Overvote,State House,17,DEM,Linn,Precinct 049,0
 Undervote,State House,17,DEM,Linn,Precinct 049,0
-,Registered Voters,,,Linn,Precinct 049,0
-,Ballots Cast,,,Linn,Precinct 049,0
+,Registered Voters,,REP,Linn,Precinct 049,0
+,Ballots Cast,,REP,Linn,Precinct 049,0
 Michael Polen,U.S. House,4,REP,Linn,Precinct 049,0
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 049,0
 Court Boice,U.S. House,4,REP,Linn,Precinct 049,0
@@ -4255,8 +4255,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 049,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 049,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 049,0
-,Registered Voters,,,Linn,Precinct 050,24
-,Ballots Cast,,,Linn,Precinct 050,10
+,Registered Voters,,IND,Linn,Precinct 050,24
+,Ballots Cast,,IND,Linn,Precinct 050,10
 Write In,U.S. House,4,IND,Linn,Precinct 050,5
 Overvote,U.S. House,4,IND,Linn,Precinct 050,0
 Undervote,U.S. House,4,IND,Linn,Precinct 050,5
@@ -4282,8 +4282,8 @@ Undervote,State House,15,IND,Linn,Precinct 050,
 Write In,State House,17,IND,Linn,Precinct 050,6
 Overvote,State House,17,IND,Linn,Precinct 050,0
 Undervote,State House,17,IND,Linn,Precinct 050,4
-,Registered Voters,,,Linn,Precinct 050,122
-,Ballots Cast,,,Linn,Precinct 050,48
+,Registered Voters,,DEM,Linn,Precinct 050,122
+,Ballots Cast,,DEM,Linn,Precinct 050,48
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 050,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 050,31
 Write In,U.S. House,4,DEM,Linn,Precinct 050,4
@@ -4316,8 +4316,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 050,25
 Write In,State House,17,DEM,Linn,Precinct 050,4
 Overvote,State House,17,DEM,Linn,Precinct 050,0
 Undervote,State House,17,DEM,Linn,Precinct 050,19
-,Registered Voters,,,Linn,Precinct 050,252
-,Ballots Cast,,,Linn,Precinct 050,134
+,Registered Voters,,REP,Linn,Precinct 050,252
+,Ballots Cast,,REP,Linn,Precinct 050,134
 Michael Polen,U.S. House,4,REP,Linn,Precinct 050,7
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 050,25
 Court Boice,U.S. House,4,REP,Linn,Precinct 050,16
@@ -4367,8 +4367,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 050,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 050,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 050,50
-,Registered Voters,,,Linn,Precinct 051,6
-,Ballots Cast,,,Linn,Precinct 051,1
+,Registered Voters,,IND,Linn,Precinct 051,6
+,Ballots Cast,,IND,Linn,Precinct 051,1
 Write In,U.S. House,4,IND,Linn,Precinct 051,1
 Overvote,U.S. House,4,IND,Linn,Precinct 051,0
 Undervote,U.S. House,4,IND,Linn,Precinct 051,0
@@ -4394,8 +4394,8 @@ Undervote,State House,15,IND,Linn,Precinct 051,0
 Write In,State House,17,IND,Linn,Precinct 051,
 Overvote,State House,17,IND,Linn,Precinct 051,
 Undervote,State House,17,IND,Linn,Precinct 051,
-,Registered Voters,,,Linn,Precinct 051,34
-,Ballots Cast,,,Linn,Precinct 051,11
+,Registered Voters,,DEM,Linn,Precinct 051,34
+,Ballots Cast,,DEM,Linn,Precinct 051,11
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 051,4
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 051,6
 Write In,U.S. House,4,DEM,Linn,Precinct 051,1
@@ -4428,8 +4428,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 051,
 Write In,State House,17,DEM,Linn,Precinct 051,
 Overvote,State House,17,DEM,Linn,Precinct 051,
 Undervote,State House,17,DEM,Linn,Precinct 051,
-,Registered Voters,,,Linn,Precinct 051,138
-,Ballots Cast,,,Linn,Precinct 051,73
+,Registered Voters,,REP,Linn,Precinct 051,138
+,Ballots Cast,,REP,Linn,Precinct 051,73
 Michael Polen,U.S. House,4,REP,Linn,Precinct 051,2
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 051,13
 Court Boice,U.S. House,4,REP,Linn,Precinct 051,10
@@ -4479,8 +4479,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 051,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 051,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 051,26
-,Registered Voters,,,Linn,Precinct 052,21
-,Ballots Cast,,,Linn,Precinct 052,5
+,Registered Voters,,IND,Linn,Precinct 052,21
+,Ballots Cast,,IND,Linn,Precinct 052,5
 Write In,U.S. House,4,IND,Linn,Precinct 052,1
 Overvote,U.S. House,4,IND,Linn,Precinct 052,0
 Undervote,U.S. House,4,IND,Linn,Precinct 052,4
@@ -4506,8 +4506,8 @@ Undervote,State House,15,IND,Linn,Precinct 052,
 Write In,State House,17,IND,Linn,Precinct 052,1
 Overvote,State House,17,IND,Linn,Precinct 052,0
 Undervote,State House,17,IND,Linn,Precinct 052,4
-,Registered Voters,,,Linn,Precinct 052,136
-,Ballots Cast,,,Linn,Precinct 052,52
+,Registered Voters,,DEM,Linn,Precinct 052,136
+,Ballots Cast,,DEM,Linn,Precinct 052,52
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 052,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 052,38
 Write In,U.S. House,4,DEM,Linn,Precinct 052,0
@@ -4540,8 +4540,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 052,26
 Write In,State House,17,DEM,Linn,Precinct 052,0
 Overvote,State House,17,DEM,Linn,Precinct 052,0
 Undervote,State House,17,DEM,Linn,Precinct 052,26
-,Registered Voters,,,Linn,Precinct 052,206
-,Ballots Cast,,,Linn,Precinct 052,78
+,Registered Voters,,REP,Linn,Precinct 052,206
+,Ballots Cast,,REP,Linn,Precinct 052,78
 Michael Polen,U.S. House,4,REP,Linn,Precinct 052,5
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 052,17
 Court Boice,U.S. House,4,REP,Linn,Precinct 052,7
@@ -4591,8 +4591,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 052,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 052,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 052,32
-,Registered Voters,,,Linn,Precinct 053,35
-,Ballots Cast,,,Linn,Precinct 053,7
+,Registered Voters,,IND,Linn,Precinct 053,35
+,Ballots Cast,,IND,Linn,Precinct 053,7
 Write In,U.S. House,4,IND,Linn,Precinct 053,3
 Overvote,U.S. House,4,IND,Linn,Precinct 053,0
 Undervote,U.S. House,4,IND,Linn,Precinct 053,4
@@ -4618,8 +4618,8 @@ Undervote,State House,15,IND,Linn,Precinct 053,
 Write In,State House,17,IND,Linn,Precinct 053,4
 Overvote,State House,17,IND,Linn,Precinct 053,0
 Undervote,State House,17,IND,Linn,Precinct 053,3
-,Registered Voters,,,Linn,Precinct 053,211
-,Ballots Cast,,,Linn,Precinct 053,106
+,Registered Voters,,DEM,Linn,Precinct 053,211
+,Ballots Cast,,DEM,Linn,Precinct 053,106
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 053,26
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 053,74
 Write In,U.S. House,4,DEM,Linn,Precinct 053,0
@@ -4652,8 +4652,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 053,64
 Write In,State House,17,DEM,Linn,Precinct 053,5
 Overvote,State House,17,DEM,Linn,Precinct 053,0
 Undervote,State House,17,DEM,Linn,Precinct 053,37
-,Registered Voters,,,Linn,Precinct 053,393
-,Ballots Cast,,,Linn,Precinct 053,214
+,Registered Voters,,REP,Linn,Precinct 053,393
+,Ballots Cast,,REP,Linn,Precinct 053,214
 Michael Polen,U.S. House,4,REP,Linn,Precinct 053,8
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 053,63
 Court Boice,U.S. House,4,REP,Linn,Precinct 053,12
@@ -4703,8 +4703,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 053,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 053,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 053,65
-,Registered Voters,,,Linn,Precinct 054,20
-,Ballots Cast,,,Linn,Precinct 054,5
+,Registered Voters,,IND,Linn,Precinct 054,20
+,Ballots Cast,,IND,Linn,Precinct 054,5
 Write In,U.S. House,4,IND,Linn,Precinct 054,1
 Overvote,U.S. House,4,IND,Linn,Precinct 054,0
 Undervote,U.S. House,4,IND,Linn,Precinct 054,4
@@ -4730,8 +4730,8 @@ Undervote,State House,15,IND,Linn,Precinct 054,
 Write In,State House,17,IND,Linn,Precinct 054,
 Overvote,State House,17,IND,Linn,Precinct 054,
 Undervote,State House,17,IND,Linn,Precinct 054,
-,Registered Voters,,,Linn,Precinct 054,86
-,Ballots Cast,,,Linn,Precinct 054,46
+,Registered Voters,,DEM,Linn,Precinct 054,86
+,Ballots Cast,,DEM,Linn,Precinct 054,46
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 054,7
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 054,35
 Write In,U.S. House,4,DEM,Linn,Precinct 054,3
@@ -4764,8 +4764,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 054,
 Write In,State House,17,DEM,Linn,Precinct 054,
 Overvote,State House,17,DEM,Linn,Precinct 054,
 Undervote,State House,17,DEM,Linn,Precinct 054,
-,Registered Voters,,,Linn,Precinct 054,216
-,Ballots Cast,,,Linn,Precinct 054,119
+,Registered Voters,,REP,Linn,Precinct 054,216
+,Ballots Cast,,REP,Linn,Precinct 054,119
 Michael Polen,U.S. House,4,REP,Linn,Precinct 054,7
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 054,46
 Court Boice,U.S. House,4,REP,Linn,Precinct 054,8
@@ -4815,8 +4815,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 054,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 054,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 054,34
-,Registered Voters,,,Linn,Precinct 055,28
-,Ballots Cast,,,Linn,Precinct 055,7
+,Registered Voters,,IND,Linn,Precinct 055,28
+,Ballots Cast,,IND,Linn,Precinct 055,7
 Write In,U.S. House,4,IND,Linn,Precinct 055,2
 Overvote,U.S. House,4,IND,Linn,Precinct 055,0
 Undervote,U.S. House,4,IND,Linn,Precinct 055,5
@@ -4842,8 +4842,8 @@ Undervote,State House,15,IND,Linn,Precinct 055,
 Write In,State House,17,IND,Linn,Precinct 055,1
 Overvote,State House,17,IND,Linn,Precinct 055,0
 Undervote,State House,17,IND,Linn,Precinct 055,6
-,Registered Voters,,,Linn,Precinct 055,148
-,Ballots Cast,,,Linn,Precinct 055,61
+,Registered Voters,,DEM,Linn,Precinct 055,148
+,Ballots Cast,,DEM,Linn,Precinct 055,61
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 055,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 055,47
 Write In,U.S. House,4,DEM,Linn,Precinct 055,0
@@ -4876,8 +4876,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 055,33
 Write In,State House,17,DEM,Linn,Precinct 055,1
 Overvote,State House,17,DEM,Linn,Precinct 055,0
 Undervote,State House,17,DEM,Linn,Precinct 055,27
-,Registered Voters,,,Linn,Precinct 055,306
-,Ballots Cast,,,Linn,Precinct 055,146
+,Registered Voters,,REP,Linn,Precinct 055,306
+,Ballots Cast,,REP,Linn,Precinct 055,146
 Michael Polen,U.S. House,4,REP,Linn,Precinct 055,9
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 055,35
 Court Boice,U.S. House,4,REP,Linn,Precinct 055,12
@@ -4927,8 +4927,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 055,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 055,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 055,56
-,Registered Voters,,,Linn,Precinct 056,46
-,Ballots Cast,,,Linn,Precinct 056,10
+,Registered Voters,,IND,Linn,Precinct 056,46
+,Ballots Cast,,IND,Linn,Precinct 056,10
 Write In,U.S. House,4,IND,Linn,Precinct 056,1
 Overvote,U.S. House,4,IND,Linn,Precinct 056,0
 Undervote,U.S. House,4,IND,Linn,Precinct 056,9
@@ -4954,8 +4954,8 @@ Undervote,State House,15,IND,Linn,Precinct 056,
 Write In,State House,17,IND,Linn,Precinct 056,1
 Overvote,State House,17,IND,Linn,Precinct 056,0
 Undervote,State House,17,IND,Linn,Precinct 056,9
-,Registered Voters,,,Linn,Precinct 056,223
-,Ballots Cast,,,Linn,Precinct 056,92
+,Registered Voters,,DEM,Linn,Precinct 056,223
+,Ballots Cast,,DEM,Linn,Precinct 056,92
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 056,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 056,75
 Write In,U.S. House,4,DEM,Linn,Precinct 056,1
@@ -4988,8 +4988,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 056,57
 Write In,State House,17,DEM,Linn,Precinct 056,2
 Overvote,State House,17,DEM,Linn,Precinct 056,0
 Undervote,State House,17,DEM,Linn,Precinct 056,33
-,Registered Voters,,,Linn,Precinct 056,409
-,Ballots Cast,,,Linn,Precinct 056,198
+,Registered Voters,,REP,Linn,Precinct 056,409
+,Ballots Cast,,REP,Linn,Precinct 056,198
 Michael Polen,U.S. House,4,REP,Linn,Precinct 056,18
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 056,54
 Court Boice,U.S. House,4,REP,Linn,Precinct 056,22
@@ -5039,8 +5039,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 056,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 056,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 056,80
-,Registered Voters,,,Linn,Precinct 057,4
-,Ballots Cast,,,Linn,Precinct 057,0
+,Registered Voters,,IND,Linn,Precinct 057,4
+,Ballots Cast,,IND,Linn,Precinct 057,0
 Write In,U.S. House,4,IND,Linn,Precinct 057,0
 Overvote,U.S. House,4,IND,Linn,Precinct 057,0
 Undervote,U.S. House,4,IND,Linn,Precinct 057,0
@@ -5066,8 +5066,8 @@ Undervote,State House,15,IND,Linn,Precinct 057,
 Write In,State House,17,IND,Linn,Precinct 057,
 Overvote,State House,17,IND,Linn,Precinct 057,
 Undervote,State House,17,IND,Linn,Precinct 057,
-,Registered Voters,,,Linn,Precinct 057,16
-,Ballots Cast,,,Linn,Precinct 057,3
+,Registered Voters,,DEM,Linn,Precinct 057,16
+,Ballots Cast,,DEM,Linn,Precinct 057,3
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 057,0
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 057,3
 Write In,U.S. House,4,DEM,Linn,Precinct 057,0
@@ -5100,8 +5100,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 057,
 Write In,State House,17,DEM,Linn,Precinct 057,
 Overvote,State House,17,DEM,Linn,Precinct 057,
 Undervote,State House,17,DEM,Linn,Precinct 057,
-,Registered Voters,,,Linn,Precinct 057,37
-,Ballots Cast,,,Linn,Precinct 057,24
+,Registered Voters,,REP,Linn,Precinct 057,37
+,Ballots Cast,,REP,Linn,Precinct 057,24
 Michael Polen,U.S. House,4,REP,Linn,Precinct 057,1
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 057,4
 Court Boice,U.S. House,4,REP,Linn,Precinct 057,1
@@ -5151,8 +5151,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 057,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 057,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 057,5
-,Registered Voters,,,Linn,Precinct 058,2
-,Ballots Cast,,,Linn,Precinct 058,0
+,Registered Voters,,IND,Linn,Precinct 058,2
+,Ballots Cast,,IND,Linn,Precinct 058,0
 Write In,U.S. House,4,IND,Linn,Precinct 058,0
 Overvote,U.S. House,4,IND,Linn,Precinct 058,0
 Undervote,U.S. House,4,IND,Linn,Precinct 058,0
@@ -5178,8 +5178,8 @@ Undervote,State House,15,IND,Linn,Precinct 058,0
 Write In,State House,17,IND,Linn,Precinct 058,
 Overvote,State House,17,IND,Linn,Precinct 058,
 Undervote,State House,17,IND,Linn,Precinct 058,
-,Registered Voters,,,Linn,Precinct 058,17
-,Ballots Cast,,,Linn,Precinct 058,10
+,Registered Voters,,DEM,Linn,Precinct 058,17
+,Ballots Cast,,DEM,Linn,Precinct 058,10
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 058,1
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 058,8
 Write In,U.S. House,4,DEM,Linn,Precinct 058,0
@@ -5212,8 +5212,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 058,
 Write In,State House,17,DEM,Linn,Precinct 058,
 Overvote,State House,17,DEM,Linn,Precinct 058,
 Undervote,State House,17,DEM,Linn,Precinct 058,
-,Registered Voters,,,Linn,Precinct 058,24
-,Ballots Cast,,,Linn,Precinct 058,17
+,Registered Voters,,REP,Linn,Precinct 058,24
+,Ballots Cast,,REP,Linn,Precinct 058,17
 Michael Polen,U.S. House,4,REP,Linn,Precinct 058,1
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 058,4
 Court Boice,U.S. House,4,REP,Linn,Precinct 058,2
@@ -5263,8 +5263,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 058,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 058,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 058,10
-,Registered Voters,,,Linn,Precinct 059,44
-,Ballots Cast,,,Linn,Precinct 059,8
+,Registered Voters,,IND,Linn,Precinct 059,44
+,Ballots Cast,,IND,Linn,Precinct 059,8
 Write In,U.S. House,4,IND,Linn,Precinct 059,2
 Overvote,U.S. House,4,IND,Linn,Precinct 059,0
 Undervote,U.S. House,4,IND,Linn,Precinct 059,6
@@ -5290,8 +5290,8 @@ Undervote,State House,15,IND,Linn,Precinct 059,
 Write In,State House,17,IND,Linn,Precinct 059,3
 Overvote,State House,17,IND,Linn,Precinct 059,0
 Undervote,State House,17,IND,Linn,Precinct 059,5
-,Registered Voters,,,Linn,Precinct 059,157
-,Ballots Cast,,,Linn,Precinct 059,63
+,Registered Voters,,DEM,Linn,Precinct 059,157
+,Ballots Cast,,DEM,Linn,Precinct 059,63
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 059,5
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 059,54
 Write In,U.S. House,4,DEM,Linn,Precinct 059,2
@@ -5324,8 +5324,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 059,30
 Write In,State House,17,DEM,Linn,Precinct 059,1
 Overvote,State House,17,DEM,Linn,Precinct 059,0
 Undervote,State House,17,DEM,Linn,Precinct 059,32
-,Registered Voters,,,Linn,Precinct 059,226
-,Ballots Cast,,,Linn,Precinct 059,112
+,Registered Voters,,REP,Linn,Precinct 059,226
+,Ballots Cast,,REP,Linn,Precinct 059,112
 Michael Polen,U.S. House,4,REP,Linn,Precinct 059,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 059,23
 Court Boice,U.S. House,4,REP,Linn,Precinct 059,4
@@ -5375,8 +5375,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 059,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 059,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 059,59
-,Registered Voters,,,Linn,Precinct 060,48
-,Ballots Cast,,,Linn,Precinct 060,15
+,Registered Voters,,IND,Linn,Precinct 060,48
+,Ballots Cast,,IND,Linn,Precinct 060,15
 Write In,U.S. House,4,IND,Linn,Precinct 060,4
 Overvote,U.S. House,4,IND,Linn,Precinct 060,0
 Undervote,U.S. House,4,IND,Linn,Precinct 060,11
@@ -5402,8 +5402,8 @@ Undervote,State House,15,IND,Linn,Precinct 060,5
 Write In,State House,17,IND,Linn,Precinct 060,
 Overvote,State House,17,IND,Linn,Precinct 060,
 Undervote,State House,17,IND,Linn,Precinct 060,
-,Registered Voters,,,Linn,Precinct 060,209
-,Ballots Cast,,,Linn,Precinct 060,88
+,Registered Voters,,DEM,Linn,Precinct 060,209
+,Ballots Cast,,DEM,Linn,Precinct 060,88
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 060,12
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 060,73
 Write In,U.S. House,4,DEM,Linn,Precinct 060,2
@@ -5436,8 +5436,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 060,
 Write In,State House,17,DEM,Linn,Precinct 060,
 Overvote,State House,17,DEM,Linn,Precinct 060,
 Undervote,State House,17,DEM,Linn,Precinct 060,
-,Registered Voters,,,Linn,Precinct 060,327
-,Ballots Cast,,,Linn,Precinct 060,138
+,Registered Voters,,REP,Linn,Precinct 060,327
+,Ballots Cast,,REP,Linn,Precinct 060,138
 Michael Polen,U.S. House,4,REP,Linn,Precinct 060,3
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 060,53
 Court Boice,U.S. House,4,REP,Linn,Precinct 060,18
@@ -5487,8 +5487,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 060,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 060,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 060,57
-,Registered Voters,,,Linn,Precinct 061,25
-,Ballots Cast,,,Linn,Precinct 061,3
+,Registered Voters,,IND,Linn,Precinct 061,25
+,Ballots Cast,,IND,Linn,Precinct 061,3
 Write In,U.S. House,4,IND,Linn,Precinct 061,1
 Overvote,U.S. House,4,IND,Linn,Precinct 061,0
 Undervote,U.S. House,4,IND,Linn,Precinct 061,2
@@ -5514,8 +5514,8 @@ Undervote,State House,15,IND,Linn,Precinct 061,
 Write In,State House,17,IND,Linn,Precinct 061,0
 Overvote,State House,17,IND,Linn,Precinct 061,0
 Undervote,State House,17,IND,Linn,Precinct 061,3
-,Registered Voters,,,Linn,Precinct 061,110
-,Ballots Cast,,,Linn,Precinct 061,49
+,Registered Voters,,DEM,Linn,Precinct 061,110
+,Ballots Cast,,DEM,Linn,Precinct 061,49
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 061,2
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 061,43
 Write In,U.S. House,4,DEM,Linn,Precinct 061,2
@@ -5548,8 +5548,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 061,23
 Write In,State House,17,DEM,Linn,Precinct 061,5
 Overvote,State House,17,DEM,Linn,Precinct 061,0
 Undervote,State House,17,DEM,Linn,Precinct 061,21
-,Registered Voters,,,Linn,Precinct 061,174
-,Ballots Cast,,,Linn,Precinct 061,99
+,Registered Voters,,REP,Linn,Precinct 061,174
+,Ballots Cast,,REP,Linn,Precinct 061,99
 Michael Polen,U.S. House,4,REP,Linn,Precinct 061,3
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 061,21
 Court Boice,U.S. House,4,REP,Linn,Precinct 061,9
@@ -5599,8 +5599,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 061,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 061,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 061,49
-,Registered Voters,,,Linn,Precinct 062,85
-,Ballots Cast,,,Linn,Precinct 062,23
+,Registered Voters,,IND,Linn,Precinct 062,85
+,Ballots Cast,,IND,Linn,Precinct 062,23
 Write In,U.S. House,4,IND,Linn,Precinct 062,8
 Overvote,U.S. House,4,IND,Linn,Precinct 062,0
 Undervote,U.S. House,4,IND,Linn,Precinct 062,15
@@ -5626,8 +5626,8 @@ Undervote,State House,15,IND,Linn,Precinct 062,
 Write In,State House,17,IND,Linn,Precinct 062,8
 Overvote,State House,17,IND,Linn,Precinct 062,0
 Undervote,State House,17,IND,Linn,Precinct 062,15
-,Registered Voters,,,Linn,Precinct 062,361
-,Ballots Cast,,,Linn,Precinct 062,112
+,Registered Voters,,DEM,Linn,Precinct 062,361
+,Ballots Cast,,DEM,Linn,Precinct 062,112
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 062,9
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 062,96
 Write In,U.S. House,4,DEM,Linn,Precinct 062,1
@@ -5660,8 +5660,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 062,69
 Write In,State House,17,DEM,Linn,Precinct 062,3
 Overvote,State House,17,DEM,Linn,Precinct 062,0
 Undervote,State House,17,DEM,Linn,Precinct 062,40
-,Registered Voters,,,Linn,Precinct 062,380
-,Ballots Cast,,,Linn,Precinct 062,157
+,Registered Voters,,REP,Linn,Precinct 062,380
+,Ballots Cast,,REP,Linn,Precinct 062,157
 Michael Polen,U.S. House,4,REP,Linn,Precinct 062,9
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 062,28
 Court Boice,U.S. House,4,REP,Linn,Precinct 062,16
@@ -5711,8 +5711,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 062,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 062,1
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 062,72
-,Registered Voters,,,Linn,Precinct 063,49
-,Ballots Cast,,,Linn,Precinct 063,14
+,Registered Voters,,IND,Linn,Precinct 063,49
+,Ballots Cast,,IND,Linn,Precinct 063,14
 Write In,U.S. House,4,IND,Linn,Precinct 063,2
 Overvote,U.S. House,4,IND,Linn,Precinct 063,0
 Undervote,U.S. House,4,IND,Linn,Precinct 063,12
@@ -5738,8 +5738,8 @@ Undervote,State House,15,IND,Linn,Precinct 063,4
 Write In,State House,17,IND,Linn,Precinct 063,
 Overvote,State House,17,IND,Linn,Precinct 063,
 Undervote,State House,17,IND,Linn,Precinct 063,
-,Registered Voters,,,Linn,Precinct 063,378
-,Ballots Cast,,,Linn,Precinct 063,164
+,Registered Voters,,DEM,Linn,Precinct 063,378
+,Ballots Cast,,DEM,Linn,Precinct 063,164
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 063,38
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 063,118
 Write In,U.S. House,4,DEM,Linn,Precinct 063,2
@@ -5772,8 +5772,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 063,
 Write In,State House,17,DEM,Linn,Precinct 063,
 Overvote,State House,17,DEM,Linn,Precinct 063,
 Undervote,State House,17,DEM,Linn,Precinct 063,
-,Registered Voters,,,Linn,Precinct 063,623
-,Ballots Cast,,,Linn,Precinct 063,345
+,Registered Voters,,REP,Linn,Precinct 063,623
+,Ballots Cast,,REP,Linn,Precinct 063,345
 Michael Polen,U.S. House,4,REP,Linn,Precinct 063,18
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 063,100
 Court Boice,U.S. House,4,REP,Linn,Precinct 063,25
@@ -5823,8 +5823,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 063,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 063,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 063,165
-,Registered Voters,,,Linn,Precinct 065,0
-,Ballots Cast,,,Linn,Precinct 065,0
+,Registered Voters,,IND,Linn,Precinct 065,0
+,Ballots Cast,,IND,Linn,Precinct 065,0
 Write In,U.S. House,4,IND,Linn,Precinct 065,0
 Overvote,U.S. House,4,IND,Linn,Precinct 065,0
 Undervote,U.S. House,4,IND,Linn,Precinct 065,0
@@ -5850,8 +5850,8 @@ Undervote,State House,15,IND,Linn,Precinct 065,0
 Write In,State House,17,IND,Linn,Precinct 065,
 Overvote,State House,17,IND,Linn,Precinct 065,
 Undervote,State House,17,IND,Linn,Precinct 065,
-,Registered Voters,,,Linn,Precinct 065,9
-,Ballots Cast,,,Linn,Precinct 065,4
+,Registered Voters,,DEM,Linn,Precinct 065,9
+,Ballots Cast,,DEM,Linn,Precinct 065,4
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 065,0
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 065,2
 Write In,U.S. House,4,DEM,Linn,Precinct 065,1
@@ -5884,8 +5884,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 065,
 Write In,State House,17,DEM,Linn,Precinct 065,
 Overvote,State House,17,DEM,Linn,Precinct 065,
 Undervote,State House,17,DEM,Linn,Precinct 065,
-,Registered Voters,,,Linn,Precinct 065,24
-,Ballots Cast,,,Linn,Precinct 065,15
+,Registered Voters,,REP,Linn,Precinct 065,24
+,Ballots Cast,,REP,Linn,Precinct 065,15
 Michael Polen,U.S. House,4,REP,Linn,Precinct 065,0
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 065,6
 Court Boice,U.S. House,4,REP,Linn,Precinct 065,0
@@ -5935,8 +5935,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 065,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 065,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 065,6
-,Registered Voters,,,Linn,Precinct 066,9
-,Ballots Cast,,,Linn,Precinct 066,1
+,Registered Voters,,IND,Linn,Precinct 066,9
+,Ballots Cast,,IND,Linn,Precinct 066,1
 Write In,U.S. House,4,IND,Linn,Precinct 066,1
 Overvote,U.S. House,4,IND,Linn,Precinct 066,0
 Undervote,U.S. House,4,IND,Linn,Precinct 066,0
@@ -5962,8 +5962,8 @@ Undervote,State House,15,IND,Linn,Precinct 066,
 Write In,State House,17,IND,Linn,Precinct 066,1
 Overvote,State House,17,IND,Linn,Precinct 066,0
 Undervote,State House,17,IND,Linn,Precinct 066,0
-,Registered Voters,,,Linn,Precinct 066,76
-,Ballots Cast,,,Linn,Precinct 066,35
+,Registered Voters,,DEM,Linn,Precinct 066,76
+,Ballots Cast,,DEM,Linn,Precinct 066,35
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 066,3
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 066,30
 Write In,U.S. House,4,DEM,Linn,Precinct 066,1
@@ -5996,8 +5996,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 066,20
 Write In,State House,17,DEM,Linn,Precinct 066,1
 Overvote,State House,17,DEM,Linn,Precinct 066,0
 Undervote,State House,17,DEM,Linn,Precinct 066,14
-,Registered Voters,,,Linn,Precinct 066,111
-,Ballots Cast,,,Linn,Precinct 066,40
+,Registered Voters,,REP,Linn,Precinct 066,111
+,Ballots Cast,,REP,Linn,Precinct 066,40
 Michael Polen,U.S. House,4,REP,Linn,Precinct 066,3
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 066,8
 Court Boice,U.S. House,4,REP,Linn,Precinct 066,5
@@ -6047,8 +6047,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 066,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 066,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 066,26
-,Registered Voters,,,Linn,Precinct 067,33
-,Ballots Cast,,,Linn,Precinct 067,8
+,Registered Voters,,IND,Linn,Precinct 067,33
+,Ballots Cast,,IND,Linn,Precinct 067,8
 Write In,U.S. House,4,IND,Linn,Precinct 067,3
 Overvote,U.S. House,4,IND,Linn,Precinct 067,0
 Undervote,U.S. House,4,IND,Linn,Precinct 067,5
@@ -6074,8 +6074,8 @@ Undervote,State House,15,IND,Linn,Precinct 067,
 Write In,State House,17,IND,Linn,Precinct 067,3
 Overvote,State House,17,IND,Linn,Precinct 067,0
 Undervote,State House,17,IND,Linn,Precinct 067,5
-,Registered Voters,,,Linn,Precinct 067,152
-,Ballots Cast,,,Linn,Precinct 067,60
+,Registered Voters,,DEM,Linn,Precinct 067,152
+,Ballots Cast,,DEM,Linn,Precinct 067,60
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 067,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 067,6
 Write In,U.S. House,4,DEM,Linn,Precinct 067,4
@@ -6108,8 +6108,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 067,35
 Write In,State House,17,DEM,Linn,Precinct 067,2
 Overvote,State House,17,DEM,Linn,Precinct 067,0
 Undervote,State House,17,DEM,Linn,Precinct 067,23
-,Registered Voters,,,Linn,Precinct 067,251
-,Ballots Cast,,,Linn,Precinct 067,131
+,Registered Voters,,REP,Linn,Precinct 067,251
+,Ballots Cast,,REP,Linn,Precinct 067,131
 Michael Polen,U.S. House,4,REP,Linn,Precinct 067,4
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 067,27
 Court Boice,U.S. House,4,REP,Linn,Precinct 067,9
@@ -6159,8 +6159,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 067,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 067,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 067,60
-,Registered Voters,,,Linn,Precinct 068,14
-,Ballots Cast,,,Linn,Precinct 068,5
+,Registered Voters,,IND,Linn,Precinct 068,14
+,Ballots Cast,,IND,Linn,Precinct 068,5
 Write In,U.S. House,4,IND,Linn,Precinct 068,2
 Overvote,U.S. House,4,IND,Linn,Precinct 068,0
 Undervote,U.S. House,4,IND,Linn,Precinct 068,3
@@ -6186,8 +6186,8 @@ Undervote,State House,15,IND,Linn,Precinct 068,
 Write In,State House,17,IND,Linn,Precinct 068,
 Overvote,State House,17,IND,Linn,Precinct 068,
 Undervote,State House,17,IND,Linn,Precinct 068,
-,Registered Voters,,,Linn,Precinct 068,43
-,Ballots Cast,,,Linn,Precinct 068,17
+,Registered Voters,,DEM,Linn,Precinct 068,43
+,Ballots Cast,,DEM,Linn,Precinct 068,17
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 068,5
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 068,11
 Write In,U.S. House,4,DEM,Linn,Precinct 068,0
@@ -6220,8 +6220,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 068,
 Write In,State House,17,DEM,Linn,Precinct 068,
 Overvote,State House,17,DEM,Linn,Precinct 068,
 Undervote,State House,17,DEM,Linn,Precinct 068,
-,Registered Voters,,,Linn,Precinct 068,100
-,Ballots Cast,,,Linn,Precinct 068,34
+,Registered Voters,,REP,Linn,Precinct 068,100
+,Ballots Cast,,REP,Linn,Precinct 068,34
 Michael Polen,U.S. House,4,REP,Linn,Precinct 068,1
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 068,10
 Court Boice,U.S. House,4,REP,Linn,Precinct 068,4
@@ -6271,8 +6271,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 068,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 068,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 068,20
-,Registered Voters,,,Linn,Precinct 070,30
-,Ballots Cast,,,Linn,Precinct 070,11
+,Registered Voters,,IND,Linn,Precinct 070,30
+,Ballots Cast,,IND,Linn,Precinct 070,11
 Write In,U.S. House,4,IND,Linn,Precinct 070,3
 Overvote,U.S. House,4,IND,Linn,Precinct 070,0
 Undervote,U.S. House,4,IND,Linn,Precinct 070,8
@@ -6298,8 +6298,8 @@ Undervote,State House,15,IND,Linn,Precinct 070,
 Write In,State House,17,IND,Linn,Precinct 070,
 Overvote,State House,17,IND,Linn,Precinct 070,
 Undervote,State House,17,IND,Linn,Precinct 070,
-,Registered Voters,,,Linn,Precinct 070,172
-,Ballots Cast,,,Linn,Precinct 070,86
+,Registered Voters,,DEM,Linn,Precinct 070,172
+,Ballots Cast,,DEM,Linn,Precinct 070,86
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 070,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 070,70
 Write In,U.S. House,4,DEM,Linn,Precinct 070,0
@@ -6332,8 +6332,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 070,
 Write In,State House,17,DEM,Linn,Precinct 070,
 Overvote,State House,17,DEM,Linn,Precinct 070,
 Undervote,State House,17,DEM,Linn,Precinct 070,
-,Registered Voters,,,Linn,Precinct 070,329
-,Ballots Cast,,,Linn,Precinct 070,182
+,Registered Voters,,REP,Linn,Precinct 070,329
+,Ballots Cast,,REP,Linn,Precinct 070,182
 Michael Polen,U.S. House,4,REP,Linn,Precinct 070,3
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 070,35
 Court Boice,U.S. House,4,REP,Linn,Precinct 070,16
@@ -6383,8 +6383,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 070,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 070,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 070,69
-,Registered Voters,,,Linn,Precinct 071,12
-,Ballots Cast,,,Linn,Precinct 071,1
+,Registered Voters,,IND,Linn,Precinct 071,12
+,Ballots Cast,,IND,Linn,Precinct 071,1
 Write In,U.S. House,4,IND,Linn,Precinct 071,0
 Overvote,U.S. House,4,IND,Linn,Precinct 071,0
 Undervote,U.S. House,4,IND,Linn,Precinct 071,1
@@ -6410,8 +6410,8 @@ Undervote,State House,15,IND,Linn,Precinct 071,
 Write In,State House,17,IND,Linn,Precinct 071,0
 Overvote,State House,17,IND,Linn,Precinct 071,0
 Undervote,State House,17,IND,Linn,Precinct 071,1
-,Registered Voters,,,Linn,Precinct 071,43
-,Ballots Cast,,,Linn,Precinct 071,12
+,Registered Voters,,DEM,Linn,Precinct 071,43
+,Ballots Cast,,DEM,Linn,Precinct 071,12
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 071,7
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 071,3
 Write In,U.S. House,4,DEM,Linn,Precinct 071,1
@@ -6444,8 +6444,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 071,10
 Write In,State House,17,DEM,Linn,Precinct 071,1
 Overvote,State House,17,DEM,Linn,Precinct 071,0
 Undervote,State House,17,DEM,Linn,Precinct 071,1
-,Registered Voters,,,Linn,Precinct 071,52
-,Ballots Cast,,,Linn,Precinct 071,21
+,Registered Voters,,REP,Linn,Precinct 071,52
+,Ballots Cast,,REP,Linn,Precinct 071,21
 Michael Polen,U.S. House,4,REP,Linn,Precinct 071,2
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 071,2
 Court Boice,U.S. House,4,REP,Linn,Precinct 071,4
@@ -6495,8 +6495,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 071,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 071,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 071,5
-,Registered Voters,,,Linn,Precinct 073,56
-,Ballots Cast,,,Linn,Precinct 073,15
+,Registered Voters,,IND,Linn,Precinct 073,56
+,Ballots Cast,,IND,Linn,Precinct 073,15
 Write In,U.S. House,4,IND,Linn,Precinct 073,5
 Overvote,U.S. House,4,IND,Linn,Precinct 073,0
 Undervote,U.S. House,4,IND,Linn,Precinct 073,10
@@ -6522,8 +6522,8 @@ Undervote,State House,15,IND,Linn,Precinct 073,
 Write In,State House,17,IND,Linn,Precinct 073,
 Overvote,State House,17,IND,Linn,Precinct 073,
 Undervote,State House,17,IND,Linn,Precinct 073,
-,Registered Voters,,,Linn,Precinct 073,322
-,Ballots Cast,,,Linn,Precinct 073,151
+,Registered Voters,,DEM,Linn,Precinct 073,322
+,Ballots Cast,,DEM,Linn,Precinct 073,151
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 073,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 073,130
 Write In,U.S. House,4,DEM,Linn,Precinct 073,4
@@ -6556,8 +6556,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 073,
 Write In,State House,17,DEM,Linn,Precinct 073,
 Overvote,State House,17,DEM,Linn,Precinct 073,
 Undervote,State House,17,DEM,Linn,Precinct 073,
-,Registered Voters,,,Linn,Precinct 073,460
-,Ballots Cast,,,Linn,Precinct 073,221
+,Registered Voters,,REP,Linn,Precinct 073,460
+,Ballots Cast,,REP,Linn,Precinct 073,221
 Michael Polen,U.S. House,4,REP,Linn,Precinct 073,15
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 073,38
 Court Boice,U.S. House,4,REP,Linn,Precinct 073,30
@@ -6607,8 +6607,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 073,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 073,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 073,84
-,Registered Voters,,,Linn,Precinct 074,53
-,Ballots Cast,,,Linn,Precinct 074,10
+,Registered Voters,,IND,Linn,Precinct 074,53
+,Ballots Cast,,IND,Linn,Precinct 074,10
 Write In,U.S. House,4,IND,Linn,Precinct 074,1
 Overvote,U.S. House,4,IND,Linn,Precinct 074,0
 Undervote,U.S. House,4,IND,Linn,Precinct 074,9
@@ -6634,8 +6634,8 @@ Undervote,State House,15,IND,Linn,Precinct 074,
 Write In,State House,17,IND,Linn,Precinct 074,0
 Overvote,State House,17,IND,Linn,Precinct 074,0
 Undervote,State House,17,IND,Linn,Precinct 074,10
-,Registered Voters,,,Linn,Precinct 074,255
-,Ballots Cast,,,Linn,Precinct 074,104
+,Registered Voters,,DEM,Linn,Precinct 074,255
+,Ballots Cast,,DEM,Linn,Precinct 074,104
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 074,9
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 074,84
 Write In,U.S. House,4,DEM,Linn,Precinct 074,1
@@ -6668,8 +6668,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 074,56
 Write In,State House,17,DEM,Linn,Precinct 074,1
 Overvote,State House,17,DEM,Linn,Precinct 074,0
 Undervote,State House,17,DEM,Linn,Precinct 074,47
-,Registered Voters,,,Linn,Precinct 074,384
-,Ballots Cast,,,Linn,Precinct 074,163
+,Registered Voters,,REP,Linn,Precinct 074,384
+,Ballots Cast,,REP,Linn,Precinct 074,163
 Michael Polen,U.S. House,4,REP,Linn,Precinct 074,9
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 074,29
 Court Boice,U.S. House,4,REP,Linn,Precinct 074,13
@@ -6719,8 +6719,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 074,6
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 074,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 074,84
-,Registered Voters,,,Linn,Precinct 075,54
-,Ballots Cast,,,Linn,Precinct 075,17
+,Registered Voters,,IND,Linn,Precinct 075,54
+,Ballots Cast,,IND,Linn,Precinct 075,17
 Write In,U.S. House,4,IND,Linn,Precinct 075,5
 Overvote,U.S. House,4,IND,Linn,Precinct 075,0
 Undervote,U.S. House,4,IND,Linn,Precinct 075,12
@@ -6746,8 +6746,8 @@ Undervote,State House,15,IND,Linn,Precinct 075,
 Write In,State House,17,IND,Linn,Precinct 075,
 Overvote,State House,17,IND,Linn,Precinct 075,
 Undervote,State House,17,IND,Linn,Precinct 075,
-,Registered Voters,,,Linn,Precinct 075,246
-,Ballots Cast,,,Linn,Precinct 075,145
+,Registered Voters,,DEM,Linn,Precinct 075,246
+,Ballots Cast,,DEM,Linn,Precinct 075,145
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 075,24
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 075,110
 Write In,U.S. House,4,DEM,Linn,Precinct 075,2
@@ -6780,8 +6780,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 075,
 Write In,State House,17,DEM,Linn,Precinct 075,
 Overvote,State House,17,DEM,Linn,Precinct 075,
 Undervote,State House,17,DEM,Linn,Precinct 075,
-,Registered Voters,,,Linn,Precinct 075,504
-,Ballots Cast,,,Linn,Precinct 075,273
+,Registered Voters,,REP,Linn,Precinct 075,504
+,Ballots Cast,,REP,Linn,Precinct 075,273
 Michael Polen,U.S. House,4,REP,Linn,Precinct 075,9
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 075,69
 Court Boice,U.S. House,4,REP,Linn,Precinct 075,49
@@ -6831,8 +6831,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 075,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 075,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 075,101
-,Registered Voters,,,Linn,Precinct 076,103
-,Ballots Cast,,,Linn,Precinct 076,34
+,Registered Voters,,IND,Linn,Precinct 076,103
+,Ballots Cast,,IND,Linn,Precinct 076,34
 Write In,U.S. House,4,IND,Linn,Precinct 076,8
 Overvote,U.S. House,4,IND,Linn,Precinct 076,0
 Undervote,U.S. House,4,IND,Linn,Precinct 076,26
@@ -6858,8 +6858,8 @@ Undervote,State House,15,IND,Linn,Precinct 076,14
 Write In,State House,17,IND,Linn,Precinct 076,
 Overvote,State House,17,IND,Linn,Precinct 076,
 Undervote,State House,17,IND,Linn,Precinct 076,
-,Registered Voters,,,Linn,Precinct 076,395
-,Ballots Cast,,,Linn,Precinct 076,177
+,Registered Voters,,DEM,Linn,Precinct 076,395
+,Ballots Cast,,DEM,Linn,Precinct 076,177
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 076,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 076,144
 Write In,U.S. House,4,DEM,Linn,Precinct 076,3
@@ -6892,8 +6892,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 076,
 Write In,State House,17,DEM,Linn,Precinct 076,
 Overvote,State House,17,DEM,Linn,Precinct 076,
 Undervote,State House,17,DEM,Linn,Precinct 076,
-,Registered Voters,,,Linn,Precinct 076,657
-,Ballots Cast,,,Linn,Precinct 076,357
+,Registered Voters,,REP,Linn,Precinct 076,657
+,Ballots Cast,,REP,Linn,Precinct 076,357
 Michael Polen,U.S. House,4,REP,Linn,Precinct 076,20
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 076,125
 Court Boice,U.S. House,4,REP,Linn,Precinct 076,50
@@ -6943,8 +6943,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 076,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 076,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 076,182
-,Registered Voters,,,Linn,Precinct 077,27
-,Ballots Cast,,,Linn,Precinct 077,5
+,Registered Voters,,IND,Linn,Precinct 077,27
+,Ballots Cast,,IND,Linn,Precinct 077,5
 Write In,U.S. House,4,IND,Linn,Precinct 077,4
 Overvote,U.S. House,4,IND,Linn,Precinct 077,0
 Undervote,U.S. House,4,IND,Linn,Precinct 077,1
@@ -6970,8 +6970,8 @@ Undervote,State House,15,IND,Linn,Precinct 077,
 Write In,State House,17,IND,Linn,Precinct 077,
 Overvote,State House,17,IND,Linn,Precinct 077,
 Undervote,State House,17,IND,Linn,Precinct 077,
-,Registered Voters,,,Linn,Precinct 077,140
-,Ballots Cast,,,Linn,Precinct 077,54
+,Registered Voters,,DEM,Linn,Precinct 077,140
+,Ballots Cast,,DEM,Linn,Precinct 077,54
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 077,9
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 077,40
 Write In,U.S. House,4,DEM,Linn,Precinct 077,3
@@ -7004,8 +7004,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 077,
 Write In,State House,17,DEM,Linn,Precinct 077,
 Overvote,State House,17,DEM,Linn,Precinct 077,
 Undervote,State House,17,DEM,Linn,Precinct 077,
-,Registered Voters,,,Linn,Precinct 077,216
-,Ballots Cast,,,Linn,Precinct 077,96
+,Registered Voters,,REP,Linn,Precinct 077,216
+,Ballots Cast,,REP,Linn,Precinct 077,96
 Michael Polen,U.S. House,4,REP,Linn,Precinct 077,5
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 077,23
 Court Boice,U.S. House,4,REP,Linn,Precinct 077,5
@@ -7055,8 +7055,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 077,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 077,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 077,30
-,Registered Voters,,,Linn,Precinct 078,52
-,Ballots Cast,,,Linn,Precinct 078,9
+,Registered Voters,,IND,Linn,Precinct 078,52
+,Ballots Cast,,IND,Linn,Precinct 078,9
 Write In,U.S. House,4,IND,Linn,Precinct 078,1
 Overvote,U.S. House,4,IND,Linn,Precinct 078,0
 Undervote,U.S. House,4,IND,Linn,Precinct 078,8
@@ -7082,8 +7082,8 @@ Undervote,State House,15,IND,Linn,Precinct 078,
 Write In,State House,17,IND,Linn,Precinct 078,0
 Overvote,State House,17,IND,Linn,Precinct 078,0
 Undervote,State House,17,IND,Linn,Precinct 078,9
-,Registered Voters,,,Linn,Precinct 078,244
-,Ballots Cast,,,Linn,Precinct 078,93
+,Registered Voters,,DEM,Linn,Precinct 078,244
+,Ballots Cast,,DEM,Linn,Precinct 078,93
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 078,15
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 078,74
 Write In,U.S. House,4,DEM,Linn,Precinct 078,1
@@ -7116,8 +7116,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 078,63
 Write In,State House,17,DEM,Linn,Precinct 078,0
 Overvote,State House,17,DEM,Linn,Precinct 078,0
 Undervote,State House,17,DEM,Linn,Precinct 078,30
-,Registered Voters,,,Linn,Precinct 078,317
-,Ballots Cast,,,Linn,Precinct 078,150
+,Registered Voters,,REP,Linn,Precinct 078,317
+,Ballots Cast,,REP,Linn,Precinct 078,150
 Michael Polen,U.S. House,4,REP,Linn,Precinct 078,7
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 078,51
 Court Boice,U.S. House,4,REP,Linn,Precinct 078,14
@@ -7167,8 +7167,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 078,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 078,1
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 078,62
-,Registered Voters,,,Linn,Precinct 079,106
-,Ballots Cast,,,Linn,Precinct 079,20
+,Registered Voters,,IND,Linn,Precinct 079,106
+,Ballots Cast,,IND,Linn,Precinct 079,20
 Write In,U.S. House,4,IND,Linn,Precinct 079,10
 Overvote,U.S. House,4,IND,Linn,Precinct 079,0
 Undervote,U.S. House,4,IND,Linn,Precinct 079,10
@@ -7194,8 +7194,8 @@ Undervote,State House,15,IND,Linn,Precinct 079,
 Write In,State House,17,IND,Linn,Precinct 079,7
 Overvote,State House,17,IND,Linn,Precinct 079,0
 Undervote,State House,17,IND,Linn,Precinct 079,13
-,Registered Voters,,,Linn,Precinct 079,479
-,Ballots Cast,,,Linn,Precinct 079,183
+,Registered Voters,,DEM,Linn,Precinct 079,479
+,Ballots Cast,,DEM,Linn,Precinct 079,183
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 079,20
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 079,155
 Write In,U.S. House,4,DEM,Linn,Precinct 079,1
@@ -7228,8 +7228,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 079,111
 Write In,State House,17,DEM,Linn,Precinct 079,3
 Overvote,State House,17,DEM,Linn,Precinct 079,0
 Undervote,State House,17,DEM,Linn,Precinct 079,69
-,Registered Voters,,,Linn,Precinct 079,545
-,Ballots Cast,,,Linn,Precinct 079,238
+,Registered Voters,,REP,Linn,Precinct 079,545
+,Ballots Cast,,REP,Linn,Precinct 079,238
 Michael Polen,U.S. House,4,REP,Linn,Precinct 079,13
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 079,74
 Court Boice,U.S. House,4,REP,Linn,Precinct 079,20
@@ -7279,8 +7279,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 079,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 079,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 079,114
-,Registered Voters,,,Linn,Precinct 080,91
-,Ballots Cast,,,Linn,Precinct 080,23
+,Registered Voters,,IND,Linn,Precinct 080,91
+,Ballots Cast,,IND,Linn,Precinct 080,23
 Write In,U.S. House,4,IND,Linn,Precinct 080,7
 Overvote,U.S. House,4,IND,Linn,Precinct 080,0
 Undervote,U.S. House,4,IND,Linn,Precinct 080,16
@@ -7306,8 +7306,8 @@ Undervote,State House,15,IND,Linn,Precinct 080,
 Write In,State House,17,IND,Linn,Precinct 080,8
 Overvote,State House,17,IND,Linn,Precinct 080,0
 Undervote,State House,17,IND,Linn,Precinct 080,15
-,Registered Voters,,,Linn,Precinct 080,320
-,Ballots Cast,,,Linn,Precinct 080,143
+,Registered Voters,,DEM,Linn,Precinct 080,320
+,Ballots Cast,,DEM,Linn,Precinct 080,143
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 080,25
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 080,110
 Write In,U.S. House,4,DEM,Linn,Precinct 080,4
@@ -7340,8 +7340,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 080,94
 Write In,State House,17,DEM,Linn,Precinct 080,3
 Overvote,State House,17,DEM,Linn,Precinct 080,0
 Undervote,State House,17,DEM,Linn,Precinct 080,46
-,Registered Voters,,,Linn,Precinct 080,461
-,Ballots Cast,,,Linn,Precinct 080,206
+,Registered Voters,,REP,Linn,Precinct 080,461
+,Ballots Cast,,REP,Linn,Precinct 080,206
 Michael Polen,U.S. House,4,REP,Linn,Precinct 080,11
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 080,44
 Court Boice,U.S. House,4,REP,Linn,Precinct 080,28
@@ -7391,8 +7391,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 080,6
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 080,2
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 080,70
-,Registered Voters,,,Linn,Precinct 082,38
-,Ballots Cast,,,Linn,Precinct 082,10
+,Registered Voters,,IND,Linn,Precinct 082,38
+,Ballots Cast,,IND,Linn,Precinct 082,10
 Write In,U.S. House,4,IND,Linn,Precinct 082,5
 Overvote,U.S. House,4,IND,Linn,Precinct 082,0
 Undervote,U.S. House,4,IND,Linn,Precinct 082,5
@@ -7418,8 +7418,8 @@ Undervote,State House,15,IND,Linn,Precinct 082,
 Write In,State House,17,IND,Linn,Precinct 082,2
 Overvote,State House,17,IND,Linn,Precinct 082,0
 Undervote,State House,17,IND,Linn,Precinct 082,8
-,Registered Voters,,,Linn,Precinct 082,152
-,Ballots Cast,,,Linn,Precinct 082,58
+,Registered Voters,,DEM,Linn,Precinct 082,152
+,Ballots Cast,,DEM,Linn,Precinct 082,58
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 082,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 082,40
 Write In,U.S. House,4,DEM,Linn,Precinct 082,1
@@ -7452,8 +7452,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 082,30
 Write In,State House,17,DEM,Linn,Precinct 082,2
 Overvote,State House,17,DEM,Linn,Precinct 082,0
 Undervote,State House,17,DEM,Linn,Precinct 082,26
-,Registered Voters,,,Linn,Precinct 082,199
-,Ballots Cast,,,Linn,Precinct 082,79
+,Registered Voters,,REP,Linn,Precinct 082,199
+,Ballots Cast,,REP,Linn,Precinct 082,79
 Michael Polen,U.S. House,4,REP,Linn,Precinct 082,1
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 082,19
 Court Boice,U.S. House,4,REP,Linn,Precinct 082,7
@@ -7503,8 +7503,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 082,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 082,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 082,34
-,Registered Voters,,,Linn,Precinct 083,2
-,Ballots Cast,,,Linn,Precinct 083,0
+,Registered Voters,,IND,Linn,Precinct 083,2
+,Ballots Cast,,IND,Linn,Precinct 083,0
 Write In,U.S. House,4,IND,Linn,Precinct 083,0
 Overvote,U.S. House,4,IND,Linn,Precinct 083,0
 Undervote,U.S. House,4,IND,Linn,Precinct 083,0
@@ -7530,8 +7530,8 @@ Undervote,State House,15,IND,Linn,Precinct 083,
 Write In,State House,17,IND,Linn,Precinct 083,0
 Overvote,State House,17,IND,Linn,Precinct 083,0
 Undervote,State House,17,IND,Linn,Precinct 083,0
-,Registered Voters,,,Linn,Precinct 083,8
-,Ballots Cast,,,Linn,Precinct 083,6
+,Registered Voters,,DEM,Linn,Precinct 083,8
+,Ballots Cast,,DEM,Linn,Precinct 083,6
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 083,0
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 083,6
 Write In,U.S. House,4,DEM,Linn,Precinct 083,0
@@ -7564,8 +7564,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 083,3
 Write In,State House,17,DEM,Linn,Precinct 083,0
 Overvote,State House,17,DEM,Linn,Precinct 083,0
 Undervote,State House,17,DEM,Linn,Precinct 083,3
-,Registered Voters,,,Linn,Precinct 083,11
-,Ballots Cast,,,Linn,Precinct 083,6
+,Registered Voters,,REP,Linn,Precinct 083,11
+,Ballots Cast,,REP,Linn,Precinct 083,6
 Michael Polen,U.S. House,4,REP,Linn,Precinct 083,0
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 083,1
 Court Boice,U.S. House,4,REP,Linn,Precinct 083,0
@@ -7615,8 +7615,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 083,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 083,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 083,0
-,Registered Voters,,,Linn,Precinct 084,83
-,Ballots Cast,,,Linn,Precinct 084,11
+,Registered Voters,,IND,Linn,Precinct 084,83
+,Ballots Cast,,IND,Linn,Precinct 084,11
 Write In,U.S. House,4,IND,Linn,Precinct 084,5
 Overvote,U.S. House,4,IND,Linn,Precinct 084,0
 Undervote,U.S. House,4,IND,Linn,Precinct 084,6
@@ -7642,8 +7642,8 @@ Undervote,State House,15,IND,Linn,Precinct 084,3
 Write In,State House,17,IND,Linn,Precinct 084,
 Overvote,State House,17,IND,Linn,Precinct 084,
 Undervote,State House,17,IND,Linn,Precinct 084,
-,Registered Voters,,,Linn,Precinct 084,376
-,Ballots Cast,,,Linn,Precinct 084,119
+,Registered Voters,,DEM,Linn,Precinct 084,376
+,Ballots Cast,,DEM,Linn,Precinct 084,119
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 084,15
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 084,98
 Write In,U.S. House,4,DEM,Linn,Precinct 084,0
@@ -7676,8 +7676,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 084,
 Write In,State House,17,DEM,Linn,Precinct 084,
 Overvote,State House,17,DEM,Linn,Precinct 084,
 Undervote,State House,17,DEM,Linn,Precinct 084,
-,Registered Voters,,,Linn,Precinct 084,271
-,Ballots Cast,,,Linn,Precinct 084,89
+,Registered Voters,,REP,Linn,Precinct 084,271
+,Ballots Cast,,REP,Linn,Precinct 084,89
 Michael Polen,U.S. House,4,REP,Linn,Precinct 084,3
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 084,31
 Court Boice,U.S. House,4,REP,Linn,Precinct 084,10
@@ -7727,8 +7727,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 084,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 084,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 084,47
-,Registered Voters,,,Linn,Precinct 086,72
-,Ballots Cast,,,Linn,Precinct 086,15
+,Registered Voters,,IND,Linn,Precinct 086,72
+,Ballots Cast,,IND,Linn,Precinct 086,15
 Write In,U.S. House,4,IND,Linn,Precinct 086,2
 Overvote,U.S. House,4,IND,Linn,Precinct 086,0
 Undervote,U.S. House,4,IND,Linn,Precinct 086,13
@@ -7754,8 +7754,8 @@ Undervote,State House,15,IND,Linn,Precinct 086,
 Write In,State House,17,IND,Linn,Precinct 086,3
 Overvote,State House,17,IND,Linn,Precinct 086,0
 Undervote,State House,17,IND,Linn,Precinct 086,12
-,Registered Voters,,,Linn,Precinct 086,
-,Ballots Cast,,,Linn,Precinct 086,335
+,Registered Voters,,DEM,Linn,Precinct 086,
+,Ballots Cast,,DEM,Linn,Precinct 086,335
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 086,145
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 086,115
 Write In,U.S. House,4,DEM,Linn,Precinct 086,1
@@ -7788,8 +7788,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 086,74
 Write In,State House,17,DEM,Linn,Precinct 086,3
 Overvote,State House,17,DEM,Linn,Precinct 086,0
 Undervote,State House,17,DEM,Linn,Precinct 086,68
-,Registered Voters,,,Linn,Precinct 086,685
-,Ballots Cast,,,Linn,Precinct 086,355
+,Registered Voters,,REP,Linn,Precinct 086,685
+,Ballots Cast,,REP,Linn,Precinct 086,355
 Michael Polen,U.S. House,4,REP,Linn,Precinct 086,12
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 086,80
 Court Boice,U.S. House,4,REP,Linn,Precinct 086,45
@@ -7839,8 +7839,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 086,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 086,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 086,127
-,Registered Voters,,,Linn,Precinct 087,23
-,Ballots Cast,,,Linn,Precinct 087,8
+,Registered Voters,,IND,Linn,Precinct 087,23
+,Ballots Cast,,IND,Linn,Precinct 087,8
 Write In,U.S. House,4,IND,Linn,Precinct 087,2
 Overvote,U.S. House,4,IND,Linn,Precinct 087,0
 Undervote,U.S. House,4,IND,Linn,Precinct 087,6
@@ -7866,8 +7866,8 @@ Undervote,State House,15,IND,Linn,Precinct 087,
 Write In,State House,17,IND,Linn,Precinct 087,
 Overvote,State House,17,IND,Linn,Precinct 087,
 Undervote,State House,17,IND,Linn,Precinct 087,
-,Registered Voters,,,Linn,Precinct 087,141
-,Ballots Cast,,,Linn,Precinct 087,57
+,Registered Voters,,DEM,Linn,Precinct 087,141
+,Ballots Cast,,DEM,Linn,Precinct 087,57
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 087,8
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 087,47
 Write In,U.S. House,4,DEM,Linn,Precinct 087,0
@@ -7900,8 +7900,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 087,
 Write In,State House,17,DEM,Linn,Precinct 087,
 Overvote,State House,17,DEM,Linn,Precinct 087,
 Undervote,State House,17,DEM,Linn,Precinct 087,
-,Registered Voters,,,Linn,Precinct 087,208
-,Ballots Cast,,,Linn,Precinct 087,95
+,Registered Voters,,REP,Linn,Precinct 087,208
+,Ballots Cast,,REP,Linn,Precinct 087,95
 Michael Polen,U.S. House,4,REP,Linn,Precinct 087,1
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 087,22
 Court Boice,U.S. House,4,REP,Linn,Precinct 087,9
@@ -7951,8 +7951,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 087,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 087,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 087,38
-,Registered Voters,,,Linn,Precinct 088,53
-,Ballots Cast,,,Linn,Precinct 088,11
+,Registered Voters,,IND,Linn,Precinct 088,53
+,Ballots Cast,,IND,Linn,Precinct 088,11
 Write In,U.S. House,4,IND,Linn,Precinct 088,2
 Overvote,U.S. House,4,IND,Linn,Precinct 088,0
 Undervote,U.S. House,4,IND,Linn,Precinct 088,9
@@ -7978,8 +7978,8 @@ Undervote,State House,15,IND,Linn,Precinct 088,
 Write In,State House,17,IND,Linn,Precinct 088,2
 Overvote,State House,17,IND,Linn,Precinct 088,0
 Undervote,State House,17,IND,Linn,Precinct 088,9
-,Registered Voters,,,Linn,Precinct 088,297
-,Ballots Cast,,,Linn,Precinct 088,95
+,Registered Voters,,DEM,Linn,Precinct 088,297
+,Ballots Cast,,DEM,Linn,Precinct 088,95
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 088,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 088,75
 Write In,U.S. House,4,DEM,Linn,Precinct 088,1
@@ -8012,8 +8012,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 088,55
 Write In,State House,17,DEM,Linn,Precinct 088,5
 Overvote,State House,17,DEM,Linn,Precinct 088,0
 Undervote,State House,17,DEM,Linn,Precinct 088,35
-,Registered Voters,,,Linn,Precinct 088,398
-,Ballots Cast,,,Linn,Precinct 088,181
+,Registered Voters,,REP,Linn,Precinct 088,398
+,Ballots Cast,,REP,Linn,Precinct 088,181
 Michael Polen,U.S. House,4,REP,Linn,Precinct 088,12
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 088,44
 Court Boice,U.S. House,4,REP,Linn,Precinct 088,26
@@ -8063,8 +8063,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 088,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 088,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 088,48
-,Registered Voters,,,Linn,Precinct 089,50
-,Ballots Cast,,,Linn,Precinct 089,13
+,Registered Voters,,IND,Linn,Precinct 089,50
+,Ballots Cast,,IND,Linn,Precinct 089,13
 Write In,U.S. House,4,IND,Linn,Precinct 089,6
 Overvote,U.S. House,4,IND,Linn,Precinct 089,0
 Undervote,U.S. House,4,IND,Linn,Precinct 089,7
@@ -8090,8 +8090,8 @@ Undervote,State House,15,IND,Linn,Precinct 089,5
 Write In,State House,17,IND,Linn,Precinct 089,
 Overvote,State House,17,IND,Linn,Precinct 089,
 Undervote,State House,17,IND,Linn,Precinct 089,
-,Registered Voters,,,Linn,Precinct 089,291
-,Ballots Cast,,,Linn,Precinct 089,150
+,Registered Voters,,DEM,Linn,Precinct 089,291
+,Ballots Cast,,DEM,Linn,Precinct 089,150
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 089,17
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 089,120
 Write In,U.S. House,4,DEM,Linn,Precinct 089,2
@@ -8124,8 +8124,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 089,
 Write In,State House,17,DEM,Linn,Precinct 089,
 Overvote,State House,17,DEM,Linn,Precinct 089,
 Undervote,State House,17,DEM,Linn,Precinct 089,
-,Registered Voters,,,Linn,Precinct 089,329
-,Ballots Cast,,,Linn,Precinct 089,187
+,Registered Voters,,REP,Linn,Precinct 089,329
+,Ballots Cast,,REP,Linn,Precinct 089,187
 Michael Polen,U.S. House,4,REP,Linn,Precinct 089,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 089,69
 Court Boice,U.S. House,4,REP,Linn,Precinct 089,22
@@ -8175,8 +8175,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 089,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 089,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 089,97
-,Registered Voters,,,Linn,Precinct 091,91
-,Ballots Cast,,,Linn,Precinct 091,23
+,Registered Voters,,IND,Linn,Precinct 091,91
+,Ballots Cast,,IND,Linn,Precinct 091,23
 Write In,U.S. House,4,IND,Linn,Precinct 091,7
 Overvote,U.S. House,4,IND,Linn,Precinct 091,0
 Undervote,U.S. House,4,IND,Linn,Precinct 091,16
@@ -8202,8 +8202,8 @@ Undervote,State House,15,IND,Linn,Precinct 091,13
 Write In,State House,17,IND,Linn,Precinct 091,
 Overvote,State House,17,IND,Linn,Precinct 091,
 Undervote,State House,17,IND,Linn,Precinct 091,
-,Registered Voters,,,Linn,Precinct 091,439
-,Ballots Cast,,,Linn,Precinct 091,147
+,Registered Voters,,DEM,Linn,Precinct 091,439
+,Ballots Cast,,DEM,Linn,Precinct 091,147
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 091,18
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 091,125
 Write In,U.S. House,4,DEM,Linn,Precinct 091,3
@@ -8236,8 +8236,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 091,
 Write In,State House,17,DEM,Linn,Precinct 091,
 Overvote,State House,17,DEM,Linn,Precinct 091,
 Undervote,State House,17,DEM,Linn,Precinct 091,
-,Registered Voters,,,Linn,Precinct 091,386
-,Ballots Cast,,,Linn,Precinct 091,167
+,Registered Voters,,REP,Linn,Precinct 091,386
+,Ballots Cast,,REP,Linn,Precinct 091,167
 Michael Polen,U.S. House,4,REP,Linn,Precinct 091,11
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 091,56
 Court Boice,U.S. House,4,REP,Linn,Precinct 091,17
@@ -8287,8 +8287,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 091,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 091,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 091,85
-,Registered Voters,,,Linn,Precinct 092,123
-,Ballots Cast,,,Linn,Precinct 092,30
+,Registered Voters,,IND,Linn,Precinct 092,123
+,Ballots Cast,,IND,Linn,Precinct 092,30
 Write In,U.S. House,4,IND,Linn,Precinct 092,14
 Overvote,U.S. House,4,IND,Linn,Precinct 092,0
 Undervote,U.S. House,4,IND,Linn,Precinct 092,16
@@ -8314,8 +8314,8 @@ Undervote,State House,15,IND,Linn,Precinct 092,12
 Write In,State House,17,IND,Linn,Precinct 092,
 Overvote,State House,17,IND,Linn,Precinct 092,
 Undervote,State House,17,IND,Linn,Precinct 092,
-,Registered Voters,,,Linn,Precinct 092,691
-,Ballots Cast,,,Linn,Precinct 092,280
+,Registered Voters,,DEM,Linn,Precinct 092,691
+,Ballots Cast,,DEM,Linn,Precinct 092,280
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 092,33
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 092,229
 Write In,U.S. House,4,DEM,Linn,Precinct 092,2
@@ -8348,8 +8348,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 092,
 Write In,State House,17,DEM,Linn,Precinct 092,
 Overvote,State House,17,DEM,Linn,Precinct 092,
 Undervote,State House,17,DEM,Linn,Precinct 092,
-,Registered Voters,,,Linn,Precinct 092,647
-,Ballots Cast,,,Linn,Precinct 092,306
+,Registered Voters,,REP,Linn,Precinct 092,647
+,Ballots Cast,,REP,Linn,Precinct 092,306
 Michael Polen,U.S. House,4,REP,Linn,Precinct 092,15
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 092,96
 Court Boice,U.S. House,4,REP,Linn,Precinct 092,38
@@ -8399,8 +8399,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 092,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 092,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 092,179
-,Registered Voters,,,Linn,Precinct 093,140
-,Ballots Cast,,,Linn,Precinct 093,38
+,Registered Voters,,IND,Linn,Precinct 093,140
+,Ballots Cast,,IND,Linn,Precinct 093,38
 Write In,U.S. House,4,IND,Linn,Precinct 093,13
 Overvote,U.S. House,4,IND,Linn,Precinct 093,0
 Undervote,U.S. House,4,IND,Linn,Precinct 093,25
@@ -8426,8 +8426,8 @@ Undervote,State House,15,IND,Linn,Precinct 093,18
 Write In,State House,17,IND,Linn,Precinct 093,
 Overvote,State House,17,IND,Linn,Precinct 093,
 Undervote,State House,17,IND,Linn,Precinct 093,
-,Registered Voters,,,Linn,Precinct 093,661
-,Ballots Cast,,,Linn,Precinct 093,247
+,Registered Voters,,DEM,Linn,Precinct 093,661
+,Ballots Cast,,DEM,Linn,Precinct 093,247
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 093,27
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 093,199
 Write In,U.S. House,4,DEM,Linn,Precinct 093,4
@@ -8460,8 +8460,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 093,
 Write In,State House,17,DEM,Linn,Precinct 093,
 Overvote,State House,17,DEM,Linn,Precinct 093,
 Undervote,State House,17,DEM,Linn,Precinct 093,
-,Registered Voters,,,Linn,Precinct 093,664
-,Ballots Cast,,,Linn,Precinct 093,282
+,Registered Voters,,REP,Linn,Precinct 093,664
+,Ballots Cast,,REP,Linn,Precinct 093,282
 Michael Polen,U.S. House,4,REP,Linn,Precinct 093,19
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 093,105
 Court Boice,U.S. House,4,REP,Linn,Precinct 093,17
@@ -8511,8 +8511,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 093,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 093,2
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 093,202
-,Registered Voters,,,Linn,Precinct 094,43
-,Ballots Cast,,,Linn,Precinct 094,11
+,Registered Voters,,IND,Linn,Precinct 094,43
+,Ballots Cast,,IND,Linn,Precinct 094,11
 Write In,U.S. House,4,IND,Linn,Precinct 094,5
 Overvote,U.S. House,4,IND,Linn,Precinct 094,0
 Undervote,U.S. House,4,IND,Linn,Precinct 094,6
@@ -8538,8 +8538,8 @@ Undervote,State House,15,IND,Linn,Precinct 094,2
 Write In,State House,17,IND,Linn,Precinct 094,
 Overvote,State House,17,IND,Linn,Precinct 094,
 Undervote,State House,17,IND,Linn,Precinct 094,
-,Registered Voters,,,Linn,Precinct 094,313
-,Ballots Cast,,,Linn,Precinct 094,119
+,Registered Voters,,DEM,Linn,Precinct 094,313
+,Ballots Cast,,DEM,Linn,Precinct 094,119
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 094,16
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 094,100
 Write In,U.S. House,4,DEM,Linn,Precinct 094,0
@@ -8572,8 +8572,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 094,
 Write In,State House,17,DEM,Linn,Precinct 094,
 Overvote,State House,17,DEM,Linn,Precinct 094,
 Undervote,State House,17,DEM,Linn,Precinct 094,
-,Registered Voters,,,Linn,Precinct 094,307
-,Ballots Cast,,,Linn,Precinct 094,155
+,Registered Voters,,REP,Linn,Precinct 094,307
+,Ballots Cast,,REP,Linn,Precinct 094,155
 Michael Polen,U.S. House,4,REP,Linn,Precinct 094,5
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 094,64
 Court Boice,U.S. House,4,REP,Linn,Precinct 094,9
@@ -8623,8 +8623,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 094,4
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 094,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 094,68
-,Registered Voters,,,Linn,Precinct 095,78
-,Ballots Cast,,,Linn,Precinct 095,19
+,Registered Voters,,IND,Linn,Precinct 095,78
+,Ballots Cast,,IND,Linn,Precinct 095,19
 Write In,U.S. House,4,IND,Linn,Precinct 095,9
 Overvote,U.S. House,4,IND,Linn,Precinct 095,0
 Undervote,U.S. House,4,IND,Linn,Precinct 095,10
@@ -8650,8 +8650,8 @@ Undervote,State House,15,IND,Linn,Precinct 095,9
 Write In,State House,17,IND,Linn,Precinct 095,
 Overvote,State House,17,IND,Linn,Precinct 095,
 Undervote,State House,17,IND,Linn,Precinct 095,
-,Registered Voters,,,Linn,Precinct 095,388
-,Ballots Cast,,,Linn,Precinct 095,147
+,Registered Voters,,DEM,Linn,Precinct 095,388
+,Ballots Cast,,DEM,Linn,Precinct 095,147
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 095,28
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 095,117
 Write In,U.S. House,4,DEM,Linn,Precinct 095,0
@@ -8684,8 +8684,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 095,
 Write In,State House,17,DEM,Linn,Precinct 095,
 Overvote,State House,17,DEM,Linn,Precinct 095,
 Undervote,State House,17,DEM,Linn,Precinct 095,
-,Registered Voters,,,Linn,Precinct 095,487
-,Ballots Cast,,,Linn,Precinct 095,250
+,Registered Voters,,REP,Linn,Precinct 095,487
+,Ballots Cast,,REP,Linn,Precinct 095,250
 Michael Polen,U.S. House,4,REP,Linn,Precinct 095,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 095,67
 Court Boice,U.S. House,4,REP,Linn,Precinct 095,19
@@ -8735,8 +8735,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 095,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 095,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 095,126
-,Registered Voters,,,Linn,Precinct 096,48
-,Ballots Cast,,,Linn,Precinct 096,18
+,Registered Voters,,IND,Linn,Precinct 096,48
+,Ballots Cast,,IND,Linn,Precinct 096,18
 Write In,U.S. House,4,IND,Linn,Precinct 096,7
 Overvote,U.S. House,4,IND,Linn,Precinct 096,0
 Undervote,U.S. House,4,IND,Linn,Precinct 096,11
@@ -8762,8 +8762,8 @@ Undervote,State House,15,IND,Linn,Precinct 096,12
 Write In,State House,17,IND,Linn,Precinct 096,
 Overvote,State House,17,IND,Linn,Precinct 096,
 Undervote,State House,17,IND,Linn,Precinct 096,
-,Registered Voters,,,Linn,Precinct 096,338
-,Ballots Cast,,,Linn,Precinct 096,184
+,Registered Voters,,DEM,Linn,Precinct 096,338
+,Ballots Cast,,DEM,Linn,Precinct 096,184
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 096,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 096,159
 Write In,U.S. House,4,DEM,Linn,Precinct 096,3
@@ -8796,8 +8796,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 096,
 Write In,State House,17,DEM,Linn,Precinct 096,
 Overvote,State House,17,DEM,Linn,Precinct 096,
 Undervote,State House,17,DEM,Linn,Precinct 096,
-,Registered Voters,,,Linn,Precinct 096,349
-,Ballots Cast,,,Linn,Precinct 096,206
+,Registered Voters,,REP,Linn,Precinct 096,349
+,Ballots Cast,,REP,Linn,Precinct 096,206
 Michael Polen,U.S. House,4,REP,Linn,Precinct 096,4
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 096,59
 Court Boice,U.S. House,4,REP,Linn,Precinct 096,25
@@ -8847,8 +8847,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 096,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 096,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 096,111
-,Registered Voters,,,Linn,Precinct 097,46
-,Ballots Cast,,,Linn,Precinct 097,16
+,Registered Voters,,IND,Linn,Precinct 097,46
+,Ballots Cast,,IND,Linn,Precinct 097,16
 Write In,U.S. House,4,IND,Linn,Precinct 097,2
 Overvote,U.S. House,4,IND,Linn,Precinct 097,0
 Undervote,U.S. House,4,IND,Linn,Precinct 097,14
@@ -8874,8 +8874,8 @@ Undervote,State House,15,IND,Linn,Precinct 097,8
 Write In,State House,17,IND,Linn,Precinct 097,
 Overvote,State House,17,IND,Linn,Precinct 097,
 Undervote,State House,17,IND,Linn,Precinct 097,
-,Registered Voters,,,Linn,Precinct 097,243
-,Ballots Cast,,,Linn,Precinct 097,107
+,Registered Voters,,DEM,Linn,Precinct 097,243
+,Ballots Cast,,DEM,Linn,Precinct 097,107
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 097,14
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 097,86
 Write In,U.S. House,4,DEM,Linn,Precinct 097,2
@@ -8908,8 +8908,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 097,
 Write In,State House,17,DEM,Linn,Precinct 097,
 Overvote,State House,17,DEM,Linn,Precinct 097,
 Undervote,State House,17,DEM,Linn,Precinct 097,
-,Registered Voters,,,Linn,Precinct 097,421
-,Ballots Cast,,,Linn,Precinct 097,220
+,Registered Voters,,REP,Linn,Precinct 097,421
+,Ballots Cast,,REP,Linn,Precinct 097,220
 Michael Polen,U.S. House,4,REP,Linn,Precinct 097,6
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 097,48
 Court Boice,U.S. House,4,REP,Linn,Precinct 097,25
@@ -8959,8 +8959,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 097,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 097,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 097,117
-,Registered Voters,,,Linn,Precinct 099,22
-,Ballots Cast,,,Linn,Precinct 099,5
+,Registered Voters,,IND,Linn,Precinct 099,22
+,Ballots Cast,,IND,Linn,Precinct 099,5
 Write In,U.S. House,4,IND,Linn,Precinct 099,1
 Overvote,U.S. House,4,IND,Linn,Precinct 099,0
 Undervote,U.S. House,4,IND,Linn,Precinct 099,4
@@ -8986,8 +8986,8 @@ Undervote,State House,15,IND,Linn,Precinct 099,
 Write In,State House,17,IND,Linn,Precinct 099,
 Overvote,State House,17,IND,Linn,Precinct 099,
 Undervote,State House,17,IND,Linn,Precinct 099,
-,Registered Voters,,,Linn,Precinct 099,109
-,Ballots Cast,,,Linn,Precinct 099,49
+,Registered Voters,,DEM,Linn,Precinct 099,109
+,Ballots Cast,,DEM,Linn,Precinct 099,49
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 099,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 099,36
 Write In,U.S. House,4,DEM,Linn,Precinct 099,0
@@ -9020,8 +9020,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 099,
 Write In,State House,17,DEM,Linn,Precinct 099,
 Overvote,State House,17,DEM,Linn,Precinct 099,
 Undervote,State House,17,DEM,Linn,Precinct 099,
-,Registered Voters,,,Linn,Precinct 099,195
-,Ballots Cast,,,Linn,Precinct 099,88
+,Registered Voters,,REP,Linn,Precinct 099,195
+,Ballots Cast,,REP,Linn,Precinct 099,88
 Michael Polen,U.S. House,4,REP,Linn,Precinct 099,6
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 099,14
 Court Boice,U.S. House,4,REP,Linn,Precinct 099,5
@@ -9071,8 +9071,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 099,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 099,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 099,40
-,Registered Voters,,,Linn,Precinct 100,82
-,Ballots Cast,,,Linn,Precinct 100,26
+,Registered Voters,,IND,Linn,Precinct 100,82
+,Ballots Cast,,IND,Linn,Precinct 100,26
 Write In,U.S. House,4,IND,Linn,Precinct 100,10
 Overvote,U.S. House,4,IND,Linn,Precinct 100,0
 Undervote,U.S. House,4,IND,Linn,Precinct 100,16
@@ -9098,8 +9098,8 @@ Undervote,State House,15,IND,Linn,Precinct 100,8
 Write In,State House,17,IND,Linn,Precinct 100,
 Overvote,State House,17,IND,Linn,Precinct 100,
 Undervote,State House,17,IND,Linn,Precinct 100,
-,Registered Voters,,,Linn,Precinct 100,492
-,Ballots Cast,,,Linn,Precinct 100,239
+,Registered Voters,,DEM,Linn,Precinct 100,492
+,Ballots Cast,,DEM,Linn,Precinct 100,239
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 100,32
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 100,191
 Write In,U.S. House,4,DEM,Linn,Precinct 100,1
@@ -9132,8 +9132,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 100,
 Write In,State House,17,DEM,Linn,Precinct 100,
 Overvote,State House,17,DEM,Linn,Precinct 100,
 Undervote,State House,17,DEM,Linn,Precinct 100,
-,Registered Voters,,,Linn,Precinct 100,568
-,Ballots Cast,,,Linn,Precinct 100,291
+,Registered Voters,,REP,Linn,Precinct 100,568
+,Ballots Cast,,REP,Linn,Precinct 100,291
 Michael Polen,U.S. House,4,REP,Linn,Precinct 100,15
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 100,97
 Court Boice,U.S. House,4,REP,Linn,Precinct 100,23
@@ -9183,8 +9183,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 100,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 100,1
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 100,177
-,Registered Voters,,,Linn,Precinct 101,40
-,Ballots Cast,,,Linn,Precinct 101,11
+,Registered Voters,,IND,Linn,Precinct 101,40
+,Ballots Cast,,IND,Linn,Precinct 101,11
 Write In,U.S. House,4,IND,Linn,Precinct 101,4
 Overvote,U.S. House,4,IND,Linn,Precinct 101,0
 Undervote,U.S. House,4,IND,Linn,Precinct 101,7
@@ -9210,8 +9210,8 @@ Undervote,State House,15,IND,Linn,Precinct 101,
 Write In,State House,17,IND,Linn,Precinct 101,3
 Overvote,State House,17,IND,Linn,Precinct 101,0
 Undervote,State House,17,IND,Linn,Precinct 101,8
-,Registered Voters,,,Linn,Precinct 101,124
-,Ballots Cast,,,Linn,Precinct 101,52
+,Registered Voters,,DEM,Linn,Precinct 101,124
+,Ballots Cast,,DEM,Linn,Precinct 101,52
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 101,6
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 101,44
 Write In,U.S. House,4,DEM,Linn,Precinct 101,0
@@ -9244,8 +9244,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 101,34
 Write In,State House,17,DEM,Linn,Precinct 101,1
 Overvote,State House,17,DEM,Linn,Precinct 101,0
 Undervote,State House,17,DEM,Linn,Precinct 101,17
-,Registered Voters,,,Linn,Precinct 101,232
-,Ballots Cast,,,Linn,Precinct 101,111
+,Registered Voters,,REP,Linn,Precinct 101,232
+,Ballots Cast,,REP,Linn,Precinct 101,111
 Michael Polen,U.S. House,4,REP,Linn,Precinct 101,2
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 101,22
 Court Boice,U.S. House,4,REP,Linn,Precinct 101,12
@@ -9295,8 +9295,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 101,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 101,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 101,53
-,Registered Voters,,,Linn,Precinct 102,78
-,Ballots Cast,,,Linn,Precinct 102,19
+,Registered Voters,,IND,Linn,Precinct 102,78
+,Ballots Cast,,IND,Linn,Precinct 102,19
 Write In,U.S. House,4,IND,Linn,Precinct 102,6
 Overvote,U.S. House,4,IND,Linn,Precinct 102,0
 Undervote,U.S. House,4,IND,Linn,Precinct 102,13
@@ -9322,8 +9322,8 @@ Undervote,State House,15,IND,Linn,Precinct 102,7
 Write In,State House,17,IND,Linn,Precinct 102,
 Overvote,State House,17,IND,Linn,Precinct 102,
 Undervote,State House,17,IND,Linn,Precinct 102,
-,Registered Voters,,,Linn,Precinct 102,493
-,Ballots Cast,,,Linn,Precinct 102,217
+,Registered Voters,,DEM,Linn,Precinct 102,493
+,Ballots Cast,,DEM,Linn,Precinct 102,217
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 102,30
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 102,171
 Write In,U.S. House,4,DEM,Linn,Precinct 102,3
@@ -9356,8 +9356,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 102,
 Write In,State House,17,DEM,Linn,Precinct 102,
 Overvote,State House,17,DEM,Linn,Precinct 102,
 Undervote,State House,17,DEM,Linn,Precinct 102,
-,Registered Voters,,,Linn,Precinct 102,468
-,Ballots Cast,,,Linn,Precinct 102,223
+,Registered Voters,,REP,Linn,Precinct 102,468
+,Ballots Cast,,REP,Linn,Precinct 102,223
 Michael Polen,U.S. House,4,REP,Linn,Precinct 102,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 102,74
 Court Boice,U.S. House,4,REP,Linn,Precinct 102,27
@@ -9407,8 +9407,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 102,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 102,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 102,146
-,Registered Voters,,,Linn,Precinct 103,25
-,Ballots Cast,,,Linn,Precinct 103,7
+,Registered Voters,,IND,Linn,Precinct 103,25
+,Ballots Cast,,IND,Linn,Precinct 103,7
 Write In,U.S. House,4,IND,Linn,Precinct 103,4
 Overvote,U.S. House,4,IND,Linn,Precinct 103,0
 Undervote,U.S. House,4,IND,Linn,Precinct 103,3
@@ -9434,8 +9434,8 @@ Undervote,State House,15,IND,Linn,Precinct 103,
 Write In,State House,17,IND,Linn,Precinct 103,2
 Overvote,State House,17,IND,Linn,Precinct 103,0
 Undervote,State House,17,IND,Linn,Precinct 103,5
-,Registered Voters,,,Linn,Precinct 103,124
-,Ballots Cast,,,Linn,Precinct 103,60
+,Registered Voters,,DEM,Linn,Precinct 103,124
+,Ballots Cast,,DEM,Linn,Precinct 103,60
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 103,11
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 103,44
 Write In,U.S. House,4,DEM,Linn,Precinct 103,0
@@ -9468,8 +9468,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 103,31
 Write In,State House,17,DEM,Linn,Precinct 103,1
 Overvote,State House,17,DEM,Linn,Precinct 103,0
 Undervote,State House,17,DEM,Linn,Precinct 103,28
-,Registered Voters,,,Linn,Precinct 103,244
-,Ballots Cast,,,Linn,Precinct 103,115
+,Registered Voters,,REP,Linn,Precinct 103,244
+,Ballots Cast,,REP,Linn,Precinct 103,115
 Michael Polen,U.S. House,4,REP,Linn,Precinct 103,7
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 103,29
 Court Boice,U.S. House,4,REP,Linn,Precinct 103,10
@@ -9519,8 +9519,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 103,0
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 103,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 103,51
-,Registered Voters,,,Linn,Precinct 104,35
-,Ballots Cast,,,Linn,Precinct 104,8
+,Registered Voters,,IND,Linn,Precinct 104,35
+,Ballots Cast,,IND,Linn,Precinct 104,8
 Write In,U.S. House,4,IND,Linn,Precinct 104,4
 Overvote,U.S. House,4,IND,Linn,Precinct 104,0
 Undervote,U.S. House,4,IND,Linn,Precinct 104,4
@@ -9546,8 +9546,8 @@ Undervote,State House,15,IND,Linn,Precinct 104,
 Write In,State House,17,IND,Linn,Precinct 104,2
 Overvote,State House,17,IND,Linn,Precinct 104,0
 Undervote,State House,17,IND,Linn,Precinct 104,6
-,Registered Voters,,,Linn,Precinct 104,182
-,Ballots Cast,,,Linn,Precinct 104,75
+,Registered Voters,,DEM,Linn,Precinct 104,182
+,Ballots Cast,,DEM,Linn,Precinct 104,75
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 104,12
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 104,55
 Write In,U.S. House,4,DEM,Linn,Precinct 104,3
@@ -9580,8 +9580,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 104,39
 Write In,State House,17,DEM,Linn,Precinct 104,3
 Overvote,State House,17,DEM,Linn,Precinct 104,0
 Undervote,State House,17,DEM,Linn,Precinct 104,33
-,Registered Voters,,,Linn,Precinct 104,285
-,Ballots Cast,,,Linn,Precinct 104,155
+,Registered Voters,,REP,Linn,Precinct 104,285
+,Ballots Cast,,REP,Linn,Precinct 104,155
 Michael Polen,U.S. House,4,REP,Linn,Precinct 104,8
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 104,38
 Court Boice,U.S. House,4,REP,Linn,Precinct 104,20
@@ -9631,8 +9631,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 104,4
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 104,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 104,50
-,Registered Voters,,,Linn,Precinct 105,63
-,Ballots Cast,,,Linn,Precinct 105,18
+,Registered Voters,,IND,Linn,Precinct 105,63
+,Ballots Cast,,IND,Linn,Precinct 105,18
 Write In,U.S. House,4,IND,Linn,Precinct 105,6
 Overvote,U.S. House,4,IND,Linn,Precinct 105,0
 Undervote,U.S. House,4,IND,Linn,Precinct 105,12
@@ -9658,8 +9658,8 @@ Undervote,State House,15,IND,Linn,Precinct 105,4
 Write In,State House,17,IND,Linn,Precinct 105,
 Overvote,State House,17,IND,Linn,Precinct 105,
 Undervote,State House,17,IND,Linn,Precinct 105,
-,Registered Voters,,,Linn,Precinct 105,286
-,Ballots Cast,,,Linn,Precinct 105,84
+,Registered Voters,,DEM,Linn,Precinct 105,286
+,Ballots Cast,,DEM,Linn,Precinct 105,84
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 105,6
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 105,74
 Write In,U.S. House,4,DEM,Linn,Precinct 105,2
@@ -9692,8 +9692,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 105,
 Write In,State House,17,DEM,Linn,Precinct 105,
 Overvote,State House,17,DEM,Linn,Precinct 105,
 Undervote,State House,17,DEM,Linn,Precinct 105,
-,Registered Voters,,,Linn,Precinct 105,195
-,Ballots Cast,,,Linn,Precinct 105,91
+,Registered Voters,,REP,Linn,Precinct 105,195
+,Ballots Cast,,REP,Linn,Precinct 105,91
 Michael Polen,U.S. House,4,REP,Linn,Precinct 105,4
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 105,28
 Court Boice,U.S. House,4,REP,Linn,Precinct 105,15
@@ -9743,8 +9743,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 105,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 105,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 105,52
-,Registered Voters,,,Linn,Precinct 106,30
-,Ballots Cast,,,Linn,Precinct 106,21
+,Registered Voters,,IND,Linn,Precinct 106,30
+,Ballots Cast,,IND,Linn,Precinct 106,21
 Write In,U.S. House,4,IND,Linn,Precinct 106,10
 Overvote,U.S. House,4,IND,Linn,Precinct 106,0
 Undervote,U.S. House,4,IND,Linn,Precinct 106,11
@@ -9770,8 +9770,8 @@ Undervote,State House,15,IND,Linn,Precinct 106,9
 Write In,State House,17,IND,Linn,Precinct 106,
 Overvote,State House,17,IND,Linn,Precinct 106,
 Undervote,State House,17,IND,Linn,Precinct 106,
-,Registered Voters,,,Linn,Precinct 106,242
-,Ballots Cast,,,Linn,Precinct 106,98
+,Registered Voters,,DEM,Linn,Precinct 106,242
+,Ballots Cast,,DEM,Linn,Precinct 106,98
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 106,12
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 106,82
 Write In,U.S. House,4,DEM,Linn,Precinct 106,0
@@ -9804,8 +9804,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 106,
 Write In,State House,17,DEM,Linn,Precinct 106,
 Overvote,State House,17,DEM,Linn,Precinct 106,
 Undervote,State House,17,DEM,Linn,Precinct 106,
-,Registered Voters,,,Linn,Precinct 106,285
-,Ballots Cast,,,Linn,Precinct 106,144
+,Registered Voters,,REP,Linn,Precinct 106,285
+,Ballots Cast,,REP,Linn,Precinct 106,144
 Michael Polen,U.S. House,4,REP,Linn,Precinct 106,5
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 106,44
 Court Boice,U.S. House,4,REP,Linn,Precinct 106,8
@@ -9855,8 +9855,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 106,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 106,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 106,87
-,Registered Voters,,,Linn,Precinct 107,54
-,Ballots Cast,,,Linn,Precinct 107,13
+,Registered Voters,,IND,Linn,Precinct 107,54
+,Ballots Cast,,IND,Linn,Precinct 107,13
 Write In,U.S. House,4,IND,Linn,Precinct 107,3
 Overvote,U.S. House,4,IND,Linn,Precinct 107,0
 Undervote,U.S. House,4,IND,Linn,Precinct 107,10
@@ -9882,8 +9882,8 @@ Undervote,State House,15,IND,Linn,Precinct 107,6
 Write In,State House,17,IND,Linn,Precinct 107,
 Overvote,State House,17,IND,Linn,Precinct 107,
 Undervote,State House,17,IND,Linn,Precinct 107,
-,Registered Voters,,,Linn,Precinct 107,396
-,Ballots Cast,,,Linn,Precinct 107,159
+,Registered Voters,,DEM,Linn,Precinct 107,396
+,Ballots Cast,,DEM,Linn,Precinct 107,159
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 107,13
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 107,132
 Write In,U.S. House,4,DEM,Linn,Precinct 107,4
@@ -9916,8 +9916,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 107,
 Write In,State House,17,DEM,Linn,Precinct 107,
 Overvote,State House,17,DEM,Linn,Precinct 107,
 Undervote,State House,17,DEM,Linn,Precinct 107,
-,Registered Voters,,,Linn,Precinct 107,476
-,Ballots Cast,,,Linn,Precinct 107,248
+,Registered Voters,,REP,Linn,Precinct 107,476
+,Ballots Cast,,REP,Linn,Precinct 107,248
 Michael Polen,U.S. House,4,REP,Linn,Precinct 107,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 107,89
 Court Boice,U.S. House,4,REP,Linn,Precinct 107,31
@@ -9967,8 +9967,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 1
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 107,2
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 107,1
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 107,138
-,Registered Voters,,,Linn,Precinct 108,140
-,Ballots Cast,,,Linn,Precinct 108,38
+,Registered Voters,,IND,Linn,Precinct 108,140
+,Ballots Cast,,IND,Linn,Precinct 108,38
 Write In,U.S. House,4,IND,Linn,Precinct 108,16
 Overvote,U.S. House,4,IND,Linn,Precinct 108,0
 Undervote,U.S. House,4,IND,Linn,Precinct 108,22
@@ -9994,8 +9994,8 @@ Undervote,State House,15,IND,Linn,Precinct 108,
 Write In,State House,17,IND,Linn,Precinct 108,10
 Overvote,State House,17,IND,Linn,Precinct 108,0
 Undervote,State House,17,IND,Linn,Precinct 108,28
-,Registered Voters,,,Linn,Precinct 108,676
-,Ballots Cast,,,Linn,Precinct 108,226
+,Registered Voters,,DEM,Linn,Precinct 108,676
+,Ballots Cast,,DEM,Linn,Precinct 108,226
 Daniel R Arcangel,U.S. House,4,DEM,Linn,Precinct 108,27
 Peter A DeFazio,U.S. House,4,DEM,Linn,Precinct 108,186
 Write In,U.S. House,4,DEM,Linn,Precinct 108,4
@@ -10028,8 +10028,8 @@ Renee Windsor-White,State House,17,DEM,Linn,Precinct 108,138
 Write In,State House,17,DEM,Linn,Precinct 108,2
 Overvote,State House,17,DEM,Linn,Precinct 108,0
 Undervote,State House,17,DEM,Linn,Precinct 108,86
-,Registered Voters,,,Linn,Precinct 108,722
-,Ballots Cast,,,Linn,Precinct 108,301
+,Registered Voters,,REP,Linn,Precinct 108,722
+,Ballots Cast,,REP,Linn,Precinct 108,301
 Michael Polen,U.S. House,4,REP,Linn,Precinct 108,10
 Jo Rae Perkins,U.S. House,4,REP,Linn,Precinct 108,73
 Court Boice,U.S. House,4,REP,Linn,Precinct 108,35
