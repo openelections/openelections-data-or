@@ -2,8 +2,8 @@ import os
 import glob
 import csv
 
-year = '2008'
-election = '20081104'
+year = '2024'
+election = '20241105'
 path = election+'*precinct.csv'
 output_file = election+'__or__general__precinct.csv'
 
@@ -50,5 +50,5 @@ def generate_consolidated_file(year, path, output_file):
     os.chdir('..')
     with open(output_file, "w") as csv_outfile:
         outfile = csv.writer(csv_outfile)
-        outfile.writerow(['county','precinct', 'office', 'district', 'candidate', 'party', 'votes', 'vtd'])
+        outfile.writerow(['county','precinct', 'office', 'district', 'candidate', 'party', 'votes'])
         outfile.writerows(results)
