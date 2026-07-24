@@ -111,8 +111,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 001,1
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 001,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 001,68
-,Registered Voters,,IND,,Precinct 003,36
-,Ballots Cast,,IND,,Precinct 003,10
+,Registered Voters,,IND,Linn,Precinct 003,36
+,Ballots Cast,,IND,Linn,Precinct 003,10
 Write In,U.S. House,4,IND,Linn,Precinct 003,5
 Overvote,U.S. House,4,IND,Linn,Precinct 003,0
 Undervote,U.S. House,4,IND,Linn,Precinct 003,5
@@ -223,8 +223,8 @@ Jack Howard,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 0
 Write In,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 003,3
 Overvote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 003,0
 Undervote,Commissioner of the Bureau of Labor and Industries,,,Linn,Precinct 003,62
-,Registered Voters,,IND,,Precinct 005,58
-,Ballots Cast,,IND,,Precinct 005,11
+,Registered Voters,,IND,Linn,Precinct 005,58
+,Ballots Cast,,IND,Linn,Precinct 005,11
 Write In,U.S. House,4,IND,Linn,Precinct 005,2
 Overvote,U.S. House,4,IND,Linn,Precinct 005,0
 Undervote,U.S. House,4,IND,Linn,Precinct 005,9

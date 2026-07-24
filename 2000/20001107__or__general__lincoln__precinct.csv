@@ -31,7 +31,6 @@ Lincoln,29 Siletz,President,,LIB,Harry Browne,14
 Lincoln,30 Rock Creek,President,,LIB,Harry Browne,2
 Lincoln,31 East Toledo,President,,LIB,Harry Browne,9
 Lincoln,32 South Toledo,President,,LIB,Harry Browne,9
-Lincoln,,President,,LIB,Harry Browne,128
 Lincoln,01 Waldport,President,,IND,Patrick J. Buchanan,3
 Lincoln,02 Alsea,President,,IND,Patrick J. Buchanan,2
 Lincoln,03 Seaview,President,,IND,Patrick J. Buchanan,3
@@ -64,7 +63,6 @@ Lincoln,29 Siletz,President,,IND,Patrick J. Buchanan,5
 Lincoln,30 Rock Creek,President,,IND,Patrick J. Buchanan,0
 Lincoln,31 East Toledo,President,,IND,Patrick J. Buchanan,8
 Lincoln,32 South Toledo,President,,IND,Patrick J. Buchanan,6
-Lincoln,,President,,IND,Patrick J. Buchanan,97
 Lincoln,01 Waldport,President,,REP,George W. Bush,389
 Lincoln,02 Alsea,President,,REP,George W. Bush,216
 Lincoln,03 Seaview,President,,REP,George W. Bush,198
@@ -97,7 +95,6 @@ Lincoln,29 Siletz,President,,REP,George W. Bush,396
 Lincoln,30 Rock Creek,President,,REP,George W. Bush,56
 Lincoln,31 East Toledo,President,,REP,George W. Bush,409
 Lincoln,32 South Toledo,President,,REP,George W. Bush,365
-Lincoln,,President,,REP,George W. Bush,8446
 Lincoln,01 Waldport,President,,PAC,Ralph Nader,69
 Lincoln,02 Alsea,President,,PAC,Ralph Nader,32
 Lincoln,03 Seaview,President,,PAC,Ralph Nader,40
@@ -130,7 +127,6 @@ Lincoln,29 Siletz,President,,PAC,Ralph Nader,52
 Lincoln,30 Rock Creek,President,,PAC,Ralph Nader,25
 Lincoln,31 East Toledo,President,,PAC,Ralph Nader,66
 Lincoln,32 South Toledo,President,,PAC,Ralph Nader,30
-Lincoln,,President,,PAC,Ralph Nader,1435
 Lincoln,01 Waldport,President,,REF,John Hagelin,6
 Lincoln,02 Alsea,President,,REF,John Hagelin,1
 Lincoln,03 Seaview,President,,REF,John Hagelin,1
@@ -163,7 +159,6 @@ Lincoln,29 Siletz,President,,REF,John Hagelin,1
 Lincoln,30 Rock Creek,President,,REF,John Hagelin,0
 Lincoln,31 East Toledo,President,,REF,John Hagelin,2
 Lincoln,32 South Toledo,President,,REF,John Hagelin,2
-Lincoln,,President,,REF,John Hagelin,51
 Lincoln,01 Waldport,President,,CON,Howard Phillips,2
 Lincoln,02 Alsea,President,,CON,Howard Phillips,2
 Lincoln,03 Seaview,President,,CON,Howard Phillips,1
@@ -196,7 +191,6 @@ Lincoln,29 Siletz,President,,CON,Howard Phillips,2
 Lincoln,30 Rock Creek,President,,CON,Howard Phillips,0
 Lincoln,31 East Toledo,President,,CON,Howard Phillips,1
 Lincoln,32 South Toledo,President,,CON,Howard Phillips,3
-Lincoln,,President,,CON,Howard Phillips,27
 Lincoln,01 Waldport,President,,DEM,Al Gore,508
 Lincoln,02 Alsea,President,,DEM,Al Gore,217
 Lincoln,03 Seaview,President,,DEM,Al Gore,303
@@ -229,7 +223,6 @@ Lincoln,29 Siletz,President,,DEM,Al Gore,456
 Lincoln,30 Rock Creek,President,,DEM,Al Gore,90
 Lincoln,31 East Toledo,President,,DEM,Al Gore,390
 Lincoln,32 South Toledo,President,,DEM,Al Gore,400
-Lincoln,,President,,DEM,Al Gore,10861
 Lincoln,01 Waldport,President,,,Write-Ins,4
 Lincoln,02 Alsea,President,,,Write-Ins,0
 Lincoln,03 Seaview,President,,,Write-Ins,1
@@ -262,7 +255,6 @@ Lincoln,29 Siletz,President,,,Write-Ins,2
 Lincoln,30 Rock Creek,President,,,Write-Ins,0
 Lincoln,31 East Toledo,President,,,Write-Ins,3
 Lincoln,32 South Toledo,President,,,Write-Ins,4
-Lincoln,,President,,,Write-Ins,73
 Lincoln,01 Waldport,U.S. House,5,DEM,Darlene Hooley,620
 Lincoln,02 Alsea,U.S. House,5,DEM,Darlene Hooley,272
 Lincoln,03 Seaview,U.S. House,5,DEM,Darlene Hooley,371
@@ -295,7 +287,6 @@ Lincoln,29 Siletz,U.S. House,5,DEM,Darlene Hooley,574
 Lincoln,30 Rock Creek,U.S. House,5,DEM,Darlene Hooley,116
 Lincoln,31 East Toledo,U.S. House,5,DEM,Darlene Hooley,529
 Lincoln,32 South Toledo,U.S. House,5,DEM,Darlene Hooley,504
-Lincoln,,U.S. House,5,DEM,Darlene Hooley,12835
 Lincoln,01 Waldport,U.S. House,5,REP,Brian J. Boquist,333
 Lincoln,02 Alsea,U.S. House,5,REP,Brian J. Boquist,178
 Lincoln,03 Seaview,U.S. House,5,REP,Brian J. Boquist,154
@@ -328,7 +319,6 @@ Lincoln,29 Siletz,U.S. House,5,REP,Brian J. Boquist,328
 Lincoln,30 Rock Creek,U.S. House,5,REP,Brian J. Boquist,49
 Lincoln,31 East Toledo,U.S. House,5,REP,Brian J. Boquist,325
 Lincoln,32 South Toledo,U.S. House,5,REP,Brian J. Boquist,288
-Lincoln,,U.S. House,5,REP,Brian J. Boquist,7412
 Lincoln,01 Waldport,U.S. House,5,,Write-Ins,1
 Lincoln,02 Alsea,U.S. House,5,,Write-Ins,0
 Lincoln,03 Seaview,U.S. House,5,,Write-Ins,0
@@ -361,7 +351,6 @@ Lincoln,29 Siletz,U.S. House,5,,Write-Ins,0
 Lincoln,30 Rock Creek,U.S. House,5,,Write-Ins,0
 Lincoln,31 East Toledo,U.S. House,5,,Write-Ins,2
 Lincoln,32 South Toledo,U.S. House,5,,Write-Ins,0
-Lincoln,,U.S. House,5,,Write-Ins,45
 Lincoln,01 Waldport,Secretary of State,,DEM,Bill Bradbury,520
 Lincoln,02 Alsea,Secretary of State,,DEM,Bill Bradbury,200
 Lincoln,03 Seaview,Secretary of State,,DEM,Bill Bradbury,293
@@ -394,7 +383,6 @@ Lincoln,29 Siletz,Secretary of State,,DEM,Bill Bradbury,503
 Lincoln,30 Rock Creek,Secretary of State,,DEM,Bill Bradbury,97
 Lincoln,31 East Toledo,Secretary of State,,DEM,Bill Bradbury,443
 Lincoln,32 South Toledo,Secretary of State,,DEM,Bill Bradbury,416
-Lincoln,,Secretary of State,,DEM,Bill Bradbury,10976
 Lincoln,01 Waldport,Secretary of State,,PAC,Lloyd Marbet,63
 Lincoln,02 Alsea,Secretary of State,,PAC,Lloyd Marbet,28
 Lincoln,03 Seaview,Secretary of State,,PAC,Lloyd Marbet,36
@@ -427,7 +415,6 @@ Lincoln,29 Siletz,Secretary of State,,PAC,Lloyd Marbet,31
 Lincoln,30 Rock Creek,Secretary of State,,PAC,Lloyd Marbet,16
 Lincoln,31 East Toledo,Secretary of State,,PAC,Lloyd Marbet,41
 Lincoln,32 South Toledo,Secretary of State,,PAC,Lloyd Marbet,30
-Lincoln,,Secretary of State,,PAC,Lloyd Marbet,1129
 Lincoln,01 Waldport,Secretary of State,,REP,Lynn Snodgrass,359
 Lincoln,02 Alsea,Secretary of State,,REP,Lynn Snodgrass,220
 Lincoln,03 Seaview,Secretary of State,,REP,Lynn Snodgrass,171
@@ -460,7 +447,6 @@ Lincoln,29 Siletz,Secretary of State,,REP,Lynn Snodgrass,355
 Lincoln,30 Rock Creek,Secretary of State,,REP,Lynn Snodgrass,52
 Lincoln,31 East Toledo,Secretary of State,,REP,Lynn Snodgrass,350
 Lincoln,32 South Toledo,Secretary of State,,REP,Lynn Snodgrass,323
-Lincoln,,Secretary of State,,REP,Lynn Snodgrass,7859
 Lincoln,01 Waldport,Secretary of State,,LIB,"E.J. (Ed) Pole, II",12
 Lincoln,02 Alsea,Secretary of State,,LIB,"E.J. (Ed) Pole, II",4
 Lincoln,03 Seaview,Secretary of State,,LIB,"E.J. (Ed) Pole, II",13
@@ -493,7 +479,6 @@ Lincoln,29 Siletz,Secretary of State,,LIB,"E.J. (Ed) Pole, II",13
 Lincoln,30 Rock Creek,Secretary of State,,LIB,"E.J. (Ed) Pole, II",3
 Lincoln,31 East Toledo,Secretary of State,,LIB,"E.J. (Ed) Pole, II",25
 Lincoln,32 South Toledo,Secretary of State,,LIB,"E.J. (Ed) Pole, II",25
-Lincoln,,Secretary of State,,LIB,"E.J. (Ed) Pole, II",384
 Lincoln,01 Waldport,Secretary of State,,,Write-Ins,0
 Lincoln,02 Alsea,Secretary of State,,,Write-Ins,0
 Lincoln,03 Seaview,Secretary of State,,,Write-Ins,0
@@ -526,7 +511,6 @@ Lincoln,29 Siletz,Secretary of State,,,Write-Ins,0
 Lincoln,30 Rock Creek,Secretary of State,,,Write-Ins,0
 Lincoln,31 East Toledo,Secretary of State,,,Write-Ins,0
 Lincoln,32 South Toledo,Secretary of State,,,Write-Ins,0
-Lincoln,,Secretary of State,,,Write-Ins,9
 Lincoln,01 Waldport,State Treasurer,,REF,Leonard Zack,33
 Lincoln,02 Alsea,State Treasurer,,REF,Leonard Zack,9
 Lincoln,03 Seaview,State Treasurer,,REF,Leonard Zack,20
@@ -559,7 +543,6 @@ Lincoln,29 Siletz,State Treasurer,,REF,Leonard Zack,28
 Lincoln,30 Rock Creek,State Treasurer,,REF,Leonard Zack,6
 Lincoln,31 East Toledo,State Treasurer,,REF,Leonard Zack,20
 Lincoln,32 South Toledo,State Treasurer,,REF,Leonard Zack,24
-Lincoln,,State Treasurer,,REF,Leonard Zack,504
 Lincoln,01 Waldport,State Treasurer,,DEM,Randall Edwards,512
 Lincoln,02 Alsea,State Treasurer,,DEM,Randall Edwards,217
 Lincoln,03 Seaview,State Treasurer,,DEM,Randall Edwards,270
@@ -592,7 +575,6 @@ Lincoln,29 Siletz,State Treasurer,,DEM,Randall Edwards,488
 Lincoln,30 Rock Creek,State Treasurer,,DEM,Randall Edwards,95
 Lincoln,31 East Toledo,State Treasurer,,DEM,Randall Edwards,415
 Lincoln,32 South Toledo,State Treasurer,,DEM,Randall Edwards,406
-Lincoln,,State Treasurer,,DEM,Randall Edwards,10758
 Lincoln,01 Waldport,State Treasurer,,CON,Carolos F. Lucero,18
 Lincoln,02 Alsea,State Treasurer,,CON,Carolos F. Lucero,4
 Lincoln,03 Seaview,State Treasurer,,CON,Carolos F. Lucero,7
@@ -625,7 +607,6 @@ Lincoln,29 Siletz,State Treasurer,,CON,Carolos F. Lucero,17
 Lincoln,30 Rock Creek,State Treasurer,,CON,Carolos F. Lucero,1
 Lincoln,31 East Toledo,State Treasurer,,CON,Carolos F. Lucero,17
 Lincoln,32 South Toledo,State Treasurer,,CON,Carolos F. Lucero,14
-Lincoln,,State Treasurer,,CON,Carolos F. Lucero,266
 Lincoln,01 Waldport,State Treasurer,,REP,Jon Kvistad,338
 Lincoln,02 Alsea,State Treasurer,,REP,Jon Kvistad,187
 Lincoln,03 Seaview,State Treasurer,,REP,Jon Kvistad,183
@@ -658,7 +639,6 @@ Lincoln,29 Siletz,State Treasurer,,REP,Jon Kvistad,297
 Lincoln,30 Rock Creek,State Treasurer,,REP,Jon Kvistad,46
 Lincoln,31 East Toledo,State Treasurer,,REP,Jon Kvistad,297
 Lincoln,32 South Toledo,State Treasurer,,REP,Jon Kvistad,270
-Lincoln,,State Treasurer,,REP,Jon Kvistad,7224
 Lincoln,01 Waldport,State Treasurer,,LIB,Mitchell T. Shults,21
 Lincoln,02 Alsea,State Treasurer,,LIB,Mitchell T. Shults,15
 Lincoln,03 Seaview,State Treasurer,,LIB,Mitchell T. Shults,24
@@ -691,7 +671,6 @@ Lincoln,29 Siletz,State Treasurer,,LIB,Mitchell T. Shults,38
 Lincoln,30 Rock Creek,State Treasurer,,LIB,Mitchell T. Shults,14
 Lincoln,31 East Toledo,State Treasurer,,LIB,Mitchell T. Shults,48
 Lincoln,32 South Toledo,State Treasurer,,LIB,Mitchell T. Shults,52
-Lincoln,,State Treasurer,,LIB,Mitchell T. Shults,872
 Lincoln,01 Waldport,State Treasurer,,,Write-Ins,0
 Lincoln,02 Alsea,State Treasurer,,,Write-Ins,0
 Lincoln,03 Seaview,State Treasurer,,,Write-Ins,1
@@ -724,7 +703,6 @@ Lincoln,29 Siletz,State Treasurer,,,Write-Ins,0
 Lincoln,30 Rock Creek,State Treasurer,,,Write-Ins,0
 Lincoln,31 East Toledo,State Treasurer,,,Write-Ins,0
 Lincoln,32 South Toledo,State Treasurer,,,Write-Ins,0
-Lincoln,,State Treasurer,,,Write-Ins,16
 Lincoln,01 Waldport,Attorney General,,DEM,Hardy Myers,504
 Lincoln,02 Alsea,Attorney General,,DEM,Hardy Myers,212
 Lincoln,03 Seaview,Attorney General,,DEM,Hardy Myers,284
@@ -757,7 +735,6 @@ Lincoln,29 Siletz,Attorney General,,DEM,Hardy Myers,465
 Lincoln,30 Rock Creek,Attorney General,,DEM,Hardy Myers,90
 Lincoln,31 East Toledo,Attorney General,,DEM,Hardy Myers,423
 Lincoln,32 South Toledo,Attorney General,,DEM,Hardy Myers,393
-Lincoln,,Attorney General,,DEM,Hardy Myers,10659
 Lincoln,01 Waldport,Attorney General,,LIB,Thomas B. Cox,43
 Lincoln,02 Alsea,Attorney General,,LIB,Thomas B. Cox,22
 Lincoln,03 Seaview,Attorney General,,LIB,Thomas B. Cox,32
@@ -790,7 +767,6 @@ Lincoln,29 Siletz,Attorney General,,LIB,Thomas B. Cox,55
 Lincoln,30 Rock Creek,Attorney General,,LIB,Thomas B. Cox,17
 Lincoln,31 East Toledo,Attorney General,,LIB,Thomas B. Cox,57
 Lincoln,32 South Toledo,Attorney General,,LIB,Thomas B. Cox,61
-Lincoln,,Attorney General,,LIB,Thomas B. Cox,1046
 Lincoln,01 Waldport,Attorney General,,REP,Kevin L. Mannix,406
 Lincoln,02 Alsea,Attorney General,,REP,Kevin L. Mannix,210
 Lincoln,03 Seaview,Attorney General,,REP,Kevin L. Mannix,191
@@ -823,7 +799,6 @@ Lincoln,29 Siletz,Attorney General,,REP,Kevin L. Mannix,366
 Lincoln,30 Rock Creek,Attorney General,,REP,Kevin L. Mannix,59
 Lincoln,31 East Toledo,Attorney General,,REP,Kevin L. Mannix,354
 Lincoln,32 South Toledo,Attorney General,,REP,Kevin L. Mannix,328
-Lincoln,,Attorney General,,REP,Kevin L. Mannix,8329
 Lincoln,01 Waldport,Attorney General,,,Write-Ins,0
 Lincoln,02 Alsea,Attorney General,,,Write-Ins,0
 Lincoln,03 Seaview,Attorney General,,,Write-Ins,1
@@ -856,7 +831,6 @@ Lincoln,29 Siletz,Attorney General,,,Write-Ins,0
 Lincoln,30 Rock Creek,Attorney General,,,Write-Ins,0
 Lincoln,31 East Toledo,Attorney General,,,Write-Ins,1
 Lincoln,32 South Toledo,Attorney General,,,Write-Ins,0
-Lincoln,,Attorney General,,,Write-Ins,11
 Lincoln,01 Waldport,State Senate,2,DEM,Terry Thompson,546
 Lincoln,02 Alsea,State Senate,2,DEM,Terry Thompson,225
 Lincoln,03 Seaview,State Senate,2,DEM,Terry Thompson,313
@@ -889,7 +863,6 @@ Lincoln,29 Siletz,State Senate,2,DEM,Terry Thompson,551
 Lincoln,30 Rock Creek,State Senate,2,DEM,Terry Thompson,94
 Lincoln,31 East Toledo,State Senate,2,DEM,Terry Thompson,514
 Lincoln,32 South Toledo,State Senate,2,DEM,Terry Thompson,439
-Lincoln,,State Senate,2,DEM,Terry Thompson,12027
 Lincoln,01 Waldport,State Senate,2,REP,Gary George,409
 Lincoln,02 Alsea,State Senate,2,REP,Gary George,236
 Lincoln,03 Seaview,State Senate,2,REP,Gary George,204
@@ -922,7 +895,6 @@ Lincoln,29 Siletz,State Senate,2,REP,Gary George,360
 Lincoln,30 Rock Creek,State Senate,2,REP,Gary George,70
 Lincoln,31 East Toledo,State Senate,2,REP,Gary George,354
 Lincoln,32 South Toledo,State Senate,2,REP,Gary George,367
-Lincoln,,State Senate,2,REP,Gary George,8453
 Lincoln,01 Waldport,State Senate,2,,Write-Ins,3
 Lincoln,02 Alsea,State Senate,2,,Write-Ins,0
 Lincoln,03 Seaview,State Senate,2,,Write-Ins,3
@@ -955,7 +927,6 @@ Lincoln,29 Siletz,State Senate,2,,Write-Ins,0
 Lincoln,30 Rock Creek,State Senate,2,,Write-Ins,0
 Lincoln,31 East Toledo,State Senate,2,,Write-Ins,4
 Lincoln,32 South Toledo,State Senate,2,,Write-Ins,0
-Lincoln,,State Senate,2,,Write-Ins,41
 Lincoln,01 Waldport,State House,4,DEM,Sharon Branstiter,446
 Lincoln,02 Alsea,State House,4,DEM,Sharon Branstiter,188
 Lincoln,03 Seaview,State House,4,DEM,Sharon Branstiter,275
@@ -988,7 +959,6 @@ Lincoln,29 Siletz,State House,4,DEM,Sharon Branstiter,457
 Lincoln,30 Rock Creek,State House,4,DEM,Sharon Branstiter,90
 Lincoln,31 East Toledo,State House,4,DEM,Sharon Branstiter,460
 Lincoln,32 South Toledo,State House,4,DEM,Sharon Branstiter,439
-Lincoln,,State House,4,DEM,Sharon Branstiter,10050
 Lincoln,01 Waldport,State House,4,REP,Alan Brown,507
 Lincoln,02 Alsea,State House,4,REP,Alan Brown,272
 Lincoln,03 Seaview,State House,4,REP,Alan Brown,241
@@ -1021,7 +991,6 @@ Lincoln,29 Siletz,State House,4,REP,Alan Brown,461
 Lincoln,30 Rock Creek,State House,4,REP,Alan Brown,80
 Lincoln,31 East Toledo,State House,4,REP,Alan Brown,423
 Lincoln,32 South Toledo,State House,4,REP,Alan Brown,377
-Lincoln,,State House,4,REP,Alan Brown,10404
 Lincoln,01 Waldport,State House,4,,Write-Ins,6
 Lincoln,02 Alsea,State House,4,,Write-Ins,0
 Lincoln,03 Seaview,State House,4,,Write-Ins,4
@@ -1054,4 +1023,3 @@ Lincoln,29 Siletz,State House,4,,Write-Ins,3
 Lincoln,30 Rock Creek,State House,4,,Write-Ins,0
 Lincoln,31 East Toledo,State House,4,,Write-Ins,0
 Lincoln,32 South Toledo,State House,4,,Write-Ins,0
-Lincoln,,State House,4,,Write-Ins,61

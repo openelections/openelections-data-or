@@ -44,15 +44,6 @@ Morrow,5,President,,DEM,Barack Obama,356
 Morrow,5,President,,,Write-ins,8
 Morrow,5,President,,,Over Votes,3
 Morrow,5,President,,,Under Votes,15
-Morrow,,President,,PCE,RaIph Nader,43
-Morrow,,President,,PGP,Cynthia Mckinney,9
-Morrow,,President,,REP,John McCain,2509
-Morrow,,President,,LIB,Bob Barr,23
-Morrow,,President,,CON,Chuck Baldwin,33
-Morrow,,President,,DEM,Barack Obama,1410
-Morrow,,President,,,Write-ins,31
-Morrow,,President,,,Over Votes,13
-Morrow,,President,,,Under Votes,45
 Morrow,1,U.S. Senate,,REP,Gordon H Smith,602
 Morrow,1,U.S. Senate,,DEM,Jeff Merkley,300
 Morrow,1,U.S. Senate,,CON,Dave Brownlow,56
@@ -83,12 +74,6 @@ Morrow,5,U.S. Senate,,CON,Dave Brownlow,61
 Morrow,5,U.S. Senate,,,Write-ins,1
 Morrow,5,U.S. Senate,,,Over Votes,0
 Morrow,5,U.S. Senate,,,Under Votes,17
-Morrow,,U.S. Senate,,REP,Gordon H Smith,2751
-Morrow,,U.S. Senate,,DEM,Jeff Merkley,988
-Morrow,,U.S. Senate,,CON,Dave Brownlow,266
-Morrow,,U.S. Senate,,,Write-ins,7
-Morrow,,U.S. Senate,,,Over Votes,2
-Morrow,,U.S. Senate,,,Under Votes,102
 Morrow,1,U.S. House,2,CON,Richard D Hake,23
 Morrow,1,U.S. House,2,PAC,Tristin Mock,15
 Morrow,1,U.S. House,2,REP,Greg Walden,669
@@ -124,13 +109,6 @@ Morrow,5,U.S. House,2,DEM,Noah Lemas,152
 Morrow,5,U.S. House,2,,Write-ins,2
 Morrow,5,U.S. House,2,,Overvotes,1
 Morrow,5,U.S. House,2,,Undervotes,39
-Morrow,,U.S. House,2,CON,Richard D Hake,79
-Morrow,,U.S. House,2,PAC,Tristin Mock,78
-Morrow,,U.S. House,2,REP,Greg Walden,3033
-Morrow,,U.S. House,2,DEM,Noah Lemas,753
-Morrow,,U.S. House,2,,Write-ins,6
-Morrow,,U.S. House,2,,Overvotes,3
-Morrow,,U.S. House,2,,Undervotes,164
 Morrow,1,Secretary of State,,DEM,Kate Brown,404
 Morrow,1,Secretary of State,,PGP,Seth Alan Woolley,24
 Morrow,1,Secretary of State,,REP,Rick Dancer,496
@@ -161,12 +139,6 @@ Morrow,5,Secretary of State,,REP,Rick Dancer,615
 Morrow,5,Secretary of State,,,Write-ins,0
 Morrow,5,Secretary of State,,,Overvotes,1
 Morrow,5,Secretary of State,,,Undervotes,97
-Morrow,,Secretary of State,,DEM,Kate Brown,1469
-Morrow,,Secretary of State,,PGP,Seth Alan Woolley,102
-Morrow,,Secretary of State,,REP,Rick Dancer,2236
-Morrow,,Secretary of State,,,Write-ins,9
-Morrow,,Secretary of State,,,Overvotes,4
-Morrow,,Secretary of State,,,Undervotes,296
 Morrow,1,State Treasurer,,REP,Allen Alley,476
 Morrow,1,State Treasurer,,CON,Michael Marsh,52
 Morrow,1,State Treasurer,,DEM,Ben Westlund,371
@@ -197,12 +169,6 @@ Morrow,5,State Treasurer,,DEM,Ben Westlund,335
 Morrow,5,State Treasurer,,,Write-ins,0
 Morrow,5,State Treasurer,,,Overvotes,0
 Morrow,5,State Treasurer,,,Undervotes,132
-Morrow,,State Treasurer,,REP,Allen Alley,2175
-Morrow,,State Treasurer,,CON,Michael Marsh,202
-Morrow,,State Treasurer,,DEM,Ben Westlund,1337
-Morrow,,State Treasurer,,,Write-ins,3
-Morrow,,State Treasurer,,,Overvotes,1
-Morrow,,State Treasurer,,,Undervotes,398
 Morrow,1,Attorney General,,DEM,John R Kroger,534
 Morrow,1,Attorney General,,WRK,J Ashlee Albies,136
 Morrow,1,Attorney General,,PGP,Walter F (Walt) Brown,39
@@ -238,13 +204,6 @@ Morrow,5,Attorney General,,CON,James E Leuenberger,110
 Morrow,5,Attorney General,,,Write-ins,3
 Morrow,5,Attorney General,,,Overvotes,0
 Morrow,5,Attorney General,,,Undervotes,267
-Morrow,,Attorney General,,DEM,John R Kroger,2131
-Morrow,,Attorney General,,WRK,J Ashlee Albies,540
-Morrow,,Attorney General,,PGP,Walter F (Walt) Brown,117
-Morrow,,Attorney General,,CON,James E Leuenberger,483
-Morrow,,Attorney General,,,Write-ins,11
-Morrow,,Attorney General,,,Overvotes,1
-Morrow,,Attorney General,,,Undervotes,833
 Morrow,1,State Senate,29,,David Nelson,753
 Morrow,1,State Senate,29,,Write In,11
 Morrow,1,State Senate,29,,Overvotes,0
@@ -265,10 +224,6 @@ Morrow,5,State Senate,29,,David Nelson,773
 Morrow,5,State Senate,29,,Write In,9
 Morrow,5,State Senate,29,,Overvotes,0
 Morrow,5,State Senate,29,,Undervotes,327
-Morrow,,State Senate,29,,David Nelson,3015
-Morrow,,State Senate,29,,Write In,44
-Morrow,,State Senate,29,,Overvotes,0
-Morrow,,State Senate,29,,Undervotes,1057
 Morrow,1,State House,57,,Jerome (Jerry) Sebestyen,296
 Morrow,1,State House,57,,Greg Smith,615
 Morrow,1,State House,57,,Write-ins,5
@@ -294,11 +249,6 @@ Morrow,5,State House,57,,Greg Smith,864
 Morrow,5,State House,57,,Write-ins,0
 Morrow,5,State House,57,,Overvotes,1
 Morrow,5,State House,57,,Undervotes,60
-Morrow,,State House,57,,Jerome (Jerry) Sebestyen,937
-Morrow,,State House,57,,Greg Smith,2869
-Morrow,,State House,57,,Write-ins,13
-Morrow,,State House,57,,Overvotes,2
-Morrow,,State House,57,,Undervotes,295
 Morrow,1,Commissioner of the Bureau of Labor and Industries,,,Pavel Goberman,149
 Morrow,1,Commissioner of the Bureau of Labor and Industries,,,Brad Avakian,381
 Morrow,1,Commissioner of the Bureau of Labor and Industries,,,Mark Welyczko,118
@@ -329,9 +279,3 @@ Morrow,5,Commissioner of the Bureau of Labor and Industries,,,Mark Welyczko,93
 Morrow,5,Commissioner of the Bureau of Labor and Industries,,,Write-ins,10
 Morrow,5,Commissioner of the Bureau of Labor and Industries,,,Overvotes,1
 Morrow,5,Commissioner of the Bureau of Labor and Industries,,,Undervotes,569
-Morrow,,Commissioner of the Bureau of Labor and Industries,,,Pavel Goberman,583
-Morrow,,Commissioner of the Bureau of Labor and Industries,,,Brad Avakian,1347
-Morrow,,Commissioner of the Bureau of Labor and Industries,,,Mark Welyczko,426
-Morrow,,Commissioner of the Bureau of Labor and Industries,,,Write-ins,37
-Morrow,,Commissioner of the Bureau of Labor and Industries,,,Overvotes,1
-Morrow,,Commissioner of the Bureau of Labor and Industries,,,Undervotes,1722

@@ -142,7 +142,6 @@ Washington,440,President,,R,Donald Trump,359
 Washington,441,President,,R,Donald Trump,10
 Washington,442,President,,R,Donald Trump,845
 Washington,443,President,,R,Donald Trump,8
-Washington,,President,,R,Total,83197
 Washington,301,President,,D,Hillary Clinton,554
 Washington,302,President,,D,Hillary Clinton,948
 Washington,303,President,,D,Hillary Clinton,360
@@ -286,7 +285,6 @@ Washington,440,President,,D,Hillary Clinton,642
 Washington,441,President,,D,Hillary Clinton,52
 Washington,442,President,,D,Hillary Clinton,1016
 Washington,443,President,,D,Hillary Clinton,0
-Washington,,President,,D,Total,153251
 Washington,301,President,,PG,Jill Stein,30
 Washington,302,President,,PG,Jill Stein,62
 Washington,303,President,,PG,Jill Stein,20
@@ -430,7 +428,6 @@ Washington,440,President,,PG,Jill Stein,32
 Washington,441,President,,PG,Jill Stein,0
 Washington,442,President,,PG,Jill Stein,26
 Washington,443,President,,PG,Jill Stein,0
-Washington,,President,,PG,Total,6005
 Washington,301,President,,LBT,Gary Johnson,70
 Washington,302,President,,LBT,Gary Johnson,114
 Washington,303,President,,LBT,Gary Johnson,47
@@ -574,7 +571,6 @@ Washington,440,President,,LBT,Gary Johnson,80
 Washington,441,President,,LBT,Gary Johnson,3
 Washington,442,President,,LBT,Gary Johnson,155
 Washington,443,President,,LBT,Gary Johnson,0
-Washington,,President,,LBT,Total,15266
 Washington,301,President,,,Write-ins,70
 Washington,302,President,,,Write-ins,83
 Washington,303,President,,,Write-ins,38
@@ -718,7 +714,6 @@ Washington,440,President,,,Write-ins,49
 Washington,441,President,,,Write-ins,1
 Washington,442,President,,,Write-ins,132
 Washington,443,President,,,Write-ins,0
-Washington,,President,,,Total,11513
 Washington,301,U.S. Senate,,IND,Steven Reynolds,36
 Washington,302,U.S. Senate,,IND,Steven Reynolds,86
 Washington,303,U.S. Senate,,IND,Steven Reynolds,31
@@ -862,7 +857,6 @@ Washington,440,U.S. Senate,,IND,Steven Reynolds,51
 Washington,441,U.S. Senate,,IND,Steven Reynolds,1
 Washington,442,U.S. Senate,,IND,Steven Reynolds,38
 Washington,443,U.S. Senate,,IND,Steven Reynolds,0
-Washington,,U.S. Senate,,IND,Total,7701
 Washington,301,U.S. Senate,,D,Ron Wyden,682
 Washington,302,U.S. Senate,,D,Ron Wyden,1049
 Washington,303,U.S. Senate,,D,Ron Wyden,410
@@ -1006,7 +1000,6 @@ Washington,440,U.S. Senate,,D,Ron Wyden,649
 Washington,441,U.S. Senate,,D,Ron Wyden,54
 Washington,442,U.S. Senate,,D,Ron Wyden,1071
 Washington,443,U.S. Senate,,D,Ron Wyden,3
-Washington,,U.S. Senate,,D,Total,158685
 Washington,301,U.S. Senate,,R,Mark Callahan,709
 Washington,302,U.S. Senate,,R,Mark Callahan,574
 Washington,303,U.S. Senate,,R,Mark Callahan,339
@@ -1150,7 +1143,6 @@ Washington,440,U.S. Senate,,R,Mark Callahan,336
 Washington,441,U.S. Senate,,R,Mark Callahan,1
 Washington,442,U.S. Senate,,R,Mark Callahan,910
 Washington,443,U.S. Senate,,R,Mark Callahan,5
-Washington,,U.S. Senate,,R,Total,78184
 Washington,301,U.S. Senate,,PG,Eric Navickas,29
 Washington,302,U.S. Senate,,PG,Eric Navickas,31
 Washington,303,U.S. Senate,,PG,Eric Navickas,14
@@ -1294,7 +1286,6 @@ Washington,440,U.S. Senate,,PG,Eric Navickas,19
 Washington,441,U.S. Senate,,PG,Eric Navickas,2
 Washington,442,U.S. Senate,,PG,Eric Navickas,28
 Washington,443,U.S. Senate,,PG,Eric Navickas,0
-Washington,,U.S. Senate,,PG,Total,5501
 Washington,301,U.S. Senate,,LBT,Jim Lindsay,14
 Washington,302,U.S. Senate,,LBT,Jim Lindsay,26
 Washington,303,U.S. Senate,,LBT,Jim Lindsay,8
@@ -1438,7 +1429,6 @@ Washington,440,U.S. Senate,,LBT,Jim Lindsay,22
 Washington,441,U.S. Senate,,LBT,Jim Lindsay,2
 Washington,442,U.S. Senate,,LBT,Jim Lindsay,21
 Washington,443,U.S. Senate,,LBT,Jim Lindsay,0
-Washington,,U.S. Senate,,LBT,Total,3650
 Washington,301,U.S. Senate,,WF,Shanti Lewallen,38
 Washington,302,U.S. Senate,,WF,Shanti Lewallen,65
 Washington,303,U.S. Senate,,WF,Shanti Lewallen,23
@@ -1582,7 +1572,6 @@ Washington,440,U.S. Senate,,WF,Shanti Lewallen,49
 Washington,441,U.S. Senate,,WF,Shanti Lewallen,2
 Washington,442,U.S. Senate,,WF,Shanti Lewallen,49
 Washington,443,U.S. Senate,,WF,Shanti Lewallen,0
-Washington,,U.S. Senate,,WF,Total,8215
 Washington,301,U.S. Senate,,,Write-ins,1
 Washington,302,U.S. Senate,,,Write-ins,3
 Washington,303,U.S. Senate,,,Write-ins,0
@@ -1726,7 +1715,6 @@ Washington,440,U.S. Senate,,,Write-ins,0
 Washington,441,U.S. Senate,,,Write-ins,0
 Washington,442,U.S. Senate,,,Write-ins,0
 Washington,443,U.S. Senate,,,Write-ins,0
-Washington,,U.S. Senate,,,Total,307
 Washington,301,U.S. House,1,R,Brian Heinrich,847
 Washington,302,U.S. House,1,R,Brian Heinrich,685
 Washington,303,U.S. House,1,R,Brian Heinrich,380
@@ -1870,7 +1858,6 @@ Washington,440,U.S. House,1,R,Brian Heinrich,406
 Washington,441,U.S. House,1,R,Brian Heinrich,8
 Washington,442,U.S. House,1,R,Brian Heinrich,1039
 Washington,443,U.S. House,1,R,Brian Heinrich,7
-Washington,,U.S. House,1,R,Total,92442
 Washington,301,U.S. House,1,D,Suzanne Bonamici,598
 Washington,302,U.S. House,1,D,Suzanne Bonamici,1033
 Washington,303,U.S. House,1,D,Suzanne Bonamici,394
@@ -2014,7 +2001,6 @@ Washington,440,U.S. House,1,D,Suzanne Bonamici,642
 Washington,441,U.S. House,1,D,Suzanne Bonamici,50
 Washington,442,U.S. House,1,D,Suzanne Bonamici,969
 Washington,443,U.S. House,1,D,Suzanne Bonamici,1
-Washington,,U.S. House,1,D,Total,154293
 Washington,301,U.S. House,1,LBT,Kyle Sheahan,29
 Washington,302,U.S. House,1,LBT,Kyle Sheahan,73
 Washington,303,U.S. House,1,LBT,Kyle Sheahan,25
@@ -2158,7 +2144,6 @@ Washington,440,U.S. House,1,LBT,Kyle Sheahan,48
 Washington,441,U.S. House,1,LBT,Kyle Sheahan,3
 Washington,442,U.S. House,1,LBT,Kyle Sheahan,47
 Washington,443,U.S. House,1,LBT,Kyle Sheahan,0
-Washington,,U.S. House,1,LBT,Total,8236
 Washington,301,U.S. House,1,,Write-ins,5
 Washington,302,U.S. House,1,,Write-ins,4
 Washington,303,U.S. House,1,,Write-ins,2
@@ -2302,7 +2287,6 @@ Washington,440,U.S. House,1,,Write-ins,4
 Washington,441,U.S. House,1,,Write-ins,1
 Washington,442,U.S. House,1,,Write-ins,0
 Washington,443,U.S. House,1,,Write-ins,0
-Washington,,U.S. House,1,,Total,479
 Washington,301,Governor,,LBT,James Foster,31
 Washington,302,Governor,,LBT,James Foster,59
 Washington,303,Governor,,LBT,James Foster,11
@@ -2446,7 +2430,6 @@ Washington,440,Governor,,LBT,James Foster,50
 Washington,441,Governor,,LBT,James Foster,0
 Washington,442,Governor,,LBT,James Foster,36
 Washington,443,Governor,,LBT,James Foster,0
-Washington,,Governor,,LBT,Total,6965
 Washington,301,Governor,,D,Kate Brown,544
 Washington,302,Governor,,D,Kate Brown,955
 Washington,303,Governor,,D,Kate Brown,355
@@ -2590,7 +2573,6 @@ Washington,440,Governor,,D,Kate Brown,612
 Washington,441,Governor,,D,Kate Brown,46
 Washington,442,Governor,,D,Kate Brown,922
 Washington,443,Governor,,D,Kate Brown,1
-Washington,,Governor,,D,Total,143278
 Washington,301,Governor,,IND,Cliff Thomason,37
 Washington,302,Governor,,IND,Cliff Thomason,55
 Washington,303,Governor,,IND,Cliff Thomason,22
@@ -2734,7 +2716,6 @@ Washington,440,Governor,,IND,Cliff Thomason,34
 Washington,441,Governor,,IND,Cliff Thomason,3
 Washington,442,Governor,,IND,Cliff Thomason,41
 Washington,443,Governor,,IND,Cliff Thomason,0
-Washington,,Governor,,IND,Total,5798
 Washington,301,Governor,,CON,Aaron Auer,14
 Washington,302,Governor,,CON,Aaron Auer,16
 Washington,303,Governor,,CON,Aaron Auer,10
@@ -2878,7 +2859,6 @@ Washington,440,Governor,,CON,Aaron Auer,13
 Washington,441,Governor,,CON,Aaron Auer,0
 Washington,442,Governor,,CON,Aaron Auer,9
 Washington,443,Governor,,CON,Aaron Auer,0
-Washington,,Governor,,CON,Total,1800
 Washington,301,Governor,,R,Bud Pierce,878
 Washington,302,Governor,,R,Bud Pierce,732
 Washington,303,Governor,,R,Bud Pierce,410
@@ -3022,7 +3002,6 @@ Washington,440,Governor,,R,Bud Pierce,410
 Washington,441,Governor,,R,Bud Pierce,12
 Washington,442,Governor,,R,Bud Pierce,1099
 Washington,443,Governor,,R,Bud Pierce,7
-Washington,,Governor,,R,Total,102282
 Washington,301,Governor,,,Write-ins,2
 Washington,302,Governor,,,Write-ins,2
 Washington,303,Governor,,,Write-ins,0
@@ -3166,7 +3145,6 @@ Washington,440,Governor,,,Write-ins,3
 Washington,441,Governor,,,Write-ins,1
 Washington,442,Governor,,,Write-ins,1
 Washington,443,Governor,,,Write-ins,0
-Washington,,Governor,,,Total,424
 Washington,301,Secretary of State,,LBT,Sharon Durbin,25
 Washington,302,Secretary of State,,LBT,Sharon Durbin,57
 Washington,303,Secretary of State,,LBT,Sharon Durbin,18
@@ -3310,7 +3288,6 @@ Washington,440,Secretary of State,,LBT,Sharon Durbin,45
 Washington,441,Secretary of State,,LBT,Sharon Durbin,3
 Washington,442,Secretary of State,,LBT,Sharon Durbin,37
 Washington,443,Secretary of State,,LBT,Sharon Durbin,0
-Washington,,Secretary of State,,LBT,Total,6795
 Washington,301,Secretary of State,,R,Dennis Richardson,903
 Washington,302,Secretary of State,,R,Dennis Richardson,743
 Washington,303,Secretary of State,,R,Dennis Richardson,433
@@ -3454,7 +3431,6 @@ Washington,440,Secretary of State,,R,Dennis Richardson,430
 Washington,441,Secretary of State,,R,Dennis Richardson,13
 Washington,442,Secretary of State,,R,Dennis Richardson,1136
 Washington,443,Secretary of State,,R,Dennis Richardson,7
-Washington,,Secretary of State,,R,Total,111234
 Washington,301,Secretary of State,,IND,Paul Wells,45
 Washington,302,Secretary of State,,IND,Paul Wells,93
 Washington,303,Secretary of State,,IND,Paul Wells,20
@@ -3598,7 +3574,6 @@ Washington,440,Secretary of State,,IND,Paul Wells,43
 Washington,441,Secretary of State,,IND,Paul Wells,0
 Washington,442,Secretary of State,,IND,Paul Wells,64
 Washington,443,Secretary of State,,IND,Paul Wells,0
-Washington,,Secretary of State,,IND,Total,8466
 Washington,301,Secretary of State,,D,Brad Avakian,463
 Washington,302,Secretary of State,,D,Brad Avakian,825
 Washington,303,Secretary of State,,D,Brad Avakian,293
@@ -3742,7 +3717,6 @@ Washington,440,Secretary of State,,D,Brad Avakian,543
 Washington,441,Secretary of State,,D,Brad Avakian,40
 Washington,442,Secretary of State,,D,Brad Avakian,776
 Washington,443,Secretary of State,,D,Brad Avakian,1
-Washington,,Secretary of State,,D,Total,118895
 Washington,301,Secretary of State,,PG,Alan Zundel,28
 Washington,302,Secretary of State,,PG,Alan Zundel,40
 Washington,303,Secretary of State,,PG,Alan Zundel,17
@@ -3886,7 +3860,6 @@ Washington,440,Secretary of State,,PG,Alan Zundel,25
 Washington,441,Secretary of State,,PG,Alan Zundel,2
 Washington,442,Secretary of State,,PG,Alan Zundel,27
 Washington,443,Secretary of State,,PG,Alan Zundel,0
-Washington,,Secretary of State,,PG,Total,5678
 Washington,301,Secretary of State,,CON,Michael Marsh,6
 Washington,302,Secretary of State,,CON,Michael Marsh,17
 Washington,303,Secretary of State,,CON,Michael Marsh,5
@@ -4030,7 +4003,6 @@ Washington,440,Secretary of State,,CON,Michael Marsh,8
 Washington,441,Secretary of State,,CON,Michael Marsh,0
 Washington,442,Secretary of State,,CON,Michael Marsh,11
 Washington,443,Secretary of State,,CON,Michael Marsh,0
-Washington,,Secretary of State,,CON,Total,1380
 Washington,301,Secretary of State,,,Write-ins,1
 Washington,302,Secretary of State,,,Write-ins,3
 Washington,303,Secretary of State,,,Write-ins,0
@@ -4174,7 +4146,6 @@ Washington,440,Secretary of State,,,Write-ins,0
 Washington,441,Secretary of State,,,Write-ins,1
 Washington,442,Secretary of State,,,Write-ins,0
 Washington,443,Secretary of State,,,Write-ins,0
-Washington,,Secretary of State,,,Total,370
 Washington,301,State Treasurer,,PROG,Chris Henry,58
 Washington,302,State Treasurer,,PROG,Chris Henry,89
 Washington,303,State Treasurer,,PROG,Chris Henry,32
@@ -4318,7 +4289,6 @@ Washington,440,State Treasurer,,PROG,Chris Henry,50
 Washington,441,State Treasurer,,PROG,Chris Henry,1
 Washington,442,State Treasurer,,PROG,Chris Henry,51
 Washington,443,State Treasurer,,PROG,Chris Henry,0
-Washington,,State Treasurer,,PROG,Total,10404
 Washington,301,State Treasurer,,D,Tobias Read,471
 Washington,302,State Treasurer,,D,Tobias Read,820
 Washington,303,State Treasurer,,D,Tobias Read,315
@@ -4462,7 +4432,6 @@ Washington,440,State Treasurer,,D,Tobias Read,525
 Washington,441,State Treasurer,,D,Tobias Read,38
 Washington,442,State Treasurer,,D,Tobias Read,784
 Washington,443,State Treasurer,,D,Tobias Read,1
-Washington,,State Treasurer,,D,Total,121328
 Washington,301,State Treasurer,,R,Jeff Gudman,799
 Washington,302,State Treasurer,,R,Jeff Gudman,663
 Washington,303,State Treasurer,,R,Jeff Gudman,379
@@ -4606,7 +4575,6 @@ Washington,440,State Treasurer,,R,Jeff Gudman,408
 Washington,441,State Treasurer,,R,Jeff Gudman,11
 Washington,442,State Treasurer,,R,Jeff Gudman,1037
 Washington,443,State Treasurer,,R,Jeff Gudman,6
-Washington,,State Treasurer,,R,Total,95334
 Washington,301,State Treasurer,,IND,Chris Telfer,112
 Washington,302,State Treasurer,,IND,Chris Telfer,155
 Washington,303,State Treasurer,,IND,Chris Telfer,48
@@ -4750,7 +4718,6 @@ Washington,440,State Treasurer,,IND,Chris Telfer,100
 Washington,441,State Treasurer,,IND,Chris Telfer,8
 Washington,442,State Treasurer,,IND,Chris Telfer,143
 Washington,443,State Treasurer,,IND,Chris Telfer,1
-Washington,,State Treasurer,,IND,Total,20799
 Washington,301,State Treasurer,,,Write-ins,2
 Washington,302,State Treasurer,,,Write-ins,1
 Washington,303,State Treasurer,,,Write-ins,0
@@ -4894,7 +4861,6 @@ Washington,440,State Treasurer,,,Write-ins,0
 Washington,441,State Treasurer,,,Write-ins,1
 Washington,442,State Treasurer,,,Write-ins,1
 Washington,443,State Treasurer,,,Write-ins,0
-Washington,,State Treasurer,,,Total,402
 Washington,301,Attorney General,,LBT,Lars Hedbor,40
 Washington,302,Attorney General,,LBT,Lars Hedbor,66
 Washington,303,Attorney General,,LBT,Lars Hedbor,29
@@ -5038,7 +5004,6 @@ Washington,440,Attorney General,,LBT,Lars Hedbor,54
 Washington,441,Attorney General,,LBT,Lars Hedbor,2
 Washington,442,Attorney General,,LBT,Lars Hedbor,45
 Washington,443,Attorney General,,LBT,Lars Hedbor,0
-Washington,,Attorney General,,LBT,Total,8401
 Washington,301,Attorney General,,D,Ellen Rosenblum,586
 Washington,302,Attorney General,,D,Ellen Rosenblum,985
 Washington,303,Attorney General,,D,Ellen Rosenblum,367
@@ -5182,7 +5147,6 @@ Washington,440,Attorney General,,D,Ellen Rosenblum,641
 Washington,441,Attorney General,,D,Ellen Rosenblum,47
 Washington,442,Attorney General,,D,Ellen Rosenblum,950
 Washington,443,Attorney General,,D,Ellen Rosenblum,0
-Washington,,Attorney General,,D,Total,145583
 Washington,301,Attorney General,,R,Daniel Crowe,797
 Washington,302,Attorney General,,R,Daniel Crowe,678
 Washington,303,Attorney General,,R,Daniel Crowe,369
@@ -5326,7 +5290,6 @@ Washington,440,Attorney General,,R,Daniel Crowe,371
 Washington,441,Attorney General,,R,Daniel Crowe,8
 Washington,442,Attorney General,,R,Daniel Crowe,1012
 Washington,443,Attorney General,,R,Daniel Crowe,7
-Washington,,Attorney General,,R,Total,92405
 Washington,301,Attorney General,,,Write-ins,2
 Washington,302,Attorney General,,,Write-ins,3
 Washington,303,Attorney General,,,Write-ins,0
@@ -5470,25 +5433,21 @@ Washington,440,Attorney General,,,Write-ins,0
 Washington,441,Attorney General,,,Write-ins,1
 Washington,442,Attorney General,,,Write-ins,1
 Washington,443,Attorney General,,,Write-ins,0
-Washington,,Attorney General,,,Total,472
 Washington,308,State Senate,12,D,Ross Schwartzendruber,34
 Washington,318,State Senate,12,D,Ross Schwartzendruber,1055
 Washington,328,State Senate,12,D,Ross Schwartzendruber,575
 Washington,430,State Senate,12,D,Ross Schwartzendruber,398
 Washington,440,State Senate,12,D,Ross Schwartzendruber,541
-Washington,,State Senate,12,D,Total,2603
 Washington,308,State Senate,12,R,Brian Boquist,89
 Washington,318,State Senate,12,R,Brian Boquist,1212
 Washington,328,State Senate,12,R,Brian Boquist,1016
 Washington,430,State Senate,12,R,Brian Boquist,734
 Washington,440,State Senate,12,R,Brian Boquist,504
-Washington,,State Senate,12,R,Total,3555
 Washington,308,State Senate,12,,Write-ins,1
 Washington,318,State Senate,12,,Write-ins,7
 Washington,328,State Senate,12,,Write-ins,3
 Washington,430,State Senate,12,,Write-ins,2
 Washington,440,State Senate,12,,Write-ins,2
-Washington,,State Senate,12,,Total,15
 Washington,302,State Senate,14,D,Mark Hass,1244
 Washington,304,State Senate,14,D,Mark Hass,1648
 Washington,320,State Senate,14,D,Mark Hass,1613
@@ -5514,7 +5473,6 @@ Washington,418,State Senate,14,D,Mark Hass,1208
 Washington,421,State Senate,14,D,Mark Hass,153
 Washington,429,State Senate,14,D,Mark Hass,1681
 Washington,434,State Senate,14,D,Mark Hass,2211
-Washington,,State Senate,14,D,Total,43415
 Washington,323,State Senate,18,D,Ginny Burdick,13
 Washington,391,State Senate,18,D,Ginny Burdick,196
 Washington,399,State Senate,18,D,Ginny Burdick,1372
@@ -5526,7 +5484,6 @@ Washington,405,State Senate,18,D,Ginny Burdick,4544
 Washington,409,State Senate,18,D,Ginny Burdick,2635
 Washington,414,State Senate,18,D,Ginny Burdick,290
 Washington,441,State Senate,18,D,Ginny Burdick,49
-Washington,,State Senate,18,D,Total,19841
 Washington,302,State Senate,14,,Write-ins,44
 Washington,304,State Senate,14,,Write-ins,66
 Washington,320,State Senate,14,,Write-ins,66
@@ -5552,7 +5509,6 @@ Washington,418,State Senate,14,,Write-ins,31
 Washington,421,State Senate,14,,Write-ins,7
 Washington,429,State Senate,14,,Write-ins,77
 Washington,434,State Senate,14,,Write-ins,73
-Washington,,State Senate,14,,Total,1256
 Washington,323,State Senate,18,,Write-ins,0
 Washington,391,State Senate,18,,Write-ins,7
 Washington,399,State Senate,18,,Write-ins,43
@@ -5564,15 +5520,12 @@ Washington,405,State Senate,18,,Write-ins,145
 Washington,409,State Senate,18,,Write-ins,100
 Washington,414,State Senate,18,,Write-ins,11
 Washington,441,State Senate,18,,Write-ins,1
-Washington,,State Senate,18,,Write-ins,697
 Washington,308,State House,24,R,Ron Noble,79
 Washington,318,State House,24,R,Ron Noble,1096
 Washington,328,State House,24,R,Ron Noble,1012
 Washington,430,State House,24,R,Ron Noble,736
 Washington,440,State House,24,R,Ron Noble,436
-Washington,,State House,24,R,Total,3359
 Washington,431,State House,25,D,Sharon Freeman,1
-Washington,,State House,25,D,Total,1
 Washington,303,State House,26,R,Richard Vial,449
 Washington,322,State House,26,R,Richard Vial,132
 Washington,327,State House,26,R,Richard Vial,1378
@@ -5592,7 +5545,6 @@ Washington,431,State House,26,R,Richard Vial,843
 Washington,432,State House,26,R,Richard Vial,137
 Washington,435,State House,26,R,Richard Vial,1806
 Washington,442,State House,26,R,Richard Vial,1178
-Washington,,State House,26,R,Total,13547
 Washington,379,State House,27,D,Sheri Malstrom,3830
 Washington,380,State House,27,D,Sheri Malstrom,3731
 Washington,383,State House,27,D,Sheri Malstrom,652
@@ -5605,7 +5557,6 @@ Washington,392,State House,27,D,Sheri Malstrom,132
 Washington,393,State House,27,D,Sheri Malstrom,396
 Washington,395,State House,27,D,Sheri Malstrom,3800
 Washington,421,State House,27,D,Sheri Malstrom,141
-Washington,,State House,27,D,Total,21659
 Washington,302,State House,28,D,Jeff Barker,1007
 Washington,304,State House,28,D,Jeff Barker,1364
 Washington,320,State House,28,D,Jeff Barker,1331
@@ -5619,7 +5570,6 @@ Washington,412,State House,28,D,Jeff Barker,838
 Washington,418,State House,28,D,Jeff Barker,936
 Washington,429,State House,28,D,Jeff Barker,1353
 Washington,434,State House,28,D,Jeff Barker,1815
-Washington,,State House,28,D,Total,17107
 Washington,307,State House,29,D,Susan McLain,821
 Washington,314,State House,29,D,Susan McLain,110
 Washington,336,State House,29,D,Susan McLain,1346
@@ -5633,7 +5583,6 @@ Washington,344,State House,29,D,Susan McLain,2211
 Washington,346,State House,29,D,Susan McLain,106
 Washington,347,State House,29,D,Susan McLain,25
 Washington,422,State House,29,D,Susan McLain,6
-Washington,,State House,29,D,Total,14248
 Washington,309,State House,30,D,Janeen Sollman,1499
 Washington,313,State House,30,D,Janeen Sollman,4
 Washington,315,State House,30,D,Janeen Sollman,313
@@ -5647,7 +5596,6 @@ Washington,335,State House,30,D,Janeen Sollman,1663
 Washington,343,State House,30,D,Janeen Sollman,1749
 Washington,345,State House,30,D,Janeen Sollman,7
 Washington,374,State House,30,D,Janeen Sollman,2
-Washington,,State House,30,D,Total,15336
 Washington,316,State House,31,R,Brad Witt,468
 Washington,326,State House,31,R,Brad Witt,1061
 Washington,331,State House,31,R,Brad Witt,1505
@@ -5656,7 +5604,6 @@ Washington,373,State House,31,R,Brad Witt,188
 Washington,381,State House,31,R,Brad Witt,63
 Washington,439,State House,31,R,Brad Witt,274
 Washington,443,State House,31,R,Brad Witt,6
-Washington,,State House,31,R,Total,3664
 Washington,301,State House,32,R,Bruce Bobek,796
 Washington,305,State House,32,R,Bruce Bobek,450
 Washington,310,State House,32,R,Bruce Bobek,728
@@ -5664,7 +5611,6 @@ Washington,311,State House,32,R,Bruce Bobek,270
 Washington,312,State House,32,R,Bruce Bobek,336
 Washington,321,State House,32,R,Bruce Bobek,151
 Washington,324,State House,32,R,Bruce Bobek,209
-Washington,,State House,32,R,Total,2940
 Washington,363,State House,33,D,Mitch Greenlick,1965
 Washington,364,State House,33,D,Mitch Greenlick,2318
 Washington,365,State House,33,D,Mitch Greenlick,1698
@@ -5676,7 +5622,6 @@ Washington,377,State House,33,D,Mitch Greenlick,1094
 Washington,387,State House,33,D,Mitch Greenlick,668
 Washington,390,State House,33,D,Mitch Greenlick,1037
 Washington,403,State House,33,D,Mitch Greenlick,662
-Washington,,State House,33,D,Total,14780
 Washington,306,State House,34,D,Ken Helm,376
 Washington,325,State House,34,D,Ken Helm,3
 Washington,352,State House,34,D,Ken Helm,535
@@ -5697,7 +5642,6 @@ Washington,378,State House,34,D,Ken Helm,1076
 Washington,406,State House,34,D,Ken Helm,262
 Washington,407,State House,34,D,Ken Helm,957
 Washington,408,State House,34,D,Ken Helm,38
-Washington,,State House,34,D,Total,18606
 Washington,323,State House,35,D,Margaret Doherty,13
 Washington,391,State House,35,D,Margaret Doherty,174
 Washington,399,State House,35,D,Margaret Doherty,1180
@@ -5709,7 +5653,6 @@ Washington,405,State House,35,D,Margaret Doherty,3575
 Washington,409,State House,35,D,Margaret Doherty,2101
 Washington,414,State House,35,D,Margaret Doherty,196
 Washington,441,State House,35,D,Margaret Doherty,44
-Washington,,State House,35,D,Total,15895
 Washington,348,State House,37,R,Julie Parrish,14
 Washington,394,State House,37,R,Julie Parrish,104
 Washington,396,State House,37,R,Julie Parrish,392
@@ -5721,15 +5664,12 @@ Washington,433,State House,37,R,Julie Parrish,999
 Washington,436,State House,37,R,Julie Parrish,1234
 Washington,437,State House,37,R,Julie Parrish,20
 Washington,438,State House,37,R,Julie Parrish,158
-Washington,,State House,37,R,Total,6655
 Washington,308,State House,24,D,Ken Moore,48
 Washington,318,State House,24,D,Ken Moore,1245
 Washington,328,State House,24,D,Ken Moore,610
 Washington,430,State House,24,D,Ken Moore,413
 Washington,440,State House,24,D,Ken Moore,636
-Washington,,State House,24,D,Total,2952
 Washington,431,State House,25,R,Bill Post,0
-Washington,,State House,25,R,Total,0
 Washington,303,State House,26,D,Ray Lister,324
 Washington,322,State House,26,D,Ray Lister,87
 Washington,327,State House,26,D,Ray Lister,1560
@@ -5749,15 +5689,12 @@ Washington,431,State House,26,D,Ray Lister,366
 Washington,432,State House,26,D,Ray Lister,133
 Washington,435,State House,26,D,Ray Lister,1469
 Washington,442,State House,26,D,Ray Lister,844
-Washington,,State House,26,D,Total,10915
 Washington,308,State House,24,,Write-ins,1
 Washington,318,State House,24,,Write-ins,6
 Washington,328,State House,24,,Write-ins,4
 Washington,430,State House,24,,Write-ins,4
 Washington,440,State House,24,,Write-ins,0
-Washington,,State House,24,,Total,15
 Washington,431,State House,25,,Write-ins,0
-Washington,,State House,25,,Total,0
 Washington,303,State House,26,,Write-ins,1
 Washington,322,State House,26,,Write-ins,0
 Washington,327,State House,26,,Write-ins,4
@@ -5777,7 +5714,6 @@ Washington,431,State House,26,,Write-ins,2
 Washington,432,State House,26,,Write-ins,0
 Washington,435,State House,26,,Write-ins,4
 Washington,442,State House,26,,Write-ins,0
-Washington,,State House,26,,Total,25
 Washington,379,State House,27,,Write-ins,99
 Washington,380,State House,27,,Write-ins,83
 Washington,383,State House,27,,Write-ins,12
@@ -5790,7 +5726,6 @@ Washington,392,State House,27,,Write-ins,3
 Washington,393,State House,27,,Write-ins,1
 Washington,395,State House,27,,Write-ins,76
 Washington,421,State House,27,,Write-ins,6
-Washington,,State House,27,,Total,489
 Washington,302,State House,28,R,Gary Carlson,643
 Washington,304,State House,28,R,Gary Carlson,890
 Washington,320,State House,28,R,Gary Carlson,775
@@ -5804,7 +5739,6 @@ Washington,412,State House,28,R,Gary Carlson,610
 Washington,418,State House,28,R,Gary Carlson,646
 Washington,429,State House,28,R,Gary Carlson,881
 Washington,434,State House,28,R,Gary Carlson,1073
-Washington,,State House,28,R,Total,9481
 Washington,307,State House,29,R,Juanita Lint,527
 Washington,314,State House,29,R,Juanita Lint,153
 Washington,336,State House,29,R,Juanita Lint,922
@@ -5818,7 +5752,6 @@ Washington,344,State House,29,R,Juanita Lint,1126
 Washington,346,State House,29,R,Juanita Lint,139
 Washington,347,State House,29,R,Juanita Lint,29
 Washington,422,State House,29,R,Juanita Lint,13
-Washington,,State House,29,R,Total,9833
 Washington,309,State House,30,R,Dan Mason,1028
 Washington,313,State House,30,R,Dan Mason,1
 Washington,315,State House,30,R,Dan Mason,484
@@ -5832,7 +5765,6 @@ Washington,335,State House,30,R,Dan Mason,1848
 Washington,343,State House,30,R,Dan Mason,1598
 Washington,345,State House,30,R,Dan Mason,7
 Washington,374,State House,30,R,Dan Mason,7
-Washington,,State House,30,R,Total,11473
 Washington,316,State House,31,LBT,Robert Miller,98
 Washington,326,State House,31,LBT,Robert Miller,273
 Washington,331,State House,31,LBT,Robert Miller,266
@@ -5841,7 +5773,6 @@ Washington,373,State House,31,LBT,Robert Miller,39
 Washington,381,State House,31,LBT,Robert Miller,15
 Washington,439,State House,31,LBT,Robert Miller,50
 Washington,443,State House,31,LBT,Robert Miller,1
-Washington,,State House,31,LBT,Total,762
 Washington,301,State House,32,D,Deborah Boone,627
 Washington,305,State House,32,D,Deborah Boone,278
 Washington,310,State House,32,D,Deborah Boone,571
@@ -5849,7 +5780,6 @@ Washington,311,State House,32,D,Deborah Boone,269
 Washington,312,State House,32,D,Deborah Boone,311
 Washington,321,State House,32,D,Deborah Boone,112
 Washington,324,State House,32,D,Deborah Boone,175
-Washington,,State House,32,D,Total,2343
 Washington,363,State House,33,R,Jon Verbeek,948
 Washington,364,State House,33,R,Jon Verbeek,1365
 Washington,365,State House,33,R,Jon Verbeek,842
@@ -5861,7 +5791,6 @@ Washington,377,State House,33,R,Jon Verbeek,809
 Washington,387,State House,33,R,Jon Verbeek,227
 Washington,390,State House,33,R,Jon Verbeek,728
 Washington,403,State House,33,R,Jon Verbeek,457
-Washington,,State House,33,R,Total,8465
 Washington,306,State House,34,IND,Donald Hershiser,173
 Washington,325,State House,34,IND,Donald Hershiser,0
 Washington,352,State House,34,IND,Donald Hershiser,159
@@ -5882,7 +5811,6 @@ Washington,378,State House,34,IND,Donald Hershiser,411
 Washington,406,State House,34,IND,Donald Hershiser,75
 Washington,407,State House,34,IND,Donald Hershiser,479
 Washington,408,State House,34,IND,Donald Hershiser,32
-Washington,,State House,34,IND,Total,9875
 Washington,323,State House,35,IND,Jessica Cousineau,3
 Washington,391,State House,35,IND,Jessica Cousineau,63
 Washington,399,State House,35,IND,Jessica Cousineau,572
@@ -5894,7 +5822,6 @@ Washington,405,State House,35,IND,Jessica Cousineau,2486
 Washington,409,State House,35,IND,Jessica Cousineau,1342
 Washington,414,State House,35,IND,Jessica Cousineau,235
 Washington,441,State House,35,IND,Jessica Cousineau,12
-Washington,,State House,35,IND,Total,10480
 Washington,348,State House,37,D,Paul Southwick,8
 Washington,394,State House,37,D,Paul Southwick,108
 Washington,396,State House,37,D,Paul Southwick,381
@@ -5906,7 +5833,6 @@ Washington,433,State House,37,D,Paul Southwick,860
 Washington,436,State House,37,D,Paul Southwick,677
 Washington,437,State House,37,D,Paul Southwick,25
 Washington,438,State House,37,D,Paul Southwick,64
-Washington,,State House,37,D,Total,6023
 Washington,309,State House,30,LBT,Kyle Markley,216
 Washington,313,State House,30,LBT,Kyle Markley,0
 Washington,315,State House,30,LBT,Kyle Markley,34
@@ -5920,7 +5846,6 @@ Washington,335,State House,30,LBT,Kyle Markley,289
 Washington,343,State House,30,LBT,Kyle Markley,325
 Washington,345,State House,30,LBT,Kyle Markley,1
 Washington,374,State House,30,LBT,Kyle Markley,2
-Washington,,State House,30,LBT,Total,2498
 Washington,348,State House,37,LBT,Ryan Haffner,0
 Washington,394,State House,37,LBT,Ryan Haffner,10
 Washington,396,State House,37,LBT,Ryan Haffner,27
@@ -5932,7 +5857,6 @@ Washington,433,State House,37,LBT,Ryan Haffner,56
 Washington,436,State House,37,LBT,Ryan Haffner,25
 Washington,437,State House,37,LBT,Ryan Haffner,0
 Washington,438,State House,37,LBT,Ryan Haffner,5
-Washington,,State House,37,LBT,Total,351
 Washington,302,State House,28,,Write-ins,6
 Washington,304,State House,28,,Write-ins,4
 Washington,320,State House,28,,Write-ins,14
@@ -5946,7 +5870,6 @@ Washington,412,State House,28,,Write-ins,2
 Washington,418,State House,28,,Write-ins,5
 Washington,429,State House,28,,Write-ins,9
 Washington,434,State House,28,,Write-ins,11
-Washington,,State House,28,,Total,112
 Washington,307,State House,29,,Write-ins,10
 Washington,314,State House,29,,Write-ins,2
 Washington,336,State House,29,,Write-ins,10
@@ -5960,7 +5883,6 @@ Washington,344,State House,29,,Write-ins,13
 Washington,346,State House,29,,Write-ins,0
 Washington,347,State House,29,,Write-ins,0
 Washington,422,State House,29,,Write-ins,0
-Washington,,State House,29,,Total,90
 Washington,309,State House,30,,Write-ins,4
 Washington,313,State House,30,,Write-ins,0
 Washington,315,State House,30,,Write-ins,0
@@ -5974,7 +5896,6 @@ Washington,335,State House,30,,Write-ins,11
 Washington,343,State House,30,,Write-ins,10
 Washington,345,State House,30,,Write-ins,0
 Washington,374,State House,30,,Write-ins,0
-Washington,,State House,30,,Total,61
 Washington,316,State House,31,,Write-ins,3
 Washington,326,State House,31,,Write-ins,18
 Washington,331,State House,31,,Write-ins,11
@@ -5983,7 +5904,6 @@ Washington,373,State House,31,,Write-ins,2
 Washington,381,State House,31,,Write-ins,0
 Washington,439,State House,31,,Write-ins,2
 Washington,443,State House,31,,Write-ins,0
-Washington,,State House,31,,Total,37
 Washington,301,State House,32,,Write-ins,5
 Washington,305,State House,32,,Write-ins,3
 Washington,310,State House,32,,Write-ins,4
@@ -5991,7 +5911,6 @@ Washington,311,State House,32,,Write-ins,6
 Washington,312,State House,32,,Write-ins,2
 Washington,321,State House,32,,Write-ins,0
 Washington,324,State House,32,,Write-ins,4
-Washington,,State House,32,,Total,24
 Washington,363,State House,33,,Write-ins,7
 Washington,364,State House,33,,Write-ins,11
 Washington,365,State House,33,,Write-ins,8
@@ -6003,7 +5922,6 @@ Washington,377,State House,33,,Write-ins,1
 Washington,387,State House,33,,Write-ins,0
 Washington,390,State House,33,,Write-ins,6
 Washington,403,State House,33,,Write-ins,5
-Washington,,State House,33,,Total,56
 Washington,306,State House,34,,Write-ins,0
 Washington,325,State House,34,,Write-ins,0
 Washington,352,State House,34,,Write-ins,2
@@ -6024,7 +5942,6 @@ Washington,378,State House,34,,Write-ins,2
 Washington,406,State House,34,,Write-ins,1
 Washington,407,State House,34,,Write-ins,2
 Washington,408,State House,34,,Write-ins,0
-Washington,,State House,34,,Total,86
 Washington,323,State House,35,,Write-ins,0
 Washington,391,State House,35,,Write-ins,0
 Washington,399,State House,35,,Write-ins,7
@@ -6036,7 +5953,6 @@ Washington,405,State House,35,,Write-ins,21
 Washington,409,State House,35,,Write-ins,14
 Washington,414,State House,35,,Write-ins,3
 Washington,441,State House,35,,Write-ins,1
-Washington,,State House,35,,Total,98
 Washington,348,State House,37,,Write-ins,0
 Washington,394,State House,37,,Write-ins,0
 Washington,396,State House,37,,Write-ins,3
@@ -6048,4 +5964,3 @@ Washington,433,State House,37,,Write-ins,6
 Washington,436,State House,37,,Write-ins,4
 Washington,437,State House,37,,Write-ins,0
 Washington,438,State House,37,,Write-ins,0
-Washington,,State House,37,,Total,28
