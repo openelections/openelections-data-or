@@ -187,9 +187,8 @@ Yamhill,7,U.S. House,1,LIB,Beth A. King,49
 Yamhill,9,U.S. House,1,LIB,Beth A. King,97
 Yamhill,10,U.S. House,1,LIB,Beth A. King,41
 Yamhill,12,U.S. House,1,LIB,Beth A. King,87
-Yamhill,13,U.S. House,1,LIB,Beth A. King,28
+Yamhill,13,U.S. House,1,LIB,Beth A. King,139
 Yamhill,15,U.S. House,1,LIB,Beth A. King,106
-Yamhill,13,U.S. House,1,LIB,Beth A. King,111
 Yamhill,19,U.S. House,1,LIB,Beth A. King,105
 Yamhill,20,U.S. House,1,LIB,Beth A. King,81
 Yamhill,21,U.S. House,1,LIB,Beth A. King,71
@@ -205,9 +204,8 @@ Yamhill,7,U.S. House,1,DEM,David Wu,725
 Yamhill,9,U.S. House,1,DEM,David Wu,1239
 Yamhill,10,U.S. House,1,DEM,David Wu,591
 Yamhill,12,U.S. House,1,DEM,David Wu,981
-Yamhill,13,U.S. House,1,DEM,David Wu,524
+Yamhill,13,U.S. House,1,DEM,David Wu,2660
 Yamhill,15,U.S. House,1,DEM,David Wu,1810
-Yamhill,13,U.S. House,1,DEM,David Wu,2136
 Yamhill,19,U.S. House,1,DEM,David Wu,1838
 Yamhill,20,U.S. House,1,DEM,David Wu,746
 Yamhill,21,U.S. House,1,DEM,David Wu,933
@@ -223,9 +221,8 @@ Yamhill,7,U.S. House,1,REP,Charles Starr,582
 Yamhill,9,U.S. House,1,REP,Charles Starr,1279
 Yamhill,10,U.S. House,1,REP,Charles Starr,556
 Yamhill,12,U.S. House,1,REP,Charles Starr,967
-Yamhill,13,U.S. House,1,REP,Charles Starr,524
+Yamhill,13,U.S. House,1,REP,Charles Starr,2034
 Yamhill,15,U.S. House,1,REP,Charles Starr,1243
-Yamhill,13,U.S. House,1,REP,Charles Starr,1510
 Yamhill,19,U.S. House,1,REP,Charles Starr,1107
 Yamhill,20,U.S. House,1,REP,Charles Starr,802
 Yamhill,21,U.S. House,1,REP,Charles Starr,876
@@ -302,8 +299,7 @@ Yamhill,19,Secretary of State,,DEM,Bill Bradbury,1587
 Yamhill,20,Secretary of State,,DEM,Bill Bradbury,648
 Yamhill,21,Secretary of State,,DEM,Bill Bradbury,811
 Yamhill,24,Secretary of State,,DEM,Bill Bradbury,758
-Yamhill,28,Secretary of State,,DEM,Bill Bradbury,598
-Yamhill,28,Secretary of State,,DEM,Bill Bradbury,386
+Yamhill,28,Secretary of State,,DEM,Bill Bradbury,984
 Yamhill,Total,Secretary of State,,DEM,Bill Bradbury,14910
 Yamhill,1,Secretary of State,,PCG,Lloyd Marbet,52
 Yamhill,2,Secretary of State,,PCG,Lloyd Marbet,49
@@ -320,8 +316,7 @@ Yamhill,19,Secretary of State,,PCG,Lloyd Marbet,115
 Yamhill,20,Secretary of State,,PCG,Lloyd Marbet,76
 Yamhill,21,Secretary of State,,PCG,Lloyd Marbet,61
 Yamhill,24,Secretary of State,,PCG,Lloyd Marbet,65
-Yamhill,28,Secretary of State,,PCG,Lloyd Marbet,50
-Yamhill,28,Secretary of State,,PCG,Lloyd Marbet,39
+Yamhill,28,Secretary of State,,PCG,Lloyd Marbet,89
 Yamhill,Total,Secretary of State,,PCG,Lloyd Marbet,1135
 Yamhill,1,Secretary of State,,REP,Lynn Snodgrass,851
 Yamhill,2,Secretary of State,,REP,Lynn Snodgrass,1227
@@ -338,8 +333,7 @@ Yamhill,19,Secretary of State,,REP,Lynn Snodgrass,1319
 Yamhill,20,Secretary of State,,REP,Lynn Snodgrass,867
 Yamhill,21,Secretary of State,,REP,Lynn Snodgrass,976
 Yamhill,24,Secretary of State,,REP,Lynn Snodgrass,1099
-Yamhill,28,Secretary of State,,REP,Lynn Snodgrass,768
-Yamhill,28,Secretary of State,,REP,Lynn Snodgrass,526
+Yamhill,28,Secretary of State,,REP,Lynn Snodgrass,1294
 Yamhill,Total,Secretary of State,,REP,Lynn Snodgrass,17704
 Yamhill,1,Secretary of State,,LIB,"E.J. (Ed) Pole, II",23
 Yamhill,2,Secretary of State,,LIB,"E.J. (Ed) Pole, II",24
@@ -356,8 +350,7 @@ Yamhill,19,Secretary of State,,LIB,"E.J. (Ed) Pole, II",49
 Yamhill,20,Secretary of State,,LIB,"E.J. (Ed) Pole, II",29
 Yamhill,21,Secretary of State,,LIB,"E.J. (Ed) Pole, II",46
 Yamhill,24,Secretary of State,,LIB,"E.J. (Ed) Pole, II",56
-Yamhill,28,Secretary of State,,LIB,"E.J. (Ed) Pole, II",38
-Yamhill,28,Secretary of State,,LIB,"E.J. (Ed) Pole, II",30
+Yamhill,28,Secretary of State,,LIB,"E.J. (Ed) Pole, II",68
 Yamhill,Total,Secretary of State,,LIB,"E.J. (Ed) Pole, II",650
 Yamhill,1,Secretary of State,,,Write-in,0
 Yamhill,2,Secretary of State,,,Write-in,2
@@ -392,7 +385,6 @@ Yamhill,19,Secretary of State,,,Over Votes,2
 Yamhill,20,Secretary of State,,,Over Votes,1
 Yamhill,21,Secretary of State,,,Over Votes,1
 Yamhill,24,Secretary of State,,,Over Votes,0
-Yamhill,28,Secretary of State,,,Over Votes,1
 Yamhill,28,Secretary of State,,,Over Votes,1
 Yamhill,Total,Secretary of State,,,Over Votes,20
 Yamhill,1,Secretary of State,,,Under Votes,52

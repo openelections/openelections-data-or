@@ -7,8 +7,7 @@ Yamhill,7,U.S. Senate,,CON,Lon Mabon,28
 Yamhill,9,U.S. Senate,,CON,Lon Mabon,34
 Yamhill,10,U.S. Senate,,CON,Lon Mabon,17
 Yamhill,12,U.S. Senate,,CON,Lon Mabon,53
-Yamhill,13,U.S. Senate,,CON,Lon Mabon,20
-Yamhill,13,U.S. Senate,,CON,Lon Mabon,52
+Yamhill,13,U.S. Senate,,CON,Lon Mabon,72
 Yamhill,17,U.S. Senate,,CON,Lon Mabon,25
 Yamhill,18,U.S. Senate,,CON,Lon Mabon,33
 Yamhill,19,U.S. Senate,,CON,Lon Mabon,55
@@ -27,8 +26,7 @@ Yamhill,7,U.S. Senate,,DEM,Bill Bradbury,389
 Yamhill,9,U.S. Senate,,DEM,Bill Bradbury,626
 Yamhill,10,U.S. Senate,,DEM,Bill Bradbury,327
 Yamhill,12,U.S. Senate,,DEM,Bill Bradbury,565
-Yamhill,13,U.S. Senate,,DEM,Bill Bradbury,264
-Yamhill,13,U.S. Senate,,DEM,Bill Bradbury,846
+Yamhill,13,U.S. Senate,,DEM,Bill Bradbury,1110
 Yamhill,17,U.S. Senate,,DEM,Bill Bradbury,378
 Yamhill,18,U.S. Senate,,DEM,Bill Bradbury,977
 Yamhill,19,U.S. Senate,,DEM,Bill Bradbury,929
@@ -47,8 +45,7 @@ Yamhill,7,U.S. Senate,,REP,Gordon H. Smith,840
 Yamhill,9,U.S. Senate,,REP,Gordon H. Smith,1194
 Yamhill,10,U.S. Senate,,REP,Gordon H. Smith,701
 Yamhill,12,U.S. Senate,,REP,Gordon H. Smith,1292
-Yamhill,13,U.S. Senate,,REP,Gordon H. Smith,661
-Yamhill,13,U.S. Senate,,REP,Gordon H. Smith,1473
+Yamhill,13,U.S. Senate,,REP,Gordon H. Smith,2134
 Yamhill,17,U.S. Senate,,REP,Gordon H. Smith,769
 Yamhill,18,U.S. Senate,,REP,Gordon H. Smith,1880
 Yamhill,19,U.S. Senate,,REP,Gordon H. Smith,1212
@@ -67,8 +64,7 @@ Yamhill,7,U.S. Senate,,LIB,Dan Fitzgerald,23
 Yamhill,9,U.S. Senate,,LIB,Dan Fitzgerald,32
 Yamhill,10,U.S. Senate,,LIB,Dan Fitzgerald,25
 Yamhill,12,U.S. Senate,,LIB,Dan Fitzgerald,52
-Yamhill,13,U.S. Senate,,LIB,Dan Fitzgerald,38
-Yamhill,13,U.S. Senate,,LIB,Dan Fitzgerald,42
+Yamhill,13,U.S. Senate,,LIB,Dan Fitzgerald,80
 Yamhill,17,U.S. Senate,,LIB,Dan Fitzgerald,28
 Yamhill,18,U.S. Senate,,LIB,Dan Fitzgerald,48
 Yamhill,19,U.S. Senate,,LIB,Dan Fitzgerald,72
@@ -147,10 +143,9 @@ Yamhill,7,U.S. House,1,REP,Jim Greenfield,524
 Yamhill,9,U.S. House,1,REP,Jim Greenfield,776
 Yamhill,10,U.S. House,1,REP,Jim Greenfield,417
 Yamhill,12,U.S. House,1,REP,Jim Greenfield,838
-Yamhill,13,U.S. House,1,REP,Jim Greenfield,406
+Yamhill,13,U.S. House,1,REP,Jim Greenfield,1407
 Yamhill,15,U.S. House,1,REP,Jim Greenfield,860
 Yamhill,17,U.S. House,1,REP,Jim Greenfield,466
-Yamhill,13,U.S. House,1,REP,Jim Greenfield,1001
 Yamhill,19,U.S. House,1,REP,Jim Greenfield,690
 Yamhill,20,U.S. House,1,REP,Jim Greenfield,716
 Yamhill,21,U.S. House,1,REP,Jim Greenfield,693
@@ -167,10 +162,9 @@ Yamhill,7,U.S. House,1,DEM,David Wu,703
 Yamhill,9,U.S. House,1,DEM,David Wu,986
 Yamhill,10,U.S. House,1,DEM,David Wu,568
 Yamhill,12,U.S. House,1,DEM,David Wu,972
-Yamhill,13,U.S. House,1,DEM,David Wu,500
+Yamhill,13,U.S. House,1,DEM,David Wu,2262
 Yamhill,15,U.S. House,1,DEM,David Wu,1416
 Yamhill,17,U.S. House,1,DEM,David Wu,675
-Yamhill,13,U.S. House,1,DEM,David Wu,1762
 Yamhill,19,U.S. House,1,DEM,David Wu,1424
 Yamhill,20,U.S. House,1,DEM,David Wu,827
 Yamhill,21,U.S. House,1,DEM,David Wu,891
@@ -187,10 +181,9 @@ Yamhill,7,U.S. House,1,LIB,Beth A. King,32
 Yamhill,9,U.S. House,1,LIB,Beth A. King,65
 Yamhill,10,U.S. House,1,LIB,Beth A. King,39
 Yamhill,12,U.S. House,1,LIB,Beth A. King,82
-Yamhill,13,U.S. House,1,LIB,Beth A. King,45
+Yamhill,13,U.S. House,1,LIB,Beth A. King,130
 Yamhill,15,U.S. House,1,LIB,Beth A. King,70
 Yamhill,17,U.S. House,1,LIB,Beth A. King,35
-Yamhill,13,U.S. House,1,LIB,Beth A. King,85
 Yamhill,19,U.S. House,1,LIB,Beth A. King,96
 Yamhill,20,U.S. House,1,LIB,Beth A. King,73
 Yamhill,21,U.S. House,1,LIB,Beth A. King,66
@@ -230,7 +223,6 @@ Yamhill,12,U.S. House,1,,Over Votes,1
 Yamhill,13,U.S. House,1,,Over Votes,0
 Yamhill,15,U.S. House,1,,Over Votes,1
 Yamhill,17,U.S. House,1,,Over Votes,0
-Yamhill,13,U.S. House,1,,Over Votes,0
 Yamhill,19,U.S. House,1,,Over Votes,0
 Yamhill,20,U.S. House,1,,Over Votes,0
 Yamhill,21,U.S. House,1,,Over Votes,0
@@ -267,10 +259,8 @@ Yamhill,7,Governor,,REP,Kevin L. Mannix,716
 Yamhill,9,Governor,,REP,Kevin L. Mannix,1022
 Yamhill,10,Governor,,REP,Kevin L. Mannix,600
 Yamhill,12,Governor,,REP,Kevin L. Mannix,1118
-Yamhill,13,Governor,,REP,Kevin L. Mannix,550
-Yamhill,13,Governor,,REP,Kevin L. Mannix,1218
+Yamhill,13,Governor,,REP,Kevin L. Mannix,3250
 Yamhill,17,Governor,,REP,Kevin L. Mannix,651
-Yamhill,13,Governor,,REP,Kevin L. Mannix,1482
 Yamhill,19,Governor,,REP,Kevin L. Mannix,978
 Yamhill,20,Governor,,REP,Kevin L. Mannix,927
 Yamhill,21,Governor,,REP,Kevin L. Mannix,933
@@ -287,10 +277,8 @@ Yamhill,7,Governor,,LIB,Tom Cox,53
 Yamhill,9,Governor,,LIB,Tom Cox,80
 Yamhill,10,Governor,,LIB,Tom Cox,43
 Yamhill,12,Governor,,LIB,Tom Cox,104
-Yamhill,13,Governor,,LIB,Tom Cox,72
-Yamhill,13,Governor,,LIB,Tom Cox,111
+Yamhill,13,Governor,,LIB,Tom Cox,279
 Yamhill,17,Governor,,LIB,Tom Cox,48
-Yamhill,13,Governor,,LIB,Tom Cox,96
 Yamhill,19,Governor,,LIB,Tom Cox,151
 Yamhill,20,Governor,,LIB,Tom Cox,92
 Yamhill,21,Governor,,LIB,Tom Cox,110
@@ -307,10 +295,8 @@ Yamhill,7,Governor,,DEM,Ted Kulongoski,501
 Yamhill,9,Governor,,DEM,Ted Kulongoski,778
 Yamhill,10,Governor,,DEM,Ted Kulongoski,416
 Yamhill,12,Governor,,DEM,Ted Kulongoski,725
-Yamhill,13,Governor,,DEM,Ted Kulongoski,347
-Yamhill,13,Governor,,DEM,Ted Kulongoski,1071
+Yamhill,13,Governor,,DEM,Ted Kulongoski,2745
 Yamhill,17,Governor,,DEM,Ted Kulongoski,493
-Yamhill,13,Governor,,DEM,Ted Kulongoski,1327
 Yamhill,19,Governor,,DEM,Ted Kulongoski,1110
 Yamhill,20,Governor,,DEM,Ted Kulongoski,658
 Yamhill,21,Governor,,DEM,Ted Kulongoski,646

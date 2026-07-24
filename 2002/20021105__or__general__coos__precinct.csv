@@ -116,9 +116,8 @@ Coos,19,U.S. House,4,,Under Votes,8
 Coos,10,State House,1,REP,Wayne Krieger,617
 Coos,11,State House,1,REP,Wayne Krieger,948
 Coos,12,State House,1,REP,Wayne Krieger,1004
-Coos,13,State House,1,REP,Wayne Krieger,544
+Coos,13,State House,1,REP,Wayne Krieger,786
 Coos,14,State House,1,REP,Wayne Krieger,854
-Coos,13,State House,1,REP,Wayne Krieger,242
 Coos,16,State House,1,REP,Wayne Krieger,653
 Coos,18,State House,1,REP,Wayne Krieger,856
 Coos,19,State House,1,REP,Wayne Krieger,166
@@ -126,9 +125,8 @@ Coos,Total,State House,1,REP,Wayne Krieger,5884
 Coos,10,State House,1,DEM,Dave Tilton,421
 Coos,11,State House,1,DEM,Dave Tilton,485
 Coos,12,State House,1,DEM,Dave Tilton,642
-Coos,13,State House,1,DEM,Dave Tilton,337
+Coos,13,State House,1,DEM,Dave Tilton,459
 Coos,14,State House,1,DEM,Dave Tilton,348
-Coos,13,State House,1,DEM,Dave Tilton,122
 Coos,16,State House,1,DEM,Dave Tilton,555
 Coos,18,State House,1,DEM,Dave Tilton,473
 Coos,19,State House,1,DEM,Dave Tilton,67
@@ -148,7 +146,6 @@ Coos,11,State House,1,,Over Votes,0
 Coos,12,State House,1,,Over Votes,0
 Coos,13,State House,1,,Over Votes,0
 Coos,14,State House,1,,Over Votes,0
-Coos,13,State House,1,,Over Votes,0
 Coos,16,State House,1,,Over Votes,0
 Coos,18,State House,1,,Over Votes,1
 Coos,19,State House,1,,Over Votes,0
@@ -220,12 +217,11 @@ Coos,17,State House,9,,Under Votes,17
 Coos,Total,State House,9,,Under Votes,1303
 Coos,1,U.S. Senate,,CON,Lon Mabon,18
 Coos,2,U.S. Senate,,CON,Lon Mabon,39
-Coos,3,U.S. Senate,,CON,Lon Mabon,36
+Coos,3,U.S. Senate,,CON,Lon Mabon,67
 Coos,4,U.S. Senate,,CON,Lon Mabon,36
 Coos,5,U.S. Senate,,CON,Lon Mabon,40
 Coos,6,U.S. Senate,,CON,Lon Mabon,32
 Coos,7,U.S. Senate,,CON,Lon Mabon,37
-Coos,3,U.S. Senate,,CON,Lon Mabon,31
 Coos,9,U.S. Senate,,CON,Lon Mabon,37
 Coos,10,U.S. Senate,,CON,Lon Mabon,37
 Coos,11,U.S. Senate,,CON,Lon Mabon,36
@@ -240,12 +236,11 @@ Coos,19,U.S. Senate,,CON,Lon Mabon,8
 Coos,Total,U.S. Senate,,CON,Lon Mabon,529
 Coos,1,U.S. Senate,,DEM,Bill Bradbury,357
 Coos,2,U.S. Senate,,DEM,Bill Bradbury,665
-Coos,3,U.S. Senate,,DEM,Bill Bradbury,816
+Coos,3,U.S. Senate,,DEM,Bill Bradbury,1523
 Coos,4,U.S. Senate,,DEM,Bill Bradbury,733
 Coos,5,U.S. Senate,,DEM,Bill Bradbury,892
 Coos,6,U.S. Senate,,DEM,Bill Bradbury,620
 Coos,7,U.S. Senate,,DEM,Bill Bradbury,706
-Coos,3,U.S. Senate,,DEM,Bill Bradbury,707
 Coos,9,U.S. Senate,,DEM,Bill Bradbury,492
 Coos,10,U.S. Senate,,DEM,Bill Bradbury,369
 Coos,11,U.S. Senate,,DEM,Bill Bradbury,437
@@ -260,12 +255,11 @@ Coos,19,U.S. Senate,,DEM,Bill Bradbury,75
 Coos,Total,U.S. Senate,,DEM,Bill Bradbury,9185
 Coos,1,U.S. Senate,,REP,Gordon H. Smith,532
 Coos,2,U.S. Senate,,REP,Gordon H. Smith,1130
-Coos,3,U.S. Senate,,REP,Gordon H. Smith,1247
+Coos,3,U.S. Senate,,REP,Gordon H. Smith,2125
 Coos,4,U.S. Senate,,REP,Gordon H. Smith,884
 Coos,5,U.S. Senate,,REP,Gordon H. Smith,1125
 Coos,6,U.S. Senate,,REP,Gordon H. Smith,909
 Coos,7,U.S. Senate,,REP,Gordon H. Smith,872
-Coos,3,U.S. Senate,,REP,Gordon H. Smith,878
 Coos,9,U.S. Senate,,REP,Gordon H. Smith,774
 Coos,10,U.S. Senate,,REP,Gordon H. Smith,638
 Coos,11,U.S. Senate,,REP,Gordon H. Smith,941
@@ -280,12 +274,11 @@ Coos,19,U.S. Senate,,REP,Gordon H. Smith,153
 Coos,Total,U.S. Senate,,REP,Gordon H. Smith,14423
 Coos,1,U.S. Senate,,LIB,Dan Fitzgerald,29
 Coos,2,U.S. Senate,,LIB,Dan Fitzgerald,63
-Coos,3,U.S. Senate,,LIB,Dan Fitzgerald,62
+Coos,3,U.S. Senate,,LIB,Dan Fitzgerald,137
 Coos,4,U.S. Senate,,LIB,Dan Fitzgerald,69
 Coos,5,U.S. Senate,,LIB,Dan Fitzgerald,83
 Coos,6,U.S. Senate,,LIB,Dan Fitzgerald,52
 Coos,7,U.S. Senate,,LIB,Dan Fitzgerald,59
-Coos,3,U.S. Senate,,LIB,Dan Fitzgerald,75
 Coos,9,U.S. Senate,,LIB,Dan Fitzgerald,57
 Coos,10,U.S. Senate,,LIB,Dan Fitzgerald,41
 Coos,11,U.S. Senate,,LIB,Dan Fitzgerald,54
@@ -325,7 +318,6 @@ Coos,4,U.S. Senate,,,Over Votes,0
 Coos,5,U.S. Senate,,,Over Votes,1
 Coos,6,U.S. Senate,,,Over Votes,0
 Coos,7,U.S. Senate,,,Over Votes,0
-Coos,3,U.S. Senate,,,Over Votes,1
 Coos,9,U.S. Senate,,,Over Votes,0
 Coos,10,U.S. Senate,,,Over Votes,0
 Coos,11,U.S. Senate,,,Over Votes,2
