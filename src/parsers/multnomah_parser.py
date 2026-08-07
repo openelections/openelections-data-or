@@ -142,7 +142,7 @@ def process_line(line, keys, w, party):
                 for cand in candidate_keys:
                     try:
                         w.writerow(['Multnomah', precinct, office, district, cand['party'], cand['name'], result_bits[cand['code']]])
-                    except:
+                    except (KeyError, IndexError, ValueError):
                         continue
                         #w.writerow(['Multnomah', precinct, 'Total', None, cand['party'], cand['name'], result_bits[cand['code']]])
 #        else:
@@ -173,5 +173,5 @@ with open('20100518__or__primary__multnomah__precinct.csv', 'wb') as csvfile:
             keys = []
         try:
             process_line(line, keys, w, party)
-        except:
+        except (KeyError, IndexError, ValueError):
             continue
