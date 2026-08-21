@@ -1,0 +1,376 @@
+county,precinct,office,district,party,candidate,votes
+Gilliam,Prec #1,County Commissioner,Position 1,,Gary Bettencourt,182
+Gilliam,Prec #6,County Commissioner,Position 1,,Gary Bettencourt,137
+Gilliam,Prec #7,County Commissioner,Position 1,,Gary Bettencourt,131
+Gilliam,Prec #1,County Commissioner,Position 1,,Jennifer Bold,13
+Gilliam,Prec #6,County Commissioner,Position 1,,Jennifer Bold,6
+Gilliam,Prec #7,County Commissioner,Position 1,,Jennifer Bold,22
+Gilliam,Prec #1,County Commissioner,Position 1,,Leah Watkins,66
+Gilliam,Prec #6,County Commissioner,Position 1,,Leah Watkins,89
+Gilliam,Prec #7,County Commissioner,Position 1,,Leah Watkins,134
+Gilliam,Prec #1,County Commissioner,Position 1,,Over Votes,0
+Gilliam,Prec #6,County Commissioner,Position 1,,Over Votes,0
+Gilliam,Prec #7,County Commissioner,Position 1,,Over Votes,0
+Gilliam,Prec #1,County Commissioner,Position 1,,Under Votes,23
+Gilliam,Prec #6,County Commissioner,Position 1,,Under Votes,8
+Gilliam,Prec #7,County Commissioner,Position 1,,Under Votes,18
+Gilliam,Prec #1,County Commissioner,Position 1,,Write-ins,2
+Gilliam,Prec #6,County Commissioner,Position 1,,Write-ins,1
+Gilliam,Prec #7,County Commissioner,Position 1,,Write-ins,2
+Gilliam,Prec #1,County Surveyor,,,Over Votes,0
+Gilliam,Prec #6,County Surveyor,,,Over Votes,0
+Gilliam,Prec #7,County Surveyor,,,Over Votes,0
+Gilliam,Prec #1,County Surveyor,,,Todd R. Catterson,176
+Gilliam,Prec #6,County Surveyor,,,Todd R. Catterson,158
+Gilliam,Prec #7,County Surveyor,,,Todd R. Catterson,203
+Gilliam,Prec #1,County Surveyor,,,Under Votes,105
+Gilliam,Prec #6,County Surveyor,,,Under Votes,83
+Gilliam,Prec #7,County Surveyor,,,Under Votes,104
+Gilliam,Prec #1,County Surveyor,,,Write-ins,5
+Gilliam,Prec #6,County Surveyor,,,Write-ins,0
+Gilliam,Prec #7,County Surveyor,,,Write-ins,0
+Gilliam,Prec #1,County Treasurer,,,Kathryn Greiner,53
+Gilliam,Prec #6,County Treasurer,,,Kathryn Greiner,68
+Gilliam,Prec #7,County Treasurer,,,Kathryn Greiner,89
+Gilliam,Prec #1,County Treasurer,,,Kelly Smith,29
+Gilliam,Prec #6,County Treasurer,,,Kelly Smith,125
+Gilliam,Prec #7,County Treasurer,,,Kelly Smith,133
+Gilliam,Prec #1,County Treasurer,,,Nathan L. Hammer,187
+Gilliam,Prec #6,County Treasurer,,,Nathan L. Hammer,35
+Gilliam,Prec #7,County Treasurer,,,Nathan L. Hammer,60
+Gilliam,Prec #1,County Treasurer,,,Over Votes,1
+Gilliam,Prec #6,County Treasurer,,,Over Votes,1
+Gilliam,Prec #7,County Treasurer,,,Over Votes,0
+Gilliam,Prec #1,County Treasurer,,,Under Votes,14
+Gilliam,Prec #6,County Treasurer,,,Under Votes,12
+Gilliam,Prec #7,County Treasurer,,,Under Votes,25
+Gilliam,Prec #1,County Treasurer,,,Write-ins,2
+Gilliam,Prec #6,County Treasurer,,,Write-ins,0
+Gilliam,Prec #7,County Treasurer,,,Write-ins,0
+Gilliam,Prec #1,District Attorney,,,Over Votes,0
+Gilliam,Prec #6,District Attorney,,,Over Votes,0
+Gilliam,Prec #7,District Attorney,,,Over Votes,0
+Gilliam,Prec #1,District Attorney,,,Ryan Rodighiero,176
+Gilliam,Prec #6,District Attorney,,,Ryan Rodighiero,156
+Gilliam,Prec #7,District Attorney,,,Ryan Rodighiero,202
+Gilliam,Prec #1,District Attorney,,,Under Votes,105
+Gilliam,Prec #6,District Attorney,,,Under Votes,84
+Gilliam,Prec #7,District Attorney,,,Under Votes,105
+Gilliam,Prec #1,District Attorney,,,Write-ins,5
+Gilliam,Prec #6,District Attorney,,,Write-ins,1
+Gilliam,Prec #7,District Attorney,,,Write-ins,0
+Gilliam,Prec #1,Governor,,D,Brittany Jones,2
+Gilliam,Prec #6,Governor,,D,Brittany Jones,2
+Gilliam,Prec #7,Governor,,D,Brittany Jones,3
+Gilliam,Prec #1,Governor,,D,Cal Kishawi,0
+Gilliam,Prec #6,Governor,,D,Cal Kishawi,1
+Gilliam,Prec #7,Governor,,D,Cal Kishawi,0
+Gilliam,Prec #1,Governor,,D,David W. Beem,2
+Gilliam,Prec #6,Governor,,D,David W. Beem,1
+Gilliam,Prec #7,Governor,,D,David W. Beem,2
+Gilliam,Prec #1,Governor,,D,Donnie M. Beckwith,0
+Gilliam,Prec #6,Governor,,D,Donnie M. Beckwith,0
+Gilliam,Prec #7,Governor,,D,Donnie M. Beckwith,0
+Gilliam,Prec #1,Governor,,D,Forest (Fora) Alexander,1
+Gilliam,Prec #6,Governor,,D,Forest (Fora) Alexander,1
+Gilliam,Prec #7,Governor,,D,Forest (Fora) Alexander,0
+Gilliam,Prec #1,Governor,,D,James Atkinson IV,1
+Gilliam,Prec #6,Governor,,D,James Atkinson IV,1
+Gilliam,Prec #7,Governor,,D,James Atkinson IV,1
+Gilliam,Prec #1,Governor,,D,Miranda Wwigler,1
+Gilliam,Prec #6,Governor,,D,Miranda Wwigler,6
+Gilliam,Prec #7,Governor,,D,Miranda Wwigler,3
+Gilliam,Prec #1,Governor,,D,Over Votes,0
+Gilliam,Prec #6,Governor,,D,Over Votes,0
+Gilliam,Prec #7,Governor,,D,Over Votes,0
+Gilliam,Prec #1,Governor,,D,Steve William Laible,0
+Gilliam,Prec #6,Governor,,D,Steve William Laible,2
+Gilliam,Prec #7,Governor,,D,Steve William Laible,0
+Gilliam,Prec #1,Governor,,D,Tina Kotek,17
+Gilliam,Prec #6,Governor,,D,Tina Kotek,14
+Gilliam,Prec #7,Governor,,D,Tina Kotek,36
+Gilliam,Prec #1,Governor,,D,Tristan Sheppard,0
+Gilliam,Prec #6,Governor,,D,Tristan Sheppard,1
+Gilliam,Prec #7,Governor,,D,Tristan Sheppard,0
+Gilliam,Prec #1,Governor,,D,Under Votes,13
+Gilliam,Prec #6,Governor,,D,Under Votes,17
+Gilliam,Prec #7,Governor,,D,Under Votes,10
+Gilliam,Prec #1,Governor,,D,Write-ins,3
+Gilliam,Prec #6,Governor,,D,Write-ins,2
+Gilliam,Prec #7,Governor,,D,Write-ins,5
+Gilliam,Prec #1,Governor,,R,Brad T. Peters,0
+Gilliam,Prec #6,Governor,,R,Brad T. Peters,1
+Gilliam,Prec #7,Governor,,R,Brad T. Peters,0
+Gilliam,Prec #1,Governor,,R,Chris Dudley,14
+Gilliam,Prec #6,Governor,,R,Chris Dudley,19
+Gilliam,Prec #7,Governor,,R,Chris Dudley,33
+Gilliam,Prec #1,Governor,,R,Christine Drazan,87
+Gilliam,Prec #6,Governor,,R,Christine Drazan,65
+Gilliam,Prec #7,Governor,,R,Christine Drazan,88
+Gilliam,Prec #1,Governor,,R,Danielle Bethell,3
+Gilliam,Prec #6,Governor,,R,Danielle Bethell,0
+Gilliam,Prec #7,Governor,,R,Danielle Bethell,1
+Gilliam,Prec #1,Governor,,R,David Medina,11
+Gilliam,Prec #6,Governor,,R,David Medina,1
+Gilliam,Prec #7,Governor,,R,David Medina,5
+Gilliam,Prec #1,Governor,,R,DeAngelo Leroy Turner,0
+Gilliam,Prec #6,Governor,,R,DeAngelo Leroy Turner,0
+Gilliam,Prec #7,Governor,,R,DeAngelo Leroy Turner,0
+Gilliam,Prec #1,Governor,,R,Ed Diehl,38
+Gilliam,Prec #6,Governor,,R,Ed Diehl,30
+Gilliam,Prec #7,Governor,,R,Ed Diehl,23
+Gilliam,Prec #1,Governor,,R,Hope A. Dalrymple,0
+Gilliam,Prec #6,Governor,,R,Hope A. Dalrymple,0
+Gilliam,Prec #7,Governor,,R,Hope A. Dalrymple,0
+Gilliam,Prec #1,Governor,,R,Kyle M. Duyck,0
+Gilliam,Prec #6,Governor,,R,Kyle M. Duyck,2
+Gilliam,Prec #7,Governor,,R,Kyle M. Duyck,0
+Gilliam,Prec #1,Governor,,R,Martin Ward,0
+Gilliam,Prec #6,Governor,,R,Martin Ward,0
+Gilliam,Prec #7,Governor,,R,Martin Ward,0
+Gilliam,Prec #1,Governor,,R,Over Votes,1
+Gilliam,Prec #6,Governor,,R,Over Votes,0
+Gilliam,Prec #7,Governor,,R,Over Votes,0
+Gilliam,Prec #1,Governor,,R,Paul J. Romero Jr,3
+Gilliam,Prec #6,Governor,,R,Paul J. Romero Jr,1
+Gilliam,Prec #7,Governor,,R,Paul J. Romero Jr,3
+Gilliam,Prec #1,Governor,,R,Robert Neuman,0
+Gilliam,Prec #6,Governor,,R,Robert Neuman,0
+Gilliam,Prec #7,Governor,,R,Robert Neuman,0
+Gilliam,Prec #1,Governor,,R,Tim O. Youker,0
+Gilliam,Prec #6,Governor,,R,Tim O. Youker,0
+Gilliam,Prec #7,Governor,,R,Tim O. Youker,0
+Gilliam,Prec #1,Governor,,R,Under Votes,3
+Gilliam,Prec #6,Governor,,R,Under Votes,12
+Gilliam,Prec #7,Governor,,R,Under Votes,7
+Gilliam,Prec #1,Governor,,R,Wen Waddell,0
+Gilliam,Prec #6,Governor,,R,Wen Waddell,0
+Gilliam,Prec #7,Governor,,R,Wen Waddell,0
+Gilliam,Prec #1,Governor,,R,Write-ins,0
+Gilliam,Prec #6,Governor,,R,Write-ins,0
+Gilliam,Prec #7,Governor,,R,Write-ins,1
+Gilliam,Prec #1,Judge of the Circuit Court,"7th District, Position 3",,Karen Ostrye,148
+Gilliam,Prec #6,Judge of the Circuit Court,"7th District, Position 3",,Karen Ostrye,137
+Gilliam,Prec #7,Judge of the Circuit Court,"7th District, Position 3",,Karen Ostrye,185
+Gilliam,Prec #1,Judge of the Circuit Court,"7th District, Position 3",,Over Votes,1
+Gilliam,Prec #6,Judge of the Circuit Court,"7th District, Position 3",,Over Votes,0
+Gilliam,Prec #7,Judge of the Circuit Court,"7th District, Position 3",,Over Votes,1
+Gilliam,Prec #1,Judge of the Circuit Court,"7th District, Position 3",,Under Votes,130
+Gilliam,Prec #6,Judge of the Circuit Court,"7th District, Position 3",,Under Votes,104
+Gilliam,Prec #7,Judge of the Circuit Court,"7th District, Position 3",,Under Votes,121
+Gilliam,Prec #1,Judge of the Circuit Court,"7th District, Position 3",,Write-ins,7
+Gilliam,Prec #6,Judge of the Circuit Court,"7th District, Position 3",,Write-ins,0
+Gilliam,Prec #7,Judge of the Circuit Court,"7th District, Position 3",,Write-ins,0
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 1,,Over Votes,1
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,146
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,134
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,177
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 1,,Under Votes,127
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 1,,Under Votes,107
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 1,,Under Votes,128
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 1,,Write-ins,13
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 1,,Write-ins,0
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 1,,Write-ins,1
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,145
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,131
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,178
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 12,,Over Votes,1
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 12,,Under Votes,128
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 12,,Under Votes,109
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 12,,Under Votes,129
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 12,,Write-ins,13
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 12,,Write-ins,0
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 12,,Write-ins,0
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 13,,Doug Tookey,145
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 13,,Doug Tookey,135
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 13,,Doug Tookey,173
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 13,,Over Votes,1
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 13,,Under Votes,127
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 13,,Under Votes,106
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 13,,Under Votes,133
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 13,,Write-ins,13
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 13,,Write-ins,0
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 13,,Write-ins,1
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,142
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,133
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,175
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 9,,Under Votes,129
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 9,,Under Votes,108
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 9,,Under Votes,132
+Gilliam,Prec #1,Judge of the Court of Appeals,Position 9,,Write-ins,15
+Gilliam,Prec #6,Judge of the Court of Appeals,Position 9,,Write-ins,0
+Gilliam,Prec #7,Judge of the Court of Appeals,Position 9,,Write-ins,0
+Gilliam,Prec #1,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,143
+Gilliam,Prec #6,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,134
+Gilliam,Prec #7,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,177
+Gilliam,Prec #1,Judge of the Supreme Court,Position 4,,Over Votes,1
+Gilliam,Prec #6,Judge of the Supreme Court,Position 4,,Over Votes,0
+Gilliam,Prec #7,Judge of the Supreme Court,Position 4,,Over Votes,0
+Gilliam,Prec #1,Judge of the Supreme Court,Position 4,,Under Votes,127
+Gilliam,Prec #6,Judge of the Supreme Court,Position 4,,Under Votes,107
+Gilliam,Prec #7,Judge of the Supreme Court,Position 4,,Under Votes,128
+Gilliam,Prec #1,Judge of the Supreme Court,Position 4,,Write-ins,15
+Gilliam,Prec #6,Judge of the Supreme Court,Position 4,,Write-ins,0
+Gilliam,Prec #7,Judge of the Supreme Court,Position 4,,Write-ins,2
+Gilliam,Prec #1,Justice of the Peace,,,Kari L. Hayter,213
+Gilliam,Prec #6,Justice of the Peace,,,Kari L. Hayter,150
+Gilliam,Prec #7,Justice of the Peace,,,Kari L. Hayter,198
+Gilliam,Prec #1,Justice of the Peace,,,Over Votes,0
+Gilliam,Prec #6,Justice of the Peace,,,Over Votes,0
+Gilliam,Prec #7,Justice of the Peace,,,Over Votes,0
+Gilliam,Prec #1,Justice of the Peace,,,Under Votes,70
+Gilliam,Prec #6,Justice of the Peace,,,Under Votes,91
+Gilliam,Prec #7,Justice of the Peace,,,Under Votes,109
+Gilliam,Prec #1,Justice of the Peace,,,Write-ins,3
+Gilliam,Prec #6,Justice of the Peace,,,Write-ins,0
+Gilliam,Prec #7,Justice of the Peace,,,Write-ins,0
+Gilliam,Prec #1,Labor Commissioner,,,Chris Lynch,128
+Gilliam,Prec #6,Labor Commissioner,,,Chris Lynch,57
+Gilliam,Prec #7,Labor Commissioner,,,Chris Lynch,104
+Gilliam,Prec #1,Labor Commissioner,,,Christina E. Stephenson,60
+Gilliam,Prec #6,Labor Commissioner,,,Christina E. Stephenson,87
+Gilliam,Prec #7,Labor Commissioner,,,Christina E. Stephenson,100
+Gilliam,Prec #1,Labor Commissioner,,,Over Votes,0
+Gilliam,Prec #6,Labor Commissioner,,,Over Votes,0
+Gilliam,Prec #7,Labor Commissioner,,,Over Votes,0
+Gilliam,Prec #1,Labor Commissioner,,,Under Votes,96
+Gilliam,Prec #6,Labor Commissioner,,,Under Votes,97
+Gilliam,Prec #7,Labor Commissioner,,,Under Votes,103
+Gilliam,Prec #1,Labor Commissioner,,,Write-ins,2
+Gilliam,Prec #6,Labor Commissioner,,,Write-ins,0
+Gilliam,Prec #7,Labor Commissioner,,,Write-ins,0
+Gilliam,Prec #1,Measure 120,,,No,259
+Gilliam,Prec #6,Measure 120,,,No,206
+Gilliam,Prec #7,Measure 120,,,No,258
+Gilliam,Prec #1,Measure 120,,,Over Votes,0
+Gilliam,Prec #6,Measure 120,,,Over Votes,0
+Gilliam,Prec #7,Measure 120,,,Over Votes,0
+Gilliam,Prec #1,Measure 120,,,Under Votes,13
+Gilliam,Prec #6,Measure 120,,,Under Votes,23
+Gilliam,Prec #7,Measure 120,,,Under Votes,23
+Gilliam,Prec #1,Measure 120,,,Yes,14
+Gilliam,Prec #6,Measure 120,,,Yes,12
+Gilliam,Prec #7,Measure 120,,,Yes,26
+Gilliam,Prec #1,State House,57,D,Over Votes,0
+Gilliam,Prec #6,State House,57,D,Over Votes,0
+Gilliam,Prec #7,State House,57,D,Over Votes,0
+Gilliam,Prec #1,State House,57,D,Under Votes,36
+Gilliam,Prec #6,State House,57,D,Under Votes,46
+Gilliam,Prec #7,State House,57,D,Under Votes,52
+Gilliam,Prec #1,State House,57,D,Write-ins,4
+Gilliam,Prec #6,State House,57,D,Write-ins,2
+Gilliam,Prec #7,State House,57,D,Write-ins,8
+Gilliam,Prec #1,State House,57,R,Greg Smith,80
+Gilliam,Prec #6,State House,57,R,Greg Smith,50
+Gilliam,Prec #7,State House,57,R,Greg Smith,63
+Gilliam,Prec #1,State House,57,R,Jim E. Doherty,75
+Gilliam,Prec #6,State House,57,R,Jim E. Doherty,71
+Gilliam,Prec #7,State House,57,R,Jim E. Doherty,87
+Gilliam,Prec #1,State House,57,R,Over Votes,0
+Gilliam,Prec #6,State House,57,R,Over Votes,0
+Gilliam,Prec #7,State House,57,R,Over Votes,0
+Gilliam,Prec #1,State House,57,R,Under Votes,3
+Gilliam,Prec #6,State House,57,R,Under Votes,10
+Gilliam,Prec #7,State House,57,R,Under Votes,11
+Gilliam,Prec #1,State House,57,R,Write-ins,2
+Gilliam,Prec #6,State House,57,R,Write-ins,0
+Gilliam,Prec #7,State House,57,R,Write-ins,0
+Gilliam,Prec #1,U.S. House,2,D,Chris Beck,9
+Gilliam,Prec #6,U.S. House,2,D,Chris Beck,15
+Gilliam,Prec #7,U.S. House,2,D,Chris Beck,16
+Gilliam,Prec #1,U.S. House,2,D,Dawn Rasmussen,7
+Gilliam,Prec #6,U.S. House,2,D,Dawn Rasmussen,7
+Gilliam,Prec #7,U.S. House,2,D,Dawn Rasmussen,13
+Gilliam,Prec #1,U.S. House,2,D,Mary Doyle,5
+Gilliam,Prec #6,U.S. House,2,D,Mary Doyle,7
+Gilliam,Prec #7,U.S. House,2,D,Mary Doyle,9
+Gilliam,Prec #1,U.S. House,2,D,Over Votes,0
+Gilliam,Prec #6,U.S. House,2,D,Over Votes,0
+Gilliam,Prec #7,U.S. House,2,D,Over Votes,1
+Gilliam,Prec #1,U.S. House,2,D,Patty Snow,1
+Gilliam,Prec #6,U.S. House,2,D,Patty Snow,2
+Gilliam,Prec #7,U.S. House,2,D,Patty Snow,1
+Gilliam,Prec #1,U.S. House,2,D,Peter Quince,1
+Gilliam,Prec #6,U.S. House,2,D,Peter Quince,2
+Gilliam,Prec #7,U.S. House,2,D,Peter Quince,1
+Gilliam,Prec #1,U.S. House,2,D,Rebecca Mueller,5
+Gilliam,Prec #6,U.S. House,2,D,Rebecca Mueller,2
+Gilliam,Prec #7,U.S. House,2,D,Rebecca Mueller,3
+Gilliam,Prec #1,U.S. House,2,D,Under Votes,10
+Gilliam,Prec #6,U.S. House,2,D,Under Votes,13
+Gilliam,Prec #7,U.S. House,2,D,Under Votes,14
+Gilliam,Prec #1,U.S. House,2,D,Write-ins,2
+Gilliam,Prec #6,U.S. House,2,D,Write-ins,0
+Gilliam,Prec #7,U.S. House,2,D,Write-ins,2
+Gilliam,Prec #1,U.S. House,2,R,Andrea Carr,8
+Gilliam,Prec #6,U.S. House,2,R,Andrea Carr,5
+Gilliam,Prec #7,U.S. House,2,R,Andrea Carr,8
+Gilliam,Prec #1,U.S. House,2,R,Cliff Bentz,129
+Gilliam,Prec #6,U.S. House,2,R,Cliff Bentz,94
+Gilliam,Prec #7,U.S. House,2,R,Cliff Bentz,111
+Gilliam,Prec #1,U.S. House,2,R,Over Votes,0
+Gilliam,Prec #6,U.S. House,2,R,Over Votes,0
+Gilliam,Prec #7,U.S. House,2,R,Over Votes,0
+Gilliam,Prec #1,U.S. House,2,R,Peter J. Larson,12
+Gilliam,Prec #6,U.S. House,2,R,Peter J. Larson,12
+Gilliam,Prec #7,U.S. House,2,R,Peter J. Larson,18
+Gilliam,Prec #1,U.S. House,2,R,Under Votes,11
+Gilliam,Prec #6,U.S. House,2,R,Under Votes,20
+Gilliam,Prec #7,U.S. House,2,R,Under Votes,23
+Gilliam,Prec #1,U.S. House,2,R,Write-ins,0
+Gilliam,Prec #6,U.S. House,2,R,Write-ins,0
+Gilliam,Prec #7,U.S. House,2,R,Write-ins,1
+Gilliam,Prec #1,U.S. Senate,,D,Jeff Merkley,27
+Gilliam,Prec #6,U.S. Senate,,D,Jeff Merkley,34
+Gilliam,Prec #7,U.S. Senate,,D,Jeff Merkley,52
+Gilliam,Prec #1,U.S. Senate,,D,Over Votes,0
+Gilliam,Prec #6,U.S. Senate,,D,Over Votes,0
+Gilliam,Prec #7,U.S. Senate,,D,Over Votes,0
+Gilliam,Prec #1,U.S. Senate,,D,Paul Damian Wells,4
+Gilliam,Prec #6,U.S. Senate,,D,Paul Damian Wells,10
+Gilliam,Prec #7,U.S. Senate,,D,Paul Damian Wells,3
+Gilliam,Prec #1,U.S. Senate,,D,Under Votes,7
+Gilliam,Prec #6,U.S. Senate,,D,Under Votes,4
+Gilliam,Prec #7,U.S. Senate,,D,Under Votes,4
+Gilliam,Prec #1,U.S. Senate,,D,Write-ins,2
+Gilliam,Prec #6,U.S. Senate,,D,Write-ins,0
+Gilliam,Prec #7,U.S. Senate,,D,Write-ins,1
+Gilliam,Prec #1,U.S. Senate,,R,Brent Barker,19
+Gilliam,Prec #6,U.S. Senate,,R,Brent Barker,20
+Gilliam,Prec #7,U.S. Senate,,R,Brent Barker,24
+Gilliam,Prec #1,U.S. Senate,,R,David A. Burch,4
+Gilliam,Prec #6,U.S. Senate,,R,David A. Burch,2
+Gilliam,Prec #7,U.S. Senate,,R,David A. Burch,8
+Gilliam,Prec #1,U.S. Senate,,R,David Brock Smith,38
+Gilliam,Prec #6,U.S. Senate,,R,David Brock Smith,32
+Gilliam,Prec #7,U.S. Senate,,R,David Brock Smith,36
+Gilliam,Prec #1,U.S. Senate,,R,Deborah C. Brown,5
+Gilliam,Prec #6,U.S. Senate,,R,Deborah C. Brown,8
+Gilliam,Prec #7,U.S. Senate,,R,Deborah C. Brown,5
+Gilliam,Prec #1,U.S. Senate,,R,Jo Rae Perkins,49
+Gilliam,Prec #6,U.S. Senate,,R,Jo Rae Perkins,12
+Gilliam,Prec #7,U.S. Senate,,R,Jo Rae Perkins,39
+Gilliam,Prec #1,U.S. Senate,,R,Over Votes,0
+Gilliam,Prec #6,U.S. Senate,,R,Over Votes,0
+Gilliam,Prec #7,U.S. Senate,,R,Over Votes,0
+Gilliam,Prec #1,U.S. Senate,,R,Russell McAlmond,20
+Gilliam,Prec #6,U.S. Senate,,R,Russell McAlmond,10
+Gilliam,Prec #7,U.S. Senate,,R,Russell McAlmond,11
+Gilliam,Prec #1,U.S. Senate,,R,Timothy Skelton,0
+Gilliam,Prec #6,U.S. Senate,,R,Timothy Skelton,2
+Gilliam,Prec #7,U.S. Senate,,R,Timothy Skelton,3
+Gilliam,Prec #1,U.S. Senate,,R,Under Votes,25
+Gilliam,Prec #6,U.S. Senate,,R,Under Votes,45
+Gilliam,Prec #7,U.S. Senate,,R,Under Votes,34
+Gilliam,Prec #1,U.S. Senate,,R,Write-ins,0
+Gilliam,Prec #6,U.S. Senate,,R,Write-ins,0
+Gilliam,Prec #7,U.S. Senate,,R,Write-ins,1

@@ -1,0 +1,11 @@
+[project]
+name = "openelections-data-or"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "natural-pdf>=0.7.0",
+    "requests>=2.34.2",
+]

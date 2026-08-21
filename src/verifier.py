@@ -57,7 +57,19 @@ class Verifier(object):
 	validColumns = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'notes'])
 	requiredColumnSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
 	uniqueRowIDSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
-	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer', 'Auditor', 'Commissioner of Agriculture',])
+	validOffices = frozenset([
+		'President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House',
+		'Attorney General', 'Secretary of State', 'State Treasurer', 'Auditor',
+		'Commissioner of Agriculture', 'Labor Commissioner',
+		'Judge of the Supreme Court', 'Judge of the Court of Appeals', 'Judge of the Circuit Court',
+		'District Attorney',
+		'County Commissioner', 'Commissioner', 'County Clerk', 'County Legal Counsel',
+		'County Surveyor', 'Surveyor', 'County Treasurer', 'Justice of the Peace',
+		'County Assessor', 'Assessor',
+		'City Council', 'Mayor', 'Municipal Judge', 'Metro Council President',
+		'Fire District Director', 'Precinct Committee Person',
+		'Registered Voters', 'Ballots Cast', 'Ballots Cast Blank',
+	])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
 	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast',  'Registered Voters'])
 	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast', 'registeredvoters'])
@@ -93,7 +105,7 @@ class Verifier(object):
 		self.showXForDistrictError = True
 		self.singleErrorMode = False
 
-		self.countyRE = re.compile("\d{8}__[a-z]{2}_")
+		self.countyRE = re.compile(r"\d{8}__[a-z]{2}_")
 
 		try:
 			self.pathSanityCheck(path)
@@ -132,7 +144,7 @@ class Verifier(object):
 		return (None, None)
 
 	def parseFileAtPath(self, path):
-		with open(path, 'rU') as csvfile:
+		with open(path, 'r') as csvfile:
 			self.reader = csv.DictReader(csvfile)
 			self.currentRowIndex = 0
 			self.headerColumnCount = 0
@@ -189,8 +201,12 @@ class Verifier(object):
 			self.printError("Use title case for the county", row)
 
 	def verifyOffice(self, row):
-		if not row['office'] in Verifier.validOffices:
-			self.printError("Invalid office: {}".format(row['office']), row)
+		if row['office'] in Verifier.validOffices:
+			return
+		# Ballot measures use dynamic identifiers like "Measure 120" or "Measure 26-263".
+		if row['office'].startswith('Measure '):
+			return
+		self.printError("Invalid office: {}".format(row['office']), row)
 
 	def verifyDistrict(self, row):
 		if row['office'] in Verifier.officesWithDistricts:
@@ -213,9 +229,11 @@ class Verifier(object):
 			if normalizedCandidate in Verifier.normalizedPseudocandidates:
 				self.printError("Misspelled pseudocandidate a: '{}'".format(candidate), row)
 			else:
-				# Compare the normalized strings to determine if they match
+				# Flag near-matches to a pseudocandidate: one string must be a
+				# prefix of the other (e.g. "Write In" -> "writeins"), so that
+				# real names like "Regina Ayars" are not falsely flagged.
 				for npc in Verifier.normalizedPseudocandidates:
-					if normalizedCandidate.startswith(npc[0:4]): # Only check the first 4 characters
+					if normalizedCandidate and (normalizedCandidate.startswith(npc) or npc.startswith(normalizedCandidate)):
 						self.printError("Misspelled pseudocandidate b: '{}'".format(candidate), row)
 						break
 

@@ -1,0 +1,332 @@
+county,precinct,office,district,party,candidate,votes
+Wheeler,Precinct 1,County Assessor,,,Auralea A. Johnson,218
+Wheeler,Precinct 3,County Assessor,,,Auralea A. Johnson,94
+Wheeler,Precinct 4,County Assessor,,,Auralea A. Johnson,122
+Wheeler,Precinct 1,County Assessor,,,Over Votes,0
+Wheeler,Precinct 3,County Assessor,,,Over Votes,0
+Wheeler,Precinct 4,County Assessor,,,Over Votes,0
+Wheeler,Precinct 1,County Assessor,,,Under Votes,55
+Wheeler,Precinct 3,County Assessor,,,Under Votes,33
+Wheeler,Precinct 4,County Assessor,,,Under Votes,80
+Wheeler,Precinct 1,County Assessor,,,Write-ins,4
+Wheeler,Precinct 3,County Assessor,,,Write-ins,1
+Wheeler,Precinct 4,County Assessor,,,Write-ins,2
+Wheeler,Precinct 1,County Commissioner,1,,Ben Logan,219
+Wheeler,Precinct 3,County Commissioner,1,,Ben Logan,103
+Wheeler,Precinct 4,County Commissioner,1,,Ben Logan,142
+Wheeler,Precinct 1,County Commissioner,1,,Over Votes,0
+Wheeler,Precinct 3,County Commissioner,1,,Over Votes,0
+Wheeler,Precinct 4,County Commissioner,1,,Over Votes,0
+Wheeler,Precinct 1,County Commissioner,1,,Under Votes,44
+Wheeler,Precinct 3,County Commissioner,1,,Under Votes,24
+Wheeler,Precinct 4,County Commissioner,1,,Under Votes,61
+Wheeler,Precinct 1,County Commissioner,1,,Write-ins,14
+Wheeler,Precinct 3,County Commissioner,1,,Write-ins,1
+Wheeler,Precinct 4,County Commissioner,1,,Write-ins,1
+Wheeler,Precinct 1,Governor,,D,Brittany Jones,1
+Wheeler,Precinct 3,Governor,,D,Brittany Jones,0
+Wheeler,Precinct 4,Governor,,D,Brittany Jones,1
+Wheeler,Precinct 1,Governor,,D,Cal Kishawi,0
+Wheeler,Precinct 3,Governor,,D,Cal Kishawi,1
+Wheeler,Precinct 4,Governor,,D,Cal Kishawi,0
+Wheeler,Precinct 1,Governor,,D,David W. Beem,1
+Wheeler,Precinct 3,Governor,,D,David W. Beem,0
+Wheeler,Precinct 4,Governor,,D,David W. Beem,0
+Wheeler,Precinct 1,Governor,,D,Donnie M. Beckwith,0
+Wheeler,Precinct 3,Governor,,D,Donnie M. Beckwith,0
+Wheeler,Precinct 4,Governor,,D,Donnie M. Beckwith,0
+Wheeler,Precinct 1,Governor,,D,Forest (Fora) Alexander,2
+Wheeler,Precinct 4,Governor,,D,Forest (Fora) Alexander,1
+Wheeler,Precinct 3,Governor,,D,Forest (Fora) Alexander /,1
+Wheeler,Precinct 1,Governor,,D,James Atkinson IV,3
+Wheeler,Precinct 3,Governor,,D,James Atkinson IV,1
+Wheeler,Precinct 4,Governor,,D,James Atkinson IV,1
+Wheeler,Precinct 1,Governor,,D,Miranda Weigler,3
+Wheeler,Precinct 3,Governor,,D,Miranda Weigler,2
+Wheeler,Precinct 4,Governor,,D,Miranda Weigler,1
+Wheeler,Precinct 1,Governor,,D,Over Votes,0
+Wheeler,Precinct 3,Governor,,D,Over Votes,0
+Wheeler,Precinct 4,Governor,,D,Over Votes,0
+Wheeler,Precinct 1,Governor,,D,Steve William Laible,1
+Wheeler,Precinct 3,Governor,,D,Steve William Laible,0
+Wheeler,Precinct 4,Governor,,D,Steve William Laible,0
+Wheeler,Precinct 1,Governor,,D,Tina Kotek,18
+Wheeler,Precinct 3,Governor,,D,Tina Kotek,10
+Wheeler,Precinct 4,Governor,,D,Tina Kotek,17
+Wheeler,Precinct 1,Governor,,D,Tristan Sheppard,2
+Wheeler,Precinct 3,Governor,,D,Tristan Sheppard,0
+Wheeler,Precinct 4,Governor,,D,Tristan Sheppard,2
+Wheeler,Precinct 1,Governor,,D,Under Votes,13
+Wheeler,Precinct 3,Governor,,D,Under Votes,3
+Wheeler,Precinct 4,Governor,,D,Under Votes,5
+Wheeler,Precinct 1,Governor,,D,Write-ins,4
+Wheeler,Precinct 3,Governor,,D,Write-ins,1
+Wheeler,Precinct 4,Governor,,D,Write-ins,1
+Wheeler,Precinct 1,Governor,,R,Brad T. Peters,1
+Wheeler,Precinct 3,Governor,,R,Brad T. Peters,0
+Wheeler,Precinct 4,Governor,,R,Brad T. Peters,0
+Wheeler,Precinct 1,Governor,,R,Chris Dudley,33
+Wheeler,Precinct 3,Governor,,R,Chris Dudley,15
+Wheeler,Precinct 4,Governor,,R,Chris Dudley,30
+Wheeler,Precinct 1,Governor,,R,Christine Drazan,72
+Wheeler,Precinct 3,Governor,,R,Christine Drazan,31
+Wheeler,Precinct 4,Governor,,R,Christine Drazan,46
+Wheeler,Precinct 1,Governor,,R,Danielle Bethell,2
+Wheeler,Precinct 3,Governor,,R,Danielle Bethell,0
+Wheeler,Precinct 4,Governor,,R,Danielle Bethell,3
+Wheeler,Precinct 1,Governor,,R,David Medina,10
+Wheeler,Precinct 3,Governor,,R,David Medina,0
+Wheeler,Precinct 4,Governor,,R,David Medina,5
+Wheeler,Precinct 1,Governor,,R,DeAngelo Leroy Turner,0
+Wheeler,Precinct 3,Governor,,R,DeAngelo Leroy Turner,0
+Wheeler,Precinct 4,Governor,,R,DeAngelo Leroy Turner,0
+Wheeler,Precinct 1,Governor,,R,Ed Diehl,37
+Wheeler,Precinct 3,Governor,,R,Ed Diehl,26
+Wheeler,Precinct 4,Governor,,R,Ed Diehl,46
+Wheeler,Precinct 1,Governor,,R,Hope A. Dalrymple,1
+Wheeler,Precinct 3,Governor,,R,Hope A. Dalrymple,0
+Wheeler,Precinct 4,Governor,,R,Hope A. Dalrymple,0
+Wheeler,Precinct 1,Governor,,R,Kyle M. Duyck,1
+Wheeler,Precinct 3,Governor,,R,Kyle M. Duyck,1
+Wheeler,Precinct 4,Governor,,R,Kyle M. Duyck,0
+Wheeler,Precinct 1,Governor,,R,Martin Ward,0
+Wheeler,Precinct 3,Governor,,R,Martin Ward,0
+Wheeler,Precinct 4,Governor,,R,Martin Ward,0
+Wheeler,Precinct 1,Governor,,R,Over Votes,0
+Wheeler,Precinct 3,Governor,,R,Over Votes,0
+Wheeler,Precinct 4,Governor,,R,Over Votes,0
+Wheeler,Precinct 1,Governor,,R,Paul J. Romero Jr,0
+Wheeler,Precinct 3,Governor,,R,Paul J. Romero Jr,0
+Wheeler,Precinct 4,Governor,,R,Paul J. Romero Jr,1
+Wheeler,Precinct 1,Governor,,R,Robert Neuman,1
+Wheeler,Precinct 3,Governor,,R,Robert Neuman,0
+Wheeler,Precinct 4,Governor,,R,Robert Neuman,0
+Wheeler,Precinct 1,Governor,,R,Tim O. Youker,0
+Wheeler,Precinct 3,Governor,,R,Tim O. Youker,0
+Wheeler,Precinct 4,Governor,,R,Tim O. Youker,0
+Wheeler,Precinct 1,Governor,,R,Under Votes,4
+Wheeler,Precinct 3,Governor,,R,Under Votes,1
+Wheeler,Precinct 4,Governor,,R,Under Votes,2
+Wheeler,Precinct 1,Governor,,R,Wen Waddell,1
+Wheeler,Precinct 3,Governor,,R,Wen Waddell,0
+Wheeler,Precinct 4,Governor,,R,Wen Waddell,0
+Wheeler,Precinct 1,Governor,,R,Write-ins,1
+Wheeler,Precinct 3,Governor,,R,Write-ins,0
+Wheeler,Precinct 4,Governor,,R,Write-ins,0
+Wheeler,Precinct 1,Judge of the Circuit Court,"7th District, Position 3",,Karen Ostrye,161
+Wheeler,Precinct 3,Judge of the Circuit Court,"7th District, Position 3",,Karen Ostrye,71
+Wheeler,Precinct 4,Judge of the Circuit Court,"7th District, Position 3",,Karen Ostrye,75
+Wheeler,Precinct 1,Judge of the Circuit Court,"7th District, Position 3",,Over Votes,0
+Wheeler,Precinct 3,Judge of the Circuit Court,"7th District, Position 3",,Over Votes,0
+Wheeler,Precinct 4,Judge of the Circuit Court,"7th District, Position 3",,Over Votes,0
+Wheeler,Precinct 1,Judge of the Circuit Court,"7th District, Position 3",,Under Votes,116
+Wheeler,Precinct 3,Judge of the Circuit Court,"7th District, Position 3",,Under Votes,56
+Wheeler,Precinct 4,Judge of the Circuit Court,"7th District, Position 3",,Under Votes,124
+Wheeler,Precinct 1,Judge of the Circuit Court,"7th District, Position 3",,Write-ins,0
+Wheeler,Precinct 3,Judge of the Circuit Court,"7th District, Position 3",,Write-ins,1
+Wheeler,Precinct 4,Judge of the Circuit Court,"7th District, Position 3",,Write-ins,5
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,164
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,78
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,77
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 1,,Under Votes,113
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 1,,Under Votes,49
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 1,,Under Votes,123
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 1,,Write-ins,0
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 1,,Write-ins,1
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 1,,Write-ins,4
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,163
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,71
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,78
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 12,,Under Votes,114
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 12,,Under Votes,56
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 12,,Under Votes,122
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 12,,Write-ins,0
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 12,,Write-ins,1
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 12,,Write-ins,4
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 13,,Doug Tookey,164
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 13,,Doug Tookey,70
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 13,,Doug Tookey,75
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 13,,Under Votes,113
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 13,,Under Votes,57
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 13,,Under Votes,125
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 13,,Write-ins,0
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 13,,Write-ins,1
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 13,,Write-ins,4
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,160
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,72
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,76
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 9,,Under Votes,117
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 9,,Under Votes,55
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 9,,Under Votes,124
+Wheeler,Precinct 1,Judge of the Court of Appeals,Position 9,,Write-ins,0
+Wheeler,Precinct 3,Judge of the Court of Appeals,Position 9,,Write-ins,1
+Wheeler,Precinct 4,Judge of the Court of Appeals,Position 9,,Write-ins,4
+Wheeler,Precinct 1,Justice of the Peace,,,Over Votes,0
+Wheeler,Precinct 3,Justice of the Peace,,,Over Votes,0
+Wheeler,Precinct 4,Justice of the Peace,,,Over Votes,0
+Wheeler,Precinct 1,Justice of the Peace,,,Robin Ordway,225
+Wheeler,Precinct 3,Justice of the Peace,,,Robin Ordway,106
+Wheeler,Precinct 4,Justice of the Peace,,,Robin Ordway,160
+Wheeler,Precinct 1,Justice of the Peace,,,Under Votes,51
+Wheeler,Precinct 3,Justice of the Peace,,,Under Votes,21
+Wheeler,Precinct 4,Justice of the Peace,,,Under Votes,44
+Wheeler,Precinct 1,Justice of the Peace,,,Write-ins,1
+Wheeler,Precinct 3,Justice of the Peace,,,Write-ins,1
+Wheeler,Precinct 4,Justice of the Peace,,,Write-ins,0
+Wheeler,Precinct 1,Measure 120,,,No,253
+Wheeler,Precinct 3,Measure 120,,,No,121
+Wheeler,Precinct 4,Measure 120,,,No,184
+Wheeler,Precinct 1,Measure 120,,,Over Votes,0
+Wheeler,Precinct 3,Measure 120,,,Over Votes,1
+Wheeler,Precinct 4,Measure 120,,,Over Votes,0
+Wheeler,Precinct 1,Measure 120,,,Under Votes,7
+Wheeler,Precinct 3,Measure 120,,,Under Votes,2
+Wheeler,Precinct 4,Measure 120,,,Under Votes,8
+Wheeler,Precinct 1,Measure 120,,,Yes,17
+Wheeler,Precinct 3,Measure 120,,,Yes,4
+Wheeler,Precinct 4,Measure 120,,,Yes,12
+Wheeler,Precinct 1,Precinct Committee Person,,D,Over Votes,0
+Wheeler,Precinct 3,Precinct Committee Person,,D,Over Votes,0
+Wheeler,Precinct 4,Precinct Committee Person,,D,Over Votes,0
+Wheeler,Precinct 1,Precinct Committee Person,,D,Under Votes,96
+Wheeler,Precinct 3,Precinct Committee Person,,D,Under Votes,37
+Wheeler,Precinct 4,Precinct Committee Person,,D,Under Votes,58
+Wheeler,Precinct 1,Precinct Committee Person,,D,Write-ins,0
+Wheeler,Precinct 3,Precinct Committee Person,,D,Write-ins,1
+Wheeler,Precinct 4,Precinct Committee Person,,D,Write-ins,0
+Wheeler,Precinct 1,Precinct Committee Person,,R,Over Votes,0
+Wheeler,Precinct 3,Precinct Committee Person,,R,Over Votes,0
+Wheeler,Precinct 4,Precinct Committee Person,,R,Over Votes,0
+Wheeler,Precinct 1,Precinct Committee Person,,R,Under Votes,323
+Wheeler,Precinct 3,Precinct Committee Person,,R,Under Votes,141
+Wheeler,Precinct 4,Precinct Committee Person,,R,Under Votes,262
+Wheeler,Precinct 1,Precinct Committee Person,,R,Write-ins,5
+Wheeler,Precinct 3,Precinct Committee Person,,R,Write-ins,7
+Wheeler,Precinct 4,Precinct Committee Person,,R,Write-ins,4
+Wheeler,Precinct 3,State House,57,D,No Candidate'Filed,0
+Wheeler,Precinct 1,State House,57,D,Over Votes,0
+Wheeler,Precinct 3,State House,57,D,Over Votes,0
+Wheeler,Precinct 4,State House,57,D,Over Votes,0
+Wheeler,Precinct 1,State House,57,D,Under Votes,45
+Wheeler,Precinct 3,State House,57,D,Under Votes,17
+Wheeler,Precinct 4,State House,57,D,Under Votes,28
+Wheeler,Precinct 1,State House,57,D,Write-ins,3
+Wheeler,Precinct 3,State House,57,D,Write-ins,2
+Wheeler,Precinct 4,State House,57,D,Write-ins,1
+Wheeler,Precinct 1,State House,57,R,Greg Smith,81
+Wheeler,Precinct 3,State House,57,R,Greg Smith,45
+Wheeler,Precinct 4,State House,57,R,Greg Smith,66
+Wheeler,Precinct 1,State House,57,R,Jim E. Doherty,69
+Wheeler,Precinct 3,State House,57,R,Jim E. Doherty,26
+Wheeler,Precinct 4,State House,57,R,Jim E. Doherty,58
+Wheeler,Precinct 1,State House,57,R,Over Votes,0
+Wheeler,Precinct 3,State House,57,R,Over Votes,0
+Wheeler,Precinct 4,State House,57,R,Over Votes,0
+Wheeler,Precinct 1,State House,57,R,Under Votes,14
+Wheeler,Precinct 3,State House,57,R,Under Votes,3
+Wheeler,Precinct 4,State House,57,R,Under Votes,9
+Wheeler,Precinct 1,State House,57,R,Write-ins,0
+Wheeler,Precinct 3,State House,57,R,Write-ins,0
+Wheeler,Precinct 4,State House,57,R,Write-ins,0
+Wheeler,Precinct 1,U.S. House,2,D,Chris Beck,9
+Wheeler,Precinct 3,U.S. House,2,D,Chris Beck,4
+Wheeler,Precinct 4,U.S. House,2,D,Chris Beck,5
+Wheeler,Precinct 1,U.S. House,2,D,Dawn Rasmussen,6
+Wheeler,Precinct 3,U.S. House,2,D,Dawn Rasmussen,2
+Wheeler,Precinct 4,U.S. House,2,D,Dawn Rasmussen,2
+Wheeler,Precinct 1,U.S. House,2,D,Mary Doyle,6
+Wheeler,Precinct 3,U.S. House,2,D,Mary Doyle,4
+Wheeler,Precinct 4,U.S. House,2,D,Mary Doyle,11
+Wheeler,Precinct 1,U.S. House,2,D,Over Votes,0
+Wheeler,Precinct 3,U.S. House,2,D,Over Votes,0
+Wheeler,Precinct 4,U.S. House,2,D,Over Votes,0
+Wheeler,Precinct 1,U.S. House,2,D,Patty Snow,3
+Wheeler,Precinct 3,U.S. House,2,D,Patty Snow,2
+Wheeler,Precinct 4,U.S. House,2,D,Patty Snow,3
+Wheeler,Precinct 1,U.S. House,2,D,Peter Quince,3
+Wheeler,Precinct 3,U.S. House,2,D,Peter Quince,0
+Wheeler,Precinct 4,U.S. House,2,D,Peter Quince,0
+Wheeler,Precinct 1,U.S. House,2,D,Rebecca Mueller,5
+Wheeler,Precinct 3,U.S. House,2,D,Rebecca Mueller,4
+Wheeler,Precinct 4,U.S. House,2,D,Rebecca Mueller,1
+Wheeler,Precinct 1,U.S. House,2,D,Under Votes,15
+Wheeler,Precinct 3,U.S. House,2,D,Under Votes,2
+Wheeler,Precinct 4,U.S. House,2,D,Under Votes,7
+Wheeler,Precinct 1,U.S. House,2,D,Write-ins,1
+Wheeler,Precinct 3,U.S. House,2,D,Write-ins,1
+Wheeler,Precinct 4,U.S. House,2,D,Write-ins,0
+Wheeler,Precinct 1,U.S. House,2,R,Andrea Carr,5
+Wheeler,Precinct 3,U.S. House,2,R,Andrea Carr,4
+Wheeler,Precinct 4,U.S. House,2,R,Andrea Carr,4
+Wheeler,Precinct 1,U.S. House,2,R,Cliff Bentz,123
+Wheeler,Precinct 3,U.S. House,2,R,Cliff Bentz,64
+Wheeler,Precinct 4,U.S. House,2,R,Cliff Bentz,96
+Wheeler,Precinct 1,U.S. House,2,R,Over Votes,1
+Wheeler,Precinct 3,U.S. House,2,R,Over Votes,0
+Wheeler,Precinct 4,U.S. House,2,R,Over Votes,0
+Wheeler,Precinct 1,U.S. House,2,R,Peter J. Larson,10
+Wheeler,Precinct 3,U.S. House,2,R,Peter J. Larson,4
+Wheeler,Precinct 4,U.S. House,2,R,Peter J. Larson,22
+Wheeler,Precinct 1,U.S. House,2,R,Under Votes,25
+Wheeler,Precinct 3,U.S. House,2,R,Under Votes,2
+Wheeler,Precinct 4,U.S. House,2,R,Under Votes,11
+Wheeler,Precinct 1,U.S. House,2,R,Write-ins,0
+Wheeler,Precinct 3,U.S. House,2,R,Write-ins,0
+Wheeler,Precinct 4,U.S. House,2,R,Write-ins,0
+Wheeler,Precinct 1,U.S. Senate,,D,Jeff Merkley,33
+Wheeler,Precinct 3,U.S. Senate,,D,Jeff Merkley,17
+Wheeler,Precinct 4,U.S. Senate,,D,Jeff Merkley,23
+Wheeler,Precinct 1,U.S. Senate,,D,Over Votes,0
+Wheeler,Precinct 3,U.S. Senate,,D,Over Votes,0
+Wheeler,Precinct 4,U.S. Senate,,D,Over Votes,0
+Wheeler,Precinct 1,U.S. Senate,,D,Paul Damian Wells,12
+Wheeler,Precinct 3,U.S. Senate,,D,Paul Damian Wells,1
+Wheeler,Precinct 4,U.S. Senate,,D,Paul Damian Wells,4
+Wheeler,Precinct 1,U.S. Senate,,D,Under Votes,2
+Wheeler,Precinct 3,U.S. Senate,,D,Under Votes,1
+Wheeler,Precinct 4,U.S. Senate,,D,Under Votes,2
+Wheeler,Precinct 1,U.S. Senate,,D,Write-ins,1
+Wheeler,Precinct 3,U.S. Senate,,D,Write-ins,0
+Wheeler,Precinct 4,U.S. Senate,,D,Write-ins,0
+Wheeler,Precinct 1,U.S. Senate,,R,Brent Barker,35
+Wheeler,Precinct 3,U.S. Senate,,R,Brent Barker,15
+Wheeler,Precinct 4,U.S. Senate,,R,Brent Barker,28
+Wheeler,Precinct 1,U.S. Senate,,R,David A. Burch,6
+Wheeler,Precinct 3,U.S. Senate,,R,David A. Burch,0
+Wheeler,Precinct 4,U.S. Senate,,R,David A. Burch,2
+Wheeler,Precinct 1,U.S. Senate,,R,David Brock Smith,36
+Wheeler,Precinct 3,U.S. Senate,,R,David Brock Smith,33
+Wheeler,Precinct 4,U.S. Senate,,R,David Brock Smith,28
+Wheeler,Precinct 1,U.S. Senate,,R,Deborah C. Brown,8
+Wheeler,Precinct 3,U.S. Senate,,R,Deborah C. Brown,1
+Wheeler,Precinct 4,U.S. Senate,,R,Deborah C. Brown,1
+Wheeler,Precinct 1,U.S. Senate,,R,Jo Rae Perkins,24
+Wheeler,Precinct 3,U.S. Senate,,R,Jo Rae Perkins,14
+Wheeler,Precinct 4,U.S. Senate,,R,Jo Rae Perkins,26
+Wheeler,Precinct 1,U.S. Senate,,R,Over Votes,0
+Wheeler,Precinct 3,U.S. Senate,,R,Over Votes,0
+Wheeler,Precinct 4,U.S. Senate,,R,Over Votes,0
+Wheeler,Precinct 1,U.S. Senate,,R,Russell McAlmond,7
+Wheeler,Precinct 3,U.S. Senate,,R,Russell McAlmond,3
+Wheeler,Precinct 4,U.S. Senate,,R,Russell McAlmond,10
+Wheeler,Precinct 1,U.S. Senate,,R,Timothy Skelton,0
+Wheeler,Precinct 3,U.S. Senate,,R,Timothy Skelton,0
+Wheeler,Precinct 4,U.S. Senate,,R,Timothy Skelton,3
+Wheeler,Precinct 1,U.S. Senate,,R,Under Votes,46
+Wheeler,Precinct 3,U.S. Senate,,R,Under Votes,6
+Wheeler,Precinct 4,U.S. Senate,,R,Under Votes,32
+Wheeler,Precinct 1,U.S. Senate,,R,Write-ins,2
+Wheeler,Precinct 3,U.S. Senate,,R,Write-ins,2
+Wheeler,Precinct 4,U.S. Senate,,R,Write-ins,3

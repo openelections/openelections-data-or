@@ -1,0 +1,680 @@
+county,precinct,office,district,party,candidate,votes
+Morrow,01 BOARDMAN,County Assessor,,,Michael Gorman,435
+Morrow,02 IRRIGON,County Assessor,,,Michael Gorman,562
+Morrow,03 LEXINGTON,County Assessor,,,Michael Gorman,201
+Morrow,04 IONE,County Assessor,,,Michael Gorman,185
+Morrow,05 HEPPNER,County Assessor,,,Michael Gorman,593
+Morrow,01 BOARDMAN,County Assessor,,,Over Votes,0
+Morrow,02 IRRIGON,County Assessor,,,Over Votes,0
+Morrow,03 LEXINGTON,County Assessor,,,Over Votes,0
+Morrow,04 IONE,County Assessor,,,Over Votes,0
+Morrow,05 HEPPNER,County Assessor,,,Over Votes,1
+Morrow,01 BOARDMAN,County Assessor,,,Under Votes,244
+Morrow,02 IRRIGON,County Assessor,,,Under Votes,305
+Morrow,03 LEXINGTON,County Assessor,,,Under Votes,65
+Morrow,04 IONE,County Assessor,,,Under Votes,78
+Morrow,05 HEPPNER,County Assessor,,,Under Votes,158
+Morrow,01 BOARDMAN,County Assessor,,,Write-ins,3
+Morrow,02 IRRIGON,County Assessor,,,Write-ins,4
+Morrow,03 LEXINGTON,County Assessor,,,Write-ins,2
+Morrow,04 IONE,County Assessor,,,Write-ins,2
+Morrow,05 HEPPNER,County Assessor,,,Write-ins,15
+Morrow,01 BOARDMAN,County Commissioner,Position 2,,Kelly Doherty,136
+Morrow,02 IRRIGON,County Commissioner,Position 2,,Kelly Doherty,293
+Morrow,03 LEXINGTON,County Commissioner,Position 2,,Kelly Doherty,62
+Morrow,04 IONE,County Commissioner,Position 2,,Kelly Doherty,62
+Morrow,05 HEPPNER,County Commissioner,Position 2,,Kelly Doherty,208
+Morrow,01 BOARDMAN,County Commissioner,Position 2,,Over Votes,0
+Morrow,02 IRRIGON,County Commissioner,Position 2,,Over Votes,0
+Morrow,03 LEXINGTON,County Commissioner,Position 2,,Over Votes,1
+Morrow,04 IONE,County Commissioner,Position 2,,Over Votes,1
+Morrow,05 HEPPNER,County Commissioner,Position 2,,Over Votes,1
+Morrow,01 BOARDMAN,County Commissioner,Position 2,,Torrie Philippi-Griggs,411
+Morrow,02 IRRIGON,County Commissioner,Position 2,,Torrie Philippi-Griggs,327
+Morrow,03 LEXINGTON,County Commissioner,Position 2,,Torrie Philippi-Griggs,124
+Morrow,04 IONE,County Commissioner,Position 2,,Torrie Philippi-Griggs,123
+Morrow,05 HEPPNER,County Commissioner,Position 2,,Torrie Philippi-Griggs,325
+Morrow,01 BOARDMAN,County Commissioner,Position 2,,Under Votes,32
+Morrow,02 IRRIGON,County Commissioner,Position 2,,Under Votes,91
+Morrow,03 LEXINGTON,County Commissioner,Position 2,,Under Votes,27
+Morrow,04 IONE,County Commissioner,Position 2,,Under Votes,16
+Morrow,05 HEPPNER,County Commissioner,Position 2,,Under Votes,66
+Morrow,01 BOARDMAN,County Commissioner,Position 2,,Valerie Ballard,103
+Morrow,02 IRRIGON,County Commissioner,Position 2,,Valerie Ballard,157
+Morrow,03 LEXINGTON,County Commissioner,Position 2,,Valerie Ballard,54
+Morrow,04 IONE,County Commissioner,Position 2,,Valerie Ballard,63
+Morrow,05 HEPPNER,County Commissioner,Position 2,,Valerie Ballard,162
+Morrow,01 BOARDMAN,County Commissioner,Position 2,,Write-ins,0
+Morrow,02 IRRIGON,County Commissioner,Position 2,,Write-ins,3
+Morrow,03 LEXINGTON,County Commissioner,Position 2,,Write-ins,0
+Morrow,04 IONE,County Commissioner,Position 2,,Write-ins,0
+Morrow,05 HEPPNER,County Commissioner,Position 2,,Write-ins,5
+Morrow,01 BOARDMAN,County Commissioner,Position 3,,David Sykes,229
+Morrow,02 IRRIGON,County Commissioner,Position 3,,David Sykes,316
+Morrow,03 LEXINGTON,County Commissioner,Position 3,,David Sykes,159
+Morrow,04 IONE,County Commissioner,Position 3,,David Sykes,156
+Morrow,05 HEPPNER,County Commissioner,Position 3,,David Sykes,462
+Morrow,01 BOARDMAN,County Commissioner,Position 3,,Heather L Baumgartner,360
+Morrow,02 IRRIGON,County Commissioner,Position 3,,Heather L Baumgartner,385
+Morrow,03 LEXINGTON,County Commissioner,Position 3,,Heather L Baumgartner,78
+Morrow,04 IONE,County Commissioner,Position 3,,Heather L Baumgartner,80
+Morrow,05 HEPPNER,County Commissioner,Position 3,,Heather L Baumgartner,234
+Morrow,01 BOARDMAN,County Commissioner,Position 3,,Over Votes,0
+Morrow,02 IRRIGON,County Commissioner,Position 3,,Over Votes,0
+Morrow,03 LEXINGTON,County Commissioner,Position 3,,Over Votes,0
+Morrow,04 IONE,County Commissioner,Position 3,,Over Votes,0
+Morrow,05 HEPPNER,County Commissioner,Position 3,,Over Votes,1
+Morrow,01 BOARDMAN,County Commissioner,Position 3,,Under Votes,85
+Morrow,02 IRRIGON,County Commissioner,Position 3,,Under Votes,166
+Morrow,03 LEXINGTON,County Commissioner,Position 3,,Under Votes,29
+Morrow,04 IONE,County Commissioner,Position 3,,Under Votes,23
+Morrow,05 HEPPNER,County Commissioner,Position 3,,Under Votes,63
+Morrow,01 BOARDMAN,County Commissioner,Position 3,,Write-ins,8
+Morrow,02 IRRIGON,County Commissioner,Position 3,,Write-ins,4
+Morrow,03 LEXINGTON,County Commissioner,Position 3,,Write-ins,2
+Morrow,04 IONE,County Commissioner,Position 3,,Write-ins,6
+Morrow,05 HEPPNER,County Commissioner,Position 3,,Write-ins,7
+Morrow,01 BOARDMAN,District Attorney,,,Justin W. Nelson,427
+Morrow,02 IRRIGON,District Attorney,,,Justin W. Nelson,572
+Morrow,03 LEXINGTON,District Attorney,,,Justin W. Nelson,207
+Morrow,04 IONE,District Attorney,,,Justin W. Nelson,190
+Morrow,05 HEPPNER,District Attorney,,,Justin W. Nelson,575
+Morrow,01 BOARDMAN,District Attorney,,,Misc.,6
+Morrow,02 IRRIGON,District Attorney,,,Misc.,16
+Morrow,03 LEXINGTON,District Attorney,,,Misc.,2
+Morrow,04 IONE,District Attorney,,,Misc.,5
+Morrow,05 HEPPNER,District Attorney,,,Misc.,11
+Morrow,01 BOARDMAN,District Attorney,,,Over Votes,0
+Morrow,02 IRRIGON,District Attorney,,,Over Votes,0
+Morrow,03 LEXINGTON,District Attorney,,,Over Votes,0
+Morrow,04 IONE,District Attorney,,,Over Votes,0
+Morrow,05 HEPPNER,District Attorney,,,Over Votes,1
+Morrow,01 BOARDMAN,District Attorney,,,Under Votes,249
+Morrow,02 IRRIGON,District Attorney,,,Under Votes,283
+Morrow,03 LEXINGTON,District Attorney,,,Under Votes,59
+Morrow,04 IONE,District Attorney,,,Under Votes,70
+Morrow,05 HEPPNER,District Attorney,,,Under Votes,180
+Morrow,01 BOARDMAN,Governor,,D,Brittany Jones,4
+Morrow,02 IRRIGON,Governor,,D,Brittany Jones,6
+Morrow,03 LEXINGTON,Governor,,D,Brittany Jones,2
+Morrow,04 IONE,Governor,,D,Brittany Jones,2
+Morrow,05 HEPPNER,Governor,,D,Brittany Jones,7
+Morrow,01 BOARDMAN,Governor,,D,Cal Kishawi,0
+Morrow,02 IRRIGON,Governor,,D,Cal Kishawi,1
+Morrow,03 LEXINGTON,Governor,,D,Cal Kishawi,2
+Morrow,04 IONE,Governor,,D,Cal Kishawi,0
+Morrow,05 HEPPNER,Governor,,D,Cal Kishawi,1
+Morrow,01 BOARDMAN,Governor,,D,David W Beem,4
+Morrow,02 IRRIGON,Governor,,D,David W Beem,6
+Morrow,03 LEXINGTON,Governor,,D,David W Beem,1
+Morrow,04 IONE,Governor,,D,David W Beem,1
+Morrow,05 HEPPNER,Governor,,D,David W Beem,3
+Morrow,01 BOARDMAN,Governor,,D,Donnie M Beckwith,0
+Morrow,02 IRRIGON,Governor,,D,Donnie M Beckwith,3
+Morrow,03 LEXINGTON,Governor,,D,Donnie M Beckwith,0
+Morrow,04 IONE,Governor,,D,Donnie M Beckwith,2
+Morrow,05 HEPPNER,Governor,,D,Donnie M Beckwith,1
+Morrow,01 BOARDMAN,Governor,,D,Forest (Fora) Alexander,2
+Morrow,02 IRRIGON,Governor,,D,Forest (Fora) Alexander,1
+Morrow,03 LEXINGTON,Governor,,D,Forest (Fora) Alexander,0
+Morrow,04 IONE,Governor,,D,Forest (Fora) Alexander,0
+Morrow,05 HEPPNER,Governor,,D,Forest (Fora) Alexander,5
+Morrow,01 BOARDMAN,Governor,,D,James Atkinson IV,5
+Morrow,02 IRRIGON,Governor,,D,James Atkinson IV,5
+Morrow,03 LEXINGTON,Governor,,D,James Atkinson IV,1
+Morrow,04 IONE,Governor,,D,James Atkinson IV,2
+Morrow,05 HEPPNER,Governor,,D,James Atkinson IV,2
+Morrow,01 BOARDMAN,Governor,,D,Miranda Weigler,2
+Morrow,02 IRRIGON,Governor,,D,Miranda Weigler,5
+Morrow,03 LEXINGTON,Governor,,D,Miranda Weigler,2
+Morrow,04 IONE,Governor,,D,Miranda Weigler,0
+Morrow,05 HEPPNER,Governor,,D,Miranda Weigler,3
+Morrow,01 BOARDMAN,Governor,,D,Over Votes,0
+Morrow,02 IRRIGON,Governor,,D,Over Votes,0
+Morrow,03 LEXINGTON,Governor,,D,Over Votes,0
+Morrow,04 IONE,Governor,,D,Over Votes,0
+Morrow,05 HEPPNER,Governor,,D,Over Votes,0
+Morrow,01 BOARDMAN,Governor,,D,Steve William Laible,1
+Morrow,02 IRRIGON,Governor,,D,Steve William Laible,3
+Morrow,03 LEXINGTON,Governor,,D,Steve William Laible,0
+Morrow,04 IONE,Governor,,D,Steve William Laible,1
+Morrow,05 HEPPNER,Governor,,D,Steve William Laible,2
+Morrow,01 BOARDMAN,Governor,,D,Tina Kotek,71
+Morrow,02 IRRIGON,Governor,,D,Tina Kotek,43
+Morrow,03 LEXINGTON,Governor,,D,Tina Kotek,14
+Morrow,04 IONE,Governor,,D,Tina Kotek,14
+Morrow,05 HEPPNER,Governor,,D,Tina Kotek,61
+Morrow,01 BOARDMAN,Governor,,D,Tristan Sheppard,2
+Morrow,02 IRRIGON,Governor,,D,Tristan Sheppard,1
+Morrow,03 LEXINGTON,Governor,,D,Tristan Sheppard,1
+Morrow,04 IONE,Governor,,D,Tristan Sheppard,1
+Morrow,05 HEPPNER,Governor,,D,Tristan Sheppard,5
+Morrow,01 BOARDMAN,Governor,,D,Under Votes,11
+Morrow,02 IRRIGON,Governor,,D,Under Votes,18
+Morrow,03 LEXINGTON,Governor,,D,Under Votes,3
+Morrow,04 IONE,Governor,,D,Under Votes,8
+Morrow,05 HEPPNER,Governor,,D,Under Votes,28
+Morrow,01 BOARDMAN,Governor,,D,Write-ins,6
+Morrow,02 IRRIGON,Governor,,D,Write-ins,17
+Morrow,03 LEXINGTON,Governor,,D,Write-ins,3
+Morrow,04 IONE,Governor,,D,Write-ins,5
+Morrow,05 HEPPNER,Governor,,D,Write-ins,13
+Morrow,01 BOARDMAN,Governor,,R,Brad T Peters,2
+Morrow,02 IRRIGON,Governor,,R,Brad T Peters,4
+Morrow,03 LEXINGTON,Governor,,R,Brad T Peters,0
+Morrow,04 IONE,Governor,,R,Brad T Peters,0
+Morrow,05 HEPPNER,Governor,,R,Brad T Peters,1
+Morrow,01 BOARDMAN,Governor,,R,Chris Dudley,21
+Morrow,02 IRRIGON,Governor,,R,Chris Dudley,34
+Morrow,03 LEXINGTON,Governor,,R,Chris Dudley,24
+Morrow,04 IONE,Governor,,R,Chris Dudley,24
+Morrow,05 HEPPNER,Governor,,R,Chris Dudley,65
+Morrow,01 BOARDMAN,Governor,,R,Christine Drazan,167
+Morrow,02 IRRIGON,Governor,,R,Christine Drazan,245
+Morrow,03 LEXINGTON,Governor,,R,Christine Drazan,83
+Morrow,04 IONE,Governor,,R,Christine Drazan,88
+Morrow,05 HEPPNER,Governor,,R,Christine Drazan,222
+Morrow,01 BOARDMAN,Governor,,R,Danielle Bethell,8
+Morrow,02 IRRIGON,Governor,,R,Danielle Bethell,7
+Morrow,03 LEXINGTON,Governor,,R,Danielle Bethell,4
+Morrow,04 IONE,Governor,,R,Danielle Bethell,1
+Morrow,05 HEPPNER,Governor,,R,Danielle Bethell,8
+Morrow,01 BOARDMAN,Governor,,R,David Medina,21
+Morrow,02 IRRIGON,Governor,,R,David Medina,32
+Morrow,03 LEXINGTON,Governor,,R,David Medina,6
+Morrow,04 IONE,Governor,,R,David Medina,5
+Morrow,05 HEPPNER,Governor,,R,David Medina,18
+Morrow,01 BOARDMAN,Governor,,R,DeAngelo Leroy Turner,0
+Morrow,02 IRRIGON,Governor,,R,DeAngelo Leroy Turner,0
+Morrow,03 LEXINGTON,Governor,,R,DeAngelo Leroy Turner,0
+Morrow,04 IONE,Governor,,R,DeAngelo Leroy Turner,0
+Morrow,05 HEPPNER,Governor,,R,DeAngelo Leroy Turner,0
+Morrow,01 BOARDMAN,Governor,,R,Ed Diehl,119
+Morrow,02 IRRIGON,Governor,,R,Ed Diehl,149
+Morrow,03 LEXINGTON,Governor,,R,Ed Diehl,69
+Morrow,04 IONE,Governor,,R,Ed Diehl,57
+Morrow,05 HEPPNER,Governor,,R,Ed Diehl,137
+Morrow,01 BOARDMAN,Governor,,R,Hope A Dalrymple,0
+Morrow,02 IRRIGON,Governor,,R,Hope A Dalrymple,1
+Morrow,03 LEXINGTON,Governor,,R,Hope A Dalrymple,1
+Morrow,04 IONE,Governor,,R,Hope A Dalrymple,0
+Morrow,05 HEPPNER,Governor,,R,Hope A Dalrymple,1
+Morrow,01 BOARDMAN,Governor,,R,Kyle M Duyck,3
+Morrow,02 IRRIGON,Governor,,R,Kyle M Duyck,3
+Morrow,03 LEXINGTON,Governor,,R,Kyle M Duyck,1
+Morrow,04 IONE,Governor,,R,Kyle M Duyck,0
+Morrow,05 HEPPNER,Governor,,R,Kyle M Duyck,2
+Morrow,01 BOARDMAN,Governor,,R,Martin Ward,1
+Morrow,02 IRRIGON,Governor,,R,Martin Ward,0
+Morrow,03 LEXINGTON,Governor,,R,Martin Ward,2
+Morrow,04 IONE,Governor,,R,Martin Ward,0
+Morrow,05 HEPPNER,Governor,,R,Martin Ward,0
+Morrow,01 BOARDMAN,Governor,,R,Over Votes,1
+Morrow,02 IRRIGON,Governor,,R,Over Votes,1
+Morrow,03 LEXINGTON,Governor,,R,Over Votes,0
+Morrow,04 IONE,Governor,,R,Over Votes,0
+Morrow,05 HEPPNER,Governor,,R,Over Votes,0
+Morrow,01 BOARDMAN,Governor,,R,Paul J Romero Jr,1
+Morrow,02 IRRIGON,Governor,,R,Paul J Romero Jr,3
+Morrow,03 LEXINGTON,Governor,,R,Paul J Romero Jr,0
+Morrow,04 IONE,Governor,,R,Paul J Romero Jr,1
+Morrow,05 HEPPNER,Governor,,R,Paul J Romero Jr,5
+Morrow,01 BOARDMAN,Governor,,R,Robert Neuman,0
+Morrow,02 IRRIGON,Governor,,R,Robert Neuman,0
+Morrow,03 LEXINGTON,Governor,,R,Robert Neuman,0
+Morrow,04 IONE,Governor,,R,Robert Neuman,0
+Morrow,05 HEPPNER,Governor,,R,Robert Neuman,4
+Morrow,01 BOARDMAN,Governor,,R,Tim O Youker,0
+Morrow,02 IRRIGON,Governor,,R,Tim O Youker,0
+Morrow,03 LEXINGTON,Governor,,R,Tim O Youker,0
+Morrow,04 IONE,Governor,,R,Tim O Youker,0
+Morrow,05 HEPPNER,Governor,,R,Tim O Youker,0
+Morrow,01 BOARDMAN,Governor,,R,Under Votes,9
+Morrow,02 IRRIGON,Governor,,R,Under Votes,10
+Morrow,03 LEXINGTON,Governor,,R,Under Votes,5
+Morrow,04 IONE,Governor,,R,Under Votes,3
+Morrow,05 HEPPNER,Governor,,R,Under Votes,7
+Morrow,01 BOARDMAN,Governor,,R,Wen Waddell,0
+Morrow,02 IRRIGON,Governor,,R,Wen Waddell,0
+Morrow,03 LEXINGTON,Governor,,R,Wen Waddell,0
+Morrow,04 IONE,Governor,,R,Wen Waddell,0
+Morrow,05 HEPPNER,Governor,,R,Wen Waddell,0
+Morrow,01 BOARDMAN,Governor,,R,Write-ins,0
+Morrow,02 IRRIGON,Governor,,R,Write-ins,1
+Morrow,03 LEXINGTON,Governor,,R,Write-ins,0
+Morrow,04 IONE,Governor,,R,Write-ins,0
+Morrow,05 HEPPNER,Governor,,R,Write-ins,0
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 1,,Misc.,9
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 1,,Misc.,23
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 1,,Misc.,8
+Morrow,04 IONE,Judge of the Court of Appeals,Position 1,,Misc.,2
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 1,,Misc.,11
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Morrow,04 IONE,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 1,,Over Votes,1
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,409
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,539
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,132
+Morrow,04 IONE,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,149
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,457
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 1,,Under Votes,264
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 1,,Under Votes,309
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 1,,Under Votes,128
+Morrow,04 IONE,Judge of the Court of Appeals,Position 1,,Under Votes,114
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 1,,Under Votes,298
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,405
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,529
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,135
+Morrow,04 IONE,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,138
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,450
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 12,,Misc.,11
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 12,,Misc.,26
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 12,,Misc.,6
+Morrow,04 IONE,Judge of the Court of Appeals,Position 12,,Misc.,3
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 12,,Misc.,11
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 12,,Over Votes,2
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Morrow,04 IONE,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 12,,Over Votes,1
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 12,,Under Votes,266
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 12,,Under Votes,314
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 12,,Under Votes,127
+Morrow,04 IONE,Judge of the Court of Appeals,Position 12,,Under Votes,124
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 12,,Under Votes,305
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 13,,Doug Tookey,406
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 13,,Doug Tookey,536
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 13,,Doug Tookey,132
+Morrow,04 IONE,Judge of the Court of Appeals,Position 13,,Doug Tookey,139
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 13,,Doug Tookey,447
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 13,,Misc.,8
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 13,,Misc.,24
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 13,,Misc.,8
+Morrow,04 IONE,Judge of the Court of Appeals,Position 13,,Misc.,2
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 13,,Misc.,13
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Morrow,04 IONE,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 13,,Over Votes,1
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 13,,Under Votes,268
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 13,,Under Votes,311
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 13,,Under Votes,128
+Morrow,04 IONE,Judge of the Court of Appeals,Position 13,,Under Votes,124
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 13,,Under Votes,306
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,403
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,524
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,134
+Morrow,04 IONE,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,141
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,448
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 9,,Misc.,11
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 9,,Misc.,27
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 9,,Misc.,7
+Morrow,04 IONE,Judge of the Court of Appeals,Position 9,,Misc.,2
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 9,,Misc.,11
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Morrow,04 IONE,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 9,,Over Votes,1
+Morrow,01 BOARDMAN,Judge of the Court of Appeals,Position 9,,Under Votes,268
+Morrow,02 IRRIGON,Judge of the Court of Appeals,Position 9,,Under Votes,320
+Morrow,03 LEXINGTON,Judge of the Court of Appeals,Position 9,,Under Votes,127
+Morrow,04 IONE,Judge of the Court of Appeals,Position 9,,Under Votes,122
+Morrow,05 HEPPNER,Judge of the Court of Appeals,Position 9,,Under Votes,307
+Morrow,01 BOARDMAN,Judge of the Supreme Court,Position 4,,Christopher L Garrett,405
+Morrow,02 IRRIGON,Judge of the Supreme Court,Position 4,,Christopher L Garrett,534
+Morrow,03 LEXINGTON,Judge of the Supreme Court,Position 4,,Christopher L Garrett,135
+Morrow,04 IONE,Judge of the Supreme Court,Position 4,,Christopher L Garrett,147
+Morrow,05 HEPPNER,Judge of the Supreme Court,Position 4,,Christopher L Garrett,454
+Morrow,01 BOARDMAN,Judge of the Supreme Court,Position 4,,Over Votes,0
+Morrow,02 IRRIGON,Judge of the Supreme Court,Position 4,,Over Votes,0
+Morrow,03 LEXINGTON,Judge of the Supreme Court,Position 4,,Over Votes,0
+Morrow,04 IONE,Judge of the Supreme Court,Position 4,,Over Votes,0
+Morrow,05 HEPPNER,Judge of the Supreme Court,Position 4,,Over Votes,1
+Morrow,01 BOARDMAN,Judge of the Supreme Court,Position 4,,Under Votes,264
+Morrow,02 IRRIGON,Judge of the Supreme Court,Position 4,,Under Votes,306
+Morrow,03 LEXINGTON,Judge of the Supreme Court,Position 4,,Under Votes,127
+Morrow,04 IONE,Judge of the Supreme Court,Position 4,,Under Votes,113
+Morrow,05 HEPPNER,Judge of the Supreme Court,Position 4,,Under Votes,301
+Morrow,01 BOARDMAN,Judge of the Supreme Court,Position 4,,Write-ins,13
+Morrow,02 IRRIGON,Judge of the Supreme Court,Position 4,,Write-ins,31
+Morrow,03 LEXINGTON,Judge of the Supreme Court,Position 4,,Write-ins,6
+Morrow,04 IONE,Judge of the Supreme Court,Position 4,,Write-ins,5
+Morrow,05 HEPPNER,Judge of the Supreme Court,Position 4,,Write-ins,11
+Morrow,01 BOARDMAN,Justice of the Peace,,,Glen G Diehl,441
+Morrow,02 IRRIGON,Justice of the Peace,,,Glen G Diehl,592
+Morrow,03 LEXINGTON,Justice of the Peace,,,Glen G Diehl,181
+Morrow,04 IONE,Justice of the Peace,,,Glen G Diehl,174
+Morrow,05 HEPPNER,Justice of the Peace,,,Glen G Diehl,575
+Morrow,01 BOARDMAN,Justice of the Peace,,,Over Votes,0
+Morrow,02 IRRIGON,Justice of the Peace,,,Over Votes,0
+Morrow,03 LEXINGTON,Justice of the Peace,,,Over Votes,0
+Morrow,04 IONE,Justice of the Peace,,,Over Votes,0
+Morrow,05 HEPPNER,Justice of the Peace,,,Over Votes,1
+Morrow,01 BOARDMAN,Justice of the Peace,,,Under Votes,234
+Morrow,02 IRRIGON,Justice of the Peace,,,Under Votes,276
+Morrow,03 LEXINGTON,Justice of the Peace,,,Under Votes,83
+Morrow,04 IONE,Justice of the Peace,,,Under Votes,89
+Morrow,05 HEPPNER,Justice of the Peace,,,Under Votes,177
+Morrow,01 BOARDMAN,Justice of the Peace,,,Write-ins,7
+Morrow,02 IRRIGON,Justice of the Peace,,,Write-ins,3
+Morrow,03 LEXINGTON,Justice of the Peace,,,Write-ins,4
+Morrow,04 IONE,Justice of the Peace,,,Write-ins,2
+Morrow,05 HEPPNER,Justice of the Peace,,,Write-ins,14
+Morrow,01 BOARDMAN,Labor Commissioner,,,Chris Lynch,239
+Morrow,02 IRRIGON,Labor Commissioner,,,Chris Lynch,351
+Morrow,03 LEXINGTON,Labor Commissioner,,,Chris Lynch,106
+Morrow,04 IONE,Labor Commissioner,,,Chris Lynch,123
+Morrow,05 HEPPNER,Labor Commissioner,,,Chris Lynch,303
+Morrow,01 BOARDMAN,Labor Commissioner,,,Christina E Stephenson,263
+Morrow,02 IRRIGON,Labor Commissioner,,,Christina E Stephenson,314
+Morrow,03 LEXINGTON,Labor Commissioner,,,Christina E Stephenson,73
+Morrow,04 IONE,Labor Commissioner,,,Christina E Stephenson,61
+Morrow,05 HEPPNER,Labor Commissioner,,,Christina E Stephenson,230
+Morrow,01 BOARDMAN,Labor Commissioner,,,Over Votes,0
+Morrow,02 IRRIGON,Labor Commissioner,,,Over Votes,0
+Morrow,03 LEXINGTON,Labor Commissioner,,,Over Votes,0
+Morrow,04 IONE,Labor Commissioner,,,Over Votes,1
+Morrow,05 HEPPNER,Labor Commissioner,,,Over Votes,1
+Morrow,01 BOARDMAN,Labor Commissioner,,,Under Votes,176
+Morrow,02 IRRIGON,Labor Commissioner,,,Under Votes,191
+Morrow,03 LEXINGTON,Labor Commissioner,,,Under Votes,89
+Morrow,04 IONE,Labor Commissioner,,,Under Votes,80
+Morrow,05 HEPPNER,Labor Commissioner,,,Under Votes,227
+Morrow,01 BOARDMAN,Labor Commissioner,,,Write-ins,4
+Morrow,02 IRRIGON,Labor Commissioner,,,Write-ins,15
+Morrow,03 LEXINGTON,Labor Commissioner,,,Write-ins,0
+Morrow,04 IONE,Labor Commissioner,,,Write-ins,0
+Morrow,05 HEPPNER,Labor Commissioner,,,Write-ins,6
+Morrow,01 BOARDMAN,Measure 120,,,No,648
+Morrow,02 IRRIGON,Measure 120,,,No,833
+Morrow,03 LEXINGTON,Measure 120,,,No,253
+Morrow,04 IONE,Measure 120,,,No,248
+Morrow,05 HEPPNER,Measure 120,,,No,721
+Morrow,01 BOARDMAN,Measure 120,,,Over Votes,0
+Morrow,02 IRRIGON,Measure 120,,,Over Votes,0
+Morrow,03 LEXINGTON,Measure 120,,,Over Votes,0
+Morrow,04 IONE,Measure 120,,,Over Votes,0
+Morrow,05 HEPPNER,Measure 120,,,Over Votes,0
+Morrow,01 BOARDMAN,Measure 120,,,Under Votes,13
+Morrow,02 IRRIGON,Measure 120,,,Under Votes,15
+Morrow,03 LEXINGTON,Measure 120,,,Under Votes,9
+Morrow,04 IONE,Measure 120,,,Under Votes,8
+Morrow,05 HEPPNER,Measure 120,,,Under Votes,22
+Morrow,01 BOARDMAN,Measure 120,,,Yes,21
+Morrow,02 IRRIGON,Measure 120,,,Yes,23
+Morrow,03 LEXINGTON,Measure 120,,,Yes,6
+Morrow,04 IONE,Measure 120,,,Yes,9
+Morrow,05 HEPPNER,Measure 120,,,Yes,24
+Morrow,01 BOARDMAN,Precinct Committee Person,,D,Over Votes,0
+Morrow,02 IRRIGON,Precinct Committee Person,,D,Over Votes,0
+Morrow,03 LEXINGTON,Precinct Committee Person,,D,Over Votes,0
+Morrow,04 IONE,Precinct Committee Person,,D,Over Votes,0
+Morrow,05 HEPPNER,Precinct Committee Person,,D,Over Votes,0
+Morrow,01 BOARDMAN,Precinct Committee Person,,D,Under Votes,1063
+Morrow,02 IRRIGON,Precinct Committee Person,,D,Under Votes,1172
+Morrow,03 LEXINGTON,Precinct Committee Person,,D,Under Votes,55
+Morrow,04 IONE,Precinct Committee Person,,D,Under Votes,70
+Morrow,05 HEPPNER,Precinct Committee Person,,D,Under Votes,643
+Morrow,01 BOARDMAN,Precinct Committee Person,,D,Write-ins,16
+Morrow,02 IRRIGON,Precinct Committee Person,,D,Write-ins,27
+Morrow,03 LEXINGTON,Precinct Committee Person,,D,Write-ins,3
+Morrow,04 IONE,Precinct Committee Person,,D,Write-ins,2
+Morrow,05 HEPPNER,Precinct Committee Person,,D,Write-ins,12
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Beth Purves,258
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Cheryl Tallman,147
+Morrow,04 IONE,Precinct Committee Person,,R,Clinton R Carlson,142
+Morrow,03 LEXINGTON,Precinct Committee Person,,R,Corey Miller,160
+Morrow,05 HEPPNER,Precinct Committee Person,,R,Dale D Bates,356
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Dan Gordanier,345
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,David Carney,73
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,David Lee Richards,188
+Morrow,02 IRRIGON,Precinct Committee Person,,R,David Radie,257
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Dawn Samson,212
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Deanna Camp,183
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Debbie Imus,177
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Debbie Radie,248
+Morrow,05 HEPPNER,Precinct Committee Person,,R,Dick Temple,345
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Donna Anderson,77
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Ethan Akers,74
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Evan Purves,245
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Gary David,185
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Heather L Baumgartner,234
+Morrow,05 HEPPNER,Precinct Committee Person,,R,Jack Meligan,331
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Jaimesen S Ratzlaff,131
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,James Klipfel,63
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Jeremy Gierke,184
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Jerrold A Moore Jr,192
+Morrow,05 HEPPNER,Precinct Committee Person,,R,Karen Temple,344
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Kate Close,280
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Kathy Mendoza,145
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Kelly L Doherty,92
+Morrow,05 HEPPNER,Precinct Committee Person,,R,Ken W Bailey,362
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Lisa Pratt,213
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Michael Connell,235
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Michael J McNamee,298
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Naomi Brown,75
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Over Votes,10
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Over Votes,55
+Morrow,03 LEXINGTON,Precinct Committee Person,,R,Over Votes,0
+Morrow,04 IONE,Precinct Committee Person,,R,Over Votes,0
+Morrow,05 HEPPNER,Precinct Committee Person,,R,Over Votes,0
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Raymond Akers,86
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Rick Stokoe,228
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Runnisha R McNamee,261
+Morrow,03 LEXINGTON,Precinct Committee Person,,R,Sam Bellamy,113
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Sam Irons,221
+Morrow,04 IONE,Precinct Committee Person,,R,Sarah Carlson,126
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Sarah Taylor,168
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Stuart Dick,170
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Tiffany B Akers,61
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Tony M Simpson,142
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Under Votes,832
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Under Votes,1687
+Morrow,03 LEXINGTON,Precinct Committee Person,,R,Under Votes,117
+Morrow,04 IONE,Precinct Committee Person,,R,Under Votes,82
+Morrow,05 HEPPNER,Precinct Committee Person,,R,Under Votes,604
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Warren A Kemper,153
+Morrow,01 BOARDMAN,Precinct Committee Person,,R,Write-ins,13
+Morrow,02 IRRIGON,Precinct Committee Person,,R,Write-ins,22
+Morrow,03 LEXINGTON,Precinct Committee Person,,R,Write-ins,0
+Morrow,04 IONE,Precinct Committee Person,,R,Write-ins,8
+Morrow,05 HEPPNER,Precinct Committee Person,,R,Write-ins,8
+Morrow,01 BOARDMAN,State House,57,D,Misc.,11
+Morrow,02 IRRIGON,State House,57,D,Misc.,16
+Morrow,03 LEXINGTON,State House,57,D,Misc.,2
+Morrow,04 IONE,State House,57,D,Misc.,3
+Morrow,05 HEPPNER,State House,57,D,Misc.,24
+Morrow,01 BOARDMAN,State House,57,D,No Candidate Filed,0
+Morrow,02 IRRIGON,State House,57,D,No Candidate Filed,0
+Morrow,03 LEXINGTON,State House,57,D,No Candidate Filed,0
+Morrow,04 IONE,State House,57,D,No Candidate Filed,0
+Morrow,05 HEPPNER,State House,57,D,No Candidate Filed,0
+Morrow,01 BOARDMAN,State House,57,D,Over Votes,0
+Morrow,02 IRRIGON,State House,57,D,Over Votes,0
+Morrow,03 LEXINGTON,State House,57,D,Over Votes,0
+Morrow,04 IONE,State House,57,D,Over Votes,0
+Morrow,05 HEPPNER,State House,57,D,Over Votes,0
+Morrow,01 BOARDMAN,State House,57,D,Under Votes,97
+Morrow,02 IRRIGON,State House,57,D,Under Votes,93
+Morrow,03 LEXINGTON,State House,57,D,Under Votes,27
+Morrow,04 IONE,State House,57,D,Under Votes,33
+Morrow,05 HEPPNER,State House,57,D,Under Votes,107
+Morrow,01 BOARDMAN,State House,57,R,Greg Smith,231
+Morrow,02 IRRIGON,State House,57,R,Greg Smith,287
+Morrow,03 LEXINGTON,State House,57,R,Greg Smith,108
+Morrow,04 IONE,State House,57,R,Greg Smith,108
+Morrow,05 HEPPNER,State House,57,R,Greg Smith,273
+Morrow,01 BOARDMAN,State House,57,R,Jim E. Doherty,109
+Morrow,02 IRRIGON,State House,57,R,Jim E. Doherty,183
+Morrow,03 LEXINGTON,State House,57,R,Jim E. Doherty,67
+Morrow,04 IONE,State House,57,R,Jim E. Doherty,59
+Morrow,05 HEPPNER,State House,57,R,Jim E. Doherty,167
+Morrow,01 BOARDMAN,State House,57,R,Misc.,0
+Morrow,02 IRRIGON,State House,57,R,Misc.,0
+Morrow,03 LEXINGTON,State House,57,R,Misc.,2
+Morrow,04 IONE,State House,57,R,Misc.,4
+Morrow,05 HEPPNER,State House,57,R,Misc.,4
+Morrow,01 BOARDMAN,State House,57,R,Over Votes,0
+Morrow,02 IRRIGON,State House,57,R,Over Votes,0
+Morrow,03 LEXINGTON,State House,57,R,Over Votes,0
+Morrow,04 IONE,State House,57,R,Over Votes,0
+Morrow,05 HEPPNER,State House,57,R,Over Votes,0
+Morrow,01 BOARDMAN,State House,57,R,Under Votes,13
+Morrow,02 IRRIGON,State House,57,R,Under Votes,20
+Morrow,03 LEXINGTON,State House,57,R,Under Votes,18
+Morrow,04 IONE,State House,57,R,Under Votes,8
+Morrow,05 HEPPNER,State House,57,R,Under Votes,26
+Morrow,01 BOARDMAN,U.S. House,2,D,Chris Beck,21
+Morrow,02 IRRIGON,U.S. House,2,D,Chris Beck,22
+Morrow,03 LEXINGTON,U.S. House,2,D,Chris Beck,5
+Morrow,04 IONE,U.S. House,2,D,Chris Beck,9
+Morrow,05 HEPPNER,U.S. House,2,D,Chris Beck,21
+Morrow,01 BOARDMAN,U.S. House,2,D,Dawn Rasmussen,10
+Morrow,02 IRRIGON,U.S. House,2,D,Dawn Rasmussen,13
+Morrow,03 LEXINGTON,U.S. House,2,D,Dawn Rasmussen,4
+Morrow,04 IONE,U.S. House,2,D,Dawn Rasmussen,4
+Morrow,05 HEPPNER,U.S. House,2,D,Dawn Rasmussen,17
+Morrow,01 BOARDMAN,U.S. House,2,D,Mary Doyle,30
+Morrow,02 IRRIGON,U.S. House,2,D,Mary Doyle,27
+Morrow,03 LEXINGTON,U.S. House,2,D,Mary Doyle,5
+Morrow,04 IONE,U.S. House,2,D,Mary Doyle,7
+Morrow,05 HEPPNER,U.S. House,2,D,Mary Doyle,25
+Morrow,01 BOARDMAN,U.S. House,2,D,Misc.,1
+Morrow,02 IRRIGON,U.S. House,2,D,Misc.,4
+Morrow,03 LEXINGTON,U.S. House,2,D,Misc.,2
+Morrow,04 IONE,U.S. House,2,D,Misc.,1
+Morrow,05 HEPPNER,U.S. House,2,D,Misc.,2
+Morrow,01 BOARDMAN,U.S. House,2,D,Over Votes,0
+Morrow,02 IRRIGON,U.S. House,2,D,Over Votes,0
+Morrow,03 LEXINGTON,U.S. House,2,D,Over Votes,0
+Morrow,04 IONE,U.S. House,2,D,Over Votes,0
+Morrow,05 HEPPNER,U.S. House,2,D,Over Votes,0
+Morrow,01 BOARDMAN,U.S. House,2,D,Patty Snow,14
+Morrow,02 IRRIGON,U.S. House,2,D,Patty Snow,12
+Morrow,03 LEXINGTON,U.S. House,2,D,Patty Snow,5
+Morrow,04 IONE,U.S. House,2,D,Patty Snow,0
+Morrow,05 HEPPNER,U.S. House,2,D,Patty Snow,7
+Morrow,01 BOARDMAN,U.S. House,2,D,Peter Quince,4
+Morrow,02 IRRIGON,U.S. House,2,D,Peter Quince,10
+Morrow,03 LEXINGTON,U.S. House,2,D,Peter Quince,0
+Morrow,04 IONE,U.S. House,2,D,Peter Quince,3
+Morrow,05 HEPPNER,U.S. House,2,D,Peter Quince,3
+Morrow,01 BOARDMAN,U.S. House,2,D,Rebecca Mueller,14
+Morrow,02 IRRIGON,U.S. House,2,D,Rebecca Mueller,4
+Morrow,03 LEXINGTON,U.S. House,2,D,Rebecca Mueller,2
+Morrow,04 IONE,U.S. House,2,D,Rebecca Mueller,2
+Morrow,05 HEPPNER,U.S. House,2,D,Rebecca Mueller,21
+Morrow,01 BOARDMAN,U.S. House,2,D,Under Votes,14
+Morrow,02 IRRIGON,U.S. House,2,D,Under Votes,17
+Morrow,03 LEXINGTON,U.S. House,2,D,Under Votes,6
+Morrow,04 IONE,U.S. House,2,D,Under Votes,10
+Morrow,05 HEPPNER,U.S. House,2,D,Under Votes,35
+Morrow,01 BOARDMAN,U.S. House,2,R,Andrea Carr,20
+Morrow,02 IRRIGON,U.S. House,2,R,Andrea Carr,39
+Morrow,03 LEXINGTON,U.S. House,2,R,Andrea Carr,6
+Morrow,04 IONE,U.S. House,2,R,Andrea Carr,4
+Morrow,05 HEPPNER,U.S. House,2,R,Andrea Carr,22
+Morrow,01 BOARDMAN,U.S. House,2,R,Cliff Bentz,246
+Morrow,02 IRRIGON,U.S. House,2,R,Cliff Bentz,339
+Morrow,03 LEXINGTON,U.S. House,2,R,Cliff Bentz,152
+Morrow,04 IONE,U.S. House,2,R,Cliff Bentz,137
+Morrow,05 HEPPNER,U.S. House,2,R,Cliff Bentz,350
+Morrow,01 BOARDMAN,U.S. House,2,R,Misc.,1
+Morrow,02 IRRIGON,U.S. House,2,R,Misc.,2
+Morrow,03 LEXINGTON,U.S. House,2,R,Misc.,1
+Morrow,04 IONE,U.S. House,2,R,Misc.,0
+Morrow,05 HEPPNER,U.S. House,2,R,Misc.,0
+Morrow,01 BOARDMAN,U.S. House,2,R,Over Votes,0
+Morrow,02 IRRIGON,U.S. House,2,R,Over Votes,1
+Morrow,03 LEXINGTON,U.S. House,2,R,Over Votes,1
+Morrow,04 IONE,U.S. House,2,R,Over Votes,0
+Morrow,05 HEPPNER,U.S. House,2,R,Over Votes,0
+Morrow,01 BOARDMAN,U.S. House,2,R,Peter J. Larson,53
+Morrow,02 IRRIGON,U.S. House,2,R,Peter J. Larson,65
+Morrow,03 LEXINGTON,U.S. House,2,R,Peter J. Larson,17
+Morrow,04 IONE,U.S. House,2,R,Peter J. Larson,22
+Morrow,05 HEPPNER,U.S. House,2,R,Peter J. Larson,53
+Morrow,01 BOARDMAN,U.S. House,2,R,Under Votes,33
+Morrow,02 IRRIGON,U.S. House,2,R,Under Votes,44
+Morrow,03 LEXINGTON,U.S. House,2,R,Under Votes,18
+Morrow,04 IONE,U.S. House,2,R,Under Votes,16
+Morrow,05 HEPPNER,U.S. House,2,R,Under Votes,45
+Morrow,01 BOARDMAN,U.S. Senate,,D,Jeff Merkley,85
+Morrow,02 IRRIGON,U.S. Senate,,D,Jeff Merkley,71
+Morrow,03 LEXINGTON,U.S. Senate,,D,Jeff Merkley,18
+Morrow,04 IONE,U.S. Senate,,D,Jeff Merkley,29
+Morrow,05 HEPPNER,U.S. Senate,,D,Jeff Merkley,96
+Morrow,01 BOARDMAN,U.S. Senate,,D,Misc.,2
+Morrow,02 IRRIGON,U.S. Senate,,D,Misc.,4
+Morrow,03 LEXINGTON,U.S. Senate,,D,Misc.,2
+Morrow,04 IONE,U.S. Senate,,D,Misc.,0
+Morrow,05 HEPPNER,U.S. Senate,,D,Misc.,1
+Morrow,01 BOARDMAN,U.S. Senate,,D,Over Votes,0
+Morrow,02 IRRIGON,U.S. Senate,,D,Over Votes,0
+Morrow,03 LEXINGTON,U.S. Senate,,D,Over Votes,0
+Morrow,04 IONE,U.S. Senate,,D,Over Votes,0
+Morrow,05 HEPPNER,U.S. Senate,,D,Over Votes,0
+Morrow,01 BOARDMAN,U.S. Senate,,D,Paul Damian Wells,15
+Morrow,02 IRRIGON,U.S. Senate,,D,Paul Damian Wells,25
+Morrow,03 LEXINGTON,U.S. Senate,,D,Paul Damian Wells,7
+Morrow,04 IONE,U.S. Senate,,D,Paul Damian Wells,3
+Morrow,05 HEPPNER,U.S. Senate,,D,Paul Damian Wells,18
+Morrow,01 BOARDMAN,U.S. Senate,,D,Under Votes,6
+Morrow,02 IRRIGON,U.S. Senate,,D,Under Votes,9
+Morrow,03 LEXINGTON,U.S. Senate,,D,Under Votes,2
+Morrow,04 IONE,U.S. Senate,,D,Under Votes,4
+Morrow,05 HEPPNER,U.S. Senate,,D,Under Votes,16
+Morrow,01 BOARDMAN,U.S. Senate,,R,Brent Barker,54
+Morrow,02 IRRIGON,U.S. Senate,,R,Brent Barker,111
+Morrow,03 LEXINGTON,U.S. Senate,,R,Brent Barker,15
+Morrow,04 IONE,U.S. Senate,,R,Brent Barker,30
+Morrow,05 HEPPNER,U.S. Senate,,R,Brent Barker,79
+Morrow,01 BOARDMAN,U.S. Senate,,R,David A. Burch,6
+Morrow,02 IRRIGON,U.S. Senate,,R,David A. Burch,14
+Morrow,03 LEXINGTON,U.S. Senate,,R,David A. Burch,3
+Morrow,04 IONE,U.S. Senate,,R,David A. Burch,3
+Morrow,05 HEPPNER,U.S. Senate,,R,David A. Burch,8
+Morrow,01 BOARDMAN,U.S. Senate,,R,David Brock Smith,96
+Morrow,02 IRRIGON,U.S. Senate,,R,David Brock Smith,99
+Morrow,03 LEXINGTON,U.S. Senate,,R,David Brock Smith,54
+Morrow,04 IONE,U.S. Senate,,R,David Brock Smith,45
+Morrow,05 HEPPNER,U.S. Senate,,R,David Brock Smith,131
+Morrow,01 BOARDMAN,U.S. Senate,,R,Deborah C. Brown,14
+Morrow,02 IRRIGON,U.S. Senate,,R,Deborah C. Brown,16
+Morrow,03 LEXINGTON,U.S. Senate,,R,Deborah C. Brown,8
+Morrow,04 IONE,U.S. Senate,,R,Deborah C. Brown,8
+Morrow,05 HEPPNER,U.S. Senate,,R,Deborah C. Brown,11
+Morrow,01 BOARDMAN,U.S. Senate,,R,Jo Rae Perkins,75
+Morrow,02 IRRIGON,U.S. Senate,,R,Jo Rae Perkins,135
+Morrow,03 LEXINGTON,U.S. Senate,,R,Jo Rae Perkins,50
+Morrow,04 IONE,U.S. Senate,,R,Jo Rae Perkins,37
+Morrow,05 HEPPNER,U.S. Senate,,R,Jo Rae Perkins,96
+Morrow,01 BOARDMAN,U.S. Senate,,R,Misc.,1
+Morrow,02 IRRIGON,U.S. Senate,,R,Misc.,3
+Morrow,03 LEXINGTON,U.S. Senate,,R,Misc.,1
+Morrow,04 IONE,U.S. Senate,,R,Misc.,0
+Morrow,05 HEPPNER,U.S. Senate,,R,Misc.,0
+Morrow,01 BOARDMAN,U.S. Senate,,R,Over Votes,0
+Morrow,02 IRRIGON,U.S. Senate,,R,Over Votes,1
+Morrow,03 LEXINGTON,U.S. Senate,,R,Over Votes,0
+Morrow,04 IONE,U.S. Senate,,R,Over Votes,0
+Morrow,05 HEPPNER,U.S. Senate,,R,Over Votes,0
+Morrow,01 BOARDMAN,U.S. Senate,,R,Russell McAlmond,37
+Morrow,02 IRRIGON,U.S. Senate,,R,Russell McAlmond,42
+Morrow,03 LEXINGTON,U.S. Senate,,R,Russell McAlmond,17
+Morrow,04 IONE,U.S. Senate,,R,Russell McAlmond,17
+Morrow,05 HEPPNER,U.S. Senate,,R,Russell McAlmond,47
+Morrow,01 BOARDMAN,U.S. Senate,,R,Timothy Skelton,1
+Morrow,02 IRRIGON,U.S. Senate,,R,Timothy Skelton,9
+Morrow,03 LEXINGTON,U.S. Senate,,R,Timothy Skelton,2
+Morrow,04 IONE,U.S. Senate,,R,Timothy Skelton,3
+Morrow,05 HEPPNER,U.S. Senate,,R,Timothy Skelton,6
+Morrow,01 BOARDMAN,U.S. Senate,,R,Under Votes,69
+Morrow,02 IRRIGON,U.S. Senate,,R,Under Votes,60
+Morrow,03 LEXINGTON,U.S. Senate,,R,Under Votes,45
+Morrow,04 IONE,U.S. Senate,,R,Under Votes,36
+Morrow,05 HEPPNER,U.S. Senate,,R,Under Votes,92
