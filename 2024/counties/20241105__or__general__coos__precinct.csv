@@ -476,15 +476,15 @@ Coos,Precinct 06,State Senate,5,Republican,Dick Anderson,1055
 Coos,Precinct 07,State Senate,5,Republican,Dick Anderson,1246
 Coos,Precinct 08,State Senate,5,Republican,Dick Anderson,2085
 Coos,Precinct 09,State Senate,5,Republican,Dick Anderson,158
-Coos,Precinct 01,State House,1,,Write-ins,0
-Coos,Precinct 02,State House,1,,Write-ins,2
-Coos,Precinct 03,State House,1,,Write-ins,0
-Coos,Precinct 04,State House,1,,Write-ins,3
-Coos,Precinct 05,State House,1,,Write-ins,5
-Coos,Precinct 06,State House,1,,Write-ins,7
-Coos,Precinct 07,State House,1,,Write-ins,2
-Coos,Precinct 08,State House,1,,Write-ins,5
-Coos,Precinct 09,State House,1,,Write-ins,0
+Coos,Precinct 01,State Senate,5,,Write-ins,0
+Coos,Precinct 02,State Senate,5,,Write-ins,2
+Coos,Precinct 03,State Senate,5,,Write-ins,0
+Coos,Precinct 04,State Senate,5,,Write-ins,3
+Coos,Precinct 05,State Senate,5,,Write-ins,5
+Coos,Precinct 06,State Senate,5,,Write-ins,7
+Coos,Precinct 07,State Senate,5,,Write-ins,2
+Coos,Precinct 08,State Senate,5,,Write-ins,5
+Coos,Precinct 09,State Senate,5,,Write-ins,0
 Coos,Precinct 10,State House,1,Republican,Court Boice,1592
 Coos,Precinct 11,State House,1,Republican,Court Boice,1328
 Coos,Precinct 12,State House,1,Republican,Court Boice,1292
@@ -503,15 +503,15 @@ Coos,Precinct 15,State House,1,Democrat,Bret Cecil,111
 Coos,Precinct 16,State House,1,Democrat,Bret Cecil,979
 Coos,Precinct 17,State House,1,Democrat,Bret Cecil,917
 Coos,Precinct 18,State House,1,Democrat,Bret Cecil,109
-Coos,Precinct 10,State House,9,,Write-ins,3
-Coos,Precinct 11,State House,9,,Write-ins,5
-Coos,Precinct 12,State House,9,,Write-ins,1
-Coos,Precinct 13,State House,9,,Write-ins,1
-Coos,Precinct 14,State House,9,,Write-ins,3
-Coos,Precinct 15,State House,9,,Write-ins,0
-Coos,Precinct 16,State House,9,,Write-ins,1
-Coos,Precinct 17,State House,9,,Write-ins,2
-Coos,Precinct 18,State House,9,,Write-ins,0
+Coos,Precinct 10,State House,1,,Write-ins,3
+Coos,Precinct 11,State House,1,,Write-ins,5
+Coos,Precinct 12,State House,1,,Write-ins,1
+Coos,Precinct 13,State House,1,,Write-ins,1
+Coos,Precinct 14,State House,1,,Write-ins,3
+Coos,Precinct 15,State House,1,,Write-ins,0
+Coos,Precinct 16,State House,1,,Write-ins,1
+Coos,Precinct 17,State House,1,,Write-ins,2
+Coos,Precinct 18,State House,1,,Write-ins,0
 Coos,Precinct 01,State House,9,Republican,Boomer Wright,1035
 Coos,Precinct 02,State House,9,Republican,Boomer Wright,1902
 Coos,Precinct 03,State House,9,Republican,Boomer Wright,1871
@@ -521,24 +521,24 @@ Coos,Precinct 06,State House,9,Republican,Boomer Wright,1093
 Coos,Precinct 07,State House,9,Republican,Boomer Wright,1268
 Coos,Precinct 08,State House,9,Republican,Boomer Wright,2157
 Coos,Precinct 09,State House,9,Republican,Boomer Wright,166
-Coos,Precinct 01,State Senate,9,Democrat,William (Mrk) Mrkvicka,377
-Coos,Precinct 02,State Senate,9,Democrat,William (Mrk) Mrkvicka,765
-Coos,Precinct 03,State Senate,9,Democrat,William (Mrk) Mrkvicka,938
-Coos,Precinct 04,State Senate,9,Democrat,William (Mrk) Mrkvicka,870
-Coos,Precinct 05,State Senate,9,Democrat,William (Mrk) Mrkvicka,1273
-Coos,Precinct 06,State Senate,9,Democrat,William (Mrk) Mrkvicka,805
-Coos,Precinct 07,State Senate,9,Democrat,William (Mrk) Mrkvicka,908
-Coos,Precinct 08,State Senate,9,Democrat,William (Mrk) Mrkvicka,1009
-Coos,Precinct 09,State Senate,9,Democrat,William (Mrk) Mrkvicka,141
-Coos,Precinct 01,State Senate,9,,Write-ins,1
-Coos,Precinct 02,State Senate,9,,Write-ins,3
-Coos,Precinct 03,State Senate,9,,Write-ins,1
-Coos,Precinct 04,State Senate,9,,Write-ins,3
-Coos,Precinct 05,State Senate,9,,Write-ins,10
-Coos,Precinct 06,State Senate,9,,Write-ins,4
-Coos,Precinct 07,State Senate,9,,Write-ins,5
-Coos,Precinct 08,State Senate,9,,Write-ins,7
-Coos,Precinct 09,State Senate,9,,Write-ins,0
+Coos,Precinct 01,State House,9,Democrat,William (Mrk) Mrkvicka,377
+Coos,Precinct 02,State House,9,Democrat,William (Mrk) Mrkvicka,765
+Coos,Precinct 03,State House,9,Democrat,William (Mrk) Mrkvicka,938
+Coos,Precinct 04,State House,9,Democrat,William (Mrk) Mrkvicka,870
+Coos,Precinct 05,State House,9,Democrat,William (Mrk) Mrkvicka,1273
+Coos,Precinct 06,State House,9,Democrat,William (Mrk) Mrkvicka,805
+Coos,Precinct 07,State House,9,Democrat,William (Mrk) Mrkvicka,908
+Coos,Precinct 08,State House,9,Democrat,William (Mrk) Mrkvicka,1009
+Coos,Precinct 09,State House,9,Democrat,William (Mrk) Mrkvicka,141
+Coos,Precinct 01,State House,9,,Write-ins,1
+Coos,Precinct 02,State House,9,,Write-ins,3
+Coos,Precinct 03,State House,9,,Write-ins,1
+Coos,Precinct 04,State House,9,,Write-ins,3
+Coos,Precinct 05,State House,9,,Write-ins,10
+Coos,Precinct 06,State House,9,,Write-ins,4
+Coos,Precinct 07,State House,9,,Write-ins,5
+Coos,Precinct 08,State House,9,,Write-ins,7
+Coos,Precinct 09,State House,9,,Write-ins,0
 Coos,Precinct 01,Registered Voters,,,,2040
 Coos,Precinct 02,Registered Voters,,,,3615
 Coos,Precinct 03,Registered Voters,,,,4309
