@@ -57,8 +57,8 @@ NAME_OVERRIDES = {
     "sheppard": "Tristan Sheppard",
     "neuman": "Robert Neuman",
     "gomberg": "David Gomberg",
-    "pauljromerojr": "Paul J Romero DeAngelo Jr",
-    "deangeloleroyturner": "Leroy Turner",
+    "pauljromerojr": "Paul J. Romero Jr",
+    "deangeloleroyturner": "DeAngelo Leroy Turner",
 }
 
 # PaddleOCR misread cells on p020's REP Governor grid (an extra cell was
@@ -67,9 +67,9 @@ NAME_OVERRIDES = {
 # Results by Contest" report (2026/sources/2026May19-benton-precinct-results.pdf,
 # REP Governor section, page 19), keyed by precinct then canonical name.
 GOV_R_CELL_FIXES = {
-    "17": {"Brad T Peters": 2, "Paul J Romero DeAngelo Jr": 0},
-    "18": {"Paul J Romero DeAngelo Jr": 3, "Wen Waddell": 0},
-    "19": {"Wen Waddell": 0, "Leroy Turner": 1},
+    "17": {"Brad T Peters": 2, "Paul J. Romero Jr": 0},
+    "18": {"Paul J. Romero Jr": 3, "Wen Waddell": 0},
+    "19": {"Wen Waddell": 0, "DeAngelo Leroy Turner": 1},
     "20": {"Wen Waddell": 0},
 }
 

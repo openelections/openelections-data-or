@@ -61,8 +61,8 @@ GOV_D = ["Forest (Fora) Alexander", "James Atkinson IV", "Cal Kishawi",
          "Miranda Weigler"]
 GOV_R = ["Danielle Bethell", "Hope A Dalrymple", "Ed Diehl", "Christine Drazan",
          "Chris Dudley", "Kyle M Duyck", "David Medina", "Robert Neuman",
-         "Brad T Peters", "Paul J Romero DeAngelo Jr", "Wen Waddell",
-         "Martin Ward", "Tim O Youker", "Leroy Turner"]
+         "Brad T Peters", "Paul J. Romero Jr", "Wen Waddell",
+         "Martin Ward", "Tim O Youker", "DeAngelo Leroy Turner"]
 COA_1 = "Ryan T O'Connor"
 COA_9 = "Jacqueline Kamins"
 COA_12 = "Erin C Lagesen"
@@ -297,7 +297,7 @@ def main():
     single(17, "", "Labor Commissioner", "",
            ["Chris Lynch", "Christina E Stephenson"])
     single(18, "", "Judge of the Supreme Court", "Position 4",
-           ["Christopher Garrett"])
+           ["Christopher L. Garrett"])
     single(21, "", "District Attorney", "", ["David M Goldthorpe"])
 
     # ---- County Commissioner Pos 1 Dem (no candidate filed) -------------
