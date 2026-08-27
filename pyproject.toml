@@ -7,5 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.15.0",
     "natural-pdf>=0.7.0",
+    "paddleocr>=3.7.0",
+    "paddlepaddle>=3.3.1",
     "requests>=2.34.2",
 ]
