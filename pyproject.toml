@@ -11,3 +11,8 @@ dependencies = [
     "paddlepaddle>=3.3.1",
     "requests>=2.34.2",
 ]
+
+[dependency-groups]
+dev = [
+    "pypdf>=6.16.2",
+]

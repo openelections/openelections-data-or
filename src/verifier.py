@@ -67,7 +67,9 @@ class Verifier(object):
 		'County Surveyor', 'Surveyor', 'County Treasurer', 'Justice of the Peace',
 		'County Assessor', 'Assessor',
 		'City Council', 'Mayor', 'Municipal Judge', 'Metro Council President',
+		'Metro Councilor', 'Metro Auditor',
 		'Fire District Director', 'Precinct Committee Person',
+		'Grant County Library District',
 		'Registered Voters', 'Ballots Cast', 'Ballots Cast Blank',
 	])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])

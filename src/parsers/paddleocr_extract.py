@@ -80,9 +80,19 @@ def _submit_job(pdf_path: str, token: str) -> str:
 
 def _poll_job(job_id: str, token: str) -> str:
     headers = {"Authorization": f"bearer {token}"}
+    failures = 0
     while True:
-        r = requests.get(f"{JOB_URL}/{job_id}", headers=headers, timeout=60)
-        r.raise_for_status()
+        try:
+            r = requests.get(f"{JOB_URL}/{job_id}", headers=headers, timeout=120)
+            r.raise_for_status()
+            failures = 0
+        except requests.exceptions.RequestException as e:
+            failures += 1
+            if failures > 10:
+                raise
+            print(f"    paddleocr poll failed ({e}); retrying...", flush=True)
+            time.sleep(POLL_SECONDS * 2)
+            continue
         d = r.json()["data"]
         state = d["state"]
         if state == "done":
@@ -131,6 +141,7 @@ def extract_pages(
 
     print(f"    paddleocr submitting {os.path.basename(pdf_path)} ...", flush=True)
     job_id = _submit_job(pdf_path, token)
+    print(f"    paddleocr job id: {job_id}", flush=True)
     jsonl_url = _poll_job(job_id, token)
     pages = _fetch_pages(jsonl_url)
     for i, raw in enumerate(pages, start=1):

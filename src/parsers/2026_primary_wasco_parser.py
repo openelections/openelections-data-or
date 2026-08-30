@@ -1,29 +1,33 @@
 #!/usr/bin/env python3
 """Build the 2026 Oregon primary precinct-level CSV for Wasco County.
 
-Wasco's PDF uses an ES&S "Statement of Votes Cast, Official Certified with
-Precincts" layout.  The PaddleOCR-VL-1.6 cache stores per-page markdown where
-contests are introduced by markdown headings and candidate results live in
-single-column tables.
+Wasco's certified report is an ES&S "Statement of Votes Cast, Official
+Certified with Precincts" layout. The 2026-06-10 certified edition has an
+embedded text layer, so the PDF is parsed with pdfplumber instead of OCR.
+Each precinct section starts with a "Precinct NN" line and contains one block
+per contest: a heading line, a ballots/turnout line (which carries the
+overvotes and undervotes), candidate rows, then Total/Overvotes/Undervotes
+lines. Multiple "Write-in" rows within one contest are summed into a single
+"Write-ins" row, matching the convention in other Oregon county files.
 
-The parser processes each page in order, carrying the current precinct and
-contest forward so that multi-page contests keep the correct context.  It emits
-rows for every candidate plus separate Over Votes / Under Votes rows.
+Usage:
+    uv run python src/parsers/2026_primary_wasco_parser.py \
+        '/path/to/Wasco.pdf'
 """
 
-import html
-import os
 import re
 import sys
+from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
+
+import pdfplumber
 
 sys.path.insert(0, str(Path(__file__).parent))
 from precinct_2026_common import (
     align_candidates_to_county,
     make_row,
     normalize_office,
-    normalize_party,
     output_path,
     parse_district,
     write_csv,
@@ -31,113 +35,69 @@ from precinct_2026_common import (
 
 COUNTY_NAME = "Wasco"
 COUNTY_CSV = "2026/20260519__or__primary__county.csv"
-CACHE_DIR = Path("/Users/dwillis/code/openelections-data-or/.paddleocr_cache/Wasco")
 
-VOTE_FOR_RE = re.compile(r"\(Vote\s+For\s+\d+\)", re.IGNORECASE)
-PRECINCT_RE = re.compile(r"^##\s+Precinct\s+(\d+)\b", re.IGNORECASE)
-META_RE = re.compile(
-    r"Statement of Votes Cast|Page:\s*\d+|Total Ballots Cast|Registered Voters|"
-    r"Overall Turnout|All Precincts|All Districts|All Counter|All ScanStations|"
-    r"May \d+,\s*2026 Primary Election|Wasco County,\s*OR|Choice\s+Votes\s+Vote\s*%|"
-    r"^\d+\s+ballots\s+\(",
+VOTE_FOR_RE = re.compile(r"\(Vote\s+For\s+(\d+)\)", re.IGNORECASE)
+PRECINCT_RE = re.compile(r"^Precinct\s+(\d+)\s*$", re.IGNORECASE)
+BOILERPLATE_RE = re.compile(
+    r"^("
+    r"Statement of Votes Cast|Wasco County, OR|All Precincts|"
+    r"Total Ballots Cast:|Choice Votes Vote %"
+    r")",
+    re.IGNORECASE,
+)
+BALLOTS_RE = re.compile(
+    r"^(\d+)\s+ballots\s+\((\d+)\s+over voted ballots,\s*(\d+)\s+overvotes,\s*"
+    r"(\d+)\s+undervotes\)",
+    re.IGNORECASE,
+)
+TOTAL_RE = re.compile(r"^Total\s+\d[\d,]*\s+[\d.]+%\s*$", re.IGNORECASE)
+OVERUNDER_RE = re.compile(r"^(Overvotes|Undervotes)\s+(\d[\d,]*)\s*$", re.IGNORECASE)
+CANDIDATE_RE = re.compile(r"^(?P<name>.+?)\s+(?P<votes>\d[\d,]*)\s+(?P<pct>\d+(?:\.\d+)?%)\s*$")
+PCP_RE = re.compile(
+    r"^Precinct Committee Person\s+-\s+(?:Democrat|Republican)\s+-\s+(.+?)\s*"
+    r"\((?:DEM|REP)\)",
     re.IGNORECASE,
 )
 
 
-def _clean_text(text: str) -> str:
-    """Remove HTML tags, unescape entities, and collapse whitespace."""
-    text = re.sub(r"<[^>]+>", " ", text)
-    text = html.unescape(text)
-    text = re.sub(r"\s+", " ", text)
-    return text.strip()
-
-
-def _looks_like_heading(line: str) -> bool:
-    """Return True if *line* is a precinct or contest heading."""
-    if PRECINCT_RE.match(line):
-        return True
-    if VOTE_FOR_RE.search(line):
-        return True
-    if re.search(r"\bMeasure\b", line, re.IGNORECASE):
-        return True
-    if normalize_office(line):
-        return True
-    if re.search(
-        r"\b(District Attorney|Judge of|County Commissioner|Justice of the Peace|"
-        r"Precinct Committee Person|Commissioner,\s*Position)\b",
-        line,
-        re.IGNORECASE,
-    ):
-        return True
-    return False
-
-
-def _is_meta_line(line: str) -> bool:
-    """Return True for page header / ballot-count boilerplate lines."""
-    if not line:
-        return True
-    if META_RE.search(line):
-        return True
-    return False
-
-
 def _extract_party(text: str) -> str:
-    """Return D/R for Wasco party markers, including OCR misreads."""
-    # Look for explicit (DEM)/(REP) labels first.
-    pm = re.search(r"\((DEM|REP|DFM)\)", text, re.IGNORECASE)
+    pm = re.search(r"\((DEM|REP)\)", text, re.IGNORECASE)
     if pm:
-        code = pm.group(1).upper()
-        if code in {"DEM", "DFM"}:
-            return "D"
-        if code == "REP":
-            return "R"
-    # Fallback to bare DEM/REP tokens.
-    if re.search(r"\bDEM\b", text, re.IGNORECASE) or re.search(r"\bDFM\b", text, re.IGNORECASE):
-        return "D"
-    if re.search(r"\bREP\b", text, re.IGNORECASE):
-        return "R"
+        return "D" if pm.group(1).upper() == "DEM" else "R"
     return ""
 
 
-def _parse_contest_heading(line: str) -> Tuple[str, str, str]:
+def _parse_contest_heading(line: str) -> Optional[Tuple[str, str, str]]:
     """Return (office, district, party) for a contest heading line."""
-    line = _clean_text(line)
     line = VOTE_FOR_RE.sub("", line).strip(" -,:")
 
     party = _extract_party(line)
-
-    # Strip party markers from the office-detection string.
-    detect = re.sub(r"\((DEM|REP|DFM)\)", "", line, flags=re.IGNORECASE).strip(" -,:")
+    detect = re.sub(r"\((DEM|REP)\)", "", line, flags=re.IGNORECASE).strip(" -,:")
     detect = re.sub(r"\b(Democrat|Republican)\b", "", detect, flags=re.IGNORECASE).strip(" -,:")
+
+    if PCP_RE.match(line):
+        return "Precinct Committee Person", "", party
 
     office = normalize_office(detect)
     district = parse_district(detect)
 
     if office is None:
-        m = re.search(r"(State\s+)?Measure\s+\d+", detect, re.IGNORECASE)
-        if m:
-            office = m.group(0).title()
-        elif re.search(r"\bPrecinct\s+Committee\s+Person\b", detect, re.IGNORECASE):
-            office = "Precinct Committee Person"
-            # District can be the precinct area named in the heading.
-            m = re.search(r"-\s*(?:Democrat|Republican)\s*-\s*(.+?)(?:\s*\(|$)", detect, re.IGNORECASE)
-            if m:
-                district = m.group(1).strip()
-        elif re.search(r"\bCounty\s+Commissioner\b", detect, re.IGNORECASE):
+        if re.search(r"^Commissioner,\s*Position\b", detect, re.IGNORECASE):
             office = "County Commissioner"
-            m = re.search(r"Position\s+(\d+)", detect, re.IGNORECASE)
-            if m:
-                district = m.group(1)
-        elif re.search(r"\bCommissioner,\s*Position\b", detect, re.IGNORECASE):
-            office = "County Commissioner"
-            m = re.search(r"Position\s+(\d+)", detect, re.IGNORECASE)
-            if m:
-                district = m.group(1)
+            pm = re.search(r"Position\s+(\d+)", detect, re.IGNORECASE)
+            district = pm.group(1) if pm else ""
         else:
-            office = detect
+            m = re.search(r"(?:State\s+)?Measure\s+(\S+)", detect, re.IGNORECASE)
+            if m:
+                office = f"Measure {m.group(1).rstrip(':,')}"
+                district = ""
+            else:
+                office = detect
+                district = ""
 
-    if office is None:
-        office = ""
+    if office.startswith("Measure"):
+        party = ""
+
     return office, district, party
 
 
@@ -151,15 +111,15 @@ def _normalize_candidate(text: str) -> Optional[str]:
         return None
     if "write-in" in low or "write in" in low:
         return "Write-ins"
-    if low in {"overvotes", "over votes", "overvoted", "overtotes", "over votes"}:
-        return "Over Votes"
-    if low in {"undervotes", "under votes", "undervoted"}:
-        return "Under Votes"
     if low == "yes":
         return "Yes"
     if low == "no":
         return "No"
-    return text
+    # Add periods to bare middle initials ("Robb E Van Cleave" ->
+    # "Robb E. Van Cleave") so names match the county-level CSV style.
+    parts = text.split()
+    parts = [p + "." if re.fullmatch(r"[A-Z]", p) else p for p in parts]
+    return " ".join(parts)
 
 
 def _parse_vote(text: str) -> Optional[int]:
@@ -169,113 +129,93 @@ def _parse_vote(text: str) -> Optional[int]:
     return None
 
 
-def _expand_table(table_html: str) -> List[List[str]]:
-    """Convert a <table> block into a grid of plain-text cell values."""
-    rows: List[List[str]] = []
-    for tr in re.findall(r"<tr[^>]*>(.*?)</tr>", table_html, flags=re.S | re.I):
-        cells = re.findall(r"<td[^>]*>(.*?)</td>", tr, flags=re.S | re.I)
-        cells = [_clean_text(re.sub(r"<[^>]+>", " ", c)) for c in cells]
-        rows.append(cells)
-    return rows
-
-
-def _extract_headings(text: str) -> List[str]:
-    """Return heading lines found in a plain-text page segment."""
-    headings: List[str] = []
-    for raw_line in text.splitlines():
-        # Strip HTML tags and collapse whitespace inside the line, but keep
-        # lines separate so markdown headings are not joined together.
-        line = _clean_text(raw_line)
-        if not line:
-            continue
-        if _is_meta_line(line):
-            continue
-        if _looks_like_heading(line):
-            headings.append(line)
-    return headings
-
-
-def _parse_page(
-    md: str,
-    current_precinct: str,
-    current_office: str,
-    current_district: str,
-    current_party: str,
-) -> Tuple[List[Dict[str, str]], str, str, str, str]:
-    """Parse one page of markdown and return rows plus updated state."""
-    rows: List[Dict[str, str]] = []
-    precinct = current_precinct
-    office, district, party = current_office, current_district, current_party
-
-    table_re = re.compile(r"<table\b.*?</table>", re.S | re.I)
-    prev_end = 0
-    for m in table_re.finditer(md):
-        context = md[prev_end : m.start()]
-        for heading in _extract_headings(context):
-            pm = PRECINCT_RE.match(heading)
-            if pm:
-                precinct = pm.group(1)
-                # Reset contest when a new precinct starts.
-                office, district, party = "", "", ""
-            else:
-                office, district, party = _parse_contest_heading(heading)
-
-        table_html = m.group(0)
-        prev_end = m.end()
-
-        # Skip tables that appear before the first precinct heading (countywide summary).
-        if not precinct:
-            continue
-
-        grid = _expand_table(table_html)
-        for row in grid:
-            if len(row) < 2:
-                continue
-            candidate = _normalize_candidate(row[0])
-            if candidate is None:
-                continue
-            votes = _parse_vote(row[1])
-            if votes is None:
-                continue
-
-            use_office = office
-            use_district = district
-            use_party = party
-            if use_office.startswith("Measure"):
-                use_party = ""
-
-            rows.append(
-                make_row(
-                    county=COUNTY_NAME,
-                    precinct=precinct,
-                    office=use_office,
-                    district=use_district,
-                    party=use_party,
-                    candidate=candidate,
-                    votes=votes,
-                )
-            )
-
-    return rows, precinct, office, district, party
-
-
-def parse_wasco(cache_dir: Path = CACHE_DIR) -> List[Dict[str, str]]:
-    """Parse all cached Wasco pages into precinct-level CSV rows."""
-    rows: List[Dict[str, str]] = []
+def parse_wasco(pdf_path: str) -> List[Dict[str, str]]:
+    """Parse the Wasco SOVC PDF into precinct-level CSV rows."""
+    rows: Dict[Tuple[str, str, str, str, str], int] = defaultdict(int)
     precinct = ""
     office = district = party = ""
 
-    for page_path in sorted(cache_dir.glob("p*.md")):
-        page_rows, precinct, office, district, party = _parse_page(
-            page_path.read_text(), precinct, office, district, party
-        )
-        rows.extend(page_rows)
+    with pdfplumber.open(pdf_path) as pdf:
+        for page in pdf.pages:
+            for raw_line in (page.extract_text() or "").splitlines():
+                line = raw_line.strip()
+                if not line:
+                    continue
 
-    return rows
+                # A bare "All Precincts" line starts the countywide summary
+                # section at the end of the report; skip it and everything
+                # after it (no precinct heading intervenes).  This must be
+                # checked before the boilerplate rule, which also matches.
+                if line == "All Precincts":
+                    precinct = ""
+                    continue
+
+                if BOILERPLATE_RE.match(line):
+                    continue
+
+                pm = PRECINCT_RE.match(line)
+                if pm:
+                    precinct = pm.group(1)
+                    continue
+
+                # A bare "All Precincts" line starts the countywide summary
+                # section at the end of the report; skip it and everything
+                # after it (no precinct heading intervenes).
+                if line == "All Precincts":
+                    precinct = ""
+                    continue
+
+                if VOTE_FOR_RE.search(line):
+                    contest = _parse_contest_heading(line)
+                    if contest is None:
+                        continue
+                    office, district, party = contest
+                    continue
+
+                if not precinct:
+                    continue
+
+                bm = BALLOTS_RE.match(line)
+                if bm:
+                    over, under = int(bm.group(3)), int(bm.group(4))
+                    if over or under:
+                        rows[(precinct, office, district, party, "Over Votes")] += over
+                        rows[(precinct, office, district, party, "Under Votes")] += under
+                    continue
+
+                if TOTAL_RE.match(line) or OVERUNDER_RE.match(line):
+                    continue
+
+                cm = CANDIDATE_RE.match(line)
+                if cm:
+                    candidate = _normalize_candidate(cm.group("name"))
+                    votes = _parse_vote(cm.group("votes"))
+                    if candidate and votes is not None:
+                        rows[(precinct, office, district, party, candidate)] += votes
+                    continue
+
+    return [
+        make_row(
+            county=COUNTY_NAME,
+            precinct=prec,
+            office=office,
+            district=district,
+            party=party,
+            candidate=candidate,
+            votes=votes,
+        )
+        for (prec, office, district, party, candidate), votes in sorted(rows.items())
+    ]
 
 
 def main() -> None:
-    rows = parse_wasco()
+    if len(sys.argv) != 2:
+        print(
+            "Usage: uv run python src/parsers/2026_primary_wasco_parser.py "
+            "'/path/to/Wasco.pdf'"
+        )
+        sys.exit(1)
+    rows = parse_wasco(sys.argv[1])
     rows = align_candidates_to_county(rows, COUNTY_CSV, COUNTY_NAME, tolerance=5)
     out = output_path(COUNTY_NAME)
     write_csv(rows, out)

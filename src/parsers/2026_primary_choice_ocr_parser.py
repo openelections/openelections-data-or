@@ -40,7 +40,7 @@ from precinct_2026_common import (  # noqa: E402
 VOTE_FOR_RE = re.compile(r"\(\s*Vote\s+for\s+\d+\s*\)", re.IGNORECASE)
 BALLOTS_RE = re.compile(r"(\d[\d,]*)\s+ballots", re.IGNORECASE)
 REG_VOTERS_RE = re.compile(r"(\d[\d,]*)\s+registered\s+voters", re.IGNORECASE)
-PCP_RE = re.compile(r"prec(inct)?\s+committe(e|\s+)?person", re.IGNORECASE)
+PCP_RE = re.compile(r"prec(inct)?\s+committee?\s*person", re.IGNORECASE)
 PRECINCT_RE = re.compile(r"precinct\s+(\d+)", re.IGNORECASE)
 ALL_PRECINCTS_RE = re.compile(r"^\s*all\s+precincts\s*$", re.IGNORECASE)
 
@@ -61,6 +61,8 @@ _EXTRA_OFFICE_MAP = {
     "district attorney": "District Attorney",
     "county commissioner": "County Commissioner",
     "county clerk": "County Clerk",
+    "assessor": "Assessor",
+    "county assessor": "Assessor",
 }
 
 # Measure identifiers in OCR text.
@@ -68,6 +70,23 @@ MEASURE_ID_RE = re.compile(r"\bM\s*(\d+)[A-Z]?\b", re.IGNORECASE)
 LOCAL_MEASURE_RE = re.compile(r"\b(\d+-\d+)\b")
 
 PSEUDO_CANDIDATES = {"Write-ins", "Over Votes", "Under Votes"}
+
+# OCR name fixes: map mangled names to canonical names.
+_OCR_NAME_FIXES = {
+    "Vikki Breese-lverson": "Vikki Breese-Iverson",
+    "Vikki Breese lverson": "Vikki Breese-Iverson",
+    "Vikki Breese Iverson": "Vikki Breese-Iverson",
+    "Forest (Fora) Alexandre": "Forest (Fora) Alexander",
+    "Forest (Fora) Alexandər": "Forest (Fora) Alexander",
+    "James Atkirson IV": "James Atkinson IV",
+    "Donnie M. Backwith": "Donnie M. Beckwith",
+    "Donnie M Backwith": "Donnie M. Beckwith",
+    "Martin Warc": "Martin Ward",
+    "DeAngelo Laroy Turner": "DeAngelo Leroy Turner",
+    "DeAngelo Leroy Tumer": "DeAngelo Leroy Turner",
+    "DeAngelo Leroy Turne $ ^{{*}} $": "DeAngelo Leroy Turner",
+    "Cliff Bents": "Cliff Bentz",
+}
 
 
 def _clean_text(text: str) -> str:
@@ -131,8 +150,14 @@ def _extract_tables_with_positions(md: str) -> List[Tuple[int, List[List[str]]]]
 
 
 def _is_page_header_table(grid: List[List[str]]) -> bool:
-    """True for the page-level summary table at the top of every page."""
-    if not grid:
+    """True for the page-level summary table at the top of every page.
+
+    Only matches small tables (≤8 rows) whose text contains the standard
+    page-header keywords.  Mega-tables where OCR merged the page header
+    with contest data into a single <table> are intentionally NOT matched
+    so their contest data is processed normally.
+    """
+    if not grid or len(grid) > 8:
         return False
     flat = " ".join(c for row in grid for c in row).lower()
     return (
@@ -151,12 +176,21 @@ def _is_choice_header_table(grid: List[List[str]]) -> bool:
 
 
 def _extract_precinct_from_label_table(grid: List[List[str]]) -> Optional[str]:
-    """Return the precinct number from a Choice/Votes/Vote% label table, if any."""
+    """Return the precinct number from a small Choice/Votes/Vote% label table.
+
+    Only match tables with ≤6 rows to avoid matching PCP headers
+    (e.g. "Precinct Committee Person - PRECINCT 12") deep inside
+    large data tables.
+    """
+    if len(grid) > 6:
+        return None
     for row in grid[1:]:
         if not row:
             continue
         for cell in row:
             cell = cell.strip()
+            if _is_pcp_header(cell):
+                continue
             m = PRECINCT_RE.search(cell)
             if m:
                 return f"Precinct {m.group(1).lstrip('0') or '0'}"
@@ -265,9 +299,14 @@ def _parse_contest_header(text: str) -> Tuple[Optional[str], str, str]:
         if m:
             party = normalize_party(m.group(1))
 
+    # "Question N-NNN" format used in some counties.
+    qm = re.match(r"question\s+(\d+-\d+)", text, re.IGNORECASE)
+    if qm:
+        return f"Measure {qm.group(1)}", "", ""
+
     # Local measures like "6-228 City of ...".
     lm = LOCAL_MEASURE_RE.search(text)
-    if lm and "vote for" in text.lower():
+    if lm:
         return f"Measure {lm.group(1)}", "", ""
 
     # State measures like "M120 Transportation Tax".
@@ -291,6 +330,12 @@ def _parse_contest_header(text: str) -> Tuple[Optional[str], str, str]:
 
 def _classify_candidate(name: str) -> Optional[str]:
     low = name.lower().replace("-", " ")
+    # OCR sometimes merges a candidate name with "Write-in" in one cell.
+    # Strip trailing "Write-in" before checking, unless the whole cell is "Write-in".
+    stripped = re.sub(r"\s+Write[\s-]*in\s*$", "", name, flags=re.IGNORECASE).strip()
+    if stripped and stripped.lower() != name.lower().strip():
+        name = stripped
+        low = name.lower().replace("-", " ")
     if "write" in low and "in" in low:
         return "Write-ins"
     if low in {
@@ -314,7 +359,8 @@ def _classify_candidate(name: str) -> Optional[str]:
         return "Under Votes"
     if low == "total" or low.startswith("total "):
         return None
-    return format_candidate_name(name.split())
+    result = format_candidate_name(name.split())
+    return _OCR_NAME_FIXES.get(result, result)
 
 
 def _parse_metadata(text: str) -> Tuple[Optional[int], Optional[int]]:
@@ -367,8 +413,6 @@ def _update_contest_from_header(
     """Update state from a contest/PCP/precinct header; return True if state changed."""
     raw = header_text.strip()
     if _is_pcp_header(raw):
-        if "RURAL COQUILLE" in raw or "MYRTLE POINT" in raw:
-            print(f"PCP_HEADER matched: {raw[:80]}")
         state["office"] = None
         state["pcp_active"] = "true"
         return True
@@ -475,9 +519,6 @@ def _process_table_rows(
         if not office:
             continue
 
-        if candidate in {"Mary Graham", "Amanda J. Hawker", "Ivan H. Hawker"}:
-            print(f"EMIT {candidate} office={office} district={district} party={party} precinct={state['precinct']} pcp_active={state.get('pcp_active')} header={state.get('header_text')}")
-
         rows.append(
             make_row(
                 county=county,
@@ -535,7 +576,7 @@ def _extract_headers_with_positions(md: str) -> List[Tuple[int, str]]:
     blanked = html.unescape(blanked)
 
     # Markdown headings.
-    for m in re.finditer(r"^\s*#{1,6}\s+(.*?)$", blanked, flags=re.M):
+    for m in re.finditer(r"^[ \t]*#{1,6}\s+(.*?)$", blanked, flags=re.M):
         headers.append((m.start(), m.group(1).strip()))
 
     # Plain-text lines outside tables/divs.
@@ -667,7 +708,6 @@ def _parse_county(pdf_path: str, county_name: str) -> List[Dict[str, str]]:
     ocr_map = _build_ocr_candidate_map(pdf_path, county_name)
     # County CSV (statewide offices) takes precedence; OCR map fills gaps.
     candidate_map = {**ocr_map, **county_map}
-
     rows: List[Dict[str, str]] = []
     contest_sums: Dict[Tuple[str, str, str, str], int] = {}
     state: Dict[str, Optional[str]] = {
@@ -795,7 +835,7 @@ def _align_rows(
 ) -> List[Dict[str, str]]:
     """Align parsed names to the county CSV, except Governor and write-ins."""
     gov = [r for r in rows if r["office"] == "Governor"]
-    writeins = [r for r in rows if r["candidate"] == "Write-ins"]
+    writeins = [r for r in rows if r["candidate"] == "Write-ins" and r["office"] != "Governor"]
     rest = [
         r
         for r in rows
