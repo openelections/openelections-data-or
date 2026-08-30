@@ -1,461 +1,2072 @@
 county,precinct,office,district,party,candidate,votes
-Crook,Precinct 1,Ballots Cast,,,,57
-Crook,Precinct 3,Ballots Cast,,,,42
-Crook,Precinct 5,Ballots Cast,,,,241
-Crook,Precinct 3,County Commissioner,Position 2,,Jeff Merkley,67
-Crook,Precinct 5,County Commissioner,Position 2,,Jeff Merkley,1406
-Crook,Precinct 1,County Commissioner,Position 2,,Julie Thompson,170
-Crook,Precinct 3,County Commissioner,Position 2,,Julie Thompson,445
-Crook,Precinct 5,County Commissioner,Position 2,,Julie Thompson,6397
-Crook,Precinct 1,County Commissioner,Position 2,,No,489
-Crook,Precinct 3,County Commissioner,Position 2,,No,880
-Crook,Precinct 5,County Commissioner,Position 2,,No,17747
-Crook,Precinct 1,County Commissioner,Position 2,,Over Votes,8
-Crook,Precinct 3,County Commissioner,Position 2,,Over Votes,8
-Crook,Precinct 5,County Commissioner,Position 2,,Over Votes,88
-Crook,Precinct 3,County Commissioner,Position 2,,Paul Damian Wells,15
-Crook,Precinct 5,County Commissioner,Position 2,,Paul Damian Wells,203
-Crook,Precinct 1,County Commissioner,Position 2,,Rick Steber,202
-Crook,Precinct 3,County Commissioner,Position 2,,Rick Steber,322
-Crook,Precinct 5,County Commissioner,Position 2,,Rick Steber,7168
-Crook,Precinct 1,County Commissioner,Position 2,,Under Votes,61
-Crook,Precinct 3,County Commissioner,Position 2,,Under Votes,107
-Crook,Precinct 5,County Commissioner,Position 2,,Under Votes,2421
-Crook,Precinct 1,County Commissioner,Position 2,,Write-ins,3
-Crook,Precinct 3,County Commissioner,Position 2,,Write-ins,4
-Crook,Precinct 5,County Commissioner,Position 2,,Write-ins,99
-Crook,Precinct 1,County Commissioner,Position 2,,Yes,30
-Crook,Precinct 3,County Commissioner,Position 2,,Yes,37
-Crook,Precinct 5,County Commissioner,Position 2,,Yes,928
-Crook,Precinct 1,County Commissioner,Position 2,,Zach Berger,105
-Crook,Precinct 3,County Commissioner,Position 2,,Zach Berger,105
-Crook,Precinct 5,County Commissioner,Position 2,,Zach Berger,3300
-Crook,Precinct 1,District Attorney,,,Jon Soliz,353
-Crook,Precinct 3,District Attorney,,,Jon Soliz,470
-Crook,Precinct 5,District Attorney,,,Jon Soliz,10624
-Crook,Precinct 1,District Attorney,,,Kari Hathom,148
-Crook,Precinct 5,District Attorney,,,Kari Hathom,87
+Crook,Precinct 1,County Assessor,,,Jon Soliz,192
+Crook,Precinct 10,County Assessor,,,Jon Soliz,160
+Crook,Precinct 11,County Assessor,,,Jon Soliz,957
+Crook,Precinct 12,County Assessor,,,Jon Soliz,45
+Crook,Precinct 13,County Assessor,,,Jon Soliz,329
+Crook,Precinct 14,County Assessor,,,Jon Soliz,141
+Crook,Precinct 15,County Assessor,,,Jon Soliz,460
+Crook,Precinct 16,County Assessor,,,Jon Soliz,243
+Crook,Precinct 17,County Assessor,,,Jon Soliz,1094
+Crook,Precinct 2,County Assessor,,,Jon Soliz,161
+Crook,Precinct 3,County Assessor,,,Jon Soliz,83
+Crook,Precinct 4,County Assessor,,,Jon Soliz,470
+Crook,Precinct 5,County Assessor,,,Jon Soliz,872
+Crook,Precinct 6,County Assessor,,,Jon Soliz,311
+Crook,Precinct 7,County Assessor,,,Jon Soliz,104
+Crook,Precinct 8,County Assessor,,,Jon Soliz,178
+Crook,Precinct 9,County Assessor,,,Jon Soliz,54
+Crook,Precinct 1,County Assessor,,,Over Votes,0
+Crook,Precinct 10,County Assessor,,,Over Votes,0
+Crook,Precinct 11,County Assessor,,,Over Votes,0
+Crook,Precinct 12,County Assessor,,,Over Votes,0
+Crook,Precinct 13,County Assessor,,,Over Votes,0
+Crook,Precinct 14,County Assessor,,,Over Votes,0
+Crook,Precinct 15,County Assessor,,,Over Votes,0
+Crook,Precinct 16,County Assessor,,,Over Votes,0
+Crook,Precinct 17,County Assessor,,,Over Votes,0
+Crook,Precinct 2,County Assessor,,,Over Votes,0
+Crook,Precinct 3,County Assessor,,,Over Votes,0
+Crook,Precinct 4,County Assessor,,,Over Votes,0
+Crook,Precinct 5,County Assessor,,,Over Votes,0
+Crook,Precinct 6,County Assessor,,,Over Votes,0
+Crook,Precinct 7,County Assessor,,,Over Votes,0
+Crook,Precinct 8,County Assessor,,,Over Votes,0
+Crook,Precinct 9,County Assessor,,,Over Votes,0
+Crook,Precinct 1,County Assessor,,,Under Votes,110
+Crook,Precinct 10,County Assessor,,,Under Votes,81
+Crook,Precinct 11,County Assessor,,,Under Votes,779
+Crook,Precinct 12,County Assessor,,,Under Votes,44
+Crook,Precinct 13,County Assessor,,,Under Votes,185
+Crook,Precinct 14,County Assessor,,,Under Votes,101
+Crook,Precinct 15,County Assessor,,,Under Votes,379
+Crook,Precinct 16,County Assessor,,,Under Votes,176
+Crook,Precinct 17,County Assessor,,,Under Votes,912
+Crook,Precinct 2,County Assessor,,,Under Votes,66
+Crook,Precinct 3,County Assessor,,,Under Votes,54
+Crook,Precinct 4,County Assessor,,,Under Votes,339
+Crook,Precinct 5,County Assessor,,,Under Votes,622
+Crook,Precinct 6,County Assessor,,,Under Votes,206
+Crook,Precinct 7,County Assessor,,,Under Votes,96
+Crook,Precinct 8,County Assessor,,,Under Votes,158
+Crook,Precinct 9,County Assessor,,,Under Votes,49
+Crook,Precinct 1,County Assessor,,,Write-ins,3
+Crook,Precinct 10,County Assessor,,,Write-ins,2
+Crook,Precinct 11,County Assessor,,,Write-ins,13
+Crook,Precinct 12,County Assessor,,,Write-ins,1
+Crook,Precinct 13,County Assessor,,,Write-ins,4
+Crook,Precinct 14,County Assessor,,,Write-ins,4
+Crook,Precinct 15,County Assessor,,,Write-ins,20
+Crook,Precinct 16,County Assessor,,,Write-ins,10
+Crook,Precinct 17,County Assessor,,,Write-ins,24
+Crook,Precinct 2,County Assessor,,,Write-ins,2
+Crook,Precinct 3,County Assessor,,,Write-ins,0
+Crook,Precinct 4,County Assessor,,,Write-ins,4
+Crook,Precinct 5,County Assessor,,,Write-ins,11
+Crook,Precinct 6,County Assessor,,,Write-ins,3
+Crook,Precinct 7,County Assessor,,,Write-ins,1
+Crook,Precinct 8,County Assessor,,,Write-ins,2
+Crook,Precinct 9,County Assessor,,,Write-ins,4
+Crook,Precinct 1,County Commissioner,Position 2,,Julie Thompson,99
+Crook,Precinct 10,County Commissioner,Position 2,,Julie Thompson,86
+Crook,Precinct 11,County Commissioner,Position 2,,Julie Thompson,571
+Crook,Precinct 12,County Commissioner,Position 2,,Julie Thompson,21
+Crook,Precinct 13,County Commissioner,Position 2,,Julie Thompson,192
+Crook,Precinct 14,County Commissioner,Position 2,,Julie Thompson,67
+Crook,Precinct 15,County Commissioner,Position 2,,Julie Thompson,275
+Crook,Precinct 16,County Commissioner,Position 2,,Julie Thompson,132
+Crook,Precinct 17,County Commissioner,Position 2,,Julie Thompson,588
+Crook,Precinct 2,County Commissioner,Position 2,,Julie Thompson,71
+Crook,Precinct 3,County Commissioner,Position 2,,Julie Thompson,50
+Crook,Precinct 4,County Commissioner,Position 2,,Julie Thompson,395
+Crook,Precinct 5,County Commissioner,Position 2,,Julie Thompson,561
+Crook,Precinct 6,County Commissioner,Position 2,,Julie Thompson,187
+Crook,Precinct 7,County Commissioner,Position 2,,Julie Thompson,63
+Crook,Precinct 8,County Commissioner,Position 2,,Julie Thompson,102
+Crook,Precinct 9,County Commissioner,Position 2,,Julie Thompson,46
+Crook,Precinct 1,County Commissioner,Position 2,,Over Votes,3
+Crook,Precinct 10,County Commissioner,Position 2,,Over Votes,2
+Crook,Precinct 11,County Commissioner,Position 2,,Over Votes,9
+Crook,Precinct 12,County Commissioner,Position 2,,Over Votes,0
+Crook,Precinct 13,County Commissioner,Position 2,,Over Votes,1
+Crook,Precinct 14,County Commissioner,Position 2,,Over Votes,1
+Crook,Precinct 15,County Commissioner,Position 2,,Over Votes,3
+Crook,Precinct 16,County Commissioner,Position 2,,Over Votes,0
+Crook,Precinct 17,County Commissioner,Position 2,,Over Votes,11
+Crook,Precinct 2,County Commissioner,Position 2,,Over Votes,5
+Crook,Precinct 3,County Commissioner,Position 2,,Over Votes,2
+Crook,Precinct 4,County Commissioner,Position 2,,Over Votes,6
+Crook,Precinct 5,County Commissioner,Position 2,,Over Votes,12
+Crook,Precinct 6,County Commissioner,Position 2,,Over Votes,1
+Crook,Precinct 7,County Commissioner,Position 2,,Over Votes,0
+Crook,Precinct 8,County Commissioner,Position 2,,Over Votes,2
+Crook,Precinct 9,County Commissioner,Position 2,,Over Votes,0
+Crook,Precinct 1,County Commissioner,Position 2,,Rick Steber,103
+Crook,Precinct 10,County Commissioner,Position 2,,Rick Steber,95
+Crook,Precinct 11,County Commissioner,Position 2,,Rick Steber,572
+Crook,Precinct 12,County Commissioner,Position 2,,Rick Steber,33
+Crook,Precinct 13,County Commissioner,Position 2,,Rick Steber,212
+Crook,Precinct 14,County Commissioner,Position 2,,Rick Steber,100
+Crook,Precinct 15,County Commissioner,Position 2,,Rick Steber,329
+Crook,Precinct 16,County Commissioner,Position 2,,Rick Steber,193
+Crook,Precinct 17,County Commissioner,Position 2,,Rick Steber,875
+Crook,Precinct 2,County Commissioner,Position 2,,Rick Steber,99
+Crook,Precinct 3,County Commissioner,Position 2,,Rick Steber,58
+Crook,Precinct 4,County Commissioner,Position 2,,Rick Steber,264
+Crook,Precinct 5,County Commissioner,Position 2,,Rick Steber,509
+Crook,Precinct 6,County Commissioner,Position 2,,Rick Steber,159
+Crook,Precinct 7,County Commissioner,Position 2,,Rick Steber,84
+Crook,Precinct 8,County Commissioner,Position 2,,Rick Steber,118
+Crook,Precinct 9,County Commissioner,Position 2,,Rick Steber,43
+Crook,Precinct 1,County Commissioner,Position 2,,Under Votes,23
+Crook,Precinct 10,County Commissioner,Position 2,,Under Votes,19
+Crook,Precinct 11,County Commissioner,Position 2,,Under Votes,239
+Crook,Precinct 12,County Commissioner,Position 2,,Under Votes,23
+Crook,Precinct 13,County Commissioner,Position 2,,Under Votes,47
+Crook,Precinct 14,County Commissioner,Position 2,,Under Votes,27
+Crook,Precinct 15,County Commissioner,Position 2,,Under Votes,89
+Crook,Precinct 16,County Commissioner,Position 2,,Under Votes,35
+Crook,Precinct 17,County Commissioner,Position 2,,Under Votes,242
+Crook,Precinct 2,County Commissioner,Position 2,,Under Votes,23
+Crook,Precinct 3,County Commissioner,Position 2,,Under Votes,13
+Crook,Precinct 4,County Commissioner,Position 2,,Under Votes,56
+Crook,Precinct 5,County Commissioner,Position 2,,Under Votes,143
+Crook,Precinct 6,County Commissioner,Position 2,,Under Votes,60
+Crook,Precinct 7,County Commissioner,Position 2,,Under Votes,21
+Crook,Precinct 8,County Commissioner,Position 2,,Under Votes,47
+Crook,Precinct 9,County Commissioner,Position 2,,Under Votes,9
+Crook,Precinct 1,County Commissioner,Position 2,,Write-ins,2
+Crook,Precinct 10,County Commissioner,Position 2,,Write-ins,2
+Crook,Precinct 11,County Commissioner,Position 2,,Write-ins,1
+Crook,Precinct 12,County Commissioner,Position 2,,Write-ins,0
+Crook,Precinct 13,County Commissioner,Position 2,,Write-ins,2
+Crook,Precinct 14,County Commissioner,Position 2,,Write-ins,1
+Crook,Precinct 15,County Commissioner,Position 2,,Write-ins,5
+Crook,Precinct 16,County Commissioner,Position 2,,Write-ins,2
+Crook,Precinct 17,County Commissioner,Position 2,,Write-ins,9
+Crook,Precinct 2,County Commissioner,Position 2,,Write-ins,1
+Crook,Precinct 3,County Commissioner,Position 2,,Write-ins,0
+Crook,Precinct 4,County Commissioner,Position 2,,Write-ins,1
+Crook,Precinct 5,County Commissioner,Position 2,,Write-ins,6
+Crook,Precinct 6,County Commissioner,Position 2,,Write-ins,4
+Crook,Precinct 7,County Commissioner,Position 2,,Write-ins,2
+Crook,Precinct 8,County Commissioner,Position 2,,Write-ins,0
+Crook,Precinct 9,County Commissioner,Position 2,,Write-ins,0
+Crook,Precinct 1,County Commissioner,Position 2,,Zach Berger,75
+Crook,Precinct 10,County Commissioner,Position 2,,Zach Berger,39
+Crook,Precinct 11,County Commissioner,Position 2,,Zach Berger,357
+Crook,Precinct 12,County Commissioner,Position 2,,Zach Berger,13
+Crook,Precinct 13,County Commissioner,Position 2,,Zach Berger,64
+Crook,Precinct 14,County Commissioner,Position 2,,Zach Berger,50
+Crook,Precinct 15,County Commissioner,Position 2,,Zach Berger,158
+Crook,Precinct 16,County Commissioner,Position 2,,Zach Berger,67
+Crook,Precinct 17,County Commissioner,Position 2,,Zach Berger,305
+Crook,Precinct 2,County Commissioner,Position 2,,Zach Berger,30
+Crook,Precinct 3,County Commissioner,Position 2,,Zach Berger,14
+Crook,Precinct 4,County Commissioner,Position 2,,Zach Berger,91
+Crook,Precinct 5,County Commissioner,Position 2,,Zach Berger,274
+Crook,Precinct 6,County Commissioner,Position 2,,Zach Berger,109
+Crook,Precinct 7,County Commissioner,Position 2,,Zach Berger,31
+Crook,Precinct 8,County Commissioner,Position 2,,Zach Berger,69
+Crook,Precinct 9,County Commissioner,Position 2,,Zach Berger,9
 Crook,Precinct 1,District Attorney,,,Kari Hathorn,191
-Crook,Precinct 3,District Attorney,,,Kari Hathorn,524
-Crook,Precinct 5,District Attorney,,,Kari Hathorn,10136
+Crook,Precinct 10,District Attorney,,,Kari Hathorn,147
+Crook,Precinct 11,District Attorney,,,Kari Hathorn,928
+Crook,Precinct 12,District Attorney,,,Kari Hathorn,40
+Crook,Precinct 13,District Attorney,,,Kari Hathorn,298
+Crook,Precinct 14,District Attorney,,,Kari Hathorn,137
+Crook,Precinct 15,District Attorney,,,Kari Hathorn,450
+Crook,Precinct 16,District Attorney,,,Kari Hathorn,215
+Crook,Precinct 17,District Attorney,,,Kari Hathorn,1033
+Crook,Precinct 2,District Attorney,,,Kari Hathorn,148
+Crook,Precinct 3,District Attorney,,,Kari Hathorn,83
+Crook,Precinct 4,District Attorney,,,Kari Hathorn,441
+Crook,Precinct 5,District Attorney,,,Kari Hathorn,836
+Crook,Precinct 6,District Attorney,,,Kari Hathorn,295
+Crook,Precinct 7,District Attorney,,,Kari Hathorn,87
+Crook,Precinct 8,District Attorney,,,Kari Hathorn,168
+Crook,Precinct 9,District Attorney,,,Kari Hathorn,46
 Crook,Precinct 1,District Attorney,,,Over Votes,0
+Crook,Precinct 10,District Attorney,,,Over Votes,0
+Crook,Precinct 11,District Attorney,,,Over Votes,0
+Crook,Precinct 12,District Attorney,,,Over Votes,0
+Crook,Precinct 13,District Attorney,,,Over Votes,0
+Crook,Precinct 14,District Attorney,,,Over Votes,0
+Crook,Precinct 15,District Attorney,,,Over Votes,0
+Crook,Precinct 16,District Attorney,,,Over Votes,0
+Crook,Precinct 17,District Attorney,,,Over Votes,0
+Crook,Precinct 2,District Attorney,,,Over Votes,0
 Crook,Precinct 3,District Attorney,,,Over Votes,0
+Crook,Precinct 4,District Attorney,,,Over Votes,0
 Crook,Precinct 5,District Attorney,,,Over Votes,0
-Crook,Precinct 1,District Attorney,,,Under Votes,250
-Crook,Precinct 3,District Attorney,,,Under Votes,760
-Crook,Precinct 5,District Attorney,,,Under Votes,15955
-Crook,Precinct 1,District Attorney,,,Write-ins,13
-Crook,Precinct 3,District Attorney,,,Write-ins,9
-Crook,Precinct 5,District Attorney,,,Write-ins,492
+Crook,Precinct 6,District Attorney,,,Over Votes,0
+Crook,Precinct 7,District Attorney,,,Over Votes,0
+Crook,Precinct 8,District Attorney,,,Over Votes,0
+Crook,Precinct 9,District Attorney,,,Over Votes,0
+Crook,Precinct 1,District Attorney,,,Under Votes,113
+Crook,Precinct 10,District Attorney,,,Under Votes,94
+Crook,Precinct 11,District Attorney,,,Under Votes,807
+Crook,Precinct 12,District Attorney,,,Under Votes,47
+Crook,Precinct 13,District Attorney,,,Under Votes,214
+Crook,Precinct 14,District Attorney,,,Under Votes,102
+Crook,Precinct 15,District Attorney,,,Under Votes,393
+Crook,Precinct 16,District Attorney,,,Under Votes,203
+Crook,Precinct 17,District Attorney,,,Under Votes,957
+Crook,Precinct 2,District Attorney,,,Under Votes,74
+Crook,Precinct 3,District Attorney,,,Under Votes,54
+Crook,Precinct 4,District Attorney,,,Under Votes,367
+Crook,Precinct 5,District Attorney,,,Under Votes,653
+Crook,Precinct 6,District Attorney,,,Under Votes,216
+Crook,Precinct 7,District Attorney,,,Under Votes,114
+Crook,Precinct 8,District Attorney,,,Under Votes,163
+Crook,Precinct 9,District Attorney,,,Under Votes,55
+Crook,Precinct 1,District Attorney,,,Write-ins,1
+Crook,Precinct 10,District Attorney,,,Write-ins,2
+Crook,Precinct 11,District Attorney,,,Write-ins,14
+Crook,Precinct 12,District Attorney,,,Write-ins,3
+Crook,Precinct 13,District Attorney,,,Write-ins,6
+Crook,Precinct 14,District Attorney,,,Write-ins,7
+Crook,Precinct 15,District Attorney,,,Write-ins,16
+Crook,Precinct 16,District Attorney,,,Write-ins,11
+Crook,Precinct 17,District Attorney,,,Write-ins,40
+Crook,Precinct 2,District Attorney,,,Write-ins,7
+Crook,Precinct 3,District Attorney,,,Write-ins,0
+Crook,Precinct 4,District Attorney,,,Write-ins,5
+Crook,Precinct 5,District Attorney,,,Write-ins,16
+Crook,Precinct 6,District Attorney,,,Write-ins,9
+Crook,Precinct 7,District Attorney,,,Write-ins,0
+Crook,Precinct 8,District Attorney,,,Write-ins,7
+Crook,Precinct 9,District Attorney,,,Write-ins,6
 Crook,Precinct 1,Governor,,D,Brittany Jones,3
-Crook,Precinct 3,Governor,,D,Brittany Jones,4
-Crook,Precinct 5,Governor,,D,Brittany Jones,40
+Crook,Precinct 10,Governor,,D,Brittany Jones,1
+Crook,Precinct 11,Governor,,D,Brittany Jones,6
+Crook,Precinct 12,Governor,,D,Brittany Jones,1
+Crook,Precinct 13,Governor,,D,Brittany Jones,2
+Crook,Precinct 14,Governor,,D,Brittany Jones,0
+Crook,Precinct 15,Governor,,D,Brittany Jones,4
+Crook,Precinct 16,Governor,,D,Brittany Jones,2
+Crook,Precinct 17,Governor,,D,Brittany Jones,13
+Crook,Precinct 2,Governor,,D,Brittany Jones,0
+Crook,Precinct 3,Governor,,D,Brittany Jones,2
+Crook,Precinct 4,Governor,,D,Brittany Jones,2
+Crook,Precinct 5,Governor,,D,Brittany Jones,7
+Crook,Precinct 6,Governor,,D,Brittany Jones,4
+Crook,Precinct 7,Governor,,D,Brittany Jones,0
+Crook,Precinct 8,Governor,,D,Brittany Jones,1
+Crook,Precinct 9,Governor,,D,Brittany Jones,0
 Crook,Precinct 1,Governor,,D,Cal Kishawi,3
-Crook,Precinct 3,Governor,,D,Cal Kishawi,5
-Crook,Precinct 5,Governor,,D,Cal Kishawi,35
-Crook,Precinct 1,Governor,,D,David W. Beem,1
-Crook,Precinct 3,Governor,,D,David W. Beem,3
-Crook,Precinct 5,Governor,,D,David W. Beem,33
-Crook,Precinct 5,Governor,,D,Donnie M. Backwith,0
+Crook,Precinct 10,Governor,,D,Cal Kishawi,0
+Crook,Precinct 11,Governor,,D,Cal Kishawi,2
+Crook,Precinct 12,Governor,,D,Cal Kishawi,0
+Crook,Precinct 13,Governor,,D,Cal Kishawi,1
+Crook,Precinct 14,Governor,,D,Cal Kishawi,1
+Crook,Precinct 15,Governor,,D,Cal Kishawi,1
+Crook,Precinct 16,Governor,,D,Cal Kishawi,0
+Crook,Precinct 17,Governor,,D,Cal Kishawi,1
+Crook,Precinct 2,Governor,,D,Cal Kishawi,0
+Crook,Precinct 3,Governor,,D,Cal Kishawi,2
+Crook,Precinct 4,Governor,,D,Cal Kishawi,3
+Crook,Precinct 5,Governor,,D,Cal Kishawi,5
+Crook,Precinct 6,Governor,,D,Cal Kishawi,1
+Crook,Precinct 7,Governor,,D,Cal Kishawi,1
+Crook,Precinct 8,Governor,,D,Cal Kishawi,1
+Crook,Precinct 9,Governor,,D,Cal Kishawi,0
+Crook,Precinct 1,Governor,,D,David W. Beem,0
+Crook,Precinct 10,Governor,,D,David W. Beem,0
+Crook,Precinct 11,Governor,,D,David W. Beem,5
+Crook,Precinct 12,Governor,,D,David W. Beem,0
+Crook,Precinct 13,Governor,,D,David W. Beem,1
+Crook,Precinct 14,Governor,,D,David W. Beem,0
+Crook,Precinct 15,Governor,,D,David W. Beem,10
+Crook,Precinct 16,Governor,,D,David W. Beem,2
+Crook,Precinct 17,Governor,,D,David W. Beem,7
+Crook,Precinct 2,Governor,,D,David W. Beem,1
+Crook,Precinct 3,Governor,,D,David W. Beem,1
+Crook,Precinct 4,Governor,,D,David W. Beem,2
+Crook,Precinct 5,Governor,,D,David W. Beem,4
+Crook,Precinct 6,Governor,,D,David W. Beem,3
+Crook,Precinct 7,Governor,,D,David W. Beem,0
+Crook,Precinct 8,Governor,,D,David W. Beem,1
+Crook,Precinct 9,Governor,,D,David W. Beem,0
 Crook,Precinct 1,Governor,,D,Donnie M. Beckwith,0
-Crook,Precinct 3,Governor,,D,Donnie M. Beckwith,2
-Crook,Precinct 5,Governor,,D,Donnie M. Beckwith,12
-Crook,Precinct 1,Governor,,D,Forest (Fora) Alexander,5
-Crook,Precinct 3,Governor,,D,Forest (Fora) Alexander,0
-Crook,Precinct 5,Governor,,D,Forest (Fora) Alexander,73
-Crook,Precinct 5,Governor,,D,Forest (Fora) Alexandre,4
-Crook,Precinct 3,Governor,,D,Forest (Fora) Alexandər,2
+Crook,Precinct 10,Governor,,D,Donnie M. Beckwith,1
+Crook,Precinct 11,Governor,,D,Donnie M. Beckwith,2
+Crook,Precinct 12,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 13,Governor,,D,Donnie M. Beckwith,1
+Crook,Precinct 14,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 15,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 16,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 17,Governor,,D,Donnie M. Beckwith,5
+Crook,Precinct 2,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 3,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 4,Governor,,D,Donnie M. Beckwith,2
+Crook,Precinct 5,Governor,,D,Donnie M. Beckwith,1
+Crook,Precinct 6,Governor,,D,Donnie M. Beckwith,2
+Crook,Precinct 7,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 8,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 9,Governor,,D,Donnie M. Beckwith,0
+Crook,Precinct 1,Governor,,D,Forest (Fora) Alexander,2
+Crook,Precinct 10,Governor,,D,Forest (Fora) Alexander,0
+Crook,Precinct 11,Governor,,D,Forest (Fora) Alexander,5
+Crook,Precinct 12,Governor,,D,Forest (Fora) Alexander,0
+Crook,Precinct 13,Governor,,D,Forest (Fora) Alexander,2
+Crook,Precinct 14,Governor,,D,Forest (Fora) Alexander,6
+Crook,Precinct 15,Governor,,D,Forest (Fora) Alexander,4
+Crook,Precinct 16,Governor,,D,Forest (Fora) Alexander,0
+Crook,Precinct 17,Governor,,D,Forest (Fora) Alexander,12
+Crook,Precinct 2,Governor,,D,Forest (Fora) Alexander,3
+Crook,Precinct 3,Governor,,D,Forest (Fora) Alexander,2
+Crook,Precinct 4,Governor,,D,Forest (Fora) Alexander,0
+Crook,Precinct 5,Governor,,D,Forest (Fora) Alexander,6
+Crook,Precinct 6,Governor,,D,Forest (Fora) Alexander,1
+Crook,Precinct 7,Governor,,D,Forest (Fora) Alexander,0
+Crook,Precinct 8,Governor,,D,Forest (Fora) Alexander,0
+Crook,Precinct 9,Governor,,D,Forest (Fora) Alexander,2
 Crook,Precinct 1,Governor,,D,James Atkinson IV,2
-Crook,Precinct 3,Governor,,D,James Atkinson IV,3
-Crook,Precinct 5,Governor,,D,James Atkinson IV,66
-Crook,Precinct 5,Governor,,D,James Atkirson IV,2
-Crook,Precinct 1,Governor,,D,Miranda Weigler,5
-Crook,Precinct 3,Governor,,D,Miranda Weigler,1
-Crook,Precinct 5,Governor,,D,Miranda Weigler,31
+Crook,Precinct 10,Governor,,D,James Atkinson IV,1
+Crook,Precinct 11,Governor,,D,James Atkinson IV,5
+Crook,Precinct 12,Governor,,D,James Atkinson IV,0
+Crook,Precinct 13,Governor,,D,James Atkinson IV,1
+Crook,Precinct 14,Governor,,D,James Atkinson IV,1
+Crook,Precinct 15,Governor,,D,James Atkinson IV,5
+Crook,Precinct 16,Governor,,D,James Atkinson IV,2
+Crook,Precinct 17,Governor,,D,James Atkinson IV,10
+Crook,Precinct 2,Governor,,D,James Atkinson IV,0
+Crook,Precinct 3,Governor,,D,James Atkinson IV,0
+Crook,Precinct 4,Governor,,D,James Atkinson IV,3
+Crook,Precinct 5,Governor,,D,James Atkinson IV,4
+Crook,Precinct 6,Governor,,D,James Atkinson IV,1
+Crook,Precinct 7,Governor,,D,James Atkinson IV,0
+Crook,Precinct 8,Governor,,D,James Atkinson IV,1
+Crook,Precinct 9,Governor,,D,James Atkinson IV,1
+Crook,Precinct 1,Governor,,D,Miranda Weigler,3
+Crook,Precinct 10,Governor,,D,Miranda Weigler,2
+Crook,Precinct 11,Governor,,D,Miranda Weigler,6
+Crook,Precinct 12,Governor,,D,Miranda Weigler,1
+Crook,Precinct 13,Governor,,D,Miranda Weigler,1
+Crook,Precinct 14,Governor,,D,Miranda Weigler,0
+Crook,Precinct 15,Governor,,D,Miranda Weigler,1
+Crook,Precinct 16,Governor,,D,Miranda Weigler,2
+Crook,Precinct 17,Governor,,D,Miranda Weigler,9
+Crook,Precinct 2,Governor,,D,Miranda Weigler,2
+Crook,Precinct 3,Governor,,D,Miranda Weigler,0
+Crook,Precinct 4,Governor,,D,Miranda Weigler,1
+Crook,Precinct 5,Governor,,D,Miranda Weigler,7
+Crook,Precinct 6,Governor,,D,Miranda Weigler,2
+Crook,Precinct 7,Governor,,D,Miranda Weigler,1
+Crook,Precinct 8,Governor,,D,Miranda Weigler,0
+Crook,Precinct 9,Governor,,D,Miranda Weigler,0
 Crook,Precinct 1,Governor,,D,Over Votes,0
-Crook,Precinct 3,Governor,,D,Over Votes,0
+Crook,Precinct 10,Governor,,D,Over Votes,0
+Crook,Precinct 11,Governor,,D,Over Votes,0
+Crook,Precinct 12,Governor,,D,Over Votes,0
+Crook,Precinct 13,Governor,,D,Over Votes,0
+Crook,Precinct 14,Governor,,D,Over Votes,0
+Crook,Precinct 15,Governor,,D,Over Votes,0
+Crook,Precinct 16,Governor,,D,Over Votes,0
+Crook,Precinct 17,Governor,,D,Over Votes,0
+Crook,Precinct 2,Governor,,D,Over Votes,0
+Crook,Precinct 3,Governor,,D,Over Votes,1
+Crook,Precinct 4,Governor,,D,Over Votes,0
 Crook,Precinct 5,Governor,,D,Over Votes,0
-Crook,Precinct 1,Governor,,D,Steve William Laible,1
-Crook,Precinct 3,Governor,,D,Steve William Laible,2
-Crook,Precinct 5,Governor,,D,Steve William Laible,20
-Crook,Precinct 1,Governor,,D,Tina Kotek,68
-Crook,Precinct 3,Governor,,D,Tina Kotek,78
-Crook,Precinct 5,Governor,,D,Tina Kotek,866
-Crook,Precinct 1,Governor,,D,Tristan Sheppard,4
-Crook,Precinct 3,Governor,,D,Tristan Sheppard,3
-Crook,Precinct 5,Governor,,D,Tristan Sheppard,26
-Crook,Precinct 1,Governor,,D,Under Votes,4
-Crook,Precinct 3,Governor,,D,Under Votes,16
-Crook,Precinct 5,Governor,,D,Under Votes,152
-Crook,Precinct 1,Governor,,D,Write-ins,4
-Crook,Precinct 3,Governor,,D,Write-ins,7
-Crook,Precinct 5,Governor,,D,Write-ins,76
-Crook,Precinct 1,Governor,,R,Brad T. Peters,1
-Crook,Precinct 3,Governor,,R,Brad T. Peters,2
-Crook,Precinct 5,Governor,,R,Brad T. Peters,28
-Crook,Precinct 1,Governor,,R,Chris Dudley,68
-Crook,Precinct 3,Governor,,R,Chris Dudley,174
-Crook,Precinct 5,Governor,,R,Chris Dudley,2422
-Crook,Precinct 1,Governor,,R,Christine Drazan,109
-Crook,Precinct 3,Governor,,R,Christine Drazan,167
-Crook,Precinct 5,Governor,,R,Christine Drazan,2973
-Crook,Precinct 1,Governor,,R,Danielle Bethell,2
-Crook,Precinct 3,Governor,,R,Danielle Bethell,12
-Crook,Precinct 5,Governor,,R,Danielle Bethell,132
-Crook,Precinct 1,Governor,,R,David Medina,18
-Crook,Precinct 3,Governor,,R,David Medina,18
-Crook,Precinct 5,Governor,,R,David Medina,438
-Crook,Precinct 5,Governor,,R,DeAngelo Laroy Turner,0
-Crook,Precinct 1,Governor,,R,DeAngelo Leroy Turne $ ^{{*}} $,0
+Crook,Precinct 6,Governor,,D,Over Votes,0
+Crook,Precinct 7,Governor,,D,Over Votes,0
+Crook,Precinct 8,Governor,,D,Over Votes,0
+Crook,Precinct 9,Governor,,D,Over Votes,0
+Crook,Precinct 1,Governor,,D,Steve William Laible,0
+Crook,Precinct 10,Governor,,D,Steve William Laible,1
+Crook,Precinct 11,Governor,,D,Steve William Laible,1
+Crook,Precinct 12,Governor,,D,Steve William Laible,0
+Crook,Precinct 13,Governor,,D,Steve William Laible,1
+Crook,Precinct 14,Governor,,D,Steve William Laible,2
+Crook,Precinct 15,Governor,,D,Steve William Laible,6
+Crook,Precinct 16,Governor,,D,Steve William Laible,0
+Crook,Precinct 17,Governor,,D,Steve William Laible,7
+Crook,Precinct 2,Governor,,D,Steve William Laible,1
+Crook,Precinct 3,Governor,,D,Steve William Laible,1
+Crook,Precinct 4,Governor,,D,Steve William Laible,1
+Crook,Precinct 5,Governor,,D,Steve William Laible,1
+Crook,Precinct 6,Governor,,D,Steve William Laible,2
+Crook,Precinct 7,Governor,,D,Steve William Laible,0
+Crook,Precinct 8,Governor,,D,Steve William Laible,1
+Crook,Precinct 9,Governor,,D,Steve William Laible,0
+Crook,Precinct 1,Governor,,D,Tina Kotek,37
+Crook,Precinct 10,Governor,,D,Tina Kotek,50
+Crook,Precinct 11,Governor,,D,Tina Kotek,218
+Crook,Precinct 12,Governor,,D,Tina Kotek,2
+Crook,Precinct 13,Governor,,D,Tina Kotek,37
+Crook,Precinct 14,Governor,,D,Tina Kotek,25
+Crook,Precinct 15,Governor,,D,Tina Kotek,65
+Crook,Precinct 16,Governor,,D,Tina Kotek,32
+Crook,Precinct 17,Governor,,D,Tina Kotek,170
+Crook,Precinct 2,Governor,,D,Tina Kotek,31
+Crook,Precinct 3,Governor,,D,Tina Kotek,26
+Crook,Precinct 4,Governor,,D,Tina Kotek,52
+Crook,Precinct 5,Governor,,D,Tina Kotek,154
+Crook,Precinct 6,Governor,,D,Tina Kotek,91
+Crook,Precinct 7,Governor,,D,Tina Kotek,10
+Crook,Precinct 8,Governor,,D,Tina Kotek,29
+Crook,Precinct 9,Governor,,D,Tina Kotek,10
+Crook,Precinct 1,Governor,,D,Tristan Sheppard,2
+Crook,Precinct 10,Governor,,D,Tristan Sheppard,2
+Crook,Precinct 11,Governor,,D,Tristan Sheppard,2
+Crook,Precinct 12,Governor,,D,Tristan Sheppard,0
+Crook,Precinct 13,Governor,,D,Tristan Sheppard,1
+Crook,Precinct 14,Governor,,D,Tristan Sheppard,0
+Crook,Precinct 15,Governor,,D,Tristan Sheppard,5
+Crook,Precinct 16,Governor,,D,Tristan Sheppard,1
+Crook,Precinct 17,Governor,,D,Tristan Sheppard,7
+Crook,Precinct 2,Governor,,D,Tristan Sheppard,2
+Crook,Precinct 3,Governor,,D,Tristan Sheppard,2
+Crook,Precinct 4,Governor,,D,Tristan Sheppard,1
+Crook,Precinct 5,Governor,,D,Tristan Sheppard,3
+Crook,Precinct 6,Governor,,D,Tristan Sheppard,1
+Crook,Precinct 7,Governor,,D,Tristan Sheppard,0
+Crook,Precinct 8,Governor,,D,Tristan Sheppard,4
+Crook,Precinct 9,Governor,,D,Tristan Sheppard,0
+Crook,Precinct 1,Governor,,D,Under Votes,3
+Crook,Precinct 10,Governor,,D,Under Votes,5
+Crook,Precinct 11,Governor,,D,Under Votes,29
+Crook,Precinct 12,Governor,,D,Under Votes,1
+Crook,Precinct 13,Governor,,D,Under Votes,15
+Crook,Precinct 14,Governor,,D,Under Votes,7
+Crook,Precinct 15,Governor,,D,Under Votes,22
+Crook,Precinct 16,Governor,,D,Under Votes,13
+Crook,Precinct 17,Governor,,D,Under Votes,38
+Crook,Precinct 2,Governor,,D,Under Votes,4
+Crook,Precinct 3,Governor,,D,Under Votes,4
+Crook,Precinct 4,Governor,,D,Under Votes,16
+Crook,Precinct 5,Governor,,D,Under Votes,39
+Crook,Precinct 6,Governor,,D,Under Votes,14
+Crook,Precinct 7,Governor,,D,Under Votes,4
+Crook,Precinct 8,Governor,,D,Under Votes,11
+Crook,Precinct 9,Governor,,D,Under Votes,1
+Crook,Precinct 1,Governor,,D,Write-ins,2
+Crook,Precinct 10,Governor,,D,Write-ins,4
+Crook,Precinct 11,Governor,,D,Write-ins,12
+Crook,Precinct 12,Governor,,D,Write-ins,2
+Crook,Precinct 13,Governor,,D,Write-ins,7
+Crook,Precinct 14,Governor,,D,Write-ins,2
+Crook,Precinct 15,Governor,,D,Write-ins,9
+Crook,Precinct 16,Governor,,D,Write-ins,7
+Crook,Precinct 17,Governor,,D,Write-ins,12
+Crook,Precinct 2,Governor,,D,Write-ins,2
+Crook,Precinct 3,Governor,,D,Write-ins,1
+Crook,Precinct 4,Governor,,D,Write-ins,6
+Crook,Precinct 5,Governor,,D,Write-ins,10
+Crook,Precinct 6,Governor,,D,Write-ins,6
+Crook,Precinct 7,Governor,,D,Write-ins,1
+Crook,Precinct 8,Governor,,D,Write-ins,8
+Crook,Precinct 9,Governor,,D,Write-ins,0
+Crook,Precinct 1,Governor,,R,Brad T. Peters,0
+Crook,Precinct 10,Governor,,R,Brad T. Peters,0
+Crook,Precinct 11,Governor,,R,Brad T. Peters,4
+Crook,Precinct 12,Governor,,R,Brad T. Peters,0
+Crook,Precinct 13,Governor,,R,Brad T. Peters,1
+Crook,Precinct 14,Governor,,R,Brad T. Peters,0
+Crook,Precinct 15,Governor,,R,Brad T. Peters,1
+Crook,Precinct 16,Governor,,R,Brad T. Peters,2
+Crook,Precinct 17,Governor,,R,Brad T. Peters,3
+Crook,Precinct 2,Governor,,R,Brad T. Peters,1
+Crook,Precinct 3,Governor,,R,Brad T. Peters,0
+Crook,Precinct 4,Governor,,R,Brad T. Peters,2
+Crook,Precinct 5,Governor,,R,Brad T. Peters,1
+Crook,Precinct 6,Governor,,R,Brad T. Peters,0
+Crook,Precinct 7,Governor,,R,Brad T. Peters,2
+Crook,Precinct 8,Governor,,R,Brad T. Peters,0
+Crook,Precinct 9,Governor,,R,Brad T. Peters,0
+Crook,Precinct 1,Governor,,R,Chris Dudley,48
+Crook,Precinct 10,Governor,,R,Chris Dudley,25
+Crook,Precinct 11,Governor,,R,Chris Dudley,346
+Crook,Precinct 12,Governor,,R,Chris Dudley,20
+Crook,Precinct 13,Governor,,R,Chris Dudley,82
+Crook,Precinct 14,Governor,,R,Chris Dudley,23
+Crook,Precinct 15,Governor,,R,Chris Dudley,111
+Crook,Precinct 16,Governor,,R,Chris Dudley,67
+Crook,Precinct 17,Governor,,R,Chris Dudley,212
+Crook,Precinct 2,Governor,,R,Chris Dudley,20
+Crook,Precinct 3,Governor,,R,Chris Dudley,10
+Crook,Precinct 4,Governor,,R,Chris Dudley,164
+Crook,Precinct 5,Governor,,R,Chris Dudley,229
+Crook,Precinct 6,Governor,,R,Chris Dudley,84
+Crook,Precinct 7,Governor,,R,Chris Dudley,23
+Crook,Precinct 8,Governor,,R,Chris Dudley,35
+Crook,Precinct 9,Governor,,R,Chris Dudley,21
+Crook,Precinct 1,Governor,,R,Christine Drazan,62
+Crook,Precinct 10,Governor,,R,Christine Drazan,41
+Crook,Precinct 11,Governor,,R,Christine Drazan,345
+Crook,Precinct 12,Governor,,R,Christine Drazan,14
+Crook,Precinct 13,Governor,,R,Christine Drazan,128
+Crook,Precinct 14,Governor,,R,Christine Drazan,42
+Crook,Precinct 15,Governor,,R,Christine Drazan,156
+Crook,Precinct 16,Governor,,R,Christine Drazan,66
+Crook,Precinct 17,Governor,,R,Christine Drazan,379
+Crook,Precinct 2,Governor,,R,Christine Drazan,47
+Crook,Precinct 3,Governor,,R,Christine Drazan,19
+Crook,Precinct 4,Governor,,R,Christine Drazan,148
+Crook,Precinct 5,Governor,,R,Christine Drazan,288
+Crook,Precinct 6,Governor,,R,Christine Drazan,74
+Crook,Precinct 7,Governor,,R,Christine Drazan,26
+Crook,Precinct 8,Governor,,R,Christine Drazan,55
+Crook,Precinct 9,Governor,,R,Christine Drazan,16
+Crook,Precinct 1,Governor,,R,Danielle Bethell,0
+Crook,Precinct 10,Governor,,R,Danielle Bethell,2
+Crook,Precinct 11,Governor,,R,Danielle Bethell,9
+Crook,Precinct 12,Governor,,R,Danielle Bethell,2
+Crook,Precinct 13,Governor,,R,Danielle Bethell,8
+Crook,Precinct 14,Governor,,R,Danielle Bethell,1
+Crook,Precinct 15,Governor,,R,Danielle Bethell,9
+Crook,Precinct 16,Governor,,R,Danielle Bethell,1
+Crook,Precinct 17,Governor,,R,Danielle Bethell,17
+Crook,Precinct 2,Governor,,R,Danielle Bethell,2
+Crook,Precinct 3,Governor,,R,Danielle Bethell,2
+Crook,Precinct 4,Governor,,R,Danielle Bethell,10
+Crook,Precinct 5,Governor,,R,Danielle Bethell,14
+Crook,Precinct 6,Governor,,R,Danielle Bethell,2
+Crook,Precinct 7,Governor,,R,Danielle Bethell,3
+Crook,Precinct 8,Governor,,R,Danielle Bethell,3
+Crook,Precinct 9,Governor,,R,Danielle Bethell,1
+Crook,Precinct 1,Governor,,R,David Medina,10
+Crook,Precinct 10,Governor,,R,David Medina,7
+Crook,Precinct 11,Governor,,R,David Medina,36
+Crook,Precinct 12,Governor,,R,David Medina,2
+Crook,Precinct 13,Governor,,R,David Medina,16
+Crook,Precinct 14,Governor,,R,David Medina,13
+Crook,Precinct 15,Governor,,R,David Medina,26
+Crook,Precinct 16,Governor,,R,David Medina,14
+Crook,Precinct 17,Governor,,R,David Medina,40
+Crook,Precinct 2,Governor,,R,David Medina,8
+Crook,Precinct 3,Governor,,R,David Medina,1
+Crook,Precinct 4,Governor,,R,David Medina,17
+Crook,Precinct 5,Governor,,R,David Medina,49
+Crook,Precinct 6,Governor,,R,David Medina,16
+Crook,Precinct 7,Governor,,R,David Medina,6
+Crook,Precinct 8,Governor,,R,David Medina,11
+Crook,Precinct 9,Governor,,R,David Medina,3
 Crook,Precinct 1,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 10,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 11,Governor,,R,DeAngelo Leroy Turner,1
+Crook,Precinct 12,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 13,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 14,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 15,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 16,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 17,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 2,Governor,,R,DeAngelo Leroy Turner,0
 Crook,Precinct 3,Governor,,R,DeAngelo Leroy Turner,0
-Crook,Precinct 5,Governor,,R,DeAngelo Leroy Turner,2
-Crook,Precinct 1,Governor,,R,Ed Diehl,92
-Crook,Precinct 3,Governor,,R,Ed Diehl,227
-Crook,Precinct 5,Governor,,R,Ed Diehl,3470
+Crook,Precinct 4,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 5,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 6,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 7,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 8,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 9,Governor,,R,DeAngelo Leroy Turner,0
+Crook,Precinct 1,Governor,,R,Ed Diehl,57
+Crook,Precinct 10,Governor,,R,Ed Diehl,35
+Crook,Precinct 11,Governor,,R,Ed Diehl,316
+Crook,Precinct 12,Governor,,R,Ed Diehl,27
+Crook,Precinct 13,Governor,,R,Ed Diehl,103
+Crook,Precinct 14,Governor,,R,Ed Diehl,56
+Crook,Precinct 15,Governor,,R,Ed Diehl,194
+Crook,Precinct 16,Governor,,R,Ed Diehl,103
+Crook,Precinct 17,Governor,,R,Ed Diehl,522
+Crook,Precinct 2,Governor,,R,Ed Diehl,35
+Crook,Precinct 3,Governor,,R,Ed Diehl,20
+Crook,Precinct 4,Governor,,R,Ed Diehl,207
+Crook,Precinct 5,Governor,,R,Ed Diehl,318
+Crook,Precinct 6,Governor,,R,Ed Diehl,89
+Crook,Precinct 7,Governor,,R,Ed Diehl,76
+Crook,Precinct 8,Governor,,R,Ed Diehl,76
+Crook,Precinct 9,Governor,,R,Ed Diehl,35
 Crook,Precinct 1,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 10,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 11,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 12,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 13,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 14,Governor,,R,Hope A. Dalrymple,1
+Crook,Precinct 15,Governor,,R,Hope A. Dalrymple,3
+Crook,Precinct 16,Governor,,R,Hope A. Dalrymple,1
+Crook,Precinct 17,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 2,Governor,,R,Hope A. Dalrymple,0
 Crook,Precinct 3,Governor,,R,Hope A. Dalrymple,0
-Crook,Precinct 5,Governor,,R,Hope A. Dalrymple,12
+Crook,Precinct 4,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 5,Governor,,R,Hope A. Dalrymple,1
+Crook,Precinct 6,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 7,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 8,Governor,,R,Hope A. Dalrymple,0
+Crook,Precinct 9,Governor,,R,Hope A. Dalrymple,0
 Crook,Precinct 1,Governor,,R,Kyle M. Duyck,1
-Crook,Precinct 3,Governor,,R,Kyle M. Duyck,1
-Crook,Precinct 5,Governor,,R,Kyle M. Duyck,17
-Crook,Precinct 5,Governor,,R,Martin Warc,0
+Crook,Precinct 10,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 11,Governor,,R,Kyle M. Duyck,2
+Crook,Precinct 12,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 13,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 14,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 15,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 16,Governor,,R,Kyle M. Duyck,3
+Crook,Precinct 17,Governor,,R,Kyle M. Duyck,2
+Crook,Precinct 2,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 3,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 4,Governor,,R,Kyle M. Duyck,1
+Crook,Precinct 5,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 6,Governor,,R,Kyle M. Duyck,0
+Crook,Precinct 7,Governor,,R,Kyle M. Duyck,1
+Crook,Precinct 8,Governor,,R,Kyle M. Duyck,1
+Crook,Precinct 9,Governor,,R,Kyle M. Duyck,0
 Crook,Precinct 1,Governor,,R,Martin Ward,0
-Crook,Precinct 3,Governor,,R,Martin Ward,2
-Crook,Precinct 5,Governor,,R,Martin Ward,4
+Crook,Precinct 10,Governor,,R,Martin Ward,0
+Crook,Precinct 11,Governor,,R,Martin Ward,1
+Crook,Precinct 12,Governor,,R,Martin Ward,0
+Crook,Precinct 13,Governor,,R,Martin Ward,0
+Crook,Precinct 14,Governor,,R,Martin Ward,0
+Crook,Precinct 15,Governor,,R,Martin Ward,0
+Crook,Precinct 16,Governor,,R,Martin Ward,0
+Crook,Precinct 17,Governor,,R,Martin Ward,0
+Crook,Precinct 2,Governor,,R,Martin Ward,0
+Crook,Precinct 3,Governor,,R,Martin Ward,0
+Crook,Precinct 4,Governor,,R,Martin Ward,2
+Crook,Precinct 5,Governor,,R,Martin Ward,0
+Crook,Precinct 6,Governor,,R,Martin Ward,0
+Crook,Precinct 7,Governor,,R,Martin Ward,0
+Crook,Precinct 8,Governor,,R,Martin Ward,0
+Crook,Precinct 9,Governor,,R,Martin Ward,0
 Crook,Precinct 1,Governor,,R,Over Votes,0
+Crook,Precinct 10,Governor,,R,Over Votes,0
+Crook,Precinct 11,Governor,,R,Over Votes,0
+Crook,Precinct 12,Governor,,R,Over Votes,0
+Crook,Precinct 13,Governor,,R,Over Votes,0
+Crook,Precinct 14,Governor,,R,Over Votes,0
+Crook,Precinct 15,Governor,,R,Over Votes,0
+Crook,Precinct 16,Governor,,R,Over Votes,0
+Crook,Precinct 17,Governor,,R,Over Votes,1
+Crook,Precinct 2,Governor,,R,Over Votes,0
 Crook,Precinct 3,Governor,,R,Over Votes,0
-Crook,Precinct 5,Governor,,R,Over Votes,1
+Crook,Precinct 4,Governor,,R,Over Votes,0
+Crook,Precinct 5,Governor,,R,Over Votes,0
+Crook,Precinct 6,Governor,,R,Over Votes,0
+Crook,Precinct 7,Governor,,R,Over Votes,0
+Crook,Precinct 8,Governor,,R,Over Votes,0
+Crook,Precinct 9,Governor,,R,Over Votes,0
 Crook,Precinct 1,Governor,,R,Paul J. Romero Jr,4
-Crook,Precinct 3,Governor,,R,Paul J. Romero Jr,3
-Crook,Precinct 5,Governor,,R,Paul J. Romero Jr,62
+Crook,Precinct 10,Governor,,R,Paul J. Romero Jr,0
+Crook,Precinct 11,Governor,,R,Paul J. Romero Jr,3
+Crook,Precinct 12,Governor,,R,Paul J. Romero Jr,0
+Crook,Precinct 13,Governor,,R,Paul J. Romero Jr,0
+Crook,Precinct 14,Governor,,R,Paul J. Romero Jr,0
+Crook,Precinct 15,Governor,,R,Paul J. Romero Jr,8
+Crook,Precinct 16,Governor,,R,Paul J. Romero Jr,1
+Crook,Precinct 17,Governor,,R,Paul J. Romero Jr,14
+Crook,Precinct 2,Governor,,R,Paul J. Romero Jr,0
+Crook,Precinct 3,Governor,,R,Paul J. Romero Jr,0
+Crook,Precinct 4,Governor,,R,Paul J. Romero Jr,3
+Crook,Precinct 5,Governor,,R,Paul J. Romero Jr,3
+Crook,Precinct 6,Governor,,R,Paul J. Romero Jr,0
+Crook,Precinct 7,Governor,,R,Paul J. Romero Jr,2
+Crook,Precinct 8,Governor,,R,Paul J. Romero Jr,1
+Crook,Precinct 9,Governor,,R,Paul J. Romero Jr,3
 Crook,Precinct 1,Governor,,R,Robert Neuman,0
+Crook,Precinct 10,Governor,,R,Robert Neuman,0
+Crook,Precinct 11,Governor,,R,Robert Neuman,0
+Crook,Precinct 12,Governor,,R,Robert Neuman,0
+Crook,Precinct 13,Governor,,R,Robert Neuman,0
+Crook,Precinct 14,Governor,,R,Robert Neuman,0
+Crook,Precinct 15,Governor,,R,Robert Neuman,1
+Crook,Precinct 16,Governor,,R,Robert Neuman,0
+Crook,Precinct 17,Governor,,R,Robert Neuman,3
+Crook,Precinct 2,Governor,,R,Robert Neuman,0
 Crook,Precinct 3,Governor,,R,Robert Neuman,0
-Crook,Precinct 5,Governor,,R,Robert Neuman,9
+Crook,Precinct 4,Governor,,R,Robert Neuman,0
+Crook,Precinct 5,Governor,,R,Robert Neuman,2
+Crook,Precinct 6,Governor,,R,Robert Neuman,0
+Crook,Precinct 7,Governor,,R,Robert Neuman,0
+Crook,Precinct 8,Governor,,R,Robert Neuman,0
+Crook,Precinct 9,Governor,,R,Robert Neuman,0
 Crook,Precinct 1,Governor,,R,Tim O. Youker,0
+Crook,Precinct 10,Governor,,R,Tim O. Youker,0
+Crook,Precinct 11,Governor,,R,Tim O. Youker,0
+Crook,Precinct 12,Governor,,R,Tim O. Youker,0
+Crook,Precinct 13,Governor,,R,Tim O. Youker,0
+Crook,Precinct 14,Governor,,R,Tim O. Youker,0
+Crook,Precinct 15,Governor,,R,Tim O. Youker,1
+Crook,Precinct 16,Governor,,R,Tim O. Youker,0
+Crook,Precinct 17,Governor,,R,Tim O. Youker,1
+Crook,Precinct 2,Governor,,R,Tim O. Youker,0
 Crook,Precinct 3,Governor,,R,Tim O. Youker,0
-Crook,Precinct 5,Governor,,R,Tim O. Youker,3
+Crook,Precinct 4,Governor,,R,Tim O. Youker,0
+Crook,Precinct 5,Governor,,R,Tim O. Youker,0
+Crook,Precinct 6,Governor,,R,Tim O. Youker,0
+Crook,Precinct 7,Governor,,R,Tim O. Youker,0
+Crook,Precinct 8,Governor,,R,Tim O. Youker,0
+Crook,Precinct 9,Governor,,R,Tim O. Youker,0
 Crook,Precinct 1,Governor,,R,Under Votes,4
-Crook,Precinct 3,Governor,,R,Under Votes,13
-Crook,Precinct 5,Governor,,R,Under Votes,153
+Crook,Precinct 10,Governor,,R,Under Votes,4
+Crook,Precinct 11,Governor,,R,Under Votes,14
+Crook,Precinct 12,Governor,,R,Under Votes,0
+Crook,Precinct 13,Governor,,R,Under Votes,10
+Crook,Precinct 14,Governor,,R,Under Votes,6
+Crook,Precinct 15,Governor,,R,Under Votes,7
+Crook,Precinct 16,Governor,,R,Under Votes,3
+Crook,Precinct 17,Governor,,R,Under Votes,19
+Crook,Precinct 2,Governor,,R,Under Votes,0
+Crook,Precinct 3,Governor,,R,Under Votes,5
+Crook,Precinct 4,Governor,,R,Under Votes,8
+Crook,Precinct 5,Governor,,R,Under Votes,13
+Crook,Precinct 6,Governor,,R,Under Votes,6
+Crook,Precinct 7,Governor,,R,Under Votes,4
+Crook,Precinct 8,Governor,,R,Under Votes,8
+Crook,Precinct 9,Governor,,R,Under Votes,1
 Crook,Precinct 1,Governor,,R,Wen Waddell,0
+Crook,Precinct 10,Governor,,R,Wen Waddell,0
+Crook,Precinct 11,Governor,,R,Wen Waddell,0
+Crook,Precinct 12,Governor,,R,Wen Waddell,0
+Crook,Precinct 13,Governor,,R,Wen Waddell,0
+Crook,Precinct 14,Governor,,R,Wen Waddell,0
+Crook,Precinct 15,Governor,,R,Wen Waddell,0
+Crook,Precinct 16,Governor,,R,Wen Waddell,0
+Crook,Precinct 17,Governor,,R,Wen Waddell,0
+Crook,Precinct 2,Governor,,R,Wen Waddell,0
 Crook,Precinct 3,Governor,,R,Wen Waddell,0
-Crook,Precinct 5,Governor,,R,Wen Waddell,1
+Crook,Precinct 4,Governor,,R,Wen Waddell,0
+Crook,Precinct 5,Governor,,R,Wen Waddell,0
+Crook,Precinct 6,Governor,,R,Wen Waddell,0
+Crook,Precinct 7,Governor,,R,Wen Waddell,0
+Crook,Precinct 8,Governor,,R,Wen Waddell,1
+Crook,Precinct 9,Governor,,R,Wen Waddell,0
 Crook,Precinct 1,Governor,,R,Write-ins,0
-Crook,Precinct 3,Governor,,R,Write-ins,2
-Crook,Precinct 5,Governor,,R,Write-ins,3
-Crook,Precinct 3,Judge of the Court of Appeals,Position 1,,Jacqueline Kamins,415
-Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Jacqueline Kamins,794
+Crook,Precinct 10,Governor,,R,Write-ins,0
+Crook,Precinct 11,Governor,,R,Write-ins,0
+Crook,Precinct 12,Governor,,R,Write-ins,0
+Crook,Precinct 13,Governor,,R,Write-ins,0
+Crook,Precinct 14,Governor,,R,Write-ins,0
+Crook,Precinct 15,Governor,,R,Write-ins,0
+Crook,Precinct 16,Governor,,R,Write-ins,0
+Crook,Precinct 17,Governor,,R,Write-ins,0
+Crook,Precinct 2,Governor,,R,Write-ins,0
+Crook,Precinct 3,Governor,,R,Write-ins,0
+Crook,Precinct 4,Governor,,R,Write-ins,2
+Crook,Precinct 5,Governor,,R,Write-ins,0
+Crook,Precinct 6,Governor,,R,Write-ins,0
+Crook,Precinct 7,Governor,,R,Write-ins,0
+Crook,Precinct 8,Governor,,R,Write-ins,1
+Crook,Precinct 9,Governor,,R,Write-ins,0
 Crook,Precinct 1,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 10,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 11,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 12,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 13,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 14,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 15,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 16,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 17,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 2,Judge of the Court of Appeals,Position 1,,Over Votes,0
 Crook,Precinct 3,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 4,Judge of the Court of Appeals,Position 1,,Over Votes,0
 Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Over Votes,0
-Crook,Precinct 1,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,147
-Crook,Precinct 3,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,492
-Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,8222
-Crook,Precinct 1,Judge of the Court of Appeals,Position 1,,Ryan TO'Connor,179
-Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Ryan TO'Connor,1348
-Crook,Precinct 1,Judge of the Court of Appeals,Position 1,,Under Votes,198
-Crook,Precinct 3,Judge of the Court of Appeals,Position 1,,Under Votes,805
-Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Under Votes,8546
-Crook,Precinct 1,Judge of the Court of Appeals,Position 1,,Write-ins,10
-Crook,Precinct 3,Judge of the Court of Appeals,Position 1,,Write-ins,51
-Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Write-ins,440
-Crook,Precinct 5,Judge of the Court of Appeals,Position 12,,Doug Tookey,789
-Crook,Precinct 1,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,325
-Crook,Precinct 3,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,492
-Crook,Precinct 5,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,4294
+Crook,Precinct 6,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 7,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 8,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 9,Judge of the Court of Appeals,Position 1,,Over Votes,0
+Crook,Precinct 1,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,179
+Crook,Precinct 10,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,147
+Crook,Precinct 11,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,915
+Crook,Precinct 12,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,40
+Crook,Precinct 13,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,288
+Crook,Precinct 14,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,139
+Crook,Precinct 15,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,438
+Crook,Precinct 16,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,208
+Crook,Precinct 17,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,981
+Crook,Precinct 2,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,147
+Crook,Precinct 3,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,77
+Crook,Precinct 4,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,415
+Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,797
+Crook,Precinct 6,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,294
+Crook,Precinct 7,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,85
+Crook,Precinct 8,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,167
+Crook,Precinct 9,Judge of the Court of Appeals,Position 1,,Ryan T. O'Connor,42
+Crook,Precinct 1,Judge of the Court of Appeals,Position 1,,Under Votes,123
+Crook,Precinct 10,Judge of the Court of Appeals,Position 1,,Under Votes,96
+Crook,Precinct 11,Judge of the Court of Appeals,Position 1,,Under Votes,800
+Crook,Precinct 12,Judge of the Court of Appeals,Position 1,,Under Votes,47
+Crook,Precinct 13,Judge of the Court of Appeals,Position 1,,Under Votes,221
+Crook,Precinct 14,Judge of the Court of Appeals,Position 1,,Under Votes,103
+Crook,Precinct 15,Judge of the Court of Appeals,Position 1,,Under Votes,396
+Crook,Precinct 16,Judge of the Court of Appeals,Position 1,,Under Votes,210
+Crook,Precinct 17,Judge of the Court of Appeals,Position 1,,Under Votes,997
+Crook,Precinct 2,Judge of the Court of Appeals,Position 1,,Under Votes,75
+Crook,Precinct 3,Judge of the Court of Appeals,Position 1,,Under Votes,60
+Crook,Precinct 4,Judge of the Court of Appeals,Position 1,,Under Votes,372
+Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Under Votes,682
+Crook,Precinct 6,Judge of the Court of Appeals,Position 1,,Under Votes,218
+Crook,Precinct 7,Judge of the Court of Appeals,Position 1,,Under Votes,108
+Crook,Precinct 8,Judge of the Court of Appeals,Position 1,,Under Votes,164
+Crook,Precinct 9,Judge of the Court of Appeals,Position 1,,Under Votes,53
+Crook,Precinct 1,Judge of the Court of Appeals,Position 1,,Write-ins,3
+Crook,Precinct 10,Judge of the Court of Appeals,Position 1,,Write-ins,0
+Crook,Precinct 11,Judge of the Court of Appeals,Position 1,,Write-ins,34
+Crook,Precinct 12,Judge of the Court of Appeals,Position 1,,Write-ins,3
+Crook,Precinct 13,Judge of the Court of Appeals,Position 1,,Write-ins,9
+Crook,Precinct 14,Judge of the Court of Appeals,Position 1,,Write-ins,4
+Crook,Precinct 15,Judge of the Court of Appeals,Position 1,,Write-ins,25
+Crook,Precinct 16,Judge of the Court of Appeals,Position 1,,Write-ins,11
+Crook,Precinct 17,Judge of the Court of Appeals,Position 1,,Write-ins,52
+Crook,Precinct 2,Judge of the Court of Appeals,Position 1,,Write-ins,7
+Crook,Precinct 3,Judge of the Court of Appeals,Position 1,,Write-ins,0
+Crook,Precinct 4,Judge of the Court of Appeals,Position 1,,Write-ins,26
+Crook,Precinct 5,Judge of the Court of Appeals,Position 1,,Write-ins,26
+Crook,Precinct 6,Judge of the Court of Appeals,Position 1,,Write-ins,8
+Crook,Precinct 7,Judge of the Court of Appeals,Position 1,,Write-ins,8
+Crook,Precinct 8,Judge of the Court of Appeals,Position 1,,Write-ins,7
+Crook,Precinct 9,Judge of the Court of Appeals,Position 1,,Write-ins,12
+Crook,Precinct 1,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,177
+Crook,Precinct 10,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,150
+Crook,Precinct 11,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,896
+Crook,Precinct 12,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,39
+Crook,Precinct 13,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,285
+Crook,Precinct 14,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,139
+Crook,Precinct 15,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,435
+Crook,Precinct 16,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,202
+Crook,Precinct 17,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,972
+Crook,Precinct 2,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,148
+Crook,Precinct 3,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,76
+Crook,Precinct 4,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,416
+Crook,Precinct 5,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,792
+Crook,Precinct 6,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,292
+Crook,Precinct 7,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,85
+Crook,Precinct 8,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,170
+Crook,Precinct 9,Judge of the Court of Appeals,Position 12,,Erin C. Lagesen,39
 Crook,Precinct 1,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 10,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 11,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 12,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 13,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 14,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 15,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 16,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 17,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 2,Judge of the Court of Appeals,Position 12,,Over Votes,0
 Crook,Precinct 3,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 4,Judge of the Court of Appeals,Position 12,,Over Votes,0
 Crook,Precinct 5,Judge of the Court of Appeals,Position 12,,Over Votes,0
-Crook,Precinct 1,Judge of the Court of Appeals,Position 12,,Under Votes,199
-Crook,Precinct 3,Judge of the Court of Appeals,Position 12,,Under Votes,435
-Crook,Precinct 5,Judge of the Court of Appeals,Position 12,,Under Votes,4630
-Crook,Precinct 1,Judge of the Court of Appeals,Position 12,,Write-ins,10
-Crook,Precinct 3,Judge of the Court of Appeals,Position 12,,Write-ins,23
-Crook,Precinct 5,Judge of the Court of Appeals,Position 12,,Write-ins,198
+Crook,Precinct 6,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 7,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 8,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 9,Judge of the Court of Appeals,Position 12,,Over Votes,0
+Crook,Precinct 1,Judge of the Court of Appeals,Position 12,,Under Votes,125
+Crook,Precinct 10,Judge of the Court of Appeals,Position 12,,Under Votes,92
+Crook,Precinct 11,Judge of the Court of Appeals,Position 12,,Under Votes,829
+Crook,Precinct 12,Judge of the Court of Appeals,Position 12,,Under Votes,48
+Crook,Precinct 13,Judge of the Court of Appeals,Position 12,,Under Votes,225
+Crook,Precinct 14,Judge of the Court of Appeals,Position 12,,Under Votes,103
+Crook,Precinct 15,Judge of the Court of Appeals,Position 12,,Under Votes,402
+Crook,Precinct 16,Judge of the Court of Appeals,Position 12,,Under Votes,218
+Crook,Precinct 17,Judge of the Court of Appeals,Position 12,,Under Votes,1008
+Crook,Precinct 2,Judge of the Court of Appeals,Position 12,,Under Votes,74
+Crook,Precinct 3,Judge of the Court of Appeals,Position 12,,Under Votes,61
+Crook,Precinct 4,Judge of the Court of Appeals,Position 12,,Under Votes,374
+Crook,Precinct 5,Judge of the Court of Appeals,Position 12,,Under Votes,687
+Crook,Precinct 6,Judge of the Court of Appeals,Position 12,,Under Votes,221
+Crook,Precinct 7,Judge of the Court of Appeals,Position 12,,Under Votes,108
+Crook,Precinct 8,Judge of the Court of Appeals,Position 12,,Under Votes,161
+Crook,Precinct 9,Judge of the Court of Appeals,Position 12,,Under Votes,58
+Crook,Precinct 1,Judge of the Court of Appeals,Position 12,,Write-ins,3
+Crook,Precinct 10,Judge of the Court of Appeals,Position 12,,Write-ins,1
+Crook,Precinct 11,Judge of the Court of Appeals,Position 12,,Write-ins,24
+Crook,Precinct 12,Judge of the Court of Appeals,Position 12,,Write-ins,3
+Crook,Precinct 13,Judge of the Court of Appeals,Position 12,,Write-ins,8
+Crook,Precinct 14,Judge of the Court of Appeals,Position 12,,Write-ins,4
+Crook,Precinct 15,Judge of the Court of Appeals,Position 12,,Write-ins,22
+Crook,Precinct 16,Judge of the Court of Appeals,Position 12,,Write-ins,9
+Crook,Precinct 17,Judge of the Court of Appeals,Position 12,,Write-ins,50
+Crook,Precinct 2,Judge of the Court of Appeals,Position 12,,Write-ins,7
+Crook,Precinct 3,Judge of the Court of Appeals,Position 12,,Write-ins,0
+Crook,Precinct 4,Judge of the Court of Appeals,Position 12,,Write-ins,23
+Crook,Precinct 5,Judge of the Court of Appeals,Position 12,,Write-ins,26
+Crook,Precinct 6,Judge of the Court of Appeals,Position 12,,Write-ins,7
+Crook,Precinct 7,Judge of the Court of Appeals,Position 12,,Write-ins,8
+Crook,Precinct 8,Judge of the Court of Appeals,Position 12,,Write-ins,7
+Crook,Precinct 9,Judge of the Court of Appeals,Position 12,,Write-ins,10
 Crook,Precinct 1,Judge of the Court of Appeals,Position 13,,Doug Tookey,183
+Crook,Precinct 10,Judge of the Court of Appeals,Position 13,,Doug Tookey,149
+Crook,Precinct 11,Judge of the Court of Appeals,Position 13,,Doug Tookey,892
+Crook,Precinct 12,Judge of the Court of Appeals,Position 13,,Doug Tookey,39
+Crook,Precinct 13,Judge of the Court of Appeals,Position 13,,Doug Tookey,287
+Crook,Precinct 14,Judge of the Court of Appeals,Position 13,,Doug Tookey,135
+Crook,Precinct 15,Judge of the Court of Appeals,Position 13,,Doug Tookey,431
+Crook,Precinct 16,Judge of the Court of Appeals,Position 13,,Doug Tookey,204
+Crook,Precinct 17,Judge of the Court of Appeals,Position 13,,Doug Tookey,972
+Crook,Precinct 2,Judge of the Court of Appeals,Position 13,,Doug Tookey,145
 Crook,Precinct 3,Judge of the Court of Appeals,Position 13,,Doug Tookey,76
-Crook,Precinct 5,Judge of the Court of Appeals,Position 13,,Doug Tookey,3685
+Crook,Precinct 4,Judge of the Court of Appeals,Position 13,,Doug Tookey,413
+Crook,Precinct 5,Judge of the Court of Appeals,Position 13,,Doug Tookey,789
+Crook,Precinct 6,Judge of the Court of Appeals,Position 13,,Doug Tookey,283
+Crook,Precinct 7,Judge of the Court of Appeals,Position 13,,Doug Tookey,84
+Crook,Precinct 8,Judge of the Court of Appeals,Position 13,,Doug Tookey,170
+Crook,Precinct 9,Judge of the Court of Appeals,Position 13,,Doug Tookey,39
 Crook,Precinct 1,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 10,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 11,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 12,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 13,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 14,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 15,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 16,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 17,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 2,Judge of the Court of Appeals,Position 13,,Over Votes,0
 Crook,Precinct 3,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 4,Judge of the Court of Appeals,Position 13,,Over Votes,0
 Crook,Precinct 5,Judge of the Court of Appeals,Position 13,,Over Votes,0
-Crook,Precinct 1,Judge of the Court of Appeals,Position 13,,Under Votes,198
-Crook,Precinct 3,Judge of the Court of Appeals,Position 13,,Under Votes,439
-Crook,Precinct 5,Judge of the Court of Appeals,Position 13,,Under Votes,8155
-Crook,Precinct 1,Judge of the Court of Appeals,Position 13,,Write-ins,148
-Crook,Precinct 3,Judge of the Court of Appeals,Position 13,,Write-ins,413
-Crook,Precinct 5,Judge of the Court of Appeals,Position 13,,Write-ins,5444
-Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Erin C. Lagesen,5313
+Crook,Precinct 6,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 7,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 8,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 9,Judge of the Court of Appeals,Position 13,,Over Votes,0
+Crook,Precinct 1,Judge of the Court of Appeals,Position 13,,Under Votes,119
+Crook,Precinct 10,Judge of the Court of Appeals,Position 13,,Under Votes,94
+Crook,Precinct 11,Judge of the Court of Appeals,Position 13,,Under Votes,835
+Crook,Precinct 12,Judge of the Court of Appeals,Position 13,,Under Votes,48
+Crook,Precinct 13,Judge of the Court of Appeals,Position 13,,Under Votes,223
+Crook,Precinct 14,Judge of the Court of Appeals,Position 13,,Under Votes,106
+Crook,Precinct 15,Judge of the Court of Appeals,Position 13,,Under Votes,404
+Crook,Precinct 16,Judge of the Court of Appeals,Position 13,,Under Votes,215
+Crook,Precinct 17,Judge of the Court of Appeals,Position 13,,Under Votes,1008
+Crook,Precinct 2,Judge of the Court of Appeals,Position 13,,Under Votes,79
+Crook,Precinct 3,Judge of the Court of Appeals,Position 13,,Under Votes,61
+Crook,Precinct 4,Judge of the Court of Appeals,Position 13,,Under Votes,378
+Crook,Precinct 5,Judge of the Court of Appeals,Position 13,,Under Votes,688
+Crook,Precinct 6,Judge of the Court of Appeals,Position 13,,Under Votes,230
+Crook,Precinct 7,Judge of the Court of Appeals,Position 13,,Under Votes,109
+Crook,Precinct 8,Judge of the Court of Appeals,Position 13,,Under Votes,162
+Crook,Precinct 9,Judge of the Court of Appeals,Position 13,,Under Votes,58
+Crook,Precinct 1,Judge of the Court of Appeals,Position 13,,Write-ins,3
+Crook,Precinct 10,Judge of the Court of Appeals,Position 13,,Write-ins,0
+Crook,Precinct 11,Judge of the Court of Appeals,Position 13,,Write-ins,22
+Crook,Precinct 12,Judge of the Court of Appeals,Position 13,,Write-ins,3
+Crook,Precinct 13,Judge of the Court of Appeals,Position 13,,Write-ins,8
+Crook,Precinct 14,Judge of the Court of Appeals,Position 13,,Write-ins,5
+Crook,Precinct 15,Judge of the Court of Appeals,Position 13,,Write-ins,24
+Crook,Precinct 16,Judge of the Court of Appeals,Position 13,,Write-ins,10
+Crook,Precinct 17,Judge of the Court of Appeals,Position 13,,Write-ins,50
+Crook,Precinct 2,Judge of the Court of Appeals,Position 13,,Write-ins,5
+Crook,Precinct 3,Judge of the Court of Appeals,Position 13,,Write-ins,0
+Crook,Precinct 4,Judge of the Court of Appeals,Position 13,,Write-ins,22
+Crook,Precinct 5,Judge of the Court of Appeals,Position 13,,Write-ins,28
+Crook,Precinct 6,Judge of the Court of Appeals,Position 13,,Write-ins,7
+Crook,Precinct 7,Judge of the Court of Appeals,Position 13,,Write-ins,8
+Crook,Precinct 8,Judge of the Court of Appeals,Position 13,,Write-ins,6
+Crook,Precinct 9,Judge of the Court of Appeals,Position 13,,Write-ins,10
 Crook,Precinct 1,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,179
+Crook,Precinct 10,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,147
+Crook,Precinct 11,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,894
+Crook,Precinct 12,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,39
+Crook,Precinct 13,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,282
+Crook,Precinct 14,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,135
+Crook,Precinct 15,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,431
+Crook,Precinct 16,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,200
+Crook,Precinct 17,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,964
+Crook,Precinct 2,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,147
 Crook,Precinct 3,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,77
-Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,7748
-Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Jacqueline ‘xamins,200
+Crook,Precinct 4,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,415
+Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,794
+Crook,Precinct 6,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,287
+Crook,Precinct 7,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,83
+Crook,Precinct 8,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,168
+Crook,Precinct 9,Judge of the Court of Appeals,Position 9,,Jacqueline Kamins,40
 Crook,Precinct 1,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 10,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 11,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 12,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 13,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 14,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 15,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 16,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 17,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 2,Judge of the Court of Appeals,Position 9,,Over Votes,0
 Crook,Precinct 3,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 4,Judge of the Court of Appeals,Position 9,,Over Votes,0
 Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 6,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 7,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 8,Judge of the Court of Appeals,Position 9,,Over Votes,0
+Crook,Precinct 9,Judge of the Court of Appeals,Position 9,,Over Votes,0
 Crook,Precinct 1,Judge of the Court of Appeals,Position 9,,Under Votes,122
+Crook,Precinct 10,Judge of the Court of Appeals,Position 9,,Under Votes,95
+Crook,Precinct 11,Judge of the Court of Appeals,Position 9,,Under Votes,825
+Crook,Precinct 12,Judge of the Court of Appeals,Position 9,,Under Votes,48
+Crook,Precinct 13,Judge of the Court of Appeals,Position 9,,Under Votes,227
+Crook,Precinct 14,Judge of the Court of Appeals,Position 9,,Under Votes,107
+Crook,Precinct 15,Judge of the Court of Appeals,Position 9,,Under Votes,404
+Crook,Precinct 16,Judge of the Court of Appeals,Position 9,,Under Votes,219
+Crook,Precinct 17,Judge of the Court of Appeals,Position 9,,Under Votes,1017
+Crook,Precinct 2,Judge of the Court of Appeals,Position 9,,Under Votes,74
 Crook,Precinct 3,Judge of the Court of Appeals,Position 9,,Under Votes,60
-Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Under Votes,7107
+Crook,Precinct 4,Judge of the Court of Appeals,Position 9,,Under Votes,373
+Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Under Votes,684
+Crook,Precinct 6,Judge of the Court of Appeals,Position 9,,Under Votes,226
+Crook,Precinct 7,Judge of the Court of Appeals,Position 9,,Under Votes,110
+Crook,Precinct 8,Judge of the Court of Appeals,Position 9,,Under Votes,162
+Crook,Precinct 9,Judge of the Court of Appeals,Position 9,,Under Votes,57
 Crook,Precinct 1,Judge of the Court of Appeals,Position 9,,Write-ins,4
+Crook,Precinct 10,Judge of the Court of Appeals,Position 9,,Write-ins,1
+Crook,Precinct 11,Judge of the Court of Appeals,Position 9,,Write-ins,30
+Crook,Precinct 12,Judge of the Court of Appeals,Position 9,,Write-ins,3
+Crook,Precinct 13,Judge of the Court of Appeals,Position 9,,Write-ins,9
+Crook,Precinct 14,Judge of the Court of Appeals,Position 9,,Write-ins,4
+Crook,Precinct 15,Judge of the Court of Appeals,Position 9,,Write-ins,24
+Crook,Precinct 16,Judge of the Court of Appeals,Position 9,,Write-ins,10
+Crook,Precinct 17,Judge of the Court of Appeals,Position 9,,Write-ins,49
+Crook,Precinct 2,Judge of the Court of Appeals,Position 9,,Write-ins,8
 Crook,Precinct 3,Judge of the Court of Appeals,Position 9,,Write-ins,0
-Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Write-ins,543
-Crook,Precinct 1,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,322
-Crook,Precinct 3,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,501
-Crook,Precinct 5,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,9702
+Crook,Precinct 4,Judge of the Court of Appeals,Position 9,,Write-ins,25
+Crook,Precinct 5,Judge of the Court of Appeals,Position 9,,Write-ins,27
+Crook,Precinct 6,Judge of the Court of Appeals,Position 9,,Write-ins,7
+Crook,Precinct 7,Judge of the Court of Appeals,Position 9,,Write-ins,8
+Crook,Precinct 8,Judge of the Court of Appeals,Position 9,,Write-ins,8
+Crook,Precinct 9,Judge of the Court of Appeals,Position 9,,Write-ins,10
+Crook,Precinct 1,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,179
+Crook,Precinct 10,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,144
+Crook,Precinct 11,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,914
+Crook,Precinct 12,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,39
+Crook,Precinct 13,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,283
+Crook,Precinct 14,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,138
+Crook,Precinct 15,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,439
+Crook,Precinct 16,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,214
+Crook,Precinct 17,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,1017
+Crook,Precinct 2,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,143
+Crook,Precinct 3,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,78
+Crook,Precinct 4,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,423
+Crook,Precinct 5,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,828
+Crook,Precinct 6,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,296
+Crook,Precinct 7,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,87
+Crook,Precinct 8,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,168
+Crook,Precinct 9,Judge of the Supreme Court,Position 4,,Christopher L. Garrett,41
 Crook,Precinct 1,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 10,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 11,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 12,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 13,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 14,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 15,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 16,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 17,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 2,Judge of the Supreme Court,Position 4,,Over Votes,0
 Crook,Precinct 3,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 4,Judge of the Supreme Court,Position 4,,Over Votes,0
 Crook,Precinct 5,Judge of the Supreme Court,Position 4,,Over Votes,0
-Crook,Precinct 5,Judge of the Supreme Court,Position 4,,Ryan T. O'Connor,288
-Crook,Precinct 1,Judge of the Supreme Court,Position 4,,Under Votes,203
-Crook,Precinct 3,Judge of the Supreme Court,Position 4,,Under Votes,424
-Crook,Precinct 5,Judge of the Supreme Court,Position 4,,Under Votes,7534
-Crook,Precinct 1,Judge of the Supreme Court,Position 4,,Write-ins,9
-Crook,Precinct 3,Judge of the Supreme Court,Position 4,,Write-ins,25
-Crook,Precinct 5,Judge of the Supreme Court,Position 4,,Write-ins,502
-Crook,Precinct 1,Labor Commissioner,,,Chris Lynch,220
-Crook,Precinct 3,Labor Commissioner,,,Chris Lynch,345
-Crook,Precinct 5,Labor Commissioner,,,Chris Lynch,7389
-Crook,Precinct 1,Labor Commissioner,,,Christina E. Stephenson,181
-Crook,Precinct 5,Labor Commissioner,,,Christina E. Stephenson,5936
-Crook,Precinct 3,Labor Commissioner,,,Christina E. Stephensor,231
-Crook,Precinct 5,Labor Commissioner,,,Christopher L. Garrett,296
+Crook,Precinct 6,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 7,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 8,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 9,Judge of the Supreme Court,Position 4,,Over Votes,0
+Crook,Precinct 1,Judge of the Supreme Court,Position 4,,Under Votes,123
+Crook,Precinct 10,Judge of the Supreme Court,Position 4,,Under Votes,93
+Crook,Precinct 11,Judge of the Supreme Court,Position 4,,Under Votes,796
+Crook,Precinct 12,Judge of the Supreme Court,Position 4,,Under Votes,48
+Crook,Precinct 13,Judge of the Supreme Court,Position 4,,Under Votes,223
+Crook,Precinct 14,Judge of the Supreme Court,Position 4,,Under Votes,102
+Crook,Precinct 15,Judge of the Supreme Court,Position 4,,Under Votes,390
+Crook,Precinct 16,Judge of the Supreme Court,Position 4,,Under Votes,203
+Crook,Precinct 17,Judge of the Supreme Court,Position 4,,Under Votes,947
+Crook,Precinct 2,Judge of the Supreme Court,Position 4,,Under Votes,80
+Crook,Precinct 3,Judge of the Supreme Court,Position 4,,Under Votes,59
+Crook,Precinct 4,Judge of the Supreme Court,Position 4,,Under Votes,365
+Crook,Precinct 5,Judge of the Supreme Court,Position 4,,Under Votes,649
+Crook,Precinct 6,Judge of the Supreme Court,Position 4,,Under Votes,216
+Crook,Precinct 7,Judge of the Supreme Court,Position 4,,Under Votes,105
+Crook,Precinct 8,Judge of the Supreme Court,Position 4,,Under Votes,162
+Crook,Precinct 9,Judge of the Supreme Court,Position 4,,Under Votes,53
+Crook,Precinct 1,Judge of the Supreme Court,Position 4,,Write-ins,3
+Crook,Precinct 10,Judge of the Supreme Court,Position 4,,Write-ins,6
+Crook,Precinct 11,Judge of the Supreme Court,Position 4,,Write-ins,39
+Crook,Precinct 12,Judge of the Supreme Court,Position 4,,Write-ins,3
+Crook,Precinct 13,Judge of the Supreme Court,Position 4,,Write-ins,12
+Crook,Precinct 14,Judge of the Supreme Court,Position 4,,Write-ins,6
+Crook,Precinct 15,Judge of the Supreme Court,Position 4,,Write-ins,30
+Crook,Precinct 16,Judge of the Supreme Court,Position 4,,Write-ins,12
+Crook,Precinct 17,Judge of the Supreme Court,Position 4,,Write-ins,66
+Crook,Precinct 2,Judge of the Supreme Court,Position 4,,Write-ins,6
+Crook,Precinct 3,Judge of the Supreme Court,Position 4,,Write-ins,0
+Crook,Precinct 4,Judge of the Supreme Court,Position 4,,Write-ins,25
+Crook,Precinct 5,Judge of the Supreme Court,Position 4,,Write-ins,28
+Crook,Precinct 6,Judge of the Supreme Court,Position 4,,Write-ins,8
+Crook,Precinct 7,Judge of the Supreme Court,Position 4,,Write-ins,9
+Crook,Precinct 8,Judge of the Supreme Court,Position 4,,Write-ins,8
+Crook,Precinct 9,Judge of the Supreme Court,Position 4,,Write-ins,13
+Crook,Precinct 1,Labor Commissioner,,,Chris Lynch,132
+Crook,Precinct 10,Labor Commissioner,,,Chris Lynch,77
+Crook,Precinct 11,Labor Commissioner,,,Chris Lynch,653
+Crook,Precinct 12,Labor Commissioner,,,Chris Lynch,39
+Crook,Precinct 13,Labor Commissioner,,,Chris Lynch,198
+Crook,Precinct 14,Labor Commissioner,,,Chris Lynch,96
+Crook,Precinct 15,Labor Commissioner,,,Chris Lynch,355
+Crook,Precinct 16,Labor Commissioner,,,Chris Lynch,190
+Crook,Precinct 17,Labor Commissioner,,,Chris Lynch,810
+Crook,Precinct 2,Labor Commissioner,,,Chris Lynch,88
+Crook,Precinct 3,Labor Commissioner,,,Chris Lynch,40
+Crook,Precinct 4,Labor Commissioner,,,Chris Lynch,345
+Crook,Precinct 5,Labor Commissioner,,,Chris Lynch,617
+Crook,Precinct 6,Labor Commissioner,,,Chris Lynch,187
+Crook,Precinct 7,Labor Commissioner,,,Chris Lynch,90
+Crook,Precinct 8,Labor Commissioner,,,Chris Lynch,120
+Crook,Precinct 9,Labor Commissioner,,,Chris Lynch,40
+Crook,Precinct 1,Labor Commissioner,,,Christina E. Stephenson,97
+Crook,Precinct 10,Labor Commissioner,,,Christina E. Stephenson,106
+Crook,Precinct 11,Labor Commissioner,,,Christina E. Stephenson,566
+Crook,Precinct 12,Labor Commissioner,,,Christina E. Stephenson,20
+Crook,Precinct 13,Labor Commissioner,,,Christina E. Stephenson,149
+Crook,Precinct 14,Labor Commissioner,,,Christina E. Stephenson,96
+Crook,Precinct 15,Labor Commissioner,,,Christina E. Stephenson,250
+Crook,Precinct 16,Labor Commissioner,,,Christina E. Stephenson,108
+Crook,Precinct 17,Labor Commissioner,,,Christina E. Stephenson,649
+Crook,Precinct 2,Labor Commissioner,,,Christina E. Stephenson,84
+Crook,Precinct 3,Labor Commissioner,,,Christina E. Stephenson,54
+Crook,Precinct 4,Labor Commissioner,,,Christina E. Stephenson,231
+Crook,Precinct 5,Labor Commissioner,,,Christina E. Stephenson,485
+Crook,Precinct 6,Labor Commissioner,,,Christina E. Stephenson,183
+Crook,Precinct 7,Labor Commissioner,,,Christina E. Stephenson,46
+Crook,Precinct 8,Labor Commissioner,,,Christina E. Stephenson,122
+Crook,Precinct 9,Labor Commissioner,,,Christina E. Stephenson,32
 Crook,Precinct 1,Labor Commissioner,,,Over Votes,2
+Crook,Precinct 10,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 11,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 12,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 13,Labor Commissioner,,,Over Votes,1
+Crook,Precinct 14,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 15,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 16,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 17,Labor Commissioner,,,Over Votes,1
+Crook,Precinct 2,Labor Commissioner,,,Over Votes,0
 Crook,Precinct 3,Labor Commissioner,,,Over Votes,0
-Crook,Precinct 5,Labor Commissioner,,,Over Votes,6
-Crook,Precinct 1,Labor Commissioner,,,Under Votes,128
-Crook,Precinct 3,Labor Commissioner,,,Under Votes,235
-Crook,Precinct 5,Labor Commissioner,,,Under Votes,5197
-Crook,Precinct 1,Labor Commissioner,,,Write-ins,3
-Crook,Precinct 3,Labor Commissioner,,,Write-ins,2
-Crook,Precinct 5,Labor Commissioner,,,Write-ins,99
-Crook,Precinct 1,Registered Voters,,,,10323
-Crook,Precinct 3,Registered Voters,,,,10323
-Crook,Precinct 5,Registered Voters,,,,10323
-Crook,Precinct 5,State House,59,D,Audra Oliver,70
-Crook,Precinct 5,State House,59,D,Bryan G. Iverson,235
-Crook,Precinct 5,State House,59,D,Carol Dallas,69
-Crook,Precinct 5,State House,59,D,Chris Lynch,40
-Crook,Precinct 5,State House,59,D,Christina E. Stephenson,32
-Crook,Precinct 5,State House,59,D,Christopher L. Garrett,41
-Crook,Precinct 3,State House,59,D,Dale Keller,307
-Crook,Precinct 3,State House,59,D,Frances L. Carter,242
-Crook,Precinct 5,State House,59,D,Jacqueline Kamins,40
-Crook,Precinct 5,State House,59,D,Jennifer Winders,8
-Crook,Precinct 5,State House,59,D,Jodie Fleck,56
-Crook,Precinct 5,State House,59,D,John Fleck,52
-Crook,Precinct 1,State House,59,D,Lawrence Jones,70
-Crook,Precinct 3,State House,59,D,Lawrence Jones,83
-Crook,Precinct 5,State House,59,D,Lawrence Jones,1922
-Crook,Precinct 5,State House,59,D,Mike Ervin,233
+Crook,Precinct 4,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 5,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 6,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 7,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 8,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 9,Labor Commissioner,,,Over Votes,0
+Crook,Precinct 1,Labor Commissioner,,,Under Votes,72
+Crook,Precinct 10,Labor Commissioner,,,Under Votes,60
+Crook,Precinct 11,Labor Commissioner,,,Under Votes,522
+Crook,Precinct 12,Labor Commissioner,,,Under Votes,31
+Crook,Precinct 13,Labor Commissioner,,,Under Votes,167
+Crook,Precinct 14,Labor Commissioner,,,Under Votes,53
+Crook,Precinct 15,Labor Commissioner,,,Under Votes,246
+Crook,Precinct 16,Labor Commissioner,,,Under Votes,129
+Crook,Precinct 17,Labor Commissioner,,,Under Votes,556
+Crook,Precinct 2,Labor Commissioner,,,Under Votes,56
+Crook,Precinct 3,Labor Commissioner,,,Under Votes,43
+Crook,Precinct 4,Labor Commissioner,,,Under Votes,235
+Crook,Precinct 5,Labor Commissioner,,,Under Votes,400
+Crook,Precinct 6,Labor Commissioner,,,Under Votes,148
+Crook,Precinct 7,Labor Commissioner,,,Under Votes,63
+Crook,Precinct 8,Labor Commissioner,,,Under Votes,96
+Crook,Precinct 9,Labor Commissioner,,,Under Votes,35
+Crook,Precinct 1,Labor Commissioner,,,Write-ins,2
+Crook,Precinct 10,Labor Commissioner,,,Write-ins,0
+Crook,Precinct 11,Labor Commissioner,,,Write-ins,8
+Crook,Precinct 12,Labor Commissioner,,,Write-ins,0
+Crook,Precinct 13,Labor Commissioner,,,Write-ins,3
+Crook,Precinct 14,Labor Commissioner,,,Write-ins,1
+Crook,Precinct 15,Labor Commissioner,,,Write-ins,8
+Crook,Precinct 16,Labor Commissioner,,,Write-ins,2
+Crook,Precinct 17,Labor Commissioner,,,Write-ins,14
+Crook,Precinct 2,Labor Commissioner,,,Write-ins,1
+Crook,Precinct 3,Labor Commissioner,,,Write-ins,0
+Crook,Precinct 4,Labor Commissioner,,,Write-ins,2
+Crook,Precinct 5,Labor Commissioner,,,Write-ins,3
+Crook,Precinct 6,Labor Commissioner,,,Write-ins,2
+Crook,Precinct 7,Labor Commissioner,,,Write-ins,2
+Crook,Precinct 8,Labor Commissioner,,,Write-ins,0
+Crook,Precinct 9,Labor Commissioner,,,Write-ins,0
+Crook,Precinct 1,Measure 120,,,No,281
+Crook,Precinct 10,Measure 120,,,No,213
+Crook,Precinct 11,Measure 120,,,No,1567
+Crook,Precinct 12,Measure 120,,,No,89
+Crook,Precinct 13,Measure 120,,,No,484
+Crook,Precinct 14,Measure 120,,,No,232
+Crook,Precinct 15,Measure 120,,,No,792
+Crook,Precinct 16,Measure 120,,,No,410
+Crook,Precinct 17,Measure 120,,,No,1933
+Crook,Precinct 2,Measure 120,,,No,208
+Crook,Precinct 3,Measure 120,,,No,117
+Crook,Precinct 4,Measure 120,,,No,763
+Crook,Precinct 5,Measure 120,,,No,1399
+Crook,Precinct 6,Measure 120,,,No,452
+Crook,Precinct 7,Measure 120,,,No,190
+Crook,Precinct 8,Measure 120,,,No,315
+Crook,Precinct 9,Measure 120,,,No,105
+Crook,Precinct 1,Measure 120,,,Over Votes,0
+Crook,Precinct 10,Measure 120,,,Over Votes,0
+Crook,Precinct 11,Measure 120,,,Over Votes,0
+Crook,Precinct 12,Measure 120,,,Over Votes,0
+Crook,Precinct 13,Measure 120,,,Over Votes,0
+Crook,Precinct 14,Measure 120,,,Over Votes,0
+Crook,Precinct 15,Measure 120,,,Over Votes,0
+Crook,Precinct 16,Measure 120,,,Over Votes,0
+Crook,Precinct 17,Measure 120,,,Over Votes,0
+Crook,Precinct 2,Measure 120,,,Over Votes,0
+Crook,Precinct 3,Measure 120,,,Over Votes,0
+Crook,Precinct 4,Measure 120,,,Over Votes,0
+Crook,Precinct 5,Measure 120,,,Over Votes,0
+Crook,Precinct 6,Measure 120,,,Over Votes,0
+Crook,Precinct 7,Measure 120,,,Over Votes,0
+Crook,Precinct 8,Measure 120,,,Over Votes,0
+Crook,Precinct 9,Measure 120,,,Over Votes,0
+Crook,Precinct 1,Measure 120,,,Under Votes,8
+Crook,Precinct 10,Measure 120,,,Under Votes,10
+Crook,Precinct 11,Measure 120,,,Under Votes,54
+Crook,Precinct 12,Measure 120,,,Under Votes,1
+Crook,Precinct 13,Measure 120,,,Under Votes,16
+Crook,Precinct 14,Measure 120,,,Under Votes,3
+Crook,Precinct 15,Measure 120,,,Under Votes,23
+Crook,Precinct 16,Measure 120,,,Under Votes,10
+Crook,Precinct 17,Measure 120,,,Under Votes,29
+Crook,Precinct 2,Measure 120,,,Under Votes,7
+Crook,Precinct 3,Measure 120,,,Under Votes,9
+Crook,Precinct 4,Measure 120,,,Under Votes,24
+Crook,Precinct 5,Measure 120,,,Under Votes,42
+Crook,Precinct 6,Measure 120,,,Under Votes,21
+Crook,Precinct 7,Measure 120,,,Under Votes,5
+Crook,Precinct 8,Measure 120,,,Under Votes,12
+Crook,Precinct 9,Measure 120,,,Under Votes,0
+Crook,Precinct 1,Measure 120,,,Yes,16
+Crook,Precinct 10,Measure 120,,,Yes,20
+Crook,Precinct 11,Measure 120,,,Yes,128
+Crook,Precinct 12,Measure 120,,,Yes,0
+Crook,Precinct 13,Measure 120,,,Yes,18
+Crook,Precinct 14,Measure 120,,,Yes,11
+Crook,Precinct 15,Measure 120,,,Yes,44
+Crook,Precinct 16,Measure 120,,,Yes,9
+Crook,Precinct 17,Measure 120,,,Yes,68
+Crook,Precinct 2,Measure 120,,,Yes,14
+Crook,Precinct 3,Measure 120,,,Yes,11
+Crook,Precinct 4,Measure 120,,,Yes,26
+Crook,Precinct 5,Measure 120,,,Yes,64
+Crook,Precinct 6,Measure 120,,,Yes,47
+Crook,Precinct 7,Measure 120,,,Yes,6
+Crook,Precinct 8,Measure 120,,,Yes,11
+Crook,Precinct 9,Measure 120,,,Yes,2
+Crook,Precinct 6,Precinct Committee Person,,D,Ann Blank,92
+Crook,Precinct 15,Precinct Committee Person,,D,Audra Oliver,70
+Crook,Precinct 11,Precinct Committee Person,,D,Barbara Fontaine,163
+Crook,Precinct 11,Precinct Committee Person,,D,Barbara Page Johnson,153
+Crook,Precinct 5,Precinct Committee Person,,D,Brian K. Samp,120
+Crook,Precinct 15,Precinct Committee Person,,D,Carol Dallas,69
+Crook,Precinct 5,Precinct Committee Person,,D,Darlene Fishel,121
+Crook,Precinct 17,Precinct Committee Person,,D,Deborah M. Robison,125
+Crook,Precinct 5,Precinct Committee Person,,D,Deette (Dee) Coonse,121
+Crook,Precinct 11,Precinct Committee Person,,D,Eileen Obermiller,158
+Crook,Precinct 6,Precinct Committee Person,,D,Elizabeth Peer,87
+Crook,Precinct 11,Precinct Committee Person,,D,Gary Baker,153
+Crook,Precinct 17,Precinct Committee Person,,D,Gary Parn,136
+Crook,Precinct 3,Precinct Committee Person,,D,Hannah Oliver,30
+Crook,Precinct 10,Precinct Committee Person,,D,JC Van Voorhees,49
+Crook,Precinct 11,Precinct Committee Person,,D,Janet Herrmann,153
+Crook,Precinct 1,Precinct Committee Person,,D,Jeannette K. Holman,41
+Crook,Precinct 9,Precinct Committee Person,,D,Jennifer Winders,8
+Crook,Precinct 2,Precinct Committee Person,,D,Jerry Cordova,29
+Crook,Precinct 17,Precinct Committee Person,,D,Jerry Muir,122
+Crook,Precinct 17,Precinct Committee Person,,D,Jim Verry,120
+Crook,Precinct 11,Precinct Committee Person,,D,Joel B. Komarek,158
+Crook,Precinct 17,Precinct Committee Person,,D,Karlene Richmond,123
+Crook,Precinct 17,Precinct Committee Person,,D,Kim Duncan,127
+Crook,Precinct 17,Precinct Committee Person,,D,Laquita Stec,130
+Crook,Precinct 3,Precinct Committee Person,,D,Lawrence Jones,23
+Crook,Precinct 13,Precinct Committee Person,,D,Mark Maboll,27
+Crook,Precinct 17,Precinct Committee Person,,D,Mary E. Very,122
+Crook,Precinct 2,Precinct Committee Person,,D,Michelle E. Cordova,31
+Crook,Precinct 1,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 10,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 11,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 12,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 13,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 14,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 15,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 16,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 17,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 2,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 3,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 4,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 5,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 6,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 7,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 8,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 9,Precinct Committee Person,,D,Over Votes,0
+Crook,Precinct 6,Precinct Committee Person,,D,Paul Luben Miller,86
+Crook,Precinct 13,Precinct Committee Person,,D,Paula Minetti-Maboll,30
+Crook,Precinct 8,Precinct Committee Person,,D,Priscilla Smith,30
+Crook,Precinct 6,Precinct Committee Person,,D,Roger Peer,85
+Crook,Precinct 1,Precinct Committee Person,,D,Steve Holman,36
+Crook,Precinct 17,Precinct Committee Person,,D,Thomas L. Robison,122
+Crook,Precinct 1,Precinct Committee Person,,D,Under Votes,94
+Crook,Precinct 10,Precinct Committee Person,,D,Under Votes,85
+Crook,Precinct 11,Precinct Committee Person,,D,Under Votes,2554
+Crook,Precinct 12,Precinct Committee Person,,D,Under Votes,14
+Crook,Precinct 13,Precinct Committee Person,,D,Under Votes,220
+Crook,Precinct 14,Precinct Committee Person,,D,Under Votes,130
+Crook,Precinct 15,Precinct Committee Person,,D,Under Votes,779
+Crook,Precinct 16,Precinct Committee Person,,D,Under Votes,238
+Crook,Precinct 17,Precinct Committee Person,,D,Under Votes,3525
+Crook,Precinct 2,Precinct Committee Person,,D,Under Votes,77
+Crook,Precinct 3,Precinct Committee Person,,D,Under Votes,31
+Crook,Precinct 4,Precinct Committee Person,,D,Under Votes,529
+Crook,Precinct 5,Precinct Committee Person,,D,Under Votes,2760
+Crook,Precinct 6,Precinct Committee Person,,D,Under Votes,161
+Crook,Precinct 7,Precinct Committee Person,,D,Under Votes,34
+Crook,Precinct 8,Precinct Committee Person,,D,Under Votes,194
+Crook,Precinct 9,Precinct Committee Person,,D,Under Votes,20
+Crook,Precinct 1,Precinct Committee Person,,D,Write-ins,0
+Crook,Precinct 10,Precinct Committee Person,,D,Write-ins,0
+Crook,Precinct 11,Precinct Committee Person,,D,Write-ins,23
+Crook,Precinct 12,Precinct Committee Person,,D,Write-ins,0
+Crook,Precinct 13,Precinct Committee Person,,D,Write-ins,3
+Crook,Precinct 14,Precinct Committee Person,,D,Write-ins,2
+Crook,Precinct 15,Precinct Committee Person,,D,Write-ins,6
+Crook,Precinct 16,Precinct Committee Person,,D,Write-ins,6
+Crook,Precinct 17,Precinct Committee Person,,D,Write-ins,4
+Crook,Precinct 2,Precinct Committee Person,,D,Write-ins,1
+Crook,Precinct 3,Precinct Committee Person,,D,Write-ins,0
+Crook,Precinct 4,Precinct Committee Person,,D,Write-ins,5
+Crook,Precinct 5,Precinct Committee Person,,D,Write-ins,11
+Crook,Precinct 6,Precinct Committee Person,,D,Write-ins,1
+Crook,Precinct 7,Precinct Committee Person,,D,Write-ins,0
+Crook,Precinct 8,Precinct Committee Person,,D,Write-ins,4
+Crook,Precinct 9,Precinct Committee Person,,D,Write-ins,0
+Crook,Precinct 5,Precinct Committee Person,,R,Barbara L. Vieu,346
+Crook,Precinct 13,Precinct Committee Person,,R,Becky Cholin,164
+Crook,Precinct 1,Precinct Committee Person,,R,Brad Bartlett,127
+Crook,Precinct 15,Precinct Committee Person,,R,Bryan G. Iverson,235
+Crook,Precinct 5,Precinct Committee Person,,R,Calista Songstad,354
+Crook,Precinct 5,Precinct Committee Person,,R,Chera M. Sowers,377
+Crook,Precinct 5,Precinct Committee Person,,R,Cynthia A. Harper,362
+Crook,Precinct 4,Precinct Committee Person,,R,Dale Keller,307
+Crook,Precinct 10,Precinct Committee Person,,R,David Clark Hale,74
+Crook,Precinct 5,Precinct Committee Person,,R,David W. Vieu,349
+Crook,Precinct 17,Precinct Committee Person,,R,Debra A. Reister Karikas,419
+Crook,Precinct 17,Precinct Committee Person,,R,Denise Holznagel,426
+Crook,Precinct 1,Precinct Committee Person,,R,Diane Bartlett,105
+Crook,Precinct 17,Precinct Committee Person,,R,Dock L. Kerbow,483
+Crook,Precinct 5,Precinct Committee Person,,R,Donna Hammond,379
+Crook,Precinct 17,Precinct Committee Person,,R,Donna L. Dobin,423
+Crook,Precinct 13,Precinct Committee Person,,R,Ellen R. Nichol,159
+Crook,Precinct 2,Precinct Committee Person,,R,Ethan S. Meltzer,55
+Crook,Precinct 4,Precinct Committee Person,,R,Frances L. Carter,242
+Crook,Precinct 17,Precinct Committee Person,,R,Garrett Stephens,460
+Crook,Precinct 11,Precinct Committee Person,,R,Hal E. Lawson,473
+Crook,Precinct 6,Precinct Committee Person,,R,Jack R. Rabenberg,117
+Crook,Precinct 9,Precinct Committee Person,,R,Jodie Fleck,56
+Crook,Precinct 9,Precinct Committee Person,,R,John Fleck,52
+Crook,Precinct 8,Precinct Committee Person,,R,John Tombleson,103
+Crook,Precinct 13,Precinct Committee Person,,R,Kara Becker,200
+Crook,Precinct 6,Precinct Committee Person,,R,Karen S. Rabenberg,108
+Crook,Precinct 5,Precinct Committee Person,,R,Kathy Clay,348
+Crook,Precinct 2,Precinct Committee Person,,R,Kim Meltzer,58
+Crook,Precinct 8,Precinct Committee Person,,R,Lexie Tombleson,95
+Crook,Precinct 6,Precinct Committee Person,,R,Margery Crawford,134
+Crook,Precinct 15,Precinct Committee Person,,R,Mike Ervin,233
+Crook,Precinct 3,Precinct Committee Person,,R,Nicole J. Kalk,29
+Crook,Precinct 1,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 10,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 11,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 12,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 13,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 14,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 15,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 16,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 17,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 2,Precinct Committee Person,,R,Over Votes,3
+Crook,Precinct 3,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 4,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 5,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 6,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 7,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 8,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 9,Precinct Committee Person,,R,Over Votes,0
+Crook,Precinct 17,Precinct Committee Person,,R,Ramona Lang,421
+Crook,Precinct 5,Precinct Committee Person,,R,Robert Sowers,377
+Crook,Precinct 11,Precinct Committee Person,,R,Robin L. Olson,482
+Crook,Precinct 13,Precinct Committee Person,,R,Ron Cholin,181
+Crook,Precinct 1,Precinct Committee Person,,R,Rosie Lynch,103
+Crook,Precinct 17,Precinct Committee Person,,R,Sandy Kerbow,466
+Crook,Precinct 17,Precinct Committee Person,,R,Sharon Cox,447
+Crook,Precinct 7,Precinct Committee Person,,R,Shasta Ramoss,78
+Crook,Precinct 14,Precinct Committee Person,,R,Shelley Lyda,89
+Crook,Precinct 4,Precinct Committee Person,,R,Susanne L. Walters-Moore,229
+Crook,Precinct 15,Precinct Committee Person,,R,Teresa Ervin,229
+Crook,Precinct 3,Precinct Committee Person,,R,Toni L. Thompson,28
+Crook,Precinct 1,Precinct Committee Person,,R,Under Votes,221
+Crook,Precinct 10,Precinct Committee Person,,R,Under Votes,154
+Crook,Precinct 11,Precinct Committee Person,,R,Under Votes,11925
+Crook,Precinct 12,Precinct Committee Person,,R,Under Votes,120
+Crook,Precinct 13,Precinct Committee Person,,R,Under Votes,687
+Crook,Precinct 14,Precinct Committee Person,,R,Under Votes,330
+Crook,Precinct 15,Precinct Committee Person,,R,Under Votes,2354
+Crook,Precinct 16,Precinct Committee Person,,R,Under Votes,1034
+Crook,Precinct 17,Precinct Committee Person,,R,Under Votes,15768
+Crook,Precinct 2,Precinct Committee Person,,R,Under Votes,215
+Crook,Precinct 3,Precinct Committee Person,,R,Under Votes,57
+Crook,Precinct 4,Precinct Committee Person,,R,Under Votes,2588
+Crook,Precinct 5,Precinct Committee Person,,R,Under Votes,8992
+Crook,Precinct 6,Precinct Committee Person,,R,Under Votes,705
+Crook,Precinct 7,Precinct Committee Person,,R,Under Votes,208
+Crook,Precinct 8,Precinct Committee Person,,R,Under Votes,562
+Crook,Precinct 9,Precinct Committee Person,,R,Under Votes,50
+Crook,Precinct 15,Precinct Committee Person,,R,Vikki Breese-Iverson,327
+Crook,Precinct 15,Precinct Committee Person,,R,William J. Meltzer,219
+Crook,Precinct 1,Precinct Committee Person,,R,Write-ins,2
+Crook,Precinct 10,Precinct Committee Person,,R,Write-ins,0
+Crook,Precinct 11,Precinct Committee Person,,R,Write-ins,46
+Crook,Precinct 12,Precinct Committee Person,,R,Write-ins,10
+Crook,Precinct 13,Precinct Committee Person,,R,Write-ins,1
+Crook,Precinct 14,Precinct Committee Person,,R,Write-ins,7
+Crook,Precinct 15,Precinct Committee Person,,R,Write-ins,22
+Crook,Precinct 16,Precinct Committee Person,,R,Write-ins,10
+Crook,Precinct 17,Precinct Committee Person,,R,Write-ins,93
+Crook,Precinct 2,Precinct Committee Person,,R,Write-ins,8
+Crook,Precinct 3,Precinct Committee Person,,R,Write-ins,0
+Crook,Precinct 4,Precinct Committee Person,,R,Write-ins,18
+Crook,Precinct 5,Precinct Committee Person,,R,Write-ins,50
+Crook,Precinct 6,Precinct Committee Person,,R,Write-ins,20
+Crook,Precinct 7,Precinct Committee Person,,R,Write-ins,0
+Crook,Precinct 8,Precinct Committee Person,,R,Write-ins,8
+Crook,Precinct 9,Precinct Committee Person,,R,Write-ins,2
+Crook,Precinct 1,State House,59,D,Lawrence Jones,38
+Crook,Precinct 10,State House,59,D,Lawrence Jones,47
+Crook,Precinct 11,State House,59,D,Lawrence Jones,187
+Crook,Precinct 12,State House,59,D,Lawrence Jones,5
+Crook,Precinct 13,State House,59,D,Lawrence Jones,40
+Crook,Precinct 14,State House,59,D,Lawrence Jones,25
+Crook,Precinct 15,State House,59,D,Lawrence Jones,92
+Crook,Precinct 16,State House,59,D,Lawrence Jones,38
+Crook,Precinct 17,State House,59,D,Lawrence Jones,171
+Crook,Precinct 2,State House,59,D,Lawrence Jones,32
+Crook,Precinct 3,State House,59,D,Lawrence Jones,32
+Crook,Precinct 4,State House,59,D,Lawrence Jones,51
+Crook,Precinct 5,State House,59,D,Lawrence Jones,159
+Crook,Precinct 6,State House,59,D,Lawrence Jones,79
+Crook,Precinct 7,State House,59,D,Lawrence Jones,10
+Crook,Precinct 8,State House,59,D,Lawrence Jones,24
+Crook,Precinct 9,State House,59,D,Lawrence Jones,10
 Crook,Precinct 1,State House,59,D,Over Votes,0
+Crook,Precinct 10,State House,59,D,Over Votes,0
+Crook,Precinct 11,State House,59,D,Over Votes,0
+Crook,Precinct 12,State House,59,D,Over Votes,0
+Crook,Precinct 13,State House,59,D,Over Votes,0
+Crook,Precinct 14,State House,59,D,Over Votes,0
+Crook,Precinct 15,State House,59,D,Over Votes,0
+Crook,Precinct 16,State House,59,D,Over Votes,0
+Crook,Precinct 17,State House,59,D,Over Votes,0
+Crook,Precinct 2,State House,59,D,Over Votes,0
 Crook,Precinct 3,State House,59,D,Over Votes,0
+Crook,Precinct 4,State House,59,D,Over Votes,0
 Crook,Precinct 5,State House,59,D,Over Votes,0
-Crook,Precinct 5,State House,59,D,Ryan T. O'Connor,42
-Crook,Precinct 3,State House,59,D,Susanne L. Walters-Moore,229
-Crook,Precinct 5,State House,59,D,Teresa Ervin,229
+Crook,Precinct 6,State House,59,D,Over Votes,0
+Crook,Precinct 7,State House,59,D,Over Votes,0
+Crook,Precinct 8,State House,59,D,Over Votes,0
+Crook,Precinct 9,State House,59,D,Over Votes,0
 Crook,Precinct 1,State House,59,D,Under Votes,17
-Crook,Precinct 3,State House,59,D,Under Votes,3159
-Crook,Precinct 5,State House,59,D,Under Votes,4540
-Crook,Precinct 5,State House,59,D,Vikki Breese Iverson,327
-Crook,Precinct 5,State House,59,D,Vikki Breese-Iverson,466
-Crook,Precinct 5,State House,59,D,William J. Meltzer,219
+Crook,Precinct 10,State House,59,D,Under Votes,17
+Crook,Precinct 11,State House,59,D,Under Votes,99
+Crook,Precinct 12,State House,59,D,Under Votes,2
+Crook,Precinct 13,State House,59,D,Under Votes,27
+Crook,Precinct 14,State House,59,D,Under Votes,18
+Crook,Precinct 15,State House,59,D,Under Votes,37
+Crook,Precinct 16,State House,59,D,Under Votes,22
+Crook,Precinct 17,State House,59,D,Under Votes,117
+Crook,Precinct 2,State House,59,D,Under Votes,14
+Crook,Precinct 3,State House,59,D,Under Votes,8
+Crook,Precinct 4,State House,59,D,Under Votes,34
+Crook,Precinct 5,State House,59,D,Under Votes,81
+Crook,Precinct 6,State House,59,D,Under Votes,45
+Crook,Precinct 7,State House,59,D,Under Votes,6
+Crook,Precinct 8,State House,59,D,Under Votes,30
+Crook,Precinct 9,State House,59,D,Under Votes,4
 Crook,Precinct 1,State House,59,D,Write-ins,2
-Crook,Precinct 3,State House,59,D,Write-ins,29
-Crook,Precinct 5,State House,59,D,Write-ins,143
-Crook,Precinct 5,State House,59,R,Ann Blank,184
-Crook,Precinct 5,State House,59,R,Audra Oliver,70
-Crook,Precinct 5,State House,59,R,Barbara Fontaine,163
-Crook,Precinct 5,State House,59,R,Barbara L. Vieu,692
-Crook,Precinct 5,State House,59,R,Barbara Page Johnson,306
-Crook,Precinct 5,State House,59,R,Becky Cholin,328
-Crook,Precinct 1,State House,59,R,Brad Bartlett,127
-Crook,Precinct 5,State House,59,R,Brian K. Samp,240
-Crook,Precinct 5,State House,59,R,Bryan G. Iverson,235
-Crook,Precinct 5,State House,59,R,Calista Songstad,708
-Crook,Precinct 5,State House,59,R,Carol Dallas,69
-Crook,Precinct 5,State House,59,R,Chera M. Sowers,754
-Crook,Precinct 5,State House,59,R,Cynthia A. Harper,724
-Crook,Precinct 5,State House,59,R,Dale Keller,307
-Crook,Precinct 5,State House,59,R,Darlene Fishel,242
-Crook,Precinct 5,State House,59,R,David Clark Hale,148
-Crook,Precinct 5,State House,59,R,David W. Vieu,698
-Crook,Precinct 5,State House,59,R,Deborah M. Robison,250
-Crook,Precinct 5,State House,59,R,Debra A. Reister Karikas,419
-Crook,Precinct 5,State House,59,R,Deette (Dee) Coonse,242
-Crook,Precinct 5,State House,59,R,Denise Holznagel,426
-Crook,Precinct 1,State House,59,R,Diane Bartlett,105
-Crook,Precinct 5,State House,59,R,Dock L. Kerbow,483
-Crook,Precinct 5,State House,59,R,Donna Hammond,758
-Crook,Precinct 5,State House,59,R,Donna L. Dobin,423
-Crook,Precinct 5,State House,59,R,Eileen Obermiller,316
-Crook,Precinct 5,State House,59,R,Elizabeth Peer,174
-Crook,Precinct 5,State House,59,R,Ellen R. Nichol,318
-Crook,Precinct 1,State House,59,R,Ethan S. Meltzer,55
-Crook,Precinct 5,State House,59,R,Ethan S. Meltzer,55
-Crook,Precinct 5,State House,59,R,Frances L. Carter,242
-Crook,Precinct 5,State House,59,R,Garrett Stephens,460
-Crook,Precinct 5,State House,59,R,Gary Baker,306
-Crook,Precinct 5,State House,59,R,Gary Parn,272
-Crook,Precinct 5,State House,59,R,Hal E. Lawson,946
-Crook,Precinct 3,State House,59,R,Hannah Oliver,30
-Crook,Precinct 5,State House,59,R,Hannah Oliver,30
-Crook,Precinct 5,State House,59,R,JC Van Voorhees,98
-Crook,Precinct 5,State House,59,R,Jack R. Rabenberg,234
-Crook,Precinct 5,State House,59,R,Janet Herrmann,306
-Crook,Precinct 1,State House,59,R,Jeannette K. Holman,41
-Crook,Precinct 5,State House,59,R,Jeannette K. Holman,41
-Crook,Precinct 5,State House,59,R,Jennifer Winders,8
-Crook,Precinct 5,State House,59,R,Jerri Muir,122
-Crook,Precinct 1,State House,59,R,Jerry Cordova,29
-Crook,Precinct 5,State House,59,R,Jerry Cordova,29
-Crook,Precinct 5,State House,59,R,Jerry Muir,122
-Crook,Precinct 5,State House,59,R,Jim Verry,240
-Crook,Precinct 5,State House,59,R,Jodie Fleck,56
-Crook,Precinct 5,State House,59,R,Joel B. Komarek,316
-Crook,Precinct 5,State House,59,R,John Fleck,52
-Crook,Precinct 5,State House,59,R,John Tombleson,206
-Crook,Precinct 5,State House,59,R,Kara Becker,400
-Crook,Precinct 5,State House,59,R,Karen S. Rabenberg,216
-Crook,Precinct 5,State House,59,R,Karlene Richmond,246
-Crook,Precinct 5,State House,59,R,Kathy Clay,696
-Crook,Precinct 5,State House,59,R,Kim Duncan,254
-Crook,Precinct 1,State House,59,R,Kim Meltzer,58
-Crook,Precinct 5,State House,59,R,Kim Meltzer,58
-Crook,Precinct 5,State House,59,R,Laquita Stec,260
-Crook,Precinct 3,State House,59,R,Lawrence Jones,23
-Crook,Precinct 5,State House,59,R,Lawrence Jones,23
-Crook,Precinct 5,State House,59,R,Lexie Tombleson,190
-Crook,Precinct 5,State House,59,R,Margery Crawford,268
-Crook,Precinct 5,State House,59,R,Mark Maboll,54
-Crook,Precinct 5,State House,59,R,Mary E. Verry,122
-Crook,Precinct 5,State House,59,R,Mary E. Very,122
-Crook,Precinct 1,State House,59,R,Michelle E. Cordova,31
-Crook,Precinct 5,State House,59,R,Michelle E. Cordova,31
-Crook,Precinct 5,State House,59,R,Mike Ervin,233
-Crook,Precinct 3,State House,59,R,Nicole J. Kalk,29
-Crook,Precinct 5,State House,59,R,Nicole J. Kalk,29
+Crook,Precinct 10,State House,59,D,Write-ins,3
+Crook,Precinct 11,State House,59,D,Write-ins,7
+Crook,Precinct 12,State House,59,D,Write-ins,0
+Crook,Precinct 13,State House,59,D,Write-ins,3
+Crook,Precinct 14,State House,59,D,Write-ins,1
+Crook,Precinct 15,State House,59,D,Write-ins,3
+Crook,Precinct 16,State House,59,D,Write-ins,1
+Crook,Precinct 17,State House,59,D,Write-ins,3
+Crook,Precinct 2,State House,59,D,Write-ins,0
+Crook,Precinct 3,State House,59,D,Write-ins,2
+Crook,Precinct 4,State House,59,D,Write-ins,4
+Crook,Precinct 5,State House,59,D,Write-ins,1
+Crook,Precinct 6,State House,59,D,Write-ins,4
+Crook,Precinct 7,State House,59,D,Write-ins,1
+Crook,Precinct 8,State House,59,D,Write-ins,3
+Crook,Precinct 9,State House,59,D,Write-ins,0
 Crook,Precinct 1,State House,59,R,Over Votes,0
+Crook,Precinct 10,State House,59,R,Over Votes,0
+Crook,Precinct 11,State House,59,R,Over Votes,0
+Crook,Precinct 12,State House,59,R,Over Votes,0
+Crook,Precinct 13,State House,59,R,Over Votes,0
+Crook,Precinct 14,State House,59,R,Over Votes,0
+Crook,Precinct 15,State House,59,R,Over Votes,0
+Crook,Precinct 16,State House,59,R,Over Votes,0
+Crook,Precinct 17,State House,59,R,Over Votes,0
+Crook,Precinct 2,State House,59,R,Over Votes,0
 Crook,Precinct 3,State House,59,R,Over Votes,0
+Crook,Precinct 4,State House,59,R,Over Votes,0
 Crook,Precinct 5,State House,59,R,Over Votes,0
-Crook,Precinct 5,State House,59,R,Paul Luben Miller,172
-Crook,Precinct 5,State House,59,R,Paula Minetti-Maboll,60
-Crook,Precinct 5,State House,59,R,Priscilla Smith,60
-Crook,Precinct 5,State House,59,R,Ramona Lang,421
-Crook,Precinct 5,State House,59,R,Robert Sowers,754
-Crook,Precinct 5,State House,59,R,Robin L. Olson,964
-Crook,Precinct 5,State House,59,R,Roger Peer,170
-Crook,Precinct 5,State House,59,R,Ron Cholin,362
-Crook,Precinct 1,State House,59,R,Rosie Lynch,103
-Crook,Precinct 5,State House,59,R,Sandy Kerbow,466
-Crook,Precinct 5,State House,59,R,Sharon Cox,447
-Crook,Precinct 5,State House,59,R,Shasta Ramoss,156
-Crook,Precinct 5,State House,59,R,Shelley Lyda,178
-Crook,Precinct 1,State House,59,R,Steve Holman,36
-Crook,Precinct 5,State House,59,R,Steve Holman,36
-Crook,Precinct 5,State House,59,R,Susanne L. Walters-Mcore,229
-Crook,Precinct 5,State House,59,R,Teresa Ervin,229
-Crook,Precinct 5,State House,59,R,Thomas L. Robison,244
-Crook,Precinct 3,State House,59,R,Toni L. Thompson,28
-Crook,Precinct 5,State House,59,R,Toni L. Thompson,28
-Crook,Precinct 1,State House,59,R,Under Votes,434
-Crook,Precinct 3,State House,59,R,Under Votes,101
-Crook,Precinct 5,State House,59,R,Under Votes,71652
-Crook,Precinct 5,State House,59,R,Vikki Breese Iverson,327
-Crook,Precinct 1,State House,59,R,Vikki Breese-Iverson,246
+Crook,Precinct 6,State House,59,R,Over Votes,0
+Crook,Precinct 7,State House,59,R,Over Votes,0
+Crook,Precinct 8,State House,59,R,Over Votes,0
+Crook,Precinct 9,State House,59,R,Over Votes,0
+Crook,Precinct 1,State House,59,R,Under Votes,34
+Crook,Precinct 10,State House,59,R,Under Votes,23
+Crook,Precinct 11,State House,59,R,Under Votes,202
+Crook,Precinct 12,State House,59,R,Under Votes,17
+Crook,Precinct 13,State House,59,R,Under Votes,67
+Crook,Precinct 14,State House,59,R,Under Votes,31
+Crook,Precinct 15,State House,59,R,Under Votes,109
+Crook,Precinct 16,State House,59,R,Under Votes,48
+Crook,Precinct 17,State House,59,R,Under Votes,261
+Crook,Precinct 2,State House,59,R,Under Votes,14
+Crook,Precinct 3,State House,59,R,Under Votes,13
+Crook,Precinct 4,State House,59,R,Under Votes,90
+Crook,Precinct 5,State House,59,R,Under Votes,173
+Crook,Precinct 6,State House,59,R,Under Votes,63
+Crook,Precinct 7,State House,59,R,Under Votes,33
+Crook,Precinct 8,State House,59,R,Under Votes,41
+Crook,Precinct 9,State House,59,R,Under Votes,12
+Crook,Precinct 1,State House,59,R,Vikki Breese-Iverson,149
+Crook,Precinct 10,State House,59,R,Vikki Breese-Iverson,90
+Crook,Precinct 11,State House,59,R,Vikki Breese-Iverson,860
+Crook,Precinct 12,State House,59,R,Vikki Breese-Iverson,48
+Crook,Precinct 13,State House,59,R,Vikki Breese-Iverson,280
+Crook,Precinct 14,State House,59,R,Vikki Breese-Iverson,110
+Crook,Precinct 15,State House,59,R,Vikki Breese-Iverson,402
+Crook,Precinct 16,State House,59,R,Vikki Breese-Iverson,211
+Crook,Precinct 17,State House,59,R,Vikki Breese-Iverson,941
+Crook,Precinct 2,State House,59,R,Vikki Breese-Iverson,97
 Crook,Precinct 3,State House,59,R,Vikki Breese-Iverson,44
-Crook,Precinct 5,State House,59,R,Vikki Breese-Iverson,1773
-Crook,Precinct 5,State House,59,R,Vikki Breese-lverson,1181
-Crook,Precinct 5,State House,59,R,William J. Meltzer,219
-Crook,Precinct 1,State House,59,R,Write-ins,16
+Crook,Precinct 4,State House,59,R,Vikki Breese-Iverson,470
+Crook,Precinct 5,State House,59,R,Vikki Breese-Iverson,731
+Crook,Precinct 6,State House,59,R,Vikki Breese-Iverson,204
+Crook,Precinct 7,State House,59,R,Vikki Breese-Iverson,110
+Crook,Precinct 8,State House,59,R,Vikki Breese-Iverson,148
+Crook,Precinct 9,State House,59,R,Vikki Breese-Iverson,64
+Crook,Precinct 1,State House,59,R,Write-ins,3
+Crook,Precinct 10,State House,59,R,Write-ins,1
+Crook,Precinct 11,State House,59,R,Write-ins,15
+Crook,Precinct 12,State House,59,R,Write-ins,0
+Crook,Precinct 13,State House,59,R,Write-ins,1
+Crook,Precinct 14,State House,59,R,Write-ins,1
+Crook,Precinct 15,State House,59,R,Write-ins,6
+Crook,Precinct 16,State House,59,R,Write-ins,2
+Crook,Precinct 17,State House,59,R,Write-ins,11
+Crook,Precinct 2,State House,59,R,Write-ins,2
 Crook,Precinct 3,State House,59,R,Write-ins,0
-Crook,Precinct 5,State House,59,R,Write-ins,6344
-Crook,Precinct 1,U.S. House,2,D,Chris Beck,25
-Crook,Precinct 3,U.S. House,2,D,Chris Beck,34
-Crook,Precinct 5,U.S. House,2,D,Chris Beck,701
+Crook,Precinct 4,State House,59,R,Write-ins,4
+Crook,Precinct 5,State House,59,R,Write-ins,14
+Crook,Precinct 6,State House,59,R,Write-ins,4
+Crook,Precinct 7,State House,59,R,Write-ins,0
+Crook,Precinct 8,State House,59,R,Write-ins,3
+Crook,Precinct 9,State House,59,R,Write-ins,4
+Crook,Precinct 1,U.S. House,2,D,Chris Beck,15
+Crook,Precinct 10,U.S. House,2,D,Chris Beck,14
+Crook,Precinct 11,U.S. House,2,D,Chris Beck,76
+Crook,Precinct 12,U.S. House,2,D,Chris Beck,1
+Crook,Precinct 13,U.S. House,2,D,Chris Beck,13
+Crook,Precinct 14,U.S. House,2,D,Chris Beck,6
+Crook,Precinct 15,U.S. House,2,D,Chris Beck,26
+Crook,Precinct 16,U.S. House,2,D,Chris Beck,12
+Crook,Precinct 17,U.S. House,2,D,Chris Beck,63
+Crook,Precinct 2,U.S. House,2,D,Chris Beck,10
+Crook,Precinct 3,U.S. House,2,D,Chris Beck,10
+Crook,Precinct 4,U.S. House,2,D,Chris Beck,24
+Crook,Precinct 5,U.S. House,2,D,Chris Beck,55
+Crook,Precinct 6,U.S. House,2,D,Chris Beck,36
+Crook,Precinct 7,U.S. House,2,D,Chris Beck,2
+Crook,Precinct 8,U.S. House,2,D,Chris Beck,15
+Crook,Precinct 9,U.S. House,2,D,Chris Beck,2
 Crook,Precinct 1,U.S. House,2,D,Dawn Rasmussen,5
-Crook,Precinct 3,U.S. House,2,D,Dawn Rasmussen,14
-Crook,Precinct 5,U.S. House,2,D,Dawn Rasmussen,416
-Crook,Precinct 1,U.S. House,2,D,Mary Doyle,23
-Crook,Precinct 3,U.S. House,2,D,Mary Doyle,28
-Crook,Precinct 5,U.S. House,2,D,Mary Doyle,803
+Crook,Precinct 10,U.S. House,2,D,Dawn Rasmussen,7
+Crook,Precinct 11,U.S. House,2,D,Dawn Rasmussen,47
+Crook,Precinct 12,U.S. House,2,D,Dawn Rasmussen,1
+Crook,Precinct 13,U.S. House,2,D,Dawn Rasmussen,12
+Crook,Precinct 14,U.S. House,2,D,Dawn Rasmussen,7
+Crook,Precinct 15,U.S. House,2,D,Dawn Rasmussen,9
+Crook,Precinct 16,U.S. House,2,D,Dawn Rasmussen,3
+Crook,Precinct 17,U.S. House,2,D,Dawn Rasmussen,36
+Crook,Precinct 2,U.S. House,2,D,Dawn Rasmussen,8
+Crook,Precinct 3,U.S. House,2,D,Dawn Rasmussen,3
+Crook,Precinct 4,U.S. House,2,D,Dawn Rasmussen,11
+Crook,Precinct 5,U.S. House,2,D,Dawn Rasmussen,36
+Crook,Precinct 6,U.S. House,2,D,Dawn Rasmussen,23
+Crook,Precinct 7,U.S. House,2,D,Dawn Rasmussen,1
+Crook,Precinct 8,U.S. House,2,D,Dawn Rasmussen,11
+Crook,Precinct 9,U.S. House,2,D,Dawn Rasmussen,2
+Crook,Precinct 1,U.S. House,2,D,Mary Doyle,13
+Crook,Precinct 10,U.S. House,2,D,Mary Doyle,21
+Crook,Precinct 11,U.S. House,2,D,Mary Doyle,72
+Crook,Precinct 12,U.S. House,2,D,Mary Doyle,3
+Crook,Precinct 13,U.S. House,2,D,Mary Doyle,19
+Crook,Precinct 14,U.S. House,2,D,Mary Doyle,11
+Crook,Precinct 15,U.S. House,2,D,Mary Doyle,36
+Crook,Precinct 16,U.S. House,2,D,Mary Doyle,21
+Crook,Precinct 17,U.S. House,2,D,Mary Doyle,78
+Crook,Precinct 2,U.S. House,2,D,Mary Doyle,10
+Crook,Precinct 3,U.S. House,2,D,Mary Doyle,10
+Crook,Precinct 4,U.S. House,2,D,Mary Doyle,18
+Crook,Precinct 5,U.S. House,2,D,Mary Doyle,59
+Crook,Precinct 6,U.S. House,2,D,Mary Doyle,30
+Crook,Precinct 7,U.S. House,2,D,Mary Doyle,7
+Crook,Precinct 8,U.S. House,2,D,Mary Doyle,14
+Crook,Precinct 9,U.S. House,2,D,Mary Doyle,5
 Crook,Precinct 1,U.S. House,2,D,Over Votes,0
+Crook,Precinct 10,U.S. House,2,D,Over Votes,0
+Crook,Precinct 11,U.S. House,2,D,Over Votes,1
+Crook,Precinct 12,U.S. House,2,D,Over Votes,0
+Crook,Precinct 13,U.S. House,2,D,Over Votes,0
+Crook,Precinct 14,U.S. House,2,D,Over Votes,0
+Crook,Precinct 15,U.S. House,2,D,Over Votes,0
+Crook,Precinct 16,U.S. House,2,D,Over Votes,0
+Crook,Precinct 17,U.S. House,2,D,Over Votes,0
+Crook,Precinct 2,U.S. House,2,D,Over Votes,0
 Crook,Precinct 3,U.S. House,2,D,Over Votes,2
-Crook,Precinct 5,U.S. House,2,D,Over Votes,6
-Crook,Precinct 1,U.S. House,2,D,Patty Snow,12
-Crook,Precinct 3,U.S. House,2,D,Patty Snow,12
-Crook,Precinct 5,U.S. House,2,D,Patty Snow,260
+Crook,Precinct 4,U.S. House,2,D,Over Votes,0
+Crook,Precinct 5,U.S. House,2,D,Over Votes,1
+Crook,Precinct 6,U.S. House,2,D,Over Votes,0
+Crook,Precinct 7,U.S. House,2,D,Over Votes,0
+Crook,Precinct 8,U.S. House,2,D,Over Votes,0
+Crook,Precinct 9,U.S. House,2,D,Over Votes,0
+Crook,Precinct 1,U.S. House,2,D,Patty Snow,7
+Crook,Precinct 10,U.S. House,2,D,Patty Snow,8
+Crook,Precinct 11,U.S. House,2,D,Patty Snow,20
+Crook,Precinct 12,U.S. House,2,D,Patty Snow,0
+Crook,Precinct 13,U.S. House,2,D,Patty Snow,3
+Crook,Precinct 14,U.S. House,2,D,Patty Snow,3
+Crook,Precinct 15,U.S. House,2,D,Patty Snow,13
+Crook,Precinct 16,U.S. House,2,D,Patty Snow,3
+Crook,Precinct 17,U.S. House,2,D,Patty Snow,29
+Crook,Precinct 2,U.S. House,2,D,Patty Snow,5
+Crook,Precinct 3,U.S. House,2,D,Patty Snow,4
+Crook,Precinct 4,U.S. House,2,D,Patty Snow,8
+Crook,Precinct 5,U.S. House,2,D,Patty Snow,21
+Crook,Precinct 6,U.S. House,2,D,Patty Snow,13
+Crook,Precinct 7,U.S. House,2,D,Patty Snow,0
+Crook,Precinct 8,U.S. House,2,D,Patty Snow,5
+Crook,Precinct 9,U.S. House,2,D,Patty Snow,0
 Crook,Precinct 1,U.S. House,2,D,Peter Quince,6
-Crook,Precinct 3,U.S. House,2,D,Peter Quince,3
-Crook,Precinct 5,U.S. House,2,D,Peter Quince,98
-Crook,Precinct 1,U.S. House,2,D,Rebecca Mueller,8
-Crook,Precinct 3,U.S. House,2,D,Rebecca Mueller,20
-Crook,Precinct 5,U.S. House,2,D,Rebecca Mueller,310
+Crook,Precinct 10,U.S. House,2,D,Peter Quince,2
+Crook,Precinct 11,U.S. House,2,D,Peter Quince,4
+Crook,Precinct 12,U.S. House,2,D,Peter Quince,0
+Crook,Precinct 13,U.S. House,2,D,Peter Quince,1
+Crook,Precinct 14,U.S. House,2,D,Peter Quince,6
+Crook,Precinct 15,U.S. House,2,D,Peter Quince,6
+Crook,Precinct 16,U.S. House,2,D,Peter Quince,5
+Crook,Precinct 17,U.S. House,2,D,Peter Quince,8
+Crook,Precinct 2,U.S. House,2,D,Peter Quince,2
+Crook,Precinct 3,U.S. House,2,D,Peter Quince,1
+Crook,Precinct 4,U.S. House,2,D,Peter Quince,2
+Crook,Precinct 5,U.S. House,2,D,Peter Quince,6
+Crook,Precinct 6,U.S. House,2,D,Peter Quince,0
+Crook,Precinct 7,U.S. House,2,D,Peter Quince,3
+Crook,Precinct 8,U.S. House,2,D,Peter Quince,1
+Crook,Precinct 9,U.S. House,2,D,Peter Quince,3
+Crook,Precinct 1,U.S. House,2,D,Rebecca Mueller,4
+Crook,Precinct 10,U.S. House,2,D,Rebecca Mueller,6
+Crook,Precinct 11,U.S. House,2,D,Rebecca Mueller,32
+Crook,Precinct 12,U.S. House,2,D,Rebecca Mueller,1
+Crook,Precinct 13,U.S. House,2,D,Rebecca Mueller,7
+Crook,Precinct 14,U.S. House,2,D,Rebecca Mueller,4
+Crook,Precinct 15,U.S. House,2,D,Rebecca Mueller,16
+Crook,Precinct 16,U.S. House,2,D,Rebecca Mueller,8
+Crook,Precinct 17,U.S. House,2,D,Rebecca Mueller,24
+Crook,Precinct 2,U.S. House,2,D,Rebecca Mueller,4
+Crook,Precinct 3,U.S. House,2,D,Rebecca Mueller,7
+Crook,Precinct 4,U.S. House,2,D,Rebecca Mueller,13
+Crook,Precinct 5,U.S. House,2,D,Rebecca Mueller,25
+Crook,Precinct 6,U.S. House,2,D,Rebecca Mueller,14
+Crook,Precinct 7,U.S. House,2,D,Rebecca Mueller,0
+Crook,Precinct 8,U.S. House,2,D,Rebecca Mueller,2
+Crook,Precinct 9,U.S. House,2,D,Rebecca Mueller,2
 Crook,Precinct 1,U.S. House,2,D,Under Votes,6
+Crook,Precinct 10,U.S. House,2,D,Under Votes,9
+Crook,Precinct 11,U.S. House,2,D,Under Votes,36
+Crook,Precinct 12,U.S. House,2,D,Under Votes,1
+Crook,Precinct 13,U.S. House,2,D,Under Votes,12
+Crook,Precinct 14,U.S. House,2,D,Under Votes,7
+Crook,Precinct 15,U.S. House,2,D,Under Votes,24
+Crook,Precinct 16,U.S. House,2,D,Under Votes,7
+Crook,Precinct 17,U.S. House,2,D,Under Votes,49
+Crook,Precinct 2,U.S. House,2,D,Under Votes,8
 Crook,Precinct 3,U.S. House,2,D,Under Votes,5
-Crook,Precinct 5,U.S. House,2,D,Under Votes,434
+Crook,Precinct 4,U.S. House,2,D,Under Votes,12
+Crook,Precinct 5,U.S. House,2,D,Under Votes,37
+Crook,Precinct 6,U.S. House,2,D,Under Votes,10
+Crook,Precinct 7,U.S. House,2,D,Under Votes,4
+Crook,Precinct 8,U.S. House,2,D,Under Votes,7
+Crook,Precinct 9,U.S. House,2,D,Under Votes,1
 Crook,Precinct 1,U.S. House,2,D,Write-ins,1
-Crook,Precinct 3,U.S. House,2,D,Write-ins,2
-Crook,Precinct 5,U.S. House,2,D,Write-ins,45
-Crook,Precinct 1,U.S. House,2,R,Andrea Carr,17
-Crook,Precinct 3,U.S. House,2,R,Andrea Carr,30
-Crook,Precinct 5,U.S. House,2,R,Andrea Carr,604
-Crook,Precinct 1,U.S. House,2,R,Cliff Bentz,182
-Crook,Precinct 3,U.S. House,2,R,Cliff Bentz,460
-Crook,Precinct 5,U.S. House,2,R,Cliff Bentz,7001
+Crook,Precinct 10,U.S. House,2,D,Write-ins,0
+Crook,Precinct 11,U.S. House,2,D,Write-ins,5
+Crook,Precinct 12,U.S. House,2,D,Write-ins,0
+Crook,Precinct 13,U.S. House,2,D,Write-ins,3
+Crook,Precinct 14,U.S. House,2,D,Write-ins,0
+Crook,Precinct 15,U.S. House,2,D,Write-ins,2
+Crook,Precinct 16,U.S. House,2,D,Write-ins,2
+Crook,Precinct 17,U.S. House,2,D,Write-ins,4
+Crook,Precinct 2,U.S. House,2,D,Write-ins,0
+Crook,Precinct 3,U.S. House,2,D,Write-ins,0
+Crook,Precinct 4,U.S. House,2,D,Write-ins,2
+Crook,Precinct 5,U.S. House,2,D,Write-ins,1
+Crook,Precinct 6,U.S. House,2,D,Write-ins,2
+Crook,Precinct 7,U.S. House,2,D,Write-ins,0
+Crook,Precinct 8,U.S. House,2,D,Write-ins,2
+Crook,Precinct 9,U.S. House,2,D,Write-ins,0
+Crook,Precinct 1,U.S. House,2,R,Andrea Carr,7
+Crook,Precinct 10,U.S. House,2,R,Andrea Carr,10
+Crook,Precinct 11,U.S. House,2,R,Andrea Carr,40
+Crook,Precinct 12,U.S. House,2,R,Andrea Carr,4
+Crook,Precinct 13,U.S. House,2,R,Andrea Carr,22
+Crook,Precinct 14,U.S. House,2,R,Andrea Carr,17
+Crook,Precinct 15,U.S. House,2,R,Andrea Carr,33
+Crook,Precinct 16,U.S. House,2,R,Andrea Carr,13
+Crook,Precinct 17,U.S. House,2,R,Andrea Carr,57
+Crook,Precinct 2,U.S. House,2,R,Andrea Carr,10
+Crook,Precinct 3,U.S. House,2,R,Andrea Carr,4
+Crook,Precinct 4,U.S. House,2,R,Andrea Carr,26
+Crook,Precinct 5,U.S. House,2,R,Andrea Carr,63
+Crook,Precinct 6,U.S. House,2,R,Andrea Carr,19
+Crook,Precinct 7,U.S. House,2,R,Andrea Carr,6
+Crook,Precinct 8,U.S. House,2,R,Andrea Carr,15
+Crook,Precinct 9,U.S. House,2,R,Andrea Carr,6
+Crook,Precinct 1,U.S. House,2,R,Cliff Bentz,118
+Crook,Precinct 10,U.S. House,2,R,Cliff Bentz,73
+Crook,Precinct 11,U.S. House,2,R,Cliff Bentz,801
+Crook,Precinct 12,U.S. House,2,R,Cliff Bentz,44
+Crook,Precinct 13,U.S. House,2,R,Cliff Bentz,235
+Crook,Precinct 14,U.S. House,2,R,Cliff Bentz,87
+Crook,Precinct 15,U.S. House,2,R,Cliff Bentz,362
+Crook,Precinct 16,U.S. House,2,R,Cliff Bentz,192
+Crook,Precinct 17,U.S. House,2,R,Cliff Bentz,806
+Crook,Precinct 2,U.S. House,2,R,Cliff Bentz,64
+Crook,Precinct 3,U.S. House,2,R,Cliff Bentz,35
+Crook,Precinct 4,U.S. House,2,R,Cliff Bentz,425
+Crook,Precinct 5,U.S. House,2,R,Cliff Bentz,614
+Crook,Precinct 6,U.S. House,2,R,Cliff Bentz,181
+Crook,Precinct 7,U.S. House,2,R,Cliff Bentz,106
+Crook,Precinct 8,U.S. House,2,R,Cliff Bentz,118
+Crook,Precinct 9,U.S. House,2,R,Cliff Bentz,57
 Crook,Precinct 1,U.S. House,2,R,Over Votes,2
+Crook,Precinct 10,U.S. House,2,R,Over Votes,0
+Crook,Precinct 11,U.S. House,2,R,Over Votes,0
+Crook,Precinct 12,U.S. House,2,R,Over Votes,0
+Crook,Precinct 13,U.S. House,2,R,Over Votes,0
+Crook,Precinct 14,U.S. House,2,R,Over Votes,0
+Crook,Precinct 15,U.S. House,2,R,Over Votes,0
+Crook,Precinct 16,U.S. House,2,R,Over Votes,0
+Crook,Precinct 17,U.S. House,2,R,Over Votes,0
+Crook,Precinct 2,U.S. House,2,R,Over Votes,0
 Crook,Precinct 3,U.S. House,2,R,Over Votes,0
-Crook,Precinct 5,U.S. House,2,R,Over Votes,4
-Crook,Precinct 1,U.S. House,2,R,Peter J. Larson,62
-Crook,Precinct 3,U.S. House,2,R,Peter J. Larson,59
-Crook,Precinct 5,U.S. House,2,R,Peter J. Larson,1354
-Crook,Precinct 1,U.S. House,2,R,Under Votes,36
-Crook,Precinct 3,U.S. House,2,R,Under Votes,70
-Crook,Precinct 5,U.S. House,2,R,Under Votes,1378
+Crook,Precinct 4,U.S. House,2,R,Over Votes,0
+Crook,Precinct 5,U.S. House,2,R,Over Votes,1
+Crook,Precinct 6,U.S. House,2,R,Over Votes,0
+Crook,Precinct 7,U.S. House,2,R,Over Votes,0
+Crook,Precinct 8,U.S. House,2,R,Over Votes,0
+Crook,Precinct 9,U.S. House,2,R,Over Votes,0
+Crook,Precinct 1,U.S. House,2,R,Peter J. Larson,37
+Crook,Precinct 10,U.S. House,2,R,Peter J. Larson,12
+Crook,Precinct 11,U.S. House,2,R,Peter J. Larson,112
+Crook,Precinct 12,U.S. House,2,R,Peter J. Larson,10
+Crook,Precinct 13,U.S. House,2,R,Peter J. Larson,52
+Crook,Precinct 14,U.S. House,2,R,Peter J. Larson,20
+Crook,Precinct 15,U.S. House,2,R,Peter J. Larson,65
+Crook,Precinct 16,U.S. House,2,R,Peter J. Larson,27
+Crook,Precinct 17,U.S. House,2,R,Peter J. Larson,169
+Crook,Precinct 2,U.S. House,2,R,Peter J. Larson,25
+Crook,Precinct 3,U.S. House,2,R,Peter J. Larson,6
+Crook,Precinct 4,U.S. House,2,R,Peter J. Larson,53
+Crook,Precinct 5,U.S. House,2,R,Peter J. Larson,133
+Crook,Precinct 6,U.S. House,2,R,Peter J. Larson,31
+Crook,Precinct 7,U.S. House,2,R,Peter J. Larson,17
+Crook,Precinct 8,U.S. House,2,R,Peter J. Larson,29
+Crook,Precinct 9,U.S. House,2,R,Peter J. Larson,9
+Crook,Precinct 1,U.S. House,2,R,Under Votes,22
+Crook,Precinct 10,U.S. House,2,R,Under Votes,19
+Crook,Precinct 11,U.S. House,2,R,Under Votes,121
+Crook,Precinct 12,U.S. House,2,R,Under Votes,7
+Crook,Precinct 13,U.S. House,2,R,Under Votes,39
+Crook,Precinct 14,U.S. House,2,R,Under Votes,17
+Crook,Precinct 15,U.S. House,2,R,Under Votes,56
+Crook,Precinct 16,U.S. House,2,R,Under Votes,29
+Crook,Precinct 17,U.S. House,2,R,Under Votes,170
+Crook,Precinct 2,U.S. House,2,R,Under Votes,14
+Crook,Precinct 3,U.S. House,2,R,Under Votes,12
+Crook,Precinct 4,U.S. House,2,R,Under Votes,58
+Crook,Precinct 5,U.S. House,2,R,Under Votes,105
+Crook,Precinct 6,U.S. House,2,R,Under Votes,39
+Crook,Precinct 7,U.S. House,2,R,Under Votes,14
+Crook,Precinct 8,U.S. House,2,R,Under Votes,28
+Crook,Precinct 9,U.S. House,2,R,Under Votes,7
 Crook,Precinct 1,U.S. House,2,R,Write-ins,0
-Crook,Precinct 3,U.S. House,2,R,Write-ins,2
-Crook,Precinct 5,U.S. House,2,R,Write-ins,55
-Crook,Precinct 1,U.S. Senate,,D,Jeff Merkley,84
+Crook,Precinct 10,U.S. House,2,R,Write-ins,0
+Crook,Precinct 11,U.S. House,2,R,Write-ins,3
+Crook,Precinct 12,U.S. House,2,R,Write-ins,0
+Crook,Precinct 13,U.S. House,2,R,Write-ins,1
+Crook,Precinct 14,U.S. House,2,R,Write-ins,1
+Crook,Precinct 15,U.S. House,2,R,Write-ins,1
+Crook,Precinct 16,U.S. House,2,R,Write-ins,0
+Crook,Precinct 17,U.S. House,2,R,Write-ins,11
+Crook,Precinct 2,U.S. House,2,R,Write-ins,0
+Crook,Precinct 3,U.S. House,2,R,Write-ins,0
+Crook,Precinct 4,U.S. House,2,R,Write-ins,2
+Crook,Precinct 5,U.S. House,2,R,Write-ins,2
+Crook,Precinct 6,U.S. House,2,R,Write-ins,1
+Crook,Precinct 7,U.S. House,2,R,Write-ins,0
+Crook,Precinct 8,U.S. House,2,R,Write-ins,2
+Crook,Precinct 9,U.S. House,2,R,Write-ins,1
+Crook,Precinct 1,U.S. Senate,,D,Jeff Merkley,48
+Crook,Precinct 10,U.S. Senate,,D,Jeff Merkley,54
+Crook,Precinct 11,U.S. Senate,,D,Jeff Merkley,252
+Crook,Precinct 12,U.S. Senate,,D,Jeff Merkley,2
+Crook,Precinct 13,U.S. Senate,,D,Jeff Merkley,56
+Crook,Precinct 14,U.S. Senate,,D,Jeff Merkley,37
+Crook,Precinct 15,U.S. Senate,,D,Jeff Merkley,104
+Crook,Precinct 16,U.S. Senate,,D,Jeff Merkley,52
+Crook,Precinct 17,U.S. Senate,,D,Jeff Merkley,232
+Crook,Precinct 2,U.S. Senate,,D,Jeff Merkley,36
 Crook,Precinct 3,U.S. Senate,,D,Jeff Merkley,33
-Crook,Precinct 5,U.S. Senate,,D,Jeff Merkley,1118
+Crook,Precinct 4,U.S. Senate,,D,Jeff Merkley,67
+Crook,Precinct 5,U.S. Senate,,D,Jeff Merkley,207
+Crook,Precinct 6,U.S. Senate,,D,Jeff Merkley,109
+Crook,Precinct 7,U.S. Senate,,D,Jeff Merkley,12
+Crook,Precinct 8,U.S. Senate,,D,Jeff Merkley,40
+Crook,Precinct 9,U.S. Senate,,D,Jeff Merkley,13
 Crook,Precinct 1,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 10,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 11,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 12,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 13,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 14,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 15,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 16,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 17,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 2,U.S. Senate,,D,Over Votes,0
 Crook,Precinct 3,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 4,U.S. Senate,,D,Over Votes,0
 Crook,Precinct 5,U.S. Senate,,D,Over Votes,0
-Crook,Precinct 1,U.S. Senate,,D,Paul Damian Wells,16
+Crook,Precinct 6,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 7,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 8,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 9,U.S. Senate,,D,Over Votes,0
+Crook,Precinct 1,U.S. Senate,,D,Paul Damian Wells,7
+Crook,Precinct 10,U.S. Senate,,D,Paul Damian Wells,8
+Crook,Precinct 11,U.S. Senate,,D,Paul Damian Wells,24
+Crook,Precinct 12,U.S. Senate,,D,Paul Damian Wells,4
+Crook,Precinct 13,U.S. Senate,,D,Paul Damian Wells,7
+Crook,Precinct 14,U.S. Senate,,D,Paul Damian Wells,4
+Crook,Precinct 15,U.S. Senate,,D,Paul Damian Wells,15
+Crook,Precinct 16,U.S. Senate,,D,Paul Damian Wells,6
+Crook,Precinct 17,U.S. Senate,,D,Paul Damian Wells,45
+Crook,Precinct 2,U.S. Senate,,D,Paul Damian Wells,9
 Crook,Precinct 3,U.S. Senate,,D,Paul Damian Wells,6
-Crook,Precinct 5,U.S. Senate,,D,Paul Damian Wells,148
-Crook,Precinct 1,U.S. Senate,,D,Under Votes,3
+Crook,Precinct 4,U.S. Senate,,D,Paul Damian Wells,15
+Crook,Precinct 5,U.S. Senate,,D,Paul Damian Wells,21
+Crook,Precinct 6,U.S. Senate,,D,Paul Damian Wells,11
+Crook,Precinct 7,U.S. Senate,,D,Paul Damian Wells,2
+Crook,Precinct 8,U.S. Senate,,D,Paul Damian Wells,9
+Crook,Precinct 9,U.S. Senate,,D,Paul Damian Wells,1
+Crook,Precinct 1,U.S. Senate,,D,Under Votes,1
+Crook,Precinct 10,U.S. Senate,,D,Under Votes,5
+Crook,Precinct 11,U.S. Senate,,D,Under Votes,11
+Crook,Precinct 12,U.S. Senate,,D,Under Votes,1
+Crook,Precinct 13,U.S. Senate,,D,Under Votes,3
+Crook,Precinct 14,U.S. Senate,,D,Under Votes,2
+Crook,Precinct 15,U.S. Senate,,D,Under Votes,12
+Crook,Precinct 16,U.S. Senate,,D,Under Votes,1
+Crook,Precinct 17,U.S. Senate,,D,Under Votes,12
+Crook,Precinct 2,U.S. Senate,,D,Under Votes,2
 Crook,Precinct 3,U.S. Senate,,D,Under Votes,3
-Crook,Precinct 5,U.S. Senate,,D,Under Votes,42
+Crook,Precinct 4,U.S. Senate,,D,Under Votes,5
+Crook,Precinct 5,U.S. Senate,,D,Under Votes,12
+Crook,Precinct 6,U.S. Senate,,D,Under Votes,6
+Crook,Precinct 7,U.S. Senate,,D,Under Votes,3
+Crook,Precinct 8,U.S. Senate,,D,Under Votes,5
+Crook,Precinct 9,U.S. Senate,,D,Under Votes,1
 Crook,Precinct 1,U.S. Senate,,D,Write-ins,1
+Crook,Precinct 10,U.S. Senate,,D,Write-ins,0
+Crook,Precinct 11,U.S. Senate,,D,Write-ins,6
+Crook,Precinct 12,U.S. Senate,,D,Write-ins,0
+Crook,Precinct 13,U.S. Senate,,D,Write-ins,4
+Crook,Precinct 14,U.S. Senate,,D,Write-ins,1
+Crook,Precinct 15,U.S. Senate,,D,Write-ins,1
+Crook,Precinct 16,U.S. Senate,,D,Write-ins,2
+Crook,Precinct 17,U.S. Senate,,D,Write-ins,2
+Crook,Precinct 2,U.S. Senate,,D,Write-ins,0
 Crook,Precinct 3,U.S. Senate,,D,Write-ins,0
-Crook,Precinct 5,U.S. Senate,,D,Write-ins,16
-Crook,Precinct 1,U.S. Senate,,R,Brent Barker,54
-Crook,Precinct 3,U.S. Senate,,R,Brent Barker,111
-Crook,Precinct 5,U.S. Senate,,R,Brent Barker,2251
-Crook,Precinct 1,U.S. Senate,,R,David A. Burch,7
-Crook,Precinct 3,U.S. Senate,,R,David A. Burch,9
-Crook,Precinct 5,U.S. Senate,,R,David A. Burch,228
-Crook,Precinct 1,U.S. Senate,,R,David Brock Smith,70
-Crook,Precinct 3,U.S. Senate,,R,David Brock Smith,174
-Crook,Precinct 5,U.S. Senate,,R,David Brock Smith,2704
-Crook,Precinct 1,U.S. Senate,,R,Deborah C. Brown,13
-Crook,Precinct 3,U.S. Senate,,R,Deborah C. Brown,19
-Crook,Precinct 5,U.S. Senate,,R,Deborah C. Brown,418
-Crook,Precinct 1,U.S. Senate,,R,Jo Rae Perkins,80
-Crook,Precinct 3,U.S. Senate,,R,Jo Rae Perkins,140
-Crook,Precinct 5,U.S. Senate,,R,Jo Rae Perkins,3034
+Crook,Precinct 4,U.S. Senate,,D,Write-ins,3
+Crook,Precinct 5,U.S. Senate,,D,Write-ins,1
+Crook,Precinct 6,U.S. Senate,,D,Write-ins,2
+Crook,Precinct 7,U.S. Senate,,D,Write-ins,0
+Crook,Precinct 8,U.S. Senate,,D,Write-ins,3
+Crook,Precinct 9,U.S. Senate,,D,Write-ins,0
+Crook,Precinct 1,U.S. Senate,,R,Brent Barker,34
+Crook,Precinct 10,U.S. Senate,,R,Brent Barker,24
+Crook,Precinct 11,U.S. Senate,,R,Brent Barker,225
+Crook,Precinct 12,U.S. Senate,,R,Brent Barker,13
+Crook,Precinct 13,U.S. Senate,,R,Brent Barker,58
+Crook,Precinct 14,U.S. Senate,,R,Brent Barker,19
+Crook,Precinct 15,U.S. Senate,,R,Brent Barker,107
+Crook,Precinct 16,U.S. Senate,,R,Brent Barker,49
+Crook,Precinct 17,U.S. Senate,,R,Brent Barker,234
+Crook,Precinct 2,U.S. Senate,,R,Brent Barker,20
+Crook,Precinct 3,U.S. Senate,,R,Brent Barker,8
+Crook,Precinct 4,U.S. Senate,,R,Brent Barker,103
+Crook,Precinct 5,U.S. Senate,,R,Brent Barker,185
+Crook,Precinct 6,U.S. Senate,,R,Brent Barker,51
+Crook,Precinct 7,U.S. Senate,,R,Brent Barker,27
+Crook,Precinct 8,U.S. Senate,,R,Brent Barker,41
+Crook,Precinct 9,U.S. Senate,,R,Brent Barker,10
+Crook,Precinct 1,U.S. Senate,,R,David A. Burch,4
+Crook,Precinct 10,U.S. Senate,,R,David A. Burch,3
+Crook,Precinct 11,U.S. Senate,,R,David A. Burch,14
+Crook,Precinct 12,U.S. Senate,,R,David A. Burch,0
+Crook,Precinct 13,U.S. Senate,,R,David A. Burch,9
+Crook,Precinct 14,U.S. Senate,,R,David A. Burch,2
+Crook,Precinct 15,U.S. Senate,,R,David A. Burch,9
+Crook,Precinct 16,U.S. Senate,,R,David A. Burch,9
+Crook,Precinct 17,U.S. Senate,,R,David A. Burch,34
+Crook,Precinct 2,U.S. Senate,,R,David A. Burch,3
+Crook,Precinct 3,U.S. Senate,,R,David A. Burch,0
+Crook,Precinct 4,U.S. Senate,,R,David A. Burch,9
+Crook,Precinct 5,U.S. Senate,,R,David A. Burch,15
+Crook,Precinct 6,U.S. Senate,,R,David A. Burch,6
+Crook,Precinct 7,U.S. Senate,,R,David A. Burch,0
+Crook,Precinct 8,U.S. Senate,,R,David A. Burch,4
+Crook,Precinct 9,U.S. Senate,,R,David A. Burch,1
+Crook,Precinct 1,U.S. Senate,,R,David Brock Smith,41
+Crook,Precinct 10,U.S. Senate,,R,David Brock Smith,23
+Crook,Precinct 11,U.S. Senate,,R,David Brock Smith,269
+Crook,Precinct 12,U.S. Senate,,R,David Brock Smith,14
+Crook,Precinct 13,U.S. Senate,,R,David Brock Smith,74
+Crook,Precinct 14,U.S. Senate,,R,David Brock Smith,38
+Crook,Precinct 15,U.S. Senate,,R,David Brock Smith,112
+Crook,Precinct 16,U.S. Senate,,R,David Brock Smith,62
+Crook,Precinct 17,U.S. Senate,,R,David Brock Smith,269
+Crook,Precinct 2,U.S. Senate,,R,David Brock Smith,29
+Crook,Precinct 3,U.S. Senate,,R,David Brock Smith,15
+Crook,Precinct 4,U.S. Senate,,R,David Brock Smith,159
+Crook,Precinct 5,U.S. Senate,,R,David Brock Smith,209
+Crook,Precinct 6,U.S. Senate,,R,David Brock Smith,59
+Crook,Precinct 7,U.S. Senate,,R,David Brock Smith,33
+Crook,Precinct 8,U.S. Senate,,R,David Brock Smith,40
+Crook,Precinct 9,U.S. Senate,,R,David Brock Smith,28
+Crook,Precinct 1,U.S. Senate,,R,Deborah C. Brown,8
+Crook,Precinct 10,U.S. Senate,,R,Deborah C. Brown,5
+Crook,Precinct 11,U.S. Senate,,R,Deborah C. Brown,33
+Crook,Precinct 12,U.S. Senate,,R,Deborah C. Brown,1
+Crook,Precinct 13,U.S. Senate,,R,Deborah C. Brown,12
+Crook,Precinct 14,U.S. Senate,,R,Deborah C. Brown,6
+Crook,Precinct 15,U.S. Senate,,R,Deborah C. Brown,24
+Crook,Precinct 16,U.S. Senate,,R,Deborah C. Brown,9
+Crook,Precinct 17,U.S. Senate,,R,Deborah C. Brown,43
+Crook,Precinct 2,U.S. Senate,,R,Deborah C. Brown,5
+Crook,Precinct 3,U.S. Senate,,R,Deborah C. Brown,6
+Crook,Precinct 4,U.S. Senate,,R,Deborah C. Brown,13
+Crook,Precinct 5,U.S. Senate,,R,Deborah C. Brown,50
+Crook,Precinct 6,U.S. Senate,,R,Deborah C. Brown,6
+Crook,Precinct 7,U.S. Senate,,R,Deborah C. Brown,0
+Crook,Precinct 8,U.S. Senate,,R,Deborah C. Brown,3
+Crook,Precinct 9,U.S. Senate,,R,Deborah C. Brown,1
+Crook,Precinct 1,U.S. Senate,,R,Jo Rae Perkins,51
+Crook,Precinct 10,U.S. Senate,,R,Jo Rae Perkins,30
+Crook,Precinct 11,U.S. Senate,,R,Jo Rae Perkins,262
+Crook,Precinct 12,U.S. Senate,,R,Jo Rae Perkins,16
+Crook,Precinct 13,U.S. Senate,,R,Jo Rae Perkins,101
+Crook,Precinct 14,U.S. Senate,,R,Jo Rae Perkins,33
+Crook,Precinct 15,U.S. Senate,,R,Jo Rae Perkins,152
+Crook,Precinct 16,U.S. Senate,,R,Jo Rae Perkins,73
+Crook,Precinct 17,U.S. Senate,,R,Jo Rae Perkins,335
+Crook,Precinct 2,U.S. Senate,,R,Jo Rae Perkins,29
+Crook,Precinct 3,U.S. Senate,,R,Jo Rae Perkins,8
+Crook,Precinct 4,U.S. Senate,,R,Jo Rae Perkins,132
+Crook,Precinct 5,U.S. Senate,,R,Jo Rae Perkins,224
+Crook,Precinct 6,U.S. Senate,,R,Jo Rae Perkins,73
+Crook,Precinct 7,U.S. Senate,,R,Jo Rae Perkins,45
+Crook,Precinct 8,U.S. Senate,,R,Jo Rae Perkins,48
+Crook,Precinct 9,U.S. Senate,,R,Jo Rae Perkins,15
 Crook,Precinct 1,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 10,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 11,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 12,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 13,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 14,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 15,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 16,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 17,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 2,U.S. Senate,,R,Over Votes,0
 Crook,Precinct 3,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 4,U.S. Senate,,R,Over Votes,0
 Crook,Precinct 5,U.S. Senate,,R,Over Votes,0
-Crook,Precinct 1,U.S. Senate,,R,Russell McAlmond,28
-Crook,Precinct 3,U.S. Senate,,R,Russell McAlmond,50
-Crook,Precinct 5,U.S. Senate,,R,Russell McAlmond,1000
-Crook,Precinct 1,U.S. Senate,,R,Timothy Skelton,2
-Crook,Precinct 3,U.S. Senate,,R,Timothy Skelton,11
-Crook,Precinct 5,U.S. Senate,,R,Timothy Skelton,187
-Crook,Precinct 1,U.S. Senate,,R,Under Votes,44
-Crook,Precinct 3,U.S. Senate,,R,Under Votes,104
-Crook,Precinct 5,U.S. Senate,,R,Under Votes,1611
-Crook,Precinct 1,U.S. Senate,,R,Write-ins,1
-Crook,Precinct 3,U.S. Senate,,R,Write-ins,3
-Crook,Precinct 5,U.S. Senate,,R,Write-ins,48
+Crook,Precinct 6,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 7,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 8,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 9,U.S. Senate,,R,Over Votes,0
+Crook,Precinct 1,U.S. Senate,,R,Russell McAlmond,16
+Crook,Precinct 10,U.S. Senate,,R,Russell McAlmond,10
+Crook,Precinct 11,U.S. Senate,,R,Russell McAlmond,105
+Crook,Precinct 12,U.S. Senate,,R,Russell McAlmond,7
+Crook,Precinct 13,U.S. Senate,,R,Russell McAlmond,31
+Crook,Precinct 14,U.S. Senate,,R,Russell McAlmond,17
+Crook,Precinct 15,U.S. Senate,,R,Russell McAlmond,43
+Crook,Precinct 16,U.S. Senate,,R,Russell McAlmond,24
+Crook,Precinct 17,U.S. Senate,,R,Russell McAlmond,95
+Crook,Precinct 2,U.S. Senate,,R,Russell McAlmond,12
+Crook,Precinct 3,U.S. Senate,,R,Russell McAlmond,3
+Crook,Precinct 4,U.S. Senate,,R,Russell McAlmond,47
+Crook,Precinct 5,U.S. Senate,,R,Russell McAlmond,78
+Crook,Precinct 6,U.S. Senate,,R,Russell McAlmond,18
+Crook,Precinct 7,U.S. Senate,,R,Russell McAlmond,11
+Crook,Precinct 8,U.S. Senate,,R,Russell McAlmond,10
+Crook,Precinct 9,U.S. Senate,,R,Russell McAlmond,12
+Crook,Precinct 1,U.S. Senate,,R,Timothy Skelton,1
+Crook,Precinct 10,U.S. Senate,,R,Timothy Skelton,1
+Crook,Precinct 11,U.S. Senate,,R,Timothy Skelton,17
+Crook,Precinct 12,U.S. Senate,,R,Timothy Skelton,0
+Crook,Precinct 13,U.S. Senate,,R,Timothy Skelton,5
+Crook,Precinct 14,U.S. Senate,,R,Timothy Skelton,4
+Crook,Precinct 15,U.S. Senate,,R,Timothy Skelton,6
+Crook,Precinct 16,U.S. Senate,,R,Timothy Skelton,2
+Crook,Precinct 17,U.S. Senate,,R,Timothy Skelton,24
+Crook,Precinct 2,U.S. Senate,,R,Timothy Skelton,1
+Crook,Precinct 3,U.S. Senate,,R,Timothy Skelton,2
+Crook,Precinct 4,U.S. Senate,,R,Timothy Skelton,9
+Crook,Precinct 5,U.S. Senate,,R,Timothy Skelton,15
+Crook,Precinct 6,U.S. Senate,,R,Timothy Skelton,7
+Crook,Precinct 7,U.S. Senate,,R,Timothy Skelton,0
+Crook,Precinct 8,U.S. Senate,,R,Timothy Skelton,5
+Crook,Precinct 9,U.S. Senate,,R,Timothy Skelton,1
+Crook,Precinct 1,U.S. Senate,,R,Under Votes,31
+Crook,Precinct 10,U.S. Senate,,R,Under Votes,18
+Crook,Precinct 11,U.S. Senate,,R,Under Votes,146
+Crook,Precinct 12,U.S. Senate,,R,Under Votes,12
+Crook,Precinct 13,U.S. Senate,,R,Under Votes,59
+Crook,Precinct 14,U.S. Senate,,R,Under Votes,23
+Crook,Precinct 15,U.S. Senate,,R,Under Votes,64
+Crook,Precinct 16,U.S. Senate,,R,Under Votes,33
+Crook,Precinct 17,U.S. Senate,,R,Under Votes,173
+Crook,Precinct 2,U.S. Senate,,R,Under Votes,13
+Crook,Precinct 3,U.S. Senate,,R,Under Votes,15
+Crook,Precinct 4,U.S. Senate,,R,Under Votes,89
+Crook,Precinct 5,U.S. Senate,,R,Under Votes,138
+Crook,Precinct 6,U.S. Senate,,R,Under Votes,50
+Crook,Precinct 7,U.S. Senate,,R,Under Votes,26
+Crook,Precinct 8,U.S. Senate,,R,Under Votes,39
+Crook,Precinct 9,U.S. Senate,,R,Under Votes,12
+Crook,Precinct 1,U.S. Senate,,R,Write-ins,0
+Crook,Precinct 10,U.S. Senate,,R,Write-ins,0
+Crook,Precinct 11,U.S. Senate,,R,Write-ins,6
+Crook,Precinct 12,U.S. Senate,,R,Write-ins,2
+Crook,Precinct 13,U.S. Senate,,R,Write-ins,0
+Crook,Precinct 14,U.S. Senate,,R,Write-ins,0
+Crook,Precinct 15,U.S. Senate,,R,Write-ins,0
+Crook,Precinct 16,U.S. Senate,,R,Write-ins,0
+Crook,Precinct 17,U.S. Senate,,R,Write-ins,6
+Crook,Precinct 2,U.S. Senate,,R,Write-ins,1
+Crook,Precinct 3,U.S. Senate,,R,Write-ins,0
+Crook,Precinct 4,U.S. Senate,,R,Write-ins,3
+Crook,Precinct 5,U.S. Senate,,R,Write-ins,4
+Crook,Precinct 6,U.S. Senate,,R,Write-ins,1
+Crook,Precinct 7,U.S. Senate,,R,Write-ins,1
+Crook,Precinct 8,U.S. Senate,,R,Write-ins,2
+Crook,Precinct 9,U.S. Senate,,R,Write-ins,0
