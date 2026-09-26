@@ -70,7 +70,7 @@ with open('20160517__or__primary__union__precinct.csv', 'wb') as csvfile:
             else:
                 try:
                     cand_and_party, votes, pct = cand_bits
-                except:
+                except (KeyError, IndexError, ValueError):
                     continue
             if "(" in cand_and_party:
                 candidate, party = [x.strip() for x in cand_and_party.split('(')]
